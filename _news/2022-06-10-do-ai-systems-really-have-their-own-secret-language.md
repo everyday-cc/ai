@@ -34,20 +34,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Do AI systems really have their own secret language?"
-    excerpt: "Snoswell is a post-doctoral research fellow in Computational Law & AI Accountability at Queensland ... You may recall the hullabaloo in 2017 over some Facebook chat-bots that “invented their ..."
-    publishedDateTime: 2022-06-07T00:28:00Z
-    webUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg"
-        width: 1420
-        height: 800
-        isCached: true
 
 secured: "tCx2SjBVfKOHwgsVNz60Eh3ApwrKiAyCUhBayKEcJH3BuWcHfs9mlW2GZOrrSl0PBngwhxWRTJ4rAAxiZPOo/BpxEUWOrKrkM5zgCou2rIFj2q3zgNMRDCvp1x/TSWOFUYdS94t9QaHT8oZ1WZGDQHZfvM7RwT9g/sCHX5BOrddt3qmjYSyqB1MTc6t3oV7WeYR7UEbiv9tTAAyOM6fjcbKRZdlXEagqCPShNL/3pC/BDAMAJu+nU2ZoBGei1XyhyKOMArPVJgN3/1RsxLPQAiU1OH7umL/tfo058HtZ3XWpCCUsKo+h/LjU6KOjXUejaziWIR39qJE+BZ8zRYgl+xPjn6uYCTbRbGYv+M9mGxZbPec1V4UOp7HoL62GW28m8QQIxL8wCg6tXvX2kJECKRwKqfe6iRV4GD4kN9jO9rKkQD3/jrRJq/xoSDzJh0kU7tElEF9bGSxFuPh7dHFene5slkovU4FmAqqef47jKQKxX/P9cQC5My6RgPkTi7jzsx1OojBRLb6BRvl0/Zbqew==;VbNadclKxqv348ugTp1jEQ=="
 ---

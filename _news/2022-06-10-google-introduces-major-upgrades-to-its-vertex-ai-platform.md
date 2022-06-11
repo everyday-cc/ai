@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google introduces major upgrades to its Vertex AI platform"
+    excerpt: "Google announced a new set of product improvements and technology partnerships at the Cloud Applied ML Summit aimed at making it easier for customers to construct, deploy, manage, and maintain Machine Learning (ML) models in production."
+    publishedDateTime: 2022-06-11T14:25:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Google-introduces-major-upgrades-to-its-Vertex-AI-platform.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Google expands Vertex, its managed AI service, with new features"
     excerpt: "As Moore explained, Tabular Workflows allows user to choose which parts of the workflow they want Google’s “AutoML” technology to handle versus which parts they want to engineer themselves."
     publishedDateTime: 2022-06-09T13:07:00Z

@@ -39,15 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Neural Network Market Size In 2022 with Top Countries Data : What is the growth rate of the Industry? | In-Depth Analysis with 92 Report Pages"
-    excerpt: "According to this latest study, In 2022 the growth of Neural Network Market will have significant change from previous year. Over the next five years the Neural Network Market will register a magnificent spike in CAGR in terms of revenue,"
-    publishedDateTime: 2022-06-06T23:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-size-in-2022-with-top-countries-data-what-is-the-growth-rate-of-the-industry-in-depth-analysis-with-92-report-pages-2022-06-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
   - title: "Artificial Intelligence as a Service Market To See Incredible Growth During 2021-2031"
     excerpt: "The rising number of innovative start-up operations working within the domain of AI powered tools and services is one of the key factors driving the growth within the global artificial intelligence as a service market."
     publishedDateTime: 2022-06-07T11:48:00Z

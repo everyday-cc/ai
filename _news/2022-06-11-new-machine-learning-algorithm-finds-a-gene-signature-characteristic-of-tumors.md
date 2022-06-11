@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220610/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220610/New-machine-learning-algorithm-finds-a-gene-signature-characteristic-of-tumors.aspx"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "AI Identifies Gene Signatures of Cancer Tumors"
+    excerpt: "A new study published in Genome Biology demonstrates how an AI algorithm has discovered a genetic signature trait of cancer cells, enabling machine learning to distinguish cancer cells from healthy ones."
+    publishedDateTime: 2022-06-11T15:09:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic2452.jpg?itok=9gYDTC0R"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "TLH/V1mKF+1yKpskHpl12PocR9J+5r/FIyNqtvL/o73wk10krVD8uTiQl9q7H9Cuvg3mk3v4ZinByUkM7SaQe8lEgApT9oeaoxYygOFlas4M4YxwpuVF2dE+5b5Uve99xSrXfSUWo5hq+5tIonleLdU1f/islmOzSNOogLLEy3Cd8vk2Sc2ze0qvZxYOpyG3rF2nAXlcRPTwfU0kfT1H2ovLi1TmhUq4X8Spgxbaf4owSGJTaBcGJ8znmFDs03EpbNngPFLNVIjhd5TlcyQBQ33o1ADupIh6crRfw/dHL5DmaooQ7xo3nNaYFltN96lvsMNRqEmdXTn/xnxcVh9fEi1cHgItnaBMdg7d35S5e8BzozwpIMbE/98NA8Q2g5lQYmVepG6ceTRsUMtl+PnoUkPyXDsD7T3S2/0X+4MEH0p/+JrM6RVsxiVVFuh2Q0pgTYbkjiWGT47/x03vlDDuaW3gswk/maqyYYwTnjCMaWbamtLz9X72Enw8+UMFWkEQhKXb/iPYALTGh6zxhCwMRw==;6rSlYHsI2MZvzjyI8m0Aiw=="
 ---

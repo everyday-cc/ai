@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Self Driving Cars Market Size To Surpass USD 65 Million Units By 2030"
-excerpt: "Stringent vehicle safety regulations set by the government have proved to be a driving force for the self drive cars market as it provides better accuracy. Growing demand for safety and driving on the roads is also a matter of concern owing to the increasing number of road accidents and loss of lives."
-publishedDateTime: 2022-06-10T21:43:00Z
-originalUrl: "https://menafn.com/1104357157/Self-Driving-Cars-Market-Size-To-Surpass-USD-65-Million-Units-By-2030"
-webUrl: "https://menafn.com/1104357157/Self-Driving-Cars-Market-Size-To-Surpass-USD-65-Million-Units-By-2030"
+title: "Self Driving Cars Market Size to Surpass USD 65 Million Units by 2030"
+excerpt: "The global self-driving cars market was estimated at USD 21 million units in 2021. Safety features are an essential prerequisite for automotive consumers throughout the world."
+publishedDateTime: 2022-06-10T21:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27658290/self-driving-cars-market-size-to-surpass-usd-65-million-units-by-2030"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/g27658290/self-driving-cars-market-size-to-surpass-usd-65-million-units-by-2030"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?365611"
-    width: 375
-    height: 250
+  - url: "https://ml.globenewswire.com/Resource/Download/6c20be16-fa58-4d85-a3f9-44b54f33ef32?optimize=medium&dpr=2&auto=webp&width=1080"
+    width: 1169
+    height: 827
     isCached: true
 
 related:
@@ -66,6 +66,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "zHxhwaU0MgddnmMFueEF0OIvAEFO+wFDFbf8ZhZiPDPFUITAY0GLJ0xhb9h4G+QwVmxhkSHLM2GaoxlJayLDYaYxWwfVq8ebkFVV5VHYISSZt96bzYGg5xG14qO2aUwjuBO/9hITJcAjpdmrqX37pFRTU6P2wad4iDnUJ6R30Wg3s7VjKIe/IftPs9uP5OBtIcDjD3QgrUJXGy+hioIFqLCdVEiESpZndOU2OVD8MppHaN64N8ycmyJaPVH1eulm1kKPhgrjDPhH4+Qp5gOBgVdwvDtDe69D8J9dHyyovNC2TpOiZFfMrJMnfcqHireeULi051+9hG5k9EubfO6OTJH707e1GECxx7wMNoIPAdg=;shjGiM66mER9QvKW5tqQvw=="
+secured: "ghC+WQG1P21Dm1eir0yqABxYeomWWWDzvqDuisgvUQCpo4JldRgEDOeYc2QrGvQpnEkJYhkuzE9/A51KyUEUFTFnRs2wJuNWysg2sa+7EakTalL+yS98deChtRsyIQ/c8fRUJCe6MxaaXwFDZ8l1q2P1hxaSAU1GPGn2b1el6+KVLwiLtHRfny7y0bTqxNyV2ohXoDQqdH6wtq8S3ONQxqDfBa8yDXInUIXtLR3IHfTCw97ueZqy0xBIQhznlTXu+uReiNGjBIeHjeJxiagZcvhyT/bDkDjmvUC+Dmrh6/ZuLwu6ZgWCaZfzaaA5VtbVC64q3XK4HQMiw1+KAXFblzUEV6u9diSnHyoSsVaJ08U=;EL3/D4AzWKTdcKcfzef+5Q=="
 ---
 

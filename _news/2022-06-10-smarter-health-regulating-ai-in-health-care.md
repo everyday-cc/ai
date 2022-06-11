@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence is shaping the Future of Healthcare Industry"
+    excerpt: "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges."
+    publishedDateTime: 2022-06-11T17:20:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 74
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg"
+        width: 800
+        height: 350
+        isCached: true
   - title: "Healthcare AI startup Olive to freeze hiring"
     excerpt: "Olive, a tech startup that uses artificial intelligence to automate healthcare tasks, said it is freezing new hires amid a wave of digital health companies laying off employees and tech giants slowing their hiring. \"Olive regularly evaluates its hiring ..."
     publishedDateTime: 2022-06-09T15:09:00Z

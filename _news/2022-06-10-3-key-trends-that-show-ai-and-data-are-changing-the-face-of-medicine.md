@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence is shaping the Future of Healthcare Industry"
+    excerpt: "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges."
+    publishedDateTime: 2022-06-11T17:20:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 74
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg"
+        width: 800
+        height: 350
+        isCached: true
   - title: "Smarter health: Regulating AI in health care"
     excerpt: "Health care is heavily regulated. But can the FDA effectively regulate AI in health care? It's episode three of our series “Smarter health.\""
     publishedDateTime: 2022-06-10T04:24:00Z

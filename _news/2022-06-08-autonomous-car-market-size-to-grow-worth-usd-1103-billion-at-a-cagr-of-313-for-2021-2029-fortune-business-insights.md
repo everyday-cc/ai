@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Self Driving Cars Market Size To Surpass USD 65 Million Units By 2030"
-    excerpt: "Stringent vehicle safety regulations set by the government have proved to be a driving force for the self drive cars market as it provides better accuracy. Growing demand for safety and driving on the roads is also a matter of concern owing to the increasing number of road accidents and loss of lives."
-    publishedDateTime: 2022-06-10T21:43:00Z
-    webUrl: "https://menafn.com/1104357157/Self-Driving-Cars-Market-Size-To-Surpass-USD-65-Million-Units-By-2030"
+  - title: "Self Driving Cars Market Size to Surpass USD 65 Million Units by 2030"
+    excerpt: "The global self-driving cars market was estimated at USD 21 million units in 2021. Safety features are an essential prerequisite for automotive consumers throughout the world."
+    publishedDateTime: 2022-06-10T21:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27658290/self-driving-cars-market-size-to-surpass-usd-65-million-units-by-2030"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?365611"
-        width: 375
-        height: 250
+      - url: "https://ml.globenewswire.com/Resource/Download/6c20be16-fa58-4d85-a3f9-44b54f33ef32?optimize=medium&dpr=2&auto=webp&width=1080"
+        width: 1169
+        height: 827
         isCached: true
   - title: "Artificial Intelligence Market Size to surpass US$ 1394.30 Billion by 2029 | CAGR 20.1% (2022-2029)"
     excerpt: "The surging demand for the robotics across various end use verticals is expected to drive the growth of the artificial intelligence market during the forecast period. North America dominated the global artificial intelligence market share in 2020 with ..."

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
-publishedDateTime: 2022-06-09T13:03:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+publishedDateTime: 2022-06-09T14:03:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -86,6 +86,6 @@ related:
         height: 541
         isCached: true
 
-secured: "E+0ppz9A5En1EcVqB2jUQCA+puNFR96WZJrIlHefCiqEO7GOij8PHOoe0UY97/Xtg9RoyhGweuCPJQuuG6te7tZjrmI5PaKgfkiReQrXI6BFs/yLcuvy9oxNnyItb8EpGUinpDOn7EgOrG/qsH7IGXQfSYgQ9mLkGFr/v9DM53IJBZnWWlefTK2eGKhyMef8AibLaPRq7BmrbKjXMblCqtED7VetDvDOh2lUvyKAevfsx2CzUcMwuwsaJbhH3vmZymWhIc6uU1j477U9iBSUFsCaSF4iJzk3So7ELS/n2EyA4drtZ3T+08DWaQ8TUHV0kk7GrFYdzSCZjDhXaTsn6SPbPa++D3O2P4Hx+c2mr2U=;ZxgzNpAPz+vmdwss68kxkw=="
+secured: "I0kBClbwer1cvvJG9xZbMsWZ3x5Ld9xvqkwc7hWXRjM5/HO8oJdgW/A+CnAZn8I68BUcLkaqK6I9dVrp6B/sy+u5mmGoWGl7oHW1BDG9nAwSUo+TcXYapjgSndR0Nmd9DjCspr2K6SWnZH6Qe9eKB5pDRK7849cv6bejazCxteCpIHYtBdAaxWYDNXC/YndLqIMEXPO2Ostv/vzEADvP4B+nGegN8YWGDspgsN0DuemEU/w07bsS8SKqdFf5M2aH9mN6csJxlFziF5SPp+k3+1+pvL4QquqNQA5PBp8jT9uzeqo4lj9UEKNpbkb7oSSxKGQ0dCVbZ5cuWiZ7Z1t9WS1BwcAco/P7V1npahRcCqU=;T6ZJLbOOk/FYpjWmS95ufg=="
 ---
 

@@ -39,19 +39,19 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
-    excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
-    publishedDateTime: 2022-06-07T11:35:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
+  - title: "Next Emerging Trend In Fintech Sector Is Neobanking: Easebuzz CTO"
+    excerpt: "2) We are using Amazon Sagemaker to implement our fraud risk models. This acts as a core service that is used by one of our fraud detection products. 3) We are also breaking and moving large ..."
+    publishedDateTime: 2022-06-07T12:19:00Z
+    webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_100622_puja1.JPG"
-        width: 640
-        height: 413
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?811833"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "WEVIbWA3i6Rtwfxxr+05L5QZ0jlIph0KRE9Txj1XprBCchQTye9yWk/gUNvg7UFHhqfD2uLk+/wQ/+iz04Gy/nnAnmDhgzt3i2MVITxtEtZ8YC4WAG0TF/f3/51tU1H+Hz+Zs5Za7kvN6Q87I5e2TNnMkxn/2Yqu6m0quyVpgtzNLyYbVfpXohBuFcH98vOB8+F7Ba9wgtaAc0hl0wbxZ9oBjPQStd+1Jg5cvjv7hDrrhXO5j0hTxwN0NGxbjV+Z1hVtffvsF1kUMJSNzT01hvPttc+TDcV8kft3gvt04tqOLYGuJlNytq64vSV3n3rOYEWk6tSNTI3kb5RrigzR2TJQXVHdJNAUgtonDVY/DB4=;b3qbxZUKDEQQNej5Bz/Riw=="

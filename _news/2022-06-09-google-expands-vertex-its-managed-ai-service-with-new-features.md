@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 691
         isCached: true
+  - title: "Google introduces major upgrades to its Vertex AI platform"
+    excerpt: "Google announced a new set of product improvements and technology partnerships at the Cloud Applied ML Summit aimed at making it easier for customers to construct, deploy, manage, and maintain Machine Learning (ML) models in production."
+    publishedDateTime: 2022-06-11T14:25:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Google-introduces-major-upgrades-to-its-Vertex-AI-platform.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Google Cloud expands its Vertex AI platform with new machine learning tools"
     excerpt: "Google LLC’s cloud business today debuted a series of enhancements to its Vertex AI platform that will enable enterprises to develop artificial intelligence software faster. Introduced last year, Vertex AI is a collection of cloud services for creating AI models."
     publishedDateTime: 2022-06-09T23:42:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones"
-    excerpt: "Axon to advise its technology decisions have resigned, citing the company’s plan to install Taser-equipped drones and pervasive surveillance at schools. “After several years of work, the company has fundamentally failed to embrace the"
-    publishedDateTime: 2022-06-06T23:02:00Z
-    webUrl: "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/"
-    ampWebUrl: "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/taser-drone.jpg?w=1024"
-        width: 1024
-        height: 722
-        isCached: true
   - title: "Axon ethics board members resign over taser-equipped drone"
     excerpt: "Taser maker Axon is walking back plans to make a taser-equipped drone after nine members of its AI Ethics board resigned. Axon, a technology company known for developing tasers and products for police and the military, wanted to market the product as a ..."
     publishedDateTime: 2022-06-08T20:32:00Z
@@ -50,38 +34,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/01ebfe773288e8d7a3d952c1ec40e6414d3f0f2f/2022/06/08/2bda3fad-bfc5-4d9d-b98e-7f998203ab26/taser-drone.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 901
-        isCached: true
-  - title: "Taser drone plans halted after ethics board resignations"
-    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone."
-    publishedDateTime: 2022-06-06T23:23:00Z
-    webUrl: "https://www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/"
-    ampWebUrl: "https://www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 59
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2022/06/16545307_web1_16545307-09aa1277fbea4efdad4d210e30030dc1.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Company halts plans for Taser drone after 9 members of its ethics board resign"
-    excerpt: "The company best known for developing the Taser says it's halting plans to develop a Taser-equipped drone. The decision by Axon comes as a majority of its ethics board resigned over the project."
-    publishedDateTime: 2022-06-07T00:20:00Z
-    webUrl: "https://www.pbs.org/newshour/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 55
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/06/2017-08-24T110519Z_52568189_RC1A44141950_RTRMADP_3_USA-TASER-EXPERTS-1024x655.jpg"
-        width: 1024
-        height: 655
         isCached: true
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
     excerpt: "The company best known for developing the Taser said it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the project."

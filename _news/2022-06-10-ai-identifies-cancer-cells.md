@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "The Doctor Game: Can artificial intelligence help fight cancer?"
-    excerpt: "The short answer is yes — cancer and other health problems too. Artificial intelligence (A.I.) is a game-changer. Not only can this rapidly advancing technology improve the speed and accuracy"
-    publishedDateTime: 2022-06-07T00:10:00Z
-    webUrl: "https://www.thewesterlysun.com/opinion/guest-columns/the-doctor-game-can-artificial-intelligence-help-fight-cancer/article_ba5d6f4c-e620-11ec-945a-1f1c11414602.html"
+  - title: "Artificial Intelligence Helps Identify Benign Thyroid Nodules"
+    excerpt: "Artificial intelligence (AI) pinpoints thyroid nodules noticed on thyroid ultrasound that are unlikely to be cancerous."
+    publishedDateTime: 2022-06-11T16:50:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm"
     type: article
     provider:
-      name: The Westerly Sun
-      domain: thewesterlysun.com
-    quality: 19
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/thyroid6.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "1C/UgUqXoK4nhX5d2igPtV9wUuOkZ8VIup7XBcVaBOEXFLTLZqdh0rDUf/C/EnrOnJ3xfA4UgBgv9Qe/2doF/zslsvWLLROZA1G8sYJXLGV4+W2hYep86C2BylTeDD5vzkMwsXkW7/ewe/JHCBwAoZ+EmSE4lK8vYYGWhKsHMK2FkMxkWijfHjxVHKPhFi1x988tkSBYmP24Kqgo1WS0QBEiFGFso9o6G5cZ3CE6dbHIKoFL4b30cnuTjM1NsDl9kKFtpzHQXnwTSmRt9iqg3Mqx8xUmWR3n+v02eDNNXXmVQDUPIs6Nd1SgVj9tXtmX0xWCjooe87qEIztZ+1LYXUqhVKzlI8Mx680PIoyrkYQ=;UeZ0m1DpQkyoy/X+qcu6kw=="
 ---
