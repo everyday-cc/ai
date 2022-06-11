@@ -1,31 +1,29 @@
 ---
 category: news
-title: "CIMB Bank recognised for Best Financial Artificial Intelligence Project at The Asset Triple A Digital Awards 2022"
-excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 9 June 2022 - CIMB Bank Berhad (\"CIMB Bank\" or \"CIMB\" ) has been awarded the Best Financial Artificial Intelligence Project in"
-publishedDateTime: 2022-06-09T05:45:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
-ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
+title: "CIMB Bank Recognised For Best Financial Artificial Intelligence Project At The Asset Triple A Digital Awards 2022"
+excerpt: "KUALA LUMPUR, MALAYSIA – Media OutReach – 9 June 2022 – CIMB Bank Berhad (“CIMB Bank” or“CIMB” ) has been awarded the Best Financial Artificial Inte"
+publishedDateTime: 2022-06-09T08:15:00Z
+originalUrl: "https://menafn.com/1104348132/CIMB-Bank-Recognised-For-Best-Financial-Artificial-Intelligence-Project-At-The-Asset-Triple-A-Digital-Awards-2022"
+webUrl: "https://menafn.com/1104348132/CIMB-Bank-Recognised-For-Best-Financial-Artificial-Intelligence-Project-At-The-Asset-Triple-A-Digital-Awards-2022"
 type: article
-quality: 53
-heat: 53
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.malaymail.com//theme_malaymail/images/no-image.png"
-    width: 1285
-    height: 857
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466419"
+    width: 445
+    height: 250
     isCached: true
 
-secured: "3LqaDonlm2Q1uborWfIrByAUb8FzeortRTfSniuXvkTE1bC8zSu4tztK9swh9DGE8Xb6C13Ft+Wcj2Ooh+q+1BfTq6Q5H9To4zgQ5hiKlk6Or2ria6RzfYuiW0d/2g+sdGxy8RGHlub5AkUWfR4zFXg9wm8EI7gCDnq7XMFRHpMNxba4nk8LZfSKp0BfiAtTWo82b+hl7tWpDo5ZVqlIadaxvnDSs6MYvAJo6NVhuCYjjZ6ZYgW1EfTd9CkD/Wcd+U9eznnAvzSwM1oJFrXvo1Af/TyYtfkr/fYzBWpWmErY2TPCFOkS6bguvs527fzD+BQPM8Hg/cduM6v4/iJZwRlIg47Si5Z/3Af8lxVq6vA+M0+E7muRkn+1IFDZRHkXCRaXQ17vB3j8XUnqFoskHZLcXS64sqJz+zeDyGuNuJ5Ko3PkmgatU/9h4WkmMJpre6j9ZnElmFevkv5O02H9rmBFDUFLjplptxOoTNEcWIvcJbL8eoaTLzN7XoMIpt9UB9npvCVfjkAdo/LI41FVJA==;EwpHPJ5R5tuuYNZCMwNDwg=="
+secured: "6R329A8XEU9/MFKMV15gKFaPs7QYSHiCjkmn8cqpLO7ZgnhEZeVuilCPqDOWoJGZ9b73ON2U0UQfA+iHhJ/FkbgwCpcRKmIoPwvbp8lUteADNFm4PFcmnX090EvnwLMKYBzlO+reYpQ+tOH6aracmCLJLtrMC30vt9fAGHlf7JWta4QNVDmZutTkf9SQU18e5ChnmYuSkXFvFFveT5F8ChQH87YmlnkaEIP1X8TPe6WRPPranaftyKa84SYh1AZmMcFn2JRTFogqjX4pgzxZ2wT0XyH1gSEJ04Hg4GHM8Rn5fn7dKj1Lyri9ejGeiWTXkl2/cdYSIdhaG4tg7WwGlg2zdd9ulRc+cRIsjB1eoLk=;pmKqhF71VuCfReh6OhLXTA=="
 ---
 

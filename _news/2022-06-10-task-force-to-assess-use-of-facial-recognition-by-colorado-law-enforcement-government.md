@@ -2,26 +2,28 @@
 category: news
 title: "Task force to assess use of facial recognition by Colorado law enforcement, government"
 excerpt: "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado."
-publishedDateTime: 2022-06-09T21:51:00Z
-originalUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
-webUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
+publishedDateTime: 2022-06-09T23:00:00Z
+originalUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
+webUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
+ampWebUrl: "https://gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html"
+cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html"
 type: article
-quality: 31
-heat: -1
+quality: 51
+heat: 61
 published: false
 
 provider:
-  name: The Colorado Statesman
-  domain: coloradopolitics.com
+  name: The Gazette
+  domain: gazette.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/b6/eb6ce6f0-cd9b-11ec-bbfd-6fc9d1720af4/6275bc4be3408.image.jpg?resize=1024%2C642"
+    width: 1024
+    height: 642
     isCached: true
 
 related:
@@ -39,16 +41,7 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Google to pay $100 million for Photo facial recognition lawsuit"
-    excerpt: "Snapchat is also dealing with a lawsuit of its illegal collection of face and voice data for its AR effects."
-    publishedDateTime: 2022-06-07T13:07:00Z
-    webUrl: "https://tribune.com.pk/story/2360460/google-to-pay-100-million-for-photo-facial-recognition-lawsuit"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 21
 
-secured: "kTyXlx98vi413UH2hAfy5vZw8fCaoNXKqv1oNLvVVG2tN/gnh7iLQYUrHqCQdN/v8tuTGSQdTmkLltEFO3WajcbPUkInfR/iuoDCAgfvjcfUcMKAWjW4baSyR58Z6kB3RUVsBmYxJhlTPZz8CZPLprIs2+IdOGzdLVb9qlUNWBAOnVjyx852wn196G9ksV3HQHWSRWcL6UkVp/Npv9a5pf+KQw6IbAjot9kiQzyB+2SKZ4d8bVfw2scjOoklRbObQzbjZApjttNMn0cvgZ6wSrezPJbjKl9lSE9FZ5VrUoIGK4EYn3uElsiJEIWdLGdNvh6dGqoJMlPla/EbCmMJIVTnK3EIjR+OtjYAExKm3all54LAHqSdjWx0HscNYB0Hfd+AA0xTpXZ63uK3/N8LmOYe5vf1fs/Es8FTxY2Sd8MCpMNbivIqFtQpoSphvMTHm8aEdNEgRD/EWyramGodQGkDFIM9usjfnh/7tSDTYKhqB7zKa7PtYEZua+FJQqpe2k4+W2YTKswjovW12BhUVg==;moVwwX5LFtfX4Au6R1pFNA=="
+secured: "0DCnWL9HmwQO9hTVGsCO2PZ6/4MhJ15SI+zNn+R56O93+mEnolUyDaaf4Pvqi3ZoH8T20g/ubQUC53At/5rvjnDcUYzR/NKgqAHHcb99NrL/YFC9ULembQKkJx404Amwe/mxPHh61Q8YmZgdID8wPF+avU6kU5Ac7H/gIzSk3Q7vQQPa4pEUak9U7YXjF0g7R2iPmLYMgmmsYuvf24+u8OqgLciMSJJf1s4F900gVD1kEmwLZJaTIOLe7GX6wtxJsaUyfUgPIZ1QsWk9JmrfY3m140JWguHfTfAbN0HfHtLe1h/kTbpTQNzsLE7ZMY2u5YOlAacKK6yaPY2VFGi8E3TlOOBOsHKZNMuu/pOXCf4=;PCVpLVwAjDaqmPpdz1/qhg=="
 ---
 

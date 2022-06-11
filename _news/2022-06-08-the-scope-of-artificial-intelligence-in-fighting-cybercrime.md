@@ -50,7 +50,7 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0982811cc6db7deb/6217f065f3bcce42fe002a0c/AI_Kiyoshi_Takahase_Segundo_Alamy.jpg"
         width: 1000

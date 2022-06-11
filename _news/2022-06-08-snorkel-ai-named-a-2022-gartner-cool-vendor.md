@@ -52,15 +52,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tencent Recognized as a Challenger in 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services"
-    excerpt: "Gartner Inc., a company that delivers actionable, objective insight to executives and their teams, has released its 2022 Magic Quadrant for Cloud AI Developer Services. Tencent has been recognized in this Magic Quadrant for three consecutive years,"
-    publishedDateTime: 2022-06-06T09:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/06/9615192.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "q4pURYEnXfgML6h7vai3LxOd8Cw7srQdT0VsFXrDXj0G4Z66rf7u+x0EUjR1ZlXFSNqFxGG1z+T90OslAdlS+GpeRSNZcySRaSmd3R0u5RAihgGIQsGz5vOrymIu97PCFxuzdVUW7ul+T6jq9uQTlBzdvkLrinabE82nschRVSUSIpFq8fUSOT175ATP/fygNGRrtUHjSRl76bYbdGF7gPVNsRTmN1vudQqPfHjMc8+0k59ZPpHoZuQ3K6fEPz7S6pJTDg57UHLyZfSqv8sRe8gYPfs3chPlLs+sVXoHEQZWN3o1WfIxoMytISJenw68+xdo1iM1UjoehrPPtM7fhVGDxUVVdgI8aZ8kwvTLqyHiOncsT6HCjEm2uTdntG05RhiudbTepOZ63lCoED5O2eE/sykY2YE9WdCtqp7d80VbU6BaBbW+4Ouim+Lzq++MdBevX69ASXaw98VEFJTE4cFrhw0Prfb+Ado297qDoF52iJ+VmmI/2mj70DYiDrP4hNVcUkx2jPWpe4IqoFuTsQ==;nTZalTRyDvoW12esCPboJQ=="
 ---

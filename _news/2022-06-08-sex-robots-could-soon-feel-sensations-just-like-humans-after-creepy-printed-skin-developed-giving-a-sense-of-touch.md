@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sex robots could soon feel things 'just like humans' thanks to creepy AI touch tech"
-    excerpt: "A new breakthrough in 'printed skin' gives robots a sense of touch just like humans - it could make sex robots even more advanced for steaming hot romps with doll lovers in the bedroom"
-    publishedDateTime: 2022-06-06T10:21:00Z
-    webUrl: "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933"
-    ampWebUrl: "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp"
-    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp"
-    type: article
-    provider:
-      name: Daily Star
-      domain: dailystar.co.uk
-    quality: 68
-    images:
-      - url: "https://i2-prod.dailystar.co.uk/incoming/article27157316.ece/ALTERNATES/s615/0_Inside-Londons-first-sex-robot-party-where-humans-romp-with-dolls.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Sex robots could soon feel things ‘just like humans’ after creepy new ‘printed skin’ developed giving a sense of touch"
     excerpt: "SEX robots could start to experience human-like sensations after scientists developed a new piece of artificial intelligence technology. Researchers in California have created a printed skin that could see robots experience senses such as touch."
     publishedDateTime: 2022-06-07T15:10:00Z

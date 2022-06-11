@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-08-jidu-unveils-first-concept-production-robocar.md",
+      "title": "JIDU unveils first concept production robocar",
+      "excerpt": "Powered by Baidu's leading intelligent driving technology, JIDU is set to deliver robocars that fully meet the needs of advanced autonomous",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/jidu-unveils-first-concept-production-robocar-1031516921",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/jidu-unveils-first-concept-production-robocar-1031516921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1835473/JIDU_concept_robocar_ROBO_01.jpg",
+          "width": 400,
+          "height": 201,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk.md",
       "title": "Microsoft Reiterated Outperform by Oppenheimer Following Azure Talk",
       "excerpt": "Oppenheimer analyst Timothy Horan reiterated an Outperform rating and $340 price target on Microsoft (NASDAQ: MSFT) Wednesday, following a \"fireside chat\" with M",
@@ -1051,48 +1103,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-do-ai-systems-really-have-their-own-secret-language.md",
-      "title": "Do AI systems really have their own secret language?",
-      "excerpt": "A new generation of artificial intelligence (AI) models can produce \"creative\" images on-demand based on a text prompt. The likes of Imagen, MidJourney, and DALL-E 2 are beginning to change the way creative content is made with implications for copyright and intellectual property.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-ai-secret-language.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-ai-secret-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/do-ai-systems-really-h.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-ai-secret-language.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-secret-language.amp",
-      "publishedDateTime": "2022-06-07T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

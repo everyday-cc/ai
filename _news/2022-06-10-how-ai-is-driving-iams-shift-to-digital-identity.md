@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digi
 ampWebUrl: "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/"
 type: article
-quality: 87
-heat: 88
+quality: 89
+heat: 90
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/GettyImages-961645454-e1645559719112.jpg?w=1200&strip=all"

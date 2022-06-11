@@ -41,6 +41,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Huawei announces new inventions in AI, 5G, and user experience"
+    excerpt: "Huawei announced a batch of key inventions as part of its biennial \"Top Ten Inventions\" Awards at the \"Broadening the Innovation Landscape 2022\" forum held at its Shenzhen headquarters on Wednesday. The awarded inventions range from an adder neural network that significantly reduces power consumption and circuit area,"
+    publishedDateTime: 2022-06-11T02:45:00Z
+    webUrl: "https://news.cgtn.com/news/2022-06-11/Huawei-announces-new-inventions-in-AI-5G-and-user-experience-1aLHsmwXImk/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
+    images:
+      - url: "https://video.cgtn.com/news/2022-06-11/Huawei-announces-new-inventions-in-AI-5G-and-user-experience-1aLHsmwXImk/video/d6224aee3be64dce9f4c100ce3108db2/d6224aee3be64dce9f4c100ce3108db2-1280.jpeg"
+        width: 1280
+        height: 718
+        isCached: true
   - title: "Huawei announces new inventions that will revolutionize AI, 5G, and user experience"
     excerpt: "The awarded inventions range from an adder neural network that significantly reduces ... To this end, we will drive ubiquitous connectivity and promote equal access to networks; bring cloud and artificial intelligence to all four corners of the earth ..."
     publishedDateTime: 2022-06-09T07:50:00Z

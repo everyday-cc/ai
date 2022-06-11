@@ -107,6 +107,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Computer Vision Market Report 2022: Core Capabilities of Computer Vision Technology and Key Factors Driving New Use Cases and Greater Adoption"
+    excerpt: "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Computer Vision Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service analyzes the core capabilities of computer vision technology and identifies the ..."
+    publishedDateTime: 2022-06-10T11:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27643583/global-computer-vision-market-report-2022-core-capabilities-of-computer-vision-technology-and-key-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27643583"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27643583"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "KIu4MQWU+5U0AMdNw7GJ2An3i0nH0mC9S6Z3lNt7L4Tilou2UaN4tfwELwPIbNtV7YbTdvT/WY9Gbe0rbocTfhkUqfdTNv4Gua9RLe8SoxwpEi1mwKSfRvwbv9WPGHggIKCoRmRa/crD9JKlcK8MNBn25UDmYar45i7l+od5zefTZ0TktLl7//mtEEiTvaNLogcDzsmSf+Q6phaGKbCb/4JcP9I0SstZIIjOjXqxtfD61YJDU77m+GeVmouelPhxWAObrBcCeZogt9eQLNJ2lKrFISXAp1Cr0RpdkDUWhGw617gw3ctroiXl59Tjc0d6C2Ky+Fe5r9sYDTtmtic9wUEJMRQBjtygl6WZx9omjVI=;YuXZpWhJxe3kMlqtJ5GNNQ=="
 ---

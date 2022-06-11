@@ -8,8 +8,8 @@ webUrl: "https://www.news-medical.net/news/20220610/New-machine-learning-algorit
 ampWebUrl: "https://www.news-medical.net/amp/news/20220610/New-machine-learning-algorithm-finds-a-gene-signature-characteristic-of-tumors.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220610/New-machine-learning-algorithm-finds-a-gene-signature-characteristic-of-tumors.aspx"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
@@ -26,6 +27,6 @@ images:
     height: 480
     isCached: true
 
-secured: "oXbrej8pYA8VQFzmth0WGWREoMn5xaOJTKv9mJDSh8asXqmISLc51wURwp+m34mf9ENFmpYy4VUwf81ojz9itp5en3oZd/diks0BJagPhffAvm5Ht6tw68M8vpjSS0YI822wxxyhH53quPBsTQK+XDIDGLRgOG3dccOr04PMdq9m4dVuKKDNnSb/FQEN1o3uNPywuxxHD/yx2Cq95J5MswTFYRyWEOyrvkb5Rn8TNGSlqegEK2lQcrVHkS+Z/igz9xrD6QUByi//TKIUdiBW4erBwzNTs+adyMAfY3slvYXqN6FVQAn9L626w0cKEJCD0uEkVpdpbZFkd2gMUk0V5sa15pjbkUxjFZaRzwcYN4c=;8oVMuPaBPuwwXxvIM6C4aw=="
+secured: "TLH/V1mKF+1yKpskHpl12PocR9J+5r/FIyNqtvL/o73wk10krVD8uTiQl9q7H9Cuvg3mk3v4ZinByUkM7SaQe8lEgApT9oeaoxYygOFlas4M4YxwpuVF2dE+5b5Uve99xSrXfSUWo5hq+5tIonleLdU1f/islmOzSNOogLLEy3Cd8vk2Sc2ze0qvZxYOpyG3rF2nAXlcRPTwfU0kfT1H2ovLi1TmhUq4X8Spgxbaf4owSGJTaBcGJ8znmFDs03EpbNngPFLNVIjhd5TlcyQBQ33o1ADupIh6crRfw/dHL5DmaooQ7xo3nNaYFltN96lvsMNRqEmdXTn/xnxcVh9fEi1cHgItnaBMdg7d35S5e8BzozwpIMbE/98NA8Q2g5lQYmVepG6ceTRsUMtl+PnoUkPyXDsD7T3S2/0X+4MEH0p/+JrM6RVsxiVVFuh2Q0pgTYbkjiWGT47/x03vlDDuaW3gswk/maqyYYwTnjCMaWbamtLz9X72Enw8+UMFWkEQhKXb/iPYALTGh6zxhCwMRw==;6rSlYHsI2MZvzjyI8m0Aiw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
       name: Daily News
       domain: galvnews.com
     quality: 17
-  - title: "Tencent Recognized as a Challenger in 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services"
-    excerpt: "Gartner Inc., a company that delivers actionable, objective insight to executives and their teams, has released its 2022 Magic Quadrant for Cloud AI Developer Services. Tencent has been recognized in this Magic Quadrant for three consecutive years,"
-    publishedDateTime: 2022-06-06T09:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/06/9615192.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "PCXmPcyhw3xNjctR9/Be9BV0zYkM43ymTolWzYGkpV3ue6q+9Fo3Kble2F9DJhAltOTc33rnRxOWSxMLZ8k9JNOW2r3cnW4CXXLZR90GP70hWdBQAWLJZxOrXsLW1SIttKbt6By2hbXcQn4Mm0wlYYYG735fFcJ+Qn44eLiBfDhRI6wUiYZsSbJrqZDhDstNWwzAvA4qi0RUmNiZ1vSCdPBf1MPQ+R/GKb5LmT0SDRGZJ9caPzSDt9Y92oeqU98c4Wlq98Tz77IZc87F0PmYOhhih5hxvSF8sa55vcUmrrUqarZwKvhi7byqyAIc9yCvn1YCDTeS3M/zL016D6Lg9gHr8CQHGP5ra8hnW33Mg+4=;yOFXbfTiprcziJdwwYPKZA=="
 ---

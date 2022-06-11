@@ -121,15 +121,6 @@ related:
       name: PR Newswire
       domain: prnewswire.co.uk
     quality: 13
-  - title: "Addressing the challenges of fintech with adoptable solutions"
-    excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
-    publishedDateTime: 2022-06-06T09:13:00Z
-    webUrl: "https://www.crainsnewyork.com/crains-content-studio/sponsored-addressing-challenges-fintech-adoptable-solutions"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 4
   - title: "3 FinTech deals that took place in May in the Americas"
     excerpt: "FinTech describes new tech that seeks to improve and automate the delivery and use of financial services. The COVID-19 pandemic has"
     publishedDateTime: 2022-06-07T13:06:00Z
@@ -140,6 +131,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "EnnsNxT+QJsWayFksX+DZzKQq41kDVNhW33AYvE7Un9LlNn4y38PcH+cXAeatK/o1IwJx55GWXhYxq5AhRtGE0ms8rWiARdB2Gp5kWIbAhLUH+z+g2zgqSQrMKPay6HroxPSntM41hhLNJ98iNh07zes5k6huDzdcIYp25mW9KIDxEcI5gdvSao4ocxx73Qvd1erfZ3Ce5MTZiJ3xeNUZfgIyo2FIF+qWKfJjFWlCX9jEvCjsCpXpD3VF3mBcpM99+rbZaMncPSuI1EXDFa+bbZ5amd08ymo3isQeqia4/t/1uRApXtz/yF6hVziDy2yaFGrpifXXkeWAXZN890hY0tTu4FSzQdGB/aV6XEpNNw=;dUmPIQNA9Qh2o+4PqmK+tw=="
+secured: "etjy+tk85WxLSdrbDKfZFQfq28pYNf8mPUpAsFpY17Enlqf/54H7iZDPxRoGiMTIUjtOy+1Tsgcgl6wFw7uzVVACfK/Bx7wXIMIBJXN5aWgWFKywiYrUzDDsqVLZK0l/FvJRkC9sidNrg1xzhRElM+HoF/OpUyYZ0HrVC268YftTyRuVWDc69LflPsrYTO7N2lHRTIPI8+Aa79TSkIAvuS/BhQCBK8lfT5lfa7Mg0BiteScVN4+c6i+D6GqLWRtkaj0s0uCCEIZHthG1yHuOrmR5XAQbWE9blJbYEcw51GkaJhkR45ZGarggG5WF7YTSz8cJ08f7SoXQuY+BDvc4sF5pCCONvF5GqT5LWibOzW7/e/n4IyJHl5g1i/o/m6XMfmuuO9UYHB5IqXZksHcmIUMP44GBEGOWVefEwBMZ2wN12SpSE363g169g69Jo5LCKwwh58Xr6Atv5jk9PNOPlnRAgtzGmUwTOkyZaHByiVr9fJRONFGikSxzs93chcc9TOw5Il/FtXS2wq0yppZORA==;1jE9hMQTv0v9vY1wXvVyVg=="
 ---
 

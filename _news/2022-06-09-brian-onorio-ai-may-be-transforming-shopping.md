@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 585
         isCached: true
+  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
+    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+    publishedDateTime: 2022-06-06T12:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor-1031510876"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "An Innovative ETF Opportunity That Taps Into Our Increased Understanding of the Human Genome"
     excerpt: "For example, Grous believed that the convergence of next-generation DNA sequencing, artificial intelligence, and gene therapies should ... Looking ahead, ARK expects gene editing and gene therapy companies to grow to $1.1 trillion in market capitalization ..."
     publishedDateTime: 2022-06-09T00:21:00Z
@@ -89,15 +98,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
-    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-    publishedDateTime: 2022-06-06T13:18:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 21
 
 secured: "+Lqhd5fROV33sBshSjr1FpxftyBSwYi+JbV83sCwtj9Mrtp7RTAfHY516XhJbGGot8biU9yziGJMK8hha7kMePwd33y3KhTlQx0+fq0yGT1McSoXqBEliWNjyfmXah2HCmJYTQZ02oU3H70tipmXWVei4uPX/UvUvXBlK7h2qHVFkdzZIDJg8dZWFz29ximHVGy50kc/W2px4rqK9w3i5vAQAR9GNVai37qld/0D0icz9Y1mzcy8LXgl6OykE2IRPE8ggc37GKhQQyLvEO9uNz6zVsytcUjtjshRDFIKnN1+JAjZvmWGYDvnWghutRHIEWky3dH2keCAUHt0NgQ8k1YTV4t0U6YO/9REANC6FWa/EpKPsCXX9Jlf/Pzid44xCdi1r7MepX2C6EReWOekoM9spv0dvGOLlZwNepjoJ7Pf4bNakdkKPoaQZmXYxw//wqmUFaK0Wc9HmAt9+hvSnVdHFtjHfmh8k3rpObRWP7vfQeyNR3n3ekgoBqmfXT1G0Y2YteJD1KQezGCPvDYIFw==;5ULHHSizsZEepByXGvcCZQ=="
 ---

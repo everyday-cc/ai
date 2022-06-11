@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-10T14:00:00Z
 originalUrl: "https://www.darkreading.com/attacks-breaches/artificial-intelligence-and-security-what-you-should-know"
 webUrl: "https://www.darkreading.com/attacks-breaches/artificial-intelligence-and-security-what-you-should-know"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Security
+  - AI in Autos
 
 images:
   - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0982811cc6db7deb/6217f065f3bcce42fe002a0c/AI_Kiyoshi_Takahase_Segundo_Alamy.jpg"

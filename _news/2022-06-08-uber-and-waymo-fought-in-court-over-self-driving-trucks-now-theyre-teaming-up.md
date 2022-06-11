@@ -3,25 +3,25 @@ category: news
 title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
 excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
 publishedDateTime: 2022-06-07T20:32:00Z
-originalUrl: "https://abc17news.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-webUrl: "https://abc17news.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+originalUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: ABC 17 News
-  domain: abc17news.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
-    width: 1024
-    height: 576
+  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -145,6 +145,6 @@ related:
       domain: jalopnik.com
     quality: 28
 
-secured: "lk2p0sgn/JCpgbIsxy9HKNVbCbaP8DAK5EdbcYBPQXtRi8TRsbXWUENNtozMV39/lEQM8NGNTGQNtZ4kI0A9O1obF60pGTpYCJsKYpIIAblD42pKL8tS7Riozcnwo7tTsL6TIddH8Lux0A1l5wazVk1BUtM7Yk/dU6NpmSCU7NwADlDjH/ulf0XQxI27HETe9DbJgnP52vCEDDjSTukvSjQtTieSfNfpuwCy2xgFqfHZtvGPl/3BlO0/UMbruUa3WH8QUH9VpbudLUUX1+I7arjBs+GyAfm2ujxAGIb+TzIirLQOTYx/QT49xY/smbnLITq7ZnvknTIFq03sRkJDNexVcCGCLVuDEIaKJEkopO4=;1XOyF8xTNLiBD2J9lnEqhA=="
+secured: "PpHsgWhPLvQkoYg8lt3tr4UnA+hsfbdubfm1wb5cSZIfMaLQzcIZOi+FopwU/V+AJqXC7QSUtryGN5AW15NwKN0BDVIwdL4uuFUAIAmyvWZDFDi94GEq+xzeE44J4mnWhIlL9fFrs2tQdw9tkIqbLgjNPWQAWKqGv0XjFrOW30GJka07U9F7snlVtcUv8+WaRVh+t3tqINayGonNlZNBsAo0xxvpzi4BQzc90nBpsjSKaW42nMKLShVgRoLjrGnDg0M31M+W4Vja84Nlqlq+QWusHlBIRhKfsaPwVOLdMvnY7sww0hLOec6kX3XCUS5eA85rfc0D4I9c6wDIwQyBOqkgOGU80TjTXrX929rLY5I=;p+T/ajhSf8fbf/SqMO5B/Q=="
 ---
 

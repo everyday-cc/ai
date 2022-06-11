@@ -25,43 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Tifin introduces conversational AI for investing"
-    excerpt: "TIFIN, a fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, today announced the launch of their new Magnifi Mentor capability."
-    publishedDateTime: 2022-06-08T10:13:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92907/tifin-introduces-conversational-ai-for-investing"
+  - title: "Ram Nagappan Invests in AI-Powered Digital Assistant Startup Cognicor"
+    excerpt: "Sindhu Joseph continues to attract top-tier board members and investors to her artificial intelligence startup Cognicor. The PhD research scientist turned co-founder and CEO announced that her AI-powered business automation startup had landed Ramaswamy Nagappan,"
+    publishedDateTime: 2022-06-09T20:40:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/ram-nagappan-invests-ai-powered-digital-assistant-startup-cognicor"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: WealthManagement.com
+      domain: wealthmanagement.com
     quality: 39
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/02%20Sindhu-headshot.jpeg"
+        width: 1540
+        height: 800
         isCached: true
-  - title: "Fortinet Introduces Self-Learning AI Capabilities in New Network Detection and Response Offering"
-    excerpt: "FortiNDR leverages machine learning and deep neural networks – the next-generation of AI – to identify cyberattacks based on anomalous network activity and limit threat exposure HONG KONG SAR - Media OutReach - 7 June 2022 -John Maddison,"
-    publishedDateTime: 2022-06-07T04:30:00Z
-    webUrl: "https://www.asiaone.com/business/fortinet-introduces-self-learning-ai-capabilities-new-network-detection-and-response"
+  - title: "AI-Business Automation Leader CogniCor Expands Advisory Board and Attracts New Investors"
+    excerpt: "Fintech Entrepreneur Toan Huynh joins Kestra's Stephen Langlois, Former Northwestern Mutual CIO Karl Gouverneur and SixThirty Ventures' Atul Kamra on Advisory Board to Focus on Business Operations and"
+    publishedDateTime: 2022-06-07T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-business-automation-leader-cognicor-expands-advisory-board-and-attracts-new-investors/article_fba25b18-650e-5c58-b4a4-61d309d38280.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 26
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/Fortinet-Logo_0.jpg?h=bde28bee&itok=KfKUdCRS"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
-        height: 316
+        height: 338
         isCached: true
-  - title: "Everlaw Launches AI-based Clustering to Legal Teams"
-    excerpt: "Everlaw, a cloud-native investigation and litigation platform, unveils today its Clustering software feature delivering an AI breakthrough in terms of its scale, visualization, ease of use and ability to conduct true discovery."
-    publishedDateTime: 2022-06-08T13:06:00Z
-    webUrl: "https://channelvisionmag.com/everlaw-launches-ai-based-clustering-to-legal-teams/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 17
 
 secured: "Hzkpar7oJ0+dhMkoZ5am16syBMLy/zH8Y8iPVSR4Ovug+K6s5hPAE3oRUdoyhPfYHLcsxjs0s97rHlkKqeQ9QRXqNqdzbIUVAmLKjtQbtxBYtmkNHVLYSRF0GE/wKrV5y629FJI9HtCugrmIA0n9hmP788j7QPBTkb38a4BC1BaCmoEhdOkMuCqUCMFAPJxxfsxanQZuIADbt1bPpFhFo4Ny0lt2PM27PQpTjhb65CYwNT7xoxLvRol2hxKpCK4VOB3o6uXpvi204oSqwZ+QYRFscACGLLYvtyi2s/5qL3vGxbruAQX52Z45+PsCbJrkz4IBvOW2Ec2UQ24nJmujIv3Nbl/wGL1UlJyb4POrmi0=;AgbcYIT4rjhgMxTqWj/7Pw=="
 ---

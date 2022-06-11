@@ -2,6 +2,93 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-03-22-commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history.md",
+      "title": "Commentary: Calling Asians ‘robotic’ is a racist stereotype with a long, troubled history",
+      "excerpt": "When U.S. figure skater Nathan Chen won the gold medal in men’s figure skating at the 2022 Winter Olympics, a Washington Post article attributed his win to a fierce, focused, “robotic” zeal. This robotic characterization draws on a dated stereotype of Asians as stoic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressherald.com/2022/03/22/commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history/",
+      "originalUrl": "https://www.pressherald.com/2022/03/22/commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressherald.com/wp-content/themes/mainetoday-pressherald/assets/images/tr-icon.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portland Press Herald",
+        "domain": "pressherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027.md",
+      "title": "Computer Vision in Healthcare Market Size To Grow USD 1182 Mn By 2027",
+      "excerpt": "As per our report, the global computer vision in healthcare market size was worth USD 475 million in 2022, and this value is further estimated to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so.md",
       "title": "APAC firms see need to train staff in digital skills, but few actually do so",
       "excerpt": "Some 97% of organisations across seven Asia-Pacific markets, including Singapore and Australia, recognise the need to train their employees in digital skillsets, with cloud and cybersecurity the top-most in demand,",
@@ -1061,110 +1148,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-neuro-symbolic-ai-brings-us-closer-to-machines-with-common-sense.md",
-      "title": "Neuro-symbolic AI brings us closer to machines with common sense",
-      "excerpt": "“We’re trying to bring together the power of symbolic languages ... consistency and translation invariance. One of the main challenges that remain is how to design AI systems that learn ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/neuro-symbolic-ai-closer-machines-with-common-sense",
-      "originalUrl": "https://thenextweb.com/news/neuro-symbolic-ai-closer-machines-with-common-sense",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fnvkjaf.jpg&signature=0d2183fa7434696c2e8b738a16e66fa6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-65m.md",
-      "title": "Gensyn applies a token to distributed computing for AI developers, raises $6.5M",
-      "excerpt": "For self-driving cars and other applications developed using AI, you need what’s known as ‘deep learning’, the core concepts of which emerged in the ‘50s. This requires training models based on similar patterns as seen in the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
-      "originalUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/DSC064882.jpg?w=588",
-          "width": 588,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
-      "publishedDateTime": "2022-03-21T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Do AI systems really have their own secret language?"
-    excerpt: "A new generation of artificial intelligence (AI) models can produce \"creative\" images on-demand based on a text prompt. The likes of Imagen, MidJourney, and DALL-E 2 are beginning to change the way creative content is made with implications for copyright and intellectual property."
-    publishedDateTime: 2022-06-07T12:44:00Z
-    webUrl: "https://techxplore.com/news/2022-06-ai-secret-language.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-ai-secret-language.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-secret-language.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/do-ai-systems-really-h.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Artificial intelligence tool that transforms famous paintings into different styles may have its own 'secret language', researchers claim"
     excerpt: "An artificial intelligence (AI) tool that can transform famous paintings into different art styles, or create brand new artworks from a text prompt, may work by using a 'secret language', experts ..."
     publishedDateTime: 2022-06-07T12:42:00Z
@@ -49,6 +33,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2022/06/07/11/58780713-0-image-a-25_1654597075518.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Do AI systems really have their own secret language?"
+    excerpt: "Snoswell is a post-doctoral research fellow in Computational Law & AI Accountability at Queensland ... You may recall the hullabaloo in 2017 over some Facebook chat-bots that “invented their ..."
+    publishedDateTime: 2022-06-07T00:28:00Z
+    webUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg"
+        width: 1420
+        height: 800
         isCached: true
 
 secured: "tCx2SjBVfKOHwgsVNz60Eh3ApwrKiAyCUhBayKEcJH3BuWcHfs9mlW2GZOrrSl0PBngwhxWRTJ4rAAxiZPOo/BpxEUWOrKrkM5zgCou2rIFj2q3zgNMRDCvp1x/TSWOFUYdS94t9QaHT8oZ1WZGDQHZfvM7RwT9g/sCHX5BOrddt3qmjYSyqB1MTc6t3oV7WeYR7UEbiv9tTAAyOM6fjcbKRZdlXEagqCPShNL/3pC/BDAMAJu+nU2ZoBGei1XyhyKOMArPVJgN3/1RsxLPQAiU1OH7umL/tfo058HtZ3XWpCCUsKo+h/LjU6KOjXUejaziWIR39qJE+BZ8zRYgl+xPjn6uYCTbRbGYv+M9mGxZbPec1V4UOp7HoL62GW28m8QQIxL8wCg6tXvX2kJECKRwKqfe6iRV4GD4kN9jO9rKkQD3/jrRJq/xoSDzJh0kU7tElEF9bGSxFuPh7dHFene5slkovU4FmAqqef47jKQKxX/P9cQC5My6RgPkTi7jzsx1OojBRLb6BRvl0/Zbqew==;VbNadclKxqv348ugTp1jEQ=="

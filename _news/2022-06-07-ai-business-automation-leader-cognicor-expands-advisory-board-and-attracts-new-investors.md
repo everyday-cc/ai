@@ -39,6 +39,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "TIFIN Announces Magnifi Mentor, The First Conversational AI-Powered Assistant Designed For Investing'"
+    excerpt: "Magnifi also reaches the 100 million search results milestone and announces Jon Klaff, former executive from Meta Financial and Paypal as GM,"
+    publishedDateTime: 2022-06-07T21:58:00Z
+    webUrl: "https://menafn.com/1104339485/TIFIN-Announces-Magnifi-Mentor-The-First-Conversational-AI-Powered-Assistant-Designed-For-Investing"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?621394"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "oWEz0HNnsOx5TW5sGhqnH1gM6SFLUY34Yg9xXUNTXgKamoaiD9cG6FkrfaJAylwsvozXWuZy1UkXXAHKSffl5uRpvwK12QX1Ms4w8OD+vAsGNNPMeJ/eVxYnSfTsmBcdYEKEIV8LTI3cKeC4mnRNyDBk2HxosR5Ax/JxXRGQGuqxyCs8SEvVLVrx5HZfYuNF8NbpinZdE0t0NxxztuwJ/R4/7/BTWEuY7TA9umf3zP72HwXf7HhHg1j/UDYaEiffiXm5zjhTCHENIAC4sl9qnPZuz9WKpWPTSJApsG1MYhBRkZQ/OOmmegkynv00YyJqGiMDkEFls+xTW1PLNhZ28inVO7uM66jpmKEcZyxD3tXcVrH05u0tEDFHYxYR2XimuljQOMkI9TmjYbJO4DvBWLqnm2Q/WZ9jVTZ1IfaggLealPNnDVZc5NwGUu43Obs8GgkLOvaTkAyK+v498DPA2tapKA0MgtvFPhrBktFKAhx/gE7BchVC/eoWc5uNhfoe0TmGcbPCcVN7NvbuKuZ/UA==;UI0mzmF0QlB5NvkrF0+yTA=="
 ---

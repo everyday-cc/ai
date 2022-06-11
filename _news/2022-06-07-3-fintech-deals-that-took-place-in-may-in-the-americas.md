@@ -129,15 +129,6 @@ related:
       name: PR Newswire
       domain: prnewswire.co.uk
     quality: 13
-  - title: "Addressing the challenges of fintech with adoptable solutions"
-    excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
-    publishedDateTime: 2022-06-06T09:13:00Z
-    webUrl: "https://www.crainsnewyork.com/crains-content-studio/sponsored-addressing-challenges-fintech-adoptable-solutions"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 4
 
 secured: "Z8OpILCc2MEGgOGBG7NAGr0OoiuFk8wBHEvN89yF82V742yQY4UJNDnWk7VOPWafHKL1Q8Yh/HpCGVT/RCEuXKOinUuIRO0ON6UCoSXaaZIsTEL+qS0prq0MGCLiisIqhF1oeUg0F9hGGY+GtVXKaMWCMl+rL/c/3AUTKmbMvBfyD5dhtG7KtAZuy3EDGXFiTQjuk/Mc374ndqhwGFukd2BFhLyWHtdkyYMFehTSS7abLZzBzaFs9xXbYDOj50FORNNIMMWz+WR2SjJe7TlsrTvL+HtS4wxzmGtVfpSPPs5CU/8cIipXWOZY2hj41RFfOdl79MuEGLuB6OfsSex9SVrqP3+yZH8CGoKldzv7NrdJceOJ/hjGUo1KGI3Cwc5+IxDqvJlupVxKp4ReC+eSyotsX0fD01botJTdKli3srpWcZIjCCdSRlReiD9oypucW8XNJAU2eKjZApEmpyqyTqBjF3OE19tENTPeJ1/LUsLrxxfTgKAmTaAGWBoX40QKsa4zdMlMVAhBXHLQxBkhHQ==;C41W5uPM492uzzEQmiVikA=="
 ---

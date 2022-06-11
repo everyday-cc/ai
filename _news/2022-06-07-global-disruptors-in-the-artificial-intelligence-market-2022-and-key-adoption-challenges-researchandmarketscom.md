@@ -108,6 +108,17 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 12
+  - title: "Global Computer Vision Market Report 2022: Core Capabilities of Computer Vision Technology and Key Factors Driving New Use Cases and Greater Adoption"
+    excerpt: "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Computer Vision Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service analyzes the core capabilities of computer vision technology and identifies the ..."
+    publishedDateTime: 2022-06-10T11:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27643583/global-computer-vision-market-report-2022-core-capabilities-of-computer-vision-technology-and-key-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27643583"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27643583"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "G6AWfzFMSE+yPdhrJXlotjkipCjh2cxcie1rxC8Y4MCjBT1c+c8Y71sFI/Q4GI6m8l6DkHSZvY+jhOBwOU5KYunJtAua7/Ox4KBra0doY8vEZNp12CiA66qI440iw8i6TpV1CodqML1ugvvJAmF+37Kf3JlzTN7wKGTFzLpZy817W6nlCtEt2GZuuZkiUbKW729YPT6wlI6Obhxcf35BcT3rt6YIQuugW7ydnRL/n/JJd0szWeqPhas8XuiUkDoeerz9R6vKLxnc6vIIQSLoOEQdP+0+rpb56rxbL/KE/aUwJv4lErwQCwWS43OFzdkzZXeS4G7VDmiKfa0QuFZTl6rsF2Ad15UaLKVUNgj6miw=;g+wE4+6EsgO2lzgDOgmNkw=="
 ---
