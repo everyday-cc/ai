@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-08-a-new-optical-brain-like-chip-can-process-2-billion-images-per-second.md",
+      "title": "A new optical brain-like chip can process 2 billion images per second",
+      "excerpt": "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
+      "originalUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DaWMDwx/sizes/new-penn-chip_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
+      "publishedDateTime": "2022-06-08T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-jidu-unveils-first-concept-production-robocar.md",
       "title": "JIDU unveils first concept production robocar",
       "excerpt": "Powered by Baidu's leading intelligent driving technology, JIDU is set to deliver robocars that fully meet the needs of advanced autonomous",
@@ -726,6 +770,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-07-poor-hardware-utilization-puts-squeeze-on-ai-compression.md",
+      "title": "Poor Hardware Utilization Puts Squeeze on AI Compression",
+      "excerpt": "One of the most pressing challenges in deploying deep learning at scale, especially for social media giant, Meta, is making full use of hardware for inference as well as training. Researchers have been chipping away at this problem via various compression ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/",
+      "originalUrl": "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/ab_vector_skdfl.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/amp/",
+      "publishedDateTime": "2022-06-07T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-gantry-launches-out-of-stealth-to-help-data-scientists-keep-ai-models-fresh.md",
       "title": "Gantry launches out of stealth to help data scientists keep AI models fresh",
       "excerpt": "The demand for AI in the enterprise is insatiable ... the co-founder of industrial robotics startup Covariant. “Our product helps machine learning engineers use the data that is flowing through ...",
@@ -1104,103 +1191,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
-      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
-      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
-      "title": "Can A Recruiting Robot Be Ethical?",
-      "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629f30684b84f80d22b62126/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
-      "publishedDateTime": "2022-06-07T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

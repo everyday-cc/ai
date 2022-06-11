@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Andrew Ng’s Landing AI aims to help manufacturers deploy AI vision systems"
-    excerpt: "AI in computer vision is no stranger to manufacturing Industry 4.0 or to a number of other markets, such as biomedical and consumer goods."
-    publishedDateTime: 2022-06-06T12:37:00Z
-    webUrl: "https://venturebeat.com/2022/06/06/andrew-ngs-landing-ai-aims-to-help-manufacturers-deploy-ai-vision-systems/"
+  - title: "Deep Learning for Ground and Non-ground Surface Separation"
+    excerpt: "Precise ground surface topography is crucial for 3D city analysis, digital terrain modelling, natural disaster monitoring, high-density map"
+    publishedDateTime: 2022-06-09T07:52:00Z
+    webUrl: "https://www.gim-international.com/content/article/deep-learning-for-ground-and-non-ground-surface-separation"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
+      name: GIM International
+      domain: gim-international.com
+    quality: 39
+    images:
+      - url: "https://www.gim-international.com/cache/3/6/4/4/5/36445fe2cc015ad0e6a07bef6a96cd121bd0fa9c.png"
+        width: 680
+        height: 408
+        isCached: true
 
 secured: "wDtZPZUWJ3MxIfAyAwpkcKdXxg52yzfkzzArwEHdOGhfGuHYUh76PrN0Tl7uf955eg4uLE7+eqeHh4MiraFMlGqY21OU+BbHWw4WIhjPD2qnk8BukOsHac2MiMQUZ8DBveV+q7NtLmg6oI3PcsseHgzrMY6LHblbhLW14gkuPthvMh7mst9ey6TspORPLDVodnuj/UDhccQP1UnDCg9H/8ecEeA/Ry4kGHiARLhcdS3cSBPJrjOmHN+E09tRBWa3NGlMeXZ1e+bddznPxuieCPUi5L0AjfGkYeYA1iEWkOYaNaQdN4tQFadSEAHo6nW0IAHDxffr/XydwdLRSA1KZILPqaPR/tHzKKGZbWjcnOpPk1dY+hoFkjeT+xcHhUEGdEkDIGqENp+Z2GRFlja8xWB3mYamlWSTVJGhYUGbAXqMyaHYLBqtNx7nv0k9uAZttXf842pUzNZwMaQToONc6/TpNNExq8QNQAA90MtMX991gsuXsDyMLbn/pGdfxHa9crcAFigSVXhn3b1j6a46sA==;UVCsXcX0DXxy+MwWfFhM1A=="
 ---

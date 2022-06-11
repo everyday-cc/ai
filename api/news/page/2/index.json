@@ -263,7 +263,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -406,6 +406,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-unionai-releases-unionml-for-seamless-creation-of-web-native-machine-learning-applications.md",
+      "title": "Union.ai releases UnionML for seamless creation of web-native machine learning applications",
+      "excerpt": "Open-source MLOps framework speeds creation and deployment of ML microservices within a unified interface. TORONTO , June 9, 2022 /PRNewswire/ --",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/union-ai-releases-unionml-for-seamless-creation-of-web-native-machine-learning-applications-1031519214",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/union-ai-releases-unionml-for-seamless-creation-of-web-native-machine-learning-applications-1031519214",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1176,50 +1219,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-a-new-optical-brain-like-chip-can-process-2-billion-images-per-second.md",
-      "title": "A new optical brain-like chip can process 2 billion images per second",
-      "excerpt": "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "originalUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DaWMDwx/sizes/new-penn-chip_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "publishedDateTime": "2022-06-08T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

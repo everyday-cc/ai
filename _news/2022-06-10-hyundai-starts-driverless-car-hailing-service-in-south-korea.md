@@ -96,20 +96,6 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 54
-  - title: "Cruise can now charge for driverless taxi rides in San Francisco"
-    excerpt: "Cruise has slowly been allowing members of the public to ride in one of its driverless taxis on the streets of San Francisco since February, but until now the company hasn't been able to charge a ..."
-    publishedDateTime: 2022-06-06T12:07:00Z
-    webUrl: "https://www.motorauthority.com/news/1136080_cruise-can-now-charge-for-driverless-taxi-rides-in-san-francisco"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-taxi-in-san-francisco_100843940_h.jpg"
-        width: 1920
-        height: 1089
-        isCached: true
 
 secured: "XE0zcNjFy25RA0zz5i8vcRBvDknIF8sTXckvNCVNDP4ZTguBv9/xK8c223M3uIkDAQl73NEFR9uIaGxBvfABZ+lMQtg+3QTo6s1i5uLwzYlsf+7KPMQSjVZKTk0qxVYJslGgs2S0GWK1ip3FB1VJQLpuDrThdMRiTgUJHiG3n9e4k4avlgD6CCjWYGDqXtmzu0BxCfACklqc6WIgDEwlT9EJJMDgC9jntZHxp3b3iQWmw6mAm3bSO5b3MoEZtk4El62Eg29PnBTrxxscoj7vAaXYWm0AiFnXCZ3ra5nts8mp2xISjvQEbtSAQgVyzU6y/idqKhQgCYMP6OqYgaMd8TYPGR2TQxhb6PQILm4XroA=;Ijv48EVLEelvV3w4gGOO7g=="
 ---

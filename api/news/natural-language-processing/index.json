@@ -361,6 +361,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-06-cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028.md",
+      "title": "Cloud Natural Language Processing Market 2022, Industry Size, Trends, Share, Growth, Analysis and Forecast to 2028",
+      "excerpt": "A New Market Study, Titled “Cloud Natural Language Processing Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. This report provides in-depth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/14d29a7a7e47b1a888bb643ae38ecb5e6b509a72-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
       "title": "AI translates maths problems into code to make them easier to solve",
       "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
@@ -1388,40 +1431,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-google-assistant-could-soon-get-even-better-at-recognizing-what-you-say.md",
-      "title": "Google Assistant could soon get even better at recognizing what you say",
-      "excerpt": "Voice recognition is one of those modern tech miracles we easily take for granted. It helps make the Google Assistant possible, and while that's pretty good at picking up what you say and giving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
-      "originalUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

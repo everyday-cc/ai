@@ -34,6 +34,15 @@ related:
         width: 1300
         height: 500
         isCached: true
+  - title: "5 Key Findings For B2B Marketers: Conversation Automation, Personalization, And AI"
+    excerpt: "Five key findings that highlight the use of conversation automation in B2B marketing, trends in content personalization, and the role of AI in facilitating these interactions."
+    publishedDateTime: 2022-06-09T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2022/06/09/5-key-findings-for-b2b-marketers-conversation-automation-personalization-and-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
 
 secured: "4ZOF4DNazmkZn+xlRC6cr/aW+7MF4VW2EdiYxNulCXbfJdpKCyv8S7AteVw0Ryjx3LKv3L/LgPH/GBn+ggBNtwgN25qqM6D+QkjJSgWpnDAFbPYkPKgDR/rGouUgcrrX31rKVEU1qd9Efk+Ggxf8BUQ07PfqXGh8cWw5ALYgQqYtqNxBaFEj4mU9lFAjXZHzztSW7rHVKbqzJ1M2RMWId6fm5mkH5Ma5MtVLrDr1qJqdpbcMW+lj1uOnCmpV7uBJYL4rTbKsXmJhO4i31FnuFB+B6nL+FxwXFI9gieczVUusCp6TBOnFXrM2c1qmNsJ9HZulgnVRgdvluguqxfJ8cLg6/appvFxUZI9NTdSpkxvajhLGCuM134M7rYIWcLZzK2nOOxe+mYGEnM1F75zpI7TmmXjxWQOt+nRfRaKz9Nx92fNvE6dI3GX5EFl7YeXqLzYEdK4UWjCcG5f49NyNnXC9WFtoSlD354pBH0dydoDQmG2GRSU4FXK4hkaAxzscux8r9sDDoIqt+HiRG3ZIjw==;rD0s9zAUkHLLrgMjf+yLrg=="
 ---

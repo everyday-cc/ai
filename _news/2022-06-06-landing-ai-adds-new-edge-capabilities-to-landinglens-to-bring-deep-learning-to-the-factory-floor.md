@@ -2,21 +2,17 @@
 category: news
 title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
 excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-publishedDateTime: 2022-06-06T12:59:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor-1031510876"
-webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor-1031510876"
+publishedDateTime: 2022-06-06T13:18:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
 type: article
-quality: 51
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Machine Learning
@@ -103,6 +99,6 @@ related:
       domain: pantagraph.com
     quality: 19
 
-secured: "3aoGwOEsroae+mbO+I1/oye09gCzM2b+kBhmbrXDGDR3AEq59DernK7jtSVOGkigYSH8ATnrc6qJMXu3p0v6aCmMJ6dX4zLam0ujU3oaicDZwyBygDZ0ikgZWpozGL5VoHo+zp7hElY6VZiY+rp6+I1r8mZ0kbfUXM/PwdNFrNmRJj72bO5d2FgbgKjShJXMuvHTSXmkaU9uTG8QfgdGmjx+jPUHfgBKVXiBANQ4oqblpShbWjUOt/E2+Q7namQxD8DDE1uQJRLsI0y1HsNBdgpEHrcs1QcpsAdgKyqCRTdef9gYNAG1xsnI4Bgx5pFvQlV04WuaDA1JRmbk8052x776YRndinYq7oaVJvTdlJw=;772XDtQPKw9em7yvh/0EaQ=="
+secured: "KveAvKDtHLvtSkjqGJOBIB27CpK+pZYM/XnylqeP8Gh2OzxAeQd5L/Ut4Lr50vusKu5WWPKizVttMo5pABMEmF19zVREjjNqdFiW4wOo+jragtMlw1cUoy3eYY769YQh0Jf8BZhOGHuO238RYCF2gncymI2DM0MTnXNgTvlPL8ZAobnw4ZPob+gHG6wH10L1Nrr+kaTUzA3X54KkTQuEg7Q1sZP1EdXU/hpWUhdAlGSpziwBXkWyEbmy1pUfkMUHv39O1q4rMVqKzeYlua3zOUKa0s+RdLJqUDGaPzknqcYonoiXyWaGyOxqxXRNImKV2wBWaoQma4exndph3qpyqNLBE0UUNg1PhS8/CfThKvc=;kaZFO4IDLqNpNvfkPgO3BQ=="
 ---
 

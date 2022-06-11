@@ -85,6 +85,22 @@ related:
         width: 1280
         height: 1112
         isCached: true
+  - title: "Rajalakshmi School of Business offers course on fintech"
+    excerpt: "With fintech emerging as a fast-growing sector, the Rajalakshmi School of Business (RSB), a part of the Chennai-based Rajalakshmi Institutions, will offer fintech courses in a full-stream learning mode."
+    publishedDateTime: 2022-06-11T04:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/9zohnn/article65516797.ece/alternates/LANDSCAPE_615/fintech.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "CFPB ends no-action letter with fintech lender Upstart Network"
     excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
     publishedDateTime: 2022-06-08T20:37:00Z

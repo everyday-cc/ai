@@ -2,92 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-05-04-baidu-gets-a-permit-that-tesla-will-envy.md",
-      "title": "Baidu Gets a Permit That Tesla Will Envy",
-      "excerpt": "\"Their self-driving fleet has driven 40 times the distance between San Francisco and New York City.\" Wei Dong, vice president and chief safety operations officer at Baidu Intelligent Driving Business Group, said in a statement that China's regulatory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUzMDgzODMwNjU4OTY3/amd-shares-higher-for-ninth-straight-day-chipmaker-unveils-new-cpu-deals.png",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "publishedDateTime": "2022-05-03T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-can-artificial-intelligence-help-fight-western-wildfires.md",
-      "title": "Can Artificial Intelligence Help Fight Western Wildfires?",
-      "excerpt": "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
-      "originalUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/bd7f643/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F29%2F8eabf0f5fb605508abbc28c7f04c%2Fshutterstock-2189586432.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
-      "publishedDateTime": "2022-05-03T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
       "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
       "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
@@ -1371,6 +1285,94 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-uae-vows-responsible-artificial-intelligence-rollout.md",
+      "title": "UAE vows 'responsible' artificial intelligence rollout",
+      "excerpt": "Dubai (AFP) – The world's first minister for artificial intelligence says the ... its economy and reduces its reliance on oil. Self-driving taxis being used in a demonstration in the UAE capital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout",
+      "originalUrl": "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "France 24",
+        "domain": "france24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-novartis-and-snowflake-driving-healthcare-data-innovation.md",
+      "title": "Novartis and Snowflake: Driving healthcare data innovation",
+      "excerpt": "Novartis recently joined Snowflake’s newly-launched Healthcare Data Cloud, which aims to create an integrated and cross-cloud data platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/",
+      "originalUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/",
+      "publishedDateTime": "2022-04-25T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
       ]
     }
   ],

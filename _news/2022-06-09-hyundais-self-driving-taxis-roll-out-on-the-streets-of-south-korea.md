@@ -96,20 +96,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Cruise can now charge for driverless taxi rides in San Francisco"
-    excerpt: "Cruise has slowly been allowing members of the public to ride in one of its driverless taxis on the streets of San Francisco since February, but until now the company hasn't been able to charge a ..."
-    publishedDateTime: 2022-06-06T12:07:00Z
-    webUrl: "https://www.motorauthority.com/news/1136080_cruise-can-now-charge-for-driverless-taxi-rides-in-san-francisco"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-taxi-in-san-francisco_100843940_h.jpg"
-        width: 1920
-        height: 1089
-        isCached: true
 
 secured: "k1bFqEjBMvLIPzOAfcQxshuvRbxENu16uTkMAbfpMli4ejXGAfSdr+CoW+ROf9k/H3PKb7ZREERqKyBYAzoJ7IVQ2yC1abj9QseH+EaQ1KKLqKRmYSZAawRyP05MmCZYy3fbV5vRituy+tK0UXDWIfkr5oPOASc126VfdLfKUPuankjgszJ7yQACywgsSsV+Pu6X0k/LS7eqcKy9GXD7dLBJgTEgjsH9cWQ/fHZA/qlg+il4NE7SplL9XVb1Cps6CSjWREzPF0ZQtVNwB0Z6NQrrwV7PFevLqwd83SZrZdDi80fCOXXqt83fK6mWyUUacECFjh5S+GB5Ld4LID513xilMHASuQbd3vF+SRESofzyb+6Qj908jsPsTHE0i/tQsm9QmCd1/n7o/45C1q1X0HZsYRZH3rIQkaPZDs49UJ03JTgmLMGlcuMkdK7rBD1MGNvKUjXuCrGnTS75MFvpuTvCfvCgyh0o5uwz8bJQOQJN6RfuaUaFeOKx3TOpK65N5Xh/vGKKw7I+Bl+hkjj5uA==;eCj4WPLaAlC56OIcqoidQw=="
 ---

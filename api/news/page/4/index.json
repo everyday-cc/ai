@@ -2,6 +2,103 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
+      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
+      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
+      "title": "Can A Recruiting Robot Be Ethical?",
+      "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629f30684b84f80d22b62126/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "publishedDateTime": "2022-06-07T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
       "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
       "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
@@ -189,58 +286,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-this-artificial-intelligence-stock-has-a-596-billion-opportunity.md",
-      "title": "This Artificial Intelligence Stock Has a $596 Billion Opportunity",
-      "excerpt": "No technology has ever had the potential to transform the way the world does business quite like artificial intelligence (AI). Even in its early stages, it's already proving its ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/06/06/artificial-intelligence-stock-billion-opportunity/",
-      "originalUrl": "https://www.fool.com/investing/2022/06/06/artificial-intelligence-stock-billion-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/683425/an-oil-industry-worker-sitting-at-a-desk-with-a-hard-hat-on-working-on-computers.jpg",
-          "width": 4925,
-          "height": 3283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -939,6 +984,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-06-cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028.md",
+      "title": "Cloud Natural Language Processing Market 2022, Industry Size, Trends, Share, Growth, Analysis and Forecast to 2028",
+      "excerpt": "A New Market Study, Titled “Cloud Natural Language Processing Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. This report provides in-depth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/14d29a7a7e47b1a888bb643ae38ecb5e6b509a72-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
       "title": "AI translates maths problems into code to make them easier to solve",
       "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
@@ -1118,93 +1206,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain.md",
-      "title": "Chitti The Robot Got Competition! Indian Researcher Develops E-Skin That Can Actually Feel Pain",
-      "excerpt": "The artificial skin was developed by Ravinder Dahiya's team at the university using a novel sort of processing system based on synaptic transistors.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
-      "originalUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/781e9c68-ff8c-4e9b-9f9f-e20bd4397e4c_95zq.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
-      "publishedDateTime": "2022-06-06T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.md",
-      "title": "Automating Signature Recognition Using Capgemini MLOps Pipeline on AWS",
-      "excerpt": "Signature-recognition technologies can help reduce human error, time, and limitations involved in manual verification processes. With Capgemini and AWS, creating the necessary machine learning models is easy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
-      "originalUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/iStock-1322050816.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

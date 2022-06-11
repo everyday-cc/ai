@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-pu
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Platform
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "5 Key Findings For B2B Marketers: Conversation Automation, Personalization, And AI"
+    excerpt: "Five key findings that highlight the use of conversation automation in B2B marketing, trends in content personalization, and the role of AI in facilitating these interactions."
+    publishedDateTime: 2022-06-09T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2022/06/09/5-key-findings-for-b2b-marketers-conversation-automation-personalization-and-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "Flex Logix launches EasyVision with ready-to-use models and AI acceleration hardware"
     excerpt: "Flex Logix Technologies, a supplier of edge AI inference accelerators, has announced the availability of EasyVision Platforms designed to help customers get to market quickly with edge computer vision products addressing a wide range of different markets."
     publishedDateTime: 2022-06-07T09:25:00Z

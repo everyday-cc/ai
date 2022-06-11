@@ -2,6 +2,109 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-02-23-googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps.md",
+      "title": "Google’s Area 120 debuts Checks, an AI-powered privacy compliance solution for mobile apps",
+      "excerpt": "A team at Google is today launching a new product for mobile app developers called Checks which leverages A.I. technology to identify possible privacy and compliance issues within apps, amid a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/",
+      "originalUrl": "https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/checks-2.jpg?w=680",
+          "width": 680,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/amp/",
+      "publishedDateTime": "2022-02-22T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference.md",
+      "title": "See future tech and learn AI skills for free at NVIDIA Developer Conference",
+      "excerpt": "Next month the world’s brightest minds in AI and accelerated computing will come together to share their knowledge and peer into the future. Tens of thousands of technologists and developers will attend NVIDIA GTC — a free,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/",
+      "originalUrl": "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/NVIDIA-GTC-March-2022_press-release_collage.jpg?w=711",
+          "width": 711,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-edtech-startup-hfactory-emerges-from-hi-paris-ai-center.md",
       "title": "EdTech Startup HFactory Emerges from Hi! PARIS AI Center",
       "excerpt": "EdTech SaaS company HFactory comes out of stealth mode today with the ambition to reignite higher education pedagogy on Data Science and AI. The startup takes its roots in the “learning by doing” methods and pedagogical approaches championed within the Hi!",
@@ -1071,111 +1174,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future.md",
-      "title": "Report On Deep Learning Processor Chip Market Outlook 2022 Analysis By Technological Trends, Industry Share And Future",
-      "excerpt": "Feb 22, 2022 (The Expresswire) -- \"The Global Deep Learning Processor Chip Market research report concentrates on the product of this market that is traded. It explains all the aspects like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future-2022-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future-2022-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-21T19:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-deep-learning-chipset-market-size-sale-2022-drivers-and-applications-are-pertinent-for-sustenance-during-the-forecast-period-2026.md",
-      "title": "Deep Learning Chipset Market Size, sale 2022 drivers and applications are pertinent for sustenance during the forecast period 2026",
-      "excerpt": "Global “ Deep Learning Chipset Market” By Type (Graphics Processing Units (GPUs), Central Processing Units (CPUs), Application Specific Integrated Circuits (ASICs)), By Application ( Consumer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-sale-2022-drivers-and-applications-are-pertinent-for-sustenance-during-the-forecast-period-2026-2022-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-sale-2022-drivers-and-applications-are-pertinent-for-sustenance-during-the-forecast-period-2026-2022-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-21T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

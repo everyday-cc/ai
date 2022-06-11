@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -385,58 +385,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-07-this-artificial-intelligence-stock-has-a-596-billion-opportunity.md",
-      "title": "This Artificial Intelligence Stock Has a $596 Billion Opportunity",
-      "excerpt": "No technology has ever had the potential to transform the way the world does business quite like artificial intelligence (AI). Even in its early stages, it's already proving its ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/06/06/artificial-intelligence-stock-billion-opportunity/",
-      "originalUrl": "https://www.fool.com/investing/2022/06/06/artificial-intelligence-stock-billion-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/683425/an-oil-industry-worker-sitting-at-a-desk-with-a-hard-hat-on-working-on-computers.jpg",
-          "width": 4925,
-          "height": 3283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-07-how-artificial-intelligence-brings-new-superpowers-to-supercomputers.md",
       "title": "How artificial intelligence brings new superpowers to supercomputers",
       "excerpt": "Nvidia also detailed multiple case studies of how its HPC innovations are being used to help enable AI for nuclear fusion and brain health research. HPC is not just about the world’s fastest ...",
@@ -705,49 +653,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some.md",
-      "title": "Artificial intelligence scans for weapons, but faces criticism from some",
-      "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvr.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "originalUrl": "https://www.wtvr.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtvr.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
-      "publishedDateTime": "2022-06-03T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVR",
-        "domain": "wtvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1390,6 +1295,103 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform.md",
+      "title": "US Senate candidate runs on anti-Tesla “Full Self Driving” platform",
+      "excerpt": "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
+      "originalUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-a3-robot-sales-in-north-america-continue-record-increase-into-2022.md",
+      "title": "A3: robot sales in North America continue record increase into 2022",
+      "excerpt": "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
+      "originalUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2205_F_LMEx_DigitalSC-Main600p_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales",
+        "AI in Autos"
       ]
     }
   ],

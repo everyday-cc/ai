@@ -2,83 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-03-09-2-monster-growth-stocks-shaping-the-future-of-technology.md",
-      "title": "2 Monster Growth Stocks Shaping the Future of Technology",
-      "excerpt": "To that end, GPUs are used to accelerate compute-intensive workloads like artificial intelligence ... By comparison, rivals like Alphabet's Waymo and GM's Cruise measure their miles in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-monster-growth-stocks-shaping-the-future-of-technology",
-      "originalUrl": "https://www.nasdaq.com/articles/2-monster-growth-stocks-shaping-the-future-of-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-monster-growth-stocks-shaping-the-future-of-technology?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-monster-growth-stocks-shaping-the-future-of-technology?amp",
-      "publishedDateTime": "2022-03-09T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts.md",
-      "title": "Artificial intelligence and corporate social responsibility can strengthen anti-corruption efforts",
-      "excerpt": "AI has increasingly become a part of our daily lives, from digital assistants like Siri and Alexa, to self-driving cars like Teslas and ride-hailing applications like Uber. Given that AI has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "originalUrl": "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/450789/original/file-20220308-27-1g7ieyt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "publishedDateTime": "2022-03-08T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-09-5-stocks-to-get-your-feet-wet-in-emerging-ai.md",
       "title": "5 Stocks to Get Your Feet Wet in Emerging AI",
       "excerpt": "Motley Fool contributors Trevor Jennewine, Billy Duberstein, Jose Najarro, and Will Healy list some of their favorite stocks to play artificial intelligence technology. Trevor Jennewine: I think AI is going to be one of those technologies that's like the internet 10 years down the road.",
@@ -1374,6 +1297,102 @@
       "provider": {
         "name": "Automotive News",
         "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars.md",
+      "title": "AI Ethics Grapples With Societal AI Wish Fulfillment, Including The Dreamy Case Of Those Idolized AI-Based Self-Driving Cars",
+      "excerpt": "AI ethics examines the impact of societal AI wish-fulfillment when it comes to underplaying AI risks and downsides, which arises in many AI arenas including the advent of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6213fd49c1dc8fd430c0952c/0x0.jpg?format=jpg&crop=3860,2172,x0,y102,safe&fit=crop",
+          "width": 3860,
+          "height": 2172,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/",
+      "publishedDateTime": "2022-02-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-use-of-artificial-intelligence-in-agriculture-comes-with-substantial-risks-researchers-warn.md",
+      "title": "Use of Artificial Intelligence in Agriculture Comes with Substantial Risks, Researchers Warn",
+      "excerpt": "Imagine a field of wheat that extends to the horizon, being grown for flour that will be made into bread to feed cities' worth of people. Imagine that all authority for tilling, planting, fertilising,",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12773",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12773",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12773_16457041713834921.jpg",
+          "width": 350,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
         "images": null,
         "publishers": null,
         "authors": null

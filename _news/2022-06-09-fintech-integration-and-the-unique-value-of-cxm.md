@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/HSBC-UK-bank.jpg"
         width: 1280
         height: 1112
+        isCached: true
+  - title: "Rajalakshmi School of Business offers course on fintech"
+    excerpt: "With fintech emerging as a fast-growing sector, the Rajalakshmi School of Business (RSB), a part of the Chennai-based Rajalakshmi Institutions, will offer fintech courses in a full-stream learning mode."
+    publishedDateTime: 2022-06-11T04:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/9zohnn/article65516797.ece/alternates/LANDSCAPE_615/fintech.jpg"
+        width: 615
+        height: 383
         isCached: true
   - title: "HSBC to run fintech education course for employees"
     excerpt: "... 101 is based on the Oxford Fintech Programme. Selected content has been drawn from online programmes, to include up-to-date, and relevant examples, specifically on digital disruption and platforms, as well as AI and open banking. Rita Martins, head of ..."

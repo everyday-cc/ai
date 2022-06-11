@@ -2,6 +2,104 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-02-green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.md",
+      "title": "GREEN500 Supercomputer Powering Robot Scientists and Transformational Machine Learning",
+      "excerpt": "England’s University of Cambridge was recognized at the ISC 2022 event in Hamburg, Germany for its Dell-based Wilkes-3 supercomputer, rated 8 in the GREEN500 and 304 in the TOP500, and Cumulus system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
+      "originalUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/06/green-500.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
+      "publishedDateTime": "2022-06-02T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-precision-healthcare-ai-tools-eyed-by-investors.md",
+      "title": "Precision healthcare AI tools eyed by investors",
+      "excerpt": "AI and ML promise to transform healthcare across the board, but particularly through the use of precision medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/",
+      "originalUrl": "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687-e1654121302980.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/amp/",
+      "publishedDateTime": "2022-06-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies.md",
       "title": "Guardforce AI announces further expansion into China with acquisition of additional 12 robotics companies",
       "excerpt": "The deal, valued at US$12 million, follows the company's previously announced definitive agreement to acquire seven robotics companies in China",
@@ -1033,84 +1131,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro.md",
-      "title": "Artificial Intelligence in Platform as a Service Market to Eyewitness Massive Growth by key players Rainbird AI, Azure, Wipro",
-      "excerpt": "Ample Market Research published a new research report Artificial Intelligence in Platform as a Service (PaaS) market contains a clear arrangement of the declared information as pie charts, follows, the line follows,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
-      "originalUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
-      "title": "Business travelers face higher prices, and packed flights, hotels",
-      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
-      "publishedDateTime": "2022-06-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

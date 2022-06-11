@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence could help brick-and-mortar stores achieve a new golden age"
+    excerpt: "Before COVID-19, financial pundits were busy predicting the inevitable death of brick-and-mortar retail stores. But two years later, we Americans are emerging from the pandemic, remembering that"
+    publishedDateTime: 2022-06-11T04:28:00Z
+    webUrl: "https://www.butlereagle.com/20220611/artificial-intelligence-could-help-brick-and-mortar-stores-achieve-a-new-golden-age/"
+    type: article
+    provider:
+      name: Butler Eagle
+      domain: butlereagle.com
+    quality: 33
+    images:
+      - url: "https://imengine.public.prod.bte.navigacloud.com/?uuid=bac699b3-a585-53d3-ba4f-9e2e466d42f3&function=cover&type=preview&source=false&width=300&height=300"
+        width: 299
+        height: 234
+        isCached: true
   - title: "Brian Onorio: Artificial intelligence could help brick-and-mortar stores achieve a new golden age"
     excerpt: "Before COVID-19, financial pundits were busy predicting the inevitable death of brick-and-mortar retail stores. But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing,"
     publishedDateTime: 2022-06-07T20:44:00Z

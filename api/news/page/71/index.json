@@ -2,6 +2,101 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-04-12-how-low-code-machine-learning-can-power-responsible-ai.md",
+      "title": "How low-code machine learning can power responsible AI",
+      "excerpt": "Although accuracy of AI models is important, there is an urgent need to understand how AI can be designed to operate responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1182764552.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
+      "publishedDateTime": "2022-04-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving.md",
+      "title": "Tesla fans struggle to get loved ones on board with ‘full self-driving’",
+      "excerpt": "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on “full self-driving.” “I need you to understand that I have complete ...",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/",
+      "originalUrl": "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b-300.jpg",
+          "width": 2000,
+          "height": 1351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-artificial-intelligence-algorithm-aims-to-rapidly-diagnose-cardiac-problems.md",
       "title": "Artificial intelligence algorithm aims to rapidly diagnose cardiac problems",
       "excerpt": "Medical AI Inc.’s technology will provide fast, accurate diagnosis of cardiac problems, kidney failure, sepsis and anemia using hospital or home electrocardiogram devices.",
@@ -1018,92 +1113,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations.md",
-      "title": "Using AI To Predict Side Effects From New Anticancer Drug Combinations",
-      "excerpt": "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/cancer-research/news/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478",
-      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/360478/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478-640x360.jpg?cb=20220411",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-self-driving-water-taxi-stalls-out-in-knoxville-as-company-struggles-to-find-an-operator.md",
-      "title": "Self-driving water taxi stalls out in Knoxville as company struggles to find an operator",
-      "excerpt": "The startup behind the world’s first autonomous water taxi is having difficulty partnering with Knoxville companies. But all is not lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.knoxnews.com/story/money/2022/04/11/knoxville-companies-worlds-first-self-driving-taxi-stalls-out-knoxvilleworlds-first-self-driving-tax/7269137001/",
-      "originalUrl": "https://www.knoxnews.com/story/money/2022/04/11/knoxville-companies-worlds-first-self-driving-taxi-stalls-out-knoxvilleworlds-first-self-driving-tax/7269137001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/07/PKNS/1ecb9ad5-6e77-4d2f-801f-297cd76fcd14-kns-taxi00108_BP_2.jpg?auto=webp&crop=2799,1575,x0,y959&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.knoxnews.com/amp/7269137001",
-      "cdnAmpWebUrl": "https://amp-knoxnews-com.cdn.ampproject.org/c/s/amp.knoxnews.com/amp/7269137001",
-      "publishedDateTime": "2022-04-10T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Knox News",
-        "domain": "knoxnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

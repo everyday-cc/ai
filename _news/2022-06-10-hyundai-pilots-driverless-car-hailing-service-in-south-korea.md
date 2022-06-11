@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverle
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhBed4rXr3IN5db6Qntbf-EKQo07ymC1tUiG_cds9qRyRz6ul6fXZm60XV5VLH5UPZOV7I5rwVpEgqukYmyB1HsGSdEZAWYrTif7owb81V5lEn8zEkEWP-Rh2d7twIIXNPbcGX8ZH8ui5M7248_EARZv3FbezkVEO85heVtuqdhGzmzBxXQEfDamj-g/w1200/hyundai_roboride.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Cruise can now charge for driverless taxi rides in San Francisco"
-    excerpt: "Cruise has slowly been allowing members of the public to ride in one of its driverless taxis on the streets of San Francisco since February, but until now the company hasn't been able to charge a ..."
-    publishedDateTime: 2022-06-06T12:07:00Z
-    webUrl: "https://www.motorauthority.com/news/1136080_cruise-can-now-charge-for-driverless-taxi-rides-in-san-francisco"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-taxi-in-san-francisco_100843940_h.jpg"
-        width: 1920
-        height: 1089
         isCached: true
 
 secured: "lej81BlwhVZ5j08KBgwyC24TdeDhaU8ykovTTZhcLYmECa0UBLAYMEDKOJfq33TlkyDQImLvUfXosKv/AeAoWQSq18VDFKH3LgAHEdyFGwTyzJ6tal2sqdHq2otUcFBWqz3JAYSfnZvOudoXgB9MYrnJeS3z4AHWr4famZ/NXirtGXc/3m4x7u/GIMF4Xpyzi0a8iAhe0mTdceL9yPQAYlhnIuLd+bN4WxvLD2vrGrxYzBKWpXA5MBNJ0rgaowJLdpZ8zsHI/EInABKOZDERgFT2EMkuUeXbfXhH0m3vK+XxIrV2YaejA28qhBReCwDNmP5RK88azGaISoTrygN7bXrC8M84AKHQugoIDvOAvVATeOQy9xVQpj+Chgy8Cw1Ex0dYOby6mkuMcok12xFrg9i5mI4FcOEM8EG6jV93l+0hpzFAyo5MnKlwB4ff4RvKuQuFGuZjH1BF2Vybjghc+IKMHVyya/GrbdAze5sn4bobn8zMQ5p5aRPMcZr2rHWtrPbnOiBnXmj7zfgWgJb0lg==;deOyuxTfbpv/O4sBh3CVkg=="
