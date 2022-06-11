@@ -89,6 +89,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Alphabet's Waymo, Uber Freight in Deal for Future Self-Driving Trucks"
+    excerpt: "Companies including Waymo, TuSimple Holdings Inc, Aurora Innovation Inc and others hope to sell self-driving trucking services to logistics companies and large retailers in coming"
+    publishedDateTime: 2022-06-07T15:04:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-07/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Lawmakers stall over self-driving cars"
     excerpt: "Autonomous vehicles (AV) are already on U.S. roads, but the fast-growing industry will have to overcome fears from policymakers and the general public before driverless cars and trucks are widely"
     publishedDateTime: 2022-06-07T12:00:00Z
@@ -120,20 +129,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2020/03/waymo-truck.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Alphabet's Waymo, Uber Freight In Deal For Future Self-driving Trucks"
-    excerpt: "Waymo Via, the self-driving trucking unit of Alphabet Inc, and Uber Technology Inc's Freight business on Tuesday said they signed a long-term strategic partnership that would allow future customers to deploy autonomous trucks more efficiently."
-    publishedDateTime: 2022-06-07T15:40:00Z
-    webUrl: "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/the-waymo-logo-is-displayed-during-the-companys.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
     excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."

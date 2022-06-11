@@ -1,40 +1,20 @@
 ---
 category: news
 title: "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots"
-excerpt: "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,"
-publishedDateTime: 2022-06-06T13:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c"
+excerpt: "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ..."
+publishedDateTime: 2022-06-06T13:46:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots"
+webUrl: "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots"
 type: article
-quality: 28
-heat: 28
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Realtime Robotics RapidPlan Software Simplifies and Speeds Programming and Deployment Time for Industrial Robots"
-    excerpt: "Realtime Robotics, the leader in collision-free autonomous motion planning for industrial robots, today announced the release of its new RapidPlan software, which helps manufacturers design and deploy industrial automation faster and more efficiently."
-    publishedDateTime: 2022-06-06T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-detroit-software-robotics-7327b794e726440794578b89c6713582"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-
-secured: "JQTgoRPanhmVRl07w9rDDjTgTM3asF9E0MDl/OnvpJllr8yFsMFK/WCw4ipSGJv0Sexy3QLJ1f1h3Yy1RGaW7/yRs9yOpwJ5T218sYNjNRhSBBprz/ksc0IeKf2YmNTmTBwg1eTUa2zslYVvMs9Uz9CjSmRp85Gajb/TTwEYNzute8fvdrcBQRXV7NpeEgCybDj8VHq35iXn/FqVznuivbgPSin0rFlejyUH2VB+hDxjSbnGaYzzSVauIyLtP/p2tqsquxpwcg6F8kImkLbfpuqEFXUKs4ngqt71MAM0f4AAr2+HQhjyWODxaY6DKiQl+lQ7kaJQ69GwGna2IYm+zAwQTrrsmMVvtt0z9Z/2SgM=;jVNp7u9eoznOBgrdgtnNOw=="
+secured: "S9I7xaPBiwdoAm7d0ua9oRk2wi/nP64pRvwanC3Z0nJpraQdLKHS2ByFA2lJ0EeQ+4H6YWBtExfjz8Sja1siPhRkpNYMQYbJ8fnZYRJzqQT0ncQOcz2ggCJUOc3QFJhV95vnX/SWcRr0ZG/PYFzY/Mlv4nz+o895FTvONyP499GUeNsdlWGx2AT60UFNYL1w7q3gjMs4ca1QZqwt3+JhB7+JK35sLWAgjT5MEOxZOIf9JvLsx06hpXns9aRyD2MrXKqDeLqua+/EW0qXoGrzBrD57MspPEfMLV1cGKg8loWFSTNOU3nmKple2GF4Xd8Te+bd17SNJtJ4lakHF1NqveJENuZYU7zH1m1a2Mr2lRA=;T8OIagsbhcqCGPezhGBSgg=="
 ---
 

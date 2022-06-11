@@ -9,7 +9,7 @@ ampWebUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-s
 cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://en-media.thebetterindia.com/uploads/2022/06/Amazon-India-1-1654771133.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Devnagri - India’s First AI-powered Translation Engine As Language Partner At Assochom Fintech Festival India"
+    excerpt: "Assochom Fintech Festival India 2022, One of the finest and biggest salutations of limitless networking, involving new technology ideas took place from 8th to 10th June, 2022 at Le Meridian Hotel , New Delhi,"
+    publishedDateTime: 2022-06-11T08:38:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 40
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1cyvor38wbt7dcmh_1654936705.jpeg"
+        width: 768
+        height: 438
         isCached: true
   - title: "Amazon India launches second edition of Machine Learning training programme for students"
     excerpt: "Amazon India has launched the second edition of Machine Learning (ML) Summer School, that aims to provide students the opportunity to learn key ML technologies from scientists at Amazon making them ready for careers in science. The course, conducted over ..."

@@ -75,70 +75,6 @@ related:
         width: 1200
         height: 901
         isCached: true
-  - title: "Axon AI ethics board members resign over plans for Taser drones"
-    excerpt: "Nine members of the AI ethics board for police technology company Axon have resigned after the company said it would develop drones equipped with Tasers despite the board's earlier opposition."
-    publishedDateTime: 2022-06-06T15:05:00Z
-    webUrl: "https://www.protocol.com/bulletins/axon-ai-ethics-board-resignation?share_id=7086056"
-    ampWebUrl: "https://www.protocol.com/amp/axon-ai-ethics-board-resignation-2657463314"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/axon-ai-ethics-board-resignation-2657463314"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 74
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-axon-announced-plans-to-develop-taser-drones-before-putting-those-plans-on-hold-less-than-p-greater-than.jpg?id=29940833&width=400&coordinates=0%2C0%2C0%2C18&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Axon drops Taser drone idea after 9 on ethics board resign"
-    excerpt: "CEO Rick Smith wanted to develop a drone-powered Taser after being \"catastrophically disappointed\" by police actions in Uvalde."
-    publishedDateTime: 2022-06-06T15:10:00Z
-    webUrl: "https://www.cbsnews.com/news/axon-taser-drone-canceled-ethics-board-resigns/?intcid=CNI-00-10aaa3b"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/axon-taser-drone-canceled-ethics-board-resigns/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/axon-taser-drone-canceled-ethics-board-resigns/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/06/f79953cc-2daf-414a-bcf5-af6a55063055/thumbnail/1200x630/5f1b9d8569b81732c3a51dddaadc86a7/download.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Axon's drops Taser drone idea after 9 on ethics board resign"
-    excerpt: "CEO Rick Smith wanted to develop a drone-powered Taser after being \"catastrophically disappointed\" by police actions in Uvalde."
-    publishedDateTime: 2022-06-06T15:10:00Z
-    webUrl: "https://www.cbsnews.com/news/axon-taser-drone-canceled-ethics-board-resigns/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/axon-taser-drone-canceled-ethics-board-resigns/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/axon-taser-drone-canceled-ethics-board-resigns/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/06/06/f79953cc-2daf-414a-bcf5-af6a55063055/thumbnail/1200x630/5f1b9d8569b81732c3a51dddaadc86a7/download.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Company Halts Plans for Taser Drone as 9 on Ethics Board Resign"
-    excerpt: "Axon, the company best known for developing the Taser, said it was halting plans to develop a Taser-equipped drone."
-    publishedDateTime: 2022-06-06T15:45:00Z
-    webUrl: "https://www.military.com/daily-news/2022/06/06/company-halts-plans-taser-drone-9-ethics-board-resign.html"
-    ampWebUrl: "https://www.military.com/daily-news/2022/06/06/company-halts-plans-taser-drone-9-ethics-board-resign.html/amp"
-    cdnAmpWebUrl: "https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2022/06/06/company-halts-plans-taser-drone-9-ethics-board-resign.html/amp"
-    type: article
-    provider:
-      name: Military.com
-      domain: military.com
-    quality: 59
-    images:
-      - url: "https://images01.military.com/sites/default/files/styles/full/public/2022-06/ApNewsroom_Taser_Drones-School_Shootings_25461.jpg?itok=L4l0Vbjs"
-        width: 621
-        height: 349
-        isCached: true
   - title: "Plans for Taser drone halted as 9 on company’s ethics board resign"
     excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial"
     publishedDateTime: 2022-06-06T22:01:00Z
@@ -219,22 +155,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "'We wish it had not come to this:' Axon ethics board members resign over Taser drone project"
-    excerpt: "Some board members had voiced concerns about introducing weaponizing drones in over-policed communities of color."
-    publishedDateTime: 2022-06-06T15:38:00Z
-    webUrl: "https://www.12news.com/article/news/nation-world/axon-halts-plans-for-taser-drone/507-79b7756b-6543-4720-a4e7-6026d884ee6d"
-    ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/axon-halts-plans-for-taser-drone/507-79b7756b-6543-4720-a4e7-6026d884ee6d"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/axon-halts-plans-for-taser-drone/507-79b7756b-6543-4720-a4e7-6026d884ee6d"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 48
-    images:
-      - url: "https://media.12news.com/assets/CCT/images/e14911fd-aab4-42d7-aef4-e2f76f6ee2c4/e14911fd-aab4-42d7-aef4-e2f76f6ee2c4_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
     publishedDateTime: 2022-06-06T19:53:00Z

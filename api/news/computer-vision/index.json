@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-11-is-tesla-backtracking-on-its-camera-only-autopilot-strategy.md",
+      "title": "Is Tesla Backtracking On Its Camera-Only Autopilot Strategy?",
+      "excerpt": "A Tesla Model Y was spotted in Canada with a LiDAR system integrated into its roof. Could there be a change coming to Tesla’s camera-only Tesla Vision plan?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a38c5ba606a01408876076/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/amp/",
+      "publishedDateTime": "2022-06-11T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-a-new-optical-brain-like-chip-can-process-2-billion-images-per-second.md",
       "title": "A new optical brain-like chip can process 2 billion images per second",
       "excerpt": "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second.",
@@ -1273,40 +1326,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ico-imposes-75m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted.md",
-      "title": "ICO imposes £7.5m monetary penalty on facial recognition database company and orders UK data to be deleted",
-      "excerpt": "Clearview AI has been hit with a monetary penalty of £7,552,800 for using images of people in the UK and elsewhere collected from the web and social media to create a global online database that could be used for facial recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://localgovernmentlawyer.co.uk/information-law/398-information-law-news/50601-ico-imposes-7-5m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted",
-      "originalUrl": "https://localgovernmentlawyer.co.uk/information-law/398-information-law-news/50601-ico-imposes-7-5m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local Government Lawyer",
-        "domain": "localgovernmentlawyer.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-26-novartis-and-snowflake-driving-healthcare-data-innovation.md",
+      "title": "Novartis and Snowflake: Driving healthcare data innovation",
+      "excerpt": "Novartis recently joined Snowflake’s newly-launched Healthcare Data Cloud, which aims to create an integrated and cross-cloud data platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/",
+      "originalUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/",
+      "publishedDateTime": "2022-04-25T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage.md",
       "title": "Hospitals turn to artificial intelligence to help patients while addressing worker shortage",
       "excerpt": "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled.",
@@ -1237,50 +1291,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.md",
-      "title": "Healthcare to increase tech spending for cybersecurity, marketing and AI",
-      "excerpt": "More than 80 percent of companies expect to increase or maintain technology spending in the next 12 months, with healthcare, life sciences and financial companies planning the largest increases, according to research Bloomberg released April 8.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/10.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

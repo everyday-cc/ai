@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Alphabet's Waymo, Uber Freight In Deal For Future Self-driving Trucks"
-excerpt: "Waymo Via, the self-driving trucking unit of Alphabet Inc, and Uber Technology Inc's Freight business on Tuesday said they signed a long-term strategic partnership that would allow future customers to deploy autonomous trucks more efficiently."
-publishedDateTime: 2022-06-07T15:40:00Z
-originalUrl: "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394"
-webUrl: "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394"
+title: "Alphabet's Waymo, Uber Freight in Deal for Future Self-Driving Trucks"
+excerpt: "Companies including Waymo, TuSimple Holdings Inc, Aurora Innovation Inc and others hope to sell self-driving trucking services to logistics companies and large retailers in coming"
+publishedDateTime: 2022-06-07T15:04:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-06-07/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-06-07/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/the-waymo-logo-is-displayed-during-the-companys.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Waymo and Uber Partner to Deploy Self-Driving Trucks at Scale"
@@ -145,6 +143,6 @@ related:
       domain: jalopnik.com
     quality: 28
 
-secured: "kviNBHe/UH1V5EMGR4oFQEdlp9unTFeqXe5O8ZAahEV0396skYOSZQhVHzeheuoqsuD2fSgpEJVcxPtWbwYV3Q37qP44BxGF5q8QIjEFPiKDwzSZc7t85D/hBGnJO5FkrUX3TFvK2hn4k47opJwkrB1S+3Sw4nS+yUXMckxGN061HCTKErWwQIy/utW46nZxo/nXHI5Ji+wchvHY5RKfEQi0yj6D/DMi9olvLqhGSG8vIistlVoUAYEfG2hm4MNYACJ/NsC6EFTlaLiIqKH0OAiUVJrYPFm+5dZiRNBI+Vb8l1/UsaHXyr73qgOhHB/B9xMG4X8JTAD4Dp26WfqeeFA6/AUgMUwPaK7lgOmmhEb8bJrYUKaQpOYTW+0uJj4lBCp/ogz/iajTYmV0sTJF/k3f4awkFT2XXk+ffqKN1yOxcLsB4ww5WXw04kwfBFhksIJqPk55AufJsNLbksXRcuNAjOTTbXnXp38tH29x+dhw9W/FArR2Z5tps0DQ2nNEP9DZimYSAvzbSpuyVJs8Bw==;TTb7S4BWa+y0TsQaAL396A=="
+secured: "8pcv3uTL3KrFs/6plLLpXPeoaXwit036KpH2g13W4JbExSyV4NfUmw/1uA1rmXI0tqGDOVjpMtho4cfp4gOFtw/Benn1rT+eUDHzfuHYiTGMkgizgP6mmD1c7nhwhcg1sUGCWb/kS4TWR6rm9SOy1WeEf/T5zNKvYCZIzNRx2qwdJ3lQuKIUihnpzKv2j55KXvKefhvbBCynNTIXvX85JrC0gn/ZLsbOaNmR64VJSLb7bDUVmHn2N2vx6ysJFicn1rfcIzvMvYSTidjIgZoLwYwItabOjcqwxzI2zVEw1hLUFzvj17r0Y/Mz3lG7Gkzy8ixE6B6yXnGRunnZm0lbqPmOewSa+Zue4roB3qVsqDVfQD7+gYjex7yDm6XTEzad1pIAhhBfAK4MEDM5kHFP0LljWPCNAtVgsms+wle7GErskAhFK79q7yY4iMSalUdV1Ss5JjOKAlMx5OILJ/oabk34H6gH/I2qWQ0WwvC2qV6ldeo2IHqjoBCmEVG8VAc6rwU0LVOOyxXhHe4QmL1Reg==;Y2w8Mihf6N1AAhd+Wr10/w=="
 ---
 

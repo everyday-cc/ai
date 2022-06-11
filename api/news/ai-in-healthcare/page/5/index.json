@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-09-healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.md",
+      "title": "Healthcare to increase tech spending for cybersecurity, marketing and AI",
+      "excerpt": "More than 80 percent of companies expect to increase or maintain technology spending in the next 12 months, with healthcare, life sciences and financial companies planning the largest increases, according to research Bloomberg released April 8.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/10.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-an-ai-model-can-help-predict-adverse-events-from-new-drug-combinations.md",
       "title": "An AI model can help predict adverse events from new drug combinations",
       "excerpt": "Preliminary data from an artificial intelligence model could potentially ... making it difficult to decide whether a new combination therapy would risk their health,\" Westerman said.",
@@ -1289,49 +1333,6 @@
       "provider": {
         "name": "EP Research Service",
         "domain": "epthinktank.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-icertis-launches-industry-first-contract-intelligence-solution-for-healthcare-providers.md",
-      "title": "Icertis Launches Industry-First Contract Intelligence Solution for Healthcare Providers",
-      "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced the launch of  (ICI) for Healthcare Providers. The industry-first CLM solution helps healthcare providers accelerate digital transformation by modernizing complex agreements such as payer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
-      "originalUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1765967/Patient_Centered_Care_and_Contracts.jpg?w=500",
-          "width": 500,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
         "images": null,
         "publishers": null,
         "authors": null
