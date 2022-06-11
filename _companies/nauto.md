@@ -2,7 +2,7 @@
 name: "Nauto"
 overview: "NautoⓇ is the only AI-powered, driver behavior learning platform to predict and reduce high-risk events in the mobility ecosystem. By analyzing billions of data points from over 400 million AI-processed video miles, Nauto’s machine learning algorithms continuously improve and impact driver behavior before events happen, not after. Nauto has enabled the largest commercial fleets in the world to avoid more than 250,000 collisions, resulting in nearly $1 billion in savings and over 5,000 lives saved."
 type: "profile"
-heat: 32
+heat: 50
 
 website: https://www.nauto.com/
 
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "jPROkC/QXFB69P8lzAHoLsVRXIYR+IYvLRAhUgd/TjMUfFCwKYH+NiZcWmS3zUNdmcwclH8EI+VlSbmE0tWPlzIVLneUg4I9VsFRB09b+4XSVE3u+4dNavCDHQGjatWnNhJlMkChw5jA+DRsc65fPlhKPWvyL80mfxoYwX2rCUuw+EyPjeqvATklRQShAEfJDPc3pp3Xbbj/UcTkRf7cGZpUxRZmCdUiWlhltJcsGkHmr3vNs7EOsE5MRDnmLvpvBIdMTCSt8bkACPnb1fJ93lm3P8nBNEynqR3FCY849D8oeWnBuz5hs5y7gHRMN7U33sXKlArejNu3K/Gjd0enRMPdbPqR31UVCiDf80XC+CoCBK4UdNdLe0SMkYE9tg3RsoNnHmYWvfh+nqkcnw5kUW33kCqTN1f5O/eN2tD5dck=;pyNeoRn6AejNqbv4eEzbuw=="
+secured: "ZnilAnJ7/wS/UIQ/NE+pL9d/jZILT//Qkdbmx3IhN5jp+yuyPIdaggt6AzueLbUY79r7b9sh1RTKjRyL++dOkOF+wAXaJfeoXWviqaHpRNvwR5M9YlimARGfjN7IfbDW8gW7hmz4GbFRRhMYLShVqDXS9kPKfHSXunt4ewhi9sINEazTGfHLL4x1vCcwceFM6n8PrYkJtlJ1rtRQdpwgBKXQinl7VZk6jel+rpYdAg2DtVan0wYMgBo4HmVtTMp1SUeebXS5RnO+/YgnxI3ahgfL8KKVMnvsI8TF9OkuZ4ZZXFvS+fVSwqMCDqOs9c1fGBjOLx8kJRbiIfLCKC5XmRLZebuxpT+5O42egk0CA6g0LrsnxYORgwYJqGT0U7F+YTeFAmydfYMHRQ3VtYswWBUOoiMhe38a6KTcBA6QjG8=;OnL73oB7vdA+EYpiVikIRA=="
 ---
 

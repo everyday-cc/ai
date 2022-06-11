@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 77
+heat: 41
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "SmYPs40ro8vUVbOiuYL5LwO9ER+QTTPPJkOAkftg7URjhhPriijbTxkAhg8cHmAOTS7veAp9gaarHchisOhmvGEZGi6dWwfV3sjAZWqql3wPvuieYyq0b6LVssymKJCeYbxiviQJnzHwqsuWvOOoLn209yGS4ZTXPx0FwPC14fCLECOHaMTRG2Y3jnXuKR+JsCCjKXeXFvVhFSH20WQU6Gt1sR3H1HSnv9PNZ+ltV2FoTkMR8UraUspS6o1BBSRS53QuA1HaLsL+kv929pVNNNx0Iqz5nZwMmQByPmyaC1Vi44hcAyyWCek7bPwC1KjOMSBagBJ2qmSHGIudchAOB5098yeSIznqYOyW8tMdRa7wmlYHeMftIJjTVwwMW93rZJUvcT4lo/xRJbK9+x/2Ix4hwetY66YCRqI029yAXcg=;ZkmF4pAFBENsiej8w6eWmg=="
+secured: "5iZyowuqlrZPKdt6gWaSQ9OeXa63DE9No75s97DCXjen7dZ0deIHPnvQNQQYU6N7epzxGU95IGJDFHDIGWIxEm/Yrpa+Tlk1QRPQeWVlsI4QpmhvBvaSwllxQo5QUHEFrhzshIhTLVHs0/MYtZK2lekX6Aly0645qrwC0vk0PBpMbs3JwKdLekwwaN6r1Kt2gRTmBGRLtX+npqOUnCGQzRaSE+CYxXg/yeTQnkNlj7UxifrTxeKEr2XXWZHmTFXDitZG51omWEtS8vZqJxkUiKpqE8UsgSEbZQx0uO+7KLFUZcFCcOIZGWTjSpXGVVJjeuwhk0WDArCdIVabnBPF2xQO6DNx6YqlJGKlojSxnF/b8M9SnqP9sAU/lWJWQQwzyczlEadKaykdZnLEAp4SjapbILBGHH5ZnxA/ve6cF64=;hyDABrOmZ2QcG+9SaL+bfQ=="
 ---
 
