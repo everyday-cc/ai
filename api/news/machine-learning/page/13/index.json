@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-04-its-time-to-use-ai-and-machine-learning-like-bar-charts.md",
+      "title": "It’s Time to Use AI and Machine Learning Like Bar Charts.",
+      "excerpt": "Organizations need to deploy AI and machine learning more widely, beyond just data science teams. Yes, democratizing ML will lead to imperfect models, and sometimes even the wrong decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/its-time-use-ai-machine-learning-like-bar-charts-einblick-analytics",
+      "originalUrl": "https://www.linkedin.com/pulse/its-time-use-ai-machine-learning-like-bar-charts-einblick-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFBLtpOByIVqg/article-cover_image-shrink_600_2000/0/1646345423282?e=1653523200&v=beta&t=wPjr-542OXXkegyDVeTbpONPtgc8tXJ3PcOL7CZgZY4",
+          "width": 793,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-how-ai-protects-machine-identities-in-a-zero-trust-world.md",
       "title": "How AI protects machine identities in a zero-trust world",
       "excerpt": "By scanning enterprise networks, bad actors often find unprotected machine identities to exploit, making them a favored attack surface.",
@@ -1372,49 +1424,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement.md",
-      "title": "Machine learning and Artificial Intelligence: A futuristic approach to employee engagement",
-      "excerpt": "The subsequent sections bring to light the modern techniques to engage employees. Machine Learning (ML) and Artificial Intelligence (AI) – The New-Age Employee Engagement Tools New-age digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement/",
-      "publishedDateTime": "2022-02-22T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

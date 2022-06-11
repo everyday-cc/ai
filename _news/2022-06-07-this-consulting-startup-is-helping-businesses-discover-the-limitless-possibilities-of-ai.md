@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk is painting an unrealistic picture of AI"
-    excerpt: "The truth is there is a missing link between today’s AI, which is primarily pattern recognition, and the kind of Star Trek computer-level AI that Musk is dreaming about"
-    publishedDateTime: 2022-06-06T14:46:00Z
-    webUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502.html"
-    ampWebUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/06/06/1600x900/TWITTER-M-A-MUSK-PAY-2_1654521931585_1654527612396.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Artificial intelligence to shape future of fishing with targeted catches"
     excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
     publishedDateTime: 2022-06-08T06:00:00Z

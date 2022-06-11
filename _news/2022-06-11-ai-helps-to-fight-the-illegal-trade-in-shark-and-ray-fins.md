@@ -7,7 +7,7 @@ originalUrl: "https://cites.org/eng/news/ai-helps-fight-illegal-trade-shark-ray-
 webUrl: "https://cites.org/eng/news/ai-helps-fight-illegal-trade-shark-ray-fins"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,18 +25,20 @@ images:
 
 related:
   - title: "Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade"
-    excerpt: "The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-06-08T21:04:42Z
-    webUrl: "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/"
+    excerpt: "Singapore National Parks Board, Microsoft and Conservation International collaborate to create AI-powered mobile application that visually identifies shark and ray species"
+    publishedDateTime: 2022-06-08T03:00:00Z
+    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
+    ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 64
+      name: malaymail
+      domain: malaymail.com
+    quality: 34
     images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/439/2022/06/Photo-1-scaled.jpg"
-        width: 2560
-        height: 1703
+      - url: "https://www.malaymail.com//theme_malaymail/images/no-image.png"
+        width: 1285
+        height: 857
         isCached: true
 
 secured: "SmPYnKnobJQnYQ9Lg2ODqvNIfAXKzMsqIej2jcpeN33unpjUnU1rTsVC6YquCT8e6lkZA3/jopy/5mGLUU9TITWlNl3w2ChLNVc7WF3ORgDNb2K/SZxk7okMXbQXDlKjI8aYvwcMdfslq+zmvboKEh5a+0BXdoDGxpoKxEtXGH0MPHudAjnxDw8SbCwpIFWcLjJ4c1fhcIzMVIRmc9KEgQ+9QaAFwLPgYANYCpg4/W794sCGJ9TVyIWOqKxefdf4yYBHKmM04lxVe87uHJEW4uDvsEf6+9hNIq+XUTm37yLOKDc4u6XOGXBcodXSLQQwIA1PQl2ywt688+YbIxeyAK3U1iwC9mDegkiQbJiuufs=;KhKoaYJZkItWz58MNppCaA=="

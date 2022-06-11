@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/union-ai-releases-
 webUrl: "https://markets.businessinsider.com/news/stocks/union-ai-releases-unionml-for-seamless-creation-of-web-native-machine-learning-applications-1031519214"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Synergistic integration of deep learning and model-based reconstruction for CT image generation"
-    excerpt: "Such integration can provide both improved image quality and certain interpretability of the deep learning architecture. Jingyan Xu will present some existing approaches combining deep learning and MBIR, and discuss their strengths, weaknesses, and ..."
-    publishedDateTime: 2022-06-06T14:09:00Z
-    webUrl: "https://physicsworld.com/a/synergistic-integration-of-deep-learning-and-model-based-reconstruction-for-ct-image-generation/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 27
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2022/05/2022-06-21-webinar-image.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "p+1KzHJp1v/3jEBSPovN9QT5PnpvCX6LbwaEXwJ7EJbaobLgT88Xh5BktgZbYXDVGbhMfzqIt0Q1/iI1lrB3VBOvG1olivQjqTCJRhuAObPEDRJZ5h+UM/PjUGyjORFNcWSHnC3EDC5CVGka3hjYgdxKDmoDGOvwmRUbQByRZLSuLuRCvdIozO9P3eKBpyMRRoMK/BgGzC/N0UVyWLPyjUZ9G1TXMZa5QMaYaBwuJnHywcpxCwwTKjbGV6dV2icoPgx4h6aPypFR/HHk8OGsMec2OanJQt0+D1Hgmb49yj4SNepcURzwd/j81PqjbW/fNJEbSx3JTbAlHywG2kCaH3EegHV7gIp2LF94XEqObxg=;tmsRLsm2yIcqtJIE6AA40g=="

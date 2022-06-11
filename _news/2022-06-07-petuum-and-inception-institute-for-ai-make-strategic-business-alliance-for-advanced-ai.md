@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/petuum-and-inception-institute-for-a
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/amp/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: enterprisetalk
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Petuum and Inception Institute for AI Partner for Advanced AI"
-    excerpt: "IIAI, the premier AI research institution in the Middle East and subsidiary of G42, is announcing a partnership with Petuum to build powerful AI applications through the principles of composability,"
-    publishedDateTime: 2022-06-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/petuum-and-inception-institute-for-ai-partner-for-advanced-ai/article_c10652cc-9d68-5dbc-aa20-7a33f629769f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/62/862a081a-7c33-5583-b4ca-3f0224dc27b8/60c0d448eb251.image.jpg?crop=1404%2C737%2C648%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Responsible AI Institute Expands in the UK and EU to Advance AI Certification Efforts"
     excerpt: "Responsible AI Institute (RAII), the leading non-profit dedicated to independent AI assessments and certification, today announced the expansion of its operations in the UK and Europe to further harmonize its AI certification efforts with industry-leading AI regulations and in the US and Canada and expand its member base."
     publishedDateTime: 2022-06-08T13:00:00Z

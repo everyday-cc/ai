@@ -49,15 +49,6 @@ related:
         width: 460
         height: 460
         isCached: true
-  - title: "Hong Kong’s AI drug discovery firm Insilico closes $60M Series D"
-    excerpt: "As part of the deal, Insilico also received an equity investment from Fosun Pharma, which has financed over 60 startups, according to startup database ... to its AI drug discovery platform."
-    publishedDateTime: 2022-06-06T13:16:00Z
-    webUrl: "https://techcrunch.com/2022/06/06/hong-kongs-ai-drug-discovery-firm-insilico-50m-series-d/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Insilico raises $60M to invest in AI platform and IPF program"
     excerpt: "AI-enabled drug discovery company Insilico Medicine Ltd. has raised $60 million in a series D round to support expansion of its pipeline. The Hong Kong and New York-based company will use the proceeds to support clinical testing of its lead asset,"
     publishedDateTime: 2022-06-08T23:55:00Z
@@ -81,15 +72,6 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 34
-  - title: "Insilico Medicine Raises $60 Million in Series D Financing to Advance Pipeline and Launch AI-powered Drug Discovery Robotics Laboratory"
-    excerpt: "BEIJING, CHINA - Media OutReach - 6 June 2022 - Insilico Medicine, a clinical-stage end-to-end artificial intelligence (AI)-driven drug discovery company, announced today that"
-    publishedDateTime: 2022-06-06T13:50:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/06/insilico-medicine-raises-60-million-in-series-d-financing-to-advance-pipeline-and-launch-ai-powered-drug-discovery-robotics-laboratory/141437"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 17
 
 secured: "sre7LJZSALXsj2Tn3+bRS5rg5wfOuJl6OISJP1WYZJDDKrx7mn38GTQVM9WpKRoQt8/FAA46GUEURg6pOBRnRlEUT+jhsKdM1pAXehqGhcb6ZfjRBgnitturuIhKJ2Yyy1jNkEu0DlprD4/md6FL4QIlA3iXEVCFe92Qrx2K/exIwRK7s7xmmnDqJvqZsfKpGq0uJWVl4N8JLvNq2s2WM7vwNylTJMMXvfRiYvFYdZbBVLFWHD5hEMEpWv7BP9riJ8kzh2fBZsYIqJOVa4njZCzJj4RAhMYYF4Re9YVUXNn8VBZ3wsrvJnJCy5lI701vj3gcVHNOYTkSkB6drVoq2H7v8S/fjJJ3kI/+Qwrm0xzejv9mZYYKvv7xEJYxDMI6AFvAkdSvdzevHEeGpG6IvEOC6RGvb2EULfJej1KK7LS01I6VuvpwZxC9o7LLBmWvaeDqFwRmxaOo5awRWhZ8dmrWXoHYkCFiwxrSDfUS3Ou1ZXp1zoMyFdn/ZmOT9gPgHDN9znd901JgULVUSxkIlg==;nNgqypG+XhJ5hBpGJAUXLQ=="
 ---

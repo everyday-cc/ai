@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Elon Musk is painting an unrealistic picture of AI"
-    excerpt: "The truth is there is a missing link between today’s AI, which is primarily pattern recognition, and the kind of Star Trek computer-level AI that Musk is dreaming about"
-    publishedDateTime: 2022-06-06T14:46:00Z
-    webUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502.html"
-    ampWebUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/06/06/1600x900/TWITTER-M-A-MUSK-PAY-2_1654521931585_1654527612396.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "This consulting startup is helping businesses discover the limitless possibilities of AI"
     excerpt: "Also, the overall environment of AI and related work with Data, that is transforming every sphere of our life and especially in the enterprise computing space, makes Navikenz an exciting startup ..."

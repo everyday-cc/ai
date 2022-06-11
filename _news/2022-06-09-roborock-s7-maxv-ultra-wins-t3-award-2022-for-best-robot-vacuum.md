@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-u
 webUrl: "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -22,17 +22,6 @@ topics:
   - Computer Vision
   - AI
   - AI in Robotics
-
-related:
-  - title: "Roborock Q7+ Max Review: The Perfect Robot Vacuum For Most People"
-    excerpt: "At CES in January, alongside the S7 MaxV Ultra, Roborock announced its Q-series of robot vacuums. This is meant to be a cheaper line of robot vacuums that"
-    publishedDateTime: 2022-06-06T14:40:00Z
-    webUrl: "https://www.androidheadlines.com/2022/06/roborock-q7-plus-max-review.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 19
 
 secured: "SYivkgwZ4sCfFhW3Xock3I27OSQ9rlA6czShkYisQYrBpTXlQ/SuMvneZNkWgK/4ZNH+M1cB8uS+X02wmLV7loMpf6nvY0qm1yGdyFYK54IsW1rBX8US8Q5fB2rZxHC6KEY5hJErLu32xydgLw1gEEjEprWGJOhO1aUhmjPOEUgxbyQ+Rq1QZ9MuxUNiB82Hmr73il00eC/TI8NpbGSBMV3VMiWbJC/f9Rm0mzCaCU/6vccpAZrhaZ4YD2GhzsTSfe5s/t2252KmhHXyOf1tM0qgefhQq/i9zKvGul87F9wccCjrdMlfga4cFYi9PyRhJXR4FrmOjYnqW7jv1Qyo3qE9o3vpjwVtFYiziBP1MRpl88irQ303f31POfdhHmTUQ6DLKaIGYweH/6/IGVjcnhyjacp4CWf59Q8Bw8Jd/wuAhhmHxR4f0FnE4tY5DDzMCTpPc2BypPgdfnQivDW/AUThEypWiKkx8BUXuZ77mu3kF8+u6vYXEBnld1KgB7x9PIGkvxLt7mVWYEQvV/xVIg==;3OrRuPVo4gO+avKonh9iqw=="
 ---

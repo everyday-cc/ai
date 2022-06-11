@@ -201,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -924,7 +924,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1151,36 +1151,36 @@
       ]
     },
     {
-      "path": "_news/2022-06-07-petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai.md",
-      "title": "Petuum and Inception Institute for AI Make Strategic Business Alliance for Advanced AI",
-      "excerpt": "Petuum and the Inception Institute for Artificial Intelligence (IIAI), have agreed to partner on the development of revolutionary AI",
+      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
+      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
+      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
       "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/",
-      "originalUrl": "https://enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 91,
       "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Petuum-and-Inception-Institute-for-AI-Make-Strategic-Business-Alliance-for-Advanced-AI-01.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/amp/",
-      "publishedDateTime": "2022-06-07T06:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1189,8 +1189,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

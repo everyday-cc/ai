@@ -57,20 +57,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "3 Capabilities You Need To Know About Intelligent Automation"
-    excerpt: "IBM first pitched Watson as revolutionary, promising advanced AI capabilities like automating cancer detection and treatment recommendations. Now, IBM has positioned Watson as a tactical natural ..."
-    publishedDateTime: 2022-06-06T14:03:00Z
-    webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "The Potential of Integrating Intelligence and Intuition"
     excerpt: "Cipher Brief Expert and former Deputy Director for Analysis Carmen Medina shares her thoughts on incorporating intuition into analysis."
     publishedDateTime: 2022-06-10T13:46:00Z

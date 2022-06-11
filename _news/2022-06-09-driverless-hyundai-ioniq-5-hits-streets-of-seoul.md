@@ -95,6 +95,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Driverless Trucks to Deliver Toilet Paper to Dallas Sam’s Clubs"
+    excerpt: "Gatik, a pioneer of driverless technology, will partner with Georgia-Pacific to drop off goods such as plates, Dixie cups and toilet paper to 34 of the warehouse stores starting in July, the companies said in a statement Tuesday. The midsize trucks with 26 ..."
+    publishedDateTime: 2022-06-08T13:14:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/35155-driverless-trucks-to-deliver-toilet-paper-to-dallas-sams-clubs"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 39
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2021/1109_Walmart.jpg?height=635&t=1636434965&width=1200"
+        width: 3556
+        height: 2667
+        isCached: true
 
 secured: "7zhIt6IP1Y/ixdRz4nmfea+rHAZ4ySHQX1ySlN189RK3LuUIZFrXi67R/9mjG+LbezhMmd8I8exgrjRm50DwTtcWzsr3XKSzNYEAzlCXgUiKop0YLH9WHKiklT4DifyvOToVACo5kdnWpWnJEDzsOEeLnRCRFxLjJCeWJ+MGZd34VrW8GJp/zwgIt/U1QecOGaxelzO2inoZKBfHSlJzzCFpI8eWXzdmjNgfOT/dVUIVcQ7+jXEazHydWYwLwtkrfVCBCGG24fDJyBYzi3jETVmW+Sr+fliy5E/5+aUxTsemO8z0LeBCKpukeRM/zwUIXKxojnAuw9X4Vh/uU5cCAGpQbqQ5u/bxwCJM7cd424D2Zh1KF+u3YBrfjvKQPoABW0RVJCBvoMCSBgiMEoDPhaNeyGwsQ5S8gbRflgrOWqFOx/qQWpXFhZj0vyev8H9cZwDdHaoLxLeCJ8CqtiPcCt+rtE2RVEZ0ggIRQ32mM2ckSRpoNzz2LyMyV5iyjUHAdhyo82wwTKvYdB6jeSIuMA==;r2lnHUJgldwrts8ivPf/+g=="
 ---

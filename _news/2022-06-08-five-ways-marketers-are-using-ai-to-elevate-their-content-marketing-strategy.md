@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 81
-  - title: "3 Ways to Drive Business Growth Using AI"
-    excerpt: "Artificial intelligence (AI) has been a breakthrough technology for some of the most successful enterprises. Here are three different ways AI is being used to accelerate business growth."
-    publishedDateTime: 2022-06-06T15:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/425746"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1654032449-shutterstock-618815732.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "3 Ways to Drive Business Growth Using AI"
     excerpt: "Unfortunately, not every business followed its example right away. Some skeptics wrongly predicted the internet would collapse in 1996, which influenced some companies to deprioritize anything related to the web."
     publishedDateTime: 2022-06-06T19:20:00Z

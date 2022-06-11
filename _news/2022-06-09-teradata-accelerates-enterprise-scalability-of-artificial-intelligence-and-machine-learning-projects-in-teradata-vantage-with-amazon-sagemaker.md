@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
-publishedDateTime: 2022-06-09T13:03:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+publishedDateTime: 2022-06-09T14:03:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas"
@@ -86,20 +80,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
-  - title: "Incorporating deep learning into X-ray CT imaging"
-    excerpt: "In recent years, deep learning gained a lot of attention and made impressive achievements in various applications. Incorporating deep learning in X-ray CT has become a non-reversible trend. In this webinar, we’ll give a brief overview of deep learning ..."
-    publishedDateTime: 2022-06-06T14:09:00Z
-    webUrl: "https://physicsworld.com/a/incorporating-deep-learning-into-x-ray-ct-imaging/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2022/05/AI-Medical-Week-image-1.jpg"
-        width: 800
-        height: 428
-        isCached: true
   - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
     excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organisations ubiquitous use of advanced analytics to unlock the full power of their data COMPANY NEWS: Teradata (NYSE: TDC) today announced the integration and general availability of Teradata Vantage multi-cloud data and analytics"
     publishedDateTime: 2022-06-10T16:20:00Z
@@ -115,6 +95,6 @@ related:
         height: 541
         isCached: true
 
-secured: "Zj6i3g9ICxpp9XrNcHg6t9P7AWxIeIpgn+7Ey/JxeKXraHati/tcwwymycZyg9OwPDdviuB3RccCYi6hcR78QCDKFVTK8JC2LbRoHuRiIrbyM6B9Fit3e6RLnF127T02uPuF9aJmYUNzrmOmThaFTpCWPNOium2suEBbRgveKmDvp8dXqVtwATHN6mkpEf53Z6gaAtC1mqWWBnlWaR98JUF3MCTsfu7hCa4rF51iSJz5R0ALLnUpxGsIj4Tl5EdrKuXqTabG/uVEIexTJlEz0ajlDlLB6duf6bffreDWkHbKO7/jemjRLkmdINNq0LT0metWXfm4vcJa2DA8KdGPs55wiSRD5mFBVnXy5fZbg28=;VEL2u2yZeA2Nj34SwJayKg=="
+secured: "Q/bzNljmC+xgM62KS03VDNURKJWMXNKwyO5oFGuM3fPUg/NI7qY+yiOc798Ntxt+IgreHECVDDyx+xBu8CipiBgR+OMiEcatUKnTj7mvbjQZPFQjmue00OXBGjDfqanXXnoIE/Qxjr0pfw3stbh5suWMPbykur0wz6nVfdNAlaGfv6Xy0VPyevFevxEztVH1wbiCRJal7Uvfc0K1cMpZssLKE+8c/wL6HJ/KCavC87fcRZDIkMhj4t5ZyqbglBbA4WhzrFUchEoUlKFrRbF36B2GXcu+1/evvTV8tbvNMM7Si5dSkHBr5IHP8DKCwmsJ1eWG/lnH5KKts+nBYNLax6irl6eAcJbATFcs45HpGeY=;whBSo+Ehl7nCkwCXihOyMg=="
 ---
 

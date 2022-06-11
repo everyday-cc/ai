@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade"
-excerpt: "The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.\n"
-publishedDateTime: 2022-06-08T21:04:42Z
-originalUrl: "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/"
-webUrl: "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/"
+excerpt: "Singapore National Parks Board, Microsoft and Conservation International collaborate to create AI-powered mobile application that visually identifies shark and ray species"
+publishedDateTime: 2022-06-08T03:00:00Z
+originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
+webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
+ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
+cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: malaymail
+  domain: malaymail.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/439/2022/06/Photo-1-scaled.jpg"
-    width: 2560
-    height: 1703
+  - url: "https://www.malaymail.com//theme_malaymail/images/no-image.png"
+    width: 1285
+    height: 857
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 590
         isCached: true
 
-secured: "ohUHrMQxtYdysMBXHVkTnni2e+6pW2HvR5dTJXxLvRZpw+zGAQEggjqrVXiZtmSQ9oXTZiJQYbSRyubzy+DhGoXF4zEs2BsmXL3Ult4pOWUhriUrnhi6PU7RlLvyGhKBn8xn5V/TQ9paK3Z1HY4PpY5uTJLRU6lXknhsJRsOQTjRne0KkknxL+mrRW2D9S+PClIZ4sNsHwz/oI0MewFIkxIn4sGCns3GOq4RR1nIM9yVy+jV/o9b3WCi2drVlDUy2BmzfW0nnMVbAlk/oxcdebXKL5s9vHhaUyesYkiGGKDDpcRw8LKx0fvLgo2rR4zHNA7DymiElS5UoFtwjj/hTa/dLhSvkHd8PeybO7+rlh0=;qak1wk4F0+T+d99GE9x47A=="
+secured: "8GuRcyyeI3ZKswpaBgeOFmNQkINmVc6TGce4vWRnZ/xJ2BO9Cw4lttNgKqPg5AlkpQZLvOyMErEDsBOh3+vCL//sJfXTyr8RBJs38wOIZsqaCK90DXlv2k2A16iQzgAYN9blBuNd6aYuSd7eYfQg1jco7pb1rE0lzmX7vaFPiUdp0JE6t2zVP16LhABu7kxIvIlfyGJbVdZ3upXVEgNq7MgDk6kg/xlS25PefUPx3kdvkp0SQM4qBzXWXsbZ9sP+AKm5i0xRvRkqifgvYYFzlQoRDe0UKOBvqDkZXKLkF6p4VPPMssVv46KYt/uO4ANCaTWb+EUrhwozB1bXcnsS9aLwd1mpZkr7m+pkpuqNDRg=;iGjPgXBhKRXxHFaSqTnPeQ=="
 ---
 

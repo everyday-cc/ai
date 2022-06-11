@@ -75,34 +75,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
-  - title: "Incorporating deep learning into X-ray CT imaging"
-    excerpt: "In recent years, deep learning gained a lot of attention and made impressive achievements in various applications. Incorporating deep learning in X-ray CT has become a non-reversible trend. In this webinar, we’ll give a brief overview of deep learning ..."
-    publishedDateTime: 2022-06-06T14:09:00Z
-    webUrl: "https://physicsworld.com/a/incorporating-deep-learning-into-x-ray-ct-imaging/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2022/05/AI-Medical-Week-image-1.jpg"
-        width: 800
-        height: 428
-        isCached: true
-  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-    excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
-    publishedDateTime: 2022-06-09T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
     excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organisations ubiquitous use of advanced analytics to unlock the full power of their data COMPANY NEWS: Teradata (NYSE: TDC) today announced the integration and general availability of Teradata Vantage multi-cloud data and analytics"
     publishedDateTime: 2022-06-10T16:20:00Z
@@ -117,6 +89,15 @@ related:
         width: 375
         height: 541
         isCached: true
+  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
+    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+    publishedDateTime: 2022-06-09T14:03:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 15
 
 secured: "dqc88OdOX8CpkRiQ6BfrS5d1Spu801rGmJIo6JCYPQuPeSQgwAQMrmogbOgeJkkQzslED9VO1r1h/6zs7mU1jXplAQlDJCaNAnOBSXKKmd1pNm1WUlK+I+zzt29eV+Kv7Kgo4qYshF2E+lh28GgboN92ycGnyP8qGwujgRXJXih8/5Xt3HcclgGYWJbamExdz1ogJ9fnaWeVMxdzk8eqnq8aRBfz4ZTfyEWb7a1SklRppwezQQiMv7cz0PhK9jezVLF0LH2UXTvZN1T9aMn+VVWdHWPxtkVaqg9bPZk156ZO016vM8N5iXSsW/OhpurSxs7lyhw8fpENlf6ZSJuHm1qaus4IHyl9d2rqNax0sDQ=;3OTJhd4TP/zBLXOsUxGxfA=="
 ---

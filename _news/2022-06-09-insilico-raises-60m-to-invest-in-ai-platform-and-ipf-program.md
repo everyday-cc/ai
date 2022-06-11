@@ -54,15 +54,6 @@ related:
         width: 460
         height: 460
         isCached: true
-  - title: "Hong Kong’s AI drug discovery firm Insilico closes $60M Series D"
-    excerpt: "As part of the deal, Insilico also received an equity investment from Fosun Pharma, which has financed over 60 startups, according to startup database ... to its AI drug discovery platform."
-    publishedDateTime: 2022-06-06T13:16:00Z
-    webUrl: "https://techcrunch.com/2022/06/06/hong-kongs-ai-drug-discovery-firm-insilico-50m-series-d/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "The next step in AI drug discovery: Robots"
     excerpt: "Insilico Medicine aims to make its end-to-end AI platform even stronger by launching its own AI-run robotics lab. The lab has been in the design phase for the past two years and is expected to be fully operational this year."
     publishedDateTime: 2022-06-08T00:00:00Z
@@ -81,15 +72,6 @@ related:
       name: Azorobotics
       domain: azorobotics.com
     quality: 19
-  - title: "Insilico Medicine Raises $60 Million in Series D Financing to Advance Pipeline and Launch AI-powered Drug Discovery Robotics Laboratory"
-    excerpt: "BEIJING, CHINA - Media OutReach - 6 June 2022 - Insilico Medicine, a clinical-stage end-to-end artificial intelligence (AI)-driven drug discovery company, announced today that"
-    publishedDateTime: 2022-06-06T13:50:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/06/insilico-medicine-raises-60-million-in-series-d-financing-to-advance-pipeline-and-launch-ai-powered-drug-discovery-robotics-laboratory/141437"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 17
 
 secured: "HfYh8iZ+5opIskSkZy2SNq35ZnMutvfKCRY4wEy1MEMX7v7DUhJrnMe7+St8HD+m2hEvH1+A/7UEZu4s5hSnVkXH8McmxlsIcQmfhrkLT0I7eP3Pw8dTU8OVsk2z9uk3Upq82+o2o3O9wJx7LBEQ68hDScrccwcJgvsFWZHSRlhiOsO3nLAXp91mufqwwXIjgMqiZZYLNwVai5Y8cXAjyFUAFqhmuW2y5Wa58ZdXKuiW+rhFMBqvUlkz1l4H5Khlu5OdjqA+TGRYVuR1b0nC173a7VygJSxkbN2C1oBSu3q8yGFn2ciizhySxmzsrTDi9ATxfjEhbdC+7d1wlGRA++btjAXi1+6AaBenOac6f8s=;2R7WZzJdIh/Sk2u7iYGfAw=="
 ---

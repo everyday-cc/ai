@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Hyundai Starts Driverless Car-Hailing Service in South Korea"
-excerpt: "Hyundai is ready to pilot a RoboRide driverless car-hailing service in the posh district of Gangnam. Using the Ioniq 5 battery electric vehicle, these Level 4-equipped autonomous driving vehicles will operate in one of the most congested areas of South Korea’s capital city."
-publishedDateTime: 2022-06-09T23:19:00Z
-originalUrl: "https://www.carguide.ph/2022/06/hyundai-starts-driverless-car-hailing.html"
-webUrl: "https://www.carguide.ph/2022/06/hyundai-starts-driverless-car-hailing.html"
+title: "Driverless Trucks to Deliver Toilet Paper to Dallas Sam’s Clubs"
+excerpt: "Gatik, a pioneer of driverless technology, will partner with Georgia-Pacific to drop off goods such as plates, Dixie cups and toilet paper to 34 of the warehouse stores starting in July, the companies said in a statement Tuesday. The midsize trucks with 26 ..."
+publishedDateTime: 2022-06-08T13:14:00Z
+originalUrl: "https://www.supplychainbrain.com/articles/35155-driverless-trucks-to-deliver-toilet-paper-to-dallas-sams-clubs"
+webUrl: "https://www.supplychainbrain.com/articles/35155-driverless-trucks-to-deliver-toilet-paper-to-dallas-sams-clubs"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: carguide.ph
-  domain: carguide.ph
+  name: Supply Chain
+  domain: supplychainbrain.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhBed4rXr3IN5db6Qntbf-EKQo07ymC1tUiG_cds9qRyRz6ul6fXZm60XV5VLH5UPZOV7I5rwVpEgqukYmyB1HsGSdEZAWYrTif7owb81V5lEn8zEkEWP-Rh2d7twIIXNPbcGX8ZH8ui5M7248_EARZv3FbezkVEO85heVtuqdhGzmzBxXQEfDamj-g/w1200/hyundai_roboride.jpg"
-    width: 1024
-    height: 576
+  - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2021/1109_Walmart.jpg?height=635&t=1636434965&width=1200"
+    width: 3556
+    height: 2667
     isCached: true
 
 related:
@@ -96,21 +96,21 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 54
-  - title: "Driverless Trucks to Deliver Toilet Paper to Dallas Sam’s Clubs"
-    excerpt: "Gatik, a pioneer of driverless technology, will partner with Georgia-Pacific to drop off goods such as plates, Dixie cups and toilet paper to 34 of the warehouse stores starting in July, the companies said in a statement Tuesday. The midsize trucks with 26 ..."
-    publishedDateTime: 2022-06-08T13:14:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/35155-driverless-trucks-to-deliver-toilet-paper-to-dallas-sams-clubs"
+  - title: "Hyundai Starts Driverless Car-Hailing Service in South Korea"
+    excerpt: "Hyundai is ready to pilot a RoboRide driverless car-hailing service in the posh district of Gangnam. Using the Ioniq 5 battery electric vehicle, these Level 4-equipped autonomous driving vehicles will operate in one of the most congested areas of South Korea’s capital city."
+    publishedDateTime: 2022-06-09T23:19:00Z
+    webUrl: "https://www.carguide.ph/2022/06/hyundai-starts-driverless-car-hailing.html"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
+      name: carguide.ph
+      domain: carguide.ph
+    quality: 54
     images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2021/1109_Walmart.jpg?height=635&t=1636434965&width=1200"
-        width: 3556
-        height: 2667
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhBed4rXr3IN5db6Qntbf-EKQo07ymC1tUiG_cds9qRyRz6ul6fXZm60XV5VLH5UPZOV7I5rwVpEgqukYmyB1HsGSdEZAWYrTif7owb81V5lEn8zEkEWP-Rh2d7twIIXNPbcGX8ZH8ui5M7248_EARZv3FbezkVEO85heVtuqdhGzmzBxXQEfDamj-g/w1200/hyundai_roboride.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
-secured: "XE0zcNjFy25RA0zz5i8vcRBvDknIF8sTXckvNCVNDP4ZTguBv9/xK8c223M3uIkDAQl73NEFR9uIaGxBvfABZ+lMQtg+3QTo6s1i5uLwzYlsf+7KPMQSjVZKTk0qxVYJslGgs2S0GWK1ip3FB1VJQLpuDrThdMRiTgUJHiG3n9e4k4avlgD6CCjWYGDqXtmzu0BxCfACklqc6WIgDEwlT9EJJMDgC9jntZHxp3b3iQWmw6mAm3bSO5b3MoEZtk4El62Eg29PnBTrxxscoj7vAaXYWm0AiFnXCZ3ra5nts8mp2xISjvQEbtSAQgVyzU6y/idqKhQgCYMP6OqYgaMd8TYPGR2TQxhb6PQILm4XroA=;Ijv48EVLEelvV3w4gGOO7g=="
+secured: "F40RwXy21XDfrTg8Wdgo8oJg0q/RXbmoJk3ICVljh9KT2RLzcem7ZPpr7Ed9gtj6+3FWhKRN99KE1OxqISTHxlQhQZUVbJ01EG+jzcTZ+tbQ/FrQdKctGxSV08Gm2mBhMzqyv7MhupW+RP+gccADlTpMZkRLE7Za7HYHmX6tO9QTGK7fK2QwOML3F7h90i9qB9F5iCZFBvwfgzG48KgCLQRAJxGrIUFsd6S1qY/dD17n/AT+08RJQVCnURO03a6T5mIxksn/MK5B6FTMC2PSoF7mM3adiuKFDAroNUd5E5uxg0qXlCAoNL7BcwTE6TkGsm9T2QGDjKOXSvWkbCQ122RLp4NqqUSxjFqeiNAp/A0=;f83Jd90Bh3AnZ7PbXPk+Ng=="
 ---
 

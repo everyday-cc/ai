@@ -7,7 +7,7 @@ originalUrl: "https://www.foodengineeringmag.com/articles/100328-ai-in-process-c
 webUrl: "https://www.foodengineeringmag.com/articles/100328-ai-in-process-control"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How AI helps Coca-Cola boost supply chain procurement"
-    excerpt: "Artificial intelligence and machine learning tools have become indispensable in order to boost procurement and sourcing efforts at Coca-Cola and other enterprise companies."
-    publishedDateTime: 2022-06-06T14:20:00Z
-    webUrl: "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/"
-    ampWebUrl: "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/"
+  - title: "Defining a Successful AI Project"
+    excerpt: "As hype around data science, machine learning, and AI continues to grow, more and more organizations are feeling the pressure to modernize their business by implementing advanced data solutions or else risk falling behind the technology curve."
+    publishedDateTime: 2022-06-07T21:44:00Z
+    webUrl: "https://www.govexec.com/assets/defining-successful-ai-project.pdf"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/coke_supply_chain.jpg?fit=800%2C600&strip=all"
-        width: 800
-        height: 600
-        isCached: true
+      name: Government Executive
+      domain: govexec.com
+    quality: 17
 
 secured: "fsClfkDicI1dm6Vd+YwwnxRfl8fxVVuaRdF+03eDRWio1RTeoTgoOa4t4HJgQ2bktXpw6WG4+gRe4RZoVzYBs7NnDKVAEP19ydgUHut8yM/2HSDaUxoL5W0FEJFaPPv1v/cqR6PSVe7aYM2MT/tdPWamvr87rV6sv62h9bYpiDR6x6zoyPloCyy4uwSVaVwHtKXjjFmNMiiznYIP3JhHSXbIi7rBzpak8Qh8uTZoYsxFB2Em6Jh3tamTMudIHtDbkQhuRhnRQlCcuqZ5FZPL6Wku6uJwaq1NJrwq4HttSfKkGxqqmXutXQDXmuNvWkVTa/Ak3jp2wnJ82CxAo5CczKVB3Z5QoZtcJCWOAnY+KIc=;/9RpHIepEaV62H3sMG+EzQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-aws-ai-and-ml-se
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment/"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1000
     height: 433
     isCached: true
-
-related:
-  - title: "Flex Logix Launches EasyVision - Turnkey AI/ML Solution with Ready-to-Use Models and AI Acceleration Hardware"
-    excerpt: "Flex Logix® Technologies, Inc., supplier of fast and efficient edge AI inference accelerators, announced today the availability of EasyVision Platforms designed to help customers get to market quickly with edge computer vision products for a wide range of markets such as robotic vision,"
-    publishedDateTime: 2022-06-06T14:18:00Z
-    webUrl: "https://www.design-reuse.com/news/52078/flex-logix-easyvision-turnkey-ai-ml-acceleration.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 37
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage52078/flexb.jpg"
-        width: 1414
-        height: 756
-        isCached: true
 
 secured: "hbvpfCFywFNNTqltkgVxnwvCO8h6d+wMhcIv4W5uDVmHPBIEisMIqKdWm8yX7mnV3vjvaokJZ47xEi6sjU8zNDzocsFLQtwQUeIznVrzm7umV9zU+j0Guu64RncoC8ywD0OPtrX5j4jRPysV15ueS3KXYQcm/NOv1CbgqhvP4i/C+lzwmuawpZ8k7xNcVCIgNMo4dnqlpvQEZcWweMafri9CeqWrbbygRHvkNU/D21q8TXIj56b2ykLrJQmznH7K0iO31EmGndbJwi2c9dn/8uNbpohFhrDJhSQZXN3mN115Zj/uoLPIrp/tprKXNIZeml/EFgVcvcj+LOaM/ubNlHGYU8zyU7KqLz/DJMi3jbU=;oycruS8Dmjnv8t1BHwqJkw=="
 ---
