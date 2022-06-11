@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Jaxon, Inc. Receives $100,000 START Award From MassVentures"
-excerpt: "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,"
-publishedDateTime: 2022-06-09T11:14:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3"
-webUrl: "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3"
+excerpt: "With “just enough” human supervision, auto-labeling, and configurable AutoML, models go from hypothesis to production-ready in days vs. months. Jaxon is one of the first to offer a “coding ..."
+publishedDateTime: 2022-06-09T11:01:00Z
+originalUrl: "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures"
+webUrl: "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "+vv68rtqB5oY8vXn7eWaXxOhAXUGA+tXB00SiJWsYoVn54K7QpO86H0//sd2H5rpoKNlEqeeR0oQrfyLsijuFNKxBUPk4ED6e/sboL/dPwnVAR5GeQUKi/a8VpuoNPjm14T8GJDCasjzg5xZkREnqRH276UyLBPp59bfu1Kr6EUS3yPcomCiLBndA8poJMc4lDouOe8c9ToWikYkIgQn+pfex1CA//qEKexOFEuSJUE9eGBWwLGKiEdl0/6QS8UErlYYezUGaSJAr1+/GrOApIDWv1XKePD06TP0hfIAG3mcsidzOSfTVM/pVcKP/XnvR0d9hXhuJxPpYor6LV/CqfiD9YdNgw/wFWmFURt5uFU=;2KALuKZRd/2IgaWZirJQGA=="
+secured: "ik02rKC0M946tCx/xsmEUwcQbP2IXtlVzRxnEF0oBDqe4mVB6IheGPfCn3fjz9YbFK6ennb0Ae7BeC6n6tbE5Kia9kEk/LDnfE4hHqXH3+qcX1CY7kb8RGM9yvrTVcMxpwgA4l36Vn5jYMAykBLE/i23dqvyK5ErMJNx/9FbCSM1BTkYdrTlVy7K7BK8A7LrVHgwYwGwEUeMY1I24u9SbDW1aE5SkrUi0ys3RAEH+JSkZv1alhJy1nzcnBn6rL6dno7ALpYd+AU7ilsOMiiHDho0f1ONvfwkiMUQDmWkZ9vjyX8XNsJjcOx/IjwhSHFFmOXEyXZY2/XAyNFhM03J5pn7ZlgwwZxMlL5tBEYGPxM=;FEuHqOfo+IojbrL01tF3hQ=="
 ---
 

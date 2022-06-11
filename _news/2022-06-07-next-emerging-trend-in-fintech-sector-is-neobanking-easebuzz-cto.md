@@ -1,59 +1,20 @@
 ---
 category: news
-title: "Next Emerging Trend In Fintech Sector Is Neobanking: Easebuzz CTO"
-excerpt: "2) We are using Amazon Sagemaker to implement our fraud risk models. This acts as a core service that is used by one of our fraud detection products. 3) We are also breaking and moving large ..."
-publishedDateTime: 2022-06-07T12:19:00Z
-originalUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
-webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
+title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
+excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
+publishedDateTime: 2022-06-07T11:35:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?811833"
-    width: 333
-    height: 250
-    isCached: true
-
-related:
-  - title: "'Neobanking': Next Emerging Trend in Fintech Sector"
-    excerpt: "What are some of the emerging technologies that you are most excited about over the medium term in your industry? A. With emerging technologies such as Blockchain, Cloud Computing, AI and ML Fintech has emerged from payments,"
-    publishedDateTime: 2022-06-08T09:31:00Z
-    webUrl: "https://ummid.com/news/2022/june/08.06.2022/neobanking-next-emerging-trend-in-fintech-sector.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 41
-    images:
-      - url: "https://ummid.com/news/2022/june/08.06.2022/neobanking.jpg"
-        width: 790
-        height: 530
-        isCached: true
-  - title: "Banks Are Partnering With Fintech Companies To Solve Banking Problems"
-    excerpt: "Other fintech businesses may improve financial transactions and procedures. Large banks’ consumers may benefit from new services such as online notarization, AI-driven banking security, and bill payment. Many banks will require fintech partners in their ..."
-    publishedDateTime: 2022-06-07T20:57:00Z
-    webUrl: "https://www.finsmes.com/2022/06/banks-are-partnering-with-fintech-companies-to-solve-banking-problems.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/image.png"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "Qhc1UVCIkKDvyFi33KwsZFupAatKDAGRpiyTT0J0vHgxI2KYBHJ9oQVl3f4YRnv30myxj3tMT0FIX5qC/y1kW6AvRUIdtVWdxVcWzj3fcXPDevqNCsCEW7CWusUX4/BqaeZUjS3I9iekU4ezHsy1eq97VdTk8mmV663UUU4acvEbsjdcSusfHdmC1A2s6k9AhsAErrqEbZk3bxC3IxNm1baZ1khhK+u6jWglqC6m/leM/CbCW54sZOAk1vYkrtmUwWnKNLBLt47EVpRzORb2L+oPeOkeRJw2gvTvVAncpuRv0lWd6/17Gki0xesHXjYje1EIv5ScNKlLmo7hobiiwtKOd8FgikXb1H1yPJHB8sk=;oWIbNkVnywVX74vAO+SghA=="
+secured: "QaslR/nzeYdeA6H3PTaxmT/TOq6rimGKK5ynWQVXALjpGUaP1muvWRmbCXaB7YvFytmm5zoMaZyWCb6jNlvmKiEr/xONBRe//9IH7cBbr4x9EYgO7hNoMSDLODuBUA4bqwW1ifhJWHjEGMy4HfkTerLNDj0SatpbmNFKz9hXE1LoNJ7bzcwt0M8xWedVGZB5lvA5XKZJqId9Yp4pK6T40FTTaqTj70YSJ0QoqIYzuJs9veqJF2ag/ndSSO+tvA0V6bDl2jSYn9DSywGyS2TjZfrcgGYjxuBdvZLvOltO/m88emvcXnEFBFJaprvb2ESnfQdxfENeIJCszHuW3FRHSu3A7n+SXgAe8mJLofh18/0=;B+w16XqrS+0Jt3qazfG1sw=="
 ---
 
