@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 562
     isCached: true
-
-related:
-  - title: "Vet-AI appoints people director"
-    excerpt: "Leeds-based veterinary technology specialist Vet-AI has appointed its first people director. Laura Stocker has joined Vet-AI following its recent investment from Hill's Pet Nutrition and Correlation One Holdings."
-    publishedDateTime: 2022-06-06T07:25:00Z
-    webUrl: "https://www.insidermedia.com/news/all/vet-ai-appoints-people-director"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 37
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/Vet-AI-Laura-Stocker-66141-1654087244.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "jCY7Xrcc2SVBnvUbqODipaAQ1IH3QePeRlVttZzLFDv4TzM2Zty05dLpI58OInnol8oDHwvdYLEk1b9SWFzQTvjmuG8mMqFq0+5bt7P6IsQ1gafnxrV/Ls51JejKMSa+Jb4XcOSf83mzy+iID36EeeCXmkd+zYa+6y++6QRbh489fTG0KHqfCP6NIZAaPNB9mJoxtTlzwlsBmGQCxW/eXvfa9vF7nBGsGun+l07I3UBS+GR3ie0HylrlFiKKYJluak11YL9NZ4BowxIfJqu7BbKcj4/qBnmynctdcXQUkfb4hjYUZxt7avoPBcVXAf/5EucAf3R1yCjzOZ4bxPuCcT0KziZyQ8fFyYldCis/qZc=;biXBi0pUk8dXvppNkVHeoA=="
 ---

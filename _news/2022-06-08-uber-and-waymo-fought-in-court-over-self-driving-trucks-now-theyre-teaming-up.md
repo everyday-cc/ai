@@ -3,20 +3,26 @@ category: news
 title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
 excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
 publishedDateTime: 2022-06-07T20:32:00Z
-originalUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+originalUrl: "https://abc17news.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+webUrl: "https://abc17news.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: ABC 17 News
+  domain: abc17news.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Waymo and Uber Partner to Deploy Self-Driving Trucks at Scale"
@@ -139,6 +145,6 @@ related:
       domain: jalopnik.com
     quality: 28
 
-secured: "g7UfkF+/hOUU1yt9FPXcUQYv6lkTdT59r5KcfyBRfhtsKVRzFNaNPpXLky5WGTP87rfNMp66X5gTxJCc7PCDihUUCCGIU46kEwu7W8G+LbUxN65C6D/M6bTc8olIt3h5u8fBaqoRUBKWAZw5YZ/4BsPA4n3jieZL+30/chqhwTNN+nwuedcXqB7k8sTkIqh+eO0BfGVqvrpS3IaK03TzdIYU5o4uWjftTNgUFghAkoXsnE+l5/1hmo3CtTUhf8GOvSy7lsugYLBxjxBmJRSy742+9Z16tZ3j/E232sIyxxz75n8qYSREB95gjggm7NThUlpdE8KSvFj4zUfHEaGaxN6GS0RSJ1qHJnEkSSUA19vTBsyhP5fdvsQzUaxRg3pOW48jtZVy9aS9WrAi+T/kmIxsZ6x4ueSBE++1Zyzw+zYkKPmXwiKQfAhD7BQBDZy0dxyO2+RpFiT6WiXiQ1yh8n1UZihJog4DZGqYfJNFyLuEB771Df9lXAy14vp8sLDmN0Q8eYrmFbaX/CJjQkR+DA==;FHcnncgwxnX0szlwWpSZ6w=="
+secured: "lk2p0sgn/JCpgbIsxy9HKNVbCbaP8DAK5EdbcYBPQXtRi8TRsbXWUENNtozMV39/lEQM8NGNTGQNtZ4kI0A9O1obF60pGTpYCJsKYpIIAblD42pKL8tS7Riozcnwo7tTsL6TIddH8Lux0A1l5wazVk1BUtM7Yk/dU6NpmSCU7NwADlDjH/ulf0XQxI27HETe9DbJgnP52vCEDDjSTukvSjQtTieSfNfpuwCy2xgFqfHZtvGPl/3BlO0/UMbruUa3WH8QUH9VpbudLUUX1+I7arjBs+GyAfm2ujxAGIb+TzIirLQOTYx/QT49xY/smbnLITq7ZnvknTIFq03sRkJDNexVcCGCLVuDEIaKJEkopO4=;1XOyF8xTNLiBD2J9lnEqhA=="
 ---
 

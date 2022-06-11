@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace"
-excerpt: "“AWS and Zeta are delivering a simplified and effective ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A."
-publishedDateTime: 2022-06-01T20:27:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html"
+excerpt: "Zeta Global (NYSE:ZETA), a cloud-based marketing technology company that empowers enterprises to acquire, grow, and retain customers more efficiently, today announced the company will expand its long-standing work with Amazon Web Services (AWS),"
+publishedDateTime: 2022-06-01T20:06:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-049fca70057d43d39088e8fdb6309d0e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-049fca70057d43d39088e8fdb6309d0e"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
@@ -17,11 +17,11 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
-    width: 415
-    height: 539
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "p4tM4cPrPgjvLY7qpu2U2B4MRlOrejxN4TJinGge2c1Fv38ZhzzRdfyO37Unfu9Yg9O2ejKosGHii+wXNrPPeANtO8A3Nsvtz030VYtqEYallUM++vpMmmZoiVPtvQ1lZFnboThB/MrhMwgx1eJ+KJtRdnh+KCVputMzEhPdLJfxmB5QwVFFCQpzFeWZDRrrngWAns+9OMbP/N8t+Z435o1GQYSRszESLm2QtM23fsCsW3elWAOFTCEtt9M4oIjyNLTUq8KBxyr1Z5YcKnDe3IMHQy/BFUv+iC0ryi6w5SE6b1TPil0JWAdxqM3DBDZ5N7nmusQQ3++QGwuDlAFz5Ukye3AYsZ6pf4VfG8E5vkaSGAjvYAuTzLG3xQCWsqYsHhNguBdaDP+6L/VCxRA5D75LNdL+8hbjmyHysovf4L6wH8pKlzb4DSbO6zEM9cfOM5P7bWqq7uAWACbKt0MsCzP3MinjsX2sfBadoQQoa2wejpS58Jmr9Pfmowa2kSq+ypN9xiQwiAC29+KaNQFsWQ==;eJMSYQax4VrbGqJfc3a5uA=="
+secured: "ymZYyQw+mJbCOfl2Zotx0PNqAO4c5S3HUaa53kjZKp2NAVgz8U2LQZ4zOfpW93s/JWM4Nj/K4hliqMaYHjs6hsSovd/XDiEez0KVFoGBtTHYM1S2VP4LS10K3aOQ5Q4xeFuT81T/NL9akyORMvHCYCYm07w5P8Su4s0ZDP9m7B/4+vwngilhZdr5LENggD8DLkNMsHKaX0CxsmZQqqmH5ipvJLgTbExUEqv4QupRSJXgKbsebOTl1vnpsG4JMn+RpI72M9Gq8CjL4Xbu9hqOVcICH2ThA8u6W91ZE8U2OVLZDLYZ61yDN/qACNRRchcI3GZQPptWgJqgkh8B4b4dwv5H1JxblO2LPTXD3tQQFag=;SqNVnqhqOjEVJTqf6KBoxQ=="
 ---
 

@@ -19,35 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Whale images used for artificial intelligence research"
-    excerpt: "A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work."
-    publishedDateTime: 2022-06-08T16:39:00Z
-    webUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
+  - title: "Researchers urged to use Artificial Intelligence to find solutions of problems in medical field"
+    excerpt: "Warangal: Kakatiya Medical College Principal Dr Divvela Mohandas has urged the researchers and faculty members of the computer science engineering (CSE)"
+    publishedDateTime: 2022-06-06T11:23:00Z
+    webUrl: "https://telanganatoday.com/researchers-urged-to-use-artificial-intelligence-to-find-solutions-of-problems-in-medical-field"
+    ampWebUrl: "https://telanganatoday.com/researchers-urged-to-use-artificial-intelligence-to-find-solutions-of-problems-in-medical-field/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/researchers-urged-to-use-artificial-intelligence-to-find-solutions-of-problems-in-medical-field/amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 49
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/whale-images-used-for.jpg"
-        width: 2362
-        height: 1393
-        isCached: true
-  - title: "DOD faces workforce challenges for AI test and evaluation"
-    excerpt: "The Pentagon needs to test and evaluate new artificial intelligence-enabled systems to make sure they’re up to snuff before they end up in the hands of troops. However, the department will be challenged to find more personnel who are qualified to do this type of work,"
-    publishedDateTime: 2022-06-07T21:02:00Z
-    webUrl: "https://www.fedscoop.com/dod-faces-workforce-challenges-for-ai-test-and-evaluation/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/06/AI-Getty.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/06/KMC-844x400.jpg"
+        width: 844
+        height: 400
         isCached: true
 
 secured: "sIdhu47oGqj8m/o67KoY0yrq6PByPy0vSBws0bgXC27tSLwzXr8NDFgKDt33CqWyO5t1apwFXS6KUd9qEK8UxTFS4Ohz5I/9NJgsMpNI8YhGZsZSKwd24TNKQr3Qb4yBVsfKvSoCm5X9IQnexHi7PV93v0iI6CFqzl3ZG+4f/Usobl5TlGCPMwnXfARNhcjsXReKRXoXsQweIjLpTXLWy7Na+1dERNsQQjV3Z25BV70a7ntxQyrkOITCtPsKlPCzE7G12QyilNz9ADkae2giMLVl1dsjy6FXQd6WMUy6uZ9+GOdMIKX5/Dg9+qi7WAZBn4gx5tF+UrpYQodrMq0zfz/9YpRZnfEbJono9h+E4ss=;QGCcTmeJIUnSQMmtZ6JSDw=="

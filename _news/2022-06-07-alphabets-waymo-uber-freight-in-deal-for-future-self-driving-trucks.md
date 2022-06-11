@@ -121,6 +121,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+    publishedDateTime: 2022-06-07T20:32:00Z
+    webUrl: "https://abc17news.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+    type: article
+    provider:
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 35
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
     excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."
     publishedDateTime: 2022-06-08T18:32:00Z
@@ -130,15 +144,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 28
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
-    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 15
 
 secured: "kviNBHe/UH1V5EMGR4oFQEdlp9unTFeqXe5O8ZAahEV0396skYOSZQhVHzeheuoqsuD2fSgpEJVcxPtWbwYV3Q37qP44BxGF5q8QIjEFPiKDwzSZc7t85D/hBGnJO5FkrUX3TFvK2hn4k47opJwkrB1S+3Sw4nS+yUXMckxGN061HCTKErWwQIy/utW46nZxo/nXHI5Ji+wchvHY5RKfEQi0yj6D/DMi9olvLqhGSG8vIistlVoUAYEfG2hm4MNYACJ/NsC6EFTlaLiIqKH0OAiUVJrYPFm+5dZiRNBI+Vb8l1/UsaHXyr73qgOhHB/B9xMG4X8JTAD4Dp26WfqeeFA6/AUgMUwPaK7lgOmmhEb8bJrYUKaQpOYTW+0uJj4lBCp/ogz/iajTYmV0sTJF/k3f4awkFT2XXk+ffqKN1yOxcLsB4ww5WXw04kwfBFhksIJqPk55AufJsNLbksXRcuNAjOTTbXnXp38tH29x+dhw9W/FArR2Z5tps0DQ2nNEP9DZimYSAvzbSpuyVJs8Bw==;TTb7S4BWa+y0TsQaAL396A=="
 ---

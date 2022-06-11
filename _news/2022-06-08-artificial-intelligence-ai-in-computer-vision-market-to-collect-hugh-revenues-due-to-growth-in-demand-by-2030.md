@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Is Set to Fly High in Years to Come with Top Countries Data | 118 Report Pages"
-    excerpt: "Jun 06, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) in Media and Entertainment Market\" Insights 2022 By Types (Hardware, Software),"
-    publishedDateTime: 2022-06-06T07:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-media-and-entertainment-market-is-set-to-fly-high-in-years-to-come-with-top-countries-data-118-report-pages-2022-06-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (Ai) In Computer Vision Market Expected to Reach US ~$81.10 Billion and CAGR 26.2% by 2028"
     excerpt: "The global Artificial Intelligence (AI) in Computer Vision Market size is expected to reach USD 80.10 billion by 2028 according to a new study by Polaris Market Research. The rise in the ..."
     publishedDateTime: 2022-06-09T14:01:00Z
