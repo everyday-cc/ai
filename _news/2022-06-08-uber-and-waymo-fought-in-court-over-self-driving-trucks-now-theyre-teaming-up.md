@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
-excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
+excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
 publishedDateTime: 2022-06-07T20:32:00Z
-originalUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+originalUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
 type: article
-quality: 35
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -140,6 +146,6 @@ related:
       domain: jalopnik.com
     quality: 28
 
-secured: "YKW9UeuKxYpLJndaelfglj0Y7Gq6iacL6IrZNTl4uKbmckaEMiUCKDiZTPvcqZjb3REIy+NKvoXWampADNIsoe/ilwXTTfbuz/z9DP04ZCtu2kG5PDv5WdCAzn5Dsc/I/4GHkAiodM91bYFWF/uK9++635YgZBNR/OF9nitW+BMitHN1BI6LZjkdI4AtyWpHJ1hblsp3RYVWWlihoobc7lehuKiouPTVL5GcuGi4KSZiz5iB5OHN65UloDbvrIsChxC8rwsNmPnm7LSEOXiJoIn54fTNv80Kl6BWJKZ+/etFXvYudwOeUSlUnD8l7ZVMc2e11EwfWjhsI6q3bGic71N1Pf0snZdt5iTTOVVJzcOm5rJ5BcqDPZVhsume0BPZOQQkhwCLy3LtQhORGRTKpdTTqykhK3CTKek22zbRB0zYPSf70XyIhiCIgj0P0ZkvNTfSsRHmjtFpSoMtBSm3iQWVM8lg4GkraUcS4zseZ/Ki7dt5L4XU+sWVNEVwx1U/iHMKaLX3LzPoN1LxdVXOUQ==;ZCPhe72z8SQjWrQGwzpKAg=="
+secured: "JGk3Nj6J2oWG1PWSyHDCCDKNxe4fKc6c5sy4vz2fFIwNh2pmy+FhKPzFEV4DN2Yi08OCBizN3sTRV8DU5hg0G27p/0soryDHCFoPD76HoiScfrZ6vw10B8a15pMGmK0zrv8VsZBHsrGhCNfsnEV+O51tlBCi5bf9aHGRHHXDrwkEU4nJEsGaKmHzfLYT2XvRLevUFCAzTFZMs0Eahab3xzghQD9a6mw4GdVprRZLujX1SMnkYoNwh6ifkOXlCsVgT7WT4tuJWO5DNu8092w9ZNUYxB0vyPFDZG3X3oX6cOZjtkJynduWYAC97dBX+SnKEza8bhXvOGA9SseDWg+RLK3XkYMnHjWjjSyTuGTD4V8=;TvuCJUPX/Cmi2JMdQDvwHg=="
 ---
 

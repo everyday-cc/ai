@@ -31,9 +31,9 @@ related:
   - title: "AI Identifies Gene Signatures of Cancer Tumors"
     excerpt: "A new study published in Genome Biology demonstrates how an AI algorithm has discovered a genetic signature trait of cancer cells, enabling machine learning to distinguish cancer cells from healthy ones."
     publishedDateTime: 2022-06-11T15:09:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
     type: article
     provider:
       name: Psychology Today

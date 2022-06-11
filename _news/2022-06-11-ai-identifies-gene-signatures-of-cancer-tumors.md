@@ -3,10 +3,10 @@ category: news
 title: "AI Identifies Gene Signatures of Cancer Tumors"
 excerpt: "A new study published in Genome Biology demonstrates how an AI algorithm has discovered a genetic signature trait of cancer cells, enabling machine learning to distinguish cancer cells from healthy ones."
 publishedDateTime: 2022-06-11T15:09:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
 type: article
 quality: 57
 heat: 67
@@ -43,6 +43,6 @@ related:
         height: 480
         isCached: true
 
-secured: "osgtF86WU7yljDPXiEkuTfF6zTaR0QkwSiVYXvjmhLBoy/2R4zVlHDqiD0JwsT3jiWBHDhWjIo/TxLCbTPuBHODDwQqVeYlnFp81ckTC+FPDkw/H1RmtTmCD16n0D1j+2zOYFTWiWJ1BA7xZENmYomKXipC78+DXSRD21SY3i8+9vn8f9mLOUTjheWcbwsybjuQwIcK82LViZpALodnIPbuFCqHbsiNH0aCU/VoTD3waSATtHFdVlRlGseHhobxu1HtbtPWc2hdhijHihreV1ELykTNhyFzCkgAoKsKo3BWLKCycRZC4HkesHNGVX+DJXkrM/S1xZjUY29qWjbWIJSMiBTeLgMl/bQ4su57hQckaOetEZmnfR3nSeTkqIlOqLZsaZyEHwMl1JzfRm/W3mAiYKjcwCFQ7GVP20Mj1Ywa210zRwAyaruvUhyxbCFGiG82n/x/7NxjPjHKOrWVCNYY6RMAe6tZG1UHJsvHWHHPecd2G39Lq41Tc8/vYXO1rm7xi7+kdCyYDA1wkk7lgOg==;rp3ktAP6enQS4jttj/M1rQ=="
+secured: "QnkcfHBe+AlNdOeQtfudjEFRMu/HQfmhLbPsFRs+ySgelRzJcElB3DeSN1nGlN/SscHpbY1qqQ0Ps+qik9d7uX/i9sa6VTySJZKySHzKUzE4J7UNReC4d7kYhFe6nG7bUckjZ67+jfNsRKggehNzq8dNHywS1F5T+Bs4k0lRp6gtORgN0SOgZl3uW9yb1TKlk+gq4/Es6y67mxOznAXejXl1wiAFZ2wqmv2+ahtqbBn1yP0U/oAFXbdGuh4yCNbEMsuDyOR/GN73jzq9TLNpOuF9wC8V8VsM56E5xiAdHY3/lJje85FjbZmW4g4xczrlD61bUhpcB5Hhms5++HhR7bNU55E1Twsf6ewpmZJdTMU=;hprgbChrGjRFKclrVDxMbA=="
 ---
 

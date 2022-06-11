@@ -47,6 +47,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "SONGTRADR EXPANDS ITS B2B MUSIC TECHNOLOGY SOLUTIONS - ACQUIRES LEADING ADVANCED AI SEARCH COMPANY, MUSICUBE"
+    excerpt: "Using neural networks and proprietary artificial intelligence, Musicube's semantic search has reached product leadership in both quality and data depth. It helps match music to content and a brand ..."
+    publishedDateTime: 2022-06-11T19:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1260056&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "CBnqZzzP6NrdssnaqhpMqWAPvSIRUEGCM128Tf05EIIiA54xWzqP7ihZWeaFV7YPI9G50UKJjTOtoraE6YzTRvGjbjkw4uK2KTkRrty0EEhAjyLVN99Q+G5Jhr5dLHJC3CnZnMpdbC56GdsbE/nSvQOeprCOH/Oj/H586F+uE4qy7BgfqeClaQBXfMCnYnHCjgNCm8dkDmogS1rPMHi3kuw3NAP/qD7EY7qnZZc8l6w61pGa5rYmgZUgXtdw1BAI11yZrS5XnCxemMKFvmag6JrjS5EkneS99PkMqMY6w9vNFiBeFCPpjKmQtLHcC+bt11uW7c7/9z5qtEpACBEHJHGQjuYNnb8n+VpUh2RXsw0=;B9Lv4hSHAxMv5oR71Kr5ag=="
 ---

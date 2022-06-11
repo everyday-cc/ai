@@ -2,6 +2,92 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-03-18-workloads-every-nonprofit-should-move-to-the-cloud.md",
+      "title": "Workloads Every Nonprofit Should Move to the Cloud",
+      "excerpt": "Whether the goal is to minimize maintenance or maximize capabilities, nonprofits have a lot to gain from embracing the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2022/03/workloads-every-nonprofit-should-move-cloud",
+      "originalUrl": "https://biztechmagazine.com/article/2022/03/workloads-every-nonprofit-should-move-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202203/GettyImages-1350641373.jpg?itok=ZZ1EO48J",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2022/03/workloads-every-nonprofit-should-move-cloud?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/03/workloads-every-nonprofit-should-move-cloud?amp",
+      "publishedDateTime": "2022-03-17T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns.md",
+      "title": "AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns",
+      "excerpt": "Developments in artificial intelligence and human enhancement technologies have ... media companies to find false information on their sites and the development of driverless passenger vehicles. The other three, often described as types of human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_22.03.06_AIandHE_featured.png?w=640",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
       "title": "Mathematical paradoxes demonstrate the limits of AI",
       "excerpt": "Humans are usually pretty good at recognizing when they get things wrong, but artificial intelligence ... paradox shows AI's limitations. Neural networks, the state of the art tool in AI, roughly ...",
@@ -1038,91 +1124,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-artificial-intelligence-chipsets-market-size-worth-12567-billion-globally-by-2028-at-3408-cagr-verified-market-research.md",
-      "title": "Artificial Intelligence Chipsets Market size worth $ 125.67 Billion, Globally, by 2028 at 34.08 % CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Chipsets Market\" By Technology (Natural Language Processing, Machine Learning), By Hardware (Memory, Network),",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08/article_873fe271-a5f9-503b-97c5-e72bee51cd92.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08/article_873fe271-a5f9-503b-97c5-e72bee51cd92.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors.md",
-      "title": "Durham startup restor3d, merging 3D printing, biomechanics, and AI, raises $14M from 147 investors",
-      "excerpt": "A Durham-based startup with ties to Duke has raised nearly $14M and could raise up to $22M, according to a filing. And 147 people have invested so far.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/",
-      "originalUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2018/10/money-cash-venture-capital-profit.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/?amp=1",
-      "publishedDateTime": "2022-03-17T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

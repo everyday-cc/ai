@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-
 ampWebUrl: "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
 type: article
-quality: 91
-heat: 131
+quality: 93
+heat: 133
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all"

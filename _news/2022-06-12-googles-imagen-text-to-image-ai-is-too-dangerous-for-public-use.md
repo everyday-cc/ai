@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-11T18:23:00Z
 originalUrl: "https://www.gadgetguy.com.au/googles-imagen-text-to-image-ai-is-too-dangerous-for-public-use/"
 webUrl: "https://www.gadgetguy.com.au/googles-imagen-text-to-image-ai-is-too-dangerous-for-public-use/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: GadgetGuy.com.au

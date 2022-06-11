@@ -1,51 +1,27 @@
 ---
 category: news
 title: "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
-excerpt: "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (\"AMPD\" or the \"Company\"), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc."
-publishedDateTime: 2022-06-06T23:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-6-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-6-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1"
+excerpt: "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (“AMPD” or the “Company”), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc."
+publishedDateTime: 2022-06-06T21:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331"
+webUrl: "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331"
 type: article
-quality: 29
-heat: -1
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
   - Machine Learning
 
-related:
-  - title: "AMPD Ventures signs deal with Variational AI to double its machine learning capacity at DC1"
-    excerpt: "The deal will nearly double the machine learning capacity supplied by the AMPD AI Platform to Variational, the company said"
-    publishedDateTime: 2022-06-07T10:35:00Z
-    webUrl: "https://ca.proactiveinvestors.com/companies/news/984202/ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1-984202.html"
-    ampWebUrl: "https://ca.proactiveinvestors.com/companies/amp/news/984202"
-    cdnAmpWebUrl: "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/984202"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 64
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA2XC8yMDIwLTExLTIwLTE0LTU1LTM1LWFjNmQyM2UxNjFlYTAzOTYxNWZjNjIwMGI2YzhiODAzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 740
-        isCached: true
-  - title: "AMPD Ventures Inc.: AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
-    excerpt: "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (\"AMPD\" or the \"Company\"), a next-generation digital infrastructure provider, is pleased to announce t"
-    publishedDateTime: 2022-06-06T21:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56240991-ampd-ventures-inc-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "nP7d++CVdJon5Xn5JMUqOChxTN4hg0N/LiiRUleR619iOCZmDLSO3MtsNI6Sshf+UbgK5qtnpn+Meqds/RmRpdaSDb7BWZcUpaJOL+EHHG+8EHs5ndmNxXX1hFNuhXgVwifx/452mGtXMNu7aT2Wzo//XQBRY5hAJ0pDDolWUFaNZ6fA0QC9SP8KZe9dQpw97cG5qQdAChrYBbfOC5d6xNHZQvEu8r9kzyHzaNH5s8wDSRibJzpJrIDnANvh9q9oMdZebo6xFddA4w8uV5aebdR3P3TOLYSfDSmGFK+GxFc+cl6gGxANHkmSiTwXe+P8vt9ob0IamYD4TC/HwgwX3HXfNk7vwjY65VAfU2kowuM=;TYezwpRzFsQyfAYu6llBcQ=="
+secured: "8oiCbRS/vnRmFCxmVVUpmo6fk9uT0XfPSx7IYbtbZ6TSu4fDcv1ierW1lAHUpkRTsjcm50sBxfkfp9UrW+pSXrUH6AZ5J82fz8I1FU27beOU8bXs6cBAdxqnFNqtaZsLRoFK+K8lRuFmnXs0PhohtYZS3kJGRqADG+4cWExv90dy4sBzMox34uXyUd0fmy0R7YXHx/CYEMkEoavtV3QQxKl8H73PvHqgVtoyLXnbXZ3ncpb/mYRs37zaBS7PzHizxLhKdREwQZJjHsW9kl63aW0vm1HqKkMyuidBRzw6ewQWz0r/L/X0Dzn5PA1rIk6LQZHqjZgSosANnKGmJ78gqDwFva+VfOrUEN9jr0ijHWE=;PGkHitrv4kjruj8hWUZ6Gw=="
 ---
 

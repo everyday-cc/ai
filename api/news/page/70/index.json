@@ -2,6 +2,83 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-04-12-harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry.md",
+      "title": "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry",
+      "excerpt": "TIFIN, a fintech platform using Artificial Intelligence (AI) and investment-driven personalization to assist asset managers with their digital distribution, announced that Distill by TIFIN is partnering with Harbor Capital Advisors (Harbor),",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/",
+      "originalUrl": "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX21 News",
+        "domain": "fox21news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-computer-vision-development-market-swot-analysis-face-sensetime-yitu.md",
+      "title": "Computer Vision Development Market SWOT Analysis – Face++, SenseTime, YITU",
+      "excerpt": "Apr 12, 2022 (Heraldkeepers) -- New Jersey, N.J., April 11, 2022 – The Computer Vision Development Market research report provides all the information related to the industry. It gives the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead.md",
       "title": "Robot-Run ETF Known For Tesla, Apple Bets Cut Out Chipmakers In March And Bet On This Retail Giant Instead",
       "excerpt": "AMOM Hits Exit Button On Chip Giants: The QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) sold its entire stake in two high-profile chip names — GPU chipmaker Nvidia Corporation ...",
@@ -1041,101 +1118,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-cressanda-solutions-forays-into-aiml-through-its-acquisition-of-lucida-tech-stock-soars-4.md",
-      "title": "Cressanda Solutions forays into AI/ML through its acquisition of Lucida Tech; Stock soars 4%",
-      "excerpt": "Lucida Technologies is a Bangalore based digital technology company specializing in providing development and support services in leading edge technologies such as data analytics, artificial intelligence/ machine learning (AI/ML), full stack, mobile and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-top-story/cressanda-solutions-forays-into-ai-ml-through-its-acquisition-of-lucida-tech-stock-soars-4-122050200049_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/cressanda-solutions-forays-into-ai-ml-through-its-acquisition-of-lucida-tech-stock-soars-4-122050200049_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/cressanda-solutions-forays-into-ai-ml-through-its-acquisition-of-lucida-tech-stock-soars-4-122050200049_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/cressanda-solutions-forays-into-ai-ml-through-its-acquisition-of-lucida-tech-stock-soars-4-122050200049_1.html",
-      "publishedDateTime": "2022-04-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space.md",
-      "title": "Microsoft And NASA Leverage AI To Streamline Safety In Space",
-      "excerpt": "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
-      "publishedDateTime": "2022-04-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

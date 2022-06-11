@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-11T19:38:00Z
 originalUrl: "https://menafn.com/1104359651/AL-FARDAN-EXCHANGE-LLC-SIGNS-ANTI-MONEY-LAUNDERING-COMPLIANCE-SOLUTIONS-AGREEMENT-WITH-KIYAAI"
 webUrl: "https://menafn.com/1104359651/AL-FARDAN-EXCHANGE-LLC-SIGNS-ANTI-MONEY-LAUNDERING-COMPLIANCE-SOLUTIONS-AGREEMENT-WITH-KIYAAI"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

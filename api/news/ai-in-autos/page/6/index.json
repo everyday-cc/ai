@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-28-why-you-should-be-using-ai-for-hiring.md",
+      "title": "Why you should be using AI for hiring",
+      "excerpt": "Advanced AI allows researchers to parse and score unstructured data such as resumes, typed responses, and interviews, and it’s game changing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1288853231.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/",
+      "publishedDateTime": "2022-04-27T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-uae-vows-responsible-artificial-intelligence-rollout.md",
       "title": "UAE vows 'responsible' artificial intelligence rollout",
       "excerpt": "Dubai (AFP) – The world's first minister for artificial intelligence says the ... its economy and reduces its reliance on oil. Self-driving taxis being used in a demonstration in the UAE capital ...",
@@ -1318,49 +1371,6 @@
       "provider": {
         "name": "China Daily",
         "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-self-driving-car-company-establishing-test-facility-in-sc.md",
-      "title": "Self-driving car company establishing test facility in SC",
-      "excerpt": "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html",
-      "originalUrl": "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/aa/3aa16c2d-1403-57c3-8e8f-df9d49dd8747/5f4e9e69c476a.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Post and Courier",
-        "domain": "postandcourier.com",
         "images": null,
         "publishers": null,
         "authors": null
