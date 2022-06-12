@@ -7,7 +7,7 @@ originalUrl: "https://www.forkliftaction.com/news/intralogistics-technology-high
 webUrl: "https://www.forkliftaction.com/news/intralogistics-technology-high-on-the-agenda-at-imhx-2022.aspx?n=26052"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 369
     isCached: true
-
-related:
-  - title: "Game-changing intralogistics technologies at IMHX 2022"
-    excerpt: "Sales of autonomous mobile robots and driverless lift trucks are taking off but the game-changing intralogistics technologies we will see at IMHX 2022 go much further than the simple replacement of man by machine,"
-    publishedDateTime: 2022-06-07T09:41:00Z
-    webUrl: "https://mhwmagazine.co.uk/game-changing-intralogistics-technologies-at-imhx-2022.html"
-    type: article
-    provider:
-      name: Materoals Handin World magazine
-      domain: mhwmagazine.co.uk
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/mhwmagazine.co.uk/wp-content/uploads/2022/06/Game-changing-intralogistics-technologies-at-IMHX-2022.jpg?fit=660%2C330&ssl=1"
-        width: 660
-        height: 330
-        isCached: true
 
 secured: "hhy/8CkIudutmvzL5ykK0Pxr6wjEU3DcptdoP+1ktzCo9YD+ovmclQX8hw2GIosRzE6+3Se4NCHBqKVdytI16cSAXV/JNgsUD+QTX4wc4v8+GdpsklyQliVbkOczSsn2+jH22lBRo0r2TTOOm0La4flotpexbdx5YqrtSnh3Fk4oXL3EfCaMWAFl23d6laXCclvB1Rl2Nf9caXg1k1Mmuhzvx3rrSnZJ5mLn4oPT2dV/PLaQrqR0ReTZkRX35paNtRh+7IU8c4bswvLah64371C2MN7FO04sGnjbsSwWtDfAFbBPhI+59Vb0ECDAEZKMfhLA3vZDHxCCoQsJwM/DYb0p9iIcyuOpldgQEI9pmf2nt+WfBA1htgAWfshGE4Q5Dykz9DS8mN+SIt9PI/95tgrCnMkzDNjbM5MFBehQ287jc2ojji5lBRjgwwGeVbnyi+oocO6KpJjOaXLxSqFiCd8kwonJ/K443Sdl5B8qszj9KfEOHfza0WjigbyJ/A6WumGRRKS5v2firmk2v2psyQ==;c9LaMfaPVZqM8IsqII5A1A=="
 ---

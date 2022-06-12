@@ -9,8 +9,8 @@ ampWebUrl: "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robo
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: India.com
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab"
-    excerpt: "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,"
-    publishedDateTime: 2022-06-07T10:43:00Z
-    webUrl: "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/"
+  - title: "What's Next for Artificial Intelligence in Customer Experience?"
+    excerpt: "Customer experience has been no exception, as brands also increased their digital investments to support online activity while in-person interactions were limited. To support this uptick in online activity,"
+    publishedDateTime: 2022-06-10T11:48:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/whats-next-for-artificial-intelligence-in-customer-experience/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/whats-next-for-artificial-intelligence-in-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/whats-next-for-artificial-intelligence-in-customer-experience/amp/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 82
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
     images:
-      - url: "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg"
-        width: 615
-        height: 383
+      - url: "https://www.cmswire.com/-/media/16dd8a9aa5a64a9f8ad1409db0b6afe7.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "FEW+L3nSlsu2w+7Jl+z8ziDdkeDfwYG1dU1inlt8lgdyxPVHeT/cxk5mCfen5pKF6YtZLZGHyTUOhIkBfWHTZl5/PfLzokb5oVconIN2Ug+mO8QhoVw/crO7msh59MzDT6tqNCnQft7oZgTWPoLqVjxT6bhdp9rYIqofOTgvwoj18gKfB/PbIqHYVEwsg9mjNupuxccviXQM7TVQf9RsB/EKRZJPRHpJdMcFVSUGtjmMoSDojHG4tlGk7mfhAzHq53NZmpL+erJo3sv3RxNIFxvxx/99xxL9lPmSMwdmBJcS/oVCgQuTrjDCAD1/UHxM7uu7LbZHjawnyN3O2lz8QkPBAh6ay4WFQsP4O2gQ7paO0iQ2P6lTY8+SKiEggHBPsKYcDOvjlXNgNzX2CM587NSryErSsSxLF1HLY6DqFBTTz/0tSE5WPhgEsVu30E3WxURV7FdZMAGV/63/a+tsibn/x3LMq1wccV+zThYui7fx1smzuppbfAkE+laGQjM4KfTEB39SjMiZYEBwmKMGuA==;33pE3ERLgBd6HDrgPa1CHw=="

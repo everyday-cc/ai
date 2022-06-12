@@ -313,6 +313,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
+      "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
+      "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
+      "originalUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/05/bengaluru-airport.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
+      "publishedDateTime": "2022-06-07T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
       "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
       "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
@@ -1281,49 +1324,6 @@
       "provider": {
         "name": "Fort Worth Star-Telegram",
         "domain": "star-telegram.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle.md",
-      "title": "Magnetic encoders support the stabilization control of a self-balancing two-wheeled robotic vehicle",
-      "excerpt": "In the design of a self-balancing two-wheeled robotic vehicle, accurate high-speed measurement of angular rotation is a key requirement. Furthermore, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
-      "originalUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/renishaw-sponsored-featured-image-june2022.png",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

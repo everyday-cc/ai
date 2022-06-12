@@ -25,6 +25,15 @@ topics:
   - AI
 
 related:
+  - title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
+    excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience"
+    publishedDateTime: 2022-06-07T17:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "TAUS Named Representative Vendor in 2022 Gartner Market Guide for AI-Enabled Translation Services"
     excerpt: "TAUS is listed as one of the seventeen representative vendors with a focus on the wide array of language data solutions"
     publishedDateTime: 2022-06-09T08:28:00Z
@@ -48,15 +57,6 @@ related:
       name: Daily News
       domain: galvnews.com
     quality: 17
-  - title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-    excerpt: "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ..."
-    publishedDateTime: 2022-06-07T17:23:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
 
 secured: "PCXmPcyhw3xNjctR9/Be9BV0zYkM43ymTolWzYGkpV3ue6q+9Fo3Kble2F9DJhAltOTc33rnRxOWSxMLZ8k9JNOW2r3cnW4CXXLZR90GP70hWdBQAWLJZxOrXsLW1SIttKbt6By2hbXcQn4Mm0wlYYYG735fFcJ+Qn44eLiBfDhRI6wUiYZsSbJrqZDhDstNWwzAvA4qi0RUmNiZ1vSCdPBf1MPQ+R/GKb5LmT0SDRGZJ9caPzSDt9Y92oeqU98c4Wlq98Tz77IZc87F0PmYOhhih5hxvSF8sa55vcUmrrUqarZwKvhi7byqyAIc9yCvn1YCDTeS3M/zL016D6Lg9gHr8CQHGP5ra8hnW33Mg+4=;yOFXbfTiprcziJdwwYPKZA=="
 ---

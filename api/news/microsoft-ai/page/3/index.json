@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-18-build-back-better-business-solutions-with-azure-and-microsoft-365.md",
+      "title": "Build Back Better: Business Solutions with Azure and Microsoft 365",
+      "excerpt": "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
+      "originalUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SharePoint",
+        "domain": "sharepointeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-cognitive-analytics-market-size-share-trends-global-industry-analysis-growth-business-overview-forecast-2022-2029-vmr.md",
       "title": "Cognitive Analytics Market Size, Share, Trends, Global Industry Analysis, Growth, Business Overview, Forecast 2022-2029 – VMR",
       "excerpt": "The key players studied in the report include: IBM, Amazon Web Services, Google, Microsoft ... products and service variants available in the Cognitive Analytics market, as well as the scope ...",
@@ -794,508 +837,7 @@
         "AI",
         "AI Hardware"
       ]
-    },
-    {
-      "path": "_news/2022-05-10-microsoft-readies-its-latest-industrial-metaverse-pitch.md",
-      "title": "Microsoft readies its latest 'industrial metaverse' pitch",
-      "excerpt": "Microsoft is positioning a number of its enterprise components, from IoT to Synapse Analytics, as its stack ready to take on the 'industrial metaverse.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/85b6ea12ce92e31ebdb61572ca94cd093c168d17/2022/05/10/53c87957-c47b-474c-a213-d0e116968cd8/microsoftmetaversetechstack2021.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-its-latest-industrial-metaverse-pitch/",
-      "publishedDateTime": "2022-05-10T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study.md",
-      "title": "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study",
-      "excerpt": "Forrester Total Economic Impact™ study highlights faster time to market, improved decisioning and cost savings brought by SAS and Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg",
-          "width": 400,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions.md",
-      "title": "Qualcomm goes beyond smartphones with 5G and edge-AI robotics solutions",
-      "excerpt": "Qualcomm’s robotic tech is taking its tech beyond smartphones. The platform combines Qualcomm AI Engine and 5G chip capabilities for cutting-edge applications and possibilities, including ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/",
-      "originalUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/qualcomm-robots-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/amp/",
-      "publishedDateTime": "2022-05-10T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech.md",
-      "title": "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech",
-      "excerpt": "The team used SAS Viya ® software running on Microsoft Azure cloud platform. The combination of AI in the cloud gives Hackathon teams – and businesses, government agencies and universities ...",
-      "sourceUrl": null,
-      "webUrl": "https://whnt.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/",
-      "originalUrl": "https://whnt.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-d2iq-streamlines-smart-cloud-native-application-deployments-with-kaptain-aiml-20.md",
-      "title": "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0",
-      "excerpt": "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-avaya-enters-strategic-partnership-with-microsoft-to-deliver-ccaas-on-azure-cloud.md",
-      "title": "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud",
-      "excerpt": "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
-      "originalUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
-      "publishedDateTime": "2022-05-10T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-disprz-partners-with-purple-quarter-to-appoint-alagu-sundaram-m-as-the-vp-of-engineering.md",
-      "title": "Disprz Partners with Purple Quarter to Appoint Alagu Sundaram M as the VP of Engineering",
-      "excerpt": "Bespoke CTO Search firm, Purple Quarter facilitated Disprz, an AI-powered E-learning and cognitive science-based learning platform, in finding the right tech leader by closing on Alagu Sundaram M as the VP of Engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254416&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254416&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence industry is expected to grow to $554 billion in total revenue by 2024, according to market research firm IDC.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
-      "originalUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "IBM AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business.md",
-      "title": "Microsoft veteran Bob Muglia: Relational knowledge graphs will transform business",
-      "excerpt": "The basic story is this: Five companies have created modern data analytics platforms, Snowflake, Amazon, Databricks, Google, and Azure, but those data analytics ... That includes much more use of machine learning within business analytics, as the name ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6c1577c7fa2cd45817e9491718dfc95ca6d3457e/2022/05/07/4f3a30a8-c5f2-4bbd-8a4f-86a5f7b488ec/from-modern-data-stack-to-knowledge-graphs-5-1-22-slide-28.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "publishedDateTime": "2022-05-07T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-mlops-the-most-important-piece-in-the-enterprise-ai-puzzle.md",
-      "title": "MLOps: the Most Important Piece in the Enterprise AI Puzzle",
-      "excerpt": "Data scientists most of the time, they know how to use machine learning tools such as Azure Machine Learning on the cloud. Of course, they are familiar with GitHub. They use deep learning and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/presentations/mlops-tech/",
-      "originalUrl": "https://www.infoq.com/presentations/mlops-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/presentations/mlops-tech/en/card_header_image/generatedCard-1651751321874.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-07T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
-      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27060343",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27060343",
-      "publishedDateTime": "2022-05-07T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI",
-        "Microsoft AI"
-      ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

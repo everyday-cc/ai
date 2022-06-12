@@ -29,6 +29,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
+  - title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
+    excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience"
+    publishedDateTime: 2022-06-07T17:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "TAUS Named Representative Vendor in 2022 Gartner Market Guide for AI-Enabled Translation Services"
     excerpt: "TAUS is listed as one of the seventeen representative vendors with a focus on the wide array of language data solutions"
     publishedDateTime: 2022-06-09T08:28:00Z
@@ -43,15 +52,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-    excerpt: "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ..."
-    publishedDateTime: 2022-06-07T17:23:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
 
 secured: "q4pURYEnXfgML6h7vai3LxOd8Cw7srQdT0VsFXrDXj0G4Z66rf7u+x0EUjR1ZlXFSNqFxGG1z+T90OslAdlS+GpeRSNZcySRaSmd3R0u5RAihgGIQsGz5vOrymIu97PCFxuzdVUW7ul+T6jq9uQTlBzdvkLrinabE82nschRVSUSIpFq8fUSOT175ATP/fygNGRrtUHjSRl76bYbdGF7gPVNsRTmN1vudQqPfHjMc8+0k59ZPpHoZuQ3K6fEPz7S6pJTDg57UHLyZfSqv8sRe8gYPfs3chPlLs+sVXoHEQZWN3o1WfIxoMytISJenw68+xdo1iM1UjoehrPPtM7fhVGDxUVVdgI8aZ8kwvTLqyHiOncsT6HCjEm2uTdntG05RhiudbTepOZ63lCoED5O2eE/sykY2YE9WdCtqp7d80VbU6BaBbW+4Ouim+Lzq++MdBevX69ASXaw98VEFJTE4cFrhw0Prfb+Ado297qDoF52iJ+VmmI/2mj70DYiDrP4hNVcUkx2jPWpe4IqoFuTsQ==;nTZalTRyDvoW12esCPboJQ=="
 ---

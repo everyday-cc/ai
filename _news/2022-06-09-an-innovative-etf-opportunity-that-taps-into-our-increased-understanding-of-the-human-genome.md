@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-Powered Hong Kong Biotech Startup Raises $60 Million From Top VCs Including B Capital, Qiming"
-    excerpt: "Insilico Medicine uses AI to speed up drug research for diseases like cancer. Before starting Insilico Medicine in 2014, Zhavoronkov founded Deep Longevity, another AI-powered healthcare startup in Hong Kong."
-    publishedDateTime: 2022-06-07T09:19:00Z
-    webUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/"
-    ampWebUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//629f13ed0c991cb629d8d39f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 585
-        isCached: true
   - title: "A self-driving truck will soon delivering in Dallas. The cargo? TP"
     excerpt: "Texas is a key state for self-driving truck experimentation. In April, California-based self-driving trucking company Kodiak Robotics partnered with carrier fleet U.S. Xpress to launch an autonomously operated cargo service between Dallas-Fort Worth and ..."
     publishedDateTime: 2022-06-08T08:15:00Z

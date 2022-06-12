@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ..."
-publishedDateTime: 2022-06-07T17:23:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html"
+excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience"
+publishedDateTime: 2022-06-07T17:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
+webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
 type: article
-quality: 15
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -54,6 +58,6 @@ related:
       domain: galvnews.com
     quality: 17
 
-secured: "stt7yBg7bGle8Rum/u8Wdde+CwNE4vsYLJRzdWABIKTDEX72yz96Uze41gj1fOtQYbKG9vVMSxcywA89ZcORT7/7usvPV5myrI8kMpwXDG56N/V16rPupjyluGEDAUvjvVfj3gJFkhAQH10qUonQ8b890YplYrWn55DiP10oPWUzWUpMHNnhl8FLyPoY/7qa45XwBHpNap1gJHIi2a/U44dJXvmdympUY+eVFqXCDZNxIVbLqi9GWIks10QqvId2P74qrPmf9CJpUal+YyI6zDelUT9gzQ6rwyvRGavisAgenn8RG7DoUQ3ieDVtyKJyvgLDNbYg2JzEUMJk+reT03VME6+WpJ5OgMCqSBYuF6Q=;Kbn9UHM405FGcRlQBw0NQA=="
+secured: "xVZb43N3f3eiIuYNRzbKUJZ8EC/CHZIKy8/tOLfCSgXyGI+udqY88SS0JRbu2NbnejKs7ykvfYi5s4obru5ta6L0Pn1blr//VyMwffUSSZZQxMjXOqKMJK+JB61rKvvqQXlwi1aGjRMQCIkOls4zTPl1FdoFGdR4P7hO5W4iFoBa3Yv8Ngc7YQVrYsAi4Kli0lsoy9ZuogypW9v5mnqZt+WLR+iUUJrbinirZyZsfYpNI08CqU0vCeFIYiT2FITyQUSXtnc+c0sunsAldqSvUsG1v5oIamfyqdZOVB80/ARgZRchXtfbzkwsWTa+x/UCnyRuae67d4b9BRrv9hGmQ5eTqbcmE6edpQPfBGcZ+imunkPjsoWiIiQQmdokMzxe1Mqer+pLiWJe9GlkqaYlE+OE8BPHIL2FpwZmsKfnd0uXOH2Zw3ASrk+2TDxEVnCAkcA2IFD2SGbaFYCLRqNp6uawwLbIGJDIwpD0Ywtx9hhjinGN3IyGGTeZinZjcPmuyxRrHMTsmRRbSumnNsvumQ==;0mmbOGehrqVOgzGQWnuYJA=="
 ---
 

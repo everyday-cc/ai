@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-18-the-role-of-ai-and-machine-learning-in-revolutionizing-clinical-research.md",
+      "title": "The role of AI and machine learning in revolutionizing clinical research",
+      "excerpt": "The goal of implementing artificial intelligence and machine learning in clinical research is not to replace humans with digital tools but to increase their productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/05/the-role-of-ai-and-machine-learning-in-revolutionizing-clinical-research/",
+      "originalUrl": "https://medcitynews.com/2022/05/the-role-of-ai-and-machine-learning-in-revolutionizing-clinical-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2022/04/INVEST-PharmaTech-2022-Email-Header.jpg",
+          "width": 600,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-aiml-startups.md",
       "title": "Flying Fish raises $70M fund and will cast net beyond Seattle to back more AI/ML startups",
       "excerpt": "Seattle-based venture capital firm Flying Fish landed $70 million for its second fund to invest in more machine learning and artificial intelligence startups across a bevy of verticals… Read More",
@@ -924,503 +968,7 @@
         "Machine Learning",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-05-10-predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models.md",
-      "title": "Predibase exits stealth with a low-code platform for building AI models",
-      "excerpt": "Or they can choose to use a blackbox off-the-shelf ‘AutoML’ solution that simplifies their problem at the expense of flexibility and control.” Indeed, while worldwide spending on AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/",
-      "originalUrl": "https://techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173239910.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/amp/",
-      "publishedDateTime": "2022-05-10T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company.md",
-      "title": "Slack’s former head of machine learning wants to put AI in reach of every company",
-      "excerpt": "“The point of Graft is to make the AI of the 1% accessible to the 99% ... And this is useful because you don’t have to start from scratch on every new problem,” he said.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/",
-      "originalUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-924396196.jpg?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slacks-former-head-of-machine-learning-wants-to-put-ai-in-reach-of-every-company/amp/",
-      "publishedDateTime": "2022-05-10T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-d2iq-streamlines-smart-cloud-native-application-deployments-with-kaptain-aiml-20.md",
-      "title": "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0",
-      "excerpt": "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-google-announces-cloud-tpu-virtual-machines-for-ai-workloads.md",
-      "title": "Google announces Cloud TPU virtual machines for AI workloads",
-      "excerpt": "Google Cloud has announced the general availability of TPU virtual machines (VMs) for artificial intelligence workloads. The general availability release includes a new TPU embedding API, which Google Cloud claims can accelerate large-scale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/da12492a3e3f3f9ae13884768b1cccd421e39918/2021/07/29/328ebbca-0812-4d74-8a88-a3aa8b815b5f/shutterstock-1504791845.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "publishedDateTime": "2022-05-10T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach.md",
-      "title": "Fresh off $2B valuation, machine learning platform Hugging Face highlights ‘open and collaborative approach’",
-      "excerpt": "Earlier today, community-driven machine learning platform Hugging Face announced $100 Million in new funding – raised in just one week – to continue building what many, including CEO Clement Delangue,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
-      "originalUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/collaboration.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
-      "publishedDateTime": "2022-05-09T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-apple-director-of-machine-learning-quits-because-of-the-companys-return-to-work-policy-report-says.md",
-      "title": "Apple director of machine learning quits because of the company's return-to-work policy, report says",
-      "excerpt": "\"I believe strongly that more flexibility would have been the best policy for my team,\" Ian Goodfellow told staff, according to reporter Zoe Schiffer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
-      "originalUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6279226b94a2c10018ee8ec7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
-      "publishedDateTime": "2022-05-09T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning.md",
-      "title": "Hugging Face reaches $2 billion valuation to build the GitHub of machine learning",
-      "excerpt": "Due to the success of this libary, Hugging Face quickly became the main repository for all things related to machine learning models — not just natural language processing. On the company’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/amp/",
-      "publishedDateTime": "2022-05-09T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-using-graph-neural-networks-to-measure-the-spatial-homogeneity-of-road-networks.md",
-      "title": "Using graph neural networks to measure the spatial homogeneity of road networks",
-      "excerpt": "Researchers at Purdue University and Peking University have recently carried out a study aimed at better understanding road networks in cities worldwide using machine-learning tools. Their paper, published in Nature Machine Intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2022/using-graph-neural-net.jpg",
-          "width": 800,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.amp",
-      "publishedDateTime": "2022-05-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-loen-lensless-opto-electronic-neural-network-empowered-machine-vision.md",
-      "title": "LOEN: Lensless opto-electronic neural network empowered machine vision",
-      "excerpt": "has generated the rapid development of deep learning based on convolutional neural networks (CNN), leading to effective solutions for a variety of issues in artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html",
-      "originalUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/loen-lensless-opto-ele.jpg",
-          "width": 2027,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp",
-      "publishedDateTime": "2022-05-06T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-uk-regulatory-bodies-call-for-auditing-standards-of-ai-and-machine-learning.md",
-      "title": "UK regulatory bodies call for auditing standards of AI and machine learning",
-      "excerpt": "Globally, algorithms used in financial decision-making are drawing increased scrutiny through the lens of risk management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5",
-      "originalUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62753c13a6a880001827de76?width=1200&format=jpeg",
-          "width": 922,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp",
-      "publishedDateTime": "2022-05-06T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
     }
   ],
-  "nextPage": 5
+  "nextPage": null
 }

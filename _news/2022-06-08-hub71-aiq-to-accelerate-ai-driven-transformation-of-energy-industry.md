@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/business/energy/hub71-aiq-to-accelerate-a
 webUrl: "https://www.zawya.com/en/business/energy/hub71-aiq-to-accelerate-ai-driven-transformation-of-energy-industry-gsh8le2a"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,34 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Hub71, AIQ to accelerate AI adoption in energy industry"
-    excerpt: "Hub71, Abu Dhabi’s global tech ecosystem, is to partner with AIQ, the Abu Dhabi National Oil Company’s (Adnoc) artificial intelligence (AI) venture, to explore advancing AI solutions that support a sustainable energy future."
-    publishedDateTime: 2022-06-07T09:44:00Z
-    webUrl: "https://www.zawya.com/en/business/energy/hub71-aiq-to-accelerate-ai-adoption-in-energy-industry-ycwn8m00"
+  - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence ® Cerebrus ™ Intelligent Chip Explorer is accelerating with new production deployments completed. Given that Cadence Cerebrus employs artificial intelligence (AI) technology to automate and scale digital chip design,"
+    publishedDateTime: 2022-06-09T14:46:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-business-ab6b5d565f024f10a71d7bc9725287a9"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
     images:
-      - url: "https://static.zawya.com/version/c:NzFjNzVjZTUtYWJlYS00:YmRhYWNj/180516221659emso-jpg.jpg"
-        width: 724
-        height: 483
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "AI Disruption in the Construction Industry"
-    excerpt: "As industries integrate more tech, AI is disrupting major industries like construction, leading to substantial change and growth."
-    publishedDateTime: 2022-06-10T16:17:00Z
-    webUrl: "https://techreport.com/innovation/3477656/ai-disruption-in-construction/"
+  - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence® Cerebrus™ Intelligent Chip Explorer is accelerating with new production deployments completed."
+    publishedDateTime: 2022-06-10T07:30:00Z
+    webUrl: "https://www.design-reuse.com/news/52118/cadence-cerebrus-intelligent-chip-explorer.html"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
-    images:
-      - url: "https://cdn.techreport.com/wp-content/uploads/2022/05/AI-Construction.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 3
 
 secured: "GahOjfMRsniDDW56pr+bfZnooY3YngneypdQCWwZjcP0n7cda8t9xE309dlNDxtor9XfLvgVutAYI+aoPUZWrxAK6wGgt6hP/yVRnO8ohrG+PW6NRWJdWRx9Jhj+uX4XWnH5Ul8u5l/psdZ72thHowEcb9Q8nhIAEUkQYgApxjYRr9gSYzdQKwET7OprrRfEZlwUeedNYm/ZyWB1GWxNf0yTjZdQVVQXZCnrLHDXBXkwpCl2MLBA3W9gpGkABy8ekOQbZCH+CP+YXkDwl7PO2tJ/ngIO7FQ+vD7aRO/ie5qlzhlQqNeungrGLPCelmgz65xH7yXQR14fYlsY35Z5oqRSkG4zVVmPQxF+JwoQluU=;H5dfwElXedKkC9vUqug08w=="
 ---

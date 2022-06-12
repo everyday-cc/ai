@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "A Center for Visual Computing and Artificial Intelligence"
-    excerpt: "Google and the MPI for Informatics will conduct joint research projects at the Saarbrücken Research Center for Visual Computing, Interaction and Artificial Intelligence (VIA). The focus of the center will be basic research and the resulting work is going ..."
-    publishedDateTime: 2022-06-07T10:30:00Z
-    webUrl: "https://www.mpg.de/18787770/research-center-visual-computing-interaction-artificial-intelligence"
-    type: article
-    provider:
-      name: Max Planck Society
-      domain: www.mpg.de
-    quality: 39
-    images:
-      - url: "https://www.mpg.de/18782009/original-1654602066.jpg"
-        width: 1019
-        height: 679
-        isCached: true
 
 secured: "gZJLKs7I6g4tEBw0j7BOm1F2upr8tJO/vDJ0VQ96bV35OIWhV/ktHLUrRohv/dYb37/8SSuxRYsz+hKrZrXo5yYqHfCwJdfTwjjnphYoLuFQKhgeeg+TMkx6WbV7ivoU93lWjqf68DvvAWvPa3Yt1n3LnHTEe+vGnZQvEtVduAY0XvrKLXCGxTkcwRCYaTbcRRm8ITZJos68yk2lDrIZxadizI6s1Fh+BJaZotNyHdh6yvG94Vm8PXj10S1mSxAw0oWMLz0s4kQDGEh2XVeEolpqiY8D8T2UAwXk7UxCSi5VxapF/joGAd0P/xYp2qyfbL9/6CIO9lgYrkPSlQUiWN8aDKn+RCD+BGc5jJpKGuAAcW1K7b72WjfSQkth4Lfh8A4XGpLJA92JFB3Y038ReqrOu0w0Dvr7e5iI/SirXqOG8VFUnaFmL1BsH79sorc/mLNoLQBG30bQqJUEqzrXOGwQH1GakB3G/V5PNYn5Pu53AioeMF+w78DXLFAS3C9gpnKiT+ZobhwH72vd8PEJ9A==;WzjzuaU2YXv9iCu477d6iQ=="
 ---

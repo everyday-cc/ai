@@ -556,6 +556,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-07-amazons-ai-is-helping-the-police-watch-you.md",
+      "title": "Amazon's AI Is Helping the Police Watch You",
+      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
+          "width": 1280,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas.md",
       "title": "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas",
       "excerpt": "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand.",
@@ -1265,6 +1308,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
+      "publishedDateTime": "2022-05-30T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-29-aws-releases-first-graviton3-instances.md",
       "title": "AWS Releases First Graviton3 Instances",
       "excerpt": "AWS has recently announced the general availability of the C7g instances, the first EC2 instances running Graviton3 processors. Designed for compute-intensive workloads, they provide always-on ...",
@@ -1338,84 +1415,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-silicon-overdrive-achieves-aws-education-competency.md",
-      "title": "Silicon Overdrive achieves AWS Education Competency",
-      "excerpt": "South African IT Services company, Silicon Overdrive, successfully achieved its Amazon Web Services (AWS) Education Competency status. Click here to learn how Silicon Overdrive helped educational ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/industrynews/446128-silicon-overdrive-achieves-aws-education-competency.html",
-      "originalUrl": "https://mybroadband.co.za/news/industrynews/446128-silicon-overdrive-achieves-aws-education-competency.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-amazon-chooses-top-startups-for-2022-aws-space-accelerator-programme.md",
-      "title": "Amazon chooses top startups for 2022 AWS Space Accelerator programme",
-      "excerpt": "Amazon Web Services (AWS) - the cloud computing wing of Amazon - has selected ten participants for its 2022 AWS Space Accelerator programme, chosen for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
-      "originalUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2022/05/26181543/AWS-accelerator.jpg",
-          "width": 919,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

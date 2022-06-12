@@ -2,6 +2,82 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-03-artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some.md",
+      "title": "Artificial intelligence scans for weapons, but faces criticism from some",
+      "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "originalUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "publishedDateTime": "2022-06-03T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Action News",
+        "domain": "abcactionnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-pinterest-pins-acquires-ai-powered-shopping-platform-the-yes.md",
+      "title": "Pinterest (PINS) Acquires AI-Powered Shopping Platform The Yes",
+      "excerpt": "The acquisition is believed to help Pinterest accelerate its initiative to evolve as a “home of taste driven shopping” platform. The Yes, a startup founded by CEO Julie Bornstein in 2018, provides a personalized feed-based shopping platform based on users’ preference of brand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes",
+      "originalUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp",
+      "publishedDateTime": "2022-06-03T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier.md",
       "title": "Vinith Misra: How can our relationships with computers be funnier and friendlier?",
       "excerpt": "Artificial intelligence and people often struggle to ... Previously, he worked at Netflix and IBM Watson. He's received the Stanford Graduate Fellowship, the National Science and Defense Graduate ...",
@@ -598,6 +674,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-03-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
+      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
+      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
+          "width": 619,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
       "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
       "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
@@ -1018,135 +1137,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-in-child-abuse-cases.md",
-      "title": "Oregon dropping AI tool used in child abuse cases",
-      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "originalUrl": "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "cdnAmpWebUrl": "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "publishedDateTime": "2022-06-02T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Haven Register",
-        "domain": "nhregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-societal-impact-and-the-future-of-education.md",
-      "title": "Artificial Intelligence, Societal Impact, and the Future of Education",
-      "excerpt": "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg",
-          "width": 471,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
-      "publishedDateTime": "2022-06-02T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-healths-facial-recognition-technology.md",
-      "title": "VHC Health Becomes First Health System in DMV to Utilize CERTIFY Health’s Facial Recognition Technology",
-      "excerpt": "CERTIFY Health is excited to announce that VHC Health (VHC), a community-based health system providing medical services to the Washington, DC metropolitan area, will be implementing its positive patient identification (PPID) using facial biometrics at all VHC locations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_07286e3f-7769-5a4a-88d6-3bdb05535744.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_07286e3f-7769-5a4a-88d6-3bdb05535744.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

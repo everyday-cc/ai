@@ -87,15 +87,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Taser-equipped drone development on hold, ethics board members resign"
-    excerpt: "Axon, formerly known as TASER International, announced and halted plans for its development of a Taser drone within only a week."
-    publishedDateTime: 2022-06-07T10:04:00Z
-    webUrl: "https://www.tweaktown.com/news/86693/taser-equipped-drone-development-on-hold-ethics-board-members-resign/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Axon abruptly halts plans to weaponize drones after ethics board resignations"
     excerpt: "Just days after CEO Rick Smith had said Scottsdale-based Axon Enterprise Inc. would ramp up a program that would weaponize drones armed with its nonlethal Taser products, the company has abruptly dropped those plans after members of Axon's artificial intelligence ethics board resigned in protest."
     publishedDateTime: 2022-06-07T20:38:00Z

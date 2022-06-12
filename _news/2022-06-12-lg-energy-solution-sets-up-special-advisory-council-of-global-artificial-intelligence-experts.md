@@ -1,29 +1,27 @@
 ---
 category: news
-title: "LG Energy Solution Sets Up Special Advisory Council Of Global Artificial Intelligence Experts'"
-excerpt: "New council established to drive company's digital innovation and promote manufacturing intelligence   Five global AI experts spe"
-publishedDateTime: 2022-06-12T00:47:00Z
-originalUrl: "https://menafn.com/1104359836/LG-Energy-Solution-Sets-Up-Special-Advisory-Council-Of-Global-Artificial-Intelligence-Experts"
-webUrl: "https://menafn.com/1104359836/LG-Energy-Solution-Sets-Up-Special-Advisory-Council-Of-Global-Artificial-Intelligence-Experts"
+title: "LG Energy Solution Sets Up Special Advisory Council of Global Artificial Intelligence Experts"
+excerpt: "New council established to drive company's digital innovation and promote manufacturing intelligenceFive global AI experts specializing in"
+publishedDateTime: 2022-06-12T00:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lg-energy-solution-sets-up-special-advisory-council-of-global-artificial-intelligence-experts-1031523406"
+webUrl: "https://markets.businessinsider.com/news/stocks/lg-energy-solution-sets-up-special-advisory-council-of-global-artificial-intelligence-experts-1031523406"
 type: article
-quality: 27
-heat: 27
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?971907"
-    width: 458
-    height: 250
-    isCached: true
-
-secured: "qXwUBi+D6KFs+WWe0vAj41bX27I9PuYX36okVW5nYaoowEvvCOkLiIPgkVxPUpfnhszzMfBnIW5itYhLMsZQb2owsT3zKCDE69Wwt+irz8mZ3imJSTKrWGbZ5PI/rUxSo+WkzCmFt0Q+g/1fWyveqFqaMBR0hhKnlCi4agsGmn9VXaVwdgrXOEVqM6hFXMzJuXDHyJTS04Ii9640v/jKEeYunaKHWewk4qTAH/VbW2Hhiakpmg7xuEcj9JKTuP+a3oV7ANHu/vwXymR9LjL5n926cqut0j6qoMM0yzSyG533T4oJTLuvRgyaoBd4j0TGnpvKW4XspiNmGUgtmZxmmhQc0aMzCuMgLE5YSyXW31U=;dE9GgLzG2nHqpmChkNC55g=="
+secured: "vPyibWNGbqbox7qdRUeTkLecF+G7jBodBx295DgQ1bHljRn/1WQGsmP7B4Svz7HfBnBExJ6DfxGN/Z8HIoSrlgtI/1CT3seStVX1Oc708ZZ9NaMgBprhVcQ+aQ6U+NaVxdIRoaElqv68STySvw/bJg/7CV/J8I67yP1do90F6dPpdVXAFGSROz+8sdaaRMKyhbn78eZgT/fz9QFV0UOHwosL7PSgGgEcg5tgxMET4SkILujDMk445tIlCFfYVuI3J9KkhtXs679Sd8gotEdXvnWFT+8y4MIQfZZ4bB68jdRxpucrLjphkVXtv38wCK9UpGtL52Lvv2yzYWs3AhMTPOCrIS5Xicxpfu0WM//Oa4w=;7udacNzjOrqLvNbMFLERZQ=="
 ---
 

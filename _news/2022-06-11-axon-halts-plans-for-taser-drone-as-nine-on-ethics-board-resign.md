@@ -79,15 +79,6 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 39
-  - title: "Taser-equipped drone development on hold, ethics board members resign"
-    excerpt: "Axon, formerly known as TASER International, announced and halted plans for its development of a Taser drone within only a week."
-    publishedDateTime: 2022-06-07T10:04:00Z
-    webUrl: "https://www.tweaktown.com/news/86693/taser-equipped-drone-development-on-hold-ethics-board-members-resign/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
     publishedDateTime: 2022-06-10T12:25:00Z

@@ -39,20 +39,6 @@ related:
         width: 1540
         height: 800
         isCached: true
-  - title: "AI-Business Automation Leader CogniCor Expands Advisory Board and Attracts New Investors"
-    excerpt: "Fintech Entrepreneur Toan Huynh joins Kestra's Stephen Langlois, Former Northwestern Mutual CIO Karl Gouverneur and SixThirty Ventures' Atul Kamra on Advisory Board to Focus on Business Operations and"
-    publishedDateTime: 2022-06-07T10:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-business-automation-leader-cognicor-expands-advisory-board-and-attracts-new-investors/article_fba25b18-650e-5c58-b4a4-61d309d38280.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "Hzkpar7oJ0+dhMkoZ5am16syBMLy/zH8Y8iPVSR4Ovug+K6s5hPAE3oRUdoyhPfYHLcsxjs0s97rHlkKqeQ9QRXqNqdzbIUVAmLKjtQbtxBYtmkNHVLYSRF0GE/wKrV5y629FJI9HtCugrmIA0n9hmP788j7QPBTkb38a4BC1BaCmoEhdOkMuCqUCMFAPJxxfsxanQZuIADbt1bPpFhFo4Ny0lt2PM27PQpTjhb65CYwNT7xoxLvRol2hxKpCK4VOB3o6uXpvi204oSqwZ+QYRFscACGLLYvtyi2s/5qL3vGxbruAQX52Z45+PsCbJrkz4IBvOW2Ec2UQ24nJmujIv3Nbl/wGL1UlJyb4POrmi0=;AgbcYIT4rjhgMxTqWj/7Pw=="
 ---

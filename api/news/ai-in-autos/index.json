@@ -400,7 +400,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -626,8 +626,8 @@
       "title": "New NHTSA Data on Self-Driving Car Crashes Coming This Month",
       "excerpt": "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4",
-      "originalUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4",
+      "webUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -938,6 +938,49 @@
       "provider": {
         "name": "Seattle Times",
         "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
+      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
+      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
+          "width": 619,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1356,40 +1399,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-deere-co-taps-into-technology-to-drive-revenue-growth-julian-sanchez-and-joshua-jepsen-discuss.md",
-      "title": "Deere & Co Taps Into Technology to Drive Revenue Growth; Julian Sanchez and Joshua Jepsen Discuss",
-      "excerpt": "BONDURANT, IA - As technological advancements continue to drive agricultural development, Deere & Co is tapping into the sector to meet demand and up its revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.andnowuknow.com/behind-greens/deere-tapping-technology-drive-revenue-growth-julian-sanchez-and-joshua-jepsen/melissa-de-leon-chavez/78665",
-      "originalUrl": "https://www.andnowuknow.com/behind-greens/deere-tapping-technology-drive-revenue-growth-julian-sanchez-and-joshua-jepsen/melissa-de-leon-chavez/78665",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "And Now U Know",
-        "domain": "andnowuknow.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

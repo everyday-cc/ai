@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-pu
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Platform
@@ -36,15 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
-  - title: "Flex Logix launches EasyVision with ready-to-use models and AI acceleration hardware"
-    excerpt: "Flex Logix Technologies, a supplier of edge AI inference accelerators, has announced the availability of EasyVision Platforms designed to help customers get to market quickly with edge computer vision products addressing a wide range of different markets."
-    publishedDateTime: 2022-06-07T09:25:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/flex-logix-launches-easyvision-with-ready-to-use-models-and-ai-acceleration-hardware"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 10
 
 secured: "0gMXAkEBOKwX3duR+t7BU6+Osnq+hOf1b2Zw4dZt8a1ayGZfYivGVsIVzdTZxOL6TaG73S2khaYXKEguuBrBAqNtr+ht/k4P7AHA+VzNOy+yH/LccXKqyVoYCIXlGbPPnm3v1Q95GYs6ZeXGswFyhwyB2jNNu+/LpeZWovWBwFvRcT0ors9pOqqyr4EAzGmz2FYGLcomx+0qEM+2RpGdYpFyQi4UfFoEp2/WtI20rvqJrC951N2Cnfk5VWOBeVJHKYBbmWyScuc3uQIZVj6jd1BFaG8bEl4RFWOemGlSNQNbqzZDnxO2B2+T/eVzB2u538VhTGZF/KI3tC3fe5oBY2g4Pts5IEAvnkUx/wB2G/m3xESbudIWRxzSmYNrShVahVCVfILd/fC2h8CVuhTocjNEEe1L4rsQpYYJodZ+jDnL6D641Dy9K6r9g9+1VKeeZKBgBNKrt1AxqbEkZThPF5P2W5dcDiKNCO4xdrv1pqMiP+UuEly9yXdxcgJeIvY3neJHyrmzThOSrg2m3kk3Ng==;8L1RoGX2reewWwOO24f/Dg=="
 ---
