@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/koch-industries-c3ai-no-code-2657483546
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/koch-industries-c3ai-no-code-2657483546"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "C3 AI and Koch Industries Expand Contract"
-    excerpt: "C3 AI (NYSE: AI), the Enterprise AI software company, today announced the renewal and expansion of its contract with Koch Industries, one of the largest private companies in America. The new agreement extends across Koch’s diverse group of companies,"
-    publishedDateTime: 2022-06-07T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-07d1d5e605984c01b8678122877d0eb0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "37i9NPB9agEq/pWwltNnBZUAbVnYMJmlJ4N94k0k0atykI6yRzl/rjkMzRr3MMBFiASV/9sGZqwX+0FAKlpqNS0g3DWg1Ux/X7ejGKdf5tfm7QOpfPS371rxZdgNydd3/QkYHRUMBquuO4vQkq7vh3Sxgm0IpFJnEBQzHc41NaBmCUMemLo+ZxsfFrkNKXjEvl4zD99m3G9XdKoMNmTGAfoS7ta1sS00tOUcqjCKfZOy3bvP+LH45h86cxx0cDInZ3+/qqUGAWO58Aw/F9gU414bNuVLqVVCSivX/PKvoJYHSKEfgc22HEkalpX0r0U1Q2/oxWQoXY33UBqJFCFBCbbQRG2Ye69NDwOFWMMHR5l6PKuZWPfcYeatyDAIPlmjlkYIcXlmyYKCB5aOaXL3l/GRPCMELlX0cXX0sic5NlGoZ9fyA1euwIG7WHIkQXtxJ2F7U4LJyaYwaamIMhOC7quB7EH4nmjkFVhwEWyivkqhL+pUrwP0sjKU1HgnhVMscU7+o3knqJlmRgGLKSVHCA==;aP7SC7FPK6F+ksqY4Q023Q=="
 ---

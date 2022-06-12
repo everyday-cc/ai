@@ -151,6 +151,51 @@
       ]
     },
     {
+      "path": "_news/2022-06-09-why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.md",
+      "title": "Why healthcare organizations select Amazon Web Services over Google, Microsoft",
+      "excerpt": "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
+      "originalUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png",
+          "width": 460,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong.md",
       "title": "People are entering relationships with AI…but pop culture’s view is all wrong",
       "excerpt": "AI is new, and its ability to help humans is promising. But if all you know about AI is from Hollywood, you should think again.",
@@ -1292,58 +1337,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-lessons-learned-about-ai-from-a-healthcare-technology-startup-leader.md",
-      "title": "Lessons Learned About AI From A Healthcare Technology Startup Leader",
-      "excerpt": "So far, my personal crash course has made healthcare’s massive size and complexity even more apparent, and it occurred to me that others can benefit if I write about my learnings and observations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628ce443a25ac26736ea9402/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "publishedDateTime": "2022-05-27T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

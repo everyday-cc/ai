@@ -41,22 +41,6 @@ related:
         width: 400
         height: 226
         isCached: true
-  - title: "Game-based Learning Market worth $29.7 billion by 2026 - Report by MarketsandMarkets™"
-    excerpt: "According to a research report \"Game-based Learning Market by Component (Solution and Services), Game Type, Deployment Mode (On-premises and Cloud), End User (Education,"
-    publishedDateTime: 2022-06-07T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27590592/game-based-learning-market-worth-29-7-billion-by-2026-report-by-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27590592"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27590592"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g"
-        width: 480
-        height: 240
-        isCached: true
   - title: "Computer Vision Technologies Market Research Report | Economic Growth Outlook, Challenges, Regional Status and Segments Forecast by 2029"
     excerpt: "Data Bridge Market Research in its report titled of Computer Vision Technologies Market offers comprehensive insights"
     publishedDateTime: 2022-06-08T06:25:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Disruptors in the Artificial Intelligence Market 2022 and Key Adoption Challenges - ResearchAndMarkets.com"
-    excerpt: "The “Global Disruptors - Artificial Intelligence 2022” report has been added to ResearchAndMarkets.com’s offering. With technological breakthroughs in big data, supercomputing, and machine learning, AI has become increasingly capable of problem-solving,"
-    publishedDateTime: 2022-06-07T13:29:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-e2007c53f3ca48798a47b6f488f44863"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Clinical Trials Sector Scorecard 2022: Artificial Intelligence, Virtual Care and Blockchain Saw Activity in Q1 2022 - ResearchAndMarkets.com"
     excerpt: "The “Clinical Trials Sector Scorecard - Q1 2022 Update - Thematic Research” report has been added to ResearchAndMarkets.com’s offering. Many companies included in the Clinical Trials scorecard have announced partnerships in the artificial intelligence (AI) space since December 2021."

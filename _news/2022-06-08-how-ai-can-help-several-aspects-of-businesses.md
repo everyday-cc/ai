@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Protecting small businesses against fraud with data and AI"
-    excerpt: "The company has spent north of $500 million in AI and data infrastructure, giving them more than 60 different AI capabilities that make fraud detection far more efficient than by manual processes. According to Fabara, Visa Advanced Authorization ..."
-    publishedDateTime: 2022-06-07T14:11:00Z
-    webUrl: "https://www.fastcompany.com/90757312/protecting-small-businesses-against-fraud-with-data-and-ai"
+  - title: "Thinking for business: how AI has a role to play in everyday commerce"
+    excerpt: "Artificial intelligence technology is behind seismic breakthroughs in science and medicine, but it is also available to all kinds of businesses"
+    publishedDateTime: 2022-06-11T22:00:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/thinking-for-business-how-ai-has-a-role-to-play-in-everyday-commerce/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: The Sunday Business Post
+      domain: businesspost.ie
     quality: 37
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/06/Visa-PS-Photo.jpg"
-        width: 1280
-        height: 570
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=7220937c-3e5b-59bb-ad35-b9ab35198bfa&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.5625&width=1200&height=675&x=1.0E-5&y=0.06375"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "1bUBaaL/D9F9xchoCQwfHfyb8DB9Wl9367WOK+AJEBj6uHPDZXyGVyS6SehKPWCjoGC4miyDED9zZSAbBT0JweVp4uCWHlo13BXuJDj0hNc9jeVQAXt2+qCpZz5NYamPOD70CUio2KPP5GWIjFuBjSs8rZXEGbDHKBXDNow7JN4iPZcKulCLO0dTMEFB0Js4Anbqc8+lvUFjFfeSqcM0SGas4t8HBBZkb5u34R4aDd8qefcLCJf7Kf/Mt899XSjDy0qEq3but0MC4OYlhQHQIr4Kz8B2Sf/3DGiJz6nPf3xHnhUzFHsVEMAaaVIw0GRKV111YL4ZwbVaA2cEePPVQU+dYB26TxWKktWgE2YSOHGAVfJNsVpU/mdBjU9MY3hnTCmXMQQ9aTKRTKcOofg3qJwl1svWyLow86yjvvcSwb9FruK8HD+t8BHizH4B+tcilcoTl6sU69Whg9bTigDNi4Zlrn/5YDRei3VouFeUBIHnQjkJubWoRnNEuEXDYzlTsQKO+iuzX7kEUlRohpoAGw==;g+4ASPCwytJF/xfJ0CycnQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: Gizmodo
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo and Uber Partner to Deploy Self-Driving Trucks at Scale"
-    excerpt: "Waymo and Uber are partnering to make it easier for shippers and carriers to use autonomous trucks. This is another step towards making self-driving semi trucks mainstream and widely available. It's easy to think of self-driving cars as the main battleground for autonomy."
-    publishedDateTime: 2022-06-07T15:01:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/a9ec5b2725e71857fb4bc61733b794bcdc7ca812/2022/06/07/3f662fc3-12e2-4d72-9fe9-ace4456b9bc8/waymo-via-uber-freight-ogi.jpg?auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enemies Waymo, Uber now friends making self-driving-ish trucks for US highways"
     excerpt: "Waymo and Uber announced on Tuesday a \"long-term strategic partnership\" promising to work together to deploy autonomous freight trucks on US roads, years after both companies fought bitterly over self-driving technology."
     publishedDateTime: 2022-06-07T23:56:00Z
@@ -101,6 +85,20 @@ related:
       - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Waymo is latest with plans to deploy self-driving trucks on Uber Freight network"
+    excerpt: "Self-driving tech company Waymo, a Google subsidiary, said Tuesday it has entered into a partnership with Uber Freight that will someday result in autonomous trucks adding \"billions of miles\" of goods-carrying capacity to the network."
+    publishedDateTime: 2022-06-07T20:58:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-deploy-self-driving-trucks-uber-freight-network"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Waymo-Uber-Freight-1.jpg1_.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
     excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."

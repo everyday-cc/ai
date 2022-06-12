@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-03-translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend.md",
+      "title": "Translate, redact and analyze streaming data using SQL functions with Amazon Kinesis Data Analytics, Amazon Translate, and Amazon Comprehend",
+      "excerpt": "You may have applications that generate streaming data that is full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about, determine if they’re expressing positive or negative sentiment,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/translate-redact.jpg",
+          "width": 1000,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T09:37:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-facial-recognition-vs-super-recognizers-humans-have-the-edge-over-tech.md",
       "title": "Facial Recognition vs ‘Super-Recognizers': Humans have the edge over tech?",
       "excerpt": "An elite police team in London with the ability to recognize thousands of different people is outperforming the technology — for now.",
@@ -50,8 +103,8 @@
       "title": "Artificial intelligence scans for weapons, but faces criticism from some",
       "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "originalUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "webUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "originalUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -68,13 +121,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "ampWebUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
       "publishedDateTime": "2022-06-03T08:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KSTU",
-        "domain": "fox13now.com",
+        "name": "ABC Action News",
+        "domain": "abcactionnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1083,49 +1136,6 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-midlife-insomnia-tied-to-later-cognitive-problems.md",
-      "title": "Midlife Insomnia Tied to Later Cognitive Problems",
-      "excerpt": "THURSDAY, June 2, 2022 (HealthDay News) -- Severe insomnia symptoms in midlife are associated with worse cognitive function in retired individuals, according to a study published online April 28 ...",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/midlife-insomnia-tied-to-later-cognitive-problems/article_44e4bc1d-b6ff-5f2f-8215-aa9764537acf.html",
-      "originalUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/midlife-insomnia-tied-to-later-cognitive-problems/article_44e4bc1d-b6ff-5f2f-8215-aa9764537acf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/c5/2c5952d1-d27a-5df3-bfeb-9e3d6971678c/629901ee7d3de.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
         "images": null,
         "publishers": null,
         "authors": null

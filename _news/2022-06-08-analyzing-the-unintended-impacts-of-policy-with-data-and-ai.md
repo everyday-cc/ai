@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/civic/analyzing-the-unintended-impacts-of-po
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/civic/analyzing-the-unintended-impacts-of-policy-with-data-and-ai?_amp=true"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,33 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Teal Is Revolutionizing The Career Journey With Tech, AI And Machine Learning"
-    excerpt: "However, there is a startup that can help level the playing field. David Fano, founder and CEO of Teal, created a machine learning and AI- based careertech platform to help job seekers and people who want to advance their careers. Fano said, “In the ..."
-    publishedDateTime: 2022-06-07T13:28:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2022/06/07/teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-  - title: "Building a better society with better AI"
-    excerpt: "Creating a more equitable and inclusive AI through decentralized data and reduced algorithmic bias can help improve equity."
-    publishedDateTime: 2022-06-07T14:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/06/07/1053031/building-a-better-society-with-better-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2022/06/07/1053031/building-a-better-society-with-better-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/07/1053031/building-a-better-society-with-better-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/06/41365210_1200.png"
-        width: 1200
-        height: 985
-        isCached: true
 
 secured: "RUz4MoI2O9bJ6+CwnCjsIvI/GSEfdTvPXo6azQ6JDAJMKpj9grrWgfOZVg6LIXvg+pok3j0wYHezT5Tlo/xn0u8AeT+SajvXahmjiYd5AC1eTvbNLQqpmni0Ofii80ldz3IlMmhQh1l2JplxEsH4WWf51GY2Nd5u65nhI9rw+DMstJpJTy9cnJRjHMMrLGPhRbqL/Jk7ODQdDQ6AKDHaRSmiuiNrihrkqEF+RhOEbAgK5e4Iw/qniTLFVWpw2e+8Y8FzE50cYDideBqSlDISjVk380XSk6Dzturk18or4blJcSmfKOST2jxucp1kphRTl/9Q12KTqeFaZMEZ9WANt7Ur5qy6zY9QNw8ea66BB7W+mkAStXc702X8dOuopw7adt0DJq38hCU9JUbdInWmVxSwrTM9t5y+PqKRu/OQ9KWEVHNaJSkvQM/4ij8az2GEwxuQcisErLra8x+WE9Wo1PWImi4vuW4aFI4j/RP99fx5yxsoAyc6X+Zb3jQV1Xu1Sj+YifQOlKS5eKyZIJ9ZFg==;bjlG/OSUCwRrJLhmbfOOnw=="
 ---

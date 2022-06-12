@@ -33,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Primer Acquires Yonder, Adds Disinformation Analysis to AI Portfolio for Information Operations"
+    excerpt: "With Yonder, Primer gives commercial and government organizations early intelligence about emerging narratives that may impact their brands or strategic advantage – and helps to create a window of opportunity to take countermeasures."
+    publishedDateTime: 2022-06-07T15:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/07/9616850.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "bfU/ms2d+FNN4Uxck2mmIFmnG3/tiaWc00Ll8acnrIjOT1mS6ABJYzJo0Q5AhMHDHiAd/FyDC8BWQfgcAdm0LnMH13JdFXH1PcedTWnVQgJXXNWIXCmOCXeQeaPVHFrcLfDrBbD5v2rz25a99CxLJtcysJZHScfNy2s8qlTHahOfT1HKsAYSl0/X3SP58H+5sRVPv/TmkxGxSQdhQupnznGYuORS2eO/M3YQ3AHMsfvF6CZJl0wdXM5Neh7JcmEbnpDJEyATnq5DWr+kX4LF9C7AY05elfLErfCt1vgcoLw3uoiO3JPnCxsieEpiNbzKiGGcmiQdNtFJhRJupraocjlyEQxAAWFrH8KxYje29Uo=;Vq3V3pUqp1CTSuzd51r9WQ=="
 ---

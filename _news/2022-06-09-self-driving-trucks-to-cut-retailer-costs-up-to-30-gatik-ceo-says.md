@@ -35,6 +35,17 @@ related:
         width: 2617
         height: 1704
         isCached: true
+  - title: "A self-driving truck will soon delivering in Dallas. The cargo? TP"
+    excerpt: "Texas is a key state for self-driving truck experimentation. In April, California-based self-driving trucking company Kodiak Robotics partnered with carrier fleet U.S. Xpress to launch an autonomously operated cargo service between Dallas-Fort Worth and ..."
+    publishedDateTime: 2022-06-08T08:15:00Z
+    webUrl: "https://www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/"
+    ampWebUrl: "https://www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Self-Driving Truck Startup Gatik Will Deliver Goods Autonomously to 34 DFW Sam’s Clubs"
     excerpt: "Until now, most autonomous delivery pilots have involved 18-wheelers driving on highways between cities. Gatik says its new partnership announced today is \"the first time that class 6 autonomous box trucks have been deployed\" to disrupt short-haul logistics networks."
     publishedDateTime: 2022-06-07T19:36:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/china-cloned-pigs-robots/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/china-cloned-pigs-robots/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Futurism
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "In a world-first, Chinese scientists clone pigs by only using AI"
-    excerpt: "Seven pig clones have been created using an AI-based pig cloning method in China. The researchers claim if the same approach is implemented on a large scale, it can make china self-sufficient in pork production."
-    publishedDateTime: 2022-06-07T13:59:00Z
-    webUrl: "https://interestingengineering.com/cloning-pigs-only-using-ai"
-    ampWebUrl: "https://amp.interestingengineering.com/cloning-pigs-only-using-ai"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/cloning-pigs-only-using-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 57
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QjOdlorAOd/sizes/ai-cloned-pigs-china_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Artificial Intelligence is now automatically cloning pigs"
     excerpt: "Researchers have created a fully automated cloning process that uses artificial intelligence to clone pigs better than humans can."
     publishedDateTime: 2022-06-09T07:35:00Z

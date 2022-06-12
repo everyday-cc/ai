@@ -35,22 +35,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "In a world-first, Chinese scientists clone pigs by only using AI"
-    excerpt: "Seven pig clones have been created using an AI-based pig cloning method in China. The researchers claim if the same approach is implemented on a large scale, it can make china self-sufficient in pork production."
-    publishedDateTime: 2022-06-07T13:59:00Z
-    webUrl: "https://interestingengineering.com/cloning-pigs-only-using-ai"
-    ampWebUrl: "https://amp.interestingengineering.com/cloning-pigs-only-using-ai"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/cloning-pigs-only-using-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 57
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QjOdlorAOd/sizes/ai-cloned-pigs-china_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
 
 secured: "AWYm3HUCKFnN89KryWyjPzZvo1iIXMss0C9TWfUkwvymAp9pRYzy7sidMRBSZZmNGokov3xPmKjyW773FC7ewPoof+rfA0G5zFUP178Rm/DaELuRmzmrB6CMhs3s2rO6GsNhcIKK+ds8JdH9ph0juvqWQDr0QUQPPAa6jMQe9bJUNvPqZzJ5FlSihBPzH/TjkL7ddB9P+uHnMTdmndep8ykkHfyjuP1dNuSRyCJMTqTk3++ULzLFo+O5GRXjIedWFHmpnGHLPNefWopgGdKQ2pooprZigWbCxymD+pNm0Hmflpgy3GksC3TPP+YMq/ZU1Gzgqe7emNgttzkERylkN8HG2jBWZqyZ2Ccwnpdhapc=;SarHB3teXrn1XzTKtL862w=="
 ---

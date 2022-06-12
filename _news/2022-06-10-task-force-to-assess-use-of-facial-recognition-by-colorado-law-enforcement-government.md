@@ -33,15 +33,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Google to pay $100 million for Photo facial recognition lawsuit"
-    excerpt: "Snapchat is also dealing with a lawsuit of its illegal collection of face and voice data for its AR effects."
-    publishedDateTime: 2022-06-07T13:07:00Z
-    webUrl: "https://tribune.com.pk/story/2360460/google-to-pay-100-million-for-photo-facial-recognition-lawsuit"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 21
 
 secured: "nB3yf0ddNSbvhPWSMMBYite8kGpet6FV1WE2oV9TvKdSyxfPGnxlnZEKi9F71GAhuTC2jOdueOuK5iUNL1CXWey8Ron6ah8sUquHNy4prWEWwbF3vP3lc7RXMXxzmL3gGCKZeaL93R5D9qlMn5Lus6/RDjNEi3Mks5aGeztoBl44mpL206fAyMkHVDigcCvm2qiU3dxq8DRPssdmm2ylRtz6u85oYEIxxCBRpk4mW5MH527qaQFhl7t4Xhx9/u3Gh7d0ja2Z4z1OrSRy/fj63Zwc8TqPVrPCqGovvFxirz7N6LcBStg2UsB562djVpCIz0lYpB7IUiSdxxyBIqpYb/UASU/jYLBeo3dGb0VYNRAwOc/6AYdbgfdbLVWm8bY2Igt04/Kh1grgDrrvcrpr0eQWz+WobZC+60OdntqoWiN60M2PdaK2xhbCdpMfSeBfcSDhEXHN8r/H8F+rEQIpUuijbbiHeSBqVeF2/ZEPBPKa7wcFmc388mCspMs9ssf7IrAE7Gskq4ZiGHI9qqUfyA==;mvnhOoMsaXTJaNvobJynUA=="
 ---

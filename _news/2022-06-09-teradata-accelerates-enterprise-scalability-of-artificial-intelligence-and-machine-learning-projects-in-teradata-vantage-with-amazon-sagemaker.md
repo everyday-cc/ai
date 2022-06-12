@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
-publishedDateTime: 2022-06-09T14:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
-webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
+publishedDateTime: 2022-06-09T13:03:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Incremental training with Amazon SageMaker JumpStart"
@@ -86,6 +92,6 @@ related:
         height: 541
         isCached: true
 
-secured: "yG2mMpRRn8n5rK5QTSjAcMb355ZS13rcULf/hnV7ivhg7gVg7cdsBcc4vcu30jtdB9ux4yDewwQGDtJ1BMQFhOZjKLVS+hDycnv6DAbjBDc5KqDTRTEX1hzo1CfUOG7gIBX+qyfONrsFJ/h+OEE8s7dPJYmBOt/7hDyVk7gBcOiRvr9cHjLhU+sM0+WWSJthOsl82ooQDnYiKgIGnr4YWo52bWmQgAQQlLsuOU2HChFZHUfJpEMCKlYu5ockKvda9q6cf72NSP+lHOuQcwncJ3q8bCPAj7u2VjzWxk4IFt2HA2W0WlDPa0lZ3vjNqiPPi7okTz98Pb3ZMPJjss1jKzkixHiF+netsnQNwITrMEU=;Mh8fOCnpHx/lJeaoJne4nQ=="
+secured: "lgDHVrwnsyMB5qKZzHvXn1qD0CJI85hP7JZ0Eumk0xUIhD9uY6nQAXlskoZqQKr3OWjNcQfJFB3+kC1zYPiLez1XTpYtOpZQn2MTWcYmc86v7dz4xOKwLVttUjnvAT2s2NkyYzzP1rGY51XiupcK/Nu8L2vOxWoBBAtkYMckAu0ZpuJARhISft8//kTMWXgKt/Xk9n8LkSw0017U8SkWwEKBXDp0Iqn6TCfL5AGOFEFLN7M+0o6CEoYbtk2b935c09iU7yK869ajvfxRPlsWK04zmo4pExw/hbHRr4+uA0Qk/NKhVlYLeiLeF/LGkVQ9lzMl8e0rZIaX5vnzdvmNHZK4po7ozARfpAvlFS+rw1w=;GxGFKJy7QDRixOA8Z7V8fg=="
 ---
 

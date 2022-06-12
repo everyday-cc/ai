@@ -23,6 +23,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "How AI can help several aspects of businesses"
+    excerpt: "While the use of artificial intelligence has grown throughout several industries in recent years, there is still a great deal of mystery surrounding AI. This was the focus of the breakout session “AI and Machine Learning: Where Are We Now?"
+    publishedDateTime: 2022-06-07T18:48:00Z
+    webUrl: "https://www.vendingtimes.com/articles/how-ai-can-help-several-aspects-of-businesses/"
+    type: article
+    provider:
+      name: Vending Times
+      domain: vendingtimes.com
+    quality: 17
+
 secured: "6tyipvKDbBuuyYCtifrKj/M4vTOER3JeCD8L+e5d+YpBTDP7a49+8xaY/L2k9aalyBh/ui0UERpAF4nwSaDSGVs/zJPKJl/tvyim+dONpgc8ZOVpYSTfIY279ju3seEKLOzeiaJ1xWzXu7HETdrtL4fV4e99dxievK7OroWlv5n7GrlQBWzXgFs1JYwYTZlr3q7Om5mP44alifNldZfOs/CFr7XcV0Yylb/dvvlQxOJVFRkZjMtBJ9Qu3R38haDB+vslG8hPB0YcUanUfYvIqABXWC837R9f+yLY7Pg3UWvzujj+gr6pKFswbwk/cJk37Zf2tKSmMI0HhWjb2hfNGm3niMawUKEU0ihHPO7+Rqs=;5M71NsSLHwG417Bxotd/Og=="
 ---
 

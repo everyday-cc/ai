@@ -138,15 +138,6 @@ related:
       name: PR Newswire
       domain: prnewswire.co.uk
     quality: 13
-  - title: "3 FinTech deals that took place in May in the Americas"
-    excerpt: "FinTech describes new tech that seeks to improve and automate the delivery and use of financial services. The COVID-19 pandemic has"
-    publishedDateTime: 2022-06-07T13:06:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-fintech-deals-that-took-place-in-may-in-the-americas/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 4
   - title: "The Potential of Integrating Intelligence and Intuition"
     excerpt: "Cipher Brief Expert and former Deputy Director for Analysis Carmen Medina shares her thoughts on incorporating intuition into analysis."
     publishedDateTime: 2022-06-10T13:46:00Z

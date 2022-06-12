@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google to pay $100 million for Photo facial recognition lawsuit"
-    excerpt: "Snapchat is also dealing with a lawsuit of its illegal collection of face and voice data for its AR effects."
-    publishedDateTime: 2022-06-07T13:07:00Z
-    webUrl: "https://tribune.com.pk/story/2360460/google-to-pay-100-million-for-photo-facial-recognition-lawsuit"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 21
   - title: "Task force to assess use of facial recognition by Colorado law enforcement, government"
     excerpt: "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado."
     publishedDateTime: 2022-06-09T21:51:00Z

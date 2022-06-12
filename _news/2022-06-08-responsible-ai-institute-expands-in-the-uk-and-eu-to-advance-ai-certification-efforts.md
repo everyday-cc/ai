@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-
 webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-8-responsible-ai-institute-expands-in-the-uk-and-eu-to-advance-ai-certification-efforts"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "Petuum and Inception Institute for AI Make Strategic Business Alliance for Advanced AI"
-    excerpt: "Petuum and the Inception Institute for Artificial Intelligence (IIAI), have agreed to partner on the development of revolutionary AI"
-    publishedDateTime: 2022-06-07T13:16:00Z
-    webUrl: "https://enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/"
-    ampWebUrl: "https://enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 51
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Petuum-and-Inception-Institute-for-AI-Make-Strategic-Business-Alliance-for-Advanced-AI-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "y0fNm2Xxe1p7J5IT5McrZoqTQTZ+6kuHFLqJvgI5k02QVWwYbXxdDv2ENVyHMlLhIjJoV2aKPGKNJ1wj/nf/0zUacI9bwGn1EKS4eTYwmirFI8CK+ij0o6UrElAPjp+qKLBoPl978Y5ylX97gdiD2nGoceDvW8VKRH0lZB7DlAD+RPUptjQnrzdHb9lsB6eFgepWUw9NiBnDrAiqnTnfkiGUSgikKIxEfdK5+STLEdS4wA/LLR+U/zPd+uOM7nd17Nyc3olU8tuLC1bdM7eVDXD6eOBSoFHu1M8Xf+Dyltx2bVp8fe/UrkpwaGax1KyaBp/jXg7C9FbMS2ruALDnOJ/RQ9n+ZJqP+T0NiwyhQKw=;E9QAIwbXC4E1/FR1jnn7Pw=="
 ---

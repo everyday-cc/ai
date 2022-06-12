@@ -144,15 +144,6 @@ related:
       name: PR Newswire
       domain: prnewswire.co.uk
     quality: 13
-  - title: "3 FinTech deals that took place in May in the Americas"
-    excerpt: "FinTech describes new tech that seeks to improve and automate the delivery and use of financial services. The COVID-19 pandemic has"
-    publishedDateTime: 2022-06-07T13:06:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-fintech-deals-that-took-place-in-may-in-the-americas/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 4
 
 secured: "LaavtTsRvx9rkpFXfB8bmLkUiD5Vrg/IOZRAYYF2Z+7uzddoU+irK+ygmMCI2cDAa7Tp58EfIle9p+lPuR3+lTB8JkXwGr/KsCKcbY5XsB5vtFiaD2uhIfFG0+SF7z5bztgJh7WUzq46a3NatqTglayGwpN+CBaG5pja53QACrCbhbwq8gSZ0Zhp8+JjQRcSTgdUcFpArkdOhMuhK340bkTA/bO1iSGJ5QW50UINLXWg5ZKMq/idc9JNwHvV5Y+DwtvaG5AaE1TKQUMChLNyH/43fEYMTR/tHk1gWnaSFJMF47gbw6at6Fa3MdLdCwkx5tD61L5Msa/3GLq/D8jBA83RHWltMIwujv/8Dn+TwhBjd3zb2QZp4+jXm7eWL8yiiUmH/b8/OnbqgR7dngcQQRIzxyRbWLjU7PDW9EN1g5g+v81ptqLGRHUwXIQxWyrXhMNOZw6uaBO/Yqi7lHPV4D71viRkJjN7qr5huPfnJEU6+l8THn/9bpdUvY9U/xZtF13UY/IyCRpmhsxBWazyww==;JrVhlLtXsrs6+6QszyI4MA=="
 ---

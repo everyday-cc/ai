@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thebetterindia.com/287944/amazon-machine-learning-summer
 cdnAmpWebUrl: "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/287944/amazon-machine-learning-summer-school-free-online-course-for-students-india/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,49 +25,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Amazon India announces Machine Learning summer school"
-    excerpt: "Hyderabad: Amazon India on Tuesday launched the second edition of Machine Learning (ML) Summer School, an immersive programme that aims to provide"
-    publishedDateTime: 2022-06-07T14:42:00Z
-    webUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school"
-    ampWebUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 59
-    images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/06/amazon-67.jpg"
-        width: 680
-        height: 370
-        isCached: true
-  - title: "Devnagri - India’s First AI-powered Translation Engine As Language Partner At Assochom Fintech Festival India"
-    excerpt: "Assochom Fintech Festival India 2022, One of the finest and biggest salutations of limitless networking, involving new technology ideas took place from 8th to 10th June, 2022 at Le Meridian Hotel , New Delhi,"
-    publishedDateTime: 2022-06-11T08:38:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 42
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1cyvor38wbt7dcmh_1654936705.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Amazon India launches second edition of Machine Learning training programme for students"
-    excerpt: "Amazon India has launched the second edition of Machine Learning (ML) Summer School, that aims to provide students the opportunity to learn key ML technologies from scientists at Amazon making them ready for careers in science. The course, conducted over ..."
-    publishedDateTime: 2022-06-07T13:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/education/amazon-india-launches-second-edition-of-machine-learning-training-programme-for-students/article65503857.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 25
 
 secured: "fmxkqDFUKSRK6mI5bc5kmipOlZczMfe5N8dAHuYRNFQhULVJob6CxnIfAGs/pxRRkbX0wAdY7msBy5vrUbdoD4Jbx/OKP3dwken+5MB3BQr8o2OUsmg9mOLWAXFk3+Uk3kgVQAivMTlY5M5KmZFVATH6zrLdc1iRxddGAjKnXBQBCpBKOFCFUo12m/dRmzYd9WMpWMcv2DWEMJQ/Jxxz/L8BQWKWxMxOj57qtSiuF/G7kiMKICHc1dhFDJpaimN/ugbqx7JQYtViNCjiVnoi6qR8LQDLHJKeXumsYviYmcZbhoZvGIezH6ACl7rX7sEt8P2jGM/vRjPK+ZVogAzUOwOeJ+z+WWcjlA7HyBdmRNHxlKhyt6rPwNeva9ovup6duJi1Puu3kKOM67N9tqV8VUsbbyV6tK6eFL5lrMFW0uxzDXzItdoKLUTro3xIjK70UKcSa/gM20T9a3XY/YIadCupaYHjlOsfkp82cWlwLO6a/YTEwFp5CaxJcnWAUBcCiiZm0BcwQLKc/Spnw8B8qw==;vHRFTFPO9jrmEm2pWakSrw=="
 ---

@@ -150,21 +150,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-08-microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk.md",
-      "title": "Microsoft Reiterated Outperform by Oppenheimer Following Azure Talk",
-      "excerpt": "Oppenheimer analyst Timothy Horan reiterated an Outperform rating and $340 price target on Microsoft (NASDAQ: MSFT) Wednesday, following a \"fireside chat\" with M",
+      "path": "_news/2022-06-09-why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.md",
+      "title": "Why healthcare organizations select Amazon Web Services over Google, Microsoft",
+      "excerpt": "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,",
       "sourceUrl": null,
-      "webUrl": "https://in.investing.com/news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-3232728",
-      "originalUrl": "https://in.investing.com/news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-3232728",
+      "webUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
+      "originalUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://i-invdn-com.investing.com/news/LYNXMPEA6103X_L.jpg",
-          "width": 800,
-          "height": 537,
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png",
+          "width": 460,
+          "height": 460,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -174,11 +174,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T06:36:00-07:00",
+      "publishedDateTime": "2022-06-08T15:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -188,8 +188,10 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AWS AI",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
       ]
     },
     {

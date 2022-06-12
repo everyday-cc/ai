@@ -193,6 +193,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-31-researchers-build-neural-networks-with-actual-neurons.md",
+      "title": "Researchers Build Neural Networks With Actual Neurons",
+      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-new-insights-into-the-complexity-of-the-brain.md",
       "title": "New Insights Into the Complexity of the Brain",
       "excerpt": "Neurology research can include information involving brain research, neurological disorders, medicine, brain cancer, peripheral nervous systems, central nervous systems, nerve damage, brain tumors, seizures,",
@@ -1307,49 +1350,6 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
-      "title": "Fortinet Introduces Self-Learning AI Capabilities in New Network Detection and Response Offering",
-      "excerpt": "John Maddison, EVP of Products and CMO at Fortinet “With the introduction of FortiNDR, we’re adding robust network detection and response to the Fortinet Security Fabric. Powered by purpose-built machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-09f9dfe7e8006acb9b75e63bedaa2fbd",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-09f9dfe7e8006acb9b75e63bedaa2fbd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
