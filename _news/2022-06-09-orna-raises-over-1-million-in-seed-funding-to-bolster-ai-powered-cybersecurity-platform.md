@@ -84,20 +84,6 @@ related:
         width: 342
         height: 342
         isCached: true
-  - title: "How to use AI in cybersecurity?"
-    excerpt: "Let’s talk about how AI in cybersecurity protects the corporate networks of companies. Technological progress has not only pleasing but also bad consequences. Together with the accelerated pace of corporate security systems development,"
-    publishedDateTime: 2022-06-07T20:41:00Z
-    webUrl: "https://www.hackread.com/how-to-use-ai-in-cybersecurity/"
-    type: article
-    provider:
-      name: hackread
-      domain: hackread.com
-    quality: 37
-    images:
-      - url: "https://www.hackread.com/wp-content/uploads/2022/06/how-to-use-ai-cybersecurity.jpg"
-        width: 1200
-        height: 650
-        isCached: true
 
 secured: "9KW+3I+HEmtzrwdqVfd8Dup97DBTBtWkBT7h/7YWn9xKowQtC4GCHNCYrhMTxWjtosgG5SU8wePKTKpFyJz5zfvIINK5VzSrlm/XTJRkBb3vDr6ybTOawyGkHGjHk4qzN94r17HMY6sw3OLz0fPSyUoMbbwl9uLZfYu8LlZfb6tWgabw2OEHrHinc8amEaAyjrO/6tQq9w1LZ5gHv/MtpZwjcC2OOyV3cgB97Okk8rQTaK9tPAa3t/HfZHbvgJE5ia++rSz4lWLmhA5ZCK8U1njsF4tOWF/5CMBbWsHvyHYEDrTxWQLf4GSpIKTwQIomWWFgAxV8REGKQyETKSqMwUO23PgbCEzEwkSMt6NGkgE=;yiSIVo4hJk2wt7z7f/kppg=="
 ---

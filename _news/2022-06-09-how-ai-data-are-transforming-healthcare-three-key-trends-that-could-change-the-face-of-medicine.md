@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-a
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends"
 type: article
 quality: 93
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lucem Health™ Launches Innovation Collaborative to Offer AI/ML to the Front Lines of Healthcare"
+    excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative,  a partner program designed to move clinical AI/ML innovation to"
+    publishedDateTime: 2022-06-12T15:10:00Z
+    webUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/"
+    ampWebUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 79
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Lucem-Health-Announces-Innovation-Collaborative-to-Bring-AI-ML-to-the-Front-Lines-of-Healthcare.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Artificial intelligence is shaping the Future of Healthcare Industry"
     excerpt: "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges."
     publishedDateTime: 2022-06-11T17:20:00Z

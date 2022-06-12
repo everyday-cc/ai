@@ -3,21 +3,20 @@ category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
 publishedDateTime: 2022-05-30T10:45:00Z
-originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
-webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AWS AI
   - AI
 
-secured: "cth/LAgaeZS1rIXzm8AwRQolsXsROzHK7rSSKTWce6Giz1E5n94RuNFtkfGo9ZZKiWHxGiYZr7SatGucC7ckny39uggby/wCUvfoZS/1eZeRBGv2fa2PH3UMgkQrEaOoduVDdgpNXS7KVHm3zptE+sbqsv29Z3AqZH0pZyzmv406OLn3K/1YasrFkfJS0IbkHqzBGFSeyqfUzYR3R7Ufh4inbLze6vz7j79uWiaUieD5B8PWTMYAHT2+d0hXAw47iR35fFKTR1m9BLqtn53jHa6qSYwhgj0vMhsUpRj+JymY7Ii5fC8gxE0EEdKut25rapN1chGqAG3h97zdfSrbRaQ+VnYPeyM6Shvo4fpoKDKPE5NxY3pBXLk/XSN1qk6+WaNj83G8OaOj2hIsNBW7id5gLuNXqQAaZnBO1FhEh5m5hsFUVn8VuWHTDJmMSjzzWU+phxHwLHcWYUQ4oCJI+Aea4+y9NAgXqPvcPl5Btor/j6fclRmgtr9Lk9sbh6AJnjMs0gwWeJVnYW6lriNTeg==;ahWm6UddJO/FAFfODmVBEg=="
+secured: "XQozW5BpM0D6qDZ2Wl673NhXSU3f2M7XL4z2bDI6F8WQyxOI1noS0knmVLPojU8nbwjYYQISRF5n8RciIrHePLjM+XG/W33rFTeRGlO/kWXu4bS6WKBWja+1bKbx9BytSgD3MvrJYa082xtKl1BPNCFbzVbc5Ni3pcJQ+QWkfp6ssbtVQoJFbkYk4lofeu4PSK8UwjoY39jXVHy9OunTBxFStv4QtPJDoyewncQcr6tbPFEECEqVkz6QwMEGQHBbYr+vuzM2ztZ2k7SCi2i8uVNBlxGo2RdCyOLLA2+BX27qnMF2mfwhVmDMeJG86TKHlATy2ftt2VM7SaGhSNjA1wMvWUObIYU8u9fbN+BcJRk8kvEhKLOZk53fBODBJ+zbtDrOFXzWiEhmlRHssncPq/TJ5ijPxOTsu6ybVuDp0x75A0nsasnehRrx+PQ0TYCkrrK9h1GIeZQbYchD9c/2D3JU0FhNHzGUUjBWuebMYfdT6oaDEn5gemmnyBowC7+TXOtaTtrauFfK5R+qeFJj1g==;5u7bl5EMLFrZ9QruawVspw=="
 ---
 

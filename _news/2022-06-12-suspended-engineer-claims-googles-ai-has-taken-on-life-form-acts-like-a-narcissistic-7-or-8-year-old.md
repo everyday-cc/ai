@@ -1,28 +1,27 @@
 ---
 category: news
-title: "The Google engineer who thinks the company’s AI has come to life"
-excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
-publishedDateTime: 2022-06-11T14:39:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/"
-webUrl: "https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/"
+title: "Suspended engineer claims Google’s AI has taken on life form, acts like a ‘narcissistic’ 7 or 8-year-old"
+excerpt: "A Google engineer reportedly claims that the company’s artificial intelligence tool is capable of independent thoughts or feelings. The engineer, Blake Lemoine, wrote on Medium about a week ago that Google has put him on paid administrative leave in the context of AI ethics concerns that he was raising internally in relation to alleged violations of Google’s confidentiality policies."
+publishedDateTime: 2022-06-12T14:27:00Z
+originalUrl: "https://www.bizpacreview.com/2022/06/12/suspended-engineer-claims-googles-ai-has-taken-on-life-form-acts-like-a-narcissistic-7-or-8-year-old-1249214/"
+webUrl: "https://www.bizpacreview.com/2022/06/12/suspended-engineer-claims-googles-ai-has-taken-on-life-form-acts-like-a-narcissistic-7-or-8-year-old-1249214/"
 type: article
-quality: 41
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: BizPac Review
+  domain: bizpacreview.com
 
 topics:
-  - Machine Learning
   - AI
   - AI Ethics
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7T4I4JHIOEI6ZJBCCG53SHNTBM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.bizpacreview.com/wp-content/uploads/2022/06/GettyImages-1144000033b.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -42,6 +41,20 @@ related:
         width: 1778
         height: 1000
         isCached: true
+  - title: "The Google engineer who thinks the company’s AI has come to life"
+    excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
+    publishedDateTime: 2022-06-11T14:39:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 41
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7T4I4JHIOEI6ZJBCCG53SHNTBM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Google engineer claiming AI has consciousness placed on administrative leave - Reports"
     excerpt: "\"Our team – including ethicists and technologists – has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims. He was told that there was no evidence that LaMDA was sentient (and lots of ..."
     publishedDateTime: 2022-06-12T03:47:00Z
@@ -56,20 +69,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "Suspended engineer claims Google’s AI has taken on life form, acts like a ‘narcissistic’ 7 or 8-year-old"
-    excerpt: "A Google engineer reportedly claims that the company’s artificial intelligence tool is capable of independent thoughts or feelings. The engineer, Blake Lemoine, wrote on Medium about a week ago that Google has put him on paid administrative leave in the context of AI ethics concerns that he was raising internally in relation to alleged violations of Google’s confidentiality policies."
-    publishedDateTime: 2022-06-12T14:27:00Z
-    webUrl: "https://www.bizpacreview.com/2022/06/12/suspended-engineer-claims-googles-ai-has-taken-on-life-form-acts-like-a-narcissistic-7-or-8-year-old-1249214/"
-    type: article
-    provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 22
-    images:
-      - url: "https://www.bizpacreview.com/wp-content/uploads/2022/06/GettyImages-1144000033b.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google engineer put on leave claims AI bot LaMDA became ‘sentient’"
     excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, told the Washington Post that he began chatting with the interface LaMDA — Language Model for Dialogue Applications — in fall 2021"
     publishedDateTime: 2022-06-12T13:43:00Z
@@ -80,6 +79,6 @@ related:
       domain: nypost.com
     quality: 17
 
-secured: "Jx/Vz/43dqPVeO7URSr/TK9JhXIRmWM8FL6JdLeGcRU0F6RtXm0ecJ7RPHGp1LKMTwyuGUaCv3N0OInutTiTirv2O6IncCEVuqgTxjj4DgauQ0+RXjXqC74LZvZ41QbEZEZMxYzXO3jsLikuR8qs0YwyWBy+XvNCxXL0Deg9WF85swQnDK/YYmivpBa7P7H5GP6J3Kwfx/ovpO5EGNhjBZCAJraQSi59Gpi4iQIa28tLOKReih9ikLVjXAI3vo1QsZwF9siEawN44E0qSFznA8hdERHddMMQlsbvhXXsaN6VfWgyqsXRSRI+zA7ieqFaUo5Ptu9a+MZlknm8MjIEdpwxojPVWZUW24h9eROGTOC5zqsgwa70y+yV2lofFBoPQlIU6/qHXLzwe9FdAegYlqYWknH/i6UcIA8I2jzIxslorz37RcWnQq4i1oG91XcazSThv+rTzt4es4Fu0TvdOF+iyo3J+Db3YsxyDGjV/4q7lS5OtpxX2Hm1xUayAZNpGwL40hsQzfLqc36NZB6GAw==;a2+ErfxAmosPRnKM7A3tbg=="
+secured: "IaYXvI3SfhgTJERVq5Kau4XsWavINd3hn/xkyjRCx35bMCGN8K4V1KxadbLQ23un/yYsr/3f1O6soWf9rB+MJWXlrBskopwrEWtJJnGlC03E1TTV9ayHrZ5OzsyEZjtJB6ATO93zzLdD/iC8F/hXo3plBxn1F5+mzP3fFpZwSfGtYiSnC7VRJGP6nBVk1eJdlHXKiFFMr7kYBUZ4qseBfy0IxBaq8QtT3lrOw4xpVGEljbTW1SLbGuOsnGrKYHfwGKi6RIS8aPtild+LtknrBDX4VBcW7hTSvegU0dkTjr6eSizoF2oKOCn9n5ifUWbCnsM8YNeBKZsal559f3Hk8VAcd5QT05BH5TT+Lgizjas=;VZZCuhybDg+F2mWbC+mh+A=="
 ---
 

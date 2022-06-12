@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Is AI the future of art? Field attracts huge interest, even bigger price tags"
+    excerpt: "The field has begun to attract huge interest among art collectors – and even bigger price tags at auction. US artist and programmer Robbie Barrat—a prodigy still only 22 years old—sold a work called “Nude Portrait#7Frame#64” at Sotheby’s in March for £630,"
+    publishedDateTime: 2022-06-12T10:40:00Z
+    webUrl: "https://manilastandard.net/news/314235526/is-ai-the-future-of-art-field-attracts-huge-interest-even-bigger-price-tags.html"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 14
 
 secured: "PG6E1oQvEIudP3hi/a6LZQsTVj4r0bjzFHzGPTOXh7ujBN65MNSiuGCQCp8zJcKEgwldcaXwMkXagKHt5xi4L49TL8drbaRyRBQA7b6kry081y3pbI8pzZounyTVNrSVDf/Kgl0twlrShaJccCIRhrgkjhd2IzKa22QrzEJl6y4n3usacYQx5I3UNocSo72ulvlhUzguzO83jzUBat5l7kwvEgJtRQikx63EEgBBSFKVHhgsGm3dmEkRZguQyFlLt+NWRqmydqzIccTmNUI7Itl6TtfBj8Y6h6h/XTjhEywoZ/cayIMyXRzhr5JUPnRMrRlkv7LS74er2Cu3qJVytitH86FZlYRBGqt2Lnlj/miljQn5sUcg/rKw3/FAyBkg6GJLj7XJ2Z/PKX7EIUVzlPYI4Ou5I2FthGi/al2W2t8dGFO9NAMN36wuuSwbn96cdW+EVCyUR74Swtre9eTSKR9DF865IaD3V8qH4Hjz41L+1i7FbCOFWGxkuoqhrIraeSpm7PkFHeiZHP7xfsGAHQ==;bAZ3qBLOiZPezsnl8VyQCA=="
 ---

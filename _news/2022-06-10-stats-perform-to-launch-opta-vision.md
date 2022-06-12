@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T08:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/stats-perform-to-launch-opta-vision/article_d5c546b7-2e6b-5434-b9df-3453d0470c5d.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/stats-perform-to-launch-opta-vision/article_d5c546b7-2e6b-5434-b9df-3453d0470c5d.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WFMZ-TV

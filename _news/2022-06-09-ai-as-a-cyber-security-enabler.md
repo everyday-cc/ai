@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://beta.darkreading.com/images/og-image.jpg"
         width: 342
         height: 342
-        isCached: true
-  - title: "How to use AI in cybersecurity?"
-    excerpt: "Let’s talk about how AI in cybersecurity protects the corporate networks of companies. Technological progress has not only pleasing but also bad consequences. Together with the accelerated pace of corporate security systems development,"
-    publishedDateTime: 2022-06-07T20:41:00Z
-    webUrl: "https://www.hackread.com/how-to-use-ai-in-cybersecurity/"
-    type: article
-    provider:
-      name: hackread
-      domain: hackread.com
-    quality: 37
-    images:
-      - url: "https://www.hackread.com/wp-content/uploads/2022/06/how-to-use-ai-cybersecurity.jpg"
-        width: 1200
-        height: 650
         isCached: true
   - title: "Orna raises over $1 million in seed funding to bolster AI-powered cybersecurity platform"
     excerpt: "With over $1 million in seed capital, Orna said it intends to invest in marketing, demand generation, and research and development."

@@ -1,27 +1,30 @@
 ---
 category: news
-title: "3 key trends that show AI and data are changing the face of medicine"
-excerpt: "Data and artificial intelligence are transforming the healthcare industry in many ways. The recent Stat Health Tech Summit, organised by the health publication Stat and held in San Francisco, California,"
-publishedDateTime: 2022-06-10T02:20:00Z
-originalUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
-webUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
+title: "Lucem Health™ Launches Innovation Collaborative to Offer AI/ML to the Front Lines of Healthcare"
+excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative,  a partner program designed to move clinical AI/ML innovation to"
+publishedDateTime: 2022-06-12T15:10:00Z
+originalUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/"
+webUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/"
+ampWebUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
 type: article
-quality: 39
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/20220610_data_pixabay.jpg?itok=x3RtfF91"
-    width: 800
-    height: 567
+  - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Lucem-Health-Announces-Innovation-Collaborative-to-Bring-AI-ML-to-the-Front-Lines-of-Healthcare.png"
+    width: 700
+    height: 400
     isCached: true
 
 related:
@@ -40,22 +43,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/b9326f2e-f80e-45be-bac9-18ac2f181fff_205e9f0b.jpg?itok=Lb076e6s&v=1654657778"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Lucem Health™ Launches Innovation Collaborative to Offer AI/ML to the Front Lines of Healthcare"
-    excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative,  a partner program designed to move clinical AI/ML innovation to"
-    publishedDateTime: 2022-06-12T15:10:00Z
-    webUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/"
-    ampWebUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 79
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Lucem-Health-Announces-Innovation-Collaborative-to-Bring-AI-ML-to-the-Front-Lines-of-Healthcare.png"
-        width: 700
-        height: 400
         isCached: true
   - title: "Artificial intelligence is shaping the Future of Healthcare Industry"
     excerpt: "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges."
@@ -103,6 +90,20 @@ related:
         width: 460
         height: 460
         isCached: true
+  - title: "3 key trends that show AI and data are changing the face of medicine"
+    excerpt: "Data and artificial intelligence are transforming the healthcare industry in many ways. The recent Stat Health Tech Summit, organised by the health publication Stat and held in San Francisco, California,"
+    publishedDateTime: 2022-06-10T02:20:00Z
+    webUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/20220610_data_pixabay.jpg?itok=x3RtfF91"
+        width: 800
+        height: 567
+        isCached: true
   - title: "Lucem Health™ Announces Innovation Collaborative to Bring AI/ML to the Front Lines of Healthcare"
     excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative, a partner program designed to move clinical AI/ML innovation to the front lines of healthcare. The Collaborative will help digital health innovators create,"
     publishedDateTime: 2022-06-09T14:55:00Z
@@ -113,6 +114,6 @@ related:
       domain: apnews.com
     quality: 38
 
-secured: "nNasYxwIl9cwVhJeccK5HNs48f8bNe+y1m+Lu2tcdqzFWOID2Py+78+CY6YzFwa7X5U5hgJpRNRBytfoInRab9flwiDLZhkldCQdtIuhcXJvr+r7IeZ8ZoMYflavV4wligQIOaQZNI+2pBA2Ubw10qzcPS0PsL/wf2CgEV3WiFapmvkaxo251ijtllaV51US9e/V/6QRIhh56jIiCeHPQD+2+IjepT/MZk+SOujtiNHq+12ChkvH4aem5HsrGz7p0zVkySGfo0XFB1QgZbMgV9ovBZjmT2UnyTZBvqJTqM4746wGDlfNb+l1SYnnTccvvx+GPmr/N0P61RPZrP+SMdbqWp30jD45ynOmpwlaer4=;nZkKdOMNfnG6W9N7jDSHVg=="
+secured: "zBcqLlYAgyaQYw92EYy6sRdfXo+DWEz2n6vOkqI+lT7eXGkDxhif8OPAZ7CT3pKg/ZlU4voki/6oAXgYV5PSG82kb3V3ELmi3t8wRC/ip5Hayhy0/YJ7KffwMKvFMB3KUcvoCHebpqt2ZiTMV4PQ+HRlA8pdNepQuaga7IZ/+9lUbNVPmgHcCAbmA7DArFANqKBZf46L2PE2Vjf9tq4nzWsBTou8u++aim4Gm8k88GP1NB7ghKeIxdegjxoijqzUIZKhCc/MOIs/BzKZ0YaJHiFAtwZZ9dVJXZDzWBtmDq7iheGFA6onUdUAVhufN8W9wj1XS7kEp3hGV/3Um1KEN3cqufJkjy+bpZYshdD5Dh4=;Bvqir9ElhrDwLxeiEs8fJQ=="
 ---
 

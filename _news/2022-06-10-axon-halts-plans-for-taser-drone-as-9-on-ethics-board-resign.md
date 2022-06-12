@@ -71,15 +71,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Axon abruptly halts plans to weaponize drones after ethics board resignations"
-    excerpt: "Just days after CEO Rick Smith had said Scottsdale-based Axon Enterprise Inc. would ramp up a program that would weaponize drones armed with its nonlethal Taser products, the company has abruptly dropped those plans after members of Axon's artificial intelligence ethics board resigned in protest."
-    publishedDateTime: 2022-06-07T20:38:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2022/06/07/axon-halts-drone-taser-plans.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "etEcR8B+U3AUP494M+XaxwpnP2zNumm2bpdbcb591GMXTpYSQQJXMXeqDeWb8JosK0nbvq1hfXvDppSn1/Wu+g3DFwsIW+p3MS4hGzKyBWTOGupDD0fjh0wrS/keRCaYTY7Mh/teW/QMRhvWyhZEaAR0+qb4J0C9P2WEJxHJuwCCZaDfezsrSv5x53LkWxMUuMwQohc3634QwgA0erBsQCr4LRAHKTyhGXP3bWMs/M9p9omUWfxKc9jjjvyClkd/6E496TernTNCmfYgQU0ZBbKsfAU+GAK0rzg4O4xjH5rxVm/fjZqiOL0xc4CEJSp24sUbLVYeJs4ypwMpnat9nrFucn5UfomKMQDFno7OvPSDWLv/aAyvHDON6D1z1FiVFvT3zlnH5PP1e23zzrQrQYZSnpnXDY/1N+BXUYR0PQV/URTTJRjp94JzuDlg4OmHjiHIS9LAoli0Uac3pUgsxg2cQllQ0aXotpEYTLuWf9TaieN9ielbjZRlJMh6kEJRerUJCOqCdxLB2QSGKFAB/A==;2U47Qwp+IlVIor2x5r3AFA=="
 ---

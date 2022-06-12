@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Kami Vision Raises $10 Million in Financing"
-    excerpt: "Kami Vision, a San Jose, Calif.-based computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, raised $10 million in financing"
-    publishedDateTime: 2022-06-07T22:24:00Z
-    webUrl: "https://www.finsmes.com/2022/06/kami-vision-raises-10-million-in-financing.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/kami-vision.jpeg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "SntCQn58HGAn7Jc0T4CpXZ00xrTQDjyJTIXr51yOBX20JEJQVYyEC1NjJBzYW1ONRG8G5EUACctVmxTIseuSx1z7fkdTIK3QdZT83DhBw08c9YJ+HX8Y3Q3C7IAvCZiex6roIEw94AXHWJDmLaxK70AqbVHYWI9BYix3t0YuhKJzL0rBrYHoVcz7G0/j2zdFNa79bjGEatbpfYZbxlNa8XS+sBUj+WBwVUpleHoQeAwkZwrqvq4hIUUowcuSYfPSOVottiAIVlNPGvhp0QhoFZV2QIb7EccPg/xd6udk66BPZkf4pD6xL2RCnEoVk5TL7RmF8k7dcfP+OAFVrBA/Mox9ArA900IvpF+FUQsGD/4=;vrfsq5zERQBxsahh5pCyYw=="
 ---
 

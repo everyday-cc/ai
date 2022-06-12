@@ -71,15 +71,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 19
-  - title: "Axon abruptly halts plans to weaponize drones after ethics board resignations"
-    excerpt: "Just days after CEO Rick Smith had said Scottsdale-based Axon Enterprise Inc. would ramp up a program that would weaponize drones armed with its nonlethal Taser products, the company has abruptly dropped those plans after members of Axon's artificial intelligence ethics board resigned in protest."
-    publishedDateTime: 2022-06-07T20:38:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2022/06/07/axon-halts-drone-taser-plans.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "lic06qVp2e7F/oDpNRQz6JFBeprO53UGNl3T6johooFj7G9ji4xbFRl8LXXF05PSehY3XS2bHzVt0H1jPncvrhrSfkZqOzFJD1VdSoN6Tax28Vo2dZmuVqruC36IA21oatqhmeQc43hE4SCGfZnZImVCC0ghz1otncE70JmCX53376kqf4mY0kMzR9rTPjcxu9CaA5GoOxawilxDCoRsa3csUXU+nxqxqDMWDjtzBaaYCx6lsvTV3hJz886J6/3pqeDJI26aukiPB1IqxYeaDFMqgvfzSeG8MfTnrmKfeGSLazMFoO3OItIGDCb94/yNLou/VQq0/hF4retjkksK1fkerYrILEawGz1MR5dtC96Uft91O+0AtyQ2JJPwH7ZomeL2AThkp4zuA0DfaAxDu6S+uQiN+0BP+xGAbfkdf/WzAunMr+BcnnsI7zVHhtXvu5/rvrcQsLBp/eBixHoKPhoDVX6f5VwwKwv78orLeut+WPxUo0i0qL16XYe+30XvExHmtiGRunT8peeW2gN/Gg==;x8EXg8alS+9/DbAxdNKQaQ=="
 ---

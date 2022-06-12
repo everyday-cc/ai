@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/06/08/datarobot-introduces-expanded-
 webUrl: "https://www.datanami.com/2022/06/08/datarobot-introduces-expanded-ai-cloud-capabilities-and-tools/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Datarobot updates AI cloud platform with enhanced bias mitigation"
-    excerpt: "DataRobot today updated its AI Cloud platform with enhanced bias mitigation, code experimentation and MLOps capabilities."
-    publishedDateTime: 2022-06-07T22:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/"
-    ampWebUrl: "https://venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/amp/"
+  - title: "Apex.AI continues to add autonomous capabilities to farming robots"
+    excerpt: "Agricultural machinery manufacturer AGCO continues to add autonomous capabilities to its farming, extending partnership with Apex.AI."
+    publishedDateTime: 2022-06-10T03:04:00Z
+    webUrl: "https://techstory.in/apex-ai-continues-to-add-autonomous-capabilities-to-farming-robots/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: tech
+      domain: techstory.in
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/cc9cf1dd-062b-48eb-9b71-9332024facbf-e1654611675352.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://techstory.in/wp-content/uploads/2020/10/nexcopy_usb_write_protection-2.jpg"
+        width: 350
+        height: 209
         isCached: true
   - title: "How McLaren Racing Benefits From DataRobot’s AI-Powered Predictions"
     excerpt: "At the Miami Grand Prix last month, McLaren Racing’s Edward Green was monitoring a data dashboard with a graph indicating a predictive model of track temperature. It’s a key metric for Formula One cars because hotter asphalt wears tires down more quickly,"

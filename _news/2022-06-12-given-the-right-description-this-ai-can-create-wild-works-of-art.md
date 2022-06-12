@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-12T13:46:00Z
 originalUrl: "https://knowtechie.com/given-the-right-description-this-ai-can-create-wild-works-of-art/"
 webUrl: "https://knowtechie.com/given-the-right-description-this-ai-can-create-wild-works-of-art/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: KnowTechie

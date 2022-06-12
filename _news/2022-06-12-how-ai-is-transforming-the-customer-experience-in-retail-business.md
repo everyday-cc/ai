@@ -124,6 +124,15 @@ related:
         width: 1050
         height: 559
         isCached: true
+  - title: "Is AI the future of art? Field attracts huge interest, even bigger price tags"
+    excerpt: "The field has begun to attract huge interest among art collectors – and even bigger price tags at auction. US artist and programmer Robbie Barrat—a prodigy still only 22 years old—sold a work called “Nude Portrait#7Frame#64” at Sotheby’s in March for £630,"
+    publishedDateTime: 2022-06-12T10:40:00Z
+    webUrl: "https://manilastandard.net/news/314235526/is-ai-the-future-of-art-field-attracts-huge-interest-even-bigger-price-tags.html"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 14
 
 secured: "8c4AYin+4M1L6xHBdi78ikY3pL6tCagmhf2LgT3/gB9bZVkmC72KGGHrMtcDwhTd2TcE6sRQUvNy/GF9xxZfCyiC7OJ64mWcEYKMjpXjQAKFKTV4Hfynu5/Me7J0drNxSCF2umyIJBvxj0hGaqM9o2lwJT53Ze+DIN61IQNToFMb8EXgmhgkchm9T7W7i37ALEHcr6f/PQG/8jVr1FQA46AXe6MFAHGs0j0LKehpwZB6ycvqmMapBX3cXkRbVIIRGFgDS4Id4kIzBXtzfiBTft0UIG8d7+XTdv7AjVLXKRmPhd1HXhniHocVZHDEoTto1WcGMSHfixr/ksZSpegbT8spZrfT1cqXwrwnQ984i3Y=;kaRmlZdk3l+s6fSclOcE+w=="
 ---

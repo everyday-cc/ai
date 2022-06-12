@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/board-members-resign-over-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 19
-  - title: "Axon abruptly halts plans to weaponize drones after ethics board resignations"
-    excerpt: "Just days after CEO Rick Smith had said Scottsdale-based Axon Enterprise Inc. would ramp up a program that would weaponize drones armed with its nonlethal Taser products, the company has abruptly dropped those plans after members of Axon's artificial intelligence ethics board resigned in protest."
-    publishedDateTime: 2022-06-07T20:38:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2022/06/07/axon-halts-drone-taser-plans.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "0kQdS6HbI9uYlgc5Aol1lcd7HLHXav7oePQYB1lY1WN9WehlJL1YRKFTiCtHD9rzoYSfxRQ/LVAA+tYKLebGLl5ahnZPKyWvdx5C7zH8xPkQFJU7X3ZeiVoDFACMBWybbFOOYtMcsRd49Tdjb4BTNV9xpptCpV4RYKdQBWcQOkYiOelV8mIRHlwzWcuxGAqzPqFMYRr38wYOQW5iALlaoE24xdeR4DhAYIWgbztYg4XrP8EqB2Anfgv72dKITNQC1Iv5eQ2bCsVI0cv4DpGl5GLXV+FKqZQGmWt6/8Um6pKH6k27A2NFiyBuZZWN+9J4PmkNUCKXkNwXzP0Mhr/RMhiUv+kMWtHjDiu4yyvxEEs=;S9YURx3KE3w+J9fACjgvVw=="
 ---
