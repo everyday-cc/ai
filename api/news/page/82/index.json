@@ -2,6 +2,49 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-04-01-beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses.md",
+      "title": "Beijing strengthens policy support for road testing of autonomous buses",
+      "excerpt": "Beijing unveiled regulations for trial implementation on Thursday to provide policy support for the upcoming road tests of autonomous buses, local authorities said. Beijing will allow road tests of its first batch of eight autonomous buses from three tech enterprises — Baidu,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses/",
+      "originalUrl": "https://www.macaubusiness.com/beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png",
+          "width": 516,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-latest-facebook-app-news.md",
       "title": "Latest Facebook app news",
       "excerpt": "Meta is building an AI-powered universal language translator By Maggie Tillman · 24 February 2022 Zuckerberg said it can translate \"hundreds of languages . . . everything from Austrian to Uganda ...",
@@ -1101,49 +1144,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-intel-arc-a-gpu-offers-full-av1-hardware-acceleration.md",
-      "title": "Intel Arc-A GPU offers full AV1 hardware acceleration",
-      "excerpt": "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
-      "originalUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg",
-          "width": 1420,
-          "height": 946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
-      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
-      "publishedDateTime": "2022-03-31T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "provideocoalition.com",
-        "domain": "provideocoalition.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

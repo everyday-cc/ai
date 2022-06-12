@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This consulting startup is helping businesses discover the limitless possibilities of AI"
-    excerpt: "Also, the overall environment of AI and related work with Data, that is transforming every sphere of our life and especially in the enterprise computing space, makes Navikenz an exciting startup ..."
-    publishedDateTime: 2022-06-07T06:45:00Z
-    webUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    ampWebUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 48
-    images:
-      - url: "https://images.yourstory.com/cs/2/0911f29093a911ec98ee9fbd8fa414a8/ImageTaggingPooja54-1654576550594.jpg "
-        width: 1600
-        height: 800
-        isCached: true
   - title: "Artificial intelligence to shape future of fishing with targeted catches"
     excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
     publishedDateTime: 2022-06-08T06:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "This consulting startup is helping businesses discover the limitless possibilities of AI"
-    excerpt: "Also, the overall environment of AI and related work with Data, that is transforming every sphere of our life and especially in the enterprise computing space, makes Navikenz an exciting startup ..."
-    publishedDateTime: 2022-06-07T06:45:00Z
-    webUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    ampWebUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 48
-    images:
-      - url: "https://images.yourstory.com/cs/2/0911f29093a911ec98ee9fbd8fa414a8/ImageTaggingPooja54-1654576550594.jpg "
-        width: 1600
-        height: 800
         isCached: true
   - title: "Artificial intelligence to shape future of fishing with targeted catches"
     excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."

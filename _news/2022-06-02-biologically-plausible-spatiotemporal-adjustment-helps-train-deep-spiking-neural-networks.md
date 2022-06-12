@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Biologically plausible spatiotemporal adjustment helps train deep spiking neural networks"
-excerpt: "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However, the biggest problem restricting the development of SNNs is the training algorithm."
-publishedDateTime: 2022-06-02T15:15:00Z
-originalUrl: "https://techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.html"
-webUrl: "https://techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.amp"
+excerpt: "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However ..."
+publishedDateTime: 2022-06-02T15:21:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/954275"
+webUrl: "https://www.eurekalert.org/news-releases/954275"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/biologically-plausible.jpg"
-    width: 762
-    height: 491
-    isCached: true
-
-secured: "nrVWm8dM8YtUhMZo/w5WArRXaruiA338dyi4iav+OBdYVgPwpk368SSOP4M7ugB05SCiBXI+ePMgKBVjdssQvAPxtZEJaRfBr1lm7IHM75SQpgpN75sN7l7+zF6UNudBVlXdIeYSltqAdfPh7d97sBMDc46VJ6DmY/fxqzkS5k8BUvyLXR9j5tat4ddpoEK0uBYUQ9gm0N37I6O19pe+ibRsoYl4k+egWhK35g9G8c3HXTimhkUpY4FC8g8CKdEQWzJ7MFlrQU5OHp6Sm8YBkMEmC0kpMVhomCUvmVVRzih7TBINUrtymEc6qqrGHjR3prZmpwCa4MD2PGq26mH3Od15v1Pa+WlHQ68IWXrY6NM=;dVK87fdZJbK0pOoH4xodhg=="
+secured: "bzzT290pemlT/lPhfNxRDKuaeXOOSRYp0c8TFNqTTPYHNCL//Zz+VNxtzcwZ2Sahc/5Zjhf6SvKiNPwnV3sboibuLowgwuRnYErquTMxJePkzZboIFZSJPFHzaDaix4CSCUl4RhX5flOYzWppQgd2yT1AZe0KvRSnCipkFmCIhDFEUaU+taddDhx7yqo5qYTbO6xHsKGiuS3bwwzACjQL1oaCK7e8kTAtd9crWJod6RqA/IpHIuYamLpgDJVZD5+b5BJG2foRyxeesrISJ4YvF3ZCnSGIvJeGpmse+Y5n0n5OAR8acFy5sOJJUtVzaiCQA3/ZGqFuHA5zHcTtVDa52k1PcKEZEqSUTkB+R2WTyk=;iZfsUubLoDHw+rNZnR5vLA=="
 ---
 

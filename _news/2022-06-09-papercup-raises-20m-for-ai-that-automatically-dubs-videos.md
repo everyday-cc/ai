@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "With new hires, Pentagon’s AI Office reaches full operating capability"
-    excerpt: "Stood up earlier this year, the Defense Department’s Office of the Chief Digital and Artificial Intelligence Officer, or CDAO, reached full operating capability Wednesday with the appointment of two new personnel."
-    publishedDateTime: 2022-06-07T06:00:00Z
-    webUrl: "https://defensesystems.com/ai-analytics/2022/06/new-hires-pentagons-ai-office-reaches-full-operating-capability/367838/"
-    type: article
-    provider:
-      name: Defense Systems
-      domain: defensesystems.com
-    quality: 39
-    images:
-      - url: "https://cdn.defensesystems.com/media/img/cd/2022/06/06/060222pentagonNG/860x394.jpg?1654571519"
-        width: 860
-        height: 394
-        isCached: true
   - title: "AI Dubbing Start-Up Papercup Raises $20M From Sky, Others"
     excerpt: "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing."
     publishedDateTime: 2022-06-09T16:00:00Z

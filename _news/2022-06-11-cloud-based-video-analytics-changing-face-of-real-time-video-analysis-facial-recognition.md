@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/technology/cloud-based-video-ana
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 609
     height: 311
     isCached: true
-
-related:
-  - title: "Accelerating customer experience through Voice Analytics in the BFSI industry"
-    excerpt: "BFSI industry is facing today is keeping the customer engaged. Undoubtedly, customer service is the fulcrum of BFSI operations, and providing exceptional customer experience is the answer to all the industry’s engagement issues."
-    publishedDateTime: 2022-06-07T06:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 21
 
 secured: "O4ACbodlzc1WJsMSjtytxK9pg3kE3sRg1g6PexLaE0m2A0AZo7HCaMSDgI53Qo9c24Y/UGEHYGEiQsuLQsypPcE8gVfzgNPxygD5RIWpm8FyZAlRsSFZdruC4nj4sP67jbvXhY9KOVAksPTyraQ2KSdLI6Ld54W6YY0+wa8kYWGRrl4aTWaWSEok2ae+QFdlHhDkiuQi7nQVN3c29sitzhUOjK14PzNlDaxFuSbgoJrCwgNbTybyH3gcMJhathaLOfn/XCVZN8wWVH56q56tGGkzeeu9Pt0ujVpiNIJw9NzYblw8WaoG+Dt7yyiz+i3eYf2xQlx0/aP+weGW/pet3EEeOE4KiwF8gOJ5ij8Lz3c3o5FFgYSsdwSX5bfaZ6oH1znvEVHI+Xtg0HpXUJjZE2p49eJ3Zt5I7Yurcb6SCtZdfLOrF4RhTHnrqwdc9/Qi8DnM74t18cV0Af2KiXBEwtap9IZK0K015GNT7zoSrtMvDZzIfneCgU/FAXqXRI0If13OLcpTezkib9OmV3finw==;IhWCcCV0ngPykeZn8ut6Dw=="
 ---

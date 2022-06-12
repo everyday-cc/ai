@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This consulting startup is helping businesses discover the limitless possibilities of AI"
-    excerpt: "Also, the overall environment of AI and related work with Data, that is transforming every sphere of our life and especially in the enterprise computing space, makes Navikenz an exciting startup ..."
-    publishedDateTime: 2022-06-07T06:45:00Z
-    webUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    ampWebUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 48
-    images:
-      - url: "https://images.yourstory.com/cs/2/0911f29093a911ec98ee9fbd8fa414a8/ImageTaggingPooja54-1654576550594.jpg "
-        width: 1600
-        height: 800
-        isCached: true
   - title: "The state of AI in drug discovery"
     excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
     publishedDateTime: 2022-06-08T21:48:00Z
