@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-03-use-serverless-inference-to-reduce-testing-costs-in-your-mlops-pipelines.md",
+      "title": "Use Serverless Inference to reduce testing costs in your MLOps pipelines",
+      "excerpt": "Amazon SageMaker Serverless Inference is an inference option that enables you to easily deploy machine learning (ML) models for inference without having to configure or manage the underlying infrastructure.&nbsp;SageMaker Serverless Inference is ideal for applications with intermittent or unpredictable",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-serverless-inference-to-reduce-testing-costs-in-your-mlops-pipelines/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-serverless-inference-to-reduce-testing-costs-in-your-mlops-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/use-serverless-inference.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T09:52:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend.md",
       "title": "Translate, redact and analyze streaming data using SQL functions with Amazon Kinesis Data Analytics, Amazon Translate, and Amazon Comprehend",
       "excerpt": "You may have applications that generate streaming data that is full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about, determine if they’re expressing positive or negative sentiment,",
@@ -1103,49 +1155,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-traffic-noise-may-impair-childrens-cognitive-development-study.md",
-      "title": "Traffic noise may impair children’s cognitive development: study",
-      "excerpt": "“Our study supports the hypothesis that childhood is a vulnerable period during which external stimuli such as noise can affect the rapid process of cognitive development that takes place before ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
-      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/04/traffic_infrastructure_033017gn3_lead.jpg?w=1280",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
-      "publishedDateTime": "2022-06-02T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

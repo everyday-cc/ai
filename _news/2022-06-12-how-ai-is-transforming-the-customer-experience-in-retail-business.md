@@ -1,35 +1,45 @@
 ---
 category: news
-title: "How AI is shaping the future of work"
-excerpt: "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise."
-publishedDateTime: 2022-06-09T15:20:00Z
-originalUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/"
-webUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/"
-ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
+title: "How AI is transforming the customer experience in retail business"
+excerpt: "But it’s important to know which part of AI works best for the retail business. If you’re ready to start improving your company’s customer experience with cutting-edge AI technology ..."
+publishedDateTime: 2022-06-12T08:41:00Z
+originalUrl: "https://timesofindia.indiatimes.com/readersblog/techbusiness/how-ai-is-transforming-the-customer-experience-in-retail-business-43323/"
+webUrl: "https://timesofindia.indiatimes.com/readersblog/techbusiness/how-ai-is-transforming-the-customer-experience-in-retail-business-43323/"
 type: article
-quality: 87
-heat: 157
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all"
-    width: 1200
-    height: 850
+  - url: "https://static.toiimg.com/photo/75476733.cms"
+    width: 640
+    height: 360
     isCached: true
 
 related:
+  - title: "How AI is shaping the future of work"
+    excerpt: "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise."
+    publishedDateTime: 2022-06-09T15:20:00Z
+    webUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/"
+    ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "The future of AI is a software story, says Graphcore's CEO"
     excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
     publishedDateTime: 2022-06-10T13:42:00Z
@@ -114,21 +124,7 @@ related:
         width: 1050
         height: 559
         isCached: true
-  - title: "How AI is transforming the customer experience in retail business"
-    excerpt: "But it’s important to know which part of AI works best for the retail business. If you’re ready to start improving your company’s customer experience with cutting-edge AI technology ..."
-    publishedDateTime: 2022-06-12T08:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/techbusiness/how-ai-is-transforming-the-customer-experience-in-retail-business-43323/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
 
-secured: "PG6E1oQvEIudP3hi/a6LZQsTVj4r0bjzFHzGPTOXh7ujBN65MNSiuGCQCp8zJcKEgwldcaXwMkXagKHt5xi4L49TL8drbaRyRBQA7b6kry081y3pbI8pzZounyTVNrSVDf/Kgl0twlrShaJccCIRhrgkjhd2IzKa22QrzEJl6y4n3usacYQx5I3UNocSo72ulvlhUzguzO83jzUBat5l7kwvEgJtRQikx63EEgBBSFKVHhgsGm3dmEkRZguQyFlLt+NWRqmydqzIccTmNUI7Itl6TtfBj8Y6h6h/XTjhEywoZ/cayIMyXRzhr5JUPnRMrRlkv7LS74er2Cu3qJVytitH86FZlYRBGqt2Lnlj/miljQn5sUcg/rKw3/FAyBkg6GJLj7XJ2Z/PKX7EIUVzlPYI4Ou5I2FthGi/al2W2t8dGFO9NAMN36wuuSwbn96cdW+EVCyUR74Swtre9eTSKR9DF865IaD3V8qH4Hjz41L+1i7FbCOFWGxkuoqhrIraeSpm7PkFHeiZHP7xfsGAHQ==;bAZ3qBLOiZPezsnl8VyQCA=="
+secured: "8c4AYin+4M1L6xHBdi78ikY3pL6tCagmhf2LgT3/gB9bZVkmC72KGGHrMtcDwhTd2TcE6sRQUvNy/GF9xxZfCyiC7OJ64mWcEYKMjpXjQAKFKTV4Hfynu5/Me7J0drNxSCF2umyIJBvxj0hGaqM9o2lwJT53Ze+DIN61IQNToFMb8EXgmhgkchm9T7W7i37ALEHcr6f/PQG/8jVr1FQA46AXe6MFAHGs0j0LKehpwZB6ycvqmMapBX3cXkRbVIIRGFgDS4Id4kIzBXtzfiBTft0UIG8d7+XTdv7AjVLXKRmPhd1HXhniHocVZHDEoTto1WcGMSHfixr/ksZSpegbT8spZrfT1cqXwrwnQ984i3Y=;kaRmlZdk3l+s6fSclOcE+w=="
 ---
 

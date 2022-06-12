@@ -116,6 +116,20 @@ related:
         width: 1050
         height: 559
         isCached: true
+  - title: "How AI is transforming the customer experience in retail business"
+    excerpt: "But it’s important to know which part of AI works best for the retail business. If you’re ready to start improving your company’s customer experience with cutting-edge AI technology ..."
+    publishedDateTime: 2022-06-12T08:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/techbusiness/how-ai-is-transforming-the-customer-experience-in-retail-business-43323/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "TK804ArH9s1t4LMWaduKgzXpXy7LNnpeh+V/xC1XJBZCQjYTbJOEq/f4vKjr7lOI7tD0ObISTw9pzc0HOJmemDVcRBlhrCm1q0tBfGRuO9XrtAp+G1zgYcOFVrGE5oLySNrEudbnh/GOAMXmESSVj6+iMMzy08UOa6UjfVhuNI9h6W9qo7w25eQ526FxP2HLJ7zPfo8n3ARfLDea08USOpXZIJafeEjWew+vN/eKsr7ZnRHK7HraJJ++KpbiHvrleZhh/pheBWO42+aifCTXX74QIpwI2ZgzVmUj4zXv8SgVyta+Ea02kaMMVDnXcaNeX03cwQ6aeUllxpz2RMrA/hvCmn8bxSKjeQnqxqvgw8o=;EyLyLos6PUDtG87oCf/02g=="
 ---

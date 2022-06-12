@@ -41,6 +41,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
+    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
+    publishedDateTime: 2022-06-07T20:32:00Z
+    webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 85
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Enemies Waymo, Uber now friends making self-driving-ish trucks for US highways"
     excerpt: "Waymo and Uber announced on Tuesday a \"long-term strategic partnership\" promising to work together to deploy autonomous freight trucks on US roads, years after both companies fought bitterly over self-driving technology."
     publishedDateTime: 2022-06-07T23:56:00Z
@@ -57,15 +73,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Alphabet's Waymo, Uber Freight in Deal for Future Self-Driving Trucks"
-    excerpt: "Companies including Waymo, TuSimple Holdings Inc, Aurora Innovation Inc and others hope to sell self-driving trucking services to logistics companies and large retailers in coming"
-    publishedDateTime: 2022-06-07T15:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-07/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "From enemies to partners: Uber, Waymo fought in court over self-driving trucks. Now they’re teaming up"
     excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. Here are the details."
     publishedDateTime: 2022-06-08T11:52:00Z
@@ -82,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
-    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 35
-    images:
-      - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
     excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."
     publishedDateTime: 2022-06-08T18:32:00Z
@@ -106,6 +99,6 @@ related:
       domain: jalopnik.com
     quality: 28
 
-secured: "4gk2wJI+0jqqpCZ/+5XMOm4EZzsi7UleZLaxXIAUKo5AXAil5p3m15P/iT8NXu6CY9BKoBIl0p3laEL+1mUngGuaxsQ2uyxBPkfciqA4orYuz2mXfYIBcOSqdRkxfmfqVTmzKb6DhpQo5jJ8EyBuxP9Lgy5DghqlLOEdskxM8BmkRcR6kwRqVK+8PYfV8uregMKed9CXHwoEMrq0gtlvjdmkwsjLOHlBIZSJZVJvX/u1CdOY5ngYKPDt+WpxvM4Xftd+ynkNWVTlSj546WJ6k5hK4CMMJ9AfMkbriE8bbd1uohBlhi6hpoKnrGzjLYuYb8tQbahPaCSslhWuMcpQZlmQ9lKlGNZYUtp2JoLiqB0=;46VEwA/bLjbX4yoO8FV1tQ=="
+secured: "BEOh7i2OH7v+p3viX2/xZVFnwI8+R5p9CeQdmrCWleekneVMviGxqn3BTq+goPZYDB9fG4/53kPkHBP/uTP1NddzbpMnQAJVp0MoUKFQyrZ6vrkRz/XvNxx2nogiVlRaM5Gbw8MzTcC3PKSmwEdzUITkkVK5BDNwVcwDdy7Gj3Z/gOSqGGOJ/wPY/ZuiVXr0hBfJKdhHLM+etzsRXrzMd5O694TMaxC0UTM41msEdqfttMywtuQyP+14IovpJYFOS6crvguXfVhns/j6o4NO5/57aw0gqgP/FbU/iQMfDgFTnFTpRgYIkHdgy+o1ZeMz5GwtBZdJWtXSaYWpzNhxEYSoCpomzGZjhNwZKHn6au/BYrsVcLz136BJxxAeljENxgkk2zUiLdZhCLqx6mPVlFCo1ttyMV+6QJQbivJOLnvSVKGJkUwYhPD9GrC2Mtxo/4pJmLJ6gKgpCstXLUkiRjzKAm5HCucJX6/rOzV5cC8R5HDuwpydiGvcUGZD1nQdSq/Qko6QNyCnXEDaW65xXQ==;umIvS6IOTUurE9bLE6ZQxg=="
 ---
 

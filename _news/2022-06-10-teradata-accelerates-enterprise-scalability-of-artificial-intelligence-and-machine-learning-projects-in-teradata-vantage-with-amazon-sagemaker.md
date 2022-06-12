@@ -40,20 +40,6 @@ related:
         width: 1245
         height: 624
         isCached: true
-  - title: "Create train, test, and validation splits on your data for machine learning with Amazon SageMaker Data Wrangler"
-    excerpt: "In this post, we talk about how to split a machine learning (ML) dataset into train, test, and validation datasets with Amazon SageMaker Data Wrangler so you can easily split your datasets with minimal to no code. Data used for ML is typically split into the following datasets: Training – Used to train"
-    publishedDateTime: 2022-06-07T16:47:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-test-and-validation-splits-on-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/07/create-train-test.jpg"
-        width: 1000
-        height: 498
-        isCached: true
   - title: "Unified data preparation and model training with Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
     excerpt: "Data fuels machine learning (ML); the quality of data has a direct impact on the quality of ML models. Therefore, improving data quality and employing the right feature engineering techniques are critical to creating accurate ML models. ML practitioners often tediously iterate on feature engineering,"
     publishedDateTime: 2022-06-09T15:03:57Z
@@ -78,19 +64,14 @@ related:
       domain: aws.amazon.com
     quality: 69
   - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-    excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
-    publishedDateTime: 2022-06-09T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+    publishedDateTime: 2022-06-09T14:03:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 15
 
 secured: "sgkkYyfX67Uly/ZgwwkxX5gFJYWE2mQZXdclSQlRm4ZCNdiygkLymXVL0BWiS9LJN3vAV7cmpuy/Jnae0JL5d6vgp6OuukbMoCAL3A+0YO5JrmFVkB2JKMugG9IOSrUmrgEFS36F2OMM9YUBJU17do7P3T2Si3Xx5rSZ2V2j/iwfdH8AArBvzNsAGDOUfbqXLVuEy/2WEBB+q2HmpcpEb5QqwCL11sU0ahEKsaWSOGsJd0WvpiKTRiRPYQJh2wgZSaCEorxlqojoSYFeOQq5Dw7QiMVly9VTpAptsc78wIksmZUrX0ThnGhBCu+PmiJHPfP2vNvW9UdCLkTXV+Y0KtE4p9P8U8VDcfsb9cDN01Y=;o/SrG5vZYmoIvWqDfReE+Q=="
 ---

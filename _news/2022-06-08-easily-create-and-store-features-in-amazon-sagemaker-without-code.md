@@ -37,20 +37,6 @@ related:
         width: 1245
         height: 624
         isCached: true
-  - title: "Create train, test, and validation splits on your data for machine learning with Amazon SageMaker Data Wrangler"
-    excerpt: "In this post, we talk about how to split a machine learning (ML) dataset into train, test, and validation datasets with Amazon SageMaker Data Wrangler so you can easily split your datasets with minimal to no code. Data used for ML is typically split into the following datasets: Training – Used to train"
-    publishedDateTime: 2022-06-07T16:47:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-test-and-validation-splits-on-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/07/create-train-test.jpg"
-        width: 1000
-        height: 498
-        isCached: true
   - title: "Unified data preparation and model training with Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
     excerpt: "Data fuels machine learning (ML); the quality of data has a direct impact on the quality of ML models. Therefore, improving data quality and employing the right feature engineering techniques are critical to creating accurate ML models. ML practitioners often tediously iterate on feature engineering,"
     publishedDateTime: 2022-06-09T15:03:57Z
@@ -66,20 +52,6 @@ related:
         height: 400
         isCached: true
   - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-    excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
-    publishedDateTime: 2022-06-09T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
     excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organisations ubiquitous use of advanced analytics to unlock the full power of their data COMPANY NEWS: Teradata (NYSE: TDC) today announced the integration and general availability of Teradata Vantage multi-cloud data and analytics"
     publishedDateTime: 2022-06-10T16:20:00Z
     webUrl: "https://itwire.com/guest-articles/company-news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.html"
@@ -93,6 +65,15 @@ related:
         width: 375
         height: 541
         isCached: true
+  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
+    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+    publishedDateTime: 2022-06-09T14:03:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 15
 
 secured: "6V0q2ZZljUypc82dXcO2QswK0DjjyNRZtUx7V8f9b1rkZbpOO1wdT7pkrh6Dt25MYs/7F7LfiAiddsxjAOR+3qkhaWgLRNqSC8trbNxihd/h/nFJODWkKlRmlAlO9PQJSTd8W06GEvC00WG90g9xaX5XTZHoBelCnb6koUkFQypmKr7SRhdbwBLxB4dEE7crMR9Q+G/YFB/JgMFx7SeUDFAsTJEbfix1wEvq8yznRx8BysnoLpeWe9cSJPg7rCUsYn0fjduQkv5k9LOR/Ord2O6FjTkCKXfrF+zs9y+t2hA1+A1LmX3OZj0iEWR9lMRnuW82hwCj018Qh2JhViCd2HtXOU1TToPkIFJFAXOAoCA=;+UrdnJLV8zR8R5FbupV/MA=="
 ---

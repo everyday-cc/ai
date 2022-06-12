@@ -2,6 +2,39 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-31-refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx.md",
+      "title": "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX",
+      "excerpt": "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery",
+      "sourceUrl": null,
+      "webUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
+      "originalUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TexomasHomepage.com",
+        "domain": "texomashomepage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-earnings-outlook-for-c3ai.md",
       "title": "Earnings Outlook For C3.ai",
       "excerpt": "C3.ai AI is set to give its latest quarterly earnings report on Wednesday, 2022-06-01. Here's what investors need to know before the announcement. Analysts estimate that C3.ai will report an earnings per share (EPS) of $-0.29. C3.ai bulls will hope to hear ...",
@@ -751,6 +784,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-31-the-role-of-artificial-intelligence-in-todays-digital-advertising.md",
+      "title": "The role of artificial intelligence in today’s digital advertising",
+      "excerpt": "According to The Insight Partners’ analysis, the worldwide Artificial Intelligence in the marketing sector is estimated to reach US$ 107,535.57 million by 2028, growing at a 31.6% compound ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
+      "originalUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Manu-Gupta-ET-Medialabs.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
+      "publishedDateTime": "2022-05-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028.md",
       "title": "Face Recognition Door Lock Market Size, Share And Major Industry Players Forecast (2021-2028)",
       "excerpt": "The global “Face Recognition Door Lock Market Size ” research report encompasses a thorough study of the current situation of the global market along with several market dynamics. To formulate this report,",
@@ -1005,102 +1081,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-insights-on-the-gesture-recognition-touchless-sensing-global-market-to-2027-rising-importance-of-gesture-recognition-in-virtual-reality-presents.md",
-      "title": "Insights on the Gesture Recognition & Touchless Sensing Global Market to 2027 - Rising Importance of Gesture Recognition in Virtual Reality Presents O",
-      "excerpt": "The \"Gesture Recognition & Touchless Sensing Market Research Report by Technology (2D, 3D, and Capacitive), Product, Type, Industry, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=671721",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=671721",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research.md",
-      "title": "Nvidia’s AI-powered supercomputers advance nuclear fusion research",
-      "excerpt": "At the International Supercomputing Conference in Germany, Nvidia has detailed how its latest HPC systems work. Including how it is using the Nvidia Omniverse simulation platform to accelerate the design and development of a full-scale fusion reactor.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
-      "originalUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1283648497-e1653671703268.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
-      "publishedDateTime": "2022-05-30T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

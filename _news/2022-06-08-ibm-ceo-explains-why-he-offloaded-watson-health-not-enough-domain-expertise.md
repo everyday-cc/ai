@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_ex
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_explains/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Your Health: How instant access to your health records improves your care"
-    excerpt: "Most of us think of our primary care physician as the person who spearheads our health care. But think about the other times you’re in front of another doctor, maybe at a specialist’s visit for your knee or back or even an unexpected hospital stay."
-    publishedDateTime: 2022-06-07T16:30:00Z
-    webUrl: "https://www.wqad.com/article/news/health/your-health-instant-health-record-access-improving-care/526-a582b5a2-5ca9-49fb-9fd8-b45c3ce32d0e"
-    ampWebUrl: "https://www.wqad.com/amp/article/news/health/your-health-instant-health-record-access-improving-care/526-a582b5a2-5ca9-49fb-9fd8-b45c3ce32d0e"
-    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health-instant-health-record-access-improving-care/526-a582b5a2-5ca9-49fb-9fd8-b45c3ce32d0e"
-    type: article
-    provider:
-      name: WQAD
-      domain: wqad.com
-    quality: 43
-    images:
-      - url: "https://media.tegna-media.com/assets/WQAD/images/65f738b1-7a09-4132-8cee-4dd0e690cc6b/65f738b1-7a09-4132-8cee-4dd0e690cc6b_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "IBM Bids Farewell to Watson Health Assets"
     excerpt: "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ..."
     publishedDateTime: 2022-06-08T00:01:00Z

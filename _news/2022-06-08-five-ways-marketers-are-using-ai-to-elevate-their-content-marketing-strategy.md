@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How can artificial intelligence be the next big thing in marketing?"
+    excerpt: "We all know that without a planned marketing strategy, a business cannot thrive. But, the marketing industry is going through a disruption, and as a result of this, we"
+    publishedDateTime: 2022-06-12T08:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Global Edge AI Hardware Market Report (2022 to 2027) - Featuring Baidu, Continental and Intel Among Others - ResearchAndMarkets.com"
     excerpt: "Market dynamics are forces that impact the prices and behaviors of the Global Edge AI Hardware Market stakeholders. These forces create pricing signals which result from the chang"
     publishedDateTime: 2022-06-10T11:56:00Z

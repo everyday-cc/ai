@@ -43,22 +43,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "A chip that can classify nearly 2 billion images per second"
-    excerpt: "Artificial intelligence (AI) plays an important role in many systems, from predictive text to medical diagnoses. Inspired by the human brain, many AI systems are implemented based on artificial neural networks,"
-    publishedDateTime: 2022-06-07T15:27:00Z
-    webUrl: "https://techxplore.com/news/2022-06-chip-billion-images.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-chip-billion-images.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-chip-billion-images.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/a-chip-that-can-classi.jpg"
-        width: 699
-        height: 358
-        isCached: true
 
 secured: "SsMcpwy3epHJru9FOXV8SxTetPemXAJTLBwdaYs0okVw+z5++JI6LVeD1eolgRmo8rk/ZgQyOf5TLbAYRW3jX3pXizLho8anCaC3scNT8ownoZAZD3Ra6qB784vbjRperIi006uOB/1o+Zyen4wZmMgj5eNAkJ3KY6/PP8FQKQpsxE7tXwdP+zczRqs831N0qAbCtr5mp1zw16/cqNVIfIWircl3ytG2/wNFa1F9vz61xHOL5mBWUmMgyNcIlEv2kXiEFZjBZQK15Nc9/4+bSdpp1GexPw5yk2DxHAgYTUxrCQwEd4iS7TCsgiTKCCmdHYej4hatjo2VoMYv2pnc0oj/qKptHzWcaesCZ8CwlNfaxZs/4eKexHPjkt9kW5wjhbKnHsczfMxKrmrcHkFVUUqe7ezGKpBn5RLlBqWd1tfV8d6J/BAUNfyZqXLLEKPapxA4kLI9xWb48H5Yt4qq3Jvmvovq/p2QDn2nLIZkrJn9Zj12CJQPaHCPMfBSs4b85SEAU9OKADd01mTAtHSjFw==;/Otq+X1hk3xjt/MqMPr6zA=="
 ---

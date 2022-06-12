@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/union-ai-releases-
 webUrl: "https://markets.businessinsider.com/news/stocks/union-ai-releases-unionml-for-seamless-creation-of-web-native-machine-learning-applications-1031519214"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Primer Acquires Yonder, Adds Disinformation Analysis to AI Portfolio for Information Operations"
-    excerpt: "With Yonder, Primer gives commercial and government organizations early intelligence about emerging narratives that may impact their brands or strategic advantage – and helps to create a window of opportunity to take countermeasures."
-    publishedDateTime: 2022-06-07T15:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/07/9616850.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "p+1KzHJp1v/3jEBSPovN9QT5PnpvCX6LbwaEXwJ7EJbaobLgT88Xh5BktgZbYXDVGbhMfzqIt0Q1/iI1lrB3VBOvG1olivQjqTCJRhuAObPEDRJZ5h+UM/PjUGyjORFNcWSHnC3EDC5CVGka3hjYgdxKDmoDGOvwmRUbQByRZLSuLuRCvdIozO9P3eKBpyMRRoMK/BgGzC/N0UVyWLPyjUZ9G1TXMZa5QMaYaBwuJnHywcpxCwwTKjbGV6dV2icoPgx4h6aPypFR/HHk8OGsMec2OanJQt0+D1Hgmb49yj4SNepcURzwd/j81PqjbW/fNJEbSx3JTbAlHywG2kCaH3EegHV7gIp2LF94XEqObxg=;tmsRLsm2yIcqtJIE6AA40g=="
 ---

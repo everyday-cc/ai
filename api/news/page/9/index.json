@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-02-role-of-conversational-ai-in-healthcare-and-pharma-industry.md",
+      "title": "Role of Conversational AI in Healthcare and Pharma industry",
+      "excerpt": "Artificial intelligence (AI) techniques that allow machines to learn with minimal human supervision have emerged due to the exponential rise in comput..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91957736,imgsize-65798,width-1200,height-628,overlay-ethealthworld/role-of-conversational-ai-in-healthcare-and-pharma-industry.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "publishedDateTime": "2022-06-02T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-microsoft-is-building-an-arm-powered-windows-mini.md",
       "title": "Microsoft is building an ARM-powered Windows mini",
       "excerpt": "Microsoft surprised the world — and its hardware partners — by releasing its first laptop: The Surface Book. It was a flop. But, unlike some Microsoft hardware experiments I could mention — the Surface tablet,",
@@ -1088,58 +1131,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-resisting-the-urge-to-be-impressed-knowing-what-to-talk-about-when-we-talk-about-ai.md",
-      "title": "Resisting the urge to be impressed, knowing what to talk about when we talk about AI",
-      "excerpt": "The barrage of new AI models released by the likes of DeepMind, Google, Meta and OpenAI is intensifying. Each of them is different in some way, each of them renewing the conversation about their achievements, applications, and implications. Imagen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "originalUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/728bdcace26af7271985d45af09c70fc07b98765/2021/10/18/7064a693-160b-4306-b2fa-82172337ef98/innovation-ai-automation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "publishedDateTime": "2022-06-01T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

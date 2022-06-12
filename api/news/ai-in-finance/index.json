@@ -210,7 +210,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1262,6 +1262,59 @@
       ]
     },
     {
+      "path": "_news/2022-05-23-delphia-review-portfolio-management-meets-machine-learning.md",
+      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
+      "excerpt": "Users can sign up for the full-service broker for free but must agree ... Delphia allows users to invest in portfolios driven by machine-learning algorithms. As these algorithms receive metadata ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
       "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
       "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",
@@ -1327,58 +1380,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next.md",
-      "title": "Synchrony Financial Stock Lost 10% In One Week, What To Expect Next?",
-      "excerpt": "The current scenario is likely to increase the credit risk, leading to an increase in the provisions of credit losses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6284647b19c3382449b0251b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/",
-      "publishedDateTime": "2022-05-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

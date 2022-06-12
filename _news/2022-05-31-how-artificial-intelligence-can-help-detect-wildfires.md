@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "How AI Can Assist In Coral Reef Restoration"

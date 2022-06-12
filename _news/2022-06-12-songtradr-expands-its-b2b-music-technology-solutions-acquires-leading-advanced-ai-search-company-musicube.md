@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Songtradr buys AI metadata and music search company, Musicube"
-    excerpt: "Los Angeles-based B2B music licensing company Songtradr has acquired AI metadata and music search company, Musicube. Based in Hamburg, Germany, Musicube’s database includes more than 50 million"
-    publishedDateTime: 2022-06-07T16:45:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/songtradr-buys-ai-metadata-and-music-search-company-musicube/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 37
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2022/06/Paul-Wiltshire-1-scaled-e1654623470448.jpeg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Songtradr acquires leading AI search company Musicube"
     excerpt: "The Hamburg-based AI technology company enables measurable ROI-driven licensing that optimises the creative performance of content."
     publishedDateTime: 2022-06-08T08:43:00Z
