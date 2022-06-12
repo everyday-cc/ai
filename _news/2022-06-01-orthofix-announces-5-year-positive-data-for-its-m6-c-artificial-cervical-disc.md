@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.massdevice.com/wp-content/uploads/2022/05/Orthofix-M6-C-artificial-cervical-disc.jpg"

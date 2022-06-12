@@ -43,22 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Enemies Waymo, Uber now friends making self-driving-ish trucks for US highways"
-    excerpt: "Waymo and Uber announced on Tuesday a \"long-term strategic partnership\" promising to work together to deploy autonomous freight trucks on US roads, years after both companies fought bitterly over self-driving technology."
-    publishedDateTime: 2022-06-07T23:56:00Z
-    webUrl: "https://www.theregister.com/2022/06/07/waymo_uber_trucks/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/06/07/waymo_uber_trucks/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/07/waymo_uber_trucks/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 55
-    images:
-      - url: "https://regmedia.co.uk/2022/06/07/waymo.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
     excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."
     publishedDateTime: 2022-06-08T18:32:00Z

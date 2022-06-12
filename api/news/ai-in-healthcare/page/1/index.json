@@ -196,6 +196,92 @@
       ]
     },
     {
+      "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research.md",
+      "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research",
+      "excerpt": "Thermo Fisher Scientific Inc. is showcasing new instruments, workflows, software and industry collaborations that enable customers to generate new analytical insights and accelerate next generation vaccine and therapy development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/vaccines/product-news/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268",
+      "originalUrl": "https://www.technologynetworks.com/vaccines/product-news/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/362268/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268-480x270.jpg?cb=11797389",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking-deeper-analytical-insights.md",
+      "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research and Unlocking Deeper Analytical Insights",
+      "excerpt": "For proteomic scientists, Thermo Scientific Proteome Discoverer 3.0 software interprets data from Thermo Scientific Orbitrap mass spectrometers and applies artificial intelligence (AI), giving researchers a faster method to identify and analyze billions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking/article_e05cd7a9-d5ba-5112-8d8a-523669037733.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking/article_e05cd7a9-d5ba-5112-8d8a-523669037733.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong.md",
       "title": "People are entering relationships with AI…but pop culture’s view is all wrong",
       "excerpt": "AI is new, and its ability to help humans is promising. But if all you know about AI is from Hollywood, you should think again.",
@@ -420,6 +506,49 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy.md",
+      "title": "MCRI launches new study regarding the Apple Watch’s ECG app for children in cancer therapy",
+      "excerpt": "Murdoch Children’s Research Institute in Australia is launching a study to validate Apple Watch’s ECG application in children during and after cancer therapy, according to MyHealthyApple. Murdoch Chil",
+      "sourceUrl": null,
+      "webUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
+      "originalUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mactech.com/wp-content/uploads/2022/06/Apple-Watch-ECG-883x1024.jpg",
+          "width": 883,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
+      "publishedDateTime": "2022-06-02T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacTech",
+        "domain": "mactech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1069,6 +1198,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-31-cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria.md",
+      "title": "Cutting-edge gene therapy arrive in Hungary too - Interview with the CEO of Novartis Hungária",
+      "excerpt": "Although gene therapy falls into the category of science fiction for many, gene therapy is already present and can have an extraordinary effect in patient treatment, said Matt Zeller, CEO of Novartis Hungária,",
+      "sourceUrl": null,
+      "webUrl": "https://www.portfolio.hu/en/economy/20220531/cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria-547965",
+      "originalUrl": "https://www.portfolio.hu/en/economy/20220531/cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria-547965",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.portfolio.hu/articles/images-xl/m/a/t/matt-zeller-novartis-533893.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portfolio",
+        "domain": "portfolio.hu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world.md",
       "title": "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World",
       "excerpt": "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats.",
@@ -1163,180 +1335,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-artificial-intelligence-a-gift-for-healthcare.md",
-      "title": "Artificial Intelligence: A gift for healthcare",
-      "excerpt": "From diagnosis to treatment, from prevention to therapeutics, artificial intelligence has made many things possible which had been unachievable before.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-91880419,width-1070,height-580,imgsize-156724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms",
-      "publishedDateTime": "2022-05-29T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group.md",
-      "title": "Artificial Intelligence in Insurance Market 2022 Report Covers Top Key Players Profiling – Allianz SE, Berkshire Hathaway, AXA, AIG, AIA Group Ltd,",
-      "excerpt": "The recent report on “Artificial Intelligence in Insurance Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/304946/technology/artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group-ltd/",
-      "originalUrl": "https://xaralite.com/304946/technology/artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group-ltd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://redskins101.com/wp-content/uploads/2022/05/116-1024x618.jpg",
-          "width": 1024,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-smarter-health-how-ai-is-transforming-health-care.md",
-      "title": "Smarter health: How AI is transforming health care",
-      "excerpt": "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
-      "originalUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWNO",
-        "domain": "wwno.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-general-intelligence-whats-behind-you.md",
-      "title": "Artificial General Intelligence: What's Behind You?",
-      "excerpt": "AGI is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628fa8b49fde0d3d854d8a2f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/amp/",
-      "publishedDateTime": "2022-05-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

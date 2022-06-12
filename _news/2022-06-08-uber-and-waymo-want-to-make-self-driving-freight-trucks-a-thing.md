@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enemies Waymo, Uber now friends making self-driving-ish trucks for US highways"
-    excerpt: "Waymo and Uber announced on Tuesday a \"long-term strategic partnership\" promising to work together to deploy autonomous freight trucks on US roads, years after both companies fought bitterly over self-driving technology."
-    publishedDateTime: 2022-06-07T23:56:00Z
-    webUrl: "https://www.theregister.com/2022/06/07/waymo_uber_trucks/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/06/07/waymo_uber_trucks/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/07/waymo_uber_trucks/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 55
-    images:
-      - url: "https://regmedia.co.uk/2022/06/07/waymo.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "From enemies to partners: Uber, Waymo fought in court over self-driving trucks. Now they’re teaming up"
     excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. Here are the details."
     publishedDateTime: 2022-06-08T11:52:00Z

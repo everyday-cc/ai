@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-12-ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving.md",
+      "title": "AI Ethics And The Generational Transition From Digital Natives To AI Natives Growing Up Amidst Pervasive AI, Including Ubiquitous Self-Driving Cars",
+      "excerpt": "Some predict that we will gradually shift from digital natives to AI natives, doing so in an upcoming generation. This has significant societal impacts. We examine this and look at self-driving cars and how AI natives dovetail into the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629be2d0fe2639bdcecbc764/0x0.jpg?format=jpg&crop=1396,931,x252,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-06-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-11-is-tesla-backtracking-on-its-camera-only-autopilot-strategy.md",
       "title": "Is Tesla Backtracking On Its Camera-Only Autopilot Strategy?",
       "excerpt": "A Tesla Model Y was spotted in Canada with a LiDAR system integrated into its roof. Could there be a change coming to Tesla’s camera-only Tesla Vision plan?",
@@ -348,7 +402,7 @@
       "originalUrl": "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -372,6 +426,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up.md",
+      "title": "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up",
+      "excerpt": "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "originalUrl": "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "publishedDateTime": "2022-06-07T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1321,94 +1427,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
-      "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-how-artificial-intelligence-is-helping-to-measure-creative-effectiveness-in-marketing.md",
-      "title": "How artificial intelligence is helping to measure creative effectiveness in marketing",
-      "excerpt": "In marketing, 'creative impact' was once too subjective to measure. But with modern AI solutions, creative efforts can now be effectively analyzed. As part of The Drum's Creativity in Focus Deep Dive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
-      "originalUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-668177-the-drum-image-31653982470--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

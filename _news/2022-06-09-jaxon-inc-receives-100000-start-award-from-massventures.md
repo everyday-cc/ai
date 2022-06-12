@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Jaxon, Inc. Receives $100,000 START Award From MassVentures"
-excerpt: "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,"
-publishedDateTime: 2022-06-09T11:14:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3"
-webUrl: "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3"
+excerpt: "With “just enough” human supervision, auto-labeling, and configurable AutoML, models go from hypothesis to production-ready in days vs. months. Jaxon is one of the first to offer a “coding ..."
+publishedDateTime: 2022-06-09T11:01:00Z
+originalUrl: "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures"
+webUrl: "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Smoking-cigarettes-600x337.jpeg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "RKtZXyfGoXKvg4vPfckRSxyIfCObUXXHBagmXp69oYxMO0JhYRYy7rdynLOMoLW6fGYOynftbufWjukh98mi5QTwacRfZEbJQp+A9cIcJf0rL0H0z9Wq5RZ/ttucBvxGmHRl+omwwdDI5cj5CzcF4/JIyoH4yM0grNTjrKPhLIffBiYOsOCdsL1IKN3wq8X5Z3//y6hxTldh3T2oJm5FNhXzFqfVm9CO8EXAoAQ0SPhrNhMoqF3dAuWzMY/TxJd7IsbPB/9OZmQ7Ap6vNqFP2QKyUtEUs19QFZY9Ns7Dvin4fuXNAuOzLm2YmB3mnUrHoHYj/Amd5HvcBqlkJ4VnDU1GUE7q2OXy7dbcryWhVjw=;k5AOBCQxT76vvQH3bW4zBA=="
+secured: "xkE1HAToylPk8bal0fucsQODDRkBtGZmMZRwbEaL8EGC5WWTNXfutTIFsSD2abcCwb84/Vw83xYEJmrbDezoYiIUzR5dtPKxhI1QAHNaQ91xiqVrvfss1bc6OHCvKIrkZntt/Wz3zMXIp5MklxwUwAvleoS6k3j8oPNv2J/tufZ6MsZKC9CT80we9nHWR+hHsI56Yw78w2VfcE4InsJSgwbDwYCo7JhDkg4E7pKJLJV9i7yc+TqKHtNgE0hDVxTAWHSXdcScSYQoZXzuQ+YoR5kEMfmfQw7rX0JvzIiVzyyl3o2V23ImxIMRAaaCUmmAgDfFvG083vZI/qiEgbuR3f05sbx76LmP6yMkS32vrDc=;UcVWJrioO+mulQwzQSNGig=="
 ---
 

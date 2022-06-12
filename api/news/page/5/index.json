@@ -2,6 +2,94 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-07-how-artificial-intelligence-brings-new-superpowers-to-supercomputers.md",
+      "title": "How artificial intelligence brings new superpowers to supercomputers",
+      "excerpt": "Nvidia also detailed multiple case studies of how its HPC innovations are being used to help enable AI for nuclear fusion and brain health research. HPC is not just about the world’s fastest ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/",
+      "originalUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-supercomputer.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/",
+      "publishedDateTime": "2022-06-06T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs.md",
+      "title": "Tesla’s Robot Has Potential to be Revolutionary; Get Exposure With These 3 ETFs",
+      "excerpt": "News broke late last week that Tesla’s second Artificial Intelligence Day has been pushed back to September 30 as the firm may have a working Optimus prototype by then. Oppenheimer analyst Colin Rush told Nasdaq he sees Optimus generating economies of scale at Tesla,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs",
+      "originalUrl": "https://www.nasdaq.com/articles/teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs?amp",
+      "publishedDateTime": "2022-06-06T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-how-decision-intelligence-can-be-applied-to-automate-decision-making.md",
       "title": "How decision intelligence can be applied to automate decision-making",
       "excerpt": "Updates include integration with Jupyter data science notebooks to easily integrate data science projects and other custom code using Python and R, AutoML options to enable development of ML ...",
@@ -252,6 +340,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research.md",
+      "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research",
+      "excerpt": "Thermo Fisher Scientific Inc. is showcasing new instruments, workflows, software and industry collaborations that enable customers to generate new analytical insights and accelerate next generation vaccine and therapy development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/vaccines/product-news/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268",
+      "originalUrl": "https://www.technologynetworks.com/vaccines/product-news/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/362268/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268-480x270.jpg?cb=11797389",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-how-ai-helps-coca-cola-boost-supply-chain-procurement.md",
       "title": "How AI helps Coca-Cola boost supply chain procurement",
       "excerpt": "Artificial intelligence and machine learning tools have become indispensable in order to boost procurement and sourcing efforts at Coca-Cola and other enterprise companies.",
@@ -428,6 +559,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking-deeper-analytical-insights.md",
+      "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research and Unlocking Deeper Analytical Insights",
+      "excerpt": "For proteomic scientists, Thermo Scientific Proteome Discoverer 3.0 software interprets data from Thermo Scientific Orbitrap mass spectrometers and applies artificial intelligence (AI), giving researchers a faster method to identify and analyze billions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking/article_e05cd7a9-d5ba-5112-8d8a-523669037733.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking/article_e05cd7a9-d5ba-5112-8d8a-523669037733.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -982,186 +1156,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-plasma-nfl-linked-with-cognitive-processing-speed-in-relapsing-ms.md",
-      "title": "Plasma NfL Linked With Cognitive Processing Speed in Relapsing MS",
-      "excerpt": "Plasma neurofilament light (NfL) concentration was tied to cognitive scores in people with relapsing MS, data from the phase III SUNBEAM trial of ozanimod (Zeposia) suggested. A post hoc analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/99xxx/99068.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong.md",
-      "title": "People are entering relationships with AI…but pop culture’s view is all wrong",
-      "excerpt": "AI is new, and its ability to help humans is promising. But if all you know about AI is from Hollywood, you should think again.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/",
-      "originalUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-594827903.jpg?fit=800%2C403&strip=all",
-          "width": 799,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/",
-      "publishedDateTime": "2022-06-05T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-tiny-robotic-crab-is-smallest-ever-remote-controlled-robot.md",
-      "title": "Tiny robotic crab is smallest-ever remote-controlled robot",
-      "excerpt": "In a recent study published in Science Robotics, engineers at Northwestern University have developed the smallest-ever remote-controlled walking robot -- and it comes in the form of a tiny, adorable peekytoe crab. Because the beginning of the end of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2/amp",
-      "publishedDateTime": "2022-06-05T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-satellites-and-ai-can-help-solve-big-problemsif-given-the-chance.md",
-      "title": "Satellites and AI Can Help Solve Big Problems—If Given the Chance",
-      "excerpt": "Traditional hurdles stand in the way of ambitious plans to use imagery to help feed people, reduce poverty, and protect the planet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/",
-      "originalUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/629a411d034df35b6080c33c/master/pass/Satellite-AI-Solve-Big-Problems-Deforestation-Amazon-Brazil-Business-1318751110.jpg",
-          "width": 2400,
-          "height": 1697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/satellite-images-ai-solve-problems-governments/amp",
-      "publishedDateTime": "2022-06-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

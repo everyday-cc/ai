@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/customer-experience/whats-next-for-artificia
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/whats-next-for-artificial-intelligence-in-customer-experience/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

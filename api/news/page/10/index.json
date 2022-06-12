@@ -2,6 +2,223 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
+      "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
+      "excerpt": "Zeta Global (NYSE:ZETA), a cloud-based marketing technology company that empowers enterprises to acquire, grow, and retain customers more efficiently, today announced the company will expand its long-standing work with Amazon Web Services (AWS),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-049fca70057d43d39088e8fdb6309d0e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-049fca70057d43d39088e8fdb6309d0e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro.md",
+      "title": "Artificial Intelligence in Platform as a Service Market to Eyewitness Massive Growth by key players Rainbird AI, Azure, Wipro",
+      "excerpt": "Ample Market Research published a new research report Artificial Intelligence in Platform as a Service (PaaS) market contains a clear arrangement of the declared information as pie charts, follows, the line follows,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
+      "originalUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
+      "title": "Business travelers face higher prices, and packed flights, hotels",
+      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
+      "publishedDateTime": "2022-06-01T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-azure-active-directory-logs-are-lagging-alerts-may-be-wrong-or-missing.md",
+      "title": "Azure Active Directory logs are lagging, alerts may be wrong or missing",
+      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "publishedDateTime": "2022-06-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
+      "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
+      "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-5603-image001.png",
+          "width": 811,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:29:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game.md",
       "title": "Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game",
       "excerpt": "I was able to not only go under the hood of an Intel Arc Graphics reference platform laptop from one of its OEM partners, but I can also now share with you an extensive array of performance metrics as well.",
@@ -944,230 +1161,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-microsoft-dev-box-your-development-workstation-on-azure.md",
-      "title": "Microsoft Dev Box: Your development workstation on Azure",
-      "excerpt": "Build 2022 had a developer focus, with new tools to make it easier to write code in a world of hybrid work. Dev Box promises to make your development environments easier to manage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/15/10/it-as-a-product_boxes_glowing-box_binary_package-by-masterzphotois-getty-100798698-large-100924633-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
-      "publishedDateTime": "2022-06-01T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-how-artificial-intelligence-is-helping-to-measure-creative-effectiveness-in-marketing.md",
-      "title": "How artificial intelligence is helping to measure creative effectiveness in marketing",
-      "excerpt": "In marketing, 'creative impact' was once too subjective to measure. But with modern AI solutions, creative efforts can now be effectively analyzed. As part of The Drum's Creativity in Focus Deep Dive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
-      "originalUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-668177-the-drum-image-31653982470--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital.md",
-      "title": "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital",
-      "excerpt": "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/",
-      "originalUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/",
-      "publishedDateTime": "2022-06-01T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
-      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
-      "excerpt": "Performance targets were exceeded in machine learning and molecular dynamics, which are essential to advancing scientific research and discovery STUTTGART, Germany–(BUSINESS WIRE)–Inspur information, a leading IT infrastructure solutions provider, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/",
-      "originalUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/amp/",
-      "publishedDateTime": "2022-06-01T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-azure-nc-a100-v4-vms-for-ai-now-generally-available.md",
-      "title": "Azure NC A100 v4 VMs for AI now generally available",
-      "excerpt": "AI is revolutionizing the world we live in—from the way we entertain ourselves, to the products and services that we consume, to the way we care for our bodies, and how we go about our daily work. At Microsoft, our NC series virtual machines (VMs) allow our customers and partners access to almost limitless",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T01:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

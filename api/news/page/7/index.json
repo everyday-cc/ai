@@ -2,6 +2,198 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-04-new-nhtsa-data-on-self-driving-car-crashes-coming-this-month.md",
+      "title": "New NHTSA Data on Self-Driving Car Crashes Coming This Month",
+      "excerpt": "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4",
+      "originalUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-557184/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-us-shootings-firm-unveils-plans-for-taser-armed-drones.md",
+      "title": "US shootings: Firm unveils plans for Taser-armed drones",
+      "excerpt": "\"Reasonable minds can differ on the merits of police-controlled Taser-equipped drones - our own board disagreed internally - but we unanimously are concerned with the process Axon",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/516E/production/_125264802_gettyimages-1164948747.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-61685117.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-61685117.amp",
+      "publishedDateTime": "2022-06-03T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-train-machine-learning-models-using-amazon-keyspaces-as-a-data-source.md",
+      "title": "Train machine learning models using Amazon Keyspaces as a data source",
+      "excerpt": "Many applications meant for industrial equipment maintenance, trade monitoring, fleet management, and route optimization are built using open-source Cassandra APIs and drivers to process data at high speeds and low latency. Managing Cassandra tables yourself can be time consuming and expensive. Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-machine-learning-models-using-amazon-keyspaces-as-a-data-source/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-machine-learning-models-using-amazon-keyspaces-as-a-data-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T12:01:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly.md",
+      "title": "Improve organizational diversity, equity, and inclusion initiatives with Amazon Polly",
+      "excerpt": "Organizational diversity, equity and inclusion (DEI) initiatives are at the forefront of companies across the globe. By constructing inclusive spaces with individuals from diverse backgrounds and experiences, businesses can better represent our mutual societal needs and deliver on objectives. In the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T11:55:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing.md",
       "title": "Scythe Robotics CEO Jack Morrison discusses autonomous mowing",
       "excerpt": "This week, we talk to Scythe Robotics CEO and Co-founder Jack Morrison about the market for commercial autonomous mowers.",
@@ -968,187 +1160,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-get-started-with-speech-recognition.md",
-      "title": "Get Started With Speech Recognition",
-      "excerpt": "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
-      "originalUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
-      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
-      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
-          "width": 619,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
-      "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
-      "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/rebellions_ION-1.png?w=680",
-          "width": 680,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "publishedDateTime": "2022-06-02T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-lenovo-looks-to-bring-ai-intelligence-to-the-edge.md",
-      "title": "Lenovo looks to bring AI intelligence to the edge",
-      "excerpt": "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/",
-      "publishedDateTime": "2022-06-02T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
