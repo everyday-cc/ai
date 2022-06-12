@@ -2,7 +2,7 @@
 name: "FiveAI"
 overview: "FiveAI is developing the software to power shared, self-driving vehicle services in Europe."
 type: "profile"
-heat: 31
+heat: 32
 
 website: https://five.ai/
 
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Kza6RQ3vWT0"
 
-secured: "vy3AgaweZbU7/uKtFL2IS8BLWx4fi0wqF2dJ12ThUWpY8gvvt25O0l4f9oYyyf8wHP8zmaKMjnE40tW0yOjyN0Nfzw29BD5Edr7+d78DGwTwICsX25OE9psnyZIfrCdJQgj5BsYXz8gtZCV7bOkKNLbROyOghBdL6ZLIa38KSNcrS1LIV5u2iZaTx8yIWWa+2qIeS4azbTC6l39+G8QcM6IA61D3qqjtFh3yx9DJneB1RnxyFwkwZDjGyIk/y7uMaPoZ+OoNDqLdAw9lBMoXsLyZuECL0KarEAdCqHEEylriNWHXEiVYgqlymOMgoYKLpEDv/1mGxFNh6AkzPnF6lDUlj7PeysSta7Pa301+eRSatde24+Q0JB/PX95MRyUXA5zxINtUq6X4XK5nFBAW7SBOopDAgd9DJHrUBqGv2+Y=;kB1ugvODqD1XxETS6e45cQ=="
+secured: "K26hAaYLIXT9/dUlU7j4iMQQKJ1QPN7oW7e9DVSPZVwUePbz8vbUz/Cta7kwN3KRJ8gV0PZYX+Q2dVvYTg70S8H1WQomG4MTib5sGGBd/36EtofU3867f4vuc5Phk63swlvpOvrCLA3X5H5ReXd3gI7XqxnH2qqshiJa0NKCpI3YrQAyAFGPzGY4RCfTenii0zqmCXN68enZfLo3vpNVB5pn0VNi2nroVEq7skBB9sFXwaLmpj+rxXPAKD6sxtO8PyQKDFtH4S29jBGKtq+oaaZWmua3LIKWvl7lX7nJy53htBDjF1f9hUnFfh+KQg2JXk6JABJspyzDXDuszxN7P4nqCB6AEFjFockmxP6IHotlc5xbG9Pcu4ZMO0em/jmAqVZdj0BSPfc1lAQSLWPvBTwHEjwaQ0deZsfWXz1Yd5c=;yZ7oJFbAaSgQN7VMkE72vw=="
 ---
 

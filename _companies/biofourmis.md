@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 41
+heat: 64
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "5iZyowuqlrZPKdt6gWaSQ9OeXa63DE9No75s97DCXjen7dZ0deIHPnvQNQQYU6N7epzxGU95IGJDFHDIGWIxEm/Yrpa+Tlk1QRPQeWVlsI4QpmhvBvaSwllxQo5QUHEFrhzshIhTLVHs0/MYtZK2lekX6Aly0645qrwC0vk0PBpMbs3JwKdLekwwaN6r1Kt2gRTmBGRLtX+npqOUnCGQzRaSE+CYxXg/yeTQnkNlj7UxifrTxeKEr2XXWZHmTFXDitZG51omWEtS8vZqJxkUiKpqE8UsgSEbZQx0uO+7KLFUZcFCcOIZGWTjSpXGVVJjeuwhk0WDArCdIVabnBPF2xQO6DNx6YqlJGKlojSxnF/b8M9SnqP9sAU/lWJWQQwzyczlEadKaykdZnLEAp4SjapbILBGHH5ZnxA/ve6cF64=;hyDABrOmZ2QcG+9SaL+bfQ=="
+secured: "mxQSGgH/rtNG5mQ7yY3c7oEWe+7mT9u2Q8dl103Lqeke+GUBuAmGUSelaMo8Ck2tqpv2EIIzGQrtUtewb34YiAsLoemahWAMV2jZx1KgSdKNSV95r82b9tVOHrkepXTOm5xVgO0rY3kRWushsiqxsaIliu7a6ZkiapuaC9OiU0IBhbvvjv2CbzahBarct/WBDwxI1S48q7dPb16wjd0Q3bYgAIWQotiIy0T1+J0BHTyvyJU3Wh1Rp/MA4ADShtKCQkaqAnEVZG0ZeU6x2LxXYBocsmTuIQDhoCLHLnfdg0gJYxr0+Af2E/+oHYtM8rVNeRfPVEyChKMHiay6ctrYhezOM3AJPEgD3QaBGLrIpIqDpHFSYfN3msuehWUPhoTgrdzqR9uNRRcZ2qL5H8kYesSMjXPlr4sIwvXiVqiC/pk=;mGvDO4O+gqwyHbSze8pMng=="
 ---
 

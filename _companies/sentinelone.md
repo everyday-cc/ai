@@ -2,7 +2,7 @@
 name: "SentinelOne"
 overview: "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection."
 type: "profile"
-heat: 138
+heat: 71
 
 website: https://www.sentinelone.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "BYx4kz8WZ70AcV72EKrou+ac7kyymNI69pnpkryg5CrbLrLCuO2GciOraQZlS91lYXo1ZIrZIZ/A1lrt2vg2fRxyqcBJw440iTHyyySKeAAEtIcK+xFaHhVJiI7z8iKJzq4yPAsOF5iOjB63NW8qlVKa/dPq1x1onjzq+vNki0DOIAZHq5WRmM71hIDfDhPshfEUJT4ynVueTt1YIWEnCYIr5C8mfDEV4UBuMMhibRMC4WgSsjDEDlKhRoI5ttqWMbgD+w/Om3F28lOuktImUO7b1XdurixXItTyKfF+aYc5RwGGhradnO/Q3QYJmgufGH8WuT1uEhwEFd078bfw1uowzi7rnjHTlMiuYa3UjoPjGkdGZulwtITZyfJG2t30EwR5/zvhgW8C62EmrrJHsHk++DAcQd94Qn0sw/eq/Os=;Dt5fW29Fz2qAkYPtbvkUKw=="
+secured: "IVm/nDjuvYs/aEj7mLZMgHHDSUGKubb9D8XK0AYCezV8uOAahGXYf0PTYv3RZFOOWOf1eo/Bxi0XzqEynzbUH5wun5iEYewhYNuiXUj1lY7uFMZLETNAm1UA3Y/0eFW1gd4LpH0A5PENXM6hpE1LBDAcJazYjpc4vtBC5gRe7dZQGFHXFf0c3r4fNDkZZsUoZ1W0v+bw2ixh1X4wcOs0m8K/2JyQo1yvU7NlbD/0cixPCzQLEzTrnT5JtlrEbYMznJOZuO1Rcvzbb5oNXJgzVLWXBnu43aUkAMK4e5uNnvmxY2WUnkaCUbCEypa3mINuKpwFo0/6nSE2ZhCqmTdXNAWPu3T1g2oVmzcIb782+6kXkUYKOJ/DZx/FQF+cNxJrkslc7UrSFAV/pmGP8Jd9l+6ZKqFz2KLheQ2+PwJ0bGM=;6P/gn3aGGlEQodYIh6EnXw=="
 ---
 
