@@ -2,6 +2,101 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-03-17-self-driving-lab-speeds-up-research-synthesis-of-energy-materials.md",
+      "title": "'Self-driving' lab speeds up research, synthesis of energy materials",
+      "excerpt": "Researchers have developed and demonstrated a 'self-driving lab' that uses artificial intelligence and fluidic systems to advance our understanding of metal halide perovskite nanocrystals. This self-driving lab can also be used to investigate a broad array of other semiconductor and metallic nanomaterials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220316115023.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220316115023.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-quadric-nabs-21m-to-accelerate-production-of-its-ai-edge-chips.md",
+      "title": "Quadric nabs $21M to accelerate production of its AI edge chips",
+      "excerpt": "Quadric, a startup developing chips for AI workloads at the edge, has raised $21 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/16/quadric-nabs-21m-to-accelerate-production-of-its-ai-edge-chips/",
+      "originalUrl": "https://venturebeat.com/2022/03/16/quadric-nabs-21m-to-accelerate-production-of-its-ai-edge-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-172252776.jpg?fit=750%2C484&#038;strip=all",
+          "width": 749,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-elliq-companion-robot-for-aging-adults-hits-market.md",
       "title": "ElliQ companion robot for aging adults hits market",
       "excerpt": "ElliQ is designed to alleviate the effects of loneliness or social isolation and connect users to their families and caregivers.",
@@ -1006,93 +1101,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance.md",
-      "title": "Natural Language Processing for Finance Market See Huge Growth for New Normal | Bloomberg, Yahoo, Google Finance",
-      "excerpt": "Mar 16, 2022 (Heraldkeepers) -- Natural Language Processing for Finance Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance-2022-03-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance-2022-03-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-israeli-neuroscientists-use-artificial-intelligence-to-reassess-studies-on-consciousness.md",
-      "title": "Israeli neuroscientists use artificial intelligence to reassess studies on consciousness",
-      "excerpt": "Israeli neuroscientists reexamine hundreds of contradictory experiments on the connection between neural activity and consciousness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.israelnationalnews.com/news/324067",
-      "originalUrl": "https://www.israelnationalnews.com/news/324067",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arutz Sheva",
-        "domain": "israelnationalnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

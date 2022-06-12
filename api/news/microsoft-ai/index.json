@@ -333,6 +333,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-06-bumrungrad-launches-radiology-ai-assisting-radiologists-in-analyzing-locating-abnormalities-in-the-lungs-and-detecting-breast-cancer.md",
+      "title": "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer.",
+      "excerpt": "At present, Artificial intelligence (AI) has attracted global interest because it can analyze large amounts of data to revolutionize businesses and industries, especially in the medical sciences. Further,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ryt9.com/en/prg/258881",
+      "originalUrl": "https://www.ryt9.com/en/prg/258881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ryt9.com/img/files/20220606/iqd2f93359617c9fd89d7e6628834b8968.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-05T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RYT9",
+        "domain": "ryt9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
       "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
       "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
@@ -720,6 +763,49 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-azure-active-directory-logs-are-lagging-alerts-may-be-wrong-or-missing.md",
+      "title": "Azure Active Directory logs are lagging, alerts may be wrong or missing",
+      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "publishedDateTime": "2022-06-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1187,93 +1273,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation.md",
-      "title": "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation",
-      "excerpt": "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
-      "publishedDateTime": "2022-05-27T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-how-microsoft-plans-to-improve-the-low-code-landscape.md",
-      "title": "How Microsoft plans to improve the low-code landscape",
-      "excerpt": "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/",
-      "publishedDateTime": "2022-05-26T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

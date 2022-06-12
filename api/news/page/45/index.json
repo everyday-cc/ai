@@ -2,6 +2,92 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-05-03-can-artificial-intelligence-help-fight-western-wildfires.md",
+      "title": "Can Artificial Intelligence Help Fight Western Wildfires?",
+      "excerpt": "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
+      "originalUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/bd7f643/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F29%2F8eabf0f5fb605508abbc28c7f04c%2Fshutterstock-2189586432.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
+      "publishedDateTime": "2022-05-03T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach-to-the-design-of-chips-for-high-performance-computing-applications.md",
+      "title": "Joe Costello, ex-CEO of Cadence joined Anari AI: “There must be a new approach to the design of chips for high-performance computing applications”",
+      "excerpt": "Joe Costello, ex-CEO of Cadence, joined Anari AI in the Board Advisor position to empower the wind of change in the hardware AI industry. Anari AI is a startup delivering the next-generation platform for computation to provide companies with personalized AI Systems accessible in one click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
+      "originalUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/3f/23f39291-cd74-541b-b0d9-4a1e2f0e5387/6271530a5dcff.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-galileo-emerges-from-stealth-to-streamline-ai-model-development.md",
       "title": "Galileo emerges from stealth to streamline AI model development",
       "excerpt": "As the use of AI becomes more common throughout the enterprise, the demand for products that make it easier to inspect, discover and fix critical AI errors is increasing. After all, AI is costly ...",
@@ -1043,101 +1129,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs.md",
-      "title": "AI Visionary And Innovation Leader Sumaya Al Hajeri Of The UAE AI Office May Be Exactly What This World Needs.",
-      "excerpt": "I teach how to stand up and walk again after a fall.” For my final interview with The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I had the privilege of speaking with Sumaya Al Hajeri. She is an executive professional in the field of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626ef52e2100d83a26834a2a/0x0.jpg?format=jpg&crop=828,466,x0,y115,safe&width=1200",
-          "width": 828,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/",
-      "publishedDateTime": "2022-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
-      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
-      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics, artificial intelligence, and healthcare technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
-      "originalUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

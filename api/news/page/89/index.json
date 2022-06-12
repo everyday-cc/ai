@@ -2,6 +2,105 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
+      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
+      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "publishedDateTime": "2022-03-27T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Google AI",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-sygno-joins-ing-labs-2022-programme.md",
+      "title": "Sygno joins ING Labs 2022 programme",
+      "excerpt": "Sygno, provider of Automated Machine Learning (AutoML) transaction monitoring models, has joined the most recent cohort of scale-ups that will enter the ING Labs 2022 Programme. During the 2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/92043/sygno-joins-ing-labs-2022-programme",
+      "originalUrl": "https://www.finextra.com/pressarticle/92043/sygno-joins-ing-labs-2022-programme",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-what-do-sae-automated-driving-levels-mean-anyway.md",
       "title": "What Do SAE Automated Driving Levels Mean Anyway?",
       "excerpt": "Waymo! This is why YouTube is clogged with horrifying videos ... Related: Think You Could Win an Autonomous Car Race on an Artificial Intelligence Controlled Course? “This has the implication that the higher the level, then the better, or more advanced ...",
@@ -1075,101 +1174,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-medical-revolution-ai-firm-weiyun-ai-robotics-group-launches-orthodontic-smart-alignment-system-venus-10.md",
-      "title": "Medical Revolution: AI Firm WEIYUN AI & Robotics Group Launches Orthodontic Smart Alignment System Venus 1.0",
-      "excerpt": "Recently, the leading surgical robotic and AI customerized industrial Internet company - Weiyun AI&Robotics Group has successfully developed AI SMILE Orthodontic Smart Alignment System named Venus 1.0,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-chinas-latest-brainwave-controlling-space-robots-using-mind-power.md",
-      "title": "China’s latest brainwave? Controlling space robots using mind power",
-      "excerpt": "A device that can be controlled by a user’s brain has achieved unprecedented accuracy in tests and could be used at the Chinese space station, scientists say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/25/ed9c6cc4-01e6-4c1b-86b0-38139667623d_72a3c279.jpg?itok=hLxpK9b5&v=1648220192",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "publishedDateTime": "2022-03-25T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

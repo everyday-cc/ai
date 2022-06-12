@@ -578,50 +578,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-04-artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care.md",
-      "title": "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care",
-      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered by artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-06-04-artificial-intelligence-spotted-inventing-its-own-creepy-language.md",
       "title": "Artificial intelligence spotted inventing its own creepy language",
       "excerpt": "An artificial intelligence program has developed its own language and no one can understand it. OpenAI is an artificial intelligence systems developer – their programs are fantastic examples of super-computing but there are quirks.",
@@ -1400,6 +1356,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-deere-co-taps-into-technology-to-drive-revenue-growth-julian-sanchez-and-joshua-jepsen-discuss.md",
+      "title": "Deere & Co Taps Into Technology to Drive Revenue Growth; Julian Sanchez and Joshua Jepsen Discuss",
+      "excerpt": "BONDURANT, IA - As technological advancements continue to drive agricultural development, Deere & Co is tapping into the sector to meet demand and up its revenue growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.andnowuknow.com/behind-greens/deere-tapping-technology-drive-revenue-growth-julian-sanchez-and-joshua-jepsen/melissa-de-leon-chavez/78665",
+      "originalUrl": "https://www.andnowuknow.com/behind-greens/deere-tapping-technology-drive-revenue-growth-julian-sanchez-and-joshua-jepsen/melissa-de-leon-chavez/78665",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "And Now U Know",
+        "domain": "andnowuknow.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

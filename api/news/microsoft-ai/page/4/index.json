@@ -2,6 +2,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-06-global-healthcare-cognitive-computing-market-2022-to-2027-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarketscom.md",
+      "title": "Global Healthcare Cognitive Computing Market (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com",
+      "excerpt": "The \"Healthcare Cognitive Computing Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/global-healthcare-cognitive-computing-market-2022-to-2027---industry-trends-share-size-growth/article_1e81917d-e796-5a39-b2a5-291b713d8120.html",
+      "originalUrl": "https://www.eagletribune.com/region/global-healthcare-cognitive-computing-market-2022-to-2027---industry-trends-share-size-growth/article_1e81917d-e796-5a39-b2a5-291b713d8120.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-aws-allows-a-lenovo-server-to-play-in-its-on-prem-ai-video-cloud.md",
+      "title": "AWS allows a Lenovo server to play in its on-prem AI video cloud",
+      "excerpt": "Amazon Web Services has allowed a third-party hardware offering into its universe, with a Lenovo server dedicated to video analytics scoring the gig. To understand why AWS has endorsed third-party hardware we need to revisit the 2020 re:invent conference,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
+      "originalUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/05/06/supplied_lenovo_thinkedge_se70.jpg",
+          "width": 1201,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
+      "publishedDateTime": "2022-05-06T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
       "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
       "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
@@ -1302,83 +1390,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings.md",
-      "title": "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?",
-      "excerpt": "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
-      "originalUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
-      "publishedDateTime": "2022-04-25T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-cast-ai-puts-out-report-on-extent-of-enterprises-cloud-resource-overspend.md",
-      "title": "CAST AI puts out report on extent of enterprises cloud resource overspend",
-      "excerpt": "A report from cloud startup CAST AI claims companies running cloud-native applications typically spend three times as much as they need on resources because of over-provisioning. The startup, which hopes to convince users to consider its platform as a way to control the problem,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/01/20/shutterstock_cluster.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
-      "publishedDateTime": "2022-04-25T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -741,33 +741,24 @@
     {
       "path": "_news/2022-06-07-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1.md",
       "title": "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1",
-      "excerpt": "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (“AMPD” or the “Company”), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc.",
+      "excerpt": "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (\"AMPD\" or the \"Company\"), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-6-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-6-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T14:01:00-07:00",
+      "publishedDateTime": "2022-06-06T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1006,15 +997,15 @@
       "title": "AI and machine learning are improving weather forecasts, but they won't replace human experts",
       "excerpt": "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people.",
       "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_a7427956-ba01-5994-970f-f0fcb6bdbd51.html",
-      "originalUrl": "https://buffalonews.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_a7427956-ba01-5994-970f-f0fcb6bdbd51.html",
+      "webUrl": "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html",
+      "originalUrl": "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/74/a7427956-ba01-5994-970f-f0fcb6bdbd51/6296858da77c0.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/f7/cf7aed5c-6eb0-5685-8758-e9106031199e/6296857066ee0.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize",
           "width": 606,
           "height": 318,
           "title": null,
@@ -1029,8 +1020,8 @@
       "publishedDateTime": "2022-06-03T18:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
         "images": null,
         "publishers": null,
         "authors": null

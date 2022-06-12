@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience"
-publishedDateTime: 2022-06-07T17:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
-webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
+excerpt: "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ..."
+publishedDateTime: 2022-06-07T17:23:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html"
 type: article
-quality: 47
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI
   - Natural Language Processing
-  - Facebook AI
+  - AI
 
 related:
   - title: "Snorkel AI Named a 2022 Gartner® Cool Vendor"
@@ -59,6 +54,6 @@ related:
       domain: galvnews.com
     quality: 17
 
-secured: "M1JBOlkKPeUYZkrhAGKYa0BuCetc8n3Z4xTZBllx4jiO2nnyANPHXDeZSCzdEF4ktmVrz+AlTyITChGiywthAMnKpm0o3O0bNTob66DJT+x5gV2KMu5gJtNopT3jHXJ/iVtQ9HgZDXQWQ1Fr4DiEoG9pu/SJ0/ZiSyOptVP/Py+471Vx4GGztQ8062tYMaM0rbebpp4wGim+UalciCcHPiuy9npfGvGzpQoa1Skrvw3cc4retOYRh0qmVNGjyxYyNVnhHZKB4EVR0nEGT/UnD1IAqRa+siE7tBRbqWuddPJUkVYKKS5CKdr6pv5a1doHfg137L1xj/EhjoCDhpTIOLVpwZcFuWJIuy9Fv0RuDxg/AC+IZv47bSqynmwK5GMr22g4StEKZd5ut5U3M7jtU2O6JFA5HMYXngDcGBN7LIlDvQ8LN3hLQ4Qt15Y8scefLJKjawQUhoBGekp1NSIKRN5Ab4jFldDkZpAIlyJySB5Oj82anKd1F1NaAuE/P0bDHl+VF6y04ylEow3gG/UZ4Q==;QV0H6utyt19mYXRpUA2aLg=="
+secured: "stt7yBg7bGle8Rum/u8Wdde+CwNE4vsYLJRzdWABIKTDEX72yz96Uze41gj1fOtQYbKG9vVMSxcywA89ZcORT7/7usvPV5myrI8kMpwXDG56N/V16rPupjyluGEDAUvjvVfj3gJFkhAQH10qUonQ8b890YplYrWn55DiP10oPWUzWUpMHNnhl8FLyPoY/7qa45XwBHpNap1gJHIi2a/U44dJXvmdympUY+eVFqXCDZNxIVbLqi9GWIks10QqvId2P74qrPmf9CJpUal+YyI6zDelUT9gzQ6rwyvRGavisAgenn8RG7DoUQ3ieDVtyKJyvgLDNbYg2JzEUMJk+reT03VME6+WpJ5OgMCqSBYuF6Q=;Kbn9UHM405FGcRlQBw0NQA=="
 ---
 

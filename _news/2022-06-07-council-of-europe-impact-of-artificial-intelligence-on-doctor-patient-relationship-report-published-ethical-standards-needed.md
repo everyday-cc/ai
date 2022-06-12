@@ -7,7 +7,7 @@ originalUrl: "https://www.agensir.it/quotidiano/2022/6/7/council-of-europe-impac
 webUrl: "https://www.agensir.it/quotidiano/2022/6/7/council-of-europe-impact-of-artificial-intelligence-on-doctor-patient-relationship-report-published-ethical-standards-needed/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New report on the impact of artificial intelligence on the doctor-patient relationship"
-    excerpt: "The Council of Europe’s Steering Committee for Human Rights in the fields of Biomedicine and Health (CDBIO) has issued a new report on the impact of artificial intelligence on the doctor-patient relationship."
-    publishedDateTime: 2022-06-07T09:00:00Z
-    webUrl: "https://www.coe.int/en/web/portal/-/new-report-on-the-impact-of-artificial-intelligence-on-the-doctor-patient-relationship"
-    type: article
-    provider:
-      name: Council of Europe
-      domain: coe.int
-    quality: 31
-    images:
-      - url: "https://www.coe.int:443/documents/16695/12072260/20220607-medecine.jpg/1c81ba23-9da3-4644-5c62-5c6738114e42?t=1654591165000"
-        width: 870
-        height: 489
-        isCached: true
   - title: "AI standards essential to protect doctor-patient relationships and human rights"
     excerpt: "Clear ethical standards and guidance must be in place for use of Artificial Intelligence in health settings to protect the relationship of trust between doctors and patients and to safeguard human rights,"
     publishedDateTime: 2022-06-07T12:46:00Z

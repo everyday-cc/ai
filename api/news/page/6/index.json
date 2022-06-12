@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-06-04-artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care.md",
-      "title": "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care",
-      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered by artificial intelligence (AI),",
+      "path": "_news/2022-06-04-mumbai-based-fintech-kiyaai-launches-indias-first-banking-metaverse-kiyaverse.md",
+      "title": "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’",
+      "excerpt": "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff",
+      "webUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "originalUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T08:05:00-07:00",
+      "ampWebUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "publishedDateTime": "2022-06-04T08:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "inc42.com",
+        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,51 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care.md",
+      "title": "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care",
+      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27555974",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27555974",
+      "publishedDateTime": "2022-06-04T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -181,15 +223,15 @@
       "title": "AI and machine learning are improving weather forecasts, but they won't replace human experts",
       "excerpt": "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people.",
       "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_a7427956-ba01-5994-970f-f0fcb6bdbd51.html",
-      "originalUrl": "https://buffalonews.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_a7427956-ba01-5994-970f-f0fcb6bdbd51.html",
+      "webUrl": "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html",
+      "originalUrl": "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/74/a7427956-ba01-5994-970f-f0fcb6bdbd51/6296858da77c0.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/f7/cf7aed5c-6eb0-5685-8758-e9106031199e/6296857066ee0.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize",
           "width": 606,
           "height": 318,
           "title": null,
@@ -204,8 +246,8 @@
       "publishedDateTime": "2022-06-03T18:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1120,49 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier.md",
-      "title": "Vinith Misra: How can our relationships with computers be funnier and friendlier?",
-      "excerpt": "Artificial intelligence and people often struggle to ... Previously, he worked at Netflix and IBM Watson. He's received the Stanford Graduate Fellowship, the National Science and Defense Graduate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.northcountrypublicradio.org/news/npr/1102642165/vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier",
-      "originalUrl": "https://www.northcountrypublicradio.org/news/npr/1102642165/vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2022/06/02/vinithmisra_2015s-embed-963f8e619ec6f866cd02a5fbd507b7cdf3754a9d.jpg?s=6",
-          "width": 948,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northcountrypublicradio.org",
-        "domain": "northcountrypublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

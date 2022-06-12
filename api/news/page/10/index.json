@@ -2,6 +2,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-01-standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research.md",
+      "title": "Standigm Signs MOU with Merck Korea for AI drug Discovery Research",
+      "excerpt": "Merck's retrosynthesis AI software 'SYNTHIA™ retrosynthesis software' accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 9,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
+      "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
+      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
+          "width": 800,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-can-video-games-boost-kids-cognitive-development.md",
       "title": "Can video games boost kids' cognitive development?",
       "excerpt": "Researchers have found that children between the ages of 8 and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video games ...",
@@ -995,102 +1082,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-self-driving-cars-to-be-tested-at-boca-raton-innovation-campus.md",
-      "title": "Self-driving cars to be tested at Boca Raton Innovation Campus",
-      "excerpt": "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus",
-      "originalUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/842/2fbf8a5e953e4a01960f2f5161cc4953/842bd12b85384a098ef07b66a1d5a77e/poster_59ad2966ce3a4100afb888e2f6338a3a.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus?_amp=true",
-      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus?_amp=true",
-      "publishedDateTime": "2022-05-31T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPTV",
-        "domain": "wptv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tensorflow-now-defaults-to-intel-onednn-ai-optimizations.md",
-      "title": "TensorFlow now defaults to Intel oneDNN AI optimizations",
-      "excerpt": "OneDNN is an open-source cross-platform library intended for devs of deep learning applications and frameworks such as TensorFlow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "originalUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "publishedDateTime": "2022-05-31T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

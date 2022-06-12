@@ -2,6 +2,110 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-04-26-as-supply-chains-tighten-logistics-must-optimize-with-ai.md",
+      "title": "As supply chains tighten, logistics must optimize with AI",
+      "excerpt": "Artificial intelligence (AI) is quickly making its way into every supply chain logistics link – from demand forecast to robot delivery and route optimization in the last mile – to meet today ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341282481.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/amp/",
+      "publishedDateTime": "2022-04-25T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-speech-and-voice-recognition-market-worth-usd-283-billion-by-2026-fortune-business-insights-research.md",
+      "title": "Speech and Voice Recognition Market Worth USD 28.3 Billion by 2026 | Fortune Business Insights Research",
+      "excerpt": "Apr 26, 2022 (The Expresswire) -- Speech and Voice Recognition Market Size, Share and Industry Analysis, By Component (Solution, Services), By Technology (Voice Recognition, Speech Recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-worth-usd-283-billion-by-2026-fortune-business-insights-research-2022-04-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-worth-usd-283-billion-by-2026-fortune-business-insights-research-2022-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-six-robotics-pioneers-win-2022-engelberger-awards.md",
       "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
       "excerpt": "Automation industry’s most prestigious honor to be presented to three at Automate 2022 in Detroit on June 8 and three at Automatica in Munich June 20 ANN",
@@ -995,101 +1099,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive.md",
-      "title": "Web3 startup Internxt, valued at $40M aims to compete with Google Drive",
-      "excerpt": "Valencia, Spain-based startup, Internxt, is building distributed internet services for Web3, designed to compete with those currently provided by Google, Microsoft and Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/",
-      "originalUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/web3.jpg?fit=800%2C431&strip=all",
-          "width": 800,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/amp/",
-      "publishedDateTime": "2022-04-25T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-healthcare-natural-language-processing-market-is.md",
-      "title": "Healthcare Natural Language Processing Market Is...",
-      "excerpt": "Companies Profiled in Healthcare Natural Language Processing Market are Apple Inc, NLP Technologies, NEC Corporation, Microsoft Corporation, IBM Corporation NEWARK, N.J., April 25, 2022 (GLOBE NEWSWIR",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26788209/healthcare-natural-language-processing-market-is-set-to-expand-at-a-cagr-of-16-7-to-reach-us-14-6-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26788209/healthcare-natural-language-processing-market-is-set-to-expand-at-a-cagr-of-16-7-to-reach-us-14-6-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26788209",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26788209",
-      "publishedDateTime": "2022-04-25T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

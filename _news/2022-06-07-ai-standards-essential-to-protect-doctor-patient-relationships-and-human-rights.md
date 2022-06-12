@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New report on the impact of artificial intelligence on the doctor-patient relationship"
-    excerpt: "The Council of Europe’s Steering Committee for Human Rights in the fields of Biomedicine and Health (CDBIO) has issued a new report on the impact of artificial intelligence on the doctor-patient relationship."
-    publishedDateTime: 2022-06-07T09:00:00Z
-    webUrl: "https://www.coe.int/en/web/portal/-/new-report-on-the-impact-of-artificial-intelligence-on-the-doctor-patient-relationship"
-    type: article
-    provider:
-      name: Council of Europe
-      domain: coe.int
-    quality: 31
-    images:
-      - url: "https://www.coe.int:443/documents/16695/12072260/20220607-medecine.jpg/1c81ba23-9da3-4644-5c62-5c6738114e42?t=1654591165000"
-        width: 870
-        height: 489
-        isCached: true
   - title: "Council of Europe: “Impact of artificial intelligence on doctor-patient relationship”, report published. Ethical standards needed"
     excerpt: "The impact of artificial intelligence (AI) on the doctor-patient relationship is the focus of the report published today by the Council of Europe's Steering Committee for Human Rights in the fields of Biomedicine and Health (CDBIO)."
     publishedDateTime: 2022-06-07T14:11:00Z

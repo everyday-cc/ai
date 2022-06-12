@@ -2,6 +2,109 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-05-10-proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform.md",
+      "title": "ProteanTecs gets $45M to strengthen its AI-enabled chip analytics platform",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-172252776.jpg?fit=800%2C517&strip=all",
+          "width": 800,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/",
+      "publishedDateTime": "2022-05-10T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-salesforce-acquires-troopsai-to-make-useful-slack-bots.md",
+      "title": "Salesforce acquires Troops.ai to make useful Slack bots",
+      "excerpt": "Salesforce has acquired Troops.ai, a startup developing a Slack bot to push and pull customer relationship management data across Salesforce software.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1231356109.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/amp/",
+      "publishedDateTime": "2022-05-10T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech.md",
       "title": "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech",
       "excerpt": "The team used SAS Viya ® software running on Microsoft Azure cloud platform. The combination of AI in the cloud gives Hackathon teams – and businesses, government agencies and universities ...",
@@ -1052,100 +1155,6 @@
         "AI",
         "AI in Sales",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-the-three-way-race-for-gpu-dominance-in-the-data-centre.md",
-      "title": "The three-way race for GPU dominance in the data centre",
-      "excerpt": "The modern graphics processing unit (GPU) started out as an accelerator for Windows video games, but over the last 20 years has morphed into an enterprise server processor for high-performance computing and artificial intelligence (AI) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
-      "originalUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nvidia_amd_intel.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai.md",
-      "title": "Seadronix aims to reduce marine accidents at port and sea with AI",
-      "excerpt": "The company just secured a $5.8 million Series A extension to scale its AI-based ship berthing monitoring and navigation systems to help cargo ships navigate safely and assist port operators anchoring their vehicles at harbor.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/",
-      "originalUrl": "https://techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/service-image_Seadronix.png?w=1024",
-          "width": 1023,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/amp/",
-      "publishedDateTime": "2022-05-09T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
