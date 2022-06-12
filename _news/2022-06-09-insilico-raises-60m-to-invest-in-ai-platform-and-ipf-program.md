@@ -40,20 +40,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI company Insilico Medicine gets $60M to expand into robotics"
-    excerpt: "A company that uses artificial intelligence to discover and develop new drugs has received a $60 million series D investment to grow its robotics offerings. Insilico Medicine, based in Hong Kong, said it intends to use the capital to expand its global operations and planned initiatives,"
-    publishedDateTime: 2022-06-07T17:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/ai-company-insilico-medicine-gets-60m-to-expand-into-robotics.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
   - title: "The next step in AI drug discovery: Robots"
     excerpt: "Insilico Medicine aims to make its end-to-end AI platform even stronger by launching its own AI-run robotics lab. The lab has been in the design phase for the past two years and is expected to be fully operational this year."
     publishedDateTime: 2022-06-08T00:00:00Z

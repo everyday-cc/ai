@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence reveals a never-before described 3D structure in rotavirus spike protein"
-excerpt: "The tip of rotavirus B spike protein is not only totally different from the corresponding structure in rotavirus A and C, but also no other protein before had been reported to have this structure."
-publishedDateTime: 2022-06-09T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/955499"
-webUrl: "https://www.eurekalert.org/news-releases/955499"
+excerpt: "Of the three groups of rotavirus that cause gastroenteritis in people, called groups A, B and C, groups A and C affect mostly children and are the best characterized. On the other hand, of group B, which causes severe diarrhea predominantly in adults,"
+publishedDateTime: 2022-06-09T16:19:00Z
+originalUrl: "https://phys.org/news/2022-06-artificial-intelligence-reveals-never-before-3d.html"
+webUrl: "https://phys.org/news/2022-06-artificial-intelligence-reveals-never-before-3d.html"
+ampWebUrl: "https://phys.org/news/2022-06-artificial-intelligence-reveals-never-before-3d.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-artificial-intelligence-reveals-never-before-3d.amp"
 type: article
-quality: 6
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-41.jpg"
+    width: 945
+    height: 615
+    isCached: true
 
 related:
   - title: "Artificial intelligence-based computational program predicts the 3D structure of rotavirus spike protein"
@@ -36,6 +43,6 @@ related:
         height: 480
         isCached: true
 
-secured: "WaV1sFXedB2MP/6CTNRWz0a1f7kepbxity1etekNCmty0OuB9zNJgzJonkql4piqZPk9N6ptTjIzVcGhUcQH523jRU2rwEPT9RIite05URCBl5/d+5ZksZbT5LexE04ZHC9o1Jqzc8T1bSgbijatCU0hFmqDkWZHwXgYYw2Rfs3PI8C9p2oTd8i00rkd9eMKyAp0ThAi1A+eKwCdprjbyzlnmeed95xyzsbpnXTIm74OpqunpmGyW8fkpAw/PEXI6BDqlAgAsL7lb3D5MdHF+nWbhhYt0aWAleq8L32My1l1vxwZhVEeISmfFZ9Joq1WqyQncRFByDHz9D2U1I2S+HQYK1bX7Xpb/wEpei88eX4=;xX10KhVPCIxZbwdCpJ5UKA=="
+secured: "+HTWTKM0r6DdfT+Ug/K5M0uj0YhDOMoHtKU+mG+oJFXKJ3ec+qpvhCJROE/UVhFT86H34rnDSsKilx2493l7otAHYvK8JoY5iAJ8ANGMXkmHVqdCpKKNXi84lbydpl7Zq/XW7/H56slyu3ztAa6nXfxwbwG+If4M6FJ0E2yP87mE3iYPp7iqQ+6P3q8YlIuTrBT8Ieqdir19BA5VwwgIQS5Du52gjHvXYupcAKtVIB0f4UnZ3aWJbKSvbKmGDLj/AaCAhZ62Fa3Sz1sH7X4yYuO4NhGJDvptXm6hn4y1onfM1XwvdeWTvAE95qQ6TkaVQIbGNrRqEXqeaWmR7S9G7pPnS7pRSSuEjDK75P6WAfY=;gCT+kU0Z/8FMYxalZxAaWA=="
 ---
 

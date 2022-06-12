@@ -36,15 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
-  - title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-    excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience"
-    publishedDateTime: 2022-06-07T17:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "Snorkel AI Named a 2022 Gartner® Cool Vendor"
     excerpt: "Snorkel AI, the data-centric AI platform company, announced it has been named a 2022 Cool Vendor in Gartner’s AI Core Technologies report. According to Gartner, “Data challenges of accessibility, volume and quality are the top three barriers to AI implementation."
     publishedDateTime: 2022-06-08T13:03:00Z

@@ -29,15 +29,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
-  - title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-    excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience"
-    publishedDateTime: 2022-06-07T17:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "TAUS Named Representative Vendor in 2022 Gartner Market Guide for AI-Enabled Translation Services"
     excerpt: "TAUS is listed as one of the seventeen representative vendors with a focus on the wide array of language data solutions"
     publishedDateTime: 2022-06-09T08:28:00Z

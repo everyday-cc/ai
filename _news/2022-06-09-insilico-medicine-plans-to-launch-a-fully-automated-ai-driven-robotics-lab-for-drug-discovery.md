@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-pla
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI company Insilico Medicine gets $60M to expand into robotics"
-    excerpt: "A company that uses artificial intelligence to discover and develop new drugs has received a $60 million series D investment to grow its robotics offerings. Insilico Medicine, based in Hong Kong, said it intends to use the capital to expand its global operations and planned initiatives,"
-    publishedDateTime: 2022-06-07T17:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/ai-company-insilico-medicine-gets-60m-to-expand-into-robotics.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
   - title: "Insilico raises $60M to invest in AI platform and IPF program"
     excerpt: "AI-enabled drug discovery company Insilico Medicine Ltd. has raised $60 million in a series D round to support expansion of its pipeline. The Hong Kong and New York-based company will use the proceeds to support clinical testing of its lead asset,"
     publishedDateTime: 2022-06-08T23:55:00Z

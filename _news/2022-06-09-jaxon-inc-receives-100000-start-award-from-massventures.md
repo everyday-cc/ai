@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Washington-January-6-2021-AFP-1K-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/996c0b884c1a9812ba19d8edfdd4bbf2f82c1db2-600x337.jpg"
     width: 600
     height: 337
     isCached: true
 
-secured: "/lV5zeU/T5uHcEe3aamrhQ3P1JU4QenujLOCaJROBoqCRbwNNSub9mJ7auGNJrUXk9meDVgASrXO7QFJkJLvxjiKWrLwnRaHzxLhaJZgpcafuyhdb+tw/oPqx2CLYrk89qWVAy6NTMrLFQKnYx7lSNhN88Nu88kw5xViQ/55ywcKBZELe8zORTE/A6lpuWUkyqIJ2DzQpjO33HFWtvA6Wpt2sKTQkOSJKdqI59PUmYuc4JVp6eQtLkWBH/Eg+86kZtsz8S8YnvW7KYgumEDDo4z6wrOhlCgEE9CWZzOPTuitZ7wLmJMsWZ5GSiLEsUT9Uo9IWw3WF2sWjp1CmNnne92Xd/Qk4+R6pIyfDPj+dII=;aPtlE+gKyyMNOw+O0SHIPw=="
+secured: "H5r0QF2Z56ZXkkFs3C9lIMhebQQyb0sPyWVeI6aqAG0qGG/7iLVS1c4vM6vhUDk9sU2rwmdR2PxwmXySmY76wLcBCxif4WcrXnjc8ZxG2DR50PvXw5as5VZU1+Bx2NxEl+P6cBCjMTRMckSwnQ5dAkWHn+UwnDI8chbI9XmcQymvf15ami9c5XOjoosl1V0DSSRMOjhnlLAFUifBl3+IiL9KnMVNDxDIbKT67ca/dJXfdUgTaUI5+/c+BufSU36uLcPRV9g2F/HFasK9R9WGc+cCmr9VmWrFLtOeoa7YD5ym2rZYhjaJgrYNjyR/A4z4KF7YMHe73SPNDTfi5Ym4yNNfu/lBDMm3kIcftO5E7tc=;aK0tOBY7YlxL+h2KiyX6jA=="
 ---
 
