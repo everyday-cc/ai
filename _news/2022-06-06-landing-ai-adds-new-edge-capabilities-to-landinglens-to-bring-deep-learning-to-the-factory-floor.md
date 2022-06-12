@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Landing AI Adds New Edge Capabilities To Landinglens To Bring Deep Learning To The Factory Floor'"
+title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
 excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-publishedDateTime: 2022-06-06T14:19:00Z
-originalUrl: "https://menafn.com/1104330418/Landing-AI-Adds-New-Edge-Capabilities-To-Landinglens-To-Bring-Deep-Learning-To-The-Factory-Floor"
-webUrl: "https://menafn.com/1104330418/Landing-AI-Adds-New-Edge-Capabilities-To-Landinglens-To-Bring-Deep-Learning-To-The-Factory-Floor"
+publishedDateTime: 2022-06-06T13:18:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?241747"
-    width: 323
-    height: 250
-    isCached: true
-
-secured: "b6XJt6lsgihkqsdLEKvfOLBur5C8nMg38i9j4+H6U1CJKBEL4gqw0bwQhAP+3zjxOLOl/IMt66uCzrXfOWo8mBhxY8/ggdBiJrQ+mXiAmp3PNwcx8xOur/drkK3H+ivZ4OkVuIMjpcP3UaqyHVSVvOzGnQHjK8BbfNXhWOG7YrbVhAuuxhLwMnv/oyVhvTs/NUrFOJE7ryA5T5MxqdJJtrZfIgsiNcu/ypOhVfPmv6bQ0gnt+9FpJLzFrM5pO0BtcMGJhZL+zXpRmv5/GSgymNuN29iDcb5VfJW4KGibafeA8l1Da7o3NUNhLOyyGJLQtLqXJaOcrA1EIkdFgIMJWz0v8Itzxyfx+gnFY+5jefY=;ZCrcCAveksfYLVdSX2a/DA=="
+secured: "zmwMcOUkW1by3Pv8cjU/wMo+rnpN5IukTwp4Oyi4GohqjvodTio8M4R2RJM3oPg5xW32BPY/mKJl/abW4tRw/YpL7yOchFw941m5TahAB3wZq5ZO+G+SFzfMvMedJcCzrMwX6hUiA1rNDf6dWHKl5JfH3/c26RFWUdIro7qmJBv6CDvuqWB9gx5ma8n+87Yr/jLKBekgZwKX29LAoRg7GJ/PhHVFDVjN9qd8t0sohX1fVfZ7Q1S+ysl1uXgXCZf0EMno85OD/Q93SAaFPgFmM4EjgZMLnLo6PxVj03yQWVa64zgmVbatWf6VNhONenAS+ntYVC7O37/3JmT8DWrVAfxdLLCys1MMlvJbOG+WTnI=;zcuCVo7DuQq9sYPS6nNHXQ=="
 ---
 

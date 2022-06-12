@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Stats Perform To Launch Opta Vision"
-excerpt: "The Next Generation of Sports Data Delivering On the Promise of Richer Insights LONDON, June 10, 2022 /PRNewswire/ --Stats Perform, the sports"
-publishedDateTime: 2022-06-10T08:06:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412"
-webUrl: "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412"
+excerpt: "Opta Vision represents a new generation of deeper sports data. By combining Stats Perform's industry leading Opta event data with tracking data to create a single, merged dataset,"
+publishedDateTime: 2022-06-10T08:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/stats-perform-to-launch-opta-vision/article_d5c546b7-2e6b-5434-b9df-3453d0470c5d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/stats-perform-to-launch-opta-vision/article_d5c546b7-2e6b-5434-b9df-3453d0470c5d.html"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "w85YVAVll3dt/hBcPD2U8npIWYsMfWb2Z5bMuCbfvcL+UicNJ9MJDwosthjsna0ikHxWDD2qG6073yJ/2bhSEEl4t2EHCqQOVSZpti6e5PMU09MzC/8Ig8VI5Z19HL1zDeND+pPBaGAgBadbNQ5CE/o1VeWuwxLayUiMatqc0e8UN5PeQL1WzM+QV5CeZv4a+WrQE4bE0APVP5CFHuk1jW1gjgRn22Y/VBEHMdiQrLASkE0TpFEEfnHxEdtrK/sX7nW6UNLzvEHA/YwejDmlzkYHKrly5wW5WOU0Sg+zFd1c/jKz1jRtosrUdV+aVArxqOpyObeQJ1T9xDhky5jw8IdhZETHH7EusY3aL+htA8U=;wXvilVDnLmgRdnbjFjAVvQ=="
+secured: "caIodNWx0esNZIXUFzWY5/ap/005wV0x3leTZlOU1rL1+0GoxBia1bsmmm0mc2lsbzC1fETzR/UpE6SLopy1z8bF2ApE+KZfB04ehQimjdW3XHE2nTotSijkwNYjUjDKs8grv4cTihcaWtkpMbzu0Vrbvqq0TYpKnHTEX2Ensu9WYc01ysIcijGOCPWaxjTKX7SO94B8dnhMCQUOj0M+Z6WOCBKlQxthKrIQMcP74SXb59GR9p/2MmoQDxBUmdQqPjH3dbIp+6yeEsqsEBQgYVSfZm/FAzvy9WatdlUyEbYqdSfn6B18teVBG1uMM0VAb8pJypqiv887r++WpTkkRqslrNXA97lFlg0xSRbEXV/WJP67tYoZf++w8f7IAV/eB4Ryq7D6APou6QUxWiKJ4JQHBs5yHgtSet9jFbAGgNGFZICmPQs92YSfxbU+t0u8Mx8cmp6FD6W26GRI+r82+hauTtJ3nldszek+fGqs5c6Jdcjwn4vIbDk0I6ziflgrYvSDTvsYFvbGOGOEddWbcQ==;BwzOkGlbWguDiGigtQpUHw=="
 ---
 
