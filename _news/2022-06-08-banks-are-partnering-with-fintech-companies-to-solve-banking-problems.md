@@ -39,20 +39,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
-    excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
-    publishedDateTime: 2022-06-07T11:35:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 24
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_110622_zulekha.jpg"
-        width: 392
-        height: 273
-        isCached: true
 
 secured: "WEVIbWA3i6Rtwfxxr+05L5QZ0jlIph0KRE9Txj1XprBCchQTye9yWk/gUNvg7UFHhqfD2uLk+/wQ/+iz04Gy/nnAnmDhgzt3i2MVITxtEtZ8YC4WAG0TF/f3/51tU1H+Hz+Zs5Za7kvN6Q87I5e2TNnMkxn/2Yqu6m0quyVpgtzNLyYbVfpXohBuFcH98vOB8+F7Ba9wgtaAc0hl0wbxZ9oBjPQStd+1Jg5cvjv7hDrrhXO5j0hTxwN0NGxbjV+Z1hVtffvsF1kUMJSNzT01hvPttc+TDcV8kft3gvt04tqOLYGuJlNytq64vSV3n3rOYEWk6tSNTI3kb5RrigzR2TJQXVHdJNAUgtonDVY/DB4=;b3qbxZUKDEQQNej5Bz/Riw=="
 ---

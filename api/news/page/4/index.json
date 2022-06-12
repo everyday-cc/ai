@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-07-amazon-india-announces-machine-learning-summer-school.md",
+      "title": "Amazon India announces Machine Learning summer school",
+      "excerpt": "Hyderabad: Amazon India on Tuesday launched the second edition of Machine Learning (ML) Summer School, an immersive programme that aims to provide",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
+      "originalUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/06/amazon-67.jpg",
+          "width": 680,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
+      "publishedDateTime": "2022-06-07T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics.md",
       "title": "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics",
       "excerpt": "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in",
@@ -1128,58 +1171,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-how-ai-helps-coca-cola-boost-supply-chain-procurement.md",
-      "title": "How AI helps Coca-Cola boost supply chain procurement",
-      "excerpt": "Artificial intelligence and machine learning tools have become indispensable in order to boost procurement and sourcing efforts at Coca-Cola and other enterprise companies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/",
-      "originalUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/coke_supply_chain.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/",
-      "publishedDateTime": "2022-06-06T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

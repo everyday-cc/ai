@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
-excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
+title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
 publishedDateTime: 2022-06-07T20:32:00Z
-originalUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+originalUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
 type: article
-quality: 85
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -63,22 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Gatik’s self-driving trucks to haul Georgia-Pacific goods to Sam’s Club stores"
-    excerpt: "Gatik, the autonomous vehicle startup focused on the “middle mile,” will start using its self-driving trucks this summer to deliver Georgia-Pacific paper goods like Dixie cups and Northern ..."
-    publishedDateTime: 2022-06-07T11:07:00Z
-    webUrl: "https://techcrunch.com/2022/06/07/gatik-georgia-pacific-kbx-sams-club-partnership/"
-    ampWebUrl: "https://techcrunch.com/2022/06/07/gatik-georgia-pacific-kbx-sams-club-partnership/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/07/gatik-georgia-pacific-kbx-sams-club-partnership/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/gatik-sams-club-.jpeg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Enemies Waymo, Uber now friends making self-driving-ish trucks for US highways"
     excerpt: "Waymo and Uber announced on Tuesday a \"long-term strategic partnership\" promising to work together to deploy autonomous freight trucks on US roads, years after both companies fought bitterly over self-driving technology."
     publishedDateTime: 2022-06-07T23:56:00Z
@@ -104,22 +82,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Lawmakers stall over self-driving cars"
-    excerpt: "Autonomous vehicles (AV) are already on U.S. roads, but the fast-growing industry will have to overcome fears from policymakers and the general public before driverless cars and trucks are widely"
-    publishedDateTime: 2022-06-07T12:00:00Z
-    webUrl: "https://thehill.com/driving-into-the-future/3513598-lawmakers-stall-over-self-driving-cars/"
-    ampWebUrl: "https://thehill.com/driving-into-the-future/3513598-lawmakers-stall-over-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/driving-into-the-future/3513598-lawmakers-stall-over-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/special-section_minivan_040721ap-ross-d-franklin_lobbyists-self-driving_web.jpg?w=1280"
-        width: 980
-        height: 551
-        isCached: true
   - title: "From enemies to partners: Uber, Waymo fought in court over self-driving trucks. Now they’re teaming up"
     excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. Here are the details."
     publishedDateTime: 2022-06-08T11:52:00Z
@@ -146,6 +108,6 @@ related:
       domain: jalopnik.com
     quality: 28
 
-secured: "h/OyEH3AiSj9dAFDiZANMq5puoPjUJKM34C0KMGlpPaqqoR4ShSmpo40M6g4ecgG6t9YLznxqeGHHke+RaD+YafSeBk3papzYOeMkI5cDTpjG2w66Qd3ZuHwqDtPbOEDEr2UTJWFRU2jmg12mfKi9U1TQfYtc1um8JRBxxmRvLLViP8QSoJyTrl7501J+26PwnJ1JU35CsjdwNMZ2nyjRYCyJHQoA/mPvLI3iHquX120dh8DW8107rapt3fq8MQ44zKshO6mrIP1IAU1Wkwj2wjLnnB9H/i+wcnoOxU2n68u39+XkbO/nr0DojF+1JHTvT/4MtCA6y71+eAhzIUl8wPVsZE6iNFDd3zHE3rnA9s=;UTNgD/TGOBKkpqw+CxpI/A=="
+secured: "UAUzcqeiKw+IjiuNTG9iTg0z7ToIvpraK32vLQbq6HrwtYOx3qVP/yE23W+fSS26H2JhmQ+pRah2XkP7MemgNGR9hDaVYezfaLJzz8I2Hg7FkYUOAEQbqtedVmDcNOCtF/1zBoM1NZklaFYaGiszSED54ak7stNmSrx54chEH8HOY2P5MTXug9YPLGKDdBck+hKvkmlhA9NiewMa5fEIvG2zUJkD0dIc0pqbWn/JLHDyHLbjbsiwH8BUnHMU627EiXByi9/uyoGYBtzOhWrFuh1PG27mTHLZf8bcnD/DXj0JFzjQxnhxHrqoQadMO6hoZFON/WfJQNqY9C5czUjDs07G2Myz6nXamPfG5fwmjgE=;/cMG/YUYTf0r0AWzVpfN4w=="
 ---
 

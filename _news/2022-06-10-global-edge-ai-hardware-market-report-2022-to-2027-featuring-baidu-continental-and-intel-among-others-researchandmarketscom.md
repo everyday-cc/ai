@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "Regie automates sales and marketing content creation with AI"
-    excerpt: "Startup Regie, which was founded in 2020, has been building out an AI-powered content generator for sales and marketing. The Regie technology makes use of the GPT-3 natural language model from ..."
-    publishedDateTime: 2022-06-07T13:01:00Z
-    webUrl: "https://venturebeat.com/2022/06/07/regie-automates-sales-and-marketing-content-creation-with-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
 
 secured: "K63olMyjeyf4MULWH+A7yc/ZyzQ09k0SkfP9UVdEO/iiyI3/K9TKOqGSo4tfQJls4vW3xRI1X2Ux9mqjnE+FApsYxhgIyBGfFF2WQCeou/yLymfREsGzCkiS7oDF24SgDl9KEOJ+mTdaIcyqnMVTefdgnUNd2g5tPlFW9RNM8zDCimqEYzZkAPcTFgRuaeDnwClGJT1GiL1BBHNmQiOkKwmoPpeVfTWySMPcdDTAIrUwXaa98VP5mmemnsUmcnsgYDOuySg9Qhow+KJnH55pKtzLwoMN0AA7b/ghSeMgkSul45+jY9dsB4Sn1OH1W8GCbRhxdniVnCB4pMCVwDnNwAXdpJDT3m+xTujnXQpCf95UgcmUREoiSBEeMEpoH+s362OHeQxErNa8FQYSs6cnnBuJQlQlLcBKCAulY06JTHL2auFIAw3qzNwTQH15AO2EIOcijyXJvhHDouF5iPg+Uj6+F/jzVNjJm5F1YvbGQtIP1vRd4CzSOsYqOynQE1wxLEK1GJd7k7xMcr0LYZGncw==;O5OaKnJ3dZ8vy4grHzkcEg=="
 ---

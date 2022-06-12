@@ -591,6 +591,48 @@
       ]
     },
     {
+      "path": "_news/2022-06-10-whats-next-for-artificial-intelligence-in-customer-experience.md",
+      "title": "What's Next for Artificial Intelligence in Customer Experience?",
+      "excerpt": "Customer experience has been no exception, as brands also increased their digital investments to support online activity while in-person interactions were limited. To support this uptick in online activity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/customer-experience/whats-next-for-artificial-intelligence-in-customer-experience/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/whats-next-for-artificial-intelligence-in-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/16dd8a9aa5a64a9f8ad1409db0b6afe7.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/customer-experience/whats-next-for-artificial-intelligence-in-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/whats-next-for-artificial-intelligence-in-customer-experience/amp/",
+      "publishedDateTime": "2022-06-10T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-machine-learning-bella-italia-trials-use-of-robot-waiters.md",
       "title": "Machine learning: Bella Italia trials use of robot waiters",
       "excerpt": "The group behind restaurant brands Las Iguanas, Bella Italia and Café Rouge is trialling the use of robots at one of its venues.",
@@ -1186,57 +1228,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-extreme-networks-showcases-ai-based-innovation.md",
-      "title": "Extreme Networks Showcases AI-Based Innovation",
-      "excerpt": "An industry analyst reports on Extreme's annual show, where it showcased innovations around AI and extending platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/extreme-networks-showcases-ai-based-innovation/",
-      "originalUrl": "https://www.eweek.com/networking/extreme-networks-showcases-ai-based-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/globe-network.jpeg",
-          "width": 1920,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

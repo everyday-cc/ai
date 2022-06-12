@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Creating art with the help of artificial intelligence: Is AI the future of art?"
+    excerpt: "Some insist that the artist is still central to the process, even if their working methods are not traditional."
+    publishedDateTime: 2022-06-12T05:03:00Z
+    webUrl: "https://cnalifestyle.channelnewsasia.com/entertainment/creating-art-help-artificial-intelligence-ai-future-art-315961"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 48
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Artificial intelligence to shape future of fishing with targeted catches"
     excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."

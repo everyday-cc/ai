@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Open banking fintech Bud inks $80m funding round"
-    excerpt: "Series B funding, led by Bellis Phantom Holdco, an indirect affiliate of investment funds managed by TDR Capital. The investment, which was also backed by existing investors including Outward VC, will be used to develop the firm’s models and allow for further international expansion."
-    publishedDateTime: 2022-06-07T11:09:00Z
-    webUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/"
-    ampWebUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2022/06/BUD.jpg"
-        width: 1200
-        height: 795
-        isCached: true
   - title: "Open banking fintech Bud raises $80m"
     excerpt: "Open banking fintech Bud has raised $80 million in a Series B funding round led by an indirect affiliate of investment funds managed by TDR Capital."
     publishedDateTime: 2022-06-07T15:58:00Z

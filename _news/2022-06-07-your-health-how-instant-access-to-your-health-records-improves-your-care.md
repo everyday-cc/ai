@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM Bids Farewell to Watson Health Assets"
+    excerpt: "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ..."
+    publishedDateTime: 2022-06-08T00:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "c6hZKIFIKYItnVECoIrBAZMnfOzMSrXQTBJglyk4CFIXiDo72d6px0Ae504ZnsvrgEItL6XVi/F9xZauCTFFc+p78MWxG8pkeUrozJ1QN/2jLbmPTa3RZ+AMvsijusv0MsDqWag8UPRis+3MlEqiRDa1slVDbEH+px+OKOPDsuquydsCwriG5p1DLwJs2d+G+UV8f4E2K5KVF5lCzU+UWLW/VQyktesxkRXIOXih4trDF8YHQrnqwYlZ+O4xt/TNjRsSZsuQ63nSTfCBN0e2MKsmD5qCu4UHuxOvWDUKwimetRzR09/O8QGnPTExEpk6txVx8bNMbEsCW6eSVpsY2KywABYRSSwVubjkg8A+4ls4nM+hzjXQQUKHxV8KGunvLa8HY7KQajtOGQnYbA6tZYt3kb4y9ZW0QyqzEkANgK+MGFu7bRFMiu2hqjQsUYk1e4ZhmzZsQL9KaveknSsHSAs6Po8ISKNDMV8osi9hLyM9ChH2H0xly7t++0+jz35+4th2SG82OJ+MJDi0hdusdg==;AbRAM9wsz/ztPVQmxN68Cg=="
 ---

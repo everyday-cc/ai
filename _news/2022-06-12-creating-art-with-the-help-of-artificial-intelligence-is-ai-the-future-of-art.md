@@ -1,32 +1,26 @@
 ---
 category: news
-title: "The future of AI is a software story, says Graphcore's CEO"
-excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
-publishedDateTime: 2022-06-10T13:42:00Z
-originalUrl: "https://www.zdnet.com/article/the-future-of-ai-is-a-software-story-says-graphcores-ceo/"
-webUrl: "https://www.zdnet.com/article/the-future-of-ai-is-a-software-story-says-graphcores-ceo/"
+title: "Creating art with the help of artificial intelligence: Is AI the future of art?"
+excerpt: "Some insist that the artist is still central to the process, even if their working methods are not traditional."
+publishedDateTime: 2022-06-12T05:03:00Z
+originalUrl: "https://cnalifestyle.channelnewsasia.com/entertainment/creating-art-help-artificial-intelligence-ai-future-art-315961"
+webUrl: "https://cnalifestyle.channelnewsasia.com/entertainment/creating-art-help-artificial-intelligence-ai-future-art-315961"
 type: article
-quality: 71
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
-  - Natural Language Processing
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
     width: 1200
-    height: 675
+    height: 676
     isCached: true
 
 related:
@@ -46,19 +40,19 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Creating art with the help of artificial intelligence: Is AI the future of art?"
-    excerpt: "Some insist that the artist is still central to the process, even if their working methods are not traditional."
-    publishedDateTime: 2022-06-12T05:03:00Z
-    webUrl: "https://cnalifestyle.channelnewsasia.com/entertainment/creating-art-help-artificial-intelligence-ai-future-art-315961"
+  - title: "The future of AI is a software story, says Graphcore's CEO"
+    excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
+    publishedDateTime: 2022-06-10T13:42:00Z
+    webUrl: "https://www.zdnet.com/article/the-future-of-ai-is-a-software-story-says-graphcores-ceo/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 48
+      name: ZDNet
+      domain: zdnet.com
+    quality: 71
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
+      - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
   - title: "Artificial intelligence to shape future of fishing with targeted catches"
     excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
@@ -117,6 +111,6 @@ related:
         height: 559
         isCached: true
 
-secured: "TK804ArH9s1t4LMWaduKgzXpXy7LNnpeh+V/xC1XJBZCQjYTbJOEq/f4vKjr7lOI7tD0ObISTw9pzc0HOJmemDVcRBlhrCm1q0tBfGRuO9XrtAp+G1zgYcOFVrGE5oLySNrEudbnh/GOAMXmESSVj6+iMMzy08UOa6UjfVhuNI9h6W9qo7w25eQ526FxP2HLJ7zPfo8n3ARfLDea08USOpXZIJafeEjWew+vN/eKsr7ZnRHK7HraJJ++KpbiHvrleZhh/pheBWO42+aifCTXX74QIpwI2ZgzVmUj4zXv8SgVyta+Ea02kaMMVDnXcaNeX03cwQ6aeUllxpz2RMrA/hvCmn8bxSKjeQnqxqvgw8o=;EyLyLos6PUDtG87oCf/02g=="
+secured: "xZlDcERN9HXOByoLCiD8VPrRxT2NitOKLU2eFkYZ/2pLUjhdqnaqYNQty+zAsfZCJcRK8D+ZWvk/+pO8BNUlD7RywLzShcGRRiu7Y5+ZBSfMQQ6GLue6h1IGA87bc6+lQzIPKHKhe617jbEufOdQMVRD6A+kS5NW6ChtVmabchZm3oAmlVpRY105DeGGH6TNbA4vZLmvHyRdRpZIPPF7B9gTwiRABNtX6ZdSoMSK1NOZUjgY80yx08zS2U/NidMgG+cBiUHGVGTWDxUUdrss64l0Gl2ADM7hlcuAd80V7+LtZhKG05Aj+t9cI/5uuvOvuSb20NQDiCdIi7cR5oOEltIsr+DGcB86JjpjJ5LfBTI=;FcuJwyrRL9ctOiy6b3R3RQ=="
 ---
 

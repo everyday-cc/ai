@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-01-rendered-ai-streamlines-synthetic-data-for-gis-digital-twins.md",
+      "title": "Rendered AI streamlines synthetic data for GIS digital twins",
+      "excerpt": "Satellite imagery promises to play an essential role in creating digital twins that could help model carbon emissions, increase farming yields and monitor the oceans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/",
+      "originalUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337105696.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/amp/",
+      "publishedDateTime": "2022-06-01T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game.md",
       "title": "AI and natural language processing are here to change the IELTS prep game!",
       "excerpt": "IELTS test aspirants, over the years, have been confounded by how to self-assess their writing and speaking skills. It is not as if you can have a certified tutor available at hand all the time. But thanks to natural language processing and artificial intelligence,",
@@ -1048,58 +1099,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-googles-massive-language-translation-work-identifies-where-it-goofs-up.md",
-      "title": "Google's massive language translation work identifies where it goofs up",
-      "excerpt": "For low-resource languages such as kalaallisut and Fula, a big effort to find out what is lost in translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "originalUrl": "https://www.zdnet.com/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/139ace89f7e872d7780a9232cf7c9507f505a04e/2022/06/01/aaee0f3c-fa3b-4649-92ea-b6c077ec2e32/c201c7dd-7cfe-44db-8c07-bb63391efdce.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "publishedDateTime": "2022-05-31T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

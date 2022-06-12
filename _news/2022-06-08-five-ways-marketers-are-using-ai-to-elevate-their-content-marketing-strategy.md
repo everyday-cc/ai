@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Regie automates sales and marketing content creation with AI"
-    excerpt: "Startup Regie, which was founded in 2020, has been building out an AI-powered content generator for sales and marketing. The Regie technology makes use of the GPT-3 natural language model from ..."
-    publishedDateTime: 2022-06-07T13:01:00Z
-    webUrl: "https://venturebeat.com/2022/06/07/regie-automates-sales-and-marketing-content-creation-with-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
   - title: "Global Edge AI Hardware Market Report (2022 to 2027) - Featuring Baidu, Continental and Intel Among Others - ResearchAndMarkets.com"
     excerpt: "Market dynamics are forces that impact the prices and behaviors of the Global Edge AI Hardware Market stakeholders. These forces create pricing signals which result from the chang"
     publishedDateTime: 2022-06-10T11:56:00Z

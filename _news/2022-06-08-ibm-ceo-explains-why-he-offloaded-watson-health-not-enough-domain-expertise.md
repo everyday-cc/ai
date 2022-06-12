@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_ex
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_explains/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://media.tegna-media.com/assets/WQAD/images/65f738b1-7a09-4132-8cee-4dd0e690cc6b/65f738b1-7a09-4132-8cee-4dd0e690cc6b_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "IBM Bids Farewell to Watson Health Assets"
+    excerpt: "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ..."
+    publishedDateTime: 2022-06-08T00:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "g5Zz7gmcOM4rnn5RWpeZluUOHtPenqk1i/Vj12triSXD9vrDKDV9cY/DqdFyW5SSxl+KkaWILjyJWxXX0GldhwdxzXyss7go81m1ZluG3TJRAQeHzYsIoqkISsXUz/TitnLy1W4dxBhrpT+3Q5JrHrdZ76u1XjMkUkWAPRiPuVt3PmfF8358ICKu6g8kSo1l+G1kS+Z0/DKCSPSzgHp+KU/aussm5VWXynELOXiVia9Nc4/S0e4Q185vj748IUeYYFPO4x7KaJpJYBzyEphNJgUiDGBzUg22oOaK7GMCTIgIHvA4p5Ocx3mw7TbbFpaaejiM5FU7NDDoq8nnb3TjouKtmSRgzhISI56LmGUSQLkYo3GeKZft3J6Ui5gv/Lz2CVY/Wm1tOlTBaC/8iuyabkbYkWD+E7TGB7ADm1CV2FCt3LkG9KPn+S4tKJ7cmYTRjesPVsW0WaDS4480Cyf5jq0L4REOTZWOkbl+DbwR1YzXat6oTchlIPgc/5vHndxLzF/tQ1cQv/aG1gbkIqKr3A==;C5wrmExguNdCpbvEpsc2JQ=="

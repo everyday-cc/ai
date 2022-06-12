@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 716
         isCached: true
-  - title: "Open banking fintech Bud inks $80m funding round"
-    excerpt: "Series B funding, led by Bellis Phantom Holdco, an indirect affiliate of investment funds managed by TDR Capital. The investment, which was also backed by existing investors including Outward VC, will be used to develop the firm’s models and allow for further international expansion."
-    publishedDateTime: 2022-06-07T11:09:00Z
-    webUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/"
-    ampWebUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2022/06/BUD.jpg"
-        width: 1200
-        height: 795
-        isCached: true
 
 secured: "oWm3gxzKXBI0SJTf4PMq+8rN0Z4P0IyA8x25ZrUxOA3n1HpsLIpY/J7J4kz59Ryd8o6yoKvGk91Z44SvH5tkUYwuHt7Wrj1dPdfkR/p7u8Tn1kYG+GZFhoB6EfnX7CqUQtTxhBy2fgHv2D3M3svfx86P7urDgiqlRKRHQPeuynffuBc4C1cHnlXLtoY3wrrDAKSViXZrimw6Mj3bL8pu2L1vvKJKBmYTIV5wejWx2hhTL2DLfxyuNT+YtcfEwQeEq1+0yHkxvvdtd7NBeT/LN9rJUFF7Cz1v3bdRy4U1oSqmdXIDg4DI9b8xxHhkramVsbIdjpdnb1IqQUqHBhujTT5X6YNcvXjbDZ1rEGidTQ0he2zpEcBAZdfEuw9DyRT5GTjRMkjmLrPcS944754F6IpOsTzxPGRoQsqmDh1xh9AelhBgzLZfzRQeitpCYLDykDFpAMPO+2pAZ8BlLkoHco3h4t1nXOr7N5ciDD2UloS/PVAEux1vGI0nCOmZGyACFXs7eT/GNpS2+qbiViEubg==;Znzcyqpbf4BBjskbK2VJgQ=="
 ---

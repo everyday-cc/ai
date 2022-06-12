@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Creating art with the help of artificial intelligence: Is AI the future of art?"
+    excerpt: "Some insist that the artist is still central to the process, even if their working methods are not traditional."
+    publishedDateTime: 2022-06-12T05:03:00Z
+    webUrl: "https://cnalifestyle.channelnewsasia.com/entertainment/creating-art-help-artificial-intelligence-ai-future-art-315961"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 48
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "The state of AI in drug discovery"
     excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
     publishedDateTime: 2022-06-08T21:48:00Z
