@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "One Step Closer to AI With a Human-Like Mind"
+    excerpt: "A team of researchers at the Graduate School of Informatics, Nagoya University, have brought us one step closer to the development of a neural network with metamemory through a computer-based evolution experiment."
+    publishedDateTime: 2022-06-10T20:18:00Z
+    webUrl: "https://www.unite.ai/one-step-closer-to-ai-with-a-human-like-mind/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
 
 secured: "gZJLKs7I6g4tEBw0j7BOm1F2upr8tJO/vDJ0VQ96bV35OIWhV/ktHLUrRohv/dYb37/8SSuxRYsz+hKrZrXo5yYqHfCwJdfTwjjnphYoLuFQKhgeeg+TMkx6WbV7ivoU93lWjqf68DvvAWvPa3Yt1n3LnHTEe+vGnZQvEtVduAY0XvrKLXCGxTkcwRCYaTbcRRm8ITZJos68yk2lDrIZxadizI6s1Fh+BJaZotNyHdh6yvG94Vm8PXj10S1mSxAw0oWMLz0s4kQDGEh2XVeEolpqiY8D8T2UAwXk7UxCSi5VxapF/joGAd0P/xYp2qyfbL9/6CIO9lgYrkPSlQUiWN8aDKn+RCD+BGc5jJpKGuAAcW1K7b72WjfSQkth4Lfh8A4XGpLJA92JFB3Y038ReqrOu0w0Dvr7e5iI/SirXqOG8VFUnaFmL1BsH79sorc/mLNoLQBG30bQqJUEqzrXOGwQH1GakB3G/V5PNYn5Pu53AioeMF+w78DXLFAS3C9gpnKiT+ZobhwH72vd8PEJ9A==;WzjzuaU2YXv9iCu477d6iQ=="
 ---

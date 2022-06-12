@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Family sues Meta, blames Instagram for daughter’s eating disorder and self-harm"
-    excerpt: "A preteen girl’s “addictive” use of Instagram resulted in an eating disorder, self-harm and thoughts of suicide over several years, according to a lawsuit against the platform’s parent company, Meta."
-    publishedDateTime: 2022-06-08T01:58:00Z
-    webUrl: "https://www.nbcnews.com/tech/social-media/meta-lawsuit-instagram-caused-eating-disorder-self-harm-rcna32221"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna32221"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna32221"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 70
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220606-Alexis-Spence-ac-737p-fd868f.jpg"
-        width: 1550
-        height: 1033
-        isCached: true
   - title: "Instagram accused of fueling suicidal thoughts in teen’s lawsuit against Facebook parent company"
     excerpt: "The lawsuit cites Meta research revealing that the tech giant knew Instagram was worsening teen girls’ mental health issues."
     publishedDateTime: 2022-06-09T20:26:00Z

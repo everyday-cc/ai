@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-iden
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medindia
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI identifies cancer cells"
-    excerpt: "How do cancer cells differ from healthy cells? A new machine learning algorithm called “ikarus” knows the answer, reports a team led by MDC bioinformatician Altuna Akalin in the journal Genome Biology."
-    publishedDateTime: 2022-06-10T15:34:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/955612"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "AI can be used to identify benign thyroid nodules and reduce unnecessary biopsies"
     excerpt: "Artificial intelligence (AI) can be used to identify thyroid nodules seen on thyroid ultrasound that are very unlikely to be cancerous, reducing a large number of unnecessary biopsies, according to a new study being presented Saturday at ENDO 2022,"
     publishedDateTime: 2022-06-11T19:33:00Z

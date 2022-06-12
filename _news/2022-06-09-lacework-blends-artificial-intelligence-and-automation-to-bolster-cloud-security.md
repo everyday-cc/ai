@@ -55,22 +55,6 @@ related:
         width: 1000
         height: 597
         isCached: true
-  - title: "The scope of artificial intelligence in fighting cybercrime"
-    excerpt: "AI can add additional layers of information and authentication on top of two-factor authentication. For instance, deep learning can be used to analyze.."
-    publishedDateTime: 2022-06-08T03:27:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92072000,imgsize-374186,width-1200,height-628,overlay-etcio/the-scope-of-artificial-intelligence-in-fighting-cybercrime.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Orna raises over $1 million in seed funding to bolster AI-powered cybersecurity platform"
     excerpt: "With over $1 million in seed capital, Orna said it intends to invest in marketing, demand generation, and research and development."
     publishedDateTime: 2022-06-08T21:27:00Z

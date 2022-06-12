@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Uber and Waymo Want to Make Self-Driving Freight Trucks a Thing"
-    excerpt: "Uber and Waymo have put the past aside, and are now in it for the long haul. On Tuesday, the two companies, previously legal foes, announced a new partnership. Together, they’re planning to combine Waymo’s self-driving technology with Uber Freight’s shipping network to help automate long-distance trucking."
-    publishedDateTime: 2022-06-08T01:36:00Z
-    webUrl: "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318"
-    ampWebUrl: "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/80978baad8b9cf3ba3858a0ff2bfc839.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "From enemies to partners: Uber, Waymo fought in court over self-driving trucks. Now they’re teaming up"
     excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. Here are the details."
     publishedDateTime: 2022-06-08T11:52:00Z

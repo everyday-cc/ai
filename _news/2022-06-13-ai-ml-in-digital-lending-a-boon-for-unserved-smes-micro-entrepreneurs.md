@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-12T17:33:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-ml-in-digital-lending-a-boon-for-unserved-smes-micro-entrepreneurs/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-ml-in-digital-lending-a-boon-for-unserved-smes-micro-entrepreneurs/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: India Times

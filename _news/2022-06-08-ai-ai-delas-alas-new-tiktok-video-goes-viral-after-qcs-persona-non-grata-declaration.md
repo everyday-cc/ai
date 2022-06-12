@@ -56,20 +56,6 @@ related:
         width: 620
         height: 621
         isCached: true
-  - title: "Ai-Ai delas Alas, Darryl Yap declared personae non gratae in Quezon City"
-    excerpt: "Ai-Ai delas Alas and Darryl Yap have been declared personae non gratae in Quezon City for “disrespecting the city’s official seal.” The Quezon City C"
-    publishedDateTime: 2022-06-08T03:19:00Z
-    webUrl: "https://www.rappler.com/entertainment/celebrities/ai-ai-delas-alas-darryl-yap-persona-non-grata-quezon-city/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 36
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/06/Ai-Ai-delas-alas-file.jpeg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Kampo ni Ai-Ai Delas Alas, umalma sa pag-tag sa kanya na \"persona non grata\" ng QC council"
     excerpt: "The camp of Ai-Ai Delas Alas condemned the resolution of the Quezon City council declaring the comedienne \"persona non grata.\" Her counsel responded to it."
     publishedDateTime: 2022-06-09T04:32:00Z

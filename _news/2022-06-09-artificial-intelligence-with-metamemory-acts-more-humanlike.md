@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence With Metamemory Acts More Humanlike"
-excerpt: "Metamemory Model The researchers show the evolution of artificial neural networks have a metamemory function based on the self-reference of memory that is similar to the metamemory model defined in 1980 by researchers Thomas Nelson and Louis Narens."
-publishedDateTime: 2022-06-09T14:33:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
+excerpt: "A new study reveals the creation of a new artificial intelligence (AI) machine-learning algorithm with an adaptable intelligence based on what it already knows—a step toward endowing machines ..."
+publishedDateTime: 2022-06-09T14:40:00Z
+originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
+webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
+ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
 type: article
 quality: 59
 heat: 69
@@ -17,7 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
 
 images:
@@ -37,6 +37,6 @@ related:
       domain: smithsonianmag.com
     quality: 19
 
-secured: "g3pNcqdSCLKwjyzWdbOYcCPV6wDz+k1ez5v66NYdTQb1cXY2lpgg5aqZDH3PI2lGaIG8jYKpKVxfkAW9Wv0MnrX3e1pdkdS7ntfAyVExk7uqbMz+H+NZW3Ll9H6os55DSWEfj/6oAyGpiEnawHJ++DA3namUf/cw3UpdKbR0KO05fXYbrZYK1R75tHNHJWa7VepDC0dS4Y+aCW+1+TNK0oe5/drSwJr5ZaaHm8afNbnTOUnwjTcEnx1hOyFli3vsSJyNi93mK/X/7QlaDZ42Zia133utmuz9hyA+O72Kj7xPGu0hpsuE70a6rCHgTMKlfpjW4MHmMUTQwABTY6vDwv6HzxWVGutRwyaFv0oiTig=;fLejWEZriN0XBZwybI+y5Q=="
+secured: "5TVSVVA/lEJxVsugtex/YhHQ/cw5X+wuxVzZKAG5R33O5faEzx/9rs2BMqyIa/cQuWZL0Req1rAostTreTRUPYgLU0LyKUhdN6fVL7xPnDGLe6/pJUF/eBbZB9LB06QfcD+txIGak0b/oT1ELsShYqxEY7BB0nRynbNaJKRgnIXv5H/hCXj3u9HGziL4LOtpeiTd5EDe0xa96hiYVEVbnzrFv10ly5wwC+E/elEX3dGPA4fw9X+ZJTW7tJUGKLMQ/2/hSuPQ90ys93lRIuc5Q4IH1U8lRfdQTITsOcFBfg4wAT36Nh3x8kOgbwTCRbyOXyjtPuuhzu2OiqH5rodsCYeHNnFBT+CiyeWQmrdxqoY=;A1dNr/suLZWRW2tYeg2n0Q=="
 ---
 

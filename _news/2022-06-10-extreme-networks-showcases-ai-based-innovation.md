@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/networking/extreme-networks-showcases-ai-bas
 webUrl: "https://www.eweek.com/networking/extreme-networks-showcases-ai-based-innovation/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How finance uses AI"
-    excerpt: "After a year of disruption, the UK’s advertising industry enjoyed an impressive comeback in 2021,posting a year-on-year growth rate of 26.4%.Its revenues were boosted by a summer splurge in spending,"
-    publishedDateTime: 2022-06-10T15:03:00Z
-    webUrl: "https://www.raconteur.net/infographics/how-finance-uses-ai/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 54
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/06/Dash_SR_Dash_2320px-2.jpg"
-        width: 918
-        height: 1489
-        isCached: true
   - title: "Sharp Sight Eye Hospitals and Logy.AI launch AI-based cataract screening solution"
     excerpt: "The AI based screening method present as a simple chatbot on WhatsApp uses eye images captured in the near-infrared domain and is computationally ine.."
     publishedDateTime: 2022-06-08T11:26:00Z

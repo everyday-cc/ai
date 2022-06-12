@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/amp/"
 type: article
 quality: 70
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Putting the ‘S’ in ESG: How AI and automation can drive social impact"
+    excerpt: "Rather than taking the traditional training approach, we believe that AI and automation technologies have the potential to help companies reduce biases in processes at scale. Organizations can ..."
+    publishedDateTime: 2022-06-12T16:21:00Z
+    webUrl: "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/"
+    ampWebUrl: "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1204589722.jpg?w=1200&strip=all"
+        width: 1200
+        height: 556
+        isCached: true
 
 secured: "vFPLKwfadWGNxRt3si4IPP44iXVFjRl+klgOwm+kzO9GMr2zLwyHzBHPvCzCj3ysmThmOKo7U5Oyno6/P3afiKCBiwhjcUYD7u8yeeF2YqwWORtk0NWE2/V7zxD52MtA9OtGMUMevdFQ8dK8VnjKnSbxJx9peMzLabPA9sEd8nZB5ChCq5S6g57aJl0GilFb7WSUeaWvIUrmjxVO8Wkdfy1+MwLPNdR7qnA6+Q2Rqt1E5QplQCtx7b4WF+wwItQH0j4GuWuPc6EFbWRX+f06BlFaWly98MCdF9fWmHM8La/eZKLR+smJ2p9Aox/BTSVJqC/eJP2LNC+UQDrHzPgQmHdQF40Untxb9+y+Hltyk7kHIG+WM0B6YUrEbYKFpeZFPYrgEjd8bBpAS9w28AVDes5yAJLvLQXhIi4LUwhxOKw/ziiiSaMNoM5ZsTmJQrC0sQAZsicAZJAQlfWC5SARJ0x89tUqPHBeil8nlO0wxWw3c+lIB+S/lIOt8kUxnAZcBjr2MB+XwwgPB1tn1PHM9g==;MSYeRRQSt2vP8LZpg1IKZw=="
 ---

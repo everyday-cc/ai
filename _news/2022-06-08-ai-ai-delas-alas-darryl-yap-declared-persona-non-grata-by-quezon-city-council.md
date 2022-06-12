@@ -9,7 +9,7 @@ ampWebUrl: "https://www.philstar.com/entertainment/2022/06/08/2186941/ai-ai-dela
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/entertainment/2022/06/08/2186941/ai-ai-delas-alas-darryl-yap-declared-persona-non-grata-quezon-city-council/amp/"
 type: article
 quality: 53
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://newsinfo.inquirer.net/files/2022/06/Ivy-Xenia-Lim-Lagman-620x621.jpg"
         width: 620
         height: 621
-        isCached: true
-  - title: "Ai-Ai delas Alas, Darryl Yap declared personae non gratae in Quezon City"
-    excerpt: "Ai-Ai delas Alas and Darryl Yap have been declared personae non gratae in Quezon City for “disrespecting the city’s official seal.” The Quezon City C"
-    publishedDateTime: 2022-06-08T03:19:00Z
-    webUrl: "https://www.rappler.com/entertainment/celebrities/ai-ai-delas-alas-darryl-yap-persona-non-grata-quezon-city/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 36
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/06/Ai-Ai-delas-alas-file.jpeg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Ai-Ai delas Alas’ new TikTok video goes viral after QC's persona non grata declaration"
     excerpt: "Ai-Ai delas Alas shared a video showing her cheerfully dancing amid news that she and director Darryl Yap have been declared persona non grata in Quezon City."

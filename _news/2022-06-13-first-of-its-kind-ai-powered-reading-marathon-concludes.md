@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-12T18:43:00Z
 originalUrl: "https://www.thehindu.com/news/cities/chennai/first-of-its-kind-ai-powered-reading-marathon-concludes/article65521437.ece"
 webUrl: "https://www.thehindu.com/news/cities/chennai/first-of-its-kind-ai-powered-reading-marathon-concludes/article65521437.ece"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Hindu

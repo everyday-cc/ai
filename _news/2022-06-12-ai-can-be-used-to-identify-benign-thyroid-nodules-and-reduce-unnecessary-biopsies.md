@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "AI identifies cancer cells"
-    excerpt: "How do cancer cells differ from healthy cells? A new machine learning algorithm called “ikarus” knows the answer, reports a team led by MDC bioinformatician Altuna Akalin in the journal Genome Biology."
-    publishedDateTime: 2022-06-10T15:34:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/955612"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "k2KlbbMO4fGviMXuF0pYVo6Imwg1qp9ArCXIK2O9eoeG9RoLsDDYEbw1/suTBsw+uAh+3tcuhyV9G2TKNUGdLkA3FYiAnKXVkfjNKwGdGuSaO9hxZAW9hZsGcosX9XcSgMluV7Xq67w6LWm08a2Wp6NKD8yQrhPwfRciN1cBQGwYrkhyAkoUvq4LRWFiMRdpSBPMK0F0DMuZC8jvbeDqO11cmI6cq0wc3341JjMSLM6y2aA+v4T9G6kH+2l59jIcaZUrkmdNDboTdmeERRhStHZ3xYikJ9ibAnd08TrGNMO5b1fATdeTX3Zkq3dQJfxFhmMKfz/fJR6mtjOeiV9JR9m4lF6LeThP1KVOZy1o0Cw/slbMcRhxQEfhfJaXUgfseyCwOCgNx3ilHSOH/Z9UWe7Dicv1pwYd4cZm2Y8GSYoW0WMZfXPsgT1XEyH+vLVjOxhWFDHAyzRJeuGFZd/11EEpxGv60imQMsJ8CgnKhvnLoRnjYlDtpb3QGbgqxv1NbLaTIg1qJlvptoDKcniS0A==;CWgHauHzjeVZdyKPOpzH8Q=="
 ---

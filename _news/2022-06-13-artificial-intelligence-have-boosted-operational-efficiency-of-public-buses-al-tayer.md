@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-12T18:45:00Z
 originalUrl: "https://menafn.com/1104362336/Artificial-Intelligence-Have-Boosted-Operational-Efficiency-Of-Public-Buses-Al-Tayer"
 webUrl: "https://menafn.com/1104362336/Artificial-Intelligence-Have-Boosted-Operational-Efficiency-Of-Public-Buses-Al-Tayer"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Biologically plausible spatiotemporal adjustment helps train deep spiking neural networks"
-excerpt: "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However, the biggest problem restricting the development of SNNs is the training algorithm."
-publishedDateTime: 2022-06-02T15:15:00Z
-originalUrl: "https://techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.html"
-webUrl: "https://techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.html"
+excerpt: "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However ..."
+publishedDateTime: 2022-06-02T15:21:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/954275"
+webUrl: "https://www.eurekalert.org/news-releases/954275"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "/xWDPU0Gh3mh+CvZ3GfjgVG6M1mpXLgRdDub1FmBiV3/+q+L1pnO8GC5dAOrpxUUTe2KCLz04zlt1GuqBQfxD8/RVUUEXXCZCYbVprDFKdmNf1Qv44KTYOlME6o2p6Sc7DjFMfPKajmIZfL7LJxaiWNKqBvDv7wnr4VUzpv/cNbpPtnVPVWIB3naSu0Ye5g0cwu5KxGt0UUwejQ0Rbbmv0oB87vCG/RMR4pFuuVxAfHzipl5fBE2oRBmNv/iiBhQSlfxuj0OmcZ9CBZJs9PWwqe7TmeRTtwBC89hK8/GaurreNwbA//B758oWZC9MKxoMoVK7ieNoRHPKjNiv4WYCjedpSSvbuHxLKVbJ9opZIdexCpQ8aoIf/SdJMuv9s+mjdQsn3MDfRadvIGBx30f8oHVoJv65MR80/BsODUfItd12tHsbAy6mPofSFZW80Z8t5bB1mMfe15DmAF/60D3txoOs7TrzstgnZl3WaEq1z4qQx3BO2gT4msmt3i1JGc9oToC7qySILzTlQn/osz2qQ==;WnsPoYK8XIl9pdpGwdLxNg=="
+secured: "5d+3oWF2temm38l5nmiEKGo3cqFbqr6RzaloNhqR0/0E5XZEqJctdGs1smCXmbtlfaajhlbmJAbVySVovFdAvS3+GrbdkH+RQ0lh0WlLjrhrqN7K+mt0NoTpnysL8Vws8c62Ds68XRjFT3KPJu5Wk7VynV0Ibp8dLhK+4Nsp+kN8iNGzrKVvOb3W2eou4rGpzyePoXFTNJ6ntyzo/gDE7N75vB4ldIIxj9LYTgmL6c51nk2axRMapk74ANTc8OyHXjdDY//lNjx4nfLVvYl458Z4m4Ezli8o+1+y7TxpvvOfoHTsuhgrDeWK3AWEpKpWxX5foOOaZU27/Me82s/R/7kxyiZV9ZcxpdbZdHhtxQ8=;bZhyp7dJ+5x4yM2f7MmREw=="
 ---
 

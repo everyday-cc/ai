@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-12T17:24:00Z
 originalUrl: "https://www.news-medical.net/news/20220610/Using-artificial-intelligence-to-discover-new-antivirals-against-COVID-19-and-future-pandemics.aspx"
 webUrl: "https://www.news-medical.net/news/20220610/Using-artificial-intelligence-to-discover-new-antivirals-against-COVID-19-and-future-pandemics.aspx"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: News Medical

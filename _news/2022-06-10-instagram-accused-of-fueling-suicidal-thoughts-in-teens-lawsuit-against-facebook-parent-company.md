@@ -9,7 +9,7 @@ ampWebUrl: "https://7news.com.au/technology/instagram-accused-of-fueling-suicida
 cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/technology/instagram-accused-of-fueling-suicidal-thoughts-in-teens-lawsuit-against-facebook-parent-company-c-7096903.amp"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Family sues Meta, blames Instagram for daughter’s eating disorder and self-harm"
-    excerpt: "A preteen girl’s “addictive” use of Instagram resulted in an eating disorder, self-harm and thoughts of suicide over several years, according to a lawsuit against the platform’s parent company, Meta."
-    publishedDateTime: 2022-06-08T01:58:00Z
-    webUrl: "https://www.nbcnews.com/tech/social-media/meta-lawsuit-instagram-caused-eating-disorder-self-harm-rcna32221"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna32221"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna32221"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 70
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220606-Alexis-Spence-ac-737p-fd868f.jpg"
-        width: 1550
-        height: 1033
-        isCached: true
   - title: "Instagram is Becoming the New Mall: 3 Ways to Start Conversational Commerce Marketing"
     excerpt: "Instagram is quickly becoming a strong conversational commerce channel. Brands that leverage the channel’s digital marketing and conversational commerce tools are the ones that will be able to better engage shoppers,"
     publishedDateTime: 2022-06-08T14:26:00Z

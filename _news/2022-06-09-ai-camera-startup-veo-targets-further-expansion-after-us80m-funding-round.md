@@ -3,8 +3,8 @@ category: news
 title: "AI camera startup Veo targets further expansion after US$80m funding round"
 excerpt: "Danish firm Veo’s tech lets sports clubs record matches for broadcast or analysis without the need for an operator."
 publishedDateTime: 2022-06-09T10:56:00Z
-originalUrl: "https://www.sportspromedia.com/news/veo-ai-camera-series-c-funding/?blocktaxonomy=finance-investment"
-webUrl: "https://www.sportspromedia.com/news/veo-ai-camera-series-c-funding/?blocktaxonomy=finance-investment"
+originalUrl: "https://www.sportspromedia.com/news/veo-ai-camera-series-c-funding/"
+webUrl: "https://www.sportspromedia.com/news/veo-ai-camera-series-c-funding/"
 type: article
 quality: 15
 heat: 15
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "XDCDSMYuEorfuVXPRsnrHFELX6TaZuyacve5YifLEUYK0rZYFpVbVPgbjvQsyXqEhmkoQ8RUL3de1EwazYMfnxXT/sS4XXwSf9+tXGwwiEQmiuW7dSY7jyjcF74tBVh6xxBNv44AzwmooBeZuhvgKiC6FkRh93uVzDflGmlMtLmCg4qOGaG5fGixjNVRT7svBVqYorCyQ63sUt8Xou3e7s0YYnuaWPquGAlGW5z3pX9GEBjAZYzYY1Z4l7G+STYIKRZvcf0SInlcwMAgR4vjUWPwY+Kz5g94809VidYhUaYzzApihmRVb5eZElz3+nBdj2s2yFB9AN7UuARDMPjMvZYSOI8qCVkFCxfOK4KcDBFzBC3sWhSSrwv6GNNzfI0i5pU29wBNGffuKBi3DqnAKnDXT47fPtRXBVJS609P19Sg+8kJA5IvNepVS1aBrSHqRIhKzUeKFG0bnJ48tuisYABx6QMY36hdJ522mHi6CxlMhhbbifJMBWBkLUaI5jTkUacFdrYJSKuIokGWloVJQw==;9EEpn+JAFPdbAYqxZJIyYw=="
+secured: "8HE9xCKteO1XfyLy5ulS0QwlloWwLywzFUGI0G737Qn0HO5RQKIge6qzxvLkRkGS5SmGPz3U9UVe3ZBQRTzXMzO+wNExg96Ge6D+YNwkX4pK7ceTFlvNt1yCHMGDrARri5fT/QuLztqTlrqB1W7H4h8BoQlatqBJrT680F14jfg5/lDdRA6VrceQx8/qgVFjVFlm3/CeU4I5HKGt0jqZerjAv8ASu763ZCLcA+T2GPw6vBe+PF2U8HcTPwlR4LkdSIYTpwAtYL0JQo9V9Ht/rTsWigkim0/DNOQekDxSngGsJM6qQnB/UE8wec6/sdEtiiLC5Rhb3pqEI3QW0wXTCHvrk4K/V255/RN4pzPI+FR1x0hPFbup5YFaODr4M+XQfDtiqdCPJLIvbJCpps0gD4cCP52qy0ovJrqcLBOFQ5XGLDewwqE+3BClcRAE2BDy8wKVxCVXltCqpK0vOpIp9tQbTGAnV2soEGwpSegYfRiT/4rbGeB3txsU3loPrzFBtZydLrgYn4zcucnjCAVsqA==;AFcbxYUb/jtnoKzMMWOQTw=="
 ---
 

@@ -42,6 +42,31 @@ related:
         width: 1778
         height: 1000
         isCached: true
+  - title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
+    excerpt: "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine."
+    publishedDateTime: 2022-06-12T19:18:00Z
+    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?d_id=3887326&ref=bffbhuffpost&ncid_tag=fcbklnkushpmg00000063"
+    ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://img.huffingtonpost.com/asset/62a56658250000461b473745.jpeg?cache=IyXMvacHho&ops=1778_1000"
+        width: 1778
+        height: 1000
+        isCached: true
+  - title: "Google Sidelines Engineer Who Claims Its A.I. Is Sentient"
+    excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company’s most advanced technology. Blake Lemoine,"
+    publishedDateTime: 2022-06-12T19:13:00Z
+    webUrl: "https://www.nytimes.com/2022/06/12/technology/google-engineer-blake-lemoine.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "Google engineer claiming AI has consciousness placed on administrative leave - Reports"
     excerpt: "\"Our team – including ethicists and technologists – has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims. He was told that there was no evidence that LaMDA was sentient (and lots of ..."
     publishedDateTime: 2022-06-12T03:47:00Z
@@ -56,6 +81,15 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "The Google engineer who thinks the company’s AI has come to life"
+    excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
+    publishedDateTime: 2022-06-12T19:01:00Z
+    webUrl: "https://www.adn.com/nation-world/2022/06/12/the-google-engineer-who-thinks-the-companys-ai-has-come-to-life/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 23
   - title: "Suspended engineer claims Google’s AI has taken on life form, acts like a ‘narcissistic’ 7 or 8-year-old"
     excerpt: "A Google engineer reportedly claims that the company’s artificial intelligence tool is capable of independent thoughts or feelings. The engineer, Blake Lemoine, wrote on Medium about a week ago that Google has put him on paid administrative leave in the context of AI ethics concerns that he was raising internally in relation to alleged violations of Google’s confidentiality policies."
     publishedDateTime: 2022-06-12T14:27:00Z
@@ -79,6 +113,33 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 17
+  - title: "Google engineer thinks AI bot has become sentient"
+    excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."
+    publishedDateTime: 2022-06-12T19:55:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018845615/google-engineer-thinks-ai-bot-has-become-sentient"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 17
+  - title: "Google engineer put on leave after saying AI chatbot has become sentient"
+    excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
+    publishedDateTime: 2022-06-12T17:45:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
+  - title: "Google Engineer Put On Leave Claims A Self-Aware AI Wants To Be Known As An Employee"
+    excerpt: "According to AI Ethics Researcher, Blake Lemoine, Google's LaMDA AI chat bot tool wants to be considered sentient. Through conversations and research with Google's LaMDA, Lemoine claims that not only is it sentient,"
+    publishedDateTime: 2022-06-12T18:16:00Z
+    webUrl: "https://hothardware.com/news/google-engineer-on-leave-claims-ai-desires-employee-status"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 12
 
 secured: "Jx/Vz/43dqPVeO7URSr/TK9JhXIRmWM8FL6JdLeGcRU0F6RtXm0ecJ7RPHGp1LKMTwyuGUaCv3N0OInutTiTirv2O6IncCEVuqgTxjj4DgauQ0+RXjXqC74LZvZ41QbEZEZMxYzXO3jsLikuR8qs0YwyWBy+XvNCxXL0Deg9WF85swQnDK/YYmivpBa7P7H5GP6J3Kwfx/ovpO5EGNhjBZCAJraQSi59Gpi4iQIa28tLOKReih9ikLVjXAI3vo1QsZwF9siEawN44E0qSFznA8hdERHddMMQlsbvhXXsaN6VfWgyqsXRSRI+zA7ieqFaUo5Ptu9a+MZlknm8MjIEdpwxojPVWZUW24h9eROGTOC5zqsgwa70y+yV2lofFBoPQlIU6/qHXLzwe9FdAegYlqYWknH/i6UcIA8I2jzIxslorz37RcWnQq4i1oG91XcazSThv+rTzt4es4Fu0TvdOF+iyo3J+Db3YsxyDGjV/4q7lS5OtpxX2Hm1xUayAZNpGwL40hsQzfLqc36NZB6GAw==;a2+ErfxAmosPRnKM7A3tbg=="
 ---

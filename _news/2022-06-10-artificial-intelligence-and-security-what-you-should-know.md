@@ -43,22 +43,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "The scope of artificial intelligence in fighting cybercrime"
-    excerpt: "AI can add additional layers of information and authentication on top of two-factor authentication. For instance, deep learning can be used to analyze.."
-    publishedDateTime: 2022-06-08T03:27:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92072000,imgsize-374186,width-1200,height-628,overlay-etcio/the-scope-of-artificial-intelligence-in-fighting-cybercrime.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security"
     excerpt: "Lacework's Mark Nunnikhoven joins Dark Reading's Terry Sweeney at Dark Reading News Desk during RSA Conference to talk about AI and cloud security."
     publishedDateTime: 2022-06-09T16:30:00Z
