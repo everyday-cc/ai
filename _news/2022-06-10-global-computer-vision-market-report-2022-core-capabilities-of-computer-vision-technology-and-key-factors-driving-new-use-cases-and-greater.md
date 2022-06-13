@@ -74,6 +74,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 12
+  - title: "Global Edge AI Hardware Market Report (2022 to 2027) - Featuring Baidu, Continental and Intel Among Others - ResearchAndMarkets.com"
+    excerpt: "Market dynamics are forces that impact the prices and behaviors of the Global Edge AI Hardware Market stakeholders. These forces create pricing signals which result from the chang"
+    publishedDateTime: 2022-06-10T11:56:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_45f7e931-7dd1-5203-9385-de95cab32916.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 0
 
 secured: "aOuMZZzOLtSyecDcypX17k/9+lvWdU6buO9KCTabf2iFmNoe3em59WtNa/5OdWMSbwxBJ/mSaCDUaliGYSlxxJUZp71UduQY4CEh9R4qS8x5MOyuxW4EdeQMwpD0ew1x1s1kH7A8h16/NdyBXBrLh3ULvILae1hxHUuz9oa9Tsby3xXoMii4zKX+HMfYImWe1kK45bL1Z1euAE2VUC7KoHbnJFjSguRfdZzqBZrMAs0g+iQLVsFBej0e0KK4pR4ufqJ7wWlaaNKeLWjNO2FGl9fSnvZQVAiz+7a3I/9hl16PPcdYk2/dsEyQbYXR6L0ECWWfFmGlhpnkZAcfIfp8zpNVuewlo0uDTMta+lHpE48=;Qr7WwsooWRSmH53aRqLhRg=="
 ---

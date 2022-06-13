@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
+    excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."
+    publishedDateTime: 2022-06-08T18:32:00Z
+    webUrl: "https://jalopnik.com/waymo-will-put-self-driving-trucks-on-uber-freights-net-1849035119"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 28
   - title: "Self-driving trucks to cut retailer costs up to 30%, Gatik CEO says"
     excerpt: "This week autonomous trucking and “middle mile” logistics company Gatik announced a multi-year deal with paper-based products company Georgia-Pacific, to use its driverless trucks to deliver items like bath tissue and paper cups to 34 Sam’s Club locations in the Dallas - Fort Worth area."
     publishedDateTime: 2022-06-08T20:16:00Z

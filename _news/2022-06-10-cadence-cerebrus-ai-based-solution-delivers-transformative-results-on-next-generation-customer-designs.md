@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "AI experts to advise LG Energy Solution on digital transformation"
+    excerpt: "A Seoul National University (SNU) professor specializing in artificial intelligence (AI) technology was appointed to lead LG Energy Solution's (LGES) advisory council on AI, according to the company, Monday. The electric vehicle battery manufacturing unit ..."
+    publishedDateTime: 2022-06-13T05:37:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html?fl"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202206/44af7df6e76c41f186d4eb377bb89f44.jpg"
+        width: 980
+        height: 625
+        isCached: true
+  - title: "LG Energy Solution Sets Up Special Advisory Council of Global Artificial Intelligence Experts"
+    excerpt: "New council established to drive company’s digital innovation and promote manufacturing intelligence Five global AI experts specializing in various crucial sectors assigned to spearhead key technological tasks SEOUL,"
+    publishedDateTime: 2022-06-12T00:00:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-3fb8a99f9302d79201d98c635f5eb417"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence ® Cerebrus ™ Intelligent Chip Explorer is accelerating with new production deployments completed. Given that Cadence Cerebrus employs artificial intelligence (AI) technology to automate and scale digital chip design,"
     publishedDateTime: 2022-06-09T14:46:00Z
@@ -28,20 +58,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
-    publishedDateTime: 2022-06-08T17:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

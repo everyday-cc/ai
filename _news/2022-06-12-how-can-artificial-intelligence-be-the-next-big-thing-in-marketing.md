@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-write
 webUrl: "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Five Ways Marketers Are Using AI To Elevate Their Content Marketing Strategy"
-    excerpt: "AI is proving to be a valuable asset in many different areas, one area being content creation. It is no secret that content has become an integral part of business marketing strategies in 2022, and due to the ever-present demand to produce high-quality content on a regular basis,"
-    publishedDateTime: 2022-06-08T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/"
+  - title: "Can AI Tools Tell Us What Juries Are Thinking?"
+    excerpt: "“Emotion AI,” “Affective Computing” or “Artificial Emotional Intelligence” (essentially synonyms of one another) is an expanding area building on advances in machine learning and neural convolutional networks, to analyze visual, audio and text dat"
+    publishedDateTime: 2022-06-10T16:08:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2022/06/10/can-ai-tools-tell-us-what-juries-are-thinking/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//629f75674916d75720516f17/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2022/06/Artificial-Intelligence_2-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Global Edge AI Hardware Market Report (2022 to 2027) - Featuring Baidu, Continental and Intel Among Others - ResearchAndMarkets.com"
-    excerpt: "Market dynamics are forces that impact the prices and behaviors of the Global Edge AI Hardware Market stakeholders. These forces create pricing signals which result from the chang"
-    publishedDateTime: 2022-06-10T11:56:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_45f7e931-7dd1-5203-9385-de95cab32916.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
 
 secured: "31czo9PWtqDZ1gq9gqr2wadGYmS+h+qeI/SGm7f7tIxMraVABJVMKb5869eo022c5MAvaLm7nKh+RLLrTZo873x2kBmwCmbRBfD3KArfe14vJE2TAR3Jh+QLJC3eMsKuRHsxkRI42USw5Hj+jugaSMAiC9q6BJE9X+SwUI7qw/x4adrRx97xfDaQCf1tHxF4mBIAyP1yqmbR9jPYWQno9/Sf2e2I0rUFQnO/+2Z8Oi+DWMuWYyP+xEgcT0zNzWJht/YWu6WSb4GtGqL+qXCDUgz9Bplj035QAZQw16LHtKrh+JsTBT2R+Tyg1EHRQjUGV9o8Uqb2mI2sQfKdNvfXmZ2JW7+NR+92M+lxj9rTyro=;BONrMvg2CZnEZRWSRnBCIw=="
 ---

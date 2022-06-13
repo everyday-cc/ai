@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-co
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-computer-vision-market-expected-to-reach-us-81-10-billion-and-cagr-26-2-by-2028"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Ai) In Computer Vision Market To Collect Hugh Revenues Due To Growth In Demand by 2030"
-    excerpt: "“According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Computer Vision Market Size Is Expected To Reach USD 80.10 Billion By 2028"
-    publishedDateTime: 2022-06-08T11:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-computer-vision-market-to-collect-hugh-revenues-due-to-growth-in-demand-by-2030"
+  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
+    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
+    publishedDateTime: 2022-06-10T09:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-06-10/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 49
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 10
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Davos-Selensky-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
 
 secured: "G51/mhNV7Cyt+G6/d9xcPgGzsYP5xwXV/h9L3dRuh2fLzu1/93RIjQhe26uPfNHjQ8dWZoEJnF0btgT045VdeOZYaHiC6eqZbmAd8RPX0s4HSYTAd1EajpYyYDdC1BZ7D21KA7Uqqc+bWvIWjjxIGfgoRVYdS0V9KutcUqnugkNDXM2pUajeurErUsq/2MFAQsSHvc4M74gwlxdxwPshybOwbH/U8KbeZFRX3Nh9ahJVUBiV4jP2xvkfKTHqbAyF4HbaGDFg+YVs8fxdMhu+bnJ5aPJ+KSNarygI71kSwInVt5s+Hz8uqwD+mXCmfpjwSmmBKP7kcPV4lEM21Piqab2AAuMOE/ubWqUP//OZcjQ=;XC17h4KQJyb+mc22Qi+uSQ=="

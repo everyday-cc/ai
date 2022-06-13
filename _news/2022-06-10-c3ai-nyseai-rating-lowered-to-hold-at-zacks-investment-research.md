@@ -27,6 +27,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
+  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) to Issue $0.15 Monthly Dividend"
+    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, June 9th, Wall Street Journal reports. Investors of record on Monday,"
+    publishedDateTime: 2022-06-09T21:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/09/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-to-issue-0-15-monthly-dividend.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 10
 
 secured: "Ag0XsS1fJOTOrG33k6++hw4cWaWJDg12O1EAjDmbDeMFGGIjWjhTQBptRaSsZOX48Ts7PeP3/KqFYJF8adb4bz04OfHYNRd0ORNnRcbGtA9u4EB0flZAp/m9TpwbzEZpxiuFXKTHecfO/pwCH/FXDUufGYuh1RBRSnwYvOQJK1av3Zgw3gn1PUKwBj0iXey+cedq9IeM6RKuahg1sv4+Sww/S9sb/0VSOjTuo8HxObjCkQUH5pP6225u3y5U7GzG6gSRCPKn4QEy03oZwfjSKU3Z3/kYutYxdBN7Yv6TJTA+3q6/aCEQ4vE20dIbY6eG1VrVQu+z+Gk/3vJGPxgMeFAwuFn4KGLSbPRSUftcFVg=;MRc1LNR0u/gtnHMXgv5zfw=="
 ---

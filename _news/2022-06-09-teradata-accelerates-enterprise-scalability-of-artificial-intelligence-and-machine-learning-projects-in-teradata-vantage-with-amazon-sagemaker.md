@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+excerpt: "Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics platform with Amazon SageMaker, the industry’s most complete ..."
 publishedDateTime: 2022-06-09T14:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
-webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+originalUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
+webUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Incremental training with Amazon SageMaker JumpStart"
@@ -72,6 +78,6 @@ related:
         height: 541
         isCached: true
 
-secured: "lifRmEs7T39KwpCLwHJLTErs/55ByWhmlZKAPDx8CevLCWRIm75YgPHTgkYudEVXX4Ochyg34nAbk/iv/qsfhUY/zOkZH0Qee8iyRpasETQ4KlKl/rGXCPUdFW0WXN/p3QJ4sSfmAzQGagh4bLm2E63esFny4xbDcJ4xy091T07UtaeDPwysoqDZxqdhk8i3FqY20062w/0z2kBuk0lCm5/My/MbeKeYpGYmdAncKvJ32TwO9EMJz4SYDS8r89wBz1jqH5rIfI76EAkXCXh9v4Lu5WbG2/+oJaX7h7gxBi0ENRRMF9EohLsYb1iWbzDi2M2qfPNWKofx01/Iq2DvKq/N6OkxyK+47210zDdJJAk=;cits6maaVWaUmYH1vMqW5A=="
+secured: "R+AjxfdjK1vAV+YdQh+b+BbwrgfzY48XfCDFC1RZWalvpyQZUxLVdaSn8ETsvJwuZ1Qk++xL2kVfJt0Gs3pdZ6sg3mBAM+zRKjdjfHmw5yOxQhSjU1JOsoYSB1alr7l2JM2GRxGRWIXAR7p9u/R/8vi3f1OwHaYnLlzwaBEbY7OJOGfRceJW+zOKRXg2gRy195o+6vslEYKDR0DHPKKbYuDwWLyBXotBdsXPdHoaac+CUPpq4GtxTM8OwvLTSx0yr2gglbqWOf2/T8Dhar450qbDg+EdTcRuwGTpTsplchS7N0WDhMs06wWmwtcwMMD4mqGmmsREEo6wZWbxpEhHZ3tfQDQDKiRQ2VM8hXTMxVc=;DyZjciKeJnic+4xtygEXbw=="
 ---
 

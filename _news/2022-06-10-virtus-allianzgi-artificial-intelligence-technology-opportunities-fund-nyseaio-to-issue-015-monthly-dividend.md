@@ -18,49 +18,24 @@ topics:
   - AI
 
 related:
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Plans $0.15 Monthly Dividend"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, March 10th, Wall Street Journal reports. Stockholders of record on Monday, June 13th will be paid a dividend of 0.15 ..."
-    publishedDateTime: 2022-06-08T11:02:00Z
-    webUrl: "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 51
-    images:
-      - url: "https://www.marketbeat.com/scripts/DividendChart.ashx?Prefix=NYSE&Symbol=AIO"
-        width: 650
-        height: 325
-        isCached: true
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Plans Monthly Dividend of $0.15"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, June 9th, Wall Street Journal reports. Shareholders of record on Thursday,"
-    publishedDateTime: 2022-06-09T21:12:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/09/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-monthly-dividend-of-0-15.html"
+  - title: "C3.ai (NYSE:AI) Rating Lowered to Hold at Zacks Investment Research"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) was downgraded by Zacks Investment Research from a “buy” rating to a “hold” rating in a report issued on Thursday, Zacks.com reports. According to Zacks, “C3.ai Inc. is an enterprise AI software provider for accelerating digital transformation."
+    publishedDateTime: 2022-06-09T19:46:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/09/c3-ai-nyseai-rating-lowered-to-hold-at-zacks-investment-research.html"
     type: article
     provider:
       name: Defense World
       domain: defenseworld.net
-    quality: 10
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (AIO) to Issue Monthly Dividend of $0.15 on July 1st"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) announced a monthly dividend on Thursday, March 10th, Wall Street Journal reports. Investors of record on Monday,"
-    publishedDateTime: 2022-06-08T11:02:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-aio-to-issue-monthly-dividend-of-0-15-on-july-1st.html"
+    quality: 17
+  - title: "Research Analysts’ Recent Ratings Updates for C3.ai (AI)"
+    excerpt: "Several brokerages have updated their recommendations and price targets on shares of C3.ai (NYSE: AI) in the last few weeks: 6/9/2022 – C3.ai was downgraded by analysts at Zacks Investment Research from a “buy” rating to a “hold” rating."
+    publishedDateTime: 2022-06-10T17:36:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/10/research-analysts-recent-ratings-updates-for-c3-ai-ai.html"
     type: article
     provider:
       name: Defense World
       domain: defenseworld.net
-    quality: 5
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Sees Significant Decline in Short Interest"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) was the target of a large decline in short interest in the month of May. As of May 31st, there was short interest totalling 300 shares,"
-    publishedDateTime: 2022-06-10T20:54:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/10/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-sees-significant-decline-in-short-interest-2.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 4
+    quality: 17
 
 secured: "ebkqArnb4OOq7iTTAJDDBSytulId4ab3BkkYMt8NE8SuabO8HcEUJS5SfHsspxBTqqK+AW7V63TAfq8MPQuZ0qpW815+6tTWzr5h6JRWzV2pO+LCKDWjAdmnD3cdMIYeV9rmmaZMjw1AeHHyxqnlK4Gqtv+AUrwWN9aLEx8KOutXRT4DeVW2SivcVVqXUE1HRv4pu/ujAS7NSaxVVG/9t4GKaH3CyuHIiz29VYL/avpfaDmVtAFa/4DtZmt1jzLbr1eTSkLcezSe4uX4dZ8HsXWCVgp1ZGVrRgvHHlAXO7vG79DxuUNFgkhO2I79M+fYOfOTjImtCPfm3GZk3/zqfHYN8S+UmrS4xZLoviqt3U/H2UgLIGkZ61XkIo6vygg9Kbro7JfPRLZuEQVaLpW1W4a5hBVg8URAxlBEcAkkeFaKYjDDSlSvlshwM5Exsd7MshtaB0M+Auerm6n0Qqpcc/t6kDaJebCwUiBWLKpViAzAIloRILoKU+dPgabh1kR/RwEkTLTKaiU3tLwuKEXpVg==;82EnDUddWqm445dpCBStQg=="
 ---

@@ -59,15 +59,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "P&G and Microsoft co-innovate to build the future of digital manufacturing"
-    excerpt: "With Microsoft Azure as the foundation, the new collaboration marks the first time that P&G can digitize and integrate data from more than 100 manufacturing sites around the world and enhance its AI, machine learning and edge computing services for real ..."
-    publishedDateTime: 2022-06-08T11:07:00Z
-    webUrl: "https://news.microsoft.com/2022/06/08/pg-and-microsoft-co-innovate-to-build-the-future-of-digital-manufacturing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "XskLT2zYFJEyz/qCfo3qmqyLrsOe4pmCKsoAv0XkPB/Yy2h65XpLIF26gG7GITMYMYwWL4e7Qizjta+2v69ov7CVpQrEHOHGO6XNnQZFLOkRAh6dv10HetzaIpPVYDML74woVe809MB7NaBoQEYqf9qUsXwnqmShEUnOxt/8X4UsWHWbUVNs4UeBe19x7NI4c8Pxrhr+aMtrkyIE+NS7FedL6wQWE1YmcArxxosUKoPLa3tssLFBWp+o8qcxpVsvHac/eYQ+F/rjt5hV7rFEfpcyn5Lc3xQ7pxvuYyAN5w9hvz68RVqpDQ8eJQ+T3//oBgBy0cZV6h8wqR9NHqnV6qJakTo1kYC1sj1KZ1zRoF0=;vQTVHKmI1MWLIWsDSyBRDA=="
 ---

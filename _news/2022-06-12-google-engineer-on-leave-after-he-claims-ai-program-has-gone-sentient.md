@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artifici
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
 type: article
 quality: 89
-heat: 239
+heat: 259
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Employee Put On A Paid Leave For Claiming Its AI Bot Is Responding Like A Human"
+    excerpt: "A Google engineer has spoken out after being placed on administrative leave after informing his employers that an artificial intelligence software he was working on had become sentient. Blake Lemoine came to his conclusion after chatting with LaMDA,"
+    publishedDateTime: 2022-06-13T05:41:00Z
+    webUrl: "https://in.mashable.com/tech/33216/google-employee-put-on-a-paid-leave-for-claiming-its-ai-bot-is-responding-like-a-human"
+    ampWebUrl: "https://in.mashable.com/tech/33216/google-employee-put-on-a-paid-leave-for-claiming-its-ai-bot-is-responding-like-a-human?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/33216/google-employee-put-on-a-paid-leave-for-claiming-its-ai-bot-is-responding-like-a-human?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 79
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/6bdb84da-45cd-4d91-bc4d-e5c12b44db7b_mbmk.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
   - title: "Google Employee Suspended After Claiming Company's AI Has a Soul"
     excerpt: "The technology is something Google announced last year as breakthrough technology, using it internally as a way to better tweak and improve the company's flagship search engine. A"
     publishedDateTime: 2022-06-13T01:56:00Z
@@ -82,7 +98,7 @@ related:
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
     publishedDateTime: 2022-06-12T19:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
     type: article
@@ -132,6 +148,17 @@ related:
         width: 740
         height: 400
         isCached: true
+  - title: "Google suspends engineer who claimed company created “sentient” AI"
+    excerpt: "Blake Lemoine, a software engineer on Google’s artificial intelligence development team, has gone public with claims of encountering “sentient” AI on the company’s servers after he was suspended for sharing confidential information about the project with third parties."
+    publishedDateTime: 2022-06-13T05:45:00Z
+    webUrl: "https://mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html"
+    ampWebUrl: "https://mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
     publishedDateTime: 2022-06-12T23:19:00Z
@@ -220,6 +247,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "UBGR22NBYP4uYVjoC3SXiirlk2oG4NUAQsyHFZAIvWfaHTHdt4hDi7n3UbW/GIEnrK+uAr8rc2FmPnq2LEHliSG4O2SfSbtj56TXGVQyofJ9ppTVjeYGfOEoVMmHvitdtOXCKWrjO47GEJq5F2cJtGTPvKwGGEwC7ivWd8mtawl8WVJLxFseu2/IqCfhCRLGmBaSoS0sqljoWswSdtRi3gWpN84N1sqSu015vMHFe2K73+zSpIAtTDCXW3SN8fpFs1mYkqVOYu8soFw2/nmMLmY6iUpFMcNjBB6d+3jz/j2EqyCUKVp1ArIFl5c7fpbFyOApXkCpxBAlNFWfG3WkrQXhsBo2BJ/zP034nfwOEDE=;iYHsjvxpc1e9/kmy76kZag=="
+secured: "fg1N7hFGXJ/NoTMTbg2nyCrsx4CLtkIN26LQb9IunVeNqFyhoKNpoQ7+vN1zep4uMtWhViEuo+PfP/U1aprmulJmsytxGaDxdzGP4OI6RtpRcVO21VmQUYm4ywRSoSZkZOQnDa2A+wQHEvbY+PDDRQfOId7PEYenuaZr4fhr89VIW9MNwuSg7ljkD7GQz6wkMc8c7zKL+G7TdGIKA70GOuT2/a1iY178ZKaLbi1D0rBHF2fI1wosppwMxzadkXJ3eBORYy4+5uxiLroTv8/fTDVMNSe0CGaGR0naTerz7EDZwFFYlc86CCvcUUchCBmY7LQbaH4j1SC6kd17k71CNkyQh/9HPnWY57vlCRkmUwAaUkcmt8mucjysZ4fhXNyRkqAEgfMs/vJmUYG1p2vSbcHKp2jc4l2k6sgrJthJgmReFlQC4c73PRjd+Dgl4ezv6EoPiTfYVJy+f2caVE0VNUH8EVahteLYbGo5m4e0hfU5ySxJoaXavuwwMtEDpUPSa2/5nma2wBFITDc2gdjyDg==;MJU0hhlLG+LgOvgFUptasA=="
 ---
 

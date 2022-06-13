@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-f
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

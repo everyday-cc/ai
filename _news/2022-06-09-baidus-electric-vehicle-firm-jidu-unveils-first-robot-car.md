@@ -42,15 +42,20 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Baidu’s electric vehicle firm Jidu unveils first ‘robot’ car"
-    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto on Wednesday launched a \"robot\" concept car, the first vehicle to be revealed by a"
-    publishedDateTime: 2022-06-08T11:54:00Z
-    webUrl: "https://kdal610.com/2022/06/08/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/"
+  - title: "L2 and L2+ Autonomous Driving Market May See a Big Move | Tesla, Baidu, Cadillac"
+    excerpt: "Advance Market Analytics published a new research publication on “L2 and L2+ Autonomous Driving Market Insights, to 2027″ with 232 pages and enriched with self-explained Tables and charts in ..."
+    publishedDateTime: 2022-06-10T10:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/l2-and-l2-autonomous-driving-market-may-see-a-big-move-tesla-baidu-cadillac"
     type: article
     provider:
-      name: KDAL 610
-      domain: kdal610.com
-    quality: 36
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 49
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/051a518886e702eb4a9eea9982a177f13dd2078e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "fC0xHs8GPHjjBq0Ug3R/IOA5R1QRn60syQaD/Ig4MRst6HlnsWIw+xwljp/FC8h0xnHjwAbrdjBZqA4XMhnWPEJfZCIZI+z9/gAEfNP+jNcpxGZz4VMSIVk0iaS5iiF67a1fdQQ3zQskLZgWvkD/9uPwBr8cRZOHr7u+ZbD3TWrAPaRSGO02qotk47eXPvMEdBuuSV4xr5BzWZbSmvU4u5yNFWQnQfOd8oo/c4BkhB7tdlXKYiiF85NmeN9L+RmYB9I7rKIWKaWX1954IZEyAnOoR0bqwDo1t+iTyE47WZ5OSQIX4gYPOS/Z91SW/GWtATVDwi2/51oDCXYTKmocAa/IxyYcwGS4NV17BECvqRo=;4GUR3TZFgQyab0JGZavBDw=="
 ---

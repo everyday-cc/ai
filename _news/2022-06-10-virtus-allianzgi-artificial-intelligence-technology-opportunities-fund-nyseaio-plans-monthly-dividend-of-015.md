@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/06/09/virtus-allianzgi-artificia
 webUrl: "https://www.defenseworld.net/2022/06/09/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-monthly-dividend-of-0-15.html"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -18,40 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Plans $0.15 Monthly Dividend"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, March 10th, Wall Street Journal reports. Stockholders of record on Monday, June 13th will be paid a dividend of 0.15 ..."
-    publishedDateTime: 2022-06-08T11:02:00Z
-    webUrl: "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 51
-    images:
-      - url: "https://www.marketbeat.com/scripts/DividendChart.ashx?Prefix=NYSE&Symbol=AIO"
-        width: 650
-        height: 325
-        isCached: true
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) to Issue $0.15 Monthly Dividend"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, June 9th, Wall Street Journal reports. Investors of record on Monday,"
-    publishedDateTime: 2022-06-09T21:12:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/09/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-to-issue-0-15-monthly-dividend.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 10
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (AIO) to Issue Monthly Dividend of $0.15 on July 1st"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) announced a monthly dividend on Thursday, March 10th, Wall Street Journal reports. Investors of record on Monday,"
-    publishedDateTime: 2022-06-08T11:02:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-aio-to-issue-monthly-dividend-of-0-15-on-july-1st.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 5
   - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Sees Significant Decline in Short Interest"
     excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) was the target of a large decline in short interest in the month of May. As of May 31st, there was short interest totalling 300 shares,"
     publishedDateTime: 2022-06-10T20:54:00Z

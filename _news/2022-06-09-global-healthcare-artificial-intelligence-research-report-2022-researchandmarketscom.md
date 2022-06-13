@@ -75,6 +75,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "Global Edge AI Hardware Market Report (2022 to 2027) - Featuring Baidu, Continental and Intel Among Others - ResearchAndMarkets.com"
+    excerpt: "Market dynamics are forces that impact the prices and behaviors of the Global Edge AI Hardware Market stakeholders. These forces create pricing signals which result from the chang"
+    publishedDateTime: 2022-06-10T11:56:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_45f7e931-7dd1-5203-9385-de95cab32916.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 0
 
 secured: "XtbNyxJ3vYlxcbd1idOldoJgB/raIKQrVYm+rADO5rLkGXIZz5cYcChZKtV8qBfKb52Pbe/2SW49lqZt2UDieThnsKAb4qZDM4vmXh2Vim8/ZnGoocZuxn4gv/pip2/oyqaJjy4/M4F+mVWP6Bq4EH+3JVL8tkcojsYIBFuX9vpFnzJFyl/JpU9Utb8WRsDR9fK9XP8RcctzlOqZuoWDy05Yuo53snJNlc4nJji5/OxjivoiTsx3dIac+Ao57lMUQ+SGmtVrvu3Gg+cJqiNfXv50btt12M0XTsMKbaftJ12DWFhvxd4ivgftteFRwHGHAd5QkXzmT4qnhYkLnZW85DeSHqf35uBUbqb7wXO6siA=;HwWeiW6SjGMoRifVCvXjMg=="
 ---

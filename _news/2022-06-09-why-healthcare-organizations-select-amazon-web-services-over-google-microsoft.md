@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-or
 webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "P&G and Microsoft co-innovate to build the future of digital manufacturing"
-    excerpt: "With Microsoft Azure as the foundation, the new collaboration marks the first time that P&G can digitize and integrate data from more than 100 manufacturing sites around the world and enhance its AI, machine learning and edge computing services for real ..."
-    publishedDateTime: 2022-06-08T11:07:00Z
-    webUrl: "https://news.microsoft.com/2022/06/08/pg-and-microsoft-co-innovate-to-build-the-future-of-digital-manufacturing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "U/8/9giLu1ncZYypsNoUXtX3xEumXx049blJKc9ehlb5UHj29npiwe3ssjuD+rnLMkURu+8MNqi3OsYTAUSeXGeSV5ZX5K2ERf/znKCZh1B7nMzoz1Ti6IaoFuV1wKi9xKWTdjp8OftfwuqevxZD22ejWv5APzjypTmcu06PgrP+fAYp0N1lJVptU10QR8P4NM8urYILZJgZlDc+bzieUUa9155kYkR8TW4vEZVUK3qOS1UJ+2MX8Steray6ck5ZQZbHbnpyoemqXVMbJDfY+N2RGjeSFNUHqwgXGv2GRW9dfKEEmhMNIVI551Gjxb0DZU9o6KBjkRZ06ZCZmYtPomaMwdaIbhGGpVbnNbiKyEo=;GoLVvMBLrazTuhTVLg0A4Q=="
 ---

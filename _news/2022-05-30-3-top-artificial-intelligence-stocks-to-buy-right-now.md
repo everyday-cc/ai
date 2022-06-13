@@ -3,20 +3,28 @@ category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
 publishedDateTime: 2022-05-30T10:45:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
+originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - AI in Robotics
   - AI
 
-secured: "uqSw4+rfKKy1oBet1cj8bYSaompxUN5wG3srbGWjB55SE1Vu/xToDMStwTgE2PmdqxWqMrcfdYdsfKl0SahgLh8M92LRCxfCRLtikc7UI28CxoXjsXft7HFrrqqwlyvO+ldtbdbrgzS3g+fDYk/7Ul3AzMSGu/YcIqVklslJNI0RFF+V+sIO5d6+BL02R2ECLU0SLHhQ4fznqaVQRNP6yGjYvu+WESHLG68YAJhfdmw7ojtLT628s7YLedceJOW5aI0bsRFlI8cLnVr649j8XZmnVdaiZvhBc95QR3jZioIxDX0JKpzIj1Mh411Ju830RtJhxk3rGqVe3ICYKS61zMXXerkwtI2JwgF6l2nfTs2k1gxijeNltVb5jaS54IpuYqXW/U0fwa02zQ0kSpZLFnyxJYdt6pfNsjdLSHM2jcL8+Ae8lpTKXWLe7hsDK19ycVJyrjuNm4b60RwSqGGlxtAG75L4AIZP3A+PLBuymR27oRC1vRGuABSejQJowvskm9G78mT+zm+I7rpNHU1d3g==;xt3gPcSMKxFPYmyX3FB8QA=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
+    width: 2310
+    height: 1297
+    isCached: true
+
+secured: "NdLe7U8hF+PdH76VaB8EqTBn0JnBW31fGh3npdZERNmUjEyfQqE0ZtNqPhOZ1vLF7yQPWrbDJUW98b6DCTgp5frO2AekITig4BasP/N5j7jh9BkzrjaqCnHte0CvsgKb77Lbdbgnd2s2NEvvO1iwjsVM9n1z3iM1qpXITXwWv5iNyjIcjSsaf8bbILSUwFH04ZHRGWSxvWOWtDOwInwkvUraESunteo6EQJEHLn5sypVVLWe94JaikUQE4ppWl84VuBltFKfKzKEFBJBxDe12CKP2RTDV6/p2+7q/UirlAE9KrcMk694LA0Wh99QT9dG54S5sVAkhm3XPpu8rOxb1NXTLj7EwsP0Z1GDfpbif70=;Ji9t8ASfYu1KlWvYdwuhpw=="
 ---
 
