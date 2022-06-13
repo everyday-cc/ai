@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-09T11:14:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3"
 webUrl: "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: Associated Press
@@ -18,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "uq8TzOsFWPXkExWp/si5tafT+tBH3R4FMuOYu1uz/VqmjYjdLcbr7dgkEq3NvfRjIpNCgFkZgCDXiwfsWV/v9VZo4olKsVHEYyeuXXiFvTnZxFIdpC43vH8mQA+0YtHmmTCceyHcj+JPVIuMvbc+Q98EMqagUdHh6H0M0yFfOmzk5eklEcyPnX4zHqZ16jp/q7vsvemIT7HYd8h/XXs1rDsGBvmOZMwrrNh+Ad7pjRJqYJBSiUYPH03cpFDXSkK6sn6imZqFmsynX7x4DbOWj8qPI1SX4bm+nOcbXP02yFv8he50k7tkkYzxa5q+uv4Gbkakop5vOKQ12d3roGlfDeuTphS1Dr1mmYi1n422A6Q=;AtYzFXIaULWCCKYef0TD9A=="
+secured: "3ZsWVw5yIHuUBfsyYwuxalKhMOT61kiUxUrnVYSi4c6xcl0tEc5ixiAAaxnLSJiqY4WZPWdw7d5YxpwAq1j6WjOLEQpF5y9wsTgnk7LiQTZHuxVMh6YuD0UxWJ83vtQUWCU5H7i1ieg0iVJii5n5nCpVFRrcEy174Xws5q8wQDRiezFWnx7CXYKihFzKtu2JtarixuX3FVB8r3KNJ4tldItWVrkevfw5uc8JbvI/oDKsHwdOP2jJG/5TXeatZI+P890/4dbDO+eXHWvIiEsyhT9XGCSTMi01A1OUt5VYH9Wx9vwFZ43B/V+agwLNNa2yY4U5slIFKiUdhyL+3iJzFynH3fyTY9YNJYI5RqtTh5k=;aNVAYdu5/BAO3XQH2aTSIQ=="
 ---
 

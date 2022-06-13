@@ -1,24 +1,19 @@
 ---
 category: news
 title: "How Artificial Intelligence could influence Zimbabwe’s 2023 elections"
-excerpt: "When technologies are adopted in the absence of a solid legal framework and strict safeguards, they pose significant threats to privacy and personal security."
-publishedDateTime: 2022-06-13T06:21:00Z
-originalUrl: "https://globalvoices.org/2022/06/13/how-artificial-intelligence-could-influence-zimbabwes-2023-elections/"
-webUrl: "https://globalvoices.org/2022/06/13/how-artificial-intelligence-could-influence-zimbabwes-2023-elections/"
-ampWebUrl: "https://globalvoices.org/2022/06/13/how-artificial-intelligence-could-influence-zimbabwes-2023-elections/amp/"
-cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2022/06/13/how-artificial-intelligence-could-influence-zimbabwes-2023-elections/amp/"
+excerpt: "Spread This NewsBy Kudzai Chimhangwa for Global Voices Following years of citizen mistrust of election management bodies and perceived lack of transparency, the use of biometric technology such as people’s physical and behavioural characteristics in political processes has swept across Africa."
+publishedDateTime: 2022-06-13T12:33:00Z
+originalUrl: "https://www.newzimbabwe.com/how-artificial-intelligence-could-influence-zimbabwes-2023-elections/"
+webUrl: "https://www.newzimbabwe.com/how-artificial-intelligence-could-influence-zimbabwes-2023-elections/"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: Global Voices Online
-  domain: globalvoices.org
+  name: Zimbabwe
+  domain: newzimbabwe.com
 
 topics:
   - AI
 
-secured: "D7YiRFj9ZrY5jT7XPwUOGQA1g2uIDqrvo/56Om0UnEet7DyrbWzRFQ7rGTrekfdcnCl6AVEI4J9VJMIjIG1QGFsTj5AoigWWfFR5FAfgK8rW59qCHOfp5TJDWYruomwY87KFvNpAgoAjGklI478Rmo7OqPMzfJoQvK5oNCRbIiNDd0tnJaGDbDyyGrYXlaoJJuLqxxc4byL0dJs/+U7j6AQUSO+9XTbdOxCurCB52iNYSwxE3nK87yMsYZ/K0AMNT1m1TO+4HjXccmCXojKJ+fnYhpyR0AyES0jV37frLQTL3BJh76yXnQRsx8FFqRDfG6XxIJHgIR7zDcKr4YH1/VlItVUF+IkKO12LIsLfvGfXZXVHzY2zTztPYa7nlifc6yFOQI6bocs1hyimiOIrQ3bCf1yJpPdn5kpx5MpaUH4GfVmHfWL5OuShMPsreC/e8/kNtuFsjykCIIDqCnqAn8RSj/QYpwIPxF83Im2vRV+Py0bnQO1crTQqZ+GVfgU4DduunUa/UcfFc98u04Lf3g==;5E+KvnWoWXmJLocAL36TJw=="
+secured: "uapYIqqGmcKBkwAS7YdciTw8RQ407dlF4m0g1fRwXJqJZyLxsdEGzfBXVl90XJ+d660YNaMU0u05DYrsGz0kNRrw9IgWAtrkXReWrYKPcMhOFgU80x0lkh7zOrk9b79icbJaulGdgx18pIaKFY5yuivMzgijq2DVOT2CERCb7SxQc/vilJqvigeCafKIfWLOvXORQFZHFV4n9PrAHg2k7iHE1RWb9Pqg1oqqzyHB8RH7T/VETF5WYye84HWSXyI73Vm2zqy7Fdj4LNwPbX6IfIkjEqjR0JNzxw/1BLubOe9Kpu9uBfIY+/9nhhWENEtkW2v0N4rEhpIGoYHC2gIdReLlZSL727YCimFC/0ViN5bW4SpVxPJrOd83JTMo6Qcs9Tn0GlwDDokps/WG8k+gdLL2JnYzxj2e8wKoD1YdIkcqsnPL2ggv90IRu5aNOazONxHV9bKuQtUuNK45gTrr/pQmBQw56tfMYXzlfeR23v6a6+LZDZE7ddx3j/zE0KeoAxEDZB2C/2PDGnCJfiB+/g==;u+3G2nMwQ7Nw6xMk8k6UTQ=="
 ---
 
