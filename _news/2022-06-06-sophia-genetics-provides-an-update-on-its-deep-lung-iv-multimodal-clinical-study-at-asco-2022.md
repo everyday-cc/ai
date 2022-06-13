@@ -1,27 +1,26 @@
 ---
 category: news
 title: "SOPHiA GENETICS Provides an Update on its DEEP-Lung-IV Multimodal Clinical Study at ASCO 2022"
-excerpt: "Study leverages deep learning-enabled analysis of the aggregation of real-world multimodal data to validate predictive signatures associated with"
-publishedDateTime: 2022-06-06T15:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sophia-genetics-provides-an-update-on-its-deep-lung-iv-multimodal-clinical-study-at-asco-2022-1031511327"
-webUrl: "https://markets.businessinsider.com/news/stocks/sophia-genetics-provides-an-update-on-its-deep-lung-iv-multimodal-clinical-study-at-asco-2022-1031511327"
+excerpt: "Study leverages deep learning-enabled analysis of the aggregation of real-world multimodal data to validate predictive signatures associated with response to immunotherapy and prognosis of patients with stage IV non-small cell lung cancer Nearly 20 participating sites activated worldwide with over 500 patients recruited to date."
+publishedDateTime: 2022-06-06T15:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-health-genetics-30c5c3050ef0123d9b9e8cf161803797"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-health-genetics-30c5c3050ef0123d9b9e8cf161803797"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "q783pkjSIC7ijude9Kl5lj2+fIup+9d4/RxzQHrTvcRjAoVP9GsM4aViQoQkgYSSUQhRuPRSyiXPw7bMVu0ajHMUawDTc267mJrZRF1tlebsRt6Db4JF9D4GcZ0zDN7+tHzn5cxM05dkIGsI1qqy+Jl7ouaaz7mnt9D8DEGr3m+dP1tlh214Hl2Cop+YACLEXFIHfT//qSpqopWk0I1+JCeZuuXEAdSFS4TqPAZjLpBznMI0Pcwt262ufT1eTu5zVGRpqVpYauQ6rJKdRAgmHdypQiuacMVnSNVSOEgJFyuEZPYgi9WBTt4NHN9VCMy/pfpjHt+O+psm0hF7ibuOizL9Ou8gdTLUJGZBod6ht7td4efGeu2O6ZATMkhHQho/AJLaMvOvG9i+VZFFPgd2d7w9xEpFdjTTZ51rGhdCq9O6XW9U7toXum+IDYjfzmjmKTtlkSJhNkfnL2LQe844lmYxDufmF2osKVFTCo2xqVzDVTnlhNUOGKsAIq7W6KEALA0XZ34YfeqHsa+gEJmTkA==;TVr90GjcH9xXJc164fzV5Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "lws9GH8mRyVrVPDrIWS+PlYhrn2qa0Mt8xGkBy9nzv0vRNqlqImHn/DW91Wm11hBOHJs5mNt2DBOeY4FH9DhXogTyLqle1polfVe9UmVDrRFR9g6AL6aKqFQt4geq5SpqMwwEcqX5Sq1K13ujZpGhWrIoqnBfnnaIjjbaTETVv2BVpWxkvHfLcHLAi+kHeJ64zjR5FOkWmeza548aEd6g4MsBZrqtDPOFtsu1zWde4w2ujTtlKQuugmrLKvGi+sNtxY1cEuf88fNFMGunQ6fOlbcIsVuv/W6dUjTWLaV8oGguDwH0Ux0MkuSz46Nv78ymJ29wRum2/60we/5FnzNGgu67QZuUl/dqJNhQ5Vz/no=;5ccnqiXjAoIqyTB3z2PiJA=="
 ---
 

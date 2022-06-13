@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/technology/cloud-based-video-ana
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 609
     height: 311
     isCached: true
+
+related:
+  - title: "How augmented analytics can empower data-driven enterprises"
+    excerpt: "Augmented analytics helps organisations deal with the complexity and scale of data that has become typical in digitally transformed modern enterprises, says Jacques du Preez, CEO at Intellinexus."
+    publishedDateTime: 2022-06-13T06:38:00Z
+    webUrl: "https://www.itweb.co.za/content/VgZeyqJlVex7djX9"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/VgZeyqJlVex7djX9"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/VgZeyqJlVex7djX9"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/hDjJj9ZzGy9L1UTC1nwujzdXD-OK5mfSV8C8qtcltGFxiTXje7XZxzAOjq5DHRrR7_aNKHCI27QO7qIsdclz_W3TCdz3rT5_mic=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
 
 secured: "O4ACbodlzc1WJsMSjtytxK9pg3kE3sRg1g6PexLaE0m2A0AZo7HCaMSDgI53Qo9c24Y/UGEHYGEiQsuLQsypPcE8gVfzgNPxygD5RIWpm8FyZAlRsSFZdruC4nj4sP67jbvXhY9KOVAksPTyraQ2KSdLI6Ld54W6YY0+wa8kYWGRrl4aTWaWSEok2ae+QFdlHhDkiuQi7nQVN3c29sitzhUOjK14PzNlDaxFuSbgoJrCwgNbTybyH3gcMJhathaLOfn/XCVZN8wWVH56q56tGGkzeeu9Pt0ujVpiNIJw9NzYblw8WaoG+Dt7yyiz+i3eYf2xQlx0/aP+weGW/pet3EEeOE4KiwF8gOJ5ij8Lz3c3o5FFgYSsdwSX5bfaZ6oH1znvEVHI+Xtg0HpXUJjZE2p49eJ3Zt5I7Yurcb6SCtZdfLOrF4RhTHnrqwdc9/Qi8DnM74t18cV0Af2KiXBEwtap9IZK0K015GNT7zoSrtMvDZzIfneCgU/FAXqXRI0If13OLcpTezkib9OmV3finw==;IhWCcCV0ngPykeZn8ut6Dw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/features/i-asked-ai-to-make-an-iphone-14
 webUrl: "https://www.techradar.com/features/i-asked-ai-to-make-an-iphone-14-render-and-its-as-weird-as-youd-imagine"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "iOS 16 sends iPhone 14 back to 2012 with old Android features and 2032 with jaw-dropping AI tricks"
-    excerpt: "OS 16 is out for early adopters! Apple introduces some features that Android phones had 10 years ago, but also lets you attach an iPhone on top of your MacBook, enabling a feature called Continuity Camera with Desk View."
-    publishedDateTime: 2022-06-08T14:55:00Z
-    webUrl: "https://www.phonearena.com/news/ios-16-sends-iphone-14-back-to-2012-with-old-android-features-and-2032-with-jaw-dropping-ai-tricks_id140615"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 25
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/140615-wide-two_1200/iOS-16-sends-iPhone-14-back-to-2012-with-old-Android-features-and-2032-with-jaw-dropping-AI-tricks.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dall-E Mini, the AI image generator everyone's using to make weird photos and wild memes, explained"
     excerpt: "And now, we’re seeing a bunch of AI paintings everywhere on social media. They’re coming from once specific site that people have started using, known as Dall-E Mini (get it? Dali?)."
     publishedDateTime: 2022-06-09T17:20:00Z

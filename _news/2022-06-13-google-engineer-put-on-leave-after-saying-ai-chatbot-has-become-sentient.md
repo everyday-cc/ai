@@ -3,8 +3,8 @@ category: news
 title: "Google engineer put on leave after saying AI chatbot has become sentient"
 excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
 publishedDateTime: 2022-06-12T19:16:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
 type: article
@@ -77,6 +77,22 @@ related:
       - url: "https://images.wsj.net/im-562388/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Google suspends engineer who publicly claimed he interacted with a sentient AI bot"
+    excerpt: "Alphabet has placed software engineer Blake Lemoine on paid leave on claims he breached confidentiality policies, after he told a newspaper that the Google AI he interacted with was a person."
+    publishedDateTime: 2022-06-13T06:30:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 83
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/13/51f5e3c4-c5e6-4f98-bc5e-7c50dd00f23e_8f7642e9.jpg?itok=TReShJ1U&v=1655100485"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google Employee Put On A Paid Leave For Claiming Its AI Bot Is Responding Like A Human"
     excerpt: "A Google engineer has spoken out after being placed on administrative leave after informing his employers that an artificial intelligence software he was working on had become sentient. Blake Lemoine came to his conclusion after chatting with LaMDA,"
@@ -246,6 +262,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "1SCee2zZ6H67rvAeaRUZLIJVPBnY+8wmCSEsaY+TNLxzv+7BIEN4p/WOs+Fc6wiwrOScO/gq/2xFZ2levnXNDklFaHuQO3WKb9fOE3ymhv62brafMtkxAZN1/YfiNQE6a9MJw4dg+3cXwpNkm/kKPIEsAsNc1ycw5R3RSjqqP2igL0a0HTDsKuZZbnFfNc4/y94mjta2SlsZm3pWeB4kOX6prEz5kRWy97Q3KB2VfMmDB3qhnaEjQFhG1OnZinhI7EENrEqdz8OPJIggppRr8xrB+C4BBbccfCTdQ67VtSUpaMM/owZ+sF9z2fX3u/9uE0VLXQYl52Dwt8iG1Zcr67rQq+Msz02Of1LJ0UTz0KE=;OsWnU1dbuuCJ0f/I+qtGvw=="
+secured: "KOa0djW0VmYARzl9zPzud61PBdVkYWY7yo0/4EHLm4M8WenRbUNrqJLfbSiHYrp2E+0vQ2DPuVTfdLjUQoDFpp2r3zE7i2Vm+2RDIUI1qH9Wh0KluQ+s96Ujvde5UL/fFYbm6X0Z57Cjms0KVu1/c+kc76Jf4fXKDi7eiVl0wo/NiuYWKqj3vD3bVuwF5txQw2Lq0D88HUDg3e1Metb5N6ThpT9s84FYt97TYDvqwrZHin8KREsKnBuNvCRsTVjpWO9HA7KszJOSqd3gc2WIcUqeZDie9+jIq7zVHBJLYMbVKN9cWdXJmmtgt2uxKknu0UtsiAIhk2bGBb7z9XpOon8TesHeX8FFv+ryvMDB964=;1/Arh4Nws4qKsvokAYccbQ=="
 ---
 

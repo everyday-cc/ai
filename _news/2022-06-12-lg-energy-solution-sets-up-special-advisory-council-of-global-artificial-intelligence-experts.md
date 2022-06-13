@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "AI experts to advise LG Energy Solution on digital transformation"
-    excerpt: "A Seoul National University (SNU) professor specializing in artificial intelligence (AI) technology was appointed to lead LG Energy Solution's (LGES) advisory council on AI, according to the company, Monday. The electric vehicle battery manufacturing unit ..."
-    publishedDateTime: 2022-06-13T05:37:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html?fl"
+    excerpt: "A Seoul National University (SNU) professor specializing in artificial intelligence (AI) technology was appointed to lead LG Energy Solution's (LGES) advisory council on AI, according to the company,"
+    publishedDateTime: 2022-06-13T05:21:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html"
     ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902"
     type: article

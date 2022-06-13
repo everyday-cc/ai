@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Snorkel AI Named a 2022 Gartner® Cool Vendor"
-    excerpt: "Snorkel AI, the data-centric AI platform company, announced it has been named a 2022 Cool Vendor in Gartner’s AI Core Technologies report. According to Gartner, “Data challenges of accessibility, volume and quality are the top three barriers to AI implementation."
-    publishedDateTime: 2022-06-08T13:03:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_3c3fe0cc-d955-5afd-9994-53e49a756365.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 17
 
 secured: "PCXmPcyhw3xNjctR9/Be9BV0zYkM43ymTolWzYGkpV3ue6q+9Fo3Kble2F9DJhAltOTc33rnRxOWSxMLZ8k9JNOW2r3cnW4CXXLZR90GP70hWdBQAWLJZxOrXsLW1SIttKbt6By2hbXcQn4Mm0wlYYYG735fFcJ+Qn44eLiBfDhRI6wUiYZsSbJrqZDhDstNWwzAvA4qi0RUmNiZ1vSCdPBf1MPQ+R/GKb5LmT0SDRGZJ9caPzSDt9Y92oeqU98c4Wlq98Tz77IZc87F0PmYOhhih5hxvSF8sa55vcUmrrUqarZwKvhi7byqyAIc9yCvn1YCDTeS3M/zL016D6Lg9gHr8CQHGP5ra8hnW33Mg+4=;yOFXbfTiprcziJdwwYPKZA=="
 ---

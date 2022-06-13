@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Instagram is Becoming the New Mall: 3 Ways to Start Conversational Commerce Marketing"
-    excerpt: "Instagram is quickly becoming a strong conversational commerce channel. Brands that leverage the channel’s digital marketing and conversational commerce tools are the ones that will be able to better engage shoppers,"
-    publishedDateTime: 2022-06-08T14:26:00Z
-    webUrl: "https://www.mytotalretail.com/article/instagram-is-becoming-the-new-mall-3-ways-to-start-conversational-commerce-marketing/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 32
-    images:
-      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/05/IGShops_colored.jpeg"
-        width: 890
-        height: 501
-        isCached: true
-
 secured: "QUg0EzEdqEOfXx8DsyxO64AQMOFfE3Qg0Bl5JwpOUWHtSVJ5Yt1y0fCPmyOLiC/7FCIa+/JUpaTG7r6NPcY4tZlbRXHYHff3TcPUvog49vI5d4q20iBba8V3w/ZjJcoPPoqV2N+escxh721dgIQW42hoJY0C31QPhyMfz2+E400WFAe8f8X0OVpWSrSbSF91yI6ybKlO/vfTVaM1G+ldU+L3mLMXKS+k9sKrJUzGyA1hghAJYZG5Qpru5G5a+sAlweykAVBGvrWW3rUnWXQx40P7jCcWO5aItDEqgLB6oKhJ2lrury+x74FifbuXxBaP66PFMs/ZTDdgiWo863auicFAgAQY1lEpx/9V8Q49B0MGvpSyD5pPr84Z2zcFBVezJW0YNo+I5ajjozIYC5UsxGcNki6znCjoiqSkP5eqtIYmLMzebakUvGWthoI3v9z1UCrqxitA/DNlTgdkBLdYx5CC6twcCzJQ+M6/ZZ9bKX1wL04iHD6aKJRIhiG51gl/FGR67TjYejzwuOJB9/HnDQ==;r8kt8erOa/Q0sv3m4VQxRw=="
 ---
 

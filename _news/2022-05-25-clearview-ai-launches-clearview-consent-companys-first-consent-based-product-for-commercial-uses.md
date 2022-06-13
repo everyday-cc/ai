@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses"
-excerpt: "Clearview Consent is available today as a cloud service, with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher ..."
-publishedDateTime: 2022-05-25T10:56:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220525005378/clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses"
-webUrl: "https://www.morningstar.com/news/business-wire/20220525005378/clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses"
+excerpt: "Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, has announced ..."
+publishedDateTime: 2022-05-25T06:36:00Z
+originalUrl: "https://www.thedailytimes.com/business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_b11486a8-2af2-5aa9-9bb2-c6788338d89a.html"
+webUrl: "https://www.thedailytimes.com/business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_b11486a8-2af2-5aa9-9bb2-c6788338d89a.html"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: thedailytimes
+  domain: thedailytimes.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "zHA+Uy5H5v2gvcMaFqsGaK+Sd13j1F7aPHxA554AuzXiD90GiQE25hIsjpJAj4ckg4NJD3yigmVfX4IJQvUINlriKEBre6oqdgnT5ymqb56LHHoqg7ntfk35HPVZY4Ci4CQbdMIqcr+DM/AUpFCrM4R4yr+Agat4mz/dgwaBDdHTur8LKYSxZOzOV07XuJ/XxTWqcfbQoIYcKzLPd992+47QmBMlV1/6h4CLrfsDKQNofnBZUPRG0iVP/NiYxGG3mykJsTcZg4+NShCIapR95WzgzyyFd5S+T1c12MlOKUhnN8y8yoSX/vNnunyGSNATw67owIn2ydh/0Z9VoTUcmB+hLVmPYhsrDGNmENBn6mo=;dpbFRPb3QLvfW57oUH6gYw=="
+secured: "MCA9SNvia9jgdww4tXiIFpdo2+G6AESgu1asFMC2BGhe5nVchO5Wa+N9u8Kz78s2n7XqLXjnEv+wFtZthwhLF0+gVvAYX8ix3MC96IQ/GB6SYdyd5Y81NcgENx2B45rf/HZG3rygHgKdPOB+QmloAFzgRpu9uAfwaUHBxbwA4664E8Q0hS1W1M+jOyVNTlMiE4ahAD50b+SBDvbzVRtLfhJbC7tMEbFpE6HzutOCwo2pfZDkRp90OX0bIpfpUtk+9xesbC+Ci7zWhn3cEizC7arIDON497jK109arIPi3cDaD3A0NPFAPsN0vkfwvd5KbPcpdTN4eMxNE7tK/VhLTG30wsRM2yK3thPsCK6nScg=;yW5bBJNOQP77nkw+TsQLTg=="
 ---
 

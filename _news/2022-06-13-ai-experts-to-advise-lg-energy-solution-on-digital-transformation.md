@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI experts to advise LG Energy Solution on digital transformation"
-excerpt: "A Seoul National University (SNU) professor specializing in artificial intelligence (AI) technology was appointed to lead LG Energy Solution's (LGES) advisory council on AI, according to the company, Monday. The electric vehicle battery manufacturing unit ..."
-publishedDateTime: 2022-06-13T05:37:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html?fl"
+excerpt: "A Seoul National University (SNU) professor specializing in artificial intelligence (AI) technology was appointed to lead LG Energy Solution's (LGES) advisory council on AI, according to the company,"
+publishedDateTime: 2022-06-13T05:21:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902"
 type: article
@@ -73,6 +73,6 @@ related:
       domain: theglobeandmail.com
     quality: 3
 
-secured: "0vI2xNmD5mXgXi2wDKPr3KouVxsWsvt4oUN7dHxkEHxZsA/cOKM6OXYiDeqvcZTDqMUfrKkxoI3PGP7bs3f/QKzJVPcCrcsb5Sxy2H+fYMqt6rv+bDOp/DtARYTWpwxTfXu4jUJ53+7LDkJgBulK9KIkrGJfjRB/V/7eR5GjEgyJscENaI3Jx9MJwSIJWU+zqHLsYtpvQ1cYSQgMw4DBDJuH22yniVPzhes/uAqcrPpquUz1qGQVth5jEbNI8avYoVBiI805PjAVVh+eq5SeWaDasB0Y+rIc3YcRAQQSk/lHnfL/GwEwqoTJcg7N8wcRC3z3We/mAOqZFfqoMsPFfX5SB+jsvuEszLGy2Y5sBD8=;+zjlgSccpV9dUIiqs/mfWA=="
+secured: "WPmHIbaUNTMxzGKG1SsPCZnyBLaWSd5IpKXlfVooWhd9mc3GCy6lJybTkR2pmvV5PvVeGZXGOzh0MF+1Vn6CR3OmuK/9FBKYPRmayzcZquZ4ShiaB3bSHpyuvae+zliJ9OWbRTraifIAeF0GErP266cq6Io86ZtgOf/b9JadeSJCOnonaoFx4hTnK3wLQPTlTQtXzEVq73AxQn1tkSeaK5p/D8mG/HCNHu6klazgEUG+MZ5p4NDuPPjCROAYE//BceDO8RCRsxFucO6yX7mvCyyi0BOsjHzgJjwNx49dO6rbwi8v8oIvt77axsi0WYgXY98TrYhxMdWOlMITGLu/xAkpPNf/ld2h7txfQiSuGyk=;Kty7uJj7OmxyU1LyFW/7jw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverle
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhBed4rXr3IN5db6Qntbf-EKQo07ymC1tUiG_cds9qRyRz6ul6fXZm60XV5VLH5UPZOV7I5rwVpEgqukYmyB1HsGSdEZAWYrTif7owb81V5lEn8zEkEWP-Rh2d7twIIXNPbcGX8ZH8ui5M7248_EARZv3FbezkVEO85heVtuqdhGzmzBxXQEfDamj-g/w1200/hyundai_roboride.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Driverless Trucks to Deliver Toilet Paper to Dallas Sam’s Clubs"
-    excerpt: "Gatik, a pioneer of driverless technology, will partner with Georgia-Pacific to drop off goods such as plates, Dixie cups and toilet paper to 34 of the warehouse stores starting in July, the companies said in a statement Tuesday. The midsize trucks with 26 ..."
-    publishedDateTime: 2022-06-08T13:14:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/35155-driverless-trucks-to-deliver-toilet-paper-to-dallas-sams-clubs"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2021/1109_Walmart.jpg?height=635&t=1636434965&width=1200"
-        width: 3556
-        height: 2667
         isCached: true
 
 secured: "lej81BlwhVZ5j08KBgwyC24TdeDhaU8ykovTTZhcLYmECa0UBLAYMEDKOJfq33TlkyDQImLvUfXosKv/AeAoWQSq18VDFKH3LgAHEdyFGwTyzJ6tal2sqdHq2otUcFBWqz3JAYSfnZvOudoXgB9MYrnJeS3z4AHWr4famZ/NXirtGXc/3m4x7u/GIMF4Xpyzi0a8iAhe0mTdceL9yPQAYlhnIuLd+bN4WxvLD2vrGrxYzBKWpXA5MBNJ0rgaowJLdpZ8zsHI/EInABKOZDERgFT2EMkuUeXbfXhH0m3vK+XxIrV2YaejA28qhBReCwDNmP5RK88azGaISoTrygN7bXrC8M84AKHQugoIDvOAvVATeOQy9xVQpj+Chgy8Cw1Ex0dYOby6mkuMcok12xFrg9i5mI4FcOEM8EG6jV93l+0hpzFAyo5MnKlwB4ff4RvKuQuFGuZjH1BF2Vybjghc+IKMHVyya/GrbdAze5sn4bobn8zMQ5p5aRPMcZr2rHWtrPbnOiBnXmj7zfgWgJb0lg==;deOyuxTfbpv/O4sBh3CVkg=="

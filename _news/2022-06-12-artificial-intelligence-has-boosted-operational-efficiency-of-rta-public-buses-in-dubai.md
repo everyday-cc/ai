@@ -40,6 +40,15 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "How Dubai is using AI to get people on public buses, reduce waiting time, and speed up journeys"
+    excerpt: "AI and advanced algorithms are used to analyse massive amounts of data captured from nol cards, buses, and taxis in operation, which then result in revised bus schedules and routes How Dubai is using AI to get people on public buses,"
+    publishedDateTime: 2022-06-13T07:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/how-dubai-is-using-ai-to-get-people-on-public-buses-reduce-waiting-time-and-speed-up-journeys"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 5
 
 secured: "ZUGPxcrUOD+tixdG8BDkhpkX+CFGJmt56AcEdWZAm012wOvRjmo2l67JNIOAvXV+FvinjnBBWZji8Uej9OjdXdmnIvMJkuUdYoKA9RK9GAY7fIsNBsGg4xLHiNHNuLuWYnQ/6jtZHH/tODTRFbiKnz+I9KUUCWzWcueQyxLWRdu0boKkKtnGnx4hZmaTz11rlEGuoaEjd+pJtOKcX3KCPR5xYebK0QKvq29mW35eAA6nn0cOthW1hxohyDXpWgGemUOysWYSVtruUlyIOutqG8lUVmdrgTaYjwuxi5uSL7n+1DQz8uCPyGJ1ZKz8j0g26RS0a7oSXP8DSRG2MoDWPy9g1wDTPgZFiRygOFbF5MeslkfxBAQV57Ls6MkNeL9Z/qFvocQsCpupnJSjJe+EaFuyGtolsp9hPKyZfp7CtsBspyhuBYCOyohMalcx8HZioLPHwdpDXg9O6NNyDUVpAcfh45Bj0bC2zrGx5rplmhuaEhbRb/ed31T6+JZSkCVtgyJ63ttm8/vmiB5OPnEqGQ==;eF2GSKU1Rh9BYG3VMdV2xQ=="
 ---

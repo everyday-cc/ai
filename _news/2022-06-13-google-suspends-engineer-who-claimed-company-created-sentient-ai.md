@@ -69,6 +69,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google suspends engineer who publicly claimed he interacted with a sentient AI bot"
+    excerpt: "Alphabet has placed software engineer Blake Lemoine on paid leave on claims he breached confidentiality policies, after he told a newspaper that the Google AI he interacted with was a person."
+    publishedDateTime: 2022-06-13T06:30:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 83
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/13/51f5e3c4-c5e6-4f98-bc5e-7c50dd00f23e_8f7642e9.jpg?itok=TReShJ1U&v=1655100485"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Employee Put On A Paid Leave For Claiming Its AI Bot Is Responding Like A Human"
     excerpt: "A Google engineer has spoken out after being placed on administrative leave after informing his employers that an artificial intelligence software he was working on had become sentient. Blake Lemoine came to his conclusion after chatting with LaMDA,"
     publishedDateTime: 2022-06-13T05:41:00Z
@@ -104,7 +120,7 @@ related:
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
     publishedDateTime: 2022-06-12T19:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
     type: article
@@ -242,6 +258,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "xMa20TYhTH6K+64oLPD/zPpLByaAn0Td7+tEw46QIDHaN7weGLhfH/HGje/aqIn2rilS1SQ8AMp3RjU/XeEvjYuKPWMPSMNXSSqM+xBD/i7xLCqpQVQDZXkLmHBtN330UdSBOg0Z4uDNTCRetaq8TQ58Jla2k6pvRlL3cXKXmz4Jh2172OKsTVeYuAFmVA9OXGdmmtf2Voxmx8ZvQb6nIFrfU2l8Ba0vZExRKItvrCS0xTwrwZXQN7Aj9/xLcv3HkxD13gnDv7OYU4V7JtTAzFDkJbLNKVR6+A5OT2/KpgHGXUoS3Ws+ihy1HymlKnJ2T8tlJ6EQI1QGZj6rQlk4PrBHBk47iKST4fIhKTIY0M4=;96RJ9jL12hJw7mVkbQvLPg=="
+secured: "Uamck9DLguW0bEsi2vZAwQgR9cd3/DXnDO0IofVK16zSIP5R1bd7/WZFt9HMgwgUynDwmqPtBzT+Cgxy0DX/0fqUHK13dKLSXrob7nGrpHSEtYvLW+qFC6hJ4IQCE2C14dIZgepDyjWfGmZd8rrmT1L+xsCcG46s2hNu9Dcmm4L8E8gtKuYi6fhtVTftkOkQr015wR39PkqLuzoraIPzTMlZ/J62D/Y5wWjYye8ztAVWA1epZh+RvPpPiVBpg+RPz41lcydBGe3ulz4Ry0MwBfJUjhq7rMcacvyj6Pb+mfTCGNjNeXHhuDoP9V3XN/3ml8QM+1H26C1V0oxyWXUOeVMrVVSSAI8SHUwgDaCro5LF21lQaeUP9MZm76+yjurIbIgzEJaTkeDl0P1QEUwrUVZF0y7F06aeJynm21Fu3o1Sg9WZMMi30nLQhY8HRvn891JOYi+pFNCK8aZ7bEEvTtIqxWGubwsxC/C2TOpHYSy8FAot+ptgYDzIhtJW3MXzoIN1i9NT8Q0k/YbwUiX4dQ==;jYUJzdqp4oJT1G6lBZZu1Q=="
 ---
 

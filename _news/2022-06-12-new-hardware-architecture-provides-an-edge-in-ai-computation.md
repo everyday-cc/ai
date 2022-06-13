@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-12T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/955308"
 webUrl: "https://www.eurekalert.org/news-releases/955308"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c85036a5-2a33-421b-83e5-e0bab4885fa9/Rendition/low-res/Content/Public"
@@ -24,6 +25,6 @@ images:
     height: 368
     isCached: true
 
-secured: "sPa2zYrCx/PZokYzmTNe1BWBPLOSBGO2Ux88k5ZEGZ/Mjd+T5D1u/XpnGUX5z+xyvSjyPlV+PfgSLqCPFHuiNmQbkSx3eiTZVggU0pKu95y88B8tefxCElAUg1+EoMhdZEHFa70CiAa4I3F7I8KVPVIfr0avm0c5gmi3xtzedDSNlxcqzztH22BaHDpvUDtPSaVNSdLS9J/kUYABkgs9cYEqc1B4g+c4sYPehc3JfgNdMXKP81oUu++MaGb1l7qnwzQelwbI2nvDW/1gATIUB9f5weFfgkVZAfmdmgUwCc/MyUZqN5T4u5EiJCDm6OE8g32f0k9Bb/IOYANNIsllndJFisVqkdCz05C1/tVAAU8=;ONDawzdUgXJiObjDTd+e/Q=="
+secured: "Ui36GQN2AKacTFyBkHuOT/72z2Qvc8r7Pa9GdBQcpIs9W3YEWxbLfr5iUswZhcWYk/k+EY8iuL1WFW9VrYzJ20LTRCkqeuSHWIE/y6HQK906T4WEVXr3qiD3I2b2d5YJuOZ+EIqBINFbkBzBvAweQLuMWs5mXXN8JXIDLPjPhUhnNwZpgrwTTduh6ipHnJ04lsS9uGWX4shL7OogSqDZze8SBhIN7jRM3EL7FB3w/4eKL3tghzO2rcESalBk/z/n39d7oTHR7h2JX5kKuxbJb7yluQYU1zxzNjbKjwJgI7SQo7EmLKSa+N5Kvdtn2lrL/feiEbO4VUYEotd5SwgDAkmETyv8ILIkWNLi8kKwXAIw4blF2X5KTA9uziI7mF4zUGJrMs6PydS1BnP7WDH+RMg0X/PJhCFmwJeaO8lEp1eKKkOj5EuhACV01nVQf0leYeeGwj/tw5dsTpTExz8z22/SIeitfZpizIolmOG2A8NjS1sKGl45c1HLzIj+3syw6smfoK3uPOn5k8eItaHcSw==;A5SlsjzvkKf6ZuTXn4rZmg=="
 ---
 

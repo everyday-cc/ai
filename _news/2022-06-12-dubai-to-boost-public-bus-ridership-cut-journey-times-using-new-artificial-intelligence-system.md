@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "How Dubai is using AI to get people on public buses, reduce waiting time, and speed up journeys"
+    excerpt: "AI and advanced algorithms are used to analyse massive amounts of data captured from nol cards, buses, and taxis in operation, which then result in revised bus schedules and routes How Dubai is using AI to get people on public buses,"
+    publishedDateTime: 2022-06-13T07:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/how-dubai-is-using-ai-to-get-people-on-public-buses-reduce-waiting-time-and-speed-up-journeys"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 5
 
 secured: "6O0NZ0rkkDQEuvs+toizDrbdu0E92Vv5gaI8tLOV9w0rqt0vDMCFlfbKEgwpDe1YclFDK5rJEwd1MfCFl6NlhXtTCyKpN5gbmZgA2961t7I9xRKyfaumRFI9CJzPqxRacdLkgeSmQqm0M+EMzrUK038bUtp5VfdwsSS8XjDwvx0kwiuf6RiDLanfVjIucGyhPtzddJGfZl0nAK/ViZvtvX9oRCelcc1Vg/nolXDtJiz+TWfvpGYRtDDZWtjfxwngiGaJRU7ZRwW84Jk0t8FC7sNUhS/hocQrBKy1fECbBogschwztSWglP9HCxWsifM/pnHNk0Xr2gTxjdZfB0n2TUrEprWJJE2pW6+oWCO+dKs+dKwWJKNwDpZLOli+J2baChspRjuniBEiPaDT+y+c+2bJD9zFYpVlOmJRc9XxmjWsBeeQ5Bgr/b8ID7+bsPdjjQmpNli6niMshLMf1IeQdUR58JUBPIz5EIjO1fIVvwA1lwvJdGXW+MYCt9STS4F0ttpk82dmFOh2eoEYioHL3A==;KLF+W+dWI789XMAjN/O+OQ=="
 ---

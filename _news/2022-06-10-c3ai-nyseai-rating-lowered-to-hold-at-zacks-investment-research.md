@@ -27,6 +27,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
+  - title: "C3.ai, Inc. (NYSE:AI) Given Consensus Rating of “Hold” by Analysts"
+    excerpt: "C3.ai, Inc. (NYSE:AI – Get Rating) has received a consensus rating of “Hold” from the eleven ratings firms that are currently covering the stock, MarketBeat Ratings reports. Three analysts have rated the stock with a sell rating,"
+    publishedDateTime: 2022-06-13T06:06:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/13/c3-ai-inc-nyseai-given-consensus-rating-of-hold-by-analysts.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
   - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) to Issue $0.15 Monthly Dividend"
     excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, June 9th, Wall Street Journal reports. Investors of record on Monday,"
     publishedDateTime: 2022-06-09T21:12:00Z

@@ -17,6 +17,13 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Healthcare
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/051a518886e702eb4a9eea9982a177f13dd2078e-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Ai Machine Learning Market is Going To Boom | GOOGLE, IBM, BAIDU, etc."

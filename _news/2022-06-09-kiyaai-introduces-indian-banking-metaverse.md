@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-i
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/06/image-1-2-1.jpg"
         width: 613
         height: 343
+        isCached: true
+  - title: "The tragic twist in the Indian startup saga"
+    excerpt: "In the Economic Survey 2021-22 released in January 2022, India was named the third-largest startup ecosystem in the world, after the US and China. A Nasscom report said the number of start-ups has been growing steadily with ten percent being added every year."
+    publishedDateTime: 2022-06-13T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/the-tragic-twist-in-the-indian-startup-saga/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 22
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Twist-in-indian-startup-saga.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "YRSB5ydoBxrSbvA1T1kr8DoNojCICzlElg1fR6y2WAdF1adqAAgTP/HGWhQXaFaD4gC4ltb2Q0NcM7MK2kRTgYw6m79cftumci+EfjV7NZEAEwS/PcITG5x6RNT+6yKP7g5MiHR0XejOAalC9ZeLK1XRo+2j4q9sZhcWpLIPX7KX7f0XJkw0yf4vNzCV60IuK9f3ldmZu+eAWuL81ExTn4qym9kzFVUsF9sZUuqPJkRJvUxIkOpfZ//fpBGSRH4A0W67CPT2KsieT5zNmeWKoAUI9uAZrf4OeC3ZsajyVeJ9ci1Y6TX2suOc9MhVbc5X9MMBe9f3PjW28JTWE8FYfdyO6lTZUmsGY/f8Sy23S31fA7tt/1bT8+c1mX2wTYImqZ6oAOl3FMhXlmRFuIi3J07r2rFO3cSRv0UcW53VrBKSF29VYf7sGEGVu7IikMs57Vl71suzhnAUCjNuYPFVu5xgcoyiOvsQSxGdbjRZM+NDxZQrya8Qqh7f4FpqeszOlkhXFOQ+QjkCHELXm71h2g==;DO3JihN09FonE1Y2nAZNHg=="

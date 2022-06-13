@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/jidu-unveils-first
 webUrl: "https://markets.businessinsider.com/news/stocks/jidu-unveils-first-concept-production-robocar-1031516921"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,29 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "New Intelligent EV Company JiDU Reveals its Revolutionary Concept Production 'Robocar'"
-    excerpt: "JiDU, the new intelligent electric vehicle (EV) company backed by China’s internet giant Baidu Inc and Volvo Cars’ parent company Zhejiang Geely Holding Group (\"Geely\"), unveiled its concept production “robocar” on Wednesday."
-    publishedDateTime: 2022-06-08T19:00:00Z
-    webUrl: "https://www.futurecar.com/5452/New-Intelligent-EV-Company-JiDU-Reveals-its-Revolutionary-Concept-Production-Robocar"
+  - title: "Baidu’s first robocar looks like the future we pictured 20 years ago"
+    excerpt: "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully ..."
+    publishedDateTime: 2022-06-08T21:13:00Z
+    webUrl: "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago"
     type: article
     provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 16
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
     images:
-      - url: "https://img.futurecar.com/202206/08/l_62a0f14d486b1.jpeg"
-        width: 800
-        height: 402
+      - url: "https://cdn.mos.cms.futurecdn.net/Atczmc6ShrzgeTvTauUuw6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "New Intelligent EV Company JiDU Reveals its Revolutionary Concept Production Robocar in the 'Metaverse'"
-    excerpt: "JiDU, the new intelligent electric vehicle (EV) company backed by China’s internet giant Baidu Inc and Volvo Cars’ parent company Zhejiang Geely Holding Group (\"Geely\"), unveiled its concept production “robocar” on Wednesday."
-    publishedDateTime: 2022-06-08T19:00:00Z
-    webUrl: "https://www.futurecar.com/5452/New-Intelligent-EV-Company-JiDU-Reveals-its-Revolutionary-Concept-Production-Robocar-in-the-Metaverse"
+  - title: "Jidu lifts curtain on concept robocar"
+    excerpt: "Photo provided to chinadaily.com.cn] Intelligent electric vehicle company Jidu, a joint venture established by tech giant Baidu Inc and carmaker Geely Holding Group, unveiled its first concept robocar,"
+    publishedDateTime: 2022-06-08T23:14:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202206/08/WS62a0adada310fd2b29e6182b.html"
     type: article
     provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 0
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202206/08/62a0adada310fd2bec8e2fe0.jpeg"
+        width: 675
+        height: 450
+        isCached: true
 
 secured: "c0sxsKVbtNRDdU2Yg0L6EUxeSd31hnS90ePs83PklN4C8HaxSrNc0xEQfB2nYPnOKLTGLgX3htnyyPhcL6krX+usJIbjBd8k5C53CBwy6JR+AjHPbgbLlS7AcYbgb21ePkoGTTrsr5WP/V4K6S0NtS8R0aG0zsR3Ql3OBytsGKOj4Z005+pKQ94CixWK5MrM+S5nI7PbxbUDLlKY7SbvrD200eL0Bl+A1ZgspNyeteKZ44DaCjiZuLUpMqdUXeYs9oS1wVvbNedoCTGQT5RpFyQlidb/opLOK6ddy70R5Fp4GQaQv+JWqvzQUCZhsW1mxg5jk6FX3Plfk/3Sq5lrPudAkvN3jcPAvg7H/8umyOC7Hpjvf1dglQtNUxjg+VRfFqohhCpJ2d095GjcHRkcCkyn9P8UYzYwaX8gtXMfDjKybi0FW6RCir0ThPOwjbqjBm7n+Uj37RkV08QqiASeVGdGd3PRbdlWIoWOzRPMuMztnZr13rzK8LugeLSIFGlIGJyLP034U1JwRZeVpVAzgg==;XcvEemRv0Vc//PHoRPyKJA=="
 ---
