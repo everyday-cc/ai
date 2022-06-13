@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/new-hardware-architect.jpg"
@@ -43,6 +44,6 @@ related:
         height: 368
         isCached: true
 
-secured: "z7mrRvKBk2Df21hFghYDKg4gdHC0SUUwRAWDuzq/Dm+oXTXTfqkKS97kxhzeakOLcvbdBzJ9fFiYeE1KwLBygE+8REtyFMbtr74Zf4zlqirebFsL8yjlUks0hHeLYGXYS882ueoMZfOS7kxAAeKCbEYA83jntvhwDyh/hTseuXJme+Czx7b5Vxm+nngNc4W7bi+sTLQGLpm4bH1ogA3BPmMr7IFLu3uuo61mbJplSanTM9EnY+1KlWpJzOoB4z79PfzUvjMEMiCc3pXFCQzg64Sm7pNQ6jFMgvRddP8T+A28uQ0dq/D0f7amNHGFxUc6elsef12oGNOdWhL0pOyB0bKDikLJEEbK12LFljEfMW8=;RQ62Bm+jqQnUoflneaz4ZA=="
+secured: "UPmJ5g0Lk+UIW6J9NuLHxdVbb1p97iNYXwZYtfX8EQfPHPP1kMOQqFuAGkW+92vdxn08euCNgE/ToUj4whkAFjaXzv4D3U1vljiAdw5B2o/yNFeVPOip8zr5VL59ch6N1VBq/Gq7njIKfvVo1DPmZOMTUsx54I0iTu1Odpc7HUaWREtERu+XMYbpYEpMq48ds4mQgsR3wTzYzvubs9crgQv/yzdXcZdYqzZtgY9DPe5iDyocVbqgWMq8LrfyjGiw546EAH1xAp0rlYy5UkDrgN0+em4aDPvzFqmeq8Ie9G65utPs/4VpQt8Zb8S5JjNdAM1q9139ccok4a6vRGLI1XugrQYPIh8X+oOYnwvxBSBxc0BhD7tYqSC4mb7V7o/KV//1IDGbuTrvyXyVZOhtfsUMARtLGkUgitTLBT4bHO5G+DVP92r5JtxWlshZgUxIWMdpjlFsMLrWmM9RXn/kaCfQvSJCPlTSvxlvjECLdfoDMkcc4nwYSLa1mrTYWxDKzxdCeDmBe+Q85cYc88wO1g==;JhzlHAJ7+PON/V5JUD08Mg=="
 ---
 

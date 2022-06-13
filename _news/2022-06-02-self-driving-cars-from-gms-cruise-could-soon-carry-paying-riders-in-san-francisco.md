@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Self-driving Cars From GM's Cruise Could Soon Carry Paying Riders In San Francisco"
+title: "Self-driving cars from GM’s Cruise could soon carry paying riders in San Francisco"
 excerpt: "General Motors Co's Cruise on Thursday could become the first company to secure a permit to charge for self-driving car rides in San Francisco, if it can overcome objections by city officials."
-publishedDateTime: 2022-06-02T11:40:00Z
-originalUrl: "https://www.ibtimes.com/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-3528508"
-webUrl: "https://www.ibtimes.com/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-3528508"
+publishedDateTime: 2022-06-02T11:18:00Z
+originalUrl: "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/"
+webUrl: "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: KFGO
+  domain: kfgo.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/28/a-cruise-self-driving-car-which-is-owned.jpg"
-    width: 1200
-    height: 788
-    isCached: true
-
-secured: "RxXEGZDC7xMc375et8u5J+ZH9ONupoG7zo9EykrJ3Sw4GZfg9/WbC+HsUGeNf1sUXcXIZ/jyZN/ENZu3AWdDmUx+ApJz9FOAjO0wvQQTXyIKZDzB2kJz9YWiYUpjPR4+OC9reAjHdBezIZJpcQqmkzXW6SXwcTWSe+H9KKTa1Vaxu3tVdkcECSFV6y6Qkgpd4wH+Ly0tL27ZdfK42sVgIkyMvjfeE2zL9jrlkRrIQvgc+CRhzPElNiAtbeiEK5uMKiFtF6ulZrfpL2rsfhxngo2PVtKuglwuBYwhfq6tcLEoII7EVAr5/AU5kEH9Vgfxdk0Cj8Jb1xTOKMsyf2P9kmFV3/XNCF8U0dbla+TW2cl/8kMkTPtYuoM050ov4R7NBedyQ/e3+TQbVIk2fcPc+a78nJNNxelcidPZDZDlPiV0t/QLInJJ4U7A50ZN196PIDqpFyhBuWA6lawMoJ1zOXyM0qjbyanBTC8h0P+XPEizv9c40zgpu9leSZAEP752rB2Q5Z+ARAhqOAqmqfrLtg==;yEPHqG7Vavnh07MPs+mG2Q=="
+secured: "eBS0wmVmUWI3odEWjVQlJlws12wevlJ/uOvkF5ogLJR1cB0elk/yQfpBRFQahnXym0p07MNqv9MQ1msB+e6VZTPcTWexcKv1ARgmOUvxWLR99Szhe9P1SF9llPE4GhbSTUBYF8FVFdk+3j6FW5K+gHTuWzofJtlFMd4WRxEiRgx86K2di+rmOWXrdxbBx99cSeA7f0nDisNzQvuIQe8PdDJWd4HrA3ng6hy9pE3isAa/IObEOPDkyZwJxZCrpesA5Qn7xOCQw6uQGWKntNk3L3sZ5HbctgcunV0QJCp4zljWDzXIWGiWDz2rjUdkq1VcLB42MLmLgj5bRX8H6QM6F0JJsSvv9dQZS1XKlunHK0hHmhzGx/fjZ80VYnJWSg/pqBj4UjKZOJ02inKa7UQaVqG4p6TwQvOIko1rOGAjE7f5QFbrmIszP3R5uVWD6e/SVjZkyGLdWbx9TIuMS7zjOnVOPu3YxMSfVjAN5FP6D/nj7l8y7ED6vE8tuW7lu/VTstBKtEhJZZf7CWcKYQHQ3w==;ZJbcy7SaWAkwUd8lWNf33Q=="
 ---
 

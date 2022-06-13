@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.iaea.org/sites/default/files/34009584775184e24acfdk.jpg"

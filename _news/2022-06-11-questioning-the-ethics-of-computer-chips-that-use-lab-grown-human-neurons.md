@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpreXa6W/sizes/istock-1040557296_resize_md.jpg"

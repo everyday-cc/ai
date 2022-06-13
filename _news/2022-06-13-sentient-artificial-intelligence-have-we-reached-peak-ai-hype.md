@@ -23,6 +23,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1311426965.jpg?w=1200&strip=all"
@@ -77,6 +79,6 @@ related:
       domain: rnz.co.nz
     quality: 17
 
-secured: "0jvH7xwyWOkfogHKq1RgvLh0TJPaGUiDI3C7xpX2do/GZxvLDXCBcHn3DgDjXv/NEud9vvGJIifm6hal3+K1w7MoNuqnMjLFKXdqH0ZFqhZhYrggySyNOJxMjNqfEgfv9slhLuJKqBWLwaqlNUTQPxQNJPHLW+LkXRQs7NE4d710ytr+AWFG978E/iAtwuZEYN33rCjLRYAxzhz6jrKYfhSzM5w4SAOYpxNEXSy7L8KnTsDwYrP7RfTHjn3yEIGMrKFK4iDdWx9dH87RJbkkj49Lh63O1X9W9399Tuu2iLUH/x9cg+LockCYI+s45hEP14z3/KKRqB5i0WdHol6eeczZGg9IUddKh1U0glbU8jc=;4CkshwP5gCL6tjshuW1kTg=="
+secured: "seMvzRj3DR6JRg0tYmM5GbjqNRV2zRYvGFfZjAFHE24f0Pq3UsxDdw8GZxMTypEne1dzFsmvDjR2qG4607qB20ViT1VEVJHHxUQjFtKXjQP//7LBEBfsXIhGHoGWlWKD5VTO9O0Dv6YlRsYAebwyZ+l481+iw0gj2EqQL2Nqfn+T8uATUIvT+wLftcGd+AGPtBsf7IRRwttkkS7RvVFDDwbBHl1IJBTCn8H2cGf5dClTOtdMmzSvLsT5CWWVC2MAakTZAiJcyskB0o/rb4vQVMh0AVU6TBbkf5I7bZfqLkY9HjLGNXr6l8qtj2k54DK521WeKuok2514uIIgXumqHZFCsNdgeCYJpe3pXewItW7IrXw8RuRKYKvyeW3lKBVT7Extgvm3nwAz0ngBm61s+pw6zou+UfXCJvhcOExsoIkI5+rICWMHROUJd1ktoz9Rs/PkeeJJNZ9x7CRHCRa43XZF78AEs8SdUomg2fP8Ac+qdAeApl7iyhEFpmaPPxUJtlEqbnU9ja2ulxCuWr83KQ==;hC/ZnV0UKZ7EGIKchXAjHw=="
 ---
 
