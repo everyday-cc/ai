@@ -135,6 +135,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Register for the BusinessTech Online FinTech Conference"
+    excerpt: "BusinessTech will hold its inaugural Online FinTech Conference on 20 July 2022. The BusinessTech Online FinTech Conference is an exclusive event for high-level banking, ICT, and F"
+    publishedDateTime: 2022-06-13T11:16:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 24
 
 secured: "LaavtTsRvx9rkpFXfB8bmLkUiD5Vrg/IOZRAYYF2Z+7uzddoU+irK+ygmMCI2cDAa7Tp58EfIle9p+lPuR3+lTB8JkXwGr/KsCKcbY5XsB5vtFiaD2uhIfFG0+SF7z5bztgJh7WUzq46a3NatqTglayGwpN+CBaG5pja53QACrCbhbwq8gSZ0Zhp8+JjQRcSTgdUcFpArkdOhMuhK340bkTA/bO1iSGJ5QW50UINLXWg5ZKMq/idc9JNwHvV5Y+DwtvaG5AaE1TKQUMChLNyH/43fEYMTR/tHk1gWnaSFJMF47gbw6at6Fa3MdLdCwkx5tD61L5Msa/3GLq/D8jBA83RHWltMIwujv/8Dn+TwhBjd3zb2QZp4+jXm7eWL8yiiUmH/b8/OnbqgR7dngcQQRIzxyRbWLjU7PDW9EN1g5g+v81ptqLGRHUwXIQxWyrXhMNOZw6uaBO/Yqi7lHPV4D71viRkJjN7qr5huPfnJEU6+l8THn/9bpdUvY9U/xZtF13UY/IyCRpmhsxBWazyww==;JrVhlLtXsrs6+6QszyI4MA=="
 ---

@@ -54,15 +54,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Easily create and store features in Amazon SageMaker without code"
-    excerpt: "Data scientists and machine learning (ML) engineers often prepare their data before building ML models. Data preparation typically includes data preprocessing and feature engineering. You preprocess data by transforming data into the right shape and quality for training, and you engineer features by"
-    publishedDateTime: 2022-06-08T18:08:26Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-create-and-store-features-in-amazon-sagemaker-without-code/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
     excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organisations ubiquitous use of advanced analytics to unlock the full power of their data COMPANY NEWS: Teradata (NYSE: TDC) today announced the integration and general availability of Teradata Vantage multi-cloud data and analytics"
     publishedDateTime: 2022-06-10T16:20:00Z
@@ -78,6 +69,6 @@ related:
         height: 541
         isCached: true
 
-secured: "GmUacck716ZT+4dN3EJ+3IrH44/e6n4frkZjZcz4T95srRoOZbmiNYYhjZiAQB1BdpxANd8dqbvGUhMjDC5YHLwjamg1U0ge/sFm/B9yvo6gnMFQraNljUjl6FUMC/6sQT3zlzmW5JTfcwpAIWU4ksi+RmZLuDTm44KKT6caXa8dMaFamlRIJiI4rYVWBcpOdBdRLUc/ZKbtU2//SjU2ld4cPlHLSKjJ8KhcUKkJbUPA7lEZa6LjKLP/8AhQ59tqvC5R2+XeJFCwDHnXNA9v69mt5mYI5Pi8CTSn/WnfXYZ5W4i8eAnzfSCsq6gIZVoSlWA6iE+SBrZ10PSV6u2Zzx/9ujAaBgASZOOgnMujXfk=;P/OlVHjp01ygXuuHPJHF+Q=="
+secured: "2EysH76BugzASInfsjNiKDOL2Epnso4bvO7tlxHYT9Oewo6/l8bshzKS1rxaUrChCPlU0mcM4ez4PiF6oqLS2R4r/hURGo0NF4xGmrCG3d/UvGdroeP6vo2ODQ1734GEtuSTlmpxZfTY0tc2MaQJwfHJkQynizhzVK7V3g5C/k7A+K60er54NW/D4a97c8MJw/f3/+s+6hgw+PhoZhPHNOFdXgCnV6ycxiJea+t11CMal4Kvbo/kn1Vbk9my/oaTlegxOScrTtSR9TCTm2dvdcLh4+0bJrZiJuXvh8ZXeXJzrm3JD91AjGxFURPEg5AgJ7HYZdpREwHVAB3h6JgZDuRPry4V4k3HyqdObBGwgGA=;+SCb8ft08HzXkEWLhzYg1w=="
 ---
 

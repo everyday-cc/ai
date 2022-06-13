@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Ooredoo Selects Icertis Contract Intelligence as Part of Enterprise Digital Transformation"
-excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), today announced that Ooredoo Group will use Icertis Contract Intelligence (ICI) as part of the company's enterprise-wide digital transformation."
-publishedDateTime: 2022-06-13T07:57:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9619916.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9619916.htm"
+excerpt: "To achieve this, we are partnering with world-leading providers to help us consolidate business applications on a common platform across our operating companies around the world,\" said Christian Friedrich Linhart,"
+publishedDateTime: 2022-06-13T11:00:00Z
+originalUrl: "https://www.dailyrecordnews.com/news/state/ooredoo-selects-icertis-contract-intelligence-as-part-of-enterprise-digital-transformation/article_2ed903ad-ef1e-5026-9641-ece5019c9f8b.html"
+webUrl: "https://www.dailyrecordnews.com/news/state/ooredoo-selects-icertis-contract-intelligence-as-part-of-enterprise-digital-transformation/article_2ed903ad-ef1e-5026-9641-ece5019c9f8b.html"
+ampWebUrl: "https://www.dailyrecordnews.com/news/state/ooredoo-selects-icertis-contract-intelligence-as-part-of-enterprise-digital-transformation/article_2ed903ad-ef1e-5026-9641-ece5019c9f8b.amp.html"
+cdnAmpWebUrl: "https://www-dailyrecordnews-com.cdn.ampproject.org/c/s/www.dailyrecordnews.com/news/state/ooredoo-selects-icertis-contract-intelligence-as-part-of-enterprise-digital-transformation/article_2ed903ad-ef1e-5026-9641-ece5019c9f8b.amp.html"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Ellensburg Daily Record
+  domain: dailyrecordnews.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "4G+Cs5ium6ct9NR+kfABm1wOxptl49TKi4hlqNowHRSx3MoaAzW+qZo2LNembmB3zQSHdhplQNk8dSeUP7OfODM/A0lGJr/4dgSZahMTXGFO+t0Cbvt/s1dgD+OFgjbQBOddqOYPN3G6TARXIhL+c2LXwA6NZy7OGdKy+DT/heTEx2NJ5ha7YDHPvItk/QmeTMgirGK8DVxHT8zpP3QlH0vhP8GMzmBvVKK0yzcFLARt1CJHdF32OTlWAjSMd+w101Wr1FLbJys40U++i4V89leg/vuBVZfir9IGNLmhhVRa7iElqTJqAUdYhH4DxyW34WGnbwZGXP/NiTzHXptm7cEn6ylZp5qSUloBHdIe5SI=;i9gjtDrU8gkVUrCWhPUoFA=="
+secured: "ZnhLHnts9Vd0BO3KAVWNLQgA8u/CB+T8KH+9goPE9eoJBotJjvDyszdkQbODdMsXo3Kw1EeoH80ENP+bOBromRY0fKS20ZA1aTs0VSwQzLB+M/gO0RdYpx4O9CFIDlPdGSbJ7Ny+K6vMy3wUwOp+BNm3UH/YuhLwhExK0EMZuBPoXp5+IWKkxgoglr/ZcL+W3DsvrKT6CabPqN7Z4Q7if5UQdTLZ9KsX+B/eXqXqQLOX4SUVyam//YZzazxcT2MZS7FT77udUNRhFycZ7+C9Urb9JfbNdup2PfAxB124G8BRqqnEkr48JNbWnLynoAeQ9gkSS5TwtpO6ZKNwlHPWjqfyI7Ysvctt3uN4StiDp9zQdigum/JsRo/3eRlfBHHGUtJha/RK3VWJJs01Be2RHzCNYSX4lIAvr+nbFrWh8CqeNlPpw+sYn6ikOYufNnZI7WupXJWniEdxGvEHCnkDMCgm/kTEss8+dzU57vkXWq0FYZx1en5XnpPF3ZvOK6K5DfxWw4RmUys/K/F4G0mveA==;A2105G1oW/PifKWHjZxyDw=="
 ---
 

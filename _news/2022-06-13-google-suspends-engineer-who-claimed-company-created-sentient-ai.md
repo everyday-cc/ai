@@ -40,7 +40,7 @@ related:
   - title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
     excerpt: "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine."
     publishedDateTime: 2022-06-12T19:18:00Z
-    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e"
+    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?fs=e&s=cl"
     ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
     cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
     type: article
@@ -179,6 +179,22 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Google's AI-based chatbot LaMDA comes to life? Yes, as per Google Engineer- Know Details Here"
+    excerpt: "While there always have been a lot of debate on what AI tools can do, including whether they are actually capable of replicating human emotions and ethics, an article published in The Guardian in 2020 had claimed that it was written entirely by an AI text ..."
+    publishedDateTime: 2022-06-13T10:09:00Z
+    webUrl: "https://www.jagranjosh.com/current-affairs/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
+    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
+    type: article
+    provider:
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 48
+    images:
+      - url: "https://img.jagranjosh.com/images/2022/July/2972022/ludo_express.png?new_images_en"
+        width: 450
+        height: 232
+        isCached: true
   - title: "The Google engineer who thinks the company’s AI has come to life"
     excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
     publishedDateTime: 2022-06-11T14:39:00Z
@@ -220,6 +236,48 @@ related:
       - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/13-06-22-ai.jpg"
         width: 740
         height: 400
+        isCached: true
+  - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
+    excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”."
+    publishedDateTime: 2022-06-13T11:20:00Z
+    webUrl: "https://www.independent.ie/business/technology/google-software-engineer-claims-tech-giants-artificial-intelligence-tool-has-become-sentient-41747279.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 40
+    images:
+      - url: "https://www.independent.ie/business/technology/191a6/41747278.ece/AUTOCROP/w1240h700/google.jpg"
+        width: 1240
+        height: 700
+        isCached: true
+  - title: "Chatbot AI has a mind of its own, Google engineer claims"
+    excerpt: "A Google engineer believes a research system for generating chatbots has achieved sentience, but the company says he's mistaken and has placed him on paid leave after he took his case public. Why it matters: People have always been eager to attribute human traits to insensate machines,"
+    publishedDateTime: 2022-06-13T10:00:00Z
+    webUrl: "https://www.axios.com/2022/06/13/google-engineer-ai-sentient-lamda-chatbot"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/c7oMj84uGQ-gqpXufbaxPJORatA=/0x0:1920x1080/1366x768/2022/06/12/1655073305023.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Senior Google engineer claims AI chatbot system is sentient"
+    excerpt: "Social media went ablaze over the weekend after Google (GOOG) (GOOGL) placed a senior software engineer at its Responsible AI unit on paid leave"
+    publishedDateTime: 2022-06-13T10:15:00Z
+    webUrl: "https://seekingalpha.com/news/3847906-senior-google-engineer-claims-ai-chatbot-system-is-sentient"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/138021770/image_138021770.jpg?io=getty-c-w750"
+        width: 750
+        height: 498
         isCached: true
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"

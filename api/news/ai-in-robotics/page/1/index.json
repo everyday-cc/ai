@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-13-can-ai-marketing-transform-your-business.md",
+      "title": "Can AI Marketing Transform Your Business?",
+      "excerpt": "As long ago as 1872, science fiction writers depicted computers that controlled the earth — robots that challenged or aided humanity or human battles against AI machines. Think “2001: A Space Odyssey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/can-ai-marketing-transform-your-business/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/can-ai-marketing-transform-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/442831561268453b9d0b92a753131c1e.ashx?mw=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/can-ai-marketing-transform-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/can-ai-marketing-transform-your-business/amp/",
+      "publishedDateTime": "2022-06-13T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-singapore.md",
       "title": "ECOVACS ROBOTICS Introduces Enhanced AI Technology for Intelligent Floor Cleaning with Launch of DEEBOT T10 in Singapore",
       "excerpt": "With the new company mission of “Robotics for all”, ECOVACS also launch a new Trade Up campaign for consumers to easily upgrade to the latest DEEBOT, allowing more consumers",
@@ -1302,40 +1347,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-uvalde-shooting-was-one-more-blow-to-parents-hopes-that-they-can-control-kids-lives.md",
-      "title": "Uvalde shooting was one more blow to parents’ hopes that they can control kids’ lives",
-      "excerpt": "As funerals for the Uvalde school shooting victims continue, we are reminded that the loss of a child is a parent’s worst nightmare. Parents live every day, whether they realize it or not, with that possibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.star-telegram.com/opinion/nicole-russell/article262038882.html",
-      "originalUrl": "https://www.star-telegram.com/opinion/nicole-russell/article262038882.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Worth Star-Telegram",
-        "domain": "star-telegram.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

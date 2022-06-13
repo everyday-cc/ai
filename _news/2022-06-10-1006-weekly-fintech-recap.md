@@ -128,6 +128,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Register for the BusinessTech Online FinTech Conference"
+    excerpt: "BusinessTech will hold its inaugural Online FinTech Conference on 20 July 2022. The BusinessTech Online FinTech Conference is an exclusive event for high-level banking, ICT, and F"
+    publishedDateTime: 2022-06-13T11:16:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 24
   - title: "The Potential of Integrating Intelligence and Intuition"
     excerpt: "Cipher Brief Expert and former Deputy Director for Analysis Carmen Medina shares her thoughts on incorporating intuition into analysis."
     publishedDateTime: 2022-06-10T13:46:00Z

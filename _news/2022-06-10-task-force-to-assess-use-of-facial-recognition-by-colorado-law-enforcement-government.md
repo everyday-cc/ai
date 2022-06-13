@@ -2,28 +2,30 @@
 category: news
 title: "Task force to assess use of facial recognition by Colorado law enforcement, government"
 excerpt: "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado."
-publishedDateTime: 2022-06-09T21:51:00Z
-originalUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
-webUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
+publishedDateTime: 2022-06-09T23:00:00Z
+originalUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
+webUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
+ampWebUrl: "https://gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html"
+cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html"
 type: article
-quality: 31
-heat: 31
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: The Colorado Statesman
-  domain: coloradopolitics.com
+  name: The Gazette
+  domain: gazette.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/b6/eb6ce6f0-cd9b-11ec-bbfd-6fc9d1720af4/6275bc4be3408.image.jpg?resize=1024%2C642"
+    width: 1024
+    height: 642
     isCached: true
 
-secured: "YwIs7HQBzc1uvmb+W4L71vViMgoXBPip6mr26JLoOLcoPyUdJhIXbyqLl2XtsvjfWVM6P5rgOnmX6jvPZqp9k0X1mzPf2zqij156mx57J1qDGQ59wSaNCXjLM51x9yrGRWKYPpD4HKV8FxzXJdcOfK8Ywcrl6Gfx9YDpAyvZTrRp+PIYZ18Q6m+yAWGFFCsfeNzo0JTMh0Vxa2fdN1QAWP9uttWFeowWXnFVibl1VH4kkplPoQWbUmpyimpMETduM9MHR9i3BQFfMXvg03sA8j3oMpX72tQZ5E/wLghL1WfQ9DklnyOnMvNDKdDce7gtdDee+U3uWqI5SyfFakaNXU9lKxz7AprQ6lWXtpHxA7JSEyM7Vv3g7sBl1fTKcfXUOTQQRQ7vasFH2CscOOso8UW+sBy3ztNvjzR4rHMSDW26XcOTISrGaAMs68HD/4TQfaxHsSzo6Hdn5Q8qsBT3ZPBaoqzbRDucGXZfwGk8C5+D+pQOA0F7csiYi3K2nD4YczjnjnmMvKyyR7BC49tBFQ==;fpwBPdbbl3FA6ckvJGhe7g=="
+secured: "Dw4YaTpnebwuEjBsjZYPDryUtMvUkZGjrRJ3NtXV7lPhv8zGYBGF70bWC0LDftoeKqlFMU1BSHzMtLI1tJI/G+vHTFEKEsX/NFPS900BKGS/mW0/b9V5WUcAvFFIQlHVIbLvtObplRuZHPd4alh1Z0I8xSEiUcX6VjpNfG97PGHI7vdHySmfzRvbequzyY6ghCEIX0Pj6S1F4PJh4OAxY9W86uPQ7Gnezihpg5IdEOMyAXV9279Jsu0myuSl1pV/NCHPnbfp+V8fDaaUrYIHuapfdYaC/6wJuv9/7Gq7y15fqx8al4SAXwTP9D8b9Z8dGa0vR56fE1s4ReJyyRZ/Yz3JXeWIzd/iUKbLVsPtFvo=;XjUSP6+iEgtyXwvZns8rWA=="
 ---
 

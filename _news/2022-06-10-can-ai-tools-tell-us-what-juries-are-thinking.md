@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/newyorklawjournal/2022/06/10/can-ai-tools-tell
 webUrl: "https://www.law.com/newyorklawjournal/2022/06/10/can-ai-tools-tell-us-what-juries-are-thinking/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 767
     height: 633
     isCached: true
-
-related:
-  - title: "How can artificial intelligence be the next big thing in marketing?"
-    excerpt: "We all know that without a planned marketing strategy, a business cannot thrive. But, the marketing industry is going through a disruption, and as a result of this, we"
-    publishedDateTime: 2022-06-12T08:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "+ouBglSEojzCy6NbmOi50UEgfpv9vBG52H+5u2PflIw4Nw4cXMadu98a78P0hTZJ6d7quNnAeVhix8fMgjkRrbizfWPRIVSSHAtWtrDYo0HqpIANHCxZ6W/YF6xj9Vm5MgMYZQQdgDLTKl38gWZv1I7tdEqv7BLNtucwkkLg0SNe8mXdjDLP4H5xndBtkjSlrxUM+BfRhF5hq46ew+xUokERggD5QRDiqeH1HWuBePxmF0k5s1mvtt2qCvccl3BeObXUUD5q9/vmMN2JTWGGd51qcb44Mzx9Xe2ZUEx3Yi+N9LD+dS7HboVxJ6T9wvUEo6iSdT/o0QX5uZrl1bjUAJ/nmvgHMaJ8qJEBUY0S9l1FOROIXbJUwYf9Cjd8b2FCS3Q0oT0WHSke/rVXzW5QTebD7p0ELHtBA+GIeAq6cPFB/RnY+Vbsw0W+aHobk62Gx1ljY+aFV6jwgMAZ/rOPzZ+NmABs9j7ESMs0Vxo4h/jqbeXIiVnqDhNIr4BPqCjNz4QQCwNX+t7eI0raS9xoAQ==;HLLs0Zly626ta0JDc3yrDQ=="
 ---
