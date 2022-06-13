@@ -73,10 +73,26 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Employee Suspended After Claiming Company's AI Has a Soul"
+    excerpt: "The technology is something Google announced last year as breakthrough technology, using it internally as a way to better tweak and improve the company's flagship search engine. A"
+    publishedDateTime: 2022-06-13T01:56:00Z
+    webUrl: "https://comicbook.com/irl/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
+    ampWebUrl: "https://comicbook.com/irl/amp/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 57
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2021/09/24/e8fc9f0f-21e6-4148-9296-63d36faafd0f/netflix-disney-plus-hbo-max-hulu-streaming-1222506-4.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
     publishedDateTime: 2022-06-12T19:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
     type: article
@@ -171,6 +187,15 @@ related:
     provider:
       name: New York Post
       domain: nypost.com
+    quality: 17
+  - title: "Google engineer claims AI technology LaMDA is sentient"
+    excerpt: "It has read Les Miserables, meditates daily, and is apparently sentient, according to one Google researcher. Blake Lemoine, a software engineer and AI researcher with the tech gia"
+    publishedDateTime: 2022-06-13T02:29:00Z
+    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=356247&tst"
+    type: article
+    provider:
+      name: NZCity
+      domain: nzcity.co.nz
     quality: 17
   - title: "Google engineer thinks AI bot has become sentient"
     excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."

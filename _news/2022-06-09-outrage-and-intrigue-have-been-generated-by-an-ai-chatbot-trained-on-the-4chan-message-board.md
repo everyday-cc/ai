@@ -39,15 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI bot trained with 4chan content turned into a 'hate speech machine'"
-    excerpt: "The AI bot GPT-4chan was created by YouTuber Yannic Kilcher and allowed to run rampant on 4chan for a day in an 'unethical' prank."
-    publishedDateTime: 2022-06-08T10:25:00Z
-    webUrl: "https://www.tweaktown.com/news/86718/ai-bot-trained-with-4chan-content-turned-into-hate-speech-machine/index.html"
+  - title: "Google engineer forced to take leave after claiming AI chatbot 'developed human emotions'"
+    excerpt: "A Google employee has been made to take leave after he shared conversations between himself and an AI bot where it told him it feared being turned off as it would 'feel like death'"
+    publishedDateTime: 2022-06-13T02:14:00Z
+    webUrl: "https://www.dailystar.co.uk/tech/google-engineer-forced-take-leave-27214653"
+    ampWebUrl: "https://www.dailystar.co.uk/tech/google-engineer-forced-take-leave-27214653.amp"
+    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/google-engineer-forced-take-leave-27214653.amp"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 21
+      name: Daily Star
+      domain: dailystar.co.uk
+    quality: 48
+    images:
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article27214622.ece/ALTERNATES/s615/2_SDC_MDG_-CHP_39470JPG.jpg"
+        width: 615
+        height: 409
+        isCached: true
 
 secured: "IGJHrkbYa1WtUF62Xh4ShL3KAFp9sTFjZjgVz3nk+TgSapzP09//CDrGyhtF2p2n6be4APtbVyN1Uex4PU2paihO6J/G+zV1kKPjEOoeIhK3liIzOPXSXh2Ru6UXCGHTchDY2PYv799tKeKvOnwzTbiF7UvGKfhJi4ztFHs4Zup+aInrlL42rfR/YWz+N1yAZpnqtLNlBykes9cgpA55sFsUHoTzXU4xokH9woKkCtOz8UuZI0JS51QHKfxbDxaZ3+bNfxahk0DM2nm9t7eWKXTuRPinvFxJXlWeM0qCVGQezNZgI3/90dmAstcX23YPJuzWiHpAtk3nmGCVTO7nTBlvwfAQobmjIkYWlqtCOtrSc9NEmaxhVmEXw3P12fJoWyrUjN2i4GYB0HRbk5ksN6A/NKToTj0bqasPnFaVJFRWSzw6vDttZo9Db7peubfySsrkrVC6TgnEAK8RTBgFTKj4e9IWJ5R57PXrxqxAzNobXVg6ZzFV7IKk9A/isNI2s9iIEbbymxMkCOT06elkqg==;XndtLgJX+vW+MRoO6vzItQ=="
 ---

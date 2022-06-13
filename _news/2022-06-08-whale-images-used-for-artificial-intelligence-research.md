@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.html
 ampWebUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/whale-images-used-for.jpg"

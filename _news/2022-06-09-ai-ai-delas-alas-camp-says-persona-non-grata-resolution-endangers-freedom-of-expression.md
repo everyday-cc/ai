@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "QC’s Lagman: ‘Sincere public apology’ from Ai-Ai, Yap may lift ‘persona non grata’ status"
-    excerpt: "A sincere public apology over a video that “defaced” Quezon City’s official seal may lift the persona non grata status of actress-comedian Ai-Ai Delas Alas and movie"
-    publishedDateTime: 2022-06-08T09:07:00Z
-    webUrl: "https://newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status"
-    ampWebUrl: "https://newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status/amp"
-    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 48
-    images:
-      - url: "https://newsinfo.inquirer.net/files/2022/06/Ivy-Xenia-Lim-Lagman-620x621.jpg"
-        width: 620
-        height: 621
-        isCached: true
   - title: "Kampo ni Ai-Ai Delas Alas, umalma sa pag-tag sa kanya na \"persona non grata\" ng QC council"
     excerpt: "The camp of Ai-Ai Delas Alas condemned the resolution of the Quezon City council declaring the comedienne \"persona non grata.\" Her counsel responded to it."
     publishedDateTime: 2022-06-09T04:32:00Z

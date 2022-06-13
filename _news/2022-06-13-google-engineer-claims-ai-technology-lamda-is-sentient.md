@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Google engineer thinks AI bot has become sentient"
-excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."
-publishedDateTime: 2022-06-12T19:55:00Z
-originalUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018845615/google-engineer-thinks-ai-bot-has-become-sentient"
-webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018845615/google-engineer-thinks-ai-bot-has-become-sentient"
+title: "Google engineer claims AI technology LaMDA is sentient"
+excerpt: "It has read Les Miserables, meditates daily, and is apparently sentient, according to one Google researcher. Blake Lemoine, a software engineer and AI researcher with the tech gia"
+publishedDateTime: 2022-06-13T02:29:00Z
+originalUrl: "https://home.nzcity.co.nz/news/article.aspx?id=356247&tst"
+webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=356247&tst"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: rnz
-  domain: rnz.co.nz
+  name: NZCity
+  domain: nzcity.co.nz
 
 topics:
   - AI
@@ -195,14 +195,14 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 17
-  - title: "Google engineer claims AI technology LaMDA is sentient"
-    excerpt: "It has read Les Miserables, meditates daily, and is apparently sentient, according to one Google researcher. Blake Lemoine, a software engineer and AI researcher with the tech gia"
-    publishedDateTime: 2022-06-13T02:29:00Z
-    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=356247&tst"
+  - title: "Google engineer thinks AI bot has become sentient"
+    excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."
+    publishedDateTime: 2022-06-12T19:55:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018845615/google-engineer-thinks-ai-bot-has-become-sentient"
     type: article
     provider:
-      name: NZCity
-      domain: nzcity.co.nz
+      name: rnz
+      domain: rnz.co.nz
     quality: 17
   - title: "Google Engineer Put On Leave Claims A Self-Aware AI Wants To Be Known As An Employee"
     excerpt: "According to AI Ethics Researcher, Blake Lemoine, Google's LaMDA AI chat bot tool wants to be considered sentient. Through conversations and research with Google's LaMDA, Lemoine claims that not only is it sentient,"
@@ -214,6 +214,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "GmP2/RE2HC1lUvYghnc043Z7EbF0toIV00/STnYTXEV4BhcYeqBZFQ1XYzTkHvMDgBaXm1NUOFidDeFnk3KEDVRmC7Kuj6rVV2YDhJw0mDIBqQVA+DwxbqJU4mL21vnHzP4Hly37zomgR+CQWiNs3hQ8JuWFS97BypXT6Pbs45E/XRbrLbQ/xmLlbz3yQGJsG7tQhe4liw6pZzkOG/9zqejyJDXCHBXIYzWeYsl9yJaVHUHS/g/Bb8XNiBplEw64U+kwUAlrxavy4y8WKk/Jt8whhTDGLWQybAizbqrTPTDj0CetZnaGBRmNk4VNg+ufo/HWV3cmXp4MQMqsHqwDAVeeIbR4QgVoEIHYNVG9IYNgqcSCjfnlCI3cqUfzAYCLEoofuZNh/TZyCXbIRz06E3Alq6MyuZO2FE1o4lLCuOz0vkFkGFAGOBJWLJrV18B+BzypHzWnR71p/Tr7Ekfop83ZQeAIopV364oVVB6S0R4A7Bars8wRRH8826EtjvNHweKEoZ1Dz5Cz068w3jn5Jw==;cvYsqMH3QzbldGyOBBoqGg=="
+secured: "0enU14OeUCIUAEzLdjdleTBrIvVCKUT/YjBnXv/4vd9AHol9jIrrwQukqVuaMSr4N5JJbQBoniCKw/+fARRyhUJu8JwA4uDeIsYQNJCxIzCpFuGmma8qFG6wOevZtQ632d1OR/x9kNJT/cI/I9I981yb/RxmuvbdVxBVI2qDHi6Cprl251iNW3p4SuXZA8IVRUsX9KnQfGfP/IAmpfEYXyW6cBF7kaSOdQukmTTHlkvdwFD5J1w3yhE4w8fdL+uAQHz3CgxWgm4jg6imeyoQXpSxoT9Dai93ebR7ugRrdBaS2H5nzK/VBbVtWIxTxYFTRIvnYFEIvU1AXOgdvNnqAqhrpYLPUQSYjUDa4tf5tWA=;Voko6hQoiiZlAoAtHN9NiQ=="
 ---
 

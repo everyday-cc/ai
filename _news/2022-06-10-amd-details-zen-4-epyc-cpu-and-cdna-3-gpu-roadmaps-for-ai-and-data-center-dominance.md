@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-g
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Protocol
       domain: protocol.com
     quality: 34
+  - title: "AMD CDNA 3: world's first exascale APU, CPU + GPU on same package"
+    excerpt: "AMD has confirmed that its CDNA 3 architecture is the world's first exascale APU design: both CPU + GPU chiplets on single package."
+    publishedDateTime: 2022-06-13T02:45:00Z
+    webUrl: "https://www.tweaktown.com/news/86812/amd-cdna-3-worlds-first-exascale-apu-cpu-gpu-on-same-package/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "2/9va4YO37u6ASF9uEd9UFT3g6/lt5J26bM4drmo1wFDmivIR5EfAdIjIJrltC+W3fDeqMWnYH7B/DMfl6g3Kd1kJxFE9+AVkws5kuGVYsCScfWVtueLmcF5vR35ZGwv0KXy3Thbmke5AgomDoo+o8blzaCTNLlY/MOcnlbTnY3B7ysirxBZ/rEUX+D1E/8NijMhg6sjrW+AL2b4Qw+4BWZaewE+t4JZPdYlxqCAhtr5KogYPG1vZhtE52mr+NGteIG+Mt8BO13kl9Nqg9FtWUrmSfuZUH0DlXTJjRFbqFzOsJQqid0Vr+MMJf8yyLgmaw9pq5ViPHGto0fYnepGOJViHVaxoHgj+MObRNMVy0Me78bdzKDnAB8GZc+GrQLBI0zwTOdn9/MTUqHyc1XFDNQXipZpJbCq9TjoyKzShhZ/mLEHB/UUkar8tfFvVq2NRwVjREzX+yJo1Un+0ifdIBmFaHmVM+d+Ef6ibRkqPokljKYlJeIlbavExTGHujHACrh1FHgDlxrXSM/UAxcmpA==;26AF4lBfaG9thU/RtR5TeA=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "AMD wants to double revenue by 2025 with its data center and AI chips"
-excerpt: "At AMD's first financial analyst day in two years, executives said the future of the company is the data center."
-publishedDateTime: 2022-06-10T18:29:00Z
-originalUrl: "https://www.protocol.com/bulletins/amd-data-center-ai-chips"
-webUrl: "https://www.protocol.com/bulletins/amd-data-center-ai-chips"
+title: "AMD CDNA 3: world's first exascale APU, CPU + GPU on same package"
+excerpt: "AMD has confirmed that its CDNA 3 architecture is the world's first exascale APU design: both CPU + GPU chiplets on single package."
+publishedDateTime: 2022-06-13T02:45:00Z
+originalUrl: "https://www.tweaktown.com/news/86812/amd-cdna-3-worlds-first-exascale-apu-cpu-gpu-on-same-package/index.html"
+webUrl: "https://www.tweaktown.com/news/86812/amd-cdna-3-worlds-first-exascale-apu-cpu-gpu-on-same-package/index.html"
 type: article
-quality: 34
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Protocol
-  domain: protocol.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - AI Hardware
@@ -51,16 +51,16 @@ related:
         width: 1600
         height: 1157
         isCached: true
-  - title: "AMD CDNA 3: world's first exascale APU, CPU + GPU on same package"
-    excerpt: "AMD has confirmed that its CDNA 3 architecture is the world's first exascale APU design: both CPU + GPU chiplets on single package."
-    publishedDateTime: 2022-06-13T02:45:00Z
-    webUrl: "https://www.tweaktown.com/news/86812/amd-cdna-3-worlds-first-exascale-apu-cpu-gpu-on-same-package/index.html"
+  - title: "AMD wants to double revenue by 2025 with its data center and AI chips"
+    excerpt: "At AMD's first financial analyst day in two years, executives said the future of the company is the data center."
+    publishedDateTime: 2022-06-10T18:29:00Z
+    webUrl: "https://www.protocol.com/bulletins/amd-data-center-ai-chips"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
+      name: Protocol
+      domain: protocol.com
+    quality: 34
 
-secured: "F6nbUXZEONZKRpP2n+yVzeUq1t2MoRYWfgkvCKoLAKi4Voh+a3jZesfhmAefJbWhz2eOlUt+5hDTcdLX9OQot9DbhOaHqCsYcIgKVsWzKUalRNThzbjNHik4+FuSu9J2hHIaycXqFVNUUN8tOV1ryu2FvOx7/NUH0JojXU0SFV+1RSyI16LtZuJh5+Xd69FClJdOh+enyGyXqWe74+TzQ7lFp7TbD0IM9QqPjmpwANDGrrb2zMK8Ia+VBhqGaZ1wFyzvQQ0e6gy42Ea5VDq0xWGVmrA8/GHyDc/HRMd1prdW9h2iyAiNDJCL5wFY+AXxID/y3OMOhB4IAPymvCTpS6ERhy5zDltblKdGveIPHcJauGdsF+dSYLZmIAxdWu2mUEz+77FL1l5BtvduiLqjO+ByEEPHhX6+7Y4C2SbeF9E9ktgQAZrnJ9iRoZEovTPHCw9I1DLlzCgLhyBFV4QJF2q3AIHd3YykoteYcHJx9qNYDTaE5HebX3AtSJ/ICwugUOth7sGXnuMZIX55cpc9BA==;zobNF3YrvEgsieq5hZ9ngQ=="
+secured: "g4eR/nW0SPSE4kHa8ivph7GZ9CE4ecVySGS09uKdWNDOm5njvnxdi4altcl7Yvp6z3CRisGVOrHOtMIFZ7U1Y5sWXkhE2tWGy8yVOdnM6o4E+p1ISSgJjK1gWe/X9CXi/86Ww5C4motCylkADCgHgkC/SKowK2Qe83vdLT/S1O/rCApYwK8vpTBIpPVQTTvuJHNb7RBZQzAt314qtB7L6nNbsK8zXvYPhZautMtEbbjDUYccCw2j0iwHPxOKAhbcxLkkc2myXR23BVjX6REkSb40GLpOIX5/tTX7egVjrJmM/5TAM8K8prk0M9oAdUqtfSLImv5fVBSa/Sf84G3e3n4+aJ6Rnbi/cUy72LcSAbs=;pC3PFKTiD+S+4yivZ3hPtw=="
 ---
 

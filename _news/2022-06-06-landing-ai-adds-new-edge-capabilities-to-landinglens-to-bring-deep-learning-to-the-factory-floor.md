@@ -2,19 +2,23 @@
 category: news
 title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
 excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-publishedDateTime: 2022-06-06T13:18:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+publishedDateTime: 2022-06-06T12:59:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor-1031510876"
+webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor-1031510876"
 type: article
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "VFvxNybDMqHesrFNKxjunM4qVe7qvumrKgojjyCYnR+nT8fn7UwSQJe+PHddK8Ew+lEe9Q2KnxcsYhNvL3TevozW/goBT6Xnl3rjHMMy1XUM+mrPjLfRyRbahzvRJoYTPzD5ItoKoLakV41s4i0p35lHggTfQAicv7BOuTa2hRkMwIDJG+dpoe8old0uVNwC90oh55bTgOIrJXxtrwvaf/CPMWVfFFCu8A8yWBl2XWUQHQSVwjwwEY4+Ctj7LiadYVSzen6tmEU54xSA5jYqL0LC8EmJbTPXXoOoihCHW8QK5LsOXIkq8m6x+uDqi57gS2Qnfn60A+yQpMj4/5Pjh9SUhaxwWkiO04pCRqjfjBM=;mGzYGsIE67mEb09J8yZiUg=="
+secured: "L+w0A7/ThtEvEFDsXUNYAPTFq/BP4N0xSgH0531dt3tHhnmrtcUktcQk5kzRwH/4hDICwhXcqP859tuh7uJ6jO9ZoY4ZW0WHGIdda3wOPfzvgaaWkGnFUz9Sr0rmTjvbIHdQ6LQf8GUBpMD3HfdyOzkLebge4tLliE7Any6reeWYOBD9iNyidnK8SOYrkqQjEMzHBvU2iXP9hhasgudQ9zUbEWhB0IPJNaMUJM4BWHoztoWxtTDua4JndAMOVCY9ZRhR9Ex9w3nUlCA7H5QH+09KzwSmVv7FB43Qd7479sBRSFeZvH/L/DBJM0oyw7JRBMyDaP1JF8zvrN6/npErLYwFP78FWxBfDCiwdAGY+1o=;KdY+fD91/b1N17TC11Dpog=="
 ---
 

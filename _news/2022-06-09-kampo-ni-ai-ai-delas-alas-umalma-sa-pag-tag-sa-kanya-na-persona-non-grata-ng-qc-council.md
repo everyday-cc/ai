@@ -7,7 +7,7 @@ originalUrl: "https://kami.com.ph/entertainment/celebrities/143557-ai-ai-delas-a
 webUrl: "https://kami.com.ph/entertainment/celebrities/143557-ai-ai-delas-alas-camp-umalma-sa-pag-tag-sa-kanya-na-persona-grata-ng-qc-council/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "QC’s Lagman: ‘Sincere public apology’ from Ai-Ai, Yap may lift ‘persona non grata’ status"
-    excerpt: "A sincere public apology over a video that “defaced” Quezon City’s official seal may lift the persona non grata status of actress-comedian Ai-Ai Delas Alas and movie"
-    publishedDateTime: 2022-06-08T09:07:00Z
-    webUrl: "https://newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status"
-    ampWebUrl: "https://newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status/amp"
-    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 48
-    images:
-      - url: "https://newsinfo.inquirer.net/files/2022/06/Ivy-Xenia-Lim-Lagman-620x621.jpg"
-        width: 620
-        height: 621
-        isCached: true
   - title: "Ai-Ai delas Alas’ camp says persona non grata resolution ‘endangers’ freedom of expression"
     excerpt: "The actress was named 'persona non grata' over a video posted on social media which shows Quezon City's official seal altered to read 'BBM SARA'"
     publishedDateTime: 2022-06-09T11:45:00Z

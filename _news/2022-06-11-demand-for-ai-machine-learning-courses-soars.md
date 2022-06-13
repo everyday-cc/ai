@@ -37,7 +37,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 59
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/whale-images-used-for.jpg"
         width: 2362

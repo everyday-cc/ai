@@ -52,6 +52,15 @@ related:
       name: Protocol
       domain: protocol.com
     quality: 34
+  - title: "AMD CDNA 3: world's first exascale APU, CPU + GPU on same package"
+    excerpt: "AMD has confirmed that its CDNA 3 architecture is the world's first exascale APU design: both CPU + GPU chiplets on single package."
+    publishedDateTime: 2022-06-13T02:45:00Z
+    webUrl: "https://www.tweaktown.com/news/86812/amd-cdna-3-worlds-first-exascale-apu-cpu-gpu-on-same-package/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "0GlF1136oYkYBZshHiOs6J1ZMVE+h8kCnhDN9t+cS7DU7lc3Jycik06DIKL0iMVO1zV4kponfAzFhDJ/bZAEauNwEAuKx5gT0VziWfbv1MEqbfJDIBvCAjcuuM/t0rH3MLKM+D0FC4uVvuLJDACTQDf5XDak7eDHU71zYXqjbZsSG09CUJIR8uOn5ab70H33RUNxFQNIccJLK6qbX3Amj8fv0a0xUYbHVw9OkkNJwJ7aErFJdDWla3iQoSRFKR6wfdQOTxH9FFCnOwZ5Z0biG8VNdJ+4OZcqppwOrGrV+h9MdcbsgMVOaT4DPNSW2KvjXSxFiL9UAXl88OA1d84OCcpCA2qyNwkxaq/ns66z+/dTo4DcPSbZ1KPNx7BSvEmSmxWuWhsnPCKOvtiZFRYTJcs1cQ2SR/m0BOKMEvf/QG0lIukmQAPWaRq+92dBwoIkxRQTlDIP2rythR6qFwAW39qA0915SrOsSWHfn1DsmNfmpQNjsnExu78cRCkPooPdzzwd+r4tkMg5I36sR+HTaw==;Fjk3UAS3f3LsEqKZNDtHUQ=="
 ---

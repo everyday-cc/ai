@@ -3,8 +3,8 @@ category: news
 title: "Google engineer put on leave after saying AI chatbot has become sentient"
 excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
 publishedDateTime: 2022-06-12T19:16:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
 type: article
@@ -77,6 +77,22 @@ related:
       - url: "https://images.wsj.net/im-562388/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Google Employee Suspended After Claiming Company's AI Has a Soul"
+    excerpt: "The technology is something Google announced last year as breakthrough technology, using it internally as a way to better tweak and improve the company's flagship search engine. A"
+    publishedDateTime: 2022-06-13T01:56:00Z
+    webUrl: "https://comicbook.com/irl/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
+    ampWebUrl: "https://comicbook.com/irl/amp/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 57
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2021/09/24/e8fc9f0f-21e6-4148-9296-63d36faafd0f/netflix-disney-plus-hbo-max-hulu-streaming-1222506-4.jpg?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
   - title: "Google Sidelines Engineer Who Claims Its A.I. Is Sentient"
     excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company’s most advanced technology. Blake Lemoine,"
@@ -175,6 +191,15 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 17
+  - title: "Google engineer claims AI technology LaMDA is sentient"
+    excerpt: "It has read Les Miserables, meditates daily, and is apparently sentient, according to one Google researcher. Blake Lemoine, a software engineer and AI researcher with the tech gia"
+    publishedDateTime: 2022-06-13T02:29:00Z
+    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=356247&tst"
+    type: article
+    provider:
+      name: NZCity
+      domain: nzcity.co.nz
+    quality: 17
   - title: "Google engineer thinks AI bot has become sentient"
     excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."
     publishedDateTime: 2022-06-12T19:55:00Z
@@ -194,6 +219,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "0Ea2aijX4rPmJ5EtbGAwh22ucfL6nLTpT+QqTN9FxWhLITpNL3ls/x5Ew+J46T7IMj2t0cdn/m6SJlzxaA6iaKIC9rgj0LjacjbmX8+ED5r+dd/+pUsT6WMhcppnhuxD0ksYzldeWwnNCZB4TWJV+fT9bxNY7HM+Mzl3WehM5G+2dFc40XHKSD1yhUhMJThcwyNoPyhlQ5r7QtiAj1giPsecRE+dZT3A45Ab83cTpth9sdhb1Ucv7mhXdhRkv11EsXmiSvcuwnKXOXzPxM2PcQdyxdjEh60PifK0w7P6od1BoUxP1WiWfbEzQAcCklID+D1yqHYGUBZWzhKMmT00EOGU1SDU85EndWGKtfobhMU=;9ng2m0SFw9rgod3qrVOK8Q=="
+secured: "9olg+6AyE4u1wejE9xTuGJKS/PzhWnNZUJD8XKA/yKxcOCOLZ5PniDyLU4pLiLlsMmYqfO3FGOEMUAPVfOw3V9C8fZpb8a6hkvfX6W6IhakI48pavCe8z9yN51aGG7VoMWk9ZJWL3EaFk7HapACa8Bu7x6oJlwUPhqyJ4P46zuMQHIKTgHKo4jpOcvJBLONJfZ6MXl8fZL9uz8IKpQAlW7e7lMXYrh8JyekLT/gEXoGH1womL4mF7LpkJnaY3N0H3+35WvQU5iw2S+9T73Eta9LqcedoL1pKEF4PWaYpB2nV1ZxCYdFy26xiPtXKz1p0jVmQZkDQHGXKDpi6WmwBNZw5tc19f/vqp5wcaXfJjUg=;3MnqXfBOUNPoQdRGCFxT7g=="
 ---
 

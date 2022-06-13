@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Tanla, Kore.ai forge exclusive partnership to offer Conversational AI Solutions"
+    excerpt: "Strategic partnership to revolutionize business communication for enterprise-customer interactions with the power of conversational AI."
+    publishedDateTime: 2022-06-09T07:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tanla-kore-ai-forge-exclusive-partnership-to-offer-conversational-ai-solutions/article_0f2a77a4-43ca-5028-b5af-d26e57f2819d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Tanla and Kore.ai forge exclusive partnership; offer Conversational AI Solutions on Wisely"
     excerpt: "Tanla, a leading global CPaaS provider, and Kore.ai, the world’s leading enterprise conversational AI software platform and solutions company"
     publishedDateTime: 2022-06-12T17:09:00Z

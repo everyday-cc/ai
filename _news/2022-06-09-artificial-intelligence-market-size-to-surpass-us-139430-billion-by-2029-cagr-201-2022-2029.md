@@ -55,17 +55,6 @@ related:
       name: The Express Tribune
       domain: tribune.com.pk
     quality: 4
-  - title: "Autonomous Car Market Size to Grow Worth USD 11.03 Billion at a CAGR of 31.3% for 2021-2029 | Fortune Business Insights"
-    excerpt: "Furthermore, giant businesses associated with automobile manufacturing are promptly adopting Artificial Intelligence (AI) and Machine Learning (ML) technologies and implementing them in automobile ..."
-    publishedDateTime: 2022-06-08T09:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27602579/autonomous-car-market-size-to-grow-worth-usd-11-03-billion-at-a-cagr-of-31-3-for-2021-2029-fortune"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27602579"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27602579"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "kmvX9FJDo5g20MbODa+KUWapMajYCVVW1P35et7SaMsrGiE+fl76tpB0QiKbetlJ6WUNFAXaJY+uZwX1/IrXzZu10BEA/jOB5Kcf+CB1UVvezz5Smq1P6qdaTdpHF5XbpmLd0HUIHCyvdpkKw8Dql29nam7yQsduU001zNP9KPTVHSiAx/2ZRu5sRHhajH5my3K/14AREPkc0kOllnPpbk7XRIOazyoHQhla0Sh4qxrc0shVbA+CtRmie6ImhB/7wfUQnQYGZi9nLJbA/Z5knTMWPCS0Lg6TjFgQ4YXK8xrAq2x1FVST9eq9dylTt2dcg17bTyhcKLEoOp1drGHAElLDAjzVCyK6SzohF+YXuW0=;+yZpxyNJpTSVxxRsWmL99w=="
 ---

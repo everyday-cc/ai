@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 related:
   - title: "Resisting the urge to be impressed, knowing what to talk about when we talk about AI"
