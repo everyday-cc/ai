@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/self-driving-trucks-cut-retailer-20164
 webUrl: "https://www.aol.com/finance/self-driving-trucks-cut-retailer-201643571.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,33 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "A self-driving truck will soon deliver goods to 34 locations in Dallas-Fort Worth"
-    excerpt: "A California-based autonomous trucking company will begin making deliveries to 34 Sam's Club locations in Dallas-Fort Worth, beginning in July."
-    publishedDateTime: 2022-06-08T15:10:00Z
-    webUrl: "https://techxplore.com/news/2022-06-self-driving-truck-goods-dallas-fort-worth.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-self-driving-truck-goods-dallas-fort-worth.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-goods-dallas-fort-worth.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-self-driving-truck-w.jpg"
-        width: 2617
-        height: 1704
-        isCached: true
-  - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
-    excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."
-    publishedDateTime: 2022-06-08T18:32:00Z
-    webUrl: "https://jalopnik.com/waymo-will-put-self-driving-trucks-on-uber-freights-net-1849035119"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 28
 
 secured: "gT+icvZTAQdhkdFvqb/ImJcmkZguK3zn1LUbp5RFxyBvG22lIxXEee+/pQGQmlR1yn21g/2E7set+a5DO2uUN7AjggllS2F0p+hzdMVwhZBRDkYLtMfcwd1UbcLbSYAHpFS1JyWAvDPaWEfruKZwM7AYGNiTT2HBG/1boN2qj7giXG8xx2eP5sMwSVJ7v481ySvdoRRfzM2F3broku2RP+HC/RuWaw28pLXYBZJrPqHErmcvrgely4AN6iBUPi+8B3SiAUgx5nU+A01B5SLvGYC5O5NEfAqMT2WDQ/NnxGwc89sJo0nKvLeeD79q5QorxYPSm0Qc8c3L1cbYpuEOT4eKp6RuSqIDiCZB9/T0ELPC8x12w0CB7vtYpzmsMw49MVl+JbtxQ9zSNm2vc8W07gRV/nwiYFd8IDdxaP4FRj1PdopbdY8EjRQSCI6e+CMEBUaXoLXqXa4LWGxUfQMj2vOlQ6pHEj9iERnLR8bdwHeOpQAGpo0Vp9o4RodZCVFRStLobEh5YHqw9Kgk/gWATA==;ETrA1keN4HoqjMvjRCdARw=="
 ---

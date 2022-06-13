@@ -184,6 +184,50 @@
       ]
     },
     {
+      "path": "_news/2022-05-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Analysis with Growth Forecast 2030",
+      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for Natural Language Processing (NLP) in Healthcare and Life Sciences market across North America ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/051a518886e702eb4a9eea9982a177f13dd2078e-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-how-to-use-windows-speech-to-text-for-hands-free-typing.md",
       "title": "How to Use Windows Speech-to-Text for Hands-Free Typing",
       "excerpt": "Both versions of speech-to-text use online speech recognition to convert your spoken words into text, so you’ll need an internet connection for the technology to work. Speech-to-text is built ...",
@@ -1324,49 +1368,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-pair-programming-driven-by-programming-language-generation.md",
-      "title": "Pair programming driven by programming language generation",
-      "excerpt": "We are now seeing the evolution of intelligent systems that can understand an objective, comprehend context and generate code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/19/pair-programming-driven-by-programming-language-generation/",
-      "originalUrl": "https://venturebeat.com/2022/05/19/pair-programming-driven-by-programming-language-generation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T21:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

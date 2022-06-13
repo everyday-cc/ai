@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/baidus-first-robocar-looks-like-the
 webUrl: "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "JIDU unveils first concept production robocar"
-    excerpt: "Powered by Baidu's leading intelligent driving technology, JIDU is set to deliver robocars that fully meet the needs of advanced autonomous"
-    publishedDateTime: 2022-06-08T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jidu-unveils-first-concept-production-robocar-1031516921"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1835473/JIDU_concept_robocar_ROBO_01.jpg"
-        width: 400
-        height: 201
-        isCached: true
   - title: "Jidu lifts curtain on concept robocar"
     excerpt: "Photo provided to chinadaily.com.cn] Intelligent electric vehicle company Jidu, a joint venture established by tech giant Baidu Inc and carmaker Geely Holding Group, unveiled its first concept robocar,"
     publishedDateTime: 2022-06-08T23:14:00Z

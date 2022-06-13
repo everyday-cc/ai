@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/call-of-duty-modern-warfare-2-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/call-of-duty-modern-warfare-2-is-the-start-of-a-new-era-for-cod-and-warzone/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/c7d5b3d559b16a78523ac52000179b80fa31673a/2022/06/08/487defca-5db5-4982-b2d5-87b1945117d7/ghost-unbranded.png?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Modern Warfare 2 is bringing “lethal” AI bots to Warzone"
-    excerpt: "Modern Warfare 2 is bringing new features to Warzone in the future and in an early access event, developers explained how \"lethal AI\" will work."
-    publishedDateTime: 2022-06-08T17:00:00Z
-    webUrl: "https://www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/"
-    ampWebUrl: "https://www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/?amp"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 57
-    images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/06/warzone-ai-bots.jpeg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "nhw3vPICgAKK0WUi18HSng/KHdA2nB36+pf5anlHpIGDddDitCHPCr/OpQU+2YWgcVPDsrkIrf9qM9EajyX/wAcefa6KqelZskNewVJMr+5p0b4qe9Ku4100ZfoKw2fhmwx/f+dZ9V9JIM7N/1GycbY5pqOarv/uUwEvdaMirnaFdcE+439CiqEp5V9cVcVG2WKNwkC7l3z3Fz1bxE9TMdtYDx1ZU2pZ4ZKfE0kZTPrpiQDz1fFh/zq6g9xaPZDY/GzjVJwvUoWePLRAMW1Ix9aoi7CvQ1Fit0U6rTeMIHyqZkARI6NFCINotH0Cf46bAtrvWFaqe/s9b4MCqBf6zO4Dlejg4YI6ioP+jPY7uPHEV4QnHg1Iz03GxcwNbMlr4pB8gSyq9T8lF1gUDExMCSAQcefyqQ+/wWUmRX0n16QqzR8yU1+g63Eg1E47PMgmNaVb4/eBe/QYjiJXW5G4X6Qlx60xXGRcvbBlJmjYS25x6P1gdP3t+ILZIikr2GVEeUjfeD8GDep4oTtcdPZa/w==;hvYsw4U/qexFxzz8zUG3sQ=="

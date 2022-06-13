@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-f
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.amp"
 type: article
 quality: 74
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 390
     isCached: true
-
-related:
-  - title: "Whale images used for artificial intelligence research"
-    excerpt: "A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work."
-    publishedDateTime: 2022-06-08T16:39:00Z
-    webUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/whale-images-used-for.jpg"
-        width: 2362
-        height: 1393
-        isCached: true
 
 secured: "h0spTJGPAWpl5dVOURfNf4DUWmlqNHjvecvO587xnjjunU91+Ikq+NF5sW6A5ZMpt7zS00HjCYMnjt9VdVOgEm+49rBcnmbY5LlEEU1+barjmTVFIJhvPsxtvYGmSKXk1+Y1Egx4kH5Ob9s0w054J+lyC/PPIcKSh5JkYF0+xhFX2Kjl5uOByj+KzIXwGMxyRQ0kOOtKHcNhla9xPC/+ZX3PkTgxWh5FBuIV1bwq3l4O5t1ewTcCV15oyC5KFqoQhvnBRfjiI6fViFZZ8MlF9lHM4ty43zAB2yivjTl0+JK120xAn/H2w1D0tU1Q4iPF9aFpCjHK20N8w2YaWEBRs+fKX4bAe4JsMzkyqzQ9slzZQGpfgJWYew2r+awlVD/kKKtYdzyTcpjoFZbmprZ0vy8g18nKJbJ9bqEJi4ux9O/4BaEHJprvNztejK6iQB4czmfx18TH7oSn0+M3CMYJiHvmVvXhdO3hZqpFdPObbMjLvHQJRz6J6wEn3lPCmd1EzJ9EoEG6uSR4na+2b5fSrA==;pLAv0v2+lc37+HtFSZAW5Q=="
 ---

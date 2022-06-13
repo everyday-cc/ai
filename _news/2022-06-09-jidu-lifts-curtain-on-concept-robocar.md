@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "JIDU unveils first concept production robocar"
-    excerpt: "Powered by Baidu's leading intelligent driving technology, JIDU is set to deliver robocars that fully meet the needs of advanced autonomous"
-    publishedDateTime: 2022-06-08T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jidu-unveils-first-concept-production-robocar-1031516921"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1835473/JIDU_concept_robocar_ROBO_01.jpg"
-        width: 400
-        height: 201
-        isCached: true
 
 secured: "THr/y8jruAgKpzBQtau4MQFAYtqW8rVMpJ3xsuIG2NMmC78qH5sBRwnzWDecQMiODUi3cW3ZY9qQ2xp/iwznhncMUxJGES0bJhN8KSbYecm7hFWbBYDMn/8QtamzAzrJsFNHcayTUuCvWuTw4Y72K6NzOaUtsAoZe68FLVnkaG57640bIQ8mWmNlEP4gKeqdYYcaktOLQVvQ/85ld7YD5CAmwTr7e9HFZVRCZJvElYuoTnKCq6ijJ12NGaDUTqpVtyvduw/sXtiSR18HE/5FGbCMkzfViEPeOR202NIhogLVDjVD48aQm1VUCJK1rn8JYF0AQRUozoTTs7VgThk4m80IQKIZczfZxpl82X+cu9bpgWAT3EMTFVgMKJuiyQJiRvJfbquJldJXGrOC6mhJKpUqWaoZSviIuIX9/75eC40Jmuz2XVpKp0ygw+BE1fjsus4ISLrp00/1aWUq9bwcOKOKv0R00CtGjJyK+shKqiIVYX08xB8NQEGvg9jVdhP72rMQ3RV5WqJtFO5dH+eLFg==;2H/mjCAXfUfJbADs3hxlbw=="
 ---

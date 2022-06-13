@@ -3,8 +3,8 @@ category: news
 title: "Ooredoo Selects Icertis Contract Intelligence as Part of Enterprise Digital Transformation"
 excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), today announced that Ooredoo Group will use Icertis Contract Intelligence (ICI) as part of the company's enterprise-wide digital transformation."
 publishedDateTime: 2022-06-13T07:57:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ooredoo-selects-icertis-contract-intelligence-as-part-enterprise-/2022/06/13/9619916.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ooredoo-selects-icertis-contract-intelligence-as-part-enterprise-/2022/06/13/9619916.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9619916.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9619916.htm"
 type: article
 quality: 12
 heat: 12
@@ -23,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "VKv8KomoDPRaWctjCs51jA/fCs6CVpj1H7zLshvUduouPo/626P4T2Q/yrFID3f/CIxwKdeVI7oY/q7q0IN9tfNsDxmXQLS365oYI8lDpCuiFlbA2l0J9aFCg4HS0MO2HnuwDbDphz5nZ4X+WWj3w+S4pgFKP7DnBGpDHIsVtFCjdGHWgyu/pJXK54yfMjlglVSBwsEQnzLD3MJSnADZNNRT3tOzWjTqPyj/U9pErAWV7HhC9tJoVYHfu1VQujWmRispQaNOhxnwKOht02SOvgK28nrwuCYV9JI21uPo0VbQDNi06L07vyp+kUJrCUOREBp+QjEM1oNkFQWVxKtOAXkOhW3LaQc5xY5Qe9nAoo4=;wXB0Wyuof0SA1BqhoCrj3w=="
+secured: "4G+Cs5ium6ct9NR+kfABm1wOxptl49TKi4hlqNowHRSx3MoaAzW+qZo2LNembmB3zQSHdhplQNk8dSeUP7OfODM/A0lGJr/4dgSZahMTXGFO+t0Cbvt/s1dgD+OFgjbQBOddqOYPN3G6TARXIhL+c2LXwA6NZy7OGdKy+DT/heTEx2NJ5ha7YDHPvItk/QmeTMgirGK8DVxHT8zpP3QlH0vhP8GMzmBvVKK0yzcFLARt1CJHdF32OTlWAjSMd+w101Wr1FLbJys40U++i4V89leg/vuBVZfir9IGNLmhhVRa7iElqTJqAUdYhH4DxyW34WGnbwZGXP/NiTzHXptm7cEn6ylZp5qSUloBHdIe5SI=;i9gjtDrU8gkVUrCWhPUoFA=="
 ---
 

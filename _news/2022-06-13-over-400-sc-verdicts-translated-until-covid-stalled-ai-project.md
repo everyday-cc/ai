@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verd
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Zero-COVID and Free Speech"
+    excerpt: "Zero-COVID is possible, but few of us in the West are willing to pay the costs; the exact same reasoning applies to free speech; in both cases China-lite is the worst possible strategy."
+    publishedDateTime: 2022-06-13T09:39:00Z
+    webUrl: "https://stratechery.com/2022/zero-covid-and-free-speech/"
+    type: article
+    provider:
+      name: Stratechery
+      domain: stratechery.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/chinacovidfreespeech-2.png?resize=640%2C346&#038;ssl=1"
+        width: 640
+        height: 346
+        isCached: true
   - title: "Using artificial intelligence to discover new antivirals against COVID-19 and future pandemics"
     excerpt: "Research into drugs to treat mosquito-borne flaviviruses such as Zika and dengue as well as COVID-19will benefit from a major funding boost, says a group of international scientists using artificial intelligence to discover new oral antivirals."
     publishedDateTime: 2022-06-12T17:24:00Z

@@ -96,6 +96,20 @@ related:
         width: 1050
         height: 559
         isCached: true
+  - title: "The big question: is AI the future of art?"
+    excerpt: "In the 'generative art' movement, artists create rules for computers which then use algorithms to generate new forms, ideas and patterns"
+    publishedDateTime: 2022-06-13T09:16:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/culture/2022/06/13/the-big-question-is-ai-the-future-of-art"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/13/1620918.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Is AI the future of art? Field attracts huge interest, even bigger price tags"
     excerpt: "The field has begun to attract huge interest among art collectors – and even bigger price tags at auction. US artist and programmer Robbie Barrat—a prodigy still only 22 years old—sold a work called “Nude Portrait#7Frame#64” at Sotheby’s in March for £630,"
     publishedDateTime: 2022-06-12T10:40:00Z

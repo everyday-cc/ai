@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Zero-COVID and Free Speech"
+    excerpt: "Zero-COVID is possible, but few of us in the West are willing to pay the costs; the exact same reasoning applies to free speech; in both cases China-lite is the worst possible strategy."
+    publishedDateTime: 2022-06-13T09:39:00Z
+    webUrl: "https://stratechery.com/2022/zero-covid-and-free-speech/"
+    type: article
+    provider:
+      name: Stratechery
+      domain: stratechery.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/chinacovidfreespeech-2.png?resize=640%2C346&#038;ssl=1"
+        width: 640
+        height: 346
+        isCached: true
 
 secured: "O/xro54B4dVNQW6dPlhdnoXHxemN7lt7nbvgNJqEJQs4vKW4x0ST08ySx6laQ+gqa87g6iJ7kdnXnqM3Pu5zt3KpDTKU7ZpXSsZeSfhTp1uxB6fimIKEP5U4R8wR79233+ULtKSDGiFQnbuCqP4Y5AUBz0h9zlgO9v9dBorXihWv7S8yRnF1S818LBeqzoGwjCAeQPmv9ppUMndFQtEOIMaQp0y3kQ23Gvy2sJ5Wruuu37PkLe54UQFmPZHmsyHIPEd92B+o1oeAP0Oi4EUdhUi9Fy15l0pc6xoruKKOHQWERUAq10GmhX656Qj7Y55DAzCcd1fAsuBHQyzXP9se0aH4M6wrid9Q6lkYx2QXzsU=;Q3G8Shwui6/2DfVO+K0tpQ=="
 ---

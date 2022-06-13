@@ -41,6 +41,20 @@ related:
         width: 815
         height: 553
         isCached: true
+  - title: "Microsoft launches MLOps v2"
+    excerpt: "MLOps v2 will allow AI professionals to deploy an end-to-end standardised and unified Machine Learning lifecycle scalable across multiple workspaces."
+    publishedDateTime: 2022-06-13T09:05:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-mlops-v2/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/unnamed-2.jpeg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "The productivity advantages of Microsoft Azure: vertical focus"
     excerpt: "As much as this Cloud for Sustainability effort interests me, the vertical focus and the maturing of Azure is what I find interesting ... What Microsoft has now is the foundation for future AI-driven solutions that could be independent of verticals ..."
     publishedDateTime: 2022-06-09T12:09:00Z
@@ -50,15 +64,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 34
-  - title: "P&G, Microsoft announce manufacturing partnership"
-    excerpt: "Cincinnati-based consumer goods giant Procter & Gamble on Wednesday announced a partnership with Microsoft to build the future of digital manufacturing."
-    publishedDateTime: 2022-06-08T15:25:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2022/06/08/pg-microsoft-partnership.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "U/8/9giLu1ncZYypsNoUXtX3xEumXx049blJKc9ehlb5UHj29npiwe3ssjuD+rnLMkURu+8MNqi3OsYTAUSeXGeSV5ZX5K2ERf/znKCZh1B7nMzoz1Ti6IaoFuV1wKi9xKWTdjp8OftfwuqevxZD22ejWv5APzjypTmcu06PgrP+fAYp0N1lJVptU10QR8P4NM8urYILZJgZlDc+bzieUUa9155kYkR8TW4vEZVUK3qOS1UJ+2MX8Steray6ck5ZQZbHbnpyoemqXVMbJDfY+N2RGjeSFNUHqwgXGv2GRW9dfKEEmhMNIVI551Gjxb0DZU9o6KBjkRZ06ZCZmYtPomaMwdaIbhGGpVbnNbiKyEo=;GoLVvMBLrazTuhTVLg0A4Q=="
 ---

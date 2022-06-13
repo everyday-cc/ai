@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Next Emerging Trend In Fintech Sector Is Neobanking: Easebuzz CTO"
-excerpt: "2) We are using Amazon Sagemaker to implement our fraud risk models. This acts as a core service that is used by one of our fraud detection products. 3) We are also breaking and moving large ..."
-publishedDateTime: 2022-06-07T12:19:00Z
-originalUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
-webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
+title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
+excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
+publishedDateTime: 2022-06-07T11:35:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877547"
-    width: 375
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+    width: 280
     height: 250
     isCached: true
 
-secured: "nnUb0NysVG+wjD6VlrGcODk2JTlP1vs5SM6nO/KoUwDU1wgZYcczmJ/SJWtTrKGf3Pi32pLttZ/b5+aKNOlVpNbu7Oqk9psr2qXo+pAE6FUd1OKy1vk9x+HMLybpyz6k2wQVb+gHvvoPLniqFW8hQK3WqDzjrZrBx/rWdUiYCLKBs6kVFMd5OyMUhcyTYDnXQBd3qq4+IJMzHn4euBUxPUoufqY99ygUq8ogsRr/Nibj30ES6IPEjPRPHQo7n+xwPCVzCrZqwi6qy5GzBSJIGMBEjycHkt1DZAmoPolBM1fLPpbm30EWoG3oVFqas6XmJrz9faTpeUa4l27nEQVz80ol8jC3lxmmJYwDPNboxe0=;bLF16vYGgIWUCF5VRSMKUA=="
+secured: "XdQCs1yE1KirQ65UBGEeja7K+GvAp6G4A1KZO+6JHWwyotPNC6Of45njxRjhJGuByNTlL9IKQNTk2pYkt+/iR7sDFcT0rsPmD8KKqv8OZDTH81rvKDw3ozkdUR2foyPNrhVAXNDTJyDjuZo2X+JAH2TXkDSumd8KxRAUcGWD+pauKOaEdN6DfttE3YM3lXNfDWvpSamYAh7cGc7Rgrft+W3GsYp3w/fvUEG3yidaQu3NcRJzMVkzpkh5TisfzLwrEL7PVq/t2xWPWU9V5u6xWf6iQS/O22Pr15zfx7TDbwUIT1hCx42PYGiPC63NZbJ0HJ8DaYVBKq1ze6MP7c8xSwji5co+wgbAO735m9RZaNc=;75bnPgSXErAjhWsbQ3Z1kw=="
 ---
 

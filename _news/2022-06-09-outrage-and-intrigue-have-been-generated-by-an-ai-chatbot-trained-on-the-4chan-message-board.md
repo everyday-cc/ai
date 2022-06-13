@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/outrage-and-intrigue-have-been-generated
 webUrl: "https://bestgamingpro.com/outrage-and-intrigue-have-been-generated-by-an-ai-chatbot-trained-on-the-4chan-message-board/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 600
     height: 365
     isCached: true
-
-related:
-  - title: "An AI chatbot trained on 4chan has sparked outrage and fascination"
-    excerpt: "An AI trained on 4chan's /pol/ was let loose on the board. The bot provides a horrifying glimpse into a future of automated discrimination"
-    publishedDateTime: 2022-06-08T16:00:00Z
-    webUrl: "https://thenextweb.com/news/ai-chatbot-trained-on-4chan-pol-automates-bigotry-at-scale"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FUntitled-design.jpg&signature=f1c9f1ed4b18584595859aa4d249dde1"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Google engineer forced to take leave after claiming AI chatbot 'developed human emotions'"
-    excerpt: "A Google employee has been made to take leave after he shared conversations between himself and an AI bot where it told him it feared being turned off as it would 'feel like death'"
-    publishedDateTime: 2022-06-13T02:14:00Z
-    webUrl: "https://www.dailystar.co.uk/tech/google-engineer-forced-take-leave-27214653"
-    ampWebUrl: "https://www.dailystar.co.uk/tech/google-engineer-forced-take-leave-27214653.amp"
-    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/google-engineer-forced-take-leave-27214653.amp"
-    type: article
-    provider:
-      name: Daily Star
-      domain: dailystar.co.uk
-    quality: 48
-    images:
-      - url: "https://i2-prod.dailystar.co.uk/incoming/article27214622.ece/ALTERNATES/s615/2_SDC_MDG_-CHP_39470JPG.jpg"
-        width: 615
-        height: 409
-        isCached: true
 
 secured: "IGJHrkbYa1WtUF62Xh4ShL3KAFp9sTFjZjgVz3nk+TgSapzP09//CDrGyhtF2p2n6be4APtbVyN1Uex4PU2paihO6J/G+zV1kKPjEOoeIhK3liIzOPXSXh2Ru6UXCGHTchDY2PYv799tKeKvOnwzTbiF7UvGKfhJi4ztFHs4Zup+aInrlL42rfR/YWz+N1yAZpnqtLNlBykes9cgpA55sFsUHoTzXU4xokH9woKkCtOz8UuZI0JS51QHKfxbDxaZ3+bNfxahk0DM2nm9t7eWKXTuRPinvFxJXlWeM0qCVGQezNZgI3/90dmAstcX23YPJuzWiHpAtk3nmGCVTO7nTBlvwfAQobmjIkYWlqtCOtrSc9NEmaxhVmEXw3P12fJoWyrUjN2i4GYB0HRbk5ksN6A/NKToTj0bqasPnFaVJFRWSzw6vDttZo9Db7peubfySsrkrVC6TgnEAK8RTBgFTKj4e9IWJ5R57PXrxqxAzNobXVg6ZzFV7IKk9A/isNI2s9iIEbbymxMkCOT06elkqg==;XndtLgJX+vW+MRoO6vzItQ=="
 ---

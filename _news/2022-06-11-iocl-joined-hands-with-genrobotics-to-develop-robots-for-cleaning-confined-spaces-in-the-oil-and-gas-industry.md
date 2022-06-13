@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/iocl-joined-hands-with-genrobotics-to
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iocl-joined-hands-with-genrobotics-to-develop-robots-for-cleaning-confined-spaces-in-the-oil-and-gas-industry/"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "IDTechEx Discusses the Increasing Demand for Service Robots in Logistics and Cleaning"
-    excerpt: "Most of these robots operate in well-controlled indoor environments (e.g., warehouses, factories, etc.), although more and more are being applied in outdoor environments with public traffic (i.e., last-mile delivery). To achieve a high level of autonomous ..."
-    publishedDateTime: 2022-06-09T17:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27630818/idtechex-discusses-the-increasing-demand-for-service-robots-in-logistics-and-cleaning"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27630818"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27630818"
+  - title: "ECOVACS ROBOTICS Introduces Enhanced AI Technology for Intelligent Floor Cleaning with Launch of DEEBOT T10 in Singapore"
+    excerpt: "With the new company mission of “Robotics for all”, ECOVACS also launch a new Trade Up campaign for consumers to easily upgrade to the latest DEEBOT, allowing more consumers"
+    publishedDateTime: 2022-06-13T08:40:00Z
+    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/13/ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-singapore/142809"
+    ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2022/06/13/ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-singapore/142809"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2022/06/13/ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-singapore/142809"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
+      name: malaymail
+      domain: malaymail.com
+    quality: 66
     images:
-      - url: "https://mma.prnewswire.com/media/1836692/IDTechEx_Logistics.jpg"
-        width: 400
-        height: 221
+      - url: "https://www.malaymail.com//theme_malaymail/images/no-image.png"
+        width: 1285
+        height: 857
         isCached: true
 
 secured: "f/qldGFfaBahwT9uIEYYHiQ6hOQA6lHunwGt3rRzwX+ImS7xEbhfXekJ92HPW9qj5S6oHq5Vbs9z/srTjKz+AftNU1A4b/hz305QRjRVGOnTg21SM/m3k2TM7BPuQGrmrtdP7egkPNzV+6xcMQLO8bCuVA+w1rpTLYvX9zlpi4yKLk4c4VBrdrQAE6YCwv1x652m2j8bgSI7oDWPaPM0iCMgscCxXGS8n6Qpd2LjF6glltPsCUNTadlhLdA6HlxE8l4paS/+gBy1O0eFpq9KgpX1xe2bOyOvXFOqDzPCG2sshaflU9z6vC6S/PvM3gZdaUQ6U1nj4IytH93xB+4UVWnHPhoNwcz/4Op86zdDjjg=;Szr3/tpQ/I+RlsyCHhDOqA=="

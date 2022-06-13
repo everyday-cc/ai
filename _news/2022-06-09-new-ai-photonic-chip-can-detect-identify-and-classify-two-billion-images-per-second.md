@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/new-ai-pho
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/new-ai-photonic-chip-can-detect-identify-and-classify-two-billion-images-per-second-44656/amp/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "A new optical brain-like chip can process 2 billion images per second"
-    excerpt: "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second."
-    publishedDateTime: 2022-06-08T15:25:00Z
-    webUrl: "https://interestingengineering.com/optical-chip-2-billion-images-per-second"
-    ampWebUrl: "https://amp.interestingengineering.com/optical-chip-2-billion-images-per-second"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 76
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DaWMDwx/sizes/new-penn-chip_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
 
 secured: "SsMcpwy3epHJru9FOXV8SxTetPemXAJTLBwdaYs0okVw+z5++JI6LVeD1eolgRmo8rk/ZgQyOf5TLbAYRW3jX3pXizLho8anCaC3scNT8ownoZAZD3Ra6qB784vbjRperIi006uOB/1o+Zyen4wZmMgj5eNAkJ3KY6/PP8FQKQpsxE7tXwdP+zczRqs831N0qAbCtr5mp1zw16/cqNVIfIWircl3ytG2/wNFa1F9vz61xHOL5mBWUmMgyNcIlEv2kXiEFZjBZQK15Nc9/4+bSdpp1GexPw5yk2DxHAgYTUxrCQwEd4iS7TCsgiTKCCmdHYej4hatjo2VoMYv2pnc0oj/qKptHzWcaesCZ8CwlNfaxZs/4eKexHPjkt9kW5wjhbKnHsczfMxKrmrcHkFVUUqe7ezGKpBn5RLlBqWd1tfV8d6J/BAUNfyZqXLLEKPapxA4kLI9xWb48H5Yt4qq3Jvmvovq/p2QDn2nLIZkrJn9Zj12CJQPaHCPMfBSs4b85SEAU9OKADd01mTAtHSjFw==;/Otq+X1hk3xjt/MqMPr6zA=="
 ---

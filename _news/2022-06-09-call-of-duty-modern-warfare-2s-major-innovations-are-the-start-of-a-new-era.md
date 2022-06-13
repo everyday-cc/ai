@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Modern Warfare 2 is bringing “lethal” AI bots to Warzone"
-    excerpt: "Modern Warfare 2 is bringing new features to Warzone in the future and in an early access event, developers explained how \"lethal AI\" will work."
-    publishedDateTime: 2022-06-08T17:00:00Z
-    webUrl: "https://www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/"
-    ampWebUrl: "https://www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/?amp"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 57
-    images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/06/warzone-ai-bots.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "u1779TAWQzDriM/MOAwqyzC1WPg8jXdg8NnnOFZVP833lI7mM7rw65E+TOrTUVYfG3M1/i3O2tAOmNVKT7XODxUdOv58ys3Chs4PGMGP+jBOJa181jW6FAa0fwIjQTlmMG2P1ifvlS6H34etAtj2phfaofwllz6CvAQ93w8+6b8xAP05Q43zos6S+jBii+nX10AK2DDzu60FScVjwNQHxyYpeGFT18qH0ChUobSlff65uBwiUYVAiCStAlhDId1yJ2i/5tt/f1wTCGTgNWDmiaNP+DivVF6BuhFiLntBd9saZEuBWDdgAoPWQ+KEe5mspXWB8Zna2fdeyMyI5+0sgt18xv2rIQnitIcJ/VIjc5T6M+9sZm2obEVXefchkHbh3SCUrNsTlzAHVTi2RmprTEhtf5uL2j3yNIwI1BxwhJypNIYiFiob/7FhEPJU466G+EwqFXkCYHNl4oWnHpYex/Ywo2kjmSoKfQ0fe9CrGuoUtuyMNrNzjD4Wqr9AYQhBYN4kvjHeMPy9ZLdypRFGrg==;RByVTUI4YzGHMYZg8nSyhA=="
 ---
