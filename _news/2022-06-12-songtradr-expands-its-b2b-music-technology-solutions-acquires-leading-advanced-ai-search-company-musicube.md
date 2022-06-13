@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Songtradr acquires leading AI search company Musicube"
-    excerpt: "The Hamburg-based AI technology company enables measurable ROI-driven licensing that optimises the creative performance of content."
-    publishedDateTime: 2022-06-08T08:43:00Z
-    webUrl: "https://shots.net/news/view/songtradr-acquires-leading-ai-search-company-musicube"
-    type: article
-    provider:
-      name: shots
-      domain: shots.net
-    quality: 37
-    images:
-      - url: "https://d17mj1ha1c2g57.cloudfront.net/v1/kRHWRIyITvHTnn-_47Sdnu_ygIM/1200x630%23/80/shotsmag/production/clips/0917785c-392e-4ae5-8fde-a39381cfcc46/paul-wiltshire.jpeg?v=1&quality=70&format=jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SONGTRADR EXPANDS ITS B2B MUSIC TECHNOLOGY SOLUTIONS - ACQUIRES LEADING ADVANCED AI SEARCH COMPANY, MUSICUBE"
     excerpt: "Using neural networks and proprietary artificial intelligence, Musicube's semantic search has reached product leadership in both quality and data depth. It helps match music to content and a brand ..."
     publishedDateTime: 2022-06-08T19:37:00Z

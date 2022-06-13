@@ -35,17 +35,6 @@ related:
         width: 2617
         height: 1704
         isCached: true
-  - title: "A self-driving truck will soon delivering in Dallas. The cargo? TP"
-    excerpt: "Texas is a key state for self-driving truck experimentation. In April, California-based self-driving trucking company Kodiak Robotics partnered with carrier fleet U.S. Xpress to launch an autonomously operated cargo service between Dallas-Fort Worth and ..."
-    publishedDateTime: 2022-06-08T08:15:00Z
-    webUrl: "https://www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/"
-    ampWebUrl: "https://www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "gT+icvZTAQdhkdFvqb/ImJcmkZguK3zn1LUbp5RFxyBvG22lIxXEee+/pQGQmlR1yn21g/2E7set+a5DO2uUN7AjggllS2F0p+hzdMVwhZBRDkYLtMfcwd1UbcLbSYAHpFS1JyWAvDPaWEfruKZwM7AYGNiTT2HBG/1boN2qj7giXG8xx2eP5sMwSVJ7v481ySvdoRRfzM2F3broku2RP+HC/RuWaw28pLXYBZJrPqHErmcvrgely4AN6iBUPi+8B3SiAUgx5nU+A01B5SLvGYC5O5NEfAqMT2WDQ/NnxGwc89sJo0nKvLeeD79q5QorxYPSm0Qc8c3L1cbYpuEOT4eKp6RuSqIDiCZB9/T0ELPC8x12w0CB7vtYpzmsMw49MVl+JbtxQ9zSNm2vc8W07gRV/nwiYFd8IDdxaP4FRj1PdopbdY8EjRQSCI6e+CMEBUaXoLXqXa4LWGxUfQMj2vOlQ6pHEj9iERnLR8bdwHeOpQAGpo0Vp9o4RodZCVFRStLobEh5YHqw9Kgk/gWATA==;ETrA1keN4HoqjMvjRCdARw=="
 ---

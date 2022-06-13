@@ -43,20 +43,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Pilot project for driverless buses awaiting European funding to begin"
-    excerpt: "In involved the use of driverless buses on what will initially be four ... with the information then feeding through the device’s in-built artificial intelligence to control it. Some 300 of these vehicles are in operation globally, with Singapore ..."
-    publishedDateTime: 2022-06-08T07:55:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-06-08/local-news/Pilot-project-for-driverless-buses-awaiting-European-funding-to-begin-6736243549"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 54
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=225625"
-        width: 684
-        height: 326
-        isCached: true
   - title: "Driverless Hyundai Ioniq 5 hits streets of Seoul"
     excerpt: "Hyundai has deepened its investment in self-driving cars, linking with a South Korean tech firm to put autonomous taxis on the streets of Seoul’s Gangnam district."
     publishedDateTime: 2022-06-09T11:47:00Z

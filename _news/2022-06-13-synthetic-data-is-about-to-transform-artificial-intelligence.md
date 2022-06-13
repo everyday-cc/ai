@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-abou
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 95
+heat: 115
 published: true
 
 provider:
@@ -23,6 +23,9 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+  - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200"
@@ -60,6 +63,6 @@ related:
         height: 360
         isCached: true
 
-secured: "Ldx6lDNw9nkJDCeXojbhmtzDvs2gPp7uJbr6zJ2j6DenWrYj+mdmBpjcm/+k84RuZsmtp7hloSKILxjzw1MiJWhAvOF0rB9Xyoza5NUXAnEWvefTy1MLWYXjMDtQtxutDybf5xuZGBUpHpwAR14g+T7C1K0LhZ/SntULF4VaNS+978IeMBkUq2oaYUHa9np7UOZDgCh337mejzOiovYg4FfKYDZevnsLQmA3OcXV+r5TNOP53hCj16M2vAG+kykF0qEUuomzmAd6RMsgmLY58Pu7cRjuLwIl+Awxc+i1Ids+J2x52jSMGq5phQv0S1hYGAjQBF1S6oVRQdfqDvYw4OM9K6gEDoIbaV/fqjMMkxg=;i71HwjjFyNvcKkJFKFTpxw=="
+secured: "dgZN9dufmjm9tiFOHarAiRQe56d7stMitzwpozdlsIibBiFMF8PXWSWZcKr0Wrekee8x9pwm5ABD3DlqunPDCpCNRzRqCvUIsfo7/2xxhrw0a2DlUUp2vVGk6XteaM+av6XWASUbH4gkRfNrgn/+v4ZquSl78pRigN3KMccpmBU6NLicsbkUqLoKF7h9i69PnEIuX+CvNiO/GlQ2O9ZjqvFQnnTT7tpba4nGVfampav9Hf7MdBsQAVGpYcHTtVbcUQdCWO/auw6yVvSHbvCGY0Ot6wPnenALAEfs6SsgeBH/V7pGNPOv0GYVz/EkZxeUUs/yK7GXPYG+IIF25+tEfDNgWqZcEpdvDZBx/wXVT6b9ZrW3DQibhmDfOUNjB44ekiOXvGPu9KoNDexgXqF+UFOnZZeLXAs98afQuy/D602bEW7RRteQkMWzMq7KV+nblTWHmN8rTm9Kgobev3Nnoo8hs5c2RzUVDx3SGBPr//VrML64mPd4fPhuz5Idk3dgjijUSlq0Xz5r0DLcXWQF+w==;eIMOmG3u4rfU2nPJSwx+bw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-t
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true"
 type: article
 quality: 89
-heat: 100
+heat: 101
 published: true
 
 provider:

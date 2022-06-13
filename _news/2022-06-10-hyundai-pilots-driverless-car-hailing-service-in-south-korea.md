@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverle
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/7541654783750/2022/1/16547854489287/v1.5/Hyundais-self-driving-taxis-roll-out-on-the-streets-of-South-Korea.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Pilot project for driverless buses awaiting European funding to begin"
-    excerpt: "In involved the use of driverless buses on what will initially be four ... with the information then feeding through the device’s in-built artificial intelligence to control it. Some 300 of these vehicles are in operation globally, with Singapore ..."
-    publishedDateTime: 2022-06-08T07:55:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-06-08/local-news/Pilot-project-for-driverless-buses-awaiting-European-funding-to-begin-6736243549"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 54
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=225625"
-        width: 684
-        height: 326
         isCached: true
   - title: "Driverless Hyundai Ioniq 5 hits streets of Seoul"
     excerpt: "Hyundai has deepened its investment in self-driving cars, linking with a South Korean tech firm to put autonomous taxis on the streets of Seoul’s Gangnam district."

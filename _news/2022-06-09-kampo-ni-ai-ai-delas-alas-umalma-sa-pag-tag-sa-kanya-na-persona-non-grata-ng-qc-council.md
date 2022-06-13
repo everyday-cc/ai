@@ -40,20 +40,6 @@ related:
         width: 620
         height: 621
         isCached: true
-  - title: "Ai-Ai delas Alas’ new TikTok video goes viral after QC's persona non grata declaration"
-    excerpt: "Ai-Ai delas Alas shared a video showing her cheerfully dancing amid news that she and director Darryl Yap have been declared persona non grata in Quezon City."
-    publishedDateTime: 2022-06-08T07:24:00Z
-    webUrl: "https://kami.com.ph/entertainment/celebrities/143528-ai-ai-delas-alas-video-viral-qcs-persona-grata-declaration/"
-    type: article
-    provider:
-      name: KAMI Philippine News
-      domain: kami.com.ph
-    quality: 29
-    images:
-      - url: "https://netstorage-kami.akamaized.net/images/de8a4c8830dfe622.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ai-Ai delas Alas’ camp says persona non grata resolution ‘endangers’ freedom of expression"
     excerpt: "The actress was named 'persona non grata' over a video posted on social media which shows Quezon City's official seal altered to read 'BBM SARA'"
     publishedDateTime: 2022-06-09T11:45:00Z

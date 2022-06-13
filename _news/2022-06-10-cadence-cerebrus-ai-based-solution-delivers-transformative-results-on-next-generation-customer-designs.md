@@ -33,6 +33,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
+    publishedDateTime: 2022-06-08T17:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
     excerpt: "Given that Cadence Cerebrus employs artificial intelligence (AI) technology to automate and scale digital chip design, it offers customers the compelling value proposition of optimized power, performance and area (PPA) and improved engineering productivity."
     publishedDateTime: 2022-06-12T21:11:00Z
@@ -42,15 +56,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 3
-  - title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization ("
-    publishedDateTime: 2022-06-08T18:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cadence-revolutionizes-system-design-with-optimality-explorer-ai-/2022/06/08/9618228.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "OLkgIF6+h4L8ig3/5iOxSR5fFG2QE3Quft08cVyVsi3sWd/CFmKm/2J/I8s6KPhZwBqKvM6AyOH8Hd4PRFTtW0EDCXvhShTEmZcf3H11/d56eQuWGjaFi9wgg5/yMvAeGeHR0hX1gt8urdYuqDFj2QNHDTlit+sJ+smearBBSDKG1/TlHVZZJLgorVcoLP0YbBn8Y7IpzWhxfFYeZIf0r5iyCq9eUnbF/LeM+hVUQ92OA6Z+LHc43L2cyzNaWl9DbR5F70k7vD8A/tTLhjIh09PcHEUsaReWkdeA979pE5txq7vwClKpod997KFtFC2youU3uJqp49bL7QojKaN2Re9WDe5qtV4r4jRY2hmgy6o=;N16Xxbxd66yLP9nQ08sriw=="
 ---

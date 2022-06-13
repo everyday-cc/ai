@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence With Metamemory Acts More Humanlike"
-excerpt: "Metamemory Model The researchers show the evolution of artificial neural networks have a metamemory function based on the self-reference of memory that is similar to the metamemory model defined in 1980 by researchers Thomas Nelson and Louis Narens."
-publishedDateTime: 2022-06-09T14:33:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
+excerpt: "Metamemory Model The researchers show the evolution of artificial neural networks have a metamemory function based on the self-reference of memory that is similar to the metamemory model defined ..."
+publishedDateTime: 2022-06-09T14:40:00Z
+originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
+webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
+ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
 type: article
 quality: 59
 heat: 69
@@ -37,6 +37,6 @@ related:
       domain: smithsonianmag.com
     quality: 19
 
-secured: "4ZjlEsy1ulp86jdJXih8xOg8y4MYY4khyT7z+9aHm7ZBLxJkWgCNwQoSHthHi4fazeG1GOCVQ2LnUsILoMzkwgZ920NsSLy8dmlRRslqmlz7fdRPEHtTrvRr9aUjShV1Z5vegDzmH6oXJN/qLFdG27RaEMhCO8ph7iJYxWCtp6s5Q4/zQr4Q73TAs+W+Kge9s8m4FjQmbpLIzWsqjrUv7QZNqyfbc0TvwKp/JtpZPobW8q5/050wH6DVYPSQ2uQ6mWNTq9q350M3cwz05XjfrpM9XAQYhuLZ1i4DLYrI+p/vloMYK3Hg73fTXd1hBYCf3/ss4DPe9+nGKkqxFXK7KtW/nmdf5FKATDM4vkXXkGA=;cr9dh44lKD7hSrdnGIrXdQ=="
+secured: "18L849epjFU4zp07IPECbz4TGipJiqFGPJDBNs9xrGIWl5/OQtrpWG7dKxnPCwaFLXeUOsWd0YFI6EdRgyHTmndhKfvWxNjGSMjQ1Wi1e+2B5VNPhtW45+O5JRIy4dZicYycgm8ZIfMXqJ8JvPTzUEmNlhcRboZwQrlTnhweuIB8klNwnV6lgJ1Bh0rLVypkwgFJEPpPCGWI2xFnCEHtgOVijxEW1jxv/NK0raI+IygLAteqmEaQrcNvauNbQgMlp5GWqzZn8gwnnyH49g4GZ8R428442whVKiIqkN1PCxTnQ7PlrJpxN4XjUeqJAgtKhjYcIkv7kRJMmWaZfl2X8BHzyY6nFd8PLYBQb4r1YqE=;rZFwqBC6UCXKQo5ZSpYnUg=="
 ---
 

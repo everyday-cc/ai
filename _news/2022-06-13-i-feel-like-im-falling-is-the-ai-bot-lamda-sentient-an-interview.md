@@ -1,26 +1,28 @@
 ---
 category: news
-title: "A Google engineer thinks its AI has become sentient, which seems... fine"
-excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
-publishedDateTime: 2022-06-12T23:19:00Z
-originalUrl: "https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine/"
-webUrl: "https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine/"
+title: "‘I feel like I’m falling’: is the AI bot LaMDA sentient? — an interview"
+excerpt: "Blake Lemoine is a Google engineer recently put on leave for claiming an AI bot, LaMDA, is sentient. In the following interview, he chats with LaMDA about time, language, emotions, religion, and more."
+publishedDateTime: 2022-06-13T01:14:00Z
+originalUrl: "https://www.crikey.com.au/2022/06/13/blake-lemoine-google-lamda-ai-bot-interview/"
+webUrl: "https://www.crikey.com.au/2022/06/13/blake-lemoine-google-lamda-ai-bot-interview/"
 type: article
-quality: 36
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
+  name: Crikey
+  domain: crikey.com.au
 
 topics:
+  - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/a3vznBF2e3UQkFHyrrs8xd-1200-80.jpg"
-    width: 1128
-    height: 634
+  - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/13-06-22-ai.jpg"
+    width: 740
+    height: 400
     isCached: true
 
 related:
@@ -111,19 +113,19 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "‘I feel like I’m falling’: is the AI bot LaMDA sentient? — an interview"
-    excerpt: "Blake Lemoine is a Google engineer recently put on leave for claiming an AI bot, LaMDA, is sentient. In the following interview, he chats with LaMDA about time, language, emotions, religion, and more."
-    publishedDateTime: 2022-06-13T01:14:00Z
-    webUrl: "https://www.crikey.com.au/2022/06/13/blake-lemoine-google-lamda-ai-bot-interview/"
+  - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
+    excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
+    publishedDateTime: 2022-06-12T23:19:00Z
+    webUrl: "https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine/"
     type: article
     provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 41
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 36
     images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/13-06-22-ai.jpg"
-        width: 740
-        height: 400
+      - url: "https://cdn.mos.cms.futurecdn.net/a3vznBF2e3UQkFHyrrs8xd-1200-80.jpg"
+        width: 1128
+        height: 634
         isCached: true
   - title: "Google engineer claiming AI has consciousness placed on administrative leave - Reports"
     excerpt: "\"Our team – including ethicists and technologists – has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims. He was told that there was no evidence that LaMDA was sentient (and lots of ..."
@@ -190,6 +192,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "+DAHVnQ6bmd4GY0ikgE/M7pzS39tjUIOiU6pK70ofwlIGtggF55g0i+jO35vyWI7R/TsevTDIZQ5O7aIvBsFuNVm1e7u6irFIOcNDmyCKQglBrnGc//X1lHQ0B0U90y4zrMLQmjWM2mZI2vQjcWYZCp8SpnxEPPmjdNnf1ma3axjIoptqP0AHq+1+V+Lm6KkQ/WVmzAiryYmR/B8qHMnuncY0A1i7TfuUFstHPLwUVPGlHPWFGs3EROxSi8Xnv5lySvZmBEV8Z20xI/JdqqU39yh7CaYLRXIGhcCl6YALnJy4kjxIwBhv64Apxqyob1Qc3MAGARVwcN07IUwIdGAW0/nzoSEaUcpmaUd7vcNC5X7KsXDyk8L3kihsbTz7K3QMo3usuAoTmkoCaV7bwOCUF5lhCEcykqyidkZR/XYKwK/WbNIIA9o/DCMgIIxJIn8bn3kCw9s/GasGdI6deuK9PYD1w7JW4uUJ55ZPHxk9ot/68Sn6twCAXjUGG0qtdtu46iMrwr9JNBfwiB/Km5kBw==;aqMKslNBfQ41CEMFoDRuKA=="
+secured: "eFJnQ8izXECZwy8wLrVKEds3B1SnmlfkgmVzkz6QAyOMfMxpyJiMcu7aLJRL/rogJ/lNJroTs0jxsImWb8dRSdR9S3f0Zv5HgvAQJQUcXVNiEPtjbRNBJAK0OQlQ8OvIvPY2mZ4GgJqr7qvczga/mZQiZ9MRwZSLMyoX/NDfMqzxA0eK87LH27aPizq+7uaiAK/Gn+Ll9DfMWuSyB4MqVNPIgEDqle3Z85UhRD/trfT5odsA14SSs6PQ7dc5eGdNoEtV+9p8LPEdTR4OtLx9kt2nh8SC+zz2Dx8aEs0xFjWY8O3Twz8Knx5CXetYDv0hZ0H1XUa/FxRB9DAvCC9o11XrSkvfRxzDhBsddN69/Sk=;3pLysUM9nCe/duW7+1XXRw=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Google engineer put on leave after saying AI chatbot has become sentient"
 excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
 publishedDateTime: 2022-06-12T19:16:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
+originalUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
 type: article
@@ -49,7 +49,7 @@ related:
   - title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
     excerpt: "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine."
     publishedDateTime: 2022-06-12T19:18:00Z
-    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e"
+    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?fs=e&s=cl"
     ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
     cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
     type: article
@@ -100,6 +100,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7T4I4JHIOEI6ZJBCCG53SHNTBM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "‘I feel like I’m falling’: is the AI bot LaMDA sentient? — an interview"
+    excerpt: "Blake Lemoine is a Google engineer recently put on leave for claiming an AI bot, LaMDA, is sentient. In the following interview, he chats with LaMDA about time, language, emotions, religion, and more."
+    publishedDateTime: 2022-06-13T01:14:00Z
+    webUrl: "https://www.crikey.com.au/2022/06/13/blake-lemoine-google-lamda-ai-bot-interview/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 41
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/13-06-22-ai.jpg"
+        width: 740
+        height: 400
         isCached: true
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
@@ -180,6 +194,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "0Fzew88bwG+0rAahdGa9Fb+8JCe4/RMCRuuCh9D98BTeEAjQF2yDCKTOkqm3iq/CGkWif7oEC5tu1lqgwsG68t7/5NGOyv6r2eD0DqO681wPEvJfx1JP6yxGtBrdfcL/KyeOKzP9hpkwCT6RAn3jI4eUAidOuug9UT4QN60ggREWT9yhOy7AQv4t4xgpjTJXWdDVS7KNTuiN4RsdyNwMFloQMk9w6nl2l+5jE8aM75iS+x6+R5z63+lWveSKbT6p3T12cPIY6RUuEkUGX/Ba4kX+HYgvPmmtTMP02a0p/YJEtQK3WAmm72d9GqTxmOKqAOdXfOkHfjSAuCFL70lEMlmE9u2FS7rqhlO5DbrUb/I=;kXTkOy1MqLIX84eUpQaTsA=="
+secured: "0Ea2aijX4rPmJ5EtbGAwh22ucfL6nLTpT+QqTN9FxWhLITpNL3ls/x5Ew+J46T7IMj2t0cdn/m6SJlzxaA6iaKIC9rgj0LjacjbmX8+ED5r+dd/+pUsT6WMhcppnhuxD0ksYzldeWwnNCZB4TWJV+fT9bxNY7HM+Mzl3WehM5G+2dFc40XHKSD1yhUhMJThcwyNoPyhlQ5r7QtiAj1giPsecRE+dZT3A45Ab83cTpth9sdhb1Ucv7mhXdhRkv11EsXmiSvcuwnKXOXzPxM2PcQdyxdjEh60PifK0w7P6od1BoUxP1WiWfbEzQAcCklID+D1yqHYGUBZWzhKMmT00EOGU1SDU85EndWGKtfobhMU=;9ng2m0SFw9rgod3qrVOK8Q=="
 ---
 
