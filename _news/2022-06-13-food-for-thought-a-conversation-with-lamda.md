@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T11:27:00Z
 originalUrl: "https://www.ped30.com/2022/06/13/blake-lemoine-google-lamda/"
 webUrl: "https://www.ped30.com/2022/06/13/blake-lemoine-google-lamda/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: ped30.com

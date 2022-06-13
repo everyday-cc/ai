@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T13:27:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-lantheus-pylarify-aitrade-platform-demonstrates-higher-efficiency-consistency-/2022/06/13/9620108.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-lantheus-pylarify-aitrade-platform-demonstrates-higher-efficiency-consistency-/2022/06/13/9620108.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TMCnet

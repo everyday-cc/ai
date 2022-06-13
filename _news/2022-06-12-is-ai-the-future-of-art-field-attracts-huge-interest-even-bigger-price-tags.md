@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google lost the battle for machine learning to Meta, insiders say. Now it's betting the future of its own products on a new internal AI project."
+    excerpt: "Google is pushing a new project to replace TensorFlow. But it will be a major challenge to unseat Meta's PyTorch, which has won over developers."
+    publishedDateTime: 2022-06-13T12:30:00Z
+    webUrl: "https://www.businessinsider.com/facebook-pytorch-beat-google-tensorflow-jax-meta-ai-2022-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/62a3a279a464ed00195811a6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Creating art with the help of artificial intelligence: Is AI the future of art?"
     excerpt: "Some insist that the artist is still central to the process, even if their working methods are not traditional."
     publishedDateTime: 2022-06-12T05:03:00Z
@@ -61,20 +75,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
         width: 1200
         height: 676
-        isCached: true
-  - title: "The state of AI in drug discovery"
-    excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
-    publishedDateTime: 2022-06-08T21:48:00Z
-    webUrl: "https://medcitynews.com/2022/06/the-state-of-ai-in-drug-discovery/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
-        width: 2207
-        height: 1359
         isCached: true
   - title: "How HR can mitigate the risks and reap the rewards of AI at work"
     excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
@@ -118,6 +118,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "How Artificial Intelligence is Affecting First-Time Home Buyers"
+    excerpt: "New software technologies like artificial intelligence are getting smarter every day. Here’s how AI has the potential to affect first time home buyers."
+    publishedDateTime: 2022-06-13T13:07:00Z
+    webUrl: "https://realtybiznews.com/how-artificial-intelligence-is-affecting-first-time-home-buyers/98771996/"
+    type: article
+    provider:
+      name: Realty Biz News
+      domain: realtybiznews.com
+    quality: 21
 
 secured: "ZcMNFaJvaabNx9kW+gkwKkxBLk1F2ktArtGMGE2o+fAR6aLuvG2SZA6905Wr6vH76PGnL1oqN0VWG66mNk0jTDKTfFOogh4ItYGkcHH5Ldp99Owu2FrJbmH2M5w97FneTZFsxEfUuxRTMMmL1UfSv25VBu5bq1XoMls//O7C8/4mgLcZrud9PTVRPEqjLhId954fC9gdByEqkXKrzHTGCg1uz+1+XHhPiZ64qiEKU2F61SBO9Mhq2WpHiA7dPj8nGJFD8hTh4LUiA9Hni2hGd6p4Qpp3p7cJ/bGl4vMYw8i43B2IL4aOMumtteGfdddn4wMi9gKjlXE87AgJfd3DW3M5/2ub/T4HhhHhR0q+xgOGhTsyYN7mE0TuK8t3j51bGmFTOAfpvlDLmAbtf0gR33apIZTrFvOhEBbdpTEz33dohJ43Qi9T8FsXyTHbjlVAAejgf68OuFjvOLYRYI8b6vIB5fl4SrHgjFyVfiwDaceWCwJDmQWIiGSbJhG9QnITncPWQ/NvaRRIP0l9rk0zaw==;CmGS1Cqo0zVreKNje0JBZA=="
 ---

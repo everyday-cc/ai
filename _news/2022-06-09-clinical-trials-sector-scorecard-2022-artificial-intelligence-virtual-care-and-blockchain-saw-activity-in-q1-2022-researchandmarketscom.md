@@ -38,6 +38,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Top Robotics Global Market Report 2022"
+    excerpt: "Reportlinker.com announces the release of the report \"Top Robotics Global Market Report 2022\" -  The global top"
+    publishedDateTime: 2022-06-13T11:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667818/top-robotics-global-market-report-2022"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
   - title: "ABI Research: Edge Machine Learning Enablement Market to Exceed US$5 Billion by 2027"
     excerpt: "In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance"
     publishedDateTime: 2022-06-09T08:05:00Z

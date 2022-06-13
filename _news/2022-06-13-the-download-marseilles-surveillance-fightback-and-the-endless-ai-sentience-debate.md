@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T12:03:00Z
 originalUrl: "https://www.technologyreview.com/2022/06/13/1053731/download-marseilles-surveillance-cameras-macron-google-ai-sentient-alive/"
 webUrl: "https://www.technologyreview.com/2022/06/13/1053731/download-marseilles-surveillance-cameras-macron-google-ai-sentient-alive/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: MIT Technology Review

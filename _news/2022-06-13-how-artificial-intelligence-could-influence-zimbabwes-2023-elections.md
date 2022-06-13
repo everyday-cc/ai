@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T12:33:00Z
 originalUrl: "https://www.newzimbabwe.com/how-artificial-intelligence-could-influence-zimbabwes-2023-elections/"
 webUrl: "https://www.newzimbabwe.com/how-artificial-intelligence-could-influence-zimbabwes-2023-elections/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Zimbabwe

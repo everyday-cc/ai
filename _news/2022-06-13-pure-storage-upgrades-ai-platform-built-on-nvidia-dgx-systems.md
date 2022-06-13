@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T13:50:00Z
 originalUrl: "https://www.networkworld.com/article/3663158/pure-storage-upgrades-ai-platform-built-on-nvidia-dgx-systems.html"
 webUrl: "https://www.networkworld.com/article/3663158/pure-storage-upgrades-ai-platform-built-on-nvidia-dgx-systems.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Network World

@@ -2,30 +2,28 @@
 category: news
 title: "Task force to assess use of facial recognition by Colorado law enforcement, government"
 excerpt: "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado."
-publishedDateTime: 2022-06-09T23:00:00Z
-originalUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
-webUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
-ampWebUrl: "https://gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html"
-cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html"
+publishedDateTime: 2022-06-09T21:51:00Z
+originalUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
+webUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
 type: article
-quality: 51
-heat: 51
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: The Gazette
-  domain: gazette.com
+  name: The Colorado Statesman
+  domain: coloradopolitics.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/b6/eb6ce6f0-cd9b-11ec-bbfd-6fc9d1720af4/6275bc4be3408.image.jpg?resize=1024%2C642"
-    width: 1024
-    height: 642
+  - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "8vh9S7nxq2Kws1TKFLjI38d45Kp0jfvnzotuBzMpJeIlzpZVSsj9IqAJCQHTpp5JC2x63GcZprdJabGUOcvV2x+kA8lY+bdnAOPww351BFsUprcxImqeQYCMJJZs0O8C+ak+l0LtMDrXJEDZJ0WXQ+KvDrsoxXDbstT0YvjxozFCclhTWkjWskICG1a1VlbmR60DRBeF7gZBz3A4t35rULqCQ+ykS8Hv+pI0oHCQS+BIdxz4aTMGvcDtNYS+0ODUS/lqSQU6Xm7oFh8y8fTYtMKSqxShx3K7GAzMGRRsnhAlQq/ItuuQEZEw5ktEB0xdyKaT6CliSQ5NUFEiFfVtcFODIuGlYeR7GkiZANpegrcMYTkvtXE4fQi0qZUa3nRFyj8fNYyl9OThnkR+K9YScJfoIIiyMEafsvk3D0qF9uySoScMfIK007Ub2FJ2kURZYJMrS+Z54PvjjM5Tq7gzzSyyNBen5xz7JpTo+SWD1ZHVlw3G5gt7423ZWHM9PEd0ToWXdAJjswRE/yvInNXwJA==;+IMUNvk8CsgCqqaJpu57Ig=="
+secured: "iS3IY4z//SNjDkWLexdCy/LX3OitsWWHkvk1DnYSjiJZq5C6eVK9Y5cLTvgjEe3vvjS9cd4wOWfk3Ig89Gl2ieb4KUPd6AmCs9/FLjnKSs7CLUEJ5rfbCDxdyVEjPGyFGGavsp93IhocyJaFr3Jz2oxwL5Woz4CSgaal4doFZ6/ex+M+tU3c3RFNcKkJcqPtvI0EDDEP26yfjOxuGYtSGuYVcH8HXhyM4PBdpmu53v4ypMdrEolDIgm+fBXcoSrp+xSfWDU+JhYlKa2oLFYESR0hsBEoNplgIH8av89JwCjggFJpLUeZ+ng4UuzZFckUKlA3C2VNjv6eS+AQH+ykcYJM0TLcrPbMQlWG8ut+iw8=;1pxH5Iq0Dcs3AB8NLzMYdQ=="
 ---
 

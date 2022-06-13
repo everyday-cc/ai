@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "I’m a Google engineer – our artificial intelligence bot has come to LIFE and has thoughts & feelings like an 8-year-old"
-    excerpt: "A GOOGLE engineer has said an AI robot he helped create has come to life and has thoughts and feelings like an eight-year-old. Blake Lemoine said he had several conversations with Google’s"
-    publishedDateTime: 2022-06-13T07:06:00Z
-    webUrl: "https://www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/"
-    ampWebUrl: "https://www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/amp/"
+  - title: "Google engineer says AI bot wants to ‘serve humanity’ but experts dismissive"
+    excerpt: "Blake Lemoine claims of sentience for artificial intelligence bot described as ‘ball of confusion’ by Steven Pinker"
+    publishedDateTime: 2022-06-13T14:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/13/google-ai-bot-sentience-experts-dismissive-blake-lemoine"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/13/google-ai-bot-sentience-experts-dismissive-blake-lemoine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/13/google-ai-bot-sentience-experts-dismissive-blake-lemoine"
     type: article
     provider:
-      name: The Scottish Sun
-      domain: thescottishsun.co.uk
-    quality: 35
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
     images:
-      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/06/offplat-cfp-aibot.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/0_299_4480_2688/master/4480.jpg?width=620&quality=85&auto=format&fit=max&s=4bc066d4c2db65a9bce46608e151e5bc"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "L/JLS0XT7YaxrNvfTg5HvwIA7Z9AUvbmQcgQxVjmwYZznt/Kg9UBPveyFI/nIuBLHPWYjhlW+dJtOHPwJSp5LCAasI3d/WkO4iRJP0BN8OmdymkI5f9gJTRNy52HQYFw11Db4lzE6WGSmMuqd62jlP/RS2q+Eo5NQqR7eTI+fkG9n1xDMB+1VnJGXmApIsfMpNRpV+Ott+Xpl/+texEzgo58hvmCxO4EVM07QB3+Nv2YjwSPLrhR6Wtgt5AnlqhrdcVMDz0ywrRf7AzJ5nJ0SczA9atmTXkdsHCKGu0flgZBxAmkLGoNE+jTdCIUsEvKBCfN6r8a8lnfFfvcI6vk7cIqpPy01rcg3F1ROCha1mE=;E6do95lGLaiUXPpIOHHAfg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -34,20 +34,6 @@ images:
     isCached: true
 
 related:
-  - title: "Government, We Need to Talk About AI"
-    excerpt: "The Federal Government is already arriving late to the international table. Regulation of AI needs to be prioritised and inaction is not an option."
-    publishedDateTime: 2022-06-11T00:11:00Z
-    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/government-we-need-to-talk-about-ai/"
-    type: article
-    provider:
-      name: Australian Institute of International Affairs
-      domain: internationalaffairs.org.au
-    quality: 37
-    images:
-      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2022/06/42271822770_927eb47fe0_o-1-1.jpg"
-        width: 1312
-        height: 677
-        isCached: true
   - title: "How AI is transforming the customer experience in retail business"
     excerpt: "But it’s important to know which part of AI works best for the retail business. If you’re ready to start improving your company’s customer experience with cutting-edge AI technology ..."
     publishedDateTime: 2022-06-12T08:41:00Z

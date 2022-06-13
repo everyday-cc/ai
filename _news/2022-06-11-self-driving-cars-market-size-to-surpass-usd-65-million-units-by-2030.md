@@ -54,6 +54,15 @@ related:
       name: The Express Tribune
       domain: tribune.com.pk
     quality: 4
+  - title: "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports"
+    excerpt: "Market by Component (Solution and Services), Technology (Machine Learning, Natural Language Processing, Computer Vision, and Others), and Industry Vertical (IT and Telecommunication, Retail and E-Commerce,"
+    publishedDateTime: 2022-06-13T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 1
 
 secured: "ghC+WQG1P21Dm1eir0yqABxYeomWWWDzvqDuisgvUQCpo4JldRgEDOeYc2QrGvQpnEkJYhkuzE9/A51KyUEUFTFnRs2wJuNWysg2sa+7EakTalL+yS98deChtRsyIQ/c8fRUJCe6MxaaXwFDZ8l1q2P1hxaSAU1GPGn2b1el6+KVLwiLtHRfny7y0bTqxNyV2ohXoDQqdH6wtq8S3ONQxqDfBa8yDXInUIXtLR3IHfTCw97ueZqy0xBIQhznlTXu+uReiNGjBIeHjeJxiagZcvhyT/bDkDjmvUC+Dmrh6/ZuLwu6ZgWCaZfzaaA5VtbVC64q3XK4HQMiw1+KAXFblzUEV6u9diSnHyoSsVaJ08U=;EL3/D4AzWKTdcKcfzef+5Q=="
 ---

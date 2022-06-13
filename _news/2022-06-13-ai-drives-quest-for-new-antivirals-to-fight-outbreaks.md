@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T13:46:00Z
 originalUrl: "https://medicalxpress.com/news/2022-06-ai-quest-antivirals-outbreaks.html"
 webUrl: "https://medicalxpress.com/news/2022-06-ai-quest-antivirals-outbreaks.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Medical Xpress

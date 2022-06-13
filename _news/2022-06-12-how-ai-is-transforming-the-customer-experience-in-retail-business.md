@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Government, We Need to Talk About AI"
-    excerpt: "The Federal Government is already arriving late to the international table. Regulation of AI needs to be prioritised and inaction is not an option."
-    publishedDateTime: 2022-06-11T00:11:00Z
-    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/government-we-need-to-talk-about-ai/"
-    type: article
-    provider:
-      name: Australian Institute of International Affairs
-      domain: internationalaffairs.org.au
-    quality: 37
-    images:
-      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2022/06/42271822770_927eb47fe0_o-1-1.jpg"
-        width: 1312
-        height: 677
-        isCached: true
 
 secured: "8c4AYin+4M1L6xHBdi78ikY3pL6tCagmhf2LgT3/gB9bZVkmC72KGGHrMtcDwhTd2TcE6sRQUvNy/GF9xxZfCyiC7OJ64mWcEYKMjpXjQAKFKTV4Hfynu5/Me7J0drNxSCF2umyIJBvxj0hGaqM9o2lwJT53Ze+DIN61IQNToFMb8EXgmhgkchm9T7W7i37ALEHcr6f/PQG/8jVr1FQA46AXe6MFAHGs0j0LKehpwZB6ycvqmMapBX3cXkRbVIIRGFgDS4Id4kIzBXtzfiBTft0UIG8d7+XTdv7AjVLXKRmPhd1HXhniHocVZHDEoTto1WcGMSHfixr/ksZSpegbT8spZrfT1cqXwrwnQ984i3Y=;kaRmlZdk3l+s6fSclOcE+w=="
 ---

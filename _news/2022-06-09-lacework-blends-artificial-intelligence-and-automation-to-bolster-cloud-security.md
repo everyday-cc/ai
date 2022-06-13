@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 597
         isCached: true
-  - title: "Orna raises over $1 million in seed funding to bolster AI-powered cybersecurity platform"
-    excerpt: "With over $1 million in seed capital, Orna said it intends to invest in marketing, demand generation, and research and development."
-    publishedDateTime: 2022-06-08T21:27:00Z
-    webUrl: "https://betakit.com/orna-raises-over-1-million-in-seed-funding-to-bolster-ai-powered-cybersecurity-platform/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 28
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/11/Visual-Cybersecurity-feature.jpg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "UKWxBYeAmhJu2HOgsI6oEhzXmN++2VfaGaMSa1fMNgUvYqUImrThN4XYSkij6G/xUqV+JJdAPg65wWv9D0RVMWDOTORfK7xSCHAlHq6OF4mjD5Dx/FlLiabjbuVsKcO6/m3OTnBRRjj0VXVqGjL26Lm44tvkcyWziJc0Nh6iexfeEvvlAyvvcuqN3PH+ZGYHpTFujc17KibKbplbcWvSfJRMA4niGg/vuNrB5ztpF09+V8sdgfQX21X7c43WiLBmSqtjBs5SGrZVzR6uUCed8fcPXa6ds3Qtp3EeXVMUicIRUo44Nuy6mQLEGY3iSk05GudeYo+jaUI5hpSd2T+R6LNx/6lKXvqlwk+giFY7H8l80byT/ECTruDNfNWhnCaLMA7WpU7TwVZN2RwI36rptO2vCfUVxr02iGZ8C4AtkfA8jbhttFnrISjp9e0o16U+lFY/SOpvxFHr45n14IyeLQYRHv1nvBWFPSDETIzj8ZbvQPSsf0o5OZ0drd8r2U7PcNEdsEbjt7w4Ux2jZ2lURQ==;11b7txk1pimbKvTNRPDn4g=="
 ---

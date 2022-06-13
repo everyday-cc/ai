@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T13:01:00Z
 originalUrl: "https://www.insidermonkey.com/blog/5-stocks-to-buy-as-virus-restrictions-are-lifted-in-china-1046898/"
 webUrl: "https://www.insidermonkey.com/blog/5-stocks-to-buy-as-virus-restrictions-are-lifted-in-china-1046898/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Insider Monkey

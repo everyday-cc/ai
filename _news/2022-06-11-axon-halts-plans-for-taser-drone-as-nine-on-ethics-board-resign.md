@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Axon ethics board members resign over taser-equipped drone"
-    excerpt: "Taser maker Axon is walking back plans to make a taser-equipped drone after nine members of its AI Ethics board resigned. Axon, a technology company known for developing tasers and products for police and the military, wanted to market the product as a ..."
-    publishedDateTime: 2022-06-08T20:32:00Z
-    webUrl: "https://www.zdnet.com/article/board-members-resign-over-taser-equipped-drone/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/01ebfe773288e8d7a3d952c1ec40e6414d3f0f2f/2022/06/08/2bda3fad-bfc5-4d9d-b98e-7f998203ab26/taser-drone.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 901
-        isCached: true
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
     publishedDateTime: 2022-06-09T10:15:00Z

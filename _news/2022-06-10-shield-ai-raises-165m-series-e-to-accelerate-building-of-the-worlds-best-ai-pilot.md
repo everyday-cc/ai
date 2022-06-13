@@ -42,6 +42,22 @@ related:
         width: 944
         height: 698
         isCached: true
+  - title: "AI system facilitates plant imaging from germination to root development"
+    excerpt: "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?"
+    publishedDateTime: 2022-06-13T14:15:00Z
+    webUrl: "https://phys.org/news/2022-06-ai-imaging-germination-root.html"
+    ampWebUrl: "https://phys.org/news/2022-06-ai-imaging-germination-root.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg"
+        width: 2826
+        height: 1373
+        isCached: true
   - title: "Shield AI Raises $165M in Series E Funding; Valued at USD2.3 Billion"
     excerpt: "Shield AI, a San Diego, CA-based defense technology company building AI pilots for aircraft, raised $165M in Series E funding increasing the valuation to $2.3 billion"
     publishedDateTime: 2022-06-10T08:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-analys
 webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-analysis-by-growth-2022-future-demand-business-trends-and-revenue-forecast-to-2028-ibm-microsoft-google-aws-baidu"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,43 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why healthcare organizations select Amazon Web Services over Google, Microsoft"
-    excerpt: "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,"
-    publishedDateTime: 2022-06-08T22:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html"
+  - title: "Cloud Robotics Market Size, Growth Drivers 2022 Competitive Intelligence and 2028 Forecasts in New Research Report | The Insight Partners"
+    excerpt: "The Insight Partners adds \"Cloud Robotics Market Forecast to 2028 - Covid-19 Impact and Global Analysis - by Component (Software and Service); Deployment Model (Private,"
+    publishedDateTime: 2022-06-10T12:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27645002/cloud-robotics-market-size-growth-drivers-2022-competitive-intelligence-and-2028-forecasts-in-new-"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
-  - title: "Microsoft launches MLOps v2"
-    excerpt: "MLOps v2 will allow AI professionals to deploy an end-to-end standardised and unified Machine Learning lifecycle scalable across multiple workspaces."
-    publishedDateTime: 2022-06-13T09:05:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-mlops-v2/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/unnamed-2.jpeg"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "The productivity advantages of Microsoft Azure: vertical focus"
-    excerpt: "As much as this Cloud for Sustainability effort interests me, the vertical focus and the maturing of Azure is what I find interesting ... What Microsoft has now is the foundation for future AI-driven solutions that could be independent of verticals ..."
-    publishedDateTime: 2022-06-09T12:09:00Z
-    webUrl: "https://www.computerworld.com/article/3663669/the-productivity-advantages-of-microsoft-azure-vertical-focus.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "XskLT2zYFJEyz/qCfo3qmqyLrsOe4pmCKsoAv0XkPB/Yy2h65XpLIF26gG7GITMYMYwWL4e7Qizjta+2v69ov7CVpQrEHOHGO6XNnQZFLOkRAh6dv10HetzaIpPVYDML74woVe809MB7NaBoQEYqf9qUsXwnqmShEUnOxt/8X4UsWHWbUVNs4UeBe19x7NI4c8Pxrhr+aMtrkyIE+NS7FedL6wQWE1YmcArxxosUKoPLa3tssLFBWp+o8qcxpVsvHac/eYQ+F/rjt5hV7rFEfpcyn5Lc3xQ7pxvuYyAN5w9hvz68RVqpDQ8eJQ+T3//oBgBy0cZV6h8wqR9NHqnV6qJakTo1kYC1sj1KZ1zRoF0=;vQTVHKmI1MWLIWsDSyBRDA=="
 ---

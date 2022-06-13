@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T13:00:00Z
 originalUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings/"
 webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings/"
 type: article
+quality: 67
+heat: 107
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +23,60 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "eQVOn3xEdFHZzeVvg3YkZ/f5glOYo/4y5T9joCzR5Js3P8NFwUB44yC4HV+v3o6JJ8s9Ag+rFKTleCCbiKMJA0Fz9SwVhdIDdTmF54MlSvyMjreVO+hpGijkUIWEwXh/1bj4ien0F3rtnsABoLN6D9uRs6p5q3xagUyjTjvyXT8H93UM1rzCGJCyJEXpJD+DjAoh55b5zST/qdjqMZhdRqEwAbu5V3W+75hB0pTib3Fn5K+tYVI435frM3rWueNFDvMi4/sc1tbAHJ2dY4/KXWzhfxA4CO7n5l0xp9eJ+IFDaSJf3+Ah5TtlvI+vr3DIhJiQzCE8d3n9hbkQyDYj9I8IlXSxDFWU5RRkOeIYShk=;v2DL2l1oLmjAQFPv1q1mAA=="
+images:
+  - url: "https://www.microsoft.com/en-us/microsoft-365/blog/uploads/prod/sites/2/2022/06/CLO22_HotDesking_012.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Microsoft Teams taps artificial intelligence for headache-free meetings"
+    excerpt: "Microsoft Teams continues to improve artificial intelligence and machine learning to help users deal with the biggest video conferencing headaches."
+    publishedDateTime: 2022-06-13T13:00:00Z
+    webUrl: "https://venturebeat.com/2022/06/13/microsoft-teams-taps-artificial-intelligence-for-headache-free-meetings/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+  - title: "Call quality in Microsoft Teams is getting better using Artificial Intelligence"
+    excerpt: "Microsoft Teams has been on the receiving end when it comes to nifty features, which are all geared toward enhancing its user experience. However, there are"
+    publishedDateTime: 2022-06-13T14:56:00Z
+    webUrl: "https://www.onmsft.com/news/call-quality-in-microsoft-teams-is-getting-better-using-artificial-intelligence"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 50
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/09/Microsoft-Teams-hybrid-work.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Microsoft launches MLOps v2"
+    excerpt: "MLOps v2 will allow AI professionals to deploy an end-to-end standardised and unified Machine Learning lifecycle scalable across multiple workspaces."
+    publishedDateTime: 2022-06-13T09:05:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-launches-mlops-v2/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/unnamed-2.jpeg"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "The productivity advantages of Microsoft Azure: vertical focus"
+    excerpt: "As much as this Cloud for Sustainability effort interests me, the vertical focus and the maturing of Azure is what I find interesting ... What Microsoft has now is the foundation for future AI-driven solutions that could be independent of verticals ..."
+    publishedDateTime: 2022-06-09T12:09:00Z
+    webUrl: "https://www.computerworld.com/article/3663669/the-productivity-advantages-of-microsoft-azure-vertical-focus.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
+
+secured: "eBQ1drWwfQ7JlxAOc9iKL1uPP/wkINeshsNM5K8D5UE9sC5MsYb7V63c03BqyNcRo9RdmvjrlsqnXoeGwN/yidgEy+Gpqc0O2qWhVYR2+ZyCoF9JJ8jKYPMOzG2FTS++0E4ptLfzHla90FUcELQLN+m0CNHpcN/pYAgzt2AZreU8tdn4anPCIs9txhb4huRzBEzYbcqze89bLOs4kAW1Ks7gz15Ev0e2E8GCWJ3fbO6HBLDEPGdWDGi6kNbtPVnPw1mQ7KnbolRFhVjiV4uuBYW8NTBDC3s8ySfdASaR2cB5adWval2h+ckMLi4zWN3MtRwq1J0vTyVYJsW6CV7OA81j+YExJvbNQBqaXAb6mx8=;akosDr1yVTj4Ah+rbdKabw=="
 ---
 

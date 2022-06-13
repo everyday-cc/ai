@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T12:50:00Z
 originalUrl: "https://www.rferl.org/a/moscow-police-detain-dozens-using-facial-recognition-system/31896070.html"
 webUrl: "https://www.rferl.org/a/moscow-police-detain-dozens-using-facial-recognition-system/31896070.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Radio Free Europe/Radio Liberty

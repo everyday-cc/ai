@@ -30,6 +30,15 @@ related:
       name: sbcnews.co.uk
       domain: sbcnews.co.uk
     quality: 24
+  - title: "Stats Perform rolls out Opta Vision metrics to boost soccer data offering"
+    excerpt: "Stats Perform's new merged dataset featuring Opta Vision metrics will generate live insights for topflight European soccer leagues."
+    publishedDateTime: 2022-06-13T12:18:00Z
+    webUrl: "https://www.sportspromedia.com/news/stats-perform-opta-vision-live-data-insights-metrics/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 3
 
 secured: "caIodNWx0esNZIXUFzWY5/ap/005wV0x3leTZlOU1rL1+0GoxBia1bsmmm0mc2lsbzC1fETzR/UpE6SLopy1z8bF2ApE+KZfB04ehQimjdW3XHE2nTotSijkwNYjUjDKs8grv4cTihcaWtkpMbzu0Vrbvqq0TYpKnHTEX2Ensu9WYc01ysIcijGOCPWaxjTKX7SO94B8dnhMCQUOj0M+Z6WOCBKlQxthKrIQMcP74SXb59GR9p/2MmoQDxBUmdQqPjH3dbIp+6yeEsqsEBQgYVSfZm/FAzvy9WatdlUyEbYqdSfn6B18teVBG1uMM0VAb8pJypqiv887r++WpTkkRqslrNXA97lFlg0xSRbEXV/WJP67tYoZf++w8f7IAV/eB4Ryq7D6APou6QUxWiKJ4JQHBs5yHgtSet9jFbAGgNGFZICmPQs92YSfxbU+t0u8Mx8cmp6FD6W26GRI+r82+hauTtJ3nldszek+fGqs5c6Jdcjwn4vIbDk0I6ziflgrYvSDTvsYFvbGOGOEddWbcQ==;BwzOkGlbWguDiGigtQpUHw=="
 ---

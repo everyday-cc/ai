@@ -23,6 +23,17 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Ainnocence Applies AI To Drug Discovery"
+    excerpt: "A new, San Diego-based biotech startup, Ainnocence launched today, saying that it is focused on using life-sciences knowledge and advanced computational techniques to accelerate the design of small-molecule,"
+    publishedDateTime: 2022-06-13T13:22:00Z
+    webUrl: "https://www.socaltech.com/ainnocence_applies_ai_to_drug_discovery/s-0082594.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 17
+
 secured: "rx50Gt878NlotBEZSB/4p6lWTBKB74vgvC7xMTn4vcdCGGDin9Cph2xwO2BsH9GTZvExmK791tpDLwguE7hwkBsfAXOxwz17VhO2KdTbsJs5y9g5rG01jpELIQOTcxyWGrQe1URlFqJ6WI96QtW+2g7+Tikol87mb4ezUH1iWDAzLRYp/g+ltMD0wmCKOLlGjfHB8ns6WEiU+y6gmGjITt34ZBvKZGrdkHBdUAzmJokkZBoqPGPhhQPB9uPqRo/Y2HH4LrKgk2+8xVLPJO8G2wTuxJEIJHM1TKc2KceILrEb3SPqk0ZSP5bz3eTfI/Vlf/tM5KF9HInvVthXFhT+tAGvmQakV7wHXIYPKlW3Aq4=;2jhHVrlIOptJOv9BFzfMeA=="
 ---
 

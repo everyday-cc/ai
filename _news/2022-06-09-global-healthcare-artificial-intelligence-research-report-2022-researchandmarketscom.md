@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Top Robotics Global Market Report 2022"
+    excerpt: "Reportlinker.com announces the release of the report \"Top Robotics Global Market Report 2022\" -  The global top"
+    publishedDateTime: 2022-06-13T11:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667818/top-robotics-global-market-report-2022"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
   - title: "Clinical Trials Sector Scorecard 2022: Artificial Intelligence, Virtual Care and Blockchain Saw Activity in Q1 2022 - ResearchAndMarkets.com"
     excerpt: "The “Clinical Trials Sector Scorecard - Q1 2022 Update - Thematic Research” report has been added to ResearchAndMarkets.com’s offering. Many companies included in the Clinical Trials scorecard have announced partnerships in the artificial intelligence (AI) space since December 2021."
     publishedDateTime: 2022-06-09T09:52:00Z

@@ -54,19 +54,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The state of AI in drug discovery"
-    excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
-    publishedDateTime: 2022-06-08T21:48:00Z
-    webUrl: "https://medcitynews.com/2022/06/the-state-of-ai-in-drug-discovery/"
+  - title: "Google lost the battle for machine learning to Meta, insiders say. Now it's betting the future of its own products on a new internal AI project."
+    excerpt: "Google is pushing a new project to replace TensorFlow. But it will be a major challenge to unseat Meta's PyTorch, which has won over developers."
+    publishedDateTime: 2022-06-13T12:30:00Z
+    webUrl: "https://www.businessinsider.com/facebook-pytorch-beat-google-tensorflow-jax-meta-ai-2022-6"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
     images:
-      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
-        width: 2207
-        height: 1359
+      - url: "https://i.insider.com/62a3a279a464ed00195811a6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How HR can mitigate the risks and reap the rewards of AI at work"
     excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
@@ -110,6 +110,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "How Artificial Intelligence is Affecting First-Time Home Buyers"
+    excerpt: "New software technologies like artificial intelligence are getting smarter every day. Here’s how AI has the potential to affect first time home buyers."
+    publishedDateTime: 2022-06-13T13:07:00Z
+    webUrl: "https://realtybiznews.com/how-artificial-intelligence-is-affecting-first-time-home-buyers/98771996/"
+    type: article
+    provider:
+      name: Realty Biz News
+      domain: realtybiznews.com
+    quality: 21
   - title: "Is AI the future of art? Field attracts huge interest, even bigger price tags"
     excerpt: "The field has begun to attract huge interest among art collectors – and even bigger price tags at auction. US artist and programmer Robbie Barrat—a prodigy still only 22 years old—sold a work called “Nude Portrait#7Frame#64” at Sotheby’s in March for £630,"
     publishedDateTime: 2022-06-12T10:40:00Z

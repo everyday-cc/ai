@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/5204.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "CFPB ends no-action letter with fintech lender Upstart Network"
-    excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
-    publishedDateTime: 2022-06-08T20:37:00Z
-    webUrl: "https://www.americanbanker.com/news/cfpb-ends-no-action-letter-with-fintech-lender-upstart-network"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/99cc814/2147483647/strip/true/crop/1080x567+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa6%2F16%2Fabaa9faa4420b08af15ea37b1179%2Fab-og-image.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "10/06 – Weekly Fintech Recap"
     excerpt: "Partnerships Mastercard Partners With NFT Marketplaces for ‘Easier and Safer’ Purchases Mastercard is working with a host of non-fungible token marketplaces to make it easy for people to buy NFTs with their cards."

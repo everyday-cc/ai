@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T13:07:00Z
 originalUrl: "https://www.cmswire.com/digital-experience/dealing-with-ai-biases-part-2-inherited-biases-from-data/"
 webUrl: "https://www.cmswire.com/digital-experience/dealing-with-ai-biases-part-2-inherited-biases-from-data/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CMS Wire

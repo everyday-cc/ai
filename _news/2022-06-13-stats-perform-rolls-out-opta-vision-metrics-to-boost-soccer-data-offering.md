@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T12:18:00Z
 originalUrl: "https://www.sportspromedia.com/news/stats-perform-opta-vision-live-data-insights-metrics/"
 webUrl: "https://www.sportspromedia.com/news/stats-perform-opta-vision-live-data-insights-metrics/"
 type: article
+quality: 3
+heat: -1
+published: false
 
 provider:
   name: SportsPro
@@ -14,6 +17,28 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Stats Perform launches Opta Vision for ‘new generation’ of sports data"
+    excerpt: "Stats Perform has announced a new addition to its suite of sports data and AI products, launching its Opta Vision data feeds offering."
+    publishedDateTime: 2022-06-13T10:15:00Z
+    webUrl: "https://sbcnews.co.uk/technology/2022/06/13/stats-perform-launches-opta-vision-for-new-generation-of-sports-data/"
+    ampWebUrl: "https://sbcnews.co.uk/technology/2022/06/13/stats-perform-launches-opta-vision-for-new-generation-of-sports-data/?amp=1"
+    cdnAmpWebUrl: "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/technology/2022/06/13/stats-perform-launches-opta-vision-for-new-generation-of-sports-data/?amp=1"
+    type: article
+    provider:
+      name: sbcnews.co.uk
+      domain: sbcnews.co.uk
+    quality: 24
+  - title: "Stats Perform To Launch Opta Vision"
+    excerpt: "Opta Vision represents a new generation of deeper sports data. By combining Stats Perform's industry leading Opta event data with tracking data to create a single, merged dataset,"
+    publishedDateTime: 2022-06-10T08:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/stats-perform-to-launch-opta-vision/article_d5c546b7-2e6b-5434-b9df-3453d0470c5d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
 
 secured: "VR/eMQP24pU8sX6B2NI/1XD0McRdLr1jBD2H1Br325mxINGyERxv0058g0cIjOPI0hjKDASPVviRnSd0TLzEWtE21aGs8yvtxYEo7SQMaTAHS+wweairM+vTfmbNxxaHoR3xrYokpeUv6mzpOdIJBTNwgIJVC5IgmLM2E+Na7WmnPGExg37vczacIgtomxPdqSVX7XLlBSYP/djIfGRxc5qahjQ6a4mbmFzvPfPBcVIXlS81TPf2lGWFjbFZYLDV3tfUkk5UHUHz6uagljHzOPWTNlRVok9e1nbnTdvzAeL6CuzmYOwYc2IFaq147YT7U1yEFoNq42GRFEMQm/0PqHAUIKDL1J4iWjDYfuMYGTFjZK5S93YbZtmuvZQXuv/KEjy+8z+2K3PchaJYw4qlwD2DlQjqiK+X4PaKQBstxbdYG43rv7Odu6QJBJg+IPabvpkPz7U4XxoINtol/1cv00S8vcd59eKMIxJPgw8pywK8IAprHRT6VxXsrfGsl1zPH6zI3waFTXKqpJ0N6yEGYA==;SiL6ehw6+djDOXFDgPaZAA=="
 ---

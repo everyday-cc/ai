@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/06/13/spotify-is-acquiring-sonantic-the-ai-voice-platform-used-to-simulate-val-kilmers-voice-in-top-gun-maverick/"
 webUrl: "https://techcrunch.com/2022/06/13/spotify-is-acquiring-sonantic-the-ai-voice-platform-used-to-simulate-val-kilmers-voice-in-top-gun-maverick/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: TechCrunch

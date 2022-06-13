@@ -114,20 +114,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "CFPB ends no-action letter with fintech lender Upstart Network"
-    excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
-    publishedDateTime: 2022-06-08T20:37:00Z
-    webUrl: "https://www.americanbanker.com/news/cfpb-ends-no-action-letter-with-fintech-lender-upstart-network"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/99cc814/2147483647/strip/true/crop/1080x567+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa6%2F16%2Fabaa9faa4420b08af15ea37b1179%2Fab-og-image.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Register for the BusinessTech Online FinTech Conference"
     excerpt: "BusinessTech will hold its inaugural Online FinTech Conference on 20 July 2022. The BusinessTech Online FinTech Conference is an exclusive event for high-level banking, ICT, and F"
     publishedDateTime: 2022-06-13T11:16:00Z

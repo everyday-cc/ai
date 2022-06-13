@@ -5,7 +5,12 @@ excerpt: "Being a data scientist was supposed to be \"the sexiest job of the 21s
 publishedDateTime: 2022-06-13T12:39:00Z
 originalUrl: "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/"
 webUrl: "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/"
 type: article
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: ZDNet
@@ -17,7 +22,25 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "LcALir5TOggmewS/Vg0X2TCofG+asO2gLsspIPZVjiT1BbTpXvlhFf1uA6NGaoB7O3mvBbr6b3GBxq3Bsk3G+R+ZBGWVqKKeA6d8lWrDtTw49iw8MYL70eh7MAlYe612YpNpFWCzL7Fnt/84QAtkDY74dUavOrQKIYqoJ4nonbd20oxbxYnYjDpldsLJPRsAHHympyvCkxcB5sSE61eJW4nZ6Plpiw98z5agYUjcv/tjNUnqqGVOIQsAQnD9ENX7+yCqc2R4wO9Fu1XEDInxeWW+hjDh6nTmdkwHjKZbgJ8c8C8H9jC76jb4RKjK9/BOO9mAh/Zpg+6uq18AKTr/R6otnFDMjzWZGFyFpGml5WdE7Y5yXWoqXSE83zWyUmo3lGoS9nBoQJQzCsfpcasRf4qwcG6TFFfXA78glRy2cS2vY5sPETuLXw3QwWJGuUlFhyXKzRZrn+M6KBM/uxc3K1DzcTL07QuSf96cUmkgJqtJ/3R5hjp61aDjA/Soj5Csvw98YVvv0Q3S2xMndVIR0g==;HP87DMcQmTdLBeDFSLGbSQ=="
+images:
+  - url: "https://www.zdnet.com/a/img/resize/a9504caf2ddfb0b7c19917de3dbf34532f282eac/2021/07/16/95711752-ec77-44fc-8dc0-70aa6204d707/data-science-shutterstock-1081970570.jpg?width=1200&fit=bounds&auto=webp"
+    width: 1200
+    height: 802
+    isCached: true
+
+related:
+  - title: "5 Key Findings For B2B Marketers: Conversation Automation, Personalization, And AI"
+    excerpt: "Five key findings that highlight the use of conversation automation in B2B marketing, trends in content personalization, and the role of AI in facilitating these interactions."
+    publishedDateTime: 2022-06-09T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2022/06/09/5-key-findings-for-b2b-marketers-conversation-automation-personalization-and-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
+
+secured: "sWR2j37rRE4QkAslsbxw4aW+889FRTHZUqDHKsy6RnLPamWCfUECppS7XkWu1uWCZO3H4kQtxVZuS0VixoE9LsmtSMLZcxnPfAcxH++hGvsRiliZhNEVaQ4qYnhqD2C8KcyzpxKd5pK0vaHKbuQ3Rn4TvZrcSayC4PZXrwu8n7FlX9jjs2IYHZqJ+xbNe5A7zZUfw7Ka5ugNEPWSuoK2NpIfOEG9p8xJxrPff0FKaOqz9kwfUZaXn4mJzMQWi9r2TQP+nR9PmrrUDIRnxWkh+GzeRrbY4kYUHBFBGURiP48fzHMT6WnOWaAiBJ9Bn6hP1exNl9oRI+VSpQ0aNduGNafAXHUBRBjIwDtArsYwjbY=;bkJ0SJKG3DrNZTKGsC4omQ=="
 ---
 

@@ -24,36 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Synthetic Data Is About To Transform Artificial Intelligence"
-    excerpt: "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,"
-    publishedDateTime: 2022-06-12T23:00:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
+  - title: "What AI developers need to know about artificial intelligence ethics"
+    excerpt: "Some tools and platforms promise fair and balanced AI, but tools and platforms alone won't deliver ethical AI solutions."
+    publishedDateTime: 2022-06-13T13:58:00Z
+    webUrl: "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI is transforming the customer experience in retail business"
-    excerpt: "But it’s important to know which part of AI works best for the retail business. If you’re ready to start improving your company’s customer experience with cutting-edge AI technology ..."
-    publishedDateTime: 2022-06-12T08:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/techbusiness/how-ai-is-transforming-the-customer-experience-in-retail-business-43323/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 99
 
 secured: "akBaUC2v0d05J2a+HsllvCOhgVfmsSqZrv0pMYrK5pDzXEDszb87gR0Aj93kTLgVAvEIXxgla/5xgqJGR/rFBe2YvuJ8bRR9ah93rZ598yjQiCaBKt7jKN3qmnfzLSm8uBA42CMPFVJ8kx45n92lFUoJzIAw/iT1oLXSBRCBn+nwbDhDr5CQHfgHULj43iWjVMI3qMP1F7mYcc92Wda9WZR4uFrEojPbUwQOZyAK1yz8O5+TRQKLMforwLakXmiV7uA0E6R6zg/jNbEjDaFk3883FTsLciFNHnEKpXnBakeHc2ELFqiMZoJMjF9uprXUGGx0cSzcC6pHoiKaonr/UglNcGvIkPcWRmfr8Z9r8PE=;vm8czXp7x2JPfQEg5snsVw=="
 ---

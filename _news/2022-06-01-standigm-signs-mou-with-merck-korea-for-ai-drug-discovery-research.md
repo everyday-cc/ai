@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Standigm Signs MOU with Merck Korea for AI drug Discovery Research"
-excerpt: "Merck's retrosynthesis AI software SYNTHIA™ accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 1, 2022 /PRNewswire/ --"
+excerpt: "Merck's retrosynthesis AI software 'SYNTHIA™ retrosynthesis software' accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 9,"
 publishedDateTime: 2022-06-01T13:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031501848"
-webUrl: "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031501848"
+originalUrl: "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190"
+webUrl: "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1829180/1.jpg"
+  - url: "https://mma.prnewswire.com/media/1836296/Standigm_Merck_MOU.jpg"
     width: 400
     height: 323
     isCached: true
 
-secured: "elqADYFGUnDgWKBNAk3ba6H5xSPcuBlFeUhWAXGkzZo1O9SVOeC3gdZ3OgYDkn/68NOcR2OoNW6ftlzWZJ8bjQ3/OIymRC2/RFqYnDWLgEDGhx2nM+UmD6XPELkyMl+LnSc0kxWbLZG7rbE+R88qPxJSs1U5W9qZoRCbB8H0Hlm2zuj5w1/9v5IuFqp2zaS2zvfyehHfW42Oas6oeB8BHmRuZqvwFwldpsuK/bMd/CK08u4gQ0BxcH3tCtUgo3lj8YQlFO115gwvyCpKIgsCn5mYunSTfM6qBae8NN1C9/ZOAFUf+bsO5MuAujIDa1igHGVMGs6oJSGExRLIdq18Mv4wruS3/zxe3E/jH29gKAkEsERMYriOJDfpRwF1Yyzpy19Wi1IQ73lpOv52pEY3dDxev/KKxNLFa1ejiQCpoCuW5hDpzJZTwmNHxtFTcdA7zZxgzvwaqbcU2CYbemfJdLbrvKOw0b5kT9ZGW+IbBbJYWFeDksG2D9R4oStj/IDTv8e5f23IPtV7untp3AKDiQ==;T9g6RGzXp0O/hkYW/w168A=="
+secured: "1UyWrzte4PfTvhtFEdYlnZv3l4XY5yeEuKTTo2CEmBNE1U55WFy7cfba1ZbsVeVmnGRnHA0mASC4z4VVSX4mMcg7Ns8wDwn5avEGCyWGVHh+bn5Rzs6UU6/GCWil4EJqlrQsWdZZWELzTkbBgDrcBuCp8wTVrJwYE7B6LzmSXCJV61Ws/c0UvNmnOy65r9FZRfN5Uk+iIHu4pgiPLsWli+U6XNmKs7Ym7Omq4DMv/qiAZSpfrV2WtDRa2KQOQNRF9bH5Y3rJR9Dq807NJH8B2t2aEAFcCGLgVIcg03lh6wc7sqDMgfOgNoUiwjWXyFXlhyUlA2guP0tqYsSooQGiun7SqJ1T/ShDeH4mm/kNo+8=;QctWWSGZFUqgU1GiTEy/ww=="
 ---
 

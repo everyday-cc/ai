@@ -21,6 +21,17 @@ topics:
   - AI
   - AI in Finance
 
+related:
+  - title: "How Rep Leverages AI to Revolutionise e-Commerce"
+    excerpt: "Moving forward, the future of e-commerce consumer experience is AI-powered guided shopping. Aiming to revolutionise the e-commerce industry, Rep is a breakthrough AI-powered sales associate that streamlines the customer journey through data-driven insights."
+    publishedDateTime: 2022-06-13T14:15:00Z
+    webUrl: "https://www.retaildive.com/press-release/20220613-how-rep-leverages-ai-to-revolutionise-e-commerce/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 17
+
 secured: "j2xn8Jhnq6gM/+ibZFD7N9BE+dC+vBepcFhGHFi7frrATOqaRAzAJFCU5rvQrCzsiXr5cj6tEpUJVkmH6oMhtPkahhadCNO5Ag+R6mr+fnfl/WzD95PbgbuoK/41VzNlkhDrMQCYAATrDxerQ0lvUMI6U5eZ7r0nAq/meVXgQ4G87G+e58raArtVhXUM5a1y/GSULaqQOFdm5Y1IqjcnRcn0KGHTKk6X4D/h6+Ka4srgAvQOq/2RPbhJx3rhYGyUvYHMfl8WNu5blmDacuEQC5umF4D4wPqpU1d94b0p8esNxxwkAlRmkbasf6WNsB/Np5DM36db6DVed1maK86SBd77p5c+6XZdRg4whayA5Bk=;9ORtcXPxk3Wd1zMQ62/94g=="
 ---
 

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Over 400 SC verdicts translated, until Covid-19 stalled AI project"
+    excerpt: "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived."
+    publishedDateTime: 2022-06-13T02:00:00Z
+    webUrl: "https://indianexpress.com/article/india/over-400-sc-verdicts-translated-until-covid-19-stalled-ai-project-7966459/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 34
   - title: "Using artificial intelligence to discover new antivirals against COVID-19 and future pandemics"
     excerpt: "Research into drugs to treat mosquito-borne flaviviruses such as Zika and dengue as well as COVID-19will benefit from a major funding boost, says a group of international scientists using artificial intelligence to discover new oral antivirals."
     publishedDateTime: 2022-06-12T17:24:00Z
