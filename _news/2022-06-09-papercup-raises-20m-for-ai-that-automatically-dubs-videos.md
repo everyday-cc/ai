@@ -56,6 +56,15 @@ related:
       name: The Hollywood Reporter
       domain: hollywoodreporter.com
     quality: 17
+  - title: "AI Dubbing Startup, Papercup, Raises USD 20 Million in Series A"
+    excerpt: "UK dubbing startup, Papercup, raises $20 million in oversubscribed series A; credits strong position to human-in-the-loop."
+    publishedDateTime: 2022-06-09T10:46:00Z
+    webUrl: "https://slator.com/ai-dubbing-startup-papercup-raises-usd-20-million-in-series-a/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 17
 
 secured: "x9VzWAUkSQxKXOEp31PwCpBKF3/z5IhxVwCDXjy8gN2gr4goutzEr6FKt8WBh45BiF024L1RMbu+lMtPUTMaLoPYjb26JDbN5PmoAk94hDqZ8s9UyieBEXRzU6CWQTY6yHm36JWq9WyIcQax0sozO71dQ6nvT+qlKIYo+mTv6uCn0TRvyW0lfQVmQA8mvk8ag4oC4pT74dbtd7KQomjR8JkJFClQtpIOLTf+tTYqKIpkyJmP7Ha7zy6p6gimtXdbKNUDi/8ZBXJ/0higBvaJXCbVpUiDwdp9LRFJaYl9Y5DyhJNjNxAuLX9jUdNWd2Wz2OSOqGj8KszclT9Lo47FeL1kOxCHAARhQFQYcj9fZp8J6h9nRc26WlAP8DGfXX7z6povRXY5iqIeVt1w7Wfk0n/IVsURsQHZvKuoO4LhHwFyjaNEaOJUsSBC0JkdA8qtJDgc0VN1/cLZ05zZOc8WAIQIIV9SnKtJPL4Hf5JeriNRrZKv+aJJ1Efx67Pd79OzD3q/lfKbLx/+pqmkrSxOcQ==;kyBWJnWdAfr0SNIUioaR+g=="
 ---

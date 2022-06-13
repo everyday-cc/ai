@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and bots strengthen endpoint security"
+    excerpt: "Fast-growing ransomware, malware and endpoint-directed breach attempts are reordering the threat landscape in 2022 which is calling for rapid changes in endpoint security."
+    publishedDateTime: 2022-06-13T18:46:00Z
+    webUrl: "https://venturebeat.com/2022/06/13/how-ai-and-bots-strengthen-endpoint-security/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Artificial Intelligence and Security: What You Should Know"
     excerpt: "Next-generation AI products learn proactively and identify changes in the networks, users, and databases using \"data drift\" to adapt to specific threats as they evolve."
     publishedDateTime: 2022-06-10T14:00:00Z

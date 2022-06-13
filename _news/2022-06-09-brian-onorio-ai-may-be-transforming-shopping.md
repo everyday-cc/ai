@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T15:48:00Z
 originalUrl: "https://pantagraph.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_8b1f88a4-e80b-11ec-b90a-d3cb4d81ad4c.html"
 webUrl: "https://pantagraph.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_8b1f88a4-e80b-11ec-b90a-d3cb4d81ad4c.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Pantagraph

@@ -31,7 +31,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 108
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1311426965.jpg?w=1200&strip=all"
         width: 1200
@@ -52,6 +52,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/0_299_4480_2688/master/4480.jpg?width=620&quality=85&auto=format&fit=max&s=4bc066d4c2db65a9bce46608e151e5bc"
         width: 620
         height: 372
+        isCached: true
+  - title: "If AI Ever Becomes Sentient, It Will Let Us Know"
+    excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
+    publishedDateTime: 2022-06-13T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/if-ai-ever-becomes-sentient-it-will-let-us-know/2022/06/13/e7bcdbf4-eb5b-11ec-9f90-79df1fb28296_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/42Z62EHLLMI6ZH4QPHPR7MUCSY.jpg&w=1440"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Google engineer put on leave claims AI bot LaMDA became ‘sentient’"
     excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, told the Washington Post that he began chatting with the interface LaMDA — Language Model for Dialogue Applications — in fall 2021"

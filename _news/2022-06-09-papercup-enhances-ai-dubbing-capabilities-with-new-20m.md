@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabilities-with-new-20m/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
     provider:
       name: The Hollywood Reporter
       domain: hollywoodreporter.com
+    quality: 17
+  - title: "AI Dubbing Startup, Papercup, Raises USD 20 Million in Series A"
+    excerpt: "UK dubbing startup, Papercup, raises $20 million in oversubscribed series A; credits strong position to human-in-the-loop."
+    publishedDateTime: 2022-06-09T10:46:00Z
+    webUrl: "https://slator.com/ai-dubbing-startup-papercup-raises-usd-20-million-in-series-a/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
     quality: 17
 
 secured: "7WfFs2kK0sRWuV6/3mJx+ZfWdinwtyI5ymtbBkK5Fka6yUN2PMleJkRM0qye397MSe7WSQlfQYtRIq8f78W9536TdWYmTvKjV6fiwqflOoMR9msBjQC8YITKTy4QIs9L3klq56eOdrzDOMnTxPo7lWVPc4+cP2I/ITZuPVpP8AniTyUmgi5eZQUSbOjrA0RFe/Ts1qKgGZOzmM6rICSab315o0azwd3FjA4qnvc5W7a5HeH9IbihHq9qwXVlGafy7F3re42H5UqpVQo1Y15V9CUm3Q28FNDeQLEBFX6uKkeATaqqdbjogIN/R4xjpf/hdFMIMFgPaKErog0aHUdVedZPYB5/zSAymKZVc0WyiBHQ3BKxeE4PgTexUoXt25dsvklUVmYNnLQKkON+BBsqP0GZ8+TUYxE8Kg0nsw1LEeFiCz2LEL/zyIQH/7BRfShYgRz8vtOw6OSmJZv/Upis42qInad9TGS3GoCnoPthlMRzd2AJcUQtnyvcpCrq5GRYjklShkhAYlqmqykg8d+JZA==;im1h+sgmYRgNTwdFKVxzIA=="

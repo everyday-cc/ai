@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T19:03:00Z
 originalUrl: "https://thehill.com/policy/technology/3521634-ev-start-up-planning-bankruptcy-filing/"
 webUrl: "https://thehill.com/policy/technology/3521634-ev-start-up-planning-bankruptcy-filing/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Hill

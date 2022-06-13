@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T18:23:00Z
 originalUrl: "https://www.businessinsider.co.za/transcript-of-sentient-google-ai-chatbot-was-edited-for-readability-2022-6"
 webUrl: "https://www.businessinsider.co.za/transcript-of-sentient-google-ai-chatbot-was-edited-for-readability-2022-6"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: BusinessInsider

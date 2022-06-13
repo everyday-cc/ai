@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T06:33:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-by-development-strategy-future-projections-rising-trends-to-2028-2022-06-13"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-by-development-strategy-future-projections-rising-trends-to-2028-2022-06-13"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: MarketWatch

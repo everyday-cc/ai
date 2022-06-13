@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-lego-like-artificial-intelligenc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Engineers build artificial intelligence chip"
+    excerpt: "Engineers built a new artificial intelligence chip ... add layers to a cellphone's camera so it could recognize more complex images, or makes these into healthcare monitors that can be embedded in wearable electronic skin,\" offers Choi, who along with ..."
+    publishedDateTime: 2022-06-13T18:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220613112049.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 68
 
 secured: "dEPHnKSC59w9s6nGQY8OYDZqq7Xx0th45mCWZXqzMCm4XRSPdgbzEIqFgwhFyI6Xd6oIrCnvGQuQRsZltA35TtfDPZV3uDuwBWQIMQ6Usp94tF6wFGW2JtWJrGthsZt6vuHGdv8IpS/iGNf7lbC3EmXt8rXCNcxBINVZ+L5Fbuvz8UH1jc4Kx5EkOlMArlB/HWOJrQWSRF2m6ZkopO9BOb1G8hJXo+00gYkapSDfz5Y35M6IVJsYZwHbH9dQrXkGtXrx3yilnUQYPkImzVHpwVQEwMuvqs0funyvSAxu88OqRwvRPeEmVDCoAz5eJYyBmNJ/lLdiUMw3aqDMdvtz7WThYAPBuy287MgBQm6hKixjnGgJHXPFGOotZO0FVr5DEGhs8+0atUYgiCJIFZvftVTlpwkaLB21C8k22lt90zPMVUmykpDJYG3k9nOOE7E2BNLAUrO7z74J0Q+TQHd1GPG9JPetRjPPamj2ZPoq71KkIirD+Sa4QA4/CGcux76f2Kubd1M8a4MsKlp5WncP4A==;dZQqOms8M2xA3MYLrCVEdw=="
 ---

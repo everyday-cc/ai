@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "AI systems have their own ‘secret language’. And it might come with security concerns"
+    excerpt: "The findings support the theory that AI language models don’t read text the way you and I do. Instead, they break input text up into 'tokens'."
+    publishedDateTime: 2022-06-11T03:26:00Z
+    webUrl: "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/"
+    ampWebUrl: "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 69
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2021/08/artificial-intelligence-4389372_1280-e1599296856435-1024x576-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "When AI has a secret language"
     excerpt: "Facebook (Meta) was forced to shut down one of its AI systems after it had started communicating in a secret language. In an eerie throwback, Giannis Daras, a computer science PhD student at the University of Texas at Austin,"
     publishedDateTime: 2022-06-13T04:30:00Z

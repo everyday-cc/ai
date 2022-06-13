@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T18:08:00Z
 originalUrl: "https://www.datanami.com/2022/06/13/europes-new-ai-act-puts-ethics-in-the-spotlight/"
 webUrl: "https://www.datanami.com/2022/06/13/europes-new-ai-act-puts-ethics-in-the-spotlight/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: datanami.com

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Your Microsoft Teams video calls will soon be powered by AI and machine learning"
+    excerpt: "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ..."
+    publishedDateTime: 2022-06-13T20:01:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 116
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/06/Microsoft-Teams-Crisp-smooth-1536x864-1.jpg?p=1"
+        width: 650
+        height: 366
+        isCached: true
   - title: "New Microsoft Teams AI feature could kill the need for a headset"
     excerpt: "Microsoft said Monday that it's using AI to improve Microsoft Teams calls further, with better two-way voice, echo cancellation, and smoother screen sharing."
     publishedDateTime: 2022-06-13T17:37:00Z

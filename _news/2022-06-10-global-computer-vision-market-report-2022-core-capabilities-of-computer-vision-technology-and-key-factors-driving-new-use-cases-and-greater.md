@@ -44,6 +44,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Global Healthcare Artificial Intelligence Report 2022: Future Growth Potential Enhanced by the Shift Toward Value-based Care"
+    excerpt: "The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the role of"
+    publishedDateTime: 2022-06-13T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27676214/global-healthcare-artificial-intelligence-report-2022-future-growth-potential-enhanced-by-the-shif"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27676214"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27676214"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "Clinical Trials Sector Scorecard 2022: Artificial Intelligence, Virtual Care and Blockchain Saw Activity in Q1 2022 - ResearchAndMarkets.com"
     excerpt: "The “Clinical Trials Sector Scorecard - Q1 2022 Update - Thematic Research” report has been added to ResearchAndMarkets.com’s offering. Many companies included in the Clinical Trials scorecard have announced partnerships in the artificial intelligence (AI) space since December 2021."
     publishedDateTime: 2022-06-09T09:52:00Z

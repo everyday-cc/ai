@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T18:18:00Z
 originalUrl: "https://www.autobodynews.com/index.php/western/item/26427-gm-s-cruise-secures-first-permit-to-charge-for-self-driving-rides-in-california.html"
 webUrl: "https://www.autobodynews.com/index.php/western/item/26427-gm-s-cruise-secures-first-permit-to-charge-for-self-driving-rides-in-california.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Autobody News

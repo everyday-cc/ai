@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T09:00:00Z
 originalUrl: "https://venturebeat.com/2022/06/12/intel-details-13-chip-inventions-at-tech-symposium/"
 webUrl: "https://venturebeat.com/2022/06/12/intel-details-13-chip-inventions-at-tech-symposium/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: VentureBeat

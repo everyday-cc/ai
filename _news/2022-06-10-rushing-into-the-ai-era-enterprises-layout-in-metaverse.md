@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kiya.ai Introduces Indian Banking Metaverse"
-    excerpt: "Kiya.ai - one of the most \"innovative\" digital solution providers, announced the launch of India’s \"first-ever\" Banking Metaverse – Kiyaverse."
-    publishedDateTime: 2022-06-09T02:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/"
+  - title: "Report from Money20/20: Fintech companies have questions about the future of the metaverse"
+    excerpt: "Fintech companies at Money20/20 Europe say the future of the metaverse is difficult to predict."
+    publishedDateTime: 2022-06-10T16:11:00Z
+    webUrl: "https://www.businessinsider.com/money2020-europe-fintech-companies-question-future-of-metaverse-2022-6"
+    ampWebUrl: "https://www.businessinsider.com/money2020-europe-fintech-companies-question-future-of-metaverse-2022-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/money2020-europe-fintech-companies-question-future-of-metaverse-2022-6?amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg"
-        width: 1600
-        height: 1291
-        isCached: true
-  - title: "The tragic twist in the Indian startup saga"
-    excerpt: "In the Economic Survey 2021-22 released in January 2022, India was named the third-largest startup ecosystem in the world, after the US and China. A Nasscom report said the number of start-ups has been growing steadily with ten percent being added every year."
-    publishedDateTime: 2022-06-13T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/the-tragic-twist-in-the-indian-startup-saga/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 22
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Twist-in-indian-startup-saga.jpg"
-        width: 1600
-        height: 900
+      - url: "https://i.insider.com/62a350d73e3836001951da45?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "w/97Ppi+YCB53oqc0u/yzBciX0bmg/wUu9ORp+KDnt+BaiboQGQGVO81TnkqNgZeywlp8yYED3mCOUFi7tEsBbRBLnpobnNNMsfFz5ytDAf165oxsDcx9Y5h8oYswc4BG29TTba3JJHrHeCdE7MXeBm52HgRA8VVFA9cpz7UYk79qT9XFM7OfbEdL5KPEYRtUEw23hXLyOJIgZOIdbDdSzJXDPZk1YNVP1LWwT//zzZroQUkA9Lr5nuQeiQHb8wIUHhDpFjkFfMjgokpzlonkruf8DHWxGAHq8ukZ/XvBgDlP1PyUbXNulNli81o/iBk6or19VhsFSZG9YeTEXe7WFv+bq1opLJIuUe63XFfmuh4vAQsHGc63I+HstO149he/nz0BBrQs0hvstMRE6OxkS0Stxva01Ou0bFkJG2PeQa16oZC6x/lM/G/Qon9HDii7m5bfA69SwwR05P71daZfcWk4CPCjjAU4bdY8bRbXIvOPqKTzUIPVIrblGJWZpMXBYH3fnNPzxqijcCHARButw==;ww26dRzr9dfu9oxmOsFrAw=="

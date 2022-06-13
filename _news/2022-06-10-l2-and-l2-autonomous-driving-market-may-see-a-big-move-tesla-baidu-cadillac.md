@@ -41,20 +41,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Baidu's electric vehicle firm Jidu unveils first 'robot' car"
-    excerpt: "Besides equipping the vehicle with autonomous driving software technology powered by Baidu, Jidu will also build two lidars and 12 cameras alongside the car. Lidars are detection systems ..."
-    publishedDateTime: 2022-06-09T03:09:00Z
-    webUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 56
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/200609_robot%20car.png?h=9a34780c&itok=6MDqmIDk"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "ocapX96Er75xA+Fj00aqnpDNtMQ156IaA0/Lrzu1CnXyNOxBRV+KA/65o41cRJswh0/FWZEAcQ3JOyMxZ4sal6hRMy1I3mTfKhqDLslRckJnbavekTyTAmT3A04Tj8S5w0gEntswZbtwnZKvzj5Q7jZp/KHSoy2h4St6nRSgKN5XBnHA+WVv0tHp3MeF0gGYnBW9+veAQKoOJuWLDSuJtha9fq761dPB1qETf9Lv16YFpp06VegDVQymyrY3Pg+fRiBXxiTRdXdacafkdMx1LXtZoN9CywiU2UTIOPwx1dUZHU+Hp/gR33+VGZ25NezccUTOvq9MahNSJ/iZEGPJ7LSHGzcmpkTCW6otNq+RWc0=;+pGJdcNcQcWmvLELnC57Qw=="
 ---

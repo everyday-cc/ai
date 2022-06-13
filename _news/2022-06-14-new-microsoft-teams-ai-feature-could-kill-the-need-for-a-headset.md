@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-k
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
 type: article
 quality: 106
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC World
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Your Microsoft Teams video calls will soon be powered by AI and machine learning"
+    excerpt: "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ..."
+    publishedDateTime: 2022-06-13T20:01:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 116
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/06/Microsoft-Teams-Crisp-smooth-1536x864-1.jpg?p=1"
+        width: 650
+        height: 366
+        isCached: true
   - title: "How Microsoft Teams uses AI and machine learning to improve calls and meetings"
     excerpt: "Disruptive echo effects, poor room acoustics, and choppy videos are some common issues that can detract from the effectiveness of online calls and meetings. Through AI and machine learning, which have become fundamental to our strategy for continual improvement,"
     publishedDateTime: 2022-06-13T13:00:00Z

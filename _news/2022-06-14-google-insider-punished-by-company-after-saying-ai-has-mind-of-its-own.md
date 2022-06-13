@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T18:33:00Z
 originalUrl: "https://www.washingtonexaminer.com/policy/technology/google-engineer-suspended-sentient-ai"
 webUrl: "https://www.washingtonexaminer.com/policy/technology/google-engineer-suspended-sentient-ai"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Washington Examiner

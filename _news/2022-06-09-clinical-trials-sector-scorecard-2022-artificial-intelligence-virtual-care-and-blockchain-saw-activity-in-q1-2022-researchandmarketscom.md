@@ -47,6 +47,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Global Healthcare Artificial Intelligence Report 2022: Future Growth Potential Enhanced by the Shift Toward Value-based Care"
+    excerpt: "The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the role of"
+    publishedDateTime: 2022-06-13T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27676214/global-healthcare-artificial-intelligence-report-2022-future-growth-potential-enhanced-by-the-shif"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27676214"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27676214"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "ABI Research: Edge Machine Learning Enablement Market to Exceed US$5 Billion by 2027"
     excerpt: "In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance"
     publishedDateTime: 2022-06-09T08:05:00Z

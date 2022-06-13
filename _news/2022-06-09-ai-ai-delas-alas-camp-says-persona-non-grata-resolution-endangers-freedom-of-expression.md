@@ -7,7 +7,7 @@ originalUrl: "https://www.rappler.com/entertainment/celebrities/ai-ai-delas-alas
 webUrl: "https://www.rappler.com/entertainment/celebrities/ai-ai-delas-alas-camp-persona-non-grata-resolution-endangers-freedom-of-expression/"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Kampo ni Ai-Ai Delas Alas, umalma sa pag-tag sa kanya na \"persona non grata\" ng QC council"
-    excerpt: "The camp of Ai-Ai Delas Alas condemned the resolution of the Quezon City council declaring the comedienne \"persona non grata.\" Her counsel responded to it."
-    publishedDateTime: 2022-06-09T04:32:00Z
-    webUrl: "https://kami.com.ph/entertainment/celebrities/143557-ai-ai-delas-alas-camp-umalma-sa-pag-tag-sa-kanya-na-persona-grata-ng-qc-council/"
-    type: article
-    provider:
-      name: KAMI Philippine News
-      domain: kami.com.ph
-    quality: 27
-    images:
-      - url: "https://netstorage-kami.akamaized.net/images/ec00cdb488c00c20.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "jk9YKs5kWVx3UGkOwstRGLrOnvWLKzkcRsCbdXdPcdffR5XALAyMfpPBp6ztqE08ZXFBZCg+ShOkdvsRRjc/JCe/QYEHICw++ZiLQuYtAf1xUfSCcPHjrhQQeFyHL4GButSIZ+HoIDZzI7/w0c+F6GrwfCP/0NIhdH1vVVVbb/1QG8IRjZ9CeIQmOS1tXJk7vFTBDW4bd0ndwk4JinQmQhCWFPB06rMJ9s9YByxjWsSNsc5Uu9OKL625vjYeyfhNDlklbfn1RwnZaA5vAX6oH5YA9KXaMmjWwB5MlIU6pra5PhkqPgzoolnBG/amXjEFdAUs9X0yna73agmExGb7y4NYcvEYtdvERBl0LeZvGAEEqCy/ku1DDi+7rc9LzCbbRacs3edvGWzHZS8s1UsECHB8SKjUYhZdhSEf9e8wnNTl8ZF//kJw/RFq7NGb20J5m7EQrrWPB34B6R3HTKQ9YogMCaDXsDo0jcY3Ei+yG6F+y0JXY5cCjaPwcSXq4ccOBUUeQ5VdGS/zoNEHswQigQ==;fv8CDIe4G6R60uMkkYvuMA=="
 ---

@@ -50,6 +50,15 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "AI Dubbing Startup, Papercup, Raises USD 20 Million in Series A"
+    excerpt: "UK dubbing startup, Papercup, raises $20 million in oversubscribed series A; credits strong position to human-in-the-loop."
+    publishedDateTime: 2022-06-09T10:46:00Z
+    webUrl: "https://slator.com/ai-dubbing-startup-papercup-raises-usd-20-million-in-series-a/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 17
 
 secured: "o3yXqDVfdVHrXzXb3OJHIg2gV9akuRQCN8EqFB0Mn+JngKvETCEu5akIzJhcDf/pGug5xKZOtiAIUwGBGfmj5w8k5GrS+t2NaMv+h+raemxDibqvCffBImZBsFM4MVVJwFPb2at/cr/vGu3SkJcgJ7lDSzfbDki4RQqYeLgn7EigWzlhBt5i2dq4SmxoYX66U2D7rcORL2Rih6E3+iYQ2q9Chtr5ij9kcHIptEtRyWpmnN0r7yu1o1O4JjMnthppXyuRpgRKP34s28HOIPaCeN4NIBi6Axs/n5PERzxhfw4el8k0kOg+6ANPuMIX4IpwLoe6fSjqKwfmNXpMpASze7ympPXs7n7DMY+bRF4SX5EESvLytHKMPdi4qIyN5/2W3Ayj4SM8A5BDYZmYyG6DCmklR8e/5kbyG5z81X4FPNCnzwLqVPnqaCG4vaSfS1QYdVJAThdo+b/l+ZNmbDyQQW/VkkpfSLuVBw7yBg4bdT+MvTQLAcZAGrWgMur3FFf4nHoGUHM4X6cCL1DvLNKZEw==;l6S5mBcO/KXI1pc6ZWHDbQ=="
 ---

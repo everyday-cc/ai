@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T17:50:00Z
 originalUrl: "https://www.villagevoice.com/2022/06/13/nerding-out-with-the-boys-obi-wan-kenobi-and-robots/"
 webUrl: "https://www.villagevoice.com/2022/06/13/nerding-out-with-the-boys-obi-wan-kenobi-and-robots/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Village Voice

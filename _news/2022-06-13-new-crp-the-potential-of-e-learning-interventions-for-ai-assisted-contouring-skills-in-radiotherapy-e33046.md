@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-13T15:41:00Z
 originalUrl: "https://www.iaea.org/newscenter/news/new-crp-the-potential-of-e-learning-interventions-for-ai-assisted-contouring-skills-in-radiotherapy-e33046"
 webUrl: "https://www.iaea.org/newscenter/news/new-crp-the-potential-of-e-learning-interventions-for-ai-assisted-contouring-skills-in-radiotherapy-e33046"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:

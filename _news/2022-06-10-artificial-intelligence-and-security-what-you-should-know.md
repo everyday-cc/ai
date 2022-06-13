@@ -43,6 +43,15 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "How AI and bots strengthen endpoint security"
+    excerpt: "Fast-growing ransomware, malware and endpoint-directed breach attempts are reordering the threat landscape in 2022 which is calling for rapid changes in endpoint security."
+    publishedDateTime: 2022-06-13T18:46:00Z
+    webUrl: "https://venturebeat.com/2022/06/13/how-ai-and-bots-strengthen-endpoint-security/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security"
     excerpt: "Lacework's Mark Nunnikhoven joins Dark Reading's Terry Sweeney at Dark Reading News Desk during RSA Conference to talk about AI and cloud security."
     publishedDateTime: 2022-06-09T16:30:00Z

@@ -188,22 +188,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Google engineer put on leave after saying AI chatbot has become sentient"
-    excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
-    publishedDateTime: 2022-06-12T19:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?ref=biztoc.com&curator=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/7336beee11491fda7785ab0c752051f24948f771/5_0_2037_1223/master/2037.jpg?width=620&quality=85&auto=format&fit=max&s=02daebd836e5c0a47db0cd64bd8d216c"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google suspends veteran engineer over claims that AI-chatbot is sentient"
     excerpt: "Google engineer Blake Lemoine presented his findings to the company in April but has now put some conversations with the bot in the public domain for all to see."
     publishedDateTime: 2022-06-13T09:46:00Z
@@ -220,6 +204,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Google Engineer Suspended After Saying Company AI is Sentient"
+    excerpt: "Google suspended an engineer last week for publicly revealing details of a chatbot powered by artificial intelligence in violation of the search giant's confidentiality policies,"
+    publishedDateTime: 2022-06-13T18:07:00Z
+    webUrl: "https://www.cnet.com/tech/google-engineer-suspended-after-saying-company-ai-is-sentient/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "Google engineer put on leave after claiming new AI programme told him it was 'conscious'"
     excerpt: "A GOOGLE engineer has been put on leave after claiming the artificial intelligence (AI) chatbot he was working on told him it was \"conscious\"."
     publishedDateTime: 2022-06-13T07:46:00Z
@@ -293,6 +286,20 @@ related:
       - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/13-06-22-ai.jpg"
         width: 740
         height: 400
+        isCached: true
+  - title: "Engineer at Google Fired for Saying AI at Company Is Sentient"
+    excerpt: "Google dismissed an employee for violating the search giant’s confidentiality regulations by publicly disclosing information of a chatbot driven by artificial intelligence. This is the latest disturbance to Google’s AI department."
+    publishedDateTime: 2022-06-13T20:53:00Z
+    webUrl: "https://bestgamingpro.com/engineer-at-google-fired-for-saying-ai-at-company-is-sentient/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 41
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-Engineer-Suspended-After-Saying-Company-AI-Is-Sentient.png"
+        width: 600
+        height: 365
         isCached: true
   - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
     excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”."
@@ -442,6 +449,33 @@ related:
       name: NZCity
       domain: nzcity.co.nz
     quality: 17
+  - title: "Google engineer put on leave after saying AI chatbot has become sentient"
+    excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
+    publishedDateTime: 2022-06-12T19:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
+  - title: "Google AI 'is sentient,' software engineer claims before being suspended"
+    excerpt: "A senior software engineer at Google was suspended on Monday (June 13) after sharing transcripts of a conversation with an artificial intelligence (AI) that he claimed to be \"sentient,\" according to media reports."
+    publishedDateTime: 2022-06-13T19:01:00Z
+    webUrl: "https://www.livescience.com/google-sentient-ai-lamda-lemoine"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 16
+  - title: "Sentient AI? Google Suspends Engineer over Claims LaMDA AI Is a Person with Rights"
+    excerpt: "It’s commonly said AI is being overhyped, but even so, some claims can get you in trouble. That’s the irony of a situation Google finds itself in. The company has suspended one its software engineers who claimed  its natural language processing chatbot,"
+    publishedDateTime: 2022-06-13T18:33:00Z
+    webUrl: "https://insidehpc.com/2022/06/sentient-ai-google-suspends-engineer-over-claims-lamda-ai-is-a-person-with-rights/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 15
   - title: "Google Engineer Put On Leave Claims A Self-Aware AI Wants To Be Known As An Employee"
     excerpt: "According to AI Ethics Researcher, Blake Lemoine, Google's LaMDA AI chat bot tool wants to be considered sentient. Through conversations and research with Google's LaMDA, Lemoine claims that not only is it sentient,"
     publishedDateTime: 2022-06-12T18:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-m
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu's electric vehicle firm Jidu unveils first 'robot' car"
-    excerpt: "Besides equipping the vehicle with autonomous driving software technology powered by Baidu, Jidu will also build two lidars and 12 cameras alongside the car. Lidars are detection systems ..."
-    publishedDateTime: 2022-06-09T03:09:00Z
-    webUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 56
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/200609_robot%20car.png?h=9a34780c&itok=6MDqmIDk"
-        width: 600
-        height: 316
-        isCached: true
   - title: "L2 and L2+ Autonomous Driving Market May See a Big Move | Tesla, Baidu, Cadillac"
     excerpt: "Advance Market Analytics published a new research publication on “L2 and L2+ Autonomous Driving Market Insights, to 2027″ with 232 pages and enriched with self-explained Tables and charts in ..."
     publishedDateTime: 2022-06-10T10:50:00Z

@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Why You Need an AI Ethics Committee"
+    excerpt: "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ..."
+    publishedDateTime: 2022-06-13T18:36:00Z
+    webUrl: "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
 
 secured: "czSQ3dCZuLj5RIcoCCYlgXtCpTb758Cpu8x72LzGBYFltnPHG37WlIw3T8NZ2xNWYTbGE3lA0sIVT4fZpsKDCyuE0uouRbqqQaD4e7dr0G/gH/trpSN/Hbs0VYGFiL1q6htz3w5p+aiAkhjwhYv5Fm9wSV5G6rVNx3w6wgHJBiGvM6BGvpmFLHGEjMY4HlJi3ZmEI0hOiEm4phPHdk+e7Te7k3M5FrXzwkdTOe57kyEy0lTlXIvXR1BzNTtRLHgBIuG5cacil7XjAIWSCk1QbU+5QflhT9AC/JnKPzJlcrCUJOYCgZ9uJJVwuqs1O9UUXMRuP7QZLRF4U4fPd5NPbRmzNHjSJ/++uoxeUO5zNUHBBt/9NcUx9506OCKAWcCZqr8J5ot7x3/jkpbjGgJNC/fpTvUvbSzG3wbHm+d4EW8oeyiMSmoNkCk904JTdUaxKbci/ek5x0VsLwbDO/lRlRuY9vXitXecfAJe+pI8fErSZuBIeO4eJljoowT8xoRm5t1VFFhzDY2ts5BvY3OJqQ==;nWcDgBGTxFzZsQOokaDLmQ=="
 ---

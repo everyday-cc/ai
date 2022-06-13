@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T18:34:00Z
 originalUrl: "https://www.massdevice.com/ge-healthcare-allia-platform-image-guided-therapies/"
 webUrl: "https://www.massdevice.com/ge-healthcare-allia-platform-image-guided-therapies/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MassDevice

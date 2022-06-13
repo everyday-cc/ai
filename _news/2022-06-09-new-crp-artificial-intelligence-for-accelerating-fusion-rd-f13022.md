@@ -27,7 +27,7 @@ related:
     provider:
       name: iaea.org
       domain: iaea.org
-    quality: 35
+    quality: 37
     images:
       - url: "https://www.iaea.org/sites/default/files/34009584775184e24acfdk.jpg"
         width: 2048

@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Spotify to acquire AI voice platform Sonantic"
+    excerpt: "Swedish music streaming platform Spotify on Monday announced to acquire AI voice platform Sonantic for an undisclosed sum. London-based startup Sonatic helps creates compelling, nuanced ..."
+    publishedDateTime: 2022-06-13T19:55:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220614/3951845.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
+
 secured: "TyUOMiAbtQXPKJqQ6ITO+5YHTwpJi90YRP0akR3ude9UgWW09xe6Rb128vqTxbmFEgq3Sjm4DNVEYiTWPI4HYROgRJG5qvAWYzJiJFs3RF6wddAIIosYKXuxuEuEyvvhw/jl5+MAOBDrEjYOUfFzjQHFKOHOj5zMu4CY2VrJC36jEEtd0o54DlsrckVdWoZG9PJKwn8VuTNbmauatmqFQbPObZ5nHlO+PO5dCXFEEXFx4V3r2qWUrInG80BjinnOxQV+SLtCCR/NZz2I8tlzgsA+pXkvVnc0H89Opa9Sh1nt8YpJJNWnIUaOprlyibZf2IrGk5BKfPThOAZ9bkTRFPVPWhujJFwH/dJBf+NcUreIstYLreO7RHn6Md5qb4bzLceJDFgLDbWMZJD4zX2mri0y4IEigFQX8tgDirS1Tf7SYA/8ruCmvukgRMmTY9Z4df+23sGpfULEkNRNT/IM8KuV501W9ejrISDXgYIgjgeCQqms0fLf0B/2MRFePGwK9CXRrdb1hrmMwV1A5y7X7g==;MJxRajpDVRuRUZPtSv2tVg=="
 ---
 

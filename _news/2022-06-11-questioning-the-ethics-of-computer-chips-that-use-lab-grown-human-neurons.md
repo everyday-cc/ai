@@ -8,9 +8,9 @@ webUrl: "https://interestingengineering.com/ethics-computer-chips-human-neurons"
 ampWebUrl: "https://amp.interestingengineering.com/ethics-computer-chips-human-neurons"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ethics-computer-chips-human-neurons"
 type: article
-quality: 58
-heat: 58
-published: false
+quality: 75
+heat: 75
+published: true
 
 provider:
   name: Interesting Engineering

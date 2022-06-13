@@ -36,7 +36,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/new-hardware-architect.jpg"
         width: 544

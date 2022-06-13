@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T11:18:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-13-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-thus-far"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-13-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-thus-far"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Daily Herald
