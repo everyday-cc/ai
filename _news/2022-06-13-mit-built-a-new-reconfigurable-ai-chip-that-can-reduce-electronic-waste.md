@@ -8,7 +8,7 @@ webUrl: "https://interestingengineering.com/mit-reconfigurable-ai-chip"
 ampWebUrl: "https://amp.interestingengineering.com/mit-reconfigurable-ai-chip"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/mit-reconfigurable-ai-chip"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/img/iea/r1OrrxbEOn/sizes/untitled-1-26_resize_md.jpg"
@@ -44,6 +45,6 @@ related:
         height: 727
         isCached: true
 
-secured: "UPwZVadWidw9h1o4JJvPy6IP7xgB1so6a+zm8kMwvWs1g6+bSXdL8F1J+pwlY9M5oX7U3nX5LDIdYJz/k9jqfGOfhtFvAi7cBHS4mm4Gl3/+by5l2r3RSBFKZd/k5qXaLX5jUB5B8tL/gvJPFt63thuln3+7BXwZG04HwJUSczX2/kZtpJUp1CViUvZtzFiF2cLJQ9QGlIqQbsuyV4xNfaX6w9MZWQ6qUGWLEKQsTfD6nryeSLN1ZnJ9mqZehQ3E5uN32lWkuVTnZaKevGJOInPPH+DyFNE22RjUkYPHmk38tSdKAaQEdodxEXJc3Hxx0O+WNQhCu+z5am59Ii+HMuDnGqnmtbd+wqAKSw0v2R4=;YhUuYEQPGV/jdsCPBUXvsg=="
+secured: "h5Z9ChLCUTO6BgQJNP9Qx10YD4cP0VIHqrzM2LxnijgC/oPcWEdwXxZn25NY2WWz5fGvkfg81g0iIqaK0ylgDX+qDboWGEcu/eu9AnGN/9wVkOklSVTdFz8x6aABJp6H9TKVq6ruDuTfh2G1Rqo+uziZiO9j/YLg/kWOGpfcuhWcVSu9uyaX6pIEmc7NinxoFxCOitBZS3MvhkuuWHlKF4SEvcAouyn+/1u19qHgkcFlmavK404XQIsRAcG/UfmavK+OeTTADW70iZsNKRVrQOQCb6BxqGin6eA+ubkKw8QDvT7ftmGHmB3GKpiF/VNOMXi2it4HVOTGVffYO7BxUM2nlZ8IDBBOJBJWXU3iJ+qZJtdKLgarn4v8mfBE84eclYc5sk/zWW1jEydFnkDbvFKKlTYZnuMh12Uvyk1Ew9h2DdtRTKLX+gCcbW3AqIvnx3t7ytApBNz3+aijYwjlRI6fFK7PMSmBKSZPJ3nTl531R08UIpNS5JUsVJJogwZB7hiyx5HDbDWFh7TqBU9img==;SipkI6kynD2zvfpjblursQ=="
 ---
 

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "New Microsoft Teams AI feature could kill the need for a headset"
+    excerpt: "Microsoft said Monday that it's using AI to improve Microsoft Teams calls further, with better two-way voice, echo cancellation, and smoother screen sharing."
+    publishedDateTime: 2022-06-13T17:37:00Z
+    webUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html"
+    ampWebUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 106
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2022/06/Crisp-smooth-1536x864-1-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How Microsoft Teams uses AI and machine learning to improve calls and meetings"
     excerpt: "Disruptive echo effects, poor room acoustics, and choppy videos are some common issues that can detract from the effectiveness of online calls and meetings. Through AI and machine learning, which have become fundamental to our strategy for continual improvement,"
     publishedDateTime: 2022-06-13T13:00:00Z

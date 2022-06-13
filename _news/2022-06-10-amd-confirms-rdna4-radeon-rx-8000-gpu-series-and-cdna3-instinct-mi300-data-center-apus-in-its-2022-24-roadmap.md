@@ -43,6 +43,22 @@ related:
         width: 718
         height: 481
         isCached: true
+  - title: "AMD Roadmaps Lead To Mountains Of Money"
+    excerpt: "And frankly, there is enough AI market to chase with Instinct GPUs and the DSP-based ... All three vendors are putting together hybrid CPU-GPU complexes for the next year and beyond, too, which we will discuss in detail in our roadmap discussion."
+    publishedDateTime: 2022-06-10T17:37:00Z
+    webUrl: "https://www.nextplatform.com/2022/06/10/amd-roadmaps-lead-to-mountains-of-money/"
+    ampWebUrl: "https://www.nextplatform.com/2022/06/10/amd-roadmaps-lead-to-mountains-of-money/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/06/10/amd-roadmaps-lead-to-mountains-of-money/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/amd-fad-2022-lisa-su.jpg"
+        width: 914
+        height: 510
+        isCached: true
   - title: "AMD wants to double revenue by 2025 with its data center and AI chips"
     excerpt: "At AMD's first financial analyst day in two years, executives said the future of the company is the data center."
     publishedDateTime: 2022-06-10T18:29:00Z

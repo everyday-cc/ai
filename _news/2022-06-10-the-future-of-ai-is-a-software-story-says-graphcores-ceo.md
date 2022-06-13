@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "Artificial intelligence is shaping the Future of Healthcare Industry"
+    excerpt: "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges."
+    publishedDateTime: 2022-06-11T17:20:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 74
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg"
+        width: 800
+        height: 350
+        isCached: true
   - title: "Google lost the battle for machine learning to Meta, insiders say. Now it's betting the future of its own products on a new internal AI project."
     excerpt: "Google is pushing a new project to replace TensorFlow. But it will be a major challenge to unseat Meta's PyTorch, which has won over developers."
     publishedDateTime: 2022-06-13T12:30:00Z
@@ -73,6 +89,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
         width: 1200
         height: 676
+        isCached: true
+  - title: "3 key trends that show AI and data are changing the face of medicine"
+    excerpt: "Data and artificial intelligence are transforming the healthcare industry in many ways. The recent Stat Health Tech Summit, organised by the health publication Stat and held in San Francisco, California,"
+    publishedDateTime: 2022-06-10T02:20:00Z
+    webUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/20220610_data_pixabay.jpg?itok=x3RtfF91"
+        width: 800
+        height: 567
         isCached: true
   - title: "How HR can mitigate the risks and reap the rewards of AI at work"
     excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."

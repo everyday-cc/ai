@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
-excerpt: "French fintech Defacto wants to bring embedded finance lending to small- and medium-sized businesses in Europe."
-publishedDateTime: 2022-06-07T08:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6"
-webUrl: "https://markets.businessinsider.com/news/stocks/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6"
+excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."
+publishedDateTime: 2022-06-07T09:01:00Z
+originalUrl: "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6"
+webUrl: "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "eO6N9e0TWF9Q6+PTyHqu696PGHkFFQjWsGXD38E1t6SpAfYBhpy2wtJ8rkOSSBSBXiIwJilxDan7Z4Rj7J0AxfbUxDt09hvF6MlcYuIJT075NZKNf868e4K+CKWojojowx83UHt1/GDzjyilMxvRZyMcRRvs90xOyloIhYxZImtyUzxJ74mAgXK6KwOAflbjQu5868eNMcukH1YBleqJ4hjLB6m9t8I/gv6Z63uq5o8+vyU2LPKHwdxy7+rrKj5ns1KQ4SENbvLdy7h3SL/WJtMCS2pnT2uwwIsuLEdEL26Csz4+SRmLZCSVDnn6QaYcHRBEp1Xsl7z0oYMHDvWLBD6nuajn3gs8MKtXI5tl4ow=;a1zXjs3VyqhGzGDMrSnuew=="
+secured: "EgbxASN+9tm9cfqYHRMz4NfsNN1aiI8Rr9gp42kXv18qMmcFXO5ObMXy0mcPNMZ6+iYpCUVW0ol3M20qURqYGr9hm1/RO3x3UHQUUvmGwVXS9qGiD9SvaiaNntb+V3s15PQQdPZO5efHT4qtQcO7gMqdvIGB5xAZHeOB4U3gJ7v5+Xd4IPbDtqRWrKG6WthcORddN6ZMqlOLigOWZ29xOEeCl2EwiitN+6hMImwofHKfN4wRD1JmIYwvmrdj2H8w/wuHN1VVHk4vdBVflvOIrogNf2POIN2zShiEdvCqIHxAEChC9ZA7sHpcc+QD6JuMJKIAvdAhmtLTnWzUukc/qv3jw3pvi0QcerbW6+nNieo=;YwlDAkY8qXTedn1jfeAQpQ=="
 ---
 

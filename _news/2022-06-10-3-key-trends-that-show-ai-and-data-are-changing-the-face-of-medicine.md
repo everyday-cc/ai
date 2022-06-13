@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI, data are transforming healthcare: three key trends that could change the face of medicine"
-    excerpt: "The Stat Health Tech Summit in the United States put inventors with some great ideas for changing healthcare into the spotlight. We take a look at three highlights."
-    publishedDateTime: 2022-06-08T23:15:00Z
-    webUrl: "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends"
-    ampWebUrl: "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends"
+  - title: "How AI is shaping the future of work"
+    excerpt: "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise."
+    publishedDateTime: 2022-06-09T15:20:00Z
+    webUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/"
+    ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 93
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/b9326f2e-f80e-45be-bac9-18ac2f181fff_205e9f0b.jpg?itok=Lb076e6s&v=1654657778"
+      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Lucem Health™ Launches Innovation Collaborative to Offer AI/ML to the Front Lines of Healthcare"
-    excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative,  a partner program designed to move clinical AI/ML innovation to"
-    publishedDateTime: 2022-06-12T15:10:00Z
-    webUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/"
-    ampWebUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 79
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Lucem-Health-Announces-Innovation-Collaborative-to-Bring-AI-ML-to-the-Front-Lines-of-Healthcare.png"
-        width: 700
-        height: 400
+        height: 850
         isCached: true
   - title: "Artificial intelligence is shaping the Future of Healthcare Industry"
     excerpt: "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges."
@@ -73,61 +57,108 @@ related:
         width: 800
         height: 350
         isCached: true
-  - title: "Your Health: Artificial intelligence for surgery training"
-    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose disease in early stages. Now it’s newest use can give patients more control over"
-    publishedDateTime: 2022-06-12T22:21:00Z
-    webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/"
-    ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
-    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
+  - title: "The future of AI is a software story, says Graphcore's CEO"
+    excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
+    publishedDateTime: 2022-06-10T13:42:00Z
+    webUrl: "https://www.zdnet.com/article/the-future-of-ai-is-a-software-story-says-graphcores-ceo/"
     type: article
     provider:
-      name: yourerie
-      domain: yourerie.com
-    quality: 72
+      name: ZDNet
+      domain: zdnet.com
+    quality: 71
     images:
-      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/06/Your-Health-Artificial-intelligence-for-surgery-training.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Smarter health: Regulating AI in health care"
-    excerpt: "Health care is heavily regulated. But can the FDA effectively regulate AI in health care? It's episode three of our series “Smarter health.\""
-    publishedDateTime: 2022-06-10T04:24:00Z
-    webUrl: "https://www.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
-    ampWebUrl: "https://amp.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
+  - title: "Google lost the battle for machine learning to Meta, insiders say. Now it's betting the future of its own products on a new internal AI project."
+    excerpt: "Google is pushing a new project to replace TensorFlow. But it will be a major challenge to unseat Meta's PyTorch, which has won over developers."
+    publishedDateTime: 2022-06-13T12:30:00Z
+    webUrl: "https://www.businessinsider.com/facebook-pytorch-beat-google-tensorflow-jax-meta-ai-2022-6"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
     images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/1000x667px_Ep2_Ethics_OPP-2.png"
-        width: 1000
-        height: 667
+      - url: "https://i.insider.com/62a3a279a464ed00195811a6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Healthcare AI startup Olive to freeze hiring"
-    excerpt: "Olive, a tech startup that uses artificial intelligence to automate healthcare tasks, said it is freezing new hires amid a wave of digital health companies laying off employees and tech giants slowing their hiring. \"Olive regularly evaluates its hiring ..."
-    publishedDateTime: 2022-06-09T15:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-ai-startup-olive-to-freeze-hiring.html"
+  - title: "Creating art with the help of artificial intelligence: Is AI the future of art?"
+    excerpt: "Some insist that the artist is still central to the process, even if their working methods are not traditional."
+    publishedDateTime: 2022-06-12T05:03:00Z
+    webUrl: "https://cnalifestyle.channelnewsasia.com/entertainment/creating-art-help-artificial-intelligence-ai-future-art-315961"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 48
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Lucem Health™ Announces Innovation Collaborative to Bring AI/ML to the Front Lines of Healthcare"
-    excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative, a partner program designed to move clinical AI/ML innovation to the front lines of healthcare. The Collaborative will help digital health innovators create,"
-    publishedDateTime: 2022-06-09T14:55:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-a4048c5cc37398cb719c85b49d3f5508"
+  - title: "How HR can mitigate the risks and reap the rewards of AI at work"
+    excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
+    publishedDateTime: 2022-06-10T08:31:00Z
+    webUrl: "https://www.personneltoday.com/hr/hr-artificial-intelligence-human-resources-ai-risks-recruitment-redundancy/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
+      name: Personnel Today
+      domain: personneltoday.com
+    quality: 37
+    images:
+      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2022/06/shutterstock_519499720.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Prof Mike Sharples: will AI do all our writing in the future?"
+    excerpt: "Computers might be close to being able to write better than humans, but not without dropping some real clangers. Recently developed AI technology uses 'deep learning' - machine learning featuring artificial neural networks - to produce text."
+    publishedDateTime: 2022-06-10T23:28:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018845476/prof-mike-sharples-will-ai-do-all-our-writing-in-the-future"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 37
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--qYKg59o2--/c_scale,f_auto,q_auto,w_1050/4LW5H1P_image_crop_138544"
+        width: 1050
+        height: 559
+        isCached: true
+  - title: "The big question: is AI the future of art?"
+    excerpt: "In the 'generative art' movement, artists create rules for computers which then use algorithms to generate new forms, ideas and patterns"
+    publishedDateTime: 2022-06-13T09:16:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/culture/2022/06/13/the-big-question-is-ai-the-future-of-art"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/13/1620918.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "How Artificial Intelligence is Affecting First-Time Home Buyers"
+    excerpt: "New software technologies like artificial intelligence are getting smarter every day. Here’s how AI has the potential to affect first time home buyers."
+    publishedDateTime: 2022-06-13T13:07:00Z
+    webUrl: "https://realtybiznews.com/how-artificial-intelligence-is-affecting-first-time-home-buyers/98771996/"
+    type: article
+    provider:
+      name: Realty Biz News
+      domain: realtybiznews.com
+    quality: 21
+  - title: "Is AI the future of art? Field attracts huge interest, even bigger price tags"
+    excerpt: "The field has begun to attract huge interest among art collectors – and even bigger price tags at auction. US artist and programmer Robbie Barrat—a prodigy still only 22 years old—sold a work called “Nude Portrait#7Frame#64” at Sotheby’s in March for £630,"
+    publishedDateTime: 2022-06-12T10:40:00Z
+    webUrl: "https://manilastandard.net/news/314235526/is-ai-the-future-of-art-field-attracts-huge-interest-even-bigger-price-tags.html"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 14
 
 secured: "nNasYxwIl9cwVhJeccK5HNs48f8bNe+y1m+Lu2tcdqzFWOID2Py+78+CY6YzFwa7X5U5hgJpRNRBytfoInRab9flwiDLZhkldCQdtIuhcXJvr+r7IeZ8ZoMYflavV4wligQIOaQZNI+2pBA2Ubw10qzcPS0PsL/wf2CgEV3WiFapmvkaxo251ijtllaV51US9e/V/6QRIhh56jIiCeHPQD+2+IjepT/MZk+SOujtiNHq+12ChkvH4aem5HsrGz7p0zVkySGfo0XFB1QgZbMgV9ovBZjmT2UnyTZBvqJTqM4746wGDlfNb+l1SYnnTccvvx+GPmr/N0P61RPZrP+SMdbqWp30jD45ynOmpwlaer4=;nZkKdOMNfnG6W9N7jDSHVg=="
 ---

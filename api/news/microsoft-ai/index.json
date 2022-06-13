@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-13-how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings.md",
-      "title": "How Microsoft Teams uses AI and machine learning to improve calls and meetings",
-      "excerpt": "Disruptive echo effects, poor room acoustics, and choppy videos are some common issues that can detract from the effectiveness of online calls and meetings. Through AI and machine learning, which have become fundamental to our strategy for continual improvement,",
+      "path": "_news/2022-06-14-new-microsoft-teams-ai-feature-could-kill-the-need-for-a-headset.md",
+      "title": "New Microsoft Teams AI feature could kill the need for a headset",
+      "excerpt": "Microsoft said Monday that it's using AI to improve Microsoft Teams calls further, with better two-way voice, echo cancellation, and smoother screen sharing.",
       "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings/",
-      "originalUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings/",
+      "webUrl": "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html",
+      "originalUrl": "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 156,
       "tags": null,
       "images": [
         {
-          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/uploads/prod/sites/2/2022/06/CLO22_HotDesking_012.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/06/Crisp-smooth-1536x864-1-1.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T06:00:00-07:00",
+      "ampWebUrl": "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp",
+      "publishedDateTime": "2022-06-13T10:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "PC World",
+        "domain": "pcworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,50 +49,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-supporting-openehr-with-azure-health-data-services.md",
-      "title": "Supporting openEHR with Azure Health Data Services",
-      "excerpt": "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/supporting-openehr-with-azure-health-data-services/",
-      "originalUrl": "https://azure.microsoft.com/blog/supporting-openehr-with-azure-health-data-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T01:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI Hardware",
         "AI",
         "Microsoft AI"
       ]
@@ -1291,6 +1248,40 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-seniors-should-pick-a-financial-ally-before-cognitive-decline-hits-heres-how.md",
+      "title": "Seniors Should Pick a Financial Ally Before Cognitive Decline Hits. Here’s How.",
+      "excerpt": "Seniors often wait too long to simplify their finances, communicate financial goals, and eventually sign a power-of-attorney document that names someone to manage their money if they’re no ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
+      "originalUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

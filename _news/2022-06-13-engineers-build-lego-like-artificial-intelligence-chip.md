@@ -39,13 +39,13 @@ related:
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/r1OrrxbEOn/sizes/untitled-1-26_resize_md.jpg"
         width: 744
         height: 419
         isCached: true
 
-secured: "rqXjU5nDmgBlETcbP562gcfk/gAQ+PH7n5xFMESaR2cENXBU7N8Znphh+uz6Gg5SKYxo6EP880rVcWI7za5vr0U1ZoC04yXjaTu00GqD7F9nQLuwx3IaLI9kHrZ2X7jDE5+Ip0xj1V7enLyfDtZGWnEPxN5BufeWpXJc5MFYLMMVHwdNzI/7cpErO56pzbC9wtFITfMqdY31soF36z0wNwHkrjVNvMOVG2NQX63vC3Pp1YeGKm9xl0MHW0v1k2aqf5b9SqPLAcbt/8L342PyW3lVg2/xgxOs7fwP+ATT//MErenxoKkp/MMyVBnLWXKIegQy+9Hck8gSNSWFsQdPm0dN/s9h1e3xPashLxLdsSQ=;wYFI3CkYwfNLd3hEb5k9eg=="
+secured: "dEPHnKSC59w9s6nGQY8OYDZqq7Xx0th45mCWZXqzMCm4XRSPdgbzEIqFgwhFyI6Xd6oIrCnvGQuQRsZltA35TtfDPZV3uDuwBWQIMQ6Usp94tF6wFGW2JtWJrGthsZt6vuHGdv8IpS/iGNf7lbC3EmXt8rXCNcxBINVZ+L5Fbuvz8UH1jc4Kx5EkOlMArlB/HWOJrQWSRF2m6ZkopO9BOb1G8hJXo+00gYkapSDfz5Y35M6IVJsYZwHbH9dQrXkGtXrx3yilnUQYPkImzVHpwVQEwMuvqs0funyvSAxu88OqRwvRPeEmVDCoAz5eJYyBmNJ/lLdiUMw3aqDMdvtz7WThYAPBuy287MgBQm6hKixjnGgJHXPFGOotZO0FVr5DEGhs8+0atUYgiCJIFZvftVTlpwkaLB21C8k22lt90zPMVUmykpDJYG3k9nOOE7E2BNLAUrO7z74J0Q+TQHd1GPG9JPetRjPPamj2ZPoq71KkIirD+Sa4QA4/CGcux76f2Kubd1M8a4MsKlp5WncP4A==;dZQqOms8M2xA3MYLrCVEdw=="
 ---
 

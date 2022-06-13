@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Renesas to Acquire Reality AI to Bring Advanced Signal Processing and Intelligence to the Endpoint"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced it has entered into a definitive agreement with Reality Analytics, Inc. (Reality AI),"
-    publishedDateTime: 2022-06-09T00:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-renesas-electronics-corp-business-artificial-intelligence-99ac48369efa4fd584560e53fb046fb4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Renesas to acquire Reality AI"
     excerpt: "Renesas Electronics Corp., global supplier of advanced semiconductor solutions, announced it has entered into a definitive agreement with Reality Analytics Inc. (Reality AI), a leading provider of embedded AI solutions."
     publishedDateTime: 2022-06-10T13:45:00Z

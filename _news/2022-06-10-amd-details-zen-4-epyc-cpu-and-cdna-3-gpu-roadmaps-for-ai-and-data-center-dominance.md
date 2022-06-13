@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-g
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AMD Roadmaps Lead To Mountains Of Money"
+    excerpt: "And frankly, there is enough AI market to chase with Instinct GPUs and the DSP-based ... All three vendors are putting together hybrid CPU-GPU complexes for the next year and beyond, too, which we will discuss in detail in our roadmap discussion."
+    publishedDateTime: 2022-06-10T17:37:00Z
+    webUrl: "https://www.nextplatform.com/2022/06/10/amd-roadmaps-lead-to-mountains-of-money/"
+    ampWebUrl: "https://www.nextplatform.com/2022/06/10/amd-roadmaps-lead-to-mountains-of-money/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/06/10/amd-roadmaps-lead-to-mountains-of-money/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/amd-fad-2022-lisa-su.jpg"
+        width: 914
+        height: 510
+        isCached: true
   - title: "AMD confirms RDNA4 Radeon RX 8000 GPU series and CDNA3 Instinct MI300 Data Center APUs in its 2022-24 Roadmap"
     excerpt: "AMD appears to be planning to use the same graphic design for RDNA 4 across its entire Navi 4X series, with no refreshes from previous GPU architectures like RDNA 3 or RDNA 2. For its MCM processors,"
     publishedDateTime: 2022-06-10T06:39:00Z

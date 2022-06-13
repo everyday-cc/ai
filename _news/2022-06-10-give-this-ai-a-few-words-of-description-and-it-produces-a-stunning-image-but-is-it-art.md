@@ -32,15 +32,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Predictiv AI Announces Cease Trade Order And Provides Update To Shareholders On Status Of Financial Statement Filings"
-    excerpt: "TORONTO, ON / ACCESSWIRE / June 8, 2022 / Predictiv AI Inc. (TSXV:PAI); (OTCQB: INOTF); (FSE:71TA) (\"Predictiv AI\" or the \"Company\"),  a software and solutions provider in the artificial intelligence markets,"
-    publishedDateTime: 2022-06-09T00:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-8-predictiv-ai-announces-cease-trade-order-and-provides-update-to-shareholders-on-status-of-financial-statement-filings"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "f25DKaZG6noVIUC7CUujDACnHVhPzOMz7DItNgkGV8MCss4sv6iSdwkNaeoQIS7yuRIbiW9gSyx0wGJB3aSNNHRtFjqfIr36EZMnJlNbQAd5/5R0zgnQkBCWHFDRx5gm4MChzzDM2+5DT6RnWHdDmvZAOrbdRhcBTIEggjkGHDcIqqWRs1wh0YmRLTcswj2Rfb2nfiwBDbvmZtYoVPZQ9lGKcW/F2q0XieShqAuB/P4k2xX7bSzT++0ZxJiSUx8h7+pSzrCTdiMVLG86dFFhbRqZe2VELFpLGTDWeR0K0t5UnYNXUYEg+Ksxn7/xUhgvYrSWMYHP7YGrJpYkiJsm1Puwfmp8tYRlYfqdq4eQUqZE9lO2pRMdQWJUtIQ1A/g5Q9j5WmiBtxorQKHKwB2I/ryBZ2tEg/Kb7BK6HWxzPXPnWGSGa1o7KEMZsc0M5a6cQesUUPvLQlGzrlg0ogbcV3auhaxcS3AGIFNE9GD3zDAfOSNbNEpZ3z+8qUtz3VfCQDj35s0LUMXVJvOloj8ndQ==;vEjuxHpXnBjjzcQ4iCSxBg=="
 ---

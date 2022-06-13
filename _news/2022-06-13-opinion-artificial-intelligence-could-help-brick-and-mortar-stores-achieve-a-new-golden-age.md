@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-13T02:00:00Z
 originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/13/opinion-artificial-intelligence-could-help-brick-and-mortar-stores-achieve-a-new-golden-age"
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/13/opinion-artificial-intelligence-could-help-brick-and-mortar-stores-achieve-a-new-golden-age"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - IBM AI
 
 images:
   - url: "https://apicms.thestar.com.my/uploads/images/2022/06/10/1618316.jpg"

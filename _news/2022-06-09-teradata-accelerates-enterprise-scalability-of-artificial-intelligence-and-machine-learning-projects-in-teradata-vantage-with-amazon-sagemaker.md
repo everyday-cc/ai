@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker"
+    excerpt: "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters)."
+    publishedDateTime: 2022-06-13T17:36:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 114
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/13/billion-parameter-sagemaker.jpg"
+        width: 1247
+        height: 621
+        isCached: true
   - title: "Incremental training with Amazon SageMaker JumpStart"
     excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). SageMaker JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models"
     publishedDateTime: 2022-06-09T21:47:29Z
@@ -69,6 +83,6 @@ related:
         height: 541
         isCached: true
 
-secured: "FOXabk7iwdKwQStSHXax+FSNOUN2sNAMXdKGJnsEUMxYB9/7WIBBtVADFLWmxTJ4RdzUFbvifiMV8AFOXJIzmD+tH5cpAlMqkEjDc8uTa88cnSp20JsTpacAxpc9ZwDn5M4w2ubunPyr3JIQoWz+meF0INOQxCbpg2hQXrCInfUB8OUcXX1EMkf6KXwTc86WTJG67mjoZJCNgK9FDdBekdMVqpQySTWjxtqbrRThlVaLGK9OZa6BPCBCnRAfPnlAdELDc/ZI6Jabu10N5jiGPPSPwTnpN5xgqthpB/BaZbfqNyt+JfC/ISH7iZhUqUmNNuGKvG1Dr3gcmPlbS0pUjw8tzoLwgYky55IwCQBtRQA=;4zP5S7bBc8mVP0olpB0GEQ=="
+secured: "6xICQz40DFykLU+DBEOaU+wMEsVCxGHhVvy2GN2wZD42eYBmfnj5AMrU4d3d8LYgEy/C//ClxwUxRl/5hX6MnUPyoJVAsit6kcwVjONJs7ckCt5HqAnMLUBTULC2anoA8P/yuBtEGibGFzW34Q5wQ91DUZYnCB8cNx3ZZ34KO//Jesccc+BysA9qt3e484kKeoZ6cIO5JBMKGrs68QSmiqvBQi7LrrozzDT5J16pEFpkKtgG3bTw4dBVSB6RjieIUiQi8xkKUwKtzvLTDJDhXERIT70DNFSV5WUHLDcNuqePXpL+AvGJvfnlFVTKWwyqP2yywRGQDoQqMSLrwpLzV8HobW/McYg8Yk+OKHYmfVM=;0IPDyr6TKmmJHxqfdBc4hQ=="
 ---
 

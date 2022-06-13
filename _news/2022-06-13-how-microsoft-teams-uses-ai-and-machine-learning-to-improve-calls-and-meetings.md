@@ -7,8 +7,8 @@ originalUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-
 webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings/"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Microsoft Teams AI feature could kill the need for a headset"
+    excerpt: "Microsoft said Monday that it's using AI to improve Microsoft Teams calls further, with better two-way voice, echo cancellation, and smoother screen sharing."
+    publishedDateTime: 2022-06-13T17:37:00Z
+    webUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html"
+    ampWebUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 106
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2022/06/Crisp-smooth-1536x864-1-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft Teams taps artificial intelligence for headache-free meetings"
     excerpt: "Microsoft Teams continues to improve artificial intelligence and machine learning to help users deal with the biggest video conferencing headaches."
     publishedDateTime: 2022-06-13T13:00:00Z
@@ -77,6 +93,6 @@ related:
       domain: computerworld.com
     quality: 34
 
-secured: "eBQ1drWwfQ7JlxAOc9iKL1uPP/wkINeshsNM5K8D5UE9sC5MsYb7V63c03BqyNcRo9RdmvjrlsqnXoeGwN/yidgEy+Gpqc0O2qWhVYR2+ZyCoF9JJ8jKYPMOzG2FTS++0E4ptLfzHla90FUcELQLN+m0CNHpcN/pYAgzt2AZreU8tdn4anPCIs9txhb4huRzBEzYbcqze89bLOs4kAW1Ks7gz15Ev0e2E8GCWJ3fbO6HBLDEPGdWDGi6kNbtPVnPw1mQ7KnbolRFhVjiV4uuBYW8NTBDC3s8ySfdASaR2cB5adWval2h+ckMLi4zWN3MtRwq1J0vTyVYJsW6CV7OA81j+YExJvbNQBqaXAb6mx8=;akosDr1yVTj4Ah+rbdKabw=="
+secured: "jar0rRS+XejqS5PmL5MEmaTJEwosTIOLUbbbEQ3/X0OiG9VvNL1SRAOqVO9Wa4DuZOJwWjg6fpGvS2gtXh0PemRxv1yLAJHJa6mLafZUApyQMM0uzL8MH1xd9y/b4Ho0rqERP2/7qc3n6LgE1Safv/ZpQgshuO6yb6GXaGJGBU7Zxhp+v6WHQyGvX/GGZzQIVenBePNTlJIn6T0PjlWAnDN59I7V2C7I2kakinVqW2tLFr2qWrPOeyy21qsWm3cULfsjadUxRiYBiQxsZCyOVbCFw9wfqkLjmhz5YKmGkjpvk0ATRWPwq0F9SdW0XDButzjjBmzvVL6yU7KuzcmDj89LYo6c7oINax9oDiOSZ5bZOPgWSfW+XIK2VFrjxQu3NkJo0RC0BoueMjGo2NgdvrUx+UEWpWr/WOQhsKaohsVky+PTlfq2A9YcoCGvNqXDzDo71kpiztXVZtma4dCZyDioc4NH4LdzmEAgYxq37nnsWIjlzoovyIgNoJizTlGaSWzXIEs2j5Gq3MIEfx00Sg==;s8ciAKH01q0O2JJlXxaxSQ=="
 ---
 

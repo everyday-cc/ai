@@ -62,7 +62,7 @@ related:
   - title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
     excerpt: "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine."
     publishedDateTime: 2022-06-12T19:18:00Z
-    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ref=biztoc.com&curator=biztoc.com"
+    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000003"
     ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
     cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
     type: article
@@ -153,6 +153,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Google engineer who thinks company’s AI has come to life put on paid leave"
+    excerpt: "A senior software program engineer at Google was put on “paid administrative leave” last Monday for claiming that an artificial intelligence (AI) chatbot"
+    publishedDateTime: 2022-06-13T15:55:00Z
+    webUrl: "https://www.techworm.net/2022/06/google-engineer-paid-leave-ai-bot.html"
+    ampWebUrl: "https://www.techworm.net/2022/06/google-engineer-paid-leave-ai-bot.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/06/google-engineer-paid-leave-ai-bot.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 57
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/06/Google-AI-Bot.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Has Google's LaMDA artificial intelligence really achieved sentience?"
     excerpt: "Blake Lemoine, an engineer at Google, has claimed that the firm's LaMDA artificial intelligence is sentient, but the expert consensus is that this is not the case"
     publishedDateTime: 2022-06-13T13:26:00Z
@@ -168,22 +184,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/06/13141935/SEI_109536389.jpg?width=1200&enable=upscale"
         width: 1200
         height: 799
-        isCached: true
-  - title: "How does Google’s AI chatbot work – and could it be sentient?"
-    excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
-    publishedDateTime: 2022-06-13T13:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?via=indexdotco"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/0_299_4480_2688/master/4480.jpg?width=620&quality=85&auto=format&fit=max&s=4bc066d4c2db65a9bce46608e151e5bc"
-        width: 620
-        height: 372
         isCached: true
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
@@ -305,17 +305,20 @@ related:
         width: 1240
         height: 700
         isCached: true
-  - title: "Google suspends engineer who claimed company created “sentient” AI"
-    excerpt: "Blake Lemoine, a software engineer on Google’s artificial intelligence development team, has gone public with claims of encountering “sentient” AI on the company’s servers after he was suspended for sharing confidential information about the project with third parties."
-    publishedDateTime: 2022-06-13T05:45:00Z
-    webUrl: "https://mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html"
-    ampWebUrl: "https://mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html/amp"
+  - title: "Has Google really built a sentient AI?"
+    excerpt: "A Google engineer has been put on leave after claiming an artificial intelligence chatbot might be sentient. Is he right? Our CTO Ben Gracewood has opinions. On Sunday, Google engineer Blake Lemoine posted the transcript of a remarkable conversation between himself and a Google AI that he claims to be sentient."
+    publishedDateTime: 2022-06-13T17:04:00Z
+    webUrl: "https://thespinoff.co.nz/tech/14-06-2022/has-google-really-built-a-sentient-ai"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
+      name: The Spinoff
+      domain: thespinoff.co.nz
     quality: 39
+    images:
+      - url: "https://thespinoff.co.nz/_next/static/media/mad-chapman.f3d01208.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Chatbot AI has a mind of its own, Google engineer claims"
     excerpt: "A Google engineer believes a research system for generating chatbots has achieved sentience, but the company says he's mistaken and has placed him on paid leave after he took his case public. Why it matters: People have always been eager to attribute human traits to insensate machines,"
     publishedDateTime: 2022-06-13T10:00:00Z
@@ -418,15 +421,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 19
-  - title: "Google engineer put on leave claims AI bot LaMDA became ‘sentient’"
-    excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, told the Washington Post that he began chatting with the interface LaMDA — Language Model for Dialogue Applications — in fall 2021"
-    publishedDateTime: 2022-06-12T13:43:00Z
-    webUrl: "https://nypost.com/2022/06/12/google-engineer-blake-lemoine-claims-ai-bot-became-sentient/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 17
   - title: "5 things Google’s AI bot wrote that convinced engineer it was sentient"
     excerpt: "Blake Lemoine made headlines after being suspended from Google, following his claims that an artificial intelligence bot had become sentient."
     publishedDateTime: 2022-06-13T12:21:00Z
@@ -445,15 +439,6 @@ related:
       name: NZCity
       domain: nzcity.co.nz
     quality: 17
-  - title: "Google engineer thinks AI bot has become sentient"
-    excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."
-    publishedDateTime: 2022-06-12T19:55:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018845615/google-engineer-thinks-ai-bot-has-become-sentient"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 17
   - title: "Google Engineer Put On Leave Claims A Self-Aware AI Wants To Be Known As An Employee"
     excerpt: "According to AI Ethics Researcher, Blake Lemoine, Google's LaMDA AI chat bot tool wants to be considered sentient. Through conversations and research with Google's LaMDA, Lemoine claims that not only is it sentient,"
     publishedDateTime: 2022-06-12T18:16:00Z
@@ -464,6 +449,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "dXg9kvjQ7PpXWSL4XqnfCTcx60A7Ava72BSNWWVcZvMy3Revbm5MqkDZkUBm5V2g0CBlX7eo7hE3JT/v3LD8tC5awjwYyyfqeGRId8SSDjgRRsPe/mve+wKCE1jg105W8AsY2EGXVB9Ey6x3away8PKImoCe095qIPxqtIXRoP2ESUOhzldidJof43lbV3YYBXyeMrq6hl8MDR/ltDSzCKAIfkIApDKhmPGB5MUPg+lywmM47ixWVmI6ZH0Dsvs+RP7tS8YtgZyGj3x+YC3lwPXR4eTraGfrof74hptI2RqjUfUZW20KWCCvvg5D0nGT8GXQt0qJNhKqp1h3+vTyW8dGiI49PeOTtW1OSod/n+0=;h9tBKcoNTK1Y8XtMenptBg=="
+secured: "Ttl8LOWvSSf9T0V7VqOlddPG8kMexAbrIsVsk3IazyVHUrPNF3EgbBzjse0vJS9+yxb+M5AqlQIOPyOU7AAjR1+OVqpQp+pAd+VolczuDlIXQQzapal5DoD39qXCZo+aIgDPnKSU3zt1X00Q76w2HLzyun/nzUA/SreMM7YbJza7xuCW3mplU654f9Cf5KHdNmuemfIBuvCaxDK5LZ79BXJW1vzwR1mw/FxsntYnKbUworeQK4ow9g75fgJTV6vd609tdc5u0HyYue6M/RXE2953efb0HazLFp1a186Kn6EvbnDcUfr4392K1LN60ND46CFkxHZfvt6Y78k4FEaWq22Sr7FAM0IEQrkvt2WOZtv5qtje7lHWAxnN+S9pgbKwG1YwrK+jVx9Nw9gsubV4a/Cqdd8h8B5mHfX3UR8zbDLFc41JFUUkltCwOk5xQ3c8e+oHVuhCm6sO8q/qdRCvAWYYDJtCQ5J0JMBe8wb/bNF+smqfVSKPgFcITMSlCqalCBSehbC+mCmexOjOj51CzA==;RjqdYukQv05sLu2LuKQA/Q=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005"
 ampWebUrl: "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6c5ee672b2dac87691f1fa8400ddcc62.jpg"
@@ -29,6 +30,6 @@ images:
     height: 533
     isCached: true
 
-secured: "nyXFdUjQ9GHfPaPW/twSZAkNJm9qfVfwQXKnjZn2y/ZSCVAUmzBxWiS4rB87T/nI9mxc7w01+3TEFiC2j3d5ZzS/m99ZvQEPMa2vKxVxCi4PiwhOdVWcnoVMXrUApoRYfyo9VDO/H3QXCqEYfZyF1WWvIYQ5t+dkypPWYZkxh1S2C90OoZ9GTH5Nu9dKRhKlUxeBDnoAc6FrjK3ZbYUjTDiFNu63LJ3JguRG0UVKYJyhP4MDqRPEBiU0WqBV/7WdLCiwxvHfakHZCqnIN+KmowPhe30E9PtstR9wMtsPHJD4Un2Qi73nHMve0ceMjRanbQxACRlCqR572A90Alp+xCHMnkHp3p/gWRiRL+0Pwq4=;OLaVdk5ff0EqMRsURtRizg=="
+secured: "8QKsN0Dw+3OTntwEzaAzhVxfdiIg1YaulZ0dRHGTz0xLvYNAQZOKJiOwc92rb+dCw4RNreReE0yI9yxkaW9buuXn36RrKhCY4M3uhKscI7iNaubsVAjzdhihDl2lWDqkK3yYNf4sSce+NJjWxoRLdDbanj4xKwZ2GkyJiLFGC6LOtYnw/P8apEu6xnnizj5Ite/eW1c5U8W/ZzLAJdYCP+jzocGEFGxGDu3m8qPdXExGYFarZ+v1J+pY0Q72jr2LRTSWb0mCfPHPFgxDtQ45YCaz7XWdq3p8Hcozu9+wVhTnBIIJvCDXqy/XaUkQwZb9Y7KciHHaprEsbYtCXTCaeM0ub+/seJCQasQ1LSpCEC6SCc9IT5V/5hPTc8vjHLQcrjzmvpAxdzjlLaGQ5bNPrEiHFDs2rDqJoEW076dDoHsobQ6b6UegQPnETpBug+tLrXec9F7PwawPLU8cwUAUbAWcrTKwjNkVH/3WnuvYrxfb9cdlD5oVWJQ7bGDNLL/GpHSM2ePFb4xo9KXwcdc0dw==;rsljmlCVjC+uLtB231kH8A=="
 ---
 

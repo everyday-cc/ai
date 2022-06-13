@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-pla
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Insilico raises $60M to invest in AI platform and IPF program"
-    excerpt: "AI-enabled drug discovery company Insilico Medicine Ltd. has raised $60 million in a series D round to support expansion of its pipeline. The Hong Kong and New York-based company will use the proceeds to support clinical testing of its lead asset,"
-    publishedDateTime: 2022-06-08T23:55:00Z
-    webUrl: "https://www.bioworld.com/articles/519573-insilico-raises-60m-to-invest-in-ai-platform-and-ipf-program?v=preview"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 37
-    images:
-      - url: "https://www.bioworld.com/ext/resources/BW-source/2022/Jun-22/Insilico-6-8.png?height=635&t=1654727478&width=1200"
-        width: 847
-        height: 635
-        isCached: true
   - title: "Insilico Medicine Utilizes Robots in Drug Discovery Programs"
     excerpt: "Pharma.AI, is an end-to-end AI-driven drug discovery system created by Insilico Medicine. The system gains its strength from the quantity and quality of its data."
     publishedDateTime: 2022-06-10T13:55:00Z

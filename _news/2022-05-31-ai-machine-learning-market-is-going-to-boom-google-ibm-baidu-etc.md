@@ -17,6 +17,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/1fc18489a34ad2afb7afa901678c84775fa0f343-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 secured: "7BgYhDwbftIL2ru3FOsKbVflW1JX48TpVl7B2H6q/uvVolS2/WZDl4K4DT1NQoBLDeNLnpu6M/XfhFkSHIrpnYGFcWLRy/tDTLgRZsZl9pHdy/HIYB7II80mI2YgddYbI8eDkfmuL6uUF78GqpHhhcb6t1BdRsvsqbrh456VViQ25Oer3r7Vw2QpT3pruBX9y4JOZ0cTswM8kS5YA68IXsS+NUVNo8FSI8ksTpscbHzF5/9tLuLR4zyjikPBAL6gTGlURGO5+uTFXdko7xVUH+aZCHnGaw7YFeSQ+Vex9oi7ju5LmtS7SnZmiMfNEWLGNJ78WLcaV51g8FybTSXEBVc5oIcf/r/k6ql8uI3/LsY=;971/PYdicQRBW7t8j7Mb3g=="
 ---

@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "Artificial intelligence is shaping the Future of Healthcare Industry"
+    excerpt: "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges."
+    publishedDateTime: 2022-06-11T17:20:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 74
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg"
+        width: 800
+        height: 350
+        isCached: true
   - title: "The future of AI is a software story, says Graphcore's CEO"
     excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
     publishedDateTime: 2022-06-10T13:42:00Z
@@ -73,6 +89,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
         width: 1200
         height: 676
+        isCached: true
+  - title: "3 key trends that show AI and data are changing the face of medicine"
+    excerpt: "Data and artificial intelligence are transforming the healthcare industry in many ways. The recent Stat Health Tech Summit, organised by the health publication Stat and held in San Francisco, California,"
+    publishedDateTime: 2022-06-10T02:20:00Z
+    webUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/20220610_data_pixabay.jpg?itok=x3RtfF91"
+        width: 800
+        height: 567
         isCached: true
   - title: "How HR can mitigate the risks and reap the rewards of AI at work"
     excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
@@ -135,6 +165,6 @@ related:
       domain: manilastandard.net
     quality: 14
 
-secured: "uCUfUkYmAT1+fv1YAjmg3NdBUVy0X0A9jiYG+swZ9UJW5YXNXEdEnQSkmPYPqyBnaIickfTTKj4HTZmPL6m+xB06RTWZjcX2xUco2U5GgoZ+RG9Lg34M9zV8mMVwAn8PN/jL+d6pkdQNOusXHt5IUcIyyy/7+W5KaEX+y6o2kPiMsIktZF+ahay5Okb7sIfXovt7K4BCxSg0AvYlzwwsTSKf7EsYe2bIHP/KgKQxmRiD5IarqP+Hs+rBIeZGswGdhm2zMmzK1sxfWIZXIHt6/5IvX/7JRfybnneudU5YLRqUMh3+lQWJ71fISwA8U6zCIWoU0DbXl4HCsv8IC7xen56RVMPz0JxOzihFWukpNxw=;F9xJ2vfY/HSnt8TFqH3+tA=="
+secured: "Gabt2SNoBabi8gruchm79HZd+3pYLJzJLbbrMjBADPu9c/N8eKNduosewjMoTUoz//VT3aOueU4FHg0Nin/Mb37ZrQ3p48K16m6j8mutMLiBiR1PGB6AlLTBXbvy7crzwDhm3l22Ugeypy04xBaF5Oe0wh6pK36S2WsB4KSe2SeVN1i3ZZIu8pLOCLxyoR7k7ljfg5PwAXnMpSnh1GfoVZKfEZc3bmK3L2wcFygktzYeNSkPhKFlzLBmG1q30yrAuf9w+E7GrCBMAU4K6J1Rz0RTTJWRUhbm4Kc8rFuLxdrw9YuwbaP2/bQIHfbzkpFiK5xKqvA+iLPZeFzC0f6qfgxo8+ZjXbxXsX5tc1BUQB2gNH+IJJFW3ZvsUntw5RSoNWTvO8Q4iKFoJqyVQaAkTWmEK9+bKuxaUZ3T62QyQ6aqfdrEuj4EdOVWEnBghFgvtzGSBbWsijUDB39jw2zbSkIEWZveAArh4ZxysrylQDTx3sXEBkw3pR2skNa9aBf8ixRuOd33Xg5qECAJcVPrYw==;2GYI98RI5yng0LHKSRZa7Q=="
 ---
 

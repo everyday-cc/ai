@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-13-new-hardware-architecture-provides-an-edge-in-ai-computation.md",
+      "title": "New hardware architecture provides an edge in AI computation",
+      "excerpt": "As applications of artificial intelligence spread, more computation has to occur—and more efficiently with lower energy consumption—on local devices instead of in geographically distant data centers in order to overcome frustrating delays in response.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-hardware-architect.jpg",
+          "width": 544,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-hardware-architecture-edge-ai.amp",
+      "publishedDateTime": "2022-06-13T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-engineers-build-lego-like-artificial-intelligence-chip.md",
       "title": "Engineers build LEGO-like artificial intelligence chip",
       "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip—like LEGO bricks incorporated into an existing build.",
@@ -44,59 +88,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings.md",
-      "title": "How Microsoft Teams uses AI and machine learning to improve calls and meetings",
-      "excerpt": "Disruptive echo effects, poor room acoustics, and choppy videos are some common issues that can detract from the effectiveness of online calls and meetings. Through AI and machine learning, which have become fundamental to our strategy for continual improvement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings/",
-      "originalUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/uploads/prod/sites/2/2022/06/CLO22_HotDesking_012.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -203,6 +194,50 @@
         "AI",
         "AI in Autos",
         "Natural Language Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-lucem-health-launches-innovation-collaborative-to-offer-aiml-to-the-front-lines-of-healthcare.md",
+      "title": "Lucem Health™ Launches Innovation Collaborative to Offer AI/ML to the Front Lines of Healthcare",
+      "excerpt": "Lucem Health™ today launched the Lucem Health Innovation Collaborative,  a partner program designed to move clinical AI/ML innovation to",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/",
+      "originalUrl": "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Lucem-Health-Announces-Innovation-Collaborative-to-Bring-AI-ML-to-the-Front-Lines-of-Healthcare.png",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/",
+      "publishedDateTime": "2022-06-12T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
         "Machine Learning"
       ]
     },
@@ -901,6 +936,41 @@
       ]
     },
     {
+      "path": "_news/2022-06-07-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1.md",
+      "title": "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1",
+      "excerpt": "This deal almost doubles the machine learning capacity supplied to Variational by the AMPD AI Platform. In 2020, AMPD worked with world-leading GPU Manufacturer NVIDIA to design the AMPD AI Platform in conjunction with Variational AI. By running several ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/06/06/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/06/06/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning.md",
       "title": "Teal Is Revolutionizing The Career Journey With Tech, AI And Machine Learning",
       "excerpt": "However, there is a startup that can help level the playing field. David Fano, founder and CEO of Teal, created a machine learning and AI- based careertech platform to help job seekers and people who want to advance their careers. Fano said, “In the ...",
@@ -1027,41 +1097,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1.md",
-      "title": "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1",
-      "excerpt": "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (\"AMPD\" or the \"Company\"), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-6-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-6-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1357,58 +1392,6 @@
         "name": "St. Louis Post-Dispatch",
         "domain": "stltoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-adopting-mlsecops-for-secure-machine-learning-at-scale.md",
-      "title": "Adopting MLSecOps for secure machine learning at scale",
-      "excerpt": "If you’re an ML practitioner, the field of MLSecOps is rapidly developing and now is an excellent time to contribute to the discussion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
-      "originalUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1097722576-XH4D.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
-      "publishedDateTime": "2022-06-03T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
