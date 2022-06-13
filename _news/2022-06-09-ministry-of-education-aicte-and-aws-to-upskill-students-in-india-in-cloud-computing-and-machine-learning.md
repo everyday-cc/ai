@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-t
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 534
     height: 462
     isCached: true
-
-related:
-  - title: "Amazon India conducts two flagship programs to upskill Machine Learning talent in India"
-    excerpt: "Amazon India today launched the second edition of Machine Learning (ML) Summer School; an immersive program that aims to provide students the opportunity to learn key ML technologies from Scientists at Amazon making them industry ready for careers in science."
-    publishedDateTime: 2022-06-08T06:06:00Z
-    webUrl: "https://www.siliconindia.com/news/general/amazon-india-conducts-two-flagship-programs-to-upskill-machine-learning-talent-in-india-nid-219180-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 31
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/7934I62s.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "iIAGdY+WYb59YuL8SlTTrT/vwKJBHZRboA7tWpu3nqsJ9S+bx97k1O0xbmBYFRL29UkvflpvlNVXdbH8TYcCQMI771149bsrYFy9HJzVHf5UfmfECAVIMHF79mGYWCix/kYFTWXL1vqZzZO7y4RAcDD5WZ2ARu5soxfTfyZgY3NPm5DXNRq9VnALq6ajhwpEuxl/x3kNKXyElQc2Bozxf5BK5VXiIYky0dIWve5rvBHwSWIuCuev0ZwEXwMWA7f+HmZBK/RZwuEHUpA13SZclHi2SReyU09eNv/hcE+DHQYjU7ek65+1rBBzEhU9pzylKtE4IZJSPgn10Td5uV31XNmbcms9XXni83E5SGb/nkE=;Y1UE4O8JzNtQJx4KCUwIhw=="
 ---

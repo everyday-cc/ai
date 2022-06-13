@@ -60,6 +60,22 @@ related:
         width: 800
         height: 350
         isCached: true
+  - title: "Your Health: Artificial intelligence for surgery training"
+    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose disease in early stages. Now it’s newest use can give patients more control over"
+    publishedDateTime: 2022-06-12T22:21:00Z
+    webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/"
+    ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
+    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
+    type: article
+    provider:
+      name: yourerie
+      domain: yourerie.com
+    quality: 72
+    images:
+      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/06/Your-Health-Artificial-intelligence-for-surgery-training.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Smarter health: Regulating AI in health care"
     excerpt: "Health care is heavily regulated. But can the FDA effectively regulate AI in health care? It's episode three of our series “Smarter health.\""
     publishedDateTime: 2022-06-10T04:24:00Z

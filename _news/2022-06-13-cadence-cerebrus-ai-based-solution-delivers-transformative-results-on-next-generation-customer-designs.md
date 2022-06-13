@@ -43,13 +43,13 @@ related:
       domain: design-reuse.com
     quality: 3
   - title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
-    publishedDateTime: 2022-06-08T17:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization ("
+    publishedDateTime: 2022-06-08T18:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cadence-revolutionizes-system-design-with-optimality-explorer-ai-/2022/06/08/9618228.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "ptcxSONTezDSMZguEL/mLA8LH2gmdg0Tirz2LlxDYCdqQEaDTzpDjCfQnb/0zgFYGjJpjENJwgkjrWyfhZK5SJeN9fxM/1wSaEw/mmL28phIzRcoIm0YZ9HsDS2TGixYbOnHEJPz+v7tJVllHzI0OKgm3XwS/WPr/zp3UWz5Ayj5AQRrlNvX8Gn24GCPCx/j6QQ6x5RPACHzVkEnBlqtvKzo+VEsN8ZcOAQ6r+GXbWZRkxUHOuzuTW7Q3xFFOv+iJ+3gy2XvDWH7J6Tb5z1jx015mP6b0p8ItdwU1PVN8wbE5FJI3a+qM9Wzb99kdHky/BXCXosbsxv4CqAvV0hEd458i17msnFTdnbw7kwAQHU=;/bxyVprlts45Sm8zlNOQ5w=="

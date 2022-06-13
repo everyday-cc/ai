@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220610/Using-artificial-intell
 webUrl: "https://www.news-medical.net/news/20220610/Using-artificial-intelligence-to-discover-new-antivirals-against-COVID-19-and-future-pandemics.aspx"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Over 400 SC verdicts translated, until Covid stalled AI project"
+    excerpt: "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived."
+    publishedDateTime: 2022-06-12T22:14:00Z
+    webUrl: "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/"
+    ampWebUrl: "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 74
+    images:
+      - url: "https://images.indianexpress.com/2022/06/supreme-court.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "O/xro54B4dVNQW6dPlhdnoXHxemN7lt7nbvgNJqEJQs4vKW4x0ST08ySx6laQ+gqa87g6iJ7kdnXnqM3Pu5zt3KpDTKU7ZpXSsZeSfhTp1uxB6fimIKEP5U4R8wR79233+ULtKSDGiFQnbuCqP4Y5AUBz0h9zlgO9v9dBorXihWv7S8yRnF1S818LBeqzoGwjCAeQPmv9ppUMndFQtEOIMaQp0y3kQ23Gvy2sJ5Wruuu37PkLe54UQFmPZHmsyHIPEd92B+o1oeAP0Oi4EUdhUi9Fy15l0pc6xoruKKOHQWERUAq10GmhX656Qj7Y55DAzCcd1fAsuBHQyzXP9se0aH4M6wrid9Q6lkYx2QXzsU=;Q3G8Shwui6/2DfVO+K0tpQ=="
 ---

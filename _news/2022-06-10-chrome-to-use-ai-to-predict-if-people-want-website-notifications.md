@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

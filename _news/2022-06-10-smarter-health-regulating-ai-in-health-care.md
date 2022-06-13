@@ -75,6 +75,22 @@ related:
         width: 800
         height: 350
         isCached: true
+  - title: "Your Health: Artificial intelligence for surgery training"
+    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose disease in early stages. Now it’s newest use can give patients more control over"
+    publishedDateTime: 2022-06-12T22:21:00Z
+    webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/"
+    ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
+    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
+    type: article
+    provider:
+      name: yourerie
+      domain: yourerie.com
+    quality: 72
+    images:
+      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/06/Your-Health-Artificial-intelligence-for-surgery-training.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Healthcare AI startup Olive to freeze hiring"
     excerpt: "Olive, a tech startup that uses artificial intelligence to automate healthcare tasks, said it is freezing new hires amid a wave of digital health companies laying off employees and tech giants slowing their hiring. \"Olive regularly evaluates its hiring ..."
     publishedDateTime: 2022-06-09T15:09:00Z

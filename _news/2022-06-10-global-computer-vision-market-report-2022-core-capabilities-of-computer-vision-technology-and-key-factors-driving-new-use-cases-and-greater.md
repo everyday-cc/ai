@@ -51,20 +51,6 @@ related:
         width: 400
         height: 226
         isCached: true
-  - title: "Computer Vision Technologies Market Research Report | Economic Growth Outlook, Challenges, Regional Status and Segments Forecast by 2029"
-    excerpt: "Data Bridge Market Research in its report titled of Computer Vision Technologies Market offers comprehensive insights"
-    publishedDateTime: 2022-06-08T06:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-technologies-market-research-report-economic-growth-outlook-challenges-regional-status-and-segments-forecast-by-2029-2022-06-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Clinical Trials Sector Scorecard 2022: Artificial Intelligence, Virtual Care and Blockchain Saw Activity in Q1 2022 - ResearchAndMarkets.com"
     excerpt: "The “Clinical Trials Sector Scorecard - Q1 2022 Update - Thematic Research” report has been added to ResearchAndMarkets.com’s offering. Many companies included in the Clinical Trials scorecard have announced partnerships in the artificial intelligence (AI) space since December 2021."
     publishedDateTime: 2022-06-09T09:52:00Z

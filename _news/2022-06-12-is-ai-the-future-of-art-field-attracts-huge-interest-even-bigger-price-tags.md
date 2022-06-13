@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Artificial intelligence to shape future of fishing with targeted catches"
-    excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
-    publishedDateTime: 2022-06-08T06:00:00Z
-    webUrl: "https://www.stuff.co.nz/business/industries/128892148/artificial-intelligence-to-shape-future-of-fishing-with-targeted-catches"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 38
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/r/3/image.related.StuffLandscapeSixteenByNine.1420x800.24qltg.png/1654646123843.jpg"
-        width: 1420
-        height: 797
-        isCached: true
   - title: "The state of AI in drug discovery"
     excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
     publishedDateTime: 2022-06-08T21:48:00Z
@@ -117,20 +103,6 @@ related:
       - url: "https://rnz-ressh.cloudinary.com/image/upload/s--qYKg59o2--/c_scale,f_auto,q_auto,w_1050/4LW5H1P_image_crop_138544"
         width: 1050
         height: 559
-        isCached: true
-  - title: "How AI is transforming the customer experience in retail business"
-    excerpt: "But it’s important to know which part of AI works best for the retail business. If you’re ready to start improving your company’s customer experience with cutting-edge AI technology ..."
-    publishedDateTime: 2022-06-12T08:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/techbusiness/how-ai-is-transforming-the-customer-experience-in-retail-business-43323/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "ZcMNFaJvaabNx9kW+gkwKkxBLk1F2ktArtGMGE2o+fAR6aLuvG2SZA6905Wr6vH76PGnL1oqN0VWG66mNk0jTDKTfFOogh4ItYGkcHH5Ldp99Owu2FrJbmH2M5w97FneTZFsxEfUuxRTMMmL1UfSv25VBu5bq1XoMls//O7C8/4mgLcZrud9PTVRPEqjLhId954fC9gdByEqkXKrzHTGCg1uz+1+XHhPiZ64qiEKU2F61SBO9Mhq2WpHiA7dPj8nGJFD8hTh4LUiA9Hni2hGd6p4Qpp3p7cJ/bGl4vMYw8i43B2IL4aOMumtteGfdddn4wMi9gKjlXE87AgJfd3DW3M5/2ub/T4HhhHhR0q+xgOGhTsyYN7mE0TuK8t3j51bGmFTOAfpvlDLmAbtf0gR33apIZTrFvOhEBbdpTEz33dohJ43Qi9T8FsXyTHbjlVAAejgf68OuFjvOLYRYI8b6vIB5fl4SrHgjFyVfiwDaceWCwJDmQWIiGSbJhG9QnITncPWQ/NvaRRIP0l9rk0zaw==;CmGS1Cqo0zVreKNje0JBZA=="

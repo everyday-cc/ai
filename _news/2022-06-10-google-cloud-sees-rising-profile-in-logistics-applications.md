@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-09T20:40:00Z
 originalUrl: "https://www.dcvelocity.com/articles/54786-google-cloud-sees-rising-profile-in-logistics-applications"
 webUrl: "https://www.dcvelocity.com/articles/54786-google-cloud-sees-rising-profile-in-logistics-applications"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.dcvelocity.com/ext/resources/2022/06/09/dematic-Image-6-9-22-at-4.35-PM.jpeg?height=635&t=1654807296&width=1200"

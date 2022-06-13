@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-a
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends"
 type: article
 quality: 93
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg"
         width: 800
         height: 350
+        isCached: true
+  - title: "Your Health: Artificial intelligence for surgery training"
+    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose disease in early stages. Now it’s newest use can give patients more control over"
+    publishedDateTime: 2022-06-12T22:21:00Z
+    webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/"
+    ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
+    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
+    type: article
+    provider:
+      name: yourerie
+      domain: yourerie.com
+    quality: 72
+    images:
+      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/06/Your-Health-Artificial-intelligence-for-surgery-training.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Smarter health: Regulating AI in health care"
     excerpt: "Health care is heavily regulated. But can the FDA effectively regulate AI in health care? It's episode three of our series “Smarter health.\""

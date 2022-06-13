@@ -54,20 +54,6 @@ related:
         width: 400
         height: 226
         isCached: true
-  - title: "Computer Vision Technologies Market Research Report | Economic Growth Outlook, Challenges, Regional Status and Segments Forecast by 2029"
-    excerpt: "Data Bridge Market Research in its report titled of Computer Vision Technologies Market offers comprehensive insights"
-    publishedDateTime: 2022-06-08T06:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-technologies-market-research-report-economic-growth-outlook-challenges-regional-status-and-segments-forecast-by-2029-2022-06-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ABI Research: Edge Machine Learning Enablement Market to Exceed US$5 Billion by 2027"
     excerpt: "In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance"
     publishedDateTime: 2022-06-09T08:05:00Z
