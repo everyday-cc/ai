@@ -57,15 +57,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Google expands Vertex, its managed AI service, with new features"
-    excerpt: "As Moore explained, Tabular Workflows allows user to choose which parts of the workflow they want Google’s “AutoML” technology to handle versus which parts they want to engineer themselves."
-    publishedDateTime: 2022-06-09T13:07:00Z
-    webUrl: "https://techcrunch.com/2022/06/09/google-expands-vertex-its-managed-ai-service-with-new-features/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 53
   - title: "Google has added additional capabilities to Vertex, its managed artificial intelligence service"
     excerpt: "Google unveiled the Vertex AI service, a platform that helps organisations install artificial intelligence models more quickly. This morning, Google released new features for Vertex to commemorate the service’s one-year anniversary and kick off its Applied ML Summit."
     publishedDateTime: 2022-06-10T08:17:00Z

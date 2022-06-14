@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabilities-with-new-20m/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Papercup raises $20M for AI that automatically dubs videos"
-    excerpt: "British startup Papercup, which offers an AI-powered platform that can dub videos into other languages, has raised $20 million in a venture round."
-    publishedDateTime: 2022-06-09T13:06:00Z
-    webUrl: "https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/"
-    ampWebUrl: "https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://i.ytimg.com/vi/K85DoRwy-hU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "AI Dubbing Start-Up Papercup Raises $20M From Sky, Others"
     excerpt: "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing."
     publishedDateTime: 2022-06-09T16:00:00Z

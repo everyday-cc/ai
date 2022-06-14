@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence in ophthalmology a gamechanger: Expert"
-excerpt: "Artificial intelligence (AI) has emerged as a gamechanger in ophthalmology. Using computer-algorithms, it helps in analysing medical data to detect diabetic retinopathy, glaucoma and others in early stage."
-publishedDateTime: 2022-06-14T03:20:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=968538"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=968538"
+excerpt: "ET CIO privacy and cookie policy has been updated to align with the new data regulations in European Union. Please review and accept these changes below to continue using the website. You can see ..."
+publishedDateTime: 2022-06-14T06:00:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-in-ophthalmology-a-gamechanger-expert/92197311"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-in-ophthalmology-a-gamechanger-expert/92197311"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-in-ophthalmology-a-gamechanger-expert/92197311"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-in-ophthalmology-a-gamechanger-expert/92197311"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Mak_feb_sq_1.jpg"
-    width: 280
-    height: 254
+  - url: "https://etimg.etb2bimg.com/thumb/msid-92197311,imgsize-52670,width-1200,height-628,overlay-etcio/artificial-intelligence-in-ophthalmology-a-gamechanger-expert.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -38,7 +40,21 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "How artificial intelligence could be a gamechager in ophthalmology"
+    excerpt: "AI has important roles in ophthalmology in early screening and detection of conditions such as diabetic retinopathy, retinopathy of prematurity,.healthcare. artificial intelligence. gamechager. ophthalmology."
+    publishedDateTime: 2022-06-14T06:47:00Z
+    webUrl: "https://www.onmanorama.com/lifestyle/health/2022/06/14/artificial-intelligence-gamechager-ophthalmology.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 37
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2022/6/14/eye-health-c.jpg"
+        width: 1248
+        height: 650
+        isCached: true
 
-secured: "6R8+pTVtYRXdxFfnioqXEGRc95pafgqM1P8eH8fMCTaeiL65jrfPPSwecbukb4SEAEZAlBYtqBTYFF5txTndibW7vmKcTKbiKOX+uPO94ouWZj1uDgtFQa8EpSVXU66qD2Ltj+w6u+fTuOg9B/mNSgDKe9K+pQhv7oj92XYc8mgok207TEQj8pe9k8+P7H4qm7BOC4+d44W36mHfoSxSjyRgBq6UFxXNcXRaUKdW0vwO6P8slZiRzb2M0sF+V+Edmh3XRa3JWtprTHNfPHMIh/iQ1mb76z8O/iCBKxxAyub/RXQWFchx+Uc9Lou9XMpWgTy2jBxv6epbAVReQ0wBZH2iNtbK2JPJGxQue8WqWE4=;6+WKdyjVmUTOqKYAgmsvKQ=="
+secured: "vS0gyKymRBvvZupc3yzU9XlYuWkWLj0jy2m5r/02SMJmLPb3E7TGSMU9+hEobGFETsMYGxlkFyfMkYS1+P4+hdMy05cd6g8CUgty5gWwZfMiOcdP4cx/2sStb3OVwhnYXHgZsWsxl+ANOfmhay8DywyQTscQbqzl1YcaS4MiUQHRXopYTvynMEOFnw5ZXqC0sRlb9Iw6onNy9l2f9tj3gaisFXtA8XsDizdJLKYPz4zV4CdtJc2e32sX4OFCJPhP7wXt1HWw6F2TsVOWpsuFUqfk3wAXdaMMhYqHvu0IBpp70udXq8Hmymu3XGhHlBaxMpPIfh900Ab1ZZTt3S6fJBtFUSS0nDTxKkGR7DXxkjI=;JNAdUm8j9gczxjLfV7HsbA=="
 ---
 

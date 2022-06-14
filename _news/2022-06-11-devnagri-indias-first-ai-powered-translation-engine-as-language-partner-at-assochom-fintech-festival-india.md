@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Devnagri – India’s first AI-powered translation engine as language partner at Assocham Fintech Festival India"
+    excerpt: "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,"
+    publishedDateTime: 2022-06-14T07:45:00Z
+    webUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 42
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/06/anibs2022061405495820220614065826.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Odisha startup develops India's first AI powered electric aircraft, to be showcased at tech event in Paris"
     excerpt: "With serious challenges caused by fossil fuel and pollution, the future of transportation is a big concern. BON V Technology, a homegrown startup of O"
     publishedDateTime: 2022-06-11T16:23:00Z

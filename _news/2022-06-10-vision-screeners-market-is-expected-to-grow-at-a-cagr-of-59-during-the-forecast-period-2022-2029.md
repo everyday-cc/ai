@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2022-06-10/vision-screener
 webUrl: "https://www.pharmiweb.com/press-release/2022-06-10/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1200
     height: 448
     isCached: true
-
-related:
-  - title: "Artificial Intelligence (Ai) In Computer Vision Market Expected to Reach US ~$81.10 Billion and CAGR 26.2% by 2028"
-    excerpt: "The global Artificial Intelligence (AI) in Computer Vision Market size is expected to reach USD 80.10 billion by 2028 according to a new study by Polaris Market Research. The rise in the ..."
-    publishedDateTime: 2022-06-09T14:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-computer-vision-market-expected-to-reach-us-81-10-billion-and-cagr-26-2-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 47
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/711433c4010329ecbb3a7b222727a1cdd7c76bb7-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027"
-    excerpt: "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis ..."
-    publishedDateTime: 2022-06-13T11:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27667412"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "90ZxJp3+CMGH5qvGIJjKPe8t54/jg11PSHoR3rmaaGS0CCnqoLQzAG3dId/TSY5m7koZ9qEJriHM2VWtt5RkdP0LG49xB4Llw+8Uaqs0XBQxuQJTqpZ3VvMaMVSShwyuYF8JZAodY27yeHlu7Yl5qbLQ2hW9gIsERPKGKNg2/xVMatprMGO3ZABhB0nToCkKmpUnf3dfrRlUyvvY7KEm0j2930ucsc4EHDcS6dtkXkcnv0eNAIfyOBal7XS1VoeeacRT0yv9gtByxm2GmZEfq8U2+9LP/6uC8mmSknaRVj+r8mSFFWH3NBZr8UD+OURPK7N+cUH/ZIqu43mbf9K+I2wCxVD+2R6nta+SOpGgVgc=;rCZ1gt6idnm3lL/AZG1KGg=="
 ---

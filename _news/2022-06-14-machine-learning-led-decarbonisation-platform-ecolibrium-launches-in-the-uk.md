@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Machine learning-led decarbonisation platform Ecolibrium launches in the UK"
-excerpt: "Image credit: Max Lacome LONDON, June 13, 2022 /PRNewswire/ -- Machine learning-led decarbonisation platform Ecolibrium has today launched its revolutionary sustainability solution in the UK, as the race to reduce carbon emissions accelerates across the ..."
-publishedDateTime: 2022-06-13T23:59:00Z
-originalUrl: "https://www.globalpropertyguide.com/newswire/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-793"
-webUrl: "https://www.globalpropertyguide.com/newswire/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-793"
+title: "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK"
+excerpt: "UK expansion builds on considerable success in Asia Pacific, where Ecolibrium’s technology has been deployed across 50 million sq ft by globally renowned brands including Amazon, Fiat, Honeywell, Thomson Reuters,"
+publishedDateTime: 2022-06-14T05:50:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Global Property Guide
-  domain: globalpropertyguide.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnasia.com/media2/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=medium600"
-    width: 599
-    height: 397
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
     isCached: true
 
 related:
@@ -49,6 +51,6 @@ related:
       domain: businessgreen.com
     quality: 4
 
-secured: "feWgpVVXPHdj6lVepD9nwZjwa4fLexitRU2q9lUlQ4xN+tLVe2ESmy7i1dAcIVPfPq7uYEMnd/aJ14YEtckpNuU6+DM7b8Ecb9uztD5Hc1XJhw9fEUMlk4HrBPwgAqC0MK0B9tYkx5UQrTm39TIQ45YiPaZ9SFJJFUwDhH3PLHD+G67rzqzfvxdois2mPu1ok7BVWLRhxzaql4ABs43MfJxMRh2lBrF8cdz2fmSGnowNjZmbmTeJJ4XVHG+ZrvdILu9yGzQf3jAFtAsgPuoeMI9FNxGSzFAdg+g2qd55a97NnOA2qyX+BpUZeJ0NozPYrn3w/FnnWi1mjmY8PvnP9HDWsUvNwUs/L2Ctn4VCP66GkcFLuaApiaKUYHSIFnTSzZs8On9CbYvDPKLg1K55BMf6IiXEUjNKQWeYkiVYdePbka+dBUKgBV9lDg3+zDeivJeZd6aATRUs1GYT0qB4B4Pulot0Cdg5ooH1HqhlL5JqPItXZbdUShvrps+ZB/I2RpmO0SMffmCmDlmlwCxj0A==;xWC0F0hT15ATxBCAJZ3G5w=="
+secured: "zMA/R0PNAZAUmpZ9QdFviK5mOpEV5ofRZsCGwfKyHUy64PYfU30lCWrpPtf9kuLd3ZVDbIz6ZIVKuJ20o8ZrRrXZSCK3gmg20Mk31B2Lb8yiD3NnlYtBcb41YOs8aPICCJUmvFybKj+fwWWjNNSWTVbUK/nTif5fL5FqGEHqjkSK2gQ1r5iya3KJ5iF7cxtCZTFwoxFVNdw0Teh5K/hSJIC6sZnpThEYoI5Xkj0Ty0EI3HH8fG66+owb5y6RK6xozkPR8N3rdcrWAyUFLHN6QPZ+6L8RPOdA62gk5+w0s7uFG1NqSx61bjQpl3ia4iJx6WsU9aKiRxlLq0w1a2oDNwZ25RMVxmCKkklBsP2I20U=;v5zdaW1wEY/2gPsrHA25Hw=="
 ---
 

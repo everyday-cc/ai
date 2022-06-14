@@ -57,6 +57,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Driverless taxis hit the road in Seoul"
+    excerpt: "The cars have wireless links to traffic lights to help make sure they follow road rules. Hyundai says the robot taxi trial will be open to public customers, but not during peak travel periods, “to minimise any possible inconveniences”."
+    publishedDateTime: 2022-06-12T21:43:00Z
+    webUrl: "https://www.driven.co.nz/news/driverless-taxis-hit-the-road-in-seoul/"
+    type: article
+    provider:
+      name: Driven
+      domain: driven.co.nz
+    quality: 39
+    images:
+      - url: "https://www.driven.co.nz/media/100026228/image.png?width=770"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "XE0zcNjFy25RA0zz5i8vcRBvDknIF8sTXckvNCVNDP4ZTguBv9/xK8c223M3uIkDAQl73NEFR9uIaGxBvfABZ+lMQtg+3QTo6s1i5uLwzYlsf+7KPMQSjVZKTk0qxVYJslGgs2S0GWK1ip3FB1VJQLpuDrThdMRiTgUJHiG3n9e4k4avlgD6CCjWYGDqXtmzu0BxCfACklqc6WIgDEwlT9EJJMDgC9jntZHxp3b3iQWmw6mAm3bSO5b3MoEZtk4El62Eg29PnBTrxxscoj7vAaXYWm0AiFnXCZ3ra5nts8mp2xISjvQEbtSAQgVyzU6y/idqKhQgCYMP6OqYgaMd8TYPGR2TQxhb6PQILm4XroA=;Ijv48EVLEelvV3w4gGOO7g=="
 ---

@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-09T14:03:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
 webUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
 type: article
-quality: 35
-heat: -1
-published: false
 
 provider:
   name: The Bakersfield Californian
@@ -25,64 +22,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker"
-    excerpt: "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters)."
-    publishedDateTime: 2022-06-13T17:36:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 114
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/13/billion-parameter-sagemaker.jpg"
-        width: 1247
-        height: 621
-        isCached: true
-  - title: "Incremental training with Amazon SageMaker JumpStart"
-    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). SageMaker JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models"
-    publishedDateTime: 2022-06-09T21:47:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/incremental-training-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/incremental-training-jumpstart.jpg"
-        width: 1245
-        height: 624
-        isCached: true
-  - title: "Unified data preparation and model training with Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
-    excerpt: "Data fuels machine learning (ML); the quality of data has a direct impact on the quality of ML models. Therefore, improving data quality and employing the right feature engineering techniques are critical to creating accurate ML models. ML practitioners often tediously iterate on feature engineering,"
-    publishedDateTime: 2022-06-09T15:03:57Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unified-data-preparation-and-model-training-with-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/Featured-images-for-ML09633.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organisations ubiquitous use of advanced analytics to unlock the full power of their data COMPANY NEWS: Teradata (NYSE: TDC) today announced the integration and general availability of Teradata Vantage multi-cloud data and analytics"
-    publishedDateTime: 2022-06-10T16:20:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 35
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/0575caed30e43a26e42193d9c692f179_M.jpg"
-        width: 375
-        height: 541
-        isCached: true
-
-secured: "cjddeuIiq79q7urcNX7yuLanPWQzwupH5qoQVbepHjugDHm8jLSBUNFjipnMcQGOtCrx7wdQJr4akcWyPmfnV2V80jqv9lsYVCbazhGWfyNWoZHFHmuGgCzbkpz6W8bQA5pthGBDJKj1MFbft4I7O2kOx2DBmiWAO/jZ9f0TOxIJ0wKPc1HOYKommxFLJhG/pCg/iBPinFlM9uUMytWBgq1iQPOnMvhFxtXWo4tGBcI0C2v7iVxD+qf1En4FxjlXf6/4+lMwDBpCKWzQ7qLDzjm8d/vCm4ib5jw5ZI8fcKOfhiHXS2I/F3aWjQGYZGsOHN9R5NeDdYTh14tDcNTA/g4oiuMBsT9K11SZKv19ZLs=;sm5/vQEf6/0NN6fyUD9WWQ=="
+secured: "B+tYzex36a9mBa6j3QVJy8mgj3h9KLJfNn0Hd7UL9LjETl2EhdSOBykHZEo77faE2q6tYMP7hZDhv3iKFg0j2W2FUbgTFe1Uf86wdfKE7XcxnnV6dcqlYWBLW1nZjTDUJegYtU97EqU1sYl2a2mSzKEmzmX0y5GdjCnUr0qOeGVhFDMC+Qi8TDm1S6Dy0Rm9KPOZ4WZK9vNN/+idN9O493V/aK2LD27xEQxlkIYaMDzb3oVkqOG7ITtOF+3isZVb24s6UjZt66JZrU2c6O6DdoBM7odHCaH5y9K1L925cA7TpM+iA08XpJRmMysZ0H7f8YYQY8C2HApJldLzxv/+LbMd/tTD3M7vig6FZI4orsU=;Mj63CgPA78SdaRqIGPZ65Q=="
 ---
 

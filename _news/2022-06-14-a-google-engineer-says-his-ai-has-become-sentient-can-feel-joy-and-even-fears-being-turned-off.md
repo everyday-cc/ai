@@ -322,6 +322,22 @@ related:
         width: 450
         height: 232
         isCached: true
+  - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
+    excerpt: "A Google engineer claims one of the company’s chatbots has become sentient. Experts disagree, but the debate raises old questions about the nature of consciousness."
+    publishedDateTime: 2022-06-14T05:50:00Z
+    webUrl: "https://theconversation.com/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
+    ampWebUrl: "https://theconversation.com/amp/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 46
+    images:
+      - url: "https://images.theconversation.com/files/468682/original/file-20220614-20-tzeuep.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
     excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"
     publishedDateTime: 2022-06-13T02:36:00Z
@@ -391,6 +407,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-Engineer-Suspended-After-Saying-Company-AI-Is-Sentient.png"
         width: 600
         height: 365
+        isCached: true
+  - title: "Google suspends engineer who claimed AI bot had become sentient"
+    excerpt: "Mr Blake Lemoine, a software engineer on Google's artificial intelligence (AI) development team, has gone public with claims of encountering \"sentient\" AI on the company's servers after he was suspended for sharing confidential information about the project with third parties."
+    publishedDateTime: 2022-06-14T06:13:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/google-suspends-engineer-who-claimed-ai-bot-had-become-sentient"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/14/AK_ggl_140622.jpg?VersionId=Dbte3yh9RE1gfWJ5BgvzxBcpCF4iYcu6"
+        width: 860
+        height: 573
         isCached: true
   - title: "Google suspends engineer who claimed its AI system is sentient"
     excerpt: "Google suspended an engineer who contended that an artificial-intelligence chatbot the company developed had become sentient, telling him that he had violated the companys confidentiality policy after it dismissed his claims."
@@ -551,6 +581,15 @@ related:
       name: NZCity
       domain: nzcity.co.nz
     quality: 17
+  - title: "Google Engineer Believes That the Company's AI 'LaMDA' Has Become Sentient"
+    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated AI chatbot that produces text in response to user input. According to software engineer Blake Lemoine, LaMDA"
+    publishedDateTime: 2022-06-14T05:00:00Z
+    webUrl: "https://www.realclearscience.com/articles/2022/06/14/google_engineer_believes_that_the_companys_ai_lamda_has_become_sentient_837221.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 17
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
     publishedDateTime: 2022-06-12T19:16:00Z
@@ -588,6 +627,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "H104W4PDjIaTrwP4/LrOnxCUwTAZuq3N3rmHYS6It/yOafGL5BMnF2dC1nnjAtUopJXezV+viH6MRBtSGAJjmO2FQEKKFHXr3c+AfO+iKAlcu+VqvS86dumZJdoCHCotTlqjcMvwO3Huor6UAj5VexUBsC+mvSwfJ7ereJFycoyZv9vMV57EeacG8Fk5OD0lXVXFvLz9hcgZnzMTtTwiV3NAK+rVaJ//dcdCXoMAmuteKbkyNn6b8nUEYJhVCya2rs8MtkTbSQIxKcFrcrEWgs/CA4BUIlIpT7+DsmeWiUmW6QEyOYp88p9uu97bvYU3NWTC/BpKL0CF6+LGN59LuiMgTpHgFzqkgpL/BGorFZI=;cgq5YWinyuZjS2anENv6yQ=="
+secured: "u7wBtIUDVVXlThzjM9C/4t/IRH6UkyWx5lMVjxaWy3A9gohgVsHrThxF3WGzhb5fkX2nSqHkn4kuT61i7L7uphpXl26VESaGz+OXIcMSo1G7viGZzDaX7/A3G+ZYOhuqQ9uZV+31jCsfWCQhO9Am9VXksSEDb6I9pY7zRse1yW2T0qlxzdhIeswlFm9MxNgJaZBZ8Y3tHNsZeXxBHgbRNRd6b2eJx9o/Gr0FxBTAC3B3b3wIlKIo0d6smzA+d3TJR/tfIiMwvOgdTifvDiPeKt+OhWUVCfTWn6VREO2vn0zJIYiEEUKnTQCwb3U1kSb0S0PMzwaPPGMNR0bkfUfG6gq96/7Gef369ypCZGbCN/sCvVUi89aakMyLg/SgejJ51yqMrhyfO/HjcnopI8IDMx0PvB7w2o2d6kDmWjrGJH71ULDJbIiIGEYpmdPs99/u3v55tSI7jpldoxFaM/ugXJalS0x2fKZ+wZPlc/4Lmb3JFpVs8wstjyyCoMjHCqTkIoHGpuqKBmSP3Plf23CMdQ==;wtXOYKiFFtfcL+zzOopLgQ=="
 ---
 

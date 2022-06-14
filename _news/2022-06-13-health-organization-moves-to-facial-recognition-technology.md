@@ -7,7 +7,7 @@ originalUrl: "https://www.insidenova.com/news/arlington/health-organization-move
 webUrl: "https://www.insidenova.com/news/arlington/health-organization-moves-to-facial-recognition-technology/article_05d2e654-eb31-11ec-bc3c-ff10b9fe5278.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "Kmart, Bunnings and The Good Guys using facial recognition technology in stores"
+    excerpt: "CHOICE has discovered three major retail outlets in Australia are using facial recognition technology and shoppers remain largely in the dark about the practice."
+    publishedDateTime: 2022-06-14T06:53:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/kmart-bunnings-and-the-good-guys-using-facial-recognition-technology-in-store"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
+    quality: 35
+    images:
+      - url: "https://img.choice.com.au/-/media/905695f483e94e72bacbd1796f131d34.ashx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "SnZTmms2+FqdeAtPr632HMtSNVEUsHnkjvOnyoN5hF95EXVLDuK5bfJZcW3FFIDPZQEYf/yB4l6DfwWtP3SE37zEhkwY4Bpmdane5wmBOr+rTkefzCxlP93lPgxrGuLW5ouVGhL/RKZcVh/PIMjrRgEX/oaHIrpT4yigu67REFU8CAj8fc+VnWHC+aIJEbFIFIyODQ+5ov48wERFrGRRQewW26eTyXjk+kojHYmX7fOqtVfXSZWxMRB3cD0J7rlq4BJSQ2JDMf6awy0bVLoBOIFQc97Mh65hMOFxj8dk+CcVlGbCXmIdzaWRUf7C2XuuOKtyBYgQM/d8YeZZpD+tGxMPTxWhYh9SS+FhO7CDOyv9sNZv8zWFRz6iQIAetWjWKURcWaQDYQbHC6yoaMP7yvuI8TJ/5UjBCSZVGAbz7U5zh6IFIcD9ECiob9y95fzQHkE/Qay5//D7SxVRkQpXV+Nk2gCCkRWvPxAn/3f0FKLh9888zdDVxt1AQJAMf9iBcHcJpAu0oFExTojfrwbhEQ==;Nk/8p9Vh6FH59sYqmHBIOQ=="
 ---

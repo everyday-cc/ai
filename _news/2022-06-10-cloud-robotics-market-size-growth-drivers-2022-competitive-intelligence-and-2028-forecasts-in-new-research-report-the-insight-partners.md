@@ -19,20 +19,26 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Cognitive Services Market Analysis by Growth: 2022, Future Demand, Business Trends and Revenue Forecast to 2028 | IBM, Microsoft, Google, AWS, Baidu"
-    excerpt: "The latest published Report by SMI’S provides an encyclopedic study of the Cognitive Services Market, along with a holistic insight into the important factors and aspects that affect future ..."
-    publishedDateTime: 2022-06-09T13:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-analysis-by-growth-2022-future-demand-business-trends-and-revenue-forecast-to-2028-ibm-microsoft-google-aws-baidu"
+  - title: "Top Robotics Global Market Report 2022"
+    excerpt: "Reportlinker.com announces the release of the report \"Top Robotics Global Market Report 2022\" -  The global top"
+    publishedDateTime: 2022-06-13T11:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667818/top-robotics-global-market-report-2022"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 49
-    images:
-      - url: "https://i0.wp.com/charliejon620351289.files.wordpress.com/2022/06/cognitive-services1.jpg"
-        width: 815
-        height: 553
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+  - title: "Global Computer Vision Market Report 2022: Core Capabilities of Computer Vision Technology and Key Factors Driving New Use Cases and Greater Adoption"
+    excerpt: "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Computer Vision Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service analyzes the core capabilities of computer vision technology and identifies the ..."
+    publishedDateTime: 2022-06-10T11:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27643583/global-computer-vision-market-report-2022-core-capabilities-of-computer-vision-technology-and-key-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27643583"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27643583"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "DUFDPmbGTyv221PGLUtnNP/yi4QQXvWULRIcPMtHVx8hgorrU5QuipNKp54ufk9WSuNNmFE0FdvURvHPN/OLGgc+cYHRLhfsU5DZwAcCz4fYJ6MZnApt3AOI8B6HngJC9vlpz4VzWzqx+l6x7VujLIPnVsnVJHYXw6C+m6mVIU1CSRukM85x2+PdjPkJxnqKgwcjr1/TCI0xUSHoXV8VzFBl02dCk19t4Qrp8UfUGQ07qTwq/nVWit7/YwhhPCe9ByDPxPkcOCKNwj8sSUSquuG/XJKEbTR2cMyn2fMfc6bSwyQeHWkSlvMqJ7rTBfxIixrRKsr6xJ1aJ82a76eLGK6ZBqRau5tspyAlVWaQdLU=;jc3VcPA8ZTQn0RubTj0nXg=="
 ---

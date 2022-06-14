@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK"
+    excerpt: "UK expansion builds on considerable success in Asia Pacific, where Ecolibrium’s technology has been deployed across 50 million sq ft by globally renowned brands including Amazon, Fiat, Honeywell, Thomson Reuters,"
+    publishedDateTime: 2022-06-14T05:50:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 57
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Machine learning-led decarbonisation platform Ecolibrium launches in the UK"
     excerpt: "Image credit: Max Lacome LONDON, June 13, 2022 /PRNewswire/ -- Machine learning-led decarbonisation platform Ecolibrium has today launched its revolutionary sustainability solution in the UK, as the race to reduce carbon emissions accelerates across the ..."
     publishedDateTime: 2022-06-13T08:01:00Z
@@ -30,20 +46,6 @@ related:
     quality: 37
     images:
       - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?itok=oREaZpiC"
-        width: 599
-        height: 397
-        isCached: true
-  - title: "Machine learning-led decarbonisation platform Ecolibrium launches in the UK"
-    excerpt: "Image credit: Max Lacome LONDON, June 13, 2022 /PRNewswire/ -- Machine learning-led decarbonisation platform Ecolibrium has today launched its revolutionary sustainability solution in the UK, as the race to reduce carbon emissions accelerates across the ..."
-    publishedDateTime: 2022-06-13T23:59:00Z
-    webUrl: "https://www.globalpropertyguide.com/newswire/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-793"
-    type: article
-    provider:
-      name: Global Property Guide
-      domain: globalpropertyguide.com
-    quality: 37
-    images:
-      - url: "https://mma.prnasia.com/media2/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=medium600"
         width: 599
         height: 397
         isCached: true
