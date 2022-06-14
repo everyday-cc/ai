@@ -80,6 +80,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
+  - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
+    excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
+    publishedDateTime: 2022-06-14T00:09:00Z
+    webUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Microsoft launches MLOps v2"
     excerpt: "MLOps v2 will allow AI professionals to deploy an end-to-end standardised and unified Machine Learning lifecycle scalable across multiple workspaces."
     publishedDateTime: 2022-06-13T09:05:00Z
@@ -94,6 +108,15 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "P&G, Microsoft partnering to build the future of digital manufacturing"
+    excerpt: "Consumer goods giant Procter & Gamble will partner with Microsoft to build the future of digital manufacturing. P&G (NYSE: PG) announced June 8 it has signed a multiyear deal with Microsoft (Nasdaq: MSFT) to use its Azure cloud computing platform to digitize and integrate data from more than 100 manufacturing sites around the globe,"
+    publishedDateTime: 2022-06-13T18:27:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/06/13/pg-microsoft-partnership.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "9SmVUhnmEl9Awlz8sg346cuNXcEV9HyHBubLrPCToy0wyRYKI8uN6i63TkZi0j+HUvYjJNEGtxjOY2ZX/nhz12nW6XsFqyESCRpH8KsoEGgJtmPQFl2JD/NuVKr0MC4YutdGVmtBp4nqXa6eU8cn5fE2NkUnzLtw8JcAjuj+gGls/0lyUxNSsM0n7dqwKPgmA9DRUGK9K9CeLYE2qC1BZmHce981Qjgsm2zDxI/7nRF++8DwWgHhzr2bXtfKQRSa2MDLSbNVXcjE4Y4roEHAJiTlTJcuWpF/t7E6xTtBA3Zv+zVvVoG6lfcLbY5bPjbSfLLpGEyWo4sVLVgkJsbXYgtBsOgI+ak89fwWXNsM3pY=;k7iTHFjDJHRleyUo+VQxDw=="
 ---

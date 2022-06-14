@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
+    excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
+    publishedDateTime: 2022-06-14T00:09:00Z
+    webUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Call quality in Microsoft Teams is getting better using Artificial Intelligence"
     excerpt: "Microsoft Teams has been on the receiving end when it comes to nifty features, which are all geared toward enhancing its user experience. However, there are"
     publishedDateTime: 2022-06-13T14:56:00Z
@@ -98,6 +112,15 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "P&G, Microsoft partnering to build the future of digital manufacturing"
+    excerpt: "Consumer goods giant Procter & Gamble will partner with Microsoft to build the future of digital manufacturing. P&G (NYSE: PG) announced June 8 it has signed a multiyear deal with Microsoft (Nasdaq: MSFT) to use its Azure cloud computing platform to digitize and integrate data from more than 100 manufacturing sites around the globe,"
+    publishedDateTime: 2022-06-13T18:27:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/06/13/pg-microsoft-partnership.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "J8UF7A4eFeg+su3hN60pSxM6cK0IEst86tWruesF/o71uxPOTzppGJjIofw6d3DBesEGjVdX6JafLWuzYLai/N5WfqV/0IT+7pM2USewgQWjntNgY3iRVUOqNfsdspeXvju5KvvQT0StMBfa5WeQioiy9WtUNnJxTjqBW4SUhsY4B+JzP7iZUlZPwNwDIO3JDBxN0sClBMEfD1Q81uYQOUcTkRsPH24VxnjeIQ8+jeySv7Yw0OKONx/5Hj11Mi3nfqIGCo1B/XxA8UeCt8Xys+KsXVH3Ld2GkvvgoFb61A9jZ2Co0e3z0E8r04GMWZ+olVJ+ALndCKC7h1M6SN4VWxRMi0908URy94uoPVoEjObbG2SQ5RmiGNRRV2mLQtTOF/mSY3c+kM+2lzZOLeH9YujZyftIb6Q/5RHIsDN2eyArekSYO/F5cH+8hsqR5HLpG9Tj5Pc47Yc7ObN0Nt0v1pSib7Ebieiw+JEMnBHWfAuDRD2bbSB9hJxPnXpvoV4q+Wpj0NIPYnOWzmPXAWEtZg==;+8eHtlI1n7OPexBdseUOJA=="
 ---

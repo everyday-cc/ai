@@ -45,6 +45,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial intelligence may now have feelings"
+    excerpt: "Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. There have been some pretty creepy developments in the world of artificial intelligence, recently. One Google employee was put on leave for publishing a ..."
+    publishedDateTime: 2022-06-14T08:14:00Z
+    webUrl: "https://www.abc.net.au/triplej/programs/hack/hack/13929004"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/2012546-16x9-large.jpg"
+        width: 392
+        height: 221
+        isCached: true
 
 secured: "wzqeJpWSFf/eKxo0qe+SC7DsHglgC+39MO/rAwvTR/BWHPdgYYDC8pmlNkAD67XQTDWV81c+bNQYO3tWlTlepWHQjEyfCBGm27v2S5DjZVz7bk7VJI54Aryw0ROpEnTjDrEymCRy6Ifqcw1HKhnQlWAPDM8lYt3hcy0ft+ff2tkSPXz3DKAUY8dJLU+LMq4aFVaeKjzStSlJrFEtCk1pIX0It25FLzuGX52S+laKzcAoaoN75HS1gO7ESGfDEEUyj5SFZhkT6swns2C62y2Rg9JbsBrrZcGLbFOqjKlpFuOMqwQ/M2/f3QquLbfwEY2lH7Kz0Iipwf3wyfe9nD312WpGUxCZ/RA/xWxmP08I+XgAzTCX1mZhzLBQHTllHJKgSymQ5Cqp4BYUzMZHqVO4XrW6nwuzsXiySeXH854ENc5Br87qOFQ9y3o6ekG3cEBj19YDhrUPSsKStTx+T5sRXqwItoM3M14dUaEIoLVzVIq/wY2dA1KfvUiq0yEK+bcekusP8g++9q+l0MJ8jru7xw==;6QDa2amblciks0nHeYOGeg=="
 ---

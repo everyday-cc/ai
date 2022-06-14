@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Spotify Acquires Text-To-Speech Startup Sonantic"
+    excerpt: "Now, they are investing in text-to-speech startups with Sonantic. Sonantic is an AI startup that focuses on delivering “stunningly realistic” voices from texts. Zeena Qureshi and John Flynn found it, and they both now join Spotify to continue working ..."
+    publishedDateTime: 2022-06-14T10:31:00Z
+    webUrl: "https://www.androidheadlines.com/2022/06/spotify-acquires-sonantic.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/06/spotify-acquires-sonantic.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/06/spotify-acquires-sonantic.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 42
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/01/AH-Spotify-new-logo-1.jpg"
+        width: 1600
+        height: 899
+        isCached: true
 
 secured: "dm6+8JbtWBX+9rDZA+fkNDIiX3R8YAW6sdD/1rgpEPV3IYMDxIRW0PoPLLTBZRtqjeu4np2i19vi6D4TfTzMCWAdv61ibPZpw4VONSpXfNe8Awziy7ps5X2F4LlUdO2zWc2OfhBN/rwOoK8zCR2hcXRBT3n6/LCCKEojM+TOv+n8BIZperN7UeBXS7jK3bpVIi6M4JwZgXm6HK87RlKwm/gRaIYNP8/eGJy6lO/pNDaffzb4Pa8RYsWbmOzRzbMXbbzEZIJ8VInhTJPm8AVxXaRI542spK14XYvSa4q14Qq4E5ftc1nd4/l86mGEAUGTfS9GAznRu/fSCgevBVP7LufZSAhT4tayFyP+6RLrxmg=;WnDA0EaN00HdmCBqBpcaNg=="
 ---

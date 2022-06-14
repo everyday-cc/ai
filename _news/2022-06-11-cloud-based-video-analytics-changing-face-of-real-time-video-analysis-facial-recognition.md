@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/technology/cloud-based-video-ana
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Video Analytics Is Energizing Business Operations For Brick-And-Mortar Retail"
+    excerpt: "In the end, it's important to find a solution that meets your specific goals and fits well into your existing processes."
+    publishedDateTime: 2022-06-14T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How augmented analytics can empower data-driven enterprises"
     excerpt: "Augmented analytics helps organisations deal with the complexity and scale of data that has become typical in digitally transformed modern enterprises, says Jacques du Preez, CEO at Intellinexus."
     publishedDateTime: 2022-06-13T06:38:00Z

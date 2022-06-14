@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powere
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
 type: article
 quality: 116
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
+  - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
+    excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
+    publishedDateTime: 2022-06-14T00:09:00Z
+    webUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Call quality in Microsoft Teams is getting better using Artificial Intelligence"
     excerpt: "Microsoft Teams has been on the receiving end when it comes to nifty features, which are all geared toward enhancing its user experience. However, there are"
     publishedDateTime: 2022-06-13T14:56:00Z
@@ -99,6 +113,15 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "P&G, Microsoft partnering to build the future of digital manufacturing"
+    excerpt: "Consumer goods giant Procter & Gamble will partner with Microsoft to build the future of digital manufacturing. P&G (NYSE: PG) announced June 8 it has signed a multiyear deal with Microsoft (Nasdaq: MSFT) to use its Azure cloud computing platform to digitize and integrate data from more than 100 manufacturing sites around the globe,"
+    publishedDateTime: 2022-06-13T18:27:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/06/13/pg-microsoft-partnership.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "Oas6RJwI63XWPf5Zpv25AifzJClikqORuSo+z+QtUxUNTfD/jCUKL8hLjaLk5Sw6CgoDKbEm0EzQPLFcpYIWRXpq0bfYwNdOtRV9zi5y5DzMvBoWb7gp4j3fuwQl/YTQNzDhjdQQAKgCJWPlbWjtjIfnqKe0Urg5/GWgv5rXeWCaqzNHxZvnz+UZuAJzw2sc+oCosaGaht/+uCIt0nj+9nRJBqbeSxJMtuNO7gG1YdK9oSh/agkPW+CoqpLdFVxKDSM5aVfqPUfCDODRXKZTJvlp0ax/YampFmGM5lbA7kPIVuLxNa3CqgWk6jhhq02DSxw74W98Q7lQmgn25dLvVzkoNORO7j4pxzvbGUTYsPD9xkQudgs2JaMdI7vhK6ySdSKEJdvk21uZICEYkkM7Px504KYxmwZVtI+dxW34zDUZt26BfDwjp7ZILwf6oUqxnFkiTEyXea+Gndh2Sn2Py8nfDgGrgNCifHwZlpYVwZUbG/xWoFJMhf8vfg6lkYkugWVzRI7rxA2zcwhYwecFIA==;Hd5nw8C2wW8PbRKkAS3TMg=="
 ---

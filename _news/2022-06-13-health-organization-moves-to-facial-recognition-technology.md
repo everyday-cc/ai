@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families."
+    publishedDateTime: 2022-06-14T10:52:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 61
+    images:
+      - url: "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop"
+        width: 320
+        height: 208
+        isCached: true
+  - title: "Cobb police seek approval for controversial AI facial recognition software"
+    excerpt: "The Cobb County Police Department on Tuesday will seek approval from the Board of Commissioners to expand its use of a controversial facial recognition system that uses artificial intelligence to identify suspects."
+    publishedDateTime: 2022-06-10T15:29:00Z
+    webUrl: "https://www.ajc.com/neighborhoods/cobb/cobb-police-seek-approval-for-controversial-ai-facial-recognition-software/C7AQSR4BUBGFFF6H2QAWMFNTLQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 52
+    images:
+      - url: "https://www.ajc.com/resizer/WiaPAcke_7PynFUsqlEHwdLVl0s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/6SGSYJJ33BH73GGPD2Q22V34BE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kmart, Bunnings and The Good Guys using facial recognition technology in stores"
     excerpt: "CHOICE has discovered three major retail outlets in Australia are using facial recognition technology and shoppers remain largely in the dark about the practice."
     publishedDateTime: 2022-06-14T06:53:00Z

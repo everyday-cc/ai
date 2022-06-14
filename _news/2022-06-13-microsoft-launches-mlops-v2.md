@@ -80,6 +80,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
+  - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
+    excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
+    publishedDateTime: 2022-06-14T00:09:00Z
+    webUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Call quality in Microsoft Teams is getting better using Artificial Intelligence"
     excerpt: "Microsoft Teams has been on the receiving end when it comes to nifty features, which are all geared toward enhancing its user experience. However, there are"
     publishedDateTime: 2022-06-13T14:56:00Z
@@ -94,6 +108,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "P&G, Microsoft partnering to build the future of digital manufacturing"
+    excerpt: "Consumer goods giant Procter & Gamble will partner with Microsoft to build the future of digital manufacturing. P&G (NYSE: PG) announced June 8 it has signed a multiyear deal with Microsoft (Nasdaq: MSFT) to use its Azure cloud computing platform to digitize and integrate data from more than 100 manufacturing sites around the globe,"
+    publishedDateTime: 2022-06-13T18:27:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/06/13/pg-microsoft-partnership.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "kLRFMOOI8WHS7XSeab1fklvwBvi6aSge0awdwliDoYA1XWp7KcJFHZwGlSgA6+SMv9gOCd+5rHa1q4c/5kIJTO6n3nkvT7SSOiIVrYT3a84z1gyH7PmbKpKeI+ScDDw7JcaYZWRy9LnA0Szg34tpcYv6pIvYpwnjFk7BIXrZbZAhw7rwtDvUsJihHalB1rQZ/VYzc24F+W7MAvEaiCfDKb6c7H8h+EonUK39Rj47FFAnJ7/CS3NXLcX3dOrOoxHF1+mfiJHQ8kAPtr8ZC/WZ7Vm3gTBzBdPAyZ+dyJLj5Eksmepr6qo0VPSlNT+AU1U2nopeYAH/+qlmxH7PJaxRk656fARfGrHQhU/VurBWzz1QLdCe2Em0n9CG6nP4c22qtiySdVXgFPm8G0W/WWiCmYideocEeXWpKBWO+6bOUy6p+hTx6LVT/C4nwwmj4rHCQzWIU81/kDt6pWEe/hPAYqM3aWUewjA078gbo8mhRwboYVjfdA0r0z3WqV2WrCn2MzQCH4d4rAp49dmO0hoOcg==;+sAZN2lJNALlrfP/ps6dOA=="
 ---

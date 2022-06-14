@@ -1,27 +1,27 @@
 ---
 category: news
 title: "No, Google’s AI is not sentient"
-excerpt: "By Rachel Metz, CNN Business Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
-publishedDateTime: 2022-06-13T21:03:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
-webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+excerpt: "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ..."
+publishedDateTime: 2022-06-14T11:10:00Z
+originalUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
+webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300-860x484.jpg"
-    width: 860
-    height: 484
+  - url: "https://kesq.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
+    width: 2000
+    height: 1125
     isCached: true
 
 related:
@@ -56,6 +56,22 @@ related:
       - url: "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhINPpYbNn0A%2Fhqdefault.jpg"
         width: 480
         height: 360
+        isCached: true
+  - title: "Has Google's LaMDA become sentient? Understanding the futuristic AI"
+    excerpt: "Google's AI-based language model LaMDA has been in the news after Blake Lemoine, a Google engineer, claimed that it had become sentient program"
+    publishedDateTime: 2022-06-14T11:24:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 59
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l89820220614143715.jpeg"
+        width: 1440
+        height: 809
         isCached: true
   - title: "How does Google’s AI chatbot work – and could it be sentient?"
     excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
@@ -133,6 +149,6 @@ related:
       domain: rnz.co.nz
     quality: 17
 
-secured: "q8X4+7Ti5C8BnWIiKBAbbLOR8wthAAV6MVtt3w90TePik1f2fsrpZNnkG7bNzBgjUqi8bhd3Zp2iqGDxNOx7BfNi3N9w/5kxg45yMwNd+ojRsR1xPAg1XrwT5n6FTsYxslJ+wTqkkdfrwnGJ1gkPnfP3oSqHYB8WmhRDGF8Cpy7nqzbfJt/wse/HKJpLbkNCWq8ycYhMn4NJctfXhkCIYo97cRCcokrCPAUS2hlouh8EvTuF9tQg4VTNnWycBcnPrMWVTtmzVwZc1wqFti6+bLb5garebEUtcG+0CQ6uqQoBwFxyO/rSBm5mQLrOe1ZnXuDYt7eE1mZXE4ckhA0GlUuN/9pgkMJsI5zMquvc04UDF4AqXWa/X33LLy0xU1iHGEwy8vyL4sCDzio/2suMeH5R6LjEKsFCWrpxPt916sTGVhsmhqXQCgYojbcHZBZuP/WJpyaddSBuiNaqruLez+J1dA9AUP1hw2wRyrp3Zf5ntsnU0NFIZ9SY+WOcFa6Cx1DIrDzFqTUgggbt2O8PIQ==;0Uprg6KZnt7w2Ttw+IR8FQ=="
+secured: "PgiotXRQaTsgUyrNgA0e/nnxh5ICBEoXmU3nDT+CjlkTZA/p920GB7j5PXrG2hNV4des0Fa1mMbqLOaqXld4SoLpxWDd9p4/0GFVXHBjsvUs6v00vMmo1zsSu19x8Y+l4d4073JG2E32cB+5j0obqvnjdNBYxPIwoe0DuVNW1IJzs47L82CmgzkJzKZgAya6loVj2enNyw2+057/ztjsLjwuVUIrKl2RhD6F0Cy1Cd+b2Rzavj3ot9AEDBGCE7O1tQl2u25LtBva4A8wxz8eNlPgoCgKFQm+lKS8ZopPdReQTwqpcWLIJ8SL+uA8ZgLtbjZkz5gQlUcNOCRV2YCWnpA4BOlJdIiTQtfTdJ1I5P4=;rxm6jP1FpC1eX5zD39r6ig=="
 ---
 

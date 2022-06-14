@@ -264,6 +264,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
+    excerpt: "When we ask whether a program is sentient, perhaps we're really asking how much it is like us. We may never really be able to know this."
+    publishedDateTime: 2022-06-14T11:16:00Z
+    webUrl: "https://thenextweb.com/news/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 56
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FAlanWarburton-VirtualHuman-1280x720-1.jpg&signature=a5a37af77b6319d8a55caeac44c38428"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google Engineer Suspended After Saying Company AI is Sentient"
     excerpt: "Google suspended an engineer last week for publicly revealing details of a chatbot powered by artificial intelligence in violation of the search giant's confidentiality policies,"
     publishedDateTime: 2022-06-13T18:07:00Z
@@ -336,22 +350,6 @@ related:
       - url: "https://www.pedestrian.tv/wp-content/uploads/2022/06/14/well-this-is-grim-1.png?quality=80&resize=1280,720"
         width: 1280
         height: 720
-        isCached: true
-  - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
-    excerpt: "A Google engineer claims one of the company’s chatbots has become sentient. Experts disagree, but the debate raises old questions about the nature of consciousness."
-    publishedDateTime: 2022-06-14T05:50:00Z
-    webUrl: "https://theconversation.com/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
-    ampWebUrl: "https://theconversation.com/amp/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 46
-    images:
-      - url: "https://images.theconversation.com/files/468682/original/file-20220614-20-tzeuep.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
         isCached: true
   - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
     excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"

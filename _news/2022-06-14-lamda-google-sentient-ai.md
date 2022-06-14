@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Has Google's LaMDA become sentient? Understanding the futuristic AI"
+    excerpt: "Google's AI-based language model LaMDA has been in the news after Blake Lemoine, a Google engineer, claimed that it had become sentient program"
+    publishedDateTime: 2022-06-14T11:24:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 59
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l89820220614143715.jpeg"
+        width: 1440
+        height: 809
+        isCached: true
   - title: "How does Google’s AI chatbot work – and could it be sentient?"
     excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
     publishedDateTime: 2022-06-13T13:08:00Z
@@ -88,18 +104,18 @@ related:
       domain: mybroadband.co.za
     quality: 39
   - title: "No, Google’s AI is not sentient"
-    excerpt: "By Rachel Metz, CNN Business Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
-    publishedDateTime: 2022-06-13T21:03:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+    excerpt: "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ..."
+    publishedDateTime: 2022-06-14T11:10:00Z
+    webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KESQ News
+      domain: kesq.com
     quality: 39
     images:
-      - url: "https://ktvz.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300-860x484.jpg"
-        width: 860
-        height: 484
+      - url: "https://kesq.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "If AI Ever Becomes Sentient, It Will Let Us Know"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"

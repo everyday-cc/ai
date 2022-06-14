@@ -1,29 +1,31 @@
 ---
 category: news
 title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
-excerpt: "A Google engineer claims one of the company’s chatbots has become sentient. Experts disagree, but the debate raises old questions about the nature of consciousness."
-publishedDateTime: 2022-06-14T05:50:00Z
-originalUrl: "https://theconversation.com/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
-webUrl: "https://theconversation.com/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
-ampWebUrl: "https://theconversation.com/amp/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know-185024"
+excerpt: "When we ask whether a program is sentient, perhaps we're really asking how much it is like us. We may never really be able to know this."
+publishedDateTime: 2022-06-14T11:16:00Z
+originalUrl: "https://thenextweb.com/news/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know"
+webUrl: "https://thenextweb.com/news/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know"
 type: article
-quality: 46
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://images.theconversation.com/files/468682/original/file-20220614-20-tzeuep.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FAlanWarburton-VirtualHuman-1280x720-1.jpg&signature=a5a37af77b6319d8a55caeac44c38428"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -659,6 +661,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "C5Gc1RRmABZ8n1P7yWaxjC+eBzobDzumgE8HGCYMy0RHJuyEI025HDYfkC8vzaN5Pf2tbckLvLcsCZqgr7dfl9Xke31XWGIvBCNgWjdcpVmus6tkHs2/7T+ncAY3L9v5c6gIJYwBAPLBnGYYqplM9DFDm1fKbxy78Ltk31himpFH9/2G10UYws4u9911gAtyXGD+5CQYoGTJa1vAzUZ/v8b6Jy6x9Lyby5j28uB0vJKbkILbknPk4BezTlt+Pd6eO1NDfueGDbOXYRhabOn+Kb2bOGHQUrfaaQ/KPG30d9Az5g35P7AfIsqaahruDCnvNGNGoC9qyaMkXZELxheNjhKG/sS65V1UUmeL6jfeK4I9FnBZNVMvxaOTtN9vnu6aTEsemxDXtvnz7SIfgczprxvu7dPN51BJtuD6pO/WoA2mu8BCT28lPPZigJIRSjIAez0tuCLebcGm8dJ5EMpgzYItV0DaM2aNEwet7AuVtYF709PqfmMAK8P/XVPnlXW0zMj8t0ZdP2GcLOxnLuRflQ==;aay2GJcVfRwUq5Zcvm0mJw=="
+secured: "J7RUx/GoRIeOx31gpCzVtGVgE8OIuudA7Gm/CVKbdEpUMFfsYXRz8Fc9W3Yr+tcPin0sv/HT/5ItbvmqAHDrGAJNCRPKRzxpszKDzZeLz7y5Ex5hC7muJJpeRbybBS4+vfZHn8S00hl1ZJSMfc4Pnw0gtcDroHnbs4uYu0xZ+LMXEzo4jnuAXjOPhqvttI8uDjq2XvmHO5084V6kd/57LrDki+3l8i8K/1YiiusokML0yS1ldRs6lc9KijsfQJjTnCGh8N84d+2bWA0SYJrD7PiiNzJXpGXoSns3lQlKjlUCAChlvUYtK+LQhRv5gpzz0NVeYTzi1HQgI8S4Nf0zMrU/TL10W490+upX53ZGzJ4=;WsKSej5u/4du3D4hrdFQ3Q=="
 ---
 

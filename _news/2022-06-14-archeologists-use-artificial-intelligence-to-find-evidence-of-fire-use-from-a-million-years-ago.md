@@ -1,0 +1,30 @@
+---
+category: news
+title: "Archeologists use artificial intelligence to find evidence of fire use from a million years ago"
+excerpt: "Archeologists using artificial intelligence are able to discern subtle signs of heating by fire in stone tools that date from about one million years ago"
+publishedDateTime: 2022-06-14T06:00:00Z
+originalUrl: "https://www.theglobeandmail.com/canada/article-archeologists-use-artificial-intelligence-to-find-evidence-of-fire-use/"
+webUrl: "https://www.theglobeandmail.com/canada/article-archeologists-use-artificial-intelligence-to-find-evidence-of-fire-use/"
+ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-archeologists-use-artificial-intelligence-to-find-evidence-of-fire-use/"
+cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-archeologists-use-artificial-intelligence-to-find-evidence-of-fire-use/"
+type: article
+quality: 45
+heat: 45
+published: false
+
+provider:
+  name: The Globe and Mail
+  domain: theglobeandmail.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.theglobeandmail.com/resizer/HmeFUiafgRXDaYmYQ8hoOMoiGv4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/ZNLVDFKAFZEPFKUMXB3BLJFADA.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "0bPKEbIr5NTRqizaXOVKQOwpKYNWAfX6XI/fM7n1K7ffs3vM2uDiiz8GQ7cweGGuICdqsprPcT8Ch0ppZ5hBWglNZ65D64hmwEsYvnNgvp5K58o7aylckI8fa/8j/iVVCMPmZQgkWZ9MWAaFgQVcpPSmmEIoCt8bW9ghAbz1MvOGOxlM3EBJDpJRf/RDDRjr2iCK/ba0xijhcDJ22s0/HauyxcB2u60d6CT6dhXVHurV/9UJenj0ks9AI4tfzOlW9kygtv1QhcoIjRWSaSGlN42DfvsRK2Rl5DC+JOjjp3tKieqWtDuoAdoCOdkcUMwKdXjHukoz9jeydwXRGIdenF/9CXWnpkHT+4/AEcH1bWM=;yrmcLpIqU3SfZfrkenuiaQ=="
+---
+

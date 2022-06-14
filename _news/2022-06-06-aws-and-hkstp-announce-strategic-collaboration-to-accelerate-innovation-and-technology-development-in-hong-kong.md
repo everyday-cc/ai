@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS and HKSTP Announce Strategic Collaboration to Accelerate Innovation and Technology Development in Hong Kong"
-excerpt: "Technology Simulation: It is often difficult to predict the success and optimal route for commercialization of new technologies in sectors such as Artificial Intelligence and Robotics. AWS will ..."
-publishedDateTime: 2022-06-06T14:34:00Z
-originalUrl: "https://www.afp.com/en/news/1312/aws-and-hkstp-announce-strategic-collaboration-accelerate-innovation-and-technology-development-hong-kong-202206060054981"
-webUrl: "https://www.afp.com/en/news/1312/aws-and-hkstp-announce-strategic-collaboration-accelerate-innovation-and-technology-development-hong-kong-202206060054981"
+excerpt: "Amazon Web Services (AWS) and Hong Kong Science and Technology Parks Corporation (HKSTP) announced a strategic collaboration today, aiming to foster a robust Innovation and Technology (I&T) ecosystem in Hong Kong."
+publishedDateTime: 2022-06-06T09:03:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_3752522d-c4f9-5eb2-9ae4-caf0889f931d.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_3752522d-c4f9-5eb2-9ae4-caf0889f931d.html"
 type: article
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "3RKqJ6/Nand8oEqStt/z/EkeD7eF+DBMogHWuzgAfXyXPs2rg4Hrme/Ot82P/Gv7J8uKDosPkoMQSg3AGGpkSEQrRVTLu230nsaScTtzSkx9pAyAU++iTWzimaeCcxktk8b8pQLZzY9T4ffzifOZqoEWAFw3yVY37wZBqdoGENwEKqD+j5oQ97GWkhLvG4KE8MB05Ka8AyuVF/8qJMPssXT0huin9VsEWjonRtDTfNbbbYNghAObWSLl4W6aAbsZ3naUwig4oyYSZnj1Q/1q3cg5IbrDlOOlxSbhYMtXcXHCLG386gCPl8gscSsuSWz6ia7cJLSdG/kRhlMm10QF20Wme6P5ggiNAN+BS+xJRaw=;OgE4+6qWYYefY6eGES3gSw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "7rTFqpt+VO9LVABmaIYNUJ8ku8kg5S8sNnC/KemDfn9yxrbubKoPYKSlSsYQ5GmttNXgRinO+ynDYSEmOjeQiq+qWyT/xgy3wbbcQBc7RvWx6GG9B/8kT4kVSweubdd30DqiSUbVdOyhxSzAqtQJPKS102DJ9XjcEaFIku5FQukROjDYRxKE92eZInViXSboiQgp3anx9yIdIzoMCETHk4NDXCx3X9LOM1yHBS09JCesclzJT542v7mEJvHXW4lezOQbgLMTBZ3cyKNyAIeQx6oHWjA8044v+8wxyBbMGcFsioItjKpNl+I+yG88i9e6yD5YTerCFtUX2Cv5dkvXlCK65pyZS40JWuaJ6CHs7pE=;JDbw+gzHNo0OpaFZnjpkOQ=="
 ---
 

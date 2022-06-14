@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Self-driving Cars From GM's Cruise Could Soon Carry Paying Riders In San Francisco"
+title: "Self-driving cars from GM’s Cruise could soon carry paying riders in San Francisco"
 excerpt: "General Motors Co's Cruise on Thursday could become the first company to secure a permit to charge for self-driving car rides in San Francisco, if it can overcome objections by city officials."
-publishedDateTime: 2022-06-02T11:40:00Z
-originalUrl: "https://www.ibtimes.com/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-3528508"
-webUrl: "https://www.ibtimes.com/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-3528508"
+publishedDateTime: 2022-06-02T11:18:00Z
+originalUrl: "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/"
+webUrl: "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: KFGO
+  domain: kfgo.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/28/a-cruise-self-driving-car-which-is-owned.jpg"
-    width: 1200
-    height: 788
+  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-06/02/2022-06-02T111812Z_3_LYNXMPEI510FA_RTROPTP_3_GM-RESULTS.JPG"
+    width: 800
+    height: 544
     isCached: true
 
-secured: "2zAtinFZmzy4ZwzwA3rKmvviqZ11MgVz1MQJjgC+vzCPN7eGCiQWYRwm1u/Sd08HFGktbHst9YFHD731p2fwbZgwGL0R2GXi07k4IH/m9JkDTUbF92ICgwyX6JMni0Qz//84hKLI2w6yB4njnvImUn1xfqte48wJrrgvaxONZBF/sc8/kq8CohKSBgVoA6JiR/KdjeANZmoqs1VfecrZ+CyN+/VNrMP17kYCH2eveAbAGWE9L210WKDsugWzeLK/6dw7zt0Uum2N0Kl/2+oZsw0+Igz/iFIlczLtrEFne8XFjkC42Mv3ACKrbqX5Om+ntwmLKhwwReQdAmiEr8uC1cGD3XxKam6KA/N5npeM5lk=;Jvw1zji6prxebO5oMrAL7w=="
+secured: "/MOYR60A//J1Lp17D9LOBRmZFMrWj2BCTczuTi2Qea6niOINF39zi6j5rMu1PlM7k+tXboXcKPlp7LeQNz/40uRcgSFeC+qndNFBqybdWpNkuMC8O6sxqzGqIPi1A2xtECc1KaxycsAbK23vZyOhIMqQts1tdKjzxcGmmrk5rLmsDL3mUtLlypcUr+U1ivgg2NVwyq9rdfU+tmtQ75e29peZ6ttFvjuXrsSqhqEQKV/+FAxbNXtU5zHxkhsv0rwYl2Jm4qwx7nB4NBTz8oJ3o5cR2EgW5/luldUhz6Xx0paKorh/oGKs/G/qbJ6OAOb3IstxjoPxI3y0+FUFLyadxT45wdnab+HbVSWYQUWrGWQ=;O/4+tx3QItJb7L2lacYn9Q=="
 ---
 
