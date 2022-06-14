@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-g
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
 type: article
 quality: 68
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/amd-fad-2022-lisa-su.jpg"
         width: 914
         height: 510
+        isCached: true
+  - title: "Chip Roadmaps Unfold, Crisscrossing And Interconnecting, At AMD"
+    excerpt: "After its acquisitions of ATI in 2006 and the maturation of its discrete GPUs with the Instinct line from the past few years and the acquisitions of"
+    publishedDateTime: 2022-06-14T20:02:00Z
+    webUrl: "https://www.nextplatform.com/2022/06/14/chip-roadmaps-unfold-crisscrossing-and-interconnecting-at-amd/"
+    ampWebUrl: "https://www.nextplatform.com/2022/06/14/chip-roadmaps-unfold-crisscrossing-and-interconnecting-at-amd/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/06/14/chip-roadmaps-unfold-crisscrossing-and-interconnecting-at-amd/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/amd-instinct-mi300-logo.jpg"
+        width: 885
+        height: 590
         isCached: true
   - title: "AMD confirms RDNA4 Radeon RX 8000 GPU series and CDNA3 Instinct MI300 Data Center APUs in its 2022-24 Roadmap"
     excerpt: "AMD appears to be planning to use the same graphic design for RDNA 4 across its entire Navi 4X series, with no refreshes from previous GPU architectures like RDNA 3 or RDNA 2. For its MCM processors,"

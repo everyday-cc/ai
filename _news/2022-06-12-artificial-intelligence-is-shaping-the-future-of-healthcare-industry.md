@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-futur
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "3 key trends that show AI and data are changing the face of medicine"
-    excerpt: "Data and artificial intelligence are transforming the healthcare industry in many ways. The recent Stat Health Tech Summit, organised by the health publication Stat and held in San Francisco, California,"
-    publishedDateTime: 2022-06-10T02:20:00Z
-    webUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/20220610_data_pixabay.jpg?itok=x3RtfF91"
-        width: 800
-        height: 567
         isCached: true
   - title: "Prof Mike Sharples: will AI do all our writing in the future?"
     excerpt: "Computers might be close to being able to write better than humans, but not without dropping some real clangers. Recently developed AI technology uses 'deep learning' - machine learning featuring artificial neural networks - to produce text."

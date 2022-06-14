@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T18:07:00Z
 originalUrl: "https://venturebeat.com/2022/06/14/doubling-down-on-ai-pursue-one-clear-path-and-beware-two-critical-risks/"
 webUrl: "https://venturebeat.com/2022/06/14/doubling-down-on-ai-pursue-one-clear-path-and-beware-two-critical-risks/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

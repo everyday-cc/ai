@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots"
-excerpt: "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ..."
-publishedDateTime: 2022-06-06T13:46:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots"
-webUrl: "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots"
+excerpt: "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,"
+publishedDateTime: 2022-06-06T13:03:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its/article_31ae4585-fd77-5568-b426-899cf63b5a86.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its/article_31ae4585-fd77-5568-b426-899cf63b5a86.html"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "xwUVgUGs4KkgLwGR9s5NumBYQ3PriEAAezbjQvqTemXMZV0B97jy3y1ISpOnz7ghmqTvXS6AyUxFfR5zeI1blnuaeJppc0Ws3fSHa1YtDFYkwOr4yKHuw5Ue2rPuk32gaoKqRKenXgTYTgqmHuXJz1jWZ94D5qla4IJMrpNMk+8nRkV1iaNzr7mJsusqFqwiysYMy8qgUot/Sj6mjw4WWNeMknxJToINhJ9Kmrui5lUT7SgDxtykhS7fY1VUvuEqg7OnTLmopllt6ByDFSGVeME0BuCvnbxZ3A+S6gMuaTS7sIUEHj7GPUauwzKIEG4RsGC5ahkrPYFWoaPTedllOeVYbTRpb9tOw+YdAgtWzw0=;CYK1ujXpL09QW4ox9oYL2Q=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "kAavykv1n5PhRAD2+pgterL/lOTBwl22P1SQRKuQnsnSF7lyhUdrXbVWh5exOaoHuc2psENjkr1+OltsrvyoP6p1spiL2NwamV2nI4ikh1j8H5KOdFbURE878PoTHqgaNZCiOEkXpmL3KD1Rs7UFjXUZbMJXvhIanEcetTGHXLaXsNLS7WE0supvMJrEAbPg/sqX3S4Yj0IDoqpYBLKL0DP0OfPCnwq6kQDcT2HzD3Fohn4NZZfxPRmBeDSQJK8Rj3yAs1JG97xzSEAQ2PL4wtOJHRoP6byMZAta5vOZ8+/tEn+zmeUziiW9ls0vDAUTKo5ywu0n6w7l4+REkWIAfv5BCCfurMnX2qBJ2HrWxm8=;stquLaYbxjKvuDQn0oaO2g=="
 ---
 

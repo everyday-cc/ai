@@ -55,15 +55,6 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 19
-  - title: "Give this AI a few words of description and it produces a stunning image – but is it art?"
-    excerpt: "The text-to-art program DALL-E 2 generates images from brief descriptions. But what does it mean to make art when an algorithm automates so much of the creative process itself?"
-    publishedDateTime: 2022-06-10T12:31:00Z
-    webUrl: "https://theconversation.com/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art-184363"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 8
 
 secured: "ZcMNFaJvaabNx9kW+gkwKkxBLk1F2ktArtGMGE2o+fAR6aLuvG2SZA6905Wr6vH76PGnL1oqN0VWG66mNk0jTDKTfFOogh4ItYGkcHH5Ldp99Owu2FrJbmH2M5w97FneTZFsxEfUuxRTMMmL1UfSv25VBu5bq1XoMls//O7C8/4mgLcZrud9PTVRPEqjLhId954fC9gdByEqkXKrzHTGCg1uz+1+XHhPiZ64qiEKU2F61SBO9Mhq2WpHiA7dPj8nGJFD8hTh4LUiA9Hni2hGd6p4Qpp3p7cJ/bGl4vMYw8i43B2IL4aOMumtteGfdddn4wMi9gKjlXE87AgJfd3DW3M5/2ub/T4HhhHhR0q+xgOGhTsyYN7mE0TuK8t3j51bGmFTOAfpvlDLmAbtf0gR33apIZTrFvOhEBbdpTEz33dohJ43Qi9T8FsXyTHbjlVAAejgf68OuFjvOLYRYI8b6vIB5fl4SrHgjFyVfiwDaceWCwJDmQWIiGSbJhG9QnITncPWQ/NvaRRIP0l9rk0zaw==;CmGS1Cqo0zVreKNje0JBZA=="
 ---

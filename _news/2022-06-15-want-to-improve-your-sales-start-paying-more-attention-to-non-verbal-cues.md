@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T18:17:00Z
 originalUrl: "https://www.inc.com/dave-kerpen/want-to-improve-your-sales-start-paying-more-attention-to-non-verbal-cues.html"
 webUrl: "https://www.inc.com/dave-kerpen/want-to-improve-your-sales-start-paying-more-attention-to-non-verbal-cues.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Inc

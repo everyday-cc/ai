@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T19:37:00Z
 originalUrl: "https://www.nashvillepost.com/business/health_care/area-health-care-orgs-get-creative-to-recruit-staff/article_7a26e6d4-ec19-11ec-bbed-eb0c5c76d4f3.html"
 webUrl: "https://www.nashvillepost.com/business/health_care/area-health-care-orgs-get-creative-to-recruit-staff/article_7a26e6d4-ec19-11ec-bbed-eb0c5c76d4f3.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Nashville Post

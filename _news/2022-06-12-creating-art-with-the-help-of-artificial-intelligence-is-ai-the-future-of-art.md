@@ -56,15 +56,6 @@ related:
       name: Manila Standard
       domain: manilastandard.net
     quality: 14
-  - title: "Give this AI a few words of description and it produces a stunning image – but is it art?"
-    excerpt: "The text-to-art program DALL-E 2 generates images from brief descriptions. But what does it mean to make art when an algorithm automates so much of the creative process itself?"
-    publishedDateTime: 2022-06-10T12:31:00Z
-    webUrl: "https://theconversation.com/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art-184363"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 8
 
 secured: "FdZCyW8Zjo26jELBppLtudInA621/X5edmct4g7sADaSKVWgrCWrVgZujRpggvOyrIxlXf4oo7RvqdE0iWQGTOrlHE2ehGh10O+YFFpPjLm2oknMvT6NW2qbseuiKt+Q1MOdGFZ24KrBdj33FvLft5D/RcogUbbw4U2xkk0U6GFYwdO0RvLQSqT2J6rDV+pRjPOngDLrY0IL05WxamsQcUTAlAkh8XFK9reG0kT66arAX6CGEvM/0L4cenwEGIeGx+iOMD+TiOaey1+vzJP+rOVqL1/Dld1p8DONe6ZkwD2ODmlN0U/VS83dVUG4lygO1AwuEklR4rZRj+/LsdwdhDnfuKfOHesH31/xqTfqhbjX0Ie1KZav60+CoQzI4elkICxL0D2pIH3XyWRTBczRt64NEg0ySGxPpJoUpo+AmB+TF5a5d+uYZ1ZZ5Pg89aTwJ2jw5iHbDDIF/Qmosl6ItTYDOr2hLB+VCk7SGiYkJMutF4jwrltHD2k7ODINRMSfmJ0jOXf5XJGeYudE6JzXOw==;RCVWfXznADnSjNBSepZJKQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-archeologists-use
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-archeologists-use-artificial-intelligence-to-find-evidence-of-fire-use/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI-powered archaeology draws out hidden evidence of fire use by early humans"
+    excerpt: "Researchers from the University of Toronto, the Weizmann Institute of Science and Hebrew University have identified new evidence of the use of fire by ancient humans at least 800,000 years ago at a site in western Israel."
+    publishedDateTime: 2022-06-14T20:31:00Z
+    webUrl: "https://techxplore.com/news/2022-06-ai-powered-archaeology-hidden-evidence-early.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-ai-powered-archaeology-hidden-evidence-early.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-powered-archaeology-hidden-evidence-early.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-powered-archaeology.jpg"
+        width: 1140
+        height: 760
+        isCached: true
 
 secured: "0bPKEbIr5NTRqizaXOVKQOwpKYNWAfX6XI/fM7n1K7ffs3vM2uDiiz8GQ7cweGGuICdqsprPcT8Ch0ppZ5hBWglNZ65D64hmwEsYvnNgvp5K58o7aylckI8fa/8j/iVVCMPmZQgkWZ9MWAaFgQVcpPSmmEIoCt8bW9ghAbz1MvOGOxlM3EBJDpJRf/RDDRjr2iCK/ba0xijhcDJ22s0/HauyxcB2u60d6CT6dhXVHurV/9UJenj0ks9AI4tfzOlW9kygtv1QhcoIjRWSaSGlN42DfvsRK2Rl5DC+JOjjp3tKieqWtDuoAdoCOdkcUMwKdXjHukoz9jeydwXRGIdenF/9CXWnpkHT+4/AEcH1bWM=;yrmcLpIqU3SfZfrkenuiaQ=="
 ---

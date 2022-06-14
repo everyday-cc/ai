@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T17:00:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says?via=indexdotco"
 webUrl: "https://www.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says?via=indexdotco"
 type: article
+quality: 2
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -18,6 +21,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Ethical outrage as major retailers including Bunnings and Kmart amp up facial recognition: Choice"
+    excerpt: "Cameras enable facial recognition analyses images from video cameras to capture each person’s unique facial features, known as a faceprint. Picture: Justin Lloyd A similar proportion were concerned companies would use their data to create profiles for ..."
+    publishedDateTime: 2022-06-14T14:20:00Z
+    webUrl: "https://www.townsvillebulletin.com.au/news/nsw/ethical-outrage-as-major-retailers-including-bunnings-and-kmart-amp-up-facial-recognition-choice/news-story/8b7269511d843a3f2581a691295f84c4"
+    type: article
+    provider:
+      name: Townsville Bulletin
+      domain: townsvillebulletin.com.au
+    quality: 38
 
 secured: "AbdmxdfOWz3Nq5xzojXm6GE9qVq5Q0SfUkErJsGqN8wcqHirinzahe+gyMj6+c2gdyWMWdtz14EgWhehJQ/M/cm7eYIJ7m/BII+4qz9AZ++v2fCYWt0G/nVYb/ht82s1wRghu4ZUqP1sceLkiykkgUrISwnbmW/TA88R6fayFcz0cH4+P3SYSw2dy8T03TUNbS/AAcOli23gp9qsq6WfPELw50EHQ+Nz88XEUath3BX2GcTwZRR1BEkXZJhASlbwj22SL2eUZ5bc7oCWPJBnVx0/d6pzMw2LpnUBgeQ527huUL0qe4G2bJmTOv4D537ODx3H4GkMtY/xSe6qKapd93/wE1P9oPD31CvBkSd+aqaFQ/Df2uC+HHE4XnJvpRx7qrnuPQiRxK5Pin4lX/2W69ComBNIjmCDHEERLgGM69LjJJ6WhFh8ONoYtQ2cgxkbpJrMudTuEOZQMspgm2sm9omkvKZQ2y2vQOrhNsTRReRsj9SveTieCbPekZ1Zm39wdDVrUWQMLTeL3QvpJ8kV+A==;Zzuuf1wCV/KzR7q9LmsWkw=="
 ---

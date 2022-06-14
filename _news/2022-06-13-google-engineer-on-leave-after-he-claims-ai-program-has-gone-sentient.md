@@ -291,6 +291,22 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
+  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
+    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
+    publishedDateTime: 2022-06-14T21:12:00Z
+    webUrl: "https://www.ocregister.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
+    ampWebUrl: "https://www.ocregister.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 50
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Google engineer put on leave after claiming new AI programme told him it was 'conscious'"
     excerpt: "A GOOGLE engineer has been put on leave after claiming the artificial intelligence (AI) chatbot he was working on told him it was \"conscious\"."
     publishedDateTime: 2022-06-13T07:46:00Z
@@ -339,6 +355,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
+    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
+    publishedDateTime: 2022-06-14T15:20:00Z
+    webUrl: "https://abc7news.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    ampWebUrl: "https://abc7news.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 48
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
     excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
     publishedDateTime: 2022-06-14T05:54:00Z
@@ -355,21 +387,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
-    excerpt: "But the belief that Google's AI could be sentient arguably highlights ... company Neuralink uses live monkeys to conduct brain chip implant research, KOVR reports. On June 6, Lemoine posted ..."
-    publishedDateTime: 2022-06-14T15:21:00Z
-    webUrl: "https://6abc.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    ampWebUrl: "https://6abc.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+  - title: "Engineer Who Says AI Came to Life Says He Can't Comment Further Because He's on His Honeymoon"
+    excerpt: "Blake Lemoine, Google engineer making claims of sentient AI, took to Twitter to inform those reaching — he's offline and away on his honeymoon."
+    publishedDateTime: 2022-06-14T21:39:00Z
+    webUrl: "https://futurism.com/the-byte/sentient-ai-google-honeymoon"
+    ampWebUrl: "https://futurism.com/sentient-ai-google-honeymoon/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/sentient-ai-google-honeymoon/amp"
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
+      name: Futurism
+      domain: futurism.com
     quality: 46
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
-        width: 1280
-        height: 720
+      - url: "https://wp-assets.futurism.com/2022/06/engineer-ai-life-cant-comment-honeymoon-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Can the new Google chatbot be sentient?"
     excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
@@ -670,7 +702,7 @@ related:
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
     publishedDateTime: 2022-06-12T16:36:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;fs=e&amp;s=cl"
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;fs=e&amp;s=cl"
     type: article
     provider:
       name: The Guardian

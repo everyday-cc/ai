@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T18:30:00Z
 originalUrl: "https://virtualizationreview.com/articles/2022/06/14/data-scientist-salaries.aspx"
 webUrl: "https://virtualizationreview.com/articles/2022/06/14/data-scientist-salaries.aspx"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Virtualization Review

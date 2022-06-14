@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T19:19:00Z
 originalUrl: "https://menafn.com/1104374568/Middle-East-Digital-Health-Forum-2022-To-Highlight-Sustainable-Digital-Healthcare-Transformation"
 webUrl: "https://menafn.com/1104374568/Middle-East-Digital-Health-Forum-2022-To-Highlight-Sustainable-Digital-Healthcare-Transformation"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

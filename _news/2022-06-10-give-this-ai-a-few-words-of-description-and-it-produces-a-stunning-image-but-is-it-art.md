@@ -18,52 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "Creating art with the help of artificial intelligence: Is AI the future of art?"
-    excerpt: "Some insist that the artist is still central to the process, even if their working methods are not traditional."
-    publishedDateTime: 2022-06-12T05:03:00Z
-    webUrl: "https://cnalifestyle.channelnewsasia.com/entertainment/creating-art-help-artificial-intelligence-ai-future-art-315961"
+  - title: "This AI Makes Mind-Bending Art, and You Can Give It a Try"
+    excerpt: "You don't have to search far on the internet to find nightmare fuel. If your dreams have gotten a little too rosy lately, you can spend some time browsing the weird, funny and occasionally disturbing images created by an artificial intelligence tool called Dall-E Mini."
+    publishedDateTime: 2022-06-14T21:25:00Z
+    webUrl: "https://www.cnet.com/culture/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 48
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
+      - url: "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
-        height: 676
+        height: 630
         isCached: true
-  - title: "The big question: is AI the future of art?"
-    excerpt: "In the 'generative art' movement, artists create rules for computers which then use algorithms to generate new forms, ideas and patterns"
-    publishedDateTime: 2022-06-13T09:16:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/culture/2022/06/13/the-big-question-is-ai-the-future-of-art"
+  - title: "Taking a Closer Look at AI and Diagnoses"
+    excerpt: "New systems can scan images to detect disease at ever-earlier stages and forecast illnesses to come. But they would require an overhaul in medical decision-making."
+    publishedDateTime: 2022-06-13T17:39:00Z
+    webUrl: "https://www.discovermagazine.com/health/taking-a-closer-look-at-ai-and-diagnoses"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Discover Magazine
+      domain: discovermagazine.com
     quality: 37
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/13/1620918.jpg"
-        width: 1240
-        height: 826
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/4DuGYukpuyvUPO9td0OpMP/fbf9108159fd04c4028a75357563ae5b/Closer_look_illustration.jpg"
+        width: 1000
+        height: 778
         isCached: true
-  - title: "Given the right description, this AI can create wild works of art"
-    excerpt: "But a small and growing number of people – myself included – have been given access to experiment with it. As a researcher studying the nexus of technology and art, I was keen to see how well the program worked."
-    publishedDateTime: 2022-06-12T13:46:00Z
-    webUrl: "https://knowtechie.com/given-the-right-description-this-ai-can-create-wild-works-of-art/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 19
-  - title: "Is AI the future of art? Field attracts huge interest, even bigger price tags"
-    excerpt: "The field has begun to attract huge interest among art collectors – and even bigger price tags at auction. US artist and programmer Robbie Barrat—a prodigy still only 22 years old—sold a work called “Nude Portrait#7Frame#64” at Sotheby’s in March for £630,"
-    publishedDateTime: 2022-06-12T10:40:00Z
-    webUrl: "https://manilastandard.net/news/314235526/is-ai-the-future-of-art-field-attracts-huge-interest-even-bigger-price-tags.html"
-    type: article
-    provider:
-      name: Manila Standard
-      domain: manilastandard.net
-    quality: 14
 
 secured: "f25DKaZG6noVIUC7CUujDACnHVhPzOMz7DItNgkGV8MCss4sv6iSdwkNaeoQIS7yuRIbiW9gSyx0wGJB3aSNNHRtFjqfIr36EZMnJlNbQAd5/5R0zgnQkBCWHFDRx5gm4MChzzDM2+5DT6RnWHdDmvZAOrbdRhcBTIEggjkGHDcIqqWRs1wh0YmRLTcswj2Rfb2nfiwBDbvmZtYoVPZQ9lGKcW/F2q0XieShqAuB/P4k2xX7bSzT++0ZxJiSUx8h7+pSzrCTdiMVLG86dFFhbRqZe2VELFpLGTDWeR0K0t5UnYNXUYEg+Ksxn7/xUhgvYrSWMYHP7YGrJpYkiJsm1Puwfmp8tYRlYfqdq4eQUqZE9lO2pRMdQWJUtIQ1A/g5Q9j5WmiBtxorQKHKwB2I/ryBZ2tEg/Kb7BK6HWxzPXPnWGSGa1o7KEMZsc0M5a6cQesUUPvLQlGzrlg0ogbcV3auhaxcS3AGIFNE9GD3zDAfOSNbNEpZ3z+8qUtz3VfCQDj35s0LUMXVJvOloj8ndQ==;vEjuxHpXnBjjzcQ4iCSxBg=="
 ---

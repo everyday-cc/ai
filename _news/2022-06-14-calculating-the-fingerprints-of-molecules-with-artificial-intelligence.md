@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-06-fingerprints-molecules-artificial-inte
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-fingerprints-molecules-artificial-intelligence.amp"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 617
     isCached: true
 
-secured: "h25tudhyAl9rOKv+psNXo8CZwQd2Rf3fLhRPI7C9DkwessGPmikiT/1LIoK7yEf5SH+mO7pE31/htz2luZ16ME7Mp3s1DAr4lMGlcubY9W1zsuxML+K20qmHmvSmLDG5IflCpxeWBrZtWNdEEce7P0974cAtE+pq7ar68hWzPIn3l5bsxIx1UmJtvW1CCoquq1DxDPuDfTlrI4CjwXr0aJ1vp3JN/OoIe5f4gej2fWghrPWI8LsTF7plAKCUuMEZRua8M9ICgz1JspbFLtmSjreRLW3DDptK+MSYzYpqxFl3OPytblu01kKSGSIuL3N6L7Ic65J8BhAira7VrKXABq19FSOvtNYci5tkjaaL4fs=;s+1TsEcegBSGj4d2O7JvcA=="
+related:
+  - title: "Calculating the 'fingerprints' of molecules with artificial intelligence"
+    excerpt: "With her team she has now investigated how the computing time can be shortened by using methods from artificial intelligence. The idea: a computer programme from the group of \"graphical neural networks\" or GNN receives small molecules as input with the ..."
+    publishedDateTime: 2022-06-14T17:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220614095634.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 48
+
+secured: "8NOvQ1WPug3bTt+qVjb0/ggThZRPHcaRQxYzWP1JSwg8tMNKKfspYv2AxEUGBrEdzrl34IvxxUlzG6S1Q0zRcVR4XPq3LeSQpqZ7icB7KRYfpkzrk/ozc5jlipSConJaIMWDWHHYZs1ey6tfVOSpAecbPtXToSCrgKK12Hr3wIx4FPXLiVyIyI4+c4u91AYDUdGVtXJnW0IQU3XoYZiwmuK34vNyvRoxqykS5LprsSlLtYN/R6+zkQEJYUbgh08BObiBszudXLKtURX/ioFMdPSq+1SaENFzZhlB4JAeTvRqHfmJzyq6/Vp7rIBZEF2sNuNnZpeuYUIHLX1AbJKJ7dGjzFPZaDVemsV7KhEW5UMFycT2j+he1V+tjWBbfXYMlzMepZ50lZ32oQyJrbe6EDFkiE6ZY2hcxgRMXD6oEXdXCyCv0eyn98qfah7pT7pcSoM/BShav81aoJNknt83UgMVNoyvFlJTc5LbeG76bv7yFOpN5Y9cVwcjNjt8lzwJu1SdLW8Z4UUd5+M/x0Uw7Q==;KM5gnm7dY2eq3l1IcktE0A=="
 ---
 

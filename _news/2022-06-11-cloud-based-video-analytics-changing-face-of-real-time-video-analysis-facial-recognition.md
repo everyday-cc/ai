@@ -86,6 +86,15 @@ related:
       name: Security
       domain: securityinfowatch.com
     quality: 4
+  - title: "Outlook on the Artificial Intelligence in Marketing Global Market to 2027 - Development of Marketing Analytics Presents Opportunities"
+    excerpt: "The Global Artificial Intelligence in Marketing Market is estimated to be USD 9.8 Bn in 2022 and is projected to reach USD 23.14 Bn by 2027, growing at a CAGR of 18.75%. Market dy"
+    publishedDateTime: 2022-06-14T20:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-outlook-the-artificial-intelligence-marketing-global-market-2027-/2022/06/14/9621621.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "O4ACbodlzc1WJsMSjtytxK9pg3kE3sRg1g6PexLaE0m2A0AZo7HCaMSDgI53Qo9c24Y/UGEHYGEiQsuLQsypPcE8gVfzgNPxygD5RIWpm8FyZAlRsSFZdruC4nj4sP67jbvXhY9KOVAksPTyraQ2KSdLI6Ld54W6YY0+wa8kYWGRrl4aTWaWSEok2ae+QFdlHhDkiuQi7nQVN3c29sitzhUOjK14PzNlDaxFuSbgoJrCwgNbTybyH3gcMJhathaLOfn/XCVZN8wWVH56q56tGGkzeeu9Pt0ujVpiNIJw9NzYblw8WaoG+Dt7yyiz+i3eYf2xQlx0/aP+weGW/pet3EEeOE4KiwF8gOJ5ij8Lz3c3o5FFgYSsdwSX5bfaZ6oH1znvEVHI+Xtg0HpXUJjZE2p49eJ3Zt5I7Yurcb6SCtZdfLOrF4RhTHnrqwdc9/Qi8DnM74t18cV0Af2KiXBEwtap9IZK0K015GNT7zoSrtMvDZzIfneCgU/FAXqXRI0If13OLcpTezkib9OmV3finw==;IhWCcCV0ngPykeZn8ut6Dw=="
 ---

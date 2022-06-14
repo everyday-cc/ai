@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
-    excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’ Bunnings, Kmart and The Good Guys have been using facial recognition technology in a bid ..."
-    publishedDateTime: 2022-06-14T17:34:00Z
-    webUrl: "https://theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
+  - title: "Facial recognition technology: how it's being used in Ukraine and why it's still so controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now ..."
+    publishedDateTime: 2022-06-14T11:11:00Z
+    webUrl: "https://www.ibtimes.co.uk/facial-recognition-technology-how-its-being-used-ukraine-why-its-still-so-controversial-1700718"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 41
     images:
-      - url: "https://i.guim.co.uk/img/media/92f9b66ff93cb5d8b314b9b8a65f42d30e6c36c4/0_0_1518_890/master/1518.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8b6c36542299078a01a3ae345f2ec0a5"
-        width: 600
-        height: 352
+      - url: "https://d.ibtimes.co.uk/en/full/1697322/facial-recognition-technology-controversial-many-countries.jpg"
+        width: 496
+        height: 278
         isCached: true
-  - title: "Ethical outrage as major retailers including Bunnings and Kmart amp up facial recognition: Choice"
-    excerpt: "Cameras enable facial recognition analyses images from video cameras to capture each person’s unique facial features, known as a faceprint. Picture: Justin Lloyd A similar proportion were concerned companies would use their data to create profiles for ..."
-    publishedDateTime: 2022-06-14T14:20:00Z
-    webUrl: "https://www.townsvillebulletin.com.au/news/nsw/ethical-outrage-as-major-retailers-including-bunnings-and-kmart-amp-up-facial-recognition-choice/news-story/8b7269511d843a3f2581a691295f84c4"
-    type: article
-    provider:
-      name: Townsville Bulletin
-      domain: townsvillebulletin.com.au
-    quality: 38
   - title: "Kmart, Bunnings and The Good Guys using facial recognition technology in stores"
     excerpt: "CHOICE has discovered three major retail outlets in Australia are using facial recognition technology and shoppers remain largely in the dark about the practice."
     publishedDateTime: 2022-06-14T06:53:00Z

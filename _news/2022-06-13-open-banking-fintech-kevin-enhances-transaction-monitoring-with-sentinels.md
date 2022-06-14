@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 800
         height: 469
         isCached: true
+  - title: "AI in Fintech Market to Reach US$ 54 Billion,..."
+    excerpt: "The managed service is likely to grow quickly owing to its help in administering AI-enabled apps in fintech. Fintech start-ups are using AI to provide professional services expected to drive the ..."
+    publishedDateTime: 2022-06-10T15:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27650322/ai-in-fintech-market-to-reach-us-54-billion-globally-by-2032-at-16-5-cagr-future-market-insights-i"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "QoHmDJXZEr5NzcCK7Bbqu4ZfUWCXsqqiNs2VQbNmLKAUpUHqTTGENXaJz1m/Y37FsG6X0oua38d9pKNF/g2KPbpIsXmdtXq+Rw0P4dRZDNWhGl1604WOpjgYrMFUnQWU8j0cPD/jW8r4BAg+YvPGBpbPGFqM4KtjxkenES6QwCidZ7SO4Vh9rN4E/1mPVPTH12bT9lZFHPb/bDvMQzjO5xVko1cfRpigSrghI8LwxJ2epU6Kf+kC1fm5KgCjC+bPaI36dkRQbWORGgQ3w8HQqpqxu6AJL8z5NRHvptHMGrzOHWgx0BSzlXzpp/gK1ppZwxEtg4ns4b+FKGzLAcwRCQGUrqJkvOTmz7K2N8KpRpAR6ygiX21DH3VElRpDhjy73pGIbXD8hYOWG9/UrLm0sb0yQS+j35pYBdV/QySLfhKpEc2ACgaHUpzHyaTBWcPDaC0ZhOGQDpAZPO0h2rAyH7qOddW52Sc1VClz/IOP+Hsvlp8iRwcYacRyj1snLBcu03PT685aRy77YKECdFz7mA==;+r7QcZrIvSZgoIN7U0ZKRg=="
 ---

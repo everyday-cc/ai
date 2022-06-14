@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-vid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/"
 type: article
 quality: 80
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
       name: Security
       domain: securityinfowatch.com
     quality: 4
+  - title: "Outlook on the Artificial Intelligence in Marketing Global Market to 2027 - Development of Marketing Analytics Presents Opportunities"
+    excerpt: "The Global Artificial Intelligence in Marketing Market is estimated to be USD 9.8 Bn in 2022 and is projected to reach USD 23.14 Bn by 2027, growing at a CAGR of 18.75%. Market dy"
+    publishedDateTime: 2022-06-14T20:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-outlook-the-artificial-intelligence-marketing-global-market-2027-/2022/06/14/9621621.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "yZ1F+bEYOaa/9CeRuk04cIijJ0iMlWPLf/eRtkbA5U9URtkZrNMQ+lTyEEokvuGXXTLTHCRzTOSbH/AtLRtQJAL+19qMn3qr//8A8Sha6t0B4RLrlCyuhn6s4LCFUcdtuX0tQiP94W1AcDriCO0THKG3CvxlWnWcIvVImtC1hPrIGaOic6Z6PYCMYG7l54JlvGbVLU2pj9VAlOPCHA6EEs7rApPGp9baSymB5q5W5Nfqdk4JrSiSH6/95ihhYe/vx3GV6l/HITnegCvrvoX/ZrDxAI0+ya32O7EtfR4KA7crNkEyMQmigITMq8Tw/AZxvq5V8a1a/5tmRKQ8a6E6AThTf5xz6bca8inMsRk1qoh9HBdjBEJxbGOTCvNaGftyxwNjCglhOOj9qdHcqCoqj+19svjEqy+21YzoockN/1//+5Z7Vj47+jSlpdRR4mTUV76D/Q3GHVsxC1/y4pz8m7jQjE8Gdws6jXnqeiMDLdW9tUxEkeFnAWw9RCrFpcfF/2YNmdWewWyJiXJcyd4SzQ==;ow/+KFMM+z/y2iCgXNgQhw=="
 ---

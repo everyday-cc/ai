@@ -2,19 +2,25 @@
 category: news
 title: "Task force to assess use of facial recognition by Colorado law enforcement, government"
 excerpt: "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado."
-publishedDateTime: 2022-06-09T23:00:00Z
-originalUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
-webUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
+publishedDateTime: 2022-06-09T21:51:00Z
+originalUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
+webUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
 type: article
 
 provider:
-  name: The Gazette
-  domain: gazette.com
+  name: The Colorado Statesman
+  domain: coloradopolitics.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "oMQC6vt1Yzy4FyuLiUMM2ALnKkcw4ZK9eNETpzWNS7JkxBGGF9Hb+QbyAKv8JQ1VRMx/Q4bgfUuaL17l5++B5xkeEIJL8hVjYFXGdaXVzVq6Ug+2PVeC/wj7OvrdkOIVV8/LRtbt5Rd5fV9/wc6Si0XqY+mVDSr7Ru3UtnRpxNCZK15Pgz4tgMK4viixMFyWc1P2dHgB7s153ECb+3A1/9CVKl2h/FnjtWsQEFyM2TXuKlgrHmAP0GLh01MQhk4lHc22wNU+dySyNXodiKMMxZKZc3Uy1jmn4lsqvV17XZkBSgSSj7ZXuSMlMG3oqG8Bi/doVbA+3towGjS19f14B31UA+YJyi5H/EHR0Zpx03wzeeRPGlNelbHafu3wGVpi0H550fbxsHU1TMIHcNeq7dpzhWDGFQ2lPLEoKemx2RISj0vr2dQ1arnfADGntHsmDsO7Ef/e2sNGoEDl+4u3f1d/wL9kji78QOth06FGmHUn5Xic2iIs0mg23lkawSOFUoRLLQuqkt4HcXcxxLTfYA==;LaB8NF5ao8jSevysyKjPMw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Pqw4C1yM9jkVoV3yNiSYJBREh0w2wuQYEHXOF6TdBiud8Jmssa14nErxKDijMcpjnGv3LukH5go+IR8YFqgzbL1Qm7gzvBXrWGzEj74wNpbA9iJhy/VajkdZXAS/UBY/PBYAFHEHVYcnOt3lTtl48mcWiNOvnOk0MHexzDVHQeTMHzTQgjt+HCfn+/2AEeosJU27nSTBhNb2ZRbX2ydyeoEkIFXFRVJ6WPEOvUO0FEsKaB6HrUoH5OBUi8305Qhq/Qsu8ErWO3y8A8I1ZuhDCa3KFGUL7BaMOXkaFjT2vvfYFfI2pxy8AauR926RemFqLcIvm9L13xkZ5UUwK9UDjUytdJiWiUoMEujbsfUJSDM=;km0JeBCtbqrH6UewtssjqQ=="
 ---
 

@@ -139,7 +139,7 @@ related:
     provider:
       name: Local News 8
       domain: localnews8.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
         width: 2000

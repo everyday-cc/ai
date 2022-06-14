@@ -78,6 +78,15 @@ related:
         width: 800
         height: 469
         isCached: true
+  - title: "AI in Fintech Market to Reach US$ 54 Billion,..."
+    excerpt: "The managed service is likely to grow quickly owing to its help in administering AI-enabled apps in fintech. Fintech start-ups are using AI to provide professional services expected to drive the ..."
+    publishedDateTime: 2022-06-10T15:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27650322/ai-in-fintech-market-to-reach-us-54-billion-globally-by-2032-at-16-5-cagr-future-market-insights-i"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "+3lxysCbM06vFv9CLpKcLOYlQ/8Xuk4my8lPckbZe7mHjNTKmZcBFLq5Eztl29aQ/IXM2qJ49T4TaVWWmrT/XwlxK2zoWLCyqRILP7tl5b36BZ/Mv+hqum0tSFGdrVLA4DFMlxCe8wA/FYu9dncVwLRgVENaJaGgb7CpGTqaJzq0mtEDe4UImiVZkmgO+9dNxNw+38JXk25HodY6dScrP8ORhOSYf1KkX5HaTI4RUvO2p0/kcCHRMxgm6gEXvSyX2vgQwjB437W0IIGfJSKAJhH0z1gtospCBVkO8CrNHik8rcRLXjsFPHGEvTUgL0zfAvyjw0R3+W1qvg6qMlP1yf8Zof7sKnLEDw9UBmJlHTXSkNIycA5ewZobT7NHB42gY/u61Ym/r1W/I0+oXDjQO2qKWn+bh0/ohiUFQwTbqI5wxj7P3mKwTMe9E5k+yMGnDzq31XC1vFRxCtkyuP2OkwdMt6fP546sSOHd9parcNp+FrCmrnUzRU0jR9bTA8dkuRcBgHqexhLJzXKZdnMIaw==;0fufKAiy0fTx5aRlBipTgQ=="
 ---

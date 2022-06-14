@@ -7,7 +7,7 @@ originalUrl: "https://www.nzherald.co.nz/business/deepracer-event-in-auckland/DQ
 webUrl: "https://www.nzherald.co.nz/business/deepracer-event-in-auckland/DQNJDJTGQ6UCOUNRT2BMRLSXHQ/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AWS with Intel launches DeepRacer Student League"
+    excerpt: "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education."
+    publishedDateTime: 2022-06-14T19:51:00Z
+    webUrl: "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707"
+    ampWebUrl: "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 91
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "Q4n3sbPWmQBQuJNYtzDphgK1oFkPuGwbSejWuZO2HjP487OjMUNWtUTH4+P/yn9dBUXxMsGszOSsDrhJ4PHN4nh7YyJ0nBt8tucHpR3/nep+uC6cG9LGeXBlEirNPIacZ/CjRBwQvemEzQhIFqMyDG5e2l25f+SlKE1JMISXZZkdZ6grmQR4Pnw/5XtXYmdkiEMf1bKArx6i0shbEbSOsqr6DEENuVNraghOYSnaQ1+8bBhMzWtR/c1EcE+vbW1xR76/1jyGbZCxeKg4Kq+bAhO1xrR6290zMo2rZDmijvICuK6YmcMouXJ9UaEIF529AHbT20/WQzEl1Uhtv4ivPbKthq7sEccnM/S+n3WJHGM=;YIdDZvJwcK8f8fuC1l5Z8Q=="
 ---

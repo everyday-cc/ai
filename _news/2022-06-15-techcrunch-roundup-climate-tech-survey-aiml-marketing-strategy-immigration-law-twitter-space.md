@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T19:38:00Z
 originalUrl: "https://techcrunch.com/2022/06/14/techcrunch-roundup-climate-tech-survey-ai-ml-marketing-strategy-immigration-law-twitter-space/"
 webUrl: "https://techcrunch.com/2022/06/14/techcrunch-roundup-climate-tech-survey-ai-ml-marketing-strategy-immigration-law-twitter-space/"
 type: article
+quality: 68
+heat: 68
+published: false
 
 provider:
   name: TechCrunch

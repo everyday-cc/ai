@@ -42,22 +42,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Smarter health: Regulating AI in health care"
-    excerpt: "Health care is heavily regulated. But can the FDA effectively regulate AI in health care? It's episode three of our series “Smarter health.\""
-    publishedDateTime: 2022-06-10T04:24:00Z
-    webUrl: "https://www.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
-    ampWebUrl: "https://amp.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 59
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/1000x667px_Ep2_Ethics_OPP-2.png"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "4X0/5sHqrOb4Ev7dfGbqHtVNrR/5+RI1oWJzqnuQCXA8R7vZM4WgMyI2Zc8SuEuJ4q/T9qKKtZxxseeL92GLwFEZ8Cyt5ZywjXwuQlbOLitNn9KZOaQhArzI+1EY3c7077GtxLwdQf5pUbq44nI3c24VqJoFTfaUsvgT+vv3AIP4LqQ5jBF9mTvCIWdrv+EoMhszb6G4OnAFWqEg+Y4BrDx+LYcJe3hPAHsiOOG3UKb7ctl3i7BrpDnBQb95LMMGRHQSNxoPl8osMg2l3U044px29BHeyOPGN2cM7OhKG7UCU3NLehWKCRXx9nvFzwO/ZNiAP9vORwsJv6LWT0Pn6cWZ4CBR85gPhw0XluAVP+4=;Na2csAbgJzH8KVqGb5D7pQ=="
 ---

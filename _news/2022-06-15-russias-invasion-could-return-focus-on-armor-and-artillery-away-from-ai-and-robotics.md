@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T18:05:00Z
 originalUrl: "https://www.defensenews.com/digital-show-dailies/eurosatory/2022/06/14/russias-invasion-could-return-focus-on-armor-and-artillery-away-from-ai-and-robotics/"
 webUrl: "https://www.defensenews.com/digital-show-dailies/eurosatory/2022/06/14/russias-invasion-could-return-focus-on-armor-and-artillery-away-from-ai-and-robotics/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Defense News

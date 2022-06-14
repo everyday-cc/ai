@@ -1,23 +1,20 @@
 ---
 category: news
-title: "NICE Actimize Named Category Winner as “Best Solution for Managing Financial Crime” by 2022 Europe RegTech Insight Awards"
-excerpt: "NICE Actimize’s entity-centric approach improves the accuracy of financial crime detection through a stronger understanding of customers and their data NICE Actimize (Nasdaq: NICE) was named the category winner for “Best Solution for Managing Financial Crime” in A-Team Group's 2022 Europe RegTech Insight Awards marking its fifth consecutive yearly win across this awards competition."
-publishedDateTime: 2022-06-01T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-nice-actimize-named-category-winner-as-best-solution-for-managing-financial-crime-by-2022-europe-regtech-insight-awards"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-nice-actimize-named-category-winner-as-best-solution-for-managing-financial-crime-by-2022-europe-regtech-insight-awards"
+title: "NICE Actimize Named Category Winner as \"Best Solution for Managing Financial Crime\" by 2022 Europe RegTech Insight Awards"
+excerpt: "Powered by artificial intelligence, machine learning, entity resolution, and network analytics, X-Sight Entity Risk enhances the efficacy of advanced anti-money laundering, enterprise fraud prevention, and other financial services applications. Craig ..."
+publishedDateTime: 2022-06-01T12:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/01/9612450.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/01/9612450.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "vUmxXyDD9vAy3ONqMfRXUr7flCyx53tns1i2vhHWrXb6Dt2gIoQigjYefa+/GWaJkULJiig6ptt+hVHNc5bfqstcuWgx+m2QsmT5pxp0bBTe2LjWZVd6tNKxpUmE5arkClwyJHhDFJvuodWzWfcI6xY2Ds7TmDhj5ZlkYgKz1ftbQ8vEbzacKz5t4I7pJlYACZSVi4QSYzBXIsWffLkMu5PLT4d+izttB/7458fFjZv6Zk8HKtUhNVMNijEaD5DN35Eu/5nA31Vsyk0Fty7LWg6v+DhkUVdkMpavNxa/iPjdKSBKtfn+8xjFiF/DqNaLOBAXsnaQBabdjbIEgp+jLsdHkq7ZnHdFumV3HYNlyb4=;+7UZReMDZF2yft3mGXfGXA=="
+secured: "PI6DOiSrI0WMJS+5xSbr8nCa6xGpftdStdP7DovYlJPRXUUcY7Hpr+EvOsGI3mQSgYXANpb+tkASzFTqIqZVay0MHAvd4PeOfAgBVtNLL/8FHKAo6vzU4BnWNTkypKUayxnp7QQ9A74m8Lvt7s/bdoG32z//6Zq5MbOhQpUmu6N7sPKX3fybm5uiY+nAlJQi7bW4MtMHLFC04cpjNVK/31mJIydonWH6ASltfvVmqE8r4l69YxU4jwWU+/MtdFyQmHCC7cC6FW2nDiPqvOeo+km0dhuN9bG2Hlq7zoiOdg8CX99sDnOfS/NSoFr+KJbJb6oMuChqQ/P/p9gzxD47j6uACafNLpzXNPSZ01oZEBE=;6/ttHsZVirpIXGl9SIcj7g=="
 ---
 

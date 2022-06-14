@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T19:03:00Z
 originalUrl: "https://www.tsln.com/news/mines-students-design-software-to-predict-the-cattle-market-with-29-year-old-program-envisioned-by-rancher/"
 webUrl: "https://www.tsln.com/news/mines-students-design-software-to-predict-the-cattle-market-with-29-year-old-program-envisioned-by-rancher/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Tri-State Livestock News

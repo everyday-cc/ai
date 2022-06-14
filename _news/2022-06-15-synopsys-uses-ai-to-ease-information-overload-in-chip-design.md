@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T18:11:00Z
 originalUrl: "https://www.electronicdesign.com/technologies/analog/article/21244047/electronic-design-synopsys-uses-ai-to-ease-information-overload-in-chip-design"
 webUrl: "https://www.electronicdesign.com/technologies/analog/article/21244047/electronic-design-synopsys-uses-ai-to-ease-information-overload-in-chip-design"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Electronic Design

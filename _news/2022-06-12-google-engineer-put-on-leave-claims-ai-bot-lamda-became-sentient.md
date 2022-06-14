@@ -128,6 +128,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "No, Google’s AI is not sentient"
+    excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
+    publishedDateTime: 2022-06-14T15:52:00Z
+    webUrl: "https://localnews8.com/life/technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 41
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Google suspends engineer who claimed company created “sentient” AI"
     excerpt: "Blake Lemoine, a software engineer on Google’s artificial intelligence development team, has gone public with claims of encountering “sentient” AI on the company’s servers after he was suspended for sharing confidential information about the project with third parties."
     publishedDateTime: 2022-06-13T05:45:00Z
@@ -139,20 +153,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "No, Google’s AI is not sentient"
-    excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
-    publishedDateTime: 2022-06-14T15:52:00Z
-    webUrl: "https://localnews8.com/life/technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "If AI Ever Becomes Sentient, It Will Let Us Know"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
     publishedDateTime: 2022-06-13T16:00:00Z
