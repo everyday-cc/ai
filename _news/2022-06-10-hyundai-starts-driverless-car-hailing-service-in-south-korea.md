@@ -57,17 +57,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Driverless Hyundai Ioniq 5 hits streets of Seoul"
-    excerpt: "Hyundai has deepened its investment in self-driving cars, linking with a South Korean tech firm to put autonomous taxis on the streets of Seoul’s Gangnam district."
-    publishedDateTime: 2022-06-09T11:47:00Z
-    webUrl: "https://www.news.com.au/technology/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14"
-    ampWebUrl: "https://www.news.com.au/technology/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 54
 
 secured: "XE0zcNjFy25RA0zz5i8vcRBvDknIF8sTXckvNCVNDP4ZTguBv9/xK8c223M3uIkDAQl73NEFR9uIaGxBvfABZ+lMQtg+3QTo6s1i5uLwzYlsf+7KPMQSjVZKTk0qxVYJslGgs2S0GWK1ip3FB1VJQLpuDrThdMRiTgUJHiG3n9e4k4avlgD6CCjWYGDqXtmzu0BxCfACklqc6WIgDEwlT9EJJMDgC9jntZHxp3b3iQWmw6mAm3bSO5b3MoEZtk4El62Eg29PnBTrxxscoj7vAaXYWm0AiFnXCZ3ra5nts8mp2xISjvQEbtSAQgVyzU6y/idqKhQgCYMP6OqYgaMd8TYPGR2TQxhb6PQILm4XroA=;Ijv48EVLEelvV3w4gGOO7g=="
 ---

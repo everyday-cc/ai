@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-data-science-and-ai-mar
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 802
     isCached: true
-
-related:
-  - title: "5 Key Findings For B2B Marketers: Conversation Automation, Personalization, And AI"
-    excerpt: "Five key findings that highlight the use of conversation automation in B2B marketing, trends in content personalization, and the role of AI in facilitating these interactions."
-    publishedDateTime: 2022-06-09T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2022/06/09/5-key-findings-for-b2b-marketers-conversation-automation-personalization-and-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
 
 secured: "SaGDPnm1S/6Nvn6QAO60z+CmoB1oMK9iGGnx2fvP24fJvLZdDG4k/6Kv50G8p0v11dU1FRFvIhasAx93Q5TiJl4/96FSikU1rv8V5piCEjBjtE0rwsbjeScZ3Vqhz1u1T3fAvsrecN1R+VaYchVB3Kh3nvyksybORybpcaXhnUXalu/jHaTap819cQeN6tlOn0O33Z0hr9RlF4aIzSuVjA/RekrwosmJb2XSNe8+2qcXc+hZfCpm1wWxP0Gc71Oi/9uFK6RT+hcFZHxcOO+905IOnHRExZXy2TeEcnWlen9OjVmrJJSawkCyjgzyHxXvJLbjVGTRKQS8MX1U2MfFO7yNjnHz8TDOQdzZJAZ7M/GS4bauhwI3LVnFSFaiCu4jRqjjyshI+Glv0xNgrHbyIpUFoTNP/TJ+uFRFSVWvJ8PRYDv7G3vDRlqqJfkU0xD2LonYVEB7UCpZdIQSGu2uPnsnbRVew7X/L0NPsDGXPnOiuCzKg1YiFHO96lhCMLk4AncxPDOR4B9H5t0Ir5ridA==;Da8d3npYDLvRNn83D0CQQg=="
 ---

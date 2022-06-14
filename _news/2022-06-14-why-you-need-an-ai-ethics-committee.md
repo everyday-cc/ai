@@ -35,21 +35,19 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Your AI Practices Might Not Be Ethical"
-    excerpt: "AI has fueled efficiencies across industries for years. It's old news by now, but as I've said before, that's a good thing. Conversations about AI sound much different today than they did 10 years ago."
-    publishedDateTime: 2022-06-09T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/"
+  - title: "How Merkle implements Ethical AI"
+    excerpt: "Merkle–-a Dentsu company–is one of the leading customer experience management companies, trusted by Fortune 1000 companies and non-profit organisations worldwide."
+    publishedDateTime: 2022-06-14T05:06:00Z
+    webUrl: "https://analyticsindiamag.com/how-merkle-implements-ethical-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//623e03aea76ee421fc3bd76c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Ethical-Ai-MERKLE.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "eTk3jI6kjlhb3/mYl+Jn9eGuZn164xM4zRgkBfxwb1kjsF8Ue253n5Rr19wxkDlymuW4wUIW4fGezPyXIm25IvBduYhMDaWtznBi0KaH7hcNOBvFVSHbKg6aMPxYx7rNy5YztyGK4PnyhLSJzVVvSRdK4KG0FWqVMWufc30v8eEeRfn1mrlt+0x1/5hU8QT/k1Mbpq8CqNFpQl0rMLygfIZts1gv9HSjEuf/gZZqCVjdXyOxViK5y4aEyMleCmxOpYfKQ3mIf3qdwhgi+4Ma5+BVcRwhMPMuG4p7zzMo7O3NlcilYicXINv0UXVTfrdY972x1cg5aIxZtF4R23cpAwp1PK8JKvHjq8n2SZg4IrP80LOwkmGPz6PYfp1rUeocsqn/cxlJgpiAs5avOIIlAEwuR0AYt+1d4pFQLRsImaw5Er44g3Ehx56l4NIMBAZdmfyyCOxSQ7FOzGTYJ1DqMWslozgYb4s9DALdX7nzhKN69ro9KFvdpllJqjic3jzRXmlc8cOZojHL7b+xS+N7OA==;ZXTt20NrpM4haCxFV5LNUw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powere
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
 type: article
 quality: 116
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "The productivity advantages of Microsoft Azure: vertical focus"
-    excerpt: "As much as this Cloud for Sustainability effort interests me, the vertical focus and the maturing of Azure is what I find interesting ... What Microsoft has now is the foundation for future AI-driven solutions that could be independent of verticals ..."
-    publishedDateTime: 2022-06-09T12:09:00Z
-    webUrl: "https://www.computerworld.com/article/3663669/the-productivity-advantages-of-microsoft-azure-vertical-focus.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
 
 secured: "Oas6RJwI63XWPf5Zpv25AifzJClikqORuSo+z+QtUxUNTfD/jCUKL8hLjaLk5Sw6CgoDKbEm0EzQPLFcpYIWRXpq0bfYwNdOtRV9zi5y5DzMvBoWb7gp4j3fuwQl/YTQNzDhjdQQAKgCJWPlbWjtjIfnqKe0Urg5/GWgv5rXeWCaqzNHxZvnz+UZuAJzw2sc+oCosaGaht/+uCIt0nj+9nRJBqbeSxJMtuNO7gG1YdK9oSh/agkPW+CoqpLdFVxKDSM5aVfqPUfCDODRXKZTJvlp0ax/YampFmGM5lbA7kPIVuLxNa3CqgWk6jhhq02DSxw74W98Q7lQmgn25dLvVzkoNORO7j4pxzvbGUTYsPD9xkQudgs2JaMdI7vhK6ySdSKEJdvk21uZICEYkkM7Px504KYxmwZVtI+dxW34zDUZt26BfDwjp7ZILwf6oUqxnFkiTEyXea+Gndh2Sn2Py8nfDgGrgNCifHwZlpYVwZUbG/xWoFJMhf8vfg6lkYkugWVzRI7rxA2zcwhYwecFIA==;Hd5nw8C2wW8PbRKkAS3TMg=="
 ---

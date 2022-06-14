@@ -94,15 +94,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "The productivity advantages of Microsoft Azure: vertical focus"
-    excerpt: "As much as this Cloud for Sustainability effort interests me, the vertical focus and the maturing of Azure is what I find interesting ... What Microsoft has now is the foundation for future AI-driven solutions that could be independent of verticals ..."
-    publishedDateTime: 2022-06-09T12:09:00Z
-    webUrl: "https://www.computerworld.com/article/3663669/the-productivity-advantages-of-microsoft-azure-vertical-focus.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
 
 secured: "kLRFMOOI8WHS7XSeab1fklvwBvi6aSge0awdwliDoYA1XWp7KcJFHZwGlSgA6+SMv9gOCd+5rHa1q4c/5kIJTO6n3nkvT7SSOiIVrYT3a84z1gyH7PmbKpKeI+ScDDw7JcaYZWRy9LnA0Szg34tpcYv6pIvYpwnjFk7BIXrZbZAhw7rwtDvUsJihHalB1rQZ/VYzc24F+W7MAvEaiCfDKb6c7H8h+EonUK39Rj47FFAnJ7/CS3NXLcX3dOrOoxHF1+mfiJHQ8kAPtr8ZC/WZ7Vm3gTBzBdPAyZ+dyJLj5Eksmepr6qo0VPSlNT+AU1U2nopeYAH/+qlmxH7PJaxRk656fARfGrHQhU/VurBWzz1QLdCe2Em0n9CG6nP4c22qtiySdVXgFPm8G0W/WWiCmYideocEeXWpKBWO+6bOUy6p+hTx6LVT/C4nwwmj4rHCQzWIU81/kDt6pWEe/hPAYqM3aWUewjA078gbo8mhRwboYVjfdA0r0z3WqV2WrCn2MzQCH4d4rAp49dmO0hoOcg==;+sAZN2lJNALlrfP/ps6dOA=="
 ---

@@ -32,21 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Your AI Practices Might Not Be Ethical"
-    excerpt: "AI has fueled efficiencies across industries for years. It's old news by now, but as I've said before, that's a good thing. Conversations about AI sound much different today than they did 10 years ago."
-    publishedDateTime: 2022-06-09T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/"
+  - title: "How Merkle implements Ethical AI"
+    excerpt: "Merkle–-a Dentsu company–is one of the leading customer experience management companies, trusted by Fortune 1000 companies and non-profit organisations worldwide."
+    publishedDateTime: 2022-06-14T05:06:00Z
+    webUrl: "https://analyticsindiamag.com/how-merkle-implements-ethical-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//623e03aea76ee421fc3bd76c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Ethical-Ai-MERKLE.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Why You Need an AI Ethics Committee"
     excerpt: "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ..."

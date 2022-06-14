@@ -87,15 +87,15 @@ related:
     quality: 39
   - title: "No, Google’s AI is not sentient"
     excerpt: "By Rachel Metz, CNN Business Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
-    publishedDateTime: 2022-06-14T02:03:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+    publishedDateTime: 2022-06-13T21:03:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 39
     images:
-      - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300-860x484.jpg"
+      - url: "https://ktvz.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300-860x484.jpg"
         width: 860
         height: 484
         isCached: true

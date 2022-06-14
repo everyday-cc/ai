@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-61784011.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-61784011.amp"
 type: article
 quality: 87
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 576
     isCached: true
 
-secured: "/RidQcCUInn6iYe6u7aTjTzpiN4WnuOdsFdwFDz/p3sefgvCyqaMsguAofM60MJrMTN5cilcTuBRrjONq/7H402EF9bDIpqD16Deh07OLYDx4chOef2V+ESU/ZNMOgg4XTJ0NlKQzFaXqZQnapGvcbU+IPkAiaj+UYuQrFxtikcqY3o8GwtBF1xTQZcHieqn6R5FaKcJdJTNJE9/o4Cwl48xoUHK/vshN1RREfcJT2/lWthftBCRcSCsPRqqunrw8PjRh6hgcW9SIi6YcrVX1IvagTpK1J1DKHOfNGgWBIN+WISWJlXCLaCsZq+U/9JNWtM7XOCZSZXYVrMcYPMjwQz3hR7pIwgPEWQEL/JXoaQ=;WgBjUUxOAtlDDxoSG06JZA=="
+related:
+  - title: "Google engineer says AI chatbot has developed feelings, gets suspended"
+    excerpt: "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him."
+    publishedDateTime: 2022-06-14T05:17:00Z
+    webUrl: "https://www.androidauthority.com/google-lamda-3176080/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
+
+secured: "q2HBTZpo3P5zvnllrQvfJdXFjSEI1ZcXOEoGb7ZqIE39lsFAH/42rRhrSiXAxo5cSUBPxHUs9DbqweXE1FB936RAlwpDmabnkE6lQWcVtiMdabDAsn1WsOdXacjJQhvBfrKg6skmLGpW75W9s5CQrx/PaJP2XlNuA82JIIQ2c4/ob/VaqKSuPuiM5tlaG7BWJFnthAJpiuG7aFPn6a5tK0Xo2d5QBcZKD76igzznXdjDQxxMYEx6Vs/tHP2wDfiQ+DdgQs1pRsYTQ/j6WMPaCeXAOmGK8YLx8Ipb+AF7eCdzvd33icxiZlY3/unLu8KqQ+iEUVfAt6QnrtuiZybWgjMS2ZNRDP0SF9HD2g1whInLdIJqY94Qlp+UNysTVYKp+W0YAjq1pc57dWEsQkUFFtXdLcnaaNWJqT/PlEAp3y9xdw+S342g1L+T4wLZld09Bp8AkPEjEVUU2ekUg3uv22M3OAzcQ4Baqw29auGIy3sjefgMLBCZqoD+AYs8YSN4EO9+97k4i5wS37SpviP2qw==;Wzxw0Sdpw3TlcFqo+gvs3A=="
 ---
 

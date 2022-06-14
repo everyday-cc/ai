@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Engineers build LEGO-like artificial intelligence chip"
-excerpt: "MIT engineers built a LEGO-like artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new sensors or updated processors."
-publishedDateTime: 2022-06-13T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/955524"
-webUrl: "https://www.eurekalert.org/news-releases/955524"
+excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip—like LEGO bricks incorporated into an existing build."
+publishedDateTime: 2022-06-13T15:00:00Z
+originalUrl: "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html"
+webUrl: "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html"
+ampWebUrl: "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 78
+heat: 98
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
+  - AI in Healthcare
   - AI
   - AI Hardware
+  - Machine Learning
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/engineers-build-lego-l.jpg"
+    width: 1434
+    height: 727
+    isCached: true
 
 related:
   - title: "MIT built a new reconfigurable AI chip that can reduce electronic waste"
@@ -45,6 +55,6 @@ related:
       domain: sciencedaily.com
     quality: 68
 
-secured: "SZP5jMV6luefkRJfwJ4b3w+47nbklNccE4r9noDe8NGeGr4oV+Vux5mYy2uNgPkOEerw8SOfypQ9hssG8kBGplRGSwmtNKnxRxzuX1m7qGYhd78rE5arBGL/kiWVivO5kYJWaU62frmKZIpfYJqJ9qDqsYGrR4q7hs8OgjwZrgzfm4+FbH4UEnsVt+5yMoz8kynvegLRs9YjfVsTEm80DaBrlhOYZ3IZkFqsZ6DScljfjSIhWm1ofczZf3bWmlyS1Lhm9S4zXrynW4ALJBA0PupcSnpkZb9BhIqXHRzTUTOA2MAkeWHoHl7H9i9+v9qGa9qtvLh2DbWjkKooVilvHLJK0gALBWaP2pqGnfFJTFw=;0FZR8amH3Y0KKnK79aoYIw=="
+secured: "aRBUvnOuR0g6aSVxKcekhDfJ3usIN/I3tirX2F6sLLCmLnUUm+ub+8EVVXJ86unviX+Tv4eULJJ9c3Vcb9d2dzBjB8QO7Lh9uXs1gD9gDG38p152AqwpMpLlgYtANj31GvuO2OADIPAJ8HGeFel4Zbf8/7fdBrK9YlsEiTnlT9xyHRyyfNrKcwaMwS+uNfDMkoOHicvFgo1GFxyaNPXXKKbmiq6h9NQKNDR8UTUaJkrw6o0CvdSp1te1HHaDYzNJatexeFBTyGvnH8t5FI1vlv4ZGY8AQhMQt7ZjvCHtBj7XCMq6inUBuqDSXirr3QcuvCzaoZ2yHij5d8dV8IErL6QeZFfenfzC73mDG1VleoQ=;piaBuGCF9zJtvOofo0FeTw=="
 ---
 

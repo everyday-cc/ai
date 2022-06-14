@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Shield AI Raises $165M Series E to accelerate building of the world’s best AI pilot"
-    excerpt: "Becomes fourth venture-backed, multi-billion-dollar defense-technology startup in 20 years SAN DIEGO, June 9, 2022 /PRNewswire/ -- Shield AI, a fast-growing defense technology company building AI pilots for aircraft,"
-    publishedDateTime: 2022-06-09T11:33:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-united-states-business-75b03e4a6629d4ac9d3e9be468a2cd66"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "epGL4TiEEV/4yZEeBEW19D46vjgW1+9H1dfjFAQ59x+Eg5gVRDIYCFwEyj3S2yRMdP+SB9hRMzoIQ3SwWDyHNFik5JyxivzsGh94t66oQJEAgPUOmzenj6/iZ8NY5RSiRWcBPyv7rwghjARCBIl3RKTxWHceIVkV5DcydPYZ7lBY4ebTzcGKKf2EdCIMDea1gA+IcKHPAkR/UNPMPlXWSvjKL+TzoYQpL2DtOceeN8atoYpQwq7wLT9yh+KEXeo1KvrfoAUga2sEwbJg8cpyB3bN1aZY59hSA0vQ5P/AD2z1bQc7b8KskHLDA3BGgwj2EKJ+Blq8+96L2g421wRLjxtCeO0Ps9MloybGzwffWdMo6+EYoOI2B/BI/DPA5JXGiz2esP2ehK80I7fSlg3mY3zEVxXcU88L+CV46gWpx5hzVrZY+kMWs2etT+d8Xt1yfljae46ijXsjIoMYvQOz/hPp883WJqh4RmQ559Xfd/B2zJ08epXVo8HGxTZSuYnpKJysZ85arxyDkj7oWpaG8g==;Vvo/XG8pcQTCF4ceGD17kA=="
 ---

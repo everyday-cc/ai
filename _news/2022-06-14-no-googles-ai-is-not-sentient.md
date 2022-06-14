@@ -2,24 +2,24 @@
 category: news
 title: "No, Google’s AI is not sentient"
 excerpt: "By Rachel Metz, CNN Business Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
-publishedDateTime: 2022-06-14T02:03:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+publishedDateTime: 2022-06-13T21:03:00Z
+originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300-860x484.jpg"
+  - url: "https://ktvz.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300-860x484.jpg"
     width: 860
     height: 484
     isCached: true
@@ -133,6 +133,6 @@ related:
       domain: rnz.co.nz
     quality: 17
 
-secured: "Z+sRd4SBDdGCVn5+12tmYpRaD05qiHN1IBGXGkk5gzv8IahUo+xtD729vGVoWeWhzgCSm5cybXNAZpuNT9do86sd6SplWeEPG/MEa1J3r93SrnTkqFmGKvW0q2ljrCeSqMD6FLLS/DC5sggiCmam8YsCCnE3InkVUNvlYPPYa8XjQ/8v6CaVvKPfwn18O+Y4Zks9Obd2wdQSzfn4Rp6lNnfdKt5IkVBGpaxdC96mFV5H8zMIw6ZJQfSpCLph8Yn1dJJ3z+3QgSn0v+PMJCix2fq1mJGcsFo5VXLBmQL2eTgWlZW5DUelbPbAF8uLSwaLtzlvVJCKtZcRa7aJRcx1wVktSHHvo3AmxGJp3ieVhvM=;mzwJ/SZ4oAkBIHx8SaxOzQ=="
+secured: "mtVAJsTANrjjUrdNho7EHd/2TIMT71fBVZrLqBrZffLVJ0JXcUKZCSEwvCu0ptXqNhKjKbqrxFCG9aniZ284pb3k8WX85bekC/ipwAlvJtpfpz5vrUwO60mcLqXwHeYpim+wcmdBMz8PUrEUsp9q2T5Gm3A+tgLUZqNgOBm87LTfM3oOQuvtX90OOHn4Q6slulmJt2pH640VwX3DB2lt00icIBmgDTgOoFwmdnHLddeFXUk3SM0Jw+zlFCV02Z1WVtx+HdwmIj9ofZ2b+LrzVx69Q+lA0MfqsUYYidcuHaNrRiYX4sQogUlVzyxGdNTF1UVaIsAjvIZteLuwXJuwRGaciB6PXQY+BtDnYHNruCc=;iBA3YE6JAGKdETVUWO6F1A=="
 ---
 

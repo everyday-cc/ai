@@ -3,8 +3,8 @@ category: news
 title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
 excerpt: "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine."
 publishedDateTime: 2022-06-12T19:18:00Z
-originalUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000003"
-webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000003"
+originalUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?d_id=3887326&ref=bffbhuffpost&ncid_tag=fcbklnkushpmg00000063"
+webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?d_id=3887326&ref=bffbhuffpost&ncid_tag=fcbklnkushpmg00000063"
 ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
 type: article
@@ -236,6 +236,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Google engineer put on leave after saying AI chatbot has become sentient"
+    excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
+    publishedDateTime: 2022-06-12T16:36:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/1522_1043_2637_1582/master/2637.jpg?width=620&quality=85&auto=format&fit=max&s=50982f1d3219a19b19768fcd8276e7d7"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Google suspends veteran engineer over claims that AI-chatbot is sentient"
     excerpt: "Google engineer Blake Lemoine presented his findings to the company in April but has now put some conversations with the bot in the public domain for all to see."
     publishedDateTime: 2022-06-13T09:46:00Z
@@ -292,6 +308,22 @@ related:
       - url: "https://img.jagranjosh.com/images/2022/July/2972022/ludo_express.png?new_images_en"
         width: 450
         height: 232
+        isCached: true
+  - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
+    excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
+    publishedDateTime: 2022-06-14T05:54:00Z
+    webUrl: "https://www.pedestrian.tv/tech-gaming/google-ai-sentient-feelings/"
+    ampWebUrl: "https://www.pedestrian.tv/tech-gaming/google-ai-sentient-feelings/amp/"
+    cdnAmpWebUrl: "https://www-pedestrian-tv.cdn.ampproject.org/c/s/www.pedestrian.tv/tech-gaming/google-ai-sentient-feelings/amp/"
+    type: article
+    provider:
+      name: PEDESTRIAN.TV
+      domain: pedestrian.tv
+    quality: 46
+    images:
+      - url: "https://www.pedestrian.tv/wp-content/uploads/2022/06/14/well-this-is-grim-1.png?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
     excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"
@@ -559,6 +591,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "R7D2vGI+Xw1pzgQxTdwHSCIQoEF8GRFm7TbuGzTIWgR/Ghdr57AkDtgodhT1LqQOfjxCOOkxWiwEsQvDEu3KZeoDjKqXDmFvl3Otv3qM7ygdoKPzS4O6OCefV/lncqhSYnSYD5ueOo2oht1kopXa496zWYkgCc5lY49mPNSFAlDqOnduRl38NlXqypDcthMibIhEIzpMoaIdQEnA8aQIdDE4JLlfrwPwHsC3xkSDf6ZyLbpsXpQOiuwef4QWfDGViHz++KGOClS82BlUrhBvii8XJDaoiGr3XPSzlf7Q+/wS19/ryXG5wUfHVXMUkx8xg4yBbDvIvWJNE99cifrE6VzOM74XQbaPgIINjCtKmgM=;bA6aR7X9xwWdzYkU8rzfkg=="
+secured: "Qh5UyPr29x0nHiIlc0ou4Cts0+iHopC0x03ckqz8ZNZRXnN6BhgFqTCOlEX9rAoPgSXAti1nsZlxnBJjwxSIqxBZj9fGpmkswbTXILc8DRkaSsPVdC4A2YrBKO5UNPCRFr8w3N80D/UQ99aJ0lOtCrifA3WfFxpR2f/TPI5tM3RFOhkBKBvGyhKLT9HH20P59iODQph8bUbZx000ZilurLimhA7hUsN3VP+dtsjp68nn4wFDrjNwDq6pJq3jX9ZoYeB87pMQpWjx76TxvVCfhfhpUL8V3wKZYYYujsmKf1/s9/c1IgJ2FvmK3rK740gcXQibE8ijwyyWlN3yIkbwARMDDlWeqfFOIfLfQplk3pM=;5TajDwMtK+yWOs0Q9hCnWQ=="
 ---
 

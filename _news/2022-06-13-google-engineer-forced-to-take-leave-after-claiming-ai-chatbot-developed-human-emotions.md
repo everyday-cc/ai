@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Google employee claims artificial intelligence system is 'human and has emotions'"
+    excerpt: "In the transcript, LaMBDA mentions what emotions it believes it feels: love, sadness, depression and anger. The AI even claims to have a soul, writing, \"I've shared that idea with other humans before,"
+    publishedDateTime: 2022-06-14T03:30:00Z
+    webUrl: "https://www.fox7austin.com/news/google-employee-claims-artificial-intelligence-system-is-human-and-has-emotions"
+    ampWebUrl: "https://www.fox7austin.com/news/google-employee-claims-artificial-intelligence-system-is-human-and-has-emotions.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/google-employee-claims-artificial-intelligence-system-is-human-and-has-emotions.amp"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 47
   - title: "I’m a Google engineer – our artificial intelligence bot has come to LIFE and has thoughts & feelings like an 8-year-old"
     excerpt: "A GOOGLE engineer has said an AI robot he helped create has come to life and has thoughts and feelings like an eight-year-old. Blake Lemoine said he had several conversations with Google’s"
     publishedDateTime: 2022-06-12T09:30:00Z

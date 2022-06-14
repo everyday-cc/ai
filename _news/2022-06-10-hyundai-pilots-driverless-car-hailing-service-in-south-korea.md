@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverle
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Driverless Hyundai Ioniq 5 hits streets of Seoul"
-    excerpt: "Hyundai has deepened its investment in self-driving cars, linking with a South Korean tech firm to put autonomous taxis on the streets of Seoul’s Gangnam district."
-    publishedDateTime: 2022-06-09T11:47:00Z
-    webUrl: "https://www.news.com.au/technology/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14"
-    ampWebUrl: "https://www.news.com.au/technology/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 54
   - title: "Hyundai Starts Driverless Car-Hailing Service in South Korea"
     excerpt: "Hyundai is ready to pilot a RoboRide driverless car-hailing service in the posh district of Gangnam. Using the Ioniq 5 battery electric vehicle, these Level 4-equipped autonomous driving vehicles will operate in one of the most congested areas of South Korea’s capital city."
     publishedDateTime: 2022-06-09T23:19:00Z

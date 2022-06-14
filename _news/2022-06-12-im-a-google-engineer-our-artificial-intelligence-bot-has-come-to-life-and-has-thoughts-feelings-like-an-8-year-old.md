@@ -43,6 +43,17 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Google employee claims artificial intelligence system is 'human and has emotions'"
+    excerpt: "In the transcript, LaMBDA mentions what emotions it believes it feels: love, sadness, depression and anger. The AI even claims to have a soul, writing, \"I've shared that idea with other humans before,"
+    publishedDateTime: 2022-06-14T03:30:00Z
+    webUrl: "https://www.fox7austin.com/news/google-employee-claims-artificial-intelligence-system-is-human-and-has-emotions"
+    ampWebUrl: "https://www.fox7austin.com/news/google-employee-claims-artificial-intelligence-system-is-human-and-has-emotions.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/google-employee-claims-artificial-intelligence-system-is-human-and-has-emotions.amp"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 47
 
 secured: "glf+3NOcRgB8j8OuoBXFznhH/vPMUMWX4/6vSG5smH/+PAXSiFvnIjoXuzj8B93fW4/CRsI071hAOeh6WyMgphIs8PF8LBqDCLZH43R4TiCNBQ8FYKajdE5EIbM1Y1BPZgO9tmA0RN2lTwC7o2ZUddeXm5WRfvML9frTU1466QHPYY0wqWK4wJLjgJRVNO1vs2kHBKbU7oh+taDzp7uiaym8Jwc/MQno+IwzDkXnlyNnyCvYkKCvRf/wzG+xnloslkjgucg8q5ISm5utFrvP0IAtFfpgyKg5JQ+jZW/3ecPNdyFEnD9BE94olJ7odjuYOdjhl7isQlvhKaMfOc2jZW0uJlfjUNM98ljBsthHLZ72rp6MsvpOOA4ojZOQM919Mx4bSrjX0YwSHXXrCVRTwRVltHa7EsdoU+/1v5/jFxoKbnSpjJ48lgtyLFDJo3Xd200tszJ5NVSfPSY48yhSDNH/s4wqD6v2FK8vw1dxjSlvyLligtwcS+HbZmfkwcePEj2jDcBo2/fA3IP/u5bu3g==;KRTRQEHm+QP1zy76h9xJbg=="
 ---

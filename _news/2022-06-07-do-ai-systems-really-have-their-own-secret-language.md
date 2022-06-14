@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Do AI systems really have their own secret language?"
-excerpt: "A new generation of artificial intelligence (AI) models can produce \"creative\" images on-demand based on a text prompt. The likes of Imagen, MidJourney, and DALL-E 2 are beginning to change the way creative content is made with implications for copyright and intellectual property."
-publishedDateTime: 2022-06-07T12:44:00Z
-originalUrl: "https://techxplore.com/news/2022-06-ai-secret-language.html"
-webUrl: "https://techxplore.com/news/2022-06-ai-secret-language.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-ai-secret-language.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-secret-language.amp"
+excerpt: "Snoswell is a post-doctoral research fellow in Computational Law & AI Accountability at Queensland ... You may recall the hullabaloo in 2017 over some Facebook chat-bots that “invented their ..."
+publishedDateTime: 2022-06-07T00:28:00Z
+originalUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
+webUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Stuff.co.nz
+  domain: stuff.co.nz
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/do-ai-systems-really-h.jpg"
-    width: 1356
-    height: 668
+  - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg"
+    width: 1420
+    height: 800
     isCached: true
 
-secured: "nTZryP301+mU74V9i6FEwQfo6q2epZWGSVXxJPcghrq0OM8oiD7ypu305HNTzJN9a5VOKgGJFP2qTJJO3ngwbZiXa2SJJfWIu4T06rSr7OX7Zaf4wJ9vIAggih4PuUYSSzs/BdKjZrIlz3ykBNh6G9Ss3jXpTea3hRIJ7qApPVD0vAR6UJmaKBWwX2XnlvfajO6R9dIWdo2HdlbnkLDlAR8+33K0V+3jwFi+vrnxukcp7pHj8H/SoWkgz0aFtCdvU56R4UVdwmJzdtD/c/pssAlMk6XMuVrWCDlOmljuuiiqzBLtb0MHV3tCKx6J5Y2b5fgVWuRQA6H9zsAufShp06e2mSRGrTpIT5lx66ej9yg=;9WxHS4Qp78nYzwQGL+6g5w=="
+secured: "7doSdq1BKd0ClNTVxkA05RIxZyN3aCY9fad3RxlhpCbvQOZVIc71xEjhQHqmaAWlmh0/hQwjungIKBDpibI8T+K+9+/0Wle14r0s0aeOyUwOfGPwZj+2e2Ai2q6iS6LmXi5sQuhL7Nt4okD1bOm1D0Y2uHMUWyat7xjDdrAjVRDOEigJidodQFikS4fr1wccqBS0a1sm4+4PEkDUDrObeDuwcwGvIoVeXMWoYezQt/vMM9V0x0Q2ndsQlxiM4zaFptzFH5fY5hceGXMunwuKHKByC2ae9gsXFTAlWg4OiYT5Athp9wotYt/KCsQyx79vC9o6rpQH0vJFpv14/kJ1T/eGqPp5ULz+gXOyxfDnHkA=;X1cS9Rxyo2BZzLY5BS19zA=="
 ---
 

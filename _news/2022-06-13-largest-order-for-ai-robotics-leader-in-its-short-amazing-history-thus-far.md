@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-13-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-thus-far"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX"
+    excerpt: "AITX SCOT. AITX AVA. AITX Collage. AITX Showcase. AITX ROAMEO. Largest Order for AI Robotics Leader in its Short Amazing History thus far; $AITX Receives a"
+    publishedDateTime: 2022-06-14T05:24:00Z
+    webUrl: "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 62
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/14/EP_1bc51image_story.jpeg"
+        width: 893
+        height: 585
+        isCached: true
 
 secured: "BcasTEzOs8ZHL9o9C1PjRQybSO3kFdUXvDZ2ptI1CIBu5KxhPAkhe0wlcE+PurQLQZ5ju+f0y6nHaZL2FDF4EBaiNjlkejI+VsQLnlJgNYn8vgKFrkQ3NjewebuaUSNX+D1LoWhZrE2HKflo+EYNRTRKDPVQ9krAAPBE7uQ4y1a3lzcQlFT1vON1e19dqO+KKlhn+iyzDZhKvpDfIcBHsSS0YQxEqXUAoQpztaPT7qdYS5C9uVwKH36uZzD6JvwA8ltYgPnDbuhdofLthJ4E/CeSkUNvwsJOU6iTqk0Y/7Qux7YCiS50tgNEMX2kaxKaQbpfyFt2J4wvStUSobWnfTds9UUKwiPlfT32SxEh/yIE+0KDAaKYoSYPSNgzcPJw8VIpVeWtMzE2NSbuMZTz1xn5spsw+OsBOnv0MVHzcgmd80vpz34heGudTM4tgKH2NFe2U2GDuItcf4ntmk24T2KHSszFmLY8dWB0Dbu44vIVAlXDg1bpndjGW1zSas9jbLHPEyu18w58cEnzlTYRbQ==;acQaGWLLGT8tj7c4g4fuCg=="
 ---

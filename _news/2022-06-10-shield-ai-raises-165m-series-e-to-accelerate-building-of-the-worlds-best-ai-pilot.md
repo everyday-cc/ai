@@ -9,7 +9,7 @@ ampWebUrl: "https://www.suasnews.com/2022/06/shield-ai-raises-165m-series-e-to-a
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/06/shield-ai-raises-165m-series-e-to-accelerate-building-of-the-worlds-best-ai-pilot/?amp"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://www.govconwire.com/wp-content/uploads/2022/06/unnamed-file-46.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Shield AI Raises $165M Series E to accelerate building of the world’s best AI pilot"
-    excerpt: "Becomes fourth venture-backed, multi-billion-dollar defense-technology startup in 20 years SAN DIEGO, June 9, 2022 /PRNewswire/ -- Shield AI, a fast-growing defense technology company building AI pilots for aircraft,"
-    publishedDateTime: 2022-06-09T11:33:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-united-states-business-75b03e4a6629d4ac9d3e9be468a2cd66"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Yx8UsRQyNQUf1jAbL2c2cIg67la6z/nC8+Ls7g/HylizuIFMHtaLGT9PoAC32qc0hIidzzgWvGwSEM3Di5fHp46V7jYa4hN3zyV3wbxLRwZ4UwvbTFHWbu18Kydb0V5LfJ9kA90fVx/BkYMttsywb9VCJUdDXtYP6PyT/Trotv6bTUieHZ90j2KGvh/RqGdiD7e4cS/nuWkfR6VpQM50cs/ZZMBGxg7m3GrMZvF71mvfO0GYX3fSfi8rbLHND+LG8Kac+dvawKx1j0QgRlyd3Y4IvV2w71gmJdhAkls1axApr37wxlFy3/RjYrOMZ8So4Ki/E6vNrvnizO8kK7h9KDltZXYX+52uB13VXnNnU0WYbvUZd/yZrmCOveG3FcaK9jJNEzmGKRZ5h5kmjsrBvO1oyL0ZA+s3TkUP0rihS+VYXDMb3/kD1fke68qSjU3gv5KMJz3IysEW7aid9qpOUGd3oBz52Azfk6GEXIlvW4L2OJtG8QW7JW/RM7/5JojN8qtXcdyCF2jgqI80PSWUsg==;Qs/rmYqWITCdO/qPNE8Lhg=="
