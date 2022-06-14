@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:43:00Z
 originalUrl: "https://www.etfdailynews.com/2022/06/14/veritone-inc-nasdaqveri-receives-consensus-rating-of-buy-from-analysts/"
 webUrl: "https://www.etfdailynews.com/2022/06/14/veritone-inc-nasdaqveri-receives-consensus-rating-of-buy-from-analysts/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: ETF Daily News

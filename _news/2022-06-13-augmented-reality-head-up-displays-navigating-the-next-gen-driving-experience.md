@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T14:43:00Z
 originalUrl: "https://techxplore.com/news/2022-06-augmented-reality-head-up-next-gen.html"
 webUrl: "https://techxplore.com/news/2022-06-augmented-reality-head-up-next-gen.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

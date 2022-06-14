@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-lego-like-artificial-intelligenc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp"
 type: article
 quality: 78
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "MIT Engineers Build LEGO-like AI Chip"
+    excerpt: "With a LEGO-like design for a stackable, customizable artificial intelligence chip, MIT engineers have taken a step toward a modular chip design. Traditional wiring is used in other modular chip designs to transmit signals between layers."
+    publishedDateTime: 2022-06-14T12:07:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip"
+    ampWebUrl: "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 76
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/06/MIT-Stackable-AI-01-press_0-e1655207915965.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Engineers build artificial intelligence chip"
     excerpt: "Engineers built a new artificial intelligence chip ... add layers to a cellphone's camera so it could recognize more complex images, or makes these into healthcare monitors that can be embedded in wearable electronic skin,\" offers Choi, who along with ..."
     publishedDateTime: 2022-06-13T18:38:00Z
@@ -54,6 +70,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 68
+  - title: "Engineers Build LEGO-Like Artificial Intelligence Chip"
+    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip — like LEGO bricks incorporated into an existing build."
+    publishedDateTime: 2022-06-14T15:14:00Z
+    webUrl: "https://www.printedelectronicsworld.com/articles/26888/engineers-build-lego-like-artificial-intelligence-chip"
+    type: article
+    provider:
+      name: printedelectronicsworld.com
+      domain: printedelectronicsworld.com
+    quality: 54
+    images:
+      - url: "https://idtxs3.imgix.net/si/40000/9B/E8.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "qARGu7VP0/pssFO8/ahHEDJfZZRXmqcqPtSft6uboemfG8S9GIOh03Ti/EeKZZi2CvOz+sCvXd9oVJxlNwe5zQXM6BV8TcwjY+pep4J8k+z5FR+az3lbzvXUWk5tE6obexTwMpu4yNtT0V/J1ke5ljtz7UMGAVxUKT5wKF3RvjnHkEUm/ifOjtrFZ2e8XSIki91PRbpBwnEV8Cd/3ouZuT9ibKOrAx6vl1pOJdmYZDCLqphoBOvF2CTHWLAQhrvploJ02QnpKX88Aj/IS5tTsyvUPMS20/6ah0mPmLsH24sL9qVs8ljy2z3ydxOysxhMZ5Rr4RGVf7WuU2Oh0lC9jMK17XH8s3RFaAnQgaSvWr5q7Y6UJmUM+Bm0XEOHzvER8wjJYmke7XsAcBp0hz5fuw2GGMaQhS+hvORq+uKYvLqpUceCq2VaJi6rmqkwWtWj35WaVDJ3i7sHROFHkAEZ7YPjcZ19AMPuO8cPZKEhWTWBCjNphKfKet7fmGcXjo6xV8udJTt5huGSbsHF7CLlgw==;16EhLSBJ8QhGDxrYSfhxGA=="
 ---

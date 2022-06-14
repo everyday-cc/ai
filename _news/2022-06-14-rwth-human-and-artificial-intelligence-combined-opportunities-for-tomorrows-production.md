@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T07:48:00Z
 originalUrl: "https://indiaeducationdiary.in/rwth-human-and-artificial-intelligence-combined-opportunities-for-tomorrows-production/"
 webUrl: "https://indiaeducationdiary.in/rwth-human-and-artificial-intelligence-combined-opportunities-for-tomorrows-production/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: India Education Diary

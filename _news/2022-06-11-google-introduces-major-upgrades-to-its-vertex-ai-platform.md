@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-major-upgra
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: enterprisetalk
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google introduces major upgrades to its Vertex AI platform"
-    excerpt: "Google's Vertex AI is a managed ML platform designed to enable developers to speed up the deployment and maintenance of their AI models."
-    publishedDateTime: 2022-06-09T21:20:00Z
-    webUrl: "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/"
-    ampWebUrl: "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all"
-        width: 1200
-        height: 691
-        isCached: true
   - title: "Google Cloud expands its Vertex AI platform with new machine learning tools"
     excerpt: "Google LLC’s cloud business today debuted a series of enhancements to its Vertex AI platform that will enable enterprises to develop artificial intelligence software faster. Introduced last year, Vertex AI is a collection of cloud services for creating AI models."
     publishedDateTime: 2022-06-09T23:42:00Z
@@ -70,6 +54,15 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Pure Storage upgrades AI platform built on Nvidia DGX systems"
+    excerpt: "Pure Storage announced updates to its AIRI//S line of AI-ready infrastructure, which it co-developed with Nvidia. The two vendors launched AIRI in 2018, claiming it was the first AI-oriented reference architecture that simplified the process of building an AI infrastructure by connecting compute with storage."
+    publishedDateTime: 2022-06-13T13:50:00Z
+    webUrl: "https://www.networkworld.com/article/3663158/pure-storage-upgrades-ai-platform-built-on-nvidia-dgx-systems.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
 
 secured: "rNG2Lgos45/5x5CghYKgdFLO8YKoZmEXeOGf2FJ7uNnlkblk1lzIbzx9UrhTS7xhtpXeY4vcrSCa1ELw0uGxOwNQshoK/mjs7S+7/B3aqieR2SQKB4L1rAL2BvR7MxW4LFW5YrGVyMmmVjdIdWIj/oV6qwaGBGYSJd7Oi0uAQC2u6HD1DVDw+uXhi33/4E/XqDRQ6ts/poWD6hw+Z513Efy9J4hQOZPBrAMzLpTanvtqSCITvnQMfzdAZBBRROvz+wOrSyCwN0ukzskUUrlzuowDL6Dm3+0sn4sZcJo0i+jySlLx11Q8vUf+LqQ4XOfe8PnUt6fKbaa19zghgHzLZLqaOjYv+m+wzprNYGPQ+BQ=;Dj9k8zmEe11f9sRPfrfLVQ=="
 ---

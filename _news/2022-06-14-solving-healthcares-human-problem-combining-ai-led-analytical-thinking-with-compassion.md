@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/solving-healthcares-human-problem-combining-ai-led-analytical-thinking-with-compassion/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/solving-healthcares-human-problem-combining-ai-led-analytical-thinking-with-compassion/"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: Forbes

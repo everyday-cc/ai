@@ -40,6 +40,15 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Dubai will use artificial intelligence to speed up bus journeys"
+    excerpt: "City Brain is expected to increase bus ridership by 17 percent. Dubai will use artificial intelligence to speed up bus journeys. . News."
+    publishedDateTime: 2022-06-14T11:47:00Z
+    webUrl: "https://www.timeoutdubai.com/news/dubai-will-use-artificial-intelligence-to-speed-up-bus-journeys"
+    type: article
+    provider:
+      name: Time Out Dubai
+      domain: timeoutdubai.com
+    quality: 32
   - title: "How Dubai is using AI to get people on public buses, reduce waiting time, and speed up journeys"
     excerpt: "AI and advanced algorithms are used to analyse massive amounts of data captured from nol cards, buses, and taxis in operation, which then result in revised bus schedules and routes How Dubai is using AI to get people on public buses,"
     publishedDateTime: 2022-06-13T07:12:00Z

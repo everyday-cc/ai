@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/serge-beauchemin-appointed-to-the-board-of-directors-of-axes-ai/article_ca59f37a-7a2e-5b3b-bd9c-d14a18865115.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/serge-beauchemin-appointed-to-the-board-of-directors-of-axes-ai/article_ca59f37a-7a2e-5b3b-bd9c-d14a18865115.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WFMZ-TV

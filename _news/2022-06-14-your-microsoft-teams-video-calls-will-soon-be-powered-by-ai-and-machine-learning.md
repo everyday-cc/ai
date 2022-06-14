@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powere
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
 type: article
 quality: 116
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Microsoft Brings Voice Controls to Windows 11"
+    excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
+    publishedDateTime: 2022-06-14T13:38:00Z
+    webUrl: "https://mobileidworld.com/microsoft-brings-voice-controls-windows-11-061405/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 21
   - title: "P&G, Microsoft partnering to build the future of digital manufacturing"
     excerpt: "Consumer goods giant Procter & Gamble will partner with Microsoft to build the future of digital manufacturing. P&G (NYSE: PG) announced June 8 it has signed a multiyear deal with Microsoft (Nasdaq: MSFT) to use its Azure cloud computing platform to digitize and integrate data from more than 100 manufacturing sites around the globe,"
     publishedDateTime: 2022-06-13T18:27:00Z

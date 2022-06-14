@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-in-ophthalmology-a-gamechanger-expert/92197311"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: cio.economictimes.indiatimes
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Cloud-Based IVF AI a Game Changer?"
-    excerpt: "Developer says the real advantage to IVF artificial intelligence will come from cloud-based platforms that supply immense heterogeneous datasets paired with low operational costs."
-    publishedDateTime: 2022-06-09T19:48:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/cloud-based-ivf-ai-game-changer"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-264.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "How artificial intelligence could be a gamechager in ophthalmology"
     excerpt: "AI has important roles in ophthalmology in early screening and detection of conditions such as diabetic retinopathy, retinopathy of prematurity,.healthcare. artificial intelligence. gamechager. ophthalmology."
     publishedDateTime: 2022-06-14T06:47:00Z

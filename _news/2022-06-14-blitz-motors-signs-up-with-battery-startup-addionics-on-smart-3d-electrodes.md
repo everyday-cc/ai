@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:00:00Z
 originalUrl: "https://venturebeat.com/2022/06/14/blitz-motors-signs-up-with-battery-startup-addionics-on-smart-3d-electrodes/"
 webUrl: "https://venturebeat.com/2022/06/14/blitz-motors-signs-up-with-battery-startup-addionics-on-smart-3d-electrodes/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: VentureBeat

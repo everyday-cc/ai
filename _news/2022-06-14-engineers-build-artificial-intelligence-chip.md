@@ -57,6 +57,36 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "MIT Engineers Build LEGO-like AI Chip"
+    excerpt: "With a LEGO-like design for a stackable, customizable artificial intelligence chip, MIT engineers have taken a step toward a modular chip design. Traditional wiring is used in other modular chip designs to transmit signals between layers."
+    publishedDateTime: 2022-06-14T12:07:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip"
+    ampWebUrl: "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 76
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/06/MIT-Stackable-AI-01-press_0-e1655207915965.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Engineers Build LEGO-Like Artificial Intelligence Chip"
+    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip — like LEGO bricks incorporated into an existing build."
+    publishedDateTime: 2022-06-14T15:14:00Z
+    webUrl: "https://www.printedelectronicsworld.com/articles/26888/engineers-build-lego-like-artificial-intelligence-chip"
+    type: article
+    provider:
+      name: printedelectronicsworld.com
+      domain: printedelectronicsworld.com
+    quality: 54
+    images:
+      - url: "https://idtxs3.imgix.net/si/40000/9B/E8.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "16h3lMEHcKMmElQwqWERMY1ITUS8PLw6LEg3QFLS09zPnGS7a57rbxKjt/6SS/jx0JnPa3XnPCYn/hORR8TwIhBFdzVj6GzWk8VdWZHev/RdjQT1rQcsx+DrbPCHjp+7AzOMz/uYapLEQxDWuZ0UixdTTOWuKys13oRebFy/Nm5Sla7LHkpPC8iEiG+Ak2BBGSWO4NNqpSq19uD8TYgNPQY1QwpYThAbItaS+iiwFiTTTajOVBAqIUZcdcXHTpM4KfiEPQ7FE0sX3MXRjNcbWnX/PbcdduTIRscOdkClu1Y0m0LZVZ7BDJWHHm3wNbbbRkrRLlmOxqElZ95rOkHEzvr9QiTaXoXhaKsGpkzdrKs=;TTqNHNQ5EbwTO+XJP3IEQg=="
 ---

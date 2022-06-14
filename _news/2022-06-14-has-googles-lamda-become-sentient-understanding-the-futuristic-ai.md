@@ -102,6 +102,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Could artificial intelligence become sentient?"
+    excerpt: "Arguing about intelligence is tricky because, despite decades of research, no one really understands how the main example—biological brains built by natural selection—work in detail. At the same time,"
+    publishedDateTime: 2022-06-14T14:42:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2022/06/14/could-artificial-intelligence-become-sentient"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220618_BLP503.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "No, Google’s AI is not sentient"
     excerpt: "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ..."
     publishedDateTime: 2022-06-14T11:10:00Z

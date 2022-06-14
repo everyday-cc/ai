@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T19:24:00Z
 originalUrl: "https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883?mod=hp_minor_pos4"
 webUrl: "https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883?mod=hp_minor_pos4"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Wall Street Journal

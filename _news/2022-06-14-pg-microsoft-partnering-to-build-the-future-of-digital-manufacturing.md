@@ -116,6 +116,15 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Microsoft Brings Voice Controls to Windows 11"
+    excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
+    publishedDateTime: 2022-06-14T13:38:00Z
+    webUrl: "https://mobileidworld.com/microsoft-brings-voice-controls-windows-11-061405/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 21
 
 secured: "lO4dDknUDPwBdwjD5eHFugdJoff1ZjdndPexpZGT5UnGBmz6KPc8Y6x5rmZPSGbslfOD/PdJqeBmuG4dv6TltotfNoWFqGE3omi79HTjER1G3iTEMwtw/0LSQM8BfLj+7/kqimQRg/VD3GFLZtrEHdYjH5vr2rXmGcjRUhc1LZfmntZXtobpovVjO5de9+Afp858PS13f9NEKt3MDRfM8puuIq9xZUbyBXCF8eCkB5soxPszIpTRnSkgAjIMf/TJIuD0zuznk5BLfKkjJ6l2udot3NKdcDIYgYBUp0iekv5uXr5O8nxOtb4lSoBHo9IdtBZ1ezEtzUPIVeDzhhJdBNK4GStnS4F2MzNUADWIsRy0RMacuyHEaseUEYGJCbv0hDq7rNjmp9I6IM9LRKp+2gmuF07h4SfKQdTnEyb6+7P9O7rffhcvmf8C3YvFwRb9IjnMWpJ4jR//TLQd6GY17coJqJd5qAsa04ZYpmROP7lZPXt7vaGL5C/xBnx1NP0Rt5LHXT30geipgEaFL+Ppaw==;nOBqoQ4EQwdtHMotBlsV0A=="
 ---

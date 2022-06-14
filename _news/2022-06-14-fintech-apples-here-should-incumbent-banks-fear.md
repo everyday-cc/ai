@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:00:00Z
 originalUrl: "https://seekingalpha.com/article/4517757-fintech-apples-here-should-incumbent-banks-fear"
 webUrl: "https://seekingalpha.com/article/4517757-fintech-apples-here-should-incumbent-banks-fear"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Seeking Alpha

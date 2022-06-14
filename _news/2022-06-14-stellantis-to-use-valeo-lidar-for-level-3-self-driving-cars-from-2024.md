@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T11:39:00Z
 originalUrl: "https://europe.autonews.com/suppliers/stellantis-use-valeo-lidar-level-3-self-driving-cars-2024"
 webUrl: "https://europe.autonews.com/suppliers/stellantis-use-valeo-lidar-level-3-self-driving-cars-2024"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Automotive News

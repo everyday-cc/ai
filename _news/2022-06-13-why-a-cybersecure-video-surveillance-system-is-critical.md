@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T15:23:00Z
 originalUrl: "https://www.securityinfowatch.com/video-surveillance/article/21268413/why-a-cybersecure-video-surveillance-system-is-critical"
 webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21268413/why-a-cybersecure-video-surveillance-system-is-critical"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Security

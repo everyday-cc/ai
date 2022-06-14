@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:00:00Z
 originalUrl: "https://9to5mac.com/2022/06/14/adobe-lightroom-video-support/"
 webUrl: "https://9to5mac.com/2022/06/14/adobe-lightroom-video-support/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: 9to5Mac

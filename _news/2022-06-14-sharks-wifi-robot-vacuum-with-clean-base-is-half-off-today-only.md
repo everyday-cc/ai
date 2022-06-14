@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:35:00Z
 originalUrl: "https://www.engadget.com/sharks-wifi-robot-vacuum-with-clean-base-is-half-off-today-only-130300519.html"
 webUrl: "https://www.engadget.com/sharks-wifi-robot-vacuum-with-clean-base-is-half-off-today-only-130300519.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Engadget

@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "How is AI Progressing Drug Discovery?"
+    excerpt: "Artificial intelligence has been driven by advances in computational technology, resulting in an expanded ability to collect and process large volumes of data, which have been essential in drug discovery."
+    publishedDateTime: 2022-06-14T13:25:00Z
+    webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=530"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 19
   - title: "Ainnocence Applies AI To Drug Discovery"
     excerpt: "A new, San Diego-based biotech startup, Ainnocence launched today, saying that it is focused on using life-sciences knowledge and advanced computational techniques to accelerate the design of small-molecule,"
     publishedDateTime: 2022-06-13T13:22:00Z

@@ -37,17 +37,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "A Guide to Fintech ETFs"
-    excerpt: "The financial technology or the fintech space is largely altering the traditional banking landscape, globally. The application of innovation technology tools to provide financial services leaves customers craving for more personalized and customer-centric products."
-    publishedDateTime: 2022-06-09T21:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/a-guide-to-fintech-etfs"
-    ampWebUrl: "https://www.nasdaq.com/articles/a-guide-to-fintech-etfs?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-guide-to-fintech-etfs?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "HSBC Is Offering Oxford Fintech Program to Staff"
     excerpt: "HSBC is offering the Oxford Fintech Program to staff, \"in first partnership of its kind between the University and the banking sector.\""
     publishedDateTime: 2022-06-10T14:45:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T03:51:00Z
 originalUrl: "https://comicbook.com/irl/news/astronomers-potentially-discover-first-free-floating-black-hole/"
 webUrl: "https://comicbook.com/irl/news/astronomers-potentially-discover-first-free-floating-black-hole/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Comicbook.com

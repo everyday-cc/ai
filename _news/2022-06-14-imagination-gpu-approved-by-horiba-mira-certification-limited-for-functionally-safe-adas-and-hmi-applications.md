@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:57:00Z
 originalUrl: "https://www.design-reuse.com/news/52140/imagination-gpu-horiba-mira-certification-iso-26262.html"
 webUrl: "https://www.design-reuse.com/news/52140/imagination-gpu-horiba-mira-certification-iso-26262.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Design-Reuse

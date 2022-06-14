@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:53:00Z
 originalUrl: "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/"
 webUrl: "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CAR Magazine

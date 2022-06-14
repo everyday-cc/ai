@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/codoxo-to-address-advances-in-artificial-intelligence-for-unified-cost-containment-as-an-affiliate-sponsor/article_e9dac816-aa5c-5a08-8ea2-ceffd51df1f5.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/codoxo-to-address-advances-in-artificial-intelligence-for-unified-cost-containment-as-an-affiliate-sponsor/article_e9dac816-aa5c-5a08-8ea2-ceffd51df1f5.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

@@ -40,20 +40,6 @@ related:
         width: 1247
         height: 621
         isCached: true
-  - title: "Incremental training with Amazon SageMaker JumpStart"
-    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). SageMaker JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models"
-    publishedDateTime: 2022-06-09T21:47:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/incremental-training-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/incremental-training-jumpstart.jpg"
-        width: 1245
-        height: 624
-        isCached: true
 
 secured: "sgkkYyfX67Uly/ZgwwkxX5gFJYWE2mQZXdclSQlRm4ZCNdiygkLymXVL0BWiS9LJN3vAV7cmpuy/Jnae0JL5d6vgp6OuukbMoCAL3A+0YO5JrmFVkB2JKMugG9IOSrUmrgEFS36F2OMM9YUBJU17do7P3T2Si3Xx5rSZ2V2j/iwfdH8AArBvzNsAGDOUfbqXLVuEy/2WEBB+q2HmpcpEb5QqwCL11sU0ahEKsaWSOGsJd0WvpiKTRiRPYQJh2wgZSaCEorxlqojoSYFeOQq5Dw7QiMVly9VTpAptsc78wIksmZUrX0ThnGhBCu+PmiJHPfP2vNvW9UdCLkTXV+Y0KtE4p9P8U8VDcfsb9cDN01Y=;o/SrG5vZYmoIvWqDfReE+Q=="
 ---

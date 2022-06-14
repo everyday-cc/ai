@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc."
-excerpt: "Artificial Intelligence in Fintech Market Growth & Trends The AI in fintech market is expected to increase in the coming years due to advancement in technology that is boosting financial service ..."
-publishedDateTime: 2022-06-08T14:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27606557/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27606557/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc"
+excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from"
+publishedDateTime: 2022-06-08T13:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Finance
   - AI
 
-secured: "KGNlnTpBpuXJ5xPVd/6xIBRPrC94rWtU10RoW8rjGTy/967mQ5SuFFy4wPyykoj+ZWmkUqjBBJZaLVw0IdEnJrt9bHUgWqfHFYU4qAAs/YqCRLXNqezkPPkFiXFCOyzHezFYPYPszJfuzfeJAKVX8XSRpYjS9RNOcfDJ9Rk5KbfbovbwN/3iZ/vKH+bM6lSlkXAw2WTtmStxI9PAAtKRts+omCtFHALEzN0XJvxIwQ7ZiyGpraZwXtutoDgJosCODQrqP/9baNvJ9K2RwX6xx55Rs6Q6M+u+On/iMSmE5yjkVenOJauce0i2olwPtHdImRyqOkxJI12UanHZun27EfNyhK8X/3lyIxY4M9vNC7M=;C0HKQXEXVl+kPJn+sk1VeA=="
+images:
+  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+    width: 1400
+    height: 733
+    isCached: true
+
+secured: "CN5MRNF0upTNmU0o5Gv8/STu3dT6moq5ilXErcyA1p+NSYrsDtnuutaSfngxam/saPuUo+ECamS7n7MBx1pNILwNQ9mv7gcstjToMAEmo9w+cKqXcJtASSQt46prbsC5DEB4wb+l5P5imI3WubxQ7RqWO6nJOPtn/9s77SEu3NG08REhepPFAfY77cFujboNSsnKw4bwFRDUojlVWqULuzvRPPr548yRfITF1m7gScgPa6Q852CVtIbcoKAGZOYUXTpy8Ozhz4/LA1pNQ2lGxI1jPv+rGhkoXOKSBclH5Z6u5HMFhdU9PWvJJDp/XOvlGsJK5+ubpQsXl/5CFzvLr4zJvGBDK+/YjDywmCJUc8Q=;GIPkLCfDcl0m+u8v4YNQrw=="
 ---
 

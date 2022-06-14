@@ -20,20 +20,20 @@ topics:
 
 related:
   - title: "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK"
-    excerpt: "UK expansion builds on considerable success in Asia Pacific, where Ecolibrium’s technology has been deployed across 50 million sq ft by globally renowned brands including Amazon, Fiat, Honeywell, Thomson Reuters,"
-    publishedDateTime: 2022-06-14T05:50:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-environment/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-122061400106_1.html"
+    excerpt: "Relocating its global headquarters to London, Ecolibrium has raised $5m in a pre-Series A funding round as it looks to expand its international footprint to the UK"
+    publishedDateTime: 2022-06-14T14:15:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845.html"
+    ampWebUrl: "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html"
     type: article
     provider:
-      name: India Infoline
-      domain: indiainfoline.com
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 57
     images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
+      - url: "https://images.hindustantimes.com/img/2022/06/14/1600x900/20220614_183609_0000_1655215917852_1655215927337.png"
+        width: 1600
+        height: 899
         isCached: true
   - title: "Machine learning-led decarbonisation platform Ecolibrium launches in the UK"
     excerpt: "Image credit: Max Lacome LONDON, June 13, 2022 /PRNewswire/ -- Machine learning-led decarbonisation platform Ecolibrium has today launched its revolutionary sustainability solution in the UK, as the race to reduce carbon emissions accelerates across the ..."

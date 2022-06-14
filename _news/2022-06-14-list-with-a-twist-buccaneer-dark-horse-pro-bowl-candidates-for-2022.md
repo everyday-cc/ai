@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T12:00:00Z
 originalUrl: "https://www.buccaneers.com/news/list-with-a-twist-buccaneers-2022-dark-horse-pro-bowl-candidates"
 webUrl: "https://www.buccaneers.com/news/list-with-a-twist-buccaneers-2022-dark-horse-pro-bowl-candidates"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Tampa Bay Buccaneers

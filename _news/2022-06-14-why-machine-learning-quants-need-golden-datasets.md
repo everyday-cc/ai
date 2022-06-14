@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T11:26:00Z
 originalUrl: "https://www.risk.net/investing/7950311/why-machine-learning-quants-need-golden-datasets"
 webUrl: "https://www.risk.net/investing/7950311/why-machine-learning-quants-need-golden-datasets"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Risk

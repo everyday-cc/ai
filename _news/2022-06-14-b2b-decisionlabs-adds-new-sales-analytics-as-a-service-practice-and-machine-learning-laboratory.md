@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:18:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/b2b-decisionlabs-adds-new-sales-analytics-as-a-service-practice-and-machine-learning-laboratory-1031527964"
 webUrl: "https://markets.businessinsider.com/news/stocks/b2b-decisionlabs-adds-new-sales-analytics-as-a-service-practice-and-machine-learning-laboratory-1031527964"
 type: article
+quality: 54
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -19,6 +22,74 @@ topics:
   - Machine Learning
   - AI
   - AI in Sales
+
+related:
+  - title: "How AI Video Analytics Is Energizing Business Operations For Brick-And-Mortar Retail"
+    excerpt: "In the end, it's important to find a solution that meets your specific goals and fits well into your existing processes."
+    publishedDateTime: 2022-06-14T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Cloud-based Video Analytics changing face of real-time video analysis, facial recognition"
+    excerpt: "Cloud-based video analytics is a part of this AI bubble and plays a vital role in surveillance and monitoring. AI video and facial recognition systems work as seamless and efficient video content analysis tools offering real-time intelligence and post ..."
+    publishedDateTime: 2022-06-11T11:10:00Z
+    webUrl: "https://www.freepressjournal.in/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
+    ampWebUrl: "https://www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-10/5375c6d2-7802-42fe-8fb5-c80f5ef973b8/FBcBAOPUYAc3QMJ.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 609
+        height: 311
+        isCached: true
+  - title: "5 Tips for Integrating AI Into Your Business"
+    excerpt: "Rushing to introduce AI solutions without properly understanding how the technology works and how its role will impact processes is misguided. Here's how to take the right approach."
+    publishedDateTime: 2022-06-14T05:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/428213"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
+  - title: "How augmented analytics can empower data-driven enterprises"
+    excerpt: "Augmented analytics helps organisations deal with the complexity and scale of data that has become typical in digitally transformed modern enterprises, says Jacques du Preez, CEO at Intellinexus."
+    publishedDateTime: 2022-06-13T06:38:00Z
+    webUrl: "https://www.itweb.co.za/content/VgZeyqJlVex7djX9"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/VgZeyqJlVex7djX9"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/VgZeyqJlVex7djX9"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/hDjJj9ZzGy9L1UTC1nwujzdXD-OK5mfSV8C8qtcltGFxiTXje7XZxzAOjq5DHRrR7_aNKHCI27QO7qIsdclz_W3TCdz3rT5_mic=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "How Geo-Enabled Analytics Improve Outdoor Intruder Detection"
+    excerpt: "Smart security cameras use video analytics to detect intruders by automatically “seeing” movement and sending alerts. While this solution works quite well in stable, indoor environments, just imagine what a smart camera must contend with outdoors – where everything moves,"
+    publishedDateTime: 2022-06-13T14:49:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21268219/how-geoenabled-analytics-improve-outdoor-intruder-detection"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 4
 
 secured: "iYYIVOUD6tOEGj/RY3vkg/dXPYFww2DxJj5fQUHUWh2qqu9ggWyVnKqqtu9RZIqSkGDVOd58hzh99gOemrIHqG15EaoRyfQbPo3eRwxtCiG4u98EcpJWXew4wSN/rn5bKU0STNSjtZeduX2oz6FJc4IAvDoW2W3UPHIift1BnUtPjVOIUNYkTXb/yRKs5b8fceJn+ibHo//IcnRTIKhosYBQubCVVks9Fw2uGbGXVb/665SFApHgP1aRicnqThK8b2DkJS04ceTR5k4jBCikQ8Q1/36bHWXw+t3yqE2mX54bFmfs0sNznNa4V5f1+yOLOeo38UkSOlpeYkxMhjGakUg0T0g6x+KFWj8XUPvQhy1Sy1UVYpZGAlyowfNQxaTSPSucs26UAiY0j36DmqUxNkQ3e2GQe4tac2lZFNMr8N197fDmAlvOnpataP/3BD1L/Fqmha6SvtAWQZCk1+px626d2L9r6QNsqM3Gku7+zio9TfZPI03VzdvQutNqGTc8nF1Dc6AdBRoGTMbQXUh2vw==;lwQzN4RMzQPrW8oW2A3zxA=="
 ---

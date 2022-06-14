@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T13:46:00Z
 originalUrl: "https://theconversation.com/we-taught-an-ai-to-impersonate-shakespeare-and-oscar-wilde-heres-what-it-revealed-about-sentience-184969"
 webUrl: "https://theconversation.com/we-taught-an-ai-to-impersonate-shakespeare-and-oscar-wilde-heres-what-it-revealed-about-sentience-184969"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Conversation

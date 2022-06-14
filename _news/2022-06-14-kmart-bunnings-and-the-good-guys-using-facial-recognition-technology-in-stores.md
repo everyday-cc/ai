@@ -25,50 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial"
-    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families."
-    publishedDateTime: 2022-06-14T10:52:00Z
-    webUrl: "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+  - title: "Ethical outrage as major retailers including Bunnings and Kmart amp up facial recognition: Choice"
+    excerpt: "Cameras enable facial recognition analyses images from video cameras to capture each person’s unique facial features, known as a faceprint. Picture: Justin Lloyd A similar proportion were concerned companies would use their data to create profiles for ..."
+    publishedDateTime: 2022-06-14T14:20:00Z
+    webUrl: "https://www.townsvillebulletin.com.au/news/nsw/ethical-outrage-as-major-retailers-including-bunnings-and-kmart-amp-up-facial-recognition-choice/news-story/8b7269511d843a3f2581a691295f84c4"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 61
-    images:
-      - url: "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop"
-        width: 320
-        height: 208
-        isCached: true
-  - title: "Cobb police seek approval for controversial AI facial recognition software"
-    excerpt: "The Cobb County Police Department on Tuesday will seek approval from the Board of Commissioners to expand its use of a controversial facial recognition system that uses artificial intelligence to identify suspects."
-    publishedDateTime: 2022-06-10T15:29:00Z
-    webUrl: "https://www.ajc.com/neighborhoods/cobb/cobb-police-seek-approval-for-controversial-ai-facial-recognition-software/C7AQSR4BUBGFFF6H2QAWMFNTLQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 52
-    images:
-      - url: "https://www.ajc.com/resizer/WiaPAcke_7PynFUsqlEHwdLVl0s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/6SGSYJJ33BH73GGPD2Q22V34BE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Health organization moves to facial-recognition technology"
-    excerpt: "VHC Health – formerly known as Virginia Hospital Center – is slated to implement “positive patient identification” (PPID) using facial biometrics at its facilities, making VHC the first health-care sy"
-    publishedDateTime: 2022-06-13T15:53:00Z
-    webUrl: "https://www.insidenova.com/news/arlington/health-organization-moves-to-facial-recognition-technology/article_05d2e654-eb31-11ec-bc3c-ff10b9fe5278.html"
-    type: article
-    provider:
-      name: INSIDENOVA.COM
-      domain: insidenova.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/custom/image/d67912d4-211a-11e6-ad8b-8f0a9483ff88.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+      name: Townsville Bulletin
+      domain: townsvillebulletin.com.au
+    quality: 38
 
 secured: "I3CACLLF7FPtTsNgJlXzYksrwdNGPYqI19e2fexMJeBXr+cqpLI2k/M0n0HwIaclAiH6yTSdDubWgNeY1BzITpui+xomVBGdVjOmgTfRZP0qzYwAPekO12rpjnRInpNP/bMiWdsK26g74+GikpopXVAcNC280Wc0Iu6VTtdH2C83vF7aJ5xO8j12MexeJi75noWBy0DdOC6PRWCP4CLKs86EukdyCaQFLbD9gBmNzuQZbc7lrkt/KSPyJXAFnP7AtaFm2eqGOVSIqf61etfUzKgFrCaJPjHGi35p54yuuUiyN8+lY1wxbqZs1zQm1dMbhnFRxQYRsq3b2G+hIzJNnYD9vOTjEW3EM2sPLkIFM0I=;d6+HM9pF3pfg3VBXn+EZTQ=="
 ---

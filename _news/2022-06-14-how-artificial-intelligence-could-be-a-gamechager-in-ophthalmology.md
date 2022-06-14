@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Is Cloud-Based IVF AI a Game Changer?"
-    excerpt: "Developer says the real advantage to IVF artificial intelligence will come from cloud-based platforms that supply immense heterogeneous datasets paired with low operational costs."
-    publishedDateTime: 2022-06-09T19:48:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/cloud-based-ivf-ai-game-changer"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-264.png"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "9MIiBfT7Bjs82oK6ZxVBSFjhFbkfWTHg+KH6pHEULG1vor8H6vQP3k+hycJ7Qwu3T8Z/dcgjswqRvHwzPqE+ZxoJMvYKL4Yy3PzS4tjkLGGiEB5TlzH9nap5fNhhCvOiomajwAA+0ziChdKGP5Kc5Q0jRLkIsDPAnw8pwVINozzLP43kssUK1yiclqa4a0Jb2IvVE+dPJEh2KLuSi97WalWDKJ/p1cl876ggf7EToZMvNZTKNXh/r2aziDhtSxnAfrs8eb+QZTmnshmR7Q2K6Hize6jiPx61C4auxcbx+MXMnaBxy7CGo/vYfPk9uWSF4nU6LHTGQoul9OdouMuVRXJILXMNcfGlsTk2ayx775i+K1UK6Dd+CKMnbds6Ens6USCiYE7QgSfqd8+PKix7ykTXgSeF9t9k/RkkAHMfB+SfJCmublLXBSrzOjYSZez2yosU/leR9cN/KQXNdZRnkpRVhMKN1EVt9sPmRHGPsafztEp/MnQSPypOQsV4163+iO/zEWG90iij/pYHZIWt+g==;qZ7lEvKROv5H0NjFwxtJ1w=="
 ---

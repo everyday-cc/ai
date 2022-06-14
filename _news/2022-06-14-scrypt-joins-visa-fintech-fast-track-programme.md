@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T12:28:00Z
 originalUrl: "https://www.finextra.com/pressarticle/92981/scrypt-joins-visa-fintech-fast-track-programme"
 webUrl: "https://www.finextra.com/pressarticle/92981/scrypt-joins-visa-fintech-fast-track-programme"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finextra

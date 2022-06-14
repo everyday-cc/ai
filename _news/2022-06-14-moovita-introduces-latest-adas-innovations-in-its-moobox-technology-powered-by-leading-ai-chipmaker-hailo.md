@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Moovita Introduces Latest ADAS Innovations In Its Moobox Technology, Powered By Leading AI Chipmaker Hailo'"
-excerpt: "MooVita Pte Ltd , a high-tech company that designs and deploys roadworthy autonomous driving solutions in urban cities worldwide, announced the newest iteration of its proprietary MooBox technology, including its latest state-of-the-art Advanced Driver Assistance Systems (ADAS) solutions."
-publishedDateTime: 2022-06-14T09:26:00Z
-originalUrl: "https://menafn.com/1104371378/Moovita-Introduces-Latest-ADAS-Innovations-In-Its-Moobox-Technology-Powered-By-Leading-AI-Chipmaker-Hailo"
-webUrl: "https://menafn.com/1104371378/Moovita-Introduces-Latest-ADAS-Innovations-In-Its-Moobox-Technology-Powered-By-Leading-AI-Chipmaker-Hailo"
+title: "MooVita Introduces Latest ADAS Innovations in its MooBox Technology, Powered by Leading AI Chipmaker Hailo"
+excerpt: "MooVita Pte Ltd, a high-tech company that designs and deploys roadworthy autonomous driving solutions in urban cities worldwide, announced the"
+publishedDateTime: 2022-06-14T09:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/moovita-introduces-latest-adas-innovations-in-its-moobox-technology-powered-by-leading-ai-chipmaker-hailo/article_d6f33213-d78f-5558-aeaf-dae26301d1be.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/moovita-introduces-latest-adas-innovations-in-its-moobox-technology-powered-by-leading-ai-chipmaker-hailo/article_d6f33213-d78f-5558-aeaf-dae26301d1be.html"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-06/14/PN_c8c2e2a8-8_Image_In_Body.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/0f/a0fb9763-ee57-52c9-bf8a-6c9d0046a5b5/62a84ef71ae1e.image.jpg?resize=400%2C283"
     width: 400
     height: 283
     isCached: true
 
-secured: "NSjfkp7HJRXgBvmrT6uShCxb/4G1j/2mUft0/UIzMrOgJhfNyqZOsm97Tc5lK5y3xoSOfXxl/tMiubmxBTO/J7X66Zly49DMWWPx4Rgz5JrtmDY1CDivia/yCOmu7jbVk7FWHaTZRT92jP83BqJA3mD8e9Nm7IjaYSOARj0d3WnQ1Jv9UZLFIoOXF0nY63o41pnmaR0Iuah0i6ce+q8xOYPK39ElKKTH+fC8KP/cV0NryTA8fVANuI5nCYb8s01wOb0BH+cR6z/Y2ER6G6SFl1Ps0H5epIuxSr3hfiX/gxJo34DqxCSCGBQibBMcmvLXD0F+6KqTi4tb6k53wBrRb0x6I7o/35lYSFJOixA8omODqs3dZ59ubLTZlEgda3WNxfzE491TXw5gY2kc6CxcN0wfQrss4yAkaBU+rcpPTOY/zegT7YY1fAtzUYaAddPz7ZI8/tQjNSK7U7mAlQE3DzuUv9Fpg1n7yfUdpkRjh5Gc8bkdO2ghnE0HwFYMm/cV6Hc4GptsHOqTBL46/tRPzA==;P4K9RYFTu5ww0j81hmhVfQ=="
+secured: "jqJWOu54rkkoWkmIM3QBxBMVoB+UAxuCZOlq/UZ0N/nYeOz+c+P4fIMfcSkutjA5JIpK5/VVGHrB/jYv4UrExS96ODWSXZwIGk12ymTqUkJiA7Tk7Y69ngTlpYMx8+4EivTtZtQWwZjJxd47wA1IJCSc0vLEb1meGpvcf7BF5Ftl5T0sWEEaVtsgYwghdHmjP/HkV80scPQI/oMu/icPFXkB9HhidYpp+iaL9wTnEPB8pbUTEbgQmvknM5jkxyDg87IMbL5iw2fT3iJOzUirCJ/UKulqqRxqe5I8Od3LwZAeQK5TJHpwVXEAF3snK2A+qCmLwsinSNLRQgckU6CEcAVK+YacmWg9OSYbF2PT7ik=;394K3ik75y56sVpMVuwWKg=="
 ---
 

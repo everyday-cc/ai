@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T12:05:00Z
 originalUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2022-06-14-collaborative-robot-aims-ease-stress-nurses"
 webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2022-06-14-collaborative-robot-aims-ease-stress-nurses"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: aha.org

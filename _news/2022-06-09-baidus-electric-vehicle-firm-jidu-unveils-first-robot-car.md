@@ -1,20 +1,27 @@
 ---
 category: news
-title: "Baidu’s electric vehicle firm Jidu unveils first ‘robot’ car"
-excerpt: "Baidu’s electric vehicle (EV) arm Jidu Auto on Wednesday launched a “robot” concept car, the first vehicle to be revealed by a Chinese internet company. The concept car, which is free of door handles and can be fully controlled via voice recognition,"
-publishedDateTime: 2022-06-09T06:59:00Z
-originalUrl: "https://www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/"
-webUrl: "https://www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/"
+title: "Baidu's electric vehicle firm Jidu unveils first 'robot' car"
+excerpt: "Besides equipping the vehicle with autonomous driving software technology powered by Baidu, Jidu will also build two lidars and 12 cameras alongside the car. Lidars are detection systems ..."
+publishedDateTime: 2022-06-09T03:09:00Z
+originalUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
+webUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
 type: article
 
 provider:
-  name: Ariana News
-  domain: ariananews.af
+  name: Asia One
+  domain: asiaone.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
-secured: "AqiZqUKefx0NDi/Tiq8y8R7DiPYo941jl0jyfANLcWZKhQSZOGY1cJvC6bEB0vJrFyuavE6xLiVgACnnm/BhplrduWbn5MrMhZdgKyuOV7Td5gYsl10TqDdL1GLgPSKUDC+WquPaD6R7thjXbFF2oRoNgvLiGnMj1di6uEi03RVlv4LU0h3lMXd3ljHlquXg5og2e3EL07uGT2wkpzGR2D/QrnrZt5Ph4vIoZ8e6OC2ciqrGB4GHY7HnYfob+C3c9nTVQ4bRQF1/m0UYb/Lf/A1SVsetVZPHbO3+u7njcND6hLGk5jmc6SuiEAREIEg7bargG6JCdO5qkQVtI/7gCXUMvK+zj5Ap7MpETHB0srA=;mEytfmyDosC6tmLrk6KFZw=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/200609_robot%20car.png?h=9a34780c&itok=6MDqmIDk"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "bs7r4hlUJbNezNxe05KYuV5zuvERkYkIsKvLKknrwiUiACkQWEKTI8Em5ADeLvd6RQxsjcvNpKxDxJ/lHFbidUGivWtSst+IXhnNAqaxZOJeyLKhsyH+qFrDx14lnltVTdB9U/KTDK/yF7KlsDH3S7H4bRARlAUPpb7W/GCyYpQhYiIIzsY0K6Twt8KdeFE73Abzi0akAZX8g9WnFEFA/RSpQO0aTf7e8j9AIgDkMA7+xn5Uid7gOrET0qvS1X/HuNfz7yrL5L7tQtElRoHpZ0lx8fZDIeSzkTI4LnzkLeI55p0q6Qtn/fea8h7Un17RCqg2zZO+XA2yHDz61IGAVGZupXl0AZOqZn/km9cja68=;ioxgTvolLSY1ZY9G8YqYMQ=="
 ---
 

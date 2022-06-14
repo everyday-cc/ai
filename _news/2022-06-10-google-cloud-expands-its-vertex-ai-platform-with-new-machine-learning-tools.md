@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Google introduces major upgrades to its Vertex AI platform"
-    excerpt: "Google's Vertex AI is a managed ML platform designed to enable developers to speed up the deployment and maintenance of their AI models."
-    publishedDateTime: 2022-06-09T21:20:00Z
-    webUrl: "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/"
-    ampWebUrl: "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all"
-        width: 1200
-        height: 691
-        isCached: true
-  - title: "Google introduces major upgrades to its Vertex AI platform"
     excerpt: "Google announced a new set of product improvements and technology partnerships at the Cloud Applied ML Summit aimed at making it easier for customers to construct, deploy, manage, and maintain Machine Learning (ML) models in production."
     publishedDateTime: 2022-06-11T14:25:00Z
     webUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/"
@@ -71,6 +55,15 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Pure Storage upgrades AI platform built on Nvidia DGX systems"
+    excerpt: "Pure Storage announced updates to its AIRI//S line of AI-ready infrastructure, which it co-developed with Nvidia. The two vendors launched AIRI in 2018, claiming it was the first AI-oriented reference architecture that simplified the process of building an AI infrastructure by connecting compute with storage."
+    publishedDateTime: 2022-06-13T13:50:00Z
+    webUrl: "https://www.networkworld.com/article/3663158/pure-storage-upgrades-ai-platform-built-on-nvidia-dgx-systems.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
 
 secured: "LygyLqss08MgJqmz3+Ziq6w5YtYixw3xCE443smqy9NWdJRU0Oayfu1Zr7dC3c3DcXmHHaj+LDacU3E88P/2Yj/gUFHld4/fq55MpQNb5MhaZb9WPV3DnVbdqgozFDqILoJMg122iFwuSpSoeAcPZZDAJ0kvQ4gXzs5jtvLcRKzHK100vBHnahjrtEennv9qNvzIuiAYhoQn7Tm1svfTizPn6+xXdM9V2QBBCVfmyC5EOjlV0iIfaMntQBgkmgq/MDMo9tHzNEpbcqyryQM9cv4VdEFgw7k0po0jvCZwOQmYCCM5EfPpFDBzsbE1LaeMwFZZmKKhpHAxz1Vlrqnq3indXM/rmGanlA4V1Clz03kDaZLpNL77iY1Oumo4qujhSD38ueOjAAWKbC3M2lr0FpKtc0f4F57IfNkJgbOWmPzz7klyhvCw7VZVbnKn2K2JqqAliHzD42RuXET003dmSA1D3MtrJWVrhghbHv6Fo7ULpJP/ppzbODhUO9kVTGABdB8KfIWPpC/3CWasXRPT3Q==;srTcd9fyXNhH4ZhcPnMk5A=="
 ---

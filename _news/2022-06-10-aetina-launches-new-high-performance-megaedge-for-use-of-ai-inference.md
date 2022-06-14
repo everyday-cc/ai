@@ -24,22 +24,6 @@ images:
     height: 424
     isCached: true
 
-related:
-  - title: "Stratipath receives CE mark for breast cancer prognostic AI"
-    excerpt: "Stratipath AB gained CE-IVD mark for its artificial intelligence (AI)-based software for prognostic risk stratification of breast cancers, clearing the path for introduction of the solution in the EU."
-    publishedDateTime: 2022-06-09T22:35:00Z
-    webUrl: "https://www.bioworld.com/articles/519585-stratipath-receives-ce-mark-for-breast-cancer-prognostic-ai"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 37
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Cancer/Breast-cancer-awareness.png?height=635&t=1607544718&width=1200"
-        width: 847
-        height: 635
-        isCached: true
-
 secured: "kiZHhp2Kavh4JbpKZo23VXPFJuXAup6kcxLpSwEIYhT5jI0L8EFgbVyjl+wD9QeYwnjRBwCR/49avnY/vp99yVDiAYGvW5LSLYsi1vqVHEH/OJaXhC0v73NjNHNBdxk0ts17VmVspP1NkhUlJdrZigoOQ0Nyzh03R4DpXpYmNgQ8m4fo1uzp66ouy5IpTCMtmqHvJXn+J9fjalNwHzX7JD00tjYd88NilpYtxnfwe8UI82ujNJz4SaCkpNPV3a/g8yT+OF+MNxfLvu96CAwiRRtBH5SAQgSsuDjecYcSnYosTzsbDgvHih3uTT73x/kqbsXtL12H9cy6sQgtcKUQ0W7obb+DZFvfz+6JSoNvqZxMGDynNpQ5UK3ByCTOk1w8LkECBdRmEnFlR98GRB/aFwrWrDtHzWKCcfGscr+y+I9d9GeelRnB2GjORv7r34qW744ujUgfOAEu7W2f5ANR/TNSnQlBp9ZmhsgVKyxGYWd72sjckK/3YUr6jI4TomTiZC9l6F+qls/p7Iiqpv0RFw==;XfKqmMWIBZvkWPVOWPTeHw=="
 ---
 

@@ -248,22 +248,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Google engineer put on leave after saying AI chatbot has become sentient"
-    excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
-    publishedDateTime: 2022-06-12T16:36:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/1522_1043_2637_1582/master/2637.jpg?width=620&quality=85&auto=format&fit=max&s=50982f1d3219a19b19768fcd8276e7d7"
-        width: 620
-        height: 372
-        isCached: true
   - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
     excerpt: "When we ask whether a program is sentient, perhaps we're really asking how much it is like us. We may never really be able to know this."
     publishedDateTime: 2022-06-14T11:16:00Z
@@ -348,6 +332,22 @@ related:
     quality: 46
     images:
       - url: "https://www.pedestrian.tv/wp-content/uploads/2022/06/14/well-this-is-grim-1.png?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
+    excerpt: "But the belief that Google's AI could be sentient arguably highlights ... company Neuralink uses live monkeys to conduct brain chip implant research, KOVR reports. On June 6, Lemoine posted ..."
+    publishedDateTime: 2022-06-14T15:21:00Z
+    webUrl: "https://6abc.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    ampWebUrl: "https://6abc.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    type: article
+    provider:
+      name: 6abc News
+      domain: 6abc.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -560,6 +560,20 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "Google Engineer Claims Company's AI Has Achieved Sentience, Company Is Glossing Over the Truth"
+    excerpt: "An engineer Google has sidelined has a warning about the tech giant's Artificial Intelligence project. The company is downplaying it."
+    publishedDateTime: 2022-06-13T15:55:00Z
+    webUrl: "https://ijr.com/google-engineer-claims-companys-ai-achieved-sentience/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 27
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2022/04/GettyImages-1393876536-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "The Google engineer who thinks the company’s AI has come to life"
     excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
     publishedDateTime: 2022-06-12T19:01:00Z
@@ -592,6 +606,15 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 19
+  - title: "Google engineer claims AI system has developed feelings"
+    excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
+    publishedDateTime: 2022-06-14T13:41:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 19
   - title: "5 things Google’s AI bot wrote that convinced engineer it was sentient"
     excerpt: "Blake Lemoine made headlines after being suspended from Google, following his claims that an artificial intelligence bot had become sentient."
     publishedDateTime: 2022-06-13T12:21:00Z
@@ -619,6 +642,15 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 17
+  - title: "Google engineer put on leave after saying AI chatbot has become sentient"
+    excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
+    publishedDateTime: 2022-06-12T16:36:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp;amp;fs=e&amp;s=cl"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
     publishedDateTime: 2022-06-12T19:16:00Z
