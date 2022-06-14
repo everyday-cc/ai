@@ -2,25 +2,19 @@
 category: news
 title: "Task force to assess use of facial recognition by Colorado law enforcement, government"
 excerpt: "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado."
-publishedDateTime: 2022-06-09T21:51:00Z
-originalUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
-webUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
+publishedDateTime: 2022-06-09T23:00:00Z
+originalUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
+webUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
 type: article
 
 provider:
-  name: The Colorado Statesman
-  domain: coloradopolitics.com
+  name: The Gazette
+  domain: gazette.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "Fr2EO3YFR7ajwiqyvKBt5MqNpTobHdNswQEc/9nrmk4nQ3aPPjzZOYHQkz1RJYYxcQkFn5VreBUxbWTMV4YsLAIm7S6vcd0J7uT5B963quzeG5zvk/w6LUs0SRhJeL96ti4xDsUpBwlH/SIAr/93ausvmMloGSIcXEOmSLXcNV6Jv6m9NvrDRY9HxFbndMhUOvtlzXeKv6SsXMbtfLK9fP0SnD673ssF7cpEqybDMazT/m7vzI+hSZrrxVEGcSXwxyejJdakkRgQcU/t/dHaRl5dIh0PdvICqvkKTH7UVu5vtZyCrjUVf80xDi8Za4jW1mdMT1UkVdtmr8grxTW/M3SW4o8MXTA5uCxRzZw9FphtUEnmB9VS9ixXd7Xee6twBhbBsFCijYKeoO6CdCqNdmIg4Tq9AqXtYzfFm+hGvcoOj6CTZFizpJ0+bvFzGYaWv3tELa3PbXtbKmOK/fuoDt6L8mRdMQoDp3hQlLWACRWUK/aFLgKxf6VS0ApNXJwYqwwJCGexP6eX96JL/llinA==;9RDcmRmvlArATTFgsy3g2g=="
+secured: "oMQC6vt1Yzy4FyuLiUMM2ALnKkcw4ZK9eNETpzWNS7JkxBGGF9Hb+QbyAKv8JQ1VRMx/Q4bgfUuaL17l5++B5xkeEIJL8hVjYFXGdaXVzVq6Ug+2PVeC/wj7OvrdkOIVV8/LRtbt5Rd5fV9/wc6Si0XqY+mVDSr7Ru3UtnRpxNCZK15Pgz4tgMK4viixMFyWc1P2dHgB7s153ECb+3A1/9CVKl2h/FnjtWsQEFyM2TXuKlgrHmAP0GLh01MQhk4lHc22wNU+dySyNXodiKMMxZKZc3Uy1jmn4lsqvV17XZkBSgSSj7ZXuSMlMG3oqG8Bi/doVbA+3towGjS19f14B31UA+YJyi5H/EHR0Zpx03wzeeRPGlNelbHafu3wGVpi0H550fbxsHU1TMIHcNeq7dpzhWDGFQ2lPLEoKemx2RISj0vr2dQ1arnfADGntHsmDsO7Ef/e2sNGoEDl+4u3f1d/wL9kji78QOth06FGmHUn5Xic2iIs0mg23lkawSOFUoRLLQuqkt4HcXcxxLTfYA==;LaB8NF5ao8jSevysyKjPMw=="
 ---
 
