@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "h3n0OEnaAb5E4ZhyeF7w9pkogn4YpSis2qdiAwgwMwalx7DMNxpKJRdoMAbbrpXM/+GcK6yR8Mb0gMIozMuUoPY5/EdUjbHPmFJCKFmB1fuOUWKG4SETyReE9ycLahyxxMXhByAH4MieG2CZoifP4FsJpmmTFzhhWPl3i3Ha8xnAnVg12vQxB0CCDjaHN8g61bZ7vPnM/pwCe2J71NIGpR5g5czc6Dm0iClPC3S7gw7gcKmtTuneDXVZeeI8S9KWynp6eaWGgDwGRF0du380plZ3Cw6TlzR+Hkwcv62AS5OWcX0S07DCCqbVdp7Phshl9GvHGsuLhgvebjtTt4LGmZKJ4vXBYJ9plZD12DhwkJg=;9iEJHR5eBndwrQb/7fB+lQ=="
+secured: "JbN/e6yLgncsooQQVBr1JmvaIbpIO4ugnQfP703yWCGHEzI135WNMLUUdrvwW03L8KiSuWGvJWWKSRkEBfxPwzQ1djtbyH1x5e/bUGUFXtG0ZVTe1Eh1pVCXJmi8Kt7S0SPR8cdid0I/8so1ctr5iuFHQ8vxZCLkSJdoCEopWLC/QpWl3tyarHOS7tVS0hlI6SDa8TxqY4oQcNj+WF5T8jQ+R4M1vgsrDCVtjNDCs3nsOSM0vHxjVqUczsGBlRaqbe2ZcrCnfOoLllPTXVpb8DzorPmBpP7EHedGu8M9eyHpSn/ZHwgU/Z2jvo9G533sS72lcPWprbfj0KI7fCK0Redc9V7hrt7GobUWqd3peXk=;GzLLYmTFFF2b9yniU33F4w=="
 ---
 

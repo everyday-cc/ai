@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
-publishedDateTime: 2022-06-09T13:03:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+excerpt: "Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics platform with Amazon SageMaker, the industry’s most complete ..."
+publishedDateTime: 2022-06-09T14:03:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
+webUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "dWwWJZVlIT57PBbNwQ2Km4FC/BxQVbIwLEn5f7MQRyfSe4lKA3un6Afe+RhFBd7NrTmlp/G6vAP4FKjRCj7xbCg7IysHPQAHNsoU72rbZOevaORw/xo+KS2sjy2Rr1Ni92BVYCwQSEtZJRMA+KMDCNzvHyBU1uu393djXKrt0ud+TK9TbyfXlqkkAPG5Kw+0NT/QfGqSDBwILr1toPDWweMnrMqiWfOqFmxu2RjjNDWmQIowxH8JhbwXKKPZT5h4Ul77r8BWB9hX+L38sUKSzQ+SFqYkIDfv8sIfQWHsz5EWn2XW/EaEncM59GJXQIVdKKYtvrgDCE4xc6keIgZMFKKjQQmDJqD5KtbFPYHwrzQ=;AW/CerQ0BeyQmUVEBCh0BA=="
+secured: "kOzhpEWPehoRc1Ctw5GFUMtIBbe6Pjheibhw0xpu9P1ZKmKuGIwiHTm7eJyGRlKBograIHPK29Gr4EDfocwtmax2t4AmnkAq+Px+uE0KlOu1jrYRrk4Tie6KedbODT0SuYWQFTR8vP7pJQbN9b6qeJRO257XybgoFt5MzBUW3jvElP5D+oO1Wzv1+lMa6NtGa9ps6lQDr3niH95XcuAJ66GC8BTf/32O/MtpdhJZEEdTeSKMTigJEf6dcgkJcoAzkhec/aTGesJmz5O2AE4ABT/8ANvoJCoLwjuoHpU95+0rTW9yJCOggmFdsbAQLoNl179dLZuO98FALU5wh8J0DfWmHK3zNZM3iSYeTnCeUO4=;oczw+EPaChbZQKBDeqKrFw=="
 ---
 
