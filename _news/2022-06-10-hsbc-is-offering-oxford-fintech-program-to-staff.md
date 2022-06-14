@@ -65,6 +65,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 24
+  - title: "The Regulatory Challenges of FinTech"
+    excerpt: "Scholar sketches the current regulatory landscape for financial technologies in the United States. New financial technologies are worth big bucks—but are regulators doing enough to oversee the massive risks posed by these new services and platforms while allowing for flexible innovation?"
+    publishedDateTime: 2022-06-14T04:01:00Z
+    webUrl: "https://www.theregreview.org/2022/06/14/moss-regulatory-challenges-of-fintech/"
+    type: article
+    provider:
+      name: theregreview
+      domain: theregreview.org
+    quality: 24
+    images:
+      - url: "https://www.theregreview.org/wp-content/uploads/2022/06/1297465792.jpg"
+        width: 800
+        height: 469
+        isCached: true
 
 secured: "K0StS0hAH/ByI9Fe9MPxst/TzEnR3+WCXYaQhve2yWazx3qJKV3Kj54DDlzVLehoEbzXB5hQZq649tmSVyYfSLJCw/U6rkaMVk8krh0Y3NStbK2ZOJnkZkvu2m3TUiEfmX+tn36ihcAbo+x8m1MMo4VUzxi6utdWjISyq+1mCf8Y01uAHCe64UPaWrSEplJGEQBkurnfiyIlz6ZQfLqIEnrLdvm1PBODe3qsSFKs8epCmhs5gIp3o2+5BL8eWXViKfI4VbVbh3c4oRthul+6M8+5qm9Xs8dikT7L39KS3IRe2QaTSK4dZQa90eB0fnhWEVTgc3tI47evdW11w5qeH/+EeC5TdZ+vDYA9V430H5VfIuYQko8A/Xh1PMbi4gaso8YVoyrFWdjMSd/2BN65rJRnZZWLnMHMZew5qcQmA5D9SC3TWVhG/gsfeYF88Wi8ATrg+/RrViS9/kJQTEGGxz15HqlNOxhiu+hRaoQkGlHMiKiii5xrqXLNsc8T+bj6WgbmsCQIPzKHx/6msAyLpw==;i97S+l8nNuIvZ9dC6DFZMg=="
 ---

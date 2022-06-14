@@ -41,20 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Google Cloud expands its Vertex AI platform with new machine learning tools"
-    excerpt: "Google LLC’s cloud business today debuted a series of enhancements to its Vertex AI platform that will enable enterprises to develop artificial intelligence software faster. Introduced last year, Vertex AI is a collection of cloud services for creating AI models."
-    publishedDateTime: 2022-06-09T23:42:00Z
-    webUrl: "https://siliconangle.com/2022/06/09/google-cloud-expands-vertex-ai-platform-new-machine-learning-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/google.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Pure Storage upgrades AI platform built on Nvidia DGX systems"
     excerpt: "Pure Storage announced updates to its AIRI//S line of AI-ready infrastructure, which it co-developed with Nvidia. The two vendors launched AIRI in 2018, claiming it was the first AI-oriented reference architecture that simplified the process of building an AI infrastructure by connecting compute with storage."
     publishedDateTime: 2022-06-13T13:50:00Z

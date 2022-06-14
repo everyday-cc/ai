@@ -41,13 +41,13 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1317265017.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true
 
-secured: "NPA4RxoAdrMMvOwJ9WiniRrndaO4Wvp9SfBa87/b1WHYO0RSc8yRl0F8GUaym2+02NTk8AGoxnsc0iU65MdC+vkLD0/EavMoBS8fsi8cBi6p3KNH6lDgC/VlcGgVfAxjqQc07ZfT+JVn8nvzO7EYOpDPndCbhj9ccC7VzW2sjfl0jI9yi25GI/xjakekajcRRNeTKEiDJWT357oMvSBNgpB5gIW/PNxLkoDAx7oVz/pT/pGJVxO2pZE2oXBR3RZkYwj25k/c7S4oaMevLGOntpJWp/7L4Dge0+kWeqsCKf4pakpjkMH1JV0AOv+OnZCYk6k3nFYckmRRk/3G/FGpGwlGZ9XhJ9WuguYhw6Wl8gk=;RNr7TbC8NeZLoB+erkoizA=="
+secured: "sWaTrdjdBMs/KI+29fMlOaEGaCHq8QsNmu5NNl2WTJUuFGZ1f98aUR17disxURfwIpRwbtPijxBsE3RTEGWofeDKryE7qtFpPTqboedDdRBECrCuUjRrwSAm4EBu5j96TRXU5hzYH+vy154QQF301vsdIHCMT3DDhRglde9mn1gCTRLk2jItMXws05mrW7y31+qJ84aJf1W6l3rHlBChMDJoeaUKoJFN4bh8e4yl+71MU4E9upRXv0R65lQKBeRfSSvfBNHSVzNlaWtDx2Buzb8ZqSqvlZyOxzQ5UDTZwtcJdYxj5DiQDPvSqxgmVGqQqhPofKL1b5/gb7D2YsZzljYtkbGrE3TepBil+bunMxslhn/TDuSgZPJQG2pnJSc1qdaqJqWjhvFCCq+2tHIpPB/staT+Gwy9JoikAogpT+vFiTcl/EqEYZ98X2VjiF7iSQPUKrdgHxN/+69CtxM3KDoyVqDJg+E5Q60bL2p55L9lPQj47qE7/Dpr48so/1+ETqNzPsHwbXXtyuz8fiQNzA==;1U+4RG2utTH7CsaymUF+oQ=="
 ---
 

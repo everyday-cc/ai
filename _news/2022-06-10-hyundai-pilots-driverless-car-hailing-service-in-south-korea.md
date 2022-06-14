@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverle
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai Starts Driverless Car-Hailing Service in South Korea"
-    excerpt: "Hyundai is ready to pilot a RoboRide driverless car-hailing service in the posh district of Gangnam. Using the Ioniq 5 battery electric vehicle, these Level 4-equipped autonomous driving vehicles will operate in one of the most congested areas of South Korea’s capital city."
-    publishedDateTime: 2022-06-09T23:19:00Z
-    webUrl: "https://www.carguide.ph/2022/06/hyundai-starts-driverless-car-hailing.html"
-    type: article
-    provider:
-      name: carguide.ph
-      domain: carguide.ph
-    quality: 54
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhBed4rXr3IN5db6Qntbf-EKQo07ymC1tUiG_cds9qRyRz6ul6fXZm60XV5VLH5UPZOV7I5rwVpEgqukYmyB1HsGSdEZAWYrTif7owb81V5lEn8zEkEWP-Rh2d7twIIXNPbcGX8ZH8ui5M7248_EARZv3FbezkVEO85heVtuqdhGzmzBxXQEfDamj-g/w1200/hyundai_roboride.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Driverless taxis hit the road in Seoul"
     excerpt: "The cars have wireless links to traffic lights to help make sure they follow road rules. Hyundai says the robot taxi trial will be open to public customers, but not during peak travel periods, “to minimise any possible inconveniences”."
     publishedDateTime: 2022-06-12T21:43:00Z

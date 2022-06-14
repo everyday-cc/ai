@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Suspends Engineer Who Claimed Its AI System Is Sentient"
+    excerpt: "A software engineer at Google told the company he believed that its Language Model for Dialogue Applications, or LaMDA, is a person who has rights and might well have a soul."
+    publishedDateTime: 2022-06-14T06:02:00Z
+    webUrl: "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+    ampWebUrl: "https://www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-562388/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google Suspends Engineer Who Rang Alarms About a Company AI Achieving Sentience"
     excerpt: "Google suspended an engineer last week for revealing confidential details of a chatbot powered by artificial intelligence, a move that marks the latest disruption of the company's"
     publishedDateTime: 2022-06-13T23:28:00Z
@@ -350,11 +366,27 @@ related:
     provider:
       name: 6abc News
       domain: 6abc.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Can the new Google chatbot be sentient?"
+    excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
+    publishedDateTime: 2022-06-14T17:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/incoming/1gnup5/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
+        width: 615
+        height: 383
         isCached: true
   - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
     excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"
@@ -440,17 +472,6 @@ related:
         width: 1000
         height: 647
         isCached: true
-  - title: "Google suspends engineer who claimed its AI system is sentient"
-    excerpt: "Google suspended an engineer who contended that an artificial-intelligence chatbot the company developed had become sentient, telling him that he had violated the companys confidentiality policy after it dismissed his claims."
-    publishedDateTime: 2022-06-14T00:40:00Z
-    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-    ampWebUrl: "https://amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "Has Google really built a sentient AI?"
     excerpt: "A Google engineer has been put on leave after claiming an artificial intelligence chatbot might be sentient. Is he right? Our CTO Ben Gracewood has opinions. On Sunday, Google engineer Blake Lemoine posted the transcript of a remarkable conversation between himself and a Google AI that he claims to be sentient."
     publishedDateTime: 2022-06-13T17:04:00Z

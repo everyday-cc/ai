@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/"
 ampWebUrl: "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1317265017.jpg?w=1200&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 682
         isCached: true
 
-secured: "V+tM4BW4YFUnDBro8C0STVug1a/Gty3q4oUjNCAsL9fweuyn97cri5Yd/1fYNyLsUz2X74oG1VHfstNur4VPG4eRyRp2SBhS//ItCr+hAUAiWNUks9IqbWSFmDw/bnJVfb25MZ1GuiL0JigQSg6yap+Fvwd0oSgnT5KEqjLl5sSFVB1eGKNPvvzGQKIGMHfKYYpLD5HyVu1oa2djsf0mHKMW47OMkCnrTXiLzNHxyMLRchSsyNOBSYvRZel0qdbHcY6aI9iyj2iabGQWxH4BaeZORGRyzYdDCILlnncFMsQcIkgo/KR0nZblCC/Rz8X5DrNUPI4UOdHLSAAt7/rAqdyMs2qbY5fx/e6maLp4O58=;SylfsqTclj992DqZNzpSUA=="
+secured: "a5pvjscJRc4xl7RyasbfxT2HaDj+g3HBTdIGKRRiMteiq0Nx/orW5O9w4ykVwbtqi0Wev627BTIMUbeZ1JLLSXkOx75hStduUJAEvb71QBSmw0eAb7K14aLpUu7iHVeYSKxOH7IriIJ9NGBNpNeS2d8Ygqd5/MF6USZTid7yHO3e4bRKR69/eEcYE9mzFhJBNubtmDV8LhwGMTkf0OSdmeNODBroPORE1vdCLxfhIBAxxXOORKXPiz4ekeioW81XdGOvQDHeLjT5e0skc8d72uZgoPkIpNi4r9ridxeVPU/tPeCUoGlIsXKTih4s6tX09rYD/igJl4279uuvA+SeKovZeL8mX0tca9q0Z21WtUE2BwBbnxu7aWRsdA3V/ouQX4OOoHIR63VoOGX+2IN63Z1atT4HDv1sMRSFnKTXSuN+rOGMPjThO+jmz5+ZTTkCqGDTorhUPmMagvfPrz/VS4OUosH+bXITPR/YbjT5OPzpHvmBTI8fqfzorgUGZbTJiYQUaNTTHRoFfQKQl4BSKg==;DSIcrMQFOdcEeVmJGqFt8A=="
 ---
 

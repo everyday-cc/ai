@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience"
-publishedDateTime: 2022-06-07T17:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
-webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
+excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 report SAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience (GX) platform, today announced that it has been identi"
+publishedDateTime: 2022-06-07T17:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27594269/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27594269/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services"
+ampWebUrl: "https://www.benzinga.com/amp/content/27594269"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27594269"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "9mcEnIwWWw7NKJX7uCDhaDDW7q40Mx3znufIZW5a7IrD+s7dBammK5b50aHfKOZpV59WfzW8yeLLUw9okws0xUjT5aAwASHtUObvu5SdJ3/7zbmA9Ik/IlpmthdkX3Ra8cyfTd4LPAB39HI+QJ31O7JyihffhATThheenUiLbxYuGIJlamCLQmyRskKVrtCz3vEDCHvSGK6h3pWNnncecXLcPfgXnMXZiNL/7M8BXKan6Cw7NauOWKLvE3BF55bSiIggh4sMqtHS9q6rVYOPy+Kj4DbAQTNL/e5l8zyQ78Gf1YG6CzM+1ovNtfOVz+uxHwPLGahRmzQBFVQzw72yDTKR6XN8KYxydMbKJRiEdWPWY343pEjkyyy00Buo0y3UqZ1hnejl9h1oX3jS54GRMdtBT09aF6jFs4jnAMW8RHdTVuIXaBvtAzvNaY55/h+68nFa7dFlyc1kV+t44ownESLib2SyN81Wu3c8cMgUEcCczbW+Ajby+yUO2KQSYXJ7ugHlGxl64YoEiIA5+Q1eUg==;qIMw6yZ+Bjv99jPt1bscrA=="
+secured: "RpeEvErCo1yOEomakTbYGwJFOq25ffafbqXRKTg1SPto3qOOSjcmhWUApDT0Bb7TJEbYoNyk8VtEL95ORUY2kYX/tktlKiIGgKb5uor7jWS8b1Mj9EkxF+MzIFYEpcElxD9gbNzdPafddXqkS9Ra5xfyZbgjSFhji6mdcZTAcU7pgfG4wOrUWWcLhbSrUG5cMV+T+8nJGVmTjD6Lkx+uNhs4ANQ9w9uhUawlVs0jjrCYADjefsmL/AX5Rf5QIGiSm7tqwcJjl1PCsFvhVzfR8eqJtfqvwH6Ifg6uPWdTsQljQJLcYpV3LbbbLRYlgN1+s8TDywpmdikfJNcDZoIGhddWArD6jlnps/8U0sCicVE=;jBF2YUv0NMWA7odfnye7Sw=="
 ---
 

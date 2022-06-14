@@ -2,6 +2,395 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
+      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
+      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "publishedDateTime": "2022-06-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/3-depiction_of_cloud_computing_connections.width-400.jpg",
+          "width": 400,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-ai-in-fintech-market-to-be-worth-4116-billion-by-2030-grand-view-research-inc.md",
+      "title": "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
+          "width": 1400,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-better-therapeutics-announces-issuance-of-us-patent-covering-key-features-of-their-prescription-digital-therapeutics-platform.md",
+      "title": "Better Therapeutics Announces Issuance of U.S. Patent Covering Key Features of Their Prescription Digital Therapeutics Platform",
+      "excerpt": "Better Therapeutics, Inc. (NASDAQ: BTTX), a prescription digital therapeutics (PDT) company developing nutritional cognitive behavioral therapy (nCBT) to address the root causes of cardiometabolic diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-software-patents-business-bc962fe114b240fbb970e0814cafce02",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-software-patents-business-bc962fe114b240fbb970e0814cafce02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy.md",
+      "title": "Five Ways Marketers Are Using AI To Elevate Their Content Marketing Strategy",
+      "excerpt": "AI is proving to be a valuable asset in many different areas, one area being content creation. It is no secret that content has become an integral part of business marketing strategies in 2022, and due to the ever-present demand to produce high-quality content on a regular basis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629f75674916d75720516f17/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/",
+      "publishedDateTime": "2022-06-08T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-015-monthly-dividend.md",
+      "title": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Plans $0.15 Monthly Dividend",
+      "excerpt": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, March 10th, Wall Street Journal reports. Stockholders of record on Monday, June 13th will be paid a dividend of 0.15 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/scripts/DividendChart.ashx?Prefix=NYSE&Symbol=AIO",
+          "width": 650,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/",
+      "publishedDateTime": "2022-06-08T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-this-ai-brought-11-of-my-worst-seinfeld-nightmares-to-life.md",
+      "title": "This AI Brought 11 of My Worst 'Seinfeld' Nightmares to Life",
+      "excerpt": "The Dall-E Mini is supposed to be a tool for realizing artistic visions. What happens when it gets its hands on a beloved 90's sitcom?",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
+      "originalUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5cb311187f7e809a9685637b0d50f833.png",
+          "width": 800,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
+      "publishedDateTime": "2022-06-08T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more.md",
+      "title": "Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more",
+      "excerpt": "Embedded finance — where financial services companies and others bring in different kinds of fintech technology by way of APIs to enhance their own offerings with more data and functionality — remains a growing opportunity,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/",
+      "originalUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1218896782.jpg?w=1024",
+          "width": 1024,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/",
+      "publishedDateTime": "2022-06-08T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-introducing-gtgraffiti-the-robot-that-paints-like-a-human.md",
       "title": "Introducing GTGraffiti: The robot that paints like a human",
       "excerpt": "Graduate students at the Georgia Institute of Technology have built the first graffiti-painting robot system that mimics the fluidity of human movement. Aptly named GTGraffiti, the system uses motion capture technology to record human painting motions and then composes and processes the gestures to program a cable-driven robot that spray paints graffiti artwork.",
@@ -520,10 +909,10 @@
     {
       "path": "_news/2022-06-08-lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
       "title": "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience",
+      "excerpt": "Lilt Is Recognized as a Representative Vendor in this 2022 report SAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience (GX) platform, today announced that it has been identi",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27594269/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27594269/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -531,23 +920,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T10:21:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27594269",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27594269",
+      "publishedDateTime": "2022-06-07T10:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -811,360 +1191,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-amazon-india-announces-machine-learning-summer-school.md",
-      "title": "Amazon India announces Machine Learning summer school",
-      "excerpt": "Hyderabad: Amazon India on Tuesday launched the second edition of Machine Learning (ML) Summer School, an immersive programme that aims to provide",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
-      "originalUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://telanganatoday.com/wp-content/uploads/2022/06/amazon-67.jpg",
-          "width": 680,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
-      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
-      "publishedDateTime": "2022-06-07T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics.md",
-      "title": "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics",
-      "excerpt": "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/07/1296568-aicte.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "publishedDateTime": "2022-06-07T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report.md",
-      "title": "AI may be more effective than humans for business use cases: Redbox report",
-      "excerpt": "Industries like healthcare and ecommerce are utilizing AI to enhance employees’ productivity by simplifying monotonous office tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/",
-      "originalUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1307770579-e1652718837966.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/amp/",
-      "publishedDateTime": "2022-06-07T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-automated-palletizing-pays-for-itself.md",
-      "title": "Automated palletizing pays for itself",
-      "excerpt": "Software integration, and increasingly artificial intelligence and machine learning, is playing a bigger role in automated palletization. The massive labor shortage seemingly has no end in sight, especially when it comes to labor-intensive industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.logisticsmgmt.com/article/automated_palletizing_pays_for_itself",
-      "originalUrl": "https://www.logisticsmgmt.com/article/automated_palletizing_pays_for_itself",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mmh.com/images/2021_article/MMH2206_IM_Witron_Stretch_800px.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning.md",
-      "title": "Teal Is Revolutionizing The Career Journey With Tech, AI And Machine Learning",
-      "excerpt": "However, there is a startup that can help level the playing field. David Fano, founder and CEO of Teal, created a machine learning and AI- based careertech platform to help job seekers and people who want to advance their careers. Fano said, “In the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/06/07/teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/06/07/teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-fluentai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022.md",
-      "title": "Fluent.ai and Knowles Partner to Unveil the Future of Embedded Voice Recognition in White Good Appliances at embedded world 2022",
-      "excerpt": "Innovative small footprint embedded voice recognition on Knowles’ AISonic™ Audio Edge Processor revolutionizes the smart home white goods user experience while reducing BOM costs for manufacturers NUREMBERG,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
-      "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
-      "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "originalUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2022/05/bengaluru-airport.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "publishedDateTime": "2022-06-07T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
-      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
-      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

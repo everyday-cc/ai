@@ -2,6 +2,352 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-10-chrome-to-use-ai-to-predict-if-people-want-website-notifications.md",
+      "title": "Chrome to Use AI to Predict if People Want Website Notifications",
+      "excerpt": "Google Chrome is doing something about websites that constantly ask users if they want to receive notifications by automatically disabling prompts based on a person's history. On",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/06684155a8b8f15f6e6b2131f21aada84408d3fc/2021/02/23/62760e4a-1286-413f-b515-a55f3923aa2a/google-chrome-logo-2076.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
+      "publishedDateTime": "2022-06-09T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola.md",
+      "title": "Nala Robotics launches fully autonomous pizzeria robot Pizzaiola",
+      "excerpt": "Nala Robotics' Pizzaiola uses artificial intelligence and machine learning to precisely replicate pizzeria-style foods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
+      "originalUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-nala-robtoics.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-scientists-craft-living-skin-for-robots-made-of-human-cells.md",
+      "title": "Scientists Craft 'Living Skin' for Robots, Made of Human Cells",
+      "excerpt": "Japanese researchers covered a robot finger with a self-healing pliable sheet made of human skin cells. Why it matters. Helping robots resemble humans could impr",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/scientists-craft-living-skin-for-robots-made-of-human-cells/",
+      "originalUrl": "https://www.cnet.com/science/biology/scientists-craft-living-skin-for-robots-made-of-human-cells/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/34621c10a777da17fd84d8c062c15fbe6f671cda/2022/06/09/09235a85-1567-4b44-b5c7-c6f09ac9b768/robot-finger-cropped.png?auto=webp",
+          "width": 643,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/scientists-craft-living-skin-for-robots-made-of-human-cells/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/scientists-craft-living-skin-for-robots-made-of-human-cells/",
+      "publishedDateTime": "2022-06-09T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-continuously-monitor-predictor-accuracy-with-amazon-forecast.md",
+      "title": "Continuously monitor predictor accuracy with Amazon Forecast",
+      "excerpt": "We’re excited to announce that you can now automatically monitor the accuracy of your Amazon Forecast predictors over time. As new data is provided, Forecast automatically computes predictor accuracy metrics, providing you with more information to decide whether to keep using, retrain, or create new",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-monitor-predictor-accuracy-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-monitor-predictor-accuracy-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/continuously-monitor-forecast.jpg",
+          "width": 1248,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T10:55:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-apply-to-pitch-your-startup-at-tc-sessions-climate.md",
+      "title": "Apply to pitch your startup at TC Sessions: Climate",
+      "excerpt": "The climate crisis is here. As the stakes rise with the temperature, a wide range of startups are striving to help humanity slash emissions and adapt to extreme weather. If you’re an early-stage founder focused on such efforts,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/",
+      "originalUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Neesha.webp?w=1024",
+          "width": 1022,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/amp/",
+      "publishedDateTime": "2022-06-09T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio.md",
+      "title": "Cisco Revamps Cloud Security Strategy With New Secure Access, SASE Portfolio",
+      "excerpt": "The company's vision for the future of cloud security is based on simplified, horizontal coverage across multiple cloud platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/dr-tech/cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio",
+      "originalUrl": "https://www.darkreading.com/dr-tech/cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5f3b061e309d17bd/627407f4e9dae965bdbcae7c/Cisco-Kristoffer_Tripplaar-Alamy.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
+      "title": "Azure eats into AWS lead as cloud market continues to grow",
+      "excerpt": "Google is also rising to challenge AWS’s dominance, coming forth in Gartner’s ... as well as its work in emerging capabilities such as artificial intelligence and Kubernetes container technologies. Gartner also highlighted its expansion of their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
+      "originalUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-papercup-enhances-ai-dubbing-capabilities-with-new-20m.md",
       "title": "Papercup enhances AI dubbing capabilities with new $20M",
       "excerpt": "Papercup, a startup based in the U.K., has raised $20 million for an AI-powered dubbing service for translating speech and expression into other languages.",
@@ -697,6 +1043,50 @@
       ]
     },
     {
+      "path": "_news/2022-06-09-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
+      "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
+      "excerpt": "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
       "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
       "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
@@ -831,370 +1221,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes.md",
-      "title": "General-Purpose AI Vs. Vertical-Specific AI: What’s The Best Way To Alleviate Our Supply Chain Woes?",
-      "excerpt": "Here are the key characteristics that we believe allow for the development of maritime AI as a clear, functional branch of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//61aa209ac1e69020fec92b71/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/amp/",
-      "publishedDateTime": "2022-06-09T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-achieve-seamless-observability-with-dynatrace-for-azure.md",
-      "title": "Achieve seamless observability with Dynatrace for Azure",
-      "excerpt": "Microsoft Azure enables customers to host their apps on the globally trusted cloud platform and use the services of their choice by closely partnering with popular SaaS offerings. Dynatrace is one such partner that provides deep cloud observability, advanced AIOps, and continuous runtime application",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc185ce4-1b45-494d-9d04-1e533be6bc49.png",
-          "width": 1028,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T03:00:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-as-a-cyber-security-enabler.md",
-      "title": "AI as a cyber security enabler",
-      "excerpt": "AI makes it possible for businesses to handle significantly higher volumes of incidents than was previously possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn",
-      "originalUrl": "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/vTByOfnu0MpUBJcpeD4A9yShoqR5sVw5vKs25Jpm6QrSQyoxuPOic_XyD5no2_rK_ALmHaM8AaNCn0lEr66IvxOxUvYNFzJgJhQk=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn",
-      "publishedDateTime": "2022-06-09T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-baidus-first-car-will-target-tesla-model-y-executive.md",
-      "title": "Baidu’s first car will target Tesla Model Y: executive",
-      "excerpt": "Baidu’s electric vehicle (EV) subsidiary Jidu Auto unveiled its first concept car on Wednesday, with representatives promising the model will be 90%",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
-      "originalUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
-      "publishedDateTime": "2022-06-08T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-insilico-medicine-plans-to-launch-a-fully-automated-ai-driven-robotics-lab-for-drug-discovery.md",
-      "title": "Insilico Medicine plans to launch a fully automated AI-driven robotics lab for drug discovery",
-      "excerpt": "Insilico Medicine's end-to-end AI-driven drug discovery platform, Pharma.AI, draws its strength from the quality and quantity of its data. As Insilico scientific advisory board member and Nobel Prize laureate in chemistry Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "publishedDateTime": "2022-06-08T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-baidus-electric-vehicle-firm-jidu-unveils-first-robot-car.md",
-      "title": "Baidu's electric vehicle firm Jidu unveils first 'robot' car",
-      "excerpt": "Besides equipping the vehicle with autonomous driving software technology powered by Baidu, Jidu will also build two lidars and 12 cameras alongside the car. Lidars are detection systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car",
-      "originalUrl": "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/200609_robot%20car.png?h=9a34780c&itok=6MDqmIDk",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-kiyaai-introduces-indian-banking-metaverse.md",
-      "title": "Kiya.ai Introduces Indian Banking Metaverse",
-      "excerpt": "Kiya.ai - one of the most \"innovative\" digital solution providers, announced the launch of India’s \"first-ever\" Banking Metaverse – Kiyaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
-          "width": 1600,
-          "height": 1291,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
-      "publishedDateTime": "2022-06-08T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
-      "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
-      "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "originalUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "publishedDateTime": "2022-06-08T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
       ]
     }
   ],

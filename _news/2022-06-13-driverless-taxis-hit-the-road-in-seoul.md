@@ -41,20 +41,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Hyundai Starts Driverless Car-Hailing Service in South Korea"
-    excerpt: "Hyundai is ready to pilot a RoboRide driverless car-hailing service in the posh district of Gangnam. Using the Ioniq 5 battery electric vehicle, these Level 4-equipped autonomous driving vehicles will operate in one of the most congested areas of South Korea’s capital city."
-    publishedDateTime: 2022-06-09T23:19:00Z
-    webUrl: "https://www.carguide.ph/2022/06/hyundai-starts-driverless-car-hailing.html"
-    type: article
-    provider:
-      name: carguide.ph
-      domain: carguide.ph
-    quality: 54
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhBed4rXr3IN5db6Qntbf-EKQo07ymC1tUiG_cds9qRyRz6ul6fXZm60XV5VLH5UPZOV7I5rwVpEgqukYmyB1HsGSdEZAWYrTif7owb81V5lEn8zEkEWP-Rh2d7twIIXNPbcGX8ZH8ui5M7248_EARZv3FbezkVEO85heVtuqdhGzmzBxXQEfDamj-g/w1200/hyundai_roboride.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "sJjAuejDgVBHufoCHQjYQtKu4qEmvVwmBEW362k72VN5AoQbYOUKdzNtdX4tqdd+VcbyovWa4+kIkC3ZJQuVQyCkPiMVH3SHl91XWRTr32Fr3pHDi7MlNL+AajJkjWlBFRcomqDnpkw7N0ErhwsVBrb5Tdhn0CJZAF4yOmFudEk6iWKy8lpq4Zf/nVmsd0+1lOqlodrh1NhkI3ct0S00DFOi0D3p0Rw9sAC3h7NkYOgttdCTh6jUDKP0M6YKffNnUgUYzvDI9LTbF2GyxHx3C86xTU+s/CCJKADUcKXabT0tAtabAJIjvxs1fTJWIS5G/i00U5BlbZfKJ+QGJMiBIhgqvEFx9WwVrMAogt4wQBq+FatYzQK5M/LrJZK+YOl8+sO6T3hLw4mCzYCgL/U/MUS8976sbNEyWptVfnU+H+ewv2oKzcUyeomLxcc+qFQuziFNBq3nwdShVS36OqH2p9fTQwb2ihoddGqtiKz7u5ijykNRIoKAt5P7gGmwdqfTNb/JULZzo4qzlYTXhlpveQ==;OSOqE0O3XZnymAqqOTO/Ig=="
 ---

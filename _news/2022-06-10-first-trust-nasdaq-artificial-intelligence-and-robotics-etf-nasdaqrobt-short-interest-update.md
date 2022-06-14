@@ -15,8 +15,8 @@ provider:
   domain: defenseworld.net
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 related:
   - title: "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG) Sees Large Growth in Short Interest"
@@ -29,6 +29,6 @@ related:
       domain: defenseworld.net
     quality: 7
 
-secured: "MG2yEECFru0JMFIF+s4Mm6zgADOq9X5OUu0vIKKBZFvtYcv9OHlKS+cx+iw/0Fzdqip5DmDgMTDVKeOBxiec8+JR2kXXYVi6X8/bNy6d7+MAU742gSo3qYQ/d0V38wGJMaeOCQGTjfT6m5CziGSj3mSKqdTa19cVjtXFyk/Pso0Rl1v+8nEnzrQVckNNFlp12TgGV07Aqcx0smvp1VVIwJH5yNC8RqWh0UUnED4lflwUisJhjW9D3iCK/vmfCBBCQ2cjMMvvxGvAZmg7YMOtGFcNC51FKbiuQvlvMLEYw8D+spbVQ6g/vR/dwE+RfRpgieM9HRuk9cRnqTTyZdyP3owDm+tceChu7tZH6e+DeVs=;V1znJ96xCq7wMWAzg8jBIg=="
+secured: "z1nwFHRgVkrw7O7p/5a9hY8Sn++p/BgMxcyAm5bkunaCnkmWGR9zSd6Cyc77QVaZzDlLuU0XKQJjAHbRqDtcsDRgz8n3VKuBS+q00sduFOlgV+w+Zn62iCYgXOzMTpOxXf0kSieRIDbRqvyTUuxfFXm3SYUb/35n2yO5u08nxMKK+xLSKTdBaGDUbzZCV9sjim952x6lU877TyVKdRJ5crXIXLPSvK2EIEysZDconhb7JBW2E2qxhH7pksOu17BHEpbO3/h1MfSZoxIBPxr/sARTzMwXYsJFRmArnHdJEWC/N6wFJijta+roKyWR9Rtu8EGypU+9H+Abn0madJfabjX2++YEUWN43x/BASJhq3w=;lm3PevaUTAMqIgoLcmD+ew=="
 ---
 

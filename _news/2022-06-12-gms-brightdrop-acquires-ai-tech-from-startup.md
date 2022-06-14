@@ -35,6 +35,20 @@ related:
       name: GM Authority
       domain: gmauthority.com
     quality: 37
+  - title: "GM Subsidiary BrightDrop Purchases AI Software to Lower Fleet Operation Costs"
+    excerpt: "BrightDrop, a subsidiary of General Motors Co. in Detroit, is acquiring fleet optimization software from Marain Inc."
+    publishedDateTime: 2022-06-14T15:57:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/gm-subsidiary-brightdrop-purchases-ai-software-to-lower-fleet-operation-costs/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 34
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/06/BrightDrop6.14-800.jpg"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "+KkTwbdAp5gFGxGqShfLvE2EqGeUyEgx0UOY0uSzSmv5PtmQ9qK+Hvo2vwEEQfFpWIYMAw1BWBVvRi4WJB6tkU1N3tFO2SVfQnfrWgJASTF09g9b5/AeZtqcyXiYkQk0gYUT+kKNRVP7Jsv2bqn5Z2sANow2autYIfOg7Ad5gTmmHvtMM5AsfOoshbgms59jkSg4Tx6U6etFnB+6WrGeXLacmXzEIebOTgxZ0LLaG4NIi9N/AcnyZPABij5UrRPNwE6G19g8p6UsaSa/Ot0MZFqSqmv0S6wdnLwFOCpQcoQRNrS7nw6/ACYOqPNK1ACR0IvglyveL2IGGnSNU99ICCVVv0Mq7y6Txi6mWRmCzx8=;m6zL9xKWYBaSLrTfKvYGxg=="
 ---

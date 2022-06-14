@@ -2,6 +2,251 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-11-google-chrome-will-use-machine-learning-to-make-browsing-less-awful.md",
+      "title": "Google Chrome Will Use Machine Learning to Make Browsing Less Awful",
+      "excerpt": "Google has revealed its plans to use machine learning to make browsing the web suck less. The company says (Opens in a new window) it already uses machine learning to enable some",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful",
+      "originalUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00BFfSrxJN6AaGlonTAOKls-1.fit_lim.size_1200x630.v1654956168.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true",
+      "publishedDateTime": "2022-06-11T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-11-is-tesla-backtracking-on-its-camera-only-autopilot-strategy.md",
+      "title": "Is Tesla Backtracking On Its Camera-Only Autopilot Strategy?",
+      "excerpt": "A Tesla Model Y was spotted in Canada with a LiDAR system integrated into its roof. Could there be a change coming to Tesla’s camera-only Tesla Vision plan?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a38c5ba606a01408876076/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/amp/",
+      "publishedDateTime": "2022-06-11T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-11-ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns.md",
+      "title": "AI systems have their own ‘secret language’. And it might come with security concerns",
+      "excerpt": "The findings support the theory that AI language models don’t read text the way you and I do. Instead, they break input text up into 'tokens'.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
+      "originalUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2021/08/artificial-intelligence-4389372_1280-e1599296856435-1024x576-1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
+      "publishedDateTime": "2022-06-10T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-11-demand-for-ai-machine-learning-courses-soars.md",
+      "title": "Demand for AI, machine learning courses soars",
+      "excerpt": "In order to cater to the rising demand for new-age engineering programmes like Artificial Intelligence (AI), machine learning and Internet of Things (IoT),",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/3/5/w600X390/declare_AI.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.amp",
+      "publishedDateTime": "2022-06-10T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-11-7-steps-to-more-ethical-artificial-intelligence.md",
+      "title": "7 Steps To More Ethical Artificial Intelligence",
+      "excerpt": "Even those who spend a lot of time in the field of AI ethics have a lot of difficulty understanding what’s to be done.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3b38e4305a1d890db1ac4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-10T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-11-how-to-use-human-centered-ai-with-forethought-and-nea.md",
       "title": "How to use human-centered AI with Forethought and NEA",
       "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100M in venture ...",
@@ -364,7 +609,7 @@
       "originalUrl": "https://www.suasnews.com/2022/06/shield-ai-raises-165m-series-e-to-accelerate-building-of-the-worlds-best-ai-pilot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -406,7 +651,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -619,6 +864,83 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-aws-announces-general-availability-of-aws-mainframe-modernization.md",
+      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
+      "excerpt": "SEATTLE–(BUSINESS WIRE)–Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
+      "originalUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
+      "publishedDateTime": "2022-06-09T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-artificial-intelligence-automation-and-robotics.md",
+      "title": "Artificial intelligence, automation and robotics",
+      "excerpt": "The challenge of open source in the enterprise is not technical – Cliff Saran's Enterprise blog Grid stability and the risk it poses to the retail sector and its datacentres – Ahead in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
+      "originalUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -874,352 +1196,6 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-chrome-to-use-ai-to-predict-if-people-want-website-notifications.md",
-      "title": "Chrome to Use AI to Predict if People Want Website Notifications",
-      "excerpt": "Google Chrome is doing something about websites that constantly ask users if they want to receive notifications by automatically disabling prompts based on a person's history. On",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/06684155a8b8f15f6e6b2131f21aada84408d3fc/2021/02/23/62760e4a-1286-413f-b515-a55f3923aa2a/google-chrome-logo-2076.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
-      "publishedDateTime": "2022-06-09T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola.md",
-      "title": "Nala Robotics launches fully autonomous pizzeria robot Pizzaiola",
-      "excerpt": "Nala Robotics' Pizzaiola uses artificial intelligence and machine learning to precisely replicate pizzeria-style foods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
-      "originalUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-nala-robtoics.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-scientists-craft-living-skin-for-robots-made-of-human-cells.md",
-      "title": "Scientists Craft 'Living Skin' for Robots, Made of Human Cells",
-      "excerpt": "Japanese researchers covered a robot finger with a self-healing pliable sheet made of human skin cells. Why it matters. Helping robots resemble humans could impr",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/scientists-craft-living-skin-for-robots-made-of-human-cells/",
-      "originalUrl": "https://www.cnet.com/science/biology/scientists-craft-living-skin-for-robots-made-of-human-cells/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/34621c10a777da17fd84d8c062c15fbe6f671cda/2022/06/09/09235a85-1567-4b44-b5c7-c6f09ac9b768/robot-finger-cropped.png?auto=webp",
-          "width": 643,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/scientists-craft-living-skin-for-robots-made-of-human-cells/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/scientists-craft-living-skin-for-robots-made-of-human-cells/",
-      "publishedDateTime": "2022-06-09T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-continuously-monitor-predictor-accuracy-with-amazon-forecast.md",
-      "title": "Continuously monitor predictor accuracy with Amazon Forecast",
-      "excerpt": "We’re excited to announce that you can now automatically monitor the accuracy of your Amazon Forecast predictors over time. As new data is provided, Forecast automatically computes predictor accuracy metrics, providing you with more information to decide whether to keep using, retrain, or create new",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-monitor-predictor-accuracy-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-monitor-predictor-accuracy-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/continuously-monitor-forecast.jpg",
-          "width": 1248,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T10:55:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-apply-to-pitch-your-startup-at-tc-sessions-climate.md",
-      "title": "Apply to pitch your startup at TC Sessions: Climate",
-      "excerpt": "The climate crisis is here. As the stakes rise with the temperature, a wide range of startups are striving to help humanity slash emissions and adapt to extreme weather. If you’re an early-stage founder focused on such efforts,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/",
-      "originalUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Neesha.webp?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/amp/",
-      "publishedDateTime": "2022-06-09T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio.md",
-      "title": "Cisco Revamps Cloud Security Strategy With New Secure Access, SASE Portfolio",
-      "excerpt": "The company's vision for the future of cloud security is based on simplified, horizontal coverage across multiple cloud platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/dr-tech/cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio",
-      "originalUrl": "https://www.darkreading.com/dr-tech/cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5f3b061e309d17bd/627407f4e9dae965bdbcae7c/Cisco-Kristoffer_Tripplaar-Alamy.jpg",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
-      "title": "Azure eats into AWS lead as cloud market continues to grow",
-      "excerpt": "Google is also rising to challenge AWS’s dominance, coming forth in Gartner’s ... as well as its work in emerging capabilities such as artificial intelligence and Kubernetes container technologies. Gartner also highlighted its expansion of their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "originalUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

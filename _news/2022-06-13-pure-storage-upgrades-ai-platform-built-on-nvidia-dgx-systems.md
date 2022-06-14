@@ -35,20 +35,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Google Cloud expands its Vertex AI platform with new machine learning tools"
-    excerpt: "Google LLC’s cloud business today debuted a series of enhancements to its Vertex AI platform that will enable enterprises to develop artificial intelligence software faster. Introduced last year, Vertex AI is a collection of cloud services for creating AI models."
-    publishedDateTime: 2022-06-09T23:42:00Z
-    webUrl: "https://siliconangle.com/2022/06/09/google-cloud-expands-vertex-ai-platform-new-machine-learning-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/google.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Google has added additional capabilities to Vertex, its managed artificial intelligence service"
     excerpt: "Google unveiled the Vertex AI service, a platform that helps organisations install artificial intelligence models more quickly. This morning, Google released new features for Vertex to commemorate the service’s one-year anniversary and kick off its Applied ML Summit."
     publishedDateTime: 2022-06-10T08:17:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-14T06:47:00Z
 originalUrl: "https://www.onmanorama.com/lifestyle/health/2022/06/14/artificial-intelligence-gamechager-ophthalmology.html"
 webUrl: "https://www.onmanorama.com/lifestyle/health/2022/06/14/artificial-intelligence-gamechager-ophthalmology.html"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2022/6/14/eye-health-c.jpg"

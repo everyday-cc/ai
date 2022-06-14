@@ -69,6 +69,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "Is there a cause for worry if AI turns sentient?"
+    excerpt: "Last December, Timnit Gebru, also an AI ethics researcher at Google, was allegedly fired after she drew attention to a bias in the company’s AI . But why do humans fear intelligent AI? If you’re a fan of sci-fi movies like I, Robot, The Terminator or ..."
+    publishedDateTime: 2022-06-14T17:41:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient-11655227879060.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient/amp-11655227879060.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient/amp-11655227879060.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/06/14/600x338/primerpic_1655228015898_1655228027695.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "How does Google’s AI chatbot work – and could it be sentient?"
     excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
     publishedDateTime: 2022-06-13T13:08:00Z
@@ -109,23 +125,23 @@ related:
     provider:
       name: The Economist
       domain: economist.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220618_BLP503.jpg"
         width: 1280
         height: 720
         isCached: true
   - title: "No, Google’s AI is not sentient"
-    excerpt: "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ..."
-    publishedDateTime: 2022-06-14T11:10:00Z
-    webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
+    excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
+    publishedDateTime: 2022-06-14T15:52:00Z
+    webUrl: "https://localnews8.com/life/technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 39
     images:
-      - url: "https://kesq.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
+      - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
         width: 2000
         height: 1125
         isCached: true

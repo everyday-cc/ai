@@ -34,7 +34,7 @@ related:
     provider:
       name: onmanorama
       domain: onmanorama.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2022/6/14/eye-health-c.jpg"
         width: 1248

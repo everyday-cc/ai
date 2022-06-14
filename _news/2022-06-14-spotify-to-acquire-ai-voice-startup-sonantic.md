@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Hollywood Reporter
@@ -41,6 +41,20 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2019/01/AH-Spotify-new-logo-1.jpg"
         width: 1600
         height: 899
+        isCached: true
+  - title: "Spotify buys text-to-speech startup Sonantic for voice features"
+    excerpt: "UK-based startup Sonantic, which has developed text-to-speech technology capable of generating (in its words) “compelling, lifelike"
+    publishedDateTime: 2022-06-14T16:17:00Z
+    webUrl: "https://musically.com/2022/06/14/spotify-buys-text-to-speech-startup-sonantic-for-voice-features/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 22
+    images:
+      - url: "https://musically.com/wp-content/uploads/2018/04/spotify-nyse.jpg"
+        width: 1000
+        height: 400
         isCached: true
 
 secured: "dm6+8JbtWBX+9rDZA+fkNDIiX3R8YAW6sdD/1rgpEPV3IYMDxIRW0PoPLLTBZRtqjeu4np2i19vi6D4TfTzMCWAdv61ibPZpw4VONSpXfNe8Awziy7ps5X2F4LlUdO2zWc2OfhBN/rwOoK8zCR2hcXRBT3n6/LCCKEojM+TOv+n8BIZperN7UeBXS7jK3bpVIi6M4JwZgXm6HK87RlKwm/gRaIYNP8/eGJy6lO/pNDaffzb4Pa8RYsWbmOzRzbMXbbzEZIJ8VInhTJPm8AVxXaRI542spK14XYvSa4q14Qq4E5ftc1nd4/l86mGEAUGTfS9GAznRu/fSCgevBVP7LufZSAhT4tayFyP+6RLrxmg=;WnDA0EaN00HdmCBqBpcaNg=="

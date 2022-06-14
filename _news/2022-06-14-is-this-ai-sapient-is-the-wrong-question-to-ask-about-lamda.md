@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/lamda-artificial-intelligence-sentience/"
 ampWebUrl: "https://www.wired.com/story/lamda-artificial-intelligence-sentience/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-artificial-intelligence-sentience/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 90
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/62a88595e1a7c9ca5f0da158/master/pass/AI_Sapient_Science_GettyImages-1241233246.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "qk1Kx0zHcK3CPGTzlrSzgBktdsifqtrV+1T6R3Mwu7iPCEddxRE2XVXX5TpmZJrOsPei+zeqBLYEaY56g5kgp75NjIcaYUfDLE0AETzIXmgFlRltdYbdgh6wPtuQ0ecb1hZFI5WQ4IMwtyA1SmuPSRSpgXoDsspHq1pEf4Dw1NByDUMKllHtHZmCaC9WacUVliAxt7zdBGmKRqVrHJOtLHVzDro+5h976wunWlpuLZOQ7qQvf28mJUqUs29xOhzJZDFVjypxGGHETnDOrwOyzayHp0w7ApKGMmxA+ZMtN49r+LI+1sRngKHBTHctI+hRAQTJJYx0n46UXD4apyR7h1qEx4WtZXs+ZDne0K6V6fQ=;gTmYHCjUiTmiDix0tWXxQw=="
+secured: "drCvx333o+CvTQkeVyrlDS3XQ5nQ89TyZp7nIzHucN0SduPVausskju+QLeZ53o6bY/YuuWo/DUR30xJur6AMPxoac3B6Ps0OgVKf2lOGY7PvUFIXuBO56vzfRrlFpIkyBIcy/CMm2h7rzF/csLCZ2Z/aEb6Lwa81mBWLWlm/krxo9aQy30xQyT6Zn2UhRjkiFz2Xymw5poi1LFDqQXj9TOrJzexvDa3lMVGjuEGOnk6zcRPDoPTZPtS0AZQYJSm/fZJPcJtdGV8NlgamjCuqHRyVNjOKaSDxe4HOQwfkEeYVbOl7A7aKd8tfVpgPTy0fuUue/hqJ1LNIQavKi4Y7pEtqNK/5HQTMyJ657eFZARSFzstp0gXNmQqokL1+/4gEb3jlMsdFG1mKdrH6uJk8NqTcjJRqznsmhdj9LphYq3R8MGbHcf1QNoi5sxjfWNYSGtFIMDdi+VGFqEzaW3mOCzJoiCt5+HXogT5DkeTMODXh6hNG3XbB/sCxC8rKCHyiRqnkQs1XoyewrKvltCe2Q==;sGsv9wxfN+UyBM8GSgPhcg=="
 ---
 

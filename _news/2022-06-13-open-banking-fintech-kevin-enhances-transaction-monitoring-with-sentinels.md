@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 24
+  - title: "The Regulatory Challenges of FinTech"
+    excerpt: "Scholar sketches the current regulatory landscape for financial technologies in the United States. New financial technologies are worth big bucks—but are regulators doing enough to oversee the massive risks posed by these new services and platforms while allowing for flexible innovation?"
+    publishedDateTime: 2022-06-14T04:01:00Z
+    webUrl: "https://www.theregreview.org/2022/06/14/moss-regulatory-challenges-of-fintech/"
+    type: article
+    provider:
+      name: theregreview
+      domain: theregreview.org
+    quality: 24
+    images:
+      - url: "https://www.theregreview.org/wp-content/uploads/2022/06/1297465792.jpg"
+        width: 800
+        height: 469
+        isCached: true
 
 secured: "QoHmDJXZEr5NzcCK7Bbqu4ZfUWCXsqqiNs2VQbNmLKAUpUHqTTGENXaJz1m/Y37FsG6X0oua38d9pKNF/g2KPbpIsXmdtXq+Rw0P4dRZDNWhGl1604WOpjgYrMFUnQWU8j0cPD/jW8r4BAg+YvPGBpbPGFqM4KtjxkenES6QwCidZ7SO4Vh9rN4E/1mPVPTH12bT9lZFHPb/bDvMQzjO5xVko1cfRpigSrghI8LwxJ2epU6Kf+kC1fm5KgCjC+bPaI36dkRQbWORGgQ3w8HQqpqxu6AJL8z5NRHvptHMGrzOHWgx0BSzlXzpp/gK1ppZwxEtg4ns4b+FKGzLAcwRCQGUrqJkvOTmz7K2N8KpRpAR6ygiX21DH3VElRpDhjy73pGIbXD8hYOWG9/UrLm0sb0yQS+j35pYBdV/QySLfhKpEc2ACgaHUpzHyaTBWcPDaC0ZhOGQDpAZPO0h2rAyH7qOddW52Sc1VClz/IOP+Hsvlp8iRwcYacRyj1snLBcu03PT685aRy77YKECdFz7mA==;+r7QcZrIvSZgoIN7U0ZKRg=="
 ---

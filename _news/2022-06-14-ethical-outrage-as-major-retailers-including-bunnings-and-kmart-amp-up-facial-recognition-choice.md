@@ -7,7 +7,7 @@ originalUrl: "https://www.townsvillebulletin.com.au/news/nsw/ethical-outrage-as-
 webUrl: "https://www.townsvillebulletin.com.au/news/nsw/ethical-outrage-as-major-retailers-including-bunnings-and-kmart-amp-up-facial-recognition-choice/news-story/8b7269511d843a3f2581a691295f84c4"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI Ethics
 
 related:
+  - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
+    excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’ Bunnings, Kmart and The Good Guys have been using facial recognition technology in a bid ..."
+    publishedDateTime: 2022-06-14T17:34:00Z
+    webUrl: "https://theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 42
+    images:
+      - url: "https://i.guim.co.uk/img/media/92f9b66ff93cb5d8b314b9b8a65f42d30e6c36c4/0_0_1518_890/master/1518.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8b6c36542299078a01a3ae345f2ec0a5"
+        width: 600
+        height: 352
+        isCached: true
   - title: "Kmart, Bunnings and The Good Guys using facial recognition technology in stores"
     excerpt: "CHOICE has discovered three major retail outlets in Australia are using facial recognition technology and shoppers remain largely in the dark about the practice."
     publishedDateTime: 2022-06-14T06:53:00Z
@@ -33,6 +49,20 @@ related:
       - url: "https://img.choice.com.au/-/media/905695f483e94e72bacbd1796f131d34.ashx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Health organization moves to facial-recognition technology"
+    excerpt: "VHC Health – formerly known as Virginia Hospital Center – is slated to implement “positive patient identification” (PPID) using facial biometrics at its facilities, making VHC the first health-care sy"
+    publishedDateTime: 2022-06-13T15:53:00Z
+    webUrl: "https://www.insidenova.com/news/arlington/health-organization-moves-to-facial-recognition-technology/article_05d2e654-eb31-11ec-bc3c-ff10b9fe5278.html"
+    type: article
+    provider:
+      name: INSIDENOVA.COM
+      domain: insidenova.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/custom/image/d67912d4-211a-11e6-ad8b-8f0a9483ff88.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "gyg4iNbMA8FV+mZJcOLd9JCz3v+Ub9IazmPiQtDFmh+hBtFUBOIAFtaVknHkW/VI2KCAxYn1fsiLt96qE+6RJO7Rp4z06OOCgYT/kjK20KI9gTrFVZBla6VxZOabqoX3RcqZ1cBIYK2ya4r9txr/GfVDp/Ba8z2nOedX6Pqb+N9wx0myHaTH1dWPXHf6Z0gwgR/Ipe0xijiALtJZ7pKrFGRrGW675HY85fo/Ys/P+UzMENXWMFr/8IwrSnc3NmOOq65PlzGr8vDH9oy+712nmT/3eZFIfIojfuG570+SMNGBC+rCz7uNIuksDII09sX6ciqi7b6FljKhrqfLvI69dDPPH95wszsxlM7oCmG21KDXBnHpNQEy5c7WsTUIcnNY6lfdvkLX4nFCkE2VZEUFdapxzHY5YGHhw5yobOdvYfaOqmf2t1iaPgsRhjEbAMiK590GVKcv/BO3/z6gB49FwFqy5rvIFILFe6ApKC5HbWVVJFdstWWTDFZWJDK30XZ+Ba3R5IzYBSRdpIIrYzHjxw==;Fp1hJhAl5iCXAK9zQPxy2w=="

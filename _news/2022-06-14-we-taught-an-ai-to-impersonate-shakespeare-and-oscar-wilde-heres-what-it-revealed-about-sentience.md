@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/we-taught-an-ai-to-impersonate-shakesp
 webUrl: "https://theconversation.com/we-taught-an-ai-to-impersonate-shakespeare-and-oscar-wilde-heres-what-it-revealed-about-sentience-184969"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "We Taught An AI To Impersonate Shakespeare And Oscar Wilde Here's What It Revealed About Sentience"
+    excerpt: "If that reads a little like Shakespeare defending humans' innate superiority over artificial intelligence hundreds of years ahead of his time, it"
+    publishedDateTime: 2022-06-14T17:27:00Z
+    webUrl: "https://menafn.com/1104373182/We-Taught-An-AI-To-Impersonate-Shakespeare-And-Oscar-Wilde-Heres-What-It-Revealed-About-Sentience"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/14/TC_ed309image_story.png"
+        width: 893
+        height: 703
+        isCached: true
 
 secured: "Zs0Tt8KM51iDhZHqCiObwxX6M8IDS4ihkp1ceWh13F6osBbhVXQL/y+zNJQs/8sCxiQ5Ruy4j7FoyjPTy3r4tO+aKVtwv/CfBKXso6rUmXyln3kRGHsuvsuMxGM1OsGlyIVU80UrBAFy2a6PQEtSFiahtb4u/WSTsG5IwAsIqDyJpj5Nz73sJWEAY6U9v0w5zPxNBGtaYSzO89WqHuVS/oTYobMdV5qCAeq40MiJCX4Lo8vcURAISq1VnYaYXXxJT+i6qSWNnuqdy61tdNcuKQWRbYlqEvZmNUKPf+Q2i+/G/rjmduQjzlmEWyyqgMCCRkMKeXVtj5SwdM+NLkyDJ8tzff7iL8eo8hM17eUWHG4p5s46+jjprGd/wagsLE2wFGHNT+Kd+CkDSqjl3wWI7gJXvFmqy9wFpspw1TvPZUcn3iLMJhBFpwCBJzApQOSxdgvuIDVbwjGxmvFsDVRKZ65zzFQGzPgNda1zYqSU8m0IPOHJqftsqPLpJPeSEVKbWewxqQqF4x7qQolPOV/TTg==;Vtr1vPnADiqndQm83SzyFA=="
 ---

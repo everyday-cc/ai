@@ -1,24 +1,33 @@
 ---
 category: news
-title: "Google suspends engineer who claimed its AI system is sentient"
-excerpt: "Google suspended an engineer who contended that an artificial-intelligence chatbot the company developed had become sentient, telling him that he had violated the companys confidentiality policy after it dismissed his claims."
-publishedDateTime: 2022-06-14T00:40:00Z
-originalUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-ampWebUrl: "https://amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
+title: "Google Suspends Engineer Who Claimed Its AI System Is Sentient"
+excerpt: "A software engineer at Google told the company he believed that its Language Model for Dialogue Applications, or LaMDA, is a person who has rights and might well have a soul."
+publishedDateTime: 2022-06-14T06:02:00Z
+originalUrl: "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+webUrl: "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+ampWebUrl: "https://www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Australian
-  domain: theaustralian.com.au
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
+
+images:
+  - url: "https://images.wsj.net/im-562388/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
@@ -356,11 +365,27 @@ related:
     provider:
       name: 6abc News
       domain: 6abc.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Can the new Google chatbot be sentient?"
+    excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
+    publishedDateTime: 2022-06-14T17:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/incoming/1gnup5/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
+        width: 615
+        height: 383
         isCached: true
   - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
     excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"
@@ -688,6 +713,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "RBOtV/UV2P/9wG3h/kbeYjoEuOWRQnbQycWkT1Unya9CWA4beJ8MNtO6qcfXUOlgLlksaUOoT9MyrY2Y5z6DvYuq/iENF9ZSugNrI4oWefI28DvtDH5F/EgaKqNVdwfq/IdcEyNTNQG12CDn6gekXxIATDZ/fWGYlAxGDkaolNPwMKAGLNNY+DQEKPSCwP2x1o4GJqkDkJtTrgw/2J7aCA5Xh1IU4dNwYNycw2snxPg8Zyz68rJ/eTIp90SEvpDRa4McYmSVhnMBXdW8mvR1k32aJycERKf1nAU4YtzUsq0ceEMxsJy5iNv5YDIgb2FexV1smmUOMTeCT+L2aesUsFt/DIE1j/OKcrvRBVORFhB4XU01uQG+Ig5zNGtW5pLiMR3+wzDsaAUGMgjM0amP0SvT48ALlByTMu0Td+C23vNfQgT3rIDZp+jMM7x0mLjxAB6OXz7VoQ+ul4bGngo8N3SKEr8LdIpLupffh7Pg4q8A2tpFw8q120fH7Pbn8nU6PALuKk7HxHizPZC6/gJfAw==;PRJZMWKAn8AwI+iTnDsWNA=="
+secured: "tTI0YNTmMADDC5e3pj2MjawbfFjpHbmT6TXhYjwMIeGWUKzuhbVws6YxkUIdxpaOD96nRwfI6zblEIQJPxr8vp4TRoxrWMdxd56WAZrYti7SCrbibQt+4WaT5Y1LJGpqj9nr0SJVlOhU+wElYMUIzw91PII4BhVsPwx3X2DH+QbjIzfrLLip7BDkJO0Le/BJqMPEZkh3r/kAVTOJdHxS0FamGV0VyT+EkYq9a3Pmz0isVNRP4wUE7hFB10qoTdTiF4McIO+RlutJM3iQWI21kf/lNCOoVAK3ZjnPSyYstqODy2Rwoj3JI2xbtPSJfBzzKBxwPlV/bQoDxM77P3h6a1ypEsGnr3SClTWTFZVn4cc=;P7U7nbM8qs0mzsCTh97KcA=="
 ---
 

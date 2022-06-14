@@ -1,25 +1,25 @@
 ---
 category: news
 title: "No, Google’s AI is not sentient"
-excerpt: "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ..."
-publishedDateTime: 2022-06-14T11:10:00Z
-originalUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
-webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
+excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
+publishedDateTime: 2022-06-14T15:52:00Z
+originalUrl: "https://localnews8.com/life/technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
+webUrl: "https://localnews8.com/life/technology/2022/06/14/no-googles-ai-is-not-sentient-2/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://kesq.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
+  - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
     width: 2000
     height: 1125
     isCached: true
@@ -73,6 +73,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "Is there a cause for worry if AI turns sentient?"
+    excerpt: "Last December, Timnit Gebru, also an AI ethics researcher at Google, was allegedly fired after she drew attention to a bias in the company’s AI . But why do humans fear intelligent AI? If you’re a fan of sci-fi movies like I, Robot, The Terminator or ..."
+    publishedDateTime: 2022-06-14T17:41:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient-11655227879060.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient/amp-11655227879060.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient/amp-11655227879060.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/06/14/600x338/primerpic_1655228015898_1655228027695.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "How does Google’s AI chatbot work – and could it be sentient?"
     excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
     publishedDateTime: 2022-06-13T13:08:00Z
@@ -105,6 +121,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Could artificial intelligence become sentient?"
+    excerpt: "Arguing about intelligence is tricky because, despite decades of research, no one really understands how the main example—biological brains built by natural selection—work in detail. At the same time,"
+    publishedDateTime: 2022-06-14T14:42:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2022/06/14/could-artificial-intelligence-become-sentient"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 41
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220618_BLP503.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google suspends engineer who claimed company created “sentient” AI"
     excerpt: "Blake Lemoine, a software engineer on Google’s artificial intelligence development team, has gone public with claims of encountering “sentient” AI on the company’s servers after he was suspended for sharing confidential information about the project with third parties."
     publishedDateTime: 2022-06-13T05:45:00Z
@@ -116,20 +146,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Could artificial intelligence become sentient?"
-    excerpt: "Arguing about intelligence is tricky because, despite decades of research, no one really understands how the main example—biological brains built by natural selection—work in detail. At the same time,"
-    publishedDateTime: 2022-06-14T14:42:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2022/06/14/could-artificial-intelligence-become-sentient"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220618_BLP503.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "If AI Ever Becomes Sentient, It Will Let Us Know"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
     publishedDateTime: 2022-06-13T16:00:00Z
@@ -163,6 +179,6 @@ related:
       domain: rnz.co.nz
     quality: 17
 
-secured: "2S3lufL3guBU9i18B1DtjXXotdCXB8Hg0+tiSaaNGaXQhAa06Hkcw12aevWJ+g7lETQuqWWxGSQErD6fDPfLfekuOuUdQgekrsKco+8rOFVAzlkSn34af7e6QBMLsrjsuBgmiPJBpHJJNdSee0TVc33msL15BlxEcpUs8QQN7miJptWm8KnfO9EfvXtZzVPzpcNkj5HPM/AbOLd6ZxUgmjhCyp83SeXCY/jIwNsEIU0UZ/UnhO306ewg2GeqKgp8LK7culAS41JtbgAbA6rcJCwMkZWGTq43RG0MLht6eoYqH2aPrrVgyXZqv6v6rMKc8rhq6LesbsgednH83JRGC+ODmc7QhIKlPzB95zX6Vey2AAGT77CpfqgU5qMa9UZEnvAm3tjUiUbuF78VAqkv5B8pRozFwpqKAjaxAcwV9vXFNgvvtgbWqraYhxObpl4EEDmvcza0iBi0GBrA3193rkOfO7uU6mPm2it1DHcCAwd7c2Y8M6W9RRkkRDGwzYa1HLw3tnwBWSzLAdutCEApxA==;ftbx/ZXHI5ncI6q+o1QoRQ=="
+secured: "Ytnfv24spRYRJgKRXe6fA7uAIfWGHK8eZfokqbAALLvr452Twtl7NN46UdzZIwS5hmP17iXkCFZYDiGqLGmcXObu4fTrgEMaJTK5v54KESeMRdnSjTjCbDSZK4UUsCQlJ93kCNaQMi5GX3WAcgoyYOBlC9JZS1Eodql6Q6WE017YUqN9mNjReYR7qgGo3LnNTlLjVp3Ed4mX2FoZtM03p5KJrkPWRHJks2gL/mt3711Z84jX49JkNhqh1rWlDi1ACRuA3nJHhtKBi+zKCVBIGxE+TjLqJ6qAubv5qwJVfDRBTAb9ouPB1itammCo9nlzcV8zhTrC0b4HG5CfZF9cDPg4rzggxASvaAeTiNVtbDg=;6lNeWOGUGf/X17KYyZZA7g=="
 ---
 
