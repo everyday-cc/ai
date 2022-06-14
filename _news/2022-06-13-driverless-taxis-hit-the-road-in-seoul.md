@@ -41,22 +41,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Hyundai's self-driving taxis roll out on the streets of South Korea"
-    excerpt: "Automaker Hyundai and South Korean officials launched a trial service of self-driving taxis in Gangnam on Thursday, the latest step forward in the country's efforts to make autonomous vehicles an everyday reality."
-    publishedDateTime: 2022-06-09T15:19:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/7541654783750/2022/1/16547854489287/v1.5/Hyundais-self-driving-taxis-roll-out-on-the-streets-of-South-Korea.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Hyundai Starts Driverless Car-Hailing Service in South Korea"
     excerpt: "Hyundai is ready to pilot a RoboRide driverless car-hailing service in the posh district of Gangnam. Using the Ioniq 5 battery electric vehicle, these Level 4-equipped autonomous driving vehicles will operate in one of the most congested areas of South Korea’s capital city."
     publishedDateTime: 2022-06-09T23:19:00Z
@@ -72,6 +56,6 @@ related:
         height: 576
         isCached: true
 
-secured: "u4ZIhLBeEA717gtNuXr80B8aSels+dRCh9sVrIk6CgczoPhwNl0UyPwms7GIVwI5sK9UzWaQvUMt1h9SdrtuNZWhv5wPMW0HGGVXXFna+cms2YZziquOuH8p54yWeYCjL5cqb8PZzH8ZKLgnfP5GsMlhPNCo+tIkTVe9HnEkpr+jgfiPqKG7r4BkCFH6fbXrEZ9U04VI6dxLk5YvokxeE4JDJfSiOMDUle8wyne4Dmcj9Bg+ZJmb2qer9Va568iJM7j3mtexxXv7PWah9aJx4B4cyNHnhpdfp+VuSENar+GCB9PDHT2+ZoEE3eGcuFZXy0b9lEfRlkU27zCnZlj8EY06XhBVGhiJxZJw8ME313M=;o+OdBrCQld8G2W+iT2SpEA=="
+secured: "sJjAuejDgVBHufoCHQjYQtKu4qEmvVwmBEW362k72VN5AoQbYOUKdzNtdX4tqdd+VcbyovWa4+kIkC3ZJQuVQyCkPiMVH3SHl91XWRTr32Fr3pHDi7MlNL+AajJkjWlBFRcomqDnpkw7N0ErhwsVBrb5Tdhn0CJZAF4yOmFudEk6iWKy8lpq4Zf/nVmsd0+1lOqlodrh1NhkI3ct0S00DFOi0D3p0Rw9sAC3h7NkYOgttdCTh6jUDKP0M6YKffNnUgUYzvDI9LTbF2GyxHx3C86xTU+s/CCJKADUcKXabT0tAtabAJIjvxs1fTJWIS5G/i00U5BlbZfKJ+QGJMiBIhgqvEFx9WwVrMAogt4wQBq+FatYzQK5M/LrJZK+YOl8+sO6T3hLw4mCzYCgL/U/MUS8976sbNEyWptVfnU+H+ewv2oKzcUyeomLxcc+qFQuziFNBq3nwdShVS36OqH2p9fTQwb2ihoddGqtiKz7u5ijykNRIoKAt5P7gGmwdqfTNb/JULZzo4qzlYTXhlpveQ==;OSOqE0O3XZnymAqqOTO/Ig=="
 ---
 

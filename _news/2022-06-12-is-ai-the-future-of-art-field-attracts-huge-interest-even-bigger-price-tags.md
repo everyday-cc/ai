@@ -18,66 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "How AI is shaping the future of work"
-    excerpt: "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise."
-    publishedDateTime: 2022-06-09T15:20:00Z
-    webUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/"
-    ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
-  - title: "Artificial intelligence is shaping the Future of Healthcare Industry"
-    excerpt: "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges."
-    publishedDateTime: 2022-06-11T17:20:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 74
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg"
-        width: 800
-        height: 350
-        isCached: true
-  - title: "The future of AI is a software story, says Graphcore's CEO"
-    excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
-    publishedDateTime: 2022-06-10T13:42:00Z
-    webUrl: "https://www.zdnet.com/article/the-future-of-ai-is-a-software-story-says-graphcores-ceo/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google lost the battle for machine learning to Meta, insiders say. Now it's betting the future of its own products on a new internal AI project."
-    excerpt: "Google is pushing a new project to replace TensorFlow. But it will be a major challenge to unseat Meta's PyTorch, which has won over developers."
-    publishedDateTime: 2022-06-13T12:30:00Z
-    webUrl: "https://www.businessinsider.com/facebook-pytorch-beat-google-tensorflow-jax-meta-ai-2022-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/62a3a279a464ed00195811a6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Creating art with the help of artificial intelligence: Is AI the future of art?"
     excerpt: "Some insist that the artist is still central to the process, even if their working methods are not traditional."
     publishedDateTime: 2022-06-12T05:03:00Z
@@ -91,48 +31,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--2nXvnHIZ--/c_crop,h_432,w_768,x_0,y_80/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/0fe2d7b1992acca66126cef21fbd2034480acfa7.jpg?itok=XBuTllro"
         width: 1200
         height: 676
-        isCached: true
-  - title: "3 key trends that show AI and data are changing the face of medicine"
-    excerpt: "Data and artificial intelligence are transforming the healthcare industry in many ways. The recent Stat Health Tech Summit, organised by the health publication Stat and held in San Francisco, California,"
-    publishedDateTime: 2022-06-10T02:20:00Z
-    webUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/20220610_data_pixabay.jpg?itok=x3RtfF91"
-        width: 800
-        height: 567
-        isCached: true
-  - title: "How HR can mitigate the risks and reap the rewards of AI at work"
-    excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
-    publishedDateTime: 2022-06-10T08:31:00Z
-    webUrl: "https://www.personneltoday.com/hr/hr-artificial-intelligence-human-resources-ai-risks-recruitment-redundancy/"
-    type: article
-    provider:
-      name: Personnel Today
-      domain: personneltoday.com
-    quality: 37
-    images:
-      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2022/06/shutterstock_519499720.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Prof Mike Sharples: will AI do all our writing in the future?"
-    excerpt: "Computers might be close to being able to write better than humans, but not without dropping some real clangers. Recently developed AI technology uses 'deep learning' - machine learning featuring artificial neural networks - to produce text."
-    publishedDateTime: 2022-06-10T23:28:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018845476/prof-mike-sharples-will-ai-do-all-our-writing-in-the-future"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 37
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--qYKg59o2--/c_scale,f_auto,q_auto,w_1050/4LW5H1P_image_crop_138544"
-        width: 1050
-        height: 559
         isCached: true
   - title: "The big question: is AI the future of art?"
     excerpt: "In the 'generative art' movement, artists create rules for computers which then use algorithms to generate new forms, ideas and patterns"
@@ -148,15 +46,24 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "How Artificial Intelligence is Affecting First-Time Home Buyers"
-    excerpt: "New software technologies like artificial intelligence are getting smarter every day. Here’s how AI has the potential to affect first time home buyers."
-    publishedDateTime: 2022-06-13T13:07:00Z
-    webUrl: "https://realtybiznews.com/how-artificial-intelligence-is-affecting-first-time-home-buyers/98771996/"
+  - title: "Given the right description, this AI can create wild works of art"
+    excerpt: "But a small and growing number of people – myself included – have been given access to experiment with it. As a researcher studying the nexus of technology and art, I was keen to see how well the program worked."
+    publishedDateTime: 2022-06-12T13:46:00Z
+    webUrl: "https://knowtechie.com/given-the-right-description-this-ai-can-create-wild-works-of-art/"
     type: article
     provider:
-      name: Realty Biz News
-      domain: realtybiznews.com
-    quality: 21
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 19
+  - title: "Give this AI a few words of description and it produces a stunning image – but is it art?"
+    excerpt: "The text-to-art program DALL-E 2 generates images from brief descriptions. But what does it mean to make art when an algorithm automates so much of the creative process itself?"
+    publishedDateTime: 2022-06-10T12:31:00Z
+    webUrl: "https://theconversation.com/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art-184363"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 8
 
 secured: "ZcMNFaJvaabNx9kW+gkwKkxBLk1F2ktArtGMGE2o+fAR6aLuvG2SZA6905Wr6vH76PGnL1oqN0VWG66mNk0jTDKTfFOogh4ItYGkcHH5Ldp99Owu2FrJbmH2M5w97FneTZFsxEfUuxRTMMmL1UfSv25VBu5bq1XoMls//O7C8/4mgLcZrud9PTVRPEqjLhId954fC9gdByEqkXKrzHTGCg1uz+1+XHhPiZ64qiEKU2F61SBO9Mhq2WpHiA7dPj8nGJFD8hTh4LUiA9Hni2hGd6p4Qpp3p7cJ/bGl4vMYw8i43B2IL4aOMumtteGfdddn4wMi9gKjlXE87AgJfd3DW3M5/2ub/T4HhhHhR0q+xgOGhTsyYN7mE0TuK8t3j51bGmFTOAfpvlDLmAbtf0gR33apIZTrFvOhEBbdpTEz33dohJ43Qi9T8FsXyTHbjlVAAejgf68OuFjvOLYRYI8b6vIB5fl4SrHgjFyVfiwDaceWCwJDmQWIiGSbJhG9QnITncPWQ/NvaRRIP0l9rk0zaw==;CmGS1Cqo0zVreKNje0JBZA=="
 ---

@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Akamai Awards $1M In Products And Services To Future Of Life Online Challenge Winner Bloomfield Robotics'"
-excerpt: "Plant sciences artificial intelligence startup sets sights on solving global food production challenges by scaling agtech platform with Akamai ed"
-publishedDateTime: 2022-06-13T11:17:00Z
-originalUrl: "https://menafn.com/1104365318/Akamai-Awards-1M-In-Products-And-Services-To-Future-Of-Life-Online-Challenge-Winner-Bloomfield-Robotics"
-webUrl: "https://menafn.com/1104365318/Akamai-Awards-1M-In-Products-And-Services-To-Future-Of-Life-Online-Challenge-Winner-Bloomfield-Robotics"
+title: "Akamai Awards $1M in Products and Services to Future of Life Online Challenge Winner Bloomfield Robotics"
+excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the cloud company that powers and protects life online, today announced that Bloomfield Robotics is the winner of its Future of Life Online Challenge, clinching an award of USD $1 million in Akamai products and services."
+publishedDateTime: 2022-06-13T11:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9620049.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9620049.htm"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-06/13/PN_51e5feaa-8_Image_In_Body.jpg"
+  - url: "https://mma.prnewswire.com/media/1836533/Akamai_Technologies_Bloomfield_Robotics_camera_system.jpg"
     width: 400
     height: 300
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "i3myz1Sah0OE2tnb69rfTZJCeO9XjtPybe7twGz+/Aahpv1KJjmnuLggPiSkT21mACQyJ6f8FcBVq6HNsKXlcV7i2xcAfpmfklImW2jdHZnRehOPUAvp4KEv5bItoWoEJ1tMamhSp1ze4yWB/J0+W5r0+9VZzym665UW9TNi9k8DPMaIIvtIUibAx+1GBG5vIB2mBPgT2DUXbQD6/+Yttuu/x+aO+fjtgwjdvPDx+Ta9WyvoWKsZxH3eYv0lWdJId3QX3BZUJ2eMYHiKBqMQD4yMJOGR7vZ8duMILeITtH6A1YdZ/r2rn3KWY8kHFICuD5GPmidJ8J4ICF/QySZh5DC6inmefiQEzG4fKR8vREqRuB3zVvv8WhKYqWU8DQlTU2ksbie6Ul6tWf4FzsQP1jNWpLTbh0aaZjJRozZt2yX5i69FeLVDFBuiqMLT97s5s99HW1bUrnRQvsMmLOWKzeJ0tt8tJ/7VoNzaisYTxS34NQ4WzBFqfHM4B5d6U/s5GUBI0w3TYVgYtWcyP+QH4Q==;S2ZJmpOBtrHlmauHPZj3Sw=="
+secured: "Z2IKzOvFCNOTUrjYoRYLSDbKiVlHVXUlrHA0es4OcMBle8L04FMuiGhyVqw2kn/vGViwOZD1bUdSk+uAoSO3+lRSU1SptWmVHXKcVDtBPnD0WiDJvWpYWkSngOfBvYqY7rYvJSjscnI3cTGBYkQWrN1oAoG00xCQDLNYOuywKGAVzQYm0m8871YIYqUM6v63EUMnDVBcejrbYhw+JpdxZ9/RYciGpFzC0sbKK6W4FxUZ+KUKYOjaWaPyc/Ko7pq9mkGmcEtMEMc19Ov9IN9vBOBbELyoIDVqagVtNqPnnkLsCOzd7T7rGX5v5qDr+wRz12ZBvJFPELWKfTXTKc28VP9m39rSwfaraRjsxr+Ei6o=;hhwVSQ6Da9hpBzsCY4OsEg=="
 ---
 

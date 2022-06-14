@@ -48,20 +48,6 @@ related:
         width: 1000
         height: 597
         isCached: true
-  - title: "Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security"
-    excerpt: "Lacework's Mark Nunnikhoven joins Dark Reading's Terry Sweeney at Dark Reading News Desk during RSA Conference to talk about AI and cloud security."
-    publishedDateTime: 2022-06-09T16:30:00Z
-    webUrl: "https://www.darkreading.com/cloud/lacework-blends-artificial-intelligence-and-automation-to-bolster-cloud-security"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 49
-    images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
-        isCached: true
 
 secured: "h5weL8u2lPvC7BrukZHAm/iTM6rruH+yXQ7ZIPlRhkUI5tM3O5io3nFQgGQceZid3uYbVpcwoBTVjLPDMmiE4E+6gSqLjIT5po3BVZI2SGEuDHL4w1A+7lFqVyWtRe0t/MXYaF/iTEWt7PQzOMWG+IbkpIgpHID8E+Rs8QXnENYiuFTaF3aZyT0x4NBKanBne0gEwB40JqrOAnq6gsBXj4Np7U0b8O1qsVorTZQB4yO2pQ+d+qqcNLz8CBe1030oKnTAlKBcYh/DBsWqdcSFZ6Y9AJbdcnBiDEZ3ivuOdX9N9sXxgk9C9+GPFutp+8tq+Me5aTfiYDAfuRRwQFQx4zOUx/ahpIPdZY+BCUamqAvH5PYsRk07LIaNgjeF152XANr0qdxLnNPu9l1Wr3skP6ixvGYdV1rEx+DN16GcXtMbsptCf/9Q6fnDJWz4lCVRA0GksTtpJGQqboTGsFTWyXgbhS5IHreioG774y1z10LpTMg9Jkb5lkxOysbjyGUZH0cbUWaZ8Xcvz1NSG12nMQ==;HdRNZVvhEk8bPaw7r2Qd6A=="
 ---

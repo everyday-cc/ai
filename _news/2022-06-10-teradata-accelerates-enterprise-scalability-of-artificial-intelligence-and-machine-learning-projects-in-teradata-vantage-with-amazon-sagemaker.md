@@ -54,20 +54,6 @@ related:
         width: 1245
         height: 624
         isCached: true
-  - title: "Unified data preparation and model training with Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
-    excerpt: "Data fuels machine learning (ML); the quality of data has a direct impact on the quality of ML models. Therefore, improving data quality and employing the right feature engineering techniques are critical to creating accurate ML models. ML practitioners often tediously iterate on feature engineering,"
-    publishedDateTime: 2022-06-09T15:03:57Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unified-data-preparation-and-model-training-with-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/Featured-images-for-ML09633.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "sgkkYyfX67Uly/ZgwwkxX5gFJYWE2mQZXdclSQlRm4ZCNdiygkLymXVL0BWiS9LJN3vAV7cmpuy/Jnae0JL5d6vgp6OuukbMoCAL3A+0YO5JrmFVkB2JKMugG9IOSrUmrgEFS36F2OMM9YUBJU17do7P3T2Si3Xx5rSZ2V2j/iwfdH8AArBvzNsAGDOUfbqXLVuEy/2WEBB+q2HmpcpEb5QqwCL11sU0ahEKsaWSOGsJd0WvpiKTRiRPYQJh2wgZSaCEorxlqojoSYFeOQq5Dw7QiMVly9VTpAptsc78wIksmZUrX0ThnGhBCu+PmiJHPfP2vNvW9UdCLkTXV+Y0KtE4p9P8U8VDcfsb9cDN01Y=;o/SrG5vZYmoIvWqDfReE+Q=="
 ---

@@ -1,62 +1,28 @@
 ---
 category: news
-title: "Baidu's electric vehicle firm Jidu unveils first 'robot' car"
-excerpt: "Besides equipping the vehicle with autonomous driving software technology powered by Baidu, Jidu will also build two lidars and 12 cameras alongside the car. Lidars are detection systems ..."
-publishedDateTime: 2022-06-09T03:09:00Z
-originalUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
-webUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
+title: "Baidu’s electric vehicle firm Jidu unveils first ‘robot’ car"
+excerpt: "Baidu’s electric vehicle (EV) arm Jidu Auto on Wednesday launched a “robot” concept car, the first vehicle to be revealed by a Chinese internet company. The concept car, which is free of door handles and can be fully controlled via voice recognition,"
+publishedDateTime: 2022-06-09T06:59:00Z
+originalUrl: "https://www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/"
+webUrl: "https://www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/"
+ampWebUrl: "https://www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/amp/"
+cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/amp/"
 type: article
-quality: 56
-heat: -1
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Ariana News
+  domain: ariananews.af
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/200609_robot%20car.png?h=9a34780c&itok=6MDqmIDk"
-    width: 600
-    height: 316
+  - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2022/06/robo-car-1000x600.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
-related:
-  - title: "Baidu’s first car will target Tesla Model Y: executive"
-    excerpt: "Baidu’s electric vehicle (EV) subsidiary Jidu Auto unveiled its first concept car on Wednesday, with representatives promising the model will be 90%"
-    publishedDateTime: 2022-06-09T06:12:00Z
-    webUrl: "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/"
-    ampWebUrl: "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "L2 and L2+ Autonomous Driving Market May See a Big Move | Tesla, Baidu, Cadillac"
-    excerpt: "Advance Market Analytics published a new research publication on “L2 and L2+ Autonomous Driving Market Insights, to 2027″ with 232 pages and enriched with self-explained Tables and charts in ..."
-    publishedDateTime: 2022-06-10T10:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/l2-and-l2-autonomous-driving-market-may-see-a-big-move-tesla-baidu-cadillac"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 49
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/051a518886e702eb4a9eea9982a177f13dd2078e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
-secured: "fC0xHs8GPHjjBq0Ug3R/IOA5R1QRn60syQaD/Ig4MRst6HlnsWIw+xwljp/FC8h0xnHjwAbrdjBZqA4XMhnWPEJfZCIZI+z9/gAEfNP+jNcpxGZz4VMSIVk0iaS5iiF67a1fdQQ3zQskLZgWvkD/9uPwBr8cRZOHr7u+ZbD3TWrAPaRSGO02qotk47eXPvMEdBuuSV4xr5BzWZbSmvU4u5yNFWQnQfOd8oo/c4BkhB7tdlXKYiiF85NmeN9L+RmYB9I7rKIWKaWX1954IZEyAnOoR0bqwDo1t+iTyE47WZ5OSQIX4gYPOS/Z91SW/GWtATVDwi2/51oDCXYTKmocAa/IxyYcwGS4NV17BECvqRo=;4GUR3TZFgQyab0JGZavBDw=="
+secured: "KGgpPSo8bbHgOxvvkZkQVF4v8OMObS4+VfAbCs6qcc/YZ2ClY/3TrLaYNZdbexyLlcViDgqoRaKlaUK+nzO3LLR//FNl4PVDwUOuYWcN8YpvRMZfR1wCnil+eRbgEcfSUw9krCdYBsQxREJK+n1j93U/MqeA3kIAjp3qvR3oKz1CovvuTBakVOn0BroO/iVxvLKLYsyPqeyCrggpiGpYDx8z1iFLdJJvPjDwpBL93n+z5y6hI+2aGoRnluSddl3ca7SeO5YPYx7nWpFFQFuygJF+EbPjQzhsAroBvgTXnx7Rmueo4nIzLYxiqqaXYAUIHNsH53E9+pEuqGCy2QZBIaUIHet2nELBDyQJzbAry8w=;csiSzQ69QI1YnqUReXwGyA=="
 ---
 

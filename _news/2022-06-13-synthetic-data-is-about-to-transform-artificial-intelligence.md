@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-abou
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
 type: article
-quality: 95
-heat: 105
+quality: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,7 @@ topics:
   - AI in Autos
   - Natural Language Processing
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200"

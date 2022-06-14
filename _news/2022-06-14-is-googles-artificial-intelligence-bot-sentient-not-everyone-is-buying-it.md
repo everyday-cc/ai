@@ -320,6 +320,22 @@ related:
         width: 450
         height: 232
         isCached: true
+  - title: "Google engineer thinks company’s AI ‘LaMDA’ has become sentient: Here’s all you need to know"
+    excerpt: "Social media had been abuzz with debate over the sentience of Google’s artificial intelligence LaMDA or Language Models for Dialog Applications after Google engineer Blake Lemoine claimed the AI has become sentient."
+    publishedDateTime: 2022-06-14T09:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 48
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/sdfc36/article65384473.ece/alternates/LANDSCAPE_615/IMG_bl19_AI_pic_pg1_2_1_K793GH2G.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
     excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
     publishedDateTime: 2022-06-14T05:54:00Z
@@ -422,19 +438,19 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "Google suspends engineer who claimed AI bot had become sentient"
-    excerpt: "Mr Blake Lemoine, a software engineer on Google's artificial intelligence (AI) development team, has gone public with claims of encountering \"sentient\" AI on the company's servers after he was suspended for sharing confidential information about the project with third parties."
-    publishedDateTime: 2022-06-14T06:13:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/google-suspends-engineer-who-claimed-ai-bot-had-become-sentient"
+  - title: "Google Suspends Engineer Who Claimed AI Bot Had Become Sentient"
+    excerpt: "Bloomberg  Blake Lemoine, a software engineer on Google's artificial intelligence development team, has gone public with claims of encounterin"
+    publishedDateTime: 2022-06-14T09:26:00Z
+    webUrl: "https://menafn.com/1104371335/Google-Suspends-Engineer-Who-Claimed-AI-Bot-Had-BecomeSentient"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/14/AK_ggl_140622.jpg?VersionId=Dbte3yh9RE1gfWJ5BgvzxBcpCF4iYcu6"
-        width: 860
-        height: 573
+      - url: "https://menafn.com/updates/pr/2022-06/14/TP_8ceebimage_story.jpg"
+        width: 1000
+        height: 647
         isCached: true
   - title: "Google suspends engineer who claimed its AI system is sentient"
     excerpt: "Google suspended an engineer who contended that an artificial-intelligence chatbot the company developed had become sentient, telling him that he had violated the companys confidentiality policy after it dismissed his claims."
@@ -488,6 +504,22 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/138021770/image_138021770.jpg?io=getty-c-w750"
         width: 750
         height: 498
+        isCached: true
+  - title: "Matrix Origins? Google engineer's claims of a sentient AI LaMDA, What is it and implications of the technology"
+    excerpt: "A Google engineer’s claim about sentient Artificial Intelligence has opened up debate – not about an imaginary and distant future where machines take over mankind but the moral “trolley problem” that advanced AI systems could present operators with."
+    publishedDateTime: 2022-06-14T09:34:00Z
+    webUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743"
+    ampWebUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 37
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92202743,imgsize-100,width-1280,height-720,resizemode-75/92202743.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
@@ -627,6 +659,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "lIAFbes6qGyiDsVvXOiGDqUkTLZZhIQ6NQOWIjMKLE4ZBrE7yV5VAFaLoCnfCWxlI9wevZRK9XjeNdeLnw2U+A5q89PYWTdEpN7DzvqFU11CQ3vwYvtl4J5O1Us62Qnk+Eo3Q0SB7MOc83qBzBqYRjlDdxP0dRm0yyslxhiUFa7XWMTM7T0BpyAJm5Y12IMhxgtM4iyxl8kemwlbR2UmgNQkTzaVoVQS/meGTLeUP2WczxGI/8LDqcspVyyMb7XWaDIHYAIveSeT93mIcHmTEgbBnV+2KWF0TJPSTIlQ2FWS4Kgz4R2yw7JYxlORSk2UyP1qUXk2AlHEgrRB7bsLRU8jechBLEqn1QgpI7NKdHA=;lVSrtyP4bHi6oDL/5H6sYw=="
+secured: "YuxWduKIsC/h+7FZd2Cw3tbbAHu2VefAES1x6SULAF4Rw7SbpBDcZyrGsjS1+FnZD6j+h3Ge8FbJXZngobZmgA4Khh2BBD7QYQBQ5T+yMhqxBRw6miNS5h9XTCugATCD+G2MXE4NGH3vmihgB7V/2hUr6hSBc+yyFSSasAr7PNw1ARprM2xmhVGXINnvsNEzcAEfBQRLyDo/FilIIf2rR4jT4JUjZ28pqQalUh7cDFNX1cw2y+ekXUHVeZfKLtQzAezcd92TA3VeXyiPJyp3UyEIT6WRYkQlIX3PTlnt/yMhJn7aP+2gyX4LprlU30RWHB+N3v6d2gxdeKd2u+d5XhjNh3CjCdsrVJFteO1SiFGoB/vYKnXVHu4YIRE30k5a/LnJtSFoEOpPJxD8u/0RcdYnTpdka6Qxu4iKBZLY8Q5HCJP8AWmP3DP6oPS2442c1vjizFao1uaiQkczUjMKuRGm2+w4IISm7TPxXwyKQlmpsqGSiq8MyPjBch7r5bVZPeHcvzGmqPUSQ3Jb1WxQ1Q==;cA8JapQBvwaBjVISqcqJ+g=="
 ---
 

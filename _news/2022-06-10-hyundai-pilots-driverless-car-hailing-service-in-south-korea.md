@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverle
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai's self-driving taxis roll out on the streets of South Korea"
-    excerpt: "Automaker Hyundai and South Korean officials launched a trial service of self-driving taxis in Gangnam on Thursday, the latest step forward in the country's efforts to make autonomous vehicles an everyday reality."
-    publishedDateTime: 2022-06-09T15:19:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/7541654783750/2022/1/16547854489287/v1.5/Hyundais-self-driving-taxis-roll-out-on-the-streets-of-South-Korea.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Hyundai Starts Driverless Car-Hailing Service in South Korea"
     excerpt: "Hyundai is ready to pilot a RoboRide driverless car-hailing service in the posh district of Gangnam. Using the Ioniq 5 battery electric vehicle, these Level 4-equipped autonomous driving vehicles will operate in one of the most congested areas of South Korea’s capital city."
     publishedDateTime: 2022-06-09T23:19:00Z

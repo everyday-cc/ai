@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Google suspends engineer who claimed AI bot had become sentient"
-excerpt: "Mr Blake Lemoine, a software engineer on Google's artificial intelligence (AI) development team, has gone public with claims of encountering \"sentient\" AI on the company's servers after he was suspended for sharing confidential information about the project with third parties."
-publishedDateTime: 2022-06-14T06:13:00Z
-originalUrl: "https://www.straitstimes.com/world/united-states/google-suspends-engineer-who-claimed-ai-bot-had-become-sentient"
-webUrl: "https://www.straitstimes.com/world/united-states/google-suspends-engineer-who-claimed-ai-bot-had-become-sentient"
+title: "Google Suspends Engineer Who Claimed AI Bot Had Become Sentient"
+excerpt: "Bloomberg  Blake Lemoine, a software engineer on Google's artificial intelligence development team, has gone public with claims of encounterin"
+publishedDateTime: 2022-06-14T09:26:00Z
+originalUrl: "https://menafn.com/1104371335/Google-Suspends-Engineer-Who-Claimed-AI-Bot-Had-BecomeSentient"
+webUrl: "https://menafn.com/1104371335/Google-Suspends-Engineer-Who-Claimed-AI-Bot-Had-BecomeSentient"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/14/AK_ggl_140622.jpg?VersionId=Dbte3yh9RE1gfWJ5BgvzxBcpCF4iYcu6"
-    width: 860
-    height: 573
+  - url: "https://menafn.com/updates/pr/2022-06/14/TP_8ceebimage_story.jpg"
+    width: 1000
+    height: 647
     isCached: true
 
 related:
@@ -320,6 +320,22 @@ related:
         width: 450
         height: 232
         isCached: true
+  - title: "Google engineer thinks company’s AI ‘LaMDA’ has become sentient: Here’s all you need to know"
+    excerpt: "Social media had been abuzz with debate over the sentience of Google’s artificial intelligence LaMDA or Language Models for Dialog Applications after Google engineer Blake Lemoine claimed the AI has become sentient."
+    publishedDateTime: 2022-06-14T09:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 48
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/sdfc36/article65384473.ece/alternates/LANDSCAPE_615/IMG_bl19_AI_pic_pg1_2_1_K793GH2G.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
     excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
     publishedDateTime: 2022-06-14T05:54:00Z
@@ -489,6 +505,22 @@ related:
         width: 1200
         height: 770
         isCached: true
+  - title: "Matrix Origins? Google engineer's claims of a sentient AI LaMDA, What is it and implications of the technology"
+    excerpt: "A Google engineer’s claim about sentient Artificial Intelligence has opened up debate – not about an imaginary and distant future where machines take over mankind but the moral “trolley problem” that advanced AI systems could present operators with."
+    publishedDateTime: 2022-06-14T09:34:00Z
+    webUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743"
+    ampWebUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 37
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92202743,imgsize-100,width-1280,height-720,resizemode-75/92202743.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
     publishedDateTime: 2022-06-12T23:19:00Z
@@ -627,6 +659,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "/taOjSWyRaD28QXX6xmGictx8ICqgEYUauJ/1SsB/WCcqrx69c6zPZWjZ5zmD1eVn7xv41bRiSiBO3/RP4Mhirs8MKDwj9khQMXtFQbJmgOO8ejgIb9saoOMhSMA7ugJQyab6ajLx2VEkC2RcgojeHX5b/Ir6grwZeVHikPsc3Sjh3TYQeQJIKCS/766scOMcLVdkd+tGpu2oawTOOsiu9K6S/PseWJNl7TRXZFmrf9VV0YhG/Rn0/RW+avDZVteZ7l4+5bI26BrcY1sCqP3zqwv2xGQs1P3syo3iLPYU9BxhCok4UsrXLsDY+kDovl627261iAHO2Pk2w1zShowH+dreRhOVPCRqCJApk40Yqk=;nPY2KCkxkjylVjofE30rEw=="
+secured: "xX8Wfgu+nz5L6qKRVLu5M+vGK8h9qDv6XPGYdhaP+eDVJ3bctZgBYpifH12Yz2uGgISbcwxkIrzzY7IYG7199FU5fsDRH3pwQiOUVwWJkVWtb81aszWK6X+Ow3SdQxEnclu9jIj9hvXGHSSvH5Xkowem/K4+2qXpg7BcvYQcZTcw+QVcTYuCwWEdXR+0+BqFX0jJWg87N2Mwk5BciJ56AZTI2hxHGVEAAvsqeTss2OKXkiKXhrubZZjO506UKQy45gQxwHn66nUIhstbBwg4qlF+syBL9TyrNdZQOLGRFY2qnL3di3iC95XJpyuL7vTU2YQfhC0cbBxgdzaYI7Ah+6XW/XVj3J3dvQ7GIaKrcuE=;OyzCrMKkb+Ld+6kyXVkHEw=="
 ---
 

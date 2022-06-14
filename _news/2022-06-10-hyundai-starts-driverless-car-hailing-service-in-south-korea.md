@@ -41,22 +41,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Hyundai's self-driving taxis roll out on the streets of South Korea"
-    excerpt: "Automaker Hyundai and South Korean officials launched a trial service of self-driving taxis in Gangnam on Thursday, the latest step forward in the country's efforts to make autonomous vehicles an everyday reality."
-    publishedDateTime: 2022-06-09T15:19:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/06/09/hyundai-autonomous-driving-roboride-taxi/7541654783750/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/7541654783750/2022/1/16547854489287/v1.5/Hyundais-self-driving-taxis-roll-out-on-the-streets-of-South-Korea.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Driverless taxis hit the road in Seoul"
     excerpt: "The cars have wireless links to traffic lights to help make sure they follow road rules. Hyundai says the robot taxi trial will be open to public customers, but not during peak travel periods, “to minimise any possible inconveniences”."
     publishedDateTime: 2022-06-12T21:43:00Z

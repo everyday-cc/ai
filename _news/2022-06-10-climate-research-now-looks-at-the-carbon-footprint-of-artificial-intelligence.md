@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-06-climate-carbon-footprint-artific
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-climate-carbon-footprint-artificial-intelligence.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: techxplore
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How HR can mitigate the risks and reap the rewards of AI at work"
+    excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
+    publishedDateTime: 2022-06-10T08:31:00Z
+    webUrl: "https://www.personneltoday.com/hr/hr-artificial-intelligence-human-resources-ai-risks-recruitment-redundancy/"
+    type: article
+    provider:
+      name: Personnel Today
+      domain: personneltoday.com
+    quality: 37
+    images:
+      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2022/06/shutterstock_519499720.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MCC: Climate research now looks at the carbon footprint of artificial intelligence"
     excerpt: "“artificial intelligence” (AI), i.e. software based on adaptive algorithms for various purposes, from self-driving cars to automatic image recognition and translation tools to optimising logistic"
     publishedDateTime: 2022-06-10T07:38:00Z

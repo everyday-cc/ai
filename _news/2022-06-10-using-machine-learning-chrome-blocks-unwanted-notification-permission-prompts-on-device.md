@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/using-machine-learnin
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/using-machine-learning-chrome-blocks-unwanted-notification-permission-prompts-on-device/article65513522.ece/amp/"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Chrome’s on-device machine learning blocks noisy notification prompts"
-    excerpt: "Google Chrome has built-in phishing detection that scans pages to see if they match known fake or malicious sites (using more than just the URL, since scammers rotate those more quickly than it can keep up,"
-    publishedDateTime: 2022-06-09T16:12:00Z
-    webUrl: "https://www.theverge.com/2022/6/9/23161292/google-chrome-machine-learning-notification-phishing-preferences"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/8vrII42-MmhQI5d4qECJlqUBk6U=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10673529/acastro_180416_1777_chrome_0001.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google Chrome gets on-device machine learning to block annoying web notifications, will soon get adaptive toolbar"
     excerpt: "Google's machine learning advancements regularly get the spotlight in the company's keynotes. Now, it's using more of this tech in the Chrome browser to handle web"
     publishedDateTime: 2022-06-10T12:36:00Z

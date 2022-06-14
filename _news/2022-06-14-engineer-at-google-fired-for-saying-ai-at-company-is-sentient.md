@@ -321,6 +321,22 @@ related:
         width: 450
         height: 232
         isCached: true
+  - title: "Google engineer thinks company’s AI ‘LaMDA’ has become sentient: Here’s all you need to know"
+    excerpt: "Social media had been abuzz with debate over the sentience of Google’s artificial intelligence LaMDA or Language Models for Dialog Applications after Google engineer Blake Lemoine claimed the AI has become sentient."
+    publishedDateTime: 2022-06-14T09:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 48
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/sdfc36/article65384473.ece/alternates/LANDSCAPE_615/IMG_bl19_AI_pic_pg1_2_1_K793GH2G.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
     excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
     publishedDateTime: 2022-06-14T05:54:00Z
@@ -409,19 +425,19 @@ related:
         width: 740
         height: 400
         isCached: true
-  - title: "Google suspends engineer who claimed AI bot had become sentient"
-    excerpt: "Mr Blake Lemoine, a software engineer on Google's artificial intelligence (AI) development team, has gone public with claims of encountering \"sentient\" AI on the company's servers after he was suspended for sharing confidential information about the project with third parties."
-    publishedDateTime: 2022-06-14T06:13:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/google-suspends-engineer-who-claimed-ai-bot-had-become-sentient"
+  - title: "Google Suspends Engineer Who Claimed AI Bot Had Become Sentient"
+    excerpt: "Bloomberg  Blake Lemoine, a software engineer on Google's artificial intelligence development team, has gone public with claims of encounterin"
+    publishedDateTime: 2022-06-14T09:26:00Z
+    webUrl: "https://menafn.com/1104371335/Google-Suspends-Engineer-Who-Claimed-AI-Bot-Had-BecomeSentient"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/14/AK_ggl_140622.jpg?VersionId=Dbte3yh9RE1gfWJ5BgvzxBcpCF4iYcu6"
-        width: 860
-        height: 573
+      - url: "https://menafn.com/updates/pr/2022-06/14/TP_8ceebimage_story.jpg"
+        width: 1000
+        height: 647
         isCached: true
   - title: "Google suspends engineer who claimed its AI system is sentient"
     excerpt: "Google suspended an engineer who contended that an artificial-intelligence chatbot the company developed had become sentient, telling him that he had violated the companys confidentiality policy after it dismissed his claims."
@@ -489,6 +505,22 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/2018-08-08T083600Z_1231248563_RC1A7B512710_RTRMADP_3_CHINA-GOOGLE.JPG.jpg"
         width: 1200
         height: 770
+        isCached: true
+  - title: "Matrix Origins? Google engineer's claims of a sentient AI LaMDA, What is it and implications of the technology"
+    excerpt: "A Google engineer’s claim about sentient Artificial Intelligence has opened up debate – not about an imaginary and distant future where machines take over mankind but the moral “trolley problem” that advanced AI systems could present operators with."
+    publishedDateTime: 2022-06-14T09:34:00Z
+    webUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743"
+    ampWebUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 37
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92202743,imgsize-100,width-1280,height-720,resizemode-75/92202743.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"

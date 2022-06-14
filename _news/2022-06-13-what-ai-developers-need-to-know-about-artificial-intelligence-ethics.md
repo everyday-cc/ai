@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-art
 ampWebUrl: "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
 type: article
-quality: 103
-heat: 113
+quality: 105
+heat: 115
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Autos
+  - Google AI
 
 related:
   - title: "Government, We Need to Talk About AI"

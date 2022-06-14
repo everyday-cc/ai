@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-t
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true"
 type: article
 quality: 89
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google revamps Chrome browser with machine learning"
+    excerpt: "Google made significant changes to the upcoming edition of Chrome. According to the tech giant, new machine learning functionality provides users with an"
+    publishedDateTime: 2022-06-13T10:38:00Z
+    webUrl: "https://www.techzine.eu/news/applications/80698/google-revamps-chrome-browser-with-machine-learning/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/geert-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Google Plans to Improve Chrome With Machine Learning"
     excerpt: "Google detailed this week some upcoming improvements coming to its Chrome browser with the help of machine learning."
     publishedDateTime: 2022-06-10T13:52:00Z

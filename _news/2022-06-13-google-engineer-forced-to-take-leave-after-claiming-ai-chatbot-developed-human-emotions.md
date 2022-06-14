@@ -36,7 +36,7 @@ related:
     provider:
       name: FOX 7 Austin KTBC
       domain: fox7austin.com
-    quality: 49
+    quality: 51
 
 secured: "47D0rFReTR7/bbTZRGTaMMpB34pueJNDwHlifkKOKXEV4kRBSy+4gsHGu9lGBECaVDLv2RhQ9WF3LKYj+YVmjcguVBWnvBcQwcBsalTw0r5PXU9hh9e7psSDikeEPe728uYcI7CXGVpdFjZ1wRYdw0Nq6mHZli6bh9iBnQSbXPxUMtZBTIvmW+wY+M+TMHtk6DG2EjLglZbZPOkaQ2WH6Y0afpkhK1iedoaN1K9O874wDug3gN5F/Jb3u6k+9sSSL/E/tKL5WpJFozYojZE8zFgUmMChSEozqkRCbTjaEzhym/sgAUHLxmlSGJNGNE/QFzXlOAbk/xHdu5BzSLFb4VzCogj0sAEL2bimuHC+Vr0=;CeubZBz74cIIFlWCXb1PNw=="
 ---

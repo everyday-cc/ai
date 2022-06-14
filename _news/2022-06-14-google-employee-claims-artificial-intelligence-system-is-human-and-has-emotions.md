@@ -8,8 +8,8 @@ webUrl: "https://www.fox7austin.com/news/google-employee-claims-artificial-intel
 ampWebUrl: "https://www.fox7austin.com/news/google-employee-claims-artificial-intelligence-system-is-human-and-has-emotions.amp"
 cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/google-employee-claims-artificial-intelligence-system-is-human-and-has-emotions.amp"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Google engineer forced to take leave after claiming AI chatbot 'developed human emotions'"

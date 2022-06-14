@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Chrome’s on-device machine learning blocks noisy notification prompts"
-    excerpt: "Google Chrome has built-in phishing detection that scans pages to see if they match known fake or malicious sites (using more than just the URL, since scammers rotate those more quickly than it can keep up,"
-    publishedDateTime: 2022-06-09T16:12:00Z
-    webUrl: "https://www.theverge.com/2022/6/9/23161292/google-chrome-machine-learning-notification-phishing-preferences"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/8vrII42-MmhQI5d4qECJlqUBk6U=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10673529/acastro_180416_1777_chrome_0001.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Using machine learning, Chrome blocks unwanted notification permission prompts on device"
     excerpt: "Google has shared multiple ways in which it leverages machine learning to improve the browsing experience on Chrome, along with future ML-related updates. The tech major, in a blog post, shared that with the release of Chrome 102,"
     publishedDateTime: 2022-06-10T06:31:00Z

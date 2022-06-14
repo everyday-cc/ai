@@ -35,6 +35,20 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Google revamps Chrome browser with machine learning"
+    excerpt: "Google made significant changes to the upcoming edition of Chrome. According to the tech giant, new machine learning functionality provides users with an"
+    publishedDateTime: 2022-06-13T10:38:00Z
+    webUrl: "https://www.techzine.eu/news/applications/80698/google-revamps-chrome-browser-with-machine-learning/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/geert-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "XjkxyNAVSNPIa+GIWRWbx7Hn0PyD2OoeRpNMhJSMGxqnQ/BQSRjPVuBqXSWqCAOh8rUDyMOdshEPud7RiHIlWu+/lfGn9oHqSOADd6qVcs7qR6efBwGgJm+zSoXnZlI5f2IvA80C/DRVSRQ3//kzYM3claOFIrhkIapUH867MyflxDZHYwI8vNKlTfwWt+J9v1KqnJVdUZf5i4jl0tN2L3Tc1Z3vm+4HJw4F8gx9qEfc3CDiBKEqj4C7wcyfjWrD+crnxO3xT7WVioMivbCk9hzeYyWMuYAArwfEN/qwdjiomfphtmV2qskK2kDD5tLzvB8O5iBPsXStkKYXtcmpdQyaZ/KQqtEu8/nt8Ljr8FM3RuRehJmvD9CgMqf4ExwrHwiOyjMXGX4dE/v5TWZ+3Ho1enbu0cEJjNaRFiCAix1s1nrRJLtZc1+MHPnQQxAMr7BRlsvcV1JMo2vybJL8kmEATDmSRfkNRXAIwDP/n7/X5pM8N8+55kPj2kVWuJSGzQLNSdzTe9nFQC94NWKqcA==;uPJ0LK/MR6d2kz+ShgA5sA=="
 ---
