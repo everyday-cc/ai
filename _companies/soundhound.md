@@ -2,7 +2,7 @@
 name: "SoundHound"
 overview: "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI"
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://soundhound.com/
 
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
 
-secured: "AZrzUa3OUGDlRm3nJHhgDC6+i046YsFL4yWP+QX6iJB56zurAskPqokaz8bQl8H+oiBHSfwxL6CBJKFGPH5UO8BjrmYg5X5ZPxOFPSp7KjhNQUveHHEuJ80v5i6V6RKVyB8IXFT3QAFSaCFazpawjhlT7bhlYotKMgiNqQXFKnNfO0R47MZdgYlbCd1uLKVD+n1xJ2ipBPsE5T8JCBIyRH9OQGb6hFU6TIM/YOmVk6D7nmr/5M8sB74NfKzAR565CtIfP4T9jmqBL42D5vtEUKAPtq2tqSBRh/5HkWVhE9tNYFQn3s1ReIcG21nRIehnIoIDui4qM7bO1pjJ1wk07Od3zJzC5G0e5nTotUkmou4HI/RKi9S0nKwaCHFgfaOianBs3z25peZcVXOKCgbHjg==;DE45AqqF/bX72jXYJsoR6Q=="
+secured: "myb7ysBJvHrNrGbnZjCuS4eRidcnCizW3RXorte8KhemBQDmu625BK7T0BTRz9kFN0o8NhilqUPwxd3hK4XRqmLlEe/Y2D/ZoKb3uIPv2ZEv1q7L8c85sXAlPqb8RVTGNy6KWP/AdE4nNlPXv/yrrDboIuBn/OLvVPpIQdPDBH/jzxagfsTE5ZHz8tQbku6rhIQguY8upsXTde59YwjwAx7P7qfXX/HDGUs0XYKfLH5zLaS+l17fvGmwpM7cUosQgEDm+e3zTOlw6YYJwTgum3NoVRGi9LSx8zmlI8x8bsQVnLcqPbP+f1EJ9B3hPP7nUpKfmYuoxGigSXZcmMQabCJoijZv6R/foCMHPMr0Aj9NIMAwoRSjYvIbF1spr/RT6zxdYMLZaXg+5BoyQ4I7IQ==;bODzHuYnAO6bGYPfaJWziQ=="
 ---
 
