@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-06-landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor.md",
+      "title": "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor",
+      "excerpt": "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects.",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots.md",
+      "title": "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots",
+      "excerpt": "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its/article_31ae4585-fd77-5568-b426-899cf63b5a86.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its/article_31ae4585-fd77-5568-b426-899cf63b5a86.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking-deeper-analytical-insights.md",
       "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research and Unlocking Deeper Analytical Insights",
       "excerpt": "For proteomic scientists, Thermo Scientific Proteome Discoverer 3.0 software interprets data from Thermo Scientific Orbitrap mass spectrometers and applies artificial intelligence (AI), giving researchers a faster method to identify and analyze billions of ...",
@@ -698,15 +775,15 @@
       "title": "Autonomous Mayflower reaches American shores -- in Canada",
       "excerpt": "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ...",
       "sourceUrl": null,
-      "webUrl": "https://rapidcityjournal.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html",
-      "originalUrl": "https://rapidcityjournal.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html",
+      "webUrl": "https://pantagraph.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_ce59de4d-3fe1-525a-8832-60f85ed2bba4.html",
+      "originalUrl": "https://pantagraph.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_ce59de4d-3fe1-525a-8832-60f85ed2bba4.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/a/be/abe4f251-a04d-505f-8979-7974e0c2fb99/629cfda02a7b9.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/8/f2/8f217a3f-e618-50e5-a7ad-424580d1303d/629cfc1232b2d.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -718,11 +795,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T12:08:00-07:00",
+      "publishedDateTime": "2022-06-05T11:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Rapid City Journal",
-        "domain": "rapidcityjournal.com",
+        "name": "The Pantagraph",
+        "domain": "pantagraph.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1060,112 +1137,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-what-hugging-face-and-microsofts-collaboration-means-for-applied-ai.md",
-      "title": "What Hugging Face and Microsoft’s collaboration means for applied AI",
-      "excerpt": "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
-      "originalUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-complete-guide-to-understanding-facial-biometrics-should-you-be-scared.md",
-      "title": "Complete Guide to Understanding Facial Biometrics: Should You Be Scared?",
-      "excerpt": "Or are we afraid that facial recognition might be utilized for \"precrime\" identification or an alternative form of big brother government surveillance? Probably not. As a new technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426334",
-      "originalUrl": "https://www.entrepreneur.com/article/426334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1653401552-shutterstock-783409390.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/article/426334",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/article/426334",
-      "publishedDateTime": "2022-06-04T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

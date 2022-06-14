@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI and machine learning are improving weather forecasts, but they won't replace human experts"
-excerpt: "Trending local and national stories that St. Louis readers are talking about. Meteorologist Todd Dankers monitors weather patterns in Boulder, Colorado, Oct. 24, 2018. Hyoung Chang/The Denver Post via Getty Images A century ago, English mathematician Lewis ..."
-publishedDateTime: 2022-06-04T01:19:00Z
-originalUrl: "https://www.stltoday.com/weather/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
-webUrl: "https://www.stltoday.com/weather/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
+excerpt: "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people."
+publishedDateTime: 2022-06-04T01:15:00Z
+originalUrl: "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
+webUrl: "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 318
     isCached: true
 
-secured: "qxhbCaisOCybsAB7q3i0+UNpF3LrtEyM9YdSOG1Xb32SpDKo7uY9Gry/d0iX3Ix9kf7F/iRzGwbZD2clDr+pisebkFGKcpJgd+c3BNMG3D/et9k52D76+dBIbLz76aCDsUKeqcCLEoUQX9VZNlvM743b1+tav1S2YDO0gWJ47Op9/iqlh1a7oXblLsNwRQCMIbvjSJzcok1jS6vxbumBopPMgdVrU4PnQMuVXTZkWK57Euk75vMOzv0xVhLFH28oK0C74fCs9azSemcNnWnBvsuJMV0Y7d+VbG2keO+1tmxchZAEM4WGxb2uh+3qwjpH/CioprGUqsix03vG2LGA6oGljVvylSLKNLygf7cLDZI=;4rpsYUDegE7TaLIl8uhYJA=="
+secured: "GMKiVykHiWLGig3g4Gxt5LlaEJs4llKpt6P10k9MyzQlGljDGxmR/+WAD/1jZqO5/7vm3ICWwCoFu8QvKYy/cY9a25mnYIMHvvYsNHDuYsNy0fZYbeTtvEBV5jQVP5TwbnJiA90XkuOt1NI4SDKfPiJp2TmlHp4JAZUtx7Od8AFLH6tOfUB3ja17ISgFDf1nttUZyAZBe1G/uSVzvectYR3IhaC+LJTqxQLRexwVGpBlRqMbPO6D71h9dLdEgc0+3vzDQOMgr66ufZ9QpZh/NbH0nVHdBzFofIa+TOrIsZqj7JUGpT7XSxAhbNkz0QKK6/i4IcURJPXXxhP4tcuARzUBPoGFloOQs18qA2l6pRU=;9SkpjS/Ft0eBoc2oUbzPtA=="
 ---
 

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Fluent.ai and Knowles Partner to Unveil the Future of Embedded Voice Recognition in White Good Appliances at embedded world 2022"
-excerpt: "About Fluent.ai Fluent.ai Inc. is a Canadian speech recognition software company founded in 2015. Fluent.ai's mission is to voice-enable the world's devices, allowing everyone to be understood by ..."
-publishedDateTime: 2022-06-07T15:17:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56248536-fluent-ai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022-399.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56248536-fluent-ai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022-399.htm"
+excerpt: "Innovative small footprint embedded voice recognition on Knowles’ AISonic™ Audio Edge Processor revolutionizes the smart home white goods user experience while reducing BOM costs for manufacturers NUREMBERG,"
+publishedDateTime: 2022-06-07T13:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "4krC/WpzcSmStjQEXn6Hv2pK2uYTOJnf5d+hGoPvScssnG8bVZrCMT1eCFybrzeina2c5teyYV66rGhWH7WxcaJwCXEUZzZ5KOyQ+0nzzHRxXv6EVwnlcTwcDaXjMeB2OLmJZG4+gHWgNOgVR5ZquVgNfzg5m9GqW0Fi1FRNdpVlHbiR6oJVBJXeVwDjHZUVFGJGIV3hNYqQAo7CEXb06qVoDlcmSBFd06pAlrci4Fpsf+uiNMukIMZbcYoAut2qGKqRS3GxdeMfbWOtzs0N42R2RctWafVpm8m4elfpjX06T74sUFac6h8phyXqawHngISBwP7OmkiaRoQZZB/t1nvAH1MpM5TnjDmSZ9QJhw8=;wEvWxTSiYbPO/4Fed4Q8NA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "qPf0JG4LQT/9HJdwELdLerxdaez5hzJ4AFqcW0jEMvBEgcQu8RZvAzi1u1NhsN1phJYk14kZJZlXURRvrhjj1SsXFKDr4LoNK12MC0cl4/bDNJNDC4FNF1Vtri6i1FaLH1XNMnYxMpIyJxifPMzMBWtCGroz6sPHVKPwplwNrXCKdXbtk/BmYZi7JrIahE2r73YJTX4H7aVme76ecYCOY2HkGt2kYWp3cbsNzYB/sMeOvu1P+iQ8vqYz98pQeRc1gZXHi5aZN7X/8tonTeWwb2cPiiyyOcpM50FRex9cJdPhdC8Cr39AVbjPUNklMqVaCPGiPNDExjs7vONKA9KmvuoLwXknVsAsN74HHh7k4tM=;kAcXAPMmkQOB8Z8oo2X86w=="
 ---
 

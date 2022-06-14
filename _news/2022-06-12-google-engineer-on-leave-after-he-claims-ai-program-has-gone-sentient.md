@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artifici
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
 type: article
 quality: 89
-heat: 429
+heat: 449
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Suspends Engineer Who Rang Alarms About a Company AI Achieving Sentience"
+    excerpt: "Google suspended an engineer last week for revealing confidential details of a chatbot powered by artificial intelligence, a move that marks the latest disruption of the company's"
+    publishedDateTime: 2022-06-13T23:28:00Z
+    webUrl: "https://www.cnet.com/tech/google-suspends-engineer-who-rang-alarms-about-a-company-ai-achieving-sentience/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-suspends-engineer-who-rang-alarms-about-a-company-ai-achieving-sentience/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-suspends-engineer-who-rang-alarms-about-a-company-ai-achieving-sentience/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: "https://www.cnet.com/a/img/resize/b68ea3bc80c2294694902d2f0d645a2bb99399d7/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google suspends engineer who publicly claimed he interacted with a sentient AI bot"
     excerpt: "Alphabet has placed software engineer Blake Lemoine on paid leave on claims he breached confidentiality policies, after he told a newspaper that the Google AI he interacted with was a person."
     publishedDateTime: 2022-06-13T06:30:00Z
@@ -140,6 +156,22 @@ related:
       - url: "https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDIyXFxcLzA2XFxcLzEzMTYxNDU2XFxcL2dvb2dsZS5wbmdcIixcIndpZHRoXCI6NjQ3LFwiaGVpZ2h0XCI6MzQwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lXFxcL25vLWltYWdlLnBuZz9pZD0yNjRhMmRiZTM3MGYyYzY3NWZjZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI3ZjlhZjk5ZThlNDUzMjIyNTc1MzU1OTUyNWI4ZmM0MGYxOGY5OThmIn0=/google.png"
         width: 647
         height: 340
+        isCached: true
+  - title: "Google Engineer Placed On Leave Over AI Discussions"
+    excerpt: "Google AI engineer Blake Lemoine has been placed on leave by the company following a confidentiality breach and claims its LaMDA is sentient."
+    publishedDateTime: 2022-06-13T22:04:00Z
+    webUrl: "https://www.androidheadlines.com/2022/06/google-ai-engineer-blake-lemoine-on-leave-breach-confidentiality.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/06/google-ai-engineer-blake-lemoine-on-leave-breach-confidentiality.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/06/google-ai-engineer-blake-lemoine-on-leave-breach-confidentiality.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-5.jpg"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "Google Employee Suspended After Claiming Company's AI Has a Soul"
     excerpt: "The technology is something Google announced last year as breakthrough technology, using it internally as a way to better tweak and improve the company's flagship search engine. A"

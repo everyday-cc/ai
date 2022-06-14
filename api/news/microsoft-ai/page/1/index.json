@@ -528,6 +528,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-03-the-cognitive-neuroscience-of-religious-experience.md",
+      "title": "The Cognitive Neuroscience of Religious Experience",
+      "excerpt": "A recommendation email will be sent to the administrator(s) of the selected organisation(s) The Cognitive Neuroscience of Religious Experience, now updated and expanded in a new edition, updates key topics covered in the first edition including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/cognitive-neuroscience-of-religious-experience/DBF2E9E8F3B0F8BAF99412251F725167",
+      "originalUrl": "https://www.cambridge.org/core/books/cognitive-neuroscience-of-religious-experience/DBF2E9E8F3B0F8BAF99412251F725167",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97811089/77890/large_cover/9781108977890i.jpg",
+          "width": 430,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-traffic-noise-may-impair-childrens-cognitive-development-study.md",
       "title": "Traffic noise may impair children’s cognitive development: study",
       "excerpt": "“Our study supports the hypothesis that childhood is a vulnerable period during which external stimuli such as noise can affect the rapid process of cognitive development that takes place before ...",
@@ -1248,40 +1291,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-seniors-should-pick-a-financial-ally-before-cognitive-decline-hits-heres-how.md",
-      "title": "Seniors Should Pick a Financial Ally Before Cognitive Decline Hits. Here’s How.",
-      "excerpt": "Seniors often wait too long to simplify their finances, communicate financial goals, and eventually sign a power-of-attorney document that names someone to manage their money if they’re no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
-      "originalUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

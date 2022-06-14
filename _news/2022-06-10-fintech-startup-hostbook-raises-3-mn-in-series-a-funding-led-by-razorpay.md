@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/fintech-star
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Standard
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vehicle shipping fintech RunBuggy secures series A funding"
+    excerpt: "Vehicle shipping fintech RunBuggy secured a series A funding round last week, bringing its total amount raised to $19 million. The cloud-native platform, which uses artificial intelligence (AI)- and machine learning (ML)-powered technology to connect car shippers and haulers with lenders,"
+    publishedDateTime: 2022-06-13T21:34:00Z
+    webUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/"
+    ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
+    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
+    type: article
+    provider:
+      name: Auto Finance News
+      domain: autofinancenews.net
+    quality: 44
+    images:
+      - url: "https://www.autofinancenews.net/wp-content/uploads/2022/06/canstockphoto16061160-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
   - title: "Razorpay Leads Series A Funding In Fintech Startup HostBooks"
     excerpt: "Gurugram-based fintech startup HostBooks has secured $3 Mn through debt financing in its Series A funding round. The round was led by fintech unicorn Razorpay. HostBooks will use"
     publishedDateTime: 2022-06-10T12:19:00Z

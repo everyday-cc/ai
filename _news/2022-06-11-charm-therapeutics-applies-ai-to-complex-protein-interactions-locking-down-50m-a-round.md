@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/10/charm-therapeutics-applies-ai-to-c
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/10/charm-therapeutics-applies-ai-to-complex-protein-interactions-locking-down-50m-a-round/amp/"
 type: article
 quality: 78
-heat: 89
+heat: 88
 published: true
 
 provider:

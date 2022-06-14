@@ -32,6 +32,15 @@ related:
       name: QSR magazine
       domain: qsrmagazine.com
     quality: 19
+  - title: "Food delivery robots to return to campus this fall"
+    excerpt: "Food delivery robots will return to Ohio State’s campus this fall, Grubhub announced in a press release Monday. According to the release, Grubhub will partner with technology startup Cartken, which specializes in self-driving robots and delivery operations."
+    publishedDateTime: 2022-06-13T21:12:00Z
+    webUrl: "https://www.thelantern.com/2022/06/food-delivery-robots-to-return-to-campus-this-fall/"
+    type: article
+    provider:
+      name: The Lantern
+      domain: thelantern.com
+    quality: 19
 
 secured: "irxz2jdfswma1IoUysGr1W7OJlE61Slpd7qJRJ6ZxP9MsjaDrEt09ktoWH4afWyeS+eOYS1lnbWF50/0Q6ed1UP8EqWGn/3vlrt4Qjn2og/bvJaN0N6/XyGU/5EpEaqssyFDnrUsZ+XWUilUijBT7VzWx88z5iVsapOEPLVOrPdX1bW79u/Cf5eAVp3feeNsvKmzFlzf4aS+uNfMMK0gkDTis9UQZt1Z7z+2DvkeM9Bel8H9wClMTEAY1+NH7XhS3uR6ufKW6bSy7cPykgTfOmW+kTQR+h51CDwNqF6HmOxY0kgtBgyjt9hIvsV7zZQ7uJhyvMj7pxaHi56TGO0FAjOn1jdGkax4R4oBSLM4QD8=;h1u2vte1NfZNDsP4N25/Qg=="
 ---

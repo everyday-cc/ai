@@ -205,7 +205,7 @@
       "originalUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 449,
       "tags": null,
       "images": [
         {
@@ -645,24 +645,33 @@
     {
       "path": "_news/2022-06-07-fluentai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022.md",
       "title": "Fluent.ai and Knowles Partner to Unveil the Future of Embedded Voice Recognition in White Good Appliances at embedded world 2022",
-      "excerpt": "About Fluent.ai Fluent.ai Inc. is a Canadian speech recognition software company founded in 2015. Fluent.ai's mission is to voice-enable the world's devices, allowing everyone to be understood by ...",
+      "excerpt": "Innovative small footprint embedded voice recognition on Knowles’ AISonic™ Audio Edge Processor revolutionizes the smart home white goods user experience while reducing BOM costs for manufacturers NUREMBERG,",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56248536-fluent-ai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022-399.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56248536-fluent-ai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022-399.htm",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T08:17:00-07:00",
+      "publishedDateTime": "2022-06-07T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

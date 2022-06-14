@@ -39,6 +39,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The Worldwide Artificial Intelligence in Marketing Industry is Projected to Reach $23 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-06-13T11:44:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-13-the-worldwide-artificial-intelligence-in-marketing-industry-is-projected-to-reach-23-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 6
 
 secured: "+ouBglSEojzCy6NbmOi50UEgfpv9vBG52H+5u2PflIw4Nw4cXMadu98a78P0hTZJ6d7quNnAeVhix8fMgjkRrbizfWPRIVSSHAtWtrDYo0HqpIANHCxZ6W/YF6xj9Vm5MgMYZQQdgDLTKl38gWZv1I7tdEqv7BLNtucwkkLg0SNe8mXdjDLP4H5xndBtkjSlrxUM+BfRhF5hq46ew+xUokERggD5QRDiqeH1HWuBePxmF0k5s1mvtt2qCvccl3BeObXUUD5q9/vmMN2JTWGGd51qcb44Mzx9Xe2ZUEx3Yi+N9LD+dS7HboVxJ6T9wvUEo6iSdT/o0QX5uZrl1bjUAJ/nmvgHMaJ8qJEBUY0S9l1FOROIXbJUwYf9Cjd8b2FCS3Q0oT0WHSke/rVXzW5QTebD7p0ELHtBA+GIeAq6cPFB/RnY+Vbsw0W+aHobk62Gx1ljY+aFV6jwgMAZ/rOPzZ+NmABs9j7ESMs0Vxo4h/jqbeXIiVnqDhNIr4BPqCjNz4QQCwNX+t7eI0raS9xoAQ==;HLLs0Zly626ta0JDc3yrDQ=="
 ---

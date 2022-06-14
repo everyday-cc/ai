@@ -40,10 +40,26 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "LaMDA / Google Sentient AI"
+    excerpt: "LaMDA refers to an artificial intelligence created by Google that stands for “Language Model for Dialogue Applications.” On June 12, 2022, a Google engineer named Blake Lemoine claimed that LaMDA had developed a soul and sought to advocate for its rights by sharing internal research documents with the media."
+    publishedDateTime: 2022-06-13T21:44:00Z
+    webUrl: "https://knowyourmeme.com/memes/events/lamda-google-sentient-ai"
+    ampWebUrl: "https://amp.knowyourmeme.com/memes/events/lamda-google-sentient-ai"
+    cdnAmpWebUrl: "https://amp-knowyourmeme-com.cdn.ampproject.org/c/s/amp.knowyourmeme.com/memes/events/lamda-google-sentient-ai"
+    type: article
+    provider:
+      name: Know Your Meme
+      domain: knowyourmeme.com
+    quality: 61
+    images:
+      - url: "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhINPpYbNn0A%2Fhqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "How does Google’s AI chatbot work – and could it be sentient?"
     excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
     publishedDateTime: 2022-06-13T13:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?ref=upstract.com&curator=upstract.com"
+    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
     type: article
@@ -56,6 +72,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Unpacking Google’s ‘sentient’ AI controversy"
+    excerpt: "One of Google's engineers claimed that its AI chatbot was sentient. Here's what other experts in the field are saying."
+    publishedDateTime: 2022-06-13T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-ai-chatbot-sentience/"
+    ampWebUrl: "https://www.popsci.com/technology/google-ai-chatbot-sentience/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-chatbot-sentience/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/06/13/pradamas-gifarry-889Qh5HJj4I-unsplash.jpg?auto=webp"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Google suspends engineer who claimed company created “sentient” AI"
     excerpt: "Blake Lemoine, a software engineer on Google’s artificial intelligence development team, has gone public with claims of encountering “sentient” AI on the company’s servers after he was suspended for sharing confidential information about the project with third parties."
     publishedDateTime: 2022-06-13T05:45:00Z
@@ -67,6 +99,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "No, Google’s AI is not sentient"
+    excerpt: "By Rachel Metz, CNN Business Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
+    publishedDateTime: 2022-06-13T21:03:00Z
+    webUrl: "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Google engineer put on leave claims AI bot LaMDA became ‘sentient’"
     excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, told the Washington Post that he began chatting with the interface LaMDA — Language Model for Dialogue Applications — in fall 2021"
     publishedDateTime: 2022-06-12T13:43:00Z
