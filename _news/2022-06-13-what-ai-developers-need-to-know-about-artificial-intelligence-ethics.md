@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-art
 ampWebUrl: "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
 type: article
-quality: 99
-heat: 109
+quality: 101
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Government, We Need to Talk About AI"
@@ -40,6 +41,6 @@ related:
         height: 677
         isCached: true
 
-secured: "/OPuAozODNwOcgStTTGp/RpoTXkCuSw2lwND45XylvZ3pS5UZ/scyCDLXqtB98QDs7N1IIZBTfQ7PPqbRZzF73kGDViw1Wh2MCWj2SGdSLmtrTiurGYZY+KGa3Wk+w1uCfG1Kf+Lda/7aivgsS/dV6iL986CCLYZnEnkAVw4rDKWqTVZNWsaUwkbamTSxmxDr2a+trz3uS9S+eLpnZZ1l9sw0gRb1lGV36aD5pyacMPJv/6+a9Glglw3r50l53Gwzk2TY8Bs4pmSdygn6XOCWZ3otNdTwXu8c5To9bmtTr1eP5SQPd3iV9Nku5Ms3rGnzR41xSxSI662t2C6JZr9u/h6R/YvmTwY5+jXy2WBrBk=;6ppcfrb4fo/T4O/GrPOtSw=="
+secured: "yGRdOEWeWtBxJheHdhXnN9H/XMLsfs5GCjHt29anyJGdX660MYuGH79siFCNdLanEmg9TVk1AMTiCgNdcyC+FcwR5rXy421i9WqWrd2hUQ7WyagtcAhtYTpAta1hEpzJccFe+bj7d5uZzw2Yw2Ipi+AXLN28W4ZgvWqeHZPN8vMSHebI6WZBATLWLHFrjrMB/v6YhFjPWKRCHdQJHq+xGGPXDigwWGcq3rCtCJJtN9XGDn6/QLMEW5XRmcI75sgQX8wUN9WF/8XcTOdxUUTr+oFoRTfBmDjCyWha+bnK5ySyb4q2drHpO6MlTNVmJWRPh6ZKoFmTWQjZFS87CYaJoJr+kKdwzQ7EJ24py6aLUDFwAFBGNFoh4YH1ujum58Kk/MTm3L/qkw68eZTyt4BUZ1KUkLvWr+odPx57Yms61QqA3yyLGtQagzAys2rSkRmioOM6BcadDLE52c0+kYPxQRbdrUvdUu+7QJLjyVcpu2YUYUA1vSxkXEH02uGborQ75L+REcuDSz0nR4ZKDvVq3w==;eqyIaFBSX3MNfG+HwOuD1Q=="
 ---
 

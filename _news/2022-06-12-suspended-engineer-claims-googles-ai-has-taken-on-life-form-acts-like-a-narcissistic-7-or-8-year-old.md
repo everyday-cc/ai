@@ -99,7 +99,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://www.cnet.com/a/img/resize/b68ea3bc80c2294694902d2f0d645a2bb99399d7/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
@@ -150,6 +150,22 @@ related:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
         height: 256
+        isCached: true
+  - title: "Google Engineer Was Suspended After Claiming Company’s Artificial Intelligence Became Sentient"
+    excerpt: "The engineer had his sanity questioned by the tech company's management after he believed he was talking to a conscious AI."
+    publishedDateTime: 2022-06-14T01:18:00Z
+    webUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613"
+    ampWebUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 60
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt2330c0df8d91f25a/62a7cd13aaf3b92e553555ca/googleai.png"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Google suspends employee after claiming an AI had become sentient"
     excerpt: "Google has suspended an employee at the company who claims it has created an AI that has become sentient, or developed a consciousness of its own. Blake Lemoine, an engineer in Google's artificial intelligence team,"
@@ -288,6 +304,20 @@ related:
         width: 450
         height: 232
         isCached: true
+  - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
+    excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"
+    publishedDateTime: 2022-06-13T02:36:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-engineer-ai-sentient-b2099469.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: independent.co.uk
+    quality: 42
+    images:
+      - url: "https://static.independent.co.uk/2022/06/12/17/GettyImages-1149282229.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Google engineer who thinks the company’s AI has come to life"
     excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
     publishedDateTime: 2022-06-11T14:39:00Z
@@ -344,20 +374,17 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
-    excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”."
-    publishedDateTime: 2022-06-13T11:20:00Z
-    webUrl: "https://www.independent.ie/business/technology/google-software-engineer-claims-tech-giants-artificial-intelligence-tool-has-become-sentient-41747279.html"
+  - title: "Google suspends engineer who claimed its AI system is sentient"
+    excerpt: "Google suspended an engineer who contended that an artificial-intelligence chatbot the company developed had become sentient, telling him that he had violated the companys confidentiality policy after it dismissed his claims."
+    publishedDateTime: 2022-06-14T00:40:00Z
+    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
+    ampWebUrl: "https://amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
     type: article
     provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 40
-    images:
-      - url: "https://www.independent.ie/business/technology/191a6/41747278.ece/AUTOCROP/w1240h700/google.jpg"
-        width: 1240
-        height: 700
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
   - title: "Has Google really built a sentient AI?"
     excerpt: "A Google engineer has been put on leave after claiming an artificial intelligence chatbot might be sentient. Is he right? Our CTO Ben Gracewood has opinions. On Sunday, Google engineer Blake Lemoine posted the transcript of a remarkable conversation between himself and a Google AI that he claims to be sentient."
     publishedDateTime: 2022-06-13T17:04:00Z

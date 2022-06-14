@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI as a cyber security enabler"
-    excerpt: "AI makes it possible for businesses to handle significantly higher volumes of incidents than was previously possible."
-    publishedDateTime: 2022-06-09T07:58:00Z
-    webUrl: "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/vTByOfnu0MpUBJcpeD4A9yShoqR5sVw5vKs25Jpm6QrSQyoxuPOic_XyD5no2_rK_ALmHaM8AaNCn0lEr66IvxOxUvYNFzJgJhQk=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "How AI and bots strengthen endpoint security"
     excerpt: "Fast-growing ransomware, malware and endpoint-directed breach attempts are reordering the threat landscape in 2022 which is calling for rapid changes in endpoint security."
     publishedDateTime: 2022-06-13T18:46:00Z
@@ -63,6 +47,20 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0982811cc6db7deb/6217f065f3bcce42fe002a0c/AI_Kiyoshi_Takahase_Segundo_Alamy.jpg"
         width: 1000
         height: 597
+        isCached: true
+  - title: "Here’s how AI can improve the experience and security of web browsers"
+    excerpt: "Google is using machine learning to help Chrome become more helpful to the user in real time, while MIT research has found ways to counter AI-assisted cyberattacks. Google has announced a number of machine learning improvements to its Chrome web browser ..."
+    publishedDateTime: 2022-06-10T07:49:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-google-chrome-machine-learning-mit-research-cyberattacks"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_445153973.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "UKWxBYeAmhJu2HOgsI6oEhzXmN++2VfaGaMSa1fMNgUvYqUImrThN4XYSkij6G/xUqV+JJdAPg65wWv9D0RVMWDOTORfK7xSCHAlHq6OF4mjD5Dx/FlLiabjbuVsKcO6/m3OTnBRRjj0VXVqGjL26Lm44tvkcyWziJc0Nh6iexfeEvvlAyvvcuqN3PH+ZGYHpTFujc17KibKbplbcWvSfJRMA4niGg/vuNrB5ztpF09+V8sdgfQX21X7c43WiLBmSqtjBs5SGrZVzR6uUCed8fcPXa6ds3Qtp3EeXVMUicIRUo44Nuy6mQLEGY3iSk05GudeYo+jaUI5hpSd2T+R6LNx/6lKXvqlwk+giFY7H8l80byT/ECTruDNfNWhnCaLMA7WpU7TwVZN2RwI36rptO2vCfUVxr02iGZ8C4AtkfA8jbhttFnrISjp9e0o16U+lFY/SOpvxFHr45n14IyeLQYRHv1nvBWFPSDETIzj8ZbvQPSsf0o5OZ0drd8r2U7PcNEdsEbjt7w4Ux2jZ2lURQ==;11b7txk1pimbKvTNRPDn4g=="

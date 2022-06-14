@@ -253,6 +253,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-14-how-ai-and-bots-strengthen-endpoint-security.md",
+      "title": "How AI and bots strengthen endpoint security",
+      "excerpt": "Fast-growing ransomware, malware and endpoint-directed breach attempts are reordering the threat landscape in 2022 which is calling for rapid changes in endpoint security.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/13/how-ai-and-bots-strengthen-endpoint-security/",
+      "originalUrl": "https://venturebeat.com/2022/06/13/how-ai-and-bots-strengthen-endpoint-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker.md",
       "title": "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker",
       "excerpt": "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters).",
@@ -509,57 +552,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-13-google-engineer-says-lamda-ai-system-may-have-its-own-feelings.md",
-      "title": "Google engineer says Lamda AI system may have its own feelings",
-      "excerpt": "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrik's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear o",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-61784011?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.com/news/technology-61784011?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-61784011.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-61784011.amp",
-      "publishedDateTime": "2022-06-13T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-13-what-exactly-was-googles-ai-is-sentient-guy-actually-saying.md",
       "title": "What Exactly Was Google's 'AI is Sentient' Guy Actually Saying?",
       "excerpt": "A software engineer working on the tech giant’s language intelligence claimed the AI was a ‘sweet kid’ who advocated for its own rights ‘as a person.’",
@@ -665,7 +657,7 @@
       "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -696,7 +688,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

@@ -61,7 +61,7 @@ related:
   - title: "How does Google’s AI chatbot work – and could it be sentient?"
     excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
     publishedDateTime: 2022-06-13T13:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?amp;amp;amp"
+    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?ref=upstract.com&curator=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
     type: article
@@ -132,6 +132,6 @@ related:
       domain: rnz.co.nz
     quality: 17
 
-secured: "EqPQvw/hG+oWWgZrEvufS8tJZCc0eRQJZrTuHmmZ50y7BSiPFw7ok29yhBhy5+b43xiQAoA6CU/rV/UZz27OW9qjCe6q/ApjssSQ1ooEIKuGx+9oB6jN7UqTRjtBaLzqov0e81QX8TOmqx5wNri57c51K1emptgJtnBdmzKZFrDqXXMFrZ0YIC8tFfWEWh/65tYbf6RWant1ni392bcpKOrNhFknBmh+xERh+1Ch3jvDU7/F4h1wbktRlA6taB9q3THTyTyIwvndePKY6o+nCzqNPc2eeSYDTcXgigAOSj0mopcScDFE7JbaGoWFEnJwzL2GHH4QQG/LaVB7FB4wm5pCJvaTO8bRTNrQqUkib1Q=;2Xbki4jUnWXBGyeAVHcCGg=="
+secured: "UUah0VSc9QgkfWO+IqQEMO2uukoUzSaA3hQVJP2oS7eTR14zRpblnE7eBY9vDS7cRO5jwGAV7AxRFV//kQ0BE/AauTZTcO0KXIjGqrrzdvDAsNAmItztMy3DCJDjjoNJoi4/ilF5GCzkffCwMVMA/OwhATmX/mNW9j5hjWAwWDNWADeuK/lfOywem6XDBcfzipSZr9F0GGJEp0MwN6EspY1g65JzDnxFojdZjhIXo23BDOmwQcZfCR8k34jgXWTzX4WLYodWmtHPZCuo93WcG8gPPYJndZQK8pa4ITMTTEMbbRm16Bap3M59QvybyslK/P0hWW9EMNoOJdp8/CPSTeLl9KGbkV5ad/CT7+ZOBkukiM7ku48+ZyrtLS3WgHkVqNjbjb2X48knn8JTfQueLxGPwYREKfSUkpSWtxLdkvhNEUDh2ZIuU0Si7vzZZeB4eKqEQI9930RLglAPVmnjzYm8x/783Kre4f3KGzNtUTGNRPjXeEAXwCQ6ujg3DRXjrQxrGUcW83xQV92QVxFpmg==;iFgaEzGjMqBWB+X+1yOknQ=="
 ---
 

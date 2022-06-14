@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 99
+    quality: 101
 
 secured: "akBaUC2v0d05J2a+HsllvCOhgVfmsSqZrv0pMYrK5pDzXEDszb87gR0Aj93kTLgVAvEIXxgla/5xgqJGR/rFBe2YvuJ8bRR9ah93rZ598yjQiCaBKt7jKN3qmnfzLSm8uBA42CMPFVJ8kx45n92lFUoJzIAw/iT1oLXSBRCBn+nwbDhDr5CQHfgHULj43iWjVMI3qMP1F7mYcc92Wda9WZR4uFrEojPbUwQOZyAK1yz8O5+TRQKLMforwLakXmiV7uA0E6R6zg/jNbEjDaFk3883FTsLciFNHnEKpXnBakeHc2ELFqiMZoJMjF9uprXUGGx0cSzcC6pHoiKaonr/UglNcGvIkPcWRmfr8Z9r8PE=;vm8czXp7x2JPfQEg5snsVw=="
 ---

@@ -1,27 +1,24 @@
 ---
 category: news
-title: "Google engineer claiming AI has consciousness placed on administrative leave - Reports"
-excerpt: "\"Our team – including ethicists and technologists – has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims. He was told that there was no evidence that LaMDA was sentient (and lots of ..."
-publishedDateTime: 2022-06-12T03:47:00Z
-originalUrl: "https://www.bernama.com/v2/en/world/news.php?id=2090185"
-webUrl: "https://www.bernama.com/v2/en/world/news.php?id=2090185"
+title: "Google suspends engineer who claimed its AI system is sentient"
+excerpt: "Google suspended an engineer who contended that an artificial-intelligence chatbot the company developed had become sentient, telling him that he had violated the companys confidentiality policy after it dismissed his claims."
+publishedDateTime: 2022-06-14T00:40:00Z
+originalUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
+webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
+ampWebUrl: "https://amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
+cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
 type: article
-quality: 29
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: bernama.com
-  domain: bernama.com
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://www.bernama.com/storage/banner/4d8bc382e5435e02cff8b4160bb6f81461e43d37de22e"
-    width: 450
-    height: 450
-    isCached: true
 
 related:
   - title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
@@ -373,17 +370,6 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "Google suspends engineer who claimed its AI system is sentient"
-    excerpt: "Google suspended an engineer who contended that an artificial-intelligence chatbot the company developed had become sentient, telling him that he had violated the companys confidentiality policy after it dismissed his claims."
-    publishedDateTime: 2022-06-14T00:40:00Z
-    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-    ampWebUrl: "https://amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/the-wall-street-journal/google-suspends-engineer-who-claimed-its-ai-system-is-sentient/news-story/ed3e73d50338230ea5d66ce412958f33"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "Has Google really built a sentient AI?"
     excerpt: "A Google engineer has been put on leave after claiming an artificial intelligence chatbot might be sentient. Is he right? Our CTO Ben Gracewood has opinions. On Sunday, Google engineer Blake Lemoine posted the transcript of a remarkable conversation between himself and a Google AI that he claims to be sentient."
     publishedDateTime: 2022-06-13T17:04:00Z
@@ -453,6 +439,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/06/13/1620900.jpg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "Google engineer claiming AI has consciousness placed on administrative leave - Reports"
+    excerpt: "\"Our team – including ethicists and technologists – has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims. He was told that there was no evidence that LaMDA was sentient (and lots of ..."
+    publishedDateTime: 2022-06-12T03:47:00Z
+    webUrl: "https://www.bernama.com/v2/en/world/news.php?id=2090185"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 29
+    images:
+      - url: "https://www.bernama.com/storage/banner/4d8bc382e5435e02cff8b4160bb6f81461e43d37de22e"
+        width: 450
+        height: 450
         isCached: true
   - title: "The Google engineer who thinks the company’s AI has come to life"
     excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
@@ -541,6 +541,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "3twFd+Qp155VhakCyUoedMm0BWJ2f59TQj2R7uehXJxL8vD2AVMPokn5rRyAxg/+WAhuhN4AMOcPqJgxMEVtBALkrasjRG00s0WjxarVclkmjbP10i0ZgYp9F09IDtPtmDIzt5CtYrYlFkc31uRRjCZMDTHWEEkSHw4TxuEFP03+Dm6PcZiiLpEKCbpZEid4EVz7mG67SZZsNWJbsNkpWByhcAoryn+THhSNS4wYCyXac2ehygiu7kB5r5oc/hRYpaSuxRf82FUySc0FPp/40xtv69p5cYcoYp7K++xo5rBPWUynDYVZaGKwhoV8jjGjcig8Z6VzKvkfl76fTeRSkG7iz7fseiSpT9isk83jPak=;SELDmd8aXJEJlqUs0ma1ng=="
+secured: "RBOtV/UV2P/9wG3h/kbeYjoEuOWRQnbQycWkT1Unya9CWA4beJ8MNtO6qcfXUOlgLlksaUOoT9MyrY2Y5z6DvYuq/iENF9ZSugNrI4oWefI28DvtDH5F/EgaKqNVdwfq/IdcEyNTNQG12CDn6gekXxIATDZ/fWGYlAxGDkaolNPwMKAGLNNY+DQEKPSCwP2x1o4GJqkDkJtTrgw/2J7aCA5Xh1IU4dNwYNycw2snxPg8Zyz68rJ/eTIp90SEvpDRa4McYmSVhnMBXdW8mvR1k32aJycERKf1nAU4YtzUsq0ceEMxsJy5iNv5YDIgb2FexV1smmUOMTeCT+L2aesUsFt/DIE1j/OKcrvRBVORFhB4XU01uQG+Ig5zNGtW5pLiMR3+wzDsaAUGMgjM0amP0SvT48ALlByTMu0Td+C23vNfQgT3rIDZp+jMM7x0mLjxAB6OXz7VoQ+ul4bGngo8N3SKEr8LdIpLupffh7Pg4q8A2tpFw8q120fH7Pbn8nU6PALuKk7HxHizPZC6/gJfAw==;PRJZMWKAn8AwI+iTnDsWNA=="
 ---
 

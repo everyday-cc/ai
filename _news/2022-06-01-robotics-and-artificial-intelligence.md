@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://cloudcollective.s3.us-east-1.amazonaws.com/shareableAssets/images/GuruSite/PaulMampilly/Robots1.jpg"

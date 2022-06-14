@@ -2,24 +2,24 @@
 category: news
 title: "Machine learning-led decarbonisation platform Ecolibrium launches in the UK"
 excerpt: "Image credit: Max Lacome LONDON, June 13, 2022 /PRNewswire/ -- Machine learning-led decarbonisation platform Ecolibrium has today launched its revolutionary sustainability solution in the UK, as the race to reduce carbon emissions accelerates across the ..."
-publishedDateTime: 2022-06-13T08:01:00Z
-originalUrl: "https://www.asiaone.com/business/machine-learning-led-decarbonisation-platform-ecolibrium-launches-uk"
-webUrl: "https://www.asiaone.com/business/machine-learning-led-decarbonisation-platform-ecolibrium-launches-uk"
+publishedDateTime: 2022-06-13T23:59:00Z
+originalUrl: "https://www.globalpropertyguide.com/newswire/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-793"
+webUrl: "https://www.globalpropertyguide.com/newswire/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-793"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Global Property Guide
+  domain: globalpropertyguide.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?itok=oREaZpiC"
+  - url: "https://mma.prnasia.com/media2/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=medium600"
     width: 599
     height: 397
     isCached: true
@@ -27,15 +27,15 @@ images:
 related:
   - title: "Machine learning-led decarbonisation platform Ecolibrium launches in the UK"
     excerpt: "Image credit: Max Lacome LONDON, June 13, 2022 /PRNewswire/ -- Machine learning-led decarbonisation platform Ecolibrium has today launched its revolutionary sustainability solution in the UK, as the race to reduce carbon emissions accelerates across the ..."
-    publishedDateTime: 2022-06-13T23:59:00Z
-    webUrl: "https://www.globalpropertyguide.com/newswire/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-793"
+    publishedDateTime: 2022-06-13T08:01:00Z
+    webUrl: "https://www.asiaone.com/business/machine-learning-led-decarbonisation-platform-ecolibrium-launches-uk"
     type: article
     provider:
-      name: Global Property Guide
-      domain: globalpropertyguide.com
+      name: Asia One
+      domain: asiaone.com
     quality: 37
     images:
-      - url: "https://mma.prnasia.com/media2/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=medium600"
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?itok=oREaZpiC"
         width: 599
         height: 397
         isCached: true
@@ -49,6 +49,6 @@ related:
       domain: businessgreen.com
     quality: 4
 
-secured: "lnRz8829Pk1yYO7iK8CeUTdP+JdnQlIAxkHbLaTnE5JayWtqCs0y6stoj5UxBlkcRdzhYSjBbCtoSTu5IG5i/LYleoGVcKzI1iy/HurciAAKl1YbQ+49X5nguEn+SPetKgHR3CPgrrzH6+GtP1ALUWQQ/8/nzVZOpiMoo1EwpHBbPUxAAOWIXesUkdnexLue57AlDz33J5CtKDltiJwHsO58WkP1iT4Z6YXqk8vso6YFACOt/KJU0i65mx+zSJM19VZ1eEIVFn62rKmOR5js5stJf8WKbv7Cozz1laT7SZ1XP82dBIopbL8rCfl5WBxVxdBfv8m8etBZGNiA74ZTDo8BiIcNaZQZo9xOdRVA1CMTD1Enq1KwaVFyEY/Zi8DLTYjOAKA1Ijj7ctJl0v5l09iNOgL2H4JsO7AUp56sgl22K5sN2e4zbLyySqoW5KB6gUSRPp7bGO8NWwRNrWZg/BFMcX/gB5f2vS+M5tyt/QABn45htxCuZqeQ7bIAmQynvCKZGpXI4QD8IdvvfMgscg==;qREBdPcrmdEWZ9IXA3CFYg=="
+secured: "JnEV2nlfq2330txVvU16dyySoMDbKaiZPBub91h/Rr/4CV1dpfpNEeQ+q9aleq5Cw2+MHHoesssaVUIce/lnFdrvIGKBg8xU/DCQyHTqHMfgAbNy+s6lZuU6HU2wKSx0HoWmzl2U8hZ1hBIn68e2B91SjhO3wJULtIFdSNn5tNxl5dqFRiT6+A86yMm4uy+mQTuIN0vHc7stcSztgI/DspwdHRWI+vY2wv8gUHA2oBsC1NaPSJi94NNUaimDVS51MzRq7iaplAACLiQTbEWABfmH8YQt5PdZYBfnuEFxUbDcsUphv3Fp8fhDOX7AAFPGvCd/xG7CIpcmWtOs5dz5YdsWBwZ5fu+PCm8iOxvWceg=;dbi28F4Ym/ddSaxIWXgUjg=="
 ---
 

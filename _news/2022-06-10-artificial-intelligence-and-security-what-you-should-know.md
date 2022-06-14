@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI as a cyber security enabler"
-    excerpt: "AI makes it possible for businesses to handle significantly higher volumes of incidents than was previously possible."
-    publishedDateTime: 2022-06-09T07:58:00Z
-    webUrl: "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/vTByOfnu0MpUBJcpeD4A9yShoqR5sVw5vKs25Jpm6QrSQyoxuPOic_XyD5no2_rK_ALmHaM8AaNCn0lEr66IvxOxUvYNFzJgJhQk=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "How AI and bots strengthen endpoint security"
     excerpt: "Fast-growing ransomware, malware and endpoint-directed breach attempts are reordering the threat landscape in 2022 which is calling for rapid changes in endpoint security."
     publishedDateTime: 2022-06-13T18:46:00Z
@@ -52,6 +36,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Here’s how AI can improve the experience and security of web browsers"
+    excerpt: "Google is using machine learning to help Chrome become more helpful to the user in real time, while MIT research has found ways to counter AI-assisted cyberattacks. Google has announced a number of machine learning improvements to its Chrome web browser ..."
+    publishedDateTime: 2022-06-10T07:49:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-google-chrome-machine-learning-mit-research-cyberattacks"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_445153973.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security"
     excerpt: "Lacework's Mark Nunnikhoven joins Dark Reading's Terry Sweeney at Dark Reading News Desk during RSA Conference to talk about AI and cloud security."
     publishedDateTime: 2022-06-09T16:30:00Z

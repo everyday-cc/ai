@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Google engineer claiming AI has consciousness placed on administrative leave - Reports"
-excerpt: "\"Our team – including ethicists and technologists – has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims. He was told that there was no evidence that LaMDA was sentient (and lots of ..."
-publishedDateTime: 2022-06-12T03:47:00Z
-originalUrl: "https://www.bernama.com/v2/en/world/news.php?id=2090185"
-webUrl: "https://www.bernama.com/v2/en/world/news.php?id=2090185"
+title: "Google Engineer Was Suspended After Claiming Company’s Artificial Intelligence Became Sentient"
+excerpt: "The engineer had his sanity questioned by the tech company's management after he believed he was talking to a conscious AI."
+publishedDateTime: 2022-06-14T01:18:00Z
+originalUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613"
+webUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613"
+ampWebUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
+cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
 type: article
-quality: 29
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: bernama.com
-  domain: bernama.com
+  name: LADbible
+  domain: ladbible.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.bernama.com/storage/banner/4d8bc382e5435e02cff8b4160bb6f81461e43d37de22e"
-    width: 450
-    height: 450
+  - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt2330c0df8d91f25a/62a7cd13aaf3b92e553555ca/googleai.png"
+    width: 1200
+    height: 674
     isCached: true
 
 related:
@@ -149,22 +151,6 @@ related:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "Google Engineer Was Suspended After Claiming Company’s Artificial Intelligence Became Sentient"
-    excerpt: "The engineer had his sanity questioned by the tech company's management after he believed he was talking to a conscious AI."
-    publishedDateTime: 2022-06-14T01:18:00Z
-    webUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613"
-    ampWebUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 60
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt2330c0df8d91f25a/62a7cd13aaf3b92e553555ca/googleai.png"
-        width: 1200
-        height: 674
         isCached: true
   - title: "Google suspends employee after claiming an AI had become sentient"
     excerpt: "Google has suspended an employee at the company who claims it has created an AI that has become sentient, or developed a consciousness of its own. Blake Lemoine, an engineer in Google's artificial intelligence team,"
@@ -454,6 +440,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Google engineer claiming AI has consciousness placed on administrative leave - Reports"
+    excerpt: "\"Our team – including ethicists and technologists – has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims. He was told that there was no evidence that LaMDA was sentient (and lots of ..."
+    publishedDateTime: 2022-06-12T03:47:00Z
+    webUrl: "https://www.bernama.com/v2/en/world/news.php?id=2090185"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 29
+    images:
+      - url: "https://www.bernama.com/storage/banner/4d8bc382e5435e02cff8b4160bb6f81461e43d37de22e"
+        width: 450
+        height: 450
+        isCached: true
   - title: "The Google engineer who thinks the company’s AI has come to life"
     excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
     publishedDateTime: 2022-06-12T19:01:00Z
@@ -541,6 +541,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "3twFd+Qp155VhakCyUoedMm0BWJ2f59TQj2R7uehXJxL8vD2AVMPokn5rRyAxg/+WAhuhN4AMOcPqJgxMEVtBALkrasjRG00s0WjxarVclkmjbP10i0ZgYp9F09IDtPtmDIzt5CtYrYlFkc31uRRjCZMDTHWEEkSHw4TxuEFP03+Dm6PcZiiLpEKCbpZEid4EVz7mG67SZZsNWJbsNkpWByhcAoryn+THhSNS4wYCyXac2ehygiu7kB5r5oc/hRYpaSuxRf82FUySc0FPp/40xtv69p5cYcoYp7K++xo5rBPWUynDYVZaGKwhoV8jjGjcig8Z6VzKvkfl76fTeRSkG7iz7fseiSpT9isk83jPak=;SELDmd8aXJEJlqUs0ma1ng=="
+secured: "pdClHsW6By8HExpUTUJIqpigfjEkyvVFpwmIgDpHSfAAQ/nFHRBGbQpbf27XWFxemT1870cINwIwbe8RhFRKbixLQC3laJ6sCkGHipiLBQ4RFEZiN4LLehydn1yZznWXsNtD/V1sCObMDckEAA+u6wwzsOneIf9whJGKCCV/YsuTf5u+o9uWLnXcNgL2pqiIASpHRq3dHJ/vDoN1hSQjm/f4EL7+uH6FepRVpSCOCFPkO+kVAxVOHwNRZiKhggOlB8XIRlx7fCaFT62bb3RfDb5wUmxZpqMHYL2nkMMlWz7dvHItCkluh2uwHbbOThldm1ItMyzRDY+Iucy+NsRGANsKVzPZnoWPE+QMVUM/eBY=;+s/eYPgZSuxjiVmm5xNY3A=="
 ---
 
