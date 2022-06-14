@@ -23,7 +23,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 20425
+        "followers": 20424
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -85,7 +85,7 @@
       "twitter": {
         "username": "Dialogflow",
         "url": "https://twitter.com/Dialogflow",
-        "followers": 12182
+        "followers": 12185
       },
       "size": "11-50 employees",
       "yearFounded": 2010,
@@ -183,7 +183,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 13669
+        "followers": 13668
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -425,7 +425,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 8464
+        "followers": 8470
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -699,7 +699,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 9095
+        "followers": 9098
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -717,7 +717,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1536806767484620802/NLgphJ9z_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Argo AI",
@@ -746,7 +746,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 58343
+        "followers": 58344
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -961,7 +961,7 @@
       "twitter": {
         "username": "rev",
         "url": "https://twitter.com/rev",
-        "followers": 11465
+        "followers": 11464
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1066,7 +1066,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 17191
+        "followers": 17194
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1308,7 +1308,7 @@
           "heat": 93,
           "images": [
             {
-              "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
+              "url": "https://pbs.twimg.com/profile_images/1536806767484620802/NLgphJ9z_400x400.jpg",
               "width": 400,
               "height": 400,
               "title": "Argo AI",
@@ -1369,7 +1369,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 12973
+        "followers": 12974
       },
       "yearFounded": 0,
       "locations": [
@@ -1692,7 +1692,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 83423
+        "followers": 83424
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
