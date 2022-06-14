@@ -33,17 +33,6 @@ related:
         width: 1169
         height: 827
         isCached: true
-  - title: "Artificial Intelligence Market Size to surpass US$ 1394.30 Billion by 2029 | CAGR 20.1% (2022-2029)"
-    excerpt: "The surging demand for the robotics across various end use verticals is expected to drive the growth of the artificial intelligence market during the forecast period. North America dominated the global artificial intelligence market share in 2020 with ..."
-    publishedDateTime: 2022-06-09T10:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27622661/artificial-intelligence-market-size-to-surpass-us-1394-30-billion-by-2029-cagr-20-1-2022-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27622661"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622661"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "Self-driving cars may speed up to 130 km an hour"
     excerpt: "Regulation on automated driving likely to be increased from 60 km an hour to 130 km/h, says UN Economic Commission for Europe - Anadolu Agency"
     publishedDateTime: 2022-06-10T13:09:00Z

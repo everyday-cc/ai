@@ -45,20 +45,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
-  - title: "Clinical Trials Sector Scorecard 2022: Artificial Intelligence, Virtual Care and Blockchain Saw Activity in Q1 2022 - ResearchAndMarkets.com"
-    excerpt: "The “Clinical Trials Sector Scorecard - Q1 2022 Update - Thematic Research” report has been added to ResearchAndMarkets.com’s offering. Many companies included in the Clinical Trials scorecard have announced partnerships in the artificial intelligence (AI) space since December 2021."
-    publishedDateTime: 2022-06-09T09:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-politics-health-artificial-intelligence-merck-kgaa-5bd373fdb3074029a2d85df0e87ebf96"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Computer Vision Market Report 2022: Core Capabilities of Computer Vision Technology and Key Factors Driving New Use Cases and Greater Adoption"
     excerpt: "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Computer Vision Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service analyzes the core capabilities of computer vision technology and identifies the ..."
     publishedDateTime: 2022-06-10T11:18:00Z

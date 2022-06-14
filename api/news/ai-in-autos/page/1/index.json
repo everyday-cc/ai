@@ -888,15 +888,15 @@
       "title": "Autonomous Mayflower reaches American shores -- in Canada",
       "excerpt": "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ...",
       "sourceUrl": null,
-      "webUrl": "https://pantagraph.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_ce59de4d-3fe1-525a-8832-60f85ed2bba4.html",
-      "originalUrl": "https://pantagraph.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_ce59de4d-3fe1-525a-8832-60f85ed2bba4.html",
+      "webUrl": "https://rapidcityjournal.com/lifestyles/technology/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html",
+      "originalUrl": "https://rapidcityjournal.com/lifestyles/technology/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/8/f2/8f217a3f-e618-50e5-a7ad-424580d1303d/629cfc1232b2d.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/a/be/abe4f251-a04d-505f-8979-7974e0c2fb99/629cfda02a7b9.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -908,11 +908,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T11:57:00-07:00",
+      "publishedDateTime": "2022-06-05T12:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Pantagraph",
-        "domain": "pantagraph.com",
+        "name": "Rapid City Journal",
+        "domain": "rapidcityjournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1107,6 +1107,49 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some.md",
+      "title": "Artificial intelligence scans for weapons, but faces criticism from some",
+      "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "originalUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "publishedDateTime": "2022-06-03T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSTU",
+        "domain": "fox13now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1385,40 +1428,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco.md",
-      "title": "Self-driving cars from GM’s Cruise could soon carry paying riders in San Francisco",
-      "excerpt": "General Motors Co's Cruise on Thursday could become the first company to secure a permit to charge for self-driving car rides in San Francisco, if it can overcome objections by city officials.",
-      "sourceUrl": null,
-      "webUrl": "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/",
-      "originalUrl": "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KFGO",
-        "domain": "kfgo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

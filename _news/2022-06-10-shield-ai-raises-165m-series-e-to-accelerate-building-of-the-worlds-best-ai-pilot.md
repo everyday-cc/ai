@@ -9,8 +9,8 @@ ampWebUrl: "https://www.suasnews.com/2022/06/shield-ai-raises-165m-series-e-to-a
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/06/shield-ai-raises-165m-series-e-to-accelerate-building-of-the-worlds-best-ai-pilot/?amp"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: SUAS News
@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Shield AI raises $165M at a $2.3B valuation to fuel development of its military autonomous flying systems"
-    excerpt: "Technology built with defense in mind is getting some significant and serious traction at the moment, spurred by world events, advances in technology, and a growing appetite from end users to invest in more innovative ways to protect themselves."
-    publishedDateTime: 2022-06-09T10:59:00Z
-    webUrl: "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/"
-    ampWebUrl: "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/"
+  - title: "San Diego defense tech startup Shield AI pulls in $165M for software to power military drones"
+    excerpt: "Shield AI's Nova drones have been used in conflict zones since 2018, providing surveillance and intelligence inside buildings and other communication-constrained settings."
+    publishedDateTime: 2022-06-10T00:37:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-06-09/san-diego-defense-tech-startup-shield-ai-pulls-in-165-million-for-ai-software-for-military-aircraft"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-06-09/san-diego-defense-tech-startup-shield-ai-pulls-in-165-million-for-ai-software-for-military-aircraft?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-06-09/san-diego-defense-tech-startup-shield-ai-pulls-in-165-million-for-ai-software-for-military-aircraft?_amp=true"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 46
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/f16.jpeg?w=944"
-        width: 944
-        height: 698
-        isCached: true
-  - title: "AI system facilitates plant imaging from germination to root development"
-    excerpt: "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?"
-    publishedDateTime: 2022-06-13T14:15:00Z
-    webUrl: "https://phys.org/news/2022-06-ai-imaging-germination-root.html"
-    ampWebUrl: "https://phys.org/news/2022-06-ai-imaging-germination-root.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg"
-        width: 2826
-        height: 1373
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dc60cea/2147483647/strip/true/crop/1196x800+2+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2Fe7%2F20b75db947f8afbef04ab6120369%2Fveyo-idp-wheelchair-assistance.jpg"
+        width: 320
+        height: 214
         isCached: true
   - title: "Shield AI Raises $165M in Series E Funding; Valued at USD2.3 Billion"
     excerpt: "Shield AI, a San Diego, CA-based defense technology company building AI pilots for aircraft, raised $165M in Series E funding increasing the valuation to $2.3 billion"

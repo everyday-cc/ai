@@ -8,7 +8,7 @@ webUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-cl
 ampWebUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt2330c0df8d91f25a/62a7cd13aaf3b92e553555ca/googleai.png"
@@ -412,6 +413,20 @@ related:
         width: 750
         height: 498
         isCached: true
+  - title: "Is Google’s Artificial Intelligence Bot Sentient? Not Everyone Is Buying It"
+    excerpt: "Although the artificial intelligence community often disagrees on key issues, it has mostly rejected the assertion that the LaMDA bot is sentient."
+    publishedDateTime: 2022-06-14T02:00:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/google’s-artificial-intelligence-bot-sentient-not-everyone-buying-it-202986"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2018-08-08T083600Z_1231248563_RC1A7B512710_RTRMADP_3_CHINA-GOOGLE.JPG.jpg"
+        width: 1200
+        height: 770
+        isCached: true
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
     publishedDateTime: 2022-06-12T23:19:00Z
@@ -541,6 +556,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "pdClHsW6By8HExpUTUJIqpigfjEkyvVFpwmIgDpHSfAAQ/nFHRBGbQpbf27XWFxemT1870cINwIwbe8RhFRKbixLQC3laJ6sCkGHipiLBQ4RFEZiN4LLehydn1yZznWXsNtD/V1sCObMDckEAA+u6wwzsOneIf9whJGKCCV/YsuTf5u+o9uWLnXcNgL2pqiIASpHRq3dHJ/vDoN1hSQjm/f4EL7+uH6FepRVpSCOCFPkO+kVAxVOHwNRZiKhggOlB8XIRlx7fCaFT62bb3RfDb5wUmxZpqMHYL2nkMMlWz7dvHItCkluh2uwHbbOThldm1ItMyzRDY+Iucy+NsRGANsKVzPZnoWPE+QMVUM/eBY=;+s/eYPgZSuxjiVmm5xNY3A=="
+secured: "kCEUKuOHfXs+WBeaMmLOlxfiAxEctoKDive86H7ezNUuR/tRPhx+k7TLiQ66FYO11THmAGwDdRgQYLlL+hN6H5phEuzvKWNxOe8hhikJvZAYuvd+nmmx8LQfxosZZOf2efLXibtuDnQqp0bRyHHmUShn7gTAHZL5+3fpAk63fiunTtlDhhQ+xQGjNydB8Y50oA58QQjNWCjUt9O83AP7w3AZJsQiuzss1KXVxo6pzeym+Sw9FdftXVYj+7FC6YC0WLs2BlcGhavF8mHg+rii6kJVbMGn9SKf9VgIZDvOfRTfeFIXLR2DNKquVTGLkZ8ZzkxD/dWlFsxYlky2hIwcsxhlgzvRPC9Ms33hvGd3L7oYx5Q3TJhxeqgmnOk/SFxGG+EgC7YxTpOGqlDXvfiwQoHDu/wwpPBQj51/LAddBbH604mHbD2Fk1wCzf+aysl6rKuNn+E/9D+uYMYJZa1uHSSiSsS0C7voqkjSHSrSGX4kW58Ad3s0hD98wzZ4l1wQO1TZNvZ3NjnUrZZvcjOlmw==;q+NJytTx02FrurDoL4FqiA=="
 ---
 

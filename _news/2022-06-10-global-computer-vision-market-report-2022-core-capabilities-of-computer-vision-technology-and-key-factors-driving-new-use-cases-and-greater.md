@@ -55,20 +55,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
-  - title: "Clinical Trials Sector Scorecard 2022: Artificial Intelligence, Virtual Care and Blockchain Saw Activity in Q1 2022 - ResearchAndMarkets.com"
-    excerpt: "The “Clinical Trials Sector Scorecard - Q1 2022 Update - Thematic Research” report has been added to ResearchAndMarkets.com’s offering. Many companies included in the Clinical Trials scorecard have announced partnerships in the artificial intelligence (AI) space since December 2021."
-    publishedDateTime: 2022-06-09T09:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-politics-health-artificial-intelligence-merck-kgaa-5bd373fdb3074029a2d85df0e87ebf96"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "aOuMZZzOLtSyecDcypX17k/9+lvWdU6buO9KCTabf2iFmNoe3em59WtNa/5OdWMSbwxBJ/mSaCDUaliGYSlxxJUZp71UduQY4CEh9R4qS8x5MOyuxW4EdeQMwpD0ew1x1s1kH7A8h16/NdyBXBrLh3ULvILae1hxHUuz9oa9Tsby3xXoMii4zKX+HMfYImWe1kK45bL1Z1euAE2VUC7KoHbnJFjSguRfdZzqBZrMAs0g+iQLVsFBej0e0KK4pR4ufqJ7wWlaaNKeLWjNO2FGl9fSnvZQVAiz+7a3I/9hl16PPcdYk2/dsEyQbYXR6L0ECWWfFmGlhpnkZAcfIfp8zpNVuewlo0uDTMta+lHpE48=;Qr7WwsooWRSmH53aRqLhRg=="
 ---

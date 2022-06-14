@@ -3,8 +3,8 @@ category: news
 title: "How does Google’s AI chatbot work – and could it be sentient?"
 excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
 publishedDateTime: 2022-06-13T13:08:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?ref=upstract.com&curator=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
+webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
 type: article
@@ -91,17 +91,17 @@ related:
     quality: 39
   - title: "No, Google’s AI is not sentient"
     excerpt: "By Rachel Metz, CNN Business Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
-    publishedDateTime: 2022-06-13T21:03:00Z
-    webUrl: "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+    publishedDateTime: 2022-06-14T02:03:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 39
     images:
-      - url: "https://krdo.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300-860x484.jpg"
+        width: 860
+        height: 484
         isCached: true
   - title: "If AI Ever Becomes Sentient, It Will Let Us Know"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
@@ -136,6 +136,6 @@ related:
       domain: rnz.co.nz
     quality: 17
 
-secured: "EqYBT3Xlaca6b6EHdbgLnr4LMDH/uha30SJNfDZuzLPfCspjCN8veE+ipjyo99biyP3O9EvdbK/3XnJFOlyBEKBdtd7CpijJJp1insx/Z4LwgERVRPyO7m8sbQQ8Psd0w7tCbHXRu3HV8BeoyQ0M9GHrg7902YLrn3t15qL6XQdWdnb7K8NAEuPr/+1xINg8EaR7KPLzsil3lG6jCT2wth/ehtzkcccZx3RsIyM5Bsg2+mP+RXxtr9VoMoPDFNEH2xjRxoN2xMB4oukKAPomW8IqPEHGWsr3j4y4pkjcFl77bsmwcyuAmon/9O4zCKB8IVOMgQ1m10r9VW5+MWEtxxFi5uEkRKOZoF7xBo6qLpQ=;oM3TdleFO9VbbNYngtTbVQ=="
+secured: "/1V2FmGhTcIbZ9NHJAn6/Dp/s9niBwgcwcoVToT4pGdCM41kPmVsZVjKiEwt7wuAHsi75R8xxJ/dEmTMZcAIonwYwQTBixACh7yZ1r3ELC/f61ut3sVqNqdgx4atiWvN2itluIdNLUdaFAbGWyqiy78fFx9jNmhbW74BkhrQ+sSFuDF5YeFrUoAQChptRrAGrhkX9iOq3pnDjT00xMEtWtBIKdejogpXCS+iNs0uGTeA5b6WZceGxAfxv7ssqFkUfDcgilbo5znt8C9XXeTeBjSHaVaVe64yODd/beR8dpnkSv+ePzTQNyqtCNEtD5+LL7WeI2PTbtTw6eC914N2lf56EJTMcytBzyvxyspgTZw=;nrNH0ZjVoGG14h7NmpnDug=="
 ---
 

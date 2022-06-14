@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Grubhub and Cartken Partner to Bring Robot Delivery to College Campuses"
-excerpt: "Robot delivery will be available on Ohio State University's campus this fallCHICAGO and OAKLAND, Calif., June 13, 2022 /PRNewswire/ -- Grubhub,"
-publishedDateTime: 2022-06-13T13:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/grubhub-and-cartken-partner-to-bring-robot-delivery-to-college-campuses-1031525110"
-webUrl: "https://markets.businessinsider.com/news/stocks/grubhub-and-cartken-partner-to-bring-robot-delivery-to-college-campuses-1031525110"
+excerpt: "Robot delivery will be available on Ohio State University’s campus this fall CHICAGO and OAKLAND, Calif., June 13, 2022 /PRNewswire/ -- Grubhub, the leading online and mobile food-ordering and delivery platform on college campuses,"
+publishedDateTime: 2022-06-13T13:00:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-ohio-state-university-68791e1f4abc177e83036bc7199d3758"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-ohio-state-university-68791e1f4abc177e83036bc7199d3758"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Grubhub to Bring Robot Delivery to College Campuses with Cartken"
@@ -42,6 +44,6 @@ related:
       domain: thelantern.com
     quality: 19
 
-secured: "irxz2jdfswma1IoUysGr1W7OJlE61Slpd7qJRJ6ZxP9MsjaDrEt09ktoWH4afWyeS+eOYS1lnbWF50/0Q6ed1UP8EqWGn/3vlrt4Qjn2og/bvJaN0N6/XyGU/5EpEaqssyFDnrUsZ+XWUilUijBT7VzWx88z5iVsapOEPLVOrPdX1bW79u/Cf5eAVp3feeNsvKmzFlzf4aS+uNfMMK0gkDTis9UQZt1Z7z+2DvkeM9Bel8H9wClMTEAY1+NH7XhS3uR6ufKW6bSy7cPykgTfOmW+kTQR+h51CDwNqF6HmOxY0kgtBgyjt9hIvsV7zZQ7uJhyvMj7pxaHi56TGO0FAjOn1jdGkax4R4oBSLM4QD8=;h1u2vte1NfZNDsP4N25/Qg=="
+secured: "vqNOiaPdyzYRwxQBGQ+GzDQrf7nf9ohjEc6J+8PsFjwP8goRAAgqMF22daK+9xTw+na8x2Y1iv+aEvGAgseQhOjOU72w3x4ikkyhC0g68G7K5u+6GQQzicU3ZhoMFZsqErJVEC9PVHqtdV6iOziY+Pymuh7fCUx8yIVVagVgeNuvQ3e1sG1M8fCNSCnr6gOakH4bzsVzWUxhw0bbXRjvJnGcwpOjexFciOi986uFmgSFYVs+ks/vPamvMTfo+jWKouqoNvZj62xS0Vyhvi7wuDUFc8SUoz0FnAWxke3iEpcC8R3+OON9a4dXnSBzZDQEhPMROBEv6FZCHg/aN3MkxcumGMqewjx4CP715FD2FkM=;Gz0KwsJwtM3Vj2Uf/ns1vQ=="
 ---
 

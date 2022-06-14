@@ -1,22 +1,28 @@
 ---
 category: news
 title: "The Worldwide Artificial Intelligence in Marketing Industry is Projected to Reach $23 Billion by 2027 - ResearchAndMarkets.com"
-excerpt: "The \"Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+excerpt: "The “Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-06-13T11:44:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-13-the-worldwide-artificial-intelligence-in-marketing-industry-is-projected-to-reach-23-billion-by-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-13-the-worldwide-artificial-intelligence-in-marketing-industry-is-projected-to-reach-23-billion-by-2027-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-56d77200fa8c4b1c967b0b3dabc1a143"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-56d77200fa8c4b1c967b0b3dabc1a143"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Marketing
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "How can artificial intelligence be the next big thing in marketing?"
@@ -48,6 +54,6 @@ related:
         height: 633
         isCached: true
 
-secured: "6HwWF8MJ8e2hmyGv5p20c4N24pA/NklX6KbfY25b4nZJvKjy5wWHkqB6pZClQh/oLyDkRQVH6uzsCyqxEWqMXNMCAcxUgEWe/Ed7Uw6iV7EFcgccaMVQTJpbreJWneOVqIaiwQM9SiOryClPxTB0cnDMy5T/cby4c66a//GL0mT8rcuXiDtta3RaYM2Rqip36smtml9JH9fD3R+YpRycNCK+phde3GGFEzZrmDeAxwMFbXdYzpy2FCxT92uj2TeyQw/xHepY9BTRP9KtepVMoEG8cBqsAWKNMSYcsylQy7Ed7YiVhPAkZL2zyME0uo+WwlV56REVHx+lH6T4DO1N0GDRscIA3s87CW3cvsEBPbo=;QbptEVEXE2Wk4/lQDYcdBQ=="
+secured: "yEIO5ZT/4v6J8beAu4jbZsjaUkY8j7YFx8eAvegkaIfWNAdhA1bULv27GLxHYf/PwlCDUD/3PQZaU/HL3lyu5tqT9+uJ3KCJu6DoHP+ERapOZMba/L0/Yu73LEMGGgtsjdNEQDtHTpaC6ZSskE/bu+jGqtP9N45wdfP2HHLMFPvjOHg/23MH4aJF4tlvbqSRThcqtlu0e0BiX6GQZpFC6o+fWhN4vZDU3HkTRW+YGRmeJMHnE7hiPT41GuNuVpjU18Ff1m++Yc0MA6kcfJ+k5x2Qr2Z3XYIwktUhGNPXl0VfQ7oftmViCUeSDO/2KRViKFUuTMmgO+VCRXSJutSGnx6ioeJbzKINN2Thg8fYqq0=;IiQkUPuT2vKmzdKSRie38g=="
 ---
 

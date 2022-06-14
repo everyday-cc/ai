@@ -66,24 +66,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 38
-  - title: "AI/ML Innovations’ Tech2Heal Chosen as a Finalist in the i-Nov Innovation Contest"
-    excerpt: "TORONTO, ON / ACCESSWIRE/ June 9, 2022 / AI/ML Innovations Inc. (CSE:AIML); (OTCQB:AIMLF); (FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2022-06-09T10:01:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-france-artificial-intelligence-business-9ce7a8287067c549e09953571436292b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-  - title: "AI/ML Innovations Inc.: AI/ML Innovations' Tech2Heal Chosen as a Finalist in the i-Nov Innovation Contest"
-    excerpt: "TORONTO, ON / ACCESSWIRE/ June 9, 2022 / AI/ML Innovations Inc. (CSE:AIML); (OTCQB:AIMLF); (FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technolog"
-    publishedDateTime: 2022-06-09T10:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56268545-ai-ml-innovations-inc-ai-ml-innovations-tech2heal-chosen-as-a-finalist-in-the-i-nov-innovation-contest-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
 
 secured: "x4zP9Xgy1tOyOZLKS89YDzQti1fAOpioDgDF3zWZA4ctf6P7lNJhsv4o9G1vOxXhacqemSi7iN6rQWpWINV56jqBC+5RWvo5f/DbJOJlu0D77ZRUZ7/iXiQHwanDldowA3YzY/MpzH3QLcwIvef7phjmNeT1zcn/RIRFHNdLioct1Sj039DeEspBvL/sfZPF2YhotSaYCz1C7sb6pWfm2W3zmlIGEP0ERo0iWz8J7g5k4Ddzn6EAc9TYOFveZHMI1iiHJXCHpI2hiusM3TvgdO68cPWc9CjXanc1Yww120tdX6m2Eqin77KhdXKCFlLn3+oqxOgjexy75j8vlFG4L9Bj4KEcSkV5l8IHfS7Js7k=;7Xsv5N7v0IAggohzZ8+Y/Q=="
 ---

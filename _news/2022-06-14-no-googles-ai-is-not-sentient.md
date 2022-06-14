@@ -2,26 +2,26 @@
 category: news
 title: "No, Google’s AI is not sentient"
 excerpt: "By Rachel Metz, CNN Business Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
-publishedDateTime: 2022-06-13T21:03:00Z
-originalUrl: "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
-webUrl: "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+publishedDateTime: 2022-06-14T02:03:00Z
+originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
+webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KRDO
-  domain: krdo.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://krdo.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg"
-    width: 2000
-    height: 1125
+  - url: "https://localnews8.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300-860x484.jpg"
+    width: 860
+    height: 484
     isCached: true
 
 related:
@@ -60,7 +60,7 @@ related:
   - title: "How does Google’s AI chatbot work – and could it be sentient?"
     excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
     publishedDateTime: 2022-06-13T13:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?ref=upstract.com&curator=upstract.com"
+    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
     type: article
@@ -133,6 +133,6 @@ related:
       domain: rnz.co.nz
     quality: 17
 
-secured: "zumxIac4Xr8gucbocsduNurJEOdGEf8TK7bXhJIMMekiYw3CtGCqewUZmWWP9Q8kbrm+dexZG44J67LjIm7+Rntna+P+UtK1Y0pXAMjGcJuwwWNVVNMBkhZUlSZCv4oQSfjstI8+7RC1o3BW4AtFo6ukqW5aXZGUVAfHWXPUrpzMmY4ktzD7vR//+sXkTVwPc/0Ozg/B0nVz3T5j4Zk3xNYmIdaE1Gig+xAxCLQ3KSY9fW9ON0EyZjSg8puXtLjRmvGmjDO7aIAF++NtmrTA2S/QEKcah+l53R1uzGB2V21ch68F/uqy5fcEC0YLKkE5Kw3CcnowJyBDCGv6T+/1EAZG5Ork9OJKpjCuvyp6+/fPP9fU6t6nO1QYFznnqa7LTm3j3itlpRrrYQYtFxMDbqPdX4P21gP8rcLejH36p9Nr6QGXcq9yfbrcTFf/Q247/F1SKx+LhSmMQI6aImdJB3ky//9Bm7/E5SygdnOvxWh6QSRxmKITtuAo8FJhYf4q+OWoH/tL0MBHytEqhuV5Lw==;FA7V594l/BDTYW6j2Mb4BA=="
+secured: "Z+sRd4SBDdGCVn5+12tmYpRaD05qiHN1IBGXGkk5gzv8IahUo+xtD729vGVoWeWhzgCSm5cybXNAZpuNT9do86sd6SplWeEPG/MEa1J3r93SrnTkqFmGKvW0q2ljrCeSqMD6FLLS/DC5sggiCmam8YsCCnE3InkVUNvlYPPYa8XjQ/8v6CaVvKPfwn18O+Y4Zks9Obd2wdQSzfn4Rp6lNnfdKt5IkVBGpaxdC96mFV5H8zMIw6ZJQfSpCLph8Yn1dJJ3z+3QgSn0v+PMJCix2fq1mJGcsFo5VXLBmQL2eTgWlZW5DUelbPbAF8uLSwaLtzlvVJCKtZcRa7aJRcx1wVktSHHvo3AmxGJp3ieVhvM=;mzwJ/SZ4oAkBIHx8SaxOzQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://afro.com/axon-halts-plans-for-taser-drone-as-nine-on-ethic
 webUrl: "https://afro.com/axon-halts-plans-for-taser-drone-as-nine-on-ethics-board-resign/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
-    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
-    publishedDateTime: 2022-06-09T10:15:00Z
-    webUrl: "https://www.kansas.com/news/business/article262197492.html"
-    ampWebUrl: "https://amp.kansas.com/news/business/article262197492.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article262197492.html"
-    type: article
-    provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 39
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
     publishedDateTime: 2022-06-10T12:25:00Z

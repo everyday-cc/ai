@@ -136,6 +136,22 @@ related:
         width: 619
         height: 374
         isCached: true
+  - title: "Google Engineer Was Suspended After Claiming Company’s Artificial Intelligence Became Sentient"
+    excerpt: "The engineer had his sanity questioned by the tech company's management after he believed he was talking to a conscious AI."
+    publishedDateTime: 2022-06-14T01:18:00Z
+    webUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613"
+    ampWebUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 62
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt2330c0df8d91f25a/62a7cd13aaf3b92e553555ca/googleai.png"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Five Things the Google AI Bot Said That Made an Engineer Think It Has Real Feelings"
     excerpt: "B lake Lemoine made headlines after being suspended from Google, following his claims that an artificial intelligence bot had become sentient. The Alphabet-run AI development team"
     publishedDateTime: 2022-06-13T09:35:00Z
@@ -149,22 +165,6 @@ related:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "Google Engineer Was Suspended After Claiming Company’s Artificial Intelligence Became Sentient"
-    excerpt: "The engineer had his sanity questioned by the tech company's management after he believed he was talking to a conscious AI."
-    publishedDateTime: 2022-06-14T01:18:00Z
-    webUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613"
-    ampWebUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 60
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt2330c0df8d91f25a/62a7cd13aaf3b92e553555ca/googleai.png"
-        width: 1200
-        height: 674
         isCached: true
   - title: "Google suspends employee after claiming an AI had become sentient"
     excerpt: "Google has suspended an employee at the company who claims it has created an AI that has become sentient, or developed a consciousness of its own. Blake Lemoine, an engineer in Google's artificial intelligence team,"
@@ -411,6 +411,20 @@ related:
       - url: "https://images.axios.com/c7oMj84uGQ-gqpXufbaxPJORatA=/0x0:1920x1080/1366x768/2022/06/12/1655073305023.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Is Google’s Artificial Intelligence Bot Sentient? Not Everyone Is Buying It"
+    excerpt: "Although the artificial intelligence community often disagrees on key issues, it has mostly rejected the assertion that the LaMDA bot is sentient."
+    publishedDateTime: 2022-06-14T02:00:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/google’s-artificial-intelligence-bot-sentient-not-everyone-buying-it-202986"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2018-08-08T083600Z_1231248563_RC1A7B512710_RTRMADP_3_CHINA-GOOGLE.JPG.jpg"
+        width: 1200
+        height: 770
         isCached: true
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"

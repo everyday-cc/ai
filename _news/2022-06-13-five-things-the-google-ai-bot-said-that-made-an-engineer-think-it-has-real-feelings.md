@@ -150,7 +150,7 @@ related:
     provider:
       name: LADbible
       domain: ladbible.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt2330c0df8d91f25a/62a7cd13aaf3b92e553555ca/googleai.png"
         width: 1200
@@ -415,6 +415,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/138021770/image_138021770.jpg?io=getty-c-w750"
         width: 750
         height: 498
+        isCached: true
+  - title: "Is Google’s Artificial Intelligence Bot Sentient? Not Everyone Is Buying It"
+    excerpt: "Although the artificial intelligence community often disagrees on key issues, it has mostly rejected the assertion that the LaMDA bot is sentient."
+    publishedDateTime: 2022-06-14T02:00:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/google’s-artificial-intelligence-bot-sentient-not-everyone-buying-it-202986"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2018-08-08T083600Z_1231248563_RC1A7B512710_RTRMADP_3_CHINA-GOOGLE.JPG.jpg"
+        width: 1200
+        height: 770
         isCached: true
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-col
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
 type: article
 quality: 79
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -67,24 +67,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 38
-  - title: "AI/ML Innovations’ Tech2Heal Chosen as a Finalist in the i-Nov Innovation Contest"
-    excerpt: "TORONTO, ON / ACCESSWIRE/ June 9, 2022 / AI/ML Innovations Inc. (CSE:AIML); (OTCQB:AIMLF); (FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2022-06-09T10:01:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-france-artificial-intelligence-business-9ce7a8287067c549e09953571436292b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-  - title: "AI/ML Innovations Inc.: AI/ML Innovations' Tech2Heal Chosen as a Finalist in the i-Nov Innovation Contest"
-    excerpt: "TORONTO, ON / ACCESSWIRE/ June 9, 2022 / AI/ML Innovations Inc. (CSE:AIML); (OTCQB:AIMLF); (FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technolog"
-    publishedDateTime: 2022-06-09T10:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56268545-ai-ml-innovations-inc-ai-ml-innovations-tech2heal-chosen-as-a-finalist-in-the-i-nov-innovation-contest-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
 
 secured: "H/GalI+ZBxM0x71lDWrfUS/YPs3j7MAvi+2glUIt6JejzAO6TyJQh/ZH9fhbQDBivo0q1Pi31Kt4zokz8WAtlztFCh0mGXCCAcqvrzHdLzb9y+27d6sSRPn/8FvrldxgePZcztqJyaWiyK44Dan++y/nqvKOdYqPUz3lOR1eJNnZUz+uc6ovKmwtdreSzRGN1zzHSOgnnUycdq8nbLMmcIlQOFMsNP7hGRBG7g4073tBpcOxuxcvVDcXmcNiijra83bVY1x8PcPkegHAKZxY6wqgVa7NGLhdJF+s10pl7DbZc+Saq+1F7f5hPOagQBka+rbPUbkpfQvy5WOeYyJNSDKyahfB0NUBh62JT0ZBev2LnhKFU8KYbHn5NeseIgFkS3+ooxK4/MJxmnRQHWD8Se1w+u3GbpbdVUkZ/8byFgbEMCEooFL5vbGRWab752it7durG+HbwMR84TRf29hqeaH0DTXkWlzLH4Tt6Pur7rLnjJdJL9BANNY8qLwBLMWWRnnIYhsXqzp/u/Swvuwoew==;Or3rO+0o1ojfKcn4sbYOrg=="
 ---

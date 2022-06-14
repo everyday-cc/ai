@@ -20,14 +20,19 @@ topics:
 
 related:
   - title: "Grubhub and Cartken Partner to Bring Robot Delivery to College Campuses"
-    excerpt: "Robot delivery will be available on Ohio State University's campus this fallCHICAGO and OAKLAND, Calif., June 13, 2022 /PRNewswire/ -- Grubhub,"
-    publishedDateTime: 2022-06-13T13:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/grubhub-and-cartken-partner-to-bring-robot-delivery-to-college-campuses-1031525110"
+    excerpt: "Robot delivery will be available on Ohio State University’s campus this fall CHICAGO and OAKLAND, Calif., June 13, 2022 /PRNewswire/ -- Grubhub, the leading online and mobile food-ordering and delivery platform on college campuses,"
+    publishedDateTime: 2022-06-13T13:00:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-ohio-state-university-68791e1f4abc177e83036bc7199d3758"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Food delivery robots to return to campus this fall"
     excerpt: "Food delivery robots will return to Ohio State’s campus this fall, Grubhub announced in a press release Monday. According to the release, Grubhub will partner with technology startup Cartken, which specializes in self-driving robots and delivery operations."
     publishedDateTime: 2022-06-13T21:12:00Z
