@@ -191,6 +191,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "No, Google's AI is not sentient"
+    excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
+    publishedDateTime: 2022-06-15T15:38:00Z
+    webUrl: "https://www.ksl.com/article/50422436/no-googles-ai-is-not-sentient"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 39
+    images:
+      - url: "https://img.ksl.com/slc/2880/288077/28807719.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "Google engineer put on leave claims AI bot LaMDA became ‘sentient’"
     excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, told the Washington Post that he began chatting with the interface LaMDA — Language Model for Dialogue Applications — in fall 2021"
     publishedDateTime: 2022-06-12T13:43:00Z

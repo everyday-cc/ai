@@ -1,28 +1,29 @@
 ---
 category: news
 title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-excerpt: "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,"
-publishedDateTime: 2022-06-15T12:08:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-webUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+excerpt: "A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias Award"
+publishedDateTime: 2022-06-15T16:03:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
+webUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -36,6 +37,6 @@ related:
       domain: laprensalatina.com
     quality: 19
 
-secured: "uPnEDpEb4Kq49kMDeR4DVhueHYiEvP800NdWwfaUglRi4bSLT0sEvHaXAJDYuXUltoVU3s4T2eph/FI9/UkGEZ1COLH1OhL1uzfaRzjSH2L3H7Fna2iAHU6w+DsoGkcOtZmkJmsJSFYseaWmUDUDpG2CnUiFPL46k3oz1xQmnz0QWlVMHv3KKqxzCAvhbxzdx0PZg+XbE0WhrKLSgf0vO3GoSKracA96BPARmhM26gFexTfQsF+ae/bIRqDZhDSblU5lLnx85LHH73aH0N691uxP40ohIfk+K01HNNduHVQCSfI1PrE7uNhY9zPVx601Iepe5yt17aGY7HcLVqzPQwWN9gISxb+j9pJvd/mckvM=;1xtQ8mOsVXC8RZzKtL5j1w=="
+secured: "QTQ1J/ShFuAymDO7pNjy2TQTTxhpmX/lPoyOBZfCAk4C8jrYh4DVgo2ImdAHqvKps7qMZd2QFDn6qmBVFAL1bKgNqCHM+6OVsElAxrZvPXL8eSNNeqwdltdV21jf++tHwZao97SMmbNZSvCh0O5Di8teZQQdndiIVkZt+lNWph1Rjepf7bskymXvl8/4xVDbkXZu3SWMTjEobdHpJS+Ab74wI6mdHS9oH76jTijp63oqw5hsMhiKiJtXgIL25NJmUyGQyDSGk+MyByeIJbArBShqMdipkK/rp/d2vQducrHCZU8Yaqttd2swvNNdi5yA1hWBYXw5wEtgR1TsikE8KYgdaA2P/pXzc7nM2NT0aqc=;xDN37NnJuN1/f2SPvvrY/w=="
 ---
 

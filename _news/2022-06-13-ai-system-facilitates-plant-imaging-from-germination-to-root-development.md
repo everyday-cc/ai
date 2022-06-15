@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-06-ai-imaging-germination-root.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI to Facilitate the Development of Loitering Munitions | GlobalData Plc"
+    excerpt: "AI is of particular significance for loitering munitions because ... commercial off the shelf (COTS), military off the shelf (MOTS), fuel and propulsion, 3d printing, processor chips, miniaturization and scalability, battery technology, and composites."
+    publishedDateTime: 2022-06-15T16:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27724803/ai-to-facilitate-the-development-of-loitering-munitions-globaldata-plc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27724803"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27724803"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
   - title: "AI system facilitates plant imaging from the start"
     excerpt: "An AI-powered imaging system called MutipleXLab provides rapid automated phenotyping of seed germination and root growth that will help select plants that grow well."
     publishedDateTime: 2022-06-12T00:00:00Z

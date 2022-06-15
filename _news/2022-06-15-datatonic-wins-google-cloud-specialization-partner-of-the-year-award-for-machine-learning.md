@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Datatonic Wins Google Cloud Specialization Partner of the Year Award for Machine Learning"
-excerpt: "Datatonic, a leader for Data + AI consulting on Google Cloud, today announced it has received the 2021 Google Cloud Specialization Partner of the Year award for Machine Learning. Datatonic was recognized for the company’s achievements in the Google Cloud ecosystem,"
-publishedDateTime: 2022-06-15T08:40:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/6a207c8527f20351108e169ac9b74add"
-webUrl: "https://apnews.com/press-release/pr-newswire/6a207c8527f20351108e169ac9b74add"
+excerpt: "Datatonic, a leader for Data + AI consulting on Google Cloud, today announced it has received the 2021 Google Cloud Specialization Partner of the"
+publishedDateTime: 2022-06-15T08:38:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/datatonic-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/article_fe2f66a1-bc00-5b18-9f5e-d59e5b141576.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/datatonic-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/article_fe2f66a1-bc00-5b18-9f5e-d59e5b141576.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/e8/be8bc6ab-68d5-592a-8462-a54d6b272749/62a8b0fad862b.image.jpg?crop=610%2C320%2C455%2C0&resize=610%2C320&order=crop%2Cresize"
+    width: 610
+    height: 320
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: apnews.com
     quality: 28
 
-secured: "9Q2YC+O2K4HcV9Fkzj3M+phk5vVQlmD018wPMsSTKK1qE/ULAZ3NW5PV/YFQ5jIHz/m24O1UF0Me8zlocmId32Xr3TR+/SUYcWoO+gXbCkmUuA7JJS6PiUK6hej8AtYhCf6gz48HmRMBaQxHiGQuIweyz+Jf/QsExhrvrDB/EPd19Y8+KpDvBQ7cwE6U7gG0LAJRjjy9v5a2ny8E6H5WKZXViJnoXFkbZbqKS5UHqfGmpmE0NBRXLRHQGHNZCe6WiV8eZQzyKd1RTwH/kagwsamH1t42vnj6GRTZhQpwa/WWqIgLAMHYudxBdNYpiVp6x1bi6c6s5Cc2qzFpufF2Or+BtHpfulpPMZr46fgU7I8=;ZACWoKQTT+4kLoUFppDulA=="
+secured: "/AAvLwvFRS/6LsHSdWUtYUckwOCbF1uyFtlXOMy2vkjT0ijRt5XAAUvViXh2dof1h70AFYLZHXGTVtzi47Zk18jRH/+e1Kg9NVyNukql+J4GC9Cw+2B/pkvIiX+xKB3S9OXelwlXsSLOVqVnjgFmYNnEOBJieS3RQzIac1mUYLrC5VDhpd+Vu+B5mOFiHaCMwHaxnpWNaQIZVxWDGmxCTIhCFR+g8SlXQ08wcMuiqVFs6xFVrLLQufmHOSFDynenjFwQxst5HMs0bOoX5Ro8IGwyonZKWFW3mefBXZhQPZ1yeMKaRHfwItKAxFJtiLR+2AEAn3LZ8R9wE/5BICL4yGIzDpbgq0LmAZj0FkYWLLY=;ifWZCG+4dhCqt1kolr1APQ=="
 ---
 

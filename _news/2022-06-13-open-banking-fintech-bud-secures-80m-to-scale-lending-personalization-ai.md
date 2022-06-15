@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Revolutionising banking, biz scene with fintech solution"
+    excerpt: "Biz2X solutions not only reduce the operational expense but also accelerate lending growth by significantly improving client experience, reducing total turnaround time from 7-10 days to 48-72"
+    publishedDateTime: 2022-06-15T17:21:00Z
+    webUrl: "https://www.thehansindia.com/business/revolutionising-banking-biz-scene-with-fintech-solution-748864"
+    ampWebUrl: "https://www.thehansindia.com/amp/business/revolutionising-banking-biz-scene-with-fintech-solution-748864"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/revolutionising-banking-biz-scene-with-fintech-solution-748864"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://www.bizzbuzz.news/h-upload/2022/06/15/500x300_1546706-rohit-arora.jpg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels"
     excerpt: "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin."
     publishedDateTime: 2022-06-13T15:00:00Z
@@ -37,47 +53,40 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Vehicle shipping fintech RunBuggy secures series A funding"
-    excerpt: "Vehicle shipping fintech RunBuggy secured a series A funding round last week, bringing its total amount raised to $19 million. The cloud-native platform, which uses artificial intelligence (AI)- and machine learning (ML)-powered technology to connect car shippers and haulers with lenders,"
-    publishedDateTime: 2022-06-13T21:34:00Z
-    webUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/"
-    ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
-    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
+  - title: "World Bank’s Recognition to ‘Bangladesh’s Silent Economic Revolution’"
+    excerpt: "The World Bank recently released and catalogued an item named \"Unpacking the Silent Economic Revolution in Bangladesh\" under ‘the ICP (International Comparison Programme) publications 2022-21’ program on their website."
+    publishedDateTime: 2022-06-13T09:56:00Z
+    webUrl: "https://www.daily-sun.com/post/626143/World-Bank’s-Recognition-to-‘Bangladesh’s-Silent-Economic-Revolution’"
+    ampWebUrl: "https://www.daily-sun.com/amp/post/626143/World-Bankâ€™s-Recognition-to-â€˜Bangladeshâ€™s-Silent-Economic-Revolutionâ€™"
+    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/626143/World-Bankâ€™s-Recognition-to-â€˜Bangladeshâ€™s-Silent-Economic-Revolutionâ€™"
     type: article
     provider:
-      name: Auto Finance News
-      domain: autofinancenews.net
-    quality: 44
+      name: Daily Sun
+      domain: daily-sun.com
+    quality: 41
+  - title: "Huawei announces new Inventions revolutionising AI, 5G, and user experience"
+    excerpt: "Huawei announced a batch of key inventions as part of its biennial “Top Ten Inventions” Awards at the “Broadening the Innovation Landscape 2022” forum held at its Shenzhen headquarters.The award is designed to recognize inventions that could create ..."
+    publishedDateTime: 2022-06-12T23:41:00Z
+    webUrl: "https://island.lk/huawei-announces-new-inventions-revolutionising-ai-5g-and-user-experience/"
+    type: article
+    provider:
+      name: Island
+      domain: island.lk
+    quality: 35
     images:
-      - url: "https://www.autofinancenews.net/wp-content/uploads/2022/06/canstockphoto16061160-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "http://island.lk/wp-content/uploads/2022/05/huwaei-logo-700x504-1.jpg"
+        width: 650
+        height: 490
         isCached: true
-  - title: "Register for the BusinessTech Online FinTech Conference"
-    excerpt: "BusinessTech will hold its inaugural Online FinTech Conference on 20 July 2022. The BusinessTech Online FinTech Conference is an exclusive event for high-level banking, ICT, and F"
-    publishedDateTime: 2022-06-13T11:16:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
+  - title: "How Rep Leverages AI to Revolutionise e-Commerce"
+    excerpt: "Moving forward, the future of e-commerce consumer experience is AI-powered guided shopping. Aiming to revolutionise the e-commerce industry, Rep is a breakthrough AI-powered sales associate that streamlines the customer journey through data-driven insights."
+    publishedDateTime: 2022-06-13T14:15:00Z
+    webUrl: "https://www.retaildive.com/press-release/20220613-how-rep-leverages-ai-to-revolutionise-e-commerce/"
     type: article
     provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 24
-  - title: "The Regulatory Challenges of FinTech"
-    excerpt: "Scholar sketches the current regulatory landscape for financial technologies in the United States. New financial technologies are worth big bucks—but are regulators doing enough to oversee the massive risks posed by these new services and platforms while allowing for flexible innovation?"
-    publishedDateTime: 2022-06-14T04:01:00Z
-    webUrl: "https://www.theregreview.org/2022/06/14/moss-regulatory-challenges-of-fintech/"
-    type: article
-    provider:
-      name: theregreview
-      domain: theregreview.org
-    quality: 24
-    images:
-      - url: "https://www.theregreview.org/wp-content/uploads/2022/06/1297465792.jpg"
-        width: 800
-        height: 469
-        isCached: true
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 17
 
 secured: "+3lxysCbM06vFv9CLpKcLOYlQ/8Xuk4my8lPckbZe7mHjNTKmZcBFLq5Eztl29aQ/IXM2qJ49T4TaVWWmrT/XwlxK2zoWLCyqRILP7tl5b36BZ/Mv+hqum0tSFGdrVLA4DFMlxCe8wA/FYu9dncVwLRgVENaJaGgb7CpGTqaJzq0mtEDe4UImiVZkmgO+9dNxNw+38JXk25HodY6dScrP8ORhOSYf1KkX5HaTI4RUvO2p0/kcCHRMxgm6gEXvSyX2vgQwjB437W0IIGfJSKAJhH0z1gtospCBVkO8CrNHik8rcRLXjsFPHGEvTUgL0zfAvyjw0R3+W1qvg6qMlP1yf8Zof7sKnLEDw9UBmJlHTXSkNIycA5ewZobT7NHB42gY/u61Ym/r1W/I0+oXDjQO2qKWn+bh0/ohiUFQwTbqI5wxj7P3mKwTMe9E5k+yMGnDzq31XC1vFRxCtkyuP2OkwdMt6fP546sSOHd9parcNp+FrCmrnUzRU0jR9bTA8dkuRcBgHqexhLJzXKZdnMIaw==;0fufKAiy0fTx5aRlBipTgQ=="
 ---

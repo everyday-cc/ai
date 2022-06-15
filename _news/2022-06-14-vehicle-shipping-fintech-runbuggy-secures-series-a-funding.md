@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shi
 cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,57 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels"
-    excerpt: "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin."
-    publishedDateTime: 2022-06-13T15:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
+  - title: "AWS launches first UK FinTech accelerator"
+    excerpt: "Amazon Web Services (AWS) is launching a new FinTech accelerator in the UK aimed at supporting UK companies to build innovative solutions in the cloud. The tech giant’s cloud division said the AWS FinTech Accelerator is open for applications to UK startups specialising in: financial inclusion and sustainability,"
+    publishedDateTime: 2022-06-13T10:10:00Z
+    webUrl: "https://www.fstech.co.uk/fst/AWS_Launches_First_UK_FinTech_Accelerator.php"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
+      name: fstech.co.uk
+      domain: fstech.co.uk
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Vault-Safe-Open.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Open Banking Fintech Bud Secures $80M to Scale Lending, Personalization AI"
-    excerpt: "Bud, an Open Banking Fintech firm established in 2015, recently completed its Series B investment round totaling $80 million."
-    publishedDateTime: 2022-06-13T01:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
-  - title: "Register for the BusinessTech Online FinTech Conference"
-    excerpt: "BusinessTech will hold its inaugural Online FinTech Conference on 20 July 2022. The BusinessTech Online FinTech Conference is an exclusive event for high-level banking, ICT, and F"
-    publishedDateTime: 2022-06-13T11:16:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 24
-  - title: "The Regulatory Challenges of FinTech"
-    excerpt: "Scholar sketches the current regulatory landscape for financial technologies in the United States. New financial technologies are worth big bucks—but are regulators doing enough to oversee the massive risks posed by these new services and platforms while allowing for flexible innovation?"
-    publishedDateTime: 2022-06-14T04:01:00Z
-    webUrl: "https://www.theregreview.org/2022/06/14/moss-regulatory-challenges-of-fintech/"
-    type: article
-    provider:
-      name: theregreview
-      domain: theregreview.org
-    quality: 24
-    images:
-      - url: "https://www.theregreview.org/wp-content/uploads/2022/06/1297465792.jpg"
-        width: 800
-        height: 469
+      - url: "https://www.fstech.co.uk/fst/images/AmazonLogo_Web.jpg"
+        width: 510
+        height: 203
         isCached: true
 
 secured: "rXtqJsOc9zW+XvI/GWdTjxTVKl52TsnbD4jkaOTeaqKIih+mBz14SpnuMDmr0EB5t5K7EFxOc98Jvebfp31N9UKVP+wkSc3GJBmL6k4cNQE+JIA+qvdJtmPKXviE0vewo+uEJ2o2hvDXtzB4TPAnaeN9hj7M/7bHpS3L1CqIOYIk80Bu8dzQkUMrmnYBY4tjtp9gBjADiutB90EM2ijct9B99F47TPjww/pX6F6KO+zRoEyYdlXD9BNnDnoyo1Rp6FuAgMqEKnz8ciqnYJh1WMPFHSZKErxJGTqhzqCfyfwdGEov9jLBH3qR1dsySqXSxrMXbGDpwBjc0MbCY6Ynim4qjYJmlsGxu2g0cqOYg4pGupQV/TVPN+stMoStjnq7JGApz8etdEWigdROsm8SrSVH0iXcGdL4hA7DLehb4lhkts3GLCyUJ0StQuWzGIJ9edaqUQaUbdI0Qcl9+btxjMyH1yXHzPJm24rQoDHmWgqqVlwVUzzRHcexKiz+pG0lXAQm5oMgiCF5PqchmFhd3Q==;Tk7TFlFUALnLaNOkwZ3uFg=="

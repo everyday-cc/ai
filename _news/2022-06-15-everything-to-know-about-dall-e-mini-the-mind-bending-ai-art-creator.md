@@ -41,20 +41,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 105
-  - title: "Government, We Need to Talk About AI"
-    excerpt: "The Federal Government is already arriving late to the international table. Regulation of AI needs to be prioritised and inaction is not an option."
-    publishedDateTime: 2022-06-11T00:11:00Z
-    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/government-we-need-to-talk-about-ai/"
-    type: article
-    provider:
-      name: Australian Institute of International Affairs
-      domain: internationalaffairs.org.au
-    quality: 37
-    images:
-      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2022/06/42271822770_927eb47fe0_o-1-1.jpg"
-        width: 1312
-        height: 677
-        isCached: true
   - title: "Why You Need an AI Ethics Committee"
     excerpt: "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ..."
     publishedDateTime: 2022-06-13T18:36:00Z

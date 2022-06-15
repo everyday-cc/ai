@@ -2,27 +2,25 @@
 category: news
 title: "Task force to assess use of facial recognition by Colorado law enforcement, government"
 excerpt: "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado."
-publishedDateTime: 2022-06-09T23:00:00Z
-originalUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
-webUrl: "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html"
-ampWebUrl: "https://gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html"
-cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html"
+publishedDateTime: 2022-06-09T21:51:00Z
+originalUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
+webUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
 type: article
 
 provider:
-  name: The Gazette
-  domain: gazette.com
+  name: The Colorado Statesman
+  domain: coloradopolitics.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/b6/eb6ce6f0-cd9b-11ec-bbfd-6fc9d1720af4/6275bc4be3408.image.jpg?resize=1024%2C642"
-    width: 1024
-    height: 642
+  - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "nxYYAArSWtczxz72uBuvcRdQ5wasPAswCG2mzWbmNv4xnMxSeS8GO+Bo+Nnjd/LV1oNqI1EUMHmD+izZpNxc7aQmAoornWdmAs8wsQ4xw4PQjOfb5mUaRGRvSSyKTe7mPwsxtEP773bo8fOWqQeIaIt9IRXQ21t0I1W4piGxVrE/JWcca2/OpihKupvtaSSbSnrMhQ+NkExYGUXhn7EtsnRwEomJfVj7DHsL9OpjtBNgwZ6prDlLRr8LPLfZA2ZanxXyuHo9ef2sNreyOBaq+MDdHgZTFhiv3kXIs6q+ax7wNAViDxT+QVLHllUfRTAfYRFlAwbdmLNeCie56aPMkiHDwEYnq59tLirKZnmx07Y=;OfD3SP0aY93IKIGljLbTgg=="
+secured: "Ae9g2lUdT6HWJpiZC23Yp7I5VTWvJCGWB8XPWSiVcBDJ2AH+UmvVE4UWepIjFGQBg399/K3pGvhanhK6el2JXrPIWPptGFTZD3GKFuRN+HL22hVscqBMnxRz9UDGbD/gYM/0nRZPDFrRphbeZbughiJYu/FslIrNcLsALA9fj7+fuL77Vql1s9ewMuZk6CDhvobBGD5madtfOcHVixZQDPotXhGN4nlVZkJzEviijghsmUicMcmrQEghlXNXvEWSslGZPkLnrbfwh8ZOhifHen4Ys8IjxsZoeAGykHngsTpSvG2mShgSVluQS0RSxLB77gOm7TdSr/DLSMSnY6KuhTQy5zIATW0lcjJvSH85Wx0=;MDljGvGbd2ueJNlLgm10jQ=="
 ---
 

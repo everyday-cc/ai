@@ -7,7 +7,7 @@ originalUrl: "https://www.fstech.co.uk/fst/AWS_Launches_First_UK_FinTech_Acceler
 webUrl: "https://www.fstech.co.uk/fst/AWS_Launches_First_UK_FinTech_Accelerator.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 510
     height: 203
     isCached: true
+
+related:
+  - title: "Vehicle shipping fintech RunBuggy secures series A funding"
+    excerpt: "Vehicle shipping fintech RunBuggy secured a series A funding round last week, bringing its total amount raised to $19 million. The cloud-native platform, which uses artificial intelligence (AI)- and machine learning (ML)-powered technology to connect car shippers and haulers with lenders,"
+    publishedDateTime: 2022-06-13T21:34:00Z
+    webUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/"
+    ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
+    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
+    type: article
+    provider:
+      name: Auto Finance News
+      domain: autofinancenews.net
+    quality: 44
+    images:
+      - url: "https://www.autofinancenews.net/wp-content/uploads/2022/06/canstockphoto16061160-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
 
 secured: "8cgILTeEW11MK7VuamPQt/xJ3HSPU6y+TZWBAFBqRUetFryKFg8F7eBp0xLArZT1necPb+4ory5EtvT0fYLfmNFjMvhDK0mJLdBCm4WMHmKx/Uo6mR9GCxZ3sy79lyNaubIBG3AB+KAlJ8vj0P7xSwKPNe211GilhoVPT/sa9S5drvrUF9+wrE+EMfEH7zSuiWzwHwvIQjMYiagv9Uc1tJsi8RuD0czHUCO8OcFo/d0pIyJ3WK6fhpKrouzcKgy/023yeU5nrdNOtR9Ab8Je/r5Y7KlhMtJumAjJPe7EBGIqtQ4N8OoJtCHiptQh2CMIqvARVsp0xs8G0MXxqT8vsIuptUuAeXGyu2W1ZxFZf0ksmckW419BKSsVLAycFa1HKKRTH9PHKFJIABHpM/2n9MTJ88PiVMq3l6/9D0G3ATChYXHEQkOBKTKIMFb3fmnMTIDStFfVIM+yzd3ZcE/XkckMSa2sFD+1wZbESTqWcCzvfuRPIEBZEKb9ED2hfrkWu1o5vDzz8uPnFs2juQuMPA==;KIwKbD1htjjK9SunggNn7Q=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-r
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
 type: article
-quality: 70
-heat: 150
+quality: 72
+heat: 152
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//6282b4794ea6e86efd7eea24/0x0.jpg?format=jpg&crop=1534,862,x0,y79,safe&width=1200"
@@ -131,6 +132,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "z2sbDBj9pRokM31hTkpMT0FuEeEW/x/Ol5XxXCNge0W3e7qwswl6OsoX/nsw3o6KYIwtOSSOpAvzyy7WHbUwQ4hyQPpMy0u8vr0lnxpKy4NWyUnmi6WJKWkyUws+2omOiStH+INYtr1LJQ2g1+QXSNu/PejCYCxXXv+FE9mPNDcEK5Fr35LXkIbKbAWIv1PD1ORseng/zp4EynsIRKZFCqm+4QF3lLFTUZMg4MQHb//VxeTEKsrbmIxEYiOwwuQXygCATccus6f8+pRWDHEXAgdspbAWqBfNjPgZql5u1wcDL+gRPAwCEhvGx3ICglTy2FjPf666ppnbuU2bFlG1F4fds6E9ZdET2Qv8G31Lg2I=;M4CIe119yXv1wEL+SULrIA=="
+secured: "Dc6zQI015Ay2HGtOYVQM2uYs7RKubiMyLnUpVEaFIVKJDtW0jgs9OCCUzn7P3nMoFe1+HIynKXbWw378b7xNyRJcST757qJiTUgcQnYAeJkSzvDDdxdKtlF9HjxDrdsnqHK5N+4sVuQXUbEJ+5RwAnwoPsK7utXJ/omjK1Z5CujKoUauTcHbMriKRj0xoaHCEQYLYVFZVik1gRgo5VZKNs3ObxOn4rIeKVVYZtBCdbSuvxYmusO4qs0ZRr3ijj9sSG2Req/Pt8sDj53+ejSK3RrypZvr1Lr9Y1WbcXe2sPIKVbRPxMlVDvv9uE5QcXuc8bvQDdeX8BB1lPYfAgJuZQFUxoSIcXQnEligsR+jgKkOPaWAflKv3Wt1PduNHnaRPFc4A+9ZCExqGN9os7M44lZ09zeayB2hMVOItvVXdEteE/+mvPPFN4zU524Pd+GjEF2qMFUhec35rZvQfVX33RMaMGtlL/MHPvjJrYQfWmCNt/X0qsIzdV8yLcYql26rkajF7YC/hCpcoAXcZIcVTg==;43DiCG8vztJxGv3rlOGC9g=="
 ---
 

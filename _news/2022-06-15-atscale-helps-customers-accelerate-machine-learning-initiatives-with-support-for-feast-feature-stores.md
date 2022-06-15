@@ -2,22 +2,28 @@
 category: news
 title: "AtScale Helps Customers Accelerate Machine Learning Initiatives With Support for Feast Feature Stores"
 excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced that it has added support for the Feast feature store. Feast is an open-source feature store gaining rapid adoption in the enterprise data science community."
-publishedDateTime: 2022-06-14T22:42:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores"
+publishedDateTime: 2022-06-14T20:42:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-fa06b415476a4e1784246bc092b3ace3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-fa06b415476a4e1784246bc092b3ace3"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "+OjGCkPgPTXw7XKInKocl+7WDcY2U9giHXyI+5QiT8JMGkfLoTIQ5WPdnS+Ra5naCBg6FjZMs3mgajVTI/KX76JOgQK6GwJiUYSSmiNUXc6BZa35rInBAtdT/OFO8NCHUcdthWrCg2uHnYh3M17DcezJFcj9KXPuSQJtXznrpakPLsYm+0yjn4uwqDCxci1YGFjeZtmdcufgr36LbYKAdGvlDUtJxXSo4cHM/op8trd+hmHQSWHU1UxZwSimuNEo2IwNCfjiMw7L8S81btA+Rx7WSplDlCqn7lgxfCFkrcgnZaBIQ0s5LhB3xYMsszdNTT8pmOykFmFOE+OlZMtDMSR/4QV6tV1yfFZm8xnXtbc=;ngx5xFRLBGyFO7wNqKHK1w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "pysfRCuq0P076f6JG5no2co860Wt9E1JcxJVCW6lFQO/T3VyPSVjWO5LyTdJvPLX3kKLH5LxYWsW3VOyYszAvvXOJaQW4E095cSm5ZGDKQ2Gz17R4m/qmJdgNWEQJwVjZND00AqcT4PYxMGemlyEuYEfbepnEQ/tGt6WAWxVVCxZ1atyUUUsaR/sLIPswpmi60WwefysM1mBBDBCmKZKwwGcPleO1AEhbQzT4XxtpC4hTDn4x/aGa1knzPksZLb+9Km59QmAOnfYE/r88/MbiFkbvGlP3fAHCx4SrvgeHOdlyRQFhsuPCnm5/2+N6RBpOE6pfx2N99euERDFdI1q54bV+oikBTMTVrvat5cI2yo=;JwzRoFwQyoh+dkbXwMBtkg=="
 ---
 

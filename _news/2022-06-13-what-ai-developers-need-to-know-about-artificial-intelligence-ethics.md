@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Government, We Need to Talk About AI"
-    excerpt: "The Federal Government is already arriving late to the international table. Regulation of AI needs to be prioritised and inaction is not an option."
-    publishedDateTime: 2022-06-11T00:11:00Z
-    webUrl: "https://www.internationalaffairs.org.au/australianoutlook/government-we-need-to-talk-about-ai/"
-    type: article
-    provider:
-      name: Australian Institute of International Affairs
-      domain: internationalaffairs.org.au
-    quality: 37
-    images:
-      - url: "https://www.internationalaffairs.org.au/wp-content/uploads/2022/06/42271822770_927eb47fe0_o-1-1.jpg"
-        width: 1312
-        height: 677
         isCached: true
   - title: "Why You Need an AI Ethics Committee"
     excerpt: "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ..."

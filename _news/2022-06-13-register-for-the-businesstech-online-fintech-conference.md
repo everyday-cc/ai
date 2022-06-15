@@ -21,48 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels"
-    excerpt: "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin."
-    publishedDateTime: 2022-06-13T15:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
+  - title: "Rajalakshmi School of Business offers course on fintech"
+    excerpt: "With fintech emerging as a fast-growing sector, the Rajalakshmi School of Business (RSB), a part of the Chennai-based Rajalakshmi Institutions, will offer fintech courses in a full-stream learning mode."
+    publishedDateTime: 2022-06-11T04:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Vault-Safe-Open.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Open Banking Fintech Bud Secures $80M to Scale Lending, Personalization AI"
-    excerpt: "Bud, an Open Banking Fintech firm established in 2015, recently completed its Series B investment round totaling $80 million."
-    publishedDateTime: 2022-06-13T01:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
-  - title: "Vehicle shipping fintech RunBuggy secures series A funding"
-    excerpt: "Vehicle shipping fintech RunBuggy secured a series A funding round last week, bringing its total amount raised to $19 million. The cloud-native platform, which uses artificial intelligence (AI)- and machine learning (ML)-powered technology to connect car shippers and haulers with lenders,"
-    publishedDateTime: 2022-06-13T21:34:00Z
-    webUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/"
-    ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
-    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
-    type: article
-    provider:
-      name: Auto Finance News
-      domain: autofinancenews.net
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 44
     images:
-      - url: "https://www.autofinancenews.net/wp-content/uploads/2022/06/canstockphoto16061160-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://www.thehindubusinessline.com/incoming/9zohnn/article65516797.ece/alternates/LANDSCAPE_615/fintech.jpg"
+        width: 615
+        height: 383
         isCached: true
   - title: "The Regulatory Challenges of FinTech"
     excerpt: "Scholar sketches the current regulatory landscape for financial technologies in the United States. New financial technologies are worth big bucks—but are regulators doing enough to oversee the massive risks posed by these new services and platforms while allowing for flexible innovation?"
