@@ -6,41 +6,15 @@ publishedDateTime: 2022-06-14T16:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-3e70ccff31b34d8390a8e84706fb9631"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-3e70ccff31b34d8390a8e84706fb9631"
 type: article
-quality: 50
-heat: 60
-published: false
 
 provider:
   name: Associated Press
   domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Datatonic Wins Google Cloud Specialization Partner of the Year Award for Machine Learning"
-    excerpt: "Datatonic, a leader for Data + AI consulting on Google Cloud, today announced it has received the 2021 Google Cloud Specialization Partner"
-    publishedDateTime: 2022-06-14T16:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/datatonic-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning-803036432.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1839415/Datatonic_Logo.jpg?p=facebook"
-        width: 1520
-        height: 796
-        isCached: true
-
-secured: "WBnoAFrZNVKvtRTpM/UzBpMoAIWLLX3Stgu9ar7+DsmnNyDUT75Di16gzNg6ii0EbsOox89sr/xTYPr9yqR4l/Dhulz1g9xD4FXQvVM0+s7Onle4E7eCjIfWs3rohJBgjVnUbqZEtFpuPq+rNJnBzOB+W8a5g/fpHwXeLyXby9ylmOjRjst8lORSXg7QNqWdoVcC6YpZXFz0CbhK0DQpLRct6MDQGLanLlftad8vp7zV1nD4Ue5iLeolF2I/FOyrswMIUrOD3IKf4aIlL2APESnmkj2SSCB2T27lqOxS5fmFqBgZzuuXfPYVuzbsEOFQ5bsB1+9go9w0EWcOdlrdy1xT1T8/P9uHq9Fi3uONI2A=;zzCNvicK10BaLtNKm27r7Q=="
+secured: "8FyEd99I4cM+pyq4oiEmF2XKJCb/o4Y8y1lazFlxL4i0fnEcLnGCADIrJK3gw4aG1d9NrkJkJk06dBPLcVY7vn63Jo5EJL/e4NJtH8HwS31aRrupy25cQLkpi03U+Y04qTgCJuAh8NKpWeFu5ZeEKuGMPCBmsRvVU4eMEAajLIqR0RAESxJKLvfPT5U2UqAppY6ARzEe0paChYscJ0D/GSQBWOAfPMSAeXgAxD9Nf5D7G0sOEW6S7+Jiamnk75ej9NCN1+MOSqk4K4QwxoxdU6QTJZiNP0BkFzUmqBAHPARtwBWTfasb0NF6jXBxFvdcaQDZomKBiKxT0kAPaBq3Z7lUtC/6I0xfXRFtIM3J5l8=;OnT7sqP1qqhmEEZmJJgMkg=="
 ---
 
