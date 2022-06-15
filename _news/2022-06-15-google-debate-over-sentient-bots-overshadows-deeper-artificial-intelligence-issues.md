@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence issues"
-excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI can achieve consciousness. Researchers say it’s ..."
-publishedDateTime: 2022-06-14T23:31:00Z
-originalUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues-2/"
-webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues-2/"
-ampWebUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues-2/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues-2/amp/"
+title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
+excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
+publishedDateTime: 2022-06-14T21:12:00Z
+originalUrl: "https://www.pe.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
+webUrl: "https://www.pe.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
+ampWebUrl: "https://www.pe.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: The Press-Enterprise
+  domain: pe.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17-1.jpg?w=1024&h=682"
+  - url: "https://www.pe.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
     width: 1024
     height: 682
     isCached: true
@@ -431,6 +431,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
+    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
+    publishedDateTime: 2022-06-14T20:20:00Z
+    webUrl: "https://abc7chicago.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    ampWebUrl: "https://abc7chicago.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
     excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"
     publishedDateTime: 2022-06-13T02:36:00Z
@@ -773,6 +789,6 @@ related:
       domain: hothardware.com
     quality: 12
 
-secured: "GVoxvlVrgUenseMQaBB/xdCCXMysla7X7wIKzMFGmlq/xuygN6uL/gm2g7u2ZTKDSNM4TZcD+zxSHk2Km8hn9CBprb83w995cAEOM6PwCOPT4M8WTNgOzftNej1H1YDf9ByVY1vak/yuCt10h5SsPoXu507oLqBsEDoEA4hfJA9mNaE3SXHMf1csYh+zavhkifUm9sgk2PM2a3SBlVSit8xSePe1jilGR1zFBP2FOM3XLB4tJ8zoKQt0uc9PwA8bGdKi7IkRj2/8Rj4cEMZma994mFnHH17o6buatPD4dTj9bcFB8Hl/q5MP7vO90nKU08jrPUzCIOF6gce8btp1rdn6lSimijrCiMCR8WirG7Y=;ER95v4/PdBIO1ttPeRT4NQ=="
+secured: "LXzZ3EJbuvsRGkxrK/LPJuM94jrDnql8+yR7v82xOV8FMEXz/5myTMo+LQvSlyC3OK/sRSSXzHEDMDZPsMTwjOFoyGjL8eewe6K0TJM6/BrUr2lBlBWzqVMOiW+M3J0RNOpOsmLSvjvEYeJ2jSsdQCT/BuQZ9jHOWaFrsaLSfklpFG8cLsSBjLmYgdOVZ3DVXSMnRxVRnNZQaURNipaPfeG0bUuHKawdM3OWysNLR41NnWHn47y2FEO54RgsoKmGTghRToivUTsGqEVsE5Vrroi/DJb7cJnhM1aWYHxzxQNnvxfZoWr4lDlc7vJUyZiiyfxN1KqHb0e2qjg5EH7bq1X1/meJ36fZbQjxD3584Jo=;ogpwFE8zc6s53JZwAeUoHA=="
 ---
 

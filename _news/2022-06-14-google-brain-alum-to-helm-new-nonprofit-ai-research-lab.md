@@ -5,10 +5,12 @@ excerpt: "a startup creating large language models to rival those from OpenAI an
 publishedDateTime: 2022-06-14T13:17:00Z
 originalUrl: "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/"
 webUrl: "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/"
+ampWebUrl: "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/06/sarasedits-3-e1655168633102.jpg?fit=450%2C600&strip=all"
+    width: 450
+    height: 342
+    isCached: true
 
 related:
   - title: "AI startup Cohere launches a nonprofit research lab"
@@ -32,6 +41,6 @@ related:
       domain: techcrunch.com
     quality: 49
 
-secured: "DwgyHPxC/UmWWlTLaM3kSHoPXuEuy1TXoIO2gCUbrC7Nn5UgrNkzhWYKJshjMaXPxHGEmAylyz4z/OqCFewGVPZNzN7awpBS0yhPkvVES2KJF6yxJHGAA45QPDKEDQE534FmQL8/KxCvMsGciQtH7+HP8nCb3hUzg3BKo/yofXIWBYbJRsQy6g2H4WY57iaBZD+CxFMpzvF0JIfT5LriaiGc65j1soSr99Np6oTj1ZKzVq4W/BFXz8iZwj9HtVoA37nh/1T1WDOB2OeGFZGqDO8W3k9hREu+4Yt3QqOqmxB6hR6mtcbAeq1Xc8WPWhGezTvoWsvq4Mgc7f3EvFFXsnOscrAto0sksGnhWFfHD60GfWdvSFjEq+U5cAqNgIKVxu0j7upnjE2kC1VU7ZY5jiX59gj6Ol5zqjFFKVhTvTjsCymreaAxb4Yrix04q0SNB1Yvp6tJANzOQGcqDkUALdTUX6EyMU+FwGni83yRadxhb7fYjpkSLnVrSxotzTGYecompZiXDkXtAwk4YgzJQg==;w1KDDODnyRlKANP0cE2Auw=="
+secured: "/FuKQ47Sub6NqwuLmohtumuktV6J8nbJO1qJ8sBIDz6092xMwm8Ky676qLhulYlvarhksxIKzZPAy8cQ/v23sOil7k3+Hsv5fzwE0G0sNgSktV+M409kwKHa1/Mf00loFwD5cqSIA9hnni0z0I2N6Tq6CvhL0aKikQVO1DrunmYbOQGxy7g87o5CxIfuMtDypADQgbbfEGlRrwTSRE8ZPuPDw6JXfxsVqGQ3/zjek0L3WyaFze2n/fyA/13fBPsi6ksoSyHBmR5Vd3hmz2urnm8c0nuy43n0JE/HIP2/EBZg8EYqE8vS7pQym4OgqPBorUjx8k83UirSG/MGyAouo4pLaGylqSSz4vgh+tLhPSo=;EmkJHGZPCIUz1Yw5Qj0D8g=="
 ---
 

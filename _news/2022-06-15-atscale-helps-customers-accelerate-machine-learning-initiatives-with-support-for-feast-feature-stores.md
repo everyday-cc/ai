@@ -1,31 +1,29 @@
 ---
 category: news
 title: "AtScale Helps Customers Accelerate Machine Learning Initiatives With Support for Feast Feature Stores"
-excerpt: "Machine learning (ML) models are only as good as the data that fuels them. AI/ML projects are too often impeded or delayed due to inaccurate data or siloed data pipelines by users. Generating features is also a difficult and time-consuming task ..."
-publishedDateTime: 2022-06-14T22:19:00Z
-originalUrl: "https://www.01net.it/atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores/"
-webUrl: "https://www.01net.it/atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores/"
-ampWebUrl: "https://www.01net.it/atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores/amp/"
+excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced that it has added support for the Feast feature store. Feast is an open-source feature store gaining rapid adoption in the enterprise data science community."
+publishedDateTime: 2022-06-14T20:42:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-fa06b415476a4e1784246bc092b3ace3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-fa06b415476a4e1784246bc092b3ace3"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "2sgsR5UMzV9+dXhT8TZifuTcIJyQVB7WL9KiA3xK8f7uu1nKc7edxJxyUmQK0tSdFDKZz41SjVUa6JmEd2qIZUzkh+0pSFOhQn0sDSqH6qtaQAve66IUJu5/i3c0TQbdyIvvqYCIWa490z1YrpC/+j7F5/3PwxHkTG+ORZ+GPPVhosyX96Alp9fQjiwsbESKwXNywZPUswqa58JczCzqEgZ0pyNlMN3kRu3J9Cp2YF9AKzQ4bkg1Dtzvpl6QMzC7+F/TkQM3Dys79X7hXt+6EwPD+9QMObynQYvtCwWGT0B4gPczLSO/vYwAPS5gQl4rWSxMCzCqIfLFMVwxt4YPrAAxXKGOniPDFxgX+u7RfbM=;7NATyGGDxZK8ezpUbxvYaQ=="
+secured: "BxyRMWQHGTKfguxPXFmV01+lLDMQb+wZL/9AfTb9yGeOs2xhvLN0+qA+Tr6uqUY/YKr29Hpn6qfLN6AQbdA1vv+9+1j5e5LnZ/GB5I7zHd/KmdDkLFfAshEF2UZ+IJg1LvZlV470H7rVh8drKZMX0ncqG9L0DjTc2PWMGcGP1xTb7Swh3aT8ns0u7m+NsoJKXUaLAQawG9tCjTT1ufJF4waYmSJxkPPpoyMT+kkWXlnnaQ3eNKEPxZAMVsNF72CESyG14dQx+2mkhw3wBhKjGeVZnNEt7IffvoxZ38MXEkkRBgrPEzWqlHDQbwUtjYq9shu0eu4dRec/3bIe9/iy81XHT+fSr2b71G4jWEUM2uY=;w9rZMDq6THnI8Xak9639gA=="
 ---
 

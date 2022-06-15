@@ -8,7 +8,7 @@ webUrl: "https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine
 ampWebUrl: "https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/amp"
 type: article
-quality: 87
+quality: 91
 heat: -1
 published: false
 
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/62a90cf2741a6aeef4686dbf/master/pass/LaMDA-Sentient-AI-Trap-Google-Business-1330829968.jpg"
@@ -198,6 +200,6 @@ related:
       domain: rnz.co.nz
     quality: 17
 
-secured: "o1Av8UrVn81s51OLaTYqlRtYoyo4HgYIXZzHZtbmZ78znv++F4/2mIvIkGggkmyXNVjuWJ7imvDmE3xbSD8saDellDfoucQxgnUbQpSiEiAPS+DRHw107lshqfcfb/pTVW7yI4seJrHAGuJY9jD31vXjh24WqhVw0qSR/YSpc8ATbHPvb7mN5OdPm26igOhr+Jo6a+iigvh4pEl7qoAlpkXa2zj5EYxmSkzeL8BSkZ+szUJtjpOBF/bpKoITAkEVfiLawRphvPQ5Ozm0mm/CvPA6zZ+9h0fNZ2PJRehOuCMSTPL+lAg613ApwMxMQWiKtRGj5nDBzhAWDP0y6kWlBLSA1iMAvgewzrZRzGs7DqY=;VaPmS4UmvK60iB0SPza/rg=="
+secured: "8z6EGVFpHWf/SkWqOA/4yJTgH09W+dtuLoVaUfEl17A7ajRMBSEykMi0o4BmNXXRXi9CZs+U2HZ8akGsOmFLUTuzVAw7LS5MNhkS0HrNiiuR5Ry+zb9HFXVYpfDW3/gN6IcFaaYF6BBPq/Jur2p5Vzw+g5uMEnNvFT+tLyY2RJIYYLGUOoIWyXOb+QsjTeTstQZX8YGwyLeh8I4Qs5wg17Cf7GelCc8PVjIGqf5ICcvfJfOOVtAbtGQ0H2Lewlzwygfvad2ad26C49U1F9anCPuFup5QmX76qwF/ZtVK+sSZ4eSmBJwlDb/YVQFNVz9mJq8F46yFyOMWQpKAqeAzV7MX5K4JiGbmDCX3yHspnDTbwPQHCOsNW6bywk8xfH4h1opEQeblIm0CFMft5KBtG/yhIozSBvNXqrPWkxHkFwsHOB/Pxf36k+tdWrrqV5QIZc+kbDG6H1+/sp0ECRcZ5C24AIgxpBx5rmygFBDMfXS7AuvXEiQ5ieeTR1grACzclzunjQAivAkwBlfb93KPuA==;M6o1MltcYePBX+oocdQYmg=="
 ---
 

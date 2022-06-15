@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Stats Perform To Launch Opta Vision"
-    excerpt: "Opta Vision represents a new generation of deeper sports data. By combining Stats Perform's industry leading Opta event data with tracking data to create a single, merged dataset,"
-    publishedDateTime: 2022-06-10T08:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/stats-perform-to-launch-opta-vision/article_d5c546b7-2e6b-5434-b9df-3453d0470c5d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
   - title: "Stats Perform rolls out Opta Vision metrics to boost soccer data offering"
     excerpt: "Stats Perform's new merged dataset featuring Opta Vision metrics will generate live insights for topflight European soccer leagues."
     publishedDateTime: 2022-06-13T12:18:00Z

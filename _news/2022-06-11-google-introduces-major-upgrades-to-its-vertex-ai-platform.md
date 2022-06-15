@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-major-upgra
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: enterprisetalk
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google has added additional capabilities to Vertex, its managed artificial intelligence service"
-    excerpt: "Google unveiled the Vertex AI service, a platform that helps organisations install artificial intelligence models more quickly. This morning, Google released new features for Vertex to commemorate the service’s one-year anniversary and kick off its Applied ML Summit."
-    publishedDateTime: 2022-06-10T08:17:00Z
-    webUrl: "https://bestgamingpro.com/google-has-added-additional-capabilities-to-vertex-its-managed-artificial-intelligence-service/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 27
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-expands-Vertex-its-managed-AI-service-with-new-features.png"
-        width: 600
-        height: 365
-        isCached: true
   - title: "Pure Storage upgrades AI platform built on Nvidia DGX systems"
     excerpt: "Pure Storage announced updates to its AIRI//S line of AI-ready infrastructure, which it co-developed with Nvidia. The two vendors launched AIRI in 2018, claiming it was the first AI-oriented reference architecture that simplified the process of building an AI infrastructure by connecting compute with storage."
     publishedDateTime: 2022-06-13T13:50:00Z

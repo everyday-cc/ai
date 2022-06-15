@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK"
+    excerpt: "Relocating its global headquarters to London, Ecolibrium has raised $5m in a pre-Series A funding round as it looks to expand its international footprint to the UK"
+    publishedDateTime: 2022-06-15T01:47:00Z
+    webUrl: "https://www.livemint.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-11655215035524.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 37
+    images:
+      - url: "https://images.livemint.com/img/2022/06/14/600x338/20220614_183609_0000_1655215992344_1655215999373.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Ecolibrium brings Machine-learning Decarbonisation Platform to the UK"
     excerpt: "Company brings together data from Internet of Things devices to provide businesses with a 'blueprint' for sustainable operations"
     publishedDateTime: 2022-06-13T12:18:00Z

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AWS announces opportunity in ML for students in higher education institutions in India"
+    excerpt: "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on WhatsApp (Opens in new window) The AWS DeepRacer Student League will consist of ..."
+    publishedDateTime: 2022-06-13T08:34:00Z
+    webUrl: "https://www.financialexpress.com/education-2/aws-announces-opportunity-in-ml-for-students-in-higher-education-institutions-in-india/2558720/"
+    ampWebUrl: "https://www.financialexpress.com/education-2/aws-announces-opportunity-in-ml-for-students-in-higher-education-institutions-in-india/2558720/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/aws-announces-opportunity-in-ml-for-students-in-higher-education-institutions-in-india/2558720/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 85
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/CUET-5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Q4n3sbPWmQBQuJNYtzDphgK1oFkPuGwbSejWuZO2HjP487OjMUNWtUTH4+P/yn9dBUXxMsGszOSsDrhJ4PHN4nh7YyJ0nBt8tucHpR3/nep+uC6cG9LGeXBlEirNPIacZ/CjRBwQvemEzQhIFqMyDG5e2l25f+SlKE1JMISXZZkdZ6grmQR4Pnw/5XtXYmdkiEMf1bKArx6i0shbEbSOsqr6DEENuVNraghOYSnaQ1+8bBhMzWtR/c1EcE+vbW1xR76/1jyGbZCxeKg4Kq+bAhO1xrR6290zMo2rZDmijvICuK6YmcMouXJ9UaEIF529AHbT20/WQzEl1Uhtv4ivPbKthq7sEccnM/S+n3WJHGM=;YIdDZvJwcK8f8fuC1l5Z8Q=="
 ---

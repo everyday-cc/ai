@@ -35,20 +35,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Google has added additional capabilities to Vertex, its managed artificial intelligence service"
-    excerpt: "Google unveiled the Vertex AI service, a platform that helps organisations install artificial intelligence models more quickly. This morning, Google released new features for Vertex to commemorate the service’s one-year anniversary and kick off its Applied ML Summit."
-    publishedDateTime: 2022-06-10T08:17:00Z
-    webUrl: "https://bestgamingpro.com/google-has-added-additional-capabilities-to-vertex-its-managed-artificial-intelligence-service/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 27
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-expands-Vertex-its-managed-AI-service-with-new-features.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "iahe9L95DylF3hgGym5WnFrqdbigQBZwmvnYZwH2CsRXToywqH22jeazFtbmnFqjbSHfb0xSrF2Jwt5oHc/1iqjFM+4ik+h+hndP7AcraDs/5NlFbXM0Cnio1eKJB1FBRVt3ApM3DAoP3trk/flFYoCbp46a06yDMiBZ/SJN8krCsswsy3zK4WJvUyZt37i5Y3S7xzS8gVUgkpzEB6Vyl+rAjZKN7AI0Qd8eL/DgouGJstz9KaKfWO9F/cTss6wY9VbE7ovqQeHhjpdpNkV0KcEAThQma4qAs01CbTyMYGloDmn3jptBj9Vfn5/iB07HWRmmS02LsGK/dSdOZ1EDimfmoBMLkw7QMbSognfWV9c=;iHXInFGRW/yCgvkIIYfCUA=="
 ---

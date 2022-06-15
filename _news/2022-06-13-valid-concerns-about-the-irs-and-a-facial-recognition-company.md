@@ -20,22 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "2 ASX companies busted for sneaky facial recognition on customers"
-    excerpt: "Three major retailers are accused of collecting the biometric data of everyone who walks through their doors without them knowing."
-    publishedDateTime: 2022-06-14T22:34:00Z
-    webUrl: "https://www.fool.com.au/2022/06/15/2-asx-companies-busted-for-sneaky-facial-recognition-on-customers/"
-    type: article
-    provider:
-      name: Motley Fool Australia
-      domain: fool.com.au
-    quality: 39
-    images:
-      - url: "https://www.fool.com.au/wp-content/uploads/2022/06/facial.jpg"
-        width: 2121
-        height: 1193
-        isCached: true
-
 secured: "mg4h64IyFpR1Oq8mRzkJs2vT/HMtGc+fM7miEPhqSSSFiw4LUf6dNS/AYoPQk8Dl+vpwSxgn7mGqFEUs5hBllrM1MA9d5ECbwsTWUNQjrpq1FCRSGZ4EysaUz75DtYIlk/+IcP7a0vMYT3Jac5lTobVZSx+lKha+jjdR+ygTufSmn+G1hkikDlvlbwzQwCOnjsPdqOD+TOOHZ6rw4Ub8w+1/cdCXxay7nLTp7+6y5kCu9mAgzoascmZ1+ilPgjvCvEJ+fSPOhbwNFatqdUsIAGqxB9hiAJmsllYl5azEXFTGiqgoVXfNv/GuI1LTdnqtyUrpUOfiupHSwpqwecE1D7CyRm1PUhfH4rfiCxQUt7iIXj/UBxOd3CSWjCIXPRKiwuWnxIxSNSAHwkcq1ttX0VtW4KH7ufAczNcEVjn50mCPAu+Uh2dS473f6hEZHYHnvfUrdeO1UPpOciIv4WiV83GZE+wuwY/Q/H/VUW0P4H5o/cIgQ8INXK6eQTLv6DXS6eOxcPe5i/G3ZND/x3skpA==;I1cWsUDYDO1HbNWube3WsQ=="
 ---
 

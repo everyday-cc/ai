@@ -49,15 +49,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence® Cerebrus™ Intelligent Chip Explorer is accelerating with new production deployments completed."
-    publishedDateTime: 2022-06-10T07:30:00Z
-    webUrl: "https://www.design-reuse.com/news/52118/cadence-cerebrus-intelligent-chip-explorer.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 3
 
 secured: "ptcxSONTezDSMZguEL/mLA8LH2gmdg0Tirz2LlxDYCdqQEaDTzpDjCfQnb/0zgFYGjJpjENJwgkjrWyfhZK5SJeN9fxM/1wSaEw/mmL28phIzRcoIm0YZ9HsDS2TGixYbOnHEJPz+v7tJVllHzI0OKgm3XwS/WPr/zp3UWz5Ayj5AQRrlNvX8Gn24GCPCx/j6QQ6x5RPACHzVkEnBlqtvKzo+VEsN8ZcOAQ6r+GXbWZRkxUHOuzuTW7Q3xFFOv+iJ+3gy2XvDWH7J6Tb5z1jx015mP6b0p8ItdwU1PVN8wbE5FJI3a+qM9Wzb99kdHky/BXCXosbsxv4CqAvV0hEd458i17msnFTdnbw7kwAQHU=;/bxyVprlts45Sm8zlNOQ5w=="
 ---

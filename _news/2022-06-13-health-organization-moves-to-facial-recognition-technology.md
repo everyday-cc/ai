@@ -55,19 +55,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kmart, Bunnings and The Good Guys using facial recognition technology in stores"
-    excerpt: "CHOICE has discovered three major retail outlets in Australia are using facial recognition technology and shoppers remain largely in the dark about the practice."
-    publishedDateTime: 2022-06-14T06:53:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/kmart-bunnings-and-the-good-guys-using-facial-recognition-technology-in-store"
+  - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
+    excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
+    publishedDateTime: 2022-06-14T23:53:00Z
+    webUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
+    ampWebUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-ktvq-com.cdn.ampproject.org/c/s/www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
     type: article
     provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 35
+      name: KTVQ
+      domain: ktvq.com
+    quality: 48
     images:
-      - url: "https://img.choice.com.au/-/media/905695f483e94e72bacbd1796f131d34.ashx"
-        width: 1200
-        height: 675
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/83e/b1fb2806e11149eb913b74193acbda23/83e737766c39482a8e8a7603b279eb13/poster_33d09d0878044f1fa18c0773b850d5b1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
     excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"

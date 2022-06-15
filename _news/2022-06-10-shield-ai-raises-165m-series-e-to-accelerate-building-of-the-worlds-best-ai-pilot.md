@@ -9,8 +9,8 @@ ampWebUrl: "https://www.suasnews.com/2022/06/shield-ai-raises-165m-series-e-to-a
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/06/shield-ai-raises-165m-series-e-to-accelerate-building-of-the-worlds-best-ai-pilot/?amp"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: SUAS News
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Shield AI Raises $165M in Series E Funding; Valued at USD2.3 Billion"
-    excerpt: "Shield AI, a San Diego, CA-based defense technology company building AI pilots for aircraft, raised $165M in Series E funding increasing the valuation to $2.3 billion"
-    publishedDateTime: 2022-06-10T08:30:00Z
-    webUrl: "https://www.finsmes.com/2022/06/shield-ai-raises-165m-in-series-e-funding-valued-at-usd2-3-billion.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/shield-ai.jpeg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Shield AI Secures $165M in Series E Funding Round for AI Pilot Development"
     excerpt: "Shield AI has secured $165 million in a round of Series E financing and will use the capital to advance the development of its artificial intelligence pilot for military and commercial aircraft. Venture funds including Riot Ventures,"
     publishedDateTime: 2022-06-10T09:55:00Z

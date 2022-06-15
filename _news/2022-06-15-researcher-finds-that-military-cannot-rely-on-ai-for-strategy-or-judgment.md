@@ -42,34 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How HR can mitigate the risks and reap the rewards of AI at work"
-    excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
-    publishedDateTime: 2022-06-10T08:31:00Z
-    webUrl: "https://www.personneltoday.com/hr/hr-artificial-intelligence-human-resources-ai-risks-recruitment-redundancy/"
-    type: article
-    provider:
-      name: Personnel Today
-      domain: personneltoday.com
-    quality: 37
-    images:
-      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2022/06/shutterstock_519499720.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "MCC: Climate research now looks at the carbon footprint of artificial intelligence"
-    excerpt: "“artificial intelligence” (AI), i.e. software based on adaptive algorithms for various purposes, from self-driving cars to automatic image recognition and translation tools to optimising logistic"
-    publishedDateTime: 2022-06-10T07:38:00Z
-    webUrl: "https://idw-online.de/de/news795330"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 33
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
 
 secured: "y3BEAQjOukPfuqLamL4dBKV8wpuJcQe92BG8jhv6or8iqq+abkKPg+SZqVb3zQef5I7lQWQ6Y0o5srACYLHOlM2zgRpP6r2zL/eK1PLaHIk05UERg0bzRJfww/Nj1c02aGHWB2kwdKWJFboLJc+jDNRYwX5brD2j4NjZp0AjCrI/AxdCu8PjFDekMmKQlM1/A0gDD3LTFiR+HqIR0vMQpsoOh33T3lCD07QDJSbSbVT8FnVaf0i0nePG1D2E/108z9vzQiqfcMC9fGGiwbDxsz417c1U+r1Qw50UD0KYYnl45FeIasKz3BRObElP6d55HOCaP+PgMdTFxJADhzJPVFja3loRiNG3aqoK7/gLMKl3/aFQUoNstJAAfRvUAVrjwoHFyniSHmuPbQDKG9hhCTRs5rwYZqyp/SrWWrkVVfRk5jVWrieZhtBezTPCZre1TTtBLG6RnqLOCnjWVp9qt0zoPEe4HlaelHKVvjRrGgdHIlpTT75oK1+wEGrEPNorfrkRvIbKP/ynUyxaBhHT2Q==;b/CLDCoXOofanwOar2Wztg=="
 ---

@@ -1,24 +1,30 @@
 ---
 category: news
 title: "The Qwak Machine Learning (ML) Production Platform Advantage"
-excerpt: "Businesses have recognized the latent power that lies in machine learning and AI technology. Consequently, they are investing heavily in ML and AI to gain a competitive edge in the new market. A BCG survey states that at least six out of ten businesses are developing algorithms and hiring data scientists in the ongoing machine learning and AI trend."
-publishedDateTime: 2022-06-14T00:03:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage"
+excerpt: "While there are other machine learning (ML) production platforms such as Amazon SageMaker, Vertex AI from Google, MLflow, and IBM Watson, Qwak's state-of-the-art features are a cut above the rest."
+publishedDateTime: 2022-06-14T02:17:00Z
+originalUrl: "https://menafn.com/1104369050/The-Qwak-Machine-Learning-ML-Production-Platform-Advantage"
+webUrl: "https://menafn.com/1104369050/The-Qwak-Machine-Learning-ML-Production-Platform-Advantage"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "Xfvu99rYoRfp9YlBFE6nTjIN/AfHx84uVHuOz51pOrlExWEBtgAe1rjS/IVssFFAzxH+0QCGkprhCT7RSPAKQmd3vE8W7fEuqiqTKrZPGrEMg0M1oDJZ+nKWdbRhgXD3jcX42USOkiZeNwKlKEPYI0WD0PMAkvM52oR+38pLTFwhYWuLFxjENqfl6boqBBmpV0/hEF7xBVymnm6YoAYn7+WbwtsyQfX9LAGth+YMOMDt2gxVGMURYcN1D2eWUqLdSTzGHtHGVRKSIp2x6MIodgQAngFczpOROqILUiRW2A1A5AAa9m/4afhoENow0GF4BnDrsxlNI1MSDGrMcLbDxDXtY85Sp1PmhgmjGw1rJw8=;P3tDTEzOMxGGUd5vSop37g=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?419407"
+    width: 443
+    height: 250
+    isCached: true
+
+secured: "2KQgOaVwIx7XMI6nMJ9/5tCMek8H0+E8JNtsu0IhP0cCuWzHLSyHFnyR1XkG8rf0dX61UMQHD6g4DIUjQjpEPVvayDEFeFIIUoEO2VlDt6onw2KjDCPveP+eK99EI5pKgrC/qSdyqJ4P0M4eIz4zaulEPmLHUqd5eLCiBHACNUX42xxmxY6/l3eDYvR/Ko2sRyqBNWgzrW9FMDGXkJGLzWbqpthr26U+wWpem/DI/oCcw7bsK5pnqC7nbiZ4OYi2Nk3cIN48AZW5ovHYYIF88b4SIVVj3Ctfd7PdpyM+vBgAMZNDmaZR8vSeDwuwOVCKFfct5PkePEPWE8cOHGS+uAQ2Qyrfswrx3XTY8a6K6tc=;cWFg0W/MJ7g1cl1ocb4f9Q=="
 ---
 

@@ -47,7 +47,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/62a90cf2741a6aeef4686dbf/master/pass/LaMDA-Sentient-AI-Trap-Google-Business-1330829968.jpg"
         width: 2400
