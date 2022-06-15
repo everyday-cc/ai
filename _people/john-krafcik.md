@@ -10,7 +10,7 @@ website: https://t.co/i1uBCCpct5
 twitter:
   username: johnkrafcik
   url: https://twitter.com/johnkrafcik
-  followers: 15810
+  followers: 15811
 
 linkedin:
   url: https://www.linkedin.com/in/johnkrafcik/
@@ -23,7 +23,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1536876629091295238/bJYw0phe_400x400.jpg
     width: 400
     height: 400
     isCached: true
