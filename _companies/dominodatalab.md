@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dominodatalab"
   url: "https://twitter.com/dominodatalab"
-  followers: 8600
+  followers: 8599
 
 size: 51-200 employees
 yearFounded: 2013
@@ -30,7 +30,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1515047467322122249/9e24kJ6i_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1537191069531578368/-nZNDkSj_400x400.jpg"
     width: 400
     height: 400
     isCached: true
