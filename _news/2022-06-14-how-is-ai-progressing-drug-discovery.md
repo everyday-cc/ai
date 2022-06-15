@@ -42,6 +42,15 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 17
+  - title: "Future of UK Defence Artificial Intelligence Launched"
+    excerpt: "Plans for the future of cutting-edge UK Artificial Intelligence (AI) defence technology have been unveiled in a new strategy published today."
+    publishedDateTime: 2022-06-15T11:43:00Z
+    webUrl: "https://www.gov.uk/government/news/future-of-uk-defence-artificial-intelligence-launched"
+    type: article
+    provider:
+      name: Department of Health
+      domain: www.gov.uk
+    quality: 17
 
 secured: "ZpSLZlvhVmIn7auUFi+wUcmHsBBfPL8ycCeImvJPOaygrD339IWS9/vVmVx+5bjqAeOiQc3/wJiZVI6c1Rv7c6MOS2sKiL8bEJZqfGIM5wF/oXE65HLdMlk9IMw+HK7BIouERPMeOuE+F604V5ek3id0TbBzsVimdCB2gyHPsG1AHUgQPkxueefcTD2/sADgFOQjETQcjFMF4qPZVWBp1AVmUnfT92/SLhiGjDoodv/+51+cGdHyuYqdH7sF4KhUXVpJBQUvH+qmam9HA8DIcktfccErU75jeTEikmbqg3R8CAaQLJ1OjDhMUETckLmMbTRmy8YAQCTaffKi/+S0wYUAS91XicsJDQ1UGhiZemXYha1alepv840Vc7JkRvX83kRxTjFW/Yn56qSLd07htcFZ4Baiv3hNq/BlVI15Yo1CfxxpQthQlEAzrRMwKCxmOeN6RMwGHkdTT9xf9iab1BZQmpWDbGkal0j4Pqv5dA+L3Y0EJTG8q3cXBEa0BAyxNlJtxnwK+yBOG+n3F1G9XQ==;WMalfWgc9qwRE/sMIdbTlg=="
 ---

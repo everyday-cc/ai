@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/what-harm-can-ai-do-plenty-but-we-can-minimize-it-together/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/what-harm-can-ai-do-plenty-but-we-can-minimize-it-together/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

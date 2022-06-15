@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T13:01:00Z
 originalUrl: "https://www.zdnet.com/article/artificial-intelligence-projects-grew-tenfold-over-past-year-survey-says/"
 webUrl: "https://www.zdnet.com/article/artificial-intelligence-projects-grew-tenfold-over-past-year-survey-says/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: ZDNet

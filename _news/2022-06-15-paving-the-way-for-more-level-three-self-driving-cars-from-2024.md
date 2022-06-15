@@ -9,7 +9,7 @@ ampWebUrl: "https://www.malaymail.com/amp/news/life/2022/06/15/paving-the-way-fo
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/life/2022/06/15/paving-the-way-for-more-level-three-self-driving-cars-from-2024/12397"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,78 @@ images:
     isCached: true
 
 related:
+  - title: "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars"
+    excerpt: "One controversial posture by AI Ethics is that we can purposely devise toxic AI or biased AI in order to ferret out and cope with other toxic AI. As they say, sometimes it takes one to know one. This includes self-driving cars too."
+    publishedDateTime: 2022-06-15T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6282b4794ea6e86efd7eea24/0x0.jpg?format=jpg&crop=1534,862,x0,y79,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "How NVIDIA Is Helping Develop Self Driving Tech"
+    excerpt: "NVIDIA is teaming up with big brands and creating technology and software that'll be at the heart of the self-driving, autonomous vehicles of the near future."
+    publishedDateTime: 2022-06-13T17:55:00Z
+    webUrl: "https://www.slashgear.com/893590/how-nvidia-is-helping-develop-self-driving-tech/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/how-nvidia-is-helping-develop-self-driving-tech/l-intro-1655139156.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Is Your Car Autonomous? The 6 Levels of Self-Driving Explained"
+    excerpt: "We're still a few years out from truly self-driving cars shuttling us all around. Here are the technology milestones your ride has to reach before it can be considered fully autonomous."
+    publishedDateTime: 2022-06-14T14:37:00Z
+    webUrl: "https://au.pcmag.com/cars-auto/94559/is-your-car-autonomous-the-6-levels-of-self-driving-explained"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/help/i/is-your-ca/is-your-car-autonomous-the-6-levels-of-self-driving-explaine_f55c.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Carriers should consider self-defense training for women drivers"
+    excerpt: "One of her friends was driving when she saw a man holding a weapon in the car ... No. A better option would be mandatory self-defense classes – maybe even ongoing rather than a one-time deal – provided by the company. A University of Oregon sociologist ..."
+    publishedDateTime: 2022-06-15T11:30:00Z
+    webUrl: "https://www.ccjdigital.com/workforce/article/15293153/carriers-should-consider-selfdefense-training-for-women-drivers"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2022/06/woman_self_desense.62a9c27d069cc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Paving the way for more level 3 self-driving cars from 2024"
+    excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"
+    publishedDateTime: 2022-06-15T10:24:00Z
+    webUrl: "https://www.carsifu.my/news/paving-the-way-for-more-level-3-self-driving-cars-from-2024"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/06/valeo_lidar_3rd.2232f082736.original.jpg"
+        width: 1024
+        height: 551
+        isCached: true
   - title: "Are self-driving cars legal in the UK?"
     excerpt: "Self-driving cars are a big problem for UK legislators. There are a couple of cars on sale today (such as the Tesla Model S and Mercedes EQS) which could soon drive without human intervention – but full self-driving systems aren’t legal to use on UK roads just yet."
     publishedDateTime: 2022-06-14T13:53:00Z
@@ -36,15 +108,24 @@ related:
       name: CAR Magazine
       domain: carmagazine.co.uk
     quality: 4
-  - title: "Stellantis to use Valeo lidar for Level 3 self-driving cars from 2024"
-    excerpt: "Stellantis' first generation of 'hands-free, eyes-off' self-driving cars will use Valeo's Scala lidar systems."
-    publishedDateTime: 2022-06-14T11:39:00Z
-    webUrl: "https://europe.autonews.com/suppliers/stellantis-use-valeo-lidar-level-3-self-driving-cars-2024"
+  - title: "Paving the way for more level 3 self-driving cars"
+    excerpt: "PARIS: Thanks to the latest generation of Valeo’s LiDAR (Light Detection and Ranging) system, Stellantis will be able to offer its customers a more enjoyable driving experience. Level 3 self-driving capabilities can be achieved thanks to the ability of ..."
+    publishedDateTime: 2022-06-15T01:40:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2022/06/15/paving-the-way-for-more-level-3-self-driving-cars/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 4
+  - title: "New Study on Fully Automated, Self-Driving Vehicles in Canada: There’s a Problematic Knowledge Gap about Automated Vehicles"
+    excerpt: "Consumer readiness for fully automated, self-driving vehicles in Canada is low, and there are considerable deficiencies in consumer understanding of automated vehicles (AVs) according to the findings of a new study conducted by J."
+    publishedDateTime: 2022-06-15T12:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-371c65f33f4e98454d009f4feb634fd4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "DOw6tbSmeDPgLbM+QsIWTVNj4ytufEpp8l/2ivnXz0f3TXCgEC3zSSUamfGO2CudADk2eQPRyt8mLMpTRxPZP4EFV20JOeN2zKLYAFPgTWdZFvj7MgqQpgeELWEvu/eCy3P+yDt6P6++RHtMVevE7klxh4Gojc1In0UfqdizCX8E0ENeQ9OalA/vuYq5ubnLJPBINmJAAXRmlmqtipue1ex9GeJnv5E62912nnT/C2Y9E65Ta3s9FeLD+PXtp/yomybg64JMPgPDQ9rX46N0+rGfhm066TImHNwk3Q+Pi+xdWpB+IhSt6VLoQDxSxFBcmN+/lu9HJKmhMymKmbiAB5YyyzDDfK9tKtfubU7v8V0=;A+x+9ywL46UTuU6fcpHo7A=="
 ---

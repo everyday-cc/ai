@@ -1,27 +1,29 @@
 ---
 category: news
-title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
-excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated Artificial Intelligence chatbot that produces text in response to user input."
-publishedDateTime: 2022-06-15T09:03:00Z
-originalUrl: "https://www.todayonline.com/commentary/google-software-engineer-believes-ai-has-become-sentient-if-hes-right-how-would-we-know-1925471"
-webUrl: "https://www.todayonline.com/commentary/google-software-engineer-believes-ai-has-become-sentient-if-hes-right-how-would-we-know-1925471"
+title: "A Google Software Engineer Believes an AI Has Become Sentient. If He’s Right, How Would We Know?"
+excerpt: "Our understanding of sentience and consciousness in AI systems might be limited by our own particular brand of intelligence."
+publishedDateTime: 2022-06-15T14:12:00Z
+originalUrl: "https://singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/"
+webUrl: "https://singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/"
+ampWebUrl: "https://singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/?amp=1"
+cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/?amp=1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: TODAYonline
-  domain: todayonline.com
+  name: Singularity Hub
+  domain: singularityhub.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--u5wauPKM--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/06/15/20220615_unsplash_aitech.jpg?itok=YcWeBKOE"
-    width: 1200
-    height: 676
+  - url: "https://singularityhub.com/wp-content/uploads/2022/06/MaxGruber-Clickworker3d-printed-1080x720-1.jpg"
+    width: 1068
+    height: 601
     isCached: true
 
 related:
@@ -120,6 +122,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/b68ea3bc80c2294694902d2f0d645a2bb99399d7/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI coming to life? Google engineer claims chatbot is sentient"
+    excerpt: "A Google engineer is claiming that LaMDA, a chatbot generator, has the ability to think for itself, but the company has rejected the claim. The Washington Post's Nitasha Tiku explains how the chatbot works and why the engineer thinks Google should be asking for its consent to experiment on it."
+    publishedDateTime: 2022-06-15T15:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_06/1655305259269_now_mnn_chatbot_sentient_google_220615_1920x1080-9ec6aw.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google suspends engineer who publicly claimed he interacted with a sentient AI bot"
     excerpt: "Alphabet has placed software engineer Blake Lemoine on paid leave on claims he breached confidentiality policies, after he told a newspaper that the Google AI he interacted with was a person."
@@ -337,16 +355,16 @@ related:
   - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
     excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
     publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    ampWebUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+    webUrl: "https://www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
+    ampWebUrl: "https://www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: Inland Valley Daily Bulletin
+      domain: dailybulletin.com
     quality: 50
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
+      - url: "https://www.dailybulletin.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
         width: 1024
         height: 682
         isCached: true
@@ -833,6 +851,6 @@ related:
       domain: forbesindia.com
     quality: 10
 
-secured: "mXQD4E7p1QWOHaSNK/wi5pnpN9A7Xmirps8QePnnTcE+Nbby1AUvsH1TU+QWAng6BZ7AEN21X4Hkx2AqLzHjGrR1gWgqcqNxAyDIC+U/G4vOnHsS7MiOy0ZM67UHRTodHUUWyU2FLRNmxEtfj4X3t0lC98pGrk9EADJ6IuHpL2SoNGMYiOcJ8l7ROBZ4rD7IPzauL7vClFxp/04GvKWSj1jCHUrO9qzfE5c4uHZrDundy4bx7aD/cN7g+H+Nbz8YNRa2NP+WLQaQ3/vbon0D2Md0RELagRr8qtKvjRAOHaebj5NrymeL4phboYsdAyGMUHbVq1XnJEIIEyFc540q+4Jzb3wZ/d2zo6L6BCvUGms=;Q2JO53IaIxjjyPFrW84RfA=="
+secured: "bgNROY9wrH9x9UFPXR2o7KHqOeP1By0X4iV/GmxlO51eET25Bt18wes/ptFfskHuCfbzB8DaIsKwIPsP6m1SF7iaRjI1kNpPD0k/rODKH2vZP+CfY75riULzsVw/ZvAhjGGeC4eLxohAhY4hnEhPmV7NWLuOV2c8CVinAUjI7QzDePIAMgm7M4DXCBzZALd2yuEdR8W96R81HdW5Ytr2IkzAvPykgJWpdISHDbiZE7MevD1X6wWAsBu+i9k82tLz8sPD9foLnAQwakapUH7Z9qEVfhiCN/ayX78WUf0kq1GXCJDVqtEgpqPE/dq1/VOONyT1Bw2lAOg8w+5WfdZPPyURbP79AXWvPbK+/Nj2YQ0=;1tjlisgN/XWic2Cx0dsswQ=="
 ---
 

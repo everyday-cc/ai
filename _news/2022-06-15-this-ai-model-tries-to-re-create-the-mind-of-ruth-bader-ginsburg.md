@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-14T20:22:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2022/06/14/ruth-bader-ginsburg-ai/"
 webUrl: "https://www.washingtonpost.com/technology/2022/06/14/ruth-bader-ginsburg-ai/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGTHULQZOAI6HAFMSYQFZLFULI.jpg&w=1440"

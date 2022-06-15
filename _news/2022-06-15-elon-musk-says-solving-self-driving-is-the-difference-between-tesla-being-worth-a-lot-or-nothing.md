@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-differ
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/amp/"
 type: article
 quality: 76
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,62 +31,82 @@ images:
     isCached: true
 
 related:
-  - title: "Explained and tested: Tesla’s ‘self-driving’ Autopilot"
-    excerpt: "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads."
-    publishedDateTime: 2022-06-14T23:15:00Z
-    webUrl: "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/"
-    ampWebUrl: "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/"
-    cdnAmpWebUrl: "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/"
+  - title: "Tesla and Honda report over 350 crashes involving advanced driving assistance systems"
+    excerpt: "Tesla Inc. reported 273 crashes while Honda reported 90 involving advanced driving assistance systems, including Autoplot, since July, according to newly released data."
+    publishedDateTime: 2022-06-15T15:32:00Z
+    webUrl: "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems"
+    ampWebUrl: "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp"
     type: article
     provider:
-      name: CAR Magazine
-      domain: carmagazine.co.uk
-    quality: 74
+      name: Fox News
+      domain: foxnews.com
+    quality: 82
     images:
-      - url: "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg"
-        width: 1800
-        height: 1013
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bea0abb-d21b-4fc6-844b-d80074aa7d77/90f0e8b4-2400-4c2b-b458-a73d8745f190/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "How NVIDIA Is Helping Develop Self Driving Tech"
-    excerpt: "NVIDIA is teaming up with big brands and creating technology and software that'll be at the heart of the self-driving, autonomous vehicles of the near future."
-    publishedDateTime: 2022-06-13T17:55:00Z
-    webUrl: "https://www.slashgear.com/893590/how-nvidia-is-helping-develop-self-driving-tech/"
+  - title: "US report: 273 Teslas using automated driving systems involved in crashes"
+    excerpt: "DETROIT — Tesla reported 273 crashes involving partially automated driver-assist systems, according to statistics about the industry released by U.S. safety regulators on Wednesday. The National Highway Traffic Safety Administration cautioned against ..."
+    publishedDateTime: 2022-06-15T15:11:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/tesla-autopilot-crashes/507-456d8cc8-dde4-4b47-89ed-4e8e9dbe1e03"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/tesla-autopilot-crashes/507-456d8cc8-dde4-4b47-89ed-4e8e9dbe1e03"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/tesla-autopilot-crashes/507-456d8cc8-dde4-4b47-89ed-4e8e9dbe1e03"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
+      name: 11Alive
+      domain: 11alive.com
+    quality: 58
     images:
-      - url: "https://www.slashgear.com/img/gallery/how-nvidia-is-helping-develop-self-driving-tech/l-intro-1655139156.jpg"
-        width: 1600
-        height: 900
+      - url: "https://media.11alive.com/assets/CCT/images/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Tesla Full self-driving Beta V.11 likely to be ready for wide release soon: Elon Musk"
-    excerpt: "According to Teslarati, last week, Elon Musk projected that FSD Beta version 10.13 would be released in \"two weeks\"."
-    publishedDateTime: 2022-06-15T09:09:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/tesla-full-self-driving-beta-v-11-likely-to-be-ready-for-wide-release-soon-elon-musk/articleshow/92225887.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/tesla-full-self-driving-beta-v-11-likely-to-be-ready-for-wide-release-soon-elon-musk/amp_articleshow/92225887.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/tesla-full-self-driving-beta-v-11-likely-to-be-ready-for-wide-release-soon-elon-musk/amp_articleshow/92225887.cms"
+  - title: "Self-driving and driver-assist technology linked to hundreds of crashes, U.S. data shows"
+    excerpt: "Over the course of 10 months, nearly 400 car crashes in the United States involved advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday, in its first-ever release of large-scale data about these burgeoning systems."
+    publishedDateTime: 2022-06-15T14:18:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html/amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 52
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 35
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-39028,msid-92225926/elon-musk.jpg"
-        width: 600
-        height: 450
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/crash1.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Paving the way for more level 3 self-driving cars"
-    excerpt: "PARIS: Thanks to the latest generation of Valeo’s LiDAR (Light Detection and Ranging) system, Stellantis will be able to offer its customers a more enjoyable driving experience. Level 3 self-driving capabilities can be achieved thanks to the ability of ..."
-    publishedDateTime: 2022-06-15T01:40:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2022/06/15/paving-the-way-for-more-level-3-self-driving-cars/"
+  - title: "Who's driving that car? Tesla crashes cast cloud over Autopilot feature"
+    excerpt: "Investigators remain mum on Tesla's Autopilot feature as they probe May's dramatic, high-speed crash into the Greater Columbus Convention Center."
+    publishedDateTime: 2022-06-13T09:59:00Z
+    webUrl: "https://www.dispatch.com/story/business/automotive/2022/06/13/tesla-crash-autopilot-columbus-ohio-convention-center-struck/7538293001/"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 19
+  - title: "273 Teslas with automated driving systems crashed, feds say"
+    excerpt: "Automakers reported crashes to the agency from July of last year through May 15. Tesla's crashes happened while vehicles were using Autopilot, “Full Self-Driving,\" Traffic Aware Cruise Control, or other driver-assist systems that have some control over ..."
+    publishedDateTime: 2022-06-15T13:50:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/06/15/273-teslas-automated-driving-systems-crashed-feds-say/7632735001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "Tesla, Honda Among Those To Report Advanced Driving Systems Vehicle Crashes-U.S"
+    excerpt: "Tesla Inc reported 273 vehicle crashes involving advanced driving assistance systems like Autopilot since July, while Honda Motor identified 90, data from U.S."
+    publishedDateTime: 2022-06-15T13:30:00Z
+    webUrl: "https://www.ibtimes.com/tesla-honda-among-those-report-advanced-driving-systems-vehicle-crashes-us-3540282"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 15
 
-secured: "W2sLxxGnIMtLM0MRR1RVU4Tb6dgyTapFgtkARj8uHX5iOc2fw/AsoVZlPVB/CgeiO4WF8xZLsRPTjTpFDufDnFASaPQlJ4ATiuTKK+f+6yYyFuPOYOqYxDm41VYqq1eY6GHNZWekxkLbbvQM4TLR/BqovTYp92wLo++Szdagvq5XSaCEN1qgEyUKyF2mvepJ7BvewED7cvBZ2ygj3LAMQA/OLWMoIRVk15h9Bp+PDJLk/1B70uUiYj792bPnvCfYzWyRCblY9bvQwMA5KS1ZjPv7mYEhoAHLjjELa/FhEfoIIhBMoOfenIUGPY7AmOEsn02lXpt0Y7XZda8DdYLz1hdsO1zkWW6PGxUyWfcjBNM=;jJ1rSj7Fiwb/BzWH3VONeg=="
+secured: "UKIXXAkSBJwqmPKeKaaCuD7SMESIglBfwcRs7cGrY/Lyl2OQIUCez5qTex4qi1N/wIIQZZkHnHd41adX4VzjafLzBHl7tp4GrSrN2C5ZZ3jAMtkp7qHP5XADyPHb8lasMm1QxhAoy9qcPnMfAyjwyppibJZSl8pkZeNFOLSyG7cIvbzLXwHWX3S73c50GOwFWoA/pooGFyPcGhTv7hYQjXozxxmhwmfBeXcxLMbUr4o7+dgW1X/cJTatyRGQ60nltJRyNwIWiLqHx9PbnJ2u9qeiGY3UA+lzKeTtaFl508q/LJMxO+mAgF1zdfcIA833DA+B75xLAWspiv4ctlxWvhulNCDJbZ7vGd5BX5Wa4q3JkJA0YnoCouVMPC7v+GPm/1yLf12XOwcYeE6r80ZYtJ+VUbwIbBeX9+K1kWv1SpaAYBAntsfk4vYAsdcjAggtBa+qZkvSFm4I0ms7lx6Lwi+YNwnRMiZ+nKTrW2skBDMW0gl/ExMXYQ3Ik9Xohx5AV9hwuoIOW/dYd29e2l0xdQ==;GYcXoNqw91/novuZitFzow=="
 ---
 

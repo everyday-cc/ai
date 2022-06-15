@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-15T10:43:00Z
 originalUrl: "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html"
 webUrl: "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T12:02:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/science-technology-business-artificial-intelligence-f386020a766a31f20b46123037f10729"
 webUrl: "https://apnews.com/press-release/globe-newswire/science-technology-business-artificial-intelligence-f386020a766a31f20b46123037f10729"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Associated Press

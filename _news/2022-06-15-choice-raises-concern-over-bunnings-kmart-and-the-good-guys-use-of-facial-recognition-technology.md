@@ -222,6 +222,15 @@ related:
       name: ia.acs
       domain: acs.org.au
     quality: 19
+  - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
+    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
+    publishedDateTime: 2022-06-15T13:23:00Z
+    webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 14
 
 secured: "XxxC/IHsBFpStwSCaP1/k9NGbpHvZDNUVFnSkOg0vR+RshbamWclq7mQg2F9E5Aj4Olpf/WQrdmfKg3jwa88+UV7MGLCvtw330AIXm2ICBcMUxj8A2BJ3/KZO3yKtbR8buS5erALaCnb2rI4o3mxbIXWJcLmQDGixJ2yz9v5WUseaQiL59R7hLeUgTYROpVc8v0vdvycDOfksEtBwruhMcYKNnNr2Y5RTttj8ETS6rSduK+W2fySXUIRYHufFrUjZ3Txw0FD9APdI1hN5hvufHzRUDO6Qt8M39r5vcewyuLfl9uIvK43jA2v49GdjXf9/zjGbegCx3iVJDR8HDTnN0K0/DvpF+/XYUZUPCmKqoJRNOEIHqjQWCIEM7j4pDFzcu1Tn818XJQY1RVs//JqSYKsdul8V0eL2icRLh1Vx8Z8HWw6+Vgb9iS6Q/pVFmPrcet6sKcclT/xTbwyWBa1BbtJyf0fhLCFcE7UaYxeKnxnjTINO4i4XuxRSscLWicyWX6h1VW9dWj/RoqQ+33/ug==;zLVLCPSSg4wWVc0auXxraw=="
 ---

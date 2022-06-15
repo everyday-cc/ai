@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-machine-vision-system-market-to-reach-4-5-billion-globally-by-2031-at-22/article_e53ad967-2e24-53f5-8a06-a2b1c9034396.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-machine-vision-system-market-to-reach-4-5-billion-globally-by-2031-at-22/article_e53ad967-2e24-53f5-8a06-a2b1c9034396.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

@@ -35,22 +35,6 @@ related:
         width: 320
         height: 208
         isCached: true
-  - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
-    excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
-    publishedDateTime: 2022-06-14T23:53:00Z
-    webUrl: "https://www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
-    ampWebUrl: "https://www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-krtv-com.cdn.ampproject.org/c/s/www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: KRTV
-      domain: krtv.com
-    quality: 48
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/83e/b1fb2806e11149eb913b74193acbda23/83e737766c39482a8e8a7603b279eb13/poster_33d09d0878044f1fa18c0773b850d5b1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Health organization moves to facial-recognition technology"
     excerpt: "VHC Health – formerly known as Virginia Hospital Center – is slated to implement “positive patient identification” (PPID) using facial biometrics at its facilities, making VHC the first health-care sy"
     publishedDateTime: 2022-06-13T15:53:00Z
@@ -74,6 +58,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 22
+  - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
+    excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
+    publishedDateTime: 2022-06-14T23:53:00Z
+    webUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
+    type: article
+    provider:
+      name: KTVQ
+      domain: ktvq.com
+    quality: 8
 
 secured: "kTl2D13XK22mzTc71NVCu7Q+68sC5BSgPRyBavYLZwu4I1YimMuNRT9n2Weo3N6nWDxkieWom7myXzLygT3VwVVvm86jDT2p2qUG8i1tMc3rzbPJXrozOqQ9MFWbkTfepQJgIfRhKaV0R0SVDgMiPeRINg+oxfyELJ1BihTE/ekYXIb6sxJCjvWCz4leu80x4hGA99gcWFL4EyFkxy2kkhBQfN/KlTgt2EBXcBu1FMVYTYrMh8r8hIBUfObHGR0W/xdnwzURhehBcT39KILPnc8psfR+ic/ORMDjMi2QBLXhzrOhfGyVQ1nRRcP28tcIJiWV47lZ6R52qFeAeY4f0ZkV5JbPSfLfOkkHBwiQa0uXqEYTiRB/4g8w5tsBwhfY60z1ampDvTeTCKPiJZpf80om+Scfh4mf8NjDhbT/R3cKGWQ4BN/6cQdkseEqtUM7n9gcac/iM2AB2MabnkJgVBgH/iC/AGSPlS+dOeun2FG+81ve2nGGTiHmmijwrHUQ+s7NVGRbAIGU5zTqWYtqtQ==;+p3ddDqoXILbyQ6uq/WM6g=="
 ---

@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI coming to life? Google engineer claims chatbot is sentient"
+    excerpt: "A Google engineer is claiming that LaMDA, a chatbot generator, has the ability to think for itself, but the company has rejected the claim. The Washington Post's Nitasha Tiku explains how the chatbot works and why the engineer thinks Google should be asking for its consent to experiment on it."
+    publishedDateTime: 2022-06-15T15:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_06/1655305259269_now_mnn_chatbot_sentient_google_220615_1920x1080-9ec6aw.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google suspends engineer who publicly claimed he interacted with a sentient AI bot"
     excerpt: "Alphabet has placed software engineer Blake Lemoine on paid leave on claims he breached confidentiality policies, after he told a newspaper that the Google AI he interacted with was a person."
     publishedDateTime: 2022-06-13T06:30:00Z
@@ -337,16 +353,16 @@ related:
   - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
     excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
     publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    ampWebUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+    webUrl: "https://www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
+    ampWebUrl: "https://www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: Inland Valley Daily Bulletin
+      domain: dailybulletin.com
     quality: 50
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
+      - url: "https://www.dailybulletin.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
         width: 1024
         height: 682
         isCached: true
@@ -413,6 +429,22 @@ related:
       - url: "https://www.pedestrian.tv/wp-content/uploads/2022/06/14/well-this-is-grim-1.png?quality=80&resize=1280,720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "A Google Software Engineer Believes an AI Has Become Sentient. If He’s Right, How Would We Know?"
+    excerpt: "Our understanding of sentience and consciousness in AI systems might be limited by our own particular brand of intelligence."
+    publishedDateTime: 2022-06-15T14:12:00Z
+    webUrl: "https://singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/"
+    ampWebUrl: "https://singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 46
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/06/MaxGruber-Clickworker3d-printed-1080x720-1.jpg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "Engineer Who Says AI Came to Life Says He Can't Comment Further Because He's on His Honeymoon"
     excerpt: "Blake Lemoine, Google engineer making claims of sentient AI, took to Twitter to inform those reaching — he's offline and away on his honeymoon."
@@ -686,20 +718,6 @@ related:
       - url: "https://ijr.com/wp-content/uploads/2022/04/GettyImages-1393876536-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
-    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated Artificial Intelligence chatbot that produces text in response to user input."
-    publishedDateTime: 2022-06-15T09:03:00Z
-    webUrl: "https://www.todayonline.com/commentary/google-software-engineer-believes-ai-has-become-sentient-if-hes-right-how-would-we-know-1925471"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 26
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--u5wauPKM--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/06/15/20220615_unsplash_aitech.jpg?itok=YcWeBKOE"
-        width: 1200
-        height: 676
         isCached: true
   - title: "The Google engineer who thinks the company’s AI has come to life"
     excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."

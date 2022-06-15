@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-non
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bridging DeepMind research with Alphabet products"
+    excerpt: "Today we caught up with Gemma Jennings, a product manager on the Applied team, who led a session on vision language models at the AI Summit, one of the world’s largest AI events for business."
+    publishedDateTime: 2022-06-15T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/62a9f619d9122bdc3231b4ed_Gemma_Jennings__Blog__16x9.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI startup Cohere launches a nonprofit research lab"
     excerpt: "Cohere, a startup creating large language models to rival those from OpenAI, today announced the launch of a nonprofit research lab: Cohere For AI. Headed by Google alum Sara Hooker, Cohere says ..."
     publishedDateTime: 2022-06-14T13:21:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://tribune.com.pk/story/2361067/self-driving-cars-may-speed-u
 webUrl: "https://tribune.com.pk/story/2361067/self-driving-cars-may-speed-up-to-130-km-an-hour"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,29 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Self Driving Cars Market Size to Surpass USD 65 Million Units by 2030"
-    excerpt: "The global self-driving cars market was estimated at USD 21 million units in 2021. Safety features are an essential prerequisite for automotive consumers throughout the world."
-    publishedDateTime: 2022-06-10T21:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27658290/self-driving-cars-market-size-to-surpass-usd-65-million-units-by-2030"
+  - title: "Build Your Own Self-driving Car"
+    excerpt: "If you’ve ever wanted your own self-driving car, this is your chance. [Sebastian Thrun], co-lecturer (along with the great [Peter Norvig]) of the Stanford AI class is opening up a new class ..."
+    publishedDateTime: 2022-06-13T23:59:00Z
+    webUrl: "https://hackaday.com/2012/02/05/build-your-own-self-driving-car/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/6c20be16-fa58-4d85-a3f9-44b54f33ef32?optimize=medium&dpr=2&auto=webp&width=1080"
-        width: 1169
-        height: 827
-        isCached: true
-  - title: "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports"
-    excerpt: "Market by Component (Solution and Services), Technology (Machine Learning, Natural Language Processing, Computer Vision, and Others), and Industry Vertical (IT and Telecommunication, Retail and E-Commerce,"
-    publishedDateTime: 2022-06-13T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 1
+      name: Hackaday
+      domain: hackaday.com
+    quality: 4
 
 secured: "XIFRQV1fmJwI3QwL/jiqBMv+kucxp2nSEM0F/Yg4U5iZV1pu9uT4p6eZthJ7Rufs5UcYu62SwpvuGjsA1Sg/Xw4wBUPHaZ4F4q3pEz8mdYTbWcDyqoNawMS554SSQg4xMLrZCpytr6QtzMBvDh9ooXtnutXrA4rZN4UYZsjoG/wdOuSy5L5iI2ClKxElA+hn0iwHRctWrIR594rQK6FNhg3Gyid6eJjtXqKIYoXCaKhQKwezQob3oOwvp/wfrVkasd+PHDn1sxWERIjalO5rAUbmCg08ALBPyZAhYCveW7mw2RZ8AmtykOoyU3v+W2FG8iv/8mlPGIJaoY6x2CITe4ZpzCl/Zid9kYZGzCruNX5nc/4XnxgODNEa89iafQrLS44MehOI+F8lElkebLUEyMQPmjzmCvYg9Vl+omzBRum+zCp8YiMjy7VlGXm0unG81e0OnpuwfuzD7o0ZlNIyB6RrXv7uwnhIbizgfjaCifQpNb25NQLNtSc1Osg/WcmPFfHXgNHf/MGIOVGwn+vBvQ==;usIX5SVPp02HHlc8tgyX2w=="
 ---

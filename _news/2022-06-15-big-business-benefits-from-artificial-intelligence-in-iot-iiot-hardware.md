@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T12:00:00Z
 originalUrl: "https://venturebeat.com/2022/06/15/big-business-benefits-from-artificial-intelligence-in-iot-iiot-hardware/"
 webUrl: "https://venturebeat.com/2022/06/15/big-business-benefits-from-artificial-intelligence-in-iot-iiot-hardware/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: VentureBeat

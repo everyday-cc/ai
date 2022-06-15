@@ -18,6 +18,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "The Download: Abortion pill access, and Europe’s ethical AI"
+    excerpt: "Wade, the 1973 legal decision that enshrined abortion as a constitutional right, parts of the country will be ready to plunge into a repro"
+    publishedDateTime: 2022-06-15T12:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/06/15/1054081/download-abortion-pill-roe-wade-europe-ethical-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 34
+
 secured: "+ijuhbiuWUkwZ6JeZ3AG70xxmeLn3scmcatBUKwn/vvQojUF1AdgYFPmJKPUnDtL2DRC/PMhVRjVDRehctwCSfETWJ/9enMUdIL4FGgSefhX5meHntJAuvQPQgaoBk0x/7wYS5bV8tf67DJGt6If8o8/HuR6YbYu2ya5OVmndXQd4aQfoEd2ZAkTW7T34vj0MleZAgF7cCL24vVMdtUlN1A3N0oOnR+invwt2/z6HghTC5o4PpPMIancRaB6TAT38a1l6EKR90z0FQxxFjwaG3lRXS+IrzwqNVHqKApQrZGogGCHf1azKGIUjXShVCJvwsKIAGX9QM9ykyVRuGnuhaNqWrlPCJeOqg/oIgTtZiCG6CnDpzANF44bnxH+rLjuHYo2jkeGBge2S7V4jx/+7ZEboaEbkYQLvGVdqQ82TRPtho0guZUpeRP3amx9vI/4xrYvAiUFkDR2Qttbu9MVKevgS27EG8vngRxsbQIPZbZlLivEwEVQOXxF7dwuERrsEGTICpDX9ti/npwmdhC+tw==;8aL3K5WhpVHCWslxLU/JZw=="
 ---
 

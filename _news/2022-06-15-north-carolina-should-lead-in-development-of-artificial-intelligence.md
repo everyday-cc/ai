@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T12:00:00Z
 originalUrl: "https://www.bizjournals.com/triangle/news/2022/06/15/nc-artificial-intelligence-business-education-jobs.html"
 webUrl: "https://www.bizjournals.com/triangle/news/2022/06/15/nc-artificial-intelligence-business-education-jobs.html"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: The Business Journals

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/"
 type: article
 quality: 105
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1312
         height: 677
         isCached: true
+  - title: "Why You Need an AI Ethics Committee"
+    excerpt: "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ..."
+    publishedDateTime: 2022-06-13T18:36:00Z
+    webUrl: "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
 
 secured: "yGRdOEWeWtBxJheHdhXnN9H/XMLsfs5GCjHt29anyJGdX660MYuGH79siFCNdLanEmg9TVk1AMTiCgNdcyC+FcwR5rXy421i9WqWrd2hUQ7WyagtcAhtYTpAta1hEpzJccFe+bj7d5uZzw2Yw2Ipi+AXLN28W4ZgvWqeHZPN8vMSHebI6WZBATLWLHFrjrMB/v6YhFjPWKRCHdQJHq+xGGPXDigwWGcq3rCtCJJtN9XGDn6/QLMEW5XRmcI75sgQX8wUN9WF/8XcTOdxUUTr+oFoRTfBmDjCyWha+bnK5ySyb4q2drHpO6MlTNVmJWRPh6ZKoFmTWQjZFS87CYaJoJr+kKdwzQ7EJ24py6aLUDFwAFBGNFoh4YH1ujum58Kk/MTm3L/qkw68eZTyt4BUZ1KUkLvWr+odPx57Yms61QqA3yyLGtQagzAys2rSkRmioOM6BcadDLE52c0+kYPxQRbdrUvdUu+7QJLjyVcpu2YUYUA1vSxkXEH02uGborQ75L+REcuDSz0nR4ZKDvVq3w==;eqyIaFBSX3MNfG+HwOuD1Q=="
 ---

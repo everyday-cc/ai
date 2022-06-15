@@ -41,6 +41,15 @@ related:
       name: Azorobotics
       domain: azorobotics.com
     quality: 19
+  - title: "Future of UK Defence Artificial Intelligence Launched"
+    excerpt: "Plans for the future of cutting-edge UK Artificial Intelligence (AI) defence technology have been unveiled in a new strategy published today."
+    publishedDateTime: 2022-06-15T11:43:00Z
+    webUrl: "https://www.gov.uk/government/news/future-of-uk-defence-artificial-intelligence-launched"
+    type: article
+    provider:
+      name: Department of Health
+      domain: www.gov.uk
+    quality: 17
 
 secured: "TjZsdyXgDWQH1yrUdt8Fgyc23gjjidKOgY5NhGeLizMOnMSdQBdAMDy+HFgyo7R9XnwIEhYWy6Bx2PSw+mumww0AmTkpTjucojZBlP3r07pkK3XL5a5AAqHh9WAOo+37yXrrclEqisv8vr/ykmU07KeoNwB0TklF+qdPjUodbmf5h1qkdz9G/cbFS5Y38StgSPQxbjUBJAAz29ZjRqPkSe2QGEzUMgelTzN982/Pqg9v5zgrrkG8MmvmDNEVxJ3DE+FiO4sOivUsSSwomPeXX1kf1gpDJSVCGlTxX5FblvwkIABv6KSXqx+haxe/I/BDygt8kmIpOChprk8qzgR4oZb4jqvK51Pk/OupuxmLBoo=;Kk0ZLyzCwRN93T1VQZFe8g=="
 ---

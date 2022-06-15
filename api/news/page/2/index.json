@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-14-how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail.md",
+      "title": "How AI Video Analytics Is Energizing Business Operations For Brick-And-Mortar Retail",
+      "excerpt": "In the end, it's important to find a solution that meets your specific goals and fits well into your existing processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/",
+      "publishedDateTime": "2022-06-14T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-facial-recognition-system-launched-at-kazakhstans-airports-religious-institutions.md",
+      "title": "Facial recognition system launched at Kazakhstan’s airports, religious institutions",
+      "excerpt": "NUR-SULTAN. KAZINFORM A facial recognition system has been launched at the airports, religious institutions and in underground walkways of Nur-Sultan city, Kazinform has learned at a briefing of the Operational Control Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198",
+      "originalUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inform.kz/thumbs3/radmin_news_2022_06_14_220614122033246e_w320_h240.jpg",
+          "width": 320,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198/amp",
+      "cdnAmpWebUrl": "https://www-inform-kz.cdn.ampproject.org/c/s/www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198/amp",
+      "publishedDateTime": "2022-06-14T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kazinform",
+        "domain": "inform.kz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-former-amazon-robotics-vp-brad-porter-goes-collaborative.md",
       "title": "Former Amazon Robotics VP Brad Porter goes Collaborative",
       "excerpt": "Collaborative Robotics aims to build a six-degree-of-freedom robotic art that’s collaborative, works with humans and can meet a wide variety of use cases.",
@@ -1033,7 +1127,7 @@
       "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1121,101 +1215,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-us-court-will-soon-rule-if-ai-can-legally-be-an-inventor.md",
-      "title": "U.S. court will soon rule if AI can legally be an ‘inventor’",
-      "excerpt": "Can artificial intelligence (AI) be legally listed as an inventor? After all, if AI can legally invent products, the number of patents on drug-discovery tools will shoot up fast. The issue is currently before a United States court.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/",
-      "originalUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-and-patent-law-fade-60.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/amp/",
-      "publishedDateTime": "2022-06-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-robotics.md",
-      "title": "Akamai Awards $1M in Products and Services to Future of Life Online Challenge Winner Bloomfield Robotics",
-      "excerpt": "Plant sciences artificial intelligence startup sets sights on solving global food production challenges by scaling agtech platform with Akamai edge computing and security capabilities CAMBRIDGE, Mass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27666376/akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-rob",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27666376/akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-rob",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1836533/Akamai_Technologies_Bloomfield_Robotics_camera_system.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27666376",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27666376",
-      "publishedDateTime": "2022-06-13T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

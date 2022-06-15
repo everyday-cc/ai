@@ -19,37 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk says solving self-driving is the difference between Tesla being worth a lot or nothing"
-    excerpt: "Elon Musk made an interesting comment about Tesla’s effort to develop self-driving. The CEO says that solving self-driving is the difference between Tesla being worth a lot of money or almost nothing."
-    publishedDateTime: 2022-06-15T10:42:00Z
-    webUrl: "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/"
-    ampWebUrl: "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/amp/"
+  - title: "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars"
+    excerpt: "One controversial posture by AI Ethics is that we can purposely devise toxic AI or biased AI in order to ferret out and cope with other toxic AI. As they say, sometimes it takes one to know one. This includes self-driving cars too."
+    publishedDateTime: 2022-06-15T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 70
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6282b4794ea6e86efd7eea24/0x0.jpg?format=jpg&crop=1534,862,x0,y79,safe&width=1200"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "Explained and tested: Tesla’s ‘self-driving’ Autopilot"
-    excerpt: "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads."
-    publishedDateTime: 2022-06-14T23:15:00Z
-    webUrl: "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/"
-    ampWebUrl: "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/"
-    cdnAmpWebUrl: "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/"
-    type: article
-    provider:
-      name: CAR Magazine
-      domain: carmagazine.co.uk
-    quality: 74
-    images:
-      - url: "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg"
-        width: 1800
-        height: 1013
+        height: 674
         isCached: true
   - title: "How NVIDIA Is Helping Develop Self Driving Tech"
     excerpt: "NVIDIA is teaming up with big brands and creating technology and software that'll be at the heart of the self-driving, autonomous vehicles of the near future."
@@ -65,22 +49,82 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla Full self-driving Beta V.11 likely to be ready for wide release soon: Elon Musk"
-    excerpt: "According to Teslarati, last week, Elon Musk projected that FSD Beta version 10.13 would be released in \"two weeks\"."
-    publishedDateTime: 2022-06-15T09:09:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/tesla-full-self-driving-beta-v-11-likely-to-be-ready-for-wide-release-soon-elon-musk/articleshow/92225887.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/tesla-full-self-driving-beta-v-11-likely-to-be-ready-for-wide-release-soon-elon-musk/amp_articleshow/92225887.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/tesla-full-self-driving-beta-v-11-likely-to-be-ready-for-wide-release-soon-elon-musk/amp_articleshow/92225887.cms"
+  - title: "Is Your Car Autonomous? The 6 Levels of Self-Driving Explained"
+    excerpt: "We're still a few years out from truly self-driving cars shuttling us all around. Here are the technology milestones your ride has to reach before it can be considered fully autonomous."
+    publishedDateTime: 2022-06-14T14:37:00Z
+    webUrl: "https://au.pcmag.com/cars-auto/94559/is-your-car-autonomous-the-6-levels-of-self-driving-explained"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 52
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-39028,msid-92225926/elon-musk.jpg"
-        width: 600
-        height: 450
+      - url: "https://sm.pcmag.com/t/pcmag_au/help/i/is-your-ca/is-your-car-autonomous-the-6-levels-of-self-driving-explaine_f55c.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Paving the way for more level three self-driving cars from 2024"
+    excerpt: "The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo’s third-generation LiDAR"
+    publishedDateTime: 2022-06-15T00:21:00Z
+    webUrl: "https://www.malaymail.com/news/life/2022/06/15/paving-the-way-for-more-level-three-self-driving-cars-from-2024/12397"
+    ampWebUrl: "https://www.malaymail.com/amp/news/life/2022/06/15/paving-the-way-for-more-level-three-self-driving-cars-from-2024/12397"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/life/2022/06/15/paving-the-way-for-more-level-three-self-driving-cars-from-2024/12397"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 44
+    images:
+      - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/06/15/24379.jpg&w=800&q=100&f=jpg"
+        width: 800
+        height: 354
+        isCached: true
+  - title: "Carriers should consider self-defense training for women drivers"
+    excerpt: "One of her friends was driving when she saw a man holding a weapon in the car ... No. A better option would be mandatory self-defense classes – maybe even ongoing rather than a one-time deal – provided by the company. A University of Oregon sociologist ..."
+    publishedDateTime: 2022-06-15T11:30:00Z
+    webUrl: "https://www.ccjdigital.com/workforce/article/15293153/carriers-should-consider-selfdefense-training-for-women-drivers"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2022/06/woman_self_desense.62a9c27d069cc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Paving the way for more level 3 self-driving cars from 2024"
+    excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"
+    publishedDateTime: 2022-06-15T10:24:00Z
+    webUrl: "https://www.carsifu.my/news/paving-the-way-for-more-level-3-self-driving-cars-from-2024"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/06/valeo_lidar_3rd.2232f082736.original.jpg"
+        width: 1024
+        height: 551
+        isCached: true
+  - title: "Are self-driving cars legal in the UK?"
+    excerpt: "Self-driving cars are a big problem for UK legislators. There are a couple of cars on sale today (such as the Tesla Model S and Mercedes EQS) which could soon drive without human intervention – but full self-driving systems aren’t legal to use on UK roads just yet."
+    publishedDateTime: 2022-06-14T13:53:00Z
+    webUrl: "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/"
+    type: article
+    provider:
+      name: CAR Magazine
+      domain: carmagazine.co.uk
+    quality: 4
+  - title: "New Study on Fully Automated, Self-Driving Vehicles in Canada: There’s a Problematic Knowledge Gap about Automated Vehicles"
+    excerpt: "Consumer readiness for fully automated, self-driving vehicles in Canada is low, and there are considerable deficiencies in consumer understanding of automated vehicles (AVs) according to the findings of a new study conducted by J."
+    publishedDateTime: 2022-06-15T12:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-371c65f33f4e98454d009f4feb634fd4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "KBRy5XjH0TD0AMJMCemzd+OwkgGaCy2NmqCJfkEXIkbnrI2gp+ySArjcEWxPVq8bvXRM3PJ21mKPEPXR8H8PV0seg+W1wDQIOm1dQrTkGtk+gvLYecSZLf6x6bhkGzDmamBR1pREwmiAi+TmuKtygXYN6mGS5oX9H84QQRPVer7m3wy7Bv3gD6gclcaCMyjXrqLCwGvwJTMtUwoahl+Ajw2qH74tCCZe5GLN282zltTVgWAGA3jdn8tqoQfufOFLBGi8FUWU93Yo5OFc2wK4nyB/6FtlpUVhz/8YUhUpgWx7JXfgIeey2EDPU39HnmGBO24iaOtSt/qkmOQtUjFXhInuFJTPfLouvtDz7ea7G6JVGGLzz9eH8m9jT833tmyCGItOe0bAMRDCYt+XgIpYy3vUjzJgZaZaf4RW1cBF9/yrSMR3Lf5rkFgvFnAsDsUaVYD4RZtiiWi7qK1pmRm4glFWMu3NM9n0RNF5PIdm9Kk5VZTmk0HbRL7FoEo77n+6r90/KNRX7/8HNl7VOgqxTg==;kDcZqVnKNiyeof0u2JtaFQ=="
 ---

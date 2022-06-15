@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "BrightDrop acquires AI software of tech startup Marain"
+    excerpt: "General Motors subsidiary and maker of electric vehicles for last-mile delivery plans to integrate fleet-optimization software into its Zevo vans and Trace e-carts."
+    publishedDateTime: 2022-06-15T12:10:00Z
+    webUrl: "https://www.fleetowner.com/news/article/21244259/brightdrop-acquires-ai-software-of-tech-startup-marain"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 17
 
 secured: "A90mD46RpIOINGwYzfxVMIzZ8Qd8PAdLdIoAlSQIfT+9gAXj9Kg2HzGQ08XTtTNXAVZExCKprnmim2ysuJvqAQYWhW2tyd9RalxkixhEZ5AICOWEsQlv4ZfAWeQtvdSXsf0WpN5ZNRTrIFtTDXrSJZ3H1C4VC55DiziVuXYtbFa0gd/CTstCcR0YVuPLuywe0c3CvxnTxr8ip+7uRy18CMOvb3JLsDHcrdP0avXClib9XYJunlbpa4iKCo2eJjHIiMBPbl3JwRnxq0lyH9TLLYB7mDgqy9ZfSkSKr3JOCLPzCGuKtN71UCrJtcMPSsGwO17/uq/2ZggBpFDvXb5bdOChr6IWO107YV/6DcRztFakKPrTN8vyW6qz3hNZLrW/O7FkCfSQqDUF+D9KtSWZwjmrsCG05e5QzVKNBNG6GNcW52elCXmWEfex+lPixphleaRzgQWrFOERo8/Q8F9Otol5ceZYNFqQMqML4r8iin7eMflSaYTQELiauPJtp/aoaHDK2NWw9JGBs5K6UW/rQg==;SY0EHXS7/CVGWPcWLT6bfw=="
 ---

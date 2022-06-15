@@ -39,6 +39,20 @@ related:
         width: 450
         height: 342
         isCached: true
+  - title: "Bridging DeepMind research with Alphabet products"
+    excerpt: "Today we caught up with Gemma Jennings, a product manager on the Applied team, who led a session on vision language models at the AI Summit, one of the world’s largest AI events for business."
+    publishedDateTime: 2022-06-15T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/62a9f619d9122bdc3231b4ed_Gemma_Jennings__Blog__16x9.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "YZ0R5tcw9sgyc6hZyW59//OwiUoBhIAbvu/9W3Nm+TNo+jFZ0p2+hIC//bzdPN8j2RIvhWPmR4AyUSkyB0JcvocaAZcYNMoFTDvH0G7R+caWHo0r8bm4qcw40xdOYJOckLFBIwJCo5RWQJ1SiqO87mgdVkDkXpHT8mAkCDHT1LX3WloZLHyT77UfenAIdUxeg84yuGoGoOWYJCHi/KY+PdCsdP763HGchv7HaickHVUgOuyuvA4yNuo9MgobqhNaCp9FkRD3Joib6ddh0X42Y40oZZDYb7/gT6UMMdTqK1XvYEi41+ZKe8E0tHJYS2vgdAzg0+JuXI1q0H2OJ3QfyJYAfkUAstfKnihhJvNxEvSFeYwCid0qC69kiE52TPFX+ZWlk4BR3KmrRB7GVq4nrLDxUY8eRMxyMhn5nCZdiirEuDbHwdoMDZrXzF3RzA0kpDnKpH/R2USr/9RzfLVQ0ZGAfFBnk7oYcRWfxce9FkH8i+3dPD4C9T0o5FJVmNbr8ULOZTMMSZtFk49Us76aTA==;xHIkhOhPjT73cj78ZANlJg=="
 ---

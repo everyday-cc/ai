@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T12:38:00Z
 originalUrl: "https://www.information-age.com/qa-machine-learning-optimisation-through-speech-recognition-123499563/"
 webUrl: "https://www.information-age.com/qa-machine-learning-optimisation-through-speech-recognition-123499563/"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: Information Age

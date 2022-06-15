@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T13:00:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/weka-unveils-industry-s-first-multicloud-data-platform-for-ai-and-next-generation-workloads-873544066.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/weka-unveils-industry-s-first-multicloud-data-platform-for-ai-and-next-generation-workloads-873544066.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: PR Newswire

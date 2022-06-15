@@ -41,22 +41,6 @@ related:
         width: 320
         height: 208
         isCached: true
-  - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
-    excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
-    publishedDateTime: 2022-06-14T23:53:00Z
-    webUrl: "https://www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
-    ampWebUrl: "https://www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-krtv-com.cdn.ampproject.org/c/s/www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: KRTV
-      domain: krtv.com
-    quality: 48
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/83e/b1fb2806e11149eb913b74193acbda23/83e737766c39482a8e8a7603b279eb13/poster_33d09d0878044f1fa18c0773b850d5b1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
     excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"
     publishedDateTime: 2022-06-14T12:45:00Z
@@ -66,6 +50,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 22
+  - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
+    excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
+    publishedDateTime: 2022-06-14T23:53:00Z
+    webUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
+    type: article
+    provider:
+      name: KTVQ
+      domain: ktvq.com
+    quality: 8
   - title: "Bunnings, Kmart and Good Guys investigated by Choice over facial recognition technology: ‘Like collecting DNA’"
     excerpt: "Three major retailers are at the centre of an investigation over a ‘completely inappropriate use of technology’ to record customers - with most shoppers unaware they're being watched"
     publishedDateTime: 2022-06-15T03:34:00Z

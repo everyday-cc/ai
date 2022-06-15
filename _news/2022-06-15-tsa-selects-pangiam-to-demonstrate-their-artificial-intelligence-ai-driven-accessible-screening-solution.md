@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T12:34:00Z
 originalUrl: "https://www.sourcesecurity.com/news/tsa-selects-pangiam-demonstrate-artificial-intelligence-co-6432-ga-co-1655286497-ga.1655288199.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/tsa-selects-pangiam-demonstrate-artificial-intelligence-co-6432-ga-co-1655286497-ga.1655288199.html?ref=nav"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: SourceSecurity

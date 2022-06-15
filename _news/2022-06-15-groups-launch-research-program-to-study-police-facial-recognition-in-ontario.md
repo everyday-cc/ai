@@ -33,7 +33,7 @@ related:
     provider:
       name: Sun Sentinel
       domain: sun-sentinel.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG"
         width: 1200

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T12:32:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-china-automotive-voice-industry-report-2021-2022-the-boom-of-self-research-by-oems-will-promote-reform-in-the-supply-mode-researchandmarketscom"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-china-automotive-voice-industry-report-2021-2022-the-boom-of-self-research-by-oems-will-promote-reform-in-the-supply-mode-researchandmarketscom"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

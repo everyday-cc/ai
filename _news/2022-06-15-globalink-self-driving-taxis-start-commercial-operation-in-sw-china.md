@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T12:30:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272587153/globalink--self-driving-taxis-start-commercial-operation-in-sw-china"
 webUrl: "https://www.bignewsnetwork.com/news/272587153/globalink--self-driving-taxis-start-commercial-operation-in-sw-china"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Big News Network.com

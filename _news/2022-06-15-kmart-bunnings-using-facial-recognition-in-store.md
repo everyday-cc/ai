@@ -221,6 +221,15 @@ related:
       name: Triple M Sport
       domain: triplem.com.au
     quality: 29
+  - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
+    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
+    publishedDateTime: 2022-06-15T13:23:00Z
+    webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 14
 
 secured: "fBfn6x1kY/mjZunKvDN5mRub9EQCv8Jz1Z5M+0BDSyZZnAk+qWPYviRGsYqweff1L7/IkduSthJ79gejUM7zfJh44lgnY1HEVVWcyCHK4Fwukj2fHApbkwbaAc7u7pIBGab3bYdHxfu8RQ+zNpD0odeWpfORlYF3pnCp0TjCTfuhn9fAWRTojRot+anqswNBFRg5E4Jo2FOY1LuwFsVzUmJ3DcmOnCX7y8WGCKLY2xQl3QdKXgUWLz/OhEEPYcKV3ARgxP9BhlPvbzlpn01P06aLAMM8zn+0Nqv0j+/db8z6La3G0CVz22Ofk3PVGJhWnuwcH1RT44gAYGp1GFdBdZnc3A0F9kFGbop7no7c3UVWkgx+Vp2dp1P30YwFfi7ysP9ZxP/vKZIRX407hnrH/LGLw84HFo4n2d1eD5gsD4OE4q93se+6LSs34dqx3VzuwZhoCiSuQsHRQc0hFlQH66FjZUzhPm7x7fiOfU5xyKcMRkhHzL9v0glFmoQ1nk2MmCSIjIj2WO1YEoaGGiA3VA==;jP/w6h3mmXAjI0ZCO2XOqw=="
 ---

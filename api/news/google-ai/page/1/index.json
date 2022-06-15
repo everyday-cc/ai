@@ -64,7 +64,7 @@
       "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -154,6 +154,101 @@
         "AI in Autos",
         "Natural Language Processing",
         "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-loading-remote-data-in-tff.md",
+      "title": "Loading Remote Data in TFF",
+      "excerpt": "In a production environment, the raw data for a federated computation is typically distributed across machines and requires special preprocessing and loading before it's usable. This tutorial describes how to load data stored in those remote locations with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.md",
+      "title": "A.I. gurus are leaving Big Tech to work on buzzy new start-ups",
+      "excerpt": "Four of the best-funded new AI start-ups — Inflection, Cohere, Adept and Anthropic — have recently poached dozens of AI scientists with backgrounds in Big Tech. The start-ups' hiring efforts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107006595-1643204907671-gettyimages-961707246-FRANCE_TECHNOLOGY.jpeg?v=1654767972",
+          "width": 4000,
+          "height": 2878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "publishedDateTime": "2022-06-09T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Google AI"
       ]
     },
@@ -1317,110 +1412,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-improving-skin-tone-representation-across-google.md",
-      "title": "Improving skin tone representation across Google",
-      "excerpt": "Seeing yourself reflected in the world around you — in real life, media or online — is so important. And we know that challenges with image-based technologies and representation on the web have historically left people of color feeling overlooked and misrepresented. Last year, we announced Real Tone",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/monk-skin-tone-scale/",
-      "originalUrl": "https://blog.google/products/search/monk-skin-tone-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skin_Tone_v2_2096x8752x.max-1300x1300.png",
-          "width": 1300,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/monk-skin-tone-scale/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/monk-skin-tone-scale/amp/",
-      "publishedDateTime": "2022-05-11T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-understanding-the-world-through-language.md",
-      "title": "Understanding the world through language",
-      "excerpt": "Language is at the heart of how people communicate with each other. It’s also proving to be powerful in advancing AI and building helpful experiences for people worldwide.From the beginning, we set out to connect words in your search to words on a page so we could make the web’s information more accessible",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/",
-      "originalUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io_2022_hero1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/understanding-the-world-through-language/amp/",
-      "publishedDateTime": "2022-05-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

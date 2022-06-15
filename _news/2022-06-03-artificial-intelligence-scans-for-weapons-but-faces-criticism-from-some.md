@@ -3,18 +3,26 @@ category: news
 title: "Artificial intelligence scans for weapons, but faces criticism from some"
 excerpt: "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work."
 publishedDateTime: 2022-06-03T15:28:00Z
-originalUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
-webUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+originalUrl: "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+webUrl: "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+ampWebUrl: "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
+cdnAmpWebUrl: "https://www-fox47news-com.cdn.ampproject.org/c/s/www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
 type: article
 
 provider:
-  name: KSTU
-  domain: fox13now.com
+  name: WSYM-TV
+  domain: fox47news.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-secured: "/UYpz4+aUgNLwndLx17GeH8JINnaxgOsXLMmUbq5O0XJj5AdnzDy//7IaBzmu/hu5wjGgE2SJcR9atsJ3qnt93qs1vWMQRB9snTGkrD3GgRGfcU3Q0wNb6EhCdqrlQe4TbyjWr3t7AqtSO5ZgYBcdXyxYL+oL7+FNkhCBQ/v7Cbk78OU1HpfPq8nEJCIe3YX9P/hnMKV5JnioY5eXCSGyigaQmmlEQG9031GHcZ50gTH2f27w0l4bqtE++TFJR9Kjuy5bZ/rEb6zVnf0K/QrKusxp0npLXxeES9Z5inu9FlXVuyVeY82B3+Z6M3Vgnk9Byr88/mV9hSfaXi0qactFYhD7goCCLKBRgSpnZFOsmSVsI/wj7rHBH1XlUixK4WM3rcerqfy3FsFpdKGoVLqo6QRllqxCFTlRi5gVEwC4/Kn3E9WbhvBNowPREqf6UQEnmiU1uPhrcb3qZahvNweWISloHoRN9tlpLLHeJ9Ucp87EcSQEeNSzodQYKOfrjqcLx5lDR8FmlLlceJk8a26vA==;iObZjvOtLIfG1eUrLrPX2A=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "1CqT/tWpmB3h8/AEnPP19Aj4DAZY+gWSzAWZs6kxM85PDGNV8Y8/AAP88d54GeBag7saVVhXvLiVSeJMtRc4aO5yPJULkK8lHlUCMXJvwQAXhAkUmy9STJrXOhlH4NrSrbH4ASrnQjOGHDUJ+uqRHmiVfncjAoMYpb0zCnzAVZcWXOZ5dZblBF75UhPRWILUS0CrJFKaCd6kadGeDRVMALd59bgW8WD+IXeCANB93PhiO7kfJtQ3wLJzJBH8+XTwWvXKRupLCkJIzAYAkDRzO8MIuUtZd2p1kJUux/qSawvr8ESHt9aUHnyYRZGrCaYQyE4sFPe5n2YWA5hdyRIFEZ7Jum4zz6OMnObZg9HHbk8=;IZg541D4t9uM4K9lFBjKYg=="
 ---
 

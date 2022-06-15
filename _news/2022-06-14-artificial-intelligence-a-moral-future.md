@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-13T19:32:00Z
 originalUrl: "https://www.abc.net.au/radio/programs/conversations/abc-conversations-toby-walsh-artificial-intelligence-morality/13906494"
 webUrl: "https://www.abc.net.au/radio/programs/conversations/abc-conversations-toby-walsh-artificial-intelligence-morality/13906494"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Australian Broadcasting Corporation

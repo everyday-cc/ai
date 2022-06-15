@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-15-elon-musk-says-solving-self-driving-is-the-difference-between-tesla-being-worth-a-lot-or-nothing.md",
-      "title": "Elon Musk says solving self-driving is the difference between Tesla being worth a lot or nothing",
-      "excerpt": "Elon Musk made an interesting comment about Tesla’s effort to develop self-driving. The CEO says that solving self-driving is the difference between Tesla being worth a lot of money or almost nothing.",
+      "path": "_news/2022-06-15-tesla-and-honda-report-over-350-crashes-involving-advanced-driving-assistance-systems.md",
+      "title": "Tesla and Honda report over 350 crashes involving advanced driving assistance systems",
+      "excerpt": "Tesla Inc. reported 273 crashes while Honda reported 90 involving advanced driving assistance systems, including Autoplot, since July, according to newly released data.",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/",
-      "originalUrl": "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/",
+      "webUrl": "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems",
+      "originalUrl": "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 142,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bea0abb-d21b-4fc6-844b-d80074aa7d77/90f0e8b4-2400-4c2b-b458-a73d8745f190/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
           "width": 1200,
-          "height": 628,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/amp/",
-      "publishedDateTime": "2022-06-15T03:42:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp",
+      "publishedDateTime": "2022-06-15T08:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-explained-and-tested-teslas-self-driving-autopilot.md",
+      "title": "Explained and tested: Tesla’s ‘self-driving’ Autopilot",
+      "excerpt": "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg",
+          "width": 1800,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
+      "cdnAmpWebUrl": "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
+      "publishedDateTime": "2022-06-14T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -98,58 +141,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-14-is-your-car-autonomous-the-6-levels-of-self-driving-explained.md",
-      "title": "Is Your Car Autonomous? The 6 Levels of Self-Driving Explained",
-      "excerpt": "We're still a few years out from truly self-driving cars shuttling us all around. Here are the technology milestones your ride has to reach before it can be considered fully autonomous.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/cars-auto/94559/is-your-car-autonomous-the-6-levels-of-self-driving-explained",
-      "originalUrl": "https://au.pcmag.com/cars-auto/94559/is-your-car-autonomous-the-6-levels-of-self-driving-explained",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/help/i/is-your-ca/is-your-car-autonomous-the-6-levels-of-self-driving-explaine_f55c.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-13-what-ai-developers-need-to-know-about-artificial-intelligence-ethics.md",
       "title": "What AI developers need to know about artificial intelligence ethics",
       "excerpt": "Some tools and platforms promise fair and balanced AI, but tools and platforms alone won't deliver ethical AI solutions.",
@@ -158,7 +149,7 @@
       "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -346,6 +337,40 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-pentagons-hicks-expects-real-results-from-artificial-intelligence-office.md",
+      "title": "Pentagon’s Hicks expects real results from artificial intelligence office",
+      "excerpt": "The Chief Digital and Artificial Intelligence Office, fully operational this month, needs to produce results and be seen as a “go-to place for talent and technical expertise,” Hicks said June 8 at the Department of Defense’s virtual Digital and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -646,7 +671,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -807,6 +833,40 @@
       ]
     },
     {
+      "path": "_news/2022-06-08-uber-and-waymo-want-to-make-self-driving-freight-trucks-a-thing.md",
+      "title": "Uber and Waymo Want to Make Self-Driving Freight Trucks a Thing",
+      "excerpt": "Together, they’re planning to combine Waymo’s self-driving technology with Uber Freight’s shipping network to help automate long-distance trucking. Although a version of reality where ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/06/uber-and-waymo-want-to-make-self-driving-freight-trucks-a-thing/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/06/uber-and-waymo-want-to-make-self-driving-freight-trucks-a-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-family-sues-meta-blames-instagram-for-daughters-eating-disorder-and-self-harm.md",
       "title": "Family sues Meta, blames Instagram for daughter’s eating disorder and self-harm",
       "excerpt": "A preteen girl’s “addictive” use of Instagram resulted in an eating disorder, self-harm and thoughts of suicide over several years, according to a lawsuit against the platform’s parent company, Meta.",
@@ -837,58 +897,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-uber-and-waymo-want-to-make-self-driving-freight-trucks-a-thing.md",
-      "title": "Uber and Waymo Want to Make Self-Driving Freight Trucks a Thing",
-      "excerpt": "Uber and Waymo have put the past aside, and are now in it for the long haul. On Tuesday, the two companies, previously legal foes, announced a new partnership. Together, they’re planning to combine Waymo’s self-driving technology with Uber Freight’s shipping network to help automate long-distance trucking.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318",
-      "originalUrl": "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/80978baad8b9cf3ba3858a0ff2bfc839.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp",
-      "publishedDateTime": "2022-06-07T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1343,58 +1351,6 @@
         "name": "Palm Beach Post",
         "domain": "palmbeachpost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-new-nhtsa-data-on-self-driving-car-crashes-coming-this-month.md",
-      "title": "New NHTSA Data on Self-Driving Car Crashes Coming This Month",
-      "excerpt": "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156",
-      "originalUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-557184/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

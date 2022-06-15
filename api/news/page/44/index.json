@@ -2,12 +2,12 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2022-05-04-worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system.md",
-      "title": "Worldline and Algoan to develop open-banking-based credit assessment system",
-      "excerpt": "WLN], a global leader in payment services, and Algoan, a leading credit scoring provider, today announced a collaboration agreement to jointly develop a next-level credit assessment solution to help lenders and services providers make better credit decisions.",
+      "path": "_news/2022-05-11-ai-leveraged-by-smbs-to-reshape-their-businesses.md",
+      "title": "AI Leveraged by SMBs to Reshape Their Businesses",
+      "excerpt": "AI-based software applications, such as Microsoft Azure, have made cloud-based information available to the entire organization, which means spontaneous innovation can happen faster. When a company can work more effectively, the speed of innovation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/92519/worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system",
-      "originalUrl": "https://www.finextra.com/pressarticle/92519/worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,12 +17,159 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T02:27:00-07:00",
+      "publishedDateTime": "2022-05-10T12:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus.md",
+      "title": "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs",
+      "excerpt": "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
+      "originalUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg",
+          "width": 709,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "publishedDateTime": "2022-05-10T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-certn-nabs-50m-to-accelerate-background-checks-with-ai.md",
+      "title": "Certn nabs $50M to accelerate background checks with AI",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "publishedDateTime": "2022-05-10T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-sofi-stock-falls-after-fintech-firm-accidentally-releases-first-quarter-report-early.md",
+      "title": "SoFi stock falls after fintech firm accidentally releases first-quarter report early",
+      "excerpt": "Shares of SoFi fell sharply on Tuesday and were halted for nearly three hours after the company accidentally released its first-quarter results early. The company said the report was released early due to human error.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "originalUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107018575-1645558180917-gettyimages-1372185735-0j5a7034_07649f06-aee4-4713-b71b-eb5bcd0da8bb.jpeg?v=1645558270",
+          "width": 2803,
+          "height": 1936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "publishedDateTime": "2022-05-10T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -36,741 +183,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-04-facebooks-parent-developed-a-new-ai-language-model-now-its-giving-it-away-for-research.md",
-      "title": "Facebook's Parent Developed A New AI Language Model — Now It's Giving It Away For Research",
-      "excerpt": "Facebook parent Meta Platforms Inc (NASDAQ ... Recently, Meta CEO Mark Zuckerberg said that the company is working on AI research to allow people to have more natural conversations with voice ...",
+      "path": "_news/2022-05-11-slai-makes-intelligent-choices-around-machine-learning-setups-for-developers.md",
+      "title": "Slai makes intelligent choices around machine learning setups for developers",
+      "excerpt": "Slai is building a developer-first platform for machine learning. It equips developers with the tools to quickly ship machine-learning applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
-      "originalUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
+      "webUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/05/04/markus-spiske-8oykwqgbskq-unsplash.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26982582",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26982582",
-      "publishedDateTime": "2022-05-04T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-space-discoveries-that-will-blow-your-mind.md",
-      "title": "Space discoveries that will blow your mind",
-      "excerpt": "Space discoveries that will blow your mind Since NASA’s inception in 1958, astronauts have landed on the moon, parked a robot-controlled rover on Mars, and discovered thousands of exoplanets—planets that orbit stars outside of this solar system.",
-      "sourceUrl": null,
-      "webUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
-      "originalUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/whatsupnewp.com/wp-content/uploads/2022/04/Screen20Shot202020-10-2620at201.01.4220PM_1.png?fit=1013%2C720&ssl=1",
-          "width": 1013,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
-      "cdnAmpWebUrl": "https://whatsupnewp-com.cdn.ampproject.org/c/s/whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
-      "publishedDateTime": "2022-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "What'sUpNewp",
-        "domain": "whatsupnewp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities.md",
-      "title": "Global AI based Edge Computing Chip Market 2022: Overview, Manufacturing Cost Structure Analysis, Growth Opportunities",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 04, 2022 (The Expresswire) -- “AI based Edge Computing Chip Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses.md",
-      "title": "EKA partners with NuPort Robotics to introduce smart Electric Buses",
-      "excerpt": "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses",
-      "originalUrl": "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uniindia.com/public/default-image/default-730x400.png",
-          "width": 730,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United News of India",
-        "domain": "uniindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers.md",
-      "title": "Facebook-owner Meta makes AI large language model accessible for more researchers",
-      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/meta.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/lite/",
-      "publishedDateTime": "2022-05-03T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
-      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
-      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426610",
-      "originalUrl": "https://www.entrepreneur.com/article/426610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-426610.jpeg",
-          "width": 3001,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
-      "title": "Facebook-owner Meta opens access to AI large language model",
-      "excerpt": "May 3 (Reuters) - Facebook-owner Meta Platforms Inc (FB.O) is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains.md",
-      "title": "Two sisters create a startup that puts sustainability into global supply chains",
-      "excerpt": "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
-      "originalUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg",
-          "width": 2000,
-          "height": 1332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-azure-arc-enabled-machine-learning-is-now-in-preview.md",
-      "title": "Azure Arc-Enabled Machine Learning Is Now in Preview",
-      "excerpt": "This year, during the virtual Ignite conference, the company announced the preview of Azure Arc-enabled machine learning, which extends Azure machine learning capabilities to hybrid and multi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/",
-      "originalUrl": "https://www.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/en/headerimage/header-1614789645289.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
-      "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
-      "excerpt": "DETROIT (Reuters) - Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483827.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-rekor-announces-the-availability-of-their-cloud-transportation-management-platform-within-the-amazon-web-services-apn.md",
-      "title": "Rekor announces the availability of their cloud transportation management platform within the Amazon Web Services APN",
-      "excerpt": "The Platform has been certified as ‘Well-Architected’ to function in a cloud-based environment. APN is a global community of partners who leverage AWS to build solutions and services for customers. Additionally, Rekor has joined the AWS Public Sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-baidu-gets-a-permit-that-tesla-will-envy.md",
-      "title": "Baidu Gets a Permit That Tesla Will Envy",
-      "excerpt": "\"Their self-driving fleet has driven 40 times the distance between San Francisco and New York City.\" Wei Dong, vice president and chief safety operations officer at Baidu Intelligent Driving Business Group, said in a statement that China's regulatory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUzMDgzODMwNjU4OTY3/amd-shares-higher-for-ninth-straight-day-chipmaker-unveils-new-cpu-deals.png",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "publishedDateTime": "2022-05-03T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-meta-wants-to-improve-its-ai-by-studying-human-brains.md",
-      "title": "Meta wants to improve its AI by studying human brains",
-      "excerpt": "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/meta-ai-language-models/",
-      "originalUrl": "https://www.popsci.com/technology/meta-ai-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/05/03/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg?auto=webp",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/meta-ai-language-models/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp",
-      "publishedDateTime": "2022-05-03T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-interventions-for-alzheimer-disease-improve-cognition-in-men-women.md",
-      "title": "Interventions for Alzheimer Disease Improve Cognition in Men, Women",
-      "excerpt": "Individuals with normal cognition, subjective cognitive decline, or asymptomatic preclinical Alzheimer disease (AD) were classified as \"Prevention,\" while those with mild cognitive impairment due ...",
-      "sourceUrl": null,
-      "webUrl": "https://azdailysun.com/lifestyles/health-med-fit/interventions-for-alzheimer-disease-improve-cognition-in-men-women/article_0e0ed75e-70ad-518d-a5fb-1616fe653e1f.html",
-      "originalUrl": "https://azdailysun.com/lifestyles/health-med-fit/interventions-for-alzheimer-disease-improve-cognition-in-men-women/article_0e0ed75e-70ad-518d-a5fb-1616fe653e1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/d/d9/dd965974-4394-5a40-a56d-dedb793cabc6/6271ae1a67f29.image.jpg?crop=600%2C315%2C0%2C67&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Sun",
-        "domain": "azdailysun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure.md",
-      "title": "Dell forms security partnerships with major cloud providers AWS, Microsoft Azure",
-      "excerpt": "and they are now expanding it to the public cloud with Azure and expanding features with advanced capabilities with AWS (corruption detection, analytics and machine learning). \"These options provide a robust vault/recovery solution at scale for enterprises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure",
-      "originalUrl": "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2022/02/GettyImages-477611329.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen.md",
-      "title": "Argo AI, Zoox and Coalition for Reimagined Mobility to discuss what makes a ‘good AV citizen’",
-      "excerpt": "We’re excited to announce that Argo AI’s chief corporate responsibility officer Summer Fowler, Riccardo Giraldi, who is senior director at Zoox and Alisyn Malek, executive director at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/mobility-2022-building-AVs.jpg?w=1024",
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/slai-founders.jpg?w=1024",
           "width": 1024,
-          "height": 535,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -778,9 +205,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/amp/",
-      "publishedDateTime": "2022-05-03T13:54:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -803,328 +230,10 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-3-leading-us-robotics-clusters-create-alliance.md",
-      "title": "3 leading US robotics clusters create alliance",
-      "excerpt": "MassRobotics, Pittsburgh Robotics Network and Silicon Valley Robotics have combined forces to create a cluster alliance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/3-leading-us-robotics-clusters-create-alliance/",
-      "originalUrl": "https://www.therobotreport.com/3-leading-us-robotics-clusters-create-alliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-robotics-clusters.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise.md",
-      "title": "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise",
-      "excerpt": "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
-      "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/6f9f38ebe51de141ba324517208291b9c98e6e51/2022/05/02/b1c01638-c17e-462e-80eb-3428354a9ae9/gettyimages-1233383030.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/",
-      "publishedDateTime": "2022-05-03T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
-      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
-      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-amd-first-quarter-earnings-live-blog.md",
-      "title": "AMD First-Quarter Earnings Live Blog",
-      "excerpt": "Last year's data center GPU growth was driven by HPC. But we're now very engaged on the AI front for GPUs. Xilinx chief Victor Peng: Demand for Xilinx's compute engines and networking products are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/amd-first-quarter-earnings-live-blog",
-      "originalUrl": "https://www.thestreet.com/investing/amd-first-quarter-earnings-live-blog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwOTU2Mzg1MTM4MjU0OTM2/us-industry-group-applauds-nyse-move-to-delist-three-chinese-telecoms-companies.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/amd-first-quarter-earnings-live-blog",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amd-first-quarter-earnings-live-blog",
-      "publishedDateTime": "2022-05-03T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
-      "title": "Google Faces Internal Battle Over Research on AI to Speed Chip Design",
-      "excerpt": "The new episode emerged after the scientific journal Nature in June published \"A graph placement methodology for fast chip design,\" led by Google scientists Azalia Mirhoseini and",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp",
-      "publishedDateTime": "2022-05-03T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-how-to-stop-losing-employees-and-start-winning-the-war-for-talent.md",
-      "title": "How To Stop Losing Employees And Start Winning The War For Talent",
-      "excerpt": "But in 2020, the nature of work fundamentally changed. In a digital workplace, companies keep employees engaged with their AI — not their HQ. We went from the physical HQ being the heart of the company, to a digital workplace that dictated the entire ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/",
-      "originalUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627001947b0091949a29d4e8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/",
-      "publishedDateTime": "2022-05-03T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
-      "title": "Google faces internal battle over research on AI to speed chip design",
-      "excerpt": "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
+        "Machine Learning",
         "AI"
       ]
     }
   ],
-  "nextPage": 45
+  "nextPage": null
 }

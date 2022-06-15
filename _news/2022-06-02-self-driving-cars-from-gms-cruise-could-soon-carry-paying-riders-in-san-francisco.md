@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Self-driving Cars From GM's Cruise Could Soon Carry Paying Riders In San Francisco"
+title: "Self-driving cars from GM’s Cruise could soon carry paying riders in San Francisco"
 excerpt: "General Motors Co's Cruise on Thursday could become the first company to secure a permit to charge for self-driving car rides in San Francisco, if it can overcome objections by city officials."
-publishedDateTime: 2022-06-02T11:40:00Z
-originalUrl: "https://www.ibtimes.com/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-3528508"
-webUrl: "https://www.ibtimes.com/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-3528508"
+publishedDateTime: 2022-06-02T11:18:00Z
+originalUrl: "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/"
+webUrl: "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: KFGO
+  domain: kfgo.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/28/a-cruise-self-driving-car-which-is-owned.jpg"
-    width: 1200
-    height: 788
+  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-06/02/2022-06-02T111812Z_3_LYNXMPEI510FA_RTROPTP_3_GM-RESULTS.JPG"
+    width: 800
+    height: 544
     isCached: true
 
-secured: "cdgfFEhdAkGpFsf2aFGNE/5KMrT25y5NTzvoeNGO79+qGcIdEiyDXLJuSXjvGo2HsUnRsV5YIiq+OQyHaqeTg4VLmQyS2a58nPN6SmX1xbHGWTjVQRGgdDZruKXB6xJKCUY97au2VvuSFEcixFWofZn0KGl8Mz+zyhWnT+xW2ZlaDEnSU3XkigrS0XzTquFLgD34Gwi4W2qyzO9oSm5HG/rhGJiKzkmIehcbBwh4AMXLulWQYGT6a150PPhtg+VVHSq+S29ZchY9EceMpq/ddfPntzYXtzesbBxEYJtRke5a50T6rsL1UWpwAsXkleWsnx2MD5n/4bzdM+wouzAYQ4dCwx6s1VDlKhpJ8ribzQD9wa24WIkodslxh6ByrM/qxFTmY7YHW6TIA9couNojJkbtecyLwJbOiTObkzC08WtsaMtvFdkyyRdrBwgf4BvWPxxZ6g2THmQoas3Qu8kYLIfFlHBu7O512YjXauC8q4KVkdxnBP3DvlKzThCm76wfZsAtdECncxXqLhaPEmB/Tw==;WVT4lwQS4WqXljtPL8dugg=="
+secured: "dJEohPpkAfLlIkSyrRhy8qJ4JEZskYaluBhcQg4QLvitQdP4XolBbGZrnmaQeMxL61MwZwdDy2Y4SXlGZM+zo9YEHwQcn4RvgxdGZTjHlX0OCJ2zs7chDctrdR2yilGoCqw9kKS/AMzF3qvU5Dcwt90JGA9z5ZlIfWmFZjRU3d1aSrMNZ5b3JONXj7hTIvx5fBgzzce/aryq0mS3BOPKvTXFtxuCCGxydk8Nv8mSpsvk2pZus7NFsipwQO6MUF6PVFK30o80fGhP7uURxkNSs8JLdd/Jc7dxk42fm4995ijYvWZzrxDFd3pDqtZ0qLJnXeVYQt27JILbhqfM6gWXTf8iLxip2Th85dkxSmoAay0=;QnUtkqEh0W9ByTMCthlZYg=="
 ---
 

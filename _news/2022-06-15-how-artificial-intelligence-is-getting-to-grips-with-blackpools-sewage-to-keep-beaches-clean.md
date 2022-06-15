@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T11:34:00Z
 originalUrl: "https://www.lep.co.uk/news/environment/how-artificial-intelligence-is-getting-to-grips-with-blackpools-sewage-to-keep-beaches-clean-3731158"
 webUrl: "https://www.lep.co.uk/news/environment/how-artificial-intelligence-is-getting-to-grips-with-blackpools-sewage-to-keep-beaches-clean-3731158"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Lancashire Evening Post

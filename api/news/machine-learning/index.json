@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-14-iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning.md",
+      "title": "IIM-K launches accelerator programme to boost Artificial Intelligence and Machine Learning",
+      "excerpt": "The Laboratory for Innovation, Venturing and Entrepreneurship (LIVE), the business incubator and entrepreneurship development centre of the Indian Institute of Management, Kozhikode (IIM-K) has launched LIVE X,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece",
+      "originalUrl": "https://www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece/amp/",
+      "publishedDateTime": "2022-06-14T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-inrule-adds-automl-capabilities-to-its-ml-modeling-engine.md",
       "title": "InRule adds AutoML capabilities to its ML modeling engine",
       "excerpt": "InRule says that incorporating ML automation into its no-code decision platform enables enterprises to scale ML faster and more effectively.",
@@ -897,19 +940,19 @@
     {
       "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
       "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
-      "excerpt": "With “just enough” human supervision, auto-labeling, and configurable AutoML, models go from hypothesis to production-ready in days vs. months. Jaxon is one of the first to offer a “coding ...",
+      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
-      "originalUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/aafc0084466247a4e69b440d816eebed74f8aae6-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -919,11 +962,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T04:01:00-07:00",
+      "publishedDateTime": "2022-06-09T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1378,49 +1421,6 @@
       "provider": {
         "name": "SC Media",
         "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

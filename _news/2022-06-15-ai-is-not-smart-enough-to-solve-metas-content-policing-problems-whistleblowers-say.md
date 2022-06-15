@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T13:53:00Z
 originalUrl: "https://www.businessinsider.com/meta-facebook-ai-cannot-solve-moderation-frances-haugen-daniel-motaung-2022-6"
 webUrl: "https://www.businessinsider.com/meta-facebook-ai-cannot-solve-moderation-frances-haugen-daniel-motaung-2022-6"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: Business Insider
