@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-14-easily-customize-your-notifications-while-using-amazon-lookout-for-metrics.md",
+      "title": "Easily customize your notifications while using Amazon Lookout for Metrics",
+      "excerpt": "We are excited to announce that you can now add filters to alerts and also edit existing alerts while using Amazon Lookout for Metrics. With this launch, you can add filters to your alerts configuration to only get notifications for anomalies that matter the most to you. You can also modify existing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easily-customize-your-notifications-while-using-amazon-lookout-for-metrics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easily-customize-your-notifications-while-using-amazon-lookout-for-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/14/easily-customize-lookout.jpg",
+          "width": 1248,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T16:22:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-explained-and-tested-teslas-self-driving-autopilot.md",
+      "title": "Explained and tested: Tesla’s ‘self-driving’ Autopilot",
+      "excerpt": "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg",
+          "width": 1800,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
+      "cdnAmpWebUrl": "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
+      "publishedDateTime": "2022-06-14T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-this-ai-makes-mind-bending-art-and-you-can-give-it-a-try.md",
       "title": "This AI Makes Mind-Bending Art, and You Can Give It a Try",
       "excerpt": "You don't have to search far on the internet to find nightmare fuel. If your dreams have gotten a little too rosy lately, you can spend some time browsing the weird, funny and occasionally disturbing images created by an artificial intelligence tool called Dall-E Mini.",
@@ -535,6 +630,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-14-facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial.md",
+      "title": "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial",
+      "excerpt": "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "originalUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop",
+          "width": 320,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "publishedDateTime": "2022-06-14T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail.md",
       "title": "How AI Video Analytics Is Energizing Business Operations For Brick-And-Mortar Retail",
       "excerpt": "In the end, it's important to find a solution that meets your specific goals and fits well into your existing processes.",
@@ -818,7 +956,7 @@
       "originalUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -963,7 +1101,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1057,146 +1195,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-amds-ai-strategy-comes-into-view-with-xilinx-gpu-software-plans.md",
-      "title": "AMD’s AI strategy comes into view with Xilinx, GPU, software plans",
-      "excerpt": "Analysis After re-establishing itself in the datacenter over the past few years, AMD is now hoping to become a big player in the AI compute space with an expanded portfolio of chips that cover everything from the edge to the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/13/amd_ai_strategy/",
-      "originalUrl": "https://www.theregister.com/2022/06/13/amd_ai_strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/11/08/handout_amd_lisa_su.jpg",
-          "width": 1557,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/13/amd_ai_strategy/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/13/amd_ai_strategy/",
-      "publishedDateTime": "2022-06-13T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-how-ai-and-bots-strengthen-endpoint-security.md",
-      "title": "How AI and bots strengthen endpoint security",
-      "excerpt": "Fast-growing ransomware, malware and endpoint-directed breach attempts are reordering the threat landscape in 2022 which is calling for rapid changes in endpoint security.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/13/how-ai-and-bots-strengthen-endpoint-security/",
-      "originalUrl": "https://venturebeat.com/2022/06/13/how-ai-and-bots-strengthen-endpoint-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker.md",
-      "title": "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker",
-      "excerpt": "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters).",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/13/billion-parameter-sagemaker.jpg",
-          "width": 1247,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T10:36:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

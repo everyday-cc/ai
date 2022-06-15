@@ -59,22 +59,6 @@ related:
         width: 914
         height: 510
         isCached: true
-  - title: "AMD confirms RDNA4 Radeon RX 8000 GPU series and CDNA3 Instinct MI300 Data Center APUs in its 2022-24 Roadmap"
-    excerpt: "AMD appears to be planning to use the same graphic design for RDNA 4 across its entire Navi 4X series, with no refreshes from previous GPU architectures like RDNA 3 or RDNA 2. For its MCM processors,"
-    publishedDateTime: 2022-06-10T06:39:00Z
-    webUrl: "https://technosports.co.in/2022/06/10/amd-roadmap-2024/"
-    ampWebUrl: "https://technosports.co.in/2022/06/10/amd-roadmap-2024/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/06/10/amd-roadmap-2024/?amp"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 40
-    images:
-      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/06/Untitled-low_res-scale-6_00x-Custom-1920x1388-1.png"
-        width: 1600
-        height: 1157
-        isCached: true
   - title: "AMD wants to double revenue by 2025 with its data center and AI chips"
     excerpt: "At AMD's first financial analyst day in two years, executives said the future of the company is the data center."
     publishedDateTime: 2022-06-10T18:29:00Z
@@ -94,6 +78,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "xpVjCBYt2XGNToJ5Wr3LXiU+ElgZVsLy6VitpQf5BZFXQuzd33yqno2jUMaUgrli8EWBQQrVknCBzfWsPXCBr66EtNTIwlXBtm9HfneUzkRnrRF5NuJY/jEpP1hs6q7mWixO52iPuHCFoA/8QZjGT8w3k5yWMwBZyqSakXprEhv4KcS9qxV1nVK48iGS1zL7/17ND5obBvmNHCE/s7sMmkiZvfTSkM0aAEcuPdNWy+ARDKEYeYbK1wD081krHUPXsS3opCiXak5eEdeT9iSmwaMlbAUoeDnvh3npRljBq+8sYFp3JYECeAqUxG4BzzyottiNyIuhHWAbFb105bd6OTwYeVrXuV0lZaift9X57Ag=;Npb+V+dLfjrXle7ub+tcAA=="
+secured: "gFEQIlrzNXcRVHXxDe4fCdGN9HoWvBs8BBjp8BytIfzEbkFUCfKBmtebnHpH3EEsrntP93oLhWVTnwslRPNu4WrhWyl5wv1DGUAKvjmTRMpEsYdP1GTTKC3rhGV7pa34COEYeO2GOQxP1yKn4KCslxX/xmzidkS8Kn4CMp6+qXAJSzdip42kkg74QCi0La/B4NL1H/87j1hBqpysR576xSZelUMLYeK8jRMqi4L1UCNk7NlA2HFi8LB/pADW18Hdjs9q0GV8+5Fg+kviLztDSn+gEDC5h4YL9i+OXYjJzaSA3EH9gbzhBfT+SkJD1m3Cb115RBO/fzq4aEnYAREh6tsitaVyl4OEZjh/i2Q1oUqWmcFlwQ6FmrXo4kOvSYmMK2SGpvbKIpPpcoW1RmYdE1os+37xWJpPwSJExHNe5MC1Yo2n6xWdGF1txk2zl2Dv9OwuSUZgnYNc5g8L5tG6MNU4I8NWF7A28dXj7U7soQMe2XJLRD9Vvzbs/l+UlW0VinoQlju8yOZQVn1huBmK2A==;YB+HnHEgiTvERhLzxYfiEA=="
 ---
 

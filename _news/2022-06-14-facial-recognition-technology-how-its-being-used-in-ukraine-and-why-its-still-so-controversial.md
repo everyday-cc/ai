@@ -1,30 +1,46 @@
 ---
 category: news
-title: "Facial recognition technology: how it's being used in Ukraine and why it's still so controversial"
-excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now ..."
-publishedDateTime: 2022-06-14T11:11:00Z
-originalUrl: "https://www.ibtimes.co.uk/facial-recognition-technology-how-its-being-used-ukraine-why-its-still-so-controversial-1700718"
-webUrl: "https://www.ibtimes.co.uk/facial-recognition-technology-how-its-being-used-ukraine-why-its-still-so-controversial-1700718"
+title: "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial"
+excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families."
+publishedDateTime: 2022-06-14T10:52:00Z
+originalUrl: "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+webUrl: "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
 type: article
-quality: 41
-heat: 41
-published: false
+quality: 61
+heat: 101
+published: true
 
 provider:
-  name: IBTimes UK
-  domain: ibtimes.co.uk
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://d.ibtimes.co.uk/en/full/1697322/facial-recognition-technology-controversial-many-countries.jpg"
-    width: 496
-    height: 278
+  - url: "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop"
+    width: 320
+    height: 208
     isCached: true
 
 related:
+  - title: "Cobb police seek approval for controversial AI facial recognition software"
+    excerpt: "The Cobb County Police Department on Tuesday will seek approval from the Board of Commissioners to expand its use of a controversial facial recognition system that uses artificial intelligence to identify suspects."
+    publishedDateTime: 2022-06-10T15:29:00Z
+    webUrl: "https://www.ajc.com/neighborhoods/cobb/cobb-police-seek-approval-for-controversial-ai-facial-recognition-software/C7AQSR4BUBGFFF6H2QAWMFNTLQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 52
+    images:
+      - url: "https://www.ajc.com/resizer/WiaPAcke_7PynFUsqlEHwdLVl0s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/6SGSYJJ33BH73GGPD2Q22V34BE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kmart, Bunnings and The Good Guys using facial recognition technology in stores"
     excerpt: "CHOICE has discovered three major retail outlets in Australia are using facial recognition technology and shoppers remain largely in the dark about the practice."
     publishedDateTime: 2022-06-14T06:53:00Z
@@ -53,7 +69,16 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"
+    publishedDateTime: 2022-06-14T12:45:00Z
+    webUrl: "https://techxplore.com/news/2022-06-facial-recognition-technology-ukraine-socontroversial.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 22
 
-secured: "k2moOlPq5tLcjyIMlUBbv6ONbQtU6UTF7via8+yTnL/DocBWqG9d1dkqweYfH79Qqgtuzzl9oBp+HqVIumH6Yzy8vosdhbG8vgb5IYn8RQNO3ZAbWNDNXsCQwJkzhdobSHcohybpXQyk/nP44ns3nygtD+CwpRiMgsMRNuKnAFxN68IJ/Fz8psj23sqoe7u0cUyPFcqdPR3ld9VA3iLyk/ZNkqVOySLoP0wGjtlxknMZAdeXr/2SAUS3surzEiUQoqJWNNIEyF9P3q6kEvroqmt6awLx3DmDROH/P1rsNpw5tn106hn7VkW1LU8a+1+4EnR5fHUDAdDhm1r27e9fhrSSGrKP4nS3YYm2IsVTsmI=;ueRvIsLi9N9JRWZj+1mPzw=="
+secured: "KPjdBIhn9lWjWuZQdIMtOrLq/NG5Tma+nPR9+r3kZZV8HJnzZMQpgxwdJtl5ZDGrAs7riY6eD45I5Xl3ZcPuQr0grBYOHJExJ/h1WNZi48uYgP1sIjlB7e5qK/4kdAwZ9meAhZvnLBpEduZDp8ME48/FF96kGlkhEdklMnNaPGlAe8cs9OBhKq8nMuXaDT+ufOgfBc18+1EqbMtPmTxp1DsNv6pRh8GpY2X3R7ZPeb8Ify5Cpa3RXQuJOWJfmECOvRkZ+qj8s0Zh1gmydoMRre66Dlt7kODvxBX7EiCalYVZSLuuUOBMUx4jqH4xS0irR83IV2J8BH2bJGVgN0ahXvfM9DYz0xKoKihVzKpeXw4=;3A6SNld6uxyyi1upYYym6Q=="
 ---
 

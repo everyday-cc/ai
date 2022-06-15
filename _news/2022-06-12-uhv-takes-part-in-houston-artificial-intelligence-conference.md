@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-11T23:07:00Z
 originalUrl: "https://www.victoriaadvocate.com/news/uhv-takes-part-in-houston-artificial-intelligence-conference/article_e2075c1e-e7f2-11ec-a5c2-d705de5aaeaa.html"
 webUrl: "https://www.victoriaadvocate.com/news/uhv-takes-part-in-houston-artificial-intelligence-conference/article_e2075c1e-e7f2-11ec-a5c2-d705de5aaeaa.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/4/76/476bebd4-b96d-11eb-8e5a-1b7e1f0cae4a/60a660d5b653d.image.jpg?resize=333%2C500"

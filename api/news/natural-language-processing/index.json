@@ -10,7 +10,7 @@
       "originalUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -206,7 +206,7 @@
       "originalUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
       "featuredContent": null,
       "highlight": null,
-      "heat": 609,
+      "heat": 629,
       "tags": null,
       "images": [
         {
@@ -507,10 +507,10 @@
     {
       "path": "_news/2022-06-08-lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
       "title": "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ...",
+      "excerpt": "Lilt Is Recognized as a Representative Vendor in this 2022 report SAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience (GX) platform, today announced that it has been identi",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27594269/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27594269/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -518,13 +518,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T10:23:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27594269",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27594269",
+      "publishedDateTime": "2022-06-07T10:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

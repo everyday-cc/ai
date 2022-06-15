@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

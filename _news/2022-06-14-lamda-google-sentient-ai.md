@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "LaMDA and the Sentient AI Trap"
+    excerpt: "Arguments over whether Google’s large language model has a soul distract from the real-world problems that plague artificial intelligence."
+    publishedDateTime: 2022-06-14T23:25:00Z
+    webUrl: "https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/"
+    ampWebUrl: "https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/62a90cf2741a6aeef4686dbf/master/pass/LaMDA-Sentient-AI-Trap-Google-Business-1330829968.jpg"
+        width: 2400
+        height: 1601
+        isCached: true
   - title: "Has Google's LaMDA become sentient? Understanding the futuristic AI"
     excerpt: "Google's AI-based language model LaMDA has been in the news after Blake Lemoine, a Google engineer, claimed that it had become sentient program"
     publishedDateTime: 2022-06-14T11:24:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/a9504caf2ddfb0b7c19917de3dbf34532f282eac/2021/07/16/95711752-ec77-44fc-8dc0-70aa6204d707/data-science-shutterstock-1081970570.jpg?width=1200&fit=bounds&auto=webp"

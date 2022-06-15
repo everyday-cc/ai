@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology: how it's being used in Ukraine and why it's still so controversial"
-    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now ..."
-    publishedDateTime: 2022-06-14T11:11:00Z
-    webUrl: "https://www.ibtimes.co.uk/facial-recognition-technology-how-its-being-used-ukraine-why-its-still-so-controversial-1700718"
+  - title: "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families."
+    publishedDateTime: 2022-06-14T10:52:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 41
+      name: The Conversation
+      domain: theconversation.com
+    quality: 61
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1697322/facial-recognition-technology-controversial-many-countries.jpg"
-        width: 496
-        height: 278
+      - url: "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop"
+        width: 320
+        height: 208
+        isCached: true
+  - title: "Cobb police seek approval for controversial AI facial recognition software"
+    excerpt: "The Cobb County Police Department on Tuesday will seek approval from the Board of Commissioners to expand its use of a controversial facial recognition system that uses artificial intelligence to identify suspects."
+    publishedDateTime: 2022-06-10T15:29:00Z
+    webUrl: "https://www.ajc.com/neighborhoods/cobb/cobb-police-seek-approval-for-controversial-ai-facial-recognition-software/C7AQSR4BUBGFFF6H2QAWMFNTLQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 52
+    images:
+      - url: "https://www.ajc.com/resizer/WiaPAcke_7PynFUsqlEHwdLVl0s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/6SGSYJJ33BH73GGPD2Q22V34BE.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Health organization moves to facial-recognition technology"
     excerpt: "VHC Health – formerly known as Virginia Hospital Center – is slated to implement “positive patient identification” (PPID) using facial biometrics at its facilities, making VHC the first health-care sy"
@@ -53,7 +69,16 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"
+    publishedDateTime: 2022-06-14T12:45:00Z
+    webUrl: "https://techxplore.com/news/2022-06-facial-recognition-technology-ukraine-socontroversial.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 22
 
-secured: "I3CACLLF7FPtTsNgJlXzYksrwdNGPYqI19e2fexMJeBXr+cqpLI2k/M0n0HwIaclAiH6yTSdDubWgNeY1BzITpui+xomVBGdVjOmgTfRZP0qzYwAPekO12rpjnRInpNP/bMiWdsK26g74+GikpopXVAcNC280Wc0Iu6VTtdH2C83vF7aJ5xO8j12MexeJi75noWBy0DdOC6PRWCP4CLKs86EukdyCaQFLbD9gBmNzuQZbc7lrkt/KSPyJXAFnP7AtaFm2eqGOVSIqf61etfUzKgFrCaJPjHGi35p54yuuUiyN8+lY1wxbqZs1zQm1dMbhnFRxQYRsq3b2G+hIzJNnYD9vOTjEW3EM2sPLkIFM0I=;d6+HM9pF3pfg3VBXn+EZTQ=="
+secured: "e+be+UHXGZsRLigwnpvZeqBUlWNxLHh9TIoIAGDbZhQ8jlfaoOoY6ak7Hhpa5h9Mju6zx3ZvPQ8KJqbTRR2FS275MhEYP4eDlLnniKaQ3IjIWYzphLhxOOzopSNEmZX+71LHCUDGnuBRUHpruIJTY2g6LoqBIUtpT1MVjfOd4b0GVdf+YrmpECNPufpK/9GtZD0tQ6R/dRvtc7aVSlvLfyeJ6fA5ne/Gv4dMWg1OX3q9XnMMBJt7rgodKUKS+6//T+xXQST4uLP+TGYH9mv3XFnAhxN7V5k1Y/D6v8C/MA4nLmUcwlDascInT/xcKG1pE/nsDskOxofi+rI4exypI0FBx8j6yUDIlN6GMyKkRXYjUtabWzUcd2OcA0O9fian0WLKOwgiub6cDUNcma9EahbxlbumJvUtNEM/ZaluITEkgkWgBz71zDQHrHaJbDjBlDO5vIjumM1nzvrHl7JEHrhrCGTcouCOBpoeWnHoontNJHckpnimBhuE8j7HZIjEsk8f0leluqEMROLMxB52qw==;hX2+FoH2LIg+u5DkpM1vKg=="
 ---
 

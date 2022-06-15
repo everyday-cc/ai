@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-10T20:38:00Z
 originalUrl: "https://www.thedailybeast.com/is-it-artor-artificial-intelligence"
 webUrl: "https://www.thedailybeast.com/is-it-artor-artificial-intelligence"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1152,w_2048,x_0,y_715/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1654882575/M.C._Escher_Robot_Head_by_DALL-E_2_j388i8"

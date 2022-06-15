@@ -294,6 +294,38 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Engineer who claimed Google AI has thoughts, feelings is placed on leave"
+    excerpt: "A Google engineer who argued that the company’s artificial intelligence (AI) is sentient has been placed on personal leave."
+    publishedDateTime: 2022-06-14T22:02:00Z
+    webUrl: "https://kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/"
+    ampWebUrl: "https://kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 56
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/06/google_11042016_getty.jpg?w=1280"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Google engineer says Christianity helped him understand AI is ‘sentient’"
+    excerpt: "Blake Lemoine was placed on leave by Google earlier in June after he published excerpts of a conversation with the company’s LaMDA chatbot that he claimed showed the AI tool had become sentient."
+    publishedDateTime: 2022-06-14T19:52:00Z
+    webUrl: "https://nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/"
+    ampWebUrl: "https://nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 56
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/blake-lemoine-00.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Google Engineer Suspended After Saying Company AI is Sentient"
     excerpt: "Google suspended an engineer last week for publicly revealing details of a chatbot powered by artificial intelligence in violation of the search giant's confidentiality policies,"
     publishedDateTime: 2022-06-13T18:07:00Z
@@ -303,19 +335,19 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
-  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
-    publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.ocregister.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    ampWebUrl: "https://www.ocregister.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence issues"
+    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI can achieve consciousness. Researchers say it’s ..."
+    publishedDateTime: 2022-06-14T23:31:00Z
+    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues-2/"
+    ampWebUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues-2/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues-2/amp/"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 50
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
         isCached: true
@@ -366,22 +398,6 @@ related:
       - url: "https://www.thehindubusinessline.com/incoming/sdfc36/article65384473.ece/alternates/LANDSCAPE_615/IMG_bl19_AI_pic_pg1_2_1_K793GH2G.jpg"
         width: 615
         height: 383
-        isCached: true
-  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
-    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
-    publishedDateTime: 2022-06-14T15:20:00Z
-    webUrl: "https://abc7news.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    ampWebUrl: "https://abc7news.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 48
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
     excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
@@ -444,6 +460,22 @@ related:
       - url: "https://static.independent.co.uk/2022/06/12/17/GettyImages-1149282229.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 800
+        isCached: true
+  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
+    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
+    publishedDateTime: 2022-06-14T15:20:00Z
+    webUrl: "https://abc30.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    ampWebUrl: "https://abc30.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    type: article
+    provider:
+      name: ABC30 Action News
+      domain: abc30.com
+    quality: 42
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google sidelines engineer who claims its AI is sentient"
     excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company’s most advanced technology."

@@ -59,22 +59,6 @@ related:
         width: 885
         height: 590
         isCached: true
-  - title: "AMD confirms RDNA4 Radeon RX 8000 GPU series and CDNA3 Instinct MI300 Data Center APUs in its 2022-24 Roadmap"
-    excerpt: "AMD appears to be planning to use the same graphic design for RDNA 4 across its entire Navi 4X series, with no refreshes from previous GPU architectures like RDNA 3 or RDNA 2. For its MCM processors,"
-    publishedDateTime: 2022-06-10T06:39:00Z
-    webUrl: "https://technosports.co.in/2022/06/10/amd-roadmap-2024/"
-    ampWebUrl: "https://technosports.co.in/2022/06/10/amd-roadmap-2024/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/06/10/amd-roadmap-2024/?amp"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 40
-    images:
-      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/06/Untitled-low_res-scale-6_00x-Custom-1920x1388-1.png"
-        width: 1600
-        height: 1157
-        isCached: true
   - title: "AMD wants to double revenue by 2025 with its data center and AI chips"
     excerpt: "At AMD's first financial analyst day in two years, executives said the future of the company is the data center."
     publishedDateTime: 2022-06-10T18:29:00Z

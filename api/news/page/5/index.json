@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-09-ai-is-embedded-everywhere-at-walmart.md",
+      "title": "AI is embedded everywhere at Walmart",
+      "excerpt": "At Walmart, artificial intelligence and machine learning are embedded throughout the organization – from supply chain management and shopping to search.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/",
+      "originalUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/walmart-truckclose-up-side-view_129821854433586541.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/",
+      "publishedDateTime": "2022-06-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-three-reasons-why-ai-customer-engagement-initiatives-fail.md",
+      "title": "Three Reasons Why AI Customer Engagement Initiatives Fail",
+      "excerpt": "Attempts to implement a catch-all, fix-all solution that solves all of these challenges in every industry today will only result in disappointment on the part of businesses and their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/amp/",
+      "publishedDateTime": "2022-06-09T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
       "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
       "excerpt": "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/",
@@ -46,21 +149,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
-      "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
-      "excerpt": "With “just enough” human supervision, auto-labeling, and configurable AutoML, models go from hypothesis to production-ready in days vs. months. Jaxon is one of the first to offer a “coding ...",
+      "path": "_news/2022-06-09-teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.md",
+      "title": "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker",
+      "excerpt": "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
-      "originalUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Wall-Street-bull-AFP-1K-600x337.jpeg",
-          "width": 600,
-          "height": 337,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -70,11 +173,55 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T04:01:00-07:00",
+      "publishedDateTime": "2022-06-09T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
+      "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
+      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,6 +283,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-global-artificial-intelligence-ai-partnering.md",
+      "title": "Global Artificial Intelligence (AI) Partnering...",
+      "excerpt": "DUBLIN, June 9, 2022 /PRNewswire/ -- The \"Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2022\" report has been added to ResearchAndMarkets.com's offering. This report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27622875/global-artificial-intelligence-ai-partnering-deals-directory-2010-2022-access-to-terms-and-agreeme",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27622875/global-artificial-intelligence-ai-partnering-deals-directory-2010-2022-access-to-terms-and-agreeme",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27622875",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622875",
+      "publishedDateTime": "2022-06-09T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -951,169 +1132,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-apples-m2-chip-gives-new-macbook-air-a-speed-boost.md",
-      "title": "Apple's M2 Chip Gives New MacBook Air a Speed Boost",
-      "excerpt": "This story is part of WWDC 2022, CNET's complete coverage from and about Apple's annual developers conference. Apple on Monday debuted the new M2 processor, a chip that improves c",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/apples-m2-chip-gives-new-macbook-air-a-speed-boost/",
-      "originalUrl": "https://www.cnet.com/tech/computing/apples-m2-chip-gives-new-macbook-air-a-speed-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-aws-announces-general-availability-of-aws-mainframe-modernization.md",
-      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS’s superior agility,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-experts-to-discuss-how-artificial-intelligence-is-powering-manufacturing-at-automate-2022.md",
-      "title": "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022",
-      "excerpt": "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ibm-ceo-explains-why-he-offloaded-watson-health-not-enough-domain-expertise.md",
-      "title": "IBM CEO explains why he offloaded Watson Health: Not enough domain expertise",
-      "excerpt": "IBM chairman and CEO Arvind Krishna says it offloaded Watson Health this year because it doesn't have the requisite vertical expertise in the healthcare sector. Talking at stock market analyst Bernstein's 38th Annual Strategic Decisions Conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/08/ibm_ceo_arvind_krishna_explains/",
-      "originalUrl": "https://www.theregister.com/2022/06/08/ibm_ceo_arvind_krishna_explains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/04/07/ibm_ceo_arvind_krishna.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_explains/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_explains/",
-      "publishedDateTime": "2022-06-08T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

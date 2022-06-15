@@ -8,8 +8,8 @@ webUrl: "https://hothardware.com/news/raspberry-pi-masters-ball-on-a-plate"
 ampWebUrl: "https://amp.hothardware.com/news/raspberry-pi-masters-ball-on-a-plate"
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/raspberry-pi-masters-ball-on-a-plate"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.hothardware.com/contentimages/newsitem/58835/content/01_ball_on_a_plate.jpg"
@@ -26,6 +27,6 @@ images:
     height: 399
     isCached: true
 
-secured: "cfFajxreJjDPryBvClMMqVNIdkCFBjAz5lVSFTHxKsGVuGvOPSpb1lM8XBpbYbIXGbE7zMjUBRH3zCe2hDyKyTotywgFI1l53Ij5hXk+xZZHkAHpHBewm3pHf/DeIXXv7CRJoqvYq1c74zw9gt7BLRt6nS+zdUV49GJ4lIKiaCbEXJs+bZfPcpqzZO5Y8KRB3Iqgp/kggRAu46XKh81O6yLOUKl2NUd/MzFRFe6LSFeAZ1MccV7bi9OZ+Xl27B37dihpvFyxSya91WYkno7hq04HwDJlI8KX5sPDwSSmNNsOxPcHX19fU+SfXsoVFPkb1mpwfWWPls1e4wbkk7YO40StqOdFmHjzpZK/fH48Akw=;bLQ4kc13ssc9Y7WsaDY3Vw=="
+secured: "03Gn6BNwF9nN7UigGUiUzMt29ndTyXZAZDF8ND6Sff9NgbfAiWVi2+hf2t1uclxLEn1TQmrdDqvSqwKXf1J6lc/T1+fvSqPm3LCqnfrcGfbV1XQ/3pP/boP8lTx9d+CvFztETBzz+4wT7MHB+TG90crZfKpUTDbYAGxGgpZlg4dIcrgxTVztz3uM3OWwzrOoXUW6Q07HLcLFxFXtPZvcVQFo/h13HcDfjF98/K7cpjxf48QPi/lOsn0HTfkv+CnMoeyX1giUCXp/9waBnfOUKJNNIYy0htVCYuoRDDOErkqldk//lsEHxw2Lh/k+MJZ7ts8AXK/X3hA7c+53fPIuawqLODKiR6l3fhHwP64qVZoEKjcQiZHL+Kztkc/XOS3/sediVyXv35LY45EGkcbZ07d6b3GeAodZKDZd2Qo4qx1kh089m5bJNDjZ++8krYY9zj9WPHLEactJf29ZBlGpbwlc0t0SwqElvUX3IvmJ+hdoBuynyJ93HzC3PYRB3foCLlYWNQCuH/wTnIW6xjU1Nw==;ObTjxNXcwYKJ1UMBALz9Kg=="
 ---
 

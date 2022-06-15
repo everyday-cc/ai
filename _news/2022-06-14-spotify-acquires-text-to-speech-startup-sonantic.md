@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Spotify’s acquisition of AI voice platform Sonantic will lead to more machine-narrated audiobooks"
+    excerpt: "Spotify has already let its intentions out, that of generating more than $100 billion in revenue and a billion-plus user base within the next decade. The company had also stated they are betting big on audiobooks and podcasts to reach that goal."
+    publishedDateTime: 2022-06-14T23:00:00Z
+    webUrl: "https://goodereader.com/blog/audiobooks/spotifys-acquisition-of-ai-voice-platform-sonantic-will-lead-to-more-machine-narrated-audiobooks"
+    type: article
+    provider:
+      name: Good e-Reader
+      domain: goodereader.com
+    quality: 24
+    images:
+      - url: "https://assets.goodereader.com/blog/uploads/images/2022/06/14083512/spotify-acquires-sonantic.jpeg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Spotify buys text-to-speech startup Sonantic for voice features"
     excerpt: "UK-based startup Sonantic, which has developed text-to-speech technology capable of generating (in its words) “compelling, lifelike"
     publishedDateTime: 2022-06-14T16:17:00Z

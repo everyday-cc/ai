@@ -105,7 +105,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -203,7 +203,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -302,7 +302,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -342,7 +342,8 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -454,7 +455,7 @@
       "originalUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -506,7 +507,7 @@
       "originalUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -852,19 +853,19 @@
     {
       "path": "_news/2022-06-09-teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.md",
       "title": "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker",
-      "excerpt": "Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics platform with Amazon SageMaker, the industry’s most complete ...",
+      "excerpt": "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -874,11 +875,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T07:03:00-07:00",
+      "publishedDateTime": "2022-06-09T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -896,19 +897,19 @@
     {
       "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
       "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
-      "excerpt": "With “just enough” human supervision, auto-labeling, and configurable AutoML, models go from hypothesis to production-ready in days vs. months. Jaxon is one of the first to offer a “coding ...",
+      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
-      "originalUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Wall-Street-bull-AFP-1K-600x337.jpeg",
-          "width": 600,
-          "height": 337,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -918,11 +919,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T04:01:00-07:00",
+      "publishedDateTime": "2022-06-09T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

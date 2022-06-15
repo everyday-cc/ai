@@ -62,6 +62,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse"
+    excerpt: "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\""
+    publishedDateTime: 2022-06-14T20:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 91
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg"
+        width: 1280
+        height: 998
+        isCached: true
   - title: "Microsoft Teams taps artificial intelligence for headache-free meetings"
     excerpt: "Microsoft Teams continues to improve artificial intelligence and machine learning to help users deal with the biggest video conferencing headaches."
     publishedDateTime: 2022-06-13T13:00:00Z

@@ -2,6 +2,170 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-10-amd-touts-big-datacenter-ai-ambitions-in-cpu-gpu-roadmap.md",
+      "title": "AMD touts big datacenter, AI ambitions in CPU-GPU roadmap",
+      "excerpt": "After taking serious CPU market share from Intel over the last few years, AMD has revealed larger ambitions in AI, datacenters and other areas with an expanded roadmap of CPUs, GPUs and other kinds of chips for the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/10/amd_chip_roadmap/",
+      "originalUrl": "https://www.theregister.com/2022/06/10/amd_chip_roadmap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-artificial-intelligence-automation-and-robotics.md",
+      "title": "Artificial intelligence, automation and robotics",
+      "excerpt": "The challenge of open source in the enterprise is not technical – Cliff Saran's Enterprise blog Grid stability and the risk it poses to the retail sector and its datacentres – Ahead in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
+      "originalUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend.md",
+      "title": "How service providers can use natural language processing to gain insights from customer tickets with Amazon Comprehend",
+      "excerpt": "Today, customers can raise support tickets through multiple channels like – web, mobile, chat-bots, emails, or phone calls. When a support ticket is raised by a customer, it is processed and assigned to a category based on the information provided in the ticket. It is then routed to the support group",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/31/ML-8570-image001.jpg",
+          "width": 1092,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T16:41:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government.md",
+      "title": "Task force to assess use of facial recognition by Colorado law enforcement, government",
+      "excerpt": "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado.",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html",
+      "originalUrl": "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/b6/eb6ce6f0-cd9b-11ec-bbfd-6fc9d1720af4/6275bc4be3408.image.jpg?resize=1024%2C642",
+          "width": 1024,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html",
+      "cdnAmpWebUrl": "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html",
+      "publishedDateTime": "2022-06-09T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-2022-imagine-cup-junior-ai-for-good-winners-top-outstanding-creativity.md",
       "title": "2022 Imagine Cup Junior AI For Good Winners - Top Outstanding Creativity",
       "excerpt": "Outstanding inspiring creativity from the top 10 global winners in the annual Imagine Cup Junior AI for Good Challenge. The announcement June 9, 2022 is the culmination of thousands of students, aged 13-18,",
@@ -49,49 +213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government.md",
-      "title": "Task force to assess use of facial recognition by Colorado law enforcement, government",
-      "excerpt": "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
-      "originalUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Colorado Statesman",
-        "domain": "coloradopolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1093,153 +1214,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.md",
-      "title": "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker",
-      "excerpt": "Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics platform with Amazon SageMaker, the industry’s most complete ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-is-embedded-everywhere-at-walmart.md",
-      "title": "AI is embedded everywhere at Walmart",
-      "excerpt": "At Walmart, artificial intelligence and machine learning are embedded throughout the organization – from supply chain management and shopping to search.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/",
-      "originalUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/walmart-truckclose-up-side-view_129821854433586541.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/",
-      "publishedDateTime": "2022-06-09T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-three-reasons-why-ai-customer-engagement-initiatives-fail.md",
-      "title": "Three Reasons Why AI Customer Engagement Initiatives Fail",
-      "excerpt": "Attempts to implement a catch-all, fix-all solution that solves all of these challenges in every industry today will only result in disappointment on the part of businesses and their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/amp/",
-      "publishedDateTime": "2022-06-09T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

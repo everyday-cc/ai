@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-14-facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial.md",
+      "title": "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial",
+      "excerpt": "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "originalUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop",
+          "width": 320,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "publishedDateTime": "2022-06-14T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-facial-recognition-system-launched-at-kazakhstans-airports-religious-institutions.md",
       "title": "Facial recognition system launched at Kazakhstan’s airports, religious institutions",
       "excerpt": "NUR-SULTAN. KAZINFORM A facial recognition system has been launched at the airports, religious institutions and in underground walkways of Nur-Sultan city, Kazinform has learned at a briefing of the Operational Control Center.",
@@ -154,17 +197,17 @@
       "title": "Task force to assess use of facial recognition by Colorado law enforcement, government",
       "excerpt": "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado.",
       "sourceUrl": null,
-      "webUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
-      "originalUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
+      "webUrl": "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html",
+      "originalUrl": "https://gazette.com/colorado_politics/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/b6/eb6ce6f0-cd9b-11ec-bbfd-6fc9d1720af4/6275bc4be3408.image.jpg?resize=1024%2C642",
+          "width": 1024,
+          "height": 642,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -172,13 +215,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T14:51:00-07:00",
+      "ampWebUrl": "https://gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html",
+      "cdnAmpWebUrl": "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_99aa8d4b-3f40-56b5-9dfa-ca9d72047e6b.amp.html",
+      "publishedDateTime": "2022-06-09T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Colorado Statesman",
-        "domain": "coloradopolitics.com",
+        "name": "The Gazette",
+        "domain": "gazette.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1284,49 +1327,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-facial-recognition-technology-not-about-mass-surveillance-mcentee.md",
-      "title": "Facial recognition technology 'not about mass surveillance' - McEntee",
-      "excerpt": "The Minister for Justice has said the introduction of legislation to enable gardaí to use facial recognition technology (FRT) in criminal investigations \"is not about mass surveillance\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
-      "originalUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/001bca3b-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
-        "images": null,
         "publishers": null,
         "authors": null
       },

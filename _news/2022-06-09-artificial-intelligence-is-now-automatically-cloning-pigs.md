@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 secured: "AWYm3HUCKFnN89KryWyjPzZvo1iIXMss0C9TWfUkwvymAp9pRYzy7sidMRBSZZmNGokov3xPmKjyW773FC7ewPoof+rfA0G5zFUP178Rm/DaELuRmzmrB6CMhs3s2rO6GsNhcIKK+ds8JdH9ph0juvqWQDr0QUQPPAa6jMQe9bJUNvPqZzJ5FlSihBPzH/TjkL7ddB9P+uHnMTdmndep8ykkHfyjuP1dNuSRyCJMTqTk3++ULzLFo+O5GRXjIedWFHmpnGHLPNefWopgGdKQ2pooprZigWbCxymD+pNm0Hmflpgy3GksC3TPP+YMq/ZU1Gzgqe7emNgttzkERylkN8HG2jBWZqyZ2Ccwnpdhapc=;SarHB3teXrn1XzTKtL862w=="
 ---

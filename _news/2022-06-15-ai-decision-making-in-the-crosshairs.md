@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-14T21:07:00Z
 originalUrl: "https://dsnews.com/daily-dose/06-14-2022/ai-decision-making"
 webUrl: "https://dsnews.com/daily-dose/06-14-2022/ai-decision-making"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://dsnews.com/wp-content/uploads/2022/06/DSN-JUNE222.jpg"
@@ -23,6 +24,6 @@ images:
     height: 660
     isCached: true
 
-secured: "+609lMD4xOqePAtLWWs9OndVeQ+wOpXIAfmE+K1ofxdHgC6/N4wwgXjNQ/CSf2mYn2oYtbw2UkXV1J7CKjF+m53bw5e34m6BplA8QDrZ0VE6i1gXVoIGFmYRnweC0rg287yqvNRbFrUTQq14XiIAKvWIfhugUz7oeEQzhDbDHBPLp/yCAlpgomO1PA7Do6k6X4qNjrkiOPCZTA09DpDTXb2J6W8sIKT8Br3ASBUs/1NDY71pyepeyX/NAIXXonDPSxpbS7hCkNHfpnnlSBPx8dLdLW7DIPk0GMv7ckuwMTh0kuuzLTDg4nfYOMmEJZeUSL+nKKIOeW+JUWGvX5z95ZwgcSm2Ew9zgRp3jvtCRs8=;JHqf/SLytFMyd3MoTzQStg=="
+secured: "Rpmk1CqNZIHxCs8rD+cyh4mpYKLsO1FJQQUpOia7nvECVAjS5naOF1e7xTikqUFOknTAcXLQn1Vj5nlevu27He4ug5r/kqTBRc21bkDqIiRsuDhCzSMbOHD8a44r0ZUJO439m8HVWJCAMRCXyNddR0coXSKZggXd6VisTTtW3py3JxAb4PpSGCxaWz2RkEQv7UHYB0bYP9X0VfWCL4RdWIsBhmaIofqoAUfArWUlElf2Dan+muGHUFe/P+8Iv6BtDsCl0qCYbxfwXJRLul0FvbfygqUxgmCeI+M/BuazLP38S5V0olPgKrQY2FW99JKhQCKO/5m7HiN4X2fdFjSLNJchHLU+Lu8NqNuJruPvbdKrD9Da56Py5jXYQNbKIyuhSVObEvK+uP4Uuq0p6pj+w136bvw2FaSogfYIuibFmbrgQMVgpH7NWNX4CvxHW6nVxtJbI3f9v6nTpeyChYBUpNzvu1tNx0cEaqX0FNx2ataLT/SdYxwjdZG67CRDn4F921uLkzhvm20BS13PWkac6Q==;yM6WNz9NiJdREK2u4+KPpA=="
 ---
 

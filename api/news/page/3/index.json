@@ -2,6 +2,179 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-12-how-can-artificial-intelligence-be-the-next-big-thing-in-marketing.md",
+      "title": "How can artificial intelligence be the next big thing in marketing?",
+      "excerpt": "We all know that without a planned marketing strategy, a business cannot thrive. But, the marketing industry is going through a disruption, and as a result of this, we",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
+      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75476733.cms",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system.md",
+      "title": "Dubai to boost public bus ridership, cut journey times using new Artificial Intelligence system",
+      "excerpt": "High-level RTA meeting discusses ‘City Brain’ project, recently-opened bus stations Dubai: The use of advanced technology and artificial intelligence (AI) has contributed to improving the public bus service and its operational efficiency in Dubai,",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
+      "originalUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/06/12/------_----_---_-------_-----_---------_-------1655020936624_18156ef5dbd_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
+      "publishedDateTime": "2022-06-12T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-artificial-intelligence-is-shaping-the-future-of-healthcare-industry.md",
+      "title": "Artificial intelligence is shaping the Future of Healthcare Industry",
+      "excerpt": "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg",
+          "width": 800,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/",
+      "publishedDateTime": "2022-06-11T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-11-artificial-intelligence-helps-identify-benign-thyroid-nodules.md",
+      "title": "Artificial Intelligence Helps Identify Benign Thyroid Nodules",
+      "excerpt": "Artificial intelligence (AI) pinpoints thyroid nodules noticed on thyroid ultrasound that are unlikely to be cancerous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/thyroid6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
+      "publishedDateTime": "2022-06-11T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-11-ai-identifies-gene-signatures-of-cancer-tumors.md",
       "title": "AI Identifies Gene Signatures of Cancer Tumors",
       "excerpt": "A new study published in Genome Biology demonstrates how an AI algorithm has discovered a genetic signature trait of cancer cells, enabling machine learning to distinguish cancer cells from healthy ones.",
@@ -138,7 +311,7 @@
       "originalUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -287,7 +460,7 @@
       "originalUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -590,7 +763,7 @@
       "originalUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -625,58 +798,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-10-report-from-money2020-fintech-companies-have-questions-about-the-future-of-the-metaverse.md",
-      "title": "Report from Money20/20: Fintech companies have questions about the future of the metaverse",
-      "excerpt": "Fintech companies at Money20/20 Europe say the future of the metaverse is difficult to predict.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/money2020-europe-fintech-companies-question-future-of-metaverse-2022-6",
-      "originalUrl": "https://www.businessinsider.com/money2020-europe-fintech-companies-question-future-of-metaverse-2022-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62a350d73e3836001951da45?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/money2020-europe-fintech-companies-question-future-of-metaverse-2022-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/money2020-europe-fintech-companies-question-future-of-metaverse-2022-6?amp",
-      "publishedDateTime": "2022-06-10T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-10-how-ai-is-driving-iams-shift-to-digital-identity.md",
       "title": "How AI is driving IAM’s shift to digital identity",
       "excerpt": "The IAM industry needs to shift to digital identity, evolving away from legacy constructs to an AI-powered system that's always on.",
@@ -685,7 +806,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1036,127 +1157,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-amd-touts-big-datacenter-ai-ambitions-in-cpu-gpu-roadmap.md",
-      "title": "AMD touts big datacenter, AI ambitions in CPU-GPU roadmap",
-      "excerpt": "After taking serious CPU market share from Intel over the last few years, AMD has revealed larger ambitions in AI, datacenters and other areas with an expanded roadmap of CPUs, GPUs and other kinds of chips for the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/10/amd_chip_roadmap/",
-      "originalUrl": "https://www.theregister.com/2022/06/10/amd_chip_roadmap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-artificial-intelligence-automation-and-robotics.md",
-      "title": "Artificial intelligence, automation and robotics",
-      "excerpt": "The challenge of open source in the enterprise is not technical – Cliff Saran's Enterprise blog Grid stability and the risk it poses to the retail sector and its datacentres – Ahead in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
-      "originalUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend.md",
-      "title": "How service providers can use natural language processing to gain insights from customer tickets with Amazon Comprehend",
-      "excerpt": "Today, customers can raise support tickets through multiple channels like – web, mobile, chat-bots, emails, or phone calls. When a support ticket is raised by a customer, it is processed and assigned to a category based on the information provided in the ticket. It is then routed to the support group",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/31/ML-8570-image001.jpg",
-          "width": 1092,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T16:41:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

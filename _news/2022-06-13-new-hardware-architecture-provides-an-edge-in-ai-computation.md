@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-hardware-architecture-edge-ai.amp"
 type: article
 quality: 63
-heat: 74
+heat: 73
 published: true
 
 provider:
