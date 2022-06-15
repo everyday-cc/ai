@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Google employee claims artificial intelligence system is 'human and has emotions'"
-excerpt: "In the transcript, LaMDA mentions what emotions it believes it feels: love, sadness, depression and anger. The AI even claims to have a soul, writing, \"I've shared that idea with other humans before,"
-publishedDateTime: 2022-06-14T13:24:00Z
-originalUrl: "https://www.fox7austin.com/news/google-artificial-intelligence-system-human-emotions"
-webUrl: "https://www.fox7austin.com/news/google-artificial-intelligence-system-human-emotions"
+excerpt: "In the transcript, LaMBDA mentions what emotions it believes it feels: love, sadness, depression and anger. The AI even claims to have a soul, writing, \"I've shared that idea with other humans before,"
+publishedDateTime: 2022-06-14T03:31:00Z
+originalUrl: "https://www.fox7austin.com/video/1081196"
+webUrl: "https://www.fox7austin.com/video/1081196"
+ampWebUrl: "https://www.fox7austin.com/video/1081196.amp"
+cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/video/1081196.amp"
 type: article
-quality: 31
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -15,9 +17,8 @@ provider:
   domain: fox7austin.com
 
 topics:
-  - AI
   - AI in Healthcare
-  - AI in Autos
+  - AI
 
 related:
   - title: "Google engineer forced to take leave after claiming AI chatbot 'developed human emotions'"
@@ -36,23 +37,7 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "I’m a Google engineer – our artificial intelligence bot has come to LIFE and has thoughts & feelings like an 8-year-old"
-    excerpt: "A GOOGLE engineer has said an AI robot he helped create has come to life and has thoughts and feelings like an eight-year-old. Blake Lemoine said he had several conversations with Google’s"
-    publishedDateTime: 2022-06-12T09:30:00Z
-    webUrl: "https://www.thesun.co.uk/tech/18861232/google-engineer-dismissed-says-ai-is-sentient/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/18861232/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18861232/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 35
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/06/offplat-cfp-aibot-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "ZbJQt9craCPbjEN1SlwSAGyCahn7RPda4/C4+ZwWZTZCmFz9SWSVom2QUFkHzLS/PMqrLXjX6mzqrTqKDAlk6K2YnRuJYELVyacgOhf8JadPw5Z3kxx9aqKCRJE6kv63rlza5lKBQk6a0GU1WFVShpmGXrgZix2Rz51VBZXW/QJYRoKyrB6Br03eNz+sjhUDwSzPV+9/JlM7+Z2rXAKtjM9/HC7M1QQde1VMLdj8wpCfCFjD7+o/RAhJnq3S2px9OAAuclfshw7NkOvYJpJl/Zo1XLfZbTECO86xfgk9inooYu5NxiURznqzopnCfCB3K+U15T9pMXdxF/QMpYF/ERYo4k5d02jrqunH8rV08w2Mw8Ujmjna4hJ2MIOtshGbmHD9S2wULw0B5MOCisLd9B/oKDk91SXVM1eHZamisZyeJzN6hfCM4QquPoVz5mlknXhX6Zytl5bJyHi7CnqxLDeNgScRqd7ENZDROEfEnq5ToGDYA88ltA/+morJKgmjhcS0tZd+jLDebjShjuS/gg==;h/7Lnc3C6ehWJjmCHYXgrw=="
+secured: "BVdDEltqKRMf8VfxMBgRh9dR47sWkF74ZtJLcSn4Q7NdgbUQqmkVwVtjTpv0GZU0D8d+wvHqD8nv01giBHPPY3Vjf5PTGyoKRZFm5X/jgG0t1Htv/x9u1Z3zCC2uwVhc/HQmrYvR2X5hg3uVuR58E4Hmf0GUAYhJ2Vb9zbFvDFeaVFsjpzIMwedXnhL9XjtcisUAldMTtuhtLacH8PW8IpyGPoDeq4xc7Pd7PMOCRgVI05Q1MW5Dy5Y38WnuEXTKWq9aNO4pyJwEsKeILxjtsQBAmUB+aP7A7j2mza5o6dLr0Z90wuoROnndXt7CCPYzOKQKzNHu/HjZU5KZmLbgYOE0DeXsaMiqqMW3BVqkJAE9UMpyQ3ohIk/mD7YIwSkIlTGEz1a5G1YDG6d1zHieLrdx3YQHmModVG8PANi+zDxrjxIkeiiU8G0efK/pXd+wW/a4EyDbArc7Q59zdu5dvZvJl+HZejLmQnP9l0ehEjIvnY6+7/SE/ZmRenLrPRf86GdZO8uUoi1h7MSsiFUVQQ==;O76egoQu42ohYbICRCsDAQ=="
 ---
 

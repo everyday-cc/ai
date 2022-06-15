@@ -53,6 +53,22 @@ related:
         width: 2400
         height: 1601
         isCached: true
+  - title: "Is AI The Future Of Audit Or All Hype?"
+    excerpt: "Artificial intelligence is billed as the future of everything—a magical panacea to all of the world’s challenges, heralding a utopian future where algorithms will know exactly what’s required and when."
+    publishedDateTime: 2022-06-15T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62a884dd069425f7520e32b5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "LaMDA / Google Sentient AI"
     excerpt: "LaMDA refers to an artificial intelligence created by Google that stands for “Language Model for Dialogue Applications.” On June 12, 2022, a Google engineer named Blake Lemoine claimed that LaMDA had developed a soul and sought to advocate for its rights by sharing internal research documents with the media."
     publishedDateTime: 2022-06-13T21:44:00Z

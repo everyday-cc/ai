@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CHOICE raises concern over Bunnings, Kmart and the Good Guys use of facial recognition technology"
+    excerpt: "Consumer group CHOICE is referring Kmart, Bunnings and The Good Guys to the Office of the Australian Information Commissioner over their use of facial recognition technology."
+    publishedDateTime: 2022-06-15T03:41:00Z
+    webUrl: "https://www.abc.net.au/news/2022-06-15/choice-investigation-major-retailers-using-facial-recognition/101153384"
+    ampWebUrl: "https://amp.abc.net.au/article/101153384"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101153384"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 61
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=414&cropW=621&xPos=69&yPos=0&width=862&height=575"
+        width: 621
+        height: 414
+        isCached: true
   - title: "Australian retailers deploy facial recognition as privacy laws stall"
     excerpt: "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint."
     publishedDateTime: 2022-06-15T06:43:00Z

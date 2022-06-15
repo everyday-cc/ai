@@ -3,18 +3,18 @@ category: news
 title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
 excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
 publishedDateTime: 2022-06-14T23:53:00Z
-originalUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
-webUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
-ampWebUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
-cdnAmpWebUrl: "https://www-ktvq-com.cdn.ampproject.org/c/s/www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
+originalUrl: "https://www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
+webUrl: "https://www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
+ampWebUrl: "https://www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
+cdnAmpWebUrl: "https://www-krtv-com.cdn.ampproject.org/c/s/www.krtv.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology?_amp=true"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: KTVQ
-  domain: ktvq.com
+  name: KRTV
+  domain: krtv.com
 
 topics:
   - Computer Vision
@@ -76,6 +76,6 @@ related:
       domain: perthnow.com.au
     quality: 0
 
-secured: "rx2VlADpwyk9U5puf9Qi5Sqy59fHoZkpYtcXAXPpQWZygpjA967M2w9B0zdfxLcYKVeRzJScT0enAB4j4cQuWk9TDoH2hg51yWaRJXCfSSAwnsLikBEMRlrexS7cyQP9WtwIFDU5b+3oqZFs8DKpdSTfaTl6kgFuyP5DdQ9HlFymSwFzTUJNYWGG7KTnH9vI9QG80R87hQXwFj9B8zlDN56Yz7FkSy3mF0NJmGRfYEq0LVPYpMfjM+OOR3ljUyVNcmJW0uyAYrywcULWn08i+cIFZcI8d03SdGk2ahNuSKH9ufSyuC3HRfD7G+CV8dzwaqx4gasXQBtL9QK2NdvrKCsJh9g+KOoMNiIo00rIF0ExFx9Rpk8UIStOVsjL0RMkkJEe8MwkQAciXvFzgyznM9wICbwHHuyNpjq4N8o4UzNh+xj4U514DGEEDLI7Ko7aclcCvBuEzFV6oyua7GPJDGcGceMmiBwN9guJ0gNf8QZacPG5/g6hg6gYGy7L1sm+WPLmXlyRlDeDWdj3wgLcsw==;lhiauEVgE7jq2Al3Hohyjw=="
+secured: "D/g1453jap0LUn8IZDjqF4fDAecfIfVQUvcHZ4+5J5D6o2rC6fXA2qSXMIvMUGTuNBLMF4PUATJekzuLxlHBQ0dsRWiKHS6qXBiQonzbhLPyfPnOYNxVmzPql44ChRJmf1HVJx6A3NF36R7yUSdL9Q+eRM0iWnszE+V94gCpwV7oDsF0aTGCV7he+4GXvEHX1g4RUN79+QHz9A1jpv5cIe49RiIZHeXsExLWMki9BGAnL5W6fSsJtNVLng/7oemgXk+QsQAvYaDdUAebOLvxBZiyXnsGrZBlhOWmXg8cbZD5LFQIsExdjhDa0Fdx5mMmZaztB11r9E6UyfEDKqkxebx9n+fAmr7ov8omuu/bfJI=;zPFcyKzGMdP26hcXZT7jEg=="
 ---
 

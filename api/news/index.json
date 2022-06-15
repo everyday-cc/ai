@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-15-tabnine-raises-155m-for-ai-that-autocompletes-code.md",
+      "title": "Tabnine raises $15.5M for AI that autocompletes code",
+      "excerpt": "Tabnine, a startup creating an “AI-powered assistant” for software developers, today closed a $15.5 million funding round co-led by Qualcomm Ventures, OurCrowd, and Samsung NEXT Ventures with ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/",
+      "originalUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/sublime_python.jpg?w=680",
+          "width": 680,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/amp/",
+      "publishedDateTime": "2022-06-15T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-elon-musk-says-solving-self-driving-is-the-difference-between-tesla-being-worth-a-lot-or-nothing.md",
+      "title": "Elon Musk says solving self-driving is the difference between Tesla being worth a lot or nothing",
+      "excerpt": "Elon Musk made an interesting comment about Tesla’s effort to develop self-driving. The CEO says that solving self-driving is the difference between Tesla being worth a lot of money or almost nothing.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/",
+      "originalUrl": "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/15/elon-musk-solving-self-driving-difference-between-tesla-worth-a-lot-or-nothing/amp/",
+      "publishedDateTime": "2022-06-15T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.md",
       "title": "KAIST develops robot skin that can sense tactility and recover from injury",
       "excerpt": "The Korea Advanced Institute of Science and Technology (KAIST) said its research team has developed a robot skin that can sense various external tactile stimuli and recover from injury when it is cut or damaged.",
@@ -96,7 +199,7 @@
       "originalUrl": "https://www.techguide.com.au/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -180,49 +283,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-explained-and-tested-teslas-self-driving-autopilot.md",
-      "title": "Explained and tested: Tesla’s ‘self-driving’ Autopilot",
-      "excerpt": "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
-      "originalUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg",
-          "width": 1800,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
-      "cdnAmpWebUrl": "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
-      "publishedDateTime": "2022-06-14T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CAR Magazine",
-        "domain": "carmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -724,7 +784,7 @@
       "originalUrl": "https://au.pcmag.com/cars-auto/94559/is-your-car-autonomous-the-6-levels-of-self-driving-explained",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1142,58 +1202,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-former-amazon-robotics-vp-brad-porter-goes-collaborative.md",
-      "title": "Former Amazon Robotics VP Brad Porter goes Collaborative",
-      "excerpt": "Collaborative Robotics aims to build a six-degree-of-freedom robotic art that’s collaborative, works with humans and can meet a wide variety of use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
-      "originalUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1273582733.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
-      "publishedDateTime": "2022-06-14T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

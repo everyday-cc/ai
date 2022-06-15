@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cognitive Computing Applications and Markets Report 2022"
+    excerpt: "Applications and Global Markets\" report has been added to ResearchAndMarkets.com's offering. In this report, the market has been segmented based on component, deployment mode, organization size, end user,"
+    publishedDateTime: 2022-06-15T11:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-cognitive-computing-applications-markets-report-2022-featuring-/2022/06/15/9621933.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "aYpyu5az1Hy5cz1WJz9azEgUteyqQy2t1ch4FszVdfeooGtCmf0rkALeVw/pFG3D8T/0J3CrEjh5NUMTHGwG4TV6cm52vxovmKAFdPN64mAVHfbYmxmR6hZ44uUOGgjf15MIcp4R6MITd78fgPx+zqy7jc2qKyeExTqfzIGRuiENKjNCRJ7wIEoPHj5IuRf1Bt549LAxK0nYJbj8OtJ59x3gYPEJPTsE7DV2xxPwkicIRVPMeyvixCDFwHVPLV4AKWvGkAziI8EnQV5fUZjs+qfvVL34yGUicDs3LvFSSsrMKFZLVvCJIDNMv3ewbKkx77bCOxcxzpqXirZHJk4Eo5XXisRkw2VMkiuX2tFFhgI=;qrl4z6aKIG57hgHKw4Of5Q=="
 ---

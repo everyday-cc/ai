@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cognitive Computing Applications and Markets Report 2022"
+    excerpt: "Applications and Global Markets\" report has been added to ResearchAndMarkets.com's offering. In this report, the market has been segmented based on component, deployment mode, organization size, end user,"
+    publishedDateTime: 2022-06-15T11:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-cognitive-computing-applications-markets-report-2022-featuring-/2022/06/15/9621933.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "M1qmpl5y7at8GGZ0vASnhg2dOmeRNDcrSLOmlKvbpz+YD1HyVZ94RiMY+r0rFIvO8zJU9zP+OW1TrjW+d/032KKYBC2d+s4dAPDHHq5wTIWk7OEaq13Hea7hZ0tGC9PnQ4JGuKeLsvYR1e1q0evnrPPzhFGQnk0keIFoKrv8xwz3xmH+8O1krY3r+d69f/LNbxNBtUwaWgJ4HSHiPwjAw3LCRN+iqPRKN0KBMbOwsJ57j3S6m/iNTISsOyuS2V0368SOsO21W8YOd09DOLZWZZ8IqZ45pdocrbDb85Pm6L6eeQAwkfUhe6FHotkn65gMi96RlhXUyAagag1ArRsnyvLqN/KRyjbMHY5EAoaud3s=;YYm1XfJlg4l7Lvx+ayuYOw=="
 ---

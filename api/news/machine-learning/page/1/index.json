@@ -203,7 +203,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -897,19 +897,19 @@
     {
       "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
       "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
-      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
+      "excerpt": "With “just enough” human supervision, auto-labeling, and configurable AutoML, models go from hypothesis to production-ready in days vs. months. Jaxon is one of the first to offer a “coding ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "webUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
+      "originalUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/aafc0084466247a4e69b440d816eebed74f8aae6-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -919,11 +919,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T04:14:00-07:00",
+      "publishedDateTime": "2022-06-09T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

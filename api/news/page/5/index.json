@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-09-building-a-more-helpful-browser-with-machine-learning.md",
+      "title": "Building a more helpful browser with machine learning",
+      "excerpt": "At Google we use technologies like machine learning (ML) to build more useful products — from filtering out email spam, to keeping maps up to date, to offering more relevant search results. Chrome is no exception: We use ML to make web images more accessible to people who are blind or have low vision,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/",
+      "originalUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ML_Header_Wireframe.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/amp/",
+      "publishedDateTime": "2022-06-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-brian-onorio-ai-may-be-transforming-shopping.md",
       "title": "Brian Onorio: AI may be transforming shopping",
       "excerpt": "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves.",
@@ -619,19 +672,19 @@
     {
       "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
       "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
-      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
+      "excerpt": "With “just enough” human supervision, auto-labeling, and configurable AutoML, models go from hypothesis to production-ready in days vs. months. Jaxon is one of the first to offer a “coding ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "webUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
+      "originalUrl": "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/aafc0084466247a4e69b440d816eebed74f8aae6-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -641,11 +694,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T04:14:00-07:00",
+      "publishedDateTime": "2022-06-09T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1103,49 +1156,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-kiyaai-introduces-indian-banking-metaverse.md",
-      "title": "Kiya.ai Introduces Indian Banking Metaverse",
-      "excerpt": "Kiya.ai - one of the most \"innovative\" digital solution providers, announced the launch of India’s \"first-ever\" Banking Metaverse – Kiyaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
-          "width": 1600,
-          "height": 1291,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
-      "publishedDateTime": "2022-06-08T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

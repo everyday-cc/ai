@@ -7,7 +7,7 @@ originalUrl: "https://au.pcmag.com/cars-auto/94559/is-your-car-autonomous-the-6-
 webUrl: "https://au.pcmag.com/cars-auto/94559/is-your-car-autonomous-the-6-levels-of-self-driving-explained"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Paving the way for more level 3 self-driving cars from 2024"
+    excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"
+    publishedDateTime: 2022-06-15T10:24:00Z
+    webUrl: "https://www.carsifu.my/news/paving-the-way-for-more-level-3-self-driving-cars-from-2024"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/06/valeo_lidar_3rd.2232f082736.original.jpg"
+        width: 1024
+        height: 551
+        isCached: true
   - title: "We are being sold a fantasy about autonomous vehicles"
     excerpt: "We’re thinking about autonomous cars all wrong - Academic paper finds that self-driving cars will always depend on ‘attachments’"
     publishedDateTime: 2022-06-15T05:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/06/13/c3-ai-inc-nyseai-given-con
 webUrl: "https://www.defenseworld.net/2022/06/13/c3-ai-inc-nyseai-given-consensus-rating-of-hold-by-analysts.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Research Analysts’ Recent Ratings Updates for C3.ai (AI)"
-    excerpt: "Several brokerages have updated their recommendations and price targets on shares of C3.ai (NYSE: AI) in the last few weeks: 6/9/2022 – C3.ai was downgraded by analysts at Zacks Investment Research from a “buy” rating to a “hold” rating."
-    publishedDateTime: 2022-06-10T17:36:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/10/research-analysts-recent-ratings-updates-for-c3-ai-ai.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 17
 
 secured: "mebkmvE92sJJSmWuZyDCb6/KW2ws3HFkYpLYgaqLeq4PEBhTTjO099VyoMN1KUbz7NHqMrek0N3SlqfgkAo0O6Z1NE4t2U21OAWiKYmTxZohf1IOjeA/nqpi48/CSWtwI8HwJEl5VIKaousvBOSwxZFCOQypdyTBNhudNq51aafE7VOkwjaxvjFkmBlbi9yVdXxWshyJ3SKlHfcGD0bom+Bm/ai4EkCGrtBXgaRExsNgeRQnqGJEQxFkRbVrpHC1KPSAhmRyIO+xEtlza7fF4skMYhIxQCx/PTT6JhlIlxW3Ma/t+NjldzmhyyYWo3Na3I5DQBH/vUblViz0IhMOxkvfYfoCfy5M2zmVimVQZiAFY1TQwA39GBUQOYE4rqfwPaptDG8oHxgU1CThqfL7lRGzmGmjLiHr4L18/y9iKBVb9fRLvD8NqS65nd+dbUUQquClNd9cnhSCODBTyOiQyqcOv0ZSN/OMdyjla+7F5r3eyFzXhuRtoE3w3wxfbQyaOaaRyJ+VH31oWKE8wJB3CA==;w+R1vroUJ/XAQwL0ziP+vQ=="
 ---

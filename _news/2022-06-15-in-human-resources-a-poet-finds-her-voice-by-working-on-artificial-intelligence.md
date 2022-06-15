@@ -2,27 +2,29 @@
 category: news
 title: "In 'Human Resources,' a poet finds her voice by working on artificial intelligence"
 excerpt: "Ryann Stevenson's debut collection Human Resources won the Max Ritvo Poetry Prize. It looks at how technology both connects and separates us."
-publishedDateTime: 2022-06-15T09:48:00Z
-originalUrl: "https://www.capradio.org/news/npr/story?storyid=1104668541"
-webUrl: "https://www.capradio.org/news/npr/story?storyid=1104668541"
+publishedDateTime: 2022-06-15T09:11:00Z
+originalUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
+webUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
+ampWebUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-kucb-org.cdn.ampproject.org/c/s/www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence?_amp=true"
 type: article
-quality: 31
-heat: 31
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: Capital Public Radio
-  domain: capradio.org
+  name: KUCB
+  domain: kucb.org
 
 topics:
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2022/06/13/ryann-stevenson----william-brewer-5ad23c26e0a2ed8f29496e22b21ca7c43d15cd12.jpg?s=6"
-    width: 948
-    height: 710
+  - url: "https://npr.brightspotcdn.com/dims4/default/a64621d/2147483647/strip/true/crop/827x509+0+241/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F13%2Fryann-stevenson----william-brewer_custom-6373f847cf66b30db81006d5292e04ee3989b0fd.jpg"
+    width: 880
+    height: 542
     isCached: true
 
-secured: "wbUUQrE3w0+qV2O8q7o5pJ+SqkZIR7c4ZqARyewO5g2SS/p/1Ix0yCZPWHozw9FsZKe8dsODhlM1HOKXYA1ynVNuSJQ97icZm8/Wq6pgYEKAMNmbjHoDOxGqI5VqRPkA+tRIHPkrK41ZcEJDYEIAejapEuXEyxqc8WpPEwsGKufYPC+MUAMVVlOj3WGu4K88kHhojqUharBmGpCZINOQFUlkupv5gt1JDgeaLsf0B7ixbbSuOZ7ZTLW3/CSNaIjmJEUzPFbl4/ncfKJrd8A+mSqFiqyPpXOIOnnkXJfLALGab5fXsZ//pgZFmhl08Dma1b7m8QknKVHBBIAkTxlwTdziGQqnIfGNrxHkgwsnK2M=;kMDT+ZoKSFe5PKFOBmFXkw=="
+secured: "o256J0o5/tQR3/X7s32Hy90rjfuF0XvdqMYXijlbkwndnliWikERpA4/9IST5j+YgSOBiZ3NPQRM/pocu+OAYIcdTY9sfc+j58HOK+VQ4L5FNyJ1tX9QodgprPuorVsvC1o8DnVGe5V7Hm11Uh2Cz9hHCIhXZhadbdDljfBqOBEnplVr3tZSPNQ7yqtJ1SK4oVmm7qbwSTXGzwJWlyO8vKTMInweh/Nf3dzwjrDQQyZOCA6TdRVTZBXt3domLePFvSMU5F38u2ssGEcWa2R+0IOJUhdwVIEcgJFow89b7MQTndTkXCn6PzvEu+uipsW/lTum7YbdkbovJRvMXNHuXztpCvu3kk0FTtQZ0bwVPc4=;crYyaUf9C2SgsWIqMAcaAg=="
 ---
 
