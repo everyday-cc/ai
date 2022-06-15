@@ -24,22 +24,6 @@ images:
     height: 203
     isCached: true
 
-related:
-  - title: "10/06 – Weekly Fintech Recap"
-    excerpt: "Partnerships Mastercard Partners With NFT Marketplaces for ‘Easier and Safer’ Purchases Mastercard is working with a host of non-fungible token marketplaces to make it easy for people to buy NFTs with their cards."
-    publishedDateTime: 2022-06-10T16:46:00Z
-    webUrl: "https://financialit.net/news/blockchain/1006-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_15.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "8cgILTeEW11MK7VuamPQt/xJ3HSPU6y+TZWBAFBqRUetFryKFg8F7eBp0xLArZT1necPb+4ory5EtvT0fYLfmNFjMvhDK0mJLdBCm4WMHmKx/Uo6mR9GCxZ3sy79lyNaubIBG3AB+KAlJ8vj0P7xSwKPNe211GilhoVPT/sa9S5drvrUF9+wrE+EMfEH7zSuiWzwHwvIQjMYiagv9Uc1tJsi8RuD0czHUCO8OcFo/d0pIyJ3WK6fhpKrouzcKgy/023yeU5nrdNOtR9Ab8Je/r5Y7KlhMtJumAjJPe7EBGIqtQ4N8OoJtCHiptQh2CMIqvARVsp0xs8G0MXxqT8vsIuptUuAeXGyu2W1ZxFZf0ksmckW419BKSsVLAycFa1HKKRTH9PHKFJIABHpM/2n9MTJ88PiVMq3l6/9D0G3ATChYXHEQkOBKTKIMFb3fmnMTIDStFfVIM+yzd3ZcE/XkckMSa2sFD+1wZbESTqWcCzvfuRPIEBZEKb9ED2hfrkWu1o5vDzz8uPnFs2juQuMPA==;KIwKbD1htjjK9SunggNn7Q=="
 ---
 

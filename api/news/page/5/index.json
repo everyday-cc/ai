@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-09-brian-onorio-ai-may-be-transforming-shopping.md",
+      "title": "Brian Onorio: AI may be transforming shopping",
+      "excerpt": "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves.",
+      "sourceUrl": null,
+      "webUrl": "https://qctimes.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_4d8b7625-3f07-5ba4-ad2b-583622c82d4a.html",
+      "originalUrl": "https://qctimes.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_4d8b7625-3f07-5ba4-ad2b-583622c82d4a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quad-City Times",
+        "domain": "qctimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-how-ai-is-shaping-the-future-of-work.md",
+      "title": "How AI is shaping the future of work",
+      "excerpt": "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
+      "originalUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/",
+      "publishedDateTime": "2022-06-09T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global.md",
+      "title": "Social CRM Leader GoSky AI Completes Seed Funding Round Led by VC firm 500 Global",
+      "excerpt": "GoSky AI announced today the completion of a seed funding round led by 500 Global, a leading venture capital firm. Investors in this round also include the Co-Founder & CEO of ThunderCore, Chris Wang,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1836422/News_Photo_By_using_GoSky_AI_s_social_CRM__brands_are_able_to_convert_their_social_media_followers.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of.md",
       "title": "AI Ethics And Legal AI Are Flustered By Deceptive Pretenses Known As AI Ethics-Washing Which Are False Claims Of...",
       "excerpt": "There are those that tout AI Ethics that are actually flouting Ethical AI and need to be called out for doing so (they are AI Ethics-Washing), which is happening widely and includes those autonomous self-driving cars too.",
@@ -999,147 +1146,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
-      "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
-      "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "originalUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "publishedDateTime": "2022-06-08T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-self-driving-cars-are-not-yet-safe.md",
-      "title": "Self-Driving Cars Are Not (Yet) Safe",
-      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-how-ai-data-are-transforming-healthcare-three-key-trends-that-could-change-the-face-of-medicine.md",
-      "title": "How AI, data are transforming healthcare: three key trends that could change the face of medicine",
-      "excerpt": "The Stat Health Tech Summit in the United States put inventors with some great ideas for changing healthcare into the spotlight. We take a look at three highlights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "originalUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/b9326f2e-f80e-45be-bac9-18ac2f181fff_205e9f0b.jpg?itok=Lb076e6s&v=1654657778",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "publishedDateTime": "2022-06-08T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
       ]
     }
   ],

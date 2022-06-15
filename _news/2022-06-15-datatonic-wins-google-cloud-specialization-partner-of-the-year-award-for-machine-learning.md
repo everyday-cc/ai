@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Datatonic Wins Google Cloud Specialization Partner of the Year Award for Machine Learning"
-excerpt: "Datatonic, a leader for Data + AI consulting on Google Cloud, today announced it has received the 2021 Google Cloud Specialization Partner of the Year award for Machine Learning. Datatonic was recognized for the company's achievements in the Google Cloud ecosystem,"
-publishedDateTime: 2022-06-15T07:07:00Z
-originalUrl: "https://www.iltempo.it/adnkronos/2022/06/15/news/datatonic-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning-32019569/"
-webUrl: "https://www.iltempo.it/adnkronos/2022/06/15/news/datatonic-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning-32019569/"
-ampWebUrl: "https://www.iltempo.it/adnkronos/2022/06/15/news/datatonic-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning-32019569/amp/"
-cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2022/06/15/news/datatonic-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning-32019569/amp/"
+excerpt: "Datatonic, a leader for Data + AI consulting on Google Cloud, today announced it has received the 2021 Google Cloud Specialization Partner of the Year award for Machine Learning. Datatonic was recognized for the company’s achievements in the Google Cloud ecosystem,"
+publishedDateTime: 2022-06-15T08:40:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/6a207c8527f20351108e169ac9b74add"
+webUrl: "https://apnews.com/press-release/pr-newswire/6a207c8527f20351108e169ac9b74add"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Il Tempo
-  domain: iltempo.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Datatonic Wins Google Cloud Specialization Partner of the Year Award for Machine Learning"
@@ -45,6 +49,6 @@ related:
       domain: apnews.com
     quality: 28
 
-secured: "bIRyTJhfamfKfcEeuJM0smnXgPNEvsWrZsbKOjpLh/OxTAmhxALtCR8TNri1jN8OeTiPBQiaw5OzfNbfKBuiSJeSKGX/eNKE62WgllUmsReYk0Px+KVvbuSe3pBkpNMXPvgbAWH0rGgGaxfh4mBbxTFPryQPaEpZ916feB3jUgYmgrm/4iil/0fgdPkX63uSnXtrBlutSLn9in70PrbqMnhOza71K4ujl/13lXFT9g0lDzS56lWljR/34cS8KjtHBayT+8LrdLA8m0L45rL9HUz2EY9+Ci5iClvnaUf+5f79KhSeUBEPz5/OsQWTb38TrvAwou1r/cIbbPQint6/dzOwJmAWYlff0nhVsZH5/ag=;/WNWltdEr49Yqx8j0jYh2g=="
+secured: "9Q2YC+O2K4HcV9Fkzj3M+phk5vVQlmD018wPMsSTKK1qE/ULAZ3NW5PV/YFQ5jIHz/m24O1UF0Me8zlocmId32Xr3TR+/SUYcWoO+gXbCkmUuA7JJS6PiUK6hej8AtYhCf6gz48HmRMBaQxHiGQuIweyz+Jf/QsExhrvrDB/EPd19Y8+KpDvBQ7cwE6U7gG0LAJRjjy9v5a2ny8E6H5WKZXViJnoXFkbZbqKS5UHqfGmpmE0NBRXLRHQGHNZCe6WiV8eZQzyKd1RTwH/kagwsamH1t42vnj6GRTZhQpwa/WWqIgLAMHYudxBdNYpiVp6x1bi6c6s5Cc2qzFpufF2Or+BtHpfulpPMZr46fgU7I8=;ZACWoKQTT+4kLoUFppDulA=="
 ---
 

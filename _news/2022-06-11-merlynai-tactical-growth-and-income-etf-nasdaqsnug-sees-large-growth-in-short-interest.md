@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update"
-    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest during the month of May. As of May 31st, there was short interest totalling 17,"
-    publishedDateTime: 2022-06-10T15:58:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 37
   - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest"
     excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a large drop in short interest in the month of May. As of May 31st, there was short interest totalling 603,200 shares, a drop of 27."
     publishedDateTime: 2022-06-15T05:28:00Z
@@ -36,6 +27,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 34
+  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Sees Significant Decline in Short Interest"
+    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) was the target of a large decline in short interest in the month of May. As of May 31st, there was short interest totalling 300 shares,"
+    publishedDateTime: 2022-06-10T20:54:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/10/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-sees-significant-decline-in-short-interest-2.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 4
 
 secured: "5F3l/1tlN+IzFh6VEaScr3NxUqPpBl2fsin5UOgg1W2wFpichgXW0Lei3Q2bl/5o72uwUb3KiARsFEomr7z2ZpCmFcjmiXQo8cFDK/GqP51DIKxEmZj3h9o916onsESeooqt4IvQdinTIYd9OfsR+qDjYlTBB73x6Mo1BJ9mRAq2mcCyp+qMwmMzADVsMhQppxUiYyhg3DOiErlkm5bI54MUhj1Nis+6RBrhDsMgAp/RO1zOzZmsm/YD4Mq7k7ditdHv9F6tBEwMJRbM48dU7SSrNcGX4E48w8FvKo0YI1d+Ef2FLr2C6GOGf7sYUc363rs3KAWoLRHbarv7v/dfbuvEBTxLV77ZOd0/EVd0E/1RIkWEYerMzT89fP7Q3j4aQ2QFeAvOf8Zo5W5UY36Om9HkAwU9VLIdD5VWJYmQ6BcNLkDjlV+gdiETRO+mT/BMY8GZK1JmbYJoTF95ZBxcJq8wApGhmIuva3AoXnE/2ED6I881/5ZvpsSADTby8O0zHYXvpesLhLgoXGm6D7HVJA==;Dm/IIehnGFsDSq8purlmGw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artifici
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
 type: article
 quality: 89
-heat: 669
+heat: 679
 published: true
 
 provider:
@@ -690,6 +690,20 @@ related:
       - url: "https://ijr.com/wp-content/uploads/2022/04/GettyImages-1393876536-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
+    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated Artificial Intelligence chatbot that produces text in response to user input."
+    publishedDateTime: 2022-06-15T09:03:00Z
+    webUrl: "https://www.todayonline.com/commentary/google-software-engineer-believes-ai-has-become-sentient-if-hes-right-how-would-we-know-1925471"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 26
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--u5wauPKM--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/06/15/20220615_unsplash_aitech.jpg?itok=YcWeBKOE"
+        width: 1200
+        height: 676
         isCached: true
   - title: "The Google engineer who thinks the company’s AI has come to life"
     excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."

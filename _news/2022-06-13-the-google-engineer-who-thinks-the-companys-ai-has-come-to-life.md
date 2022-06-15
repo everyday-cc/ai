@@ -697,6 +697,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
+    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated Artificial Intelligence chatbot that produces text in response to user input."
+    publishedDateTime: 2022-06-15T09:03:00Z
+    webUrl: "https://www.todayonline.com/commentary/google-software-engineer-believes-ai-has-become-sentient-if-hes-right-how-would-we-know-1925471"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 26
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--u5wauPKM--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/06/15/20220615_unsplash_aitech.jpg?itok=YcWeBKOE"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Suspended engineer claims Google’s AI has taken on life form, acts like a ‘narcissistic’ 7 or 8-year-old"
     excerpt: "A Google engineer reportedly claims that the company’s artificial intelligence tool is capable of independent thoughts or feelings. The engineer, Blake Lemoine, wrote on Medium about a week ago that Google has put him on paid administrative leave in the context of AI ethics concerns that he was raising internally in relation to alleged violations of Google’s confidentiality policies."
     publishedDateTime: 2022-06-12T14:27:00Z

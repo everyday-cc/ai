@@ -690,6 +690,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
+    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated Artificial Intelligence chatbot that produces text in response to user input."
+    publishedDateTime: 2022-06-15T09:03:00Z
+    webUrl: "https://www.todayonline.com/commentary/google-software-engineer-believes-ai-has-become-sentient-if-hes-right-how-would-we-know-1925471"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 26
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--u5wauPKM--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/06/15/20220615_unsplash_aitech.jpg?itok=YcWeBKOE"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "The Google engineer who thinks the company’s AI has come to life"
     excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
     publishedDateTime: 2022-06-12T19:01:00Z
@@ -822,6 +836,6 @@ related:
       domain: forbesindia.com
     quality: 10
 
-secured: "rub2Z5IO52WQmqjq+MEXwYNyoXHzSRdNPC9ZvTW2XeipOG90o3dJze+MjMYVPF5fSQ9givULQ1akMAt7W7jn911yibOtwL8Sr8Mkkx2okGK8Ul412OSlu/F6HTi7p1e9OPUSG+zItBbFgQ9SFh5rW0i01/mc7sUvtIv2Q21FBwqFTstvfV5QPP65wlaI3JTaxwCHpILs8VZaucO0vSfHihLUfOhFzVQasQ+uqifD+NF49HcEcT84HRlvM8gMrsBIwvGRVbltMXpS5IMUXyqxg6HNXBcOllBqz8SnUeGjMNPrfbj4ESNRbJJ9oDI5e+agbjzOWK8lgH0bAkFAmFFzdDK5sFr8W73e/1GP2Bbw8y8=;/KLQDbMLYQ2AzbYdoxd8qw=="
+secured: "xfQnTI/eBaPVo/UOyc96vI/aEAOuG7UZxCANJ2LYQ4PR89YJ6J6F28EjHT7U3apN5XIBWj8JIThP/DzV4HMRAfcDUt1/rf/Ad8d5r8/t6nxVATs7gum08hQymrVYbFoJb9Bq/CEw2vPOMsu2Xdlyqfo4fLE3/w1vqC8VSJwoiZUE1hsTYRMeJ67WWnK9ZpwEGDGSdmJF9ishIYnTWMmUSiCwJPm5Jooc6HKFLtwHFtn1IMqrvda5iYSD0lVyJCrg/0XfRy8E9VdNKF40PXqm/TVC1zRZ86dGdUwxfjaS+U5/Tts+NuX+Yx4dzKDo2OGeE9Zp46RjYeMbixpaNgEep7Pbzzv+VZZXGfmZOZtlumxWQsLmUgubsTRhWkvY/DASa4THp1THAlPZnUyujSZbyc9lkp7MqdPP9xbD2YfwxvpcJxxL1XJ79joQB2RtV/UTwlBsxQUxVQW09ZqzlI0mvwvGy0QYRjXlW5wOZpCCJP3ByB2svNupR4a7rXZqyI4h8zNy8F01585OHuIVpfcslQ==;N+21/AwoY9HLgM+lCcFIPA=="
 ---
 

@@ -2,6 +2,137 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-03-computer-vision-in-healthcare-global-market.md",
+      "title": "Computer Vision in Healthcare Global Market...",
+      "excerpt": "New York, June 03, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision in Healthcare Global Market Report 2022\" - https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-the-forgotten-margins-of-ai-ethics-a-paper-on-ai-ethics-with-teeth.md",
+      "title": "The forgotten margins of AI ethics - a paper on AI ethics with teeth",
+      "excerpt": "The field of AI ethics seems to generate more happy talk than potent ideas. It's rare to find an academic paper with real world teeth, but \"The forgotten margins of AI ethics\" stands out. Here's my critical review.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
+      "originalUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2015-09/Fotolia_85545935_Subscription_Monthly_M-e1540994230373.jpg",
+          "width": 701,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
+      "publishedDateTime": "2022-06-03T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast.md",
+      "title": "Voice and Speech Recognition Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast",
+      "excerpt": "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-elon-musk-says-tesla-ai-day-pushed-to-sept-30.md",
       "title": "Elon Musk says Tesla AI Day pushed to Sept 30",
       "excerpt": "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30.",
@@ -997,136 +1128,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-merge-cells-and-column-headers-in-amazon-textract-tables.md",
-      "title": "Merge cells and column headers in Amazon Textract tables",
-      "excerpt": "Financial documents such as bank, loan, or mortgage statements are often formatted to be visually appealing and easy to read for the human eye. These same features can also make automated processing challenging at times. For instance, in the following sample statement, merging rows or columns in a table",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T11:37:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-in-child-abuse-cases.md",
-      "title": "Oregon dropping AI tool used in child abuse cases",
-      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "originalUrl": "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "cdnAmpWebUrl": "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "publishedDateTime": "2022-06-02T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Haven Register",
-        "domain": "nhregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-societal-impact-and-the-future-of-education.md",
-      "title": "Artificial Intelligence, Societal Impact, and the Future of Education",
-      "excerpt": "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg",
-          "width": 471,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
-      "publishedDateTime": "2022-06-02T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
       ]
     }
   ],

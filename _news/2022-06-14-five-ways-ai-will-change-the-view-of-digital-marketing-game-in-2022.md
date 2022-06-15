@@ -33,20 +33,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Can AI Tools Tell Us What Juries Are Thinking?"
-    excerpt: "“Emotion AI,” “Affective Computing” or “Artificial Emotional Intelligence” (essentially synonyms of one another) is an expanding area building on advances in machine learning and neural convolutional networks, to analyze visual, audio and text dat"
-    publishedDateTime: 2022-06-10T16:08:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2022/06/10/can-ai-tools-tell-us-what-juries-are-thinking/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2022/06/Artificial-Intelligence_2-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "The Worldwide Artificial Intelligence in Marketing Industry is Projected to Reach $23 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-06-13T11:44:00Z

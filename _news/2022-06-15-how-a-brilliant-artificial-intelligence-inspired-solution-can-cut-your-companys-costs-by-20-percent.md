@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-15T07:33:00Z
 originalUrl: "https://www.inc.com/kelly-main/artificial-intelligence-efficiency-productivity.html"
 webUrl: "https://www.inc.com/kelly-main/artificial-intelligence-efficiency-productivity.html"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1392647814_505467_lfdcra.jpg"
@@ -24,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "PZyMN/LaYlYfNbTNKk6Nb/yt2nq2tQiWLTrZKp2tfjHmjfvd+8u5YrqZAWZttEqCHL3BG6YE8kFQ1KLVaGoHXAuIVesRMHgLiF4YhSDfqy8OppTXrA+vugKUuvB5Z43iVgyX1ucIuPH1jwhWRYZv3TJBOBI0eVa1G9w9zlJo7xV6I7NMCL98pnWLNdITFNjgXpfTVesNDJJB2jvjHQoSM7IbI5Wny5VUaM7/mTxipWmoCCO0ekQpKIMNqBfrEPiPdYx2KJhlLbkpYRTgU+ZLqG8GdMTC4MxRHUcoXN7AyJDC9+fvxXRs55utplwyK15NsaYFh2i7kbunGP+2zXRyiikhokmj552bXZwTx5+7jEE=;JPT1j9NLl1iejt+qGh4qKQ=="
+secured: "ySC5gZirl9Mr9xTUxELkZcqNLE+xB2Rwi6lcK81INHcnqDWm/JJ6jJ8LcbGBcYRnwwK8Q1jR1qSzCszutpWvbytUzb9+j/0xSWbs+T2vLg6yBaEkTjVc1sd1XPFDQQWyfnzlTmDaKK5dMqhehlfzcTOmI0WQ+xz38Stao/2TFKQdyXMx975u8EpUmjm9q3gNZ1DU6aDcF+ATqZQHfunuqTptL5eV3WIob5CADTpiUPdhXjKhkA8YPWT/m6jUCdXd2t/1fAFwb9NnVzSihYcJeniGWk4myCF7HwLC7mCsVK9O6IRxCbZ1N7Ji9r4XFdFxXaQmqunT7dQmLGKRdOiYitWJSUV8ViL9gNDfNzYAuDEl/aT/55oLhy6PYXErX41FCm+vH3cwdzZfB+rFHkp8jMdjRUfHgMhsm9fHfyjH8E+VCLMnt+GmsvtLu/d3uJ0UiBQWVLj3ANZvq2D0xXie9t/4Exti61oUSAWlGo1/yPRNGrbYNO9jiLxMK5xU0sv+E0aALsLctMtVmEQ1t7epWg==;EMCoIIBGoiHTaZ4YUog+LQ=="
 ---
 

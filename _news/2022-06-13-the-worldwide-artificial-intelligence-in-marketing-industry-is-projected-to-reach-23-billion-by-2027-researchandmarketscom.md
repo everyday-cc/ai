@@ -33,20 +33,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Can AI Tools Tell Us What Juries Are Thinking?"
-    excerpt: "“Emotion AI,” “Affective Computing” or “Artificial Emotional Intelligence” (essentially synonyms of one another) is an expanding area building on advances in machine learning and neural convolutional networks, to analyze visual, audio and text dat"
-    publishedDateTime: 2022-06-10T16:08:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2022/06/10/can-ai-tools-tell-us-what-juries-are-thinking/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2022/06/Artificial-Intelligence_2-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Five ways AI will change the view of digital marketing game in 2022"
     excerpt: "With the steady rise of AI and its continual development, one can only wonder how these improvements to AI will change the digital marketing game in 2022. From chatbots and virtual assistants ..."
     publishedDateTime: 2022-06-14T14:41:00Z

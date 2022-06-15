@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "BrightDrop Acquires AI Software From Tech Startup Marain"
-    excerpt: "BrightDrop has announced it will integrate an AI-powered fleet optimization software developed by a California-based startup called Marain Inc. into its existing fleet management platform. The GM-owned logistics company says it will integrate Marain’s AI-based fleet optimization software into its fleet management platform to “analyze,"
-    publishedDateTime: 2022-06-10T16:38:00Z
-    webUrl: "https://gmauthority.com/blog/2022/06/brightdrop-acquires-ai-software-from-tech-startup-marain/"
-    ampWebUrl: "https://gmauthority.com/blog/2022/06/brightdrop-acquires-ai-software-from-tech-startup-marain/amp/"
-    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2022/06/brightdrop-acquires-ai-software-from-tech-startup-marain/amp/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 37
   - title: "GM's BrightDrop acquires AI tech from startup"
     excerpt: "BrightDrop will use Marain’s artificial intelligence-powered fleet optimization software for its products to develop solutions for fleet customers."
     publishedDateTime: 2022-06-12T16:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-it
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cobb police seek approval for controversial AI facial recognition software"
-    excerpt: "The Cobb County Police Department on Tuesday will seek approval from the Board of Commissioners to expand its use of a controversial facial recognition system that uses artificial intelligence to identify suspects."
-    publishedDateTime: 2022-06-10T15:29:00Z
-    webUrl: "https://www.ajc.com/neighborhoods/cobb/cobb-police-seek-approval-for-controversial-ai-facial-recognition-software/C7AQSR4BUBGFFF6H2QAWMFNTLQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 52
-    images:
-      - url: "https://www.ajc.com/resizer/WiaPAcke_7PynFUsqlEHwdLVl0s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/6SGSYJJ33BH73GGPD2Q22V34BE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
     excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
     publishedDateTime: 2022-06-14T23:53:00Z

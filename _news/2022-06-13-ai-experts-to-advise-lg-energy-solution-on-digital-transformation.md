@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Is Transforming Injection Molding"
+    excerpt: "By harnessing the reams of data produced in modern plastics processing facilities, artificial intelligence can improve machine performance."
+    publishedDateTime: 2022-06-14T21:16:00Z
+    webUrl: "https://www.plasticstoday.com/injection-molding/how-artificial-intelligence-transforming-injection-molding"
+    type: article
+    provider:
+      name: Plastics Today
+      domain: plasticstoday.com
+    quality: 39
+    images:
+      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/machine-learning-Science-Photo-Library-Alamy-1540x800.jpg"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "LG Energy Solution Sets Up Special Advisory Council of Global Artificial Intelligence Experts"
     excerpt: "New council established to drive company’s digital innovation and promote manufacturing intelligence Five global AI experts specializing in various crucial sectors assigned to spearhead key technological tasks SEOUL,"
     publishedDateTime: 2022-06-12T00:00:00Z

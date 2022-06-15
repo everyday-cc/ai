@@ -79,15 +79,6 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 24
-  - title: "AI in Fintech Market to Reach US$ 54 Billion,..."
-    excerpt: "The managed service is likely to grow quickly owing to its help in administering AI-enabled apps in fintech. Fintech start-ups are using AI to provide professional services expected to drive the ..."
-    publishedDateTime: 2022-06-10T15:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27650322/ai-in-fintech-market-to-reach-us-54-billion-globally-by-2032-at-16-5-cagr-future-market-insights-i"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "nM0nkB1VGjoK5T59QHBHAga/doggw+JAoFkna7FzQR70H/QrKy0iMEAsJNANVKyFrqGv05AUR8e4tKwFh6ItmYmRzD1IEe2/hDXgU3YafzccVR+DtQvgWOZHMu6IG09lg2zbiVuShXUOG3MkmtSiLphR58zEwsB/EkN6sldqHxechn/X+KQLaSSw8tpA4FhBBBM2w1SjVo5tCks+5eaaE71m9W2yYdMpHt3xaWZQhUSCy5UM+3FCi6Lo1JYn/iCZyqY0B/fXOrfjuITc/79X0O0PIom7QUUoew0NL7UnRebMS2Z7Uv3YVplX5hsD+VO6G1DqCLHPVwmovI4KzQwk1aNfQ3byymPDH5Ev0BWpABC++//3tmGaSUQbeCeo+CM8VYEd8pOVQclqZUGRfPWk+Z1/fMYo3K40Vb02hQ7MMJFTK5RJ7JNuNzNBoOEGZkZsbQqvgV8Qc55ofjpaoYcsGW4Y1eLTnTJTXuUOSHUAfUdUaPG5FKCJafalyGcnxf+WcDjhgDOXoiFUh47R/1OseQ==;ysdhCCviYeZx5ayvgbTfEw=="
 ---

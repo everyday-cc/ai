@@ -2,6 +2,147 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
+      "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
+      "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "publishedDateTime": "2022-06-08T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-self-driving-cars-are-not-yet-safe.md",
+      "title": "Self-Driving Cars Are Not (Yet) Safe",
+      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
+      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-how-ai-data-are-transforming-healthcare-three-key-trends-that-could-change-the-face-of-medicine.md",
+      "title": "How AI, data are transforming healthcare: three key trends that could change the face of medicine",
+      "excerpt": "The Stat Health Tech Summit in the United States put inventors with some great ideas for changing healthcare into the spotlight. We take a look at three highlights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
+      "originalUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/b9326f2e-f80e-45be-bac9-18ac2f181fff_205e9f0b.jpg?itok=Lb076e6s&v=1654657778",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
+      "publishedDateTime": "2022-06-08T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-index-exchange-acquires-machine-learning-company-rivr.md",
       "title": "Index Exchange Acquires Machine Learning Company Rivr",
       "excerpt": "Financial terms of the deal were not disclosed. “With the addition of Rivr, we are uniquely positioned to deliver advanced machine learning-enabled optimization to the industry to increase efficiency and drive even better results for our customers ...",
@@ -995,152 +1136,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-015-monthly-dividend.md",
-      "title": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Plans $0.15 Monthly Dividend",
-      "excerpt": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, March 10th, Wall Street Journal reports. Stockholders of record on Monday, June 13th will be paid a dividend of 0.15 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/",
-      "originalUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/scripts/DividendChart.ashx?Prefix=NYSE&Symbol=AIO",
-          "width": 650,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/",
-      "publishedDateTime": "2022-06-08T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-this-ai-brought-11-of-my-worst-seinfeld-nightmares-to-life.md",
-      "title": "This AI Brought 11 of My Worst 'Seinfeld' Nightmares to Life",
-      "excerpt": "The Dall-E Mini is supposed to be a tool for realizing artistic visions. What happens when it gets its hands on a beloved 90's sitcom?",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
-      "originalUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5cb311187f7e809a9685637b0d50f833.png",
-          "width": 800,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
-      "publishedDateTime": "2022-06-08T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more.md",
-      "title": "Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more",
-      "excerpt": "Embedded finance — where financial services companies and others bring in different kinds of fintech technology by way of APIs to enhance their own offerings with more data and functionality — remains a growing opportunity,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/",
-      "originalUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1218896782.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/",
-      "publishedDateTime": "2022-06-08T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
