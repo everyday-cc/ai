@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge AI Hardware Market Report (2022 to 2027) - Featuring Baidu, Continental and Intel Among Others - ResearchAndMarkets.com"
-    excerpt: "Market dynamics are forces that impact the prices and behaviors of the Global Edge AI Hardware Market stakeholders. These forces create pricing signals which result from the chang"
-    publishedDateTime: 2022-06-10T11:56:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_45f7e931-7dd1-5203-9385-de95cab32916.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
 
 secured: "aYpyu5az1Hy5cz1WJz9azEgUteyqQy2t1ch4FszVdfeooGtCmf0rkALeVw/pFG3D8T/0J3CrEjh5NUMTHGwG4TV6cm52vxovmKAFdPN64mAVHfbYmxmR6hZ44uUOGgjf15MIcp4R6MITd78fgPx+zqy7jc2qKyeExTqfzIGRuiENKjNCRJ7wIEoPHj5IuRf1Bt549LAxK0nYJbj8OtJ59x3gYPEJPTsE7DV2xxPwkicIRVPMeyvixCDFwHVPLV4AKWvGkAziI8EnQV5fUZjs+qfvVL34yGUicDs3LvFSSsrMKFZLVvCJIDNMv3ewbKkx77bCOxcxzpqXirZHJk4Eo5XXisRkw2VMkiuX2tFFhgI=;qrl4z6aKIG57hgHKw4Of5Q=="
 ---

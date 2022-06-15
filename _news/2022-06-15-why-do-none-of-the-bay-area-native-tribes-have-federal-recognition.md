@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T02:39:00Z
 originalUrl: "https://www.kalw.org/law-justice/2022-06-14/federal-recognition-for-native-tribes-explained"
 webUrl: "https://www.kalw.org/law-justice/2022-06-14/federal-recognition-for-native-tribes-explained"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KALW

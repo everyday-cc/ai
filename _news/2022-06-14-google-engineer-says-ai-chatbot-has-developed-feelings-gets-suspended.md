@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-lamda-3176080/"
 webUrl: "https://www.androidauthority.com/google-lamda-3176080/"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
+    excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
+    publishedDateTime: 2022-06-15T03:42:00Z
+    webUrl: "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 61
   - title: "Google engineer says Lamda AI system may have its own feelings"
     excerpt: "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrik's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear o"
     publishedDateTime: 2022-06-13T15:25:00Z

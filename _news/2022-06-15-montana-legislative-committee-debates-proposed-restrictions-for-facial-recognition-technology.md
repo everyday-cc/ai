@@ -80,6 +80,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 22
+  - title: "Bunnings, Kmart and Good Guys investigated by Choice over facial recognition technology: ‘Like collecting DNA’"
+    excerpt: "Three major retailers are at the centre of an investigation over a ‘completely inappropriate use of technology’ to record customers - with most shoppers unaware they're being watched"
+    publishedDateTime: 2022-06-15T03:34:00Z
+    webUrl: "https://www.perthnow.com.au/business/retail/bunnings-kmart-and-good-guys-investigated-by-choice-over-facial-recognition-technology-like-collecting-dna-c-7170664"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 0
 
 secured: "rx2VlADpwyk9U5puf9Qi5Sqy59fHoZkpYtcXAXPpQWZygpjA967M2w9B0zdfxLcYKVeRzJScT0enAB4j4cQuWk9TDoH2hg51yWaRJXCfSSAwnsLikBEMRlrexS7cyQP9WtwIFDU5b+3oqZFs8DKpdSTfaTl6kgFuyP5DdQ9HlFymSwFzTUJNYWGG7KTnH9vI9QG80R87hQXwFj9B8zlDN56Yz7FkSy3mF0NJmGRfYEq0LVPYpMfjM+OOR3ljUyVNcmJW0uyAYrywcULWn08i+cIFZcI8d03SdGk2ahNuSKH9ufSyuC3HRfD7G+CV8dzwaqx4gasXQBtL9QK2NdvrKCsJh9g+KOoMNiIo00rIF0ExFx9Rpk8UIStOVsjL0RMkkJEe8MwkQAciXvFzgyznM9wICbwHHuyNpjq4N8o4UzNh+xj4U514DGEEDLI7Ko7aclcCvBuEzFV6oyua7GPJDGcGceMmiBwN9guJ0gNf8QZacPG5/g6hg6gYGy7L1sm+WPLmXlyRlDeDWdj3wgLcsw==;lhiauEVgE7jq2Al3Hohyjw=="
 ---

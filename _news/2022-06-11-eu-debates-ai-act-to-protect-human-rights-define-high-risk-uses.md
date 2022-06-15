@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/edge-articles/eu-debates-ai-act-to-pro
 webUrl: "https://www.darkreading.com/edge-articles/eu-debates-ai-act-to-protect-human-rights-define-high-risk-uses"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Three ways to promote AI tools in human resources"
-    excerpt: "The past decade has brought a rapid expansion in the availability of and interest in artificial intelligence (AI) based tools to do HR tasks, but currently these tools risk being on the one hand oversold while at the same time overly feared. These opposing ..."
-    publishedDateTime: 2022-06-10T13:49:00Z
-    webUrl: "https://www.argaam.com/en/article/articledetail/id/1566774"
-    type: article
-    provider:
-      name: اخبار 24
-      domain: argaam.com
-    quality: 17
 
 secured: "AjRSjGXUYSg59LhISPIn03dj1Vn8K0l/X3JdTEhiq20us9OsjU8kqPqi8x2LcY1TKjAkA2KaS2xrnjQ+EqmpXNuuzAiJEVZEacwzyh4Larm++iqJE8RUY974zn0fctIvWdXjik14MwZshSrPRXKWoHqFTJ+qnGvugfZIHjUiWfKnZGg2SkoJmIwylT3pgG5ZG2XfqjJY0nJxUDYJf4pwgYoql/5dG1g1+1bgEZuLOBy6JCws+esR36jsbu0TOnqtPVGGIw5mcqNAkeJdFDZIvdn/qutXl7YjECB2S4P0jBhg0YYuOOYu7zPAnJQqtIECwtJ3M9vz1u9HTKEEIhT7HMRYmXgTRaufW6DVlWVvITWefenAiDBVdHu1GP7ZGtccDHlIKOgKdWSg9NrSJLp6fZiqduq+Mqfs5zamyB9xsmCs4Gwc+lGZVeAWIAvwqa47hdHb6vtMu2xOAYt5BEvg4/h7LdT5aFGdUS3LtLmDtFl98hMS8nEyFFuDkTUu5Or9uGL08PXdZ5rkQfVJmdVacw==;d8gJEwCmqdy/SlLz3kD2WQ=="
 ---

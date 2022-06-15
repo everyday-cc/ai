@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 52
-  - title: "HSBC Is Offering Oxford Fintech Program to Staff"
-    excerpt: "HSBC is offering the Oxford Fintech Program to staff, \"in first partnership of its kind between the University and the banking sector.\""
-    publishedDateTime: 2022-06-10T14:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/HSBC-UK-bank.jpg"
-        width: 1280
-        height: 1112
-        isCached: true
   - title: "Vehicle shipping fintech RunBuggy secures series A funding"
     excerpt: "Vehicle shipping fintech RunBuggy secured a series A funding round last week, bringing its total amount raised to $19 million. The cloud-native platform, which uses artificial intelligence (AI)- and machine learning (ML)-powered technology to connect car shippers and haulers with lenders,"
     publishedDateTime: 2022-06-13T21:34:00Z

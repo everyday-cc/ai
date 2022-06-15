@@ -193,6 +193,24 @@ related:
       name: rnz
       domain: rnz.co.nz
     quality: 17
+  - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
+    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
+    publishedDateTime: 2022-06-15T05:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/15/google-debate-over-sentientbots-overshadows-deeper-ai-issues"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 17
+  - title: "If AI ever becomes sentient, it will let us know"
+    excerpt: "Blake Lemoine, a senior software engineer in Google's Responsible AI organization, recently made claims that one of the company's products was a sentient being with consciousness and a soul."
+    publishedDateTime: 2022-06-15T04:46:00Z
+    webUrl: "https://dentonrc.com/opinion/if-ai-ever-becomes-sentient-it-will-let-us-know/article_7596cee8-fba8-5b15-a628-e64b1bd3c93c.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 17
 
 secured: "UUah0VSc9QgkfWO+IqQEMO2uukoUzSaA3hQVJP2oS7eTR14zRpblnE7eBY9vDS7cRO5jwGAV7AxRFV//kQ0BE/AauTZTcO0KXIjGqrrzdvDAsNAmItztMy3DCJDjjoNJoi4/ilF5GCzkffCwMVMA/OwhATmX/mNW9j5hjWAwWDNWADeuK/lfOywem6XDBcfzipSZr9F0GGJEp0MwN6EspY1g65JzDnxFojdZjhIXo23BDOmwQcZfCR8k34jgXWTzX4WLYodWmtHPZCuo93WcG8gPPYJndZQK8pa4ITMTTEMbbRm16Bap3M59QvybyslK/P0hWW9EMNoOJdp8/CPSTeLl9KGbkV5ad/CT7+ZOBkukiM7ku48+ZyrtLS3WgHkVqNjbjb2X48knn8JTfQueLxGPwYREKfSUkpSWtxLdkvhNEUDh2ZIuU0Si7vzZZeB4eKqEQI9930RLglAPVmnjzYm8x/783Kre4f3KGzNtUTGNRPjXeEAXwCQ6ujg3DRXjrQxrGUcW83xQV92QVxFpmg==;iFgaEzGjMqBWB+X+1yOknQ=="
 ---

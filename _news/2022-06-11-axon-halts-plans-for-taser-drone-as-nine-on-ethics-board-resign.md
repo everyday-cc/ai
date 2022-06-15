@@ -24,17 +24,6 @@ images:
     height: 562
     isCached: true
 
-related:
-  - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
-    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
-    publishedDateTime: 2022-06-10T12:25:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article262197492.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 19
-
 secured: "4oVc5F0L+K1/XeAJ5y2Xu3XK+Mjxqo5kYOB3lh5XmnKUcdi22JuVZ4NtGgkhsHpzBGtcWS9sDYgj89lsqy0tjOrMnRBPUNhjf8gW6oyNJwvhZC7cCVA9N4vpjD/1GUbv0+nkPbAbA5XA1xWiwMPTaT0dt3H/AVOhAX3wwTdLoB7fMtJYhD5rqHFaMTc2s0cC7v5Wh1+9t32SaXjRmNSwkcFssOBrYQQ0azakD61rrNiC2ikXiInRnIMQup22wpIWKaV3L6Hh9MO9OlogjeJ4cZqgEomaz0/vn69w34kn0+CL+okDCLB+YweRpnPE9OTfJFw064ITKQ/sg6haHF+M1U4oFmafUimbb95O1X82KFGGey8QM4giPVDBG8pR126+VyFbhBa4D+Q50WSsu+QoOdvuW59SPCnZ6z4HVB1qX+mp5SiNg3pSDqhP/vmAxlNFZJj4xS98kmnqxyGFOjyYsVsW0V4qducY6w8e06wVkzoA9SjnfSp63xhAsg0C1VDJiUQgA4zh+blL+hq/YuIlKw==;ZlXqYZ4lfBwx5H5V2DdVxw=="
 ---
 

@@ -40,6 +40,15 @@ related:
         width: 1920
         height: 1081
         isCached: true
+  - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
+    excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
+    publishedDateTime: 2022-06-15T03:42:00Z
+    webUrl: "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 61
   - title: "Google engineer forced to take leave after claiming AI chatbot 'developed human emotions'"
     excerpt: "A Google employee has been made to take leave after he shared conversations between himself and an AI bot where it told him it feared being turned off as it would 'feel like death'"
     publishedDateTime: 2022-06-13T02:14:00Z

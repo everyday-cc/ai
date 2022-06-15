@@ -33,15 +33,6 @@ related:
         width: 1169
         height: 827
         isCached: true
-  - title: "Self-driving cars may speed up to 130 km an hour"
-    excerpt: "Regulation on automated driving likely to be increased from 60 km an hour to 130 km/h, says UN Economic Commission for Europe - Anadolu Agency"
-    publishedDateTime: 2022-06-10T13:09:00Z
-    webUrl: "https://www.aa.com.tr/en/europe/self-driving-cars-may-speed-up-to-130-km-an-hour/2610606"
-    type: article
-    provider:
-      name: aa.com.tr
-      domain: aa.com.tr
-    quality: 4
   - title: "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports"
     excerpt: "Market by Component (Solution and Services), Technology (Machine Learning, Natural Language Processing, Computer Vision, and Others), and Industry Vertical (IT and Telecommunication, Retail and E-Commerce,"
     publishedDateTime: 2022-06-13T13:00:00Z

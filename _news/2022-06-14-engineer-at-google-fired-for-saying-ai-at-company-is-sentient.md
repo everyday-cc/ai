@@ -61,7 +61,7 @@ related:
   - title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
     excerpt: "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine."
     publishedDateTime: 2022-06-12T19:18:00Z
-    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?d_id=3887326&ref=bffbhuffpost&ncid_tag=fcbklnkushpmg00000063"
+    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?d_id"
     ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
     cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
     type: article
@@ -338,16 +338,16 @@ related:
   - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
     excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
     publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.pe.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    ampWebUrl: "https://www.pe.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
-    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
+    ampWebUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
     type: article
     provider:
-      name: The Press-Enterprise
-      domain: pe.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 50
     images:
-      - url: "https://www.pe.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
         width: 1024
         height: 682
         isCached: true
@@ -621,6 +621,17 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Google says its artificial intelligence is not sentient"
+    excerpt: "Artificial intelligence researchers say the debate over whether Google’s LaMDA chatbot is sentient is an unfortunate distraction from more pressing issues in the industry."
+    publishedDateTime: 2022-06-15T05:58:00Z
+    webUrl: "https://mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 37
   - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
     excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
     publishedDateTime: 2022-06-12T23:19:00Z
@@ -781,6 +792,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 15
+  - title: "Google Makes Headlines for Suspending Engineer Who Claims Its AI Is Sentient"
+    excerpt: "Lemoine, who is an engineer for Google’s responsible AI organization was placed on leave after he published a conversation transcript between himself as a Google"
+    publishedDateTime: 2022-06-15T03:43:00Z
+    webUrl: "https://hypebeast.com/2022/6/google-suspending-engineer-claiming-ai-robot-sentient"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 14
   - title: "Google Engineer Put On Leave Claims A Self-Aware AI Wants To Be Known As An Employee"
     excerpt: "According to AI Ethics Researcher, Blake Lemoine, Google's LaMDA AI chat bot tool wants to be considered sentient. Through conversations and research with Google's LaMDA, Lemoine claims that not only is it sentient,"
     publishedDateTime: 2022-06-12T18:16:00Z
@@ -790,6 +810,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 12
+  - title: "Coinbase cuts 18 percent staff; Google suspends engineer for 'sentient' AI claim; HDFC Bank, 100X.VC strike partnership"
+    excerpt: "Coinbase is laying off almost a fifth of its workforce amid a collapse in its stock and crypto prices, CNBC reports; Google has suspended an AI engineer for basically saying a program he helped build was human;"
+    publishedDateTime: 2022-06-15T05:37:00Z
+    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/coinbase-cuts-18-percent-staff-google-suspends-engineer-for-sentient-ai-claim-hdfc-bank-100xvc-strike-partnership/77275"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 10
 
 secured: "60pvwXwTQBhCGi+xyXgJapgecDl4sVvcYJwNfmgfGW8YzLxG66zsqSiE6MJA6o2qwhgfjhpfvlElnOEbZsGxawlfWA+VbFQCH8yEJAnnt/SzJ9Cp5Exbjthy7aqJj6160o8mo/3ZlRx7BLzx9in2264ENJeXRKa9IFdMsl27WCReWLuSxFG8sBAXe8wFxp/pSoKjuh9siDqSmc6EKfxNu4Dl3hwP01s4ZdK2aiFYoigzDFlMxiaqSYa7h8qSIYsCVGO4EXc+vvjyzArqmFq4VK+xNlMxqx2kWgm0ywV+p9Jt4n+KPdAGw/1e54m2tD2NTKu08NHUeQVNrzjeQoE+Ggf2cTUOWk9TDI81yZLIb2arN/5yxxd5YcM0wWvh3InnMLdZwUznu/82QzOEBsreZjFV3CP7Ivtiby4pIDXAlqGciRFVY04wOMFH7jIfRNpLW3vrmSj3EY7Y8KOlVCn6I3jbeEBZc+rjpLkmAdtTlf4e61LvcPgVaX5BFaG9JR4mxwNses288QAd68Xq/MReQg==;fXmT1k8Cgo2G/M2tuR7uCg=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 283
     isCached: true
 
+related:
+  - title: "MooVita Intros its Latest ADAS Capabilities Powered by AI Chipmaker Hailo"
+    excerpt: "MooVita announced the newest iteration of its proprietary MooBox technology, including its latest state-of-the-art Advanced Driver Assistance Systems (ADAS) solutions. MooBox’s ADAS capabilities are powered by the “Hailo-8 edge-AI Processor,"
+    publishedDateTime: 2022-06-15T02:18:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/25613-moovita-intros-its-latest-adas-capabilities-powered-by-ai-chipmaker-hailo"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 33
+
 secured: "X/X8Hf2D+2Zwp42x02mL9Vv5hFG+DnpoT/jC48CUmDU3Nz2DnGa3eDMY/ERKcOQjhnZRvYrXgkavpU+CNNJp2h3xQZ1bhNk2N1t8U/K8tbKqkcE6uL1dPEq9n8why1B2iCd7+rBvAaOWz0F1tM90KbxyT6AIc0Mi9uu8DxW2x1TAIlc6C+aHMtPP8Vu9BDmxIoWc7VQTS/lMalzmMAsKXuIx03z+4Og8TkoezweqlPXSrDszBkfHRKn/AJn09XTu5gZ2vBbKnY4YwAxpNqmpKcLc2p+DhcPK8NkdfqUcuBBrUKTsfSMvkwmhDx2MpVVqaqU5j3GdGWIM2eyUzEyTRyj/ugeRwE8anX/lj3anIJeYVfngdFpk/FnE8C1dv1m4Uh9ucguSTaXo34cEJe6gGAJQvVSpjcegrdPh8sTwxs29HUQysqbjADddJhf8u0xv+mAQTS4AOmtCZRXif8pCzZi3rv7o+Z4PT0j9B+MPZqyP+v1MAl9asN4LPi+Ka6ca8Xh4FpJtVRIqr2JWcie0Ng==;1OSiIzwF4rAN5op3gaQSNQ=="
 ---
 

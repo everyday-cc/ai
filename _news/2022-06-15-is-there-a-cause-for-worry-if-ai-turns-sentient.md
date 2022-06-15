@@ -194,7 +194,25 @@ related:
       name: rnz
       domain: rnz.co.nz
     quality: 17
+  - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
+    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
+    publishedDateTime: 2022-06-15T05:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/15/google-debate-over-sentientbots-overshadows-deeper-ai-issues"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 17
+  - title: "If AI ever becomes sentient, it will let us know"
+    excerpt: "Blake Lemoine, a senior software engineer in Google's Responsible AI organization, recently made claims that one of the company's products was a sentient being with consciousness and a soul."
+    publishedDateTime: 2022-06-15T04:46:00Z
+    webUrl: "https://dentonrc.com/opinion/if-ai-ever-becomes-sentient-it-will-let-us-know/article_7596cee8-fba8-5b15-a628-e64b1bd3c93c.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 17
 
-secured: "xVhPjCvCiB+vk6uoHNBRB9ZKXZAR1jtLF2MoWwkglR6ACa3MRgjCvcQmYuCUaXR+OpoLgif9A1uk3MYZxvdWR7wKsd4L4ZFyvxW92PG84+m84r6kFYt6NWFcpwdqa6Qfbf9d6ITY+iCcyNLmZxARZLYhrM5qyueN9nwL7ieGbeVSKCtqQiPQbkMMWsmSNQACEAmdbx28wJmbTJcG+2AoG6kT8btYqoJ6bUndmUaM1UBbRBcgyJ80glmIYAtMlNYksJMLUbSRFFPcsDZdQ2C7mGpzN5Jf4YZs+9MjnmVN8vKbL+0bKk+IYSyhUufxDJHNisUYH5Xq98nh964JHGPvvjSF0ytOYN29T0DtXDu0vBE=;jThJH+3ag4yLpMv/12Tw5g=="
+secured: "EoNdRId7meOB/8Vg3MqFYHpd3uKHLhB3BdQZiEQBGwPEwCNj/TAr3tF2Pjb3eq2eQtlCE8DlJBEJXtkAsviwJ+MHRuFoa28g0rHM48oNSzO9VOqNhYM9behd2vNXVmpZ6tXHXKRYkFhPu22bFjfD8ZjKMNsm+EXfANgrnoPN71JFlX5sU1/SrcS8YBMUEZ5RsRkXNGY0mUiSRKZ8y6d2S98xWxb+wIbrNhBaV+uo6zFj/Cr+fm3AFpVjWs3jmwiDidSjNFoZnCDN+iaHiIRX5ZLQFrQ27Am4pFl0t8BtwSoDHRgu/vEx3iRp9hMv3VEMuAucf99iOhwtxPlrGtwdTyizm6irkWtNHw5HQlLikRBJu4KB7QGvzPfY44QY7R32qE38TbLrCNkg/rvGPi+edTCLsVnKXuWI019wPpf+dLEgeNUN3etaaoJI3vdQ0ThEC0Cn0Q9svUInbM2PiOSkr1ZdEJqhg2jWDOsS8wrSuPbz5jrTJpiizRl5vdxEq2l4F648H8d4uWvcZyK0RdjLFw==;/EToiLUjpYu6C/LqggfDgA=="
 ---
 

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Akamai Awards $1M in Products and Services to Future of Life Online Challenge Winner Bloomfield Robotics"
-excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the cloud company that powers and protects life online, today announced that Bloomfield Robotics is the winner of its Future of Life Online Challenge, clinching an award of USD $1 million in Akamai products and services."
-publishedDateTime: 2022-06-13T11:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9620049.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9620049.htm"
+excerpt: "Plant sciences artificial intelligence startup sets sights on solving global food production challenges by scaling agtech platform with Akamai edge computing and security capabilities CAMBRIDGE, Mass."
+publishedDateTime: 2022-06-13T10:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27666376/akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-rob"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27666376/akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-rob"
+ampWebUrl: "https://www.benzinga.com/amp/content/27666376"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27666376"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 72
+heat: 82
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -40,6 +42,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "Z2IKzOvFCNOTUrjYoRYLSDbKiVlHVXUlrHA0es4OcMBle8L04FMuiGhyVqw2kn/vGViwOZD1bUdSk+uAoSO3+lRSU1SptWmVHXKcVDtBPnD0WiDJvWpYWkSngOfBvYqY7rYvJSjscnI3cTGBYkQWrN1oAoG00xCQDLNYOuywKGAVzQYm0m8871YIYqUM6v63EUMnDVBcejrbYhw+JpdxZ9/RYciGpFzC0sbKK6W4FxUZ+KUKYOjaWaPyc/Ko7pq9mkGmcEtMEMc19Ov9IN9vBOBbELyoIDVqagVtNqPnnkLsCOzd7T7rGX5v5qDr+wRz12ZBvJFPELWKfTXTKc28VP9m39rSwfaraRjsxr+Ei6o=;hhwVSQ6Da9hpBzsCY4OsEg=="
+secured: "On3kD2eUXhlMPV80Ye1Y3Yi+wHY7kDShZDRU4vWlF9j4oytbzQoAKtqYNKV+5Pm/aTT+hGu/DaFuhNAvvTgoLw+03lp+OZzProYIEW/uGLdIuWbU8ruvFgeNwrWLpVJWDiS226SVPx3JHenpUiu56OCj39WmzVkuCayCkJQUfNRKngNosuZ+N54wVW8DSs92F19IrLIz2BG5su9vdsMQ1HmAxY7pHbb6e78mKGsGKxUei3lygRZ9Rt41WMKb9bqyTvQjANGg3Xu/xhc81Cq0RlPz3qFT7iDX8Q4vNq+U4R9AOtc1D+H915g46ULimTl8kQC+gwMP13gUr+D0I/wrQMYMNeG5FAg32juExIrTDwk=;zeGqRHn9MuwNgWXz8C43PQ=="
 ---
 

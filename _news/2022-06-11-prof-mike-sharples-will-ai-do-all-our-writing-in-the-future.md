@@ -40,20 +40,6 @@ related:
         width: 800
         height: 350
         isCached: true
-  - title: "The future of AI is a software story, says Graphcore's CEO"
-    excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
-    publishedDateTime: 2022-06-10T13:42:00Z
-    webUrl: "https://www.zdnet.com/article/the-future-of-ai-is-a-software-story-says-graphcores-ceo/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "0xvZwxFw1iBem72aSz3PsHNQF91TnQJy/pu1NoHfN0p1fcrxu9hhxwlo4qLvTx7WReiHbCh28CXUteRTAhxHOa8yDI/PgEpDT7zbBhBxF79uLU4SiSjv2TThDWqnA5uNZE454RixormGVXebrdAfLGAR6pnU1qjRiowFFv+9nurZ94zCTeWFMsxoU6hB4STqzmAPj3g/o6uxOmSJQp7jFjmN2P4PHVm2C5oVqq7qgiMdibp7NNdjgx8Eta1WmRulXU06mSDMSH19Ye/0EBqoucyY+cYcLTJKvbJuw+S60iM/5wkyhgwyHcPCU+mjOTMgNpNI3CJvMra8rhesRl2Ujmyh+YYB3AEKiH5elV/9Qqk=;Kc7oiSM1uZL7/1wbTAAhZA=="
 ---

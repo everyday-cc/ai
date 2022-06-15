@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.9news.com.au/article/8c67ef77-fbcd-451d-8e98-2af1f243938
 cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/8c67ef77-fbcd-451d-8e98-2af1f2439389"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -22,14 +22,36 @@ topics:
 
 related:
   - title: "Choice investigates Kmart, Bunnings, Good Guys facial recognition technology"
-    excerpt: "Facial recognition analyses images from video cameras to capture each person’s unique facial features, known as a faceprint. Choice has now asked 25 major retailers whether they use facial recognition technology and analysed their privacy policies."
-    publishedDateTime: 2022-06-14T22:01:00Z
-    webUrl: "https://www.heraldsun.com.au/lifestyle/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
+    excerpt: "It’s a detail that most Aussie shoppers miss when entering some large shops. But now a leading consumer advocacy group is looking into the practice by some major retailers of using facial recognition on customers."
+    publishedDateTime: 2022-06-14T18:36:00Z
+    webUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
+    ampWebUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
     type: article
     provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
-    quality: 16
+      name: News.com.au
+      domain: news.com.au
+    quality: 36
+  - title: "Bunnings, Kmart and The Good Guys say they use facial recognition for ‘loss prevention’. An expert explains what it might mean for you"
+    excerpt: "Australia’s consumer advocacy group Choice identified three Australian retailers who use facial recognition to identify consumers. What are the privacy concerns?"
+    publishedDateTime: 2022-06-15T07:07:00Z
+    webUrl: "https://theconversation.com/bunnings-kmart-and-the-good-guys-say-they-use-facial-recognition-for-loss-prevention-an-expert-explains-what-it-might-mean-for-you-185126"
+    ampWebUrl: "https://theconversation.com/amp/bunnings-kmart-and-the-good-guys-say-they-use-facial-recognition-for-loss-prevention-an-expert-explains-what-it-might-mean-for-you-185126"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/bunnings-kmart-and-the-good-guys-say-they-use-facial-recognition-for-loss-prevention-an-expert-explains-what-it-might-mean-for-you-185126"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 22
+  - title: "‘Creepy and invasive’: Kmart, Bunnings and The Good Guys accused of using facial recognition technology"
+    excerpt: "An investigation by Choice has found three major retailers in Australia – Kmart, Bunnings and The Good Guys – are capturing the biometric data of shoppers, often without their knowledge."
+    publishedDateTime: 2022-06-15T01:59:00Z
+    webUrl: "https://www.sbs.com.au/news/article/creepy-and-invasive-kmart-bunnings-and-the-good-guys-accused-of-using-facial-recognition-technology/h08q8evb1"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 3
 
 secured: "FLws3K5irAnKF3+15KpZ+5d2YVOX4OULEV8MFfT9rCuFPjeqU83KEPDdJPDfhq3jXbGHb7jcHjhAZeQxJWFFiXAb2S2TIJAsdF0KvrTqAu/clJ6TP7IcTUjJnaXkWH6TtsciJBofT3wK50vgAKIyhYZO2E2DH1RNR7kmME7J58h2svWtrBRY9LZZy68NQOnbLhV/xuMGSR/M5INkQGlZoZwJ66Sl5a6F2SR+cxIGici4Fc0jNYOrNZqFzYLOCeFxuykhWPR+LvpowbWe3Lt2yIWpKVcPOBTUywbKCCbqA2qkq75wcFMDCdX989NjZR5yKRbXc/wyZZKJuGf++l9kyXMJpNbC3zg6SmmU3KQmcHSYVQWuDkiyt5tG21Tx7wiJlgokr9Gom0xGCudo7HHh3UViDj5AOqMg0Gmrli1/osbglMm17Mm+1p3FL6J8+YRDpHH2lwl/CS7tVwFa+Rd3pvDFEnaiN+QC461as+mDeemJdov2dqspjyzmSspZWOTTGdt0QmoQeT7KDynWACg21A==;6YgD5msQRHdBjywzFw9sXA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T03:09:00Z
 originalUrl: "https://www.khaleejtimes.com/tech/its-not-alive-google-row-exposes-artificial-intelligence-troubles"
 webUrl: "https://www.khaleejtimes.com/tech/its-not-alive-google-row-exposes-artificial-intelligence-troubles"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Khaleej Times

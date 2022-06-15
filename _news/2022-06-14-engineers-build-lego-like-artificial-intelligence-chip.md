@@ -73,6 +73,22 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "MIT Has Made A Lego-Like AI Chip That Stacks To Upgrade Your Device"
+    excerpt: "MIT engineers have now developed an AI chip resembling LEGO as they intend to create modular and sustainable electronics."
+    publishedDateTime: 2022-06-15T06:08:00Z
+    webUrl: "https://fossbytes.com/mit-stackable-ai-chip/"
+    ampWebUrl: "https://fossbytes.com/mit-stackable-ai-chip/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/mit-stackable-ai-chip/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 74
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/06/MIT.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Engineers build artificial intelligence chip"
     excerpt: "Engineers built a new artificial intelligence chip ... add layers to a cellphone's camera so it could recognize more complex images, or makes these into healthcare monitors that can be embedded in wearable electronic skin,\" offers Choi, who along with ..."
     publishedDateTime: 2022-06-13T18:38:00Z

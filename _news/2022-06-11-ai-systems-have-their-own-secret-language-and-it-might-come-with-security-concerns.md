@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/world/ai-systems-have-their-own-secret-language-
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Do AI Systems Really Have Their Own Secret Language?"
-    excerpt: "It’s hard to verify claims about DALL-E 2 and other large AI models, because only a handful of researchers have access to them."
-    publishedDateTime: 2022-06-10T14:00:00Z
-    webUrl: "https://singularityhub.com/2022/06/10/do-ai-systems-really-have-their-own-secret-language/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 17
 
 secured: "RxHhh8vkv2G+S8tz/2D1WQVKWG2ni+nLfMg9471qCRl+vZdzB/7rcNjOnOIyoV/jfpN03hR+JRXZojTGFQFIyGZb0TsT1W0+2zKRMkLTSjIIWqnIpSC8WG5H2DXdK1GPAmQ0VudvFsFlKsxeQxVgV+zBpsim7u1JL/hy0BL6XxnYRYjMJIPEkIEF3jYYkU+snrXF9R1D0HkawTqx23Mf02rG630rxD0shB53gSPaTkOqHAg30u7+xR9HjcSqfwlk7dRZifBvDrpOBKyjgy/5U9dzfCOoymMOIbfR5nBNQyJ1Pe3s58Eb2LX+yYwTfEhQXGeelg9iT1l1hp55C075BSgwpMpuoCl5Fh1ySgJ3qwA=;OPmEGsTNiY/J7rNWSBPxUQ=="
 ---

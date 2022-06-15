@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T04:08:00Z
 originalUrl: "https://www.heraldscotland.com/news/20209931.artificial-intelligence-better-diagnosing-heart-failure-standard-test/"
 webUrl: "https://www.heraldscotland.com/news/20209931.artificial-intelligence-better-diagnosing-heart-failure-standard-test/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: heraldscotland

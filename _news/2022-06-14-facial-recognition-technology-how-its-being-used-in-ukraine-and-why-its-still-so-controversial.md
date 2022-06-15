@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-it
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 22
+  - title: "Bunnings, Kmart and Good Guys investigated by Choice over facial recognition technology: ‘Like collecting DNA’"
+    excerpt: "Three major retailers are at the centre of an investigation over a ‘completely inappropriate use of technology’ to record customers - with most shoppers unaware they're being watched"
+    publishedDateTime: 2022-06-15T03:34:00Z
+    webUrl: "https://www.perthnow.com.au/business/retail/bunnings-kmart-and-good-guys-investigated-by-choice-over-facial-recognition-technology-like-collecting-dna-c-7170664"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 0
 
 secured: "VZAmlN/xD54//+f2SVzqtCm67OOTp+I8RJMvlr9ghqIRb/4mL8mROKFtRdL5m4sTkBgoppwb/TNa+VT02tScAtRr16M5r86WnMybfo2T2ns32FEFy2ZZxZtldZYdbtQlRv7ND6INYyfbIlqYMjj6akYsdqaKIr02tkLRTwEX7PPxhazeXKmSyqS1I7AA3pWoJgQlUJH8UrIDx2wwzMjRKqtxp1+gGwu06QovzDV1bHFgu8diFPCoRvkFO1Xcomz2cukR7wcw6NcITiSC34Kqz8VZgDN6MhL2PBEUZj2bZdI3unMWbMJ8Tr3LhA7hbaiRwC+FeXh/Wk/mTXxABMCJCGROlxWzXT11i9ttN95LBz8ejPQup24gl6Q1/zGMBsMf8yoTSQUZi+bvgCoh6245uw8j68cm4CvDU1ndvNgFVBGs6E0v4Um0E+8Cbz9cazfrYWX80rmdaWtuavLg+YAfUwwuH9YnyBYV4YYXFj2I+SCNyRu5rbpa9g2SC2/itqI9vOWvKtRI415dmQ26mSCWBg==;UHddaC759DmAVuhscRzzhQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/"
 type: article
 quality: 108
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -199,6 +199,24 @@ related:
     provider:
       name: rnz
       domain: rnz.co.nz
+    quality: 17
+  - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
+    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
+    publishedDateTime: 2022-06-15T05:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/15/google-debate-over-sentientbots-overshadows-deeper-ai-issues"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 17
+  - title: "If AI ever becomes sentient, it will let us know"
+    excerpt: "Blake Lemoine, a senior software engineer in Google's Responsible AI organization, recently made claims that one of the company's products was a sentient being with consciousness and a soul."
+    publishedDateTime: 2022-06-15T04:46:00Z
+    webUrl: "https://dentonrc.com/opinion/if-ai-ever-becomes-sentient-it-will-let-us-know/article_7596cee8-fba8-5b15-a628-e64b1bd3c93c.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
     quality: 17
 
 secured: "seMvzRj3DR6JRg0tYmM5GbjqNRV2zRYvGFfZjAFHE24f0Pq3UsxDdw8GZxMTypEne1dzFsmvDjR2qG4607qB20ViT1VEVJHHxUQjFtKXjQP//7LBEBfsXIhGHoGWlWKD5VTO9O0Dv6YlRsYAebwyZ+l481+iw0gj2EqQL2Nqfn+T8uATUIvT+wLftcGd+AGPtBsf7IRRwttkkS7RvVFDDwbBHl1IJBTCn8H2cGf5dClTOtdMmzSvLsT5CWWVC2MAakTZAiJcyskB0o/rb4vQVMh0AVU6TBbkf5I7bZfqLkY9HjLGNXr6l8qtj2k54DK521WeKuok2514uIIgXumqHZFCsNdgeCYJpe3pXewItW7IrXw8RuRKYKvyeW3lKBVT7Extgvm3nwAz0ngBm61s+pw6zou+UfXCJvhcOExsoIkI5+rICWMHROUJd1ktoz9Rs/PkeeJJNZ9x7CRHCRa43XZF78AEs8SdUomg2fP8Ac+qdAeApl7iyhEFpmaPPxUJtlEqbnU9ja2ulxCuWr83KQ==;hC/ZnV0UKZ7EGIKchXAjHw=="

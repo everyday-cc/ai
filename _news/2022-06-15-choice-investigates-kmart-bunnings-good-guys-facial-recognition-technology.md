@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Choice investigates Kmart, Bunnings, Good Guys facial recognition technology"
-excerpt: "Facial recognition analyses images from video cameras to capture each person’s unique facial features, known as a faceprint. Choice has now asked 25 major retailers whether they use facial recognition technology and analysed their privacy policies."
-publishedDateTime: 2022-06-14T22:01:00Z
-originalUrl: "https://www.heraldsun.com.au/lifestyle/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
-webUrl: "https://www.heraldsun.com.au/lifestyle/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
+excerpt: "It’s a detail that most Aussie shoppers miss when entering some large shops. But now a leading consumer advocacy group is looking into the practice by some major retailers of using facial recognition on customers."
+publishedDateTime: 2022-06-14T18:36:00Z
+originalUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
+webUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
+ampWebUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
+cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
 type: article
-quality: 16
-heat: -1
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: heraldsun.com.au
-  domain: heraldsun.com.au
+  name: News.com.au
+  domain: news.com.au
 
 topics:
   - Computer Vision
@@ -30,7 +32,27 @@ related:
       name: Nine News Australia
       domain: 9news.com.au
     quality: 33
+  - title: "Bunnings, Kmart and The Good Guys say they use facial recognition for ‘loss prevention’. An expert explains what it might mean for you"
+    excerpt: "Australia’s consumer advocacy group Choice identified three Australian retailers who use facial recognition to identify consumers. What are the privacy concerns?"
+    publishedDateTime: 2022-06-15T07:07:00Z
+    webUrl: "https://theconversation.com/bunnings-kmart-and-the-good-guys-say-they-use-facial-recognition-for-loss-prevention-an-expert-explains-what-it-might-mean-for-you-185126"
+    ampWebUrl: "https://theconversation.com/amp/bunnings-kmart-and-the-good-guys-say-they-use-facial-recognition-for-loss-prevention-an-expert-explains-what-it-might-mean-for-you-185126"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/bunnings-kmart-and-the-good-guys-say-they-use-facial-recognition-for-loss-prevention-an-expert-explains-what-it-might-mean-for-you-185126"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 22
+  - title: "‘Creepy and invasive’: Kmart, Bunnings and The Good Guys accused of using facial recognition technology"
+    excerpt: "An investigation by Choice has found three major retailers in Australia – Kmart, Bunnings and The Good Guys – are capturing the biometric data of shoppers, often without their knowledge."
+    publishedDateTime: 2022-06-15T01:59:00Z
+    webUrl: "https://www.sbs.com.au/news/article/creepy-and-invasive-kmart-bunnings-and-the-good-guys-accused-of-using-facial-recognition-technology/h08q8evb1"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 3
 
-secured: "qJ99jQfklR4zPkCJ2FAOJzzwFw01ca3aHoJX+RayztrV2GcJnv3p9v0uqBLV03hNjeRdM5lnR0XeX8NF7/1sCp/ZcMrDcfH5uKwLt0yjH4qCrwu1T7saDBDBc4T2xuIA8HBynC/nDl0XmlqQB4Eq5ZuTGGakwo21rkPF5unsjKZgMqji2rZhdxhQ0iqUnX1HkPYNr/VMAInNyAOISrGyB7HzwjK2p67eoWpYHvEcGV52A4IEQ6fmT1Vx1vEShmThFaQY76Unt4caTMhEU4FnLjNohioP0dgnt49/WGYXenUAGpgdZsoar3OupM7rxH9PvrSONinXcRrvi71XagKKFjMqZIOVplWK6cByn4PNvFbn8UISD7+RE+3zuK/TY3fYJQNG2MGfGVY2do719+fVYsdNSxNw69Y2juilnyWebtfz+xAGGDZlU8SM1rk17AU1fjTfBPlZ+sygBPThb75z4NaYhUxdonIvr5j2BS4DR46AwspomYdzEDdHCBIGAlekYVAyMLSrIgIDp493NZnbyQ==;TJuiHBVX2Y+5+fBFy3IgWA=="
+secured: "4CBoVEQ/GBfT2YdL1+6Xm+80rjHkbTO3Y2XPCvxWSjVn4GdvkpDItzZiQs9y+EpgR8NsePomeqHdJT+yNTqUf17Z0RJkdpW9UxgmHi/kMlRPGu4h5iVwdD7WECuyeXMwJ4MHSot/J/FVEhEnCVwGkf73T3QNHQAp+79GeUpQo3tXl/2UbGGAfAaW5UCApKD4kqp2ShmQhFRuZ9y2aEECbzkMcP7TIc90Adfc1ki+9FY4Si7Fsx33mZ3gPBfcHzji7fWCDTxPVnM2mqEbiqlWanigCazljvkjP68vkdGbRIPZ20ljyxB0xHnPmsNfxL3oVKKJOGim3v97X5jeih65ilakKMbvLmYDGytby1uyomY=;kpckxleYYiF+7GWy/VJ38A=="
 ---
 

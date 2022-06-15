@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1000
         height: 778
         isCached: true
-  - title: "Give this AI a few words of description and it produces a stunning image – but is it art?"
-    excerpt: "The text-to-art program DALL-E 2 generates images from brief descriptions. But what does it mean to make art when an algorithm automates so much of the creative process itself?"
-    publishedDateTime: 2022-06-10T12:31:00Z
-    webUrl: "https://theconversation.com/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art-184363"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 8
 
 secured: "2U1phv66R/H4l0bnFLczWEYPt9CFtnTMThYs1nzpnOQrppcmZ7yK/JZZSeLqCP24o3x08Nz5kwLdEsMv/Qh9jrn2L4aVMqdOXK3VxXuLmWDWKHuAKQNmuoDA2VqO3MgiOAkm25PQ47J+B2jfWOsJYgIHYFIP29kDI4Yp2Cd4WWfWpe4mZvQGVFQDgySKjqJHxhZXyUTaADe8X2PqHhIOXuKzZVE2LiExvYQUB1oOuw4N4hN6OBVqlYNkWWGb81OGaVEpAHdZeq6GeeuKtsDYFNjKa1EYhDu/0wDLYzpyRM1ckMOcql1KypnY1a7Zkqk87E93SAXTw77q0FAD9VLHEHvCLAbZM5D+6E8liPJ94Jg=;fo71IdggeyHA9ZSG8fa9/g=="
 ---

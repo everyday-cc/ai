@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3847913-akamai-bags-1m-in-products-a
 webUrl: "https://seekingalpha.com/news/3847913-akamai-bags-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-robotics"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,16 @@ images:
 
 related:
   - title: "Akamai Awards $1M in Products and Services to Future of Life Online Challenge Winner Bloomfield Robotics"
-    excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the cloud company that powers and protects life online, today announced that Bloomfield Robotics is the winner of its Future of Life Online Challenge, clinching an award of USD $1 million in Akamai products and services."
-    publishedDateTime: 2022-06-13T11:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/13/9620049.htm"
+    excerpt: "Plant sciences artificial intelligence startup sets sights on solving global food production challenges by scaling agtech platform with Akamai edge computing and security capabilities CAMBRIDGE, Mass."
+    publishedDateTime: 2022-06-13T10:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27666376/akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-rob"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27666376"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27666376"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 72
     images:
       - url: "https://mma.prnewswire.com/media/1836533/Akamai_Technologies_Bloomfield_Robotics_camera_system.jpg"
         width: 400

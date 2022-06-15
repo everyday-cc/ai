@@ -34,15 +34,6 @@ related:
         height: 827
         isCached: true
   - title: "Self-driving cars may speed up to 130 km an hour"
-    excerpt: "Regulation on automated driving likely to be increased from 60 km an hour to 130 km/h, says UN Economic Commission for Europe - Anadolu Agency"
-    publishedDateTime: 2022-06-10T13:09:00Z
-    webUrl: "https://www.aa.com.tr/en/europe/self-driving-cars-may-speed-up-to-130-km-an-hour/2610606"
-    type: article
-    provider:
-      name: aa.com.tr
-      domain: aa.com.tr
-    quality: 4
-  - title: "Self-driving cars may speed up to 130 km an hour"
     excerpt: "The UN regulation on automated driving is likely to be increased from 60 kilometres (37 miles) an hour to 130 km (80.8 miles) an hour in certain conditions, a United Nations regulatory agency said ..."
     publishedDateTime: 2022-06-11T12:48:00Z
     webUrl: "https://tribune.com.pk/story/2361067/self-driving-cars-may-speed-up-to-130-km-an-hour"

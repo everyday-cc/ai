@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/06/220614184106.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220614184106.htm"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,36 @@ topics:
   - AI
 
 related:
-  - title: "Research claims military cannot rely on Artificial Intelligence for strategy or judgment"
-    excerpt: "The use of artificial intelligence (AI) for war has been a promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology claims to show the value that AI can automate only a limited subset of human judgment."
-    publishedDateTime: 2022-06-15T01:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html"
+  - title: "Researcher finds that military cannot rely on AI for strategy or judgment"
+    excerpt: "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology argues only so much can be automated and shows the value of human judgment."
+    publishedDateTime: 2022-06-14T21:02:00Z
+    webUrl: "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-military-ai-strategy-judgment.amp"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 23
+      name: techxplore
+      domain: techxplore.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg"
+        width: 1920
+        height: 1920
+        isCached: true
+  - title: "Research claims military cannot rely on Artificial Intelligence for strategy or judgment"
+    excerpt: "The use of artificial intelligence AI for war has been a promise of science fiction and politicians for years but new research from the Georgia Institute of"
+    publishedDateTime: 2022-06-15T02:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272586484/research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 45
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1655258446.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "fombJoda4l7ws2CekClGxiNrC0L9+hW1buRL8/KH5tk8/nb8xR1leT6RMtOEA8VxCPjq1a7uprRUzFt+VMcXrBxxvLgWOXyy1pNpJ65qICsjpnEYOq+wfS9GhXg1D21n4ILpbZsF1R9oxjy2wYTeB4H4MTB1j1Bf2M1QQoieuu3UGOaNVW/YV4XcHKA99pMd2V/fJ3n9/Prrm8W4bWvPngH/Jcx4RZr0ny3ITNuzGOt9a5d2ySzC0NBCScqc43kb+xbO5z9BsiHFAgFbuhGU3xY2mLmIMxNtZT6Wa4FN8NrczrZ2csm65fAQTB9Pd4J+7uFEAXFWebGhFOYbZsnj9fgHvLLJ+MXzF7elLJeQp+M=;Sn8VhimGFd4/0zNPCum2Ew=="
 ---
