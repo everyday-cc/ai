@@ -43,7 +43,7 @@ related:
     provider:
       name: Plastics Today
       domain: plasticstoday.com
-    quality: 39
+    quality: 43
     images:
       - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/machine-learning-Science-Photo-Library-Alamy-1540x800.jpg"
         width: 1540

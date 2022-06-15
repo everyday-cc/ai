@@ -114,22 +114,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How does Google’s AI chatbot work – and could it be sentient?"
-    excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
-    publishedDateTime: 2022-06-13T13:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/0_299_4480_2688/master/4480.jpg?width=620&quality=85&auto=format&fit=max&s=4bc066d4c2db65a9bce46608e151e5bc"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Unpacking Google’s ‘sentient’ AI controversy"
     excerpt: "One of Google's engineers claimed that its AI chatbot was sentient. Here's what other experts in the field are saying."
     publishedDateTime: 2022-06-13T23:00:00Z
@@ -231,6 +215,15 @@ related:
       name: rnz
       domain: rnz.co.nz
     quality: 17
+  - title: "How does Google’s AI chatbot work – and could it be sentient?"
+    excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
+    publishedDateTime: 2022-06-13T13:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
   - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
     excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
     publishedDateTime: 2022-06-15T05:00:00Z
@@ -239,6 +232,15 @@ related:
     provider:
       name: The Star
       domain: thestar.com.my
+    quality: 17
+  - title: "Stop Saying That Google’s AI Is Sentient, You Dupes"
+    excerpt: "To us, it might seem fairly archaic but there was a time when it was highly impressive, and laid the groundwork for some of the most sophisticated AI bots today—including one that at least one engineer claims is conscious."
+    publishedDateTime: 2022-06-15T11:51:00Z
+    webUrl: "https://www.thedailybeast.com/stop-saying-that-googles-ai-lamda-is-sentient-you-dupes"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
     quality: 17
 
 secured: "t5qpT1Pv8HBHzy5XT9mLM48QoQ5iXuSWTyuNM3Wk8Jy0S/U/eaceBNMVxyTBFE2Lm0bcMEguIRb7rlH/AReA/iYLDtDyLddqXLqYhS52aln3AutMnS9KrxHIvc8hob18D0aNRvmnHFKSwhmKYnAsukcRGZUr4NZ4hXdW0fJulU8OuYAT+CLXUkx2X8AokYf6APNpxcSqH1LGqS2il4bjDBorsUbGahEH4L3087b2+ZHaCMoHxB5gw5KriYJCLxmAHW3kOysM5zvdNWPqxP911F5ZxLY/f7usInC9NPKIqst+P+iuCrIWgwlOjHK6w29LLs790A4VLwOpTqhStnjQKE3zGbs6kQpMK5ol9Hti+JiDfWENZA4vRmZeRwtcjcpzvSYen0ZFfCW5q1NjZt8tikrtNVOnxkpgvy3wtIh5md7h85UhcU5q0OdIKXEw8/0P+csPtRQjefGChmxU0+3JBjJGuaYqEEOWFFGUcfVC+LK8AuQbZmZn/TCS8L1jOSMwLoUpLD2BueMB0IZjgF8vmA==;iSM+yRxOrLC576VFtTs2mA=="

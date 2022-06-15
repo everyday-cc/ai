@@ -786,6 +786,15 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 17
+  - title: "Does Google's LaMDA Artificial Intelligence Program Have a Soul?"
+    excerpt: "For now, leading artificial intelligence researchers agree with Google that LaMDA is not self-aware and does not have a soul. However, given humanity's strong tendency to attribute human ..."
+    publishedDateTime: 2022-06-15T18:10:00Z
+    webUrl: "https://reason.com/2022/06/15/does-googles-lamda-artificial-intelligence-program-have-a-soul/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 17
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
     publishedDateTime: 2022-06-12T16:36:00Z
@@ -840,6 +849,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 12
+  - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
+    excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
+    publishedDateTime: 2022-06-15T18:00:00Z
+    webUrl: "https://scroll.in/article/1026160/a-google-engineer-believes-an-ai-has-become-sentient-is-there-a-way-to-know-for-sure"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 11
   - title: "Coinbase cuts 18 percent staff; Google suspends engineer for 'sentient' AI claim; HDFC Bank, 100X.VC strike partnership"
     excerpt: "Coinbase is laying off almost a fifth of its workforce amid a collapse in its stock and crypto prices, CNBC reports; Google has suspended an AI engineer for basically saying a program he helped build was human;"
     publishedDateTime: 2022-06-15T05:37:00Z

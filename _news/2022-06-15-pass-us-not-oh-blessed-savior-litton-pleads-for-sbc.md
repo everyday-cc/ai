@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T03:15:00Z
 originalUrl: "https://www.kentuckytoday.com/baptist_life/pass-us-not-oh-blessed-savior-litton-pleads-for-sbc/article_59ff32fe-ec59-11ec-81f9-7f7839e3ac8d.html"
 webUrl: "https://www.kentuckytoday.com/baptist_life/pass-us-not-oh-blessed-savior-litton-pleads-for-sbc/article_59ff32fe-ec59-11ec-81f9-7f7839e3ac8d.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Kentucky Today

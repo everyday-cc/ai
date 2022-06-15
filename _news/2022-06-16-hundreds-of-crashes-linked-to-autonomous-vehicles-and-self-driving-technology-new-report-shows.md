@@ -2,19 +2,62 @@
 category: news
 title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
 excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-publishedDateTime: 2022-06-15T18:22:00Z
-originalUrl: "https://www.fox13memphis.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-webUrl: "https://www.fox13memphis.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+publishedDateTime: 2022-06-15T20:22:00Z
+originalUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+webUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+ampWebUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
 type: article
+quality: 32
+heat: -1
+published: false
 
 provider:
-  name: FOX13 Memphis
-  domain: fox13memphis.com
+  name: KIRO-TV
+  domain: kiro7.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "+tNGDgzDkX3DMEkRW3keJZltG3x/atS54aa17Q7SRzm+U7DySXSJXrxKhP62Z3qzpQ+tlsrCDE8CLNuU6Tt57zYLYGESjF8UhPgENjYnnJvnhxuWGVlPEnz6pjRFmKQO92JGgdi7xHrbWWZWMNiZYpSveKHgdfnxHV3uvhKMvUGmEfW+vsXUASCWT1BN6B8toqCs2AjlJULixUpgBJAZp4CdCFmo7k6X6OsdzDi1onbKF8KY07Ufaqw4PsTn6rKw4NFUUEQqW9wI91LQhMtUoRRrSYgFVkq4PG3hCpTkv4Qtfp6+8zYcYe68FGwJ5M2BKOeKeB5Cttr7sHrgAvgpS70T5RJvQr9/g2r+PHMbAqPegmuTGbXIikPukCV+tnb/TPGtqyOogtKyIlhUgM82VvuNqymzR5NHgdhRftECaSkzcATrtD784MUOTatlXZRDytIJTFjWU5BzR7eCFuFtpNJTZ3wTW0VWgQhkVxpfL8MH7lxLHTQ++fkmgrmjh5rnP3gCD3ySDkWkwjswjnVzVA==;s4yDwxIfiAukwTOaa3kgtQ=="
+images:
+  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+    width: 1440
+    height: 810
+    isCached: true
+
+related:
+  - title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
+    excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
+    publishedDateTime: 2022-06-15T14:22:00Z
+    webUrl: "https://www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+    ampWebUrl: "https://www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 32
+    images:
+      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "NHTSA: Hundreds of crashes linked to autonomous vehicles and self-driving technology"
+    excerpt: "The report showed that there were six deaths and five serious injuries due to the crashes. (NCD)"
+    publishedDateTime: 2022-06-15T16:01:00Z
+    webUrl: "https://www.wokv.com/video/hot-video/nhtsa-hundreds-crashes-linked-autonomous-vehicles-self-driving-technology/b6fe73f0-a069-46dd-aaf7-2280d6fc0fca/"
+    type: article
+    provider:
+      name: WOKV
+      domain: wokv.com
+    quality: 17
+    images:
+      - url: "https://www.wokv.com/resizer/y-JTOsNsgCt7BiVUVazcidu4XCY=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/06-15-2022/t_2f752f463191414fab778bddb033297d_name_NHTSA_Hundreds_of_crashes_linked_to_auto_62a9e9423c5fbb61749b9783_1_Jun_15_2022_15_54_39_poster.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+
+secured: "e7MUCG7tLg4nLhA/U6NbLdI2RRNqZ3AYAvQ2aMLvJ/0ji7JTdZESgGjZRXE0FFk9ZBQvCYBobUCZk2XZK5tjOQizmG0jIfGAhRb1o3FSEM0QD8O9pS441yxKusZAECnQjlwAY0UuzL1V0WQYlcEGMni1Xvn02bF1L8IVYX8tIhTTc2Bkr/N7z3BCanbg8oXzwQMNa0g0sOdWHOK+SYz8B6mZ0RENWUOFh8aR0Ye6N+rH9V+ygNFpzaVubTEEM1VsFWtRVL6EKIDTipe7p/xUi+qQFKSGRK7XzU/OyCbi5gWgBV086hyV72LKA/d+XeQvxxphjYoasLmmiIfZkwX7C/jkNM6bMGz9lwe9DlY1umM=;mhvPhrTxRDxUlpyGpPOD+w=="
 ---
 

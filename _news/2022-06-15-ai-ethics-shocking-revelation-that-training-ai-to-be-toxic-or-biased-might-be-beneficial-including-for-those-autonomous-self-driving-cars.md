@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shockin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/06/15/24379.jpg&w=800&q=100&f=jpg"
         width: 800
         height: 354
+        isCached: true
+  - title: "There’s no such thing as self-driving cars (not yet)"
+    excerpt: "How does it feel being a guinea pig? That’s a question for anyone behind the wheel of an electric vehicle with technology that purports to be able to drive itself but, of course,"
+    publishedDateTime: 2022-06-15T19:41:00Z
+    webUrl: "https://ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/"
+    ampWebUrl: "https://ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/06/GettyImages-1148676032.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Carriers should consider self-defense training for women drivers"
     excerpt: "One of her friends was driving when she saw a man holding a weapon in the car ... No. A better option would be mandatory self-defense classes – maybe even ongoing rather than a one-time deal – provided by the company. A University of Oregon sociologist ..."

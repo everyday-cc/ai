@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-dri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp"
 type: article
 quality: 82
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -47,22 +47,17 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "US report: 273 Teslas with automated driving systems crashed"
-    excerpt: "Tesla reported 273 crashes involving partially automated driving systems, according to statistics released by U.S. safety regulators on Wednesday."
-    publishedDateTime: 2022-06-15T17:01:00Z
-    webUrl: "https://www.clickondetroit.com/business/2022/06/15/us-report-273-teslas-with-automated-driving-systems-crashed/"
-    ampWebUrl: "https://www.clickondetroit.com/business/2022/06/15/us-report-273-teslas-with-automated-driving-systems-crashed/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2022/06/15/us-report-273-teslas-with-automated-driving-systems-crashed/?outputType=amp"
+  - title: "Tesla Tops NHTSA's List Of Crashes Involving Autonomous Driving"
+    excerpt: "(TSLA) is facing more criticism about its driver-assist technology as the company ranked highest in the list of crashes involving self-driving technology released by the National Highway Traffic Safety Administration."
+    publishedDateTime: 2022-06-15T20:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving?amp"
     type: article
     provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/S6VSNZJSQJGLVMGESAG2CY6XOA.jpg?_a=ATAK9d60"
-        width: 700
-        height: 467
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "US report: 273 Teslas using automated driving systems involved in crashes"
     excerpt: "DETROIT — Tesla reported 273 crashes involving partially automated driver-assist systems, according to statistics about the industry released by U.S. safety regulators on Wednesday. The National Highway Traffic Safety Administration cautioned against ..."
     publishedDateTime: 2022-06-15T15:11:00Z
@@ -112,6 +107,15 @@ related:
     provider:
       name: Detroit News
       domain: detroitnews.com
+    quality: 19
+  - title: "US report: 273 Teslas with automated driving systems crashed"
+    excerpt: "Tesla reported 273 crashes involving partially automated driving systems, according to statistics released by U.S. safety regulators on Wednesday."
+    publishedDateTime: 2022-06-15T18:01:00Z
+    webUrl: "https://www.click2houston.com/business/2022/06/15/us-report-273-teslas-with-automated-driving-systems-crashed/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
     quality: 19
   - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
     excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"

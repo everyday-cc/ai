@@ -41,22 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "New machine learning algorithm finds a gene signature characteristic of tumors"
-    excerpt: "How do cancer cells differ from healthy cells? A new machine learning algorithm called \"ikarus\" knows the answer, reports a team led by MDC bioinformatician Altuna Akalin in the journal Genome Biology."
-    publishedDateTime: 2022-06-11T01:45:00Z
-    webUrl: "https://www.news-medical.net/news/20220610/New-machine-learning-algorithm-finds-a-gene-signature-characteristic-of-tumors.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220610/New-machine-learning-algorithm-finds-a-gene-signature-characteristic-of-tumors.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220610/New-machine-learning-algorithm-finds-a-gene-signature-characteristic-of-tumors.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "ThaMNSGZ1sRT0L3+I0tBILf6jaSAbzzvnc1KWAPjkBPXBUi3YHIaHlSRxQD9sJG7Db7bouz6cEpZ9iexX8Lz+vcTL217vj4XFy6E0E1quFd5M4giGzwEnZC2ieGSyy6ZH9sA0fsvfGkmpHZ5LxXXPK8xI3sDGS8R8s+jL72zeNo6U3MKXUab6NiyhPYL74sfbHsVf7rKoQJ9H2ZALnLuXJr0WUnfBJ8vgCM31kzwh9oqu1R+nFd/LRdHf6mXalldBJC85CGBH47751vVJbusyuyBHW1aSPpEMUv2eHXWRh0jchR4TVNp03e7W9PjfGwMTgm1QLgUY/X7yJrBuIO0lVC3FNVMIJv3w/oCRB2NGTh2oC9tvDwsVwJCnLESQfcs7Paj9LZ5dFs+kFrF8ukiVJcfD5zX2Fi+mPIygQrYnzNhhI6OhZ4OGwEV8eJdxJ8Yp5cU1JPhClNogAmtCHGne/ZxkEDYcsjaBLR8KsNXOi+PZmQecBCSLpeR7WTMoCWREtERFrnnE6VPeXlLIP9jPg==;7TWTgjl+78GxnHGN+P2JwA=="
 ---

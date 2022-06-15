@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T18:03:00Z
 originalUrl: "https://www.wired.com/story/fandom-internet-culture-one-direction-politics-kaitlyn-tiffany/"
 webUrl: "https://www.wired.com/story/fandom-internet-culture-one-direction-politics-kaitlyn-tiffany/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Wired

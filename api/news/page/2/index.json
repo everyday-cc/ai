@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-14-introducing-ziggy-an-autonomous-robot-that-saves-you-a-parking-spot-then-charges-your-ev.md",
+      "title": "Introducing ZiGGY: An autonomous robot that saves you a parking spot then charges your EV",
+      "excerpt": "Charging technology provider EV Safe Charge has unveiled ZiGGY – a mobile robot that can charge an EV wherever it’s parked. Through its ability to recharge itself via different energy sources and its summoning feature,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/",
+      "originalUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/06/robot-charge-EV.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/amp/",
+      "publishedDateTime": "2022-06-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk.md",
+      "title": "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK",
+      "excerpt": "Relocating its global headquarters to London, Ecolibrium has raised $5m in a pre-Series A funding round as it looks to expand its international footprint to the UK",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/06/14/1600x900/20220614_183609_0000_1655215917852_1655215927337.png",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html",
+      "publishedDateTime": "2022-06-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning.md",
+      "title": "IIM-K launches accelerator programme to boost Artificial Intelligence and Machine Learning",
+      "excerpt": "The Laboratory for Innovation, Venturing and Entrepreneurship (LIVE), the business incubator and entrepreneurship development centre of the Indian Institute of Management, Kozhikode (IIM-K) has launched LIVE X,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece",
+      "originalUrl": "https://www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece/amp/",
+      "publishedDateTime": "2022-06-14T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-google-brain-alum-to-helm-new-nonprofit-ai-research-lab.md",
       "title": "Google Brain alum to helm new nonprofit AI research lab",
       "excerpt": "a startup creating large language models to rival those from OpenAI and AI2Labs. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in ...",
@@ -156,7 +294,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -420,6 +558,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-google-engineer-says-ai-chatbot-has-developed-feelings-gets-suspended.md",
+      "title": "Google engineer says AI chatbot has developed feelings, gets suspended",
+      "excerpt": "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-lamda-3176080/",
+      "originalUrl": "https://www.androidauthority.com/google-lamda-3176080/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg",
+          "width": 1920,
+          "height": 1081,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -775,7 +965,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -977,7 +1167,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 278,
       "tags": null,
       "images": [
         {
@@ -1020,196 +1210,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-google-engineer-says-lamda-ai-system-may-have-its-own-feelings.md",
-      "title": "Google engineer says Lamda AI system may have its own feelings",
-      "excerpt": "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrick's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-61784011",
-      "originalUrl": "https://www.bbc.com/news/technology-61784011",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-61784011.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-61784011.amp",
-      "publishedDateTime": "2022-06-13T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-what-exactly-was-googles-ai-is-sentient-guy-actually-saying.md",
-      "title": "What Exactly Was Google's 'AI is Sentient' Guy Actually Saying?",
-      "excerpt": "A software engineer working on the tech giant’s language intelligence claimed the AI was a ‘sweet kid’ who advocated for its own rights ‘as a person.’",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
-      "originalUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6c5ee672b2dac87691f1fa8400ddcc62.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
-      "publishedDateTime": "2022-06-13T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-engineers-build-lego-like-artificial-intelligence-chip.md",
-      "title": "Engineers build LEGO-like artificial intelligence chip",
-      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip—like LEGO bricks incorporated into an existing build.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/engineers-build-lego-l.jpg",
-          "width": 1434,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp",
-      "publishedDateTime": "2022-06-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-ai-system-facilitates-plant-imaging-from-germination-to-root-development.md",
-      "title": "AI system facilitates plant imaging from germination to root development",
-      "excerpt": "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
-      "originalUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg",
-          "width": 2826,
-          "height": 1373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp",
-      "publishedDateTime": "2022-06-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

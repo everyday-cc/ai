@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T18:30:00Z
 originalUrl: "https://www.newscientist.com/article/2324603-watch-a-robot-cat-chase-a-robot-mouse/"
 webUrl: "https://www.newscientist.com/article/2324603-watch-a-robot-cat-chase-a-robot-mouse/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: New Scientist

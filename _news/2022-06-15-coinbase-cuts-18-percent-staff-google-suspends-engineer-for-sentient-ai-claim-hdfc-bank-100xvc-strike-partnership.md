@@ -795,6 +795,15 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 17
+  - title: "Does Google's LaMDA Artificial Intelligence Program Have a Soul?"
+    excerpt: "For now, leading artificial intelligence researchers agree with Google that LaMDA is not self-aware and does not have a soul. However, given humanity's strong tendency to attribute human ..."
+    publishedDateTime: 2022-06-15T18:10:00Z
+    webUrl: "https://reason.com/2022/06/15/does-googles-lamda-artificial-intelligence-program-have-a-soul/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 17
   - title: "Google engineer put on leave after saying AI chatbot has become sentient"
     excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
     publishedDateTime: 2022-06-12T16:36:00Z
@@ -849,6 +858,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 12
+  - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
+    excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
+    publishedDateTime: 2022-06-15T18:00:00Z
+    webUrl: "https://scroll.in/article/1026160/a-google-engineer-believes-an-ai-has-become-sentient-is-there-a-way-to-know-for-sure"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 11
 
 secured: "/4GXLD2UeONazZ8qE3OXqasTnYFV01jsyB4KfYuiEpTyduFrkx0c9QSkNIyJ2DFAlaxEobQ/vdydEkfQpdPJ+7XC7cMAXbo84/g3KapLF6ZyVxEGnYJUS2k6VIqK/CEMjQSXoZ/Wtzv2Vz8qSWzuyDlvu9oubjjjKGfoaS1GF0DEG8g+RM+N603i8CkNNplXud79wUcZ7NcAUZlBhL7XxP9FQqjicor8BD9azEw2jspzdSaeEkMde2IcWZie6U56LZz2OX+7SwNjgn1Tr+heoN5QvxgKVNRjtrd3KjdTe4uhFr4I6U5th7lWs2+hUFhH5Vy1WQBeds4AvcTzaoZRNmUw7qbJC8D65IPEBT8wAfzJ01GyLw7/V4sfqC8SVNBCLc/uBUEuJ636BUPLVtjt5Mx8xGmMEKUAR6POlpD/0EIi58Jy94gDcTi9TRZ4y1EIXZxKT+nsfJ9SPdoY+NWTlPE/i0Zmkts6bcakR+FhF4zO3gA6pdP0xZVwqYiWJ1iMZD4Qrc5RXEruhOCMfNawNw==;6oVj51BNdARxKCznzTgpDQ=="
 ---

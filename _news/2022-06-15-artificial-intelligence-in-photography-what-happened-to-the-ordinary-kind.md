@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-15T10:00:00Z
 originalUrl: "https://www.digitalcameraworld.com/news/artificial-intelligence-in-photography-what-happened-to-the-ordinary-kind"
 webUrl: "https://www.digitalcameraworld.com/news/artificial-intelligence-in-photography-what-happened-to-the-ordinary-kind"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

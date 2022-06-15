@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T10:19:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence?amp;amp;amp"
 webUrl: "https://www.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence?amp;amp;amp"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Guardian

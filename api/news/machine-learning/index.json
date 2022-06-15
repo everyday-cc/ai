@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-15-demystifying-machine-learning-at-the-edge-through-real-use-cases.md",
+      "title": "Demystifying machine learning at the edge through real use cases",
+      "excerpt": "Edge is a term that refers to a location, far from the cloud or a big data center, where you have a computer device (edge device) capable of running (edge) applications. Edge computing is the act of running workloads on these edge devices. Machine learning at the edge (ML@Edge) is a concept that brings",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/demystifying-machine-learning-at-the-edge-through-real-use-cases/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/demystifying-machine-learning-at-the-edge-through-real-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/demystifying-edge.jpg",
+          "width": 1241,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T13:37:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk.md",
       "title": "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK",
       "excerpt": "Relocating its global headquarters to London, Ecolibrium has raised $5m in a pre-Series A funding round as it looks to expand its international footprint to the UK",
@@ -246,7 +299,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 278,
       "tags": null,
       "images": [
         {
@@ -1389,49 +1442,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers.md",
-      "title": "Phishing attacks will use powerful text generation, say machine-learning engineers",
-      "excerpt": "The most basic phishing attacks in the future will come from personas with detailed web presences, machine-learning engineers with Armorblox will argue at the RSA Conference on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
-      "originalUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2022/06/060622_artificial_intelligence.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

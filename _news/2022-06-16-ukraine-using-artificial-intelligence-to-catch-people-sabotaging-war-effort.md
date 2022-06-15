@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T18:56:00Z
 originalUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
 webUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
 type: article
+quality: 60
+heat: 60
+published: false
 
 provider:
   name: Newsweek

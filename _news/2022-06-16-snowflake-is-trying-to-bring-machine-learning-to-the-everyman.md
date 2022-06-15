@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T19:42:00Z
 originalUrl: "https://www.techradar.com/sg/news/snowflake-is-trying-to-bring-machine-learning-to-the-everyman"
 webUrl: "https://www.techradar.com/sg/news/snowflake-is-trying-to-bring-machine-learning-to-the-everyman"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechRadar

@@ -1,13 +1,15 @@
 ---
 category: news
 title: "How Artificial Intelligence is Affecting First-Time Home Buyers"
-excerpt: "New software technologies like artificial intelligence are getting smarter every day. Here’s how AI has the potential to affect first time home buyers."
+excerpt: "This is as true in the real estate industry as any other – in a realm where buying and selling homes used to require lots of hard work, innovations like the internet, artificial intelligence, and"
 publishedDateTime: 2022-06-13T13:07:00Z
-originalUrl: "https://realtybiznews.com/how-artificial-intelligence-is-affecting-first-time-home-buyers/98771996/"
-webUrl: "https://realtybiznews.com/how-artificial-intelligence-is-affecting-first-time-home-buyers/98771996/"
+originalUrl: "https://realtybiznews.com/category/technology/ai/"
+webUrl: "https://realtybiznews.com/category/technology/ai/"
+ampWebUrl: "https://realtybiznews.com/category/technology/ai/amp/"
+cdnAmpWebUrl: "https://realtybiznews-com.cdn.ampproject.org/c/s/realtybiznews.com/category/technology/ai/amp/"
 type: article
-quality: 21
-heat: 21
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -15,10 +17,14 @@ provider:
   domain: realtybiznews.com
 
 topics:
-  - AI in Autos
   - AI
-  - AI in Healthcare
 
-secured: "caun/AaawfTH5OH3TT4q4Y9Kd9Quu2LTMKb2GT7i0XU9ffUjjDKQnPS3eFFDPwEKqqHOdk3qBwrL+jGRHR2bkQYnoq7FhdzATPgax5AC4VBkE048PrCD1vvzVmy/x8HtODJwbpr4C2OGWKpGQDP0OCljPiqLeRjhHO8xhsCYvGZepTEWiOQpr/v+8bInpFUoUwGyy59PtTrxkBk16MUhv2n9Tf6qWW9/gYam+DXV3+HVozDwdZOBOYi+Da/g0ChrU8HLjEqsc5pN+eXeyGuh6/hHezCct9HVbbLQPqKHVB7uMTeyllbcjURJLJDnj2f6EbIeuI4WBU9W8i6utOCDByFbLZ5J0NQ219byabQirmG/aevSzK9CyZEqpe0r3+WSimwHxlZN7+XeJG4kXK987VbHbx96diB7xx/z0pEhh7vyPlaSBMj27Bk855LWvVXaHPRHdnWKXLIJGYHwijCnZTTZVcnrptODNCCF8AqspHUw2lLKQ/s5SiDA3P/ggcsRWugZ/5A1tIQRhaFVhlwlIg==;DXMx7hNYvKzMjyV6MSGcKg=="
+images:
+  - url: "https://realtybiznews.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
+
+secured: "A+i94kFbUZ8A0IM/mMvK8jO6DuO9VZdWEwwIWz3WVyCg2sH7yV72fBAcFXP3HzywbuTBBSSxI6ES9++XVQGQgVHmA1GJB/tMBKdS+qELJS5xTtY5gPP6U7b12GVVWVmy7yg+VKvodgfCshcjCVqLstnBhbJnNpMmbE5NEH9qrHwUdd+nnRPJNeYqBIJGbmxTHyBMk9/VSVV6yQo/S3rKCiIQUME8ZlJPyVqo5kCRElHccDD2fpml5ptSuKQ94uvz/W3OIPXrAmry/nPHY3O3LYVJRaMAiHWjXFFu9kx/Izv7sxHTMnELIqwJgaXN7FydmuPZoDX36CItWKT6uOlL6EAFfYiI89kbdAw8ooujEM8=;GP2bpOAkRM9seh0RRG2zqw=="
 ---
 

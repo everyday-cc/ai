@@ -2,6 +2,207 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-10-task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government.md",
+      "title": "Task force to assess use of facial recognition by Colorado law enforcement, government",
+      "excerpt": "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
+      "originalUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Colorado Statesman",
+        "domain": "coloradopolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids.md",
+      "title": "How eMagazines utilizes Amazon Polly to voice articles for school-aged kids",
+      "excerpt": "This is a guest post by Andrew Degenholtz, CEO and Founder of eMagazines, the parent company of ReadAlong.ai. eMagazines’ technology seamlessly transforms print products into premium digital and audio experiences. Leveraging Amazon technology, ReadAlong.ai offers a simple, turn-key way for publishers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/emagazines-polly.jpg",
+          "width": 1247,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T14:39:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-google-introduces-major-upgrades-to-its-vertex-ai-platform.md",
+      "title": "Google introduces major upgrades to its Vertex AI platform",
+      "excerpt": "Google's Vertex AI is a managed ML platform designed to enable developers to speed up the deployment and maintenance of their AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/",
+      "originalUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/",
+      "publishedDateTime": "2022-06-09T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-chrome-to-use-ai-to-predict-if-people-want-website-notifications.md",
+      "title": "Chrome to Use AI to Predict if People Want Website Notifications",
+      "excerpt": "Google Chrome is doing something about websites that constantly ask users if they want to receive notifications by automatically disabling prompts based on a person's history. On",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/06684155a8b8f15f6e6b2131f21aada84408d3fc/2021/02/23/62760e4a-1286-413f-b515-a55f3923aa2a/google-chrome-logo-2076.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
+      "publishedDateTime": "2022-06-09T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola.md",
       "title": "Nala Robotics launches fully autonomous pizzeria robot Pizzaiola",
       "excerpt": "Nala Robotics' Pizzaiola uses artificial intelligence and machine learning to precisely replicate pizzeria-style foods.",
@@ -1031,169 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
-      "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
-      "excerpt": "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
-      "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
-      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-shield-ai-raises-165m-at-a-23b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems.md",
-      "title": "Shield AI raises $165M at a $2.3B valuation to fuel development of its military autonomous flying systems",
-      "excerpt": "Technology built with defense in mind is getting some significant and serious traction at the moment, spurred by world events, advances in technology, and a growing appetite from end users to invest in more innovative ways to protect themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/",
-      "originalUrl": "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/f16.jpeg?w=944",
-          "width": 944,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/",
-      "publishedDateTime": "2022-06-09T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-global-artificial-intelligence-ai-partnering.md",
-      "title": "Global Artificial Intelligence (AI) Partnering...",
-      "excerpt": "DUBLIN, June 9, 2022 /PRNewswire/ -- The \"Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2022\" report has been added to ResearchAndMarkets.com's offering. This report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27622875/global-artificial-intelligence-ai-partnering-deals-directory-2010-2022-access-to-terms-and-agreeme",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27622875/global-artificial-intelligence-ai-partnering-deals-directory-2010-2022-access-to-terms-and-agreeme",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27622875",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622875",
-      "publishedDateTime": "2022-06-09T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

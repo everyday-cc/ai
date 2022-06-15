@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/dall-e-mini?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dall-e-mini?amp"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "DALL·E mini is the viral artificial intelligence artist taking over Twitter"
+    excerpt: "Eventually, nine images generated completely by artificial intelligence will appear, bringing your concept to life with varying levels of accuracy and hilarity. In the case of “Dak Prescott holding a banana,” the results were good for a laugh ..."
+    publishedDateTime: 2022-06-15T18:39:00Z
+    webUrl: "https://www.dallasnews.com/arts-entertainment/2022/06/15/dalle-mini-is-the-viral-artificial-intelligence-artist-taking-over-twitter/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 15
 
 secured: "4FEg1HvtRh48WbrQ3h22In5yGPBhy6LcUzrGeNbdqzQTJau3wGYh9Sw9f6j5JBdM/aHP04pneO4N57vfOSak3n1HeZvPFTTFEg5YwdE1/qXN7EkB9GmOKwK9NocaIvHXteuNO/6FhqH6J7zUXlnLF8yFNDqVP20bnGISghaP8dsT7pd1mXmWCVAzw0W9Ks8BEhgBcIHWK/mlpGFJEC9I7WiBi2t/lqIYhIPDK1k6xkPuD26dvzuZ3Ii4jGzJxM+fvRB+5wtPBvq7Fon7WrTEL2HxaC56zA9tiqc7a2w8UcVvvQA0SzdFNi7haXN2IMMvj8E/eELCXspJI+1ivQqSEkdZ4FeLpkVRbZ26IHE08re3hUzZ/p1sgaZCmJMFzXrmf8OAmiBwlNzbG1JB4XecYmZXpr1l3pqiid2fE3+nq3AnU67iJDa0TGi4cvJ/c7jbMO/OH9EEpPZItnECid3Gj1ROJayOmKXszY0bdQOjpO7P/yB0t0VGBFjNA6XqB039LrXEzQe0KunzciYPq6E2aA==;NUnplmq7c47PIaiBTifymg=="
 ---

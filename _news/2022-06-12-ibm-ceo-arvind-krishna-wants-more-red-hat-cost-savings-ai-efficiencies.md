@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-12T00:22:00Z
 originalUrl: "https://www.bizjournals.com/triad/news/2022/06/11/ibm-ceo-talks-ai-red-hat-integration-efficiencies.html"
 webUrl: "https://www.bizjournals.com/triad/news/2022/06/11/ibm-ceo-talks-ai-red-hat-integration-efficiencies.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Business Journals

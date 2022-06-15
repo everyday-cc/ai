@@ -2,84 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-06-07-teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs.md",
-      "title": "Tesla’s Robot Has Potential to be Revolutionary; Get Exposure With These 3 ETFs",
-      "excerpt": "News broke late last week that Tesla’s second Artificial Intelligence Day has been pushed back to September 30 as the firm may have a working Optimus prototype by then. Oppenheimer analyst Colin Rush told Nasdaq he sees Optimus generating economies of scale at Tesla,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs?amp",
-      "publishedDateTime": "2022-06-06T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-finish-robotics-brings-robotic-painting-to-life.md",
-      "title": "Finish Robotics Brings Robotic Painting To Life",
-      "excerpt": "Finish Robotics Brings Robotic Painting To Life . Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA – Fini",
-      "sourceUrl": null,
-      "webUrl": "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/",
-      "originalUrl": "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.cloudinary.com/dmgi9movl/image/upload/v1654277575/press_release/assets/header_images/Finish_Robotics_Primary_Blue_Black_6_pcs8hf.png",
-          "width": 1500,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Construction Dive",
-        "domain": "constructiondive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-06-kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots.md",
       "title": "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots",
       "excerpt": "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,",
@@ -1297,6 +1219,113 @@
         "AI in Robotics",
         "AI",
         "AI in Sales",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-how-healthcare-can-employ-robotics-to-address-patient-immobility.md",
+      "title": "How Healthcare Can Employ Robotics To Address Patient Immobility",
+      "excerpt": "AI and robotics in healthcare are proving to be instrumental in assisting officials detect diseases and abnormalities in time. Robotics is a boundless field of which a subset consists of physically-assistive robots that can help an immobile patient move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/05/31/how-healthcare-can-employ-robotics-to-address-patient-immobility/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/05/31/how-healthcare-can-employ-robotics-to-address-patient-immobility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628dcd2d2c5efb4c18ef1da5/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/05/31/how-healthcare-can-employ-robotics-to-address-patient-immobility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/05/31/how-healthcare-can-employ-robotics-to-address-patient-immobility/amp/",
+      "publishedDateTime": "2022-05-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-why-robotics-and-artificial-intelligence-are-the-future-of-mankind.md",
+      "title": "Why Robotics And Artificial Intelligence Are The Future Of Mankind",
+      "excerpt": "Robotics and AI certainly have the power to transform our world, helping us navigate a rapidly changing future with greater confidence and optimism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//613246cfa37776e285f84f80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/",
+      "publishedDateTime": "2022-05-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
         "AI in Autos"
       ]
     }

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T13:03:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-jersey-city-data-management-ebcb611b688a9755b9fbd62a561e7b64"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-jersey-city-data-management-ebcb611b688a9755b9fbd62a561e7b64"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Associated Press

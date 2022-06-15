@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-wi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hill
@@ -35,6 +35,15 @@ related:
     provider:
       name: La Prensa Latina
       domain: laprensalatina.com
+    quality: 21
+  - title: "Four AI Pioneers Win Top Spanish Science Prize"
+    excerpt: "Four scientists, including two Britons, considered pioneers in the field of artificial intelligence were awarded Wednesday Spain's prestigious Princess of Asturias prize for scientific research."
+    publishedDateTime: 2022-06-15T16:55:00Z
+    webUrl: "https://www.barrons.com/news/four-ai-pioneers-win-top-spanish-science-prize-01655298007"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 19
 
 secured: "+GJVX1hwcNI44O3aDwPpFqF0mw7SU9UG+6VInYRG9vpgBWNJ4G/YBtdWMdA/0iX+JweeBQRBl1yt528g4gdR/c3L/ibtLm5s4QNTiyz3TeztTVT4OXQw34QS/D454HnfjmXNwiFRPediL0+AA3lhtMgJhZlqg6/OAYWAQ7nWBq3MllMVAnZ0s+dX+w5o/+ZK+e/igV84N3URfP24uUVNRyHM6LLo2rSufJ0ZJUnDfYN9aGAu5jB188fgT67y8B/or4adXlnUMSVASJXJIJtMLSKzHYm8ZcselHBgSEt4YrpBtpenyRQZgwNHoTzev4y/0pnBrBD2pvPOvS6kPZ2wYrQN4nEPDsxrFi9xfEtOW11JBf5I9AFuT+f9/8Ric47HHBhaym5tVbOeM8gDy3EOae4iLne7r14GC+dyNvDmZSo8lU3zY7ULivMRt6nUYBSiLShYGU3dDVSSxHVWLL68XEujur1/cX2npCDDiHcsWlIk4j+HrqfOclauTkOERiD6+A0SlKxzatRmwLWWoTqNUg==;qjYkoq53DmtA9YH6hSJcog=="

@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-13-what-exactly-was-googles-ai-is-sentient-guy-actually-saying.md",
+      "title": "What Exactly Was Google's 'AI is Sentient' Guy Actually Saying?",
+      "excerpt": "A software engineer working on the tech giant’s language intelligence claimed the AI was a ‘sweet kid’ who advocated for its own rights ‘as a person.’",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
+      "originalUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6c5ee672b2dac87691f1fa8400ddcc62.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
+      "publishedDateTime": "2022-06-13T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-engineers-build-lego-like-artificial-intelligence-chip.md",
+      "title": "Engineers build LEGO-like artificial intelligence chip",
+      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip—like LEGO bricks incorporated into an existing build.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/engineers-build-lego-l.jpg",
+          "width": 1434,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp",
+      "publishedDateTime": "2022-06-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-ai-system-facilitates-plant-imaging-from-germination-to-root-development.md",
+      "title": "AI system facilitates plant imaging from germination to root development",
+      "excerpt": "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
+      "originalUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg",
+          "width": 2826,
+          "height": 1373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp",
+      "publishedDateTime": "2022-06-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027.md",
       "title": "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027",
       "excerpt": "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48.",
@@ -627,7 +766,7 @@
       "originalUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
       "featuredContent": null,
       "highlight": null,
-      "heat": 689,
+      "heat": 709,
       "tags": null,
       "images": [
         {
@@ -723,7 +862,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -888,48 +1027,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-11-ai-identifies-gene-signatures-of-cancer-tumors.md",
-      "title": "AI Identifies Gene Signatures of Cancer Tumors",
-      "excerpt": "A new study published in Genome Biology demonstrates how an AI algorithm has discovered a genetic signature trait of cancer cells, enabling machine learning to distinguish cancer cells from healthy ones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic2452.jpg?itok=9gYDTC0R",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp",
-      "publishedDateTime": "2022-06-11T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-11-questioning-the-ethics-of-computer-chips-that-use-lab-grown-human-neurons.md",
       "title": "Questioning the ethics of computer chips that use lab-grown human neurons",
       "excerpt": "Melbourne-based Cortical Labs grew groups of neurons (brain cells) that were incorporated into a computer chip. We are in the early stages of neural computing and have time to think through its ethics.",
@@ -1076,93 +1173,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns.md",
-      "title": "AI systems have their own ‘secret language’. And it might come with security concerns",
-      "excerpt": "The findings support the theory that AI language models don’t read text the way you and I do. Instead, they break input text up into 'tokens'.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
-      "originalUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/08/artificial-intelligence-4389372_1280-e1599296856435-1024x576-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
-      "publishedDateTime": "2022-06-10T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-demand-for-ai-machine-learning-courses-soars.md",
-      "title": "Demand for AI, machine learning courses soars",
-      "excerpt": "In order to cater to the rising demand for new-age engineering programmes like Artificial Intelligence (AI), machine learning and Internet of Things (IoT),",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/3/5/w600X390/declare_AI.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.amp",
-      "publishedDateTime": "2022-06-10T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

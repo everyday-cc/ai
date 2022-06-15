@@ -25,33 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Rajalakshmi School of Business offers course on fintech"
-    excerpt: "With fintech emerging as a fast-growing sector, the Rajalakshmi School of Business (RSB), a part of the Chennai-based Rajalakshmi Institutions, will offer fintech courses in a full-stream learning mode."
-    publishedDateTime: 2022-06-11T04:36:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/rajalakshmi-school-of-business-offers-course-on-fintech/article65514040.ece/amp/"
+  - title: "Vehicle shipping fintech RunBuggy secures series A funding"
+    excerpt: "Vehicle shipping fintech RunBuggy secured a series A funding round last week, bringing its total amount raised to $19 million. The cloud-native platform, which uses artificial intelligence (AI)- and machine learning (ML)-powered technology to connect car shippers and haulers with lenders,"
+    publishedDateTime: 2022-06-13T21:34:00Z
+    webUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/"
+    ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
+    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
+      name: Auto Finance News
+      domain: autofinancenews.net
     quality: 44
     images:
-      - url: "https://www.thehindubusinessline.com/incoming/9zohnn/article65516797.ece/alternates/LANDSCAPE_615/fintech.jpg"
-        width: 615
-        height: 383
+      - url: "https://www.autofinancenews.net/wp-content/uploads/2022/06/canstockphoto16061160-scaled.jpg"
+        width: 2560
+        height: 1708
         isCached: true
-  - title: "Register for the BusinessTech Online FinTech Conference"
-    excerpt: "BusinessTech will hold its inaugural Online FinTech Conference on 20 July 2022. The BusinessTech Online FinTech Conference is an exclusive event for high-level banking, ICT, and F"
-    publishedDateTime: 2022-06-13T11:16:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
+  - title: "AWS launches first UK FinTech accelerator"
+    excerpt: "Amazon Web Services (AWS) is launching a new FinTech accelerator in the UK aimed at supporting UK companies to build innovative solutions in the cloud. The tech giant’s cloud division said the AWS FinTech Accelerator is open for applications to UK startups specialising in: financial inclusion and sustainability,"
+    publishedDateTime: 2022-06-13T10:10:00Z
+    webUrl: "https://www.fstech.co.uk/fst/AWS_Launches_First_UK_FinTech_Accelerator.php"
     type: article
     provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 24
+      name: fstech.co.uk
+      domain: fstech.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/AmazonLogo_Web.jpg"
+        width: 510
+        height: 203
+        isCached: true
 
 secured: "nM0nkB1VGjoK5T59QHBHAga/doggw+JAoFkna7FzQR70H/QrKy0iMEAsJNANVKyFrqGv05AUR8e4tKwFh6ItmYmRzD1IEe2/hDXgU3YafzccVR+DtQvgWOZHMu6IG09lg2zbiVuShXUOG3MkmtSiLphR58zEwsB/EkN6sldqHxechn/X+KQLaSSw8tpA4FhBBBM2w1SjVo5tCks+5eaaE71m9W2yYdMpHt3xaWZQhUSCy5UM+3FCi6Lo1JYn/iCZyqY0B/fXOrfjuITc/79X0O0PIom7QUUoew0NL7UnRebMS2Z7Uv3YVplX5hsD+VO6G1DqCLHPVwmovI4KzQwk1aNfQ3byymPDH5Ev0BWpABC++//3tmGaSUQbeCeo+CM8VYEd8pOVQclqZUGRfPWk+Z1/fMYo3K40Vb02hQ7MMJFTK5RJ7JNuNzNBoOEGZkZsbQqvgV8Qc55ofjpaoYcsGW4Y1eLTnTJTXuUOSHUAfUdUaPG5FKCJafalyGcnxf+WcDjhgDOXoiFUh47R/1OseQ==;ysdhCCviYeZx5ayvgbTfEw=="
 ---

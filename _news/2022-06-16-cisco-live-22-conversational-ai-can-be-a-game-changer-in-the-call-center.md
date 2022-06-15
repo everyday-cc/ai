@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T18:36:00Z
 originalUrl: "https://biztechmagazine.com/article/2022/06/cisco-live-22-conversational-ai-can-be-game-changer-call-center"
 webUrl: "https://biztechmagazine.com/article/2022/06/cisco-live-22-conversational-ai-can-be-game-changer-call-center"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: BizTech

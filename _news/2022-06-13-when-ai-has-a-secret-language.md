@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI systems have their own ‘secret language’. And it might come with security concerns"
-    excerpt: "The findings support the theory that AI language models don’t read text the way you and I do. Instead, they break input text up into 'tokens'."
-    publishedDateTime: 2022-06-11T03:26:00Z
-    webUrl: "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/"
-    ampWebUrl: "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp"
+  - title: "AI detects autism speech patterns across different languages"
+    excerpt: "A new study led by Northwestern University researchers used machine learning—a branch of artificial intelligence—to identify speech patterns in children with autism that were consistent between English and Cantonese,"
+    publishedDateTime: 2022-06-15T14:23:00Z
+    webUrl: "https://medicalxpress.com/news/2022-06-ai-autism-speech-patterns-languages.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-06-ai-autism-speech-patterns-languages.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-ai-autism-speech-patterns-languages.amp"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 69
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://static.theprint.in/wp-content/uploads/2021/08/artificial-intelligence-4389372_1280-e1599296856435-1024x576-1.jpg"
-        width: 1024
-        height: 576
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-detects-autism-spee.jpg"
+        width: 970
+        height: 647
         isCached: true
 
 secured: "zqdkWdoQKOiJuWkH1zZ0vfAGMnPtGYNMZernu6jD6zudZkjfEwI+NdTHKtgvnqBH6XhkFyjgT92qU/daNisWaBALrajcBO5eFwx7BdLPDPnnnh/DOzsKAlWdLo/aKKxfiHE2YMAhCkdLHvlOgX6s7S6e2vsjfX/C3jegmDq2LKN5tpQ1cXcRQwLgeMexsD32i3YWfEr/7O89gTvXLW/OK2i3g02BWKsCbq3BxlP+v6cTTDqZPxMSEzNs3qSqs8IeRkdHvyGBlFcXb6DquZl8wtugui1J6GzOm9Gb79R3aiiNo+N+dC5opzUEe2Lj8RTN5oRJNPIIV2oVvjsFJoVkgjUj01WV6otZzS+E4U4/FgvDp+x20knPOYc/lqyxA43T7diVmRTD/SWc/mJMJkv/YqXuEbCM+DSbiFwPXJesfMaxYmtZBwVbFfjPZWbNlsbe4eqhROAq9WOmm3jDzykeTpVuYyxAdl/mlbZZ/+tQ3qrMlHUeP9if3BnbvZQRXjyger+xpzFhGG8fWU3J0k5dqA==;ZesZrQLYxEe66dCUv4XyxA=="

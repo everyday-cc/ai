@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-07-phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers.md",
+      "title": "Phishing attacks will use powerful text generation, say machine-learning engineers",
+      "excerpt": "The most basic phishing attacks in the future will come from personas with detailed web presences, machine-learning engineers with Armorblox will argue at the RSA Conference on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
+      "originalUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/06/060622_artificial_intelligence.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
       "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
       "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
@@ -1316,49 +1359,6 @@
         "Machine Learning",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-will-ai-text-to-image-generators-put-illustrators-out-of-a-job.md",
-      "title": "Will AI text-to-image generators put illustrators out of a job?",
-      "excerpt": "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
-      "originalUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
-      "publishedDateTime": "2022-05-26T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

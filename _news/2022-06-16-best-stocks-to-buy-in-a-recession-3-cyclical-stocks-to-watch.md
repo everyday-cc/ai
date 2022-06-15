@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T18:30:00Z
 originalUrl: "https://www.nasdaq.com/articles/best-stocks-to-buy-in-a-recession-3-cyclical-stocks-to-watch"
 webUrl: "https://www.nasdaq.com/articles/best-stocks-to-buy-in-a-recession-3-cyclical-stocks-to-watch"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

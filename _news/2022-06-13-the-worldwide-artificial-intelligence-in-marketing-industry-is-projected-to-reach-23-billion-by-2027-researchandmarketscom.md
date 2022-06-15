@@ -1,22 +1,28 @@
 ---
 category: news
 title: "The Worldwide Artificial Intelligence in Marketing Industry is Projected to Reach $23 Billion by 2027 - ResearchAndMarkets.com"
-excerpt: "The \"Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+excerpt: "The “Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-06-13T11:44:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-13-the-worldwide-artificial-intelligence-in-marketing-industry-is-projected-to-reach-23-billion-by-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-13-the-worldwide-artificial-intelligence-in-marketing-industry-is-projected-to-reach-23-billion-by-2027-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-56d77200fa8c4b1c967b0b3dabc1a143"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-56d77200fa8c4b1c967b0b3dabc1a143"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Marketing
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "How can artificial intelligence be the next big thing in marketing?"
@@ -42,7 +48,16 @@ related:
       name: Techaeris
       domain: techaeris.com
     quality: 34
+  - title: "Artificial Intelligence in Drug Discovery Market worth $4.0 billion by 2027 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"AI in Drug Discovery Market by Offering (Software, Service), Technology (Machine Learning, Deep Learning), Application"
+    publishedDateTime: 2022-06-15T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27723446/artificial-intelligence-in-drug-discovery-market-worth-4-0-billion-by-2027-exclusive-report-by-mar"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
-secured: "6lsK99OsjX12FZPzlbtsrIPINp0bAi/XemfAvIzL63s3V8uijNXfIQ+esZoS7PWaI53vbmr7AI6NXUiTRFHtQGzYqKWNg9bzbLtKFp3T8yQJtu/XUPRhSExAHEGgqk0+2f7bYJqaOE03YLuLOkdqUM8+MSP+QZlDCC0H7miRDTWt6hjfHunMphwpTdF1OKep7KTjs1XkIa3ryPEg8+QQrwb3xzjkU4zxd3fajMaaUq3rQU+4GNeMUJetcydAqoqHJgLNi0OQ/bCgVDB8y/vpf96BX5FouXGEF8QZ293SGYHw1SQvc4UsT+0RBFYlVkceZzhY19/6A0bZxob7KNi8LLFofVYoUmLvfQoQePOoGTI=;sQK0LORnitLljSeHTq5rsA=="
+secured: "ac5uyf2AUPGI+lAm/x5WUnc9UoRp6qWObpgRP5TH1GZsERlj3w2HF44AOeRniA75Dp9yQ+Je1Kk2sQ6sbkb4omVSVgb6jZ+RWqObPAs+h9kxblbN24J+eFuUo+jTo5idZya+L1r2N+xlaH8WvwqLKYk4qky4j3RUSBRNnHwpPMdwreq3owVYbOCilMB4EgboaQYCsPI9xGSTmej7WjIkK468te6bJ4fQkHzcqyh8TaCKn8dxus6f1NoHiw62xRipfFe7EwPxrrMxr5k7L9IYEP/It1KeEKXFKnj+4BTGtcvlGMeu7BfJRMqGhy+k5rpC8qDyR3h3zhCfPljGDVJBMIdhzsk3qwWURBUQ9iC97vY=;ZDk0r8G835wWzc3ekxnisg=="
 ---
 

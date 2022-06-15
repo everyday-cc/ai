@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T17:54:00Z
 originalUrl: "https://www.ncregister.com/cna/sentient-ai-what-does-the-catholic-church-say-about-artificial-intelligence"
 webUrl: "https://www.ncregister.com/cna/sentient-ai-what-does-the-catholic-church-say-about-artificial-intelligence"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: National Catholic Register

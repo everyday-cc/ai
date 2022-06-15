@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/lamda-artificial-intelligence-sentience/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-artificial-intelligence-sentience/amp"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 2400
     height: 1600
     isCached: true
+
+related:
+  - title: "Sentient AI?: Here's what the Catholic Church says about artificial intelligence"
+    excerpt: "An engineer at Google made headlines this week after raising concerns that Google’s artificial intelligence system, Language Model for Dialogue Applications (LaMDA), may have developed sentience — in other words,"
+    publishedDateTime: 2022-06-15T17:53:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/251552/sentient-ai-heres-what-the-catholic-church-says-about-artificial-intelligence"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 29
 
 secured: "drCvx333o+CvTQkeVyrlDS3XQ5nQ89TyZp7nIzHucN0SduPVausskju+QLeZ53o6bY/YuuWo/DUR30xJur6AMPxoac3B6Ps0OgVKf2lOGY7PvUFIXuBO56vzfRrlFpIkyBIcy/CMm2h7rzF/csLCZ2Z/aEb6Lwa81mBWLWlm/krxo9aQy30xQyT6Zn2UhRjkiFz2Xymw5poi1LFDqQXj9TOrJzexvDa3lMVGjuEGOnk6zcRPDoPTZPtS0AZQYJSm/fZJPcJtdGV8NlgamjCuqHRyVNjOKaSDxe4HOQwfkEeYVbOl7A7aKd8tfVpgPTy0fuUue/hqJ1LNIQavKi4Y7pEtqNK/5HQTMyJ657eFZARSFzstp0gXNmQqokL1+/4gEb3jlMsdFG1mKdrH6uJk8NqTcjJRqznsmhdj9LphYq3R8MGbHcf1QNoi5sxjfWNYSGtFIMDdi+VGFqEzaW3mOCzJoiCt5+HXogT5DkeTMODXh6hNG3XbB/sCxC8rKCHyiRqnkQs1XoyewrKvltCe2Q==;sGsv9wxfN+UyBM8GSgPhcg=="
 ---

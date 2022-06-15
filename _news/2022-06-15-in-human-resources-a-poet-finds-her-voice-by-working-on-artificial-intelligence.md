@@ -2,18 +2,29 @@
 category: news
 title: "In 'Human Resources,' a poet finds her voice by working on artificial intelligence"
 excerpt: "Ryann Stevenson's debut collection Human Resources won the Max Ritvo Poetry Prize. It looks at how technology both connects and separates us."
-publishedDateTime: 2022-06-15T13:11:00Z
-originalUrl: "https://wusfnews.wusf.usf.edu/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
-webUrl: "https://wusfnews.wusf.usf.edu/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
+publishedDateTime: 2022-06-15T09:11:00Z
+originalUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
+webUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
+ampWebUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-kucb-org.cdn.ampproject.org/c/s/www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence?_amp=true"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
-  name: Health News Florida
-  domain: usf.edu
+  name: KUCB
+  domain: kucb.org
 
 topics:
   - AI
 
-secured: "Nh92DhQrXhuNgDt4kFSYzaU2YaUrrRoEehpP9mC72UcUC11lY7lKPQrFZ3J9GPwJtNmiFcC+rvdc0/neRdEZJx9StKXXhYWQgvdoi/Yz8ILAZ3pvxth0xgC3e/IrEY6cjOGnYTsCAi02rabExZlJrtwre+HDlYc3iNondNpXPiqeYrtd/KNNr2lXs987h9Q94xVmxf+PCJaBaa4tu0RyTIpxf419dzrHKo2FtjXcAtuKu6i20fw20CEHWwHdaNQ8dPwkhs5oEvsOhZU3MlAWfU3Y7HocMGcFrJMpC0p7/LlJ0tSe3Uu7Hzy9ZSfPl91sUQCRZh1GENT3z4IEhmB+UAmfztV46aphDDpPdPnPh8zy8zGlrcM/sPpwdh8UnYPwKnbFA8jxdMBysoaD6ATnJtUbi/D+MJrkXlZijQ2e22c4lTQQ+LF+VFXM0ChkRWDVNPFtuFqPagoDhn0ZjQb0vG7cb/knPdepgYpylE1nJIQW4cOD78mDARlraY7rVvb2sr7GBx9nvI3Dzzp2XFF7VQ==;AZizonT0yEw4PF6ZisKgOw=="
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/a64621d/2147483647/strip/true/crop/827x509+0+241/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F13%2Fryann-stevenson----william-brewer_custom-6373f847cf66b30db81006d5292e04ee3989b0fd.jpg"
+    width: 880
+    height: 542
+    isCached: true
+
+secured: "3446ADKsD37/ts6ZhHetNULiYc2h8pEviek5JHmBQ5Y19aRs92fTQhvYYHMYuLbjslol7asaVZhtKEC1TYxCqji2YtjAFczVJC6q1lbbJztVPuZymQTbaqmcJEVZsF7ZPaOP6zaGwABZ8ZnVLcYOmJ9isPjjBQ4pO+z/ngO4T8h8SSIWWww0Fchx1is9zMS726YeGlOd8OyUWZLaHkt7Hj9LtEeSBRH8vP/q2eLrCtIpEMw+Vh/jRnLH9eVWNHN044zjQIq7/GBu4N9rR1M1Dr3hV6bDfjgmNO+tb+6+BLaBLuU8XK/JFKB0x1B7fdQ0glo+FiNkVokz7DO73cGFYxDBBsT410Us0x76WybmFfA=;Q3T4uzSPsTov4M8cCx3HaA=="
 ---
 

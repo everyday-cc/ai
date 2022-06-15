@@ -85,6 +85,22 @@ related:
         width: 800
         height: 354
         isCached: true
+  - title: "There’s no such thing as self-driving cars (not yet)"
+    excerpt: "How does it feel being a guinea pig? That’s a question for anyone behind the wheel of an electric vehicle with technology that purports to be able to drive itself but, of course,"
+    publishedDateTime: 2022-06-15T19:41:00Z
+    webUrl: "https://ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/"
+    ampWebUrl: "https://ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/06/GettyImages-1148676032.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Paving the way for more level 3 self-driving cars from 2024"
     excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"
     publishedDateTime: 2022-06-15T10:24:00Z

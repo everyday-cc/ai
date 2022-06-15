@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-14T21:16:00Z
 originalUrl: "https://www.plasticstoday.com/injection-molding/how-artificial-intelligence-transforming-injection-molding"
 webUrl: "https://www.plasticstoday.com/injection-molding/how-artificial-intelligence-transforming-injection-molding"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 

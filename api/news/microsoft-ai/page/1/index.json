@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-16-report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best.md",
+      "title": "Report: AWS, Azure and GCP evaluated for overall performance — which is best?",
+      "excerpt": "Join AI and data leaders for insightful talks and ... The report evaluates the performance of AWS, Azure and GCP for common Online Transaction Processing (OLTP) workloads. Testing shows that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
+      "originalUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
+      "publishedDateTime": "2022-06-15T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-arkestro-brings-ai-to-erp.md",
       "title": "Arkestro brings AI to ERP",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -1293,50 +1346,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales.md",
-      "title": "Henson Group and Ingram Micro Cloud Align to Target Record-Breaking Azure Sales",
-      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement designed",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],
