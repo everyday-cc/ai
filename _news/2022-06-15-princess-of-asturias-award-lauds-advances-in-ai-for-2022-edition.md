@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 related:
   - title: "AI pioneers honored with Spain’s Princess of Asturias Award"

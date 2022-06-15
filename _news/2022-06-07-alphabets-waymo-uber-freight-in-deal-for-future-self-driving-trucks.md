@@ -1,114 +1,20 @@
 ---
 category: news
-title: "Alphabet's Waymo, Uber Freight in Deal for Future Self-Driving Trucks"
-excerpt: "Companies including Waymo, TuSimple Holdings Inc, Aurora Innovation Inc and others hope to sell self-driving trucking services to logistics companies and large retailers in coming"
-publishedDateTime: 2022-06-07T15:04:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-06-07/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-06-07/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks"
+title: "Alphabet's Waymo, Uber Freight In Deal For Future Self-driving Trucks"
+excerpt: "Waymo Via, the self-driving trucking unit of Alphabet Inc, and Uber Technology Inc's Freight business on Tuesday said they signed a long-term strategic partnership that would allow future customers to deploy autonomous trucks more efficiently."
+publishedDateTime: 2022-06-07T15:40:00Z
+originalUrl: "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394"
+webUrl: "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394"
 type: article
-quality: 49
-heat: -1
-published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Uber and Waymo Want to Make Self-Driving Freight Trucks a Thing"
-    excerpt: "Uber and Waymo have put the past aside, and are now in it for the long haul. On Tuesday, the two companies, previously legal foes, announced a new partnership. Together, they’re planning to combine Waymo’s self-driving technology with Uber Freight’s shipping network to help automate long-distance trucking."
-    publishedDateTime: 2022-06-08T01:36:00Z
-    webUrl: "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318"
-    ampWebUrl: "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/80978baad8b9cf3ba3858a0ff2bfc839.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Enemies Waymo, Uber now friends making self-driving-ish trucks for US highways"
-    excerpt: "Waymo and Uber announced on Tuesday a \"long-term strategic partnership\" promising to work together to deploy autonomous freight trucks on US roads, years after both companies fought bitterly over self-driving technology."
-    publishedDateTime: 2022-06-07T23:56:00Z
-    webUrl: "https://www.theregister.com/2022/06/07/waymo_uber_trucks/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/06/07/waymo_uber_trucks/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/07/waymo_uber_trucks/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 55
-    images:
-      - url: "https://regmedia.co.uk/2022/06/07/waymo.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "From enemies to partners: Uber, Waymo fought in court over self-driving trucks. Now they’re teaming up"
-    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. Here are the details."
-    publishedDateTime: 2022-06-08T11:52:00Z
-    webUrl: "https://wraltechwire.com/2022/06/08/from-enemies-to-partners-uber-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-    ampWebUrl: "https://wraltechwire.com/2022/06/08/from-enemies-to-partners-uber-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/06/08/from-enemies-to-partners-uber-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 43
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2020/03/waymo-truck.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
-    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 35
-    images:
-      - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Waymo is latest with plans to deploy self-driving trucks on Uber Freight network"
-    excerpt: "Self-driving tech company Waymo, a Google subsidiary, said Tuesday it has entered into a partnership with Uber Freight that will someday result in autonomous trucks adding \"billions of miles\" of goods-carrying capacity to the network."
-    publishedDateTime: 2022-06-07T20:58:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-deploy-self-driving-trucks-uber-freight-network"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Waymo-Uber-Freight-1.jpg1_.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
-    excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."
-    publishedDateTime: 2022-06-08T18:32:00Z
-    webUrl: "https://jalopnik.com/waymo-will-put-self-driving-trucks-on-uber-freights-net-1849035119"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 28
-
-secured: "8pcv3uTL3KrFs/6plLLpXPeoaXwit036KpH2g13W4JbExSyV4NfUmw/1uA1rmXI0tqGDOVjpMtho4cfp4gOFtw/Benn1rT+eUDHzfuHYiTGMkgizgP6mmD1c7nhwhcg1sUGCWb/kS4TWR6rm9SOy1WeEf/T5zNKvYCZIzNRx2qwdJ3lQuKIUihnpzKv2j55KXvKefhvbBCynNTIXvX85JrC0gn/ZLsbOaNmR64VJSLb7bDUVmHn2N2vx6ysJFicn1rfcIzvMvYSTidjIgZoLwYwItabOjcqwxzI2zVEw1hLUFzvj17r0Y/Mz3lG7Gkzy8ixE6B6yXnGRunnZm0lbqPmOewSa+Zue4roB3qVsqDVfQD7+gYjex7yDm6XTEzad1pIAhhBfAK4MEDM5kHFP0LljWPCNAtVgsms+wle7GErskAhFK79q7yY4iMSalUdV1Ss5JjOKAlMx5OILJ/oabk34H6gH/I2qWQ0WwvC2qV6ldeo2IHqjoBCmEVG8VAc6rwU0LVOOyxXhHe4QmL1Reg==;Y2w8Mihf6N1AAhd+Wr10/w=="
+secured: "uDh6uXhAi8HsJwyHFY8sl3a6C1eNv07P3oMGlKpoVq/YsobuiO/3WtOSjRBEMHtdjG09Wsmkgvt9NGrq97/VPIC4Y+/FmIW41u1lGu4EkS4+qoBaCmUHKU9q68Pr769NUikw5KstB3J8achehqPLXcW5hvUQ4D+nPl8XyMohyuzhxPjyAa7Qo1AAVVDeDZ6jiZLFFtvCyvPZ7LvA3RRPasDB0emvOre1DOCDJwR34o/a/f5kQZ/hU4zCHOf+QmDdF2x8CWTdNjLyXhNxKaMXNr/8dxaKtk2qfD9EH12yuKK32Nu1s+ksL68+6nCBQxS/LItHeIc+3CKCMI/1usXE6VE2lV6Mx8ADZJWOEp+HeaoOlVFpI5iT6PADt91DQnuyohBtXi9mXtRa8+fevlrb5FCawP9+ZM6mtBek2MahKaPfp4BIuHAc+2O2MOpsede+YzI0LxSkSHnxAfwjFq99GZwK8/V/Zt28CEGpd5U7XkhBF/89FYUY0VTqhry2gWIotA61oPEL/f3IVjtqqjpOMg==;7jKb8fsD4MorJ/fM6lkLTQ=="
 ---
 

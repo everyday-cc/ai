@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Local startup seeks to solve construction woes with AI tech"
-excerpt: "INNOVATING THE CONSTRUCTION INDUSTRY Cherryann Lee Angoy in photo along with her colleagues in Eve not shown in photo is set to launch the first artificial intelligence-driven construction management"
-publishedDateTime: 2022-06-15T12:17:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272586955/local-startup-seeks-to-solve-construction-woes-with-ai-tech"
-webUrl: "https://www.bignewsnetwork.com/news/272586955/local-startup-seeks-to-solve-construction-woes-with-ai-tech"
+excerpt: "A homegrown startup wants to become the first local company to bring innovation to the construction industry with its artificial intelligence (Al)-driven construction management platform AIMHI (Artificial Intelligence Meets Human Intelligence)."
+publishedDateTime: 2022-06-15T11:24:00Z
+originalUrl: "https://www.pna.gov.ph/articles/1176772"
+webUrl: "https://www.pna.gov.ph/articles/1176772"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Gov
+  domain: pna.gov.ph
 
 topics:
   - AI
 
-images:
-  - url: "https://cdn.bignewsnetwork.com/MTE4NmRmMTgtZTZ.jpg"
-    width: 670
-    height: 420
-    isCached: true
-
-secured: "36gDZx/GAPclYCQ2bd4dxMs/3Oh8FkYOzqbhXeIN05Xmy8ywpXcFd0mTgDJWmNUOKcdTWCxBJG/mue8jvpX1yjR5DpKbOem18bhAz6Q/OjoSv+1/07rMprOdxbLbJmufBtT8mChu66fIO2Shqs2Kkkr4UyyAl+nbUmifBrRqwd7nQyompT1j/PX+/xy0NGXHaP6tfc83xuYMhUsMvbc1QJDX2qIcyzHIEddv2YcfdxFL4EQVTrIlreUJzlL4yh21OOk1Ns9S3JGNFWhbp7x7PD14XumPesttxsqZ8c/1rPwpvxJQ0g64XpvK8zuh/5jbRBRoxCBoRECJkwDw8qXlNxc7rjRFuyTio+QXOYq98Tw=;u8jcsHkH7SHpdxqVUOQurg=="
+secured: "hEESnBzuJeP7AmCUx5K4NtP79z79HBOdYJYH2mJbNuCDMrOknEN5WlhSOXv1A5sj7SoY3CuVAmNFIRpcRLg8MeB/8Nu1xIcAA6tY26TVrJfnC9Af23uZiqrmss6mDpnoQno9mCr0sNiwz/L+PUuSGsvE2XRJQZeqoIilI5Ny5NANAeok6l5yNJ5e88TNw1Ej4hzTZeOkeLkRPXFaoiygKXca6YXFzWKn9X/lgduJitCwU0Mp5DcUCDE0907XxqO/bgYqBxDtRdEQzg/wQ6bha28/yCiz9q3aNaC2J3wBMecgFJENDaPma2ELtVDHlXbVJFAMir+T7hU5WK89LmFwGIJHc0b0vZfYZYa4jH1z6ieGo9jUc0RImz3HhwccwTNkaeVZgPF9mHVzIv/e5ZcRYoYX4WKSvKNoSZVUaMYBnAIAp9rFkCz/aQp+RTQIiKY3fKIcBy9oVnco+eFeMAv1x7SuBu5WU+5cD9j4wB7ilH/B1iIguYUSiqh3RA5K31pmaZ8ub75G/+ifY7j3ZafISQ==;zMMrkWUGWF/5hUYO4HyKzA=="
 ---
 

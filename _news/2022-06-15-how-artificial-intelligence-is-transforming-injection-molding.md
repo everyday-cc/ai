@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/machine-learning-Science-Photo-Library-Alamy-1540x800.jpg"

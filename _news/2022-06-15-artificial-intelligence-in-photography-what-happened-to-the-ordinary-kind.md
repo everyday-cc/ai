@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/u6CALTD29S7KJfTmQXgy6F-1200-80.jpg"
