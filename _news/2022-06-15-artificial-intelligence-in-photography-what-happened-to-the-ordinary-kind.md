@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/u6CALTD29S7KJfTmQXgy6F-1200-80.jpg"
@@ -23,6 +24,6 @@ images:
     height: 675
     isCached: true
 
-secured: "K3aQgJK812S3AACv61j99o5TviOdmOFbrHodjXE39DJ2ZVK7gVOdIggsJf7aG02qFKbzEU3Rwm3rQWRe6c42GOdn/rhlz3J3hO8fPmlCcPCTHS4Z0R6vBXG5zzXhh5ufPnbVQJNQXlf5TXPGMrY16+9Lknaos+uxW8/OiZwOsmMguNB/C3zE8PHPrXZ/jhRtSKEkfwUmItYJSuExv+N5ZYvxCOXg6MbK92qV4cTHFNXcTjhh+vBf48OGzrviDwuABN4GTYEgKlisy2pirV7J1YWSXph9dtfAlk8P7Dkk2Ts2FG3f3YYZWMuknhrRzXlwGsMMIjc21a/cuUX7m+GB1rgqAQ1cEjhNGSICHNfgkxo=;A3mMrn5pdBwjSTCSm7qmrA=="
+secured: "eJ5ucEPhqeTv8xdsZFmWXR/Aqy1EF9J8e/cdi/TKvX3NhqjvJ9OauKsylrrl0AvpGolpBXY5+4K3CVHq31nR5+R3Ig6d73jgVKxEoQR+UPM/VTUcMncjDhgR+KMTbdue3wskwXRvZcnjDnYZyNCnePVCJNdkS4UnzBwTaUj2UDHZXrP3APF0zIQIYI5HV5FyePbs7pr2wjahwbshiGZf+kAOw63cuVyN86hx+MBwhoffM6OirwrnrYN0eI1TZ5x22aA5xbvAHz6KvLqippQpWAlI4USdJhndn2J3FTUUlavnGYCGzB2cMHQ1wATjfUdQomKyHRlv0msYQEole6mn8bi4elmwXNzwyP7+uNSwlQa8QZOgFgh3ox05e6uH7Cn2InGgaPyWl+hDHpkqZXM0BTSSjgxZ/Vka52nyOYXrTlsjAaV+yQBYtg48Tsom/rfv+REOmc9a4RRn+25LdgfVC5UyhD9uENwhyO4vzbZKLfd6C6eGGfyxhPsw1K0A2SM3e72WDwlyVbMs52BhV3nMMA==;IQ/2kL/zMzMDBVyw1kQ2Sw=="
 ---
 

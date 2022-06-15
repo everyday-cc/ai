@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/aafc0084466247a4e69b440d816eebed74f8aae6-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "MPfZCH7iAniCOyUjrsdM1HkN9blAl4C1UBVTUgO9u5PBg+iqUTH1WyO1cJSn/jVbC3ZPlwO32VXunOV0EZNmKugMcNXVZj5vHjkCZvwktsNYAeO5SM8R+dfYlTyPbILIqGlHroBMzQ4MHi0lkp8SKBW7RwMUVgDFcGmGveS2uT6fIwQ0Xi0k+WYK+ONR88+wOsH1WGbSe0Ceof8zjqN66HVhHgA+PkAW9Ii7wqNsq97SBnU9pyPj/KbHppjgwlkRVkoKaYTc/aO/fz/JbqAyidhpDw2DDSpOI54JACa73OgYvlLZNH+F9TD55IdNgv+i1rfYVP7Fa8BDcQW9sFIv575Ok8ypbAlr+lZlOGsBTDk=;JkwZs/5+g5Ba8IrzvjAvSw=="
+secured: "Da+H1tonfraihY2Y3Ztwc1KcAxwiuALM4I2FLMiSF1uq+NTyo/FUYci3Aqzz18Q0HRuJgn/Uy10e+9FItI7DYGooWtn8ZJX/Ep1CJ8IRSnwjzLb2UACUesVi0WCnN4UHC8TQ1t14pOroamMFKhDiH9DaJ8JFBJLZ1gwXtoT27qBzZyzUfNCmbeEzMXkrAIx5X+UF8nUWjvSpSQ0gAdIFNsdkS/pZo0nnlQyDbEwivSRKW3cSxI3n00q45ot/Qi4Lp603uLSgYDNDO39lIEWmGR+RczqF3LEvgHPXiHe2fuhGJfFdXQicixuZCkv4xYDmv7/aRhfis12izBZS+lqVUW4FEjrQAHFN8kOrXrrQn/o=;3djXoIbLxxDQjGnQgHDtwQ=="
 ---
 

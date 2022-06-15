@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG"
@@ -40,6 +41,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "sB3LJpcY4pZUqhiV2DdQdVBY7gjjg5fJMcMbngpZipaSRe2ab9ClTTl4YA8T8gvs+KMN08LpGQT8UVqG/B1LbywRb29E3pYzbfd+Y3+AUDtoKQ6tMhgJ2HS5CsqJ44oA9UmnvSfU0YJgfQMeJXCsQzEhrW62G9eVP2+7mrQbZvEBJBf4GyG8eJKHwynTJX4ik8NMcqwUonSNpq0jFf56qWzaDsK/zjZXo0ND/9GAdZSeKuITrityIbktnZTxjddbUb23N3SdmXNpYRx8shRij0tSQf464bqsOkFiJufA1qYuIgWFmMfmvJmjZ4m6PiDI7zBxFjq6g0zhJOsGCZRsmAsqGEQySiIqSlSFBiq6Or4=;j7YQFR54cXOH8DSOyNT8qA=="
+secured: "Q4lXoC8PnCKOe1Cy/Lk+J49ezNR7j+Tbl0oeWwcQ5z9R+ELMdB1Hc2Yd880WMyM0Z1Smxo5AKJcCFo796ZKFFyb/JW9Qr1lqVyxiRf4xIESFCY6u1Jon9hsethsOwBqvh+U5jGC2+gxYm/l++5My9UGk+8l+pVhPWkklnTSC9HchRZRMfLZfPUCLr8LbN0Syz9zv4wfDuTk3cj6anDRFZAz6sxcMN467Zue+xqHTRe/W/tPgjSixLk08gpy1IhyVz32nmqmZbAqzHHd4qXSfHNMy55IQOAhenpGz5FY1uvXpjpZFhpXBfgX2EbvIpEkGg3ZSgrIzB1qkEejxJZ2w4XcvM6e+Su81FyaPB7OBO3YuGomH2xuoprxuoDMWr9qGCNU0mg+9bAzOZFP/+NTiiNbdp8dTUzQN9QdmWiJ8d03lpIf8LDP+/5v9JS4Y+b8ZUm8Q40T0ZQWWzkfsrX2knd2VGIRnww8tyoBNKTtZFJcMg2vFA135xIu8wCglcnjdWg7smftjOBVmZjvEiHn4ow==;6/VJOlafD2mA7j0cpvqIqg=="
 ---
 
