@@ -3,8 +3,8 @@ category: news
 title: "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum"
 excerpt: "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/"
 publishedDateTime: 2022-06-09T13:33:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d"
 type: article
 
 provider:
@@ -16,6 +16,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "eSK5xY5JaXzikYdxyVL1cggt7HHq5SwMBpg3v4l5ds6OEayXucNa9EVmV5axjAj2fw4PQqQmlO+cPIDU6SCxiC4s5hRuzxhdBY6NQj2yPVtSU8mBnGH4CJupC98jcZ9eCv/I+wr9OHtcnpTPGXTOvleAIjaKkNV0aVwjX9WHdcZYdD9WA1fruPHlt/Cf2kJP6E0gON8wP+pF4NaO9B1cwXqjyzvG80D4KAgnt8ra2gChdFb1AbguM44ETk7R63moE5gl3fwJdaXVsnWLb+iBfguWkOfQKXvoMOY7lTvmrCjW/QQQS1eWXJcCd8OcN+Mo3gTBmx3fTIX3ks7uiiKUfZ7NpuSDzPvjTlwsD6kr0AA=;ahpgJ5sw/FSg6Zhqh2Cohg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "qp1AJ+5NpoBjddtcEUNaG5RJZz25J5ktd89/qefl0zD95W5NI6/pwh5d7cZaVZ120qc1lq4zVYpgoTTAVXmBRdwAPa6jcYbuHAGw45JG7iQj+QhwoaWzmR4n0en/2s0vdp2ELQ4v6YzRmHEThq372a4bv5MdXN9Rs+ejpfPF8Z+QBwblnRVdFgaS4Jh4ybPVdeq7mNmVSJ4VSYTePIGd2kHbuL+OreYtXJnDGibz4m0uiqJI6w83EdiOs8Kuq4DmlTZg8tGtIMVFOdsp6WdYKD7AWrLkxqDZXLcEu+vwM0aIXskXuPO8O1Xwdk8rL/h5cmRkqIzm/D8NSpc/veBrv0olX5S8g4ffd0g18raADn4=;ZICXiWHscz6KDVphOxBtvw=="
 ---
 

@@ -68,22 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla leads automakers in self-driving vehicle crashes: US regulator"
-    excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data US auto safety regulators released on Wednesday."
-    publishedDateTime: 2022-06-15T18:56:00Z
-    webUrl: "https://bdnews24.com/automobile/2022/06/16/tesla-leads-automakers-in-self-driving-vehicle-crashes-us-regulator"
-    ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/2076838"
-    cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/2076838"
-    type: article
-    provider:
-      name: bdnews24
-      domain: bdnews24.com
-    quality: 59
-    images:
-      - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/06/16/tesla-160622-01.jpg/BINARY/tesla-160622-01.jpg"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "US report: 273 Teslas using automated driving systems involved in crashes"
     excerpt: "DETROIT — Tesla reported 273 crashes involving partially automated driver-assist systems, according to statistics about the industry released by U.S. safety regulators on Wednesday. The National Highway Traffic Safety Administration cautioned against ..."
     publishedDateTime: 2022-06-15T15:11:00Z
@@ -99,6 +83,20 @@ related:
       - url: "https://media.11alive.com/assets/CCT/images/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Tesla Leads Automakers In Self-driving Vehicle Crashes -U.S. Regulator"
+    excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data U.S."
+    publishedDateTime: 2022-06-15T19:00:00Z
+    webUrl: "https://www.ibtimes.com/tesla-leads-automakers-self-driving-vehicle-crashes-us-regulator-3540602"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/15/a-tesla-logo-is-seen-in-los-angeles.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Self-driving and driver-assist technology linked to hundreds of crashes, U.S. data shows"
     excerpt: "Over the course of 10 months, nearly 400 car crashes in the United States involved advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday, in its first-ever release of large-scale data about these burgeoning systems."

@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-09-social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global.md",
+      "title": "Social CRM Leader GoSky AI Completes Seed Funding Round Led by VC firm 500 Global",
+      "excerpt": "GoSky AI announced today the completion of a seed funding round led by 500 Global, a leading venture capital firm. Investors in this round also include the Co-Founder & CEO of ThunderCore, Chris Wang,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1836422/News_Photo_By_using_GoSky_AI_s_social_CRM__brands_are_able_to_convert_their_social_media_followers.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of.md",
       "title": "AI Ethics And Legal AI Are Flustered By Deceptive Pretenses Known As AI Ethics-Washing Which Are False Claims Of...",
       "excerpt": "There are those that tout AI Ethics that are actually flouting Ethical AI and need to be called out for doing so (they are AI Ethics-Washing), which is happening widely and includes those autonomous self-driving cars too.",
@@ -535,13 +588,22 @@
       "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
       "excerpt": "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1085,49 +1147,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-kiyaai-introduces-indian-banking-metaverse.md",
-      "title": "Kiya.ai Introduces Indian Banking Metaverse",
-      "excerpt": "Kiya.ai - one of the most \"innovative\" digital solution providers, announced the launch of India’s \"first-ever\" Banking Metaverse – Kiyaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
-          "width": 1600,
-          "height": 1291,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
-      "publishedDateTime": "2022-06-08T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

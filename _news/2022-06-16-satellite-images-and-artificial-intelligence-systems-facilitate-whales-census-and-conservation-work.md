@@ -1,0 +1,71 @@
+---
+category: news
+title: "Satellite images and artificial intelligence systems facilitate whales census and conservation work"
+excerpt: "A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work."
+publishedDateTime: 2022-06-16T07:51:00Z
+originalUrl: "https://en.mercopress.com/2022/06/16/satellite-images-and-artificial-intelligence-systems-facilitate-whales-census-and-conservation-work"
+webUrl: "https://en.mercopress.com/2022/06/16/satellite-images-and-artificial-intelligence-systems-facilitate-whales-census-and-conservation-work"
+type: article
+quality: 23
+heat: -1
+published: false
+
+provider:
+  name: Uruguay News
+  domain: mercopress.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://en.mercopress.com/data/cache/noticias/88533/600x315/watchingwhales1.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+related:
+  - title: "AI system facilitates plant imaging from germination to root development"
+    excerpt: "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?"
+    publishedDateTime: 2022-06-13T14:15:00Z
+    webUrl: "https://phys.org/news/2022-06-ai-imaging-germination-root.html"
+    ampWebUrl: "https://phys.org/news/2022-06-ai-imaging-germination-root.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg"
+        width: 2826
+        height: 1373
+        isCached: true
+  - title: "AI to Facilitate the Development of Loitering Munitions | GlobalData Plc"
+    excerpt: "AI is of particular significance for loitering munitions because ... commercial off the shelf (COTS), military off the shelf (MOTS), fuel and propulsion, 3d printing, processor chips, miniaturization and scalability, battery technology, and composites."
+    publishedDateTime: 2022-06-15T16:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27724803/ai-to-facilitate-the-development-of-loitering-munitions-globaldata-plc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27724803"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27724803"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+  - title: "AI system facilitates plant imaging from the start"
+    excerpt: "An AI-powered imaging system called MutipleXLab provides rapid automated phenotyping of seed germination and root growth that will help select plants that grow well."
+    publishedDateTime: 2022-06-12T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/955767"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe193459-a079-4b00-98fe-d1d4b4a347e8/Rendition/low-res/Content/Public"
+        width: 700
+        height: 340
+        isCached: true
+
+secured: "MbBfm6KvI/HVC0Kip3lCCHftkRtmi7fo6tV+ZITiSQZPBz0IFCWxOCbPJMHHZd/Absd2FGEC/7aBa/8MuArMDs9iUub1zmjKe3eMAEgBj2jLQO+KBNNAA5KrsfTp5FQBQVPXG3qa9Wsblq0kwriYIggd7xuyVn+79mw0f1lSGRs+jv8kspBSGHzNSH2oIes6qZXLOq2PZ766miqwa6e01EbFCNMQCgwR5kcDffkh7P/ecCBS0duG9o6nrbaHqc0GM/FEq0fZJ+Ya7f2uINqY1O89epwzy/xg6olhGb6L7+bUmbKQWLkYXN6Y6pqm0vU1V5rFeYQeQvf4CwpOG6rhOnyx4OCzi7SGk5MRAyuw1vc=;SUZ7lyjnxSDVMOwwUiK6Fg=="
+---
+

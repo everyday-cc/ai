@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-15T02:18:00Z
 originalUrl: "https://www.thefastmode.com/technology-solutions/25613-moovita-intros-its-latest-adas-capabilities-powered-by-ai-chipmaker-hailo"
 webUrl: "https://www.thefastmode.com/technology-solutions/25613-moovita-intros-its-latest-adas-capabilities-powered-by-ai-chipmaker-hailo"
 type: article
-quality: 33
-heat: -1
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.thefastmode.com/media/k2/items/src/b19c0e34cae2860e51e47944cd3695b4.jpg?t=20220615_020343"
+    width: 752
+    height: 408
+    isCached: true
 
 related:
   - title: "MooVita Introduces Latest ADAS Innovations in its MooBox Technology, Powered by Leading AI Chipmaker Hailo"
@@ -34,6 +40,6 @@ related:
         height: 283
         isCached: true
 
-secured: "Jwk6FF78qO925Cvzdc0QPa9Wdm857vC1IF8DiWvfO77cL1Pf2pMQ6pxxjsfMGeH2+eWWcEsHuQl8ZaVL3ZZrBtCsGCHyRpgVo+GFSr7487epkbQOnYjWdsc+i4Mnw0dkd2tufGUAU0rZH1RzYx/MEfKQu4QARj3yMJDp/3na6Q2m5vm6qabA8e+8rk9ccRuK9hJBe0o5A/n/o6y0LMnM+PUG4BVM45l6RNdM7zpQYo+TBeUh/L5zytmyaVgGf6DO+Yg0MTeZcejPwbP8CfB0yiRaMnv+dm6HC76aNZCWoZ2mmL08WYYQ/oi9Psc5p6J6SHVmZzD13yyYJHJDe7BkY4ndwyr/ogIcyku0X+o6rZo=;a9QI4S7OqH7fZbccktJZbQ=="
+secured: "GwPfCzZOMQg7KHEVmAD2temhTg2a3jRe2ttvzZmDuBsGSY5N8Ci4frwOcgKQt0UltrMW62wvwtams6cECcfbvxhek/CemJhrjkroDRM7XyQntrWY0B1i8Giwf+vdkUAiV9zZ4EAofMQF5wxlfLAJtHlyE5uJQyXNmgOJ4AArltqTRPhGPx6IX82CzxijzRaFWbDlZfPiogucXbqXN0/TIPoauhLk3hO1WOVNH5rr+iMwvFZJ5ySFxF1IGImX+39VAV9OyPDCDdPJzB4ACLCj7wtH0PGee7IUm8udXI9dpuc+w1Ezsov0w5AkBUSt0UOPpHJoYoaHFg8z0AX1J2FSR41lrXY6Dxb4kRGIz6/DZl4=;BU8vfEOBL/5XkxSqrybXug=="
 ---
 

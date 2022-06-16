@@ -3,16 +3,16 @@ category: news
 title: "8 Reasons Using AI Will Improve Your Content Creation Process"
 excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
 publishedDateTime: 2022-06-15T23:03:00Z
-originalUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
-webUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
+originalUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QCunAA/L+6F7LuARcrBjy8RzmXAvRvlHyaZkcHAt0EMWKnmlRmYr+s5mTOjZP+3tmUv7Bjs2xOlm1FjtLCsPP9VKaeqV7+hyRgifa9HM7uaX0CJ7eJ8WnyyscOSyGTom53aSU+I6RYXS9FFC/hHFUVjKuI+2HMNnM5PvWqXLKRDjCspkzZNBoamac5guhcawpO84JzCKhLc3PvpVgxzcHRhxfFjXGIqpG0WiWud5VUp/Pxm4SrcglnmOjMs2kX8A4JbHwTdQwYVSb/VF3RvreD1Rrtfu9/3Qx/Ksjo/wekiHtq/GeIqKwe2GS3u5PpKxSlZ4qoa93PjZNxVE0886BBhszF2bkTg8JuKgHkNg/q9SU2/49cF6qA2McW/xymCe4Bd/ebJ12YtIYNVCLqCkP/yS6aBSlWPbxG/ReEPb8G/Y444JW7HtoL3KWD03nAj1eRn2BqoXCCSHqj/8tdzdqVEDWf6GR35l1gBrtXkBNVhuFC/jmVR29wCoLk8ACdbtzjxljSyAjEx2Yj3XoGnAIg==;u3dktAF/9oAMLyE6a+KfUw=="
+secured: "EnYCLMAG7BD6ji0wa2Ej6JTX4eRQX4DRiL45ZjTGWCN4/X8MAm/f8k3lNXnTHQlX9rxE6M4dcZzilkrKracO0NMjMqdOag2goT/nFlvtTXgtonTUCSE5pi1R7x2+MQFLsaezppzuCXJWes9qxCO9mZNXyf5PzuaxXNezuA+mBlVR18Qo4JNYMaO2vTvNzEf3Jvf+LI4rFrraLfx15L1SZx4GVpOs0p4E/91QqWpY0rAAjURNigbiHj3iVqVrTRJP32/WdJkedKnNvs4EeJQ7/26jPtRxUE74zcY+2EsZIZ55MAHx+BEXx3ToEsshApLX6GlwZhCzziy8O4C4/OYNXJLiNihwEUPEBmkw/qzmAyo=;SjPz2s1UI6KLfG4kQIxczQ=="
 ---
 

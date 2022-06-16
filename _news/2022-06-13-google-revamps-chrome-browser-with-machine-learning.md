@@ -7,7 +7,7 @@ originalUrl: "https://www.techzine.eu/news/applications/80698/google-revamps-chr
 webUrl: "https://www.techzine.eu/news/applications/80698/google-revamps-chrome-browser-with-machine-learning/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 300
     height: 300
     isCached: true
-
-related:
-  - title: "Google Chrome Will Use Machine Learning to Make Browsing Less Awful"
-    excerpt: "Google has revealed its plans to use machine learning to make browsing the web suck less. The company says (Opens in a new window) it already uses machine learning to enable some"
-    publishedDateTime: 2022-06-11T14:04:00Z
-    webUrl: "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful"
-    ampWebUrl: "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00BFfSrxJN6AaGlonTAOKls-1.fit_lim.size_1200x630.v1654956168.jpg"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "mBNHC39DpNBg0zmYpC+60M52TbCiqb8JUpjaqJ2Ig23IC4VVPg1VqnLE9BzPAtlU1/3TGg6JT9azPmCwlrgnJc2FmywjkNEgz0A3GYe18df/2Z3ZXZUkr1DmV+fIeEBFAmXefsVJg1P1ZRQ1ItA3MYOEjEbV9vA/RBR4118uB3Rc23G3CgBaKKoqMF2yUuVzxCRuPQTeXm/pgSiFgkF0nNJSjriUJ+oauLJ2IqQjQQwYVuZ7VGsDuoiSrylo9aSUgGbURVEeqKpZDtzwXlXWIuOKbl18rRcTUlVt/ezj6tIpvN/JtVIUcEUK9qJ4Xo60cHQbFnaGozfFtb1mApcn162vSlylH1o+ChnaLLQKuR0kSUzKm+hafpt7OW3B6nEDn5eEb+SZxLA8jR6LNjn+capJFK38ta3KY+fC2OEb+2S1KFytsxzCNP+VMFhiRwZrYdCyfnQ/C1kvl7cDq4CWRREtevk595eRjA9jS0zS2cgychLQFQyE0ZQFXwzk/ol/kcBuJT986zEzuiiLEqDsSg==;8rPyLlEpjx2yH939eDmoxw=="
 ---

@@ -675,24 +675,33 @@
     {
       "path": "_news/2022-06-02-biologically-plausible-spatiotemporal-adjustment-helps-train-deep-spiking-neural-networks.md",
       "title": "Biologically plausible spatiotemporal adjustment helps train deep spiking neural networks",
-      "excerpt": "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However ...",
+      "excerpt": "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However, the biggest problem restricting the development of SNNs is the training algorithm.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/954275",
-      "originalUrl": "https://www.eurekalert.org/news-releases/954275",
+      "webUrl": "https://techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/biologically-plausible.jpg",
+          "width": 762,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T08:21:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-biologically-plausible-spatiotemporal-adjustment-deep.amp",
+      "publishedDateTime": "2022-06-02T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

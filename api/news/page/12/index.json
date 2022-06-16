@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-04-artificial-intelligence-will-never-replace-these-skills.md",
+      "title": "Artificial intelligence will NEVER replace THESE skills",
+      "excerpt": "According to a McKinsey report, depending on the adoption scenario, automation will displace between 400 and 800 million jobs by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945",
+      "originalUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/06/04/2139148-untitled-design-2022-06-04t160005.913.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp",
+      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp",
+      "publishedDateTime": "2022-06-04T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DNA India",
+        "domain": "dnaindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-artificial-intelligence-spotted-inventing-its-own-creepy-language.md",
       "title": "Artificial intelligence spotted inventing its own creepy language",
       "excerpt": "An artificial intelligence program has developed its own language and no one can understand it. OpenAI is an artificial intelligence systems developer – their programs are fantastic examples of super-computing but there are quirks.",
@@ -1066,8 +1109,8 @@
       "title": "Artificial intelligence scans for weapons, but faces criticism from some",
       "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "originalUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "webUrl": "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "originalUrl": "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1084,13 +1127,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "ampWebUrl": "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox47news-com.cdn.ampproject.org/c/s/www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
       "publishedDateTime": "2022-06-03T08:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KSTU",
-        "domain": "fox13now.com",
+        "name": "WSYM-TV",
+        "domain": "fox47news.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1100,40 +1143,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-pinterest-pins-acquires-ai-powered-shopping-platform-the-yes.md",
-      "title": "Pinterest (PINS) Acquires AI-Powered Shopping Platform The Yes",
-      "excerpt": "The acquisition is believed to help Pinterest accelerate its initiative to evolve as a “home of taste driven shopping” platform. The Yes, a startup founded by CEO Julie Bornstein in 2018, provides a personalized feed-based shopping platform based on users’ preference of brand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes",
-      "originalUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp",
-      "publishedDateTime": "2022-06-03T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

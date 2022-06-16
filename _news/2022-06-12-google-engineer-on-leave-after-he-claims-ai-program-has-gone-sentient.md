@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artifici
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
 type: article
 quality: 89
-heat: 719
+heat: 709
 published: true
 
 provider:
@@ -529,20 +529,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The Google engineer who thinks the company’s AI has come to life"
-    excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
-    publishedDateTime: 2022-06-11T14:39:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 41
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7T4I4JHIOEI6ZJBCCG53SHNTBM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Google sidelines engineer who claims its AI is sentient"
     excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company’s most advanced technology."

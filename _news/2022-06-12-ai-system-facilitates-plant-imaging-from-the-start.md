@@ -51,6 +51,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
+  - title: "Satellite images and artificial intelligence systems facilitate whales census and conservation work"
+    excerpt: "A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work."
+    publishedDateTime: 2022-06-16T07:51:00Z
+    webUrl: "https://en.mercopress.com/2022/06/16/satellite-images-and-artificial-intelligence-systems-facilitate-whales-census-and-conservation-work"
+    type: article
+    provider:
+      name: Uruguay News
+      domain: mercopress.com
+    quality: 23
+    images:
+      - url: "https://en.mercopress.com/data/cache/noticias/88533/600x315/watchingwhales1.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "P3wRXsW7ASn5tRLJwbifCbuc3c/IK8zp0hG7rtGlygn/nxtfH8jpnxdPZghB47duvJXwzAmDeCy+VJHohjjmNTj1LetVYX5ceSVl9oR125MeBF0Bv60Looo5sU0Vkrhq7KOQm3dxAf2IFyRsQWbn3KuQwWUDnW5GoQ7XUEGdrkNsvMev4ed+J9yLgW9fFthySQu1f7Yq8mSYEZ5fHI1qN3fO8WihWuKTW3J3MEAFCv14b4+djdxLXJZ38fwf6ybVT27z7Nf6gNH+d9l0bcl8ivlC+ldotv2RGFZGM+wyGSRub929kGnMbsqQW4hVPo80QHp6557oC1VaYkMXnb2WGsxwdaBKMv+oPdMdKp6YAWsYzLYLgOAU1BTpXQGDAx7OcNPptSx4v3kWaF4qlUUVAFc7/nffZRKUguk5LQurg0XdGJuAqsCJtO4nlknhfacc1KRwH/ktUahrcI/MEJ9VtGgd+qeN2FZcySt/sVK/v4mTOl4YCxY1haDEBjMYN30H7guktnkjxIRorY41QsOGIQ==;WXCSgV9tKpw+C38I485rfg=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Tesla leads automakers in self-driving vehicle crashes: US regulator"
-excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data US auto safety regulators released on Wednesday."
-publishedDateTime: 2022-06-15T18:56:00Z
-originalUrl: "https://bdnews24.com/automobile/2022/06/16/tesla-leads-automakers-in-self-driving-vehicle-crashes-us-regulator"
-webUrl: "https://bdnews24.com/automobile/2022/06/16/tesla-leads-automakers-in-self-driving-vehicle-crashes-us-regulator"
-ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/2076838"
-cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/2076838"
+title: "Tesla Leads Automakers In Self-driving Vehicle Crashes -U.S. Regulator"
+excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data U.S."
+publishedDateTime: 2022-06-15T19:00:00Z
+originalUrl: "https://www.ibtimes.com/tesla-leads-automakers-self-driving-vehicle-crashes-us-regulator-3540602"
+webUrl: "https://www.ibtimes.com/tesla-leads-automakers-self-driving-vehicle-crashes-us-regulator-3540602"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: bdnews24
-  domain: bdnews24.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/06/16/tesla-160622-01.jpg/BINARY/tesla-160622-01.jpg"
-    width: 1024
-    height: 640
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/15/a-tesla-logo-is-seen-in-los-angeles.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -178,6 +176,6 @@ related:
       domain: ibtimes.com
     quality: 15
 
-secured: "CWn3SgBZhUBIrBf8CdgRQq9TtPIh9gNSz+fET5a7Fn/3vxIR53PfzHtY0iM0dogv9g4nsI18F8JPkjbMeb/4GPMPCGNUoQmifCbV+XU242PGjxCe+dCuB2Z8yLoiJxVIEs7vV7XbHFmp1rfnQ4V4iO8wdNVyhGt1s/6j6W86GCrWp7qir8KvKAatdPuDTfrQGPFK9lc43svpt9visDEAQODpSiA0Cfeqgwv9vNENBBfsnVo4+cyCFnrjgRnVvA4OihG61m3pHkQW0hEIxaP09JLs+HgvLBjnRpQq3zDs5KHMMdhdzNO88AMBid1Y8KAbViRunJiY0JBiE9x80SA7ZYDeRkQbAJcgiALFV385ZAY=;3p9Gyzqu6bGF08wTyQyynw=="
+secured: "RrFnd2I/ai9AHNY76uP+ne5xVtd+r0nmaH88X5BlDmZqgow1PuBYB2DslBlX5b9sYh3fHraO7jQHir5jIJmU4XKKCnFzEwsRakLYujIhzH7NvrJXV9ZdkdD7ckEcoW7K8DHMhpqg82fTz7hFVjJ2iWr/rBlF64zwh255L2mDFpLMnTu9mdimTocff3d3vf12GsGlr+jmH1zcC9aTZ1NOL68WER6X/Yb0EfW04vql2Gh/t+K4ZtPfcUgu8uJyqvWv5wSFHF5S44mTqlAxhXqVosL/blPCGJF9nGDjYn0wTwJR5TOQzKnEzfBd2p7eTuBz5anijeXPDm1SG3hXDpJEx9buhYZR4ynHIAgmGh/eQng=;e7wirSeoMPIVoqc9BsXpZw=="
 ---
 

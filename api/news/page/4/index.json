@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-12-lucem-health-launches-innovation-collaborative-to-offer-aiml-to-the-front-lines-of-healthcare.md",
+      "title": "Lucem Health™ Launches Innovation Collaborative to Offer AI/ML to the Front Lines of Healthcare",
+      "excerpt": "Lucem Health™ today launched the Lucem Health Innovation Collaborative,  a partner program designed to move clinical AI/ML innovation to",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/",
+      "originalUrl": "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Lucem-Health-Announces-Innovation-Collaborative-to-Bring-AI-ML-to-the-Front-Lines-of-Healthcare.png",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/",
+      "publishedDateTime": "2022-06-12T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-how-can-artificial-intelligence-be-the-next-big-thing-in-marketing.md",
       "title": "How can artificial intelligence be the next big thing in marketing?",
       "excerpt": "We all know that without a planned marketing strategy, a business cannot thrive. But, the marketing industry is going through a disruption, and as a result of this, we",
@@ -1098,49 +1142,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay.md",
-      "title": "Fintech startup HostBook raises $3 mn in series A funding led by Razorpay",
-      "excerpt": "Hostbooks intends to utilise the Series-A funding to further scale its operations and enhance its existing product suite",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/09/full/1631127536-5223.jpg?im=Resize,width=480",
-          "width": 480,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
-      "publishedDateTime": "2022-06-10T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

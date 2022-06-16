@@ -7,7 +7,7 @@ originalUrl: "https://www.ajmc.com/view/dr-mandy-lauw-reviews-youngeha-ai-and-et
 webUrl: "https://www.ajmc.com/view/dr-mandy-lauw-reviews-youngeha-ai-and-ethics-in-hematology-at-eha2022"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 420
     isCached: true
-
-related:
-  - title: "AI Holds Potential to Support Ethical Principles in Hematology—but There’s a Dark Side"
-    excerpt: "During a session at the 2022 European Hematology Association Congress, speakers discussed how artificial intelligence (AI) can help advance the principles of ethical medicine—but also how new technologies are being used to undermine the integrity of scientific research."
-    publishedDateTime: 2022-06-11T13:15:00Z
-    webUrl: "https://www.ajmc.com/view/ai-holds-potential-to-support-ethical-principles-in-hematology-but-there-s-a-dark-side"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 48
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/ad0f8aa77ab7ce46ba56ed439f02d160e78c6aed-1200x801.jpg?fit=crop&auto=format"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "hr0gYDS5AS9afCxl7CsEj0L+rZ7ohg3cCbG6Clr+behJi8fsTBfRXPB2YR3KYtYpLx+yHhFuVtMgD9VmxOZU21OybBh3n3ymFPwqn+VgWGJ/QallRFwJw2nuftaTog6njWUe/YDv/Kv57WbbeoNKxsS75or5OUrZGQS2EnOm5Mj7oN0jFiA7VLpImbYswtsiVJloBSAVLMHMiX1Eb9Q+d1hUJNGtTgfSr8FGX0iVPeWrwyEaiwM8K0REH8zVylsKKnDAYazNEgFGl/Mm0IeCwbJcuL9y/qjZsuMkacgAHab6SeC3+Itt4+rgF9Q6k3qbsQ3ddHAMMcscc6LwSUT6vy7bzGxxwF3mqC/Ml+KhU38=;ebstdzZir5whnKvIi2PGyw=="
 ---
