@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Did you know some Australian retailers use facial recognition on you"
-    excerpt: "Did you know major Australian retailers Bunnings, Kmart and The Good Guys are using facial recognition technology on their customers in stores? If you answered no, you’re not alone. According to an investigation by Choice,"
-    publishedDateTime: 2022-06-14T23:51:00Z
-    webUrl: "https://www.techguide.com.au/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/"
-    ampWebUrl: "https://www.techguide.com.au/amp/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/"
-    cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/"
+  - title: "Cheshire Police to roll out facial recognition technology"
+    excerpt: "Police in Cheshire will start using facial recognition technology in a bid to help identify offenders. The technology will be used retrospectively to compare images such as CCTV against pictures held on the police national database."
+    publishedDateTime: 2022-06-16T11:22:00Z
+    webUrl: "https://www.bbc.com/news/uk-england-merseyside-61823941"
+    ampWebUrl: "https://www.bbc.com/news/uk-england-merseyside-61823941.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-merseyside-61823941.amp"
     type: article
     provider:
-      name: Tech Guide
-      domain: techguide.com.au
-    quality: 74
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://www.techguide.com.au/wp-content/uploads/2022/06/FacialRecognition1-450x300.jpeg"
-        width: 450
-        height: 300
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18667/production/_125434999_7b1278fd-ad71-433c-8ca6-c277f7efc486.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Retailers face probe over use of facial recognition technology"
     excerpt: "Major retailers have defended their burgeoning use of facial recognition technology to record shoppers in-store."
@@ -51,194 +51,49 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "These Popular Retailers Are Being Investigated Over ‘Unethical’ Use Of Facial Recognition Tech"
-    excerpt: "CHOICE has launched an investigation into Kmart, Bunnings and The Good Guys after it learned they appear to be using (and storing!) facial recognition data of customers in their stores. In case you needed another reason to wear a mask."
-    publishedDateTime: 2022-06-15T01:22:00Z
-    webUrl: "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/"
-    ampWebUrl: "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/"
-    cdnAmpWebUrl: "https://www-pedestrian-tv.cdn.ampproject.org/c/s/www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/"
+  - title: "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families."
+    publishedDateTime: 2022-06-14T10:52:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
     type: article
     provider:
-      name: PEDESTRIAN.TV
-      domain: pedestrian.tv
-    quality: 62
-    images:
-      - url: "https://www.pedestrian.tv/wp-content/uploads/2022/06/15/Kmart-bunnings.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "CHOICE raises concern over Bunnings, Kmart and the Good Guys use of facial recognition technology"
-    excerpt: "Consumer group CHOICE is referring Kmart, Bunnings and The Good Guys to the Office of the Australian Information Commissioner over their use of facial recognition technology."
-    publishedDateTime: 2022-06-15T03:41:00Z
-    webUrl: "https://www.abc.net.au/news/2022-06-15/choice-investigation-major-retailers-using-facial-recognition/101153384"
-    ampWebUrl: "https://amp.abc.net.au/article/101153384"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101153384"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
+      name: The Conversation
+      domain: theconversation.com
     quality: 61
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=414&cropW=621&xPos=69&yPos=0&width=862&height=575"
-        width: 621
-        height: 414
+      - url: "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop"
+        width: 320
+        height: 208
         isCached: true
-  - title: "Australian retailers deploy facial recognition as privacy laws stall"
-    excerpt: "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint."
-    publishedDateTime: 2022-06-15T06:43:00Z
-    webUrl: "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/"
+  - title: "Here’s how Boca Raton police plan to join a facial recognition program"
+    excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology."
+    publishedDateTime: 2022-06-15T10:43:00Z
+    webUrl: "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html"
     type: article
     provider:
-      name: Innovation
-      domain: innovationaus.com
-    quality: 54
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 41
     images:
-      - url: "https://www.innovationaus.com/wp-content/uploads/2022/06/CCTV_Camera_800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Facial recognition technology used at retail stores Kmart, Bunnings and The Good Guys raises major privacy concerns"
-    excerpt: "A leading consumer advocacy group is cracking down on a \"creepy and invasive\" practice used by three major Australian retailers."
-    publishedDateTime: 2022-06-15T05:29:00Z
-    webUrl: "https://www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35"
-    ampWebUrl: "https://www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 52
-    images:
-      - url: "https://content.api.news/v3/images/bin/a50514ba0e9927a8982d6d412e1cf112"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "BitIq Review (Australia & Canada): Is BitIq Trading Robot Safe? Shocking Australia Report"
-    excerpt: "BitIq is a Bitcoin investment platform that promises to make investing straightforward, rewarding, and low-risk for its consumers. Through the application of artificial intelligence, trading possibilities on the cryptocurrency markets are recognized."
-    publishedDateTime: 2022-06-13T09:32:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 50
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/BitIQ_1655112613.jpg"
+      - url: "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Call for ban on facial recognition following claims retailers are using it illegally"
-    excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
-    publishedDateTime: 2022-06-16T01:20:00Z
-    webUrl: "https://www.crikey.com.au/2022/06/16/facial-recognition-technology-bunnings-kmart-choice-report/"
+  - title: "Cheshire Police to start using facial recognition technology"
+    excerpt: "CHESHIRE Police officers will soon be able to use facial recognition technology to help them identify offenders."
+    publishedDateTime: 2022-06-16T10:44:00Z
+    webUrl: "https://www.chesterstandard.co.uk/news/20214563.cheshire-police-start-using-facial-recognition-technology/"
     type: article
     provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 47
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/AdobeStock_225167589-copy.jpg"
-        width: 740
-        height: 400
-        isCached: true
-  - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
-    excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’ Bunnings, Kmart and The Good Guys have been using facial recognition technology in a bid to crack down on theft in-store,"
-    publishedDateTime: 2022-06-14T16:30:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/92f9b66ff93cb5d8b314b9b8a65f42d30e6c36c4/0_0_1518_890/master/1518.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8b6c36542299078a01a3ae345f2ec0a5"
-        width: 600
-        height: 352
-        isCached: true
-  - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
-    excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’"
-    publishedDateTime: 2022-06-14T17:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says?amp;amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/92f9b66ff93cb5d8b314b9b8a65f42d30e6c36c4/0_0_1518_890/master/1518.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8b6c36542299078a01a3ae345f2ec0a5"
-        width: 600
-        height: 352
-        isCached: true
-  - title: "2 ASX companies busted for sneaky facial recognition on customers"
-    excerpt: "Three major retailers are accused of collecting the biometric data of everyone who walks through their doors without them knowing."
-    publishedDateTime: 2022-06-14T22:34:00Z
-    webUrl: "https://www.fool.com.au/2022/06/15/2-asx-companies-busted-for-sneaky-facial-recognition-on-customers/"
-    type: article
-    provider:
-      name: Motley Fool Australia
-      domain: fool.com.au
+      name: chesterstandard.co.uk
+      domain: chesterstandard.co.uk
     quality: 39
     images:
-      - url: "https://www.fool.com.au/wp-content/uploads/2022/06/facial.jpg"
-        width: 2121
-        height: 1193
-        isCached: true
-  - title: "What Of The Future Of Facial Recognition Growth In NZ?"
-    excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
-    publishedDateTime: 2022-06-16T04:20:00Z
-    webUrl: "https://business.scoop.co.nz/2022/06/16/what-of-the-future-of-facial-recognition-growth-in-nz/"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
-    images:
-      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Ethical outrage as major retailers including Bunnings and Kmart amp up facial recognition: Choice"
-    excerpt: "Hundreds of thousands of Australians are having their “faceprints” captured by major retailers without their knowledge, an investigation has found."
-    publishedDateTime: 2022-06-14T14:00:00Z
-    webUrl: "https://www.thechronicle.com.au/news/nsw/ethical-outrage-as-major-retailers-including-bunnings-and-kmart-amp-up-facial-recognition-choice/news-story/8b7269511d843a3f2581a691295f84c4"
-    type: article
-    provider:
-      name: The Toowoomba Chronicle
-      domain: thechronicle.com.au
-    quality: 38
-  - title: "Kmart, Bunnings and The Good Guys using facial recognition technology in stores"
-    excerpt: "CHOICE has discovered three major retail outlets in Australia are using facial recognition technology and shoppers remain largely in the dark about the practice."
-    publishedDateTime: 2022-06-14T06:53:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/kmart-bunnings-and-the-good-guys-using-facial-recognition-technology-in-store"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 35
-    images:
-      - url: "https://img.choice.com.au/-/media/905695f483e94e72bacbd1796f131d34.ashx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bunnings is among Australian retailers using facial recognition tech to identify who’s shopping in their stores"
-    excerpt: "Hardware giant Bunnings, Kmart and The Good Guys are capturing facial recognition data to identify individual customers in their stores"
-    publishedDateTime: 2022-06-15T00:00:00Z
-    webUrl: "https://www.startupdaily.net/topic/data/bunnings-is-among-australian-retailers-using-facial-recognition-tech-to-identify-whos-shopping-in-their-stores/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 34
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2021/11/AdobeStock_230414654-scaled-e1635941203975.jpeg"
-        width: 770
-        height: 500
+      - url: "https://www.chesterstandard.co.uk/resources/images/13885226/"
+        width: 650
+        height: 433
         isCached: true
   - title: "Three Major Aussie Retailers Caught Using Facial Recognition Technology In-Store"
     excerpt: "A recent consumer group investigation has found that three major Australian retailers have been utilising facial recognition technology without informing their customers. Bunnings, The Good Guys & Kmart have been caught out using facial recognition software which takes facial imprints of their customers and keeps them on file for future use."
@@ -249,24 +104,38 @@ related:
       name: Triple M Sport
       domain: triplem.com.au
     quality: 29
-  - title: "Kmart, Bunnings using facial recognition in-store"
-    excerpt: "Australian retailers Kmart, Bunnings, and the Good Guys are testing the use of facial recognition in their stores with limited consent from customers. According to a report from consumer group Choice,"
-    publishedDateTime: 2022-06-15T02:47:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/kmart--bunnings-using-facial-recognition-in-store.html"
+  - title: "Health organization moves to facial-recognition technology"
+    excerpt: "VHC Health – formerly known as Virginia Hospital Center – is slated to implement “positive patient identification” (PPID) using facial biometrics at its facilities, making VHC the first health-care sy"
+    publishedDateTime: 2022-06-13T15:53:00Z
+    webUrl: "https://www.insidenova.com/news/arlington/health-organization-moves-to-facial-recognition-technology/article_05d2e654-eb31-11ec-bc3c-ff10b9fe5278.html"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 19
-  - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
-    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
-    publishedDateTime: 2022-06-15T13:23:00Z
-    webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
+      name: INSIDENOVA.COM
+      domain: insidenova.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/custom/image/d67912d4-211a-11e6-ad8b-8f0a9483ff88.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"
+    publishedDateTime: 2022-06-14T12:45:00Z
+    webUrl: "https://techxplore.com/news/2022-06-facial-recognition-technology-ukraine-socontroversial.html"
     type: article
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 14
+    quality: 22
+  - title: "Bunnings, Kmart and Good Guys investigated by Choice over facial recognition technology: ‘Like collecting DNA’"
+    excerpt: "Three major retailers are at the centre of an investigation over a ‘completely inappropriate use of technology’ to record customers - with most shoppers unaware they're being watched"
+    publishedDateTime: 2022-06-15T03:34:00Z
+    webUrl: "https://www.perthnow.com.au/business/retail/bunnings-kmart-and-good-guys-investigated-by-choice-over-facial-recognition-technology-like-collecting-dna-c-7170664"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 0
 
 secured: "ywuLWwY+YM510ZxWY3VPXIBtalMiJBWvrOiV5+GLFK6eyqm9TfGTLU1DNdxDUV9b7BCz4roO+ZIHEBVWOhLH42t+jm2T6gPgtFpEoeb4pT5vkP/iW9eK6Sx137RUALTW777eEFz44cBxyWxLV7a7JG0UTyAT1sDgkiJWM2JG1o9FJ4GpRM0q63Sn4tY8iyXV+IiabBjVBQmPa7XL1qWj7ndCpEED+BahY/i32wrgYPrqT/+IVre3rfRcBgWnU6dFRjqXTLr2Kjf+YjTqkwtZOp/Y7jlWqQVT+rN5jFGL1O8HJ/v2hv5Hf6/EaCE6xtwnEMT9UCg9G7M45yYEeIRq3Biun+tJ2yJEVhnY2laUvNefl6TJgL9eaGiKZaV+HQstueSkxjdl72FpxlZ+/2fdfFcwVACZzjc0Qicfp6d/xc7Q/8EavP52kLYjvTnOCIO4lMA6EbrlNpS/3e5JdXPxpz6QxG7xLv3WZhJbCo/WqkSaZFL/Xfhth/9I8HeqYsDGxPzFF2t0kOeEyz+J3JqRaw==;d7eMHSEPUenH6t5Y3w5aJw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 556
     isCached: true
-
-related:
-  - title: "AI Ethics And The Generational Transition From Digital Natives To AI Natives Growing Up Amidst Pervasive AI, Including Ubiquitous Self-Driving Cars"
-    excerpt: "Some predict that we will gradually shift from digital natives to AI natives, doing so in an upcoming generation. This has significant societal impacts. We examine this and look at self-driving cars and how AI natives dovetail into the matter."
-    publishedDateTime: 2022-06-12T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//629be2d0fe2639bdcecbc764/0x0.jpg?format=jpg&crop=1396,931,x252,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "hx54Tik8YINbkKHgWJ5JcX7HN8QPW8Q33yN8/rELAM1ZeY1WpOlXsRgdW0VGLYmpUD4qx75wdwMS5rfksFeVZGipVnu85p2rQezDBFB7Nz298KLzujuvdewE5F5hMZXyrT94vUQ0cPft1n3hfdZMmvzYrEfH7RxQSuKRNDOgeYaTXJ1FQ8VIZ6opSgMm0yICoHXZ6P27o3hAuYT5lhAp8kh9rEmj/z+svfacfqOLdOVIAvgFjs+dfDJtpOkPzBaizy2C9wFkITsfyY8oI30YU3CO2yu4In61rvbjVXdOFPCyinD2LEJYNNtp8PNZSENlFZwLDHgSdUvT/pviLha+QCMweUJhRWxTZDRE0QmbogJpgc9MVxJSj1ZBmrwvCjq4KGOvLJdpQ7gY+bSwrDYb5JvjbqufqEOYzVjfj3oTDSIy1+CM3VDmi2nfDch1GIkYL/nCGeEFCV50u9sTRxeW6F+dvuKIgIpmgoB/qQepUgipXP0bqqfnU6GZhOZ9g/VO+yiDdqrxBFFyoP1nDnFdnw==;LuMpupz34Wcvibq827109Q=="
 ---

@@ -69,15 +69,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Using Artificial Intelligence In Military Operations"
-    excerpt: "In modern warfare there is a necessity to keep pace with the volume and complexity of data being generated and the US military is turning to AI."
-    publishedDateTime: 2022-06-15T08:30:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/using-artificial-intelligence-in-military-operations-6335.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 21
   - title: "Outlook on the Artificial Intelligence in Marketing Global Market to 2027 - Development of Marketing Analytics Presents Opportunities"
     excerpt: "The Global Artificial Intelligence in Marketing Market is estimated to be USD 9.8 Bn in 2022 and is projected to reach USD 23.14 Bn by 2027, growing at a CAGR of 18.75%. Market dy"
     publishedDateTime: 2022-06-14T20:29:00Z

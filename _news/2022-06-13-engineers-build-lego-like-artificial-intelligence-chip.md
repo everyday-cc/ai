@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-lego-like-artificial-intelligenc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp"
 type: article
 quality: 78
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -86,6 +86,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 68
+  - title: "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip"
+    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s"
+    publishedDateTime: 2022-06-16T06:07:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 67
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Engineers Build LEGO-Like Artificial Intelligence Chip"
     excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip — like LEGO bricks incorporated into an existing build."
     publishedDateTime: 2022-06-14T15:14:00Z

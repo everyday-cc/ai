@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-16T08:30:00Z
 originalUrl: "https://www.heraldnet.com/opinion/comment-artificial-intelligence-will-tell-us-if-its-sentient/"
 webUrl: "https://www.heraldnet.com/opinion/comment-artificial-intelligence-will-tell-us-if-its-sentient/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"

@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
-    excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
-    publishedDateTime: 2022-06-15T03:42:00Z
-    webUrl: "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/"
+  - title: "Artificial intelligence may now have feelings"
+    excerpt: "Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. There have been some pretty creepy developments in the world of artificial intelligence, recently. One Google employee was put on leave for publishing a ..."
+    publishedDateTime: 2022-06-14T08:14:00Z
+    webUrl: "https://www.abc.net.au/triplej/programs/hack/hack/13929004"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/2012546-16x9-large.jpg"
+        width: 392
+        height: 221
+        isCached: true
 
 secured: "P7ZTdeAMHZUexFrznjE32ZwacrZnrUahBYCZnpqfkI5r36PGuY/HkoPaMUsCq0+hO4ObtTpt5eivvYV6UXq5wvnQy2y4J8Gn7HXFm8nFalpuAcMgjLB0dss32yPtsGQPCiqwsKLsqoLoT5oUVgkavMUT3jHZ2TM/KMsbxIQpczF5oWR2SWAIb+wtc4H5DlAiVjiqgKDS+0um/woBfQ5JwuqpPcrAtbbyAVIooxAsUv6rDkCcWSWPAnq5ul3AOE3eV+31A5lBRBDxjKRkXIKN6T5a0ijIhEkly0LKJ1TRjlCmGL2oCu232kFB4U8vgouFVoNRrNl5cyNnrPpZLkoqfZnJxJ/r1/DI+IeAAT3LVTM=;kD5wGE4UfMmWQt7TD/8C8g=="
 ---

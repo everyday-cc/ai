@@ -210,7 +210,7 @@
       "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -345,6 +345,41 @@
       ]
     },
     {
+      "path": "_news/2022-06-13-the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-383-billion-by-2027.md",
+      "title": "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027",
+      "excerpt": "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27667412",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412",
+      "publishedDateTime": "2022-06-13T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-synthetic-data-is-about-to-transform-artificial-intelligence.md",
       "title": "Synthetic Data Is About To Transform Artificial Intelligence",
       "excerpt": "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,",
@@ -353,7 +388,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1352,59 +1387,6 @@
       "topics": [
         "AI",
         "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-how-artificial-intelligence-brings-new-superpowers-to-supercomputers.md",
-      "title": "How artificial intelligence brings new superpowers to supercomputers",
-      "excerpt": "Nvidia also detailed multiple case studies of how its HPC innovations are being used to help enable AI for nuclear fusion and brain health research. HPC is not just about the world’s fastest ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/",
-      "originalUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-supercomputer.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/",
-      "publishedDateTime": "2022-06-06T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
         "AI in Autos"
       ]
     }

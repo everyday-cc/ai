@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-14-inrule-adds-automl-capabilities-to-its-ml-modeling-engine.md",
+      "title": "InRule adds AutoML capabilities to its ML modeling engine",
+      "excerpt": "InRule says that incorporating ML automation into its no-code decision platform enables enterprises to scale ML faster and more effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/",
+      "originalUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1252838354-e1655148284978.png?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/amp/",
+      "publishedDateTime": "2022-06-13T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-your-microsoft-teams-video-calls-will-soon-be-powered-by-ai-and-machine-learning.md",
+      "title": "Your Microsoft Teams video calls will soon be powered by AI and machine learning",
+      "excerpt": "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
+      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Microsoft-Teams-Crisp-smooth-1536x864-1.jpg?p=1",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp",
+      "publishedDateTime": "2022-06-13T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers.md",
+      "title": "Churn It Down: How Media Companies Can Use AI To Keep And Win Subscribers",
+      "excerpt": "With new challenges for streamers, and longstanding headwinds for many others in media, combatting churn has become more important than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3d955ea7f4b3cb1876076/0x0.jpg?format=jpg&crop=1260,709,x0,y96,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
+      "publishedDateTime": "2022-06-13T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-amds-ai-strategy-comes-into-view-with-xilinx-gpu-software-plans.md",
       "title": "AMD’s AI strategy comes into view with Xilinx, GPU, software plans",
       "excerpt": "Analysis After re-establishing itself in the datacenter over the past few years, AMD is now hoping to become a big player in the AI compute space with an expanded portfolio of chips that cover everything from the edge to the cloud.",
@@ -405,57 +562,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-13-google-engineer-says-lamda-ai-system-may-have-its-own-feelings.md",
-      "title": "Google engineer says Lamda AI system may have its own feelings",
-      "excerpt": "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrick's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-61784011",
-      "originalUrl": "https://www.bbc.com/news/technology-61784011",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-61784011.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-61784011.amp",
-      "publishedDateTime": "2022-06-13T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-13-what-exactly-was-googles-ai-is-sentient-guy-actually-saying.md",
       "title": "What Exactly Was Google's 'AI is Sentient' Guy Actually Saying?",
       "excerpt": "A software engineer working on the tech giant’s language intelligence claimed the AI was a ‘sweet kid’ who advocated for its own rights ‘as a person.’",
@@ -516,7 +622,7 @@
       "originalUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -745,6 +851,41 @@
       ]
     },
     {
+      "path": "_news/2022-06-13-the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-383-billion-by-2027.md",
+      "title": "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027",
+      "excerpt": "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27667412",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412",
+      "publishedDateTime": "2022-06-13T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-us-court-will-soon-rule-if-ai-can-legally-be-an-inventor.md",
       "title": "U.S. court will soon rule if AI can legally be an ‘inventor’",
       "excerpt": "Can artificial intelligence (AI) be legally listed as an inventor? After all, if AI can legally invent products, the number of patents on drug-discovery tools will shoot up fast. The issue is currently before a United States court.",
@@ -943,7 +1084,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -985,7 +1126,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1063,143 +1204,6 @@
         "name": "yourerie",
         "domain": "yourerie.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-over-400-sc-verdicts-translated-until-covid-stalled-ai-project.md",
-      "title": "Over 400 SC verdicts translated, until Covid stalled AI project",
-      "excerpt": "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
-      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/06/supreme-court.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
-      "publishedDateTime": "2022-06-12T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-half-of-finance-ai-projects-to-be-cancelled-by-2024.md",
-      "title": "Half of finance AI projects to be cancelled by 2024",
-      "excerpt": "CFOs face major barriers to scaling up the use of AI in-house and will increasingly turn to business process outsourcing (BPO) solutions to meet their digital transformation objectives",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
-      "originalUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bizzbuzz.news/h-upload/2022/06/12/500x300_1544750-ai.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
-      "publishedDateTime": "2022-06-12T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact.md",
-      "title": "Putting the ‘S’ in ESG: How AI and automation can drive social impact",
-      "excerpt": "Rather than taking the traditional training approach, we believe that AI and automation technologies have the potential to help companies reduce biases in processes at scale. Organizations can ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
-      "originalUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1204589722.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
-      "publishedDateTime": "2022-06-12T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

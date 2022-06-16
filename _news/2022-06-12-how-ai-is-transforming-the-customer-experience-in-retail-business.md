@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The #1 way AI is transforming grocery shopping"
+    excerpt: "\"It's pretty overwhelming to get your food right each week,\" says Alex Weinstein, Chief Digital Officer of Hungryroot an AI grocery company. \"Customers tell us all the time - it takes many hours each week to plan, shop for, and finally cook meals for their ..."
+    publishedDateTime: 2022-06-16T11:08:00Z
+    webUrl: "https://www.zdnet.com/article/1-way-ai-is-transforming-grocery-shopping/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5de1e47772871d2cdede7663cb5514cc764a5e8a/2022/06/08/adfb4415-c4ca-4702-9690-fe2133e65f9d/hungryroot.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "8c4AYin+4M1L6xHBdi78ikY3pL6tCagmhf2LgT3/gB9bZVkmC72KGGHrMtcDwhTd2TcE6sRQUvNy/GF9xxZfCyiC7OJ64mWcEYKMjpXjQAKFKTV4Hfynu5/Me7J0drNxSCF2umyIJBvxj0hGaqM9o2lwJT53Ze+DIN61IQNToFMb8EXgmhgkchm9T7W7i37ALEHcr6f/PQG/8jVr1FQA46AXe6MFAHGs0j0LKehpwZB6ycvqmMapBX3cXkRbVIIRGFgDS4Id4kIzBXtzfiBTft0UIG8d7+XTdv7AjVLXKRmPhd1HXhniHocVZHDEoTto1WcGMSHfixr/ksZSpegbT8spZrfT1cqXwrwnQ984i3Y=;kaRmlZdk3l+s6fSclOcE+w=="
 ---

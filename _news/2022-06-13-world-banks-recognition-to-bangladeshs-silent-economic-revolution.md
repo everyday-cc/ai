@@ -54,17 +54,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Open Banking Fintech Bud Secures $80M to Scale Lending, Personalization AI"
-    excerpt: "Bud, an Open Banking Fintech firm established in 2015, recently completed its Series B investment round totaling $80 million."
-    publishedDateTime: 2022-06-13T01:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
   - title: "Huawei announces new Inventions revolutionising AI, 5G, and user experience"
     excerpt: "Huawei announced a batch of key inventions as part of its biennial “Top Ten Inventions” Awards at the “Broadening the Innovation Landscape 2022” forum held at its Shenzhen headquarters.The award is designed to recognize inventions that could create ..."
     publishedDateTime: 2022-06-12T23:41:00Z

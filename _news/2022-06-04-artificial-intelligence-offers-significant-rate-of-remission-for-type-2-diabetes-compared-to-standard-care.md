@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg"

@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Here’s how Boca Raton police plan to join a facial recognition program"
-    excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology."
-    publishedDateTime: 2022-06-15T10:43:00Z
-    webUrl: "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 41
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "xdQCnA/pxxPIEY8rfSNQ+b096uNYxRfHJWtF/Bt7B72NHg5z8vQkn8dQULUJaa/ukAlSrvPjpcmUcRi/6MbEqcRWseOwFlXHAUi0v0ujdpNRy5vvbxHlxsgzqWUyQup5SeW/FahdIb9L/Jl8P6mdckCSNCiuYeoLvTa2GkVsG42LY7XmwAFna0J2+9tsX078Za94a0oqyPWwKkQGhbTefYA/3rQpax4UIqHRewciOO+++Hvc264JUwzyqtWyOVfFth7x0pmSvNGW+AHtnpfCPOiHBdsKncSfs7tI9S68PPrtH/In0O/o2vdRmb6lT7J/Exahb8MKtRKk0wf1Lt5G6f3Q/HaemlnLsBNaTWfvzzxFL7yP3+E/VbrAAbaxExeDmKWmPVXaVAhrUqKoRTxtz3isT93N9lfDbFmAaoszbyFbBNnm4iWAAvpQ4JFtTeJakTnirY625exrjPr/oPGwgjmvp8FBSmRQ90Jvg6zyOkUKQUgLzioa2c5Gp8NT0hbWP3aYno9sWt/6J7oKoInWgw==;F/fJn5lhtO1k0oEYvbO/8Q=="
 ---

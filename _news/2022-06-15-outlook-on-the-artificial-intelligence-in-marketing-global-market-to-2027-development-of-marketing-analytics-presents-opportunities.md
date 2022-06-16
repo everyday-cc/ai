@@ -69,15 +69,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Using Artificial Intelligence In Military Operations"
-    excerpt: "In modern warfare there is a necessity to keep pace with the volume and complexity of data being generated and the US military is turning to AI."
-    publishedDateTime: 2022-06-15T08:30:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/using-artificial-intelligence-in-military-operations-6335.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 21
   - title: "How Geo-Enabled Analytics Improve Outdoor Intruder Detection"
     excerpt: "Smart security cameras use video analytics to detect intruders by automatically “seeing” movement and sending alerts. While this solution works quite well in stable, indoor environments, just imagine what a smart camera must contend with outdoors – where everything moves,"
     publishedDateTime: 2022-06-13T14:49:00Z

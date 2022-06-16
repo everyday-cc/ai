@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 998
         isCached: true
+  - title: "Microsoft launches new AI-powered Viva Sales tool"
+    excerpt: "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams."
+    publishedDateTime: 2022-06-16T07:29:00Z
+    webUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html"
+    ampWebUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 91
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/woman_with_headset_engaged_in_discussion_via_video_conference_teleconferencing_online_meetings_virtual_events_training_by_fizkes_gettyimages-1198252567_2400x1600-100857863-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Microsoft Teams uses AI and machine learning to improve calls and meetings"
     excerpt: "Disruptive echo effects, poor room acoustics, and choppy videos are some common issues that can detract from the effectiveness of online calls and meetings. Through AI and machine learning, which have become fundamental to our strategy for continual improvement,"
     publishedDateTime: 2022-06-13T13:00:00Z

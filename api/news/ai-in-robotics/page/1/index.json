@@ -122,49 +122,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-15-do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot.md",
-      "title": "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot",
-      "excerpt": "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/",
-      "originalUrl": "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-15-the-3-things-an-ai-must-demonstrate-to-be-considered-sentient.md",
       "title": "The 3 things an AI must demonstrate to be considered sentient",
       "excerpt": "Everybody's talking about the Google engineer who thinks a company chatbot is sentient. But what does sentience mean?",
@@ -456,6 +413,41 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-383-billion-by-2027.md",
+      "title": "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027",
+      "excerpt": "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27667412",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412",
+      "publishedDateTime": "2022-06-13T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -843,8 +835,8 @@
       "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
       "excerpt": "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

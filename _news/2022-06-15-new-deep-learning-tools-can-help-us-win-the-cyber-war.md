@@ -24,6 +24,22 @@ images:
     height: 745
     isCached: true
 
+related:
+  - title: "How Machine Learning Can Help Fight Cancer"
+    excerpt: "Cancer is the second leading cause of death globally. Machine learning improves the accuracy of detecting and predicting cancer susceptibility. But how do algorithms work? Let's figure it out."
+    publishedDateTime: 2022-06-16T05:30:00Z
+    webUrl: "https://www.state-journal.com/sponsored/how-machine-learning-can-help-fight-cancer/article_fa2061f4-ed62-11ec-b863-930bda429e1f.html"
+    type: article
+    provider:
+      name: State Journal
+      domain: state-journal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/state-journal.com/content/tncms/custom/image/756ad790-f8a2-11e8-9f46-7b6b764fb9ed.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+
 secured: "UBRAVseB/v+SgTPnQft31a6aLilvlpDZW50cPJDpRWbzWo0LPJsedX/JpKdbDDc5Ly4tjpRW6roOFYQ2n7YC/YhlIaUU+n+wGl4BRHTrL9Kbv9ho99Gapk55VZ5We2b+Srce/PHLj6WkplPpexV5x3yPYP1zyaVQejEY1DcmMesWGtH7J+1eaNsNc7+kploz1wZT09b+Wupo48VbKh0PLXTou2F1Cc2IdRLsFmmsmsMmcMMxaCvA4xAXQ6ScKj/I+XKeiljmDbG6AW3DB9iXHwAXMFpUmtT0x4QYNpOdongbWIKX2bFaojYfPdIb2ANfSgdE38I5QwwPtqrS5p3MJbeBtLJuwfAFSPaH+iTpSp0Ko2LugZur+5yRK7K5lnXIP5SqAofMiWKFkmD0i87PwCiyAORkXI9/3UA/3oiQtOB7slGnJmyASpKW5TvFqsECaqFXtTHg40hwskskckysrUUhQCOA0Haf4vsLeRxUyk5wbZnzSU6GnracAMKQ2wRKIv2vhOlyOOxhuMqjfXNp8A==;BoCL/HGGEyn6FGgB6XMSUA=="
 ---
 

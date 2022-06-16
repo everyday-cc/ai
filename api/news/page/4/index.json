@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-13-over-400-sc-verdicts-translated-until-covid-stalled-ai-project.md",
+      "title": "Over 400 SC verdicts translated, until Covid stalled AI project",
+      "excerpt": "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
+      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/06/supreme-court.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
+      "publishedDateTime": "2022-06-12T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-half-of-finance-ai-projects-to-be-cancelled-by-2024.md",
+      "title": "Half of finance AI projects to be cancelled by 2024",
+      "excerpt": "CFOs face major barriers to scaling up the use of AI in-house and will increasingly turn to business process outsourcing (BPO) solutions to meet their digital transformation objectives",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "originalUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bizzbuzz.news/h-upload/2022/06/12/500x300_1544750-ai.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "publishedDateTime": "2022-06-12T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact.md",
+      "title": "Putting the ‘S’ in ESG: How AI and automation can drive social impact",
+      "excerpt": "Rather than taking the traditional training approach, we believe that AI and automation technologies have the potential to help companies reduce biases in processes at scale. Organizations can ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
+      "originalUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1204589722.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
+      "publishedDateTime": "2022-06-12T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-google-engineer-on-leave-after-he-claims-ai-program-has-gone-sentient.md",
       "title": "Google Engineer On Leave After He Claims AI Program Has Gone Sentient",
       "excerpt": "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine.",
@@ -1014,144 +1151,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-ibm-cio-kathryn-guarini-on-being-ibms-first-customer.md",
-      "title": "IBM CIO Kathryn Guarini on being IBM’s first customer",
-      "excerpt": "Since deploying AI for customer support issues, Guarini says IBM has seen a 26% reduction in time-to-resolution of customer support cases. Having come from the IBM Research Division, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html",
-      "originalUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/20210305-IBM-Kathryn-Guarini-crop.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html/amp",
-      "publishedDateTime": "2022-06-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-tesla-secures-multi-billion-dollar-deal-with-samsung-for-new-cameras-for-self-driving.md",
-      "title": "Tesla secures multi-billion-dollar deal with Samsung for new cameras for self-driving",
-      "excerpt": "Tesla has reportedly secured a multi-billion-dollar deal with Samsung to get new cameras for its self-driving sensor suite. Tesla’s Full Self-Driving (FSD) program relies on cameras to get imagery to feed its neural nets.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
-      "originalUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
-      "publishedDateTime": "2022-06-10T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-loading-remote-data-in-tff.md",
-      "title": "Loading Remote Data in TFF",
-      "excerpt": "In a production environment, the raw data for a federated computation is typically distributed across machines and requires special preprocessing and loading before it's usable. This tutorial describes how to load data stored in those remote locations with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

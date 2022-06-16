@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Privacy bill would set out rules on use of personal data, artificial intelligence"
-excerpt: "The federal Liberals plan to introduce privacy legislation today to give Canadians more control over their personal data and introduce new rules for the use of artificial intelligence. The bill, to be presented by Innovation Minister Francois-Philippe Champagne,"
-publishedDateTime: 2022-06-16T08:03:00Z
-originalUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/privacy-bill-would-set-out-rules-on-use-of-personal-data-artificial-intelligence"
-webUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/privacy-bill-would-set-out-rules-on-use-of-personal-data-artificial-intelligence"
-ampWebUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/privacy-bill-would-set-out-rules-on-use-of-personal-data-artificial-intelligence/wcm/cb30bf64-78a4-4964-8ac2-4cfa5b460092/amp/"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/canada-news-pmn/privacy-bill-would-set-out-rules-on-use-of-personal-data-artificial-intelligence/wcm/cb30bf64-78a4-4964-8ac2-4cfa5b460092/amp/"
+excerpt: "The federal Liberals plan to introduce privacy legislation today to give Canadians more control over their personal data and introduce new rules for the use of artificial intelligence."
+publishedDateTime: 2022-06-16T11:22:00Z
+originalUrl: "https://www.cp24.com/news/privacy-bill-would-set-out-rules-on-use-of-personal-data-artificial-intelligence-1.5949411?cache=yes%3FclipId%3D89950"
+webUrl: "https://www.cp24.com/news/privacy-bill-would-set-out-rules-on-use-of-personal-data-artificial-intelligence-1.5949411?cache=yes%3FclipId%3D89950"
+ampWebUrl: "https://beta.cp24.com/news/2022/6/16/1_5949411.html"
+cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/6/16/1_5949411.html"
 type: article
 quality: 52
 heat: 52
 published: false
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: CP24
+  domain: cp24.com
 
 topics:
   - AI
 
 images:
-  - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/06/18307335-the-canadian-press.jpg"
-    width: 1000
-    height: 750
+  - url: "https://beta.ctvnews.ca/cp24/en/news/2022/6/16/1_5949411/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+    width: 1020
+    height: 574
     isCached: true
 
-secured: "iQKnatW4satgeMXKujJbQ7ZQ6PS92WZZ7CRiu4N10Wl0U8utUEJcBVPlGKMqJUVJF8D7vDO+bRYZuaSi8QD697D+ix/IBOZWQxDkzaVwiUaAs+qccv3VBSCbqxIq5hVN1GhDilYz/PR1a8t9nYtxuk69lqiwN65rK3hnudVCNWs68T6eWMmw12JEMWBq5nsOkyatjuldcQXSFh9uszPF8cnbhb8VJDHYgHDF9nq6CMuiC57XieaQ5UsddRqrZGSoRixwWi0EEQ9GCwx8QDA0d03Emfgh4CwZyxkx28jUZ0Ha/ceQcCaDz4a6Vc9PldZwZ92AmgcYTJN26fSC+PR/9NmRMyzaCVrG16ayqwVaCFM=;heMJ8EePawBuZiESM+jl5Q=="
+secured: "tm3oMuJQ4B6NQaIH2CBSHZghPl+4C6qZn2qpq/F9a0qri20ec2q6aHO8agE9hmvE6bb4crcqbcEHsomHATYipj0NvyKGkDaeOXWVaie5KT4hEw9TekRuRFzWHnRk8PnLZIBSrnC6TvI78voiNmjOuV2dWArRJI2LdvWEpBUQQD9O6KX/8fqsC/TQGWNz5LUXLNKLN9uUD0WC6PpIKtTQKLzwnpII9+3/6alLswKbq0z2BHLXzhpOxRwUVQTi1olayQTe9GKqLZJO0aeeEOLV0z3DESHwy6PiY2fz8aPFFO29hEMIjPNDAoWyDWfnNAM4I913NRwauMEkA+r8F7H1rJc/1The/KXaAmnZrdc95Rw=;TR7/5UzFAS5ZCg7nuSmBEQ=="
 ---
 

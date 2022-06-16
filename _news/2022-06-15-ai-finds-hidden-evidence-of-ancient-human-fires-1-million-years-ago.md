@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidenc
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

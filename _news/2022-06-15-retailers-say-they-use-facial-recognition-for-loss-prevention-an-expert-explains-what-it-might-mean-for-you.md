@@ -35,22 +35,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Retailers face probe over use of facial recognition technology"
-    excerpt: "Major retailers have defended their burgeoning use of facial recognition technology to record shoppers in-store."
-    publishedDateTime: 2022-06-14T23:22:00Z
-    webUrl: "https://thenewdaily.com.au/finance/consumer/2022/06/15/kmart-bunnings-facial-tech/"
-    ampWebUrl: "https://thenewdaily.com.au/finance/consumer/2022/06/15/kmart-bunnings-facial-tech/amp/"
-    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/finance/consumer/2022/06/15/kmart-bunnings-facial-tech/amp/"
-    type: article
-    provider:
-      name: The New Daily
-      domain: thenewdaily.com.au
-    quality: 74
-    images:
-      - url: "https://thenewdaily.com.au/wp-content/uploads/2022/04/1651129238-kmartsign.jpg?resize=960%2C540"
-        width: 960
-        height: 540
-        isCached: true
   - title: "These Popular Retailers Are Being Investigated Over ‘Unethical’ Use Of Facial Recognition Tech"
     excerpt: "CHOICE has launched an investigation into Kmart, Bunnings and The Good Guys after it learned they appear to be using (and storing!) facial recognition data of customers in their stores. In case you needed another reason to wear a mask."
     publishedDateTime: 2022-06-15T01:22:00Z
@@ -240,15 +224,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Three Major Aussie Retailers Caught Using Facial Recognition Technology In-Store"
-    excerpt: "A recent consumer group investigation has found that three major Australian retailers have been utilising facial recognition technology without informing their customers. Bunnings, The Good Guys & Kmart have been caught out using facial recognition software which takes facial imprints of their customers and keeps them on file for future use."
-    publishedDateTime: 2022-06-15T02:30:00Z
-    webUrl: "https://www.triplem.com.au/story/three-major-aussie-retailers-caught-using-facial-recognition-technology-in-store-201219"
-    type: article
-    provider:
-      name: Triple M Sport
-      domain: triplem.com.au
-    quality: 29
   - title: "Kmart, Bunnings using facial recognition in-store"
     excerpt: "Australian retailers Kmart, Bunnings, and the Good Guys are testing the use of facial recognition in their stores with limited consent from customers. According to a report from consumer group Choice,"
     publishedDateTime: 2022-06-15T02:47:00Z
@@ -257,15 +232,6 @@ related:
     provider:
       name: ia.acs
       domain: acs.org.au
-    quality: 19
-  - title: "The Good Guys stores using facial recognition technology revealed"
-    excerpt: "Major retail chain The Good Guys has revealed which of its stores have been fitted with new cameras that capture customers’ “faceprints”."
-    publishedDateTime: 2022-06-15T20:59:00Z
-    webUrl: "https://www.heraldsun.com.au/news/nsw/the-good-guys-stores-using-facial-recognition-technology-revealed/news-story/64c96abeca29d0c6333c600a62c64fd6"
-    type: article
-    provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
     quality: 19
 
 secured: "Y+aexDZlFBlox0k25ziskdr4uBHsQZxlH/uefK7yy5/qLY/3C32V3Ls6ybRPaD6MCkVjhLSzwefFM3hFxLOqxxsKRoY8+TYKX4ZVRg8t9DZVZRA0GcM2elnXIy2s430CCqeOMWBzJCmuijJmviQljjW5vP+Y8+GOekRFTALwmg3RP8/8WcCclrv5zJajni3kbu77FBz02sq5y+eQkSb+c2ZvD17ZDWHaJ9+CIaeN2bvES8BDFigh34+oM5QoiRF3BSIIV0xjrWl+2DXAm1IKCkVsW1soVtcXnfyhUVcTV0ypl81w1dOIbJLAYCHKvhv8VIf71cXdtGp2mtU7MwqfLCDkmNoKnFA37VUWtvodBrSvuUzduRMxTVUt7AnAfyMmZ/33mLP+PibmOwgn2+aGbMj6jwepKQvc4oyimyjyiUocQ5Z9sH6JxQmD/HQbzwtPSqagThK+B2uQBtZ9VALcnVO9KK0CNCAXTiS6AuY4BZ4iJaWG7HFpdbbvpuR3nR0l5gIa1mjEzC8U/puc8afJNA==;571JGb0rDf0rkuxDE8ytSg=="

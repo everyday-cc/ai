@@ -2,26 +2,23 @@
 category: news
 title: "IUNU Launches LUNA AI for Tomatoes at GreenTech Conference"
 excerpt: "AMSTERDAM, June 16, 2022 /PRNewswire-PRWeb/ -- IUNU today came out of stealth with a computer vision and AI platform designed for tomato growers. After over a year of development in partnership with commercial tomato growers, the product is now available ..."
-publishedDateTime: 2022-06-16T08:50:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/iunu-launches-luna-ai-for-tomatoes-at-greentech-conference/article_9e5db179-f465-5c04-9cbb-e9368d9990f3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/iunu-launches-luna-ai-for-tomatoes-at-greentech-conference/article_9e5db179-f465-5c04-9cbb-e9368d9990f3.html"
+publishedDateTime: 2022-06-16T09:19:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27734826/iunu-launches-luna-ai-for-tomatoes-at-greentech-conference"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27734826/iunu-launches-luna-ai-for-tomatoes-at-greentech-conference"
+ampWebUrl: "https://www.benzinga.com/amp/content/27734826"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27734826"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "10 Computer-Generated Greentext Stories From The Latest AI Trend"
@@ -39,6 +36,6 @@ related:
         height: 450
         isCached: true
 
-secured: "fXyI0Ckf0nOtnhug2mHHQgistw0wRfCwaeGfr7bfILCM4xkOnWKd9u6+1qDVgo1xcgzLXgd+WkvBDmKbX283EGLpiUSWgNQN9WgyVQmXNwuGwj8PKpg4izbHXiXkr+dQszjsY2WmzB/E03mlRmnxGFl3C09BkYiznzi5pGiahbKRaEirsYCE8+zVXv6ylXCnVGQ5Rsdweixza32gEiABw4IiB1otZPCVXS1rXNMwkS0XhnhCoX+uXPB0AdQCsMiSFRdbUQ0krdEn3UMIz11cVcUqbLOWWDS1vxlTVehZMaZhfxmWoDRSSvW4pwRIdYcWaKLS6T/i0Vn7kcnVJxh1sPswSk1ISKa8YQN2/R95dbY=;hE7uDgG95gk0I6gMOwu0Gw=="
+secured: "v2V3bVpI6AIyOGQSC3Q0/RPyAbqp9evo+LnJNqjoV3UGhJQ/M+jnrPP5SYZcsQCuCBB+IHz1Ba7h4Nm1nF5XOtUZ6VLAeAK+YOJmBdsqJFFWrl+sKO/PrU28txcFxNV50ofTFSXu85TYH4Kut1mMdePL4MiePw4SecQZoJt6hMmid656lDOI7FfUiNHAZDrnyeIShDily6iHHehTjT9oY/i+xjDSJ2ox0wiy8GNShWq+BOxAgxP3w6YuqnDGX9T28exMQRnHgd2fDV6dIwIikqt7tV5Ed4T6qmIZtw87NNxAGPZZh8LEm4xn3ktaPc+42eXel8R3pVwbGQMC6iLV23D3wSyBejSAlxiO+bOomfs=;fwWQW3AGvfXzeLa9vQ7+4w=="
 ---
 

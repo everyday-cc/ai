@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s how Boca Raton police plan to join a facial recognition program"
-    excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology."
-    publishedDateTime: 2022-06-15T10:43:00Z
-    webUrl: "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 41
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Groups launch research program to study police facial recognition in Ontario"
     excerpt: "Joint research program to explore the implications of facial recognition by law enforcement and seek answers to questions surrounding the biometric modality."
     publishedDateTime: 2022-06-14T17:06:00Z

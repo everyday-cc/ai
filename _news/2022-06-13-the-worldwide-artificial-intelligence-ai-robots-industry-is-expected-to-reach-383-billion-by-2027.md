@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27667412"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Benzinga.com
@@ -33,6 +33,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 36
+  - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-06-16T11:11:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "cqB4cgY0+QvKSFL2OJgENycNxADiiaJ7adlliDXNRiUvXUoVTYYMFLwIg/2Q5Y11HwVobv2RxYBFm1b7KvUy//ZkZay9ksMrRmyOlttSxaczx/iHrWojqzCXPFcrDaZGV8rnK+Lrx5mksC9BJyvm3M0ZuPl+UrQvXl9fDLMxZLhG7zUo3PlnEfWYPh6kWSoBpA0ITnwleHTsvnHw64a2Gyy8YhE5n4JEgWROa0G5QTmPKqcC+sdP1b6eMl28ZkOfyOXsOXMgLFQFHtcp6yf5DGqprKL/BTCv7IEFx9Ff4ag4Dua5GQ04xIWanaRqP34uBc0DFSuzSnTrb0KYyt4lEGy8uv2SSZXWltrHMtUq+Ig=;KVQMRwPuKrvK6oq7A+ZsDQ=="
 ---

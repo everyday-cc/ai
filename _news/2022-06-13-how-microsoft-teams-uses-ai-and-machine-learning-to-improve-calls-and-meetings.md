@@ -78,6 +78,22 @@ related:
         width: 1280
         height: 998
         isCached: true
+  - title: "Microsoft launches new AI-powered Viva Sales tool"
+    excerpt: "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams."
+    publishedDateTime: 2022-06-16T07:29:00Z
+    webUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html"
+    ampWebUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 91
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/woman_with_headset_engaged_in_discussion_via_video_conference_teleconferencing_online_meetings_virtual_events_training_by_fizkes_gettyimages-1198252567_2400x1600-100857863-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
     excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
     publishedDateTime: 2022-06-15T20:56:00Z
