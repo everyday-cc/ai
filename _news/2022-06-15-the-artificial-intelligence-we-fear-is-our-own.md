@@ -6,9 +6,9 @@ publishedDateTime: 2022-06-14T17:18:00Z
 originalUrl: "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own"
 webUrl: "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: PC Magazine
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg"

@@ -40,6 +40,22 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "UAE to boost rainfall using AI in cloud seeding operations"
+    excerpt: "The project will use artificial intelligence (AI) to achieve enhanced rainfall prediction. The project's focal point will be the creation of an AI research and operations testbed in the UAE. An AI framework will be built to combine satellite observations ..."
+    publishedDateTime: 2022-06-16T09:07:00Z
+    webUrl: "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations"
+    ampWebUrl: "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 57
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=b0d9d4ee-9a74-54e9-ade5-de268934f040&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dubai will use artificial intelligence to speed up bus journeys"
     excerpt: "City Brain is expected to increase bus ridership by 17 percent. Dubai will use artificial intelligence to speed up bus journeys. . News."
     publishedDateTime: 2022-06-14T11:47:00Z

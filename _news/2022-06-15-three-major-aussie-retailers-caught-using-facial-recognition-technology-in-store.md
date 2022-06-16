@@ -249,6 +249,15 @@ related:
       name: ia.acs
       domain: acs.org.au
     quality: 19
+  - title: "The Good Guys stores using facial recognition technology revealed"
+    excerpt: "Major retail chain The Good Guys has revealed which of its stores have been fitted with new cameras that capture customers’ “faceprints”."
+    publishedDateTime: 2022-06-15T20:59:00Z
+    webUrl: "https://www.heraldsun.com.au/news/nsw/the-good-guys-stores-using-facial-recognition-technology-revealed/news-story/64c96abeca29d0c6333c600a62c64fd6"
+    type: article
+    provider:
+      name: heraldsun.com.au
+      domain: heraldsun.com.au
+    quality: 19
   - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
     excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
     publishedDateTime: 2022-06-15T13:23:00Z

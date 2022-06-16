@@ -3,25 +3,25 @@ category: news
 title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
 excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
 publishedDateTime: 2022-06-15T14:22:00Z
-originalUrl: "https://www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-webUrl: "https://www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-ampWebUrl: "https://www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+originalUrl: "https://www.boston25news.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+webUrl: "https://www.boston25news.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+ampWebUrl: "https://www.boston25news.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+cdnAmpWebUrl: "https://www-boston25news-com.cdn.ampproject.org/c/s/www.boston25news.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: WPXI
-  domain: wpxi.com
+  name: boston25news
+  domain: boston25news.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+  - url: "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 810
         isCached: true
 
-secured: "+v0htwDw/zgs8HxxGxPR1GnaqKkNpDdQwsKyGOdQeXjTwl2TEw33s/g5XeSB+pOoy9wckwYRBpy1q5sZWsyw/v74gXz5Vfcysb6nApha4VU+yEFm6MVnNUBDvLCFnhM6aQ5nRINy5+F1GyIARJz7bXKtPm6ywP98xfOuhQESrYVAsSTvQOS3c3fop5fbxq/VIcK8Bktm1dVcWUjwmVfaRmYLV5eklcPVBvYm9mUUTlrCGj/hlxVlFioiDbel/mjXkd4sR2fi4IukvN+3xUcEokoMBDIm/fUN9Hivu6/FQHPLRdcZN+iNsEYzIRw71k67hkAYCsIbtlXGpMDptKS/TJzd4tY/jBRbSdBoXAFvuKk=;oMJRrAlt9to+zbKs5JoRKw=="
+secured: "K9eoGiuoRhs0PCs9mxoY6eDGipMLLmrbEmNygCC5mYNh0DhQC6Gd/fCrNxOrdw/y+1A4nqUW1uuYVVoRpr52gFZKyj7tTeT+ap9XPh9OGme4eL4XGkPQcT7YixbieTP8+/k88Jpu12lop3dSXfbKVqj985ePr2N8MO70vAOFFJ4sVkBMyK53Xz2imiQoRnS/gaMcnHi7zMI1aMxQetkfPclUeKf5uN5evzPHtxAd/Fl39BE63coMecbribk7Fg+8RMLg9isxB23fZ/2iVyNWxDXsGQUBz4Q8nLaMzJUnSkzFTXuY3XRSbLPsSZwz6a+ZpiOS8acJcQMA7aMfAB0Vr1UbTOFI5nT2LwS6wHUjqqE=;ASPGJ2fEJjaDw/suU6musA=="
 ---
 

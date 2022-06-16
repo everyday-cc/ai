@@ -30,16 +30,16 @@ related:
   - title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
     excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
     publishedDateTime: 2022-06-15T14:22:00Z
-    webUrl: "https://www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-    ampWebUrl: "https://www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+    webUrl: "https://www.boston25news.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+    ampWebUrl: "https://www.boston25news.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-boston25news-com.cdn.ampproject.org/c/s/www.boston25news.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
+      name: boston25news
+      domain: boston25news.com
     quality: 32
     images:
-      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+      - url: "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
         width: 1440
         height: 810
         isCached: true

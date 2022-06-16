@@ -138,6 +138,38 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Could artificial intelligence become sentient?"
+    excerpt: "What if the AI had some sentient qualities that we did not, and it judged us to be only imperfectly sentient? (“Those fools spend their lives asleep!”) Would we just have to accept that judgement? Or can we get away with arguing humans have a unique perspective on truth?"
+    publishedDateTime: 2022-06-16T09:31:00Z
+    webUrl: "https://gulfnews.com/opinion/op-eds/could-artificial-intelligence-become-sentient-1.88600826"
+    ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/could-artificial-intelligence-become-sentient-1.88600826"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/could-artificial-intelligence-become-sentient-1.88600826"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 57
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/06/15/OPN-Artificial-Intelligence_18166c197a7_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+  - title: "Science for All | How do you know if an AI program is sentient?"
+    excerpt: "The word “sentient” is defined by the Merriam Webster as “responsive to or conscious of sense impressions; Aware; Finely sensitive in perception or thinking” – Humans are sentient beings, hence an AI that incorporates sentience is vying with humans in intelligence."
+    publishedDateTime: 2022-06-16T08:57:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://www.thehindu.com/incoming/stpnzh/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "No, Google’s AI is not sentient"
     excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
     publishedDateTime: 2022-06-14T15:52:00Z

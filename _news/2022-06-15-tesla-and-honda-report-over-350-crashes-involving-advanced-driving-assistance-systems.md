@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-dri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp"
 type: article
 quality: 82
-heat: 202
+heat: 212
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://media.11alive.com/assets/CCT/images/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Autonomous driving system woes: Feds document 400+ crashes over 10 months"
+    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
+    publishedDateTime: 2022-06-16T09:43:00Z
+    webUrl: "https://wraltechwire.com/2022/06/16/autonomous-driving-system-woes-feds-document-400-crashes-over-10-months/"
+    ampWebUrl: "https://wraltechwire.com/2022/06/16/autonomous-driving-system-woes-feds-document-400-crashes-over-10-months/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/06/16/autonomous-driving-system-woes-feds-document-400-crashes-over-10-months/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 43
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/06/tesla-g2eb890b62_1920-e1655372298686.jpg"
+        width: 1876
+        height: 1056
         isCached: true
   - title: "Tesla Leads Automakers In Self-driving Vehicle Crashes -U.S. Regulator"
     excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data U.S."
@@ -158,15 +174,15 @@ related:
     quality: 19
   - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
     excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"
-    publishedDateTime: 2022-06-15T16:30:00Z
-    webUrl: "https://madison.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_fd3fe68a-9f93-5397-8f41-6509fbd3c020.html"
+    publishedDateTime: 2022-06-15T15:44:00Z
+    webUrl: "https://www.djournal.com/lifestyle/health/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_3fc33157-165d-52fa-9946-037ca0f91145.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 17
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/c/5b/c5bb0fd6-fbf6-5c1a-b4d1-2f8103dc57af/62aa093283e58.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/30/f30163a9-f9df-5c40-ae14-e00b0d1979b1/62aa05e102d40.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true

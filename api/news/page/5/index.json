@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-10-global-us-283-bn-speech-and-voice-recognition-market-outlook-to-2026.md",
+      "title": "Global US $ 28.3 Bn Speech and Voice Recognition Market Outlook to 2026",
+      "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-us-28-3-bn-speech-and-voice-recognition-market-outlook-to-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-us-28-3-bn-speech-and-voice-recognition-market-outlook-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/TBSytXx/Speech-and-Voice-Recognition-Market-Overview.png",
+          "width": 623,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay.md",
       "title": "Fintech startup HostBook raises $3 mn in series A funding led by Razorpay",
       "excerpt": "Hostbooks intends to utilise the Series-A funding to further scale its operations and enhance its existing product suite",
@@ -736,6 +779,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-10-ai-dubbing-startup-papercup-raises-20m-from-sky-others.md",
+      "title": "AI Dubbing Startup Papercup Raises $20M From Sky, Others",
+      "excerpt": "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/",
+      "originalUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/Jesse-e1654764987385.jpg?w=1024",
+          "width": 1024,
+          "height": 875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/",
+      "publishedDateTime": "2022-06-09T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-continuously-monitor-predictor-accuracy-with-amazon-forecast.md",
       "title": "Continuously monitor predictor accuracy with Amazon Forecast",
       "excerpt": "We’re excited to announce that you can now automatically monitor the accuracy of your Amazon Forecast predictors over time. As new data is provided, Forecast automatically computes predictor accuracy metrics, providing you with more information to decide whether to keep using, retrain, or create new",
@@ -1091,100 +1177,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-brian-onorio-ai-may-be-transforming-shopping.md",
-      "title": "Brian Onorio: AI may be transforming shopping",
-      "excerpt": "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves.",
-      "sourceUrl": null,
-      "webUrl": "https://qctimes.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_4d8b7625-3f07-5ba4-ad2b-583622c82d4a.html",
-      "originalUrl": "https://qctimes.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_4d8b7625-3f07-5ba4-ad2b-583622c82d4a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quad-City Times",
-        "domain": "qctimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-how-ai-is-shaping-the-future-of-work.md",
-      "title": "How AI is shaping the future of work",
-      "excerpt": "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
-      "originalUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/",
-      "publishedDateTime": "2022-06-09T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://healthcare-in-europe.com/en/news/deep-learning-molecular-p
 webUrl: "https://healthcare-in-europe.com/en/news/deep-learning-molecular-patterns-cancer.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 400
     height: 240
     isCached: true
-
-related:
-  - title: "AI Identifies Gene Signatures of Cancer Tumors"
-    excerpt: "A new study published in Genome Biology demonstrates how an AI algorithm has discovered a genetic signature trait of cancer cells, enabling machine learning to distinguish cancer cells from healthy ones."
-    publishedDateTime: 2022-06-11T15:09:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-identifies-gene-signatures-cancer-tumors?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic2452.jpg?itok=9gYDTC0R"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "ThaMNSGZ1sRT0L3+I0tBILf6jaSAbzzvnc1KWAPjkBPXBUi3YHIaHlSRxQD9sJG7Db7bouz6cEpZ9iexX8Lz+vcTL217vj4XFy6E0E1quFd5M4giGzwEnZC2ieGSyy6ZH9sA0fsvfGkmpHZ5LxXXPK8xI3sDGS8R8s+jL72zeNo6U3MKXUab6NiyhPYL74sfbHsVf7rKoQJ9H2ZALnLuXJr0WUnfBJ8vgCM31kzwh9oqu1R+nFd/LRdHf6mXalldBJC85CGBH47751vVJbusyuyBHW1aSPpEMUv2eHXWRh0jchR4TVNp03e7W9PjfGwMTgm1QLgUY/X7yJrBuIO0lVC3FNVMIJv3w/oCRB2NGTh2oC9tvDwsVwJCnLESQfcs7Paj9LZ5dFs+kFrF8ukiVJcfD5zX2Fi+mPIygQrYnzNhhI6OhZ4OGwEV8eJdxJ8Yp5cU1JPhClNogAmtCHGne/ZxkEDYcsjaBLR8KsNXOi+PZmQecBCSLpeR7WTMoCWREtERFrnnE6VPeXlLIP9jPg==;7TWTgjl+78GxnHGN+P2JwA=="
 ---

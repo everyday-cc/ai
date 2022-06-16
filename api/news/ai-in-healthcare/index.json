@@ -45,6 +45,59 @@
       ]
     },
     {
+      "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
+      "title": "The Artificial Intelligence We Fear Is Our Own",
+      "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "originalUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-15-business-functions-where-artificial-intelligence-can-assist-agencies.md",
       "title": "15 Business Functions Where Artificial Intelligence Can Assist Agencies",
       "excerpt": "Businesses across industries are actively seeking innovative ways to leverage artificial intelligence ... Scanning Reviews To Identify Problem Areas As a healthcare marketing agency, we use AI to gauge patients’ collective sentiments through their ...",
@@ -105,7 +158,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -753,6 +806,40 @@
       ]
     },
     {
+      "path": "_news/2022-06-07-deepsig-named-to-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-for-2022.md",
+      "title": "DeepSig Named to CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups for 2022",
+      "excerpt": "DeepSig, a leader in artificial intelligence (AI) and machine-learning (ML) innovation in wireless communications, today announced that it has ranked on CB Insights annual AI 100 list. The AI 100 ranking recognizes the 100 most promising private artificial intelligence companies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deepsig-named-cb-insights-ai-100-list-most-/2022/06/06/9615837.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deepsig-named-cb-insights-ai-100-list-most-/2022/06/06/9615837.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research.md",
       "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research",
       "excerpt": "Thermo Fisher Scientific Inc. is showcasing new instruments, workflows, software and industry collaborations that enable customers to generate new analytical insights and accelerate next generation vaccine and therapy development.",
@@ -1065,49 +1152,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-03-artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some.md",
-      "title": "Artificial intelligence scans for weapons, but faces criticism from some",
-      "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "originalUrl": "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox47news-com.cdn.ampproject.org/c/s/www.fox47news.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
-      "publishedDateTime": "2022-06-03T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSYM-TV",
-        "domain": "fox47news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-03-leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension.md",
       "title": "Leading Healthcare Artificial Intelligence Company Raises $20m Series A Extension",
       "excerpt": "Inspire's proprietary Inspire therapy is the first and only FDA-approved neurostimulation technology that provides a safe and effective treatment for moderate to severe obstructive sleep apnea.",
@@ -1304,49 +1348,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market to See Major Growth by 2028 | Medtronic, Stryker, Careskore",
-      "excerpt": "The Latest research study released by HTF MI “Global Artificial Intelligence (AI) in Healthcare Market” with 100+ pages of analysis on business Strategy taken up by key and emerging industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/14d29a7a7e47b1a888bb643ae38ecb5e6b509a72-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
