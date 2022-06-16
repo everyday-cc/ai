@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Ainnocence Launches Self-Evolving, Multi-Objective AI Drug Discovery Platform"
-    excerpt: "Biotech and pharmaceutical companies looking to develop preclinical drug candidates can leverage Ainnocence's deep life-sciences knowledge and advanced computational techniques to accelerate the design of small-molecule,"
-    publishedDateTime: 2022-06-13T10:00:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_44fd210d-9596-5898-941a-382e7c96f802.html"
+  - title: "China's supercomputer can use AI to quicken drug discovery"
+    excerpt: "Using AI and one of the world's fastest supercomputers, Chinese scientists are engineering otherwise unknown chemicals that can be clinically used in the future."
+    publishedDateTime: 2022-06-16T03:12:00Z
+    webUrl: "https://news.cgtn.com/news/2022-06-16/China-s-supercomputer-can-use-AI-to-quicken-drug-discovery-1aU6hyR4eHK/index.html"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 34
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://news.cgtn.com/news/2022-06-16/China-s-supercomputer-can-use-AI-to-quicken-drug-discovery-1aU6hyR4eHK/img/26daf12e17d04824ad02b9597c7df771/26daf12e17d04824ad02b9597c7df771-750.jpeg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Ainnocence Applies AI To Drug Discovery"
     excerpt: "A new, San Diego-based biotech startup, Ainnocence launched today, saying that it is focused on using life-sciences knowledge and advanced computational techniques to accelerate the design of small-molecule,"
@@ -41,15 +41,6 @@ related:
     provider:
       name: SocalTech
       domain: socaltech.com
-    quality: 17
-  - title: "Future of UK Defence Artificial Intelligence Launched"
-    excerpt: "Plans for the future of cutting-edge UK Artificial Intelligence (AI) defence technology have been unveiled in a new strategy published today."
-    publishedDateTime: 2022-06-15T11:43:00Z
-    webUrl: "https://www.gov.uk/government/news/future-of-uk-defence-artificial-intelligence-launched"
-    type: article
-    provider:
-      name: Department of Health
-      domain: www.gov.uk
     quality: 17
 
 secured: "ZpSLZlvhVmIn7auUFi+wUcmHsBBfPL8ycCeImvJPOaygrD339IWS9/vVmVx+5bjqAeOiQc3/wJiZVI6c1Rv7c6MOS2sKiL8bEJZqfGIM5wF/oXE65HLdMlk9IMw+HK7BIouERPMeOuE+F604V5ek3id0TbBzsVimdCB2gyHPsG1AHUgQPkxueefcTD2/sADgFOQjETQcjFMF4qPZVWBp1AVmUnfT92/SLhiGjDoodv/+51+cGdHyuYqdH7sF4KhUXVpJBQUvH+qmam9HA8DIcktfccErU75jeTEikmbqg3R8CAaQLJ1OjDhMUETckLmMbTRmy8YAQCTaffKi/+S0wYUAS91XicsJDQ1UGhiZemXYha1alepv840Vc7JkRvX83kRxTjFW/Yn56qSLd07htcFZ4Baiv3hNq/BlVI15Yo1CfxxpQthQlEAzrRMwKCxmOeN6RMwGHkdTT9xf9iab1BZQmpWDbGkal0j4Pqv5dA+L3Y0EJTG8q3cXBEa0BAyxNlJtxnwK+yBOG+n3F1G9XQ==;WMalfWgc9qwRE/sMIdbTlg=="

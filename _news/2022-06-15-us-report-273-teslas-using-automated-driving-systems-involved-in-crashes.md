@@ -86,6 +86,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Nearly 70% Of Car Crashes Linked To 'Self-Driving' In US Were Tesla: Report"
+    excerpt: "The US National Highway Traffic Safety Administration (NHSTA) has linked 392 crashes to self-driving and driver assistance systems in 10 months and about 70 per cent of those were Elon Musk-owned Tesla vehicles,"
+    publishedDateTime: 2022-06-16T03:34:00Z
+    webUrl: "https://menafn.com/1104382573/Nearly-70-Of-Car-Crashes-Linked-To-Self-Driving-In-US-Were-Tesla-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/15/I_457c4image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Self-driving and driver-assist technology linked to hundreds of crashes, U.S. data shows"
     excerpt: "Over the course of 10 months, nearly 400 car crashes in the United States involved advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday, in its first-ever release of large-scale data about these burgeoning systems."
     publishedDateTime: 2022-06-15T14:18:00Z

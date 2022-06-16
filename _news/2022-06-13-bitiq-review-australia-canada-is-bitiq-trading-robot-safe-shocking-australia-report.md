@@ -91,6 +91,22 @@ related:
         width: 621
         height: 414
         isCached: true
+  - title: "What Of The Future Of Facial Recognition Growth In NZ?"
+    excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
+    publishedDateTime: 2022-06-16T03:11:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 61
+    images:
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
+        isCached: true
   - title: "Australian retailers deploy facial recognition as privacy laws stall"
     excerpt: "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint."
     publishedDateTime: 2022-06-15T06:43:00Z

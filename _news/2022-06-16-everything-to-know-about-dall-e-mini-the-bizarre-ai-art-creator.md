@@ -58,15 +58,20 @@ related:
         height: 630
         isCached: true
   - title: "Why You Need an AI Ethics Committee"
-    excerpt: "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ..."
-    publishedDateTime: 2022-06-13T18:36:00Z
-    webUrl: "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee"
+    excerpt: "Artificial intelligence poses a lot of ethical risks to businesses: It may promote bias, lead to invasions of privacy, and in the case of self-driving cars, even cause deadly accidents. Because AI is built to operate at scale,"
+    publishedDateTime: 2022-06-14T12:00:00Z
+    webUrl: "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee"
     type: article
     provider:
       name: Harvard Business Review
       domain: hbr.org
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/05/R2204J_BARBE.jpg"
+        width: 2000
+        height: 1124
+        isCached: true
 
-secured: "VVlTw/C7t8QSMWVtds5MKoyuaCBhuqNgeg38wJuPDjVWCjY5JSPaKurSYS2HxebcWbyiDjpooEIuxOy/MHg3NIRc0uHwyPVAhSPIHTFoiLbXu2ymzU/i0t5OgPGqS/O2DBnoVOx1rm3Vaz0OEn6Vt0f9QpQILBRG8cMSRpwhu72lHYuyjEW2VlDJen97cIho5G31KFS9WAFBaoORLeJQo66BlKgOqgak84RPRejlImgKuSz0y4nRwp12BZ1+avRyHJb6b2DH3i0/vsr9itccejliFOssWPByxFWfc1SNIe5DjlPXTIVTpKIVh7Ho223KiCJPTpvm3/1ru4J0H8fyVTIW2yBF+i+C5BOlrIaesVg=;pOxIYoqUnGwaEjJ4z9n6Qw=="
+secured: "16jflIyNHTfWvfhBHs6VTXYKqb5tMayJnnaZgdNj7psS1VgJGVtQ8j9U/gJASDUVNNx1OnmUNBZpSvqlEsTRvPz56lVemU2MnnGGptNNIaXQeUuMo9JMCfGp1DdhbZxBIr5XBwmOdnD5VN0eGINEYYVkzBuRlDMhSAnA3T1y+rpX32+8bBiqObhc2aEoe8PpqZxsEzhev5BrqBXu5tLX7aoyvKxURaecQE7zwJ+b/36laMDbE6cW9YRsvpQZ23nFbBI55xVgK1kAhLzEJRIXlN/4LsIWQZkouOrns8PWgaPn6Sbh0vPLoN9klXUJFA6QHu+i8TxW3lPL7CcyQ5tkVleSBdOAocftxlYY8DIMU4S3S9D0sdhFiTQ0zra90K6mYO7FoKHiD2QsRvVttBOWCn+2LFdSbyIik3ZHpxjZX1N38ulHFrsAvEjn9mN7BBKpIfp5hQOwbluXSmYonePCshVFxfhC2noBFCWbuS81SldCFDI77lOa8XHFSB/jVFP9t23mccOem40GfoV3h6qfPA==;mK2Nmyg44fUA11yner1IUA=="
 ---
 

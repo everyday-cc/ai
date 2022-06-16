@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence-enabled portal for pensioners soon: Jitendra Singh"
+    excerpt: "Singh said the proposed portal will not only enable constant contact with pensioners and their associations across the country but will also regularly.."
+    publishedDateTime: 2022-06-16T03:09:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/92243103"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/government-policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/92243103"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/government-policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/92243103"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92243103,imgsize-57180,width-1200,height-628,overlay-etcio/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Dr Jitendra announces Artificial Intelligence supported ‘Common Single Pension Portal’"
     excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today announced that the Department of Pension & Pensioners’ Welfare will soon launch Artificial Intelligence (AI) supported “Common Single Pension Portal” for the benefit of pensioners and elder citizens."
     publishedDateTime: 2022-06-15T10:54:00Z

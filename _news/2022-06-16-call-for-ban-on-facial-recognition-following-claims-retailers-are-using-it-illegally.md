@@ -89,6 +89,22 @@ related:
         width: 621
         height: 414
         isCached: true
+  - title: "What Of The Future Of Facial Recognition Growth In NZ?"
+    excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
+    publishedDateTime: 2022-06-16T03:11:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 61
+    images:
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
+        isCached: true
   - title: "Australian retailers deploy facial recognition as privacy laws stall"
     excerpt: "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint."
     publishedDateTime: 2022-06-15T06:43:00Z
@@ -246,6 +262,6 @@ related:
       domain: techxplore.com
     quality: 14
 
-secured: "5vRRjyMRurs1/YDBkHYZfaMtIA6KdIBl8m04TEyd59EdLNLkmZsOKRMzs2RBwVhl3lyB9QFZWCxPO6dKHk/5TsHhJ6hI13uvsKUXjDWWWcHOwue1HSwVfkNqUeWd0CoqQIxWhaudi6ht4aQd8raRWYECxgqECoyCUNgsmVBGoiw7F8W7/nwhPYOH0Es/YA4Ul409wK+IW0sNWMRiROP1YKsOd8dmyjzT8L8SwMZpsiTNqlf06+08axcOhO5QmPl7TH6OJNu1/F/H96S4VohKKZo8YZ2Sxw3KWvv9cgtOlqCcA6eLov+9YSHgp0DUPZ0UgweLvmsJS7rEGFerWsxlygw+8MV//kEdz8+L+Of51Pg=;IjJaelF1kQCl5RxMK1PJcA=="
+secured: "wDkh0PuQbU83NKu9QiifWEX5TeiQtdsFp22Y+PheRtCi3dYWqyvxa+Dh4jJ+maP+L7rgztQZzgdG6+9TCCvk2e+mlQB66u9hkgBxp488ad15yAc0vHAF1IONnUXYRUEchcYn5Xk7JRaUi2wWHSBFhsKI/Y0QDBicJIxTlZ01o71JMg8SvSW8LabFNICs0gEcLIvwFe5K+mCts3qoEZB4jUxVMW/KiIZ70pt9UMp9M1ztmI1/EvWtMZbhixmJjamYwyJL6HqdShPU6ajmGz+Pb+PhOQ3zEGI3wcIz8WzpirBlJ7lSBqY8QiuUOeCVj5NknzL/XrDOo/ibUN7OMTxVCthSxORrfbcu8zcujIM1rLZerXiAglNdg6w5HNW+nYYJY4pJUForzEFfXFUA+okqrAxKvEZJ0t2Qa+hsLYBK20+YJo0LZvlRyMQks3gNRadOX5TkJKf3Tc3Kjb7bGuv++RZynzlhHJZLwXMYSZAvyA5fOsoOck90RkI1oLCodVFmEn4PZsvlwHDfQjWPXey0Dw==;wiS8tvJHYvu03Vjic7BKZQ=="
 ---
 

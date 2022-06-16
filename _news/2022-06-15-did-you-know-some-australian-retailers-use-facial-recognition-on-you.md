@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techguide.com.au/amp/news/televisions-news/did-you-know-
 cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/"
 type: article
 quality: 74
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=414&cropW=621&xPos=69&yPos=0&width=862&height=575"
         width: 621
         height: 414
+        isCached: true
+  - title: "What Of The Future Of Facial Recognition Growth In NZ?"
+    excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
+    publishedDateTime: 2022-06-16T03:11:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 61
+    images:
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
         isCached: true
   - title: "Australian retailers deploy facial recognition as privacy laws stall"
     excerpt: "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint."

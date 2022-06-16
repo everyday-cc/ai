@@ -3,16 +3,16 @@ category: news
 title: "8 Reasons Using AI Will Improve Your Content Creation Process"
 excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
 publishedDateTime: 2022-06-15T23:03:00Z
-originalUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
-webUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
+originalUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
+webUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 675
         isCached: true
 
-secured: "PEvOgqfHA2msffthxw8jABVDQg1UVrY/sKZx0PLUmShRNgh1ty4fny/A4qH7vtVld8gWH1bRqIasjBM54pmpgg6YVU0fmcT7xY9iFUO3bnSI/balj/pPyynA6AoJtKaJ+insw1EALtj8oQg4DtVLNcclGBA9RTbspUV1YiEUCZrKsF5iTrR+SWt56fBmXUIRIZkqNE6v6Jq7kskX50F1bFXwyXglbM9cw5lmeYLSipdLzaXTo7MKuXzm5FSuU57WJE9y6plyLhOP3wTHIh21eI5483dLHPd3+VCtE7CTaGJl8+o1wPYtQa9dBsr+SX2ise4teq9DWnWOZjGcd9PNx0Yn9HFa+tYtfL7OUPDp0Xc=;/EnYR1tA4dibX/ZR0srpvg=="
+secured: "4mMjIKV2NbyETqKR/eTUC7LqGN2UQIzsfoKKqcfCJPxlxrv9MLvU5fkh54fjBTdO1cMasyBdiQfim70ijlPvPLtClYclVBA6DnjzKGJFYBQ0Z42/ZMQw0fcAy0UWlk/ikgKiYdIzDk9lggI22Gx7vM20tzrDXnFAuO6K1bCr+Y6ndcotyBZschpCdF65LT1Wrsf+LABzfQp1D3haRFCvTREmiCyZ6nnvpVtWd1FS2IaHUdfE45XQcdi3zwbZ/QZIgtA6UPTx36YXIIYDgGErqAqKMbSg8kzRVWHDVW6hyvXLO4gxnuKfWqkwIWrTToWLqJcTuQp2K0jtPHK5cGy0l90Mc+zLY/i8ONaQLLYNK9U=;Fosst7asfcV1sg6eCO0NoQ=="
 ---
 

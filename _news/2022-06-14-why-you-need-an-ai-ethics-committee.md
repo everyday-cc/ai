@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Why You Need an AI Ethics Committee"
-excerpt: "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ..."
-publishedDateTime: 2022-06-13T18:36:00Z
-originalUrl: "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee"
-webUrl: "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee"
+excerpt: "Artificial intelligence poses a lot of ethical risks to businesses: It may promote bias, lead to invasions of privacy, and in the case of self-driving cars, even cause deadly accidents. Because AI is built to operate at scale,"
+publishedDateTime: 2022-06-14T12:00:00Z
+originalUrl: "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee"
+webUrl: "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://hbr.org/resources/images/article_assets/2022/05/R2204J_BARBE.jpg"
+    width: 2000
+    height: 1124
+    isCached: true
 
 related:
   - title: "What AI developers need to know about artificial intelligence ethics"
@@ -63,6 +69,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eTk3jI6kjlhb3/mYl+Jn9eGuZn164xM4zRgkBfxwb1kjsF8Ue253n5Rr19wxkDlymuW4wUIW4fGezPyXIm25IvBduYhMDaWtznBi0KaH7hcNOBvFVSHbKg6aMPxYx7rNy5YztyGK4PnyhLSJzVVvSRdK4KG0FWqVMWufc30v8eEeRfn1mrlt+0x1/5hU8QT/k1Mbpq8CqNFpQl0rMLygfIZts1gv9HSjEuf/gZZqCVjdXyOxViK5y4aEyMleCmxOpYfKQ3mIf3qdwhgi+4Ma5+BVcRwhMPMuG4p7zzMo7O3NlcilYicXINv0UXVTfrdY972x1cg5aIxZtF4R23cpAwp1PK8JKvHjq8n2SZg4IrP80LOwkmGPz6PYfp1rUeocsqn/cxlJgpiAs5avOIIlAEwuR0AYt+1d4pFQLRsImaw5Er44g3Ehx56l4NIMBAZdmfyyCOxSQ7FOzGTYJ1DqMWslozgYb4s9DALdX7nzhKN69ro9KFvdpllJqjic3jzRXmlc8cOZojHL7b+xS+N7OA==;ZXTt20NrpM4haCxFV5LNUw=="
+secured: "3kYhHy2Mx2I8gDDRXhAfDqBXisBUFHy0A3rb5bb1uhsO9/Iya2MCLbFuRyE5IqcU+eJxcET3U2NS8Jf9Nq8ROvp9IUi5PH99nzMI0npZb6++xMawbM3H71SV+uHNoEm6nY0fc6ipAma8L511iWwdXigV8aVbu8FE0r0KEiHZb47a3sXRNtM0zxhYx9K+EVfKkQ47Y9qdGz6n8SFZ5o8nGQ6erOxmUYuT2IgfX0Ebpm8yJj2leYRFnWW/1PP17PdA3DJAYhnD3KL/JkWI1/tIKUuA9c3CuQ37whL+C/XTUEIWSLlaNbEqltom66K+bN/N3WIWLho3G3dF6Yyz225VXSh3aMZb6r14vZcztl5FcXs=;9sVn+PUvzJl82L6ZmJ81Mg=="
 ---
 

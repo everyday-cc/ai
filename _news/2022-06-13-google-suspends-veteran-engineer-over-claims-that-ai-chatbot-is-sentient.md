@@ -216,6 +216,22 @@ related:
         width: 647
         height: 340
         isCached: true
+  - title: "Has Google's LaMDA artificial intelligence really achieved sentience?"
+    excerpt: "Blake Lemoine, an engineer at Google, has claimed that the firm's LaMDA artificial intelligence is sentient, but the expert consensus is that this is not the case"
+    publishedDateTime: 2022-06-13T13:26:00Z
+    webUrl: "https://www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/"
+    ampWebUrl: "https://www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 59
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/13141935/SEI_109536389.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Google Engineer Placed On Leave Over AI Discussions"
     excerpt: "Google AI engineer Blake Lemoine has been placed on leave by the company following a confidentiality breach and claims its LaMDA is sentient."
     publishedDateTime: 2022-06-13T22:04:00Z
@@ -264,22 +280,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Has Google's LaMDA artificial intelligence really achieved sentience?"
-    excerpt: "Blake Lemoine, an engineer at Google, has claimed that the firm's LaMDA artificial intelligence is sentient, but the expert consensus is that this is not the case"
-    publishedDateTime: 2022-06-13T13:26:00Z
-    webUrl: "https://www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/"
-    ampWebUrl: "https://www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/13141935/SEI_109536389.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "A Google software engineer believes an AI has become sentient. If he’s right, how would we know?"
     excerpt: "When we ask whether a program is sentient, perhaps we're really asking how much it is like us. We may never really be able to know this."
     publishedDateTime: 2022-06-14T11:16:00Z
@@ -325,6 +325,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/blake-lemoine-00.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Google Engineer Says an AI Has Become Sentient. How Would We Know if He’s Right?"
+    excerpt: "According to software engineer Blake Lemoine, LaMDA has achieved a long-held dream of AI developers: it has become sentient. Lemoine’s bosses at Google disagree, and have suspended him from work after he published his conversations with the machine online."
+    publishedDateTime: 2022-06-16T03:14:00Z
+    webUrl: "https://www.thequint.com/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
+    ampWebUrl: "https://www.thequint.com/amp/story/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 54
+    images:
+      - url: "https://images.thequint.com/thequint%2F2022-06%2F168eac97-c9a1-427e-a86c-dd18f22f97e8%2FiStock_920743540.jpg"
+        width: 2000
+        height: 1127
         isCached: true
   - title: "Google Engineer Suspended After Saying Company AI is Sentient"
     excerpt: "Google suspended an engineer last week for publicly revealing details of a chatbot powered by artificial intelligence in violation of the search giant's confidentiality policies,"

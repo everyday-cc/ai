@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-ro
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

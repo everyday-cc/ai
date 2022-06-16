@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai
 webUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:
@@ -31,11 +31,11 @@ related:
   - title: "8 Reasons Using AI Will Improve Your Content Creation Process"
     excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
     publishedDateTime: 2022-06-15T23:03:00Z
-    webUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    webUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/26/15/72/22601374/3/rawImage.jpg"

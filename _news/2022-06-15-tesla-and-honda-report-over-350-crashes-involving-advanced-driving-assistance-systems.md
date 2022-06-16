@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-dri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp"
 type: article
 quality: 82
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://media.11alive.com/assets/CCT/images/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Nearly 70% Of Car Crashes Linked To 'Self-Driving' In US Were Tesla: Report"
+    excerpt: "The US National Highway Traffic Safety Administration (NHSTA) has linked 392 crashes to self-driving and driver assistance systems in 10 months and about 70 per cent of those were Elon Musk-owned Tesla vehicles,"
+    publishedDateTime: 2022-06-16T03:34:00Z
+    webUrl: "https://menafn.com/1104382573/Nearly-70-Of-Car-Crashes-Linked-To-Self-Driving-In-US-Were-Tesla-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/15/I_457c4image_story.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Self-driving and driver-assist technology linked to hundreds of crashes, U.S. data shows"
     excerpt: "Over the course of 10 months, nearly 400 car crashes in the United States involved advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday, in its first-ever release of large-scale data about these burgeoning systems."

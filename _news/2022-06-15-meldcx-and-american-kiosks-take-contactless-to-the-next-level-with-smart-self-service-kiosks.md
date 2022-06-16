@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "meldCX and American Kiosks Take Contactless to the Next Level with Smart Self-Service Kiosks"
-    excerpt: "CX and American Kiosks announce close partnership, combining state-of-the-art hardware with smart technology and reliable field services Partnership will create new"
-    publishedDateTime: 2022-06-15T17:00:00Z
-    webUrl: "https://www.asiaone.com/business/meldcx-and-american-kiosks-take-contactless-next-level-smart-self-service-kiosks"
+    excerpt: "CX and American Kiosks announce close partnership, combining state-of-the-art hardware with smart technology and reliable field services Partnership will create new opportunities across the connected ecosystem,"
+    publishedDateTime: 2022-06-16T03:23:00Z
+    webUrl: "https://www.malaysiasun.com/news/272587360/meldcx-and-american-kiosks-take-contactless-to-the-next-level-with-smart-self-service-kiosks"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: Malaysia Sun
+      domain: malaysiasun.com
     quality: 13
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_961.jpg?h=7de12b8a&itok=lXtNF6gy"
-        width: 600
-        height: 316
+      - url: "https://cdn.bignewsnetwork.com/cus1655057948721.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "YaO+Y7rnWlcsPLrmoGFJhA/1f9+oDrLZJkwfI5Nq7nZPHnOsbFwvfSj32O6T86+Ne7fnkHcGFEFuE3KAjIb2jHng083tnpDWoGZlh/X3aqw0XW00b1PDiqmCwqAi/iTTIbDGctgmCNxL2TvQpEix6Oocpda0aaZjqWO0LWmtwAKE2x6c/lcl1Iwj5HH+rDe79YjLr+v2NYPQdVgYdVe3XF0JDZBPDDoss+5RIPYzBmP0+OQQwHhGoS32KPZOS7SRqvGNyHTwU6fSOf8iPaMzBjnMkRNnRlrN8foiiGXP6QHS+FlkknyNpYzl+JdUhCMXw49T6gcd6MaK8cJRuKz1VZVVAjLV7yH0VFQlPe41GfSpB3tKYf7OLxdJVP0AmRWXRHWRcT9/bb50/2omDMOwQcKbhrAmHgLANptc/JBXjQzgEkAlTifgZfpReRD3BtqO300Ahvw3X759rk+PsZVYTRPPyunYt06IpqjTluzlXHEVJr1XWFU/+L1urDCmOS7W6kf1xWSSn2xAZPBvakjGwA==;FWoYtLHmHodgrkgWcjP9qA=="
