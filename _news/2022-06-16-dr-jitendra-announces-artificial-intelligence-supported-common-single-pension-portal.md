@@ -1,0 +1,53 @@
+---
+category: news
+title: "Dr Jitendra announces Artificial Intelligence supported ‘Common Single Pension Portal’"
+excerpt: "Union Minister of State (Independent Charge) Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today announced that the Department of Pension & Pensioners’ Welfare will soon launch Artificial Intelligence (AI) supported “Common Single Pension Portal” for the benefit of pensioners and elder citizens."
+publishedDateTime: 2022-06-15T21:45:00Z
+originalUrl: "https://www.dailyexcelsior.com/dr-jitendra-announces-artificial-intelligence-supported-common-single-pension-portal-2/"
+webUrl: "https://www.dailyexcelsior.com/dr-jitendra-announces-artificial-intelligence-supported-common-single-pension-portal-2/"
+type: article
+quality: 29
+heat: -1
+published: false
+
+provider:
+  name: Daily Excelsior
+  domain: dailyexcelsior.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/06/page5-2-11.jpg"
+    width: 800
+    height: 316
+    isCached: true
+
+related:
+  - title: "Dr Jitendra announces Artificial Intelligence supported ‘Common Single Pension Portal’"
+    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today announced that the Department of Pension & Pensioners’ Welfare will soon launch Artificial Intelligence (AI) supported “Common Single Pension Portal” for the benefit of pensioners and elder citizens."
+    publishedDateTime: 2022-06-15T10:54:00Z
+    webUrl: "https://www.dailyexcelsior.com/dr-jitendra-announces-artificial-intelligence-supported-common-single-pension-portal/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 29
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/06/DARPG-2.jpg"
+        width: 3674
+        height: 1258
+        isCached: true
+  - title: "Artificial intelligence-enabled portal for pensioners soon: Jitendra Singh"
+    excerpt: "Interacting with beneficiaries of 'Bhavishya', a portal for pension payment and tracking, Jitendra Singh said that in keeping with Prime Minister Narendra Modi's motto of ensuring ‘ease of living' for all,"
+    publishedDateTime: 2022-06-15T13:09:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/economy/policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/articleshow/92233209.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 15
+
+secured: "kUOo869VZHYWOfyLBL0bxq98I1UmuQMFj4q73ZIXJnqJgHsv5nz+sMJBtwsiTnJrFtDlz0UhJ7Bam3gf83RbTg809N6HnUO7KlBvmNIA52E0leGQJ+DC0jg4TXnkN04wW6LQdxaGkd5DKisdknI3jZMsO7JIDOiSFUv9cDjhsJ/YcJfY3/FI9tOEnZrpOPSmvYLFycgYJB2U3PVGb2q7iK3MFPMmixbusLwDlTSONcNOuaGSNm72Iff3jT53kUrixSM6rOekitbtW1+dYtwYbtOMxBptAibSdw/ceN/FAi+NC8h24KDnKX9+YPJ9f9v6/qF89pLSQl+JZKU/OySNphwzNR8x1/x4wYkY7PtKraQ=;Dm85GQsTrhqePD/6/mcuMg=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/lamda-artificial-intelligence-sentience/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-artificial-intelligence-sentience/amp"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

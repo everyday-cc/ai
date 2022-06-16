@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-and-dep
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/"
 type: article
 quality: 114
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/text-summarization-sagemaker.jpg"
         width: 1246
         height: 626
+        isCached: true
+  - title: "How Mantium achieves low-latency GPT-J inference with DeepSpeed on Amazon SageMaker"
+    excerpt: "Mantium is a global cloud platform provider for building AI applications and managing them at scale. Mantium’s end-to-end development platform enables enterprises and businesses of all sizes to build AI applications and automation faster and easier than what has been traditionally possible. With Mantium,"
+    publishedDateTime: 2022-06-15T23:08:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/low-latency-mantium.jpg"
+        width: 1247
+        height: 623
         isCached: true
 
 secured: "8alBXFd9XLse3F92yMUJFx4k6qA4Sq0Cht9vQjTahQYgSlaNx9qm9tNgrznr/yBviOISfI2Q1EyLt4vXSSYufc68hSLpp86XrgubgnKjcdWqlK3/AThyrc6GSaxFTYgRvjlbMmkSTMOKJOMAFmKKPly+VKWwCW19SIEyetAMn9S9gdcI1+iV8ojTIa/t4XdkNpfcVMydDT0vX+NNJ+8VcLXdmQTfb2BhOz4JCzSgzsVenS7pDO5/hPHogzNCiwPO5TJMhnhppHy97JKtkLUiK00c2UPl+Ytj742i++jLuQUFRQ1smzX1PLOixJ00r6+IhnyRknaQEsAyu4G5Yc6pVC+BZL5dzBFm5YhEzfiHX3Q=;Zaze9D+BpvutiwITuaRfww=="

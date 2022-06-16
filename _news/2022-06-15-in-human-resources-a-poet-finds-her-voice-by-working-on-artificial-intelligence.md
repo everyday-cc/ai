@@ -2,29 +2,27 @@
 category: news
 title: "In 'Human Resources,' a poet finds her voice by working on artificial intelligence"
 excerpt: "Ryann Stevenson's debut collection Human Resources won the Max Ritvo Poetry Prize. It looks at how technology both connects and separates us."
-publishedDateTime: 2022-06-15T09:11:00Z
-originalUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
-webUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
-ampWebUrl: "https://www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence?_amp=true"
-cdnAmpWebUrl: "https://www-kucb-org.cdn.ampproject.org/c/s/www.kucb.org/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence?_amp=true"
+publishedDateTime: 2022-06-15T13:11:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
+webUrl: "https://wusfnews.wusf.usf.edu/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
 type: article
-quality: 51
-heat: 51
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: KUCB
-  domain: kucb.org
+  name: Health News Florida
+  domain: usf.edu
 
 topics:
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/a64621d/2147483647/strip/true/crop/827x509+0+241/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F13%2Fryann-stevenson----william-brewer_custom-6373f847cf66b30db81006d5292e04ee3989b0fd.jpg"
-    width: 880
-    height: 542
+  - url: "https://npr.brightspotcdn.com/dims4/default/99369ac/2147483647/strip/true/crop/827x434+0+279/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F13%2Fryann-stevenson----william-brewer_custom-6373f847cf66b30db81006d5292e04ee3989b0fd.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "3446ADKsD37/ts6ZhHetNULiYc2h8pEviek5JHmBQ5Y19aRs92fTQhvYYHMYuLbjslol7asaVZhtKEC1TYxCqji2YtjAFczVJC6q1lbbJztVPuZymQTbaqmcJEVZsF7ZPaOP6zaGwABZ8ZnVLcYOmJ9isPjjBQ4pO+z/ngO4T8h8SSIWWww0Fchx1is9zMS726YeGlOd8OyUWZLaHkt7Hj9LtEeSBRH8vP/q2eLrCtIpEMw+Vh/jRnLH9eVWNHN044zjQIq7/GBu4N9rR1M1Dr3hV6bDfjgmNO+tb+6+BLaBLuU8XK/JFKB0x1B7fdQ0glo+FiNkVokz7DO73cGFYxDBBsT410Us0x76WybmFfA=;Q3T4uzSPsTov4M8cCx3HaA=="
+secured: "H/KRMjrgLFawshprwj39YSJWklFMFeNAr/FyGoXiRves7UTaZNGfM0gdl3F1ZiALvY85UXo3g6oAcz0hu7zcUfUBrTUkvgsfO0t82DDNtXu5Lw2E8ZXh78FoiWJ3m88PtlLg36KAvLninrnnXLGSCRWNrY6atvNSdK2ZhXJhNY5yLLKMkPlV9Cti99l9+4G0R+WUH85hb+n6eCRCPMMiXU8mDPuR/blCIbjZX/3XIyCj40r72vbutAzaHJndF2FZdkv1pWOUGXpFcuc0/dWpjEA2eJ7RS4PHJrXQzOWDHDFeJRog3QyH0iHGdNsNfrp2nl1wzFRi3xqx/PzppxNwV6zrnjeATa1QB9JEleNtGas=;Q1RP0t2Dk4wiJuxKTBDNrQ=="
 ---
 

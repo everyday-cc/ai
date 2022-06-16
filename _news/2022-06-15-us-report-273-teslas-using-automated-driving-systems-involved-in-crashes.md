@@ -86,6 +86,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "First-ever self-driving vehicle crash report released. Nearly all involved Teslas in Washington"
+    excerpt: "Nearly 400 crashes in the U.S. involving partial or fully automated vehicles were reported in the past 10 months. In Washington state, there were seven."
+    publishedDateTime: 2022-06-15T23:13:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 27
   - title: "Who's driving that car? Tesla crashes cast cloud over Autopilot feature"
     excerpt: "Investigators remain mum on Tesla's Autopilot feature as they probe May's dramatic, high-speed crash into the Greater Columbus Convention Center."
     publishedDateTime: 2022-06-13T09:59:00Z

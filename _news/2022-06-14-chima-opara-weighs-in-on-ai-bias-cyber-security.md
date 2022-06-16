@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

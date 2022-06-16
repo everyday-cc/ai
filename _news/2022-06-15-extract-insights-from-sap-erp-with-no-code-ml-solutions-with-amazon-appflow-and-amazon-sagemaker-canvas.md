@@ -72,6 +72,20 @@ related:
         width: 1246
         height: 626
         isCached: true
+  - title: "How Mantium achieves low-latency GPT-J inference with DeepSpeed on Amazon SageMaker"
+    excerpt: "Mantium is a global cloud platform provider for building AI applications and managing them at scale. Mantium’s end-to-end development platform enables enterprises and businesses of all sizes to build AI applications and automation faster and easier than what has been traditionally possible. With Mantium,"
+    publishedDateTime: 2022-06-15T23:08:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/low-latency-mantium.jpg"
+        width: 1247
+        height: 623
+        isCached: true
 
 secured: "XIThZOBRi1M+CF8FeqjWf8Y/4JMxjyqFcmiH5BMc7VE+YBcDIH1z6gm9LVxM2lh2IXKrv8t62tqDZVqcfv6v2u9eoB3qZ4eUvK4eMhoMQj1PylRhndbgsUnrGu2nscEbpVK6khGe6fduOIcH4uN4iJ3s+FhH7VabdGxZEzPnHdcFTT6RQRw3K/DHgl72rG3f+yrwNokN636zVICqAqamkfyD8kZe11Dkv5YdW05aCFpq8xM32Ve1qH0CI82+jYrIRTYUdogJ1ajtN0lPonWnKVpiNp8lmy6e/+fKcgMF/mOFX7aofMqEQypdeXINj4ARk15jUdrl2xAjCcTTI4hlOb3Vtw3jNrF+NsTdQvZwvpg=;RUQpMoD8wqQBRNN0D54VJw=="
 ---

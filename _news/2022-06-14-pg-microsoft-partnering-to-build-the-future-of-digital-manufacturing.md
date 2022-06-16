@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
+    excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
+    publishedDateTime: 2022-06-15T20:56:00Z
+    webUrl: "https://siliconangle.com/2022/06/15/microsoft-updates-azure-new-ai-features-hybrid-cloud-environments/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/microsoft-1.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Microsoft Teams taps artificial intelligence for headache-free meetings"
     excerpt: "Microsoft Teams continues to improve artificial intelligence and machine learning to help users deal with the biggest video conferencing headaches."
     publishedDateTime: 2022-06-13T13:00:00Z

@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robot
 ampWebUrl: "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: techxplore
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/insect-inspired-ai-for-1.jpg"
@@ -25,6 +26,6 @@ images:
     height: 427
     isCached: true
 
-secured: "HHnqds7lXzmr+KaD/ecVsQOdXmWCfHG5/ERS44DzKF977LTQvMjdlLpen+CqepG12zguigpnCsEBG3i0EOWHMc+FUXXrLgHzfqNFzjW6oKOnMDbAUgLkuAAx0AbpIIcmusX953g4eZsl1FSNHlB9De5mZjcfma+of95Xi9K7AtaNtsjdn7e0T6LcdpSwMYn65iDyQ3AsFK8LhV3S5dzH+p4lnZkF0fyihpBe67AaNvAgkVMX3P/CvQ3YKK9YKRIJF2P7jOAOq4InzEoG2xFoSu/co1TxDBg2Gk80peiKyZ6xAgnOXckAYRoKH974BrI6XdY+YYfXKIt1HcD/22QZD1xWutWE8t9g9zYvPweHqGQ=;P4YeQe7Nb11Rye0GfgSSXw=="
+secured: "qCvK6PedbQKpPFAEdPqe4PiLtGKayEJ79b8w93ZFb6Oxjp2tuysL6OJi9eF9vE686+hlUAB2KccHmg/IYKqJf+qR8qThtb0g1/axxXAMhtvN3PKfmqaK44tOG9sWRrQs9sq1y09EZHB+MDAZXnLIC6JorBEX6liN9rEKAPXGaLNGL8xZ6hTvMhMduIIQSfYE1riHs2xJUZyx6k6lQVQGiNBXcBcmHDQJudR0d0wXPDJPQuj6HETo76YSekXxL9roczGPp8dgm06wbd4zxGtzvg7NnYrSePLTKvpFRSlybHRJokTLxKFCR7yVSX3mKLAQcNjVlSM2XIho8flJjAtt4e4gCEqLaWAsb48D44bHtn0C8+wVBUhTxUhBhVE0R6zGyOJHGwRChJPGh3QUFKLRrbxfX69rGoHLP0SCAnpFBAgej4avSRBV2NKx7nTDdLGrH9x75fzsTN1CtrZkxjwtAqfvps1grUmmVmdfYcyGikokFYl1Io6gUgHbhTk0OafzzseLIVgWeukmTJ6/6TTQ/A==;G3dwep7mCz0HbY3Fal3Icg=="
 ---
 

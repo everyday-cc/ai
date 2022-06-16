@@ -41,6 +41,22 @@ related:
         width: 320
         height: 208
         isCached: true
+  - title: "Colorado Law Restricts Use of Facial Recognition Technology by Government Agencies"
+    excerpt: "Ramping up the state’s continued focus on data privacy, on June 8, 2022, Colorado Governor Jared Polis signed legislation aimed at limiting the use of facial recognition technology by government"
+    publishedDateTime: 2022-06-15T23:19:00Z
+    webUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies"
+    ampWebUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
     excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"
     publishedDateTime: 2022-06-14T12:45:00Z

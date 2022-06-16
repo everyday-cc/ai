@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
+    excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
+    publishedDateTime: 2022-06-15T20:56:00Z
+    webUrl: "https://siliconangle.com/2022/06/15/microsoft-updates-azure-new-ai-features-hybrid-cloud-environments/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/microsoft-1.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
     excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
     publishedDateTime: 2022-06-14T00:09:00Z

@@ -35,6 +35,22 @@ related:
         width: 320
         height: 208
         isCached: true
+  - title: "Colorado Law Restricts Use of Facial Recognition Technology by Government Agencies"
+    excerpt: "Ramping up the state’s continued focus on data privacy, on June 8, 2022, Colorado Governor Jared Polis signed legislation aimed at limiting the use of facial recognition technology by government"
+    publishedDateTime: 2022-06-15T23:19:00Z
+    webUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies"
+    ampWebUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Health organization moves to facial-recognition technology"
     excerpt: "VHC Health – formerly known as Virginia Hospital Center – is slated to implement “positive patient identification” (PPID) using facial biometrics at its facilities, making VHC the first health-care sy"
     publishedDateTime: 2022-06-13T15:53:00Z
