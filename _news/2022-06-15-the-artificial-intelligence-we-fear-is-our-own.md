@@ -1,13 +1,13 @@
 ---
 category: news
 title: "The Artificial Intelligence We Fear Is Our Own"
-excerpt: "On the smaller scale, it is captured well in a series of tweets by an immersive experience designer who claims he tried to imbue his microwave with artificial intelligence and that its response ..."
-publishedDateTime: 2022-06-14T18:49:00Z
-originalUrl: "https://au.pcmag.com/opinion/94564/the-artificial-intelligence-we-fear-is-our-own"
-webUrl: "https://au.pcmag.com/opinion/94564/the-artificial-intelligence-we-fear-is-our-own"
+excerpt: "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal."
+publishedDateTime: 2022-06-14T17:18:00Z
+originalUrl: "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own"
+webUrl: "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own"
 type: article
-quality: 47
-heat: 47
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI
 
-secured: "/R2WDDKDrIC1PXQnXEXFeqyz85ImLQRZPgQ97OePfGOCqtZjm234FDb83X50YrjtRBli5+TURqKw1mgJHGcUerWjge0meMpWcX4rG+Xc963qUN59RIvn0e3rvjUxqM82aYHrSaMoOU+mSU6G7xOI0JPJEdkSG+B28NQRtT56k0CTdNSDEVFoWfXmKwqY8qZb8MXPThrxxHWaDkLgR4h1PEYo94o+Qazf4Lh/brEhMRYoXaDXmi7ehLTbzyYGNbmPAb627E4Xu4aHSkozPFZ8DdKz5vJT+al2EYZhsq/VyFUpRvrw36wE/cfrvQdeUhN4IPEGl50FBMxSWd9Cc5HYXi/xonjGWLg+4hFUNM/EWKAEcmoGuzrF2BxteO1oJ8xStWyO0fp97IPkQ8+woKcBDFUyBgh2vk343UbpJ6uQEgJB9Z7LPO+NR/RLzI4v6rbd3e0dpaCW2yawKadDJski+LhTAtB8YEY5n/UZeEQa0iE5AjM1oyV+SRuLUMc01QTLBqdc20kIYWLvFxyNWz8+Fw==;ew0drxtXb7A1aK7TiP/d2g=="
+images:
+  - url: "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg"
+    width: 1120
+    height: 630
+    isCached: true
+
+secured: "GPTh3KJNrMNqoJNG0F+OyGI7iWmtJ3vkYA7Yr7p3l0JCDOIqBkPbwsPEx+/d2crHYvZeOmiTqEvv7hVT9H2DoGNFYNaFD5PjZ6hfG/D7CEnWoVJ5vOtQKMsVfSEtiP+hxwbnrOXFCry0wlxfFxfffx0UEVymxdS/kDizg4ROEKEegMve4YYL/SoI/UBlC8xa2bTJrFdTcmtvkfFzIkDF+laAHog2ewu+7/JKEJifcTP8h8mKiteIDEhoojoyGKQCKtPwh+CB4gasFo2o8VQBaypQkxT1Avi6zaXSPuGQk+l6lzyUfBbiHBSO2wQdM20gn8yzYirQYTYvY5aGBL8/gXZJa8opKphTPCTEY4jhfh8=;IbxDJ7MQ45lzd9lKaHVwiA=="
 ---
 

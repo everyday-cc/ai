@@ -1,28 +1,20 @@
 ---
 category: news
 title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update"
-excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) was the recipient of a significant growth in short interest in the month of May. As of May 31st ..."
-publishedDateTime: 2022-06-10T16:06:00Z
-originalUrl: "https://www.etfdailynews.com/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/"
-webUrl: "https://www.etfdailynews.com/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/"
-ampWebUrl: "https://www.etfdailynews.com/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/"
-cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/"
+excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest during the month of May. As of May 31st, there was short interest totalling 17,"
+publishedDateTime: 2022-06-10T15:58:00Z
+originalUrl: "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html"
+webUrl: "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html"
 type: article
 
 provider:
-  name: ETF Daily News
-  domain: etfdailynews.com
+  name: Defense World
+  domain: defenseworld.net
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.marketbeat.com/logos/generic-stocks7.jpg"
-    width: 1024
-    height: 683
-    isCached: true
-
-secured: "6vbXDKZB2OWNx/oSRFySQtiu0mDk9a1ohk2CUW1i0eBa99GVahQJcVNwZAOaljg6KV8MM+sLhWiqtf5OTGUKaBxfy5sHLeqLVrtXGKiOgcNaiUew0/4wxrUX12ORSVe+mEDnK9LvlNGhluqspq3XIbOUfBo+rMDoi15HjmL/qSKfiPnT4XfPoonbwKZPUAx4B5Gr3R6AxRW+Do0k7pp/Ee54Uop3yM1lQKPUMZ7evMPunXo7aH0xsOfE5DVTur3FqUFKe7o2mX9lS/a7CIIBMNIgjF5QL9nwMIENpDNp7nN2KT2pQoBG4sDnVKzAz2kcfUMPDOdVRDXmbf5lTP7jiPfD6gHWTEYmvcAORAfTyzc=;EX+1ety0xmthyg6X1D3pJg=="
+secured: "x5N972MRN7jBnQda/OwYOjQmx5zIVJ+YR7XDC6yWfnGHywdQ+dUTjGZEo+jP46fs63D9O4x3gH83fNMh0+NgX5wsj8nAP5K2MZTiFfsbcgEj2ezNo2BpH2agTNXURSYJz+u3f05wfZA7vZBezi7+lEy4Bsz3dvDcp9LSjFdjB5TTHzO+aJ4bIG8rRJvAYBU8N8i3N/HtnoinZlYbqnti56FYJJH5b5Sm0h1lpxU77Pfo9EzZvCnqZFoeq9THJ7KGmi4H/v9rvUezKjkEAXFcaTF8t9VseWxqOqDrDKY9GUHz8FtQ55Lw3DqWL/v3bjepR1ZGSUHHK63sfj1o9zT87I0EMouYkXjJW4R2cPcKAeU=;vWORycY636Usn942kms0FA=="
 ---
 

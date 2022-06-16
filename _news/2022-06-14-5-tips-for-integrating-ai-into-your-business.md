@@ -48,22 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Cloud-based Video Analytics changing face of real-time video analysis, facial recognition"
-    excerpt: "Cloud-based video analytics is a part of this AI bubble and plays a vital role in surveillance and monitoring. AI video and facial recognition systems work as seamless and efficient video content analysis tools offering real-time intelligence and post ..."
-    publishedDateTime: 2022-06-11T11:10:00Z
-    webUrl: "https://www.freepressjournal.in/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
-    ampWebUrl: "https://www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 50
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-10/5375c6d2-7802-42fe-8fb5-c80f5ef973b8/FBcBAOPUYAc3QMJ.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 609
-        height: 311
-        isCached: true
   - title: "How augmented analytics can empower data-driven enterprises"
     excerpt: "Augmented analytics helps organisations deal with the complexity and scale of data that has become typical in digitally transformed modern enterprises, says Jacques du Preez, CEO at Intellinexus."
     publishedDateTime: 2022-06-13T06:38:00Z

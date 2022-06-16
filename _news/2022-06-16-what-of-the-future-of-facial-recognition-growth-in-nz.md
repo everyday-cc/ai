@@ -2,13 +2,11 @@
 category: news
 title: "What Of The Future Of Facial Recognition Growth In NZ?"
 excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
-publishedDateTime: 2022-06-16T03:11:00Z
-originalUrl: "https://www.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
-webUrl: "https://www.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
-ampWebUrl: "https://m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
-cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
+publishedDateTime: 2022-06-16T04:20:00Z
+originalUrl: "https://business.scoop.co.nz/2022/06/16/what-of-the-future-of-facial-recognition-growth-in-nz/"
+webUrl: "https://business.scoop.co.nz/2022/06/16/what-of-the-future-of-facial-recognition-growth-in-nz/"
 type: article
-quality: 61
+quality: 39
 heat: -1
 published: false
 
@@ -19,12 +17,11 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
-    width: 268
-    height: 250
+  - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -263,6 +260,6 @@ related:
       domain: techxplore.com
     quality: 14
 
-secured: "8UtHE9MMXRl5djpX8aqxESev/TEgWNbOzlG19R4rh95/PuVQ5P/f9tyWvzeI3P+hLxn1qJMMFNyLDRlbynynFg2nyjLCuupM/u1lLWesyAS1w5QirlAUpE33A3Q6uvrEe/CF+BCPqoL+5i1Zo5YnbmB/bvy26Nj0mP6SkM4EHd6wGxmVmLpnbSpk71FjNvU0/UkIEhrfoKhJtoGsCzpSUn4mHQsTZHlHRIQAnsn4Ulp6zlihb2gsA9yoL6EGXjIR59xrFAP0wgaU02GQoYpyH9isamSfTXSpiGAKqqZ50NZxGvCXVpA2U2cAbV1RI9PR1JUdTnytZ4hUFjuuERBHEw0Qby6dIioeTO3Unw+aDvo=;evPgiIpZyBKVsKuDImJvSw=="
+secured: "Nm9s/0L5ohhu0r/4z7GwwgxzPd2+3KaCwIw2XsEeC4uNp95IKEIhnPrv6/mQtN/waUx8Nx0TskRgH4mj/XmlfCiy2AyWhtunMiFxLiIqlg3zclTziDMHfakQugiTavbET31wJsUMBZgX8JnOLzaFqy+qWnMywI2+GWGqlTjxCy/OfZ3Avhqrc19vm2kcXWTSX0XZpwhpymVe6J2ZpcjGlLe+dG5a4xTJ4lbiAL4vV0wTx46mVCLrVOrUq46smFeOF+HkB/LcmWJxLg6fpzdwqXT8C48BwTO+HiLrTF1rCmAPqehGRr8k4OBM4TbI9S1v1xGW1U69wIJc+WsNx5pPZwOYk1mYGyHfmj1ciwxIg8s=;rmy4sRKU9o3iG1FxSplv3Q=="
 ---
 

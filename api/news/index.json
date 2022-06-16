@@ -712,6 +712,48 @@
       ]
     },
     {
+      "path": "_news/2022-06-15-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago.md",
+      "title": "AI finds hidden evidence of ancient human fires 1 million years ago",
+      "excerpt": "An AI tool has spotted subtle evidence of changes in flint tools that indicate ancient humans had cooking fires at a 1-million-year-old archaeological site in Israel",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/",
+      "originalUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/06/13134051/SEI_109554959.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/",
+      "publishedDateTime": "2022-06-15T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-tabnine-raises-155m-for-ai-that-autocompletes-code.md",
       "title": "Tabnine raises $15.5M for AI that autocompletes code",
       "excerpt": "Tabnine, a startup creating an “AI-powered assistant” for software developers, today closed a $15.5 million funding round co-led by Qualcomm Ventures, OurCrowd, and Samsung NEXT Ventures with ...",
@@ -793,6 +835,49 @@
         "name": "poandpo.com",
         "domain": "poandpo.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot.md",
+      "title": "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot",
+      "excerpt": "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/",
+      "originalUrl": "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1078,100 +1163,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso.md",
-      "title": "Enable business analysts to access Amazon SageMaker Canvas without using the AWS Management Console with AWS SSO",
-      "excerpt": "IT has evolved in recent years: thanks to low-code and no-code (LCNC) technologies, an increasing number of people with varying backgrounds require access to tools and platforms that were previously a prerogative to more tech-savvy individuals in the company, such as engineers or developers. Out of those",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T12:46:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-how-to-use-dalle-mini-the-viral-ai-tool-that-can-turn-any-prompt-into-a-series-of-pictures.md",
-      "title": "How to use DALL·E mini, the viral AI tool that can turn any prompt into a series of pictures",
-      "excerpt": "DALL·E mini is an artificial intelligence tool that tries to create pictures matching whatever you type into it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dall-e-mini",
-      "originalUrl": "https://www.businessinsider.com/dall-e-mini",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62a7c3cdac534e0019331a0d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dall-e-mini?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dall-e-mini?amp",
-      "publishedDateTime": "2022-06-14T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

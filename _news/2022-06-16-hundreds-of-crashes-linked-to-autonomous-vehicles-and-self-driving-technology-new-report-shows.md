@@ -2,26 +2,26 @@
 category: news
 title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
 excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-publishedDateTime: 2022-06-15T20:22:00Z
-originalUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-webUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-ampWebUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+publishedDateTime: 2022-06-15T18:22:00Z
+originalUrl: "https://www.fox13memphis.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+webUrl: "https://www.fox13memphis.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+ampWebUrl: "https://www.fox13memphis.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+cdnAmpWebUrl: "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: KIRO-TV
-  domain: kiro7.com
+  name: FOX13 Memphis
+  domain: fox13memphis.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+  - url: "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 810
         isCached: true
 
-secured: "Dk72eCY4FFYA893QxgiPoP+wuVMFJUKdV+kPoz2hxczH19q9OHQES1bnDxPT81IRT+2OMg779AxVBbA6+q6C+T3RgPQAVKipckUXPu5oIywyQR1VpINl+CaJK5yzaKQnZrdsHS8Cf6oRbbtEMZ/C59qh1NfdDk5JguD69Ezk5Ks3ropxLJTLt4F2frfh0i09WN3sqAXFKKhj1dYp6qa+uhxbIkF01uGSZxOxRE9bEY50+vLvj5JRr26lEbZN+DR0DsER+ETf609x0jXgv1/kHTaS8oS4F4suiA43EaFKmKrH6exnodwPjldLZm/L+Qm6FcWjlf+m2yBlcfzelnR3y0uSfIc3YxBxyrUzknGzwBq3+lxgkxzfclWtUUS0f+Yx4nfVa3hryzkl21ezL6qMx02iaXCrSrgW070Z4w1eV4qPFqavpixG2YLg/iEcCUGRLcGK3xHA9GUryPVBFH6HLweSc2HeyGPsFAn3XEV6Ym3dzeXXp5dKIv8mMU8Gh8fPSwpOVaoFZqTtZzreuS5/Nw==;8rGFebiD4EwhF9Hnexe88g=="
+secured: "7CeW7GpaDtHc3dVreOPQEKLtqibBfXOdUynq1OXuE8AYoekCOsVMGzno4W4kyGBieKtnaa0sk7N6lXZFGyBMO7YnYXXP4vZYiqPlL8lcj5Bl4cbcTi9BRhlh+v4FATSuVtk6eLYHCJrytYVJTS7ax4Sxc3qEw9IpXJ6i4Y8HdDkhmm3lmsjkvWOjF43nfjESbpppA/sdZQVOOsCWwP1BfkQmKMaxKald0i5+gfB/UwX32tuaQ6HwYCvJMxeIYx12YLQRi6VjVaHbVy9fG6p00d0IcCvC3lM3jDcn8vYQa5d0L5986Yw08wUTfjcNv1UXSXntM6r4o+aGE5JJHSbpQ6ycAFXCzyL+TtGS8zQxz6I=;8b6fc5Ok2ClS8vVzPiJTww=="
 ---
 

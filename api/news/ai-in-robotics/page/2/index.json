@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
+      "title": "Can A Recruiting Robot Be Ethical?",
+      "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629f30684b84f80d22b62126/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "publishedDateTime": "2022-06-07T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
       "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
       "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
@@ -126,24 +179,33 @@
     {
       "path": "_news/2022-06-06-kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots.md",
       "title": "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots",
-      "excerpt": "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ...",
+      "excerpt": "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its/article_31ae4585-fd77-5568-b426-899cf63b5a86.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its/article_31ae4585-fd77-5568-b426-899cf63b5a86.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T06:46:00-07:00",
+      "publishedDateTime": "2022-06-06T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1234,49 +1296,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-amazon-to-develop-new-consumer-robotics-software-development-centre-in-india.md",
-      "title": "Amazon To Develop New Consumer Robotics Software Development Centre In India",
-      "excerpt": "The Indian centre will help support Amazon's international Robotics division, which launched its first robot Astro last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
-      "originalUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2022/05/Astro.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
-      "publishedDateTime": "2022-05-31T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
         "images": null,
         "publishers": null,
         "authors": null

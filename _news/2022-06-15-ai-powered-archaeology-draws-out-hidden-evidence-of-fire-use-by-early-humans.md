@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-ai-powered-archaeology-hidden-ev
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-powered-archaeology-hidden-evidence-early.amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI finds hidden evidence of ancient human fires 1 million years ago"
+    excerpt: "An AI tool has spotted subtle evidence of changes in flint tools that indicate ancient humans had cooking fires at a 1-million-year-old archaeological site in Israel"
+    publishedDateTime: 2022-06-15T12:21:00Z
+    webUrl: "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/"
+    ampWebUrl: "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/13134051/SEI_109554959.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Archeologists use artificial intelligence to find evidence of fire use from a million years ago"
     excerpt: "Archeologists using artificial intelligence are able to discern subtle signs of heating by fire in stone tools that date from about one million years ago"
     publishedDateTime: 2022-06-14T06:00:00Z

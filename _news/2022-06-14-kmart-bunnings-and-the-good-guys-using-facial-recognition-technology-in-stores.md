@@ -89,22 +89,6 @@ related:
         width: 621
         height: 414
         isCached: true
-  - title: "What Of The Future Of Facial Recognition Growth In NZ?"
-    excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
-    publishedDateTime: 2022-06-16T03:11:00Z
-    webUrl: "https://www.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2206/S00030/what-of-the-future-of-facial-recognition-growth-in-nz.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 61
-    images:
-      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
-        width: 268
-        height: 250
-        isCached: true
   - title: "Australian retailers deploy facial recognition as privacy laws stall"
     excerpt: "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint."
     publishedDateTime: 2022-06-15T06:43:00Z
@@ -210,6 +194,20 @@ related:
       - url: "https://www.fool.com.au/wp-content/uploads/2022/06/facial.jpg"
         width: 2121
         height: 1193
+        isCached: true
+  - title: "What Of The Future Of Facial Recognition Growth In NZ?"
+    excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
+    publishedDateTime: 2022-06-16T04:20:00Z
+    webUrl: "https://business.scoop.co.nz/2022/06/16/what-of-the-future-of-facial-recognition-growth-in-nz/"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 39
+    images:
+      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Ethical outrage as major retailers including Bunnings and Kmart amp up facial recognition: Choice"
     excerpt: "Hundreds of thousands of Australians are having their “faceprints” captured by major retailers without their knowledge, an investigation has found."
