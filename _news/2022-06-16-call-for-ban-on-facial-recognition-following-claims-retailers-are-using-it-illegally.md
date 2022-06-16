@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
-excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
-publishedDateTime: 2022-06-15T13:23:00Z
-originalUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
-webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
+title: "Call for ban on facial recognition following claims retailers are using it illegally"
+excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
+publishedDateTime: 2022-06-16T01:20:00Z
+originalUrl: "https://www.crikey.com.au/2022/06/16/facial-recognition-technology-bunnings-kmart-choice-report/"
+webUrl: "https://www.crikey.com.au/2022/06/16/facial-recognition-technology-bunnings-kmart-choice-report/"
 type: article
-quality: 14
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Crikey
+  domain: crikey.com.au
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/AdobeStock_225167589-copy.jpg"
+    width: 740
+    height: 400
+    isCached: true
 
 related:
   - title: "Did you know some Australian retailers use facial recognition on you"
@@ -129,20 +135,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Call for ban on facial recognition following claims retailers are using it illegally"
-    excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
-    publishedDateTime: 2022-06-16T01:20:00Z
-    webUrl: "https://www.crikey.com.au/2022/06/16/facial-recognition-technology-bunnings-kmart-choice-report/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 47
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/AdobeStock_225167589-copy.jpg"
-        width: 740
-        height: 400
-        isCached: true
   - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
     excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’ Bunnings, Kmart and The Good Guys have been using facial recognition technology in a bid to crack down on theft in-store,"
     publishedDateTime: 2022-06-14T16:30:00Z
@@ -244,7 +236,16 @@ related:
       name: ia.acs
       domain: acs.org.au
     quality: 19
+  - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
+    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
+    publishedDateTime: 2022-06-15T13:23:00Z
+    webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 14
 
-secured: "Y+aexDZlFBlox0k25ziskdr4uBHsQZxlH/uefK7yy5/qLY/3C32V3Ls6ybRPaD6MCkVjhLSzwefFM3hFxLOqxxsKRoY8+TYKX4ZVRg8t9DZVZRA0GcM2elnXIy2s430CCqeOMWBzJCmuijJmviQljjW5vP+Y8+GOekRFTALwmg3RP8/8WcCclrv5zJajni3kbu77FBz02sq5y+eQkSb+c2ZvD17ZDWHaJ9+CIaeN2bvES8BDFigh34+oM5QoiRF3BSIIV0xjrWl+2DXAm1IKCkVsW1soVtcXnfyhUVcTV0ypl81w1dOIbJLAYCHKvhv8VIf71cXdtGp2mtU7MwqfLCDkmNoKnFA37VUWtvodBrSvuUzduRMxTVUt7AnAfyMmZ/33mLP+PibmOwgn2+aGbMj6jwepKQvc4oyimyjyiUocQ5Z9sH6JxQmD/HQbzwtPSqagThK+B2uQBtZ9VALcnVO9KK0CNCAXTiS6AuY4BZ4iJaWG7HFpdbbvpuR3nR0l5gIa1mjEzC8U/puc8afJNA==;571JGb0rDf0rkuxDE8ytSg=="
+secured: "5vRRjyMRurs1/YDBkHYZfaMtIA6KdIBl8m04TEyd59EdLNLkmZsOKRMzs2RBwVhl3lyB9QFZWCxPO6dKHk/5TsHhJ6hI13uvsKUXjDWWWcHOwue1HSwVfkNqUeWd0CoqQIxWhaudi6ht4aQd8raRWYECxgqECoyCUNgsmVBGoiw7F8W7/nwhPYOH0Es/YA4Ul409wK+IW0sNWMRiROP1YKsOd8dmyjzT8L8SwMZpsiTNqlf06+08axcOhO5QmPl7TH6OJNu1/F/H96S4VohKKZo8YZ2Sxw3KWvv9cgtOlqCcA6eLov+9YSHgp0DUPZ0UgweLvmsJS7rEGFerWsxlygw+8MV//kEdz8+L+Of51Pg=;IjJaelF1kQCl5RxMK1PJcA=="
 ---
 

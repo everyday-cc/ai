@@ -18,17 +18,6 @@ topics:
   - AI
   - AI in Robotics
 
-related:
-  - title: "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG) Sees Large Growth in Short Interest"
-    excerpt: "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG – Get Rating) was the recipient of a large increase in short interest during the month of May. As of May 31st, there was short interest totalling 800 shares,"
-    publishedDateTime: 2022-06-11T08:34:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/11/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-sees-large-growth-in-short-interest.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 7
-
 secured: "d7tPAQiNvf9A570uioy3e0qKnVQo/lUM8qFhW6PkpOdLoRFZhFku1ntFZ6lcu80NmgvrDWrIwsSR3Qz0YIxBP3DuM2IpZgCt7EtPqQ9WHgmtEYWWHeIh47HK6Oc43tcRKdcVEgxhlKG5jZV/Tn1lSTzjqrsrWsgvCwMFXBuMAuk80Jpfey6I88gBH97svOL2+DHb082yapY9FDbmpbO4lKBLuy9Zh3RvKieoU8pHJZ29tpeM4aZPOQ8kDoNwJ0CMkc2pH6EQslXRi+sokN3D3QMT9Bgdy0m6PLTDNkuq0LtiOqA+fyrknUZNom6pvs9wz+eA1OreMfype8GMZUfnPrGr7XM0kWpwzBLJPDi0uW8=;YRo8D2GuHLGWKx+rDGJCzA=="
 ---
 

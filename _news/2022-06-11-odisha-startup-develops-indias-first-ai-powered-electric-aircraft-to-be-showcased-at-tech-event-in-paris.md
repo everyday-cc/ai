@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/odisha-startup-develops-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/odisha-startup-develops-indias-first-ai-powered-electric-aircraft-to-be-showcased-at-tech-event-in-paris/amp_articleshow/92151466.cms"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Devnagri - India’s First AI-powered Translation Engine As Language Partner At Assochom Fintech Festival India"
-    excerpt: "Assochom Fintech Festival India 2022, One of the finest and biggest salutations of limitless networking, involving new technology ideas took place from 8th to 10th June, 2022 at Le Meridian Hotel , New Delhi,"
-    publishedDateTime: 2022-06-11T08:38:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 42
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1cyvor38wbt7dcmh_1654936705.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India"
     excerpt: "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,"
     publishedDateTime: 2022-06-14T12:35:00Z

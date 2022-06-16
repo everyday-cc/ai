@@ -1,29 +1,24 @@
 ---
 category: news
 title: "8 Reasons Using AI Will Improve Your Content Creation Process"
-excerpt: "Using the latest in natural language processing, artificial intelligence is now able to mimic and understand complex human emotions. Copywriter tools can give you a ton of material to work with in seconds allowing you to skip over your tedious research and ..."
-publishedDateTime: 2022-06-15T19:21:00Z
-originalUrl: "https://www.entrepreneur.com/article/426695"
-webUrl: "https://www.entrepreneur.com/article/426695"
+excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
+publishedDateTime: 2022-06-15T23:03:00Z
+originalUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Times Union
+  domain: timesunion.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1654714755-GettyImages-1308810664.jpg"
+  - url: "https://s.hdnux.com/photos/01/26/15/72/22601374/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -44,6 +39,6 @@ related:
         height: 675
         isCached: true
 
-secured: "EASEgJ2Jr1NC5xEFDIqOXhGb/UfzqnU1BH1rLQCw7gQr8YprxC+rXfb01DfUsHjUCynSCBqeQIjiwlKL0ETHwSgWLFjjkjhL5QjpGeLP0Wp5zOps5fGUwcFiCrtX6JeDFv3ulTdyFCTzyD+D0+1h5UiuUG1EKN2s+wJyxB+M9knjJu5a+aUit92/WoNH17zMMa5aNjO8vrNkaGIdgjHF4fplA52swDigdKs0UiWkkYpvf4DlSVr6CnZOggA6p7B+iF+aA4ZFwd2ty+fyTqabINEmAbG7XcO95vJFkR+GtdO9xDEvPilLUZz9TIwRFsKRZ7CEB2UL4iRDO4DYVand7nu4QFEUHits+ktvPvDVXRY=;krZfwsW1Kp2gdiS13HlJng=="
+secured: "PEvOgqfHA2msffthxw8jABVDQg1UVrY/sKZx0PLUmShRNgh1ty4fny/A4qH7vtVld8gWH1bRqIasjBM54pmpgg6YVU0fmcT7xY9iFUO3bnSI/balj/pPyynA6AoJtKaJ+insw1EALtj8oQg4DtVLNcclGBA9RTbspUV1YiEUCZrKsF5iTrR+SWt56fBmXUIRIZkqNE6v6Jq7kskX50F1bFXwyXglbM9cw5lmeYLSipdLzaXTo7MKuXzm5FSuU57WJE9y6plyLhOP3wTHIh21eI5483dLHPd3+VCtE7CTaGJl8+o1wPYtQa9dBsr+SX2ise4teq9DWnWOZjGcd9PNx0Yn9HFa+tYtfL7OUPDp0Xc=;/EnYR1tA4dibX/ZR0srpvg=="
 ---
 

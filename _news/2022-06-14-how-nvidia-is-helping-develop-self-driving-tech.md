@@ -119,6 +119,20 @@ related:
         width: 1024
         height: 551
         isCached: true
+  - title: "An Increase in Self-Driving Car Accidents"
+    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
+    publishedDateTime: 2022-06-16T01:03:00Z
+    webUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Are self-driving cars legal in the UK?"
     excerpt: "Self-driving cars are a big problem for UK legislators. There are a couple of cars on sale today (such as the Tesla Model S and Mercedes EQS) which could soon drive without human intervention – but full self-driving systems aren’t legal to use on UK roads just yet."
     publishedDateTime: 2022-06-14T13:53:00Z

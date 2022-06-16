@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Self-driving and driver-assist technology linked to hundreds of crashes, U.S. data shows"
-excerpt: "Over the course of 10 months, nearly 400 car crashes in the United States involved advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday, in its first-ever release of large-scale data about these burgeoning systems."
-publishedDateTime: 2022-06-15T14:18:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html"
-webUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html/amp"
+title: "Tesla leads automakers in self-driving vehicle crashes: US regulator"
+excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data US auto safety regulators released on Wednesday."
+publishedDateTime: 2022-06-15T18:56:00Z
+originalUrl: "https://bdnews24.com/automobile/2022/06/16/tesla-leads-automakers-in-self-driving-vehicle-crashes-us-regulator"
+webUrl: "https://bdnews24.com/automobile/2022/06/16/tesla-leads-automakers-in-self-driving-vehicle-crashes-us-regulator"
+ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/2076838"
+cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/2076838"
 type: article
-quality: 35
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: bdnews24
+  domain: bdnews24.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2022/06/crash1.jpg"
-    width: 1280
-    height: 720
+  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/06/16/tesla-160622-01.jpg/BINARY/tesla-160622-01.jpg"
+    width: 1024
+    height: 640
     isCached: true
 
 related:
@@ -70,22 +70,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla leads automakers in self-driving vehicle crashes: US regulator"
-    excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data US auto safety regulators released on Wednesday."
-    publishedDateTime: 2022-06-15T18:56:00Z
-    webUrl: "https://bdnews24.com/automobile/2022/06/16/tesla-leads-automakers-in-self-driving-vehicle-crashes-us-regulator"
-    ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/2076838"
-    cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/2076838"
-    type: article
-    provider:
-      name: bdnews24
-      domain: bdnews24.com
-    quality: 59
-    images:
-      - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/06/16/tesla-160622-01.jpg/BINARY/tesla-160622-01.jpg"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "US report: 273 Teslas using automated driving systems involved in crashes"
     excerpt: "DETROIT — Tesla reported 273 crashes involving partially automated driver-assist systems, according to statistics about the industry released by U.S. safety regulators on Wednesday. The National Highway Traffic Safety Administration cautioned against ..."
     publishedDateTime: 2022-06-15T15:11:00Z
@@ -101,6 +85,22 @@ related:
       - url: "https://media.11alive.com/assets/CCT/images/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde/df0b79a9-ccc2-4d76-9ad3-b814d5de8bde_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Self-driving and driver-assist technology linked to hundreds of crashes, U.S. data shows"
+    excerpt: "Over the course of 10 months, nearly 400 car crashes in the United States involved advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday, in its first-ever release of large-scale data about these burgeoning systems."
+    publishedDateTime: 2022-06-15T14:18:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 35
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/crash1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "First-ever self-driving vehicle crash report released. Nearly all involved Teslas in Washington"
     excerpt: "Nearly 400 crashes in the U.S. involving partial or fully automated vehicles were reported in the past 10 months. In Washington state, there were seven."
@@ -164,6 +164,6 @@ related:
       domain: ibtimes.com
     quality: 15
 
-secured: "mt3FBdWsRAcxDDs84UGzn823WcFKaVScQ931WsQDcZI56eOSel2cF9YGqmuXV+fol8rpLokwLKWwFp2j+7nnriSXM+YDkPykpcBQdxtsmYrMpIgzZuYYg+fpo0FaCYhhtK9GcQcLAQ9OO0jlys8LroGIgusWQW81chpx9SdyBMIA+JPCRkgOS0hix302dsH4hMxoW5Qyvsd3cNGjI42wFHLSE0/Flq0ZPiFAJp/73mzWaDjyYll5SEGag8+rxFL4hoxwvC2xedHVE4cB0yO9PZs3NDCXDVuAfcSTHOi1D/fh8Sf8OHOPrQ3mRkbyd2cNoZhhsTeA4Z/TrHJsyfMqfJwvXS5VP113mMPE7D3oiq4=;pcafdZu536/9LnTEpoAg7A=="
+secured: "CWn3SgBZhUBIrBf8CdgRQq9TtPIh9gNSz+fET5a7Fn/3vxIR53PfzHtY0iM0dogv9g4nsI18F8JPkjbMeb/4GPMPCGNUoQmifCbV+XU242PGjxCe+dCuB2Z8yLoiJxVIEs7vV7XbHFmp1rfnQ4V4iO8wdNVyhGt1s/6j6W86GCrWp7qir8KvKAatdPuDTfrQGPFK9lc43svpt9visDEAQODpSiA0Cfeqgwv9vNENBBfsnVo4+cyCFnrjgRnVvA4OihG61m3pHkQW0hEIxaP09JLs+HgvLBjnRpQq3zDs5KHMMdhdzNO88AMBid1Y8KAbViRunJiY0JBiE9x80SA7ZYDeRkQbAJcgiALFV385ZAY=;3p9Gyzqu6bGF08wTyQyynw=="
 ---
 

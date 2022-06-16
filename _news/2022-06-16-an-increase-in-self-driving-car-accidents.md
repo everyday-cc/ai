@@ -1,37 +1,46 @@
 ---
 category: news
-title: "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars"
-excerpt: "One controversial posture by AI Ethics is that we can purposely devise toxic AI or biased AI in order to ferret out and cope with other toxic AI. As they say, sometimes it takes one to know one. This includes self-driving cars too."
-publishedDateTime: 2022-06-15T15:00:00Z
-originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/"
-webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/"
-ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
+title: "An Increase in Self-Driving Car Accidents"
+excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
+publishedDateTime: 2022-06-16T01:03:00Z
+originalUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
+webUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
 type: article
-quality: 72
-heat: 172
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve//6282b4794ea6e86efd7eea24/0x0.jpg?format=jpg&crop=1534,862,x0,y79,safe&width=1200"
+  - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
     width: 1200
-    height: 674
+    height: 1200
     isCached: true
 
 related:
+  - title: "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars"
+    excerpt: "One controversial posture by AI Ethics is that we can purposely devise toxic AI or biased AI in order to ferret out and cope with other toxic AI. As they say, sometimes it takes one to know one. This includes self-driving cars too."
+    publishedDateTime: 2022-06-15T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6282b4794ea6e86efd7eea24/0x0.jpg?format=jpg&crop=1534,862,x0,y79,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "How NVIDIA Is Helping Develop Self Driving Tech"
     excerpt: "NVIDIA is teaming up with big brands and creating technology and software that'll be at the heart of the self-driving, autonomous vehicles of the near future."
     publishedDateTime: 2022-06-13T17:55:00Z
@@ -120,20 +129,6 @@ related:
         width: 1024
         height: 551
         isCached: true
-  - title: "An Increase in Self-Driving Car Accidents"
-    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
-    publishedDateTime: 2022-06-16T01:03:00Z
-    webUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Are self-driving cars legal in the UK?"
     excerpt: "Self-driving cars are a big problem for UK legislators. There are a couple of cars on sale today (such as the Tesla Model S and Mercedes EQS) which could soon drive without human intervention – but full self-driving systems aren’t legal to use on UK roads just yet."
     publishedDateTime: 2022-06-14T13:53:00Z
@@ -162,6 +157,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "Dc6zQI015Ay2HGtOYVQM2uYs7RKubiMyLnUpVEaFIVKJDtW0jgs9OCCUzn7P3nMoFe1+HIynKXbWw378b7xNyRJcST757qJiTUgcQnYAeJkSzvDDdxdKtlF9HjxDrdsnqHK5N+4sVuQXUbEJ+5RwAnwoPsK7utXJ/omjK1Z5CujKoUauTcHbMriKRj0xoaHCEQYLYVFZVik1gRgo5VZKNs3ObxOn4rIeKVVYZtBCdbSuvxYmusO4qs0ZRr3ijj9sSG2Req/Pt8sDj53+ejSK3RrypZvr1Lr9Y1WbcXe2sPIKVbRPxMlVDvv9uE5QcXuc8bvQDdeX8BB1lPYfAgJuZQFUxoSIcXQnEligsR+jgKkOPaWAflKv3Wt1PduNHnaRPFc4A+9ZCExqGN9os7M44lZ09zeayB2hMVOItvVXdEteE/+mvPPFN4zU524Pd+GjEF2qMFUhec35rZvQfVX33RMaMGtlL/MHPvjJrYQfWmCNt/X0qsIzdV8yLcYql26rkajF7YC/hCpcoAXcZIcVTg==;43DiCG8vztJxGv3rlOGC9g=="
+secured: "QiJJDf2CtiMibTjFZnpN2Jop+fyU9Xmy65AqB7ALVLYCtE9yT06EvtsTroJcahvMZcGYvS9HX4ieOIdohDC/14cBcpEkPoVGhDBlLPqs/R71u7ynmt7T8dslbapoO+q28Ki+errT8s1MXGMiQZt23owuAZuSWxnxiUDld0goGbf1g/MKlUWdBvGYjXEZoAOwpEgkUbV/jH7n9LK3iPj7UAIRPGyudYRSzQh9MxkAeQo7XNNZHw4XleVnX+AKdcj88PPzRWe+4pq6/uf0Zw1tN6Te7X0IM7c8QP8ObU0NdBlGgu9cUhQD4684UIrWhpgBGD63R5LquBlHksG/gceeFiPA1u7EK8mQk6wxwlfrepk=;m+S4UMRnyp5ETCt36CFWcQ=="
 ---
 

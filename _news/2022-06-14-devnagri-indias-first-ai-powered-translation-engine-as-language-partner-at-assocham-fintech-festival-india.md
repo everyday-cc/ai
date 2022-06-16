@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Devnagri - India’s First AI-powered Translation Engine As Language Partner At Assochom Fintech Festival India"
-    excerpt: "Assochom Fintech Festival India 2022, One of the finest and biggest salutations of limitless networking, involving new technology ideas took place from 8th to 10th June, 2022 at Le Meridian Hotel , New Delhi,"
-    publishedDateTime: 2022-06-11T08:38:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 42
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1cyvor38wbt7dcmh_1654936705.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Odisha startup develops India's first AI powered electric aircraft, to be showcased at tech event in Paris"
     excerpt: "With serious challenges caused by fossil fuel and pollution, the future of transportation is a big concern. BON V Technology, a homegrown startup of O"
     publishedDateTime: 2022-06-11T16:23:00Z

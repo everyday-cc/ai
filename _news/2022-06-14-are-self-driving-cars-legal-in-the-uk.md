@@ -123,6 +123,20 @@ related:
         width: 1024
         height: 551
         isCached: true
+  - title: "An Increase in Self-Driving Car Accidents"
+    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
+    publishedDateTime: 2022-06-16T01:03:00Z
+    webUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Paving the way for more level 3 self-driving cars"
     excerpt: "PARIS: Thanks to the latest generation of Valeo’s LiDAR (Light Detection and Ranging) system, Stellantis will be able to offer its customers a more enjoyable driving experience. Level 3 self-driving capabilities can be achieved thanks to the ability of ..."
     publishedDateTime: 2022-06-15T01:40:00Z

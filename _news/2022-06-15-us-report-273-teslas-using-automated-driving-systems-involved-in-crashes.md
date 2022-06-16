@@ -70,6 +70,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Tesla leads automakers in self-driving vehicle crashes: US regulator"
+    excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data US auto safety regulators released on Wednesday."
+    publishedDateTime: 2022-06-15T18:56:00Z
+    webUrl: "https://bdnews24.com/automobile/2022/06/16/tesla-leads-automakers-in-self-driving-vehicle-crashes-us-regulator"
+    ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/2076838"
+    cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/2076838"
+    type: article
+    provider:
+      name: bdnews24
+      domain: bdnews24.com
+    quality: 59
+    images:
+      - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/06/16/tesla-160622-01.jpg/BINARY/tesla-160622-01.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "Self-driving and driver-assist technology linked to hundreds of crashes, U.S. data shows"
     excerpt: "Over the course of 10 months, nearly 400 car crashes in the United States involved advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday, in its first-ever release of large-scale data about these burgeoning systems."
     publishedDateTime: 2022-06-15T14:18:00Z

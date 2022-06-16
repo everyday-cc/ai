@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Businesses and organizations must consider ethical concerns of AI deployment, data thought leader says at local summit event"
+    excerpt: "Doing technology right is really about finding ways to harness the power of this technology and to simply reduce the harm,' Renee Cummings, instructor, AI ethicist and data activist at the University of Virginia,"
+    publishedDateTime: 2022-06-15T22:54:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/06/15/ai-ethics-commercial-deployment-part-summit.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "51Ilxu73F+au0Pdo86rTe0NRTq8NUIJiiomy3YDAzyLx/Bjsnvh3iGk/AwArXvEc36JlOixizb2HkS/cFt7QGfKIltJ/6+X4HLjyoqYnZGgkTvQ6Sv7cy897tZwb4B276femfs5GEhEolnh39IlgMqFYKxrS61aY8OVgLQaZD8XXMesWJrJ9LWjXnwiXVy7pHX6+YB1REq6Wyj1mD7zymxX0XGFYiFoobsi8FN94C8avFj9bUBqVy1e9Lm+F1D4NEVeQ14YUroxELlJ04F8S8718dV7+YMKV1NKvuME4vtXT0rg/30Ie2rUdWcG6L+nqdB/GCduVcirbPsxY7OI1Mbb9iLAxE/RFPd0N8KpdzyBciIZ4HR1qxl76V/KAlkL5yAIqHvKtZ9NeGRXdtSEgmxkJODXq/icBKnDIq4jAL+JfnEPlbk6//hxp6Ir8GjmTWH+ueR6Xyx78HMx4sKs9iS6qLvZzAWruPCpxdK3xpNuu2pQwM73w+aZRrOk5qQi0vuKpszM+8F7kOHOb++j9wA==;mnPsUqBo3/RwKak1jYGPzg=="
 ---

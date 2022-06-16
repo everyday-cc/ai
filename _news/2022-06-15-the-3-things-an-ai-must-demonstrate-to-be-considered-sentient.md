@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/the-3-things-ai-must-demonstrate-to-be
 webUrl: "https://thenextweb.com/news/the-3-things-ai-must-demonstrate-to-be-considered-sentient"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1278
         height: 720
         isCached: true
+  - title: "Businesses and organizations must consider ethical concerns of AI deployment, data thought leader says at local summit event"
+    excerpt: "Doing technology right is really about finding ways to harness the power of this technology and to simply reduce the harm,' Renee Cummings, instructor, AI ethicist and data activist at the University of Virginia,"
+    publishedDateTime: 2022-06-15T22:54:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/06/15/ai-ethics-commercial-deployment-part-summit.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "eABxCee3gvP7z4rQzINyWxxkhVEXdBl/oTE8ZjE5RrTooyPJ4omZhc15GiSGEodRm5USMwHiUOkU29If/Y7J7eo7JVTfkPYsNrZJhGkj7YivyiiFHmjvwFp7L3g/z74wvC16A8v16lP19WM6sxoGfKpNHWAesPbryiT6kM4jnQzGJJ/tBWP8ML/Qe9KoYIZvX4N2w5X5PiTN/bdqecDvo5LGHScO3rXIcg47vME6c2WwyshJmYRr1NruhyAmCI+FYV2QDPRCxx7q6LRg5IK2qbAxn9I00fSg6GIe/THO4eQxL3T3zKCiLFaEu5fJDxY8RWuNPTy0mjbaqvT2dl0yB/13hGTx5MygolcBer4vnvCehgo5dz32OQXz6Mza3TPuZk42uLPhumMami1DXZhnYrcinOKBtliVODAcgYqYFxPTPEd0KOQKAE75rVYcSw1mjaFT4JKF7+G+wCI9caXq7nufRWV3322e3b2ZbrvrycSXMvSpXHrpS3yFer67lJVVbF4QIEcvJBEDZ7HqwF47ww==;Zo7rf9TIteYuGruODjj2bg=="
 ---

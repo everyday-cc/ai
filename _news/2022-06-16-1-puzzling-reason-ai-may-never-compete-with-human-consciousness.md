@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai
 webUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: CNET
@@ -29,16 +29,16 @@ images:
 
 related:
   - title: "8 Reasons Using AI Will Improve Your Content Creation Process"
-    excerpt: "Using the latest in natural language processing, artificial intelligence is now able to mimic and understand complex human emotions. Copywriter tools can give you a ton of material to work with in seconds allowing you to skip over your tedious research and ..."
-    publishedDateTime: 2022-06-15T19:21:00Z
-    webUrl: "https://www.entrepreneur.com/article/426695"
+    excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
+    publishedDateTime: 2022-06-15T23:03:00Z
+    webUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1654714755-GettyImages-1308810664.jpg"
+      - url: "https://s.hdnux.com/photos/01/26/15/72/22601374/3/rawImage.jpg"
         width: 2000
         height: 1333
         isCached: true

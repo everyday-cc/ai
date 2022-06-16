@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Call for ban on facial recognition following claims retailers are using it illegally"
+    excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
+    publishedDateTime: 2022-06-16T01:20:00Z
+    webUrl: "https://www.crikey.com.au/2022/06/16/facial-recognition-technology-bunnings-kmart-choice-report/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 47
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/AdobeStock_225167589-copy.jpg"
+        width: 740
+        height: 400
+        isCached: true
   - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
     excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’ Bunnings, Kmart and The Good Guys have been using facial recognition technology in a bid to crack down on theft in-store,"
     publishedDateTime: 2022-06-14T16:30:00Z

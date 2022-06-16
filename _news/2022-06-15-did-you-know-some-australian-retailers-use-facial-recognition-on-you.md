@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techguide.com.au/amp/news/televisions-news/did-you-know-
 cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/"
 type: article
 quality: 74
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/BitIQ_1655112613.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Call for ban on facial recognition following claims retailers are using it illegally"
+    excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
+    publishedDateTime: 2022-06-16T01:20:00Z
+    webUrl: "https://www.crikey.com.au/2022/06/16/facial-recognition-technology-bunnings-kmart-choice-report/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 47
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/AdobeStock_225167589-copy.jpg"
+        width: 740
+        height: 400
         isCached: true
   - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
     excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’ Bunnings, Kmart and The Good Guys have been using facial recognition technology in a bid to crack down on theft in-store,"
