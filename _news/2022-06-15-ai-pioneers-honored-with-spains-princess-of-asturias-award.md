@@ -1,51 +1,19 @@
 ---
 category: news
-title: "AI pioneers honored with Spain's Princess of Asturias Award"
-excerpt: "A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence."
-publishedDateTime: 2022-06-15T13:10:00Z
-originalUrl: "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.html"
-webUrl: "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.amp"
+title: "AI pioneers honored with Spain’s Princess of Asturias Award"
+excerpt: "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,"
+publishedDateTime: 2022-06-15T12:08:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+webUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
 type: article
-quality: 59
-heat: 79
-published: true
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Google AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg"
-    width: 1920
-    height: 1285
-    isCached: true
-
-related:
-  - title: "Princess of Asturias Award lauds advances in AI for 2022 edition"
-    excerpt: "The 2022 Princess of Asturias Award for Technical and Scientific Research recognized the work of experts in artificial intelligence Geoffrey Hinton, Yann LeCun, Yoshua Bengio and Demis Hassabis, the organization announced Wednesday."
-    publishedDateTime: 2022-06-15T12:02:00Z
-    webUrl: "https://www.laprensalatina.com/princess-of-asturias-award-lauds-advances-in-ai-for-2022-edition/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 21
-  - title: "Four AI Pioneers Win Top Spanish Science Prize"
-    excerpt: "Four scientists, including two Britons, considered pioneers in the field of artificial intelligence were awarded Wednesday Spain's prestigious Princess of Asturias prize for scientific research."
-    publishedDateTime: 2022-06-15T16:55:00Z
-    webUrl: "https://www.barrons.com/news/four-ai-pioneers-win-top-spanish-science-prize-01655298007"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
-
-secured: "SlLXGu4G6yUjo1w45LM373xSq6QeU+4WlB3MEg6U/vFujAAPsw2abpYwWnyADclmZUnRgEWa7WyPi2OMYnggaIenK2The111RFRxYovJxMYW5m8uCp62XTiqeUne1kAH7yg4lGkMiLlFjz8DOBp9b0LHTdEjZQzC4XXfZNTvWBwW6MfcrXz1gbHGP0KYBXKqE9NYCyCioOp+jBnu4iO2p1tgugCgsan5jiPE5AFHCN40wA3cpXvXKlPrjFvNGPtH2O0RHM7UsRXeRh0C8lUk0IuT+SydgnZqw17f2yiJ/wLQVJC/SDQ5pLbiKb8afzM1IjoDh6opw3Gau/hcFln4juUbQoC496ohL4vhrsfLHCcRgZ5TZQ82KuLS9qPNzCfEj4loa1UyXWcdvLTJQGyS0Nk1DMPyv/g/IXwsiMzHie6NJroujiiV4VpEvUCxOEXIzvrjpu3IaKypdlkQ+1YBrUgA4InaQOy2kA41UHI7IMOxqi6kVcMrkllLzCTc3ft55R0l5IYlU06wrkWOAk3LKQ==;+2V38GMPcSbpGbod0jrulg=="
+secured: "tSttC+2NNF41ZADA+AqZweHprQ766XZLgOFzMKwkV+hG8HtbuVmgpV2aQwUMYt75Yud1+9xIhJdc1n/Mo5ew6DKorrKR/YdqlHxmY+iuT5jKINwPwprwz8JTHdhJyhT2XImUBqY8oN7I2153QoWcuY3q7qwmcA5C6EmNH+w2qcxt8qt6V3+th2hnmZQV5F5C3W+B2F2IEvSeBbNi+jSDu1sojkpTwESePmNTPNVqH1ArRFZZvuapsyDzRu/zX3tLyRVe9xYiCMt+UP52v/KskdIoeQlPHUABmmg1NIEt03bsihbVF7V4IFrfIgtLQa6X75Z1DTeROgb9uhUWw6iHLqsw6uSy8p6etOjXAcW+p6BK07/VLUc5gLTvEnJq4PXisEm2sFwTxg3PTksT8QaD+YVI8ogDWLoACx/LnoOrGsyR7NW24+iR+V+46armzpzezte3rsEt4PTkPth4UuWSUiZNdIXAOI/jOdTflliw0/BJyyCdGUb6fctzdq+G6nlbno1b+psUljrLNwoI4uHvGw==;RMl9yUGHdOdrdUX3NL3Xog=="
 ---
 
