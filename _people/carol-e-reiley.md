@@ -3,14 +3,14 @@ name: "Carol E. Reiley"
 bio: "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai."
 location: Los Altos, CA
 type: "profile"
-heat: 77
+heat: 27
 
 website: https://t.co/wvvOUl1h5W
 
 twitter:
   username: robot_MD
   url: https://twitter.com/robot_MD
-  followers: 11743
+  followers: 11742
 
 linkedin:
   url: https://www.linkedin.com/in/carol-reiley-7a91072/
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Carol E. Reiley"
 
-secured: "gtvdDmmGjtsGl4HiaH1RtZqGuYo6JhKUDeD4bcWYfMo/Y7XPNf9OtOksk5QNVgvOk/JrHbndpH2E+2njpfuPe2rl9vOUHosQFOfQvHu9HYcEAdJMN6s5jfCgFtrUxGZUY8G1zyqx5g5wZL4ZUu5NbKvi4nUh7kcDLIwMeS/WyPr/r4wgsoYKHD/1Xv+yXuZF3KoIewznfqvpsQpy57jpaovWVoGTG0Sjn4eqo+1pr/fQXiSA0XlgDcsI9QcDIkbp2bQeOH+7oOZTDtoGxRDD4AvSuWl4EAr3NQhAGURGOwg8Uas66joUvyhOtN/WIdlURVy0zPsRgyElNNSqfYvBjHyHfd8FPh6Yy7asm9cov7S15Iuu6awZhVhXb7YLZ6e61oDJVVARW+EC5ZPGskKTWVIFkvmIQQcNr4oN7Zdb3Ek=;q07fZUqrYz2kW6LuClrijg=="
+secured: "GIq4qsuGl3dVOQQzCozsNnpuG9dJWsMWEL9u6smWoNOnNuRi3HId54T9IrnTu9jK1IsEhScwy++fpb6DU+8WxvW+Ngdk6QrO5KbxcgDdR6UoXwYwmu3SYVNTR+EXSgIYGeS6jHwBSy9x//VvQegmSV4IFFMwo7RmVJhz0tO1V8Fcwn4KfYuHqMD477tWLjdzfOW1vacfQpCvh7yLvWYnM4q8j3gn6jJ7qt2XA8t+gl2J8jM25VVyg7dPjJE7K7XZrXEtIq9RVcc0x3IJEjogidTRP7w17/ZhInXpVZai4+Iscf8aLRbF1DsOn/yDLkXHlj2tqlj23HFRInRWjeasw2SiJqRO3hb/2td98zoPw5lUBUVUBwhX7ciwQh+hku4CR6A3IT9ldJr973GBDe+zRp2sxTRHdfc/kUsbJT5YnbA=;CHa/Ybk2NpY7t4hbQB4q3g=="
 ---
 
