@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp"
 type: article
 quality: 89
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -88,22 +88,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
-  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
-    publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    ampWebUrl: "https://www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
-    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
-    type: article
-    provider:
-      name: Inland Valley Daily Bulletin
-      domain: dailybulletin.com
-    quality: 50
-    images:
-      - url: "https://www.dailybulletin.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
     excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
     publishedDateTime: 2022-06-14T15:20:00Z
@@ -151,20 +135,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
-    excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"
-    publishedDateTime: 2022-06-13T02:36:00Z
-    webUrl: "https://www.independent.co.uk/tech/google-engineer-ai-sentient-b2099469.html"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: independent.co.uk
-    quality: 42
-    images:
-      - url: "https://static.independent.co.uk/2022/06/12/17/GettyImages-1149282229.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Google sidelines engineer who claims its AI is sentient"
     excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company’s most advanced technology."
@@ -260,6 +230,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 15
+  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
+    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
+    publishedDateTime: 2022-06-14T21:12:00Z
+    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 10
 
 secured: "8QKsN0Dw+3OTntwEzaAzhVxfdiIg1YaulZ0dRHGTz0xLvYNAQZOKJiOwc92rb+dCw4RNreReE0yI9yxkaW9buuXn36RrKhCY4M3uhKscI7iNaubsVAjzdhihDl2lWDqkK3yYNf4sSce+NJjWxoRLdDbanj4xKwZ2GkyJiLFGC6LOtYnw/P8apEu6xnnizj5Ite/eW1c5U8W/ZzLAJdYCP+jzocGEFGxGDu3m8qPdXExGYFarZ+v1J+pY0Q72jr2LRTSWb0mCfPHPFgxDtQ45YCaz7XWdq3p8Hcozu9+wVhTnBIIJvCDXqy/XaUkQwZb9Y7KciHHaprEsbYtCXTCaeM0ub+/seJCQasQ1LSpCEC6SCc9IT5V/5hPTc8vjHLQcrjzmvpAxdzjlLaGQ5bNPrEiHFDs2rDqJoEW076dDoHsobQ6b6UegQPnETpBug+tLrXec9F7PwawPLU8cwUAUbAWcrTKwjNkVH/3WnuvYrxfb9cdlD5oVWJQ7bGDNLL/GpHSM2ePFb4xo9KXwcdc0dw==;rsljmlCVjC+uLtB231kH8A=="
 ---

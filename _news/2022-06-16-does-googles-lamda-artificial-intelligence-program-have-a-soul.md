@@ -34,6 +34,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Blake Lemoine Says Google's LaMDA AI Faces 'Bigotry'"
+    excerpt: "In an interview with WIRED, the engineer and priest elaborated on his belief that the program is a person—and not Google's property."
+    publishedDateTime: 2022-06-17T19:12:00Z
+    webUrl: "https://www.wired.com/story/blake-lemoine-google-lamda-ai-bigotry/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Artificial intelligence may now have feelings"
     excerpt: "Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. There have been some pretty creepy developments in the world of artificial intelligence, recently. One Google employee was put on leave for publishing a ..."
     publishedDateTime: 2022-06-14T08:14:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer."
-excerpt: "In the press conference \"The Evolution of Medical Imaging Technology\", Pharmacist Artirat Charukitpipat, CEO of Bumrungrad International Hospital, discussed Bumrungrad's vision and direction to continue creating innovative clinical experiences."
+excerpt: "At present, Artificial intelligence (AI) has attracted global interest because it can analyze large amounts of data to revolutionize businesses and industries, especially in the medical sciences. Further,"
 publishedDateTime: 2022-06-06T02:39:00Z
-originalUrl: "https://www.newswit.com/en/Lf26"
-webUrl: "https://www.newswit.com/en/Lf26"
+originalUrl: "https://www.ryt9.com/en/prg/258881"
+webUrl: "https://www.ryt9.com/en/prg/258881"
 type: article
 
 provider:
-  name: academy
-  domain: newswit.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.newswit.com/img/f/20220606/3de0d353219d5f809f8079cc3ae8c2c1-0.jpg"
+  - url: "https://www.ryt9.com/img/files/20220606/iqd2f93359617c9fd89d7e6628834b8968.jpg"
     width: 1200
     height: 800
     isCached: true
 
-secured: "KPV0xhS6FlIoWeCJ+3bSi3cYFpuxwEUPjfbq7Lp+N7pGgQPkf8aZ+VTdX4ekngvZ8mxSyDAfzt7OjULsTK56OIFcF/4rfGd/6xnvEznsz7crI/SIaNYvwPpJQ9FiLLS3OlZTrThSTfe61SG0HBU0EAqeB+5lLYNDNkH8JUYebzO+9CFh0JwKVGGg7IyNp14WXv53HgpreDV7fYevPv9WVVigeo5X5NSDdH+OQHQIjknEy+c0ajIKX8onHQX2SbOh7Nxm7a+jNTNgKGIfcCNsdh+pMotCXlwmoEQgaLrDJfO6D7clIqrqjQMqIP6hAT9bRVMJb9zuiIh8GH4j8aMXaurgCLNhgaMSAu4GgAyGjPL0J7JHgEr1mjQnQfBbeuAACpPb32JzyHtQ4zWVg/FUFYwtJwc0b15SytXggFnO/nwjJhgdak5thAcFj06o+L4Gg99bNS2H4/rphEA/DLTkjRjuHxJtrhoBcXhrYi1Z6BuXXNd3bl3T7fLYjohNGbF2waylFtgciKhydS2s1zho9w==;edDtdnrZuipKJdLylWzKvg=="
+secured: "BjIVRAME5e7UoUnd+SD/vQu1uDxX2NMUZWiojA9uYTNp8E7id184bDHmLYvyBWGtxDMVV8Xj7k+fypc4G8TzajyiT4mYYPAYtER3Y6u1vU9HIT5P+kArh6qb3cNKKVc6jjiWFu+VMqiAX2uWkUoyF3f+dv7Jr3r7aRFctUq5aiG7KwkF64AncADGkL/Btz1U2JfWDsCV5OEVXOd0RYiLrKWxYawoxvFHe1LnIeIenIt9/zU+NmMhs3LfTi/u745t7Em+mij/U0IAVnHAAk6yBIeQS5iO0QZNHcmt0e8/cdbygM70vSlK/9Jgmj1YujLj/Z2qlXlFUQCsYFTG9OyrsbmxhY9p6SWIddWQdx9PEWg=;MC+h7MeD0pIUT67y6DJsgg=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T19:37:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272589789/dassault-systemes-supports-cutting-edge-startups-in-life-science-healthcare-in-india"
 webUrl: "https://www.bignewsnetwork.com/news/272589789/dassault-systemes-supports-cutting-edge-startups-in-life-science-healthcare-in-india"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Big News Network.com

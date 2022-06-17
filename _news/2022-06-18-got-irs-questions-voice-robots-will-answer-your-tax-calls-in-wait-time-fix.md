@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T19:17:00Z
 originalUrl: "https://www.ocregister.com/2022/06/17/robots-will-answer-your-tax-questions-in-irs-wait-time-call-fix/"
 webUrl: "https://www.ocregister.com/2022/06/17/robots-will-answer-your-tax-questions-in-irs-wait-time-call-fix/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Orange County Register

@@ -174,6 +174,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 0
+  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
+    excerpt: "Back to video This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the original site."
+    publishedDateTime: 2022-06-17T18:36:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 0
 
 secured: "tR7sEkDC4tgHbSJ7Ici13J+pwRZZf9lI9affRhpNni1M3EyJr0FX7tF3YjTyPvGvob9t50M0qkVGTQ1U1WHBbEDPXWse6Ae1jlEPR1DaCQkmrZ1GxZZDHGAATJP0P8pnnqbhS80ng73duecPqpvjeChC5rEovlDI6sYX8+Vx3rpP5inM6J6aEH9aTOhajOg25FcIzc3I97GO3FAGc2rB/m9IwiJJvPdRQDWOwm0qxpof2b57Fdbp4H5YUSRgSQELTvrgfxhBUBdFqYfn88+C8TwZJMBxOgXbirRXjV9JW7LieGb0aR/5YDf/Z+1I50H8RtkKjVx/XI8qYzX3adjlv4vPoUgPpSIZkRTTNzNF61aoSW7x0+mMeW7Y74I/wIJgLYte1cD0ufRCH4YMgrrJ2EM+CAAq5wGJo8E4sGFltdlc7HoLe9aGvH7AxjJK3y6yVc5JXgU7xMfwCdb6wOKV64nb+8PGKDRd7zKco8ErMHPkWCiimbIOL7JiBNKLaq8F+jSw+u+34s18dD8QPheq9w==;oF5N+YR7Xn1HnxnW96FlHw=="
 ---

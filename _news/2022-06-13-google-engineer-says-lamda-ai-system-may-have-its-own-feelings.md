@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-61784011.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-61784011.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Blake Lemoine Says Google's LaMDA AI Faces 'Bigotry'"
+    excerpt: "In an interview with WIRED, the engineer and priest elaborated on his belief that the program is a person—and not Google's property."
+    publishedDateTime: 2022-06-17T19:12:00Z
+    webUrl: "https://www.wired.com/story/blake-lemoine-google-lamda-ai-bigotry/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Artificial intelligence may now have feelings"
     excerpt: "Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. There have been some pretty creepy developments in the world of artificial intelligence, recently. One Google employee was put on leave for publishing a ..."
     publishedDateTime: 2022-06-14T08:14:00Z

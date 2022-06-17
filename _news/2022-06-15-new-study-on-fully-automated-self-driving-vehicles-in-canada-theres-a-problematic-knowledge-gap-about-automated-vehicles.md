@@ -169,6 +169,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
+  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
+    excerpt: "Back to video This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the original site."
+    publishedDateTime: 2022-06-17T18:36:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 0
 
 secured: "gi1FE3LSJcAnPlORK+BOV6P1v4prCF1B7+1yXVTU/tWEgV46ABIBUJG9D5Zad38u1s3vsDOztJkQN4eSA3Fmiv3BoK/UgvSNbFUaV+BdCQC5sXdDIKwoBeyjT0dcmCcv8unkRl6wRZSyAS/Gs0NdTYhsrSW/44HrSYKgb9bdal0v2NvJ/B8FDH++gpDusb4t9uCfmSlY0ejE6mtOBKn+QqoE3V7RV0gIIqYtMKpm8UkKbe0e6/KA7mJ7Eop4/CG4vTWuFw18i36z5tOISMHJvetEcZDPsN8bbwNlf7SpGn3I6ObZQs8KG/CGa3MgqE4rmsqmot2gOU+J6SjVzNEHB3qJnuqQicV+y/futCkFwZ4=;n2ziGoopnOFDK4/Jg4WNbw=="
 ---

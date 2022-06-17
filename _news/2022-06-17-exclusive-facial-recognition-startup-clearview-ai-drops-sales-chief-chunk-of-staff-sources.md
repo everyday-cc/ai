@@ -15,8 +15,8 @@ provider:
   domain: channelnewsasia.com
 
 topics:
-  - AI
   - Computer Vision
+  - AI
   - AI in Sales
 
 images:
@@ -43,6 +43,6 @@ related:
         height: 383
         isCached: true
 
-secured: "TXGpfdZFJfUaeC7AXIm6YIoS4yPXsC6r+589YYZ5bl9AB4O46251oNM2QG1Qoxa7ANJdgLw+3wASYaI85/xiDO2OPy6XbAkIZ0V022OOBZrpTz9P9BlvzSij0ySxlnPGTBxh5Q9s3V24QeB+CdvYNWi72JyaS9/ZQ3dN67zeAf2YUtMCDrgOkeKRBACTx2KCBujkSIlAZFlYCCnrDUKM0b6FCTYdwz3kDK++66SubA/IMt1eKAP0AAp+vOT+UtvE7qpFark26ty7X0xR6p0InIzviFfQC4pbaL48cTcWMzpgzpJyJqLzKXlzCeKznpTq3vLINCx3wmwZfmz4wAefalX2z+kiZn0TrK8MOHiV8juq0OOqeOLxwbv3cezt/yqjvwGRGOP+z8j2DGSS1VKljfewxgBOK9B1LUdOWp5qJdU3sJm1Ln5BNMO9ERSPPGN3qWWYz1z56xAdgvcxMSZxfN4lnEoD16mzxjS4Brac2Ge3fdNJPwaoUqfWAf/uq8jI6Ql55y82rWL1sQuE1RGx5A==;ZyCbrAPZiwyaQIUol0r1yg=="
+secured: "53eyJHyhCc8SyucnUa0U6EAP4Mujze6eX+zjGzfXlMwP3TESER5Ygimyzwfe+kkR9nAgCaY4NYSunAyAVZHcUOPvvKMz+elglo/mD8U5LGD9FTXKCN5+L4TpHlNlZg1c4spVN2BgDR1eeJWTfhEfoDgZnP7SOmuR6OBNtdDzoQ0i5M4qBkEKHzH+4Q+YyD1ZfZIyHv2upbW0aZpR6oH7tIpPjHlyoOCjcgI3LZn28nn+jLkv98pDpMRSF85kn06I1r1YOSfHg7wpaLt8vnODWhHk4IbGuyguQJKpKzwHT8V9s5CNajSeABZ/lTvKcRzL96qYOkakAkr0Sz9eHEJjW1HaXKEKEYT3oI3241p4PsI=;N7eUvlXSmGP3CBNbehTa7g=="
 ---
 

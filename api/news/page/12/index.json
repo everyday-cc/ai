@@ -2,91 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-06-06-cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers.md",
-      "title": "Cool, Cutting-Edge AI Videos Will Change How Companies Communicate With Their Workers",
-      "excerpt": "D-ID is launching a new platform that produces uniquely personalized and engaging e-learning, corporate training and marketing AI video content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//617c1ef97d3ecf82b2fcf7db/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/amp/",
-      "publishedDateTime": "2022-06-06T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor.md",
-      "title": "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor",
-      "excerpt": "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects.",
-      "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-06-kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots.md",
       "title": "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots",
       "excerpt": "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,",
@@ -591,17 +506,17 @@
     {
       "path": "_news/2022-06-06-bumrungrad-launches-radiology-ai-assisting-radiologists-in-analyzing-locating-abnormalities-in-the-lungs-and-detecting-breast-cancer.md",
       "title": "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer.",
-      "excerpt": "In the press conference \"The Evolution of Medical Imaging Technology\", Pharmacist Artirat Charukitpipat, CEO of Bumrungrad International Hospital, discussed Bumrungrad's vision and direction to continue creating innovative clinical experiences.",
+      "excerpt": "At present, Artificial intelligence (AI) has attracted global interest because it can analyze large amounts of data to revolutionize businesses and industries, especially in the medical sciences. Further,",
       "sourceUrl": null,
-      "webUrl": "https://www.newswit.com/en/Lf26",
-      "originalUrl": "https://www.newswit.com/en/Lf26",
+      "webUrl": "https://www.ryt9.com/en/prg/258881",
+      "originalUrl": "https://www.ryt9.com/en/prg/258881",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.newswit.com/img/f/20220606/3de0d353219d5f809f8079cc3ae8c2c1-0.jpg",
+          "url": "https://www.ryt9.com/img/files/20220606/iqd2f93359617c9fd89d7e6628834b8968.jpg",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -616,8 +531,8 @@
       "publishedDateTime": "2022-06-05T19:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "academy",
-        "domain": "newswit.com",
+        "name": "RYT9",
+        "domain": "ryt9.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -869,22 +784,13 @@
       "title": "Autonomous Mayflower reaches American shores -- in Canada",
       "excerpt": "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ...",
       "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_66087d9f-5b0a-53de-8b34-7975792d2e08.html",
-      "originalUrl": "https://siouxcityjournal.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_66087d9f-5b0a-53de-8b34-7975792d2e08.html",
+      "webUrl": "https://rapidcityjournal.com/lifestyles/technology/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html",
+      "originalUrl": "https://rapidcityjournal.com/lifestyles/technology/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/93/c93018ca-faf1-5188-a24a-16bfc5741c7c/629cfd9880f10.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -892,8 +798,8 @@
       "publishedDateTime": "2022-06-05T12:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
+        "name": "Rapid City Journal",
+        "domain": "rapidcityjournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1134,6 +1040,104 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-05-to-evolve-ai-must-face-its-limitations.md",
+      "title": "To evolve, AI must face its limitations",
+      "excerpt": "And let’s face it: although not perfect, AI’s capabilities are pretty impressive. Even something as seemingly simple and routine as a Google search represents one of AI’s most successful examples, capable of searching vastly more information at a vastly greater rate than humanly possible and consistently providing results that are (at least most of the time) exactly what you were looking for.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
+      "originalUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-04T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-05-officer-involved-shootings-in-cognitive-context.md",
+      "title": "Officer-Involved Shootings in Cognitive Context",
+      "excerpt": "This is a critical question. Cognition is basic to any given socially mediated response; and as it turns out, the cognitive importance of language, in any given OIS case, may become paramount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/fvsquarepic.jpg?itok=XgYUEu96",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
+      "publishedDateTime": "2022-06-04T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

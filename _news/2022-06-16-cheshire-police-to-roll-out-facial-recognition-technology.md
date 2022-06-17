@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Cheshire Police to roll out facial recognition technology"
-excerpt: "Police in Cheshire will start using facial recognition technology in a bid to help identify offenders. The technology will be used retrospectively to compare images such as CCTV against pictures held on the police national database."
+excerpt: "The technology will be used retrospectively to compare images such as CCTV against pictures held on the police national database. It will also be used to confirm a person's identity if officers believe false information has been given,"
 publishedDateTime: 2022-06-16T11:22:00Z
-originalUrl: "https://www.bbc.com/news/uk-england-merseyside-61823941"
-webUrl: "https://www.bbc.com/news/uk-england-merseyside-61823941"
-ampWebUrl: "https://www.bbc.com/news/uk-england-merseyside-61823941.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-merseyside-61823941.amp"
+originalUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+webUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
 type: article
-quality: 89
-heat: 199
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
@@ -31,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Retailers face probe over use of facial recognition technology"
-    excerpt: "Major retailers have defended their burgeoning use of facial recognition technology to record shoppers in-store."
-    publishedDateTime: 2022-06-14T23:22:00Z
-    webUrl: "https://thenewdaily.com.au/finance/consumer/2022/06/15/kmart-bunnings-facial-tech/"
-    ampWebUrl: "https://thenewdaily.com.au/finance/consumer/2022/06/15/kmart-bunnings-facial-tech/amp/"
-    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/finance/consumer/2022/06/15/kmart-bunnings-facial-tech/amp/"
-    type: article
-    provider:
-      name: The New Daily
-      domain: thenewdaily.com.au
-    quality: 74
-    images:
-      - url: "https://thenewdaily.com.au/wp-content/uploads/2022/04/1651129238-kmartsign.jpg?resize=960%2C540"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial"
     excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families."
     publishedDateTime: 2022-06-14T10:52:00Z
@@ -79,19 +59,21 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Here’s how Boca Raton police plan to join a facial recognition program"
-    excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology."
-    publishedDateTime: 2022-06-15T10:43:00Z
-    webUrl: "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html"
+  - title: "Colorado Law Restricts Use of Facial Recognition Technology by Government Agencies"
+    excerpt: "Ramping up the state’s continued focus on data privacy, on June 8, 2022, Colorado Governor Jared Polis signed legislation aimed at limiting the use of facial recognition technology by government"
+    publishedDateTime: 2022-06-15T23:19:00Z
+    webUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies"
+    ampWebUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 41
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
     images:
-      - url: "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG"
-        width: 1200
-        height: 630
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
   - title: "Cheshire Police to start using facial recognition technology"
     excerpt: "CHESHIRE Police officers will soon be able to use facial recognition technology to help them identify offenders."
@@ -121,15 +103,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "Three Major Aussie Retailers Caught Using Facial Recognition Technology In-Store"
-    excerpt: "A recent consumer group investigation has found that three major Australian retailers have been utilising facial recognition technology without informing their customers. Bunnings, The Good Guys & Kmart have been caught out using facial recognition software which takes facial imprints of their customers and keeps them on file for future use."
-    publishedDateTime: 2022-06-15T02:30:00Z
-    webUrl: "https://www.triplem.com.au/story/three-major-aussie-retailers-caught-using-facial-recognition-technology-in-store-201219"
-    type: article
-    provider:
-      name: Triple M Sport
-      domain: triplem.com.au
-    quality: 29
   - title: "Health organization moves to facial-recognition technology"
     excerpt: "VHC Health – formerly known as Virginia Hospital Center – is slated to implement “positive patient identification” (PPID) using facial biometrics at its facilities, making VHC the first health-care sy"
     publishedDateTime: 2022-06-13T15:53:00Z
@@ -153,15 +126,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 22
-  - title: "The Good Guys stores using facial recognition technology revealed"
-    excerpt: "Major retail chain The Good Guys has revealed which of its stores have been fitted with new cameras that capture customers’ “faceprints”."
-    publishedDateTime: 2022-06-15T20:59:00Z
-    webUrl: "https://www.heraldsun.com.au/news/nsw/the-good-guys-stores-using-facial-recognition-technology-revealed/news-story/64c96abeca29d0c6333c600a62c64fd6"
+  - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
+    excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
+    publishedDateTime: 2022-06-14T23:53:00Z
+    webUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
     type: article
     provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
-    quality: 19
+      name: KTVQ
+      domain: ktvq.com
+    quality: 8
   - title: "Bunnings, Kmart and Good Guys investigated by Choice over facial recognition technology: ‘Like collecting DNA’"
     excerpt: "Three major retailers are at the centre of an investigation over a ‘completely inappropriate use of technology’ to record customers - with most shoppers unaware they're being watched"
     publishedDateTime: 2022-06-15T03:34:00Z
@@ -172,6 +145,6 @@ related:
       domain: perthnow.com.au
     quality: 0
 
-secured: "emhGdTUF7M3Uw6tkxwRlgt/L76PUZ5y31/kiE872q0FaTNemYSOCbaUUbD6tJojhniwvCUgthuQZeV8SWR9d73+ZeY48wSP1DsMBYiZbqEg1+Z7FRlBdfcJJWa31OzbMZbz3rcHQPro9nVYuRKLs4zOw97rAHBYc3dncf1kcUjSWeng4z7ahyy4UKGc2ulBAqSVwctMOmon3YPrli4hSeLMrU0VFl3nF+4o5sn4syihonL2EogsYO1J6Wn08kTYycKuPysg1UR42Ap1dP73rP2s/HeBq2w+QTQcDnp8LWUfzxf2rh6r3namnl0HW6TFiHCnqrDHD2us/2e/B7U2UoCtIAna4n3IXVyN2Bc6pJUTmGdf9IGhFMU+ngj18NHArLSuOkVV07J1vluC+r4okualfhxTnYQnHXGijgyKAFcZ8WbIZ0267oAPvMx36dyeoP5ug/kalmJG5SAz1cF3DLmu824mhQeEBPqC7OCmrQAiAf9ZAah76FsVhLvcy1gLK1zfSRYIoT/Y9OSjU6YIflw==;CTOk938u6mgI4sQRjwIsZg=="
+secured: "BI7WmUYM8w+2YZx9tVXPN7pCc0bhN8Z+X7tcCzPIgCSrAuJcV5x0V4IAdhi0SVF8ibw9cr6e4eszzcVPqWfep9WDfr/eEQafF2X6BeRb7M6LPSJDKEzYvC/QBKGPPKReMN/TmvDdxs297gTivWGK9UoIDq3S1MYtHo5ejrdQ9osQWrXYSmE7OstJwCmu9TkUvVgNVUk5fE9V0KSmqk/k9IdRH1ubhFRuSh4bT6k/9fLwqgH7pyfdaxtqGQyYa+RtDoe8ucOWk136fBe+pb7HjCE3KPoa3QXsNEDsZqthj3Ucuj+dBFM8wxaAC/UXqufA11NYKrShGW06Aa8Z+6oR10jQnH8rTvOPqMCBtQ2HpzA=;4uhKtEF+UF6pfNQ1KWte4Q=="
 ---
 

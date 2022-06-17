@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chi
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 – 2028"
+    excerpt: "Reportlinker.com announces the release of the report \"Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 –"
+    publishedDateTime: 2022-06-17T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27768390/global-nlp-in-healthcare-and-life-sciences-market-size-share-industry-trends-analysis-report-2022-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "Od3B5wDVvAwS+iWECYqR8UCo2qY3CNGwyfx+DsW6N8RzR3EUHAh3HCq33XijsCWkbKMmLAvhs9RGnRUBuiThzmty4LFKeDyK3SMqBC7lu4L43GmfKGh8BRfxRJfXUc/hDjDHudHLfxWBFLxOfryd3Zox697oDME9cTIaA9G0HUFXaDFEAy3sjpo4TDN72v8bZXRG0ES+thiW9xFupAPNN4bfgDRjAiDQshr9S9+1TvRVyIeMuXO1W6ayMrTarY4DXemoL/Iwa9fyq3pEhpdTFyQekm9CfRmIn9XX0vP/8mxJXZazloniFspsw/FUbFdazkVD65wrRUmoa8YnFR/4ATdcF5lqgnsHTxU4UVQScb4=;ZdO3Fukzvy8x6kVOF3Do8Q=="
 ---

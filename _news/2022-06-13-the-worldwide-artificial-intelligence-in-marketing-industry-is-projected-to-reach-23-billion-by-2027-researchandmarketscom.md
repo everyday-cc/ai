@@ -71,6 +71,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 – 2028"
+    excerpt: "Reportlinker.com announces the release of the report \"Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 –"
+    publishedDateTime: 2022-06-17T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27768390/global-nlp-in-healthcare-and-life-sciences-market-size-share-industry-trends-analysis-report-2022-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "ac5uyf2AUPGI+lAm/x5WUnc9UoRp6qWObpgRP5TH1GZsERlj3w2HF44AOeRniA75Dp9yQ+Je1Kk2sQ6sbkb4omVSVgb6jZ+RWqObPAs+h9kxblbN24J+eFuUo+jTo5idZya+L1r2N+xlaH8WvwqLKYk4qky4j3RUSBRNnHwpPMdwreq3owVYbOCilMB4EgboaQYCsPI9xGSTmej7WjIkK468te6bJ4fQkHzcqyh8TaCKn8dxus6f1NoHiw62xRipfFe7EwPxrrMxr5k7L9IYEP/It1KeEKXFKnj+4BTGtcvlGMeu7BfJRMqGhy+k5rpC8qDyR3h3zhCfPljGDVJBMIdhzsk3qwWURBUQ9iC97vY=;ZDk0r8G835wWzc3ekxnisg=="
 ---

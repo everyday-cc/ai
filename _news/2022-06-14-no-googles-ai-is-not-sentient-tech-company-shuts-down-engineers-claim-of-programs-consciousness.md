@@ -100,22 +100,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
-  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
-    publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    ampWebUrl: "https://www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
-    cdnAmpWebUrl: "https://www-dailybulletin-com.cdn.ampproject.org/c/s/www.dailybulletin.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/amp/"
-    type: article
-    provider:
-      name: Inland Valley Daily Bulletin
-      domain: dailybulletin.com
-    quality: 50
-    images:
-      - url: "https://www.dailybulletin.com/wp-content/uploads/2022/06/SJM-L-GOOGBAYVIEW-0517-17.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Can the new Google chatbot be sentient?"
     excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
     publishedDateTime: 2022-06-14T17:42:00Z
@@ -147,20 +131,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Google software engineer claims tech giant’s artificial intelligence tool has become ‘sentient’"
-    excerpt: "A Google engineer has claimed that an artificial intelligence programme he was working on for the tech giant has become sentient and is a “sweet kid”. Blake Lemoine, who is currently suspended by Google bosses,"
-    publishedDateTime: 2022-06-13T02:36:00Z
-    webUrl: "https://www.independent.co.uk/tech/google-engineer-ai-sentient-b2099469.html"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: independent.co.uk
-    quality: 42
-    images:
-      - url: "https://static.independent.co.uk/2022/06/12/17/GettyImages-1149282229.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Google sidelines engineer who claims its AI is sentient"
     excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company’s most advanced technology."
@@ -256,6 +226,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 15
+  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
+    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
+    publishedDateTime: 2022-06-14T21:12:00Z
+    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 10
 
 secured: "i9BkyAj/vU9LflimNR8DT6a7j7nmYGBYRWWRK0JJGgYncWWGd7QMIghnKPhvMtKr0DVCTvjhUGBcDuZZXxuOyMkqgmzEM7ApdIdGr2LJp0GXiaX9UsvEZJFpjGz6KwOzRYToObc3JuxmO+o6QPtjpMRVbrMO2Xr+aD4sN0kgwgLQ+QAhAbnfMa+ZlvjgTa1WNQvIL6nn84RR8BykSP468v0/oA1+W/QIihNidDxxiigAGolzsQ7lvSXxsISZfT9u03CKP1O4bCH6BipOYOgiw5Kvu05ZNnbmUaIM1RYctIWIum6SDjsHhA4t+VmlGZGY4/b0Uvpw2BwnbQ9cN+yLVqkfOtXABHOURaEgkHkbLNAAcjMc/Mh7M7GC7OhuIGo9tIVuTd5Sv2oEsV57Nuy7jnBya19zZLDP1WG0Hrb6N872T+z43fYzCUuYmE5RrxiSxu3S8AN0JvjgNlkfCBhb+WLt1vyiYNpyx9/x6oGy7qFhH+09H7hb3Zej7d4YsFJUpz5Y858zzFmeVteKHk5Baw==;qjMoJ2cNNXO6CybcwjOAIQ=="
 ---

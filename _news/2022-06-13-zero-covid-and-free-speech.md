@@ -41,15 +41,6 @@ related:
         width: 740
         height: 416
         isCached: true
-  - title: "Over 400 SC verdicts translated, until Covid-19 stalled AI project"
-    excerpt: "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived."
-    publishedDateTime: 2022-06-13T02:00:00Z
-    webUrl: "https://indianexpress.com/article/india/over-400-sc-verdicts-translated-until-covid-19-stalled-ai-project-7966459/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 34
 
 secured: "I2ZolwV0teQhmz+7ihnTVfvOgJa/cQ8fLt/9IumlMoy4/hAu5rO8Jf2wSVwCOlLSz8ZztAwexZvz0SqP6PnVytXMJzi4af9b7BXwy/tdUpkusRoh01lZyQOKlcnV04pB2PyD90sTsbl4s3CG70sh9ivjkPj51hjtWZbOkdw84OCgXCBMuQoTpCeeifyXHcXxtesbmxL/CzCoyfjkdHiQAShf6Jme0coppN6LTRlpMi2P39UbvhOzcVr3nISTLbO/pkuh9JP0CukuSOxYVz+LxTIyY2y+sR1+OoZcpSOROHvhqzm5gNxP2uWPeOXBTV6j+m80TCfggI4M8+7bVUSTSMGqbsD5uznS46Ax71T+rHcmQ1Nri4VmpCExtzYiVaozDh28COW8gKOni6cvLgAVE/PlvC+Cl346hN5hmDVbeCLCvtN2oE5/N+zMCAryBthp65XFMziqFbUN0QrZ/Fgg6gz79pIBu7oQSkacfgXy4DqO69nHP68I9Rptv9cxRFJC2oJvHryz7OQ0bTDAoK1/fQ==;R+UD8wMmxAN2J+PwvqDFHg=="
 ---

@@ -165,22 +165,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "Google Employee Suspended After Claiming Company's AI Has a Soul"
-    excerpt: "The technology is something Google announced last year as breakthrough technology, using it internally as a way to better tweak and improve the company's flagship search engine. A"
-    publishedDateTime: 2022-06-13T01:56:00Z
-    webUrl: "https://comicbook.com/irl/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
-    ampWebUrl: "https://comicbook.com/irl/amp/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/google-employee-blake-lemoine-suspended-claiming-company-technology-sentient-has-soul/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 57
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/09/24/e8fc9f0f-21e6-4148-9296-63d36faafd0f/netflix-disney-plus-hbo-max-hulu-streaming-1222506-4.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "Google engineer who thinks company’s AI has come to life put on paid leave"
     excerpt: "A senior software program engineer at Google was put on “paid administrative leave” last Monday for claiming that an artificial intelligence (AI) chatbot"
     publishedDateTime: 2022-06-13T15:55:00Z

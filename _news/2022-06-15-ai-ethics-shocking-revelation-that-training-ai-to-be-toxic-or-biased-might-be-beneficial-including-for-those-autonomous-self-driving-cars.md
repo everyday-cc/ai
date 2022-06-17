@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shockin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -174,6 +174,15 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
+    quality: 0
+  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
+    excerpt: "Back to video This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the original site."
+    publishedDateTime: 2022-06-17T18:36:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
     quality: 0
 
 secured: "Dc6zQI015Ay2HGtOYVQM2uYs7RKubiMyLnUpVEaFIVKJDtW0jgs9OCCUzn7P3nMoFe1+HIynKXbWw378b7xNyRJcST757qJiTUgcQnYAeJkSzvDDdxdKtlF9HjxDrdsnqHK5N+4sVuQXUbEJ+5RwAnwoPsK7utXJ/omjK1Z5CujKoUauTcHbMriKRj0xoaHCEQYLYVFZVik1gRgo5VZKNs3ObxOn4rIeKVVYZtBCdbSuvxYmusO4qs0ZRr3ijj9sSG2Req/Pt8sDj53+ejSK3RrypZvr1Lr9Y1WbcXe2sPIKVbRPxMlVDvv9uE5QcXuc8bvQDdeX8BB1lPYfAgJuZQFUxoSIcXQnEligsR+jgKkOPaWAflKv3Wt1PduNHnaRPFc4A+9ZCExqGN9os7M44lZ09zeayB2hMVOItvVXdEteE/+mvPPFN4zU524Pd+GjEF2qMFUhec35rZvQfVX33RMaMGtlL/MHPvjJrYQfWmCNt/X0qsIzdV8yLcYql26rkajF7YC/hCpcoAXcZIcVTg==;43DiCG8vztJxGv3rlOGC9g=="

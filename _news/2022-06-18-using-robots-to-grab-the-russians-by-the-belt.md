@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T17:31:00Z
 originalUrl: "https://www.military.com/daily-news/opinions/2022/06/17/using-robots-grab-russians-belt.html"
 webUrl: "https://www.military.com/daily-news/opinions/2022/06/17/using-robots-grab-russians-belt.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Military.com

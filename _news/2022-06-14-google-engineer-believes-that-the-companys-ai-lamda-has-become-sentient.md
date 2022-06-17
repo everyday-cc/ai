@@ -51,20 +51,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "‘I feel like I’m falling’: is the AI bot LaMDA sentient? — an interview"
-    excerpt: "Blake Lemoine is a Google engineer recently put on leave for claiming an AI bot, LaMDA, is sentient. In the following interview, he chats with LaMDA about time, language, emotions, religion, and more."
-    publishedDateTime: 2022-06-13T01:14:00Z
-    webUrl: "https://www.crikey.com.au/2022/06/13/blake-lemoine-google-lamda-ai-bot-interview/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 41
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/13-06-22-ai.jpg"
-        width: 740
-        height: 400
-        isCached: true
   - title: "Matrix Origins? Google engineer's claims of a sentient AI LaMDA, What is it and implications of the technology"
     excerpt: "A Google engineer’s claim about sentient Artificial Intelligence has opened up debate – not about an imaginary and distant future where machines take over mankind but the moral “trolley problem” that advanced AI systems could present operators with."
     publishedDateTime: 2022-06-14T09:34:00Z
@@ -90,15 +76,6 @@ related:
       name: Catholic News Agency
       domain: catholicnewsagency.com
     quality: 29
-  - title: "Google engineer claims AI technology LaMDA is sentient"
-    excerpt: "It has read Les Miserables, meditates daily, and is apparently sentient, according to one Google researcher. Blake Lemoine, a software engineer and AI researcher with the tech gia"
-    publishedDateTime: 2022-06-13T02:29:00Z
-    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=356247&tst"
-    type: article
-    provider:
-      name: NZCity
-      domain: nzcity.co.nz
-    quality: 17
 
 secured: "rtz/bue3xBgMaCdyb+9FvAG9HYV9qCKgSAvmFRYADED1PYTDAsLCW0aqGRyneQfbdXArVm097Er1hVR3B+VhXCqtEMrB8TtuRIsqYFhMp4UymOjHuAFwq6Z35Kr2mkiY6CsWOEVJ5WY1ZfKMLe4FsOHRWsPN2L/xaQxQwo7bgbnDJuDjz7IEJNxtCchVgkwPMcXCnKqUsAh9dxOUuuQ1ibPPzl+rJzUbN9xGm+x8CLcp4PmfyAJqpaFi4Vh4L9h2r4KgCQDBWcNm6t2WGPugj5IuowqH/E5fCYiEpdLfwTCehQfPP7WKpJbX5xgLv1hZWJ0AVVqfY0lkiDNNTqApcID8FQnA0PCduOJoSwIKKRg=;K+nxV4H8NCT0in13U8VRCg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T12:00:00Z
 originalUrl: "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
 webUrl: "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Omaha.com

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T19:35:00Z
 originalUrl: "https://www.forbes.com/sites/richblake1/2022/06/17/convoy-of-self-driving-trucks-about-to-put-the-hammer-down/"
 webUrl: "https://www.forbes.com/sites/richblake1/2022/06/17/convoy-of-self-driving-trucks-about-to-put-the-hammer-down/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

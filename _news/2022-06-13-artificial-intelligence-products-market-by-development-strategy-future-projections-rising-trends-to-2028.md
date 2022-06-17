@@ -73,6 +73,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 – 2028"
+    excerpt: "Reportlinker.com announces the release of the report \"Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 –"
+    publishedDateTime: 2022-06-17T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27768390/global-nlp-in-healthcare-and-life-sciences-market-size-share-industry-trends-analysis-report-2022-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "FzOLM5gRf0n3eE3FNuiYWjIeMykCpQu+G49a7/gImoOmlhiAhgEsByiNkfW2yOSMmHoJu9SPEn9lx2FDrBxK8RuabG2lBQPPTqdN/7CIdJdQ47Mrf8/t20l2X2+ffFQR4A+rLApzkPaz9QZ6p7XCz5KiwH++ocOBCGSKumOFRRphFzCp0RcIat0VcereIMgpLnUMn/r1M5QsLAnKdLRIjHrOubZruV+5KRMqIj6ApzKRz891k19p/hbeDmaJLm0k2rGRrp5ufbkdklYDhaFTgVBFQrF7Shq1dJ8kYMOMpFbE2MgtqFcbn3FWJba9JFluu7s/de61iMFBP/FGK+rwwuMxv6TPuQh3nPD9ZObvYF8=;EhP/fGJU+IbxPKJQRHc62A=="
 ---

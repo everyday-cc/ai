@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Otonomo Introduces Mobility Intelligence Solutions to Advance Electric Vehicle Adoption, Mobility as a Service and Urban Planning"
-excerpt: "Otonomo Technologies Ltd. (NASDAQ:OTMO), the platform powering the mobility economy, today introduced its Mobility Intelligence solutions focused on three high"
-publishedDateTime: 2022-06-15T07:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27713519/otonomo-introduces-mobility-intelligence-solutions-to-advance-electric-vehicle-adoption-mobility-a"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/g27713519/otonomo-introduces-mobility-intelligence-solutions-to-advance-electric-vehicle-adoption-mobility-a"
-ampWebUrl: "https://www.benzinga.com/amp/content/27713519"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27713519"
+excerpt: "Otonomo Technologies Ltd. (Nasdaq: OTMO), the platform powering the mobility economy, today introduced its Mobility Intelligence solutions focused on three high growth categories: electric vehicle (EV) adoption,"
+publishedDateTime: 2022-06-15T07:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/science-politics-technology-urban-planning-business-428cdc2ed50b571dd9d5126dfa248e97"
+webUrl: "https://apnews.com/press-release/globe-newswire/science-politics-technology-urban-planning-business-428cdc2ed50b571dd9d5126dfa248e97"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "aPdjKzc0EAqwqPF5Fyj35XIc67xwU43bNCMbKqlBcJvNvigC+KrUGYxcNXn2ykJ7lgWl6vxw/zfPOCOxz2rBpBhvQal/2Bs7PKVooSx/Gzga/j8Fa9VVx1vD5amqr5iLvZF9EcVhjJqacVvtbpqCBwtY0CrAcyLuUFBDLnbH7Imgb9PMQnLviZWncmFG8wOQ9Zd5Xtn7XVObJ/U5ajNS1sOMgH/xqtcgW+1D1/aMiilTTpiIlv46h0PShJZ2G9AzwjUyW8CQZLtQH4krCW1hI1E7KvxF1UsCRjI0QO8urIiDcdKiNq2dtb6FpluFELSyEh+pbOhsBDg4ioplq6Zp0WPRBuSQqvCFz2Xxc8wPSjE=;+wu8hIw8pGiljGoWT2j04g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "TG9yDqTNuvKGpHHp1c8eJJkLaRKnRUu80FZcv7+he7jDuXUDKT4rMMvTOVVknkY8VlrpfLMjYhlFOBpP3APEk6774/qMq9AEqzC0W2tfdvAxizCJeQCLSIkxpgX0ktv2SPLAGZpsssQaYIeVWTy0JlyKEBfbUCOuTGXtBhdKBVJArD4+RldlEkNHocQ5Flx/kOt0CTvZxQNLxO/qiyxU3whcaitGe0XKfEQcRCXKB6m9y5O2AXTetGxDsVLIGVWIiT6Tyb+Ba+32W2r0S6/vzMIfKwUM/7asBgDUwl496Fe6yacF7Mek/H77fxt/Xkfoh2Mj/r8w7Dro6Bai43rX8TvBdvZrup6iX/EsDed+vSY=;odIZ33bLpl6QVag/hNZVfw=="
 ---
 

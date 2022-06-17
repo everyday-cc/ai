@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/researchers-use-a
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Marketplace
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Over 400 SC verdicts translated, until Covid-19 stalled AI project"
-    excerpt: "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived."
-    publishedDateTime: 2022-06-13T02:00:00Z
-    webUrl: "https://indianexpress.com/article/india/over-400-sc-verdicts-translated-until-covid-19-stalled-ai-project-7966459/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 34
   - title: "Zero-COVID and Free Speech"
     excerpt: "Zero-COVID is possible, but few of us in the West are willing to pay the costs; the exact same reasoning applies to free speech; in both cases China-lite is the worst possible strategy."
     publishedDateTime: 2022-06-13T09:39:00Z
