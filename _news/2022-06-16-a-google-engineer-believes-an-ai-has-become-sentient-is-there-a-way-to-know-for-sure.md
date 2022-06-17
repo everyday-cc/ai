@@ -399,15 +399,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The Google engineer who thinks the company’s AI has come to life"
-    excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
-    publishedDateTime: 2022-06-12T19:01:00Z
-    webUrl: "https://www.adn.com/nation-world/2022/06/12/the-google-engineer-who-thinks-the-companys-ai-has-come-to-life/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 23
   - title: "Google Makes Headlines for Suspending Engineer Who Claims Its AI Is Sentient"
     excerpt: "Lemoine, who is an engineer for Google’s responsible AI organization was placed on leave after he published a conversation transcript between himself as a Google"
     publishedDateTime: 2022-06-15T03:43:00Z
@@ -417,15 +408,6 @@ related:
       name: Hypebeast
       domain: hypebeast.com
     quality: 14
-  - title: "Google Engineer Put On Leave Claims A Self-Aware AI Wants To Be Known As An Employee"
-    excerpt: "According to AI Ethics Researcher, Blake Lemoine, Google's LaMDA AI chat bot tool wants to be considered sentient. Through conversations and research with Google's LaMDA, Lemoine claims that not only is it sentient,"
-    publishedDateTime: 2022-06-12T18:16:00Z
-    webUrl: "https://hothardware.com/news/google-engineer-on-leave-claims-ai-desires-employee-status"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 12
 
 secured: "i+RaJAPLevMpvgjhCrYjK7gwr+pnXd14T6VdYL05cehUIRFBu5Sfsle5V1Pjvcj0L5ccanyA+54+bOoiJKdvKJkLQjaNQwVFPhjFS6bHzGb6D+065OQeddYqWhIhukbbLw77FA/lAV5inwkROc+bZNGVZQBlVHcOReUNRS2RQcT7jV3mnIZvEsmYN7YUsW90oOjiDv2JPCwLh1J/sdmtrOer+BIjOvfGAmB+djc6ADq2T/hVaVUJPDbi92RyobsBQwFB7B8WVn9g+Fse5CqYCRDU3rstVXKEX6h8svtIE+GkZxP7T248xJS+o9WuCDdxX5ozlteXlSOu14EsjsYsgGVopYX18y7pljFmd/nvXpeRASRpzt7/6eif9MTUnefuzaaa8dCrVwWKBbyQVbPMVtTlEtuqfr4jGkrn64xmxiQJexWNqYZegwNOHWNnrvfbnyRt4MFMDHMwzr4gsNtVri8NohBWUlMzf0npN8ZeSbqDW6mmqoWku8QLWIrjJfPQFMAdr9MVFJifOiGBD44hFQ==;jLSa9mKmzG0HtWWgE0InVg=="
 ---

@@ -1,22 +1,32 @@
 ---
 category: news
-title: "New Study on Fully Automated, Self-Driving Vehicles in Canada: There’s a Problematic Knowledge Gap about Automated Vehicles"
-excerpt: "Consumer readiness for fully automated, self-driving vehicles in Canada is low, and there are considerable deficiencies in consumer understanding of automated vehicles (AVs) according to the findings of a new study conducted by J."
-publishedDateTime: 2022-06-15T12:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-371c65f33f4e98454d009f4feb634fd4"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-371c65f33f4e98454d009f4feb634fd4"
+title: "FOCUS-How free-wheeling Texas became the self-driving trucking industry's promised land"
+excerpt: "For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially, the least restrictive laws governing autonomous vehicles (AVs) in the United States have turned Texas into the industry’s most desired location."
+publishedDateTime: 2022-06-17T10:00:00Z
+originalUrl: "https://www.reuters.com/article/autonomous-trucking-texas/focus-how-free-wheeling-texas-became-the-self-driving-trucking-industrys-promised-land-idUSL8N2XX4NS"
+webUrl: "https://www.reuters.com/article/autonomous-trucking-texas/focus-how-free-wheeling-texas-became-the-self-driving-trucking-industrys-promised-land-idUSL8N2XX4NS"
 type: article
-quality: 0
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20220617&t=2&i=1602103600&r=LYNXMPEI5G0FP&w=800"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars"
@@ -62,20 +72,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_au/help/i/is-your-ca/is-your-car-autonomous-the-6-levels-of-self-driving-explaine_f55c.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "FOCUS-How free-wheeling Texas became the self-driving trucking industry's promised land"
-    excerpt: "For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially, the least restrictive laws governing autonomous vehicles (AVs) in the United States have turned Texas into the industry’s most desired location."
-    publishedDateTime: 2022-06-17T10:00:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-trucking-texas/focus-how-free-wheeling-texas-became-the-self-driving-trucking-industrys-promised-land-idUSL8N2XX4NS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 46
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20220617&t=2&i=1602103600&r=LYNXMPEI5G0FP&w=800"
-        width: 800
-        height: 533
         isCached: true
   - title: "Paving the way for more level three self-driving cars from 2024"
     excerpt: "The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo’s third-generation LiDAR"
@@ -169,7 +165,16 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
+  - title: "New Study on Fully Automated, Self-Driving Vehicles in Canada: There’s a Problematic Knowledge Gap about Automated Vehicles"
+    excerpt: "Consumer readiness for fully automated, self-driving vehicles in Canada is low, and there are considerable deficiencies in consumer understanding of automated vehicles (AVs) according to the findings of a new study conducted by J."
+    publishedDateTime: 2022-06-15T12:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-371c65f33f4e98454d009f4feb634fd4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
-secured: "gi1FE3LSJcAnPlORK+BOV6P1v4prCF1B7+1yXVTU/tWEgV46ABIBUJG9D5Zad38u1s3vsDOztJkQN4eSA3Fmiv3BoK/UgvSNbFUaV+BdCQC5sXdDIKwoBeyjT0dcmCcv8unkRl6wRZSyAS/Gs0NdTYhsrSW/44HrSYKgb9bdal0v2NvJ/B8FDH++gpDusb4t9uCfmSlY0ejE6mtOBKn+QqoE3V7RV0gIIqYtMKpm8UkKbe0e6/KA7mJ7Eop4/CG4vTWuFw18i36z5tOISMHJvetEcZDPsN8bbwNlf7SpGn3I6ObZQs8KG/CGa3MgqE4rmsqmot2gOU+J6SjVzNEHB3qJnuqQicV+y/futCkFwZ4=;n2ziGoopnOFDK4/Jg4WNbw=="
+secured: "crFRNma6EjNRprB8BK/pHhV5d2asMA8StWmP2G40hMJwYbCOw656QpPYMH2qQ65ErFq/wn97lnFSlLW69OToxNyn+zd14b7+IqAxpJtX+MnGmQyK9bNfArg0FgVC1pNzBVuwo2ljUXURH2uAP9ixXxhw3AqLHNXSXLo+TnyR4vwwTD4NoO6/ca2N24ffp5l5b57K6tMcf3uLeiqliCuzEB9VgFmTaCK6ONJWzQn+/2AMYeb3B7CcDEueRxbZwUUdXYpCEUreMCcHnroyTz7zHlMrFuqn9m7UrLTSGACabPyudI8x27aEv4M0ImNUExqCRdsyiAuJ5kZ2AP0EBpQ1mmvUvJxVSyzNR6IAzkqbcyM=;87YjbBF2DK6ApR1RgncBYA=="
 ---
 

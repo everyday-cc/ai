@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FOCUS-How free-wheeling Texas became the self-driving trucking industry's promised land"
+    excerpt: "For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially, the least restrictive laws governing autonomous vehicles (AVs) in the United States have turned Texas into the industry’s most desired location."
+    publishedDateTime: 2022-06-17T10:00:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-trucking-texas/focus-how-free-wheeling-texas-became-the-self-driving-trucking-industrys-promised-land-idUSL8N2XX4NS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 46
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20220617&t=2&i=1602103600&r=LYNXMPEI5G0FP&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "There’s no such thing as self-driving cars (not yet)"
     excerpt: "How does it feel being a guinea pig? That’s a question for anyone behind the wheel of an electric vehicle with technology that purports to be able to drive itself but, of course,"
     publishedDateTime: 2022-06-15T19:41:00Z

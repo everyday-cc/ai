@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shockin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_au/help/i/is-your-ca/is-your-car-autonomous-the-6-levels-of-self-driving-explaine_f55c.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "FOCUS-How free-wheeling Texas became the self-driving trucking industry's promised land"
+    excerpt: "For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially, the least restrictive laws governing autonomous vehicles (AVs) in the United States have turned Texas into the industry’s most desired location."
+    publishedDateTime: 2022-06-17T10:00:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-trucking-texas/focus-how-free-wheeling-texas-became-the-self-driving-trucking-industrys-promised-land-idUSL8N2XX4NS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 46
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20220617&t=2&i=1602103600&r=LYNXMPEI5G0FP&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Paving the way for more level three self-driving cars from 2024"
     excerpt: "The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo’s third-generation LiDAR"

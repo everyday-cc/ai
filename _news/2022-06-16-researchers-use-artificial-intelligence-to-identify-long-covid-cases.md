@@ -66,15 +66,6 @@ related:
         width: 640
         height: 346
         isCached: true
-  - title: "Using artificial intelligence to discover new antivirals against COVID-19 and future pandemics"
-    excerpt: "Research into drugs to treat mosquito-borne flaviviruses such as Zika and dengue as well as COVID-19will benefit from a major funding boost, says a group of international scientists using artificial intelligence to discover new oral antivirals."
-    publishedDateTime: 2022-06-12T17:24:00Z
-    webUrl: "https://www.news-medical.net/news/20220610/Using-artificial-intelligence-to-discover-new-antivirals-against-COVID-19-and-future-pandemics.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 20
 
 secured: "nf7T/xkYmuepjVbhHEmcbwFPJQOSEFJYK+oeWVakGhaA//jPchTllC/pxOaUxBToMon152CqBNfRtI/gD4O813YP0UAu+PCwReCU3bgxMbRR4CnCpGDnwHsawxGn3r0YdsGMddIl2ZW619A5NAsNu6kYzMbfZ6rd24A5KZ7YBP780pLIEu8fi8hUfPASt4yWkAmkN8NwGfohSCY4q+8OaVP6hYmbVJxcp4xwAqmnnuxpcIUvpEBwg8t5uawhmCw4fFE/2G3sUXEKJ67Hxd+DmwQVb34rpcle2b2MVgpnGRuC/gaN5osvafwGqRhUKIjNYCLyDR2pa4ZCcl733k2Nw+aOjSUbZxKtbhVe1oI+RkYLWqj/FEHfmqtXHlBZuHgLo+DynCVwG+8cVSE+j+o5F+S+GCu7YDcUeYHfNPc8M2LJbvyE2ihy00IXAVmxfIRxK7sB+8UJ1TFN7fwjmTaz+jMduG49a598fnn06DdcbPhp0z2szhUkJF7b+67JuBV9PQDlGPOVlfNY5iBs7QriKA==;UBlSSmAlI04rQLBRus1eXQ=="
 ---

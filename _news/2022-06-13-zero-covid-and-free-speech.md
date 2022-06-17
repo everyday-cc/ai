@@ -66,15 +66,6 @@ related:
       name: The Indian Express
       domain: indianexpress.com
     quality: 34
-  - title: "Using artificial intelligence to discover new antivirals against COVID-19 and future pandemics"
-    excerpt: "Research into drugs to treat mosquito-borne flaviviruses such as Zika and dengue as well as COVID-19will benefit from a major funding boost, says a group of international scientists using artificial intelligence to discover new oral antivirals."
-    publishedDateTime: 2022-06-12T17:24:00Z
-    webUrl: "https://www.news-medical.net/news/20220610/Using-artificial-intelligence-to-discover-new-antivirals-against-COVID-19-and-future-pandemics.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 20
 
 secured: "I2ZolwV0teQhmz+7ihnTVfvOgJa/cQ8fLt/9IumlMoy4/hAu5rO8Jf2wSVwCOlLSz8ZztAwexZvz0SqP6PnVytXMJzi4af9b7BXwy/tdUpkusRoh01lZyQOKlcnV04pB2PyD90sTsbl4s3CG70sh9ivjkPj51hjtWZbOkdw84OCgXCBMuQoTpCeeifyXHcXxtesbmxL/CzCoyfjkdHiQAShf6Jme0coppN6LTRlpMi2P39UbvhOzcVr3nISTLbO/pkuh9JP0CukuSOxYVz+LxTIyY2y+sR1+OoZcpSOROHvhqzm5gNxP2uWPeOXBTV6j+m80TCfggI4M8+7bVUSTSMGqbsD5uznS46Ax71T+rHcmQ1Nri4VmpCExtzYiVaozDh28COW8gKOni6cvLgAVE/PlvC+Cl346hN5hmDVbeCLCvtN2oE5/N+zMCAryBthp65XFMziqFbUN0QrZ/Fgg6gz79pIBu7oQSkacfgXy4DqO69nHP68I9Rptv9cxRFJC2oJvHryz7OQ0bTDAoK1/fQ==;R+UD8wMmxAN2J+PwvqDFHg=="
 ---

@@ -390,15 +390,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "The Google engineer who thinks the company’s AI has come to life"
-    excerpt: "The chorus of technologists who believe AI models may not be far off from achieving consciousness is getting bolder."
-    publishedDateTime: 2022-06-12T19:01:00Z
-    webUrl: "https://www.adn.com/nation-world/2022/06/12/the-google-engineer-who-thinks-the-companys-ai-has-come-to-life/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 23
   - title: "Google Makes Headlines for Suspending Engineer Who Claims Its AI Is Sentient"
     excerpt: "Lemoine, who is an engineer for Google’s responsible AI organization was placed on leave after he published a conversation transcript between himself as a Google"
     publishedDateTime: 2022-06-15T03:43:00Z
@@ -408,15 +399,6 @@ related:
       name: Hypebeast
       domain: hypebeast.com
     quality: 14
-  - title: "Google Engineer Put On Leave Claims A Self-Aware AI Wants To Be Known As An Employee"
-    excerpt: "According to AI Ethics Researcher, Blake Lemoine, Google's LaMDA AI chat bot tool wants to be considered sentient. Through conversations and research with Google's LaMDA, Lemoine claims that not only is it sentient,"
-    publishedDateTime: 2022-06-12T18:16:00Z
-    webUrl: "https://hothardware.com/news/google-engineer-on-leave-claims-ai-desires-employee-status"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 12
   - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
     excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
     publishedDateTime: 2022-06-15T18:00:00Z
