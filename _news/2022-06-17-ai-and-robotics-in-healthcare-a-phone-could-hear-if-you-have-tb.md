@@ -2,51 +2,20 @@
 category: news
 title: "AI and Robotics in healthcare: A phone could hear if you have TB"
 excerpt: "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives."
-publishedDateTime: 2022-06-17T07:07:00Z
-originalUrl: "https://www.bbc.com/news/world-africa-61834753"
-webUrl: "https://www.bbc.com/news/world-africa-61834753"
+publishedDateTime: 2022-06-17T06:36:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/world-africa-61834753"
+webUrl: "https://www.bbc.co.uk/news/av/world-africa-61834753"
 type: article
-quality: 116
-heat: 126
-published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
   - AI in Healthcare
   - AI in Robotics
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1639B/production/_125453019_p0cffz8h.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
-related:
-  - title: "Your Health: Artificial intelligence for surgery training"
-    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose disease in early stages. Now it’s newest use can give patients more control over"
-    publishedDateTime: 2022-06-12T22:21:00Z
-    webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/"
-    ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
-    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/"
-    type: article
-    provider:
-      name: yourerie
-      domain: yourerie.com
-    quality: 72
-    images:
-      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/06/Your-Health-Artificial-intelligence-for-surgery-training.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "ze5Jz+70GPYw11zl/V+cVMUZAq/b6eqR0j1ldu5fzYC217LYQd/yLNJYkhlt56Lok3YW2Twca2uo55uqCG3Lg86BvsTFWrtYuEBQzY4vK6BEcYT3G9+/GqmLF9TMnJW6N/JxPhhLrXysT1VGHF/NjIcI6gH4q/FaKkbiDVDY4lkJTwO432XYpIHvBJXJN22d5wIqy4YjuowOecENYDaK8PLU+u96olHjmto5GAUUUB+X6oyQp3C07YWLp8ybaAiDgVMo+7JJRuGleBIN3egvnauja8l5owyoLKgH8L9cIWNqLxvBaVrJoUnHSAdjSR/MMSrKkXrQib3F5/T+V+89HoaGZly65Sx+CeYxX/XBxAKcMtdHz5ltk7a4xAoYrIKBiXXEoemfpPURkFzz+Bhl2Zu3ULRp6IbvXQcU4TTj2GoD9deCzQMykGgqHfO3glTGUbZy0mlvHnsHCfkWdz+NOtbnzfJtLyt77W41AuCBpXoRHdpSgfp0tLAdmxFhUzpq8FlaQJDtOQLMyjOVkdanMw==;indQ6EqwtzJ6rB2F4GXnTg=="
+secured: "Jn9ed4sOTU3UlvYwQkM/j8BRpzPwz43LINRFjHqBxWhNDOV2BntXx0DzpuLp0y5TAGXcY4HutOcX7i0J7jrMgcOwK2XgQXraYiNfW7m0biU4xxFqh0+od+1jzgjnCsH3BV+73zNw/fLTtDIMb52ctmfpoFxPIcdhO+3B7qHhtzlzEMv6m9wvgE8aRaEoHfn/fuAcf6TCYjb+oR12A9qcNWzbt7vMayRTYx2Xza4jnd9x0OEgYWEh9ttUD6B5gqa1XjRYGPvLDytor7E2DOCkowO9s/IjOx6ktL+vcSCmD7JoUlLzRsu+8M/ugrqbCdQ125vMtl10BgvCx2mG/XXt4qAGapyO/fiFMJU3nPZJKbCoX98XXfk7l8S87vBmDS3865WbJqiIkSxAUE19dk41h54D35hoRd6Nw8zsNzgCJYEQtfI8/jRGE84iW9WdKRLwQr6UGVLjFxIOe6nI0WpiVNM5HWeybiQzTByuNJecOnB3q0Xv09gR+DICYPKM4R8DqRTGlclHug3/2Cf9PWfRkA==;6nGDKRXzu4sdj79o1fAt+A=="
 ---
 
