@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shi
 cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,42 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches first UK FinTech accelerator"
-    excerpt: "Amazon Web Services (AWS) is launching a new FinTech accelerator in the UK aimed at supporting UK companies to build innovative solutions in the cloud. The tech giant’s cloud division said the AWS FinTech Accelerator is open for applications to UK startups specialising in: financial inclusion and sustainability,"
-    publishedDateTime: 2022-06-13T10:10:00Z
-    webUrl: "https://www.fstech.co.uk/fst/AWS_Launches_First_UK_FinTech_Accelerator.php"
+  - title: "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels"
+    excerpt: "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin."
+    publishedDateTime: 2022-06-13T15:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
     type: article
     provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 57
     images:
-      - url: "https://www.fstech.co.uk/fst/images/AmazonLogo_Web.jpg"
-        width: 510
-        height: 203
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Vault-Safe-Open.jpeg"
+        width: 1280
+        height: 960
         isCached: true
+  - title: "How AI & ML Technologies are Reshaping the Fintech Industry"
+    excerpt: "Fintech developments are affecting all sectors of the financial services industry such as: Impact of AI and ML on Fintech We are now in the era of fintech 3.5, where artificial intelligence and machine learning (AI/ML) plays a vital role in our lives ..."
+    publishedDateTime: 2022-06-16T11:17:00Z
+    webUrl: "https://www.siliconindia.com/news/business/how-ai--ml-technologies-are-reshaping-the-fintech-industry-nid-219257-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 36
+  - title: "Register for the BusinessTech Online FinTech Conference"
+    excerpt: "BusinessTech will hold its inaugural Online FinTech Conference on 20 July 2022. The BusinessTech Online FinTech Conference is an exclusive event for high-level banking, ICT, and F"
+    publishedDateTime: 2022-06-13T11:16:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 24
   - title: "The Regulatory Challenges of FinTech"
     excerpt: "Scholar sketches the current regulatory landscape for financial technologies in the United States. New financial technologies are worth big bucks—but are regulators doing enough to oversee the massive risks posed by these new services and platforms while allowing for flexible innovation?"
     publishedDateTime: 2022-06-14T04:01:00Z

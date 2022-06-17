@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Funding the robot revolution"
+    excerpt: "I also had the opportunity to get a peek at a few projects from Pieter Abbeel’s lab at Berkeley Artificial Intelligence Research ... ve seen with the larger startup. The past couple of years ..."
+    publishedDateTime: 2022-06-16T18:45:00Z
+    webUrl: "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/"
+    ampWebUrl: "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/prime-air-drone-deliver-04.jpeg?w=1024"
+        width: 1024
+        height: 656
+        isCached: true
   - title: "Revolutionising banking, biz scene with fintech solution"
     excerpt: "Biz2X solutions not only reduce the operational expense but also accelerate lending growth by significantly improving client experience, reducing total turnaround time from 7-10 days to 48-72"
     publishedDateTime: 2022-06-15T17:21:00Z
@@ -34,33 +50,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels"
-    excerpt: "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin."
-    publishedDateTime: 2022-06-13T15:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Vault-Safe-Open.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "World Bank’s Recognition to ‘Bangladesh’s Silent Economic Revolution’"
-    excerpt: "The World Bank recently released and catalogued an item named \"Unpacking the Silent Economic Revolution in Bangladesh\" under ‘the ICP (International Comparison Programme) publications 2022-21’ program on their website."
-    publishedDateTime: 2022-06-13T09:56:00Z
-    webUrl: "https://www.daily-sun.com/post/626143/World-Bank’s-Recognition-to-‘Bangladesh’s-Silent-Economic-Revolution’"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/626143/World-Bankâ€™s-Recognition-to-â€˜Bangladeshâ€™s-Silent-Economic-Revolutionâ€™"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/626143/World-Bankâ€™s-Recognition-to-â€˜Bangladeshâ€™s-Silent-Economic-Revolutionâ€™"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 41
   - title: "Huawei announces new Inventions revolutionising AI, 5G, and user experience"
     excerpt: "Huawei announced a batch of key inventions as part of its biennial “Top Ten Inventions” Awards at the “Broadening the Innovation Landscape 2022” forum held at its Shenzhen headquarters.The award is designed to recognize inventions that could create ..."
     publishedDateTime: 2022-06-12T23:41:00Z

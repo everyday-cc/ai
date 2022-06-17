@@ -8,7 +8,7 @@ webUrl: "https://www.marketplace.org/shows/marketplace-tech/researchers-use-arti
 ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/"
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.marketplace.org/wp-content/uploads/2022/06/GettyImages-1212007685-e1655171450331.jpg?fit=740%2C494"
@@ -75,6 +76,6 @@ related:
       domain: news-medical.net
     quality: 20
 
-secured: "ElGrg/4bz9RLabpWvr7UjkFW73YMILkavTgC6zE/J8zKESH3dIWWH6bbSC1TNrkjzrLIeitamoGCHXx8pFUon5HUOXoCoEisAA/6+JEkSqhMb6pzHQyYm4eZsMktTPSwLIY6K6+16QMn80GE3Xe7UBYJ3vbYZWjXJFmUFoQPf5+xQBdS3DUU/Sn5RLzpiUuoSoQF5f14/FYxd3E2i1TplayLWFnAgsJibVYTK2s3nf43PgZx7JI1SerKInP7iayOYX3xgNn4Ply2VwfzRHNg6lKmr1AGLDZbPaiJ0J5CbB56ktspHKdF3LpWjopFw9AyQ4xPKoJZ74q59yNN0VHLxu15OZH7j+FxvCTAfZ7xIKk=;FSBezFa4hIyNPE5oks29ig=="
+secured: "nf7T/xkYmuepjVbhHEmcbwFPJQOSEFJYK+oeWVakGhaA//jPchTllC/pxOaUxBToMon152CqBNfRtI/gD4O813YP0UAu+PCwReCU3bgxMbRR4CnCpGDnwHsawxGn3r0YdsGMddIl2ZW619A5NAsNu6kYzMbfZ6rd24A5KZ7YBP780pLIEu8fi8hUfPASt4yWkAmkN8NwGfohSCY4q+8OaVP6hYmbVJxcp4xwAqmnnuxpcIUvpEBwg8t5uawhmCw4fFE/2G3sUXEKJ67Hxd+DmwQVb34rpcle2b2MVgpnGRuC/gaN5osvafwGqRhUKIjNYCLyDR2pa4ZCcl733k2Nw+aOjSUbZxKtbhVe1oI+RkYLWqj/FEHfmqtXHlBZuHgLo+DynCVwG+8cVSE+j+o5F+S+GCu7YDcUeYHfNPc8M2LJbvyE2ihy00IXAVmxfIRxK7sB+8UJ1TFN7fwjmTaz+jMduG49a598fnn06DdcbPhp0z2szhUkJF7b+67JuBV9PQDlGPOVlfNY5iBs7QriKA==;UBlSSmAlI04rQLBRus1eXQ=="
 ---
 

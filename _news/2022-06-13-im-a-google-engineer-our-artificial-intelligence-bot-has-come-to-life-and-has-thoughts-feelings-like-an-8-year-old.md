@@ -82,22 +82,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "I’m a Google engineer – our artificial intelligence bot has come to LIFE and has thoughts & feelings like an 8-year-old"
-    excerpt: "A GOOGLE engineer has said an AI robot he helped create has come to life and has thoughts and feelings like an eight-year-old. Blake Lemoine said he had several conversations with Google’s"
-    publishedDateTime: 2022-06-12T09:30:00Z
-    webUrl: "https://www.thesun.co.uk/tech/18861232/google-engineer-dismissed-says-ai-is-sentient/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/18861232/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18861232/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 35
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/06/offplat-cfp-aibot-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google engineer says company's AI bot has come to think like humans, faces suspension"
     excerpt: "California/IBNS: Google engineer Blake Lemoine has claimed that the multinational tech company's artificial intelligence (AI) bot has become sentient (able to perceive or feel things) and shown signs of being able to think like human beings."
     publishedDateTime: 2022-06-13T11:08:00Z

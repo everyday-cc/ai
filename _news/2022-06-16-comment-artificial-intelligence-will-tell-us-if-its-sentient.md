@@ -35,7 +35,7 @@ related:
     provider:
       name: Jewish Telegraphic Agency
       domain: jta.org
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.jta.org/wp-content/uploads/2022/06/06-16-2022-Golem-copy.jpg"
         width: 2149

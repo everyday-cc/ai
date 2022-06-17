@@ -8,8 +8,8 @@ webUrl: "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intellig
 ampWebUrl: "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp"
 cdnAmpWebUrl: "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg"
@@ -26,6 +27,6 @@ images:
     height: 692
     isCached: true
 
-secured: "V49U5CFEmlskoTFJhg3jisFg6D7HWBSjgH6CPbbO1AmCk7FZ0hmpU4MPrb1MIl4c7QEim2i8wbqiMuLKi4NQlolSM3Eiji/A2PMnj+V9yq6xV+SFkb0Zy6nJ0BiavCFiqAcH3PKSfL0E5p8ic4bXwTcJdFVEhjCsI3hGxKqYmg2J49u/3/9vi3M2G7M4qMm60O5TtitIqiY0lTCwIQw+zin6apNyPdKLuFFUKqtdd29tX8fmT/aoCq4nUgZNDYLxVffQhuxLkdwNcTA69/kbFl02VU5xqA/Sv+NVUehLctEzpGDsG6rvRMpweRa18y67y2t2OIljH2dxJgee57yw3cz99MfbogesdeYbLpPOA+A=;J5O4XPhqTQ520JUgC5+iDQ=="
+secured: "NDc11elocEe3fDgBvj1q503CjrQK15Fyi/yyLD/G7JttfGRPj8sJtuGBTz0zNCC3+HQRPz29qqfb4b7m+Zvo9BjPFGIw0Jbql0KajoFz+aVNCI+3sQKeye8NEXV+ReYfcOftlyiUp+ASnRlUonMLVIln3CKOSmU6rpriZrC4t2eldoTcmQ/mfDsCBWzEd7teUBpLZ0cbdWLKdlfBxQHb5vZ9BW1DP0IufYt4vfPDYbrPCIK9S7GtjCqZE8WoLasyN9jpBGvqalNIPHDu82zHgTnU22sv0ilBhUb4/dZ07TpntFC+kovYuK6hYqGq03pFvZDfRXOPxa0jD4RCwM8J3xH5xOW9f2D34yoEHLxUp7/1WR7yoc6rJMcYPfjVwgssGbiGz1V5Omf3FcOXSXy86uHsEqZnuvZoO6Ez3BAzjxeElBM/wOZNbNSPMPtzDsTUkiH46uKhWuBzD5rgzdHgoRkiN5z7+FX5NyFtuEGlsMtAi58WZFQ6OLVTUxJ/aUcrcaPfuX8vjevYKBrHgEs03A==;jmPXSPrw4iAG2ie+TFs8iw=="
 ---
 

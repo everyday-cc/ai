@@ -8,8 +8,8 @@ webUrl: "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it
 ampWebUrl: "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp"
 cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.jta.org/wp-content/uploads/2022/06/06-16-2022-Golem-copy.jpg"
@@ -42,6 +43,6 @@ related:
         height: 400
         isCached: true
 
-secured: "prF1EFtHxhg/9ENOfpFqMdZrutHTHR+VEcU5+PM5Yv/bflWxZEQ2cZHeauOrytNEtlwi/A7rOdZjkohyyT4ufVshZIpHqhxblmOPvgyNf6GR3QXKQ0OoqpX7Bp8Bw5tbwOythI431calhBRydYRA0zcec+wBu8uQxEtb5o6ATKw4gwQf9vKnJOcTbaWr6Idiws6voMmdYFJCXUjeUqAFsNVvOOru3pDkQFADFnioihI92/RU8IL9PHjZMJmHQ9I/cq9bnePlYdUFjQlmw0KFLI4f+Uh3VkqYVcS21++gymP0bq4tBL7J+6DhGt0I3wRNlK1Ilk61aKHLzyBQaoOZ8QnRqLb61t7GFKL8LLI4n6c=;WAY7V7rp0A9zSTLbLSLbbw=="
+secured: "qPWKh9fLvMWsICQQ8Egwg3aEi5qVTvWbux0EtilirZQJJn82U4kLPSXYjH7TqFh8715j9OT2NPIp6Oqj5Pq2bey+iFLr9ezWfXiZMYJNuc3ViKKT14+j2DesFirnx+HgYxNbybBjtSfJ6Kl14kYVXheyrLlE4Vy3EQ2izG6xctXOsW6bfZL/Awuf5ZhMdase6M4JmN00HT4onQmCVsk2fwUGoeYaBnE5X8yEa1QSZlbrGfzoBBwK+tbKnwStU/qcE0V6yTzWKXm44jI7OWH2m2INpRlTfYZAQG6sKEPhDoptNqbMv1o/jRsAXu4jh/kIvA9/w6vLKjHhxuJb5DpUsIL3SacTbmFq/fDgtbjP/NtpPz93dihR3V9AG0RsZVGq3uK/g41SpX2fz6/eIWYbemMJHkUg/mnWGyp0UQqiuFNx847WzZF7mn/PNlXCMS+csm6SjDUSqNLDJUD0/8Thl9uY/BLMU5fI/QQT7D746YX63ncZjPym0M+O3CCjX8rPRuJ3OUNCb28neBkCAHYmIA==;pCt5IHIV0oqi4VLkF44FJQ=="
 ---
 
