@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/1-way-ai-is-transforming-gr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: ZDNet
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Synthetic Data Is About To Transform Artificial Intelligence"
-    excerpt: "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,"
-    publishedDateTime: 2022-06-12T23:00:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
+  - title: "How Artificial Intelligence Is Transforming Injection Molding"
+    excerpt: "By harnessing the reams of data produced in modern plastics processing facilities, artificial intelligence can improve machine performance."
+    publishedDateTime: 2022-06-14T21:16:00Z
+    webUrl: "https://www.plasticstoday.com/injection-molding/how-artificial-intelligence-transforming-injection-molding"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: Plastics Today
+      domain: plasticstoday.com
+    quality: 43
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/machine-learning-Science-Photo-Library-Alamy-1540x800.jpg"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "How artificial intelligence is depicting the cattle industry"
+    excerpt: "A new tool has emerged online, which uses artificial intelligence to generate a sketch of subjects based on a phrase typed into a search bar. Beef Central type in some cattle industry terms...Read Mor"
+    publishedDateTime: 2022-06-17T05:37:00Z
+    webUrl: "https://www.beefcentral.com/news/how-artificial-intelligence-is-depicting-the-cattle-industry/"
+    type: article
+    provider:
+      name: Beef Central
+      domain: beefcentral.com
+    quality: 37
+    images:
+      - url: "https://www.beefcentral.com/wp-content/uploads/2022/06/284428487_520028919912602_2485964002429262581_n.jpg"
+        width: 879
+        height: 579
         isCached: true
 
 secured: "twlaRfeTmeb/xA2BoNOTtLnTUzvN1oofrqu9ma7G3FD/FW8ZZM4U8qGC+Mh3/aCQ4heaLY0LUsc5/aLsnPVj1xnUazcfpDXZ1znXTB00yJilX+Y6e3CFDcMGBGBrLzBGbtRSdx4pGXhho3hv6yPBoekkNv+HwvR74inPqjxNs3g3giu2XN+ksJf5Q1dVc4SZex9y1KbJcngl1n9gvqEBnjjsKHSHoDslCRPnqD0c8wCUb1Kd4FzAjOUtslWB80+SLaAcbNnwJyEFja1ZAzfSRL1BGGIKMtOug2vGX3YPQL0YOvzTps+vJP/M3L46lcdFV1ZxG4gio8YvmXHXIRKno+6P0AHfadEEk7+RH7CREcIpjjJpA1awzOjq8PXnx+GfgL9+V9Km7AyIFOG7ByQXWTecQtrEhuPjxw1IAkTUGY2i810zU+K2a57woQ5lWw47siNH+z58VF1CQfupSeEou0L2Bjd9FDpKrsH6FC7yBiCewfVaMUAU+7u5F3oARJJxlRvLp3+Fiwyo8Tta65iVEg==;URLIsGAfizT9KvEkYCu1XA=="

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Over 400 SC verdicts translated, until Covid stalled AI project"
-    excerpt: "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived."
-    publishedDateTime: 2022-06-12T22:14:00Z
-    webUrl: "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/"
-    ampWebUrl: "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 74
-    images:
-      - url: "https://images.indianexpress.com/2022/06/supreme-court.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Researchers use artificial intelligence to identify long COVID cases"
     excerpt: "Marketplace’s Meghan McCarty Carino speaks with Emily Pfaff, an assistant professor of medicine at the University of North Carolina at Chapel Hill who uses artificial intelligence to analyze electronic health records, looking for patterns that might ..."
     publishedDateTime: 2022-06-16T02:41:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/five-of-the-worlds-tiniest-robots-18
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/five-of-the-worlds-tiniest-robots-184790"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Conversation
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "6 of the Most Interesting Uses for Robots You Might Not Know"
+    excerpt: "Today there are more incredible uses for robots than ever before. Innovators and inventors worldwide are applying countless types of robots to fascinating"
+    publishedDateTime: 2022-06-16T10:00:00Z
+    webUrl: "https://innotechtoday.com/6-of-the-most-interesting-uses-for-robots-you-might-not-know/"
+    ampWebUrl: "https://innotechtoday.com/6-of-the-most-interesting-uses-for-robots-you-might-not-know/amp/"
+    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/6-of-the-most-interesting-uses-for-robots-you-might-not-know/amp/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 59
+    images:
+      - url: "https://innotechtoday.com/wp-content/uploads/2022/06/imageedit_4_7290785278.jpg"
+        width: 600
+        height: 900
+        isCached: true
   - title: "Five of the world's tiniest robots"
     excerpt: "Allow me to take you on a trip down my memory lane. As a young lad, a film I saw captured my imagination: Fantastic Voyage, a 1966 release about people shrunk to microscopic size and sent into the body of an"
     publishedDateTime: 2022-06-15T07:38:00Z

@@ -24,29 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "How the UAE is finding an ally in AI"
-    excerpt: "As IT departments steadily promote to the C-suite and Industry 4.0 gathers pace, AI in all its applications is becoming a central priority. At the recent World AI Show in Dubai, industry leaders pored over IT growth,"
-    publishedDateTime: 2022-06-15T09:26:00Z
-    webUrl: "https://www.cio.com/article/401308/how-the-uae-is-finding-an-ally-in-ai.html"
+  - title: "The #1 way AI is transforming grocery shopping"
+    excerpt: "\"It's pretty overwhelming to get your food right each week,\" says Alex Weinstein, Chief Digital Officer of Hungryroot an AI grocery company. \"Customers tell us all the time - it takes many hours each week to plan, shop for, and finally cook meals for their ..."
+    publishedDateTime: 2022-06-16T11:08:00Z
+    webUrl: "https://www.zdnet.com/article/1-way-ai-is-transforming-grocery-shopping/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://www.zdnet.com/a/img/resize/5de1e47772871d2cdede7663cb5514cc764a5e8a/2022/06/08/adfb4415-c4ca-4702-9690-fe2133e65f9d/hungryroot.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "UAE to deploy artificial intelligence to improve weather forecasts, assist in cloud seeding"
-    excerpt: "An AI framework will be built to combine satellite observations, ground-based weather radar data, rain gauges, and numerical weather prediction estimates to determine optimal cloud seeding timings and locations UAE to deploy artificial intelligence to improve weather forecasts,"
-    publishedDateTime: 2022-06-16T13:37:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/uae-to-deploy-artificial-intelligence-to-improve-weather-forecasts-assist-in-cloud-seeding"
+  - title: "How Artificial Intelligence Is Transforming Injection Molding"
+    excerpt: "By harnessing the reams of data produced in modern plastics processing facilities, artificial intelligence can improve machine performance."
+    publishedDateTime: 2022-06-14T21:16:00Z
+    webUrl: "https://www.plasticstoday.com/injection-molding/how-artificial-intelligence-transforming-injection-molding"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 7
+      name: Plastics Today
+      domain: plasticstoday.com
+    quality: 43
+    images:
+      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/machine-learning-Science-Photo-Library-Alamy-1540x800.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "vdt7DfknRq6hGcA0ZE0iNBvFm+8Cmdsfs+iPCly01V3W/Ny6jUJtTFnpPZiyNO7kRIWczqazPqJ8+WF5oANN4ZwTn7Hon9MTwTGCvHAtxCXNfdp07bQWR8z2K2NG0meL77Wx6eRK4ji9N33CGkJsWuf2aFPQ8dWfXzDlujy6MDMVl2yvPxR+Z5Jo/00f//0q5Sr0uDjA4gqAgZZ+yzc0fHjKrySnHIirLwS8fEocLECGOZDtV+XQVuN8N21Vz9hG3pdPykMiaEgfjsgph0MogGLuzrqbhLUXEOIhDWPa9ITqhUBeMGIlBTE3gONmtdwTAphYAB9DHK0+ZHgF4WIFnfnh2EDuIx07mnF18evlico=;m8SnW/K6TDO+5b+2ugk5mQ=="
 ---

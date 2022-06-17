@@ -24,6 +24,17 @@ images:
     height: 853
     isCached: true
 
+related:
+  - title: "First Rate Ventures Announces Investment in OWL ESG from Recently Launched Venture Capital Fund"
+    excerpt: "Representing First Rate Ventures' third investment in early stage FinTech and first in ESG, OWL ESG provides data, indexes, evaluation metrics, and other tools that allow investors to make informed"
+    publishedDateTime: 2022-06-17T12:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/first-rate-ventures-announces-investment-in-owl-esg-from-recently-launched-venture-capital-fund/article_f8a4e121-d18e-5575-b685-8f22f2c50f84.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+
 secured: "34SDDQ8tzbpmsoOcKCaIIeO8mLSx/1SloAL5ePyYei6KzbMBWJ+B+0kXEGqr0ntv1PVCv1dqHJvqy9MmETFweKEFr5gO6OS+5hXnLL7z3CbTCc1W4Z13X36J6vk+7sWq6lsa2fGQW2Qf6ICHLsN8NgT/GCkagTYWoiC8dfKDvipFh9D2VkY0IKezC5tt8b8W62GO9mV2/KiNSfC8MFw3v062WfIjqNvo7Ywe7Yxt37JkD6NwzaYJzuKm2COxO2Aeh4oSkp3934nXNRT2m0vphf6XUw+3DJN2WAMWGfxBQX4a1Auu+a9RgumyW7/idCKSjdOWtu/hDF/9slNk1p7DTLcPocpgYTSVUCDFj2gt96E=;JlATJ250JPqnBoEV9ju6nw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27666376"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27666376"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Bloomfield Robotics Won a $1M Tech Boost"
+    excerpt: "Akamai’s Future of Life Online Challenge winner, Bloomfield Robotics, is using its $1M prize to customize its cybersecurity and cloud compute in its bid to help tackle global food insecurity."
+    publishedDateTime: 2022-06-17T14:27:00Z
+    webUrl: "https://www.csoonline.com/article/3664334/why-bloomfield-robotics-won-a-1m-tech-boost.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/06/istock-1218970887-100929205-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 760
+        isCached: true
   - title: "Akamai bags $1M in products and services to future of life online challenge winner Bloomfield Robotics"
     excerpt: "Akamai Technologies (AKAM) notifies that Bloomfield Robotics is the winner of its Future of Life Online Challenge, securing an award of $1M in Akamai products and"
     publishedDateTime: 2022-06-13T10:44:00Z

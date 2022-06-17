@@ -41,6 +41,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Why Bloomfield Robotics Won a $1M Tech Boost"
+    excerpt: "Akamai’s Future of Life Online Challenge winner, Bloomfield Robotics, is using its $1M prize to customize its cybersecurity and cloud compute in its bid to help tackle global food insecurity."
+    publishedDateTime: 2022-06-17T14:27:00Z
+    webUrl: "https://www.csoonline.com/article/3664334/why-bloomfield-robotics-won-a-1m-tech-boost.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/06/istock-1218970887-100929205-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 760
+        isCached: true
 
 secured: "A2lMn92JwzFiYpp4B6ET7L3/RsJak5ByZu1j3nROtYqEo7EYlDGp23nXAsoW9rC11SADVr5IbMMxLY5zsP0D/Ev1LpbMfOSACYjYBd8lu4d54A8p28sEVlNZkIlxkBRBpadcKl6hi9cMax8uRW5r+p8fbuGQU8NYZFMfqUpWokp8xaVYdgPuhrW3n2V7leOktuXCoX5Oq4qAwdIwB4++fvC5s4gAQTCPFet8kJjU7Es+6/iswK5oi0AShKCulr1GTdE6qaYnd4gBHNTUbgltIMW2GMByXCTef0911uR4J0NSctJfLWF6p4x2UwqdBFdYyFAH7HMzVeERMxYozPhAoTcgc7Jnj4Dp2+1jDCRJNm8=;7vS12Nf+gG+eUQZOuMCRzg=="
 ---

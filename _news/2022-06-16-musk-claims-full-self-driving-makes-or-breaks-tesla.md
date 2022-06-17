@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
+    excerpt: "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars."
+    publishedDateTime: 2022-06-17T14:39:00Z
+    webUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 13
 
 secured: "kMS94iU7pJmumOFgFTU+B456yOmNPxGby2EU8bgYXxgew2+AW48VE4cE3eJQP769RBqd5KWiMP3rSJjsRGmOKPM/K5ypjOQds4Xy/Iq2mdnHpHpvvjyUMevYAxQcRdSI+JRJrSNydmizcouMkTzimHuyzK8Guddr/9w4lkS/R03p20vMmswmIQmxMfKFNHXrG+kaOEIfajPQQW9lEDPP2o7v6Komgt/0//9XIboW/FM27lQVUdTzG6SvR0QdvaMSY6EbYc6phbBWiOXrS5/MCxWyNW/SR1ojramqOPQJwHYjDflLwOeeEvrt0FwKxekdcwcA2SySqG3gmBvy8abAzWFh7sTDnF84n9acbhAMrxNZ3Y7+gvWWN//BPI2YOCPLtpq9WbCaRhRHGfvXyQxnwL0zX4MGxpojjNdcN8JJ3TzJiCQX0mxj+HlozT23lnV/ggoIQ7oiSFjKR/UuZfver2tII6965m3t/c7D6j/t4kSfmN2ERHIFKWrr32VY6F41I3X0CTeJb37fzWxqXsM6zQ==;ftuJBEdHeIaFIdjvWuKycA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T18:07:00Z
 originalUrl: "https://www.aol.com/lifestyle/best-early-prime-day-2022-180759127.html"
 webUrl: "https://www.aol.com/lifestyle/best-early-prime-day-2022-180759127.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: AOL

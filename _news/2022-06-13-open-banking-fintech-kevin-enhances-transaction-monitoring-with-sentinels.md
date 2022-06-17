@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 800
         height: 469
         isCached: true
+  - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
+    excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
+    publishedDateTime: 2022-06-17T12:42:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/emerging-trends-in-financial-services-and-fintech-artificial-intelligence-machine-learning-to-define-future/2564593/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 18
 
 secured: "QoHmDJXZEr5NzcCK7Bbqu4ZfUWCXsqqiNs2VQbNmLKAUpUHqTTGENXaJz1m/Y37FsG6X0oua38d9pKNF/g2KPbpIsXmdtXq+Rw0P4dRZDNWhGl1604WOpjgYrMFUnQWU8j0cPD/jW8r4BAg+YvPGBpbPGFqM4KtjxkenES6QwCidZ7SO4Vh9rN4E/1mPVPTH12bT9lZFHPb/bDvMQzjO5xVko1cfRpigSrghI8LwxJ2epU6Kf+kC1fm5KgCjC+bPaI36dkRQbWORGgQ3w8HQqpqxu6AJL8z5NRHvptHMGrzOHWgx0BSzlXzpp/gK1ppZwxEtg4ns4b+FKGzLAcwRCQGUrqJkvOTmz7K2N8KpRpAR6ygiX21DH3VElRpDhjy73pGIbXD8hYOWG9/UrLm0sb0yQS+j35pYBdV/QySLfhKpEc2ACgaHUpzHyaTBWcPDaC0ZhOGQDpAZPO0h2rAyH7qOddW52Sc1VClz/IOP+Hsvlp8iRwcYacRyj1snLBcu03PT685aRy77YKECdFz7mA==;+r7QcZrIvSZgoIN7U0ZKRg=="
 ---

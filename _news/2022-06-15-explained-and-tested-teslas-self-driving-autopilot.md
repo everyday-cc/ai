@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/"
 cdnAmpWebUrl: "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
+    excerpt: "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars."
+    publishedDateTime: 2022-06-17T14:39:00Z
+    webUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 13
 
 secured: "1Mfv56YCjTEMfRQWDIqMvrZ+jhyI1BleO975pS+Fm7jhaD8k7dlxwnI+NqdF3yncp9Eu+DlsaF640tTw9P8xsjYhpY4cV6Makwu/AnxO3u93q7ASkZDsdZowRI2jueajAQq34LC3Jo6pMjS496yneOkfopIWLl0D6rp96015K9CUczbjQnm9ORE2glEg9Kkhl+GIlGzVYk65/8253wcJXi4RcM44L91Zaxu4qgGu/HbegSdFxsl8d2sWbzfR3K1oCTMUHSnIfdfZWbvwmy0B8QJrgYT9pHKLYuik3C39FfLQo0P6X8wgrCTxtPD+zAqgB0jXNw2RTWFii9CX4W4okD5t1cTS2GIR1gdbSOjUNwwzMAxypTfxqldvUY5dz9EmVqD492gKsOYXAU4HIpYuA9Hn6HTNZBj/6NnalZ1/+mAxJyo3ZVupJesIY/DbA3/Z+41QaASowpV4OoEJXRCdQ8AqmhJ3ZSOy8W2M83XxEAKk+BCITokJqgJN9MXu+FM8oBjeB5SukbUFKipPmDGx6w==;3s3aO8T8Flh6cRETySeyZw=="
 ---

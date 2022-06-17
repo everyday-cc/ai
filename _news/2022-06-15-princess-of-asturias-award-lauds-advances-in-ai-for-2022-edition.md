@@ -20,21 +20,21 @@ topics:
   - Computer Vision
 
 related:
-  - title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-    excerpt: "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,"
-    publishedDateTime: 2022-06-15T12:08:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+  - title: "AI pioneers honored with Spain's Princess of Asturias Award"
+    excerpt: "A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence."
+    publishedDateTime: 2022-06-15T13:10:00Z
+    webUrl: "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg"
+        width: 1920
+        height: 1285
         isCached: true
   - title: "Four AI Pioneers Win Top Spanish Science Prize"
     excerpt: "Four scientists, including two Britons, considered pioneers in the field of artificial intelligence were awarded Wednesday Spain's prestigious Princess of Asturias prize for scientific research."

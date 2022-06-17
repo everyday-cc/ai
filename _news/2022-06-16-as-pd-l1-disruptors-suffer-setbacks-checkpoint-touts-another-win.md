@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T14:35:00Z
 originalUrl: "https://endpts.com/as-pd-l1-disruptors-suffer-setbacks-checkpoint-touts-another-win/"
 webUrl: "https://endpts.com/as-pd-l1-disruptors-suffer-setbacks-checkpoint-touts-another-win/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: ENDPOINTS NEWS

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T13:25:00Z
 originalUrl: "https://economictimes.indiatimes.com/tech/funding/ettech-deals-digest-big-ticket-funding-is-alive/articleshow/92284494.cms"
 webUrl: "https://economictimes.indiatimes.com/tech/funding/ettech-deals-digest-big-ticket-funding-is-alive/articleshow/92284494.cms"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: India Times

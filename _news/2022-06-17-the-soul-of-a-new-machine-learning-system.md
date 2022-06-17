@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T13:00:00Z
 originalUrl: "https://www.wired.com/story/plaintext-lamda-soul-machine-learning-system/"
 webUrl: "https://www.wired.com/story/plaintext-lamda-soul-machine-learning-system/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired

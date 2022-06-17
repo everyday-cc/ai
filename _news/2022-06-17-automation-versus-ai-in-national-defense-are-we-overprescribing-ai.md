@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/automation-versus-ai-in-national-defense-are-we-overprescribing-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/automation-versus-ai-in-national-defense-are-we-overprescribing-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
 type: article
 quality: 87
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google engineer says AI chatbot has developed feelings, gets suspended"
+    excerpt: "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him."
+    publishedDateTime: 2022-06-14T05:17:00Z
+    webUrl: "https://www.androidauthority.com/google-lamda-3176080/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
   - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
     excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
     publishedDateTime: 2022-06-15T03:42:00Z
@@ -125,14 +139,23 @@ related:
         width: 1095
         height: 770
         isCached: true
-  - title: "Google engineer put on leave after saying AI chatbot has become sentient"
-    excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
-    publishedDateTime: 2022-06-12T19:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp"
+  - title: "Google engineer claims AI system has developed feelings"
+    excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
+    publishedDateTime: 2022-06-14T13:41:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: IET
+      domain: theiet.org
+    quality: 19
+  - title: "Google AI 'is sentient,' software engineer claims before being suspended"
+    excerpt: "A senior software engineer at Google was suspended on Monday (June 13) after sharing transcripts of a conversation with an artificial intelligence (AI) that he claimed to be \"sentient,\" according to media reports."
+    publishedDateTime: 2022-06-13T19:01:00Z
+    webUrl: "https://www.livescience.com/google-sentient-ai-lamda-lemoine"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
     quality: 16
 
 secured: "QActN9hoIB29ce7SH1nccIC8Qrr2oNUwpNn28cXPGn0qZUlcfT+eisbvuvQp23QtaXocakDRNthmklsXIuUD1prBHxrdeqk/u21ARrpZ5vLQfBOJlf/gt/X4ZcmtMwuEr+WyLrbOiXXC7oDbkmlcESQKuqUHPVWF0ylmxMQQM9bBJd5VBrgewBIZ58IM0o/buB8sngbNcHmhHFUVUszXwIlWoEiclQTRlMqg2oh51Cz9b/pJIKWWbgEz2gGxvZvAGWuWi/bEZPj/voEdh7DamEoFVnscDpNHQwd1zDJ6PZgwJFA+K0eizz3mu5VbFyzQO3hXe1nqfO/JQJwyZ1WghTwpNeZpXcO7z6h9Zm8zYpz0jQ0L4IKLKl4ia08fqDIA8z31/Pa+Hre2mkJ6w1z33Lq9eD/FeEC4vi06Ab1u4++lQbMDAZTqY8hEIqjmlB2CRnb6csuEwvBZ05dXMq37KKxMs//Kjqg2SrO0n9GcX+DkylWec4vPVjAnP3aIEuynL5A9ByswzPgj4c5q9dFPow==;njuhzFy+baphfJR0Q1SFKA=="

@@ -77,6 +77,15 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 24
+  - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
+    excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
+    publishedDateTime: 2022-06-17T12:42:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/emerging-trends-in-financial-services-and-fintech-artificial-intelligence-machine-learning-to-define-future/2564593/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 18
 
 secured: "nM0nkB1VGjoK5T59QHBHAga/doggw+JAoFkna7FzQR70H/QrKy0iMEAsJNANVKyFrqGv05AUR8e4tKwFh6ItmYmRzD1IEe2/hDXgU3YafzccVR+DtQvgWOZHMu6IG09lg2zbiVuShXUOG3MkmtSiLphR58zEwsB/EkN6sldqHxechn/X+KQLaSSw8tpA4FhBBBM2w1SjVo5tCks+5eaaE71m9W2yYdMpHt3xaWZQhUSCy5UM+3FCi6Lo1JYn/iCZyqY0B/fXOrfjuITc/79X0O0PIom7QUUoew0NL7UnRebMS2Z7Uv3YVplX5hsD+VO6G1DqCLHPVwmovI4KzQwk1aNfQ3byymPDH5Ev0BWpABC++//3tmGaSUQbeCeo+CM8VYEd8pOVQclqZUGRfPWk+Z1/fMYo3K40Vb02hQ7MMJFTK5RJ7JNuNzNBoOEGZkZsbQqvgV8Qc55ofjpaoYcsGW4Y1eLTnTJTXuUOSHUAfUdUaPG5FKCJafalyGcnxf+WcDjhgDOXoiFUh47R/1OseQ==;ysdhCCviYeZx5ayvgbTfEw=="
 ---

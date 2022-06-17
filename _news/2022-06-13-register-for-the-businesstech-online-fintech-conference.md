@@ -76,6 +76,15 @@ related:
         width: 800
         height: 469
         isCached: true
+  - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
+    excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
+    publishedDateTime: 2022-06-17T12:42:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/emerging-trends-in-financial-services-and-fintech-artificial-intelligence-machine-learning-to-define-future/2564593/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 18
 
 secured: "+PS0OfhUPuiH3FobMvFlKvEt6+pnYrq9o/rY+La0ByCEGzX9PoiolQjPcJV5FQwaJeNfgHMqHOWgdinvNyBl6GsYKuqwyirRH6gbFKMgd+0BKf0ytjv/tHCFEP8OedwVw9rmkh6M1sMiBuxC14tLaSvvjaErPpsStWX5JKx8LpSfB1BSaVDMCied09pkdI0I1IhI9aIzV9sEGNcjjc/g2TMBZ8nTQsQiCSgjvhluO2PKg/sMvw9Y+PAofEvtPMO4eEi6xnv9yej5kehqMIbz43JJQ11LauMalWk/Yntxx5/cH9UDxGWZmGyjhJGIxThvq3sTEfxeN0ndavXyYHKPWJETFrbW8uZDOMY6hkivSUI=;Sx+chbGxnXUXsUbdSEFQ/A=="
 ---

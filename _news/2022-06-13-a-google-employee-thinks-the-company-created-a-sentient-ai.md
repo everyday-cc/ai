@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/a-google-employee-thinks-the-company-crea
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true"
 type: article
 quality: 87
-heat: 347
+heat: 337
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Engineer On Leave After He Claims AI Program Has Gone Sentient"
-    excerpt: "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine."
-    publishedDateTime: 2022-06-12T19:18:00Z
-    webUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?d_id"
-    ampWebUrl: "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 87
-    images:
-      - url: "https://img.huffingtonpost.com/asset/62a56658250000461b473745.jpeg?cache=BQO3X0Ud8C&ops=1778_1000"
-        width: 1778
-        height: 995
-        isCached: true
   - title: "Google Suspends Engineer Who Rang Alarms About a Company AI Achieving Sentience"
     excerpt: "Google suspended an engineer last week for revealing confidential details of a chatbot powered by artificial intelligence, a move that marks the latest disruption of the company's"
     publishedDateTime: 2022-06-13T23:28:00Z

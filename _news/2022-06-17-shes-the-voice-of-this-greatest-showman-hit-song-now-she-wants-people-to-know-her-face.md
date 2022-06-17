@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T03:00:00Z
 originalUrl: "https://www.deseret.com/2022/6/16/23170025/britains-got-talent-2022-season-winner-loren-allred-never-enough-greatest-showman"
 webUrl: "https://www.deseret.com/2022/6/16/23170025/britains-got-talent-2022-season-winner-loren-allred-never-enough-greatest-showman"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: deseret

@@ -7,7 +7,7 @@ originalUrl: "https://www.abc.net.au/triplej/programs/hack/hack/13929004"
 webUrl: "https://www.abc.net.au/triplej/programs/hack/hack/13929004"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Do Computers Have Feelings? Don’t Let Google Alone Decide"
-    excerpt: "Even if an engineer’s recent claims of a conscious machine are dubious, the tech giant’s tightening grip on AI research and its ham-fisted treatment of dissenting voices is troubling."
-    publishedDateTime: 2022-06-14T01:51:00Z
-    webUrl: "https://www.washingtonpost.com/business/do-computers-have-feelings-dont-let-google-alone-decide/2022/06/14/0e6c0d3a-ebaf-11ec-9f90-79df1fb28296_story.html"
+  - title: "Google engineer says Lamda AI system may have its own feelings"
+    excerpt: "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrik's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear o"
+    publishedDateTime: 2022-06-13T15:25:00Z
+    webUrl: "https://bbc.co.uk/news/technology-61784011?at_campaign=KARANGA&at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-61784011.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-61784011.amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTPQI7HLV4I6ZH4QPHPR7MUCSY.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Does Google's LaMDA Artificial Intelligence Program Have a Soul?"
+    excerpt: "For now, leading artificial intelligence researchers agree with Google that LaMDA is not self-aware and does not have a soul. However, given humanity's strong tendency to attribute human ..."
+    publishedDateTime: 2022-06-15T18:10:00Z
+    webUrl: "https://reason.com/2022/06/15/does-googles-lamda-artificial-intelligence-program-have-a-soul/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 17
 
 secured: "tojDuMX5M7HefFsUPdNRJacX1bVol0pSX++WP9gWfWntyab1MjcICpkya9B5UtSaGoVrcxK6yyUp1t4EXcC0nMFPNjC0phJqotmTZQ7eSPIfxqyqGNHA/wkD0MwRVdsGXKwir/BF9k3WLZZfek9YQQq9kcChJ0RIfQCgy8tEykyTu8D/JHQl+d3a9yq3WWaidfyNdAlQuEWbrzMOKFiOQZOm5A3TKwDRzExbz+SmRa38yPjBfj1nDkPWp+4Mk7mg7efayu+6II/pltLFebitBruFlrjn2o9Ofv4lpRyQHniqzcrUzoB+CYceu202IPk0srCfGz59FFcmRSXCblnI4GY4I1q3qrqO7tg5ImtUyHM=;NKWFreOJcdFBBk4w7LEoeQ=="
 ---

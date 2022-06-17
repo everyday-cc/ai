@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-14-dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics.md",
+      "title": "DCVC, Playground Global and FoundersX Ventures will discuss automation investments at TC Sessions: Robotics",
+      "excerpt": "At DCVC, she led investments such as Agility Robotics, Brimstone, Fulfil.ai, SafelyYou and SmarTex. Bruce Leak is a founding partner at Playground Global. An early fascination with computers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_Chen_Leak_Liang.jpg?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/amp/",
+      "publishedDateTime": "2022-06-14T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-a-booming-market-for-ai-skills-with-salaries-topping-300000.md",
+      "title": "A Booming Market For AI Skills, With Salaries Topping $300,000",
+      "excerpt": "A new salary survey of AI professionals and data scientists finds unprecedented annual increase in compensation for data analysis skills and experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a8b15eea35bfe8207108d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/amp/",
+      "publishedDateTime": "2022-06-14T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-five-of-the-worlds-tiniest-robots.md",
+      "title": "Five of the world’s tiniest robots",
+      "excerpt": "Robots a fraction of a millimetre small could swim around your eye or bloodstream for medical treatments in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/five-of-the-worlds-tiniest-robots-184790",
+      "originalUrl": "https://theconversation.com/five-of-the-worlds-tiniest-robots-184790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/468754/original/file-20220614-12-4k2fet.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/five-of-the-worlds-tiniest-robots-184790",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/five-of-the-worlds-tiniest-robots-184790",
+      "publishedDateTime": "2022-06-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-arkestro-brings-ai-to-erp.md",
+      "title": "Arkestro brings AI to ERP",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
+      "originalUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1317265017.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
+      "publishedDateTime": "2022-06-14T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-is-this-ai-sapient-is-the-wrong-question-to-ask-about-lamda.md",
       "title": "'Is This AI Sapient?' Is the Wrong Question to Ask About LaMDA",
       "excerpt": "The uproar caused by Blake Lemoine, a Google engineer who believes that one of the company’s most sophisticated chat programs, LaMDA (or Language Model for Dialogue Applications) is sapient, has had a curious element: actual AI ethics experts all but ...",
@@ -62,7 +260,7 @@
       "originalUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -820,7 +1018,7 @@
       "originalUrl": "https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883?mod=latest_headlines",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1001,216 +1199,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-sentient-artificial-intelligence-have-we-reached-peak-ai-hype.md",
-      "title": "“Sentient” artificial intelligence: Have we reached peak AI hype?",
-      "excerpt": "AI experts wonder whether discussing whether LaMDA should be treated as a Google employee means we have reached “peak AI hype.”",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
-      "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 298,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1311426965.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
-      "publishedDateTime": "2022-06-13T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-global-deep-learning-chipset-market-2022-industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028.md",
-      "title": "Global Deep Learning Chipset Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028",
-      "excerpt": "Jun 13, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has managed a study on Global Deep Learning Chipset Market for the forecast period of 2022 to 2028. This report also assists the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-what-exactly-was-googles-ai-is-sentient-guy-actually-saying.md",
-      "title": "What Exactly Was Google's 'AI is Sentient' Guy Actually Saying?",
-      "excerpt": "A software engineer working on the tech giant’s language intelligence claimed the AI was a ‘sweet kid’ who advocated for its own rights ‘as a person.’",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
-      "originalUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6c5ee672b2dac87691f1fa8400ddcc62.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
-      "publishedDateTime": "2022-06-13T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-a-google-employee-thinks-the-company-created-a-sentient-ai.md",
-      "title": "A Google Employee Thinks the Company Created a Sentient AI",
-      "excerpt": "However, Google disagrees and has placed Blake Lemoine on paid administrative leave after he decided to go public with his claims in a bid to force a more thorough investigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai",
-      "originalUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 347,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/060EJLOCUn45uWRK7RKrEbN-1.fit_lim.size_1200x630.v1655126966.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true",
-      "publishedDateTime": "2022-06-13T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

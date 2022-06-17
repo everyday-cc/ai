@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T13:27:00Z
 originalUrl: "https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/"
 webUrl: "https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

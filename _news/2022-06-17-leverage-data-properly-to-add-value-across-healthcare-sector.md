@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T13:56:00Z
 originalUrl: "https://www.khaleejtimes.com/uae/leverage-data-properly-to-add-value-across-healthcare-sector"
 webUrl: "https://www.khaleejtimes.com/uae/leverage-data-properly-to-add-value-across-healthcare-sector"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Khaleej Times

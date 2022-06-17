@@ -1,28 +1,29 @@
 ---
 category: news
-title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-excerpt: "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,"
-publishedDateTime: 2022-06-15T12:08:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-webUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+title: "AI pioneers honored with Spain's Princess of Asturias Award"
+excerpt: "A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence."
+publishedDateTime: 2022-06-15T13:10:00Z
+originalUrl: "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.html"
+webUrl: "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.html"
+ampWebUrl: "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.amp"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
+  - Google AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg"
+    width: 1920
+    height: 1285
     isCached: true
 
 related:
@@ -45,6 +46,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "Le5HNGzJ6NiLONO1uFFJB1GpLqQ9SnAbFtK1k6TZn0FecvENupDV1klKSwDnyQIyBy3R543UXnScXORKJRaflqIg+yYe1AaiXs+DBFychsphejUbgZmCmUEjO2ZK83JpYHK8Hv18xMsFD1wouqSLb0UJRVxigN9FO+aFOf+mU2bMHlTiKXHQeimT+Cic1hBDrpw7u11rgeoe9PKddjp+w/yLhi9aAYMXI3jUE479T7ftASDb3EduT7cRqEFjE+XAMgoqyZ2CR4QyFlkB5XV6EWXe+AAhasspQJXis/uUpZ/fIJnexZppyN4u85YXJhX0LHuLA2RWhDSIml3eMx+dQ5UnxEkvnvAHyXNr7/OgW/0=;rsrHyWRw6OWY9/8q2Ezg3g=="
+secured: "jb1uX5nBHBYsmYWcaK3Z7gfTGzLbl4MJKqwZ1pHte73YZXkkX8yKumEuOI2NIsQhhESPPD4fjULE9+KCDelXW4b2wPIEdD6NrHsvrqGPcj20hzsTMGCPjUPOvHKqzilWqI9H8kYyaSH073UU7BvSiHVqiJHo8cJHt34Fjjj7eV3TUDvQrvydTP53fEBj3DK5GIBiIHgsFEmcSiq9b7cfNYUCCJZn2GxIXsuorY8KO75rRcGFR20RhQpUc/lV7f1ivdQjo5GB5V2G9MjVYwCX4M+LtN776f1drBZGI2TLaXGgYWNQN/tjoiltWgCTxaRhE90bVtuiRBqBG76ogIQbOkgclhK4kbPn8BPoeWldks4=;38uvuyijqg5p2W8QQN+78Q=="
 ---
 

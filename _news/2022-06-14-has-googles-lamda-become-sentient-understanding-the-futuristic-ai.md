@@ -91,6 +91,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Should we be concerned about Google AI being sentient?"
+    excerpt: "From virtual assistants like Apple's Siri and Amazon's Alexa, to robotic vacuums and self-driving cars, to automated investment portfolio managers and marketing bots, artificial intelligence has become a big part of our everyday lives."
+    publishedDateTime: 2022-06-17T14:28:00Z
+    webUrl: "https://techxplore.com/news/2022-06-google-ai-sentient.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-google-ai-sentient.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-google-ai-sentient.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/google-1.jpg"
+        width: 2880
+        height: 2160
+        isCached: true
   - title: "Is there a cause for worry if AI turns sentient?"
     excerpt: "Last December, Timnit Gebru, also an AI ethics researcher at Google, was allegedly fired after she drew attention to a bias in the company’s AI . But why do humans fear intelligent AI? If you’re a fan of sci-fi movies like I, Robot, The Terminator or ..."
     publishedDateTime: 2022-06-14T17:41:00Z
@@ -231,15 +247,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "Google engineer thinks AI bot has become sentient"
-    excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."
-    publishedDateTime: 2022-06-12T19:55:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018845615/google-engineer-thinks-ai-bot-has-become-sentient"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 17
   - title: "How does Google’s AI chatbot work – and could it be sentient?"
     excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
     publishedDateTime: 2022-06-13T13:08:00Z

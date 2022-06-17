@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2022/06/13/2-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Motley Fool
@@ -27,6 +27,17 @@ images:
     width: 2102
     height: 1426
     isCached: true
+
+related:
+  - title: "Looking for the Next FAANG Stocks? 4 Growth Stocks to Buy Now and Hold Forever"
+    excerpt: "T he FAANG stocks dramatically outperformed the market over the past decade. Netflix led the way with a 1,750% return, followed by Amazon and Alphabet with returns of 847% and 651"
+    publishedDateTime: 2022-06-17T11:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/looking-for-the-next-faang-stocks-4-growth-stocks-to-buy-now-and-hold-forever"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 30
 
 secured: "CxvAUxKZDU+No3sWM+qzd5J/57Pcmc5As3gECqwHhfCdtJZFxNmxysdfmeOrn/Bd3zgjg6TuGsqSOOIcE4wKm8u1pzg7Lr9KLuufdw2V1eV9P5MWUVHzR4QMVjjDBFEp8H3D32YaHr57h8Hby1v1DezV1+StFsj97QXcc0jxHQ+QHUsHKdjaSe2LKVc4SscY56XuK+sHF3uv4Uy2gN5uoYr02HXr20FiZmkpBWv23BgJjg8sRvf+VEyKTfbikuhY0dbHLzK5T2HZAd9uT1bOA2woa9THkZE5eP3BBDX3T19SDwwtL0FbIkOEPVEWvnCaSQ/UHPEsUpDmPEr/JZJCvXjPiyNJf97cWNQ+7uS0dzc=;OKrGOBdJoFJxkax9veY1Hw=="
 ---

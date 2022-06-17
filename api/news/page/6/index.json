@@ -2,6 +2,211 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-10-ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.md",
+      "title": "A.I. gurus are leaving Big Tech to work on buzzy new start-ups",
+      "excerpt": "Four of the best-funded new AI start-ups — Inflection, Cohere, Adept and Anthropic — have recently poached dozens of AI scientists with backgrounds in Big Tech. The start-ups' hiring efforts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107006595-1643204907671-gettyimages-961707246-FRANCE_TECHNOLOGY.jpeg?v=1654767972",
+          "width": 4000,
+          "height": 2878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "publishedDateTime": "2022-06-09T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-aws-announces-general-availability-of-aws-mainframe-modernization.md",
+      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
+      "excerpt": "SEATTLE–(BUSINESS WIRE)–Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
+      "originalUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
+      "publishedDateTime": "2022-06-09T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-artificial-intelligence-reveals-a-never-before-described-3d-structure-in-rotavirus-spike-protein.md",
+      "title": "Artificial intelligence reveals a never-before described 3D structure in rotavirus spike protein",
+      "excerpt": "The tip of rotavirus B spike protein is not only totally different from the corresponding structure in rotavirus A and C, but also no other protein before had been reported to have this structure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220609131855.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220609131855.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-amd-touts-big-datacenter-ai-ambitions-in-cpu-gpu-roadmap.md",
+      "title": "AMD touts big datacenter, AI ambitions in CPU-GPU roadmap",
+      "excerpt": "After taking serious CPU market share from Intel over the last few years, AMD has revealed larger ambitions in AI, datacenters and other areas with an expanded roadmap of CPUs, GPUs and other kinds of chips for the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/10/amd_chip_roadmap/",
+      "originalUrl": "https://www.theregister.com/2022/06/10/amd_chip_roadmap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-artificial-intelligence-automation-and-robotics.md",
+      "title": "Artificial intelligence, automation and robotics",
+      "excerpt": "The challenge of open source in the enterprise is not technical – Cliff Saran's Enterprise blog Grid stability and the risk it poses to the retail sector and its datacentres – Ahead in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
+      "originalUrl": "https://www.computerweekly.com/resources/Artificial-intelligence-automation-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.md",
       "title": "Spinal posture assessment in health exams reliably detects cognitive decline",
       "excerpt": "A mass survey of citizens aged 50 to 89 years examined whether cognitive decline could be detected by sagittal spinal balance measurement based on a radiological approach. Doctors from Shinshu ...",
@@ -841,26 +1046,17 @@
       "title": "AI Dubbing Start-Up Papercup Raises $20M From Sky, Others",
       "excerpt": "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing.",
       "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/?ref=biztoc.com&curator=biztoc.com",
-      "originalUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/?ref=biztoc.com&curator=biztoc.com",
+      "webUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/?ref=upstract.com&curator=upstract.com",
+      "originalUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/?ref=upstract.com&curator=upstract.com",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/Jesse-e1654764987385.jpg?w=1024",
-          "width": 1024,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-09T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -972,248 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-how-ai-is-shaping-the-future-of-work.md",
-      "title": "How AI is shaping the future of work",
-      "excerpt": "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
-      "originalUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/",
-      "publishedDateTime": "2022-06-09T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global.md",
-      "title": "Social CRM Leader GoSky AI Completes Seed Funding Round Led by VC firm 500 Global",
-      "excerpt": "GoSky AI announced today the completion of a seed funding round led by 500 Global, a leading venture capital firm. Investors in this round also include the Co-Founder & CEO of ThunderCore, Chris Wang,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1836422/News_Photo_By_using_GoSky_AI_s_social_CRM__brands_are_able_to_convert_their_social_media_followers.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of.md",
-      "title": "AI Ethics And Legal AI Are Flustered By Deceptive Pretenses Known As AI Ethics-Washing Which Are False Claims Of...",
-      "excerpt": "There are those that tout AI Ethics that are actually flouting Ethical AI and need to be called out for doing so (they are AI Ethics-Washing), which is happening widely and includes those autonomous self-driving cars too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a1225d944c9fcb1eccd11c/0x0.jpg?format=jpg&crop=1761,990,x122,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-artificial-intelligence-with-metamemory-acts-more-humanlike.md",
-      "title": "Artificial Intelligence With Metamemory Acts More Humanlike",
-      "excerpt": "A new study reveals the creation of a new artificial intelligence (AI) machine-learning algorithm with an adaptable intelligence based on what it already knows—a step toward endowing machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
-      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic907815.jpg?itok=4iHfALuG",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
-      "publishedDateTime": "2022-06-09T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development.md",
-      "title": "Scout, Sabermetrician, and Superforecaster: Deep Learning for Drug Discovery and Development",
-      "excerpt": "In this talk, Head of AI research at IQVIA’s Analytics Center of Excellence Jimeng Sun will present the key ingredients for achieving superforecasting in pharmaceutical applications and provide some examples of our works in deep learning algorithms for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmexec.com/view/scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development",
-      "originalUrl": "https://www.pharmexec.com/view/scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/pharmexec/b521df1710f8b4449d991b96eec25ecfd5d9bbe2-552x368.jpg?fit=crop&auto=format",
-          "width": 552,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pharm Exec",
-        "domain": "pharmexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

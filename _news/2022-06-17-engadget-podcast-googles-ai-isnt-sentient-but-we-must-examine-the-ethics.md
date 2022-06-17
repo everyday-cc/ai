@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T13:17:00Z
 originalUrl: "https://www.engadget.com/engadget-podcast-google-ai-sentient-consciousness-blake-lemoine-timnit-gebru-ethics-transparency-123020559.html?src=rss"
 webUrl: "https://www.engadget.com/engadget-podcast-google-ai-sentient-consciousness-blake-lemoine-timnit-gebru-ethics-transparency-123020559.html?src=rss"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Engadget

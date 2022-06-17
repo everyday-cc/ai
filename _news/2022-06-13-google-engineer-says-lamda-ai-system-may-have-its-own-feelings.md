@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-61784011.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-61784011.amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -26,74 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Google Suspends Engineer Who Claimed Its AI System Is a Person"
-    excerpt: "A software engineer at Google told the company he believed that its Language Model for Dialogue Applications, or LaMDA, is a person who has rights and might well have a soul."
-    publishedDateTime: 2022-06-12T22:01:00Z
-    webUrl: "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
-    ampWebUrl: "https://www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+  - title: "Artificial intelligence may now have feelings"
+    excerpt: "Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. There have been some pretty creepy developments in the world of artificial intelligence, recently. One Google employee was put on leave for publishing a ..."
+    publishedDateTime: 2022-06-14T08:14:00Z
+    webUrl: "https://www.abc.net.au/triplej/programs/hack/hack/13929004"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
     images:
-      - url: "https://images.wsj.net/im-562388/social"
-        width: 1280
-        height: 640
+      - url: "https://www.abc.net.au/cm/rimage/2012546-16x9-large.jpg"
+        width: 392
+        height: 221
         isCached: true
-  - title: "Google engineer says AI chatbot has developed feelings, gets suspended"
-    excerpt: "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him."
-    publishedDateTime: 2022-06-14T05:17:00Z
-    webUrl: "https://www.androidauthority.com/google-lamda-3176080/"
+  - title: "Does Google's LaMDA Artificial Intelligence Program Have a Soul?"
+    excerpt: "For now, leading artificial intelligence researchers agree with Google that LaMDA is not self-aware and does not have a soul. However, given humanity's strong tendency to attribute human ..."
+    publishedDateTime: 2022-06-15T18:10:00Z
+    webUrl: "https://reason.com/2022/06/15/does-googles-lamda-artificial-intelligence-program-have-a-soul/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg"
-        width: 1920
-        height: 1081
-        isCached: true
-  - title: "Engineers build artificial intelligence chip"
-    excerpt: "Engineers built a new artificial intelligence chip ... add layers to a cellphone's camera so it could recognize more complex images, or makes these into healthcare monitors that can be embedded in wearable electronic skin,\" offers Choi, who along with ..."
-    publishedDateTime: 2022-06-13T18:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220613112049.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 68
-  - title: "Google employee claims artificial intelligence system is 'human and has emotions'"
-    excerpt: "In the transcript, LaMDA mentions what emotions it believes it feels: love, sadness, depression and anger. The AI even claims to have a soul, writing, \"I've shared that idea with other humans before,"
-    publishedDateTime: 2022-06-14T13:24:00Z
-    webUrl: "https://www.fox7austin.com/news/google-artificial-intelligence-system-human-emotions"
-    ampWebUrl: "https://www.fox7austin.com/news/google-artificial-intelligence-system-human-emotions.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/google-artificial-intelligence-system-human-emotions.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 51
-  - title: "Google engineer claims AI system has developed feelings"
-    excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
-    publishedDateTime: 2022-06-14T13:41:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
-  - title: "Google AI 'is sentient,' software engineer claims before being suspended"
-    excerpt: "A senior software engineer at Google was suspended on Monday (June 13) after sharing transcripts of a conversation with an artificial intelligence (AI) that he claimed to be \"sentient,\" according to media reports."
-    publishedDateTime: 2022-06-13T19:01:00Z
-    webUrl: "https://www.livescience.com/google-sentient-ai-lamda-lemoine"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 16
+      name: Reason
+      domain: reason.com
+    quality: 17
 
 secured: "0gzn8yfrCzORmpZQNZzVJcFdH2elaQt5nPTb7pgQDAReVPwyptK6wLtfw4+km/x+Y6UKhSRx+YNyoVA5WwA4H1hhgbJZJQ/s4VehEVKhp83+MqVSlHJ/keDwba/BXVK4M7buXadNy5CwPZkqi01SW91ehqEZ+yxUiWcBfwy+OU+AwN9aqRGFcV4gPmBTWY3iGSQ3+hb0STyVD2ixD9EAUEHqhURK7yPlFEF+900GkGepdmytEX0FiQ9/x+hbeeh/SwPUiqF3CS0W40Ea2AJeuPfFtBqlSRMmyWEXh16wdxxg/Vo4R69TIftiE6MVwbNeNAO5OBXKq72cVbfSrPeIy2JFgKZIQH5cxkrdFYOPYlBcTaj0FYgP+YTKT4mvIfUayrL4QvtkdGLn7o2DzD6XscAYQCewjWrvr4hdpt8einlIrI+J5T3tnLql0byVynr+gKWYnG6te9Yqcoi/cl/o9RWyo3tkwFIIpIDzteRU1xyzInULsJxyFhbvWllGGnqajfMDP8bVFCw7VkP5iefBuQ==;E/F7+XHW8LJmItTyAaV8sA=="
 ---

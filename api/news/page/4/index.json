@@ -2,6 +2,310 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-13-sentient-artificial-intelligence-have-we-reached-peak-ai-hype.md",
+      "title": "“Sentient” artificial intelligence: Have we reached peak AI hype?",
+      "excerpt": "AI experts wonder whether discussing whether LaMDA should be treated as a Google employee means we have reached “peak AI hype.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
+      "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 298,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1311426965.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
+      "publishedDateTime": "2022-06-13T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-2-artificial-intelligence-growth-stocks-to-buy-on-the-dip.md",
+      "title": "2 Artificial Intelligence Growth Stocks to Buy on the Dip",
+      "excerpt": "C3.ai is a trailblazer, helping companies across 11 industries access the power of artificial intelligence. Upstart is using AI to improve the decades-old FICO credit scoring system. Throughout ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/",
+      "originalUrl": "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/684716/a-digital-face-appearing-amongst-computer-code-and-a-digital-background.jpg",
+          "width": 2102,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-global-deep-learning-chipset-market-2022-industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028.md",
+      "title": "Global Deep Learning Chipset Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028",
+      "excerpt": "Jun 13, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has managed a study on Global Deep Learning Chipset Market for the forecast period of 2022 to 2028. This report also assists the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-google-engineer-says-lamda-ai-system-may-have-its-own-feelings.md",
+      "title": "Google engineer says Lamda AI system may have its own feelings",
+      "excerpt": "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrik's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear o",
+      "sourceUrl": null,
+      "webUrl": "https://bbc.co.uk/news/technology-61784011?at_campaign=KARANGA&at_medium=RSS",
+      "originalUrl": "https://bbc.co.uk/news/technology-61784011?at_campaign=KARANGA&at_medium=RSS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-61784011.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-61784011.amp",
+      "publishedDateTime": "2022-06-13T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-what-exactly-was-googles-ai-is-sentient-guy-actually-saying.md",
+      "title": "What Exactly Was Google's 'AI is Sentient' Guy Actually Saying?",
+      "excerpt": "A software engineer working on the tech giant’s language intelligence claimed the AI was a ‘sweet kid’ who advocated for its own rights ‘as a person.’",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
+      "originalUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6c5ee672b2dac87691f1fa8400ddcc62.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
+      "publishedDateTime": "2022-06-13T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-a-google-employee-thinks-the-company-created-a-sentient-ai.md",
+      "title": "A Google Employee Thinks the Company Created a Sentient AI",
+      "excerpt": "However, Google disagrees and has placed Blake Lemoine on paid administrative leave after he decided to go public with his claims in a bid to force a more thorough investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai",
+      "originalUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 337,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/060EJLOCUn45uWRK7RKrEbN-1.fit_lim.size_1200x630.v1655126966.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true",
+      "publishedDateTime": "2022-06-13T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-engineers-build-lego-like-artificial-intelligence-chip.md",
       "title": "Engineers build LEGO-like artificial intelligence chip",
       "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip—like LEGO bricks incorporated into an existing build.",
@@ -10,7 +314,7 @@
       "originalUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -55,7 +359,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -377,7 +681,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27666376/akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-rob",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -495,48 +799,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-ai-experts-to-advise-lg-energy-solution-on-digital-transformation.md",
-      "title": "AI experts to advise LG Energy Solution on digital transformation",
-      "excerpt": "A Seoul National University (SNU) professor specializing in artificial intelligence (AI) technology was appointed to lead LG Energy Solution's (LGES) advisory council on AI, according to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202206/44af7df6e76c41f186d4eb377bb89f44.jpg",
-          "width": 980,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902",
-      "publishedDateTime": "2022-06-12T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -930,231 +1192,6 @@
         "AI in Robotics",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system.md",
-      "title": "Dubai to boost public bus ridership, cut journey times using new Artificial Intelligence system",
-      "excerpt": "High-level RTA meeting discusses ‘City Brain’ project, recently-opened bus stations Dubai: The use of advanced technology and artificial intelligence (AI) has contributed to improving the public bus service and its operational efficiency in Dubai,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "originalUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/06/12/------_----_---_-------_-----_---------_-------1655020936624_18156ef5dbd_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "publishedDateTime": "2022-06-12T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-artificial-intelligence-is-shaping-the-future-of-healthcare-industry.md",
-      "title": "Artificial intelligence is shaping the Future of Healthcare Industry",
-      "excerpt": "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg",
-          "width": 800,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/",
-      "publishedDateTime": "2022-06-11T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-artificial-intelligence-helps-identify-benign-thyroid-nodules.md",
-      "title": "Artificial Intelligence Helps Identify Benign Thyroid Nodules",
-      "excerpt": "Artificial intelligence (AI) pinpoints thyroid nodules noticed on thyroid ultrasound that are unlikely to be cancerous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/thyroid6.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
-      "publishedDateTime": "2022-06-11T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-questioning-the-ethics-of-computer-chips-that-use-lab-grown-human-neurons.md",
-      "title": "Questioning the ethics of computer chips that use lab-grown human neurons",
-      "excerpt": "Melbourne-based Cortical Labs grew groups of neurons (brain cells) that were incorporated into a computer chip. We are in the early stages of neural computing and have time to think through its ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/ethics-computer-chips-human-neurons",
-      "originalUrl": "https://interestingengineering.com/ethics-computer-chips-human-neurons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpreXa6W/sizes/istock-1040557296_resize_md.jpg",
-          "width": 744,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/ethics-computer-chips-human-neurons",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ethics-computer-chips-human-neurons",
-      "publishedDateTime": "2022-06-11T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-google-chrome-will-use-machine-learning-to-make-browsing-less-awful.md",
-      "title": "Google Chrome Will Use Machine Learning to Make Browsing Less Awful",
-      "excerpt": "Google has revealed its plans to use machine learning to make browsing the web suck less. The company says (Opens in a new window) it already uses machine learning to enable some",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful",
-      "originalUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00BFfSrxJN6AaGlonTAOKls-1.fit_lim.size_1200x630.v1654956168.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true",
-      "publishedDateTime": "2022-06-11T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

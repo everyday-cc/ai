@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T12:45:00Z
 originalUrl: "https://menafn.com/1104390471/Artificial-Intelligence-In-Digital-Pathology-Market-Is-Expected-To-Boom-Koninklijke-Philips-3D-Hsitech"
 webUrl: "https://menafn.com/1104390471/Artificial-Intelligence-In-Digital-Pathology-Market-Is-Expected-To-Boom-Koninklijke-Philips-3D-Hsitech"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

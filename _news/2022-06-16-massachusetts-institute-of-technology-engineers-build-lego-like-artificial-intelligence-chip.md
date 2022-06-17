@@ -93,6 +93,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Engineers build artificial intelligence chip"
+    excerpt: "Engineers built a new artificial intelligence chip ... add layers to a cellphone's camera so it could recognize more complex images, or makes these into healthcare monitors that can be embedded in wearable electronic skin,\" offers Choi, who along with ..."
+    publishedDateTime: 2022-06-13T18:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220613112049.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 68
   - title: "Engineers Build LEGO-Like Artificial Intelligence Chip"
     excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip — like LEGO bricks incorporated into an existing build."
     publishedDateTime: 2022-06-14T15:14:00Z

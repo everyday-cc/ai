@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-16-artificial-intelligence-for-ai-to-work-data-use-must-be-right.md",
+      "title": "Artificial Intelligence: For AI to work, data use must be right",
+      "excerpt": "IT professionals in the financial services, media, energy, automotive, oil, and aerospace industries are most likely to report active deployment of AI by their company, while organisations in industries like retail, travel, healthcare and government ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-415.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/lite/",
+      "publishedDateTime": "2022-06-15T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best.md",
+      "title": "Report: AWS, Azure and GCP evaluated for overall performance — which is best?",
+      "excerpt": "Join AI and data leaders for insightful talks and ... The report evaluates the performance of AWS, Azure and GCP for common Online Transaction Processing (OLTP) workloads. Testing shows that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
+      "originalUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
+      "publishedDateTime": "2022-06-15T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-voicemod-is-using-real-time-ai-for-voice-conversion-and-its-kind-of-wild.md",
+      "title": "Voicemod is using real-time AI for voice conversion, and it’s kind of wild",
+      "excerpt": "Voicemod is releasing its proprietary, world-first voice conversion product powered by artificial intelligence. This technology is powering a whole collection of voices within the Voicemod voice changer software.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/",
+      "originalUrl": "https://venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/voicemod.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/amp/",
+      "publishedDateTime": "2022-06-15T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-customize-pronunciations-using-amazon-polly.md",
       "title": "Customize pronunciations using Amazon Polly",
       "excerpt": "Amazon Polly breathes life into text by converting it into lifelike speech. This empowers developers and businesses to create applications that can converse in real time, thereby offering an enhanced interactive experience. Text-to-speech (TTS) in Amazon Polly supports a variety of languages and locales,",
@@ -400,7 +547,7 @@
       "originalUrl": "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -487,6 +634,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-15-ai-pioneers-honored-with-spains-princess-of-asturias-award.md",
+      "title": "AI pioneers honored with Spain's Princess of Asturias Award",
+      "excerpt": "A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-honored-spain-princess-asturias.amp",
+      "publishedDateTime": "2022-06-15T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago.md",
       "title": "AI finds hidden evidence of ancient human fires 1 million years ago",
       "excerpt": "An AI tool has spotted subtle evidence of changes in flint tools that indicate ancient humans had cooking fires at a 1-million-year-old archaeological site in Israel",
@@ -516,48 +706,6 @@
       "provider": {
         "name": "New Scientist",
         "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-ai-pioneers-honored-with-spains-princess-of-asturias-award.md",
-      "title": "AI pioneers honored with Spain’s Princess of Asturias Award",
-      "excerpt": "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279",
-      "publishedDateTime": "2022-06-15T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -716,7 +864,7 @@
       "originalUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1032,161 +1180,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics.md",
-      "title": "DCVC, Playground Global and FoundersX Ventures will discuss automation investments at TC Sessions: Robotics",
-      "excerpt": "At DCVC, she led investments such as Agility Robotics, Brimstone, Fulfil.ai, SafelyYou and SmarTex. Bruce Leak is a founding partner at Playground Global. An early fascination with computers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_Chen_Leak_Liang.jpg?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-06-14T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-a-booming-market-for-ai-skills-with-salaries-topping-300000.md",
-      "title": "A Booming Market For AI Skills, With Salaries Topping $300,000",
-      "excerpt": "A new salary survey of AI professionals and data scientists finds unprecedented annual increase in compensation for data analysis skills and experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a8b15eea35bfe8207108d6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/amp/",
-      "publishedDateTime": "2022-06-14T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-arkestro-brings-ai-to-erp.md",
-      "title": "Arkestro brings AI to ERP",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
-      "originalUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1317265017.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
-      "publishedDateTime": "2022-06-14T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

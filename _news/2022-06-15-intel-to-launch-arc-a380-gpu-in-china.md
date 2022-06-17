@@ -24,6 +24,22 @@ images:
     height: 853
     isCached: true
 
+related:
+  - title: "Join Intel’s webinar to learn how to achieve real-time AI inference on your CPU"
+    excerpt: "The session will also introduce Intel’s OpenVINOTM toolkit, an open-source toolkit to enable neural network model optimisation and easy deployment across multiple hardware platforms"
+    publishedDateTime: 2022-06-16T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/join-intels-webinar-to-learn-how-to-achieve-real-time-ai-inference-on-your-cpu/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 35
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/intel.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "7NYudkSP1DOFjP+poh6S26ArPVSUD36/q4a7B1855v98BHlJWeOeglsuQSnFcHTDOmlt1km6xyzVX/0D6ysJUyaOyuxjS27Mg+ERkhruIMb0mwFuxz1E4w3E1f2u+Mnl2uCUExPC9DPfHUAOj2XuboNPz7sDa1JMJ5MDYdAsICIRb2ltyWuTk8qxJ2Okb9IAJZhgQPoEUpPFJG/sm0ELGygzcC7v6FugrKFdNvFCpCOWalA5E34sCCw9LI3TTqwAgZ2/LZLwG2pzhAr/EmbrfRl0MbTFcSA+sSiuqmuSO6M37aDBXFmwQyUuKHvPL6nisom3MdZXRkLERZgL+4nCCIynEZtXRXY/4tKU+1fOkah+m3Zx43lTLNemOrgyUmDSyQNzZcO3RCpX0RYn4FkjFVvVpJy64adooyVbNzJcDNNSFg8kOTTRq2xhOq31evF9g6C06jho0pw+LbvJKQXuykvspv19T7zHyDCGp/qTIWlZfWHAAo6erEs2Ekxi5IV1D1JmYW47HDmRgcwPcH+G1w==;Lxnf8jkfnyoZ52Az1IXiaA=="
 ---
 

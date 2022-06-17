@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T16:19:00Z
 originalUrl: "https://www.androidheadlines.com/2022/06/shellbot-sl60-robot-vacuum-review-no-crumb-left-behind.html"
 webUrl: "https://www.androidheadlines.com/2022/06/shellbot-sl60-robot-vacuum-review-no-crumb-left-behind.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Android
