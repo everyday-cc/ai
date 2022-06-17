@@ -333,20 +333,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "A Google engineer thinks its AI has become sentient, which seems... fine"
-    excerpt: "A new report in the Washington Post (opens in new tab) describes the story of a Google engineer who believes that LaMDA, a natural language AI chatbot, has become sentient. Naturally, this means it's now time for us all to catastrophize about how a sentient AI is absolutely,"
-    publishedDateTime: 2022-06-12T23:19:00Z
-    webUrl: "https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 36
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/a3vznBF2e3UQkFHyrrs8xd-1200-80.jpg"
-        width: 1128
-        height: 634
-        isCached: true
   - title: "Five things Google’s AI bot wrote that convinced engineer it was sentient"
     excerpt: "Blake Lemoine made headlines after being suspended from Google, following his claims that an artificial intelligence bot had become sentient."
     publishedDateTime: 2022-06-13T09:15:00Z

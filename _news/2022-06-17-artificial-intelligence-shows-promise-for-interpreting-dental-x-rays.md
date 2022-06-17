@@ -8,9 +8,9 @@ webUrl: "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x
 ampWebUrl: "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Medical Xpress
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/dental-x-ray.jpg"
@@ -37,6 +38,6 @@ related:
       domain: entrepreneur.com
     quality: 49
 
-secured: "dNcOkfvdq9ErJNH4u4pUHkmuZApqXV7gmju2TYbjuRM2+kfLMbZu/S1+PtCSzjPrZNyVKR0AbUzYQSol6/c9Ai98VSWt1m77IKB0wn+eDEbrGt8Oj9Vb04YblKm1JliLA3xKsuk3FqnqNgbkfe8Yazh5NyEb5BtB+T3kVoLV+gzRKYex/7tYItpjoPaC95/4VvMUpIMsnOfXbJPimmmvRaXIKrlSoOOOFizdhgePZa+YRrUOw9k5DydBAAPbxR3+i8gxCY8bGrjkCQkfoXkA4sQjbkXI33Lyjcpr/bDCnanAkSU9UzM5XgcBG7ELU8arskeyy+u0qk4a1Q6xRuV0igKdudcWejy03C8ADl1VkhY=;m4NrV+Xo7QcNBNlsxkftgA=="
+secured: "oooB4PMLcmyy+FLJ6jt9YEMpQkoCrkVLxNzJIxZHYFA79zXNE99EKf+5JFXGLYgM81XMtgTobVFCwrXv6yW9pR7i78ZNbDTA1PcPeBKU3emdTq/Y4s0lf39lZSCSfpHPcCjt1NS8pk1eXnMt5L7qvG4QnbR7ahYBfSDg64nmy+HxFKHR3WTUD3CpHrPd1sw55e8fN41iIX0hERSW56Xu/yQdsCAPQQ8f8P6JEDFjr4M1Le9mNpDzqnW+owb0G6ZpkUtJJVQ40GzBy5QvhK6nGV5YeBi8vTL7Y5HRJgD8vjWNruTH/CsSbqUrA68A5iFFFuJGPNsDV5rs50MrTRSQlJiJYoBvqeEkv4a4EJB1BIkf2zDWF2FoBtbyWTp2+Vu+KE0L1lXtmX1UF2ow5Ol6PrWyWDcA8zE0tzMhVFPONrnRupkU1A2AEurNeleXkzfRz1xg1SEbKc6RpploNBdyiOJVBnG541WJO1M305qz0tDXhjl7Tcegnp4S+r891jRSoklx95dMGWHP5Avegq8s9Q==;oklqMc/hcWjT1Qps91tpcg=="
 ---
 

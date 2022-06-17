@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/"
 type: article
 quality: 104
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Open Banking Fintech Bud Secures $80M to Scale Lending, Personalization AI"
-    excerpt: "Bud, an Open Banking Fintech firm established in 2015, recently completed its Series B investment round totaling $80 million."
-    publishedDateTime: 2022-06-13T01:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
   - title: "Using Artificial Intelligence In Military Operations"
     excerpt: "In modern warfare there is a necessity to keep pace with the volume and complexity of data being generated and the US military is turning to AI."
     publishedDateTime: 2022-06-15T08:30:00Z

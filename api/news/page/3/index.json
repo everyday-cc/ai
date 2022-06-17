@@ -2,6 +2,290 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-15-this-ai-makes-mind-bending-art-and-you-can-give-it-a-try.md",
+      "title": "This AI Makes Mind-Bending Art, and You Can Give It a Try",
+      "excerpt": "You don't have to search far on the internet to find nightmare fuel. If your dreams have gotten a little too rosy lately, you can spend some time browsing the weird, funny and occasionally disturbing images created by an artificial intelligence tool called Dall-E Mini.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/",
+      "originalUrl": "https://www.cnet.com/culture/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/",
+      "publishedDateTime": "2022-06-14T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-researcher-finds-that-military-cannot-rely-on-ai-for-strategy-or-judgment.md",
+      "title": "Researcher finds that military cannot rely on AI for strategy or judgment",
+      "excerpt": "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology argues only so much can be automated and shows the value of human judgment.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
+      "publishedDateTime": "2022-06-14T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
+      "title": "AWS with Intel launches DeepRacer Student League",
+      "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "publishedDateTime": "2022-06-14T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso.md",
+      "title": "Enable business analysts to access Amazon SageMaker Canvas without using the AWS Management Console with AWS SSO",
+      "excerpt": "IT has evolved in recent years: thanks to low-code and no-code (LCNC) technologies, an increasing number of people with varying backgrounds require access to tools and platforms that were previously a prerogative to more tech-savvy individuals in the company, such as engineers or developers. Out of those",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T12:46:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
+      "title": "The Artificial Intelligence We Fear Is Our Own",
+      "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "originalUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-how-to-use-dalle-mini-the-viral-ai-tool-that-can-turn-any-prompt-into-a-series-of-pictures.md",
+      "title": "How to use DALL·E mini, the viral AI tool that can turn any prompt into a series of pictures",
+      "excerpt": "DALL·E mini is an artificial intelligence tool that tries to create pictures matching whatever you type into it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dall-e-mini",
+      "originalUrl": "https://www.businessinsider.com/dall-e-mini",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62a7c3cdac534e0019331a0d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dall-e-mini?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dall-e-mini?amp",
+      "publishedDateTime": "2022-06-14T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics.md",
       "title": "DCVC, Playground Global and FoundersX Ventures will discuss automation investments at TC Sessions: Robotics",
       "excerpt": "At DCVC, she led investments such as Agility Robotics, Brimstone, Fulfil.ai, SafelyYou and SmarTex. Bruce Leak is a founding partner at Playground Global. An early fascination with computers and ...",
@@ -912,309 +1196,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers.md",
-      "title": "Churn It Down: How Media Companies Can Use AI To Keep And Win Subscribers",
-      "excerpt": "With new challenges for streamers, and longstanding headwinds for many others in media, combatting churn has become more important than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3d955ea7f4b3cb1876076/0x0.jpg?format=jpg&crop=1260,709,x0,y96,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
-      "publishedDateTime": "2022-06-13T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-amds-ai-strategy-comes-into-view-with-xilinx-gpu-software-plans.md",
-      "title": "AMD’s AI strategy comes into view with Xilinx, GPU, software plans",
-      "excerpt": "Analysis After re-establishing itself in the datacenter over the past few years, AMD is now hoping to become a big player in the AI compute space with an expanded portfolio of chips that cover everything from the edge to the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/13/amd_ai_strategy/",
-      "originalUrl": "https://www.theregister.com/2022/06/13/amd_ai_strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/11/08/handout_amd_lisa_su.jpg",
-          "width": 1557,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/13/amd_ai_strategy/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/13/amd_ai_strategy/",
-      "publishedDateTime": "2022-06-13T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy.md",
-      "title": "VCs Target AI Accounting Startups as Companies Look to Control Spending in Uncertain Economy",
-      "excerpt": "Many investors are betting that inflation, higher interest rates and recession fears will prompt companies to redouble efforts to track and manage spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883?mod=latest_headlines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-563056/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883",
-      "publishedDateTime": "2022-06-13T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker.md",
-      "title": "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker",
-      "excerpt": "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters).",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/13/billion-parameter-sagemaker.jpg",
-          "width": 1247,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T10:36:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-15-business-functions-where-artificial-intelligence-can-assist-agencies.md",
-      "title": "15 Business Functions Where Artificial Intelligence Can Assist Agencies",
-      "excerpt": "Businesses across industries are actively seeking innovative ways to leverage artificial intelligence ... Scanning Reviews To Identify Problem Areas As a healthcare marketing agency, we use AI to gauge patients’ collective sentiments through their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a7578ccd8d2473d6cb7820/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/amp/",
-      "publishedDateTime": "2022-06-13T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-ai-maturity-only-12-of-companies-are-ai-achievers.md",
-      "title": "AI maturity: Only 12% of companies are 'AI Achievers'",
-      "excerpt": "Accenture research​ suggests that only 12% of companies have advanced their AI maturity enough to achieve superior growth and business transformation. These companies are 'AI Achievers' and, on average,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-is-ai-maturity-and-why-does-it-matter/",
-      "originalUrl": "https://www.zdnet.com/article/what-is-ai-maturity-and-why-does-it-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c39078d904e22f9665e3b4bc14e298bc2abcf6b7/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-is-ai-maturity-and-why-does-it-matter/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-is-ai-maturity-and-why-does-it-matter/",
-      "publishedDateTime": "2022-06-13T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

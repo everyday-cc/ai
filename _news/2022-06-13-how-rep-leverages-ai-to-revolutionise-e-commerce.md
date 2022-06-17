@@ -50,20 +50,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Huawei announces new Inventions revolutionising AI, 5G, and user experience"
-    excerpt: "Huawei announced a batch of key inventions as part of its biennial “Top Ten Inventions” Awards at the “Broadening the Innovation Landscape 2022” forum held at its Shenzhen headquarters.The award is designed to recognize inventions that could create ..."
-    publishedDateTime: 2022-06-12T23:41:00Z
-    webUrl: "https://island.lk/huawei-announces-new-inventions-revolutionising-ai-5g-and-user-experience/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 35
-    images:
-      - url: "http://island.lk/wp-content/uploads/2022/05/huwaei-logo-700x504-1.jpg"
-        width: 650
-        height: 490
-        isCached: true
 
 secured: "kqJk05SoFqM8mgCvhiSxWsO4/LXu2nDQCkKI/Kvg+7Qn59uFISB6VAd6RVvFXWcB9E5ADP/8AsfEXVicZX0W/f1qCrai6OqnbR6vdk3Te57epbTcHeeTaQwHk15gsk0SWVJz87srSi1OCJ3z0Ug1LatHDs43OVy5sZxyv0dFt4/G1yN547gebxklwfw5J1+RmF8ie58Vuuu+mCMi/2ic8bKaymmIIlGtU912t54rR5M1LAP2GVzV5DAgDEZJO9COpRLqPk2vUqVRBodlB16mLhwfPK/1i6VPRVsuwuWe9siwLn/EU/cTLnNLp9Z5fWeMuZGRjT+b2V1U+DjG6ocdWN3wThESIkUTKti/1QbqnNauytsH2Fob3SauxP/dLdief31nv3u/glolH32uQH+mywyXqU3QkAtvvSY2qcvTshM3QazKHtZPvOT09WFX4KNfOoE7zoz6qd3AXZ9ABrJj2ARqL2f6GaDLmaNyPqVzquWyHK2dK9artwCdOly3yQPKhFpj0d9i8Za68vVqWY4zRg==;dYD0zIBjzybMTH7HdeYY/w=="
 ---

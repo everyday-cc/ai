@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-17-artificial-intelligence-shows-promise-for-interpreting-dental-x-rays.md",
+      "title": "Artificial intelligence shows promise for interpreting dental X-rays",
+      "excerpt": "A deep learning algorithm successfully detects periodontal disease from 2D bitewing radiographs, according to research presented at EuroPerio10, the world's leading congress in periodontology and implant dentistry organized by the European Federation of Periodontology (EFP).",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dental-x-ray.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp",
+      "publishedDateTime": "2022-06-17T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution.md",
       "title": "Eros Investments partners with Wipro to scale AI & ML powered content localization solution",
       "excerpt": "Accurate automated translation solution will accelerate subtitling and dubbing of films and television series to extend global reach.",
@@ -1410,40 +1454,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-deep-learning-solves-nuisance-alarms-and-tailgating-in-access-control.md",
-      "title": "Deep learning solves nuisance alarms and tailgating in access control",
-      "excerpt": "Access control systems are plagued by problems, such as false alarms and tailgating. Hakimo is a new company that applies concepts of deep learning to reduce false alarms and tailgating, and to make access control more accurate. False or nuisance alarms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/cloud-security/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/cloud-security/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "publishedDateTime": "2022-06-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

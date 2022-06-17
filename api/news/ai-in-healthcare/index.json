@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-17-artificial-intelligence-shows-promise-for-interpreting-dental-x-rays.md",
+      "title": "Artificial intelligence shows promise for interpreting dental X-rays",
+      "excerpt": "A deep learning algorithm successfully detects periodontal disease from 2D bitewing radiographs, according to research presented at EuroPerio10, the world's leading congress in periodontology and implant dentistry organized by the European Federation of Periodontology (EFP).",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dental-x-ray.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp",
+      "publishedDateTime": "2022-06-17T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round.md",
       "title": "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round",
       "excerpt": "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly.",
@@ -137,6 +181,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-your-subconscious-is-the-ultimate-artificial-intelligence.md",
+      "title": "Your subconscious is the ultimate ‘artificial intelligence’",
+      "excerpt": "I’ve been thinking a lot about Artificial Intelligence (AI), not about its potentials like all the articles are writing about, but about how it works, how",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "originalUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/Untitled-design-2021-01-13T165155.785.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "publishedDateTime": "2022-06-14T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1269,93 +1357,6 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy.md",
-      "title": "MCRI launches new study regarding the Apple Watch’s ECG app for children in cancer therapy",
-      "excerpt": "Murdoch Children’s Research Institute in Australia is launching a study to validate Apple Watch’s ECG application in children during and after cancer therapy, according to MyHealthyApple. Murdoch Chil",
-      "sourceUrl": null,
-      "webUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "originalUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mactech.com/wp-content/uploads/2022/06/Apple-Watch-ECG-883x1024.jpg",
-          "width": 883,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "publishedDateTime": "2022-06-02T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-societal-impact-and-the-future-of-education.md",
-      "title": "Artificial Intelligence, Societal Impact, and the Future of Education",
-      "excerpt": "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg",
-          "width": 471,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
-      "publishedDateTime": "2022-06-02T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
         "AI in Healthcare"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "Be the first to know"
 excerpt: "A Spanish foundation has recognized four scientists for their pioneering work in artificial intelligence. The four were named recipients on Wednesday of the 2022 Princess of Asturias Award for Technic"
 publishedDateTime: 2022-06-15T12:00:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
-webUrl: "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
+originalUrl: "https://omaha.com/lifestyles/technology/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
+webUrl: "https://omaha.com/lifestyles/technology/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "jgCLCvduZ07adL8VfHRiwStgx8VKTRF+iSL+3wrGl68jGcUlPd+Ou0c9UAt6jOAEXbke7Y1DTyjF4NEdDslqphsl6z2xqqmi6gOG7esi583pSpO7pDWKdHRdOUkAX8Hfkq/2k8b7ml/YU7GjkGywU2FFL0jzCN7e196vvogV1w+W/r+smQ6Z5X5Zi347ZNJgYVzybTRmT8A1n8bUWl5ur0ZegBQlLrPxNZ/gFM2hDEX06h21zY2a0u8sn0/00oayQBanMw+W18s7vDevqFHNpU7ArjGrwaZ0x/e6RXsx5m9dMn3B3I2hEbZkWjdmnKDoZiv1kS6JlHbE4mAWnapaMbKEezKszvJJqvrv5tMB/+A=;VZP0nn+3zS06k5AEJPhy+Q=="
+secured: "5q4E8Khvxeqsxf4bCsNE3ZRkKxQv8xtJXkqVjgr8s/u6YLrwuksjx8k55kagnAB2f5LUFVuoqDYil/OlFTiXzn5J5MgiejbcR61Nbzf8xJ/zRui/i3jAdg1pPFrjoKZY0fozWhOgVEqm0ZGircDIMQXU3GsAZnWy5ruB55hRWfFGp7WRzIdhKX/UNBjcOmSue34JTjm5Ibof9TMWxpq6ZZR9Ds61/1Gw12PJtD6UukBI0inuHzqtwdInNMSA+tasd8RC2A5Pqz/E7Nx3Jh6QRSoPTEul5Xn9aGRdVG0LqOtSDN3+09XQ19/eHf/VAjwGZh/kiXdjpBjS4jGEj8GWvvrHrg+oKH1hAt3OxgtTnSk=;p71JSaltXz0Iu4dWzPGxRw=="
 ---
 

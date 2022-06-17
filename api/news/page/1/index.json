@@ -2,6 +2,256 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-18-intuit-ceo-ai-is-fueling-innovation-for-our-customers.md",
+      "title": "Intuit CEO: \"AI is fueling innovation for our customers\"",
+      "excerpt": "Sasan Goodarzi says AI will \"revolutionize experiences\" for Intuit customers.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Intuit-CEO-AI-is-fueling-innovation-for-our-customers/ff597607-9f3b-4566-9d26-86cf3681c30e",
+      "originalUrl": "https://fortune.com/videos/watch/Intuit-CEO-AI-is-fueling-innovation-for-our-customers/ff597607-9f3b-4566-9d26-86cf3681c30e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/ff597607-9f3b-4566-9d26-86cf3681c30e/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/intuit-ceo%3A-%22ai-is-fueling-innovation-for-our-customers%22/ff597607-9f3b-4566-9d26-86cf3681c30e/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/intuit-ceo%3A-%22ai-is-fueling-innovation-for-our-customers%22/ff597607-9f3b-4566-9d26-86cf3681c30e/amp",
+      "publishedDateTime": "2022-06-17T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-18-how-to-successfully-deploy-robotics-within-an-organization.md",
+      "title": "How to successfully deploy robotics within an organization",
+      "excerpt": "Join AI and data leaders for insightful talks and ... The Association for Advancing Automation (A3) found that the number of robots sold in 2021 rose 28% from 2020, making last year the strongest ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/17/how-to-successfully-deploy-robotics-within-an-organization/",
+      "originalUrl": "https://venturebeat.com/2022/06/17/how-to-successfully-deploy-robotics-within-an-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1223541497.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/17/how-to-successfully-deploy-robotics-within-an-organization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/17/how-to-successfully-deploy-robotics-within-an-organization/amp/",
+      "publishedDateTime": "2022-06-17T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images.md",
+      "title": "Unified-IO is an AI system that can complete a range of tasks, including generating images",
+      "excerpt": "Researchers at the Allen Institute for AI have developed a machine learning system that can complete a range of tasks, including generating images.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/17/unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images/",
+      "originalUrl": "https://techcrunch.com/2022/06/17/unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/17/unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/17/unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images/amp/",
+      "publishedDateTime": "2022-06-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-2023-genesis-gv60-not-just-another-face-in-the-crowd.md",
+      "title": "2023 Genesis GV60: Not Just Another Face in the Crowd",
+      "excerpt": "Built on a platform shared by other Hyundai Motor Group EVs, this premium all-electric crossover has a highly distinctive look—and innovative tech (including fingerprint and facial recognition) to tem",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/2023-genesis-gv60-not-just-another-face-in-the-crowd-11655481890?mod=hp_listc_pos2",
+      "originalUrl": "https://www.wsj.com/articles/2023-genesis-gv60-not-just-another-face-in-the-crowd-11655481890?mod=hp_listc_pos2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-563615/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/2023-genesis-gv60-not-just-another-face-in-the-crowd-11655481890",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/2023-genesis-gv60-not-just-another-face-in-the-crowd-11655481890",
+      "publishedDateTime": "2022-06-17T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-artificial-intelligence-shows-promise-for-interpreting-dental-x-rays.md",
+      "title": "Artificial intelligence shows promise for interpreting dental X-rays",
+      "excerpt": "A deep learning algorithm successfully detects periodontal disease from 2D bitewing radiographs, according to research presented at EuroPerio10, the world's leading congress in periodontology and implant dentistry organized by the European Federation of Periodontology (EFP).",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dental-x-ray.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp",
+      "publishedDateTime": "2022-06-17T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver.md",
       "title": "The truth about AI and ROI: Can artificial intelligence really deliver?",
       "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! More than ever, organizations are putting their confidence – and investment –  into the potential of artificial intelligence (AI) and machine learning (ML).",
@@ -496,7 +746,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -912,7 +1162,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -953,228 +1203,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round.md",
-      "title": "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round",
-      "excerpt": "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604",
-      "originalUrl": "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-565272/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-this-startup-wants-to-help-teams-get-more-out-of-virtual-meetings.md",
-      "title": "This startup wants to help teams get more out of virtual meetings",
-      "excerpt": "While major videoconferencing platforms can offer basic stuff like a record function, the winter 2020-founded startup reckons there ... e.g. by using AI to parse transcriptions and ID key ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/",
-      "originalUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Group-692.png?w=680",
-          "width": 679,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/amp/",
-      "publishedDateTime": "2022-06-16T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh.md",
-      "title": "Artificial intelligence-enabled portal for pensioners soon: Jitendra Singh",
-      "excerpt": "Singh said the proposed portal will not only enable constant contact with pensioners and their associations across the country but will also regularly..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/government-policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/92243103",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/government-policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/92243103",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92243103,imgsize-57180,width-1200,height-628,overlay-etcio/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/government-policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/92243103",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/government-policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/92243103",
-      "publishedDateTime": "2022-06-15T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-researchers-use-artificial-intelligence-to-identify-long-covid-cases.md",
-      "title": "Researchers use artificial intelligence to identify long COVID cases",
-      "excerpt": "Marketplace’s Meghan McCarty Carino speaks with Emily Pfaff, an assistant professor of medicine at the University of North Carolina at Chapel Hill who uses artificial intelligence to analyze electronic health records, looking for patterns that might ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2022/06/GettyImages-1212007685-e1655171450331.jpg?fit=740%2C494",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/",
-      "publishedDateTime": "2022-06-15T19:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-singapore-robotics-startup-raises-s42m-from-investors-including-fn-razer.md",
-      "title": "Singapore robotics startup raises S$4.2m from investors including F&N, Razer",
-      "excerpt": "Ross Digital, a robotics and automation company, announced on Thursday (Jun 16) that it has raised S$4.2 million in its Series A+ funding round, led by food and beverage company Fraser and Neave (F&N).",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/garage/singapore-robotics-startup-raises-s42m-from-investors-including-fn-razer",
-      "originalUrl": "https://www.businesstimes.com.sg/garage/singapore-robotics-startup-raises-s42m-from-investors-including-fn-razer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstimes.com.sg/garage/singapore-robotics-startup-raises-s42m-from-investors-including-fn-razer?amp",
-      "cdnAmpWebUrl": "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/garage/singapore-robotics-startup-raises-s42m-from-investors-including-fn-razer?amp",
-      "publishedDateTime": "2022-06-15T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

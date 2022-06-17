@@ -36,17 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Open Banking Fintech Bud Secures $80M to Scale Lending, Personalization AI"
-    excerpt: "Bud, an Open Banking Fintech firm established in 2015, recently completed its Series B investment round totaling $80 million."
-    publishedDateTime: 2022-06-13T01:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192210-open-banking-fintech-bud-secures-80m-to-scale-lending-personalization-ai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
 
 secured: "paImrnqGn6I/S+FXtqMXuRzCYVL2FCKloE+IBNBg5TRj7JnaTIZK+EwaeeeSfKJsFMawjeDWINyjviybYzigR38awYivpj8wjWm1hCCfTuo7OqXmVhx4O6At3X+vx1cMPwpQBldMv3jwfy0Wl44vZsotrNKhc6zAt0VqLSIOWc4j4Eujsh0MYFre6B3PgZ1ce8v6FLBRm+sSjD59lv7/QLSBvIwaWsBZZasz0a6beRI99LcjY0Tx3gg1rWtdWSRpfJgaN1zMnhEtjsM4YilTsv5QKHPnL0Tm0Gdj7owo87Jtp/foGT/RzifmRavdyXxeRCCm8zkxBHIkqGt794Q1d2v8iFMf9YeWjkqBOcbX19w=;E8bFpyBEKCURxg6mvMYH4A=="
 ---
