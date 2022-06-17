@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/colleges/iim-k-launches-accelerat
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/colleges/iim-k-launches-accelerator-programme-to-boost-artificial-intelligence-and-machine-learning/article65526675.ece/amp/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google engineer put on leave after claiming new AI programme told him it was 'conscious'"
+    excerpt: "A GOOGLE engineer has been put on leave after claiming the artificial intelligence (AI) chatbot he was working on told him it was \"conscious\"."
+    publishedDateTime: 2022-06-13T07:46:00Z
+    webUrl: "https://www.express.co.uk/news/science/1624527/google-engineer-on-leave-new-ai-programme-concious-lamda-chatbot"
+    ampWebUrl: "https://www.express.co.uk/news/science/1624527/google-engineer-on-leave-new-ai-programme-concious-lamda-chatbot/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1624527/google-engineer-on-leave-new-ai-programme-concious-lamda-chatbot/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 48
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/A-Google-engineer-has-made-several-claims-about-AI-1624527.jpg?r=1655106770628"
+        width: 590
+        height: 350
+        isCached: true
   - title: "IIMK, Deloitte & MRPL Join Hands to Helm ‘LIVE-X’ Accelerator Programme to Boost Artificial Intelligence & Machine Learning Driven Start-ups"
     excerpt: "Kozhikode: To usher in the next generation of digital transformation through Artificial Intelligence (AI) and Machine Learning (ML) and further nurture the entrepreneurial journey of new-age companies,"
     publishedDateTime: 2022-06-15T06:26:00Z

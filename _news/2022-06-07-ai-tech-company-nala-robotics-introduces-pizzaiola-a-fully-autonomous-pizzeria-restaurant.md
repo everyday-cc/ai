@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI Tech Company Nala Robotics Introduces Pizzaiola, A Fully Autonomous Pizzeria Restaurant"
-excerpt: "Nala Robotics, an AI technology company revolutionizing the culinary industry with its restaurant-as-a-service platform , today unveiled Pizzaiola™, a fully automated, multi-cuisine, 7-axis robotic chef + kitchen that operates within a 12’ x 12’ space,"
-publishedDateTime: 2022-06-07T12:12:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-arlington-heights-robotics-restaurants-93826fcf6976f1a6b457498ffaa8ba40"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-arlington-heights-robotics-restaurants-93826fcf6976f1a6b457498ffaa8ba40"
+excerpt: "Nala Robotics, an AI technology company revolutionizing the culinary industry with its restaurant-as-a-service platform , today unveiled Pizzaiola™, a fully automated,"
+publishedDateTime: 2022-06-07T12:11:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant/article_49aefc11-3756-5b6f-a863-3e69ed34da80.html"
+webUrl: "https://www.bakersfield.com/ap/news/ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant/article_49aefc11-3756-5b6f-a863-3e69ed34da80.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "bEKP4iuEopnA9PNUSnX1JoEQmJERAieaq60BHGVhWofHAN+hBois8HGv4xdAZIpjh1AMCltJbYryjnv8RBA1d92ubMfPpBUmH91hKwb7QGkAo3AzHPZW3Zm6pnzP+jxA8U0hIFNvaIQs6cKxgiMtPT0UsuHiucKSrTLbcyYQY4VfhE545PKyu3c35AgwVo0JqNN/LKbP8E4luAM8V6Ywp6SZcu4LBEJk0I0+KS1j+6ZRw0ziKk80B6n0EmltLThycAzJGXLfeq8BqhIVNlnClhxftnJMUR9GOK5I98FzYUhP7h8mLatdSjZi8llJ02QzYjOVD1d00aorzkJoJmy8ieCm3Fj0AD2jTe3sRNDqZUw=;FM/RurWBSEx7QkW5LFGzlg=="
+secured: "WEnu3Xgf2uWq8xFGQqKMFn1hnIYRHQ+Jh2914RkBqGflywhy2sLZB5dHq5rb+wxKfJMz6JgVRhq34ro46UNBLwxTx2leH1iHgyqx/YjBBLD+zoUlanxvnTESY1dAhqCrZujmCN1xypYykAzP62sO/NemKPLHgDY+Wng1KcTcfSVSCLiNoHuCdWGk+JhKvYt1O42ioArUJcAYfaRvGM8d1DHhShX6Q95WtUulF1eYyJlr0sLg+l/d3pqzaJs267hkz55uE2CMXE0CipH3P07ml7FMwC8WWpfmYfw7Xwg4vBqcLEm3tuRww0nl13PCREp8yuxL+X0IyKuKc/aXF8DGOsvsTsx1vQ7xczaEmPaFURA=;flElVrKugk5ADsh3EyKwmA=="
 ---
 

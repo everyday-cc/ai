@@ -7,7 +7,7 @@ originalUrl: "https://www.dbusiness.com/daily-news/gm-subsidiary-brightdrop-purc
 webUrl: "https://www.dbusiness.com/daily-news/gm-subsidiary-brightdrop-purchases-ai-software-to-lower-fleet-operation-costs/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM's BrightDrop acquires AI tech from startup"
-    excerpt: "BrightDrop will use Marain’s artificial intelligence-powered fleet optimization software for its products to develop solutions for fleet customers."
-    publishedDateTime: 2022-06-12T16:59:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2022/06/12/gms-brightdrop-acquires-ai-tech-startup/7579795001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/09/27/PDTN/7f9008ce-0370-407a-ace8-49be0918206e-BrightDrop_EV600_Side_View.jpg?auto=webp&crop=5699,3206,x0,y289&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "BrightDrop acquires AI software of tech startup Marain"
     excerpt: "General Motors subsidiary and maker of electric vehicles for last-mile delivery plans to integrate fleet-optimization software into its Zevo vans and Trace e-carts."
     publishedDateTime: 2022-06-15T12:10:00Z

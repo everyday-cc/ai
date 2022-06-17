@@ -27,29 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 things an AI must demonstrate to be considered sentient"
-    excerpt: "Everybody's talking about the Google engineer who thinks a company chatbot is sentient. But what does sentience mean?"
-    publishedDateTime: 2022-06-14T21:55:00Z
-    webUrl: "https://thenextweb.com/news/the-3-things-ai-must-demonstrate-to-be-considered-sentient"
+  - title: "Researcher finds that military cannot rely on AI for strategy or judgment"
+    excerpt: "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology argues only so much can be automated and shows the value of human judgment."
+    publishedDateTime: 2022-06-14T21:02:00Z
+    webUrl: "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-military-ai-strategy-judgment.amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: techxplore
+      domain: techxplore.com
+    quality: 56
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fhamletrobot.jpg&signature=a4cee9cd00d4d06b14bab3c0dbafd0be"
-        width: 1280
-        height: 640
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg"
+        width: 1920
+        height: 1920
         isCached: true
-  - title: "Businesses and organizations must consider ethical concerns of AI deployment, data thought leader says at local summit event"
-    excerpt: "Doing technology right is really about finding ways to harness the power of this technology and to simply reduce the harm,' Renee Cummings, instructor, AI ethicist and data activist at the University of Virginia,"
-    publishedDateTime: 2022-06-15T22:54:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/06/15/ai-ethics-commercial-deployment-part-summit.html"
+  - title: "Military cannot rely on AI for strategy or judgment, study suggests"
+    excerpt: "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research argues only so much can be automated and shows the value of human judgment."
+    publishedDateTime: 2022-06-15T00:06:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220614184106.htm"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 7
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "Research claims military cannot rely on Artificial Intelligence for strategy or judgment"
+    excerpt: "The use of artificial intelligence AI for war has been a promise of science fiction and politicians for years but new research from the Georgia Institute of"
+    publishedDateTime: 2022-06-15T02:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272586484/research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 45
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1655258446.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "51Ilxu73F+au0Pdo86rTe0NRTq8NUIJiiomy3YDAzyLx/Bjsnvh3iGk/AwArXvEc36JlOixizb2HkS/cFt7QGfKIltJ/6+X4HLjyoqYnZGgkTvQ6Sv7cy897tZwb4B276femfs5GEhEolnh39IlgMqFYKxrS61aY8OVgLQaZD8XXMesWJrJ9LWjXnwiXVy7pHX6+YB1REq6Wyj1mD7zymxX0XGFYiFoobsi8FN94C8avFj9bUBqVy1e9Lm+F1D4NEVeQ14YUroxELlJ04F8S8718dV7+YMKV1NKvuME4vtXT0rg/30Ie2rUdWcG6L+nqdB/GCduVcirbPsxY7OI1Mbb9iLAxE/RFPd0N8KpdzyBciIZ4HR1qxl76V/KAlkL5yAIqHvKtZ9NeGRXdtSEgmxkJODXq/icBKnDIq4jAL+JfnEPlbk6//hxp6Ir8GjmTWH+ueR6Xyx78HMx4sKs9iS6qLvZzAWruPCpxdK3xpNuu2pQwM73w+aZRrOk5qQi0vuKpszM+8F7kOHOb++j9wA==;mnPsUqBo3/RwKak1jYGPzg=="
 ---

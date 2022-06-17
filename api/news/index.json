@@ -10,7 +10,7 @@
       "originalUrl": "https://www.indiainfoline.com/article/news-top-story/eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution-122061700136_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -50,11 +50,11 @@
       "title": "AI and Robotics in healthcare: A phone could hear if you have TB",
       "excerpt": "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/world-africa-61834753",
-      "originalUrl": "https://www.bbc.com/news/av/world-africa-61834753",
+      "webUrl": "https://www.bbc.com/news/world-africa-61834753",
+      "originalUrl": "https://www.bbc.com/news/world-africa-61834753",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -107,7 +107,7 @@
       "originalUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey-41655442728485.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -321,50 +321,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-googles-sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas.md",
-      "title": "Google’s ‘sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas",
-      "excerpt": "Or, in the words of R. Zeira, “Return to your dust.” Mois Navon teaches “Ethics and AI” at Ben Gurion University and Yeshiva University. He is an ordained orthodox rabbi and one of the founding engineers of Mobileye who designed the chip powering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan",
-      "originalUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jta.org/wp-content/uploads/2022/06/06-16-2022-Golem-copy.jpg",
-          "width": 2149,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp",
-      "cdnAmpWebUrl": "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp",
-      "publishedDateTime": "2022-06-16T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jewish Telegraphic Agency",
-        "domain": "jta.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1161,6 +1117,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-customize-pronunciations-using-amazon-polly.md",
+      "title": "Customize pronunciations using Amazon Polly",
+      "excerpt": "Amazon Polly breathes life into text by converting it into lifelike speech. This empowers developers and businesses to create applications that can converse in real time, thereby offering an enhanced interactive experience. Text-to-speech (TTS) in Amazon Polly supports a variety of languages and locales,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciations-using-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciations-using-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/customizing-pronounciation.jpg",
+          "width": 1248,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T13:42:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

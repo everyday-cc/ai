@@ -46,50 +46,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-17-googles-sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas.md",
-      "title": "Google’s ‘sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas",
-      "excerpt": "Or, in the words of R. Zeira, “Return to your dust.” Mois Navon teaches “Ethics and AI” at Ben Gurion University and Yeshiva University. He is an ordained orthodox rabbi and one of the founding engineers of Mobileye who designed the chip powering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan",
-      "originalUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jta.org/wp-content/uploads/2022/06/06-16-2022-Golem-copy.jpg",
-          "width": 2149,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp",
-      "cdnAmpWebUrl": "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp",
-      "publishedDateTime": "2022-06-16T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jewish Telegraphic Agency",
-        "domain": "jta.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-06-14-amds-ai-strategy-comes-into-view-with-xilinx-gpu-software-plans.md",
       "title": "AMD’s AI strategy comes into view with Xilinx, GPU, software plans",
       "excerpt": "Analysis After re-establishing itself in the datacenter over the past few years, AMD is now hoping to become a big player in the AI compute space with an expanded portfolio of chips that cover everything from the edge to the cloud.",
@@ -141,7 +97,7 @@
       "originalUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1380,6 +1336,41 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation.md",
+      "title": "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation",
+      "excerpt": "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
+      "publishedDateTime": "2022-05-27T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

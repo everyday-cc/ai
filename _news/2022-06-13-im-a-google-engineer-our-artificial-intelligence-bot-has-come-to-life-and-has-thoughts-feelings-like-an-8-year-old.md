@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google engineer says AI chatbot has developed feelings, gets suspended"
-    excerpt: "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him."
-    publishedDateTime: 2022-06-14T05:17:00Z
-    webUrl: "https://www.androidauthority.com/google-lamda-3176080/"
+  - title: "AI coming to life? Google engineer claims chatbot is sentient"
+    excerpt: "A Google engineer is claiming that LaMDA, a chatbot generator, has the ability to think for itself, but the company has rejected the claim. The Washington Post's Nitasha Tiku explains how the chatbot works and why the engineer thinks Google should be asking for its consent to experiment on it."
+    publishedDateTime: 2022-06-15T15:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_06/1655305259269_now_mnn_chatbot_sentient_google_220615_1920x1080-9ec6aw.jpg"
         width: 1920
-        height: 1081
+        height: 1080
         isCached: true
   - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
     excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
@@ -50,22 +52,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 61
-  - title: "Google engineer says Lamda AI system may have its own feelings"
-    excerpt: "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrik's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear o"
-    publishedDateTime: 2022-06-13T15:25:00Z
-    webUrl: "https://bbc.co.uk/news/technology-61784011?at_campaign=KARANGA&at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-61784011.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-61784011.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google engineer forced to take leave after claiming AI chatbot 'developed human emotions'"
     excerpt: "A Google employee has been made to take leave after he shared conversations between himself and an AI bot where it told him it feared being turned off as it would 'feel like death'"
     publishedDateTime: 2022-06-13T02:14:00Z
@@ -82,19 +68,49 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Google engineer says company's AI bot has come to think like humans, faces suspension"
-    excerpt: "California/IBNS: Google engineer Blake Lemoine has claimed that the multinational tech company's artificial intelligence (AI) bot has become sentient (able to perceive or feel things) and shown signs of being able to think like human beings."
-    publishedDateTime: 2022-06-13T11:08:00Z
-    webUrl: "https://www.indiablooms.com/health-details/S/11631/google-engineer-says-company-s-ai-bot-has-come-to-think-like-humans-faces-suspension.html"
+  - title: "Google's AI-based chatbot LaMDA comes to life? Yes, as per Google Engineer- Know Details Here"
+    excerpt: "While there always have been a lot of debate on what AI tools can do, including whether they are actually capable of replicating human emotions and ethics, an article published in The Guardian in 2020 had claimed that it was written entirely by an AI text ..."
+    publishedDateTime: 2022-06-13T10:09:00Z
+    webUrl: "https://www.jagranjosh.com/current-affairs/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
+    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
     type: article
     provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 30
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 48
     images:
-      - url: "https://www.indiablooms.com/health_pic/2022/b38182fc198858901978b28c7bcdab5b.jpg"
-        width: 800
-        height: 450
+      - url: "https://img.jagranjosh.com/images/2022/July/2972022/ludo_express.png?new_images_en"
+        width: 450
+        height: 232
+        isCached: true
+  - title: "Google’s artificial intelligence is coming to life!"
+    excerpt: "Google’s artificial intelligence is coming to life!At least this is what one of their engineers think."
+    publishedDateTime: 2022-06-14T09:37:00Z
+    webUrl: "https://www.jacarandafm.com/shows/mornings-with-mack/googles-artificial-intelligence-coming-life/"
+    type: article
+    provider:
+      name: Jacaranda FM
+      domain: jacarandafm.com
+    quality: 39
+    images:
+      - url: "https://turntable.kagiso.io/images/iStock-1145990155.width-400.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Artificial intelligence is evolving, can be sentient in future, say PEC experts"
+    excerpt: "The claim by Google engineer that LaMDA, a language model created by Google artificial intelligence (AI), had become sentient and begun reasoning like a human being has sparked a lot of debate and discussion around it."
+    publishedDateTime: 2022-06-16T01:51:00Z
+    webUrl: "https://www.tribuneindia.com/news/chandigarh/artificial-intelligence-is-evolving-can-be-sentient-in-future-say-pec-experts-404266"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 35
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/6/2022_6$largeimg_921084191.JPG"
+        width: 660
+        height: 427
         isCached: true
   - title: "QuickCheck: Has a Google chatbot come to life?"
     excerpt: "ACCORDING to a leak, Google has created an AI that has developed sentience and then they suspended ... cognisant after it answered a series of questions on its rights and the ethics of robotics. After he was placed on suspension, Lemoine published a ..."
@@ -110,15 +126,15 @@ related:
         width: 1095
         height: 770
         isCached: true
-  - title: "Google insider punished by company after saying AI 'has mind of its own'"
-    excerpt: "A Google engineer was placed on paid leave after speaking on a public platform about how a research system he developed for generating chatbots may have developed sentience."
-    publishedDateTime: 2022-06-13T18:33:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/google-engineer-suspended-sentient-ai"
+  - title: "Google engineer put on leave after saying AI chatbot has become sentient"
+    excerpt: "Blake Lemoine says system has perception of, and ability to express thoughts and feelings equivalent to a human child"
+    publishedDateTime: 2022-06-12T19:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine?amp"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 18
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
 
 secured: "Jr7OCx5TlCTb6DhhH7Mv7abo1rDDUoDUtpr7vKy7+kjH5Y8tACijGxrkD/n60S7hgY2VoCc70r8N3aeXVEWrlhG3DUDxMn25QSb8sWxgo5CGNf8e4voDmEgSwHdJ+v8TAEcgkWIQazrIDuSII8R4Nh59LFXsvuRWg9en/BvK7yQF0kSdBWuiqaL47eGiQ/naQL/6vtXj/mQzIGZIMuCm5Eww1AJK0M86a/EQgEDkwmMmqWBeRhMejC0sx6+J0csL8q8clHhboOz3DAjTM34xyFL4uFshxBa4UgLC2+pgc9zHdTQ1hML8/VyK5NiSBy0QEQ6IIZOk9RnnEpIviOns65vpqJ6nqXv1s5+6Gzr5Ar6Zk2lrWF3YzPIiY0IgoFL2IPxyqnpoxfeS3M7H4j6Tjn8FSpc6i7ARiiy2wbev1eh5SxSuIOQT0LUhMwjXI55AZENxK/5G42OH9vaFKz9Xdrnbkl1yNkQleSzGm4/FGtPZCxD3ASiZt2R7CUluIRRs4Nx1lmtpvf3LrN0dL03dAA==;2EYfAmbeBUl2OZoJhH0h2Q=="
 ---

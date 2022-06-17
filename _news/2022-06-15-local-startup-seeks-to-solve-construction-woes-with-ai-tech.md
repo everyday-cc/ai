@@ -34,6 +34,20 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Eros partners with Wipro to scale AI & ML-powered content localisation solution"
+    excerpt: "Wipro Limited and media company Eros Investments have signed an agreement to scale artificial intelligence (AI) and machine learning (ML) based content localisation solutions globally."
+    publishedDateTime: 2022-06-17T09:35:00Z
+    webUrl: "https://analyticsindiamag.com/eros-partners-with-wipro-to-scale-ai-ml-powered-content-localisation-solution/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 52
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/AIM-BANNER-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "hEESnBzuJeP7AmCUx5K4NtP79z79HBOdYJYH2mJbNuCDMrOknEN5WlhSOXv1A5sj7SoY3CuVAmNFIRpcRLg8MeB/8Nu1xIcAA6tY26TVrJfnC9Af23uZiqrmss6mDpnoQno9mCr0sNiwz/L+PUuSGsvE2XRJQZeqoIilI5Ny5NANAeok6l5yNJ5e88TNw1Ej4hzTZeOkeLkRPXFaoiygKXca6YXFzWKn9X/lgduJitCwU0Mp5DcUCDE0907XxqO/bgYqBxDtRdEQzg/wQ6bha28/yCiz9q3aNaC2J3wBMecgFJENDaPma2ELtVDHlXbVJFAMir+T7hU5WK89LmFwGIJHc0b0vZfYZYa4jH1z6ieGo9jUc0RImz3HhwccwTNkaeVZgPF9mHVzIv/e5ZcRYoYX4WKSvKNoSZVUaMYBnAIAp9rFkCz/aQp+RTQIiKY3fKIcBy9oVnco+eFeMAv1x7SuBu5WU+5cD9j4wB7ilH/B1iIguYUSiqh3RA5K31pmaZ8ub75G/+ifY7j3ZafISQ==;zMMrkWUGWF/5hUYO4HyKzA=="
 ---

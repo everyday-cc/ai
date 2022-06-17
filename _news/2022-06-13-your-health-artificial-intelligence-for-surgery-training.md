@@ -29,7 +29,7 @@ related:
   - title: "AI and Robotics in healthcare: A phone could hear if you have TB"
     excerpt: "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives."
     publishedDateTime: 2022-06-17T07:07:00Z
-    webUrl: "https://www.bbc.com/news/av/world-africa-61834753"
+    webUrl: "https://www.bbc.com/news/world-africa-61834753"
     type: article
     provider:
       name: BBC
@@ -39,22 +39,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1639B/production/_125453019_p0cffz8h.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Lucem Health™ Launches Innovation Collaborative to Offer AI/ML to the Front Lines of Healthcare"
-    excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative,  a partner program designed to move clinical AI/ML innovation to"
-    publishedDateTime: 2022-06-12T15:10:00Z
-    webUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/"
-    ampWebUrl: "https://enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/lucem-health-launches-innovation-collaborative-to-offer-ai-ml-to-the-front-lines-of-healthcare/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 79
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Lucem-Health-Announces-Innovation-Collaborative-to-Bring-AI-ML-to-the-Front-Lines-of-Healthcare.png"
-        width: 700
-        height: 400
         isCached: true
 
 secured: "IPOC0x47fBAZd278LFKdi3OaD9f7rO4ytxI+OoRDHtUyGDUSscQ+mzmZMMHCEsMQ/jMm8KfNT9zNsuBywczoa/MzjS+S0pfRIcZGqL37ObMilnY55EO+XFYvYGth0N/eMJ5rlH7MU2uY/k/cuRZH5Gtzh0Eh7FtpKThWmd/DHwIO9tkB8uqeAa5bE8I6pS3m0nfWXbqxVbqb7H0VBxtIiMelsX+BlxIIYzGiqXHNEv2Nw6Giz+i2tbItb4mzEN1gyX2SbHBKJQTpr5JP9lm2boQ/Z/vUmBvJzQxMOXZONldMuk5Zgjgl/R7cPbaK+AkDHkO1Mco21sWhVRWJy62480W3SeHaPBwcEOjAhbo7Kus=;Wg9vDBgiVrFlSPiIyQBQ4Q=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/seattle/news/2022/06/15/allen-institut
 webUrl: "https://www.bizjournals.com/seattle/news/2022/06/15/allen-institute-ceo-stepping-down-founder.html"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Oren Etzioni stepping down as CEO of Allen Institute for AI after nine years at research hub"
+    excerpt: "Oren Etzioni, the founding CEO of Seattle’s Allen Institute for AI, is stepping down from the artificial intelligence research organization he helped launch nearly nine years ago. A renowned expert… R"
+    publishedDateTime: 2022-06-15T20:21:00Z
+    webUrl: "https://www.geekwire.com/2022/oren-etzioni-stepping-down-as-ceo-of-allen-institute-for-ai-after-nine-years-at-research-hub/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 36
 
 secured: "gtMw8bknM35E0bLZhDE05tZ6GIqHce8N9rpFpx+hhKTCJcvYmNvOIPy0TNwxM9OcxripBkvnnmxpmgCpOE8qHQZEDCTwkEOUKEjX2bRdcJxz0uEsI3G9l+lXp/NVrluYaVOOlBl+9rjG6IfOFxbnR4MC06HzzbVNNrDj37J0JrG9Nf/z+YQz7qzBlZmkQuhzdeDcccBF9mgl4Ro+YRVbL8+m3zTRcsGFftWXUkS91i4yQGy2S9/g3A3xIcUgPKgWbTdUf8/AyH2n1uzt3KUaUfRQoFNma/vENhz472vLYch/brpzO6fWck+4issMQe8+sPA+li1o+KZjlwDpkace6z3TJoxaMaWpUfaRmBwtEGX/o4XecjGynJQjduJH8X78Laolva0STZ9ZEy22us8WqJvJip4D9fDIxO9yuTiigw3U7+YG2rFIGLTDU/p99IwNs/fkvrGEsHUr52fgJIOgd2wQ1/EipnjcujfXEE9pWYrkjxHF5G0ZH25iIpqGUAssXmI7a7I2DfbEeS6H4MAOsw==;eeITWZj+MumEwVnd4dALig=="
 ---

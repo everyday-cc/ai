@@ -35,6 +35,70 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Google engineer thinks company’s AI ‘LaMDA’ has become sentient: Here’s all you need to know"
+    excerpt: "Social media had been abuzz with debate over the sentience of Google’s artificial intelligence LaMDA or Language Models for Dialog Applications after Google engineer Blake Lemoine claimed the AI has become sentient."
+    publishedDateTime: 2022-06-14T09:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 48
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/sdfc36/article65384473.ece/alternates/LANDSCAPE_615/IMG_bl19_AI_pic_pg1_2_1_K793GH2G.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "‘I feel like I’m falling’: is the AI bot LaMDA sentient? — an interview"
+    excerpt: "Blake Lemoine is a Google engineer recently put on leave for claiming an AI bot, LaMDA, is sentient. In the following interview, he chats with LaMDA about time, language, emotions, religion, and more."
+    publishedDateTime: 2022-06-13T01:14:00Z
+    webUrl: "https://www.crikey.com.au/2022/06/13/blake-lemoine-google-lamda-ai-bot-interview/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 41
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/13-06-22-ai.jpg"
+        width: 740
+        height: 400
+        isCached: true
+  - title: "Matrix Origins? Google engineer's claims of a sentient AI LaMDA, What is it and implications of the technology"
+    excerpt: "A Google engineer’s claim about sentient Artificial Intelligence has opened up debate – not about an imaginary and distant future where machines take over mankind but the moral “trolley problem” that advanced AI systems could present operators with."
+    publishedDateTime: 2022-06-14T09:34:00Z
+    webUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743"
+    ampWebUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 37
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92202743,imgsize-100,width-1280,height-720,resizemode-75/92202743.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Google engineer claims AI technology LaMDA is sentient"
+    excerpt: "It has read Les Miserables, meditates daily, and is apparently sentient, according to one Google researcher. Blake Lemoine, a software engineer and AI researcher with the tech gia"
+    publishedDateTime: 2022-06-13T02:29:00Z
+    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=356247&tst"
+    type: article
+    provider:
+      name: NZCity
+      domain: nzcity.co.nz
+    quality: 17
+  - title: "Google Engineer Believes That the Company's AI 'LaMDA' Has Become Sentient"
+    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated AI chatbot that produces text in response to user input. According to software engineer Blake Lemoine, LaMDA"
+    publishedDateTime: 2022-06-14T05:00:00Z
+    webUrl: "https://www.realclearscience.com/articles/2022/06/14/google_engineer_believes_that_the_companys_ai_lamda_has_become_sentient_837221.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 17
 
 secured: "CU9KKvngpnLa4YZjCPWQJH1K6kqoNbhiZqtG7XEVPWvK1ErJRiZOFUSdNDeutiZVy/Rb1r+RzerjUGWv5ze3TLIp2b+12HSYJMlItC2sF7rrYp3Jpj5dRGnoww33CpiIBkwD209ZeZ/KIFUJwTYwkGB8k3Cv1XGMujEhVj/pGawEwS3xRNmj/CxMcXyiioPWcvLfcmtaqIj5BDXzQ4o+vfHU2iD83TJXboCqzbhfASeiEkodCoHiwQaBodAPNZEuQpe5NxzPHa4vhG/YY4qWQ8ATbEXK6jkY0dWiPGsctzQ1tLrv7DYzgDkXaIpBFj8YD0wa49dA+3dZ2xWwD+Iw6oVf2UZkaKPdlRi/yYU3ND4=;sScE+py3+SzQDPtTfwiiwA=="
 ---
