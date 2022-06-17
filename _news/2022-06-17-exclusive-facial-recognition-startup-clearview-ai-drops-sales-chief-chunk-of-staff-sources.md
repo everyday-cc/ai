@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Exclusive: Facial recognition startup Clearview AI drops sales chief, chunk of staff - sources"
-excerpt: "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago, according to people familiar with the matter and posts online, as the high-profile facial recognition startup grapples with litigation and difficult economic conditions."
-publishedDateTime: 2022-06-17T02:33:00Z
-originalUrl: "https://www.channelnewsasia.com/business/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-staff-sources-2752521"
-webUrl: "https://www.channelnewsasia.com/business/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-staff-sources-2752521"
+title: "EXCLUSIVE-Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources"
+excerpt: "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago, according to people familiar with the matter and posts online, as the high-profile facial recognition startup grapples with ..."
+publishedDateTime: 2022-06-17T02:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources"
+webUrl: "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources"
+ampWebUrl: "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 90
+heat: 90
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
   - AI in Sales
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-    width: 1200
-    height: 676
-    isCached: true
-
-secured: "sZnSfbfEkrWHL3hP2oTm/c81q0gJNpgcC3Fu9DkIaiO8febczDiBsO+Owqvw1Em4d20Ed9fvxVb+JLThbO2X2QwRLtDNGJ/GcUCZdHYvGZCxLTzTxcy21E7Q/d5hdUT0sNrJQK5otHJ87a+HfNmRz2hBHerp3nm5paEwGIk2W6zhdufWXi1XuSmVHY6oMvdHkkiTNxm3B9rOvXhGpJ26MOzKYdx2D+qm5hw20Ec2Hq5FEylk9UM21ncC4A1FihPErIJPIo0n3Wl/7NLqbjXpj7aIuuGuBnWt6W9MbIOPUOSP6GLZ4SPdPenNEmcjd6K9ESBIGhAB788Scf7NjxJQfWEq61tR6EI+gCiX25ItWe0=;uYVN8fgT5TpSsRWprgtr0Q=="
+secured: "OJ5tZ0fQK/XgpWMJxXgR5fPJiaQUbGzea5IDk5Ov5//cxN8sqWZ65ZkAgrZdWddn/XIHlytaoo9EQBUq7tkbf4NiiBYSKTB0yCO1MoE4YDDLiflFpDyxbwP9aBtG6YTo5VQlw3/nekB4ZlSKQsHQTY3lEqRCLwRyCN9XBVGFsmPfhyJavuHaJ7c8T+QZJANVjGelmvjeDXsGUQJNZTBl4P7yUCtxZZIH/HMZCwImGXPy9f5F14Obp/UVD/FoJxzYK5/FeOK3NuYwyhJXdHI40NVw9auE5N0FiEuDIc02lm5MjPsZ+TfIFXrbN2WnyQ2AY77O+iTEnX2++QbpBB09Tgjgna8rPzG0372yrKNE1D4lrocLHqwK0ZS+Sc8sKarGhFLle2YGGGbiZAUUE6cWIfNCdE8yugAAP5V0u2e3GKN2z6d/mtJcBsJx9H3fHzAdsWNxm5O5jTqbSQgKgJOxoiXC3dMDZJytjrVFxPvQ35eFz80rUC2ktWTExn9pL2LiFWXI1If9UnBPILvegtIcmg==;v8UK/OHCNTwLGlRePMErIw=="
 ---
 

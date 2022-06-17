@@ -478,6 +478,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
+    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
+    publishedDateTime: 2022-06-14T15:20:00Z
+    webUrl: "https://abc7.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    ampWebUrl: "https://abc7.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Can the new Google chatbot be sentient?"
     excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
     publishedDateTime: 2022-06-14T17:42:00Z
@@ -523,22 +539,6 @@ related:
       - url: "https://static.independent.co.uk/2022/06/12/17/GettyImages-1149282229.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 800
-        isCached: true
-  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
-    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
-    publishedDateTime: 2022-06-14T15:20:00Z
-    webUrl: "https://abc30.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    ampWebUrl: "https://abc30.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    type: article
-    provider:
-      name: ABC30 Action News
-      domain: abc30.com
-    quality: 42
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Google sidelines engineer who claims its AI is sentient"
     excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company’s most advanced technology."

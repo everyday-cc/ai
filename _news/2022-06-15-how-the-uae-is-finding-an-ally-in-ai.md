@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is depicting the cattle industry"
+    excerpt: "A new tool has emerged online, which uses artificial intelligence to generate a sketch of subjects based on a phrase typed into a search bar. Beef Central type in some cattle industry terms...Read Mor"
+    publishedDateTime: 2022-06-17T05:37:00Z
+    webUrl: "https://www.beefcentral.com/news/how-artificial-intelligence-is-depicting-the-cattle-industry/"
+    type: article
+    provider:
+      name: Beef Central
+      domain: beefcentral.com
+    quality: 37
+    images:
+      - url: "https://www.beefcentral.com/wp-content/uploads/2022/06/284428487_520028919912602_2485964002429262581_n.jpg"
+        width: 879
+        height: 579
+        isCached: true
   - title: "UAE to deploy artificial intelligence to improve weather forecasts, assist in cloud seeding"
     excerpt: "An AI framework will be built to combine satellite observations, ground-based weather radar data, rain gauges, and numerical weather prediction estimates to determine optimal cloud seeding timings and locations UAE to deploy artificial intelligence to improve weather forecasts,"
     publishedDateTime: 2022-06-16T13:37:00Z

@@ -32,6 +32,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "How artificial intelligence is depicting the cattle industry"
+    excerpt: "A new tool has emerged online, which uses artificial intelligence to generate a sketch of subjects based on a phrase typed into a search bar. Beef Central type in some cattle industry terms...Read Mor"
+    publishedDateTime: 2022-06-17T05:37:00Z
+    webUrl: "https://www.beefcentral.com/news/how-artificial-intelligence-is-depicting-the-cattle-industry/"
+    type: article
+    provider:
+      name: Beef Central
+      domain: beefcentral.com
+    quality: 37
+    images:
+      - url: "https://www.beefcentral.com/wp-content/uploads/2022/06/284428487_520028919912602_2485964002429262581_n.jpg"
+        width: 879
+        height: 579
+        isCached: true
 
 secured: "aYmnPa0bbqpmp78ZQflE5K4RQatpDx+tisrzjn1+d75yDlJhEyoRWP0XEgtEmh++5hwdEGkwlt7D/jGo2UAG67JfXX6WKKtVlGC99BUV4FyXbmUP6TFRSuCvTN1CR6j1pN5jgPu20l6uwUmnr2OaKLQfUqhthbYyOdAXrH7OCfZMr3rAR8UL2QzaqrAoUULtm24ec2fAx5hoyPRenCx34wRKKmLTB+RxMgphAW7s1bY8O5yBP6EaUBPGOfICdh3SJ5eJINTpcoy8i50SXpyCOlvgCcivoP/5/5RtEjpkN0hp1L+GdqESzyuMqdY2AST/l/W8QxtE9lf45s8UhuaY+Zh3//WmgbalLVeAAqpn61lmKRcf/JFpBqRZfAVbHYiZVooAjnohmOtVydsgHKlNkTpymacjZr+Y0c3HK7Z5NLZXwnIZei9mj2LcSQ4BHduRVOo6H0HhOoewKyRJu7HRSiaw3640pn6k/Okm+Gp67Vt+8+vH4l9ok+/ou7OeIu0K3RWrDJPybln3jw/tMKaB6w==;xKzSderJz0ierveORGld5Q=="
 ---

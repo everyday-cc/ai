@@ -8,9 +8,9 @@ webUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-inte
 ampWebUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: The Sun
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.thesun.co.uk/wp-content/uploads/2022/06/RL-offplat-brain-power.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"

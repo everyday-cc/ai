@@ -3,20 +3,21 @@ category: news
 title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
 excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
 publishedDateTime: 2022-06-14T15:20:00Z
-originalUrl: "https://abc30.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-webUrl: "https://abc30.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-ampWebUrl: "https://abc30.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+originalUrl: "https://abc7.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+webUrl: "https://abc7.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+ampWebUrl: "https://abc7.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ABC30 Action News
-  domain: abc30.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -842,6 +843,6 @@ related:
       domain: forbesindia.com
     quality: 10
 
-secured: "pRrBojrhauJ2tSsEdgGQEl4+oOT4LaRjsJylh0VuOEFZ6wYBomaC36xHEkLBkHom29Au4e3HnaPGM5EJHtM9SMeCBE6hk0IcqXr/cXC1bAehg9r0rxeSKGswP5xVVtHwTqlllvk3r1GjCJmC2ZfSTi0qgjiYo4jsunLoP495EVACuarJe3t+mJ+a6h1eBueySt65AjurfVCciLAk8nCX1Z/SvjoDrGDM/NjA2VSI7k61KQzK/XcRaq3hjkyLKjlMUMPsqOTJOCHoOJ6TWS/5cWZZ2LUP3SRb51KSQfGPTbUtTTTJQEZO/ApgE46PhwwCsGO4z2AI2ubJ2jYp99JIA9NOn8epBP5R/RXZIzthibc=;jd2TJGhLjB0xovTehQi5VQ=="
+secured: "LS80/TUNtJlRs4+npDDmHyGmosXnqlkkxdG9T3d1FCYc/TzCvmvz72vMCDd3EblK5Q0l5PfILznDP0nMiN3Hm8w/mIJ/Q0/vmq79NBQPFEtzsdzmuHbnv6npsqkPPz5EDF9klr2X/rSakQt+BMpU5YtftRVUp+VtfZEYsAU1iTQhHkFlaXGGgZODFSgUKB08hwQRQGa0DJW6u7/d/hYa18Iar5P3hVco5ewNxXZD6a14hmvT1yop8JrKbHTSgqnSHIlyaRAjtvA97bRCcK5jOW1nkLqkNUh7xJilS2dfKucZ9tPk3v0JBJ+KadrPC0tJPm7SgM9rDyvMH3fEZLEQ2a/gE9xYb6/U3t2o3G1ZaXo=;c/9COoHf+yPqVgw5eGJctQ=="
 ---
 

@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "We asked an AI to draw its favorite food. The results were bleak"
-    excerpt: "There's a certain spartan logic to it that would appeal to a robot, which is why when I tasked an AI with drawing its favorite meal, I suppose I expected it to render a bowl of gruel (or perhaps a tasty-looking plate of wires?"
-    publishedDateTime: 2022-06-14T18:05:00Z
-    webUrl: "https://www.salon.com/2022/06/14/we-asked-an-ai-to-draw-its-favorite-food-the-results-were-bleak/"
+  - title: "Massachusetts Institute of Technology: Student-powered machine learning"
+    excerpt: "From their early days at MIT, and even before, Emma Liu '22, MNG '22, Yo-whan “John” Kim '22, MNG '22, and Clemente Ocejo '21, MNG '22 knew they wanted to perform computational research and explore artificial intelligence and machine learning."
+    publishedDateTime: 2022-06-13T01:50:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 37
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 61
     images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/06/pixel-chicken-0614221.jpg"
-        width: 1200
-        height: 800
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "ZtqWTuHiHQZfAC6qJMX9tOXK1QJBKPsC4dKzJOA8WFjDZyLnhOyQoklTzUP8cCB/iYNeG9+Q7QVGoFmBrfrqlNbq1Xr/04h9G6J3esiWsSJtizIY1TjhCvJsEX23x4ZHNrWoCRvTY6zHibNGkLLvgiiA82t0kx5dJChE9fhUfpVvcq+/cgltj84HdAhQox5+WnDu/D0wVR09QF60Cn5ybB9S5opOiQ9r8Tb3YcfQizD/yMkGiC7udYalPLpV8JDjpcCEUaHaijCYyqEESljWxzvKi4rTkt/IWimYD+dK8f7Sx8uYVBCmNajfXrGtOvo+EuQ7JbLDDfKpRSONu4R/ZVIEd+LtBH6DavWUYSHPkx1wOSoC3etnEAnb2VXYM6Ydg2LvNbVVoeYG4oolWRg8vo+b1QS5ATO+XMRDw8MtpF21wLSTpMVwKaR5IDm2mP1G4a6kI5N/kiY1dfRJp52944YNhX4+0YxZ/UHKVnQXKgoSmxXKs9mgMRXckBAxILEmY8c2NNjnRsUQq+dYKHAtUQ==;8dWEcKkXImzaaiAoJLQCzQ=="

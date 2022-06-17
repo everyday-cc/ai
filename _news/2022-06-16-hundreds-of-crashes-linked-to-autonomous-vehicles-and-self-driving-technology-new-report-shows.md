@@ -2,26 +2,26 @@
 category: news
 title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
 excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-publishedDateTime: 2022-06-15T20:22:00Z
-originalUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-webUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-ampWebUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+publishedDateTime: 2022-06-15T17:22:00Z
+originalUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+webUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+ampWebUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+cdnAmpWebUrl: "https://www-actionnewsjax-com.cdn.ampproject.org/c/s/www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: KIRO-TV
-  domain: kiro7.com
+  name: Action News Jax
+  domain: actionnewsjax.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+  - url: "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -72,6 +72,6 @@ related:
         height: 641
         isCached: true
 
-secured: "SxpIgoVvEgKQZAv40vss/e2xxhsKxXnQ02r2L01cXGhJoYpz9e01ENwM8xs0ljEt/GE6acdCVhftHho2ae6KYTjWrwC4Cn5Jlv43p0+7vg2CBJ1YpGZngmEaB63VzALcM5yJ9TTbv0aEMOmvflv0KS0VFteGKD7VSBw5v3iWgyNTyhaLo86k0hifrD5GCFr7WWnnLsOqkkFueVNcxVfRi5GhOhyR3qBJZdwSdN4EUpTjiH2k7H0inLxWWIMeqVwRfs7gRf4CjAMLCXzhqgUTl7r3atbHz1nr2XTkKwOhJbVrwWTaxUpRmhGnAIrD9wT31b0GQFU1AzWG9oI0JbM1YVRYaFLCALs7iHssMkGUpBbNxcgEj+eEArtdOmizfwK3rDzRtdVhHPZQBrET9vt8z0qsRKjO/ZZ6/+qBW1d+FAp++pr4CLzcuTTTGgr2AldV1SABNiX+mn32HHyFd3MtewOYlzeeTpSgAHbYBa9A9IFR92anWx/SbsAuym8n45sJmx4g5GRdxhC4723gZVXdfg==;7KVf6z121kaCEtn8m5p+dQ=="
+secured: "XQliUQxI/QJkjxc3PZfQZKFHTyctntKsgIRUUXx9nyo6rgK/PELHSLRizAGEduCZnLnGMwrDZPJvk+8+Qf0MqYDxOeVL+dOYBYxHV3rfr4HjiWHpZuE/AbDOqZYlWYpnXZhaK+66hf881lyWCBMYcMi+v24VpsPX/07r5sp3EA3CObODfiqCApKblrzBKtvrx3mjhPmsBJQ5LnhnIT9H9b+Zh2pWxJkJRvYB4DQ1DSVX7I1x2Mb7KW9iti/0ddnPMk3eiFDEX2/zsIsHFCKTbnWYf474rjyCPlFGoHy/U0CXe4LER0IkJGwZdktw+iVDsuLzkShlokkHNoozJ0a2RJwGGKtjMX7Fk+U6+bgMv8g=;0hu52kLFqW1gWWUPjpndWg=="
 ---
 

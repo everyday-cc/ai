@@ -37,7 +37,7 @@ related:
     provider:
       name: The Sun
       domain: thesun.co.uk
-    quality: 54
+    quality: 71
     images:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2022/06/RL-offplat-brain-power.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920

@@ -163,6 +163,20 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "The Power of AI in Machine Vision"
+    excerpt: "onsemi provides a custom mobile app available on Android and iOS (Fig. 3). This allows for the use of Amazon Rekognition via a connected smartphone and a valid AWS account. Once the AWS account is ..."
+    publishedDateTime: 2022-06-14T14:59:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21244247/onsemi-the-power-of-ai-in-machine-vision"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/IoT_retail_Ekkasit919_dreamstime_l_107745072.62a89fd5dcef2.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Brings Voice Controls to Windows 11"
     excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
     publishedDateTime: 2022-06-14T13:38:00Z
