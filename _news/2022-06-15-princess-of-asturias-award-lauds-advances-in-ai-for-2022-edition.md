@@ -21,20 +21,20 @@ topics:
 
 related:
   - title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-    excerpt: "A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias Award"
-    publishedDateTime: 2022-06-15T16:03:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
+    excerpt: "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,"
+    publishedDateTime: 2022-06-15T12:08:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
-        width: 512
-        height: 512
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Four AI Pioneers Win Top Spanish Science Prize"
     excerpt: "Four scientists, including two Britons, considered pioneers in the field of artificial intelligence were awarded Wednesday Spain's prestigious Princess of Asturias prize for scientific research."

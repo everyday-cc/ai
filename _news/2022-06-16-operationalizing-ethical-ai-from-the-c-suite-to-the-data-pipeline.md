@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/"
 type: article
 quality: 104
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics And The Generational Transition From Digital Natives To AI Natives Growing Up Amidst Pervasive AI, Including Ubiquitous Self-Driving Cars"
-    excerpt: "Some predict that we will gradually shift from digital natives to AI natives, doing so in an upcoming generation. This has significant societal impacts. We examine this and look at self-driving cars and how AI natives dovetail into the matter."
-    publishedDateTime: 2022-06-12T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/12/ai-ethics-and-the-generational-transition-from-digital-natives-to-ai-natives-growing-up-amidst-pervasive-ai-including-ubiquitous-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//629be2d0fe2639bdcecbc764/0x0.jpg?format=jpg&crop=1396,931,x252,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Open Banking Fintech Bud Secures $80M to Scale Lending, Personalization AI"
     excerpt: "Bud, an Open Banking Fintech firm established in 2015, recently completed its Series B investment round totaling $80 million."
     publishedDateTime: 2022-06-13T01:00:00Z

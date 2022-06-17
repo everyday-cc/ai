@@ -1,29 +1,28 @@
 ---
 category: news
 title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-excerpt: "A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias Award"
-publishedDateTime: 2022-06-15T16:03:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
-webUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
+excerpt: "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,"
+publishedDateTime: 2022-06-15T12:08:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+webUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
 type: article
-quality: 59
-heat: 79
+quality: 57
+heat: 77
 published: true
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
-    width: 512
-    height: 512
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -46,6 +45,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "ssTlno6wnr+4Cnki08HPwcTru6B4eT1ZdwSi/OzmNFaNZ6QS2vzVyMn4mcxLkaep8JzDRn2bj0a65F91bdEiIheKS5JGEOSPSwdJ6Sbydf0dvOyr7I2WN7twdxcbKkmfJBHvuHw87veC0tpS98RaJLs2gM2ra8V4pOLvZj9rHjlVzmlZffjFQu9iRhO0w3oGKSbGX7A1lKC09ZFAHBWOt8CZoPgTD/vATdJUYOCG5Aul6zivBwXX8SU7L02U+S7VizH32Mfuh9cXPsBiRNOHxro9zHiolVMcXRe8kuTJiGwNh7pC4AToZygzn3qXT0UzvTxalZ/M9XwlNRGi+oP/1FzyVk5TlsevlgzeLqiHISrPzqCelfhzwx632jp+gXBO+UkyBO/Z+IEThXS+BDIL/jcY8yCpBYCkY0gUkAFcj/R0uI2alrJ6ddwmjZkbJJ24tQUDaccRhC1fZdNVVwlDdezt1b0b4BX0tKwfhM+WA0PfhSBtF7qtJA91OhYU/9EZPykRuGqbPJrLVosNO5YVZA==;lUTH5U+YGf+OOTDRO6dWYg=="
+secured: "Le5HNGzJ6NiLONO1uFFJB1GpLqQ9SnAbFtK1k6TZn0FecvENupDV1klKSwDnyQIyBy3R543UXnScXORKJRaflqIg+yYe1AaiXs+DBFychsphejUbgZmCmUEjO2ZK83JpYHK8Hv18xMsFD1wouqSLb0UJRVxigN9FO+aFOf+mU2bMHlTiKXHQeimT+Cic1hBDrpw7u11rgeoe9PKddjp+w/yLhi9aAYMXI3jUE479T7ftASDb3EduT7cRqEFjE+XAMgoqyZ2CR4QyFlkB5XV6EWXe+AAhasspQJXis/uUpZ/fIJnexZppyN4u85YXJhX0LHuLA2RWhDSIml3eMx+dQ5UnxEkvnvAHyXNr7/OgW/0=;rsrHyWRw6OWY9/8q2Ezg3g=="
 ---
 

@@ -710,20 +710,6 @@ related:
       name: Alaska Dispatch News
       domain: adn.com
     quality: 23
-  - title: "Suspended engineer claims Google’s AI has taken on life form, acts like a ‘narcissistic’ 7 or 8-year-old"
-    excerpt: "A Google engineer reportedly claims that the company’s artificial intelligence tool is capable of independent thoughts or feelings. The engineer, Blake Lemoine, wrote on Medium about a week ago that Google has put him on paid administrative leave in the context of AI ethics concerns that he was raising internally in relation to alleged violations of Google’s confidentiality policies."
-    publishedDateTime: 2022-06-12T14:27:00Z
-    webUrl: "https://www.bizpacreview.com/2022/06/12/suspended-engineer-claims-googles-ai-has-taken-on-life-form-acts-like-a-narcissistic-7-or-8-year-old-1249214/"
-    type: article
-    provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 22
-    images:
-      - url: "https://www.bizpacreview.com/wp-content/uploads/2022/06/GettyImages-1144000033b.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google engineer claims AI system has developed feelings"
     excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
     publishedDateTime: 2022-06-14T13:41:00Z

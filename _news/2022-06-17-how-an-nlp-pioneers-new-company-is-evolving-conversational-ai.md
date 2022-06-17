@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "I, Chatbot: The perception of consciousness in conversational AI"
+    excerpt: "Without sufficient scrutiny and knowledge of AI, it's possible for even an expert to be uncertain as to why a machine responds as it does."
+    publishedDateTime: 2022-06-16T23:07:00Z
+    webUrl: "https://venturebeat.com/2022/06/16/i-chatbot-the-perception-of-consciousness-in-conversational-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/06/16/i-chatbot-the-perception-of-consciousness-in-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/i-chatbot-the-perception-of-consciousness-in-conversational-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-593338488-Just_Super.jpg?w=1200&strip=all"
+        width: 1200
+        height: 634
+        isCached: true
   - title: "Google Engineer Claims Company's AI Has Achieved Sentience, Company Is Glossing Over the Truth"
     excerpt: "An engineer Google has sidelined has a warning about the tech giant's Artificial Intelligence project. The company is downplaying it."
     publishedDateTime: 2022-06-13T15:55:00Z

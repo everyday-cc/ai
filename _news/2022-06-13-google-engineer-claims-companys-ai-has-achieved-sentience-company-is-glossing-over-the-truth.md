@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "I, Chatbot: The perception of consciousness in conversational AI"
+    excerpt: "Without sufficient scrutiny and knowledge of AI, it's possible for even an expert to be uncertain as to why a machine responds as it does."
+    publishedDateTime: 2022-06-16T23:07:00Z
+    webUrl: "https://venturebeat.com/2022/06/16/i-chatbot-the-perception-of-consciousness-in-conversational-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/06/16/i-chatbot-the-perception-of-consciousness-in-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/i-chatbot-the-perception-of-consciousness-in-conversational-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-593338488-Just_Super.jpg?w=1200&strip=all"
+        width: 1200
+        height: 634
+        isCached: true
 
 secured: "TIl4KacGA9kjQq8QhF10cKiqmgGQgI0n/o/D99mHrExOA3EykHgSnokxSb0nkMGPoo42L+iz6o0FcZM1WnrdHFdZStMyJobmhAvwAR4SzN7aP/GrM3fWp9DG32kVHNfPvNIj4TDjyqPu1sceGXTt3pK4ffqbO6eClVMkst8DQ59Ckd3PY0eHhbiHOm5P0ApXWErl87M63P0A5Kf4CM1+HfVJBBRctilgoMYvwm815aDH+Q24KlWwwHIHQvfj+zbpGE1qTn1hT3E8DXi6UEo++Ezep75uoPK0s9fJQpdTpASYCv7Zq51YeSSxGPWhxnQzSVI3jO3p49CkpDrEBxKn2vzxP2Ku9SBDTWFc0gsxQfO65dwB/PbgFQgi+iJuNcplSP5Xu/W+qd017EOowzOcdkFgwDqF/URDp10XpowSj9udVJJTFQrx1I6MqZMka9/lXE6d5gH3vkV+KbcdraeVh0LWL4OqlO7ZnymrP97vel2nVBivR3gqeyG+7+t7Eq91CxlK7O4i5k2XImb5eUggqQ==;ZkS2IVNstToYVV2qo8mAdg=="
 ---

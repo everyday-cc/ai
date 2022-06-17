@@ -232,15 +232,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "Google engineer put on leave claims AI bot LaMDA became ‘sentient’"
-    excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, told the Washington Post that he began chatting with the interface LaMDA — Language Model for Dialogue Applications — in fall 2021"
-    publishedDateTime: 2022-06-12T13:43:00Z
-    webUrl: "https://nypost.com/2022/06/12/google-engineer-blake-lemoine-claims-ai-bot-became-sentient/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 17
   - title: "Google engineer thinks AI bot has become sentient"
     excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."
     publishedDateTime: 2022-06-12T19:55:00Z

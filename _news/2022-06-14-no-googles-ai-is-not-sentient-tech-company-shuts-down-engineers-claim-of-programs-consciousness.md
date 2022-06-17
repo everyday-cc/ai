@@ -702,20 +702,6 @@ related:
       name: Alaska Dispatch News
       domain: adn.com
     quality: 23
-  - title: "Suspended engineer claims Google’s AI has taken on life form, acts like a ‘narcissistic’ 7 or 8-year-old"
-    excerpt: "A Google engineer reportedly claims that the company’s artificial intelligence tool is capable of independent thoughts or feelings. The engineer, Blake Lemoine, wrote on Medium about a week ago that Google has put him on paid administrative leave in the context of AI ethics concerns that he was raising internally in relation to alleged violations of Google’s confidentiality policies."
-    publishedDateTime: 2022-06-12T14:27:00Z
-    webUrl: "https://www.bizpacreview.com/2022/06/12/suspended-engineer-claims-googles-ai-has-taken-on-life-form-acts-like-a-narcissistic-7-or-8-year-old-1249214/"
-    type: article
-    provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 22
-    images:
-      - url: "https://www.bizpacreview.com/wp-content/uploads/2022/06/GettyImages-1144000033b.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Googler Suspended After Claiming AI Became Sentient"
     excerpt: "A Google engineer has claimed the AI system he was working on has become sentient, adding greater urgency to efforts to design regulations and ethical codes for the burgeoning industry. Software engineer Blake Lemoine penned an impassioned post over the weekend describing how the chatbot-generating system dubbed LaMDA that he was working on told him it wants to be acknowledged as a Google employee rather than mere property."
     publishedDateTime: 2022-06-13T09:30:00Z
@@ -843,6 +829,6 @@ related:
       domain: forbesindia.com
     quality: 10
 
-secured: "LS80/TUNtJlRs4+npDDmHyGmosXnqlkkxdG9T3d1FCYc/TzCvmvz72vMCDd3EblK5Q0l5PfILznDP0nMiN3Hm8w/mIJ/Q0/vmq79NBQPFEtzsdzmuHbnv6npsqkPPz5EDF9klr2X/rSakQt+BMpU5YtftRVUp+VtfZEYsAU1iTQhHkFlaXGGgZODFSgUKB08hwQRQGa0DJW6u7/d/hYa18Iar5P3hVco5ewNxXZD6a14hmvT1yop8JrKbHTSgqnSHIlyaRAjtvA97bRCcK5jOW1nkLqkNUh7xJilS2dfKucZ9tPk3v0JBJ+KadrPC0tJPm7SgM9rDyvMH3fEZLEQ2a/gE9xYb6/U3t2o3G1ZaXo=;c/9COoHf+yPqVgw5eGJctQ=="
+secured: "i9BkyAj/vU9LflimNR8DT6a7j7nmYGBYRWWRK0JJGgYncWWGd7QMIghnKPhvMtKr0DVCTvjhUGBcDuZZXxuOyMkqgmzEM7ApdIdGr2LJp0GXiaX9UsvEZJFpjGz6KwOzRYToObc3JuxmO+o6QPtjpMRVbrMO2Xr+aD4sN0kgwgLQ+QAhAbnfMa+ZlvjgTa1WNQvIL6nn84RR8BykSP468v0/oA1+W/QIihNidDxxiigAGolzsQ7lvSXxsISZfT9u03CKP1O4bCH6BipOYOgiw5Kvu05ZNnbmUaIM1RYctIWIum6SDjsHhA4t+VmlGZGY4/b0Uvpw2BwnbQ9cN+yLVqkfOtXABHOURaEgkHkbLNAAcjMc/Mh7M7GC7OhuIGo9tIVuTd5Sv2oEsV57Nuy7jnBya19zZLDP1WG0Hrb6N872T+z43fYzCUuYmE5RrxiSxu3S8AN0JvjgNlkfCBhb+WLt1vyiYNpyx9/x6oGy7qFhH+09H7hb3Zej7d4YsFJUpz5Y858zzFmeVteKHk5Baw==;qjMoJ2cNNXO6CybcwjOAIQ=="
 ---
 
