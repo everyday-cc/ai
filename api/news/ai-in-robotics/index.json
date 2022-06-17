@@ -2,6 +2,84 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-17-horizon-robotics-releases-robot-development-platform.md",
+      "title": "Horizon Robotics releases robot development platform",
+      "excerpt": "The Horizon Hobot Platform consists of the company's Sunrise chip, the TogetherROS operating system, Boxs reference algorithm, robot application examples and supporting development tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
+      "originalUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-horizon-robotics.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-robot-sales-in-north-america-see-their-best-q1-ever.md",
+      "title": "Robot Sales in North America See Their Best Q1 Ever",
+      "excerpt": "R ising consumer prices amid rampant global inflation apparently didn't stop spending on robotics in North America. Sales were up 28% compared to the same quarter a year ago. Addi",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
+      "originalUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
+      "publishedDateTime": "2022-06-16T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-singapore-robotics-startup-raises-s42m-from-investors-including-fn-razer.md",
       "title": "Singapore robotics startup raises S$4.2m from investors including F&N, Razer",
       "excerpt": "Ross Digital, a robotics and automation company, announced on Thursday (Jun 16) that it has raised S$4.2 million in its Series A+ funding round, led by food and beverage company Fraser and Neave (F&N).",
@@ -44,7 +122,7 @@
       "originalUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -424,7 +502,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -835,22 +913,13 @@
       "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
       "excerpt": "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1181,93 +1250,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
-      "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
-      "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "originalUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2022/05/bengaluru-airport.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "publishedDateTime": "2022-06-07T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
-      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
-      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -43,20 +43,6 @@ related:
         width: 980
         height: 625
         isCached: true
-  - title: "LG Energy Solution Sets Up Special Advisory Council of Global Artificial Intelligence Experts"
-    excerpt: "New council established to drive company’s digital innovation and promote manufacturing intelligence Five global AI experts specializing in various crucial sectors assigned to spearhead key technological tasks SEOUL,"
-    publishedDateTime: 2022-06-12T00:00:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-3fb8a99f9302d79201d98c635f5eb417"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
     excerpt: "Given that Cadence Cerebrus employs artificial intelligence (AI) technology to automate and scale digital chip design, it offers customers the compelling value proposition of optimized power, performance and area (PPA) and improved engineering productivity."
     publishedDateTime: 2022-06-12T21:11:00Z

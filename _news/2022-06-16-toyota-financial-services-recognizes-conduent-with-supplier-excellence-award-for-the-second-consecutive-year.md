@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T12:47:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-conduent-inc-financial-services-979049c05e796cf8c546d942c6a37063"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-conduent-inc-financial-services-979049c05e796cf8c546d942c6a37063"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

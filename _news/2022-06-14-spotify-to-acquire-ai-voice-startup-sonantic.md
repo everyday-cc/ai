@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 1000
         height: 400
         isCached: true
+  - title: "Veritone Acquires Artificial Intelligence Voice Creator VocaliD"
+    excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive enterprise AI platform, today announced the acquisition of VocaliD, Inc., a U.S.-based company that pioneered the creation of personalized synthetic voices."
+    publishedDateTime: 2022-06-16T11:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-f4e631ab3e5f422696e13113875bb0b8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "dm6+8JbtWBX+9rDZA+fkNDIiX3R8YAW6sdD/1rgpEPV3IYMDxIRW0PoPLLTBZRtqjeu4np2i19vi6D4TfTzMCWAdv61ibPZpw4VONSpXfNe8Awziy7ps5X2F4LlUdO2zWc2OfhBN/rwOoK8zCR2hcXRBT3n6/LCCKEojM+TOv+n8BIZperN7UeBXS7jK3bpVIi6M4JwZgXm6HK87RlKwm/gRaIYNP8/eGJy6lO/pNDaffzb4Pa8RYsWbmOzRzbMXbbzEZIJ8VInhTJPm8AVxXaRI542spK14XYvSa4q14Qq4E5ftc1nd4/l86mGEAUGTfS9GAznRu/fSCgevBVP7LufZSAhT4tayFyP+6RLrxmg=;WnDA0EaN00HdmCBqBpcaNg=="
 ---

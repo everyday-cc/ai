@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:

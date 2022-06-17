@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T13:00:00Z
 originalUrl: "https://www.eastoregonian.com/news/local/umatilla-high-school-students-build-off-road-wheelchair-for-young-boy/article_90b535be-ecc2-11ec-94d2-2fe054218efc.html"
 webUrl: "https://www.eastoregonian.com/news/local/umatilla-high-school-students-build-off-road-wheelchair-for-young-boy/article_90b535be-ecc2-11ec-94d2-2fe054218efc.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: East Oregonian

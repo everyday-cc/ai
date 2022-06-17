@@ -2,6 +2,426 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-14-pharmas-blind-spot-successfully-using-ai-to-drive-drug-development.md",
+      "title": "Pharma’s Blind Spot: Successfully Using AI To Drive Drug Development",
+      "excerpt": "Ultimately, we have to remember that AI in drug development isn't about profitability—it’s about the patient. So, make sure your AI doesn’t have any blind spots when you put it in the front seat driving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a73a5af4080243164331d7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/amp/",
+      "publishedDateTime": "2022-06-14T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-facial-recognition-system-launched-at-kazakhstans-airports-religious-institutions.md",
+      "title": "Facial recognition system launched at Kazakhstan’s airports, religious institutions",
+      "excerpt": "NUR-SULTAN. KAZINFORM A facial recognition system has been launched at the airports, religious institutions and in underground walkways of Nur-Sultan city, Kazinform has learned at a briefing of the Operational Control Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198",
+      "originalUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inform.kz/thumbs3/radmin_news_2022_06_14_220614122033246e_w320_h240.jpg",
+          "width": 320,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198/amp",
+      "cdnAmpWebUrl": "https://www-inform-kz.cdn.ampproject.org/c/s/www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198/amp",
+      "publishedDateTime": "2022-06-14T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kazinform",
+        "domain": "inform.kz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-former-amazon-robotics-vp-brad-porter-goes-collaborative.md",
+      "title": "Former Amazon Robotics VP Brad Porter goes Collaborative",
+      "excerpt": "Collaborative Robotics aims to build a six-degree-of-freedom robotic art that’s collaborative, works with humans and can meet a wide variety of use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
+      "originalUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1273582733.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
+      "publishedDateTime": "2022-06-14T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-chima-opara-weighs-in-on-ai-bias-cyber-security.md",
+      "title": "Chima Opara weighs in on AI Bias, Cyber Security",
+      "excerpt": "In the end, two words remain on the lips of many — artificial intelligence (AI) and machine learning (mL) Long before now, those terms were used solely by professionals in the tech community, but with the proliferation and commercialisation of technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/",
+      "originalUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/BlacB.jpg",
+          "width": 1439,
+          "height": 1814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/",
+      "publishedDateTime": "2022-06-13T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-artificial-intelligence-tech-stock-symbol-aitx.md",
+      "title": "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX",
+      "excerpt": "AITX SCOT. AITX AVA. AITX Collage. AITX Showcase. AITX ROAMEO. Largest Order for AI Robotics Leader in its Short Amazing History thus far; $AITX Receives a",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
+      "originalUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/14/EP_1bc51image_story.jpeg",
+          "width": 893,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-smart-robot-helps-with-congestion-at-narita-airport.md",
+      "title": "Smart robot helps with congestion at Narita Airport",
+      "excerpt": "A robot equipped with artificial intelligence has been put to work to help sort out congestion problems at Narita International Airport near Tokyo.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220614_19_1126159_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220614_19/amp.html",
+      "publishedDateTime": "2022-06-13T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-google-engineer-says-ai-chatbot-has-developed-feelings-gets-suspended.md",
+      "title": "Google engineer says AI chatbot has developed feelings, gets suspended",
+      "excerpt": "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-lamda-3176080/",
+      "originalUrl": "https://www.androidauthority.com/google-lamda-3176080/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg",
+          "width": 1920,
+          "height": 1081,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-spotify-to-acquire-ai-voice-startup-sonantic.md",
+      "title": "Spotify to Acquire AI Voice Startup Sonantic",
+      "excerpt": "Spotify said on Monday it will acquire Sonantic, a tech company that specializes in creating hyperrealistic artificial voices. In a blog post announcing the acquisition, Spotify s",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/",
+      "originalUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/GettyImages-1013933284-H-2022.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
+      "publishedDateTime": "2022-06-13T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum.md",
+      "title": "Daily Crunch: AI voice platform used in ‘Top Gun: Maverick’ sells to Spotify for undisclosed sum",
+      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/",
+      "originalUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/03/top-gun-2-val-kilmer-tom-cruise.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/amp/",
+      "publishedDateTime": "2022-06-13T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-inrule-adds-automl-capabilities-to-its-ml-modeling-engine.md",
       "title": "InRule adds AutoML capabilities to its ML modeling engine",
       "excerpt": "InRule says that incorporating ML automation into its no-code decision platform enables enterprises to scale ML faster and more effectively.",
@@ -10,7 +430,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -62,7 +482,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -410,51 +830,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-13-new-hardware-architecture-provides-an-edge-in-ai-computation.md",
-      "title": "New hardware architecture provides an edge in AI computation",
-      "excerpt": "As applications of artificial intelligence spread, more computation has to occur—and more efficiently with lower energy consumption—on local devices instead of in geographically distant data centers in order to overcome frustrating delays in response.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-hardware-architect.jpg",
-          "width": 544,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-hardware-architecture-edge-ai.amp",
-      "publishedDateTime": "2022-06-13T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-06-13-sentient-artificial-intelligence-have-we-reached-peak-ai-hype.md",
       "title": "“Sentient” artificial intelligence: Have we reached peak AI hype?",
       "excerpt": "AI experts wonder whether discussing whether LaMDA should be treated as a Google employee means we have reached “peak AI hype.”",
@@ -463,7 +838,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 298,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -506,59 +881,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-global-deep-learning-chipset-market-2022-industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028.md",
-      "title": "Global Deep Learning Chipset Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028",
-      "excerpt": "Jun 13, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has managed a study on Global Deep Learning Chipset Market for the forecast period of 2022 to 2028. This report also assists the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -667,7 +989,7 @@
       "originalUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -709,7 +1031,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -806,7 +1128,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -859,7 +1181,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -883,336 +1205,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-us-court-will-soon-rule-if-ai-can-legally-be-an-inventor.md",
-      "title": "U.S. court will soon rule if AI can legally be an ‘inventor’",
-      "excerpt": "Can artificial intelligence (AI) be legally listed as an inventor? After all, if AI can legally invent products, the number of patents on drug-discovery tools will shoot up fast. The issue is currently before a United States court.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/",
-      "originalUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-and-patent-law-fade-60.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/u-s-courts-will-soon-rule-if-ai-can-legally-be-an-inventor/amp/",
-      "publishedDateTime": "2022-06-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-robotics.md",
-      "title": "Akamai Awards $1M in Products and Services to Future of Life Online Challenge Winner Bloomfield Robotics",
-      "excerpt": "Plant sciences artificial intelligence startup sets sights on solving global food production challenges by scaling agtech platform with Akamai edge computing and security capabilities CAMBRIDGE, Mass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27666376/akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-rob",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27666376/akamai-awards-1m-in-products-and-services-to-future-of-life-online-challenge-winner-bloomfield-rob",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1836533/Akamai_Technologies_Bloomfield_Robotics_camera_system.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27666376",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27666376",
-      "publishedDateTime": "2022-06-13T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-how-important-is-ethics-in-artificial-intelligence.md",
-      "title": "How important is ethics in artificial intelligence?",
-      "excerpt": "Artificial intelligence can assist a workforce by simplifying and automating manual tasks, but it needs to be fair and ethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/6GxRKqYQDGkqb3Wj",
-      "originalUrl": "https://www.itweb.co.za/content/6GxRKqYQDGkqb3Wj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/03PcCfu86IIDErXtgvCAJqH960Ex7PoXj8kUD-mFGxuuqNtVVBiQ5pM-bLmSKphWBr47elyT-eDnVSO5tF4zyA=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKqYQDGkqb3Wj",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKqYQDGkqb3Wj",
-      "publishedDateTime": "2022-06-13T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-what-are-the-most-in-demand-ai-skills.md",
-      "title": "What Are The Most In-Demand AI Skills?",
-      "excerpt": "Artificial Intelligence (AI) is about teaching machines to learn and make decisions that can benefit organizations or society as a whole. But being able to deploy and implement it is dependent on an array of human skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a6d92d400b6f084b876076/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/amp/",
-      "publishedDateTime": "2022-06-12T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-ai-experts-to-advise-lg-energy-solution-on-digital-transformation.md",
-      "title": "AI experts to advise LG Energy Solution on digital transformation",
-      "excerpt": "A Seoul National University (SNU) professor specializing in artificial intelligence (AI) technology was appointed to lead LG Energy Solution's (LGES) advisory council on AI, according to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2022/06/133_330902.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202206/44af7df6e76c41f186d4eb377bb89f44.jpg",
-          "width": 980,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=330902",
-      "publishedDateTime": "2022-06-12T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-synthetic-data-is-about-to-transform-artificial-intelligence.md",
-      "title": "Synthetic Data Is About To Transform Artificial Intelligence",
-      "excerpt": "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-12T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "Natural Language Processing",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-your-health-artificial-intelligence-for-surgery-training.md",
-      "title": "Your Health: Artificial intelligence for surgery training",
-      "excerpt": "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose disease in early stages. Now it’s newest use can give patients more control over",
-      "sourceUrl": null,
-      "webUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/",
-      "originalUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yourerie.com/wp-content/uploads/sites/27/2022/06/Your-Health-Artificial-intelligence-for-surgery-training.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/",
-      "cdnAmpWebUrl": "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-for-surgery-training/amp/",
-      "publishedDateTime": "2022-06-12T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "yourerie",
-        "domain": "yourerie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

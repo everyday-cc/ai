@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T11:31:00Z
 originalUrl: "https://www.politico.eu/newsletter/digital-bridge/frances-haugens-next-move-federal-privacy-dance-transatlantic-ai/"
 webUrl: "https://www.politico.eu/newsletter/digital-bridge/frances-haugens-next-move-federal-privacy-dance-transatlantic-ai/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: POLITICO

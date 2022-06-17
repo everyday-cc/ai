@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Researchers use artificial intelligence to identify long COVID cases"
+    excerpt: "Marketplace’s Meghan McCarty Carino speaks with Emily Pfaff, an assistant professor of medicine at the University of North Carolina at Chapel Hill who uses artificial intelligence to analyze electronic health records, looking for patterns that might ..."
+    publishedDateTime: 2022-06-16T02:41:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 57
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2022/06/GettyImages-1212007685-e1655171450331.jpg?fit=740%2C494"
+        width: 740
+        height: 416
+        isCached: true
   - title: "Zero-COVID and Free Speech"
     excerpt: "Zero-COVID is possible, but few of us in the West are willing to pay the costs; the exact same reasoning applies to free speech; in both cases China-lite is the worst possible strategy."
     publishedDateTime: 2022-06-13T09:39:00Z

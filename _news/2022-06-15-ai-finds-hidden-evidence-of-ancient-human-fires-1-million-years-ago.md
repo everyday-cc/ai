@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidenc
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 800
         isCached: true
 
-secured: "7PKG8yXY5uHJHmgLwXzQOB6RxsfbVTGfnA1w5vBfoI7btWhye0l5sNFz8XFj7up1MzFJ8uCiUZkU8frK6jNcJsbkHsjdUSFtuJBF43TUH8uBtgjWhr8js7j4wxM8yoFiiCubfFh6DOslCORY7PfOVNCws7x78YnIKuuXv1RqbXmPXFye20ZJxrE4MbhMpK13gpvmy99B6ATjK0iDiUrGZbT8YurAapgTbtdb8ReY3hR0bX1IkDqfEe7QarrIS4slp6FwVnZwIBo6bZ5niJ5EKpniFukc72PNBNBW7elZ2mhy3GmBzOQcoNkWmqe3sN25dVYqBtJmDEW2Oyc6JANfQRzDzUKIpMV1zNNUt40UrAw=;RDkj94ZPaiJ63KmPe1FFng=="
+secured: "oLrr6Tno3WDrbS0jZGTj9vMNH4AQ15iW4zuDn9iLJlSX7GNrEG9e/NBOuQQu+ZvU32C2yy9C9i2g459+eQC7+nJ9ro01OfzSoxXSTwyIlQYAmfjrcmsP5xrHdvtv1T4sn1iAKOplg0CTTl/vbiiU1tExWwu8dOeybD195LNaqR7igEz2C8ghTMeYthrbPI5TC/tmBRDn2BNxkXcvoE01gLrcJ006Cbwc3f1Fv0LcISvfoqDOloH0IiUEn0HSmlZAEIhgraIsUUKrF4ux/VWNUhVPG4wFOWRoJyBm1qGUYXpwbCQFHTxVLRw6GEeDnm/0aUXaoL1GtFLpTLywizAK9rrFW9p0fAxN9aRfA2I07AQRNg9yeXvt1PWhZdo+ROif8bIyhfV4Xmqd9dZBeXnXl2hUa6OA1dpVqPIwZQmPeyZPUkIVjqRYzA9CRO21y5acQ+ezeV+JoHXM4bDkOYH6Wv9J2zUKbc/V2HsxqSIE1w+DumFFL7hsUa474/QdbgRWy48fptOESpRE8V/KN88fCQ==;blwwCALPrVRwD+SO4jBmVg=="
 ---
 

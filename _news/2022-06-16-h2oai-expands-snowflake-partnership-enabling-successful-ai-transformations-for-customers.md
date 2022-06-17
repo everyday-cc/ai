@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T18:28:00Z
 originalUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
 webUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: The Valdosta Daily Times
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "Fj/BzH17yfbmcpfkZDns2b+aN06Ugdqb07ki207Vd9HsC/8dBLSKRy4GGWzzKIkCK6sjHohe2JIL1Ds+DRFInd3yB6xqyPWaQSvpBFHcooMQvGWPtB/UnlAFo7rizt9sM7uar9LmzuslMhTSF6gtWfgCKuXMyKO6cVVb7brfIfRv12H5jrchgTrDxqg0CBmcKNlZ5khRPh+UUNlhNGo9vK6VDy8UgRv+AYPxOROBXkpIHf4Asjk/g3/K5AV49lfNrvXr6CxKkHBR0W9TJ0oPTPPGL5zO8RLKFZBA4yTeXgqieM9wVFFjnozAviqDJsd66CKeKk/Gp4qq2r+Z6x0K1GlVEZYzb0TUreRiWRM0aoyCUXANvPxiTqewBrvhqm6MZJPc9JXtWYYMdmaOl31Gbiq5Ni4iuOQdUOhjU1bGh05SWGofKfiKxQ3WfS96ydSYs6pZaQBfNSG2PaDIwKnERo4/dfiPcXd4G8U06QsNfc205qoeD4jfSVXvBMw86ipn6/jEIvj3ms53s74NAccS2Q==;581b9LcG3KfLHPEjj4urAA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "+8+9DlGg2zY7kYXmsAU8EAbPKGsML4CvV0Nr9Z9o2SqKFgUAMLcsF3rGvjZnrD8gdKBP7PNwTfg2Tb+bTTZnmNbxEx1uzjBsPFp4Izhberhak31xfKsQHRGKkFeQIglsiIl5bW7Q2xCSnWuAMssv+wbbN2pRZSIefIKpG3uC6HrVtYkAdzXX+5v9fDe9Q7S4ezNLPOdDfZxioSdla2vA+JWGSGTpE1tdtHy7mKHMcCK3EI0aNka8Q3JIVs14NbcVrbRnKPSKyRKoYK1QYNCx4Pyb1bEkKAqwASqoyqQv4qw9IIMSRbHMUcXTzVYcT5qxiw3hdE0dMiRyMRTWj2tb7ndun6cGpbLThlQNbSj9y48=;EUOzQKOefDMTWR07XqcAfw=="
 ---
 

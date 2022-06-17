@@ -7,7 +7,7 @@ originalUrl: "https://www.malaysiasun.com/news/272587360/meldcx-and-american-kio
 webUrl: "https://www.malaysiasun.com/news/272587360/meldcx-and-american-kiosks-take-contactless-to-the-next-level-with-smart-self-service-kiosks"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "meldCX and American Kiosks Launch Smart Self-Service Kiosks"
+    excerpt: "CX is partnering with American Kiosks, a Colorado-based self-service kiosk manufacturer simplifying the process of deploying"
+    publishedDateTime: 2022-06-16T12:30:00Z
+    webUrl: "https://enterprisetalk.com/news/meldcx-and-american-kiosks-launch-smart-self-service-kiosks/"
+    ampWebUrl: "https://enterprisetalk.com/news/meldcx-and-american-kiosks-launch-smart-self-service-kiosks/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/meldcx-and-american-kiosks-launch-smart-self-service-kiosks/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/meldCX-and-American-Kiosks-Launch-Smart-Self-Service-Kiosks-01-1.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "meldCX and American Kiosks Take Contactless to the Next Level with Smart Self-Service Kiosks"
     excerpt: "Features of these kiosks include: AI based check-in, identity verification, object recognition, secure payments, and other operational efficiencies to improve the customer experience. Eric Nebola, President of American Kiosks, says, \"With self-service ..."
     publishedDateTime: 2022-06-15T16:10:00Z

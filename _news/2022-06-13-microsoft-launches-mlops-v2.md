@@ -154,6 +154,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft improves Azure’s accessibility for AI workloads"
+    excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
+    publishedDateTime: 2022-06-16T11:28:00Z
+    webUrl: "https://www.techzine.eu/news/devops/81034/microsoft-improves-azures-accessibility-for-ai-workloads/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 49
   - title: "Microsoft Brings Voice Controls to Windows 11"
     excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
     publishedDateTime: 2022-06-14T13:38:00Z

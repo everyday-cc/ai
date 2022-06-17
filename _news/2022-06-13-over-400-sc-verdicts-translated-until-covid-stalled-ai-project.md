@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verd
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use artificial intelligence to identify long COVID cases"
+    excerpt: "Marketplace’s Meghan McCarty Carino speaks with Emily Pfaff, an assistant professor of medicine at the University of North Carolina at Chapel Hill who uses artificial intelligence to analyze electronic health records, looking for patterns that might ..."
+    publishedDateTime: 2022-06-16T02:41:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 57
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2022/06/GettyImages-1212007685-e1655171450331.jpg?fit=740%2C494"
+        width: 740
+        height: 416
+        isCached: true
   - title: "Over 400 SC verdicts translated, until Covid-19 stalled AI project"
     excerpt: "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived."
     publishedDateTime: 2022-06-13T02:00:00Z

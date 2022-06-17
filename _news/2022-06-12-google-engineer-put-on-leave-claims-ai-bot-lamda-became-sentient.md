@@ -229,6 +229,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Has a Google AI Become Sentient?"
+    excerpt: "Hello, everyone. Happy Thursday! Last weekend, an interesting story was published about a Google engineer who has been suspended after publicly claiming that one of the company’s artificial intelligences (AI) has become sentient."
+    publishedDateTime: 2022-06-16T17:43:00Z
+    webUrl: "https://www.aei.org/articles/has-a-google-ai-become-sentient/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
   - title: "Google engineer thinks AI bot has become sentient"
     excerpt: "A Google engineer claims one of the company's artificial intelligence robots has come to life. Blake Lemoine told the Washington Post he spends hours talking to a tool called LaMDA and came away convinced it was sentient."
     publishedDateTime: 2022-06-12T19:55:00Z

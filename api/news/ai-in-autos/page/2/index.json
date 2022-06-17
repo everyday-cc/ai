@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
+      "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
+      "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
+      "publishedDateTime": "2022-06-07T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-how-artificial-intelligence-brings-new-superpowers-to-supercomputers.md",
       "title": "How artificial intelligence brings new superpowers to supercomputers",
       "excerpt": "Nvidia also detailed multiple case studies of how its HPC innovations are being used to help enable AI for nuclear fusion and brain health research. HPC is not just about the world’s fastest ...",
@@ -398,31 +442,22 @@
       "title": "Artificial intelligence scans for weapons, but faces criticism from some",
       "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
       "sourceUrl": null,
-      "webUrl": "https://www.turnto23.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "originalUrl": "https://www.turnto23.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "webUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "originalUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.turnto23.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
-      "cdnAmpWebUrl": "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-03T08:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KERO-TV",
-        "domain": "turnto23.com",
+        "name": "KSTU",
+        "domain": "fox13now.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1300,51 +1335,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-a3-robot-sales-in-north-america-continue-record-increase-into-2022.md",
-      "title": "A3: robot sales in North America continue record increase into 2022",
-      "excerpt": "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit",
-      "sourceUrl": null,
-      "webUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
-      "originalUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2205_F_LMEx_DigitalSC-Main600p_350_200_bor1_b9b3be_s_c1.jpg",
-          "width": 352,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
       ]
     }
   ],

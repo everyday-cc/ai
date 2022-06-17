@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
+    excerpt: "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ..."
+    publishedDateTime: 2022-06-16T19:30:00Z
+    webUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 54
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
+        width: 860
+        height: 520
         isCached: true
 
 secured: "LFxLZlGRaq8/6KzqgXvzyfqpluAGbycu9lxIuEpCqBFTx0Oo7WcG6HQSQQaECzGjwvH7j3NdwAoRdXymGSjsP9hUTPuaYWAyfDT6ZWBZjkVdzqwJKo3IOJTsEh9fzQQRZNdbNSd0KW6ZOMdgslDleoaNF8nFR5gvccvFQI24kArqpM/CLBG0ictCc1RFdT0/088M0FBL/FVmWRwZ5y1X5dhSd0Rl43QnjcOq8Qmj/7ZY6wqew3xaPBh8VwcFhXD98BqyB3Ltti5XQujVsr8yaoU/T+awiV7MWvn8GurF+O2PMjR/SfwxQHnEOprQeYaojZPawMnnHvkXTVzkmhGuEwHoPNnPKaftXBwyaSzh7oY=;KZMTaes5knILDUAit3n88A=="

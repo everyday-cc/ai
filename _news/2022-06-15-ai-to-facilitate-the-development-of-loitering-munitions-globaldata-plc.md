@@ -37,20 +37,6 @@ related:
         width: 2826
         height: 1373
         isCached: true
-  - title: "AI system facilitates plant imaging from the start"
-    excerpt: "An AI-powered imaging system called MutipleXLab provides rapid automated phenotyping of seed germination and root growth that will help select plants that grow well."
-    publishedDateTime: 2022-06-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/955767"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe193459-a079-4b00-98fe-d1d4b4a347e8/Rendition/low-res/Content/Public"
-        width: 700
-        height: 340
-        isCached: true
   - title: "Satellite images and artificial intelligence systems facilitate whales census and conservation work"
     excerpt: "A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work."
     publishedDateTime: 2022-06-16T07:51:00Z

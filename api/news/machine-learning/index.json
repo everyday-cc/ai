@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-16-how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases.md",
+      "title": "How to scale machine learning inference for multi-tenant SaaS use cases",
+      "excerpt": "This post is co-written with Sowmya Manusani, Sr. Staff Machine Learning Engineer at Zendesk Zendesk is a SaaS company that builds support, sales, and customer engagement software for everyone, with simplicity as the foundation. It thrives on making over 170,000 companies worldwide serve their hundreds",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/16/scale-machine-learning-inference.jpg",
+          "width": 1243,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T14:16:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-and-marketing-teams.md",
+      "title": "G2M Insights launches Analyzr service, delivers streamlined machine learning analytics for sales and marketing teams",
+      "excerpt": "Enables midmarket and enterprise customers to implement state-of-the-art machine learning analytics in a simple, secure way DENVER, June 16, 2022 /PRNewswire-PRWeb/ -- G2M Insights, a business and tec",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27746168/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27746168/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/06/16203049/Screenshot_144.jpg",
+          "width": 521,
+          "height": 322,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27746168",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27746168",
+      "publishedDateTime": "2022-06-16T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-demystifying-machine-learning-at-the-edge-through-real-use-cases.md",
       "title": "Demystifying machine learning at the edge through real use cases",
       "excerpt": "Edge is a term that refers to a location, far from the cloud or a big data center, where you have a computer device (edge device) capable of running (edge) applications. Edge computing is the act of running workloads on these edge devices. Machine learning at the edge (ML@Edge) is a concept that brings",
@@ -149,7 +247,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -201,7 +299,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -246,51 +344,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-13-new-hardware-architecture-provides-an-edge-in-ai-computation.md",
-      "title": "New hardware architecture provides an edge in AI computation",
-      "excerpt": "As applications of artificial intelligence spread, more computation has to occur—and more efficiently with lower energy consumption—on local devices instead of in geographically distant data centers in order to overcome frustrating delays in response.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-hardware-architect.jpg",
-          "width": 544,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-hardware-architecture-edge-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-hardware-architecture-edge-ai.amp",
-      "publishedDateTime": "2022-06-13T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-06-13-sentient-artificial-intelligence-have-we-reached-peak-ai-hype.md",
       "title": "“Sentient” artificial intelligence: Have we reached peak AI hype?",
       "excerpt": "AI experts wonder whether discussing whether LaMDA should be treated as a Google employee means we have reached “peak AI hype.”",
@@ -299,7 +352,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 298,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -342,59 +395,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-global-deep-learning-chipset-market-2022-industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028.md",
-      "title": "Global Deep Learning Chipset Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028",
-      "excerpt": "Jun 13, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has managed a study on Global Deep Learning Chipset Market for the forecast period of 2022 to 2028. This report also assists the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -451,7 +451,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -504,7 +504,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {

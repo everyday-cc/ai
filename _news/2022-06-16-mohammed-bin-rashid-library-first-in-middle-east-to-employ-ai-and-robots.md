@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T13:50:00Z
 originalUrl: "https://www.gulftoday.ae/culture/2022/06/16/mohammed-bin-rashid-library-first-in-middle-east-to-employ-ai-and-robots"
 webUrl: "https://www.gulftoday.ae/culture/2022/06/16/mohammed-bin-rashid-library-first-in-middle-east-to-employ-ai-and-robots"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: The Gulf Today

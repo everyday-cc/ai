@@ -105,6 +105,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australian retailers using facial recognition without consumer consent in stores"
+    excerpt: "Consumer advocate CHOICE has revealed that three of Australia's largest retailers are using facial recognition technology in their stores, often without shoppers realising that they are being ..."
+    publishedDateTime: 2022-06-17T00:08:00Z
+    webUrl: "https://itwire.com/business-it-news/security/australian-retailers-using-facial-recognition-without-consumer-consent-in-stores.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 49
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/352b391fa206ab2ec73f84cc4a76d0d3_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Call for ban on facial recognition following claims retailers are using it illegally"
     excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
     publishedDateTime: 2022-06-16T01:20:00Z

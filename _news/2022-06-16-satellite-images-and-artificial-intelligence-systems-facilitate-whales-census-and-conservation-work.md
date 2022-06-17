@@ -51,20 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
-  - title: "AI system facilitates plant imaging from the start"
-    excerpt: "An AI-powered imaging system called MutipleXLab provides rapid automated phenotyping of seed germination and root growth that will help select plants that grow well."
-    publishedDateTime: 2022-06-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/955767"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe193459-a079-4b00-98fe-d1d4b4a347e8/Rendition/low-res/Content/Public"
-        width: 700
-        height: 340
-        isCached: true
 
 secured: "hWzXJGi5R/tDk/ILtjCtzAwSzvdonthv6tVPfqcwpcW66REKtoeFcogoa0VAsPKrZYeRbLmS0wB2Z4ElhVuurlakDbj0iNBCJt8RFrZJ1zsww+Dkd1LiWAMToGDIojSJVlT2LeEtR+3Jz+ZrhDBWMxVUjJ83KFNO2kUQymvdQnED7ObygBz9EiUpaxNWYWWgEw6R/DFltZbaAtEfSXb7xyTuKGEY25Yr0Pdr1DrpPg8kKSy6ZhAo7EOlHmUZj32HA9jwI6hJKuVX61RAVAJE8dOM6k8fSt/kbGksWfrfx64GN2ARvPohOrLA6DFeCysLcIvMfgJ8MJlPbCouamE4gz06AopP7wkUe7LmbBMW2PjpW2mBR8futFclZh+lYbuKef6JCWSQAx9iRRzJ36SJsbK+Ez2wE0G/hLDPc0hz+Mi0D985R/iSo+Y5msTJpsGdWR4G+jwuYsMfUcmHzryQpdvJkgn4JLiMU2vVzNLAdRkiFrOyN3PwmEDSABKhxcempgbK9VVqlHjXP0h3tcIkyQ==;tqn79iOibSiJTpwSr341zw=="
 ---

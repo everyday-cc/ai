@@ -3,16 +3,16 @@ category: news
 title: "8 Reasons Using AI Will Improve Your Content Creation Process"
 excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
 publishedDateTime: 2022-06-15T23:03:00Z
-originalUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
-webUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
+originalUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
+webUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -38,7 +38,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google's New AI Is Not Conscious: Firm's AI Engineer Explains Why"
+    excerpt: "Numerous recent reports speculated about Alphabet Inc.'s (NASDAQ: GOOG) (NASDAQ: GOOGL) natural language processing artificial intelligence (AI) software"
+    publishedDateTime: 2022-06-16T22:45:00Z
+    webUrl: "https://www.benzinga.com/tech/22/06/27752198/googles-new-ai-is-not-conscious-firms-ai-engineer-explains-why"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27752198"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27752198"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/06/16/ai.metamorworks.shutterstock_1348479254.jpg?width=1200&height=800&fit=crop"
+        width: 854
+        height: 569
+        isCached: true
 
-secured: "SpEMCsNPLs9o0msVSpvUtV8c6Qzya0RZKqJIIIhyQlXDHT05oMYQxGYaaMFMfY7U9Set6szdYwwEL9OAbHkLX1EHO3Bn8bOKXYRrXEKgrEbCzbV07cgVAa2VM7CTb0QQRoT2y76dMeaZDrtlY/HRaZaegehh+HPsVkGpkuC12ve8RrgMKPTjixPRmwlr5qADmL5TxqIF0UUCrjRFBs0CvNXqZ34J4gPZiGVGIRRxUrVen6wvCOMvQKuCk8xszz1EensJ3N1kMlLVZi58oFrL30zWqvL3uNzHppu8a561lVbM/AWyM38x+aWSAleciGe3AjtljfX5zs/+KV7uIw98avpfySwUSoRZIh4uihBLyvwHjxier1s4UMtJ58kfU2snrlg1xOTFM3LZW/kU4GAJTT+33x+emZYTqYi9wCSk5B87eL+lKKpPmkfWoBzeyDWZisqWu9mY85YoTvcyyknf9J9xxY38wotbnYaC7x9jQZ0NbnKc83/SwTtmT8B1YZt2abUkVi9Xdcpuowl5wSPQTw==;jftmrrVkn/2YOZ1OT76u+A=="
+secured: "Oj6PdEkLdrgQ7L3r1Dpp39UMq464zTAOq2O9L9qyEgItDAtsoE429xfKLJKk4PpGJv3K6r1IY1HnLT2nKcGFC4SJrbvJDr2q2Vbm7X5kqTlzgzyP5st0TITTNswrsrBAWmCrEa0NRV6dUzVRU5pCeZV3zw2L0K6OT8RbIqqo3dE2WOayGn089PY2NBruiM7t5mIC1KTQMLr/Sdtfc349Fzdk2zn+7mZmHRS0f9h3wrM1NWKER1s1OYwqH1jbyHSnpUEKbx9v8sGWce8W8T3+MRLVw4FZB3KlGDNvBtRIHn/4AiHH7gsiqQzPkO2rHEqJlfn/7tfM66YPuNjHgSUFkgkktuIiQOS5kjB1idFyOc8=;8/YdzCqHbS9H+Acev0xchA=="
 ---
 

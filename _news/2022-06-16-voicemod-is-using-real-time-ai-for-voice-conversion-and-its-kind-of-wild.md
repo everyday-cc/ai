@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/amp/"
 type: article
 quality: 85
-heat: 96
+heat: 97
 published: true
 
 provider:

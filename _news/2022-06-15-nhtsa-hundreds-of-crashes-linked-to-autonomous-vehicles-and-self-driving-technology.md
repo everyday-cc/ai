@@ -57,6 +57,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Cars with self-driving capabilities involved in hundreds of crashes over past year: Data"
+    excerpt: "National Highway Traffic Safety Administration released new data revealing cars with partial self-driving features were involved in hundreds of crashes last year."
+    publishedDateTime: 2022-06-16T19:14:00Z
+    webUrl: "https://www.fox61.com/video/money/cars/cars-with-self-driving-capabilities-involved-in-hundreds-of-crashes-over-past-year-data/520-f6233a90-759f-4249-8ca5-fbb2501f63e3"
+    type: article
+    provider:
+      name: FOX 61
+      domain: fox61.com
+    quality: 15
+    images:
+      - url: "https://media.tegna-media.com/assets/WTIC/images/ac7061ef-9111-4824-80cc-9cc287df0d21/ac7061ef-9111-4824-80cc-9cc287df0d21_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "x1T9RTfja+Mn3mlhmM3p36C81xqS68+QoQTnEvnhC4gjTL/bVjWqmiNn1mP3dkyJDqyCCJ8nxFATbeebYfaiTLVuOnzWVQ7g61OCrWx5X0GQLi4Mk+nlQiVdq1RSVDQ+p+YRSQfNPQyvSMmpX54C/FYCRjWiLrn7bSjzSyXqIezjWVqj8i90mt9sKH+67Vr4xeqUZvXbTGz/+MElWTo+OkfaxonTZNaYwYFG3mFhbQFPS/wNL7xklLNmsX3yQulPXutpXTkZfgk1NwFuN1Lj4BUmfj4UV6CcJGTc3YwDolLYulnl+yVm6BosbuJOrOSdzRGyXwnAkG+3YSkar+cmf8oc5L2T1NGl1onRBBuQyeslNRn9aAXGNGncDfCzTrO/vO1GcopYap9UjvQVZYKT0BzCq6JyPBwphw30nHUqbtoMqAVTgxf1WbxvsalhXztjS4Qu9GDsCe2LvozzcGQLcL740QT31Y1wpe2mObWYZWanYHcUsiTL2wlYRKv1FkL5hbVcF5OE7Rfl6D3OlW7hiA==;DkDN1lA7ie9WLcupF714LQ=="
 ---

@@ -703,34 +703,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Google engineer claiming AI has consciousness placed on administrative leave - Reports"
-    excerpt: "\"Our team – including ethicists and technologists – has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims. He was told that there was no evidence that LaMDA was sentient (and lots of ..."
-    publishedDateTime: 2022-06-12T03:47:00Z
-    webUrl: "https://www.bernama.com/v2/en/world/news.php?id=2090185"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 29
-    images:
-      - url: "https://www.bernama.com/storage/banner/4d8bc382e5435e02cff8b4160bb6f81461e43d37de22e"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "Google Engineer Claims Company's AI Has Achieved Sentience, Company Is Glossing Over the Truth"
-    excerpt: "An engineer Google has sidelined has a warning about the tech giant's Artificial Intelligence project. The company is downplaying it."
-    publishedDateTime: 2022-06-13T15:55:00Z
-    webUrl: "https://ijr.com/google-engineer-claims-companys-ai-achieved-sentience/"
-    type: article
-    provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 27
-    images:
-      - url: "https://ijr.com/wp-content/uploads/2022/04/GettyImages-1393876536-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Suspended engineer claims Google’s AI has taken on life form, acts like a ‘narcissistic’ 7 or 8-year-old"
     excerpt: "A Google engineer reportedly claims that the company’s artificial intelligence tool is capable of independent thoughts or feelings. The engineer, Blake Lemoine, wrote on Medium about a week ago that Google has put him on paid administrative leave in the context of AI ethics concerns that he was raising internally in relation to alleged violations of Google’s confidentiality policies."
     publishedDateTime: 2022-06-12T14:27:00Z

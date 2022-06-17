@@ -43,6 +43,20 @@ related:
       name: Nine News Australia
       domain: 9news.com.au
     quality: 33
+  - title: "Bunnings, Kmart and The Good Guys say they use facial recognition for ‘loss prevention’"
+    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores. If you’ve seen the movie Minority Report, you’ll remember how Tom Cruise’s character John Anderton is identified through iris recognition to perform his duties,"
+    publishedDateTime: 2022-06-16T18:56:00Z
+    webUrl: "https://www.dailyexcelsior.com/bunnings-kmart-and-the-good-guys-say-they-use-facial-recognition-for-loss-prevention/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 31
+    images:
+      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "‘Creepy and invasive’: Kmart, Bunnings and The Good Guys accused of using facial recognition technology"
     excerpt: "An investigation by Choice has found three major retailers in Australia – Kmart, Bunnings and The Good Guys – are capturing the biometric data of shoppers, often without their knowledge."
     publishedDateTime: 2022-06-15T01:59:00Z

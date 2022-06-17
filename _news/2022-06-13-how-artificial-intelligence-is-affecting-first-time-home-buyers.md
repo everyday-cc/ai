@@ -9,7 +9,7 @@ ampWebUrl: "https://realtybiznews.com/category/technology/ai/amp/"
 cdnAmpWebUrl: "https://realtybiznews-com.cdn.ampproject.org/c/s/realtybiznews.com/category/technology/ai/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 735
     height: 552
     isCached: true
+
+related:
+  - title: "How Dubai is using AI to get people on public buses, reduce waiting time, and speed up journeys"
+    excerpt: "AI and advanced algorithms are used to analyse massive amounts of data captured from nol cards, buses, and taxis in operation, which then result in revised bus schedules and routes How Dubai is using AI to get people on public buses,"
+    publishedDateTime: 2022-06-13T07:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/how-dubai-is-using-ai-to-get-people-on-public-buses-reduce-waiting-time-and-speed-up-journeys"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 5
 
 secured: "RXCvDUAFm+hYr/u9XeNXL1VqkfpNUzPzb/05UWI7PbvNNgEUW2k0ZDt0NDCeAiHvvEIQGKCFmq2qWYoHaW4LK1XQ2DLF2CwvmjbsGUL4HSKyuRBjAdWCOP2BZh2/vOiAgMEZjC6KMTfR4EbuSXGow5Ysc6Bfh40mfLc5LrBPoDk7y3laa80uSAwTe5xXwJ87H+1S2PCNSNU1ujfOPSZuy7zEqjE+/GTo2jGrG/0RMFJu8eqb238YkT1tNfkXmzGIXxCiWsfLY9+92GYBU5mj1MIYtWu8B9Y87jGSRyaHASEWXtaZDbWJyiI03oD37ZYpe6gFv7NIYx+1HIVd90ZgHOAfxy1bCR0XyiRSYKdAeUx+1UvMWr5OTKJaz9TZFuSL0+cfdk8B5Ckb2nFwadZMblrV5s2SyW/whyXk7Ra0KBgDzBla+rIjf45SDgft3JZYb0eNFxi+WUi0f9O+ZevmFrscuUZfblsziRTd6LK87r3BW4obgh8Ilj9s30yC2Z1la78tLV4eE8wMt/HNfcwIhg==;F8O0WMOnnVA8w1TFW7g7xg=="
 ---

@@ -29,38 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning Chipset Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028"
-    excerpt: "Jun 13, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has managed a study on Global Deep Learning Chipset Market for the forecast period of 2022 to 2028. This report also assists the ..."
-    publishedDateTime: 2022-06-13T16:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13"
+  - title: "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027"
+    excerpt: "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48."
+    publishedDateTime: 2022-06-13T14:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Products Market By Development Strategy, Future Projections & Rising Trends to 2028"
-    excerpt: "The latest Artificial Intelligence Products Market Analysis is designed to help clients improve their market position, and in line with this, this report provides a detailed analysis of several leading Artificial Intelligence Products market Key Players including Open AI,"
-    publishedDateTime: 2022-06-13T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-by-development-strategy-future-projections-rising-trends-to-2028-2022-06-13"
+  - title: "AI in Computer Vision Market May Set a New Growth Story to Generate Booming Opportunities in The Industry By 2030"
+    excerpt: "The market study incorporates an in-depth analysis of the AI in Computer Vision Market based on the key parameters that take in the drives, sales inquiry, market extents & share. Moreover ..."
+    publishedDateTime: 2022-06-14T07:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-may-set-a-new-growth-story-to-generate-booming-opportunities-in-the-industry-by-2030"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-  - title: "Global Face Recognition Device Market 2022 - Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 14, 2022 (CDN Newswire via Comtex) -- The Global Face Recognition Device Market Growth 2022-2028 report published by MarketandResearch.biz gives an overview of the ..."
-    publishedDateTime: 2022-06-14T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2022---regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-06-14"
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://amarketplaceresearch.com/wp-content/uploads/2022/06/AI-in-Computer-Vision-Market.jpeg"
+        width: 790
+        height: 466
+        isCached: true
+  - title: "Global Cognitive Computing Applications and Markets Report 2022"
+    excerpt: "Applications and Global Markets\" report has been added to ResearchAndMarkets.com's offering. In this report, the market has been segmented based on component, deployment mode, organization size, end user,"
+    publishedDateTime: 2022-06-15T11:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-cognitive-computing-applications-markets-report-2022-featuring-/2022/06/15/9621933.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "M1qmpl5y7at8GGZ0vASnhg2dOmeRNDcrSLOmlKvbpz+YD1HyVZ94RiMY+r0rFIvO8zJU9zP+OW1TrjW+d/032KKYBC2d+s4dAPDHHq5wTIWk7OEaq13Hea7hZ0tGC9PnQ4JGuKeLsvYR1e1q0evnrPPzhFGQnk0keIFoKrv8xwz3xmH+8O1krY3r+d69f/LNbxNBtUwaWgJ4HSHiPwjAw3LCRN+iqPRKN0KBMbOwsJ57j3S6m/iNTISsOyuS2V0368SOsO21W8YOd09DOLZWZZ8IqZ45pdocrbDb85Pm6L6eeQAwkfUhe6FHotkn65gMi96RlhXUyAagag1ArRsnyvLqN/KRyjbMHY5EAoaud3s=;YYm1XfJlg4l7Lvx+ayuYOw=="
 ---

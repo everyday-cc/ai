@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-data-science-and-ai-mar
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 802
     isCached: true
+
+related:
+  - title: "Privacy bill to set out rules on use of personal data, artificial intelligence"
+    excerpt: "The federal Liberals plan to introduce privacy legislation today to give Canadians more control over their personal data and introduce new rules for the use of artificial intelligence."
+    publishedDateTime: 2022-06-16T13:45:00Z
+    webUrl: "https://www.castanet.net/news/Canada/372075/Privacy-bill-to-set-out-rules-on-use-of-personal-data-artificial-intelligence"
+    type: article
+    provider:
+      name: Castanet
+      domain: castanet.net
+    quality: 13
 
 secured: "SaGDPnm1S/6Nvn6QAO60z+CmoB1oMK9iGGnx2fvP24fJvLZdDG4k/6Kv50G8p0v11dU1FRFvIhasAx93Q5TiJl4/96FSikU1rv8V5piCEjBjtE0rwsbjeScZ3Vqhz1u1T3fAvsrecN1R+VaYchVB3Kh3nvyksybORybpcaXhnUXalu/jHaTap819cQeN6tlOn0O33Z0hr9RlF4aIzSuVjA/RekrwosmJb2XSNe8+2qcXc+hZfCpm1wWxP0Gc71Oi/9uFK6RT+hcFZHxcOO+905IOnHRExZXy2TeEcnWlen9OjVmrJJSawkCyjgzyHxXvJLbjVGTRKQS8MX1U2MfFO7yNjnHz8TDOQdzZJAZ7M/GS4bauhwI3LVnFSFaiCu4jRqjjyshI+Glv0xNgrHbyIpUFoTNP/TJ+uFRFSVWvJ8PRYDv7G3vDRlqqJfkU0xD2LonYVEB7UCpZdIQSGu2uPnsnbRVew7X/L0NPsDGXPnOiuCzKg1YiFHO96lhCMLk4AncxPDOR4B9H5t0Ir5ridA==;Da8d3npYDLvRNn83D0CQQg=="
 ---

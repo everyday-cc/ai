@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-politic
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-jersey-city-data-management-ebcb611b688a9755b9fbd62a561e7b64"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
+
+related:
+  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
+    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
+    publishedDateTime: 2022-06-16T15:47:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "IMgcEgSzxmF8KrUgDu8vXZsDr91ZjDejGlC3bmOYHRjHGeuwypNmlE6sCskX5fF77JSaXm+F78tsITyczgq4PBLCi9m7w6yu88KP6WLPMQvsjWycpjNQDDkm4pJZBYqFPMzGR067GvP280H8rd6m6WXYe6XLLRI5YaGDP6ScypX8cl/GjJO1gA64bzKeQ2NCoy26swpR+uVoyFfoZhtkZzSKOoPAQHIZ2wa5hZwYZ2iTReuwNSDIRWAyz1IrKc+tFsKAuSY8kUsrImjCm1/0LiYUCtnLvGICBO9usaqDdVhGgQBj7XjmycwWDHxZ7MFlNA3x0H/0rBnrlVk7vDP5/W4d9o99khfbzMyU1N63UAc=;yi0buIpBbj4u9+TOq5GfIQ=="
 ---

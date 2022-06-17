@@ -49,20 +49,6 @@ related:
         width: 1540
         height: 800
         isCached: true
-  - title: "LG Energy Solution Sets Up Special Advisory Council of Global Artificial Intelligence Experts"
-    excerpt: "New council established to drive company’s digital innovation and promote manufacturing intelligence Five global AI experts specializing in various crucial sectors assigned to spearhead key technological tasks SEOUL,"
-    publishedDateTime: 2022-06-12T00:00:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-3fb8a99f9302d79201d98c635f5eb417"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ptcxSONTezDSMZguEL/mLA8LH2gmdg0Tirz2LlxDYCdqQEaDTzpDjCfQnb/0zgFYGjJpjENJwgkjrWyfhZK5SJeN9fxM/1wSaEw/mmL28phIzRcoIm0YZ9HsDS2TGixYbOnHEJPz+v7tJVllHzI0OKgm3XwS/WPr/zp3UWz5Ayj5AQRrlNvX8Gn24GCPCx/j6QQ6x5RPACHzVkEnBlqtvKzo+VEsN8ZcOAQ6r+GXbWZRkxUHOuzuTW7Q3xFFOv+iJ+3gy2XvDWH7J6Tb5z1jx015mP6b0p8ItdwU1PVN8wbE5FJI3a+qM9Wzb99kdHky/BXCXosbsxv4CqAvV0hEd458i17msnFTdnbw7kwAQHU=;/bxyVprlts45Sm8zlNOQ5w=="
 ---

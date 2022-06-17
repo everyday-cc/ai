@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-17-googles-sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas.md",
+      "title": "Google’s ‘sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas",
+      "excerpt": "Or, in the words of R. Zeira, “Return to your dust.” Mois Navon teaches “Ethics and AI” at Ben Gurion University and Yeshiva University. He is an ordained orthodox rabbi and one of the founding engineers of Mobileye who designed the chip powering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan",
+      "originalUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.jta.org/wp-content/uploads/2022/06/06-16-2022-Golem-copy.jpg",
+          "width": 2149,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp",
+      "cdnAmpWebUrl": "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp",
+      "publishedDateTime": "2022-06-16T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jewish Telegraphic Agency",
+        "domain": "jta.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline.md",
       "title": "Operationalizing Ethical AI: From The C-Suite To The Data Pipeline",
       "excerpt": "Now that these technologies have become more commonplace, business leaders should turn much of their focus instead on how they use and manage AI and related training data to ensure that it’s consistent with other aspects of ethical business operations.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -219,7 +262,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 298,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -1452,51 +1495,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-the-dark-secret-behind-those-cute-ai-generated-animal-images.md",
-      "title": "The dark secret behind those cute AI-generated animal images",
-      "excerpt": "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/",
-      "originalUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/",
-      "publishedDateTime": "2022-05-25T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
       ]
     }
   ],

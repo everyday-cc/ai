@@ -26,54 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai to boost public bus ridership, cut journey times using new Artificial Intelligence system"
-    excerpt: "High-level RTA meeting discusses ‘City Brain’ project, recently-opened bus stations Dubai: The use of advanced technology and artificial intelligence (AI) has contributed to improving the public bus service and its operational efficiency in Dubai,"
-    publishedDateTime: 2022-06-12T08:13:00Z
-    webUrl: "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772"
-    ampWebUrl: "https://gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772"
+  - title: "Ukraine Using Artificial Intelligence to Catch People Sabotaging War Effort"
+    excerpt: "Police are using software on tablets to see if a person they view as \"suspicious\" is listed in databases, according to Ukraine's Ministry of Internal Affairs."
+    publishedDateTime: 2022-06-15T18:56:00Z
+    webUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 60
+  - title: "Ai Weiwei’s cage sculpture in Stockholm takes on new meaning following war in Ukraine"
+    excerpt: "The Chinese artist and activist Ai Weiwei says that his large sculpture Arch (2017), which was unveiled in Stockholm this week, takes on extra resonance in the wake of the war in Ukraine. The work, which stands outside the Nationalmuseum,"
+    publishedDateTime: 2022-06-16T10:55:00Z
+    webUrl: "https://www.theartnewspaper.com/2022/06/16/ai-weiweis-cage-sculpture-in-stockholm-takes-on-new-meaning-following-war-in-ukraine"
+    type: article
+    provider:
+      name: The Art Newspaper
+      domain: theartnewspaper.com
+    quality: 30
     images:
-      - url: "https://imagevars.gulfnews.com/2022/06/12/------_----_---_-------_-----_---------_-------1655020936624_18156ef5dbd_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://cdn.sanity.io/images/cxgd3urn/production/9cbce7ac2addf43ba424ccee1f4ea3ea49af60a0-2864x1909.jpg?rect=0,95,2864,1718&w=1200&h=720&q=85&fit=crop&auto=format"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Artificial intelligence has boosted operational efficiency of RTA public buses in Dubai"
-    excerpt: "The system contains 47 types of notifications that cover the mechanical aspects of the bus, fuel consumption per kilometre and the condition of the onboard safety systems."
-    publishedDateTime: 2022-06-12T10:27:00Z
-    webUrl: "https://www.gulftoday.ae/news/2022/06/12/artificial-intelligence-has-boosted-operational-efficiency-of-rta-public-buses-in-dubai"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 44
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2020/12/28/rta-bus.ashx?h=450&w=750&hash=27435EFFC41C36A7DD3BA967CE1C647C"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "Dubai will use artificial intelligence to speed up bus journeys"
-    excerpt: "City Brain is expected to increase bus ridership by 17 percent. Dubai will use artificial intelligence to speed up bus journeys. . News."
-    publishedDateTime: 2022-06-14T11:47:00Z
-    webUrl: "https://www.timeoutdubai.com/news/dubai-will-use-artificial-intelligence-to-speed-up-bus-journeys"
-    type: article
-    provider:
-      name: Time Out Dubai
-      domain: timeoutdubai.com
-    quality: 32
-  - title: "How Dubai is using AI to get people on public buses, reduce waiting time, and speed up journeys"
-    excerpt: "AI and advanced algorithms are used to analyse massive amounts of data captured from nol cards, buses, and taxis in operation, which then result in revised bus schedules and routes How Dubai is using AI to get people on public buses,"
-    publishedDateTime: 2022-06-13T07:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/how-dubai-is-using-ai-to-get-people-on-public-buses-reduce-waiting-time-and-speed-up-journeys"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 5
 
 secured: "3QV6lj3lIH68ldAIOBZVymBRwwOr/L4IvVmvzJCxW2mfKL+AcMTdZak9JnnWi5gpe8RCyTZCF9uAtKBIrbGwQlZlXT/tBSq4VgWVKZNLLUYa/bOL311jDlor2zXqZ+9oCJ9QL1a4cvjqsgU24OvKuUaGFXYDxu+ZibX7OnxnszWGWt48RjM+Hje80Hyqt6CvMNTdma/WeLnHVchfRln2v6Y4O2qnk2o1KE3NDOeF5eTG3jtw2TaLeIC52GsvysVpK+FA6SjpQsNz8su5AX/Yfa18CSNljMwHakctHFBB+edHhIgK+CgXRusf8CmhsCCrcmGqFUT0QVxKEqTxTkC655ASp9cy/F/ixjU7+96FQns=;+p8DDDO7XDj1phLCn/xcQw=="
 ---

@@ -3,18 +3,27 @@ category: news
 title: "Juniper Networks Research Finds Artificial Intelligence Adoption Expands Tenfold Across Enterprises While Governance Lags"
 excerpt: "Juniper Networks, a leader in secure, AI-driven networks, today announced the findings of a global research project that shows an increase in enterprise artificial intelligence (AI) adoption over the last 12 months is yielding tangible benefits to organizations."
 publishedDateTime: 2022-06-15T11:46:00Z
-originalUrl: "https://www.kentuckytoday.com/news/business/juniper-networks-research-finds-artificial-intelligence-adoption-expands-tenfold-across-enterprises-while-governance-lags/article_ee81a42e-9908-5af4-acf2-abc20cad2e77.html"
-webUrl: "https://www.kentuckytoday.com/news/business/juniper-networks-research-finds-artificial-intelligence-adoption-expands-tenfold-across-enterprises-while-governance-lags/article_ee81a42e-9908-5af4-acf2-abc20cad2e77.html"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_f929b3c6-e515-5664-837d-7edc3df6e624.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_f929b3c6-e515-5664-837d-7edc3df6e624.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
-  name: Kentucky Today
-  domain: kentuckytoday.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "yEQKS7ifSCZxObBtoa5CYvIKEVASWucMFf2Hku9IQFPD4YKLwV7HJzP1T02G+oXc989BOPX2erHBC5iWuTCNw7QK2gFx9k4nIPO/IUOZLPwSrAVNwwV400t4Af/uBdkPMIIZgI0hvI4kKYgpTb0Aon885dZlIxVKcd6sqE/9NvAOn1pi3tCkOC1TqbpLakvWJV0vHx53R+shQsoGguoCMf2mYBbDqook223pV3RbI//ldg4HTCNp/IeZDDyS9/44HKfN3o9NbDqq0tRMjbpF47sdejGlPsVVwxmcxwYAYUEpyyISDwqq3LopRKJhh05/IC6PWpA4y1BKUzquI5bMBIYx1BYMQ/kxo4Yay2j9XgTZLSe7PA9if/oq3vcoWg27/2bjpAFtkL1yKgZLTkCXOY6Cur+qKAjz3NFcs5VTYVoeX3NPJ/T+rlTlguzhFnoGTWyIKG7e4Ay5ebkckY18hUMVw9TsFhLS48ae/xz70bx0vs+mgxwHtWSZG+2Ts8xW2ANYuVxlhxGMMk30rrEYZg==;IUaKEBymWVwKop9P02ou7w=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "P/r6qth0V3Gfze9Gjn7KfhSIvJTolsVP5EXphh8nm/kuD88WGTmJm3TQ1CqJozXCNcsNHiAPqvvxhVrkeyzVQbW4WD0+HLoFZbZK3ZFuzYMgGHOwHQjAYkzGTbvM43irkmTpmiof9cH8pqHU4vCPqWXfeVRdMGHffC37OmSLTAR9VX0sl/mfp2/IWYPn+TWGGTUzh3K8L0ZA05GasUOVIKidZnB1HsciGSH4vFwQMEEgyDvwGGTsi32m7+mtQVK32KUbIVknHWYp8fksv0RzBAezqIt5eMpUzBM0i3Cbtc23EJV53DKHRK9Wo1qMoGMfF2hsZejlOdRJ1WgRnZU2Mj/HsO8H0WJ6cq4v2sJRf7k=;hc1FfJSVis4eplIurGT5fQ=="
 ---
 

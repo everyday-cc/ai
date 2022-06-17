@@ -39,6 +39,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Why we need philosophy and ethics of cyber warfare"
+    excerpt: "Cyber-attacks are rarely out of the headlines. We know state actors, terrorists, and criminals can leverage cyber-means to target the digital infrastructures of our societies. We have also learned that,"
+    publishedDateTime: 2022-06-16T13:22:00Z
+    webUrl: "https://techxplore.com/news/2022-06-philosophy-ethics-cyber-warfare.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
 
 secured: "UBRAVseB/v+SgTPnQft31a6aLilvlpDZW50cPJDpRWbzWo0LPJsedX/JpKdbDDc5Ly4tjpRW6roOFYQ2n7YC/YhlIaUU+n+wGl4BRHTrL9Kbv9ho99Gapk55VZ5We2b+Srce/PHLj6WkplPpexV5x3yPYP1zyaVQejEY1DcmMesWGtH7J+1eaNsNc7+kploz1wZT09b+Wupo48VbKh0PLXTou2F1Cc2IdRLsFmmsmsMmcMMxaCvA4xAXQ6ScKj/I+XKeiljmDbG6AW3DB9iXHwAXMFpUmtT0x4QYNpOdongbWIKX2bFaojYfPdIb2ANfSgdE38I5QwwPtqrS5p3MJbeBtLJuwfAFSPaH+iTpSp0Ko2LugZur+5yRK7K5lnXIP5SqAofMiWKFkmD0i87PwCiyAORkXI9/3UA/3oiQtOB7slGnJmyASpKW5TvFqsECaqFXtTHg40hwskskckysrUUhQCOA0Haf4vsLeRxUyk5wbZnzSU6GnracAMKQ2wRKIv2vhOlyOOxhuMqjfXNp8A==;BoCL/HGGEyn6FGgB6XMSUA=="
 ---

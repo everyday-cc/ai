@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Australian retailers using facial recognition without consumer consent in stores"
+    excerpt: "Consumer advocate CHOICE has revealed that three of Australia's largest retailers are using facial recognition technology in their stores, often without shoppers realising that they are being ..."
+    publishedDateTime: 2022-06-17T00:08:00Z
+    webUrl: "https://itwire.com/business-it-news/security/australian-retailers-using-facial-recognition-without-consumer-consent-in-stores.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 49
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/352b391fa206ab2ec73f84cc4a76d0d3_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
     excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’ Bunnings, Kmart and The Good Guys have been using facial recognition technology in a bid to crack down on theft in-store,"
     publishedDateTime: 2022-06-14T16:30:00Z

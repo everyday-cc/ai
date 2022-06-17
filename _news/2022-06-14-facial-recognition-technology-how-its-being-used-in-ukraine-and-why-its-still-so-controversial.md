@@ -59,6 +59,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Ukraine is using controversial facial recognition tech to identify the dead and reunite families"
+    excerpt: "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users."
+    publishedDateTime: 2022-06-16T16:00:00Z
+    webUrl: "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    ampWebUrl: "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 61
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Here’s how Boca Raton police plan to join a facial recognition program"
     excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology."
     publishedDateTime: 2022-06-15T10:43:00Z
@@ -86,6 +102,20 @@ related:
       - url: "https://www.chesterstandard.co.uk/resources/images/13885226/"
         width: 650
         height: 433
+        isCached: true
+  - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
+    excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
+    publishedDateTime: 2022-06-16T23:57:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/469301/urgent-need-for-guidelines-around-use-of-facial-recognition-technology-expert-says"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 33
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--vVa9mFY3--/c_scale,f_auto,q_auto,w_1050/4M9Y749_copyright_image_264530"
+        width: 1050
+        height: 630
         isCached: true
   - title: "Three Major Aussie Retailers Caught Using Facial Recognition Technology In-Store"
     excerpt: "A recent consumer group investigation has found that three major Australian retailers have been utilising facial recognition technology without informing their customers. Bunnings, The Good Guys & Kmart have been caught out using facial recognition software which takes facial imprints of their customers and keeps them on file for future use."

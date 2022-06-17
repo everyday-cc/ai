@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T13:46:00Z
 originalUrl: "https://joyofandroid.com/will-googles-deepmind-substitute-humans/"
 webUrl: "https://joyofandroid.com/will-googles-deepmind-substitute-humans/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: FaceTime On Android

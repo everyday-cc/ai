@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/flawed-quest-artificial-general-intelligence-do-
 ampWebUrl: "https://diginomica.com/flawed-quest-artificial-general-intelligence-do-you-need-know-how-mind-works-agi?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/flawed-quest-artificial-general-intelligence-do-you-need-know-how-mind-works-agi?amp"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2018-02/self-healing.jpg"

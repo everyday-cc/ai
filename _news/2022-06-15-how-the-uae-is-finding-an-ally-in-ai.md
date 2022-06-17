@@ -24,6 +24,17 @@ images:
     height: 682
     isCached: true
 
+related:
+  - title: "UAE to deploy artificial intelligence to improve weather forecasts, assist in cloud seeding"
+    excerpt: "An AI framework will be built to combine satellite observations, ground-based weather radar data, rain gauges, and numerical weather prediction estimates to determine optimal cloud seeding timings and locations UAE to deploy artificial intelligence to improve weather forecasts,"
+    publishedDateTime: 2022-06-16T13:37:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/uae-to-deploy-artificial-intelligence-to-improve-weather-forecasts-assist-in-cloud-seeding"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 7
+
 secured: "CuEw+p7P4g1v7467oFLrbRbG44HK9oc0ersi2AJKuxwmhiCpKD2CJaK3AMa6IlUfF14wrPbJXZB5zI83fwuJg8V13U18vfvYGyVdJH/29btbIlTpUycCcBP9iOt6jxbjfpfF0LbMtBwl1e64bkTzBssrg08n1JsEF6QUzJRTh5Cjbb7m9AONyOxocOM6IV+aqxcxjX2gHJbYcJgfm3o39e8rK2ssByzpMDiY7yFuGBwWlisc8Y9PIoGEreo0iWtRfqDkeIRz+ahhBPLKoO8h4+iUNvGUSIN2MtvrzzLKD2zohSsE1gPA+Z6WtAEBwk/WM6FiPL/OAc3lN84Y36MUrPWpVObnwtzFgnmNFl/ndec=;9iaAr+ICZ+MMh8VJXjOhvA=="
 ---
 

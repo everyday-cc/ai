@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powere
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
 type: article
 quality: 116
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -145,6 +145,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft improves Azure’s accessibility for AI workloads"
+    excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
+    publishedDateTime: 2022-06-16T11:28:00Z
+    webUrl: "https://www.techzine.eu/news/devops/81034/microsoft-improves-azures-accessibility-for-ai-workloads/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 49
   - title: "Microsoft launches MLOps v2"
     excerpt: "MLOps v2 will allow AI professionals to deploy an end-to-end standardised and unified Machine Learning lifecycle scalable across multiple workspaces."
     publishedDateTime: 2022-06-13T09:05:00Z

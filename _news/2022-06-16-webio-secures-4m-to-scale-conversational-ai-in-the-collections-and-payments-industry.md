@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T12:05:00Z
 originalUrl: "https://apnews.com/press-release/news-direct-corporation/technology-2bb08b95790b78a0bae958499eb50246"
 webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-2bb08b95790b78a0bae958499eb50246"
 type: article
+quality: 10
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Irish start-up Webio bags $4m to scale ‘conversational’ AI platform"
+    excerpt: "The Webio AI platform helps credit businesses across Europe to communicate efficiently with customers who may be in financial distress."
+    publishedDateTime: 2022-06-16T09:47:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/webio-conversational-ai-platform-funding-customer-engagement-credit"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/a-12.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "tIpX0ehnmDEqsanQRjjq5vDmkXNg3klUEGa0SpZ9G0fKA9l9TXZEVFy3iVQj9L1984gzCZNqHe6x4cQGVo4dR78DFL5sPq7efXob2JiogxnwTtpuxFQ1OF38n69FIg9of1Cg3gGWzEnK6+1gKonz7RA/jLXDkaLEeock+zkJTvXuvC/9cjzNlABj/jbKn1D78M+NZAL8ZHUUdNLjHCtE4SKx8YSckAUi6EMCEugBvCUIU8x01xWYvfpsqgRN/wzmNWoSSBLyIt7xuyAiVJJBUhmZfLGT/3sVspw6mr4D5UFF8E7HOSg0tgrm25qnVDAWY0UxjraK3bex2SvGszJ11kpDF8R7q34TLD1Y5LOyxhI=;LBfymHyAhj9zGkQ1KTQu5Q=="
 ---

@@ -5,6 +5,8 @@ excerpt: "The capital injection will allow the British firm to invest in bringin
 publishedDateTime: 2022-06-09T16:00:00Z
 originalUrl: "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/?ref=upstract.com&curator=upstract.com"
 webUrl: "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/?ref=upstract.com&curator=upstract.com"
+ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/"
+cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/"
 type: article
 quality: 17
 heat: -1
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/Jesse-e1654764987385.jpg?w=1024"
+    width: 1024
+    height: 875
+    isCached: true
 
 related:
   - title: "Papercup enhances AI dubbing capabilities with new $20M"
@@ -35,6 +44,6 @@ related:
         height: 800
         isCached: true
 
-secured: "o3yXqDVfdVHrXzXb3OJHIg2gV9akuRQCN8EqFB0Mn+JngKvETCEu5akIzJhcDf/pGug5xKZOtiAIUwGBGfmj5w8k5GrS+t2NaMv+h+raemxDibqvCffBImZBsFM4MVVJwFPb2at/cr/vGu3SkJcgJ7lDSzfbDki4RQqYeLgn7EigWzlhBt5i2dq4SmxoYX66U2D7rcORL2Rih6E3+iYQ2q9Chtr5ij9kcHIptEtRyWpmnN0r7yu1o1O4JjMnthppXyuRpgRKP34s28HOIPaCeN4NIBi6Axs/n5PERzxhfw4el8k0kOg+6ANPuMIX4IpwLoe6fSjqKwfmNXpMpASze7ympPXs7n7DMY+bRF4SX5EESvLytHKMPdi4qIyN5/2W3Ayj4SM8A5BDYZmYyG6DCmklR8e/5kbyG5z81X4FPNCnzwLqVPnqaCG4vaSfS1QYdVJAThdo+b/l+ZNmbDyQQW/VkkpfSLuVBw7yBg4bdT+MvTQLAcZAGrWgMur3FFf4nHoGUHM4X6cCL1DvLNKZEw==;l6S5mBcO/KXI1pc6ZWHDbQ=="
+secured: "wcHseKeruw9K0jZWiwtLeRPx5m76CtNQWpxPhga3xWPoT9P8yiZXccR6QN8Ep7P0qLM7HcGtU+YCNRKadNUmDT4ZQL2G33mmIbrcWl/00tbLZfFuroTvN5FYXWD/j0O1CBIxPpQ+t0y7JVTqstHkTEHWCWKLFrBltVa8esD4pR97snnF7/e+Eqo4opBG3BGweJuDCNU/k7Z4iCZw2AnHW6KcNfR7f7Snw9l6SYmi7TfaGQDz1JHTTC16rY7ZqKcadTIq01GSOMK/2AbNcsEo2BrPUeXTS0BOVjMblldgqXzbuU3lLmS2NqeEI7YFDBScsH0VSAtrXanY+XMYmjARffn/VRcp5shUDPpetFrJWgY=;5bAuJ/ploldSqknHft4n/g=="
 ---
 

@@ -2,6 +2,472 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-15-boca-raton-fla-police-to-join-facial-recognition-program.md",
+      "title": "Boca Raton, Fla., Police to Join Facial Recognition Program",
+      "excerpt": "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
+      "originalUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
+      "publishedDateTime": "2022-06-15T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-the-hands-off-tech-era-is-over.md",
+      "title": "The Hands-Off Tech Era Is Over",
+      "excerpt": "More government intervention will slow tech down. Is that good or bad? Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share. By Shira Ovide It’s clear more than ever that governments will no longer leave technology alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/15/business/15OnTech-laissezfaire-NL/15OnTech-laissezfaire-NL-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
+      "publishedDateTime": "2022-06-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-ai-pioneers-honored-with-spains-princess-of-asturias-award.md",
+      "title": "AI pioneers honored with Spain’s Princess of Asturias Award",
+      "excerpt": "A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias Award",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/",
+      "originalUrl": "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/",
+      "publishedDateTime": "2022-06-15T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-tesla-and-honda-report-over-350-crashes-involving-advanced-driving-assistance-systems.md",
+      "title": "Tesla and Honda report over 350 crashes involving advanced driving assistance systems",
+      "excerpt": "Tesla Inc. reported 273 crashes while Honda reported 90 involving advanced driving assistance systems, including Autoplot, since July, according to newly released data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems",
+      "originalUrl": "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bea0abb-d21b-4fc6-844b-d80074aa7d77/90f0e8b4-2400-4c2b-b458-a73d8745f190/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp",
+      "publishedDateTime": "2022-06-15T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars.md",
+      "title": "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars",
+      "excerpt": "One controversial posture by AI Ethics is that we can purposely devise toxic AI or biased AI in order to ferret out and cope with other toxic AI. As they say, sometimes it takes one to know one. This includes self-driving cars too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6282b4794ea6e86efd7eea24/0x0.jpg?format=jpg&crop=1534,862,x0,y79,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-06-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago.md",
+      "title": "AI finds hidden evidence of ancient human fires 1 million years ago",
+      "excerpt": "An AI tool has spotted subtle evidence of changes in flint tools that indicate ancient humans had cooking fires at a 1-million-year-old archaeological site in Israel",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/",
+      "originalUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/06/13134051/SEI_109554959.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/",
+      "publishedDateTime": "2022-06-15T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-tabnine-raises-155m-for-ai-that-autocompletes-code.md",
+      "title": "Tabnine raises $15.5M for AI that autocompletes code",
+      "excerpt": "Tabnine, a startup creating an “AI-powered assistant” for software developers, today closed a $15.5 million funding round co-led by Qualcomm Ventures, OurCrowd, and Samsung NEXT Ventures with ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/",
+      "originalUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/sublime_python.jpg?w=680",
+          "width": 680,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/amp/",
+      "publishedDateTime": "2022-06-15T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.md",
+      "title": "KAIST develops robot skin that can sense tactility and recover from injury",
+      "excerpt": "The Korea Advanced Institute of Science and Technology (KAIST) said its research team has developed a robot skin that can sense various external tactile stimuli and recover from injury when it is cut or damaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
+      "originalUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0622/kaist.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
+      "publishedDateTime": "2022-06-15T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-did-you-know-some-australian-retailers-use-facial-recognition-on-you.md",
+      "title": "Did you know some Australian retailers use facial recognition on you",
+      "excerpt": "Did you know major Australian retailers Bunnings, Kmart and The Good Guys are using facial recognition technology on their customers in stores? If you answered no, you’re not alone. According to an investigation by Choice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techguide.com.au/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/",
+      "originalUrl": "https://www.techguide.com.au/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techguide.com.au/wp-content/uploads/2022/06/FacialRecognition1-450x300.jpeg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techguide.com.au/amp/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/",
+      "cdnAmpWebUrl": "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/",
+      "publishedDateTime": "2022-06-14T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Guide",
+        "domain": "techguide.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-explained-and-tested-teslas-self-driving-autopilot.md",
+      "title": "Explained and tested: Tesla’s ‘self-driving’ Autopilot",
+      "excerpt": "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg",
+          "width": 1800,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
+      "cdnAmpWebUrl": "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
+      "publishedDateTime": "2022-06-14T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-the-3-things-an-ai-must-demonstrate-to-be-considered-sentient.md",
       "title": "The 3 things an AI must demonstrate to be considered sentient",
       "excerpt": "Everybody's talking about the Google engineer who thinks a company chatbot is sentient. But what does sentience mean?",
@@ -732,477 +1198,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-pharmas-blind-spot-successfully-using-ai-to-drive-drug-development.md",
-      "title": "Pharma’s Blind Spot: Successfully Using AI To Drive Drug Development",
-      "excerpt": "Ultimately, we have to remember that AI in drug development isn't about profitability—it’s about the patient. So, make sure your AI doesn’t have any blind spots when you put it in the front seat driving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a73a5af4080243164331d7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/amp/",
-      "publishedDateTime": "2022-06-14T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail.md",
-      "title": "How AI Video Analytics Is Energizing Business Operations For Brick-And-Mortar Retail",
-      "excerpt": "In the end, it's important to find a solution that meets your specific goals and fits well into your existing processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/",
-      "publishedDateTime": "2022-06-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-facial-recognition-system-launched-at-kazakhstans-airports-religious-institutions.md",
-      "title": "Facial recognition system launched at Kazakhstan’s airports, religious institutions",
-      "excerpt": "NUR-SULTAN. KAZINFORM A facial recognition system has been launched at the airports, religious institutions and in underground walkways of Nur-Sultan city, Kazinform has learned at a briefing of the Operational Control Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198",
-      "originalUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inform.kz/thumbs3/radmin_news_2022_06_14_220614122033246e_w320_h240.jpg",
-          "width": 320,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198/amp",
-      "cdnAmpWebUrl": "https://www-inform-kz.cdn.ampproject.org/c/s/www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198/amp",
-      "publishedDateTime": "2022-06-14T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kazinform",
-        "domain": "inform.kz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-former-amazon-robotics-vp-brad-porter-goes-collaborative.md",
-      "title": "Former Amazon Robotics VP Brad Porter goes Collaborative",
-      "excerpt": "Collaborative Robotics aims to build a six-degree-of-freedom robotic art that’s collaborative, works with humans and can meet a wide variety of use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
-      "originalUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1273582733.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
-      "publishedDateTime": "2022-06-14T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-chima-opara-weighs-in-on-ai-bias-cyber-security.md",
-      "title": "Chima Opara weighs in on AI Bias, Cyber Security",
-      "excerpt": "In the end, two words remain on the lips of many — artificial intelligence (AI) and machine learning (mL) Long before now, those terms were used solely by professionals in the tech community, but with the proliferation and commercialisation of technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/",
-      "originalUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/BlacB.jpg",
-          "width": 1439,
-          "height": 1814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/",
-      "publishedDateTime": "2022-06-13T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-artificial-intelligence-tech-stock-symbol-aitx.md",
-      "title": "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX",
-      "excerpt": "AITX SCOT. AITX AVA. AITX Collage. AITX Showcase. AITX ROAMEO. Largest Order for AI Robotics Leader in its Short Amazing History thus far; $AITX Receives a",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
-      "originalUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-06/14/EP_1bc51image_story.jpeg",
-          "width": 893,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-smart-robot-helps-with-congestion-at-narita-airport.md",
-      "title": "Smart robot helps with congestion at Narita Airport",
-      "excerpt": "A robot equipped with artificial intelligence has been put to work to help sort out congestion problems at Narita International Airport near Tokyo.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220614_19_1126159_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220614_19/amp.html",
-      "publishedDateTime": "2022-06-13T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-google-engineer-says-ai-chatbot-has-developed-feelings-gets-suspended.md",
-      "title": "Google engineer says AI chatbot has developed feelings, gets suspended",
-      "excerpt": "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-lamda-3176080/",
-      "originalUrl": "https://www.androidauthority.com/google-lamda-3176080/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg",
-          "width": 1920,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-spotify-to-acquire-ai-voice-startup-sonantic.md",
-      "title": "Spotify to Acquire AI Voice Startup Sonantic",
-      "excerpt": "Spotify said on Monday it will acquire Sonantic, a tech company that specializes in creating hyperrealistic artificial voices. In a blog post announcing the acquisition, Spotify s",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/",
-      "originalUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/GettyImages-1013933284-H-2022.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
-      "publishedDateTime": "2022-06-13T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum.md",
-      "title": "Daily Crunch: AI voice platform used in ‘Top Gun: Maverick’ sells to Spotify for undisclosed sum",
-      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/",
-      "originalUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/03/top-gun-2-val-kilmer-tom-cruise.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/amp/",
-      "publishedDateTime": "2022-06-13T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

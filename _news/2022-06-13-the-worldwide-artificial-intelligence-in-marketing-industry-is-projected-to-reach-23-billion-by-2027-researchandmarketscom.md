@@ -25,37 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "How can artificial intelligence be the next big thing in marketing?"
-    excerpt: "We all know that without a planned marketing strategy, a business cannot thrive. But, the marketing industry is going through a disruption, and as a result of this, we"
-    publishedDateTime: 2022-06-12T08:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Five ways AI will change the view of digital marketing game in 2022"
-    excerpt: "With the steady rise of AI and its continual development, one can only wonder how these improvements to AI will change the digital marketing game in 2022. From chatbots and virtual assistants ..."
-    publishedDateTime: 2022-06-14T14:41:00Z
-    webUrl: "https://techaeris.com/2022/06/14/five-ways-ai-will-change-the-view-of-digital-marketing-game-in-2022/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 34
-  - title: "Artificial Intelligence in Drug Discovery Market worth $4.0 billion by 2027 – Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"AI in Drug Discovery Market by Offering (Software, Service), Technology (Machine Learning, Deep Learning), Application"
-    publishedDateTime: 2022-06-15T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27723446/artificial-intelligence-in-drug-discovery-market-worth-4-0-billion-by-2027-exclusive-report-by-mar"
+  - title: "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027"
+    excerpt: "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis ..."
+    publishedDateTime: 2022-06-13T11:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27667412"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 56
+  - title: "The Worldwide Artificial Intelligence in Supply Chain Industry is Expected to Reach $10 Billion by 2027"
+    excerpt: "The \"Global Artificial Intelligence in Supply Chain Market (2022-2027) by Offering, Technology, Application, Industry, Geography, Competitive Analysis, and the Impact of"
+    publishedDateTime: 2022-06-14T11:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27692264/the-worldwide-artificial-intelligence-in-supply-chain-industry-is-expected-to-reach-10-billion-by-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27692264"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27692264"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
+  - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-06-16T11:11:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
     quality: 0
 
 secured: "ac5uyf2AUPGI+lAm/x5WUnc9UoRp6qWObpgRP5TH1GZsERlj3w2HF44AOeRniA75Dp9yQ+Je1Kk2sQ6sbkb4omVSVgb6jZ+RWqObPAs+h9kxblbN24J+eFuUo+jTo5idZya+L1r2N+xlaH8WvwqLKYk4qky4j3RUSBRNnHwpPMdwreq3owVYbOCilMB4EgboaQYCsPI9xGSTmej7WjIkK468te6bJ4fQkHzcqyh8TaCKn8dxus6f1NoHiw62xRipfFe7EwPxrrMxr5k7L9IYEP/It1KeEKXFKnj+4BTGtcvlGMeu7BfJRMqGhy+k5rpC8qDyR3h3zhCfPljGDVJBMIdhzsk3qwWURBUQ9iC97vY=;ZDk0r8G835wWzc3ekxnisg=="

@@ -31,6 +31,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
+  - title: "The Worldwide Artificial Intelligence in Marketing Industry is Projected to Reach $23 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-06-13T11:44:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-56d77200fa8c4b1c967b0b3dabc1a143"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
     excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
     publishedDateTime: 2022-06-16T11:11:00Z

@@ -43,6 +43,20 @@ related:
         width: 1439
         height: 1814
         isCached: true
+  - title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
+    excerpt: "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ..."
+    publishedDateTime: 2022-06-16T19:30:00Z
+    webUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 54
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
+        width: 860
+        height: 520
+        isCached: true
 
 secured: "6SpOQ41Sry2OY4Ujao+aPSuZFuKr+ASdKs2UYaXkvJRyfEbCJWpPVg6V30VbSIN6LA0e6fNQgm+K/wDcOGuh/FmWtZjPLlWeiIXBOWlaHMjnhCmw+evBWz3m0TIpUri27t2wlFfQGfJbzne8d/PxVlojTXSL/0qrq8wv1Xa8Z/Pthk+kF0/kRHJTHZY9+bnT1LkvPnfL+f1m0tV+ofcyIYxY6XlXbb0YrdXrWJ5x4rJ3di+LRKBhiBGTUBVFWNVyGdfd4GS3poag0l5TrvLIZJ2ksX/c3L13IRr5uP2Hrn661llwj0KvrB+Gvw04BVNZR2P+TWxLAtu2aUo4H+uyMEIGRm448z8j7WmmSOIhc1EI1wIRKCycxG10s/TO6V1fjxaYer3gH62rvU6TSf6rQFq1m5DD8VhVmulqz4Ofu3ALVJ3cO9q3Bmr4rdO/HHKqUbgkWycsyij1X/V5kQaQyXqATiSb41svEeTuMkBIN5kZIn/aDxVVcCHRQ2ZincS2yBlPTQyEs1EkBkcmdBEqxg==;uuYrplBkpqF8lLp3JtDzfw=="
 ---

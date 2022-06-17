@@ -24,6 +24,22 @@ topics:
   - AI in Sales
 
 related:
+  - title: "G2M Insights launches Analyzr service, delivers streamlined machine learning analytics for sales and marketing teams"
+    excerpt: "Enables midmarket and enterprise customers to implement state-of-the-art machine learning analytics in a simple, secure way DENVER, June 16, 2022 /PRNewswire-PRWeb/ -- G2M Insights, a business and tec"
+    publishedDateTime: 2022-06-16T16:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27746168/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27746168"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27746168"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 85
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/06/16203049/Screenshot_144.jpg"
+        width: 521
+        height: 322
+        isCached: true
   - title: "How AI Video Analytics Is Energizing Business Operations For Brick-And-Mortar Retail"
     excerpt: "In the end, it's important to find a solution that meets your specific goals and fits well into your existing processes."
     publishedDateTime: 2022-06-14T10:00:00Z
@@ -40,15 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 Tips for Integrating AI Into Your Business"
-    excerpt: "Rushing to introduce AI solutions without properly understanding how the technology works and how its role will impact processes is misguided. Here's how to take the right approach."
-    publishedDateTime: 2022-06-14T05:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/428213"
+  - title: "Global Deep Learning Chipset Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028"
+    excerpt: "Jun 13, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has managed a study on Global Deep Learning Chipset Market for the forecast period of 2022 to 2028. This report also assists the ..."
+    publishedDateTime: 2022-06-13T16:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How augmented analytics can empower data-driven enterprises"
     excerpt: "Augmented analytics helps organisations deal with the complexity and scale of data that has become typical in digitally transformed modern enterprises, says Jacques du Preez, CEO at Intellinexus."
     publishedDateTime: 2022-06-13T06:38:00Z
@@ -64,6 +85,20 @@ related:
       - url: "https://lh3.googleusercontent.com/hDjJj9ZzGy9L1UTC1nwujzdXD-OK5mfSV8C8qtcltGFxiTXje7XZxzAOjq5DHRrR7_aNKHCI27QO7qIsdclz_W3TCdz3rT5_mic=w816-h428"
         width: 761
         height: 428
+        isCached: true
+  - title: "Charles River Analytics Develops Machine Learning-Based Navy Ship Intelligence Systems Monitoring Tools"
+    excerpt: "Looking for the latest Government Contracting News? Read about Charles River Analytics Develops Machine Learning-Based Navy Ship Intelligence Systems"
+    publishedDateTime: 2022-06-15T20:43:00Z
+    webUrl: "https://executivegov.com/2022/06/charles-river-analytics-develops-machine-learning-based-navy-ship-intelligence-s/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 23
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/06/15/bf/09/e6/e5/72/88/11/24/unnamed-file-21.jpeg"
+        width: 272
+        height: 270
         isCached: true
   - title: "How Geo-Enabled Analytics Improve Outdoor Intruder Detection"
     excerpt: "Smart security cameras use video analytics to detect intruders by automatically “seeing” movement and sending alerts. While this solution works quite well in stable, indoor environments, just imagine what a smart camera must contend with outdoors – where everything moves,"

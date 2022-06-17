@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Boca Raton police to join statewide facial recognition program"
+    excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial cr"
+    publishedDateTime: 2022-06-16T20:44:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21271305/boca-raton-police-to-join-statewide-facial-recognition-program"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 41
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/06/20220615_AMX_US_NEWS_HERES_HOW_BOCA_RATON_POLICE_1_FL.62ab8bc58acfe.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xdQCnA/pxxPIEY8rfSNQ+b096uNYxRfHJWtF/Bt7B72NHg5z8vQkn8dQULUJaa/ukAlSrvPjpcmUcRi/6MbEqcRWseOwFlXHAUi0v0ujdpNRy5vvbxHlxsgzqWUyQup5SeW/FahdIb9L/Jl8P6mdckCSNCiuYeoLvTa2GkVsG42LY7XmwAFna0J2+9tsX078Za94a0oqyPWwKkQGhbTefYA/3rQpax4UIqHRewciOO+++Hvc264JUwzyqtWyOVfFth7x0pmSvNGW+AHtnpfCPOiHBdsKncSfs7tI9S68PPrtH/In0O/o2vdRmb6lT7J/Exahb8MKtRKk0wf1Lt5G6f3Q/HaemlnLsBNaTWfvzzxFL7yP3+E/VbrAAbaxExeDmKWmPVXaVAhrUqKoRTxtz3isT93N9lfDbFmAaoszbyFbBNnm4iWAAvpQ4JFtTeJakTnirY625exrjPr/oPGwgjmvp8FBSmRQ90Jvg6zyOkUKQUgLzioa2c5Gp8NT0hbWP3aYno9sWt/6J7oKoInWgw==;F/fJn5lhtO1k0oEYvbO/8Q=="
 ---

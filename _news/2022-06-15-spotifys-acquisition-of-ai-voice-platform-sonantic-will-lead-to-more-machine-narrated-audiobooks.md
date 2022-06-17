@@ -70,6 +70,15 @@ related:
         width: 1000
         height: 400
         isCached: true
+  - title: "Veritone Acquires Artificial Intelligence Voice Creator VocaliD"
+    excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive enterprise AI platform, today announced the acquisition of VocaliD, Inc., a U.S.-based company that pioneered the creation of personalized synthetic voices."
+    publishedDateTime: 2022-06-16T11:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-f4e631ab3e5f422696e13113875bb0b8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "YfpwwqVdFW8cQhuuncnve8CDOoRoYkMS2pLeK9Woz5RthUbIAwQ7hd2vJJPpbkwLAg7U1P6A2edpkWMqEmGjCFmsh44Qo04HZJpdCcnPo7DNeYDdc9u+R2Twl+5diV5sXksNSbmQSZTBF7Hjb1e2kwsa4evFQY3zf4tSBNBCv1TcO8DISLQLRPiVByDYHuPkkghCa5GByj5txLNnJ/BtLY8ZXSO5jPjq6dw0n2L7fVR5DsdYXUkCArKSJ94EIMqFnhPclNRqia3MhpsdycGGBoHhlcWNlMW4TpDF5StN3DDH1jYZhUJU7u+WOk7Ac2YCt8aeFzBrFmm951LsfceMjjn+u4AVRW8l0GtEC0R/QPW7G1ybNYg6Yj64g1pZjC0+2DovYhnK28qRvNiHRoJF2FdA4v/lWi7E+2ZCJfViwWEvRxQboDH1Ds/dpNqGakSKcsDQVZLYed+slrZVvlUj1pjI+6mIPNuGWxlaUiAEhDp+HPJoS8VvShpWHJEOCBCq0kFtkruse9JZORULWlK8Xw==;AoFUza+4vcM+7IlF0X9XLA=="
 ---

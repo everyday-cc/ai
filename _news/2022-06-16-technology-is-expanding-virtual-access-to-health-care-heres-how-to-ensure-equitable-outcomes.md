@@ -24,6 +24,17 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Viewpoints: Virtual Health Care Is The Future; How To Make Hospital Stays Safer For Patients"
+    excerpt: "Stat: Ensuring Equitable Global Access To Virtual Health Care Virtual health capabilities ... from bots that screen people for common illnesses to artificial intelligence that can read X-ray ..."
+    publishedDateTime: 2022-06-16T13:00:00Z
+    webUrl: "https://khn.org/morning-breakout/viewpoints-virtual-health-care-is-the-future-how-to-make-hospital-stays-safer-for-patients/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 0
+
 secured: "Kt6rYwtsA2l6klHD875s/MiT4e1D/J1nehvnVTShVs9GcMn2us38w126kD8TpsjI91mhRIVwyz+4JHQq+nA/FVHS+24WCBXEG6HaB7VJOTaESEPwMeIT6UzZjxfuK/4qaNAJJAiTw0ynN5SyrxpRNUtbxQ2bD/PzT3SqY4J0rmhrM1Iv9ZHDN2B8cepyf7RWeRcfLOGzh+LZjhjL1LXlTrIJZToQSYSYmyk3oiGtStBh0w65LxUKRUlNFZpMoqB4QsZ21FCn8G6phbJIlLRmbSc4xf3f1ftnuvOsLqiVZzrxwRTArWUBxtFQfLVswq4XAoc+a5Ed6RuBK/IY5O/OwVtk0bxZAJVOLsLIKe+O3n8=;B+v0iN+NkRyWDZftizkJTA=="
 ---
 

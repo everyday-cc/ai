@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/"
 type: article
 quality: 108
-heat: 298
+heat: 308
 published: true
 
 provider:
@@ -228,6 +228,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Has a Google AI Become Sentient?"
+    excerpt: "Hello, everyone. Happy Thursday! Last weekend, an interesting story was published about a Google engineer who has been suspended after publicly claiming that one of the company’s artificial intelligences (AI) has become sentient."
+    publishedDateTime: 2022-06-16T17:43:00Z
+    webUrl: "https://www.aei.org/articles/has-a-google-ai-become-sentient/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
   - title: "Google engineer put on leave claims AI bot LaMDA became ‘sentient’"
     excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, told the Washington Post that he began chatting with the interface LaMDA — Language Model for Dialogue Applications — in fall 2021"
     publishedDateTime: 2022-06-12T13:43:00Z

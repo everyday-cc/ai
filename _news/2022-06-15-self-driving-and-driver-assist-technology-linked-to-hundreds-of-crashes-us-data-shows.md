@@ -168,20 +168,6 @@ related:
       name: Click2Houston
       domain: click2houston.com
     quality: 19
-  - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
-    excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"
-    publishedDateTime: 2022-06-15T15:44:00Z
-    webUrl: "https://www.djournal.com/lifestyle/health/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_3fc33157-165d-52fa-9946-037ca0f91145.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/30/f30163a9-f9df-5c40-ae14-e00b0d1979b1/62aa05e102d40.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla, Honda Among Those To Report Advanced Driving Systems Vehicle Crashes-U.S"
     excerpt: "Tesla Inc reported 273 vehicle crashes involving advanced driving assistance systems like Autopilot since July, while Honda Motor identified 90, data from U.S."
     publishedDateTime: 2022-06-15T13:30:00Z
@@ -191,6 +177,15 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 15
+  - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
+    excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"
+    publishedDateTime: 2022-06-15T16:30:00Z
+    webUrl: "https://madison.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_fd3fe68a-9f93-5397-8f41-6509fbd3c020.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 0
 
 secured: "mt3FBdWsRAcxDDs84UGzn823WcFKaVScQ931WsQDcZI56eOSel2cF9YGqmuXV+fol8rpLokwLKWwFp2j+7nnriSXM+YDkPykpcBQdxtsmYrMpIgzZuYYg+fpo0FaCYhhtK9GcQcLAQ9OO0jlys8LroGIgusWQW81chpx9SdyBMIA+JPCRkgOS0hix302dsH4hMxoW5Qyvsd3cNGjI42wFHLSE0/Flq0ZPiFAJp/73mzWaDjyYll5SEGag8+rxFL4hoxwvC2xedHVE4cB0yO9PZs3NDCXDVuAfcSTHOi1D/fh8Sf8OHOPrQ3mRkbyd2cNoZhhsTeA4Z/TrHJsyfMqfJwvXS5VP113mMPE7D3oiq4=;pcafdZu536/9LnTEpoAg7A=="
 ---

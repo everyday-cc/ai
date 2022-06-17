@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "meldCX and American Kiosks Launch Smart Self-Service Kiosks"
+    excerpt: "CX is partnering with American Kiosks, a Colorado-based self-service kiosk manufacturer simplifying the process of deploying"
+    publishedDateTime: 2022-06-16T12:30:00Z
+    webUrl: "https://enterprisetalk.com/news/meldcx-and-american-kiosks-launch-smart-self-service-kiosks/"
+    ampWebUrl: "https://enterprisetalk.com/news/meldcx-and-american-kiosks-launch-smart-self-service-kiosks/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/meldcx-and-american-kiosks-launch-smart-self-service-kiosks/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/meldCX-and-American-Kiosks-Launch-Smart-Self-Service-Kiosks-01-1.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "meldCX and American Kiosks Take Contactless to the Next Level with Smart Self-Service Kiosks"
     excerpt: "CX and American Kiosks announce close partnership, combining state-of-the-art hardware with smart technology and reliable field services Partnership will create new opportunities across the connected ecosystem,"
     publishedDateTime: 2022-06-16T03:23:00Z

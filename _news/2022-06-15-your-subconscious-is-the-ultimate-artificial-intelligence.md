@@ -8,8 +8,8 @@ webUrl: "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimat
 ampWebUrl: "https://businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/"
 cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/"
 type: article
-quality: 57
-heat: 57
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/Untitled-design-2021-01-13T165155.785.png?resize=450%2C300&ssl=1"
@@ -25,6 +27,6 @@ images:
     height: 300
     isCached: true
 
-secured: "gF1e4XIcgmxm3rRLJG5ZiYdas/ILqnaieFnUpeljdT8IKHxRMDfYz9w8YkeALvZyF3qANqN7Wc+VWR6UrLGjj77mtFoB5DV73MOjKmc/pvTPUMGhCk4YNc5cwZjV90NJacBDl1ZsNNP4G9P7b7uCMbhpDyG3jM+ptXWGBZ5pALLeC4a1RFwCdHRRHDKsnPHhaiHUEymoB6LatXECOeSQK1PSOpa9Vm/dLHxon1sFSXHHO0IlGHm0SPZOkhfJqmCGlVZ9FDtrD0Ap87RnwY90MqtsNi0Nd2dGoUL5rGU9hgp1fiHhhglq5Y8inYL1qC+rKi8ceX2o7f/7BKzaI54hdSn2OKsEJs56Rzo9o67nzYQ=;rRP8VJOYMGx1EoqKAT+k9w=="
+secured: "STwBx1XomTjyfuPpi7RCtHt0RxT6+ta3ObrcIYm8bx98VT4SSoC+TkXZTT0aA52RQkSxcenr+15FMO4qU61JpTzBQI60DOvocqY0Efs0BlSJwT009gZDD41//sEtNlLCfDS/nIT4AEjPdTnVcR2Bv0ZSENUz26ZDcyV+rjqTr3UCLB39iwsQ6610nBy9sWRaKCUu/MKmwJOeZ6/ASuBIZsTDoe0jIC/Ui1lgWVbd+Pb7CM9G9uFfnj9gnHO8/fkZO7Oa32KSNeHc7SNS3tggkUtcEGheqOEvEOh5sa7DEgcN27+E61leSUte3cYkC/9scLa87BUpv6Jonhf0UtPnBxkwRg2DGuIUTbNGsU1bZ0diwaiTZF1DDWAsci0B3HUM3EBEbrSTZNMCCQipc04tXuUwfMlWDu+LpckXgdYAoKC2Yfmwbd2Gw7CFOY6SZGYMR1yLztj8WTRz+VXr5xjzGohO0lJYk1uCsM0Ou4w3OLhxuH+A9SNsGB/Q3xNcPeWNnXplZHkEv5XojOVMYrmOsA==;QSXE8c3M8KRscmVxRBoFig=="
 ---
 

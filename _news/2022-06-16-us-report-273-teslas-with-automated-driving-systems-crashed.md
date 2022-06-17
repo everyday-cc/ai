@@ -167,20 +167,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
-    excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"
-    publishedDateTime: 2022-06-15T15:44:00Z
-    webUrl: "https://www.djournal.com/lifestyle/health/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_3fc33157-165d-52fa-9946-037ca0f91145.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/30/f30163a9-f9df-5c40-ae14-e00b0d1979b1/62aa05e102d40.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla, Honda Among Those To Report Advanced Driving Systems Vehicle Crashes-U.S"
     excerpt: "Tesla Inc reported 273 vehicle crashes involving advanced driving assistance systems like Autopilot since July, while Honda Motor identified 90, data from U.S."
     publishedDateTime: 2022-06-15T13:30:00Z
@@ -190,6 +176,15 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 15
+  - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
+    excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"
+    publishedDateTime: 2022-06-15T16:30:00Z
+    webUrl: "https://madison.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_fd3fe68a-9f93-5397-8f41-6509fbd3c020.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 0
 
 secured: "4fuLMPGvgg14MCMIO6d3ZX8laPJwLOaXQOFD7Btq/spl1fnSiVGSO6I4CivsMit3duCOMOEoNVyj4j8J6O4lightZyWDYqLM+TwK4qXZlVRUdOmrg9STmNPypRcZM9tuC+POkA6poS3PPyXkrc3sJ1/BxlHkY3Dlh+d29a8HwOmp5pu1pv8ITz+j0S9F1e8ukM54zHKbBS3dDY87bqMyFQw2H6WP2GHq/RWGQfUPb/EOL+JPbVeqKkJqBrJiLz0fqtHX9bpaNnorjcwvGONnuiC4XyJWDZQBLENndPYSKy9U5Kp/AfxOEaGL/mdFQbduov2NJMKFlnvG4Zq+r+CwtfStSEt1BVEfKS3guST1G7eSRM8NmQMS4ikLsAy8koq3vpCa/htAPeGXKgqEMLGPkl64L5W/k7aJjhQ244FtZwhwcfvB9psY89PSie7P0KgaBI52Alq8rWlK+t8GImp+uT2l+SJXW/gOAYxdJ3lsaPyXLo0AvN9k6ku87jJtpmDjpFVXn6iCVr7tRCJI895JsQ==;OtcNmHGwAevgjuQ9ad6smw=="
 ---

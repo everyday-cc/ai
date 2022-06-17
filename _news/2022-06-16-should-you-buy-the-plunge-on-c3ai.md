@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T12:24:00Z
 originalUrl: "https://www.nasdaq.com/articles/should-you-buy-the-plunge-on-c3.ai"
 webUrl: "https://www.nasdaq.com/articles/should-you-buy-the-plunge-on-c3.ai"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Nasdaq

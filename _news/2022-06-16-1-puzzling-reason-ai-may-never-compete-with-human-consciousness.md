@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai
 webUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/"
 type: article
 quality: 67
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,14 +28,30 @@ images:
     isCached: true
 
 related:
+  - title: "Google's New AI Is Not Conscious: Firm's AI Engineer Explains Why"
+    excerpt: "Numerous recent reports speculated about Alphabet Inc.'s (NASDAQ: GOOG) (NASDAQ: GOOGL) natural language processing artificial intelligence (AI) software"
+    publishedDateTime: 2022-06-16T22:45:00Z
+    webUrl: "https://www.benzinga.com/tech/22/06/27752198/googles-new-ai-is-not-conscious-firms-ai-engineer-explains-why"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27752198"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27752198"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/06/16/ai.metamorworks.shutterstock_1348479254.jpg?width=1200&height=800&fit=crop"
+        width: 854
+        height: 569
+        isCached: true
   - title: "8 Reasons Using AI Will Improve Your Content Creation Process"
     excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
     publishedDateTime: 2022-06-15T23:03:00Z
-    webUrl: "https://www.timesunion.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    webUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/26/15/72/22601374/3/rawImage.jpg"

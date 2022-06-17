@@ -3,11 +3,13 @@ category: news
 title: "TechScape: why you shouldn’t worry about sentient AI … yet"
 excerpt: "A researcher says Google has created an AI being with smarts and soul, but my own attempt reveals the truth behind those claims. Plus, the latest crypto crash"
 publishedDateTime: 2022-06-15T10:19:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence"
+webUrl: "https://www.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "ESjTDAMh+6rOEgsWxLij5GpIBu1t4oRis2sSELg6CRBzLuEfRUjvuDjl74ZaOQ6muiaNahttoes+K3gN4/7L7zRPbtBqR4gwPc7jdOUO92ja8ur4vYlyCuXqUtor6/fDlwXnfljs+VQeYGcmKGqgEfv4FKR23iITNgA9neNtiJiRcJ3WZImrRzipFepJAly7Y2VOXW52IdgXDJKAiC7906o1IYILEHvdlkLj6uZojOGTVy/H1IvX3h4XufIwZDqfeWyC2Od+OCeFv0p9lF5ows0q2a4yAfF+uM+3cinKeoDIq4aofCfeXJ34CUnLRKOX0rZnTkTwu292D6nfbCePd/kOSiPx0GXP9RTvD7XDGv/cWazlLJyVndb9SCYEECBdwlyvKWhKT5x+FQ7d8MX0f1yVbWjZQuBlEMDzhHOBw3r++7cX1nxuVzHpiPOBAr1QMlyRQyN4n/nXOBrHsIlkQ8yq6Y7Ofe+DCJDNOFtFkCzTEsJArGB/4wxrE8Nahb3jPA4jMN3MtMBHbROjoud11A==;XpRBMoJVL2GXEb/a+sEghA=="
+images:
+  - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/1522_1043_2637_1582/master/2637.jpg?width=620&quality=85&auto=format&fit=max&s=50982f1d3219a19b19768fcd8276e7d7"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "ZNP6TbfCNxktZ59cqEhaHxM8zrjowscgB5KUDttqlqJDae4Ntvx1o/pesRWSgkoKfs9c1p3SLXO3y6zYgoJB9+yJhWsmw9W3S4NOK0/LhEALVr1vVUdhIFlHOe8wOxLuxtkUAYbAQ6BvrwBXUgjjSgQgVqee9Wjoy0kcBvm1OXWI4Bzx7e2xMSm8GA/nF/+31825i3npHAr0j/3q3ZN+SIk4QeHJAGgIB7raA6PW4diHLFr3WvNU299hE5z28UVwGbtAAUMSW125nc2UpSdlxilSjP+7zS3Cc3+lXvaaLTN259bb+28/JtJNPvRuhwNuhJnQTnZPUdb3j8PC8ZUIA0rS2Rokx90oltI3QlfKQQ4=;tla9WobCsZZjXIwRXbwOvA=="
 ---
 

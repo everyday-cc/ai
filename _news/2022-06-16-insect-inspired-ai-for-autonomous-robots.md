@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-ro
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp"
 type: article
 quality: 74
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Developing talent in robotics and AI for automated machines in Brabant"
+    excerpt: "AI and robotics are closely aligned, with developments for both accelerating in the Netherlands province of Brabant."
+    publishedDateTime: 2022-06-16T12:21:00Z
+    webUrl: "https://www.power-technology.com/sponsored/developing-talent-in-robotics-and-ai-for-automated-machines-in-brabant/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 49
 
 secured: "qCvK6PedbQKpPFAEdPqe4PiLtGKayEJ79b8w93ZFb6Oxjp2tuysL6OJi9eF9vE686+hlUAB2KccHmg/IYKqJf+qR8qThtb0g1/axxXAMhtvN3PKfmqaK44tOG9sWRrQs9sq1y09EZHB+MDAZXnLIC6JorBEX6liN9rEKAPXGaLNGL8xZ6hTvMhMduIIQSfYE1riHs2xJUZyx6k6lQVQGiNBXcBcmHDQJudR0d0wXPDJPQuj6HETo76YSekXxL9roczGPp8dgm06wbd4zxGtzvg7NnYrSePLTKvpFRSlybHRJokTLxKFCR7yVSX3mKLAQcNjVlSM2XIho8flJjAtt4e4gCEqLaWAsb48D44bHtn0C8+wVBUhTxUhBhVE0R6zGyOJHGwRChJPGh3QUFKLRrbxfX69rGoHLP0SCAnpFBAgej4avSRBV2NKx7nTDdLGrH9x75fzsTN1CtrZkxjwtAqfvps1grUmmVmdfYcyGikokFYl1Io6gUgHbhTk0OafzzseLIVgWeukmTJ6/6TTQ/A==;G3dwep7mCz0HbY3Fal3Icg=="
 ---

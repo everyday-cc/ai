@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/5de1e47772871d2cdede7663cb5514cc764a5e8a/2022/06/08/adfb4415-c4ca-4702-9690-fe2133e65f9d/hungryroot.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 900
-        isCached: true
-  - title: "How AI is transforming the customer experience in retail business"
-    excerpt: "But it’s important to know which part of AI works best for the retail business. If you’re ready to start improving your company’s customer experience with cutting-edge AI technology ..."
-    publishedDateTime: 2022-06-12T08:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/techbusiness/how-ai-is-transforming-the-customer-experience-in-retail-business-43323/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "dgZN9dufmjm9tiFOHarAiRQe56d7stMitzwpozdlsIibBiFMF8PXWSWZcKr0Wrekee8x9pwm5ABD3DlqunPDCpCNRzRqCvUIsfo7/2xxhrw0a2DlUUp2vVGk6XteaM+av6XWASUbH4gkRfNrgn/+v4ZquSl78pRigN3KMccpmBU6NLicsbkUqLoKF7h9i69PnEIuX+CvNiO/GlQ2O9ZjqvFQnnTT7tpba4nGVfampav9Hf7MdBsQAVGpYcHTtVbcUQdCWO/auw6yVvSHbvCGY0Ot6wPnenALAEfs6SsgeBH/V7pGNPOv0GYVz/EkZxeUUs/yK7GXPYG+IIF25+tEfDNgWqZcEpdvDZBx/wXVT6b9ZrW3DQibhmDfOUNjB44ekiOXvGPu9KoNDexgXqF+UFOnZZeLXAs98afQuy/D602bEW7RRteQkMWzMq7KV+nblTWHmN8rTm9Kgobev3Nnoo8hs5c2RzUVDx3SGBPr//VrML64mPd4fPhuz5Idk3dgjijUSlq0Xz5r0DLcXWQF+w==;eIMOmG3u4rfU2nPJSwx+bw=="

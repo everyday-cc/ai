@@ -41,6 +41,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 36
+  - title: "The Worldwide Artificial Intelligence in Marketing Industry is Projected to Reach $23 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-06-13T11:44:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-56d77200fa8c4b1c967b0b3dabc1a143"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "YLeP7m0AkpEjm5WHhdYxAgcAzb5oKOmmqj2AuE2Bng3ijTPybI1YbmGqf6TGzxtidjqC44cdQIDf6HhvH6yIv+IusPpyN71a4F++l/LfHTlXEN6sood9ZQ+u8czKJ0qGyh82U5GcQcAWtFvUCADpk69+oh4szHZfmM+zCmUxdmNRnTZcS5XMfg46u+6rF/PsMVVwEjYI1DbYos1ZYYVNvwMa/L46YzMWW7ICwMI1dXpIvjwYb/0TcbPRlY5RpXdllNfmmahexbe54OEdjnWwjinvQZvTF36bn1BHZTal+PNMdgsiaDHGn+reO1kF+T78WyTbZdDHayFzdny7Boitn+LPyKNyk0RwDngu/bw09rw=;s0fEzr7BZpy55D9tsC2kbA=="
 ---
