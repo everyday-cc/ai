@@ -117,20 +117,6 @@ related:
         width: 375
         height: 375
         isCached: true
-  - title: "CaixaBank and Microsoft Establish Innovation Laboratory for Artificial Intelligence Solutions and the Metaverse"
-    excerpt: "CaixaBank and Microsoft have signed a strategic joint innovation agreement intended to promote the application of Artificial Intelligence (AI) to new financial solutions, as well as to create new and innovative work environments in the metaverse."
-    publishedDateTime: 2022-06-13T17:01:00Z
-    webUrl: "https://financialit.net/news/banking/caixabank-and-microsoft-establish-innovation-laboratory-artificial-intelligence"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 51
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_2_10.png"
-        width: 900
-        height: 480
-        isCached: true
   - title: "Microsoft improves Azure’s accessibility for AI workloads"
     excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
     publishedDateTime: 2022-06-16T11:28:00Z

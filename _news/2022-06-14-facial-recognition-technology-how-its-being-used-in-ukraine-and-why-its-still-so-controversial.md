@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-it
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
 type: article
 quality: 61
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://rnz-ressh.cloudinary.com/image/upload/s--vVa9mFY3--/c_scale,f_auto,q_auto,w_1050/4M9Y749_copyright_image_264530"
         width: 1050
         height: 630
-        isCached: true
-  - title: "Health organization moves to facial-recognition technology"
-    excerpt: "VHC Health – formerly known as Virginia Hospital Center – is slated to implement “positive patient identification” (PPID) using facial biometrics at its facilities, making VHC the first health-care sy"
-    publishedDateTime: 2022-06-13T15:53:00Z
-    webUrl: "https://www.insidenova.com/news/arlington/health-organization-moves-to-facial-recognition-technology/article_05d2e654-eb31-11ec-bc3c-ff10b9fe5278.html"
-    type: article
-    provider:
-      name: INSIDENOVA.COM
-      domain: insidenova.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/custom/image/d67912d4-211a-11e6-ad8b-8f0a9483ff88.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
   - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
     excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"

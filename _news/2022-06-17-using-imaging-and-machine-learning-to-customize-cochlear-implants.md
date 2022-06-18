@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-06-imaging-machine-customize-coc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-imaging-machine-customize-cochlear-implants.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Local researchers using artificial intelligence to lead the way in bedside lung imaging"
-    excerpt: "A team at Lawson Health Research Institute are testing a new form of artificial intelligence (AI), paired with portable ultrasound machines, to image and identify lung concerns in real time, right at the beside of critically ill patients."
-    publishedDateTime: 2022-06-13T15:06:00Z
-    webUrl: "https://hospitalnews.com/local-researchers-using-artificial-intelligence-to-lead-the-way-in-bedside-lung-imaging/"
-    type: article
-    provider:
-      name: hospitalnews
-      domain: hospitalnews.com
-    quality: 31
-    images:
-      - url: "https://hospitalnews.com/wp-content/uploads/2022/06/Lawson.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Understanding Learning by Inference"
     excerpt: "suggesting that Microsoft shares will likely drop soon, too. “Knowing this hidden relationship means you can learn a lot faster,” Boorman said. To investigate how humans can use a cognitive map to learn information, graduate student Phillip ..."
     publishedDateTime: 2022-06-16T15:34:00Z

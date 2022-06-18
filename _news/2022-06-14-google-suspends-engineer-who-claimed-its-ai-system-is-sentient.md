@@ -30,148 +30,72 @@ images:
     isCached: true
 
 related:
-  - title: "What Exactly Was Google's 'AI is Sentient' Guy Actually Saying?"
-    excerpt: "A software engineer working on the tech giant’s language intelligence claimed the AI was a ‘sweet kid’ who advocated for its own rights ‘as a person.’"
-    publishedDateTime: 2022-06-13T15:25:00Z
-    webUrl: "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005"
-    ampWebUrl: "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp"
+  - title: "'Is This AI Sapient?' Is the Wrong Question to Ask About LaMDA"
+    excerpt: "The uproar caused by Blake Lemoine, a Google engineer who believes that one of the company’s most sophisticated chat programs, LaMDA (or Language Model for Dialogue Applications) is sapient, has had a curious element: actual AI ethics experts all but ..."
+    publishedDateTime: 2022-06-14T14:44:00Z
+    webUrl: "https://www.wired.com/story/lamda-artificial-intelligence-sentience/"
+    ampWebUrl: "https://www.wired.com/story/lamda-artificial-intelligence-sentience/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-artificial-intelligence-sentience/amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
+      name: Wired
+      domain: wired.com
     quality: 89
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6c5ee672b2dac87691f1fa8400ddcc62.jpg"
-        width: 800
-        height: 533
+      - url: "https://media.wired.com/photos/62a88595e1a7c9ca5f0da158/master/pass/AI_Sapient_Science_GettyImages-1241233246.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "This Stanford researcher isn't worried about Google's 'sentient' chatbot: A truly sentient AI could be '50 years' away"
-    excerpt: "First came HAL-9000 and The Terminator. Now, Google's LaMDA chatbot? Last week, Google suspended an engineer for breaching the company's confidentiality policy, after he publicly revealed his conviction that the search giant's AI chatbot LaMDA had achieved ..."
-    publishedDateTime: 2022-06-15T16:37:00Z
-    webUrl: "https://www.cnbc.com/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
+  - title: "Google engineer thinks company’s AI ‘LaMDA’ has become sentient: Here’s all you need to know"
+    excerpt: "Social media had been abuzz with debate over the sentience of Google’s artificial intelligence LaMDA or Language Models for Dialog Applications after Google engineer Blake Lemoine claimed the AI has become sentient."
+    publishedDateTime: 2022-06-14T09:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-engineer-thinks-companys-ai-lamda-has-become-sentient-heres-all-you-need-to-know/article65526274.ece/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 48
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107075897-1655253091693-gettyimages-1397188618-dani1.jpeg?v=1655253114"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "Google Engineer Suspended After Saying Company AI is Sentient"
-    excerpt: "Google suspended an engineer last week for publicly revealing details of a chatbot powered by artificial intelligence in violation of the search giant's confidentiality policies,"
-    publishedDateTime: 2022-06-13T18:07:00Z
-    webUrl: "https://www.cnet.com/tech/google-engineer-suspended-after-saying-company-ai-is-sentient/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
-  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
-    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
-    publishedDateTime: 2022-06-14T15:20:00Z
-    webUrl: "https://abc7.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    ampWebUrl: "https://abc7.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Can the new Google chatbot be sentient?"
-    excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
-    publishedDateTime: 2022-06-14T17:42:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://www.thehindu.com/incoming/1gnup5/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
+      - url: "https://www.thehindubusinessline.com/incoming/sdfc36/article65384473.ece/alternates/LANDSCAPE_615/IMG_bl19_AI_pic_pg1_2_1_K793GH2G.jpg"
         width: 615
         height: 383
         isCached: true
-  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
-    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
-    publishedDateTime: 2022-06-14T20:20:00Z
-    webUrl: "https://abc7chicago.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    ampWebUrl: "https://abc7chicago.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
+  - title: "Matrix Origins? Google engineer's claims of a sentient AI LaMDA, What is it and implications of the technology"
+    excerpt: "A Google engineer’s claim about sentient Artificial Intelligence has opened up debate – not about an imaginary and distant future where machines take over mankind but the moral “trolley problem” that advanced AI systems could present operators with."
+    publishedDateTime: 2022-06-14T09:34:00Z
+    webUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743"
+    ampWebUrl: "https://www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/exclusive/matrix-origins-google-engineers-claims-of-a-sentient-ai-lamda-what-is-it-and-implications-of-the-technology-article-92202743/amp"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 44
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 37
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+      - url: "https://static.tnn.in/thumb/msid-92202743,imgsize-100,width-1280,height-720,resizemode-75/92202743.jpg"
         width: 1280
-        height: 720
+        height: 719
         isCached: true
-  - title: "Engineer at Google Fired for Saying AI at Company Is Sentient"
-    excerpt: "Google dismissed an employee for violating the search giant’s confidentiality regulations by publicly disclosing information of a chatbot driven by artificial intelligence. This is the latest disturbance to Google’s AI department."
-    publishedDateTime: 2022-06-13T20:53:00Z
-    webUrl: "https://bestgamingpro.com/engineer-at-google-fired-for-saying-ai-at-company-is-sentient/"
+  - title: "Sentient AI?: Here's what the Catholic Church says about artificial intelligence"
+    excerpt: "An engineer at Google made headlines this week after raising concerns that Google’s artificial intelligence system, Language Model for Dialogue Applications (LaMDA), may have developed sentience — in other words,"
+    publishedDateTime: 2022-06-15T17:53:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/251552/sentient-ai-heres-what-the-catholic-church-says-about-artificial-intelligence"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 41
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-Engineer-Suspended-After-Saying-Company-AI-Is-Sentient.png"
-        width: 600
-        height: 365
-        isCached: true
-  - title: "Has Google really built a sentient AI?"
-    excerpt: "A Google engineer has been put on leave after claiming an artificial intelligence chatbot might be sentient. Is he right? Our CTO Ben Gracewood has opinions. On Sunday, Google engineer Blake Lemoine posted the transcript of a remarkable conversation between himself and a Google AI that he claims to be sentient."
-    publishedDateTime: 2022-06-13T17:04:00Z
-    webUrl: "https://thespinoff.co.nz/tech/14-06-2022/has-google-really-built-a-sentient-ai"
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 29
+  - title: "Google Engineer Believes That the Company's AI 'LaMDA' Has Become Sentient"
+    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated AI chatbot that produces text in response to user input. According to software engineer Blake Lemoine, LaMDA"
+    publishedDateTime: 2022-06-14T05:00:00Z
+    webUrl: "https://www.realclearscience.com/articles/2022/06/14/google_engineer_believes_that_the_companys_ai_lamda_has_become_sentient_837221.html"
     type: article
     provider:
-      name: The Spinoff
-      domain: thespinoff.co.nz
-    quality: 39
-    images:
-      - url: "https://thespinoff.co.nz/_next/static/media/mad-chapman.f3d01208.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Is Google’s Artificial Intelligence Bot Sentient? Not Everyone Is Buying It"
-    excerpt: "Although the artificial intelligence community often disagrees on key issues, it has mostly rejected the assertion that the LaMDA bot is sentient."
-    publishedDateTime: 2022-06-14T02:00:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/google’s-artificial-intelligence-bot-sentient-not-everyone-buying-it-202986"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2018-08-08T083600Z_1231248563_RC1A7B512710_RTRMADP_3_CHINA-GOOGLE.JPG.jpg"
-        width: 1200
-        height: 770
-        isCached: true
-  - title: "Google says its artificial intelligence is not sentient"
-    excerpt: "Artificial intelligence researchers say the debate over whether Google’s LaMDA chatbot is sentient is an unfortunate distraction from more pressing issues in the industry."
-    publishedDateTime: 2022-06-15T05:58:00Z
-    webUrl: "https://mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 37
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 17
 
 secured: "TDrsoOFb6W2hxAJkMd/AUNTCZw2jsa8kR0q1VDIHjaL3Nupdur/RgNHmk5l8j+h3wWO4C9iiTlfKAncFP+OgcKiyL31vo8038z1JS3dQwDSmHulzbf0ydX/D3VoPzbX+2ibLtRD0pICQhmuRmiuwgbyeOv/bFy3obVPxlHIGbO3Ii3cUeulZvlBoDaGvnzdq0Zd8JtkLltMWpXLGXEs1nEFQ2XiJ3nsH+hd1UyrTCrHst33BH+N7apyNxOLsKfzXkLlaKuzGxtklZxCroUMmNpHBC40rXVeyV03lsYjBUOs2PuUMqcHFFvO8XWGj4wdsPug1U2MYWUcxqtMvHpWLMK1Tmdtl9QqBD5BX/ceMJHNdl6t0oTX/TI2NlIkIWQr0SX2UNxiHVk4Es380E/xpLGsBJS6zn82iFkP2WhRTuSCfVDlKorLHjGAXvcNa4eLd8W+GqBnwGwlnonwf6K4nKsx0pv6nHE2k2+IBBMpEITAltVOmU+lubpd6wPdXhjBl1cNx/0Wn+gzPY1XLaVoIUw==;/2AQ1yOXY86iVIGI3vMW3A=="
 ---

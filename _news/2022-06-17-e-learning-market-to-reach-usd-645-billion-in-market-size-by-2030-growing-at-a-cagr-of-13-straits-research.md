@@ -43,6 +43,20 @@ related:
         width: 521
         height: 322
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market 2022- Analysis and In-Depth Research on Market Size, Trends, Emerging Growth Factors and Forecast To 2030"
+    excerpt: "The new report on “Machine Learning Operations (MLOps) Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered by Market Research, Inc ..."
+    publishedDateTime: 2022-06-15T13:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-operations-mlops-market-2022-analysis-and-in-depth-research-on-market-size-trends-emerging-growth-factors-and-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/cd04a2069c117aeb6fde0d20b28a20e4154e2738-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Healthcare Machine Vision System Market to Reach $4.5 Billion, Globally, By 2031 at 22.4% CAGR: Allied Market Research"
     excerpt: "Increase in demand for automation in healthcare applications and rise in demand for machine vision-guided robotics in the drug dispensing industry drive the growth of the global healthcare machine vis"
     publishedDateTime: 2022-06-15T13:00:00Z

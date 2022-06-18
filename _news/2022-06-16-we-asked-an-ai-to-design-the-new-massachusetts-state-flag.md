@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip"
-    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s"
-    publishedDateTime: 2022-06-16T06:07:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
-    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
+  - title: "We asked an AI to draw its favorite food. The results were bleak"
+    excerpt: "There's a certain spartan logic to it that would appeal to a robot, which is why when I tasked an AI with drawing its favorite meal, I suppose I expected it to render a bowl of gruel (or perhaps a tasty-looking plate of wires?"
+    publishedDateTime: 2022-06-14T18:05:00Z
+    webUrl: "https://www.salon.com/2022/06/14/we-asked-an-ai-to-draw-its-favorite-food-the-results-were-bleak/"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 67
+      name: Salon
+      domain: salon.com
+    quality: 37
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Engineers Build LEGO-Like Artificial Intelligence Chip"
-    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip — like LEGO bricks incorporated into an existing build."
-    publishedDateTime: 2022-06-14T15:14:00Z
-    webUrl: "https://www.printedelectronicsworld.com/articles/26888/engineers-build-lego-like-artificial-intelligence-chip"
-    type: article
-    provider:
-      name: printedelectronicsworld.com
-      domain: printedelectronicsworld.com
-    quality: 54
-    images:
-      - url: "https://idtxs3.imgix.net/si/40000/9B/E8.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/06/pixel-chicken-0614221.jpg"
         width: 1200
-        height: 627
+        height: 800
         isCached: true
 
 secured: "ZtqWTuHiHQZfAC6qJMX9tOXK1QJBKPsC4dKzJOA8WFjDZyLnhOyQoklTzUP8cCB/iYNeG9+Q7QVGoFmBrfrqlNbq1Xr/04h9G6J3esiWsSJtizIY1TjhCvJsEX23x4ZHNrWoCRvTY6zHibNGkLLvgiiA82t0kx5dJChE9fhUfpVvcq+/cgltj84HdAhQox5+WnDu/D0wVR09QF60Cn5ybB9S5opOiQ9r8Tb3YcfQizD/yMkGiC7udYalPLpV8JDjpcCEUaHaijCYyqEESljWxzvKi4rTkt/IWimYD+dK8f7Sx8uYVBCmNajfXrGtOvo+EuQ7JbLDDfKpRSONu4R/ZVIEd+LtBH6DavWUYSHPkx1wOSoC3etnEAnb2VXYM6Ydg2LvNbVVoeYG4oolWRg8vo+b1QS5ATO+XMRDw8MtpF21wLSTpMVwKaR5IDm2mP1G4a6kI5N/kiY1dfRJp52944YNhX4+0YxZ/UHKVnQXKgoSmxXKs9mgMRXckBAxILEmY8c2NNjnRsUQq+dYKHAtUQ==;8dWEcKkXImzaaiAoJLQCzQ=="

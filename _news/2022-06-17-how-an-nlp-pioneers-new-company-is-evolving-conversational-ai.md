@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-593338488-Just_Super.jpg?w=1200&strip=all"
         width: 1200
         height: 634
-        isCached: true
-  - title: "Google Engineer Claims Company's AI Has Achieved Sentience, Company Is Glossing Over the Truth"
-    excerpt: "An engineer Google has sidelined has a warning about the tech giant's Artificial Intelligence project. The company is downplaying it."
-    publishedDateTime: 2022-06-13T15:55:00Z
-    webUrl: "https://ijr.com/google-engineer-claims-companys-ai-achieved-sentience/"
-    type: article
-    provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 27
-    images:
-      - url: "https://ijr.com/wp-content/uploads/2022/04/GettyImages-1393876536-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
 
 secured: "WobldlNrh3rGvOiiR12EegzuMQzOXuVc5nloVlofKsuy7FgbJQnBlcO+tb95DvojMWB0TgN2JGqIL82sHD+zCg3V/Ks8p58SnSL73qNGIGX7NQMIQESkdffp0/QaFVRh15iP8jAbQPPxY2wrdoigU5J10hfMTGajfrlzzCEAnQvvLWYf5d6DHVVlFdDY3ODhV0lwpl8zb8/eTJKQ9Ky2IN2kQHR84LUcyTaqb9D3cJVw/0uavPycuwEdPesv90H/JIKIbBP2e9kTQIOc89fnW5SIrWk9iw3qoux2ftXDr7fQkbU96dguXwFUeLm2W6MGVIHRMpAGSOZyxItB4KlnBkFuSkkNiQUNE9aYMpYTTML8gmVP30guig9duKmY/UTtX3HDf8K2VcFt6b1qM1Kq70TVdJ0ieB5mXl6g9fbQA2npic5wosFKSP2TweKSrpovZ8GTN94VGIr7qTzH98jsEDHqZ7/wdh3Dj8RWVARlvF3k72DuGwKM36eUxNkT41RI/S64n1NEBeWUZFw2N7o1CA==;Mu9odLXlQ8vEWEYHGPGi7Q=="

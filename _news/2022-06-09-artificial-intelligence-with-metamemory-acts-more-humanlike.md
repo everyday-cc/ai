@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence With Metamemory Acts More Humanlike"
-excerpt: "A new study reveals the creation of a new artificial intelligence (AI) machine-learning algorithm with an adaptable intelligence based on what it already knows—a step toward endowing machines ..."
-publishedDateTime: 2022-06-09T14:40:00Z
-originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
-webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
-ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
+excerpt: "Metamemory Model The researchers show the evolution of artificial neural networks have a metamemory function based on the self-reference of memory that is similar to the metamemory model defined in 1980 by researchers Thomas Nelson and Louis Narens."
+publishedDateTime: 2022-06-09T14:33:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
 type: article
 
 provider:
@@ -14,7 +14,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "PeS36c9UKJePRbKEoKn+ZuvB9t1KPObDbquJTDKrdvRjceX9oCm7v70wgAiFEVg49AhH+aunK1fKyVZdxH78wRJcN0u+jOdPFWYEfmSx57cf3ex1rpOk6FwrvBsCVa8P9CHL+Ocu9DWWh6ZCXZ9Erni6LyN6xLTfj3WouUCxP+sz+T1lkEp46RMxPZDoBCbBqHg/I6ROECAmUHyv+FqjZh2e6WG1cB3OhWeqEfv49DOa9apJWPXCpRJ6tY+qCMs5+W2l269kTMpnvnwyaxqlXiPl/u5wG76J+AOUqWhxNOBcNjYYjflw2+4R4cXFVI4tO7nORSKrTu+FdjDslZFSyWscoKjgxr9P+k/xZ2HL65g=;DTz6P+o6qG0BXoJ7vTUe+A=="
+secured: "osgpfa1KF2cPUrIxe//na3QT97c+yC4Smlq/btTxjtOZ1M88AXgejb7G7QDJZl8lwIcOvsKa0uPWYCtK7Kv6SMXuiMeuKuWQV1UT/QqKXu5E+lJFytal2H22HWpaL/o/vZzqXZfLme2CCZFpRclB10M/G8Bv4CxFLXnWzVZZhUcNJCEOLyh7zqKhA3dxks7i+NDNWuHnE/z7qaBGJ9gcVQsNT/UFnFTagJ++YLYDpqTQeiCywtX5JLwycNOh8b5+m87n+iqJ5xYS4M5hmqBhqSGaFPLqmyvk5pfLaSt0ws8itEj/xYKrelttoTZWvQMzmg7xekVzK8E2RA+kjTy2jpcxZG7pWY5iKE9MBhAz3Yw=;cW1AwTlZQ8WrGd253J9Cgg=="
 ---
 

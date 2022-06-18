@@ -2,6 +2,230 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-09-stmicroelectronics-and-sensory-collaborate-to-enable-mass-market-adoption-of-embedded-voice-control-through-stm32cube-software-ecosystem.md",
+      "title": "STMicroelectronics and Sensory collaborate to enable mass-market adoption of embedded voice control through STM32Cube software ecosystem",
+      "excerpt": "STM32 MCUs pair with Sensory’s VoiceHub technology to streamline development of voice-baseduser interfaces on wearables, IoT, and smart-home applications Geneva, Switzerland; Santa Clara, California – June 9,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-software-b76f59e513fafea1ccc8718393919956",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-software-b76f59e513fafea1ccc8718393919956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-ai-is-embedded-everywhere-at-walmart.md",
+      "title": "AI is embedded everywhere at Walmart",
+      "excerpt": "At Walmart, artificial intelligence and machine learning are embedded throughout the organization – from supply chain management and shopping to search.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/",
+      "originalUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/walmart-truckclose-up-side-view_129821854433586541.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/",
+      "publishedDateTime": "2022-06-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-three-reasons-why-ai-customer-engagement-initiatives-fail.md",
+      "title": "Three Reasons Why AI Customer Engagement Initiatives Fail",
+      "excerpt": "Attempts to implement a catch-all, fix-all solution that solves all of these challenges in every industry today will only result in disappointment on the part of businesses and their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/amp/",
+      "publishedDateTime": "2022-06-09T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
+      "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
+      "excerpt": "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-hong-kong-robotics-a9f145cbdc04c11816f2db906e75032d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
+      "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
+      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-shield-ai-raises-165m-at-a-23b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems.md",
       "title": "Shield AI raises $165M at a $2.3B valuation to fuel development of its military autonomous flying systems",
       "excerpt": "Technology built with defense in mind is getting some significant and serious traction at the moment, spurred by world events, advances in technology, and a growing appetite from end users to invest in more innovative ways to protect themselves.",
@@ -889,230 +1113,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-lee-health-investing-in-and-advancing-robotic-assisted-surgery-program.md",
-      "title": "Lee Health: Investing in and advancing robotic-assisted surgery program",
-      "excerpt": "Robotic-assisted surgery allows surgeons to perform complex procedures with advanced accuracy and more flexibility and control, which could result in smaller scars, shorter hospital stays ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.naplesnews.com/story/news/local/communities/the-banner/2022/06/08/lee-health-investing-and-advancing-robotic-assisted-surgery-program/7496057001/",
-      "originalUrl": "https://www.naplesnews.com/story/news/local/communities/the-banner/2022/06/08/lee-health-investing-and-advancing-robotic-assisted-surgery-program/7496057001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Naples Daily News",
-        "domain": "naplesnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-axon-ethics-board-members-resign-over-taser-equipped-drone.md",
-      "title": "Axon ethics board members resign over taser-equipped drone",
-      "excerpt": "Taser maker Axon is walking back plans to make a taser-equipped drone after nine members of its AI Ethics board resigned. Axon, a technology company known for developing tasers and products for police and the military, wanted to market the product as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/board-members-resign-over-taser-equipped-drone/",
-      "originalUrl": "https://www.zdnet.com/article/board-members-resign-over-taser-equipped-drone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/01ebfe773288e8d7a3d952c1ec40e6414d3f0f2f/2022/06/08/2bda3fad-bfc5-4d9d-b98e-7f998203ab26/taser-drone.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/",
-      "publishedDateTime": "2022-06-08T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-snorkel-ai-named-a-2022-gartner-cool-vendor.md",
-      "title": "Snorkel AI Named a 2022 Gartner® Cool Vendor",
-      "excerpt": "Press Release Snorkel AI, the data-centric AI platform company, announced it has been named a 2022 Cool Vendor in Gartner's AI Core Technologies report. According to Gartner, \"Data challenges of accessibility,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/",
-      "originalUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/",
-      "publishedDateTime": "2022-06-08T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-aws-announces-general-availability-of-aws-mainframe-modernization.md",
-      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
-      "excerpt": "With AWS Mainframe Modernization ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-mainframe-modernization-2022-06-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-mainframe-modernization-2022-06-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-apples-m2-chip-gives-new-macbook-air-a-speed-boost.md",
-      "title": "Apple's M2 Chip Gives New MacBook Air a Speed Boost",
-      "excerpt": "This story is part of WWDC 2022, CNET's complete coverage from and about Apple's annual developers conference. Apple on Monday debuted the new M2 processor, a chip that improves c",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/apples-m2-chip-gives-new-macbook-air-a-speed-boost/",
-      "originalUrl": "https://www.cnet.com/tech/computing/apples-m2-chip-gives-new-macbook-air-a-speed-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

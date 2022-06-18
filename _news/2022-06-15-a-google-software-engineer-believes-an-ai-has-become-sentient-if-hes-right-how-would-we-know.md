@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Engineer Says an AI Has Become Sentient. How Would We Know if He’s Right?"
+    excerpt: "According to software engineer Blake Lemoine, LaMDA has achieved a long-held dream of AI developers: it has become sentient. Lemoine’s bosses at Google disagree, and have suspended him from work after he published his conversations with the machine online."
+    publishedDateTime: 2022-06-16T03:14:00Z
+    webUrl: "https://www.thequint.com/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
+    ampWebUrl: "https://www.thequint.com/amp/story/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 54
+    images:
+      - url: "https://images.thequint.com/thequint%2F2022-06%2F168eac97-c9a1-427e-a86c-dd18f22f97e8%2FiStock_920743540.jpg"
+        width: 2000
+        height: 1127
+        isCached: true
 
 secured: "cUpQrbU+/OAFjI61cyzvQMbFIY1V9s0wf88YaYeW6rZUGHLBXM3VbC0R3tOoTSq862pNO26ZLS0Dns2EQrLQEoPNt96SPj4whdbv6jSmNrWG/Mr1FwtWfEEedcnBypdM8d82Mw2gQdGORwNG/cdc+PcMPHj0z1/we8T5AQv4g87k+x7ob4avBY6eZ2hBOuCWfY4Pu1VnLkLLBGYYmbvRV4kDi7E3v26JR4KNqcxhwu2/6c4piOJ9eGHFKeOEAckPSWEJcVvDt3GjVvz6eQEj311aZ03Qqq02k0e36tIYAqtf/JWEjyz4FF+0KF/ZhYb/wpEsPF0PSmOhziisXNx7byihPTwrODP303AkPSss/0HIY/2FmJsgD38xKN6s2umP7DkhA9OGLDBU/WPdJ7NIH8bwIKNOcfa3PyBKSrSiLFY5MLbfAorKqYZ9b9HHhC17WzrgjmS0B8TK32RSmPaoOY6XMWTYboSnJEwl3vCatf/qn8iGtbf4i01PHaDDfRtp8PYOTGFRzEUHHrqF9ZBuDg==;3i1QpGFxuwmabBiV4xkROQ=="
 ---

@@ -1,23 +1,25 @@
 ---
 category: news
 title: "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,"
-publishedDateTime: 2022-06-16T12:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
+excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ..."
+publishedDateTime: 2022-06-16T12:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
+ampWebUrl: "https://www.benzinga.com/amp/content/27738170"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27738170"
 type: article
-quality: 3
-heat: 3
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "FUElTJ7U4We9Z9pWInBJlfiiJJy6loN55u875k95RKE9OgGolgEDUMoeISyJcmG55eDDVEHcPByh26NDTYf+ar2fjHhJbeuw3+bpndfBdc9S7z+hQVtYEHFXrUV04o4LQfQ97kI4Tda9EG/h2qNb46lppWjfl2DKC+XUc7QcaI3cF22G6XQogHF1MhxFGT6qdY+6YI1GGN28lbUcEq/ZkEBWs+5R2JtUm/XmgF2NwdVmjkCb9FisaW8Jfo0E7xrYRYGneBMQZKr8zBHWbVl/amdY8eAYGyq25g5nqsufMPs3uRxjEZyJgsqvLiqqu2z+QNEXuS2pJdgoFijn4Jz9X9miOB4NlKwiwdSogj95uIE=;KWpOlJJ7c7OvyJyB6ZfHOw=="
+secured: "ezO09rwd/p23lwK1DhUiZXVFOua/S+7/33jeuUgqQ1YZfvfQJ5+MDxPJL9zS7U3NPaj2xgGdJlW7ycyfnN+Ul6SPsvb9vBkkNWw6Aa4QWfqxf+kn+F+dSsA87vUXSRQHcbCJUUbybKTAckCPFA19lJDjGpWXxkH7O/rqS+sMu2AfQNwhNVCTvpq1hABFPTkGAY+IphazHLIKsRjvffrvk7T/wkvMr0NPp5KxOBtOcRj1CmEZCpSl/JNfqFIxPqpu+zvQca8iZ8A2prOaCKHZ49TwFuhsouWt7lsR53uyko4FoLW5oGLU7iBhh0vZi/gSwbueyoDSU4foBoapQUM84Af1v7WWc90TniUEJJLOmXc=;Lberal+PoZ1zFxb82Sxk3Q=="
 ---
 

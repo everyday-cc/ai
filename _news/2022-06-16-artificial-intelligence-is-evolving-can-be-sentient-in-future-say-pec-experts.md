@@ -25,91 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI coming to life? Google engineer claims chatbot is sentient"
-    excerpt: "A Google engineer is claiming that LaMDA, a chatbot generator, has the ability to think for itself, but the company has rejected the claim. The Washington Post's Nitasha Tiku explains how the chatbot works and why the engineer thinks Google should be asking for its consent to experiment on it."
-    publishedDateTime: 2022-06-15T15:02:00Z
-    webUrl: "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
+  - title: "Is there a cause for worry if AI turns sentient?"
+    excerpt: "Last December, Timnit Gebru, also an AI ethics researcher at Google, was allegedly fired after she drew attention to a bias in the company’s AI . But why do humans fear intelligent AI? If you’re a fan of sci-fi movies like I, Robot, The Terminator or ..."
+    publishedDateTime: 2022-06-14T17:41:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient-11655227879060.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient/amp-11655227879060.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient/amp-11655227879060.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_06/1655305259269_now_mnn_chatbot_sentient_google_220615_1920x1080-9ec6aw.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.livemint.com/img/2022/06/14/600x338/primerpic_1655228015898_1655228027695.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Google engineer says AI chatbot has developed feelings, gets suspended"
-    excerpt: "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him."
-    publishedDateTime: 2022-06-14T05:17:00Z
-    webUrl: "https://www.androidauthority.com/google-lamda-3176080/"
+  - title: "Science for All | How do you know if an AI program is sentient?"
+    excerpt: "The word “sentient” is defined by the Merriam Webster as “responsive to or conscious of sense impressions; Aware; Finely sensitive in perception or thinking” – Humans are sentient beings, hence an AI that incorporates sentience is vying with humans in intelligence."
+    publishedDateTime: 2022-06-16T08:57:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg"
-        width: 1920
-        height: 1081
+      - url: "https://www.thehindu.com/incoming/stpnzh/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
+        width: 615
+        height: 383
         isCached: true
-  - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
-    excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
-    publishedDateTime: 2022-06-15T03:42:00Z
-    webUrl: "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/"
+  - title: "Comment: Artificial intelligence will tell us if it’s sentient"
+    excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
+    publishedDateTime: 2022-06-16T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-artificial-intelligence-will-tell-us-if-its-sentient/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
-  - title: "Google’s artificial intelligence is coming to life!"
-    excerpt: "Google’s artificial intelligence is coming to life!At least this is what one of their engineers think."
-    publishedDateTime: 2022-06-14T09:37:00Z
-    webUrl: "https://www.jacarandafm.com/shows/mornings-with-mack/googles-artificial-intelligence-coming-life/"
-    type: article
-    provider:
-      name: Jacaranda FM
-      domain: jacarandafm.com
+      name: HeraldNet
+      domain: heraldnet.com
     quality: 39
     images:
-      - url: "https://turntable.kagiso.io/images/iStock-1145990155.width-400.jpg"
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
         width: 400
-        height: 224
+        height: 400
         isCached: true
-  - title: "QuickCheck: Has a Google chatbot come to life?"
-    excerpt: "ACCORDING to a leak, Google has created an AI that has developed sentience and then they suspended ... cognisant after it answered a series of questions on its rights and the ethics of robotics. After he was placed on suspension, Lemoine published a ..."
-    publishedDateTime: 2022-06-14T09:19:00Z
-    webUrl: "https://www.thestar.com.my/news/true-or-not/2022/06/14/quickcheck-has-a-google-chatbot-come-to-life"
+  - title: "If AI ever becomes sentient, it will let us know"
+    excerpt: "Blake Lemoine, a senior software engineer in Google's Responsible AI organization, recently made claims that one of the company's products was a sentient being with consciousness and a soul."
+    publishedDateTime: 2022-06-15T04:46:00Z
+    webUrl: "https://dentonrc.com/opinion/if-ai-ever-becomes-sentient-it-will-let-us-know/article_7596cee8-fba8-5b15-a628-e64b1bd3c93c.html"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/14/1622332.jpg"
-        width: 1095
-        height: 770
-        isCached: true
-  - title: "Google engineer claims AI system has developed feelings"
-    excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
-    publishedDateTime: 2022-06-14T13:41:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
-  - title: "Google AI 'is sentient,' software engineer claims before being suspended"
-    excerpt: "A senior software engineer at Google was suspended on Monday (June 13) after sharing transcripts of a conversation with an artificial intelligence (AI) that he claimed to be \"sentient,\" according to media reports."
-    publishedDateTime: 2022-06-13T19:01:00Z
-    webUrl: "https://www.livescience.com/google-sentient-ai-lamda-lemoine"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 16
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 17
 
 secured: "K2FOEk6/rfG8/r7Gibihg0PEgzMQnbSp2ttaYAZPhHvBB4EAaJkwkoqA2F/0ZJVSgUmENhAkRHtVCXbuRhdfk5KDZ3qnsoFnU3XQT0tHjoaYDpZ7bbcpzpkOWWsG5ylMx9EZePSYkmuA2WjWPe0SmMefzrzTQ9LOzaEEcyFWnTw1BzyElsoog83aF4Rg8d7xvDO1kfiUxME5BT1HfZSbz2d5nJGGj3lecL4mohHr/A7svpkyVDZVcdS8y/BbWuSUMlHbLEKnxx2KmpjZJSqjeLO+up97TLOZlPJ2SiCKtwbkA7tD72VRHzKoAA0LWcHEoCCHFZA+gW+5h3cyOZB3o8XQdOrcSGkGUbEJzS5ycfI=;ez7Exk8g/0Zu2a8eBy5sKA=="
 ---

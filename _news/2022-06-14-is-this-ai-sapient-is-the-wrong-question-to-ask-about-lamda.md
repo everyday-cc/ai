@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/lamda-artificial-intelligence-sentience/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-artificial-intelligence-sentience/amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Suspends Engineer Who Claimed Its AI System Is Sentient"
+    excerpt: "A software engineer at Google told the company he believed that its Language Model for Dialogue Applications, or LaMDA, is a person who has rights and might well have a soul."
+    publishedDateTime: 2022-06-14T06:02:00Z
+    webUrl: "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+    ampWebUrl: "https://www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-562388/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google engineer thinks company’s AI ‘LaMDA’ has become sentient: Here’s all you need to know"
     excerpt: "Social media had been abuzz with debate over the sentience of Google’s artificial intelligence LaMDA or Language Models for Dialog Applications after Google engineer Blake Lemoine claimed the AI has become sentient."
     publishedDateTime: 2022-06-14T09:51:00Z

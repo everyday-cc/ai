@@ -24,40 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "Google engineer says Lamda AI system may have its own feelings"
-    excerpt: "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrik's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear o"
-    publishedDateTime: 2022-06-13T15:25:00Z
-    webUrl: "https://bbc.co.uk/news/technology-61784011?at_campaign=KARANGA&at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-61784011.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-61784011.amp"
+  - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
+    excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
+    publishedDateTime: 2022-06-15T03:42:00Z
+    webUrl: "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: GeekWire
+      domain: geekwire.com
+    quality: 61
+  - title: "Engineer who claimed Google AI has thoughts, feelings is placed on leave"
+    excerpt: "A Google engineer who argued that the company’s artificial intelligence (AI) is sentient has been placed on personal leave."
+    publishedDateTime: 2022-06-14T22:02:00Z
+    webUrl: "https://kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/"
+    ampWebUrl: "https://kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 56
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg"
-        width: 1024
-        height: 576
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/06/google_11042016_getty.jpg?w=1280"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Blake Lemoine Says Google's LaMDA AI Faces 'Bigotry'"
-    excerpt: "In an interview with WIRED, the engineer and priest elaborated on his belief that the program is a person—and not Google's property."
-    publishedDateTime: 2022-06-17T19:12:00Z
-    webUrl: "https://www.wired.com/story/blake-lemoine-google-lamda-ai-bigotry/"
+  - title: "Can the new Google chatbot be sentient?"
+    excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
+    publishedDateTime: 2022-06-14T17:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
-  - title: "Does Google's LaMDA Artificial Intelligence Program Have a Soul?"
-    excerpt: "For now, leading artificial intelligence researchers agree with Google that LaMDA is not self-aware and does not have a soul. However, given humanity's strong tendency to attribute human ..."
-    publishedDateTime: 2022-06-15T18:10:00Z
-    webUrl: "https://reason.com/2022/06/15/does-googles-lamda-artificial-intelligence-program-have-a-soul/"
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/incoming/1gnup5/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Do Computers Have Feelings? Don’t Let Google Alone Decide"
+    excerpt: "Even if an engineer’s recent claims of a conscious machine are dubious, the tech giant’s tightening grip on AI research and its ham-fisted treatment of dissenting voices is troubling."
+    publishedDateTime: 2022-06-14T01:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/do-computers-have-feelings-dont-let-google-alone-decide/2022/06/14/0e6c0d3a-ebaf-11ec-9f90-79df1fb28296_story.html"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 17
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTPQI7HLV4I6ZH4QPHPR7MUCSY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "tojDuMX5M7HefFsUPdNRJacX1bVol0pSX++WP9gWfWntyab1MjcICpkya9B5UtSaGoVrcxK6yyUp1t4EXcC0nMFPNjC0phJqotmTZQ7eSPIfxqyqGNHA/wkD0MwRVdsGXKwir/BF9k3WLZZfek9YQQq9kcChJ0RIfQCgy8tEykyTu8D/JHQl+d3a9yq3WWaidfyNdAlQuEWbrzMOKFiOQZOm5A3TKwDRzExbz+SmRa38yPjBfj1nDkPWp+4Mk7mg7efayu+6II/pltLFebitBruFlrjn2o9Ofv4lpRyQHniqzcrUzoB+CYceu202IPk0srCfGz59FFcmRSXCblnI4GY4I1q3qrqO7tg5ImtUyHM=;NKWFreOJcdFBBk4w7LEoeQ=="
 ---

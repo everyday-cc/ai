@@ -111,20 +111,6 @@ related:
         width: 375
         height: 375
         isCached: true
-  - title: "CaixaBank and Microsoft Establish Innovation Laboratory for Artificial Intelligence Solutions and the Metaverse"
-    excerpt: "CaixaBank and Microsoft have signed a strategic joint innovation agreement intended to promote the application of Artificial Intelligence (AI) to new financial solutions, as well as to create new and innovative work environments in the metaverse."
-    publishedDateTime: 2022-06-13T17:01:00Z
-    webUrl: "https://financialit.net/news/banking/caixabank-and-microsoft-establish-innovation-laboratory-artificial-intelligence"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 51
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_2_10.png"
-        width: 900
-        height: 480
-        isCached: true
   - title: "The Power of AI in Machine Vision"
     excerpt: "onsemi provides a custom mobile app available on Android and iOS (Fig. 3). This allows for the use of Amazon Rekognition via a connected smartphone and a valid AWS account. Once the AWS account is ..."
     publishedDateTime: 2022-06-14T14:59:00Z

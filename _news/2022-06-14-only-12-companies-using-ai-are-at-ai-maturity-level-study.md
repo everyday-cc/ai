@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI maturity: Only 12% of companies are 'AI Achievers'"
-    excerpt: "Accenture research​ suggests that only 12% of companies have advanced their AI maturity enough to achieve superior growth and business transformation. These companies are 'AI Achievers' and, on average,"
-    publishedDateTime: 2022-06-13T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/what-is-ai-maturity-and-why-does-it-matter/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-is-ai-maturity-and-why-does-it-matter/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-is-ai-maturity-and-why-does-it-matter/"
+  - title: "Just 12% firms utilising AI to outpace their rivals: Report"
+    excerpt: "The research from Accenture puts the median AI maturity of organisations at a moderate score of 36, revealing most companies have significant opportun.."
+    publishedDateTime: 2022-06-14T09:32:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/just-12-firms-utilising-ai-to-outpace-their-rivals-report/92202959"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/just-12-firms-utilising-ai-to-outpace-their-rivals-report/92202959"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/just-12-firms-utilising-ai-to-outpace-their-rivals-report/92202959"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://www.zdnet.com/a/img/resize/c39078d904e22f9665e3b4bc14e298bc2abcf6b7/2022/06/13/3b1b1376-bf08-4644-9d9f-ce95d7763287/4-ways-to-start-using-artificial-intelligence-ai-in-your-business.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92202959,imgsize-111048,width-1200,height-628,overlay-etcio/just-12-firms-utilising-ai-to-outpace-their-rivals-report.jpg"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
 
 secured: "WdfqUD8aFQTjpYPvH6FVVylKYkZPO6O8t6mAeYGM8kHWOxxY1jDYv2PPwQTQQIFNtA+nr9oY7pFmTFNUTqMlHHECgqp/AD998eyoj4q6tI/t+hrz7Lo14snMS7mvFAJM9sOAyDayZIqyT51hbhZEPFoisGgpQYnT+ZRP+FO/DbI74FfzBvlalzi4UpoltxPWh2v4t4Y6P43aqiAmLCKR4ghKLf7EThPIFdegcWfOeIe5OO0IBhMinmJ8npB/ljIwpgdJ79NYPTTE3c+CkTm3GcceBAtVQ8QE8LC+s1gxbh5LIebnlMlOY3feInh8RaDbBA0ooLmewP+dkFGgNB8fj4WiCAXDBisPz+0qG7Q+oXc=;Q01FcHOKHa9MbU0NJrYxhw=="

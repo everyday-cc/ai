@@ -51,6 +51,20 @@ related:
         width: 521
         height: 322
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market 2022- Analysis and In-Depth Research on Market Size, Trends, Emerging Growth Factors and Forecast To 2030"
+    excerpt: "The new report on “Machine Learning Operations (MLOps) Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered by Market Research, Inc ..."
+    publishedDateTime: 2022-06-15T13:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-operations-mlops-market-2022-analysis-and-in-depth-research-on-market-size-trends-emerging-growth-factors-and-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/cd04a2069c117aeb6fde0d20b28a20e4154e2738-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "BJqIP+qj9capQPYAtKnshmVlNYCm5jQf16TBJw8wKbaqo3eFpOdmtMhk18T0Na571+BiP7BQwizslXcOSKFsIeoUkj8yUSHlVJ7tp5z2sl4ByhX+sxHG2Mo05mIyxTdal7bxRJ8lqMsnjReKbEQnIlKNXkCIogDN7XFL0pZxzDna4lioYRtH2ldBdwxQnLdatdEp3YfrzDdK0Sab0wuiNm3qkTqXG659yx6wkDcKyo/MCrc+40xN+pbEAPFRuRMoHv2GJEh9U24h6PjM7lB9W1vVnKn7SYEOtrrMns+KB1CwaPgrnetGFxnr+snZ0efN6JcU3CIlK8+K1E4fTdmcTP1wjs3HcpDMATx4Y5r8kMH3bF3sxww8InTTDBe3nlMx8IHnnI49QBvI4Cb+y4HGCHnedh4N7uUGZkLQ2gsxb3UsgVx8QPOWBiogDG2rVCcBs+ukZxQNtP1JHH6+TC0ayMgAoBsgIwZzZ6+rf/Yc8Axdyt7IIqOGdZSCK6y+hfUdPllKgvw5lmlHH1jOBktz1w==;fIs8owAP9g+M77FXNH2FTA=="
 ---

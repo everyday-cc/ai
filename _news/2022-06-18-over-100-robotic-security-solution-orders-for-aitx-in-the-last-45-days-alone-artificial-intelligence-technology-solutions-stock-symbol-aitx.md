@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-17T22:09:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-17-over-100-robotic-security-solution-orders-for-aitx-in-the-last-45-days-alone-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-17-over-100-robotic-security-solution-orders-for-aitx-in-the-last-45-days-alone-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Security
+  - AI in Healthcare
 
 related:
   - title: "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX"

@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1010
         isCached: true
-  - title: "Local researchers using artificial intelligence to lead the way in bedside lung imaging"
-    excerpt: "A team at Lawson Health Research Institute are testing a new form of artificial intelligence (AI), paired with portable ultrasound machines, to image and identify lung concerns in real time, right at the beside of critically ill patients."
-    publishedDateTime: 2022-06-13T15:06:00Z
-    webUrl: "https://hospitalnews.com/local-researchers-using-artificial-intelligence-to-lead-the-way-in-bedside-lung-imaging/"
-    type: article
-    provider:
-      name: hospitalnews
-      domain: hospitalnews.com
-    quality: 31
-    images:
-      - url: "https://hospitalnews.com/wp-content/uploads/2022/06/Lawson.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "jbEPr2lshgDY/KjIqWh6IrcUljW5ARoKYPY+e2ENecyBoNww1wJUsTsSy5kvUh18cPQf9rpuD//4wdUxH76oxLwNZcapTQ1mmC0DvyAY/pRRcl009KIFEeRXyb8SgHl8MXPtPkw32MH1jU4L+oDU6XuMu51MgdilI32PZqZvSjiVnPc1hbb8AbHdjkr9mpwTtuIhZewFkuxEHpXvj36reldR7MrGg1lJq5OVLtXEVSNMwRzaxrtbRt5UEyefv3bnQhekOTAfeBNQWkvVP4ypDUeMHBnN4EMZuBWNhHe5Q39vaTFGvx1jErmJEnjwKgYqb1ySNxbWqWpm4+Sm2U9U1axGT6J81BQtyndbeI9I1w0=;hmf1FIpc+uY1uyn2sEaRqQ=="
 ---

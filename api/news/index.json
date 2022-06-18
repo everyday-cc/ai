@@ -62,7 +62,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/reddit-acquires-machine-learning-platform-spell/92294205",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -247,49 +247,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-using-imaging-and-machine-learning-to-customize-cochlear-implants.md",
-      "title": "Using imaging and machine learning to customize cochlear implants",
-      "excerpt": "The inner ear is a complex and highly individualized structure. So it should be no surprise that a one-size-fits-all approach to cochlear implants doesn't produce the best results for listeners.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-imaging-machine-customize-cochlear-implants.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-imaging-machine-customize-cochlear-implants.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-imaging-and-mach.jpg",
-          "width": 1920,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-imaging-machine-customize-cochlear-implants.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-imaging-machine-customize-cochlear-implants.amp",
-      "publishedDateTime": "2022-06-17T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -823,7 +780,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -980,7 +937,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1064,6 +1021,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-best-machine-learning-platforms-2022.md",
+      "title": "Best Machine Learning Platforms 2022",
+      "excerpt": "Machine Learning Runtime delivers scalable clusters that include AutoML and other optimization frameworks. The platform also supports collaborative notebooks and a Feature Store that simplifies MLOps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
