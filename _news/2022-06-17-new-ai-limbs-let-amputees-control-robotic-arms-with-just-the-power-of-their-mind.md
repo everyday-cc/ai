@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-i
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

@@ -2,11 +2,11 @@
 category: news
 title: "Over 100 Robotic Security Solution Orders for $AITX in the last 45 Days alone: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
 excerpt: "Artificial Intelligence and Robotic Solutions for Multiple Applications. New Dealers Signed in the US and Multiple Other Countries. Increasing Orders Received for Latest Products"
-publishedDateTime: 2022-06-17T20:09:00Z
+publishedDateTime: 2022-06-17T22:09:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-17-over-100-robotic-security-solution-orders-for-aitx-in-the-last-45-days-alone-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-17-over-100-robotic-security-solution-orders-for-aitx-in-the-last-45-days-alone-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 type: article
-quality: 29
+quality: 12
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: dailyherald.com
 
 topics:
-  - AI in Robotics
   - AI
   - AI in Security
 
@@ -44,6 +43,6 @@ related:
       domain: dailyherald.com
     quality: 47
 
-secured: "ESZXBmHKVCq3nI5G6eizW+pOnKQwxmU72Wu/lhJ0uWrosrelI3tliCOpYuuzXMot8s79q8BgAMogZDJxK+k+MGcfewgR/xf0L/oCRL6kuLQe2hB+OGGPL2pb0Fg94+XDEBb/bkOUdvawkMk10hwJRHISg6oZRRnEoxECkvb/HqccYyLJI8Mw2emyGs3bklkhUfvn3rZsOoREd65aFZcml3UI4JCPzA3AOmV3ynSRg/dMY7ZLxtOQC1tk5LUxqEsix3y33jKC9kT+y0YIfqVW1Y1emC9tER/F0GAETQUi36S+2e3qMPakx8VIsLpXEiT5FguPZmVk3IvMXnLGh4cESg1nqGyPsfSEZZ/Z4grNiqE=;ZhSYoEJqobZJV2Kp3Xe0rQ=="
+secured: "uQETKh/Ig39DMYU29TeF6uDryA6NYoiYDyGq84/MP8GonXKFT4YwxAyZqMFXY6oIzyD7gUtlk2iwLFlq7iW34f/uEQylf7vVs3nIWiyREBpfM8IfQZdoPysExJkZnB148drv5dk9OHEQURCfAYszGNGtkoI2QCl4rwAj2YMazYtPvpQKeBdnPWXHC7b6NilZDe8KLxgrSX1bCeR3PRXLxbyzjvylsjsNnsCNvfX7dCcHqvVG4tDMqQ0J2M+RqiLIqrEtdUSR7dsNOvsy5uhtf4F6iN248XJqjoXtSN/QNn8L12DqkShEErUQO5Xq3owrCweCQt7w56xZk4al2V40l+Q8c/v/ADSMXe2mWflhVg4=;/SAIGT/zQWdHn/4NmV1CNg=="
 ---
 

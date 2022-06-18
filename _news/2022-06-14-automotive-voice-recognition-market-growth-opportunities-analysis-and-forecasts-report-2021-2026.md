@@ -43,15 +43,31 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Products Market By Development Strategy, Future Projections & Rising Trends to 2028"
-    excerpt: "The latest Artificial Intelligence Products Market Analysis is designed to help clients improve their market position, and in line with this, this report provides a detailed analysis of several leading Artificial Intelligence Products market Key Players including Open AI,"
-    publishedDateTime: 2022-06-13T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-by-development-strategy-future-projections-rising-trends-to-2028-2022-06-13"
+  - title: "Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 – 2028"
+    excerpt: "Reportlinker.com announces the release of the report \"Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 –"
+    publishedDateTime: 2022-06-17T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27768390/global-nlp-in-healthcare-and-life-sciences-market-size-share-industry-trends-analysis-report-2022-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27768390"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27768390"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+  - title: "Face Recognition Technology Market 2022 Emerging Trends, Latest Technology, Limitations & Risks, Key Regulation Analysis, Forecast till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 17, 2022 (The Expresswire) -- “Face Recognition Technology Market” report study provides valuable information and useful guidance to new participants or companies ..."
+    publishedDateTime: 2022-06-17T23:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2022-emerging-trends-latest-technology-limitations-risks-key-regulation-analysis-forecast-till-2028-2022-06-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Face Recognition Device Market 2022 - Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 14, 2022 (CDN Newswire via Comtex) -- The Global Face Recognition Device Market Growth 2022-2028 report published by MarketandResearch.biz gives an overview of the ..."
     publishedDateTime: 2022-06-14T16:47:00Z
@@ -75,15 +91,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 – 2028"
-    excerpt: "Reportlinker.com announces the release of the report \"Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 –"
-    publishedDateTime: 2022-06-17T16:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27768390/global-nlp-in-healthcare-and-life-sciences-market-size-share-industry-trends-analysis-report-2022-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "M1qmpl5y7at8GGZ0vASnhg2dOmeRNDcrSLOmlKvbpz+YD1HyVZ94RiMY+r0rFIvO8zJU9zP+OW1TrjW+d/032KKYBC2d+s4dAPDHHq5wTIWk7OEaq13Hea7hZ0tGC9PnQ4JGuKeLsvYR1e1q0evnrPPzhFGQnk0keIFoKrv8xwz3xmH+8O1krY3r+d69f/LNbxNBtUwaWgJ4HSHiPwjAw3LCRN+iqPRKN0KBMbOwsJ57j3S6m/iNTISsOyuS2V0368SOsO21W8YOd09DOLZWZZ8IqZ45pdocrbDb85Pm6L6eeQAwkfUhe6FHotkn65gMi96RlhXUyAagag1ArRsnyvLqN/KRyjbMHY5EAoaud3s=;YYm1XfJlg4l7Lvx+ayuYOw=="
 ---

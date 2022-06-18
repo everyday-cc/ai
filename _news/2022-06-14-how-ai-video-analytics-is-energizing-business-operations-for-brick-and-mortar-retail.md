@@ -55,22 +55,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "How augmented analytics can empower data-driven enterprises"
-    excerpt: "Augmented analytics helps organisations deal with the complexity and scale of data that has become typical in digitally transformed modern enterprises, says Jacques du Preez, CEO at Intellinexus."
-    publishedDateTime: 2022-06-13T06:38:00Z
-    webUrl: "https://www.itweb.co.za/content/VgZeyqJlVex7djX9"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/VgZeyqJlVex7djX9"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/VgZeyqJlVex7djX9"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/hDjJj9ZzGy9L1UTC1nwujzdXD-OK5mfSV8C8qtcltGFxiTXje7XZxzAOjq5DHRrR7_aNKHCI27QO7qIsdclz_W3TCdz3rT5_mic=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "Charles River Analytics Develops Machine Learning-Based Navy Ship Intelligence Systems Monitoring Tools"
     excerpt: "Looking for the latest Government Contracting News? Read about Charles River Analytics Develops Machine Learning-Based Navy Ship Intelligence Systems"
     publishedDateTime: 2022-06-15T20:43:00Z

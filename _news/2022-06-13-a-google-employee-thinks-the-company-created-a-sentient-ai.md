@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/a-google-employee-thinks-the-company-crea
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true"
 type: article
 quality: 87
-heat: 317
+heat: 297
 published: true
 
 provider:
@@ -45,38 +45,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/b68ea3bc80c2294694902d2f0d645a2bb99399d7/2019/10/09/08e4d63c-b74c-44f2-a78b-f2985ab10831/20191008-google-headquarters-campus-mountain-view-003.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google suspends engineer who publicly claimed he interacted with a sentient AI bot"
-    excerpt: "Alphabet has placed software engineer Blake Lemoine on paid leave on claims he breached confidentiality policies, after he told a newspaper that the Google AI he interacted with was a person."
-    publishedDateTime: 2022-06-13T06:30:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3181489/google-suspends-engineer-who-publicly-claimed-he-interacted-sentient"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 83
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/13/51f5e3c4-c5e6-4f98-bc5e-7c50dd00f23e_8f7642e9.jpg?itok=TReShJ1U&v=1655100485"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Employee Put On A Paid Leave For Claiming Its AI Bot Is Responding Like A Human"
-    excerpt: "A Google engineer has spoken out after being placed on administrative leave after informing his employers that an artificial intelligence software he was working on had become sentient. Blake Lemoine came to his conclusion after chatting with LaMDA,"
-    publishedDateTime: 2022-06-13T05:41:00Z
-    webUrl: "https://in.mashable.com/tech/33216/google-employee-put-on-a-paid-leave-for-claiming-its-ai-bot-is-responding-like-a-human"
-    ampWebUrl: "https://in.mashable.com/tech/33216/google-employee-put-on-a-paid-leave-for-claiming-its-ai-bot-is-responding-like-a-human?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/33216/google-employee-put-on-a-paid-leave-for-claiming-its-ai-bot-is-responding-like-a-human?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 79
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/6bdb84da-45cd-4d91-bc4d-e5c12b44db7b_mbmk.620.jpg"
-        width: 619
-        height: 374
         isCached: true
   - title: "The 3 things an AI must demonstrate to be considered sentient"
     excerpt: "Everybody's talking about the Google engineer who thinks a company chatbot is sentient. But what does sentience mean?"

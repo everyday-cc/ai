@@ -25,22 +25,6 @@ images:
     height: 585
     isCached: true
 
-related:
-  - title: "ST and Sensory collaborate on embedded voice control"
-    excerpt: "STMicroelectronics and Sensory, a provider of embedded speech recognition technology, have announced a collaboration that will enable the STM32 microcontroller (MCU) user community to develop and prototype intuitive voice-based user interfaces for a wide range of smart embedded products."
-    publishedDateTime: 2022-06-13T06:55:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/st-and-sensory-collaborate-on-embedded-voice-control"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 24
-    images:
-      - url: "https://www.newelectronics.co.uk/media/xqrbsm04/st-sensory-stm32-voice-control-t4422s-big.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "UNSw+xF1WYMdf7iFkt0VNO4dHk5LvS3wcY7RrLGphAAFpT4qvx1G3riK6Ncj5n8/yPn2BTbhfg79by/sN86hSW+4aRYveAFYeIhMFdwd1jyhBwg35VIUhHENXIznRcQnuEHY8KeJPg7NBOWBxUVjpBmobG75JN5UtQlpmq8zFUyNiJG9n2f5OaDKiF31Q7v72Y/33yUDU2yIOTfmFygoVnwmoeGjQ1aWlTr9ukiOyZUlRE0ynE5q6sGnpYqvL7L/XSpP8jcxJwWnymngT/5Q86TmaHstF8926z0g/1ZY/7j6JLhBM/RvXbQhGkj12wYF6p0tpjha/gvov3xLU3DGwY/bfeoq89Kkh9KwMBJt/BBm22n8WHXXWBJK5SlvBVAvwCVlA+ZyPmd9W0qQ1UmUlNlhf8mtVYEEVTkng1X8ioMkTtadVdMrcubL6pFB0CWMPbpdfHfN1iu8NA2BStw7Ao7ZwLON6QG4c1oOHQ7yguflykMRdndgSgamhb5tKaW91iuAcOkigdgprjgJLtII0A==;1dIq5P0keLMdU+kTx37eiQ=="
 ---
 

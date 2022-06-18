@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kona AI Names Vincent Walden as New CEO"
-excerpt: "Irvine-based Kona AI, a startup in AI-driven compliance and anti-fraud data analytics, appointed Vincent Walden as its new chief executive officer. Walden, who was a partner at Ernst & Young, most recently was a managing director with Alvarez & Marsal’s ..."
-publishedDateTime: 2022-06-17T18:52:00Z
-originalUrl: "https://www.ocbj.com/technology/kona-ai-names-vincent-walden-as-new-ceo/"
-webUrl: "https://www.ocbj.com/technology/kona-ai-names-vincent-walden-as-new-ceo/"
+excerpt: "Irvine-based Kona AI, a startup in AI-driven compliance and anti-fraud data analytics, appointed Vincent Walden as its new chief executive officer. Walden, who was a partner at Ernst & Young, most recently was a managing director with Alvarez & Marsal’s Disputes and Investigations unit in New York."
+publishedDateTime: 2022-06-17T18:35:00Z
+originalUrl: "https://www.ocbj.com/uncategorized/kona-ai-names-vincent-walden-as-new-ceo/"
+webUrl: "https://www.ocbj.com/uncategorized/kona-ai-names-vincent-walden-as-new-ceo/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 1087
     isCached: true
 
-secured: "KMXvyoZVI4mC/uumLtNf1Omi1vGQbULlNDd2x6MQfF5g+Gl4fKt7DcGW5pQ2CMHaxq5G9vIOyK4rpMm6uJcokKyVX48Zvj9UL1rv1OgSE63+Pm7SE9fDh5I+/x/Bvbei9T6YoZB7u/z5iLDYvGDSe3kfpuWqSRkyBbl7Qd5m2bmHzP1DJpX+KRf2SbWsTMG6lHqCtWO9sZu1ag9qnvWB1n7hfUeUN4hyT8ZXnmve8MhGZh/fvbcxFkB7hOi41kngOYSzrawJ7bDpbAsjHd18l20oKQ+Lj9jWip05t/apwpG1n6utG1881e2Q7S9IbLlhs5QZt2dUKfOo0pNBxesgyJ9pPxbWriU5u+KjEasQbH8=;35xhGDqsXpeW3EwiaPMuTw=="
+secured: "byHKYm8eUgJjBbHE8rVvE+jjgFXnnTNydP3jZWP6+w0k3FhdMqthvEUhLQkfgDdBSUGSNOCNrUfys+OQuQ33Ew3hJt6KshOEaETkJNsfwnKLM8FpuyLAO8QK8sWbzFNXW14wdYXHWZulhfoXEbEZrblhOQBEYHTLiBv2gVjR2jZX+85eyI/cyo4GTZZIFgTpD1BxVq1GPwESK85BxxItx2NjOjOFUsnkcSOK8cq5LBokZ3zwgnb6S3Ic1jWeKQCnAo9mAzJyFlmPUJWN+m8JsqcBdSfGkrkJHFb0cBOXxutiWQ46YrlWLIcOITbw4fuLYFCixD+8uWqLqGhk8FCrZrPLH/d/+ES8gTFnt9KSS20=;ljJNwjQkRE71/lpjClotJg=="
 ---
 

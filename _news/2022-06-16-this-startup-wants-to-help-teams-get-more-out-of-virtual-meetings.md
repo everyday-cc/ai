@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/amp/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:

@@ -213,17 +213,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Google suspends engineer who claimed company created “sentient” AI"
-    excerpt: "Blake Lemoine, a software engineer on Google’s artificial intelligence development team, has gone public with claims of encountering “sentient” AI on the company’s servers after he was suspended for sharing confidential information about the project with third parties."
-    publishedDateTime: 2022-06-13T05:45:00Z
-    webUrl: "https://mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html"
-    ampWebUrl: "https://mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/technology/448510-google-suspends-engineer-who-claimed-company-created-sentient-ai.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "If AI Ever Becomes Sentient, It Will Let Us Know"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
     publishedDateTime: 2022-06-13T16:00:00Z

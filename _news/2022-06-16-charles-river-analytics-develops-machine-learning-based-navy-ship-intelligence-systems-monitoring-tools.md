@@ -66,22 +66,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "How augmented analytics can empower data-driven enterprises"
-    excerpt: "Augmented analytics helps organisations deal with the complexity and scale of data that has become typical in digitally transformed modern enterprises, says Jacques du Preez, CEO at Intellinexus."
-    publishedDateTime: 2022-06-13T06:38:00Z
-    webUrl: "https://www.itweb.co.za/content/VgZeyqJlVex7djX9"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/VgZeyqJlVex7djX9"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/VgZeyqJlVex7djX9"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/hDjJj9ZzGy9L1UTC1nwujzdXD-OK5mfSV8C8qtcltGFxiTXje7XZxzAOjq5DHRrR7_aNKHCI27QO7qIsdclz_W3TCdz3rT5_mic=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "How Geo-Enabled Analytics Improve Outdoor Intruder Detection"
     excerpt: "Smart security cameras use video analytics to detect intruders by automatically “seeing” movement and sending alerts. While this solution works quite well in stable, indoor environments, just imagine what a smart camera must contend with outdoors – where everything moves,"
     publishedDateTime: 2022-06-13T14:49:00Z
