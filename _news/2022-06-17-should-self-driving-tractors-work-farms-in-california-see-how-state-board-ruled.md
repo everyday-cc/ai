@@ -1,25 +1,20 @@
 ---
 category: news
 title: "Should self-driving tractors work farms in California? See how state board ruled"
-excerpt: "A board balked Thursday at letting self-driving tractors move in large numbers onto California farms. Monarch Tractor had sought to expand beyond the experimental use it is allowed in two vineyards in the Napa and Livermore areas."
-publishedDateTime: 2022-06-17T14:52:00Z
-originalUrl: "https://www.sacbee.com/news/california/article262591907.html"
-webUrl: "https://www.sacbee.com/news/california/article262591907.html"
-ampWebUrl: "https://amp.sacbee.com/news/california/article262591907.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article262591907.html"
+excerpt: "A board balked Thursday at letting self-driving tractors move in large numbers onto California farms. Monarch Tractor had sought to expand beyond the experimental use it is allowed in two vineyards in the Napa and Livermore areas. The technology needs more ..."
+publishedDateTime: 2022-06-17T14:51:00Z
+originalUrl: "https://www.modbee.com/news/business/agriculture/article262591907.html"
+webUrl: "https://www.modbee.com/news/business/agriculture/article262591907.html"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Modesto Bee
+  domain: modbee.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "uikhHRiAT6H7Sqxcy7vIVEcF2y2+vcym4erT9lNKP9dkHcFXfV29ojeV+EMDFqYn3TDhcxed+lhykDmVTOLY8mLsibA86ANKm7YJBPkDjzeTf5PJfaKhzTga3su/dLo3TRHHd/CKXZclDZOAg7wuNHRESgBLJuCjn2E3b3jHxVZusVSSYCp9HKgpHqSS42sjUabRUFC26pZO8yzNp4ZmQlYzAa0WGg+rnYO1F7529gA7sW8JAzmJWi2yvKj2gKABlaGxYAckLAeNS9H1pDmmmD5y3smjcRrx3ELCGr92L/40oXBkU36XVL3rcuACS0yKth19NqcY4lx+mxz8uLrFsCljT+RsgP7Hm9RZJDRbMLOvBYUtTbYQPCvvTZ9B8Kja1Pd5P88g/Ll0GA4QVWCYrzVkqutRj2ONet81rdNuKc6F9xfytMeddoyY1GDkdO5mD0k0wxVAV0l+dXg3VZDnyeqwMhDhIj2+1kKc5pq1Oi9FYyoUuy2O3YDpQ6VCAlZcSydZLX8pBvaJk0deJbJw/g==;q/bK32Zv3jbd03vk4CcqLQ=="
+secured: "nZ6T5sgNfvYL2dYznZfZsLd+K4iiSHCfVN28JTLoL3zWVdVMKs/S29jX6ov3B4KwXvB5YqTJJ26mDwrepfW04xnqe8Fc0nB5RRyCv3xzJVhFbER07sAXdKMfy0Sao9p7jb9Gj7M50obxyMiYusfPrM0gjOU0RWQcSryM6OquNytJKF5LY3NB+VYNwTzX6ZJW4utzDeb8TMydYkOwgqSfi1iyXO1YzVHI8d7O3DCPgqpjX2webIZTaBWjJkk0XbhD+mg1H2eK6Cx0F2IP8591QbTQLWn8pL2KfPiHk+cfBsjRATX9a9yNCDusK+4V446YsR/SfK8xk9YgDfPfg53YXPpA9j1d+7lSbvwIf3v43zM8+XawvTDlSRYWJZD3CgOihx/wQcUo/GgATlpr1lUiPkoHrJ9i5KQsa+d4mvFY5sOvETB7KDLnEkcfJfpGQ/QgwPqrlt8G3KuSQUkhW4hf1fWmRrIU3tSMpvJIfZQb7IniZJUFfeDwCVfCppLG/rWhqnVUbKdSpuHGtAHJwOUlyg==;pNT9u5XzUSnKhXDn89sakw=="
 ---
 

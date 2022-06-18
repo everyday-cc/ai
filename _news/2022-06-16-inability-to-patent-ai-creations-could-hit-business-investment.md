@@ -3,12 +3,9 @@ category: news
 title: "Inability to patent AI creations could hit business investment"
 excerpt: "Companies could be incentivised to keep inventions as trade secrets"
 publishedDateTime: 2022-06-16T03:00:00Z
-originalUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253?shareType=nongift"
-webUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253?shareType=nongift"
+originalUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253?via=indexdotco"
+webUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253?via=indexdotco"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: The Financial Times
@@ -17,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6c48e57b-599b-415d-ae6f-2f614ead1b14.jpg?source=next-opengraph&fit=scale-down&width=900"
-    width: 900
-    height: 506
-    isCached: true
-
-secured: "1HRibJrxi71aHX6JNBTZgfQWLVwlCHlD236nwtoeXBcKM3QNzYo+jwRYAja7b2hgQfHoa2MCAKcHIcsn233p+55xOOcBBPWRE700qBPyAT4FS5dGcUCZADGtGLpQ+Q9dSv9mr8BFTCKwGe3tDze6N5/51uNCEOU80qSZM66mCktPaWP73vB+exHbF+0qDJb99XZBoMfKyfxzNzZDm6ukdwYw7QzUFYqx6pbgVF6vsLV/7yed5YB/+7ZEFQFh+VgJblvGqu65SvvsSMRWFklYDqV2TL+5v2eH0+gIEx+hkKWbo7l/oUMUhRbV4G+WJ7RFJ2jzwvDnUbndQyqOAcdp50eie2YMe+wIbtDf9WldARrOo7hDAugMj/ctP39IvbXF5x8n5PkU/IzL7nmEx/oo+uQHZNq8C0XuoO02PNMKVUEmF71Oi7T+7/2AESoE55H7TCEzd4Pc5etBeXzCgw4GmbzRaDSTc9KsKUnEWfEEQf52hLkUrw1wb2TeRWrZBz+fhX8j0aMlalmj/QxVNlXBHg==;GrUhyeOoUdgcRV91vvJYEw=="
+secured: "K1K8nTLefjzQvL8tTLOFyxmYRm0m9UUjgIEBxkxwUW3yHbm42zLXttRL/SsxJweDjGyloJzEUE5TXTDN7DFKCknFbYEeeHLN8gdk0lFRCiV3TdbLGQ+DsakG0tdGq6P9jXszswCj9yvoeL5n0CK13A6L4rMdZqqUpIFc8v0yVUKuUCIOe21eE9FHwyxfkGFz2AmwbBQd5cHz/fOGUcxfeiZS0/+RitvIgfCa/0QzXBME58Lcm7JQEiZ70xI1/5GY/dSO1P2exeF7Gpx0qh3HjUzKMA/NIVyj4Q0Raswi8x6vSWYUDxSJ6igxZwTarpetn1czAR1hCW09G81j84JZn419//NWrcpAvikPy2fKUxxF7j/qm9LREyLxjn2TvfOv4O5r/fzBCMyymUFxjjnmVaQVtXisGhY/uDM1Ut8KMVmZ2s2y6CDbx/VaJd8/MEkcSLvia+he+mT801jFrU8Yr9w6sm05lBDv+bhooUEnoca3OAIcLzX4wgcxMdRJ9XQA9Jyfg43Wjj1MpK6ttYnkeQ==;iUgsQNGnSFN9yl7XjYsxvA=="
 ---
 
