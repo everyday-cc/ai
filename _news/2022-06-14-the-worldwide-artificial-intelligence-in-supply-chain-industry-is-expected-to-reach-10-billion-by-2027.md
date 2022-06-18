@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27692264"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27692264"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -18,28 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027"
-    excerpt: "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis ..."
-    publishedDateTime: 2022-06-13T11:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27667412"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-  - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-06-16T11:11:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "i0ZBj2fapJFij+YmoV54O2puwzJbqpl7gVyxW/IHfdcLPH7yx2eusem7y4pnDVdUrBeV2wPTI2+AYcYXoOcpMXiz50Iza48jCTzv1iLwRf1g8g4Tb1oQzKSkNG2BYPr4LzT+hmty65NIxdBftbgkOBc1JylYhYOSgzNq8YkGPdTBj84ai5+t34YKzeQOv/djarX0B2WJ3UYNKT2E7VPbymz5aIhgs08QReD2Ze/rguo16WQi3WSCxhUYrEcDhzw16Q0nQ2LTJ6luq6I2m7jMl1ydUYN2eub7eprUx4xe/08kjep16RQN8ziZgf03jNTPfp7XdDQN8xKCBD6yBzd1teJ9gT84W3rimoyIuPano64=;HD5hqb18jur1bz2PQFVlqg=="
 ---

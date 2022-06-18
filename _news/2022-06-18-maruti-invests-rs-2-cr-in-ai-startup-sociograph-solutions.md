@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
-excerpt: "The company plans to use the visual artificial intelligence (AI) platform of SSPL called Dave.AI ... programme since 2019 to empower the mobility startup ecosystem in the country. The Maruti Suzuki Innovation Fund has been set up with an aim to invest ..."
-publishedDateTime: 2022-06-17T18:58:00Z
-originalUrl: "https://www.dailypioneer.com/2022/business/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions.html"
-webUrl: "https://www.dailypioneer.com/2022/business/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions.html"
+excerpt: "The company plans to use the visual artificial intelligence (AI) platform of SSPL called ... programme since 2019 to empower the mobility startup ecosystem in the country. The Maruti Suzuki ..."
+publishedDateTime: 2022-06-18T04:00:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/92294029"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/92294029"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
@@ -67,6 +67,6 @@ related:
         height: 337
         isCached: true
 
-secured: "jQY1vZG36f4SJT5EnFLlDPlkYy18KIuWcigoc9JmHkBjmOg67Cxni49gQhSRMCpZXtnGnwuqv9k0sr+B+KSLZM+fkW6axoN+xy0HxPNouTHRBuOTXIS1hEgm3+xCM4wCeRH9ZEcK44U2EAlsi5cMHBxzS0te20riq68LIv9ieWPQT5Y59NaiivDZtY0imvsJa4oXgH1CSPHRJlhrD8AC1JliKXz6LBJ66MsUjvStTKJuoYF26MDpiCmR5sJXlLUot3iTzGkhp8ZmBdJI5OOKXAXNHkC8ZhzlxQAOqS000yUWHMdJi1qL49egVc692zULgLWLsr1EogSS+B/vNZyz3IFEZAkluM5zpd+nmFQlTKw=;WNJowGdul3/0fI9pq8ZCdQ=="
+secured: "78tbd2i0ER7b05P9AfZv5ctaEErFnu3sHuvhp3Tu7IwdZbGiWG6a8IlOTMJCwVHE+xnMr8TT19OsY3u8p/AyFHbeWDnVWvglL+W90RkDdtb4FTx9nkNekVZl9GqFzlDtYOwriJzXobxtJgrZDw5VhZTT3PbE4fWs6UdN9oMqVTrJPNbY/edbL90YJZUmJi4WtlGoR/usBMCCeuV5HZRS4OCJrAPKt1vkSs1h6oN7KYVB14CFI8+jIwT8H2y0Z+hVBjZKRaeN6JqjnPr1USUymW9WlUos/EOTEFCfpuuRxXMzGOzshwozgD/Ax/0uvxI27IVtmuvQ7xHH9kFm79KZpS8BSDZVKoJ3GgjlRE8tYdA=;Ni0lmaEkVnKAfisXJhg8gw=="
 ---
 

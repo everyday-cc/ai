@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Microsoft Teams uses AI and machine learning to improve calls and meetings"
-    excerpt: "Disruptive echo effects, poor room acoustics, and choppy videos are some common issues that can detract from the effectiveness of online calls and meetings. Through AI and machine learning, which have become fundamental to our strategy for continual improvement,"
-    publishedDateTime: 2022-06-13T13:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2022/06/13/how-microsoft-teams-uses-ai-and-machine-learning-to-improve-calls-and-meetings/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/uploads/prod/sites/2/2022/06/CLO22_HotDesking_012.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
     excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
     publishedDateTime: 2022-06-15T20:56:00Z
@@ -117,15 +103,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Microsoft Teams taps artificial intelligence for headache-free meetings"
-    excerpt: "Microsoft Teams continues to improve artificial intelligence and machine learning to help users deal with the biggest video conferencing headaches."
-    publishedDateTime: 2022-06-13T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/13/microsoft-teams-taps-artificial-intelligence-for-headache-free-meetings/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
   - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
     excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
     publishedDateTime: 2022-06-14T00:09:00Z
@@ -139,6 +116,20 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg"
         width: 375
         height: 375
+        isCached: true
+  - title: "CaixaBank and Microsoft Establish Innovation Laboratory for Artificial Intelligence Solutions and the Metaverse"
+    excerpt: "CaixaBank and Microsoft have signed a strategic joint innovation agreement intended to promote the application of Artificial Intelligence (AI) to new financial solutions, as well as to create new and innovative work environments in the metaverse."
+    publishedDateTime: 2022-06-13T17:01:00Z
+    webUrl: "https://financialit.net/news/banking/caixabank-and-microsoft-establish-innovation-laboratory-artificial-intelligence"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 51
+    images:
+      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_2_10.png"
+        width: 900
+        height: 480
         isCached: true
   - title: "Call quality in Microsoft Teams is getting better using Artificial Intelligence"
     excerpt: "Microsoft Teams has been on the receiving end when it comes to nifty features, which are all geared toward enhancing its user experience. However, there are"

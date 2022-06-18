@@ -166,6 +166,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 27
+  - title: "Teslas using driver-assist systems were involved in 273 crashes over the past 9 months, according to NHTSA"
+    excerpt: "The National Highway Traffic Safety Administration released on Wednesday nine months of crash data from vehicles using driver-assist technologies like Tesla Autopilot as well as fully autonomous ..."
+    publishedDateTime: 2022-06-15T15:34:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/06/15/new-report-offers-insight-into-autonomous-vehicle-crashes/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 21
+    images:
+      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
   - title: "273 Teslas with automated driving systems crashed, feds say"
     excerpt: "Automakers reported crashes to the agency from July of last year through May 15. Tesla's crashes happened while vehicles were using Autopilot, “Full Self-Driving,\" Traffic Aware Cruise Control, or other driver-assist systems that have some control over ..."
     publishedDateTime: 2022-06-15T13:50:00Z
@@ -194,6 +208,6 @@ related:
       domain: ibtimes.com
     quality: 15
 
-secured: "uPnGKjPwIBBfOugUgkkuVi5xAwZGtbN7ZleqCfp7r12BR0WW7WQRW0Ctm0Xt2XyVimbRxUWmmCiydKmNxooDzp1GfoPzql1VVnel+uLVudUuhvBif/zbGYcvtDh88Azk6FGGd473cyMwpBy3QQH7ORjY3Lm1TiQ2AVpm9+FOG/cDiH+ysjXgTfk/GxBIUmiqz88FUSEzr5xuLZi02tuxyiOjgaVJReGHjy9ktV6GvLs9eqEtA0tBxAiXalcN9YPqUareTpdH2NL4bFocIPCWAeTbqWUfyEr2J1DeXKqwV9pckuTPN0Ac8H+CNsa5RH2iaRM2gLT5JNrr/sDqC91iABMvziMXyv1f6+bPORkzYlQ=;W/3ucfDyOqvSvD+BAgKV2Q=="
+secured: "bgVocNOHCtfHFgaEWMzWFMlemfxM9F/eEITlOEZCR44iDXXfbPBWlZ7ZIDvwVqxfnEG3oEfDmX96Zi54FXq5wXatEY8383aipMR/qcYoEnq2w2eCoUOsZbgQfUDSJTbXAFxS5hONi64eFexPEtgUEfksS8XPKIQSASvOsa+DxbD9QaCtd7u18sP8JRQJKjf6M6cGmtIyWFri/REfcpmUu6lDKfT2mfvXgG9p0dhpfPAAUjPUnZiOVxePQS/kfL7o8ig0NKiZrxpBR2fivyDsCHWaqR2IjJXmNy8rTquIZjBTR0R3FisLYNNYdABYXeH7vckO/gjBXKjo9VPzwOkrotkmWK/97YjnKGdOwAoaBVA=;ZRhl4oV3DiT3Rg6vX7btSw=="
 ---
 

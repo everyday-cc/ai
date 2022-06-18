@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-    excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google."
-    publishedDateTime: 2022-06-15T12:23:00Z
-    webUrl: "https://kvia.com/news/2022/06/15/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
+    excerpt: "MADRID (AP) — A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias ..."
+    publishedDateTime: 2022-06-15T12:29:00Z
+    webUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: Sioux City Journal
+      domain: siouxcityjournal.com
     quality: 39
     images:
-      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech-860x484.jpeg"
-        width: 860
-        height: 484
+      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "Four AI Pioneers Win Top Spanish Science Prize"
     excerpt: "Four scientists, including two Britons, considered pioneers in the field of artificial intelligence were awarded Wednesday Spain's prestigious Princess of Asturias prize for scientific research."

@@ -43,15 +43,6 @@ related:
         width: 521
         height: 322
         isCached: true
-  - title: "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports"
-    excerpt: "Market by Component (Solution and Services), Technology (Machine Learning, Natural Language Processing, Computer Vision, and Others), and Industry Vertical (IT and Telecommunication, Retail and E-Commerce,"
-    publishedDateTime: 2022-06-13T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 1
   - title: "Healthcare Machine Vision System Market to Reach $4.5 Billion, Globally, By 2031 at 22.4% CAGR: Allied Market Research"
     excerpt: "Increase in demand for automation in healthcare applications and rise in demand for machine vision-guided robotics in the drug dispensing industry drive the growth of the global healthcare machine vis"
     publishedDateTime: 2022-06-15T13:00:00Z

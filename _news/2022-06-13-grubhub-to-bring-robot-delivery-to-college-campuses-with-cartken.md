@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Grubhub and Cartken Partner to Bring Robot Delivery to College Campuses"
-    excerpt: "Robot delivery will be available on Ohio State University’s campus this fall CHICAGO and OAKLAND, Calif., June 13, 2022 /PRNewswire/ -- Grubhub, the leading online and mobile food-ordering and delivery platform on college campuses,"
-    publishedDateTime: 2022-06-13T13:00:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-ohio-state-university-68791e1f4abc177e83036bc7199d3758"
+  - title: "Ohio State U Plans Full Rollout of Robot Delivery Service After Spring Pilot"
+    excerpt: "Students at Ohio State University can now order food delivery via self-driving robot. The institution completed a pilot this spring using delivery robots from Cartken, a technology startup specializing in AI-powered robotics,"
+    publishedDateTime: 2022-06-15T00:00:00Z
+    webUrl: "https://campustechnology.com/articles/2022/06/15/ohio-state-u-plans-full-rollout-of-robot-delivery-after-spring-pilot.aspx"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 36
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2022/06/20220615robotGHxC1.jpg"
+        width: 644
+        height: 422
         isCached: true
   - title: "Food delivery robots to return to campus this fall"
     excerpt: "Food delivery robots will return to Ohio State’s campus this fall, Grubhub announced in a press release Monday. According to the release, Grubhub will partner with technology startup Cartken, which specializes in self-driving robots and delivery operations."

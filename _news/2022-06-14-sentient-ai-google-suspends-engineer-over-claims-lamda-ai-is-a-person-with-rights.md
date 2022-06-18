@@ -194,15 +194,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 37
-  - title: "5 things Google’s AI bot wrote that convinced engineer it was sentient"
-    excerpt: "Blake Lemoine made headlines after being suspended from Google, following his claims that an artificial intelligence bot had become sentient."
-    publishedDateTime: 2022-06-13T12:21:00Z
-    webUrl: "https://www.seattletimes.com/business/5-things-googles-ai-bot-wrote-that-convinced-engineer-it-was-sentient/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
     excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
     publishedDateTime: 2022-06-14T21:12:00Z

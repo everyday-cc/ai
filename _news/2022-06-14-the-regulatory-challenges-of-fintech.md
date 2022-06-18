@@ -66,17 +66,6 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 36
-  - title: "Register for the BusinessTech Online FinTech Conference"
-    excerpt: "BusinessTech will hold its inaugural Online FinTech Conference on 20 July 2022. The BusinessTech Online FinTech Conference is an exclusive event for high-level banking, ICT, and F"
-    publishedDateTime: 2022-06-13T11:16:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/596426/register-for-the-businesstech-online-fintech-conference/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 24
   - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
     excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
     publishedDateTime: 2022-06-17T12:42:00Z

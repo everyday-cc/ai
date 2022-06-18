@@ -1,30 +1,29 @@
 ---
 category: news
 title: "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers"
-excerpt: "H2O.ai, the AI Cloud leader, today showcased a unique set of capabilities and use cases that enable rich insights by seamlessly connecting data and machine learning. Snowflake and H2O.ai bring platforms for data and machine learning together to help more customers around the world innovate with AI through a native integration that allows users to access all of H2O."
-publishedDateTime: 2022-06-15T18:28:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
+excerpt: "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En"
+publishedDateTime: 2022-06-16T08:16:00Z
+originalUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
+webUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
 type: article
-quality: 32
-heat: 32
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Bdaily Business Network
+  domain: bdaily.co.uk
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=1200&h=627&fm=jpg&fit=crop-47-32&s=88fe7b821d6aca1f29e9a18f3d17c66c"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "nf2Bg9DBzDtWih0HrMjwZv8oyq6SEoJA71dCEs/NfobBtqCSx7Um8ELJzpZa24/OAByehGj+vlZJOwIhmrzgnnRgkD7Hmei2IwYZ1LogoJMWI/FDvjGf6epFeDa0NB1zHHOrnkoddF7EcBvvsP6IVuq98rg0B7ByZHvwCVXYz+g8tFvD194m9Mfhi1zg3kUJ/kgZwrDDayJmt15gD/IdtQnBk4U5d8heylnx0I1Aw+pyit/w99335lNKSEgvadQkW4Z/QKUoH8fGZllQbb+HY7kJ0OyEcCQpSticaRgh69vH7x+ol+GbhWkYzmHqY3S1KiPT0pUseYDDowRRynmc8reK12zIwYaJPzXKuYXKXO7qwEtw7HMHRt4yN7spQQm539k6iMX6GEaD6Z8XhEqxtJr0SVcklXoAaJksGe9lxkwNqLtMxa1CxY0tNXOxgsqovU9p0mDsKgmh8F4X1R+ddIVIYfkTxLvTPOp+buwiIMVOejztp+IGBHjFg2CrLwfXZxt6Zf2QmsTwWilSOg16jw==;9WTUzbf4TA5M3la2YTC5rg=="
+secured: "tL79cS9e0uArflnEwKlcKtDkRe1sj8NeEV/HeSre37Y0WazlVDvjeI0sz/V4If8XuLNWWRI213gpDlzIlgFNEqobpWuHV56sD1jjaNgZdtOJAZhFdpg4H4iXXn6BJVGx3nbVDZsSn1d2HYVp1jTW5Qh4530rhINzI+iXEm+O7Gw3jeyflhSLspWMOJDddvvGYBH5lxvRxHVdo8sRahjZ1VXmFiJnBVciPvDSuG1F9wSauhfDDYsjnDEZaPDpZvxg9SlS4abAxmvxT3shSAXB6sDwyPx6z53iPsB+1h2yvr+Wt4EWlDq5UjvXp2xQY29J8EMslMTCsiBKxB+eyPKoy+AdFrf5nFSXh2E567ho2ug=;zssD5um3Xn1yNrlehtdapg=="
 ---
 

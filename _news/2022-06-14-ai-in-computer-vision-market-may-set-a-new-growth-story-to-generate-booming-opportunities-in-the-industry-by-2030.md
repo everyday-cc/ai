@@ -62,6 +62,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-06-16T11:11:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "HJK/3MoypaNL3F454U52os4xL8rP3pfJ9ta0j3k+PDX9OSXshphpI6x+7MzDoHucmHLuKhUiffbfWd2RjcOGOw430+dWDXdlplq085/MgC91x3+ZzWbsB+tzIzZKGfbMPY07Lx9NKjFyPiUChyUXz7xnMcxQ4Tg8J6gmdrxWy3GwZ1tVBOdGP/YABJKApC7Yek8d+LS/ZxvoBKupFJre02fusMdBxJahTTWIgbM1WVuBi3malR2JQ3suDSX9e7Y03YpEtOis75iNyIL8+/elVMd3GjxQ6bPRkJxFCcFJ7kL2KOT6uYIHggmWOwju0jzmfJGCM4+EgkHjnAU1PwxHs9FVYpcyWHW1deJI7PTC6GE=;CaidJ2IFMuBpUceKRWwPgQ=="
 ---

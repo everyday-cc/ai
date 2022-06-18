@@ -60,13 +60,13 @@ related:
         height: 337
         isCached: true
   - title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
-    excerpt: "The company plans to use the visual artificial intelligence (AI) platform of SSPL called Dave.AI ... programme since 2019 to empower the mobility startup ecosystem in the country. The Maruti Suzuki Innovation Fund has been set up with an aim to invest ..."
-    publishedDateTime: 2022-06-17T18:58:00Z
-    webUrl: "https://www.dailypioneer.com/2022/business/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions.html"
+    excerpt: "The company plans to use the visual artificial intelligence (AI) platform of SSPL called ... programme since 2019 to empower the mobility startup ecosystem in the country. The Maruti Suzuki ..."
+    publishedDateTime: 2022-06-18T04:00:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/92294029"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 17
 
 secured: "39t3ItF2fX8DFewzcuh4k6/OYGkY+ynLWpOglv0E3POLN4DQmdcPKrGhXz1T+Mz0QFXM32oVtMtU9oyRn2H9XUHynE+asfeykVwx8F6j+IHJBF6VWaVXxEdo9murPPYBWBd3MHNiQyqgN2apK+WXX9QHD7tyeyc5p0DiMEQl8uQ+gR8mRc5sWAtstLJVfqtbNrD6EvabLJU1NbC298Lfzz36m6DEU7HJy7cdJ8Xwxa7ZGlZEQH9IZ3aXmZmh9nYzfIvSa5xEE+54IpZ9+ggdBZS/RrZ0eKdzy4qqEtmVrJudVuT43Nv8Ue3Hy+m+CqbkAu2mlh8tltvvTXzbHo5rSJa+DfhITqORX0+A4WHkovF16Rb/8cHuRgiOJlSvKYNl4t2szk4HXveFtbnkQbuz6sBIS9OwI6VDzaVWAQpnFubLjO5hwQim8aMn6EHsqEELORbix+KZkHFTn55LX7G6D73XAtJvDr4ns2lIwrFr41aIgKriad6LNK4AqgpnDXr/Xh4ky1KAKUmplbghRXes/g==;UpSvnetZX4WOoqEMqo2tsw=="

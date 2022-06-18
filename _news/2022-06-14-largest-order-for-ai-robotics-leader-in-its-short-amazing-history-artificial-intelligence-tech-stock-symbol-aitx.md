@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader
 webUrl: "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -35,19 +35,10 @@ related:
       domain: menafn.com
     quality: 49
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?602743"
-        width: 377
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?489455"
+        width: 333
         height: 250
         isCached: true
-  - title: "Largest Order for AI Robotics Leader in its Short Amazing History thus far"
-    excerpt: "AITX Receives a 37+ RAD Device Order for a Global Leader Located in 60 Countries: Artificial Intelligence Technology Solutions (Stock Symbol: AITX) Artificial Intelligence and Robotic Solutions for Multiple Applications."
-    publishedDateTime: 2022-06-13T11:18:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-13-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-thus-far"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 47
 
 secured: "wmiYk4DoaaiF6dUZxtKX6++QSKzL+/OPHPNbwKit8WucWhT95RUcE1BobK3jwxnSt5qjrjosWirtLRDMgL1o/oOiWRO88XHcdyXeg1b2vEoHXvOsALr0FQVRjwof3sSYoTbxPWiTCiKTzPytQRrdNVNOF3lAQCHehvxhhoMGuP9VZP54DfgyAgBGcGGRYVrhEXuoMd99wMAPKgH0mhu1Huj/OEqvnhGaJqSwBcXNHdggYQYmPOSu6nmhdxW0f5QYJzON3wyiNWRghrthoHM5KFNRgpEBWLc/B8NKBQ/VioMYZnxqxeIxbY7FkNgjb66qlneiLzI2oytYG29ke5roczZn1wzziV5A5adQUsw1vMwszoja3pvSVT72DiHBVka6qAxytP0q0L9ZUFekBP/Z0FfdSANUsRoZrgX8966Nf7mgTYJtSkrMVlQzq53vmO7zQEhqjgJjqmBQ88M0d6ZsViCtu688AVKzVkaFhcqMn1S+r4DHNUw1Ktb3jHu8yl9KAAZnwDHFd7uoS1cSi+fXdA==;D0Rm33wW/GQx9FSkuqiQ2g=="
 ---

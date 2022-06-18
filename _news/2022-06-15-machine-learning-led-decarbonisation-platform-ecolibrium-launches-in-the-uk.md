@@ -41,15 +41,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Ecolibrium brings Machine-learning Decarbonisation Platform to the UK"
-    excerpt: "Company brings together data from Internet of Things devices to provide businesses with a 'blueprint' for sustainable operations"
-    publishedDateTime: 2022-06-13T12:18:00Z
-    webUrl: "https://www.businessgreen.com/news/4051157/ecolibrium-brings-machine-learning-decarbonisation-platform-uk"
-    type: article
-    provider:
-      name: Business Green
-      domain: businessgreen.com
-    quality: 4
 
 secured: "/7FC5u2dIFYPWblK6o78IZAlSZBW+VFVPkbNvp7NNv7ezNKHSRLo1Ru09CBpQpgNMsp+/ugknOtyebHpTrFtJAJw/m1gxUIK7rf2QgmHGcs99hhGLO+EDGfemUEAY5ds5ZzzeU/uj29H6Rhngzx4Tr03gUG7pHXeX/FKsp6QXJ+n+WooStGuvgNX6xg9QyXbd1QHvDlCzjuCzR/YJGAPRzX6Z3KSHSHXN/VlUH6QYohW52ePl+/puDlXiCAXez6KJrexXuOaveCVBsfZq+N0CY0aC/Sv89/5+MOhXMa849bxiG0OFUE7ynh4TO7qezGIIaiq5icgyyrQJj1EXdKMdIY6XsMBV82r+wnTweI/W4Oy02q3re1zP0y6HJ+/o/pjTAgqcME3jqBFwp9lQ4NgjUWqIkdcUhwnIJUa45aN9hApczwworO29JxQeyxBfxwpi2nnMS/DqHVJUlnf9n2EChg4mf+igxOj8QNRij1hOXwExtV5/Ek6vIRmgiUQzx50qwwbZicFjGhdBQhmTsIwMw==;Kswvp1eNWuONUNTv9BQqRw=="
 ---

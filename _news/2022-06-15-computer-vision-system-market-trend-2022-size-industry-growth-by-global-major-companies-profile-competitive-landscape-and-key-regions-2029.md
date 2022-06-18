@@ -87,20 +87,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "The Worldwide Artificial Intelligence in Marketing Industry is Projected to Reach $23 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-06-13T11:44:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-56d77200fa8c4b1c967b0b3dabc1a143"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Machine Learning Operations (MLOps) Market 2022- Analysis and In-Depth Research on Market Size, Trends, Emerging Growth Factors and Forecast To 2030"
     excerpt: "The new report on “Machine Learning Operations (MLOps) Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered by Market Research, Inc ..."
     publishedDateTime: 2022-06-15T13:48:00Z

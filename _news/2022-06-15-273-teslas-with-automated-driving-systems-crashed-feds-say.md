@@ -160,6 +160,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 27
+  - title: "Teslas using driver-assist systems were involved in 273 crashes over the past 9 months, according to NHTSA"
+    excerpt: "The National Highway Traffic Safety Administration released on Wednesday nine months of crash data from vehicles using driver-assist technologies like Tesla Autopilot as well as fully autonomous ..."
+    publishedDateTime: 2022-06-15T15:34:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/06/15/new-report-offers-insight-into-autonomous-vehicle-crashes/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 21
+    images:
+      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
   - title: "US report: 273 Teslas with automated driving systems crashed"
     excerpt: "Tesla reported 273 crashes involving partially automated driving systems, according to statistics released by U.S. safety regulators on Wednesday."
     publishedDateTime: 2022-06-15T18:01:00Z

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence in Drug Discovery Market worth $4.0 billion by 2027 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"AI in Drug Discovery Market by Offering (Software, Service), Technology (Machine Learning, Deep Learning), Application"
+    publishedDateTime: 2022-06-15T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27723446/artificial-intelligence-in-drug-discovery-market-worth-4-0-billion-by-2027-exclusive-report-by-mar"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
   - title: "China Automotive Voice Industry Report 2022: From IVI Software to ADAS, Voice-enabled Functions Continue to Evolve with iFLYTEK and Cerence Leading"
     excerpt: "The \"China Automotive Voice Industry Report, 2021-2022\" report has been added to ResearchAndMarkets.com's offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode."
     publishedDateTime: 2022-06-16T16:25:00Z

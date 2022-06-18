@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-06-16T11:11:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "aYpyu5az1Hy5cz1WJz9azEgUteyqQy2t1ch4FszVdfeooGtCmf0rkALeVw/pFG3D8T/0J3CrEjh5NUMTHGwG4TV6cm52vxovmKAFdPN64mAVHfbYmxmR6hZ44uUOGgjf15MIcp4R6MITd78fgPx+zqy7jc2qKyeExTqfzIGRuiENKjNCRJ7wIEoPHj5IuRf1Bt549LAxK0nYJbj8OtJ59x3gYPEJPTsE7DV2xxPwkicIRVPMeyvixCDFwHVPLV4AKWvGkAziI8EnQV5fUZjs+qfvVL34yGUicDs3LvFSSsrMKFZLVvCJIDNMv3ewbKkx77bCOxcxzpqXirZHJk4Eo5XXisRkw2VMkiuX2tFFhgI=;qrl4z6aKIG57hgHKw4Of5Q=="
 ---

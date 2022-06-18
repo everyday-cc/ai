@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-busin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,26 +31,10 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Marketing Transform Your Business?"
-    excerpt: "As long ago as 1872, science fiction writers depicted computers that controlled the earth — robots that challenged or aided humanity or human battles against AI machines. Think “2001: A Space Odyssey,"
-    publishedDateTime: 2022-06-13T11:54:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/can-ai-marketing-transform-your-business/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/can-ai-marketing-transform-your-business/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/can-ai-marketing-transform-your-business/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 78
-    images:
-      - url: "https://www.cmswire.com/-/media/442831561268453b9d0b92a753131c1e.ashx?mw=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Inability to patent AI creations could hit business investment"
     excerpt: "Companies could be incentivised to keep inventions as trade secrets"
     publishedDateTime: 2022-06-16T03:00:00Z
-    webUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253"
+    webUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

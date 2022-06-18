@@ -87,20 +87,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "The Worldwide Artificial Intelligence in Marketing Industry is Projected to Reach $23 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence in Marketing Market (2022-2027) by Offering, Technology, Deployment, Application, End-User, Geography, Competitive Analysis, and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-06-13T11:44:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-56d77200fa8c4b1c967b0b3dabc1a143"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Computer Vision System Market Trend 2022, Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
     excerpt: "Computer Vision System Market Global 2022 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety Products ..."
     publishedDateTime: 2022-06-15T12:36:00Z

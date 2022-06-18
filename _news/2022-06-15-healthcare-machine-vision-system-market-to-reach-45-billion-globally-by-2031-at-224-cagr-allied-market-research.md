@@ -51,15 +51,6 @@ related:
         width: 521
         height: 322
         isCached: true
-  - title: "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports"
-    excerpt: "Market by Component (Solution and Services), Technology (Machine Learning, Natural Language Processing, Computer Vision, and Others), and Industry Vertical (IT and Telecommunication, Retail and E-Commerce,"
-    publishedDateTime: 2022-06-13T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 1
 
 secured: "BJqIP+qj9capQPYAtKnshmVlNYCm5jQf16TBJw8wKbaqo3eFpOdmtMhk18T0Na571+BiP7BQwizslXcOSKFsIeoUkj8yUSHlVJ7tp5z2sl4ByhX+sxHG2Mo05mIyxTdal7bxRJ8lqMsnjReKbEQnIlKNXkCIogDN7XFL0pZxzDna4lioYRtH2ldBdwxQnLdatdEp3YfrzDdK0Sab0wuiNm3qkTqXG659yx6wkDcKyo/MCrc+40xN+pbEAPFRuRMoHv2GJEh9U24h6PjM7lB9W1vVnKn7SYEOtrrMns+KB1CwaPgrnetGFxnr+snZ0efN6JcU3CIlK8+K1E4fTdmcTP1wjs3HcpDMATx4Y5r8kMH3bF3sxww8InTTDBe3nlMx8IHnnI49QBvI4Cb+y4HGCHnedh4N7uUGZkLQ2gsxb3UsgVx8QPOWBiogDG2rVCcBs+ukZxQNtP1JHH6+TC0ayMgAoBsgIwZzZ6+rf/Yc8Axdyt7IIqOGdZSCK6y+hfUdPllKgvw5lmlHH1jOBktz1w==;fIs8owAP9g+M77FXNH2FTA=="
 ---

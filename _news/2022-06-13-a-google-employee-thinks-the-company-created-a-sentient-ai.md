@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/a-google-employee-thinks-the-company-crea
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true"
 type: article
 quality: 87
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -228,20 +228,6 @@ related:
     images:
       - url: "https://eandt.theiet.org/media/1688/viewfromwashington.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131196192660000000"
         width: 1200
-        height: 450
-        isCached: true
-  - title: "Google engineer says company's AI bot has come to think like humans, faces suspension"
-    excerpt: "California/IBNS: Google engineer Blake Lemoine has claimed that the multinational tech company's artificial intelligence (AI) bot has become sentient (able to perceive or feel things) and shown signs of being able to think like human beings."
-    publishedDateTime: 2022-06-13T11:08:00Z
-    webUrl: "https://www.indiablooms.com/health-details/S/11631/google-engineer-says-company-s-ai-bot-has-come-to-think-like-humans-faces-suspension.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 30
-    images:
-      - url: "https://www.indiablooms.com/health_pic/2022/b38182fc198858901978b28c7bcdab5b.jpg"
-        width: 800
         height: 450
         isCached: true
   - title: "Google Makes Headlines for Suspending Engineer Who Claims Its AI Is Sentient"

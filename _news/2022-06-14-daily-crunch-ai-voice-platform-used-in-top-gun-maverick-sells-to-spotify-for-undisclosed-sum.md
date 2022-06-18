@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-use
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spotify is acquiring Sonantic, the AI voice platform used to simulate Val Kilmer’s voice in Top Gun Maverick"
-    excerpt: "Streaming giant Spotify, most famous for its music and podcast streaming services targeting consumers, it’s making an acquisition of a voice AI company to expand its reach in audio technology — opening the door not just to building more functionality on Spotify itself,"
-    publishedDateTime: 2022-06-13T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/06/13/spotify-is-acquiring-sonantic-the-ai-voice-platform-used-to-simulate-val-kilmers-voice-in-top-gun-maverick/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 28
   - title: "Spotify to acquire AI voice platform Sonantic"
     excerpt: "Swedish music streaming platform Spotify on Monday announced to acquire AI voice platform Sonantic for an undisclosed sum. London-based startup Sonatic helps creates compelling, nuanced ..."
     publishedDateTime: 2022-06-13T19:55:00Z

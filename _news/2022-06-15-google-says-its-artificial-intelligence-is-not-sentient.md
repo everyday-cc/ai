@@ -183,15 +183,6 @@ related:
         width: 1200
         height: 770
         isCached: true
-  - title: "5 things Google’s AI bot wrote that convinced engineer it was sentient"
-    excerpt: "Blake Lemoine made headlines after being suspended from Google, following his claims that an artificial intelligence bot had become sentient."
-    publishedDateTime: 2022-06-13T12:21:00Z
-    webUrl: "https://www.seattletimes.com/business/5-things-googles-ai-bot-wrote-that-convinced-engineer-it-was-sentient/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "Sentient AI? Google Suspends Engineer over Claims LaMDA AI Is a Person with Rights"
     excerpt: "It’s commonly said AI is being overhyped, but even so, some claims can get you in trouble. That’s the irony of a situation Google finds itself in. The company has suspended one its software engineers who claimed  its natural language processing chatbot,"
     publishedDateTime: 2022-06-13T18:33:00Z
