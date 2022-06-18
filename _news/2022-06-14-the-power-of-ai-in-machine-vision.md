@@ -163,20 +163,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 49
-  - title: "Microsoft launches MLOps v2"
-    excerpt: "MLOps v2 will allow AI professionals to deploy an end-to-end standardised and unified Machine Learning lifecycle scalable across multiple workspaces."
-    publishedDateTime: 2022-06-13T09:05:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-mlops-v2/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/unnamed-2.jpeg"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Microsoft Brings Voice Controls to Windows 11"
     excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
     publishedDateTime: 2022-06-14T13:38:00Z

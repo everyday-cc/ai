@@ -7,7 +7,7 @@ originalUrl: "https://www.computerweekly.com/news/252521650/Fintech-firm-chooses
 webUrl: "https://www.computerweekly.com/news/252521650/Fintech-firm-chooses-Salesforce-software-to-support-growth"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "AWS launches first UK FinTech accelerator"
-    excerpt: "Amazon Web Services (AWS) is launching a new FinTech accelerator in the UK aimed at supporting UK companies to build innovative solutions in the cloud. The tech giant’s cloud division said the AWS FinTech Accelerator is open for applications to UK startups specialising in: financial inclusion and sustainability,"
-    publishedDateTime: 2022-06-13T10:10:00Z
-    webUrl: "https://www.fstech.co.uk/fst/AWS_Launches_First_UK_FinTech_Accelerator.php"
-    type: article
-    provider:
-      name: fstech.co.uk
-      domain: fstech.co.uk
-    quality: 39
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/AmazonLogo_Web.jpg"
-        width: 510
-        height: 203
-        isCached: true
 
 secured: "6GHikWcVQ6FZRoZcQeDoQYShCnhS2zAni24Y1MrUjTGF1N8ocdqnmGk7X9Ik18E8MQkJLejhhF9I3vVODzheIjcziY5bWUkqFV/6zeFQzFRsKseMPPsygerCIIE1pDrbMqezTNTsDTtoAMSEIcuk0+j1/kxvBMkVVharmic81o5mllyBWvSe62h8uDvrVuIvj63YJr7lLqJjHChefy0BqA/arEliT73fNe31QIX1raOF+QJLFxvLvooO+wdXWwLyk8NKZI6lDW+/IwgTiokjzKnxyLMNRTLiwtFrpkPMoTXjx4a7vQb8TqKu2nvCPbMqy4TC3ba/iBCPro8esw6+YSX5KSZiN+B5ni1IaYEtWGtER3cRXYALcZsmz+1HdzKqK509u9mPfvUQMN9yp56vKB5YVJo6W5P/0Qb5oZzlYBdYucFwQsvs4PG6NLu7ypcG/YmVPOlOsidIAh4i3jWDZIsk7t+Nb5Y8VSmfkv9umztp5kzCuEBJ06bu2cFQo5yED4yK9a9BFIu7fffRFr6MQg==;4s7USYauhcWxMIm1ZQTzWw=="
 ---

@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Over 100 Robotic Security Solution Orders for $AITX in the last 45 Days alone: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
-excerpt: "Artificial Intelligence and Robotic Solutions for Multiple Applications. New Dealers Signed in the US and Multiple Other Countries. Increasing Orders Received for Latest Products"
-publishedDateTime: 2022-06-17T22:09:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-17-over-100-robotic-security-solution-orders-for-aitx-in-the-last-45-days-alone-artificial-intelligence-technology-solutions-stock-symbol-aitx"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-17-over-100-robotic-security-solution-orders-for-aitx-in-the-last-45-days-alone-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+title: "Over 100 Robotic Security Solution Orders For $AITX In The Last 45 Days Alone: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
+excerpt: "AITX technology improves the simplicity and economics of patrolling and guard services and allows experienced personnel to focus on more strategic tasks AITX announced that its wholly owned subsidiary Robotic Assistance Devices,"
+publishedDateTime: 2022-06-17T22:25:00Z
+originalUrl: "https://menafn.com/1104392458/Over-100-Robotic-Security-Solution-Orders-For-AITX-In-The-Last-45-Days-Alone-Artificial-Intelligence-Technology-Solutions-Stock-Symbol-AITX"
+webUrl: "https://menafn.com/1104392458/Over-100-Robotic-Security-Solution-Orders-For-AITX-In-The-Last-45-Days-Alone-Artificial-Intelligence-Technology-Solutions-Stock-Symbol-AITX"
 type: article
-quality: 31
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Security
-  - AI in Healthcare
-  - AI in Robotics
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?602743"
+    width: 377
+    height: 250
+    isCached: true
 
 related:
   - title: "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX"
@@ -45,6 +50,6 @@ related:
       domain: dailyherald.com
     quality: 47
 
-secured: "uQETKh/Ig39DMYU29TeF6uDryA6NYoiYDyGq84/MP8GonXKFT4YwxAyZqMFXY6oIzyD7gUtlk2iwLFlq7iW34f/uEQylf7vVs3nIWiyREBpfM8IfQZdoPysExJkZnB148drv5dk9OHEQURCfAYszGNGtkoI2QCl4rwAj2YMazYtPvpQKeBdnPWXHC7b6NilZDe8KLxgrSX1bCeR3PRXLxbyzjvylsjsNnsCNvfX7dCcHqvVG4tDMqQ0J2M+RqiLIqrEtdUSR7dsNOvsy5uhtf4F6iN248XJqjoXtSN/QNn8L12DqkShEErUQO5Xq3owrCweCQt7w56xZk4al2V40l+Q8c/v/ADSMXe2mWflhVg4=;/SAIGT/zQWdHn/4NmV1CNg=="
+secured: "8ti2R3+s9r4hORmoox8007LiKIVhoi7gMe4d1lkdwoAiYDbpsmJ2+AnX71h147zqYslAvNHNtKS5DWAyotxD0SGEPUhKDfNsCJFbLdyutm8eoO5bzVaxn5+xeGRsRu/my+anoxW0V35wjUqgkcOJ+JKEwWrtEsJkZ4610XINq5MHlP3T2JtYZlADk0q8VWOB3tdIK+wdfoysBq9rRQB854td5wsjCXGN97Ds93glaRVWBavKQ7IdFeap82T6QITaeXHQiQlySUPf4wxsGnqOB/DydGJQJK6z8dcT+ydfNPCRtIRJxDBx9DNqyFTEidhDtbbs5LATdal3a1xfzeMEz+KNXaW3lwNhmIKLBuBf3xo=;LsqYlH+ing0UpT4l7mJcHw=="
 ---
 

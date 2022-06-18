@@ -54,22 +54,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 61
-  - title: "Google's AI-based chatbot LaMDA comes to life? Yes, as per Google Engineer- Know Details Here"
-    excerpt: "While there always have been a lot of debate on what AI tools can do, including whether they are actually capable of replicating human emotions and ethics, an article published in The Guardian in 2020 had claimed that it was written entirely by an AI text ..."
-    publishedDateTime: 2022-06-13T10:09:00Z
-    webUrl: "https://www.jagranjosh.com/current-affairs/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
-    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
-    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/googles-ai-based-chatbot-lamda-comes-to-life-yes-as-per-google-engineer-know-details-here-1655113428-1"
-    type: article
-    provider:
-      name: Rojgar Samachar
-      domain: jagranjosh.com
-    quality: 48
-    images:
-      - url: "https://img.jagranjosh.com/images/2022/July/2972022/ludo_express.png?new_images_en"
-        width: 450
-        height: 232
-        isCached: true
   - title: "Google’s artificial intelligence is coming to life!"
     excerpt: "Google’s artificial intelligence is coming to life!At least this is what one of their engineers think."
     publishedDateTime: 2022-06-14T09:37:00Z

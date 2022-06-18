@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Cars with self-driving capabilities involved in hundreds of crashes over past year: Data"
-excerpt: "National Highway Traffic Safety Administration released new data revealing cars with partial self-driving features were involved in hundreds of crashes last year."
-publishedDateTime: 2022-06-16T19:14:00Z
-originalUrl: "https://www.fox61.com/video/money/cars/cars-with-self-driving-capabilities-involved-in-hundreds-of-crashes-over-past-year-data/520-f6233a90-759f-4249-8ca5-fbb2501f63e3"
-webUrl: "https://www.fox61.com/video/money/cars/cars-with-self-driving-capabilities-involved-in-hundreds-of-crashes-over-past-year-data/520-f6233a90-759f-4249-8ca5-fbb2501f63e3"
+title: "First report on self-driving vehicles shows 500 crashes"
+excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
+publishedDateTime: 2022-06-18T03:56:00Z
+originalUrl: "https://www.fox13news.com/video/1082992"
+webUrl: "https://www.fox13news.com/video/1082992"
+ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
+cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
 type: article
-quality: 15
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: FOX 61
-  domain: fox61.com
+  name: Fox 13
+  domain: fox13news.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.tegna-media.com/assets/WTIC/images/ac7061ef-9111-4824-80cc-9cc287df0d21/ac7061ef-9111-4824-80cc-9cc287df0d21_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
 
 related:
   - title: "Report: 500 crashes linked to self-driving cars, auto-assist vehicle technology"
@@ -84,17 +80,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 24
-  - title: "First report on self-driving vehicles shows 500 crashes"
-    excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
-    publishedDateTime: 2022-06-18T03:56:00Z
-    webUrl: "https://www.fox13news.com/video/1082992"
-    ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 24
   - title: "NHTSA: Hundreds of crashes linked to autonomous vehicles and self-driving technology"
     excerpt: "The report showed that there were six deaths and five serious injuries due to the crashes. (NCD)"
     publishedDateTime: 2022-06-15T16:01:00Z
@@ -109,7 +94,21 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Cars with self-driving capabilities involved in hundreds of crashes over past year: Data"
+    excerpt: "National Highway Traffic Safety Administration released new data revealing cars with partial self-driving features were involved in hundreds of crashes last year."
+    publishedDateTime: 2022-06-16T19:14:00Z
+    webUrl: "https://www.fox61.com/video/money/cars/cars-with-self-driving-capabilities-involved-in-hundreds-of-crashes-over-past-year-data/520-f6233a90-759f-4249-8ca5-fbb2501f63e3"
+    type: article
+    provider:
+      name: FOX 61
+      domain: fox61.com
+    quality: 15
+    images:
+      - url: "https://media.tegna-media.com/assets/WTIC/images/ac7061ef-9111-4824-80cc-9cc287df0d21/ac7061ef-9111-4824-80cc-9cc287df0d21_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
-secured: "h7OEbyD0M95WuT5IE+Qs2byQjeITZcOE96/8ouLfVpeSihzrVG615eQlp1o7bOXhFZTxwC1uUutCP3DZs6lKCZjDCF+fg2OT1tyhpIELHfPLx3jkWp/p1tnnE1xIwPIl7RiHVrJE2tXbvqwdzUdmyVfkKpePgoE79ykQsxCJEHeFau1nClBPLwsecmwPErIaqrDdgl3hHnN+sggQt3ys36+cbP6qLLCFxdRNv5TbBmO7fgC5h4hBNeCoP4somH1j+A6O+GIe8lW5FDPWF7iG6w5UToPQ3UhmT+geb3ZCRgHLPG2hcJf2oEEq3oaYJR0maurpwEijBBOHpZOPOyTrsfpFEu5yIVhEX/yTytvQGkMGtVzOjvyXkNOzVy+IAC63pwlZ+7pSYIKudXP6s1cBFTX1NlPNBOOFMz/CuipI6wn+LljeDszvkFESnBMI3kY/o79tXeyRxHkVByyLa0reHSikF77fzYxfOUVEcJL/vNq4VsLyXOEve5hWrQqujvOQs62FNxsbr0AWSOftcvU+qg==;8TwC8WkuqC2YwcAHmAFeHg=="
+secured: "z+rQFi6VEROHQsZC3FjJJiMj/c2RVQfJ31zV2C9cnMzhAs0QQ7C0Hnn79U7c2aPO5e975K9wnqd0Ps33eAcWFgU5kvnVPUTxNPBmnaSqIajGmkRqItI7lbF/jt/k97qSxtQzR/szKNjfHSXLB7fPztQc9u68B1ApxppHJsZ7jayLyRFSsR8ssfOW/D/tfdf/oJXmYJjjqpyLCMs9v/kT3xUzPFXuc5wO0n5O/GOdGe5wFjTRIRRekdm1mAoHEQbNQ18oQFM373/m/MgLN0XbTLaapFLx5rrbA5HCJJPedmeetRq66C4lE2+k9mmQPcijubwlJyWmonuDVxiCCVcdp1MpNFIHZFAcr7DHAQUmf4TCA+EC344nPUErDUXNcPTles/SsPU+YWgA3hW9zgXdq1rdW37YwJYnFRgkvcuyru9sEyyrixIB+g2exkS8tSHxGsYVio/6NFKBX4rgtaaAmLNsItGrms1aClcuwUT0agi4hSpqeP7t6Qga28jicwan38wjn8E+jSNiGVAAg+lJew==;YVLaYeozXFzRZCI5+E8/Zw=="
 ---
 

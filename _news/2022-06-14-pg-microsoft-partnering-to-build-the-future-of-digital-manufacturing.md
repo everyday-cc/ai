@@ -157,20 +157,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 49
-  - title: "Microsoft launches MLOps v2"
-    excerpt: "MLOps v2 will allow AI professionals to deploy an end-to-end standardised and unified Machine Learning lifecycle scalable across multiple workspaces."
-    publishedDateTime: 2022-06-13T09:05:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-launches-mlops-v2/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/unnamed-2.jpeg"
-        width: 512
-        height: 288
-        isCached: true
   - title: "The Power of AI in Machine Vision"
     excerpt: "onsemi provides a custom mobile app available on Android and iOS (Fig. 3). This allows for the use of Amazon Rekognition via a connected smartphone and a valid AWS account. Once the AWS account is ..."
     publishedDateTime: 2022-06-14T14:59:00Z

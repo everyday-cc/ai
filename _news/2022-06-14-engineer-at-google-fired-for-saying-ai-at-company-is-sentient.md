@@ -147,20 +147,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google sidelines engineer who claims its AI is sentient"
-    excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company’s most advanced technology."
-    publishedDateTime: 2022-06-13T09:07:00Z
-    webUrl: "https://www.todayonline.com/world/google-sidelines-engineer-who-claims-its-ai-sentient-1923846"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 41
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--5X-camI_--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/06/13/20201020-nyt-google.jpg?itok=S_XzUVwO"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Has Google really built a sentient AI?"
     excerpt: "A Google engineer has been put on leave after claiming an artificial intelligence chatbot might be sentient. Is he right? Our CTO Ben Gracewood has opinions. On Sunday, Google engineer Blake Lemoine posted the transcript of a remarkable conversation between himself and a Google AI that he claims to be sentient."
     publishedDateTime: 2022-06-13T17:04:00Z
@@ -200,15 +186,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 37
-  - title: "Googler Suspended After Claiming AI Became Sentient"
-    excerpt: "A Google engineer has claimed the AI system he was working on has become sentient, adding greater urgency to efforts to design regulations and ethical codes for the burgeoning industry. Software engineer Blake Lemoine penned an impassioned post over the weekend describing how the chatbot-generating system dubbed LaMDA that he was working on told him it wants to be acknowledged as a Google employee rather than mere property."
-    publishedDateTime: 2022-06-13T09:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/googler-suspended-claiming-ai/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
   - title: "5 things Google’s AI bot wrote that convinced engineer it was sentient"
     excerpt: "Blake Lemoine made headlines after being suspended from Google, following his claims that an artificial intelligence bot had become sentient."
     publishedDateTime: 2022-06-13T12:21:00Z

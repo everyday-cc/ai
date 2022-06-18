@@ -155,15 +155,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 27
-  - title: "Who's driving that car? Tesla crashes cast cloud over Autopilot feature"
-    excerpt: "Investigators remain mum on Tesla's Autopilot feature as they probe May's dramatic, high-speed crash into the Greater Columbus Convention Center."
-    publishedDateTime: 2022-06-13T09:59:00Z
-    webUrl: "https://www.dispatch.com/story/business/automotive/2022/06/13/tesla-crash-autopilot-columbus-ohio-convention-center-struck/7538293001/"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 19
   - title: "273 Teslas with automated driving systems crashed, feds say"
     excerpt: "Automakers reported crashes to the agency from July of last year through May 15. Tesla's crashes happened while vehicles were using Autopilot, “Full Self-Driving,\" Traffic Aware Cruise Control, or other driver-assist systems that have some control over ..."
     publishedDateTime: 2022-06-15T13:50:00Z

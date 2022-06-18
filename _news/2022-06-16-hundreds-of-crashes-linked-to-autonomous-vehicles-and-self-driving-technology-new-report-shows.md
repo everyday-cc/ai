@@ -2,31 +2,47 @@
 category: news
 title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
 excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-publishedDateTime: 2022-06-15T20:22:00Z
-originalUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-webUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-ampWebUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+publishedDateTime: 2022-06-15T17:22:00Z
+originalUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+webUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+ampWebUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+cdnAmpWebUrl: "https://www-actionnewsjax-com.cdn.ampproject.org/c/s/www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: KIRO-TV
-  domain: kiro7.com
+  name: Action News Jax
+  domain: actionnewsjax.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+  - url: "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
     width: 1440
     height: 810
     isCached: true
 
 related:
+  - title: "Report: 500 crashes linked to self-driving cars, auto-assist vehicle technology"
+    excerpt: "The National Highway Traffic Safety Administration released 10-months-worth of crash data involving vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
+    publishedDateTime: 2022-06-18T03:14:00Z
+    webUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology"
+    ampWebUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 40
+    images:
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/06/932/470/self-driving-cars.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
     excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
     publishedDateTime: 2022-06-15T14:22:00Z
@@ -43,6 +59,28 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Authorities Release First-Ever Self-Driving Car Crash Report"
+    excerpt: "The disclosure, released by the National Highway Traffic Safety Administration, is the first of its kind and part of an ongoing effort by the federal government to track the safety of autonomous vehicles."
+    publishedDateTime: 2022-06-16T15:05:00Z
+    webUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report"
+    ampWebUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 24
+  - title: "First report on self-driving vehicles shows 500 crashes"
+    excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
+    publishedDateTime: 2022-06-18T03:56:00Z
+    webUrl: "https://www.fox13news.com/video/1082992"
+    ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 24
   - title: "NHTSA: Hundreds of crashes linked to autonomous vehicles and self-driving technology"
     excerpt: "The report showed that there were six deaths and five serious injuries due to the crashes. (NCD)"
     publishedDateTime: 2022-06-15T16:01:00Z
@@ -72,6 +110,6 @@ related:
         height: 641
         isCached: true
 
-secured: "opBq99BSY4nn4Cp5CnAhbG50R3s+yTWj56+kK80Y0kLLRDiGOSdX7A1YRswgv1OGPB769f78pdTr7h0s7ej0XLynKPvSQ82ejHEl7YL+s+/y5kBpnEA1x9gbf9ox2GOZKmcPp038qvE0vPA/VlaGRgtza/1MVmGS0VbVBV2xxUvpQinDv2HIIibvCmpJoea0bCjJTXTeP67CWB9/YIZaX67/kTKl9v09imxd6aWzGQ5kdrXjuoTlrp0hJhJGRWeX5eDh6cqRgTJXwFWvXorV0GqkZh1riTSGJ0m95Xg1pDUrUwcmh8nbrnX/su+Ew/8CETK5aJU+6pcIC8ihEY0Z9LrzGWynLTyW2BwHSXNpYBI=;fB5DASdmp+X/wHN279Evnw=="
+secured: "Gi710Kr7Ta3xzojR/Zh2u71ZadFqB4I+GEtocGMB8D2Noow8fXpfjgr3B4NyxRKK00X5DjWTOm68eXzuvdONYTkDdVbhWXVuYqLj4qo6Vuu3KLyCe8xmsPZtsbyErRvTfJAKVuvAwlbJfz2WQ/9JOziidR9R+I8Cf3NRJjUzV7BFnt1GS8MIyo/dabqKCJ5znP+aw4BWEyS66aFomx8SQ2B0bry7hwJebZ3n2fenIORXVs/fk1fYQ3uv9X098rAkBurehgFZad1JaMMhrcK7MHs67lhPEsdYvJy25trJOXNAYdtAAXWU+ldC4giubQv1nkcxFmRChF9/zZsv2RrZbD9bpOmKKcvNRLrXyVq/pt0=;ixgyJHd+XIFNfn8eb3b1EQ=="
 ---
 

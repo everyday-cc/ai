@@ -24,6 +24,17 @@ images:
     height: 356
     isCached: true
 
+related:
+  - title: "Stats Perform rolls out Opta Vision metrics to boost soccer data offering"
+    excerpt: "Stats Perform's new merged dataset featuring Opta Vision metrics will generate live insights for topflight European soccer leagues."
+    publishedDateTime: 2022-06-13T12:18:00Z
+    webUrl: "https://www.sportspromedia.com/news/stats-perform-opta-vision-live-data-insights-metrics/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 3
+
 secured: "00LMWtL0U4EwuVmrYXLymcKfJA16keYVNVPDZitPzwNX8AMKYu6ncq8BOVXrUKV3Pqc6jDRAqEmqf//JgSM5SjvYvgWyM06KqFoA4Ny32DzD+Ctj/NLsp/9QLsObaE592MEjb1mhEYUNTlHN45p7cfbWsT09lAeVeiwLCNprMui+vLYeu+8OInuqP9o3delMVKUBbbvCxy2OhiECjPKzsGHoaO5mJm5KjvEXCXtFwCL1fRCRig0y1vkHPECM0dqDCS3a/cCcyN+tU8aBmHAVd+bxSyVcYuUE0R4pODzWyzN5jUrSVFS25zt+XiP42yRgyK9yyLSSBamOcWnksyarONxi6s+DFU/8Wr9P41rxEsgXse/NTIldM3UZpAk30/EsH5YneWPTDl1BNW64OkAoZHVuypU8dWtgH1dDXIC4QYEVjTr7KzaKIXsz09AN7w6UjJtQ19ZjWVsEc8jmLpTUv/V8rJl1ueo4K6OTnmVw80egIJPN5nydVdKalPgfq/mKFaX8k688SivWiPBvI8m4ew==;UoJybBUYiW8/a07pP4t0/A=="
 ---
 

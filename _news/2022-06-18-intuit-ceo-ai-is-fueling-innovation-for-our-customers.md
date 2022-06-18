@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/videos/watch/intuit-ceo%3A-%22ai-is-fueling-inno
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/intuit-ceo%3A-%22ai-is-fueling-innovation-for-our-customers%22/ff597607-9f3b-4566-9d26-86cf3681c30e/amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

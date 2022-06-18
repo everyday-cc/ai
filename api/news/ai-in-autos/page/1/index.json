@@ -158,7 +158,7 @@
       "originalUrl": "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1070,6 +1070,50 @@
       ]
     },
     {
+      "path": "_news/2022-06-09-ai-experts-to-discuss-how-artificial-intelligence-is-powering-manufacturing-at-automate-2022.md",
+      "title": "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022",
+      "excerpt": "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
       "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
       "excerpt": "Baidu-backed EV firm WM applies to list in Hong Kong ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023. The number of intelligent cars in China is expected to ...",
@@ -1352,40 +1396,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks.md",
-      "title": "Alphabet's Waymo, Uber Freight In Deal For Future Self-driving Trucks",
-      "excerpt": "Waymo Via, the self-driving trucking unit of Alphabet Inc, and Uber Technology Inc's Freight business on Tuesday said they signed a long-term strategic partnership that would allow future customers to deploy autonomous trucks more efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394",
-      "originalUrl": "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

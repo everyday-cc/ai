@@ -119,22 +119,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BitIq Review (Australia & Canada): Is BitIq Trading Robot Safe? Shocking Australia Report"
-    excerpt: "BitIq is a Bitcoin investment platform that promises to make investing straightforward, rewarding, and low-risk for its consumers. Through the application of artificial intelligence, trading possibilities on the cryptocurrency markets are recognized."
-    publishedDateTime: 2022-06-13T09:32:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 50
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/BitIQ_1655112613.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Australian retailers using facial recognition without consumer consent in stores"
     excerpt: "Consumer advocate CHOICE has revealed that three of Australia's largest retailers are using facial recognition technology in their stores, often without shoppers realising that they are being ..."
     publishedDateTime: 2022-06-17T00:08:00Z

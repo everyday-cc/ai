@@ -119,22 +119,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BitIq Review (Australia & Canada): Is BitIq Trading Robot Safe? Shocking Australia Report"
-    excerpt: "BitIq is a Bitcoin investment platform that promises to make investing straightforward, rewarding, and low-risk for its consumers. Through the application of artificial intelligence, trading possibilities on the cryptocurrency markets are recognized."
-    publishedDateTime: 2022-06-13T09:32:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/bitiq-review-australia-canada-is-bitiq-trading-robot-safe-shocking-australia-report-news-202003/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 50
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/BitIQ_1655112613.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Call for ban on facial recognition following claims retailers are using it illegally"
     excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
     publishedDateTime: 2022-06-16T01:20:00Z

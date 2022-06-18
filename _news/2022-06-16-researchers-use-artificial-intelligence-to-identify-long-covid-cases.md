@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/researchers-use-a
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/researchers-use-artificial-intelligence-to-identify-long-covid-cases/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 740
     height: 416
     isCached: true
-
-related:
-  - title: "Zero-COVID and Free Speech"
-    excerpt: "Zero-COVID is possible, but few of us in the West are willing to pay the costs; the exact same reasoning applies to free speech; in both cases China-lite is the worst possible strategy."
-    publishedDateTime: 2022-06-13T09:39:00Z
-    webUrl: "https://stratechery.com/2022/zero-covid-and-free-speech/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/chinacovidfreespeech-2.png?resize=640%2C346&#038;ssl=1"
-        width: 640
-        height: 346
-        isCached: true
 
 secured: "nf7T/xkYmuepjVbhHEmcbwFPJQOSEFJYK+oeWVakGhaA//jPchTllC/pxOaUxBToMon152CqBNfRtI/gD4O813YP0UAu+PCwReCU3bgxMbRR4CnCpGDnwHsawxGn3r0YdsGMddIl2ZW619A5NAsNu6kYzMbfZ6rd24A5KZ7YBP780pLIEu8fi8hUfPASt4yWkAmkN8NwGfohSCY4q+8OaVP6hYmbVJxcp4xwAqmnnuxpcIUvpEBwg8t5uawhmCw4fFE/2G3sUXEKJ67Hxd+DmwQVb34rpcle2b2MVgpnGRuC/gaN5osvafwGqRhUKIjNYCLyDR2pa4ZCcl733k2Nw+aOjSUbZxKtbhVe1oI+RkYLWqj/FEHfmqtXHlBZuHgLo+DynCVwG+8cVSE+j+o5F+S+GCu7YDcUeYHfNPc8M2LJbvyE2ihy00IXAVmxfIRxK7sB+8UJ1TFN7fwjmTaz+jMduG49a598fnn06DdcbPhp0z2szhUkJF7b+67JuBV9PQDlGPOVlfNY5iBs7QriKA==;UBlSSmAlI04rQLBRus1eXQ=="
 ---

@@ -23,19 +23,6 @@ images:
     height: 408
     isCached: true
 
-related:
-  - title: "Ooredoo Selects Icertis Contract Intelligence as Part of Enterprise Digital Transformation"
-    excerpt: "To achieve this, we are partnering with world-leading providers to help us consolidate business applications on a common platform across our operating companies around the world,\" said Christian Friedrich Linhart,"
-    publishedDateTime: 2022-06-13T11:00:00Z
-    webUrl: "https://www.dailyrecordnews.com/news/state/ooredoo-selects-icertis-contract-intelligence-as-part-of-enterprise-digital-transformation/article_2ed903ad-ef1e-5026-9641-ece5019c9f8b.html"
-    ampWebUrl: "https://www.dailyrecordnews.com/news/state/ooredoo-selects-icertis-contract-intelligence-as-part-of-enterprise-digital-transformation/article_2ed903ad-ef1e-5026-9641-ece5019c9f8b.amp.html"
-    cdnAmpWebUrl: "https://www-dailyrecordnews-com.cdn.ampproject.org/c/s/www.dailyrecordnews.com/news/state/ooredoo-selects-icertis-contract-intelligence-as-part-of-enterprise-digital-transformation/article_2ed903ad-ef1e-5026-9641-ece5019c9f8b.amp.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 12
-
 secured: "u0/3NF0+JGdGXpKaUD29QnybrZWN+3NdvVRErzwDHehh49FrK/r8IDdeTHCxBJDMbpvkGLNZ6NaaO6fhOrKpV6JPlg9bH0RNJj9NSh3DTumkEOZWQ8C+LKihXKFIKv3iTHr+MeNNuy7yggRxNrIsrd1E5vYVLtRymHu8rUO3mVCTKEHhbSzUQm6FX/ul0ALFs/L7a9RPJ8N/koIyYHcTGTdvRbd82lAOhWFoiVLpDGbK7vSTgnYAuONkvrgED0yUWGPwg4Zled0fvtAEEKlJl3i6cYmpdJosqSvBAd3Y91uH++ZqCFsrJpHgpNE7KIBMy31aum8eR6jODLIdprWjtRZbedelHUNGJWKLqtL7Ahg=;cvLavbNLnge3KtZXgwtwQQ=="
 ---
 
