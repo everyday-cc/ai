@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 71
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "g+QXfJew7/fV4nXAPpTLWGonVLjpGAsfNS2VCxrvv/osbUZrURtV4bGuv1St6kiZeiJdkd6HEAuhllHbjaefO+fEcdZraFFlcT/qGdTfgEk3ygMSdZXX6NhP3Z84Hoyas5Yg9ZnwWlLI8PBG0SKK5GNpEFs6LnT+dXjQvlBizTBFBLOSiewsUGZag3acFp/s9B2/TU8y7NLQDTgYi+t1r6FFIEC1UcF/Vrq4vj+q4ByTaV+h6+S3Q4cz5+RSswwAk/9ipOVNyC6zM+GgnLbSSr9SHuhkQOsrsEeIpseDrgNUYR2f4rPtRJB6Ow9oN/FEoinB4d7457Cj8Wii4wfi8kZil+DAktNc9b5GMSfaLfn+FlYcNt0I6ga7QNwLLgLR6AtqjYZF7jXumHI7u8t/ZTgToJ8JAl/KgANzyX8zDm4=;lXR4OSlzZMFxhlzsHr3oFw=="
+secured: "hiboZejUqeKHBNfd84RoFl2o+klgiNHgznwHKIqnIW6Umh+lujaEi478e52nW/ol0BFwBGmbL2X/pALnJMruws7jTXWbP95S3OuC1iIjiBQ5NKLIIFI2kZiUfC0O4AdgQxaLFlX2uKm41J9CLQNSbcOzG+02tFvRsqXxtC3HFtWArTQhHvt4jef7cKAxueiGYZEjBhtibnrpslt4Yk469TrhNdljSrUknKWTCBXg62a+L7gC5r2BQFEEB/gskh5HDwAudRynNj5Kgm+WYK0BHe8mn63m8sLOfJQeoSFnHWzrKS+RveQw0Tq4cHvI2ac4OG139xC+z7I7/wASJTiC/9U74O0Kj55oe3aX49DGc0Qqn43OLK7FEQl6o5SBjzNi3BPSFdYV7ELH7aqu0mtl8VLCWVmY7e1VkUduz09RZss=;cxN7RLWBUC01OdctvcUmqQ=="
 ---
 

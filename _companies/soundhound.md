@@ -2,7 +2,7 @@
 name: "SoundHound"
 overview: "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI"
 type: "profile"
-heat: 57
+heat: 71
 
 website: https://soundhound.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SoundHoundInc"
   url: "https://twitter.com/SoundHoundInc"
-  followers: 674
+  followers: 675
 
 locations:
   - Santa Clara, CA
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
 
-secured: "kqT8yPmmkH+aF5Es+7pC1yt1DeBhZSIwcD/yqKY7qW/BBhKkwQGv5EKTBEDo+TVT53mJFfWi1qMJJhmD1W7ecPmhvLLVgzfAnZjsqMgdBohzwCO5tmDlPyUa6bAZGo1mSBITY31Q8i9dnR/DJ3vs5+NIHn14NsTEz648WYyYqEoV/IVN8j+N7dZtwE8fY9pGatvTLcxjfUWYlXPLZx2+yj+EB9hSCAB1yZ3QGok9fq/yO5jfCnz+p5gY46ROYGFdqxwlx32ZLP0ycTZF4n20i64/f80N4N16db+CAYq1wM8jtRnAF6CebJ0f09B+OMh3KzfH/UHUlUkFDe2wf8/LKMKBmTULbMema2u5dw+q2aOJMxVgUkc0ogxTE2c7UVQKFNykGuF6ECUvoX8H/BAMBg==;GBtws1MBfYblgIn2pISncg=="
+secured: "udIBgdO5GAhE+ixq3gtp4DPqztanAqZOK/E0n9n9EHCGeRCRJvSZLORYlwGPrC7KX3YmiE67I0sb2wE6dyjd2eHDp2hy6gjcq7dHVxRZvYkeLtEQHEDjQTzJiTWVRTtsqeVZBPHlbC6F60tk/OS7iUp4S+NZqFfZaL0GzQqUnIg54Pkr8gc8NTg781qgUR7sUhkd2AQ7qK164yVrpPzfaa/Ec+VsdjADBMD1maRKUjahlI7kNMcBYCnQQoTTRnxiDwv7TalDiBw6ouHBwoA7XukEOVh65uH8Z4bRounqAMYoIUmAk2ZV1BE5SIEmYENkfcqDehA6Hudfi8HzKEEi68VDvmv8afPSOPrN2+Bh260GGFS2Hu7fIUhtKhiATpQIfx2HE0G4tW5vBZgr/An9hw==;O+CJREzv+kNg8pLuJFlmMA=="
 ---
 

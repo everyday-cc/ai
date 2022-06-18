@@ -2,7 +2,7 @@
 name: "Axyon AI"
 overview: "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://axyon.ai/
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "dAU3iUBFosJXD4uOmvpiAFfYs6OxBfBlCbjT1u6CpJ1UvrbBjDzTEmATNu9sAgSLM24ErFlNJ3mDPAMos3qXUdpctor3lzW8Bks4ANsgnq8w6/lifpJIFRtG8zmI30pJMxriDEvM7hTeMI9Pr8DhSJfXL6TnCb3U22U6LqRG0DLRMA6xF5ZKLnFf+oXYkeMd1ed2+jzS8o1d6A5/ygfuaJCJO8DBHsB2LgdYab47jJb7InUyzkqXhutQUU2c8+QKDythv2q1CREpHO4STjJk9v07SWe6GcviY2jAGHR7lSJ5PG50QjmmQT0SAPY5CbqyaoGy47te5QbjtS7o7of3BbUeuVk9231FjHQ7SG9hcj6id4m50YY9zXgDRny3cxmzYBgeNqhRsYA6CIvOrkJUhw==;v0Oemi0MjsMRYgRWUBjnAw=="
+secured: "rqpF1hH910A5NcH46ngzLWiRrwG7WfOzNb8rzk/KL3htdjAYNuEHgslmZjp2BytF0DqinI1nw/h7LiJ2Bdk09UOSdv8jtgVeBxEiw2nOoJ3FQEC6ksOgo4lkBqZDmKXm9m4N2/rHvvfWqpioTRfr/Qgs90ZGbT/AYXQMJKPI9u/pwSqjX5sfq/eGC0LnAXHd8NmMth+wfQEUBphCwGknAelv7WXUm2AtYQKZHIZH6mJ3jKMujk2HOTn44HG9dBPnKZ1WApQKSfAzFEdh6UYYkr2QolDOpSLqdnKCXb3xIEi6yBMCKvk3oGiguc9UoILt4xG6R2diVSEP2jutnKO7Z1MFN+12z1KAmFqwGOaMSqzqvyAGQ01IWJh7noJ6qNZ7XOyCJssTez6hZBV/IXWRgg==;nzg9pJF2+3ckczp/xgS18A=="
 ---
 

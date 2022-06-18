@@ -2,7 +2,7 @@
 name: "Freenome"
 overview: "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases."
 type: "profile"
-heat: 82
+heat: 64
 
 website: https://www.freenome.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=TrEnNA_kZBI"
 
-secured: "mkSNt/v6JZvocDOPDbm09hSt/7DcyP+h3yPoyXcfI9nwTlV5BhoEy2qqpp5sg8NVF8CcBqolhxUZ6VA+swvFz4UXE50zOiQdrM7o6G9yAc+vVL4tsqFEcp3S2KZrraT61yUD7ZLvuOE6MfU37grM7IsDwM1+avSOEvCUcqM2GnSppIAY0fKTHu5JdVF44IruUsAAUIHVx12Gm0m1O/ocD8QxigAWXuXCJdc7jPXaRoPN3N3s9YymjO8aHHRPSIkllOtZ7zO2xLn0vQG/cjw6WQa9a0lL8BZRC2m7W5wGOgCaXnZazvy+lDTunzKBnejxCz0dfdirhdd+yMicp5OInOSrpYENwtBaHPkgmSwDDmQjAUXETQjxTQWzkNGIS0fyXBfIQCJQsucNuwcXMoObFVDwYsSoBENJvOOB3vPZUl8=;fm38O55ryQB8ykSXwGcQ8A=="
+secured: "qzyrGK+W0Hti41pUfG4cmv2ZRDfAZGz+yv6pRm92NzWUMUYP3Vh62Kt9xSuZ8+SSqbKqHSLPhKuopA2Ajztq0w9jlcgWZJMX9PucDzkr19NykPjRJ1hCfd+ui4DhmomwJOttPfm2AtV2RNbBYEg/99PeDM7jdXDeWra3Ibs8D7Q9rzEQIC9Z1FsTCvmvVBo68jgMCdu0LeMn4pc+PGJUQTHrhisbDVtSa+zv8N0pVrFcQygHwGcfkv8XNEqNwIOD0LEUYpbSWdpcJjUNeSOwmPQEj++TpA4/fbHssRtddmPYyDBFXnZPXZxPuVyCBkS0f5Ppzkg9Nq0KY/iv674hfJj8UzrjstlIsjp3r/QiPOE1QQ2dM8+UIS0TogXqJv6CULuDH3sjG7GjPKXtsQVLSWobPL7AO+mObNbP2XHpexQ=;Yc8b3v/1b/3iHphTck1mIQ=="
 ---
 

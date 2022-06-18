@@ -2,7 +2,7 @@
 name: "Rev.com"
 overview: "Rev is a venture-backed internet startup in San Francisco whose mission is to give more people the freedom to work from home. We have created thousands of work-from-home jobs, and we aspire to create millions more. We have built platforms for transcription, video captioning, foreign subtitles and document translation."
 type: "profile"
-heat: 57
+heat: 0
 
 website: https://www.rev.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rev"
   url: "https://twitter.com/rev"
-  followers: 11463
+  followers: 11462
 
 size: 51-200 employees
 yearFounded: 2010
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "NMMB/jsm+ITKZ3IRFRUA/EXT9LrGlnCPGIF5Cd1BmKYKMWJ9/iMFshLQT+QUpTPXsPxFMn+uzc00FBQjzMcrcmuwBRc5FVPrbls9TNlGQvZwPDTpuKFsNk8c8xzzWHeevK/7SbZ4RjxCNYX7PGLxJw53xgAL86Z0kxNbwldXmzpg/XsV/UQO1mLLy+QnnddHOgA0nJCflQdht6Meni5k5uw5eHhnVSqepoWRSLE5bbAHGpECRU8dZJWuprSzjm4FmunL7yc215X+ddBsNpAJHxIBsc5pkNKVYoX9Ahp+Y4rzF86X7oRlMhW4vIePzqbikNO2hRvrBEtBzyxBvjTz7LsKXolxgJPhrp3pwkc8KlViPd/YwnLMbWPBU/yk117uoVStTKlEr7FOlzG660jBbcXJ8tXARFq8zEeMO1cnmxk=;tmnton5ubX9rVOMwetIq1w=="
+secured: "0CDxJ9GohbQwjh0NOHDfS0hP+vDPyg4Z12Q7HGC8gEAJZOw1/e9kVXYUlr+GJx1QrN6TbvuRUmoa+Xc+Bb73fo304hWSX2LwyC9qZIJBcSy2d1zUjaHuTn6rrAtf5SAcutYwi2hDfKo0N7arJKXVZQR7dPwXKALScRUJMgQYIXYSR4voFIUjpgsKX3OzPS8hQH00bJjT1Dlted+kIiRmGzPvKigPpqr1OfRZnSsOcgxj6nyNuZQH3T+KJ7QLx+iJ/H79jwDCEsw8MKcSnLV+WkZ8E1jYs7ZhM7wk1WxZmbKN81EHa4QpSg73MBgVSGiMl2aO8bPr3NvDzCjvwyfXCbPa5c9IuSJ79AjF3MVY9TiqbDmfKOqh3fCNOv2LGk0Htz8hUYut7esOp+3i/BOETUapwAFLE0qXlzh5uKCD6rI=;RJVmKSTSGorRv5kkRBXkIg=="
 ---
 

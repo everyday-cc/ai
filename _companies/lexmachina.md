@@ -2,7 +2,7 @@
 name: "Lex Machina"
 overview: "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business"
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://lexmachina.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=6Hg_SXrumV4"
 
-secured: "9KCXiLPAjJE0Vb5h7v2oT/q0eZkoGW+pHl5UbFaKqukGKiIj45jM0QKyGtk3zRfPHGQvMJ3f8fRUU/dX2F3+gagq+vXJphJdV+krjoxkjzUluiSuXEfNsyH7HnGvIp+1QF1k5JlM+xxKHiYaeHQHVuOR2svuAQfvixt94SNZcqJ3OKjX94lB6ylB1kih8OXRFXZ1KZTv8AapNqVO7OXFWqr0nVFVXNGU1YV0guD0CA2YAKkQkeDOnMX9Ksu0X3StYiUkKwmUbe87h/J3pdWzpcyi/QHNwEPZrALExtNq9CqRCmjzHMmK+A7bF3vjCeu/EBgAgORnYGtFW4B6RR0dJhWnc6h8NHTl2dJ5oSDcInOcTN+Hg3xUOxI2/ZNewlYEHk+sjltNoQa38LVbH2q47Q==;m1dHoMJ9eIX4wYudeLsCpw=="
+secured: "CVHTQCFkyV84uPqKv8/P29EIsiBzMLaZH61fWg/7JB/GBKumfuxKSCTPdtvD1nLVmvWgSNpVXmzfKULXjQm7dN18WgyevmeseUFYKXEpwPMnRP/HorkGWPfmJVOsezTVXCadfnEyEkM/Jz0l68QIiKkrNoUPM+ANwUJJz5QBJpBgv/zDIpt5vxrTyhnIYpWc4qASU0gM0G4eXO4Bx5LaWdjsKuL2InZQXFO+DQlpIQCFeX5LhmjjCPCXYhJnkPlgnM+7m8sKa+Ah9EfrYPbdIT1hpqSb01G5JZH4IJPVKywYGBYEkXEtxXku9Zuy2/fYIjQDZbab3mGkC5YhZ0EYOtuyrn3ahIIvOnLjMN5dlpNSC7y5Cmevg6m2gsrzP0Hp1YMgkmih8bzqBk2oWukp7qpzehQVYS2Ti1MVSGivD1w=;g5n/69ZRPgL98S2+kmgqcg=="
 ---
 
