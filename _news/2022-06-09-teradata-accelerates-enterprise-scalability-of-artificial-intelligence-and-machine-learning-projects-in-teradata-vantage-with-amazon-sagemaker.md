@@ -16,12 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "JssmLe84lY4k1/edNmjb/FGxKbj8Ye0h/WqVJOQSYUEHJV6zDAaHzRNkvp92m/FHUjR1DHUX1N9A0quU5MAG9AIY6xT4DMJtLG1UW2nDLIDAoU1fGsCAqz76+6dOCEcwaMNs7kX1NM7eQEOF1fhFICSVLJeTBJ/MP4GASKthuB6p3ylHrK0pBf/9hLxKDHoJNQ7ILgQok1Z5fXc0t1zRcdyIdTbBsRt2w08DqSz0Mg8SO1w6IiUWDhbikjexUGAC3NU1F8oZzsYORTSvR8GLyvIN/dT3ngNk/bFqqNpYHOQdxD6Bur/Eo9d2CQB61GeulDHiRmDfqhE7p/WZm7Z9ZZQlhlflUTIyMkE2JRsM2jo=;namFOnDpRbsfQg7fzKQ0vQ=="
+secured: "5dnknrLfRh+LCwYxPeFzk7sqQFv84s5mxz+D7XrWqwCIYTNSjqcbGQrIKSmo3sHMyi0OyDpPQq70IwuDct+MhBOh3B6FHjFKu8554ndn/n/vb1tKjFOVGKmqJ1jS6tnP9+BcGFNavDcu7wUxbZeyKNZXdWC5L+933CHmBqCTdK5sfoGhdeYYl9qVcWlxXDd1O1RLqoR5vERuoA/ROq4swb6FkACMYOriAahk471S4MB2TMKCK0/V+WRyKHa3AzsWBbrjtawlBh/1yKQ1BU2uMMAsXzIgYjugpKzgUVuUWnM6nh5De63DiDXsynbPCIvV29r1MeBO6jC83veOAmN5q3Vi+SLcAXwe1zCIQ74gmOo=;ToduxnxNV8rgExoTW8hCZQ=="
 ---
 
