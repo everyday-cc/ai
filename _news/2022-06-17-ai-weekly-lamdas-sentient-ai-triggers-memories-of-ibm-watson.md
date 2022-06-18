@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-trigger
 ampWebUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
 type: article
-quality: 104
-heat: 214
+quality: 106
+heat: 206
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all"
@@ -166,15 +167,6 @@ related:
       name: The Star
       domain: thestar.com.my
     quality: 17
-  - title: "Sentient AI? Google Suspends Engineer over Claims LaMDA AI Is a Person with Rights"
-    excerpt: "It’s commonly said AI is being overhyped, but even so, some claims can get you in trouble. That’s the irony of a situation Google finds itself in. The company has suspended one its software engineers who claimed  its natural language processing chatbot,"
-    publishedDateTime: 2022-06-13T18:33:00Z
-    webUrl: "https://insidehpc.com/2022/06/sentient-ai-google-suspends-engineer-over-claims-lamda-ai-is-a-person-with-rights/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 15
   - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
     excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
     publishedDateTime: 2022-06-14T21:12:00Z
@@ -185,6 +177,6 @@ related:
       domain: dailynews.com
     quality: 10
 
-secured: "QVs3mQbE3aNBbLJ1AnCU1jsjoZQoKrJ67Im969e7CdRjLM9vIe9yUniFQ6DKEDve3IKk/fLTFjSDek5TQKcEmeMLrO2iUlOTccNB+CwLRNeYNa239SWznOCtGeKYCUqmfLvn3TzD5SbPqgxIv410afCKpDkL73qFmfzlQnp0joaF0xI4ZRrtvLl4T4yXhoXYtf6iRo8nWzIEuK7sMMdFkGJeYB3N/gm73EzCzGKopVxYhjHUempKfjmjrCC11ZB8+tHXbWFKypjCGs0vfNodOCQfSje4hUSDl3iipnro8ScnPy19d9ou7x/ek9zPQzV5KlhAscGswE0dgKxoy0agBfzfiAlA5Habx/X1a0FrRxc=;Uj5co1gXRs++Y/TYO1DAGw=="
+secured: "7pdCzK0qG6y/4+Am2AznIdMOqlZ/olHxHGWRf2tpGFX9AZZH1TGq9kyAKYqsX2rJoYIsKJZr8IlbjUXP+KUs+KWp9USkKPp1Xow2pSvC4n/QZjC8Rwqa7MEUC19O/Yq1dnhXkUdtMHTqWLLcQh63Xe84lJe9t+q8GpFUdHDAmx46vRAn9ejmxShRu8+jPkK1sW0v+R26CNNU/287c3qpt4G7vpu89Z7q68SpkngHrnbJaL1zrmKXPSRxojTFQCZq0uDkFjsaNeOS0YFFZv0zIJ2rOkadpF+zuLcDDemdC9f/XufXyyFY5JkfW+vLjx2wbvD/NDxwpnCGpbRg+nNNUQXU0HSyeZmy7ETsVQbdbyZw02R38+Z0CyayOOHWRbq93WzganI9dqgVVs/Z3+5x1RXrza/0BROoxh+QBR72unyTWh8EVlemD8dqoW2zIFxiT/A/Xb92SnPW+y3t+UKUQELSSL6raPAYyLI9eW5pzuz0zS3Y54gOuifZDjk8hvAuijkJFxYytAP8M75gwuI/aw==;H7evQdHTGLkfdTZ7QSsGnw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shockin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How NVIDIA Is Helping Develop Self Driving Tech"
-    excerpt: "NVIDIA is teaming up with big brands and creating technology and software that'll be at the heart of the self-driving, autonomous vehicles of the near future."
-    publishedDateTime: 2022-06-13T17:55:00Z
-    webUrl: "https://www.slashgear.com/893590/how-nvidia-is-helping-develop-self-driving-tech/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/how-nvidia-is-helping-develop-self-driving-tech/l-intro-1655139156.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Is Your Car Autonomous? The 6 Levels of Self-Driving Explained"
     excerpt: "We're still a few years out from truly self-driving cars shuttling us all around. Here are the technology milestones your ride has to reach before it can be considered fully autonomous."
     publishedDateTime: 2022-06-14T14:37:00Z

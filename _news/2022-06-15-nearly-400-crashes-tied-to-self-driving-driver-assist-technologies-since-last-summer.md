@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
-excerpt: "Of the 392 crashes reported, Teslas using the self-driving feature Autopilot were involved in 273 accidents. Other cars equipped with driver-assistance systems were also involved in incidents ..."
-publishedDateTime: 2022-06-15T16:48:00Z
-originalUrl: "https://tulsaworld.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_eec41c8f-3ec9-5a6d-9a07-0ef5a8685e90.html"
-webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_eec41c8f-3ec9-5a6d-9a07-0ef5a8685e90.html"
+excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"
+publishedDateTime: 2022-06-15T16:30:00Z
+originalUrl: "https://madison.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_fd3fe68a-9f93-5397-8f41-6509fbd3c020.html"
+webUrl: "https://madison.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_fd3fe68a-9f93-5397-8f41-6509fbd3c020.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/8a/d8aa7107-bdea-5c00-a18f-c67e79d80068/62aa092b59cff.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/c/5b/c5bb0fd6-fbf6-5c1a-b4d1-2f8103dc57af/62aa093283e58.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
@@ -208,6 +208,6 @@ related:
       domain: ibtimes.com
     quality: 15
 
-secured: "bgVocNOHCtfHFgaEWMzWFMlemfxM9F/eEITlOEZCR44iDXXfbPBWlZ7ZIDvwVqxfnEG3oEfDmX96Zi54FXq5wXatEY8383aipMR/qcYoEnq2w2eCoUOsZbgQfUDSJTbXAFxS5hONi64eFexPEtgUEfksS8XPKIQSASvOsa+DxbD9QaCtd7u18sP8JRQJKjf6M6cGmtIyWFri/REfcpmUu6lDKfT2mfvXgG9p0dhpfPAAUjPUnZiOVxePQS/kfL7o8ig0NKiZrxpBR2fivyDsCHWaqR2IjJXmNy8rTquIZjBTR0R3FisLYNNYdABYXeH7vckO/gjBXKjo9VPzwOkrotkmWK/97YjnKGdOwAoaBVA=;ZRhl4oV3DiT3Rg6vX7btSw=="
+secured: "cqzDye/QxEiJ53gf2yjbWQTgYPlDdrek0spjcuuX3uXnz6Nym9gqzDWyPv37EP0Yz/FDDuGG0cUgHL0eIobL3AbsHVGF9UvZX0T5Eh1y4p9HrdKVPcsW4FYJ7rp1LUj650r8k70tGaid8tzKWgNvdgBJ5H0h4a04a3CIWQr0ft6olVZ+chClYNHBuCx2u19wvr0/E5PaIr4SsIK5OOxxyiBvyxhsCQ3wYehSZIxLehjUoaN5g+WurQW+wvjQlGA+A8X5Qd4MDw5lNCxAQuB5KB2DLUkUlCzwa3gfpZu5ZECvsReUT4r173i+Ym5IHT9cVWHs/16BUKD7tTP/GT8RnT2hKRPFuZCHfaDgh7fyx3I=;htyhQqWq7tmgSb0wndumeA=="
 ---
 

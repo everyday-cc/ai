@@ -188,16 +188,16 @@ related:
       domain: click2houston.com
     quality: 19
   - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
-    excerpt: "Of the 392 crashes reported, Teslas using the self-driving feature Autopilot were involved in 273 accidents. Other cars equipped with driver-assistance systems were also involved in incidents ..."
-    publishedDateTime: 2022-06-15T16:48:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_eec41c8f-3ec9-5a6d-9a07-0ef5a8685e90.html"
+    excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"
+    publishedDateTime: 2022-06-15T16:30:00Z
+    webUrl: "https://madison.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_fd3fe68a-9f93-5397-8f41-6509fbd3c020.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Madison.com
+      domain: madison.com
     quality: 17
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/8a/d8aa7107-bdea-5c00-a18f-c67e79d80068/62aa092b59cff.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/c/5b/c5bb0fd6-fbf6-5c1a-b4d1-2f8103dc57af/62aa093283e58.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true

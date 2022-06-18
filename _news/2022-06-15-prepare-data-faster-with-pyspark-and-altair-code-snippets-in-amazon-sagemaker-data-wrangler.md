@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 94
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker"
-    excerpt: "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters)."
-    publishedDateTime: 2022-06-13T17:36:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 114
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/13/billion-parameter-sagemaker.jpg"
-        width: 1247
-        height: 621
-        isCached: true
   - title: "Extract insights from SAP ERP with no-code ML solutions with Amazon AppFlow and Amazon SageMaker Canvas"
     excerpt: "Customers in industries like consumer packaged goods, manufacturing, and retail are always looking for ways to empower their operational processes by enriching them with insights and analytics generated from data. Tasks like sales forecasting directly affect operations such as raw material planning,"
     publishedDateTime: 2022-06-15T21:08:00Z
@@ -71,20 +57,24 @@ related:
         width: 1246
         height: 626
         isCached: true
-  - title: "How Mantium achieves low-latency GPT-J inference with DeepSpeed on Amazon SageMaker"
-    excerpt: "Mantium is a global cloud platform provider for building AI applications and managing them at scale. Mantium’s end-to-end development platform enables enterprises and businesses of all sizes to build AI applications and automation faster and easier than what has been traditionally possible. With Mantium,"
-    publishedDateTime: 2022-06-15T23:08:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/"
+  - title: "Enable business analysts to access Amazon SageMaker Canvas without using the AWS Management Console with AWS SSO"
+    excerpt: "IT has evolved in recent years: thanks to low-code and no-code (LCNC) technologies, an increasing number of people with varying backgrounds require access to tools and platforms that were previously a prerogative to more tech-savvy individuals in the company, such as engineers or developers. Out of those"
+    publishedDateTime: 2022-06-14T19:46:09Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/low-latency-mantium.jpg"
-        width: 1247
-        height: 623
-        isCached: true
+    quality: 63
+  - title: "Use a pre-signed URL to provide your business analysts with secure access to Amazon SageMaker Canvas"
+    excerpt: "Agility and security have historically been two aspects of IT of paramount importance for any company. With the simplification of access to advanced IT technologies thanks to low-code and no-code (LCNC) tools, an even bigger number of people must be enabled to access resources, without impacting security."
+    publishedDateTime: 2022-06-14T19:50:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-pre-signed-url-to-provide-your-business-analysts-with-secure-access-to-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
 
 secured: "Bw6VKS8n9ibrjgVruM8zJwlnv2CoGlLKnDPG/suo6Kt68Ikr7JvgbnDp+kBnKz6CjhDBywNTmKBsMtNCuZE6OWrN4d5mtWDpHTEGaq2DhAVb1Z+8FN8lwO4WQSVPPDfJw3ZQA/ZOb7jCzXGN7SurF35/J5Lsf7U9qGR4ljjE/apyvfSwDeWIiyhAfjlu+NwTv2cfWLwqAxBl/GUeXsMhRaiS0ueDeOpR7lD4TWOM0anu0WVvcND0Tkbl2a0wCkYqhtU6oyrsY0U6hLbTmsDtlMluVgPGDBqbCCyS2UHMGIndo88ZiFVqYoJvyWI4ltGyPfW2YJQOaYvE4sVCH++kmoNYDQY2bfZLX+fzFREoXVY=;KJfBRaDP9+2ZCCKBlwTfYQ=="
 ---

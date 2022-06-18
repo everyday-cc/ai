@@ -50,6 +50,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Biggest Artificial Intelligence controversies: Racism, sexism and ‘becoming sentient’"
+    excerpt: "From Google's LaMDA to Microsoft's Tay, artificial intelligence models often find themselves at the centre of controversy. Here are some of the biggest AI controversies in recent times."
+    publishedDateTime: 2022-06-15T06:49:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 52
+    images:
+      - url: "https://images.indianexpress.com/2022/06/Artificial-intelligence-controversy-racism-sexism-sentient.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Comment: Artificial intelligence will tell us if it’s sentient"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
     publishedDateTime: 2022-06-16T08:30:00Z

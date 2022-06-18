@@ -35,22 +35,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "New Microsoft Teams AI feature could kill the need for a headset"
-    excerpt: "Microsoft said Monday that it's using AI to improve Microsoft Teams calls further, with better two-way voice, echo cancellation, and smoother screen sharing."
-    publishedDateTime: 2022-06-13T17:37:00Z
-    webUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html"
-    ampWebUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 106
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/06/Crisp-smooth-1536x864-1-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse"
     excerpt: "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\""
     publishedDateTime: 2022-06-14T20:21:00Z
@@ -134,15 +118,6 @@ related:
       name: Mobile ID News
       domain: mobileidworld.com
     quality: 21
-  - title: "P&G, Microsoft partnering to build the future of digital manufacturing"
-    excerpt: "Consumer goods giant Procter & Gamble will partner with Microsoft to build the future of digital manufacturing. P&G (NYSE: PG) announced June 8 it has signed a multiyear deal with Microsoft (Nasdaq: MSFT) to use its Azure cloud computing platform to digitize and integrate data from more than 100 manufacturing sites around the globe,"
-    publishedDateTime: 2022-06-13T18:27:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2022/06/13/pg-microsoft-partnership.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "Y0L2aOSZZFSQg28sjQlfN6BaLzR8Mo+fZ92/pQErU0lp7Yv9846IfiCzbVwxbdKc5dzShm81ANSat01Q0xeFNxpAJSZVsVKcBTmCuZs3BB3+zTHcAUf71EDqOPjm0YztwxVwB1Dpe5yqYZO463sIqgX0V8CXwb/OS1rm1fyI55ywHDxhN16NMOLUxv0dfsDCtlWUyQeJzE7QCAgoUI86ZuWOZRWi6sqTYP+BPzaW692RUu7AIGzzm9vIW9JHmtCjTj5jY41uesxO4qXLgTWh9FPw4sCmcRsL5cjQwM8H5Mk5e+fPq3PMT/ISBeOGCPn19SRdAyDa/FCdFy20jJuFPEoYR7xyzIJ3xa7qYPwdwf2jGzp6FnOiRSxaV0n9Ied8JYKejIUGjJXMwG5Cm9X54XyfGloeCKbVPb3xDpomsRVORF26zxQR/zJh8iWKR8aJQgKw0vn5mChUMOZtohDZl4s9oONwo/uD0gMNnNp6+EtOaRpF3i2S02Tg4oQJVDaPk3mplVL3Dd0sARVixpVDLw==;wBFKtV/9O4NK5miYuzfUMw=="
 ---

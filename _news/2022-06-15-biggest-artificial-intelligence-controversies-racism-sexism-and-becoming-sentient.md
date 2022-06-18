@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Science for All | How do you know if an AI program is sentient?"
-excerpt: "The word “sentient” is defined by the Merriam Webster as “responsive to or conscious of sense impressions; Aware; Finely sensitive in perception or thinking” – Humans are sentient beings, hence an AI that incorporates sentience is vying with humans in intelligence."
-publishedDateTime: 2022-06-16T08:57:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece"
-webUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
+title: "Biggest Artificial Intelligence controversies: Racism, sexism and ‘becoming sentient’"
+excerpt: "From Google's LaMDA to Microsoft's Tay, artificial intelligence models often find themselves at the centre of controversy. Here are some of the biggest AI controversies in recent times."
+publishedDateTime: 2022-06-15T06:49:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/lite/"
 type: article
-quality: 57
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
+  - AWS AI
   - AI
 
 images:
-  - url: "https://www.thehindu.com/incoming/stpnzh/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
-    width: 615
-    height: 383
+  - url: "https://images.indianexpress.com/2022/06/Artificial-intelligence-controversy-racism-sexism-sentient.jpg"
+    width: 1200
+    height: 667
     isCached: true
 
 related:
@@ -42,21 +43,21 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Biggest Artificial Intelligence controversies: Racism, sexism and ‘becoming sentient’"
-    excerpt: "From Google's LaMDA to Microsoft's Tay, artificial intelligence models often find themselves at the centre of controversy. Here are some of the biggest AI controversies in recent times."
-    publishedDateTime: 2022-06-15T06:49:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/lite/"
+  - title: "Science for All | How do you know if an AI program is sentient?"
+    excerpt: "The word “sentient” is defined by the Merriam Webster as “responsive to or conscious of sense impressions; Aware; Finely sensitive in perception or thinking” – Humans are sentient beings, hence an AI that incorporates sentience is vying with humans in intelligence."
+    publishedDateTime: 2022-06-16T08:57:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 52
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: "https://images.indianexpress.com/2022/06/Artificial-intelligence-controversy-racism-sexism-sentient.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.thehindu.com/incoming/stpnzh/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
+        width: 615
+        height: 383
         isCached: true
   - title: "Comment: Artificial intelligence will tell us if it’s sentient"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
@@ -96,6 +97,6 @@ related:
       domain: dentonrc.com
     quality: 17
 
-secured: "kZHge/m3u6a3lsR7kObjCwLNCQpsuT8KJSJ2XLr3Q0keLsvtYX8LAfVdHX2a1VPgZw+rE3L2KeLd1HejpI/iiMWC2RiuUh3X+MUhzGfKVPXotsSusNfZ66JnZbhjzyFc4yEJQq7ICDr2fiP0aiDYNR4HSrpt1SAVdNFkZchCfoG2uVj+s19o7ANcvn3+VCLOxj28MiAChSvWZk8UsIKXQhuJdr2wwLTFpXi6K5u53eVrSrCWr3j4pkMGf+YTDZtdCGyVDyXpEzhZ0mMLNdnEtmDmgxM397IKT8NSLCODXW1jHJGtqwA6cDchy/8veGIyjFXpv1C78lzjxjvR+XbVZKF3T4fEn8z13WWh6aY7DHk=;4Zz/mf7Olw4Zza/Rw2ew/w=="
+secured: "mnD8yL/rR14QUIe4mt36ajwikeh0VKTo11EKFD7YC02nqRhSEX/NetA8rnNlvfU5lpnd9mhLsPo0L/bZZI7j+LjmgKO5YsXXwCypNunWYc9dN21+baOldCc9vkChDF1Xruo1rGBtqd6JyKiAwKS6/Y5giDqHDFpvX8d6xyJ1vJjsylWY4RjQPPEKLqZazs63B5avCnDO8PIpyGvIrau3waJu6xP5R2TXhcAT7zkHpmb+pdCVsSHYQcQixDAifjABsjihDqAn2jlNrk72GhyEMGmUPWAqi7jQx6WguiTFmmWU9+ZNGVpF+lIgX9mJwvEU28laGkJc//55yLRGFAV4ZkfgA7lXbTFXQ88ezdSOX+E=;vzFEP5lgQq3QUroJqTYcMA=="
 ---
 

@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "How NVIDIA Is Helping Develop Self Driving Tech"
-    excerpt: "NVIDIA is teaming up with big brands and creating technology and software that'll be at the heart of the self-driving, autonomous vehicles of the near future."
-    publishedDateTime: 2022-06-13T17:55:00Z
-    webUrl: "https://www.slashgear.com/893590/how-nvidia-is-helping-develop-self-driving-tech/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/how-nvidia-is-helping-develop-self-driving-tech/l-intro-1655139156.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "FOCUS-How free-wheeling Texas became the self-driving trucking industry's promised land"
     excerpt: "For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially, the least restrictive laws governing autonomous vehicles (AVs) in the United States have turned Texas into the industry’s most desired location."
     publishedDateTime: 2022-06-17T10:00:00Z

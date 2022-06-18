@@ -22,17 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Does Google's LaMDA Artificial Intelligence Program Have a Soul?"
-    excerpt: "For now, leading artificial intelligence researchers agree with Google that LaMDA is not self-aware and does not have a soul. However, given humanity's strong tendency to attribute human ..."
-    publishedDateTime: 2022-06-15T18:10:00Z
-    webUrl: "https://reason.com/2022/06/15/does-googles-lamda-artificial-intelligence-program-have-a-soul/"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 17
-
 secured: "dQ9PcKdgr3srzS1byGpx2ueHDikCDGyJDgwmuEnsPzY5EjKjSONjbU3YwiY07cxjP/1n4l3hl8vC5Cxqg8vaBV3kqjjEAdoGiEBX9g4/4W4ouAhI+ommIbpfEpR30jD+7gi7hzbkKGltDIANZh9YGDW+M62+ZwDbztwZ0IasRIRm9SmktPE6ZWotTKK/cxUSHIEA2ramrPXy4NLeIhGoGzxyCp9pX1qwnkC6/cCi7At7FJ23D35UVKCJdGpxOhAfALbfMiDVgeYCE2k3ABXC+RSeprspeB/dozRbsl2ZeegI1oynAzfRp/3m8RJ7W5OZOKQ2mLPmHVE4xUQYB3iJgWcg2DaCGfvblV60MlVs0uUftfSaDgy25giXEEWqH+7oCtu8MEqGRr20L3Wiaa93RMpeiKtjcnwSge+zMigmfhuLc2/VnqVs+ZqAWrgyHNcvoo2Pau3qlzZkNqI9ePfW0krzSsHq+Z6bGjvROm75YVFcslo+MLcKv0PsVvPWsI3sTdVtd05fI0ERys/9q+UfEA==;9+crxBLUuOmA14m8ezj6Rw=="
 ---
 

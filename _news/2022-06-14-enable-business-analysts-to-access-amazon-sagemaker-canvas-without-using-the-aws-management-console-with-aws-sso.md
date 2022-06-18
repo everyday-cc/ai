@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enable-business-anal
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso/"
 type: article
 quality: 63
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -23,21 +23,47 @@ topics:
   - AWS AI
 
 related:
-  - title: "AI in wealth management & its potential to disrupt the space"
-    excerpt: "AI has come out as a perfect technology that is helping us manage money, invest money, and much more. Some companies use it to handle low-value tasks, while others give AI the power to manage everything from end to end."
-    publishedDateTime: 2022-06-14T07:12:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/ai-in-wealth-management-its-potential-to-disrupt-the-space/articleshow/92199397.cms"
-    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/ai-in-wealth-management-its-potential-to-disrupt-the-space/amp_articleshow/92199397.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/ai-in-wealth-management-its-potential-to-disrupt-the-space/amp_articleshow/92199397.cms"
+  - title: "Prepare data faster with PySpark and Altair code snippets in Amazon SageMaker Data Wrangler"
+    excerpt: "Amazon SageMaker Data Wrangler is a purpose-built data aggregation and preparation tool for machine learning (ML). It allows you to use a visual interface to access data and perform exploratory data analysis (EDA) and feature engineering. The EDA feature comes with built-in data analysis capabilities"
+    publishedDateTime: 2022-06-15T21:27:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: AWS
+      domain: aws.amazon.com
+    quality: 94
     images:
-      - url: "https://m.economictimes.com/photo/msid-85173104,quality-100/article-banner.jpg"
-        width: 708
-        height: 424
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/prepare-data-faster.jpg"
+        width: 1246
+        height: 622
+        isCached: true
+  - title: "Extract insights from SAP ERP with no-code ML solutions with Amazon AppFlow and Amazon SageMaker Canvas"
+    excerpt: "Customers in industries like consumer packaged goods, manufacturing, and retail are always looking for ways to empower their operational processes by enriching them with insights and analytics generated from data. Tasks like sales forecasting directly affect operations such as raw material planning,"
+    publishedDateTime: 2022-06-15T21:08:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/extract-insights-from-sap-erp-with-no-code-ml-solutions-with-amazon-appflow-and-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/extract-insights-sap.jpg"
+        width: 1247
+        height: 626
+        isCached: true
+  - title: "Text summarization with Amazon SageMaker and Hugging Face"
+    excerpt: "In this post, we show you how to implement one of the most downloaded Hugging Face pre-trained models used for text summarization, DistilBART-CNN-12-6, within a Jupyter notebook using Amazon SageMaker and the SageMaker Hugging Face Inference Toolkit. Based on the steps shown in this post, you can try"
+    publishedDateTime: 2022-06-15T20:24:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/text-summarization-with-amazon-sagemaker-and-hugging-face/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/text-summarization-sagemaker.jpg"
+        width: 1246
+        height: 626
         isCached: true
   - title: "Use a pre-signed URL to provide your business analysts with secure access to Amazon SageMaker Canvas"
     excerpt: "Agility and security have historically been two aspects of IT of paramount importance for any company. With the simplification of access to advanced IT technologies thanks to low-code and no-code (LCNC) tools, an even bigger number of people must be enabled to access resources, without impacting security."

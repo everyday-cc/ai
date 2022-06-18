@@ -362,6 +362,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-15-how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker.md",
+      "title": "How Mantium achieves low-latency GPT-J inference with DeepSpeed on Amazon SageMaker",
+      "excerpt": "Mantium is a global cloud platform provider for building AI applications and managing them at scale. Mantium’s end-to-end development platform enables enterprises and businesses of all sizes to build AI applications and automation faster and easier than what has been traditionally possible. With Mantium,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/low-latency-mantium.jpg",
+          "width": 1247,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T16:08:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-artificial-intelligence-for-ai-to-work-data-use-must-be-right.md",
       "title": "Artificial Intelligence: For AI to work, data use must be right",
       "excerpt": "IT professionals in the financial services, media, energy, automotive, oil, and aerospace industries are most likely to report active deployment of AI by their company, while organisations in industries like retail, travel, healthcare and government ...",
@@ -402,6 +454,58 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler.md",
+      "title": "Prepare data faster with PySpark and Altair code snippets in Amazon SageMaker Data Wrangler",
+      "excerpt": "Amazon SageMaker Data Wrangler is a purpose-built data aggregation and preparation tool for machine learning (ML). It allows you to use a visual interface to access data and perform exploratory data analysis (EDA) and feature engineering. The EDA feature comes with built-in data analysis capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/prepare-data-faster.jpg",
+          "width": 1246,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T14:27:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -907,7 +1011,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/15/ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -981,48 +1085,6 @@
       "provider": {
         "name": "New Scientist",
         "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-ai-pioneers-honored-with-spains-princess-of-asturias-award.md",
-      "title": "AI pioneers honored with Spain’s Princess of Asturias Award",
-      "excerpt": "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279",
-      "publishedDateTime": "2022-06-15T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1134,49 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.md",
-      "title": "KAIST develops robot skin that can sense tactility and recover from injury",
-      "excerpt": "The Korea Advanced Institute of Science and Technology (KAIST) said its research team has developed a robot skin that can sense various external tactile stimuli and recover from injury when it is cut or damaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
-      "originalUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0622/kaist.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
-      "publishedDateTime": "2022-06-15T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

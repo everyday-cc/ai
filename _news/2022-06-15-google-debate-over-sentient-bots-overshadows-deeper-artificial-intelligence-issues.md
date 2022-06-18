@@ -28,7 +28,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all"
         width: 1024
@@ -169,15 +169,6 @@ related:
       name: The Star
       domain: thestar.com.my
     quality: 17
-  - title: "Sentient AI? Google Suspends Engineer over Claims LaMDA AI Is a Person with Rights"
-    excerpt: "It’s commonly said AI is being overhyped, but even so, some claims can get you in trouble. That’s the irony of a situation Google finds itself in. The company has suspended one its software engineers who claimed  its natural language processing chatbot,"
-    publishedDateTime: 2022-06-13T18:33:00Z
-    webUrl: "https://insidehpc.com/2022/06/sentient-ai-google-suspends-engineer-over-claims-lamda-ai-is-a-person-with-rights/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 15
 
 secured: "IHbeS5dCnZ/jpbo5+vNwhpkGLpilSmG367VNOHq0sUxByGzDlSOvt+KLsjsWCXkjH/EBM1Hc+Z6IyuVcusBv+G7IRqPyOE2aqU7utrlqK1f5uaMdTb8dMsNMmNI7byQo/TbDXgAmfibAWGfCfSamFc6bRJlaaGwV/t99IS4+giJ24f1FdNvVj+asIOxCXKYz+/YENvSFO2mxuNV0ysgUxY+j58Y2KMmyH1G+KLZTYr4C1YkiLSk7/IPxOVnJ16+WXPKFfKuohQWQaUalBpdKa76VQtl8yOLm1/bH+rPm7mkzVmMrSW77jCEsZLxImwi0pp8Sm6PrWr6WwG7HtBGiZGvBsa7AdvtHRUCXgAsP31TgVh498lX+rcRWkTQp0/tg8ZE8Fm91kDDz28BVjZ+UGRNEKu0pegv7cUxUm1dmMJ+DMiyqwLke3n9tNb/JBpSwUa/NHscu8sDjQbDGZdavTFbjp5Rt6K2N6Op1iswQBpAlq0ZB8C7u+wTXuplQWT0i9JEw9Cw6hg8P1uMWGpTLuA==;7+iaaOBlrEb5ueGwR1kBsg=="
 ---

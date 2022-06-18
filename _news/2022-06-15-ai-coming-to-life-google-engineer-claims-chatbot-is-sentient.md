@@ -134,15 +134,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "Google Engineer Suspended After Saying Company AI is Sentient"
-    excerpt: "Google suspended an engineer last week for publicly revealing details of a chatbot powered by artificial intelligence in violation of the search giant's confidentiality policies,"
-    publishedDateTime: 2022-06-13T18:07:00Z
-    webUrl: "https://www.cnet.com/tech/google-engineer-suspended-after-saying-company-ai-is-sentient/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
   - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
     excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
     publishedDateTime: 2022-06-14T05:54:00Z
@@ -290,15 +281,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "Google insider punished by company after saying AI 'has mind of its own'"
-    excerpt: "A Google engineer was placed on paid leave after speaking on a public platform about how a research system he developed for generating chatbots may have developed sentience."
-    publishedDateTime: 2022-06-13T18:33:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/google-engineer-suspended-sentient-ai"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 18
   - title: "Stop Saying That Google’s AI Is Sentient, You Dupes"
     excerpt: "To us, it might seem fairly archaic but there was a time when it was highly impressive, and laid the groundwork for some of the most sophisticated AI bots today—including one that at least one engineer claims is conscious."
     publishedDateTime: 2022-06-15T11:51:00Z
@@ -308,15 +290,6 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 17
-  - title: "Google AI 'is sentient,' software engineer claims before being suspended"
-    excerpt: "A senior software engineer at Google was suspended on Monday (June 13) after sharing transcripts of a conversation with an artificial intelligence (AI) that he claimed to be \"sentient,\" according to media reports."
-    publishedDateTime: 2022-06-13T19:01:00Z
-    webUrl: "https://www.livescience.com/google-sentient-ai-lamda-lemoine"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 16
   - title: "Google Makes Headlines for Suspending Engineer Who Claims Its AI Is Sentient"
     excerpt: "Lemoine, who is an engineer for Google’s responsible AI organization was placed on leave after he published a conversation transcript between himself as a Google"
     publishedDateTime: 2022-06-15T03:43:00Z

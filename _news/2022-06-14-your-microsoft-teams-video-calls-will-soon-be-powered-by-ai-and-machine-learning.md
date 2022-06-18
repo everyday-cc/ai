@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powere
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
 type: article
 quality: 116
-heat: 206
+heat: 186
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Microsoft Teams AI feature could kill the need for a headset"
-    excerpt: "Microsoft said Monday that it's using AI to improve Microsoft Teams calls further, with better two-way voice, echo cancellation, and smoother screen sharing."
-    publishedDateTime: 2022-06-13T17:37:00Z
-    webUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html"
-    ampWebUrl: "https://www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/785720/microsoft-teams-has-quietly-killed-the-computer-headset.html/amp"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 106
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/06/Crisp-smooth-1536x864-1-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse"
     excerpt: "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\""
     publishedDateTime: 2022-06-14T20:21:00Z
@@ -140,15 +124,6 @@ related:
       name: Mobile ID News
       domain: mobileidworld.com
     quality: 21
-  - title: "P&G, Microsoft partnering to build the future of digital manufacturing"
-    excerpt: "Consumer goods giant Procter & Gamble will partner with Microsoft to build the future of digital manufacturing. P&G (NYSE: PG) announced June 8 it has signed a multiyear deal with Microsoft (Nasdaq: MSFT) to use its Azure cloud computing platform to digitize and integrate data from more than 100 manufacturing sites around the globe,"
-    publishedDateTime: 2022-06-13T18:27:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2022/06/13/pg-microsoft-partnership.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "Oas6RJwI63XWPf5Zpv25AifzJClikqORuSo+z+QtUxUNTfD/jCUKL8hLjaLk5Sw6CgoDKbEm0EzQPLFcpYIWRXpq0bfYwNdOtRV9zi5y5DzMvBoWb7gp4j3fuwQl/YTQNzDhjdQQAKgCJWPlbWjtjIfnqKe0Urg5/GWgv5rXeWCaqzNHxZvnz+UZuAJzw2sc+oCosaGaht/+uCIt0nj+9nRJBqbeSxJMtuNO7gG1YdK9oSh/agkPW+CoqpLdFVxKDSM5aVfqPUfCDODRXKZTJvlp0ax/YampFmGM5lbA7kPIVuLxNa3CqgWk6jhhq02DSxw74W98Q7lQmgn25dLvVzkoNORO7j4pxzvbGUTYsPD9xkQudgs2JaMdI7vhK6ySdSKEJdvk21uZICEYkkM7Px504KYxmwZVtI+dxW34zDUZt26BfDwjp7ZILwf6oUqxnFkiTEyXea+Gndh2Sn2Py8nfDgGrgNCifHwZlpYVwZUbG/xWoFJMhf8vfg6lkYkugWVzRI7rxA2zcwhYwecFIA==;Hd5nw8C2wW8PbRKkAS3TMg=="
 ---

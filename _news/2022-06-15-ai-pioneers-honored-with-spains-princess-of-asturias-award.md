@@ -1,28 +1,27 @@
 ---
 category: news
 title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-excerpt: "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,"
-publishedDateTime: 2022-06-15T12:08:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-webUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+excerpt: "MADRID (AP) — A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias ..."
+publishedDateTime: 2022-06-15T12:29:00Z
+originalUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
+webUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Sioux City Journal
+  domain: siouxcityjournal.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -45,6 +44,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "D6yQ6TIuUYSBWyv3DOtmjRsXB21Kvp2jUWNk+vdgiEKIigBpuClhHftU+U0VI6h0+ZwI+jddTsLEzDE7zUAlith3Amzn1lPll680sWV/ffrK0Ly0wyDQGzX75B1ibAO5cWBvdJ0nE1EDThIjmZ0wNS945+obp0DKU5oXgGbBQvdavEa+a6cVRfw99Q4u3iphqG+KTvJkIzcMOVUcQYKRKM2yODKYbd91wVxmHzmcSkqQ/i5IwZkervzIk9v2xLNukh8KbgKAsPAa0YAi8x+ARmH35mOY4meD+BhHrSIVWUcdHlKjlWCBbdHOiqLcjRbzk6fb43rY+R7f44wLZ/YtctSdRJ4OA7vvoWQOu7L+rhY=;yU1G7SBjj6LLA5DdcgKZKA=="
+secured: "oi++M+hMlvYEWZci06zgP640ldHy/bfL5aeQNuRe8L5AI3prbhYgieLwtwEFez5IHTn3C+eqxD1zcJDAgknYLd4I2rjOUCZcN3OKsacJC1IOZ+OaWYzZPZpe+59hVtZxY55Ck1BO8r6q0u06KDst3SjKgAoETKKQQTptK+5tj/XO/uBab8k1eXfinlgUNgWo1AmLz+x1bFs86IrXtrn6hEzt+axfuJpHUD6Iqsc9zyDmlRwc5zIFVO622oUHTvJLzQpXU8MfobjN8PxwrP6oOIQ39+4BcNrBrzn+PzvCpm/fNph1Veq63K6JofmW9v7c1rIPCUrZmicYNAf9ijsUxfN1Otvq+o9T9wjKn4fD9fU=;eRCaL7UZ7lCPkes63xDSGg=="
 ---
 
