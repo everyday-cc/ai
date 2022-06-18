@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market Analysis 2022 With Top Leaders| Growth Opportunity with 27.7% CAGR, Share and Growth till 2028"
+    excerpt: "Global Artificial Intelligence (AI) in Medical Market Analysis and Insights: Global \"Artificial Intelligence (AI)"
+    publishedDateTime: 2022-06-15T09:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-2022-with-top-leaders-growth-opportunity-with-277-cagr-share-and-growth-till-2028-2022-06-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Cognitive Computing Applications and Markets Report 2022"
     excerpt: "Applications and Global Markets\" report has been added to ResearchAndMarkets.com's offering. In this report, the market has been segmented based on component, deployment mode, organization size, end user,"
     publishedDateTime: 2022-06-15T11:56:00Z

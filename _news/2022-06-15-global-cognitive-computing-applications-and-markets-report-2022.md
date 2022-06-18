@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market Analysis 2022 With Top Leaders| Growth Opportunity with 27.7% CAGR, Share and Growth till 2028"
+    excerpt: "Global Artificial Intelligence (AI) in Medical Market Analysis and Insights: Global \"Artificial Intelligence (AI)"
+    publishedDateTime: 2022-06-15T09:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-2022-with-top-leaders-growth-opportunity-with-277-cagr-share-and-growth-till-2028-2022-06-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market May Set a New Growth Story to Generate Booming Opportunities in The Industry By 2030"
     excerpt: "The market study incorporates an in-depth analysis of the AI in Computer Vision Market based on the key parameters that take in the drives, sales inquiry, market extents & share. Moreover ..."
     publishedDateTime: 2022-06-14T07:35:00Z

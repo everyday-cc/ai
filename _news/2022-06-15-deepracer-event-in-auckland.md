@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "AWS announces opportunity in ML for students in higher education institutions in India"
-    excerpt: "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on WhatsApp (Opens in new window) The AWS DeepRacer Student League will consist of ..."
-    publishedDateTime: 2022-06-13T08:34:00Z
-    webUrl: "https://www.financialexpress.com/education-2/aws-announces-opportunity-in-ml-for-students-in-higher-education-institutions-in-india/2558720/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/aws-announces-opportunity-in-ml-for-students-in-higher-education-institutions-in-india/2558720/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/aws-announces-opportunity-in-ml-for-students-in-higher-education-institutions-in-india/2558720/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 85
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/CUET-5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel Finally Launches an Arc Desktop GPU, in China"
     excerpt: "Intel has finally launched its desktop Arc A380 graphics card in China. A US release should happen later this summer."
     publishedDateTime: 2022-06-16T10:45:00Z

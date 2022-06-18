@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Exclusive: Facial recognition startup Clearview AI drops sales chief, chunk of staff - sources"
-excerpt: "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago, according to people familiar with the matter and posts online, as the high-profile facial recognition startup grapples with litigation and difficult economic conditions."
-publishedDateTime: 2022-06-17T14:33:00Z
-originalUrl: "https://www.channelnewsasia.com/business/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-staff-sources-2752521"
-webUrl: "https://www.channelnewsasia.com/business/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-staff-sources-2752521"
+title: "EXCLUSIVE-Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources"
+excerpt: "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago, according to people familiar with the matter and posts online, as the high-profile facial recognition startup grapples with ..."
+publishedDateTime: 2022-06-17T02:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources"
+webUrl: "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources"
+ampWebUrl: "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 90
+heat: 100
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
   - AI in Sales
-
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources"
@@ -43,6 +39,6 @@ related:
         height: 383
         isCached: true
 
-secured: "SIkZ31Kw5sJAawqeQ5xth4nfYwOlUKJn71UT9WU/9/v229rXCQRUHCXu8Chz+nlSQaoqErmbas633LtK/gs4ncU2/gGG1vuL9nXGcDM4rg/Kpaltg+JwJaW5XzmvTxz62RQypOWHIdHCKyDYzpjQ5aUENrChKidmiG9cFpYAtgha+/eiQFlbjrJOQXFKSWQguy2m2uFeeY2FcXZn3WcR6to/JMLww1mKY7dOJZpQY+vpwlzOsBi4+VAbtaMHEWd0SCkopfc8VIl+HplwpGR8mwbFfJL5F7jblOOCcIRZ6rh11U2FM4SIn2Lsuj/lEimOE8tke2TNYcOzyl8JnnvnrvCY7HZ3RgSe5IBlbnc0QpI=;D1HSA/Psd3QeSMeAVp89Xg=="
+secured: "UFSnn/Vi6mGd56S+AUbqsvqmvplLm960JLG9wfkXqhf4lPNNFKiQYRygjnlcGh6tDOfDE/FTpvCSojklwa4Cf39Rsza+tFX2PNmiJnSgTRXwxxZGKrfcB+fY7Xmfr0B9Bs5qLt65m/rz3J1gBS/T6phYm5wWubj0kcZf6o1DOmw5woyK8CeXRIYnc2SjZ+y44+pNqvwdfIczvkDUn8Rl/BckP7sRG3ZblqZm86M0f9if6kTS2Kk3yvPu7iymJp2U+X+EnnM8BFIHPTJOTbJ+uEpoBaLq4VERVMxd8QsD8wXTDPrlGcEVWKUEDo5XTxrP8yjq6hfkFPlwycESVb/aS5ovrMJw3J31Oq+I0jsEw/KMzi+tN7WtcqnEEQ2flYLzyMMI+HcwxbwZcMFUgoQ/0Af94ND4N5Hs30859J2sBLWQm6t9E7Kq/CzaJcDCxKowkNR/lbYTdKX/+AcR1sFArjqBq6P4n/EzT6Ib8zLOQfzdhp2S2+PxcVPoEDn2ZfKOom0Dy4Z5kdZSGwPm/KHymQ==;FCj1wxMXyCRH/oe6R1Q0yQ=="
 ---
 

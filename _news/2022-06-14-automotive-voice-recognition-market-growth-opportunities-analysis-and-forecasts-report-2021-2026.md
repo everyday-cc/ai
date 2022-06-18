@@ -91,6 +91,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market 2022- Analysis and In-Depth Research on Market Size, Trends, Emerging Growth Factors and Forecast To 2030"
+    excerpt: "The new report on “Machine Learning Operations (MLOps) Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered by Market Research, Inc ..."
+    publishedDateTime: 2022-06-15T13:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-operations-mlops-market-2022-analysis-and-in-depth-research-on-market-size-trends-emerging-growth-factors-and-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/cd04a2069c117aeb6fde0d20b28a20e4154e2738-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Computer Vision System Market Trend 2022, Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
+    excerpt: "Computer Vision System Market Global 2022 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety Products ..."
+    publishedDateTime: 2022-06-15T12:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-trend-2022-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/cd04a2069c117aeb6fde0d20b28a20e4154e2738-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "M1qmpl5y7at8GGZ0vASnhg2dOmeRNDcrSLOmlKvbpz+YD1HyVZ94RiMY+r0rFIvO8zJU9zP+OW1TrjW+d/032KKYBC2d+s4dAPDHHq5wTIWk7OEaq13Hea7hZ0tGC9PnQ4JGuKeLsvYR1e1q0evnrPPzhFGQnk0keIFoKrv8xwz3xmH+8O1krY3r+d69f/LNbxNBtUwaWgJ4HSHiPwjAw3LCRN+iqPRKN0KBMbOwsJ57j3S6m/iNTISsOyuS2V0368SOsO21W8YOd09DOLZWZZ8IqZ45pdocrbDb85Pm6L6eeQAwkfUhe6FHotkn65gMi96RlhXUyAagag1ArRsnyvLqN/KRyjbMHY5EAoaud3s=;YYm1XfJlg4l7Lvx+ayuYOw=="
 ---

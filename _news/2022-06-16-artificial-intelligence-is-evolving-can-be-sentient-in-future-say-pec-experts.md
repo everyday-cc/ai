@@ -94,22 +94,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "I’m a Google engineer – our artificial intelligence bot has come to LIFE and has thoughts & feelings like an 8-year-old"
-    excerpt: "A GOOGLE engineer has said an AI robot he helped create has come to life and has thoughts and feelings like an eight-year-old. Blake Lemoine said he had several conversations with Google’s"
-    publishedDateTime: 2022-06-13T07:06:00Z
-    webUrl: "https://www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/"
-    ampWebUrl: "https://www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    type: article
-    provider:
-      name: The Scottish Sun
-      domain: thescottishsun.co.uk
-    quality: 35
-    images:
-      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/06/offplat-cfp-aibot.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "QuickCheck: Has a Google chatbot come to life?"
     excerpt: "ACCORDING to a leak, Google has created an AI that has developed sentience and then they suspended ... cognisant after it answered a series of questions on its rights and the ethics of robotics. After he was placed on suspension, Lemoine published a ..."
     publishedDateTime: 2022-06-14T09:19:00Z

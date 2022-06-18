@@ -3,11 +3,11 @@ category: news
 title: "Be the first to know"
 excerpt: "A Spanish foundation has recognized four scientists for their pioneering work in artificial intelligence. The four were named recipients on Wednesday of the 2022 Princess of Asturias Award for Technic"
 publishedDateTime: 2022-06-15T12:00:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
-webUrl: "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
+originalUrl: "https://omaha.com/lifestyles/technology/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
+webUrl: "https://omaha.com/lifestyles/technology/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Google AI
   - AI
 
-secured: "p0pjnzlPubFnlA+Q9eKV7YpEhtEeSf/9WidNzLTup/CJ68ZnEIuvDGSdYSta4sWY2Cfc9Q7I/Td80+C2VBCT2jXa/l3tTGAHzSDf4iJXFgsLzLF7u7qjFfwX3D5n5TnwCi2Mbf1yx5bQF1x0EuIsIf17PAqCPWKmWoIWMHw6zHrUKui2UIcNPLZ9Hsgid6Y+koupmis5HPo6/qqt1VWl+nZxm//AkN6CShqMtAOV3pEmdMvKnVZZuT9TLhjp/B1XcxZe/I1KDTkX6PU8WbtB7smttvBjLY6CnWgvp+g4ZZuEQwLTpjns7e94jDeEv3c0G9tueHjTOMZuRc4MSw0fBTKjMN0OU0UdKV/bJPNvt9mg9CTIhE8HSEHtuvvUnsdA+Oiuc12GNbVSB1IKrgpzkMcMKdbogPzaAmmKYlA4ROrhcb1zT2oOyNvVgJzBjwWLTjgw2un/QHlUMVgjfkSh4GZv4I/bQ/hir4HAb70duPNF7jjMi9/6rbJw0tCxgKH98w0tUXOkJLlXQb22DGsgqw==;v+Cv8We5NlhWDvG8MY3adQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "8UgUR1jOJ3Jha/uCQTNcJPUJWpRtyQlp33NBHdw9zsTdyWyphbpikWSahwC4hz1qc3bsCDBTOX8WPdlke2NwAZlmgPIMPqWWx+OmxVa3f+I2we4vM4yc+NDms7U7uCKlD8ktFh8IXjTzNNUpHjGL5VvLychaMQzbX1FyqNKElaO3uSB+auRit4nxroSUlQM/SuHSFb1xYNEGHDO7kwG/pjClTwRgCeocsY+n+DSP+eeKAwQG+f0xOTfSQe7WA0OaZ/+aN9XH9z9wBw3te+B7SaaBOlW4EC/vXrvWOrcD4l5KoW2w4fJE3NyHZiWjF7lBq55Lcj5xpqPmGehI+0NBWpLc2cjuhBQ7VA3EoX6pKyE=;NvwaiH9ZQdTvrt5s9Eob/g=="
 ---
 

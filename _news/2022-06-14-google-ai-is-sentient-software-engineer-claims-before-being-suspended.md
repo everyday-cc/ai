@@ -87,22 +87,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "I’m a Google engineer – our artificial intelligence bot has come to LIFE and has thoughts & feelings like an 8-year-old"
-    excerpt: "A GOOGLE engineer has said an AI robot he helped create has come to life and has thoughts and feelings like an eight-year-old. Blake Lemoine said he had several conversations with Google’s"
-    publishedDateTime: 2022-06-13T07:06:00Z
-    webUrl: "https://www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/"
-    ampWebUrl: "https://www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/uncategorized/9004934/google-engineer-dismissed-says-ai-is-sentient/amp/"
-    type: article
-    provider:
-      name: The Scottish Sun
-      domain: thescottishsun.co.uk
-    quality: 35
-    images:
-      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/06/offplat-cfp-aibot.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence is evolving, can be sentient in future, say PEC experts"
     excerpt: "The claim by Google engineer that LaMDA, a language model created by Google artificial intelligence (AI), had become sentient and begun reasoning like a human being has sparked a lot of debate and discussion around it."
     publishedDateTime: 2022-06-16T01:51:00Z

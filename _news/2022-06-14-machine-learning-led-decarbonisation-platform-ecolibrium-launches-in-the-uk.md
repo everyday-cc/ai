@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/brand-stories/machine-learning-led-de
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning-led decarbonisation platform Ecolibrium launches in the UK"
-    excerpt: "Image credit: Max Lacome LONDON, June 13, 2022 /PRNewswire/ -- Machine learning-led decarbonisation platform Ecolibrium has today launched its revolutionary sustainability solution in the UK, as the race to reduce carbon emissions accelerates across the ..."
-    publishedDateTime: 2022-06-13T08:01:00Z
-    webUrl: "https://www.asiaone.com/business/machine-learning-led-decarbonisation-platform-ecolibrium-launches-uk"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?itok=oREaZpiC"
-        width: 599
-        height: 397
-        isCached: true
   - title: "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK"
     excerpt: "Relocating its global headquarters to London, Ecolibrium has raised $5m in a pre-Series A funding round as it looks to expand its international footprint to the UK"
     publishedDateTime: 2022-06-15T01:47:00Z

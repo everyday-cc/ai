@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027"
-excerpt: "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48."
-publishedDateTime: 2022-06-13T14:07:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13"
+title: "Artificial Intelligence (AI) in Medical Market Analysis 2022 With Top Leaders| Growth Opportunity with 27.7% CAGR, Share and Growth till 2028"
+excerpt: "Global Artificial Intelligence (AI) in Medical Market Analysis and Insights: Global \"Artificial Intelligence (AI)"
+publishedDateTime: 2022-06-15T09:24:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-2022-with-top-leaders-growth-opportunity-with-277-cagr-share-and-growth-till-2028-2022-06-15"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-2022-with-top-leaders-growth-opportunity-with-277-cagr-share-and-growth-till-2028-2022-06-15"
 type: article
-quality: 55
-heat: 85
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Medical Market Analysis 2022 With Top Leaders| Growth Opportunity with 27.7% CAGR, Share and Growth till 2028"
-    excerpt: "Global Artificial Intelligence (AI) in Medical Market Analysis and Insights: Global \"Artificial Intelligence (AI)"
-    publishedDateTime: 2022-06-15T09:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-2022-with-top-leaders-growth-opportunity-with-277-cagr-share-and-growth-till-2028-2022-06-15"
+  - title: "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027"
+    excerpt: "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48."
+    publishedDateTime: 2022-06-13T14:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -66,6 +66,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "aYpyu5az1Hy5cz1WJz9azEgUteyqQy2t1ch4FszVdfeooGtCmf0rkALeVw/pFG3D8T/0J3CrEjh5NUMTHGwG4TV6cm52vxovmKAFdPN64mAVHfbYmxmR6hZ44uUOGgjf15MIcp4R6MITd78fgPx+zqy7jc2qKyeExTqfzIGRuiENKjNCRJ7wIEoPHj5IuRf1Bt549LAxK0nYJbj8OtJ59x3gYPEJPTsE7DV2xxPwkicIRVPMeyvixCDFwHVPLV4AKWvGkAziI8EnQV5fUZjs+qfvVL34yGUicDs3LvFSSsrMKFZLVvCJIDNMv3ewbKkx77bCOxcxzpqXirZHJk4Eo5XXisRkw2VMkiuX2tFFhgI=;qrl4z6aKIG57hgHKw4Of5Q=="
+secured: "l4FbcQn8XVH+ixV0HzrQ/x1vB4CgNGbZDsbjZtTfSfxWLRqRpRgkREL0kBNAUzCLuL71Kp8xPczKriBQGJrtQ/vWTi9XBFAxP63odBF6A450rz8ZTj34hRk/UzzafJQVS66A561CiAfCGyLZ+DvBI0xaKly42Aw8U+UDu6BIMxrkRkZwIijxf6aazfLwckouzn6VZSVvb27lTjQzf/EACWZw1xTwCCDtTuoMayTKHHnd0R6xFD9ctidd8/4D+CuGwV4ln2rtnkFtLDr7H8GrP3fEYGiY9+00rWmP0a+5yrVbpVJySxzfGII23lmv+Vo7Sp26DDeyVlZk8NIq6huV06cwiSvfFQdQRC2Rh3SV2+k=;QxjTSSZORs6PeBLHWJjD2w=="
 ---
 

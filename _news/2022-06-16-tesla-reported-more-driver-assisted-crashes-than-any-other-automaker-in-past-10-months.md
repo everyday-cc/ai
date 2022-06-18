@@ -1,18 +1,24 @@
 ---
 category: news
-title: "Tesla, Honda Among Those To Report Advanced Driving Systems Vehicle Crashes-U.S"
-excerpt: "Tesla Inc reported 273 vehicle crashes involving advanced driving assistance systems like Autopilot since July, while Honda Motor identified 90, data from U.S."
-publishedDateTime: 2022-06-15T13:30:00Z
-originalUrl: "https://www.ibtimes.com/tesla-honda-among-those-report-advanced-driving-systems-vehicle-crashes-us-3540282"
-webUrl: "https://www.ibtimes.com/tesla-honda-among-those-report-advanced-driving-systems-vehicle-crashes-us-3540282"
+title: "Tesla Reported More Driver-Assisted Crashes Than Any Other Automaker in Past 10 Months"
+excerpt: "Federal regulators released data today painting the clearest picture yet of the state of driver-assisted technology in the U.S. That picture includes at least half a dozen deaths. Between July 1 ..."
+publishedDateTime: 2022-06-15T21:27:00Z
+originalUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446"
+webUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446"
+ampWebUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
 type: article
-quality: 15
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -62,17 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla Reported More Driver-Assisted Crashes Than Any Other Automaker in Past 10 Months"
-    excerpt: "Federal regulators released data today painting the clearest picture yet of the state of driver-assisted technology in the U.S. That picture includes at least half a dozen deaths. Between July 1 ..."
-    publishedDateTime: 2022-06-15T21:27:00Z
-    webUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446"
-    ampWebUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 61
   - title: "US report: 273 Teslas using automated driving systems involved in crashes"
     excerpt: "DETROIT — Tesla reported 273 crashes involving partially automated driver-assist systems, according to statistics about the industry released by U.S. safety regulators on Wednesday. The National Highway Traffic Safety Administration cautioned against ..."
     publishedDateTime: 2022-06-15T15:11:00Z
@@ -201,7 +196,16 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla, Honda Among Those To Report Advanced Driving Systems Vehicle Crashes-U.S"
+    excerpt: "Tesla Inc reported 273 vehicle crashes involving advanced driving assistance systems like Autopilot since July, while Honda Motor identified 90, data from U.S."
+    publishedDateTime: 2022-06-15T13:30:00Z
+    webUrl: "https://www.ibtimes.com/tesla-honda-among-those-report-advanced-driving-systems-vehicle-crashes-us-3540282"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 15
 
-secured: "i+lkGPLRYsOxZRjSd5/uYXTNV42xnQURjBYphKBvFMz+XHjrCL7iHGnNFPMl8+B9SBYJBefZ8hl1PvCFy2KirmztcCZIUuZsFdVqJ/p7moQBUkhBg/smUi00dJoMdK8NZI0LgobdwqyaUXOIW2jNFEN1ATDlM9QdoiLwlRuYYaacJKGf5Cov1VuTDAuenHckMlY0ubC/jHLQ7z9Fz8dJOwWMkyFfWrDwP2mdnqA/iDMDR+lVAYOwa0j8PUuF2eCZMix8ABi8XvJacVYfM3EwyHibI0am3WZ1DaZ+Ky+QkVFZzlYg0H9M89Ah8UJKZTHwyOxhnNdCbxImwZ9JJnxJg7fETQxOj7GdgZw5off75yEGN7Y/fCZ5xsuhcmG7dj6/8gt44UcSH0KrIfVzb45z/ECjZZ0ho5Cz84/QvJQn4SeNjmnHsFUjcwEZd+nAE6FY8ZnNrVaw9ntJXfRIp3EpDgYJJgwoD5kakYlqXa9z/9UUS1THHsvWs1J9t4byjMH2pkQ6bT2AxnXFE4QCk9q+3w==;e1e0ZdpgMzG1KMGRnHEYpA=="
+secured: "YVCY6+YCyZ9XnAEUwuqrPmTQIXtYEkSuAZIKjTXy2f33PQ+siT62JhEAV/XQ/vkdJ27651t7GRuZEyOCET0KEqVWHCrbBRqUL7GP754CJyxx1K8rD6Ill7kTzCzEz89j0E8RPuWvqyNrCI3vpHOJvkbkGTWRBUvrOyI5MBF+Xg8L4+kPB7oJy+pufPmMsGk56dMHPe6NV4dCY4bSJVWHmK57GcHdiozesaF+/iN29RlQwPvTh6GWTStrsjD/9Fv7U/MTBQxAQGDP4nJa1cJj4T9t3iJEBoaRqXLqNF1xCQLmqbyf/4YxYfIDAVa2S16r6tPt/cHk/9kiTbOIi51LIwTIFvY1o8YNIXrarJfsF0A=;H3QQu646Ao4nYNTN6rBOoA=="
 ---
 

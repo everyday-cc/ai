@@ -1,21 +1,28 @@
 ---
 category: news
 title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-excerpt: "The four were named recipients of the 2022 Princess of Asturias Award for Technical and Scientific Research. The foundation that gives out the Princess of Asturias Awards honored Geoffrey Hinton, Yann LeCun and Yoshua Bengio for the breakthrough of machine-based “deeping learning,"
-publishedDateTime: 2022-06-15T12:08:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
-webUrl: "https://abcnews.go.com/International/wireStory/ai-pioneers-honored-spains-princess-asturias-award-85406279"
+excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google."
+publishedDateTime: 2022-06-15T12:23:00Z
+originalUrl: "https://kvia.com/news/2022/06/15/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
+webUrl: "https://kvia.com/news/2022/06/15/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
 type: article
-quality: 17
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - Google AI
   - AI
+
+images:
+  - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech-860x484.jpeg"
+    width: 860
+    height: 484
+    isCached: true
 
 related:
   - title: "Princess of Asturias Award lauds advances in AI for 2022 edition"
@@ -27,16 +34,16 @@ related:
       name: La Prensa Latina
       domain: laprensalatina.com
     quality: 21
-  - title: "Codoxo to Address Advances in Artificial Intelligence for Unified Cost Containment as an Affiliate Sponsor at AHIP Conference in Las Vegas"
-    excerpt: "Company also sponsors concurrent customer-led session, \"Extracting Dental Resource Consumption from Your Medical Budget\""
-    publishedDateTime: 2022-06-14T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/codoxo-to-address-advances-in-artificial-intelligence-for-unified-cost-containment-as-an-affiliate-sponsor/article_e9dac816-aa5c-5a08-8ea2-ceffd51df1f5.html"
+  - title: "Four AI Pioneers Win Top Spanish Science Prize"
+    excerpt: "Four scientists, including two Britons, considered pioneers in the field of artificial intelligence were awarded Wednesday Spain's prestigious Princess of Asturias prize for scientific research."
+    publishedDateTime: 2022-06-15T16:55:00Z
+    webUrl: "https://www.barrons.com/news/four-ai-pioneers-win-top-spanish-science-prize-01655298007"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
-secured: "tSttC+2NNF41ZADA+AqZweHprQ766XZLgOFzMKwkV+hG8HtbuVmgpV2aQwUMYt75Yud1+9xIhJdc1n/Mo5ew6DKorrKR/YdqlHxmY+iuT5jKINwPwprwz8JTHdhJyhT2XImUBqY8oN7I2153QoWcuY3q7qwmcA5C6EmNH+w2qcxt8qt6V3+th2hnmZQV5F5C3W+B2F2IEvSeBbNi+jSDu1sojkpTwESePmNTPNVqH1ArRFZZvuapsyDzRu/zX3tLyRVe9xYiCMt+UP52v/KskdIoeQlPHUABmmg1NIEt03bsihbVF7V4IFrfIgtLQa6X75Z1DTeROgb9uhUWw6iHLqsw6uSy8p6etOjXAcW+p6BK07/VLUc5gLTvEnJq4PXisEm2sFwTxg3PTksT8QaD+YVI8ogDWLoACx/LnoOrGsyR7NW24+iR+V+46armzpzezte3rsEt4PTkPth4UuWSUiZNdIXAOI/jOdTflliw0/BJyyCdGUb6fctzdq+G6nlbno1b+psUljrLNwoI4uHvGw==;RMl9yUGHdOdrdUX3NL3Xog=="
+secured: "GTtuLmakJOFUANPg2/Z8hoPnXoFt2Kwhm8cYITG2RCanni0PkGrX/s8UflLQ82sVQPRzl5PP+nmzKmI+rJGyFR5YKGDcyx8g86GoJovxkpw+zQL1w0k6iduuX2yKIjHnq7CmT3uROYpD2KqyPsPlaM1P1BpU75BwJwypfNrQ5v43IUSUmRvqm//CQe+i+Xm2u8lsFg2o0Sb4h+5aDEG2zdRObxpCWa1UoY/F/09n1eTUlC3F2pMYaK4Z6CFES7oYqqOgkxYvw1e2laV193eKmSXQEYO6iJC7fBsgIYp+nA3OfuTrD8VML6L4A6+UH8yt7JMwzjwSA7PZ9x6A+M3RLiD9upeK2rDG1tOKlfApM4o=;lpKjTZqz5ISAXCRXCcD5Bg=="
 ---
 

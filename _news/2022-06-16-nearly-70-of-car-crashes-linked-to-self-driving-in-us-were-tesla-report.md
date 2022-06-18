@@ -68,6 +68,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Tesla Reported More Driver-Assisted Crashes Than Any Other Automaker in Past 10 Months"
+    excerpt: "Federal regulators released data today painting the clearest picture yet of the state of driver-assisted technology in the U.S. That picture includes at least half a dozen deaths. Between July 1 ..."
+    publishedDateTime: 2022-06-15T21:27:00Z
+    webUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446"
+    ampWebUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 61
   - title: "US report: 273 Teslas using automated driving systems involved in crashes"
     excerpt: "DETROIT — Tesla reported 273 crashes involving partially automated driver-assist systems, according to statistics about the industry released by U.S. safety regulators on Wednesday. The National Highway Traffic Safety Administration cautioned against ..."
     publishedDateTime: 2022-06-15T15:11:00Z
@@ -168,6 +179,20 @@ related:
       name: Click2Houston
       domain: click2houston.com
     quality: 19
+  - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
+    excerpt: "Of the 392 crashes reported, Teslas using the self-driving feature Autopilot were involved in 273 accidents. Other cars equipped with driver-assistance systems were also involved in incidents ..."
+    publishedDateTime: 2022-06-15T16:48:00Z
+    webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_eec41c8f-3ec9-5a6d-9a07-0ef5a8685e90.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/8a/d8aa7107-bdea-5c00-a18f-c67e79d80068/62aa092b59cff.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Tesla, Honda Among Those To Report Advanced Driving Systems Vehicle Crashes-U.S"
     excerpt: "Tesla Inc reported 273 vehicle crashes involving advanced driving assistance systems like Autopilot since July, while Honda Motor identified 90, data from U.S."
     publishedDateTime: 2022-06-15T13:30:00Z
@@ -177,15 +202,6 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 15
-  - title: "Nearly 400 Crashes Tied to Self-Driving, Driver-Assist Technologies Since Last Summer"
-    excerpt: "Nearly 400 crashes have been tied to advanced driver-assistance technologies in the past year, the U.S. National Highway Traffic Safety Administration (NHTSA) reported"
-    publishedDateTime: 2022-06-15T16:30:00Z
-    webUrl: "https://madison.com/lifestyles/health-med-fit/nearly-400-crashes-tied-to-self-driving-driver-assist-technologies-since-last-summer/article_fd3fe68a-9f93-5397-8f41-6509fbd3c020.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 0
 
 secured: "7+DXZ+g3UuItzcbC7H1plZuxD0jwy01toMce5XxOpw1QdCxg8ZTy/PtKOSbapEeNEU8Ukwwk0pAF2elFrLRUTOrv55uibbSrOofCGV57tKr1As/g0s1WODRkmbz0fXtXZwVkKJfh38YEedCjDcklmJnLjgCZFsiV9v3xw58yaoKd7rB1Pss+wnBYjTqvzFIozmsewBjBK4AKpMM8+3RSsLJ93hFLZCj9ZEqA/OL4eeD1iancmXlhif4OrB3kPvyfOhnErOpoHOBzFGSxypMRJNPbo9bhsTEZPPDgsc8AAjKY4rZ4wCUYpNh69aAVNvEUHGm2t+UujCt1e5Zg2EQvAiAgSLUD6xIeSThvcJlW78Y/cDtf5nrGBE78eBoTtgBk2wyAnhTPR4vjknH8Wx4rBavwqJSTeu3SKkAc0EW+zyxr2eMtRIDYClwDO8Ri7uo2AhTaK1pVuNxIAgDfTSlq3IXPEVhG9uzmKuPXksY36B4gRRmPIOkft7SsSx0zWai1c64lp+ebgR9ejKKndIdt9A==;EbOUFqL4Qy50dqbnjmF8Mw=="
 ---
