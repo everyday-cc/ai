@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powere
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
 type: article
 quality: 116
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -121,20 +121,6 @@ related:
       - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_2_10.png"
         width: 900
         height: 480
-        isCached: true
-  - title: "Call quality in Microsoft Teams is getting better using Artificial Intelligence"
-    excerpt: "Microsoft Teams has been on the receiving end when it comes to nifty features, which are all geared toward enhancing its user experience. However, there are"
-    publishedDateTime: 2022-06-13T14:56:00Z
-    webUrl: "https://www.onmsft.com/news/call-quality-in-microsoft-teams-is-getting-better-using-artificial-intelligence"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 50
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/09/Microsoft-Teams-hybrid-work.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Microsoft improves Azure’s accessibility for AI workloads"
     excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"

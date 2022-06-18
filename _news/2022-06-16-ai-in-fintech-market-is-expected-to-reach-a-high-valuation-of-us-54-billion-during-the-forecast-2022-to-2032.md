@@ -19,57 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027"
-    excerpt: "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48."
-    publishedDateTime: 2022-06-13T14:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13"
+  - title: "The Worldwide Artificial Intelligence in Supply Chain Industry is Expected to Reach $10 Billion by 2027"
+    excerpt: "The \"Global Artificial Intelligence in Supply Chain Market (2022-2027) by Offering, Technology, Application, Industry, Geography, Competitive Analysis, and the Impact of"
+    publishedDateTime: 2022-06-14T11:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27692264/the-worldwide-artificial-intelligence-in-supply-chain-industry-is-expected-to-reach-10-billion-by-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27692264"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27692264"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Market Analysis 2022 With Top Leaders| Growth Opportunity with 27.7% CAGR, Share and Growth till 2028"
-    excerpt: "Global Artificial Intelligence (AI) in Medical Market Analysis and Insights: Global \"Artificial Intelligence (AI)"
-    publishedDateTime: 2022-06-15T09:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-2022-with-top-leaders-growth-opportunity-with-277-cagr-share-and-growth-till-2028-2022-06-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Computer Vision Market May Set a New Growth Story to Generate Booming Opportunities in The Industry By 2030"
-    excerpt: "The market study incorporates an in-depth analysis of the AI in Computer Vision Market based on the key parameters that take in the drives, sales inquiry, market extents & share. Moreover ..."
-    publishedDateTime: 2022-06-14T07:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-may-set-a-new-growth-story-to-generate-booming-opportunities-in-the-industry-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://amarketplaceresearch.com/wp-content/uploads/2022/06/AI-in-Computer-Vision-Market.jpeg"
-        width: 790
-        height: 466
-        isCached: true
-  - title: "Global Cognitive Computing Applications and Markets Report 2022"
-    excerpt: "Applications and Global Markets\" report has been added to ResearchAndMarkets.com's offering. In this report, the market has been segmented based on component, deployment mode, organization size, end user,"
-    publishedDateTime: 2022-06-15T11:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-cognitive-computing-applications-markets-report-2022-featuring-/2022/06/15/9621933.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
 secured: "YLeP7m0AkpEjm5WHhdYxAgcAzb5oKOmmqj2AuE2Bng3ijTPybI1YbmGqf6TGzxtidjqC44cdQIDf6HhvH6yIv+IusPpyN71a4F++l/LfHTlXEN6sood9ZQ+u8czKJ0qGyh82U5GcQcAWtFvUCADpk69+oh4szHZfmM+zCmUxdmNRnTZcS5XMfg46u+6rF/PsMVVwEjYI1DbYos1ZYYVNvwMa/L46YzMWW7ICwMI1dXpIvjwYb/0TcbPRlY5RpXdllNfmmahexbe54OEdjnWwjinvQZvTF36bn1BHZTal+PNMdgsiaDHGn+reO1kF+T78WyTbZdDHayFzdny7Boitn+LPyKNyk0RwDngu/bw09rw=;s0fEzr7BZpy55D9tsC2kbA=="
 ---

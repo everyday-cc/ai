@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Downer and IBM Consulting ink 10-year partnership"
-excerpt: "Integrated services company Downer has entered into a 10-year collaboration deal with IBM Consulting to explore possibilities working with artificial intelligence."
-publishedDateTime: 2022-06-16T07:09:00Z
-originalUrl: "https://www.arnnet.com.au/article/699082/downer-ibm-consulting-ink-10-year-partnership/"
-webUrl: "https://www.arnnet.com.au/article/699082/downer-ibm-consulting-ink-10-year-partnership/"
+excerpt: "Integrated services company Downer has entered into a 10-year collaboration deal with IBM Consulting to explore possibilities with artificial intelligence ... Analytics with Watson to improve ..."
+publishedDateTime: 2022-06-16T06:54:00Z
+originalUrl: "https://www.arnnet.com.au/article/699082/downer-and-ibm-consulting-ink-10-year-partnership/"
+webUrl: "https://www.arnnet.com.au/article/699082/downer-and-ibm-consulting-ink-10-year-partnership/"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "3MFCK23XkpXCwEcIDGnp4K8dPxjCxyq5msI7Y5s/W05PaEc2WzR26ap90nipCtBHc8qP3/0GwnDIpklNZ+Wf6TX/0AnFa+DYV+XtvcQytH0zMgFKpfWZnEYZv2xFY6zYSoNd0ozqeVDiYC7qnrYoJHRArGXbbfzajDpcCRdzStcXcrax0j+wVM46PABdlH9JPImPkL56wfcIN+3sy+dNTKf0aIHueBI3vkfcZGS2N0O1LlzHfrUuqHGbXHX3Q3cYh425i/TcxsaB9qsAf7Jhd3mkm+UNiyNJ2nT4txj2tviCuAuA08n60bKYJ0ijuPLmW54eWi6Xqp43Koc8jiY+nVc1QMeW+7PlwbiADPCwCYzBgiDXbEdTakjHfFJmW3Pu4xprvvuLVBiloxjzTbebs710j2LvYtaq1l7E/8w4Tn6enNO+HPaAc2y9V4aglXNfwywbKpcaNFR2PbuPXFMg9bUXMTEMbwDxvp2m7Epa2dgLWxOXmw2fXvWENUHO2PiZUQlNhAKHRwAX3ngpFuB0XA==;XSU5C5DWK6cgCbZeuzVwrw=="
+secured: "enOK9xk4H8IR4UKOwFcXA9YD4yZUO53RTFhw5iMjlb1t9hKfVXQO8ywQvvG5hvJukpKgFIBPNRLSOjbzWcu618J77O4sNINVITY0OqtQaCVZCBCSrStf3/mkNStbki4i31bvUrQXf6sP8EXl1RdQRt876t24NdWTtjTvZBP6pl8QBy4UsWLdmdmEtGDdT6Iv33gT0HV3mwx5z4o/+/fd++S/aXFWxk9/wzt0xRB3lFaofdWxvzb+O88QecyvLf6U+OihuRaP1S3shFFRi0N1zz1r6cTLYDQmIQzh32q4kevxu5YARCU/5Y+yKibG2ORJ6SdQuNieW3T/zOpgnOVHrcM0PJWb5WON/ROVpddJGDI=;I6SUEIZxk+P6RKbASwQAGw=="
 ---
 

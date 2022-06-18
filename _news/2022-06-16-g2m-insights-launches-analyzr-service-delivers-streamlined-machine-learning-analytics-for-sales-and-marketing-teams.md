@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27746240"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27746240"
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "How Geo-Enabled Analytics Improve Outdoor Intruder Detection"
-    excerpt: "Smart security cameras use video analytics to detect intruders by automatically “seeing” movement and sending alerts. While this solution works quite well in stable, indoor environments, just imagine what a smart camera must contend with outdoors – where everything moves,"
-    publishedDateTime: 2022-06-13T14:49:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21268219/how-geoenabled-analytics-improve-outdoor-intruder-detection"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 4
   - title: "Outlook on the Artificial Intelligence in Marketing Global Market to 2027 - Development of Marketing Analytics Presents Opportunities"
     excerpt: "The Global Artificial Intelligence in Marketing Market is estimated to be USD 9.8 Bn in 2022 and is projected to reach USD 23.14 Bn by 2027, growing at a CAGR of 18.75%. Market dy"
     publishedDateTime: 2022-06-14T20:29:00Z

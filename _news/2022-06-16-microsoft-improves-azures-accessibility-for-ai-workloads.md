@@ -125,20 +125,6 @@ related:
         width: 900
         height: 480
         isCached: true
-  - title: "Call quality in Microsoft Teams is getting better using Artificial Intelligence"
-    excerpt: "Microsoft Teams has been on the receiving end when it comes to nifty features, which are all geared toward enhancing its user experience. However, there are"
-    publishedDateTime: 2022-06-13T14:56:00Z
-    webUrl: "https://www.onmsft.com/news/call-quality-in-microsoft-teams-is-getting-better-using-artificial-intelligence"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 50
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/09/Microsoft-Teams-hybrid-work.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "The Power of AI in Machine Vision"
     excerpt: "onsemi provides a custom mobile app available on Android and iOS (Fig. 3). This allows for the use of Amazon Rekognition via a connected smartphone and a valid AWS account. Once the AWS account is ..."
     publishedDateTime: 2022-06-14T14:59:00Z

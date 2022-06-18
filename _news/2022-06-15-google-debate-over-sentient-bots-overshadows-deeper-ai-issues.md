@@ -243,15 +243,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "How does Google’s AI chatbot work – and could it be sentient?"
-    excerpt: "Researcher’s claim about flagship LaMDA project has restarted debate about nature of artificial intelligence"
-    publishedDateTime: 2022-06-13T13:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/13/how-does-googles-ai-chatbot-work-and-could-it-be-sentient?amp;amp;amp"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "If AI ever becomes sentient, it will let us know"
     excerpt: "Blake Lemoine, a senior software engineer in Google's Responsible AI organization, recently made claims that one of the company's products was a sentient being with consciousness and a soul."
     publishedDateTime: 2022-06-15T04:46:00Z

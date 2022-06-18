@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 656
         isCached: true
-  - title: "How Rep Leverages AI to Revolutionise e-Commerce"
-    excerpt: "Moving forward, the future of e-commerce consumer experience is AI-powered guided shopping. Aiming to revolutionise the e-commerce industry, Rep is a breakthrough AI-powered sales associate that streamlines the customer journey through data-driven insights."
-    publishedDateTime: 2022-06-13T14:15:00Z
-    webUrl: "https://www.retaildive.com/press-release/20220613-how-rep-leverages-ai-to-revolutionise-e-commerce/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 17
 
 secured: "vYuFPMCpFVLMnfsYeYxND3FK1k/suqVVGPLiWIpBwqpxWhcYsNkVFDOKg1wMW2Ep4fVoPzCKHx2LAJsyWSqH2krZbuAd4t1GsvWgzRt4VNrEbuuj/TWO5dqDKG3bul+kXX/+j23AlondeO/9HtF4j8hC5WRQ/UumAxp9KSD4wuc7lXOgsF++nbGW7Tn3bIWWE/HwP1kGy8ihlmwI0+unZI2aoyVdOaOaWXAOWuV2l+FAXhwyh5RM3wHWr4CdbaeZPeggGPN+b18wR37Z5XGjqvLMGHs3RYVS95JIrf2bFMv5QyqI6LjzpqVoircanGyf/8D1/9nxntuvWcLTRKF97vyQlKHXy5JM8tA/hZIPlUxPh2zDpT1FVyodOnUJ/eZbGVHK/BHQX32NuYrdpTT3fy1l0iF1BkSoyiyGS/1OYBTxtavYnLObVC/gI3GwTK2+ibin6bhv2qimuPMe92zFb8rbt+7qeM9Ac6C/yxhcKtp1VZ0M45raJ7/kbYdGl0k+woysF6FjhLIEquDogbnaQg==;6CLpw0/l9y6+FRjFC9Cwng=="
 ---

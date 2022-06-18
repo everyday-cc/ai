@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shi
 cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels"
-    excerpt: "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin."
-    publishedDateTime: 2022-06-13T15:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Vault-Safe-Open.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "How AI & ML Technologies are Reshaping the Fintech Industry"
-    excerpt: "Fintech developments are affecting all sectors of the financial services industry such as: Impact of AI and ML on Fintech We are now in the era of fintech 3.5, where artificial intelligence and machine learning (AI/ML) plays a vital role in our lives ..."
-    publishedDateTime: 2022-06-16T11:17:00Z
-    webUrl: "https://www.siliconindia.com/news/business/how-ai--ml-technologies-are-reshaping-the-fintech-industry-nid-219257-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 36
   - title: "The Regulatory Challenges of FinTech"
     excerpt: "Scholar sketches the current regulatory landscape for financial technologies in the United States. New financial technologies are worth big bucks—but are regulators doing enough to oversee the massive risks posed by these new services and platforms while allowing for flexible innovation?"
     publishedDateTime: 2022-06-14T04:01:00Z

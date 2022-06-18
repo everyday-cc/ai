@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Engineers build LEGO-like artificial intelligence chip"
-    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip—like LEGO bricks incorporated into an existing build."
-    publishedDateTime: 2022-06-13T15:00:00Z
-    webUrl: "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 78
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/engineers-build-lego-l.jpg"
-        width: 1434
-        height: 727
-        isCached: true
   - title: "MIT built a new reconfigurable AI chip that can reduce electronic waste"
     excerpt: "Is this the end of e-waste? MIT engineers have designed a LEGO-like stackable, reconfigurable AI chip that can be snapped onto a device's internal chip."
     publishedDateTime: 2022-06-13T15:02:00Z
@@ -85,36 +69,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 68
-  - title: "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip"
-    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s"
-    publishedDateTime: 2022-06-16T06:07:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
-    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 67
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Engineers Build LEGO-Like Artificial Intelligence Chip"
-    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip — like LEGO bricks incorporated into an existing build."
-    publishedDateTime: 2022-06-14T15:14:00Z
-    webUrl: "https://www.printedelectronicsworld.com/articles/26888/engineers-build-lego-like-artificial-intelligence-chip"
-    type: article
-    provider:
-      name: printedelectronicsworld.com
-      domain: printedelectronicsworld.com
-    quality: 54
-    images:
-      - url: "https://idtxs3.imgix.net/si/40000/9B/E8.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "xTQVa3dfJsN9CHSjFxF/2l92pzZZhEGf8CpWAIIll+AG6vHhYZ4nhJ5vgP3uLQchHB29sjVK/3adUnvc1gHhsNZXs54s7bHiO0pNhpxxJO52bSydJfoxwJgIxmnXqF3N4XhIWKrTnt328Xd0osExYGbD/GSfepOzVnJX4Z1YABAt3ThOlf4tMr4LYCaF/TOCXX9CUD/Cg0+xk87Qpr85xSBiiPk2pDDSSvpryOxB8s+Z73t7BRaY8aTaZnueA4tJZssKaJqJ04XZ1Re2UdR5p2PDFL1kQobt0rgs+oLcJAtlwk9jcjOtD9Qir4snP/YdChl/LVCaG12Hj0xiJqwtQbHuOv8WbPf0pMocDKnVvWW/YdreXFTAtpWOfNem65QYaqp0h05vB3AkHHqzo8Pn0MqcEfl5SqwvQBUrjH57/Rk29lIGJ/adjBLUkknRqQ98g7sQMM6R6TONXU5m8KOad269fvSJ8yPmW2d7EmdeL1rjpbb1mN1g7Sqdui1lgLq35UKDYtNb3vW2W0BHfsjtog==;zns4rkPRGbbQmRfAv59ijA=="
 ---

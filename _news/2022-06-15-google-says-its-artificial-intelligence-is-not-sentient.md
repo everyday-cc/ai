@@ -68,22 +68,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Has Google's LaMDA artificial intelligence really achieved sentience?"
-    excerpt: "Blake Lemoine, an engineer at Google, has claimed that the firm's LaMDA artificial intelligence is sentient, but the expert consensus is that this is not the case"
-    publishedDateTime: 2022-06-13T13:26:00Z
-    webUrl: "https://www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/"
-    ampWebUrl: "https://www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/13141935/SEI_109536389.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Google Engineer Suspended After Saying Company AI is Sentient"
     excerpt: "Google suspended an engineer last week for publicly revealing details of a chatbot powered by artificial intelligence in violation of the search giant's confidentiality policies,"
     publishedDateTime: 2022-06-13T18:07:00Z
@@ -183,24 +167,6 @@ related:
         width: 1200
         height: 770
         isCached: true
-  - title: "Sentient AI? Google Suspends Engineer over Claims LaMDA AI Is a Person with Rights"
-    excerpt: "It’s commonly said AI is being overhyped, but even so, some claims can get you in trouble. That’s the irony of a situation Google finds itself in. The company has suspended one its software engineers who claimed  its natural language processing chatbot,"
-    publishedDateTime: 2022-06-13T18:33:00Z
-    webUrl: "https://insidehpc.com/2022/06/sentient-ai-google-suspends-engineer-over-claims-lamda-ai-is-a-person-with-rights/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 15
-  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
-    publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 10
 
 secured: "ZCV6CEvAK8lcemy84W7nibzkSHvkfZPqBpyJFCj98Asxele/osS+upln+lIfBhwRccSXOdyOgWWEc4O4W3rEsojHLqeHT5HXmNfA8fBueyHGb5Rw/jNyVT1FXs7YjHUH3a4JHUFWL8mFOiW8pprcbEs2tdBHYDfjK6gCvT/qZZ2YFarTPK4rB0/LBBRhECPKoOWNIpJAqEKg6sszXdS8i9IZJ80514kYNSjP78BCyzL/K+2F0Ysirj7no5KA9KhYYRfMjBcnCWcLdjUpf33W/ZwJvkENMd6ZBbdfPE6cORdHl1lVgRrSK/UKW4zyFZb5KEzVYuIAp/4QGMUkM0/pqQT2JUjyv60TF89wJDgZE0R0Olq3g4lCH8Vvch1Vi3k5Z7za9yISoArYdPg8VIMFN3xFo/HF8+Y8WQXe9SJUlwchRjO4kLbJ/IywyyinTu4yOd5B9eWsyYITjnARof0sSOheO6O97jM4G/2XDAJMhYpMPgMpwG6r04ZOm1Y9W3J6s1zoSb4mpDBqLdU2Fz1Z7Q==;2zqJNyHs2VPp/pjLAVLFmw=="
 ---

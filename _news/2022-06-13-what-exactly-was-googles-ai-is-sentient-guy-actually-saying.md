@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp"
 type: article
 quality: 89
-heat: 219
+heat: 189
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107075897-1655253091693-gettyimages-1397188618-dani1.jpeg?v=1655253114"
         width: 3840
         height: 2160
-        isCached: true
-  - title: "Has Google's LaMDA artificial intelligence really achieved sentience?"
-    excerpt: "Blake Lemoine, an engineer at Google, has claimed that the firm's LaMDA artificial intelligence is sentient, but the expert consensus is that this is not the case"
-    publishedDateTime: 2022-06-13T13:26:00Z
-    webUrl: "https://www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/"
-    ampWebUrl: "https://www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323905-has-googles-lamda-artificial-intelligence-really-achieved-sentience/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/13141935/SEI_109536389.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Google Engineer Suspended After Saying Company AI is Sentient"
     excerpt: "Google suspended an engineer last week for publicly revealing details of a chatbot powered by artificial intelligence in violation of the search giant's confidentiality policies,"
@@ -189,24 +173,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 37
-  - title: "Sentient AI? Google Suspends Engineer over Claims LaMDA AI Is a Person with Rights"
-    excerpt: "It’s commonly said AI is being overhyped, but even so, some claims can get you in trouble. That’s the irony of a situation Google finds itself in. The company has suspended one its software engineers who claimed  its natural language processing chatbot,"
-    publishedDateTime: 2022-06-13T18:33:00Z
-    webUrl: "https://insidehpc.com/2022/06/sentient-ai-google-suspends-engineer-over-claims-lamda-ai-is-a-person-with-rights/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 15
-  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
-    publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 10
 
 secured: "8QKsN0Dw+3OTntwEzaAzhVxfdiIg1YaulZ0dRHGTz0xLvYNAQZOKJiOwc92rb+dCw4RNreReE0yI9yxkaW9buuXn36RrKhCY4M3uhKscI7iNaubsVAjzdhihDl2lWDqkK3yYNf4sSce+NJjWxoRLdDbanj4xKwZ2GkyJiLFGC6LOtYnw/P8apEu6xnnizj5Ite/eW1c5U8W/ZzLAJdYCP+jzocGEFGxGDu3m8qPdXExGYFarZ+v1J+pY0Q72jr2LRTSWb0mCfPHPFgxDtQ45YCaz7XWdq3p8Hcozu9+wVhTnBIIJvCDXqy/XaUkQwZb9Y7KciHHaprEsbYtCXTCaeM0ub+/seJCQasQ1LSpCEC6SCc9IT5V/5hPTc8vjHLQcrjzmvpAxdzjlLaGQ5bNPrEiHFDs2rDqJoEW076dDoHsobQ6b6UegQPnETpBug+tLrXec9F7PwawPLU8cwUAUbAWcrTKwjNkVH/3WnuvYrxfb9cdlD5oVWJQ7bGDNLL/GpHSM2ePFb4xo9KXwcdc0dw==;rsljmlCVjC+uLtB231kH8A=="
 ---

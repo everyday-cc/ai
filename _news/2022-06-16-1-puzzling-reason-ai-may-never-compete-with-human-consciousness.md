@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai
 webUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/"
 type: article
 quality: 67
-heat: 87
+heat: 91
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "How Rep Leverages AI to Revolutionise e-Commerce"
-    excerpt: "Moving forward, the future of e-commerce consumer experience is AI-powered guided shopping. Aiming to revolutionise the e-commerce industry, Rep is a breakthrough AI-powered sales associate that streamlines the customer journey through data-driven insights."
-    publishedDateTime: 2022-06-13T14:15:00Z
-    webUrl: "https://www.retaildive.com/press-release/20220613-how-rep-leverages-ai-to-revolutionise-e-commerce/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 17
 
 secured: "7zV3iuWbbk44XPvfx0DB3MqHibrwE+ZbdNrnTTH2Es5T164CZ7Db7Jgt5sCd4RDpGTt/6G1PeZqCsNK+urq7QYPXKnJsPMxAKyhJJMA73nAwF0Dqkr1QDNBzbpLOPaThd5AfMUhd3AZthJDWz5Mg0U9dR5YWoG2cY5f8Wmg9dczKTyDEqJsunnNZpr8onkyyJAzC1kfQ/h9/TgxRXQxFIwdD/FQ1HE5BCqUTP+wlrGuK9KvpVAWOMvrus88vHqAy1ySKbn4A9EN8uNqwnwc1Wh7YhqMm1jws6SbllyStH5IuQVygGe4xRGWhvK/ZnrzTtMXyyX+AOoHRDJRXzBiJsqMIVw/gLKJcUc+BSPCTNs66s9lz5D2Wyth7ZAGDVTnZpqy4P2ErmIxwVxqbTmeTWFBaQLWas6aKNaSSZl4V0KUi8R6bTiAaOR7zZgSAJnlCptu7VYEmMihO4GC8kaNcZauj++ohcOPNbfBjBlqM+vTHuRuLaG3+4j1KQhV7NRBpTjoHoaihz69VJtbNM7pKWQ==;NidFTq5JiCiTfyO9TVtwUQ=="
 ---

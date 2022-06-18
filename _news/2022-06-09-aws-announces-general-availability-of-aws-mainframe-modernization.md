@@ -1,26 +1,30 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Mainframe Modernization"
-excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS’s superior agility,"
-publishedDateTime: 2022-06-08T17:36:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html"
+excerpt: "With AWS Mainframe Modernization ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media ..."
+publishedDateTime: 2022-06-08T18:48:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-mainframe-modernization-2022-06-08"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-mainframe-modernization-2022-06-08"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
-    width: 415
-    height: 539
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "Fe612UL9mE8PbxgMCwxPKArRDvj0ErNWC9ek2+Mt8XXgNJ4cP+L86b1j45zzRY2tloRxZ2gXF8kst5XVyAMo0sQZkuRKf0MvERnTxb9l0/fbnHqo2lSK7xWd3Zx32SfJIt1gk1xTTaz3edV3PgVxrWCDhDRH14HOleiEFI4v7E0tF3eKpN6rzNs9kGCM695Tgk+9yxXRtru0lYNbjCsElsE/5bQyUixbWFETbKYYEm7vzZV0mkB884JzGj4cVBct9iKin1XdnyTVDdf8xLAkY98K19/IEoRybBlpcznzCOU6MT4Cf0AmEDxgK1Q3BmLtavLnBsetVCrYVebMwqCiYsW8h5iGkL9qUeszUtBmbh2hJbi1LXj1X/Vf8qvKBMYNcGQE19sJffYglqrGIdI30sZjGXaekmvCB+YbTM+NCf+BomUgpf+w091jbfs48/CCDptaJx1tlQ+lonKkcbvBn+tO+Qjzc8UY51Oy8riRuccd01YixxsXIs/pOmnPPVUs31c3BTtRcdn/u3bDIae7gQ==;HE0EA6UNqS3DOYUtjBAKDg=="
+secured: "DZLFkyrzWw1dF/7czCEs3HLl4cfXnqgKqCbhxI2farhRbA1U+ggzx2UP9jmVm9knPjG2gwFF5xj8D1KJ6ZnMb3jTnTjmD1iHMPdWvaHdz3Y75jTYhBhDQowav3ZXaOYaVQcpssHrPiXyxEYfqZlzysY8JCovgGxAPhX+tz4o3L5JwmavOibCUw/WsyuDB8v4lEAAzn72jNWC2BPUhZCcv1iHB8Xo7Z7nPwdaRb91UkZA9mQbUv8xrRZ3/tZ/8exzkw6icUmHlg4LBkmH1AJHKbT3pL6ijXuAO5RQhPpwk8vcEe+pnxZbaSUvgGS+vTB4dwLV7lLn6XhY4L1N5LRXcxLDtFvPLKEZQM7yteE03wI=;c2U58NQuo1BoCyPyZPUqig=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-95b9d4fccb5a691e17623ddc22612924"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 719
         height: 343
         isCached: true
-  - title: "Ainnocence Applies AI To Drug Discovery"
-    excerpt: "A new, San Diego-based biotech startup, Ainnocence launched today, saying that it is focused on using life-sciences knowledge and advanced computational techniques to accelerate the design of small-molecule,"
-    publishedDateTime: 2022-06-13T13:22:00Z
-    webUrl: "https://www.socaltech.com/ainnocence_applies_ai_to_drug_discovery/s-0082594.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 17
 
 secured: "LdFQiewFphiP2JKxvb//ojrSLGGqNrIgnLPnMX/SA/OFXZYFbxE6NSiSq7hV656SynjuB4MWKxJohgZsUxb2SHdW/vb6ArVdqlOnn2CtAJtTuR37RhgviylAfSLgKi6tSD5+ChnjkHFRQ8oR0A29rXRztUtOGbj8EvvKMrDOMcIDOoO9AXKL9XhSKW8EOMVBzY2tbMvPDeFvKgZuAZoLGrlLkeXPh1bpcysWdf3IS3UXeOMmG0V4MPxIEtjAP6rEHdj+TB1IunHrYGaYmhkhoZk/Bak+qNNtPm+H7k6ABNtq1IrRrqzV6JAaMzuIo5lAMswmGdp/mubAvHikldeh3y+4DNCYez8Hdg7jj6uzZ5w=;x0Xt0RqfAc3/mYjKDUZo5A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-06-imaging-machine-customize-coc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-imaging-machine-customize-cochlear-implants.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -40,6 +40,20 @@ related:
       - url: "https://hospitalnews.com/wp-content/uploads/2022/06/Lawson.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Understanding Learning by Inference"
+    excerpt: "suggesting that Microsoft shares will likely drop soon, too. “Knowing this hidden relationship means you can learn a lot faster,” Boorman said. To investigate how humans can use a cognitive map to learn information, graduate student Phillip ..."
+    publishedDateTime: 2022-06-16T15:34:00Z
+    webUrl: "https://www.ucdavis.edu/curiosity/news/understanding-learning-inference"
+    type: article
+    provider:
+      name: University of California%2c Davis
+      domain: ucdavis.edu
+    quality: 24
+    images:
+      - url: "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/GettyImages-497487570.jpg?h=119335f7&itok=9n69HSN7"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xUM3wdjSIOaGYM5x0fphUrDZqjzBZI3KDP330860+z7AqDcPiKuKvApC8ljBumHYpLybC1klJI0k4r15oA04E4Ywt9F4CaXhQ0MOz1pxWslAn9+q6jqpLM5DWViPmDLBfzsFSOS1HDrLa2Jjey2/BXYX8h9FApIM1HVcq+9AVfYOdvHwgzi1aFwiqRtw4nwTT1IgJ7dZE1agYdygAFW88gIFmPMiAQJzYfvY2EhWQLaD6MDTUZRDBB9XbXQKUJNpKw8iEu1xbmgbC0lxZ1P1lKQP66NHRJwJtCu3IYAYYUdNlLbk3W+WWqI/iveV2W+EYuBEC4FocUc97SvgCXAMbchPYhO9wjFksZsgnPgteYy+2SlC9sAwpaX+c+2tyj+x9ukpU8IKOQtHpuZAiZqu2Bpbodi1gh/oS10prt2YhDF4XnWneZU19chAZFkwCoPpPF1dETrLMsx2F1t8IJCQCBP1lOsAvHxzMJDftwdkwZWP+fbhi03V8BfQAqdULIIabUnmJjyEHMXL+hZbBzHLnQ==;NrTWDNiDNoSXWXkhquhi0g=="

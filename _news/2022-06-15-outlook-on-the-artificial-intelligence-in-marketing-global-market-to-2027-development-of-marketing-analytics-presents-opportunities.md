@@ -74,15 +74,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "How Geo-Enabled Analytics Improve Outdoor Intruder Detection"
-    excerpt: "Smart security cameras use video analytics to detect intruders by automatically “seeing” movement and sending alerts. While this solution works quite well in stable, indoor environments, just imagine what a smart camera must contend with outdoors – where everything moves,"
-    publishedDateTime: 2022-06-13T14:49:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21268219/how-geoenabled-analytics-improve-outdoor-intruder-detection"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 4
 
 secured: "Lnk6OfjiHjLlWWFP5AubPFWA101ms8C6bcttnqpxnmV3FoYl4zIoKeEJGRByvK4BF4VK85gRLu3zZ3BEWGk84daBRMf4LW1aApaRsg0yXek82Xnc35S8QFpJ4Xf79+aDGS02+QycLyUJ+2DwQfLhFerYZunxynBQYW3WbHLOXMBrjVD7XmifXY+YjJKBC3oWBk9wPLVezjQeLp8K2NvYS8WBW11f78y6bchWPzSutxY/2EI7qTkk1iTb1KgJVW3waIsKTY3X/S7J+bSuWdkeIJCV/pkNNWVkCVqbfn9QptFHpTaK+1sXKHduF2d70EHs8HEb2G9p+EdjJyZul/MaXRGTCMmZBcimDGwO+PII27w=;1wVAlFjv/YqpTtj3UxRnNA=="
 ---
