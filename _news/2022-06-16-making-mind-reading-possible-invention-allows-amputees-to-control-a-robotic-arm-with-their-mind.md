@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Power of AI in Machine Vision"
+    excerpt: "onsemi provides a custom mobile app available on Android and iOS (Fig. 3). This allows for the use of Amazon Rekognition via a connected smartphone and a valid AWS account. Once the AWS account is ..."
+    publishedDateTime: 2022-06-14T14:59:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21244247/onsemi-the-power-of-ai-in-machine-vision"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/IoT_retail_Ekkasit919_dreamstime_l_107745072.62a89fd5dcef2.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2kJkJtCGcP/btPnBra/LTyL4UlQfSHWPF3p7wR4NNE/LAmrEypArRXr0QHP/Dzn1YqAAoiNKNCyqyeNZWC+eWRtwj61mfr2yrMbcoY8YJqQmHVOhg5zjAdcgJI4WuMaHrwxhpyaYLE0n4r6/5lpV3UWP7cWfgZ5cJc8wcPVRPhrd3KtC/AJdO5+QYBhp6ijWYxTc57zCEkPkS55hEkdDeSCF5rHFFl4YWMtZmiUBXj8J8z4AG0leZ+EkmcPz0ZFML1Z8erp+wPiva1iNnG6hesaALm0ct6hX/rPCa9H9NLPWYyR4/EcRNNWGm8PussQlkocctEsUcr0m7xkibSef4CdV7iFSBLPpjNuWPb1yxidrvdtrFNsbK0NC1yijHjBPKRqRRvgZvYhbrAQ3fe6+KHLrP4tFoFcD1d80yu9c5U+RJTKvLG5pZkNqWuP8j8KdamJcO1XyPoMF7GtPcoFjg0jqvEt7jwgqrBLccE3c0nH0PmQ9UpTlVFvJmOHrD/StRUqAY/d8Le5rf39aNgqHeQ==;pWQ7Fl/bgC8TOQuu2V9LtA=="
 ---

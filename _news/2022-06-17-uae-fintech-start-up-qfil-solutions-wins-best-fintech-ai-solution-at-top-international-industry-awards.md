@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/uae-fintech-
 webUrl: "https://www.zawya.com/en/press-release/companies-news/uae-fintech-start-up-qfil-solutions-wins-best-fintech-ai-solution-at-top-international-industry-awards-yg921orl"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "How AI is helping the Fintech industry by reducing loan dropout through automation?"
-    excerpt: "The fintech industry is going through a massive revolution right now. This disruption is helping customers get easy access to credit, which has made payments and transactions hassle-free, like never before."
-    publishedDateTime: 2022-06-17T12:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-helping-the-fintech-industry-by-reducing-loan-dropout-through-automation/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 13
 
 secured: "aus1XQ/r9ES5+kxQ2BOchiSs/qT5/gluCRBqKl+ztD5SR0iHJO8xaKCx+nJ82q/a/7qYSsB0B0xweVEICcmAA5iMmvmRxtArAySdh3B6m5yW0apvNqTVrj5AIba8J8BGZyFhKaA5CZ7Ljeixm178xU605Qe/UEYxASKX82uX6J0gqxs/vxiM68Dh5SL4PN5+PH/ODSHQXE8/f5uULmr1f/GUdbO2XLKTafAp+CrDFTFd/RI+bED33RKbbNtuAvcC/STxqe4mWwMkzouHHNzIL+zc37o+H2f3COxOfEoC6b7PoW8LHtH6eWCxasScq8aPEPXW4LpjJy2RVw2G/N+8U23ArU2Jrmvz36WuCnxtFG9OSKXQ9IOLZIyz/BwTvhnjVAqZcYxNq6j+H+oO3U5IQ2fKSVeboxIT30nOYUNxYbXxsk4W0wqU1iY9VTq3JpTSukfBWyBxw+cA18JVvEuZOXJKXim6xURh5uHK2WgZ/BbHIBKZa9+qntGgLb33iVc81iBV3zT341JcmBGBjSeYCg==;+M7Z1EUxueARKGIxAi6tFw=="
 ---

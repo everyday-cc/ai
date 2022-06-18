@@ -7,7 +7,7 @@ originalUrl: "https://www.theregreview.org/2022/06/14/moss-regulatory-challenges
 webUrl: "https://www.theregreview.org/2022/06/14/moss-regulatory-challenges-of-fintech/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,31 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Vehicle shipping fintech RunBuggy secures series A funding"
-    excerpt: "Vehicle shipping fintech RunBuggy secured a series A funding round last week, bringing its total amount raised to $19 million. The cloud-native platform, which uses artificial intelligence (AI)- and machine learning (ML)-powered technology to connect car shippers and haulers with lenders,"
-    publishedDateTime: 2022-06-13T21:34:00Z
-    webUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/"
-    ampWebUrl: "https://www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
-    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/capital-funding/vehicle-shipping-fintech-runbuggy-secures-series-a-funding/amp/"
+  - title: "How AI is helping the Fintech industry by reducing loan dropout through automation?"
+    excerpt: "The fintech industry is going through a massive revolution right now. This disruption is helping customers get easy access to credit, which has made payments and transactions hassle-free, like never before."
+    publishedDateTime: 2022-06-17T12:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-helping-the-fintech-industry-by-reducing-loan-dropout-through-automation/"
     type: article
     provider:
-      name: Auto Finance News
-      domain: autofinancenews.net
-    quality: 44
-    images:
-      - url: "https://www.autofinancenews.net/wp-content/uploads/2022/06/canstockphoto16061160-scaled.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
-  - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
-    excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
-    publishedDateTime: 2022-06-17T12:42:00Z
-    webUrl: "https://www.financialexpress.com/industry/banking-finance/emerging-trends-in-financial-services-and-fintech-artificial-intelligence-machine-learning-to-define-future/2564593/"
+      name: India Times
+      domain: indiatimes.com
+    quality: 13
+  - title: "Scrypt joins Visa Fintech Fast Track programme"
+    excerpt: "Scrypt integrates data processing and decision support technology, powered by AI and machine learning ... receivables and payments. Visa’s Fintech Fast Track Program provides startups like Scrypt the ability to access Visa’s growing partner network ..."
+    publishedDateTime: 2022-06-14T12:28:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92981/scrypt-joins-visa-fintech-fast-track-programme"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 18
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "Fintech firm chooses Salesforce software to support growth"
+    excerpt: "The fintech, launched in the UK in 2015 ... consolidate tools and ... How hackers use AI and machine learning to target enterprises AI benefits security teams and cybercriminals alike. Learn how hackers use AI and machine learning to target enterprises ..."
+    publishedDateTime: 2022-06-17T12:44:00Z
+    webUrl: "https://www.computerweekly.com/news/252521650/Fintech-firm-chooses-Salesforce-software-to-support-growth"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 4
 
 secured: "nM0nkB1VGjoK5T59QHBHAga/doggw+JAoFkna7FzQR70H/QrKy0iMEAsJNANVKyFrqGv05AUR8e4tKwFh6ItmYmRzD1IEe2/hDXgU3YafzccVR+DtQvgWOZHMu6IG09lg2zbiVuShXUOG3MkmtSiLphR58zEwsB/EkN6sldqHxechn/X+KQLaSSw8tpA4FhBBBM2w1SjVo5tCks+5eaaE71m9W2yYdMpHt3xaWZQhUSCy5UM+3FCi6Lo1JYn/iCZyqY0B/fXOrfjuITc/79X0O0PIom7QUUoew0NL7UnRebMS2Z7Uv3YVplX5hsD+VO6G1DqCLHPVwmovI4KzQwk1aNfQ3byymPDH5Ev0BWpABC++//3tmGaSUQbeCeo+CM8VYEd8pOVQclqZUGRfPWk+Z1/fMYo3K40Vb02hQ7MMJFTK5RJ7JNuNzNBoOEGZkZsbQqvgV8Qc55ofjpaoYcsGW4Y1eLTnTJTXuUOSHUAfUdUaPG5FKCJafalyGcnxf+WcDjhgDOXoiFUh47R/1OseQ==;ysdhCCviYeZx5ayvgbTfEw=="
 ---

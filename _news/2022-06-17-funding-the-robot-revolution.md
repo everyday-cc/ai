@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery: An Evolution, Not a Revolution"
+    excerpt: "In this opinion piece, Andrew Radin discusses how the history of AI in pharmaceutical research provides some valuable lessons about its future."
+    publishedDateTime: 2022-06-17T00:00:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/articles/artificial-intelligence-in-drug-discovery-an-evolution-not-a-revolution-362386"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 16
 
 secured: "7zV3iuWbbk44XPvfx0DB3MqHibrwE+ZbdNrnTTH2Es5T164CZ7Db7Jgt5sCd4RDpGTt/6G1PeZqCsNK+urq7QYPXKnJsPMxAKyhJJMA73nAwF0Dqkr1QDNBzbpLOPaThd5AfMUhd3AZthJDWz5Mg0U9dR5YWoG2cY5f8Wmg9dczKTyDEqJsunnNZpr8onkyyJAzC1kfQ/h9/TgxRXQxFIwdD/FQ1HE5BCqUTP+wlrGuK9KvpVAWOMvrus88vHqAy1ySKbn4A9EN8uNqwnwc1Wh7YhqMm1jws6SbllyStH5IuQVygGe4xRGWhvK/ZnrzTtMXyyX+AOoHRDJRXzBiJsqMIVw/gLKJcUc+BSPCTNs66s9lz5D2Wyth7ZAGDVTnZpqy4P2ErmIxwVxqbTmeTWFBaQLWas6aKNaSSZl4V0KUi8R6bTiAaOR7zZgSAJnlCptu7VYEmMihO4GC8kaNcZauj++ohcOPNbfBjBlqM+vTHuRuLaG3+4j1KQhV7NRBpTjoHoaihz69VJtbNM7pKWQ==;NidFTq5JiCiTfyO9TVtwUQ=="
 ---

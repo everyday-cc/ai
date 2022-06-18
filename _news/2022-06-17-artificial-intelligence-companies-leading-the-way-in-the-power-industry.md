@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "VCs Target AI Accounting Startups as Companies Look to Control Spending in Uncertain Economy"
-    excerpt: "Many investors are betting that inflation, higher interest rates and recession fears will prompt companies to redouble efforts to track and manage spending."
-    publishedDateTime: 2022-06-13T19:24:00Z
-    webUrl: "https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883?mod=latest_headlines"
-    ampWebUrl: "https://www.wsj.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883"
+  - title: "Why AI Could Be The Answer As Companies Chase Down Debt"
+    excerpt: "Webio has raised $4 million of Series A funding as it capitalises on growing demand for digital technology in credit and collections"
+    publishedDateTime: 2022-06-16T08:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.wsj.net/im-563056/social"
-        width: 1280
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62a9ff56e9b31aa25e09c8a9/0x0.jpg?format=jpg&crop=500,234,x0,y104,safe&width=1200"
+        width: 500
+        height: 234
         isCached: true
 
 secured: "yP+Ki/RUY3gKY0YPD/xnvTt+IeQpxAMaCuuHtpCwsZKR7xLedgsz+TtsJXMrgDVE1vuVPvyaKkWnVWMvNnOPVg093DI6ReIxaCPuyLOPGKm2Dvc/FPuD1EbCVCLsu43NFdtYbjLhunvBBYWmX1VwCMtKykaahuUYYvktTC9Rx3EZOM6/ytVZu9hACc2Bm2iyxR1i4/5Sdrl5JJmbVeNDa8XsvpERpL9OQOQRT3Y7KyL+O7a87kwFuMKXqQsw1jEivoXxyUBRXFGPWEkF4tf+DYn9McmK+VmEGkPXuRxeX2L4UNqdQeFApHBAouhHWKFr3nPycU+ihheAzpYlQHHTiIO0J84uBGBw5A5e06nX85Y=;ITrV6ueNAs6KmRdJW8bEaQ=="

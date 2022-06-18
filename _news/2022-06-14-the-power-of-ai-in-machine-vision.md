@@ -25,100 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Your Microsoft Teams video calls will soon be powered by AI and machine learning"
-    excerpt: "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ..."
-    publishedDateTime: 2022-06-13T20:01:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
+  - title: "New AI limbs let amputees control robotic arms with just the power of their mind"
+    excerpt: "AMPUTEES could use the power of their minds to control new AI robotic arms, research shows. A team of scientists has created prosthetic technology that enables people to control robot arms by"
+    publishedDateTime: 2022-06-17T01:14:00Z
+    webUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 116
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 71
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/06/Microsoft-Teams-Crisp-smooth-1536x864-1.jpg?p=1"
-        width: 650
-        height: 366
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/06/RL-offplat-brain-power.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse"
-    excerpt: "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\""
-    publishedDateTime: 2022-06-14T20:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
+  - title: "Making Mind Reading Possible: Invention Allows Amputees To Control a Robotic Arm With Their Mind"
+    excerpt: "A University of Minnesota research team has made mind-reading possible through the use of electronics and AI. Researchers at the University of Minnesota Twin Cities have created a system that enables amputees to operate a robotic arm using their brain impulses rather than their muscles."
+    publishedDateTime: 2022-06-16T06:49:00Z
+    webUrl: "https://scitechdaily.com/making-mind-reading-possible-invention-allows-amputees-to-control-a-robotic-arm-with-their-mind/"
+    ampWebUrl: "https://scitechdaily.com/making-mind-reading-possible-invention-allows-amputees-to-control-a-robotic-arm-with-their-mind/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/making-mind-reading-possible-invention-allows-amputees-to-control-a-robotic-arm-with-their-mind/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 91
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 46
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg"
-        width: 1280
-        height: 998
+      - url: "https://scitechdaily.com/images/Robot-Machine-Learning-Concept-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
-  - title: "Microsoft launches new AI-powered Viva Sales tool"
-    excerpt: "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams."
-    publishedDateTime: 2022-06-16T07:29:00Z
-    webUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html"
-    ampWebUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/woman_with_headset_engaged_in_discussion_via_video_conference_teleconferencing_online_meetings_virtual_events_training_by_fizkes_gettyimages-1198252567_2400x1600-100857863-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
-    excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
-    publishedDateTime: 2022-06-15T20:56:00Z
-    webUrl: "https://siliconangle.com/2022/06/15/microsoft-updates-azure-new-ai-features-hybrid-cloud-environments/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/microsoft-1.png"
-        width: 718
-        height: 400
-        isCached: true
-  - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
-    excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
-    publishedDateTime: 2022-06-14T00:09:00Z
-    webUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg"
-        width: 375
-        height: 375
-        isCached: true
-  - title: "Microsoft improves Azure’s accessibility for AI workloads"
-    excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
-    publishedDateTime: 2022-06-16T11:28:00Z
-    webUrl: "https://www.techzine.eu/news/devops/81034/microsoft-improves-azures-accessibility-for-ai-workloads/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 49
-  - title: "Microsoft Brings Voice Controls to Windows 11"
-    excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
-    publishedDateTime: 2022-06-14T13:38:00Z
-    webUrl: "https://mobileidworld.com/microsoft-brings-voice-controls-windows-11-061405/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 21
 
 secured: "Ww7AIwjuvt1nuETSGzmUVNlzR0walvk/M6jCgQJcWwi1EUYDn7qxDmZym1L2QFuDsoxKMxfusXVJdfxPZnMj+JUz673VfzUQcCaX4Cn2DQqR/8rc+tpd1rk5pbk5AM7WKhRqr4OurShhsIgSzqK2zf5K8IbT/6F2hDSOwByeEpEolnszJ1s9dr02av8JI4Ue24E3Bw64jesq9j1x9VbTL+s02pWkC1V2KMUzDHyqweH7aC1FEuwiN3N/15TyVkMsmUHQvEBUUr2Y84vGG5Y9NW/KE0biqL5LdTfRyNPPdlkmveljcjCDS1KOI+VE/h6YDwVTdEXzfXb/YrNt9/oVzYE4Ubct33I5PDhiFpPs5Q4=;p5KNMLFM6z2hy6TnuDjvYQ=="
 ---

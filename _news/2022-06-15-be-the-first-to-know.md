@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T12:00:00Z
 originalUrl: "https://greensboro.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_2eaf621f-0e4e-51dc-bb1a-4e82063d191d.html"
 webUrl: "https://greensboro.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_2eaf621f-0e4e-51dc-bb1a-4e82063d191d.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: News & Record

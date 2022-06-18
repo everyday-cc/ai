@@ -43,22 +43,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
-    excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-    publishedDateTime: 2022-06-15T20:22:00Z
-    webUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-    ampWebUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-    type: article
-    provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 32
-    images:
-      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Authorities Release First-Ever Self-Driving Car Crash Report"
     excerpt: "The disclosure, released by the National Highway Traffic Safety Administration, is the first of its kind and part of an ongoing effort by the federal government to track the safety of autonomous vehicles."
     publishedDateTime: 2022-06-16T15:05:00Z
@@ -109,6 +93,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
+    excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
+    publishedDateTime: 2022-06-15T18:22:00Z
+    webUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 0
 
 secured: "628t5o1Z9qMk/ADsdzLesbj+wtP0LALxS5gmyN6wzk1MmN4llBpkQbrF5PhRlfMSVf2OOQMIQSH/7rBj/+OzdoTeUIIbRjqUSLrye+FO9v3v77UZ6Ei7JSqVaz2wN4hI7m4Og3JuKY+L0HL2IIRObP7H2Cgyaq9p7BpZZg4ujKl2QjN5HDnZTfXZh+yAJJ99vTKVeaBcju4cs6lCpFYOMOCVHhWrtsACFtJgumwtXpIGAZw9NTSw6tELT489JfPbjETWOf4jE/UuUilTYqYz5ldNT0FPy2NsDt1NSIL9FlszC43czd7EJucDI8BSHLqn6C6NBdwzU+D73s/KmC0Q9OlFxua11k1OMY1OyKNtLizv8iI9gjv3C5w3ZQXIbqBXxgnVXy9AOmSmGgyBYsNHo9SFGdLvIsifuXM9j2lNXWusM14tU+O5B1jGEWHC+JLtrdN8GeaZOlIbgyVrlZWja9ExZYRUcHbZzMFxCHBsa6OihUsuRcNB1p+t5pboJosV8oqKhVy5ZSxAU8PX3tGyxQ==;uL4R0DYrzkKRDdrMyG3kUQ=="
 ---

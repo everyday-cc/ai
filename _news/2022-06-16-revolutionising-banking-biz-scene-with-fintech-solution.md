@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 656
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery: An Evolution, Not a Revolution"
+    excerpt: "In this opinion piece, Andrew Radin discusses how the history of AI in pharmaceutical research provides some valuable lessons about its future."
+    publishedDateTime: 2022-06-17T00:00:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/articles/artificial-intelligence-in-drug-discovery-an-evolution-not-a-revolution-362386"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 16
 
 secured: "vYuFPMCpFVLMnfsYeYxND3FK1k/suqVVGPLiWIpBwqpxWhcYsNkVFDOKg1wMW2Ep4fVoPzCKHx2LAJsyWSqH2krZbuAd4t1GsvWgzRt4VNrEbuuj/TWO5dqDKG3bul+kXX/+j23AlondeO/9HtF4j8hC5WRQ/UumAxp9KSD4wuc7lXOgsF++nbGW7Tn3bIWWE/HwP1kGy8ihlmwI0+unZI2aoyVdOaOaWXAOWuV2l+FAXhwyh5RM3wHWr4CdbaeZPeggGPN+b18wR37Z5XGjqvLMGHs3RYVS95JIrf2bFMv5QyqI6LjzpqVoircanGyf/8D1/9nxntuvWcLTRKF97vyQlKHXy5JM8tA/hZIPlUxPh2zDpT1FVyodOnUJ/eZbGVHK/BHQX32NuYrdpTT3fy1l0iF1BkSoyiyGS/1OYBTxtavYnLObVC/gI3GwTK2+ibin6bhv2qimuPMe92zFb8rbt+7qeM9Ac6C/yxhcKtp1VZ0M45raJ7/kbYdGl0k+woysF6FjhLIEquDogbnaQg==;6CLpw0/l9y6+FRjFC9Cwng=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-
 webUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: ITWire
@@ -25,100 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Your Microsoft Teams video calls will soon be powered by AI and machine learning"
-    excerpt: "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ..."
-    publishedDateTime: 2022-06-13T20:01:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
+  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
+    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
+    publishedDateTime: 2022-06-16T15:47:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 116
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/06/Microsoft-Teams-Crisp-smooth-1536x864-1.jpg?p=1"
-        width: 650
-        height: 366
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
+        width: 647
+        height: 450
         isCached: true
-  - title: "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse"
-    excerpt: "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\""
-    publishedDateTime: 2022-06-14T20:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
+  - title: "AvePoint Adds Microsoft Azure Backup to Enhance Data Protection Capabilities"
+    excerpt: "AvePoint (NASDAQ: AVPT), the most advanced SaaS and data management platform provider, today announced the addition of data recovery capabilities for Microsoft Azure. Now, AvePoint’s leading Cloud Backup solution extends protection to Microsoft Azure workloads to help businesses collaborate with confidence across their Microsoft deployments."
+    publishedDateTime: 2022-06-15T13:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-jersey-city-data-management-ebcb611b688a9755b9fbd62a561e7b64"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 91
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg"
-        width: 1280
-        height: 998
-        isCached: true
-  - title: "Microsoft launches new AI-powered Viva Sales tool"
-    excerpt: "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams."
-    publishedDateTime: 2022-06-16T07:29:00Z
-    webUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html"
-    ampWebUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/woman_with_headset_engaged_in_discussion_via_video_conference_teleconferencing_online_meetings_virtual_events_training_by_fizkes_gettyimages-1198252567_2400x1600-100857863-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
-    excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
-    publishedDateTime: 2022-06-15T20:56:00Z
-    webUrl: "https://siliconangle.com/2022/06/15/microsoft-updates-azure-new-ai-features-hybrid-cloud-environments/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/microsoft-1.png"
-        width: 718
-        height: 400
-        isCached: true
-  - title: "Microsoft improves Azure’s accessibility for AI workloads"
-    excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
-    publishedDateTime: 2022-06-16T11:28:00Z
-    webUrl: "https://www.techzine.eu/news/devops/81034/microsoft-improves-azures-accessibility-for-ai-workloads/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 49
-  - title: "The Power of AI in Machine Vision"
-    excerpt: "onsemi provides a custom mobile app available on Android and iOS (Fig. 3). This allows for the use of Amazon Rekognition via a connected smartphone and a valid AWS account. Once the AWS account is ..."
-    publishedDateTime: 2022-06-14T14:59:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21244247/onsemi-the-power-of-ai-in-machine-vision"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/IoT_retail_Ekkasit919_dreamstime_l_107745072.62a89fd5dcef2.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Brings Voice Controls to Windows 11"
-    excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
-    publishedDateTime: 2022-06-14T13:38:00Z
-    webUrl: "https://mobileidworld.com/microsoft-brings-voice-controls-windows-11-061405/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 21
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
 
 secured: "O6Ti6FfVX5xO1qFiBFvvKD42mSPZrowV5Cv1xUnTSqNUsZC1K1voVOvDz8dqUxyKtOhmYJ/4SQzObgqREJgBG3ebZ3vCMr8LCarZX8xLINiTZGMKGyb+LRSgZYmXYUYhxIrsgQ34tPRMgVsT+s1Msk33DQCzvedkNmVyBDAv31X7FtVvOfjo8MvgJbhEbWRkcMLnjJMT2stydAoxdKuG38z0a3X0671K18FHsRXJ27qakPunFj4sDdJfI+YOduHLzY1MDdwGn+2v/JlUHNl9hloOoMX25+9rk3WHH7F4rHxZFCuLd/6AF1+TaQuX9Jcck0zJNVCPs9vhtfrOrRrHS79nLnhyj4PBqRw6z+wYwk4=;yTVIYSK5YbG5wcyizhQCRQ=="
 ---

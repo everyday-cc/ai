@@ -75,38 +75,6 @@ related:
         width: 2149
         height: 1200
         isCached: true
-  - title: "LaMDA / Google Sentient AI"
-    excerpt: "LaMDA refers to an artificial intelligence created by Google that stands for “Language Model for Dialogue Applications.” On June 12, 2022, a Google engineer named Blake Lemoine claimed that LaMDA had developed a soul and sought to advocate for its rights by sharing internal research documents with the media."
-    publishedDateTime: 2022-06-13T21:44:00Z
-    webUrl: "https://knowyourmeme.com/memes/events/lamda-google-sentient-ai"
-    ampWebUrl: "https://amp.knowyourmeme.com/memes/events/lamda-google-sentient-ai"
-    cdnAmpWebUrl: "https://amp-knowyourmeme-com.cdn.ampproject.org/c/s/amp.knowyourmeme.com/memes/events/lamda-google-sentient-ai"
-    type: article
-    provider:
-      name: Know Your Meme
-      domain: knowyourmeme.com
-    quality: 61
-    images:
-      - url: "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhINPpYbNn0A%2Fhqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Unpacking Google’s ‘sentient’ AI controversy"
-    excerpt: "One of Google's engineers claimed that its AI chatbot was sentient. Here's what other experts in the field are saying."
-    publishedDateTime: 2022-06-13T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/google-ai-chatbot-sentience/"
-    ampWebUrl: "https://www.popsci.com/technology/google-ai-chatbot-sentience/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-chatbot-sentience/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/06/13/pradamas-gifarry-889Qh5HJj4I-unsplash.jpg?auto=webp"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Could artificial intelligence become sentient?"
     excerpt: "What if the AI had some sentient qualities that we did not, and it judged us to be only imperfectly sentient? (“Those fools spend their lives asleep!”) Would we just have to accept that judgement? Or can we get away with arguing humans have a unique perspective on truth?"
     publishedDateTime: 2022-06-16T09:31:00Z

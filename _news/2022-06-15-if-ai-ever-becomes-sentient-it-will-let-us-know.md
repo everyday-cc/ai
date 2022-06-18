@@ -80,6 +80,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Commentary: If AI ever becomes sentient, it will let us know"
+    excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field"
+    publishedDateTime: 2022-06-18T04:15:00Z
+    webUrl: "https://www.bendbulletin.com/opinion/commentary-if-ai-ever-becomes-sentient-it-will-let-us-know/article_fa5ab6ba-ee66-11ec-b755-1b24e2adbc35.html"
+    type: article
+    provider:
+      name: The Bulletin
+      domain: bendbulletin.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/b8/8b87503a-ee67-11ec-b422-0f3a2d7cd6d9/62acc1a0da157.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Artificial intelligence is evolving, can be sentient in future, say PEC experts"
     excerpt: "The claim by Google engineer that LaMDA, a language model created by Google artificial intelligence (AI), had become sentient and begun reasoning like a human being has sparked a lot of debate and discussion around it."
     publishedDateTime: 2022-06-16T01:51:00Z

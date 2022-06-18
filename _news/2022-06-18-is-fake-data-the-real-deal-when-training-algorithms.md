@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-18T12:00:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/jun/18/is-fake-data-the-real-deal-when-training-algorithms"
 webUrl: "https://www.theguardian.com/technology/2022/jun/18/is-fake-data-the-real-deal-when-training-algorithms"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Guardian

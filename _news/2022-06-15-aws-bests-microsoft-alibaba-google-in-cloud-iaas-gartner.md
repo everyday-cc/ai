@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/news/cloud/aws-bests-microsoft-alibaba-google-
 webUrl: "https://www.crn.com/news/cloud/aws-bests-microsoft-alibaba-google-in-cloud-iaas-gartner"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: CRN
@@ -40,6 +40,15 @@ related:
         width: 1183
         height: 887
         isCached: true
+  - title: "Microsoft Brings Voice Controls to Windows 11"
+    excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
+    publishedDateTime: 2022-06-14T13:38:00Z
+    webUrl: "https://mobileidworld.com/microsoft-brings-voice-controls-windows-11-061405/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 21
 
 secured: "BJbwgcy/As6OoM/zS6bGCIUhO6QcEOp6CboESnK/pWoJXd9eImj4jqyrRDbcwnHHmrh4Aqk+PZM3dI21unPXHy8zNY1gt8qXUASXvGvRTcOVeTGhUszsVp8KCqAu3klhGeMxFldeA52/5OESuOBJZiLzMpfniBwAvxMSnNfJ12JAUKMdvkAOEUYnMzdqg/J4wOOemOEAuIzPULrwfeBky3UBYk8JaKTyCFOCEhWHnIW3s9JHdNzHMKRGc6zCcglpmUDZ6uSUdCWeCWWBC7cSIn00PgLGmHhUqAGPCIptkCfGQKdCJMT73WEpUnZBpJcyzgo8IZH5C1y+R7gyGTJFquyoU0m3QRWRFg2C6oGofn6e+RTU1ahr5gQDD7HZlR3mOq6/JVGBji2YSwCNNaRmKQ29QhtwhnM5rutzz2vslKW1kT4oiuWz+qghYuBDejoSXKNycIofvAR8ANvB11taH+GvIzkPB0ET4NhWMArh2p9/2Jye7WhRfSpYcYpFBBZsJazlGc7IT3nEGQQrT+Mixg==;xP+yTES9l1dwxuCGhnyPRw=="
 ---

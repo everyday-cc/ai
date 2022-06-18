@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-a
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Maruti Suzuki Acquires 12.5% Stake In AI Startup Sociograph To Improve Digital Sales Experience"
+    excerpt: "It currently offers services to companies in banking, retail and automotive sectors Automobile giant Maruti Suzuki has acquired a 12.5% stake in Bengaluru-based AI startup Sociograph Solutions Pvt ..."
+    publishedDateTime: 2022-06-18T11:20:00Z
+    webUrl: "https://inc42.com/buzz/maruti-suzuki-acquires-12-5-stake-in-ai-startup-sociograph-to-improve-digital-sales-experience/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 22
   - title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
     excerpt: "The company plans to use the visual artificial intelligence (AI) platform of SSPL called ... programme since 2019 to empower the mobility startup ecosystem in the country. The Maruti Suzuki ..."
     publishedDateTime: 2022-06-18T04:00:00Z

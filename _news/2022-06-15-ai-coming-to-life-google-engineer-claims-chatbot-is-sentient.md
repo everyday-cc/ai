@@ -118,22 +118,6 @@ related:
         width: 2880
         height: 2160
         isCached: true
-  - title: "Google Engineer Placed On Leave Over AI Discussions"
-    excerpt: "Google AI engineer Blake Lemoine has been placed on leave by the company following a confidentiality breach and claims its LaMDA is sentient."
-    publishedDateTime: 2022-06-13T22:04:00Z
-    webUrl: "https://www.androidheadlines.com/2022/06/google-ai-engineer-blake-lemoine-on-leave-breach-confidentiality.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/06/google-ai-engineer-blake-lemoine-on-leave-breach-confidentiality.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/06/google-ai-engineer-blake-lemoine-on-leave-breach-confidentiality.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-5.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
     excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
     publishedDateTime: 2022-06-14T05:54:00Z
@@ -181,20 +165,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Engineer at Google Fired for Saying AI at Company Is Sentient"
-    excerpt: "Google dismissed an employee for violating the search giant’s confidentiality regulations by publicly disclosing information of a chatbot driven by artificial intelligence. This is the latest disturbance to Google’s AI department."
-    publishedDateTime: 2022-06-13T20:53:00Z
-    webUrl: "https://bestgamingpro.com/engineer-at-google-fired-for-saying-ai-at-company-is-sentient/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 41
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-Engineer-Suspended-After-Saying-Company-AI-Is-Sentient.png"
-        width: 600
-        height: 365
         isCached: true
   - title: "No, Google’s AI is not sentient"
     excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."

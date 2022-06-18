@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Your Microsoft Teams video calls will soon be powered by AI and machine learning"
-    excerpt: "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ..."
-    publishedDateTime: 2022-06-13T20:01:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 116
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/06/Microsoft-Teams-Crisp-smooth-1536x864-1.jpg?p=1"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Microsoft launches new AI-powered Viva Sales tool"
     excerpt: "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams."
     publishedDateTime: 2022-06-16T07:29:00Z
@@ -74,20 +58,15 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
-    excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
-    publishedDateTime: 2022-06-14T00:09:00Z
-    webUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html"
+  - title: "Microsoft and Meta join Google in using AI to help run their data centers"
+    excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
+    publishedDateTime: 2022-06-18T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg"
-        width: 375
-        height: 375
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 63
   - title: "Microsoft improves Azure’s accessibility for AI workloads"
     excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
     publishedDateTime: 2022-06-16T11:28:00Z
@@ -97,29 +76,22 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 49
-  - title: "The Power of AI in Machine Vision"
-    excerpt: "onsemi provides a custom mobile app available on Android and iOS (Fig. 3). This allows for the use of Amazon Rekognition via a connected smartphone and a valid AWS account. Once the AWS account is ..."
-    publishedDateTime: 2022-06-14T14:59:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21244247/onsemi-the-power-of-ai-in-machine-vision"
+  - title: "How We’re Helping Build the Metaverse with Diversity, Equity, and Inclusion in Mind"
+    excerpt: "Maxine Williams, Meta’s Chief Diversity Officer, took part in The Next Web conference and shed light on how we ensure the metaverse becomes an equitable and supportive place for underrepresented communities in Europe and beyond."
+    publishedDateTime: 2022-06-16T14:04:00Z
+    webUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/"
+    ampWebUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
+      name: Facebook Live
+      domain: fb.com
+    quality: 38
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/IoT_retail_Ekkasit919_dreamstime_l_107745072.62a89fd5dcef2.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://about.fb.com/wp-content/uploads/2022/06/Maxine-Williams.jpeg?w=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Microsoft Brings Voice Controls to Windows 11"
-    excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
-    publishedDateTime: 2022-06-14T13:38:00Z
-    webUrl: "https://mobileidworld.com/microsoft-brings-voice-controls-windows-11-061405/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 21
 
 secured: "mNKsEDlc8BAPNZKepk/2QBWrVtPgP6bcgxLq9fTeWKnPMNiRkxTAC7NpJkIecUya/d5Lmk4VqVuA8nirCACHDehmgUJTQcL3F42Ylq5H5VMs0NyB+42XlIcWh6npTRzNUqkwausN780fRWBEzYVLDDeUtdpbfJqjh1L93S0YK9fiWIhSXvuG/Ql3eOV06sg9EDOFeKXztKNjaciz2pQggzao/ih9iNml0otzX3ji39rJFiKYLHwNRnEvFxafrsG6FfaJqX9+yStg53l1XIYrH7ZKiGCG7tSEDovrWrDVelb9Xwdpk4ug0tgO7ShcqrQC7ePgdFsgIkhjZKB4VcbbiyixyNlsFCTcDb399RtZgK8=;g3FT9Fc9yAjqxO4DMWDSnQ=="
 ---

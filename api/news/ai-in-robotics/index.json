@@ -58,11 +58,11 @@
       "title": "AI and Robotics in healthcare: A phone could hear if you have TB",
       "excerpt": "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/av/world-africa-61834753",
-      "originalUrl": "https://www.bbc.co.uk/news/av/world-africa-61834753",
+      "webUrl": "https://www.bbc.com/news/world-africa-61834753",
+      "originalUrl": "https://www.bbc.com/news/world-africa-61834753",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -78,12 +78,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T23:36:00-07:00",
+      "publishedDateTime": "2022-06-17T00:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -106,7 +115,7 @@
       "originalUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -150,7 +159,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -245,7 +254,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": null,
       "content": "\r\n",

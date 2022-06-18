@@ -80,6 +80,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Maruti Suzuki Acquires 12.5% Stake In AI Startup Sociograph To Improve Digital Sales Experience"
+    excerpt: "It currently offers services to companies in banking, retail and automotive sectors Automobile giant Maruti Suzuki has acquired a 12.5% stake in Bengaluru-based AI startup Sociograph Solutions Pvt ..."
+    publishedDateTime: 2022-06-18T11:20:00Z
+    webUrl: "https://inc42.com/buzz/maruti-suzuki-acquires-12-5-stake-in-ai-startup-sociograph-to-improve-digital-sales-experience/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 22
 
 secured: "78tbd2i0ER7b05P9AfZv5ctaEErFnu3sHuvhp3Tu7IwdZbGiWG6a8IlOTMJCwVHE+xnMr8TT19OsY3u8p/AyFHbeWDnVWvglL+W90RkDdtb4FTx9nkNekVZl9GqFzlDtYOwriJzXobxtJgrZDw5VhZTT3PbE4fWs6UdN9oMqVTrJPNbY/edbL90YJZUmJi4WtlGoR/usBMCCeuV5HZRS4OCJrAPKt1vkSs1h6oN7KYVB14CFI8+jIwT8H2y0Z+hVBjZKRaeN6JqjnPr1USUymW9WlUos/EOTEFCfpuuRxXMzGOzshwozgD/Ax/0uvxI27IVtmuvQ7xHH9kFm79KZpS8BSDZVKoJ3GgjlRE8tYdA=;Ni0lmaEkVnKAfisXJhg8gw=="
 ---
