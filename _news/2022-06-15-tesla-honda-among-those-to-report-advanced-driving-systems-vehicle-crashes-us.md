@@ -206,6 +206,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Feds investigating Tesla Autopilot crashes have big implications for self-driving cars"
+    excerpt: "The investigation could eventually lead to changes in future versions of Tesla’s Autopilot and its other self-driving systems."
+    publishedDateTime: 2022-06-18T18:31:00Z
+    webUrl: "https://knowtechie.com/feds-investigating-tesla-autopilot-crashes-have-big-implications-for-self-driving-cars/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 11
 
 secured: "i+lkGPLRYsOxZRjSd5/uYXTNV42xnQURjBYphKBvFMz+XHjrCL7iHGnNFPMl8+B9SBYJBefZ8hl1PvCFy2KirmztcCZIUuZsFdVqJ/p7moQBUkhBg/smUi00dJoMdK8NZI0LgobdwqyaUXOIW2jNFEN1ATDlM9QdoiLwlRuYYaacJKGf5Cov1VuTDAuenHckMlY0ubC/jHLQ7z9Fz8dJOwWMkyFfWrDwP2mdnqA/iDMDR+lVAYOwa0j8PUuF2eCZMix8ABi8XvJacVYfM3EwyHibI0am3WZ1DaZ+Ky+QkVFZzlYg0H9M89Ah8UJKZTHwyOxhnNdCbxImwZ9JJnxJg7fETQxOj7GdgZw5off75yEGN7Y/fCZ5xsuhcmG7dj6/8gt44UcSH0KrIfVzb45z/ECjZZ0ho5Cz84/QvJQn4SeNjmnHsFUjcwEZd+nAE6FY8ZnNrVaw9ntJXfRIp3EpDgYJJgwoD5kakYlqXa9z/9UUS1THHsvWs1J9t4byjMH2pkQ6bT2AxnXFE4QCk9q+3w==;e1e0ZdpgMzG1KMGRnHEYpA=="
 ---

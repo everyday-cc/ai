@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-14T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leading-voice-engine-for-kids-now-assesses-foundational-pre-literacy-skills-among-our-youngest-learners/article_666a2dee-ec0f-5c51-829e-3d274adffaa0.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leading-voice-engine-for-kids-now-assesses-foundational-pre-literacy-skills-among-our-youngest-learners/article_666a2dee-ec0f-5c51-829e-3d274adffaa0.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

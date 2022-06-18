@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-dri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp"
 type: article
 quality: 82
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -211,6 +211,15 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 15
+  - title: "Feds investigating Tesla Autopilot crashes have big implications for self-driving cars"
+    excerpt: "The investigation could eventually lead to changes in future versions of Tesla’s Autopilot and its other self-driving systems."
+    publishedDateTime: 2022-06-18T18:31:00Z
+    webUrl: "https://knowtechie.com/feds-investigating-tesla-autopilot-crashes-have-big-implications-for-self-driving-cars/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 11
 
 secured: "O70ZMOEInqJ3M9u7THcJ5h+katxX8vU7cvXcXXcKsC2DHhwFQIpBZI2Wp9OVW8FEwVBTGPGYrJ9wWlsWsl1squ2Nw9U5jqGMpCi/xb1HPOSmmxOMuvrHJ0n1pF43WKxpAwQk40BDRsUvmxrhC/c1PdrBuWbatQM58yUGAxHhmzOmuW7JWr1qXRKhTeuL0ypN+w1gDlX18y65+AFcxfq3BPiWeR4sIe+JmT3yH4lYbo386sCj8t9yTW1Vpg/yvtaH6eG//GJu1lVJmb68GPNec8K52KoiU4O+Hzobw1muZkLb4BApO1J/cIIzy+u/Jkm8S+X5tC0iM4VKLgemmYdRZDvrI7CunnF3Xrg+DHAy/cOyBXQBqqP0hIENaKyx8Awtwb/0Ja5bZU7R195UZAjqm6bw8Oq33Jm9KyVNZpx+2PigMGnSe0BPwHsB9TPK00UiTSBpTIJTm/raNwE4/nzLukN0U4ToFZj2+nLCC6UWvokzJrtB5BECPl8eh2/G4W0TGF3RIxEdlnF2QpOiUkq0DA==;QpQ4EXi9SiiOsDmJOG/Ocw=="
 ---

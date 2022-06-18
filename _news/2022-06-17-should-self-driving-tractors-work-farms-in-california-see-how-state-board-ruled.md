@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T14:51:00Z
 originalUrl: "https://www.modbee.com/news/business/agriculture/article262591907.html"
 webUrl: "https://www.modbee.com/news/business/agriculture/article262591907.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Modesto Bee

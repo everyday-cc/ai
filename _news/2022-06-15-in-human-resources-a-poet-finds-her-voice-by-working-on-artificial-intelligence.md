@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-15T13:11:00Z
 originalUrl: "https://wusfnews.wusf.usf.edu/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
 webUrl: "https://wusfnews.wusf.usf.edu/2022-06-15/in-human-resources-a-poet-finds-her-voice-by-working-on-artificial-intelligence"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Health News Florida

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T06:36:00Z
 originalUrl: "https://www.bbc.co.uk/news/av/world-africa-61834753"
 webUrl: "https://www.bbc.co.uk/news/av/world-africa-61834753"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: BBC

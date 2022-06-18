@@ -1,43 +1,36 @@
 ---
 category: news
-title: "How to use human-centered AI with Forethought and NEA"
-excerpt: "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,"
-publishedDateTime: 2022-06-17T13:27:00Z
-originalUrl: "https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/"
-webUrl: "https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/"
+title: "How AI and human intelligence will beat cancer"
+excerpt: "2016 saw the completion of a significant milestone for humanity: artificial intelligence (AI ... an equivalent of a Move 37 against cancer: a therapy that at first may seem counterintuitive ..."
+publishedDateTime: 2022-06-18T20:21:00Z
+originalUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/"
+webUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/"
+ampWebUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 89
+heat: 129
+published: true
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
+    width: 1200
+    height: 588
+    isCached: true
+
 related:
-  - title: "How AI and human intelligence will beat cancer"
-    excerpt: "2016 saw the completion of a significant milestone for humanity: artificial intelligence (AI ... an equivalent of a Move 37 against cancer: a therapy that at first may seem counterintuitive ..."
-    publishedDateTime: 2022-06-18T20:21:00Z
-    webUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/"
-    ampWebUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
-        width: 1200
-        height: 588
-        isCached: true
   - title: "Knock® CRM Announces Artificial Intelligence-Powered AI Voice, Call Intelligence Tools"
     excerpt: "New features will be fully integrated into Knock’s CRM platform for a seamless user experience. SEATTLE, June 16, 2022 /PRNewswire/ -- Knock® CRM, the leading industry CRM and"
     publishedDateTime: 2022-06-16T13:38:00Z
@@ -52,6 +45,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "How to use human-centered AI with Forethought and NEA"
+    excerpt: "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,"
+    publishedDateTime: 2022-06-17T13:27:00Z
+    webUrl: "https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "AI’s abilities may grow, but will never attain humanity"
     excerpt: "Without question, therefore, artificial intelligence (and the automation it enables) can be of great benefit to humanity as we use its strengths to augment our weaknesses. But knowledge is about as far as AI can take us,"
     publishedDateTime: 2022-06-18T13:24:00Z
@@ -81,6 +83,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ruduxQPyS1PlF9nWXf90BoOJsmxPNSImws/ulsnova1FpREe8SBXiSnnilYxVN9ZoH+Gi9MG/kR8hUo2CN241Gt3pHoDXB0lGdFSmlGrvpd8qsry9VOakm5tSdCn3StVVReDXgdjWNTN1QA4EDu4fABBUMudRQwjCNGFecUx79xIuY8zd3k4aIQTQ65mgbLx0M4eH4Z7NMgp51Y+HNfE4e5P2DfRmJ9EtD3MIvViiP4Z4LO9DyZ5Tm4QaS9X/m/jOVhPHkvRYYn8ujdYsDLIVJd8UleYG3jUpOLpoAR8lgmWdX2VKiQSqf1/SlBpZlOlwJGWQlmZ4OpZCtjYpYLFE1XZMsqcLpsqLgRkHdb7Nfeft6GQhPtjKEnTlQcO9ZyRReu8K2pMcRzbqf9DfzX9K9GFlpgYavYc94R44USpdEGzXxufm7jFx7zdYB4wo3Q1m/vgVyiz+zFVxxXuStb78yKc9GW3mOnIiP+Fg5MHGGKMveTiHjLHKE/Aas9kTjPTtR+LW9GZCelDwWigKfdMjg==;qgpFRtFslXsVs13VI5+t5A=="
+secured: "uWqPYX4siG91+ZMToEvumTp8iQFlZpnN0LSTza3jnAcjEp1xaJ394a9wmC2iojoi1liQEOOEkJhpzOCc9cwdE10yWAPUZl6A8hkMwxykxz7HBULpt34S09Z4PJAe0eaaRHci0VlVS6LYZbrgI5V9+FmsSBGYbmdBtuZLf2onx7lg1gET1SBa/1T3dEsWQCQwsHeJuLmWJS/2Q7Hd/XNC+AU0UYvXux4ITmpWbuTPXumjER/czQwLgTCemBqs9Zxi3DEdek4rY62vO99iB+e6/Z2GSP/VD0pK4zUIvH9sEhRKXadBlLu0TbV9PYBz7NiM8slSBm0+eKZ+aUkHob6LArKsiNQdADrOGJ/+CFOena4=;E5BdJnT3IABWy4LNeJDDkQ=="
 ---
 

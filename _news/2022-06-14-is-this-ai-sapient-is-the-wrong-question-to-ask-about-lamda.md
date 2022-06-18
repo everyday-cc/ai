@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/lamda-artificial-intelligence-sentience/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-artificial-intelligence-sentience/amp"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
       name: Catholic News Agency
       domain: catholicnewsagency.com
     quality: 29
-  - title: "Google Engineer Believes That the Company's AI 'LaMDA' Has Become Sentient"
-    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated AI chatbot that produces text in response to user input. According to software engineer Blake Lemoine, LaMDA"
-    publishedDateTime: 2022-06-14T05:00:00Z
-    webUrl: "https://www.realclearscience.com/articles/2022/06/14/google_engineer_believes_that_the_companys_ai_lamda_has_become_sentient_837221.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 17
 
 secured: "drCvx333o+CvTQkeVyrlDS3XQ5nQ89TyZp7nIzHucN0SduPVausskju+QLeZ53o6bY/YuuWo/DUR30xJur6AMPxoac3B6Ps0OgVKf2lOGY7PvUFIXuBO56vzfRrlFpIkyBIcy/CMm2h7rzF/csLCZ2Z/aEb6Lwa81mBWLWlm/krxo9aQy30xQyT6Zn2UhRjkiFz2Xymw5poi1LFDqQXj9TOrJzexvDa3lMVGjuEGOnk6zcRPDoPTZPtS0AZQYJSm/fZJPcJtdGV8NlgamjCuqHRyVNjOKaSDxe4HOQwfkEeYVbOl7A7aKd8tfVpgPTy0fuUue/hqJ1LNIQavKi4Y7pEtqNK/5HQTMyJ657eFZARSFzstp0gXNmQqokL1+/4gEb3jlMsdFG1mKdrH6uJk8NqTcjJRqznsmhdj9LphYq3R8MGbHcf1QNoi5sxjfWNYSGtFIMDdi+VGFqEzaW3mOCzJoiCt5+HXogT5DkeTMODXh6hNG3XbB/sCxC8rKCHyiRqnkQs1XoyewrKvltCe2Q==;sGsv9wxfN+UyBM8GSgPhcg=="
 ---

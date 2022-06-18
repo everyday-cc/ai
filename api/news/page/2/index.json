@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
+      "title": "Why Artificial Intelligence remains a distant dream?",
+      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
+          "width": 1100,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "publishedDateTime": "2022-06-16T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "americanbazaaronline.com",
+        "domain": "americanbazaaronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-and-marketing-teams.md",
       "title": "G2M Insights launches Analyzr service, delivers streamlined machine learning analytics for sales and marketing teams",
       "excerpt": "Enables midmarket and enterprise customers to implement state-of-the-art machine learning analytics in a simple, secure way DENVER, June 16, 2022 /PRNewswire-PRWeb/ -- G2M Insights, a business and tec",
@@ -95,49 +139,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-knock-crm-announces-artificial-intelligence-powered-ai-voice-call-intelligence-tools.md",
-      "title": "Knock® CRM Announces Artificial Intelligence-Powered AI Voice, Call Intelligence Tools",
-      "excerpt": "New features will be fully integrated into Knock’s CRM platform for a seamless user experience. SEATTLE, June 16, 2022 /PRNewswire/ -- Knock® CRM, the leading industry CRM and",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-95b9d4fccb5a691e17623ddc22612924",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-95b9d4fccb5a691e17623ddc22612924",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1158,7 +1159,7 @@
       "originalUrl": "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 232,
       "tags": null,
       "images": [
         {

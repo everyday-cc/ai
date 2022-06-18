@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/06/16/grid-ai-rebrands-as-lightning-ai-raises-40m-to-build-ai-dev-tools/"
 webUrl: "https://techcrunch.com/2022/06/16/grid-ai-rebrands-as-lightning-ai-raises-40m-to-build-ai-dev-tools/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: YAHOO!News

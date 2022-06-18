@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T08:31:00Z
 originalUrl: "https://www.openaccessgovernment.org/how-can-we-use-ai-to-fight-air-pollution/137726/"
 webUrl: "https://www.openaccessgovernment.org/how-can-we-use-ai-to-fight-air-pollution/137726/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: openaccessgovernment

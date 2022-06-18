@@ -206,6 +206,15 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 15
+  - title: "Feds investigating Tesla Autopilot crashes have big implications for self-driving cars"
+    excerpt: "The investigation could eventually lead to changes in future versions of Tesla’s Autopilot and its other self-driving systems."
+    publishedDateTime: 2022-06-18T18:31:00Z
+    webUrl: "https://knowtechie.com/feds-investigating-tesla-autopilot-crashes-have-big-implications-for-self-driving-cars/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 11
 
 secured: "7DkfkvcxphzDkNZYClUYGNjdLmZ3HXsRl9Xq0mXZXw4Bynve16Km4K/At5urq576zLPAQ0s7tWOEJNCJx+qrR28uV5H7EJVgarVcqRxPC+19+ABj9qLFOa4C8BYni2hGfptr+yZxwS4VxIKClVkMzXoG1u7OdomVBbmqX33qx2MTlBXK1M2GRI3vFxnSDfvk9NOXavnTC89AENynSKOyPcPtEe1jsTQhzHlYKMpSzSEflzG7fOBoonp5a4T+rf5I2JtT8qvq1lXy451387CdmA+PB1Oz0IEjfB0IsiIxVV6beiFfTekngRmA67S86LWfPYwZXrNX5VBYEhtcViDThU7JFEwPK+DOZW7fRzRbNysXfUhkdUsc4GPhlmLYErDge+MFtz4jPzGebHrfTw7puj/eKMk0U3GmaIOz7CGC0gCbE2gPfm3TKLNsv7an7yaE7Q80hDG42QiqKnQ1QPOginfcoJaDrM4h8l+6D5JyycDT1Ly9lrfULyaT0I13xwG17G519cVeEFcPMHLdAbgL/Q==;SlCuM4BEQ0iS2LSY8VJ+CA=="
 ---

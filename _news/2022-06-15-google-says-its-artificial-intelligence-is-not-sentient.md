@@ -80,22 +80,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Google Engineer Was Suspended After Claiming Company’s Artificial Intelligence Became Sentient"
-    excerpt: "The engineer had his sanity questioned by the tech company's management after he believed he was talking to a conscious AI."
-    publishedDateTime: 2022-06-14T01:18:00Z
-    webUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613"
-    ampWebUrl: "https://www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-google-engineer-suspended-after-claiming-ai-sentient-20220613.amp.html"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 62
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt2330c0df8d91f25a/62a7cd13aaf3b92e553555ca/googleai.png"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
     excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
     publishedDateTime: 2022-06-15T03:42:00Z
@@ -240,20 +224,6 @@ related:
       - url: "https://img.ksl.com/slc/2880/288077/28807719.jpg?filter=kslv2/responsive_story_lg"
         width: 1228
         height: 690
-        isCached: true
-  - title: "Is Google’s Artificial Intelligence Bot Sentient? Not Everyone Is Buying It"
-    excerpt: "Although the artificial intelligence community often disagrees on key issues, it has mostly rejected the assertion that the LaMDA bot is sentient."
-    publishedDateTime: 2022-06-14T02:00:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/google’s-artificial-intelligence-bot-sentient-not-everyone-buying-it-202986"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2018-08-08T083600Z_1231248563_RC1A7B512710_RTRMADP_3_CHINA-GOOGLE.JPG.jpg"
-        width: 1200
-        height: 770
         isCached: true
   - title: "View from Washington: AI is neither sentient... nor regulated"
     excerpt: "Controversy around Blake Lemoine's claim that Google has a 'sentient' AI has again highlighted ignorance and the need to monitor innovation more closely."

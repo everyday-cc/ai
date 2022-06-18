@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-06-celebrated-ai-chemistry.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-celebrated-ai-chemistry.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,12 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 47
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fshutterstock_1733742608-Protein-folding-hed.jpg&signature=f90a8fd366d297eded59735236f227ae"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "hxFkNiqkJ9pGXQK3JU9Ozx8jnjlR8sIXecf6luQ7Y1M+HoF3j9dYASS/guhi4td2dij1FYNcQJxjmkyVNEmprhSvKQNf2q4bXK6+C98YITLpQ44RGVEuAERL8geiXEfCKkSq1YZIsd6T9JDB96+FUk+jO993YtwuZXE7oL6j93dHhG1wb6riWYXcopqGNlp1+tM3wHxQDr1IO5/Etqcn6QpORbgmqYpxEj01QLv3PDzf+olHnvfCuxrDVjg0yd/Ls3jCFLZfSPj+6YElM5aEkNeBZ79LY94zwA7kN37BoKNw3sxePuLszUIZlgUxZPuRqB6JeVXzjv2Qi7x+ybgNiSZQNgHl8fvcooTZjg/kT1n7q9DeAYa/BWMJoZfQsVPTAnA248rccxZYZvvGJiv3dOC3jEbq2PatDyURmySFP0HdGW7LqnSKk16KQn/nUZBD2q9xgotcKiuChIt9FhzT0WneD/qMKYx9KZpZ0bLWNLCDeLUFgZUgpRwlF/Z8Vh3/VgN4s940s77X2Aj/ap9mWw==;d2NmkgWD/7Wg/CEfSceheA=="
 ---

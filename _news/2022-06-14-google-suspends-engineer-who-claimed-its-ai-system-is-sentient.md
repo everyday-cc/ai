@@ -87,15 +87,6 @@ related:
       name: Catholic News Agency
       domain: catholicnewsagency.com
     quality: 29
-  - title: "Google Engineer Believes That the Company's AI 'LaMDA' Has Become Sentient"
-    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated AI chatbot that produces text in response to user input. According to software engineer Blake Lemoine, LaMDA"
-    publishedDateTime: 2022-06-14T05:00:00Z
-    webUrl: "https://www.realclearscience.com/articles/2022/06/14/google_engineer_believes_that_the_companys_ai_lamda_has_become_sentient_837221.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 17
 
 secured: "TDrsoOFb6W2hxAJkMd/AUNTCZw2jsa8kR0q1VDIHjaL3Nupdur/RgNHmk5l8j+h3wWO4C9iiTlfKAncFP+OgcKiyL31vo8038z1JS3dQwDSmHulzbf0ydX/D3VoPzbX+2ibLtRD0pICQhmuRmiuwgbyeOv/bFy3obVPxlHIGbO3Ii3cUeulZvlBoDaGvnzdq0Zd8JtkLltMWpXLGXEs1nEFQ2XiJ3nsH+hd1UyrTCrHst33BH+N7apyNxOLsKfzXkLlaKuzGxtklZxCroUMmNpHBC40rXVeyV03lsYjBUOs2PuUMqcHFFvO8XWGj4wdsPug1U2MYWUcxqtMvHpWLMK1Tmdtl9QqBD5BX/ceMJHNdl6t0oTX/TI2NlIkIWQr0SX2UNxiHVk4Es380E/xpLGsBJS6zn82iFkP2WhRTuSCfVDlKorLHjGAXvcNa4eLd8W+GqBnwGwlnonwf6K4nKsx0pv6nHE2k2+IBBMpEITAltVOmU+lubpd6wPdXhjBl1cNx/0Wn+gzPY1XLaVoIUw==;/2AQ1yOXY86iVIGI3vMW3A=="
 ---

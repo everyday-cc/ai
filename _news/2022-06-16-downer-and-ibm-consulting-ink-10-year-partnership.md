@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T06:54:00Z
 originalUrl: "https://www.arnnet.com.au/article/699082/downer-and-ibm-consulting-ink-10-year-partnership/"
 webUrl: "https://www.arnnet.com.au/article/699082/downer-and-ibm-consulting-ink-10-year-partnership/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: ARN
@@ -15,6 +18,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "fB2cFa+9b6FxoALeHgHmdct3bZ3yon7+05SdB0dYVVWqlND61KD+7cljCRqVs45CsEFNNudjVE4y8UJLRLUpWSPxYUzT7AMXMHJOX7kdW3tWNzSg7X+T8Qgf6X+nCLd5OEio/BmGAyWYwxziHfgLAvVOkL/uGk8B2oz90GTS3yMRC+TW4D4ml7SscUzN76ZgSKk1xFIfku5wGGKBES0RC6s81qVdJ0vv92hgr4UCio2bYB7uXp+l7OjpOYIODwa6lC4+UQIvt/V8rxsHbGMIxxsyjEs4aU2g1pxnuMR3Md7BHFXGnl9bU+CtmmTt11nbE7y04Wbigsdjv8dEt3dfM+21co9zhcwBCj+/nd8vxfo=;tF18YUFqOVWpouesDl+nTQ=="
+images:
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/keynote_ric_lewis_and_adam_williams_head_of_growth_rail_and_transit_systems_downer.jpg"
+    width: 473
+    height: 315
+    isCached: true
+
+secured: "SBJfwoeABme2nB3WBSxaL08pqBqh8kpoFIIq3G4zFoN7FdnibinNyd1ZRFHHP39VYcWIidymgyPn7E42ctdxndWVAR6RX1Q6ieVjEMnvrugVgfoV3xagKOtajLQce1dG8qBj5lyFAd0Nw4uzIKveKQcC5JNtccuw5n5kYaHtWM1lGJwNg18vxl83zoZyza4oCelGM9PQVOR9pO7vgZZZf0pl+vREfjL3/lCTVjMVoeWyTVdPh2dn2WIkSp1F42ni/X0FjzQYZZvhNj93SahT5CH4nEQVYzdi4xjL18DKbGFgJGXiHdGXr2Ec9uBDjc6yuM5rpJxM6m+UPIxcmplrM68qe5vzWBW3rDdup9QT81E=;0SaidUhf8IL7PIMPXflI4Q=="
 ---
 

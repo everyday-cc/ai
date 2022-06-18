@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-06-sex-robots-could-soon-feel-things-just-like-humans-thanks-to-creepy-ai-touch-tech.md",
+      "title": "Sex robots could soon feel things 'just like humans' thanks to creepy AI touch tech",
+      "excerpt": "A new breakthrough in 'printed skin' gives robots a sense of touch just like humans - it could make sex robots even more advanced for steaming hot romps with doll lovers in the bedroom",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
+      "originalUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article27157316.ece/ALTERNATES/s615/0_Inside-Londons-first-sex-robot-party-where-humans-romp-with-dolls.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
+      "publishedDateTime": "2022-06-06T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-rstudio-is-now-available-on-azure-ml.md",
       "title": "RStudio is now available on Azure ML",
       "excerpt": "RStudio has announced a new partnership with Azure ML to deliver RStudio WorkBench on the Azure platform. RStudio, an integrated development environment (IDE) for programming language R, provides open source and enterprise-ready professional software for data science,",
@@ -1090,50 +1133,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-face-recognition-cams-at-mg-road-metro-station-others-for-better-security-gmda.md",
-      "title": "Face recognition cams at MG Road metro station, others for better security: GMDA",
-      "excerpt": "The Gurugram Metropolitan Development Authority (GMDA) installed eight facial recognition cameras Eight such cameras will also be installed at the Sikanderpur metro station before June 10. GMDA officials said that they are yet to receive permission from the Delhi Metro Rail Corporation for installing facial recognition cameras at the Huda City Centre station.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637.html",
-      "originalUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/06/04/1600x900/eb108b98-e3fe-11ec-8f1c-cdec0b6d3297_1654344984455.jpeg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html",
-      "publishedDateTime": "2022-06-04T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -83,15 +83,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Google Engineer Believes That the Company's AI 'LaMDA' Has Become Sentient"
-    excerpt: "Google’s LaMDA software (Language Model for Dialogue Applications) is a sophisticated AI chatbot that produces text in response to user input. According to software engineer Blake Lemoine, LaMDA"
-    publishedDateTime: 2022-06-14T05:00:00Z
-    webUrl: "https://www.realclearscience.com/articles/2022/06/14/google_engineer_believes_that_the_companys_ai_lamda_has_become_sentient_837221.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 17
 
 secured: "CU9KKvngpnLa4YZjCPWQJH1K6kqoNbhiZqtG7XEVPWvK1ErJRiZOFUSdNDeutiZVy/Rb1r+RzerjUGWv5ze3TLIp2b+12HSYJMlItC2sF7rrYp3Jpj5dRGnoww33CpiIBkwD209ZeZ/KIFUJwTYwkGB8k3Cv1XGMujEhVj/pGawEwS3xRNmj/CxMcXyiioPWcvLfcmtaqIj5BDXzQ4o+vfHU2iD83TJXboCqzbhfASeiEkodCoHiwQaBodAPNZEuQpe5NxzPHa4vhG/YY4qWQ8ATbEXK6jkY0dWiPGsctzQ1tLrv7DYzgDkXaIpBFj8YD0wa49dA+3dZ2xWwD+Iw6oVf2UZkaKPdlRi/yYU3ND4=;sScE+py3+SzQDPtTfwiiwA=="
 ---

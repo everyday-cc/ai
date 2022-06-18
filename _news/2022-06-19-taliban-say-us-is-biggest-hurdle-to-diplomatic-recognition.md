@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-18T18:03:00Z
 originalUrl: "https://www.voanews.com/a/taliban-say-us-is-biggest-hurdle-to-diplomatic-recognition/6623070.html"
 webUrl: "https://www.voanews.com/a/taliban-say-us-is-biggest-hurdle-to-diplomatic-recognition/6623070.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Voice of America
