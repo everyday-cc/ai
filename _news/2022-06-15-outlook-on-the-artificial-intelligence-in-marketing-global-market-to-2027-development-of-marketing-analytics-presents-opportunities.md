@@ -20,11 +20,11 @@ topics:
 
 related:
   - title: "G2M Insights launches Analyzr service, delivers streamlined machine learning analytics for sales and marketing teams"
-    excerpt: "Enables midmarket and enterprise customers to implement state-of-the-art machine learning analytics in a simple, secure way DENVER (PRWEB) June 16, 2022 G2M Insights, a business and technology consult"
+    excerpt: "Enables midmarket and enterprise customers to implement state-of-the-art machine learning analytics in a simple, secure way DENVER, June 16, 2022 /PRNewswire-PRWeb/ -- G2M Insights, a business and tec"
     publishedDateTime: 2022-06-16T16:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/p27746240/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27746240"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27746240"
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27746168/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27746168"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27746168"
     type: article
     provider:
       name: Benzinga.com

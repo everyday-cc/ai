@@ -20,6 +20,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Procter & Gamble Partners With Microsoft To Transform And Accelerate Digital Manufacturing"
+    excerpt: "Cielica continued, “P&G and Microsoft both share a passion for data and AI and are working together to find innovative ways to apply those capabilities to transform the work we do together. This new collaboration uses Microsoft Azure data and AI ..."
+    publishedDateTime: 2022-06-15T19:46:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62aa368a0331ac091509c8a9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AWS Bests Microsoft, Alibaba, Google In Cloud IaaS: Gartner"
     excerpt: "Gartner ranks AWS, Microsoft Azure, Alibaba and Google Cloud as the worldwide cloud services market share leaders for infrastructure as a service, IaaS."
     publishedDateTime: 2022-06-15T14:29:00Z

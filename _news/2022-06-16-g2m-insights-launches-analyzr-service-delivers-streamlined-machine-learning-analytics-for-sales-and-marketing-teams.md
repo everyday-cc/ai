@@ -1,12 +1,12 @@
 ---
 category: news
 title: "G2M Insights launches Analyzr service, delivers streamlined machine learning analytics for sales and marketing teams"
-excerpt: "Enables midmarket and enterprise customers to implement state-of-the-art machine learning analytics in a simple, secure way DENVER (PRWEB) June 16, 2022 G2M Insights, a business and technology consult"
+excerpt: "Enables midmarket and enterprise customers to implement state-of-the-art machine learning analytics in a simple, secure way DENVER, June 16, 2022 /PRNewswire-PRWeb/ -- G2M Insights, a business and tec"
 publishedDateTime: 2022-06-16T16:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/p27746240/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/p27746240/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an"
-ampWebUrl: "https://www.benzinga.com/amp/content/27746240"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27746240"
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27746168/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27746168/g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-an"
+ampWebUrl: "https://www.benzinga.com/amp/content/27746168"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27746168"
 type: article
 quality: 85
 heat: 125
@@ -78,6 +78,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "xOFbDCv3IPluM9q+UE5stzVz1gYhzMv50fskwmed2VstC2JZy/DAxd6tOcMu7tPvXsW8u4v7OHEVGtZEEnUynda6LiIguIspaPcXuxmvaMhU5sZseMCIe7k3gbog8jhJcLwVAU06OFCKUmbHVkFtbemRhlFPRJoAJbRe/b2itSMje1O5ggAA0N74aRv/LwjoNupGLeuIBju+yvoNFiZBuBDRHT4o4Q/WnQm6L2Ae/h8FUoU1CglYpS0gIUkQ6pMaxP8qPfb+HV8qfcaWI/d0wd6zLepfkVBWj72MPnDQCFmuXxORNKBuJ/tX5IZbTHslvv/BCjGaSYPGfv06daRtI/e/2oAvjFPiJIMZv7Q1/NM=;C+gvnjIjFElG2PqxWkz7oA=="
+secured: "poRkO0BNT5/YQbMlPnt85jXVxuHihTMGfbbeKetDrqzPShi4mV/rIIjvhuCgM84BP7g3D3hsgNAa8CuWkFsulBHSvWJF/fDvRaMF3VWmnzRYiAjDvgKZxM4ZpFKoKRyufVQHlvr0Q/5uitKOPZ7riTa0PlXLAYnkFk3PCoWmi/liahmdsl80FTUo2j85+a1EVprdMg6L/nAYPHNOAa5KlenpJqJ1274QddhgotkeUP5uGFj/EJlpjF/A+eQs1oRk/3yoweaVuW5KGKGpWwwN+49gKnZGr/SvV3KDw7SOZ3/znOBQEfLa6TYdEsjbYUojkS6dwJmyvPHuw+g82xvJPh7xuKFstibs7F+h8Ldb81k=;mlf9UKT858FGj09oll32MA=="
 ---
 

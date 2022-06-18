@@ -20,20 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Tenable boss accuses Microsoft of putting Azure customer safety at risk"
-    excerpt: "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two"
-    publishedDateTime: 2022-06-14T00:09:00Z
-    webUrl: "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg"
-        width: 375
-        height: 375
-        isCached: true
   - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
     excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
     publishedDateTime: 2022-06-16T15:47:00Z
