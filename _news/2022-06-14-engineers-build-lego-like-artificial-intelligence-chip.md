@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MIT Engineers Build LEGO-like AI Chip"
-    excerpt: "With a LEGO-like design for a stackable, customizable artificial intelligence chip, MIT engineers have taken a step toward a modular chip design. Traditional wiring is used in other modular chip designs to transmit signals between layers."
-    publishedDateTime: 2022-06-14T12:07:00Z
-    webUrl: "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip"
-    ampWebUrl: "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 76
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/06/MIT-Stackable-AI-01-press_0-e1655207915965.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "MIT Has Made A Lego-Like AI Chip That Stacks To Upgrade Your Device"
     excerpt: "MIT engineers have now developed an AI chip resembling LEGO as they intend to create modular and sustainable electronics."
     publishedDateTime: 2022-06-15T06:08:00Z

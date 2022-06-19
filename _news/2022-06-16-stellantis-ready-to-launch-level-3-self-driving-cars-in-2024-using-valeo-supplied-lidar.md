@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/06/stellantis-ready-to-launch-level-3
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/06/stellantis-ready-to-launch-level-3-self-driving-cars-in-2024-using-valeo-supplied-lidar/amp/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 555
     isCached: true
-
-related:
-  - title: "Stellantis to use Valeo lidar for Level 3 self-driving cars from 2024"
-    excerpt: "Stellantis' first generation of 'hands-free, eyes-off' self-driving cars will use Valeo's Scala lidar systems."
-    publishedDateTime: 2022-06-14T11:39:00Z
-    webUrl: "https://europe.autonews.com/suppliers/stellantis-use-valeo-lidar-level-3-self-driving-cars-2024"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
 
 secured: "sxUDWy7joby9mpid5Nhu+rG3StTFJcvNWoh8Pgu4Kn/9BgswyLduLuvhWftTm3qpuO+7+vAPIu/qAxX5mY40wqMzDKIHGNWELdCCBG4LNlqU5Cgo6/0Daaw+reVrT4erZz6CzXQPHGNb3h0VWCMavKwfJwRFLTXsW4F8qPoxE6P9QTVpM14G1Gwdh78tfCDJvfRO3cxmiubTsfi2rJDQtEKeyriqIcGYAN1MheC7M1J5/1knu6ytSN5soHH1UqsDi/z8qisQNLOdUR1Om28gYeuQ8RKcqI4K7X/vfGd0m8pd4jXsWda/OPfxwWXcdX3qVfWhWPq1toKW0n04MlX8jqva9P67s6VXVGPM3ps950lVt1+XlgRDzL9YJYd9lmDZcLFR43Flfp2plBjFZ9vD2cJpdZOPbDhfeKwJeu5qH8lkKM25wRb+w2nSQC3T1pAFE3uQ+rsnd4iV2uJ2Gb6fJYwmoApfsHacrPHqxQPtcNbjExaTLzEYJNNrurRS/OHJyBm79sAETNjFKDEYRZYajA==;lFYLoZbLmntDw0AMYLLnFw=="
 ---

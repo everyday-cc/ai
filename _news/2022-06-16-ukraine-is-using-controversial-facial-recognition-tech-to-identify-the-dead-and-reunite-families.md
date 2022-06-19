@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
-    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"
-    publishedDateTime: 2022-06-14T12:45:00Z
-    webUrl: "https://techxplore.com/news/2022-06-facial-recognition-technology-ukraine-socontroversial.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 22
 
 secured: "ULtotOV/X4LouaqqaeaJf4rQuVpBcslS4N25z9nzsFcwBy4QdIPF2KtDMTcZvRLu6I17qWdpMIXqBbSJEbB+PiGudfOjTR1eUs8hYtlwSb1wqBa3tZ2V9UtT9ei78SQh/xChFfcvVZpC+WRcaDPM0ziGviVZcKNumTXZDkkYG+dtEf97+RAZA/BAAJtqf8lLk++95DKmA8J513hWit7r/QJj/eJMhUSla0214cblgG5NG8emgzrNHb+sw6OAHw0WDp0lYZQTvJavI7EpPArwe4dxh298Oyq4l2awjv3I7H+Gh2ayCbm2qK/FjCmd+RdnPQENmPSLFtTdxv8u7304Xe3Z56ho4TOuIT4RMH3+BCY=;Ux36QBskIcengK5EgXtyVw=="
 ---

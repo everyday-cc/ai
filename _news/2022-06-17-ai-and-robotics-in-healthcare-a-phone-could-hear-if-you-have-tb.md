@@ -2,21 +2,17 @@
 category: news
 title: "AI and Robotics in healthcare: A phone could hear if you have TB"
 excerpt: "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives."
-publishedDateTime: 2022-06-17T07:07:00Z
-originalUrl: "https://www.bbc.com/news/av/world-africa-61834753"
-webUrl: "https://www.bbc.com/news/av/world-africa-61834753"
+publishedDateTime: 2022-06-17T06:36:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/world-africa-61834753"
+webUrl: "https://www.bbc.co.uk/news/av/world-africa-61834753"
 type: article
-quality: 116
-heat: 116
+quality: 86
+heat: 86
 published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -29,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "Bwa4oMieYEHXmbYtGcnhdhp1vKjOr2WBMrT6195zdOkwmWDPoRvOsbVxgIPnPhsey54UziZlfShh2PUhn9pmjRuw+0UW99ne5bZNQNTBbZ+fNqvrVCYGgcPR5nc0hFvL1fS1T8fqJUzU15K/HG23DbjXzCfjgblP82vKFwE3VlUNMWUgTELHU6uO0H9DbK3IVxJZcbAAK4XpJcfel6wBZPCE5kBesktr+h4tV0hCdd0yAC0MN2rKBpce15ShVP64K9xYAUjl+xX0FcWACniYnHM8gJJHT9w1ccbcWmcm+qBxEgNGSrQfdl4YmCepucMvezhBNGjj8hqKDkNNUDt5YY6+fIutxB/9XHS8ii8BFP0=;5hHbIeOzUstA+J4XD2hkjA=="
+secured: "WnVX5XcnY7zwea9Hr5fAtRaLXCThxaJ9s/nKX12YeXqJGTnga6pFIS7KJrYc/wnMNhz2xiDwujbLJg6XQ30G7uOUwvKf5iEFFw84w3GOQePnkieOlRiOt66fKfOHz2yIVoAQSP5nmTfPJdd+KWNcrKPGh8ZrdVQHBIa/gGRtnygsFD4KPS8KKaAf5s7+0Zsvd5X2wK+/M+VjxucBtSOa88fPJgwWvxN9yW2vo/UHK/DvMXlXeQBBFRvGynRfmAGLCxVF8k9uL8L82wnZbgre96P7Rb2okD1hHKBUIZDGC9cN15Vjd7XnNyPkVuPzMalbGLF6R6H8dyqDZp3RQGI1ZRWUFaPcTqOt0+06z4wpvCA=;nqMiQOy6UxZ0hkNVBwiNkQ=="
 ---
 

@@ -23,17 +23,6 @@ images:
     height: 383
     isCached: true
 
-related:
-  - title: "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India"
-    excerpt: "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ..."
-    publishedDateTime: 2022-06-14T12:56:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-
 secured: "VoOYOAGjfsiPBMNV14Hl1OPfOvm2d0lvNL3VPZJuBp8c5DDFjocB2Wp02grRY7irlADMA060/67nEILDvARU8ZOklF9Z+x+O0BibIkYEOg6J78fdb/nYcXHimBEvo02WRJHDJelIT60Pjetym+jd0nGxx8ZU49oX/nyRmVn9Ij4O4rWhoxCshcJg8McI+0ECWkanM3Jp0FP5xNnQTpow7U6J9DR58X3BGlebeW7Qz0//0ifLjY0my9r2s7P6oGxnWpmmQqWlYwkdksPRIi3t+CzeGQ4HVjiEP24LDDYS+RvQVnmd9/sjqarzBu0MILoCIgEgWKHOh6vXJvMaB+FyuW8wvWoeF710rK+9Oilc4+s=;ckdDyXu4IPgJMBVR8ZYRRA=="
 ---
 

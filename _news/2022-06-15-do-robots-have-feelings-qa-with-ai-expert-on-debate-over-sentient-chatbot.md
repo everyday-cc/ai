@@ -214,6 +214,20 @@ related:
         width: 660
         height: 427
         isCached: true
+  - title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
+    excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
+    publishedDateTime: 2022-06-17T00:31:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
+    type: article
+    provider:
+      name: Health News Florida
+      domain: usf.edu
+    quality: 31
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/896e028/2147483647/strip/true/crop/4480x2352+0+316/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google engineer claims AI system has developed feelings"
     excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
     publishedDateTime: 2022-06-14T13:41:00Z

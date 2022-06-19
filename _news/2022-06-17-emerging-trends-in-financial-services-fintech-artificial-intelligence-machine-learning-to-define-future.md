@@ -7,7 +7,7 @@ originalUrl: "https://www.financialexpress.com/industry/banking-finance/emerging
 webUrl: "https://www.financialexpress.com/industry/banking-finance/emerging-trends-in-financial-services-and-fintech-artificial-intelligence-machine-learning-to-define-future/2564593/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -20,15 +20,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "FinTech: Apple's Here, Should Incumbent Banks Fear?"
-    excerpt: "Apple announced its iOS16 update. In this article, we discuss about Apple's BNPL offering and compare it to traditional credit cards. Read more."
-    publishedDateTime: 2022-06-14T13:00:00Z
-    webUrl: "https://seekingalpha.com/article/4517757-fintech-apples-here-should-incumbent-banks-fear"
+  - title: "How AI is helping the Fintech industry by reducing loan dropout through automation?"
+    excerpt: "The fintech industry is going through a massive revolution right now. This disruption is helping customers get easy access to credit, which has made payments and transactions hassle-free, like never before."
+    publishedDateTime: 2022-06-17T12:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-helping-the-fintech-industry-by-reducing-loan-dropout-through-automation/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      name: India Times
+      domain: indiatimes.com
+    quality: 13
 
 secured: "qeFJyNLZAzOtVvtnziS2Y1Zr+mtKcLfZgRueiAoUDUlK0yFKqiqUkfb97j7QWNL+DooprpH78qsBcE6uv8u6QuNeGF5v6CBn6cQoiHZyqIR/x1fuQTaYgWmS8HdWFU1+meGNrQNEyzmHX7L4CJXliqKFOJzORB70yyiFlncF3aTteaq+E1GevZrwkenLKdhhKyZIsTOfdV+L/H75CRnrk0t1kSE7Xtnzp/Mb9a2RlJAvLR2GhzvO4BGrxFfO68StHMFBaU+AVVetOZJu14NmzOOa0KpStSkRV2U3Bn1nZJ5tdHPET40SM1ZXPOQUnYvHTEk1z37RZm3AXSwQHPpkKEIQTEK3V8LSNryMgppN3zv747RlP403WyecktDx4bv2zztrfyY6s3ooZMpapqujlRGpKHhEckri6hAGTKgm81EMh+6HSmTTVG4A+/1NAUyuALTBqv4ElV73qllE/CcUTAvA+YuYz7ugO+Bn9AtqVyENv4zl3Zz2KQggxCVkCuRc/ipyb2D+omiOYxAhFZtXPQ==;m/4P2FoktF2zI4G+CjTTfQ=="
 ---

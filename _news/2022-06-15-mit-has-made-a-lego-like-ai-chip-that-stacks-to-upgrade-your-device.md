@@ -9,8 +9,8 @@ ampWebUrl: "https://fossbytes.com/mit-stackable-ai-chip/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/mit-stackable-ai-chip/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Foss Bytes
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MIT Engineers Build LEGO-like AI Chip"
-    excerpt: "With a LEGO-like design for a stackable, customizable artificial intelligence chip, MIT engineers have taken a step toward a modular chip design. Traditional wiring is used in other modular chip designs to transmit signals between layers."
-    publishedDateTime: 2022-06-14T12:07:00Z
-    webUrl: "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip"
-    ampWebUrl: "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 76
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/06/MIT-Stackable-AI-01-press_0-e1655207915965.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip"
     excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s"
     publishedDateTime: 2022-06-16T06:07:00Z

@@ -66,15 +66,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
-    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"
-    publishedDateTime: 2022-06-14T12:45:00Z
-    webUrl: "https://techxplore.com/news/2022-06-facial-recognition-technology-ukraine-socontroversial.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 22
 
 secured: "LpNLrqyRxqU1fEaiGjYB8hIbBYa5A8VLuu2cRvV67dzS570hUi0FO8XMcXq3HnZzPm4v3Bf87OW7HdhaEO7RI6ZWN6jry//mJqqClIq9oLFz1QahlIdWhY5gRDL96DWWyluP6phsRZN40EhR+e32mPCv51SKhKKJs7FKu14+ElnOPkmPFMwAdquYfPLeNTEJvVx0bVdrivVaXU0jC6emKJVJOSZahEeRfEnK+LSFa3MKlzaEhvfEiqc3Hc1T9ZOHLE2PhGgamctVy9qV9EZUCp94pnvBkzaOekhh0TjMhflWQsDuCV4EVyJpRn6QBuFEo8wg6gWg0Pf9C0MVdKjWyYT2K4iNbQ2IsJoFUrXBqe4GYQlbzRQQ17UW2fIQOu/RUNKzGfY9L+177cW7glTPa3CyJczaUKRzotUZun2e+tpJbjJdM+FV89WiyPIXu3aKoI0k6BHEFL7Q26dzMD307klcnbnX2I7Z1Am8p6Pi4MxKNg4BpxGefGepeaS1dwVYCmvNcDAlOQ5vOa1IvnRq7g==;utrimwLyByYUGb1UNwgBfg=="
 ---

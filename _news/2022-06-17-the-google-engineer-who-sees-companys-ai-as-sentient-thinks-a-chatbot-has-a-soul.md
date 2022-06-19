@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Google engineer claims AI system has developed feelings"
-excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
-publishedDateTime: 2022-06-14T13:41:00Z
-originalUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
-webUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
+title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
+excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
+publishedDateTime: 2022-06-17T00:31:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
+webUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
 type: article
-quality: 19
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: IET
-  domain: theiet.org
+  name: Health News Florida
+  domain: usf.edu
 
 topics:
-  - AI Ethics
   - AI
+
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/896e028/2147483647/strip/true/crop/4480x2352+0+316/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AI coming to life? Google engineer claims chatbot is sentient"
@@ -219,20 +224,15 @@ related:
         width: 660
         height: 427
         isCached: true
-  - title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
-    excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
-    publishedDateTime: 2022-06-17T00:31:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
+  - title: "Google engineer claims AI system has developed feelings"
+    excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
+    publishedDateTime: 2022-06-14T13:41:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
     type: article
     provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 31
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/896e028/2147483647/strip/true/crop/4480x2352+0+316/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: IET
+      domain: theiet.org
+    quality: 19
   - title: "Has a Google AI Become Sentient?"
     excerpt: "Hello, everyone. Happy Thursday! Last weekend, an interesting story was published about a Google engineer who has been suspended after publicly claiming that one of the company’s artificial intelligences (AI) has become sentient."
     publishedDateTime: 2022-06-16T17:43:00Z
@@ -270,6 +270,6 @@ related:
       domain: scroll.in
     quality: 11
 
-secured: "J/sj23VqwLi8ezu2/BkjnC+Masyu5RNjYvTASUcJXD7CgPLFj1bP80z5Q9ZcLl3yUi/hDzAbQXUkC3GiVWuzoE5a20O77rSmmnpQ9PCQOWX0DeminDmj7/3t44VXQKAPtIt2Q4H8YYLouQeN88Ix767G7yF4+LYIIsSPQaNE7NDrayZg9+xEoebl2ylTGhs65R8ieoPdpjjRko7qV2F8+nvqSEo8FbCRol52kJ738Sm3GXHT3NXsnIOl4qDiKZvnkH7IG2ROT3XSTvdaZEDQTZcIxGUH/tHByQ4lz7MQFLB/HV0cSEmdnZqoew6pfj1tR5yRSi+SWz0Mxi0Z6KoHgF9m784Q4a/SrUNslqlCEPk=;6ptgoNJ7epn+ODek6TpSRQ=="
+secured: "lQz+Mc97Yv5r1m1/f8imRk/luFPVlHLNsPSoQD06+eN2YM9garjNO9KTpQ00BXR9n8A8X+Rx990gstuYvfgIlfVBqkOKkyL8pCgcfaTsoSwpfBZhLhmq62UfPgpCjoYCGbjY6/uJbBkL+t6pEnRUrkwLRhSwOdZ7NdzWqEkWP+uhq4TQfmJcl9N9ThG4joiDtJsXiZnjlKWC6swgvfCD6fQ28YWEh73M6fwQzXdEDADkMzWjnoOhCsnSG4bEhPxVLxm35jiQXQ0qEpNJpZYiWkUFzLSBPQlRBCnnLHiG1EneCcPPnZY7Rk0/VdbdEay7OuGyPlTzvmIT5uDHAZ2Tw2X6n7VunlGCuc+ceu5aDZA=;k8omNp+4zF6KIHJtw1wdZQ=="
 ---
 

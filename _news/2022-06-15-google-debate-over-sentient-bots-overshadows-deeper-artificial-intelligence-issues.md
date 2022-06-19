@@ -82,22 +82,6 @@ related:
         width: 2149
         height: 1200
         isCached: true
-  - title: "Has Google's LaMDA become sentient? Understanding the futuristic AI"
-    excerpt: "Google's AI-based language model LaMDA has been in the news after Blake Lemoine, a Google engineer, claimed that it had become sentient program"
-    publishedDateTime: 2022-06-14T11:24:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/understanding-google-s-lamda-ai-and-blake-lemoine-s-accusations/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 59
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l89820220614143715.jpeg"
-        width: 1440
-        height: 809
-        isCached: true
   - title: "Could artificial intelligence become sentient?"
     excerpt: "What if the AI had some sentient qualities that we did not, and it judged us to be only imperfectly sentient? (“Those fools spend their lives asleep!”) Would we just have to accept that judgement? Or can we get away with arguing humans have a unique perspective on truth?"
     publishedDateTime: 2022-06-16T09:31:00Z
