@@ -2,41 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2022-05-31-healthcare-natural-language-processing-market-is-projected-to-reach-us-146-billion-by-2032.md",
-      "title": "Healthcare Natural Language Processing Market is projected to reach US$ 14.6 Billion by 2032",
-      "excerpt": "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032. One of the key drivers and investors in the natural language processing business is large corporations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/05/31/healthcare-natural-language-processing-market-is-projected-to-reach-us-14-6-billion-by-2032/",
-      "originalUrl": "https://www.fmiblog.com/2022/05/31/healthcare-natural-language-processing-market-is-projected-to-reach-us-14-6-billion-by-2032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-05-31-filings-buzz-in-retail-19-decrease-in-artificial-intelligence-mentions-in-q4-of-2021.md",
       "title": "Filings buzz in retail: 19% decrease in artificial intelligence mentions in Q4 of 2021",
       "excerpt": "We've analysed companies' annual reports and other filings to see which key issues are receiving the most attention.",
@@ -1083,6 +1048,57 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-the-rise-of-ai-is-pushing-patent-laws-to-their-limits.md",
+      "title": "The rise of AI is pushing patent laws to their limits",
+      "excerpt": "It was a machine learning program. One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence (AI) in Arthur C Clarke’s classic 2001: A Space Odyssey.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
+      "originalUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

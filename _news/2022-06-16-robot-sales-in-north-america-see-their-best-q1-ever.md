@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-the
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Best in AI: Mizuho Americas"
-    excerpt: "Mizuho Americas won Best in Artificial Intelligence (AI) at the 2022 Markets Choice Awards. Traders Magazine speaks with , Head of Americas Equity Division for Mizuho in NYC, Sam Clapp, Mizuho Americas Electronic Trading Sales,"
-    publishedDateTime: 2022-06-14T06:36:00Z
-    webUrl: "https://www.tradersmagazine.com/featured_articles/best-in-ai-mizuho-americas/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/06/Pasquill-Darlene-Head-of-Mizuho-Americas-Equity-Division.jpg"
-        width: 885
-        height: 1032
-        isCached: true
   - title: "A hi-tech village is working to solve America’s chip shortage"
     excerpt: "Public-private partnerships are key to revitalizing the U.S. semiconductor industry, ensuring long-term innovation and national security. By WP Creative Group The U.S. is facing a shortage of microchips that power everything from coffeemakers to lifesaving medical equipment."
     publishedDateTime: 2022-06-16T16:03:00Z

@@ -1,34 +1,44 @@
 ---
 category: news
-title: "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round"
-excerpt: "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly."
-publishedDateTime: 2022-06-16T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604"
-webUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604"
+title: "Israeli AI Healthcare Solutions Provider Aidoc Raises $110M"
+excerpt: "Aidoc's platform enables hospitals to tackle challenges in the post pandemic reality of nursing shortages, and rising supply costs."
+publishedDateTime: 2022-06-16T21:04:00Z
+originalUrl: "https://nocamels.com/2022/06/aidoc-healthcare-ai/"
+webUrl: "https://nocamels.com/2022/06/aidoc-healthcare-ai/"
 type: article
-quality: 84
-heat: 124
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NoCamels - Israeli Innovation News
+  domain: nocamels.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: "https://images.wsj.net/im-565272/social"
-    width: 1280
-    height: 640
+  - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/06/jut-350x233.jpg"
+    width: 350
+    height: 233
     isCached: true
 
 related:
+  - title: "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round"
+    excerpt: "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly."
+    publishedDateTime: 2022-06-16T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-565272/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage"
     excerpt: "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records."
     publishedDateTime: 2022-06-16T16:00:00Z
@@ -59,20 +69,6 @@ related:
         width: 460
         height: 460
         isCached: true
-  - title: "Israeli AI Healthcare Solutions Provider Aidoc Raises $110M"
-    excerpt: "Aidoc's platform enables hospitals to tackle challenges in the post pandemic reality of nursing shortages, and rising supply costs."
-    publishedDateTime: 2022-06-16T21:04:00Z
-    webUrl: "https://nocamels.com/2022/06/aidoc-healthcare-ai/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/06/jut-350x233.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Aidoc Raises Funds for Continued Expansion of AI Care Platform"
     excerpt: "Aidoc, a provider of health care artificial intelligence (AI) solutions, announced a $110 million Series D round investment, bring"
     publishedDateTime: 2022-06-16T20:09:00Z
@@ -88,6 +84,6 @@ related:
         height: 288
         isCached: true
 
-secured: "NFtix6Xe5xVKK2PvmGVbR9HJTgr+wzMIKge/TobBNK//GKXHPtDC1Bik9TxTEBq7Ma9bH5oBDwFQyf4ZBzV8pYntUSFxVC/x7CgjRjnIfUferEb0gok4wUOhb9msnv6xl1Y+ApBAqxFlT89Z1uLTym1IFHQ/RyvrAiwBa6CAaxQb0tVebIzy676O4ZU0Q+3sfCXFgApgmiVX1aCh/0bodDjxEESUkgWwhC2cGmeP/YJ3mU69S5/dXX3Bx80wD6UdlIcrvkhXhXIYbPZncyznixLmykmWEbLzXigW3N9AkH/y8BZ0mtLM/eXRVAnYHeafMK5V9JYgJqGjmaiTkEZZE0W2yeIGatbydrtpv08oqHA20Nri66nPIrQA4gM4TUxgLnvOuXrBqkcW25yEy2DXxQaBBMY07NZW7nweu3iwbnHvigDnKhtpuj4s2O9CRLfL2HannCc2QtgTzERQ7gSFfNheklZy7I3idKB5T8TGLvXsMViz7JnSaVrSmmOW4Gvl087MDzXPb1sxWMJZX6aXqg==;XoVzDUQIq854XNm12H1wyQ=="
+secured: "rNonHklAS2yeKblanlWNQYcvrUQB2w+9ItastNFqKdbgfP2KAhSzH54Syo36gGwjXkquluY2yz3sYnWPi+NT7koD/FXhaoZCZFK3cr/npy9ra05VestH3un+QkRg1a/fmicQI9HqL6EHCyemW7Mq0VGs3c9cd8e6WApx5GVgVGLxx8BwlNv/T7WtZoFwbleGZWeFpdM1zfyOZWjMXSA9V8IJJTL+zVGVhMes5BH8zyyptj4iInanv+L33XJ0R5MnjxTWhm/Z58VHZ4b9wf/jX2DU+694KEZsiFMkJO5PiMOkaPQL0eSh4xGzSZSP5Lt7C15PUhxMHQWuEWLBKe9otlzxLwMj8/7VdQFwoaW0KUo=;XnyaXndMdmefdORInBGTsA=="
 ---
 

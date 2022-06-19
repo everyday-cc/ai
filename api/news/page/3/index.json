@@ -2,48 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-06-15-ai-coming-to-life-google-engineer-claims-chatbot-is-sentient.md",
-      "title": "AI coming to life? Google engineer claims chatbot is sentient",
-      "excerpt": "A Google engineer is claiming that LaMDA, a chatbot generator, has the ability to think for itself, but the company has rejected the claim. The Washington Post's Nitasha Tiku explains how the chatbot works and why the engineer thinks Google should be asking for its consent to experiment on it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595",
-      "originalUrl": "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_06/1655305259269_now_mnn_chatbot_sentient_google_220615_1920x1080-9ec6aw.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo142170181595",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595",
-      "publishedDateTime": "2022-06-15T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-15-ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars.md",
       "title": "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars",
       "excerpt": "One controversial posture by AI Ethics is that we can purposely devise toxic AI or biased AI in order to ferret out and cope with other toxic AI. As they say, sometimes it takes one to know one. This includes self-driving cars too.",
@@ -94,48 +52,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago.md",
-      "title": "AI finds hidden evidence of ancient human fires 1 million years ago",
-      "excerpt": "An AI tool has spotted subtle evidence of changes in flint tools that indicate ancient humans had cooking fires at a 1-million-year-old archaeological site in Israel",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/",
-      "originalUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/06/13134051/SEI_109554959.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/",
-      "publishedDateTime": "2022-06-15T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -336,7 +252,7 @@
       "originalUrl": "https://www.techguide.com.au/news/televisions-news/did-you-know-some-australian-retailers-use-facial-recognition-on-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -854,7 +770,7 @@
       "originalUrl": "https://www.wired.com/story/lamda-artificial-intelligence-sentience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1169,6 +1085,92 @@
       "provider": {
         "name": "The Conversation",
         "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-congressional-hearings-focus-on-ai-machine-learning-challenges-in-cybersecurity.md",
+      "title": "Congressional hearings focus on AI, machine learning challenges in cybersecurity",
+      "excerpt": "Talent shortages and ensuring that AI and machine learning systems are trustworthy are among the biggest concerns explained to the U.S. Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3663688/congressional-hearings-focus-on-ai-machine-learning-challenges-in-cybersecurity.html",
+      "originalUrl": "https://www.csoonline.com/article/3663688/congressional-hearings-focus-on-ai-machine-learning-challenges-in-cybersecurity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3663688/congressional-hearings-focus-on-ai-machine-learning-challenges-in-cybersecurity.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3663688/congressional-hearings-focus-on-ai-machine-learning-challenges-in-cybersecurity.amp.html",
+      "publishedDateTime": "2022-06-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-facial-recognition-system-launched-at-kazakhstans-airports-religious-institutions.md",
+      "title": "Facial recognition system launched at Kazakhstan’s airports, religious institutions",
+      "excerpt": "NUR-SULTAN. KAZINFORM A facial recognition system has been launched at the airports, religious institutions and in underground walkways of Nur-Sultan city, Kazinform has learned at a briefing of the Operational Control Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198",
+      "originalUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inform.kz/thumbs3/radmin_news_2022_06_14_220614122033246e_w320_h240.jpg",
+          "width": 320,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198/amp",
+      "cdnAmpWebUrl": "https://www-inform-kz.cdn.ampproject.org/c/s/www.inform.kz/en/facial-recognition-system-launched-at-kazakhstan-s-airports-religious-institutions_a3944198/amp",
+      "publishedDateTime": "2022-06-14T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kazinform",
+        "domain": "inform.kz",
         "images": null,
         "publishers": null,
         "authors": null

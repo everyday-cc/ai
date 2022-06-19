@@ -1,22 +1,23 @@
 ---
 category: news
 title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
-excerpt: "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ..."
-publishedDateTime: 2022-06-16T19:30:00Z
-originalUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
-webUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+excerpt: "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally"
+publishedDateTime: 2022-06-16T20:19:00Z
+originalUrl: "https://www.inforisktoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+webUrl: "https://www.inforisktoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: Info Risk Today
+  domain: inforisktoday.com
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
@@ -25,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chima Opara weighs in on AI Bias, Cyber Security"
-    excerpt: "In the end, two words remain on the lips of many — artificial intelligence (AI) and machine learning (mL) Long before now, those terms were used solely by professionals in the tech community, but with the proliferation and commercialisation of technology ..."
-    publishedDateTime: 2022-06-14T05:40:00Z
-    webUrl: "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/"
-    ampWebUrl: "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 74
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/BlacB.jpg"
-        width: 1439
-        height: 1814
-        isCached: true
   - title: "Congressional hearings focus on AI, machine learning challenges in cybersecurity"
     excerpt: "Talent shortages and ensuring that AI and machine learning systems are trustworthy are among the biggest concerns explained to the U.S. Congress."
     publishedDateTime: 2022-06-14T09:00:00Z
@@ -57,7 +42,16 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Drive Capital-backed cybersecurity startup cuts jobs amid economic downturn"
+    excerpt: "A cybersecurity startup that had rapidly growing revenue at the start of the year has cut one-fifth of its workforce amid the economic downturn. Finite State Inc. eliminated 16 positions this week, founder and CEO Matt Wyckhouse confirmed in a written statement in response to questions from Columbus Business First."
+    publishedDateTime: 2022-06-17T20:45:00Z
+    webUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2022/06/17/startup-finite-state-layoffs.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "d86582MLlFmCSeA6Y0YjHweses98F2nlf+FN5izaxoXF7xmj3IpHw/3jt3ST/Uv/Yc5TbTEUb7b7/NLsI9VwDikuY/BZJTM+f3lcyEbiOfbLXzrS3pwxgQzgUVXq7WwxMwoNCK+4jF33pcwN8Tvo6JHDABIVAZer2rAgCG10DI5UggBhUHezqLoK0wksTfTMb2hLDdOoLB7xQDiPKOLIZp9GDeTszCEOkQeilDrgImVJFjAgkofk/tc8auAFBuP11JhZo40133ConHz5alHdqmikbV2+rBG+03OP3fNkgHdtOWU+JhXB6WbEfAX9kTLtJN7w9bWmMHT/bJmJpn115IorVpC+6VCMdYHvLULAdSQ=;2NCIl1fW+iVwHx4Q0AEUoQ=="
+secured: "ZRjBAZ6osH/kLu47z8+pQBMsWjPVn6vWwLWcqcRGjJpbPQMLQ598qiVCiJJLMQntzapi/vnDe3KO/BDkhNLvCOXkiut7ZpRTjhc9ZfeN0S+/oeRBJXJ/mjjW41K7b6nUMCIsnfRdEIumJCa7pqqm+lZkiqfyH58jM5TlQgHdfH3niGlfulAk0hTkAwjsjp8xZ6w1kbHXhhAsv45IoAhToL8jlxt6dMI42LnFCF5H0SqM3/kklyl5vsBdW0/VqW/v909VsrgOy1eqAXi/mWotcwTPJeHwNeLzXpi0a3crNg8NTPN/0r/Xlv2z3AL27IcJLJisCSrJiY7YPx837tiBIOkwgNsF9WZYmn6zQORZZB8=;tf3XyD6QVkg7b3gzGqtqvA=="
 ---
 

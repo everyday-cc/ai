@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-b
 ampWebUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
@@ -83,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uWqPYX4siG91+ZMToEvumTp8iQFlZpnN0LSTza3jnAcjEp1xaJ394a9wmC2iojoi1liQEOOEkJhpzOCc9cwdE10yWAPUZl6A8hkMwxykxz7HBULpt34S09Z4PJAe0eaaRHci0VlVS6LYZbrgI5V9+FmsSBGYbmdBtuZLf2onx7lg1gET1SBa/1T3dEsWQCQwsHeJuLmWJS/2Q7Hd/XNC+AU0UYvXux4ITmpWbuTPXumjER/czQwLgTCemBqs9Zxi3DEdek4rY62vO99iB+e6/Z2GSP/VD0pK4zUIvH9sEhRKXadBlLu0TbV9PYBz7NiM8slSBm0+eKZ+aUkHob6LArKsiNQdADrOGJ/+CFOena4=;E5BdJnT3IABWy4LNeJDDkQ=="
+secured: "GE2Q/obIE5KdcVC7umRA/zpSNdhCcVk+W50qB8zp7LoljJ/ZD+Kn4No7zDlHc07gZw1QGOxTRpf6yLhZK2AzSlHbQsWpR8YhPepPYEyORGOOrQy7OkYcWJvFudXhXdHkAoQvnrPax+hgxq/RZH4XXE7I1YYldIcu6JWM4pyf/rTBFePDgFpIgGGnKnYAW4zalBAsM5K698v9n+eGDJ6EiLEvN61McTi+mN1wrTXDa/xSOFXV+kCOF8YQ2qqUpFtWO6o7i5VFxSwZdVqDw9stURnUMqXP9WCUCBNt1TIF36xkLqpNywxO9O4oXT6zb9lfGynD6Eq+Ym9aKn8WTlNPHADeLuFCuF63FOHuimXQN3IJnq6xKoajoKkuyqtuL4Srrvqd2GHWcfDTisfeqqgWs1i422muBtTeiNGIMLKG3qG/3cbd/tQnRBWFGf4Q/1J/oYhN7Uxk4yxI10D4OGi98Dhlgoowh+S+YjnFmDk+OdHP75uFGptQX3JdXYcvW3eb6HHjC65jMTEeaj3MUnzKuw==;GtyjKFQYO72xA2hTwa2XFg=="
 ---
 

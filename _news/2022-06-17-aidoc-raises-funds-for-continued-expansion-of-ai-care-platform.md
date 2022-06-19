@@ -69,6 +69,20 @@ related:
         width: 460
         height: 460
         isCached: true
+  - title: "Israeli AI Healthcare Solutions Provider Aidoc Raises $110M"
+    excerpt: "Aidoc's platform enables hospitals to tackle challenges in the post pandemic reality of nursing shortages, and rising supply costs."
+    publishedDateTime: 2022-06-16T21:04:00Z
+    webUrl: "https://nocamels.com/2022/06/aidoc-healthcare-ai/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/06/jut-350x233.jpg"
+        width: 350
+        height: 233
+        isCached: true
 
 secured: "/MmP/A+9ToxmyBa8FlJXQDGfKKPV/Ns+qcCAZK/4Iiu6Mq7K3NYBpp6NtP6ccO8AjaeT1E825lENr96ripmMfcoOTSnGiyKB6/hYjnKSDtRJXahGFy6LShNH4USrGH+t4DnYrW15xHQ44AfKYI4EVWvEUdl8yS2ZnC05WDRLERk+pQ3JSTyA5b2ye0rOFMx1K2lD1ZfFUcuLp88ayC6skyNJo9ylZrv+7/PK2Db7CluwX3J+448m0lzsbKSwkLRNvq0Pt8aum7jcU8+hDmYa6CRKSmin+40vdqydcSVS8P82X1F2y706YnobMsIi0cK2zdtUc0eXAU/dgzl7zgNkMYRWiOulZot3bToZY44VnOs=;HFNPo7MFLVvOI9s5/xviHg=="
 ---

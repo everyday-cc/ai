@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-08-family-sues-meta-blames-instagram-for-daughters-eating-disorder-and-self-harm.md",
+      "title": "Family sues Meta, blames Instagram for daughter’s eating disorder and self-harm",
+      "excerpt": "A preteen girl’s “addictive” use of Instagram resulted in an eating disorder, self-harm and thoughts of suicide over several years, according to a lawsuit against the platform’s parent company, Meta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/social-media/meta-lawsuit-instagram-caused-eating-disorder-self-harm-rcna32221",
+      "originalUrl": "https://www.nbcnews.com/tech/social-media/meta-lawsuit-instagram-caused-eating-disorder-self-harm-rcna32221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220606-Alexis-Spence-ac-737p-fd868f.jpg",
+          "width": 1550,
+          "height": 1033,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna32221",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna32221",
+      "publishedDateTime": "2022-06-07T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-uber-and-waymo-want-to-make-self-driving-freight-trucks-a-thing.md",
       "title": "Uber and Waymo Want to Make Self-Driving Freight Trucks a Thing",
       "excerpt": "Uber and Waymo have put the past aside, and are now in it for the long haul. On Tuesday, the two companies, previously legal foes, announced a new partnership. Together, they’re planning to combine Waymo’s self-driving technology with Uber Freight’s shipping network to help automate long-distance trucking.",
@@ -1291,49 +1334,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-self-driving-cars-reliability-challenges-solutions-and-social-adoption.md",
-      "title": "Self-Driving Cars: Reliability Challenges, Solutions, and Social Adoption",
-      "excerpt": "Manish Gupta is working on making self-driving cars, machine learning, and artificial intelligence safer and more reliable. (Image source: Manish Gupta) The strict reliability standards are critical for human safety and to help drive social acceptance of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "originalUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/01-Manish_GUPTA_0.jpg",
-          "width": 1449,
-          "height": 1449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

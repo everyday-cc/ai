@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
-      "title": "Why Artificial Intelligence remains a distant dream?",
-      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
-      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
-          "width": 1100,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
-      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
-      "publishedDateTime": "2022-06-16T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "americanbazaaronline.com",
-        "domain": "americanbazaaronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-06-16-g2m-insights-launches-analyzr-service-delivers-streamlined-machine-learning-analytics-for-sales-and-marketing-teams.md",
       "title": "G2M Insights launches Analyzr service, delivers streamlined machine learning analytics for sales and marketing teams",
       "excerpt": "Enables midmarket and enterprise customers to implement state-of-the-art machine learning analytics in a simple, secure way DENVER, June 16, 2022 /PRNewswire-PRWeb/ -- G2M Insights, a business and tec",
@@ -150,7 +106,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -288,7 +244,7 @@
       "originalUrl": "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1199,6 +1155,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-ai-coming-to-life-google-engineer-claims-chatbot-is-sentient.md",
+      "title": "AI coming to life? Google engineer claims chatbot is sentient",
+      "excerpt": "A Google engineer is claiming that LaMDA, a chatbot generator, has the ability to think for itself, but the company has rejected the claim. The Washington Post's Nitasha Tiku explains how the chatbot works and why the engineer thinks Google should be asking for its consent to experiment on it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595",
+      "originalUrl": "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 287,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_06/1655305259269_now_mnn_chatbot_sentient_google_220615_1920x1080-9ec6aw.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo142170181595",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595",
+      "publishedDateTime": "2022-06-15T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

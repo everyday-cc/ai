@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Best in AI: Mizuho Americas"
-    excerpt: "Mizuho Americas won Best in Artificial Intelligence (AI) at the 2022 Markets Choice Awards. Traders Magazine speaks with , Head of Americas Equity Division for Mizuho in NYC, Sam Clapp, Mizuho Americas Electronic Trading Sales,"
-    publishedDateTime: 2022-06-14T06:36:00Z
-    webUrl: "https://www.tradersmagazine.com/featured_articles/best-in-ai-mizuho-americas/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/06/Pasquill-Darlene-Head-of-Mizuho-Americas-Equity-Division.jpg"
-        width: 885
-        height: 1032
-        isCached: true
 
 secured: "avI5LaiEAUUL95IX20GjaRjaAwnv/APE21k3OhmOJNHwmMnKKnTafva68cpy8HUyIhckpLxMjsWEcI7cNrDjL+H5a21khWxmdavh4ls64zbbKdK05YIX5Q7KKjIrIXUDt8g/lY1mmLxO657YEqDthIFAQYpRjgjqdLB9ZtFPD+b9zcYZkv/tClOX69JpZczgwnGnHHmN01GTX3MpH6qtyKyNlzPgP6nKRkCDt/si/2HPprC2ov+N2yYhqYfTCawtA8UXDVCHaEI9fLb/fbsPxgvSWSlUTlqwy5wpCg76hG+q2S/7wIz9t9a3Kuy37yBPmgvGXA7M9kxUgkvocdIVdms+XP/GH2UPHnW+TGA2z+w=;C31O71l3VTCG4eoUJ8vu6w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-06-artificial-intelligence-denta
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Medical Xpress
@@ -26,17 +26,6 @@ images:
     width: 2880
     height: 2160
     isCached: true
-
-related:
-  - title: "5 Tips for Integrating AI Into Your Business"
-    excerpt: "Rushing to introduce AI solutions without properly understanding how the technology works and how its role will impact processes is misguided. Here's how to take the right approach."
-    publishedDateTime: 2022-06-14T05:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/428213"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
 
 secured: "oooB4PMLcmyy+FLJ6jt9YEMpQkoCrkVLxNzJIxZHYFA79zXNE99EKf+5JFXGLYgM81XMtgTobVFCwrXv6yW9pR7i78ZNbDTA1PcPeBKU3emdTq/Y4s0lf39lZSCSfpHPcCjt1NS8pk1eXnMt5L7qvG4QnbR7ahYBfSDg64nmy+HxFKHR3WTUD3CpHrPd1sw55e8fN41iIX0hERSW56Xu/yQdsCAPQQ8f8P6JEDFjr4M1Le9mNpDzqnW+owb0G6ZpkUtJJVQ40GzBy5QvhK6nGV5YeBi8vTL7Y5HRJgD8vjWNruTH/CsSbqUrA68A5iFFFuJGPNsDV5rs50MrTRSQlJiJYoBvqeEkv4a4EJB1BIkf2zDWF2FoBtbyWTp2+Vu+KE0L1lXtmX1UF2ow5Ol6PrWyWDcA8zE0tzMhVFPONrnRupkU1A2AEurNeleXkzfRz1xg1SEbKc6RpploNBdyiOJVBnG541WJO1M305qz0tDXhjl7Tcegnp4S+r891jRSoklx95dMGWHP5Avegq8s9Q==;oklqMc/hcWjT1Qps91tpcg=="
 ---

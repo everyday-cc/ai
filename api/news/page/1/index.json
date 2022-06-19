@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -406,50 +407,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-17-artificial-intelligence-shows-promise-for-interpreting-dental-x-rays.md",
-      "title": "Artificial intelligence shows promise for interpreting dental X-rays",
-      "excerpt": "A deep learning algorithm successfully detects periodontal disease from 2D bitewing radiographs, according to research presented at EuroPerio10, the world's leading congress in periodontology and implant dentistry organized by the European Federation of Periodontology (EFP).",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dental-x-ray.jpg",
-          "width": 2880,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-artificial-intelligence-dental-x-rays.amp",
-      "publishedDateTime": "2022-06-17T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-06-17-the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver.md",
       "title": "The truth about AI and ROI: Can artificial intelligence really deliver?",
       "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! More than ever, organizations are putting their confidence – and investment –  into the potential of artificial intelligence (AI) and machine learning (ML).",
@@ -779,7 +736,7 @@
       "originalUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1220,6 +1177,50 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
+      "title": "Why Artificial Intelligence remains a distant dream?",
+      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
+          "width": 1100,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "publishedDateTime": "2022-06-16T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "americanbazaaronline.com",
+        "domain": "americanbazaaronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

@@ -34,20 +34,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google engineer says AI chatbot has developed feelings, gets suspended"
-    excerpt: "A Google engineer claims that the company's AI chatbot LaMDA is gaining sentience and becoming self aware. The company suspended him."
-    publishedDateTime: 2022-06-14T05:17:00Z
-    webUrl: "https://www.androidauthority.com/google-lamda-3176080/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/06/Google-LaMDA.jpg"
-        width: 1920
-        height: 1081
-        isCached: true
   - title: "The 3 things an AI must demonstrate to be considered sentient"
     excerpt: "Everybody's talking about the Google engineer who thinks a company chatbot is sentient. But what does sentience mean?"
     publishedDateTime: 2022-06-14T21:55:00Z
@@ -102,22 +88,6 @@ related:
       - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/06/google_11042016_getty.jpg?w=1280"
         width: 980
         height: 551
-        isCached: true
-  - title: "A Google Engineer Says His AI Has Become Sentient, Can Feel Joy And Even Fears ‘Being Turned Off’"
-    excerpt: "A Google engineer was put on leave for violating confidentiality after he published a conversation with a Google AI he claimed was sentient."
-    publishedDateTime: 2022-06-14T05:54:00Z
-    webUrl: "https://www.pedestrian.tv/tech-gaming/google-ai-sentient-feelings/"
-    ampWebUrl: "https://www.pedestrian.tv/tech-gaming/google-ai-sentient-feelings/amp/"
-    cdnAmpWebUrl: "https://www-pedestrian-tv.cdn.ampproject.org/c/s/www.pedestrian.tv/tech-gaming/google-ai-sentient-feelings/amp/"
-    type: article
-    provider:
-      name: PEDESTRIAN.TV
-      domain: pedestrian.tv
-    quality: 46
-    images:
-      - url: "https://www.pedestrian.tv/wp-content/uploads/2022/06/14/well-this-is-grim-1.png?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
         isCached: true
   - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
     excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."

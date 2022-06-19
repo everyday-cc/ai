@@ -32,7 +32,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
         width: 1200

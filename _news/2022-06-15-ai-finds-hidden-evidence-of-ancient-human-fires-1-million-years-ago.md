@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2323899-ai-finds-hidden-evidenc
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2323899-ai-finds-hidden-evidence-of-ancient-human-fires-1-million-years-ago/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: New Scientist
@@ -41,22 +41,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-powered-archaeology.jpg"
         width: 1140
         height: 760
-        isCached: true
-  - title: "Archeologists use artificial intelligence to find evidence of fire use from a million years ago"
-    excerpt: "Archeologists using artificial intelligence are able to discern subtle signs of heating by fire in stone tools that date from about one million years ago"
-    publishedDateTime: 2022-06-14T06:00:00Z
-    webUrl: "https://www.theglobeandmail.com/canada/article-archeologists-use-artificial-intelligence-to-find-evidence-of-fire-use/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-archeologists-use-artificial-intelligence-to-find-evidence-of-fire-use/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-archeologists-use-artificial-intelligence-to-find-evidence-of-fire-use/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 45
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/HmeFUiafgRXDaYmYQ8hoOMoiGv4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/ZNLVDFKAFZEPFKUMXB3BLJFADA.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "oLrr6Tno3WDrbS0jZGTj9vMNH4AQ15iW4zuDn9iLJlSX7GNrEG9e/NBOuQQu+ZvU32C2yy9C9i2g459+eQC7+nJ9ro01OfzSoxXSTwyIlQYAmfjrcmsP5xrHdvtv1T4sn1iAKOplg0CTTl/vbiiU1tExWwu8dOeybD195LNaqR7igEz2C8ghTMeYthrbPI5TC/tmBRDn2BNxkXcvoE01gLrcJ006Cbwc3f1Fv0LcISvfoqDOloH0IiUEn0HSmlZAEIhgraIsUUKrF4ux/VWNUhVPG4wFOWRoJyBm1qGUYXpwbCQFHTxVLRw6GEeDnm/0aUXaoL1GtFLpTLywizAK9rrFW9p0fAxN9aRfA2I07AQRNg9yeXvt1PWhZdo+ROif8bIyhfV4Xmqd9dZBeXnXl2hUa6OA1dpVqPIwZQmPeyZPUkIVjqRYzA9CRO21y5acQ+ezeV+JoHXM4bDkOYH6Wv9J2zUKbc/V2HsxqSIE1w+DumFFL7hsUa474/QdbgRWy48fptOESpRE8V/KN88fCQ==;blwwCALPrVRwD+SO4jBmVg=="

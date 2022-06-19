@@ -2,26 +2,26 @@
 category: news
 title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
 excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-publishedDateTime: 2022-06-15T17:22:00Z
-originalUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-webUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-ampWebUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-cdnAmpWebUrl: "https://www-actionnewsjax-com.cdn.ampproject.org/c/s/www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+publishedDateTime: 2022-06-15T18:22:00Z
+originalUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+webUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+ampWebUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Action News Jax
-  domain: actionnewsjax.com
+  name: WSB Radio
+  domain: wsbradio.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+  - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -110,6 +110,6 @@ related:
         height: 641
         isCached: true
 
-secured: "KflKpgpbZQHh37RfHqLWR5WcBAfGFxvoyCEvyNvyG2p9YE8Iq2UYCJ1eDTpYjr2yuCXVB5rZt5Yf33uFaHFbAEN0tazqxSpmBDJ+BHZNjrVRi6dCyzdZQq2ycMtpiBPkhupBD0XsZuxw1h2XbRxGKcVGXEUKX+Kw/T4EJSAKY5+Uk2UMvctzPa66w4O3StXWqgm6o8kcRgCcoRlqX4TV90Pzmf4oy1QFlBbTu1yA1mHkLhZ3t0R+pkDzqLQoHFVo+vA5axJAWK1b0q4Fnczsu/u7pW5pNAVtqKYr34k5uthEGV+Jn9qykNccPABXKLvfsFcoAaefnaHmWEe8xnqUYQwznl/2fetbYCAjMmJG+fU=;KpL7FdnHsn/LhbvgkGLzQQ=="
+secured: "VIAcuEua2BSSf+cYtLElJvcyueS39uSqB+3Q1DwaFYAjUPxNd5mzJf05AIMHR+kY4w7w0xMu5KC508QDKYnQuL076hvrHVQktTMRksCtdxccYo1k+spP90DdompZZSwBBU1TOwnKYSEKG6KpU9ww7nfG+DVIK8Havc2ePKNHDdWjpZ4P4lymlzb4tG0g6VKxksL5cjjk9D6tJMDEY28H/vGG8OpmBG8JUCC7y+aHFt02Cx0dOxrGrgsYPMPk5vUDeNqvumFY88DKHAIwYWdCBWkVkyxIQoSpBGj9sDvudIjE3QDcEQ0DOZkqn/QAA4TeAbd/t8/8NZpm3c0ltMv5pmmFFWO0xS2QECHcY0YNHWw=;7VRlkTCqzwkupBk4lkWBtg=="
 ---
 

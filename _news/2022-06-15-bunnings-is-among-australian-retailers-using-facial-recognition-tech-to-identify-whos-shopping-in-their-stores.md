@@ -216,20 +216,6 @@ related:
       name: The Toowoomba Chronicle
       domain: thechronicle.com.au
     quality: 38
-  - title: "Kmart, Bunnings and The Good Guys using facial recognition technology in stores"
-    excerpt: "CHOICE has discovered three major retail outlets in Australia are using facial recognition technology and shoppers remain largely in the dark about the practice."
-    publishedDateTime: 2022-06-14T06:53:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/kmart-bunnings-and-the-good-guys-using-facial-recognition-technology-in-store"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 35
-    images:
-      - url: "https://img.choice.com.au/-/media/905695f483e94e72bacbd1796f131d34.ashx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Three Major Aussie Retailers Caught Using Facial Recognition Technology In-Store"
     excerpt: "A recent consumer group investigation has found that three major Australian retailers have been utilising facial recognition technology without informing their customers. Bunnings, The Good Guys & Kmart have been caught out using facial recognition software which takes facial imprints of their customers and keeps them on file for future use."
     publishedDateTime: 2022-06-15T02:30:00Z
