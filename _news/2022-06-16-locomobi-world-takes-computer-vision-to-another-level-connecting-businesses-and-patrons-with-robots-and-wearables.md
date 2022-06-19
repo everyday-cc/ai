@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-16T14:32:00Z
 originalUrl: "https://ktla.com/business/press-releases/globenewswire/8573291/locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with-robots-and-wearables/"
 webUrl: "https://ktla.com/business/press-releases/globenewswire/8573291/locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with-robots-and-wearables/"
 type: article
-quality: 18
-heat: -1
-published: false
 
 provider:
   name: KTLA
@@ -18,28 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://cdn.newswire.com/files/x/07/21/67e0eaee87e5d38f144ad75a8379.jpg"
-    width: 512
-    height: 512
-    isCached: true
-
-related:
-  - title: "LocoMobi World Takes Computer Vision to Another Level Connecting Businesses and Patrons With ..."
-    excerpt: "TORONTO, June 16, 2022 (GLOBE NEWSWIRE) -- LocoMobi World announced today that it has expanded its world-leading computer vision systems to better enhance the customer experience as the consumer ..."
-    publishedDateTime: 2022-06-16T14:44:00Z
-    webUrl: "https://www.register-herald.com/region/locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with/article_413d7648-7c5d-54f6-9ba4-d1000d82e2c8.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/e/1f/e1f48c26-e1ba-11ec-8d3b-73678c41f02c/62977e248d916.image.jpg?resize=300%2C500"
-        width: 300
-        height: 500
-        isCached: true
-
-secured: "HkOJjbNfXa5XfennCsZBsxc+QzrQCIjADeEtyLKBVBQ8vM25AWXEiWcWG6Tbvd7TrohSQajN157mgogUTxM4wCVnFD1ahGDoR1QkxLTOCKaDUJszk4QKzcNNvzxZDFoADWWfSAqp3yhQ1+IV8dpfpkUP2YRM03SlPyvdllNa8AxpTLC/6Jpj/IItiBQOKaqzbJ0neWKmykG4W2k2yUyXfs/Q0vBOhCZm9clS6229aKodKLTC+yCypc6UOunPvnA5gRmqDbSoTIsabQl/OZiEckM/s45s1cEHz938c59IplEWzLQIl9Snyck63XSQYCYRpTse3ftgEHszFJ8bxdMwsuHr6wy0NPXaG6sMMUeJG3E=;Zu6CuSWQIcAmuzVqYejTgg=="
+secured: "UAVWC9Fg2FLvCiBaK0UoESbLqQv6ZbOjz+lLK+5GG8JpYBVh38a+fku0FKLeNHSTZe4NoyyqFEkBiKS/ASTTgSZg6qS3YLg3nJJN0Ri0j+e9n8HiRmv/6oDgpnZlCowBsPf+Hc6+dKp4Iel9E5nYaNiaC9zMi7XyQRMvmIEupN9jOeB77o0H4aUmr/om6UxfqGDkfeP8/HJsCEw7Sio5FPKgmx6Z9Xp4IFDu1ig7NO5cHTISQg36amNsH/tuCelc1a4Y8BRYq+j3Xi0793dknfUR5xbV9ZAXckKNyViL7nFFgPN8Bb30glzXBsWNTwOKTjQPhPe/nRZZnB1u5mgvhC6epDCotQ9+K81f1yf663U=;ALeOyHyI/2x9WJgpb4eMRw=="
 ---
 

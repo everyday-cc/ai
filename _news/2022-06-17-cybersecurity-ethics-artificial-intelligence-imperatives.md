@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
@@ -49,6 +50,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "B5jjdY1qzxWp1uu1Dcj2GbbVwh2aVAWA8KdFXO8M6yeoGgbYKjxmKmEosXOQe3WnAQk2X5i7OLYHUdSCgJkjZ9coD3m2dVpggZdtUZDv6V+VZNS9pdVAnYHH485qJc8gM2ZUtbjCiZ1aTs8gqUT08SdVtAhdkj9Kbw6CnWqXDqvAq+5QNF8SWoA8/j+7MlYkiKShCFY0kp3tHX9LBBT4hq2TPDq5I7pG+wJo6PnGcfpFWkMPWWT5TZ8gR3eqWSQvGBSw0+8TeBr5XkYm5Np030bFlIpu+PNz2K6EOYTsTjhPJu0QrXSqcyloUkh+JYGcyxN/Psg4JD1olIw5QG5OId/ZggXjURfMssjGQP/ueKQ=;a9MUjjbDGNKdX128QxSjtQ=="
+secured: "3QwXdavLBBL3BDFZdcWFtIZgrrqqsQpZ2raSQ/H00FItAgWGowc3torokFfAgtNlGiHOSfUZ3hudhgyLWKIxbnH7Stg5ordJUbOYfPZ7oS1oRJtHpf0knnwnEib0bLEEbdPP/acpdXyC9qi5Pfk+CHwJTkHjiCvi/OeMYCnnn8Ytf6dKmzoRod5E/chdD4p6P2mi53cS4phXyXHZoO6fAezILk6TLjh4K4P9aTYV1qgpQ6/aCm9ETgs8cSVfKPUI1DLbX7t6yfYvCDR5GcdDM02jnp3WyOSqFMkALkgYDiKBETHLG3Q3A6Le+KdUYyyG0+HOh5KfF6H2imBbQqQfdukmMpMGm2Eld91xPFufeuGB51/OT+n3Vu1hObCHUGMBPkFs7QscZ8GQodcUiYXGf9iqM6DL80qY1a4hgfbm7jZNaL3tbR4VSPzjT0usGk77rm4js1MrbR5WvM8I6GjrH5dhGyVE+3VfUE1QokUieY1TVc26SSMdpQCp+SVqs+vZq+olSGSx2T7EMasOyhnzzA==;EGtO+jevJezdyDunVtGqCA=="
 ---
 

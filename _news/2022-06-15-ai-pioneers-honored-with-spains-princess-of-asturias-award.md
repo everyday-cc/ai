@@ -1,47 +1,20 @@
 ---
 category: news
-title: "AI Pioneers Honored With Spain’s Princess of Asturias Award"
-excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
-publishedDateTime: 2022-06-15T12:05:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
-webUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
+title: "AI pioneers honored with Spain’s Princess of Asturias Award"
+excerpt: "MADRID (AP) — A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias ..."
+publishedDateTime: 2022-06-15T12:29:00Z
+originalUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
+webUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sioux City Journal
+  domain: siouxcityjournal.com
 
 topics:
-  - Google AI
+  - AI in Autos
   - AI
 
-related:
-  - title: "Princess of Asturias Award lauds advances in AI for 2022 edition"
-    excerpt: "The 2022 Princess of Asturias Award for Technical and Scientific Research recognized the work of experts in artificial intelligence Geoffrey Hinton, Yann LeCun, Yoshua Bengio and Demis Hassabis, the organization announced Wednesday."
-    publishedDateTime: 2022-06-15T12:02:00Z
-    webUrl: "https://www.laprensalatina.com/princess-of-asturias-award-lauds-advances-in-ai-for-2022-edition/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 21
-  - title: "Four AI Pioneers Win Top Spanish Science Prize"
-    excerpt: "Four scientists, including two Britons, considered pioneers in the field of artificial intelligence were awarded Wednesday Spain's prestigious Princess of Asturias prize for scientific research."
-    publishedDateTime: 2022-06-15T16:55:00Z
-    webUrl: "https://www.barrons.com/news/four-ai-pioneers-win-top-spanish-science-prize-01655298007"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
-
-secured: "xr8Jc9tS+42QpXnjeBuTW53jRTVcKOYusRiEK9w4AwXepmbiuMXjCSarwuf8BI7QXHiozEQBinty23GhfjAbA1Jkl6MjnJIxztL6JHmb2uU18BcCrCTdEH1B4smxR2pII0AltLOFBVNldW9v83PKZptLlxEPmRGvPCTnr2qBqaBg/3MJkU/5wAI8gvW3plLbxnd/u5DXsyhnNDNFhwDNNumsWwwFREo5UYs7p8X87rOumnI0SYVghELaCXGuknsPmdCxvzty5dtd9vWZX006zImDFzOihnPME/REZDqoEKiUrrv0kgnudYdm+qhPytSRDY5uQzubmHhbzEGx/PRa791cBggtrEARbJjN5yUhLzk=;GGuop/1vAOnMNbA3jaSERA=="
+secured: "1gMedy+VRcVqyQToAiO18CFU67YO0uuzYmlQhZ/JvHwJYjvOcNyFISjUJMVjKrDcMy1U5oaWjDbhBDwvokIC06JC+5xEzvHSI1h2xLNnXZ1Oe3BmgsHpv4WGHq/fnzcZm+gEtLCjQm3v8BtN4JNexs528E+0MgS3HnC2pC4Z6aSWMK4b/yhRvxxGNGHqHwz0PI7m6075xU1sCZKti/2Ds1zYqoJ6PmU3x2CzyFGRJYjW3XvVexZviNUKDZcxJ0fvEwhNIk+2jrF4teswFfaLJC3dqYUEbiNzhzzY/hdbhOn13hIpcIjh6w4cR/NM1RXOgBmnSWcry8AuCpPDLUGO0SVdEWYTOliIDMrOzSIJ06U=;KmB2B1yFTGjJTJ4tPgtB5g=="
 ---
 
