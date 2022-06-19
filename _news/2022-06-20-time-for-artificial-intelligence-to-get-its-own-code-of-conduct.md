@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/y/n/image.related.StuffLandscapeSixteenByNine.1420x800.24szi4.png/1655648420696.jpg"
@@ -23,6 +25,6 @@ images:
     height: 798
     isCached: true
 
-secured: "9o1Wo7uyyY804wpuoxCpbCrCrJ4UrRl9uEHLdnlwB1fHfFeu92cChA0SBilxfWyq6iLeIWErr/qSN+njPsXo8RvCCOuCUwiT5twsUYlFKEvB3jy1TnMp6MVHfxri6A6H7itsHmQIuT1vioaq/3ue88kRaiVgpC4ZQU4CEfM41fOKV8Qq51bftADw6zBsw9GD+2qJvHlVA+mWE1z9oToADLuvUpC1dbPvPkCSJ+mVPQ2HIcI7tgK3ksZBcfjC7XdwZKe31447FQf3zgS6JAM45kmZQ29CRIF3K4n8yjiTMknAhypseG4CO4bDX7KXElH7QUpGUrBOgTDz2I4nsf/jAhRt0r8U0Acw9sR4tRCMPO4=;RAlx4Z4430SiUeRFX6oPbQ=="
+secured: "pQ2xzeuT1m9/kffFGIpSnwr+MbNH+wa7JG01h+W4f/kl9Vc8Lp7cv3P+4ueJqfMpvnVG48dUNr+4hNT7Xn462R6U42yYWd5hiN23tjEmtYZzHhTXqyGaSvjoJjONSvSeiSdG2Btfrp/hAVYlc+emxDKPR6DhCuJwlxlaaYO4/pp+UKlmAWLoFQQmSnHDhGxtCNIvCz26ctYqx1duYpo10GdMxqAgZf/5mMe/2CFTUAe4O3fLECZqWXB1wlgcL9cTtmHYYQmxYLOUJhhEY3svXmdIURRuOSk0RHtFfbtuCWhoGuTURoR7Opp5Z7ayOi6WyJoBruKdNYXrZMlXAWbPfFtgJkouUEqC4hMfWLBZM4skKabWjzu6EgPmlpcYoTkr6B8+DUgEbaVmcLZRgswRoE6/AEzOxezl+cIOdABHY8KTk1obXmmQ+Z8RGhv0mabI94hfg8UJtWyID3BOii2F2iAUCLjTMxGQVBdQVkSuUeh2hf3Gs7NAoNTy+RIXgQIF7TOm3+ZGtOmmFZdYc6Twjw==;sZMgBz09TsCdxjqeohLYAg=="
 ---
 
