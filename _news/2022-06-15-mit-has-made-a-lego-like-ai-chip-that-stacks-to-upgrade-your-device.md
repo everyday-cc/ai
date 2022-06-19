@@ -9,7 +9,7 @@ ampWebUrl: "https://fossbytes.com/mit-stackable-ai-chip/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/mit-stackable-ai-chip/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Engineers Build LEGO-Like Artificial Intelligence Chip"
-    excerpt: "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip — like LEGO bricks incorporated into an existing build."
-    publishedDateTime: 2022-06-14T15:14:00Z
-    webUrl: "https://www.printedelectronicsworld.com/articles/26888/engineers-build-lego-like-artificial-intelligence-chip"
-    type: article
-    provider:
-      name: printedelectronicsworld.com
-      domain: printedelectronicsworld.com
-    quality: 54
-    images:
-      - url: "https://idtxs3.imgix.net/si/40000/9B/E8.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "C8MhIood7crGIikgfNXYvwJ1Ox+rLnSwejHz8gMR+V/bQmMnysG90lmvYX6/IbUY9p77DpjFutyGl+U05dWUEPkIEIHRq7mBPfY37EALVac2ZIMf9dGBWRnyjCbLgQAypHe2E8bXX2hRQotLRmm4KCP72nHV3t4fCOTXvUjF+YW0J9QEPv+fNSg7Y/bAy71nPIaFER27d5eQz9np1v7yuvanlP8vzsNvSqS3fcP0mt8jVoLLJ6n7Ugk2cyn27d7KmwQmK3oJXMQ1olWKPjocpfoDAr/qZTTCMOK6RMRFGr+EXiAXkPXk8GNLY8zikMl9Q2A79EpwN0WJEDdCSK6giBDxnInPd3hX2mFNipyLbPhsGrNW4zu7jTNzWl5THiaP+La9k4vyly1hELYpVs/pdnYrhjYvJ7BotJ71g330jeRX1fc6y3D58xXvkccN+jghZecMeBn3zVjVQqbu6xgnz2QJIsbbWf+Rcd9skwhzd67nHTNweOFJ6UR/AMQHVPyJi2aZkNxrldhiJPSPOI6w9Q==;hU6ESMkuZLUOC+w9zB8Hfg=="

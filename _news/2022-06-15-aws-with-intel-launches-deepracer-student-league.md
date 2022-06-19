@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/business/aws-with-intel-launches-de
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepRacer event in Auckland"
-    excerpt: "With the Birmingham Commonwealth Games kicking off at the end of July, the New Zealand Team want to give Kiwis a 'shot' against Valerie Adams' and Tom Walsh's personal bests. Video / NZ Herald Cabinet gets a reshuffle, the aftermath of the latest wild ..."
-    publishedDateTime: 2022-06-14T17:01:00Z
-    webUrl: "https://www.nzherald.co.nz/business/deepracer-event-in-auckland/DQNJDJTGQ6UCOUNRT2BMRLSXHQ/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 56
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/tD7PBYtlPIaIpFhMG_Yvid9BeS8=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/SAWQ5TEXN7CMY6BNHWMC36XOPE.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel Finally Launches an Arc Desktop GPU, in China"
     excerpt: "Intel has finally launched its desktop Arc A380 graphics card in China. A US release should happen later this summer."
     publishedDateTime: 2022-06-16T10:45:00Z

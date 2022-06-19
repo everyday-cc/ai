@@ -133,38 +133,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
-    excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’ Bunnings, Kmart and The Good Guys have been using facial recognition technology in a bid to crack down on theft in-store,"
-    publishedDateTime: 2022-06-14T16:30:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/92f9b66ff93cb5d8b314b9b8a65f42d30e6c36c4/0_0_1518_890/master/1518.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8b6c36542299078a01a3ae345f2ec0a5"
-        width: 600
-        height: 352
-        isCached: true
-  - title: "Bunnings, Kmart and The Good Guys using facial recognition technology to crack down on theft, Choice says"
-    excerpt: "Consumer group says use of technology at major retailers is ‘completely inappropriate and unnecessary’"
-    publishedDateTime: 2022-06-14T17:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says?amp;amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/15/bunnings-kmart-and-the-good-guys-using-facial-recognition-technology-to-crack-down-on-theft-choice-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/92f9b66ff93cb5d8b314b9b8a65f42d30e6c36c4/0_0_1518_890/master/1518.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8b6c36542299078a01a3ae345f2ec0a5"
-        width: 600
-        height: 352
-        isCached: true
   - title: "2 ASX companies busted for sneaky facial recognition on customers"
     excerpt: "Three major retailers are accused of collecting the biometric data of everyone who walks through their doors without them knowing."
     publishedDateTime: 2022-06-14T22:34:00Z

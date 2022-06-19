@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-17-best-machine-learning-platforms-2022.md",
+      "title": "Best Machine Learning Platforms 2022",
+      "excerpt": "Machine Learning Runtime delivers scalable clusters that include AutoML and other optimization frameworks. The platform also supports collaborative notebooks and a Feature Store that simplifies MLOps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
       "title": "Why Artificial Intelligence remains a distant dream?",
       "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
@@ -185,7 +238,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -635,6 +688,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-cybersecurity-ethics-artificial-intelligence-imperatives.md",
+      "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
+      "excerpt": "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally",
+      "sourceUrl": null,
+      "webUrl": "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "originalUrl": "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DataBreachToday",
+        "domain": "databreachtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1095,100 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-insect-inspired-ai-for-autonomous-robots.md",
-      "title": "Insect-inspired AI for autonomous robots",
-      "excerpt": "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/insect-inspired-ai-for-1.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
-      "publishedDateTime": "2022-06-15T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-1-puzzling-reason-ai-may-never-compete-with-human-consciousness.md",
-      "title": "1 Puzzling Reason AI May Never Compete With Human Consciousness",
-      "excerpt": "Two philosophical thought experiments lead us right into a flurry of questions surrounding the human mind. You decide where you stand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/",
-      "originalUrl": "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fee34cb3e5bfe40704abd44746e99c210a4e269d/hub/2022/03/23/643a310d-6145-4508-bddc-0dbf07a04058/hero-image-desktop.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ webUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial
 ampWebUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
 type: article
-quality: 72
-heat: 172
+quality: 74
+heat: 174
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/11/kama.png"
@@ -176,6 +177,6 @@ related:
       domain: dentonrc.com
     quality: 17
 
-secured: "aN3lacqFRsYYAXx8bn7ITKOBPppQZt0RCJoWVwraijmjFo/zfXUVVl/IEJ0xp94I1xvc/Y5v3hmux1gapZbVGhIqHnto4Fi0KWFpLSw/uOELkG5gF7QhDwb5x45opOZ71ikK1m/1dgR+nirgVO7iAzhhsesEZyysUMY98WL2KGr3uLgdCB8NvfGBsr/Z92gV/iGBkhvR/qkHwBa1rIGx6JJ7aA6R7XUDW5AzAef+eNg3fF7MZzc8L0A3lf531vLOrsyxoY2DG++j5y5mwZOjZb/cK6EfLJhvAXzxUvcthoTsmrJaurfEddzRoRyYhNZR9xdHJFhE3bhq4rPJqpaAT+6KF8oR9wY5NEaPCApiMPw=;vAvinOF4u9Gz0lunGJcdsg=="
+secured: "fCnJ7r2xJGpP9HiRdeQGX+7Oy6wxUDkvMF/gCMbrPZIEsqIViSxOk5FU2V8AAA4K6SHp6VQvZPw+CS7BZfNVd5RQDM9hsagZIpprHujf6711ZqZf8MMmoQLAbp5vYC/psVgfWOA+OhMtvDPFbo49YQslYDDMUHExqcAoa+kL2owTSwJk8GxjW5KntIphtOVzVR7Zr7U+2C04RazqXVBj5uo8P8dlNYMPqZ9tLulsmCdROdBn3jUZYlpVfJZ4YrS1f5+gshIM8BeqmWVmH6Uyg5qee4nHX9jnVLFSeWbMl0h2QEbYYMnAtmayMlBAo6qtk/1YGizYHM/CzaYkLbKahztV8gp5Xl5+SwYtF7j8+maDVuQifE1RQsoPPER5DkDgkNzt02FlVXd2D4VBq1JpG1FUWBJhYFpPTqsmwlAK0qRM3fK6kppExyxqU75asWqH+ZLmqIqGSOBDnTEclksKVuuJVX8li/53RZ8kN5oYIF70j1IgH0tRSo9VIz0yhN5V6uYHZseGua/XGpI77cOC5w==;8PyyS5tsEZU5xrUaAVLvAg=="
 ---
 

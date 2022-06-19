@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five of the world’s tiniest robots"
-    excerpt: "Robots a fraction of a millimetre small could swim around your eye or bloodstream for medical treatments in the future."
-    publishedDateTime: 2022-06-14T15:57:00Z
-    webUrl: "https://theconversation.com/five-of-the-worlds-tiniest-robots-184790"
-    ampWebUrl: "https://theconversation.com/amp/five-of-the-worlds-tiniest-robots-184790"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/five-of-the-worlds-tiniest-robots-184790"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 59
-    images:
-      - url: "https://images.theconversation.com/files/468754/original/file-20220614-12-4k2fet.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "6 of the Most Interesting Uses for Robots You Might Not Know"
     excerpt: "Today there are more incredible uses for robots than ever before. Innovators and inventors worldwide are applying countless types of robots to fascinating"
     publishedDateTime: 2022-06-16T10:00:00Z

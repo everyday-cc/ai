@@ -28,7 +28,7 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/11/kama.png"
         width: 729

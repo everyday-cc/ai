@@ -40,7 +40,7 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/11/kama.png"
         width: 729
@@ -180,6 +180,6 @@ related:
       domain: dentonrc.com
     quality: 17
 
-secured: "NAl6yawrzaMuxM0T5T4vw1XmsPzqo3eCGE1uWHTzdS1bDq8uYvFZEExB85/zrYeubw4nCDry2hrPRQt8RNkh4FZO46Y/X3TOBQQc2tpN/KSMB5ZUr5dhu2lT/9Ok9EVVIG4rlCdi4RxMPD4or84CT0ykTbJAGaju6PYe2/vf1OVTyf3olAQZON0ioUyjNLb/6F7di4dqTYNEbIJGTWbkN4uwFPlGf5y4ZkPiaQzqtXNQXdUctV0uSgebC/xRuUeCtRHsVEcOtL2QeEP+WAKsbst/d6nFKxY71AWPmP5/dc1MhT6wJGuPr+1tamrE897wwMjt5aVrTei1IhiwF1IxE8iG/L+dSnr7InCJrlbYxtI=;4sWZ30p6OkiyjjjMud1ylA=="
+secured: "FdQ4YEFFDoqc/HJRsS4G1KXhuYjmL8jdD/x8gyISP/ljpP4MyGMQtdHAcapm0zG8tu9jAZDLHJOE5iNrCHSy3hi0UAE5NhClyjASumBsKXfqnQph/8FT+D7qj5m6kGYgpKumfcAp/tjqqM9phFJ+rZjvjBo/ZBSDn0N9V7RHSXJ7wBJA4UO7OY1K5ApXer6ZqT+k8/m3LQkIMzepFXozplhW3KExGc7NocONN0QU4LzcIhOlJCR06RrVyojmQJDmS3/RVCHMQPrkbKL73OSlmubyvj7+4rTKIOWJMTfi28ZILrt7Hc1fxN4stddjHrmnpgpz7Ej3dmGuxY2zMhE8FF3+pLb0NhLLZkuugG+fEUpCHjM8mHZTOg3NrViv5w34YXLhuRxphoSOiz3B8ZLr+lbGeO1rv58arHN2oQNpH18OVkgLmaNXBZBmMGMaXciSfMmISk9QQRknB90/VVa52uZyFbc9U5ZJsNvDtufSRNf7jtOo6Y1x8WcLnboc1MMxAP1B8x2pVgNtMWhZ5/S3ig==;t/7Us/hOIEypzYk3oBD0LA=="
 ---
 

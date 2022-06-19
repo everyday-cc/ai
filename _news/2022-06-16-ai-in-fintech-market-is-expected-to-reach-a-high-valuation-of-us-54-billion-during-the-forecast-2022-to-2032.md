@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expecte
 webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Why Machine Learning has huge potential in Fintech"
+    excerpt: "Aaron Holmes, CEO and Founder of Kani Payments. He discusses the role of technology in data management within the fintech industry"
+    publishedDateTime: 2022-06-19T08:00:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/why-machine-learning-has-huge-potential-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 41
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/e3c89c609a1197b6eaa187b6229af410:fc8174b75c3509ff04591549ff1c6714/gettyimages-1205428317.jpg.jpg"
+        width: 1800
+        height: 1011
+        isCached: true
+  - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
+    excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
+    publishedDateTime: 2022-06-17T12:42:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/emerging-trends-in-financial-services-and-fintech-artificial-intelligence-machine-learning-to-define-future/2564593/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 18
 
 secured: "YLeP7m0AkpEjm5WHhdYxAgcAzb5oKOmmqj2AuE2Bng3ijTPybI1YbmGqf6TGzxtidjqC44cdQIDf6HhvH6yIv+IusPpyN71a4F++l/LfHTlXEN6sood9ZQ+u8czKJ0qGyh82U5GcQcAWtFvUCADpk69+oh4szHZfmM+zCmUxdmNRnTZcS5XMfg46u+6rF/PsMVVwEjYI1DbYos1ZYYVNvwMa/L46YzMWW7ICwMI1dXpIvjwYb/0TcbPRlY5RpXdllNfmmahexbe54OEdjnWwjinvQZvTF36bn1BHZTal+PNMdgsiaDHGn+reO1kF+T78WyTbZdDHayFzdny7Boitn+LPyKNyk0RwDngu/bw09rw=;s0fEzr7BZpy55D9tsC2kbA=="
 ---

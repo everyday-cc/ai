@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -148,6 +148,50 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-cybersecurity-ethics-artificial-intelligence-imperatives.md",
+      "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
+      "excerpt": "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally",
+      "sourceUrl": null,
+      "webUrl": "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "originalUrl": "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DataBreachToday",
+        "domain": "databreachtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1325,49 +1369,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy.md",
-      "title": "MCRI launches new study regarding the Apple Watch’s ECG app for children in cancer therapy",
-      "excerpt": "Murdoch Children’s Research Institute in Australia is launching a study to validate Apple Watch’s ECG application in children during and after cancer therapy, according to MyHealthyApple. Murdoch Chil",
-      "sourceUrl": null,
-      "webUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "originalUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mactech.com/wp-content/uploads/2022/06/Apple-Watch-ECG-883x1024.jpg",
-          "width": 883,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "publishedDateTime": "2022-06-02T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

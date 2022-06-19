@@ -2,9 +2,9 @@
 category: news
 title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
 excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-publishedDateTime: 2022-06-19T00:37:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?amp;amp;amp"
+publishedDateTime: 2022-06-18T19:02:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c"
@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How to use DALL·E mini, the viral AI tool that can turn any prompt into a series of pictures"
-    excerpt: "DALL·E mini is an artificial intelligence tool that tries to create pictures matching whatever you type into it."
-    publishedDateTime: 2022-06-14T16:45:00Z
-    webUrl: "https://www.businessinsider.com/dall-e-mini"
-    ampWebUrl: "https://www.businessinsider.com/dall-e-mini?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dall-e-mini?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/62a7c3cdac534e0019331a0d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Dall-E mini: how the AI image generator makes your meme dreams come true"
     excerpt: "Dall-E mini takes its name (and a lot of its code) from OpenAI’s software Dall-E 2. The team behind this mini version are attempting to replicate OpenAI’s results through an o"
     publishedDateTime: 2022-06-16T06:00:00Z
@@ -137,6 +121,6 @@ related:
       domain: dallasnews.com
     quality: 15
 
-secured: "cA440tf2LaF8zt+msjrJdh+01V/nPSSZlWJAWBTP2lKZgoFsbG/L5Ln6GbWr3bt/NOa+WtYpB+8bvElzupOilm0ajSLKqbR3Au1487+1BHj7xqX4rVim/8T/fjYuUjujiRnQwpo9hqD1Esgm0Dwnqh1H2yocPsxfvqStrDVdQ+PLCSGCeEn7vrHREs3dauxJ023fCzhvyGYlVAGbcO3FHnB+Emy4zFT7OEg7UyrN4YmQjDOcuei0fd/5el3mSRnpYS/3mHRj739cF8HAsKhCIIATESVpAMbMNfktb/SCCg1R8pbaHGxKUK6TDIpUJjd7TY/T6HRXGtZf2bonM4CwSXXVRCfN5gUlBsLaPtN4O2k=;aZ0K+nkw8Qt5iMKIyxPl0Q=="
+secured: "EtnUQKX0eFmj6IrgavBVOBYDgPQVX0Ea3xqto1QN3Pzk9hHFjVhveCv2mMs5pBkpoEV1n2D+UWWDjXcOCgx2EEzfJIIiHR1xhHrmQLvUV0vkVgx1SzbMQXEwkjTHfYM9ot31OFAupK0eEuUMvJnRFBrKVgrPQDUhh/IQ6bGJeluVGAyZRa4AJvkhwYwU9Y1wtWuCCLDPIezXBU955Ps5drp8aY44+a7V96lBTJ8/Ii1HiWYXue7vZKhDUF0QcHnIeQ3CgSo3gMAj1VfihJGGZibAjqesRBPgw7pHtCxtruhX2krMFF1Jp3/VEW9PBGwDCOp/AfVZeH6Sli8m98Phs2ss6RlUzhrq/6yUARZy/64=;M6CddIJ/VyI/eUK+lkfafQ=="
 ---
 

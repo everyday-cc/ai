@@ -2,6 +2,112 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-13-sentient-artificial-intelligence-have-we-reached-peak-ai-hype.md",
+      "title": "“Sentient” artificial intelligence: Have we reached peak AI hype?",
+      "excerpt": "AI experts wonder whether discussing whether LaMDA should be treated as a Google employee means we have reached “peak AI hype.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
+      "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 278,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1311426965.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
+      "publishedDateTime": "2022-06-13T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-2-artificial-intelligence-growth-stocks-to-buy-on-the-dip.md",
+      "title": "2 Artificial Intelligence Growth Stocks to Buy on the Dip",
+      "excerpt": "C3.ai is a trailblazer, helping companies across 11 industries access the power of artificial intelligence. Upstart is using AI to improve the decades-old FICO credit scoring system. Throughout ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/",
+      "originalUrl": "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/684716/a-digital-face-appearing-amongst-computer-code-and-a-digital-background.jpg",
+          "width": 2102,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-global-deep-learning-chipset-market-2022-industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028.md",
       "title": "Global Deep Learning Chipset Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028",
       "excerpt": "Jun 13, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has managed a study on Global Deep Learning Chipset Market for the forecast period of 2022 to 2028. This report also assists the ...",
@@ -1086,102 +1192,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-google-engineer-on-leave-after-he-claims-ai-program-has-gone-sentient.md",
-      "title": "Google Engineer On Leave After He Claims AI Program Has Gone Sentient",
-      "excerpt": "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
-      "originalUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 679,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/62a56658250000461b473745.jpeg?cache=IyXMvacHho&ops=1778_1000",
-          "width": 1778,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
-      "publishedDateTime": "2022-06-12T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-how-can-artificial-intelligence-be-the-next-big-thing-in-marketing.md",
-      "title": "How can artificial intelligence be the next big thing in marketing?",
-      "excerpt": "We all know that without a planned marketing strategy, a business cannot thrive. But, the marketing industry is going through a disruption, and as a result of this, we",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
-      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75476733.cms",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

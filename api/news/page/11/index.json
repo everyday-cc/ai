@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-08-alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks.md",
+      "title": "Alphabet's Waymo, Uber Freight in deal for future self-driving trucks",
+      "excerpt": "Waymo Via, the self-driving trucking unit of Alphabet Inc (GOOGL.O), and Uber Technology Inc's (UBER.N) Freight business on Tuesday said they signed a long-term strategic partnership that would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/01/Diesel-trucks.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html/amp",
+      "publishedDateTime": "2022-06-07T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-cognitive-therapy-relaxation-training-both-beneficial-for-migraine.md",
+      "title": "Cognitive therapy, relaxation training both beneficial for migraine",
+      "excerpt": "For adults with migraine, migraine-specific, integrative cognitive behavioral therapy (miCBT) and relaxation training (RLX) are both beneficial, with no significant between-group difference seen ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-therapy-rela.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
+      "publishedDateTime": "2022-06-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker.md",
       "title": "How InfoJobs (Adevinta) improves NLP model prediction performance with AWS Inferentia and Amazon SageMaker",
       "excerpt": "This is a guest post co-written by Juan Francisco Fernandez, ML Engineer in Adevinta Spain, and AWS AI/ML Specialist Solutions Architects Antonio Rodriguez and João Moura. InfoJobs, a subsidiary company of the Adevinta group, provides the perfect match between candidates looking for their next job position",
@@ -1037,92 +1124,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

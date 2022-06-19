@@ -74,26 +74,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How to use DALL·E mini, the viral AI tool that can turn any prompt into a series of pictures"
-    excerpt: "DALL·E mini is an artificial intelligence tool that tries to create pictures matching whatever you type into it."
-    publishedDateTime: 2022-06-14T16:45:00Z
-    webUrl: "https://www.businessinsider.com/dall-e-mini"
-    ampWebUrl: "https://www.businessinsider.com/dall-e-mini?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dall-e-mini?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/62a7c3cdac534e0019331a0d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
     excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-    publishedDateTime: 2022-06-19T00:37:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?amp;amp;amp"
+    publishedDateTime: 2022-06-18T19:02:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
     type: article

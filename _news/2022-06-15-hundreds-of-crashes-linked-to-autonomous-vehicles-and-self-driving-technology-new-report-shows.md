@@ -59,17 +59,17 @@ related:
         isCached: true
   - title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
     excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-    publishedDateTime: 2022-06-15T18:22:00Z
-    webUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-    ampWebUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+    publishedDateTime: 2022-06-15T20:22:00Z
+    webUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+    ampWebUrl: "https://www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
     type: article
     provider:
-      name: WSB Radio
-      domain: wsbradio.com
+      name: KIRO-TV
+      domain: kiro7.com
     quality: 32
     images:
-      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
         width: 1440
         height: 810
         isCached: true

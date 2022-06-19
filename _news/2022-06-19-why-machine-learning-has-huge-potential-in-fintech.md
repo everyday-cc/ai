@@ -1,0 +1,50 @@
+---
+category: news
+title: "Why Machine Learning has huge potential in Fintech"
+excerpt: "Aaron Holmes, CEO and Founder of Kani Payments. He discusses the role of technology in data management within the fintech industry"
+publishedDateTime: 2022-06-19T08:00:00Z
+originalUrl: "https://fintechmagazine.com/digital-payments/why-machine-learning-has-huge-potential-in-fintech"
+webUrl: "https://fintechmagazine.com/digital-payments/why-machine-learning-has-huge-potential-in-fintech"
+type: article
+quality: 41
+heat: 41
+published: false
+
+provider:
+  name: fintechmagazine
+  domain: fintechmagazine.com
+
+topics:
+  - AI in Finance
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://assets.bizclikmedia.net/1800/e3c89c609a1197b6eaa187b6229af410:fc8174b75c3509ff04591549ff1c6714/gettyimages-1205428317.jpg.jpg"
+    width: 1800
+    height: 1011
+    isCached: true
+
+related:
+  - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
+    excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
+    publishedDateTime: 2022-06-17T12:42:00Z
+    webUrl: "https://www.financialexpress.com/industry/banking-finance/emerging-trends-in-financial-services-and-fintech-artificial-intelligence-machine-learning-to-define-future/2564593/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 18
+  - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-06-16T11:11:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
+
+secured: "UuEvo/UBJuKCWMAwNmdyithShFjr71FR8xYU1U1+6mevqkMTfFLNNg5FAVmk3ITS2gOdnkmMWQCbr3wP2s34mgWUaqCV1vn/rws6+1nYTxKLmMk+QTMTcV9W/XzE80ugoKc//favzuV7A/uSWnHBTs0+ES1gaMG5vbGGOxCUNjB0SCHoCe3/wCTamTFl3uKECFdVstLBLEVYqmve+KItTD9uHRrroH0FPD3zXYPpATL3CThj1ynKhWeL1y8SBk0dAifzNpYmN92AgEFS6aBHWWQCK20ufFF1ExVYwcdSpP2I8C6r+0QNCTbWiMMT+sx/dOro2i8fXvQwGf9dT1cSbtNN++SDPhbKvx0I//axuVE=;9E+cq2nHi8XUojgrOWBj1w=="
+---
+

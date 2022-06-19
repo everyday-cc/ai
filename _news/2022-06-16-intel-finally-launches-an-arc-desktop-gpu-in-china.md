@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "DeepRacer event in Auckland"
-    excerpt: "With the Birmingham Commonwealth Games kicking off at the end of July, the New Zealand Team want to give Kiwis a 'shot' against Valerie Adams' and Tom Walsh's personal bests. Video / NZ Herald Cabinet gets a reshuffle, the aftermath of the latest wild ..."
-    publishedDateTime: 2022-06-14T17:01:00Z
-    webUrl: "https://www.nzherald.co.nz/business/deepracer-event-in-auckland/DQNJDJTGQ6UCOUNRT2BMRLSXHQ/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 56
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/tD7PBYtlPIaIpFhMG_Yvid9BeS8=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/SAWQ5TEXN7CMY6BNHWMC36XOPE.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "0PZiZ3HZjvQBQ9ux0xR2nxPEFwsFJ7QaFEG4gQcc3fSqupM03UMhZqHsziJ/D2PtDH81tQd8FgRNEwDcQu08YYRD4c47Qyzo1tSQyOt6c+Tt5KxJF1ipmLr6STHJqz526auQ/UxNHqvKxxO2++KveEMjVZSzp1dL5n6ydAUucEtef99jnnOC4bTFU8iwA+nPeMTa9pRID2HGFWld/HmdlJ7tGuzQvgn65m6mMp3IYDB2IYoJjAS4c1/xPq6N4I9bIl8DNtcWph1SXy/5UuUtsOfDWgOIavold07+h0aMlREM5oES5kyKXftzPxMSZ5jykMJFqn9wvThfugolPmwsdFwd9BuHI8Hlzb6Bs7FzmK3vE+ICeukvBsV4koWURYDuG5GAAOPX5xrzNJK/Zak/nuIb48k6SV43pinfs6RTCxqO5m6Ki1Tn8sPeH4T8ObXsUmHuuhRlGMZZJJwMJzeF0KNSv8s8Q0HCzgSDavVWrRv4w2zGOG2t0MTsEDLjQNAD2GRZPUu+ABwVAsUzlQAJWQ==;7psIhFHb/xkD6qFyFFOD7A=="
 ---

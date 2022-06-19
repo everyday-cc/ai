@@ -20,13 +20,27 @@ topics:
 related:
   - title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
     excerpt: "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally"
-    publishedDateTime: 2022-06-16T20:19:00Z
-    webUrl: "https://www.inforisktoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+    publishedDateTime: 2022-06-16T00:00:00Z
+    webUrl: "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
     type: article
     provider:
-      name: Info Risk Today
-      domain: inforisktoday.com
+      name: DataBreachToday
+      domain: databreachtoday.com
     quality: 56
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
+        width: 860
+        height: 520
+        isCached: true
+  - title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
+    excerpt: "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ..."
+    publishedDateTime: 2022-06-16T19:30:00Z
+    webUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 54
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
         width: 860

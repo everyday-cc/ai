@@ -107,6 +107,50 @@
       ]
     },
     {
+      "path": "_news/2022-06-16-cybersecurity-ethics-artificial-intelligence-imperatives.md",
+      "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
+      "excerpt": "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally",
+      "sourceUrl": null,
+      "webUrl": "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "originalUrl": "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DataBreachToday",
+        "domain": "databreachtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-ai-ethics-shocking-revelation-that-training-ai-to-be-toxic-or-biased-might-be-beneficial-including-for-those-autonomous-self-driving-cars.md",
       "title": "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars",
       "excerpt": "One controversial posture by AI Ethics is that we can purposely devise toxic AI or biased AI in order to ferret out and cope with other toxic AI. As they say, sometimes it takes one to know one. This includes self-driving cars too.",
@@ -1453,59 +1497,6 @@
         "AI",
         "AI Ethics",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars.md",
-      "title": "AI Ethics And The Quagmire Of Whether You Have A Legal Right To Know Of AI Inferences About You, Including Those Via AI-Based Self-Driving Cars",
-      "excerpt": "AI Ethics and whether you ought to have a legal right to know of AI inferences about you, a topic even of concern when it comes to AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628d150732d0646182ea9402/0x0.jpg?format=jpg&crop=3116,2077,x724,y41,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-25T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],
