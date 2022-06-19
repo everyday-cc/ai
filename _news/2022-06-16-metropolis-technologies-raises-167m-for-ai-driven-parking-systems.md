@@ -27,20 +27,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "SITA launches AI-powered common-use platform"
-    excerpt: "SITA has launched its common-use platform, SITA Flex, at Passenger Terminal Expo. Powered by artificial intelligence (AI), SITA Flex uses Microsoft Azure to give clients the cloud without the need for a traditional common-use environment."
-    publishedDateTime: 2022-06-15T10:24:00Z
-    webUrl: "https://www.passengerterminaltoday.com/news/expo/sita-launches-ai-powered-common-use-platform.html"
-    type: article
-    provider:
-      name: Passenger Terminal
-      domain: passengerterminaltoday.com
-    quality: 39
-    images:
-      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2022/06/SITA-2-e1655288175626.jpg"
-        width: 719
-        height: 343
-        isCached: true
   - title: "Smart parking payment startup Metropolis raises $167M"
     excerpt: "Mobile commerce startup Metropolis Technologies Inc. is feeling richer today after closing on a $167 million round of funding that was co-led by 3L Capital and Assembly Ventures. Dragoneer Investment Group,"
     publishedDateTime: 2022-06-15T14:43:00Z

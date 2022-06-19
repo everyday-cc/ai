@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This AI Makes Mind-Bending Art, and You Can Give It a Try"
-    excerpt: "You don't have to search far on the internet to find nightmare fuel. If your dreams have gotten a little too rosy lately, you can spend some time browsing the weird, funny and occasionally disturbing images created by an artificial intelligence tool called Dall-E Mini."
-    publishedDateTime: 2022-06-14T21:25:00Z
-    webUrl: "https://www.cnet.com/culture/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Everything to Know About Dall-E Mini, the Bizarre AI Art Creator"
     excerpt: "The latest source is Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,"
     publishedDateTime: 2022-06-16T01:46:00Z

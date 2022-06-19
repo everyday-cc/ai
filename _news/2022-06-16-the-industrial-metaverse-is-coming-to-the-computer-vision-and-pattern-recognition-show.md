@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How We’re Helping Build the Metaverse with Diversity, Equity, and Inclusion in Mind"
+    excerpt: "Maxine Williams, Meta’s Chief Diversity Officer, took part in The Next Web conference and shed light on how we ensure the metaverse becomes an equitable and supportive place for underrepresented communities in Europe and beyond."
+    publishedDateTime: 2022-06-16T14:04:00Z
+    webUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/"
+    ampWebUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
+    type: article
+    provider:
+      name: Facebook Live
+      domain: fb.com
+    quality: 38
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2022/06/Maxine-Williams.jpeg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Industrial Metaverse™ is coming to the Computer Vision and Pattern Recognition Show"
     excerpt: "Kinetic Vision reveals new technologies at the CVPR show in New Orleans next week. \"If you want to learn about AI, machine learning, or computer vision, this is the show to attend,\" said Rick Schweet,"
     publishedDateTime: 2022-06-15T16:55:00Z

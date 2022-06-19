@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/1-way-ai-is-transforming-gr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Transforming Injection Molding"
-    excerpt: "By harnessing the reams of data produced in modern plastics processing facilities, artificial intelligence can improve machine performance."
-    publishedDateTime: 2022-06-14T21:16:00Z
-    webUrl: "https://www.plasticstoday.com/injection-molding/how-artificial-intelligence-transforming-injection-molding"
-    type: article
-    provider:
-      name: Plastics Today
-      domain: plasticstoday.com
-    quality: 43
-    images:
-      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/machine-learning-Science-Photo-Library-Alamy-1540x800.jpg"
-        width: 1540
-        height: 800
-        isCached: true
   - title: "How artificial intelligence is depicting the cattle industry"
     excerpt: "A new tool has emerged online, which uses artificial intelligence to generate a sketch of subjects based on a phrase typed into a search bar. Beef Central type in some cattle industry terms...Read Mor"
     publishedDateTime: 2022-06-17T05:37:00Z

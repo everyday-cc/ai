@@ -90,22 +90,15 @@ related:
         width: 2149
         height: 1200
         isCached: true
-  - title: "Google engineer says Christianity helped him understand AI is ‘sentient’"
-    excerpt: "Blake Lemoine was placed on leave by Google earlier in June after he published excerpts of a conversation with the company’s LaMDA chatbot that he claimed showed the AI tool had become sentient."
-    publishedDateTime: 2022-06-14T19:52:00Z
-    webUrl: "https://nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/"
-    ampWebUrl: "https://nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/amp/"
+  - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
+    excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
+    publishedDateTime: 2022-06-19T13:43:00Z
+    webUrl: "https://blogs.timesofisrael.com/sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 56
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/blake-lemoine-00.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 32
   - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
     excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
     publishedDateTime: 2022-06-15T05:00:00Z
@@ -115,15 +108,6 @@ related:
       name: The Star
       domain: thestar.com.my
     quality: 17
-  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
-    publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 10
 
 secured: "br9YHaLjvIX/LRiXCZ+lNipW6jgp3WXYBW9xGG/k0QFSlJfIYEKenEBy4sV7nnY4g1F6stbuHZNw2W1MDPQ1nU5pKGDA/bP/R95gITTAKCje2+Koiyeu2vxkfadPKGUfFDUbCB66v0it6Te/ku1+50pBKE58tSHluj0RzGLawYt1TT71v/nPlx1IefhFOd6DJo98CM/UAuVc6ETpvoIOQa5D3QIBSft2/UuaBaU9ta7Ej/JH8BDBvaKps7/xOXDDpaCXvvIJVP5DzYm2W30Lz2KJB9mZAE7o/jt8sVzW93M9dfFcxaEyL5galVoWPdvWESYh3/n93drnd0dXU+D77aUtaxIMeu6VA/GEocwinCcmSaWNyENCm9bNGfhesYxhELsa0uwCX8T1owGtCpOy0D0lGypbSfmnEjow9pgINZ4esCv5YxcU9tl5gNxf0HtWjEHSwgpSkabY4sd2GGGtiFnWOQ6lWWVU6ZCVpWDPyPXj28P+Mqly8br6QALn3BOth+1Enww5uZLprP4+2h6Grw==;O6CVFJVIhgTopct9J19OdQ=="
 ---

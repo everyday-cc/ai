@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 94
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -57,24 +57,6 @@ related:
         width: 1246
         height: 626
         isCached: true
-  - title: "Enable business analysts to access Amazon SageMaker Canvas without using the AWS Management Console with AWS SSO"
-    excerpt: "IT has evolved in recent years: thanks to low-code and no-code (LCNC) technologies, an increasing number of people with varying backgrounds require access to tools and platforms that were previously a prerogative to more tech-savvy individuals in the company, such as engineers or developers. Out of those"
-    publishedDateTime: 2022-06-14T19:46:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 63
-  - title: "Use a pre-signed URL to provide your business analysts with secure access to Amazon SageMaker Canvas"
-    excerpt: "Agility and security have historically been two aspects of IT of paramount importance for any company. With the simplification of access to advanced IT technologies thanks to low-code and no-code (LCNC) tools, an even bigger number of people must be enabled to access resources, without impacting security."
-    publishedDateTime: 2022-06-14T19:50:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-pre-signed-url-to-provide-your-business-analysts-with-secure-access-to-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
 
 secured: "Bw6VKS8n9ibrjgVruM8zJwlnv2CoGlLKnDPG/suo6Kt68Ikr7JvgbnDp+kBnKz6CjhDBywNTmKBsMtNCuZE6OWrN4d5mtWDpHTEGaq2DhAVb1Z+8FN8lwO4WQSVPPDfJw3ZQA/ZOb7jCzXGN7SurF35/J5Lsf7U9qGR4ljjE/apyvfSwDeWIiyhAfjlu+NwTv2cfWLwqAxBl/GUeXsMhRaiS0ueDeOpR7lD4TWOM0anu0WVvcND0Tkbl2a0wCkYqhtU6oyrsY0U6hLbTmsDtlMluVgPGDBqbCCyS2UHMGIndo88ZiFVqYoJvyWI4ltGyPfW2YJQOaYvE4sVCH++kmoNYDQY2bfZLX+fzFREoXVY=;KJfBRaDP9+2ZCCKBlwTfYQ=="
 ---

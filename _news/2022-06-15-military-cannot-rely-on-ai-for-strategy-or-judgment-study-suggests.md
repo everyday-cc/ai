@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/06/220614184106.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220614184106.htm"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Researcher finds that military cannot rely on AI for strategy or judgment"
-    excerpt: "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology argues only so much can be automated and shows the value of human judgment."
-    publishedDateTime: 2022-06-14T21:02:00Z
-    webUrl: "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-military-ai-strategy-judgment.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
   - title: "Research claims military cannot rely on Artificial Intelligence for strategy or judgment"
     excerpt: "The use of artificial intelligence AI for war has been a promise of science fiction and politicians for years but new research from the Georgia Institute of"
     publishedDateTime: 2022-06-15T02:03:00Z

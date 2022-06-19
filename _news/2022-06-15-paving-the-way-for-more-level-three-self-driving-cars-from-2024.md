@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Ethics Confronting The Insidious One-Like-Mind Of AI Algorithmic Monoculture, Including For Autonomous Self-Driving Cars"
+    excerpt: "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample discussion on the topic. Here’s then a noteworthy question that is ..."
+    publishedDateTime: 2022-06-19T15:01:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62a3ec8d45601953acdb1ac4/0x0.jpg?format=jpg&crop=1458,971,x134,y0,safe&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "AI Ethics Shocking Revelation That Training AI To Be Toxic Or Biased Might Be Beneficial, Including For Those Autonomous Self-Driving Cars"
     excerpt: "One controversial posture by AI Ethics is that we can purposely devise toxic AI or biased AI in order to ferret out and cope with other toxic AI. As they say, sometimes it takes one to know one. This includes self-driving cars too."
     publishedDateTime: 2022-06-15T15:00:00Z
@@ -43,64 +59,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "How free-wheeling Texas became the self-driving trucking industry's promised land"
-    excerpt: "FORT WORTH, Texas, June 17 (Reuters) - For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially ..."
-    publishedDateTime: 2022-06-17T11:30:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/how-free-wheeling-texas-became-self-driving-trucking-industrys-promised-land-2022-06-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-    images:
-      - url: "https://www.reuters.com/resizer/dtUeu02ksV3dc_rOo-LvMcuoqtE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MMEFTUYQMRN4LFTF6R6RZWIZHY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "FOCUS-How free-wheeling Texas became the self-driving trucking industry's promised land"
-    excerpt: "For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially, the least restrictive laws governing autonomous vehicles (AVs) in the United States have turned Texas into the industry’s most desired location."
-    publishedDateTime: 2022-06-17T10:00:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-trucking-texas/focus-how-free-wheeling-texas-became-the-self-driving-trucking-industrys-promised-land-idUSL8N2XX4NS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 46
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20220617&t=2&i=1602103600&r=LYNXMPEI5G0FP&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "There’s no such thing as self-driving cars (not yet)"
-    excerpt: "How does it feel being a guinea pig? That’s a question for anyone behind the wheel of an electric vehicle with technology that purports to be able to drive itself but, of course,"
-    publishedDateTime: 2022-06-15T19:41:00Z
-    webUrl: "https://ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/"
-    ampWebUrl: "https://ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/06/GettyImages-1148676032.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Carriers should consider self-defense training for women drivers"
-    excerpt: "One of her friends was driving when she saw a man holding a weapon in the car ... No. A better option would be mandatory self-defense classes – maybe even ongoing rather than a one-time deal – provided by the company. A University of Oregon sociologist ..."
-    publishedDateTime: 2022-06-15T11:30:00Z
-    webUrl: "https://www.ccjdigital.com/workforce/article/15293153/carriers-should-consider-selfdefense-training-for-women-drivers"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2022/06/woman_self_desense.62a9c27d069cc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Paving the way for more level 3 self-driving cars from 2024"
     excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"
     publishedDateTime: 2022-06-15T10:24:00Z
@@ -115,20 +73,6 @@ related:
         width: 1024
         height: 551
         isCached: true
-  - title: "An Increase in Self-Driving Car Accidents"
-    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
-    publishedDateTime: 2022-06-16T01:03:00Z
-    webUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Paving the way for more level 3 self-driving cars"
     excerpt: "PARIS: Thanks to the latest generation of Valeo’s LiDAR (Light Detection and Ranging) system, Stellantis will be able to offer its customers a more enjoyable driving experience. Level 3 self-driving capabilities can be achieved thanks to the ability of ..."
     publishedDateTime: 2022-06-15T01:40:00Z
@@ -138,24 +82,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
-  - title: "New Study on Fully Automated, Self-Driving Vehicles in Canada: There’s a Problematic Knowledge Gap about Automated Vehicles"
-    excerpt: "Consumer readiness for fully automated, self-driving vehicles in Canada is low, and there are considerable deficiencies in consumer understanding of automated vehicles (AVs) according to the findings of a new study conducted by J."
-    publishedDateTime: 2022-06-15T12:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-371c65f33f4e98454d009f4feb634fd4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
-    excerpt: "Back to video This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the original site."
-    publishedDateTime: 2022-06-17T18:36:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 0
 
 secured: "DOw6tbSmeDPgLbM+QsIWTVNj4ytufEpp8l/2ivnXz0f3TXCgEC3zSSUamfGO2CudADk2eQPRyt8mLMpTRxPZP4EFV20JOeN2zKLYAFPgTWdZFvj7MgqQpgeELWEvu/eCy3P+yDt6P6++RHtMVevE7klxh4Gojc1In0UfqdizCX8E0ENeQ9OalA/vuYq5ubnLJPBINmJAAXRmlmqtipue1ex9GeJnv5E62912nnT/C2Y9E65Ta3s9FeLD+PXtp/yomybg64JMPgPDQ9rX46N0+rGfhm066TImHNwk3Q+Pi+xdWpB+IhSt6VLoQDxSxFBcmN+/lu9HJKmhMymKmbiAB5YyyzDDfK9tKtfubU7v8V0=;A+x+9ywL46UTuU6fcpHo7A=="
 ---

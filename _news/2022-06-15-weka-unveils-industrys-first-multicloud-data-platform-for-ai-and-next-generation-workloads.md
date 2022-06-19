@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/weka-unveils-industry-s
 webUrl: "https://www.prnewswire.co.uk/news-releases/weka-unveils-industry-s-first-multicloud-data-platform-for-ai-and-next-generation-workloads-873544066.html"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "WEKA v4.0 filesystem goes multicloud"
+    excerpt: "WEKA has ported its filesystem code, which runs natively in AWS, to the Azure, Google, and Oracle clouds with a v4.0 release."
+    publishedDateTime: 2022-06-15T13:00:00Z
+    webUrl: "https://blocksandfiles.com/2022/06/15/weka-v4/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 24
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/06/WEKA-Long-Term-vision-June-2022.jpg"
+        width: 960
+        height: 537
+        isCached: true
   - title: "WEKA Unveils Industry’s First Multicloud Data Platform for AI and Next Generation Workloads"
     excerpt: "WEKA, the Data Platform for AI company, unveiled the fourth  generation of its software-based solution that delivers first to market results with artificial intelligence (AI),  machine learning (ML) and other next generation workloads via a single,"
     publishedDateTime: 2022-06-15T22:54:00Z

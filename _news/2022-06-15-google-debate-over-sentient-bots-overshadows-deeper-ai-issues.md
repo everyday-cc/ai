@@ -98,31 +98,15 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Google engineer says Christianity helped him understand AI is ‘sentient’"
-    excerpt: "Blake Lemoine was placed on leave by Google earlier in June after he published excerpts of a conversation with the company’s LaMDA chatbot that he claimed showed the AI tool had become sentient."
-    publishedDateTime: 2022-06-14T19:52:00Z
-    webUrl: "https://nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/"
-    ampWebUrl: "https://nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/14/google-engineer-says-christianity-helped-him-believe-in-sentient-ai/amp/"
+  - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
+    excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
+    publishedDateTime: 2022-06-19T13:43:00Z
+    webUrl: "https://blogs.timesofisrael.com/sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 56
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/blake-lemoine-00.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Google debate over ‘sentient’ bots overshadows deeper artificial intelligence Issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers — spurring a debate about how and whether AI"
-    publishedDateTime: 2022-06-14T21:12:00Z
-    webUrl: "https://www.dailynews.com/2022/06/14/google-debate-over-sentient-bots-overshadows-deeper-ai-issues/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 10
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 32
 
 secured: "6xpnn0UkunLYjPXApitolzMis/BLTz2unNs5NMPzDyNYKftZn3Ck3A0yCv9w+xfqaYrQL82XuvTnaDvEtTamEOsUURnicgQ8RVG7HDqrJwqYQCT3WZ21HMFpE5eK9IGCCiISKw97xhrVRpL7uajFyloLdksAU0Lu/tmS6kLfY70ivraN+dkhSN5t4OI75o+8E1RqfTyzr2F4ZUEkPkyAcY0Uvay2lfCchpqyh1Die1okEJACwvpRU54c+JUOqbzn+P0C6Rx92PK/39i/SSzLJ5gn/jihRzkYrJNJinoeQPJ36BB9GFvYRmMu97pUZ/gVDZEaMNLHL545nJIb5kr60Is6LbOqMW6L1mri+xD5FM+xt0eGfbaoqNaJeBgVhlcCTKLwnwZGpH15eL6ckBhe2z9iTALmmJY4iWRWW9QTc7susWzpHPeDcZnw9jw/O5VXqp02iD1Kndu8oJroy5TWI7qIJ82qmDCqXN3iBPhaXazNymn/2Y3epDCWxEy4z8kNllDvhmGM0ymMm4C5u8ImyQ==;C7UFowquBW1Er4IK6gLrow=="
 ---

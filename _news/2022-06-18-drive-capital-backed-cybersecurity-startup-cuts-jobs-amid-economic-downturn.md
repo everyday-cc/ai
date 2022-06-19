@@ -40,7 +40,7 @@ related:
     provider:
       name: HHS
       domain: govinfosecurity.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
         width: 860

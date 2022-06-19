@@ -147,20 +147,6 @@ related:
         width: 740
         height: 400
         isCached: true
-  - title: "2 ASX companies busted for sneaky facial recognition on customers"
-    excerpt: "Three major retailers are accused of collecting the biometric data of everyone who walks through their doors without them knowing."
-    publishedDateTime: 2022-06-14T22:34:00Z
-    webUrl: "https://www.fool.com.au/2022/06/15/2-asx-companies-busted-for-sneaky-facial-recognition-on-customers/"
-    type: article
-    provider:
-      name: Motley Fool Australia
-      domain: fool.com.au
-    quality: 39
-    images:
-      - url: "https://www.fool.com.au/wp-content/uploads/2022/06/facial.jpg"
-        width: 2121
-        height: 1193
-        isCached: true
   - title: "Bunnings is among Australian retailers using facial recognition tech to identify who’s shopping in their stores"
     excerpt: "Hardware giant Bunnings, Kmart and The Good Guys are capturing facial recognition data to identify individual customers in their stores"
     publishedDateTime: 2022-06-15T00:00:00Z
@@ -201,6 +187,15 @@ related:
     provider:
       name: heraldsun.com.au
       domain: heraldsun.com.au
+    quality: 19
+  - title: "D FACIAL RECOGNITION PRODUCT"
+    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
+    publishedDateTime: 2022-06-19T12:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
     quality: 19
   - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
     excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."

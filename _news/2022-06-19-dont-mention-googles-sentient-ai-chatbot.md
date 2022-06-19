@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The 3 things an AI must demonstrate to be considered sentient"
-    excerpt: "Everybody's talking about the Google engineer who thinks a company chatbot is sentient. But what does sentience mean?"
-    publishedDateTime: 2022-06-14T21:55:00Z
-    webUrl: "https://thenextweb.com/news/the-3-things-ai-must-demonstrate-to-be-considered-sentient"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fhamletrobot.jpg&signature=a4cee9cd00d4d06b14bab3c0dbafd0be"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "This Stanford researcher isn't worried about Google's 'sentient' chatbot: A truly sentient AI could be '50 years' away"
     excerpt: "First came HAL-9000 and The Terminator. Now, Google's LaMDA chatbot? Last week, Google suspended an engineer for breaching the company's confidentiality policy, after he publicly revealed his conviction that the search giant's AI chatbot LaMDA had achieved ..."
     publishedDateTime: 2022-06-15T16:37:00Z
@@ -79,38 +65,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 61
-  - title: "Engineer who claimed Google AI has thoughts, feelings is placed on leave"
-    excerpt: "A Google engineer who argued that the company’s artificial intelligence (AI) is sentient has been placed on personal leave."
-    publishedDateTime: 2022-06-14T22:02:00Z
-    webUrl: "https://kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/"
-    ampWebUrl: "https://kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/amp/"
-    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/nationalworld-news/engineer-who-claimed-google-ai-has-thoughts-feelings-is-placed-on-leave/amp/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 56
-    images:
-      - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/06/google_11042016_getty.jpg?w=1280"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
-    excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
-    publishedDateTime: 2022-06-14T20:20:00Z
-    webUrl: "https://abc7chicago.com/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    ampWebUrl: "https://abc7chicago.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/google-ai-sentient-fires-engineer-lamda-blake-lemoine/11958271/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "No, Google's AI is not sentient"
     excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
     publishedDateTime: 2022-06-15T15:38:00Z

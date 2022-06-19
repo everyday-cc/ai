@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 161
+published: true
 
 provider:
   name: Computerworld
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse"
-    excerpt: "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\""
-    publishedDateTime: 2022-06-14T20:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 91
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg"
-        width: 1280
-        height: 998
-        isCached: true
   - title: "Microsoft And Meta Joins Google In Using AI for data centers"
     excerpt: "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have"
     publishedDateTime: 2022-06-19T07:47:00Z
@@ -83,6 +67,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
+  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
+    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
+    publishedDateTime: 2022-06-16T15:47:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft improves Azure’s accessibility for AI workloads"
     excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
     publishedDateTime: 2022-06-16T11:28:00Z
@@ -92,22 +90,29 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 49
-  - title: "How We’re Helping Build the Metaverse with Diversity, Equity, and Inclusion in Mind"
-    excerpt: "Maxine Williams, Meta’s Chief Diversity Officer, took part in The Next Web conference and shed light on how we ensure the metaverse becomes an equitable and supportive place for underrepresented communities in Europe and beyond."
-    publishedDateTime: 2022-06-16T14:04:00Z
-    webUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/"
-    ampWebUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
+  - title: "SITA launches AI-powered common-use platform"
+    excerpt: "SITA has launched its common-use platform, SITA Flex, at Passenger Terminal Expo. Powered by artificial intelligence (AI), SITA Flex uses Microsoft Azure to give clients the cloud without the need for a traditional common-use environment."
+    publishedDateTime: 2022-06-15T10:24:00Z
+    webUrl: "https://www.passengerterminaltoday.com/news/expo/sita-launches-ai-powered-common-use-platform.html"
     type: article
     provider:
-      name: Facebook Live
-      domain: fb.com
-    quality: 38
+      name: Passenger Terminal
+      domain: passengerterminaltoday.com
+    quality: 39
     images:
-      - url: "https://about.fb.com/wp-content/uploads/2022/06/Maxine-Williams.jpeg?w=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2022/06/SITA-2-e1655288175626.jpg"
+        width: 719
+        height: 343
         isCached: true
+  - title: "AvePoint Adds Microsoft Azure Backup to Enhance Data Protection Capabilities"
+    excerpt: "AvePoint (NASDAQ: AVPT), the most advanced SaaS and data management platform provider, today announced the addition of data recovery capabilities for Microsoft Azure. Now, AvePoint’s leading Cloud Backup solution extends protection to Microsoft Azure workloads to help businesses collaborate with confidence across their Microsoft deployments."
+    publishedDateTime: 2022-06-15T13:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-jersey-city-data-management-ebcb611b688a9755b9fbd62a561e7b64"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
 
 secured: "KBzbYSLcod7YM/1XwZzeHLCx7nzbvbGitNw6qYiZTJO7Kh32tjqkwWKhXiqp2VuaEsSdQ4PkZ5FpKTUnbs+1JVR2/OdNYmMkL5MfaNzbTORDEcElkSiU4K8tuAKR23VNmjdB2OX0SwwV9FtI3V9QVObzJTN+G612V1prkNGFlU9Z23xa78Yz28+oDV5iGLSGCeh3mWBVPkCz74QsFl+mY0+1VPuQs81d0HdkEUr/snuVvb+sZF15VMQ1YlDLRZRSm/dCqEyNqh9FvitZOk2u7/Kr422CAHStJ2QjfPpgcu0IIZYgRPy1gkvF8AzeyMd+Jtv4quGCO2Y4W5/6tON5qKC0SDj6xcmlFtsL+5Dij/mp2qDrqcH4P0kPZ5ZFDuRCacfQXL3qgsFh95lagAIfFLw6gLfR2GS3XZrSlQKPGLp7bmymCkqz/JUn5ldlg/ybYfDzf2BXljO79VMuUbjnXUQmhpCY4s0Qqa9yfKtefvapnSKnOJmw2FKWWIaYPz9OqU51a8ReoXoswE6hM4O5WQ==;DD0m0DQJKA1QHZnS41Gu0g=="
 ---

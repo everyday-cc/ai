@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse"
-    excerpt: "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\""
-    publishedDateTime: 2022-06-14T20:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 91
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg"
-        width: 1280
-        height: 998
-        isCached: true
   - title: "Microsoft launches new AI-powered Viva Sales tool"
     excerpt: "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams."
     publishedDateTime: 2022-06-16T07:29:00Z
@@ -90,22 +74,43 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
-  - title: "How We’re Helping Build the Metaverse with Diversity, Equity, and Inclusion in Mind"
-    excerpt: "Maxine Williams, Meta’s Chief Diversity Officer, took part in The Next Web conference and shed light on how we ensure the metaverse becomes an equitable and supportive place for underrepresented communities in Europe and beyond."
-    publishedDateTime: 2022-06-16T14:04:00Z
-    webUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/"
-    ampWebUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
+  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
+    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
+    publishedDateTime: 2022-06-16T15:47:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
     type: article
     provider:
-      name: Facebook Live
-      domain: fb.com
-    quality: 38
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
     images:
-      - url: "https://about.fb.com/wp-content/uploads/2022/06/Maxine-Williams.jpeg?w=1200"
-        width: 1200
-        height: 800
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
+        width: 647
+        height: 450
         isCached: true
+  - title: "SITA launches AI-powered common-use platform"
+    excerpt: "SITA has launched its common-use platform, SITA Flex, at Passenger Terminal Expo. Powered by artificial intelligence (AI), SITA Flex uses Microsoft Azure to give clients the cloud without the need for a traditional common-use environment."
+    publishedDateTime: 2022-06-15T10:24:00Z
+    webUrl: "https://www.passengerterminaltoday.com/news/expo/sita-launches-ai-powered-common-use-platform.html"
+    type: article
+    provider:
+      name: Passenger Terminal
+      domain: passengerterminaltoday.com
+    quality: 39
+    images:
+      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2022/06/SITA-2-e1655288175626.jpg"
+        width: 719
+        height: 343
+        isCached: true
+  - title: "AvePoint Adds Microsoft Azure Backup to Enhance Data Protection Capabilities"
+    excerpt: "AvePoint (NASDAQ: AVPT), the most advanced SaaS and data management platform provider, today announced the addition of data recovery capabilities for Microsoft Azure. Now, AvePoint’s leading Cloud Backup solution extends protection to Microsoft Azure workloads to help businesses collaborate with confidence across their Microsoft deployments."
+    publishedDateTime: 2022-06-15T13:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-jersey-city-data-management-ebcb611b688a9755b9fbd62a561e7b64"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
 
 secured: "Y0L2aOSZZFSQg28sjQlfN6BaLzR8Mo+fZ92/pQErU0lp7Yv9846IfiCzbVwxbdKc5dzShm81ANSat01Q0xeFNxpAJSZVsVKcBTmCuZs3BB3+zTHcAUf71EDqOPjm0YztwxVwB1Dpe5yqYZO463sIqgX0V8CXwb/OS1rm1fyI55ywHDxhN16NMOLUxv0dfsDCtlWUyQeJzE7QCAgoUI86ZuWOZRWi6sqTYP+BPzaW692RUu7AIGzzm9vIW9JHmtCjTj5jY41uesxO4qXLgTWh9FPw4sCmcRsL5cjQwM8H5Mk5e+fPq3PMT/ISBeOGCPn19SRdAyDa/FCdFy20jJuFPEoYR7xyzIJ3xa7qYPwdwf2jGzp6FnOiRSxaV0n9Ied8JYKejIUGjJXMwG5Cm9X54XyfGloeCKbVPb3xDpomsRVORF26zxQR/zJh8iWKR8aJQgKw0vn5mChUMOZtohDZl4s9oONwo/uD0gMNnNp6+EtOaRpF3i2S02Tg4oQJVDaPk3mplVL3Dd0sARVixpVDLw==;wBFKtV/9O4NK5miYuzfUMw=="
 ---

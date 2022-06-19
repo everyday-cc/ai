@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-19T12:26:00Z
 originalUrl: "https://www.defenseworld.net/2022/06/19/head-to-head-analysis-logicmark-nasdaqlgmk-versus-guardforce-ai-nasdaqgfai.html"
 webUrl: "https://www.defenseworld.net/2022/06/19/head-to-head-analysis-logicmark-nasdaqlgmk-versus-guardforce-ai-nasdaqgfai.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Defense World

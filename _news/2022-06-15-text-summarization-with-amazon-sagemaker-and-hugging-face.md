@@ -57,24 +57,6 @@ related:
         width: 1247
         height: 626
         isCached: true
-  - title: "Enable business analysts to access Amazon SageMaker Canvas without using the AWS Management Console with AWS SSO"
-    excerpt: "IT has evolved in recent years: thanks to low-code and no-code (LCNC) technologies, an increasing number of people with varying backgrounds require access to tools and platforms that were previously a prerogative to more tech-savvy individuals in the company, such as engineers or developers. Out of those"
-    publishedDateTime: 2022-06-14T19:46:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-business-analysts-to-access-amazon-sagemaker-canvas-without-using-the-aws-management-console-with-aws-sso/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 63
-  - title: "Use a pre-signed URL to provide your business analysts with secure access to Amazon SageMaker Canvas"
-    excerpt: "Agility and security have historically been two aspects of IT of paramount importance for any company. With the simplification of access to advanced IT technologies thanks to low-code and no-code (LCNC) tools, an even bigger number of people must be enabled to access resources, without impacting security."
-    publishedDateTime: 2022-06-14T19:50:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-pre-signed-url-to-provide-your-business-analysts-with-secure-access-to-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
 
 secured: "xagf+t8d34t5YgsClwZnx+a4OEoCT+RjJK7ArGrn4gNfgdUmN6nCLX785pbLXkzvm+lGXZHFyW+JwPTZfmD7a4AK084u8gRE2d5KVZWntN8SHaV+UNWKBnErqfbhtV0zxD0uHCiBlD52s6KkgvzBiE0LiGicoCbwChE2BSgPj+BavsFsFbF/+y5NPw45oSJtOcuGwq2mkFJmeHUiGBLJJVWK5QUauDcPJsTPotVa7q5CJGnOc2CiRAhyTMdtkUvuHkOdAAaccYD3Pke5oxACFcWI4zgfVYgQHpVRHPOFPiHy12Y4ZBFocP/MalP1rSZl3gwmMTBpWnLL5j0UrfuxMo0o5iYvsLy5QDfaF4R/UXk=;fNJyCCud/EMLv1QDMKvhhg=="
 ---

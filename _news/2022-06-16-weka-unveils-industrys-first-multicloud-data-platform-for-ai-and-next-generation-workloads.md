@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "WEKA v4.0 filesystem goes multicloud"
+    excerpt: "WEKA has ported its filesystem code, which runs natively in AWS, to the Azure, Google, and Oracle clouds with a v4.0 release."
+    publishedDateTime: 2022-06-15T13:00:00Z
+    webUrl: "https://blocksandfiles.com/2022/06/15/weka-v4/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 24
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/06/WEKA-Long-Term-vision-June-2022.jpg"
+        width: 960
+        height: 537
+        isCached: true
   - title: "WEKA Unveils Industry's First Multicloud Data Platform for AI and Next-Generation Workloads"
     excerpt: "Key features and capabilities of the new release include: A Unified Multicloud Data Platform for AI and Next-Gen Workloads: WEKA 4 provides native integration with Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, and Oracle Cloud ..."
     publishedDateTime: 2022-06-15T13:00:00Z

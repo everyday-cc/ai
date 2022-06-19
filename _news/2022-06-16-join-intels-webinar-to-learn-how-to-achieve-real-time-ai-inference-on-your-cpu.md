@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Intel Finally Launches an Arc Desktop GPU, in China"
+    excerpt: "Intel has finally launched its desktop Arc A380 graphics card in China. A US release should happen later this summer."
+    publishedDateTime: 2022-06-16T10:45:00Z
+    webUrl: "https://www.extremetech.com/gaming/337209-intel-finally-launches-an-arc-desktop-gpu-in-china"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/06/INTEL-ARC-A380-3-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "6n2LLF/G0Dnpfu22eXmlVR+yZj8pxQ+IMUSR9E0/J0OrkvS3sVNkbhkFrCUsmnAED+xhXuHt5ov/vr0iorpC++NLCuI6UVPY1BI2tEoMWn588xoUNusOyLbiRqRjZmmn6MppaJgHl1pk32urHOXck6pGCrLFuuNL0awz8yt0BKJayxk72aKl/ls0BKLjR07oYkxBrqTRCEosHbs7mUWA6aubYDGmQBYgLY6roSX7PHi5nfSwnz75TJ9VrIox5T6Pdn85DzjHRMdGeo7Tvc6GGcgEZIJyL9grFGFjCB2RgKjTQ7fwqd+YNV0BPDuEtntOkP+dBYERcwlvF/ZxO+7ImMLA2MKp64Rd7qWtqIV02u+775nnvuejaOuP70+HNEvKNkKjNj50hclEPPMUUxMRJ41XlZmi1bIHUuoyH3v1U8NbIPjLI5hDa7CbVfYcDtbASe5zsMwcQon+2MCIgNztRPLNY/JBpklng1BwmJmKVlS8ZCvO1DVFGSmbCPFe9giz0mO79mAqUPXaAGTvvmsqXQ==;m7vEF3Oa3PuYeeNlLVRsmg=="
 ---

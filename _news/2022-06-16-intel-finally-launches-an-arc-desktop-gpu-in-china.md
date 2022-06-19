@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "AWS with Intel launches DeepRacer Student League"
-    excerpt: "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education."
-    publishedDateTime: 2022-06-14T19:51:00Z
-    webUrl: "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707"
+  - title: "Intel to launch Arc A380 GPU in China"
+    excerpt: "Intel has announced the availability of the Intel Arc A380 graphics processing unit (GPU), the first of its Arc A-series 3 graphics desktop products, providing mainstream gamers and content creators with a new option."
+    publishedDateTime: 2022-06-15T06:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20220615PR201/china-gpu-intel-arc.html"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 91
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg"
-        width: 1200
-        height: 720
+      - url: "https://img.digitimes.com/newsshow/20220615pr201_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Join Intel’s webinar to learn how to achieve real-time AI inference on your CPU"
+    excerpt: "The session will also introduce Intel’s OpenVINOTM toolkit, an open-source toolkit to enable neural network model optimisation and easy deployment across multiple hardware platforms"
+    publishedDateTime: 2022-06-16T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/join-intels-webinar-to-learn-how-to-achieve-real-time-ai-inference-on-your-cpu/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 35
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/intel.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "0PZiZ3HZjvQBQ9ux0xR2nxPEFwsFJ7QaFEG4gQcc3fSqupM03UMhZqHsziJ/D2PtDH81tQd8FgRNEwDcQu08YYRD4c47Qyzo1tSQyOt6c+Tt5KxJF1ipmLr6STHJqz526auQ/UxNHqvKxxO2++KveEMjVZSzp1dL5n6ydAUucEtef99jnnOC4bTFU8iwA+nPeMTa9pRID2HGFWld/HmdlJ7tGuzQvgn65m6mMp3IYDB2IYoJjAS4c1/xPq6N4I9bIl8DNtcWph1SXy/5UuUtsOfDWgOIavold07+h0aMlREM5oES5kyKXftzPxMSZ5jykMJFqn9wvThfugolPmwsdFwd9BuHI8Hlzb6Bs7FzmK3vE+ICeukvBsV4koWURYDuG5GAAOPX5xrzNJK/Zak/nuIb48k6SV43pinfs6RTCxqO5m6Ki1Tn8sPeH4T8ObXsUmHuuhRlGMZZJJwMJzeF0KNSv8s8Q0HCzgSDavVWrRv4w2zGOG2t0MTsEDLjQNAD2GRZPUu+ABwVAsUzlQAJWQ==;7psIhFHb/xkD6qFyFFOD7A=="

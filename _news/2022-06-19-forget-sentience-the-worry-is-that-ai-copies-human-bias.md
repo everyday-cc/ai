@@ -2,9 +2,9 @@
 category: news
 title: "Forget sentience… the worry is that AI copies human bias"
 excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-publishedDateTime: 2022-06-19T06:30:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
-webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+publishedDateTime: 2022-06-19T12:07:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
+webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
@@ -165,6 +165,6 @@ related:
       domain: dentonrc.com
     quality: 17
 
-secured: "FdQ4YEFFDoqc/HJRsS4G1KXhuYjmL8jdD/x8gyISP/ljpP4MyGMQtdHAcapm0zG8tu9jAZDLHJOE5iNrCHSy3hi0UAE5NhClyjASumBsKXfqnQph/8FT+D7qj5m6kGYgpKumfcAp/tjqqM9phFJ+rZjvjBo/ZBSDn0N9V7RHSXJ7wBJA4UO7OY1K5ApXer6ZqT+k8/m3LQkIMzepFXozplhW3KExGc7NocONN0QU4LzcIhOlJCR06RrVyojmQJDmS3/RVCHMQPrkbKL73OSlmubyvj7+4rTKIOWJMTfi28ZILrt7Hc1fxN4stddjHrmnpgpz7Ej3dmGuxY2zMhE8FF3+pLb0NhLLZkuugG+fEUpCHjM8mHZTOg3NrViv5w34YXLhuRxphoSOiz3B8ZLr+lbGeO1rv58arHN2oQNpH18OVkgLmaNXBZBmMGMaXciSfMmISk9QQRknB90/VVa52uZyFbc9U5ZJsNvDtufSRNf7jtOo6Y1x8WcLnboc1MMxAP1B8x2pVgNtMWhZ5/S3ig==;t/7Us/hOIEypzYk3oBD0LA=="
+secured: "MdQB5mb+FvLCDxm5FWQvEViETH43AMHqlDZOK9gx4jL3LXE1bKEU/JKJ1ixvhfkxUirjzG6zHBK2YgYB7Pjjk7KT1J3eVO6lpxPmMotINAfCrgGmTTazioW1FPzFEcfbgd2IJeXmEqR6vn7TBZ0JPWW8HOf2Wxgr9mOhyUA+jrcL3nq09uMws+W0P5NXGAx1ea8MCqQ64gOYphks1ISrWpHCfo2w37ozSk6xhqVIF4SXiXoDb70aSFNVvMdPX9Ngtb6rgsNqdOWdLt3/dzPhvX6AYYMXahy3gAZsoWFayZfuSRhObzavnVAJSSyLfEzN1DGEhGDWxaPz7W/n5tipMOtzofoH+rj6s/kJalbRLGc=;5OVljy36fmH6zDqAzsbVXg=="
 ---
 

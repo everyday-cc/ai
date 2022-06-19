@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-16-microsoft-announces-azure-arc-multicloud-management-perks.md",
-      "title": "Microsoft Announces Azure Arc Multicloud Management Perks",
-      "excerpt": "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services.",
+      "path": "_news/2022-06-16-microsoft-launches-new-ai-powered-viva-sales-tool.md",
+      "title": "Microsoft launches new AI-powered Viva Sales tool",
+      "excerpt": "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams.",
       "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx",
+      "webUrl": "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html",
+      "originalUrl": "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 161,
       "tags": null,
       "images": [
         {
-          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg",
-          "width": 647,
-          "height": 450,
+          "url": "https://images.idgesg.net/images/article/2020/09/woman_with_headset_engaged_in_discussion_via_video_conference_teleconferencing_online_meetings_virtual_events_training_by_fizkes_gettyimages-1198252567_2400x1600-100857863-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T08:47:00-07:00",
+      "ampWebUrl": "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html",
+      "publishedDateTime": "2022-06-16T00:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
+        "name": "Computerworld",
+        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
       ]
     },
     {

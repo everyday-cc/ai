@@ -47,6 +47,15 @@ related:
       name: Fox 13
       domain: fox13news.com
     quality: 24
+  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
+    excerpt: "Back to video This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the original site."
+    publishedDateTime: 2022-06-17T18:36:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 0
 
 secured: "h7OEbyD0M95WuT5IE+Qs2byQjeITZcOE96/8ouLfVpeSihzrVG615eQlp1o7bOXhFZTxwC1uUutCP3DZs6lKCZjDCF+fg2OT1tyhpIELHfPLx3jkWp/p1tnnE1xIwPIl7RiHVrJE2tXbvqwdzUdmyVfkKpePgoE79ykQsxCJEHeFau1nClBPLwsecmwPErIaqrDdgl3hHnN+sggQt3ys36+cbP6qLLCFxdRNv5TbBmO7fgC5h4hBNeCoP4somH1j+A6O+GIe8lW5FDPWF7iG6w5UToPQ3UhmT+geb3ZCRgHLPG2hcJf2oEEq3oaYJR0maurpwEijBBOHpZOPOyTrsfpFEu5yIVhEX/yTytvQGkMGtVzOjvyXkNOzVy+IAC63pwlZ+7pSYIKudXP6s1cBFTX1NlPNBOOFMz/CuipI6wn+LljeDszvkFESnBMI3kY/o79tXeyRxHkVByyLa0reHSikF77fzYxfOUVEcJL/vNq4VsLyXOEve5hWrQqujvOQs62FNxsbr0AWSOftcvU+qg==;8TwC8WkuqC2YwcAHmAFeHg=="
 ---

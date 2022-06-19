@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "New Study on Fully Automated, Self-Driving Vehicles in Canada: There’s a Problematic Knowledge Gap about Automated Vehicles"
+    excerpt: "Consumer readiness for fully automated, self-driving vehicles in Canada is low, and there are considerable deficiencies in consumer understanding of automated vehicles (AVs) according to the findings of a new study conducted by J."
+    publishedDateTime: 2022-06-15T12:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-371c65f33f4e98454d009f4feb634fd4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+
 secured: "C9JmVJZ1nCqTNNquNcwygYpmaC578NtKMCJx8lOfrMfiefrMqgfk3fpHjUFCYi++Zko3ILiQZsSGV1nitSIOkhW3aJXc04rB/d7k62QE/0karbjyK6p2oRmTQFqNk4pX4v3hd+bRSL0urfi3E0EDvgjaTse2y2q7EZF/5hMZp274D34js4dsgNH5jlgHIelGMdXkQy7BnflvWQWfKKTlXarctXUh1XAJtp3xpkqh75wu3E52AKm2SwSJf6HaJp86TYX9Se6bp2oufVkYKeC9BBgPaKz7Cs5rHsU0OLZHK82uRBCvuvtFQWxqiLeyfu5gpndrm4+cUA2uNBiZhOuw6P1BTEuEXqYYZ3MNXXFF+aw=;zNyiPDUTkZkNQvKvkpDWkg=="
 ---
 

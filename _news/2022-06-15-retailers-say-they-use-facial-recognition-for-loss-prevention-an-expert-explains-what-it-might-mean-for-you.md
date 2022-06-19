@@ -141,20 +141,6 @@ related:
         width: 740
         height: 400
         isCached: true
-  - title: "2 ASX companies busted for sneaky facial recognition on customers"
-    excerpt: "Three major retailers are accused of collecting the biometric data of everyone who walks through their doors without them knowing."
-    publishedDateTime: 2022-06-14T22:34:00Z
-    webUrl: "https://www.fool.com.au/2022/06/15/2-asx-companies-busted-for-sneaky-facial-recognition-on-customers/"
-    type: article
-    provider:
-      name: Motley Fool Australia
-      domain: fool.com.au
-    quality: 39
-    images:
-      - url: "https://www.fool.com.au/wp-content/uploads/2022/06/facial.jpg"
-        width: 2121
-        height: 1193
-        isCached: true
   - title: "What Of The Future Of Facial Recognition Growth In NZ?"
     excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
     publishedDateTime: 2022-06-16T04:20:00Z
@@ -209,6 +195,15 @@ related:
     provider:
       name: heraldsun.com.au
       domain: heraldsun.com.au
+    quality: 19
+  - title: "D FACIAL RECOGNITION PRODUCT"
+    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
+    publishedDateTime: 2022-06-19T12:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
     quality: 19
 
 secured: "Y+aexDZlFBlox0k25ziskdr4uBHsQZxlH/uefK7yy5/qLY/3C32V3Ls6ybRPaD6MCkVjhLSzwefFM3hFxLOqxxsKRoY8+TYKX4ZVRg8t9DZVZRA0GcM2elnXIy2s430CCqeOMWBzJCmuijJmviQljjW5vP+Y8+GOekRFTALwmg3RP8/8WcCclrv5zJajni3kbu77FBz02sq5y+eQkSb+c2ZvD17ZDWHaJ9+CIaeN2bvES8BDFigh34+oM5QoiRF3BSIIV0xjrWl+2DXAm1IKCkVsW1soVtcXnfyhUVcTV0ypl81w1dOIbJLAYCHKvhv8VIf71cXdtGp2mtU7MwqfLCDkmNoKnFA37VUWtvodBrSvuUzduRMxTVUt7AnAfyMmZ/33mLP+PibmOwgn2+aGbMj6jwepKQvc4oyimyjyiUocQ5Z9sH6JxQmD/HQbzwtPSqagThK+B2uQBtZ9VALcnVO9KK0CNCAXTiS6AuY4BZ4iJaWG7HFpdbbvpuR3nR0l5gIa1mjEzC8U/puc8afJNA==;571JGb0rDf0rkuxDE8ytSg=="

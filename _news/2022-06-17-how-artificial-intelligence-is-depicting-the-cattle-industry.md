@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How Artificial Intelligence Is Transforming Injection Molding"
-    excerpt: "By harnessing the reams of data produced in modern plastics processing facilities, artificial intelligence can improve machine performance."
-    publishedDateTime: 2022-06-14T21:16:00Z
-    webUrl: "https://www.plasticstoday.com/injection-molding/how-artificial-intelligence-transforming-injection-molding"
-    type: article
-    provider:
-      name: Plastics Today
-      domain: plasticstoday.com
-    quality: 43
-    images:
-      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/machine-learning-Science-Photo-Library-Alamy-1540x800.jpg"
-        width: 1540
-        height: 800
-        isCached: true
 
 secured: "vdt7DfknRq6hGcA0ZE0iNBvFm+8Cmdsfs+iPCly01V3W/Ny6jUJtTFnpPZiyNO7kRIWczqazPqJ8+WF5oANN4ZwTn7Hon9MTwTGCvHAtxCXNfdp07bQWR8z2K2NG0meL77Wx6eRK4ji9N33CGkJsWuf2aFPQ8dWfXzDlujy6MDMVl2yvPxR+Z5Jo/00f//0q5Sr0uDjA4gqAgZZ+yzc0fHjKrySnHIirLwS8fEocLECGOZDtV+XQVuN8N21Vz9hG3pdPykMiaEgfjsgph0MogGLuzrqbhLUXEOIhDWPa9ITqhUBeMGIlBTE3gONmtdwTAphYAB9DHK0+ZHgF4WIFnfnh2EDuIx07mnF18evlico=;m8SnW/K6TDO+5b+2ugk5mQ=="
 ---

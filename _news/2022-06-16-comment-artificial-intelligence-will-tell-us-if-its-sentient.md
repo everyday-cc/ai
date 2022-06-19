@@ -91,8 +91,8 @@ related:
         isCached: true
   - title: "Forget sentience… the worry is that AI copies human bias"
     excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-    publishedDateTime: 2022-06-19T06:30:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+    publishedDateTime: 2022-06-19T12:07:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     type: article

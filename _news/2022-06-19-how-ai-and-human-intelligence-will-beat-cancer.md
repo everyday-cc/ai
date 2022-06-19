@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-wil
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
 type: article
 quality: 91
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2022/06/18/mb00_jd_20jun_mckee.jpg"
         width: 664
         height: 916
-        isCached: true
-  - title: "Human Intelligence Still Comes First"
-    excerpt: "For Ron Norris at Georgia Pacific, the promise of artificial intelligence only can be realized with practical human intelligence at the start of the process. “There was no instructional manual for digital transformation."
-    publishedDateTime: 2022-06-14T21:09:00Z
-    webUrl: "https://www.machinedesign.com/automation-iiot/article/21244310/human-intelligence-still-comes-first"
-    type: article
-    provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 24
-    images:
-      - url: "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2022/06/ArtificialInt_Getty_1130683181.62a8f56a39974.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "GE2Q/obIE5KdcVC7umRA/zpSNdhCcVk+W50qB8zp7LoljJ/ZD+Kn4No7zDlHc07gZw1QGOxTRpf6yLhZK2AzSlHbQsWpR8YhPepPYEyORGOOrQy7OkYcWJvFudXhXdHkAoQvnrPax+hgxq/RZH4XXE7I1YYldIcu6JWM4pyf/rTBFePDgFpIgGGnKnYAW4zalBAsM5K698v9n+eGDJ6EiLEvN61McTi+mN1wrTXDa/xSOFXV+kCOF8YQ2qqUpFtWO6o7i5VFxSwZdVqDw9stURnUMqXP9WCUCBNt1TIF36xkLqpNywxO9O4oXT6zb9lfGynD6Eq+Ym9aKn8WTlNPHADeLuFCuF63FOHuimXQN3IJnq6xKoajoKkuyqtuL4Srrvqd2GHWcfDTisfeqqgWs1i422muBtTeiNGIMLKG3qG/3cbd/tQnRBWFGf4Q/1J/oYhN7Uxk4yxI10D4OGi98Dhlgoowh+S+YjnFmDk+OdHP75uFGptQX3JdXYcvW3eb6HHjC65jMTEeaj3MUnzKuw==;GtyjKFQYO72xA2hTwa2XFg=="

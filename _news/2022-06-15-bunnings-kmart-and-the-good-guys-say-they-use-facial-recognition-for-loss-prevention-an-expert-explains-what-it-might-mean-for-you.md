@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Kmart, Bunnings and The Good Guys' use of facial recognition technology on unsuspecting customers raises concerns"
-    excerpt: "Auto news: 2022 Maserati SUV lineup due by the end of the year  - drive.com.au Online Coupons and Best Deals Watch the brand new series From now on Stan. Search properties in AUS Latest news, reviews and cars for sale © 2022 Nine Digital Pty Ltd © 2022 Nine Digital Pty Ltd"
-    publishedDateTime: 2022-06-14T21:17:00Z
-    webUrl: "https://www.9news.com.au/national/customers-unaware-kmart-and-bunnings-are-capturing-their-faceprint/8c67ef77-fbcd-451d-8e98-2af1f2439389"
-    ampWebUrl: "https://amp.9news.com.au/article/8c67ef77-fbcd-451d-8e98-2af1f2439389"
-    cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/8c67ef77-fbcd-451d-8e98-2af1f2439389"
-    type: article
-    provider:
-      name: Nine News Australia
-      domain: 9news.com.au
-    quality: 33
   - title: "Bunnings, Kmart and The Good Guys say they use facial recognition for ‘loss prevention’"
     excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores. If you’ve seen the movie Minority Report, you’ll remember how Tom Cruise’s character John Anderton is identified through iris recognition to perform his duties,"
     publishedDateTime: 2022-06-16T18:56:00Z

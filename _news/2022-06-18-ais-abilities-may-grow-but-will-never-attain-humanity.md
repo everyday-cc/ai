@@ -63,20 +63,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Human Intelligence Still Comes First"
-    excerpt: "For Ron Norris at Georgia Pacific, the promise of artificial intelligence only can be realized with practical human intelligence at the start of the process. “There was no instructional manual for digital transformation."
-    publishedDateTime: 2022-06-14T21:09:00Z
-    webUrl: "https://www.machinedesign.com/automation-iiot/article/21244310/human-intelligence-still-comes-first"
-    type: article
-    provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 24
-    images:
-      - url: "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2022/06/ArtificialInt_Getty_1130683181.62a8f56a39974.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "hHA07F1pGWsM0BPODW4BIb3A8htMY8543dV74ZUPAate3QAdHljreSzPHsyVaD7s37tphS/nRGodgR4S65BdZXhlJ0ZpN1I1AqFsAotPeECJQMu/OycDJT+cVYHmV9V8lb2NzkrMRqZM2P3EdPFbJHT4pt4RTMKyQCCGTo7NXek9SrF2Xw9gH6VQ5Vyu7k9KTLgKd26U0z7bjPH5Z28slIaxfek5YVbJXRZOpru/KkARQqHW9o/XunOW/A3M5k+53G8icWrd91v+OmaMZk+mfQev4quhCeivIlpMnKIuahX6fNqxDB3DnWGSvxhJ0k0lkUZywzfh9lZsmvfYYGFk3asP+GNaXRY9Ann0q0WZUJY=;TxwBZfzHXf6570m6dmx7Jg=="
 ---

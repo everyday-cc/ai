@@ -25,17 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Opinion: Artificial intelligence will usher in a new age of Oracles"
-    excerpt: "I sometimes call this forthcoming future “The Age of Oracles.” That is, a lot of humans will be talking up the proclamations of various AI programs, regardless of the programs’ metaphysical status. It will be easy to argue the matter in any direction — especially because,"
-    publishedDateTime: 2022-06-14T19:16:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-Artificial-intelligence-will-usher-in-a-17241325.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 17
-
 secured: "tXsmzczcxnVK8iknt7061RbPJhnhzKQqpkN1Ey/5qn52T/wEnzA6u5UCjxzeLs5p+3NYk+UiuCLBSDav0zqkGrCb8pexgRGMqUXgLZj1oKDKeqUf3bFrFZ/fGWbPmwplnBQQV+mZo284k2BGxzq0/p+WQosDKLj+S5GHqSEcJQf2GPYQd2ufhSuKDRQP17UGLQhO34MAnEcM3FtkHQsUA1rtbP5eOcOlxySEzcaZJviGZBptVgIqa82KkxKPXtQcLrwWdIjw2J9ea3omcFZZsjPTz/g+diyAZZb9rzCzysImDxq/2hEmzAOmyidfIYOSsNgZVpKOHuE76k1OsVMUEzxlSlfCwCNxAzYAHIik/ANjDYaHJRFS6mVBGN7WnugV4Hfi5Jzwj+LDOzOEUG2bEoBPFecdnwgm9TVn7Y3lSeaZHsQvdCz8f9ChnLu509Mw+zkPU7INzSQjPzSMdQrkXp38+UN+rzSL7CK5hudqN8w5osyoJbJKTxSiN6hEhKz6l47g2BAR7EkPOK7ITnKJpA==;32tEw52c2MhtKv/OVQu16Q=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T19:40:00Z
 originalUrl: "https://www.businessinsider.com/facebook-pytorch-beat-google-tensorflow-jax-meta-ai-2022-6"
 webUrl: "https://www.businessinsider.com/facebook-pytorch-beat-google-tensorflow-jax-meta-ai-2022-6"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Business Insider
@@ -17,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "jbyOsYMx1Dva4Rmk3lNe+8EB0OlG6W3llx+XAehMFWmYEueTJuOYnRlojsSGEU9QAoslXDqv1ccxtxNUD1stsiUxMy2QrFUIsa4GuVDmRHjJpCCATTftezR/o4pfGqLcl5bCopUJKF1ySDJvf2/fLB/zBLJzrg/F2EIZBpDjBm5GHGYWcO0oUccZLRvBaOjN/UNuHqFTNY9jwWYaGzVUtKR4dFzbZtHR25AIxWjEWkAIhqrmWhqERa2HXmh5edNj+5dTXOP0ZynYYCEa81cd7esdlTN4YMRaRtrF7rlVsnR+kS2in5YjWnPjUUNu5tRJ3D2YJyu/SiytmYL7v8GpLZxwtk5nn/+4etykahb3utc0g7VdlxQ0sArcUYLwLbeFrcODFo1BVYsKix3yf9SEQUvgKCAF9+1sx/Y4grOj6sWPvNIRw65Pi7GNCc0sZ2YIyqIFCpV1GTAmRgprlsb03tyU2BXnO900LB8Zp99HUd1Ck3T8udYckvfZ2jmnqrV3sxz67MQqLoo36f9ddnC8uA==;JKv8H6jzH1HC/E0RaFv4rw=="
+images:
+  - url: "https://i.insider.com/62a3a279a464ed00195811a6?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "UOTlW0TtmwHdt1Yeefw56Ual3hdSWn+4mMJ1Q7bp+IrVy+fwiJSRMlFfFRa5SfrSghKdTWJbN59mB1SxRtTl5pfSPdNLrfeJE0KqDqulVsvQiGX5dPAoWq+/kdKlgJ+cMbSQBFuOgkU9tClO3vlvvYHjmRJ0kZpI442JUK6y3AHH3Rfxd5qqbgeYhk8hl8HL/sM6PQQOL1/nMWPqC9VJnCOt0mtGUBk/56eZB83SVpLT6tIC+P4Lr7p5cgnUfTIbGINxSgVUdb+T4NQ77vWhl1wzf1ytQYW2jXSTcvPvqA3sKWkjMFUsDCuCtKGIY9tTpJqvADOJiErlWN5DNXQUuqfd3wXS+nZa+sYosK7NRdA=;73z8kUtCVpFsblUv5RYdtw=="
 ---
 

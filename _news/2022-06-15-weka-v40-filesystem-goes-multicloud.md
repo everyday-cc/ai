@@ -7,7 +7,7 @@ originalUrl: "https://blocksandfiles.com/2022/06/15/weka-v4/"
 webUrl: "https://blocksandfiles.com/2022/06/15/weka-v4/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,29 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
-    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
-    publishedDateTime: 2022-06-16T15:47:00Z
-    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
+  - title: "WEKA Unveils Industry's First Multicloud Data Platform for AI and Next-Generation Workloads"
+    excerpt: "Key features and capabilities of the new release include: A Unified Multicloud Data Platform for AI and Next-Gen Workloads: WEKA 4 provides native integration with Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, and Oracle Cloud ..."
+    publishedDateTime: 2022-06-15T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/weka-unveils-industry-s-first-multicloud-data-platform-for-ai-and-next-generation-workloads-873544066.html"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "AvePoint Adds Microsoft Azure Backup to Enhance Data Protection Capabilities"
-    excerpt: "AvePoint (NASDAQ: AVPT), the most advanced SaaS and data management platform provider, today announced the addition of data recovery capabilities for Microsoft Azure. Now, AvePoint’s leading Cloud Backup solution extends protection to Microsoft Azure workloads to help businesses collaborate with confidence across their Microsoft deployments."
-    publishedDateTime: 2022-06-15T13:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-jersey-city-data-management-ebcb611b688a9755b9fbd62a561e7b64"
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 9
+  - title: "WEKA Unveils Industry’s First Multicloud Data Platform for AI and Next Generation Workloads"
+    excerpt: "WEKA, the Data Platform for AI company, unveiled the fourth  generation of its software-based solution that delivers first to market results with artificial intelligence (AI),  machine learning (ML) and other next generation workloads via a single,"
+    publishedDateTime: 2022-06-15T22:54:00Z
+    webUrl: "https://insidebigdata.com/2022/06/15/weka-unveils-industrys-first-multicloud-data-platform-for-ai-and-next-generation-workloads/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 9
 
 secured: "hw4UWJY/CuYw5AbufEc1Dg2Mui3lAyvnBX6IZnuG7nu9AnBTT8ya7F6JlcjYomnVO8va6AHhQtfAR9LVTuZ1wt7idbr7NavJLyEnk8Grbv9VJYfpcLxCMTcGlcyiS0ppe3J6fttzjQuc+aV/8CUEQ/rxh+HfkUnFQK0ttBQidnB71WLqrDJfJhDsqPQ7lXZiZiuQVFLXHT/FZ8W5smXF8c2jp7T9zdWdeWXhARMWo3kNXOfKE2d1IqGDGdsIQp32whPasEKUTIAWXeffxvxiHLLofmwHIyR6HQBTsEAcMSiqd5mwzaTCmDwAHpJB8Org3Q7at64oTogcKLnsE1VtCqo2TWzeomDeFFKKvCx5GHQ=;RJLGNRU0IVNj7AiNRgivMw=="
 ---
