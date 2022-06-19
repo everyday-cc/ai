@@ -36,15 +36,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 22
-  - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
-    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
-    publishedDateTime: 2022-06-15T13:23:00Z
-    webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 14
 
 secured: "jyzilGWMcQkteXTxX8PRZ/rywtB6DFZS3aK4/92+6GohFfXSPHykJvLLpKXmhFn0OjtQtaoaIZ0FADLKv7MhcNXbcqEV+3nk5vqBncI+wAACvBHkKuqnDfFC+zX1XiLPzkf79WaNIbtNhdDX/eGnD0pZDYb3jxVJnujKejo0sSmuNGCUho16XyOmON6BOFeoakvbpmThyhPLWqc1KEnAMrIypriIOqmN3H3wWmEISEkFvnMn3iuIaBlNhu6gdEetW5lTyEmO1USvbhueDD1jrM6363XKzlmwHro4Km/5/pDP1EN4fjNMXowVrCnjdLYGpLMC/HWsWUa/xEdFzHEO5nqgG1kAU3lYDY+oBxlNyiw=;MUvTazWcLNQniS8awlZEhQ=="
 ---

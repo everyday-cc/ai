@@ -151,15 +151,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "If AI ever becomes sentient, it will let us know"
-    excerpt: "Blake Lemoine, a senior software engineer in Google's Responsible AI organization, recently made claims that one of the company's products was a sentient being with consciousness and a soul."
-    publishedDateTime: 2022-06-15T04:46:00Z
-    webUrl: "https://dentonrc.com/opinion/if-ai-ever-becomes-sentient-it-will-let-us-know/article_7596cee8-fba8-5b15-a628-e64b1bd3c93c.html"
-    type: article
-    provider:
-      name: Denton Record-Chronicle
-      domain: dentonrc.com
-    quality: 17
 
 secured: "NMMzKOggYcGQFQCl4NIg69yTuzGvgC60/Xk2QIgRIV3IGoXiL+pWcYJGqIRFPpIlD8ys1Y8cq+xGubj7qYKVa8ZkXtfi2iWYqpKhhXP1M8jO2g/w2fU+cX4uRgJyShM9t91w4eTFY0LarUzekJE0FBgaJOGulLDWD+qfrPilXdbGcILnHaBGFEEJukrOs8vXKB2csSMpWyjF3TFjE5J9HGwsrkVbeYWP+I/klzKRIe4VfuzToJ8Zbfx82nYcYZMBalTjkkuo6lX01EF+g3IgOw030wUjoXGHLjsowyEA5I83SN3z8rsKLfYeKDhYc53F57F3TAJmYPDOkLwzmHCqzn0NaoXZ2Utz/SpbtJX4ye/BV+P7CbpLiVmcoeqXnEWygCqU2jIlYsKEEyfm9Teq4KjxJSeDLX+1+ALtyZ3NQYVdR3c2sRJOyT/BZkn2UoYnE56IRsQuhgoo6vV307UOfY/BBmjm25dnn7fYvxX2sa91lmpWy3VHyC1EdmvYgcMtd8DV02/gYv9SRWjZDf5e9w==;smnjXr9fS/7pkzN2Fqq6Pw=="
 ---

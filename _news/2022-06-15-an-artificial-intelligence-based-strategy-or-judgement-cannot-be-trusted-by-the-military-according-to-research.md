@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/an-artificial-intell
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/an-artificial-intelligence-based-strategy-or-judgement-cannot-be-trusted-by-the-military-according-to-research-article-92223605/amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1278
     height: 720
     isCached: true
-
-related:
-  - title: "Research claims military cannot rely on Artificial Intelligence for strategy or judgment"
-    excerpt: "The use of artificial intelligence AI for war has been a promise of science fiction and politicians for years but new research from the Georgia Institute of"
-    publishedDateTime: 2022-06-15T02:03:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272586484/research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 45
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1655258446.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "51Ilxu73F+au0Pdo86rTe0NRTq8NUIJiiomy3YDAzyLx/Bjsnvh3iGk/AwArXvEc36JlOixizb2HkS/cFt7QGfKIltJ/6+X4HLjyoqYnZGgkTvQ6Sv7cy897tZwb4B276femfs5GEhEolnh39IlgMqFYKxrS61aY8OVgLQaZD8XXMesWJrJ9LWjXnwiXVy7pHX6+YB1REq6Wyj1mD7zymxX0XGFYiFoobsi8FN94C8avFj9bUBqVy1e9Lm+F1D4NEVeQ14YUroxELlJ04F8S8718dV7+YMKV1NKvuME4vtXT0rg/30Ie2rUdWcG6L+nqdB/GCduVcirbPsxY7OI1Mbb9iLAxE/RFPd0N8KpdzyBciIZ4HR1qxl76V/KAlkL5yAIqHvKtZ9NeGRXdtSEgmxkJODXq/icBKnDIq4jAL+JfnEPlbk6//hxp6Ir8GjmTWH+ueR6Xyx78HMx4sKs9iS6qLvZzAWruPCpxdK3xpNuu2pQwM73w+aZRrOk5qQi0vuKpszM+8F7kOHOb++j9wA==;mnPsUqBo3/RwKak1jYGPzg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-trig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
       name: The Times of Israel
       domain: timesofisrael.com
     quality: 32
-  - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
-    publishedDateTime: 2022-06-15T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/15/google-debate-over-sentientbots-overshadows-deeper-ai-issues"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 17
 
 secured: "7pdCzK0qG6y/4+Am2AznIdMOqlZ/olHxHGWRf2tpGFX9AZZH1TGq9kyAKYqsX2rJoYIsKJZr8IlbjUXP+KUs+KWp9USkKPp1Xow2pSvC4n/QZjC8Rwqa7MEUC19O/Yq1dnhXkUdtMHTqWLLcQh63Xe84lJe9t+q8GpFUdHDAmx46vRAn9ejmxShRu8+jPkK1sW0v+R26CNNU/287c3qpt4G7vpu89Z7q68SpkngHrnbJaL1zrmKXPSRxojTFQCZq0uDkFjsaNeOS0YFFZv0zIJ2rOkadpF+zuLcDDemdC9f/XufXyyFY5JkfW+vLjx2wbvD/NDxwpnCGpbRg+nNNUQXU0HSyeZmy7ETsVQbdbyZw02R38+Z0CyayOOHWRbq93WzganI9dqgVVs/Z3+5x1RXrza/0BROoxh+QBR72unyTWh8EVlemD8dqoW2zIFxiT/A/Xb92SnPW+y3t+UKUQELSSL6raPAYyLI9eW5pzuz0zS3Y54gOuifZDjk8hvAuijkJFxYytAP8M75gwuI/aw==;H7evQdHTGLkfdTZ7QSsGnw=="
 ---

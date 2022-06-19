@@ -17,6 +17,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Datatonic Wins Google Cloud Specialization Partner of the Year Award for Machine Learning"

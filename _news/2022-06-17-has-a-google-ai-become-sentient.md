@@ -51,15 +51,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Do robots have feelings? Q&A with AI expert on debate over ‘sentient’ chatbot"
-    excerpt: "The debate over a robot’s ability to have human-like feelings reignited over the weekend following a Washington Post report about a Google engineer who claimed that one of the company’s… Read More"
-    publishedDateTime: 2022-06-15T03:42:00Z
-    webUrl: "https://www.geekwire.com/2022/do-robots-have-feelings-qa-with-ai-expert-on-debate-over-sentient-chatbot/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
   - title: "No, Google's AI is not sentient"
     excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
     publishedDateTime: 2022-06-15T15:38:00Z
@@ -164,15 +155,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 17
-  - title: "Google Makes Headlines for Suspending Engineer Who Claims Its AI Is Sentient"
-    excerpt: "Lemoine, who is an engineer for Google’s responsible AI organization was placed on leave after he published a conversation transcript between himself as a Google"
-    publishedDateTime: 2022-06-15T03:43:00Z
-    webUrl: "https://hypebeast.com/2022/6/google-suspending-engineer-claiming-ai-robot-sentient"
+  - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
+    excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
+    publishedDateTime: 2022-06-19T16:24:00Z
+    webUrl: "https://futurism.com/the-byte/google-insider-ai-lawyer"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 14
+      name: Futurism
+      domain: futurism.com
+    quality: 17
   - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
     excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
     publishedDateTime: 2022-06-15T18:00:00Z

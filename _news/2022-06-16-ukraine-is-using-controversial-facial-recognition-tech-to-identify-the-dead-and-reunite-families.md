@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
 type: article
 quality: 61
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -52,6 +52,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
+    excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
+    publishedDateTime: 2022-06-16T23:57:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/469301/urgent-need-for-guidelines-around-use-of-facial-recognition-technology-expert-says"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 33
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--vVa9mFY3--/c_scale,f_auto,q_auto,w_1050/4M9Y749_copyright_image_264530"
+        width: 1050
+        height: 630
+        isCached: true
+  - title: "The Good Guys stores using facial recognition technology revealed"
+    excerpt: "Major retail chain The Good Guys has revealed which of its stores have been fitted with new cameras that capture customers’ “faceprints”."
+    publishedDateTime: 2022-06-15T20:59:00Z
+    webUrl: "https://www.heraldsun.com.au/news/nsw/the-good-guys-stores-using-facial-recognition-technology-revealed/news-story/64c96abeca29d0c6333c600a62c64fd6"
+    type: article
+    provider:
+      name: heraldsun.com.au
+      domain: heraldsun.com.au
+    quality: 19
 
 secured: "ULtotOV/X4LouaqqaeaJf4rQuVpBcslS4N25z9nzsFcwBy4QdIPF2KtDMTcZvRLu6I17qWdpMIXqBbSJEbB+PiGudfOjTR1eUs8hYtlwSb1wqBa3tZ2V9UtT9ei78SQh/xChFfcvVZpC+WRcaDPM0ziGviVZcKNumTXZDkkYG+dtEf97+RAZA/BAAJtqf8lLk++95DKmA8J513hWit7r/QJj/eJMhUSla0214cblgG5NG8emgzrNHb+sw6OAHw0WDp0lYZQTvJavI7EpPArwe4dxh298Oyq4l2awjv3I7H+Gh2ayCbm2qK/FjCmd+RdnPQENmPSLFtTdxv8u7304Xe3Z56ho4TOuIT4RMH3+BCY=;Ux36QBskIcengK5EgXtyVw=="
 ---

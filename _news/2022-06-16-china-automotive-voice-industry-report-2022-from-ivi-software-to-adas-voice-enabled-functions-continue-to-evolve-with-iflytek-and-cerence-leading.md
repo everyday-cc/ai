@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-16T16:25:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

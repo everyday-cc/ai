@@ -83,15 +83,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
-    publishedDateTime: 2022-06-15T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/15/google-debate-over-sentientbots-overshadows-deeper-ai-issues"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 17
 
 secured: "91zrMV6fsqmLwEMMGJ3Xrrm2riHQD3rFYBYBDh4ml+jv4eVnkGf3XXTT6vCY6dpBMxFpgbhKG5KLg9jR2QV7x0Rh40jlkWmE+nFIK68RTc+Q0L5muJKw0iBAzmTYzy6BecLZtG+1R08cEKyhUob/QFHNO/STFSaFkCj6O0uAPMQrokrqYv1ddY7yXXuChRv+/3MbcCiSadQybOHmqaZSDVoI+1fPt9Kdlj80Bwrw7iISoakHsv7v02TPQq5/qfUuzvTmG510xmTSxVIzacQRMfvSRU8ou8M5jk5doHGwq5wr/wJCJJ7YMfoiRE0qubna/KnNezU54vSRNIBPH4iH0v/iiTNdPoirjg1b1aMAv5tAa+EAP9dATIy4JAy43VF16E9FMmIa8kCr7Gf53sU7/xNJGuCU3FhnQT9Xt1jOjnYsFA3JsvUftIXOb0YjLEPrWA3Y0fIi15rVujsxBCFTB84pkDypcl0BnPZgqxP6dqKEXuLUW9+npFo7GcnBWiqmid73jkpBft1gkNumS+AD0A==;jGJke/kdI3IPLjwKHrRRdg=="
 ---

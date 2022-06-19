@@ -1,20 +1,29 @@
 ---
 category: news
 title: "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers"
-excerpt: "H2O.ai, the AI Cloud leader, today showcased a unique set of capabilities and use cases that enable rich insights by seamlessly connecting data and machine learning. Snowflake and H2O.ai bring platforms for data and machine learning together to help more customers around the world innovate with AI through a native integration that allows users to access all of H2O."
-publishedDateTime: 2022-06-15T18:28:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
+excerpt: "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En"
+publishedDateTime: 2022-06-16T08:16:00Z
+originalUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
+webUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Bdaily Business Network
+  domain: bdaily.co.uk
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
-secured: "gdcJcifDoLBccnXFFuGOpBqLNxAt9ahyKA7yCdw88WzoCtQu52+N3kQHlXajwjiJuymvj01cQ6Yww17uJITPB/eLECM7/U/8u31BnMQZDXSdy/hh7Gu6kPXdGgD0CYb5xuPweG0PJwUwolWDFTXS9sDjoL7mVt/95OJKHiCvbqCLLRuTSmGT52UPIj39rZawnFibWM0J7PVqUOdK9kza+r2PwNLjEOfPX5J+i2HJClJrpK6rMCWvp8OvIye0lzL6hkL8wmT//f6A5wnzAa7qTdYIHXCJVuxM6gFhX7JBbN2cuFzHrRSeFZdomrbuaQ30+P6AVVaRjkr6nh0UWtFNCbncHkBLPABN1bELhA6fYoGnGomQCd/vnkZnNukU60gI4IfFUkJB/Do1bR9m22mvsM2CbYeuNf6t908Z2QzUj8Yc6E5GmSnnyixyL/3X5H4nGgK+yTKJn5nN7aHtb67MrJfqOVMPWiTWpTwuMtjS/MWZ3dOdPf5/yTTpumNNig1zxK56UJqAPTni42iU/9vRPw==;a9C7Xf9P3reNkDupsvDW1w=="
+images:
+  - url: "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=1200&h=627&fm=jpg&fit=crop-47-32&s=88fe7b821d6aca1f29e9a18f3d17c66c"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "F0pl8/7QtQdlbCmrXJe9Wg/HSzKlmi6OU+kuj/ayEUdBtZH5DhgQpNndbL4qOx5Q/KUbh0QlxndZb/hSH+i8c4Xvbqyb4BAu5KngkxS2WSDXafsov/KjwGRq4cXGDkN/Fm26BdPRqf2PCqutuBPQkel4JvpylxxCurf6bfDdWb6cVWNPuRbj/g7Eey2GHDr9bhDoiZZ3bPbpJpdh0Mb4TAR8Txj89ojvu8FWT526baPCWzKcVXJNW0aOeZK++dAExImYflaHzF3nJHaD5WVTpnBHXCXeJTrEbZoGQYeMMpQV8o/i/QVypn7u6tl6aNFEOXVRPKlg9DrcFIQPtJEwxzCGByOLoinKWzi47AG0YWQ=;dSZoyrPCSkUa1EVI4gGzbw=="
 ---
 

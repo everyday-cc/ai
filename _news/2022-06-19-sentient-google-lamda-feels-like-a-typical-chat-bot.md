@@ -88,15 +88,6 @@ related:
       name: The Times of Israel
       domain: timesofisrael.com
     quality: 32
-  - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
-    excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
-    publishedDateTime: 2022-06-15T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/15/google-debate-over-sentientbots-overshadows-deeper-ai-issues"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 17
 
 secured: "Ornsh106ULEe9GWVJYiE1iOaaTd6DXmXJMUdi25ZgXIIlV7JHZlQgru/A/UyfUKOy4GrmWrz8RJjxXrHR0c5RR+pQMTktmN0HWWVlBiNODtwIbNHE3PbNTp0Y+4cSWPfyDG+YwcoM+GYvhEVdeyAUta8MuCX3NHOiP4mDofckk8hFd/CxcOGZc45EKqCNr9i500o5FUL68lBRfLeo6DcbVa9w72/lglPDftm4ZdtR5zgq+yY/jtCIoAStkz9BUi+uPBOGRvElBA3YYu3pBsVHQNCje5gP+9thWXV3j+L8zrQCI+ZVDtG6Siq4ww3qj6pyto9yxdo7zRvuvRp5mqw6t7pMkf2mTKkCDlf8F7iinE=;H1JGwhBH2bhj1zk0yyIqeQ=="
 ---

@@ -19,109 +19,46 @@ topics:
   - AI
 
 related:
-  - title: "These Popular Retailers Are Being Investigated Over ‘Unethical’ Use Of Facial Recognition Tech"
-    excerpt: "CHOICE has launched an investigation into Kmart, Bunnings and The Good Guys after it learned they appear to be using (and storing!) facial recognition data of customers in their stores. In case you needed another reason to wear a mask."
-    publishedDateTime: 2022-06-15T01:22:00Z
-    webUrl: "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/"
-    ampWebUrl: "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/"
-    cdnAmpWebUrl: "https://www-pedestrian-tv.cdn.ampproject.org/c/s/www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/"
+  - title: "Ukraine is using controversial facial recognition tech to identify the dead and reunite families"
+    excerpt: "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users."
+    publishedDateTime: 2022-06-16T16:00:00Z
+    webUrl: "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    ampWebUrl: "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
     type: article
     provider:
-      name: PEDESTRIAN.TV
-      domain: pedestrian.tv
-    quality: 62
-    images:
-      - url: "https://www.pedestrian.tv/wp-content/uploads/2022/06/15/Kmart-bunnings.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "CHOICE raises concern over Bunnings, Kmart and the Good Guys use of facial recognition technology"
-    excerpt: "Consumer group CHOICE is referring Kmart, Bunnings and The Good Guys to the Office of the Australian Information Commissioner over their use of facial recognition technology."
-    publishedDateTime: 2022-06-15T03:41:00Z
-    webUrl: "https://www.abc.net.au/news/2022-06-15/choice-investigation-major-retailers-using-facial-recognition/101153384"
-    ampWebUrl: "https://amp.abc.net.au/article/101153384"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101153384"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
+      name: Scroll
+      domain: scroll.in
     quality: 61
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=414&cropW=621&xPos=69&yPos=0&width=862&height=575"
-        width: 621
-        height: 414
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Australian retailers deploy facial recognition as privacy laws stall"
-    excerpt: "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint."
-    publishedDateTime: 2022-06-15T06:43:00Z
-    webUrl: "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/"
+  - title: "Ukraine Using Artificial Intelligence to Catch People Sabotaging War Effort"
+    excerpt: "Police are using software on tablets to see if a person they view as \"suspicious\" is listed in databases, according to Ukraine's Ministry of Internal Affairs."
+    publishedDateTime: 2022-06-15T18:56:00Z
+    webUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
     type: article
     provider:
-      name: Innovation
-      domain: innovationaus.com
-    quality: 54
-    images:
-      - url: "https://www.innovationaus.com/wp-content/uploads/2022/06/CCTV_Camera_800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Facial recognition technology used at retail stores Kmart, Bunnings and The Good Guys raises major privacy concerns"
-    excerpt: "A leading consumer advocacy group is cracking down on a \"creepy and invasive\" practice used by three major Australian retailers."
-    publishedDateTime: 2022-06-15T05:29:00Z
-    webUrl: "https://www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35"
-    ampWebUrl: "https://www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35?amp"
+      name: Newsweek
+      domain: newsweek.com
+    quality: 60
+  - title: "Cheshire Police to roll out facial recognition technology"
+    excerpt: "The technology will be used retrospectively to compare images such as CCTV against pictures held on the police national database. It will also be used to confirm a person's identity if officers believe false information has been given,"
+    publishedDateTime: 2022-06-16T11:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 52
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: "https://content.api.news/v3/images/bin/a50514ba0e9927a8982d6d412e1cf112"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Australian retailers using facial recognition without consumer consent in stores"
-    excerpt: "Consumer advocate CHOICE has revealed that three of Australia's largest retailers are using facial recognition technology in their stores, often without shoppers realising that they are being ..."
-    publishedDateTime: 2022-06-17T00:08:00Z
-    webUrl: "https://itwire.com/business-it-news/security/australian-retailers-using-facial-recognition-without-consumer-consent-in-stores.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 49
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/352b391fa206ab2ec73f84cc4a76d0d3_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Call for ban on facial recognition following claims retailers are using it illegally"
-    excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
-    publishedDateTime: 2022-06-16T01:20:00Z
-    webUrl: "https://www.crikey.com.au/2022/06/16/facial-recognition-technology-bunnings-kmart-choice-report/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 47
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/AdobeStock_225167589-copy.jpg"
-        width: 740
-        height: 400
-        isCached: true
-  - title: "What Of The Future Of Facial Recognition Growth In NZ?"
-    excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
-    publishedDateTime: 2022-06-16T04:20:00Z
-    webUrl: "https://business.scoop.co.nz/2022/06/16/what-of-the-future-of-facial-recognition-growth-in-nz/"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
-    images:
-      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
-        width: 300
-        height: 300
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18667/production/_125434999_7b1278fd-ad71-433c-8ca6-c277f7efc486.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
     excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
@@ -137,42 +74,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "Three Major Aussie Retailers Caught Using Facial Recognition Technology In-Store"
-    excerpt: "A recent consumer group investigation has found that three major Australian retailers have been utilising facial recognition technology without informing their customers. Bunnings, The Good Guys & Kmart have been caught out using facial recognition software which takes facial imprints of their customers and keeps them on file for future use."
-    publishedDateTime: 2022-06-15T02:30:00Z
-    webUrl: "https://www.triplem.com.au/story/three-major-aussie-retailers-caught-using-facial-recognition-technology-in-store-201219"
-    type: article
-    provider:
-      name: Triple M Sport
-      domain: triplem.com.au
-    quality: 29
-  - title: "Kmart, Bunnings using facial recognition in-store"
-    excerpt: "Australian retailers Kmart, Bunnings, and the Good Guys are testing the use of facial recognition in their stores with limited consent from customers. According to a report from consumer group Choice,"
-    publishedDateTime: 2022-06-15T02:47:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/kmart--bunnings-using-facial-recognition-in-store.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 19
-  - title: "‘Creepy and invasive’: Kmart, Bunnings and The Good Guys accused of using facial recognition technology"
-    excerpt: "An investigation by Choice has found three major retailers in Australia – Kmart, Bunnings and The Good Guys – are capturing the biometric data of shoppers, often without their knowledge."
-    publishedDateTime: 2022-06-15T01:59:00Z
-    webUrl: "https://www.sbs.com.au/news/article/creepy-and-invasive-kmart-bunnings-and-the-good-guys-accused-of-using-facial-recognition-technology/h08q8evb1"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 3
-  - title: "Bunnings, Kmart and Good Guys investigated by Choice over facial recognition technology: ‘Like collecting DNA’"
-    excerpt: "Three major retailers are at the centre of an investigation over a ‘completely inappropriate use of technology’ to record customers - with most shoppers unaware they're being watched"
-    publishedDateTime: 2022-06-15T03:34:00Z
-    webUrl: "https://www.perthnow.com.au/business/retail/bunnings-kmart-and-good-guys-investigated-by-choice-over-facial-recognition-technology-like-collecting-dna-c-7170664"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 0
 
 secured: "ywuLWwY+YM510ZxWY3VPXIBtalMiJBWvrOiV5+GLFK6eyqm9TfGTLU1DNdxDUV9b7BCz4roO+ZIHEBVWOhLH42t+jm2T6gPgtFpEoeb4pT5vkP/iW9eK6Sx137RUALTW777eEFz44cBxyWxLV7a7JG0UTyAT1sDgkiJWM2JG1o9FJ4GpRM0q63Sn4tY8iyXV+IiabBjVBQmPa7XL1qWj7ndCpEED+BahY/i32wrgYPrqT/+IVre3rfRcBgWnU6dFRjqXTLr2Kjf+YjTqkwtZOp/Y7jlWqQVT+rN5jFGL1O8HJ/v2hv5Hf6/EaCE6xtwnEMT9UCg9G7M45yYEeIRq3Biun+tJ2yJEVhnY2laUvNefl6TJgL9eaGiKZaV+HQstueSkxjdl72FpxlZ+/2fdfFcwVACZzjc0Qicfp6d/xc7Q/8EavP52kLYjvTnOCIO4lMA6EbrlNpS/3e5JdXPxpz6QxG7xLv3WZhJbCo/WqkSaZFL/Xfhth/9I8HeqYsDGxPzFF2t0kOeEyz+J3JqRaw==;d7eMHSEPUenH6t5Y3w5aJw=="
 ---

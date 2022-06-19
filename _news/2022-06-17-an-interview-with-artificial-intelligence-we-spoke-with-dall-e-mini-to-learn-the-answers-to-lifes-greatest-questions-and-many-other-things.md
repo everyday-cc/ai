@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
-    excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-    publishedDateTime: 2022-06-18T19:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 72
-    images:
-      - url: "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Dall-E mini: how the AI image generator makes your meme dreams come true"
     excerpt: "Dall-E mini takes its name (and a lot of its code) from OpenAI’s software Dall-E 2. The team behind this mini version are attempting to replicate OpenAI’s results through an o"
     publishedDateTime: 2022-06-16T06:00:00Z
@@ -74,6 +58,15 @@ related:
         width: 960
         height: 413
         isCached: true
+  - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
+    excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
+    publishedDateTime: 2022-06-19T00:37:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 32
   - title: "DALL·E mini is the viral artificial intelligence artist taking over Twitter"
     excerpt: "Eventually, nine images generated completely by artificial intelligence will appear, bringing your concept to life with varying levels of accuracy and hilarity. In the case of “Dak Prescott holding a banana,” the results were good for a laugh ..."
     publishedDateTime: 2022-06-15T18:39:00Z

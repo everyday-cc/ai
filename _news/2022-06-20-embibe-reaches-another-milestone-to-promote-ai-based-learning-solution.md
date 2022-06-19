@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-19T19:16:00Z
 originalUrl: "https://www.thehansindia.com/news/cities/hyderabad/embibe-reaches-another-milestone-to-promote-ai-based-learning-solution-749510"
 webUrl: "https://www.thehansindia.com/news/cities/hyderabad/embibe-reaches-another-milestone-to-promote-ai-based-learning-solution-749510"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Hans India

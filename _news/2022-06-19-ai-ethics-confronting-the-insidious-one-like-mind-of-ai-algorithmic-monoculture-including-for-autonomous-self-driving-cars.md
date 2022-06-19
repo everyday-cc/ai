@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confron
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1024
         height: 551
         isCached: true
-  - title: "Paving the way for more level 3 self-driving cars"
-    excerpt: "PARIS: Thanks to the latest generation of Valeo’s LiDAR (Light Detection and Ranging) system, Stellantis will be able to offer its customers a more enjoyable driving experience. Level 3 self-driving capabilities can be achieved thanks to the ability of ..."
-    publishedDateTime: 2022-06-15T01:40:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2022/06/15/paving-the-way-for-more-level-3-self-driving-cars/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "GXkmEDBCbKIDRhV9lnXM7AtY3/lYSlbThV/r87dDtLoH322wiavzpJ7chw0emA/AFeYZzgw7xvyf1c8O1S4g0nXiBuQMrsCKNkV+8ViuBKABYbyTQYn04zVT2zJ5LB26sxbofiF8+uFKXaqZ1Emm7nBLnivy8Yfw+NHTag4UoKypgaQb4UBkvyTcTlmf3ETxI2QWWRJCp991hlZbx/amPF+nGbMrf8x8y4K4qB/LmXf0lav3w2FISMDpFQUNP63nu9oVrtsWqDRTe8wTBPd2NUc5Yr4k8HuGQsD7MlKYJ5GynIe9iH47cEA0tTEc4+amCxcwK5QiWckpgE+TSbIBxPh4TTKdkifdXI0/VLsgaXg=;fuRS80ZviLPtYkLpqR0IWQ=="
 ---

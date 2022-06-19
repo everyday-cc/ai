@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Paving the way for more level 3 self-driving cars"
-    excerpt: "PARIS: Thanks to the latest generation of Valeo’s LiDAR (Light Detection and Ranging) system, Stellantis will be able to offer its customers a more enjoyable driving experience. Level 3 self-driving capabilities can be achieved thanks to the ability of ..."
-    publishedDateTime: 2022-06-15T01:40:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2022/06/15/paving-the-way-for-more-level-3-self-driving-cars/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "1y8Mt3mfyvEg6ZWfhHRPoZX2GAaAubELp3FiCbe92cEyHAsmzGKcp/LVy75dLzQqflOIzOJmuwR6GIHw0yGFJXnsOA35K6d4P3b0AKrNcDQo3tUv6ZeT17M9No2ZjX6KCp0nvtyNiaykvdzRuZyt1VADXRtqAHpAIVCCPREC959mpECbDRwjzswS+aoLFzdlIQm9rRGPDY6n+YAMg8i7GL10pASKDdqg0G1Xl4GiR+h++egVcOFkANLskkQkIBxcpkMCx5xgTfZCxGS2X6Az5jrohSfNAQiQ3gQ1breI9XoPaMYf4EDKyao9hv7zc71qrWbi4YrboLFs9X4bSw/UmbRjeSOvO641fy368ukkDSc=;ddNX1Yw9PeV/MxfLzAkpNA=="
 ---

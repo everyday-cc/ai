@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artific
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -151,15 +151,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "If AI ever becomes sentient, it will let us know"
-    excerpt: "Blake Lemoine, a senior software engineer in Google's Responsible AI organization, recently made claims that one of the company's products was a sentient being with consciousness and a soul."
-    publishedDateTime: 2022-06-15T04:46:00Z
-    webUrl: "https://dentonrc.com/opinion/if-ai-ever-becomes-sentient-it-will-let-us-know/article_7596cee8-fba8-5b15-a628-e64b1bd3c93c.html"
-    type: article
-    provider:
-      name: Denton Record-Chronicle
-      domain: dentonrc.com
-    quality: 17
 
 secured: "fCnJ7r2xJGpP9HiRdeQGX+7Oy6wxUDkvMF/gCMbrPZIEsqIViSxOk5FU2V8AAA4K6SHp6VQvZPw+CS7BZfNVd5RQDM9hsagZIpprHujf6711ZqZf8MMmoQLAbp5vYC/psVgfWOA+OhMtvDPFbo49YQslYDDMUHExqcAoa+kL2owTSwJk8GxjW5KntIphtOVzVR7Zr7U+2C04RazqXVBj5uo8P8dlNYMPqZ9tLulsmCdROdBn3jUZYlpVfJZ4YrS1f5+gshIM8BeqmWVmH6Uyg5qee4nHX9jnVLFSeWbMl0h2QEbYYMnAtmayMlBAo6qtk/1YGizYHM/CzaYkLbKahztV8gp5Xl5+SwYtF7j8+maDVuQifE1RQsoPPER5DkDgkNzt02FlVXd2D4VBq1JpG1FUWBJhYFpPTqsmwlAK0qRM3fK6kppExyxqU75asWqH+ZLmqIqGSOBDnTEclksKVuuJVX8li/53RZ8kN5oYIF70j1IgH0tRSo9VIz0yhN5V6uYHZseGua/XGpI77cOC5w==;8PyyS5tsEZU5xrUaAVLvAg=="
 ---

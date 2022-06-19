@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-19T17:27:00Z
 originalUrl: "https://www.stuff.co.nz/opinion/129003196/time-for-artificial-intelligence-to-get-its-own-code-of-conduct"
 webUrl: "https://www.stuff.co.nz/opinion/129003196/time-for-artificial-intelligence-to-get-its-own-code-of-conduct"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
