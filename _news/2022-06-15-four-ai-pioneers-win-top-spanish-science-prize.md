@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-    excerpt: "MADRID (AP) — A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias ..."
-    publishedDateTime: 2022-06-15T12:29:00Z
-    webUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
+  - title: "AI Pioneers Honored With Spain’s Princess of Asturias Award"
+    excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
+    publishedDateTime: 2022-06-15T12:05:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
     type: article
     provider:
-      name: Sioux City Journal
-      domain: siouxcityjournal.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Princess of Asturias Award lauds advances in AI for 2022 edition"
     excerpt: "The 2022 Princess of Asturias Award for Technical and Scientific Research recognized the work of experts in artificial intelligence Geoffrey Hinton, Yann LeCun, Yoshua Bengio and Demis Hassabis, the organization announced Wednesday."
     publishedDateTime: 2022-06-15T12:02:00Z

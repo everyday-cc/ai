@@ -7,8 +7,8 @@ originalUrl: "https://www.deepmind.com/blog/bridging-deepmind-research-with-alph
 webUrl: "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: DeepMind
@@ -29,31 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Google Brain alum to helm new nonprofit AI research lab"
-    excerpt: "a startup creating large language models to rival those from OpenAI and AI2Labs. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in ..."
-    publishedDateTime: 2022-06-14T13:17:00Z
-    webUrl: "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/"
-    ampWebUrl: "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/"
+  - title: "DeepMind Gato and the Long, Uncertain Road To Artificial General Intelligence"
+    excerpt: "To some computing experts, it is evidence that the industry is on the verge of reaching a long-awaited, much-hyped milestone: artificial general intelligence (AGI). This would be huge for humanity. Think about everything you could accomplish if you had a machine that could be physically adapted to suit any purpose."
+    publishedDateTime: 2022-06-19T03:07:00Z
+    webUrl: "https://science.thewire.in/the-sciences/deepmind-gato-artificial-general-intelligence/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: The Wire
+      domain: thewire.in
+    quality: 53
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/sarasedits-3-e1655168633102.jpg?fit=450%2C600&strip=all"
-        width: 450
-        height: 342
+      - url: "https://cdn.thewire.in/wp-content/uploads/2022/06/19083324/possessed-photography-U3sOwViXhkY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1627
         isCached: true
-  - title: "AI startup Cohere launches a nonprofit research lab"
-    excerpt: "Cohere, a startup creating large language models to rival those from OpenAI, today announced the launch of a nonprofit research lab: Cohere For AI. Headed by Google alum Sara Hooker, Cohere says ..."
-    publishedDateTime: 2022-06-14T13:21:00Z
-    webUrl: "https://techcrunch.com/2022/06/14/ai-startup-cohere-launches-a-nonprofit-research-lab/"
+  - title: "Will Google’s DeepMind substitute Humans?"
+    excerpt: "Google’s DeepMind claims to have achieved close to human-level AI. Dr. Nando de Freitas. He also added that “the game is over!” in a Twitter post."
+    publishedDateTime: 2022-06-16T13:46:00Z
+    webUrl: "https://joyofandroid.com/will-googles-deepmind-substitute-humans/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
+      name: FaceTime On Android
+      domain: joyofandroid.com
+    quality: 19
 
 secured: "SoTjJdzHYahMVfmLTBKQLfD5O+LygQZNNCdAOd7Mk+8x+Az0ReQSQVN8qzdg46uKCYOR40AyembIf+reGPvkT4pqewIVgNnKI2AHz+wzMiC1BFP9KpEArAou8seL7gZkULoxkHuSHZGAAuvzxUn4b/edOzYHAn4M+A6OGC3Rs+CmWQB08ItJ1VE/Agisx1FEAfzI4wckwh8xJCY8IsyxErzjutRSkJ4NlfWDMBU0tlS+r33bX6tBM0ZWzw4CJymbhFBZSjcPpPpvAqINTey9b9Ypn2RrPzMqv4tJJflJkxIoOd6G+8kuoVPOt/2pX87BtH5xnQS1jno1S2lFr9j/KqE35PRP/4dLFLCgtKRok3g=;CDrN2vy7+OV03twsPGHbfg=="
 ---

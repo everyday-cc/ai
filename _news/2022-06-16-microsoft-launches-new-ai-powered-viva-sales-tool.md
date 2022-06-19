@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 998
         isCached: true
+  - title: "Microsoft And Meta Joins Google In Using AI for data centers"
+    excerpt: "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have"
+    publishedDateTime: 2022-06-19T07:47:00Z
+    webUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/"
+    ampWebUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 74
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
     excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
     publishedDateTime: 2022-06-15T20:56:00Z

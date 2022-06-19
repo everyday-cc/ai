@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft And Meta Joins Google In Using AI for data centers"
+    excerpt: "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have"
+    publishedDateTime: 2022-06-19T07:47:00Z
+    webUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/"
+    ampWebUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 74
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Microsoft and Meta join Google in using AI to help run their data centers"
     excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
     publishedDateTime: 2022-06-18T13:00:00Z

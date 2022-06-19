@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Has Artificial Intelligence gained sentience?"
+    excerpt: "Blake Lemoine, who works at Google’s Responsible Artificial Intelligence (AI) team announced the company’s Language Model for Dialogue Applications (LaMDA) was sentient . He has since been suspended by the company due"
+    publishedDateTime: 2022-06-19T07:26:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/11/kama.png"
+        width: 729
+        height: 468
+        isCached: true
   - title: "Should we be concerned about Google AI being sentient?"
     excerpt: "From virtual assistants like Apple's Siri and Amazon's Alexa, to robotic vacuums and self-driving cars, to automated investment portfolio managers and marketing bots, artificial intelligence has become a big part of our everyday lives."
     publishedDateTime: 2022-06-17T14:28:00Z
@@ -91,22 +107,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "TechScape: why you shouldn’t worry about sentient AI … yet"
-    excerpt: "A researcher says Google has created an AI being with smarts and soul, but my own attempt reveals the truth behind those claims. Plus, the latest crypto crash"
-    publishedDateTime: 2022-06-15T10:19:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/15/techscape-google-chatbot-lamda-sentient-artificial-intelligence"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/1522_1043_2637_1582/master/2637.jpg?width=620&quality=85&auto=format&fit=max&s=50982f1d3219a19b19768fcd8276e7d7"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Science for All | How do you know if an AI program is sentient?"
     excerpt: "The word “sentient” is defined by the Merriam Webster as “responsive to or conscious of sense impressions; Aware; Finely sensitive in perception or thinking” – Humans are sentient beings, hence an AI that incorporates sentience is vying with humans in intelligence."
     publishedDateTime: 2022-06-16T08:57:00Z
@@ -123,37 +123,21 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Biggest Artificial Intelligence controversies: Racism, sexism and ‘becoming sentient’"
-    excerpt: "From Google's LaMDA to Microsoft's Tay, artificial intelligence models often find themselves at the centre of controversy. Here are some of the biggest AI controversies in recent times."
-    publishedDateTime: 2022-06-15T06:49:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/biggest-artificial-intelligence-controversies-racism-sexism-and-becoming-sentient-7969270/lite/"
+  - title: "Forget sentience… the worry is that AI copies human bias"
+    excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
+    publishedDateTime: 2022-06-19T06:30:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 52
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://images.indianexpress.com/2022/06/Artificial-intelligence-controversy-racism-sexism-sentient.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "A Google Software Engineer Believes an AI Has Become Sentient. If He’s Right, How Would We Know?"
-    excerpt: "Our understanding of sentience and consciousness in AI systems might be limited by our own particular brand of intelligence."
-    publishedDateTime: 2022-06-15T14:12:00Z
-    webUrl: "https://singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/"
-    ampWebUrl: "https://singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/06/15/a-google-software-engineer-believes-an-ai-has-become-sentient-if-hes-right-how-would-we-know/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 46
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/06/MaxGruber-Clickworker3d-printed-1080x720-1.jpg"
-        width: 1068
-        height: 601
+      - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
+        width: 620
+        height: 372
         isCached: true
   - title: "Comment: Artificial intelligence will tell us if it’s sentient"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"

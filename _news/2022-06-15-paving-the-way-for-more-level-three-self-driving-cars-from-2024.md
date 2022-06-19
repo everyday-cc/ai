@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Is Your Car Autonomous? The 6 Levels of Self-Driving Explained"
-    excerpt: "We're still a few years out from truly self-driving cars shuttling us all around. Here are the technology milestones your ride has to reach before it can be considered fully autonomous."
-    publishedDateTime: 2022-06-14T14:37:00Z
-    webUrl: "https://au.pcmag.com/cars-auto/94559/is-your-car-autonomous-the-6-levels-of-self-driving-explained"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/help/i/is-your-ca/is-your-car-autonomous-the-6-levels-of-self-driving-explaine_f55c.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How free-wheeling Texas became the self-driving trucking industry's promised land"
     excerpt: "FORT WORTH, Texas, June 17 (Reuters) - For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially ..."
     publishedDateTime: 2022-06-17T11:30:00Z
@@ -143,15 +129,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Are self-driving cars legal in the UK?"
-    excerpt: "Self-driving cars are a big problem for UK legislators. There are a couple of cars on sale today (such as the Tesla Model S and Mercedes EQS) which could soon drive without human intervention – but full self-driving systems aren’t legal to use on UK roads just yet."
-    publishedDateTime: 2022-06-14T13:53:00Z
-    webUrl: "https://www.carmagazine.co.uk/autonomous/are-self-driving-cars-legal-in-the-uk/"
-    type: article
-    provider:
-      name: CAR Magazine
-      domain: carmagazine.co.uk
-    quality: 4
   - title: "Paving the way for more level 3 self-driving cars"
     excerpt: "PARIS: Thanks to the latest generation of Valeo’s LiDAR (Light Detection and Ranging) system, Stellantis will be able to offer its customers a more enjoyable driving experience. Level 3 self-driving capabilities can be achieved thanks to the ability of ..."
     publishedDateTime: 2022-06-15T01:40:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/09/woman_with_headset_engaged_in_discussion_via_video_conference_teleconferencing_online_meetings_virtual_events_training_by_fizkes_gettyimages-1198252567_2400x1600-100857863-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft And Meta Joins Google In Using AI for data centers"
+    excerpt: "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have"
+    publishedDateTime: 2022-06-19T07:47:00Z
+    webUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/"
+    ampWebUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 74
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg"
+        width: 1200
+        height: 620
         isCached: true
   - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
     excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."

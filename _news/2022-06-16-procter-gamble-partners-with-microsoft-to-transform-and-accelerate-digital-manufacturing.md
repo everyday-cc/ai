@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1183
         height: 887
         isCached: true
-  - title: "Microsoft Brings Voice Controls to Windows 11"
-    excerpt: "The Voice Access feature in Windows 11 allows people to navigate their computer and execute different functions with voice commands"
-    publishedDateTime: 2022-06-14T13:38:00Z
-    webUrl: "https://mobileidworld.com/microsoft-brings-voice-controls-windows-11-061405/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 21
 
 secured: "oRdLKZJQAB+x8Pi08fDq8fQ/3R5JYXA9fYKPBLv8f9CqZznibMNtZDGe6Q1TPhrjvFRmsfKMoj1AL0vNg8jzN5k2xwmozMelWxwziuAUV7zBVq5sgeBf82AudbVcNG7f1GjG0ZRMt97rV7N5w2gk907nc0dIm6hUMUJ9pDSImdSCgQa6kve7nv4zZnmM26HOjTPzOBTj9wu3EtxSjMIyMDthDLhCYc4UQHVcUVlYDID1Ssiewrt+UvcNAeMzXjvgSSusgPUszF3RPd5GvD/MnVt7aAq4OLSxiqvDu/1TFYLE4ttJuWq/l+PeHVnsjlN9TH4QATMXZUfSlOUuvmxSCwsYRE30w96nDCpg1C0QUrAFzyqTP7NYd/fbpVMvRGfD8ufRYyhsTL8x4yo4jFQH195TZJ0tlAMj1IqHB5x4eoW8F1x7VH/XxcIytu6SIzt98NmLz2cbfEOBYWWwOQk3MfbYdkNGWiqhQT8rE5ZnlZ91nbfeSp5PlUdv2sqd7s0CVko+dkCFml8oBH+VyqikZg==;u0BdumydSP7uvIe93d2jXw=="
 ---

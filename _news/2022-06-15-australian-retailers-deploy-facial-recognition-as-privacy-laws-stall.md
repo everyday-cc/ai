@@ -193,15 +193,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Ethical outrage as major retailers including Bunnings and Kmart amp up facial recognition: Choice"
-    excerpt: "Hundreds of thousands of Australians are having their “faceprints” captured by major retailers without their knowledge, an investigation has found."
-    publishedDateTime: 2022-06-14T14:00:00Z
-    webUrl: "https://www.thechronicle.com.au/news/nsw/ethical-outrage-as-major-retailers-including-bunnings-and-kmart-amp-up-facial-recognition-choice/news-story/8b7269511d843a3f2581a691295f84c4"
-    type: article
-    provider:
-      name: The Toowoomba Chronicle
-      domain: thechronicle.com.au
-    quality: 38
   - title: "Bunnings is among Australian retailers using facial recognition tech to identify who’s shopping in their stores"
     excerpt: "Hardware giant Bunnings, Kmart and The Good Guys are capturing facial recognition data to identify individual customers in their stores"
     publishedDateTime: 2022-06-15T00:00:00Z

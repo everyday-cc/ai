@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "UAE Ministry Of Industry And Advanced Technology, And MBZUAI Launch Training Program On AI Industry Applications"
+    excerpt: "Professional training program on AI implementation in industry aims to help accelerate the adoption of 4IR solutions in the UAE industrial"
+    publishedDateTime: 2022-06-19T07:23:00Z
+    webUrl: "https://menafn.com/1104396663/UAE-Ministry-Of-Industry-And-Advanced-Technology-And-MBZUAI-Launch-Training-Program-On-AI-Industry-Applications"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/19/M_adafaimage_story.jpeg"
+        width: 635
+        height: 441
         isCached: true
   - title: "UAE to deploy artificial intelligence to improve weather forecasts, assist in cloud seeding"
     excerpt: "An AI framework will be built to combine satellite observations, ground-based weather radar data, rain gauges, and numerical weather prediction estimates to determine optimal cloud seeding timings and locations UAE to deploy artificial intelligence to improve weather forecasts,"

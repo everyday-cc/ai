@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UAE Ministry Of Industry And Advanced Technology, And MBZUAI Launch Training Program On AI Industry Applications"
+    excerpt: "Professional training program on AI implementation in industry aims to help accelerate the adoption of 4IR solutions in the UAE industrial"
+    publishedDateTime: 2022-06-19T07:23:00Z
+    webUrl: "https://menafn.com/1104396663/UAE-Ministry-Of-Industry-And-Advanced-Technology-And-MBZUAI-Launch-Training-Program-On-AI-Industry-Applications"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/19/M_adafaimage_story.jpeg"
+        width: 635
+        height: 441
+        isCached: true
   - title: "UAE to deploy artificial intelligence to improve weather forecasts, assist in cloud seeding"
     excerpt: "An AI framework will be built to combine satellite observations, ground-based weather radar data, rain gauges, and numerical weather prediction estimates to determine optimal cloud seeding timings and locations UAE to deploy artificial intelligence to improve weather forecasts,"
     publishedDateTime: 2022-06-16T13:37:00Z

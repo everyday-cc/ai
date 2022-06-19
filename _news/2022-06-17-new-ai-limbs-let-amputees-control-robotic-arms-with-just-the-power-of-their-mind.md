@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-i
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://scitechdaily.com/images/Robot-Machine-Learning-Concept-777x518.jpg"
         width: 777
         height: 518
-        isCached: true
-  - title: "The Power of AI in Machine Vision"
-    excerpt: "onsemi provides a custom mobile app available on Android and iOS (Fig. 3). This allows for the use of Amazon Rekognition via a connected smartphone and a valid AWS account. Once the AWS account is ..."
-    publishedDateTime: 2022-06-14T14:59:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21244247/onsemi-the-power-of-ai-in-machine-vision"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/IoT_retail_Ekkasit919_dreamstime_l_107745072.62a89fd5dcef2.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "I0ScriKTQGyVWacFf4Igo+cWuZtgHhwu7Ay5E2WGK0/Y6+L8DHpPrcDaBFVs6Y+RgX2QFWtA9jU6qAVyWYvDKx1qSJQccdFuvpJqKMCCGNqlo78qIFTJbzZ4+0b34NXC3rMFhCOKEI5Kyt3vJfBYmRDwhqZjsD1hZi1xZ8aJZ2k+umW3F8ecncMt96lwG8xV7PQwVWRSJ4kTijGGbk+qEb6gWTtRXp7g3+ee/xLqf4UM/AXPVecnYYi7BcUrkH6D+vW2CIr+QfCClAlBTmjYwhPYrjUQg5LoieMU1JPsDyl64+f0DFsHmQfIRn4QrlTRo9EZXFZa2IiYrQbsMA6BHzXUCD9IuFz7N0ISH1Lc/DI=;OkK7O+EmEiliE5WZ3u0sAA=="

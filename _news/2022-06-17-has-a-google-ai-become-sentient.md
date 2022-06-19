@@ -233,15 +233,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google engineer claims AI system has developed feelings"
-    excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
-    publishedDateTime: 2022-06-14T13:41:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
   - title: "Stop Saying That Google’s AI Is Sentient, You Dupes"
     excerpt: "To us, it might seem fairly archaic but there was a time when it was highly impressive, and laid the groundwork for some of the most sophisticated AI bots today—including one that at least one engineer claims is conscious."
     publishedDateTime: 2022-06-15T11:51:00Z

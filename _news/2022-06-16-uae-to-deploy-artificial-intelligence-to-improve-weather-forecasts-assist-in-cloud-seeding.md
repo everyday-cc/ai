@@ -48,6 +48,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "UAE Ministry Of Industry And Advanced Technology, And MBZUAI Launch Training Program On AI Industry Applications"
+    excerpt: "Professional training program on AI implementation in industry aims to help accelerate the adoption of 4IR solutions in the UAE industrial"
+    publishedDateTime: 2022-06-19T07:23:00Z
+    webUrl: "https://menafn.com/1104396663/UAE-Ministry-Of-Industry-And-Advanced-Technology-And-MBZUAI-Launch-Training-Program-On-AI-Industry-Applications"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/19/M_adafaimage_story.jpeg"
+        width: 635
+        height: 441
+        isCached: true
 
 secured: "aYmnPa0bbqpmp78ZQflE5K4RQatpDx+tisrzjn1+d75yDlJhEyoRWP0XEgtEmh++5hwdEGkwlt7D/jGo2UAG67JfXX6WKKtVlGC99BUV4FyXbmUP6TFRSuCvTN1CR6j1pN5jgPu20l6uwUmnr2OaKLQfUqhthbYyOdAXrH7OCfZMr3rAR8UL2QzaqrAoUULtm24ec2fAx5hoyPRenCx34wRKKmLTB+RxMgphAW7s1bY8O5yBP6EaUBPGOfICdh3SJ5eJINTpcoy8i50SXpyCOlvgCcivoP/5/5RtEjpkN0hp1L+GdqESzyuMqdY2AST/l/W8QxtE9lf45s8UhuaY+Zh3//WmgbalLVeAAqpn61lmKRcf/JFpBqRZfAVbHYiZVooAjnohmOtVydsgHKlNkTpymacjZr+Y0c3HK7Z5NLZXwnIZei9mj2LcSQ4BHduRVOo6H0HhOoewKyRJu7HRSiaw3640pn6k/Okm+Gp67Vt+8+vH4l9ok+/ou7OeIu0K3RWrDJPybln3jw/tMKaB6w==;xKzSderJz0ierveORGld5Q=="
 ---

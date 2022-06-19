@@ -112,20 +112,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Could artificial intelligence become sentient?"
-    excerpt: "Arguing about intelligence is tricky because, despite decades of research, no one really understands how the main example—biological brains built by natural selection—work in detail. At the same time,"
-    publishedDateTime: 2022-06-14T14:42:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2022/06/14/could-artificial-intelligence-become-sentient"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 41
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220618_BLP503.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google debate over ‘sentient’ bots overshadows deeper AI issues"
     excerpt: "A Google software engineer was suspended after going public with his claims of encountering “sentient” artificial intelligence on the company’s servers – spurring a debate about how and whether AI can achieve consciousness."
     publishedDateTime: 2022-06-15T05:00:00Z

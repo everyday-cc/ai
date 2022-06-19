@@ -7,7 +7,7 @@ originalUrl: "https://www.livemint.com/brand-stories/machine-learning-led-decarb
 webUrl: "https://www.livemint.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-11655215035524.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK"
-    excerpt: "Relocating its global headquarters to London, Ecolibrium has raised $5m in a pre-Series A funding round as it looks to expand its international footprint to the UK"
-    publishedDateTime: 2022-06-14T14:15:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845.html"
-    ampWebUrl: "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/06/14/1600x900/20220614_183609_0000_1655215917852_1655215927337.png"
-        width: 1600
-        height: 899
-        isCached: true
 
 secured: "/7FC5u2dIFYPWblK6o78IZAlSZBW+VFVPkbNvp7NNv7ezNKHSRLo1Ru09CBpQpgNMsp+/ugknOtyebHpTrFtJAJw/m1gxUIK7rf2QgmHGcs99hhGLO+EDGfemUEAY5ds5ZzzeU/uj29H6Rhngzx4Tr03gUG7pHXeX/FKsp6QXJ+n+WooStGuvgNX6xg9QyXbd1QHvDlCzjuCzR/YJGAPRzX6Z3KSHSHXN/VlUH6QYohW52ePl+/puDlXiCAXez6KJrexXuOaveCVBsfZq+N0CY0aC/Sv89/5+MOhXMa849bxiG0OFUE7ynh4TO7qezGIIaiq5icgyyrQJj1EXdKMdIY6XsMBV82r+wnTweI/W4Oy02q3re1zP0y6HJ+/o/pjTAgqcME3jqBFwp9lQ4NgjUWqIkdcUhwnIJUa45aN9hApczwworO29JxQeyxBfxwpi2nnMS/DqHVJUlnf9n2EChg4mf+igxOj8QNRij1hOXwExtV5/Ek6vIRmgiUQzx50qwwbZicFjGhdBQhmTsIwMw==;Kswvp1eNWuONUNTv9BQqRw=="
 ---

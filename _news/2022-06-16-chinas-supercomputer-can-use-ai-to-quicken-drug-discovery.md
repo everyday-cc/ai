@@ -23,17 +23,6 @@ images:
     height: 422
     isCached: true
 
-related:
-  - title: "How is AI Progressing Drug Discovery?"
-    excerpt: "Artificial intelligence has been driven by advances in computational technology, resulting in an expanded ability to collect and process large volumes of data, which have been essential in drug discovery."
-    publishedDateTime: 2022-06-14T13:25:00Z
-    webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=530"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 19
-
 secured: "JCzFMtGksEL4mly9QieBgBuHDei4namWQFvCtCkSzbc3Poo0nPZcmmoDCHpC+/0iTy01MnuPw8xlITz4iCBP5LkOCvN2iRhUsUxfudtr2ppKtkHZqMnQM6Es+bws6teRlh41toxvNa6Hj1iq1NUvLZR6rukN6dol2gW5pJksFa8jEcKviXk125kJ9b5F0L7MxT9QgN/NKLCDNfkEs2M4tpu8lBnRviOhb0YXY/bnvu4zIlkou0wKEQS0Zx5LVgyEf1K4BzYmF2zyLe1jY+XOzik4C/irhbldgm3bVKKzJWLRK3fxK2/HqLyz76a8XfzztCEqFnaeo+tuxBdCRyIJJpI3vdzJD5dXGD+zU9gpeEQ=;jh5XUvghkz9bpcZFJU3jvw=="
 ---
 

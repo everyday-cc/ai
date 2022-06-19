@@ -224,15 +224,6 @@ related:
         width: 660
         height: 427
         isCached: true
-  - title: "Google engineer claims AI system has developed feelings"
-    excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."
-    publishedDateTime: 2022-06-14T13:41:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/06/google-engineer-claims-ai-system-has-developed-feelings/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
   - title: "Has a Google AI Become Sentient?"
     excerpt: "Hello, everyone. Happy Thursday! Last weekend, an interesting story was published about a Google engineer who has been suspended after publicly claiming that one of the company’s artificial intelligences (AI) has become sentient."
     publishedDateTime: 2022-06-16T17:43:00Z
@@ -270,6 +261,6 @@ related:
       domain: scroll.in
     quality: 11
 
-secured: "lQz+Mc97Yv5r1m1/f8imRk/luFPVlHLNsPSoQD06+eN2YM9garjNO9KTpQ00BXR9n8A8X+Rx990gstuYvfgIlfVBqkOKkyL8pCgcfaTsoSwpfBZhLhmq62UfPgpCjoYCGbjY6/uJbBkL+t6pEnRUrkwLRhSwOdZ7NdzWqEkWP+uhq4TQfmJcl9N9ThG4joiDtJsXiZnjlKWC6swgvfCD6fQ28YWEh73M6fwQzXdEDADkMzWjnoOhCsnSG4bEhPxVLxm35jiQXQ0qEpNJpZYiWkUFzLSBPQlRBCnnLHiG1EneCcPPnZY7Rk0/VdbdEay7OuGyPlTzvmIT5uDHAZ2Tw2X6n7VunlGCuc+ceu5aDZA=;k8omNp+4zF6KIHJtw1wdZQ=="
+secured: "4iNFQxVcSt9zllCPleEQVtG233f2oFa8NDFcMwPSISKS8barHBaQauwLkMk6IV4OmzX2qUfWgC5bLeYazNXC12626gCQef9r+NOtC7Qf4IIky8m62dYnkIV4yJvObFdg66onBSIlwLu0Pwc+k1a+VnWhQABfHWXFE0Eb4AoaBaQflC2KYGT2pZ4kBtYgKP89jDx2Zpt7Vuqhm5tbuOIkqNFz1xvCj2UoqSCZApYXtmejWPt5LeMyvSdjBJ5GoJ+acsOzCTgdYdUW5zCIziHSYAMirtBZbUsiqDhOPfZ2Tu4jYFDnLMnNJdTE8IsviN3S0eQlqkwYU5737yJuigx8+dMSaRi84m5EtojMJkpwfVyYtsRBU6wlpeWNpi6yEB+3TIWo11FuHmtwuS+nX4dqdHDHhh087uT8RaUrlu853VvoLVNroERsSzUykJnunmHhUrndb+t/0RdP/RWL3Fwi+AoVgLcmVk/xLzlD6Qk5XbiCPApXzXwNj13MnKLcwEo6zyggKzwLQfB7Ey3GdF9NYQ==;enseys6iykOHxL8xstFv6A=="
 ---
 

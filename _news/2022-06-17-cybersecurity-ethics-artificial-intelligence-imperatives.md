@@ -1,22 +1,23 @@
 ---
 category: news
 title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
-excerpt: "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ..."
-publishedDateTime: 2022-06-16T19:30:00Z
-originalUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
-webUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+excerpt: "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally"
+publishedDateTime: 2022-06-16T20:19:00Z
+originalUrl: "https://www.inforisktoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+webUrl: "https://www.inforisktoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: Info Risk Today
+  domain: inforisktoday.com
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
@@ -35,6 +36,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "z0lxGz1ZSbgyWG0i3XMRDsAJHj6JzsxzdHBRUOq+IrV/lBjQFxJfUQ/7fHSg54iYyaJAsWZCA/DKsWDh7Z6sgYChx1F5pfLUg0T9b5MaY6u1XBHR/4vMctNaioECQscsZ2oWPaNNADAfP0hnZb2xHCD55uifyyzZzqTvY+TgyxPb1uopTnEcoUQM9nCk77hX7RaPMzrFEjWtv9i9QnSK//tXo9WJnQjNRwT7tyLZcufvQlft6+OLJfysWuG02aCm3MqauZd0bxiNlQWnG3ojnRgc7k3d23v5MInTneK+QgKD1CxcwXVt+aYjl6KN5GYHgSKqROIRA+Uy9R97VpRaLYg6g3zml81PCYVsrPn3X/k=;BGio8GsBY4gtZEykaNsHMQ=="
+secured: "MJtZSLAd4BAYcH4ry1OBwpUQA6TkqZDrittlxIZizU91aiRG1+Ga8x2T2/GY/UswDdS7tlcgZFy68FmzdmW5dJwCrhvx++Ug2A3TKN5ASqdLEb25S+uriW+ta/uX2WJjUyBEJVU4Wui0QCNb557sw7gdrQUyG2y0S3McubyHJQiq8gAZV79iin55P5WNwglNRcL2Ojp+TgvQhLMuHQh2Uhu2L6L3Ay0RzxhaWF+O3DP9m87bGLpjMbW7FcrBYWwhuA3ST7bfB0tPnjXi0Z4DmnwajLM+tW/ZMKY3w3L7wh+Gkflbevh4s5ezAXf0pU+wIVUOME9B8X6klLGsRdKWUbaUhuuWjbzjUturqlOhTn8=;n9EeVDWKDilRL/jMmPtnUQ=="
 ---
 
