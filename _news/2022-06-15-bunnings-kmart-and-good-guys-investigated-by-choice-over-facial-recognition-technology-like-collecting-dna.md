@@ -33,17 +33,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Choice investigates Kmart, Bunnings, Good Guys facial recognition technology"
-    excerpt: "It’s a detail that most Aussie shoppers miss when entering some large shops. But now a leading consumer advocacy group is looking into the practice by some major retailers of using facial recognition on customers."
-    publishedDateTime: 2022-06-14T18:36:00Z
-    webUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
-    ampWebUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 36
 
 secured: "kTl2D13XK22mzTc71NVCu7Q+68sC5BSgPRyBavYLZwu4I1YimMuNRT9n2Weo3N6nWDxkieWom7myXzLygT3VwVVvm86jDT2p2qUG8i1tMc3rzbPJXrozOqQ9MFWbkTfepQJgIfRhKaV0R0SVDgMiPeRINg+oxfyELJ1BihTE/ekYXIb6sxJCjvWCz4leu80x4hGA99gcWFL4EyFkxy2kkhBQfN/KlTgt2EBXcBu1FMVYTYrMh8r8hIBUfObHGR0W/xdnwzURhehBcT39KILPnc8psfR+ic/ORMDjMi2QBLXhzrOhfGyVQ1nRRcP28tcIJiWV47lZ6R52qFeAeY4f0ZkV5JbPSfLfOkkHBwiQa0uXqEYTiRB/4g8w5tsBwhfY60z1ampDvTeTCKPiJZpf80om+Scfh4mf8NjDhbT/R3cKGWQ4BN/6cQdkseEqtUM7n9gcac/iM2AB2MabnkJgVBgH/iC/AGSPlS+dOeun2FG+81ve2nGGTiHmmijwrHUQ+s7NVGRbAIGU5zTqWYtqtQ==;+p3ddDqoXILbyQ6uq/WM6g=="
 ---

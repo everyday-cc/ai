@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "6 of the Most Interesting Uses for Robots You Might Not Know"
-    excerpt: "Today there are more incredible uses for robots than ever before. Innovators and inventors worldwide are applying countless types of robots to fascinating"
-    publishedDateTime: 2022-06-16T10:00:00Z
-    webUrl: "https://innotechtoday.com/6-of-the-most-interesting-uses-for-robots-you-might-not-know/"
-    ampWebUrl: "https://innotechtoday.com/6-of-the-most-interesting-uses-for-robots-you-might-not-know/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/6-of-the-most-interesting-uses-for-robots-you-might-not-know/amp/"
+  - title: "11 Movies and Shows About Robots to Watch Instead of the New Season of 'Westworld'"
+    excerpt: "Friends don't let friends ponder artificial intelligence and what it means to be human via subpar television that's been drawn out for too many seasons."
+    publishedDateTime: 2022-06-19T11:00:00Z
+    webUrl: "https://gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837"
+    ampWebUrl: "https://gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837/amp"
     type: article
     provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2022/06/imageedit_4_7290785278.jpg"
-        width: 600
-        height: 900
-        isCached: true
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 63
 
 secured: "zs7aHo7M7WecryAroxO1Bw1NgerIY6uDsml0Xt8a25z42m+3n9u9X+6aEcu5BBp6/9lhpjznRx0fT/YjExAgwOYaab4qc+wFvstAm6DQu0ARmXlseDPRmK4ojcEW4Wx17im3fB86R3P37grhgKLQdZQP6OrrcQhthD3jX8uLWpDnfHvZTVIP//Hh/Dclm5hE9zifsFSP/GVmBQnH7sE9l3SZa2fn7QWReHXkPlofYWgkSySLWSrHqYuCgf403UwZwkRAgigUopFwsKClnHess8WPY89iPcYXhea7rnMUMK1jUlrZRMUvZEcbLqizOksL9WDHLibS+Flq2xYzI+GHY5amEG2zEo/MQ3Z0pEgLdsg=;VFQHohaJWqFC1WgNJN78BQ=="
 ---

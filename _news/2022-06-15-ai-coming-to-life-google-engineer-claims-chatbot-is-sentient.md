@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
 type: article
 quality: 87
-heat: 257
+heat: 247
 published: true
 
 provider:
@@ -80,38 +80,6 @@ related:
       - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/06/google_11042016_getty.jpg?w=1280"
         width: 980
         height: 551
-        isCached: true
-  - title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
-    excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
-    publishedDateTime: 2022-06-16T20:31:00Z
-    webUrl: "https://www.northernpublicradio.org/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
-    ampWebUrl: "https://www.northernpublicradio.org/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul?_amp=true"
-    cdnAmpWebUrl: "https://www-northernpublicradio-org.cdn.ampproject.org/c/s/www.northernpublicradio.org/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul?_amp=true"
-    type: article
-    provider:
-      name: Northern Public Radio
-      domain: northernpublicradio.org
-    quality: 51
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/1daff7f/2147483647/strip/true/crop/4480x2759+0+112/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
-        width: 880
-        height: 542
-        isCached: true
-  - title: "Can the new Google chatbot be sentient?"
-    excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
-    publishedDateTime: 2022-06-14T17:42:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://www.thehindu.com/incoming/1gnup5/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
-        width: 615
-        height: 383
         isCached: true
   - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
     excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
@@ -195,6 +163,20 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/6/2022_6$largeimg_921084191.JPG"
         width: 660
         height: 427
+        isCached: true
+  - title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
+    excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
+    publishedDateTime: 2022-06-17T00:31:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
+    type: article
+    provider:
+      name: Health News Florida
+      domain: usf.edu
+    quality: 31
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/896e028/2147483647/strip/true/crop/4480x2352+0+316/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "A Google worker went public with fears about a chatbot having feelings. Could conscious AI become a reality?"
     excerpt: "Google engineer Blake Lemoine took to Twitter to publish a conversation he had with a chatbot at work - because he was concerned it was 'sentient'. While the tech giant refuted the claim, this has once again raised questions about the future of artificial intelligence."

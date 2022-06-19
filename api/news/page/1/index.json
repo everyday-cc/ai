@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-19-11-movies-and-shows-about-robots-to-watch-instead-of-the-new-season-of-westworld.md",
+      "title": "11 Movies and Shows About Robots to Watch Instead of the New Season of 'Westworld'",
+      "excerpt": "Friends don't let friends ponder artificial intelligence and what it means to be human via subpar television that's been drawn out for too many seasons.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837",
+      "originalUrl": "https://gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837/amp",
+      "publishedDateTime": "2022-06-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-19-has-artificial-intelligence-gained-sentience.md",
       "title": "Has Artificial Intelligence gained sentience?",
       "excerpt": "Blake Lemoine, who works at Google’s Responsible Artificial Intelligence (AI) team announced the company’s Language Model for Dialogue Applications (LaMDA) was sentient . He has since been suspended by the company due",
@@ -10,7 +53,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1175,49 +1218,6 @@
         "IBM AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-horizon-robotics-releases-robot-development-platform.md",
-      "title": "Horizon Robotics releases robot development platform",
-      "excerpt": "The Horizon Hobot Platform consists of the company's Sunrise chip, the TogetherROS operating system, Boxs reference algorithm, robot application examples and supporting development tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
-      "originalUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-horizon-robotics.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

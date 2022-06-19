@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-19T03:30:00Z
 originalUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/19/d09497a2-efaa-11ec-ac16-8fbf7194cd78_story.html"
 webUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/19/d09497a2-efaa-11ec-ac16-8fbf7194cd78_story.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ADPJCHPVII6ZLAWR67XDFGNPA.jpg&w=1440"

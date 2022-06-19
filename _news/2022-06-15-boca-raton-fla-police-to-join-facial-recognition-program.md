@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/06/20220615_AMX_US_NEWS_HERES_HOW_BOCA_RATON_POLICE_1_FL.62ab8bc58acfe.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Groups launch research program to study police facial recognition in Ontario"
-    excerpt: "Joint research program to explore the implications of facial recognition by law enforcement and seek answers to questions surrounding the biometric modality."
-    publishedDateTime: 2022-06-14T17:06:00Z
-    webUrl: "https://www.biometricupdate.com/202206/groups-launch-research-program-to-study-police-facial-recognition-in-ontario"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
         isCached: true
 
 secured: "FkwM8rrPf70N1bEutnIxf4MqLKeLCnhJihze1r65l9XXTRIfW6jzlsDoun4cPq6frr2MNohjEkHqBuoF5ej7cFWOS9amXiOvqTGNCtt1HNuvjq5OsVDpaipaPGbdA9DY8u8LwE5oe5v71QIAAPWjUbBVTVMWn2gFg8vn/ZYU0jf7RX8j3F0Qw3dJoVqjJtN9udO3Db4aN6anOx/P+/b0HOeG6tzgKbC2zKs1gw/mWqT7CmLn36KaSHaV0mMM3DpH0UlP0mtKLOdXHJXV2t27ZLm37UNHYzWRxrVQ5Wb9ARMcDd8UhEg5V/ViIo2aD45ps2/Y1p21l2grTcMB7PRn3gkapBuvUiKZafyZgA5TA1w/mXds7jLR+mwsKP1UhbuMv0Rq2TxqFIpCfRQ4+29CGln3me1cQfxtnG03tZL3Y8FfrO7GJKS/zoXFQNn22D+Gaq9lcdnG0oz61NyJ6rDVaHe37hAho1GMEiLB+4IrZtx8AyCkO4e8E5Fw9r4mOZnIJlLfpWsQWyQO/comum8JPw==;pvnjrkb1tmT5mTTcY72wRg=="

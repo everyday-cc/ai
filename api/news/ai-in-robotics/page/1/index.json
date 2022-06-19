@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-19-11-movies-and-shows-about-robots-to-watch-instead-of-the-new-season-of-westworld.md",
+      "title": "11 Movies and Shows About Robots to Watch Instead of the New Season of 'Westworld'",
+      "excerpt": "Friends don't let friends ponder artificial intelligence and what it means to be human via subpar television that's been drawn out for too many seasons.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837",
+      "originalUrl": "https://gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/westworld-new-season-11-robot-movies-watch-instead-1849073837/amp",
+      "publishedDateTime": "2022-06-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-19-has-artificial-intelligence-gained-sentience.md",
       "title": "Has Artificial Intelligence gained sentience?",
       "excerpt": "Blake Lemoine, who works at Google’s Responsible Artificial Intelligence (AI) team announced the company’s Language Model for Dialogue Applications (LaMDA) was sentient . He has since been suspended by the company due",
@@ -10,7 +53,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1242,49 +1285,6 @@
       "provider": {
         "name": "Ariana News",
         "domain": "ariananews.af",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-insilico-medicine-plans-to-launch-a-fully-automated-ai-driven-robotics-lab-for-drug-discovery.md",
-      "title": "Insilico Medicine plans to launch a fully automated AI-driven robotics lab for drug discovery",
-      "excerpt": "Insilico Medicine's end-to-end AI-driven drug discovery platform, Pharma.AI, draws its strength from the quality and quantity of its data. As Insilico scientific advisory board member and Nobel Prize laureate in chemistry Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "publishedDateTime": "2022-06-08T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

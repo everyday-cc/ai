@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Groups launch research program to study police facial recognition in Ontario"
-    excerpt: "Joint research program to explore the implications of facial recognition by law enforcement and seek answers to questions surrounding the biometric modality."
-    publishedDateTime: 2022-06-14T17:06:00Z
-    webUrl: "https://www.biometricupdate.com/202206/groups-launch-research-program-to-study-police-facial-recognition-in-ontario"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "Q4lXoC8PnCKOe1Cy/Lk+J49ezNR7j+Tbl0oeWwcQ5z9R+ELMdB1Hc2Yd880WMyM0Z1Smxo5AKJcCFo796ZKFFyb/JW9Qr1lqVyxiRf4xIESFCY6u1Jon9hsethsOwBqvh+U5jGC2+gxYm/l++5My9UGk+8l+pVhPWkklnTSC9HchRZRMfLZfPUCLr8LbN0Syz9zv4wfDuTk3cj6anDRFZAz6sxcMN467Zue+xqHTRe/W/tPgjSixLk08gpy1IhyVz32nmqmZbAqzHHd4qXSfHNMy55IQOAhenpGz5FY1uvXpjpZFhpXBfgX2EbvIpEkGg3ZSgrIzB1qkEejxJZ2w4XcvM6e+Su81FyaPB7OBO3YuGomH2xuoprxuoDMWr9qGCNU0mg+9bAzOZFP/+NTiiNbdp8dTUzQN9QdmWiJ8d03lpIf8LDP+/5v9JS4Y+b8ZUm8Q40T0ZQWWzkfsrX2knd2VGIRnww8tyoBNKTtZFJcMg2vFA135xIu8wCglcnjdWg7smftjOBVmZjvEiHn4ow==;6/VJOlafD2mA7j0cpvqIqg=="
 ---

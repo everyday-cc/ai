@@ -2,27 +2,25 @@
 category: news
 title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
 excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
-publishedDateTime: 2022-06-16T20:31:00Z
-originalUrl: "https://www.northernpublicradio.org/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
-webUrl: "https://www.northernpublicradio.org/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
-ampWebUrl: "https://www.northernpublicradio.org/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul?_amp=true"
-cdnAmpWebUrl: "https://www-northernpublicradio-org.cdn.ampproject.org/c/s/www.northernpublicradio.org/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul?_amp=true"
+publishedDateTime: 2022-06-17T00:31:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
+webUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Northern Public Radio
-  domain: northernpublicradio.org
+  name: Health News Florida
+  domain: usf.edu
 
 topics:
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/1daff7f/2147483647/strip/true/crop/4480x2759+0+112/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
-    width: 880
-    height: 542
+  - url: "https://npr.brightspotcdn.com/dims4/default/896e028/2147483647/strip/true/crop/4480x2352+0+316/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -96,22 +94,6 @@ related:
       - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/06/google_11042016_getty.jpg?w=1280"
         width: 980
         height: 551
-        isCached: true
-  - title: "Can the new Google chatbot be sentient?"
-    excerpt: "He was engaged by Google to test for bias/hate speech in the Language Model for Dialogue Applications (LaMDA), Google’s nextGen conversational agent. He was sent away on paid leave after claiming that the updated software is now sentient."
-    publishedDateTime: 2022-06-14T17:42:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/can-the-new-google-chatbot-be-sentient/article65526400.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://www.thehindu.com/incoming/1gnup5/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
-        width: 615
-        height: 383
         isCached: true
   - title: "No, Google's AI is not sentient: Tech company shuts down engineer's claim of program's consciousness"
     excerpt: "Many in the AI community pointed out that his tale highlights how the technology can lead people to assign human attributes to it."
@@ -247,6 +229,6 @@ related:
       domain: scroll.in
     quality: 11
 
-secured: "E4pLs8q3xhnXaI8PhO2/Cb/8+Qngp2V/6qONT2Jff8txPNvInGvzGnflSabC6jC2uWMLJ1UdiNo95Srh2c6kat5mqO3nT0+fy2Nt0ubXusTSaQskRHrYnPXbuqS4KFnxxZxlFtc9oJdSa+2FyXSEgsW9HZL9mHNxOXTm0TI+qOX0dnLK4hO02W7WpY2/lCSxEMWjnYvhIin5J6bY1EtnTB9+m35KhTPGTV2N/54tJCOOn+wi8R9KA5bv2ZgjQ5rxVjwaHzkZz66Rad26UF+Slb7wHQZNkmhu/4enP9aAQkmpAX3lnX+WVZLAkYyQTzkuiZh1k3kaj1jc8Y+kaWJsxlgV0mKam3OCObrjI9eg79M=;Bm2lgMtNS02t1T1S7v/G2A=="
+secured: "coAaaNe/n9f+btiEUIMUI1ZhD2dg6m/cM9Jc5kxLhb5Mzjf9qhowkZn5CxXvXoFTO/9vd45eCWsF/Zjy3SifysJAVXD4pWwJIoCOpTuwf1H3YRCIRc8+M1Xx6Ej2JcQ02ljTed79VSSn9n1YnxBQ8QlyjlG465+OgUrHHqmAd3gnRVp4wXzMB/v6MoZbHbITVzdl6vzGW3lSODmgSkEi0n3kVoNoOuhqkE3hEqB4QR8NZ0NttpG375XyPaCMOP0y8/m83S+u/2pDZS8lXNYmx4dYU1q1Ei1kquTP05nt8Ujtl8eBLXP+f2BrBnJrEq0Sxh0BpGNgFldOKHCYdXUT2K6SflBGuL6ThtUgK0PqDW8=;PaDdXFhXOEtspGrDCFY4AA=="
 ---
 

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Choice investigates Kmart, Bunnings, Good Guys facial recognition technology"
-    excerpt: "It’s a detail that most Aussie shoppers miss when entering some large shops. But now a leading consumer advocacy group is looking into the practice by some major retailers of using facial recognition on customers."
-    publishedDateTime: 2022-06-14T18:36:00Z
-    webUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
-    ampWebUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 36
   - title: "Bunnings, Kmart and Good Guys investigated by Choice over facial recognition technology: ‘Like collecting DNA’"
     excerpt: "Three major retailers are at the centre of an investigation over a ‘completely inappropriate use of technology’ to record customers - with most shoppers unaware they're being watched"
     publishedDateTime: 2022-06-15T03:34:00Z

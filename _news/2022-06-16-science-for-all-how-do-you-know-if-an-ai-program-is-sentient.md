@@ -58,22 +58,6 @@ related:
         width: 2880
         height: 2160
         isCached: true
-  - title: "Is there a cause for worry if AI turns sentient?"
-    excerpt: "Last December, Timnit Gebru, also an AI ethics researcher at Google, was allegedly fired after she drew attention to a bias in the company’s AI . But why do humans fear intelligent AI? If you’re a fan of sci-fi movies like I, Robot, The Terminator or ..."
-    publishedDateTime: 2022-06-14T17:41:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient-11655227879060.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient/amp-11655227879060.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/is-there-a-cause-for-worry-if-ai-turns-sentient/amp-11655227879060.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/06/14/600x338/primerpic_1655228015898_1655228027695.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI sentience should not eclipse its real problems"
     excerpt: "The excitement stirred by a Google bot said to be turning human was a likely case of empathy projection. It must not distract us from real-world ethical worries that attend AI deployment"
     publishedDateTime: 2022-06-17T03:47:00Z
@@ -116,7 +100,7 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
         width: 620
