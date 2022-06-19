@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.9news.com.au/article/8c67ef77-fbcd-451d-8e98-2af1f243938
 cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/8c67ef77-fbcd-451d-8e98-2af1f2439389"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Choice investigates Kmart, Bunnings, Good Guys facial recognition technology"
-    excerpt: "It’s a detail that most Aussie shoppers miss when entering some large shops. But now a leading consumer advocacy group is looking into the practice by some major retailers of using facial recognition on customers."
-    publishedDateTime: 2022-06-14T18:36:00Z
-    webUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb"
-    ampWebUrl: "https://www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/lifestyle/real-life/news-life/choice-investigates-kmart-bunnings-good-guys-facial-recognition-technology/news-story/30b5b997b72777b1d706b8f4130ebafb?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 36
   - title: "Bunnings, Kmart and The Good Guys say they use facial recognition for ‘loss prevention’"
     excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores. If you’ve seen the movie Minority Report, you’ll remember how Tom Cruise’s character John Anderton is identified through iris recognition to perform his duties,"
     publishedDateTime: 2022-06-16T18:56:00Z

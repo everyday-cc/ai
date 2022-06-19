@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial"
-    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families."
-    publishedDateTime: 2022-06-14T10:52:00Z
-    webUrl: "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 61
-    images:
-      - url: "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop"
-        width: 320
-        height: 208
-        isCached: true
   - title: "Ukraine is using controversial facial recognition tech to identify the dead and reunite families"
     excerpt: "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users."
     publishedDateTime: 2022-06-16T16:00:00Z
@@ -59,36 +43,15 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Colorado Law Restricts Use of Facial Recognition Technology by Government Agencies"
-    excerpt: "Ramping up the state’s continued focus on data privacy, on June 8, 2022, Colorado Governor Jared Polis signed legislation aimed at limiting the use of facial recognition technology by government"
-    publishedDateTime: 2022-06-15T23:19:00Z
-    webUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies"
-    ampWebUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
+  - title: "Ukraine Using Artificial Intelligence to Catch People Sabotaging War Effort"
+    excerpt: "Police are using software on tablets to see if a person they view as \"suspicious\" is listed in databases, according to Ukraine's Ministry of Internal Affairs."
+    publishedDateTime: 2022-06-15T18:56:00Z
+    webUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 53
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "Cheshire Police to start using facial recognition technology"
-    excerpt: "CHESHIRE Police officers will soon be able to use facial recognition technology to help them identify offenders."
-    publishedDateTime: 2022-06-16T10:44:00Z
-    webUrl: "https://www.chesterstandard.co.uk/news/20214563.cheshire-police-start-using-facial-recognition-technology/"
-    type: article
-    provider:
-      name: chesterstandard.co.uk
-      domain: chesterstandard.co.uk
-    quality: 39
-    images:
-      - url: "https://www.chesterstandard.co.uk/resources/images/13885226/"
-        width: 650
-        height: 433
-        isCached: true
+      name: Newsweek
+      domain: newsweek.com
+    quality: 60
   - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
     excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
     publishedDateTime: 2022-06-16T23:57:00Z
@@ -112,24 +75,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 22
-  - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
-    excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
-    publishedDateTime: 2022-06-14T23:53:00Z
-    webUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
-    type: article
-    provider:
-      name: KTVQ
-      domain: ktvq.com
-    quality: 8
-  - title: "Bunnings, Kmart and Good Guys investigated by Choice over facial recognition technology: ‘Like collecting DNA’"
-    excerpt: "Three major retailers are at the centre of an investigation over a ‘completely inappropriate use of technology’ to record customers - with most shoppers unaware they're being watched"
-    publishedDateTime: 2022-06-15T03:34:00Z
-    webUrl: "https://www.perthnow.com.au/business/retail/bunnings-kmart-and-good-guys-investigated-by-choice-over-facial-recognition-technology-like-collecting-dna-c-7170664"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 0
 
 secured: "LpNLrqyRxqU1fEaiGjYB8hIbBYa5A8VLuu2cRvV67dzS570hUi0FO8XMcXq3HnZzPm4v3Bf87OW7HdhaEO7RI6ZWN6jry//mJqqClIq9oLFz1QahlIdWhY5gRDL96DWWyluP6phsRZN40EhR+e32mPCv51SKhKKJs7FKu14+ElnOPkmPFMwAdquYfPLeNTEJvVx0bVdrivVaXU0jC6emKJVJOSZahEeRfEnK+LSFa3MKlzaEhvfEiqc3Hc1T9ZOHLE2PhGgamctVy9qV9EZUCp94pnvBkzaOekhh0TjMhflWQsDuCV4EVyJpRn6QBuFEo8wg6gWg0Pf9C0MVdKjWyYT2K4iNbQ2IsJoFUrXBqe4GYQlbzRQQ17UW2fIQOu/RUNKzGfY9L+177cW7glTPa3CyJczaUKRzotUZun2e+tpJbjJdM+FV89WiyPIXu3aKoI0k6BHEFL7Q26dzMD307klcnbnX2I7Z1Am8p6Pi4MxKNg4BpxGefGepeaS1dwVYCmvNcDAlOQ5vOa1IvnRq7g==;utrimwLyByYUGb1UNwgBfg=="
 ---

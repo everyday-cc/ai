@@ -2,23 +2,33 @@
 category: news
 title: "AI and Robotics in healthcare: A phone could hear if you have TB"
 excerpt: "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives."
-publishedDateTime: 2022-06-17T06:36:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/world-africa-61834753"
-webUrl: "https://www.bbc.co.uk/news/av/world-africa-61834753"
+publishedDateTime: 2022-06-17T07:07:00Z
+originalUrl: "https://www.bbc.com/news/av/world-africa-61834753"
+webUrl: "https://www.bbc.com/news/av/world-africa-61834753"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 116
+heat: 116
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
   - AI in Robotics
 
-secured: "PdoD2OZz4chHlCwe7mZXoITdJsGr2kUjg7rBqcx9WK8P1IjOZVZSDnzr8W7s30FED82mnh7vkY+2o3fF7XIvhnSYt0dPD640bkw078cAd3fyLaIH0uVFwpyKvNjfKS6RxwqSoghcqolyI1kTlerjdB6jeH2XRepawFDgahZOhz5NIImZdxPHDobgeE4EhYO4G/40/OLyZDhhqI6JloPyXmE6xe4y0hMNnxVaHOv+h/R5U/XE894JN3PJVI5W6+uOp+1vFAGu0TIaCrW5rwZRL7bqNtcJArqwCkWVFq2I9SM97bJBZjcJOFAUsaFZilOjejxtqw6L9H1MI31XfJoXljiRuhI3OL569aq+roa02sKwVCAJtXnKBCSPrE8Ne5WTb9p1RfHI7B3m0seWLhvHH6CxlQPekTBvugKu3MsXAC95qRFeV24P/SuNuVN6o5UW6ND9Jn8kOdc47wGBNSKXLEPgO9INh/He4EnqiG7naxQgajPvVo4VwHMXapa3KkZrBskYClRRshf9eyoWszZ07w==;NtIHa68zsBVVBAvuqBf4xA=="
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1639B/production/_125453019_p0cffz8h.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "Bwa4oMieYEHXmbYtGcnhdhp1vKjOr2WBMrT6195zdOkwmWDPoRvOsbVxgIPnPhsey54UziZlfShh2PUhn9pmjRuw+0UW99ne5bZNQNTBbZ+fNqvrVCYGgcPR5nc0hFvL1fS1T8fqJUzU15K/HG23DbjXzCfjgblP82vKFwE3VlUNMWUgTELHU6uO0H9DbK3IVxJZcbAAK4XpJcfel6wBZPCE5kBesktr+h4tV0hCdd0yAC0MN2rKBpce15ShVP64K9xYAUjl+xX0FcWACniYnHM8gJJHT9w1ccbcWmcm+qBxEgNGSrQfdl4YmCepucMvezhBNGjj8hqKDkNNUDt5YY6+fIutxB/9XHS8ii8BFP0=;5hHbIeOzUstA+J4XD2hkjA=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-peo
 webUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
 type: article
 quality: 60
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -22,36 +22,61 @@ topics:
   - AI
 
 related:
-  - title: "UAE to boost rainfall using AI in cloud seeding operations"
-    excerpt: "The project will use artificial intelligence (AI) to achieve enhanced rainfall prediction. The project's focal point will be the creation of an AI research and operations testbed in the UAE. An AI framework will be built to combine satellite observations ..."
-    publishedDateTime: 2022-06-16T09:07:00Z
-    webUrl: "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations"
-    ampWebUrl: "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1"
+  - title: "Ukraine is using controversial facial recognition tech to identify the dead and reunite families"
+    excerpt: "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users."
+    publishedDateTime: 2022-06-16T16:00:00Z
+    webUrl: "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    ampWebUrl: "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 57
+      name: Scroll
+      domain: scroll.in
+    quality: 61
     images:
-      - url: "https://image.khaleejtimes.com?uuid=b0d9d4ee-9a74-54e9-ade5-de268934f040&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Ai Weiwei’s cage sculpture in Stockholm takes on new meaning following war in Ukraine"
-    excerpt: "The Chinese artist and activist Ai Weiwei says that his large sculpture Arch (2017), which was unveiled in Stockholm this week, takes on extra resonance in the wake of the war in Ukraine. The work, which stands outside the Nationalmuseum,"
-    publishedDateTime: 2022-06-16T10:55:00Z
-    webUrl: "https://www.theartnewspaper.com/2022/06/16/ai-weiweis-cage-sculpture-in-stockholm-takes-on-new-meaning-following-war-in-ukraine"
+  - title: "Cheshire Police to roll out facial recognition technology"
+    excerpt: "The technology will be used retrospectively to compare images such as CCTV against pictures held on the police national database. It will also be used to confirm a person's identity if officers believe false information has been given,"
+    publishedDateTime: 2022-06-16T11:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
     type: article
     provider:
-      name: The Art Newspaper
-      domain: theartnewspaper.com
-    quality: 30
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: "https://cdn.sanity.io/images/cxgd3urn/production/9cbce7ac2addf43ba424ccee1f4ea3ea49af60a0-2864x1909.jpg?rect=0,95,2864,1718&w=1200&h=720&q=85&fit=crop&auto=format"
-        width: 1200
-        height: 720
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18667/production/_125434999_7b1278fd-ad71-433c-8ca6-c277f7efc486.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
+    excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
+    publishedDateTime: 2022-06-16T23:57:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/469301/urgent-need-for-guidelines-around-use-of-facial-recognition-technology-expert-says"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 33
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--vVa9mFY3--/c_scale,f_auto,q_auto,w_1050/4M9Y749_copyright_image_264530"
+        width: 1050
+        height: 630
+        isCached: true
+  - title: "How facial recognition technology is being used in Ukraine and why it's still so controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families. But if we fail to grapple with the ethics of this technology now,"
+    publishedDateTime: 2022-06-14T12:45:00Z
+    webUrl: "https://techxplore.com/news/2022-06-facial-recognition-technology-ukraine-socontroversial.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 22
 
 secured: "8ViyW6mqmqMr1GbNGCFvnrLavrr0HgLPxMipwTBdlygWGBsHePwZNghojZyObuL/9Yv2t3DQINBahvz9H73kNTaw3v2JK6yeTFtqMtOobVwwFnx7R9wxPOMehsqfEYPOEqYDUPz50gT+lmXsOfuGwjd0M7gAf6iVEqyMhnAEBo9koigTJ0ay+VLo3ReD+Au+QY8bpoJ5KEGKJrJDq5oh1m4E2+Zr5kQUk2U61vAPuoMQuB8CzkrLWPaGsAXsIUJesdr0zopfAmKiwrmd7EAsu3wxIoG20fzLunv3kpI+hjORsobWbJGYIiRsj2ls7QTtJk+H8yeqafWBkO9LF0nvYsFZLtU4VjRO+1+r5Aft1B539lxplUzMjiFMUNd3X7TDDxuFQIAyRfqFNCR7fPyA+qDd/EhwjMcCUMgTUBCe5lcIjYAGCQzNjvkCDvnBDzCm3Ygo6GGCYsIcisHO9RB1SOkcewRg6xLPxaBsS7jzrn9c7o6XQkxT3QWDpXKFTht+zTJ+rCzcNFKi3rNsXkQ5lQ==;Q8Xi2oxuWv4TbhF1T2j4Gg=="
 ---

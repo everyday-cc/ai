@@ -34,6 +34,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "WEKA v4.0 filesystem goes multicloud"
+    excerpt: "WEKA has ported its filesystem code, which runs natively in AWS, to the Azure, Google, and Oracle clouds with a v4.0 release."
+    publishedDateTime: 2022-06-15T13:00:00Z
+    webUrl: "https://blocksandfiles.com/2022/06/15/weka-v4/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 24
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/06/WEKA-Long-Term-vision-June-2022.jpg"
+        width: 960
+        height: 537
+        isCached: true
 
 secured: "IMgcEgSzxmF8KrUgDu8vXZsDr91ZjDejGlC3bmOYHRjHGeuwypNmlE6sCskX5fF77JSaXm+F78tsITyczgq4PBLCi9m7w6yu88KP6WLPMQvsjWycpjNQDDkm4pJZBYqFPMzGR067GvP280H8rd6m6WXYe6XLLRI5YaGDP6ScypX8cl/GjJO1gA64bzKeQ2NCoy26swpR+uVoyFfoZhtkZzSKOoPAQHIZ2wa5hZwYZ2iTReuwNSDIRWAyz1IrKc+tFsKAuSY8kUsrImjCm1/0LiYUCtnLvGICBO9usaqDdVhGgQBj7XjmycwWDHxZ7MFlNA3x0H/0rBnrlVk7vDP5/W4d9o99khfbzMyU1N63UAc=;yi0buIpBbj4u9+TOq5GfIQ=="
 ---

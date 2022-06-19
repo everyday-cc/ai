@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "PLEO SELECTS LUCINITY TO PROVIDE TRUSTED AI-POWERED AML HUB AS IT CONTINUES TO SCALE"
-    excerpt: "Pleo offers smart spending solutions for forward-thinking companies through a streamlined approach to expense management. Pleo has been acquiring new customers ex"
-    publishedDateTime: 2022-06-14T09:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/14/9620711.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-
 secured: "SDso7mvuEXmi8p26h4xNT5JwfQHffaQD2gP7Mz7tS53+WEXxOJ46TQ1nfdV0OJTTbdsfay/EwREd2Bgxjzg+yslEc1B0iiwRiNilDq9PKad3/hzodcPXCWPmbuczoMYB6sDD9iTFrovK/VlwtgKcsYMlC3aiETimJAyN2pVAr7Pgrh67pldu/b535x7VXCCuWrk9Ucultd4Fs1XKhXwwZHGyOJneRw7L0MjjCoO4e00jQre3lkabDcxrGo5FSJctC7Mx4ftPoDs21S6ny+iT/lYg9739npgiaYa6oy2V6KlAhf+kqDBzfWECesk1Kj8b9MoWdgqkmtpi95Wi7/2nlhulhNmyBFiD+UN3ks8D8t2zE440ncNPzUTNseZSE9EhSETEhcDXYuB2UGD7XQyBQWi09nD2sqdz6IQU+Bf488SQam4/13VoFdvZyYvnvIqeNx+O0pY52nUDeqjtB+KnCnfGTZXSixHA8j65bqAbo67bk9Yuma2tLVTpdTkXt3F7K3oxRpBJ4ZoNk70qk3/NKg==;pie8mzw7kbwaK+mbmRBhgQ=="
 ---
 

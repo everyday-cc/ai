@@ -40,22 +40,6 @@ related:
         width: 521
         height: 322
         isCached: true
-  - title: "How AI Video Analytics Is Energizing Business Operations For Brick-And-Mortar Retail"
-    excerpt: "In the end, it's important to find a solution that meets your specific goals and fits well into your existing processes."
-    publishedDateTime: 2022-06-14T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/how-ai-video-analytics-is-energizing-business-operations-for-brick-and-mortar-retail/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Charles River Analytics Develops Machine Learning-Based Navy Ship Intelligence Systems Monitoring Tools"
     excerpt: "Looking for the latest Government Contracting News? Read about Charles River Analytics Develops Machine Learning-Based Navy Ship Intelligence Systems"
     publishedDateTime: 2022-06-15T20:43:00Z

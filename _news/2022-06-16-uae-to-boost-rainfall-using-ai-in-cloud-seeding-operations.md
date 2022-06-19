@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Khaleej Times
@@ -26,29 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine Using Artificial Intelligence to Catch People Sabotaging War Effort"
-    excerpt: "Police are using software on tablets to see if a person they view as \"suspicious\" is listed in databases, according to Ukraine's Ministry of Internal Affairs."
-    publishedDateTime: 2022-06-15T18:56:00Z
-    webUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
+  - title: "How the UAE is finding an ally in AI"
+    excerpt: "As IT departments steadily promote to the C-suite and Industry 4.0 gathers pace, AI in all its applications is becoming a central priority. At the recent World AI Show in Dubai, industry leaders pored over IT growth,"
+    publishedDateTime: 2022-06-15T09:26:00Z
+    webUrl: "https://www.cio.com/article/401308/how-the-uae-is-finding-an-ally-in-ai.html"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 60
-  - title: "Ai Weiwei’s cage sculpture in Stockholm takes on new meaning following war in Ukraine"
-    excerpt: "The Chinese artist and activist Ai Weiwei says that his large sculpture Arch (2017), which was unveiled in Stockholm this week, takes on extra resonance in the wake of the war in Ukraine. The work, which stands outside the Nationalmuseum,"
-    publishedDateTime: 2022-06-16T10:55:00Z
-    webUrl: "https://www.theartnewspaper.com/2022/06/16/ai-weiweis-cage-sculpture-in-stockholm-takes-on-new-meaning-following-war-in-ukraine"
-    type: article
-    provider:
-      name: The Art Newspaper
-      domain: theartnewspaper.com
-    quality: 30
+      name: CIO
+      domain: cio.com
+    quality: 39
     images:
-      - url: "https://cdn.sanity.io/images/cxgd3urn/production/9cbce7ac2addf43ba424ccee1f4ea3ea49af60a0-2864x1909.jpg?rect=0,95,2864,1718&w=1200&h=720&q=85&fit=crop&auto=format"
-        width: 1200
-        height: 720
+      - url: "https://www.cio.com/wp-content/uploads/2022/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
+  - title: "UAE to deploy artificial intelligence to improve weather forecasts, assist in cloud seeding"
+    excerpt: "An AI framework will be built to combine satellite observations, ground-based weather radar data, rain gauges, and numerical weather prediction estimates to determine optimal cloud seeding timings and locations UAE to deploy artificial intelligence to improve weather forecasts,"
+    publishedDateTime: 2022-06-16T13:37:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/uae-to-deploy-artificial-intelligence-to-improve-weather-forecasts-assist-in-cloud-seeding"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 7
 
 secured: "3QV6lj3lIH68ldAIOBZVymBRwwOr/L4IvVmvzJCxW2mfKL+AcMTdZak9JnnWi5gpe8RCyTZCF9uAtKBIrbGwQlZlXT/tBSq4VgWVKZNLLUYa/bOL311jDlor2zXqZ+9oCJ9QL1a4cvjqsgU24OvKuUaGFXYDxu+ZibX7OnxnszWGWt48RjM+Hje80Hyqt6CvMNTdma/WeLnHVchfRln2v6Y4O2qnk2o1KE3NDOeF5eTG3jtw2TaLeIC52GsvysVpK+FA6SjpQsNz8su5AX/Yfa18CSNljMwHakctHFBB+edHhIgK+CgXRusf8CmhsCCrcmGqFUT0QVxKEqTxTkC655ASp9cy/F/ixjU7+96FQns=;+p8DDDO7XDj1phLCn/xcQw=="
 ---

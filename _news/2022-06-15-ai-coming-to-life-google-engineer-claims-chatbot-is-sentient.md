@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
 type: article
 quality: 87
-heat: 297
+heat: 267
 published: true
 
 provider:
@@ -143,34 +143,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Google Suspends Engineer Who Claimed AI Bot Had Become Sentient"
-    excerpt: "Bloomberg  Blake Lemoine, a software engineer on Google's artificial intelligence development team, has gone public with claims of encounterin"
-    publishedDateTime: 2022-06-14T09:26:00Z
-    webUrl: "https://menafn.com/1104371335/Google-Suspends-Engineer-Who-Claimed-AI-Bot-Had-BecomeSentient"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-06/14/TP_8ceebimage_story.jpg"
-        width: 1000
-        height: 647
-        isCached: true
-  - title: "Google’s artificial intelligence is coming to life!"
-    excerpt: "Google’s artificial intelligence is coming to life!At least this is what one of their engineers think."
-    publishedDateTime: 2022-06-14T09:37:00Z
-    webUrl: "https://www.jacarandafm.com/shows/mornings-with-mack/googles-artificial-intelligence-coming-life/"
-    type: article
-    provider:
-      name: Jacaranda FM
-      domain: jacarandafm.com
-    quality: 39
-    images:
-      - url: "https://turntable.kagiso.io/images/iStock-1145990155.width-400.jpg"
-        width: 400
-        height: 224
-        isCached: true
   - title: "No, Google's AI is not sentient"
     excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
     publishedDateTime: 2022-06-15T15:38:00Z
@@ -237,20 +209,6 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/6/2022_6$largeimg_921084191.JPG"
         width: 660
         height: 427
-        isCached: true
-  - title: "QuickCheck: Has a Google chatbot come to life?"
-    excerpt: "ACCORDING to a leak, Google has created an AI that has developed sentience and then they suspended ... cognisant after it answered a series of questions on its rights and the ethics of robotics. After he was placed on suspension, Lemoine published a ..."
-    publishedDateTime: 2022-06-14T09:19:00Z
-    webUrl: "https://www.thestar.com.my/news/true-or-not/2022/06/14/quickcheck-has-a-google-chatbot-come-to-life"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/14/1622332.jpg"
-        width: 1095
-        height: 770
         isCached: true
   - title: "Google engineer claims AI system has developed feelings"
     excerpt: "Google employee Blake Lemoine has been put on paid leave after claiming that Lamda AI - an artificial intelligence chatbot - had become sentient."

@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/industrial-automation/article/212
 webUrl: "https://www.electronicdesign.com/industrial-automation/article/21244593/electronic-design-machine-learning-building-the-bigger-picture-by-leveraging-data"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "MRI Plus Deep Learning Models Estimate Brain-Aging"
+    excerpt: "The Layer-wise Relevance Propagation algorithm, a deep learning model, is a bias-free computational method of estimating brain-aging that can help look at brain-aging globally and in terms of ..."
+    publishedDateTime: 2022-06-17T13:00:00Z
+    webUrl: "https://www.medscape.com/viewarticle/975802"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 54
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/gty_220615_brain_circuits_ai_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "5EOASwGz6Ab+DE8sYrTVb2tFQEt69sFRSdEukZde0I+7ZiT9qq/CGjGy6zRRqJjcadh5x6780Guaw2ohvp0rp8064EXIhhlCs40Y5Mv75wS/NtFzNES/iNVshozO4xfvwCWVQ16NJNR24ByhbtW5Ok4yBKlRntP5847aLVSqU6IrE880Od00unwrU0IkzNxy6eO5/mwnYPdBOVvooJQ0PLjWIUQb2rFpIJwCqqOmNMW/g2L7O9CurqwmXZmvrBLu6mKpsIPC0qhDixPuUseDDI0O3HnVKrTtMF6FoLDhNtBB0NmKXocz2ArJGODcBc3CV+P1PDRF92N4RRIqLqkBRtCw157aE+eS/hKJbEuE5io=;eQ/L2NW3SxJ2GwrgiH/vbw=="
 ---

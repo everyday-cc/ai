@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India"
-excerpt: "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,"
-publishedDateTime: 2022-06-14T12:35:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html"
+excerpt: "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ..."
+publishedDateTime: 2022-06-14T12:56:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
+webUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 related:
@@ -34,6 +34,6 @@ related:
         height: 383
         isCached: true
 
-secured: "HeIWeh9m6oBw+OsJq/sZWsubOjOe3QRCwdoDcqsm1A2L0rhSxY0tGgcXonVO0QEK2kxFMZpMdZZre8nfRdzZQ6Vc/Mqvpg9PuCWbgCNmN0+XdMoS7y5AxRuvAWfCfM//rYkXRBDRYk76FXD+gQaZYUI8/1KTXf9ZbEuDQmqCiciRHUoVmtSh2gxP6tmbMaImYd6OsbU1pJ2C653Y1+mW+4NFaeW0OZz/vgB/fDu6xpt52umJ2E7uhOqmFAuF19vHOchv25WvLv81RgOp/TNIsprKTOQPUvZFhGEdxkDd6LrjTkAEk/eLGWmKOLLOmyucaoHv1Ldd/zPKE4c44BR/PJyzyLoKJ5rLSCI+ormvFKQ=;19VwN07vcfJlMhN707X4og=="
+secured: "6M+Vzx5x6L+/n8picvWj5+JYX9eOjICW18VD0Kah0kHZobHuQwimoGTdbS7gkso4OTOwYrHzSStV7FqcK5awioqw3Y4nZIPzqwsDMZnSq7tsY8UhJW/uOZjE5M7No0DM8ZUzAJlSWdZQUWxKyr5dOtnE1zN3u9V6Gg0+5MsSn6mS7pjSifYv3GWY+bd1SK0HnCvBIuwgyuoaRgaU/7rABxBmfnudZcQaZszdiV8AWA+MMxoCqKiYdWEBwfO11Hw2TMC2u8ylwudnXFOMeOSt1k0f3wqGKcdg/Zb8QeeCxn8ZxqSeOwDv6lzNb++Pgna1TbBQSylOBl2cLI0bq3tOz+iSCestypPZ7jpGGehvd/g=;GoHx2c51iOpF/Xr1LDttpw=="
 ---
 

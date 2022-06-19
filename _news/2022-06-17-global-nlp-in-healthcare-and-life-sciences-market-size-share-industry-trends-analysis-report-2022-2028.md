@@ -24,6 +24,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "AI in Computer Vision Market Size, Share & COVID-19 Impact Analysis, By Type, By Application, and Regional Forecast, 2022-2028"
+    excerpt: "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ..."
+    publishedDateTime: 2022-06-17T08:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-share-covid-19-impact-analysis-by-type-by-application-and-regional-forecast-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/Street-Art-Montreal-Canada-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Computer Vision System Market Trend 2022, Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
     excerpt: "Computer Vision System Market Global 2022 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety Products ..."
     publishedDateTime: 2022-06-15T12:36:00Z
