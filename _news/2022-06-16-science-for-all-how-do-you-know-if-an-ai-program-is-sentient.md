@@ -74,6 +74,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "In Perspective | AI and the red herring of chasing sentience"
+    excerpt: "Artificial neural networks in the other hand, have a predefined model, where no further neurons or connections can be added or removed. Only the weights of the connections (and biases representing ..."
+    publishedDateTime: 2022-06-17T12:46:00Z
+    webUrl: "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758.html"
+    ampWebUrl: "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/06/17/1600x900/3e86f56c-ee38-11ec-816d-25a8f4149995_1655468722716.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "TechScape: why you shouldn’t worry about sentient AI … yet"
     excerpt: "A researcher says Google has created an AI being with smarts and soul, but my own attempt reveals the truth behind those claims. Plus, the latest crypto crash"
     publishedDateTime: 2022-06-15T10:19:00Z

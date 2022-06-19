@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
 type: article
 quality: 87
-heat: 287
+heat: 297
 published: true
 
 provider:
@@ -209,6 +209,20 @@ related:
       - url: "https://eandt.theiet.org/media/1688/viewfromwashington.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131196192660000000"
         width: 1200
         height: 450
+        isCached: true
+  - title: "Don't mention Google's \"sentient\" AI chatbot"
+    excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."
+    publishedDateTime: 2022-06-19T01:28:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/google-ai-and-living-robot-skin/13935982"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13930472-16x9-large.jpg?v=2"
+        width: 594
+        height: 334
         isCached: true
   - title: "Artificial intelligence is evolving, can be sentient in future, say PEC experts"
     excerpt: "The claim by Google engineer that LaMDA, a language model created by Google artificial intelligence (AI), had become sentient and begun reasoning like a human being has sparked a lot of debate and discussion around it."

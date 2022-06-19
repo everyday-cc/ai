@@ -60,6 +60,22 @@ related:
         width: 2400
         height: 1601
         isCached: true
+  - title: "Sentient? Google LaMDA feels like a typical chat bot"
+    excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document that he had circulated to colleagues in which Lemoine urged Google to consider that one of its deep learning AI programs,"
+    publishedDateTime: 2022-06-19T00:19:00Z
+    webUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/009856ccdcd012e776dba72b3dc1444fa900596c/2022/06/18/faddab42-212e-4d7a-8150-b993f1b05ce4/brain-in-a-jar-crop-for-twitter-new-new.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "Has Google's LaMDA become sentient? Understanding the futuristic AI"
     excerpt: "Google's AI-based language model LaMDA has been in the news after Blake Lemoine, a Google engineer, claimed that it had become sentient program"
     publishedDateTime: 2022-06-14T11:24:00Z

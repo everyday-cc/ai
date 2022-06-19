@@ -2,31 +2,45 @@
 category: news
 title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
 excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-publishedDateTime: 2022-06-15T18:22:00Z
-originalUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-webUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-ampWebUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+publishedDateTime: 2022-06-15T17:22:00Z
+originalUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+webUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+ampWebUrl: "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
+cdnAmpWebUrl: "https://www-actionnewsjax-com.cdn.ampproject.org/c/s/www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: WSB Radio
-  domain: wsbradio.com
+  name: Action News Jax
+  domain: actionnewsjax.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
+  - url: "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg"
     width: 1440
     height: 810
     isCached: true
 
 related:
+  - title: "NHTSA: 'Self-driving' cars were linked to 392 crashes in 10 months"
+    excerpt: "As The New York Times explains, the agency linked 392 crashes to partial self-driving and driver assistance systems in the 10 months between July 1st, 2021 and May 15th, 2022. About 70 percent of ..."
+    publishedDateTime: 2022-06-15T18:45:00Z
+    webUrl: "https://www.engadget.com/self-driving-car-technology-crash-data-172606258.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/a38b4130-ecde-11ec-9778-99f801d6ea84"
+        width: 4000
+        height: 2537
+        isCached: true
   - title: "Report: 500 crashes linked to self-driving cars, auto-assist vehicle technology"
     excerpt: "The National Highway Traffic Safety Administration released 10-months-worth of crash data involving vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
     publishedDateTime: 2022-06-18T03:14:00Z
@@ -59,28 +73,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Authorities Release First-Ever Self-Driving Car Crash Report"
-    excerpt: "The disclosure, released by the National Highway Traffic Safety Administration, is the first of its kind and part of an ongoing effort by the federal government to track the safety of autonomous vehicles."
-    publishedDateTime: 2022-06-16T15:05:00Z
-    webUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report"
-    ampWebUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 24
-  - title: "First report on self-driving vehicles shows 500 crashes"
-    excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
-    publishedDateTime: 2022-06-18T03:56:00Z
-    webUrl: "https://www.fox13news.com/video/1082992"
-    ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 24
   - title: "NHTSA: Hundreds of crashes linked to autonomous vehicles and self-driving technology"
     excerpt: "The report showed that there were six deaths and five serious injuries due to the crashes. (NCD)"
     publishedDateTime: 2022-06-15T16:01:00Z
@@ -95,21 +87,7 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Cars with self-driving capabilities involved in hundreds of crashes over past year: Data"
-    excerpt: "National Highway Traffic Safety Administration released new data revealing cars with partial self-driving features were involved in hundreds of crashes last year."
-    publishedDateTime: 2022-06-16T19:14:00Z
-    webUrl: "https://www.fox61.com/video/money/cars/cars-with-self-driving-capabilities-involved-in-hundreds-of-crashes-over-past-year-data/520-f6233a90-759f-4249-8ca5-fbb2501f63e3"
-    type: article
-    provider:
-      name: FOX 61
-      domain: fox61.com
-    quality: 15
-    images:
-      - url: "https://media.tegna-media.com/assets/WTIC/images/ac7061ef-9111-4824-80cc-9cc287df0d21/ac7061ef-9111-4824-80cc-9cc287df0d21_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
-secured: "VIAcuEua2BSSf+cYtLElJvcyueS39uSqB+3Q1DwaFYAjUPxNd5mzJf05AIMHR+kY4w7w0xMu5KC508QDKYnQuL076hvrHVQktTMRksCtdxccYo1k+spP90DdompZZSwBBU1TOwnKYSEKG6KpU9ww7nfG+DVIK8Havc2ePKNHDdWjpZ4P4lymlzb4tG0g6VKxksL5cjjk9D6tJMDEY28H/vGG8OpmBG8JUCC7y+aHFt02Cx0dOxrGrgsYPMPk5vUDeNqvumFY88DKHAIwYWdCBWkVkyxIQoSpBGj9sDvudIjE3QDcEQ0DOZkqn/QAA4TeAbd/t8/8NZpm3c0ltMv5pmmFFWO0xS2QECHcY0YNHWw=;7VRlkTCqzwkupBk4lkWBtg=="
+secured: "8Dzsl/NfAzFDycPqk7BG7zmlPZ50vtTZp8gxtKAU9f0AV779IdmDNc+b34azK5v8mzpewoNDWDfBnTexLJOx3WbsI6ipZKceisoMxA33E2zy9KjWRViibAvH+610igY0wlpYFtZRE2fyAOmvpq/OV3cAl9ushqhYhdbZc8LyMX7lny9ru1Af531qUgnctvTumTWBhUt9qtpuwAajWLoOYRHvLfdprBm9dJOKDmt0+I+RyG+chuRE8eiuVLE9EVzBRi35O636/SvTlHsR/R/nsmI2dad1xD5cPuxWU1BgXfQBseFk1MBz+hByJj5vrWWXQ9CZPcQ/uhkkEnWU5Fb7LrvwPLLtudBM4cfc31gzAho=;xzCbfxBD9wPfHarDN2QTrw=="
 ---
 

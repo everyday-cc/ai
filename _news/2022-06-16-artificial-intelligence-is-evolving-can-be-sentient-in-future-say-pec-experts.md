@@ -225,6 +225,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Don't mention Google's \"sentient\" AI chatbot"
+    excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."
+    publishedDateTime: 2022-06-19T01:28:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/google-ai-and-living-robot-skin/13935982"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13930472-16x9-large.jpg?v=2"
+        width: 594
+        height: 334
+        isCached: true
   - title: "QuickCheck: Has a Google chatbot come to life?"
     excerpt: "ACCORDING to a leak, Google has created an AI that has developed sentience and then they suspended ... cognisant after it answered a series of questions on its rights and the ethics of robotics. After he was placed on suspension, Lemoine published a ..."
     publishedDateTime: 2022-06-14T09:19:00Z

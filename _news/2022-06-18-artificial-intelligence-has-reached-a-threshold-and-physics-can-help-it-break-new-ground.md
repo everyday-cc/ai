@@ -8,8 +8,8 @@ webUrl: "https://interestingengineering.com/artificial-intelligence-physics"
 ampWebUrl: "https://amp.interestingengineering.com/artificial-intelligence-physics"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/artificial-intelligence-physics"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/img/iea/yrwQ9NRpwN/sizes/istock-1343097411_resize_md.jpg"
@@ -26,6 +27,6 @@ images:
     height: 419
     isCached: true
 
-secured: "u4H+3lV5FCzKDmNoFSYECnze+/HgPiNtv7bu5NguSKPJC8FMm12F2xWr5ZdHt08arov8fSajrgf9+F9JRXh5qymhdLheXoyA7VLJM+4jgZeMSjuiU3uSk9yq6vdzVaPFFCrjp2Lp/mqoZ1LDkUjzC269brNWBe6madRIWP/DUOacJX3zcT555yGVXvOy3/W1NjVj+csYX+CoT6t0QwwUj34y9E41sEIRqd6GjeOsYqsAb/1VDQ/f79jNaPZ6n+ZtAGOguuihOH53gaoXkTrnE0tIEzntxxYJG7lldix9JCmyoppCLKpSe2uuRPjGos7pk88w6FKpecGVaX9GhW+DYa6Wn12i6lfb2OMPUE4zQq0=;8wci90TKMdNkM1Wg75hKjg=="
+secured: "NXI4xZfyfDV2bvzjbdTZm8gdrMPoNVpeL+GeuwAzut0J41afH2kloFtgGopuOoCfnUSpxhsC+sSuzD2kMWASQrVauBqiv6xGq5yHvDo0DNaNHZimuFRF7VTrO0BxEH+bc2uneZUnLcODmxSgA7Aek+qAtnUZDxKGhHiE0fgolZ2IoBRcceYjrDVYhU6ILMozwFtKLQTYrfn2e844b3KC3c7f2abNzAYS64z0oWgs9Ex2v2Jz3Xi1I7f7oRiGV7BXZOAbnvjMT8SKfA3QNwUP8sgyDiu4OZH7/8JDNWfPlJ5d7cMBn9No5HRtm54aDQQLl6NEAt0GEqgCQW+3qEIaFTvsIf/GPFL7GdsLFHRvwZJG+7pjZhfDY7js/qUNPeVbIwt744lSaDqHIhEwo2VTGBOvUIeyFscxkJhvdqKOyY++5XaJoXnA9WigOCrfCNmkcJeBcyxFMuuauScm25KOX3495han732CKFoznkdHNcAaykW1l3wbTHp/Pw2I0nXS670aUxt4xZNRvPOc5N/R4Q==;Fmni7B7NJnyzYr1QF0fD0Q=="
 ---
 

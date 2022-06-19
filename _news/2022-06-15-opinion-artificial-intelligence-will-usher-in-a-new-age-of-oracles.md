@@ -26,7 +26,7 @@ related:
     provider:
       name: Daily Press
       domain: dailypress.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.dailypress.com/resizer/aqlo7BFfe8I2VRn2WP7gYdR2q88=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
         width: 1200

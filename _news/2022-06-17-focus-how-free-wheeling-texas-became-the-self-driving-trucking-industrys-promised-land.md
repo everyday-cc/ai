@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How free-wheeling Texas became the self-driving trucking industry's promised land"
+    excerpt: "FORT WORTH, Texas, June 17 (Reuters) - For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially ..."
+    publishedDateTime: 2022-06-17T11:30:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/how-free-wheeling-texas-became-self-driving-trucking-industrys-promised-land-2022-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+    images:
+      - url: "https://www.reuters.com/resizer/dtUeu02ksV3dc_rOo-LvMcuoqtE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MMEFTUYQMRN4LFTF6R6RZWIZHY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Paving the way for more level three self-driving cars from 2024"
     excerpt: "The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo’s third-generation LiDAR"
     publishedDateTime: 2022-06-15T00:21:00Z

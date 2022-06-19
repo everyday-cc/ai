@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-18T22:05:00Z
 originalUrl: "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html"
 webUrl: "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.dailypress.com/resizer/aqlo7BFfe8I2VRn2WP7gYdR2q88=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
@@ -35,6 +36,6 @@ related:
       domain: houstonchronicle.com
     quality: 17
 
-secured: "SYqSO5gqnZgfaZn+CRynXLlzAo4mmEM92blTYpCToSgG75GedsUGyY3HQFqH+vewvWFj0sdak49uDXDK2rlNToMgigLfEpKJKNUFXSObvvqqRrCMHHqejjkogWt6kF0EwIPmYwTUF8U0Ek4gfwQ+mbd0QVurceKTMoxnYHcJJAeOy0KTT5JKBOUjxGziJPvBZmeMrRJrv9LAC1YZqKWL3Luyy/N0fd9Hh2uEnM3pw+B7MDrzTefZ4xZwmh+95mqdv6qHM/t4bWvU6YfESeIDTdesh+qTh3bfj72ULJsF0zSNladlO4JUII2lJouznELm5rD0rPQDuvupb0+Uhg+wBRPUnMmgkvFx8BFa8lr1XBE=;ke50E5sTsTcBE4ifaQwbeg=="
+secured: "tXsmzczcxnVK8iknt7061RbPJhnhzKQqpkN1Ey/5qn52T/wEnzA6u5UCjxzeLs5p+3NYk+UiuCLBSDav0zqkGrCb8pexgRGMqUXgLZj1oKDKeqUf3bFrFZ/fGWbPmwplnBQQV+mZo284k2BGxzq0/p+WQosDKLj+S5GHqSEcJQf2GPYQd2ufhSuKDRQP17UGLQhO34MAnEcM3FtkHQsUA1rtbP5eOcOlxySEzcaZJviGZBptVgIqa82KkxKPXtQcLrwWdIjw2J9ea3omcFZZsjPTz/g+diyAZZb9rzCzysImDxq/2hEmzAOmyidfIYOSsNgZVpKOHuE76k1OsVMUEzxlSlfCwCNxAzYAHIik/ANjDYaHJRFS6mVBGN7WnugV4Hfi5Jzwj+LDOzOEUG2bEoBPFecdnwgm9TVn7Y3lSeaZHsQvdCz8f9ChnLu509Mw+zkPU7INzSQjPzSMdQrkXp38+UN+rzSL7CK5hudqN8w5osyoJbJKTxSiN6hEhKz6l47g2BAR7EkPOK7ITnKJpA==;32tEw52c2MhtKv/OVQu16Q=="
 ---
 
