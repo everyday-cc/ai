@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "iRobot"
   url: "https://twitter.com/iRobot"
-  followers: 42913
+  followers: 42909
 
 size: 501-1,000 employees
 yearFounded: 1990
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "iRobot"
 
-secured: "PyIkNCZVoS/1xbTWaOHcYlt2O/ErUd5M1gt3GsX8e6Le32NVEmc+7cMTVxVxlbjBlONhEiW/7xq8m5jTiYDjVW5rj0OiioCSughRx6ZcF3J6S3yKHwWmHKaRVByDpRAlycQL6EA4D1CPiAVifqexWoChx6fjotfNLMfJecE4s+8EKZOI23RblZeBTyT6lVDljC2GF7BxzE1A4sqawom1MGGj0zyvdm2hCgL/4vqOJYMQrOd1ZTrBFTMs6/HUTQV1x+Gv1hj9a5JRU4dKyZsUzNXq2f4P8iOHMB79fZ6CfdFERLXBGsPZP4ICAXG2jCMYMq3eGowGaDAYZXgfo5c1lVBYsgQifd045ek5kAr1taCSAgCxBpFeLo4F9p4Fs1xtzR/svGjA1oOfFXuzFazj8IeOYswKdyPPpb1w83EME+E=;eYvWO6sm31dfgwcweLv+0A=="
+secured: "7A8sRz1ySPKbFnbh0zMlcIffTIjTVp+TnVV/VYf/G3BojWeuciTpFkhmxTsCWPNGdHX6ouB8moizn9Cx0f9l6KW8gU/BeI7Lko+mS6xIR3NGZX9RXAVIuR3cc4iSst7YI5R7dF3kqAtclzoJOIJIVr7H8Ho9TncyrO5AhRZBr27S2RTPGK1/TwfYc+2+5irfJcE3/eAqIqdAGeCacW24mWEcLwkCgr52786sKr778wOeDYguSXizFtZ6oizpFXCBuYN29+OOGMTWtW5wDhgqWtMn5LplvJQvKnhZ5YlV3r2Iwln0SlKCaVz69R/tgTWZm7TXi+jq5CHKfXgNaKRO3KqhaFqNHSfhsR41zRQiu4iJUMHvxG0esm95Xih3iw4SbmIwRUilkukfO/QBrlR9+xEMhFZ2MmS06fL20TX7pNM=;/PMQxV/EJTHzLc33HQ/o/A=="
 ---
 

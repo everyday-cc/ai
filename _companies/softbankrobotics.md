@@ -2,7 +2,7 @@
 name: "SoftBank Robotics"
 overview: "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises."
 type: "profile"
-heat: 57
+heat: 58
 
 website: https://www.softbankrobotics.com
 
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=oDeQCIkrLvc"
 
-secured: "m99y0NB7yD5nLxBTXPcRKy/Ek9jo8wQB3M8krAUk2CZ8YVMt4hVoddzAfdFnxIIq5sAHQ/ezUNYGCCE9iOzSk5FLkGlRpmoofLczCyrG6IUKa58XD80K5/umrTDzRMuofSR9kd1xCX6Z4LIgBGMtfaEa1IRg22hVAcSNWlQ7EdoR38sFfeZRmWjxpJGl23EtznCH2sjNEBj0J0QdKQDvvbtyQz0aWf9LPrfhe75soYglBBQcTeMiKAambfOzaMVU2gAVSVfR1EALh0ANMVUuvwGgmKPBCYvboFZrR/T/pxhzfvho0PKPB1jraoPhTYYUCYy9I75tx5G7+5d6Rw5Mf+umLp74G+ineuECehrXCZ9iOVAlpyQfy44iFrpFRTB2b0EzwXbhch97nykkaMZpMHl0hutMoqxieMC32I6n/xk=;Ch7swzLSs6w0wWLmhPzIOw=="
+secured: "ASxvAJ5i3ZMrfsqAiYh5bbixAxJK4NqonS9N7ZI/FkslylwAd0pQpJbQP03My0o8BpmotRHpbrZWq7yfo/BoOE0KByyfit7WzJUCzc2KkbE3FKLQJ+EP4wmz5UOV5xrC13GAQwbw+P68lB38s+0BJ7tPGhmsD2NOaVTq4eEBUe9GtWnWYXZGEHHPD5Q9xLFKDXleCK+pJskB04s3ZmhC9j3gMXJdVsIJbOHjMQI1YZVaonVRofIptcMrpX3xjVuXa2c9z7WVw7OGXdL0ztJkZDsznlc+/ts3etqRaf04x8VW0/JJamHLLJlFWDNEyQ8RWYmwHMqcU4LYMEm+Am2DUXP0hVzoshaHJ+ONSumm8cW5GbE96qFduRnbaheA4QjWk4fo8C6oUhOtn4F4NHArCTdJryb/TNCUGzYAA7BdlPA=;l/zwrGfEjLDuF0rpCCiL4w=="
 ---
 

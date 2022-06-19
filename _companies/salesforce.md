@@ -2,7 +2,7 @@
 name: "Salesforce"
 overview: "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses."
 type: "profile"
-heat: 363
+heat: 211
 
 website: https://www.salesforce.com/products/platform/solutions/ai-services/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "salesforce"
   url: "https://twitter.com/salesforce"
-  followers: 574106
+  followers: 574101
 
 size: 10,001+ employees
 yearFounded: 1999
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Salesforce"
 
-secured: "yZWlFk63lCrO1TgNPVzZcwG9dd0sQRh5cj0hps3nnGaUseHKCWEG0A4+mzVSwvj5hmt+UEgaoa69Fvi24ylyHdTCUKp7vKu7m68Bvygfd/KCRISuPCs/J/uMgOkG2K14ljwFqHplPzSLrtdHfx+hhOa6x8mmHi+DSVAQ0lfboTn08ajGuvbOPGahoICnxiHRO27RDoH8xw4FuT9CEKJ+OyXw+1XuwOL3lA+rfVDZAvhVSuXQvu0ATjoNvUskrP6hDPG90Ce/Thk0uSqkuLo6Hh/9NKSw8JlFpfzgI21+DQWBUZdejgiuoOWToe8SlxZu2QtLLc1Aj4xMGJnMJqgw1Ok7zK0xYuI2nwKbhluQ+9UI4MKZSZtDxYXimrQkAsJC8Xf2A09HdY5982q8v/txgIKwykuF+uQppKe2rnCtfeU=;BIjybxLuGFHUh9ytcBD+DA=="
+secured: "u56tVBxiPHS9T+JAFO14k+GnVMe9sPaBqh/OZZATjbFbYa7Ib4Ip0GKO1zO8MxCG/2GiDU9/VQThGhkI+LkEGSZkZtATFAJVCsfZ5XxH4uiBuf17HCToG78M6BAPOzyVeF4HBOnRoN2dQxEBll4OFnZKL2ULt/vfvQEcG9rsi1YYdHBU7WShOhzW3+hgJeZMz5MbFvOaKWUygFywAtxobtY1AwVY8BqbnwJhb3pBGs2vofPWOmzSRa2hUpIGfMd3zmfWd/J/Kh1P26PTxnhFQq/5aswUM4yivzoygZLPRLLBOCgNfE7ynz9m7rypHTOnVUZs4GwLUl22oAPKsnLlkwNOpXNtRvosPgiesdLqy3j/uCbUDnsD/94hc8vitJx1AlJY+/qW0CI3Jnt3Ks0+kQq8J1LVL561GiyhXFOcI4A=;roe4c/W6mPen3/XLIk8vKw=="
 ---
 
