@@ -35,15 +35,15 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "‘Creepy and invasive’: Kmart, Bunnings and The Good Guys accused of using facial recognition technology"
-    excerpt: "An investigation by Choice has found three major retailers in Australia – Kmart, Bunnings and The Good Guys – are capturing the biometric data of shoppers, often without their knowledge."
-    publishedDateTime: 2022-06-15T01:59:00Z
-    webUrl: "https://www.sbs.com.au/news/article/creepy-and-invasive-kmart-bunnings-and-the-good-guys-accused-of-using-facial-recognition-technology/h08q8evb1"
+  - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
+    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
+    publishedDateTime: 2022-06-15T13:23:00Z
+    webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 3
+      name: techxplore
+      domain: techxplore.com
+    quality: 14
 
 secured: "BjGast/vxgPPdS70IpNPrMbSdb66Z4/WrEL7f4KE0Q+5fg2yBVKSUFtTaTdcnJMv8+yO7fOdBftwNBKYJrv+5AxZ5ciwU+v9lXVZMqVOwefDcplJIBOzBeLETZzm11wPyRh8xiUxDTWgof8Wrr8Gje7H/KRe0KyE7g+u9XWNwQ2rEFUyShn6C8j19gOt3NIP6LSC23+WsbHhngMm9ZSXXI5k3sUNLA84ZCLI9AfXpCdeT865kjtIRJKMwyZE6JoymMPIDDnnUc0XbmCN1Yx8EDKeQ9YIfOSIlw8/ZlFTHu8ntBzwJuITdpgiGvTlDWizbBzJxq1MK75gG0mzmATy25s9weFAjuOawJauXmJgWD0n5mXt29a4kLXbIS/IAdWa3P1Y9RdKCV6Otj2CY+UBtB5oB95EIiQj6ujZogyzWFLne4z0ThHqSobqBdWwdbNjxV+hz0jTZaMGf4MMO0vq0OMn9uns49LNoKOePEVbNCY3c1bFnCiCqb0JyR1bhhBI0RTHk6qMv8RPIjxwz1OvRQ==;Vx/QUFWl6aF9MXEPRjGShg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/272586484/research-claims-mili
 webUrl: "https://www.bignewsnetwork.com/news/272586484/research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Military cannot rely on AI for strategy or judgment, study suggests"
-    excerpt: "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research argues only so much can be automated and shows the value of human judgment."
-    publishedDateTime: 2022-06-15T00:06:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220614184106.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "An artificial intelligence-based strategy or judgement cannot be trusted by the military, according to research"
     excerpt: "Although AI can automate everything from commerce to transit, judgment is where humans must intervene, Lindsay and University of Toronto Professor Avi Goldfarb wrote in the paper, \"Prediction and Judgment: Why Artificial Intelligence Increases the Importance of Humans in War,"
     publishedDateTime: 2022-06-15T07:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "D FACIAL RECOGNITION PRODUCT"
+    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
+    publishedDateTime: 2022-06-19T12:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 19
 
 secured: "FkwM8rrPf70N1bEutnIxf4MqLKeLCnhJihze1r65l9XXTRIfW6jzlsDoun4cPq6frr2MNohjEkHqBuoF5ej7cFWOS9amXiOvqTGNCtt1HNuvjq5OsVDpaipaPGbdA9DY8u8LwE5oe5v71QIAAPWjUbBVTVMWn2gFg8vn/ZYU0jf7RX8j3F0Qw3dJoVqjJtN9udO3Db4aN6anOx/P+/b0HOeG6tzgKbC2zKs1gw/mWqT7CmLn36KaSHaV0mMM3DpH0UlP0mtKLOdXHJXV2t27ZLm37UNHYzWRxrVQ5Wb9ARMcDd8UhEg5V/ViIo2aD45ps2/Y1p21l2grTcMB7PRn3gkapBuvUiKZafyZgA5TA1w/mXds7jLR+mwsKP1UhbuMv0Rq2TxqFIpCfRQ4+29CGln3me1cQfxtnG03tZL3Y8FfrO7GJKS/zoXFQNn22D+Gaq9lcdnG0oz61NyJ6rDVaHe37hAho1GMEiLB+4IrZtx8AyCkO4e8E5Fw9r4mOZnIJlLfpWsQWyQO/comum8JPw==;pvnjrkb1tmT5mTTcY72wRg=="
 ---

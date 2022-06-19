@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AI Pioneers Honored With Spain’s Princess of Asturias Award"
-excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
-publishedDateTime: 2022-06-15T12:05:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
-webUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
+title: "AI pioneers honored with Spain’s Princess of Asturias Award"
+excerpt: "MADRID (AP) — A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias ..."
+publishedDateTime: 2022-06-15T12:29:00Z
+originalUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
+webUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sioux City Journal
+  domain: siouxcityjournal.com
 
 topics:
-  - Google AI
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Princess of Asturias Award lauds advances in AI for 2022 edition"
@@ -42,6 +44,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "RieMw+kYtuNWxPnnooLw1h1xRYBqC1sdmPion0bXYx6mtkhLDJ17FFFwwnS41jZqiBWOUlTKlAa9cFqICEx9vH/P7o02tjxScUVroekQgr8WQqgvMIE3r9sZj8Z0SiozHAqjfNZ388vFTWAo4lH1lGsKb5Dv6Aqiw6S6zrQh06F1Uuve9EdzLOLt3R4eDSdO4S3Nfvy0/yZXw5IgJp5AnGSydSMRMQZVubHsO6EfvJirBUTJSwb169ChAFGJXeZMqpIZp1SVzgFWn3Qfk/4RD9WEqwDLUo7Z0hYYdZy16OvQm16FryRzI0fKno1bTg4VZQxrE0TsOGpPz5ru8BqoibvFYEOTdquZXbj7kRu86hM=;JrVjMz43bj3JK88WBeHC1A=="
+secured: "npbJoWLX7Lg44Ld6oZ9VorjcOpMPCbOPmX4B6iZNUoaXn1EJBJTe0cLj9LEt4pXmskFcBKej8ZaKqYqswErYLcbguo8S0S481n24fYNzxMoLooQwatTWtl12t/H2eCmLPUXDRb8KM97wKAmQaXHEdGKNN0wDsoAkKM97HywAA/AVAxGl6AYSgssrsUrKHTAu6NtD3ssBK4srrMmwLeZuoSzyf7IZ8YDXv6gk0a1kqFjdeiMnav0s2iNpVcM9V+Zv3cUjp3waY0PT60LJT++gamEjY5kQnUs58EvV2YSbWpgBMRzg2vquzDzoC+b4y31cIzLlF45jOCL50rCiYnHq1w/VCcco9ce4Iv6Re/QKwq8=;L0J1fynlArw8exAAMWr+Tg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://science.thewire.in/the-sciences/deepmind-gato-artificial-g
 webUrl: "https://science.thewire.in/the-sciences/deepmind-gato-artificial-general-intelligence/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Bridging DeepMind research with Alphabet products"
-    excerpt: "Today we caught up with Gemma Jennings, a product manager on the Applied team, who led a session on vision language models at the AI Summit, one of the world’s largest AI events for business."
-    publishedDateTime: 2022-06-15T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products"
+  - title: "The flawed quest for Artificial General Intelligence - do you need to know how the mind works for AGI?"
+    excerpt: "François Chollet (@fchollet, Senior Staff Software Engineer at Google), posted on Twitter on May 21, 2022: The dominant intellectual current in AI research today is the belief that we can (and soon will) create human-level AI without having to understand ..."
+    publishedDateTime: 2022-06-16T08:20:00Z
+    webUrl: "https://diginomica.com/flawed-quest-artificial-general-intelligence-do-you-need-know-how-mind-works-agi"
+    ampWebUrl: "https://diginomica.com/flawed-quest-artificial-general-intelligence-do-you-need-know-how-mind-works-agi?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/flawed-quest-artificial-general-intelligence-do-you-need-know-how-mind-works-agi?amp"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
+      name: Diginomica
+      domain: diginomica.com
+    quality: 30
     images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/62a9f619d9122bdc3231b4ed_Gemma_Jennings__Blog__16x9.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://diginomica.com/sites/default/files/images/2018-02/self-healing.jpg"
+        width: 1303
+        height: 859
         isCached: true
-  - title: "Will Google’s DeepMind substitute Humans?"
-    excerpt: "Google’s DeepMind claims to have achieved close to human-level AI. Dr. Nando de Freitas. He also added that “the game is over!” in a Twitter post."
-    publishedDateTime: 2022-06-16T13:46:00Z
-    webUrl: "https://joyofandroid.com/will-googles-deepmind-substitute-humans/"
-    type: article
-    provider:
-      name: FaceTime On Android
-      domain: joyofandroid.com
-    quality: 19
 
 secured: "GY2B+35Ep49FwJ4U5azlh1z7PIFbdzrU+mK28IWJQNec/PEp6IlG72fPdFMu+x0/aq84OLr9CTB1RHWhSkq4Ewe3Zk8EnZHkaz6l7EWxs59wEpIQtAHIscmtlsSKNmYIJ2xcdWT2fBNJw6aP3XHYhILTuC0ZYy8WCfixpuA0H5Aeq98tSCjOjpBnbDTTxMWOYCk0yCI/HSajgNne5TnYhZ6cDhkrEK07+3xvXFSMG3e7/Nm2+iPq2mz+mDcSWFZg9Bn69aITZlNGLTAeu+HUB2hggM14b8+ml8ztsq13y+bCOz1NqVcSM/j18FuP12hnTpD8FAMiEKKmkdh1ijRIWZ5p451T4qQyKAVX+MkIAG/EW6RWfCI27OIhLCTkKums1jjM133Oa5YmdpJQMAluijvw7iedFuyjwSCQjSyoL40rod+cFOUYH3VNmwZTdb88dG9LdIzJSmIgRuRjn84A8Y/lRLn1VSwjvTz1gZMIfUrx15wZSFrjtvjCd2UAV+wE2N8eTmAqQPwvAh60r2yhJg==;Fzv5ggxTP0YtHiizNugr/g=="
 ---

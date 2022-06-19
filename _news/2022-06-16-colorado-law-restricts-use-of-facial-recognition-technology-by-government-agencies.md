@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/colorado-law-restricts-use-faci
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/colorado-law-restricts-use-facial-recognition-technology-government-agencies?amp"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1426
     height: 808
     isCached: true
-
-related:
-  - title: "Montana legislative committee debates proposed restrictions for facial recognition technology"
-    excerpt: "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be."
-    publishedDateTime: 2022-06-14T23:53:00Z
-    webUrl: "https://www.ktvq.com/news/montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology"
-    type: article
-    provider:
-      name: KTVQ
-      domain: ktvq.com
-    quality: 8
 
 secured: "D939hMRpuDhVtA5Pf3Qtg/80jPL+Zl4WeTdm/t4s55Xi3/5+Xt0SGeqp7yYOQ9900AWXp+Nr7qAV0FV3v4kUfr4tfeDt+8xG5CCjHCxCtJZwUGqHZCRjFXyECh6SBAKNwOrnKeVduys79OSA4S8ZNLcE5DTjWEfh19Ptj13UPRQ2fczqK/FshscrUF/sXi/dNTTd+pFjErlvSyYTrg0snoINmolaf1FST1rsmNAH32wOCxI2Pqob27RKBu5HVx/SIlmWgMPRxVJzXnluFNKQ4CRTj+O0lY1oGYMnrXypvljZsqkDRrzTTCfxKc8dc7xRWL45fun/XVVswaUAMSFaaZiltjSUdwPOS+D0rovVRkw=;GleexiUm+eV0THz7QBL84A=="
 ---

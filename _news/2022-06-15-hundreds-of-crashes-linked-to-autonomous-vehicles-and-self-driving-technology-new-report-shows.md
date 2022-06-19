@@ -41,6 +41,22 @@ related:
         width: 4000
         height: 2537
         isCached: true
+  - title: "Report: Nearly 400 crashes by ‘self-driving’ cars in the US"
+    excerpt: "The report brings new data to a debate in the United States over the safety of “self-driving” cars and the appropriate regulatory approach to such vehicles, which polling shows Americans still harbour scepticism towards. A 2021 poll by the Pew Research ..."
+    publishedDateTime: 2022-06-15T20:00:00Z
+    webUrl: "https://www.aljazeera.com/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 44
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/06/tesla.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Report: 500 crashes linked to self-driving cars, auto-assist vehicle technology"
     excerpt: "The National Highway Traffic Safety Administration released 10-months-worth of crash data involving vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
     publishedDateTime: 2022-06-18T03:14:00Z

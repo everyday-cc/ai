@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Military cannot rely on AI for strategy or judgment, study suggests"
-    excerpt: "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research argues only so much can be automated and shows the value of human judgment."
-    publishedDateTime: 2022-06-15T00:06:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220614184106.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "Research claims military cannot rely on Artificial Intelligence for strategy or judgment"
     excerpt: "The use of artificial intelligence AI for war has been a promise of science fiction and politicians for years but new research from the Georgia Institute of"
     publishedDateTime: 2022-06-15T02:03:00Z

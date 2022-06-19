@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-vision-adversarial.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-vision-adversarial.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 367
     height: 252
     isCached: true
-
-related:
-  - title: "Protecting computer vision from adversarial attacks"
-    excerpt: "UC Riverside engineers are developing methods to keep self-driving cars and autonomous drones from being hacked"
-    publishedDateTime: 2022-06-15T00:00:00Z
-    webUrl: "https://news.ucr.edu/articles/2022/06/15/protecting-computer-vision-adversarial-attacks"
-    type: article
-    provider:
-      name: UCR Today
-      domain: ucr.edu
-    quality: 39
-    images:
-      - url: "https://news.ucr.edu/sites/default/files/2022-06/computer%20vision%20car.jpg"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "A7YMKu/Cwe2ptJmMj6liFQz0bJwTJzUrfMtl4GUGEMLXxc//9+dQCrlIkj3XCteCXzUk3XEAg9W/u7dDit5LWW5t6ldfCFD/9Fvp6J6nIUJcC6RCRdA0J52DzVVCbbvCbZJkZcCbL22AogIda/Aha3tNFJY/DaBl6Cy4yNtkpycBUqY5yVfZtubX+jgKPSezW1qpR/eIHcL6tH/BsISDjzmbFwCvFZ82Nf0Lb1uTTHzK7FkFb1J/axndL7m0NleCMfm3lxA5/lHCxVKL959mAtUwhXZxkk8n6itxFktFBMYhe7rQAOH3PyXt2Yv3eaQ3y9w1G8rkp1cUgxFuI+Mf17qaWkuVCN3bi7VbEDfvOSS/Uik3q5jQC1mZO8tAvmyEE+T2VAmFjE+avQdXrAx315XCV/w9KV/U7oiqbkkahlzBEBNGbDRBRzPkPLUHNSOZLmKF8GyUcdUW7NifoppXU2s8RwCBE7H7yRH1Zs0urSbDwab6MM1lH/QoGe/aDZp71Jrs8jYqySn1IPUGHNKwwQ==;KTifmK0HEvebwI8kGb6Owg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/customize-pronunciat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/customize-pronunciations-using-amazon-polly/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1248
     height: 624
     isCached: true
-
-related:
-  - title: "Easily customize your notifications while using Amazon Lookout for Metrics"
-    excerpt: "We are excited to announce that you can now add filters to alerts and also edit existing alerts while using Amazon Lookout for Metrics. With this launch, you can add filters to your alerts configuration to only get notifications for anomalies that matter the most to you. You can also modify existing"
-    publishedDateTime: 2022-06-14T23:22:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-customize-your-notifications-while-using-amazon-lookout-for-metrics/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/14/easily-customize-lookout.jpg"
-        width: 1248
-        height: 624
-        isCached: true
 
 secured: "INBa/KLwhTH7redyapjxdeYSo9YDWZ3kKxYl9VC09GJeJ1GYbjeYMkLhMJXBIDQDQnWTf+iGUdCR1LxHz6E91W2o2/o2Y652uPSYmnCSYAMLLOIB+6TfHSNs40pk7kAl5E/t0iLopypHjyTpRwgm0eCSrnE1uCm/XWwAoa/M35FNS826Htys3Pzg+Z2cNsdZPtiRDIRFg43Kj+ORuXmknb3zUUu+VA5NVuusFTFIi5XDDaecchwdvuwheOJOI3e0GoMWcHnMUBXKAsdbLX1ugB1RnmyuSkj36jDQOomSw7ITBBZspPEyjb0pk6KjkhC78i7XmoKZt7Crov4qs8/7an9MZ/dGzJc4HG2M5S6mk7Q=;oOWBUFPwgHByEokIGSRHkg=="
 ---

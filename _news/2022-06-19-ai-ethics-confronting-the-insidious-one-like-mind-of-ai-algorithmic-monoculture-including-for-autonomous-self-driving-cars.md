@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confron
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//6282b4794ea6e86efd7eea24/0x0.jpg?format=jpg&crop=1534,862,x0,y79,safe&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Paving the way for more level three self-driving cars from 2024"
-    excerpt: "The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo’s third-generation LiDAR"
-    publishedDateTime: 2022-06-15T00:21:00Z
-    webUrl: "https://www.malaymail.com/news/life/2022/06/15/paving-the-way-for-more-level-three-self-driving-cars-from-2024/12397"
-    ampWebUrl: "https://www.malaymail.com/amp/news/life/2022/06/15/paving-the-way-for-more-level-three-self-driving-cars-from-2024/12397"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/life/2022/06/15/paving-the-way-for-more-level-three-self-driving-cars-from-2024/12397"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 44
-    images:
-      - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/06/15/24379.jpg&w=800&q=100&f=jpg"
-        width: 800
-        height: 354
         isCached: true
   - title: "Paving the way for more level 3 self-driving cars from 2024"
     excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"

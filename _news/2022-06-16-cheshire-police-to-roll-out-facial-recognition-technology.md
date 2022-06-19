@@ -52,20 +52,6 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 60
-  - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
-    excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
-    publishedDateTime: 2022-06-16T23:57:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/469301/urgent-need-for-guidelines-around-use-of-facial-recognition-technology-expert-says"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 33
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--vVa9mFY3--/c_scale,f_auto,q_auto,w_1050/4M9Y749_copyright_image_264530"
-        width: 1050
-        height: 630
-        isCached: true
 
 secured: "LpNLrqyRxqU1fEaiGjYB8hIbBYa5A8VLuu2cRvV67dzS570hUi0FO8XMcXq3HnZzPm4v3Bf87OW7HdhaEO7RI6ZWN6jry//mJqqClIq9oLFz1QahlIdWhY5gRDL96DWWyluP6phsRZN40EhR+e32mPCv51SKhKKJs7FKu14+ElnOPkmPFMwAdquYfPLeNTEJvVx0bVdrivVaXU0jC6emKJVJOSZahEeRfEnK+LSFa3MKlzaEhvfEiqc3Hc1T9ZOHLE2PhGgamctVy9qV9EZUCp94pnvBkzaOekhh0TjMhflWQsDuCV4EVyJpRn6QBuFEo8wg6gWg0Pf9C0MVdKjWyYT2K4iNbQ2IsJoFUrXBqe4GYQlbzRQQ17UW2fIQOu/RUNKzGfY9L+177cW7glTPa3CyJczaUKRzotUZun2e+tpJbjJdM+FV89WiyPIXu3aKoI0k6BHEFL7Q26dzMD307klcnbnX2I7Z1Am8p6Pi4MxKNg4BpxGefGepeaS1dwVYCmvNcDAlOQ5vOa1IvnRq7g==;utrimwLyByYUGb1UNwgBfg=="
 ---

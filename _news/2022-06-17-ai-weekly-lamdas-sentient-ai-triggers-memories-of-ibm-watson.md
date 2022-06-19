@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-trig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "LaMDA and the Sentient AI Trap"
-    excerpt: "Arguments over whether Google’s large language model has a soul distract from the real-world problems that plague artificial intelligence."
-    publishedDateTime: 2022-06-14T23:25:00Z
-    webUrl: "https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/"
-    ampWebUrl: "https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/62a90cf2741a6aeef4686dbf/master/pass/LaMDA-Sentient-AI-Trap-Google-Business-1330829968.jpg"
-        width: 2400
-        height: 1601
-        isCached: true
   - title: "Sentient? Google LaMDA feels like a typical chat bot"
     excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document that he had circulated to colleagues in which Lemoine urged Google to consider that one of its deep learning AI programs,"
     publishedDateTime: 2022-06-19T00:19:00Z
