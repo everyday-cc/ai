@@ -26,19 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "First report on self-driving vehicles shows 500 crashes"
-    excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
-    publishedDateTime: 2022-06-18T03:56:00Z
-    webUrl: "https://www.fox13news.com/video/1082992"
-    ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 24
-
-secured: "P50oGW9soMdwkd5tuRmRs4rsV3Ns/LWVgoCzV5Zm6UGXHDDG6RbIM/f8L+cXWgaUo9Eqb7MrUwbBHH8PuLBZ3SIOsC1OJIybpGq/ja7rW/Jb3AsZc1ORD+1tXe98ySLahxPoU9JCXsBfA6Kzl6cRcTSUJmiRS1JBKUrw6rFPUQNGITWfArL9vOnLYW79ZHWadf0hM3zUKEnre5Ds94tbr+TTAtxiRZdGkqKwM2sZBPfo36Wdg2x/dXeFfPTM4Tf4OVGI2X3J1B93TkhLBBnx3g/pTrRFczpNKyosxJDcbPBW1FYkAqzlpBmw3lMFauk79sPMYELXmhfX5zS3Lmi/vqcGcsrUY78jAnkTKDGabRY=;K9AL0t9vay1+PFkYHipA5g=="
+secured: "kd0BOD6LmZnCZkU6QVKBxttOFY15y8/BOwDie93Mq3TxTSQ4grKEaMNQwmYImPGL61vEYy9WNHTDAa2epMm3Zfh3h617H9SwtTvWllx/0XL2DceaYN16ELrCXY2bx9e870ieaupmrpuL7U7m1gl/x/pYSOOgiwknYzk6ZOOQEctkjPrQgTo69fRq0bz/qRzgHU6XLR3DQbiY+bS1vJ62y5/leIelx8o2IPQRxxOl0yw0tamyWZu479AdvJRbfHIux4Xf1A+6We8/lT9Bxbz2r/1ntkb8gIu5agFWmbMxEfdctJX2FicHLQTLLgU8cIXeIUr3CRSyUsmmcPzbmEaS4HqdXcowD0rMQdBPeAStiqh/5AGBsXWc7Bdd61D088jKPs3p7DnIhBsz5QbKdzDeTgpnb1TwpH709EvOHLgusPY1luoNv1v1bEhiD2KUqyvHpM7FYO/PFqXMcu9fJY6pquZVbZZodAXT0Af7auQXVBmYNhRy12rktWX+S/UNNdaw4SZLja/+q/CF7tmvp5AfVQ==;OB0DDzlGvWrhBHofNOKkAA=="
 ---
 

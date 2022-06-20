@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionising banking, biz scene with fintech solution"
-    excerpt: "Biz2X solutions not only reduce the operational expense but also accelerate lending growth by significantly improving client experience, reducing total turnaround time from 7-10 days to 48-72"
-    publishedDateTime: 2022-06-15T17:21:00Z
-    webUrl: "https://www.thehansindia.com/business/revolutionising-banking-biz-scene-with-fintech-solution-748864"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/revolutionising-banking-biz-scene-with-fintech-solution-748864"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/revolutionising-banking-biz-scene-with-fintech-solution-748864"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://www.bizzbuzz.news/h-upload/2022/06/15/500x300_1546706-rohit-arora.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence in Drug Discovery: An Evolution, Not a Revolution"
     excerpt: "In this opinion piece, Andrew Radin discusses how the history of AI in pharmaceutical research provides some valuable lessons about its future."
     publishedDateTime: 2022-06-17T00:00:00Z

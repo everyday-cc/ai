@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: India Education Diary
@@ -27,22 +27,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "We Asked an AI to Design the New Massachusetts State Flag"
-    excerpt: "Sometimes, however, the AI produces some truly beautiful results, and it simply boggles the mind that we now have a tool capable of bringing dreams and nightmares such as these to life, right at our fingertips."
-    publishedDateTime: 2022-06-15T17:45:00Z
-    webUrl: "https://www.bostonmagazine.com/news/2022/06/15/massachusetts-state-flag-ai-dall-e-mini/"
-    type: article
-    provider:
-      name: Boston Magazine
-      domain: bostonmagazine.com
-    quality: 37
-    images:
-      - url: "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2022/06/dall-e-c.jpg"
-        width: 900
-        height: 903
-        isCached: true
 
 secured: "Wy1tSz0M9OzERIH+yv4OLX7/j2JmKoj10CrvePg9JDBj+CwINzfrHl8fK3c4CQvSJxt5/GdHel30w+PCsOcCTsm25h8S9kOo8DYA9gPo1u5ezfEmBAPvurN9eioJu5zUOdSFxaXw/ra5mSuES/J+xEgdGAJQlg8eaUzKr+Cjm3s0E9zfY0+eAHKpjB5QmW1D93E+iGud9mKTzmo2DNndKzYXFb1walwNCWpF02O8ssn4VPOxeorsL9ZA1hicgNmVvdDaHqNdTn4xipSID8pU++uV0bGeRiV0yQYGvqtGtZJl1Be9MH5P+VDiNY0KzLZIBxQsy8/M8nUWK/tEqA+jjqWNItrvAVEa19MKITMQJrDKPSE2KxHFbOFb86I7le5pgdLD9g8OyEjIhkLhYsiJ6mqxcRFzHOoxcmFz3obaib9i5yijibfqPauINO+5f69Jt/d+JWKDA0cDJeHGFpTMqk1Mc6RQnBjf8R9a0uWpvmsn+eEm82OrIYK+14SrzYTdcRWuK8soyOdZnkv/hiau4A==;+4ip4UR3C65Van+8FTsgEg=="
 ---

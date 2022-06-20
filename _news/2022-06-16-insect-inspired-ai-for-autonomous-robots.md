@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-15T18:01:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/955904"
 webUrl: "https://www.eurekalert.org/news-releases/955904"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
   name: EurekAlert!
@@ -24,22 +21,6 @@ images:
     height: 394
     isCached: true
 
-related:
-  - title: "Autonomous Robots Get Insect-Inspired AI"
-    excerpt: "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,"
-    publishedDateTime: 2022-06-16T15:10:00Z
-    webUrl: "https://www.manufacturing.net/automation/news/22276042/autonomous-robots-get-insectinspired-ai"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 54
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/06/Low_Res_AntBot_walking_robot__Julien_Dupeyroux_.jpg.62ab479a05b02.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C21%2C700%2C394&w=1200"
-        width: 700
-        height: 394
-        isCached: true
-
-secured: "UOrKVPY2dLQ7e//GJcj5rQ9XBJGdz8zha1Ea7AAmwkcQ5xttjMIhDlMBs3MDTC729NGqBXrWa0UrZ/z3Dnm+JoeDdEVfNEukyoPP+NLNordFk3IrBASoXqW8rHPtPw9dy92owndsY3FT3CW/T4xwU5WcbpU+21RJ6Ut7RtMG06LQaf83ZoLsF/n18d6geNUgzwbDxfSL1mnIWxow1WvIh8IZgPHP7jg2EphQPLBF0kcA38JXXtgKWD0DJ95aW4+prk6Qrk3OhEk3VDfzuWQAsvRwvLIb0loJl/3EXwwmy18oSGMYfDB0cTX7dcWx1wE6ltS19YH7Q1sXkMlYM2zVUaydGkhjU6hI2HYkWdKUBRY=;IDrYM49yxm4S5lQrtOUvgg=="
+secured: "Xql7wTuM+OX38E+GqrDovFTdw5vBkiuHYEZy+PR56aj52YoW2DKm3mSXJOtd+tVA/RHXvUv3ph6obeKToZ2JquvwHz8H7kSc6xifb6DYYrYAmBDTV8UtQOoccxKuOExa8qbHib4ras/G7nzeh5sbXHS8YXdbMHLxxOttXJQYOBGaaUU9VvjAJn1uqVeArUjY3VnJx2r7gBEvh6jdITnfVxvQKXfycyUr5WRFgFevzaMA4KVily/0uQ0aGE+mdoDfLlqZ8QJ4MIfKYnqtkkjQjGFiuT31hmK00tKUvtsB+GFjo1ceFhyd+aAFGM49cxBWyrcOcwj0HAuikcX/5Dh4vm8Mhf2+Cw+FYjmiy1X+PZs=;FxU5RLj1LIlapO2B8ydGbw=="
 ---
 

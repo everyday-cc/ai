@@ -21,22 +21,58 @@ topics:
   - AI
 
 related:
-  - title: "How BMW's intelligent factory uses self-driving vehicles to automate logistics"
-    excerpt: "BMW Group, in partnership with the Technical University of Munich (TUM) and other companies is exploring how self-driving logistics vehicles can be used in a production setting at its component plant in Landshut in Lower Bavaria."
-    publishedDateTime: 2022-06-20T09:49:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics-41655714976539.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics/amp-41655714976539.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics/amp-41655714976539.html"
+  - title: "Report: Nearly 400 crashes by ‘self-driving’ cars in the US"
+    excerpt: "The report brings new data to a debate in the United States over the safety of “self-driving” cars and the appropriate regulatory approach to such vehicles, which polling shows Americans still harbour scepticism towards. A 2021 poll by the Pew Research ..."
+    publishedDateTime: 2022-06-15T20:00:00Z
+    webUrl: "https://www.aljazeera.com/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 40
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 44
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/06/20/1600x900/P90466955_lowRes_intelligent-connecte_1655716753429_1655716769014.jpg"
-        width: 1599
-        height: 900
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/06/tesla.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "First-ever self-driving vehicle crash report released. Nearly all involved Teslas in Washington"
+    excerpt: "Nearly 400 crashes in the U.S. involving partial or fully automated vehicles were reported in the past 10 months. In Washington state, there were seven."
+    publishedDateTime: 2022-06-15T23:13:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 27
+  - title: "An Increase in Self-Driving Car Accidents"
+    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
+    publishedDateTime: 2022-06-16T01:03:00Z
+    webUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Authorities Release First-Ever Self-Driving Car Crash Report"
+    excerpt: "The disclosure, released by the National Highway Traffic Safety Administration, is the first of its kind and part of an ongoing effort by the federal government to track the safety of autonomous vehicles."
+    publishedDateTime: 2022-06-16T15:05:00Z
+    webUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report"
+    ampWebUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 24
 
 secured: "z+rQFi6VEROHQsZC3FjJJiMj/c2RVQfJ31zV2C9cnMzhAs0QQ7C0Hnn79U7c2aPO5e975K9wnqd0Ps33eAcWFgU5kvnVPUTxNPBmnaSqIajGmkRqItI7lbF/jt/k97qSxtQzR/szKNjfHSXLB7fPztQc9u68B1ApxppHJsZ7jayLyRFSsR8ssfOW/D/tfdf/oJXmYJjjqpyLCMs9v/kT3xUzPFXuc5wO0n5O/GOdGe5wFjTRIRRekdm1mAoHEQbNQ18oQFM373/m/MgLN0XbTLaapFLx5rrbA5HCJJPedmeetRq66C4lE2+k9mmQPcijubwlJyWmonuDVxiCCVcdp1MpNFIHZFAcr7DHAQUmf4TCA+EC344nPUErDUXNcPTles/SsPU+YWgA3hW9zgXdq1rdW37YwJYnFRgkvcuyru9sEyyrixIB+g2exkS8tSHxGsYVio/6NFKBX4rgtaaAmLNsItGrms1aClcuwUT0agi4hSpqeP7t6Qga28jicwan38wjn8E+jSNiGVAAg+lJew==;YVLaYeozXFzRZCI5+E8/Zw=="
 ---

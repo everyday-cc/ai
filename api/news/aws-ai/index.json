@@ -1399,24 +1399,33 @@
     {
       "path": "_news/2022-06-06-aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong.md",
       "title": "AWS and HKSTP Announce Strategic Collaboration to Accelerate Innovation and Technology Development in Hong Kong",
-      "excerpt": "AWS and HKSTP Announce Strategic Collaboration to Accelerate Innovation and Technology Development in Hong Kong. Amazon Web Services (AWS) and Hong Kong Science and Technology Par",
+      "excerpt": "Amazon Web Services (AWS) and Hong Kong Science and Technology Parks Corporation (HKSTP) announced a strategic collaboration today, aiming to foster a robust Innovation and Technology (I&T) ecosystem in Hong Kong.",
       "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/06/9615183.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/06/9615183.htm",
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-06-06/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-i",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-06-06/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-i",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T03:38:00-07:00",
+      "publishedDateTime": "2022-06-06T05:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
         "images": null,
         "publishers": null,
         "authors": null

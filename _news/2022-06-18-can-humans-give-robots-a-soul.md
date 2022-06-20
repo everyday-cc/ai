@@ -9,7 +9,7 @@ ampWebUrl: "https://aleteia.org/2022/06/18/can-humans-give-robots-a-soul/amp"
 cdnAmpWebUrl: "https://aleteia-org.cdn.ampproject.org/c/s/aleteia.org/2022/06/18/can-humans-give-robots-a-soul/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 620
     height: 310
     isCached: true
-
-related:
-  - title: "Does Google's LaMDA Artificial Intelligence Program Have a Soul?"
-    excerpt: "For now, leading artificial intelligence researchers agree with Google that LaMDA is not self-aware and does not have a soul. However, given humanity's strong tendency to attribute human ..."
-    publishedDateTime: 2022-06-15T18:10:00Z
-    webUrl: "https://reason.com/2022/06/15/does-googles-lamda-artificial-intelligence-program-have-a-soul/"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 17
 
 secured: "y/9/ArQNuP2Nx2bqWYX8Yorm6II0mvJc25nrQ4uQyn5Ai2VB0N/AdTI8aUgQluv/2NuTaVOhi1+ls0SIESUWghOJIszYJn1djYb1siPsDG1BBY004XkhciYq8u3qYeYEu9KinnAFhSdrLSuh17XLndQ7jfoKaaRzuF0qPA/I2YaaXHfljXbIVU5eI1xMtjchz8ZHB/h76ok88+wocxgSBgSi6rywLtvdHRB/wKVjJq/leO1SK1/jTp9ksXfFR4QOv0foF82gYWtSETYnu3qqYOmVAb50M17dlOe6iyrKbZDLh1467r2XKj6pBehVTdBYBwuoTzziHRdpps80Ph5KYn1YZD07FCBPX3vb5LyIvY5oGOjeWfOC2pVPdAU0GcXwDqyuzZAr3Jfal8nrqcG71NSiFiaSg8SS7mTskf+1fXCPJZBf2h9MmdPXE+ts36J3QrRVdpyt6QyNuQ5hDZ4daWroDLUZNdbwDc7rpxklvfLj1FUGV9A9L6ltxdCxror8mbv8NtKNaOGkb6j8ccfDQg==;wHTcVBGmWYVAr/ZSEN7TeA=="
 ---

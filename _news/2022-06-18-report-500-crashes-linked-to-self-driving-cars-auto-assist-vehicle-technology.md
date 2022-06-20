@@ -81,20 +81,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Tesla Leads Automakers In Self-driving Vehicle Crashes -U.S. Regulator"
-    excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data U.S."
-    publishedDateTime: 2022-06-15T19:00:00Z
-    webUrl: "https://www.ibtimes.com/tesla-leads-automakers-self-driving-vehicle-crashes-us-regulator-3540602"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/15/a-tesla-logo-is-seen-in-los-angeles.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nearly 70% Of Car Crashes Linked To 'Self-Driving' In US Were Tesla: Report"
     excerpt: "The US National Highway Traffic Safety Administration (NHSTA) has linked 392 crashes to self-driving and driver assistance systems in 10 months and about 70 per cent of those were Elon Musk-owned Tesla vehicles,"
     publishedDateTime: 2022-06-16T03:34:00Z
@@ -109,15 +95,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "US report: 273 Teslas with automated driving systems crashed"
-    excerpt: "Tesla reported 273 crashes involving partially automated driving systems, according to statistics released by U.S. safety regulators on Wednesday."
-    publishedDateTime: 2022-06-15T18:01:00Z
-    webUrl: "https://www.click2houston.com/business/2022/06/15/us-report-273-teslas-with-automated-driving-systems-crashed/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 19
   - title: "Cars with self-driving capabilities involved in hundreds of crashes over past year: Data"
     excerpt: "National Highway Traffic Safety Administration released new data revealing cars with partial self-driving features were involved in hundreds of crashes last year."
     publishedDateTime: 2022-06-16T19:14:00Z
@@ -141,15 +118,6 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 11
-  - title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
-    excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
-    publishedDateTime: 2022-06-15T18:22:00Z
-    webUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
-    type: article
-    provider:
-      name: WSB Radio
-      domain: wsbradio.com
-    quality: 0
 
 secured: "/er/KVEftFCZIyPGwZQOYw2nt7yBm7Yle9WcimB/uN5M5fELhdo7QtAOFlpNbcxSlUqeSHAOQolw7DTXzCa6mkD6+vJGQLFv+Y4HEaZvOqmTQDjfKvYTllTyziIxnsXN/yaZOXhJV/n7LoKoxDxCfbqPsOiS8n6AiTI3+yO2xX3YjR4r2P4AxqtMQ+XsvyTfxYmgAm58awvGwty+4MbstPj22OMZ4eFxZ+TsMD58KyNxB/YiOEgO5VqlrZxDjcjYuueQfUAvoFMj12AgzYnW5PNS0MuoaKPMmMAqjqlpk/YJB5CP+m3Rdanhwp5ELH5Th3STORwBKsyw8PDWMApsPLei1FpL9QYrXPWcxA9DiLjX9tVc2l9J6wD7wStu/v4uPhH4dJPDUiZMT1dfVfDdY405BUQ/DhubTEshMuupxoGO/AzlOmEXzSW1GNtGt4/lX1Kd4flITjyj6Qg1kH0BPpFgwE8x96g7EG7T6DjPOVAV79aQ4CdihLxqjdGX5MEX4ome13HYOJasKeQ7sre/NA==;6s6fsHFM3jqsZCHEmmH3gA=="
 ---

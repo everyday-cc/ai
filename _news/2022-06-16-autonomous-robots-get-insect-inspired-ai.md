@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/automation/news/22276042/autonomous-
 webUrl: "https://www.manufacturing.net/automation/news/22276042/autonomous-robots-get-insectinspired-ai"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 394
     isCached: true
-
-related:
-  - title: "Insect-inspired AI for autonomous robots"
-    excerpt: "These developments accelerate the creation of insect-inspired AI for autonomous robots, leading to start-ups in this field. The article published in Science Robotics is a “review” article."
-    publishedDateTime: 2022-06-15T18:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/955904"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/501e54a8-7ad3-445e-8dbc-c4ac8e9f0d02/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "kbB5u19SAV5ypQK9tqyM+QZkAfWJ9a79zi8KLDRRSKG+TBqm16GBAZgpWtcnbUZ2tIseqk6sAT2sUGveV2AWjaLh28pum/5tBqE89ftINUcaGdIo002dS4wi3DCzIppDjMRjR/2k5x98bKyxF+pPA4n2gjAQHX7/y8AXyHuRaPHi1Pql0iTekqkUHIUCQF+RcLCqp+xtqHEuPqeNs8JFFoVAG6YhbYqPGyB+ngwb8GMYPrehgd6uJJuqiQQhbgPRkiOzhHzknHJmnqrRHzmKz0YU27d5h9G8y0b5DlRS5wBVNICcnjlovcQds8Ja6pn1lWA7ifhsRpyBoH/MdyvRePElscc+jNtTmsUbjblsrtLihP/8Y1Hp85mdTPKH8teJkMwbRvuHaBqfilp2m8DqRRuAYIIhkicwotsKl/Txss9ltsN+HX/Roe4jzDYEK3xHOPzs3e2e0bW9yV4EkMNRAUuIHU5d4/4cmRzYAeFiE9VqD0NPMBX/W28eRr56olPG7IlGXCaQorOMgd4INtD9lQ==;/LumT1JAWkn9She+SkV0Uw=="
 ---

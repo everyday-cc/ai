@@ -195,15 +195,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
-    excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
-    publishedDateTime: 2022-06-15T18:00:00Z
-    webUrl: "https://scroll.in/article/1026160/a-google-engineer-believes-an-ai-has-become-sentient-is-there-a-way-to-know-for-sure"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 11
 
 secured: "Mx0tC8XxYpv/j22rEr+9LMKgBhpX6rOtxSmU7x02rWjAt2WC2JiJ0vrbHKIVyV5e8Lh9dEBjcqIEnYwDP+NEdDgHDutRF9IwnVERV/CxYWLGOKc0YcUAcfMJWHxQMOovZ5YyhGDZ/hE/a/BWzACBdZArMUbsx5fDvtr2ElE66GhHIJIzYuWczrInV07k1GqTT77cSW17SUkQoM4ebfctmi49ov8+cDxd/WqYrylV9GLctx6FjlMqgfbDvkU6zY93CXc4tIweNIon0W9vVUl/ipIC7Z3N1P+0DizNNrkrhuAoGBXd0w58U0JRcvwBG9Vf5yZ/6JBTuvWjBBS8D7IV9mFeVtPU5yYiuA8TmWdm7Ot75ELVJAcgwVHvScwhnUsS9HMpCNZ7nWruNQ5VePrGpR7ANcDb81jcdILtN7rdDB3RP+KKRXjkB9/DyMvEcqvPwDVxh5rKzB0gXPmu1XPjEHiduNVrtj/LUN2ebIjVNRWxb/kZGZ/NboUTy6CDXzcuWg54UxVRaX0GWNzxU5qWOA==;XTkz2SycPY/aCdoTda3lMw=="
 ---

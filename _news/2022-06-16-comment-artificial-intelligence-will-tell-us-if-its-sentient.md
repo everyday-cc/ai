@@ -197,15 +197,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 17
-  - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
-    excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
-    publishedDateTime: 2022-06-15T18:00:00Z
-    webUrl: "https://scroll.in/article/1026160/a-google-engineer-believes-an-ai-has-become-sentient-is-there-a-way-to-know-for-sure"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 11
 
 secured: "Jzf/UtTfp56CBTSeU8mXhXzoOq9L997PatqFQLkBISy13tH/WGuG7l/PFmlSRgt9XCOR8X+zMF7/tFNy9wch3h83fTaUGYmxa5gc6FxnhttNJiGXSaCeFW2VDcvfqiOIDA+bVBkwcw8z8Bid6OxIwC+Gy5z4nI2ANQixsRMvOxqRcXJZEYyJ5oii1STHJuVKjgUnY751SpJzndIKkqj1A38zozMhg+rDMLX82EZA08zJfbmNabu9XuRVPvvioISPDBvzS9eX1dI0nhCDBvztn/u+iAiCIGey3tL8ZaqOvNJMJ3OMkBJxYdbv3saFK1WF3bGlDbXmJ1fanB1+Mc/VMt2U4mk6MfcHwigTUzCioec=;e+nIp6xtSs/kl+aCPRmlmA=="
 ---

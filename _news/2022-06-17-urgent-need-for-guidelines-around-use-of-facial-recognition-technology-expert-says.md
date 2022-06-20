@@ -41,15 +41,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Ukraine Using Artificial Intelligence to Catch People Sabotaging War Effort"
-    excerpt: "Police are using software on tablets to see if a person they view as \"suspicious\" is listed in databases, according to Ukraine's Ministry of Internal Affairs."
-    publishedDateTime: 2022-06-15T18:56:00Z
-    webUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 60
   - title: "Cheshire Police to roll out facial recognition technology"
     excerpt: "The technology will be used retrospectively to compare images such as CCTV against pictures held on the police national database. It will also be used to confirm a person's identity if officers believe false information has been given,"
     publishedDateTime: 2022-06-16T11:22:00Z
@@ -65,6 +56,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18667/production/_125434999_7b1278fd-ad71-433c-8ca6-c277f7efc486.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Renewed calls for national guidelines on using facial recognition technology after CHOICE investigation"
+    excerpt: "Tech and human rights experts have renewed calls for a national framework on the use of facial recognition technology, as one described it as the \"wild west of the digital world\". Australia ..."
+    publishedDateTime: 2022-06-15T19:13:00Z
+    webUrl: "https://www.abc.net.au/news/2022-06-16/nsw-facial-recognition-technology-wild-west-kmart-good-guys/101156010"
+    ampWebUrl: "https://amp.abc.net.au/article/101156010"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101156010"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 43
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485"
+        width: 587
+        height: 330
         isCached: true
   - title: "Ukraine using AI to track saboteurs"
     excerpt: "Checking for Sara Connorski Artificial intelligence has become one of Ukraine's most \"effective tools\" in identifying potential saboteurs amid the ongoing war with Russia, according to the Ukrainian Ministry of Internal Affairs."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/everything-to-know-about-dall-e
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "DALL·E mini is the viral artificial intelligence artist taking over Twitter"
-    excerpt: "Eventually, nine images generated completely by artificial intelligence will appear, bringing your concept to life with varying levels of accuracy and hilarity. In the case of “Dak Prescott holding a banana,” the results were good for a laugh ..."
-    publishedDateTime: 2022-06-15T18:39:00Z
-    webUrl: "https://www.dallasnews.com/arts-entertainment/2022/06/15/dalle-mini-is-the-viral-artificial-intelligence-artist-taking-over-twitter/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 15
 
 secured: "16jflIyNHTfWvfhBHs6VTXYKqb5tMayJnnaZgdNj7psS1VgJGVtQ8j9U/gJASDUVNNx1OnmUNBZpSvqlEsTRvPz56lVemU2MnnGGptNNIaXQeUuMo9JMCfGp1DdhbZxBIr5XBwmOdnD5VN0eGINEYYVkzBuRlDMhSAnA3T1y+rpX32+8bBiqObhc2aEoe8PpqZxsEzhev5BrqBXu5tLX7aoyvKxURaecQE7zwJ+b/36laMDbE6cW9YRsvpQZ23nFbBI55xVgK1kAhLzEJRIXlN/4LsIWQZkouOrns8PWgaPn6Sbh0vPLoN9klXUJFA6QHu+i8TxW3lPL7CcyQ5tkVleSBdOAocftxlYY8DIMU4S3S9D0sdhFiTQ0zra90K6mYO7FoKHiD2QsRvVttBOWCn+2LFdSbyIik3ZHpxjZX1N38ulHFrsAvEjn9mN7BBKpIfp5hQOwbluXSmYonePCshVFxfhC2noBFCWbuS81SldCFDI77lOa8XHFSB/jVFP9t23mccOem40GfoV3h6qfPA==;mK2Nmyg44fUA11yner1IUA=="
 ---

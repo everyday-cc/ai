@@ -56,20 +56,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "The Industrial Metaverse™ is coming to the Computer Vision and Pattern Recognition Show"
-    excerpt: "Kinetic Vision reveals new technologies at the CVPR show in New Orleans next week. \"If you want to learn about AI, machine learning, or computer vision, this is the show to attend,\" said Rick ..."
-    publishedDateTime: 2022-06-15T17:22:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/the-industrial-metaverse-is-coming-to-the-computer-vision-and-pattern-recognition-show/article_a33be178-6d96-5471-b252-a3893e247fed.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "wHKLoUHd5nxlfV1Lvs4gQkQkXJyLbqcSaKyDuwMxnlJ4Em4QF6dxkdSFycaFy4+oiMJiPPmImxXV3NfkNt0Knb32j4vgF5ApekAc3tiERp9SD0cMYapYYrmJWbzDepWp651iqfnH3Cwp0N5lmAX6gdz69LLPyHmotRUFvIrKpL6jXBDvsDE4wgLbdh3mcICDodHNggaZrfa3x4rPtmXcHIii9r5WKKhstyMtADY6ovoce5TAB+FESP/sP61Lokd4naSLVgSKvKFg2QaEqDjcMhQjpBRTljIQ1xhaZ1kwUqoJkRWAIgqDVeTzGM/DFyU0fwVPDV52L6r7H97+CTDj0KFq3qR630tnhIwfBzobNWU=;BsV1gxg2TOHCjzHqCjSA8w=="
 ---

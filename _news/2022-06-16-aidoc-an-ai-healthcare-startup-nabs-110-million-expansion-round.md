@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-1
 webUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
         width: 460
         height: 460
-        isCached: true
-  - title: "Israeli AI Healthcare Solutions Provider Aidoc Raises $110M"
-    excerpt: "Aidoc's platform enables hospitals to tackle challenges in the post pandemic reality of nursing shortages, and rising supply costs."
-    publishedDateTime: 2022-06-16T21:04:00Z
-    webUrl: "https://nocamels.com/2022/06/aidoc-healthcare-ai/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/06/jut-350x233.jpg"
-        width: 350
-        height: 233
         isCached: true
   - title: "Aidoc Raises Funds for Continued Expansion of AI Care Platform"
     excerpt: "Aidoc, a provider of health care artificial intelligence (AI) solutions, announced a $110 million Series D round investment, bring"

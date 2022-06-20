@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/426695"
 webUrl: "https://www.entrepreneur.com/article/426695"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "1 Puzzling Reason AI May Never Compete With Human Consciousness"
-    excerpt: "Two philosophical thought experiments lead us right into a flurry of questions surrounding the human mind. You decide where you stand."
-    publishedDateTime: 2022-06-15T17:04:00Z
-    webUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/fee34cb3e5bfe40704abd44746e99c210a4e269d/hub/2022/03/23/643a310d-6145-4508-bddc-0dbf07a04058/hero-image-desktop.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Inability to patent AI creations could hit business investment"
     excerpt: "Companies could be incentivised to keep inventions as trade secrets"
     publishedDateTime: 2022-06-16T03:00:00Z

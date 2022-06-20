@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artific
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
 type: article
 quality: 74
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -197,15 +197,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 17
-  - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
-    excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
-    publishedDateTime: 2022-06-15T18:00:00Z
-    webUrl: "https://scroll.in/article/1026160/a-google-engineer-believes-an-ai-has-become-sentient-is-there-a-way-to-know-for-sure"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 11
 
 secured: "fCnJ7r2xJGpP9HiRdeQGX+7Oy6wxUDkvMF/gCMbrPZIEsqIViSxOk5FU2V8AAA4K6SHp6VQvZPw+CS7BZfNVd5RQDM9hsagZIpprHujf6711ZqZf8MMmoQLAbp5vYC/psVgfWOA+OhMtvDPFbo49YQslYDDMUHExqcAoa+kL2owTSwJk8GxjW5KntIphtOVzVR7Zr7U+2C04RazqXVBj5uo8P8dlNYMPqZ9tLulsmCdROdBn3jUZYlpVfJZ4YrS1f5+gshIM8BeqmWVmH6Uyg5qee4nHX9jnVLFSeWbMl0h2QEbYYMnAtmayMlBAo6qtk/1YGizYHM/CzaYkLbKahztV8gp5Xl5+SwYtF7j8+maDVuQifE1RQsoPPER5DkDgkNzt02FlVXd2D4VBq1JpG1FUWBJhYFpPTqsmwlAK0qRM3fK6kppExyxqU75asWqH+ZLmqIqGSOBDnTEclksKVuuJVX8li/53RZ8kN5oYIF70j1IgH0tRSo9VIz0yhN5V6uYHZseGua/XGpI77cOC5w==;8PyyS5tsEZU5xrUaAVLvAg=="
 ---

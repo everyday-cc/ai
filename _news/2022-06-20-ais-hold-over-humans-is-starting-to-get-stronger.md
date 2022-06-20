@@ -1,26 +1,29 @@
 ---
 category: news
-title: "AI’s Hold Over Humans Is Starting to Get Stronger"
-excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern."
-publishedDateTime: 2022-06-20T02:43:00Z
-originalUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html"
-webUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html"
+title: "AI’s hold over humans is starting to get stronger"
+excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern"
+publishedDateTime: 2022-06-20T11:32:00Z
+originalUrl: "https://www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html"
+webUrl: "https://www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html"
+ampWebUrl: "https://www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html/amp"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76LPBSHQNQI6ZLAWR67XDFGNPA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://images.moneycontrol.com/static-mcnews/2019/03/Artificial-Intelligence.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -55,6 +58,6 @@ related:
         height: 960
         isCached: true
 
-secured: "9ZGT4MlOzd8uGBUZKvAhVr382//qrGBiXa69fscQZdsH8csEDt09QEdz2lz5XbVw+4ZGvsr1qTuk9kQzCs5ASNldoqSO1Ky6p4jycd2ny2jFvu1RWdgxTdnhZbzsiCTt4LW/uOWAYw39Xwo3TkvzNEtnef5oWRvCBkV66ZM3UILJ/aqaZIK21HtVn4XK0DUS0Fe8qPKXfwX7rR9mj+ozZs72RqFHga5mCAFgsg1BTM5hkArElMGYKMCrdNxP+8pZ2WmtHXYfjske/1jl2jAiu2QTEohUdYV66r2lQKWliUnCnmKyoHO7jfbZ+cnD08JSO3IcX80gxu4J1puvGRasjPBSuCLisoYAN7JlVmdWL+g=;HXzSrJLssa6Ys+OBuvi7Xg=="
+secured: "cM9V5D3HJM0ZvZ/Om47OAR1nB7ANK+nG+Ir+Ts9VV4209Wi5dqQ07u1SwR3XraZKiNLfRPD9y1KYTGbvT+vnDuqlX2nnMaXBqwRfD0dLduoDUasUL1v82bF550qVcqtKJGIyD4w8sdWyRujfHyogR6Voln2eDUPI2SSgKY8xvWhVeQ7nRZt70QLp4Qm8g7b6gqLF4hr3ybI6+z+XS7gEThmBCyE0XIL+4wVYw2465mEC+MHO9M/bYV5of/wFEwWRCoyQuK9vdAigt0CzVPm6GkZAeDdmwZlje1IxewkeRoC8CWfSNDipEk/Xga/YdCSbdn84ptathkJOsv/RE/1NSHbpJQ5vXJWcWaS+4XjSGQM=;L4V8G8i0D5eKuSvu3df5cA=="
 ---
 
