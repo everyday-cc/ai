@@ -42,15 +42,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Local startup seeks to solve construction woes with AI tech"
-    excerpt: "A homegrown startup wants to become the first local company to bring innovation to the construction industry with its artificial intelligence (Al)-driven construction management platform AIMHI (Artificial Intelligence Meets Human Intelligence)."
-    publishedDateTime: 2022-06-15T11:24:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1176772"
-    type: article
-    provider:
-      name: Gov
-      domain: pna.gov.ph
-    quality: 17
 
 secured: "jaGdMlVel6nXXiJ2y+dbGIe/hnxLJ7a2937qbzzNtKbjzf1W83WsowDjFWfSAgTwwAb+Vd32ok8hVQsN0D/v3mDXLN3XrhfhyF4ceFXgJPqY3+yWnIeJqXTd20pTcd2HrodVS5sx50aNfhSjz2y0dk/GcupyfpCMLO5ctax40U2MZIQWDJOIIlIsQ60a6voZ9np7vJRnxOnD81IgUenv7ANfkBD9Zw5ZCh6yCmfgPadNl52B0/w9q8MYmhUPUsN8UalLNu/UJ/8/wCDrxWuGVuUJuU27ULP1cAL3fz3h/j3oXr8WZROBpnYAqPJHPrY3IP7XTNADVF9ZdkI0uIqAt9GSHTtcawD8mykFB5amBL2WCGGfC0YJgnrSzZnOdaMNjjZRX34rZF2tbjwnxHpvbxNgaLXmiHnC06aIMyOKmGvtJi3FctdhOw9uf+MUYes6x2SOV4eSKJ4jj+6uiQ7PE+Vq7CqdmC5KIT4o+nEorqHKxDQ6+ceERY1QXe7eyz1sCN1z8Dj9VL5DjfiCMFIbQg==;rSZ2yTTO6YkwFRFExz3mSQ=="
 ---

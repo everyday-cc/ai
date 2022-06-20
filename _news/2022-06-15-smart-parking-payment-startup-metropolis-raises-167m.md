@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/06/15/smart-parking-payment-startup-
 webUrl: "https://siliconangle.com/2022/06/15/smart-parking-payment-startup-metropolis-raises-167m/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered parking platform Metropolis bags $167M"
-    excerpt: "Metropolis, a startup developing a computer vision-powered parking platform, has raised $167 million in a venture funding round."
-    publishedDateTime: 2022-06-15T12:00:00Z
-    webUrl: "https://techcrunch.com/2022/06/15/ai-powered-parking-platform-metropolis-bags-167m/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Metropolis Technologies Raises $167M For AI Driven Parking Systems"
     excerpt: "Los Angeles-based Metropolis Technologies, a startup that develops computer vision and machine learning driven systems for allowing people to drive in and out of parking facilities, without having to swipe a credit card or phone,"
     publishedDateTime: 2022-06-16T12:53:00Z

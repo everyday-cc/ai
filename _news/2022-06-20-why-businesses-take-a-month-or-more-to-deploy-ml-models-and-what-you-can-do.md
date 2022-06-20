@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-mo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

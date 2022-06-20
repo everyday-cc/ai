@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/eros-invest
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution-122061700136_1.html"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Local startup seeks to solve construction woes with AI tech"
-    excerpt: "A homegrown startup wants to become the first local company to bring innovation to the construction industry with its artificial intelligence (Al)-driven construction management platform AIMHI (Artificial Intelligence Meets Human Intelligence)."
-    publishedDateTime: 2022-06-15T11:24:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1176772"
-    type: article
-    provider:
-      name: Gov
-      domain: pna.gov.ph
-    quality: 17
 
 secured: "DQTYEu/aQRz9ZWMXGWm6lmpR18JEb/zBnTxQdZMuV+uj+6KG2fHuYBcgMHg9TlCSV9DaDg77nDh3oYmaj6sQSwNdv6p1WV8gRcT9PC5Fn0kfBPgJIVmqLzxCbLJwZRiobbYvOMTbT0uY9UwLS9zY9sdxXPfrTOLBM/vFn3/e5nceI32gZBjjWCvgUCal8kRQYPwFz3QaXsXCLphqNvmCBR2gFihgR5G0LOGIk7uQ8iEgemzsyCbAbRsJZF0rS/60ATK5OokvMBVzYuXjnlkBgaQ4jC6EmIHte8LPuh7dPKZtgu7KJQdOKrlC9TNWnvB60BfnHXP2IjKQvmBNgNYBB0Q/a64Cs6IkTpRQA74uu/gu78of1j0TjCeSCglRGbr6uyR7Dv2QmF61QGRAS/0l+LpwTiPFsMSy8pdWIIToHPygSVQDW6XHo8iKz9FIDzDL/wMkZstPG+1KkMPJaUhKrjZbcXzyc4KYKlXs+azq1JadCoY/NPh+F7+nmHhdzylA0JYfpJPoyj4VfUXCveMS4A==;HHxK8fomn0SPd2Q5lZ6csg=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-20-ais-hold-over-humans-is-getting-stronger.md",
+      "title": "AI’s hold over humans is getting stronger",
+      "excerpt": "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
+      "originalUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/06/Google_AP_1.jpeg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
+      "publishedDateTime": "2022-06-19T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-india-bangladesh-explore-cooperation-in-ai-cyber-security-startups.md",
       "title": "India, Bangladesh explore cooperation in AI, cyber security, startups",
       "excerpt": "Border management was also a key item on the agenda of cooperation. \"...better management of our long border is also a key priority. Our Border Guarding Forces are committed to combating trans-border crimes.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/articleshow/92322921.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -54,7 +97,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -202,7 +245,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -763,7 +806,7 @@
       "originalUrl": "https://www.indiainfoline.com/article/news-top-story/eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution-122061700136_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -849,6 +892,57 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-tabnine-updates-ai-based-code-writing-assistant-for-developers.md",
+      "title": "Tabnine updates AI-based code-writing assistant for developers",
+      "excerpt": "Tabnine has launched a new version of its AI-powered assistant, which software developers can use to anticipate code written for apps.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/devops-e1655415804190.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/amp/",
+      "publishedDateTime": "2022-06-16T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1084,7 +1178,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1124,110 +1218,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases.md",
-      "title": "How to scale machine learning inference for multi-tenant SaaS use cases",
-      "excerpt": "This post is co-written with Sowmya Manusani, Sr. Staff Machine Learning Engineer at Zendesk Zendesk is a SaaS company that builds support, sales, and customer engagement software for everyone, with simplicity as the foundation. It thrives on making over 170,000 companies worldwide serve their hundreds",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/16/scale-machine-learning-inference.jpg",
-          "width": 1243,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T14:16:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions.md",
-      "title": "Why AI is crucial for the next level of Network Access Control solutions",
-      "excerpt": "\"Integrating NAC with AIOps is critical to simplify deployment and operations and accelerate the resolution of issues.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/",
-      "originalUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1180183927.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/amp/",
-      "publishedDateTime": "2022-06-16T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

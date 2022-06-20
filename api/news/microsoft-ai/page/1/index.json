@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-16-microsoft-launches-new-ai-powered-viva-sales-tool.md",
-      "title": "Microsoft launches new AI-powered Viva Sales tool",
-      "excerpt": "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams.",
+      "path": "_news/2022-06-16-microsoft-viva-sales-aims-to-take-the-busy-work-out-of-crm.md",
+      "title": "Microsoft Viva Sales aims to take the busy work out of CRM",
+      "excerpt": "The 'Sales' version will work with all other CRM services, such as Salesforce or Freshworks, Microsoft has confirmed. Viva Sales will take customer engagement data from Microsoft 365 and Microsoft ...",
       "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html",
-      "originalUrl": "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.html",
+      "webUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
+      "originalUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 186,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2020/09/woman_with_headset_engaged_in_discussion_via_video_conference_teleconferencing_online_meetings_virtual_events_training_by_fizkes_gettyimages-1198252567_2400x1600-100857863-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1655377468/itpro/Microsoft_Viva_Sales.png",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html",
-      "publishedDateTime": "2022-06-16T00:29:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T06:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,9 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI",
-        "AI in Sales",
-        "Microsoft AI"
+        "AI in Sales"
       ]
     },
     {
@@ -151,6 +160,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-15-microsoft-silent-patches-called-a-grossly-irresponsible-policy.md",
+      "title": "Microsoft silent patches called “a grossly irresponsible policy”",
+      "excerpt": "Cyber security company Tenable Security said it found two bugs in Microsoft Azure analytics software and complained the tech giant didn’t follow industry standards in declaring the patch to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/cyber-security/368292/microsoft-silent-patches-called-a-grossly-irresponsible-policy",
+      "originalUrl": "https://www.itpro.co.uk/security/cyber-security/368292/microsoft-silent-patches-called-a-grossly-irresponsible-policy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1624441528/itpro/MicrosoftOfficeSign_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
       "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
       "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
@@ -192,6 +253,49 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-governance-planning-intranets-and-microsoft-365.md",
+      "title": "Governance Planning, Intranets, and Microsoft 365",
+      "excerpt": "At KMWorld 2021, Microsoft MVP Susan Hanley discussed how she develops effective governance plans for her clients. A key part of planning is to consider these questions, she said: What are we going to allow? What are we not going to allow? How are we going ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153458",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -244,6 +348,144 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-consumers-drive-retails-digital-transformation-says-microsoft.md",
+      "title": "Consumers drive retail’s digital transformation, says Microsoft",
+      "excerpt": "From e-commerce to omnichannel, customers drive retail’s digital transformation in the Middle East and Africa (MEA), Microsoft, the software manufacturing",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "originalUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/11/Nigerias-E-commerce-sector.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "publishedDateTime": "2022-06-14T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-3-technology-stocks-that-can-prosper-during-a-tech-downturn.md",
+      "title": "3 Technology Stocks That Can Prosper During a Tech Downturn",
+      "excerpt": "That cloud-computing services segment produced $5.8 billion in revenue, up 44% year over year. According to Synergy Research Group, it lags only Amazon and Microsoft in terms of cloud market share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
+      "originalUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/684836/gettyimages-1209867567.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse.md",
+      "title": "CaixaBank and Microsoft establish an innovation laboratory for AI solutions and the metaverse",
+      "excerpt": "The agreement will see the two companies start up an AI Innovation Lab, with particular involvement from CaixaBank Tech",
+      "sourceUrl": null,
+      "webUrl": "https://ibsintelligence.com/ibsi-news/caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse/",
+      "originalUrl": "https://ibsintelligence.com/ibsi-news/caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ibsintelligence.com/wp-content/uploads/2022/06/CaixaBank.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBS",
+        "domain": "ibsintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -884,6 +1126,50 @@
       ]
     },
     {
+      "path": "_news/2022-06-07-open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the-year.md",
+      "title": "Open Systems Recognized as a Microsoft Security Excellence Awards Winner for Security MSSP of The Year",
+      "excerpt": "Open Systems, the only cybersecurity services provider with Mission Control, today announced it has won the Security MSSP of the Year award at the Microsoft Security Excellence Awards 2022. The company’s achievements have helped it rise to the top of the Microsoft Intelligent Security Association (MISA) – an ecosystem of independent software vendors and services that have integrated their security products and services with Microsoft’s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science.md",
       "title": "Does cognitive computing offer the next wave of analytics beyond data science?",
       "excerpt": "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing.",
@@ -956,6 +1242,49 @@
       "provider": {
         "name": "FOX6 Milwaukee",
         "domain": "fox6now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea.md",
+      "title": "From e-commerce to Omnichannel, Consumers Drive Retail’s Digital Transformation in MEA",
+      "excerpt": "By Ola Williams The pandemic left little room for error when it came to adapting to the new normal. For retail this meant e-commerce experienced a renaissance, “omnichannel” received a lot of",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/0b19560d-img-20220607-wa0004.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1044,330 +1373,6 @@
         "name": "RYT9",
         "domain": "ryt9.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
-      "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
-      "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/gut-bacterial-metaboli.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-plasma-nfl-linked-with-cognitive-processing-speed-in-relapsing-ms.md",
-      "title": "Plasma NfL Linked With Cognitive Processing Speed in Relapsing MS",
-      "excerpt": "Plasma neurofilament light (NfL) concentration was tied to cognitive scores in people with relapsing MS, data from the phase III SUNBEAM trial of ozanimod (Zeposia) suggested. A post hoc analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/99xxx/99068.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-to-evolve-ai-must-face-its-limitations.md",
-      "title": "To evolve, AI must face its limitations",
-      "excerpt": "And let’s face it: although not perfect, AI’s capabilities are pretty impressive. Even something as seemingly simple and routine as a Google search represents one of AI’s most successful examples, capable of searching vastly more information at a vastly greater rate than humanly possible and consistently providing results that are (at least most of the time) exactly what you were looking for.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
-      "originalUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-officer-involved-shootings-in-cognitive-context.md",
-      "title": "Officer-Involved Shootings in Cognitive Context",
-      "excerpt": "This is a critical question. Cognition is basic to any given socially mediated response; and as it turns out, the cognitive importance of language, in any given OIS case, may become paramount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/fvsquarepic.jpg?itok=XgYUEu96",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
-      "publishedDateTime": "2022-06-04T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-jain-deemed-to-be-university-to-provide-guaranteed-placements-for-all-the-aspiring-ai-and-data-engineers.md",
-      "title": "Jain (Deemed-To-Be University) to provide guaranteed placements for all the aspiring AI and data engineers",
-      "excerpt": "JAIN (Deemed-to-be University) and Futurense Technologies have joined hands to level the playing field for the upcoming talent in India with the launch of their remodelled B.Tech degree programme of Bachelor of Technology in Computer Science and Engineering with a specialisation in Artificial Intelligence and Data Engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20220604/3948804.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20220604/3948804.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-what-hugging-face-and-microsofts-collaboration-means-for-applied-ai.md",
-      "title": "What Hugging Face and Microsoft’s collaboration means for applied AI",
-      "excerpt": "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
-      "originalUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028.md",
-      "title": "Cognitive Media Market Size, Share and Analysis to Expand At 20.4% CAGR Through 2028",
-      "excerpt": "Jun 03, 2022 (Market Insight Reports) -- The Cognitive Media market share report ... is a hub for market intelligence products and services. We streamline the purchase of your market research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

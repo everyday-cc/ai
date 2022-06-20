@@ -2,6 +2,170 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-15-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores.md",
+      "title": "AtScale Helps Customers Accelerate Machine Learning Initiatives With Support for Feast Feature Stores",
+      "excerpt": "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced that it has added support for the Feast feature store. Feast is an open-source feature store gaining rapid adoption in the enterprise data science community.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-researcher-finds-that-military-cannot-rely-on-ai-for-strategy-or-judgment.md",
+      "title": "Researcher finds that military cannot rely on AI for strategy or judgment",
+      "excerpt": "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology argues only so much can be automated and shows the value of human judgment.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
+      "publishedDateTime": "2022-06-14T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
+      "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
+      "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg",
+          "width": 1280,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "publishedDateTime": "2022-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
+      "title": "AWS with Intel launches DeepRacer Student League",
+      "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "publishedDateTime": "2022-06-14T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
       "title": "The Artificial Intelligence We Fear Is Our Own",
       "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
@@ -52,6 +216,49 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-governance-planning-intranets-and-microsoft-365.md",
+      "title": "Governance Planning, Intranets, and Microsoft 365",
+      "excerpt": "At KMWorld 2021, Microsoft MVP Susan Hanley discussed how she develops effective governance plans for her clients. A key part of planning is to consider these questions, she said: What are we going to allow? What are we not going to allow? How are we going ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153458",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -452,6 +659,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-14-consumers-drive-retails-digital-transformation-says-microsoft.md",
+      "title": "Consumers drive retail’s digital transformation, says Microsoft",
+      "excerpt": "From e-commerce to omnichannel, customers drive retail’s digital transformation in the Middle East and Africa (MEA), Microsoft, the software manufacturing",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "originalUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/11/Nigerias-E-commerce-sector.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "publishedDateTime": "2022-06-14T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-mit-engineers-build-lego-like-ai-chip.md",
       "title": "MIT Engineers Build LEGO-like AI Chip",
       "excerpt": "With a LEGO-like design for a stackable, customizable artificial intelligence chip, MIT engineers have taken a step toward a modular chip design. Traditional wiring is used in other modular chip designs to transmit signals between layers.",
@@ -629,6 +879,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-3-technology-stocks-that-can-prosper-during-a-tech-downturn.md",
+      "title": "3 Technology Stocks That Can Prosper During a Tech Downturn",
+      "excerpt": "That cloud-computing services segment produced $5.8 billion in revenue, up 44% year over year. According to Synergy Research Group, it lags only Amazon and Microsoft in terms of cloud market share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
+      "originalUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/684836/gettyimages-1209867567.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -853,307 +1155,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-chima-opara-weighs-in-on-ai-bias-cyber-security.md",
-      "title": "Chima Opara weighs in on AI Bias, Cyber Security",
-      "excerpt": "In the end, two words remain on the lips of many — artificial intelligence (AI) and machine learning (mL) Long before now, those terms were used solely by professionals in the tech community, but with the proliferation and commercialisation of technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/",
-      "originalUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/BlacB.jpg",
-          "width": 1439,
-          "height": 1814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/",
-      "publishedDateTime": "2022-06-13T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-artificial-intelligence-tech-stock-symbol-aitx.md",
-      "title": "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX",
-      "excerpt": "AITX SCOT. AITX AVA. AITX Collage. AITX Showcase. AITX ROAMEO. Largest Order for AI Robotics Leader in its Short Amazing History thus far; $AITX Receives a",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
-      "originalUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-06/14/EP_1bc51image_story.jpeg",
-          "width": 893,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-smart-robot-helps-with-congestion-at-narita-airport.md",
-      "title": "Smart robot helps with congestion at Narita Airport",
-      "excerpt": "A robot equipped with artificial intelligence has been put to work to help sort out congestion problems at Narita International Airport near Tokyo.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220614_19_1126159_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220614_19/amp.html",
-      "publishedDateTime": "2022-06-13T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr.md",
-      "title": "Deep Learning Market Size, Share, Sales, Scope, Trends, Industry Overview, Top Players, Growth, Forecast to 2029 – VMR",
-      "excerpt": "Jun 14, 2022 (Heraldkeepers) -- New Jersey, United States,- The Global Deep Learning Market research includes an in-depth analysis of key geographical trends, market dynamics, and global size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr-2022-06-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr-2022-06-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-spotify-to-acquire-ai-voice-startup-sonantic.md",
-      "title": "Spotify to Acquire AI Voice Startup Sonantic",
-      "excerpt": "Spotify said on Monday it will acquire Sonantic, a tech company that specializes in creating hyperrealistic artificial voices. In a blog post announcing the acquisition, Spotify s",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/",
-      "originalUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/GettyImages-1013933284-H-2022.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
-      "publishedDateTime": "2022-06-13T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.md",
-      "title": "Tenable boss accuses Microsoft of putting Azure customer safety at risk",
-      "excerpt": "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html",
-      "originalUrl": "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg",
-          "width": 375,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-stanford-engineers-develop-tiny-robots-to-bring-health-care-closer-to-precisely-targeted-drug-delivery.md",
-      "title": "Stanford engineers develop tiny robots to bring health care closer to precisely targeted drug delivery",
-      "excerpt": "... also provides untethered control for non-invasive operation and separates the control unit from the device to allow for miniaturization. Zhao said their most recent robot, featured this month in Nature Communications, is “the most robust and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/955421",
-      "originalUrl": "https://www.eurekalert.org/news-releases/955421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

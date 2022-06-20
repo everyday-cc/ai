@@ -38,15 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "Global Cognitive Computing Applications and Markets Report 2022"
-    excerpt: "Applications and Global Markets\" report has been added to ResearchAndMarkets.com's offering. In this report, the market has been segmented based on component, deployment mode, organization size, end user,"
-    publishedDateTime: 2022-06-15T11:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-cognitive-computing-applications-markets-report-2022-featuring-/2022/06/15/9621933.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "5h7ypIbnz8IerZr/jOElHHN+ff2JVXIpd7wMZqDkx2zssuJ85YStV+JxJbHv9uE5RxYHiEkdrpkh6C2kNGxk5pvk75+i1ICo0S3ID4aJJ++qoukp5Q/AUQhwT0RSFVyRM/k3OhebfjF3MEwLHGgV0n0nXRkOmerEODMRf5zT/GtQwCOJmaqz03HwlPiD8gdI2UNGHivR8A3OyL/R3jSVgZaZl6GRQoJErrjknhAJ64B+1CHezNPC32VeTuvtHQhQUCngt2pauuqM/iU+lq89gQ9t+Gr+OUKMyGWZlqFYOSN6nD5lqCmafZcnv/eKZDmBuNTf8MsMH/LMduTilqCKkDWiYXI5flRjiaV3PFELJEs=;b5EOgx28sRcsaq1tUhTyfg=="
 ---

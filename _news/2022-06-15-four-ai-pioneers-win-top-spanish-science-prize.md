@@ -7,7 +7,7 @@ originalUrl: "https://www.barrons.com/news/four-ai-pioneers-win-top-spanish-scie
 webUrl: "https://www.barrons.com/news/four-ai-pioneers-win-top-spanish-science-prize-01655298007"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,28 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-    excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind’s AphaFold protein database, a joint-project with the European Bioinformatics Institute ..."
-    publishedDateTime: 2022-06-15T12:07:00Z
-    webUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
-    ampWebUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 39
-  - title: "Princess of Asturias Award lauds advances in AI for 2022 edition"
-    excerpt: "The 2022 Princess of Asturias Award for Technical and Scientific Research recognized the work of experts in artificial intelligence Geoffrey Hinton, Yann LeCun, Yoshua Bengio and Demis Hassabis, the organization announced Wednesday."
-    publishedDateTime: 2022-06-15T12:02:00Z
-    webUrl: "https://www.laprensalatina.com/princess-of-asturias-award-lauds-advances-in-ai-for-2022-edition/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 21
 
 secured: "To9Np6oA+QPrTsm1uZeyVorEYLKJh1JPDRCD3elEs9VSjioou+pmGhHeqcizNeBVfPLEWsS8LXjTXh+wph+UD2QuqKg9JxMegXiMxDIylcr6XfU+EUenWnKq1NsYoQu+xFs5Y9g0/6MqpxLLpzVSxWI+Kd04pLi8nfuCi30nteK4qG7gCFI8dOecL9DFabOjH22pfE95TLHQnEcQphAqPorLMR2kPh5WYf9cQooiPeRuVwC0w0zdYeSo0SnNF23dY30NxNbaReHYcv4Lahi6hNLdNAdFmh8I0ET1Uk27OHs2Q3Zd4y45C95y+NoPk/f9OaWdUfJl52LYwgolutbeufboS5GeR24aUExEKIxQRbg=;84/0jCSgG+Kw0nzjkZt/WQ=="
 ---

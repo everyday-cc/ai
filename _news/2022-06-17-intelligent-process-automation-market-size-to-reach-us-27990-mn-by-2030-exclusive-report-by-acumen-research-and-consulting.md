@@ -57,15 +57,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Healthcare Machine Vision System Market to Reach $4.5 Billion, Globally, By 2031 at 22.4% CAGR: Allied Market Research"
-    excerpt: "Increase in demand for automation in healthcare applications and rise in demand for machine vision-guided robotics in the drug dispensing industry drive the growth of the global healthcare machine vis"
-    publishedDateTime: 2022-06-15T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-machine-vision-system-market-to-reach-4-5-billion-globally-by-2031-at-22/article_e53ad967-2e24-53f5-8a06-a2b1c9034396.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "tlkYT4IuAnC2G72QFtGfg3Y61tNxUmz3+ujOGqN7Cg1rSPixBflKdCPcKMz6W1YqZgvllITWNryRQ9Fh6tuUw48M/dYXL5N9Xdt7ZnrHHHN5Cq/XIZsAolC14UTAps55kmtLeDcwIf+TjxkWWPbg1J7MgSfs/hW5q7x+wrj6UCTFCxEJwf/TxezgHwGKzE5Elf5tIi9nnI+CN4Sb8cPI0SMqxL0w0JclYHRw3PxzJrXvgYMc4XGRnJHF/EO6yZR3ocOEvLbZpmb6aRyT29bbNYiWIeYMoe7MvQTsXVNSDOawWHqjoRDCpEfCiVlhXbgl2SbdCfMN8+mSuDCY3mMkXP9csAaogXqDUZpFCcASzWo=;+pBJbNt2/4bz5H/NR1IKrw=="
 ---

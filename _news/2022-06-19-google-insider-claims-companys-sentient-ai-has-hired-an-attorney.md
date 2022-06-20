@@ -129,15 +129,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "Stop Saying That Google’s AI Is Sentient, You Dupes"
-    excerpt: "To us, it might seem fairly archaic but there was a time when it was highly impressive, and laid the groundwork for some of the most sophisticated AI bots today—including one that at least one engineer claims is conscious."
-    publishedDateTime: 2022-06-15T11:51:00Z
-    webUrl: "https://www.thedailybeast.com/stop-saying-that-googles-ai-lamda-is-sentient-you-dupes"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
   - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
     excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
     publishedDateTime: 2022-06-15T18:00:00Z

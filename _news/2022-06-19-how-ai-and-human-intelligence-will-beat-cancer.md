@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-wil
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
 type: article
 quality: 91
-heat: 122
+heat: 123
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/economy/foreign-trade/india-banglad
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/amp_articleshow/92322921.cms"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "India, Bangladesh to explore cooperation in AI, cyber security, startups"
+    excerpt: "India, Bangladesh to explore cooperation in AI, cyber security, startups - India and Bangladesh on Sunday decided to expand their strategic partnership to develop cooperation in areas"
+    publishedDateTime: 2022-06-20T05:00:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/india-bangladesh-to-explore-cooperation-in-ai-cyber-security-startups-nid-219274-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 55
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/F1m348Ic.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "t3z4PSUIGC5U7F+RSYheRN/rizx4hGV91TmXjhYboIV0XOgRK2RigUNw+w1Z1URE9PdzBe3zOWxolURC0RXKjIOPxnzGvREbeTFjgq4Nc+Lv7QDcqm4+yoQHZ6PFp83bGtukocKlp+20bTA6kNE7SUjAaOhVipiEfahfiCcBMziUJsoeJLBNz0KW6zzbr3AFZN4q3rflU/wQAGbF2+I62AgOH/AeyOFT5RgZvF5XMGLjWveQEe5x72Fil7r8kuTL+YXf2yzjJ2ccESmLAvlZIgEJPgiFxnjqCsqLX8O6Q1W1CnbtmWZTk+WvuHj6ZtR/ePMTbNdJjrlJlirpnLUiEBFn7zGSDNnv2MSoNbgw8Ic=;+Su2+7NxlqVv7QsPWfKEqQ=="
 ---

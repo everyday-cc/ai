@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo142170181595"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
-  - title: "Stop Saying That Google’s AI Is Sentient, You Dupes"
-    excerpt: "To us, it might seem fairly archaic but there was a time when it was highly impressive, and laid the groundwork for some of the most sophisticated AI bots today—including one that at least one engineer claims is conscious."
-    publishedDateTime: 2022-06-15T11:51:00Z
-    webUrl: "https://www.thedailybeast.com/stop-saying-that-googles-ai-lamda-is-sentient-you-dupes"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
   - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
     excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
     publishedDateTime: 2022-06-19T16:24:00Z

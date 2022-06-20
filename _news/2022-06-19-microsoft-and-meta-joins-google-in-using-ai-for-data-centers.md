@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Viva Sales aims to take the busy work out of CRM"
+    excerpt: "The 'Sales' version will work with all other CRM services, such as Salesforce or Freshworks, Microsoft has confirmed. Viva Sales will take customer engagement data from Microsoft 365 and Microsoft ..."
+    publishedDateTime: 2022-06-16T13:33:00Z
+    webUrl: "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 116
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1655377468/itpro/Microsoft_Viva_Sales.png"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Microsoft launches new AI-powered Viva Sales tool"
     excerpt: "Designed to bridge the gap between Microsoft 365, Teams and CRM, Viva Sales automates data entry tasks and delivers AI-powered insights to sales teams."
     publishedDateTime: 2022-06-16T07:29:00Z
@@ -42,6 +56,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/09/woman_with_headset_engaged_in_discussion_via_video_conference_teleconferencing_online_meetings_virtual_events_training_by_fizkes_gettyimages-1198252567_2400x1600-100857863-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Partners With Spanish Bank For AI Development"
+    excerpt: "By Michelle D. Madsen CaixaBank and Microsoft are changing financial expectations. The Spanish bank and the software/cloud-computing giant have inked a strategic joint partnership to advance artificial intelligence (AI) applications for financial solutions and build"
+    publishedDateTime: 2022-06-16T06:32:00Z
+    webUrl: "https://thewestsidegazette.com/microsoft-partners-with-spanish-bank-for-ai-development/"
+    type: article
+    provider:
+      name: The Westside Gazette
+      domain: thewestsidegazette.com
+    quality: 71
+    images:
+      - url: "https://thewestsidegazette.com/wp-content/uploads/2022/06/feat_a6c1c268-12bc-416e-a995-d52964d01017-678x381.jpg"
+        width: 678
+        height: 381
         isCached: true
   - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
     excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
@@ -66,20 +94,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
-  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
-    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
-    publishedDateTime: 2022-06-16T15:47:00Z
-    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft improves Azure’s accessibility for AI workloads"
     excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
     publishedDateTime: 2022-06-16T11:28:00Z
@@ -89,15 +103,20 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 49
-  - title: "AvePoint Adds Microsoft Azure Backup to Enhance Data Protection Capabilities"
-    excerpt: "AvePoint (NASDAQ: AVPT), the most advanced SaaS and data management platform provider, today announced the addition of data recovery capabilities for Microsoft Azure. Now, AvePoint’s leading Cloud Backup solution extends protection to Microsoft Azure workloads to help businesses collaborate with confidence across their Microsoft deployments."
-    publishedDateTime: 2022-06-15T13:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-jersey-city-data-management-ebcb611b688a9755b9fbd62a561e7b64"
+  - title: "Microsoft & Meta begins testing of Artificial Intelligence to assist in operating data centers"
+    excerpt: "I run the compute in multiple large scale datacenters. This is such a silly sensationalist article. There is nothing \"AI\" about this."
+    publishedDateTime: 2022-06-20T01:30:00Z
+    webUrl: "https://techstory.in/microsoft-meta-begins-testing-of-artificial-intelligence-to-assist-in-operating-data-centers-2/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: tech
+      domain: techstory.in
+    quality: 42
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/06/AI.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "7JaGbzraekeDiQ0LaX+lUXr1LCwxsNg67NQe7ldA0l6O0dx9CzjPbVcVLt0NZmtSgrRXTo7x8O/hmxA4fGJdH8EjkebCxwNlUCCBpGa8GgeOnYX8+1hnLuaZqdSA4pv4bsEsu5FxKfRvzIDJIv3t2hBfz854ouH9icxWSyOFivS0mSvHseg05XVHkCXuE36vxti6185/aq2Qd3I26zewKsvQ4CrfZdWMaPJJVyzICy5K51A7PF4DQ67wBqp4f/eDMOkElCd1M9uWfplX+T8afZekPazYf1+aARgHbT7U/jSrzNi9MBqRG00RdIo11mwxn5CIBpyKJYh8r0Wwj8yZ/OkobUoF3eyPtbmrHd6GyRI=;90pTquyRCDppImLPmet4RQ=="
 ---

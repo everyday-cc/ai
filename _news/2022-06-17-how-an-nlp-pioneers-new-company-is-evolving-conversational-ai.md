@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-593338488-Just_Super.jpg?w=1200&strip=all"
         width: 1200
         height: 634
+        isCached: true
+  - title: "Gulf News webinar explores conversational AI’s impact on customer service"
+    excerpt: "Boosting bottom line, improving customer service and easing workload cited as benefits  Ensuring customer satisfaction is paramount for any business to prosper, and now conversational Artificial Intelligence (AI) is helping revolutionise the customer experience,"
+    publishedDateTime: 2022-06-20T05:05:00Z
+    webUrl: "https://gulfnews.com/technology/gulf-news-webinar-explores-conversational-ais-impact-on-customer-service-1.1655701508534"
+    ampWebUrl: "https://gulfnews.com/amp/technology/gulf-news-webinar-explores-conversational-ais-impact-on-customer-service-1.1655701508534"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/gulf-news-webinar-explores-conversational-ais-impact-on-customer-service-1.1655701508534"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 58
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/06/20/webinar-ai_1817f7f8d30_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
 
 secured: "WobldlNrh3rGvOiiR12EegzuMQzOXuVc5nloVlofKsuy7FgbJQnBlcO+tb95DvojMWB0TgN2JGqIL82sHD+zCg3V/Ks8p58SnSL73qNGIGX7NQMIQESkdffp0/QaFVRh15iP8jAbQPPxY2wrdoigU5J10hfMTGajfrlzzCEAnQvvLWYf5d6DHVVlFdDY3ODhV0lwpl8zb8/eTJKQ9Ky2IN2kQHR84LUcyTaqb9D3cJVw/0uavPycuwEdPesv90H/JIKIbBP2e9kTQIOc89fnW5SIrWk9iw3qoux2ftXDr7fQkbU96dguXwFUeLm2W6MGVIHRMpAGSOZyxItB4KlnBkFuSkkNiQUNE9aYMpYTTML8gmVP30guig9duKmY/UTtX3HDf8K2VcFt6b1qM1Kq70TVdJ0ieB5mXl6g9fbQA2npic5wosFKSP2TweKSrpovZ8GTN94VGIr7qTzH98jsEDHqZ7/wdh3Dj8RWVARlvF3k72DuGwKM36eUxNkT41RI/S64n1NEBeWUZFw2N7o1CA==;Mu9odLXlQ8vEWEYHGPGi7Q=="

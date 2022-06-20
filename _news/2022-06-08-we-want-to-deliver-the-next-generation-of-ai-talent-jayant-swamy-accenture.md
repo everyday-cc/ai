@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/jayant-swamy-banner.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "BHXIcwCFdJOdMv6XTmuDj1xyjH78rMW7COpYKoVQhaWJxTaQubpd7jIb9qdnp7twP4MkrqGkgpkAvu3L6cQCnpBziSgOCgHdPs7VP2/1GdGeth4PLuf57IYPXwlMUH2qAkAOh8i4xuDoNebjelbCrfOUWmz616Lf8RjA4YjB11V2M4/LKPmRjcoHkOYHEz/iNy0KYjUHRACAvnRbteUXzh8M2yUDz6iDqbwnEEtrnk1ZSOO8MtVwsUvTjXmLN7A3Eg+gRRrg5GUFNE/g8NWr6mjvctC9bSDnpYvb8QKaxj2YB8U2oxpdDsubki0iyThWOujkYa93a2sU9hIuJ82yKjqVLHhIXshLsjNzHfZrxYk=;DOFIr22W4c1IYrt8xBtMCw=="
+secured: "uGW3jcly+aUe79jkcgmX8FHwSCNN5IMlmvSZpH+QpwCI9TwPeyVWtu1iHoJt5wZDw6LHeNynPbVykeb3WUcw3BQJHOUHTtWLzp/E/vNFwcx9aIr6WSNGCve/AsBB+KkujkuHrwLTMVAqX8qYWIcX1zLS/biHfu+rHeRKneJIsGHs9SN3IzhcKNZprXAs2I3RqxbSqMWFLLxvBfP9WOh/S0cU6k0I21W3Nm0jULda5OTgne/k9r16DFDrwLDTgF6O4y0SC4lrk4UYoS3phXaznhV/TWrHSEEhm9jRoI1usvWbRGgq5ZdfEPg3/0oQwvG0atOWX5dfMWvuLfBMjkuTtlNeImkGDnsoWu6fivIaqkTSJGfP7V5xW1dWumk0darMic5B4ySEyrgyfRRO/MLsGsUn2IDoSxfHgDfRaMyaWy+oshwvUdEgLeTogxYrVjj0HyQ5iKLVuVk+c0o4kPLOEW+3rkA267FW0zHfjVMDJ4kzZt6DWD6EQouM9ipOPuQzX8CDfvUIPHLu2afl3QkxpQ==;wW9bxSPy1Iua6TXrR7inHQ=="
 ---
 

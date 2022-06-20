@@ -46,6 +46,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Gulf News webinar explores conversational AI’s impact on customer service"
+    excerpt: "Boosting bottom line, improving customer service and easing workload cited as benefits  Ensuring customer satisfaction is paramount for any business to prosper, and now conversational Artificial Intelligence (AI) is helping revolutionise the customer experience,"
+    publishedDateTime: 2022-06-20T05:05:00Z
+    webUrl: "https://gulfnews.com/technology/gulf-news-webinar-explores-conversational-ais-impact-on-customer-service-1.1655701508534"
+    ampWebUrl: "https://gulfnews.com/amp/technology/gulf-news-webinar-explores-conversational-ais-impact-on-customer-service-1.1655701508534"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/gulf-news-webinar-explores-conversational-ais-impact-on-customer-service-1.1655701508534"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 58
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/06/20/webinar-ai_1817f7f8d30_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
 
 secured: "riMM4gz9cUtY6lkUQxx0K7/qgxSYvKP2MQrSmJXf+os2Bw2cF1p3bdlkScnKPYSQ0QzNUfV63rtcPHgvE4//io0450xOFj3U4u/2rj+mp1uFxC/eLylRwNazyqvGkj0fEt64Ryw+Vhzujjy6Axk1hNMO8GAPRr9temnyTu5l68tLRacWwCIGFEcCCEPZ9gCNot7BMcJP7YBWCRSCey6XesMvB82vZB1WFa5AdvkVMsLX/rUNzkWRy9GX5z4qtp9Yjgq+nNPRcIC83pFXNecg6EJh83rCBnUxCQD8N3gtzcTF47KQ6HnkLbMOPll7oKnTjP52BHJjGtsPdV0bKx84utJ7/tXFVERoq/Guq7WbLUU7O31OGCxXFtCz/73UggRTVMxQ2AQKMDOtXPSiLo7SKG91MGJDEZGPFlHqhiEp9pcGyFYK1MNACSBLi+rLNVeU70WzbBPNXudUd8x0QNNhmgAC2wfodN52kqt2nfjEqC+7BuvE3L3Nh69PPH8zdWgEK0eytMxhKoJmxcZH2Bmycg==;xsLcjX/FTSWPRAOQLcrxcA=="
 ---
