@@ -92,8 +92,8 @@ related:
         isCached: true
   - title: "Forget sentience… the worry is that AI copies human bias"
     excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-    publishedDateTime: 2022-06-19T06:30:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
+    publishedDateTime: 2022-06-19T12:07:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     type: article
@@ -105,22 +105,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
         width: 620
         height: 372
-        isCached: true
-  - title: "Google Engineer Says an AI Has Become Sentient. How Would We Know if He’s Right?"
-    excerpt: "According to software engineer Blake Lemoine, LaMDA has achieved a long-held dream of AI developers: it has become sentient. Lemoine’s bosses at Google disagree, and have suspended him from work after he published his conversations with the machine online."
-    publishedDateTime: 2022-06-16T03:14:00Z
-    webUrl: "https://www.thequint.com/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
-    ampWebUrl: "https://www.thequint.com/amp/story/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
-    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/language-model-for-dialogue-applications-ai-chatbot-sentient-blake-lemoine-google"
-    type: article
-    provider:
-      name: The Quint
-      domain: thequint.com
-    quality: 54
-    images:
-      - url: "https://images.thequint.com/thequint%2F2022-06%2F168eac97-c9a1-427e-a86c-dd18f22f97e8%2FiStock_920743540.jpg"
-        width: 2000
-        height: 1127
         isCached: true
   - title: "Comment: Artificial intelligence will tell us if it’s sentient"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"

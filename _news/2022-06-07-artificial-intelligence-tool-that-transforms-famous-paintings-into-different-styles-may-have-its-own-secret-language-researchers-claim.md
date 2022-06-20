@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2022/06/07/11/58780713-0-image-a-25_1654597075518.jpg"

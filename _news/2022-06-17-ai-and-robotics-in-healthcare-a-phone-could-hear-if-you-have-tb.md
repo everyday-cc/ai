@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-africa-61834753"
 webUrl: "https://www.bbc.com/news/av/world-africa-61834753"
 type: article
 quality: 116
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Responsible AI in healthcare: Addressing biases and equitable outcomes"
+    excerpt: "So what does that look like? A call to fight bias with the help of algorithms Let’s start by talking about when AI fails and when AI succeeds at organizations overall. MIT and Boston ..."
+    publishedDateTime: 2022-06-20T20:11:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/"
+    ampWebUrl: "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "The robots and AI technologies advancing South African health care"
     excerpt: "South African researchers and surgeons are using artificial intelligence and robotics to enhance healthcare in the country, BBC News reports. The improvements include a video-call robot that ..."
     publishedDateTime: 2022-06-20T09:39:00Z

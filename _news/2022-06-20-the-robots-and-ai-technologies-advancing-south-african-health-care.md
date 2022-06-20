@@ -35,6 +35,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Responsible AI in healthcare: Addressing biases and equitable outcomes"
+    excerpt: "So what does that look like? A call to fight bias with the help of algorithms Let’s start by talking about when AI fails and when AI succeeds at organizations overall. MIT and Boston ..."
+    publishedDateTime: 2022-06-20T20:11:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/"
+    ampWebUrl: "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "hF6zITfdALWv0V3yvkMRuKS7a4naABTmtyXbQICFv3dv8yBHYTWz79yo9SvOCv1IUdKjpyY2d5uCT8iP6ECzVoQThS1TTHAeKspoCgxqUTCAdRFZDnnT+idNLcb44NTIMIZO6AYn3Txdeyz+6qva0QfixJBozxcVBOswC5U1K8OG5k9Vb4gLLUOKve83oxG2GqhXqS834LUyk8h7eqTpw3abZ2u6xt1dYJUJttE5f1BD/V6ElCkZFDHgrLREyNw+BlMcgmEEDmgQZSxX6IYtp9Vf1byPpEh9xiyhDxQa5/lX4cphZtXKXe2frPtLDCSpN1W7iIkSB4gdXP+hgo6WDTU3WOo4s1waBOUTCZNONPSuYLmSZK1RF1/gbnOIjMHJlm0vY6YgMNPQyNV7exQ/gXpSuZ51UhRupq4I4EDiNqCDQ0lGp5kUhBkaN+28dpBlJvYcnYY2DmmCONE0EBdHbS+I698rKHnGWwpWs3jgeHEMBHpSLRiYxaKOG6nr/+j3JHC8MaRbWpB398lGW7jDTw==;r9j7r7qXXt2BiS8IPMxwug=="
 ---

@@ -57,6 +57,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Opinion: AI's hold over humans is starting to get stronger"
+    excerpt: "Ilya Sutskever, the chief scientist of research giant OpenAI ... Last month, Mark Zuckerberg said that Facebook would use more AI recommendations for people's newsfeeds, instead of showing content based on what friends and family were looking at."
+    publishedDateTime: 2022-06-20T18:06:00Z
+    webUrl: "https://www.crainscleveland.com/opinion/opinion-ais-hold-over-humans-starting-get-stronger"
+    type: article
+    provider:
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 19
 
 secured: "YWM9qRRzYHIZlZPietkSK5k8wvZYLMRi7trbxfetINeU5x7dY7nRqJ/kJdrdNAQhLXdM73wNE3kz5n70IW4WeZCcvv4lJQ78ib4QwvxGZP02VQAMuwiupdVfi2KlGH9HF2gdHdW3v6XBovQTnn/EkeYfPgncgkmqauGv6sD4n2820Q/5dVEv3U02ff0Z0LI2OudaElzgw215p8FOYgi3sBd5UQpopy+j5v0zQU4j5G2pnMxFf3wf5whqkol1QNjuaqjWRSCpYbyMVnIYUa4imqtKqafvZ8DkNUBwxDHzVixSejukqU/+/1lWqd1IrXdBWWPdXKBgwAmV/z6qS+IaNpyDMnM3z6dJktTOhnjnvASc2Iar3TIxTrRusYz6Cm8ZVlaaBrDhVJ+xvgGJZ2+wToiA9NOx2rRrMGmRfwQ5eHON0dVC6zBw0t686jzwBeyytoPmKuxkRNvOtmMvwp+RzyVUXpDXbdHaWcLO5pXJQSTkDvoF5RV1weThoRhpM9ZVGmWhZ5WWDEOLu8pakUj5vA==;8NxgC5CSZ78FHmUvnMss6A=="
 ---

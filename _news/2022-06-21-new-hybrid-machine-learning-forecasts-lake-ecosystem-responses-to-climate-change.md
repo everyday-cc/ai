@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T19:44:00Z
 originalUrl: "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html"
 webUrl: "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Phys.org

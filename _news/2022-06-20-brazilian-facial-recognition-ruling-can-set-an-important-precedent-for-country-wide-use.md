@@ -35,34 +35,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Call for ban on facial recognition following claims retailers are using it illegally"
-    excerpt: "Academics and digital privacy groups have called for a ban on the use of facial recognition technology until proper regulations are put in place to protect the public, following claims that retailers like Bunnings and Kmart may be breaching the law with ..."
-    publishedDateTime: 2022-06-16T01:20:00Z
-    webUrl: "https://www.crikey.com.au/2022/06/16/facial-recognition-technology-bunnings-kmart-choice-report/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 47
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/06/AdobeStock_225167589-copy.jpg"
-        width: 740
-        height: 400
-        isCached: true
-  - title: "What Of The Future Of Facial Recognition Growth In NZ?"
-    excerpt: "A just released report by Choice magazine in Australia has found three major retailers, Kmart, The Good Guys and Bunnings have deployed artificial intelligence (AI) based facial recognition technology in their stores to monitor customers for loss prevention."
-    publishedDateTime: 2022-06-16T04:20:00Z
-    webUrl: "https://business.scoop.co.nz/2022/06/16/what-of-the-future-of-facial-recognition-growth-in-nz/"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
-    images:
-      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "PanHdVr2tlBEe/pcslaokM7xKNUuYqFWP8hDUyb9mnvu6MfUNa9Bk2ooO6V6g3aLMLdybZyAPYgly35V8FfShWTI5FaDxLqWw1RH7rBrLifIVaevqec/daXOvdiH8cBjkSJ/x59Hf7F0sesz/pPfSo66T3FN2SnVQX4aP7O402nO0KeLSNdWFph6oTzylXZ+phTZmeXfCeTpRWIpx9Kbi1jST9Bde7bhW05nwpFEjzwsNCuh/v6QKj47ZcivR2EoRVEJ5z2jryrZv19sBhbvQkN3xJW7wj88KpTF+qDxzzdSQMxy0hXyLtpFTdI+HVIJwHwrQHqomKmstMXzFDsgWCJQhZWK/DNET8qeIRryK8I=;/4CBpy0mdBTys7EbUKgwsA=="
 ---

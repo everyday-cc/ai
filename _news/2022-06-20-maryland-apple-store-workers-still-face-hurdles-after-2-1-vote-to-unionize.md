@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Maryland Apple store workers face hurdles after their vote to unionize"
+    excerpt: "Workers at a Maryland Apple store voted to form a union. But forming a union is a lengthy process that labor experts say is heavily stacked against workers in favor of their employers."
+    publishedDateTime: 2022-06-20T21:13:00Z
+    webUrl: "https://www.wxxinews.org/2022-06-20/maryland-apple-store-workers-face-hurdles-after-their-vote-to-unionize"
+    ampWebUrl: "https://www.wxxinews.org/2022-06-20/maryland-apple-store-workers-face-hurdles-after-their-vote-to-unionize?_amp=true"
+    cdnAmpWebUrl: "https://www-wxxinews-org.cdn.ampproject.org/c/s/www.wxxinews.org/2022-06-20/maryland-apple-store-workers-face-hurdles-after-their-vote-to-unionize?_amp=true"
+    type: article
+    provider:
+      name: WXXI
+      domain: wxxinews.org
+    quality: 44
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ed0e3ae/2147483647/strip/true/crop/2664x1641+0+179/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F20%2Fap22170608826177-a92aadd5e50ae29aba4a87b22283a3c430a6eaf7.jpg"
+        width: 880
+        height: 542
+        isCached: true
 
 secured: "DBCr1XqLQxGao7gbZQRXq4J8nOS8B4YeSxukRsuUv0uiMD5qZ00FDahbirZz34Ut4mt5oz2/p6w1eK25QHbKM77Ope+ZonQx7N1BYjk4KjeoUjRXoMfx8vhwcsViFDQUX7ibkBZn0tBZES4rNXze10bZza1LJoVlxXnK6szJ5F45DKzyt9QL0suPLT/CASvAw5kkV/9PP3jEEI74AVSqOolnxCeauuNgn4TFdTQcPTBnogZwcIj0iOqmFYHNnOKRGC2vL/eA1RW/WuN5CfgoRsZshSph33z/cyEdkkx4ZmqPlm0y9lfvNh91+BUlPwoLU0xLHRTEToTCNpel1bKcgvjr+7nyMARMWryJnok9I0k=;C3Z02CKJrMLBBTOlmFOYZg=="
 ---

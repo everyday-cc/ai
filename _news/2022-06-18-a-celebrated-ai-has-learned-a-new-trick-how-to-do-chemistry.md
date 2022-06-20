@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-tric
 webUrl: "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-celebrated-ai-has-le.jpg"
         width: 1356
         height: 668
+        isCached: true
+  - title: "A celebrated AI has learned a new trick: How to do chemistry"
+    excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
+    publishedDateTime: 2022-06-20T20:31:00Z
+    webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 37
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/pipette-lab.jpg"
+        width: 1200
+        height: 810
         isCached: true
 
 secured: "BIDEufs/Pxo1/rEk06zsrA/tkFmjhO77S9XIcsjreIIX3NzEVlVyp1K3UVFsc6qnukf4Pq23Eyo+6jRJsIcMe8k875yEj+tKW8Yd7Y/PxX7GR/YVQvFUs/8ApHsx9FKxJuSt1SU7YsOOuFUtQrQG46DRVftpQh65YdVuedifqXRFmgNqVp9i61wH8hec5deBJWN9E4o1MiRmOWwoX97XLi2EtvdWfY3yAmVk4ij9QI7Mda4S7QeMVQL8j3qU61NjBgyCZLSzpDf3v0ik3yO0a7rffH3VQFIVNrECjzagKjkpZgQgnj0vWVLI5WEqhpVtoyuC7W/660QEpNcYArU4T8LQP762KzW8fhhlykJxI2K+CGOUTwk3CJovmjRcaylKDoTZdn9Bz+lDBMkRZHgqGYRkg0dzrwZKNKmSDBR/sLwttTmrxU14GCoFZq4l6JlGQPb2UWB70FmGI1VVAFfQEkXmZdaGvpQ8WAvkHjDn/fOIUxZge5ZKXUzFg/9HLzWh3L1ABw9N7o3zW9L1KjhUxg==;FvCD+YRLMu/783N7NKWfmQ=="

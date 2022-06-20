@@ -26,12 +26,21 @@ related:
     provider:
       name: HHS
       domain: govinfosecurity.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
         width: 860
         height: 520
         isCached: true
+  - title: "Cybersecurity landscape: The state of managed security services, 2022"
+    excerpt: "Machine learning and other capabilities help to ... Whether it’s a hospital, manufacturing plant or financial services company, their business is not secure, and our business is."
+    publishedDateTime: 2022-06-20T19:11:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-state-of-managed-security-services-2022/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
   - title: "Advancing Cybersecurity Awareness in the Healthcare and Public Health Sector"
     excerpt: "Tetra Tech applies AI and automation tools at the U.S. Department of Health and Human Services to increase outreach within the Healthcare and Public Health community."
     publishedDateTime: 2022-06-20T16:47:00Z

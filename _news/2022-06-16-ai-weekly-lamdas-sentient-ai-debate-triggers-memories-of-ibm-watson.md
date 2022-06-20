@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-trig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all"
         width: 1024
         height: 683
+        isCached: true
+  - title: "3 things large language models need in an era of ‘sentient’ AI hype"
+    excerpt: "Here's some of the lessons learned from the hype and confusion surrounding large language models and progress in AI."
+    publishedDateTime: 2022-06-20T21:40:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/"
+    ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1367281424-e1654632813202.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
         isCached: true
   - title: "Sentient? Google LaMDA feels like a typical chat bot"
     excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document that he had circulated to colleagues in which Lemoine urged Google to consider that one of its deep learning AI programs,"

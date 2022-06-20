@@ -43,20 +43,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "meldCX and American Kiosks Take Contactless to the Next Level with Smart Self-Service Kiosks"
-    excerpt: "CX and American Kiosks announce close partnership, combining state-of-the-art hardware with smart technology and reliable field services Partnership will create new opportunities across the connected ecosystem,"
-    publishedDateTime: 2022-06-16T03:23:00Z
-    webUrl: "https://www.malaysiasun.com/news/272587360/meldcx-and-american-kiosks-take-contactless-to-the-next-level-with-smart-self-service-kiosks"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 13
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1655057948721.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "Pit7heuerpduq4/MtMLeGev+UBXDwrd+QXT1y1TAo0d4a9JcdGSDb51Yyk+vrqS04p8UNrPSRzde51Jf3JWHCI+eyZ/b3T0Pw9byP+UNBGFFfdfCk8dnP9Ki0qtKrtuVI5h+fARXazCMlZxNZH7BZvkaWeKtu7GGJbeKolzx9piLKmGjgGiz3y5XCYX7GVXfElOyz5LoFUx41o+NGKjQz0d+UhXjBf/J/27P+CCG5b5ndURnXtB40BrrZ+MMyG1zN7FxOMiMQSJfGe0oWErmbFAyNR0hR4Dc5deAYgegl0Onr9x40aYK71vtoqI+oD1yUtO9HfY+MYqI5N4TTi+/M6Rc7ausg5SjSxeDcIkMRgw6QaMzUZuIHdCTJrMjV0Uq18SLTgYWWwqjWUoJttW8it5JHXh2tE5MIfRQbE0sg7iZtESqhAqGNTsxJaraZWow2HWchDatygRAqz77AfZ55lxJ5f9rktg5GA/n7CM96l80IMlHjyUybf3JtGL84vO0rYLkbKSFCxIS/rnbj7oifg==;QMNCOHoyu3+KsH/RxaDuvA=="
 ---
