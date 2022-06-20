@@ -38,6 +38,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+  - title: "Global Automotive Voice Recognition Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
+    excerpt: "Global Automotive Voice Recognition Market 2022 by Company, Region, Type, and Application Market Research to 2028 is a report provided by MarketandResearch.biz that examines current trends, provides a financial overview of the industry,"
+    publishedDateTime: 2022-06-19T20:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-voice-recognition-market-2022---latest-innovation-sales-channels-business-advancements-and-top-vendor-landscape-to-2028-2022-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
 
 secured: "5h7ypIbnz8IerZr/jOElHHN+ff2JVXIpd7wMZqDkx2zssuJ85YStV+JxJbHv9uE5RxYHiEkdrpkh6C2kNGxk5pvk75+i1ICo0S3ID4aJJ++qoukp5Q/AUQhwT0RSFVyRM/k3OhebfjF3MEwLHGgV0n0nXRkOmerEODMRf5zT/GtQwCOJmaqz03HwlPiD8gdI2UNGHivR8A3OyL/R3jSVgZaZl6GRQoJErrjknhAJ64B+1CHezNPC32VeTuvtHQhQUCngt2pauuqM/iU+lq89gQ9t+Gr+OUKMyGWZlqFYOSN6nD5lqCmafZcnv/eKZDmBuNTf8MsMH/LMduTilqCKkDWiYXI5flRjiaV3PFELJEs=;b5EOgx28sRcsaq1tUhTyfg=="
 ---

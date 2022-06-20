@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "4DHolTy+y82LlpMB5XE+JEeoAJubZMz1IbBNL/xYyss1bO1s5qYtRlEh8MA3sk07gOgmTUqh62k8fyaHbaqPNpd8Z79/EVlaGg1RxDGGYrcC+YCE6+MNjUPN0+i22Vl41WYuQ/DZgRJ5IXHVapVYeRGEVD6uWNCQRaA672pP7w6oPMKlU4qmZz/TMdpbgpA1kl3lKA6z4dp2Grp0HxszMpXwENEeFG7XurIqlbDpRFFRgg3TEP+3YHgz/IKplJaMYueN3+et1zUObtbbyTtOblazS+h7bICJCrAT2qC99w0Lxz5bvirJOWzgtVFAquFucouRdru2Oq4IL8jNssD98MS0L5A+c6gLX/Txa6ynapE=;frxUC5CPnow5ysLabWq+XA=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/501e54a8-7ad3-445e-8dbc-c4ac8e9f0d02/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
+    isCached: true
+
+secured: "2YeWFTMZNoUH6eLPoYgb4TdNgefThM3ARon0kYryRj7Zb9PVFCrHYllHjT/GeeqgFeUadSTGt0bXcEUMcL3ZjppsFIYcq3LKJdceW4MKpc9Xzz9q4Uo4IV/SGLaq86Wg78NZTZ5rpGTcrSxqhRM3CeA+SJgUGo67Ibq5YM0Hn2RN0zR2j9EvmCD1b3CDwnfRpYhzmZ2pw0U2Wdzg/1sj77ZwnNEkTh+2sJ3Xj9/W1/TIhq2FWMqDYTI9EdaSNV32DLGSV+f+ESWICvoRqVYhfXx6v/lUkOCXRtKUVtxFN15oqFk8LTb79tIwxGARbBmRluf1xbHMaaaZFFKwtnaknKa8jb9FHrIsS7GZGwO6Ecg=;t8vZ1Tnoj5P8xSXJpTJJ5w=="
 ---
 

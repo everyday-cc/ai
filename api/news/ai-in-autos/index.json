@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-20-self-proclaimed-sovereign-citizens-arrested-in-california-after-deputies-allegedly-find-explosives.md",
+      "title": "Self-proclaimed 'sovereign citizens' arrested in California after deputies allegedly find explosives",
+      "excerpt": "A traffic stop revealed live ammunition, gun powder, and an explosive device inside their car, according to authorities, who said more explosives were later found at a remote compound.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/sovereign-citizens-arrested-california-deputies-allegedly-find-explosi-rcna34380",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/sovereign-citizens-arrested-california-deputies-allegedly-find-explosi-rcna34380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220620-calif-morongo-basin-jail-snip-google-maps-ac-925a-454340.jpg",
+          "width": 1227,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna34380",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna34380",
+      "publishedDateTime": "2022-06-20T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-19-ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars.md",
       "title": "AI Ethics Confronting The Insidious One-Like-Mind Of AI Algorithmic Monoculture, Including For Autonomous Self-Driving Cars",
       "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample discussion on the topic. Here’s then a noteworthy question that is ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -168,7 +211,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -265,7 +308,7 @@
       "originalUrl": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -454,6 +497,41 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
+      "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
+      "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
+      "originalUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Japan Times",
+        "domain": "japantimes.co.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1328,101 +1406,6 @@
         "name": "TechNode",
         "domain": "technode.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-self-driving-cars-are-not-yet-safe.md",
-      "title": "Self-Driving Cars Are Not (Yet) Safe",
-      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago.md",
-      "title": "Baidu’s first robocar looks like the future we pictured 20 years ago",
-      "excerpt": "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "originalUrl": "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Atczmc6ShrzgeTvTauUuw6-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

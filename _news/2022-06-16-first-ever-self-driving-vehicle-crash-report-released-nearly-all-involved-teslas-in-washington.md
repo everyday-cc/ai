@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Report: Nearly 400 crashes by ‘self-driving’ cars in the US"
-    excerpt: "The report brings new data to a debate in the United States over the safety of “self-driving” cars and the appropriate regulatory approach to such vehicles, which polling shows Americans still harbour scepticism towards. A 2021 poll by the Pew Research ..."
-    publishedDateTime: 2022-06-15T20:00:00Z
-    webUrl: "https://www.aljazeera.com/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/6/15/report-nearly-400-crashes-by-self-driving-cars-in-the-us"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 44
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2021/06/tesla.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "An Increase in Self-Driving Car Accidents"
     excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
     publishedDateTime: 2022-06-16T01:03:00Z
@@ -61,17 +45,6 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 24
-  - title: "First report on self-driving vehicles shows 500 crashes"
-    excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
-    publishedDateTime: 2022-06-18T03:56:00Z
-    webUrl: "https://www.fox13news.com/video/1082992"
-    ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
     quality: 24
 
 secured: "MG3se7Xg4MNHYgVMTBrPgaeZhQVkZBtMWZ2q76f/zmS2lL2rrpNlEoeUIGVGO6/p1JLKLli4C52dCRvxmDUS5d+wVN65ykhks5u83fsuyyLXrCMDJrlB+rT9CKO0PpY7L3tQZYSpq2sTL8/+TZhCUHoKIHncZKcIX5dcqpcfhKNIP3yRqb6TSsiSzkuCWpPZFoz37dQeM+he12nj7jhnQil1gECNny8sUyRyYl9wLscLJoA0R23o3stUzDCLMA6agP4A8J/r9vnqdnlYy/xpYV4tnswtnyHJcb2U0VMiTzRoPo6MlRUKmcmhALfiUyk2M/v6Zchf4VmOO8ZqU6de7kl02sMGsDXiyXk+FqDUQoB21Kh1+LIaf58F9LovpWL0GnvHcx8vs7b7X4slgfQD32n2Y+yH52omPAbEMOkD3YJUhFOiIW7yPW3HCrkJbWraqBr14xiFuNaGUFzN1Q5XEcFPs9Uo/KJV5pXFEEq+93STvFJi+MEO8jl82a3kT6Ca9R+paVhYT6LIuNc6eTPZKQ==;dPVvINHD/IVtnBlmTeNr1Q=="

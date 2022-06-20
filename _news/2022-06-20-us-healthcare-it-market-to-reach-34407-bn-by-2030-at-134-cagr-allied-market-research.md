@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T13:20:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/u-s-healthcare-it-market-to-reach-344-07-bn-by-2030-at-13-4-cagr-allied-market-research-806389598.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/u-s-healthcare-it-market-to-reach-344-07-bn-by-2030-at-13-4-cagr-allied-market-research-806389598.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: PR Newswire

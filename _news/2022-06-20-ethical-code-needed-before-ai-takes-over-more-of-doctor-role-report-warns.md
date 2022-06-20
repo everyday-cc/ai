@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T13:31:00Z
 originalUrl: "https://www.pulsetoday.co.uk/news/technology/ethical-code-needed-before-ai-takes-over-more-of-doctor-role-report-warns/"
 webUrl: "https://www.pulsetoday.co.uk/news/technology/ethical-code-needed-before-ai-takes-over-more-of-doctor-role-report-warns/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Pulse

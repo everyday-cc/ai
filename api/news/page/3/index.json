@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-16-this-startup-wants-to-help-teams-get-more-out-of-virtual-meetings.md",
+      "title": "This startup wants to help teams get more out of virtual meetings",
+      "excerpt": "While major videoconferencing platforms can offer basic stuff like a record function, the winter 2020-founded startup reckons there ... e.g. by using AI to parse transcriptions and ID key ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/",
+      "originalUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Group-692.png?w=680",
+          "width": 679,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/amp/",
+      "publishedDateTime": "2022-06-16T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip.md",
+      "title": "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip",
+      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "publishedDateTime": "2022-06-15T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator.md",
+      "title": "Everything to Know About Dall-E Mini, the Bizarre AI Art Creator",
+      "excerpt": "The latest source is Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
+      "originalUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
+      "publishedDateTime": "2022-06-15T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-8-reasons-using-ai-will-improve-your-content-creation-process.md",
+      "title": "8 Reasons Using AI Will Improve Your Content Creation Process",
+      "excerpt": "Copywriter tools can give you a ton of material to work with in seconds allowing you to skip over your tedious research and outline development. You can take the best parts of what the AI writes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/426695",
+      "originalUrl": "https://www.entrepreneur.com/article/426695",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1654714755-GettyImages-1308810664.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-cybersecurity-ethics-artificial-intelligence-imperatives.md",
       "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
       "excerpt": "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally",
@@ -137,7 +336,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -731,6 +931,40 @@
       ]
     },
     {
+      "path": "_news/2022-06-15-yaskawa-launches-new-automation-platform.md",
+      "title": "Yaskawa Launches New Automation Platform",
+      "excerpt": "Yaskawa has announced a completely new automation platform. It is to be called \"i³ Control\" and will form a technically coordinated overall solution for industrial controllers - including the engineering software, the controller hardware, and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.elektroniknet.de/international/yaskawa-launches-new-automation-platform.196853.html",
+      "originalUrl": "https://www.elektroniknet.de/international/yaskawa-launches-new-automation-platform.196853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elektronik Net",
+        "domain": "elektroniknet.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-natural-language-processing-market-12726-billion-usd-industry-by-2028.md",
       "title": "Natural Language Processing Market | 127.26 Billion USD Industry by 2028",
       "excerpt": "Natural Language Processing (NLP) Market Size, Share & COVID-19 Impact Analysis, By Deployment (On-Premises, Cloud, Hybrid), By Enterprise Size (SMEs, and Large Enterprises), By Technology ...",
@@ -950,238 +1184,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-exclusive-baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources.md",
-      "title": "EXCLUSIVE Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources",
-      "excerpt": "Baidu, whose businesses range from internet search to electric vehicles, with expansion into cloud services, robotaxis and autonomous driving in recent years, has tapped Bank of America (BAC.N ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/",
-      "originalUrl": "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/guPLU9seqwgSD6LVw04iCxt0V6g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4EGMJWOEKZL7RHK4KSSRBGTUQA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-is-ai-the-future-of-audit-or-all-hype.md",
-      "title": "Is AI The Future Of Audit Or All Hype?",
-      "excerpt": "Artificial intelligence is billed as the future of everything—a magical panacea to all of the world’s challenges, heralding a utopian future where algorithms will know exactly what’s required and when.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a884dd069425f7520e32b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/",
-      "publishedDateTime": "2022-06-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-see-pics.md",
-      "title": "Spider or crab? The world's tiniest remote-controlled robot is here. See pics",
-      "excerpt": "Although at a first glance it could be misconstrued as a spider or a tiny crab, what engineers at US's Northwestern University built was a half millimeter-wide remote-controlled robot. The tiny ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/06/My-project-42.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html/amp",
-      "publishedDateTime": "2022-06-15T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-unleash-natural-language-processing-for-survey-comments.md",
-      "title": "Unleash Natural Language Processing for Survey Comments",
-      "excerpt": "The difficulties of that process is why you can benefit from natural language processing (NLP) tools. Defensible and reproducible coding of text is hard to do well because the coder may be biased ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2022/06/13/unleash-natural-language-processing-for-survey-comments/",
-      "originalUrl": "https://www.law.com/legaltechnews/2022/06/13/unleash-natural-language-processing-for-survey-comments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2022/06/Artificial-Intelligence-10-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030.md",
-      "title": "Artificial Intelligence in Healthcare Market Research Predicted to Show Substantial Growth in Future by 2030",
-      "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 215.53 Billion by 2030 and register a substantially high CAGR over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

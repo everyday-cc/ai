@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T13:31:00Z
 originalUrl: "https://taskandpurpose.com/news/air-force-zeroeyes-active-shooter-drone/"
 webUrl: "https://taskandpurpose.com/news/air-force-zeroeyes-active-shooter-drone/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Task & Purpose

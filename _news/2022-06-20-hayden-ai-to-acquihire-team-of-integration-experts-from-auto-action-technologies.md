@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T11:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/hayden-ai-to-acquihire-team-of-integration-experts-from-auto-action-technologies/article_74c66657-e6f9-5979-88af-0af40ea87e51.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/hayden-ai-to-acquihire-team-of-integration-experts-from-auto-action-technologies/article_74c66657-e6f9-5979-88af-0af40ea87e51.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: WFMZ-TV

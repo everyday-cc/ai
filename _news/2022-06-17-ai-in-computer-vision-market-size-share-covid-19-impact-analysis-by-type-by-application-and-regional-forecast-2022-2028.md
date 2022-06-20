@@ -35,7 +35,16 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 41
+    quality: 43
+  - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
+    excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
+    publishedDateTime: 2022-06-20T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-growth-2022-research-analysis-by-product-types-applications-recent-development-and-forecast-to-2028-2022-06-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
 
 secured: "+HT9dG0zvZUm8A61w4PPLXGXyVDgGfHHdhfetGETMbSd7/JMjl7aeTKp2LO6e9NLAbF8OUs94mNAy3xed/J8llUSgLn3W7DPjETuDo3rWEm83jDIqbQb/o5UrXYhuvQc/7WqLMTfmZcFsyoVyvmowpelMEwUbwEMTXVztMIp1tfT8QXEgFoTHxZVaPnGGRL6UFN7E7LgHLiGqJYjXH+tAaCCg8SZUTf6QsLRy0CwxT6z/YcLly4YaQ2sS4s993JT4AVPjx3u/6Kv1SrvuMtqUd7uIcZOBF0H6qxwQrbbXMWnfdPNJObsyXoFFzA7Dx05qgLXD33JIzjlBJrWckfBptwrzu78AQsF5qnHtPBDJX4=;3XCLLfbMlsUyEAilf/uW8w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/how-free-whe
 webUrl: "https://www.reuters.com/business/autos-transportation/how-free-wheeling-texas-became-self-driving-trucking-industrys-promised-land-2022-06-17/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Elon Musk says the difference between Tesla being 'worth a lot of money or worth basically zero' all comes down to solving self-driving technology"
+    excerpt: "An curved arrow pointing right. Tesla founder Elon Musk said the key to his electric automaker's value is whether it can achieve self-driving technology, adding that the firm would be \"worth ..."
+    publishedDateTime: 2022-06-16T07:42:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-tesla-worth-basically-zero-without-self-driving-2022-6"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-worth-basically-zero-without-self-driving-2022-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-worth-basically-zero-without-self-driving-2022-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/62aa9e6a1c77440019599582?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "sv7rUnPMZinbhz2Jysh9NWyES+F/qUm8BatmJKgpOy/qLKBgQ1GtVp34nr4jYGrLsT6Ya+j/67AXnhYNNM0ayw4xbYMo6+7KtIEDLd+m5zOQX59d/f7Jgqejal3yiwO6nJEPCtB6OQ9fW8yLmlSfL7sxkSt7W+tHBxNxN8rRscmao0aXsCVioakxKF7oyZvV1M46/8zDW/w+MnQ9dWGwerjTGJf+JL1wpEJRu5eX5v63u7EUTinVA4Bokgs17OUb4B8yXEjqll7/j1iDwKjBUQGvrIqO4WKHRmCtcsX7O2DWlms5GmfcRN6/+cBaPlJO2jlZG/vZ7ieYj3hTT7o6u+iJVua3mCQih272IRYVYDKOP1G0+O2XP7ymiQkxxPBl7e79iCVC1IyyRkD6E/2E2dbZowtaCMx0az/gpNcECk4Wpr9NzdjHCBYoIiMqhxmQ69i+ADbfdBHqrnutbXGBYE39q3qJeqdAvkJgiEEvzMKd/EMzsVLFgbI4tdIoa0CfU2SIneG4SLiBYrfM4XXRKQ==;03d5vvvvInaaBnZNwkvWaw=="
 ---

@@ -57,22 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Renewed calls for national guidelines on using facial recognition technology after CHOICE investigation"
-    excerpt: "Tech and human rights experts have renewed calls for a national framework on the use of facial recognition technology, as one described it as the \"wild west of the digital world\". Australia ..."
-    publishedDateTime: 2022-06-15T19:13:00Z
-    webUrl: "https://www.abc.net.au/news/2022-06-16/nsw-facial-recognition-technology-wild-west-kmart-good-guys/101156010"
-    ampWebUrl: "https://amp.abc.net.au/article/101156010"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101156010"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 43
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485"
-        width: 587
-        height: 330
-        isCached: true
   - title: "Ukraine using AI to track saboteurs"
     excerpt: "Checking for Sara Connorski Artificial intelligence has become one of Ukraine's most \"effective tools\" in identifying potential saboteurs amid the ongoing war with Russia, according to the Ukrainian Ministry of Internal Affairs."
     publishedDateTime: 2022-06-20T09:57:00Z
@@ -87,15 +71,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "The Good Guys stores using facial recognition technology revealed"
-    excerpt: "Major retail chain The Good Guys has revealed which of its stores have been fitted with new cameras that capture customers’ “faceprints”."
-    publishedDateTime: 2022-06-15T20:59:00Z
-    webUrl: "https://www.heraldsun.com.au/news/nsw/the-good-guys-stores-using-facial-recognition-technology-revealed/news-story/64c96abeca29d0c6333c600a62c64fd6"
-    type: article
-    provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
-    quality: 19
   - title: "D FACIAL RECOGNITION PRODUCT"
     excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
     publishedDateTime: 2022-06-19T12:37:00Z
@@ -105,6 +80,15 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 19
+  - title: "We must face the fact that rape is being used as a weapon of war in Ukraine"
+    excerpt: "The conflict in Ukraine shows that sexual violence is still being used as a weapon of war, terrorising civilian populations."
+    publishedDateTime: 2022-06-20T13:54:00Z
+    webUrl: "https://www.independent.ie/world-news/europe/we-must-face-the-fact-that-rape-is-being-used-as-a-weapon-of-war-in-ukraine-41770869.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 17
 
 secured: "72aMzF/K6mu0VUwSNvZAjFsZFmzXr0FdSPZ/byEN78p2MjO9EgaWaivwCyBLGo98EfbaG0gMJBKE2HQwKOE2tMIx1wlP5DtqFiOGzgg2caZKf0qiR7f/lCudbE8seXeH/VgRnsBblven7BaEqd0PNnNSc2sJPbO9LOcgwK5FKI5rxNOxrd7rLdKEqnTXtF5OdkY/V/DremQfOkvSZjTDugVor4FatBYmt3wWlV5ehVzjeqTP1HmXFFUAgMD/OWpuPk8TrVv6UaLIilUMH7RZUKjw47wwLUYqDeQvS+W/3eDFzGgdqIV32mJwV51lxUHNc9aMeGZRAhU2YBqvEqnftdvbReVLuDOZQPFMftfq+uZm/0H0vU5aoJBY8d3ctB+UkpYAIglqZBY0t1iF6ig0RKOtsDtJvalZxS9D2nTFgxKOzu2M0syvZbYZnpYlHWnWTeWjg6rO0baDC2BZgBNy6wvaWTY3yxLHrOo1llCzC11IkgkRMZcSOZM/zpbU4ADddozVYuD1FkEzuQ/9vTUn1g==;ZPk/yxWQPQq6UyEScMwV6A=="
 ---

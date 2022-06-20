@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Maryland Apple Workers Face Hurdles After Vote To Unionize"
-excerpt: "“The employer in the United States has an awful lot of rights to simply withdraw recognition at the end of the process. The employer can prove that it no longer supports a majority of the ..."
-publishedDateTime: 2022-06-19T21:00:00Z
-originalUrl: "https://baltimore.cbslocal.com/2022/06/19/maryland-apple-workers-face-hurdles-after-vote-to-unionize/"
-webUrl: "https://baltimore.cbslocal.com/2022/06/19/maryland-apple-workers-face-hurdles-after-vote-to-unionize/"
-ampWebUrl: "https://baltimore.cbslocal.com/2022/06/19/maryland-apple-workers-face-hurdles-after-vote-to-unionize/?amp"
-cdnAmpWebUrl: "https://baltimore-cbslocal-com.cdn.ampproject.org/c/s/baltimore.cbslocal.com/2022/06/19/maryland-apple-workers-face-hurdles-after-vote-to-unionize/?amp"
+title: "Maryland Apple workers face hurdles after vote to unionize"
+excerpt: "The historic vote by employees of a Maryland Apple store to unionize — a first for the technology giant — is a significant step in a lengthy process that labor experts say is heavily stacked against w"
+publishedDateTime: 2022-06-20T15:57:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/apple-workers-vote-unionize-maryland-store-85490773"
+webUrl: "https://abcnews.go.com/Technology/wireStory/apple-workers-vote-unionize-maryland-store-85490773"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/apple-workers-vote-unionize-maryland-store-85490773"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/apple-workers-vote-unionize-maryland-store-85490773"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: CBS Baltimore
-  domain: cbslocal.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2022/06/Apple-1.jpg?w=1024&h=576&crop=1"
-    width: 1024
-    height: 576
+  - url: "https://s.abcnews.com/images/Technology/WireAP_7b8ccc895e444348ac7132df745b770c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ANsy+gvUxao+LwLQaaIrcPnMN5aD4oCeRlQiAkRGtPpU+vHkI7dAkb0yorSEL5wMZYNNG+jCB97PcuK6Bq6f6Gxy9mpa2KjCc2485XTkESrdzVu4BZAPa0D485USlDEboNrcUW1HM/WeyK5vDkDSUcdnBrNJtKmRi4G/hudv//1VITLFcGs5F5QS4/iri9adO0pMJjtdFavKRFJqsrbxtwqEvaCEIRxaecrAUGvOFPAki5Hm1UoQEvTU44aPBt6x8ZD6xN6+23Zeg/gkA4kTfQHgf8wpw/TeNQiPTOTvWM4gWWwptAE3ery6/SJ3RNIMwL1e0SSjSEpBtIjekzmK1sXV3tH4b1lvIiltfEl5vHo=;93d5hAtUEMMggyaKIRcTVQ=="
+secured: "ID6ed2HtuOTmscFGvpiHhcILPOKgF3qF9RsYoHdjKoZo78JKZaz8lPfIuF7bvShz+DS7VkMXb5g41I1IgfJDV5jnsee7U1ghk5OjbtOvOq+qk5JkIhsSUQ3RqY31UQGfloAK12o/oJOnKUJ9L43nxsLykVEINPzcrei5t/CkqJJQvSR3kq1/WC5b+RzcfVim5PwV5ThbXHV2AyaLz0mpAwLAivy9k8zdsu9Uzs6RlOraA/SX4d8hluYTH5I6di2Gtyw5k3o9myqgWJd8wcOEGXCRUdj/pi7/hOgjPatqyJYrHO4ae3WRSRu4UWj2aY1Vb39Qm0p0z6r4wW5/6bAL2b8DMWr3Ycc7JItoCxTG8NY=;3wkKLoRrQzZXh66WMeon2A=="
 ---
 

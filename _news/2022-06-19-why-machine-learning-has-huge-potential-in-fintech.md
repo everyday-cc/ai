@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "How AI & ML Technologies are Reshaping the Fintech Industry"
+    excerpt: "Fintech developments are affecting all sectors of the financial services industry such as: Impact of AI and ML on Fintech We are now in the era of fintech 3.5, where artificial intelligence and machine learning (AI/ML) plays a vital role in our lives ..."
+    publishedDateTime: 2022-06-16T11:17:00Z
+    webUrl: "https://www.siliconindia.com/news/business/how-ai--ml-technologies-are-reshaping-the-fintech-industry-nid-219257-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 36
   - title: "20/06 – Weekly Fintech Recap"
     excerpt: "Partnerships Global Fintech Ascenda Announces Partnership with Banque Saudi Fransi to power JANA Rewards Program in the Middle East Ascenda, the global loyalty technology company, announces a strategic partnership with Banque Saudi Fransi (BSF),"
     publishedDateTime: 2022-06-20T09:54:00Z

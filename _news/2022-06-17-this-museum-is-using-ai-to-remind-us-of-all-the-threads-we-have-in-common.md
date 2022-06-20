@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T08:15:00Z
 originalUrl: "https://news.microsoft.com/en-in/features/this-museum-is-using-ai-to-remind-us-of-all-the-threads-we-have-in-common/"
 webUrl: "https://news.microsoft.com/en-in/features/this-museum-is-using-ai-to-remind-us-of-all-the-threads-we-have-in-common/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Microsoft

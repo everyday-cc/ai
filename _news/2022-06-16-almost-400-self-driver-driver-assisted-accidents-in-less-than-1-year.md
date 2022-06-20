@@ -43,28 +43,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Tesla Tops NHTSA's List Of Crashes Involving Autonomous Driving"
-    excerpt: "(TSLA) is facing more criticism about its driver-assist technology as the company ranked highest in the list of crashes involving self-driving technology released by the National Highway Traffic Safety Administration."
-    publishedDateTime: 2022-06-15T20:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Tesla Reported More Driver-Assisted Crashes Than Any Other Automaker in Past 10 Months"
-    excerpt: "Federal regulators released data today painting the clearest picture yet of the state of driver-assisted technology in the U.S. That picture includes at least half a dozen deaths. Between July 1 ..."
-    publishedDateTime: 2022-06-15T21:27:00Z
-    webUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446"
-    ampWebUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 61
   - title: "Report: 500 crashes linked to self-driving cars, auto-assist vehicle technology"
     excerpt: "The National Highway Traffic Safety Administration released 10-months-worth of crash data involving vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
     publishedDateTime: 2022-06-18T03:14:00Z

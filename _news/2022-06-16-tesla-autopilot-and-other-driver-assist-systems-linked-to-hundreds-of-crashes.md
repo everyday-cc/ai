@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.amp.html"
 type: article
 quality: 86
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -31,28 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Tops NHTSA's List Of Crashes Involving Autonomous Driving"
-    excerpt: "(TSLA) is facing more criticism about its driver-assist technology as the company ranked highest in the list of crashes involving self-driving technology released by the National Highway Traffic Safety Administration."
-    publishedDateTime: 2022-06-15T20:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-tops-nhtsas-list-of-crashes-involving-autonomous-driving?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Tesla Reported More Driver-Assisted Crashes Than Any Other Automaker in Past 10 Months"
-    excerpt: "Federal regulators released data today painting the clearest picture yet of the state of driver-assisted technology in the U.S. That picture includes at least half a dozen deaths. Between July 1 ..."
-    publishedDateTime: 2022-06-15T21:27:00Z
-    webUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446"
-    ampWebUrl: "https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 61
   - title: "Almost 400 self-driver, driver-assisted accidents in less than 1 year"
     excerpt: "Tesla's crashes happened while vehicles were using Autopilot, \"Full Self-Driving,\" Traffic-Aware Cruise Control, or other driver-assist systems that have some control over speed and steering."
     publishedDateTime: 2022-06-16T12:21:00Z

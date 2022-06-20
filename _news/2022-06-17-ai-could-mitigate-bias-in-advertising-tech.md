@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-adverti
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
+    excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising TechnologyCANNES, France, June 20, 2022 /PRNewswire/ -- Today,"
+    publishedDateTime: 2022-06-20T14:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-delta-air-lines-wpp-4a-s-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology-1031538207"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "7eavyT2Y/RLhKzxqXwwAgjeZNHlQfD3slr5UDk2benYGOI9Mh7ftvroOTAMCjEnYl4BlyemdipB0j5dbhaHdcgQPi7fPXITZyG4cLNAkGM6Qd54soZ5EXZw6Rke2ctIlb+draXRietTWrzl9XTgVcWxBsXyse40pbHD/xnUnVK7kc4vJaE5rwF1iSFAQKIi7fMKCKrIlLi724pbdOf//N/NSsaXf8kadyqP4L6MDByERYzkdfaMmtLWYKHdYi40uGa6ILhsvPGATQ9K65ndH62nos87Rffz8X9aWSHYKMC+JHzgqJAzG3Qw+MHgr55zSagoFflRVA2vcbifxEZAn90wRnU7ixSRh5VUI8WZpiTBTwg0Xv/zHThSORXx7G1jj39nmYojRpRWz9orNXdA4KJxXwZvDEy41SGACpwcbi68qZ8Sy3BdRSIYqSisFGYCnuKhH35O9XahdNnYADfbwX6jbvbRX0RTSF7JyHXeSMUY55NFvYFoH6OC6brhlJj6SR8Aaiu9NVmlT4AC07uCg+w==;Lv41hqNzfQmIKqMopPq9Kg=="
 ---

@@ -20,22 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "10 Computer-Generated Greentext Stories From The Latest AI Trend"
-    excerpt: "Greentext stories are probably the only worthwhile thing to come out of 4chan, which is a generally disturbed platform. Most of these stories are a little dark, a little funny and provide a weird glimpse into the daily life of a 4chan user."
-    publishedDateTime: 2022-06-15T19:09:00Z
-    webUrl: "https://knowyourmeme.com/editorials/collections/10-computer-generated-greentext-stories-from-the-latest-ai-trend"
-    type: article
-    provider:
-      name: Know Your Meme
-      domain: knowyourmeme.com
-    quality: 37
-    images:
-      - url: "https://i.kym-cdn.com/editorials/icons/mobile/000/004/508/greentexts.jpg"
-        width: 800
-        height: 450
-        isCached: true
-
 secured: "v2V3bVpI6AIyOGQSC3Q0/RPyAbqp9evo+LnJNqjoV3UGhJQ/M+jnrPP5SYZcsQCuCBB+IHz1Ba7h4Nm1nF5XOtUZ6VLAeAK+YOJmBdsqJFFWrl+sKO/PrU28txcFxNV50ofTFSXu85TYH4Kut1mMdePL4MiePw4SecQZoJt6hMmid656lDOI7FfUiNHAZDrnyeIShDily6iHHehTjT9oY/i+xjDSJ2ox0wiy8GNShWq+BOxAgxP3w6YuqnDGX9T28exMQRnHgd2fDV6dIwIikqt7tV5Ed4T6qmIZtw87NNxAGPZZh8LEm4xn3ktaPc+42eXel8R3pVwbGQMC6iLV23D3wSyBejSAlxiO+bOomfs=;fwWQW3AGvfXzeLa9vQ7+4w=="
 ---
 

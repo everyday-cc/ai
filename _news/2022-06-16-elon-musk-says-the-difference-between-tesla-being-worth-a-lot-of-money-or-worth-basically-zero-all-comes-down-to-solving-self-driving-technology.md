@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-worth-basically-zero
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-worth-basically-zero-without-self-driving-2022-6?amp"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Musk Claims Full Self-Driving Makes or Breaks Tesla"
-    excerpt: "Tesla CEO Elon Musk believes the company will fail if it cannot develop its full self-driving, or FSD, technology, saying during a recent interview the company’s will be worth “zero” if it doesn’t work."
-    publishedDateTime: 2022-06-15T21:23:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/06/musk-claims-full-self-driving-makes-or-breaks-tesla/"
+  - title: "How free-wheeling Texas became the self-driving trucking industry's promised land"
+    excerpt: "FORT WORTH, Texas, June 17 (Reuters) - For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially ..."
+    publishedDateTime: 2022-06-17T11:30:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/how-free-wheeling-texas-became-self-driving-trucking-industrys-promised-land-2022-06-17/"
     type: article
     provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 54
+      name: Reuters
+      domain: reuters.com
+    quality: 49
     images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/06/Polestars-complete-lineup-REL-398x266.jpg"
-        width: 398
-        height: 266
+      - url: "https://www.reuters.com/resizer/dtUeu02ksV3dc_rOo-LvMcuoqtE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MMEFTUYQMRN4LFTF6R6RZWIZHY.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "U/FAcVZ1g0iTBA7I3EK9NqiKiF0KgG7Lnen6gThrs9BPx7XQgS7wf0sCgd1mcDcmi3Qc6X8/+9cqHqB0oEueZJR2Fl1GST70PJb3JWitSgxMy5BsFAvRPnNAkcrQX/MJ1saPqULNL2H3yEt9SBxOT9nQ/bJyLC248pFq/ytiYJqNFe4S+ODAbRGFa4mF4uBJO0xp0bMzTxmH0g4XuQ2E/uHhboND6bgT2vdwhM/69J9V2NtvyMzOVzc7FUOoIYh/9y8L402Y4Vjr2yqqcl5OmlFJuQBVm0FPk9MlkRJOSWI1TJoipDuz24Ie6v2a4gWX/giKYJg6ekgXIqY+cjvsCYLGOXptByytH3QuGG4hvZ8=;OGA4GIwNiY6E6NfaegDQPw=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T13:39:00Z
 originalUrl: "https://techxplore.com/news/2022-06-vision-technique-3d-2d-images.html"
 webUrl: "https://techxplore.com/news/2022-06-vision-technique-3d-2d-images.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

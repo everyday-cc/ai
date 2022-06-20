@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T12:21:00Z
 originalUrl: "https://gulfnews.com/uae/uae-mohamed-bin-zayed-university-for-artificial-intelligence-top-in-arab-world-30th-globally-1.88714981"
 webUrl: "https://gulfnews.com/uae/uae-mohamed-bin-zayed-university-for-artificial-intelligence-top-in-arab-world-30th-globally-1.88714981"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Gulf News

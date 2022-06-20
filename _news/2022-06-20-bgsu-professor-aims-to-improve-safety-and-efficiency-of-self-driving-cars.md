@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T12:34:00Z
 originalUrl: "https://www.sent-trib.com/community/bgsu-professor-aims-to-improve-safety-and-efficiency-of-self-driving-cars/article_57d74418-f095-11ec-9b18-731b682040fb.html"
 webUrl: "https://www.sent-trib.com/community/bgsu-professor-aims-to-improve-safety-and-efficiency-of-self-driving-cars/article_57d74418-f095-11ec-9b18-731b682040fb.html"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Sentinel-Tribune

@@ -55,6 +55,17 @@ related:
         width: 616
         height: 359
         isCached: true
+  - title: "Autonomous / Self-Driving Cars Market - Global Forecast to 2030"
+    excerpt: "Chicago, June 20, 2022 (GLOBE NEWSWIRE) -- According to the new market research report \"Autonomous / Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1 ..."
+    publishedDateTime: 2022-06-20T10:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27782278/autonomous-self-driving-cars-market-global-forecast-to-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27782278"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27782278"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "HUXtZMLnLfE6HJxuRw127cjrZ84pQE8SNsUviryd6t44mQOGz6ANmUQcC9Kn66DpKCWrC7HI0dNizHra6KMaXmj2dR/y1ohaGvpKWUPoE14VYV/L8Pd4Zr7DX5greJ/Rj+pld2tr14n1T5eyfwXb1cCtTB1nYvTdvbe57RW6BJ4fdnpXTe/0dWCbym8E8mzdD3GNIFdxIkHKwZhZ3zuBBKbON2UiFHuhZDPj01HpudJq42RG06osfH8U1lWRrawKN2ecizi9fBy/kmWECD6AP8S86t0y6iT+qdfKpK2v92LjU8CVaUkvPcMaroXO03MqgAzykWmGSI9UoV9UlgbFA7ZamM703F0nDiCG+2cp9q4y4mnvCJbrnzP6+cH4Qw2JAkQ8KPCdzzhXrD8ZJx0FXMUqAD/dKFmgiS8cuijqMx9xR/DCBXa0dQfjzSuIM0DYA+0agathdBL34BpD6lM/vQPQt/AueJYS7kuaT1Wgxa0/DM9tjtIjtB0fcZ3NdVulrmBJoHgkgz761hnla48sXA==;YlnJ5M7i9w4ODpLj64Z+pQ=="
 ---

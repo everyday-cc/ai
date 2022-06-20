@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T13:58:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/sortspoke-secures-4-5m-to-bring-its-universal-ai-document-processing-platform-to-enterprise"
 webUrl: "https://insurancenewsnet.com/oarticle/sortspoke-secures-4-5m-to-bring-its-universal-ai-document-processing-platform-to-enterprise"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Insurancenewsnet.com

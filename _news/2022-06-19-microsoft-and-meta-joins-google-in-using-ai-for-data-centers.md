@@ -71,20 +71,6 @@ related:
         width: 678
         height: 381
         isCached: true
-  - title: "Microsoft updates Azure with new AI features for hybrid cloud environments"
-    excerpt: "The services are Azure Arc, Azure Machine Learning and the Azure Kubernetes Service. Azure Arc is an important component of Microsoft’s hybrid cloud strategy. Introduced in 2019, the service ..."
-    publishedDateTime: 2022-06-15T20:56:00Z
-    webUrl: "https://siliconangle.com/2022/06/15/microsoft-updates-azure-new-ai-features-hybrid-cloud-environments/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/microsoft-1.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Microsoft and Meta join Google in using AI to help run their data centers"
     excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
     publishedDateTime: 2022-06-18T13:00:00Z

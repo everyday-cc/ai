@@ -5,6 +5,8 @@ excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get R
 publishedDateTime: 2022-06-15T05:28:00Z
 originalUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/"
 webUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/"
+ampWebUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/"
+cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "HgwGBpzN/0VGQJ/U1SkBcQK/Z7mkTQNLEAAmNt4YYyiFRS3VCv6a3TCXFTk9IOi5quN0yVukRiat4uLcgXU5SmqdrN88sDmxpQ7pxJYFbvuOCCKQJcFFpOWS8J1OovKlxCZQsZI/wouYmY2ZffqmuhKmxN/b2dfSF0th7ZThWHRQRdrf4kCYmaL4+ArjGfzX6eedxdeELnHkujfinJknQR45fJ7FZGqCE8Nw9Ix7Oi6ZzC9mba19V6czLBS27wxCPm0Ux9I56cePo/tDdfPckS6VcUU30h9gK1WaMTohyuiktCHEYm69pJky/E7Nop7cDsPri++eUeqT3m5pQgRNyTDv1WgLWezKtC0OM5wTsiA=;9R4nsgzYc8DlbRn+pBwClA=="
+secured: "bHZSc70R9+ie2xkGCJn4I+eOuIrulIrN7wPTqUy5wTY69i9WLIMnu2AzIhaKUi1w2qJ6Ot4jq0FXwdN18aaP5bwlKC57KTaqN0v2px2s0bGzoz5QU97TV8vKrIAEWiBqZ+InXyvL6Q7fnys0OGsWIH27FUMrg/xqe9A9il+ih/rTGk0FpSVTwRTO/sdyxAZHRwWH0MQC9Yz5gCfgXHVXZIsi4Fa8OzXYMIyWhpChK3aFvUNwwYozJrtnv2+UT7O19UrmF9q+DBA+AsXWbi/GiIfvYLCxW/Yh7DIcBcrSfgT+wdWkXpBetUV3wYgxew0zPSgO9OHnn6PB8YqMmmH8YUl/iiMXN+A0buWbDlH9Ou4=;qlI5PX0Z6W2fLKit/NObZA=="
 ---
 

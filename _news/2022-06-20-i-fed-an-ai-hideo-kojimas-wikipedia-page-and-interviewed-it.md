@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T12:51:00Z
 originalUrl: "https://ftw.usatoday.com/lists/ai-hideo-kojima-interview"
 webUrl: "https://ftw.usatoday.com/lists/ai-hideo-kojima-interview"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: USA Today

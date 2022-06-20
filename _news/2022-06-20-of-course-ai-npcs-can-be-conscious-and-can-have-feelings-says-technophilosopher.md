@@ -23,6 +23,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Technophilosopher Claims AI Game Characters Have Feelings And Should Have Rights, Wait What?"
+    excerpt: "Not yet, anyway, but as AI continues to advance, it could pose some interesting scenarios in games and in the metaverse. So suggests David Chalmers, a technophilosopher professor at New York University who had an interesting chat about AI with PC Gamer."
+    publishedDateTime: 2022-06-20T15:24:00Z
+    webUrl: "https://hothardware.com/news/technophilosopher-claims-ai-game-characters-have-feelings-and-should-have-rights-wait-what"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 28
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58881/content/Skyrim_Character_News.jpg"
+        width: 708
+        height: 398
+        isCached: true
+
 secured: "UvK+w5E+lZgP0fsE/pgADqiZ98qEDU9Ve4Zc43WEHUQkQA7bRyZoV/lLCC/FsGap0r9tP3et/7nCJGrbG6gSN1YwuL8S4/RSMw3JhZiMwXEaFfk0vlUWIF4Y41YKXKGr8Sr5KPzdeZYaRn//PzigneHF2esk985sREXCjD6KJh2gW6p1oQhL1RQMqEScZuODj00abah+yqbRpHB8EJwxynddWW/l1kpz5rREkVreRF1I03Hu5PkO1hyIXIiJ3WWqFVWuVamsmk2ad3cGfNgjotvf8ublv4AhUEubaqNK5Z+jLvQ1J0oZg9c79F06VyzP8r7AvrljG6VNwUOpRAFQQERhA909gPMtCKLaOJ9r9qw=;4m1sFzBHsZyCtnMW1vV4RQ=="
 ---
 

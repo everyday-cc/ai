@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/ais-
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s hold over humans is starting to get stronger"
-    excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern"
-    publishedDateTime: 2022-06-20T11:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/03/Artificial-Intelligence.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI’s Hold Over Humans Is Starting to Get Stronger"
     excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern."
     publishedDateTime: 2022-06-19T03:30:00Z
@@ -54,6 +38,20 @@ related:
     quality: 39
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ADPJCHPVII6ZLAWR67XDFGNPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "AI’s Hold Over Humans Is Starting to Get Stronger"
+    excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern."
+    publishedDateTime: 2022-06-20T02:43:00Z
+    webUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76LPBSHQNQI6ZLAWR67XDFGNPA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
