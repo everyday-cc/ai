@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "First-ever self-driving vehicle crash report released. Nearly all involved Teslas in Washington"
-    excerpt: "Nearly 400 crashes in the U.S. involving partial or fully automated vehicles were reported in the past 10 months. In Washington state, there were seven."
-    publishedDateTime: 2022-06-15T23:13:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 27
   - title: "An Increase in Self-Driving Car Accidents"
     excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
     publishedDateTime: 2022-06-16T01:03:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/426695"
 webUrl: "https://www.entrepreneur.com/article/426695"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -29,15 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Inability to patent AI creations could hit business investment"
-    excerpt: "Companies could be incentivised to keep inventions as trade secrets"
-    publishedDateTime: 2022-06-16T03:00:00Z
-    webUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253?via=indexdotco"
+  - title: "How AI-powered pricing improves margins and protects consumers"
+    excerpt: "AI-powered pricing done right means consumers will enjoy personalized offers and prices set squarely in their comfort zone."
+    publishedDateTime: 2022-06-17T03:38:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/"
+    ampWebUrl: "https://venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-928173784.jpg?w=1200&strip=all"
+        width: 1200
+        height: 622
+        isCached: true
 
 secured: "mo+W/VCEbjqsRoYDlj81NtDfE97WyNWvZu7HHpX0f8clwXWH7iC7idJUf7/v0X34tqsQBCFUZGiU9ZFUZw7q1HelI+ySDAfNuNgSeeJ1zpBDlngwt2DeSrvL673MPiZ/IvXhNrQpVb1vEu/Jlf/ZawEISVEJ2yvOeRaOng4+H0j1gaxKG6ZVHBsrBIptmDLLfVV2RJEBnHUOQhapHXxXiJ39xToy0HM9l+C609xERJRl0ZFS/o0ZknZi7GqZYLX599Ch9TwoKdlywhHHzbnUlUPcUeKRG3Lb66kG9IE41ftf74VdefAXBjERQ8mfUPteniFWjaowtSYTp3l/RNVO/451IbI8OJw0dxD9DnrVjkI=;jWeYrSr4nyjPW2qh1bPKSA=="
 ---

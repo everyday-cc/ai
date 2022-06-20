@@ -2,9 +2,9 @@
 category: news
 title: "Forget sentience… the worry is that AI copies human bias"
 excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-publishedDateTime: 2022-06-19T12:07:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp;amp;amp"
-webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp;amp;amp"
+publishedDateTime: 2022-06-19T06:30:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 type: article
@@ -168,6 +168,20 @@ related:
         width: 594
         height: 334
         isCached: true
+  - title: "Why ‘sentient AI’ claims are actually very damaging"
+    excerpt: "Google’s LaMDA system and its conversation with engineer Blake Lemoine got everyone talking, from tabloids to daytime TV, about the possibility of AI becoming sentient and threatening our way of life. The subject of AI rarely makes it off the science and ..."
+    publishedDateTime: 2022-06-20T16:02:00Z
+    webUrl: "https://www.siliconrepublic.com/business/sentient-ai-google-lamda-research-development-ireland-insight"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_139892685.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
     excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
     publishedDateTime: 2022-06-17T00:31:00Z
@@ -201,6 +215,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "fU7eiNU1MxP9+8p+MXgH1ya29SAtWlUFwKTW11NiayQK2HNg0BOl14HFAqwvk5CNNtNuwPEW9mZZu/7ER8IimTHge4mtrqeJ8y91FPjFLeFhQX6CFrK8lrpSDVAIp2RB5lP92C/FwuXn7ozp2/rdkcWEsx1WucctWJRoccYf4398WQMbICynwKj04vKMAuEwx6EnoMnJi7zK3NI8P4j94lEdDqUg8xlUDvtJLs4+N7F6fBeWI3vGdwZS8XmzwtG8m2dUWFFEDbtvI1x0PZEajMmHR3TRI5BmY0OzN5B44pUrSiHfStuIsDV4kvegBPtNBJ/Cnt9Y+g86Xeqw3s0M9tfsWll6P/GE+2f6TqVfFbg=;zHZV4LFdpbZ7/nJSDwFL9w=="
+secured: "LDvjBKA0GIuartx1YnJcwuAtNNWMPcwT0a56T3XDPKXuLKRadm5u0YGQrm4xzjxLDm1gpC8L+uMAO7DXe8qhyF5hYr3F29ifC895VgFGv9zrBJ06ngZnVtmHyyCjBGmhCaEJ6/3ULZO5lmDGb1SqafCW9IQJkYTD1ktpqJhXVQLcjHPTnHBPxkLVxOEzp48hSDfolroCc8MclDJtfwgqC1JiCVQOFn5TYybsxSVaEUUBjeKILSKTcDPBVm/psHB33AS05iakHhew+u6kEnZrXz7B3e83jJeiU5fi+eTX4SXl41F6mzgT7IIT1kwb6qV/45EtrK0FBSHEh+Zem+BIe+Ua8uLspHMZVPSUS4/2xNo=;PsGQJbZh8C5OhBDOob7tAw=="
 ---
 

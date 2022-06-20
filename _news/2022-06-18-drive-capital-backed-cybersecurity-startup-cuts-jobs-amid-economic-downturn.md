@@ -19,20 +19,6 @@ topics:
 
 related:
   - title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
-    excerpt: "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally"
-    publishedDateTime: 2022-06-16T00:00:00Z
-    webUrl: "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
-    type: article
-    provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
-    quality: 56
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
-        width: 860
-        height: 520
-        isCached: true
-  - title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
     excerpt: "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ..."
     publishedDateTime: 2022-06-16T19:30:00Z
     webUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
@@ -45,6 +31,20 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
         width: 860
         height: 520
+        isCached: true
+  - title: "Advancing Cybersecurity Awareness in the Healthcare and Public Health Sector"
+    excerpt: "Tetra Tech applies AI and automation tools at the U.S. Department of Health and Human Services to increase outreach within the Healthcare and Public Health community."
+    publishedDateTime: 2022-06-20T16:47:00Z
+    webUrl: "https://www.csrwire.com/press_releases/747881-advancing-cybersecurity-awareness-healthcare-and-public-health-sector"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 36
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Advancing-Cybersecurity-Awareness-in-the-Healthcare-IS22-013-650.jpeg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "xwoERmh1YPHDh+UHx7PCjuWOUa3xdy3wKjoUTNikWZGnbd/AGCVW3xAKGdRUi2uA1G0clUWJM8aiOHgR6AsxSE/wCgTjT+JHsD1ul+oUkiH7VEYskFrsJ0IFGQ0KJv7jVsfp4/9v/inhcByOVnulKZMyIjt4iaIHUoMsdziS6xwD9ssbenKTVPvymBMxVq/TGzz+y1I/a+xR2i2sfNG9wIgSg2Ay/ft8QGbw9A/dKztdTSh5fRi7aEKPjToovwtA4AZKx1ou10NAg8S/dQRbaRyzHyKRT6xwq2Ee/AM1VimCYSoEloClXhA6N+/g1YjtR8SKyMRw9wrkdldLPZHbfqLajV1ON024QjISuxmfnL4F0mNoIsRvYPjtR3xS+eAqZhADP7dMxVf54gMd0YEE6I+m2o9R7248rmNZReWISKfoc6aSt64sQ7QPPp2KQgZic6xBl4iDNnNUaCfA+rRqDbZErlNfTEY4DlBgvHo/Rr7vx8kfhRqo1zrrXZcWwpI4ovY6/wmMbDWGSO+/QQWjDw==;Y6+zh6K0RAx9bod0Jwns/A=="

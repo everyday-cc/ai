@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Self-Driving Cars Are Predicting Driving Personalities"
-    excerpt: "In a recent study by a team of researchers at MIT, self driving cars are being programmed to identify the social personalities of other drivers in an effort to predict their future actions and dri ..."
-    publishedDateTime: 2022-06-16T00:00:00Z
-    webUrl: "https://hackaday.com/2019/12/02/self-driving-cars-are-predicting-driving-personalities/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2019/11/self-driving-personalities.jpg"
-        width: 800
-        height: 426
-        isCached: true
 
 secured: "Nv6b/Kv0GoA8xGoDQs49ofVKD7WldH0UdNuO6AuZ+891VzZzVGr5/DLSqZjGQDP7xS7yVqL2bwlOEID67OIHpm1TpurR5csUwVgEQyl4dvxLNgPFPSvN0vyqkLrkSOsSXZkjKU84JePzKnT399ofbtH2C3lAZTJu6CKfsDABTPcrbSQfQxDJTSUXCLP5Tf6HKaVF7zcmFnHdGJmubs2O3tAYRcwKR1Zup69TGH/HPOdHbLzaK5thAIqsFFd1Y0KptfCmBi5Es2xxnn4KAHsPM0cdGEncUMsuGOVz5/6jFz1+ReH9KXCTRtG/cjj09zpXlLB9L7+TtFK/MfEXv5l+v6bHkV16KykT+RDa2BKtoTCCC6kccdQilDZjHgercRhzX5dsRyzNLet14pgIkseApvgvH0rJyN/za9zkPRmy1JfP6wZeJ6lXsdSxiw/D2P2HiJDVBMwpL6/wMd7zgdw220YfdgatemczPkwk96Ux/pbHAFhyumFvERtkpmlKEX+GyvKO074BUUUUOPkNVaVx6A==;3FpkRiNR+ajuA7oUJAXG0w=="
 ---

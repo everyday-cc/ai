@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-ua
 webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-customers-share-digitisation-success-stories-dxmkkixr"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Industry leaders hail Microsoft role in UAE’s digital transformation drive"
+    excerpt: "Microsoft customers on Monday shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE data centres."
+    publishedDateTime: 2022-06-20T16:31:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 52
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2022/6/21/digital-transformation.ashx?h=450&w=750&hash=99BEC9B861D12CD560227BFDE78AD102"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Microsoft UAE Customers Share Digitisation Success Stories On Third Anniversary Of Local Data Centres’ Launch"
     excerpt: "Microsoft customers today shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE d"
     publishedDateTime: 2022-06-20T12:13:00Z

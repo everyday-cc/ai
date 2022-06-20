@@ -43,6 +43,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Tesla Reported More Self-Driving Crashes in the U.S. Than Any Other Automaker in Past 10 Months"
+    excerpt: "The findings come three months after the NHTSA formally announced it would no longer require self-driving cars to come equipped with steering wheels, brake pedals, drivers’ seats, or other ..."
+    publishedDateTime: 2022-06-16T07:15:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/06/tesla-reported-more-self-driving-crashes-than-any-other-automaker-in-past-10-months/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/06/tesla-reported-more-self-driving-crashes-than-any-other-automaker-in-past-10-months/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/06/tesla-reported-more-self-driving-crashes-than-any-other-automaker-in-past-10-months/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 47
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/06/16/6545d08636da06f5a8020cce152ccef0.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Almost 400 self-driver, driver-assisted accidents in less than 1 year"
     excerpt: "Tesla's crashes happened while vehicles were using Autopilot, \"Full Self-Driving,\" Traffic-Aware Cruise Control, or other driver-assist systems that have some control over speed and steering."
     publishedDateTime: 2022-06-16T12:21:00Z
