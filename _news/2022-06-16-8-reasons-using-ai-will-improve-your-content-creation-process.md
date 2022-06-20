@@ -1,24 +1,29 @@
 ---
 category: news
 title: "8 Reasons Using AI Will Improve Your Content Creation Process"
-excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
-publishedDateTime: 2022-06-15T23:03:00Z
-originalUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
-webUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
+excerpt: "Copywriter tools can give you a ton of material to work with in seconds allowing you to skip over your tedious research and outline development. You can take the best parts of what the AI writes ..."
+publishedDateTime: 2022-06-16T01:10:00Z
+originalUrl: "https://www.entrepreneur.com/article/426695"
+webUrl: "https://www.entrepreneur.com/article/426695"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/26/15/72/22601374/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1654714755-GettyImages-1308810664.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -38,23 +43,16 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's New AI Is Not Conscious: Firm's AI Engineer Explains Why"
-    excerpt: "Numerous recent reports speculated about Alphabet Inc.'s (NASDAQ: GOOG) (NASDAQ: GOOGL) natural language processing artificial intelligence (AI) software"
-    publishedDateTime: 2022-06-16T22:45:00Z
-    webUrl: "https://www.benzinga.com/tech/22/06/27752198/googles-new-ai-is-not-conscious-firms-ai-engineer-explains-why"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27752198"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27752198"
+  - title: "Inability to patent AI creations could hit business investment"
+    excerpt: "Companies could be incentivised to keep inventions as trade secrets"
+    publishedDateTime: 2022-06-16T03:00:00Z
+    webUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253?via=indexdotco"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/06/16/ai.metamorworks.shutterstock_1348479254.jpg?width=1200&height=800&fit=crop"
-        width: 854
-        height: 569
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
-secured: "VMwRBL9kkhKQc6J6g4kX8FYQbyDeWgdnVnS15ullCELQ9wsK1dxXOPeuK5BDJwhwohztCoSiq5Gxdfzvgsdud/z68HuylzTUBxfbtG0ytbWMHt0v8fr6SCM4y8Te5rOVmIqGWW26i59ZCySW1q0vAaCb1i8kjri3+I3R71X+XbrL68L6ZhlfETBoxB9zp8+piA0zHebc/ZoUwj2CpOGdMEIjTLBqd2ITZZBuq1YMEmrW5l2vb5RSUHRaI9v2nRmd7xUmCiuhNP435tuRUz/EzUQ7WBIHvxxxbmVLzsJsUPnu1gFXpqkWw6sRYqmtUM2Z3RRgKmVq/BmzMUNvGwkc7KEQhaXF8j//yu7vJROXFM0IfjI73fUNNkTgocOnArrsMFby9DXnJyRNbpPYjn4/IJAyr/1khTmfvm5ADE7FoS5kbqoxek5bt5QkT3YsBcXv3SnQHTj6kpibv7ch9mcvmX+tVYC0yea8Xd3Yn5t1bcvSxOhb/pArZ+rLKNI0TI/cH1m8dUkCDOLXB1USceJyBg==;sz32lJuHAzvj419k2JUSvg=="
+secured: "mo+W/VCEbjqsRoYDlj81NtDfE97WyNWvZu7HHpX0f8clwXWH7iC7idJUf7/v0X34tqsQBCFUZGiU9ZFUZw7q1HelI+ySDAfNuNgSeeJ1zpBDlngwt2DeSrvL673MPiZ/IvXhNrQpVb1vEu/Jlf/ZawEISVEJ2yvOeRaOng4+H0j1gaxKG6ZVHBsrBIptmDLLfVV2RJEBnHUOQhapHXxXiJ39xToy0HM9l+C609xERJRl0ZFS/o0ZknZi7GqZYLX599Ch9TwoKdlywhHHzbnUlUPcUeKRG3Lb66kG9IE41ftf74VdefAXBjERQ8mfUPteniFWjaowtSYTp3l/RNVO/451IbI8OJw0dxD9DnrVjkI=;jWeYrSr4nyjPW2qh1bPKSA=="
 ---
 

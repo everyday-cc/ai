@@ -21,35 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Almost 400 self-driver, driver-assisted accidents in less than 1 year"
-    excerpt: "Tesla's crashes happened while vehicles were using Autopilot, \"Full Self-Driving,\" Traffic-Aware Cruise Control, or other driver-assist systems that have some control over speed and steering."
-    publishedDateTime: 2022-06-16T12:21:00Z
-    webUrl: "https://www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year"
-    ampWebUrl: "https://www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year?_amp=true"
+  - title: "There’s no such thing as self-driving cars (not yet)"
+    excerpt: "How does it feel being a guinea pig? That’s a question for anyone behind the wheel of an electric vehicle with technology that purports to be able to drive itself but, of course,"
+    publishedDateTime: 2022-06-15T19:41:00Z
+    webUrl: "https://ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/"
+    ampWebUrl: "https://ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/money-smart/theres-no-such-thing-as-self-driving-cars-not-yet/amp/"
     type: article
     provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
+      name: KTLA
+      domain: ktla.com
     quality: 44
     images:
-      - url: "https://cdn.newsy.com/images/videos/m/1655338884_3MBtTR.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "An Increase in Self-Driving Car Accidents"
-    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
-    publishedDateTime: 2022-06-16T01:03:00Z
-    webUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        width: 1200
-        height: 1200
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/06/GettyImages-1148676032.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "L5JtC5+RsYAzz71PaJgydyVuNQp2D7D1VUMVsKouGkFiUxNW4yKy4wJBISo+1bqePTjRZAlTBdFa4z5XYQAn/myId0pgqLi7zq2tsBvKEK7eVHv2Boep4WrMiKnj20weJ4nlna/6ciqZDMrROWDa0b1BTpHjYToE9R5OJDF0ecax+JmsUSOkLkPcOsyeXxcutycyFj3s7g56EDH4Er5ZTaABWQZwSHRW6omnhB5pmb/ZiY3KygdLv/2lqzbxZcJchskTSDBY83U35HmSuRRBSE7ZLmjB7gGwsrLM6TOGYGFsX4Q1lTe7umAsW1124Z7pHUPfkpSPqLUUnB6HcIuhlZ8uoSivorx2am5vQYq4PiU=;/M+V6OxKXXF9JGk7BDGxsw=="

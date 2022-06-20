@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Spotify to Acquire AI Voice Startup Sonantic"
-excerpt: "Spotify said on Monday it will acquire Sonantic, a tech company that specializes in creating hyperrealistic artificial voices. In a blog post announcing the acquisition, Spotify s"
-publishedDateTime: 2022-06-14T04:39:00Z
-originalUrl: "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/"
-webUrl: "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/"
+excerpt: "Sonantic has also worked with Val Kilmer, who was diagnosed with throat cancer and underwent a tracheotomy in 2014, to develop an AI voice model based on past audio recordings of Kilmer’s voice."
+publishedDateTime: 2022-06-14T05:56:00Z
+originalUrl: "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/#!"
+webUrl: "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/#!"
 ampWebUrl: "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/"
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/"
 type: article
-quality: 57
-heat: 97
-published: true
 
 provider:
   name: The Hollywood Reporter
@@ -25,61 +22,6 @@ images:
     height: 576
     isCached: true
 
-related:
-  - title: "Spotify Acquires Text-To-Speech Startup Sonantic"
-    excerpt: "Now, they are investing in text-to-speech startups with Sonantic. Sonantic is an AI startup that focuses on delivering “stunningly realistic” voices from texts. Zeena Qureshi and John Flynn found it, and they both now join Spotify to continue working ..."
-    publishedDateTime: 2022-06-14T10:31:00Z
-    webUrl: "https://www.androidheadlines.com/2022/06/spotify-acquires-sonantic.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/06/spotify-acquires-sonantic.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/06/spotify-acquires-sonantic.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 42
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/01/AH-Spotify-new-logo-1.jpg"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "Spotify’s acquisition of AI voice platform Sonantic will lead to more machine-narrated audiobooks"
-    excerpt: "Spotify has already let its intentions out, that of generating more than $100 billion in revenue and a billion-plus user base within the next decade. The company had also stated they are betting big on audiobooks and podcasts to reach that goal."
-    publishedDateTime: 2022-06-14T23:00:00Z
-    webUrl: "https://goodereader.com/blog/audiobooks/spotifys-acquisition-of-ai-voice-platform-sonantic-will-lead-to-more-machine-narrated-audiobooks"
-    type: article
-    provider:
-      name: Good e-Reader
-      domain: goodereader.com
-    quality: 24
-    images:
-      - url: "https://assets.goodereader.com/blog/uploads/images/2022/06/14083512/spotify-acquires-sonantic.jpeg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Spotify buys text-to-speech startup Sonantic for voice features"
-    excerpt: "UK-based startup Sonantic, which has developed text-to-speech technology capable of generating (in its words) “compelling, lifelike"
-    publishedDateTime: 2022-06-14T16:17:00Z
-    webUrl: "https://musically.com/2022/06/14/spotify-buys-text-to-speech-startup-sonantic-for-voice-features/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 22
-    images:
-      - url: "https://musically.com/wp-content/uploads/2018/04/spotify-nyse.jpg"
-        width: 1000
-        height: 400
-        isCached: true
-  - title: "Veritone Acquires Artificial Intelligence Voice Creator VocaliD"
-    excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive enterprise AI platform, today announced the acquisition of VocaliD, Inc., a U.S.-based company that pioneered the creation of personalized synthetic voices."
-    publishedDateTime: 2022-06-16T11:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-f4e631ab3e5f422696e13113875bb0b8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-
-secured: "dm6+8JbtWBX+9rDZA+fkNDIiX3R8YAW6sdD/1rgpEPV3IYMDxIRW0PoPLLTBZRtqjeu4np2i19vi6D4TfTzMCWAdv61ibPZpw4VONSpXfNe8Awziy7ps5X2F4LlUdO2zWc2OfhBN/rwOoK8zCR2hcXRBT3n6/LCCKEojM+TOv+n8BIZperN7UeBXS7jK3bpVIi6M4JwZgXm6HK87RlKwm/gRaIYNP8/eGJy6lO/pNDaffzb4Pa8RYsWbmOzRzbMXbbzEZIJ8VInhTJPm8AVxXaRI542spK14XYvSa4q14Qq4E5ftc1nd4/l86mGEAUGTfS9GAznRu/fSCgevBVP7LufZSAhT4tayFyP+6RLrxmg=;WnDA0EaN00HdmCBqBpcaNg=="
+secured: "CvsMpC06ViDMbEJrkkebQOzvWPoB+uW+ZCwnvapHnQpsgO/A3dz7lBXarZ2V+z1c+qGDtXobpt97iCUHOcNqTahuB1XijNH7T8S0WAjfYMxhu3rmeh+7sMos95S1ioxnMiK48Q7YFfW/2cSQl4oJP6cjBHryNWV2KOCQ5nEZAKvbH7fKKLuENJI9eFw+Nz/i7DqF36C9J04vvmw2c9Ik4OmzIrl2xBikEiGxS9wMPGXIGVDVwkSatWv364l3Um+PcSIvOJRdernGzJAQACrNIhfgr53dTZeuAWxpMCvKah8dx/Y97DQBWKdfEnhJlydZv75IpdzhCVJrGmwrR30Q0OJIuVQeNoUFSnXDUuANVlE=;g4L3/ZwYSlm8QF2yXWl6VQ=="
 ---
 

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots"
-excerpt: "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,"
-publishedDateTime: 2022-06-06T13:03:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its/article_31ae4585-fd77-5568-b426-899cf63b5a86.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its/article_31ae4585-fd77-5568-b426-899cf63b5a86.html"
+excerpt: "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ..."
+publishedDateTime: 2022-06-06T13:46:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots"
+webUrl: "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots"
 type: article
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "iOsVR3pCXXCLSqfhK5yN3CSXxSpSl8o3zl3Rty615qbSDS52v/+yVqQzAnD7oXFSJcBTWYFfVDFKhblS91jQXojQuceSeESmLOs30p6h34oKXdmw+tff/0TpFC9kwPjWtvioKuxHV7oX5z15EOGhnt8RPbl0idu3z7tEOST7xUbBxlaVIbrCIkiAvi0pKAzAKjtyp2CAnBAg9OTRHPqyFwFspDdZp8g2bRR9J38M+ANIuM22xRlGcjQMy810l3wdDqkwc0OWwg7lTs7lpejvirKc6DvVvL386dDYfbMtEpmVA1Y9dBJP8skWbk0eMStHyvxz109uOq1yo949tSB+l7ZstVo/kGqKqNgYoXceRgQPKDtTcTs3+ahS6Z30NhN++826lf1xCg5C8vzk914dPRGnzYnpGEmF2no+vrEdnXeVBpnsLmHX02DGBwV0eTJuz//jkcuUZFzxNE7JAMIy/7wtIjLsDT8U4EoD9v2MU/dyWXDDiC/phKU2UZ4GslSn122YQQkeHNgzX1F910q9UQ==;ETkHHt/f4X+UcOvLw465UQ=="
+secured: "TUdyP5NmZh+/HSCKHHXtKBRL996zz+yqpAw+I5W9sLttv1F9eBtSkPFN95jqUUht6w67Pegs20Z4C1IJSFbmRikULzIoQsKVWW3aYknHQ/MkvEGwGi8wyWSuVK9d11lF2Rtk4Yfun1sd+f2cIJv2sWh+G2RCgzofWrM8KS+xOjxgI+9/XiA/LZv1C3OrAvTf3+qvcdP+yJJw4duKTCiQX2GnlEGT9HRrMmAWhd08ngqOcbtljYNXS/aJayICEsRavkPTc9QIakATtf7BQmPXusf4J2f2Jz/FPGWb2yeCLFtPmnDxX/M4wHWj4NS0wmoz/XGx+ayNLBMfM7DeRi8OP4dU5s1YWnUiaciOHY5jCrc=;01Km2ESAo+ksCaR9yGlJ6A=="
 ---
 

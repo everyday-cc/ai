@@ -25,33 +25,39 @@ images:
     isCached: true
 
 related:
-  - title: "Almost 400 self-driver, driver-assisted accidents in less than 1 year"
-    excerpt: "Tesla's crashes happened while vehicles were using Autopilot, \"Full Self-Driving,\" Traffic-Aware Cruise Control, or other driver-assist systems that have some control over speed and steering."
-    publishedDateTime: 2022-06-16T12:21:00Z
-    webUrl: "https://www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year"
-    ampWebUrl: "https://www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year?_amp=true"
+  - title: "First-ever self-driving vehicle crash report released. Nearly all involved Teslas in Washington"
+    excerpt: "Nearly 400 crashes in the U.S. involving partial or fully automated vehicles were reported in the past 10 months. In Washington state, there were seven."
+    publishedDateTime: 2022-06-15T23:13:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
     type: article
     provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 44
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1655338884_3MBtTR.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
-    excerpt: "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars."
-    publishedDateTime: 2022-06-17T14:39:00Z
-    webUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 27
+  - title: "Authorities Release First-Ever Self-Driving Car Crash Report"
+    excerpt: "The disclosure, released by the National Highway Traffic Safety Administration, is the first of its kind and part of an ongoing effort by the federal government to track the safety of autonomous vehicles."
+    publishedDateTime: 2022-06-16T15:05:00Z
+    webUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report"
+    ampWebUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 13
+      name: Government Technology
+      domain: govtech.com
+    quality: 24
+  - title: "First report on self-driving vehicles shows 500 crashes"
+    excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
+    publishedDateTime: 2022-06-18T03:56:00Z
+    webUrl: "https://www.fox13news.com/video/1082992"
+    ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 24
 
 secured: "QiJJDf2CtiMibTjFZnpN2Jop+fyU9Xmy65AqB7ALVLYCtE9yT06EvtsTroJcahvMZcGYvS9HX4ieOIdohDC/14cBcpEkPoVGhDBlLPqs/R71u7ynmt7T8dslbapoO+q28Ki+errT8s1MXGMiQZt23owuAZuSWxnxiUDld0goGbf1g/MKlUWdBvGYjXEZoAOwpEgkUbV/jH7n9LK3iPj7UAIRPGyudYRSzQh9MxkAeQo7XNNZHw4XleVnX+AKdcj88PPzRWe+4pq6/uf0Zw1tN6Te7X0IM7c8QP8ObU0NdBlGgu9cUhQD4684UIrWhpgBGD63R5LquBlHksG/gceeFiPA1u7EK8mQk6wxwlfrepk=;m+S4UMRnyp5ETCt36CFWcQ=="
 ---

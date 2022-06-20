@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27752198"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27752198"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 854
     height: 569
     isCached: true
-
-related:
-  - title: "1 Puzzling Reason AI May Never Compete With Human Consciousness"
-    excerpt: "Two philosophical thought experiments lead us right into a flurry of questions surrounding the human mind. You decide where you stand."
-    publishedDateTime: 2022-06-15T17:04:00Z
-    webUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/fee34cb3e5bfe40704abd44746e99c210a4e269d/hub/2022/03/23/643a310d-6145-4508-bddc-0dbf07a04058/hero-image-desktop.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "8 Reasons Using AI Will Improve Your Content Creation Process"
-    excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
-    publishedDateTime: 2022-06-15T23:03:00Z
-    webUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/26/15/72/22601374/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "hqEgUiU8rC6VqreBIVs7PPUppGZuEsMBSnxdOc7grewoMJtWY0ULnZKWFU5qy7X9jqJHP39SbrOM5fdGzqRYLVWm7cAciXZ3Gklllsl/Y5LiOSJjO9G11Q7SZ0IBuk6R6H8X2K9ZvXsqcSiFBksDV7yPT4o8E8cyBeNp7cbyq3z9rIsbDG2DKGXA6Y2KqzYI5rXLjqPnyUFbo7LVnZ96DKwYC67YhnNXwaEzgMrveP7R6GjZpYGM1Cw5+N7Oa1IrL6b0+fOF/a30TohpEJoeY9SG1zIX0dcU4Kz8njukHOi3j8AbU91fYQM+J9h3tIPax0WKQblRPS3HSN68kKuaVJsWRg6sNegBL5jywCvbQsAzx7JyJAfgMomfzfRMLSWLVUPSgqrRnsFa5jqmKfmxsR2NIkHl8oUyCaNqurEUkcByM45YxWKFVpbsSv3lQARGziGhbMa68WRa0/drR0IcJn3f+3AQm2XvLRnEh54Sy1i6Fg442cSPALLiUlHCeemcU8Q+vipa5mzXZ48IBFkzgg==;A3SH7pDpswY0Y6/c8xgtow=="
 ---

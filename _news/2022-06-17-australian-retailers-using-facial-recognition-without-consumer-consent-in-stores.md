@@ -53,15 +53,17 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
-    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
-    publishedDateTime: 2022-06-15T13:23:00Z
-    webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
+  - title: "Brazilian facial recognition ruling can set an important precedent for country-wide use"
+    excerpt: "Every day, nearly 5 million people use São Paulo's metro system. Every one of their faces may have been recorded in a facial recognition system that has been in use since early 2020. In a March 23 decision, a São Paulo State court ordered the Metro ..."
+    publishedDateTime: 2022-06-20T06:40:00Z
+    webUrl: "https://globalvoices.org/2022/06/20/brazilian-facial-recognition-ruling-can-set-an-important-precedent-for-country-wide-use/"
+    ampWebUrl: "https://globalvoices.org/2022/06/20/brazilian-facial-recognition-ruling-can-set-an-important-precedent-for-country-wide-use/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2022/06/20/brazilian-facial-recognition-ruling-can-set-an-important-precedent-for-country-wide-use/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 14
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 31
 
 secured: "b9fUe1Lys4MUvV0nGzzTuSeRsPiJp0YZpp9bB/zak9t6vnbGtGefD3XHVlw7UVjXcbBVJxYOV2F9QQld924hasqYJmTny5mey2+IZsmvABS73Bopt3h1bU5fn7J2M+aWp7cEySOIf6eKpwsXV39i8QBBQcS+xZLb+RRC3geXFEOq41+p9H1CJkJBQD4aEPS5iGnszUhxVPdlFw3xhuYfb/W1KXrm8+H/1LuMmMwjJq27BV0Ua6gO1AnfDtpkWz2HgjqJTG7+Zw0Z3n9vz1m7NGIhT5tNa8w+obg0kud2f2pQD+NGE/yjZxw6NBfeLMxLYz0dlews2H0szJm08ALM72Xvzse5RVhTDeUy7BFXY7/ldvUrfUEUtF2i36TLtVJKh1jdUOU+xRX7wzYNtu9g+6qfXCMtLqe1mMVTdd9umgktIYBQdJqRlHUdxD0C2LpF5rOOSG86lhnEAU5BjvlA6/bTk3EBGA5AeMt+wZZBBLpPk0ffFrm625DODFcIn5kjdcqpxvJHoGGH1Z+xbgUc1A==;9XVSHXLSEoVlfYzz9S9/hg=="
 ---

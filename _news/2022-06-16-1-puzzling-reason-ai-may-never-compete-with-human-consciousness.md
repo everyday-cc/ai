@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai
 webUrl: "https://www.cnet.com/science/biology/features/1-puzzling-reason-ai-may-never-compete-with-human-consciousness/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -28,36 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Google's New AI Is Not Conscious: Firm's AI Engineer Explains Why"
-    excerpt: "Numerous recent reports speculated about Alphabet Inc.'s (NASDAQ: GOOG) (NASDAQ: GOOGL) natural language processing artificial intelligence (AI) software"
-    publishedDateTime: 2022-06-16T22:45:00Z
-    webUrl: "https://www.benzinga.com/tech/22/06/27752198/googles-new-ai-is-not-conscious-firms-ai-engineer-explains-why"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27752198"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27752198"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/06/16/ai.metamorworks.shutterstock_1348479254.jpg?width=1200&height=800&fit=crop"
-        width: 854
-        height: 569
-        isCached: true
   - title: "8 Reasons Using AI Will Improve Your Content Creation Process"
-    excerpt: "If this sounds like you, it's time to leap into 2022 and explore the remarkable world of AI copywriters. If you're not already using one, here are eight reasons why you should start right now. What's an AI-powered copywriter?"
-    publishedDateTime: 2022-06-15T23:03:00Z
-    webUrl: "https://www.chron.com/business/article/8-Reasons-Using-AI-Will-Improve-Your-Content-17243963.php"
+    excerpt: "Copywriter tools can give you a ton of material to work with in seconds allowing you to skip over your tedious research and outline development. You can take the best parts of what the AI writes ..."
+    publishedDateTime: 2022-06-16T01:10:00Z
+    webUrl: "https://www.entrepreneur.com/article/426695"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://s.hdnux.com/photos/01/26/15/72/22601374/3/rawImage.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1654714755-GettyImages-1308810664.jpg"
         width: 2000
         height: 1333
         isCached: true
+  - title: "Inability to patent AI creations could hit business investment"
+    excerpt: "Companies could be incentivised to keep inventions as trade secrets"
+    publishedDateTime: 2022-06-16T03:00:00Z
+    webUrl: "https://www.ft.com/content/eaff4b88-988c-409c-b0c6-86573dfcd253?via=indexdotco"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "8iBC5+BSDjI6Bq/gwI9kS6VlL3CyMfj+fI8MDBNDBuvKJytwGCf5fhXl9Zk6dwO1j1nTt5Pu6s84+0EW2mkML2bM9Ap0qiXJtqLHV6GhHpOFKLICkxcr8jJQ7wVrtmpQBd0WQEMKyAcWO5ceTPOkwJmquEqDJ9D1USBzU/h9qYO+CaItsF24g8MrCJg2FdVH/8dPCFs9Zl/uD68d1aC9rE7kFu+skik0M2zl2uwLDqS+u1tH8TWnpoQ4VD3Q88u2CGLwWM/qZG0O6hVEIpmmD4/fLhaO7c4SBduY6tFGBQ9BElXLDP+wui7K9hnJlOElJsaqj+lOm+aGgcyODi8/o632G3DO4CBVSOjE+tgUuhQh9eiDts95PF+6VzJ5zLw1h6lvvR4YnsDNigJUYJMX46grWd3ArGX6YT0nFcwOsmvkX8PN5cjMOPeZ3qW6E9NAIGQ9H384zcyp+sEBump13AfEq+r2JvI7by0H9pxc7ZXvEE4fb6t6Kj/3fbYBlOGKGDcTe2xSV6Bowq8D8BBq4A==;9w2QSGL0Zb7bF/EALDNVoA=="
 ---

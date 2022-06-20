@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220618_BLP503.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Voicemod Launches World's First Real-Time AI-Powered Voice Conversion for Everyone"
-    excerpt: "Voicemod ( the world leader in augmented voice and interactive audio, ??is releasing its proprietary, first-of-its-kind voice conversion product powered by artificial intelligence (AI). This new collection of AI voices is a giant leap in innovation in developing speech-to-speech voice transformation capabilities."
-    publishedDateTime: 2022-06-15T13:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/15/9622104.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "6Vnjbq4JhxsZZzN//hxsTFNmSRkq0tHqB3GMRv144S3XT+/SrL7wqql9VrjFXBC7DBht8GIBkWF990ztFO/i9wT7Ni86fhOLhUdOeQ9Gv7Sot1hAJQMFu5josxpF/XJLwYd3oYewZQKitkAEN/kY6lOVKjP7ydndN+IG7lTrVG5AUcg1rLR/xX4an1wdFcJUjPEspW/gFxQmDVwo/pLmBuK7m0+3b/R5YXbNqVJqrE7OyXSd8iIOU+r3/zV633J3XL80adRtNMpFnWYu2+wHjJSAOsfPPizLxZmMEKvXRmt4CBcyAvWZjn12LPsw1DILfhw/9V/LuoV30ASgRZpNsw0Gl0KtiemdBf7mPJpMH+vv1a7tlCfu7lJSxGze5d+5d1LIB6lnCfyFAq/vq8fNZnlMs8+1gYrAeS4pe0msFV6C+QUb7unJyGa6UlcAghV8MYVAHW6FrtcwLI5ZwXaR4GV0iHqn5PMI7yUXzWSU0HMcAJDpNsGAI8Ijfwvf4awdxloTWYvN9THjnvnA6mGj/g==;+WeS3c70CXsH2ordRGXcxA=="
 ---

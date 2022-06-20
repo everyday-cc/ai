@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Insect-inspired AI for autonomous robots"
-excerpt: "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,"
-publishedDateTime: 2022-06-15T18:00:00Z
-originalUrl: "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html"
-webUrl: "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp"
+excerpt: "These developments accelerate the creation of insect-inspired AI for autonomous robots, leading to start-ups in this field. The article published in Science Robotics is a “review” article."
+publishedDateTime: 2022-06-15T18:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/955904"
+webUrl: "https://www.eurekalert.org/news-releases/955904"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/insect-inspired-ai-for-1.jpg"
-    width: 640
-    height: 427
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/501e54a8-7ad3-445e-8dbc-c4ac8e9f0d02/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
     isCached: true
 
 related:
@@ -41,16 +39,7 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Developing talent in robotics and AI for automated machines in Brabant"
-    excerpt: "AI and robotics are closely aligned, with developments for both accelerating in the Netherlands province of Brabant."
-    publishedDateTime: 2022-06-16T12:21:00Z
-    webUrl: "https://www.power-technology.com/sponsored/developing-talent-in-robotics-and-ai-for-automated-machines-in-brabant/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 49
 
-secured: "qCvK6PedbQKpPFAEdPqe4PiLtGKayEJ79b8w93ZFb6Oxjp2tuysL6OJi9eF9vE686+hlUAB2KccHmg/IYKqJf+qR8qThtb0g1/axxXAMhtvN3PKfmqaK44tOG9sWRrQs9sq1y09EZHB+MDAZXnLIC6JorBEX6liN9rEKAPXGaLNGL8xZ6hTvMhMduIIQSfYE1riHs2xJUZyx6k6lQVQGiNBXcBcmHDQJudR0d0wXPDJPQuj6HETo76YSekXxL9roczGPp8dgm06wbd4zxGtzvg7NnYrSePLTKvpFRSlybHRJokTLxKFCR7yVSX3mKLAQcNjVlSM2XIho8flJjAtt4e4gCEqLaWAsb48D44bHtn0C8+wVBUhTxUhBhVE0R6zGyOJHGwRChJPGh3QUFKLRrbxfX69rGoHLP0SCAnpFBAgej4avSRBV2NKx7nTDdLGrH9x75fzsTN1CtrZkxjwtAqfvps1grUmmVmdfYcyGikokFYl1Io6gUgHbhTk0OafzzseLIVgWeukmTJ6/6TTQ/A==;G3dwep7mCz0HbY3Fal3Icg=="
+secured: "QcufXI/wem2l1xgwQPgQ1/o+48rZOf/lbCVL+6CqiCQRaOrSwypMn4j7pSZYOMO80579kXdu/1kRUqEETBZr8C2DDcfBjhYwOr/LTh84ZTPNu7/9mcz454gtNsR+Dz3qQXIk20TmNb+l2Qidn13YvIiLXRT1faN572b9wIHjRLpmtTyuHosOPvJ8b0WPjqEm3u1oX+qGaDomWep4uyYUE+bIPkR276TMEY7MJYV64fUu5Xv8huLGHI5GveFrAadMC5yudubvxRvBdJv720gH+JPJ20tmpiCkoWWzYal1XJmK8S17WAUTc0IpCDkCYUkMjwkqruMQH6Vg6PRztsc0BC/Ez2FI/U7yxsclyRamgkM=;XMuIlxrNhliF703s48kt8A=="
 ---
 

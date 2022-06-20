@@ -1,34 +1,22 @@
 ---
 category: news
 title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest"
-excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a large drop in short interest in the month of May. As of May 31st, there was short interest totalling 603,200 shares, a drop of 27."
+excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating BOTZ opened at $20.90 on Wednesday. The company has a 50 day moving average of $23.96 and a 200 day moving average of ..."
 publishedDateTime: 2022-06-15T05:28:00Z
-originalUrl: "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html"
-webUrl: "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html"
+originalUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/"
+webUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/"
+ampWebUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/"
+cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: Defense World
-  domain: defenseworld.net
+  name: ETF Daily News
+  domain: etfdailynews.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
-related:
-  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Update"
-    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) was the target of a large growth in short interest in May. As of May 31st, there was short interest totalling 29,500 shares,"
-    publishedDateTime: 2022-06-16T05:56:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/16/global-x-artificial-intelligence-technology-etf-nasdaqaiq-short-interest-update.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 25
-
-secured: "d7tPAQiNvf9A570uioy3e0qKnVQo/lUM8qFhW6PkpOdLoRFZhFku1ntFZ6lcu80NmgvrDWrIwsSR3Qz0YIxBP3DuM2IpZgCt7EtPqQ9WHgmtEYWWHeIh47HK6Oc43tcRKdcVEgxhlKG5jZV/Tn1lSTzjqrsrWsgvCwMFXBuMAuk80Jpfey6I88gBH97svOL2+DHb082yapY9FDbmpbO4lKBLuy9Zh3RvKieoU8pHJZ29tpeM4aZPOQ8kDoNwJ0CMkc2pH6EQslXRi+sokN3D3QMT9Bgdy0m6PLTDNkuq0LtiOqA+fyrknUZNom6pvs9wz+eA1OreMfype8GMZUfnPrGr7XM0kWpwzBLJPDi0uW8=;YRo8D2GuHLGWKx+rDGJCzA=="
+secured: "kWDNV3PgC33avXd8Ynb1Bbf0lMlfetOgqYM4isL2l5Twrm5Zqcs8y/kOH47hZTfvDGyhygREttnDW+pYXpA165gbHb1N4ELeMRDo/9T2SF8mnuFw65piEsYGWvvJ8s6II2iMv2lsONQHua/t/hx0cW1V7VgmkP/bP623Y85aC9pCtnsUujI8pE0KWuVGv/f475q+/KJ1qquK1/KlXi+gGxKVK1NMd9lDBEjUOnkPyRu91d9f6h2uznkWZEcvV+IACcL4bnJW5vxETzAtpkXPI2J+rlRrc/Uu56CNeWuIyyYPA0KhSvKSkkwlOI5e02rz+nwC5OCUkzF5UqKe9ZZT5QdqACx8fg2kx917dmEv5v0=;NwlZJS1NcB1VCRvQqbfmiQ=="
 ---
 

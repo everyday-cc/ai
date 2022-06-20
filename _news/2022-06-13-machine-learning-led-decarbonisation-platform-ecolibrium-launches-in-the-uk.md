@@ -1,70 +1,27 @@
 ---
 category: news
 title: "Machine learning-led decarbonisation platform Ecolibrium launches in the UK"
-excerpt: "Image credit: Max Lacome LONDON, June 13, 2022 /PRNewswire/ -- Machine learning-led decarbonisation platform Ecolibrium has today launched its revolutionary sustainability solution in the UK, as the race to reduce carbon emissions accelerates across the ..."
-publishedDateTime: 2022-06-13T08:01:00Z
-originalUrl: "https://www.asiaone.com/business/machine-learning-led-decarbonisation-platform-ecolibrium-launches-uk"
-webUrl: "https://www.asiaone.com/business/machine-learning-led-decarbonisation-platform-ecolibrium-launches-uk"
+excerpt: "Ecolibrium launches in the UK today having already signed its first commercial contract with Integral, JLL's UK engineering and facilities service ... Ecolibrium's proprietary machine learning ..."
+publishedDateTime: 2022-06-13T07:01:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?itok=oREaZpiC"
-    width: 599
-    height: 397
+  - url: "https://mma.prnewswire.com/media/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=facebook"
+    width: 2700
+    height: 1413
     isCached: true
 
-related:
-  - title: "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK"
-    excerpt: "Relocating its global headquarters to London, Ecolibrium has raised $5m in a pre-Series A funding round as it looks to expand its international footprint to the UK"
-    publishedDateTime: 2022-06-14T14:15:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845.html"
-    ampWebUrl: "https://www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-101655212920845-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/06/14/1600x900/20220614_183609_0000_1655215917852_1655215927337.png"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "Machine Learning-Led Decarbonisation Platform Ecolibrium Launches in the UK"
-    excerpt: "Relocating its global headquarters to London, Ecolibrium has raised $5m in a pre-Series A funding round as it looks to expand its international footprint to the UK"
-    publishedDateTime: 2022-06-15T01:47:00Z
-    webUrl: "https://www.livemint.com/brand-stories/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-11655215035524.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 37
-    images:
-      - url: "https://images.livemint.com/img/2022/06/14/600x338/20220614_183609_0000_1655215992344_1655215999373.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Ecolibrium brings Machine-learning Decarbonisation Platform to the UK"
-    excerpt: "Company brings together data from Internet of Things devices to provide businesses with a 'blueprint' for sustainable operations"
-    publishedDateTime: 2022-06-13T12:18:00Z
-    webUrl: "https://www.businessgreen.com/news/4051157/ecolibrium-brings-machine-learning-decarbonisation-platform-uk"
-    type: article
-    provider:
-      name: Business Green
-      domain: businessgreen.com
-    quality: 4
-
-secured: "lnRz8829Pk1yYO7iK8CeUTdP+JdnQlIAxkHbLaTnE5JayWtqCs0y6stoj5UxBlkcRdzhYSjBbCtoSTu5IG5i/LYleoGVcKzI1iy/HurciAAKl1YbQ+49X5nguEn+SPetKgHR3CPgrrzH6+GtP1ALUWQQ/8/nzVZOpiMoo1EwpHBbPUxAAOWIXesUkdnexLue57AlDz33J5CtKDltiJwHsO58WkP1iT4Z6YXqk8vso6YFACOt/KJU0i65mx+zSJM19VZ1eEIVFn62rKmOR5js5stJf8WKbv7Cozz1laT7SZ1XP82dBIopbL8rCfl5WBxVxdBfv8m8etBZGNiA74ZTDo8BiIcNaZQZo9xOdRVA1CMTD1Enq1KwaVFyEY/Zi8DLTYjOAKA1Ijj7ctJl0v5l09iNOgL2H4JsO7AUp56sgl22K5sN2e4zbLyySqoW5KB6gUSRPp7bGO8NWwRNrWZg/BFMcX/gB5f2vS+M5tyt/QABn45htxCuZqeQ7bIAmQynvCKZGpXI4QD8IdvvfMgscg==;qREBdPcrmdEWZ9IXA3CFYg=="
+secured: "KArfKkuDuqH9KIlvDUr7v3RmnWk10/ckIfhGpFOT3iKfCupGzxphc+QD6eL+3dLvQ9TxP45/4fwZPhbybOC1crQ+04baVS2aGIdpzqFR7WSFR75xk285uF0FbBanAjKQNTTC1f1lLJfOqF6puwb4B+jdwf7cgZH0GnOn0Q8LlMZZ4y235cezvSMxpfATQLN5oljqwAJM79LFg/plDJs2bv1QAX5jZpuh0AD7W4IuS4mxPUS7GZKJFeE3R5YZIxN4rpw9wSRg64Aqguhg+OnowP7s4Ye3hJc79W3/xz032yXhYdoTn2NbGBckxBEd5KF6/d1m3r1gNsYPFPJZwuBc+kpO5dhJaQ+n72zlMqr6AHg=;OPgwtTtg2UEd4OLx00f/+g=="
 ---
 

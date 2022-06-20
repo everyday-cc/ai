@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/06/13141935/SEI_109536389.jpg?width=1200&enable=upscale"

@@ -21,6 +21,31 @@ topics:
   - AI
 
 related:
+  - title: "First-ever self-driving vehicle crash report released. Nearly all involved Teslas in Washington"
+    excerpt: "Nearly 400 crashes in the U.S. involving partial or fully automated vehicles were reported in the past 10 months. In Washington state, there were seven."
+    publishedDateTime: 2022-06-15T23:13:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 27
+  - title: "An Increase in Self-Driving Car Accidents"
+    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
+    publishedDateTime: 2022-06-16T01:03:00Z
+    webUrl: "https://www.aol.com/news/increase-self-driving-car-accidents-010300434.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Authorities Release First-Ever Self-Driving Car Crash Report"
     excerpt: "The disclosure, released by the National Highway Traffic Safety Administration, is the first of its kind and part of an ongoing effort by the federal government to track the safety of autonomous vehicles."
     publishedDateTime: 2022-06-16T15:05:00Z
@@ -32,29 +57,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 24
-  - title: "Cars with self-driving capabilities involved in hundreds of crashes over past year: Data"
-    excerpt: "National Highway Traffic Safety Administration released new data revealing cars with partial self-driving features were involved in hundreds of crashes last year."
-    publishedDateTime: 2022-06-16T19:14:00Z
-    webUrl: "https://www.fox61.com/video/money/cars/cars-with-self-driving-capabilities-involved-in-hundreds-of-crashes-over-past-year-data/520-f6233a90-759f-4249-8ca5-fbb2501f63e3"
-    type: article
-    provider:
-      name: FOX 61
-      domain: fox61.com
-    quality: 15
-    images:
-      - url: "https://media.tegna-media.com/assets/WTIC/images/ac7061ef-9111-4824-80cc-9cc287df0d21/ac7061ef-9111-4824-80cc-9cc287df0d21_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
-    excerpt: "Back to video This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the original site."
-    publishedDateTime: 2022-06-17T18:36:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 0
 
 secured: "z+rQFi6VEROHQsZC3FjJJiMj/c2RVQfJ31zV2C9cnMzhAs0QQ7C0Hnn79U7c2aPO5e975K9wnqd0Ps33eAcWFgU5kvnVPUTxNPBmnaSqIajGmkRqItI7lbF/jt/k97qSxtQzR/szKNjfHSXLB7fPztQc9u68B1ApxppHJsZ7jayLyRFSsR8ssfOW/D/tfdf/oJXmYJjjqpyLCMs9v/kT3xUzPFXuc5wO0n5O/GOdGe5wFjTRIRRekdm1mAoHEQbNQ18oQFM373/m/MgLN0XbTLaapFLx5rrbA5HCJJPedmeetRq66C4lE2+k9mmQPcijubwlJyWmonuDVxiCCVcdp1MpNFIHZFAcr7DHAQUmf4TCA+EC344nPUErDUXNcPTles/SsPU+YWgA3hW9zgXdq1rdW37YwJYnFRgkvcuyru9sEyyrixIB+g2exkS8tSHxGsYVio/6NFKBX4rgtaaAmLNsItGrms1aClcuwUT0agi4hSpqeP7t6Qga28jicwan38wjn8E+jSNiGVAAg+lJew==;YVLaYeozXFzRZCI5+E8/Zw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-honda-report-crashes-advanced-dri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-honda-report-crashes-advanced-driving-assistance-systems.amp"
 type: article
 quality: 82
-heat: 222
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Autopilot and Other Driver-Assist Systems Linked to Hundreds of Crashes"
+    excerpt: "Teslas operating with Autopilot, the more ambitious Full Self Driving mode or any of their associated component features were in 273 crashes. Five of those Tesla crashes were fatal. The data was ..."
+    publishedDateTime: 2022-06-16T08:24:00Z
+    webUrl: "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html"
+    ampWebUrl: "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2022/06/15/business/15auto-safety/15auto-safety-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Tesla Tops NHTSA's List Of Crashes Involving Autonomous Driving"
     excerpt: "(TSLA) is facing more criticism about its driver-assist technology as the company ranked highest in the list of crashes involving self-driving technology released by the National Highway Traffic Safety Administration."
     publishedDateTime: 2022-06-15T20:33:00Z
@@ -69,21 +85,37 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Autonomous driving system woes: Feds document 400+ crashes over 10 months"
-    excerpt: "Automakers reported nearly 400 crashes over a 10-month period involving vehicles with partially automated driver-assist systems, including 273 with Teslas, according to statistics released Wednesday by U."
-    publishedDateTime: 2022-06-16T09:43:00Z
-    webUrl: "https://wraltechwire.com/2022/06/16/autonomous-driving-system-woes-feds-document-400-crashes-over-10-months/"
-    ampWebUrl: "https://wraltechwire.com/2022/06/16/autonomous-driving-system-woes-feds-document-400-crashes-over-10-months/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/06/16/autonomous-driving-system-woes-feds-document-400-crashes-over-10-months/?amp=1"
+  - title: "Almost 400 self-driver, driver-assisted accidents in less than 1 year"
+    excerpt: "Tesla's crashes happened while vehicles were using Autopilot, \"Full Self-Driving,\" Traffic-Aware Cruise Control, or other driver-assist systems that have some control over speed and steering."
+    publishedDateTime: 2022-06-16T12:21:00Z
+    webUrl: "https://www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year"
+    ampWebUrl: "https://www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year?_amp=true"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 43
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 44
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/06/tesla-g2eb890b62_1920-e1655372298686.jpg"
-        width: 1876
-        height: 1056
+      - url: "https://cdn.newsy.com/images/videos/m/1655338884_3MBtTR.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Report: 500 crashes linked to self-driving cars, auto-assist vehicle technology"
+    excerpt: "The National Highway Traffic Safety Administration released 10-months-worth of crash data involving vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
+    publishedDateTime: 2022-06-18T03:14:00Z
+    webUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology"
+    ampWebUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 40
+    images:
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/06/932/470/self-driving-cars.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Tesla Leads Automakers In Self-driving Vehicle Crashes -U.S. Regulator"
     excerpt: "Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more than any other automaker, according to data U.S."
@@ -113,33 +145,20 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Self-driving and driver-assist technology linked to hundreds of crashes, U.S. data shows"
-    excerpt: "Over the course of 10 months, nearly 400 car crashes in the United States involved advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday, in its first-ever release of large-scale data about these burgeoning systems."
-    publishedDateTime: 2022-06-15T14:18:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/self-driving-and-driver-assist-technology-linked-to-hundreds-of-crashes-u-s-data-shows-8691631.html/amp"
+  - title: "Self-driving car systems were involved in 400 crashes since 2021 - 273 were Teslas"
+    excerpt: "Federal regulators found that self-driving AI systems were involved in almost 400 car crashes in the last year, with Teslas accounting for 70 per cent of the accidents. The New York Times reported ..."
+    publishedDateTime: 2022-06-15T15:15:00Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/self-driving-car-crashes-tesla-b2101763.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 35
+      name: The Independent
+      domain: independent.co.uk
+    quality: 33
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/crash1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.independent.co.uk/2022/06/09/16/Tesla_Investigation_49372.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "First-ever self-driving vehicle crash report released. Nearly all involved Teslas in Washington"
-    excerpt: "Nearly 400 crashes in the U.S. involving partial or fully automated vehicles were reported in the past 10 months. In Washington state, there were seven."
-    publishedDateTime: 2022-06-15T23:13:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/transportation/first-ever-self-driving-vehicle-crash-report-released-nearly-all-involved-teslas-in-washington/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 27
   - title: "Teslas using driver-assist systems were involved in 273 crashes over the past 9 months, according to NHTSA"
     excerpt: "The National Highway Traffic Safety Administration released on Wednesday nine months of crash data from vehicles using driver-assist technologies like Tesla Autopilot as well as fully autonomous ..."
     publishedDateTime: 2022-06-15T15:34:00Z
@@ -154,15 +173,6 @@ related:
         width: 2560
         height: 1441
         isCached: true
-  - title: "273 Teslas with automated driving systems crashed, feds say"
-    excerpt: "Automakers reported crashes to the agency from July of last year through May 15. Tesla's crashes happened while vehicles were using Autopilot, “Full Self-Driving,\" Traffic Aware Cruise Control, or other driver-assist systems that have some control over ..."
-    publishedDateTime: 2022-06-15T13:50:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/06/15/273-teslas-automated-driving-systems-crashed-feds-say/7632735001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "US report: 273 Teslas with automated driving systems crashed"
     excerpt: "Tesla reported 273 crashes involving partially automated driving systems, according to statistics released by U.S. safety regulators on Wednesday."
     publishedDateTime: 2022-06-15T18:01:00Z
@@ -186,15 +196,34 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Tesla, Honda Among Those To Report Advanced Driving Systems Vehicle Crashes-U.S"
-    excerpt: "Tesla Inc reported 273 vehicle crashes involving advanced driving assistance systems like Autopilot since July, while Honda Motor identified 90, data from U.S."
-    publishedDateTime: 2022-06-15T13:30:00Z
-    webUrl: "https://www.ibtimes.com/tesla-honda-among-those-report-advanced-driving-systems-vehicle-crashes-us-3540282"
+  - title: "NHTSA: Hundreds of crashes linked to autonomous vehicles and self-driving technology"
+    excerpt: "The report showed that there were six deaths and five serious injuries due to the crashes. (NCD)"
+    publishedDateTime: 2022-06-15T16:01:00Z
+    webUrl: "https://www.wokv.com/video/hot-video/nhtsa-hundreds-crashes-linked-autonomous-vehicles-self-driving-technology/b6fe73f0-a069-46dd-aaf7-2280d6fc0fca/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: WOKV
+      domain: wokv.com
+    quality: 17
+    images:
+      - url: "https://www.wokv.com/resizer/y-JTOsNsgCt7BiVUVazcidu4XCY=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/06-15-2022/t_2f752f463191414fab778bddb033297d_name_NHTSA_Hundreds_of_crashes_linked_to_auto_62a9e9423c5fbb61749b9783_1_Jun_15_2022_15_54_39_poster.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Cars with self-driving capabilities involved in hundreds of crashes over past year: Data"
+    excerpt: "National Highway Traffic Safety Administration released new data revealing cars with partial self-driving features were involved in hundreds of crashes last year."
+    publishedDateTime: 2022-06-16T19:14:00Z
+    webUrl: "https://www.fox61.com/video/money/cars/cars-with-self-driving-capabilities-involved-in-hundreds-of-crashes-over-past-year-data/520-f6233a90-759f-4249-8ca5-fbb2501f63e3"
+    type: article
+    provider:
+      name: FOX 61
+      domain: fox61.com
     quality: 15
+    images:
+      - url: "https://media.tegna-media.com/assets/WTIC/images/ac7061ef-9111-4824-80cc-9cc287df0d21/ac7061ef-9111-4824-80cc-9cc287df0d21_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Feds investigating Tesla Autopilot crashes have big implications for self-driving cars"
     excerpt: "The investigation could eventually lead to changes in future versions of Tesla’s Autopilot and its other self-driving systems."
     publishedDateTime: 2022-06-18T18:31:00Z
@@ -204,6 +233,15 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 11
+  - title: "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows"
+    excerpt: "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology."
+    publishedDateTime: 2022-06-15T18:22:00Z
+    webUrl: "https://www.wsbradio.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 0
 
 secured: "O70ZMOEInqJ3M9u7THcJ5h+katxX8vU7cvXcXXcKsC2DHhwFQIpBZI2Wp9OVW8FEwVBTGPGYrJ9wWlsWsl1squ2Nw9U5jqGMpCi/xb1HPOSmmxOMuvrHJ0n1pF43WKxpAwQk40BDRsUvmxrhC/c1PdrBuWbatQM58yUGAxHhmzOmuW7JWr1qXRKhTeuL0ypN+w1gDlX18y65+AFcxfq3BPiWeR4sIe+JmT3yH4lYbo386sCj8t9yTW1Vpg/yvtaH6eG//GJu1lVJmb68GPNec8K52KoiU4O+Hzobw1muZkLb4BApO1J/cIIzy+u/Jkm8S+X5tC0iM4VKLgemmYdRZDvrI7CunnF3Xrg+DHAy/cOyBXQBqqP0hIENaKyx8Awtwb/0Ja5bZU7R195UZAjqm6bw8Oq33Jm9KyVNZpx+2PigMGnSe0BPwHsB9TPK00UiTSBpTIJTm/raNwE4/nzLukN0U4ToFZj2+nLCC6UWvokzJrtB5BECPl8eh2/G4W0TGF3RIxEdlnF2QpOiUkq0DA==;QpQ4EXi9SiiOsDmJOG/Ocw=="
 ---

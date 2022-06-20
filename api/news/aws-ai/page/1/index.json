@@ -371,6 +371,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-15-aws-turns-up-mainframe-migration-service.md",
+      "title": "AWS turns-up mainframe-migration service",
+      "excerpt": "AWS Mainframe Modernization, which since last November had been in preview, is available now and offers the tools, infrastructure, and software to manage migration of mainframe applications to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
+      "originalUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/08/clous-blue7-3000x3000p-100899404-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
+      "publishedDateTime": "2022-06-14T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
       "title": "AWS with Intel launches DeepRacer Student League",
       "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
@@ -865,6 +908,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-09-new-observability-features-for-aws-step-functions.md",
+      "title": "New Observability Features for AWS Step Functions",
+      "excerpt": "Recently, AWS announced a new opt-in capability on the state-machine page for Step Functions. Developers can quickly analyze, debug, and optimize Standard Workflows by enabling the new execution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/06/aws-step-functions-observability/",
+      "originalUrl": "https://www.infoq.com/news/2022/06/aws-step-functions-observability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/06/aws-step-functions-observability/en/headerimage/generatedHeaderImage-1654535632137.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.md",
       "title": "Why healthcare organizations select Amazon Web Services over Google, Microsoft",
       "excerpt": "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,",
@@ -1340,83 +1426,6 @@
       "provider": {
         "name": "The Valdosta Daily Times",
         "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.md",
-      "title": "Automating Signature Recognition Using Capgemini MLOps Pipeline on AWS",
-      "excerpt": "Signature-recognition technologies can help reduce human error, time, and limitations involved in manual verification processes. With Capgemini and AWS, creating the necessary machine learning models is easy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
-      "originalUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/iStock-1322050816.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-aws-introduces-powershell-custom-runtime-for-lambda.md",
-      "title": "AWS Introduces PowerShell Custom Runtime for Lambda",
-      "excerpt": "AWS recently announced a new PowerShell custom runtime for AWS Lambda to run Lambda functions written in PowerShell. With the new runtime developers can write native PowerShell code in Lambda ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/06/aws-powershell-lambda/",
-      "originalUrl": "https://www.infoq.com/news/2022/06/aws-powershell-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

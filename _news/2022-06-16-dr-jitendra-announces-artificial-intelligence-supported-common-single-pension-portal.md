@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Artificial intelligence-enabled portal for pensioners soon: Jitendra Singh"
-    excerpt: "Interacting with beneficiaries of 'Bhavishya', a portal for pension payment and tracking, Jitendra Singh said that in keeping with Prime Minister Narendra Modi's motto of ensuring ‘ease of living' for all,"
-    publishedDateTime: 2022-06-15T13:09:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/economy/policy/artificial-intelligence-enabled-portal-for-pensioners-soon-jitendra-singh/articleshow/92233209.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 15
 
 secured: "kUOo869VZHYWOfyLBL0bxq98I1UmuQMFj4q73ZIXJnqJgHsv5nz+sMJBtwsiTnJrFtDlz0UhJ7Bam3gf83RbTg809N6HnUO7KlBvmNIA52E0leGQJ+DC0jg4TXnkN04wW6LQdxaGkd5DKisdknI3jZMsO7JIDOiSFUv9cDjhsJ/YcJfY3/FI9tOEnZrpOPSmvYLFycgYJB2U3PVGb2q7iK3MFPMmixbusLwDlTSONcNOuaGSNm72Iff3jT53kUrixSM6rOekitbtW1+dYtwYbtOMxBptAibSdw/ceN/FAi+NC8h24KDnKX9+YPJ9f9v6/qF89pLSQl+JZKU/OySNphwzNR8x1/x4wYkY7PtKraQ=;Dm85GQsTrhqePD/6/mcuMg=="
 ---

@@ -95,6 +95,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
+  - title: "Microsoft Introduces a New Learning Resource with Azure Skills Navigator"
+    excerpt: "It puts together a lot of useful content. Lastly, there is also an AI Learning guide to prepare for the Azure AI Fundamentals Certification."
+    publishedDateTime: 2022-06-16T00:48:00Z
+    webUrl: "https://www.infoq.com/news/2022/06/azure-skills-navigator-guide/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 53
+    images:
+      - url: "https://res.infoq.com/news/2022/06/azure-skills-navigator-guide/en/headerimage/generatedHeaderImage-1655020669408.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft improves Azure’s accessibility for AI workloads"
     excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
     publishedDateTime: 2022-06-16T11:28:00Z

@@ -53,15 +53,17 @@ related:
         width: 740
         height: 400
         isCached: true
-  - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
-    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
-    publishedDateTime: 2022-06-15T13:23:00Z
-    webUrl: "https://techxplore.com/news/2022-06-retailers-facial-recognition-loss-expert.html"
+  - title: "Brazilian facial recognition ruling can set an important precedent for country-wide use"
+    excerpt: "Every day, nearly 5 million people use São Paulo's metro system. Every one of their faces may have been recorded in a facial recognition system that has been in use since early 2020. In a March 23 decision, a São Paulo State court ordered the Metro ..."
+    publishedDateTime: 2022-06-20T06:40:00Z
+    webUrl: "https://globalvoices.org/2022/06/20/brazilian-facial-recognition-ruling-can-set-an-important-precedent-for-country-wide-use/"
+    ampWebUrl: "https://globalvoices.org/2022/06/20/brazilian-facial-recognition-ruling-can-set-an-important-precedent-for-country-wide-use/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2022/06/20/brazilian-facial-recognition-ruling-can-set-an-important-precedent-for-country-wide-use/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 14
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 31
 
 secured: "Nm9s/0L5ohhu0r/4z7GwwgxzPd2+3KaCwIw2XsEeC4uNp95IKEIhnPrv6/mQtN/waUx8Nx0TskRgH4mj/XmlfCiy2AyWhtunMiFxLiIqlg3zclTziDMHfakQugiTavbET31wJsUMBZgX8JnOLzaFqy+qWnMywI2+GWGqlTjxCy/OfZ3Avhqrc19vm2kcXWTSX0XZpwhpymVe6J2ZpcjGlLe+dG5a4xTJ4lbiAL4vV0wTx46mVCLrVOrUq46smFeOF+HkB/LcmWJxLg6fpzdwqXT8C48BwTO+HiLrTF1rCmAPqehGRr8k4OBM4TbI9S1v1xGW1U69wIJc+WsNx5pPZwOYk1mYGyHfmj1ciwxIg8s=;rmy4sRKU9o3iG1FxSplv3Q=="
 ---

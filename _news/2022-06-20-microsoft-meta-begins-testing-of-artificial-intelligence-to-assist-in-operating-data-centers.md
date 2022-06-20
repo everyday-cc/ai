@@ -108,6 +108,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
+  - title: "Microsoft Introduces a New Learning Resource with Azure Skills Navigator"
+    excerpt: "It puts together a lot of useful content. Lastly, there is also an AI Learning guide to prepare for the Azure AI Fundamentals Certification."
+    publishedDateTime: 2022-06-16T00:48:00Z
+    webUrl: "https://www.infoq.com/news/2022/06/azure-skills-navigator-guide/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 53
+    images:
+      - url: "https://res.infoq.com/news/2022/06/azure-skills-navigator-guide/en/headerimage/generatedHeaderImage-1655020669408.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft improves Azure’s accessibility for AI workloads"
     excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
     publishedDateTime: 2022-06-16T11:28:00Z
@@ -118,6 +132,6 @@ related:
       domain: techzine.eu
     quality: 49
 
-secured: "VRUZkqdtdsB6eGMXFUJ7vyI6WdZcJV3ylvow2p387pdw6SfaUC/BrzOMS8ae4GM/VgPQpe260czTiEG3GYd/VMbn6WGG4U1uemHRbqPkvbElgKhaLcmwFDwhsgP6nbC158anyQqHAtqcFLUwd4fAgOmwEsCGPzkKwjtc/if31zUqcZ9/ELLJve6/evzYjNu8mknUhE6TB1TWb9aAtqz8PeeL4MS2su3F80Kg4lgR1/gAWRjqjXowdrBL7Ue60oYV49K0iArcqHSF0+4sN8WewH7LYhPOZSzCwybbdQgRQqzs/fhz4Ywwm8Kx2vEKh3eNzzLiTJwVmj3LWSOI0bJ2qxLTNj2LOEG7Ru+tWxMhaDQ=;Vw3k8fU8lmCd+hPcgZOh4A=="
+secured: "CuG0s81ZQgneMt3s78RSteZjU0WJR00gmunBs0GBczRexKb9Ezm/kBwtjeHe5CO+f7cjBcmGry/jHPDY5lsY2/bVhtmjRIM71yUdLZMTv7SfSQneqrdJ/dWwPlErXttj9CAI0bieeefsJ2pK8HIOhDYxibDXQ0lFJnnBAwyMwnAuJuHnfhSAYpYNaxATWZTemMFF5l1PRUrfVw/aFJaFL4keuaS+0l4sB0CnquBS/Ibry67qfd7ArmfWuilQ/x4y3o4lgjQDIe4PRMgjWynfJJTkqmLj4XN5Pfo3hbZG98bjxZPh+xNXEEKuZEFPa3N4lz/DD0gCeayzLTJLHFTsN6RsdqC3XlQYqIpNh0NFLXqWVVRtz4IWenxezr26Zqp+1hFcCgV+lisIlmSbLvTOBGjBtni2ikJK3SY8QnmIHQbKa32iE7P0EGHHAnTT9IKmnT/2cb7lxZ2JGw4naZcwYoEOSdrnXO6XKfnYfhVzDDGeFUtjiJzAWZcbyBUfyQD63TeKuI+Sui2mMRAHI9Pkqg==;TAwRcqI9TE6p5I0ZpSxxxw=="
 ---
 

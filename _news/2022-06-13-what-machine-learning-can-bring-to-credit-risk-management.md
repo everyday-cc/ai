@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.bobsguide.com/wp-content/uploads/2019/03/Machine-learning-aids-visible-hand-of-payments-78503.jpg"

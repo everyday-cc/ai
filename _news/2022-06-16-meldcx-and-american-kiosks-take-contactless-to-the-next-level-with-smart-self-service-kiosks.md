@@ -41,6 +41,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Poor sleep among African Americans associated with diminished cognitive function"
+    excerpt: "More fragmented sleep and longer periods of wakefulness after bedtime among a group of low-income African American adults were associated with lower cognitive function such as poor attention ..."
+    publishedDateTime: 2022-06-16T07:55:00Z
+    webUrl: "https://medicalxpress.com/news/2022-06-poor-african-americans-diminished-cognitive.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-06-poor-african-americans-diminished-cognitive.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-poor-african-americans-diminished-cognitive.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/sleep-4.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "meldCX and American Kiosks Take Contactless to the Next Level with Smart Self-Service Kiosks"
     excerpt: "Features of these kiosks include: AI based check-in, identity verification, object recognition, secure payments, and other operational efficiencies to improve the customer experience. Eric Nebola, President of American Kiosks, says, \"With self-service ..."
     publishedDateTime: 2022-06-15T16:10:00Z

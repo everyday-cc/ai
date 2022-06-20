@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Fluent.ai and Knowles Partner to Unveil the Future of Embedded Voice Recognition in White Good Appliances at embedded world 2022"
-excerpt: "Innovative small footprint embedded voice recognition on Knowles’ AISonic™ Audio Edge Processor revolutionizes the smart home white goods user experience while reducing BOM costs for manufacturers NUREMBERG,"
-publishedDateTime: 2022-06-07T13:07:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73"
+excerpt: "About Fluent.ai Fluent.ai Inc. is a Canadian speech recognition software company founded in 2015. Fluent.ai's mission is to voice-enable the world's devices, allowing everyone to be understood by ..."
+publishedDateTime: 2022-06-07T15:17:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56248536-fluent-ai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022-399.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56248536-fluent-ai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022-399.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "qPf0JG4LQT/9HJdwELdLerxdaez5hzJ4AFqcW0jEMvBEgcQu8RZvAzi1u1NhsN1phJYk14kZJZlXURRvrhjj1SsXFKDr4LoNK12MC0cl4/bDNJNDC4FNF1Vtri6i1FaLH1XNMnYxMpIyJxifPMzMBWtCGroz6sPHVKPwplwNrXCKdXbtk/BmYZi7JrIahE2r73YJTX4H7aVme76ecYCOY2HkGt2kYWp3cbsNzYB/sMeOvu1P+iQ8vqYz98pQeRc1gZXHi5aZN7X/8tonTeWwb2cPiiyyOcpM50FRex9cJdPhdC8Cr39AVbjPUNklMqVaCPGiPNDExjs7vONKA9KmvuoLwXknVsAsN74HHh7k4tM=;kAcXAPMmkQOB8Z8oo2X86w=="
+secured: "pLqyRWvtwgxcesf1oYTFbhkqth1R0OvC609IfwpLU1BLeJgfXmOYAysCdwb6nyn+BQh7VmIUqd1bK4IxKaJDits4KQ+vNffCBz8LBYq7FewlrtQVPFXtuv10GJuTix2IBdYFkxRv69TpGEifREmBUZ8xn1SCYOAhnIVfcGRAd16CZzPE1UDm3wwZnr3gkdBBqu4OiyzzaeJdn9mvtH/552W3aJWe21UKUImkVA4zTeGPWwniXJw51dSyJvUgEHkFcTagamzHlGE8fnpS3fbV3wmxSHgNPQQ8B2+/jRSslco8L2+W75TWLwfncxWe0/fwaBxK1eNSYZa0h1jyXAWy32GcV86AwqiZOPETiga00gQ=;g/kal970ndhs3Ea/h3cLKg=="
 ---
 

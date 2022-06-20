@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-1
 webUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//62ab4ceac506a1afd8f2b684/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Israel’s Aidoc raises $110m for AI tech that reads imaging scans"
+    excerpt: "Series D investment brings total capital raised by company to $250 million; investors include TCV Ventures, Alpha Intelligence Capital"
+    publishedDateTime: 2022-06-20T07:17:00Z
+    webUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/"
+    ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 57
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2018/10/Aidoc-Founders-e1539593690908-640x400.jpg"
+        width: 640
+        height: 400
         isCached: true
   - title: "AI healthcare company Aidoc lands $110M"
     excerpt: "Aidoc, a company that uses artificial intelligence to expedite medical care, secured $110 million in series D funding June 16 to advance its data-driven tools. Aidoc's care platform has 15 FDA-cleared clinical solutions to analyze imaging data,"

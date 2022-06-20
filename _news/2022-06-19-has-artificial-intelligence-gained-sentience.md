@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artific
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
 type: article
 quality: 74
-heat: 155
+heat: 225
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Stanford researcher isn't worried about Google's 'sentient' chatbot: A truly sentient AI could be '50 years' away"
+    excerpt: "First came HAL-9000 and The Terminator. Now, Google's LaMDA chatbot? Last week, Google suspended an engineer for breaching the company's confidentiality policy, after he publicly revealed his conviction that the search giant's AI chatbot LaMDA had achieved ..."
+    publishedDateTime: 2022-06-15T16:37:00Z
+    webUrl: "https://www.cnbc.com/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107075897-1655253091693-gettyimages-1397188618-dani1.jpeg?v=1655253114"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "Should we be concerned about Google AI being sentient?"
     excerpt: "From virtual assistants like Apple's Siri and Amazon's Alexa, to robotic vacuums and self-driving cars, to automated investment portfolio managers and marketing bots, artificial intelligence has become a big part of our everyday lives."
     publishedDateTime: 2022-06-17T14:28:00Z
@@ -123,6 +139,20 @@ related:
         width: 2000
         height: 1127
         isCached: true
+  - title: "No, Google's AI is not sentient"
+    excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
+    publishedDateTime: 2022-06-15T15:38:00Z
+    webUrl: "https://www.ksl.com/article/50422436/no-googles-ai-is-not-sentient"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 39
+    images:
+      - url: "https://img.ksl.com/slc/2880/288077/28807719.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "Comment: Artificial intelligence will tell us if it’s sentient"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
     publishedDateTime: 2022-06-16T08:30:00Z
@@ -151,6 +181,61 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Don't mention Google's \"sentient\" AI chatbot"
+    excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."
+    publishedDateTime: 2022-06-19T01:28:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/downloadthisshow/google-ai-and-living-robot-skin/13935982"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13930472-16x9-large.jpg?v=2"
+        width: 594
+        height: 334
+        isCached: true
+  - title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
+    excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
+    publishedDateTime: 2022-06-17T00:31:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
+    type: article
+    provider:
+      name: Health News Florida
+      domain: usf.edu
+    quality: 31
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/896e028/2147483647/strip/true/crop/4480x2352+0+316/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Has a Google AI Become Sentient?"
+    excerpt: "Hello, everyone. Happy Thursday! Last weekend, an interesting story was published about a Google engineer who has been suspended after publicly claiming that one of the company’s artificial intelligences (AI) has become sentient."
+    publishedDateTime: 2022-06-16T17:43:00Z
+    webUrl: "https://www.aei.org/articles/has-a-google-ai-become-sentient/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
+  - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
+    excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
+    publishedDateTime: 2022-06-19T16:24:00Z
+    webUrl: "https://futurism.com/the-byte/google-insider-ai-lawyer"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 17
+  - title: "A Google engineer believes an AI has become sentient. Is there a way to know for sure?"
+    excerpt: "Experts disagree with the Google engineer, but the debate raises old questions about the nature of consciousness."
+    publishedDateTime: 2022-06-15T18:00:00Z
+    webUrl: "https://scroll.in/article/1026160/a-google-engineer-believes-an-ai-has-become-sentient-is-there-a-way-to-know-for-sure"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 11
 
 secured: "fCnJ7r2xJGpP9HiRdeQGX+7Oy6wxUDkvMF/gCMbrPZIEsqIViSxOk5FU2V8AAA4K6SHp6VQvZPw+CS7BZfNVd5RQDM9hsagZIpprHujf6711ZqZf8MMmoQLAbp5vYC/psVgfWOA+OhMtvDPFbo49YQslYDDMUHExqcAoa+kL2owTSwJk8GxjW5KntIphtOVzVR7Zr7U+2C04RazqXVBj5uo8P8dlNYMPqZ9tLulsmCdROdBn3jUZYlpVfJZ4YrS1f5+gshIM8BeqmWVmH6Uyg5qee4nHX9jnVLFSeWbMl0h2QEbYYMnAtmayMlBAo6qtk/1YGizYHM/CzaYkLbKahztV8gp5Xl5+SwYtF7j8+maDVuQifE1RQsoPPER5DkDgkNzt02FlVXd2D4VBq1JpG1FUWBJhYFpPTqsmwlAK0qRM3fK6kppExyxqU75asWqH+ZLmqIqGSOBDnTEclksKVuuJVX8li/53RZ8kN5oYIF70j1IgH0tRSo9VIz0yhN5V6uYHZseGua/XGpI77cOC5w==;8PyyS5tsEZU5xrUaAVLvAg=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Israel’s Aidoc raises $110m for AI tech that reads imaging scans"
+    excerpt: "Series D investment brings total capital raised by company to $250 million; investors include TCV Ventures, Alpha Intelligence Capital"
+    publishedDateTime: 2022-06-20T07:17:00Z
+    webUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/"
+    ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 57
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2018/10/Aidoc-Founders-e1539593690908-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Israeli AI Healthcare Solutions Provider Aidoc Raises $110M"
     excerpt: "Aidoc's platform enables hospitals to tackle challenges in the post pandemic reality of nursing shortages, and rising supply costs."
     publishedDateTime: 2022-06-16T21:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Bests Microsoft, Alibaba, Google In Cloud IaaS: Gartner"
-    excerpt: "Gartner ranks AWS, Microsoft Azure, Alibaba and Google Cloud as the worldwide cloud services market share leaders for infrastructure as a service, IaaS."
-    publishedDateTime: 2022-06-15T14:29:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-bests-microsoft-alibaba-google-in-cloud-iaas-gartner"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
-    images:
-      - url: "https://www.crn.com/resources/0272-145c469a1582-b2d7e3cde1bb-1000/aws-sign-2.jpg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "AWS continues to top Microsoft, Alibaba, Google in cloud IaaS: Gartner"
     excerpt: "Amazon is the clear worldwide market share leader in terms of providing infrastructure as a service (IaaS) in the public cloud, besting the likes of its rivals Microsoft, Alibaba and Google. The global IaaS public cloud services market reached US$90."
     publishedDateTime: 2022-06-16T20:49:00Z
