@@ -42,18 +42,18 @@ related:
         height: 960
         isCached: true
   - title: "AI’s Hold Over Humans Is Starting to Get Stronger"
-    excerpt: "It has been an exasperating week for computer scientists. They’ve been falling over each other to publicly denounce claims from Google engineer Blake Lemoine, chronicled in a Washington Post report, t"
-    publishedDateTime: 2022-06-20T04:30:00Z
-    webUrl: "https://english.aawsat.com/home/article/3713441/parmy-olson/ai’s-hold-over-humans-starting-get-stronger"
+    excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern."
+    publishedDateTime: 2022-06-20T02:43:00Z
+    webUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html"
     type: article
     provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 37
     images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
-        width: 400
-        height: 400
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76LPBSHQNQI6ZLAWR67XDFGNPA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "gsXjkE7F0g2yZVB6TIL2fLDUPGkAh4e12AQdjUkj2oJYm1YquNQE+xlgjWxAb1uZasClY33sqLhD0NCdkniDZ6NOph+VDx5OgxL+tDNgfaii6VCtdCGtKucKzxwuyU6dx0DUFfX1hk+ZO/24WIqcSkpztrfcmykNxMheOwP2rdRbujjLCGFRLUNYS/BpM5kezixu06JcmvY+tqtF/VPfgnEPgGoUq4XiM9UsrYIeUIlEsocuZXfQS7g1BBRFW8MUrSwdf6ZSx7eNOwdQn8LNbWSovuDgn4S0rCAPbnZB2lsrmzIrD1SP6zqdzUiah1MfMqRkD4SxxJWyc0W1nwHq3Rz8lhy1x2tooCF7p+a/t5ne1/nl12sAkUe2veKsR5TSnIP6lofCx83xt3HL+QQpZeR6ieTE7j60mbWgCdGUFxoJs9k7J/KoXyo/5bWExfi6T8Oxyvu/13CgxRtiNIZbSvF+BBalOW0/l3sRpCvjJJDhHA9vg0UViN6njBtVayHmt0Nw81uWzPIfUKhaeO7wmA==;rvpNkTXQcrGFeQfBtXfoIg=="

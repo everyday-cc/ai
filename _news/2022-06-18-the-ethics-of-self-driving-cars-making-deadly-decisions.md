@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Paving the way for more level 3 self-driving cars from 2024"
+    excerpt: "The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024."
+    publishedDateTime: 2022-06-20T08:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/20/paving-the-way-for-more-level-3-self-driving-cars-from-2024"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/20/1629608.jpg"
+        width: 1240
+        height: 550
+        isCached: true
 
 secured: "WdoVOgmFqhsQTBv3RoDsGK1qpV0QlRFhgZ7kanhVsGNXfOzsoVbAxJ8RV5mSwKYFCKXrJFR//3hWoy9xSF2AhxqsIlYevYnYB3gRRnDVdhFbidRhAfId6cyQw4FbyxZHzQdi5qvaKlLmRM78SJJrKZYFWlXnCZME7Jg496wvpk9cnxIU0R7aPVc1dO3ZFq0h0jJO/wwWUMqvkJDH8FXWxMsbtlIAzMo8NIt2OTW7Z0eKMa/+MOlMJv191rrTnq1iBt5Pl8U1n9EEkalVzLaPSBofk3XTEUsK4UpTdkuIjqI7FArooiPpMy1wiCvXbL1zQPkSxuRNpsWaZShVJfP+IR+kE00jMzruf0OIFjTLLZ4=;JZljglFRUkzP0ZuiDuKEgg=="
 ---

@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "E-Learning Market to reach USD 645 Billion in market size by 2030, growing at a CAGR of 13%: Straits Research"
-    excerpt: "E-learning refers to training and testing services delivered or shared over the internet. One of the key growth drivers of the e-learning market is increasing"
-    publishedDateTime: 2022-06-16T18:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27750876/e-learning-market-to-reach-usd-645-billion-in-market-size-by-2030-growing-at-a-cagr-of-13-straits-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27750876"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27750876"
+  - title: "Deep Learning Chip Market Worth US$ 21.31 Bn, Globally, by 2027 at 30.0% CAGR – Exclusive Report by The Insight Partners"
+    excerpt: "The Deep Learning Chip Market 2021 Research Report is a professional and in-depth study on the current state of Deep Learning Chip Market. The deep learning chip market has been derived from ..."
+    publishedDateTime: 2022-06-16T15:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-worth-us-21-31-bn-globally-by-2027-at-30-0-cagr-exclusive-report-by-the-insight-partners"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
     images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/06/16203049/Screenshot_144.jpg"
-        width: 521
-        height: 322
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Julian-Assange-Protest-AFP-1K-01-e1650743477227-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "tlkYT4IuAnC2G72QFtGfg3Y61tNxUmz3+ujOGqN7Cg1rSPixBflKdCPcKMz6W1YqZgvllITWNryRQ9Fh6tuUw48M/dYXL5N9Xdt7ZnrHHHN5Cq/XIZsAolC14UTAps55kmtLeDcwIf+TjxkWWPbg1J7MgSfs/hW5q7x+wrj6UCTFCxEJwf/TxezgHwGKzE5Elf5tIi9nnI+CN4Sb8cPI0SMqxL0w0JclYHRw3PxzJrXvgYMc4XGRnJHF/EO6yZR3ocOEvLbZpmb6aRyT29bbNYiWIeYMoe7MvQTsXVNSDOawWHqjoRDCpEfCiVlhXbgl2SbdCfMN8+mSuDCY3mMkXP9csAaogXqDUZpFCcASzWo=;+pBJbNt2/4bz5H/NR1IKrw=="

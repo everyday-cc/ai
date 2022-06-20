@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-africa-61834753"
 webUrl: "https://www.bbc.com/news/av/world-africa-61834753"
 type: article
 quality: 116
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "The robots and AI technologies advancing South African health care"
+    excerpt: "South African researchers and surgeons are using artificial intelligence and robotics to enhance healthcare in the country, BBC News reports. The improvements include a video-call robot that ..."
+    publishedDateTime: 2022-06-20T09:39:00Z
+    webUrl: "https://mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html"
+    ampWebUrl: "https://mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "DmOK1pZeiHupWBAe4MpWEHbfMBwrfuGvxrPG0/j4TnGGd9gueS3V/rx8zeTdI6z1RCAb5kU1PWmtaK+WGMEQaaou4D21kSwb24Nuj70Ya+htmYV1SaiSu/hpr0XDCdVFyV5J9drVfH9iuBsgshauyluHwVxMjOMyDkKCTaS1BJVeILzhob4uka1FYEbjJRpmRfxSUynDHCttrzoAWy1+xUTpET2UeoPgKzFCiyVrTpscuiw4nfHKglgPM4vCDHF3d2ijzmEbqiwSTpUBscGot3VZUSHgYQUrn+p3ctiZ0OTjkMuFJAJsNKp/ISixEAVKSD76E3nJH+5AmkqahNy6caJrqRZ3er9dEze+xV57J1I=;ItY/YyCO0XsNGHlgYVUnww=="
 ---

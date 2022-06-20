@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Microsoft UAE customers share digitisation success stories"
+    excerpt: "Microsoft’s Azure locations in Dubai and Abu Dhabi have accelerated digital transformation across industries and proven themselves to be potent catalysts of economic growth. “AI capabilities, powered by the Microsoft Cloud, allowed us to unify our ..."
+    publishedDateTime: 2022-06-20T07:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-customers-share-digitisation-success-stories-dxmkkixr"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://static.zawya.com/version/c:NDkzZDVkN2QtNDI3NS00:N2ZmYzM3/sayedhashish-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "lyLiRTrUKB7FFIXKPwRhZZiIeppCn8bMF83+kTOhfva71z2rPnTSck2nMgKVMh+IEPBOopsDF7F0IZm6yBsm/fzmxA1r5XEnXNJ+I+vwioY3FZVBJtOFDsB8V8lxFtbTNsElZt4W4ozoLItZuBCgvAbb42QNoAkvVldXuTCnZfDlb9IkTtVU8nTT9rcfQ/ebv7atx4hWefqtl/EKd6tJ2Uw/1p7HtVJy371VzCs7ecN/2ri6eB5VyqWEGpjmX+9rkj4Qjej4JMMAAXDCHdO+38htgGxa36V0bgy/4jg7oSETHMNilwUsBDGPr+ayzdYDnXglDZh0t4B+YxoKyaVw9U2/rsjLEpv3xV7O0AfbVG8=;2hCf1lIZsOOSWerPy/Z6Lg=="
 ---

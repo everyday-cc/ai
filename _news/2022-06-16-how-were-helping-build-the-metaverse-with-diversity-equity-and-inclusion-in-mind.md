@@ -42,20 +42,6 @@ related:
         height: 408
         isCached: true
   - title: "The Industrial Metaverse™ is coming to the Computer Vision and Pattern Recognition Show"
-    excerpt: "Kinetic Vision reveals new technologies at the CVPR show in New Orleans next week. \"If you want to learn about AI, machine learning, or computer vision, this is the show to attend,\" said Rick Schweet,"
-    publishedDateTime: 2022-06-15T16:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/the-industrial-metaverse-is-coming-to-the-computer-vision-and-pattern-recognition-show/article_a33be178-6d96-5471-b252-a3893e247fed.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "The Industrial Metaverse™ is coming to the Computer Vision and Pattern Recognition Show"
     excerpt: "Kinetic Vision reveals new technologies at the CVPR show in New Orleans next week. \"If you want to learn about AI, machine learning, or computer vision, this is the show to attend,\" said Rick ..."
     publishedDateTime: 2022-06-15T17:22:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/the-industrial-metaverse-is-coming-to-the-computer-vision-and-pattern-recognition-show/article_a33be178-6d96-5471-b252-a3893e247fed.html"
@@ -68,6 +54,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
+        isCached: true
+  - title: "Enterprise hits and misses - shoppers hit the grocery stores, AI gets an ROI check, and the metaverse hype machine refuels"
+    excerpt: "This week - shoppers return to grocery stores - are retailers ready for the hybrid consumer? Events season rolls on; Oracle offers tech earnings hope. Transformation turns into lessons learned, and, just in time for the whiffs section - the metaverse gets a $5 trillion hype projection."
+    publishedDateTime: 2022-06-20T09:44:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 31
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
+        width: 425
+        height: 283
         isCached: true
 
 secured: "4TJkQCvjkjKTu7gSdXFVmjsHNLU8nwWxL9nFe0eYp3M/5/ICCxEnMzYXqSmvNdhe4a37WdH3WprMuIkhERGeKLqvA5gVk7F582Cpsn6NZIBPtlP2+DqDstRfzE5S8vgfM+NSEajqJbta/i/ddXHcj5ZKbcQVrU/Nzh8OcQjrhij1Dgcjs0JK3bDZ2xb1jeefzy5l03p8HkhQMsfgsFQQ+yoFv6Y7us83unQjoHybDdL4FAH1NS3YDesLq6yFMMyUVVX2bTTs+AWyZNmhavXn3RvSLBHR9TXNIM4pMnKofIKsaeqZbS+jnWBOZjrBomjFy9YqDOPbIZZP2HksrxhluS/VGVRET2S+ySB5/YahqXCuEZNcgD8++YvhXXv3/RAirHfuP2ap32L0JShoeciq2r48oCm3VJycuWUo+hTUdfAYvVU2LIZ9e+QIL8OenQM7bLgPBv6uFGhNfM8gMKtJ2uM3PsApwghdPXyHTR7j1U7OwXTbrkY0OXvGMNN2zXz40xAWcFsdshTfzlwtrlweYA==;MCkxwOuRaDNFUmfLzpR5Ug=="

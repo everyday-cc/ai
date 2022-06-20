@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -265,7 +265,7 @@
       "originalUrl": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -496,7 +496,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

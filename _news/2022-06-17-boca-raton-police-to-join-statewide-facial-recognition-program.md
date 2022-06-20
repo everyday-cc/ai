@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21271305/boca-raton-police-to-join-statewide-facial-recognition-program"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Boca Raton, Fla., Police to Join Facial Recognition Program"
-    excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology."
-    publishedDateTime: 2022-06-15T16:24:00Z
-    webUrl: "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program"
-    ampWebUrl: "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true"
+  - title: "Cheshire Police to start using facial recognition technology"
+    excerpt: "CHESHIRE Police officers will soon be able to use facial recognition technology to help them identify offenders."
+    publishedDateTime: 2022-06-16T10:44:00Z
+    webUrl: "https://www.chesterstandard.co.uk/news/20214563.cheshire-police-start-using-facial-recognition-technology/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
+      name: chesterstandard.co.uk
+      domain: chesterstandard.co.uk
+    quality: 39
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
+      - url: "https://www.chesterstandard.co.uk/resources/images/13885226/"
+        width: 650
+        height: 433
         isCached: true
-  - title: "D FACIAL RECOGNITION PRODUCT"
-    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
-    publishedDateTime: 2022-06-19T12:37:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 19
 
 secured: "Jges55CIA3vsgwagsvvgFkdGnFTBxAbECzacYqAds1qfHShsXMztsgcNw5zHaz+UE7GBDRKgza/i/trvXNGn/A08ICUOR8knZOWaaiNRKcu5moHDmjiCXqLUcxrIhaUTWwV1hWBMwaii0KQ7karxlkkqPHQgTuGuevmmu8BGD+LdSDEw7yWcQKl2PgiPl1CaF1SFSRJnK9qf84Sbc+zLkRLK8wajus24dy61JfhQGCkxlKl5YPsKMUkRYQyqd5AycvYQJ7GKKYoxkpsGGl+Ks1C5IHRpknmVFnQf9GHZMI+zLRr71xTpEjkW0Xkh5V+1CShDQXew9PJQMLO7fMWycc+ZtfLu2opQKF5CG5n0kjyzZc8DfHQnMTcHHphixl7kBTRgbpw4QFPXE3Oo8XNv+N67nGrhHRLf12sA0NKrVOM+zl14gS9qywqxUe26k0ryJLeWlZfFVOjGZAQ5R5Q/uEk1urIewyzsY2CBPwUUdyzrnrKFtc6satB5Yk7Vl9IhRIV/6FruRSeOOJ7fLMVDRw==;N/kr8vU2DbNkIKTOyYt42w=="
 ---

@@ -34,6 +34,31 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "20/06 – Weekly Fintech Recap"
+    excerpt: "Partnerships Global Fintech Ascenda Announces Partnership with Banque Saudi Fransi to power JANA Rewards Program in the Middle East Ascenda, the global loyalty technology company, announces a strategic partnership with Banque Saudi Fransi (BSF),"
+    publishedDateTime: 2022-06-20T09:54:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2006-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_3.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Register for the BusinessTech Online FinTech Conference"
+    excerpt: "The conference will cover a variety of topics, including FinTech disruption, mobile payments, digital banking, cryptocurrency, blockchain, cyber security, AI, and machine learning. 2,500 delegates ..."
+    publishedDateTime: 2022-06-20T09:39:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/449414-register-for-the-businesstech-online-fintech-conference.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/449414-register-for-the-businesstech-online-fintech-conference.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/449414-register-for-the-businesstech-online-fintech-conference.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
   - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
     excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
     publishedDateTime: 2022-06-16T11:11:00Z

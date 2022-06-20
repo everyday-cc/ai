@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
 type: article
 quality: 61
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ukraine using AI to track saboteurs"
+    excerpt: "Checking for Sara Connorski Artificial intelligence has become one of Ukraine's most \"effective tools\" in identifying potential saboteurs amid the ongoing war with Russia, according to the Ukrainian Ministry of Internal Affairs."
+    publishedDateTime: 2022-06-20T09:57:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55014-ukraine-using-ai-to-track-saboteurs"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1c39fb9022cbb4f20af04c4f04e29c92_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
     excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
     publishedDateTime: 2022-06-16T23:57:00Z
@@ -74,6 +88,15 @@ related:
     provider:
       name: heraldsun.com.au
       domain: heraldsun.com.au
+    quality: 19
+  - title: "D FACIAL RECOGNITION PRODUCT"
+    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
+    publishedDateTime: 2022-06-19T12:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
     quality: 19
 
 secured: "ULtotOV/X4LouaqqaeaJf4rQuVpBcslS4N25z9nzsFcwBy4QdIPF2KtDMTcZvRLu6I17qWdpMIXqBbSJEbB+PiGudfOjTR1eUs8hYtlwSb1wqBa3tZ2V9UtT9ei78SQh/xChFfcvVZpC+WRcaDPM0ziGviVZcKNumTXZDkkYG+dtEf97+RAZA/BAAJtqf8lLk++95DKmA8J513hWit7r/QJj/eJMhUSla0214cblgG5NG8emgzrNHb+sw6OAHw0WDp0lYZQTvJavI7EpPArwe4dxh298Oyq4l2awjv3I7H+Gh2ayCbm2qK/FjCmd+RdnPQENmPSLFtTdxv8u7304Xe3Z56ho4TOuIT4RMH3+BCY=;Ux36QBskIcengK5EgXtyVw=="

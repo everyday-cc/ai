@@ -26,6 +26,31 @@ images:
     isCached: true
 
 related:
+  - title: "20/06 – Weekly Fintech Recap"
+    excerpt: "Partnerships Global Fintech Ascenda Announces Partnership with Banque Saudi Fransi to power JANA Rewards Program in the Middle East Ascenda, the global loyalty technology company, announces a strategic partnership with Banque Saudi Fransi (BSF),"
+    publishedDateTime: 2022-06-20T09:54:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2006-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_3.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Register for the BusinessTech Online FinTech Conference"
+    excerpt: "The conference will cover a variety of topics, including FinTech disruption, mobile payments, digital banking, cryptocurrency, blockchain, cyber security, AI, and machine learning. 2,500 delegates ..."
+    publishedDateTime: 2022-06-20T09:39:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/449414-register-for-the-businesstech-online-fintech-conference.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/449414-register-for-the-businesstech-online-fintech-conference.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/449414-register-for-the-businesstech-online-fintech-conference.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
   - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
     excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
     publishedDateTime: 2022-06-17T12:42:00Z

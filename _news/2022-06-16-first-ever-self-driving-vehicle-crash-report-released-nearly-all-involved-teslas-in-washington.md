@@ -46,17 +46,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 24
-  - title: "First report on self-driving vehicles shows 500 crashes"
-    excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
-    publishedDateTime: 2022-06-18T03:56:00Z
-    webUrl: "https://www.fox13news.com/video/1082992"
-    ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 24
 
 secured: "MG3se7Xg4MNHYgVMTBrPgaeZhQVkZBtMWZ2q76f/zmS2lL2rrpNlEoeUIGVGO6/p1JLKLli4C52dCRvxmDUS5d+wVN65ykhks5u83fsuyyLXrCMDJrlB+rT9CKO0PpY7L3tQZYSpq2sTL8/+TZhCUHoKIHncZKcIX5dcqpcfhKNIP3yRqb6TSsiSzkuCWpPZFoz37dQeM+he12nj7jhnQil1gECNny8sUyRyYl9wLscLJoA0R23o3stUzDCLMA6agP4A8J/r9vnqdnlYy/xpYV4tnswtnyHJcb2U0VMiTzRoPo6MlRUKmcmhALfiUyk2M/v6Zchf4VmOO8ZqU6de7kl02sMGsDXiyXk+FqDUQoB21Kh1+LIaf58F9LovpWL0GnvHcx8vs7b7X4slgfQD32n2Y+yH52omPAbEMOkD3YJUhFOiIW7yPW3HCrkJbWraqBr14xiFuNaGUFzN1Q5XEcFPs9Uo/KJV5pXFEEq+93STvFJi+MEO8jl82a3kT6Ca9R+paVhYT6LIuNc6eTPZKQ==;dPVvINHD/IVtnBlmTeNr1Q=="
 ---

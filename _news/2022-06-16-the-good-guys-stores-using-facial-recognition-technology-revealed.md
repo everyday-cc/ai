@@ -60,6 +60,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ukraine using AI to track saboteurs"
+    excerpt: "Checking for Sara Connorski Artificial intelligence has become one of Ukraine's most \"effective tools\" in identifying potential saboteurs amid the ongoing war with Russia, according to the Ukrainian Ministry of Internal Affairs."
+    publishedDateTime: 2022-06-20T09:57:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55014-ukraine-using-ai-to-track-saboteurs"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1c39fb9022cbb4f20af04c4f04e29c92_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
     excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
     publishedDateTime: 2022-06-16T23:57:00Z
@@ -74,6 +88,15 @@ related:
         width: 1050
         height: 630
         isCached: true
+  - title: "D FACIAL RECOGNITION PRODUCT"
+    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
+    publishedDateTime: 2022-06-19T12:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 19
 
 secured: "ywuLWwY+YM510ZxWY3VPXIBtalMiJBWvrOiV5+GLFK6eyqm9TfGTLU1DNdxDUV9b7BCz4roO+ZIHEBVWOhLH42t+jm2T6gPgtFpEoeb4pT5vkP/iW9eK6Sx137RUALTW777eEFz44cBxyWxLV7a7JG0UTyAT1sDgkiJWM2JG1o9FJ4GpRM0q63Sn4tY8iyXV+IiabBjVBQmPa7XL1qWj7ndCpEED+BahY/i32wrgYPrqT/+IVre3rfRcBgWnU6dFRjqXTLr2Kjf+YjTqkwtZOp/Y7jlWqQVT+rN5jFGL1O8HJ/v2hv5Hf6/EaCE6xtwnEMT9UCg9G7M45yYEeIRq3Biun+tJ2yJEVhnY2laUvNefl6TJgL9eaGiKZaV+HQstueSkxjdl72FpxlZ+/2fdfFcwVACZzjc0Qicfp6d/xc7Q/8EavP52kLYjvTnOCIO4lMA6EbrlNpS/3e5JdXPxpz6QxG7xLv3WZhJbCo/WqkSaZFL/Xfhth/9I8HeqYsDGxPzFF2t0kOeEyz+J3JqRaw==;d7eMHSEPUenH6t5Y3w5aJw=="
 ---

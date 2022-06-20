@@ -1,22 +1,26 @@
 ---
 category: news
 title: "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc."
-excerpt: "Artificial Intelligence in Fintech Market Growth & Trends The AI in fintech market is expected to increase in the coming years due to advancement in technology that is boosting financial service ..."
-publishedDateTime: 2022-06-08T14:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27606557/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27606557/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc"
-ampWebUrl: "https://www.benzinga.com/amp/content/27606557"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27606557"
+excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from"
+publishedDateTime: 2022-06-08T13:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Finance
   - AI
 
-secured: "l/BJc7M8qiIzVVhZrpDruBH3XWtzqQoLUDiFbRE+Lr3YvKpxXuyFkDnDjSQUDGj4Agd3+F5VXBW3yf4FB7HakkTb46EkkP7boXtphwSPOStjNchbDCoLlELqaDzRzXsTcfc52Qy+HL6XKBrq6BDlMSe4OQnOD08vK1eiAnlDTfP6nkrHOEIRp8KSKCWHStkTqjHCySgqqz9xpzRc0kY3sQeIeSGGIbQUxFk4VJ6/QdHryDGtofeQJW9Mmxp3LlU74N9FoIq+ID8nvLJaXracVsYchsG8dm6ZE8HQfME1qGxsmDNyDREj2OhVL2N04SUviS+/u7QfKmNgYKMLFYWzx9gPUQh0t62XrWvFiHfuOsE=;xZkso/S52m4Q+UExYmiqAg=="
+images:
+  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+    width: 1400
+    height: 733
+    isCached: true
+
+secured: "vwBkZAQvZFNmrIBGn5XeDoIuoBnG7lm1xrK1T2XlEe/V++mp361tTu9eH4l2rTvAJOGhwN+FHxfrAwFNh89Tbv/Wopn8IMReDuag5YEZFzw4T+06B7cyszMO5bBFTJAzFciLIi8TGeRyzzP8LE7Hh+ggjoPYocBUVoEVEaV60PCatW8ZkJyexuFMrm/ktmOzahQ7ELC5nYSYFhDLvyXlvW10ZH8y149yqvcp5fthPbbVUAHrXPaLsqpRqPbfTJwAb2KlEC88XQOv4N0XERD77uORC8LYNjREjQ5Wa5tj8S+SakK7NuNaDS/g9QVMEoPWtfR4pDG/lq58SIvLUlBdFZA8X66XyJBzcB8+bN7LrQA=;cNsfiXvTBFZ/4zfAjQHDrg=="
 ---
 

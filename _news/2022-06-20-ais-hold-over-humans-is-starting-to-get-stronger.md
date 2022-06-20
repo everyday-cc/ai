@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI’s Hold Over Humans Is Starting to Get Stronger"
-excerpt: "It has been an exasperating week for computer scientists. They’ve been falling over each other to publicly denounce claims from Google engineer Blake Lemoine, chronicled in a Washington Post report, t"
-publishedDateTime: 2022-06-20T04:30:00Z
-originalUrl: "https://english.aawsat.com/home/article/3713441/parmy-olson/ai’s-hold-over-humans-starting-get-stronger"
-webUrl: "https://english.aawsat.com/home/article/3713441/parmy-olson/ai’s-hold-over-humans-starting-get-stronger"
+excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern."
+publishedDateTime: 2022-06-20T02:43:00Z
+originalUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html"
+webUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: الشرق الأوسط
-  domain: aawsat.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
-    width: 400
-    height: 400
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76LPBSHQNQI6ZLAWR67XDFGNPA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 960
         isCached: true
 
-secured: "EanXKCZkIHGekAYgCACGIDEOF5Fw+amgccJ/ksPQUNotMBUe9RTnZksySHgVLRg1s6ZIEMf62r+LFGYA8VLw28unpRUNB5eULK5MovA8psw2Qdc72RAXPVGlj+ElsI5KpNhqzQwm0q7nCzxdnBSNX83DZYClNCW2jmRewfcdHk3vfpe2o+yDy5sSL/gXOa8dZA4sEIGan2pMeihsbMWNbnupmrCdBVSAIhU6kljcHFbcvuTyh4Hu/1hrnX6PFJjdmlGt1K3DSMF66sU8Iz9+yYWe4MjEbwHEh3qmP6san+jAupK3ituiThyiunHd+Ht/8AngbRoetDKN1Q83eEpwCN3brm6qZpMyVBcE6jEC4pY=;scwJv7nj5ylnqn1CG2Jh/Q=="
+secured: "9ZGT4MlOzd8uGBUZKvAhVr382//qrGBiXa69fscQZdsH8csEDt09QEdz2lz5XbVw+4ZGvsr1qTuk9kQzCs5ASNldoqSO1Ky6p4jycd2ny2jFvu1RWdgxTdnhZbzsiCTt4LW/uOWAYw39Xwo3TkvzNEtnef5oWRvCBkV66ZM3UILJ/aqaZIK21HtVn4XK0DUS0Fe8qPKXfwX7rR9mj+ozZs72RqFHga5mCAFgsg1BTM5hkArElMGYKMCrdNxP+8pZ2WmtHXYfjske/1jl2jAiu2QTEohUdYV66r2lQKWliUnCnmKyoHO7jfbZ+cnD08JSO3IcX80gxu4J1puvGRasjPBSuCLisoYAN7JlVmdWL+g=;HXzSrJLssa6Ys+OBuvi7Xg=="
 ---
 

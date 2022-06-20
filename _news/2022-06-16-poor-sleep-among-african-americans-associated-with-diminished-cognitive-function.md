@@ -57,15 +57,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "meldCX and American Kiosks Take Contactless to the Next Level with Smart Self-Service Kiosks"
-    excerpt: "Features of these kiosks include: AI based check-in, identity verification, object recognition, secure payments, and other operational efficiencies to improve the customer experience. Eric Nebola, President of American Kiosks, says, \"With self-service ..."
-    publishedDateTime: 2022-06-15T16:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/meldcx-and-american-kiosks-take-contactless-to-the-next-level-with-smart-self-service-kiosks/article_7807ea1b-963b-5062-a991-a5cf18948d8f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "3OAFIeJlpNIqkctGSpQmdlWBmNIVfRG68n8Kxr/EKSOxOyZ+VBUh1yVi/SxJXgF8qQE3m+8maxN26c86QyWZRcAjNpWm+KWM0Fyf+UxkL0vQgA830JKuVXD32GKbBQUFppPjQayETSk+fbmnlvdbfUi7RRHsZgj06dKxw5nc3S6ZfMCRMMgBqYx1tfbmbfyu3SDV/G2lcnIPRK5QYh2ic9sY6zqaBlH7z0iIF9L3LLLEJOtKW61RVca9c+504OFCfrFKV5RDFBpcnl2aGcoIYFJiASp7KUBYYS2snCKDloUAaaPTuwkPHk6dNF94IFRKG1wYNIRYtb/YxG8HMZHv7Bh3q5+1ruIcffoQrDu87bc=;vdM6LlZ2pAD8dHZ0K3GeAw=="
 ---

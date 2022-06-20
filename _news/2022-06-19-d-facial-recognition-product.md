@@ -19,36 +19,84 @@ topics:
   - AI
 
 related:
-  - title: "Boca Raton, Fla., Police to Join Facial Recognition Program"
-    excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology."
-    publishedDateTime: 2022-06-15T16:24:00Z
-    webUrl: "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program"
-    ampWebUrl: "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true"
+  - title: "Ukraine is using controversial facial recognition tech to identify the dead and reunite families"
+    excerpt: "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users."
+    publishedDateTime: 2022-06-16T16:00:00Z
+    webUrl: "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    ampWebUrl: "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: Scroll
+      domain: scroll.in
     quality: 61
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Boca Raton police to join statewide facial recognition program"
-    excerpt: "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial cr"
-    publishedDateTime: 2022-06-16T20:44:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21271305/boca-raton-police-to-join-statewide-facial-recognition-program"
+  - title: "Ukraine Using Artificial Intelligence to Catch People Sabotaging War Effort"
+    excerpt: "Police are using software on tablets to see if a person they view as \"suspicious\" is listed in databases, according to Ukraine's Ministry of Internal Affairs."
+    publishedDateTime: 2022-06-15T18:56:00Z
+    webUrl: "https://www.newsweek.com/ukraine-artificial-intelligence-catch-people-sabotaging-war-effort-1716251"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 41
+      name: Newsweek
+      domain: newsweek.com
+    quality: 60
+  - title: "Cheshire Police to roll out facial recognition technology"
+    excerpt: "The technology will be used retrospectively to compare images such as CCTV against pictures held on the police national database. It will also be used to confirm a person's identity if officers believe false information has been given,"
+    publishedDateTime: 2022-06-16T11:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/06/20220615_AMX_US_NEWS_HERES_HOW_BOCA_RATON_POLICE_1_FL.62ab8bc58acfe.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18667/production/_125434999_7b1278fd-ad71-433c-8ca6-c277f7efc486.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Ukraine using AI to track saboteurs"
+    excerpt: "Checking for Sara Connorski Artificial intelligence has become one of Ukraine's most \"effective tools\" in identifying potential saboteurs amid the ongoing war with Russia, according to the Ukrainian Ministry of Internal Affairs."
+    publishedDateTime: 2022-06-20T09:57:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55014-ukraine-using-ai-to-track-saboteurs"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1c39fb9022cbb4f20af04c4f04e29c92_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
+    excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
+    publishedDateTime: 2022-06-16T23:57:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/469301/urgent-need-for-guidelines-around-use-of-facial-recognition-technology-expert-says"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 33
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--vVa9mFY3--/c_scale,f_auto,q_auto,w_1050/4M9Y749_copyright_image_264530"
+        width: 1050
         height: 630
         isCached: true
+  - title: "The Good Guys stores using facial recognition technology revealed"
+    excerpt: "Major retail chain The Good Guys has revealed which of its stores have been fitted with new cameras that capture customers’ “faceprints”."
+    publishedDateTime: 2022-06-15T20:59:00Z
+    webUrl: "https://www.heraldsun.com.au/news/nsw/the-good-guys-stores-using-facial-recognition-technology-revealed/news-story/64c96abeca29d0c6333c600a62c64fd6"
+    type: article
+    provider:
+      name: heraldsun.com.au
+      domain: heraldsun.com.au
+    quality: 19
 
 secured: "N/NmGhlL1P1D2SU0CTi/yH+M/fFnPMTT7kXHwkvfujhMwk27mgzI4rOIjuHhJggSKejs5iQjzSevMdQMW4nVw0HiINmo7ejmeRAPxC4fFYQrOimRwfV+mM2OHfAbH136OiJ4wGt8clzI0szByoq0MOptvBJlQLZmiyN7xAnqRjxCT/h9NHLEPRyyMOLMCiWtK4k2MoE98t0KmnK1tyeFCczaI5CG7gtHXJ/z3oka1jz61uKWI90H6kVB8/zyZWe65ISmXNPRd8oHBMSLanIuUA5oW0ekC9aVDXAipNPgNky3nzv18e2tDwK8nb4FFB3dMVUmN9vbExSWVJ5wDQfC/qHuj2+nF48/Iv1POjS6gVQ=;HguHPuZjAvXJ9aK711sO7g=="
 ---

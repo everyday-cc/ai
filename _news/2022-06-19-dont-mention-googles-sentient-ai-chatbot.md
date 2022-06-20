@@ -40,22 +40,6 @@ related:
         width: 729
         height: 468
         isCached: true
-  - title: "This Stanford researcher isn't worried about Google's 'sentient' chatbot: A truly sentient AI could be '50 years' away"
-    excerpt: "First came HAL-9000 and The Terminator. Now, Google's LaMDA chatbot? Last week, Google suspended an engineer for breaching the company's confidentiality policy, after he publicly revealed his conviction that the search giant's AI chatbot LaMDA had achieved ..."
-    publishedDateTime: 2022-06-15T16:37:00Z
-    webUrl: "https://www.cnbc.com/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/15/ai-wont-be-sentient-for-decades-says-stanford-researcher.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107075897-1655253091693-gettyimages-1397188618-dani1.jpeg?v=1655253114"
-        width: 3840
-        height: 2160
-        isCached: true
   - title: "Should we be concerned about Google AI being sentient?"
     excerpt: "From virtual assistants like Apple's Siri and Amazon's Alexa, to robotic vacuums and self-driving cars, to automated investment portfolio managers and marketing bots, artificial intelligence has become a big part of our everyday lives."
     publishedDateTime: 2022-06-17T14:28:00Z
@@ -151,20 +135,6 @@ related:
       - url: "https://images.thequint.com/thequint%2F2022-06%2F168eac97-c9a1-427e-a86c-dd18f22f97e8%2FiStock_920743540.jpg"
         width: 2000
         height: 1127
-        isCached: true
-  - title: "No, Google's AI is not sentient"
-    excerpt: "Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient."
-    publishedDateTime: 2022-06-15T15:38:00Z
-    webUrl: "https://www.ksl.com/article/50422436/no-googles-ai-is-not-sentient"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 39
-    images:
-      - url: "https://img.ksl.com/slc/2880/288077/28807719.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
         isCached: true
   - title: "Comment: Artificial intelligence will tell us if it’s sentient"
     excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
