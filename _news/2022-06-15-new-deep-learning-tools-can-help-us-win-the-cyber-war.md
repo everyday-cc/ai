@@ -3,12 +3,9 @@ category: news
 title: "New deep learning tools can help us win the cyber war"
 excerpt: "Stronger public-private partnerships and tools that help organizations more effectively detect and mitigate attacks can help the U.S. stay one step ahead in the cyber wars."
 publishedDateTime: 2022-06-15T10:11:00Z
-originalUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
-webUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+originalUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+webUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: SC Media
@@ -18,37 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://files.scmagazine.com/wp-content/uploads/2021/12/GreatwoodColDEC-e1638991220438.jpg"
-    width: 1241
-    height: 745
-    isCached: true
-
-related:
-  - title: "How Machine Learning Can Help Fight Cancer"
-    excerpt: "Cancer is the second leading cause of death globally. Machine learning improves the accuracy of detecting and predicting cancer susceptibility. But how do algorithms work? Let's figure it out."
-    publishedDateTime: 2022-06-16T05:30:00Z
-    webUrl: "https://www.state-journal.com/sponsored/how-machine-learning-can-help-fight-cancer/article_fa2061f4-ed62-11ec-b863-930bda429e1f.html"
-    type: article
-    provider:
-      name: State Journal
-      domain: state-journal.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/state-journal.com/content/tncms/custom/image/756ad790-f8a2-11e8-9f46-7b6b764fb9ed.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Why we need philosophy and ethics of cyber warfare"
-    excerpt: "Cyber-attacks are rarely out of the headlines. We know state actors, terrorists, and criminals can leverage cyber-means to target the digital infrastructures of our societies. We have also learned that,"
-    publishedDateTime: 2022-06-16T13:22:00Z
-    webUrl: "https://techxplore.com/news/2022-06-philosophy-ethics-cyber-warfare.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
-
-secured: "UBRAVseB/v+SgTPnQft31a6aLilvlpDZW50cPJDpRWbzWo0LPJsedX/JpKdbDDc5Ly4tjpRW6roOFYQ2n7YC/YhlIaUU+n+wGl4BRHTrL9Kbv9ho99Gapk55VZ5We2b+Srce/PHLj6WkplPpexV5x3yPYP1zyaVQejEY1DcmMesWGtH7J+1eaNsNc7+kploz1wZT09b+Wupo48VbKh0PLXTou2F1Cc2IdRLsFmmsmsMmcMMxaCvA4xAXQ6ScKj/I+XKeiljmDbG6AW3DB9iXHwAXMFpUmtT0x4QYNpOdongbWIKX2bFaojYfPdIb2ANfSgdE38I5QwwPtqrS5p3MJbeBtLJuwfAFSPaH+iTpSp0Ko2LugZur+5yRK7K5lnXIP5SqAofMiWKFkmD0i87PwCiyAORkXI9/3UA/3oiQtOB7slGnJmyASpKW5TvFqsECaqFXtTHg40hwskskckysrUUhQCOA0Haf4vsLeRxUyk5wbZnzSU6GnracAMKQ2wRKIv2vhOlyOOxhuMqjfXNp8A==;BoCL/HGGEyn6FGgB6XMSUA=="
+secured: "jtZpv7LFVEzV6msCKY0iFGsBdR8mEJ4R+a+c1xyUt5kTHudTIvlFLQydlklTyNk7uct6257F5Kq1fee7HW4uyELIwUAn4JqlYXvMhyLI24oyo+YJrSRNIWhE6UniOWVRi5kHNZw5yGHzCTgrI0uVMXk+z0i490wrFmdKYY7cjgUjSFjCkdK5WGxDUprHyrLyXFIJYl5rleT0NLWZU+t0YxLRJp/4ArlINDGMyQJIxgwwxfhYUlbZvqXNMEKM69uqkcyJ7I00ZORQxjBqZa+hfk5wlcByX2s3Mr/q5qwqspb22BUPGF+fxWvbynuoN44/Hb+gRbrw8lGW+0iAAVNeKg1qwBKwYATJhs0utqLvdZMNm7cGPxd2eUgKrdJo/IshAsj57FpLRijuiqhHYl60xcHFY1lx0YepXIP4u1vb3v42ydH0VNKvfMJcXyBhWBosXqthj9nEBC9w+ZxJ8h9IEuLHU9lRnujclW5WzGvE96Gl7LLFxfrzWBXOBvy2k4ylhGilKeqJ1epNQA3N+5i0+w==;c79KFzq4aTn5dC1hn7mgIw=="
 ---
 

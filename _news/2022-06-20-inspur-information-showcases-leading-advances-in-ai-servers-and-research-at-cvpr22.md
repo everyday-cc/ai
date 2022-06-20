@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Inspur Information Showcases Leading Advances in AI Servers and Research at CVPR22"
-excerpt: "Inspur Information, a leading provider of AI solutions, will attend the Computer Vision and Pattern Recognition (CVPR)"
-publishedDateTime: 2022-06-20T14:44:00Z
-originalUrl: "https://www.01net.it/inspur-information-showcases-leading-advances-in-ai-servers-and-research-at-cvpr22/"
-webUrl: "https://www.01net.it/inspur-information-showcases-leading-advances-in-ai-servers-and-research-at-cvpr22/"
-ampWebUrl: "https://www.01net.it/inspur-information-showcases-leading-advances-in-ai-servers-and-research-at-cvpr22/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/inspur-information-showcases-leading-advances-in-ai-servers-and-research-at-cvpr22/amp/"
+excerpt: "Inspur Information, a leading provider of AI solutions, will attend the Computer Vision and Pattern Recognition (CVPR) conference showcasing its advanced AI capabilities and end-to-end solutions, from servers to software."
+publishedDateTime: 2022-06-20T14:19:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-new-orleans-33ed81731d9a4a26b3ad9a1f1aae020b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-new-orleans-33ed81731d9a4a26b3ad9a1f1aae020b"
 type: article
-quality: 53
-heat: 53
-published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
-
-secured: "7FVDGdgnBG2cgQU+F7eGI8O+fJH5vm5TxyNix97YAHCjmADofqdTBbhfcNnNeZK4d9bAoGjJK2MklfeYRzZus0qBNr8IFUxtJK5in83QtGot0pm1rFJxsUf3j2Vt03B1hV7FK5dUbjMXGK6nOxqFTlGVaPMEPerhP3StMt0xomAsnBP9UTpEtQDLgNKTzga2SJ0cEzQ00qLpZdZbg+WlW9aYLoe5/FxEV8RvTgBhW8iPOGaUlysNNMS6C84WA0JIH1unsxYOXTufiS5+vPDiS14hP3tcnAA+Xv38UkKNXR6n66jb42JkLhHYUXHUIIggUgcySoiXk2mdd0jsAJ7nfurPAD0zUs0sxiA2BFNvC6Q=;rcCJLQy10tS84NMPRVQbzg=="
+secured: "BnnXPD0DGhS/qNJEUKkm77f4RsCEjkV6sAuLAWJSTkiWdYB5PPN3YyNvXr97BFZ4F7FnuerhRL/Xoi5lDhHCc87sUrgnKgIskdi6yi5na1izKdGu5CmpmqFvAwX9V8E3gAW9qVm4ZQ6wFBafDFlNaoG7Kq5ZSTvEYtkuNSaKNwq/zEFLGVlzHG/2V5yaJMQWeN92k1vCleSlyU7tJ1Loyz9mRAXLC4TH8e3cX8r4KT46K8DGcavKoXf5WjwxJq9TnXRNLj4+ST8moE9dHsmuJVgnxrMFJVBH7HwMrs91jUK73AR1TtxuwSVehdNG/RUgyLtgSu7lWy188qVtbUIx+hBGrlPgUi/KaR77odW5vt0=;d99PE4cch1Eh696/Yi24KQ=="
 ---
 
