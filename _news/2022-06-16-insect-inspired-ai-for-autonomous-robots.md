@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-ro
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Autonomous Robots Get Insect-Inspired AI"
+    excerpt: "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,"
+    publishedDateTime: 2022-06-16T15:10:00Z
+    webUrl: "https://www.manufacturing.net/automation/news/22276042/autonomous-robots-get-insectinspired-ai"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/06/Low_Res_AntBot_walking_robot__Julien_Dupeyroux_.jpg.62ab479a05b02.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C21%2C700%2C394&w=1200"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Developing talent in robotics and AI for automated machines in Brabant"
     excerpt: "AI and robotics are closely aligned, with developments for both accelerating in the Netherlands province of Brabant."
     publishedDateTime: 2022-06-16T12:21:00Z

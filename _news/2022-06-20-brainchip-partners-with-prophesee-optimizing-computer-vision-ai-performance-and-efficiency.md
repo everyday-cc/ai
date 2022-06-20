@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -35,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 25
 
-secured: "UGLLCHRLHO3b0KNyccYMdmTlNIlTsU+SLDTGIqmdK9EA8udIZK30dv7wcjYALV73T+gu1CrAcnvoLMwKFxnehxUeZRcNkE5bpR5XWT2KpQwoij3AdcgUjcNxVJVn6ZczjLGY+xpx/hmEbfUZjbSNABMZSReZXXRiwlryoav5bjQaRJmJI2UhiBhwhQQq0RW/s5VdhegWTq0Efe5a06jOLZHRP+7O/epQ5BBwNYcN0Y9cAQfoyg+8erYx9ZOEcNlPVGa0ooA4XXWUyt1Qu5pMpdoojttj+20+NRHvRXuJ7ZZ1FV4x2faeeXoZKbftmLlsa5pnFB8baM3XNIc1jGQX8FinHvg1AU5fa0mMG8fBulA=;9oSA8vm/MFcua8ZGd/FD6A=="
+secured: "k5Dw0TBRwooVcPJB4F2DJHh2S9iOFeSBVi2nznuCGRTIrDgRXrBMRLCh33BFArPuFcE0h4w/5BkuASMJjDlvQDLA2PqnYK7jfxmwgwUbJ6G+jsw09zkNIQzzXe0NiXH+RfXdcQj8IuoFe6IqjtOFownsXkb7bwlpM63LDrv09CYbEh3/P6MIHW5pq+2AiHNTlQ0AMBemPKimnz6zCB84zwrcWN6Sd4fAe7Euf2+YEuGDQeijN3yCqbWOTa25lwa/tptNfEZohjRXtg8SJm0CB17esXX8r73uSBIwh2j4hY18mIWunhyZwLbqzZRNtYu2xRPBn9gYJARnao2Sr6tq6RbOVQfb+UvxYWA5rfO64Oo=;MFkS0fxbVCFfMVXYIEIXJg=="
 ---
 

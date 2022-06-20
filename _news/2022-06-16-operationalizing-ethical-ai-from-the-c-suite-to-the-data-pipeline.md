@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Using Artificial Intelligence In Military Operations"
-    excerpt: "In modern warfare there is a necessity to keep pace with the volume and complexity of data being generated and the US military is turning to AI."
-    publishedDateTime: 2022-06-15T08:30:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/using-artificial-intelligence-in-military-operations-6335.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 21
 
 secured: "ToY51QlgqZhcxgThXUd3IoS3wL/bKb3g1r6Fx0FeIsBSItd0PrbsUB3+HcQ2Z1yt+P6Q4QQ+l1AwWTk4VdAkFI/ISRUo7HuCqkb7ULP/plNwyU6VggDoZHyIldHvhR7MvjUPJGfwfgvhVpaM81qEXg5ItAJHuBjFDeFqeoZGpk6tjR9wR1UKHRK1vmxv2tAZ2sZcgZsE+AOzwAhlbEuQAd1hKJ31MpkzZ7Z3pFbDHChgp6JIpCyH8o69hJEJp6jASi7/mmt1kYnBgAgqvJt3xZxa+Lz+4HKbeM40O89ovcXUZqi4KMM86RXBojUSHZgd8ejOAezZodSzixfKdtR1puYelAccrmMpSBOwLSOtz+DKvUWx2i1TJP19eu8+FA7vZAI6SjYKWMnGtguDnO7ejDGyDnsF9zrDGYORKjTsF1krcXIQItY26rkXKXWAKwZNVQdVJSSfpe+AoCZo8iUC//P7/YgqowhPgrfmuA8cdSACdnY3TNEO9ijUKCNtcyM2khw92+AXbYx8s1x/TRa2fw==;e0RxDZ/pJyWJinarlBgAkg=="
 ---

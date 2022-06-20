@@ -7,7 +7,7 @@ originalUrl: "https://www.theartnewspaper.com/2022/06/16/ai-weiweis-cage-sculptu
 webUrl: "https://www.theartnewspaper.com/2022/06/16/ai-weiweis-cage-sculpture-in-stockholm-takes-on-new-meaning-following-war-in-ukraine"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "Ai Weiwei’s Arch unveiled in Stockholm outside the Nationalmusuem."
-    excerpt: "Brilliant Minds launches new public initiative with unveiling of Ai Weiwei's Arch in Stockholm. Photo credit: Yanan Globally celebrated artist and"
-    publishedDateTime: 2022-06-15T07:39:00Z
-    webUrl: "https://fadmagazine.com/2022/06/15/ai-weiweis-arch-unveiled-in-stockholm-outside-the-nationalmusuem/"
-    type: article
-    provider:
-      name: FAD AGENCY - FAD Magazine
-      domain: fadmagazine.com
-    quality: 37
-    images:
-      - url: "https://fadmagazine.com/wp-content/uploads/unnamed-10-10.jpg"
-        width: 1011
-        height: 1516
-        isCached: true
 
 secured: "Qy/5sZ2lX0CYeJHx+p4x3bZBR+QxRUjCx6QcxZiSWhT+giytEjiW5o65emOo22CymSuDa+zXNhANLI3YVgwA5Ic02F16xTgsvxy0dUPkmgoeLyf8QO4GI3Nibd0aH75bkICAcN75lrIZoXnEaNmoZsU3VsXEpvP7Bgw/Kd0Nrg7CE4NW7oDDIl6U8Lx/VYimi8/h1E2EPIuQp5y2B3kV7K2b4/paV1wJ2lOU6jz2VOiDXWa/F3U8zK/huBakZj8+WlztwTFnPYA585IlUgg+Gf71cgzB9KBbGd7mbU2T0DxdwybHuV2U/RTi7Z470NXj8YO8bdAF2y+6G7wjmkzoLv3gHq1ErEB+BlHkKREvA/o=;ZI5zy5HR26lbjO/JzEbz/Q=="
 ---

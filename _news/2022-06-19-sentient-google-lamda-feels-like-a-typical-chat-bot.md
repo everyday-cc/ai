@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AI Weekly: LaMDA’s ‘sentient’ AI debate triggers memories of IBM Watson"
+    excerpt: "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ..."
+    publishedDateTime: 2022-06-16T11:35:00Z
+    webUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/"
+    ampWebUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Google’s ‘sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
     excerpt: "Or, in the words of R. Zeira, “Return to your dust.” Mois Navon teaches “Ethics and AI” at Ben Gurion University and Yeshiva University. He is an ordained orthodox rabbi and one of the founding engineers of Mobileye who designed the chip powering ..."
     publishedDateTime: 2022-06-16T21:29:00Z

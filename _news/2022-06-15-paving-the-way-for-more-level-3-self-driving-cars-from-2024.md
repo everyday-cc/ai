@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "The Ethics Of Self-Driving Cars Making Deadly Decisions"
+    excerpt: "Self-driving cars are starting to pop up everywhere as companies slowly begin to test and improve them for the commercial market. Heck, Google’s self-driving car actually has its very own driver ..."
+    publishedDateTime: 2022-06-18T00:00:00Z
+    webUrl: "https://hackaday.com/2015/10/29/the-ethics-of-self-driving-cars-making-deadly-decisions/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 41
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2015/10/ethical-cars.png"
+        width: 616
+        height: 359
+        isCached: true
 
 secured: "1y8Mt3mfyvEg6ZWfhHRPoZX2GAaAubELp3FiCbe92cEyHAsmzGKcp/LVy75dLzQqflOIzOJmuwR6GIHw0yGFJXnsOA35K6d4P3b0AKrNcDQo3tUv6ZeT17M9No2ZjX6KCp0nvtyNiaykvdzRuZyt1VADXRtqAHpAIVCCPREC959mpECbDRwjzswS+aoLFzdlIQm9rRGPDY6n+YAMg8i7GL10pASKDdqg0G1Xl4GiR+h++egVcOFkANLskkQkIBxcpkMCx5xgTfZCxGS2X6Az5jrohSfNAQiQ3gQ1breI9XoPaMYf4EDKyao9hv7zc71qrWbi4YrboLFs9X4bSw/UmbRjeSOvO641fy368ukkDSc=;ddNX1Yw9PeV/MxfLzAkpNA=="
 ---

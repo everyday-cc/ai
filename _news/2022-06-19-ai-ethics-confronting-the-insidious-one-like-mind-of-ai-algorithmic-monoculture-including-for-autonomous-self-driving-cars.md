@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confron
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//6282b4794ea6e86efd7eea24/0x0.jpg?format=jpg&crop=1534,862,x0,y79,safe&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "The Ethics Of Self-Driving Cars Making Deadly Decisions"
+    excerpt: "Self-driving cars are starting to pop up everywhere as companies slowly begin to test and improve them for the commercial market. Heck, Google’s self-driving car actually has its very own driver ..."
+    publishedDateTime: 2022-06-18T00:00:00Z
+    webUrl: "https://hackaday.com/2015/10/29/the-ethics-of-self-driving-cars-making-deadly-decisions/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 41
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2015/10/ethical-cars.png"
+        width: 616
+        height: 359
         isCached: true
   - title: "Paving the way for more level 3 self-driving cars from 2024"
     excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"

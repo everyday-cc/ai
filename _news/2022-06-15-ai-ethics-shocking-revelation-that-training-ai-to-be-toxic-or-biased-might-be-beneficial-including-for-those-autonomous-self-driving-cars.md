@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "The Ethics Of Self-Driving Cars Making Deadly Decisions"
+    excerpt: "Self-driving cars are starting to pop up everywhere as companies slowly begin to test and improve them for the commercial market. Heck, Google’s self-driving car actually has its very own driver ..."
+    publishedDateTime: 2022-06-18T00:00:00Z
+    webUrl: "https://hackaday.com/2015/10/29/the-ethics-of-self-driving-cars-making-deadly-decisions/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 41
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2015/10/ethical-cars.png"
+        width: 616
+        height: 359
+        isCached: true
   - title: "Paving the way for more level 3 self-driving cars from 2024"
     excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"
     publishedDateTime: 2022-06-15T10:24:00Z

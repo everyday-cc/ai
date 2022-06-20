@@ -1,25 +1,23 @@
 ---
 category: news
 title: "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ..."
-publishedDateTime: 2022-06-16T12:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
-ampWebUrl: "https://www.benzinga.com/amp/content/27738170"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27738170"
+excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,"
+publishedDateTime: 2022-06-16T12:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "hbX5VoDwLx+Xu5mNgcdcEdoojyTTb0kLdk2moYdaKDngTIn6t5eT7T/8WWmhR7aduc32csF+MLrGuzCklZsCllCBa1v9xwnAMv85mWGzJREQS6lIGq9JP52FhUNY8UmTyRibE907GXUqUa1w5sUGydRyyFjAwoJAivoblg6vX8m29SaogZK2UnNQ1MkMkzy6mNuGm7fH3DuL5OihJ/wZc/Ck/9oO6l93+63SesusFxazfBZbcZnQlO74w34WS4uFWZfBw0MZQUL+oSqxBTiJxrT5x968sf9SbrZYGuVj1zS0iltIXfaKYti08QzB8J+Ytd3u2A0pv+kLqx97bZH2EB58cggJHYKNkAHADzSLP9g=;hFnpAiJkOW5EG/Uhjx2YPQ=="
+secured: "3B/VTGssTppkYa7z5NA2fbWN1fbBp5o/tHyQDBhHvDsy1ziQNw//9LvFATOO9lR9o6rFOyRHmMs+nWTxX3eWarcZ/kT+1Rp3GUUtP6MHSvZTIbYCetWn8QSvlhMrwJ9odj1IpIZe2flzR1JEo42ZJ1L5F8p+Tc/XM2puHNYPV5oC+FlU13GDYcY2gcXa9PZBscbpIzZ+WIwq0via1F5ebBMYEoZY0VGHlVs+ZEYZAEXhxgn7AEozp5p61CchQ4EGrrFmhGsYmjyenSwpL5qu9iZAmqF2NXURNH2SL+SydCbCS8wm9iyEmD7h7tG6reKGmsXuTicjBbQP8Y+qaFEX+RxjBYSf3HtUOvY+7OLlK0o=;igr3vOWbloH776vHOUhIqw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-18T10:54:00Z
 originalUrl: "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry"
 webUrl: "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fshutterstock_1733742608-Protein-folding-hed.jpg&signature=f90a8fd366d297eded59735236f227ae"
