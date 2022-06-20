@@ -20,19 +20,16 @@ topics:
 
 related:
   - title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-    excerpt: "MADRID (AP) — A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias ..."
-    publishedDateTime: 2022-06-15T12:29:00Z
-    webUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
+    excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind’s AphaFold protein database, a joint-project with the European Bioinformatics Institute ..."
+    publishedDateTime: 2022-06-15T12:07:00Z
+    webUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
+    ampWebUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
     type: article
     provider:
-      name: Sioux City Journal
-      domain: siouxcityjournal.com
+      name: WGN Radio
+      domain: wgnradio.com
     quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Princess of Asturias Award lauds advances in AI for 2022 edition"
     excerpt: "The 2022 Princess of Asturias Award for Technical and Scientific Research recognized the work of experts in artificial intelligence Geoffrey Hinton, Yann LeCun, Yoshua Bengio and Demis Hassabis, the organization announced Wednesday."
     publishedDateTime: 2022-06-15T12:02:00Z

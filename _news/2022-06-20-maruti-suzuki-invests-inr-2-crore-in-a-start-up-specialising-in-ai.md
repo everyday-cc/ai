@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
-excerpt: "Maruti plans to use the visual artificial intelligence (AI) platform of SSPL to enhance the digital sales experience of its customers, it added."
-publishedDateTime: 2022-06-17T08:25:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/articleshow/92276837.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/articleshow/92276837.cms"
-ampWebUrl: "https://m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms"
+title: "Maruti Suzuki Invests INR 2 Crore in a Start-up Specialising in AI"
+excerpt: "Maruti Suzuki India Limited has announced an investment of around INR 2 crore in Sociograph Solutions Private Limited (SSPL). The investment is part of Maru"
+publishedDateTime: 2022-06-20T02:00:00Z
+originalUrl: "https://indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983"
+webUrl: "https://indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983"
+ampWebUrl: "https://m.indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983/amp"
+cdnAmpWebUrl: "https://m-indianautosblog-com.cdn.ampproject.org/c/s/m.indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983/amp"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Indian Autos blog
+  domain: indianautosblog.com
 
 topics:
   - AI
-
-images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-22704,msid-92276855/maruti-.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "Maruti Suzuki invests in AI startup with eye on enhancing digital sales journey"
@@ -41,6 +35,22 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2022/06/17/600x338/AI_1_1655443322967_1655443329077.JPG"
         width: 600
         height: 337
+        isCached: true
+  - title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
+    excerpt: "Maruti plans to use the visual artificial intelligence (AI) platform of SSPL to enhance the digital sales experience of its customers, it added."
+    publishedDateTime: 2022-06-17T08:25:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/articleshow/92276837.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-22704,msid-92276855/maruti-.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Maruti invests Rs 2 crore in artificial intelligence startup Sociograph Solutions"
     excerpt: "The country's largest carmaker Maruti Suzuki India on Friday said it has invested around Rs 2 crore in Sociograph Solutions Pvt Ltd (SSPL), a startup specialising in artificial intelligence. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions,"
@@ -72,17 +82,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Maruti Suzuki Invests INR 2 Crore in a Start-up Specialising in AI"
-    excerpt: "Maruti Suzuki India Limited has announced an investment of around INR 2 crore in Sociograph Solutions Private Limited (SSPL). The investment is part of Maru"
-    publishedDateTime: 2022-06-20T02:00:00Z
-    webUrl: "https://indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983"
-    ampWebUrl: "https://m.indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983/amp"
-    cdnAmpWebUrl: "https://m-indianautosblog-com.cdn.ampproject.org/c/s/m.indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983/amp"
-    type: article
-    provider:
-      name: Indian Autos blog
-      domain: indianautosblog.com
-    quality: 37
   - title: "Maruti Suzuki Acquires 12.5% Stake In AI Startup Sociograph To Improve Digital Sales Experience"
     excerpt: "It currently offers services to companies in banking, retail and automotive sectors Automobile giant Maruti Suzuki has acquired a 12.5% stake in Bengaluru-based AI startup Sociograph Solutions Pvt ..."
     publishedDateTime: 2022-06-18T11:20:00Z
@@ -102,6 +101,6 @@ related:
       domain: indiatimes.com
     quality: 17
 
-secured: "ossgrlT6TtSGci0n4KMpqSVHZLsavXrlGaOCKGBimnICzhkvi2VE2kw5QCrDA4OUEpsBYxlPvM2/wSBfpLa7d5JH+vP6WtocF3oV1dK1K1N0d8ChLlMs+4y9oL6ubkhB5RQuWRhEMkoAAJ+niiG6rgXdKx0YEfHKK4HsNMQs6e3hsZh3IGSQCNocQKAKrVV+APpnOgxP6dITaFPf1EpUaCnS3765DBxlfZ5vKJNK8Gt8BxZnSUfgD1GlxzfIew6bMAWYP1Y8GgFkon+5cjJ3ahuT85bTMdM1VeSfZUm2rbcqHrXLBEp9JEMtQIylJ5S5ezU140dybhuckr6zF8DvEDEysxTJ0IDeifQBo0eTv0lNcWZHX+jV486L/g4KoFGxggasSpIWhrjfEZaILhvmr9+uu4I2AR92eKo3Im8JulMUGmP4XVQLVEXXvkKggonDkrFKpaZtOkJMFo0bvxpsR97DfvA5QhWX4jW4ZMfSVaz4xccDEN/4MBf2a3/WZkoysKTpWonpcy6/1mMRiVs9bQ==;va2IcuPBGz745jhZMN7DwQ=="
+secured: "MVg0TyEj3ntBxe/fQZ8zBUHHuBsv9EybKvqXpQM42sZeYr8r8efS/YgcEzJgdBH30ah+Y1LYgmo3HfuXTWlyqHF31CiHYZxICtfRb1lvNEFvSZALp5U8Mz9IkoBCZ5dE7z8WxpFXazakNRkscFuubrr1c+SPtN8lGfZj/dIb07I7LsVJ04ETygWZw82obp1AdgXgV+m/+qcNKhCbP5t+R0ki0kqtVw6g6MQdm6xPMzwbioSHqm4t6VrlHVwBf4C5ihzKCI7mRjOLkKNNaZ9vRD3xJmLHHf9wprXZ6B/EnBKgI2uAhUrcIyEzYJcpij79HXO4FwPI+J563Ghw1AFNmFyLkI6Qu+meG0kBg/a5RAA50jlgp6nH8D05jgaVdpHf6Vp6rGeiaXjd7BW+p1gMlZ+CLp6edUf+OLmoPEiKS2Xus8Uquo6EsGkLSn9C6ZOlAlAWIPLfIhbilZHF6Hda84G0SdCzbxBXtdcsFWmtueUksiYHux6gQGlq0VJ1tms1SGvTUmrxC4Gc2iwpP8gyFQ==;/+FwWaQ8/8Xv6UZulWA1Lw=="
 ---
 

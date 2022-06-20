@@ -81,6 +81,17 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Maruti Suzuki Invests INR 2 Crore in a Start-up Specialising in AI"
+    excerpt: "Maruti Suzuki India Limited has announced an investment of around INR 2 crore in Sociograph Solutions Private Limited (SSPL). The investment is part of Maru"
+    publishedDateTime: 2022-06-20T02:00:00Z
+    webUrl: "https://indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983"
+    ampWebUrl: "https://m.indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983/amp"
+    cdnAmpWebUrl: "https://m-indianautosblog-com.cdn.ampproject.org/c/s/m.indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983/amp"
+    type: article
+    provider:
+      name: Indian Autos blog
+      domain: indianautosblog.com
+    quality: 37
   - title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
     excerpt: "The company plans to use the visual artificial intelligence (AI) platform of SSPL called ... programme since 2019 to empower the mobility startup ecosystem in the country. The Maruti Suzuki ..."
     publishedDateTime: 2022-06-18T04:00:00Z

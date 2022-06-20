@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Paving the way for more level 3 self-driving cars from 2024"
-    excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"
-    publishedDateTime: 2022-06-15T10:24:00Z
-    webUrl: "https://www.carsifu.my/news/paving-the-way-for-more-level-3-self-driving-cars-from-2024"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/06/valeo_lidar_3rd.2232f082736.original.jpg"
-        width: 1024
-        height: 551
-        isCached: true
 
 secured: "WdoVOgmFqhsQTBv3RoDsGK1qpV0QlRFhgZ7kanhVsGNXfOzsoVbAxJ8RV5mSwKYFCKXrJFR//3hWoy9xSF2AhxqsIlYevYnYB3gRRnDVdhFbidRhAfId6cyQw4FbyxZHzQdi5qvaKlLmRM78SJJrKZYFWlXnCZME7Jg496wvpk9cnxIU0R7aPVc1dO3ZFq0h0jJO/wwWUMqvkJDH8FXWxMsbtlIAzMo8NIt2OTW7Z0eKMa/+MOlMJv191rrTnq1iBt5Pl8U1n9EEkalVzLaPSBofk3XTEUsK4UpTdkuIjqI7FArooiPpMy1wiCvXbL1zQPkSxuRNpsWaZShVJfP+IR+kE00jMzruf0OIFjTLLZ4=;JZljglFRUkzP0ZuiDuKEgg=="
 ---

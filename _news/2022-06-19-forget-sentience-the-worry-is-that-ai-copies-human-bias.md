@@ -2,9 +2,9 @@
 category: news
 title: "Forget sentience… the worry is that AI copies human bias"
 excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-publishedDateTime: 2022-06-19T12:07:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp;amp;amp"
-webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp;amp;amp"
+publishedDateTime: 2022-06-19T06:30:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 type: article
@@ -155,6 +155,6 @@ related:
         height: 632
         isCached: true
 
-secured: "tCuRHTpVFQB7sA5h/ftEoCratlner/H5aqmgplzWcE3+t4li0zX/0Sp81ukvUAC1V6FWb/ewArSxPSmLmI/fB23UbPSvHs12fa5AQGu8bRpnkLgtvEWOXsNiEeEV4jl6BgQ3Z9SzP5ACW5BJzBUPxkUnqysaGwvNy1tpMe5KJPakuiqlICliykeabVTiSvs5ptCvjbBPmfofcAmZqXlfs4eFcZzCYHBTCyqQehBZ0dd42KG63N8m61p3KVuT2/jtGvjlUnM/PeC7/Elt2A1PlL6vP3kxPvhuszo9KsB8a7U60eHmVcMfBGmsGRgKbfjGd+tV9S3EMXNswQuE2XsF6zU9z+lPJ58WjpD6D0KolHs=;MgSDkC+/dVdW6fcP2Cn08g=="
+secured: "KZ8InDRftAG74Q53JRpAn/maUYglE8xFnoG01F7exIndh3fxDLaoZA4CigpcsnHBaD+/qhgAVssEWv4OP0tcgncq8fQ2NLl3wuv9kjYqY3j2nc2iK/97iAANA+zCLzApgmHPSuUqNmpXQTOkR5Z5/RHDUZpWdjoOB+om7HFiMNBydFcblQxod9ICcE0mg1Uvj3kEyIuXKy5QGGEcegFcRgoFAM5iOMzU6GDdC2z4WzCbD1mg/L12eIYXk9S7FxDW53ouLmcaT+72R9SC5SA3PjYc5feNE4Ow+2TvyvsftfjOC9VYN3H37UhIWPI1J43KPmQQuF4ppXndSpdr02jrUaEns0f32uUVVkGAkeUBFJs=;1zPh2hBmhcr6VGOXXlv4eA=="
 ---
 

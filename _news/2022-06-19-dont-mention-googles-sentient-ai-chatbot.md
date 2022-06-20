@@ -70,20 +70,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "View from Washington: AI is neither sentient... nor regulated"
-    excerpt: "Controversy around Blake Lemoine's claim that Google has a 'sentient' AI has again highlighted ignorance and the need to monitor innovation more closely."
-    publishedDateTime: 2022-06-15T09:39:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/06/view-from-washington-ai-is-neither-sentient-nor-regulated/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 37
-    images:
-      - url: "https://eandt.theiet.org/media/1688/viewfromwashington.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131196192660000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Artificial intelligence is evolving, can be sentient in future, say PEC experts"
     excerpt: "The claim by Google engineer that LaMDA, a language model created by Google artificial intelligence (AI), had become sentient and begun reasoning like a human being has sparked a lot of debate and discussion around it."
     publishedDateTime: 2022-06-16T01:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/commentary/google-ai-sentient-robo
 webUrl: "https://www.channelnewsasia.com/commentary/google-ai-sentient-robot-vacuum-technology-2750191"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "What my robot mop taught me about the future of artificial intelligence"
+    excerpt: "As the ‘sentience’ debate over Google’s AI shows, we can’t decide whether robots are too clever or too stupid"
+    publishedDateTime: 2022-06-15T15:00:00Z
+    webUrl: "https://www.ft.com/content/4d82d813-8856-48af-a73b-f1eaaaf1689e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "GXB9GqpUqKMIaBFU1Z9N0pArcj+23TvU6N2VcvsUJv32RdVmBYgrU/okyD5QKSWfdc7ROGc2wvlIOcDjbHSiTOlUW+5pT5bT1QiW3eTDIuya3pJE/qBm5WO4ynHSYODOs0125Te3WsbnwtYQprMjUqs299DK1rLsa0qnxpTd1hEM1IcKQG/mNFsbOpJJMOTBtYsSjNHiSUiQte3VUHKHCN0ZqZ8/tlkXztL9DAVxOWabzwN8Zcrq6QO5pxUHfeoEGKQyypdGSSlv30TlplA/rZiUJ2Vl5SGwtQOT69QtS4852HXMI40RuzPdA1rx51PYHXlkCwQTLZMtpymlb2U0HoBKfSy9Y0Q9Qm4ToLDhodVT1AOnkB4a/fiEWjYUFqWX0Myu9HdaKBVOVScX+XJBV7onzSuacuEPu/bB3vfRuZE1YYPcwLURHhBHg1IthnPNcOpomXa+3rrdUSXiyrEWUrdT05eiOJITxNcqm29ymhmKk22woW2Kd1C9XYhpp5w2q1QslyNXPpcr7BZYsulOmg==;sD8Cx3qum8tcq6UfFNv5jQ=="
 ---

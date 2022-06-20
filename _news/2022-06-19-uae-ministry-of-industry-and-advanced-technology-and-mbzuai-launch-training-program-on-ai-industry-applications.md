@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How the UAE is finding an ally in AI"
-    excerpt: "As IT departments steadily promote to the C-suite and Industry 4.0 gathers pace, AI in all its applications is becoming a central priority. At the recent World AI Show in Dubai, industry leaders pored over IT growth,"
-    publishedDateTime: 2022-06-15T09:26:00Z
-    webUrl: "https://www.cio.com/article/401308/how-the-uae-is-finding-an-ally-in-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "UAE to deploy artificial intelligence to improve weather forecasts, assist in cloud seeding"
     excerpt: "An AI framework will be built to combine satellite observations, ground-based weather radar data, rain gauges, and numerical weather prediction estimates to determine optimal cloud seeding timings and locations UAE to deploy artificial intelligence to improve weather forecasts,"
     publishedDateTime: 2022-06-16T13:37:00Z

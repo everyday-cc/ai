@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confron
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2015/10/ethical-cars.png"
         width: 616
         height: 359
-        isCached: true
-  - title: "Paving the way for more level 3 self-driving cars from 2024"
-    excerpt: "DETROIT: The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024. This will enable these vehicles to be certified for level 3 autonomous driving,"
-    publishedDateTime: 2022-06-15T10:24:00Z
-    webUrl: "https://www.carsifu.my/news/paving-the-way-for-more-level-3-self-driving-cars-from-2024"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/06/valeo_lidar_3rd.2232f082736.original.jpg"
-        width: 1024
-        height: 551
         isCached: true
 
 secured: "GXkmEDBCbKIDRhV9lnXM7AtY3/lYSlbThV/r87dDtLoH322wiavzpJ7chw0emA/AFeYZzgw7xvyf1c8O1S4g0nXiBuQMrsCKNkV+8ViuBKABYbyTQYn04zVT2zJ5LB26sxbofiF8+uFKXaqZ1Emm7nBLnivy8Yfw+NHTag4UoKypgaQb4UBkvyTcTlmf3ETxI2QWWRJCp991hlZbx/amPF+nGbMrf8x8y4K4qB/LmXf0lav3w2FISMDpFQUNP63nu9oVrtsWqDRTe8wTBPd2NUc5Yr4k8HuGQsD7MlKYJ5GynIe9iH47cEA0tTEc4+amCxcwK5QiWckpgE+TSbIBxPh4TTKdkifdXI0/VLsgaXg=;fuRS80ZviLPtYkLpqR0IWQ=="

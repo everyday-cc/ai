@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3664089/microsoft-launches-new
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3664089/microsoft-launches-new-ai-powered-viva-sales-tool.amp.html"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 49
-  - title: "SITA launches AI-powered common-use platform"
-    excerpt: "SITA has launched its common-use platform, SITA Flex, at Passenger Terminal Expo. Powered by artificial intelligence (AI), SITA Flex uses Microsoft Azure to give clients the cloud without the need for a traditional common-use environment."
-    publishedDateTime: 2022-06-15T10:24:00Z
-    webUrl: "https://www.passengerterminaltoday.com/news/expo/sita-launches-ai-powered-common-use-platform.html"
-    type: article
-    provider:
-      name: Passenger Terminal
-      domain: passengerterminaltoday.com
-    quality: 39
-    images:
-      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2022/06/SITA-2-e1655288175626.jpg"
-        width: 719
-        height: 343
-        isCached: true
   - title: "AvePoint Adds Microsoft Azure Backup to Enhance Data Protection Capabilities"
     excerpt: "AvePoint (NASDAQ: AVPT), the most advanced SaaS and data management platform provider, today announced the addition of data recovery capabilities for Microsoft Azure. Now, AvePoint’s leading Cloud Backup solution extends protection to Microsoft Azure workloads to help businesses collaborate with confidence across their Microsoft deployments."
     publishedDateTime: 2022-06-15T13:03:00Z

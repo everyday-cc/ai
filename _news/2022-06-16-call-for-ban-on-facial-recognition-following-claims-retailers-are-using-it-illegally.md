@@ -53,15 +53,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "‘Don’t know what they’ll use it for’: Stores using covert facial recognition"
-    excerpt: "Broadcaster Justin Smith says the problem with retailers using facial recognition technology is you “don’t know what they’re going to use it for”. “If they were using it for security reasons, well, that’d be fine,"
-    publishedDateTime: 2022-06-15T10:01:00Z
-    webUrl: "https://www.news.com.au/national/dont-know-what-theyll-use-it-for-stores-using-covert-facial-recognition/video/ff4f62fd2ed35e63976fa710e017ba6a"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 16
   - title: "Retailers say they use facial recognition for 'loss prevention.' An expert explains what it might mean for you"
     excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores."
     publishedDateTime: 2022-06-15T13:23:00Z

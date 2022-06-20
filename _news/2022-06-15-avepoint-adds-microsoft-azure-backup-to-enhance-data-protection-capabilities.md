@@ -98,20 +98,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 49
-  - title: "SITA launches AI-powered common-use platform"
-    excerpt: "SITA has launched its common-use platform, SITA Flex, at Passenger Terminal Expo. Powered by artificial intelligence (AI), SITA Flex uses Microsoft Azure to give clients the cloud without the need for a traditional common-use environment."
-    publishedDateTime: 2022-06-15T10:24:00Z
-    webUrl: "https://www.passengerterminaltoday.com/news/expo/sita-launches-ai-powered-common-use-platform.html"
-    type: article
-    provider:
-      name: Passenger Terminal
-      domain: passengerterminaltoday.com
-    quality: 39
-    images:
-      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2022/06/SITA-2-e1655288175626.jpg"
-        width: 719
-        height: 343
-        isCached: true
 
 secured: "IMgcEgSzxmF8KrUgDu8vXZsDr91ZjDejGlC3bmOYHRjHGeuwypNmlE6sCskX5fF77JSaXm+F78tsITyczgq4PBLCi9m7w6yu88KP6WLPMQvsjWycpjNQDDkm4pJZBYqFPMzGR067GvP280H8rd6m6WXYe6XLLRI5YaGDP6ScypX8cl/GjJO1gA64bzKeQ2NCoy26swpR+uVoyFfoZhtkZzSKOoPAQHIZ2wa5hZwYZ2iTReuwNSDIRWAyz1IrKc+tFsKAuSY8kUsrImjCm1/0LiYUCtnLvGICBO9usaqDdVhGgQBj7XjmycwWDHxZ7MFlNA3x0H/0rBnrlVk7vDP5/W4d9o99khfbzMyU1N63UAc=;yi0buIpBbj4u9+TOq5GfIQ=="
 ---

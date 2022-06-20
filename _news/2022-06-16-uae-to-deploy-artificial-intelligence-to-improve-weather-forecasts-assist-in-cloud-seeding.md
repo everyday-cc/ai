@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How the UAE is finding an ally in AI"
-    excerpt: "As IT departments steadily promote to the C-suite and Industry 4.0 gathers pace, AI in all its applications is becoming a central priority. At the recent World AI Show in Dubai, industry leaders pored over IT growth,"
-    publishedDateTime: 2022-06-15T09:26:00Z
-    webUrl: "https://www.cio.com/article/401308/how-the-uae-is-finding-an-ally-in-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "UAE Ministry Of Industry And Advanced Technology, And MBZUAI Launch Training Program On AI Industry Applications"
     excerpt: "Professional training program on AI implementation in industry aims to help accelerate the adoption of 4IR solutions in the UAE industrial"
     publishedDateTime: 2022-06-19T07:23:00Z

@@ -35,20 +35,6 @@ related:
         height: 628
         isCached: true
   - title: "Dr Jitendra announces Artificial Intelligence supported ‘Common Single Pension Portal’"
-    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today announced that the Department of Pension & Pensioners’ Welfare will soon launch Artificial Intelligence (AI) supported “Common Single Pension Portal” for the benefit of pensioners and elder citizens."
-    publishedDateTime: 2022-06-15T10:54:00Z
-    webUrl: "https://www.dailyexcelsior.com/dr-jitendra-announces-artificial-intelligence-supported-common-single-pension-portal/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 29
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/06/DARPG-2.jpg"
-        width: 3674
-        height: 1258
-        isCached: true
-  - title: "Dr Jitendra announces Artificial Intelligence supported ‘Common Single Pension Portal’"
     excerpt: "Union Minister of State (Independent Charge) Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today announced that the Department of Pension & Pensioners’ Welfare will soon launch Artificial Intelligence (AI) supported “Common Single Pension Portal” for the benefit of pensioners and elder citizens."
     publishedDateTime: 2022-06-15T21:45:00Z
     webUrl: "https://www.dailyexcelsior.com/dr-jitendra-announces-artificial-intelligence-supported-common-single-pension-portal-2/"
