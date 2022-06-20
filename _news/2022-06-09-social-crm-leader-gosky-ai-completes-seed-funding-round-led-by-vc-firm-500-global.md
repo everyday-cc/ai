@@ -2,26 +2,24 @@
 category: news
 title: "Social CRM Leader GoSky AI Completes Seed Funding Round Led by VC firm 500 Global"
 excerpt: "GoSky AI announced today the completion of a seed funding round led by 500 Global, a leading venture capital firm. Investors in this round also include the Co-Founder & CEO of ThunderCore, Chris Wang,"
-publishedDateTime: 2022-06-09T15:06:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-business-social-media-1786801c6ac768a50baaab0bcd5dfcb2"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-business-social-media-1786801c6ac768a50baaab0bcd5dfcb2"
+publishedDateTime: 2022-06-09T15:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891"
+webUrl: "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
   - AI in Sales
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "WIrSpevpUCT43/y16T6IZzaYlGIfWg36lw9OhJqKhcRn0In9hDT2kyR0OlPiHMwFFXa+9g9YCAX9yxJ1hDsKKZgYx3oFgqsxU0rYTm+eIDRke59rIO92QixO3AslmjqcVCbPGrlNDxntYXwEFSKz+c6hGJIQrncETqNhV1dpmtDqkHP0b9fcqXdA5oNg1DjAtmzVJTVgMBhDXpLkGtCV4xjc5I8EVxGvkxRLh+Zk7yN4pxKT+CWqkRtiLeNLOZOyLZ8CdbZmiJdnqo47B/w1rj3UYdSCPVO+yRBJzwKQ54/tXccDZRSb/gQ83NXruySwcTCOrTyU1Uns88oURZvxWeT3GA2ZldtOFAgE1gILgCk=;JCMfmY2JSyRd6rWxksqHuA=="
+secured: "X58l/ut3AkYBB+bOAlkRHMTWzCU2wYnyW7pMec3DjpwZNJZDfI4ZQba81Q4+UaHK0FVDsK9K38vwe9bIfGQ1xJKhQ44bsn5RCubJqQhWJ2x3JHt3UOawuIuW04uEhO2afWQNXJ/gAobmTGYCQy1lx+kycA2Mscn9SWYney2r/JtKfnOKArF/5kSAI2I/Q+Td17JJW/tGZi6LbGfkrJ35SbRRFoaRcofrjFj30Mgsme2gOhgQNIwM1W/ULUJPboQ6w2jNtY0V12y508GOnQCoeiEqF2pqXRk2wDZaoE93Y3MCO6h05fe2F+/NrFTsQrTVn2pb3NS+dOrNwcEtnjktnKSNqUVD3JGVaxzG2f8IGBU=;6DGfZTzM1rz70aABWBHDcw=="
 ---
 

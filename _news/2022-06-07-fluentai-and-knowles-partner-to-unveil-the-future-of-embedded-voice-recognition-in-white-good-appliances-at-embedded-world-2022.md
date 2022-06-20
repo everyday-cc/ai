@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Fluent.ai and Knowles Partner to Unveil the Future of Embedded Voice Recognition in White Good Appliances at embedded world 2022"
-excerpt: "About Fluent.ai Fluent.ai Inc. is a Canadian speech recognition software company founded in 2015. Fluent.ai's mission is to voice-enable the world's devices, allowing everyone to be understood by ..."
-publishedDateTime: 2022-06-07T15:17:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56248536-fluent-ai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022-399.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56248536-fluent-ai-and-knowles-partner-to-unveil-the-future-of-embedded-voice-recognition-in-white-good-appliances-at-embedded-world-2022-399.htm"
+excerpt: "Innovative small footprint embedded voice recognition on Knowles’ AISonic™ Audio Edge Processor revolutionizes the smart home white goods user experience while reducing BOM costs for manufacturers NUREMBERG,"
+publishedDateTime: 2022-06-07T13:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-knowles-corp-business-voice-recognition-fab53fc920190412077696a4a0cddb73"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "QkKkvDlTMIxOhvpd/TJo/HeFAzYcJ/roo4aQqxNhdDfZ11uSBJsGCEI+2RnXj/1g3Z97T+G+yripnVoRUV81Ryn3IGJb6WhvBBrSYqTuPH1MeZaZguyrnqU+aMCSkvNusQUeU4cuerC2DcMd+cPpyhuOX3OGkvJ7T4fbZTMT5HMzeN47QTTvScimYidb56a09hH5aKY7bZ6tk1/1qzhmUzF2PkraMT7bQaR/+Te2fR4N1+vjLfgLzOu59aQdzBh6/bMtFcAsJof3Ao8erGkoRa8aOTgTrZIyH8ZNaLLtugomcUepId191zj2QsrDS39wERspLgGipRRqq7l+np8V2eRoatj9evwb6tg4td7hi5E=;FFtbx9VCQhXamMugokZuZQ=="
+secured: "9qxSM/VjSMbTOVr6FocesvobMmihq518syHkH/bOTpvAu1lpffEcUFCc15oiKMPWxBwrmSnAqHzFHUCYJmsApj7Lt+qMx/Jdgu8ed89pnqUs0TM4a8iLTTSNmYYFYmfWkit6VsIblBEORcw+hDQqr1QoWHma08MLDlrtC5b0M85Np3OYWxEaKVAYWHKyHLA8lSmbZ2Hi68rO8boyudvUFnJpchZowphvGq1OUX1yov+lN3SD9B9uEbUPxAD0AIq/GLgBDM2BRN+w4df7IVSBQoH99k5qumJOp8uu+lV5eaKrAMHF19TWph8rHKUBnNPqapSJq9YH39ZNwlBqY6xzZ+2AVja0h+WxVP1QrqONDco=;uUvahEPHfxbagDc6b6OyUw=="
 ---
 

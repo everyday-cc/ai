@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/1-415.jpg"
