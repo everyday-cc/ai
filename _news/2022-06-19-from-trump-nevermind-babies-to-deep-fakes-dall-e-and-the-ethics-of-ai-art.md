@@ -2,11 +2,13 @@
 category: news
 title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
 excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-publishedDateTime: 2022-06-19T00:37:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
-webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
+publishedDateTime: 2022-06-18T19:02:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
 type: article
-quality: 32
+quality: 72
 heat: -1
 published: false
 
@@ -19,8 +21,14 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "Everything to Know About Dall-E Mini, the Bizarre AI Art Creator"
@@ -29,6 +37,22 @@ related:
     webUrl: "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/"
     ampWebUrl: "https://www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/"
     cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Dall-E Mini: Everything to Know About the Strange AI Art Creator"
+    excerpt: "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturb"
+    publishedDateTime: 2022-06-19T22:58:00Z
+    webUrl: "https://www.cnet.com/culture/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/"
     type: article
     provider:
       name: CNET
@@ -81,6 +105,6 @@ related:
       domain: dallasnews.com
     quality: 15
 
-secured: "L2DG0KQdGLbSpQJ/C2E+jctOSd6zHhhxgvpd35LNSqdzsdD8hQcEiJOJnQvN7POPbDzD/WH2B8kFLBiNw135JseM6FFqbTaXn2w427vyqvk1/Wq9alvkhA/NK8xdooIQluBCTbODmD0p3hjcXy0U1al+Dxf4xYo0asM4fzJO+rt/oyemfWx7wnG4SzM2qsN7ZyOi+l7I/QPZBCk+a7w+SGXG26eZXKbqMxtfKwWbW4SPsaBrsSSjkGlgSD0JSa/Y3vpCrgJqmayPQRfODiLjrnZVAz6xnDdCfzkG1+DvZ2AM3kjwzvsRFznPW20iYf2DDbvAW8IYjuenBajjhzXVVE/DlCWEWN/xqgw0X0bh4DxUTNA75h0/bvD4w0Ows8whweM3zJKw2dbY0uFAFJ9y5X38wLgx1Q3/9Zh4uT1zqD0cwHX4Y7yCg13vUIrMgFPlAeZwJtNk5MtYJLpFLWgNxJmR77XBe4mB7VR5ILe7AgR6r8ID8RFWOpwm0zlhw1e0dnXk29orr8tUCscEKSzqxA==;tgdXKKy+6p+qPfJfbjHroQ=="
+secured: "Z/QhsA/TjIzwVScnRf9I1FX09WzNolUiipxhsOq3gMuSXddneUGK+ebEK+5kOyA9tRdx0fYKDntogTOrxOCc+NMFSKGeXtQcUbGyZPGBDehwjnwR+Ilv6EEY2UCiZy7puP2wUTWyByMNj1Xh/LIANsHdKjLTWkogLQbwZXE+c3BlY5EivhdbMC4j3svqGKVu9YogZPxJRvHZNaqd+bXqUlZOBjMGGJcVZ7wEJDu3fSgLT1Ve+8r2NlbGNNXqbE+JMJqwV0Ur/5YvPg4xnEBsWc1YUgpBNz2LCXZ7OkBlGf1luBxD6WfUuTaeCNj8L2JT6tfbNEAKLUX56K30413LEOCN/KL58Deb7SigSLtjx44=;Wk3ThLLy2zuscLMeDzDq0A=="
 ---
 

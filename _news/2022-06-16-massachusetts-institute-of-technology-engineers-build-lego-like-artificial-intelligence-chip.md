@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Education Diary
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "MIT Has Made A Lego-Like AI Chip That Stacks To Upgrade Your Device"
-    excerpt: "MIT engineers have now developed an AI chip resembling LEGO as they intend to create modular and sustainable electronics."
-    publishedDateTime: 2022-06-15T06:08:00Z
-    webUrl: "https://fossbytes.com/mit-stackable-ai-chip/"
-    ampWebUrl: "https://fossbytes.com/mit-stackable-ai-chip/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/mit-stackable-ai-chip/"
+  - title: "We Asked an AI to Design the New Massachusetts State Flag"
+    excerpt: "Sometimes, however, the AI produces some truly beautiful results, and it simply boggles the mind that we now have a tool capable of bringing dreams and nightmares such as these to life, right at our fingertips."
+    publishedDateTime: 2022-06-15T17:45:00Z
+    webUrl: "https://www.bostonmagazine.com/news/2022/06/15/massachusetts-state-flag-ai-dall-e-mini/"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 74
+      name: Boston Magazine
+      domain: bostonmagazine.com
+    quality: 37
     images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/06/MIT.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2022/06/dall-e-c.jpg"
+        width: 900
+        height: 903
         isCached: true
 
 secured: "Wy1tSz0M9OzERIH+yv4OLX7/j2JmKoj10CrvePg9JDBj+CwINzfrHl8fK3c4CQvSJxt5/GdHel30w+PCsOcCTsm25h8S9kOo8DYA9gPo1u5ezfEmBAPvurN9eioJu5zUOdSFxaXw/ra5mSuES/J+xEgdGAJQlg8eaUzKr+Cjm3s0E9zfY0+eAHKpjB5QmW1D93E+iGud9mKTzmo2DNndKzYXFb1walwNCWpF02O8ssn4VPOxeorsL9ZA1hicgNmVvdDaHqNdTn4xipSID8pU++uV0bGeRiV0yQYGvqtGtZJl1Be9MH5P+VDiNY0KzLZIBxQsy8/M8nUWK/tEqA+jjqWNItrvAVEa19MKITMQJrDKPSE2KxHFbOFb86I7le5pgdLD9g8OyEjIhkLhYsiJ6mqxcRFzHOoxcmFz3obaib9i5yijibfqPauINO+5f69Jt/d+JWKDA0cDJeHGFpTMqk1Mc6RQnBjf8R9a0uWpvmsn+eEm82OrIYK+14SrzYTdcRWuK8soyOdZnkv/hiau4A==;+4ip4UR3C65Van+8FTsgEg=="

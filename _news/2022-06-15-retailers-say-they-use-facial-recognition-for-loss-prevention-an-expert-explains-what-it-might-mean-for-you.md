@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Australian retailers deploy facial recognition as privacy laws stall"
-    excerpt: "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint."
-    publishedDateTime: 2022-06-15T06:43:00Z
-    webUrl: "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/"
-    type: article
-    provider:
-      name: Innovation
-      domain: innovationaus.com
-    quality: 54
-    images:
-      - url: "https://www.innovationaus.com/wp-content/uploads/2022/06/CCTV_Camera_800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Facial recognition technology used at retail stores Kmart, Bunnings and The Good Guys raises major privacy concerns"
-    excerpt: "A leading consumer advocacy group is cracking down on a \"creepy and invasive\" practice used by three major Australian retailers."
-    publishedDateTime: 2022-06-15T05:29:00Z
-    webUrl: "https://www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35"
-    ampWebUrl: "https://www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/business/finance/facial-recognition-technology-used-at-retail-stores-kmart-bunnings-and-the-good-guys-raises-major-privacy-concerns/news-story/45a4171370ec3a35da508c63f2f02b35?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 52
-    images:
-      - url: "https://content.api.news/v3/images/bin/a50514ba0e9927a8982d6d412e1cf112"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Australian retailers using facial recognition without consumer consent in stores"
     excerpt: "Consumer advocate CHOICE has revealed that three of Australia's largest retailers are using facial recognition technology in their stores, often without shoppers realising that they are being ..."
     publishedDateTime: 2022-06-17T00:08:00Z
@@ -91,6 +61,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "‘Don’t know what they’ll use it for’: Stores using covert facial recognition"
+    excerpt: "Broadcaster Justin Smith says the problem with retailers using facial recognition technology is you “don’t know what they’re going to use it for”. “If they were using it for security reasons, well, that’d be fine,"
+    publishedDateTime: 2022-06-15T10:01:00Z
+    webUrl: "https://www.news.com.au/national/dont-know-what-theyll-use-it-for-stores-using-covert-facial-recognition/video/ff4f62fd2ed35e63976fa710e017ba6a"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 16
 
 secured: "Y+aexDZlFBlox0k25ziskdr4uBHsQZxlH/uefK7yy5/qLY/3C32V3Ls6ybRPaD6MCkVjhLSzwefFM3hFxLOqxxsKRoY8+TYKX4ZVRg8t9DZVZRA0GcM2elnXIy2s430CCqeOMWBzJCmuijJmviQljjW5vP+Y8+GOekRFTALwmg3RP8/8WcCclrv5zJajni3kbu77FBz02sq5y+eQkSb+c2ZvD17ZDWHaJ9+CIaeN2bvES8BDFigh34+oM5QoiRF3BSIIV0xjrWl+2DXAm1IKCkVsW1soVtcXnfyhUVcTV0ypl81w1dOIbJLAYCHKvhv8VIf71cXdtGp2mtU7MwqfLCDkmNoKnFA37VUWtvodBrSvuUzduRMxTVUt7AnAfyMmZ/33mLP+PibmOwgn2+aGbMj6jwepKQvc4oyimyjyiUocQ5Z9sH6JxQmD/HQbzwtPSqagThK+B2uQBtZ9VALcnVO9KK0CNCAXTiS6AuY4BZ4iJaWG7HFpdbbvpuR3nR0l5gIa1mjEzC8U/puc8afJNA==;571JGb0rDf0rkuxDE8ytSg=="
 ---

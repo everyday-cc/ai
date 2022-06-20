@@ -70,17 +70,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Google says its artificial intelligence is not sentient"
-    excerpt: "Artificial intelligence researchers say the debate over whether Google’s LaMDA chatbot is sentient is an unfortunate distraction from more pressing issues in the industry."
-    publishedDateTime: 2022-06-15T05:58:00Z
-    webUrl: "https://mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/448954-google-says-its-artificial-intelligence-is-not-sentient.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 37
   - title: "View from Washington: AI is neither sentient... nor regulated"
     excerpt: "Controversy around Blake Lemoine's claim that Google has a 'sentient' AI has again highlighted ignorance and the need to monitor innovation more closely."
     publishedDateTime: 2022-06-15T09:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/red
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/reddit-acquires-machine-learning-platform-spell/92294205"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

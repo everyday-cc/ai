@@ -1,28 +1,26 @@
 ---
 category: news
-title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-excerpt: "MADRID (AP) — A Spanish foundation recognized four scientists Wednesday for their pioneering work in artificial intelligence. The four were named recipients of the 2022 Princess of Asturias ..."
-publishedDateTime: 2022-06-15T12:29:00Z
-originalUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
-webUrl: "https://siouxcityjournal.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_93b8cf76-1892-51ee-a303-5671a54eca9e.html"
+title: "AI Pioneers Honored With Spain’s Princess of Asturias Award"
+excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
+publishedDateTime: 2022-06-15T12:05:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
+webUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Sioux City Journal
-  domain: siouxcityjournal.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
+  - Google AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Princess of Asturias Award lauds advances in AI for 2022 edition"
@@ -44,6 +42,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "v6b+N4hUQ+NuVAr7ERIWNy/GMIrwokb/lak0a9AXP/WG/Pwy/3iIcS+fo98g1C9nT1JLCSlpG5nWt8kBe0ZipdTQAkY1hYUUoY2q2lo0Ouy9fNamYBmE8FM290km7XoTXdTZoUMMBSgiwqJI0bdbOgzvJexmO/9F4v8DGlnG+JmMNZ2+FxQkbBn32rAOIcgHalDO6KooJkJS7opouSPpmkFeo6VHmrhx3H6ZDq8qD1uc7IaLrGhXp06hB57iMcmT8uPaaFeRzDA0eqySDztxTBsvoj5OSYYAjVbTKdjezPMo4Gpxa5HR/4y+5bFstRX0a2VsXL9kc/w7x5EGNC4vO1IuqUl0qYPc983N9JxIU/w=;ZPKfgqhRMEi/sA4tHOdVsQ=="
+secured: "tdwvQ5HkdpE2TRWwC/ahb+BwhY/V3RLhq7qvvo8jge6YWw9TLHt8K+WQ53rmsk7jR+99+BmD3HJUl9CP5kUpHZLCPU6xX2h4GxN2lSzhINhYEyP9gSg7fVpwFBZPj7HjZ6DZtfHsbJpDcPIFRxrFFn7+D+Ax/KSt1sUETn68ui/Wa64P611wF+DQ7yslWkdsxk5mO+9g/fhQTXzyoIFyuziC+ex2a7DvQCBhnkcP7N16USful6MRQKCYzYfGXKMGILrUM9aUQeqVURf/F2pL6NzouZyl9iuj/FOForG5GAVKAxEaCVIftfbn7xPCOdLLmGl1Fy6mEuHSpQ3triT4AVm4Jk9iqZ6RfOJtDflKa/M=;GU1ezC0ZThlVfzkMcTMbMQ=="
 ---
 
