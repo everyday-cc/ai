@@ -55,6 +55,24 @@ related:
         width: 891
         height: 594
         isCached: true
+  - title: "Clinical research and drug development accelerated via analytics"
+    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
+    publishedDateTime: 2022-06-21T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Seven top search shifts on Bloomberg's AI-powered Research Analytics Platform this earnings season"
+    excerpt: "Analysts use the Bloomberg’s Document Search and Analytics Platform to quickly retrieve company information and understand how the key themes are impacting their coverage. Our AI-powered search analytics in DS  is continuously being enhanced to make it easier for analysts to find the insights they need to conduct their research analysis."
+    publishedDateTime: 2022-06-20T04:00:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/seven-top-search-shifts-on-bloombergs-ai-powered-research-analytics-platform-this-earnings-seasons/?tactic-page=597225"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 33
 
 secured: "qo89YsRLLJQN9uofXcq3WDijOqIO8Y31GkJNItyFQmaC67t5PMFzkiDxP8d7AA2WcTdugpAnqIUvwQpKAgWTbX6us5RyPxURTcrVZ8BFbsjZ4o6d369Gui1m0zxh+S2pWKAeAChS5S0KMC+rhTAEoNm3TVfg0Hwxb/LmtAH2G3Tyij+0DGmFftpC7A1W+o8rZj2MGeCXZrd5UW9LT5MVcIituqY9LbsVd2X1vdn4mDmgG+/9wWNb6SQR6WuNL1/uHzMqcBtvGL8mpCYXnrWVKdJ6TuSFS4oxdXO/qZgyG2TWqZceb1yK7lgamfJX43rr8MHvvWVucfs4WI8oJ9PPmTKYDva606O0aIOSW3EWqF8=;RElGIANIS+z+xC/jOXnJ+w=="
 ---

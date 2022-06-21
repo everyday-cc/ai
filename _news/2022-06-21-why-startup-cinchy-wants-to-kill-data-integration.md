@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:46:00Z
 originalUrl: "https://venturebeat.com/2022/06/21/why-startup-cinchy-wants-to-kill-data-integration/"
 webUrl: "https://venturebeat.com/2022/06/21/why-startup-cinchy-wants-to-kill-data-integration/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: VentureBeat

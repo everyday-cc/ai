@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Google’s ‘sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
-    excerpt: "Or, in the words of R. Zeira, “Return to your dust.” Mois Navon teaches “Ethics and AI” at Ben Gurion University and Yeshiva University. He is an ordained orthodox rabbi and one of the founding engineers of Mobileye who designed the chip powering ..."
-    publishedDateTime: 2022-06-16T21:29:00Z
-    webUrl: "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan"
-    ampWebUrl: "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp"
-    cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp"
-    type: article
-    provider:
-      name: Jewish Telegraphic Agency
-      domain: jta.org
-    quality: 69
-    images:
-      - url: "https://www.jta.org/wp-content/uploads/2022/06/06-16-2022-Golem-copy.jpg"
-        width: 2149
-        height: 1200
-        isCached: true
   - title: "Should we be concerned about Google AI being sentient?"
     excerpt: "From virtual assistants like Apple's Siri and Amazon's Alexa, to robotic vacuums and self-driving cars, to automated investment portfolio managers and marketing bots, artificial intelligence has become a big part of our everyday lives."
     publishedDateTime: 2022-06-17T14:28:00Z
@@ -93,8 +77,8 @@ related:
         isCached: true
   - title: "Forget sentience… the worry is that AI copies human bias"
     excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-    publishedDateTime: 2022-06-19T06:30:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+    publishedDateTime: 2022-06-19T12:07:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     type: article
@@ -106,22 +90,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
         width: 620
         height: 372
-        isCached: true
-  - title: "What if an Artificial Intelligence program actually becomes sentient?"
-    excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
-    publishedDateTime: 2022-06-21T09:12:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-    ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 57
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/398145d/2147483647/strip/true/crop/352x198+0+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F28%2F45fe1feb404281cf5e1d1a65ecd0%2F2022-wrd-boise-flyer.jpg"
-        width: 430
-        height: 242
         isCached: true
   - title: "Don't mention Google's \"sentient\" AI chatbot"
     excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."
@@ -151,6 +119,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "What if an Artificial Intelligence program actually becomes sentient?"
+    excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+    publishedDateTime: 2022-06-21T14:12:00Z
+    webUrl: "https://www.wuwm.com/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    ampWebUrl: "https://www.wuwm.com/health-science/health-science/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/health-science/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 37
   - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
     excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
     publishedDateTime: 2022-06-19T13:43:00Z

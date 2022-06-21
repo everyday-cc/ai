@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-sta
 webUrl: "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-state-of-managed-security-services-2022/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -24,20 +24,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
-    excerpt: "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ..."
-    publishedDateTime: 2022-06-16T19:30:00Z
-    webUrl: "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 56
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
-        width: 860
-        height: 520
-        isCached: true
   - title: "Advancing Cybersecurity Awareness in the Healthcare and Public Health Sector"
     excerpt: "Tetra Tech applies AI and automation tools at the U.S. Department of Health and Human Services to increase outreach within the Healthcare and Public Health community."
     publishedDateTime: 2022-06-20T16:47:00Z

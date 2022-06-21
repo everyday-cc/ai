@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:00:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/shifting-priorities-thrust-data-connectivity-services-to-the-fore-832363411.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/shifting-priorities-thrust-data-connectivity-services-to-the-fore-832363411.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: PR Newswire

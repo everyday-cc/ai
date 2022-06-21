@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/red
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/reddit-acquires-machine-learning-platform-spell/92294205"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/a-14.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Reddit acquires Machine-Learning platform, Spell"
+    excerpt: "With technology and expertise from Spell, Reddit will be now able to move faster to integrate ML across their Product, Safety, and Ads teams"
+    publishedDateTime: 2022-06-21T14:17:00Z
+    webUrl: "https://www.socialsamosa.com/2022/06/reddit-acquires-machine-learning-platform-spell/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 24
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/06/3-1-1.png"
+        width: 803
+        height: 419
         isCached: true
   - title: "Reddit acquires machine learning platform Spell"
     excerpt: "Spell team members will move to Reddit and work on ML projects like how Reddit customises ad placements and keeps its communities safe."

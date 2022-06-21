@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T12:05:00Z
 originalUrl: "https://www.just-style.com/analysis/machine-learning-hiring-levels-in-apparel-fell-in-may-2022/"
 webUrl: "https://www.just-style.com/analysis/machine-learning-hiring-levels-in-apparel-fell-in-may-2022/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Companies

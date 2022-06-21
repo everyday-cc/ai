@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/return-to-learn-four-ways-to-use-ai-and-machine-learning-to-improve-reverse-logistics/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/return-to-learn-four-ways-to-use-ai-and-machine-learning-to-improve-reverse-logistics/"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: Forbes

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:43:00Z
 originalUrl: "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557"
 webUrl: "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: marinetechnologynews.com

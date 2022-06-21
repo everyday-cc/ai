@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ven
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli AI Healthcare Solutions Provider Aidoc Raises $110M"
-    excerpt: "Aidoc's platform enables hospitals to tackle challenges in the post pandemic reality of nursing shortages, and rising supply costs."
-    publishedDateTime: 2022-06-16T21:04:00Z
-    webUrl: "https://nocamels.com/2022/06/aidoc-healthcare-ai/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/06/jut-350x233.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Samsung Ventures invests in Israeli AI systems and semiconductor company NeuReality"
     excerpt: "More than just a chip company, NeuReality’s comprehensive solution includes hardware, software and tools that work together to simplify and accelerate AI deployment. The company currently employs more than 30 employees and plans to double its size and ..."
     publishedDateTime: 2022-06-20T11:59:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T07:46:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27788975/artificial-intelligence-ai-in-drug-discovery-market-report-2022-2032"
 webUrl: "https://www.benzinga.com/pressreleases/22/06/g27788975/artificial-intelligence-ai-in-drug-discovery-market-report-2022-2032"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Benzinga.com

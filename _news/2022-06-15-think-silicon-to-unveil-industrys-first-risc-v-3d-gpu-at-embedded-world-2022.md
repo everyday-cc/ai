@@ -15,6 +15,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "D7LvTdpoA/TsSnUc3l8TcOTv0lnZzO+n/McyJE4AafMyeAqZbE3cIjr3zVAEXQIXC74oDc9hSk7/xzg8PnaZslux2p6nfubsGlE5K5J/W+k+EiMAV3sjQuv0Jfof2paFVlx6BalGifT1eZyqU+aq22Bo0zjPl2o0QQ/AcARmrTQ7vuNObaKAJ0nIIkD76LVeDYmmds0q9oWY6szNzmvK55sGiVJjYktCUBdXphaYPfL96xTaNOqB+hyf0Bmb7eSC9UuEhcDZSguPg6Onl7Y/N9uur0mWRg9ibOKx1op/tVVOq8CpzavNuEZNUWsHuWVY7VycSjaMGiyKizFo2fj7HLHv7Y3vKCE67nRijh+mb7E=;w1thduuRTezAZFZJ1EMlew=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313"
+    width: 600
+    height: 313
+    isCached: true
+
+secured: "bTG8pVIkimV4Oq7vsKSzQTb2lG56640gKHrI2bKWohHM9064XzqIW3KcHZ/2sYRAaZfRbGZyU5XfExnPnoL+SPzY6B5+7qkDHIooqabZPyoXMqENL8pGcEOrMt7GuFm2+zPSM3jCsdP+oc8AoUitCsvCgyTUtuckGFv0B0x1adT0vg1NeOhxORCNke1zlwNrRcb/IWYNetIYo1FW1I/zVFEL+u4RLAGbqs0PjkGPQHWLU0LTXU0Slk96AGyXiDqHxkdLGP6b66eNCJnR+vZI8ibcujtTl2tWDpvQtMclJ6+HlSqTLhZD76HxrdE0qiJfyzPciwlYb5anS/S+uptCQopvQpwnW/8KHdmGLEOfoVU=;p3U6JPS0p7z2z/KMGxaVuA=="
 ---
 

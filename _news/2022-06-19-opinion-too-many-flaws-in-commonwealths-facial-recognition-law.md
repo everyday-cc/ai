@@ -34,7 +34,7 @@ related:
     provider:
       name: Connecticut Post
       domain: ctpost.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
         width: 1800

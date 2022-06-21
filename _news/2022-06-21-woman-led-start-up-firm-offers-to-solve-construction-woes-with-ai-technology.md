@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T11:34:00Z
 originalUrl: "https://businessmirror.com.ph/2022/06/21/woman-led-start-up-firm-offers-to-solve-construction-woes-with-ai-technology/"
 webUrl: "https://businessmirror.com.ph/2022/06/21/woman-led-start-up-firm-offers-to-solve-construction-woes-with-ai-technology/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: BusinessMirror

@@ -41,29 +41,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "Microsoft and Meta join Google in using AI to help run their data centers"
-    excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
-    publishedDateTime: 2022-06-18T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 63
-  - title: "AWS continues to top Microsoft, Alibaba, Google in cloud IaaS: Gartner"
-    excerpt: "Amazon is the clear worldwide market share leader in terms of providing infrastructure as a service (IaaS) in the public cloud, besting the likes of its rivals Microsoft, Alibaba and Google. The global IaaS public cloud services market reached US$90."
-    publishedDateTime: 2022-06-16T20:49:00Z
-    webUrl: "https://www.crn.com.au/news/aws-continues-to-top-microsoft-alibaba-google-in-cloud-iaas-gartner-581400"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__Features_20211207121924_cloud_1.jpg"
-        width: 1183
-        height: 887
-        isCached: true
   - title: "Microsoft & Meta begins testing of Artificial Intelligence to assist in operating data centers"
     excerpt: "I run the compute in multiple large scale datacenters. This is such a silly sensationalist article. There is nothing \"AI\" about this."
     publishedDateTime: 2022-06-20T01:30:00Z
@@ -78,6 +55,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Futurum Research: Start looking at Microsoft and NVIDIA for the long run"
+    excerpt: "Futurum Research analyst Daniel Newman argued that Microsoft (MSFT) and NVIDIA (NVDA) present long-term buying opportunities at these levels, given their exposure to key parts of tech."
+    publishedDateTime: 2022-06-21T13:20:00Z
+    webUrl: "https://seekingalpha.com/news/3850061-futurum-research-start-looking-at-microsoft-and-nvidia-for-the-long-run"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 18
   - title: "Microsoft UAE Customers Share Digitisation Success Stories On Third Anniversary Of Local Data Centres’ Launch"
     excerpt: "Microsoft customers today shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE d"
     publishedDateTime: 2022-06-20T12:13:00Z

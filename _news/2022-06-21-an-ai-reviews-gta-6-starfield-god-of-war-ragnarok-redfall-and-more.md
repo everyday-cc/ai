@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:41:00Z
 originalUrl: "https://www.news.com.au/technology/gaming/an-ai-reviews-gta-6-starfield-god-of-war-ragnarok-redfall-and-more/news-story/aa6e1a3c2d6fd93c9530e15c467f2a95"
 webUrl: "https://www.news.com.au/technology/gaming/an-ai-reviews-gta-6-starfield-god-of-war-ragnarok-redfall-and-more/news-story/aa6e1a3c2d6fd93c9530e15c467f2a95"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: News.com.au

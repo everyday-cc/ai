@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:37:00Z
 originalUrl: "https://www.marketwatch.com/story/blacksky-shares-up-41-after-joint-artificial-intelligence-center-contract-271655818690"
 webUrl: "https://www.marketwatch.com/story/blacksky-shares-up-41-after-joint-artificial-intelligence-center-contract-271655818690"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: MarketWatch

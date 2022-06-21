@@ -49,6 +49,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Reddit acquires Machine-Learning platform, Spell"
+    excerpt: "With technology and expertise from Spell, Reddit will be now able to move faster to integrate ML across their Product, Safety, and Ads teams"
+    publishedDateTime: 2022-06-21T14:17:00Z
+    webUrl: "https://www.socialsamosa.com/2022/06/reddit-acquires-machine-learning-platform-spell/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 24
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/06/3-1-1.png"
+        width: 803
+        height: 419
+        isCached: true
 
 secured: "8gmIicXUzLtfjzbuOg7aI6WsX5R1qZucH7O0G+sBaGXFod2S9c4qsup+S5y0fCUDVP73OhjLdDrZpqAhHkL+E1tlFhpux1cQx60XIti0y3yBJfYR+zSyHc6aJBnKay2evng/FkLE/i/JFqil8MxTDuXIwuy0wvLE3itYe6Hd76QnT25W5Qk6s/GPnxwZhNkwBbhq3UuLMoomyL9OigEXwzGqaz+WDSsXfOdujPoseSZsvtnpvapmeEIxAv+pb1Q3+t5YnhIVKFDr+0Z9rbN4DJWmJdfDVPjKZFRX8koC0F3KwnIFKB660KA8zfmhYTWJxeIknebwsgOo4hud5Edh92aRNWlyUlalAK7OChr+Ya0uKa6JDkfBo2dMK4ipcGV49c2lV6pWn/0HOzcFeAlR/a3e4LSPC7KCoLMBsIwDAoWrwGYW8ftFhxYnguJCMU849dBeg7fnmw9cpLMt3SNdy5CqQiSRcfazZxWDq7wDkE+kyWxBPlivGsJOqWIE+y+bkwUZRQuxYqyh7PtNSePPCg==;hUAs0JMR8ppfNO/actsKkQ=="
 ---

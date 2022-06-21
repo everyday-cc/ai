@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-20T22:24:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-20-establishment-of-asia-pacific-artificial-intelligence-association-aaia-women-committee"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-20-establishment-of-asia-pacific-artificial-intelligence-association-aaia-women-committee"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:

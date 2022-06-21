@@ -7,7 +7,7 @@ originalUrl: "https://twinfinite.net/2022/06/ai-the-somnium-files-nirvana-initia
 webUrl: "https://twinfinite.net/2022/06/ai-the-somnium-files-nirvana-initiative-review-detecting-excellence/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The Somnium Files – nirvanA Initiative Review"
+    excerpt: "AI: The Somnium Files - nirvanA Initiative brings another twisting and unpredictable murder mystery to the table."
+    publishedDateTime: 2022-06-20T20:47:00Z
+    webUrl: "https://cogconnected.com/review/ai-the-somnium-files-nirvana-initiative-review/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 39
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2021/07/AI-The-Somnium-Files-nirvanA-Initiative-Mizuki-crop.jpg"
+        width: 890
+        height: 520
+        isCached: true
   - title: "AI the Somnium Files: Nirvana Initiative review - one of the best visual novels ever made"
     excerpt: "It’s clear that a lot of time went into improving and working on the dreamscape exploration that debuted in AI. The first game had high moment-to-moment variation with many options on how to use ..."
     publishedDateTime: 2022-06-20T17:01:00Z
@@ -52,6 +66,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Review: AI: THE SOMNIUM FILES – nirvanA Initiative"
+    excerpt: "Back in 2019 players were introduced to AI: The Somnium Files alongside a colorful cast of characters that ended up creating a memorable murder mystery. It felt like it could have stayed as a one ..."
+    publishedDateTime: 2022-06-21T12:00:00Z
+    webUrl: "https://hardcoregamer.com/reviews/review-ai-the-somnium-files-nirvana-initiative/424080/"
+    type: article
+    provider:
+      name: Hardcore Gamer
+      domain: hardcoregamer.com
+    quality: 17
 
 secured: "il9jMjLaSQZNUcERH0Ot+Xz3dP5OzOglwSEkBiMRMPz5IUnxl6VeyVh6vzrxFnZtbCkFmAeRQjKPJlHFmSamsWUApoHTbcQA0Oq5kdEYI9xze4J8X6IBHAor2yrEjGAJVbCUiSApvtpdJChW2XqydCf+IXcbHe4pAf/iS9OhbpfdHi7cerKY7yeEUdBX/EXI5va/RTfX5EuuIGF996I7hvwtSJIQ5zcrkYVJfbROnoIK/1uDy/SGk28xXn86HAvhrqjlxhU3OUOXCYgOmTAw+wHFzy+dR78y4nidMEpYdQQKLXop9wseHN79sp0BHaxMz+dMOMZhwfGshvn0P2eHRz8cdddRlXpS623vwEMaldMM4N1bMMvdxQ8B0NgVW7F58r2HF1W4pFIsX2W3Ia7ZlHXsWlIAU6GFzy/jyAzWJf3cfpYA7Jr9Bbqu8fOEAdWbcCjc+nF3KVIV8ou1s0CmyT8urxMAkpwVytjN2YXe00igqS7Oy4stkOBnIOr5is55aB5pLKOoklrhr1nKp6gFyg==;mBJ5RKNyJ5JjrmG5QTSGnA=="
 ---

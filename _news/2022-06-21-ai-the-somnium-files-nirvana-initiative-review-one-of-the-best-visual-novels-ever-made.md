@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The Somnium Files – nirvanA Initiative Review"
+    excerpt: "AI: The Somnium Files - nirvanA Initiative brings another twisting and unpredictable murder mystery to the table."
+    publishedDateTime: 2022-06-20T20:47:00Z
+    webUrl: "https://cogconnected.com/review/ai-the-somnium-files-nirvana-initiative-review/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 39
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2021/07/AI-The-Somnium-Files-nirvanA-Initiative-Mizuki-crop.jpg"
+        width: 890
+        height: 520
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative Review – Detecting Excellence"
     excerpt: "Image Source: Spike Chunsoft Six years ago, ABIS (Advanced Brain Investigation Squad) detective Ryuki and his AI partner Tama were assigned to the so-called HB (Half Body) case. At present ..."
     publishedDateTime: 2022-06-20T17:01:00Z
@@ -52,6 +66,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Review: AI: THE SOMNIUM FILES – nirvanA Initiative"
+    excerpt: "Back in 2019 players were introduced to AI: The Somnium Files alongside a colorful cast of characters that ended up creating a memorable murder mystery. It felt like it could have stayed as a one ..."
+    publishedDateTime: 2022-06-21T12:00:00Z
+    webUrl: "https://hardcoregamer.com/reviews/review-ai-the-somnium-files-nirvana-initiative/424080/"
+    type: article
+    provider:
+      name: Hardcore Gamer
+      domain: hardcoregamer.com
+    quality: 17
 
 secured: "HVw3n46BI555StevaJvxECQXdSxq1eUtfC1ieH6StBMo+RjI89iVXnPkXIkEb/+vzyIlSZ6wGEdHWnyvEVDoiBo7O4lSejjW8iYh0cl22oQO3DTJoaCu8yj4QIaTV7XurKWwwtN0dcfpyycjFUQRE2+ULQnGYPSAsp3X5MgBV8wm1/VRlxXwSo04x5pE3sFwC+L+58GiIVHkYDmMg5S8kWx6xjL9qd9jyCtRCexUdkqLVsPUaK2DLzJD5/J9v8IgbO8CdyBbNUDpzaNe9IYt8Pq0fheiiNCbLPeMYVuanoR/zTnMMvv1jJiibVdAZPIHmOnGPpGPxQJZ76axK/Nf8LP/11fj1Q1OjZlvBJ8KxBs=;0kv5QF7OeNCTRdC/F+WVKw=="
 ---

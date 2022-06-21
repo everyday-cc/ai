@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The Somnium Files – nirvanA Initiative Review"
+    excerpt: "AI: The Somnium Files - nirvanA Initiative brings another twisting and unpredictable murder mystery to the table."
+    publishedDateTime: 2022-06-20T20:47:00Z
+    webUrl: "https://cogconnected.com/review/ai-the-somnium-files-nirvana-initiative-review/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 39
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2021/07/AI-The-Somnium-Files-nirvanA-Initiative-Mizuki-crop.jpg"
+        width: 890
+        height: 520
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative Review – Detecting Excellence"
     excerpt: "Image Source: Spike Chunsoft Six years ago, ABIS (Advanced Brain Investigation Squad) detective Ryuki and his AI partner Tama were assigned to the so-called HB (Half Body) case. At present ..."
     publishedDateTime: 2022-06-20T17:01:00Z
@@ -52,6 +66,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Review: AI: THE SOMNIUM FILES – nirvanA Initiative"
+    excerpt: "Back in 2019 players were introduced to AI: The Somnium Files alongside a colorful cast of characters that ended up creating a memorable murder mystery. It felt like it could have stayed as a one ..."
+    publishedDateTime: 2022-06-21T12:00:00Z
+    webUrl: "https://hardcoregamer.com/reviews/review-ai-the-somnium-files-nirvana-initiative/424080/"
+    type: article
+    provider:
+      name: Hardcore Gamer
+      domain: hardcoregamer.com
+    quality: 17
 
 secured: "D3zl9fWmHr4I0C9Rexb6/oT8WrPY8GN0dBFsZD55JK2blWVVwJWlmEB02YLwVzHK4i1FMbCmFtnv6VcTRfHbLSU8zCU+JGbSemuLRf3wB/hrsLv1lmnLd98pRquAvZqL/IEu5tvVAZsyAb+8dmQwqfGMecmm1rT12QOSvTampAPEKFg1DANcgNJIRis4p+l0EQFSuWWnokgVdplmjIP8YTN/ojG4vD0p9A9v3VnpLOepwfV1DyPf7yB3M064Gly/E7lj6JW3tl6/GsMZichv5m0181YrngSMIfZIpKpLzyeRDwDKZBxdMSG4zk3OhRXQ0297BnNCgGvu9mrCBGAlWhCu6wVGYiztAk912SA1ymI=;D0b2i6t3mkhbQ6/l65ZcNw=="
 ---

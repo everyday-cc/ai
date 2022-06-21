@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/transpara-breast-ai-strong-clinical-evidence-evolves-into-real-life-screening-use-1031540162"
 webUrl: "https://markets.businessinsider.com/news/stocks/transpara-breast-ai-strong-clinical-evidence-evolves-into-real-life-screening-use-1031540162"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Business Insider

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-19T20:28:00Z
 originalUrl: "https://interestingengineering.com/autonomous-robots-should-think-like-bugs"
 webUrl: "https://interestingengineering.com/autonomous-robots-should-think-like-bugs"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Interesting Engineering

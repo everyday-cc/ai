@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T12:01:00Z
 originalUrl: "https://www.lawfareblog.com/preparing-national-security-officials-challenges-ai"
 webUrl: "https://www.lawfareblog.com/preparing-national-security-officials-challenges-ai"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Lawfare

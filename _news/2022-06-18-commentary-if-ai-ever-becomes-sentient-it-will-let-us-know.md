@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commentary: What my robot mop taught me about the future of artificial intelligence"
-    excerpt: "Debate whether a Google-created programme is sentient demonstrates evermore potent AI, raising big philosophical and ethical questions, says the Financial Times' Gillian Tett."
-    publishedDateTime: 2022-06-16T22:00:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/google-ai-sentient-robot-vacuum-technology-2750191"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 48
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--sVQE3aAY--/c_crop,h_430,w_765,x_1,y_24/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/d75bec9e6093aabc5211627ed5313b145c217284.jpg?itok=8b8buM-M"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Comment: Never mind if it’s sentient, AI’s still concerning"
     excerpt: "Even so, AI’s influence on our daily life is growing. As machine-learning models grow in complexity and improve their ability to mimic sentience, they are also becoming more difficult, even for their creators,"
     publishedDateTime: 2022-06-21T08:30:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:45:00Z
 originalUrl: "https://theprint.in/ani-press-releases/niit-awarded-the-transformational-platform-for-professional-learning-in-new-age-technologies-at-the-digital-leadership-conclave-2022-by-dataquest/1006216/"
 webUrl: "https://theprint.in/ani-press-releases/niit-awarded-the-transformational-platform-for-professional-learning-in-new-age-technologies-at-the-digital-leadership-conclave-2022-by-dataquest/1006216/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: ThePrint

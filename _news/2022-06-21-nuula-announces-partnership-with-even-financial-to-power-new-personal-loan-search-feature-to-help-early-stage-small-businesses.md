@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T12:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nuula-announces-partnership-with-even-financial-to-power-new-personal-loan-search-feature-to-help-early-stage-small-businesses-1031539807"
 webUrl: "https://markets.businessinsider.com/news/stocks/nuula-announces-partnership-with-even-financial-to-power-new-personal-loan-search-feature-to-help-early-stage-small-businesses-1031539807"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Business Insider

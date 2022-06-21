@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/karlfreund/2022/06/21/d-matrix-ai-chip-promises-efficient-transformer-processing/"
 webUrl: "https://www.forbes.com/sites/karlfreund/2022/06/21/d-matrix-ai-chip-promises-efficient-transformer-processing/"
 type: article
+quality: 64
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI
   - AI Hardware
+
+related:
+  - title: "BrainChip Partners with Prophesee Optimizing Computer Vision AI Performance and Efficiency"
+    excerpt: "Inspired by human vision, Prophesee's technology uses a patented sensor design and AI algorithms that mimic the eye and brain to reveal what was invisible until now using standard frame-based technology. Prophesee's computer vision systems open new ..."
+    publishedDateTime: 2022-06-19T21:20:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/06/19/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 24
 
 secured: "bgCoK5Kql/nfnvO+D7Rp+GLSj+4VpgvyYd0PTO/yZA3mZ3GbLZXlpMlTg394VhxMTd0t1GQG3wzU1sEjMQIWxh2/ioLTG7OOl4qIQng0cns9bpr1943wdycfI9m7qvrwJKGAyTpnPvt5cyD8IyBPCiP5ze9mtHb+JPIFp5zozrwCvV1fCu2VmloeFpvnU75bF7RCEm+M0iH5Vs0o9lBsUMlC1SsghTq2nWpgT9yL88x9LGX++M86+jU/q/1ryWkxhQrHJn8ziJNXRC17KVGQnALdaK0u31ncY31kjQMXKJ6lr7lbFp+NgZbuTRu+3juBeCj4Mg6rb/fEKm24I0bwR7HY8RDR0AJR1MBeu7mwp9LUWdYlk2L40eBDHPtDchdeZJgqrmKAGVJqa90SofTIbMpgaSxSiChr/AZxRkn5d6R1KomL/k6n00wunOIb04kNYBsVqTKPPSnp1blfTcGfznuyUBnHCsP5djxFQN5ZAt5FaS8B9m0l3RWGg+m0ldOT2vSp7StPOcR2Nw5i0q2brQ==;FzDXJ2VJ6oVjkJCRyYVo7w=="
 ---

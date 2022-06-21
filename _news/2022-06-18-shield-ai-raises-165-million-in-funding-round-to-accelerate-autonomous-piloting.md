@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Lightning AI raises $40M in funding to streamline AI development projects"
-    excerpt: "Artificial intelligence startup Lightning AI Inc. today announced that it has secured $40 million in funding from a group of investors led by Coatue. Index Ventures, Bain Capital Ventures, First Minute Capital and Mantis VC participated in the round as well."
-    publishedDateTime: 2022-06-16T21:02:00Z
-    webUrl: "https://siliconangle.com/2022/06/16/lightning-ai-raises-40m-funding-streamline-ai-development-projects/"
+  - title: "Idoven Raises $19.8 Million in Funding to Redefine Detection and Precision Medicine of Cardiovascular Diseases with AI"
+    excerpt: "Idoven, a pioneering health tech company advancing early detection and precision medicine of cardiovascular disease, today announced that it has raised $19.8 million in funding. The funding consists of a $12."
+    publishedDateTime: 2022-06-21T14:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/idoven-raises-19-8-million-in-funding-to-redefine-detection-and-precision-medicine-of-cardiovascular-diseases-with-ai-1031540550"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/1.png"
-        width: 850
-        height: 486
+      - url: "https://mma.prnewswire.com/media/1844305/Idoven_Logo.jpg"
+        width: 400
+        height: 250
         isCached: true
-  - title: "SortSpoke secures $4.5M to bring its universal AI document processing platform to enterprise"
-    excerpt: "SortSpoke, the most advanced and easy to deploy AI solution used by enterprises to extract any data from any unstructured document, has announced $4.5 M in funding led by IDEA Fund Partners, SixThirty Ventures,"
-    publishedDateTime: 2022-06-20T13:58:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/sortspoke-secures-4-5m-to-bring-its-universal-ai-document-processing-platform-to-enterprise"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 6
 
 secured: "UWg9pFgWq8JuTxIGpIVQP+FazhIw/qkSwGFpt5Ra7lerX61HagOrvgcXc8cArmHPDtIgnEqcs6yO53dt7Wj3pdekn9TV5VSdAAe6Timnys+OuN9F9zVERUSh9LWfgzhs/zL/dQVH8CT1lw+M8vyUO/4zunn8WOiKKWKNAOiZkTS7uM5gXkjFFN1SqHZwVBYPgeXbcjWKly7CnzID+tgo34wHkTWGAlnMz1y48nOp3JhcyAZTtGKjzlA38GjB7gL/ruzpqEfD9EndfJjxQo/PcEN0Wj2aamKGhJrHNkODue5/Bg5HX986b9uNPoBASW0Def7ZQ9yyXTIhkrxIhX9bKEre02p8IRwmNpDj7UlFfXE=;Z+7BdcW7oz0OWFF6CR6ntA=="
 ---

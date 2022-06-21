@@ -7,8 +7,8 @@ originalUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-
 webUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Independent.ie
@@ -39,6 +39,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Ai Weiwei: Yours Truly exclusive screening at Glastonbury this weekend."
+    excerpt: "The most personal documentary ever made about Ai WeiWei will be exclusively screened at Glastonbury Festival 2022 this weekend ahead of the documentary’s release in the UK."
+    publishedDateTime: 2022-06-21T13:10:00Z
+    webUrl: "https://fadmagazine.com/2022/06/21/ai-weiwei-yours-truly-exclusive-screening-at-glastonbury-this-weekend/"
+    type: article
+    provider:
+      name: FAD AGENCY - FAD Magazine
+      domain: fadmagazine.com
+    quality: 17
 
 secured: "c2Zv2uZAHwy+0rJS5zQ6h5H6T3ndnh+alfUmLG4CeoDmGMFyE9evsNLhb6cYew/lJp14qUKxvR9AqLhujTh5MRGK/Dt9ZxvNpu8LG74zx07z5ujFbVMP9IeV7a5Ye5JrKA04gwSeyzLLfebjgICvgmpD9BDJvEdp9WPoTtVj4OJLidfSlGqiMt3ixUH8MOwYfn6hLjPqii36SsHJqmZ2bu1qqDZZTZ5SLRgb6TVH8PL2POj0/3Vsr1bahTttg5rLBeoYT3PV1uyKnHPZUhA5V8P5qbWCdcBytRnr20p2KApBf9owTR5ZU37hiLmicX035wZ74UBNCW2pzPmEsvJA8UgIxtm85d0d27RnCu119ZA=;TOpUsMpwWwcCe5cG3nXcpg=="
 ---
