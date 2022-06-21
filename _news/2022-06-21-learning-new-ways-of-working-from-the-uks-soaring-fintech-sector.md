@@ -1,41 +1,32 @@
 ---
 category: news
-title: "How AI & ML Technologies are Reshaping the Fintech Industry"
-excerpt: "Fintech developments are affecting all sectors of the financial services industry such as: Impact of AI and ML on Fintech We are now in the era of fintech 3.5, where artificial intelligence and machine learning (AI/ML) plays a vital role in our lives ..."
-publishedDateTime: 2022-06-16T11:17:00Z
-originalUrl: "https://www.siliconindia.com/news/business/how-ai--ml-technologies-are-reshaping-the-fintech-industry-nid-219257-cid-3.html"
-webUrl: "https://www.siliconindia.com/news/business/how-ai--ml-technologies-are-reshaping-the-fintech-industry-nid-219257-cid-3.html"
+title: "Learning new ways of working from the UK’s soaring fintech sector"
+excerpt: "By Stuart Templeton, Head of UK at Slack From the rapid rise of the cashless society to instant in-app bill splitting, the world of banking has transformed at pace over the past decade. The sparks that lit this revolution were non-traditional fintech services and challenger banks,"
+publishedDateTime: 2022-06-20T21:52:00Z
+originalUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+webUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+ampWebUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
 type: article
-quality: 36
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
   - AI in Finance
   - AI
-  - Machine Learning
+
+images:
+  - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/06/iStock-533698836.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
-  - title: "Learning new ways of working from the UK’s soaring fintech sector"
-    excerpt: "By Stuart Templeton, Head of UK at Slack From the rapid rise of the cashless society to instant in-app bill splitting, the world of banking has transformed at pace over the past decade. The sparks that lit this revolution were non-traditional fintech services and challenger banks,"
-    publishedDateTime: 2022-06-20T21:52:00Z
-    webUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/06/iStock-533698836.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Why Machine Learning has huge potential in Fintech"
     excerpt: "Aaron Holmes, CEO and Founder of Kani Payments. He discusses the role of technology in data management within the fintech industry"
     publishedDateTime: 2022-06-19T08:00:00Z
@@ -50,6 +41,15 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "How AI & ML Technologies are Reshaping the Fintech Industry"
+    excerpt: "Fintech developments are affecting all sectors of the financial services industry such as: Impact of AI and ML on Fintech We are now in the era of fintech 3.5, where artificial intelligence and machine learning (AI/ML) plays a vital role in our lives ..."
+    publishedDateTime: 2022-06-16T11:17:00Z
+    webUrl: "https://www.siliconindia.com/news/business/how-ai--ml-technologies-are-reshaping-the-fintech-industry-nid-219257-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 36
   - title: "Register for the BusinessTech Online FinTech Conference"
     excerpt: "The conference will cover a variety of topics, including FinTech disruption, mobile payments, digital banking, cryptocurrency, blockchain, cyber security, AI, and machine learning. 2,500 delegates ..."
     publishedDateTime: 2022-06-20T09:39:00Z
@@ -71,6 +71,6 @@ related:
       domain: financialexpress.com
     quality: 18
 
-secured: "XhLvbTTyVVondpBWplC+I8Ge1u7opoKsL7gceS+QMuA2dDHHZ+xu+dM0cO0FUhecj5/9DilsaIT98BOtvCYR4UGbhM3PcneUTBivkmPn8uwQRfIJGfIilC3qEs0HZCCoMMEVRm8PSzHQ5ayotA3djnJZb4C+oWafFMSRTfvGfXCynnQehbsa364sYXje2199S48GmICR0yOXo8d+sXeSVhw2dRa/KMAjXe2eABVcqD3oNJl2KjN0MVnPEVpv7jqf8NRJNIDNk4r8+7uoNaktbFR8gdiYesZy7Bt5iO2WevS2UZ7u3ZkBOIXhPP3w5qkuffd1HCDAVAO6LZTlCv1swZtL0xZqcP8dzNZvm/gL1g0=;YwD/H3cUpYA/OzzMi8KXdw=="
+secured: "64o1jfuM//KeK952/jVeMgeKzLDnuW9VmXIsuv5kViyIziAjzZPxXn/FBu71jIUKvAQfqaTP3KwfyWQTLAYY289unAejspzQOcpyq7A6OtNTsf3a10sti6uAVDBTo0PbGKz0JrCM+t6R8PmTiKAfUrVyBTDtqNJ2FRPHiNSUk/03vjhKlL0xTe0a0WSMLXPW7NMK4KncICNHWFKt4QQitAbV19CbmeJ1cAa7TcKUuF4NN3xFlYsyWWtKux3L3zbPOhL8HUD9i3frqf+qQEOCyzHg9jLtykXV1bgMXdSsfDzJktz1BUubhzN6YZTnRpyh8BHzPwEuGWn6yc+Mn9fA8paoU7oj7bCSvhknzZD7Idc=;7bnBAnMgiunN8eh5mvv3iA=="
 ---
 

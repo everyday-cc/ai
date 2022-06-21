@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/digital-payments/why-machine-learning-
 webUrl: "https://fintechmagazine.com/digital-payments/why-machine-learning-has-huge-potential-in-fintech"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Learning new ways of working from the UK’s soaring fintech sector"
+    excerpt: "By Stuart Templeton, Head of UK at Slack From the rapid rise of the cashless society to instant in-app bill splitting, the world of banking has transformed at pace over the past decade. The sparks that lit this revolution were non-traditional fintech services and challenger banks,"
+    publishedDateTime: 2022-06-20T21:52:00Z
+    webUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/06/iStock-533698836.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "How AI & ML Technologies are Reshaping the Fintech Industry"
     excerpt: "Fintech developments are affecting all sectors of the financial services industry such as: Impact of AI and ML on Fintech We are now in the era of fintech 3.5, where artificial intelligence and machine learning (AI/ML) plays a vital role in our lives ..."
     publishedDateTime: 2022-06-16T11:17:00Z
@@ -35,20 +51,6 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 36
-  - title: "20/06 – Weekly Fintech Recap"
-    excerpt: "Partnerships Global Fintech Ascenda Announces Partnership with Banque Saudi Fransi to power JANA Rewards Program in the Middle East Ascenda, the global loyalty technology company, announces a strategic partnership with Banque Saudi Fransi (BSF),"
-    publishedDateTime: 2022-06-20T09:54:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2006-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_3.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Register for the BusinessTech Online FinTech Conference"
     excerpt: "The conference will cover a variety of topics, including FinTech disruption, mobile payments, digital banking, cryptocurrency, blockchain, cyber security, AI, and machine learning. 2,500 delegates ..."
     publishedDateTime: 2022-06-20T09:39:00Z
@@ -69,15 +71,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 18
-  - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-06-16T11:11:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "mddduZsY8fj91oeQc2zm9+eX/Xw1+HBH5L3GGMGlb+SbaSQbquGyFpAocaikTv+O/aOuT27v1IE/TvZoMLrY7Han54pQ9AObVRtjtm6Sl5S0Wv4ojsjTS4yYQPg2y+OUg25cacGVG9DkZHL4AQDDL81RtuvDPQpY3wrA6Uai2vkzV0P+lwgzoNY0QaS3DD91kvD9/108AdvjopMvClxijYD/S+kj95RlFb81naZO4CJq6RzShiD1K+WSlLvH0AKX8+Sb5hQY9bZX1v3VFTdg5+9gNI1Myh26b/fANNvEW7mXYYYMzj1RLtMXT6lZpDZi6jtkSSkGbtLz1vYsbq/Pd6WJrcHkR8WuQbe+ss2ydY8LMIGI+UtmjLq4pEDFuaXu/XIabIQsGhskqYZnJRK4FecTfAiq7F5bT6t1GfQZXXQ3hD4A0uUBJItqOfXKLvY+l029N4d79ry4jXDXbXHmBzWEr3vOL4Gc53BgzDPYZsY1hdeENh0gRwgj9XHgbOeeSKjj/MHDlghuEdtlew9i4w==;sb5rZja3C8Tg9foJnG7DwA=="
 ---

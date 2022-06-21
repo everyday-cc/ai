@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-i
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Making Mind Reading Possible: Invention Allows Amputees To Control a Robotic Arm With Their Mind"
-    excerpt: "A University of Minnesota research team has made mind-reading possible through the use of electronics and AI. Researchers at the University of Minnesota Twin Cities have created a system that enables amputees to operate a robotic arm using their brain impulses rather than their muscles."
-    publishedDateTime: 2022-06-16T06:49:00Z
-    webUrl: "https://scitechdaily.com/making-mind-reading-possible-invention-allows-amputees-to-control-a-robotic-arm-with-their-mind/"
-    ampWebUrl: "https://scitechdaily.com/making-mind-reading-possible-invention-allows-amputees-to-control-a-robotic-arm-with-their-mind/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/making-mind-reading-possible-invention-allows-amputees-to-control-a-robotic-arm-with-their-mind/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 46
-    images:
-      - url: "https://scitechdaily.com/images/Robot-Machine-Learning-Concept-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "I0ScriKTQGyVWacFf4Igo+cWuZtgHhwu7Ay5E2WGK0/Y6+L8DHpPrcDaBFVs6Y+RgX2QFWtA9jU6qAVyWYvDKx1qSJQccdFuvpJqKMCCGNqlo78qIFTJbzZ4+0b34NXC3rMFhCOKEI5Kyt3vJfBYmRDwhqZjsD1hZi1xZ8aJZ2k+umW3F8ecncMt96lwG8xV7PQwVWRSJ4kTijGGbk+qEb6gWTtRXp7g3+ee/xLqf4UM/AXPVecnYYi7BcUrkH6D+vW2CIr+QfCClAlBTmjYwhPYrjUQg5LoieMU1JPsDyl64+f0DFsHmQfIRn4QrlTRo9EZXFZa2IiYrQbsMA6BHzXUCD9IuFz7N0ISH1Lc/DI=;OkK7O+EmEiliE5WZ3u0sAA=="
 ---

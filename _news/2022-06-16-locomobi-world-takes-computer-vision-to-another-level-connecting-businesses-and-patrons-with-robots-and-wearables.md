@@ -1,22 +1,28 @@
 ---
 category: news
 title: "LocoMobi World Takes Computer Vision to Another Level Connecting Businesses and Patrons With Robots and Wearables"
-excerpt: "LocoMobi World announced today that it has expanded its world-leading computer vision systems to better enhance the customer experience as the consumer moves to wearables and robot interaction. Locomobi World was the first to provide computer vision through its licence plate reading and image recognition technology connecting businesses and consumers with friction-less parking,"
-publishedDateTime: 2022-06-16T14:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-16-locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with-robots-and-wearables"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-16-locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with-robots-and-wearables"
+excerpt: "TORONTO, June 16, 2022 (GLOBE NEWSWIRE) -- LocoMobi World announced today that it has expanded its world-leading computer vision systems to better enhance the customer experience as the consumer ..."
+publishedDateTime: 2022-06-16T14:32:00Z
+originalUrl: "https://ktla.com/business/press-releases/globenewswire/8573291/locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with-robots-and-wearables/"
+webUrl: "https://ktla.com/business/press-releases/globenewswire/8573291/locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with-robots-and-wearables/"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://cdn.newswire.com/files/x/07/21/67e0eaee87e5d38f144ad75a8379.jpg"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "LocoMobi World Takes Computer Vision to Another Level Connecting Businesses and Patrons With ..."
@@ -34,6 +40,6 @@ related:
         height: 500
         isCached: true
 
-secured: "DK5t4evQDJ9Xl2eqvlufGCvqN2oJyKYryZWudiuT7GG6/U/q71jy8GojDdTnsDdFzPEcxDQeYpwoxIAeKB9mpVFj0JTxeX9OIHR01rYVch/mHqiYOj30hZb0+BoFN88xFmDAjXNZ3hB8Q1x2StqcAtv6F31qD9egAICPaV28e3liDNMQEhfVIcBRQEgq74Uk9trX8G7QAVrOuLpQ/zDg/B0KRahbvOSZANYuMEtaclo1L0ZWnLpELGVKH3sL3WJ7nxyqRy/28F3t4INZCZzBCtY0+UC6NvA2ASMp4Ifl3faDIKjM08zVVe7UGh1ykmMm14COO1LW8WUtOK+OPhVss2DrMteI78jnYhZpPd8XiwrpF6bdGnLqhQipWophusNoAKQ3H6FM6UCYjAsPLvMawypZxhWt62LuaTASekPSvT7Xu4T1ULRfesy1NeowaHRVR9p5qAVVEgD+AUfHdCa0PBZuiTpMpX38g8soBhv2TNDuPG6Arz90wAWc/v0hA13Xv03g8IxZPz28U/AvKUHcKg==;xuADoN3GwSZ8efkkNPreng=="
+secured: "K79vr0LFYZkACEGZ/q7HeiyLAzakIxTBUpBFB79Q7tJ/fW8OjKZ2BiBOlHGuMjQV5hwLpPakWP5nkQ3r9PGmp0f7rFXQ1U30k0VHjIi+WSy0RG8SrLVa4KfjLeidaO2Cn+4jjBM3BY39sjjLRLQDBZnMZ0FFmLUIsOEX0tI/oja8aARbtNRkhzbS9Bz/Y6H8d20+vOWyQee9ey+8ZFjDIYQBNIx3CCfRdc0hsG9aU9BC3Xxgh7HlgnN/mnnT/ob9/eDEE04S6fCtXcwE6uhEN6Ii2TWeJM7B4sFp/LC3qu8yh5wmiA4d9O1l63OBNTdCtGxaRQWmGy4xybVoDHC3HxMdG1sFfFwIxi1vePXPB80=;7dNci9+G4BDmgXUgzAUCsQ=="
 ---
 

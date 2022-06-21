@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "LocoMobi World Takes Computer Vision to Another Level Connecting Businesses and Patrons With Robots and Wearables"
-    excerpt: "LocoMobi World announced today that it has expanded its world-leading computer vision systems to better enhance the customer experience as the consumer moves to wearables and robot interaction. Locomobi World was the first to provide computer vision through its licence plate reading and image recognition technology connecting businesses and consumers with friction-less parking,"
-    publishedDateTime: 2022-06-16T14:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-16-locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with-robots-and-wearables"
+    excerpt: "TORONTO, June 16, 2022 (GLOBE NEWSWIRE) -- LocoMobi World announced today that it has expanded its world-leading computer vision systems to better enhance the customer experience as the consumer ..."
+    publishedDateTime: 2022-06-16T14:32:00Z
+    webUrl: "https://ktla.com/business/press-releases/globenewswire/8573291/locomobi-world-takes-computer-vision-to-another-level-connecting-businesses-and-patrons-with-robots-and-wearables/"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: KTLA
+      domain: ktla.com
+    quality: 18
+    images:
+      - url: "https://cdn.newswire.com/files/x/07/21/67e0eaee87e5d38f144ad75a8379.jpg"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "SMgz110OO/zDjYcen0q6TGY0+InOXYnGPDz7u8V8r0bah5gPMcAqlCHfQft7WTWaYXhFAhGUcOc5trZrCo1cg31kCJ32Kro4dRXlYRqz4XHe6GRHvoiAUiGulwwHzYvD9N7Lm5W/4DaDtJvqlD8w31jAXCz5uDeBEFToKXbK8eEF+m7U1MxofmpYW5b0z5wxvddkuSXieNerpQHbDjOqvrXCr/FUozPY4sSFjNYoh7shESjUqABDv05ErzPwRVWJJ4qIb8DFh5Lk2Ck18C6YkCN2dRL2JP8IC5QICE08IzIsUekfe+SOqZMZxP2neAiwjEbdbYriE1OgDuL29bCaCAvJJ0PZhj3GTRDXhCRVsoY=;fxY1xPV6MvgvWGsRz5do6Q=="
 ---

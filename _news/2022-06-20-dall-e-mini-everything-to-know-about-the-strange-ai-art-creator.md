@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Dall-E mini: how the AI image generator makes your meme dreams come true"
-    excerpt: "Dall-E mini takes its name (and a lot of its code) from OpenAI’s software Dall-E 2. The team behind this mini version are attempting to replicate OpenAI’s results through an o"
-    publishedDateTime: 2022-06-16T06:00:00Z
-    webUrl: "https://www.sciencefocus.com/news/dall-e-mini-the-messy-ai-image-generator-making-your-meme-dreams-come-true/"
-    ampWebUrl: "https://www.sciencefocus.com/news/dall-e-mini-the-messy-ai-image-generator-making-your-meme-dreams-come-true/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/dall-e-mini-the-messy-ai-image-generator-making-your-meme-dreams-come-true/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 56
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2022/06/Dall-E-mini-small-1084369.jpg?quality=90&resize=960,413"
-        width: 960
-        height: 413
         isCached: true
   - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
     excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"

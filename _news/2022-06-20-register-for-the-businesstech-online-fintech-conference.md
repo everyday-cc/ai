@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Learning new ways of working from the UK’s soaring fintech sector"
+    excerpt: "By Stuart Templeton, Head of UK at Slack From the rapid rise of the cashless society to instant in-app bill splitting, the world of banking has transformed at pace over the past decade. The sparks that lit this revolution were non-traditional fintech services and challenger banks,"
+    publishedDateTime: 2022-06-20T21:52:00Z
+    webUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/06/iStock-533698836.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Why Machine Learning has huge potential in Fintech"
     excerpt: "Aaron Holmes, CEO and Founder of Kani Payments. He discusses the role of technology in data management within the fintech industry"
     publishedDateTime: 2022-06-19T08:00:00Z
@@ -44,20 +60,6 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 36
-  - title: "20/06 – Weekly Fintech Recap"
-    excerpt: "Partnerships Global Fintech Ascenda Announces Partnership with Banque Saudi Fransi to power JANA Rewards Program in the Middle East Ascenda, the global loyalty technology company, announces a strategic partnership with Banque Saudi Fransi (BSF),"
-    publishedDateTime: 2022-06-20T09:54:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2006-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_3.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
     excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
     publishedDateTime: 2022-06-17T12:42:00Z
@@ -67,15 +69,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 18
-  - title: "AI In Fintech Market is Expected to Reach a High valuation of US$ 54 Billion During the Forecast 2022 to 2032"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-06-16T11:11:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/16/ai-in-fintech-market-is-expected-to-reach-a-high-valuation-of-us-54-billion-during-the-forecast-2022-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "k8AZikg5iwqneSeDaqFIRC4k3qhO7dmsZOg0YTK14DVpvReRG7beoC6L2/S7BWZuScIK01svQFtXt2C3FFJB9uhW2aVAas0zDse0AcqbrFcUVIMYUl/ec5c+EkenB2ie82U0khUPKybUFlTfGhuuukFofwNcS0P7LPC9tkzNzkqylsswW7xH6mwUVXyn19wKLyFFs3L0oaNn2AHy/RZKt2ZdtKYUOypHIYOn6yEZLn+eMi+Nwn8tLxUxnrFbK34xQrn05Qz6awc5/FCOPXrstrtmif6ttdh7RaC4XLNFm5kokDD9H8x6o9VMi3JJbgxSOVDaMVxKwAqV9zHy/sfVbBd2YNGfsNy7pGsugp96oHqmz/DDu2B9xgz7k5xD2gsL9TddAgQPyRjd6dDNdzQyXVEE0RPgViZLZi/KS4BRxwVydnhHNtYhEPzr3gTsEy/Pbb2P6iZIVcWzhTe4z7n7dO8hl/NWnq2wj2Kcxb5sH7CGQD5iUNc0uCc1mjYGkWYbq15/NFVmeblGW5bhq8s7Ew==;tAXGFU6k9iiGvRnrw/0L/A=="
 ---

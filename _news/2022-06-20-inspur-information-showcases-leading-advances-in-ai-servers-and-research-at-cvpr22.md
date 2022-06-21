@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-20T14:19:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-new-orleans-33ed81731d9a4a26b3ad9a1f1aae020b"
 webUrl: "https://apnews.com/press-release/business-wire/technology-new-orleans-33ed81731d9a4a26b3ad9a1f1aae020b"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

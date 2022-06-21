@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dall-E mini: how the AI image generator makes your meme dreams come true"
-    excerpt: "Dall-E mini takes its name (and a lot of its code) from OpenAI’s software Dall-E 2. The team behind this mini version are attempting to replicate OpenAI’s results through an o"
-    publishedDateTime: 2022-06-16T06:00:00Z
-    webUrl: "https://www.sciencefocus.com/news/dall-e-mini-the-messy-ai-image-generator-making-your-meme-dreams-come-true/"
-    ampWebUrl: "https://www.sciencefocus.com/news/dall-e-mini-the-messy-ai-image-generator-making-your-meme-dreams-come-true/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/dall-e-mini-the-messy-ai-image-generator-making-your-meme-dreams-come-true/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 56
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2022/06/Dall-E-mini-small-1084369.jpg?quality=90&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
   - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
     excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
     publishedDateTime: 2022-06-18T19:02:00Z

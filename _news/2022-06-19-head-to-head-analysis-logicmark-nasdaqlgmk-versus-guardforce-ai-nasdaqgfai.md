@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/06/19/head-to-head-analysis-logi
 webUrl: "https://www.defenseworld.net/2022/06/19/head-to-head-analysis-logicmark-nasdaqlgmk-versus-guardforce-ai-nasdaqgfai.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Update"
-    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) was the target of a large growth in short interest in May. As of May 31st, there was short interest totalling 29,500 shares,"
-    publishedDateTime: 2022-06-16T05:56:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/16/global-x-artificial-intelligence-technology-etf-nasdaqaiq-short-interest-update.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 25
 
 secured: "0E274a9N8TMyJGGNXzSSHU7RAxUXTkfXWkDV0Gz3uLRDEn4UZSdWr2JLsSiS4ZYsZ4m8qX+oLWQz37ByWtfHOhwYSW9wvv4eR59PN+eTzG9qSXYVu8STBf6C2UFuHJKfgyHOsumGIEG1rmmxE876oasO7wR2Mw5rAnlyxzLNiHwZB3YMyATShJJzZnmwHwIaaFmW1QqfUf8IMVtE0VIaIKjkAtosBSnX04sf+0D8oy887oKKfPbaSgh2Zl4CRuvquPLr6InXACo81jq5LKzIgv6lMgfnyyZjtyhFNip/WuRWjrAt/b5rR/eIs4RIvMpbYMWWLLRtAxen7+qiicFYHO1EylkGXFCeGzLQi8Y563U=;hTqDm9cdQ6doL7K5aN5zbw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-20T20:43:00Z
 originalUrl: "https://www.marketoracle.co.uk/Article70319.html"
 webUrl: "https://www.marketoracle.co.uk/Article70319.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "http://www.marketoracle.co.uk/images/2022/May/amazon-falling-earnings.jpg"
@@ -24,6 +25,6 @@ images:
     height: 440
     isCached: true
 
-secured: "yBR7zUI+j6OGJ0UEO3x+ZzvZxEDg8YBkOMCnueD4bAKnyCFuXHHNALYLCdnhFe/5OqfAutB5AASZd9rG18mTpLZZLdE59Gegwodj27iYjkm5ucYN7QUW0g00e2awIMeyWrp6rgqXGzv0LhqtSHwUt2yotrO76HxBHzo9jDtz+vukHeeY8C7rNQ9UcesnYwtqKCKqBIP1YyhUodB7akv8jz3e5vbE0cf2Vqs6kF4M0jqlGTq58LbWQl3o9EFH1cRNJRS9X282D0fyzfelX1Bvxl9X4sD/aYzWF4KoKnkaEcKzzayt26UHIot29mbbO0GGBApLTQvtxcRTE4lhn01IttrskF5fStb4BfFfZ7su1j8=;OvZh36lVhmF1eETN/4bl3A=="
+secured: "wUdmSDvE+G4uP08iGNSaPet1iiG+fuAroV7yjfEJeKqFhQUcPWxw8UqfuOxFVBDQRCPpY/ZSGtp+jNlxedSGL3FytkRvi6ZD5/yfvukQlMo5/OBGcAuBH4/qk/9nNU3IKDD5Tvu/OwHHYN0g6fXdEI68LTpDexXyJzrfT9q5rRJTsFXa6tr00+Lfi9o56Mc0y37yPquot7mvL0h+iprNzGDEfZ0HVW0W/C7b9JUZm6MMReCY57XktxoJXLHXVHbXjJ/d82NdCkqy7LNCrnRxaLG7YZHOTu4n2YUpGnBUVehNBa98Fz+pcBFP4m5xJvPQU+bJr3Unk7whWribThNQSR+HuW/wK9ElqqMWmXuStFn5dOkZmugRpwC7C+O99gUP4Gfw6/++4O79C5td5VevPUIUgWO1oEhMnDkbuBoIwcVU77bkfxp84Dl8GZF00V89WItDQyVbCF2u7uDZOr+iQoz9WsNOaxsL2+Nt8kYGdd0lvkGV+1QJw+KaB1O9w1PgqrAfd88CE5IvIb1i5Fbolg==;pqBSnejlWdzceMXA1vTiRw=="
 ---
 

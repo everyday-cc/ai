@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "Microsoft Partners With Spanish Bank For AI Development"
-    excerpt: "By Michelle D. Madsen CaixaBank and Microsoft are changing financial expectations. The Spanish bank and the software/cloud-computing giant have inked a strategic joint partnership to advance artificial intelligence (AI) applications for financial solutions and build"
-    publishedDateTime: 2022-06-16T06:32:00Z
-    webUrl: "https://thewestsidegazette.com/microsoft-partners-with-spanish-bank-for-ai-development/"
-    type: article
-    provider:
-      name: The Westside Gazette
-      domain: thewestsidegazette.com
-    quality: 71
-    images:
-      - url: "https://thewestsidegazette.com/wp-content/uploads/2022/06/feat_a6c1c268-12bc-416e-a995-d52964d01017-678x381.jpg"
-        width: 678
-        height: 381
-        isCached: true
   - title: "Microsoft and Meta join Google in using AI to help run their data centers"
     excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
     publishedDateTime: 2022-06-18T13:00:00Z
