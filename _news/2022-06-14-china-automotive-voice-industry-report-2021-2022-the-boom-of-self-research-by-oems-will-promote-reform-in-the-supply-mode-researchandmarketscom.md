@@ -1,43 +1,20 @@
 ---
 category: news
 title: "China Automotive Voice Industry Report, 2021-2022: The Boom of Self-research by OEMs will Promote Reform in the Supply Mode - ResearchAndMarkets.com"
-excerpt: "The \"China Automotive Voice Industry Report, 2021-2022\" report has been added to ResearchAndMarkets.com's offering. Automotive voice market: The boom of self-research by OEMs will"
+excerpt: "The “China Automotive Voice Industry Report, 2021-2022” report has been added to ResearchAndMarkets.com’s offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode Before the advent of fully automated driving,"
 publishedDateTime: 2022-06-14T12:32:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-china-automotive-voice-industry-report-2021-2022-the-boom-of-self-research-by-oems-will-promote-reform-in-the-supply-mode-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-china-automotive-voice-industry-report-2021-2022-the-boom-of-self-research-by-oems-will-promote-reform-in-the-supply-mode-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-china-d9a3605b20f44c9c9a170dc843ef2593"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-china-d9a3605b20f44c9c9a170dc843ef2593"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Artificial Intelligence in Drug Discovery Market worth $4.0 billion by 2027 – Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"AI in Drug Discovery Market by Offering (Software, Service), Technology (Machine Learning, Deep Learning), Application"
-    publishedDateTime: 2022-06-15T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27723446/artificial-intelligence-in-drug-discovery-market-worth-4-0-billion-by-2027-exclusive-report-by-mar"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "China Automotive Voice Industry Report 2022: From IVI Software to ADAS, Voice-enabled Functions Continue to Evolve with iFLYTEK and Cerence Leading"
-    excerpt: "The \"China Automotive Voice Industry Report, 2021-2022\" report has been added to ResearchAndMarkets.com's offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode."
-    publishedDateTime: 2022-06-16T16:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "71iygMgwhpwyOcPxzYi7uC14PifC/RfbmAfPLmRC8QSubKPrallPisJgLfZkd3lr1hCVwwZXV1trwpHeVhXWSXrFq9SAo9r7pKEZmIM7bK+FMHbgis2KTHhlELMs/CRuSMHQWJYL2Y0yauEL9zLOklnejWRE1n6kGVFsCe/k7rnC1i+Ebf6/zwvzgAGMEUdUiIBhtR8+eI3lbDdDE+iEVp7dj0jL1kFfrRZqvW/wpDOm5OTXbX6u/hUd5/UQuzK1KYRZisa07TYL5qxH0hrvvQat1YAgVvyfy/Ad5LHONDV9W4Lzea929jRcCXlwK/drhII1nPPYJbm6Tp+s0KbGF8n//ZdeoDXr8dbMtJJjTAc=;btbS1mhJg1+NaLNGeY+cuw=="
+secured: "cIRc7jxs5nPGmbKUkKRvODltu6q5vaamh4KUJvNWvmzL7HXzmTQNllP1GEpRjf29PpgU/zHYfd2L+S9aocz0GZC6slmPS7DUfrY/zQpdtKfPGKQPJypWJevXHovkioCg6JwmjnMzC9LmGQA9ZN1hvimBYyUSNL54z4QdCsfIuuNp663RcI+0wlNXUxpFkhZNRg1eBXlrFj4Y95yWa07X4wPVADPrPCL0kIOuOproNF65rG8/mNn7W9rgTxAvBbrmeVzZEdpplZemAwk+FjIvbLj49J9/dguO6/NOczqKGXRluPGfOFqjd3KAtJeZJhTfT2oSQLzEl4mmTISQtMzjwxL74DI8V/2ZxZvbnlp80Gs=;rwS9gDGNRBPxIj60FMMnnw=="
 ---
 

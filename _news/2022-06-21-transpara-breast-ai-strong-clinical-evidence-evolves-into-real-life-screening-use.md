@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 secured: "FRCUa2MFMM94Pmlnp5IGpHkiMX/Zp/8p0w/lPTNvwCvPIgLYH19oJnH38JU6hj85C1coJz3hfmETddcedR7RkYoxKzlaqTZdmRtswA2oLl20nj4eV8k0enpyDDSDm/+EVoc7Qt5xk2pSZce7RftK2joSR1BkHSQdj6yySRoqagmjxl689e3afjRn5uhdmhfb6liyE/mB0MoNNNBKTySE2cXxpRFz+TJFJKiUkL4oe1QuQdPqO0jnugfXgYv4xgXlrzfhOCjm2N//skzOD327wjIsnnPGnyCQ7nqP/3iJKTVY6o/R/pLh2guaflQM5TtqicbdPpUueBbZKjhNUezYaFE7O1ShCXcwoXWLPMNH9LXRpzVVnMkoGWLYbEMNXAwbOlJzgZXr/P8ZyhbeFWLslC93K+7HXxVBUWrkQkoL0atVbWZH29Chn2v99EdczOgLuLycIgOylyAIHhrd3rL/ymyirrpVwgYKcaPDv9qpVLWvuQ40v0vY9BTQVjb6yR6QLSMuYVMzdTF4Un3FrIUJIA==;ks65G+o9p/nX66jRFBZZrw=="
 ---

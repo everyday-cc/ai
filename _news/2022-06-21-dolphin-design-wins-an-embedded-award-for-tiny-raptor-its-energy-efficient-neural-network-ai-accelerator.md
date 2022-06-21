@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://www.design-reuse.com/news_img2/homepage52189/dolb.jpg"
@@ -25,6 +26,6 @@ images:
     height: 600
     isCached: true
 
-secured: "yHDILYfGtgST4LWpbwYUAjU5ExY/JrwLN0wlXFZ8Lym02/WSDMwj8qEgbQnLOrjtrzBUxStXeIPM95T8a/bFOcVHj4eMRHlLuAzb8PreIS+OUm7AK61RLYgZzJsTqoMnchEdb/IbLADYvxeIX62tCWACNVC2lIqF3Ttdgo3FvA0xQQTflEuNmc7chqvVzIOiuLOZue6oXo5mLoWbC6i8P5uYJE/ZhLl1xiKzepnH56r9rM58vhGmvHZrZy7ucTmJF8daH8Ts7t8Kk7+Vq+3PNp+WlAi+SodefsnZq9RjG6TBVCF1jnT/1hVVi0lSqYN2nC+3XRDXLzKXo8M4GXSuj3qVhGoIO0MPGjQ2T960ZfI=;IlFk25j2F/NICv7/A3DXvA=="
+secured: "iJAZ3gkAcXvy7QUQT4jmqcMpJniOtsbOEZXZ1COQPMwYYfkFYX7RPlXxSyh9a3l4ILQajY8Bkj8hNKolBJH7vBnxBgu4lRFOqcFxa7OKhrPKKrH7p13t+pluGRONQ6AZwuxCQUaPUJEXdzjJJJ0/e1fFg+dBmpFghuOlJuWxpvxhoep66SwCCuypAuysUxsL7s9f6y0iahocP88L1WoyHugLB4QXgCRLSBZXTjiYQQDebXQA+gNA6F1ZmyTOgx34duEV8zF87ZNiAaRFQxmHjKmwbXKppw3WbkExeUhnyVfdyhrvcTxKAWSRKmq5Yo5HlQBAGOYdBNfqzHKqQK6oumFlQWDtqhxpQZnVxFtMS/VUHK4KMm2jXGtr/t38xFjHqO+meVJgpbPVqaZNfcpnXHh0vVMbLFpUmA6QlpHpqmZKokvTDZuBkpFVskzSy+CMJNkhx42bCqWlISe83oAxYQh/aFIUAMSyXorenIlu+vj2NrZurUr25tC/CfOBnGjLlUqbb4E3U0CqgN+7v7p6aw==;xFfhgCp0b+2SqBOcpZY2rA=="
 ---
 

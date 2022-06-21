@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car.jpg"
@@ -55,6 +56,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 20
 
-secured: "R5tkeszk3BkWtbSomJHAKuyNYbx/QAipa6eb+2vvxYtU+/4NiaEwsIiRHlt8wF5Plysvt622A48oW9GGjqUaDzdf3McaC7oUKzBhvbbjWrHA+8ouu46lgMdGsGgPhvqYUKOj666wecdS4Iuot/AzQ/nUr6ycX1leMqxteaeGaRoLN5udYVDUgb/ughRokgHxDhxUJTmNyR54dt74Iew/4XCnND5ZeS/abg7VO9hSCsStwREyiYhdI0A5vyL0+kOH/fVHtU/DF7IHQw98odaBSsv4JClY7fnEZzIKQvjqpvZyzbM4tIFiZZeSjkZRQNbX+CzGiPVTloIjK6+G2F9G5Us6fpZEm1RqvJIvCUwnlME=;7nL69w8HF8cXPg/MYt4KPg=="
+secured: "hvpRrhoWfJThTYhWQqu/On7lUzjDBubreByiejJmCkqml47GLznGQ5q+J/DrebIcAK+tG6G4fE1SQFk9yXCsCJgZg5WOaJmENdmo6LpdaL3Eu4boO8jSkQjQj2JcagtRbPQSGQ9tsf/8yz7UJC2oy+1IfMdEkKlcmqGv7lGLKd/DVqePfVcPhXNzbHJuMhl97g1jWSf5t9BP1GJRDAdUAssGHNQbK/12mpYKPfgeZbfJ13/aawkIL9N8zhALHaz8BsjWE/S13/7fhttt2BxGuI5hl+sQt3T9JkHwjzGJdISX5kn+XQwFAxCJqSw1A0BUHxSUBb5hcJlqgwrksFir1gMDucLfFeSqhqTLEYe8pgyGLjchtK/m1qNlYk5CyXlJ8SN5fteBxVKlpBqVIq8g1UQxkWYVqprb7/E4L6A2a/4Z4oPfAybW8OjuXUQwajM62rCsQX/8AOqg522rpLvl635jyV/hcVGXewnk29pqIQsTNwj3+jwr0vw5Usc7Xw0AweKruLw4N9Nq4999bneNcQ==;5Yw6DP2TkBuNLPmZLJ7brw=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,"
-publishedDateTime: 2022-06-16T12:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
+excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ..."
+publishedDateTime: 2022-06-16T08:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "k5k4ABGExoZ7Y5mE4sdDpn41cnAzkKh2KcOS0LZkfoTu8ywaTgb7fGl57IAj3lUQVmCnom+3y4XxhTF+m3gHwsDWQl6UfH43b590pid31dHy7hQcqekMBc/RD7FPLBMt78YU5ZEw+WJol8nO/NxB1wDP/4F5Be3JMxbRbhf/BCBZ2Lyk4MAC8ytV0w32YbKAaiZ8AFCcCPggH30viCUtRSteknOS1APpkbWnYIRRZ+qVpwrKgo8P9TsCyxm3rXX7xdPPgfRRVpa9o4rKL5yVf0SaVXYkCwnRjANWxzVqTyUOG5vdWVPArV2Q3BTff7WVXx7R9kBjh7V0ot31dIYCdknMrwstWByQuiCtzQPwS0I=;eIuzNDm7fepmpzRk61crQA=="
+secured: "pD/qUHOaiL8uAkiTTXTDC1gq8r4xmacz0XPPQbo/CERV+EoMO0+2q5FLzUzMh82PZO8tWfX5nHeXWBLj/ClZQX4Hn9BoTwuGnAepxHQ8vh2q74EtFv72X0nYhaLxL9/WNOyY7AbLBSHFPCL1iDTTeJxQnOAopnHBKBhcp1P1cYi0pcVv8lmYXjvvvtPtZ8A9wFgRg52GBU3PLv/KiYzwp22s7hzSw7bjiJxNn/u7kk4d8JDsIC3OVa6seZN47/zzEJd1QgOyHClt1vltkcp/FfgkT7yzsefr8xIc+Mx/rc9lERloDrioOGCMkKSv9xspBf7Kyzar5eu7gimL4s/WB82mwFJdMDpymgIldOhaIL4=;x4tWjUOf0Ot7sCINeUA55A=="
 ---
 

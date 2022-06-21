@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://2.img-dpreview.com/files/p/E~TS590x0~articles/1941980593/nvidia-reserach-3d-models-from-2d-images-moma-lead-image.jpeg"
