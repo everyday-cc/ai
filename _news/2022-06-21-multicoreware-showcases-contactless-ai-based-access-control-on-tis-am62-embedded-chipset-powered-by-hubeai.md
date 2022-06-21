@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T04:21:00Z
 originalUrl: "https://www.kentuckytoday.com/news/business/multicoreware-showcases-contactless-ai-based-access-control-on-ti-s-am62-embedded-chipset-powered-by/article_e5c35914-e8cb-5479-8144-71ee8ac45415.html"
 webUrl: "https://www.kentuckytoday.com/news/business/multicoreware-showcases-contactless-ai-based-access-control-on-ti-s-am62-embedded-chipset-powered-by/article_e5c35914-e8cb-5479-8144-71ee8ac45415.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Kentucky Today

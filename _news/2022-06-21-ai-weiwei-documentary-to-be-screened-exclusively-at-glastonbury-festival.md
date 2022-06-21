@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance"
+    excerpt: "Ai-DA Robot has painted portraits of this year’s Glastonbury headliners using AI technology (Shangri-La/PA) To start, Ai-Da Robot uses cameras in its eyes and its computer memory, before using a ..."
+    publishedDateTime: 2022-06-17T20:56:00Z
+    webUrl: "https://www.standard.co.uk/news/uk/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-ai-technology-b1006714.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 31
   - title: "Ai Weiwei: Yours Truly exclusive screening at Glastonbury this weekend."
     excerpt: "The most personal documentary ever made about Ai WeiWei will be exclusively screened at Glastonbury Festival 2022 this weekend ahead of the documentary’s release in the UK."
     publishedDateTime: 2022-06-21T13:10:00Z

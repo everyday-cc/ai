@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-i
 webUrl: "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Digital Photography Review
       domain: dpreview.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://2.img-dpreview.com/files/p/E~TS590x0~articles/1941980593/nvidia-reserach-3d-models-from-2d-images-moma-lead-image.jpeg"
         width: 590
@@ -54,6 +54,24 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 40
+  - title: "Nvidia’s 3D MoMa creates 3D objects from 2D sources"
+    excerpt: "D MoMa, a new rendering technique from Nvidia, creates 3D objects, including a mesh, material, and lighting, from 2D images."
+    publishedDateTime: 2022-06-21T20:00:00Z
+    webUrl: "https://venturebeat.com/2022/06/21/nvidias-3d-moma-creates-3d-objects-from-2d-sources/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
+  - title: "Nvidia makes big advances in inverse rendering to transform still photos into 3D objects"
+    excerpt: "Nvidia Corp. today showcased the impressive advances it has made in the area of “inverse rendering,” which is a technique that uses artificial intelligence to reconstruct a series of still photos into a 3D model of an object or scene."
+    publishedDateTime: 2022-06-21T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/06/21/nvidia-makes-big-advances-inverse-rendering-transform-still-photos-3d-objects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
 
 secured: "J7MvGwW7JIBbK/T9nGRDpkxEw1j8wL80jYZWUJFGZlgxFzzJR4VekBU9rMbFt2zIoPzHgTtHVwrVLG5XdfULyGWOHCEKsCO95MlKhrs1Ok+gd2FBM3Yi20zrPnZ8OZjpgTwukO2S1jvUnNvgW4+xAnxGWByzbNFBumjMyhMOYXeLWsOh9Vd2C9frF7A2ly0g40FsVEfDomYmUgNJb6CLBgMTsgXmPJ2vHJvVa28SOkXFdxonmSWG4/IdyogkqClvIUB4JdToJu7UMDVY1698ffvrUfXvEl8zwHOJhbqgt7cgJLaFi03XIWGCWER9QzH0YWfmvu/lD0Yy7VKgcOqty6mzwFQCpowZaSW05y214a6B5M7d239FgyJ2G1P/bGd9yRqUSDJoLGjUT6WZ+nxNHBJfDbXPLj+U9Ppxl3CMAnwMnXxCxbZBrt0fEPvbanb8uH0uk126zDN3arYHEp25WBsQmFPA5kw7mjcxJVjoULvnEIlYiZzeQXVeMU0BGGpFSeeeyuY5QWZjdXNNvjoZIQ==;SsngFSyp0xQqF8a6lhNoEg=="
 ---

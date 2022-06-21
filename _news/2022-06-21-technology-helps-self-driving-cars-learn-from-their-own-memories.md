@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-06-technology-self-driving-cars-memori
 ampWebUrl: "https://techxplore.com/news/2022-06-technology-self-driving-cars-memories.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-technology-self-driving-cars-memories.amp"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:

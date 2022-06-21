@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 588
         isCached: true
+  - title: "The Power and Pitfalls of AI for US Intelligence"
+    excerpt: "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,"
+    publishedDateTime: 2022-06-21T20:14:00Z
+    webUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/"
+    ampWebUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "AI’s abilities may grow, but will never attain humanity"
     excerpt: "Without question, therefore, artificial intelligence (and the automation it enables) can be of great benefit to humanity as we use its strengths to augment our weaknesses. But knowledge is about as far as AI can take us,"
     publishedDateTime: 2022-06-18T13:24:00Z

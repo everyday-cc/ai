@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T19:43:00Z
 originalUrl: "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html"
 webUrl: "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

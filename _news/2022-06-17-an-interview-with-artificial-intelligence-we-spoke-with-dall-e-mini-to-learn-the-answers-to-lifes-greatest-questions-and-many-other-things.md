@@ -60,20 +60,13 @@ related:
         isCached: true
   - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
     excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-    publishedDateTime: 2022-06-18T19:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+    publishedDateTime: 2022-06-19T00:37:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 72
-    images:
-      - url: "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c"
-        width: 620
-        height: 372
-        isCached: true
+    quality: 32
 
 secured: "JF+VIPlMFMljmCZRtgQwGOn8tFxX4MtNhcvIunQUYjmDB7goM2FMCB+lPFXNfnIXGwqW/Rrsevxp71Zh/9u7UG5WHM6ie4gLgG7qIRXMNg4vAI+a7uYYrazNHKXGr9izlnCDB9hPzWemeCE9xcTCPtSDFpN266aJDv8a8FKr2Fz7KeXnwJWIw2ptJ+vc2khqaskJKtLhGLL/kIfAkqS4OcIVaB3wzCjiTPgQVQo6/Qyj+LXwCq2XDuG/QSc+yQVKFtVp6JaJi8+SdS2ONjCc0pzNZdjLmheeC+RJcKX4EYjopNPocWnOY++N57JdCLnx7C7LGRCVqRRpkhjOlSj6RQCZkBJxjsE3VsFZJJZzZ4HZzprk6r4XgAeP7IVAy1Axv7nsbs0X6OE/FAxn+6NmddknWMZCvdGdDyav76rNm0az/7y9EYj+nlplzyL6sg5hGwEgOSqAGOnpHx4FfThht1F35/AgF+f2hi4Abbbdv7//UolR9SUMp2CMMh00+5h0bs+l4LTXKmCo9hnUlgGLLw==;QAigumUVkdGa03zV5/UdhA=="
 ---

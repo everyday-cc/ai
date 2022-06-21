@@ -38,6 +38,20 @@ related:
       name: Fox 13
       domain: fox13news.com
     quality: 24
+  - title: "Aurrigo commences self-driving vehicle trial"
+    excerpt: "Coventry-headquartered autonomous technology specialist Aurrigo has commenced a four-day trial of its self-driving vehicles at a prominent Alnwick venue."
+    publishedDateTime: 2022-06-21T20:38:00Z
+    webUrl: "https://www.insidermedia.com/news/north-eastyorkshire/aurrigo-commences-self-driving-vehicle-trial"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Alnwick-Castle-%28Action-2%29-67251-1655721569.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "kd0BOD6LmZnCZkU6QVKBxttOFY15y8/BOwDie93Mq3TxTSQ4grKEaMNQwmYImPGL61vEYy9WNHTDAa2epMm3Zfh3h617H9SwtTvWllx/0XL2DceaYN16ELrCXY2bx9e870ieaupmrpuL7U7m1gl/x/pYSOOgiwknYzk6ZOOQEctkjPrQgTo69fRq0bz/qRzgHU6XLR3DQbiY+bS1vJ62y5/leIelx8o2IPQRxxOl0yw0tamyWZu479AdvJRbfHIux4Xf1A+6We8/lT9Bxbz2r/1ntkb8gIu5agFWmbMxEfdctJX2FicHLQTLLgU8cIXeIUr3CRSyUsmmcPzbmEaS4HqdXcowD0rMQdBPeAStiqh/5AGBsXWc7Bdd61D088jKPs3p7DnIhBsz5QbKdzDeTgpnb1TwpH709EvOHLgusPY1luoNv1v1bEhiD2KUqyvHpM7FYO/PFqXMcu9fJY6pquZVbZZodAXT0Af7auQXVBmYNhRy12rktWX+S/UNNdaw4SZLja/+q/CF7tmvp5AfVQ==;OB0DDzlGvWrhBHofNOKkAA=="
 ---

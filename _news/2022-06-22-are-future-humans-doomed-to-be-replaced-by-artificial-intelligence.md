@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?"
-excerpt: "He is coauthor of the books Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks (MIT Press) and Introduction to Evolutionary Informatics (World Scientific). View ..."
-publishedDateTime: 2022-06-21T17:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/are-future-humans-doomed-to-be-replaced-by-artificial-intelligence-1031541207"
-webUrl: "https://markets.businessinsider.com/news/stocks/are-future-humans-doomed-to-be-replaced-by-artificial-intelligence-1031541207"
+excerpt: "Will smart machines someday replace attorneys, physicians, computer programmers, and world leaders? What about composers, painters, and novelists? Are we just wetware, natural computers"
+publishedDateTime: 2022-06-21T17:31:00Z
+originalUrl: "https://www.dailyrecordnews.com/news/state/are-future-humans-doomed-to-be-replaced-by-artificial-intelligence/article_bf1378d0-f590-59d8-8288-2fce47984425.html"
+webUrl: "https://www.dailyrecordnews.com/news/state/are-future-humans-doomed-to-be-replaced-by-artificial-intelligence/article_bf1378d0-f590-59d8-8288-2fce47984425.html"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Ellensburg Daily Record
+  domain: dailyrecordnews.com
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "oleLz73YM+YJRWFZEV/6qnkuaU79ER2jpMcSyRBNjVpdDxIZzX+Nqud62cgyt7xmb5KbWfZTydew5Rc/KKe5n0QM5Rh4NNvemMdeC5GdO+ZKUn9pqE4EzsXtugAz6TxuMbuLyyEkDgEiiq1AGqYaj8gHZr9s/1P5SbT1RH3D8bHFXq1ra/RunmEm8j1Uhljr5zurvaifi8enQsnS2llzh04c6CcdK4kgk2pjoS3upBNB1Pk3uv4BmyuF3y5grSN+P5QZCUMEdOu3ranYFNWrY2bzuTq5lLqsRXKOS/+YdIIAUapEMy4CK2n10ASp4ys+SF/RVcPI6yzrouG2AOkfEpZI1wrZqWFD4NTOoZW8Gtk=;yuDo+3Q82H8+VDsZsj6k3Q=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/a76e5080-ce26-11eb-9a1f-6bcc37d0e88c.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "vG1gaKyI31K2vx+NieAY3DlUAF2Izu9Xpc+3KQ6j8LWCo9PVLb+UhlBzCKke1Um6qo7irctK0kltEnPzXhXr+1KX2sOM3bqPo8VYte0aUv4bBjte8Vs+PbnUkTpnAHrcZljg3qiptkolBdnuLUiipPUbGYYFcdEfBoq6g32EE9KtFqoPwZSDihvfQeGJQKQv2IkhhNMzNGoXDun3zmpLCflokuFSeCbuAIV5RZaC7STEGEMq7KR+1wFaQGi5EmCutYPWvw6FF0l0VZ5vT0yf+bEwJqUbFJ0psQ9hKkNJ/fUyOJC0wxad4vF5JvCsq440eEHHy3bM9/AI9thXUvwg3arCuyKd8BIFUQcnTWOFZ6I=;aPgmZxVLFvNs2Qnj0jSuAA=="
 ---
 

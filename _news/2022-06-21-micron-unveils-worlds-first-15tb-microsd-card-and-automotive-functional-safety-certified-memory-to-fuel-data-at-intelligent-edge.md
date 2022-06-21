@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27788567"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788567"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Micron introduces the first 1.5 TB microSD card"
+    excerpt: "such as object detection and classification like license plate or facial recognition.” Micron says the cards should also be long-lived: you should be able to record video continuously 24-hours a ..."
+    publishedDateTime: 2022-06-21T16:39:00Z
+    webUrl: "https://liliputing.com/2022/06/micron-introduces-the-first-1-5-tb-microsd-card.html"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 24
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2022/06/i400.jpg"
+        width: 900
+        height: 672
+        isCached: true
 
 secured: "jpS0fDOJCvzkXUAUL0ysyr0F6CpS3DqZjHwQTLhu9M+7sZjVikCGlBVzwmjP5PeispW0efd2wiCe/Xg7MGpThF4h1I1JBaZAESWslnp/gi7FogdYou1J7huE3j3nrvuQfBL1aD80aBGtLuHkWx+H+QT6qVmBUAhX1EFXK5zdoBur5jVnplhg0uHAe0oIfu2S3UFuO48Agc0bjWjRaPARb6H/TQPZGZ2tgE8ZOfu8RL65Ez52229Rtou6D68QJSyL4tfQ9nrFLqEeXQ4dsd/EfuDKJjWtbCsdOpokbe38YHt8ZgSEcTEEZraJxnpzYisctXu517wZpGdPBONFoLxNOCt9K7f6DZOt0s3NmMD+3IU=;OdciMBBpZ/A3UCV44Q75ng=="
 ---

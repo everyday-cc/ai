@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "How companies can avoid ethical pitfalls when building AI products"
-    excerpt: "Moving forward, firms must approach AI ethics as a strategic business issue at the core of a project – not as an afterthought."
-    publishedDateTime: 2022-06-17T02:33:00Z
-    webUrl: "https://venturebeat.com/2022/06/20/how-companies-can-avoid-ethical-pitfalls-when-building-ai-products/"
+  - title: "Transpara breast AI; strong clinical evidence evolves into real life screening use"
+    excerpt: "Safely reducing radiologists' workload for 2D and 3D mammography screeningCORDOBA, Spain, June 21, 2022 /PRNewswire/ -- The Transpara AI breast"
+    publishedDateTime: 2022-06-21T13:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/transpara-breast-ai-strong-clinical-evidence-evolves-into-real-life-screening-use-1031540162"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
 secured: "heghBObLcG4tPp0H5UWTEuhvxGhGMhYchBNq+tPWOJDs2kS4kCTXHtUcX1Mj/8uHABVRhu+5UChCgxj7SxI/NgU7sjHvX9b3uNp51765N51aOJChf0pujNLVOkKyTGJFvHirPdvGIbM+f3C33czk4AhjTtgjOtX2qvo3ex4bBd8POHIRWSuaSb9YS9tydQRRFG/+drC4Cn9SKfiVCbqzJDjmoDtOurXQ4ZSjCCTca2nKPeWWZAbufMcRwilDBdbgDzfdLtmh1WCCOAptZGJ/iCixHHWbbNihM+6bdOU/N4/uG0pGiPZEnib0CpN1rA7E70IduyzOIHJn6IAVu2lHmLv0bfipUSr7ylqmysn53NREUmy6UB6l0lhePmR0+1YhkYXfUNAWknKMxPD3YqiANu0SDWyXFNrUcKVlSGSppewSspqNAlBjfnSDJLejU+p3likynBxw2CU2HP+hxaF3vYTKKzaWM758jFuhvVHfrLiwjb4jtnB8srIoSJnVRmlXcdnfmcLS8hPSHvm6GhKl9g==;rMuB6WwOtiUIJRN50FyP+A=="
 ---

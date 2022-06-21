@@ -88,36 +88,6 @@ related:
         width: 2880
         height: 2160
         isCached: true
-  - title: "Forget sentience… the worry is that AI copies human bias"
-    excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-    publishedDateTime: 2022-06-19T12:07:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "What if an Artificial Intelligence program actually becomes sentient?"
-    excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
-    publishedDateTime: 2022-06-21T09:54:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1106320879/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-    type: article
-    provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
-    quality: 39
-    images:
-      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Why ‘sentient AI’ claims are actually very damaging"
     excerpt: "Google’s LaMDA system and its conversation with engineer Blake Lemoine got everyone talking, from tabloids to daytime TV, about the possibility of AI becoming sentient and threatening our way of life. The subject of AI rarely makes it off the science and ..."
     publishedDateTime: 2022-06-20T16:02:00Z
@@ -141,6 +111,24 @@ related:
       name: The Times of Israel
       domain: timesofisrael.com
     quality: 32
+  - title: "What if an Artificial Intelligence program actually becomes sentient?"
+    excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+    publishedDateTime: 2022-06-21T09:12:00Z
+    webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    type: article
+    provider:
+      name: Public Radio Tulsa
+      domain: publicradiotulsa.org
+    quality: 19
+  - title: "Forget sentience… the worry is that AI copies human bias"
+    excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
+    publishedDateTime: 2022-06-19T06:30:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
   - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
     excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
     publishedDateTime: 2022-06-19T16:24:00Z

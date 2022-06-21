@@ -7,7 +7,7 @@ originalUrl: "https://www.ocbj.com/technology/kona-ai-names-vincent-walden-as-ne
 webUrl: "https://www.ocbj.com/technology/kona-ai-names-vincent-walden-as-new-ceo/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 743
     height: 1087
     isCached: true
+
+related:
+  - title: "The CEO Rebooting AI"
+    excerpt: "Back then, we had to build everything ourselves, like hardware, software, data centers and even dial-up access networks—without the convenient, low-cost broadband and AWS type services that allow us to quickly launch services,"
+    publishedDateTime: 2022-06-21T19:13:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2022/06/21/the-ceo-rebooting-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "bX+1BnEmyCYnNL0YQcl5O02tLXmA0eqHo0L9XPCoFauhw6mQJqfjtoMtT7PIaqLB28gybbc+IC5krL1Swu2hgcrcFAwza6xdrZqrFei/n2yFH2mboOnwKD5GABV2U5tijPfHb/LOJjqMJnLr3VcCCp42NCkUohKeoVtVlqajQomvsTb+Sg4+MdYqQpCQTUZGiJYR1SlOeqbAZ5jcU8bpFl6lmrjutzJZpRoHbomPtSmQ4QEItn4FtDixw0JKQxmzbIgirr7KWK04Bei4Ihe97zQ5hqDJxOlghJs1oeErzP20Sja+vumUNIEs80YkXnBr/+z//zB2uRODAGcEApRwVoTKuphGDbinDGslfxes0vs=;eo/l1Z772iyDHDMktneH6g=="
 ---

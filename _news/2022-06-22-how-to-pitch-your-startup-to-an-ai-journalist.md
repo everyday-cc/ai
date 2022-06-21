@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T19:23:00Z
 originalUrl: "https://thenextweb.com/news/how-pitch-your-startup-to-an-ai-journalist"
 webUrl: "https://thenextweb.com/news/how-pitch-your-startup-to-an-ai-journalist"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Next Web

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T18:58:58Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-identify-mangrove-forests-using-satellite-image-features-using-amazon-sagemaker-studio-and-amazon-sagemaker-autopilot/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-identify-mangrove-forests-using-satellite-image-features-using-amazon-sagemaker-studio-and-amazon-sagemaker-autopilot/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: AWS
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Identify mangrove forests using satellite image features using Amazon SageMaker Studio and Amazon SageMaker Autopilot – Part 2"
+    excerpt: "Mangrove forests are an import part of a healthy ecosystem, and human activities are one of the major reasons for their gradual disappearance from coastlines around the world. Using a machine learning (ML) model to identify mangrove regions from a satellite image gives researchers an effective way to"
+    publishedDateTime: 2022-06-21T18:59:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-identify-mangrove-forests-using-satellite-image-features-using-amazon-sagemaker-studio-and-amazon-sagemaker-autopilot/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 41
 
 secured: "CjrkLj6NEWlD6KtJYaeUPCt8G3H2/sBTOhxwrQ+XjUc34X7JoZk8YOP3/bOqiN+jCWL/psRkNrhyk5D+W+dJD2ht5jzyFhHRQfT7qF+6YxVE466HKfJ7qaGojenOq2gDTIk2wGpeHZ0gTj3vqcm+e2dp+0gzBurWe/1cFfBtuktkFR/JZ4JfFnrBJ+UFm+chYDbOPbSFoa3xYlqfVgJ5FDmCguxnsH+pesbHwaSy5lFe7l3j9ekFWV9jZWduwYQrnMK/frl7R6hUpgYlZU+6vo3ypJkKP+AuO4pDYuYIVb3Di1KLbfsfh6KNEdLYULK8ZiVfkAy40dB3Um9WvvMLbEMOZa1zxEIoaNBRapFwKWA=;Eo6rwHsGH+xlT0FIchdGpQ=="
 ---

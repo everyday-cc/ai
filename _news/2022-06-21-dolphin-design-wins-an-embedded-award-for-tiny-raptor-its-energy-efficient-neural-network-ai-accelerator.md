@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-21T16:20:00Z
 originalUrl: "https://www.design-reuse.com/news/52189/dolphin-design-embedded-award-neural-network-ai-accelerator.html"
 webUrl: "https://www.design-reuse.com/news/52189/dolphin-design-embedded-award-neural-network-ai-accelerator.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

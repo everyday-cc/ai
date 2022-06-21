@@ -5,6 +5,8 @@ excerpt: "Likewise, new partnerships have recently been announced to develop and
 publishedDateTime: 2022-06-16T23:11:00Z
 originalUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
 webUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+ampWebUrl: "https://theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "WCPFACPXvck5kpNOpxuWFccaWv3LbyCmQv8oUOmgnpIpB3+WK5BPQ4ix9CEgNCzzQMzDmg9ybW1FsaYFq2AWpGDTBLM6cn9hN7Ng61l/MbKm3qs6xK5sVQEltDFRrumec0yqjaxO78orvzGTt/xnT8J05//2WTgKdsaOu+cL1s4NithQD4Un5BWZoatUEPpCKAPry0i6GugijfbMK7qqK17ZrWy+rVK4paL08V/mlqtO91k53j5RM6T0NRnDFSRFDAgxcs42n47f+JF0V7vsUJsKhZogXMC+gb7yIsNoM8P2YycP7kHF7BIA8k4xRNYcdMO1zjtR1CVsPA2a7aytEWH0IvO7eri1iPjT8K2OYpk=;NoWtTpNdrCXKCsf9PWEF/Q=="
+images:
+  - url: "https://images.theconversation.com/files/469278/original/file-20220616-12-ui495k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=245&fit=crop"
+    width: 320
+    height: 245
+    isCached: true
+
+secured: "vX9Mi4c5ahBOZL3dc9FmEFN/T1mD2RRCfGkbgrUW8xsEh4FCNwnfrPHypOXqBgT1+zzfVVlq2QvulfMjJA3qBCiR1sP9a5KNNneVwkGUQqnwbeiil+6rjU4yp5UeBqt35eix8wsoXMy8zB3UxGcm8dg2GqeZorbyXkNgiY7FpWfCSlBMlv0NLKimTCUrd3r6e3pCpoaSIVSL6nc4SaPYKlM7cacVwT6SZ0MVuJz40ma7w2FlyRGeVM07Nx7XrjeZ2BC2y3SFCL6i8cD/seaaovXGEZ2jXbzuojfrzWvyFDb7rfseIruuUnUXEndt3fSYkrouScPGXrP1fUygdDCuge6o0hgh2Ftc4DGdL6M6Dow=;I3AiLVy7axSD29qPwtmCBw=="
 ---
 

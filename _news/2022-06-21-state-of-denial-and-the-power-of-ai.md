@@ -24,21 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "New AI limbs let amputees control robotic arms with just the power of their mind"
-    excerpt: "AMPUTEES could use the power of their minds to control new AI robotic arms, research shows. A team of scientists has created prosthetic technology that enables people to control robot arms by"
-    publishedDateTime: 2022-06-17T01:14:00Z
-    webUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/"
+  - title: "In Perspective | AI and the red herring of chasing sentience"
+    excerpt: "Artificial neural networks in the other hand, have a predefined model, where no further neurons or connections can be added or removed. Only the weights of the connections (and biases representing ..."
+    publishedDateTime: 2022-06-17T12:46:00Z
+    webUrl: "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758.html"
+    ampWebUrl: "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 71
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/06/RL-offplat-brain-power.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://images.hindustantimes.com/img/2022/06/17/1600x900/3e86f56c-ee38-11ec-816d-25a8f4149995_1655468722716.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "The role of machine learning and artificial intelligence in transforming residential real estate market"
+    excerpt: "One of the primary reasons for this change is the revolutionary use of machine learning and artificial intelligence in the real estate market. While their contributions may not be evident, changes are apparent when comparing the present-day residential ..."
+    publishedDateTime: 2022-06-21T08:30:00Z
+    webUrl: "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/"
+    ampWebUrl: "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 58
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/388134892.jpg"
+        width: 1200
+        height: 706
+        isCached: true
+  - title: "Transforming the classroom experience with AI and machine learning"
+    excerpt: "There is a unique opportunity to create a more meaningful and equitable learning experience through the implementation of AI and machine learning."
+    publishedDateTime: 2022-06-21T20:50:00Z
+    webUrl: "https://www.universityaffairs.ca/magazine/sponsored-content/transforming-the-classroom-experience-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: University Affairs
+      domain: universityaffairs.ca
+    quality: 54
+    images:
+      - url: "https://www.universityaffairs.ca/wp-content/uploads/2022/06/sponsored-cisco-644x374-1.jpg"
+        width: 644
+        height: 374
         isCached: true
 
 secured: "s6rGZNssrFy6LovEX0zNs29UGGcu89PLdg/M4BYDmaJOzH6mgyai3Ny4KG0T4IXxwTvNcKJBdFjcq0A2U9t88wkXbb0F2kxBKTiuid7e4PnNrLzSKjeqY91Hp+zeuk3qhpVOCVVYWKYh4zTyne4st1DrdT3MnxvhE4nx2rA1fLLfqBPIri5JquRfmb13uEeZ8cCvhDOMc/B3YP7+YQZ81S6BjZVOhlmzyCLk+mAqNBX5fLuY3hbDCTdLRxc2sAfD3uwMB+nlxPCNJqYaxC7ksORTxknUFCN5XZJ4/sgZpjThHWH+YT1+NXXnCmuoQFNmhPyYymXVZULqVV3CP2K4icoW/p398VxMGH393XIIoYQ=;7HxqlLa2VvKUYTN8zaMi+w=="

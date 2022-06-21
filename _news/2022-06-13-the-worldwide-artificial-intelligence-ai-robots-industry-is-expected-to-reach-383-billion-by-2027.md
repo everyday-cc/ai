@@ -1,20 +1,26 @@
 ---
 category: news
-title: "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027"
-excerpt: "The Global Artificial Intelligence (AI) Robots Market is estimated to be USD 7.1 Bn in 2022 and is projected to reach USD 38.32 Bn by 2027, growing at a CAGR of 40.1%. Market Dynamics"
-publishedDateTime: 2022-06-13T11:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
+title: "The Worldwide Artificial Intelligence (AI) Robots Industry Is Expected To Reach $38.3 Billion By 2027"
+excerpt: "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The 'Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive ..."
+publishedDateTime: 2022-06-13T12:18:00Z
+originalUrl: "https://menafn.com/1104365563/The-Worldwide-Artificial-Intelligence-AI-Robots-Industry-Is-Expected-To-Reach-383-Billion-By-2027"
+webUrl: "https://menafn.com/1104365563/The-Worldwide-Artificial-Intelligence-AI-Robots-Industry-Is-Expected-To-Reach-383-Billion-By-2027"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "uGGWnxFedsj5DVrfV6b9/3cY6wselX15kAPLQiwHCSyE9YO1pX+m3pTah3UbPM2VgUs4wcMMg/wZlFGO9lQZ8dwY3b4zMdKzOEJ/E7sHeLWidYbfeIbPA0jzNgGR+Wc9jURd4H5T+0Z8H0VH+wn7tj5HRwB2vS07oluWyzINaZb3vJvyGcxkN20fbTk3ZRtu4+2T6vEzF/8x/09SByamr6BaRsJ1k+Y1dT3A7aYgmGpXjF8PGAJetQv3KfkIJSedqP/SAkL/YGKsJ6sAPKmR9MTaTHFjDfuCaZRtVx+rbl1qNjRnVdRJyJm738QTqg1spzTqTg4Frs2HcK0aWbvMOWXdqARQYlwktVCDqPw9ky8=;iGSdb/nlAp0BZphQuBlXBQ=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?159565"
+    width: 374
+    height: 250
+    isCached: true
+
+secured: "/SS40G8YKth5g+8JkiT4BNG1Erog0q2ble6mqFhFEsLf93/Kd5nFIWuG0NjbCkgwKJSZLRrUkiHi99Gt+HBYDUHozek2GCQpNM/HmtgOgUuupKUMNFWtH0bvosaIuc7UG3T9vVrnxiCXzogrctnNzMmACS7NuAToscMOleyjUxxYZ+zWdUwd+g6hyx/euzH9b8jZxmhTJ/HtAawGyAurf8aBk/mVQr9K1RB1tCGhmSUcTTgXTJzjU4Oef9f8ff2Cd9slTqZLadULIsQewJ9Kg+X6LS+q35/75D7MGzHjpkGOwhqJJ9yTy03Ci3zaCcU0KjyS9zIalyRpm4wBR17976S+YIZlG81BiYaWsfLPvRc=;/r3mkAXi+ROq9CP549+Hgg=="
 ---
 

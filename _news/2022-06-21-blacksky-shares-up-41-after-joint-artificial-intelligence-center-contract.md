@@ -38,6 +38,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "BlackSky Awarded Five-Year Joint Artificial Intelligence Center Contract for AI Data Readiness"
+    excerpt: "BlackSky Technologies Inc. (NYSE: BKSY) was awarded a basic order agreement from the Joint Artificial Intelligence Center (JAIC) to create and optimize data sets for use in DoD AI models and applications."
+    publishedDateTime: 2022-06-21T11:52:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-artificial-intelligence-bcb37a0858634d358b1e4b2d49d316c2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "io+RZTAjxm0C56I63Rkj+hFSS097sNFYevwimijrnW0XLT+cardf24bYpOXW9AjekGB8+jOP0UkOC8Ocgi65Y/KDe/JWO+Qzw1yIAp2815tHooaA3VUDrZAWksOhJ7k76arrI7R0DY5w8BZzPn7tBmK7I3EQ70QNW07bpPY0E9kO4fT5dSNgf6utZ2a5Brsd07haFjuTE6wpPPY0YqXpUW+0ODssOAtvanpMPnnWKzKBMpe051HrS3aEPs92JkER/l0F72uNiT8qHHmq73S0lWjv07jOd4tJLrldEsVHY1JivD6+vPY1QSTIZtckoU5OwRbOGnpybG8PKbtasoXol7SURI3w0rsUk+CufbECNwc=;5f+keo3LjYU/koIguv0Y7Q=="
 ---

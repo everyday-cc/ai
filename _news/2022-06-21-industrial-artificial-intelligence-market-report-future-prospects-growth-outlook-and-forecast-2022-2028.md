@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T06:36:00Z
 originalUrl: "https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-report-future-prospects-growth-outlook-and-forecast-2022-2028-2022-06-21"
 webUrl: "https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-report-future-prospects-growth-outlook-and-forecast-2022-2028-2022-06-21"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: MarketWatch

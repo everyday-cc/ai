@@ -3,26 +3,26 @@ category: news
 title: "AI-image editor Claid launches next-gen API to enhance user-generated content for marketplaces"
 excerpt: "Claid.ai, an AI company that helps marketplaces improve user-generated images, today launched an end-to-end image processing platform, Claid API 2.0. Claid’s technology automatically enhances photos,"
 publishedDateTime: 2022-06-21T14:36:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/ai-image-editor-claid-launches-next-gen-api-to-enhance-user-generated-content-for-marketplaces/article_d5e42f88-ac1b-525c-a900-427275994158.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/ai-image-editor-claid-launches-next-gen-api-to-enhance-user-generated-content-for-marketplaces/article_d5e42f88-ac1b-525c-a900-427275994158.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-a36c859f3a3a447aaf85b3a3a8e47a7e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-a36c859f3a3a447aaf85b3a3a8e47a7e"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/09/109ee08e-e32e-552e-a768-b1150a09f81d/62b1decc553e3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "HkW81v0tmakzQB5CBYi3bIHvaUKVaVG7EYrFqScwKw6UJznWBwXrxNefVk6SZBWKc+iAdlxIjIvILYW3B0q8Q1bFONvlY+lNm6ApptIRCJrOplGXKaopAC19r+cD6IMxYdxrQNZQqKgV1xSMxl3SGaXpO+zCuBYVHeA2gpn+aVDzatuWdb6XTApDKspdgodPq2AfoWuKWIBMg3+3/uODHZGmC2O+QRgfXXRlR705rpNCeAIKt6avYxHNtedZQm6rZh7nfPSJD+OefsPGT00nmXXg/WP10euzCarZ43g6aeQj1FzonKBOdwghbLsctbxyi6nnwmPEcM6rxVbEzICkSUJ8BO6qHieV3lYBvdLc4l84J5dLKkKN7GFalH6YD3rUMhcHmGCxt+XQL5almBlHjQpWafoWLKp5xOv0VKDt26xUW6rHwXRyajLotUx7qydsVKtG3zVteMHjhOrLUDW59+LKiAvcC4LUEydCrTAsyWrlB0t3R7+jVBfGSavd/+MAbn2DVWiSJH5NcSG4kIkQSg==;gd5JJq4T+LepO3unz0hSwA=="
+secured: "sYmH98AFrlxzJyGnpy10JYP1ATFD5I2LOkivFQQOhHXzugFi2HbyLi2i3xjPn2R6ykpXGhA5CUU2Bv/QGZ4qQZmETBjopiQby9+YGQ45DSpnuyU7Y30wsVZq0MRGs4zCfP/VtXM30O/9MvrF72MBe/Wjr01BCSbKzCJDYGflk3jfEpOxnOJMf545KeIm60GtVP1tTpi/Z2uKM1zbIUgwxxmz755XhZhrYHvO/xYCOMx+/3ChoAMSivUitl3EZUi9Y5Bs/9+6haOEyFyiXQTubIk9PJ4iZrS3gW5CtCgjCPu+gHjGHbIqwK4lduS9D4KzIXn663NE99rGNWXrqG0mn7jeggZaPs1BlCGE4n4TLlI=;aggIYBO5BPxbHxmOeZhw1w=="
 ---
 

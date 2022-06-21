@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/orbbec-announces-availability-of-femto-time-of-flight-camera-line-enabling-accurate-3d-object-and-scene-capture-1031540140"
 webUrl: "https://markets.businessinsider.com/news/stocks/orbbec-announces-availability-of-femto-time-of-flight-camera-line-enabling-accurate-3d-object-and-scene-capture-1031540140"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Business Insider

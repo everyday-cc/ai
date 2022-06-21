@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "Clinical research and drug development accelerated via analytics"
+    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
+    publishedDateTime: 2022-06-21T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
     excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
     publishedDateTime: 2022-06-21T11:37:00Z
@@ -54,15 +68,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
-    publishedDateTime: 2022-06-21T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Seven top search shifts on Bloomberg's AI-powered Research Analytics Platform this earnings season"
     excerpt: "Analysts use the Bloomberg’s Document Search and Analytics Platform to quickly retrieve company information and understand how the key themes are impacting their coverage. Our AI-powered search analytics in DS  is continuously being enhanced to make it easier for analysts to find the insights they need to conduct their research analysis."
     publishedDateTime: 2022-06-20T04:00:00Z

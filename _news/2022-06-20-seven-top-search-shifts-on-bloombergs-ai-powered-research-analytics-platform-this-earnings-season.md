@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "Clinical research and drug development accelerated via analytics"
+    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
+    publishedDateTime: 2022-06-21T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
     excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
     publishedDateTime: 2022-06-21T11:37:00Z
@@ -66,15 +80,6 @@ related:
         width: 891
         height: 594
         isCached: true
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
-    publishedDateTime: 2022-06-21T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "oQsywBOuhTxBJcEVjdDSEqDekwOrh2XymggC+tAREjT8mXUtVnoTrdOYU41YHcmnluysKrVjajFenhOh6lzVdfGCbEvn4Dyw68jqwMeLca9j0gbneuGUZV2u0UylXDXKq/ylFYM1kGfregZuNhZAPdnIBAvnqDwWJFIElLyED/yu4nIk2/i+wdIjrtYFW/rQ+tINBhuwtik6T29IoDFe/9IwGjuQ7Rz1/ZprUY9hfmmmrfLF17wsLtIE2QaPJ247a8x/SoSl/rY/nnvDgTqbzoeBqD46FdgPMUL/iR294fq2p20vrsx16ekykgJrKbTAVy6Q9jF0FHv0rvFaI+2AHXHeuytthTpR45RagIlu1bQSzACRNJNEWCLO6gLDiCE5BYjFlakS6K4KLv+1Z7IMzGAQ4pBcwrAxKNvWfIF2071iUL3bxvyyjLZO/74891LP0OpSY21KySVtcpiKYJfICVrPEo5miTeTYVk7WrPl73PLmuFvSK0a5ffGkTfHkKuBeiPsmU4Mqtf8YibTHrtRJg==;njdPa3Uhl/cHHgDAVqFa9A=="
 ---

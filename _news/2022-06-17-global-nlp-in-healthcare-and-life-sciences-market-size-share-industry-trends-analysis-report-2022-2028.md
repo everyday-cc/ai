@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27768390"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27768390"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,34 +25,15 @@ topics:
   - IBM AI
 
 related:
-  - title: "AI in Computer Vision Market 2022 Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast 2028"
-    excerpt: "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ..."
-    publishedDateTime: 2022-06-17T02:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028-2022-06-17"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Report 2022-2032"
+    excerpt: "New York, June 21, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Artificial Intelligence (AI) in Drug Discovery Market Report 2022-2032\" - https://www.reportlinker.com/p06288090/?utm_source=GNW The Artificial Intelligence ..."
+    publishedDateTime: 2022-06-21T07:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27788975/artificial-intelligence-ai-in-drug-discovery-market-report-2022-2032"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market 2022 Emerging Trends, Latest Technology, Limitations & Risks, Key Regulation Analysis, Forecast till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 17, 2022 (The Expresswire) -- “Face Recognition Technology Market” report study provides valuable information and useful guidance to new participants or companies ..."
-    publishedDateTime: 2022-06-17T23:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2022-emerging-trends-latest-technology-limitations-risks-key-regulation-analysis-forecast-till-2028-2022-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
   - title: "AI in Computer Vision Market Size, Share & COVID-19 Impact Analysis, By Type, By Application, and Regional Forecast, 2022-2028"
     excerpt: "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ..."
     publishedDateTime: 2022-06-17T08:55:00Z
@@ -67,15 +48,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Automotive Voice Recognition Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
-    excerpt: "Global Automotive Voice Recognition Market 2022 by Company, Region, Type, and Application Market Research to 2028 is a report provided by MarketandResearch.biz that examines current trends, provides a financial overview of the industry,"
-    publishedDateTime: 2022-06-19T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-voice-recognition-market-2022---latest-innovation-sales-channels-business-advancements-and-top-vendor-landscape-to-2028-2022-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
   - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
     excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
     publishedDateTime: 2022-06-20T13:09:00Z
@@ -85,15 +57,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 13
-  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2022-06-20T06:36:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 9
 
 secured: "iTPBv+SZGUDVA5zzk/HnHxgVyqUbdLAhAyLkXxPH+0ELFDE0vvVyP/1nnksauqaWLIA1c91VdhxSdvixB2K+0NkguK/xGfwX6k+aOTz5KpWHOHxvheumIWJvKUps9ECmopNaUixX9HXUxQBWzKlqPySQbJhmQMDQAYWw6zgs5dqSDwjPdHbKvfL0fGH579b1yF+ErdWPfgleUaS8bYOgeE0jEeScz6xRIHA3HOOE6N9zKic3LhnG5a3E5oD9qOMp2X3mXZ7C5wLlR8CORnlSQBpK6VMxrqYgvJ/9n0z1RtUF7nv5OWJdAiF4R9O0800sitFf7dB/Qy6dS2aRpUSE58IKwJ1UKAjjQ4ykx9UFsQQ=;4d3LXHEoVcGGsPdqvazqDw=="
 ---

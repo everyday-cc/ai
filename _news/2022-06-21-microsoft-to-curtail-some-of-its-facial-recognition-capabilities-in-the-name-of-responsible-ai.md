@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-curtail-some-o
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/"
 type: article
 quality: 108
-heat: 158
+heat: 208
 published: true
 
 provider:
@@ -76,6 +76,29 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'"
+    excerpt: "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI."
+    publishedDateTime: 2022-06-21T18:54:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+  - title: "Microsoft curbs its facial recognition platforms in the name of privacy and security"
+    excerpt: "Microsoft seemingly gave lip service to the notion of responsible and regulated facial recognition usage when it publicly pushed for a \"common"
+    publishedDateTime: 2022-06-21T20:39:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-curbs-its-facial-recognition-platforms-in-the-name-of-privacy-and-security"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 66
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2016/09/recog-825x510-1.jpg"
+        width: 825
+        height: 510
+        isCached: true
   - title: "Microsoft and Meta join Google in using AI to help run their data centers"
     excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
     publishedDateTime: 2022-06-18T13:00:00Z
@@ -99,6 +122,35 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft plans to eliminate face analysis tools in push for ‘responsible AI’"
+    excerpt: "Microsoft will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool."
+    publishedDateTime: 2022-06-21T20:33:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 53
+  - title: "Microsoft to Limit Access to its Facial Recognition Technologies"
+    excerpt: "Microsoft announced today that it will limit customer access to its facial recognition technologies in the name of responsible AI."
+    publishedDateTime: 2022-06-21T19:02:00Z
+    webUrl: "https://www.thurrott.com/cloud/269015/microsoft-to-limit-access-to-its-facial-recognition-technologies"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 36
+  - title: "Microsoft curbs selling of emotion guessing software, limits facial recognition tech"
+    excerpt: "Microsoft (MSFT) said on Tuesday that it would stop selling technology that guesses their emotion based on a facial image and would limit the access to facial technology"
+    publishedDateTime: 2022-06-21T19:12:00Z
+    webUrl: "https://seekingalpha.com/news/3850435-microsoft-curbs-selling-of-emotion-guessing-software-limits-facial-recognition-tech"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 29
 
 secured: "DNQCC7UBH79bXGKYL4ktoo1MeAaMyMxurnXxgr5D7tlN+x7G11VstLBZtwb884S//ge1Eoajc3p41mhi8/tFIqcVlR1YupjZOVIis5zwq3gGLDq6bWDZmuNdvBpQjvOHXKcj2m0yKB6mHKGDIR6TEpLXsn0Gb9NIlsw041yN3Xe7eJ185n3GhncFFQtAMZfAlQP9UOuD9bu+x66vRgYZYwfGv/KlVM9LLZQ80A/MJuyD0sjqW0JHE9yd7FDirW9b8KiFVFzP0aglAhDrVcwwPaLgk2W0RzgSmF408FVPC+E78++FNw3qwC5bEvU127I5ENs35QuoTZ8Ri9shNxZpVOwgTBSknobdLukTNOhAWDgjmV5DgmnldWc+IdHWZYr54OjE1D3iOZdyPG119NpZ9qSC0eYy9JJp41eoGVbgMzL8z93WX+3oJONW74MJScgLhwNe2K8hp2BbYMsek02dLnTzlnRQ5up6WQ7b2vZ7ngmdgig7JclNMK5zr5kiyO2+8kN5muvI/AuWe5RGjjNB9Q==;ZvnzCb1Oxs37Pox3lyqVVw=="
 ---

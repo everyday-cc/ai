@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facial-recognition-star
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources/article65535927.ece/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: The Hindu
@@ -26,19 +26,6 @@ images:
     width: 615
     height: 383
     isCached: true
-
-related:
-  - title: "EXCLUSIVE-Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources"
-    excerpt: "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago, according to people familiar with the matter and posts online, as the high-profile facial recognition startup grapples with ..."
-    publishedDateTime: 2022-06-17T02:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources"
-    ampWebUrl: "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 90
 
 secured: "6CehyHja4DQQMVyn2YqaytkCq/p7kzvul7PNGTYfAUof89AMplIAHDrYeYjs+r+x71FVw5nsLYnecTssVtLcS+ZObGelWLsdiEP0UPoSTyV4NMQUimf6xjUdE4mAHqWaazV1wzYlZBEhfciSb2MNjMay/bf9kx0puFFThTi4cl0wvaafE6gQBuAUEMG6EonaJLS+xs2izjPbC0hEU75xQ4E2xwYWg6MMzFz/uvZxMYS6aIsaF5zQZZMBzCVK+i6ZxaYnkwI4OXD6XtrYbVJG3nQMJdSmXFa9S3FrjhstU/2q5I3c6Dsf4BhX6nviN3JauOlf3o7lJiVE6k9n6cLeSDtl41V/cXTotvPg5/e5MqfwiIEsudr99AfSfB7Ety/JQ7VsV3GRGRVxdIrbnYTytMVDW63QHU+8WxGGxwQiOP8p9MQ3+fjGAasMwYyYTC9Slftcdr0B4b77QYikTqt41VZm3cy8nXgRilU+ZT9bDHDb2e00f3W89emcvm48W7IvMFleQXkb48cs7Rp49L8f0g==;0Pifo/mi13r2D3X6ybHSEw=="
 ---
