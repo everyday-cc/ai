@@ -1,40 +1,20 @@
 ---
 category: news
 title: "BrainChip Partners with Prophesee Optimizing Computer Vision AI Performance and Efficiency"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / June 19, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, and Prophesee, the inventor of the world’s most advanced neuromorphic vision systems,"
-publishedDateTime: 2022-06-19T21:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-patents-f6fb74dffbfcd8a9ee49a8d923c7a3ef"
-webUrl: "https://apnews.com/press-release/accesswire/technology-patents-f6fb74dffbfcd8a9ee49a8d923c7a3ef"
+excerpt: "Start a 7-Day Free Trial Morningstar Investor Unlock our industry-leading research and bring greater confidence to your investment decisions."
+publishedDateTime: 2022-06-20T00:50:00Z
+originalUrl: "https://www.morningstar.com/news/accesswire/705706msn/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency"
+webUrl: "https://www.morningstar.com/news/accesswire/705706msn/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Brainchip Holdings Limited/ADR: BrainChip Partners with Prophesee Optimizing Computer Vision AI Performance and Efficiency"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / June 19, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of neuromorphic AI IP, and Prophesee, the inventor of th"
-    publishedDateTime: 2022-06-19T21:09:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56344314-brainchip-holdings-limited-adr-brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 25
-
-secured: "+eeSE1XA16rmEsm4eMxLIq2vAO6eULJOmm/Os1oBAXwsnIKltT3u3s6B/lXaI8wtg5IpdAN5FfhBmlEGcxhDI12y214zJQmCxXVnxlcQ1J3A6vu2pERD/M4P/rsukOrCbhXk+bHxb/l99LA3h2mvLvmQFQ3IRTZvvlGa58YibVZ5FKNtDqhxJ7ZbOCPY9Cdx+ytT26bzNRr/J6awn5fWJCuJ6hftfrJwUhOlOJRrGG4ASrE22qZlatE1Y4pgSAZzWrwcLsS4eKANKn8Qjj37BeFBtrILcJX/x4cT209IKJ46JwF2pqbaZISpjSLe9iv7VqnrHNaI6IFFjjVWIeadVV2ssLlC9qFK/eN/2yjUAxI=;85W+lM1I2NiUWBZVKrD+gA=="
+secured: "W01h5PDYpgWhTqhoRJaR+zHxIF3Ns8REL2AeZPmlLetYAwgl3svAulvm4GygYTxA7UNuvinx5sb4CY1jGO8oYm+nFiaucdUYL/bCqqbIWUCjmkp7VmKxhsPwEw76EFQ4DhQ5YlrmF6gMoBGb6c/7MLGohoPZ45UNwDT1BnLkFhfwapUR2HUIothc1L576TJ/ihyn/e4g8SdxABBRod+1GrJH+7laIxrukmxXjYxuDa4kU8TKCMi76S36g/lApHV4aUYwyB7BhQECFdUjcExEcHgGpZvl1Xfd/p4QCL68WqVaZT9Q/fp/7FnaYgILhduAx4KpV3uPHk/IIiVEcIlEQzto0YdP4O3Dq4ggMqdeEbI=;NpnJ7XEKIaeYBGsXXaVQnA=="
 ---
 

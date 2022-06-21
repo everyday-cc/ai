@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
-    width: 415
-    height: 539
-    isCached: true
-
-secured: "OmmKMopaES0c5UoXlvb7qSwvWDEe1HhU8z0RQlc6cUyQhgvsFKa0O76lUAnMhtAw/82PlK+KkMlZM5zu50wvWV4cLKmbA9JsScqzIwUVucVkDW4gTqG4Dr+PJFo3iTEuuJVNvHfM/d2DH8AdPUeBz2aUt2vGQ37MZUdxe0JA28zZTMo79zrwrZR1faUS+NDsWm1tOzv6eAGlwkVYVu/zqIBz6BceSff4rEkIV0+HX0q9Q8gvLipBvklHY5v/GU5dVwxAqlhZ4kTfkUaYzlwjA8EFGmOIqaKNXi/xLPW8O52p/DkCKDbH8wg4774TQxM3705sdHcn83MAO0THs/HKAMxfliPbhLNRaInzv66qPHRsrlVXf0eMyUr2I8J3XiTL5glt1XXbXEVIFn5d+8r/Z+s6s/RTJUKkGctzz6sGBwzz9RnQkPC1xge/QCmESD58O2D4kzq2eHLqnra3li0jKfi52yN2DRF2uyP/BAKd2vHKKiot8XyqZMDd/0hKRzRem0FzDTQONxn66xsrDvjE/w==;6DuHoD1ZuFsMZTqjP/3m8Q=="
+secured: "xXC3bCuWSUefldSsXLrfP42iIHN4k/cpIFYiDn57ECSpBZV0djYWeRU6wvq94IvVDosDfdq1oa2UFyz6mOeb8DKC6puMQoQblQXfwUEs2qpPioFTCaNMe2e+PJtteVIv/xdyYN1yp1viEm5aDeft9uM/SSsOwaaotVADj2D5m6GujzZih3RDXvDSYBoiuWBcZObFLyEKpqrPfehn8ufOgF8bhgSxXWwbHkNXFSc35LqJ4fDY3in7SOS30IH2sLtlZG+oeX3bv201NfieXl353yAwKDrEKHCayDwvOKMNecQ/BixzF/V51Yb2gN73OwnI0FYj7BJimoiaaRxe+HL6ur02usyli71y61KXHCW0j7KNzuitTh/6qqe7QprW4sA4AWKaQ36JS9CofxFs6fV+TfO/hDSxMYs+81CKcZvB6PCxLEV3yj6h+hSi+4CPyNuagVWHn47T+hlXVPt5Pi8cC1WOydww8ISst1A7R3RxyXVSRbM7A4CBpD8RvCb+m64j5gXce9zxQ1Sy4zYwSnQcdA==;cW6dwfC0WZaECj1aozeMqQ=="
 ---
 

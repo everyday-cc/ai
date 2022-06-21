@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.cio.com/wp-content/uploads/2022/06/fintech_electronic_payments_banking_dollars_euros_pounds_yen_by_metamorworks_gettyimages-1127063674_2400x1600-100835370-orig-100890294-orig.jpg?quality=50&strip=all&w=1024"

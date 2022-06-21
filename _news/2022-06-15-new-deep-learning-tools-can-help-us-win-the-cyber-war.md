@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New deep learning tools can help us win the cyber war"
-excerpt: "Stronger public-private partnerships and tools that help organizations more effectively detect and mitigate attacks can help the U.S. stay one step ahead in the cyber wars."
-publishedDateTime: 2022-06-15T10:11:00Z
-originalUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
-webUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+excerpt: "Today’s columnist Guy Caspi of Deep Instinct, says deep learning can help security teams get ahead of costly cyberattacks on critical infrastructure like the one last year on Colonial Pipeline."
+publishedDateTime: 2022-06-15T10:14:00Z
+originalUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+webUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://files.scmagazine.com/wp-content/uploads/2021/12/GreatwoodColDEC-e1638991220438.jpg"
-    width: 1241
-    height: 745
-    isCached: true
-
-secured: "dxBmX5j9GxfCLOPTe+xLcQ5+kVWott/Y0ZbQbtdFvnUuBm9JCV7vHH/geBlFWATeVxgA020zTl213RLnOb9jlL9PvTOq90f+DGaTwJ+4oL1DzbhKQsDpnu6yuOnZC+fOhZs51VivUCrDA43whawP3gahdmTvTfY2R8WfCQHIrYCDpwL9+7QSEI860ncuRULnTiPczBQ2E++TKRof1tBTejzN3NBcaySX8vZ7MXaLJvWQC271H2kJ/UySFvSAITn0HYa43T3v09u548DTTJA0OdgmZk4qOB6PNA9nMZeIpXUBH1pMh31QEVfl5ePIug+0pilc0BosT6akQWa6iABiXMLXRbTr09QlcSMnOxyS3HjD7DI/RhL8V/a5UyM+HzQNX/8ZFTP5gjvDWKcUR46/ClkKaFQQxSlZOTabuOVYfJXsQztA/zH85y2PiIEMnWdrGOjs7tkD5EcrGuX/qLkeUV9vZZ/O1+IuSzDv7r18/bC3z1dRZLPkAtpGhLFJJ+5w3yaZFg/3GbXkY6/Ftsvw5A==;f2dinZlZ00u5dAT2bjYlTg=="
+secured: "ZpSHGkyuMsl9acnAn+rR4qbwDiUv/mDFXf5Uttlm34Hb9cFSi0b8JkkWv1rGdGmJMe923zEc/QEDhcSIhesprt2Rw8MO/LgjWtkL9xNBthybA3qUx0hmy5TRk5GC5Hczw5e9zYDn2NLwDXuqbs8VR8DxKYf21d0V3xMR8f7fTY/osVe/yb06v34swtquTr7KU5KAhLjskcyIyifXMaf31GWVPg/o6wXkF9/v5q9KcP0OZxl9+JaNok2CsFRtP0pBEE0K4PmBtwmT3c0FDRzgdUXSsbVXIOeTM26cH1950YQ34MueOllQS3SiGj5RMG5OKYhCcCiGeCpChKSm3EZdsaLMKaDhffxsTgfsvSND/SQ=;WdhOAFSSr1fVr4L1dfhzdg=="
 ---
 

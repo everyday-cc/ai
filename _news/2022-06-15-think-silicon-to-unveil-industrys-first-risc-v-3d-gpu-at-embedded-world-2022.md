@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Think Silicon to Unveil Industry’s First RISC-V 3D GPU at Embedded World 2022"
-excerpt: "Think Silicon®, a leader in ultra-low power graphics IP, will showcase the industry’s first RISC-V-based GPU – the NEOX™ G-Series & A-Series – at Embedded World 2022. The company will also introduce the NEMA®|pico-VG,"
-publishedDateTime: 2022-06-15T07:07:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5"
+excerpt: "The new offering serves as a GPU platform to be implemented in 32-bit ... is a leading provider of ultra-low power 2D & 3D graphics, AI and video IP for smart IoT/edge connected end nodes such ..."
+publishedDateTime: 2022-06-15T09:58:00Z
+originalUrl: "https://www.postregister.com/businessreport/technology/think-silicon-to-unveil-industry-s-first-risc-v-3d-gpu-at-embedded-world-2022/article_17f0da2e-cdaf-57ba-a643-999165c3f8fa.html"
+webUrl: "https://www.postregister.com/businessreport/technology/think-silicon-to-unveil-industry-s-first-risc-v-3d-gpu-at-embedded-world-2022/article_17f0da2e-cdaf-57ba-a643-999165c3f8fa.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Post Register
+  domain: postregister.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "t9Xa5ovK9VveSiB2vPRw6zyqeWUvI6BGMFMpi2kS5LWmSKgvpBR94aDqQHwYaROYuuGOlrLI+aKEqT1INFIMxIbFLbi1VOPRRpC+B87sKQXZfU/IfXlTt6ZK4OEv0vryvasOYcPR4yg59PPwzHdcsx5y1C86FYBOhYPVIHzl6pd8hmMngVUqSEWsCvB+kcODfvuT2zBf+f7KmnnK4eHDU+diuozj6Ay7UzQLn3wNYw09d2bhRAj+sw9hONdqPMi+SgB8JQPxlTrA5fqOHreW9VhD74Yh9HRGDqgV1GiDNl4us54E83J50LLba2+umeeYiZSdKrlSWMzNbvHXHPd0rWRsa9XN2ntnF8Q9C2fTEhw=;xdOasQhQS91lFvlX+zL5qA=="
+secured: "D7LvTdpoA/TsSnUc3l8TcOTv0lnZzO+n/McyJE4AafMyeAqZbE3cIjr3zVAEXQIXC74oDc9hSk7/xzg8PnaZslux2p6nfubsGlE5K5J/W+k+EiMAV3sjQuv0Jfof2paFVlx6BalGifT1eZyqU+aq22Bo0zjPl2o0QQ/AcARmrTQ7vuNObaKAJ0nIIkD76LVeDYmmds0q9oWY6szNzmvK55sGiVJjYktCUBdXphaYPfL96xTaNOqB+hyf0Bmb7eSC9UuEhcDZSguPg6Onl7Y/N9uur0mWRg9ibOKx1op/tVVOq8CpzavNuEZNUWsHuWVY7VycSjaMGiyKizFo2fj7HLHv7Y3vKCE67nRijh+mb7E=;w1thduuRTezAZFZJ1EMlew=="
 ---
 

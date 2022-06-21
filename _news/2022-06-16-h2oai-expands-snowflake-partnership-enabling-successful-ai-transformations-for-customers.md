@@ -1,26 +1,20 @@
 ---
 category: news
 title: "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers"
-excerpt: "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En"
-publishedDateTime: 2022-06-16T08:16:00Z
-originalUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
-webUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
+excerpt: "H2O.ai, the AI Cloud leader, today showcased a unique set of capabilities and use cases that enable rich insights by seamlessly connecting data and machine learning. Snowflake and H2O.ai bring platforms for data and machine learning together to help more customers around the world innovate with AI through a native integration that allows users to access all of H2O."
+publishedDateTime: 2022-06-15T18:28:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
 type: article
 
 provider:
-  name: Bdaily Business Network
-  domain: bdaily.co.uk
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
-images:
-  - url: "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=1200&h=627&fm=jpg&fit=crop-47-32&s=88fe7b821d6aca1f29e9a18f3d17c66c"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "Y14rbiEPEosjGwkG0foi9uv94rvc/aDXnDX4ZvgGsZXMc31SCA0g0NPkQItg7W+oLfYR7OdSEIfF3nVYXAeXOGpsP2UfoiNiE0+5R07ufUeHcr5SOkmgme3XoNTTpkP+vfsD5tVgVtuhx9gegvQWazdIl5cmTKzuZazEq+UupU7YFoxw2Ks4mSG4IuZvm/NtTs/SRk4eFfCEq3NtTLM39fcj1iCZSUQrvz2HB66Zq8AlcYq3JVv2nPUj6lsXSJeXYk6R1gBu4RD3NPkcrKj5w1X6Pa0gJqOfWzxODngXiGSX5DHYOo3DHYIZ6kCdr3BvHEHpCADKAtWPZ+wtpDUomKtM2S8tBO0PO5eJado06BFdf+6/W8/KkHkDtlwClVaVmuR0KxxGYklKuwKG6l7QTwSwQ8p2KcG8ZPIy9xIH31i9IZAi8bg6xFB8SlUjOXUitstJ0f+9+Grm7pUVazRQiCwW4JPV8gFim27kuIFS4CF6btCPYBK9y/+B8jRkWjqDdUyubufn1ppGSYKBpLRDtg==;RMLgHeLR1R2KYmFirAjS8g=="
+secured: "h8vflGJtYFpwcFaoYT2dRmZbTx/mCPqyyRfd5kYTjVqnuwAmexOTDR1fC7/V7pQ5oLcs7sBfvN+HgIMVjCAaanGE8sZodWiwK6naZIdVFm3yNlpsEdXHqt6NxUUPmfh1f79i2SrZL/a+qwkhU10u5J+mhe1KctScMTfSLucv8ZZasa6tjJm7F+7aYJPkw4Hsfmwr+3jbOmeqJUCZ+XL87kTCSCsbqSo1cIWN4rmhXy/bE4uC51gUGL5czluzuZmEuUEl7e5iA5G8X2KsRsh4Lak+ybtNxJvsWjrXuE0OQmc96bogaKfru3S7pvtnCvWwxbUBpd8rCZxX+YseKXn6/ZeEgAkzcONkQX/rRXQKuTBT43vuiN6+NlmVR0uOsEBZ/4dNNO6BPhYhtg2Th4d6KXdZo0+Updg/PSJ1LKC/vitxpl4493VnduE2RXjFd7//ohTEt+kjM94dwqVDCRYeGQE/rjY5Ubvis/dIlmVzyQOidZxBkSRQHDPrTLNX22S+7PKsyU5E/j0BWA0FXYPjUw==;lk8KBZddj9wCSKV957RVnA=="
 ---
 
