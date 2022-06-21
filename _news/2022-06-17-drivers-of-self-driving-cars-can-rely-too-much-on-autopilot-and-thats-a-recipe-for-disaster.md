@@ -21,15 +21,22 @@ topics:
   - AI
 
 related:
-  - title: "Convoy Of Self-Driving Trucks About To Put The Hammer Down"
-    excerpt: "Kodiak self-driving trucks are on pace to be able to do runs, sans a human safety driver, within a ... [+] few years. Excitement – and controversy – within the Automated Vehicle (AV) sector has centered of late on Tesla's TSLA autopilot driver ..."
-    publishedDateTime: 2022-06-17T19:35:00Z
-    webUrl: "https://www.forbes.com/sites/richblake1/2022/06/17/convoy-of-self-driving-trucks-about-to-put-the-hammer-down/"
+  - title: "Almost 400 self-driver, driver-assisted accidents in less than 1 year"
+    excerpt: "Tesla's crashes happened while vehicles were using Autopilot, \"Full Self-Driving,\" Traffic-Aware Cruise Control, or other driver-assist systems that have some control over speed and steering."
+    publishedDateTime: 2022-06-16T12:21:00Z
+    webUrl: "https://www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year"
+    ampWebUrl: "https://www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/almost-400-self-driver-driver-assisted-accidents-in-less-than-1-year?_amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 44
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1655338884_3MBtTR.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "L5JtC5+RsYAzz71PaJgydyVuNQp2D7D1VUMVsKouGkFiUxNW4yKy4wJBISo+1bqePTjRZAlTBdFa4z5XYQAn/myId0pgqLi7zq2tsBvKEK7eVHv2Boep4WrMiKnj20weJ4nlna/6ciqZDMrROWDa0b1BTpHjYToE9R5OJDF0ecax+JmsUSOkLkPcOsyeXxcutycyFj3s7g56EDH4Er5ZTaABWQZwSHRW6omnhB5pmb/ZiY3KygdLv/2lqzbxZcJchskTSDBY83U35HmSuRRBSE7ZLmjB7gGwsrLM6TOGYGFsX4Q1lTe7umAsW1124Z7pHUPfkpSPqLUUnB6HcIuhlZ8uoSivorx2am5vQYq4PiU=;/M+V6OxKXXF9JGk7BDGxsw=="
 ---

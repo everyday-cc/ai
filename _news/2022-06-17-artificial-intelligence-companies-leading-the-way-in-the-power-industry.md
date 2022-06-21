@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI Could Be The Answer As Companies Chase Down Debt"
-    excerpt: "Webio has raised $4 million of Series A funding as it capitalises on growing demand for digital technology in credit and collections"
-    publishedDateTime: 2022-06-16T08:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/"
-    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/amp/"
+  - title: "VCs target AI accounting startups as companies look to control spending in uncertain economy"
+    excerpt: "Worldwide, startups making AI-powered accounting software amassed $233.3m in venture capital between January and the end of March, surpassing the $210.2m in funding for all of 2021"
+    publishedDateTime: 2022-06-20T07:49:00Z
+    webUrl: "https://www.penews.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
+    ampWebUrl: "https://www.penews.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
+    cdnAmpWebUrl: "https://www-penews-com.cdn.ampproject.org/c/s/www.penews.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Private Equity News
+      domain: penews.com
+    quality: 46
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62a9ff56e9b31aa25e09c8a9/0x0.jpg?format=jpg&crop=500,234,x0,y104,safe&width=1200"
-        width: 500
-        height: 234
+      - url: "https://images.penews.com/im-566585/?width=1280&height=853"
+        width: 1218
+        height: 853
         isCached: true
 
 secured: "yP+Ki/RUY3gKY0YPD/xnvTt+IeQpxAMaCuuHtpCwsZKR7xLedgsz+TtsJXMrgDVE1vuVPvyaKkWnVWMvNnOPVg093DI6ReIxaCPuyLOPGKm2Dvc/FPuD1EbCVCLsu43NFdtYbjLhunvBBYWmX1VwCMtKykaahuUYYvktTC9Rx3EZOM6/ytVZu9hACc2Bm2iyxR1i4/5Sdrl5JJmbVeNDa8XsvpERpL9OQOQRT3Y7KyL+O7a87kwFuMKXqQsw1jEivoXxyUBRXFGPWEkF4tf+DYn9McmK+VmEGkPXuRxeX2L4UNqdQeFApHBAouhHWKFr3nPycU+ihheAzpYlQHHTiIO0J84uBGBw5A5e06nX85Y=;ITrV6ueNAs6KmRdJW8bEaQ=="

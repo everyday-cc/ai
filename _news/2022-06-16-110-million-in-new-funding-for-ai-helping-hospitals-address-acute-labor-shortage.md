@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: Forbes
@@ -30,36 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round"
-    excerpt: "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly."
-    publishedDateTime: 2022-06-16T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-565272/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Israel’s Aidoc raises $110m for AI tech that reads imaging scans"
-    excerpt: "Series D investment brings total capital raised by company to $250 million; investors include TCV Ventures, Alpha Intelligence Capital"
-    publishedDateTime: 2022-06-20T07:17:00Z
-    webUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/"
-    ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 57
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2018/10/Aidoc-Founders-e1539593690908-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "AI healthcare company Aidoc lands $110M"
     excerpt: "Aidoc, a company that uses artificial intelligence to expedite medical care, secured $110 million in series D funding June 16 to advance its data-driven tools. Aidoc's care platform has 15 FDA-cleared clinical solutions to analyze imaging data,"
     publishedDateTime: 2022-06-16T17:30:00Z
@@ -74,19 +44,19 @@ related:
         width: 460
         height: 460
         isCached: true
-  - title: "Aidoc Raises Funds for Continued Expansion of AI Care Platform"
-    excerpt: "Aidoc, a provider of health care artificial intelligence (AI) solutions, announced a $110 million Series D round investment, bring"
-    publishedDateTime: 2022-06-16T20:09:00Z
-    webUrl: "https://evtoday.com/news/aidoc-raises-funds-for-continued-expansion-of-ai-care-platform"
+  - title: "Shield AI Raises $165 Million In Funding Round To Accelerate Autonomous Piloting"
+    excerpt: "Defense technology startup Shield AI has closed a $165 million funding round that the company said will be used to accelerate the development artificial intelligence (AI) pilots, including in degraded GPS and communications environments."
+    publishedDateTime: 2022-06-17T19:16:00Z
+    webUrl: "https://www.aviationtoday.com/2022/06/17/shield-ai-raises-165-million-funding-round-accelerate-autonomous-piloting/"
     type: article
     provider:
-      name: Endovascular Today
-      domain: evtoday.com
-    quality: 39
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 32
     images:
-      - url: "https://evtoday.com/images/meta-imgs/og-img.png?v=a48115b"
-        width: 288
-        height: 288
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2022/06/v-bat-maritime.jpeg"
+        width: 960
+        height: 644
         isCached: true
 
 secured: "fTlfCNN08rfHNUPQCjxCzeecB9wC7o7l9a3BTObpts0ThsRcsWvXAGvxLyc0CLW3nRNSjCKSEPjXhTvWaw9Ee9+n2YNbQ+Jt2MfGJOkSc5q/otkB3BH2XZRL80sivTXbVHtB921y/xAbtWgCA5Ntw6dxvi/gSL06MB8h70gkoA0v8OgnG0RCKlXGuEPN1rHr0aVWpAdEC9npqiWx5UAhfGKu8uuyKotxf5ZXjN+YuVIZ+Srp9ZZpgJ6HDAwtFn9+KI1849V6yvFCCrPGmEwhbBS8U241Hf0M/+ylGZo/0Zi5PcAKsZs8s8HUYET6FHw6k3fMZtZOJ0Jk9o4IiQt79sUFu3WiQPEyJ08VbCojAdJmiAevRg7u5eJLOVkDMwh3J07VCyhx5bdcV8nMchw6kPRO7O+VTYB48+tPPBe4+8kvvs/mhtYLmUbDv/qhd6+VSgN1FMR4uyt4E3PQfRaQiQaK8NRGVAPB9bdzj8ZROu146CXZN5PU41jqlwSyli7JpmQlYLQRwBZyfqo+UDdoZA==;9rEoXREvqr1wvjDxtWlUWQ=="

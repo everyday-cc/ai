@@ -21,21 +21,46 @@ topics:
   - AI
 
 related:
-  - title: "How BMW's intelligent factory uses self-driving vehicles to automate logistics"
-    excerpt: "BMW Group, in partnership with the Technical University of Munich (TUM) and other companies is exploring how self-driving logistics vehicles can be used in a production setting at its component plant in Landshut in Lower Bavaria."
-    publishedDateTime: 2022-06-20T09:49:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics-41655714976539.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics/amp-41655714976539.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics/amp-41655714976539.html"
+  - title: "Report: 500 crashes linked to self-driving cars, auto-assist vehicle technology"
+    excerpt: "The National Highway Traffic Safety Administration released 10-months-worth of crash data involving vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
+    publishedDateTime: 2022-06-18T03:14:00Z
+    webUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology"
+    ampWebUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: Fox 13
+      domain: fox13news.com
     quality: 40
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/06/20/1600x900/P90466955_lowRes_intelligent-connecte_1655716753429_1655716769014.jpg"
-        width: 1599
-        height: 900
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/06/932/470/self-driving-cars.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Authorities Release First-Ever Self-Driving Car Crash Report"
+    excerpt: "The disclosure, released by the National Highway Traffic Safety Administration, is the first of its kind and part of an ongoing effort by the federal government to track the safety of autonomous vehicles."
+    publishedDateTime: 2022-06-16T15:05:00Z
+    webUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report"
+    ampWebUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 24
+  - title: "Cars with self-driving capabilities involved in hundreds of crashes over past year: Data"
+    excerpt: "National Highway Traffic Safety Administration released new data revealing cars with partial self-driving features were involved in hundreds of crashes last year."
+    publishedDateTime: 2022-06-16T19:14:00Z
+    webUrl: "https://www.fox61.com/video/money/cars/cars-with-self-driving-capabilities-involved-in-hundreds-of-crashes-over-past-year-data/520-f6233a90-759f-4249-8ca5-fbb2501f63e3"
+    type: article
+    provider:
+      name: FOX 61
+      domain: fox61.com
+    quality: 15
+    images:
+      - url: "https://media.tegna-media.com/assets/WTIC/images/ac7061ef-9111-4824-80cc-9cc287df0d21/ac7061ef-9111-4824-80cc-9cc287df0d21_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "z+rQFi6VEROHQsZC3FjJJiMj/c2RVQfJ31zV2C9cnMzhAs0QQ7C0Hnn79U7c2aPO5e975K9wnqd0Ps33eAcWFgU5kvnVPUTxNPBmnaSqIajGmkRqItI7lbF/jt/k97qSxtQzR/szKNjfHSXLB7fPztQc9u68B1ApxppHJsZ7jayLyRFSsR8ssfOW/D/tfdf/oJXmYJjjqpyLCMs9v/kT3xUzPFXuc5wO0n5O/GOdGe5wFjTRIRRekdm1mAoHEQbNQ18oQFM373/m/MgLN0XbTLaapFLx5rrbA5HCJJPedmeetRq66C4lE2+k9mmQPcijubwlJyWmonuDVxiCCVcdp1MpNFIHZFAcr7DHAQUmf4TCA+EC344nPUErDUXNcPTles/SsPU+YWgA3hW9zgXdq1rdW37YwJYnFRgkvcuyru9sEyyrixIB+g2exkS8tSHxGsYVio/6NFKBX4rgtaaAmLNsItGrms1aClcuwUT0agi4hSpqeP7t6Qga28jicwan38wjn8E+jSNiGVAAg+lJew==;YVLaYeozXFzRZCI5+E8/Zw=="

@@ -88,22 +88,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Science for All | How do you know if an AI program is sentient?"
-    excerpt: "The word “sentient” is defined by the Merriam Webster as “responsive to or conscious of sense impressions; Aware; Finely sensitive in perception or thinking” – Humans are sentient beings, hence an AI that incorporates sentience is vying with humans in intelligence."
-    publishedDateTime: 2022-06-16T08:57:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/science-for-all-how-do-you-know-if-an-ai-program-is-sentient/article65529337.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://www.thehindu.com/incoming/stpnzh/article65527973.ece/alternates/LANDSCAPE_615/iStock-1160995648.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Forget sentience… the worry is that AI copies human bias"
     excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
     publishedDateTime: 2022-06-19T12:07:00Z
@@ -119,20 +103,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
         width: 620
         height: 372
-        isCached: true
-  - title: "Comment: Artificial intelligence will tell us if it’s sentient"
-    excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field experts have not backed him up,"
-    publishedDateTime: 2022-06-16T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-artificial-intelligence-will-tell-us-if-its-sentient/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
         isCached: true
   - title: "Don't mention Google's \"sentient\" AI chatbot"
     excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round"
-    excerpt: "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly."
-    publishedDateTime: 2022-06-16T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-565272/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage"
     excerpt: "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records."
     publishedDateTime: 2022-06-16T16:00:00Z
@@ -55,35 +41,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Israel’s Aidoc raises $110m for AI tech that reads imaging scans"
-    excerpt: "Series D investment brings total capital raised by company to $250 million; investors include TCV Ventures, Alpha Intelligence Capital"
-    publishedDateTime: 2022-06-20T07:17:00Z
-    webUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/"
-    ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
+  - title: "Shield AI Raises $165 Million In Funding Round To Accelerate Autonomous Piloting"
+    excerpt: "Defense technology startup Shield AI has closed a $165 million funding round that the company said will be used to accelerate the development artificial intelligence (AI) pilots, including in degraded GPS and communications environments."
+    publishedDateTime: 2022-06-17T19:16:00Z
+    webUrl: "https://www.aviationtoday.com/2022/06/17/shield-ai-raises-165-million-funding-round-accelerate-autonomous-piloting/"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 57
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 32
     images:
-      - url: "https://static.timesofisrael.com/www/uploads/2018/10/Aidoc-Founders-e1539593690908-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
-  - title: "Aidoc Raises Funds for Continued Expansion of AI Care Platform"
-    excerpt: "Aidoc, a provider of health care artificial intelligence (AI) solutions, announced a $110 million Series D round investment, bring"
-    publishedDateTime: 2022-06-16T20:09:00Z
-    webUrl: "https://evtoday.com/news/aidoc-raises-funds-for-continued-expansion-of-ai-care-platform"
-    type: article
-    provider:
-      name: Endovascular Today
-      domain: evtoday.com
-    quality: 39
-    images:
-      - url: "https://evtoday.com/images/meta-imgs/og-img.png?v=a48115b"
-        width: 288
-        height: 288
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2022/06/v-bat-maritime.jpeg"
+        width: 960
+        height: 644
         isCached: true
 
 secured: "F6o0kHpD2jRCwmgcqnvrhTcGirI/0RtMwqElZuYFTxgkYDSt0eNrEl9bm7ujPjkWRsuWzasjZ9mwklWQsd2/v5LMmCl24VEfJnzOIU78hE7v2HXuaXOTOmeRVNZfP1GfF9Eurhvwm6PQsfQlzI1M3/BdRi/bBl/FXOOYzcb60MdgDiEmbl3DBXNDWkKSqsSQqPCEpOBBDlna0sppGhjzK/POt75wOchQccFiwYkJGfJC0FcD2jCrrv2vwRO9h3aFJVeHI5z02ABiBoSOgtYdB963bJifvCsRIZhQV2CrWpCp8f5CHhCFiMprKZPMrYk9EzZIhW+4YBTTIn7RpMTPbdhO56o12GGumH9vx5hPkg4=;dzWcNfAV45Qrtk6ng5uWBw=="
