@@ -94,6 +94,20 @@ related:
         width: 2880
         height: 2160
         isCached: true
+  - title: "What if an Artificial Intelligence program actually becomes sentient?"
+    excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+    publishedDateTime: 2022-06-21T09:54:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1106320879/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 39
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Don't mention Google's \"sentient\" AI chatbot"
     excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."
     publishedDateTime: 2022-06-19T01:28:00Z
@@ -122,17 +136,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "What if an Artificial Intelligence program actually becomes sentient?"
-    excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
-    publishedDateTime: 2022-06-21T14:12:00Z
-    webUrl: "https://www.wuwm.com/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-    ampWebUrl: "https://www.wuwm.com/health-science/health-science/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/health-science/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 37
   - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
     excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
     publishedDateTime: 2022-06-19T13:43:00Z
@@ -152,6 +155,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "aMPNmtwFsWXxZWe0RA6Re/+ASphdoOkMdulVS2/a3XRp5BKMBO9NLLxluLSfmNSqm7jz33E7PiaSQDuwVZvNKgJ/0Tm+yY/nnMCwiG5l/W0StEFPuJyqW5Mc+XzIdQmlER8mX/oS0aEvJ7Q9FNoIVLotAAHVWNOLxNKZSq8WJEqDjRP0vIr/xmDMQ8q3xuUpLfhxnYbMFVKeqN33euAcQlq6yuyAf72JvyFIRLWZSSe/DzkpLNJx/wHej8iwSGFxA+ZtyVVrMKLfuoEzgJ7ea2Vqged9fF3AyF1OOlSIPl003U1NlOUCHc134q4hJeC9IIhGPrkyKSzgaGAtmr6uth6GNmq2rgK7zK1mTn5x0k4=;LiKMKeXWs1ZSAuiGne9Ncw=="
+secured: "7r2bPkav6xeFPV1Y+VlJbKMwYImFRU3bwvTZL82blyUNVY/rTDTmg32psFDKaFbPGApNjOjjDd1ICtIhoXLdJDJBmo8LIR0ITLzF99yy4d5JMFCgCnx1me9lG0eGeXgwifL4qROeEh0VVkk3qFMjbH93nNvKyK93DjbgVXkawUEaClbtORzmOr5YxiO9Bvp6JM9YvqVnMmLuyOpDPWv1CsHhnq+etGTcWlwLbyBpEu93kP8FqdMhQ40V0x+/DK1/Kp0PLe3GdTPFJIIGCj8llwAIOg/Zaut9G9v8zXB+k0Xsl6HEQhr2e9kn7zkEBQ3w9MrX7z3PnxcVUKU7QU3WUn2OggBs4aChUk6oUtRCv+Vvhf75b3BCZ4bWwkaSBlqczt4vHDo7vZco6SzMmOP0P2U5jiVs6vAk2LKbCNTKWmqtH4g6qvUnFwuqlWo9mz9fa6Xq31g89orRZcuQZH2kfSjPOZiB/xNW6QJIfHd2U4GJLA0DnlNFFWIk10WLFe+hdN6Sj9bojWydakNFQa0Nig==;1zeY3aNMMIUARQ6+vyR8Og=="
 ---
 

@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "VCs target AI accounting startups as companies look to control spending in uncertain economy"
-    excerpt: "Worldwide, startups making AI-powered accounting software amassed $233.3m in venture capital between January and the end of March, surpassing the $210.2m in funding for all of 2021"
-    publishedDateTime: 2022-06-20T07:49:00Z
-    webUrl: "https://www.penews.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
-    ampWebUrl: "https://www.penews.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
-    cdnAmpWebUrl: "https://www-penews-com.cdn.ampproject.org/c/s/www.penews.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
+  - title: "See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT"
+    excerpt: "In this episode, you’ll get a behind-the-scenes look at how three companies are using cutting-edge technologies like high-performance computing, Quantum, and AI to solve complex challenges, power innovation, and generate new kinds of business impact."
+    publishedDateTime: 2022-06-21T10:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/"
     type: article
     provider:
-      name: Private Equity News
-      domain: penews.com
-    quality: 46
-    images:
-      - url: "https://images.penews.com/im-566585/?width=1280&height=853"
-        width: 1218
-        height: 853
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
 
 secured: "yP+Ki/RUY3gKY0YPD/xnvTt+IeQpxAMaCuuHtpCwsZKR7xLedgsz+TtsJXMrgDVE1vuVPvyaKkWnVWMvNnOPVg093DI6ReIxaCPuyLOPGKm2Dvc/FPuD1EbCVCLsu43NFdtYbjLhunvBBYWmX1VwCMtKykaahuUYYvktTC9Rx3EZOM6/ytVZu9hACc2Bm2iyxR1i4/5Sdrl5JJmbVeNDa8XsvpERpL9OQOQRT3Y7KyL+O7a87kwFuMKXqQsw1jEivoXxyUBRXFGPWEkF4tf+DYn9McmK+VmEGkPXuRxeX2L4UNqdQeFApHBAouhHWKFr3nPycU+ihheAzpYlQHHTiIO0J84uBGBw5A5e06nX85Y=;ITrV6ueNAs6KmRdJW8bEaQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://globalvoices.org/2022/06/20/brazilian-facial-recognition-rul
 cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2022/06/20/brazilian-facial-recognition-ruling-can-set-an-important-precedent-for-country-wide-use/amp/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Australian retailers using facial recognition without consumer consent in stores"
-    excerpt: "Consumer advocate CHOICE has revealed that three of Australia's largest retailers are using facial recognition technology in their stores, often without shoppers realising that they are being ..."
-    publishedDateTime: 2022-06-17T00:08:00Z
-    webUrl: "https://itwire.com/business-it-news/security/australian-retailers-using-facial-recognition-without-consumer-consent-in-stores.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 49
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/352b391fa206ab2ec73f84cc4a76d0d3_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
 
 secured: "PanHdVr2tlBEe/pcslaokM7xKNUuYqFWP8hDUyb9mnvu6MfUNa9Bk2ooO6V6g3aLMLdybZyAPYgly35V8FfShWTI5FaDxLqWw1RH7rBrLifIVaevqec/daXOvdiH8cBjkSJ/x59Hf7F0sesz/pPfSo66T3FN2SnVQX4aP7O402nO0KeLSNdWFph6oTzylXZ+phTZmeXfCeTpRWIpx9Kbi1jST9Bde7bhW05nwpFEjzwsNCuh/v6QKj47ZcivR2EoRVEJ5z2jryrZv19sBhbvQkN3xJW7wj88KpTF+qDxzzdSQMxy0hXyLtpFTdI+HVIJwHwrQHqomKmstMXzFDsgWCJQhZWK/DNET8qeIRryK8I=;/4CBpy0mdBTys7EbUKgwsA=="
 ---

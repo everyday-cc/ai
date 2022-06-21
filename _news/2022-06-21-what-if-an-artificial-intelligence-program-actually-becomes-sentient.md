@@ -2,22 +2,27 @@
 category: news
 title: "What if an Artificial Intelligence program actually becomes sentient?"
 excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
-publishedDateTime: 2022-06-21T14:12:00Z
-originalUrl: "https://www.wuwm.com/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-webUrl: "https://www.wuwm.com/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-ampWebUrl: "https://www.wuwm.com/health-science/health-science/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/health-science/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+publishedDateTime: 2022-06-21T09:54:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1106320879/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1106320879/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WUWM
-  domain: wuwm.com
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+    width: 500
+    height: 500
+    isCached: true
 
 related:
   - title: "3 things large language models need in an era of ‘sentient’ AI hype"
@@ -147,6 +152,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "ZghiBFgtsDvIDgAg143CqZHOwmRYhRq8nMKfmBfl/kdL98PMIUBMZfCQ0iT9FLG+OQlzctRLy47jZW5U87F/DVqh1E2NK6DeekzxS3iCr1939weHgZo4mbL2+OoJgEKGlo8kDTEHpoD8hhMAh6YEQhLnvSSTP3pds1dzREV+r+ienUDTCy8Lrq7LEmnyZE8g6mB2bhYyy2ailTv7j/EjLtGy62qogbdSE2HOtNOLVX3xSvockKq0UbW+wrlh2Yc/R1DWd04gUqQaqVkLiLdtY/IkyzOBXRRsbfivVquZcYmI/ICWphgj2DRvXP2gh2qaKdsfBEJ2b4eGnbTrk8ZPZ8xfuABENEjWXp+oYDu7xPk=;j6TZ+iKLNSVzlWhs6gbgWQ=="
+secured: "vIa55hiJv25J5puhXHdI7DA+NHA5HW3Ze/qmQ3hGevAClVwo1mVc4vp+z8ujrl0VQZkl2WWIE2fr9oImgUeiD9l6E6AQ65SejIVS+9CSCHSvqf1wQRf0tfmfsYdcT/nl66+iSye7M4y3UFd9zmTdDscnq9uv3h3fqBKtakcg88493SFGfj7a3/xq15nbZnIP3NyQX7DPmOedGYxSyrI9MPbdPxSu/oIGn0aR4n1h+g8MAlIwStBHA7cJKEZCOc0C4RexOIlUqa0oB5H49Qr3HoYE0gU5Z+hprQzDwH8+QXCU7N/P4Z3QiCc96LRKyCxLeW3RgiR8dw5e7zFUMf+XOma0yEcwl4wDJDWTLlRP0Iw=;sYXitdegNylu92s2s/hxdg=="
 ---
 

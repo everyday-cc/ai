@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-dri
 cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "First report on self-driving vehicles shows 500 crashes"
-    excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
-    publishedDateTime: 2022-06-18T03:56:00Z
-    webUrl: "https://www.fox13news.com/video/1082992"
-    ampWebUrl: "https://www.fox13news.com/video/1082992.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/video/1082992.amp"
+  - title: "Technology helps self-driving cars learn from their own memories"
+    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This is achieved with the help of artificial neural networks,"
+    publishedDateTime: 2022-06-21T16:37:00Z
+    webUrl: "https://techxplore.com/news/2022-06-technology-self-driving-cars-memories.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-technology-self-driving-cars-memories.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-technology-self-driving-cars-memories.amp"
     type: article
     provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 24
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car.jpg"
+        width: 1920
+        height: 1344
+        isCached: true
+  - title: "Cornell University: Technology helps self-driving cars learn from own memories"
+    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This is achieved with the help of artificial neural networks,"
+    publishedDateTime: 2022-06-21T11:27:00Z
+    webUrl: "https://indiaeducationdiary.in/cornell-university-technology-helps-self-driving-cars-learn-from-own-memories/"
+    ampWebUrl: "https://indiaeducationdiary.in/cornell-university-technology-helps-self-driving-cars-learn-from-own-memories/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/cornell-university-technology-helps-self-driving-cars-learn-from-own-memories/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 20
 
 secured: "/er/KVEftFCZIyPGwZQOYw2nt7yBm7Yle9WcimB/uN5M5fELhdo7QtAOFlpNbcxSlUqeSHAOQolw7DTXzCa6mkD6+vJGQLFv+Y4HEaZvOqmTQDjfKvYTllTyziIxnsXN/yaZOXhJV/n7LoKoxDxCfbqPsOiS8n6AiTI3+yO2xX3YjR4r2P4AxqtMQ+XsvyTfxYmgAm58awvGwty+4MbstPj22OMZ4eFxZ+TsMD58KyNxB/YiOEgO5VqlrZxDjcjYuueQfUAvoFMj12AgzYnW5PNS0MuoaKPMmMAqjqlpk/YJB5CP+m3Rdanhwp5ELH5Th3STORwBKsyw8PDWMApsPLei1FpL9QYrXPWcxA9DiLjX9tVc2l9J6wD7wStu/v4uPhH4dJPDUiZMT1dfVfDdY405BUQ/DhubTEshMuupxoGO/AzlOmEXzSW1GNtGt4/lX1Kd4flITjyj6Qg1kH0BPpFgwE8x96g7EG7T6DjPOVAV79aQ4CdihLxqjdGX5MEX4ome13HYOJasKeQ7sre/NA==;6s6fsHFM3jqsZCHEmmH3gA=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Why You Need an AI Ethics Committee"
 excerpt: "Artificial intelligence poses a lot of ethical risks to businesses: It may promote bias, lead to invasions of privacy, and in the case of self-driving cars, even cause deadly accidents. Because AI is built to operate at scale,"
-publishedDateTime: 2022-06-13T18:00:00Z
-originalUrl: "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee"
-webUrl: "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee"
+publishedDateTime: 2022-06-14T12:00:00Z
+originalUrl: "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee"
+webUrl: "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1124
     isCached: true
 
-secured: "2I49PZwMDQKc+1aIaymBW9VS1APJQKbAcqqy8q0bIngrb1Rpq/qrXdLY3LaV0QACT84bTQ91AGBMnAviXfotb6GgQc41hobFKtLR+yow/epqPXDOOh117h8eiMtCPejn8S2+S20nvDOoEshgwVbpkk0WN2x7oyRaRWVhJhofrOChGloYDOtY+8XH365tI4jmsIWzYorqRzi7LfkeTzA5y53rQ67n5Hmnt8/kaTYlJhwepi+t9znaCfh9VokVdPdjIklpy7TsCii1xgr7FkkS6+aPYijudNV9rKFrnfXA7Bby9Q5m4Ugvs+4rGFYkMoq7Kayy3kkEus9ToNhTB/e9/LgF1Fqj51baEO9KecF9gVQ=;6cQBwL1GR3aL/pTq9nfgzA=="
+secured: "yzsmebom4sSZ+GQQ8dT/W0aUy6cb4P78hgB0P3QEQA07dBF+1duzdOL9Dp1Ey9mdvknnW3hY705exDx5Uw5NXN9YrsS3E2p9LpnjABbEHHsSlUIIsLM3pdK6FiB4rCKAnlQWyFvKTc5LwD/sdXkPflM8DqjCssXsEWXEnsGo47OBxocddQf5yFtpfTmttiZxt3qWHEXr9pZev0lwdZNA9fyI9nfaoBTGnZoUV/IzSOnm0wI44q6sQCNn6OfgaG8uLYTbUY66f2xatu3YrdUWfZ5Iyzhzjy/pvglE/zO5y7Hml8t3RgXTudbOL4xzLFHW61oL9pMT3j336caW+PjBI/24pDLMVkLav6ZAIT4Bc34=;EZMaWTvB4JKIX4JoUv2BbA=="
 ---
 

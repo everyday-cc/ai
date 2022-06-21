@@ -25,22 +25,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Artificial intelligence companies leading the way in the power industry"
-    excerpt: "View the Leading artificial intelligence (AI) companies in the power industry and download your free guide to AI in power here."
-    publishedDateTime: 2022-06-17T15:23:00Z
-    webUrl: "https://www.power-technology.com/buyers-guide/top-ai-companies-power/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 39
-    images:
-      - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/16/2021/12/Global-Data-Logo.png"
-        width: 512
-        height: 342
-        isCached: true
-
 secured: "thYBKb52aE6F4YIpDTqTZ0WY/zIMhmRrpydpRUtpwURwvCNkc9yHgN2u1e8+DjJYF4RA1QZZBzYSZmZPEE2ER+OWzUdq3/xlrcWN/K+MckieXvPprqUmDQknlL828rvFiRaHrM7SOQU2AGtzC0R/w7Ctf80VNvphjzczxgv6TDBMnm44LV1MbRiL2YzIrK0omwUT9QG0bKPBYXhV2WDOYIZNQtVUgKX2NQJpmI4kdn7jCkuIimFcBYt3h3d4JxC2FbSEZWYVVQnf9jxcsgqc02veXPIcAX5oXIIJ+3ypuxWe0Ry7nv9up4ILG0FLHW8kpPsXvyf8ySV2+d4xLzOt8PC+LMoCkXWKZys4qXCEJfs=;1a1K+0xzLnmBDNcDebx+lw=="
 ---
 

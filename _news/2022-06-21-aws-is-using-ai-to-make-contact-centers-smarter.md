@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/aws-is-using-ai-to-make-contact-cen
 webUrl: "https://www.techradar.com/news/aws-is-using-ai-to-make-contact-centers-smarter"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     height: 545
     isCached: true
 
-related:
-  - title: "Microsoft and Meta join Google in using AI to help run their data centers"
-    excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
-    publishedDateTime: 2022-06-18T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 63
-
-secured: "vypkC9uRd/J+H0MELxssGSkIha1JFAD+XOwtSEGQklVCYzabMecBPNe+d0RrvAabcuTi/fda2ftOocqOscZar4C8AnDt+5fenVoTqw5YY3Rek6cB+7eCa0u8oYmuPslejGn+OlJmCMHwV5Au5ww58tduC7aW24m897korWgo+u5tU8q4I7MCtJ3eME6sOPDyxpNW6n805ETHs2hLwNNIevUopiE9avzC+6MhRl4QbpMbuuyPnx8PsnuuyiWaz9XJh4j79Nrarf67xoK/ongDOppZvY3QF9sG/pcYlXu7MGUtJcj+O7mj5YhXM06v59AxpFCAsJwlLTFqenyO62pXSaPLrqPxM/nVALSVmcVGE7Q=;9eezpfKoTdLFF17a1Li3Kw=="
+secured: "i3I4gnGusuGuSyWgtstBy4c1h6DdnX/3fOZXLoRhZVOQMaD5MmJWlcNhGNdl7wyeUIHhIFJAnrza/fuo0m7JUvCRxeKC6WUCPPfnPMCJj+bFnIQO5+lxDlHUEGzuNitZqBkPNs9wggKVFu625aYhQBFl+9nSLrrNN8/FwRNVzk4WOMd0YjQqCZ/QXio/yUr8X1/eqomyC/uCXcWx/upAlpJJqjy4Rpl0omEsKoRTJyGl+FMQ1yUdl7yUeJIXciUBlC5b5WlhpQYRRV98tOup4UINLCQN19wj1d8vW5dGm7JxVQ4N6V/zJQOmbej+R2UJnEHBCmmcSJ36jMMF5nC3oVkJ2AavmmFU60BNyjSQQxWDEUPcjpWuFGa1GLmybcgECrAR624FSg6YnhvCv8z2mj2/MOPRdgVqcEq6tXGdZba5Rol+5j1x3kbKyPhVOLBtgIYpz8UCDPCdHCM99pNxKrL9NMb3tbFGItt7Cn0/jKTwoKID7yXg0X3GsJIY/ZrrPcuS/xS5B4WHngQXCtS2MA==;NgUa/lbcZ9zET8UmxREeWw=="
 ---
 

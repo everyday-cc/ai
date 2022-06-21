@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Engineers build artificial intelligence chip"
+    excerpt: "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ..."
+    publishedDateTime: 2022-06-21T17:01:00Z
+    webUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 74
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg"
+        width: 347
+        height: 256
+        isCached: true
   - title: "How artificial intelligence is depicting the cattle industry"
     excerpt: "A new tool has emerged online, which uses artificial intelligence to generate a sketch of subjects based on a phrase typed into a search bar. Beef Central type in some cattle industry terms...Read Mor"
     publishedDateTime: 2022-06-17T05:37:00Z

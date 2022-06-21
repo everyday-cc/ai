@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/astrazenecas-rules-implementing-responsible-e
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Diginomica
@@ -27,66 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Responsible AI investments and safeguards for facial recognition"
-    excerpt: "Azure Cognitive Services deliver high-quality, consent-driven face recognition that developers use to power verification of human identities on mobile, desktop, and internet of thing (IoT) devices, as well as facial detection and redaction capabilities for accessibility, modern productivity, and privacy."
-    publishedDateTime: 2022-06-21T09:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/"
+  - title: "G42 Healthcare and AstraZeneca Sign Agreement to Advance Life Sciences at BIO International Convention"
+    excerpt: "The agreement expands on the existing collaboration between the two parties to reinforce the position of Abu Dhabi as a life sciences and"
+    publishedDateTime: 2022-06-21T16:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/g42-healthcare-and-astrazeneca-sign-agreement-to-advance-life-sciences-at-bio-international-convention-1031540862"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 106
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dc501e24-2f0b-43cd-bf24-cfd4511d958e.jpg"
-        width: 4081
-        height: 2247
+      - url: "https://mma.prnewswire.com/media/1844180/BIO_Int_Convention.jpg"
+        width: 400
+        height: 266
         isCached: true
-  - title: "Toyota adopts CyberLink's AI facial recognition engine"
-    excerpt: "Japan-based systems integrator Itochu Techno-Solutions (CTC) has used CyberLink's AI facial recognition engine, FaceMe, to develop a \"vehicle inspection information system\" for adoption by Toyota to improve vehicle quality management."
-    publishedDateTime: 2022-06-17T07:30:00Z
-    webUrl: "https://www.digitimes.com/news/a20220617PD201/ai-cyberlink-toyota.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220617pd201_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "SA Police ignores Adelaide council plea for facial recognition ban on CCTV"
-    excerpt: "Adelaide City Council is yet to receive formal assurance from South Australia Police that it will not use the facial recognition capabilities of Adelaide's planned CCTV network until laws are developed. In November 2021, the council passed a motion to ..."
-    publishedDateTime: 2022-06-20T02:40:00Z
-    webUrl: "https://www.itnews.com.au/news/sa-police-ignores-adelaide-council-plea-for-facial-recognition-ban-on-cctv-581559"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 52
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "Corsight AI Releases Privacy Focused Software to Address Emerging Guidelines for Ethical Facial Recognition Technology"
-    excerpt: "Corsight AI, a leading provider of Facial Recognition Technology (FRT), today launched the latest version of its flagship product, Fortify, in a drive to change the face of facial recognition. The new suite of privacy settings empowers the data operator and protects the data subject to address both existing and emerging industry standards."
-    publishedDateTime: 2022-06-21T12:20:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/corsight-ai-releases-privacy-focused-software-to-address-emerging-guidelines-for-ethical-facial-recognition-technology/article_2cdbe2e2-bef9-5f39-a236-83cc1cc0a5e5.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 27
-  - title: "D FACIAL RECOGNITION PRODUCT"
-    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
-    publishedDateTime: 2022-06-19T12:37:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 19
 
 secured: "w3M+cPIvlBH/zxDDevL24wA4AgwNOCoIWdiYGdaFJ2aKZRR7zdChjGDQ4R+yn4eY3+GmpOiNrjCQAe4fTDCGijQzCNaDskNtd45BfkHEYF8f+yT4CcbJvUlHSt1DXZlOmf7sn8SvnJHSnulHsKxpcrTkyXtQxQJtwhKjFsJnUo+065qh0sHGvyMDPmNT2FBMNOnVT+PMEO1D5FRtD23KOMmYwzomgvkt9/nPN4/xJmILjFvaiJ/n5xG8+SiYUmy1Z2sY1gRtnDE88tyuSVXXzbHbgh/9l6TWGDr1bqW1H6XwqtuhRp3QwlpmuntSGIsixDAedbRkrqIuWPPGcDFdXwjmV70gcaATY362WnRcyOM+8nlJMAdPa73DnORxLbFVU9WxWHoEXBAdZerEC9JZ3YAgqCsSGKl3INjUCPgb3VulcGNE+k+Hh0CvJoRQRVtgkiX+7+9HMx6orbGEGSaZ7v75zs9UYfHXYFfeU17bOtuF2QlnlHnP/xHSNNrWwLkgBkJdPfxkH0DmXx0/NTBF1A==;gPKoUp4Ot1On8Zmd9qTi3w=="
 ---

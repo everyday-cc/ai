@@ -2,9 +2,9 @@
 category: news
 title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
 excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-publishedDateTime: 2022-06-19T00:37:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
-webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
+publishedDateTime: 2022-06-18T19:02:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c"
@@ -80,6 +80,6 @@ related:
         height: 394
         isCached: true
 
-secured: "nc9xFJHS+gLNmj+d/XNB1s6bgfbkN7P9ABCgY1H2gIoWRqky2fWOIaUZ46nwveHMQwo6vL8teJ8H7SBkPhVSHzmIPHkxMgR5o0B5bq7S+3UQ3lNnFRLMB14oQQc1jMuY2Kqhdsxj3zdGVCxNDnh6/rtk0ROW2QspF6HaYX1MPQydIvMfrGi8zkVXOrDja1Dsxj8zx9dh+BcYd8puFkXOP7BvU/zyJyj6c5GY0ioz2oPsdxoudUtfrAsMARlc6r8dJRcKLkVoZe+1dx9oQEzfrVviM1L/DOZ3MWILYHg9yfTQbd44Pwc+m49oMXKJ8S6L5F9b6dBRX8cVMmJLf0+Z8FBuGBhcxMy2kIXmI+FYuvY=;lrFftVgYGRs9JuSp5LYvug=="
+secured: "LRnkTM1zMCUXCI2URB7KtiQgExy0NKFzNgE4KuStSkUzWsyM4mRSUgu86lj6WzPr9mbYq69/UUwzjB3k8hex+ocnGj37czyV41LlnlnLFFm+O2ZxWNhwx9UJBwvbmnY9DzitDe/p7TBHCHTCr7ClSg2l/ItDSxiN3pu+dKN5ok0m4IRMb10cm5Uk4qjn6SCeapfrYpz6t8EQlk1bMxx+mdiHwgpLVGqK61/cDGoOj2KWJ/koj+WVIjdauva16oRYy/Amxy0sZkTGNK6ZmZUaHUy2DgqfVWHYIGzO/xo5i3FDL72qNEAsP9A9lU9ytrNVPqHlh72JdWHIaxRGfTuiCCWlo+0AYyqGhGFAaJ7XWr0=;lJe0TsdWLTvzQX19HUSvBA=="
 ---
 

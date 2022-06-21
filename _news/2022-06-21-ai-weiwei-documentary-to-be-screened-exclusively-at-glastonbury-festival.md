@@ -7,7 +7,7 @@ originalUrl: "https://www.music-news.com/news/Underground/149576/Ai-Weiwei-docum
 webUrl: "https://www.music-news.com/news/Underground/149576/Ai-Weiwei-documentary-to-be-screened-exclusively-at-Glastonbury-Festival"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance"
-    excerpt: "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ..."
-    publishedDateTime: 2022-06-17T00:40:00Z
-    webUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 51
-    images:
-      - url: "https://www.independent.ie/entertainment/music/da2ce/41761859.ece/AUTOCROP/w1240h700/ipanews_35e76834-6e7c-4944-b8c4-e926f0e92322_1"
-        width: 1240
-        height: 700
-        isCached: true
   - title: "Ai Weiwei: Yours Truly exclusive screening at Glastonbury this weekend."
     excerpt: "The most personal documentary ever made about Ai WeiWei will be exclusively screened at Glastonbury Festival 2022 this weekend ahead of the documentary’s release in the UK."
     publishedDateTime: 2022-06-21T13:10:00Z
