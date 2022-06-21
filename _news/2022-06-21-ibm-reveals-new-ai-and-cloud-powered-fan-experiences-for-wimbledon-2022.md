@@ -1,18 +1,22 @@
 ---
 category: news
 title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-excerpt: "As the Official Technology Partner of The Championships for the past 33-years, IBM continues to accelerate innovation at Wimbledon and improve the digital fan experience. LONDON,"
-publishedDateTime: 2022-06-21T05:50:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262063&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262063&cat=PR News Wire"
+excerpt: "As the Official Technology Partner of The Championships for the past 33-years, IBM continues to accelerate innovation at Wimbledon and improve"
+publishedDateTime: 2022-06-21T05:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -24,6 +28,6 @@ images:
     height: 258
     isCached: true
 
-secured: "mzbd+XyQwfnGVdSsKHCPMcteiFlJLG1sR5hL4VktNdLy+r5WpGiwQuSbEwEauVdZ7tkuyS+jvZuyixjYBMz+Sae6Ey0Wqg/lDV4klCLot64LAn2RUsW8dLO4kj/LYAtT19x32UM4ZkSUa+zalasCC/f4kWVuHCljdIFHaNN+4TVHTqA2zxco9E1xTl8bYom8iLYKeX+Jb1+oi+MlMT1cfvWJ5FKfdiccOv3T3wdx/4aMu6t8J+LZbeNaatRUuI0SFCKjP+zBn9SUj+MCt0Bf29+NkM5PGr3Cb+rhxsZ9PxjyV58jNRtuYdxMpVFQjKMaA4oDXlfstihYKalt8cLBY3ny8mS0cZwg9K1xfiGymEw=;iXdRT+ZaHAhhO+YzbxnYFA=="
+secured: "uhh1s1UGCZvUSL0eeA6Udq9JsfMYE1VWLhTkUVIkC7UGRjsnemRPbimgrXy+HrrYwaGLHOO92qPSbLpispy0S6ofxOlc0Yws+PKiavVDiwXFkFtb92+WBP5XFtW4EgupnkLekqpDp1OFPav+CvYoipXG0jhoskX5X77aYafc2EpyLxb2vreCRjnrMucuPjtxOVez/pO0hcnEkWFjCYGLTC9Ucxn3sI33Gfzw99LjvpVHMfbxywScKiGjjeB5zwIin6Nozk490kvlSN0AZ3rsJ5bFDwNEMDWh/aqv99s4Eeg8In4cIfB/S4+3fXTHt/UTOZVmQuQy5/I9bUBuaJasC+g4Q0uuNLea7UISLjFTpks=;G4qD1C/xmsBN0vyugnbj2Q=="
 ---
 

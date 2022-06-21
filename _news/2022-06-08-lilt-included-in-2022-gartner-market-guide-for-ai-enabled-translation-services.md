@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 report SAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience (GX) platform, today announced that it has been identi"
-publishedDateTime: 2022-06-07T17:07:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27594269/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27594269/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services"
-ampWebUrl: "https://www.benzinga.com/amp/content/27594269"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27594269"
+excerpt: "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ..."
+publishedDateTime: 2022-06-07T17:23:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "tl/SaId1VUlHpazfMmHYAB4J4FykKiSAkNYcMex0EF69vwTmqxdHYWEp69tBSnWKMP780hbDl5cOEU2m2TPwr/gKMakjfUJdxK7wZ6l5x3nOMB9P4V/rIT/0wPbsoAd2134x5Q1nZjjczpBNOOIYrzIs++zKwsmTrj+Oauxg05Z7ZRNNaTbxi1tTUDq1h/YcyYHxyyPjU+nkY6H3eU2R1EzkfCJqXBb+evRnskLMUh056l7PfESw84Pu1NB5gkarrxTm0DfMMCa78R78ADecM/E4ynhn5uLDLT2k+NLedQ3Zn4KwUUJFACVDGVSm5N+8rg6OdEv2FV5KnfCFUVut8K8Xf0HJu4iBD6h6vt5me/I=;DTdaI99jkmoIUrKRPjmeNQ=="
+secured: "Oqe/48AQssLpJAPVIP8C8eBbpREzAqra0m6ECDoE9KF42REdHLENHGhya5YqxIYBYplZ96/UMTBgBHBPoc9U/kDAVCNIp5oPjN76zXroPbd/m5XkNz4MnARsenZ4WtmyExG6h1qgStlozdQ8HxMwc4+Q2uW4C0yHwAEHIUSbZtPoOqk3JUufc9pHsmW2KIvH3PVz13rpNTiUqQw8jeTHiMaG/alD9dIvxl/Ew+Ty3C1Wt+zPjShweOHDeLp90Bg5ec+Y6hwgBRQcET+URDlKDtsUiP3xzgAHplYtHsohrOD0AVrfKJa7dOZmYMEkbd8IvMDjHrhOdE2gP9dDUomIpHJd4YIIY2I8Na84qT5BsXc=;KgFHsUNK9IIzoAQQXEaZww=="
 ---
 

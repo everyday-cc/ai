@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-20-industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive.md",
-      "title": "Industry leaders hail Microsoft role in UAE’s digital transformation drive",
-      "excerpt": "Microsoft customers on Monday shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE data centres.",
+      "path": "_news/2022-06-19-microsoft-and-meta-joins-google-in-using-ai-for-data-centers.md",
+      "title": "Microsoft And Meta Joins Google In Using AI for data centers",
+      "excerpt": "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have",
       "sourceUrl": null,
-      "webUrl": "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive",
-      "originalUrl": "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive",
+      "webUrl": "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/",
+      "originalUrl": "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2022/6/21/digital-transformation.ashx?h=450&w=750&hash=99BEC9B861D12CD560227BFDE78AD102",
-          "width": 750,
-          "height": 450,
+          "url": "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg",
+          "width": 1200,
+          "height": 620,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T09:31:00-07:00",
+      "ampWebUrl": "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/",
+      "cdnAmpWebUrl": "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/",
+      "publishedDateTime": "2022-06-19T00:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Gulf Today",
-        "domain": "gulftoday.ae",
+        "name": "phoneworld.com.pk",
+        "domain": "phoneworld.com.pk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

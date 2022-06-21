@@ -7,7 +7,7 @@ originalUrl: "https://www.djournal.com/dataiku-11-unveils-enhanced-toolset-to-sc
 webUrl: "https://www.djournal.com/dataiku-11-unveils-enhanced-toolset-to-scale-ai/article_b450e7f9-6b2d-5a75-8ee8-56abf7e01904.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "Dataiku 11: Top features that will accelerate enterprise AI projects"
+    excerpt: "Daitaku 11 has more automation built in, the company says, to help their customers reduce busywork and make more of their AI investment."
+    publishedDateTime: 2022-06-20T21:50:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/"
+    ampWebUrl: "https://venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/KITCHEN.00_02_05_30.Still009.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Qid8ZaMjo1u/j1v7sWc/FiqbEx96K85HJxOHjciiKQnTHDYdt3vFlM5b0vue5JKNZQTn4OKW8rBojPiYE1OIwah11Fa2gaY6yys5ymNc5fkMnqQcXRDYX4x2KMB6X6pT6tPY2muuhJbSpv8cWUPXclJIlY7FrGNZpgawdO6cGxuUMYZ45z21DcNzDZO1d2rwHYAyr7TsBoDhgRoMT+H3D2ZwL1XQZFO82FjTDaX9wFsSnCsp6d5HWBCqsWsrWj6GHyhE3iqHT/Pxe+6h98g3Hb31c0Y9OmIR/b+8cKgp97fe2fSmykVHdYi8IrsYNJwMjDm9RJcsDPIdVnAESkJWCXaRs4a5aYmqrURAA5VLX4U=;C/bkpCPdo6dD6c57PHbApQ=="
 ---

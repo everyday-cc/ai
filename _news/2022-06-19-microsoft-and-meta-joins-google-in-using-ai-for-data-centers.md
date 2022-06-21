@@ -9,8 +9,8 @@ ampWebUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-usi
 cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: phoneworld.com.pk
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Viva Sales aims to take the busy work out of CRM"
-    excerpt: "The 'Sales' version will work with all other CRM services, such as Salesforce or Freshworks, Microsoft has confirmed. Viva Sales will take customer engagement data from Microsoft 365 and Microsoft ..."
-    publishedDateTime: 2022-06-16T13:33:00Z
-    webUrl: "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 116
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1655377468/itpro/Microsoft_Viva_Sales.png"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Microsoft and Meta join Google in using AI to help run their data centers"
     excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
     publishedDateTime: 2022-06-18T13:00:00Z
@@ -50,6 +36,48 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
+  - title: "AWS continues to top Microsoft, Alibaba, Google in cloud IaaS: Gartner"
+    excerpt: "Amazon is the clear worldwide market share leader in terms of providing infrastructure as a service (IaaS) in the public cloud, besting the likes of its rivals Microsoft, Alibaba and Google. The global IaaS public cloud services market reached US$90."
+    publishedDateTime: 2022-06-16T20:49:00Z
+    webUrl: "https://www.crn.com.au/news/aws-continues-to-top-microsoft-alibaba-google-in-cloud-iaas-gartner-581400"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__Features_20211207121924_cloud_1.jpg"
+        width: 1183
+        height: 887
+        isCached: true
+  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
+    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
+    publishedDateTime: 2022-06-16T15:47:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Industry leaders hail Microsoft role in UAE’s digital transformation drive"
+    excerpt: "Microsoft customers on Monday shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE data centres."
+    publishedDateTime: 2022-06-20T16:31:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 52
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2022/6/21/digital-transformation.ashx?h=450&w=750&hash=99BEC9B861D12CD560227BFDE78AD102"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Microsoft & Meta begins testing of Artificial Intelligence to assist in operating data centers"
     excerpt: "I run the compute in multiple large scale datacenters. This is such a silly sensationalist article. There is nothing \"AI\" about this."
     publishedDateTime: 2022-06-20T01:30:00Z
@@ -64,6 +92,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Microsoft UAE Customers Share Digitisation Success Stories On Third Anniversary Of Local Data Centres’ Launch"
+    excerpt: "Microsoft customers today shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE d"
+    publishedDateTime: 2022-06-20T12:13:00Z
+    webUrl: "https://www.albawaba.com/business/pr/microsoft-uae-customers-share-digitisation-success-stories-third-anniversary-local-data"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 0
 
 secured: "7JaGbzraekeDiQ0LaX+lUXr1LCwxsNg67NQe7ldA0l6O0dx9CzjPbVcVLt0NZmtSgrRXTo7x8O/hmxA4fGJdH8EjkebCxwNlUCCBpGa8GgeOnYX8+1hnLuaZqdSA4pv4bsEsu5FxKfRvzIDJIv3t2hBfz854ouH9icxWSyOFivS0mSvHseg05XVHkCXuE36vxti6185/aq2Qd3I26zewKsvQ4CrfZdWMaPJJVyzICy5K51A7PF4DQ67wBqp4f/eDMOkElCd1M9uWfplX+T8afZekPazYf1+aARgHbT7U/jSrzNi9MBqRG00RdIo11mwxn5CIBpyKJYh8r0Wwj8yZ/OkobUoF3eyPtbmrHd6GyRI=;90pTquyRCDppImLPmet4RQ=="
 ---

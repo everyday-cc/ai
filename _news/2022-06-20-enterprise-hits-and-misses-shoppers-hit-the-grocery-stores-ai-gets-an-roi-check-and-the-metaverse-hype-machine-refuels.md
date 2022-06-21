@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How We’re Helping Build the Metaverse with Diversity, Equity, and Inclusion in Mind"
-    excerpt: "Maxine Williams, Meta’s Chief Diversity Officer, took part in The Next Web conference and shed light on how we ensure the metaverse becomes an equitable and supportive place for underrepresented communities in Europe and beyond."
-    publishedDateTime: 2022-06-16T14:04:00Z
-    webUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/"
-    ampWebUrl: "https://about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/06/how-were-helping-build-the-metaverse-with-diversity-equity-and-inclusion-in-mind/amp/"
-    type: article
-    provider:
-      name: Facebook Live
-      domain: fb.com
-    quality: 38
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2022/06/Maxine-Williams.jpeg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Oxbotica Taps AI in Metaverse to Accelerate Safe Deployment of AV Technology"
     excerpt: "Oxbotica MetaDriver uses ‘metaverse’ to detect rare and unusual scenarios 1,000 times faster than actual driving"
     publishedDateTime: 2022-06-20T02:13:00Z

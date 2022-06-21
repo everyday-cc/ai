@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Viva Sales aims to take the busy work out of CRM"
-    excerpt: "The 'Sales' version will work with all other CRM services, such as Salesforce or Freshworks, Microsoft has confirmed. Viva Sales will take customer engagement data from Microsoft 365 and Microsoft ..."
-    publishedDateTime: 2022-06-16T13:33:00Z
-    webUrl: "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 116
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1655377468/itpro/Microsoft_Viva_Sales.png"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Microsoft And Meta Joins Google In Using AI for data centers"
     excerpt: "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have"
     publishedDateTime: 2022-06-19T07:47:00Z
@@ -64,6 +50,57 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
+  - title: "AWS continues to top Microsoft, Alibaba, Google in cloud IaaS: Gartner"
+    excerpt: "Amazon is the clear worldwide market share leader in terms of providing infrastructure as a service (IaaS) in the public cloud, besting the likes of its rivals Microsoft, Alibaba and Google. The global IaaS public cloud services market reached US$90."
+    publishedDateTime: 2022-06-16T20:49:00Z
+    webUrl: "https://www.crn.com.au/news/aws-continues-to-top-microsoft-alibaba-google-in-cloud-iaas-gartner-581400"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__Features_20211207121924_cloud_1.jpg"
+        width: 1183
+        height: 887
+        isCached: true
+  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
+    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
+    publishedDateTime: 2022-06-16T15:47:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Industry leaders hail Microsoft role in UAE’s digital transformation drive"
+    excerpt: "Microsoft customers on Monday shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE data centres."
+    publishedDateTime: 2022-06-20T16:31:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 52
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2022/6/21/digital-transformation.ashx?h=450&w=750&hash=99BEC9B861D12CD560227BFDE78AD102"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Microsoft UAE Customers Share Digitisation Success Stories On Third Anniversary Of Local Data Centres’ Launch"
+    excerpt: "Microsoft customers today shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE d"
+    publishedDateTime: 2022-06-20T12:13:00Z
+    webUrl: "https://www.albawaba.com/business/pr/microsoft-uae-customers-share-digitisation-success-stories-third-anniversary-local-data"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 0
 
 secured: "CuG0s81ZQgneMt3s78RSteZjU0WJR00gmunBs0GBczRexKb9Ezm/kBwtjeHe5CO+f7cjBcmGry/jHPDY5lsY2/bVhtmjRIM71yUdLZMTv7SfSQneqrdJ/dWwPlErXttj9CAI0bieeefsJ2pK8HIOhDYxibDXQ0lFJnnBAwyMwnAuJuHnfhSAYpYNaxATWZTemMFF5l1PRUrfVw/aFJaFL4keuaS+0l4sB0CnquBS/Ibry67qfd7ArmfWuilQ/x4y3o4lgjQDIe4PRMgjWynfJJTkqmLj4XN5Pfo3hbZG98bjxZPh+xNXEEKuZEFPa3N4lz/DD0gCeayzLTJLHFTsN6RsdqC3XlQYqIpNh0NFLXqWVVRtz4IWenxezr26Zqp+1hFcCgV+lisIlmSbLvTOBGjBtni2ikJK3SY8QnmIHQbKa32iE7P0EGHHAnTT9IKmnT/2cb7lxZ2JGw4naZcwYoEOSdrnXO6XKfnYfhVzDDGeFUtjiJzAWZcbyBUfyQD63TeKuI+Sui2mMRAHI9Pkqg==;TAwRcqI9TE6p5I0ZpSxxxw=="
 ---

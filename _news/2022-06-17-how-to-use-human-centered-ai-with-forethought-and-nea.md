@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 588
         isCached: true
-  - title: "Knock® CRM Announces Artificial Intelligence-Powered AI Voice, Call Intelligence Tools"
-    excerpt: "New features will be fully integrated into Knock’s CRM platform for a seamless user experience. SEATTLE, June 16, 2022 /PRNewswire/ -- Knock® CRM, the leading industry CRM and"
-    publishedDateTime: 2022-06-16T13:38:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-95b9d4fccb5a691e17623ddc22612924"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 61
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI’s abilities may grow, but will never attain humanity"
     excerpt: "Without question, therefore, artificial intelligence (and the automation it enables) can be of great benefit to humanity as we use its strengths to augment our weaknesses. But knowledge is about as far as AI can take us,"
     publishedDateTime: 2022-06-18T13:24:00Z

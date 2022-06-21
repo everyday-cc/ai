@@ -7,8 +7,8 @@ originalUrl: "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail
 webUrl: "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Gulf Today
@@ -25,19 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft UAE customers share digitisation success stories"
-    excerpt: "Microsoft’s Azure locations in Dubai and Abu Dhabi have accelerated digital transformation across industries and proven themselves to be potent catalysts of economic growth. “AI capabilities, powered by the Microsoft Cloud, allowed us to unify our ..."
-    publishedDateTime: 2022-06-20T07:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-customers-share-digitisation-success-stories-dxmkkixr"
+  - title: "Microsoft And Meta Joins Google In Using AI for data centers"
+    excerpt: "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have"
+    publishedDateTime: 2022-06-19T07:47:00Z
+    webUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/"
+    ampWebUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 74
     images:
-      - url: "https://static.zawya.com/version/c:NDkzZDVkN2QtNDI3NS00:N2ZmYzM3/sayedhashish-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg"
+        width: 1200
+        height: 620
+        isCached: true
+  - title: "Microsoft and Meta join Google in using AI to help run their data centers"
+    excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
+    publishedDateTime: 2022-06-18T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 63
+  - title: "AWS continues to top Microsoft, Alibaba, Google in cloud IaaS: Gartner"
+    excerpt: "Amazon is the clear worldwide market share leader in terms of providing infrastructure as a service (IaaS) in the public cloud, besting the likes of its rivals Microsoft, Alibaba and Google. The global IaaS public cloud services market reached US$90."
+    publishedDateTime: 2022-06-16T20:49:00Z
+    webUrl: "https://www.crn.com.au/news/aws-continues-to-top-microsoft-alibaba-google-in-cloud-iaas-gartner-581400"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__Features_20211207121924_cloud_1.jpg"
+        width: 1183
+        height: 887
+        isCached: true
+  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
+    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
+    publishedDateTime: 2022-06-16T15:47:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft & Meta begins testing of Artificial Intelligence to assist in operating data centers"
+    excerpt: "I run the compute in multiple large scale datacenters. This is such a silly sensationalist article. There is nothing \"AI\" about this."
+    publishedDateTime: 2022-06-20T01:30:00Z
+    webUrl: "https://techstory.in/microsoft-meta-begins-testing-of-artificial-intelligence-to-assist-in-operating-data-centers-2/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 42
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/06/AI.jpg"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "Microsoft UAE Customers Share Digitisation Success Stories On Third Anniversary Of Local Data Centres’ Launch"
     excerpt: "Microsoft customers today shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE d"
