@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artific
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
 type: article
 quality: 74
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -77,8 +77,8 @@ related:
         isCached: true
   - title: "Forget sentience… the worry is that AI copies human bias"
     excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-    publishedDateTime: 2022-06-19T12:07:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp;amp;amp"
+    publishedDateTime: 2022-06-19T06:30:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
     type: article
@@ -90,6 +90,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
         width: 620
         height: 372
+        isCached: true
+  - title: "What if an Artificial Intelligence program actually becomes sentient?"
+    excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+    publishedDateTime: 2022-06-21T09:12:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 57
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/398145d/2147483647/strip/true/crop/352x198+0+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F28%2F45fe1feb404281cf5e1d1a65ecd0%2F2022-wrd-boise-flyer.jpg"
+        width: 430
+        height: 242
+        isCached: true
+  - title: "Comment: Never mind if it’s sentient, AI’s still concerning"
+    excerpt: "Even so, AI’s influence on our daily life is growing. As machine-learning models grow in complexity and improve their ability to mimic sentience, they are also becoming more difficult, even for their creators,"
+    publishedDateTime: 2022-06-21T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-never-mind-if-its-sentient-ais-still-concerning/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
         isCached: true
   - title: "Google sidelines engineer who claims Its AI is sentient"
     excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company's most advanced technology. Blake Lemoine,"

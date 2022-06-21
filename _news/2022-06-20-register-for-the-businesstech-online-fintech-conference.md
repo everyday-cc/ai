@@ -51,6 +51,20 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "Scottish speech-processing fintech Aveni raises £2.7m"
+    excerpt: "Scottish AI company Aveni.ai has secured an investment of £2.75 million to deliver the expansion of its Aveni Detect platform across the financial services and utility markets across the UK. Its ground-breaking conversational intelligence technology is ..."
+    publishedDateTime: 2022-06-21T08:39:00Z
+    webUrl: "https://www.finextra.com/pressarticle/93066/scottish-speech-processing-fintech-aveni-raises-27m"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 41
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
     excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
     publishedDateTime: 2022-06-17T12:42:00Z

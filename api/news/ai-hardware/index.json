@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-17-engineers-build-lego-like-ai-chip-that-could-reduce-electronics-waste.md",
+      "title": "Engineers build LEGO-like AI chip that could reduce electronics waste",
+      "excerpt": "Engineers at Massachusetts Institute of Technology (MIT) have built a LEGO-like artificial intelligence (AI) chip, with their sight on sustainable, modular electronics. The team’s results were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/business-and-innovation/article-709703",
+      "originalUrl": "https://www.jpost.com/business-and-innovation/article-709703",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/493268",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/business-and-innovation/article-709703/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/article-709703/amp",
+      "publishedDateTime": "2022-06-16T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-new-ai-limbs-let-amputees-control-robotic-arms-with-just-the-power-of-their-mind.md",
       "title": "New AI limbs let amputees control robotic arms with just the power of their mind",
       "excerpt": "AMPUTEES could use the power of their minds to control new AI robotic arms, research shows. A team of scientists has created prosthetic technology that enables people to control robot arms by",
@@ -302,19 +345,19 @@
     {
       "path": "_news/2022-06-15-think-silicon-to-unveil-industrys-first-risc-v-3d-gpu-at-embedded-world-2022.md",
       "title": "Think Silicon to Unveil Industry’s First RISC-V 3D GPU at Embedded World 2022",
-      "excerpt": "The new offering serves as a GPU platform to be implemented in 32-bit ... is a leading provider of ultra-low power 2D & 3D graphics, AI and video IP for smart IoT/edge connected end nodes such ...",
+      "excerpt": "Think Silicon®, a leader in ultra-low power graphics IP, will showcase the industry’s first RISC-V-based GPU – the NEOX™ G-Series & A-Series – at Embedded World 2022. The company will also introduce the NEMA®|pico-VG,",
       "sourceUrl": null,
-      "webUrl": "https://www.postregister.com/businessreport/technology/think-silicon-to-unveil-industry-s-first-risc-v-3d-gpu-at-embedded-world-2022/article_17f0da2e-cdaf-57ba-a643-999165c3f8fa.html",
-      "originalUrl": "https://www.postregister.com/businessreport/technology/think-silicon-to-unveil-industry-s-first-risc-v-3d-gpu-at-embedded-world-2022/article_17f0da2e-cdaf-57ba-a643-999165c3f8fa.html",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-          "width": 600,
-          "height": 313,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -324,11 +367,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T02:58:00-07:00",
+      "publishedDateTime": "2022-06-15T00:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Post Register",
-        "domain": "postregister.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1345,49 +1388,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors.md",
-      "title": "PCIe AI accelerator cards powered by Hailo-8 AI processors",
-      "excerpt": "Lanner Electronics announced its first Hailo-8AI-powered PCIe accelerator card, the Falcon H8. Lanner Electronics collaborated with leading AI (Artificial Intelligence) chipmaker Hailo to design the Falcon H8,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
-      "originalUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eeworldonline.com/wp-content/uploads/2022/06/LinkedIn_1.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline",
-        "domain": "eeworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

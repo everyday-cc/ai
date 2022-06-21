@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Shield AI Raises $165 Million In Funding Round To Accelerate Autonomous Piloting"
+    excerpt: "Defense technology startup Shield AI has closed a $165 million funding round that the company said will be used to accelerate the development artificial intelligence (AI) pilots, including in degraded GPS and communications environments."
+    publishedDateTime: 2022-06-17T19:16:00Z
+    webUrl: "https://www.aviationtoday.com/2022/06/17/shield-ai-raises-165-million-funding-round-accelerate-autonomous-piloting/"
+    type: article
+    provider:
+      name: Aviation Today
+      domain: aviationtoday.com
+    quality: 32
+    images:
+      - url: "https://www.aviationtoday.com/wp-content/uploads/2022/06/v-bat-maritime.jpeg"
+        width: 960
+        height: 644
+        isCached: true
   - title: "SortSpoke secures $4.5M to bring its universal AI document processing platform to enterprise"
     excerpt: "SortSpoke, the most advanced and easy to deploy AI solution used by enterprises to extract any data from any unstructured document, has announced $4.5 M in funding led by IDEA Fund Partners, SixThirty Ventures,"
     publishedDateTime: 2022-06-20T13:58:00Z

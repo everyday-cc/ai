@@ -2,9 +2,9 @@
 category: news
 title: "Forget sentience… the worry is that AI copies human bias"
 excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-publishedDateTime: 2022-06-19T12:07:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp;amp;amp"
-webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp;amp;amp"
+publishedDateTime: 2022-06-19T06:30:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 type: article
@@ -93,6 +93,36 @@ related:
       - url: "https://images.hindustantimes.com/img/2022/06/17/1600x900/3e86f56c-ee38-11ec-816d-25a8f4149995_1655468722716.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "What if an Artificial Intelligence program actually becomes sentient?"
+    excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+    publishedDateTime: 2022-06-21T09:12:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 57
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/398145d/2147483647/strip/true/crop/352x198+0+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F28%2F45fe1feb404281cf5e1d1a65ecd0%2F2022-wrd-boise-flyer.jpg"
+        width: 430
+        height: 242
+        isCached: true
+  - title: "Comment: Never mind if it’s sentient, AI’s still concerning"
+    excerpt: "Even so, AI’s influence on our daily life is growing. As machine-learning models grow in complexity and improve their ability to mimic sentience, they are also becoming more difficult, even for their creators,"
+    publishedDateTime: 2022-06-21T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-never-mind-if-its-sentient-ais-still-concerning/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
         isCached: true
   - title: "Google sidelines engineer who claims Its AI is sentient"
     excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company's most advanced technology. Blake Lemoine,"
@@ -183,6 +213,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "Sy2saMNdtcwIM3EmI34YdgB/IIj73YZaxXnIiJnz9w5YbyHl7Xzd7gOU64C9FM0uXfjdXj3nnkXuup5mFA/qI+y2LPF6sLSM5uCM/QZP83j4BQm5sVjfCr2cW++9XlUpW7B4f3dw3TE3ipvM/n+BP5is3Sne+AbS2WpAyPz6+1BEesa3JEMJ2jV/NAKoUqQ4+bziDt19f++SNVTmMKi4bnK1bN5MJFfsres063twqpW4u4b7m6aXBrWoCyIPthZgCJhx2bxoWzyscvnZUKSZe2mgrl4Mr4oxBb5dtl0QJn8kuCJOhsW6f5yf2xYKWltlGCry0uNZnNoKaGNytbBINmg3KdCIWT+xAMkTcuu6hdQ=;ywBMQ0QHDLvg0oqiqHWwaA=="
+secured: "XbXIAfSrP1Os5ZHW60x9OxtAk8rHge+OvubNkNLyeZFzWK5lwpxvwHmKlAIvxYYDvtkvsCWkYytbwyBDmU5MlniY60zopUKwXNZnmivYEQbgTMx3QSDyLyZFzc1L68iYnjqtuK9KEAFupkEGZjoGnoxyslgPooQiXA3UBWwA2aGFZQDxYmytK0FW5ZY6AmIziu5bEMx6jTfN194S0pIgHc5fRtEnwg9FeLJkkRvfwS9b/gIM08BkioJVgM0DH+mTMxsfT0Q6Ja5u2MezMOj26TtCpY7Bf8arB16yC3uN+X4iYcj+9mkCir7dwZNMCeHlrzJlbaYSYPqgkbBoE/Ej7l33YbAYRmk1peFPAKbWveg=;nx+0Ele2zgJQbLroIiC9Hw=="
 ---
 

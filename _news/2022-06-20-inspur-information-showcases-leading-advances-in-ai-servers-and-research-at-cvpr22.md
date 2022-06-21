@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "pzCf8tUDR8STED8ObxkVCXwHvE9HgyUsci3g/0+ulqoXnvcz3mHcrcsxd2OBAa8PeMYaQfSM+MCgrlf+xdM3u24I+cBTDbczmO+xDGcpkFVXh8pR5ZjSW9qAMLr7VLDD2VkTqrChRt9JPgIfjqwM7gl7k7lpQiqeuHTWstKOyLEb32fAk5S33/n6cYx21MOQ4zCGgfIZ1wf1SFBIQq0cmdz9nQGyASU/dD+iKtlzDIz/EUfTzbDu7+v/+lVSvM/cHabh5UajSf612rgZfd/mhDkubtE30nLUnakU8zokVXmHx1LfknAac1gYjoYMwm5cVEJ2EhhZ9JSeKIygQn9vmBbZ0Po4o+ZsuxFGArxMyTo=;2/+Vo95si3scbibuWSK4Vg=="
+secured: "FUVanAb2Y6WT3RtCgzUsFCTvRFTGVHldbVWmoSaXETrjpaSIYNSBT9HbcxRzMKyCAM8LArprivLHk0bEmkPTmaFcmVPPNfuRon7AIv3D6c2uUm3VZtOswETF5noB0s6IdzRkpIOuuMEoFyBZS2EGh5lkHz/NERH3zAk7ZCwnUVdDwtBH1+q7Kig58kZ9zAh9y9OgaTYyysguElZ42Qs+FCv2SL7Tc/+TlAFPvfhAgfKgk+t9IGZYiZsPB6faWEt4+LqQdzyoNDcQt4VLR34tKUn3bX6++RZRXi5a/1eKSxUOKdLBQ7Wmn7SYworNQ64h5HgZ0OQ0e84FGgYqg1Br2MHva1KmPTsIFlOWdxIs7Iw=;nJsTdKpjetCSi6RYT8PgnA=="
 ---
 

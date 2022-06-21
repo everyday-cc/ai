@@ -159,7 +159,7 @@
       "originalUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1381,7 +1381,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "IBM AI"
       ]
     },
     {

@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
-excerpt: "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars."
-publishedDateTime: 2022-06-17T14:39:00Z
-originalUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
-webUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
+title: "Drivers of self-driving cars can rely too much on autopilot, and that’s a recipe for disaster"
+excerpt: "Likewise, new partnerships have recently been announced to develop and test the safety of self-driving trucks. The journey toward autonomous or self-driving consumer cars, on the other hand ..."
+publishedDateTime: 2022-06-16T23:11:00Z
+originalUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+webUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+ampWebUrl: "https://theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://images.theconversation.com/files/469278/original/file-20220616-12-ui495k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=245&fit=crop"
+    width: 320
+    height: 245
+    isCached: true
 
 related:
   - title: "Convoy Of Self-Driving Trucks About To Put The Hammer Down"
@@ -31,6 +37,6 @@ related:
       domain: forbes.com
     quality: 34
 
-secured: "L5JtC5+RsYAzz71PaJgydyVuNQp2D7D1VUMVsKouGkFiUxNW4yKy4wJBISo+1bqePTjRZAlTBdFa4z5XYQAn/myId0pgqLi7zq2tsBvKEK7eVHv2Boep4WrMiKnj20weJ4nlna/6ciqZDMrROWDa0b1BTpHjYToE9R5OJDF0ecax+JmsUSOkLkPcOsyeXxcutycyFj3s7g56EDH4Er5ZTaABWQZwSHRW6omnhB5pmb/ZiY3KygdLv/2lqzbxZcJchskTSDBY83U35HmSuRRBSE7ZLmjB7gGwsrLM6TOGYGFsX4Q1lTe7umAsW1124Z7pHUPfkpSPqLUUnB6HcIuhlZ8uoSivorx2am5vQYq4PiU=;/M+V6OxKXXF9JGk7BDGxsw=="
+secured: "hwn99E7XDLKIoAAomfqa8zJzabLGm+p/SvK39q/AnurQPMUuUYwII+kbWq5J79d+xDNMm/2nipxzuqQ3lYrwv5MeEeJEn/yqyKDy8C69IuQQF2BESEHQMSVSZFKpOc+YtsLo+PLQVXnqume/UkU/vDt9g3mjQOrrmq/2yc1M/OkPTZHOLHfdf89M6KxgN59pnGnO89NeEH+YuLprCZoee0FvR+q0MMeWO8vL16ZHPK+gGGdaWEGZu+5lAMLw5a+iAHTELRFMnAODfkSjODdlqSHv5RQDYoEPgWZYRehzep+gbBD6mYKbwc1QFRO12vWgEJlVIKYL01dmK/I2fHmMqOoe2eGSe+7ALb1SsCRatr8=;MvnDsI//Ea5pcAngyqMnfQ=="
 ---
 

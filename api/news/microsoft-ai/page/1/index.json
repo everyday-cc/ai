@@ -10,7 +10,7 @@
       "originalUrl": "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,60 @@
       ],
       "topics": [
         "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-best-machine-learning-platforms-2022.md",
+      "title": "Best Machine Learning Platforms 2022",
+      "excerpt": "Machine Learning Runtime delivers scalable clusters that include AutoML and other optimization frameworks. The platform also supports collaborative notebooks and a Feature Store that simplifies MLOps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
         "Microsoft AI"
       ]
     },
@@ -1056,7 +1110,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "IBM AI"
       ]
     },
     {
@@ -1337,40 +1392,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-5-ways-to-help-reduce-risk-of-cognitive-decline.md",
-      "title": "5 ways to help reduce risk of cognitive decline",
-      "excerpt": "During Alzheimer’s & Brain Awareness Month in June, the Alzheimer’s Association is encouraging all Americans to adopt healthy lifestyle behaviors that may help reduce the risk of cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/",
-      "originalUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/amp/",
-      "cdnAmpWebUrl": "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/amp/",
-      "publishedDateTime": "2022-06-08T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Morgan Times",
-        "domain": "fortmorgantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

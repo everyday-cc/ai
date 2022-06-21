@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New deep learning tools can help us win the cyber war"
-excerpt: "Today’s columnist Guy Caspi of Deep Instinct, says deep learning can help security teams get ahead of costly cyberattacks on critical infrastructure like the one last year on Colonial Pipeline."
-publishedDateTime: 2022-06-15T10:14:00Z
-originalUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
-webUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+excerpt: "Stronger public-private partnerships and tools that help organizations more effectively detect and mitigate attacks can help the U.S. stay one step ahead in the cyber wars."
+publishedDateTime: 2022-06-15T10:11:00Z
+originalUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+webUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 745
     isCached: true
 
-secured: "mkk1gAuphI6C9b+LbM3DhoApdpLkrkNG7my5rWH0cUiLOpvJTkgO+hn24MmXlNNHdo5wi1wE8hm0HisTEgbCBotyyLSKLvpZIS5MePUhw6N15IP4BGmhsZjUPiHODUr5VLML6aT0pE/DTtf1tmGilCob6cKJkDC0W6rz5uNW6vOJC167AXzb0SexjDSzwRuE8xEkj7bnJ85DuTjCTv7WQq46clVp8Tkb+1EtT/qffgxQhEfGVvZsROkTRUh0xKruEj4Al1BxI+kyTo4YLsGzkzYfg/mwt5+BvH9O+CDfunaiGvptV2/XQ7TOjm7KgNbSfDMtiZ6wyfHp6X3y87LOEBIy68uaLvzwf1Ft6kDlLr4=;oBuZwg/oQzXoKLuNvIFPKQ=="
+secured: "NRNC4co5SZ0+zcRYhY/PNmn5g8Nk9NbuMsHdafyR5XYFykj2ocpUpyLGokZUJgxt+hRbUvqhgBoaoJ6BUaNebNGTYuue8g99DKmYABixif2HJsJ+mE107KLeVWW9Jv+x7ZJ2u61qFacvUzgCe1WChaYvIKUjnPtGpgqCAQ1tI1DmivfG5amN9KZyEr0jtsp3/m18hpWlyZ31FvXIXla5U00PxSB2WETu+/gt4cZuvz1OSwveo6XPyVgHYYMphal7FZg/gapunO486uJ35A5N5lR6UuOvMk+TW0D2LMb5HX6sXu/2pvdRIIPJNfsYFtuikTI7362boCCy+mmfNlAyqQuUtc0/0rTdlfypqXRM7cQ=;SruZW02BMtm/rmdVJUMJMQ=="
 ---
 

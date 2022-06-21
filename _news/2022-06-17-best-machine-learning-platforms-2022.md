@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-16T17:51:00Z
 originalUrl: "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg"

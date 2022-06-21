@@ -9,7 +9,7 @@ ampWebUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-usi
 cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__Features_20211207121924_cloud_1.jpg"
         width: 1183
         height: 887
-        isCached: true
-  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
-    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
-    publishedDateTime: 2022-06-16T15:47:00Z
-    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Industry leaders hail Microsoft role in UAE’s digital transformation drive"
     excerpt: "Microsoft customers on Monday shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE data centres."

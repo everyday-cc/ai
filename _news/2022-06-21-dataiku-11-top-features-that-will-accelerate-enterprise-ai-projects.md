@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/dataiku-11-top-features-that-will
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dataiku 11 Unveils Enhanced Toolset to Scale AI"
+    excerpt: "Dataiku today announced Dataiku 11, a pivotal update of the company’s data science and AI platform that helps organizations to deliver"
+    publishedDateTime: 2022-06-21T06:46:00Z
+    webUrl: "https://enterprisetalk.com/news/dataiku-11-unveils-enhanced-toolset-to-scale-ai/"
+    ampWebUrl: "https://enterprisetalk.com/news/dataiku-11-unveils-enhanced-toolset-to-scale-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/dataiku-11-unveils-enhanced-toolset-to-scale-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Dataiku-11-Unveils-Enhanced-Toolset-to-Scale-AI-1024x586.png"
+        width: 1024
+        height: 586
+        isCached: true
   - title: "Dataiku 11 Unveils Enhanced Toolset to Scale AI"
     excerpt: "Dataiku today announced Dataiku 11, a pivotal update of the company’s data science and AI platform that helps organizations"
     publishedDateTime: 2022-06-20T07:30:00Z

@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
+    excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
+    publishedDateTime: 2022-06-16T23:57:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/469301/urgent-need-for-guidelines-around-use-of-facial-recognition-technology-expert-says"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 33
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--vVa9mFY3--/c_scale,f_auto,q_auto,w_1050/4M9Y749_copyright_image_264530"
+        width: 1050
+        height: 630
+        isCached: true
+
 secured: "rzObvmVGz/6q1RcrzA1IiVwCH8zYjvueeRWpFxQE+xw/vOwZiazwAiuc8tYHKLWIllfhWqnY+SyuymO/bl1MpW0nou2b4jp2/QnX6P1hi1/vVTif1j/BsarI9ZxXUEKGIBqsYy94RJBKf6kTQMM2QUT4TefbWhd5aDDYKxC8537+0C3VzMrHBW7BQv+oDwBkuwFPTIFgb/bb2SWdeF1k2TD1NVNx9+DWt6K3oPbz2CUV/8uQJtfaEA7OvJ/CCOLKr15rWfSdrrgkMKnP7yWINLBjvaPvUR50Saqyc+6VgwgUEDoNVZkn1c3kj0fXGwaNI/ysfs4DS1VaxkR/iRPhT3wn7BaHeQD+jGTVkfCVSng=;FvIiIihCuTAO9siQXel/ag=="
 ---
 

@@ -41,17 +41,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Authorities Release First-Ever Self-Driving Car Crash Report"
-    excerpt: "The disclosure, released by the National Highway Traffic Safety Administration, is the first of its kind and part of an ongoing effort by the federal government to track the safety of autonomous vehicles."
-    publishedDateTime: 2022-06-16T15:05:00Z
-    webUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report"
-    ampWebUrl: "https://www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/authorities-release-first-ever-self-driving-car-crash-report?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 24
   - title: "First report on self-driving vehicles shows 500 crashes"
     excerpt: "This week, the National Highway Traffic Safety Administration released 10-months’ worth of crash data from vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
     publishedDateTime: 2022-06-18T03:56:00Z

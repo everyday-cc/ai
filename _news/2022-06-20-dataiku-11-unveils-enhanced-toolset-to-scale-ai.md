@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dataiku 11 Unveils Enhanced Toolset to Scale AI"
+    excerpt: "Dataiku today announced Dataiku 11, a pivotal update of the company’s data science and AI platform that helps organizations to deliver"
+    publishedDateTime: 2022-06-21T06:46:00Z
+    webUrl: "https://enterprisetalk.com/news/dataiku-11-unveils-enhanced-toolset-to-scale-ai/"
+    ampWebUrl: "https://enterprisetalk.com/news/dataiku-11-unveils-enhanced-toolset-to-scale-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/dataiku-11-unveils-enhanced-toolset-to-scale-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Dataiku-11-Unveils-Enhanced-Toolset-to-Scale-AI-1024x586.png"
+        width: 1024
+        height: 586
+        isCached: true
 
 secured: "Qid8ZaMjo1u/j1v7sWc/FiqbEx96K85HJxOHjciiKQnTHDYdt3vFlM5b0vue5JKNZQTn4OKW8rBojPiYE1OIwah11Fa2gaY6yys5ymNc5fkMnqQcXRDYX4x2KMB6X6pT6tPY2muuhJbSpv8cWUPXclJIlY7FrGNZpgawdO6cGxuUMYZ45z21DcNzDZO1d2rwHYAyr7TsBoDhgRoMT+H3D2ZwL1XQZFO82FjTDaX9wFsSnCsp6d5HWBCqsWsrWj6GHyhE3iqHT/Pxe+6h98g3Hb31c0Y9OmIR/b+8cKgp97fe2fSmykVHdYi8IrsYNJwMjDm9RJcsDPIdVnAESkJWCXaRs4a5aYmqrURAA5VLX4U=;C/bkpCPdo6dD6c57PHbApQ=="
 ---

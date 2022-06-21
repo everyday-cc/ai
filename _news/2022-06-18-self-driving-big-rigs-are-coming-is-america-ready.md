@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "A hi-tech village is working to solve America’s chip shortage"
-    excerpt: "Public-private partnerships are key to revitalizing the U.S. semiconductor industry, ensuring long-term innovation and national security. By WP Creative Group The U.S. is facing a shortage of microchips that power everything from coffeemakers to lifesaving medical equipment."
-    publishedDateTime: 2022-06-16T16:03:00Z
-    webUrl: "https://www.washingtonpost.com/creativegroup/ibm/a-hi-tech-village-is-working-to-solve-americas-chip-shortage/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/creativegroup/uploads/2022/06/15201002/IBM-1200x628_2.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Nv6b/Kv0GoA8xGoDQs49ofVKD7WldH0UdNuO6AuZ+891VzZzVGr5/DLSqZjGQDP7xS7yVqL2bwlOEID67OIHpm1TpurR5csUwVgEQyl4dvxLNgPFPSvN0vyqkLrkSOsSXZkjKU84JePzKnT399ofbtH2C3lAZTJu6CKfsDABTPcrbSQfQxDJTSUXCLP5Tf6HKaVF7zcmFnHdGJmubs2O3tAYRcwKR1Zup69TGH/HPOdHbLzaK5thAIqsFFd1Y0KptfCmBi5Es2xxnn4KAHsPM0cdGEncUMsuGOVz5/6jFz1+ReH9KXCTRtG/cjj09zpXlLB9L7+TtFK/MfEXv5l+v6bHkV16KykT+RDa2BKtoTCCC6kccdQilDZjHgercRhzX5dsRyzNLet14pgIkseApvgvH0rJyN/za9zkPRmy1JfP6wZeJ6lXsdSxiw/D2P2HiJDVBMwpL6/wMd7zgdw220YfdgatemczPkwk96Ux/pbHAFhyumFvERtkpmlKEX+GyvKO074BUUUUOPkNVaVx6A==;3FpkRiNR+ajuA7oUJAXG0w=="
 ---

@@ -64,20 +64,6 @@ related:
         width: 1183
         height: 887
         isCached: true
-  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
-    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
-    publishedDateTime: 2022-06-16T15:47:00Z
-    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft & Meta begins testing of Artificial Intelligence to assist in operating data centers"
     excerpt: "I run the compute in multiple large scale datacenters. This is such a silly sensationalist article. There is nothing \"AI\" about this."
     publishedDateTime: 2022-06-20T01:30:00Z

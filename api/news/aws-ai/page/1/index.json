@@ -115,7 +115,7 @@
       "originalUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -156,7 +156,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Microsoft AI"
       ]
     },
     {

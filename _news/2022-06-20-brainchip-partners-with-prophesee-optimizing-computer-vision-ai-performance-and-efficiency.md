@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BrainChip Partners with Prophesee Optimizing Computer Vision AI Performance and Efficiency"
-excerpt: "Start a 7-Day Free Trial Morningstar Investor Unlock our industry-leading research and bring greater confidence to your investment decisions."
-publishedDateTime: 2022-06-20T00:50:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/705706msn/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency"
-webUrl: "https://www.morningstar.com/news/accesswire/705706msn/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / June 19, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, and Prophesee, the inventor of the world’s most advanced neuromorphic vision systems,"
+publishedDateTime: 2022-06-19T21:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-patents-f6fb74dffbfcd8a9ee49a8d923c7a3ef"
+webUrl: "https://apnews.com/press-release/accesswire/technology-patents-f6fb74dffbfcd8a9ee49a8d923c7a3ef"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Brainchip Holdings Limited/ADR: BrainChip Partners with Prophesee Optimizing Computer Vision AI Performance and Efficiency"
@@ -29,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 25
 
-secured: "+w3+VwcoDRnMQhuMbUxCXDl9VJZqAUVzTq1C8YUPFozTwyK8njU7dXXekg8iquy5yRreObBmaZ+WYwbTPEJz965G7Wk+dU7mU31ucb2V2j8iB5Ylv4iroZW7O/sEVPlpljIiJc2vmQ568D4Jf2ukkAwVhm5amvH9OPL4RxQIv2vU2t5O2rsNvhG6B6Q5AzBpxW3VMrOrPgEptAm2bwdDg/5F/sFjOVvHVDaHrW+ra9aIzs61qlKF8TES50xAopFYrhPJPMwQH/61jORbzbxwe28IpBZlx+2fUp4t5Lv+u+9/64pr3E9tcrfk9cm6Zk2tWqpelubuZh4LBLPsMu4B6H6wRhDdyACbG/7HppP2OzU=;0NOxqg1XMCizMuMCWYXKNA=="
+secured: "+eeSE1XA16rmEsm4eMxLIq2vAO6eULJOmm/Os1oBAXwsnIKltT3u3s6B/lXaI8wtg5IpdAN5FfhBmlEGcxhDI12y214zJQmCxXVnxlcQ1J3A6vu2pERD/M4P/rsukOrCbhXk+bHxb/l99LA3h2mvLvmQFQ3IRTZvvlGa58YibVZ5FKNtDqhxJ7ZbOCPY9Cdx+ytT26bzNRr/J6awn5fWJCuJ6hftfrJwUhOlOJRrGG4ASrE22qZlatE1Y4pgSAZzWrwcLsS4eKANKn8Qjj37BeFBtrILcJX/x4cT209IKJ46JwF2pqbaZISpjSLe9iv7VqnrHNaI6IFFjjVWIeadVV2ssLlC9qFK/eN/2yjUAxI=;85W+lM1I2NiUWBZVKrD+gA=="
 ---
 

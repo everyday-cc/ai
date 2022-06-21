@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage"
-    excerpt: "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records."
-    publishedDateTime: 2022-06-16T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/"
+  - title: "Israel’s Aidoc raises $110m for AI tech that reads imaging scans"
+    excerpt: "Series D investment brings total capital raised by company to $250 million; investors include TCV Ventures, Alpha Intelligence Capital"
+    publishedDateTime: 2022-06-20T07:17:00Z
+    webUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/"
+    ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-raises-110m-for-ai-tech-that-reads-imaging-scans/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62ab4ceac506a1afd8f2b684/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static.timesofisrael.com/www/uploads/2018/10/Aidoc-Founders-e1539593690908-640x400.jpg"
+        width: 640
+        height: 400
         isCached: true
-  - title: "Shield AI Raises $165 Million In Funding Round To Accelerate Autonomous Piloting"
-    excerpt: "Defense technology startup Shield AI has closed a $165 million funding round that the company said will be used to accelerate the development artificial intelligence (AI) pilots, including in degraded GPS and communications environments."
-    publishedDateTime: 2022-06-17T19:16:00Z
-    webUrl: "https://www.aviationtoday.com/2022/06/17/shield-ai-raises-165-million-funding-round-accelerate-autonomous-piloting/"
+  - title: "Aidoc Raises Funds for Continued Expansion of AI Care Platform"
+    excerpt: "Aidoc, a provider of health care artificial intelligence (AI) solutions, announced a $110 million Series D round investment, bring"
+    publishedDateTime: 2022-06-16T20:09:00Z
+    webUrl: "https://evtoday.com/news/aidoc-raises-funds-for-continued-expansion-of-ai-care-platform"
     type: article
     provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 32
+      name: Endovascular Today
+      domain: evtoday.com
+    quality: 39
     images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2022/06/v-bat-maritime.jpeg"
-        width: 960
-        height: 644
+      - url: "https://evtoday.com/images/meta-imgs/og-img.png?v=a48115b"
+        width: 288
+        height: 288
         isCached: true
 
 secured: "F6o0kHpD2jRCwmgcqnvrhTcGirI/0RtMwqElZuYFTxgkYDSt0eNrEl9bm7ujPjkWRsuWzasjZ9mwklWQsd2/v5LMmCl24VEfJnzOIU78hE7v2HXuaXOTOmeRVNZfP1GfF9Eurhvwm6PQsfQlzI1M3/BdRi/bBl/FXOOYzcb60MdgDiEmbl3DBXNDWkKSqsSQqPCEpOBBDlna0sppGhjzK/POt75wOchQccFiwYkJGfJC0FcD2jCrrv2vwRO9h3aFJVeHI5z02ABiBoSOgtYdB963bJifvCsRIZhQV2CrWpCp8f5CHhCFiMprKZPMrYk9EzZIhW+4YBTTIn7RpMTPbdhO56o12GGumH9vx5hPkg4=;dzWcNfAV45Qrtk6ng5uWBw=="

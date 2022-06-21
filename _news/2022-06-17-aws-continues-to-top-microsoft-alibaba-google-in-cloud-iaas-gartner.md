@@ -51,20 +51,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
-  - title: "Microsoft Announces Azure Arc Multicloud Management Perks"
-    excerpt: "Microsoft on Wednesday announced enhancements to its Azure Arc multicloud management solution as used with its Azure Kubernetes Service (AKS) and Azure Machine Learning (ML) services."
-    publishedDateTime: 2022-06-16T15:47:00Z
-    webUrl: "https://redmondmag.com/articles/2022/06/16/microsoft-announces-azure-arc-multicloud-management-perks.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeSunSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Industry leaders hail Microsoft role in UAE’s digital transformation drive"
     excerpt: "Microsoft customers on Monday shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE data centres."
     publishedDateTime: 2022-06-20T16:31:00Z

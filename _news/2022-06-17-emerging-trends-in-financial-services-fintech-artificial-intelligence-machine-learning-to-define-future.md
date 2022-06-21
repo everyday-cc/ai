@@ -50,6 +50,20 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "Scottish speech-processing fintech Aveni raises £2.7m"
+    excerpt: "Scottish AI company Aveni.ai has secured an investment of £2.75 million to deliver the expansion of its Aveni Detect platform across the financial services and utility markets across the UK. Its ground-breaking conversational intelligence technology is ..."
+    publishedDateTime: 2022-06-21T08:39:00Z
+    webUrl: "https://www.finextra.com/pressarticle/93066/scottish-speech-processing-fintech-aveni-raises-27m"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 41
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Register for the BusinessTech Online FinTech Conference"
     excerpt: "The conference will cover a variety of topics, including FinTech disruption, mobile payments, digital banking, cryptocurrency, blockchain, cyber security, AI, and machine learning. 2,500 delegates ..."
     publishedDateTime: 2022-06-20T09:39:00Z

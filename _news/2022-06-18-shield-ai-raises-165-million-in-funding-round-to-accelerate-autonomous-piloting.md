@@ -24,36 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage"
-    excerpt: "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records."
-    publishedDateTime: 2022-06-16T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/"
+  - title: "Lightning AI raises $40M in funding to streamline AI development projects"
+    excerpt: "Artificial intelligence startup Lightning AI Inc. today announced that it has secured $40 million in funding from a group of investors led by Coatue. Index Ventures, Bain Capital Ventures, First Minute Capital and Mantis VC participated in the round as well."
+    publishedDateTime: 2022-06-16T21:02:00Z
+    webUrl: "https://siliconangle.com/2022/06/16/lightning-ai-raises-40m-funding-streamline-ai-development-projects/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62ab4ceac506a1afd8f2b684/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/1.png"
+        width: 850
+        height: 486
         isCached: true
-  - title: "AI healthcare company Aidoc lands $110M"
-    excerpt: "Aidoc, a company that uses artificial intelligence to expedite medical care, secured $110 million in series D funding June 16 to advance its data-driven tools. Aidoc's care platform has 15 FDA-cleared clinical solutions to analyze imaging data,"
-    publishedDateTime: 2022-06-16T17:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/ai-healthcare-company-aidoc-lands-110m.html"
+  - title: "SortSpoke secures $4.5M to bring its universal AI document processing platform to enterprise"
+    excerpt: "SortSpoke, the most advanced and easy to deploy AI solution used by enterprises to extract any data from any unstructured document, has announced $4.5 M in funding led by IDEA Fund Partners, SixThirty Ventures,"
+    publishedDateTime: 2022-06-20T13:58:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/sortspoke-secures-4-5m-to-bring-its-universal-ai-document-processing-platform-to-enterprise"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 6
 
 secured: "UWg9pFgWq8JuTxIGpIVQP+FazhIw/qkSwGFpt5Ra7lerX61HagOrvgcXc8cArmHPDtIgnEqcs6yO53dt7Wj3pdekn9TV5VSdAAe6Timnys+OuN9F9zVERUSh9LWfgzhs/zL/dQVH8CT1lw+M8vyUO/4zunn8WOiKKWKNAOiZkTS7uM5gXkjFFN1SqHZwVBYPgeXbcjWKly7CnzID+tgo34wHkTWGAlnMz1y48nOp3JhcyAZTtGKjzlA38GjB7gL/ruzpqEfD9EndfJjxQo/PcEN0Wj2aamKGhJrHNkODue5/Bg5HX986b9uNPoBASW0Def7ZQ9yyXTIhkrxIhX9bKEre02p8IRwmNpDj7UlFfXE=;Z+7BdcW7oz0OWFF6CR6ntA=="
 ---
