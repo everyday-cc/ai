@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 things large language models need in an era of ‘sentient’ AI hype"
+    excerpt: "Here's some of the lessons learned from the hype and confusion surrounding large language models and progress in AI."
+    publishedDateTime: 2022-06-20T21:40:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/"
+    ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1367281424-e1654632813202.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Has Artificial Intelligence gained sentience?"
     excerpt: "Blake Lemoine, who works at Google’s Responsible Artificial Intelligence (AI) team announced the company’s Language Model for Dialogue Applications (LaMDA) was sentient . He has since been suspended by the company due"
     publishedDateTime: 2022-06-19T07:26:00Z
@@ -40,6 +56,38 @@ related:
         width: 729
         height: 468
         isCached: true
+  - title: "Sentient? Google LaMDA feels like a typical chat bot"
+    excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document that he had circulated to colleagues in which Lemoine urged Google to consider that one of its deep learning AI programs,"
+    publishedDateTime: 2022-06-19T00:19:00Z
+    webUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/009856ccdcd012e776dba72b3dc1444fa900596c/2022/06/18/faddab42-212e-4d7a-8150-b993f1b05ce4/brain-in-a-jar-crop-for-twitter-new-new.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "Google’s ‘sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
+    excerpt: "Or, in the words of R. Zeira, “Return to your dust.” Mois Navon teaches “Ethics and AI” at Ben Gurion University and Yeshiva University. He is an ordained orthodox rabbi and one of the founding engineers of Mobileye who designed the chip powering ..."
+    publishedDateTime: 2022-06-16T21:29:00Z
+    webUrl: "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan"
+    ampWebUrl: "https://www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp"
+    cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/16/opinion/if-googles-ai-is-sentient-can-it-count-in-a-minyan/amp"
+    type: article
+    provider:
+      name: Jewish Telegraphic Agency
+      domain: jta.org
+    quality: 69
+    images:
+      - url: "https://www.jta.org/wp-content/uploads/2022/06/06-16-2022-Golem-copy.jpg"
+        width: 2149
+        height: 1200
+        isCached: true
   - title: "Should we be concerned about Google AI being sentient?"
     excerpt: "From virtual assistants like Apple's Siri and Amazon's Alexa, to robotic vacuums and self-driving cars, to automated investment portfolio managers and marketing bots, artificial intelligence has become a big part of our everyday lives."
     publishedDateTime: 2022-06-17T14:28:00Z
@@ -55,38 +103,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/google-1.jpg"
         width: 2880
         height: 2160
-        isCached: true
-  - title: "AI sentience should not eclipse its real problems"
-    excerpt: "The excitement stirred by a Google bot said to be turning human was a likely case of empathy projection. It must not distract us from real-world ethical worries that attend AI deployment"
-    publishedDateTime: 2022-06-17T03:47:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/ai-sentience-should-not-eclipse-its-real-problems-11655393504475.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/ai-sentience-should-not-eclipse-its-real-problems/amp-11655393504475.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/ai-sentience-should-not-eclipse-its-real-problems/amp-11655393504475.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/06/16/600x338/AI-ke6H--621x414@LiveMint_1655393650488.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "In Perspective | AI and the red herring of chasing sentience"
-    excerpt: "Artificial neural networks in the other hand, have a predefined model, where no further neurons or connections can be added or removed. Only the weights of the connections (and biases representing ..."
-    publishedDateTime: 2022-06-17T12:46:00Z
-    webUrl: "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758.html"
-    ampWebUrl: "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/06/17/1600x900/3e86f56c-ee38-11ec-816d-25a8f4149995_1655468722716.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Forget sentience… the worry is that AI copies human bias"
     excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
@@ -120,48 +136,6 @@ related:
         width: 430
         height: 242
         isCached: true
-  - title: "Comment: Never mind if it’s sentient, AI’s still concerning"
-    excerpt: "Even so, AI’s influence on our daily life is growing. As machine-learning models grow in complexity and improve their ability to mimic sentience, they are also becoming more difficult, even for their creators,"
-    publishedDateTime: 2022-06-21T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-never-mind-if-its-sentient-ais-still-concerning/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Google sidelines engineer who claims Its AI is sentient"
-    excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company's most advanced technology. Blake Lemoine,"
-    publishedDateTime: 2022-06-21T05:13:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2022/jun/20/google-sidelines-engineer-who-claims-its-ai-is/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201668885_google-bg-5dae7724-f9e9-11eb-943a-c5cf30d50e6a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 398
-        isCached: true
-  - title: "Commentary: If AI ever becomes sentient, it will let us know"
-    excerpt: "Blake Lemoine, a senior software engineer in Google’s Responsible AI organization, recently made claims that one of the company’s products was a sentient being with consciousness and a soul. Field"
-    publishedDateTime: 2022-06-18T04:15:00Z
-    webUrl: "https://www.bendbulletin.com/opinion/commentary-if-ai-ever-becomes-sentient-it-will-let-us-know/article_fa5ab6ba-ee66-11ec-b755-1b24e2adbc35.html"
-    type: article
-    provider:
-      name: The Bulletin
-      domain: bendbulletin.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/b8/8b87503a-ee67-11ec-b422-0f3a2d7cd6d9/62acc1a0da157.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "Why ‘sentient AI’ claims are actually very damaging"
     excerpt: "Google’s LaMDA system and its conversation with engineer Blake Lemoine got everyone talking, from tabloids to daytime TV, about the possibility of AI becoming sentient and threatening our way of life. The subject of AI rarely makes it off the science and ..."
     publishedDateTime: 2022-06-20T16:02:00Z
@@ -176,29 +150,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "The Google engineer who sees company's AI as 'sentient' thinks a chatbot has a soul"
-    excerpt: "The Google computer scientist who was placed on leave after claiming the company's artificial intelligence chatbot has come to life tells NPR how he formed his opinion."
-    publishedDateTime: 2022-06-17T00:31:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2022-06-16/the-google-engineer-who-sees-companys-ai-as-sentient-thinks-a-chatbot-has-a-soul"
+  - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
+    excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
+    publishedDateTime: 2022-06-19T13:43:00Z
+    webUrl: "https://blogs.timesofisrael.com/sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
     type: article
     provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 31
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/896e028/2147483647/strip/true/crop/4480x2352+0+316/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F16%2Fgettyimages-1241233010_custom-9a833e9201df8466bf5f615d77ab56a8f5fb109d.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Has a Google AI Become Sentient?"
-    excerpt: "Hello, everyone. Happy Thursday! Last weekend, an interesting story was published about a Google engineer who has been suspended after publicly claiming that one of the company’s artificial intelligences (AI) has become sentient."
-    publishedDateTime: 2022-06-16T17:43:00Z
-    webUrl: "https://www.aei.org/articles/has-a-google-ai-become-sentient/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 32
   - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
     excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
     publishedDateTime: 2022-06-19T16:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/dataiku-11-top-features-that-will
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Dataiku to help enterprises embrace ‘Everyday AI’"
+    excerpt: "Dataiku 11 also empowers non-coders — including subject matter experts, citizen data scientists, and knowledge workers — with easy-to-use, no-code tools. Dataiku to help enterprises embrace 'Everyday AI'."
+    publishedDateTime: 2022-06-21T11:12:00Z
+    webUrl: "https://www.itp.net/software/dataiku-to-help-enterprises-embrace-everyday-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "NzfwYQZG9kj5e42Td3TlFzwO5EUvn5IyC1pAwqXGGfotB58Km2PHNNWBtle78F841bPIWMCBMIlWRNfBn8zg/LB9/6PjkCaiRQ7lradKZs0ucJ9rAegwdaMFBXRLX4ppmrLv4GMY51epQnxrAd7ZIhjc7L7et+KYG44HuRSthSGODF1q0NuFXrecD028AqF/a1B094Cu+q9hmrjjtbyD7d0jNWusGT0A/946sTbzGHGKJb4Ds24RucXbdTDui80TiqopleunV0leExWBSiAnGAvZOddUVwcmr3Lu1fC0WHcqx/QxM9SQfk//b1IAoSO9VHvs1aioTBbmo0BrPzCg01WaPNZrX3xipL0T1tmn4no=;aQ5G72v3l6zVpNvZ38EMQA=="
 ---

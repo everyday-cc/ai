@@ -41,20 +41,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "AI healthcare company Aidoc lands $110M"
-    excerpt: "Aidoc, a company that uses artificial intelligence to expedite medical care, secured $110 million in series D funding June 16 to advance its data-driven tools. Aidoc's care platform has 15 FDA-cleared clinical solutions to analyze imaging data,"
-    publishedDateTime: 2022-06-16T17:30:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/ai-healthcare-company-aidoc-lands-110m.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
 
 secured: "/MmP/A+9ToxmyBa8FlJXQDGfKKPV/Ns+qcCAZK/4Iiu6Mq7K3NYBpp6NtP6ccO8AjaeT1E825lENr96ripmMfcoOTSnGiyKB6/hYjnKSDtRJXahGFy6LShNH4USrGH+t4DnYrW15xHQ44AfKYI4EVWvEUdl8yS2ZnC05WDRLERk+pQ3JSTyA5b2ye0rOFMx1K2lD1ZfFUcuLp88ayC6skyNJo9ylZrv+7/PK2Db7CluwX3J+448m0lzsbKSwkLRNvq0Pt8aum7jcU8+hDmYa6CRKSmin+40vdqydcSVS8P82X1F2y706YnobMsIi0cK2zdtUc0eXAU/dgzl7zgNkMYRWiOulZot3bToZY44VnOs=;HFNPo7MFLVvOI9s5/xviHg=="
 ---

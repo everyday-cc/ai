@@ -56,6 +56,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Dataiku to help enterprises embrace ‘Everyday AI’"
+    excerpt: "Dataiku 11 also empowers non-coders — including subject matter experts, citizen data scientists, and knowledge workers — with easy-to-use, no-code tools. Dataiku to help enterprises embrace 'Everyday AI'."
+    publishedDateTime: 2022-06-21T11:12:00Z
+    webUrl: "https://www.itp.net/software/dataiku-to-help-enterprises-embrace-everyday-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "qJD4WqabYOF0GmmcepEDfKinOfQZQnc/3vE6RE8GiQTAnVQA95pD++b1JNHsoQ610ct1gYzvlt98hQisCUbDlc1VBG02ArrkgwltDv8vKVtzfvqEOFrO4AYcSc/A3219GLwt2wDhsudMrQcv8P+exhF+eqDTwOubH9iT29+BPrzGpMsI4OqGTneIodJRdOONRQDVYJUujuZjoVVzpn4zVzXWBT1G7hN3ONqjLT+TvCioDBjDoz/GVCtd899nY7748g2rDlG9okfiM6dW+kLkp2I8eyIDTD6guVW4KqZb+/LJsmAjFN8uUg6CTqQm/cpXoIC+jbErY5VT/sJS8FyfHNQjnWBt1L9Q461zb4+LgjM=;U4stWFOy38Uv2/g2gErWoQ=="
 ---

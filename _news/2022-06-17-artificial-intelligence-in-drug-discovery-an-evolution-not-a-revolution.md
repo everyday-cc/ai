@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/drug-discovery/articles/artific
 webUrl: "https://www.technologynetworks.com/drug-discovery/articles/artificial-intelligence-in-drug-discovery-an-evolution-not-a-revolution-362386"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Funding the robot revolution"
-    excerpt: "I also had the opportunity to get a peek at a few projects from Pieter Abbeel’s lab at Berkeley Artificial Intelligence Research ... ve seen with the larger startup. The past couple of years ..."
-    publishedDateTime: 2022-06-16T18:45:00Z
-    webUrl: "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/"
-    ampWebUrl: "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/prime-air-drone-deliver-04.jpeg?w=1024"
-        width: 1024
-        height: 656
-        isCached: true
 
 secured: "bsQkDYEtnR200qCTAyuwZ2loev4qfISzssOae/fpGmwvIkgIR8e9ZkM7CNpm8CqK6C1FLkXyiXdSZwo/st2673NOUsGh2sgsFdBpZPms0exCwG+gnhkdI1bHSsDpRAoYwcYUwHP0zLAuNIjI1RUw03AwfngTwdpUE6KeKV1qIRfg4JiUMQNUistyGAo8hBhoyn44Jy4hTNDlR5PTQ6rYCNlw++DyDfyjTdKRGwzznIdm3CVIcDkTflv9oXPgovcqwLxIPrhykBzwgBLKAi4RN5bNzlwaA+UT70dKYO2m8WYHVT3N+hzTTaHDH1ohgls9ejvZkFLIRmsUxRREJp74OCp4hI7kTUiJo1deX67rSrQA1QapJ8lyeq8VaWx6oUmP8gB/DvjQfwltcd2TWy2bCoPiX7lK3C910G6menuEJ3eTLtHRZ6mVDyU9UL3JCk2ccB/ReuEGRD0tIvWAOdlk92r5U9uKq5766f0OdbWeBQTykQ+ZuPIaifS9jYn0ASt6LjUTI920YEUP8FmawhYBdQ==;sqPK5AJF4lDHFmyrEl4OIA=="
 ---

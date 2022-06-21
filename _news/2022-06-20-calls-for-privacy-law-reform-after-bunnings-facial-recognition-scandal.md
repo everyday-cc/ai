@@ -24,22 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Bunnings, Kmart and The Good Guys say they use facial recognition for ‘loss prevention’"
-    excerpt: "Once the purview of law enforcement and intelligence agencies, facial recognition is now being used to identify consumers in Australian stores. If you’ve seen the movie Minority Report, you’ll remember how Tom Cruise’s character John Anderton is identified through iris recognition to perform his duties,"
-    publishedDateTime: 2022-06-16T18:56:00Z
-    webUrl: "https://www.dailyexcelsior.com/bunnings-kmart-and-the-good-guys-say-they-use-facial-recognition-for-loss-prevention/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 31
-    images:
-      - url: "http://www.dailyexcelsior.com/wp-content/uploads/2022/03/Diabza-300X300-min.jpg"
-        width: 300
-        height: 300
-        isCached: true
-
 secured: "24ZpbuGfFta+N+SSZAEyIy1JUYnudmvEmn/p4V3EqUskUTRe1i+EF/G2+7OZy6Oo/Bg/z0+ceCPtPlNgC9jZl2tLO5e6ce2N5iuyijO3lS5m3OjV4x5BefZ6gu/UZucwbZpRjV8y5c6Oo12wIyAhgUbwKxVegYX6xOWuVr7tpPG9FnQFcj9fRvSSP7rUENuyjIGiQashanHfSLTbn2i8mKu56Px1yoOC35sG+04EyoGonolC0F3mu2AXhv07UC+jpPh5WaimM72sBr+5K52HixYPOCyX/tsVPggGsH0MOXV0y2s1Qtnvej6JTXtVFOXXGgotKhMtU8Q6M3MWoAMcdtfsjtgD4bUfuRGQdvs80cricVsqxIReuFBN/ZZ8sIyKDfAQDZnUN0nWmttISaqiHbOxYmjk7EPxHJyqUfnZFYcz4hJ9dJOOxOmd6rDNEjS/iWlXutJwcitVktIaV5kXhOasF79Vyil/6EwnDAYvw5jTyhu4LMnFjhpE2+sPcN057hCVW+sYpMmrqpJSkj4Zyg==;0/aMLFUgwBf9axCUIXQtBQ=="
 ---
 

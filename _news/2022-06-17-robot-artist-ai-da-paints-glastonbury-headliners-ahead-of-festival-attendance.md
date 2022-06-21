@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-
 webUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 700
     isCached: true
 
-secured: "2cgPyJZX8ObeimPGmQyzbwfcLrflWhPT053jK9qL2QtXeVk9NpMZ7RVY8srC3+b50ob0lf3c4KuDfMtHLYMrHKPvwj64bXsB+bIBcp0f3dX2Bi2XBNEhHFfYeba4vEpe64xEoEz9lvQwesCSrIwN0EfIvpXDesQ4mdfFS8+M8Uxai7MKjT7ySe60m6FRRwJ7kiaGp7258gZBlvPcAq+kA0DprdQKQVu+5YLyYHDw20Xi7uB5Sq+vyd9MT/ApO+Cgh8drcwSoSM59h5KfFK1fOfCSwRrd+bBNkL5LEk/kscqigJJ7qe4IqZDhxwZk7wP7eDXlDy2tL8me8jE+UBsGH9XjMrxkfv7lEJ47kxJjGhg=;hYzk9aeaZc9yAWbPl0j0Sw=="
+related:
+  - title: "Ai Weiwei documentary to be screened exclusively at Glastonbury Festival"
+    excerpt: "Ai Weiwei: Yours Truly directed by Cheryl Haines tells the story of Ai Weiwei’s father receiving an anonymous postcard while exiled as a dissident poet in the 1950s, and how this one small act of humanity had a profoundly moving and transformational ..."
+    publishedDateTime: 2022-06-21T11:29:00Z
+    webUrl: "https://www.music-news.com/news/Underground/149576/Ai-Weiwei-documentary-to-be-screened-exclusively-at-Glastonbury-Festival"
+    type: article
+    provider:
+      name: Music-News
+      domain: music-news.com
+    quality: 36
+    images:
+      - url: "https://www.music-news.com/images/news/Ai-Weiwei.jpg"
+        width: 500
+        height: 500
+        isCached: true
+
+secured: "c2Zv2uZAHwy+0rJS5zQ6h5H6T3ndnh+alfUmLG4CeoDmGMFyE9evsNLhb6cYew/lJp14qUKxvR9AqLhujTh5MRGK/Dt9ZxvNpu8LG74zx07z5ujFbVMP9IeV7a5Ye5JrKA04gwSeyzLLfebjgICvgmpD9BDJvEdp9WPoTtVj4OJLidfSlGqiMt3ixUH8MOwYfn6hLjPqii36SsHJqmZ2bu1qqDZZTZ5SLRgb6TVH8PL2POj0/3Vsr1bahTttg5rLBeoYT3PV1uyKnHPZUhA5V8P5qbWCdcBytRnr20p2KApBf9owTR5ZU37hiLmicX035wZ74UBNCW2pzPmEsvJA8UgIxtm85d0d27RnCu119ZA=;TOpUsMpwWwcCe5cG3nXcpg=="
 ---
 

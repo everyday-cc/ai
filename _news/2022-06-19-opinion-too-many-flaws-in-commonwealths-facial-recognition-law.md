@@ -25,6 +25,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
+    excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
+    publishedDateTime: 2022-06-21T10:00:00Z
+    webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
+        width: 1800
+        height: 1203
+        isCached: true
+
 secured: "tXsmzczcxnVK8iknt7061RbPJhnhzKQqpkN1Ey/5qn52T/wEnzA6u5UCjxzeLs5p+3NYk+UiuCLBSDav0zqkGrCb8pexgRGMqUXgLZj1oKDKeqUf3bFrFZ/fGWbPmwplnBQQV+mZo284k2BGxzq0/p+WQosDKLj+S5GHqSEcJQf2GPYQd2ufhSuKDRQP17UGLQhO34MAnEcM3FtkHQsUA1rtbP5eOcOlxySEzcaZJviGZBptVgIqa82KkxKPXtQcLrwWdIjw2J9ea3omcFZZsjPTz/g+diyAZZb9rzCzysImDxq/2hEmzAOmyidfIYOSsNgZVpKOHuE76k1OsVMUEzxlSlfCwCNxAzYAHIik/ANjDYaHJRFS6mVBGN7WnugV4Hfi5Jzwj+LDOzOEUG2bEoBPFecdnwgm9TVn7Y3lSeaZHsQvdCz8f9ChnLu509Mw+zkPU7INzSQjPzSMdQrkXp38+UN+rzSL7CK5hudqN8w5osyoJbJKTxSiN6hEhKz6l47g2BAR7EkPOK7ITnKJpA==;32tEw52c2MhtKv/OVQu16Q=="
 ---
 

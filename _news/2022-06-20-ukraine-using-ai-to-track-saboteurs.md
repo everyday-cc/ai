@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/55014-ukraine-using-ai-to-track-s
 webUrl: "https://www.fudzilla.com/news/ai/55014-ukraine-using-ai-to-track-saboteurs"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "We must face the fact that rape is being used as a weapon of war in Ukraine"
-    excerpt: "The conflict in Ukraine shows that sexual violence is still being used as a weapon of war, terrorising civilian populations."
-    publishedDateTime: 2022-06-20T13:54:00Z
-    webUrl: "https://www.independent.ie/world-news/europe/we-must-face-the-fact-that-rape-is-being-used-as-a-weapon-of-war-in-ukraine-41770869.html"
+  - title: "Using Artificial Intelligence To Improve Business Decisions"
+    excerpt: "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention."
+    publishedDateTime: 2022-06-21T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
     type: article
     provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200"
+        width: 753
+        height: 502
+        isCached: true
+  - title: "Your business needs AI. Here’s how to overcome decision paralysis"
+    excerpt: "Despite having more data and greater access to advanced software, decision overload paralyses many businesses from adopting AI."
+    publishedDateTime: 2022-06-19T23:19:00Z
+    webUrl: "https://www.smartcompany.com.au/plus/business-ai-decision-paralysis/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/06/AI-for-business.jpg"
+        width: 733
+        height: 358
+        isCached: true
 
 secured: "JS0mJ6+JeI+2dfHMKq064pHESw1jsXfdv+6kj5PITLrP2yA7n8abkGCFJzGshSNWwlch8R+yBkKUA30v22lI/dRXKMtkUlr6JQxv271taJbNH2tk4dhIVl/tej/KwTbaUh6rjmTCqCwVT6BJYbCpIirQtxJNIGuUTdH15MM4UFY+wPtnve5MlkOQ1fYCjK0NI86JqgVuDc/PzGxAU/L88Qm+4S8qe25P6smcqSY29RLVgsvYne5yq9KT8X/42CFQdOi/nB/TOIX9kN2gzYPSstqBMX21/BukhAb6IBRwmfVube8RTpQHHYlNQCg0B0ySyr0pTjlzPB+bYtMuMG5IX5hO5GdXsHaAWyEoTBDOuQI=;o86zgbUkLCQtnXxB7cQsZQ=="
 ---

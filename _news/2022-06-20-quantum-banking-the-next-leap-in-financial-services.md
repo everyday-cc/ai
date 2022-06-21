@@ -7,7 +7,7 @@ originalUrl: "https://www.euromoney.com/article/2a8fb2jukdh3ae709zojl/sponsored-
 webUrl: "https://www.euromoney.com/article/2a8fb2jukdh3ae709zojl/sponsored-content/quantum-banking-the-next-leap-in-financial-services"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How Data-Driven Banking Can Transform The Financial Landscape"
+    excerpt: "While online banking has made customers expect top-notch services at hand regardless of time and location, embedded finance and open banking have set the bar even higher."
+    publishedDateTime: 2022-06-21T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62aca33eb79511f4160ae0ff/0x0.jpg?format=jpg&width=1200"
+        width: 867
+        height: 577
+        isCached: true
 
 secured: "r6XWr/1Zd0uig7tcc2pRqvbbabnZZKknbZrEY2urWCAvRdvx96LtyZO/JLzXT+ZQ0sWmoW/Oj4aVMC3ag4ZpVZrxk/gbcWpjy8ZZNywEArgcHV8LE9LE72x7Fs2jAlpYEHKnXg9eFJ0FoyyQYv6k7o5zccIHWs5Zh5W/AYOVRcB4ixoUvmp5GDNY++dlMHDDxeem2fq7JJvWeNSGrxKSrdb3qPC4r0y9uF1A0rgATqW05ZGLOEuWvlstqNWhdpvqaXySauHxxoNWBZH0LUFRUk3f4FzElGSKCwIA1OYEZI5s5mTSmBypP0ZdJq0wklQkH6rIkqIfhEX/s6nyhXIXcKgd+pS7cWqoMf/f2tHQVIL6/sR0BegrTbt/wjJNGP45f120TGmi3zg6sUUYlJSL2qFkFigXJSwy5Z8rRCwdgJUMUCzx0pRlLTu34pxWvfAFuJ97Q97TogDMzx3ttpC5estEod0CSdTtcmJOp6D6TV2QSTTjRODft7Ge0Ykso/oBjZwFEV1JICPNp8pbEKNM/g==;PyAIjW3U4Kgy6fE1lJzMhg=="
 ---

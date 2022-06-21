@@ -37,6 +37,6 @@ related:
       domain: forbes.com
     quality: 34
 
-secured: "hwn99E7XDLKIoAAomfqa8zJzabLGm+p/SvK39q/AnurQPMUuUYwII+kbWq5J79d+xDNMm/2nipxzuqQ3lYrwv5MeEeJEn/yqyKDy8C69IuQQF2BESEHQMSVSZFKpOc+YtsLo+PLQVXnqume/UkU/vDt9g3mjQOrrmq/2yc1M/OkPTZHOLHfdf89M6KxgN59pnGnO89NeEH+YuLprCZoee0FvR+q0MMeWO8vL16ZHPK+gGGdaWEGZu+5lAMLw5a+iAHTELRFMnAODfkSjODdlqSHv5RQDYoEPgWZYRehzep+gbBD6mYKbwc1QFRO12vWgEJlVIKYL01dmK/I2fHmMqOoe2eGSe+7ALb1SsCRatr8=;MvnDsI//Ea5pcAngyqMnfQ=="
+secured: "/mH4bMt233LcSJCPrPuPtbpF464MrVBYKGtp0UpN2dKlGi/kIwg4BwxzNlY2DAllZYtfsM46+UVnHfpeonxoiXRNvh0l/xfm/Yto8WiJimhp3Q0+vGB6I5BUcgJrJJ5LDRr4B7IsVsupi4IjlRLz05xCkU31mjGxjc34niS6faXm5XF/TkMVFFm6hUGmkvlbhdTBG6mrd/HYVTxYvMDrPJr4t8OOUmm4tGuH8LyArp8a/gzDQe88nYmZNyRJzaZ7yW/1mTbqI3NsbPsqfjIHBkf7cCy8yTT79JaXOAl0MBkI3xCS6Iy4d1IgUK/T2cOPpYdXaquy8lHtpCSy3zi+DdjYc7vlMfCneYXOs12wgcA=;m8+nJ3afgnmbyB2+xX2OXQ=="
 ---
 

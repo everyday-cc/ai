@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amy raises $6 million to help companies market more effectively using artificial intelligence"
-    excerpt: "In a seed round of investment of $6 million, Israeli company Amy, which delivers an AI-driven solution to assist corporate sales professionals develop stronger client relationships and sell more effectively,"
-    publishedDateTime: 2022-06-16T18:00:00Z
-    webUrl: "https://bestgamingpro.com/amy-raises-6-million-to-help-companies-market-more-effectively-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 41
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Amy-raises-6M-to-help-enterprises-sell-better-with-AI.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "Ax6Zy7LCdSA3Cr/dSakB/tvCki1GpIdTCwF6mICZML/XkvcLWg8LjmRJXvZfsGMEH5srmr08ezzpQiYi6vprJHcslCV1UBfs9ibCsdksNXJOtdBs7R740t3BRDcSwC5dUgWXLIV4xZ1+K41juCu8g0oH8a5HdDt5gE2MrpUmP8WAQC2Zc0cOKxgZJE2UddFgCrGEGOpYISnqnqp6qntQIhZhYEKGTJjPoufvp6AR1TGsojnWe70qXva1mD55Uw+5bqGEMcjAX6ADzL/Eqx7F2QH34BnShq1lpNu4EhE6pMv6KhDlxAFTzx9Ucc/zYQ63GDCQx+L79wQjQBuUv7UCgXUMjIVIhTMQxMZI8Q0A6Qs=;iP2pPbazH+Q1aV6HruFbxg=="
 ---

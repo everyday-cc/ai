@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analyt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
+    excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
+    publishedDateTime: 2022-06-21T11:37:00Z
+    webUrl: "https://www.monitordaily.com/news-posts/engs-leverages-ai-and-visual-analytics-to-improve-digital-sales-process/"
+    type: article
+    provider:
+      name: Monitordaily
+      domain: monitordaily.com
+    quality: 54
+    images:
+      - url: "https://www.monitordaily.com/wp-content/uploads/2015/12/166470155.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "NBK receives “Data Transformation” award at AI and Analytics Summit in Dubai"
     excerpt: "The award reflects the bank’s successful strategy to build a digital culture with internal capabilities that are knowledgeable in AI and Data Analytics"
     publishedDateTime: 2022-06-19T07:13:00Z
