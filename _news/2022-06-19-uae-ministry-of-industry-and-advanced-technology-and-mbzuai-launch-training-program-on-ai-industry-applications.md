@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104396663/UAE-Ministry-Of-Industry-And-Advance
 webUrl: "https://menafn.com/1104396663/UAE-Ministry-Of-Industry-And-Advanced-Technology-And-MBZUAI-Launch-Training-Program-On-AI-Industry-Applications"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -22,33 +22,6 @@ images:
     width: 635
     height: 441
     isCached: true
-
-related:
-  - title: "UAE to boost rainfall using AI in cloud seeding operations"
-    excerpt: "The project will use artificial intelligence (AI) to achieve enhanced rainfall prediction. The project's focal point will be the creation of an AI research and operations testbed in the UAE. An AI framework will be built to combine satellite observations ..."
-    publishedDateTime: 2022-06-16T09:07:00Z
-    webUrl: "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations"
-    ampWebUrl: "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 57
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=b0d9d4ee-9a74-54e9-ade5-de268934f040&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "UAE to deploy artificial intelligence to improve weather forecasts, assist in cloud seeding"
-    excerpt: "An AI framework will be built to combine satellite observations, ground-based weather radar data, rain gauges, and numerical weather prediction estimates to determine optimal cloud seeding timings and locations UAE to deploy artificial intelligence to improve weather forecasts,"
-    publishedDateTime: 2022-06-16T13:37:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/uae-to-deploy-artificial-intelligence-to-improve-weather-forecasts-assist-in-cloud-seeding"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 7
 
 secured: "ChhNV1buV7aZlFMrmzAmxkHRKD88Gt4EWx7udJKe/c1huOufmmPka76GIyw82CLn3NW5YhRMT8S5gpAvr83D4TBABBWiUu372PzY+anMpOxSNdUT2j3dsY9zeprhwbTmzTRmUDn5BoM0mWTrS9himTz7GDEgVIcHoKoVtOtDCOfTjyxRKogogIQtkm9Be1tCv4/a8wxmrLbg0ReJu1Lf33PQtBhQg0I/QBEk90jvzrNYOsUJUWsG1Fe//SI9BgFrZJoGvlk2YajmYaaQ75slWlzyeT/R/mAm0k4fqy+dSlWV8WC3RJW+Ek5MtWmHfNgZigNDVufH2SVhAP4E/HrbttpC80mQFCSrmaEDe84nM1BQnmzLr17CbXX/TCepkCJHY3Wqq8LUgMR/Hp509lqqNBLyUqcEiSs8XPoIA7ezaOsY7AokPCwetCYUPCgy+WOLOmwaEMvy/gZaNv8szER3l1FRXWZJch0kwUnRmC/hzDtVWO4OCBnvziXXhbmUb9JQZOpHfiW5eFE6Cg1xEzf2cA==;TH4QXwRDMdHcOsrD2Aixlg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-trig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
       - url: "https://www.jta.org/wp-content/uploads/2022/06/06-16-2022-Golem-copy.jpg"
         width: 2149
         height: 1200
-        isCached: true
-  - title: "Could artificial intelligence become sentient?"
-    excerpt: "What if the AI had some sentient qualities that we did not, and it judged us to be only imperfectly sentient? (“Those fools spend their lives asleep!”) Would we just have to accept that judgement? Or can we get away with arguing humans have a unique perspective on truth?"
-    publishedDateTime: 2022-06-16T09:31:00Z
-    webUrl: "https://gulfnews.com/opinion/op-eds/could-artificial-intelligence-become-sentient-1.88600826"
-    ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/could-artificial-intelligence-become-sentient-1.88600826"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/could-artificial-intelligence-become-sentient-1.88600826"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/06/15/OPN-Artificial-Intelligence_18166c197a7_medium.jpg"
-        width: 540
-        height: 405
         isCached: true
   - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
     excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"

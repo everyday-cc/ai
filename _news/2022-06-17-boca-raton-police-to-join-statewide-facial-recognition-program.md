@@ -25,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Cheshire Police to start using facial recognition technology"
-    excerpt: "CHESHIRE Police officers will soon be able to use facial recognition technology to help them identify offenders."
-    publishedDateTime: 2022-06-16T10:44:00Z
-    webUrl: "https://www.chesterstandard.co.uk/news/20214563.cheshire-police-start-using-facial-recognition-technology/"
-    type: article
-    provider:
-      name: chesterstandard.co.uk
-      domain: chesterstandard.co.uk
-    quality: 39
-    images:
-      - url: "https://www.chesterstandard.co.uk/resources/images/13885226/"
-        width: 650
-        height: 433
-        isCached: true
-
 secured: "Jges55CIA3vsgwagsvvgFkdGnFTBxAbECzacYqAds1qfHShsXMztsgcNw5zHaz+UE7GBDRKgza/i/trvXNGn/A08ICUOR8knZOWaaiNRKcu5moHDmjiCXqLUcxrIhaUTWwV1hWBMwaii0KQ7karxlkkqPHQgTuGuevmmu8BGD+LdSDEw7yWcQKl2PgiPl1CaF1SFSRJnK9qf84Sbc+zLkRLK8wajus24dy61JfhQGCkxlKl5YPsKMUkRYQyqd5AycvYQJ7GKKYoxkpsGGl+Ks1C5IHRpknmVFnQf9GHZMI+zLRr71xTpEjkW0Xkh5V+1CShDQXew9PJQMLO7fMWycc+ZtfLu2opQKF5CG5n0kjyzZc8DfHQnMTcHHphixl7kBTRgbpw4QFPXE3Oo8XNv+N67nGrhHRLf12sA0NKrVOM+zl14gS9qywqxUe26k0ryJLeWlZfFVOjGZAQ5R5Q/uEk1urIewyzsY2CBPwUUdyzrnrKFtc6satB5Yk7Vl9IhRIV/6FruRSeOOJ7fLMVDRw==;N/kr8vU2DbNkIKTOyYt42w=="
 ---
 
