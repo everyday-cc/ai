@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-trig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: VentureBeat
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: LaMDA’s ‘sentient’ AI debate triggers memories of IBM Watson"
-    excerpt: "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ..."
-    publishedDateTime: 2022-06-16T11:35:00Z
-    webUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/"
-    ampWebUrl: "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "3 things large language models need in an era of ‘sentient’ AI hype"
     excerpt: "Here's some of the lessons learned from the hype and confusion surrounding large language models and progress in AI."
     publishedDateTime: 2022-06-20T21:40:00Z

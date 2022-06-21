@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/marketing-comms/customer-relationship-mana
 webUrl: "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales"
 type: article
 quality: 116
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
-  - title: "Microsoft improves Azure’s accessibility for AI workloads"
-    excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
-    publishedDateTime: 2022-06-16T11:28:00Z
-    webUrl: "https://www.techzine.eu/news/devops/81034/microsoft-improves-azures-accessibility-for-ai-workloads/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 49
   - title: "Microsoft & Meta begins testing of Artificial Intelligence to assist in operating data centers"
     excerpt: "I run the compute in multiple large scale datacenters. This is such a silly sensationalist article. There is nothing \"AI\" about this."
     publishedDateTime: 2022-06-20T01:30:00Z

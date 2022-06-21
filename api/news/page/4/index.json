@@ -2,6 +2,196 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-16-procter-gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing.md",
+      "title": "Procter & Gamble Partners With Microsoft To Transform And Accelerate Digital Manufacturing",
+      "excerpt": "Cielica continued, “P&G and Microsoft both share a passion for data and AI and are working together to find innovative ways to apply those capabilities to transform the work we do together. This new collaboration uses Microsoft Azure data and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62aa368a0331ac091509c8a9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/",
+      "publishedDateTime": "2022-06-15T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-insect-inspired-ai-for-autonomous-robots.md",
+      "title": "Insect-inspired AI for autonomous robots",
+      "excerpt": "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/insect-inspired-ai-for-1.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
+      "publishedDateTime": "2022-06-15T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-hundreds-of-crashes-linked-to-autonomous-vehicles-and-self-driving-technology-new-report-shows.md",
+      "title": "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows",
+      "excerpt": "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/",
+      "originalUrl": "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-actionnewsjax-com.cdn.ampproject.org/c/s/www.actionnewsjax.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp",
+      "publishedDateTime": "2022-06-15T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Action News Jax",
+        "domain": "actionnewsjax.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-intel-arc-alchemist-a380-is-finally-here-to-rival-amds-entry-level-gpu.md",
+      "title": "Intel Arc Alchemist A380 is finally here to rival AMD’s entry-level GPU",
+      "excerpt": "The entry-level GPU is positioned to be the rival to AMD’s Radeon RX 6400. The bad news is that you likely won’t be able to get your hands on Intel’s first graphics card for a while yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
+      "originalUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/INTEL-ARC-A380-3.jpg?p=1",
+          "width": 1858,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
+      "publishedDateTime": "2022-06-15T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-boca-raton-fla-police-to-join-facial-recognition-program.md",
       "title": "Boca Raton, Fla., Police to Join Facial Recognition Program",
       "excerpt": "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology.",
@@ -586,6 +776,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-15-think-silicon-to-unveil-industrys-first-risc-v-3d-gpu-at-embedded-world-2022.md",
+      "title": "Think Silicon to Unveil Industry’s First RISC-V 3D GPU at Embedded World 2022",
+      "excerpt": "The new offering serves as a GPU platform to be implemented in 32-bit ... is a leading provider of ultra-low power 2D & 3D graphics, AI and video IP for smart IoT/edge connected end nodes such ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.postregister.com/businessreport/technology/think-silicon-to-unveil-industry-s-first-risc-v-3d-gpu-at-embedded-world-2022/article_17f0da2e-cdaf-57ba-a643-999165c3f8fa.html",
+      "originalUrl": "https://www.postregister.com/businessreport/technology/think-silicon-to-unveil-industry-s-first-risc-v-3d-gpu-at-embedded-world-2022/article_17f0da2e-cdaf-57ba-a643-999165c3f8fa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+          "width": 600,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Post Register",
+        "domain": "postregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-see-pics.md",
       "title": "Spider or crab? The world's tiniest remote-controlled robot is here. See pics",
       "excerpt": "Although at a first glance it could be misconstrued as a spider or a tiny crab, what engineers at US's Northwestern University built was a half millimeter-wide remote-controlled robot. The tiny ...",
@@ -884,204 +1117,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a large drop in short interest in the month of May. As of May 31st, there was short interest totalling 603,200 shares, a drop of 27.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html",
-      "originalUrl": "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
-      "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
-      "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
-      "originalUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Japan Times",
-        "domain": "japantimes.co.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-these-popular-retailers-are-being-investigated-over-unethical-use-of-facial-recognition-tech.md",
-      "title": "These Popular Retailers Are Being Investigated Over ‘Unethical’ Use Of Facial Recognition Tech",
-      "excerpt": "CHOICE has launched an investigation into Kmart, Bunnings and The Good Guys after it learned they appear to be using (and storing!) facial recognition data of customers in their stores. In case you needed another reason to wear a mask.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/",
-      "originalUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pedestrian.tv/wp-content/uploads/2022/06/15/Kmart-bunnings.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/",
-      "cdnAmpWebUrl": "https://www-pedestrian-tv.cdn.ampproject.org/c/s/www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/",
-      "publishedDateTime": "2022-06-14T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PEDESTRIAN.TV",
-        "domain": "pedestrian.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-microsoft-patched-azure-bugs-without-notifying-users-tenable-claims.md",
-      "title": "Microsoft patched Azure bugs without notifying users, Tenable claims",
-      "excerpt": "Tenable Security has disclosed two bugs in analytics software Microsoft provides Azure users, and has complained that cloud providers don’t follow industry-standard security disclosure practices. In its Tenable TechBlog,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
-      "originalUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/microsoft-azure-sign-2.jpg",
-          "width": 499,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-aws-turns-up-mainframe-migration-service.md",
-      "title": "AWS turns-up mainframe-migration service",
-      "excerpt": "AWS Mainframe Modernization, which since last November had been in preview, is available now and offers the tools, infrastructure, and software to manage migration of mainframe applications to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
-      "originalUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/08/clous-blue7-3000x3000p-100899404-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
-      "publishedDateTime": "2022-06-14T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

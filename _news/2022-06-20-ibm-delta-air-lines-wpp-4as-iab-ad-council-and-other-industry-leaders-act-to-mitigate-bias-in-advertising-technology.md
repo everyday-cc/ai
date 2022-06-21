@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Companies commit to mitigating AI bias in advertising technology"
+    excerpt: "A collection of organisations including technology vendors, tier-one brands and agency holding groups have committed to action aimed at mitigating bias in advertising technology."
+    publishedDateTime: 2022-06-21T04:30:00Z
+    webUrl: "https://www.cmo.com.au/article/699193/companies-commit-mitigating-ai-bias-advertising-technology/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 39
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_xxl_214569381.jpg"
+        width: 800
+        height: 564
+        isCached: true
   - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
     excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising Technology CANNES, France, June 20, 2022 /PRNewswire/ --Today,leading companies committed to improving fairness in marketing campaigns."
     publishedDateTime: 2022-06-20T21:52:00Z

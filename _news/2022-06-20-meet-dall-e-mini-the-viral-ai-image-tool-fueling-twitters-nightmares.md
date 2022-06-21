@@ -48,8 +48,8 @@ related:
         isCached: true
   - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
     excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-    publishedDateTime: 2022-06-19T00:37:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
+    publishedDateTime: 2022-06-18T19:02:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
     type: article

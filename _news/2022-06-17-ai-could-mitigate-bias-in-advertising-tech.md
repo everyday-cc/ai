@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-adverti
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "Companies commit to mitigating AI bias in advertising technology"
+    excerpt: "A collection of organisations including technology vendors, tier-one brands and agency holding groups have committed to action aimed at mitigating bias in advertising technology."
+    publishedDateTime: 2022-06-21T04:30:00Z
+    webUrl: "https://www.cmo.com.au/article/699193/companies-commit-mitigating-ai-bias-advertising-technology/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 39
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_xxl_214569381.jpg"
+        width: 800
+        height: 564
         isCached: true
   - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
     excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising Technology CANNES, France, June 20, 2022 /PRNewswire/ --Today,leading companies committed to improving fairness in marketing campaigns."

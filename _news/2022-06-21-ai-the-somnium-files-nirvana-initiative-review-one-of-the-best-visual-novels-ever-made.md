@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI: The Somnium Files – nirvanA Initiative details Eyeballie mini-game, Aiba’s Room and Tama’s Room"
+    excerpt: "Spike Chunsoft has released new information and screenshots for AI: The Somnium Files – nirvanA Initiative introducing the Eyeballie mini-game and Aiba's Room and Tama's Room bonus content."
+    publishedDateTime: 2022-06-21T03:26:00Z
+    webUrl: "https://www.gematsu.com/2022/06/ai-the-somnium-files-nirvana-initiative-details-eyeballie-mini-game-aibas-room-and-tamas-room"
+    type: article
+    provider:
+      name: Gematsu
+      domain: gematsu.com
+    quality: 23
+    images:
+      - url: "https://www.gematsu.com/wp-content/uploads/2022/06/AI-The-Somnium-Files-nirvanA-Initiative_2022_06-20-22_003.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HVw3n46BI555StevaJvxECQXdSxq1eUtfC1ieH6StBMo+RjI89iVXnPkXIkEb/+vzyIlSZ6wGEdHWnyvEVDoiBo7O4lSejjW8iYh0cl22oQO3DTJoaCu8yj4QIaTV7XurKWwwtN0dcfpyycjFUQRE2+ULQnGYPSAsp3X5MgBV8wm1/VRlxXwSo04x5pE3sFwC+L+58GiIVHkYDmMg5S8kWx6xjL9qd9jyCtRCexUdkqLVsPUaK2DLzJD5/J9v8IgbO8CdyBbNUDpzaNe9IYt8Pq0fheiiNCbLPeMYVuanoR/zTnMMvv1jJiibVdAZPIHmOnGPpGPxQJZ76axK/Nf8LP/11fj1Q1OjZlvBJ8KxBs=;0kv5QF7OeNCTRdC/F+WVKw=="
 ---

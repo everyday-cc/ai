@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Opinion: AI’s hold over humans is starting to get stronger"
-excerpt: "Ilya Sutskever, the chief scientist of research giant OpenAI ... Last month, Mark Zuckerberg said that Facebook would use more AI recommendations for people’s newsfeeds, instead of showing content based on what friends and family were looking at."
-publishedDateTime: 2022-06-21T03:37:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/21/opinion-ais-hold-over-humans-is-starting-to-get-stronger"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/21/opinion-ais-hold-over-humans-is-starting-to-get-stronger"
+title: "Opinion: AI's hold over humans is starting to get stronger"
+excerpt: "Ilya Sutskever, the chief scientist of research giant OpenAI ... Last month, Mark Zuckerberg said that Facebook would use more AI recommendations for people's newsfeeds, instead of showing content based on what friends and family were looking at."
+publishedDateTime: 2022-06-20T18:06:00Z
+originalUrl: "https://www.crainscleveland.com/opinion/opinion-ais-hold-over-humans-starting-get-stronger"
+webUrl: "https://www.crainscleveland.com/opinion/opinion-ais-hold-over-humans-starting-get-stronger"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Crain's Cleveland Business
+  domain: crainscleveland.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/06/21/1630416.jpeg"
-    width: 1240
-    height: 826
+  - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -72,6 +72,6 @@ related:
         height: 960
         isCached: true
 
-secured: "aJ/xQ7QQwm7wdbe2edHfuOgQeg4LaV9Q0zfaXoOizHjGHlYPCwAk0d+4OEZ0B+l90JScQV+kvlr2H+QKlXoyKuE9C++mtYMZMH4p21/OFUyq3P4DW/HyX5rFkPshTdq8TEVyqB62IQINzYoTHND9ofcc6U/xTAkhRXS63rw9NgaP9vee2clD2D7DiaVKU/tDZoypCs3+uYGUJwqP4ayKxe61mGAqiGKSrMg5t6been8frfWBibS3Mz4hODvsMWpoxi4UxnYymRtdxKglJxe4LZYN/7vF2mfamch1S3f219rcD2STnzBgwN4sZ3dL39nUa+WB/IF03vEI9DkOTYCFiv9bX2Zx0zNdh77iRl7hMro=;a3FuOdMDGHnTt70OgyFCWw=="
+secured: "znQ9VrXyOGwxKMWJOUqa08Dra8mUbHks1MW2OYO/Dguq3vZfrw9ysErT3bSOzmL5Nb0KgDrQTs9NPAetfAdzP1HxcbCDwZR98Yy+HmiHeXt/M5NMokbDyoabvLIo6VI8wrzAzR9lmj/avU+Z3BqZQ0vKmzr6uirHEuxp/UHWYmjGOHKG/v39Ik5GcJaGHrxuAtx3BkCj3DYr6DgtdMx83BOr3hya8H76S9kBY34PLudqrbHRu3XiKKczWqpKuFWxSZuNeHZrxoJPZCeQPrOrkS56Plyiy45Mt3daHh6kFE8RtxFOaywrNm78LffgDCNiTgun61uIp8Zp0weONAgqyROxZ3JZNIRU1JxrWdSx/Pw=;jykE9bT1Ak9fhtGUJW/Saw=="
 ---
 

@@ -64,15 +64,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
-  - title: "Microsoft improves Azure’s accessibility for AI workloads"
-    excerpt: "Microsoft added new Azure functionality that helps customers run AI workloads in hybrid cloud environments. The functionality is based on three existing"
-    publishedDateTime: 2022-06-16T11:28:00Z
-    webUrl: "https://www.techzine.eu/news/devops/81034/microsoft-improves-azures-accessibility-for-ai-workloads/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 49
 
 secured: "CuG0s81ZQgneMt3s78RSteZjU0WJR00gmunBs0GBczRexKb9Ezm/kBwtjeHe5CO+f7cjBcmGry/jHPDY5lsY2/bVhtmjRIM71yUdLZMTv7SfSQneqrdJ/dWwPlErXttj9CAI0bieeefsJ2pK8HIOhDYxibDXQ0lFJnnBAwyMwnAuJuHnfhSAYpYNaxATWZTemMFF5l1PRUrfVw/aFJaFL4keuaS+0l4sB0CnquBS/Ibry67qfd7ArmfWuilQ/x4y3o4lgjQDIe4PRMgjWynfJJTkqmLj4XN5Pfo3hbZG98bjxZPh+xNXEEKuZEFPa3N4lz/DD0gCeayzLTJLHFTsN6RsdqC3XlQYqIpNh0NFLXqWVVRtz4IWenxezr26Zqp+1hFcCgV+lisIlmSbLvTOBGjBtni2ikJK3SY8QnmIHQbKa32iE7P0EGHHAnTT9IKmnT/2cb7lxZ2JGw4naZcwYoEOSdrnXO6XKfnYfhVzDDGeFUtjiJzAWZcbyBUfyQD63TeKuI+Sui2mMRAHI9Pkqg==;TAwRcqI9TE6p5I0ZpSxxxw=="
 ---

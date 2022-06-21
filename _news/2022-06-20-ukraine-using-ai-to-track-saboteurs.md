@@ -40,22 +40,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Cheshire Police to roll out facial recognition technology"
-    excerpt: "The technology will be used retrospectively to compare images such as CCTV against pictures held on the police national database. It will also be used to confirm a person's identity if officers believe false information has been given,"
-    publishedDateTime: 2022-06-16T11:22:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-merseyside-61823941.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18667/production/_125434999_7b1278fd-ad71-433c-8ca6-c277f7efc486.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Urgent need for guidelines around use of facial recognition technology, expert says"
     excerpt: "An artificial intelligence expert is concerned new facial recognition technology could result in information being misused."
     publishedDateTime: 2022-06-16T23:57:00Z

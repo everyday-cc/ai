@@ -2,6 +2,204 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a large drop in short interest in the month of May. As of May 31st, there was short interest totalling 603,200 shares, a drop of 27.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html",
+      "originalUrl": "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
+      "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
+      "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
+      "originalUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Japan Times",
+        "domain": "japantimes.co.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-these-popular-retailers-are-being-investigated-over-unethical-use-of-facial-recognition-tech.md",
+      "title": "These Popular Retailers Are Being Investigated Over ‘Unethical’ Use Of Facial Recognition Tech",
+      "excerpt": "CHOICE has launched an investigation into Kmart, Bunnings and The Good Guys after it learned they appear to be using (and storing!) facial recognition data of customers in their stores. In case you needed another reason to wear a mask.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/",
+      "originalUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pedestrian.tv/wp-content/uploads/2022/06/15/Kmart-bunnings.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/",
+      "cdnAmpWebUrl": "https://www-pedestrian-tv.cdn.ampproject.org/c/s/www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/",
+      "publishedDateTime": "2022-06-14T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PEDESTRIAN.TV",
+        "domain": "pedestrian.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-microsoft-patched-azure-bugs-without-notifying-users-tenable-claims.md",
+      "title": "Microsoft patched Azure bugs without notifying users, Tenable claims",
+      "excerpt": "Tenable Security has disclosed two bugs in analytics software Microsoft provides Azure users, and has complained that cloud providers don’t follow industry-standard security disclosure practices. In its Tenable TechBlog,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
+      "originalUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/microsoft-azure-sign-2.jpg",
+          "width": 499,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-aws-turns-up-mainframe-migration-service.md",
+      "title": "AWS turns-up mainframe-migration service",
+      "excerpt": "AWS Mainframe Modernization, which since last November had been in preview, is available now and offers the tools, infrastructure, and software to manage migration of mainframe applications to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
+      "originalUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/08/clous-blue7-3000x3000p-100899404-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
+      "publishedDateTime": "2022-06-14T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-bridging-deepmind-research-with-alphabet-products.md",
       "title": "Bridging DeepMind research with Alphabet products",
       "excerpt": "Today we caught up with Gemma Jennings, a product manager on the Applied team, who led a session on vision language models at the AI Summit, one of the world’s largest AI events for business.",
@@ -923,222 +1121,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-google-brain-alum-to-helm-new-nonprofit-ai-research-lab.md",
-      "title": "Google Brain alum to helm new nonprofit AI research lab",
-      "excerpt": "a startup creating large language models to rival those from OpenAI and AI2Labs. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/",
-      "originalUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/sarasedits-3-e1655168633102.jpg?fit=450%2C600&strip=all",
-          "width": 450,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/",
-      "publishedDateTime": "2022-06-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-comet-expands-alliances-across-the-complete-machine-learning-lifecycle.md",
-      "title": "Comet Expands Alliances Across the Complete Machine Learning Lifecycle",
-      "excerpt": "Comet, provider of the leading development platform for machine learning (ML) teams from startup to enterprise, today announced several integrations – including Ray, Kubeflow, and Google Vertex AI – that will eliminate complexity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/comet-expands-alliances-across-the-complete-machine-learning-lifecycle/article_6a2005cb-558e-5b32-9d58-6140f64c72e4.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/comet-expands-alliances-across-the-complete-machine-learning-lifecycle/article_6a2005cb-558e-5b32-9d58-6140f64c72e4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-consumers-drive-retails-digital-transformation-says-microsoft.md",
-      "title": "Consumers drive retail’s digital transformation, says Microsoft",
-      "excerpt": "From e-commerce to omnichannel, customers drive retail’s digital transformation in the Middle East and Africa (MEA), Microsoft, the software manufacturing",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
-      "originalUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/11/Nigerias-E-commerce-sector.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
-      "publishedDateTime": "2022-06-14T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc.md",
-      "title": "Artificial Intelligence in Precision Medicine Market Likely to Boost Future Growth by 2030 | Intel AI, IBM, GE Healthcare, etc.",
-      "excerpt": "The key vendors in the Global Artificial Intelligence in Precision Medicine Market include Intel AI, IBM, GE Healthcare, Thermo Fisher Scientific, Qiagen, Berg Health, Medasense Biometrics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-mit-engineers-build-lego-like-ai-chip.md",
-      "title": "MIT Engineers Build LEGO-like AI Chip",
-      "excerpt": "With a LEGO-like design for a stackable, customizable artificial intelligence chip, MIT engineers have taken a step toward a modular chip design. Traditional wiring is used in other modular chip designs to transmit signals between layers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/06/MIT-Stackable-AI-01-press_0-e1655207915965.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp",
-      "publishedDateTime": "2022-06-14T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

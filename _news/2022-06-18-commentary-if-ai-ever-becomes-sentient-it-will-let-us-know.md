@@ -104,6 +104,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google sidelines engineer who claims Its AI is sentient"
+    excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company's most advanced technology. Blake Lemoine,"
+    publishedDateTime: 2022-06-21T05:13:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2022/jun/20/google-sidelines-engineer-who-claims-its-ai-is/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201668885_google-bg-5dae7724-f9e9-11eb-943a-c5cf30d50e6a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 398
+        isCached: true
   - title: "Don't mention Google's \"sentient\" AI chatbot"
     excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."
     publishedDateTime: 2022-06-19T01:28:00Z

@@ -29,15 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics Process Automation in Finance Market foresee by Technology, Solutions, Application, Price, Demand scrutiny and Growth Opportunities to 2026"
-    excerpt: "Global Robotics Process Automation in Finance Market Report by Market Study report scrutinizes the overall market synopsis globally, their restraining factors, drivers, major challenges, opportunities,"
-    publishedDateTime: 2022-06-16T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-foresee-by-technology-solutions-application-price-demand-scrutiny-and-growth-opportunities-to-2026-2022-06-16"
+  - title: "AI in Computer Vision Market 2022 Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast 2028"
+    excerpt: "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ..."
+    publishedDateTime: 2022-06-17T02:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028-2022-06-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 – 2028"
+    excerpt: "Reportlinker.com announces the release of the report \"Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 –"
+    publishedDateTime: 2022-06-17T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27768390/global-nlp-in-healthcare-and-life-sciences-market-size-share-industry-trends-analysis-report-2022-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27768390"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27768390"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+  - title: "AI in Computer Vision Market Size, Share & COVID-19 Impact Analysis, By Type, By Application, and Regional Forecast, 2022-2028"
+    excerpt: "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ..."
+    publishedDateTime: 2022-06-17T08:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-share-covid-19-impact-analysis-by-type-by-application-and-regional-forecast-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/Street-Art-Montreal-Canada-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Automotive Voice Recognition Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
     excerpt: "Global Automotive Voice Recognition Market 2022 by Company, Region, Type, and Application Market Research to 2028 is a report provided by MarketandResearch.biz that examines current trends, provides a financial overview of the industry,"
     publishedDateTime: 2022-06-19T20:35:00Z
@@ -47,6 +77,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
+  - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
+    excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
+    publishedDateTime: 2022-06-20T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-growth-2022-research-analysis-by-product-types-applications-recent-development-and-forecast-to-2028-2022-06-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
+  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-06-20T06:36:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 9
 
 secured: "5h7ypIbnz8IerZr/jOElHHN+ff2JVXIpd7wMZqDkx2zssuJ85YStV+JxJbHv9uE5RxYHiEkdrpkh6C2kNGxk5pvk75+i1ICo0S3ID4aJJ++qoukp5Q/AUQhwT0RSFVyRM/k3OhebfjF3MEwLHGgV0n0nXRkOmerEODMRf5zT/GtQwCOJmaqz03HwlPiD8gdI2UNGHivR8A3OyL/R3jSVgZaZl6GRQoJErrjknhAJ64B+1CHezNPC32VeTuvtHQhQUCngt2pauuqM/iU+lq89gQ9t+Gr+OUKMyGWZlqFYOSN6nD5lqCmafZcnv/eKZDmBuNTf8MsMH/LMduTilqCKkDWiYXI5flRjiaV3PFELJEs=;b5EOgx28sRcsaq1tUhTyfg=="
 ---

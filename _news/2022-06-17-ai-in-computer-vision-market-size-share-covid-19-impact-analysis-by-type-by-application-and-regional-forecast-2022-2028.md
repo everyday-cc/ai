@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Computer Vision Market 2022 Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast 2028"
+    excerpt: "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ..."
+    publishedDateTime: 2022-06-17T02:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028-2022-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 – 2028"
     excerpt: "Reportlinker.com announces the release of the report \"Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 –"
     publishedDateTime: 2022-06-17T16:34:00Z
@@ -36,6 +50,29 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 43
+  - title: "Face Recognition Technology Market 2022 Emerging Trends, Latest Technology, Limitations & Risks, Key Regulation Analysis, Forecast till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 17, 2022 (The Expresswire) -- “Face Recognition Technology Market” report study provides valuable information and useful guidance to new participants or companies ..."
+    publishedDateTime: 2022-06-17T23:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2022-emerging-trends-latest-technology-limitations-risks-key-regulation-analysis-forecast-till-2028-2022-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automotive Voice Recognition Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
+    excerpt: "Global Automotive Voice Recognition Market 2022 by Company, Region, Type, and Application Market Research to 2028 is a report provided by MarketandResearch.biz that examines current trends, provides a financial overview of the industry,"
+    publishedDateTime: 2022-06-19T20:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-voice-recognition-market-2022---latest-innovation-sales-channels-business-advancements-and-top-vendor-landscape-to-2028-2022-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
   - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
     excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
     publishedDateTime: 2022-06-20T13:09:00Z
@@ -45,6 +82,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 13
+  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-06-20T06:36:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 9
 
 secured: "+HT9dG0zvZUm8A61w4PPLXGXyVDgGfHHdhfetGETMbSd7/JMjl7aeTKp2LO6e9NLAbF8OUs94mNAy3xed/J8llUSgLn3W7DPjETuDo3rWEm83jDIqbQb/o5UrXYhuvQc/7WqLMTfmZcFsyoVyvmowpelMEwUbwEMTXVztMIp1tfT8QXEgFoTHxZVaPnGGRL6UFN7E7LgHLiGqJYjXH+tAaCCg8SZUTf6QsLRy0CwxT6z/YcLly4YaQ2sS4s993JT4AVPjx3u/6Kv1SrvuMtqUd7uIcZOBF0H6qxwQrbbXMWnfdPNJObsyXoFFzA7Dx05qgLXD33JIzjlBJrWckfBptwrzu78AQsF5qnHtPBDJX4=;3XCLLfbMlsUyEAilf/uW8w=="
 ---

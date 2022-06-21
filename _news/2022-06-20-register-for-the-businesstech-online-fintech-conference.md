@@ -51,15 +51,6 @@ related:
         width: 1800
         height: 1011
         isCached: true
-  - title: "How AI & ML Technologies are Reshaping the Fintech Industry"
-    excerpt: "Fintech developments are affecting all sectors of the financial services industry such as: Impact of AI and ML on Fintech We are now in the era of fintech 3.5, where artificial intelligence and machine learning (AI/ML) plays a vital role in our lives ..."
-    publishedDateTime: 2022-06-16T11:17:00Z
-    webUrl: "https://www.siliconindia.com/news/business/how-ai--ml-technologies-are-reshaping-the-fintech-industry-nid-219257-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 36
   - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
     excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
     publishedDateTime: 2022-06-17T12:42:00Z
