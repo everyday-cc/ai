@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 624
+heat: 612
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 16056150
+  followers: 16057471
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "RgMmtiqUsHjGbCBgIy0CXIY/JvpYNe1DBm6hGz04jJfO1g2yUTaYh3XDCNzYsCBuo5Si4eGDhyGw+euwxud1jr90cJNR6/RD1qlskw9MaWduazdS+Ms1tkFyy1u2kI+IiEQzaN0W2ukPfRL1bapKaNHx5NHzq1BHIHAdTEwZUp94bxHDP1rQrjpWbXfOEwR4SKbFLyVPmBFH96/cGq9Sj0f06+vP/8pt0kC7UjjmZm4QQ0HyWopsNesboBXsxU1Psx72BobxFRT0z9/PYbpCkNuQwCe+FxGj5dqnKrI+lHQTkrxB2ze3Rumb/QqqVroCatH0MnYbzbdEscIicdH8jQrSAhm1Hvd5sn5O5cHCBmOQbQ1CiWZLxk01xqtESFVU0dZd+jc+wHiP6UkVy3ndmNHN0hQvC9VqTGJZsnDoU34=;eoxb53DSLYHbTYcpH5IdoA=="
+secured: "YjuP2cT/fF+cqRdMKc3BXaa2DGjD1StHotYbPNyH3InuvujfWUwfrlSb2/s19B+BNuxYKHc+4S+sDxFcUoGpp6c8+r0L96+BB7iIx5VrwgSRrP6flALQhbqdIRmT6ryE61ovtGcaj/yEjhWXtnhj78aCGuj0JSCx5A4Trj7nqwL02arbfuoRZ9ThCGpUqmvQT9yOgh9UCjeNpM1XaJ2FoTVwldbE6HPQsETYcrw+v9H5E1MuBsyrg0kjCb0PxQ8DvvdNVE9OeelNRsVAwLqC3FrX+FFhyO1pDcTfYDKSLABYkmFvqC6Iv4K1y1RaDgcVqHDRVA4YzrVxAaR1jbW5xkWPKMdilLOmUVHzWnX/kaMOlznx4nm/Fqu6WKOQo4ov+EKrd+Cbf+KhplhwseCJVP4eZ88uh/vSVQq9kXKa23c=;ih3ZH94sESk4eHgigbyyjQ=="
 ---
 

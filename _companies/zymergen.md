@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zymergen"
   url: "https://twitter.com/zymergen"
-  followers: 9111
+  followers: 9112
 
 size: 201-500 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=658kvYgrJBE"
 
-secured: "R04jwtm68aOJcpEHclWWUMBeg0YiL3HPEDjHRALoqW+KgQITMfFM1gbQ8TF16ViqRjMRdliNDSWXhATYGvUBC9YL3zQrgvKukW6cyGIj6xY8dPoTub3Q2qap6obF8cKbGYpY2xS4Kqn2PtX5xI/KTbDVYeSJGbQDoJHL8rDCGWirFvCVrtcXDGI9k/eHSVVZTUBCm5knWXFEEzf7TY/keWWzy2NrZkUNA8ZR8GTQb6zAfI1R5WbrRiEDrnnGz8PtvdeyasjCJJis/3ZdD6AWWBkG4aZBu4cQQCBGC8akZUVquOEai3aix174LbzpqpiC/Ky/N4PL8tbL+mEzFmfM3CTVdFRTAa6kePbTjIM0EEvfR1KtHnsqtmQmHDgzJKvo6wt4xOh1x3i78PRh3t8GkEtDFuD2OaZJ86OBs3t9IgQ=;mNOhpoj0yma4jPPWKq+skA=="
+secured: "TlzR+bBXPZEwPUWOc4rhEkCOvYrkrirDN7azv5mr+SUfcDfL3UMDNSoYdiVPsotWk1buvpHZ/cQ7rvFw+QNga99qGIZtwVLplMHBagL8McNxhD/Gzs316dWTbz4jZw7Vxa+LlOlb0WPi7zifmHD6w+uop+J3vGn2eI14vXqUkUuu9gep0no0kOLBkk+joa9bupl/rtrjun/sEq3kCDg/hNm1D0naB02bu0Gt+HUskVPwPSVYdzD1RhRGY1FQcVPjDNs6sLVCtR2652a8RN1bQ+o+thdaX2qXXE6pCE8Y8twHvkXqTCvJTSvnsg19F5TfCMn2HNdrLziq2qBFpQ3jKwHLQ+9tZbzCpAngdlloEWup5P567DP5bG2m3fKdutYruwklKemvrTncUjDTQj/rkfu0hZkWYNf4sJYkfe3kn4U=;kOitQ0pm1Wrp5efVokaeow=="
 ---
 
