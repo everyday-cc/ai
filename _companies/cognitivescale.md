@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "CognitiveScale"
   url: "https://twitter.com/CognitiveScale"
-  followers: 4228
+  followers: 4227
 
 size: 51-200 employees
 yearFounded: 2013
