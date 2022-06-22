@@ -27,7 +27,7 @@ related:
   - title: "Iktos and Zealand Pharma to Develop Artificial Intelligence Technology for Peptide Drug Design"
     excerpt: "Iktos, a company specialized in Artificial Intelligence for new drug design, today announced a research collaboration with Zealand Pharma A/S (Nasdaq: ZEAL) (CVR-no. 20045078), a biotechnology company changing lives with innovative peptide-based medicines to co-develop generative and predictive AI technologies for peptide drug design."
     publishedDateTime: 2022-06-21T07:03:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html?block_id=531919"
     type: article
     provider:
       name: Daily News

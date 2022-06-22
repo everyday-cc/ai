@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/industry/the-role-of-machine-learni
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Financial Express
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "In Perspective | AI and the red herring of chasing sentience"
-    excerpt: "Artificial neural networks in the other hand, have a predefined model, where no further neurons or connections can be added or removed. Only the weights of the connections (and biases representing ..."
-    publishedDateTime: 2022-06-17T12:46:00Z
-    webUrl: "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758.html"
-    ampWebUrl: "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/06/17/1600x900/3e86f56c-ee38-11ec-816d-25a8f4149995_1655468722716.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Transforming the classroom experience with AI and machine learning"
     excerpt: "There is a unique opportunity to create a more meaningful and equitable learning experience through the implementation of AI and machine learning."
     publishedDateTime: 2022-06-21T20:50:00Z

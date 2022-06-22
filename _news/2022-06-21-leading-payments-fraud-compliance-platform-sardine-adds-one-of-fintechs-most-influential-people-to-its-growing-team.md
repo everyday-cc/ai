@@ -74,24 +74,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 24
-  - title: "Emerging trends in Financial Services & FinTech: Artificial Intelligence, Machine Learning to define future"
-    excerpt: "Two major trends Artificial Intelligence and Machine Learning are going to define the future of ... which rely more on the technology for their financial services. In 2021, around 770 billion digital transactions happened globally, of which around 40 ..."
-    publishedDateTime: 2022-06-17T12:42:00Z
-    webUrl: "https://www.financialexpress.com/industry/banking-finance/emerging-trends-in-financial-services-and-fintech-artificial-intelligence-machine-learning-to-define-future/2564593/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 18
-  - title: "How AI is helping the Fintech industry by reducing loan dropout through automation?"
-    excerpt: "The fintech industry is going through a massive revolution right now. This disruption is helping customers get easy access to credit, which has made payments and transactions hassle-free, like never before."
-    publishedDateTime: 2022-06-17T12:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-helping-the-fintech-industry-by-reducing-loan-dropout-through-automation/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 13
 
 secured: "WmHJnsZcNMLLS7ZBD7Ak1jUcrgT7iCPvZPpsEZLTkcjCsysj0XwVtKc+F73D0A1AFijVfPXcERUbkAxHYe7LUaSHu082q21pErKF4HNTdB+GF9YN9ozyejoE6i0LWJZU51PhCbm8fLi4va6wJpgaRWghiOtaEysYBpIjeqxuvrarJQRvLUgZFe46Aax+iF1vpsH9UTfUOODyOoF+TMf6NWbRPHbY1Wyc9xt01/E4UsG4+m/tzZgIcgTsFlp2Co1TUn0shXE0lwqTInUL+fDC7Jwo28eoO20p38ea19naZX56BHHmwKUbZN0EQ7+K8Nqdv71HVRSmbJXvZKVk5a8L1TWtjMzcg0zfhsQBl+jqmhHKh9T+ZbT16fvZJDRC9ZhBuDM71EG+ZsVLWLsPapv0AY4JyVCxLMicu6ZBZZUKtZ+o+y0XaI+9oF8vW+OVNm+VktY9qHbtPyZ08P8E130iLx5yXA2gqQUoa0htL51pQ1nsHGWr7DTTTcb4TPY+0gUQwpPLc58+0FgQqgC3nkng8g==;jsSwwH4eX4KX0kteVHXIzA=="
 ---

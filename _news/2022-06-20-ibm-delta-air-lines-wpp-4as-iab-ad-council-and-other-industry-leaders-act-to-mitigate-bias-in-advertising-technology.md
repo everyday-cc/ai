@@ -1,27 +1,31 @@
 ---
 category: news
 title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
-excerpt: "The action is the most recent effort by IBM to drive education and awareness around the impact of bias in advertising technology. In 2021, the company launched a research initiati"
-publishedDateTime: 2022-06-20T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to/article_9a732f91-8f74-53d5-a2b0-899781cbd924.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to/article_9a732f91-8f74-53d5-a2b0-899781cbd924.html"
+excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising TechnologyCANNES, France, June 20, 2022 /PRNewswire/ -- Today,"
+publishedDateTime: 2022-06-20T14:03:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-delta-air-lines-wpp-4a-s-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology-1031538207"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-delta-air-lines-wpp-4a-s-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology-1031538207"
 type: article
-quality: 14
-heat: 14
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/617ae04d78c95.image.jpg?crop=1981%2C1040%2C5%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -49,6 +53,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "02Log15DOsHMHd4GwtcRlGlO3TQIn10CyWaCSykPNVjoz0FSdhhKGjKsedvGtr9MjFMH3/uL1yMbxRTkFSE/xe5cZtfJuY9l51uSnq8Jrrh1efjneu3+25iKBUpmPTg6lvnkLZvV54wxnbCZP5hOYH49+XPZcGbLHBJVICW+K4BMS6Hs+ahJDNR7dmy3LjBETgofH66XJ0qixMdLtbr+qVnyGFxGf6IT/mmqLbSHZV/dStJn7HqNj9G6MvGxCURqDjXd+57RdqgIIOv/iIlBLJUaRIZGIzeDVQw3aYZtpJTGt75gbPJ/VJCP5A7Lkxj6GEoYGpauS2RyhxcfWVP2jdyHITg5pyw8UfAHiWi15Ts=;Pc2uI9UJsrkNIBfMtL+tmA=="
+secured: "zqvymOC3AVLROGP3jfbPmji/VckwCZYgJMbrBR9rQNi9mpHc9xU5MdsDeyuP7ZoSz6oFjgIFp98pxk9T5UD1+Rufq9WSDvTGUvIhWmkMhQEwUv7Tomr+5HkINcwshBcsSVagC4dxokvXHCvxMs1IkhtaanW8NJnZUmoindfPH4VMUUKXOwE/nq0XSFBIi0NkoZKVsg7S19s4OupTu9KncR8FyrfgC4MJ99uZEh/73/EOonn7F2aC8t8WcCJs5SxJ8tUSJp0ZE/45UsL6tTSkIg6TLSUc8d8YU0oEIpqpiV3h627ZFQgr+dZuX1idYbBVVYiNEBkNTlK0NqjVRL7UbcrEpCy0yWxA//eWnEGBFi4=;cfA2odfbLSdwy9CcDH6O2Q=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-21T12:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
 webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - Facebook AI
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
@@ -84,6 +83,6 @@ related:
       domain: bloomberg.com
     quality: 33
 
-secured: "0d1/4VB8t9LrQBmHQEjFzWj+dXhC1pVw2YJaZhb0W+0HqYBxm3p/eGJ1M+rNk6g1g6jHJ/qAsdIp16T3BucbRnel5kzvuyO+UgorOHvbhqHtn4ynpz5u9tc/MVh8VaT6HN0jU6ISivVcgAVYTBSDKF5/DBDMLhUoiwdhVHq6Wp9/JhBnwTQb33HZVOFUaaiSkXO9RDrqN9+YyBzkOjoIQ1W9CGZlDzTm6RTl1S+cLQMk7gtz9FB5sLHpWeO+jmxOYOoIZaEg4SWZ8XAX+E+1ORMjDtrSZBMw8Hi6KVN01tDQXLYmUjdAwP4EYWQQConu+faWTP1G4XZ9rwThcZXgyzxVo5gCWAvGtT8F5mKQYcQkpTP0zaRWNnta9fLHzilWacuncmTiF7+rYvhB3Jrof70CSfVCKgQ8Iua/TbvdQeFFc73vPvpZUC/jXj4e5nEAKq2m6CMNlbNsZTX9WXlwpOpwd4Oo/xfG34LiPnAGPKzy7n6s+i2f35isds1lL65elHrSnwtwgXpAKVb/ZdUKvQ==;W2orCFOib3+VndvIPLhVFg=="
+secured: "H5TIEWQotibgcNGU3nKZ3JgdJuPApW2N9C6cgE4NmAwDc2oTBf1JaCUyKh5pA3XEo2/+g9iahBEXBjdvCed1X1bgFwAxkpUeO1krjLWGXMKfxKqFH85bEJvhxYmuZ1SouuZY0q2O4Ee68qCDSlOllK6qws1XI9i5QxjePJ5TX2Z7mrjrMBboO5y0HPC7KGdVsU2aBOU5i0AHhW7wevm0Sfpg8QnP+IaC81n1aNJSoglr3KNPC8P8e+idm9fWswMUc9mk6b70CTLhAsj1HcJKlRk0APxdYiQSxzwz/XzuMJK33Z0FECrYD+cEHZIr9dBIqRCOQI5p8O9t2TRRu2xH+/nkWq5/S5iMJLOYKWOhoWQ=;G7WnQiuVsI8AS1EDnKKEhg=="
 ---
 

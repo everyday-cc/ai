@@ -55,6 +55,24 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 20
+  - title: "Technology helps self-driving cars learn from own memories"
+    excerpt: "Researchers at Cornell University have developed a way to help autonomous vehicles create “memories” of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
+    publishedDateTime: 2022-06-21T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/956596"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 6
+  - title: "Technology Helps Self-Driving Cars Learn From Own Memories"
+    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This i"
+    publishedDateTime: 2022-06-22T05:00:00Z
+    webUrl: "https://www.realclearscience.com/2022/06/22/technology_helps_self-driving_cars_learn_from_own_memories_838521.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 4
 
 secured: "hvpRrhoWfJThTYhWQqu/On7lUzjDBubreByiejJmCkqml47GLznGQ5q+J/DrebIcAK+tG6G4fE1SQFk9yXCsCJgZg5WOaJmENdmo6LpdaL3Eu4boO8jSkQjQj2JcagtRbPQSGQ9tsf/8yz7UJC2oy+1IfMdEkKlcmqGv7lGLKd/DVqePfVcPhXNzbHJuMhl97g1jWSf5t9BP1GJRDAdUAssGHNQbK/12mpYKPfgeZbfJ13/aawkIL9N8zhALHaz8BsjWE/S13/7fhttt2BxGuI5hl+sQt3T9JkHwjzGJdISX5kn+XQwFAxCJqSw1A0BUHxSUBb5hcJlqgwrksFir1gMDucLfFeSqhqTLEYe8pgyGLjchtK/m1qNlYk5CyXlJ8SN5fteBxVKlpBqVIq8g1UQxkWYVqprb7/E4L6A2a/4Z4oPfAybW8OjuXUQwajM62rCsQX/8AOqg522rpLvl635jyV/hcVGXewnk29pqIQsTNwj3+jwr0vw5Usc7Xw0AweKruLw4N9Nq4999bneNcQ==;5Yw6DP2TkBuNLPmZLJ7brw=="
 ---

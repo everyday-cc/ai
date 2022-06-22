@@ -3,8 +3,8 @@ category: news
 title: "Iktos and Zealand Pharma to Develop Artificial Intelligence Technology for Peptide Drug Design"
 excerpt: "Iktos, a company specialized in Artificial Intelligence for new drug design, today announced a research collaboration with Zealand Pharma A/S (Nasdaq: ZEAL) (CVR-no. 20045078), a biotechnology company changing lives with innovative peptide-based medicines to co-develop generative and predictive AI technologies for peptide drug design."
 publishedDateTime: 2022-06-21T07:03:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html?block_id=531919"
+webUrl: "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html?block_id=531919"
 type: article
 quality: 25
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 422
         isCached: true
 
-secured: "abNTkBgheg1/iSurc8LuItuVMkxuLiVKAWMt0YcM+02O0glLUudb7+iC+MZ4IbVkfvkTEy6jCPo2p5PrGGHAiaQ1B+fsuSBOgJhGZb7TZKrWV4jW5T6C15zUayqtuwokvyH06EQ8jkY8uLaE7GZTGGQcx1NE1Lbz3xBVOytU4yhJDOZU1vA9ylAgwC7eoffrUwkZvm9RPm/czjV1bVit/LMfuKUTZYFFHm32C1SfOc/PjEjXQtyzKmTPvjAh/aiT7yHZa9yZbo+Cx11AzNkFpWRulLdMSxCLzohQLB4++HdDnZlJHJq3WS4Sf/HCEgtCRGdYvcHOBzie0hwURQGLj/Zjl2ecCjUAsGMbd9IEeqLxJfJ3j3b4iCmKbVljSfny9zsPgHG77Ep90x/1G0UxnHEeDJojwjWnfYe0UZrzTo7b/HPrhSxGc/2ilwWuNlb1v9UZVa7JTgevwyrXZbd0cPNS7GXSxJxcA12v+RBntJnOzQcwvjME8+384cNq+wUF2Dn52DxLAtGNrRUFnj9Xig==;gpv5/CzN10oGBpO4/hm+xQ=="
+secured: "wfNY3KVrgG6ldZqIQiQL/6muEl7iWFWN98BaUe534fgGQPurBYWQueftfVE+7cjYK7Zh4ICK3qK0vtrk1VAjRP/UaejEca6DPT032dcMpQ60PZpXLBUZS1Y/m7C9xKTS89EHhfFDH4/gU6Om6hsYjKoeRAl2VtgdBMyKA9VMt1FuTY4drqoJoMblXBbSQl8X1AS3qse2Y7Si25otLQGsWcUynbp4gWaRpxMK04aDoV2mdOOGQxbmTF8nLUhh6AXiPM3KnmsKhlHjUhb73BQaJeBVVQVhSq0lgAN1/sepTg3pIgReQiH6k544Fsxt6YY/4MizLhTIup9sNMJVoEo/hFCaY0oJZC+8nz6fUclyArg=;g6Vwsl123vXYvMUTEqRNTw=="
 ---
 

@@ -48,7 +48,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 56
+    quality: 54
     images:
       - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
         width: 400

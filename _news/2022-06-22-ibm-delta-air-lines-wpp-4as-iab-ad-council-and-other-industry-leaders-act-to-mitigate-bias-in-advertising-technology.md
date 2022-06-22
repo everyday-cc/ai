@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
-    excerpt: "The action is the most recent effort by IBM to drive education and awareness around the impact of bias in advertising technology. In 2021, the company launched a research initiati"
-    publishedDateTime: 2022-06-20T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to/article_9a732f91-8f74-53d5-a2b0-899781cbd924.html"
+    excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising TechnologyCANNES, France, June 20, 2022 /PRNewswire/ -- Today,"
+    publishedDateTime: 2022-06-20T14:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-delta-air-lines-wpp-4a-s-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology-1031538207"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/617ae04d78c95.image.jpg?crop=1981%2C1040%2C5%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
     excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising Technology CANNES, France, June 20, 2022 /PRNewswire/ --Today,leading companies committed to improving fairness in marketing campaigns."

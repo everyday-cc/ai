@@ -1,20 +1,18 @@
 ---
 category: news
-title: "What would a sentient, conscious robot mean for humans?"
-excerpt: "A Google engineer claimed an AI software of theirs became sentient. Now there is debate on if these sentient machines have a place in the world."
-publishedDateTime: 2022-06-22T02:11:00Z
-originalUrl: "https://www.abcactionnews.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans"
-webUrl: "https://www.abcactionnews.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans"
-ampWebUrl: "https://www.abcactionnews.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans?_amp=true"
-cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans?_amp=true"
+title: "What Would A Sentient, Conscious Robot Mean For Humans?"
+excerpt: "The long-standing sci-fi trope of robots gaining consciousness has sparked endless ... on leave for claiming to have encountered sentience on the company’s artificial intelligence chatbot generator. According to Google, LaMDA, or Language Model for ..."
+publishedDateTime: 2022-06-22T02:05:00Z
+originalUrl: "https://www.newsy.com/stories/what-would-a-sentient-conscious-robot-mean-for-humans/"
+webUrl: "https://www.newsy.com/stories/what-would-a-sentient-conscious-robot-mean-for-humans/"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: ABC Action News
-  domain: abcactionnews.com
+  name: Newsy
+  domain: newsy.com
 
 topics:
   - AI in Robotics
@@ -26,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "O8UCiwQxW6E3t83j5+OGZw7gZPNbiQVPDXHQFzWDRXRWDFX/IHWkUQ0xR2wgs4Bskunb4NupWidBbm1wuN7XaqwDHrNB0/FOfVnFin8V0A8XNclMecabdsoaZEshlvWgRStyZ/00bmciA+2xE4atQnl8xMl+AJGyQK/DKXok/IlSpAs2tEh17MHOXd/AWGHqo7y+vMumpN4AwQjy5zndrfyFv/vzC7LFMR57NgVtrJrGSBD3iTTxmS3uSIry8Ucbk7SE44njdI7mLg8a8jAQW5CyLgvNsYEzQU73SfZ9jXcrSIG5MclB3JO6vQoIe17s83cuYJgIVlechzRyJpbG1VE44bY6Z4UaywksbtnwAp8=;KQyfAGW19dTlob7cHZbIwg=="
+secured: "AkRZBNihfOdLK4yDUr52t4cxXfNS0HZv8z2JdULtY5RVD+LVm9mQH3RPFaTX1FlhCvHRAuGCfAKGBiyI3Ku5RauvBIn4gOcXSnZBZM0fps74DMNIc5AQytF8GAAwSGWuO7yNjmAfoQpeICTiZKGxXU9tkQnuPIJ4wnSt91CZkYuNuPyyHh6dXQO5N77AomAwOsKhOYUBksGdeS80p7OBgI7KIoEC3VQQp7JFivd/yGke1Vdz7qaRO1IFLRCJlzZOOxDvpyrlSgNx2KJzkaToTg3xweVI7RBfTJAmkzoBwunvvcqaisrc7/UTD3k5J2O+K8u8pjxyy9u6LC2R6XlBDge9msOsTnbbduRtXBz6fiU=;oosBjIgnxKeaVOBWrDsHSQ=="
 ---
 

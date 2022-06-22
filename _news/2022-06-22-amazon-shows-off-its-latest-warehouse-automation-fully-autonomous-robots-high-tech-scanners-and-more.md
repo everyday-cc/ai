@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/amyfeldman/2022/06/21/amazon-shows-of
 webUrl: "https://www.forbes.com/sites/amyfeldman/2022/06/21/amazon-shows-off-its-latest-warehouse-automation-fully-autonomous-robots-high-tech-scanners-and-more/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ann Arbor’s Universal Robots Adds Humatics to Enhance Automation"
+    excerpt: "Humatics Corp. has been accepted into the UR+ program from Ann Arbor’s Universal Robots after extensive testing of its technologies."
+    publishedDateTime: 2022-06-20T11:55:00Z
+    webUrl: "https://www.dbusiness.com/tech-mobility-news/ann-arbors-universal-robots-adds-humatics-to-enhance-automation/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 39
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/06/TMN-Humatics-400.jpg"
+        width: 350
+        height: 467
+        isCached: true
   - title: "Scientists say autonomous robots should think more like bugs. Here's why"
     excerpt: "Should AI robots think like insects? A team of researchers says autonomous robots that take inspiration from bugs could be more effective."
     publishedDateTime: 2022-06-19T20:28:00Z
