@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GitHub Copilot – Coding AI developed by GitHub & Open AI released"
+    excerpt: "GitHub Copilot comes in the form of an extension for text editors. It is powered by Open AIs text generating technology."
+    publishedDateTime: 2022-06-22T17:13:00Z
+    webUrl: "https://techstory.in/github-copilot-coding-ai-developed-by-github-open-ai-released/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/06/OIP-7.jpeg"
+        width: 474
+        height: 248
+        isCached: true
 
 secured: "Ypy7kAJfV1hZ5AeAJ4FgbYRsmT6j6qsPW9y0EnJcWfs9V4UjBw31tPP8rCAXQICSJjVLnOqkJFfucuOxqIjOH18ZKIXhBkj9dB92PNsxhlbZmGtvkKl7K8SA8UVEX0HGiCBcokh7PUQw96fW3yXQetNxqyLtu5L1P1srWxdIOnd0H8UKA7dzidsH1PnzFyBv9DsRD62uFrvfESR7gLm1+WuyTB5ETu7PErNGcbxc8wOv1loKnTLh4Ofiw4o0i9EDPxERPbHQntqNczyAQ3JFYZkU4oO6p40IVRZ+0VqtLhgKRQJW/sAg7XNFX9dRwwCAOmKCBkIBZAgydehBBHNAas6+iDLNtRCVW7dKcOLAEM42Am7kNFBm4Avw69rkw3g3V27cbJvURjZxvDGNyDG7maPGOsPjaDPCb+ssr+vi5xSQXHogE8xEkhpFmDTkKHEm5o510RjjvDCtBK2WPyxpoLCaIwKecq9hfm4YuwbZTfAYglsF0N24GXFUUrZttH54GKxHm5ke7TqZLRNXOWwcmw==;8OGRrDH0I9s96Eb698sjDw=="
 ---

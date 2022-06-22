@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-22T15:07:00Z
 originalUrl: "https://www.tcd.ie/news_events/articles/are-babies-the-key-to-the-next-generation-of-artificial-intelligence/"
 webUrl: "https://www.tcd.ie/news_events/articles/are-babies-the-key-to-the-next-generation-of-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.tcd.ie/news_events/wp-content/uploads/2022/06/Rhodri-Cusack-babies-and-AI.jpg"
@@ -23,6 +24,6 @@ images:
     height: 500
     isCached: true
 
-secured: "7MCMFbb7h0Ikbo/MQs1tLWighI9pmwWt20rITbJsH/GanvL3jubCaAw9iidnfzOYxQsW+94XIbssD3HpRVJI6Y2t2zMKjmm43nzdYMTSLz20MNdspDwlZ7Vxv7V3D4eaAVFn4/PlOxvaDHJxtIHqNrEK0Rw0Tktz2EK9wcC6ebth9DPe4e/LA3aho9p7PKgoSJ3fNpKK3cBEaUvZUvtccwHkuVJbZzZ9v/gtr2j2jEue2lvQ8p2WNDvjPw2uEUFfLehGqyuUEWk0cMaxiogjD0LzZ2f9fbq2PngR3MkiEO7G4JaREM91QIq1jq7F0JAzWVVxql2ZTMQGESccqPFu1Vapf/TRMWqxw8tlepG/CWk=;HfN+0RfRJ9a5MlRX39LtBw=="
+secured: "i/YSOVoxvxGlZVA0yWZtL+COXGcfl6KDVRQLPU4IdTY8ZLMI+BJS8AjZwXVn8uaEo/NFcdXecuxoSvu7Y+EEyYi8uVDW+d/+5Pmonpd0iJULBSE6/EhU/pW9Neojco9BiHnL/GU0Rd6VUC36hrzkVCY0uZXpTbvqcMeGCtsEHHSqBsOfUf2lnkNZzu+VXqWMXd9g4Mgzn5Xp6nUbKHaK05SImEePDduqloF09mZqbmn5QIAOIw4YXLR696fxi7wSV2zuvZ38ef9vCQFjr+SVZOBgyZwBJWv2eXleP+Ykp31lrSkDCgw6h/RH9pNc8sZ1hyaczfVXPSIieDVm+IPtIBOs0yfPZaJd3mHf71gsm/4Cbzm7AhBTTtnbsEfauZ9DpckJuihlBTj7PRLTeu7x1rbf2FxqOwNIdOKfALwkbAQ22k0vTC/ixkMPZ0TzKTT93E2fdqO8XTy0QgUJHeq6+Ri8sonL666bNFP0PnUeNQ+6muQy89djsLfWoj1PSdJEh4zzYJ+bwQBDp01a8xw0hQ==;0qEyhsv3Q7olQYF19o0SwQ=="
 ---
 

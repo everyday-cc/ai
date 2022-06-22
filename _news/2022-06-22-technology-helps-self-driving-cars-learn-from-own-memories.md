@@ -1,27 +1,22 @@
 ---
 category: news
-title: "Technology helps self-driving cars learn from own 'memories'"
-excerpt: "Researchers have developed a way to help autonomous vehicles create 'memories' of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
-publishedDateTime: 2022-06-22T15:27:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
+title: "Technology Helps Self-Driving Cars Learn From Own Memories"
+excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This i"
+publishedDateTime: 2022-06-22T05:00:00Z
+originalUrl: "https://www.realclearscience.com/2022/06/22/technology_helps_self-driving_cars_learn_from_own_memories_838521.html"
+webUrl: "https://www.realclearscience.com/2022/06/22/technology_helps_self-driving_cars_learn_from_own_memories_838521.html"
 type: article
-quality: 36
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearScience
+  domain: realclearscience.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI in Autos
+  - AI
 
 related:
   - title: "Technology helps self-driving cars learn from their own memories"
@@ -100,6 +95,6 @@ related:
       domain: eurekalert.org
     quality: 6
 
-secured: "x2PQ55lzR+Rv6Eqt1cvq7v/N0UQqn1zs2OnJNce0hRJNyFxspLIg8tNnCmyWWNvMD/djlYzcWe9f/LCuVQKm9mo5wMr+O15yw9SXezwLnXmbowv4tVnHqbbFKHCZZikfdPKeBdA2GlrTDPykbDuzkSOLoexw1bPicVcGodhF0L+dY2x5eZ77I+H8ZqHWwzVFOTVWJhxVU4Qxh3DOMTjcozmaowT5b754pGJmf24J6d+qpMUwkPYvY11Vx+jMUGG8ppckl8l5hLRfmaP1u6xgxZTvXG9BU6FlBoX7RwW97jTcrT96PV9t1dv42zoue0SEmofDa/pWe9A2OWSupYzlf5NX5ACotICsVIuCSgZdrOc=;PZydeJ+y6oSgVJFfPd4weA=="
+secured: "dGuW54RAXmOtYNFymHsD0AFUHxKiFr1nlpRF3Z3efHwvsI6ieI4+XUDrMnJv6ITdG/vNpd6BJOogZ8RlBR+9ZzGmbzGa0viRX50TET+jJBDbY/6lYY5KZvBoDEsyAzYYMBcp+KTUCtHYyPHxFvVdXBKV15BNN6KhoEP/lQ1jz4bF3AsYFIMmuo0vrc+a83UNeSBhLkHuZ8H6fWAp7bSKuIDbDWlikgnrmoNYp8Cu0U1FtFmx/JSg2h5DYeBO4DKN/rxe1f9HRctp9Y/mx4oG1XjmWY+D6KSQ37pGKSm1o86gOdCUk/q8cwh4IH0MJCQSN1PWzDOa/8jc19PA93QQ9q6dS4l+Vmev3wZchL5EAn7LYn30Q+stFFfzbKJjhz005y3CzAOlW8GzzLrHg9v6O3hOo7ifE0TRqpn2u+aeM3HH9TVV5Nv2HcNU/ECBlwGX0WqMWRXI786oIkNh7Dk7ujY5dnpjEXOxGvz77LVrzkP3MJn6f6zWCsnoUYR//2biqer6Yl4F5sJ51wqn314OQg==;3hmOEZZM2z8QqeACa2tA4Q=="
 ---
 

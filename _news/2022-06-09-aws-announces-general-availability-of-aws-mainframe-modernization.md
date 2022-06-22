@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Mainframe Modernization"
-excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS’s superior agility,"
-publishedDateTime: 2022-06-08T17:36:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html"
+excerpt: "New AWS Mainframe Modernization service makes it faster and easier for customers to modernize mainframe workloads by moving them to the cloud and benefitting from the superior agi"
+publishedDateTime: 2022-06-08T19:36:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-8-aws-announces-general-availability-of-aws-mainframe-modernization"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-8-aws-announces-general-availability-of-aws-mainframe-modernization"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
-    width: 415
-    height: 539
-    isCached: true
-
-secured: "ekRrGtrNEdHnYj4yHBZpOtOwHB/3xDWaS1qbvcI42+zi40CsYTdJfz+x1kGScra8ZU6lqJbuopFs2bpXOjCtrJxhdDJ2VHw7saUr29B0pmnWb224IjL2btlcUcv1Ci6taYznC16uCZbAHftUpGqj+tSPJO8s0stqW/CUXT/anT0ZAUmb1nSGvsHuMTx12/Jqu6jE2G/FfRlL0WwwzwlRJtwsX889br/h8/rl+4Cf0nOtk1VkOTUYkdN2tpzn0wGVoRgKAJT9DGHb1Mxc5R/8Lc5PB1BbfoK9TsgCMjl5EpERPhZyL8pgvCRxioi3RlPwJTSCLFa2H7BspNE/yoxOfRNOYIpfkKCfLk0aflwdt1thBGtio6mVWuxupeu+SQX/t8oe4KtpdijLWK0PQYF2GnTVia27z9MGOOxjXZ5ATsFyKZ8ckYcIL+MmTv9JyrqiFczAsgPsbWC7p1puz9JPr+HVDNk0sOefGNHZess9oOpgyMQe+Gdfysd72PMSyz/Y/vVWEbj579HVTQyx/FvDmA==;Ucu6kFE99HlPUpC8eRCR9g=="
+secured: "JnLitjpBmN4jrrU61gjwNkcBRb0RKrYszWat62cWRwurXe/8llHfTzZz8MHympxIwR59K3WRr3/EP2d+h7kU24yhHGb1EiITNaAJg3LZWkXxKSJPeTNmoTqNAsGdM3oJYlcF28FlvvnN4kxgSLRlH3INwlgsSVJ24NvCumwCyVZXhpe4is5FEwrguIesHZdL2x4E+w2p8T05DKdmfHcP4VAfAAaWo+aOXE2ssESmNVr8PPVTyv26kXv60oiFasw4XQFbTd5LTDM92z9g+CPcTx82FtWIMdKEEJ8eqwcSg7W4A+5SWujHOzV2h2xtqMw9CH5pdQ0i3ny+5XxgC+6Y+Jm3SIOvPTMfCixYDSGOO5A=;e/7KDfe2I1gprzp+Wso/zw=="
 ---
 

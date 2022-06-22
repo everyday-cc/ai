@@ -58,7 +58,7 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 107
+    quality: 109
     images:
       - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
         width: 620
@@ -205,6 +205,20 @@ related:
       - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg"
         width: 1200
         height: 620
+        isCached: true
+  - title: "Microsoft To Screen Its Azure Customers on Facial Recognition Use Cases"
+    excerpt: "Microsoft on Tuesday announced version 2 of its 'Responsible AI Standard' document, and disclosed a use-case approval process for its Azure Face API, Computer Vision, and Video Indexer customers."
+    publishedDateTime: 2022-06-22T16:07:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/22/microsoft-to-screen-its-azure-customers-on-facial-recognition-use-cases.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/UglyNebulaSmall.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft's Calling It Quits on Creepy Emotion Recognition Tech"
     excerpt: "As part of its overhauled AI ethics policies, Microsoft will phase out public access to AI capabilities that attempt to infer emotions and identity attributes."

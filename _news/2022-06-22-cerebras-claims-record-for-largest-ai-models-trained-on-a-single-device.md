@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-22T15:48:00Z
 originalUrl: "https://insidehpc.com/2022/06/cerebras-claims-record-for-largest-ai-models-trained-on-a-single-device/"
 webUrl: "https://insidehpc.com/2022/06/cerebras-claims-record-for-largest-ai-models-trained-on-a-single-device/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2019/08/cerebras-logo.jpg"
@@ -35,6 +36,6 @@ related:
       domain: venturebeat.com
     quality: 48
 
-secured: "CVGu8QqIK6KMg6zyS31T7aaVF6cfXvdLN4khvS2miwbyrm1MbdaBWj/k6plCA+EXQqpZ8T0BBEe1YumzjQU9c4yfcHz0X7Rl5ofTN9IuQCIdYgZ5nHBpRjZYGPWpaO+IpbTMBIgRY9Gdvjmq2BBgPwAY5WVEBnsWFMNGHkks75rStJObNhp2/Pc9c5+SwSfbvEjW22FD9Qjp4etH3Yangw2vyMEgc0iZx1lsxS+WPqlBsI+M66bH3ho9TBj1x5J6Q10Ki5qWJ6pvfbUCxbFs4XJ6Y0+5Zc3gGjKJdAHiGHm9raYbQBznYPSiQd3SMU8SuwbzwSe2MjwfJHRuiyBX3Fzvq3f3QaCVwwQo5nDOj5o=;4q+59/ng9pYBWb3glVhScA=="
+secured: "J8W1ki5gVQWGgOOetDSqBZmopTCELZKBothVvZ3rRR9ckvhuMStpDcBl+UII1o1ylfSAFSKM3qdS+J/QuuF2iUPWR4QwgI8GhSpitLalvtDZXiDunrIMXqfOFVJsO6ysyTTNNCHzvUn1vhPSp73Eg3Par3mg3B+DnADZD8Lp05hPaSezDkz1f7+MFARVKPM4OAhpLOvWhWNTaLiIXHtUZ8LdzqCvNY8Ty+wdMjzSRYF22PEoX1/YHaAhQK3meCKWdvdfRvmWZACd6PgAp4+JEuFzMcyJ58ui378xxwkYooxXGRM0BfsNx8TR+21b9wH1fSeiYYEcmpL07d3SoWCzzdlNrcuX3KvMAJU49Bq8YWGq3V2e3Z5JpwP1MAQwbBBvGuVl8pr5I1coX5GV9k7yDlVbaHHQauDeKm5Je31DKJOY+RTemF6rS9mAycqg0A8Leh1CnCDoGXUh4xAK86aC2oTJ+sApGCaKWgNkz+pQgXAln4yrL+Xs9SaMfSvXYpmu8X9C/tWrDv/zq984qYPV8w==;RQ0WmE4rJ1hT6puWo2MkDg=="
 ---
 

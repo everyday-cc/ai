@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
+    excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns"
+    publishedDateTime: 2022-06-22T12:34:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 109
+    images:
+      - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Microsoft to curtail some of its facial recognition capabilities in the name of 'Responsible AI'"
     excerpt: "Microsoft is limiting, and in some cases, dropping completely, some of its own facial-recognition technologies in order to meet its evolving ethical AI standards."
     publishedDateTime: 2022-06-21T16:58:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/aabce5078bdea32e80b21d0996b47b4e6becd82c/2022/06/21/3a67307f-5daf-4534-b7b0-c65e89f1a409/microsoftcurtailsfacialrecog.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 743
-        isCached: true
-  - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
-    excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns"
-    publishedDateTime: 2022-06-22T12:34:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 107
-    images:
-      - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
-        width: 620
-        height: 372
         isCached: true
   - title: "Microsoft’s framework for building AI systems responsibly"
     excerpt: "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.\n"
@@ -216,6 +216,20 @@ related:
       - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg"
         width: 1200
         height: 620
+        isCached: true
+  - title: "Microsoft To Screen Its Azure Customers on Facial Recognition Use Cases"
+    excerpt: "Microsoft on Tuesday announced version 2 of its 'Responsible AI Standard' document, and disclosed a use-case approval process for its Azure Face API, Computer Vision, and Video Indexer customers."
+    publishedDateTime: 2022-06-22T16:07:00Z
+    webUrl: "https://redmondmag.com/articles/2022/06/22/microsoft-to-screen-its-azure-customers-on-facial-recognition-use-cases.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/UglyNebulaSmall.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft's Calling It Quits on Creepy Emotion Recognition Tech"
     excerpt: "As part of its overhauled AI ethics policies, Microsoft will phase out public access to AI capabilities that attempt to infer emotions and identity attributes."
@@ -475,6 +489,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "/vYqHkYNsjB0ktpR1txS4ltFIbiKGzvZE2iKnejX7TBM9LlyG6T6MraG7UjKqHMMi/EcFVjFIDhhdIBNRekgzBEXilMjEKMwQT1Sd5O5QmKk3zpYbHQI3QkTUvEt9vV2rt2Iwzmm/kKyF9xp5mjVN4gtFYCFqbB0TR8NH6UYPO9mzmdKkWGOdnSczSGwajoaPbZL8na9cqX7APZwwRR3JVr4+iZ/dJxYyt9qOsTAvHBY5wOw+1VTUNrRIxPVidH5J5Bk3hRXviJe7eZRxhTfnPik61lZp7sHFoxqOPQwM4A8WLJ36FwXrWJbSvxF1NVoIIJQc+Jb6vUo8aWO5dV/4+u7QZUjuNkDglDP1VjZqoM=;Zr5ezKPN+Lx4FFCBZF3nHg=="
+secured: "ET0+GTphuZx0F7u+DgbbS1eSbTnXg9GnJHfPmwKUfdFhM61Ususout3mLbcC2dcx+UyE8/9URhEBGQebG3q99TpEc1hV4u39L9JIQ+mt+YcyWGpPddcn7LAVgFNQ59OsHi+YQz/td6ErAkDL8WYTAXZUr2Ig/3kuinUQislLwc0J48qkmTJl9OukF7DCfATcjblvRT+lsDZR99Yca891DR6Stgs2rhlaISy1eQEdnMppuO6hXtQRRP8n5DZJFHfm2mAze2rmc7O332dSbNROe5n2XF7Szb0wLqRjJTDiXB3rN2C9b/1QYSKk79awlfyOdHwr3g4+hTr9CT9DjWs9OtFUK+dCs5EejsiQQzxeqmb0pSNS7OIh3GlThenHTuTm4kQnXbJ6PcfWr/LvNawdlYJQjHfsgi/mZVmIR7T02jMOYb8y5jxenPn39B+RfdSBTB+jswnOEHZfbHybIpveI0Avc0+SjDFhEsGC92Fjyip212NvArYSnbEalZ+HRuml0q0VR1GPi4H7+eeerKWnIg==;+3rh2wS4nk3t7sIbiHt/Nw=="
 ---
 

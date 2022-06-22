@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-22T13:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/skit-ai-offers-best-in-class-conversational-voice-ai-solutions-to-address-contact-center-crisis-1031543302"
 webUrl: "https://markets.businessinsider.com/news/stocks/skit-ai-offers-best-in-class-conversational-voice-ai-solutions-to-address-contact-center-crisis-1031543302"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "AWS beefs up contact center solution with new AI capabilities"

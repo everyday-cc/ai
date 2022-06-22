@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "The Ethics Of Self-Driving Cars Making Deadly Decisions"
-    excerpt: "Self-driving cars are starting to pop up everywhere as companies slowly begin to test and improve them for the commercial market. Heck, Google’s self-driving car actually has its very own driver ..."
-    publishedDateTime: 2022-06-18T00:00:00Z
-    webUrl: "https://hackaday.com/2015/10/29/the-ethics-of-self-driving-cars-making-deadly-decisions/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 41
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2015/10/ethical-cars.png"
-        width: 616
-        height: 359
-        isCached: true
   - title: "Autonomous / Self-Driving Cars Market - Global Forecast to 2030"
     excerpt: "Chicago, June 20, 2022 (GLOBE NEWSWIRE) -- According to the new market research report \"Autonomous / Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1 ..."
     publishedDateTime: 2022-06-20T10:51:00Z

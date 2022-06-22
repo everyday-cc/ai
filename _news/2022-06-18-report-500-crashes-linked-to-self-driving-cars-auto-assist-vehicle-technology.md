@@ -43,15 +43,6 @@ related:
         width: 1920
         height: 1344
         isCached: true
-  - title: "Technology helps self-driving cars learn from own 'memories'"
-    excerpt: "Researchers have developed a way to help autonomous vehicles create 'memories' of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
-    publishedDateTime: 2022-06-22T15:27:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 36
   - title: "John Deere: Leading The Charge In Self-Driving Technology"
     excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
     publishedDateTime: 2022-06-22T11:47:00Z
@@ -95,6 +86,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 6
+  - title: "Technology Helps Self-Driving Cars Learn From Own Memories"
+    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This i"
+    publishedDateTime: 2022-06-22T05:00:00Z
+    webUrl: "https://www.realclearscience.com/2022/06/22/technology_helps_self-driving_cars_learn_from_own_memories_838521.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 4
 
 secured: "/er/KVEftFCZIyPGwZQOYw2nt7yBm7Yle9WcimB/uN5M5fELhdo7QtAOFlpNbcxSlUqeSHAOQolw7DTXzCa6mkD6+vJGQLFv+Y4HEaZvOqmTQDjfKvYTllTyziIxnsXN/yaZOXhJV/n7LoKoxDxCfbqPsOiS8n6AiTI3+yO2xX3YjR4r2P4AxqtMQ+XsvyTfxYmgAm58awvGwty+4MbstPj22OMZ4eFxZ+TsMD58KyNxB/YiOEgO5VqlrZxDjcjYuueQfUAvoFMj12AgzYnW5PNS0MuoaKPMmMAqjqlpk/YJB5CP+m3Rdanhwp5ELH5Th3STORwBKsyw8PDWMApsPLei1FpL9QYrXPWcxA9DiLjX9tVc2l9J6wD7wStu/v4uPhH4dJPDUiZMT1dfVfDdY405BUQ/DhubTEshMuupxoGO/AzlOmEXzSW1GNtGt4/lX1Kd4flITjyj6Qg1kH0BPpFgwE8x96g7EG7T6DjPOVAV79aQ4CdihLxqjdGX5MEX4ome13HYOJasKeQ7sre/NA==;6s6fsHFM3jqsZCHEmmH3gA=="
 ---

@@ -29,8 +29,8 @@ related:
       domain: menafn.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?864908"
-        width: 375
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?837653"
+        width: 423
         height: 250
         isCached: true
   - title: "Industrial Artificial Intelligence Market Report Future Prospects, Growth, Outlook and Forecast 2022-2028"

@@ -1208,33 +1208,24 @@
     {
       "path": "_news/2022-06-09-aws-announces-general-availability-of-aws-mainframe-modernization.md",
       "title": "AWS Announces General Availability of AWS Mainframe Modernization",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS’s superior agility,",
+      "excerpt": "New AWS Mainframe Modernization service makes it faster and easier for customers to modernize mainframe workloads by moving them to the cloud and benefitting from the superior agi",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-8-aws-announces-general-availability-of-aws-mainframe-modernization",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-8-aws-announces-general-availability-of-aws-mainframe-modernization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:36:00-07:00",
+      "publishedDateTime": "2022-06-08T12:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

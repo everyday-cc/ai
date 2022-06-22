@@ -33,6 +33,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Government of Canada launches second phase of the Pan-Canadian Artificial Intelligence Strategy"
+    excerpt: "Artificial intelligence (AI) is one of the greatest technological advances of our age and has a significant impact on the daily lives of Canadians. AI is a driver of economic growth and good jobs, which is why the Government of Canada is committed to investing in efforts to drive its adoption across our economy and society."
+    publishedDateTime: 2022-06-22T17:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/22/9626817.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "an82cfxF8EpPSY/wT8mqMtBYdnNK67+HLB/YQ2Va8i5rEyxAs0PULezWDbp6P4sBD2jjPujwCMX+H/VfpEr1LbWT8Yks4S5PJ77S4SVvjN72kw60JdXEQFaDTIX/qxm8ZMwHX7pcIoIzht1qc6n7eI7dJMSDU2fLlG1EyrcwOuYW9siRS14l/fysnvfnMJIsOV+w3od1R0hRJNu7tOxvlmxvV0jvl08a6kXFfuaJj913hI8V+sKdxpeAOR7gDUtKvsIiGU65voXo1+xosnc8h9ElHfSsxdQspOgZ2QWT6rVw368ocK/66Aqg4TpOFEAJuzQ1oGgY/ZQbsnK737pf7xUgv/Oi6wCZWPVbDh9zJHU=;w0p7slAnOy4ioEON13Flvw=="
 ---

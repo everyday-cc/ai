@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2022/06/Github-Copilot.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "GitHub Copilot – Coding AI developed by GitHub & Open AI released"
+    excerpt: "GitHub Copilot comes in the form of an extension for text editors. It is powered by Open AIs text generating technology."
+    publishedDateTime: 2022-06-22T17:13:00Z
+    webUrl: "https://techstory.in/github-copilot-coding-ai-developed-by-github-open-ai-released/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/06/OIP-7.jpeg"
+        width: 474
+        height: 248
         isCached: true
   - title: "GitHub Copilot 'AI Pair Programmer' Now Generally Available at $10/Month"
     excerpt: "After a one-year technical preview, GitHub Copilot, described as an 'AI pair programmer' coding assistant, has reached General Availability (GA) status."

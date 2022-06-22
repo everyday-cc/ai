@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform"
-excerpt: "Sinequa customers gain unprecedented search relevance, accuracy at scale, with the industry’s most comprehensive native neural search for enterprise use Enterprise search leader Sinequa today announced the addition of advanced neural search capabilities to its Search Cloud Platform,"
-publishedDateTime: 2022-06-22T15:01:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-22-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-22-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform"
+excerpt: "Enterprise search leader Sinequa today announced the addition of advanced neural search capabilities to its Search Cloud Platform, providing unprecedented relevance and accuracy - at scale - to enterprise users."
+publishedDateTime: 2022-06-22T15:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sinequa-adds-industry-leading-neural-search-capabilities-its-/2022/06/22/9626776.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sinequa-adds-industry-leading-neural-search-capabilities-its-/2022/06/22/9626776.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Machine Learning
   - AI
 
-secured: "yCBFld2oxOMJ74ezxP/k8xlCsfnVXElUK2KVm2Eb4i/YqhxwBBbsD9TZadfaq1r+CAIyDWFZ/Gwir/njT1OBfk2j+g6c4NobxE3gHxry2E4/3jqhr0qMp3AfVUvn/nHVlMA5unlxB5mlO2c3nEGXJCraD9VcsB5x+IfYWpR9v8dEHpn09vF0c7ZSIg4Cg6vlFWs0BSwBi2cBKKlQwDVeuErq4/wVlnAQjHPpllHJZC2m9oTl4FLcTF4/zcpn+OqGyiFWQNmO5ENEG2ZS9ezfkjCrA0sHqHYws43Grm+bKhcIXpyyzRUAv/yhtsvKLveVrQf8Qc4CNNjWKtUlrzJ+R19H8DU1LUknLALyK8BxkHA=;fXePf193SV/sv+zRwTdjKA=="
+secured: "1jjdvEaeemAMgvPKHuMmTaLxX9uUcDKaN7iEM7wv1k9wSS8Wb56mJEiE0CmOZrc2zOX+e0cTmtz0P5JY1pZPnUOFgsw5QqqepFtlclAHxnWlJC3TlHIJew8daWuLv9RGoTj7q3k4k4TNjUocB+Di92Wp4J8VsY6bffxXKqHcq1X31cQn+R8mMCsoDzmzqXfTZI/rdE9pyFOKnkQpORc5mRu7e6nR4PSeEsRWNIKA2M7Vy2WVtO2vSVCBOlvw3oWfnkXoxdzHZfG/JuRFdU8uZG2APFzW8ttKSEpO5CMXmPqo9MLzeMPOhWC+zCciIikOs68f+Blyf8eXseq26pOmhmwIu2tEgdX6fy9v5+kJS/k=;dWDY5NYYwFO2ZMhFZ5vlAw=="
 ---
 

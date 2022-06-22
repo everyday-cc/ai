@@ -8,7 +8,7 @@ webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intel
 ampWebUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
 cdnAmpWebUrl: "https://www-publicradiotulsa-org.cdn.ampproject.org/c/s/www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "3 things large language models need in an era of ‘sentient’ AI hype"

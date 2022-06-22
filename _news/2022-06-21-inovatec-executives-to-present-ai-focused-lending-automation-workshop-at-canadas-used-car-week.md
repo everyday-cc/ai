@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Government of Canada launches second phase of the Pan-Canadian Artificial Intelligence Strategy"
+    excerpt: "Artificial intelligence (AI) is one of the greatest technological advances of our age and has a significant impact on the daily lives of Canadians. AI is a driver of economic growth and good jobs, which is why the Government of Canada is committed to investing in efforts to drive its adoption across our economy and society."
+    publishedDateTime: 2022-06-22T17:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/22/9626817.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
   - title: "Inovatec Systems: Inovatec Executives to Present AI-focused Lending Automation Workshop at Canada's Used Car Week"
     excerpt: "Leading Provider of Cloud-Based Automotive Lending Solutions Will Share Their Expertise at this Premier Fintech EventBURNABY, BC / ACCESSWIRE / June 20, 2022 / Inovatec Systems, a major provider of in"
     publishedDateTime: 2022-06-20T17:56:00Z

@@ -32,7 +32,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2019/08/cerebras-logo.jpg"
         width: 1250
