@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 secured: "cRKWX2yeadf2BWWHSEatZERGJrNTMcmB2rxAHpsNASlS9FrRi3NR2ywjP2jxFEChJPGFZdINOCSIZlGVALEVCJzsnwdaMtzpsn4rT7Cj47Z+ji+D/wYItgDMW6sdRMbO2f5dVjktIFvYf+hvw+Qskn0k3gf3X9sdg08HrfrhfjqMcFMZTVM/ICHZt1G0mlxzqjRtKSnDHM+oJGjmXGotpmw54SmWfuEMdP1/MMQum7VDf9L411o6nK2SwUGZrZScTX9749sD36Rsmqe93GvHW/sfq/v6aMnlIBP6NthT79ariGqopxVlVM5VCXF2b8YFrWZtBwMJzvvpzu2lDyNCIEfy3mDVzrzV6Shjz2FEAH71xzXU/yB8CGgZPUoul+/sWd1vnllunZtDpurdRRgAou3rmvkAduxGEH8452mkcf5PlvbJNIJyoqKdfLrfS9XAdbTJ9/nql0KHAZ3GN0nrryKfVW1TZ4eTOYgVUh1Mo4xCSvdfSt4eBlsNy553u/kB1rTmvGkvhO9q6efKK6Jx6w==;DZCbtMXa+hTTdpzYVSTNvQ=="
 ---

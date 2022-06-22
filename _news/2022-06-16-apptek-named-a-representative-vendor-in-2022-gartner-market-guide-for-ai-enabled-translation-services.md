@@ -2,19 +2,19 @@
 category: news
 title: "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
 excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ..."
-publishedDateTime: 2022-06-16T14:18:00Z
-originalUrl: "https://www.victoriaadvocate.com/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_198dac37-0e00-58e2-b8e1-c9e688f26700.html"
-webUrl: "https://www.victoriaadvocate.com/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_198dac37-0e00-58e2-b8e1-c9e688f26700.html"
+publishedDateTime: 2022-06-16T08:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "YtZ7lGJVFl58FDfio5ndzxnHIe6q/3HSCU6csWFuDVEWGkgL6YVnnzAhsKFqFqix5sfowbZTg2yHb896oxemiyRsrl+KtuqpydrRNXuqS6HzRcJBNQCXEBcLZ8IvtlFONIuMUQ/nVqOsbvcR7Q1uy05bhY/14kZW5o6/1Z98ecnY9aOcbfbaNJrtWMUHnKqqOx4MnjBrksU80Fz3VwZ7K5cW30o3cos4Y1eoL+cIbgC5SB8/ITqOfPNdUu6VxkYORPEsCdh49+IheIWeBTCxvJHkYPJjnf9o/B8mj6ZWXZf36kySKZvK+gUX1hj9o2Ietyt++gXmEhY4lY85EY9MWx2uKLpFBlS7qOahWGhz2Ic=;2PJ5UmqldmEPZGXj3RQtPw=="
+secured: "rTXgSzY5XU1maOpxdND1pHFgABJQwSwnma7UOPIOPl3d8PUN9/LmrrbueiiueN+ayM4HTM2DOH5dEEjLftH2PoOpZkvfjzCc8Js9GuyiEwwBU1oY2Xwayxi9HWKlfkraPws/zOtWGcgpQ3FBqRz2L4bGKIYjvtNzPTnSGEoE//1pujroKJlvMbjgYXluzj8icbM3afMoXyf7PcqwZx3tJ5uAimTpVt/tGgJpBzHgMjw95792L2CAgzKnIZCxvyklMgJKv9nXnr9SSlOx2tBuoHE3vWoEOPAhHCZLJLhoe6WRwtK+b8eTS7x+4v/RLM9PA9cXXcjSjfaBRXA3w3op4moZMzvvwqZL1mghQka/lwk=;yDtu3TjYeqxt0pOkSH+Rng=="
 ---
 

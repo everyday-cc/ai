@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Mainframe Modernization"
-excerpt: "New AWS Mainframe Modernization service makes it faster and easier for customers to modernize mainframe workloads by moving them to the cloud and benefitting from the superior agi"
-publishedDateTime: 2022-06-08T19:36:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-8-aws-announces-general-availability-of-aws-mainframe-modernization"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-8-aws-announces-general-availability-of-aws-mainframe-modernization"
+excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS's superior agility,"
+publishedDateTime: 2022-06-08T21:49:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/08/9618245.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/08/9618245.htm"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "JnLitjpBmN4jrrU61gjwNkcBRb0RKrYszWat62cWRwurXe/8llHfTzZz8MHympxIwR59K3WRr3/EP2d+h7kU24yhHGb1EiITNaAJg3LZWkXxKSJPeTNmoTqNAsGdM3oJYlcF28FlvvnN4kxgSLRlH3INwlgsSVJ24NvCumwCyVZXhpe4is5FEwrguIesHZdL2x4E+w2p8T05DKdmfHcP4VAfAAaWo+aOXE2ssESmNVr8PPVTyv26kXv60oiFasw4XQFbTd5LTDM92z9g+CPcTx82FtWIMdKEEJ8eqwcSg7W4A+5SWujHOzV2h2xtqMw9CH5pdQ0i3ny+5XxgC+6Y+Jm3SIOvPTMfCixYDSGOO5A=;e/7KDfe2I1gprzp+Wso/zw=="
+secured: "XLOMoRfrWWpSsG24s/FXn7/2Him5v6ABagc3D5HQe06Nf9f7EI/v5Knq96VLK05bR9JgUGOjFdljzYL1sAXoNviwdlgRUp0NhLJ7gUYOf4wDi3lyJB9eDIHkeSoDFrGQ02ewK/FnJLDG+p7zFZflnd1SI7CEYI/ORveV3z8lzjVbLFdpk1rJCOfAKOIoaHtDX17bl2rDiKvagdfXh7BY0PmgYpfS8RvdRj8B5vqe9Fvs1MxUVnddbDZxi/ysTEMhduAp2CYqahsNvCfjvsK/Tb/clJwx0ZLo8KYYTNEZfXMe9NeeEdTOGR2vR5cqPk21w70QdWv368G3akEwE5AmMi8+enxT9jIyVA0QGn+f/rs=;QkS+gJEK7ibT5zMChQVpMg=="
 ---
 
