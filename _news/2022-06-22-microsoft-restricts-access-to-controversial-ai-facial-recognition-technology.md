@@ -139,6 +139,34 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 71
+  - title: "Microsoft restricts facial recognition tech in push for ‘Responsible AI’"
+    excerpt: "... to the problems they are designed to solve,” said Microsoft chief responsible AI officer Natasha Crampton in a blog post. “As part of our work to align our Azure Face service to the requirements of the Responsible AI Standard, we are also retiring ..."
+    publishedDateTime: 2022-06-22T08:27:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/facial-recognition-microsoft-azure-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 70
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_444587191.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Why Microsoft is retiring its facial recognition AI that can detect emotions"
+    excerpt: "The company has confirmed that the facial recognition AI framework will no longer be available for new users. However, existing users can access these"
+    publishedDateTime: 2022-06-22T09:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/why-microsoft-is-retiring-its-facial-recognition-ai-that-can-detect-emotions/articleshow/92384459.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 68
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-92384459,width-1070,height-580,imgsize-94846,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Microsoft curbs its facial recognition platforms in the name of privacy and security"
     excerpt: "Microsoft seemingly gave lip service to the notion of responsible and regulated facial recognition usage when it publicly pushed for a \"common"
     publishedDateTime: 2022-06-21T20:39:00Z
@@ -175,6 +203,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--ejq4NgZ4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-06-21t175514z_2_lynxmpei5k0u9_rtroptp_3_activision-m-a-microsoft.jpg?itok=RAOmg6w0"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Microsoft restricts access to several controversial AI services"
+    excerpt: "Microsoft announced it will phase out access to a number of its artificial intelligence-powered facial recognition tools. The changes apply to some of its"
+    publishedDateTime: 2022-06-22T09:30:00Z
+    webUrl: "https://www.techzine.eu/news/privacy-compliance/81458/microsoft-restricts-access-to-several-controversial-ai-services/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_1830378857.png"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Microsoft plans to eliminate face analysis tools in push for ‘responsible AI’"
     excerpt: "Microsoft will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool."

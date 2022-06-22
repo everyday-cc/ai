@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-17T00:40:00Z
 originalUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html"
 webUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html"
 type: article
-quality: 51
-heat: 71
-published: true
 
 provider:
   name: Independent.ie
@@ -24,31 +21,6 @@ images:
     height: 700
     isCached: true
 
-related:
-  - title: "Ai Weiwei documentary to be screened exclusively at Glastonbury Festival"
-    excerpt: "Ai Weiwei: Yours Truly directed by Cheryl Haines tells the story of Ai Weiwei’s father receiving an anonymous postcard while exiled as a dissident poet in the 1950s, and how this one small act of humanity had a profoundly moving and transformational ..."
-    publishedDateTime: 2022-06-21T11:29:00Z
-    webUrl: "https://www.music-news.com/news/Underground/149576/Ai-Weiwei-documentary-to-be-screened-exclusively-at-Glastonbury-Festival"
-    type: article
-    provider:
-      name: Music-News
-      domain: music-news.com
-    quality: 36
-    images:
-      - url: "https://www.music-news.com/images/news/Ai-Weiwei.jpg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "Ai Weiwei: Yours Truly exclusive screening at Glastonbury this weekend."
-    excerpt: "The most personal documentary ever made about Ai WeiWei will be exclusively screened at Glastonbury Festival 2022 this weekend ahead of the documentary’s release in the UK."
-    publishedDateTime: 2022-06-21T13:10:00Z
-    webUrl: "https://fadmagazine.com/2022/06/21/ai-weiwei-yours-truly-exclusive-screening-at-glastonbury-this-weekend/"
-    type: article
-    provider:
-      name: FAD AGENCY - FAD Magazine
-      domain: fadmagazine.com
-    quality: 17
-
-secured: "c2Zv2uZAHwy+0rJS5zQ6h5H6T3ndnh+alfUmLG4CeoDmGMFyE9evsNLhb6cYew/lJp14qUKxvR9AqLhujTh5MRGK/Dt9ZxvNpu8LG74zx07z5ujFbVMP9IeV7a5Ye5JrKA04gwSeyzLLfebjgICvgmpD9BDJvEdp9WPoTtVj4OJLidfSlGqiMt3ixUH8MOwYfn6hLjPqii36SsHJqmZ2bu1qqDZZTZ5SLRgb6TVH8PL2POj0/3Vsr1bahTttg5rLBeoYT3PV1uyKnHPZUhA5V8P5qbWCdcBytRnr20p2KApBf9owTR5ZU37hiLmicX035wZ74UBNCW2pzPmEsvJA8UgIxtm85d0d27RnCu119ZA=;TOpUsMpwWwcCe5cG3nXcpg=="
+secured: "bMo81lL5TjpJucUyPGJ7gINUw59ie2khnT36hbK/FAgEHFdbSdqjRI95Kdr6VxxC5/gFcx1ooAp1u9js16bnU42Yfr3RwNcQv9lRFoRDNElFvIGc+vepJU33LnpqwWsYLIQ1yxMBD9BV80jQ/dl53pr3mmmKNskLOGXzfP454nfxykFTF/bIcg7pPrVjHoBzIBcCOKh30Nfswe9Nf0xA39JrfEAb9G5wyCgFXbfSl+MfLpwBZCgDLEOKG+sMIDa7DgS4aV66EtGJ3CPfZYpFmlCGdC4RDPs6puOKhki9cLL0zmNICwnDwtE6xoz3466wuKRlg1flBGf2Y2rov4CxFf4MKTOQLP7PDtOcks9nLwE=;ZhpgHpmWat2DObJ8/mMntg=="
 ---
 

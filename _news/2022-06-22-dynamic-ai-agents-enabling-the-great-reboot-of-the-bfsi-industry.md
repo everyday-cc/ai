@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-e
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Times
@@ -36,20 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Artificial intelligence companies leading the way in the power industry"
-    excerpt: "View the Leading artificial intelligence (AI) companies in the power industry and download your free guide to AI in power here."
-    publishedDateTime: 2022-06-17T15:23:00Z
-    webUrl: "https://www.power-technology.com/buyers-guide/top-ai-companies-power/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 39
-    images:
-      - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/16/2021/12/Global-Data-Logo.png"
-        width: 512
-        height: 342
-        isCached: true
 
 secured: "x+3+8c8VyE7tAygcvjUUEwvJt9CtuVy/W43xi0AgBCIwGVCfGHffzbNkdh/+bXNCQ0X1xF3yv+aEcyBQfygRbmpU343yWodjGU8HojRigNExQamThkKVyPG0T2wcP96stN/QjgLJUS8fibDCXhOiws9haNYeHmRv722xTpO4gLJY3v43yE/DIwtqEOO/2tOOyKIZzM6C0ZNlWRZKZaoL4XGlHHlppFLR8yg0GgNFQQwCSt3ywDXzdfkiM7VZZqQTT3dedFP3S74KlhnhOIzsm9AIgYgxumwjkk2j8YexJsJ+ReOMhNLUKSrYoKAVwOdEISMKUYt5z9jk+ex4EhmRw5R82nwGlO9kGFJQZaBixEs=;Plj9kpnTkjmvFV1CaDXVAQ=="
 ---

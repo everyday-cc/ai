@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 450
         isCached: true
+  - title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
+    excerpt: "It hosts and processes data from matches that is fed into AI models built using IBM Watson Studio and IBM Watson Discovery to produce insights for fans, commentators and media. Alexandra ..."
+    publishedDateTime: 2022-06-21T19:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262284&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg"
+        width: 400
+        height: 258
+        isCached: true
 
 secured: "Cdrx+ip3Rq1zBNBAn1YBkrbsrbfvbDWu8y++20Z/BhoyALK2S+C+6juotlIEhqW/cuI580d6RE62dpZyoLjldUYF+MlLAkEORf1CkjWNFhO+GkpfQlSwsy44Ycs17U0riemCnzUhaggnVx9Oz3ti1LkM7wDGKCoQyhHer7Uggs/zDearddf75Ock1l5tlofc9llSQefRFnCO8rQ85xrHUbAyUZMWQoRGCzSAPx08cnr9Q0aPXZcDRsOHOfxaq7trn3wGnfvhsyusZUsss+/lXmAlQCYr3OXF5n6aeLyN6fvRMsOc1LbxAaWhfMRaq9VnK0TZVlHpWk4EGHnGCMTmdiY/yJXAP7po4oMIZqGv9mo=;IwD5V0aftNVdUmJtvk9HBg=="
 ---

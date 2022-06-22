@@ -1,22 +1,25 @@
 ---
 category: news
 title: "TORONTO-BASED MEDICAL TECHNOLOGY COMPANY UTILIZES ARTIFICIAL INTELLIGENCE TO PROVIDE REVOLUTIONARY END-TO-END PRACTICE MANAGEMENT TOOL"
-excerpt: "Boomerang FX Optimizes the Private Pay Medical Sector. TORONTO, June 21, 2022 /CNW/ - Since launching in April 2021, Boomerang FX, the end-to-end practice management and lead gene"
-publishedDateTime: 2022-06-21T14:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/21/9625677.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/21/9625677.htm"
+excerpt: "BoomerangFX Optimizes the Private Pay Medical Sector TORONTO, June 21, 2022 /CNW/ - Since launching in April 2021, BoomerangFX, the end-to-end practice management and lead generation software, has wor"
+publishedDateTime: 2022-06-21T14:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27796730/toronto-based-medical-technology-company-utilizes-artificial-intelligence-to-provide-revolutionary"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27796730/toronto-based-medical-technology-company-utilizes-artificial-intelligence-to-provide-revolutionary"
+ampWebUrl: "https://www.benzinga.com/amp/content/27796730"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27796730"
 type: article
-quality: 0
-heat: 0
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "dRgcjwyVLZnHBaB9PPjXQjQ3hllE5TmFlIFFHdQXLBuBI5YAqwK45Kl2BDmLGbAfPVhWR4ZS6YrBqNK8xlDNeyIBlfGstzZhf6it631xf+TMDbS7ERRUbS+KZ52TDLcNYTF7OiqSvc3l3JU3a7WtVFwu9DGtfW/wZxaLNE/hlScjpNmts+aUF65sNOupaPFtXTO38OUfeKamYFxCIPUtiiD+xS/t5DiPZoL3PhU30IbO0MolO68SWgR7FZHzXj0Of1rUNxPgCKTBZnx8JS7DhaKn2U8XjcgtjB6KAljZaEijLgserCibcVO8sq5CXr6wQrbFJZraw4zyY2E6wdgZKrAlFLN9plNyohijOHEG1b4=;gqWpgR+ExL7vioVEvujVIA=="
+secured: "Rj4NrUe5Ro9cdHyLuwd/umbyVlD2wUzT7mdjEfTSYxYGXNHkFL4gZXW1lQsH7QcHCGkEnVKBARxhl/MKG8sF4CtHllxKfR7qpQvBh8o6644H+UmYzeFy2LOvJ1rwuwtSHV8YM/nCWS8N5D8dkRIUCF4ndRxMlbH0rE4xth/YN7VOfgIMNN4+m19+xAI6V0eyaXCJhCIIdbUm2+Pk6eM9LHrFn4hvJQ6Fqs433TOBi1/OAUdaSQLOQbuwDvdncpQAkeBOuYFOSGvjx3lqSRHUqiKdPNv6Xf6gfdl/OhZfbIbbgmJYTuWoKMyarSgWBQ/icb4e8JloMB+ZPMt0g/vpTNY+MwXwZ2Y1/SAcQ5AOIuk=;s8MFU8EeyQnBJWqKBFvO5w=="
 ---
 

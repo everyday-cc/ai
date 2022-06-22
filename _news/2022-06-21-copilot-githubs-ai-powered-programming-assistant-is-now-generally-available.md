@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/06/21/copilot-githubs-ai-powered-program
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/copilot-githubs-ai-powered-programming-assistant-is-now-generally-available/amp/"
 type: article
 quality: 83
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "GitHub Copilot AI coding assistant is now generally available"
+    excerpt: "Copilot is available via subscription for commercial developers, free to students and maintainers of popular open source projects."
+    publishedDateTime: 2022-06-21T18:31:00Z
+    webUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html"
+    ampWebUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/02/robot_workforce_workers_artificial_intelligence_ai_thinkstock_905028734-100749936-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "GitHub Copilot Will Help You Write Code Using AI"
     excerpt: "Microsoft-owned GitHub on Tuesday announced that GitHub Copilot, an AI pair programmer that suggests code in your editor, is now generally available to"
     publishedDateTime: 2022-06-22T06:15:00Z
@@ -59,20 +75,6 @@ related:
       - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0815vsm_ShacklesCCorner.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "GitHub Copilot AI coding assistant is now generally available"
-    excerpt: "Copilot is available via subscription for commercial developers, free to students and maintainers of popular open source projects."
-    publishedDateTime: 2022-06-22T01:20:00Z
-    webUrl: "https://www.arnnet.com.au/article/699231/github-copilot-ai-coding-assistant-now-generally-available/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_209382638_15.jpg"
-        width: 496
-        height: 315
         isCached: true
 
 secured: "RcssET4QFDtuCBRn9LjdEbAo1rjZdhrK8q1Lt3VxoxrtsarbypJBV5kCphZHzuyOFeZ7NDeNOXhbURBPPu1CO4TaN3OBoyVaskbmBCOmugdJrA/zoKk2zQPbTwJH3m02zUxMa5WfaML5mhZFxPsoGRrjhvBOPxD1Du0IKqXrU4MXfZukle2pynoNrIxjrajgzklg72tfC+0Spdc+Tu0YRfajdHvpAF88YnhTKGPIq5psDuyyVt1PgD0R38Cz+FTsQ8fLVcVDU22WhnV9p9NFf0vtqMZbWzoKL1qhLMFtxIj2B4ANWviU5vWB1vnVthRf6XbL5PHIbUWwGwtssGu8vZRjOsWyEKEkZpzl44t5zxsRnQyFKUu0PAG3MmdjmilCR48GPmHGFayKC9TJp8fRgHmtGcIho/Qa4Ke/5LhkDNNoVIuN9ctVzuSnxNVOxMFGPRawKVtQUX8T/QOsyxTfAOhjDPYL6uWlqF8yuuJJvunVjv+yXRdUzlqbZQx2SCotLggxSqDJYDaXsDUglp5qFA==;Oxrg/XmZN5nzXLAZ/9KfLQ=="

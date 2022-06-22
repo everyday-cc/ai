@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
+    excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
+    publishedDateTime: 2022-06-20T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-growth-2022-research-analysis-by-product-types-applications-recent-development-and-forecast-to-2028-2022-06-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
   - title: "Automatic Content Recognition (ACR) Market - Global Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "The “Global Automatic Content Recognition Market by Component, Content, Technology, Applications (Broadcast Monitoring and AD Targeting & Pricing), Deployment Mode, Organization Size, Vertical and Region - Global Forecast to 2027” report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-06-21T21:22:00Z

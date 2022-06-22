@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Is Artificial Intelligence The Future Of Art?"
-    excerpt: "PARIS — To many they are art's next big thing — digital images of jellyfish pulsing and blurring in a dark pink sea, or dozens of butterflies fus"
-    publishedDateTime: 2022-06-22T03:24:00Z
-    webUrl: "https://menafn.com/1104411578/Is-Artificial-Intelligence-The-Future-Of-Art"
+  - title: "This AI is impressively turning words into images"
+    excerpt: "There are a number of interesting artificial intelligence systems out there which have been developed to create images based on commands."
+    publishedDateTime: 2022-06-20T16:32:00Z
+    webUrl: "https://www.pocket-lint.com/apps/news/161573-this-ai-is-impressively-turning-words-into-images"
+    ampWebUrl: "https://www.pocket-lint.com/apps/news/161573-this-ai-is-impressively-turning-words-into-images.amphtml"
+    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/161573-this-ai-is-impressively-turning-words-into-images.amphtml"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 57
     images:
-      - url: "https://menafn.com/updates/pr/2022-06/21/JT_c7a05image_story.jpg"
-        width: 640
-        height: 426
+      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/161573-apps-news-feature-this-ai-is-impressively-turning-words-into-images-image22-1csrjje2wx.jpg"
+        width: 946
+        height: 630
         isCached: true
 
 secured: "0P0Q0LHyBC6K7FHy39MGUZ7VzkeH7PMjjVLCncTyRUyPLYSfTN6AbDHEEhfjI8jr9ZkuyaXxxzu4b0zt4a55LJbsMTwhoMmWOTBsf9t7cThLLFmetESEe+kYTWDX4Lnt7YSG15bodlVUHe2ffTq29DXQI/p3UJnGMH+QKfIwT8ay2TTxEAx2nVn3tFOsN3TziawInOhDfcRxp5eVk2Hz0RPUa5u3z9HjaIhJYuh8xzuqZ8UtoXnwP47ezFOZozgIK11pyduJDuoXCTSoKXbZiiL8lfFIlaAWY+JI7X7gmB4jHTEDiAfjvuw8bI7OrfS/OvEfzDRXijU2KDF4Bt7npZxObZVK803EWVL8ObwwtCY=;cH2jODR5mtLpCPEhQrcvkw=="

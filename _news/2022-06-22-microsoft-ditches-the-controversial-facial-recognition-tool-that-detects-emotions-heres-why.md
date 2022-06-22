@@ -139,6 +139,34 @@ related:
         width: 781
         height: 511
         isCached: true
+  - title: "Microsoft restricts facial recognition tech in push for ‘Responsible AI’"
+    excerpt: "... to the problems they are designed to solve,” said Microsoft chief responsible AI officer Natasha Crampton in a blog post. “As part of our work to align our Azure Face service to the requirements of the Responsible AI Standard, we are also retiring ..."
+    publishedDateTime: 2022-06-22T08:27:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/facial-recognition-microsoft-azure-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 70
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_444587191.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Why Microsoft is retiring its facial recognition AI that can detect emotions"
+    excerpt: "The company has confirmed that the facial recognition AI framework will no longer be available for new users. However, existing users can access these"
+    publishedDateTime: 2022-06-22T09:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/why-microsoft-is-retiring-its-facial-recognition-ai-that-can-detect-emotions/articleshow/92384459.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 68
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-92384459,width-1070,height-580,imgsize-94846,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Microsoft curbs its facial recognition platforms in the name of privacy and security"
     excerpt: "Microsoft seemingly gave lip service to the notion of responsible and regulated facial recognition usage when it publicly pushed for a \"common"
     publishedDateTime: 2022-06-21T20:39:00Z
@@ -176,6 +204,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft restricts access to several controversial AI services"
+    excerpt: "Microsoft announced it will phase out access to a number of its artificial intelligence-powered facial recognition tools. The changes apply to some of its"
+    publishedDateTime: 2022-06-22T09:30:00Z
+    webUrl: "https://www.techzine.eu/news/privacy-compliance/81458/microsoft-restricts-access-to-several-controversial-ai-services/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_1830378857.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Microsoft plans to eliminate face analysis tools in push for ‘responsible AI’"
     excerpt: "Microsoft will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool."
     publishedDateTime: 2022-06-21T20:33:00Z
@@ -206,6 +248,6 @@ related:
       domain: seekingalpha.com
     quality: 29
 
-secured: "sozX4lpDr4xT0S4zJhBgwrVeiyb0lzhYl0xRcIMrbiNRogGaGJpoRpFW7Qc8c+KGw61A/HzXF0IJgQ8s23JEuiCYMn8u3xZxLybEtTTAV4zXskNXvZLGckJIDl78OvqwDksmk6olV4T+YgKjOKOes1eDpPtMM25PdZ5d0CfGEYu2AZjviNxC1iHxtLttlApqWVayzmcbplkg/2AE04NQZglAOq3mNWvssQ6pTJaAeGejPWJcpeZCCLrBnS52yVVYwcUFm9jx4xiP7KMhzc/wIy7lVtdta2Ikz7jl4ldFNTnRpcvOehjTKS7yEmVdS1liPjP8BZQ4m7xDrTL4NieV2hG1HeyGd55C+nVpGaDfNPs=;EAeTNVpRoIzbfSCAOwtJ3w=="
+secured: "IJJuzZizSdQry/AJnajUVXw85A0ELvQXeZDBuL9RwWXiBddeaDAW6gKmrwOf/Q5orwph/KwJtu1sDutTdDOg45RxzMMlTkZbiGjRvfXqxyKvMU4ZsT8ws2Ww9lWn9YeRAyCfwh7a1GMdYlM/pOQIo1hbSh1VlGQs0q7mAeBKv821kJAiF3s/VGSK4umnmHZoaa9Vy3MNsWWeivMIWTSMVopogIlrBZWjO4RfHv+t1rYDuNo7yXKzsEYst+VS18YdfxXHFal+K6DUxJ8Hh0QSHcq7seoLkZQOBZoTtheZ6F1evwURGN1obQNA+52UfDsNJ82pRUrglW3hJAmDe39aLvPPClD+r6+WW5MKnn6d6gOVdbCWyUEhgbVMCAeirPW192DuFkJwoWtKa3JCQynbpWvyfRq0CmoIlc4C8lkN2FcHI2Xsk9RT3HBjpImGM8UzL6hWIch2vH8Scde4ttjJDfEA4SDVS6LCbHyp0sqrCPU+/3tEkM4WHgJziyP9HoVzYnNusJL/chNZFf/vu/WyOw==;l1F9F69vLNClBryTkXmoEw=="
 ---
 

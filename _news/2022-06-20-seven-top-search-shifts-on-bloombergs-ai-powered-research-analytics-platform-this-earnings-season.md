@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "Clinical research and drug development accelerated via analytics"
+    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
+    publishedDateTime: 2022-06-21T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
     excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
     publishedDateTime: 2022-06-21T11:37:00Z
@@ -65,20 +79,6 @@ related:
       - url: "https://static.zawya.com/version/c:ZGEzYWMxMDctNzc1NC00:MTFmNTZi/aiandanlyticssummit2022-dubai-photo4-jpg.jpg?f=3%3A2"
         width: 891
         height: 594
-        isCached: true
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
-    publishedDateTime: 2022-06-21T12:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "oQsywBOuhTxBJcEVjdDSEqDekwOrh2XymggC+tAREjT8mXUtVnoTrdOYU41YHcmnluysKrVjajFenhOh6lzVdfGCbEvn4Dyw68jqwMeLca9j0gbneuGUZV2u0UylXDXKq/ylFYM1kGfregZuNhZAPdnIBAvnqDwWJFIElLyED/yu4nIk2/i+wdIjrtYFW/rQ+tINBhuwtik6T29IoDFe/9IwGjuQ7Rz1/ZprUY9hfmmmrfLF17wsLtIE2QaPJ247a8x/SoSl/rY/nnvDgTqbzoeBqD46FdgPMUL/iR294fq2p20vrsx16ekykgJrKbTAVy6Q9jF0FHv0rvFaI+2AHXHeuytthTpR45RagIlu1bQSzACRNJNEWCLO6gLDiCE5BYjFlakS6K4KLv+1Z7IMzGAQ4pBcwrAxKNvWfIF2071iUL3bxvyyjLZO/74891LP0OpSY21KySVtcpiKYJfICVrPEo5miTeTYVk7WrPl73PLmuFvSK0a5ffGkTfHkKuBeiPsmU4Mqtf8YibTHrtRJg==;njdPa3Uhl/cHHgDAVqFa9A=="

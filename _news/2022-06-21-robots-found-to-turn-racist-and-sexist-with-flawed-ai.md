@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6eeae672-e702-4ccc-a7cb-9489213358ca/Rendition/thumbnail/Content/Public"
         width: 300
         height: 300
+        isCached: true
+  - title: "AI robots are sexist, racist, and jumps to conclusions about people’s faces"
+    excerpt: "“We’re at risk of creating a generation of racist and sexist robots but people and organizations have decided it’s OK to create these products without addressing the issues.” Those building artificial intelligence models to recognise humans and ..."
+    publishedDateTime: 2022-06-22T09:54:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55028-ai-robots-are-sexist-racist-and-jumps-to-conclusions-about-people-s-faces"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 52
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/70dceacf78f2d8e0f11f6c3acd830a98_L.jpg"
+        width: 620
+        height: 443
         isCached: true
 
 secured: "MZiO1QOqm3F4AieeyVA/A5JeNIG6Nxm1BSj4BtgGl8xG+mNEpjF6v4KAnnw/LC/WQN6Phxwx901N6brg6C2fcyy12T/3CX3VE54t207dleKKDNq7HF5uj7DmelxRNVAnn/loQ+J33HrPPVAnIxswrDhIzSbrfQ1OUT0L986AoSqhARJlV+WuxB+IOfZyqzGU8S+p+dew5IJ27JlYk2PI+ZK1HS5ViSnslHa7MGXFSqYltYo/8wGKBiGTovXEwVaMLokbpHq7A8TseGiSpNg4d+UYPtK5i+55FCgOkUGonflH9AwdLKzTBMCh7fqMvid88A5wOp6MPlDBH864ub12F6XCkHzMabCZ1Lc5IOoc8g/J7EtPoJZgxAFAGb9VMVjsQlaKQ46kywIcpImjcWCf091WoSpMV/pop+vzVwRoLm1jBd3iugRfbW58ta72kFGLv0TrfdJXgsrQCg9hECbCIq9R8yMsXeaNm0KJy2RBRZUL+Hu/LlTO3i9Io8iWVu+6qtwff30VsS2g2+wzo333EQ==;TUK5gXuZmEErdaHUHNOokw=="

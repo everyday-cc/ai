@@ -22,26 +22,52 @@ topics:
   - AI
 
 related:
-  - title: "Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 – 2028"
-    excerpt: "Reportlinker.com announces the release of the report \"Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report, 2022 –"
-    publishedDateTime: 2022-06-17T16:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27768390/global-nlp-in-healthcare-and-life-sciences-market-size-share-industry-trends-analysis-report-2022-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27768390"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27768390"
+  - title: "Face Recognition Technology Market 2022 Emerging Trends, Latest Technology, Limitations & Risks, Key Regulation Analysis, Forecast till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 17, 2022 (The Expresswire) -- “Face Recognition Technology Market” report study provides valuable information and useful guidance to new participants or companies ..."
+    publishedDateTime: 2022-06-17T23:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2022-emerging-trends-latest-technology-limitations-risks-key-regulation-analysis-forecast-till-2028-2022-06-17"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Report 2022-2032"
-    excerpt: "New York, June 21, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Artificial Intelligence (AI) in Drug Discovery Market Report 2022-2032\" - https://www.reportlinker.com/p06288090/?utm_source=GNW The Artificial Intelligence ..."
-    publishedDateTime: 2022-06-21T07:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27788975/artificial-intelligence-ai-in-drug-discovery-market-report-2022-2032"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automotive Voice Recognition Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
+    excerpt: "Global Automotive Voice Recognition Market 2022 by Company, Region, Type, and Application Market Research to 2028 is a report provided by MarketandResearch.biz that examines current trends, provides a financial overview of the industry,"
+    publishedDateTime: 2022-06-19T20:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-voice-recognition-market-2022---latest-innovation-sales-channels-business-advancements-and-top-vendor-landscape-to-2028-2022-06-19"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+  - title: "Automatic Content Recognition (ACR) Market - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Global Automatic Content Recognition Market by Component, Content, Technology, Applications (Broadcast Monitoring and AD Targeting & Pricing), Deployment Mode, Organization Size, Vertical and Region - Global Forecast to 2027” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-06-21T21:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-e9bc48d3116b463a8e82f681044cf65d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-06-20T06:36:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 9
 
 secured: "WIpg59fZ3/fm7RNcTI0qdnJnmDIfKXGL3rBJC8XGtncPSuYZUfWEDknfl+cTzF4PX2YgLyUYRqChelIU73WCNcX7GiNonwHVwNXt0j/tvxp0gvWtAsvBMYX715o9X3QoRZONkeBVZgW7QtOj8+lDLliBecMFp12YwdUCuhiyYRK3V/9vIhPNJhbuUnBpyIfc03xEMHZ6T0FWm8MIx43UdargP19EmRFCblw2ZHNktzWaemLI+Sz1TGLag8O0XQ+Fcxa/4z00Z2bu/uvlg5P9xLzBzzILdZX0bW7x7dqBOza+N3v2KxOfVZXADgWw29wr9K+XnG159GzYMiMm6jUSt4FoxwTFBWUcI4XhPxW61aQ=;78HAw4FasTdgogSUlqvrxA=="
 ---
