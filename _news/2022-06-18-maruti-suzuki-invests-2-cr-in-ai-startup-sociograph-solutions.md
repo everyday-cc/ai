@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Maruti Suzuki invests in AI startup with eye on enhancing digital sales journey"
-    excerpt: "Maruti Suzuki has taken a 12.09 per cent stage in Sociograph Solutions Private Limited under its MAIL initiative."
-    publishedDateTime: 2022-06-17T05:23:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey-41655442728485.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 70
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/06/17/600x338/AI_1_1655443322967_1655443329077.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
     excerpt: "Maruti plans to use the visual artificial intelligence (AI) platform of SSPL to enhance the digital sales experience of its customers, it added."
     publishedDateTime: 2022-06-17T08:25:00Z

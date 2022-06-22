@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg"
         width: 347
         height: 256
-        isCached: true
-  - title: "How artificial intelligence is depicting the cattle industry"
-    excerpt: "A new tool has emerged online, which uses artificial intelligence to generate a sketch of subjects based on a phrase typed into a search bar. Beef Central type in some cattle industry terms...Read Mor"
-    publishedDateTime: 2022-06-17T05:37:00Z
-    webUrl: "https://www.beefcentral.com/news/how-artificial-intelligence-is-depicting-the-cattle-industry/"
-    type: article
-    provider:
-      name: Beef Central
-      domain: beefcentral.com
-    quality: 37
-    images:
-      - url: "https://www.beefcentral.com/wp-content/uploads/2022/06/284428487_520028919912602_2485964002429262581_n.jpg"
-        width: 879
-        height: 579
         isCached: true
 
 secured: "0+epWtXJgoq32pa7q8Rva3ZlEBf7gqruqB84o6gqRjlgrZs+/1Wstdn5UFUwN/8qtDZiIqcQXn5XeN32XAQecN53CtnCwD306Fd3bs10Mo/w3Q6bT4LLB882i4r9y7j2IjmR+mnXKEP9Hcrn73oea/b/NLwO5VPAdVZByVuyuA+ocmvZReds9lJaxvdZJiQdvP5bOlV3CGsGH3xRuXfZsWvrBwsHNKiXfDYxDiH5lm4IxFcPbTkqXoBMblR22khNo5gBRJ3YRP65I1GjTZlUxTWI3343LptVvXx0FS8HDUgLfbMMvLZbLQQKGdLARLydY4vcmNRbIN8AtZgDKFBU/GzfFR09LBzmLb8wWhf4MHMBGI6HqRcSNjGu/fyyYGens66GJBSwmeY01B+LP6CY+8AmBBc/5sBPEv0az/Ke9wyubPocEIbrvZyMINGVYfjN1kZLCxiMWwFr2BGhgQHtHWu60cAbodPAYH3rubO7gR6ladja3OuL2IclEDeABwudhJ/Jv4KIe1ZJcnbEigHPbA==;X7gmH2woSiC/FbN8iubhCQ=="

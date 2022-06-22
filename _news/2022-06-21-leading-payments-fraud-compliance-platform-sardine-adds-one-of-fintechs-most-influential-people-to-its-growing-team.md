@@ -87,6 +87,15 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 18
+  - title: "How AI is helping the Fintech industry by reducing loan dropout through automation?"
+    excerpt: "The fintech industry is going through a massive revolution right now. This disruption is helping customers get easy access to credit, which has made payments and transactions hassle-free, like never before."
+    publishedDateTime: 2022-06-17T12:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-helping-the-fintech-industry-by-reducing-loan-dropout-through-automation/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 13
 
 secured: "FNNuNRKSnZcfuIM04qMGwD9T/h7Sy0+eXJzKR/zccgrKsdYufroSW/Y7/CVNq7kfl5Z/8OnOrhZbVRYsnR7taCn/HO5wcOF7EcW35n/i2LUmPdRXufsdDz6xK79QPV8evppV699umqG28VmDET2buNwehxiiP22dyxbP+pbNPJksWRdD5SzpJeTmMBkOmakCsr7+toZ8TS0c6spw7Kr8X2sKyYv/11u1iYA3zQFbMrcr8V3Kyhz/ZJxy6cPbfYftTCGyQelKL8tp9uwLS8EDbpy/MAShS9Msb0g6m7DMN67jGa7dbdcPykW/QJ2Qaq2aUb+MXF0pOvzyvUM29/5RrwcdZEEq/VVAFqoJVzqEbNY=;Du6O/dC2+XnW7dYegxS7TA=="
 ---

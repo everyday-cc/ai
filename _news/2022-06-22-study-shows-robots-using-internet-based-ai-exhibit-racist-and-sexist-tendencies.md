@@ -39,6 +39,15 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Robots turn racist and sexist with flawed AI, study finds"
+    excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
+    publishedDateTime: 2022-06-21T22:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220621141753.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Flawed AI makes robots racist, sexist"
     excerpt: "New work led by several universities, including Johns Hopkins, shows that neural networks built from biased Internet data teach robots to enact toxic stereotypes"
     publishedDateTime: 2022-06-21T15:05:00Z

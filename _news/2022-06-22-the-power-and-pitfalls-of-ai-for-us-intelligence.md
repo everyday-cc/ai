@@ -8,7 +8,7 @@ webUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-communi
 ampWebUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
 type: article
-quality: 87
+quality: 91
 heat: -1
 published: false
 
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
@@ -45,6 +47,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
         width: 1200
         height: 588
+        isCached: true
+  - title: "AI improves cancer treatment"
+    excerpt: "The medical world has been making progress in fighting cancer for decades.  Although we’re not likely to eradicate the disease in our lifetimes, many types of cancer (there are more"
+    publishedDateTime: 2022-06-21T22:20:00Z
+    webUrl: "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/"
+    ampWebUrl: "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
+    cdnAmpWebUrl: "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
+    type: article
+    provider:
+      name: WGHP
+      domain: myfox8.com
+    quality: 57
+    images:
+      - url: "https://myfox8.com/wp-content/uploads/sites/17/2022/06/Capture81.png?w=1280"
+        width: 510
+        height: 219
         isCached: true
   - title: "How to use human-centered AI with Forethought and NEA"
     excerpt: "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,"
@@ -70,6 +88,6 @@ related:
         height: 916
         isCached: true
 
-secured: "jhWXRCk5IpPUFafXSPdDVW4SS34Su688j+MH/jrYNM3KHCEpnymX4PadSmQFVcVe78ArkWFBbzVtisnoMiCJpud9IFtHlfV1bHfiTa2QzxyYXO0rOxNmN4sDsRhWnAolv3D9atzbnTt7CI5eNFarWpGocvCuEBK2Fy4xxQDiCRZQOPZseiEo9HGlPIHM3A6cJF4i7YG6yv+1jrOops00AAcgaHLLNq6AWTSRz9dlXE8d7xsTrQ5lzDx+YrnGY2/PcVZd9QAbb+v06BIqJcJHDuQrPxiySjatV2vraq+LsoEIPwp14F3l2HqAa4453UR74xVFNgMtYVNJ7gEE6vaY1/pTr9YFQNgwxC/jcrvMYl8=;Pa5X2+uvcrZnj/mgt7RucA=="
+secured: "3eWhq7Rr7Cp0EWGXGrqY3f9oWx06YyBD38f0/1npriOKDpYxOaFZPPB82ik1ml9sYWFQKDf7bv+Too5rjuOVyGVZUribIVmkQrrvtjwkQXU563D05yK5yenty2x+1XkBZXLOxrhFhbhQd8KyY26FXHC1RJTlPKy+6bjzOTRkzwXcVeERXz4LXEVc2+dID4639ccqBM9s7YBWDm7g5utn7Nzxfbwhdh8HLIi1WeJZfWWsSgz54QUcebVgLbLvemkJ/z9bs6HclTFOnntdvVcJ3e/a9h4QQe+mubo9Se+me4Q+1qdNHAhwZQWLGBzoBZPmBmLHQ5ldGQ0SuVf+afPYaAwm+EMYpKA4wSpWhUKsRs30mLpkRh1qUWFE2W28SzdzbXsUwKaXMKk3FSTYNuIMidv5diFuq0XlWo06YrehDBXz3Q4Vf7yXWkcbAuUvnOmiIAzU1KQDlDfZyio1Vo4hNyNfcfPkfkE1yRJdmzejvHTUWLU6Q8fCpAF/r30b83yf7NknGJjpCj5sBypzagWpiA==;QPdJTZ/KIwt+fIQ7owc9lw=="
 ---
 

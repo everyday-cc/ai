@@ -48,11 +48,27 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "AI improves cancer treatment"
+    excerpt: "The medical world has been making progress in fighting cancer for decades.  Although we’re not likely to eradicate the disease in our lifetimes, many types of cancer (there are more"
+    publishedDateTime: 2022-06-21T22:20:00Z
+    webUrl: "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/"
+    ampWebUrl: "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
+    cdnAmpWebUrl: "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
+    type: article
+    provider:
+      name: WGHP
+      domain: myfox8.com
+    quality: 57
+    images:
+      - url: "https://myfox8.com/wp-content/uploads/sites/17/2022/06/Capture81.png?w=1280"
+        width: 510
+        height: 219
         isCached: true
   - title: "AI’s abilities may grow, but will never attain humanity"
     excerpt: "Without question, therefore, artificial intelligence (and the automation it enables) can be of great benefit to humanity as we use its strengths to augment our weaknesses. But knowledge is about as far as AI can take us,"

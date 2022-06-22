@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution"
-excerpt: "(\"Infobird\" or the \"Company\"), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider. Under this agreement, Infobird will ..."
-publishedDateTime: 2022-06-21T15:00:00Z
-originalUrl: "https://www.asiaone.com/business/leading-global-fintech-provider-selects-infobird-co-ltd-deliver-its-industry-leading"
-webUrl: "https://www.asiaone.com/business/leading-global-fintech-provider-selects-infobird-co-ltd-deliver-its-industry-leading"
+excerpt: "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider."
+publishedDateTime: 2022-06-21T15:37:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_1212.jpg?h=7de12b8a&itok=8qI18zze"
-    width: 600
-    height: 316
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: zawya.com
     quality: 2
 
-secured: "Jloi7nGyAKE3NxaCB/Me8f0t+/kL5CcIN0se0KiyjwShP6f8DPduBeOcFkM8cuFuVnz+xA6az/EBk9TD9cXEbihMgopDrwZvcM/Xx6+KMSKYnEwmIjkxxeIpzAtg24uj2IaIokwWeXiEvBWHHyz52NxfAH8gPHnNx35j6hc2S001xrxwnHNb6bm62pTx4mS3GoAxIqdDPchZbT+H97SdCd/fLWkDmeVMoRiKgSi0z3mT5M7x7ISyw+QJYZeOVmo+pC9f+kLgXTkGcX6+t3EuELkBS6Tdl5bo4/fB1tWrSfCw8XTLaak3G1RJjRKDfvZo2wR3Yq4VoLQ2uyEWJA04s9jyG9PJYikc6uuVOXkCu0woW3c5xdNXkWIlW/URRCWE2bl58sp5+Tu0utV1FTaU9nZqLRRjxuqt9EXv2SzpQaqViqwCWM0WG6edXz/oaKWRhbFjACQiAAkzFNw5ULTmk+qCns0bGYG3UjKEx9WhExf6SBfU9Xfu5gWdYVPCN4LtKf3ywfWs9HAgXIzoVIvKIg==;AzOVF854KQuCPV5iBV5LRg=="
+secured: "F1HV5L6EOOgpL4umyOK9XA3uwu+OOqzF7BtwJ+mFyPm1LFueQszskMG0jiGWqqHnodypkbhWLj+7hdjQ/+DI/iWUKhQTcnxJXPThRycmExgrzxnPoRI0t5FGHa3ZeSeRqSwGydl/68/VVCF/0LAmEB8B+VKDDmHA3Da/2gxeC9ZMZdVmqlNWQY2hDRziLQKjl1sPTDYnkvS0nPfg3H+5gsUFIlN7Fvuwa2WK0XmPVVaq1xckzh9+Y5s/u7b6dqAAXqqgT4PkF20P+7JKkPDLZteUcmeZNezBo/V9sNS6iZukYodVDXsUTaL7ymn9d76uKliwd6O3irIAI2/MnzE2LqIIN0CFXnOSoSGxqd4n9w4=;JE9J/yYCjYnAKvEUM1HB0Q=="
 ---
 

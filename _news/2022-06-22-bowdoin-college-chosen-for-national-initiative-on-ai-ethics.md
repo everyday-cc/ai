@@ -1,43 +1,29 @@
 ---
 category: news
 title: "Bowdoin College Chosen for National Initiative on AI Ethics"
-excerpt: "Bowdoin College is involved in a new project aimed at developing academic courses that tackle the ethical issues raised by emerging artificial intelligence (AI) technologies. Sponsored by Google and the National Humanities Center (NHC),"
-publishedDateTime: 2022-06-21T18:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bowdoin-college-chosen-for-national-initiative-on-ai-ethics-1031541362"
-webUrl: "https://markets.businessinsider.com/news/stocks/bowdoin-college-chosen-for-national-initiative-on-ai-ethics-1031541362"
+excerpt: "Bowdoin College is involved in a new project aimed at developing academic courses that tackle the ethical issues raised by emerging artificial intelligence"
+publishedDateTime: 2022-06-21T23:06:00Z
+originalUrl: "https://www.djournal.com/news/nation-world/bowdoin-college-chosen-for-national-initiative-on-ai-ethics/article_6b4d631c-5af4-532b-9d7d-ac4cecbbf376.html"
+webUrl: "https://www.djournal.com/news/nation-world/bowdoin-college-chosen-for-national-initiative-on-ai-ethics/article_6b4d631c-5af4-532b-9d7d-ac4cecbbf376.html"
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "Bowdoin Selected for National Initiative on AI Ethics"
-    excerpt: "Sponsored by Google and the National Humanities Center (NHC), the Responsible Artificial Intelligence Curriculum Design Project grew out of mounting concern among academics over the extent to which AI permeates many aspects of our lives and the ethical questions raised by the implications of this."
-    publishedDateTime: 2022-06-17T20:04:00Z
-    webUrl: "https://www.bowdoin.edu/news/2022/06/bowdoin-selected-for-national-initiative-on-ai-ethics.html"
-    type: article
-    provider:
-      name: Bow Doin Polar Bears
-      domain: bowdoin.edu
-    quality: 54
-    images:
-      - url: "https://www.bowdoin.edu/news/2022/img/bowdoincampus101118-0077.jpg"
-        width: 800
-        height: 533
-        isCached: true
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "MBPvGInVYShW6SWhA8Vyas5qvULUjs/OY8VGAA4QprkFN2pnA6cbqza6dP2N0eLpfJrvwUbKE6L/+Spwvc5t2ZnPUTs2AC9v5o9OEpVPhstbN40uPkECWKyKpddG1OvZWTwVCxnaZ713NH8f1MNH5o8rpXtLwHZF/Ujlv5Qjz5jGtlvG4xuplFrSLpjicQxNrOtjC2nKL7e79fNu3WiJhFxQrn/8mCKK0Nt/XzrZW5Om5l6O7n89/kS24FgxKm11oM/v7Tg/W3BKEm1rC5WsbFYpbJ3hPHGN22L87RomDBOceJAiYC7a5Qx+AZf21x9wOfCSjptd6oTqdTWyRdQiFyWxWC4aI9q+a7B70+pGsGs=;3qu7I6R2eb91sz05sosCIg=="
+secured: "AsXTEhvGPa4XW/UBiitEhrYg9NUT302Wpx1bDmcsuCSSPJjGsZ9hVq6w14EYd9y7yRfZrE7nvz4KGrnjwXtcACx0OrCjzMLLMSMBACQNkRPmXgaVkA5g/8eVafisGF+1TKavaxlz4blIhU+TOYx+Xhu5zFDQBolYSRcUs6YCihYVUl49t9iYoo6vbiGuP4DLMrGvX7YB+WiawlMxyvBZNfNojgvLvZfzGNJrWPvAmdxCZhVm4S3mMzP4xKgpDeYYYkpL+AzQYYkPmiV7Pvocp42K6PY7ctZjmj2bTB5CEHzOonslZR5FzQpv8GFgYg0o++VCBZmXvcUnYINcCN6Z83eVAszNdSbNc+bsSIvuhhc=;tvkd5Yua9zgw54V7vg1CwQ=="
 ---
 

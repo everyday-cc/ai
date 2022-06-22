@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Robots turn racist and sexist with flawed AI, study finds"
+    excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
+    publishedDateTime: 2022-06-21T22:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220621141753.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Study Shows Robots Using Internet-Based AI Exhibit Racist And Sexist Tendencies"
     excerpt: "AI has the potential to revolutionize society, but that may not be a good thing if it leads to robots that harbor harmful stereotypes from humans."
     publishedDateTime: 2022-06-21T19:56:00Z
@@ -79,6 +88,6 @@ related:
         height: 800
         isCached: true
 
-secured: "jsfUkfzWHImWBh31AZ0sX3Ini8uu8bS9Q7TvJEy/h9cadgM8qh4ugkh1oPiN57OrruJDeBnMGRmLhUzw524eilk8nuTsSfUKrMYa9ge0DoG7A258k4AYEUcEhxpMv5fshLUGDiO6c7u4ImKg9xwqT22cQMtvX27s+aZgtsdcC7DyfPDMlEJ2m/VdvOyB5lSJE9PxgH1lISs383V2rsBJVzZZtdLI19rXyjxjUJK6YKvSZJmI+2goO912C1HRBB7XBr1TzV9kqD2GI5Y8FFlPyuxrwMMagfUaQXS9iGSwP8ZoH3VzA2g9Vu672fjI/+cP3UoKLSPDwaXdV5tkpjJEyYXhWHHWxPPDqbbZeJKxKDI=;ziEhDXeZhJqMYdvkLQUpSQ=="
+secured: "MZiO1QOqm3F4AieeyVA/A5JeNIG6Nxm1BSj4BtgGl8xG+mNEpjF6v4KAnnw/LC/WQN6Phxwx901N6brg6C2fcyy12T/3CX3VE54t207dleKKDNq7HF5uj7DmelxRNVAnn/loQ+J33HrPPVAnIxswrDhIzSbrfQ1OUT0L986AoSqhARJlV+WuxB+IOfZyqzGU8S+p+dew5IJ27JlYk2PI+ZK1HS5ViSnslHa7MGXFSqYltYo/8wGKBiGTovXEwVaMLokbpHq7A8TseGiSpNg4d+UYPtK5i+55FCgOkUGonflH9AwdLKzTBMCh7fqMvid88A5wOp6MPlDBH864ub12F6XCkHzMabCZ1Lc5IOoc8g/J7EtPoJZgxAFAGb9VMVjsQlaKQ46kywIcpImjcWCf091WoSpMV/pop+vzVwRoLm1jBd3iugRfbW58ta72kFGLv0TrfdJXgsrQCg9hECbCIq9R8yMsXeaNm0KJy2RBRZUL+Hu/LlTO3i9Io8iWVu+6qtwff30VsS2g2+wzo333EQ==;TUK5gXuZmEErdaHUHNOokw=="
 ---
 

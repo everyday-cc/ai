@@ -82,6 +82,22 @@ related:
         width: 2880
         height: 2160
         isCached: true
+  - title: "Forget sentience… the worry is that AI copies human bias"
+    excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
+    publishedDateTime: 2022-06-19T06:30:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Don't mention Google's \"sentient\" AI chatbot"
     excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."
     publishedDateTime: 2022-06-19T01:28:00Z
@@ -128,15 +144,6 @@ related:
       name: Public Radio Tulsa
       domain: publicradiotulsa.org
     quality: 19
-  - title: "Forget sentience… the worry is that AI copies human bias"
-    excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-    publishedDateTime: 2022-06-19T06:30:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "Mx0tC8XxYpv/j22rEr+9LMKgBhpX6rOtxSmU7x02rWjAt2WC2JiJ0vrbHKIVyV5e8Lh9dEBjcqIEnYwDP+NEdDgHDutRF9IwnVERV/CxYWLGOKc0YcUAcfMJWHxQMOovZ5YyhGDZ/hE/a/BWzACBdZArMUbsx5fDvtr2ElE66GhHIJIzYuWczrInV07k1GqTT77cSW17SUkQoM4ebfctmi49ov8+cDxd/WqYrylV9GLctx6FjlMqgfbDvkU6zY93CXc4tIweNIon0W9vVUl/ipIC7Z3N1P+0DizNNrkrhuAoGBXd0w58U0JRcvwBG9Vf5yZ/6JBTuvWjBBS8D7IV9mFeVtPU5yYiuA8TmWdm7Ot75ELVJAcgwVHvScwhnUsS9HMpCNZ7nWruNQ5VePrGpR7ANcDb81jcdILtN7rdDB3RP+KKRXjkB9/DyMvEcqvPwDVxh5rKzB0gXPmu1XPjEHiduNVrtj/LUN2ebIjVNRWxb/kZGZ/NboUTy6CDXzcuWg54UxVRaX0GWNzxU5qWOA==;XTkz2SycPY/aCdoTda3lMw=="
 ---

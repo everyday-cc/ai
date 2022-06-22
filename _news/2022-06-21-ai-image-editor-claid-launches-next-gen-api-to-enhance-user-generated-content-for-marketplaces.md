@@ -3,26 +3,26 @@ category: news
 title: "AI-image editor Claid launches next-gen API to enhance user-generated content for marketplaces"
 excerpt: "Claid.ai, an AI company that helps marketplaces improve user-generated images, today launched an end-to-end image processing platform, Claid API 2.0. Claid’s technology automatically enhances photos,"
 publishedDateTime: 2022-06-21T14:36:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-a36c859f3a3a447aaf85b3a3a8e47a7e"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-a36c859f3a3a447aaf85b3a3a8e47a7e"
+originalUrl: "https://www.joplinglobe.com/region/national_business/ai-image-editor-claid-launches-next-gen-api-to-enhance-user-generated-content-for-marketplaces/article_ba8b1542-c6eb-5373-a727-f283c1624263.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/ai-image-editor-claid-launches-next-gen-api-to-enhance-user-generated-content-for-marketplaces/article_ba8b1542-c6eb-5373-a727-f283c1624263.html"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/31/131f430c-1b2b-5a32-98c3-e9a2bfd792e0/62b1d7ad7f127.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "sYmH98AFrlxzJyGnpy10JYP1ATFD5I2LOkivFQQOhHXzugFi2HbyLi2i3xjPn2R6ykpXGhA5CUU2Bv/QGZ4qQZmETBjopiQby9+YGQ45DSpnuyU7Y30wsVZq0MRGs4zCfP/VtXM30O/9MvrF72MBe/Wjr01BCSbKzCJDYGflk3jfEpOxnOJMf545KeIm60GtVP1tTpi/Z2uKM1zbIUgwxxmz755XhZhrYHvO/xYCOMx+/3ChoAMSivUitl3EZUi9Y5Bs/9+6haOEyFyiXQTubIk9PJ4iZrS3gW5CtCgjCPu+gHjGHbIqwK4lduS9D4KzIXn663NE99rGNWXrqG0mn7jeggZaPs1BlCGE4n4TLlI=;aggIYBO5BPxbHxmOeZhw1w=="
+secured: "/0fDpw2ANJEOsOOUSWYW1Bg4Dd6M2zn2SuIx7U8QKhBzXEykqg/hGwgbBEJm67oO8E7+Vtfd18qbe+9MIUw7JXSqSDzldsK47smFa5ZdlXPNovIFJO0COO9tsj6Qb/IPewY04BXKTcgSTPu1UKfgvDo3nbR/Jrk3Oa6uqctskD2p2af/CKXQ7n6SC76eUI3zOWUSkTThwB3nivJxfUrwYgKLliU356TG1mlhB/w9VDyV9wfmWubKjNh8nYruDXvQS4y1WJw1nz1lJFcOb2cDIG6Ub8xw0ouoXnDh/kZhyOXCiRLTiuTOV2RnbvSqkvxTlTTR69OTgnl0e4ZLwewAwPdA9fD1xbxL/Aax8w7LF5A=;UtUmVcpyAyvN1cVTNL3LGg=="
 ---
 

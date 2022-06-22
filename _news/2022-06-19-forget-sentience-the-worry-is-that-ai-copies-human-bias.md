@@ -3,10 +3,12 @@ category: news
 title: "Forget sentience… the worry is that AI copies human bias"
 excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
 publishedDateTime: 2022-06-19T06:30:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "3 things large language models need in an era of ‘sentient’ AI hype"
@@ -142,6 +150,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "6dvzovyKJ/3/5shiyOAK/l0bJDQqe7G5Yg8xJOKSu3fpltAvhbftGm3gHxmW5XeVIU/Tv6S22XRvySGjcLgOtT5OpNvFueNdObV+qL3MFy4lIVZFK1j7qSwVQHxAudt3G7MB62/TTXhRsKAk9DBWuN0YVc+DF8Fb6vknYdQ8KFuRN29eGmb2vi1RPTs0OnBeRPDZH/unVoRRgR3NG/L3rJ9OpGUfJuHgea1kutM4nn5KiZ6/1ao4pIZ3mkBKJq7nvOQIogyvI1PvRbBGaszBznSdmMIyLp6nrtJQSv53opg/SLvcZUtiqPiB7/u5NkHFcLFzk9OOI9scspOt6Zm56hp9TGsVLLjuXZVOZ1q8r4vhptSW8px9GNphhMX/v86nd2UqDOgz5N8td35mzDGKN/NfrZTlHna17YQdm/6uSMnFgqx1JratJEQiR+l0w/Pa5pnBejCaEOZEzEGMziSzrIMt+i67dt0hL1bMgqQlIGK5DW58PJLf/uueLqVTz8socGE6Vj2VyRguIqZwIHsSKQ==;rjamAcTCoF42d8/ppBXkdw=="
+secured: "e+cdr5rJOnEutFJPO1HYoX56mWypWbbzxvSwDLFcuSQF4d7azmIplsiCBXZSBOiJKDyCCtQfVzHLOrcyCaAihUqMl51JE8ORAit8OGxZ1GSH9oqKg94KzpdZ2H5eBN6i6F17NboGrnhgXqK0DGL9bY63a8exZNHWsqj5dpSshzPj/emgoL23ankDamRe1pl6vTbwT5U4CFp7ZcrskF+GuSvrqWPuZWHRsPG09p+Dm/0WDPgWjpnVODq8VqBalcuo+ED0JU0ffauuGPcQxDzAaLcb0kb4pfTDEN7m2hkRU7VuBvwhWbYv2x9IxNNtmgaddpmd5yeHyLPScLtlpJWLaWTmQ7N3TOne+UI/VUGVLkA=;vMStCnvTyHWnZFm146+seQ=="
 ---
 

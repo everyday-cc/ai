@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 secured: "bS50iLy/bbteZYRHWzHTlvN91jbbRjUaEsSiXCKPdsIn5RpdqpGEyQmffGFg1oDW7x9/GQ4NN0p0pPEGoro+D0iAyQQxplUTP4gE6H8TFighNfFmLeBfAucRSNL/4WldM/TW8lBJg/cIrBI985WhEfbg/Gdi1Iflm20K8MfvQFfB7y4BFqAkBQDJVe26HCjS8O9EDOKIVzQkLlJoi9OFLctRk2URdEkvvRyCTWsyMXr35PLcofBNGlz6tB4ogTVHuztnbVwMYVn/u55AWiTQfzGC9+nuNmsu2cCwQ+D2yad+YGFH5ktc0PkGhySyvDMf6tA2DkKr/84e2EeIfAuhO2cUm457vecX0edAUheSGNw=;7QHld4P150T8DGh0tYeLlQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/ais-
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:
