@@ -43,13 +43,18 @@ related:
         isCached: true
   - title: "GitHub Copilot AI coding assistant is now generally available"
     excerpt: "Copilot is available via subscription for commercial developers, free to students and maintainers of popular open source projects."
-    publishedDateTime: 2022-06-21T18:31:00Z
-    webUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html"
+    publishedDateTime: 2022-06-22T01:20:00Z
+    webUrl: "https://www.arnnet.com.au/article/699231/github-copilot-ai-coding-assistant-now-generally-available/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_209382638_15.jpg"
+        width: 496
+        height: 315
+        isCached: true
 
 secured: "Ypy7kAJfV1hZ5AeAJ4FgbYRsmT6j6qsPW9y0EnJcWfs9V4UjBw31tPP8rCAXQICSJjVLnOqkJFfucuOxqIjOH18ZKIXhBkj9dB92PNsxhlbZmGtvkKl7K8SA8UVEX0HGiCBcokh7PUQw96fW3yXQetNxqyLtu5L1P1srWxdIOnd0H8UKA7dzidsH1PnzFyBv9DsRD62uFrvfESR7gLm1+WuyTB5ETu7PErNGcbxc8wOv1loKnTLh4Ofiw4o0i9EDPxERPbHQntqNczyAQ3JFYZkU4oO6p40IVRZ+0VqtLhgKRQJW/sAg7XNFX9dRwwCAOmKCBkIBZAgydehBBHNAas6+iDLNtRCVW7dKcOLAEM42Am7kNFBm4Avw69rkw3g3V27cbJvURjZxvDGNyDG7maPGOsPjaDPCb+ssr+vi5xSQXHogE8xEkhpFmDTkKHEm5o510RjjvDCtBK2WPyxpoLCaIwKecq9hfm4YuwbZTfAYglsF0N24GXFUUrZttH54GKxHm5ke7TqZLRNXOWwcmw==;8OGRrDH0I9s96Eb698sjDw=="
 ---

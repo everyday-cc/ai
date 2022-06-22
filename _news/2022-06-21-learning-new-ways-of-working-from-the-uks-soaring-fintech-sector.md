@@ -85,14 +85,14 @@ related:
       domain: indiatimes.com
     quality: 13
   - title: "Leading Payments, Fraud & Compliance Platform Sardine Adds One of Fintech's Most Influential People to its Growing Team"
-    excerpt: "Simon Taylor, voted one of the most influential people in Banking, Insurance, and Fintech, named Head of Content & Strategy as the company scales"
-    publishedDateTime: 2022-06-21T12:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-payments-fraud-compliance-platform-sardine-adds-one-of-fintech-s-most-influential-people-to-its-growing-team-1031539797"
+    excerpt: "Simon Taylor, voted one of the most influential people in Banking, Insurance, and Fintech, named Head of Content & Strategy as the company scales its customer base and go-to-market capabilities"
+    publishedDateTime: 2022-06-21T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/leading-payments-fraud-compliance-platform-sardine-adds-one-of-fintechs-most-influential-people-to-its/article_171e735e-653c-5832-970a-49fcc9b4fad6.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "64o1jfuM//KeK952/jVeMgeKzLDnuW9VmXIsuv5kViyIziAjzZPxXn/FBu71jIUKvAQfqaTP3KwfyWQTLAYY289unAejspzQOcpyq7A6OtNTsf3a10sti6uAVDBTo0PbGKz0JrCM+t6R8PmTiKAfUrVyBTDtqNJ2FRPHiNSUk/03vjhKlL0xTe0a0WSMLXPW7NMK4KncICNHWFKt4QQitAbV19CbmeJ1cAa7TcKUuF4NN3xFlYsyWWtKux3L3zbPOhL8HUD9i3frqf+qQEOCyzHg9jLtykXV1bgMXdSsfDzJktz1BUubhzN6YZTnRpyh8BHzPwEuGWn6yc+Mn9fA8paoU7oj7bCSvhknzZD7Idc=;7bnBAnMgiunN8eh5mvv3iA=="
 ---

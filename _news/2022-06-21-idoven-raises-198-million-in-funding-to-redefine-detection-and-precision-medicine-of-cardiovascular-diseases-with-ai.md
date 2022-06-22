@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Platform for Modern Data Stack Continual Raises $14.5M Funding"
+    excerpt: "Continual, an San Francisco, CA-based next-generation AI platform for the modern data stack, has announced that it raised $14.5"
+    publishedDateTime: 2022-06-22T01:03:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/25771-ai-platform-for-modern-data-stack-continual-raises-14-5m-funding"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/2e94e7673e7a298ca95172e54bcf9f8f.jpg?t=20220622_010037"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Shield AI Raises $165 Million In Funding Round To Accelerate Autonomous Piloting"
     excerpt: "Defense technology startup Shield AI has closed a $165 million funding round that the company said will be used to accelerate the development artificial intelligence (AI) pilots, including in degraded GPS and communications environments."
     publishedDateTime: 2022-06-17T19:16:00Z

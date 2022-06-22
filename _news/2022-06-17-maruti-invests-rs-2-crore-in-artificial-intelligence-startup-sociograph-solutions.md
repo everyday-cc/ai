@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/maruti-invests-rs-2-cro
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: The Free Press Journal
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
-    excerpt: "Maruti plans to use the visual artificial intelligence (AI) platform of SSPL to enhance the digital sales experience of its customers, it added."
-    publishedDateTime: 2022-06-17T08:25:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/articleshow/92276837.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-22704,msid-92276855/maruti-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Maruti Suzuki invests ₹2 cr in AI startup SocioGraph Solutions"
     excerpt: "India's largest automaker Maruti Suzuki has invested around ₹2 crore in AI startup SocioGraph Solutions. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions."
     publishedDateTime: 2022-06-18T05:26:00Z

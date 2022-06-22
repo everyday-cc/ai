@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
-    excerpt: "Maruti plans to use the visual artificial intelligence (AI) platform of SSPL to enhance the digital sales experience of its customers, it added."
-    publishedDateTime: 2022-06-17T08:25:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/articleshow/92276837.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-22704,msid-92276855/maruti-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Maruti invests Rs 2 crore in artificial intelligence startup Sociograph Solutions"
     excerpt: "The country's largest carmaker Maruti Suzuki India on Friday said it has invested around Rs 2 crore in Sociograph Solutions Pvt Ltd (SSPL), a startup specialising in artificial intelligence. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions,"
     publishedDateTime: 2022-06-17T09:57:00Z

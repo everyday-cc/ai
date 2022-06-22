@@ -64,13 +64,20 @@ related:
         isCached: true
   - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
     excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-    publishedDateTime: 2022-06-19T00:37:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
+    publishedDateTime: 2022-06-18T19:02:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 32
+    quality: 72
+    images:
+      - url: "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c"
+        width: 620
+        height: 372
+        isCached: true
   - title: "An Interview With Artificial Intelligence: We Spoke With Dall-E Mini To Learn The Answers To Life’s Greatest Questions … And Many Other Things"
     excerpt: "With Dall-E mini's creations currently flooding the internet, we thought to ourselves, “What if we asked this AI-image generator a bunch of questions and see what it comes up with?” So we did."
     publishedDateTime: 2022-06-17T15:32:00Z

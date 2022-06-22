@@ -42,20 +42,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
-  - title: "AI in Computer Vision Market Size, Share & COVID-19 Impact Analysis, By Type, By Application, and Regional Forecast, 2022-2028"
-    excerpt: "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ..."
-    publishedDateTime: 2022-06-17T08:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-share-covid-19-impact-analysis-by-type-by-application-and-regional-forecast-2022-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/Street-Art-Montreal-Canada-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "WIpg59fZ3/fm7RNcTI0qdnJnmDIfKXGL3rBJC8XGtncPSuYZUfWEDknfl+cTzF4PX2YgLyUYRqChelIU73WCNcX7GiNonwHVwNXt0j/tvxp0gvWtAsvBMYX715o9X3QoRZONkeBVZgW7QtOj8+lDLliBecMFp12YwdUCuhiyYRK3V/9vIhPNJhbuUnBpyIfc03xEMHZ6T0FWm8MIx43UdargP19EmRFCblw2ZHNktzWaemLI+Sz1TGLag8O0XQ+Fcxa/4z00Z2bu/uvlg5P9xLzBzzILdZX0bW7x7dqBOza+N3v2KxOfVZXADgWw29wr9K+XnG159GzYMiMm6jUSt4FoxwTFBWUcI4XhPxW61aQ=;78HAw4FasTdgogSUlqvrxA=="
 ---

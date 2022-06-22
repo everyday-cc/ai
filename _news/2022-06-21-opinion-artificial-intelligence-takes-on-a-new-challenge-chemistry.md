@@ -2,22 +2,20 @@
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
 excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-publishedDateTime: 2022-06-21T10:00:00Z
-originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+publishedDateTime: 2022-06-21T14:00:00Z
+originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
-quality: 41
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - Machine Learning
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
@@ -50,6 +48,6 @@ related:
       domain: indiatimes.com
     quality: 19
 
-secured: "MbyuBRtsfcPA7wVNdnrnq1BCLiaEJRGWpC3twVNxDnqL7PUYb88DCCP+57W3l8DXSRlP3//YhKtl/73opkfuALKRBIf05rZLeAkR5ofJaFuGgk/4FHk9Ax00B2jOIvba7dAe6B8wr0WdLi1fCR87Go+ZRwKSWxMxDmVDpOiJe38XoXlNINDNyfUDTWmuYwiPowtBaTuBGcyRgWx1QgU7JW+sBA5cOFcUersgehDzsndvXLDfmfrBcLpf6dqQQLHUsGPL64dd7ThjFO22ho3tQs7hLWIU52fml3u/VOa5wsKl6P7DKjdGBtU1ylmcSpDO76dBJc+EZYHsU+KAd3PqbpjLnXAGY3tCzWAeRa8efc9GI8t8/10io+/pcJAyxEc5AatBNJOEQKEMkq+ajrLUc2gfKjEEGhGqQNAywmgPOm+tk4FXcLYKTwmAIf9RU/60BpWZbgfqYBkKgRWQJnFzZdfve12D+LOsWU7yWqtMQxxtrl9/BPyei5HIYfN0OMm11VZKEEbqydYkis/9lDR6rg==;Jfx6jgC0GFKuLq0SiM5o1A=="
+secured: "lfwWpc4/zJyn3eYf/jss3NV/e0sj5bRM0px6GvkygkdxTxZcLgT/Qop1BL+e3sY/pBsPAKY+Gd1pvjE9lKNAvDJj4H1bisxGkw+ywWZsCsr79hb7fLWQdig3aMx71017sk9EJW01n7w0oSDjRzoe4Ji//vWAi1bQsvB41iJ+bnv7/ogXbpVGzSmhD1g1covqJ1FAbtAJG+NQ/L+mx9qj8PUx639TuaFP5yzxHZuTrqYitkthPW7YJMU7zBJwCXjieZX/UsAAFT+1+utniqkDQeev/ZdQqnMCyBaDLYmYvz3iYrBGGqMS52VuoyUPLO7XzqllomTbV51hlLWcXNiFH5VRQgwJ/7INgZH5yoGMgQA=;gPz5DgV2EbY82E+QcUf7Zw=="
 ---
 

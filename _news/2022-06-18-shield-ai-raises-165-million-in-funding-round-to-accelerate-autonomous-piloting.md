@@ -38,6 +38,20 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "AI Platform for Modern Data Stack Continual Raises $14.5M Funding"
+    excerpt: "Continual, an San Francisco, CA-based next-generation AI platform for the modern data stack, has announced that it raised $14.5"
+    publishedDateTime: 2022-06-22T01:03:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/25771-ai-platform-for-modern-data-stack-continual-raises-14-5m-funding"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/2e94e7673e7a298ca95172e54bcf9f8f.jpg?t=20220622_010037"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "UWg9pFgWq8JuTxIGpIVQP+FazhIw/qkSwGFpt5Ra7lerX61HagOrvgcXc8cArmHPDtIgnEqcs6yO53dt7Wj3pdekn9TV5VSdAAe6Timnys+OuN9F9zVERUSh9LWfgzhs/zL/dQVH8CT1lw+M8vyUO/4zunn8WOiKKWKNAOiZkTS7uM5gXkjFFN1SqHZwVBYPgeXbcjWKly7CnzID+tgo34wHkTWGAlnMz1y48nOp3JhcyAZTtGKjzlA38GjB7gL/ruzpqEfD9EndfJjxQo/PcEN0Wj2aamKGhJrHNkODue5/Bg5HX986b9uNPoBASW0Def7ZQ9yyXTIhkrxIhX9bKEre02p8IRwmNpDj7UlFfXE=;Z+7BdcW7oz0OWFF6CR6ntA=="
 ---

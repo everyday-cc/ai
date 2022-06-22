@@ -96,6 +96,31 @@ related:
       name: CNET
       domain: cnet.com
     quality: 74
+  - title: "Microsoft's Calling It Quits on Creepy Emotion Recognition Tech"
+    excerpt: "As part of its overhauled AI ethics policies, Microsoft will phase out public access to AI capabilities that attempt to infer emotions and identity attributes."
+    publishedDateTime: 2022-06-22T01:20:00Z
+    webUrl: "https://gizmodo.com/microsoft-shutting-down-azure-facial-emotion-recognitio-1849090511"
+    ampWebUrl: "https://gizmodo.com/microsoft-shutting-down-azure-facial-emotion-recognitio-1849090511/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-shutting-down-azure-facial-emotion-recognitio-1849090511/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 71
+  - title: "Microsoft restricts access to controversial AI facial recognition technology"
+    excerpt: "Microsoft added that its responsible AI standards don’t stop at facial recognition. It will also apply them to Azure AI’s Custom Neural Voice, a speech-to-text service that’s used to power ..."
+    publishedDateTime: 2022-06-22T00:00:00Z
+    webUrl: "https://siliconangle.com/2022/06/21/microsoft-restricts-access-controversial-ai-facial-recognition-technology/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 70
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/facial-recognition-AI.png"
+        width: 781
+        height: 511
+        isCached: true
   - title: "Microsoft and Meta join Google in using AI to help run their data centers"
     excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
     publishedDateTime: 2022-06-18T13:00:00Z

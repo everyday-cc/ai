@@ -24,17 +24,6 @@ images:
     height: 314
     isCached: true
 
-related:
-  - title: "This museum is using AI to remind us of all the threads we have in common"
-    excerpt: "And it is just of one many histories of textiles brought to life by INTERWOVEN, an artificial intelligence (AI) powered virtual experience from the Museum of Art and Photography (MAP) in Bengaluru, one of India’s main tech hubs."
-    publishedDateTime: 2022-06-17T08:15:00Z
-    webUrl: "https://news.microsoft.com/en-in/features/this-museum-is-using-ai-to-remind-us-of-all-the-threads-we-have-in-common/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
-
 secured: "2QA0Ce8lcyCGQhxJvE2iKOkuy4hvExkNnyK7a1FNR//CYlKzZ2aaxPTpM8tRvgEjWxZQBaY/hLxJoN/6u8yjqSRsVxaNdwRtcSN4wjA0L+UEMkGP1bdCRvchmRxB32NqwTDMS2dkXMxa8FbCGhETSbvjwhBKH11A/c9KNKWStPuyJnYQnjeODGI60mP1bRgFf8pmyu+AQvh+ePcCxySvanMs0ogpS70kwXaD+ivY1x9T6NEsCc52rbM3OiuTdv90b/vdUWu4TupiuE3RTpiMs4Gws2UUiB7RcpENIKh+S4qK2oQv/vNMMqXtfgVe+TaD7mih8hwKiyWSG1LzTIcYAF1rSKR1WAMy4ygh7JNpPCc=;X/5T4cNx/ev4tW+9Wg4fdQ=="
 ---
 

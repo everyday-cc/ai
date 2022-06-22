@@ -64,13 +64,20 @@ related:
         isCached: true
   - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
     excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-    publishedDateTime: 2022-06-19T00:37:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text"
+    publishedDateTime: 2022-06-18T19:02:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 32
+    quality: 72
+    images:
+      - url: "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c"
+        width: 620
+        height: 372
+        isCached: true
   - title: "An Interview With Artificial Intelligence: We Spoke With Dall-E Mini To Learn The Answers To Life’s Greatest Questions … And Many Other Things"
     excerpt: "With Dall-E mini's creations currently flooding the internet, we thought to ourselves, “What if we asked this AI-image generator a bunch of questions and see what it comes up with?” So we did."
     publishedDateTime: 2022-06-17T15:32:00Z
@@ -88,6 +95,6 @@ related:
         height: 394
         isCached: true
 
-secured: "DHVaFUQg1Eu1r6oILl0fITV4fy62UlgfE2FiG5CpjfMg9Dxq0thHeYneNTBG3LswOFECgnaKJjIPIZQprvaaQnfmFXg/cLHxdOUBrJdfP+6gx3u1AVLwcC4G7KoH8rw0c8Sm60UGPJxpJA/0s0dPqSrEqaN4EWius7V+wcfUPhHqG75dnYm5n2qIG1ERSD50xrGSvZLBcc95+TgBMNNv8/LWrowmRrWjz2E5Pas8do8qCSlTTi7yShQdWq0VVxaSivgFRHD6cOfMl+D6WYcx22oLTGF5ONShPPSIGqitiiEndcvNB3c6OzflnncfrJBfHXl+Ib/JAP6KTJpKTKpW5lMgejdT4JMi6lz3FlFV8a8=;vzZTaQ9Cx85LeQwIfQ4ZEA=="
+secured: "vIrHyn9fI9MmhCQIMKdr+MzaCag4GfZ6Scp3Wl/dpz1rjNMHoKWxS8/rnMY5171sMRDs0hCA/s9BbUCTQsKt9u7FCPrBPbu3SCh1Ssfi0ePpQ3mQiWfz51s5drSkcKKD56JBDfBeYCUKtCeYtYvfHYPtLpPlLRsxZ8ydzpbDUi1el4p48RecypZrTijnzblOTf+0wOvp2W1LRbzUPoHB3WBeQKsK0/gm6wgR8qAsfSpYe75bfR1nrXVtLoAKlF4D7l8iO+dn42aD2gslYHNr0j5QY47XKYrXEHvq2pSLSFkl3FMAYX9tGOkfLmrTV+5k5CNi0TnbQZVot/9U/nPBTrtUjtaJfVQfjIXx65dhKEo9NVOkamuhatZ8iKokXpNU8bqcCRd3aHEoDNXVxzkZuRlu4TMaABpWa8+sbu41khK/FVQhAr0n5Y/taMK1fRnBezAM5bykf3TQJpqUKzj8zre4YHbBtwVw1nGI3ZP0EJVkhBqcPXtbCeK5a7VOUYxuMoS0DookY9SYnoQrnut+SQ==;C7MeCJTfEZrnqO2ShHSruA=="
 ---
 
