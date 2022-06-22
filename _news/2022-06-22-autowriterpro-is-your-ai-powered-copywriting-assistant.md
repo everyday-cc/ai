@@ -2,18 +2,32 @@
 category: news
 title: "Autowriterpro Is Your AI-Powered Copywriting Assistant"
 excerpt: "Autowriterpro provides all of the copywriting tools you need to overhaul your content marketing. The automated copywriting tools make crafting compelling copy a completely seamless, automatic process."
-publishedDateTime: 2022-06-22T12:31:00Z
-originalUrl: "https://www.chron.com/business/article/Autowriterpro-Is-Your-AI-Powered-Copywriting-17257566.php"
-webUrl: "https://www.chron.com/business/article/Autowriterpro-Is-Your-AI-Powered-Copywriting-17257566.php"
+publishedDateTime: 2022-06-22T12:30:00Z
+originalUrl: "https://www.entrepreneur.com/article/429717"
+webUrl: "https://www.entrepreneur.com/article/429717"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Facebook AI
   - AI
 
-secured: "jSQ2BlHnyFObVwvIZZlimofpV5yO7syPKUxKzRpCsAaDqTdWdvRIExoDKIcYdhugNvBwojeg6oQGbZWlZu+Z8loA0+mXACvAZ70/v2gGzlXY89CbXwkXmpoLdmbq+6lGxB67uzDofXGOfJ3L/lXBQJ19+AfGS1CvUYwYlQUi+GYxzah4Aq1efhhDmqUPuhPQTJqUOUYfk06P9I1bpdt3lUNqgmvDYuWWy5iwGzJZz7BxwSDK0Vj6M2bCU+q8paWxoSceZNR6aEUUUC+gV+Qf8YYearfIhTu6iQh3weBWNgAuxe7HsTw+6kE0Q2iRJ/5t7BW7+5waHk9soC20syUGgXosKiPl1nMex9skH4xFZxn5Ngrs6g01jm3qNbyYRZftmCSs1BcrpMHebf299fFR5Up4lnMZVUxP40mmi7sZlzR3tw/eO7YNiACDO/HVxZVMU2TDNcpHXAxO4Xk1xHK7EtY9J7v+hPEvklma5a/VuhV04D1azl6XLF4OpINSYjLjFQg8VgwWlCJAkdYeU9I4Og==;z9Zn623278FTZZt2fIZnvQ=="
+images:
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1655419739-Ent-AutowriterPro.jpeg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+secured: "GBOtltOZqDV3UWRqYWBsOXYN6WMaWUuQUbttk7LU89semNeuxCM/2W3XH8JSsaMC7Zz9FxHie3cZFEDFXthLzLpf1DdG5AgJoBxs33CrcL6dsNw0aQg92ClUCTY8sBJqUa/b3LzbRnNDthkXtUE9C7ASiXp+eZyN691ZcsAdnwwJXhfwj8HzvqQL8+Y2eLjj8wnxFL5Gh41/ZkN+uGHGhqmhxY79qdUwgre7ZjJHl7lwR4igXIBGXWfbjpftOAJzn39afsy2+P14nIIbhFBckq8wwZwdz2U1NgJ/5YJj3Z8E2vAOh5o/XuIQC+yEy2JfuTKzjSFuSIScD7n4NFDiTTMvFPNPD7WLXPzbEkzlXlk=;aA0x0AGzet/G+0G8MYK6ig=="
 ---
 

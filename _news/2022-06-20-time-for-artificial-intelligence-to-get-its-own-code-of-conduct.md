@@ -25,6 +25,22 @@ images:
     height: 798
     isCached: true
 
+related:
+  - title: "AI crafts its own beer"
+    excerpt: "If only it could drink it For one brief limited period of time, New Orleans locals \"will have a chance to try the first craft beer created by an AI platform. \" The AI Blonde Ale will be released at a Launch Party at NOLA Brewery on June 20 to coincide with CVPR,"
+    publishedDateTime: 2022-06-20T10:08:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55015-ai-crafts-its-own-beer"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/df06d33e2376ebdde6c18ac46d9ce932_L.jpg"
+        width: 620
+        height: 467
+        isCached: true
+
 secured: "pQ2xzeuT1m9/kffFGIpSnwr+MbNH+wa7JG01h+W4f/kl9Vc8Lp7cv3P+4ueJqfMpvnVG48dUNr+4hNT7Xn462R6U42yYWd5hiN23tjEmtYZzHhTXqyGaSvjoJjONSvSeiSdG2Btfrp/hAVYlc+emxDKPR6DhCuJwlxlaaYO4/pp+UKlmAWLoFQQmSnHDhGxtCNIvCz26ctYqx1duYpo10GdMxqAgZf/5mMe/2CFTUAe4O3fLECZqWXB1wlgcL9cTtmHYYQmxYLOUJhhEY3svXmdIURRuOSk0RHtFfbtuCWhoGuTURoR7Opp5Z7ayOi6WyJoBruKdNYXrZMlXAWbPfFtgJkouUEqC4hMfWLBZM4skKabWjzu6EgPmlpcYoTkr6B8+DUgEbaVmcLZRgswRoE6/AEzOxezl+cIOdABHY8KTk1obXmmQ+Z8RGhv0mabI94hfg8UJtWyID3BOii2F2iAUCLjTMxGQVBdQVkSuUeh2hf3Gs7NAoNTy+RIXgQIF7TOm3+ZGtOmmFZdYc6Twjw==;sZMgBz09TsCdxjqeohLYAg=="
 ---
 

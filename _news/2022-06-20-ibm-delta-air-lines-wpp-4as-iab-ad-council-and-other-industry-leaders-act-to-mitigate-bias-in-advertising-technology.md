@@ -1,31 +1,27 @@
 ---
 category: news
 title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
-excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising TechnologyCANNES, France, June 20, 2022 /PRNewswire/ -- Today,"
-publishedDateTime: 2022-06-20T14:03:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-delta-air-lines-wpp-4a-s-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology-1031538207"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-delta-air-lines-wpp-4a-s-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology-1031538207"
+excerpt: "To learn more about IBM Watson Advertising solutions and services ... IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 countries capitalize on insights from their data, streamline business ..."
+publishedDateTime: 2022-06-20T15:00:00Z
+originalUrl: "https://www.asiaone.com/business/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-mitigate-bias"
+webUrl: "https://www.asiaone.com/business/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-mitigate-bias"
 type: article
-quality: 44
-heat: 44
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_1154.jpg?h=7de12b8a&itok=6zyb-iyi"
+    width: 600
+    height: 316
     isCached: true
 
 related:
@@ -39,6 +35,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "a+8Bud0zVsNlwJlPF79LzM/cixf9V6RjXR3vWmDwiXNpeW+8697RckTOLfoZfuFBnkFUzYkv8CJZD1qR1vGoly6soFPTmNwzckDjZ6ONKFMgbgo5FIfAt6c51JaP3O59f/GID6pFvLAl79PmwTqkgzO5jd92uv/czeptOvs3hvyvEYZrLNhJC/rAynopT3a3EnK6gSS1bNFJjtYyNWA2RNix+nEB2BJPj4C8xL+id4kmoeorD1XBf3lz1WGpLegIzluc/TATkKa+H9UMinX22iT5lYSGwXyp+Q5U/X6D5A2c+MCuENKXgzVh2pgf/hOdNZ+BLUU/9VFKrbP3Coe2BQcan1xlyv+43TP026NojEavARwCl8zx+wi6cY/+xX7z/7cp/3vLpxLL5AQ2SbMXn20enZy2Cb7Xw8qXNb9905slMkjRBgeyHYsZw0dW9MuaptK2Y1B+8dbt604uI5hxExsXuQUIDmXHQ3qrK4wV+8tq1YdaZENo7HcC7rrJCLNWvtYy3uQmq33oQpV916fgLg==;iIOixPZ7iH7oFyXYFpMr5w=="
+secured: "HXC1Uel9NvEpNW4CJSN65ZL1ViLgDA2IO9QmsIwzZtsDoCy9eGczW7MD4f+KSlfI5IhGiFop3KD9Rn0MmvN8tqoM/ouf+T51IHqFTXJU1WGlZeQxc1qZx4PiqmAiC6PRFEEGcVJopFSH/8rgw6XKz21Xa71leYqNYxNVRCV78yTQ60MlgqMrwJPLvGteMVlsPP/MYEjEHtkrXOVAVVQMg4HVIVF68kOF2jxxVOdRzc2Dii2VYbk9h4d/giqwPneYaV+UqGqmknIzpeTfIe09oj2vM5riPu1L54s0oinvGw3U4V24xtE0IZzqytyU5YyOwV/HdzI/PDOEWd7U8sxs4G4JNH2tlDEJIL0MGHOluyQ=;Rq2QBDgq7FvfeZzpX/UdRQ=="
 ---
 

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Clinical research and drug development accelerated via analytics"
-excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
-publishedDateTime: 2022-06-21T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
-webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
+excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
+publishedDateTime: 2022-06-21T12:03:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
-    width: 400
-    height: 267
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -44,6 +40,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//62b0e1fd2738373c85cbe185/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 782
+        isCached: true
+  - title: "Consumer Biotechnology AI Startup Watz Raises $2M To Provide Deeper, Personalized Analytics From Your Wearables"
+    excerpt: "The lack of deep, holistic analytics of data from wearables limits the applications and personalization of health recommendations for the multi-billion dollar consumer health wearable device industry."
+    publishedDateTime: 2022-06-22T14:38:00Z
+    webUrl: "https://www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/"
+    ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62a0f887602b33d7ab39aea5/0x0.jpg?format=jpg&crop=1125,633,x0,y0,safe&width=1200"
+        width: 1125
+        height: 633
         isCached: true
   - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
     excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
@@ -96,7 +108,16 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 33
+  - title: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution"
+    excerpt: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution. Integrating BioMech Lab™ into the SSS shoulder device delivers autom"
+    publishedDateTime: 2022-06-22T14:20:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/22/9626442.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 16
 
-secured: "qGP5eoHD0bRXoRTNc9sG9rHvnkTP9Z4Y0vFGu0On4J88tibUC0+c1PfjgaElhGQDecRSjanQSx2eLUpowY9+1JNUQb0d+NJ7z4A6cbyRnrmWv6m+LuM/jwMdiCsw04GwPCXnH/uBkS9J7zbQRWMJNQEAFT2qFqxRjpUzWUVbAx1j78p7hqlKcGnXRXFyyAoMsDnRall5Qajg20+5Q+Wyjqmq96owOLmpD/FV1APsuHlNIEIYhCY9RnVcFLhjRG5PUiEmmE3XllkHtI6UQtUK4m1Y+WMbV8ymIBtVV5CTfVbJeVbRuDP7JDCtBNimQlJucEr9tlQNJfKt8obV2DvMwb8bp69T+lzp/PL1u+EZyTGbR1yW50yUsaxJy5kjMFNn/JCLmctnba20pt+yYqgoz53TvmwRSl0HWpny16WoluNbGvTKBW/SJlChOLm7IiDAhWJWlqqeeYaJ8Tk7XSPLzbkcUyV3vCJ85I9s2hKXHsEsLLnLt5TEC3igY2u7e0qYMq5B8JhBggx6GCDqzsF6qQ==;mxWPSsOwxo617DcV5bQ96Q=="
+secured: "Xmn6T+7xKt/Bujb0xAHk4ajpKKB5Qn9jxQipleEw+THVvdhB6hHIbSWdYE6XhKPJhw7dBHG2cySOTRC+orrJaVaYaRQT90VXNhJ9iXirusWHDmlNwPNePHUJHgUxstuOTA46WFfyHUi92RaU754I+BoOpkkyxZTYmEdGjHdnLM2AxHAwxWPybjuEXXVP19lcb7gGVj1+daWwZku38iqYBz80E0AwI2JNJXUnV+p1qmaajzG5xjsmLUMxr2Z6dMJQMA7L8dnXwTlIiqqYU15lZASG8qhFNMPheADci5nWX6+B8Om27h4/8m+IlOKVhoYiGsX1kbFIOR3bqNh8QCqH2hswnx+wqTssdvD4fqy5330=;mGqvTMMh+28BBX+q0Rh7GA=="
 ---
 

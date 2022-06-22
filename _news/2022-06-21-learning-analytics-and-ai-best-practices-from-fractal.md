@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analyt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
-    publishedDateTime: 2022-06-21T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
+  - title: "Consumer Biotechnology AI Startup Watz Raises $2M To Provide Deeper, Personalized Analytics From Your Wearables"
+    excerpt: "The lack of deep, holistic analytics of data from wearables limits the applications and personalization of health recommendations for the multi-billion dollar consumer health wearable device industry."
+    publishedDateTime: 2022-06-22T14:38:00Z
+    webUrl: "https://www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/"
+    ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
-        width: 400
-        height: 267
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62a0f887602b33d7ab39aea5/0x0.jpg?format=jpg&crop=1125,633,x0,y0,safe&width=1200"
+        width: 1125
+        height: 633
         isCached: true
   - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
     excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
@@ -95,6 +97,29 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 33
+  - title: "Clinical research and drug development accelerated via analytics"
+    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
+    publishedDateTime: 2022-06-21T12:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution"
+    excerpt: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution. Integrating BioMech Lab™ into the SSS shoulder device delivers autom"
+    publishedDateTime: 2022-06-22T14:20:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/22/9626442.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 16
 
 secured: "M8mLV/OkYGHlpRo1tyLQns9U/zrRIUDBG4jzmnvC9oY/bv/DtqnN/IqFmEJSj/69GyAa87BVsjpee2P+ae/NRzYgzMWNKd+ugLam9DrmO6eaKHqhFJvQCova8nfYEGfFqGjqFycVP/KeowEXOheq4bXhzZVfPD04nkJPrwc/ywM5OPqN104qCGHOy1MABLp9XC8+zU3k+a80Z6uziUNq0pSuAPXWwq5pqczf8f3CFLOpYlPD1dO4EcTPxG3qmNfhh4B7sHKJRSnISOqYH80Id7BwiwNavw3kk0mu9PGaB3F7t6I+IiitmAc+f0BlZovxQoHW+odSuJoetpvSgOuUoH4HRpETU0EyAzJBLQdwwdlIsb5ObxEjury8lmdFtC99FUt2YwerBXyGtTLujVb2VEUiJ2VOSnL2O3mnAbVNUyGtYuJZ/Nc/KgH4NvHiBgU1vqC60z0OtKdfvjFRgVb9lkMTwn/ss8CMGTu2Yf4EglYgYYtcruw/Gn7k9EFcX63bhi+ATQvGOwBPGdBWyl6mFQ==;m6+Sb1bJn+1m7HGbUXwkLw=="
 ---

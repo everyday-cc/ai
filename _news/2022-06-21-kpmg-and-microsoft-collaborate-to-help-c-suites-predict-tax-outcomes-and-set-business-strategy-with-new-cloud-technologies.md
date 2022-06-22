@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
+    excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns"
+    publishedDateTime: 2022-06-22T12:34:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 107
+    images:
+      - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Microsoft’s framework for building AI systems responsibly"
     excerpt: "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.\n"
     publishedDateTime: 2022-06-21T17:50:03Z
@@ -171,6 +187,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Why did Microsoft retired facial recognition tool?"
+    excerpt: "Microsoft said that it will not provide open-ended API (application programming interface) access to technology that can scan people's faces and purport to infer their emotional states based on their facial expressions or movements."
+    publishedDateTime: 2022-06-22T13:02:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-s-facial-recognition-tool-retires-but-why-2022-06-22-786556"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-s-facial-recognition-tool-retires-but-why-2022-06-22-786556"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-s-facial-recognition-tool-retires-but-why-2022-06-22-786556"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 78
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/06/microsoft-1655902911.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Microsoft And Meta Joins Google In Using AI for data centers"
     excerpt: "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have"
     publishedDateTime: 2022-06-19T07:47:00Z
@@ -254,6 +286,22 @@ related:
         width: 825
         height: 510
         isCached: true
+  - title: "Microsoft Scraps Some Artificial Intelligence Facial-Analysis Tools, Citing Risk of Bias"
+    excerpt: "Microsoft Corp. will stop selling artificial intelligence-based facial-analysis software tools that infer a subject’s emotional state, gender, age, mood and other personal attri"
+    publishedDateTime: 2022-06-22T15:05:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-scraps-some-artificial-intelligence-facial-analysis-tools-citing-risk-of-bias-71655876343025.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-scraps-some-artificial-intelligence-facial-analysis-tools-citing-risk-of-bias-71655876343025.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-scraps-some-artificial-intelligence-facial-analysis-tools-citing-risk-of-bias-71655876343025.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 65
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/06/22/1600x900/MICROSOFT-RESULTS-1_1653047362114_1655881239151.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft and Meta join Google in using AI to help run their data centers"
     excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
     publishedDateTime: 2022-06-18T13:00:00Z
@@ -263,6 +311,29 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 63
+  - title: "GitHub Copilot, Microsoft's AI pair-programming service, is generally available"
+    excerpt: "The pair-programming service is available for $10 per user per month or $100 per user per year. There are a couple of free options too."
+    publishedDateTime: 2022-06-22T12:19:00Z
+    webUrl: "https://www.zdnet.com/article/github-copilot-microsofts-ai-pair-programming-service-is-generally-available/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 60
+  - title: "Microsoft is putting a stop to its sketchy AI emotion recognition"
+    excerpt: "Facial recognition is a hot-button topic and Microsoft is now pivoting its AI projects by ending its emotion recognition technology. Microsoft is currently working on improving its ethics policies. Part of that update includes a new version of its Responsible AI Standards."
+    publishedDateTime: 2022-06-22T14:52:00Z
+    webUrl: "https://knowtechie.com/microsoft-is-putting-a-stop-to-its-sketchy-ai-emotion-recognition/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 58
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/06/facial-recognition-door-lock-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Microsoft stops selling emotion-reading tech, limits face recognition"
     excerpt: "Microsoft Corp on Tuesday said it would stop selling technology that guesses someone's emotion based on a facial image and would no longer provide unfettered access to facial recognition technology.Th"
     publishedDateTime: 2022-06-21T17:48:00Z
@@ -344,6 +415,24 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Microsoft retires facial recognition tool that identifies emotions"
+    excerpt: "Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools, including retiring facial analysis tools that purport to infer emotional states and identity gender,"
+    publishedDateTime: 2022-06-22T13:04:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/microsoft-retires-facial-recognition-tool-that-identifies-emotions.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 38
+  - title: "The Obama's have a new podcast deal, Microsoft facial recognition tool, and Amazon's new robot employee"
+    excerpt: "The terms of the deal have not been disclosed. Changes are in the works for Microsoft's facial recognition tool, amid criticism of its ability to identify a person's age, gender and emotional state. The facial recognition features will stop being available ..."
+    publishedDateTime: 2022-06-22T12:20:00Z
+    webUrl: "https://www.wdio.com/good-morning-northland/obama-podcast-deal-microsoft-facial-recognition-amazon-robot-employee/6506327/"
+    type: article
+    provider:
+      name: WDIO
+      domain: wdio.com
+    quality: 37
   - title: "Microsoft to Limit Access to its Facial Recognition Technologies"
     excerpt: "Microsoft announced today that it will limit customer access to its facial recognition technologies in the name of responsible AI."
     publishedDateTime: 2022-06-21T19:02:00Z
@@ -378,6 +467,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 29
+  - title: "Microsoft to retire facial recognition tech that can detect emotions, limits access to facial recognition services"
+    excerpt: "Microsoft is “retiring” facial recognition capabilities that infer emotional states and identity attributes such as gender, age, smile, facial hair, hair, and makeup, the tech giant has announced. It is also limiting access to facial recognition services."
+    publishedDateTime: 2022-06-22T12:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-to-retire-facial-recognition-tech-that-can-detect-emotions-limits-access-to-facial-recognition-services/article65553294.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 14
 
 secured: "XBizcOfmFm+Nc4BSFBYpN/tn563KXSmycAMglL9K2bn19avyuBWZ7kdumgEowf67jzLNKZqNfZq+ctK1xWZKPGh8NmAUAyXWRL+oOYhZHmENEjLtf1c9P7dX250xuSWc8DQTZhGwLGkNy/ym8G9KbJCVpoPEW/R0h5zj3Ae6WcXK0CpUYUU4ToeU9ctZoFp+HzzVp3hxUXIXYhvtyaXSjowEvZs8NiczZ/2K5LW0faj4QK2SxM79Q1GzJ9lgMsT2Eyg99XkFfkaj7CuVhJjGpzxTtGmjxom9m6sJIzhrwNgSkqcMzTZW9SlGxKWokwtFbvCDJmZLbwn6Wm7mnqiP7KbjTuPx9GIwRHrYjvBFnGPxHhlKlIxiNZ8WnksIcpfyDWCYqoR6E1DPmXj0RMSGujmDKRLxEdJpFAQIzepz4Ps0rj4QjZwDLdhatrPKJaZtlg1QBYv4D4DJY8n9aQPXB3FsdwlIIXXeCatclH6BD0emm+iAnwn0vjXsavFauD5/nUkOxabp8QySeqrG6RombQ==;8bS7FoVIOjUWXFQRtvwN0Q=="
 ---

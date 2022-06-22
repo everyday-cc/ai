@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/responsible-ai-investments-and-sa
 webUrl: "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft to Restrict Facial Recognition Capabilities for ‘Responsible AI’"
+    excerpt: "Microsoft is eliminating some functionalities from its AI service. Microsoft intends to limit some facial recognition features for both"
+    publishedDateTime: 2022-06-22T13:17:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 89
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Microsoft-to-Restrict-Facial-Recognition-Capabilities-for-Responsible-AI-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "AstraZeneca’s rules for implementing responsible, ethical AI"
     excerpt: "Multinational pharma and biotech giant AstraZeneca has shared some of its rules towards implementing responsible and ethical artificial intelligence (AI) within its business. For the British-Swedish behemoth,"
     publishedDateTime: 2022-06-21T09:10:00Z

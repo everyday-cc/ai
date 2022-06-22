@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T13:35:00Z
 originalUrl: "https://seekingalpha.com/article/4519606-nvidia-micron-recession-headwinds-are-tailwinds"
 webUrl: "https://seekingalpha.com/article/4519606-nvidia-micron-recession-headwinds-are-tailwinds"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Seeking Alpha

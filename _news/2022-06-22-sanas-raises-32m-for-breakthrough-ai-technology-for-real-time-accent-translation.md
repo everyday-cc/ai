@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T13:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
 webUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Business Insider

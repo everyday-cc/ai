@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/see-how-3-industryleading-compani
 webUrl: "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Microsoft
@@ -23,6 +23,15 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "How Five Industries Are Using Computer Vision Technologies"
+    excerpt: "Computer vision has been around for decades, but in recent years, this technology has been advancing by leaps and bounds. Computer vision is an application of artificial intelligence (AI) that's able to understand and interpret images, identifying and ..."
+    publishedDateTime: 2022-06-22T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/how-five-industries-are-using-computer-vision-technologies/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Speech processing in industry"
     excerpt: "Speech can facilitate communication in many situations. It’s no wonder that voice input on smartphones and assistants such as Alexa, Siri and others are booming. Industrial applications can also benefit from this,"
     publishedDateTime: 2022-06-22T10:00:00Z

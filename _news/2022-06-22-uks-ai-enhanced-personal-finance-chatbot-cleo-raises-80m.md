@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T12:01:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/06/192627-uks-ai-enhanced-personal-finance-chatbot-cleo-raises-80m/"
 webUrl: "https://www.crowdfundinsider.com/2022/06/192627-uks-ai-enhanced-personal-finance-chatbot-cleo-raises-80m/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Crowdfund Insider

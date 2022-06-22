@@ -2,6 +2,205 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-17-ai-is-driving-hyperautomation-and-autonomous-factory-systems.md",
+      "title": "AI is driving ‘hyperautomation’ and autonomous factory systems",
+      "excerpt": "The hyperautomation approach allows organizations to automate as many of their processes as possible with tech such as RPA and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/data-observability-e1655328076213.jpg?fit=800%2C526&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/amp/",
+      "publishedDateTime": "2022-06-16T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey.md",
+      "title": "Maruti Suzuki invests in AI startup with eye on enhancing digital sales journey",
+      "excerpt": "Maruti Suzuki has taken a 12.09 per cent stage in Sociograph Solutions Private Limited under its MAIL initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey-41655442728485.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey-41655442728485.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/06/17/600x338/AI_1_1655443322967_1655443329077.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html",
+      "publishedDateTime": "2022-06-16T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-how-ai-powered-pricing-improves-margins-and-protects-consumers.md",
+      "title": "How AI-powered pricing improves margins and protects consumers",
+      "excerpt": "AI-powered pricing done right means consumers will enjoy personalized offers and prices set squarely in their comfort zone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/",
+      "originalUrl": "https://venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-928173784.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/amp/",
+      "publishedDateTime": "2022-06-16T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-ai-in-computer-vision-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028.md",
+      "title": "AI in Computer Vision Market 2022 Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast 2028",
+      "excerpt": "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028-2022-06-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028-2022-06-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources.md",
       "title": "EXCLUSIVE-Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources",
       "excerpt": "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago, according to people familiar with the matter and posts online, as the high-profile facial recognition startup grapples with ...",
@@ -969,171 +1168,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes.md",
-      "title": "Yseop’s AI Natural Language Platform Scaled by Sanofi to Accelerate Medical Writing and Reporting Processes",
-      "excerpt": "NEW YORK, June 16, 2022 (GLOBE NEWSWIRE) -- Yseop, the world-leading AI software company and pioneer in Natural Language Processing (NLP), today announced that Sanofi, the global healthcare ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/business/press-releases/globenewswire/8573085/yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes/",
-      "originalUrl": "https://www.kron4.com/business/press-releases/globenewswire/8573085/yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png",
-          "width": 598,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-microsoft-viva-sales-aims-to-take-the-busy-work-out-of-crm.md",
-      "title": "Microsoft Viva Sales aims to take the busy work out of CRM",
-      "excerpt": "The 'Sales' version will work with all other CRM services, such as Salesforce or Freshworks, Microsoft has confirmed. Viva Sales will take customer engagement data from Microsoft 365 and Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
-      "originalUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1655377468/itpro/Microsoft_Viva_Sales.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
-      "title": "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-robot-sales-in-north-america-see-their-best-q1-ever.md",
-      "title": "Robot Sales in North America See Their Best Q1 Ever",
-      "excerpt": "R ising consumer prices amid rampant global inflation apparently didn't stop spending on robotics in North America. Sales were up 28% compared to the same quarter a year ago. Addi",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
-      "originalUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
-      "publishedDateTime": "2022-06-16T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -87,6 +87,15 @@ related:
         width: 620
         height: 443
         isCached: true
+  - title: "Internet Data Produces a Racist, Sexist Robot"
+    excerpt: "Artificial Intelligence Workforce A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples’ jobs after a glance at ..."
+    publishedDateTime: 2022-06-22T12:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/06/internet-data-produces-racist-sexist-robot/368434/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 19
 
 secured: "hEX9tWC5pzzArYp7maqA/onlTO05XN1IaEn3sZ8RjCQ1pdnVizEzLyr6wMW9WfGnyWYfjT5fL6E9BF5IEXy5oGSmnL5fpEFGgApqeT/xJGiie6sYmTi3+2lxz7d/h+JnhUdeXcAx6rzuFdlzGU/onhUC8X7XJK0b3ftqeBTUkfacTorSf4PD7zvXvlAiB7PvR3Ly4WMA4qyhoKPeKBK8ZFDHd8iqsOL6G60tbpLH9ogvHXLuaF8x3rPXfMs/WA5Iv7TC3aSKMU5TEd8RT2l9YBwoFS0klsmcJxbdofsAXVQPFwD1b6hjEtmaQ2VyLoYX2ApoXuebpoAfuOQzOZRlqzKKc4I9fZlUxJ3kt9uDdo6lGBK0hkoJmjbak30QRkHZtJccIxv22l15LmOImIj13/zm2P80YcJzu8arU2b1NocBZYUk+FbgWLvyVxJN1RAKdsIrndOR0Z7NmqUFsBBivcfZPFwBkQyS7wmisBAdT0Gt39dfP2N4IpX4Z5rqXJWm2Ln+rGssi7eRRmy/+FXmfA==;htUTZ4GahHw7rABN0erwBg=="
 ---

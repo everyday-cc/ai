@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-10-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
+      "title": "Azure eats into AWS lead as cloud market continues to grow",
+      "excerpt": "Google is also rising to challenge AWS’s dominance, coming forth in Gartner’s ... as well as its work in emerging capabilities such as artificial intelligence and Kubernetes container technologies. Gartner also highlighted its expansion of their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
+      "originalUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-achieve-seamless-observability-with-dynatrace-for-azure.md",
+      "title": "Achieve seamless observability with Dynatrace for Azure",
+      "excerpt": "Microsoft Azure enables customers to host their apps on the globally trusted cloud platform and use the services of their choice by closely partnering with popular SaaS offerings. Dynatrace is one such partner that provides deep cloud observability, advanced AIOps, and continuous runtime application",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc185ce4-1b45-494d-9d04-1e533be6bc49.png",
+          "width": 1028,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T03:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-cognitive-impairment-and-function-in-sars-cov-2-positive-patients.md",
       "title": "Cognitive impairment and function in SARS-CoV-2 positive patients",
       "excerpt": "In a recent study posted to the medRxiv* preprint server, researchers assessed the association between post-acute coronavirus disease 2019 (COVID-19) cognitive impairment and kynurenine pathway ...",
@@ -1194,92 +1299,6 @@
       "provider": {
         "name": "Sioux City Journal",
         "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-microsoft-is-building-an-arm-powered-windows-mini.md",
-      "title": "Microsoft is building an ARM-powered Windows mini",
-      "excerpt": "Microsoft surprised the world — and its hardware partners — by releasing its first laptop: The Surface Book. It was a flop. But, unlike some Microsoft hardware experiments I could mention — the Surface tablet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.html",
-      "originalUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/24/16/build_blog_project_volterra-100928374-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.amp.html",
-      "publishedDateTime": "2022-06-02T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-microsoft-leverages-fpgas-for-real-time-ai.md",
-      "title": "Microsoft Leverages FPGAs for Real-Time AI",
-      "excerpt": "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Hot-Chips-Stratix-10-board-1-.jpg",
-          "width": 1044,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

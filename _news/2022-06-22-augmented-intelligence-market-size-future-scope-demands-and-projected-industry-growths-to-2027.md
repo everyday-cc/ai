@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T11:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/augmented-intelligence-market-size-future-scope-demands-and-projected-industry-growths-to-2027-2022-06-22"
 webUrl: "https://www.marketwatch.com/press-release/augmented-intelligence-market-size-future-scope-demands-and-projected-industry-growths-to-2027-2022-06-22"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: MarketWatch

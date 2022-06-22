@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T13:00:00Z
 originalUrl: "https://physicsworld.com/a/bridging-the-knowledge-gap-on-ai-and-machine-learning-technologies/"
 webUrl: "https://physicsworld.com/a/bridging-the-knowledge-gap-on-ai-and-machine-learning-technologies/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Physics World

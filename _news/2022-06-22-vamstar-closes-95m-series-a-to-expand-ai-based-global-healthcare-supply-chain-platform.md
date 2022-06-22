@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T13:35:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-vamstar-closes-95m-series-to-expand-ai-based-/2022/06/22/9626362.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-vamstar-closes-95m-series-to-expand-ai-based-/2022/06/22/9626362.htm"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: TMCnet

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solut
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Skit.ai Offers Best-In-Class Conversational Voice AI Solutions to Address Contact Center Crisis"
+    excerpt: "Leading voice AI startup expands global footprint, offering revolutionary customer experience solution to U.S. –NEW YORK, June 22, 2022"
+    publishedDateTime: 2022-06-22T13:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/skit-ai-offers-best-in-class-conversational-voice-ai-solutions-to-address-contact-center-crisis-1031543302"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "iESWYQjlbOL6pjQthShJDnc24yzaN1PsrrNXlxqK9Oh6OpeFGKAWKhLGfOc3jEgdQPbsZoI9J3Ic2jPccQOdh1yZpYUFNviLmK2BZALR7n7cTmoQwsnkSFMXnbxbvcD0i1Zn8J8Hvh46l3CldzNOuw+F+8fkTaUlQ5ldITQSpp7Wk1UEt8MXn55FRkUihUtZfrFuiPZzb+pf8TM8AZLizupBLfHkmphu5BC9pqz21+ccGhS84DW6okYGueaSFuchkRIGaGQ1oRkI1eTR5+PswlSuvVfAevv5C+Raf7eMtV3hCxTx4LiNdQ7gl0POQnmxuaIbjX/aBiAam6z2JN/RlPrQNVOPKrNQBQQ+D5tVOCZ+yPgX9+NA39x+PmChHFsEP8bdUM6vCo2KEMpI+WCfMBBlB40AcuoNuXoDBdm24mPlQvyLI73lIpz19DMhGMQRJYF7PVF6U/iKzdyGyOKUWTpnKYpYqhmxhxmQP4ocIRUOibNBNakPNjdOsRkVM8FuGiLMz8HNfAw3uOsqlcrFFw==;iCpynj2RwcrVk+pfhqnphQ=="
 ---

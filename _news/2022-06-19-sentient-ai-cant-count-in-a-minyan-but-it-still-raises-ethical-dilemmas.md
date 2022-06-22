@@ -115,11 +115,13 @@ related:
     excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
     publishedDateTime: 2022-06-21T09:12:00Z
     webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    ampWebUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-publicradiotulsa-org.cdn.ampproject.org/c/s/www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
     type: article
     provider:
       name: Public Radio Tulsa
       domain: publicradiotulsa.org
-    quality: 19
+    quality: 37
   - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
     excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
     publishedDateTime: 2022-06-19T16:24:00Z

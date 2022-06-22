@@ -7,7 +7,7 @@ originalUrl: "https://cogconnected.com/review/ai-the-somnium-files-nirvana-initi
 webUrl: "https://cogconnected.com/review/ai-the-somnium-files-nirvana-initiative-review/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The Somnium Files nirvanA Initiative is a bizarre anime nightmare"
+    excerpt: "Depending on the person, it begins as either the most exciting or most horrifying episode of \"Jeopardy!\" ever made."
+    publishedDateTime: 2022-06-22T14:32:00Z
+    webUrl: "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare"
+    ampWebUrl: "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true"
+    cdnAmpWebUrl: "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true"
+    type: article
+    provider:
+      name: KGUN 9
+      domain: kgun9.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/40a592b/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2F52%2Ff914e2ee4c3d9a7a252731ec441d%2Fai2-storytrailer-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative Review – Detecting Excellence"
     excerpt: "Image Source: Spike Chunsoft Six years ago, ABIS (Advanced Brain Investigation Squad) detective Ryuki and his AI partner Tama were assigned to the so-called HB (Half Body) case. At present ..."
     publishedDateTime: 2022-06-20T17:01:00Z

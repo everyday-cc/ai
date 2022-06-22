@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "“Taste of the future” first artificial intelligence-created craft beer to be released at NOLA Brewing"
-    excerpt: "The AI Blonde Ale will be released at a Launch Party at Nola Brewery on June 20 to coincide with CVPR, the world’s premier computer vision event."
-    publishedDateTime: 2022-06-17T22:22:00Z
-    webUrl: "https://wgno.com/news/louisiana/orleans-parish/taste-of-the-future-first-artificial-intelligence-created-craft-beer-to-be-released-at-nola-brewing/"
-    ampWebUrl: "https://wgno.com/news/louisiana/orleans-parish/taste-of-the-future-first-artificial-intelligence-created-craft-beer-to-be-released-at-nola-brewing/amp/"
-    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/louisiana/orleans-parish/taste-of-the-future-first-artificial-intelligence-created-craft-beer-to-be-released-at-nola-brewing/amp/"
+  - title: "Time for artificial intelligence to get its own code of conduct"
+    excerpt: "OPINION: Eerie news about artificial intelligence (AI) and a moving funeral I attended united to make me think about the rules of conduct in the world of humans. Last week, a Google employee claimed an AI chatbot he worked with had become sentient – that ..."
+    publishedDateTime: 2022-06-19T17:27:00Z
+    webUrl: "https://www.stuff.co.nz/opinion/129003196/time-for-artificial-intelligence-to-get-its-own-code-of-conduct"
     type: article
     provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 42
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 41
     images:
-      - url: "https://wgno.com/wp-content/uploads/sites/2/2022/06/First-artificial-intelligence-created-craft-beer-to-be-released-at-NOLA-Brewing.jpg?w=1280"
-        width: 800
-        height: 450
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/y/n/image.related.StuffLandscapeSixteenByNine.1420x800.24szi4.png/1655648420696.jpg"
+        width: 1420
+        height: 798
         isCached: true
 
 secured: "I3UQulhOUdZ6Wx1WthuUTCjBRvYxX9ilcaR4NUVcIK1qdK8X8YyJq6JihmzMteN5pUcfopYdNNvwIWcQd08UohQFlI+V4xBpHchF5lObj/MqvPRbD90/5rQeKopvJkMh8g5Mdi7/Soor56v53D2kF5MStGjAWyw9NseC+6ZMgdFEluTZM98pJ+Fy09hoYXghQFXAU+dd3uHglrPzsxenJ54TrAEwspCOKRDyAt5EDJn1i8qcoXsbl3HyXLskef2Pm7T3xr+j59aVy4/g/ZJ5Q+jWazygylBrF2hZlS5zxV9nhjbomNg2cCqPZ9stIMLvQjP/8N8ZQ+ovSWV8abZPvOI/3jQDi843/DlJviklQi0=;7HVkRvp3CmwJGKMCqzDZsw=="

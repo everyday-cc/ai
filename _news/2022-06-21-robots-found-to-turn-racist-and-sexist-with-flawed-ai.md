@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 620
         height: 443
         isCached: true
+  - title: "Internet Data Produces a Racist, Sexist Robot"
+    excerpt: "Artificial Intelligence Workforce A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples’ jobs after a glance at ..."
+    publishedDateTime: 2022-06-22T12:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/06/internet-data-produces-racist-sexist-robot/368434/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 19
 
 secured: "MZiO1QOqm3F4AieeyVA/A5JeNIG6Nxm1BSj4BtgGl8xG+mNEpjF6v4KAnnw/LC/WQN6Phxwx901N6brg6C2fcyy12T/3CX3VE54t207dleKKDNq7HF5uj7DmelxRNVAnn/loQ+J33HrPPVAnIxswrDhIzSbrfQ1OUT0L986AoSqhARJlV+WuxB+IOfZyqzGU8S+p+dew5IJ27JlYk2PI+ZK1HS5ViSnslHa7MGXFSqYltYo/8wGKBiGTovXEwVaMLokbpHq7A8TseGiSpNg4d+UYPtK5i+55FCgOkUGonflH9AwdLKzTBMCh7fqMvid88A5wOp6MPlDBH864ub12F6XCkHzMabCZ1Lc5IOoc8g/J7EtPoJZgxAFAGb9VMVjsQlaKQ46kywIcpImjcWCf091WoSpMV/pop+vzVwRoLm1jBd3iugRfbW58ta72kFGLv0TrfdJXgsrQCg9hECbCIq9R8yMsXeaNm0KJy2RBRZUL+Hu/LlTO3i9Io8iWVu+6qtwff30VsS2g2+wzo333EQ==;TUK5gXuZmEErdaHUHNOokw=="
 ---

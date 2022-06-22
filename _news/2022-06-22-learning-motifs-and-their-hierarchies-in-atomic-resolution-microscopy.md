@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T13:08:00Z
 originalUrl: "https://techxplore.com/news/2022-06-motifs-hierarchies-atomic-resolution-microscopy.html"
 webUrl: "https://techxplore.com/news/2022-06-motifs-hierarchies-atomic-resolution-microscopy.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: techxplore

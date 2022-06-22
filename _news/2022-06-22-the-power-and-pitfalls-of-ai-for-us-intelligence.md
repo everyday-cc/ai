@@ -78,6 +78,15 @@ related:
         width: 664
         height: 916
         isCached: true
+  - title: "How AI Can Make Strategy More Human"
+    excerpt: "The power of AI is now within reach of all companies, opening up a new world of strategy innovation and enabling companies to leave the constraints of legacy architecture behind forever."
+    publishedDateTime: 2022-06-22T13:20:00Z
+    webUrl: "https://hbr.org/2022/06/how-ai-can-make-strategy-more-human"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "3eWhq7Rr7Cp0EWGXGrqY3f9oWx06YyBD38f0/1npriOKDpYxOaFZPPB82ik1ml9sYWFQKDf7bv+Too5rjuOVyGVZUribIVmkQrrvtjwkQXU563D05yK5yenty2x+1XkBZXLOxrhFhbhQd8KyY26FXHC1RJTlPKy+6bjzOTRkzwXcVeERXz4LXEVc2+dID4639ccqBM9s7YBWDm7g5utn7Nzxfbwhdh8HLIi1WeJZfWWsSgz54QUcebVgLbLvemkJ/z9bs6HclTFOnntdvVcJ3e/a9h4QQe+mubo9Se+me4Q+1qdNHAhwZQWLGBzoBZPmBmLHQ5ldGQ0SuVf+afPYaAwm+EMYpKA4wSpWhUKsRs30mLpkRh1qUWFE2W28SzdzbXsUwKaXMKk3FSTYNuIMidv5diFuq0XlWo06YrehDBXz3Q4Vf7yXWkcbAuUvnOmiIAzU1KQDlDfZyio1Vo4hNyNfcfPkfkE1yRJdmzejvHTUWLU6Q8fCpAF/r30b83yf7NknGJjpCj5sBypzagWpiA==;QPdJTZ/KIwt+fIQ7owc9lw=="
 ---

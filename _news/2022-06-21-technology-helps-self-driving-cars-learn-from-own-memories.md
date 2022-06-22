@@ -52,6 +52,15 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Technology helps self-driving cars learn from own 'memories'"
+    excerpt: "Researchers have developed a way to help autonomous vehicles create 'memories' of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
+    publishedDateTime: 2022-06-22T15:27:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 36
   - title: "John Deere: Leading The Charge In Self-Driving Technology"
     excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
     publishedDateTime: 2022-06-22T11:47:00Z
@@ -77,15 +86,15 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 20
-  - title: "Technology Helps Self-Driving Cars Learn From Own Memories"
-    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This i"
-    publishedDateTime: 2022-06-22T05:00:00Z
-    webUrl: "https://www.realclearscience.com/2022/06/22/technology_helps_self-driving_cars_learn_from_own_memories_838521.html"
+  - title: "Artificial Neural Network Helps Self-Driving Cars to Learn from Own Memory"
+    excerpt: "By using artificial intelligence to detect pedestrians, other cars, and possible impediments, an autonomous vehicle may go across city streets and other less crowded areas."
+    publishedDateTime: 2022-06-22T13:12:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13050"
     type: article
     provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 4
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 17
 
 secured: "/0aBwlucrzhCgCk91MzJhRNcLWnfEooWSiAZHHeBi9ZmMKr1PfgVBhQ2vjjfT4gJQtPfWYFfznfml0j+8fHhBgelmKquYPExY9904N7eVNrt6uiXNTyg6hzwpCqYas3rNNDCgfrs/MDY6bjYeEQ9ft6NZq+gDlPNgz6+02Ury1eCOT3zolyylyKYd3v+Of7ZsfgK00XyQ2pxp7JUUI6CGZhcnUo/l4uTB8irbvByrWAw/u5NTbB9zsiTcnOO9xugoGzJ+VyiMd5Cro9VFA+plrnrmTDUtjQUANGR6TX58zfdoO8H1dGGwICBuKNjo6yPgMS7adH2jTfO0A9IepAsgu0Kba341XL8MrxYaGe2VKQ=;/xeRf6ysJbP3HcLi+mVAZQ=="
 ---

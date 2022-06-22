@@ -44,6 +44,15 @@ related:
         width: 800
         height: 539
         isCached: true
+  - title: "With new warehouse robots, Amazon looks to invent its way out of its safety problems"
+    excerpt: "Other robotic systems shown for the first time included “Cardinal,” which uses AI and computer vision to select and lift ... and expects Cardinal to start rolling out to its fulfillment centers next year. Another new system, called AR ID, uses computer ..."
+    publishedDateTime: 2022-06-22T13:46:00Z
+    webUrl: "https://www.geekwire.com/2022/with-new-warehouse-robots-amazon-looks-to-invent-its-way-out-of-its-safety-problems/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 42
 
 secured: "ZEDuFaGqEVDGldE5VBD21jBVFvB8QGgrhNsTlBo0Jri7pNB+F1tNRVXa7ixBpOkcIMO4NW+4slFuXIShFIMur6fwNFMluFl95uOX+eXSFLzHp3N/mjK8+8kl0FMvPHXdFY5qpiKBuWwTbJtP3MUCojGjxgBvB4I+ssjXhtbwO9VHTbwovJa7mBYLPrXmeVsXcH4kqMzPyI1Wiwo0bwdHMd/3+89QRyhZtXPtmn+uQHHGEr/HFJdbN3JzdRNw0VFdfs3P7ooQD6ZbEUfNAZrG/HjYzPvSstRm5M9y/jDWbhY4vz2ffeGU5bwwSgqplNgSlnBM2b59nrLYoOL44m+O8EsY0RnHQPYQuV1LizbcfOQ=;gs3WyofApTjDl/Z1j47qSg=="
 ---

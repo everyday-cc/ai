@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-sta
 webUrl: "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-state-of-managed-security-services-2022/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: VentureBeat
@@ -38,15 +38,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Drive Capital-backed cybersecurity startup cuts jobs amid economic downturn"
-    excerpt: "A cybersecurity startup that had rapidly growing revenue at the start of the year has cut one-fifth of its workforce amid the economic downturn. Finite State Inc. eliminated 16 positions this week, founder and CEO Matt Wyckhouse confirmed in a written statement in response to questions from Columbus Business First."
-    publishedDateTime: 2022-06-17T20:45:00Z
-    webUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2022/06/17/startup-finite-state-layoffs.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "wh7LfOnEHqE5H8KS6EfsRtheAoKjQH1ctyHIhLOxcm9Z1F1sSZYy6gEEKzMQkIjriistqlMsOzCt6rZWE00UIxJG6zXemVTKr1CkLkXCbKjn0g/O6UdARROYMzVJKpqwV2yVPK84Xe7v2fUU8uadiD7XtxbPtfItLRY9Ex0rk47BH/xJMSz5tkcQu3UDRaSFCiApRE67cpV5RQptF37XBWC9eZpOVwNhfbtDrb3edzrbUmbLSAk+Iu3cufMvsLaglkp2Ur1jjw5opIfx75wEWEgQzVM58osbOntT2XTy7POOX/6ytx0MpMIupQn5ppOQiFXBQkRn2nUhENmeTEbXTJ+ggAAbeUxl0mpOALZroEaBCaXug6YdpBRgQ747mRidduVPEA1hqPXpTlnRRdYoIX9yZ7BSjD1S6+EOaRIONV6PDHee4arN1Xk169iES0iUzAsoGdsy4wZmsdck9YQGPUSHPpIxcQ+jJSr6+Qm8Pds0JSJWoRLoqj45AVMkis/7PKEbFvbea1m7JNqNHZG4xA==;aWAdZmCCVZV+OSveQHIOag=="
 ---

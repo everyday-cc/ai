@@ -41,6 +41,22 @@ related:
         width: 4081
         height: 2247
         isCached: true
+  - title: "Microsoft to Restrict Facial Recognition Capabilities for ‘Responsible AI’"
+    excerpt: "Microsoft is eliminating some functionalities from its AI service. Microsoft intends to limit some facial recognition features for both"
+    publishedDateTime: 2022-06-22T13:17:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 89
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Microsoft-to-Restrict-Facial-Recognition-Capabilities-for-Responsible-AI-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'"
     excerpt: "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI."
     publishedDateTime: 2022-06-21T18:54:00Z

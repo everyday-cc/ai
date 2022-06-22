@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/the-frictionless-economy-is-here-how-ai-is-actually-liberating-us-from-technology/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/the-frictionless-economy-is-here-how-ai-is-actually-liberating-us-from-technology/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Forbes
