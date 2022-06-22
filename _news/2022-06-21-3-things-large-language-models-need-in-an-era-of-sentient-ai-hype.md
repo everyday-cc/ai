@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/009856ccdcd012e776dba72b3dc1444fa900596c/2022/06/18/faddab42-212e-4d7a-8150-b993f1b05ce4/brain-in-a-jar-crop-for-twitter-new-new.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 802
-        isCached: true
-  - title: "Should we be concerned about Google AI being sentient?"
-    excerpt: "From virtual assistants like Apple's Siri and Amazon's Alexa, to robotic vacuums and self-driving cars, to automated investment portfolio managers and marketing bots, artificial intelligence has become a big part of our everyday lives."
-    publishedDateTime: 2022-06-17T14:28:00Z
-    webUrl: "https://techxplore.com/news/2022-06-google-ai-sentient.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-google-ai-sentient.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-google-ai-sentient.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/google-1.jpg"
-        width: 2880
-        height: 2160
         isCached: true
   - title: "Forget sentience… the worry is that AI copies human bias"
     excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"

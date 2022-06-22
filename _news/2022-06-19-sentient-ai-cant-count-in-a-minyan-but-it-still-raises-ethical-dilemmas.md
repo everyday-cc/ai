@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Should we be concerned about Google AI being sentient?"
-    excerpt: "From virtual assistants like Apple's Siri and Amazon's Alexa, to robotic vacuums and self-driving cars, to automated investment portfolio managers and marketing bots, artificial intelligence has become a big part of our everyday lives."
-    publishedDateTime: 2022-06-17T14:28:00Z
-    webUrl: "https://techxplore.com/news/2022-06-google-ai-sentient.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-google-ai-sentient.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-google-ai-sentient.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/google-1.jpg"
-        width: 2880
-        height: 2160
-        isCached: true
   - title: "Forget sentience… the worry is that AI copies human bias"
     excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
     publishedDateTime: 2022-06-19T06:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-curtail-some-o
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/"
 type: article
 quality: 108
-heat: 238
+heat: 248
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/22/16d1fc06-ff1a-4d91-a4c5-f1d114de2f08_11e4956d.jpg?itok=D-q1jv85&v=1655864958"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Ditches The Controversial Facial Recognition Tool That Detects Emotions; Here's Why"
+    excerpt: "Microsoft has decided to restrict access to the face recognition capabilities made accessible through its AzureFace API."
+    publishedDateTime: 2022-06-22T06:07:00Z
+    webUrl: "https://in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why"
+    ampWebUrl: "https://in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 97
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/5e063cbb-467f-467d-9144-e03fb0b3c462_kf7x.620.jpg"
+        width: 619
+        height: 374
         isCached: true
   - title: "Microsoft will remove emotion-detecting AI tools from Azure"
     excerpt: "The technology giant said the AI features, which have been criticized as potentially biased and unreliable, will no longer be available to new users beginning this week and will be phased out for existing users within the year."

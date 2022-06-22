@@ -26,19 +26,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "Ferrari Says Never to Self-Driving"
-    excerpt: "The Italian supercar maker might be about to release its first SUV, but says you’ll never see a self-driving Ferrari."
-    publishedDateTime: 2022-06-17T14:51:00Z
-    webUrl: "https://jalopnik.com/ferrari-says-never-to-self-driving-1849076278"
-    ampWebUrl: "https://jalopnik.com/ferrari-says-never-to-self-driving-1849076278/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/ferrari-says-never-to-self-driving-1849076278/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-
 secured: "wgXVy5hz8u96q86ChDk6MqrUUoIXvk+Az4ZExgZHU4Ibv2zjJhHuWQAZ28c1PeZuFDoQGW6ZaWDYnEqP2UiSDhFr1ynitMsH7+0qbcGu27kvnRnjqPMEABzyUAMMKSoKybsZdLVQxzO+PsExBRBT1+y+EXVWCyEgtzEkSjd/hQL/4I7yXUGsu5Kqo609vQrim7qko7IiQtuf/ste3sTQWlxMm2IMU4e3x+t7rS49xmG8TVgxicQS1PIi4NmBWOLWKTNa2enBi7k3t8rMUY4CcCbJb8TKPVrPQkWw5Z1qMgY4Uif//4Zcb4bEpTK15enqHpnLWi9B6YvWhb7r/9o3Ao2i3M39p6dAyyPi4Jd7UBI=;124bcJVR1IAJ2woI+DaHVQ=="
 ---
 

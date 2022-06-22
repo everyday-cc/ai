@@ -25,15 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT"
-    excerpt: "In this episode, you’ll get a behind-the-scenes look at how three companies are using cutting-edge technologies like high-performance computing, Quantum, and AI to solve complex challenges, power innovation, and generate new kinds of business impact."
-    publishedDateTime: 2022-06-21T10:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/"
+  - title: "Dynamic AI Agents enabling the great reboot of the BFSI industry"
+    excerpt: "In 2000s, a website was necessary for most businesses. In 2010s, a mobile app became a must-have, and today, conversational AI is fast becoming integral for businesses to successfully cater to rapidly changing customer"
+    publishedDateTime: 2022-06-22T07:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 55
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "The CEO Rebooting AI"
+    excerpt: "Back then, we had to build everything ourselves, like hardware, software, data centers and even dial-up access networks—without the convenient, low-cost broadband and AWS type services that allow us to quickly launch services,"
+    publishedDateTime: 2022-06-21T19:13:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2022/06/21/the-ceo-rebooting-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "yP+Ki/RUY3gKY0YPD/xnvTt+IeQpxAMaCuuHtpCwsZKR7xLedgsz+TtsJXMrgDVE1vuVPvyaKkWnVWMvNnOPVg093DI6ReIxaCPuyLOPGKm2Dvc/FPuD1EbCVCLsu43NFdtYbjLhunvBBYWmX1VwCMtKykaahuUYYvktTC9Rx3EZOM6/ytVZu9hACc2Bm2iyxR1i4/5Sdrl5JJmbVeNDa8XsvpERpL9OQOQRT3Y7KyL+O7a87kwFuMKXqQsw1jEivoXxyUBRXFGPWEkF4tf+DYn9McmK+VmEGkPXuRxeX2L4UNqdQeFApHBAouhHWKFr3nPycU+ihheAzpYlQHHTiIO0J84uBGBw5A5e06nX85Y=;ITrV6ueNAs6KmRdJW8bEaQ=="
 ---

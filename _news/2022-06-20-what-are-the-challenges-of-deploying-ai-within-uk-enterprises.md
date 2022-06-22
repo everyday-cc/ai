@@ -7,7 +7,7 @@ originalUrl: "https://www.hrreview.co.uk/hr-news/what-are-the-challenges-of-depl
 webUrl: "https://www.hrreview.co.uk/hr-news/what-are-the-challenges-of-deploying-ai-within-uk-enterprises/143734"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amy raises $6M to help enterprises sell better with AI"
-    excerpt: "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Israeli startup Amy, which provides an AI-driven solution to help enterprise reps build better ..."
-    publishedDateTime: 2022-06-17T13:52:00Z
-    webUrl: "https://venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/amp/"
+  - title: "AI Is Not Sentient Yet. But That Doesn’t Mean It’s Not Useful in the Enterprise"
+    excerpt: "Have large language models finally crossed the chasm and become self-aware? A Google researcher recently shocked the world by declaring that Google’s"
+    publishedDateTime: 2022-06-20T19:59:00Z
+    webUrl: "https://www.datanami.com/2022/06/20/ai-is-not-sentient-yet-but-that-doesnt-mean-its-not-useful-in-the-enterprise/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: datanami.com
+      domain: datanami.com
+    quality: 33
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1097999080-Thomas-Barwick.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/sentient_AI_shutterstock_agsandrew.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "Ax6Zy7LCdSA3Cr/dSakB/tvCki1GpIdTCwF6mICZML/XkvcLWg8LjmRJXvZfsGMEH5srmr08ezzpQiYi6vprJHcslCV1UBfs9ibCsdksNXJOtdBs7R740t3BRDcSwC5dUgWXLIV4xZ1+K41juCu8g0oH8a5HdDt5gE2MrpUmP8WAQC2Zc0cOKxgZJE2UddFgCrGEGOpYISnqnqp6qntQIhZhYEKGTJjPoufvp6AR1TGsojnWe70qXva1mD55Uw+5bqGEMcjAX6ADzL/Eqx7F2QH34BnShq1lpNu4EhE6pMv6KhDlxAFTzx9Ucc/zYQ63GDCQx+L79wQjQBuUv7UCgXUMjIVIhTMQxMZI8Q0A6Qs=;iP2pPbazH+Q1aV6HruFbxg=="

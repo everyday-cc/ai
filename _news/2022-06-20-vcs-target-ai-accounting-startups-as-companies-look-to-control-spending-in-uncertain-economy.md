@@ -25,22 +25,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Companies commit to mitigating AI bias in advertising technology"
-    excerpt: "A collection of organisations including technology vendors, tier-one brands and agency holding groups have committed to action aimed at mitigating bias in advertising technology."
-    publishedDateTime: 2022-06-21T04:30:00Z
-    webUrl: "https://www.cmo.com.au/article/699193/companies-commit-mitigating-ai-bias-advertising-technology/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 39
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_xxl_214569381.jpg"
-        width: 800
-        height: 564
-        isCached: true
-
 secured: "thYBKb52aE6F4YIpDTqTZ0WY/zIMhmRrpydpRUtpwURwvCNkc9yHgN2u1e8+DjJYF4RA1QZZBzYSZmZPEE2ER+OWzUdq3/xlrcWN/K+MckieXvPprqUmDQknlL828rvFiRaHrM7SOQU2AGtzC0R/w7Ctf80VNvphjzczxgv6TDBMnm44LV1MbRiL2YzIrK0omwUT9QG0bKPBYXhV2WDOYIZNQtVUgKX2NQJpmI4kdn7jCkuIimFcBYt3h3d4JxC2FbSEZWYVVQnf9jxcsgqc02veXPIcAX5oXIIJ+3ypuxWe0Ry7nv9up4ILG0FLHW8kpPsXvyf8ySV2+d4xLzOt8PC+LMoCkXWKZys4qXCEJfs=;1a1K+0xzLnmBDNcDebx+lw=="
 ---
 

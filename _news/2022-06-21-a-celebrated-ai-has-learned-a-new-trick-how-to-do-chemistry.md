@@ -38,22 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "A celebrated AI has learned a new trick: How to do chemistry"
-    excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-    publishedDateTime: 2022-06-17T14:30:00Z
-    webUrl: "https://phys.org/news/2022-06-celebrated-ai-chemistry.html"
-    ampWebUrl: "https://phys.org/news/2022-06-celebrated-ai-chemistry.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-celebrated-ai-chemistry.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-celebrated-ai-has-le.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "mWn1KFk5AX1C1z+zqrsYTJCtvqukytGVRas/QvM5TyAPbwt3VWzjiAsYaOLSgMxXfmVeRuSnvRHB2+YAHYLnp5gS0BlPgwTXAkH+HlYVmObPAHOEfjQ2XU2KCLMExqnZIFAdhEULebEhCjzyrs+9UI3voXELTVJq9wBo4XQoYcBkZ08elUMaizyzxgfB/vvVn00NVRflqsOKcltT3c+CuB0PHlBz94T8azAwzI54N1ekwk2j75Wh6DswgUPUjw4b55ZLhF4enrjrbWWdkWGaJb27oVfw+90GRWujzVoSIaNibZRiCAuwZTcLrm0xLZt82l3oZ2ZPMR6xVoxaZpYWrG4ascT0myB5dNjMjWLCRU6HkFkXuXI6v2O7Oh4tgsRtbWnUyqu9U1Q+AccNXAHTxDZQAjQLl2xjyECRVv1aBofSEuHjAELW3H7mrk0lPwjNcHwsvUFehoZt3fkqfnT6h+qvcwmwXdJ8OMImqgPC75HsqGxsLVpwOHZs/29CI4xc3yx9TS90MD4xh+GiChjQ6Q==;o9HtgbkjIZCSotqM8psbJQ=="
 ---

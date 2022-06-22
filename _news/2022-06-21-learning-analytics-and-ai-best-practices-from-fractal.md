@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
-    publishedDateTime: 2022-06-21T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
     excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
     publishedDateTime: 2022-06-21T11:37:00Z
@@ -81,6 +67,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 33
+  - title: "Clinical research and drug development accelerated via analytics"
+    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
+    publishedDateTime: 2022-06-21T12:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "M8mLV/OkYGHlpRo1tyLQns9U/zrRIUDBG4jzmnvC9oY/bv/DtqnN/IqFmEJSj/69GyAa87BVsjpee2P+ae/NRzYgzMWNKd+ugLam9DrmO6eaKHqhFJvQCova8nfYEGfFqGjqFycVP/KeowEXOheq4bXhzZVfPD04nkJPrwc/ywM5OPqN104qCGHOy1MABLp9XC8+zU3k+a80Z6uziUNq0pSuAPXWwq5pqczf8f3CFLOpYlPD1dO4EcTPxG3qmNfhh4B7sHKJRSnISOqYH80Id7BwiwNavw3kk0mu9PGaB3F7t6I+IiitmAc+f0BlZovxQoHW+odSuJoetpvSgOuUoH4HRpETU0EyAzJBLQdwwdlIsb5ObxEjury8lmdFtC99FUt2YwerBXyGtTLujVb2VEUiJ2VOSnL2O3mnAbVNUyGtYuJZ/Nc/KgH4NvHiBgU1vqC60z0OtKdfvjFRgVb9lkMTwn/ss8CMGTu2Yf4EglYgYYtcruw/Gn7k9EFcX63bhi+ATQvGOwBPGdBWyl6mFQ==;m6+Sb1bJn+1m7HGbUXwkLw=="
 ---

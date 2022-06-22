@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/deandebiase/2022/06/21/the-ceo-reboot
 webUrl: "https://www.forbes.com/sites/deandebiase/2022/06/21/the-ceo-rebooting-ai/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "Kona AI Names Vincent Walden as New CEO"
-    excerpt: "Irvine-based Kona AI, a startup in AI-driven compliance and anti-fraud data analytics, appointed Vincent Walden as its new chief executive officer. Walden, who was a partner at Ernst & Young, most recently was a managing director with Alvarez & Marsal’s ..."
-    publishedDateTime: 2022-06-17T18:52:00Z
-    webUrl: "https://www.ocbj.com/technology/kona-ai-names-vincent-walden-as-new-ceo/"
+  - title: "Dynamic AI Agents enabling the great reboot of the BFSI industry"
+    excerpt: "In 2000s, a website was necessary for most businesses. In 2010s, a mobile app became a must-have, and today, conversational AI is fast becoming integral for businesses to successfully cater to rapidly changing customer"
+    publishedDateTime: 2022-06-22T07:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
     type: article
     provider:
-      name: Orange County Business Journal
-      domain: ocbj.com
-    quality: 37
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://d3o53yol1vmqc8.cloudfront.net/wp-content/uploads/2022/06/Walden_Vincent_78424-HS.jpg"
-        width: 743
-        height: 1087
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "Artificial intelligence companies leading the way in the power industry"
+    excerpt: "View the Leading artificial intelligence (AI) companies in the power industry and download your free guide to AI in power here."
+    publishedDateTime: 2022-06-17T15:23:00Z
+    webUrl: "https://www.power-technology.com/buyers-guide/top-ai-companies-power/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 39
+    images:
+      - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/16/2021/12/Global-Data-Logo.png"
+        width: 512
+        height: 342
         isCached: true
 
 secured: "mfg7COBuhjhh32nyWv5E8fANKIGTzSh7zkROb0pbyK0mEjlhWoVS03sLNuoZ4zUv/LWXOni2TfIh6MYr2vPvejSVln0McJo4xjLDFyLnlMEEfCIaA8K1koxzzIGkpmbN/saMizetmPB8lnDB26/Rx0uq7fG8eFRNJmc+npmz241LAa3+9iAb7sdMKWqMbXkxOTsA7tnk1oxzs9m8DHEw200Kp1GOs4bDJZ1Z2MM9jzoY3qKRkUMvNECq6tVWwcbkHXbLSBIl0eVi/nB3BSrHSZcLYlJWTVWBDmJWlBcR00eg8EPWAke7mPSSuGsr37hperRbCXGghJngeRuYDCn2gO8JMIsWAh5+F6Qe8TjEv6IreeVjrJ+ryqp7j7mkTguP60+j5Y5GlkE+g7tncB0gA9ouCB60l25EBwdupsibNb04aqCCMlv0q1Olc9WfAhrTStU48cyDmPcBC8wqyirchxCOLYiMV8YvDfvUMF5C8J8D8wFlNWtGfpmSuoKMYg4kJLIK6kZrz4Vg+38aK8LEkA==;yPnIhqKG+53UMipGzzBMRQ=="

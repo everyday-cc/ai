@@ -58,15 +58,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "How to use human-centered AI with Forethought and NEA"
-    excerpt: "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,"
-    publishedDateTime: 2022-06-17T13:27:00Z
-    webUrl: "https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "AI’s abilities may grow, but will never attain humanity"
     excerpt: "Without question, therefore, artificial intelligence (and the automation it enables) can be of great benefit to humanity as we use its strengths to augment our weaknesses. But knowledge is about as far as AI can take us,"
     publishedDateTime: 2022-06-18T13:24:00Z

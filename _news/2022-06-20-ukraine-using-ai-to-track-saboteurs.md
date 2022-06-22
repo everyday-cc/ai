@@ -40,6 +40,15 @@ related:
         width: 753
         height: 502
         isCached: true
+  - title: "How AI helps improve the workforce"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-06-20T13:40:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/how-ai-helps-improve-the-workforce/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Your business needs AI. Here’s how to overcome decision paralysis"
     excerpt: "Despite having more data and greater access to advanced software, decision overload paralyses many businesses from adopting AI."
     publishedDateTime: 2022-06-19T23:19:00Z

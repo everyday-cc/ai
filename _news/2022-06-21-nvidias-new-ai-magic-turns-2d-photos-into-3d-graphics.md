@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-i
 webUrl: "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 40
+  - title: "NVIDIA-based board targets advanced AI computing"
+    excerpt: "An embedded single-board computing (SBC) engine leverages the integrated deep learning capabilities and rich I/O of the NVIDIA Jetson AGX Xavier. The 3U CPCI Serial-based JetKit-3010 delivers artificial intelligence (AI)-enabled video inspection,"
+    publishedDateTime: 2022-06-19T08:59:00Z
+    webUrl: "https://www.eeworldonline.com/elma-nvidia-based-board-targets-advanced-ai-computing/"
+    type: article
+    provider:
+      name: eeworldonline
+      domain: eeworldonline.com
+    quality: 39
+    images:
+      - url: "https://www.eeworldonline.com/wp-content/uploads/2022/06/elma-6-17-22.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Nvidia’s 3D MoMa creates 3D objects from 2D sources"
     excerpt: "D MoMa, a new rendering technique from Nvidia, creates 3D objects, including a mesh, material, and lighting, from 2D images."
     publishedDateTime: 2022-06-21T20:00:00Z

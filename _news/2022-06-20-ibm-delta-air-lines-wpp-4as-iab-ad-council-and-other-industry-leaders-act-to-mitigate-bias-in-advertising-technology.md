@@ -30,20 +30,6 @@ images:
 
 related:
   - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
-    excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising Technology CANNES, France, June 20, 2022 /PRNewswire/ --Today,leading companies committed to improving fairness in marketing campaigns."
-    publishedDateTime: 2022-06-20T21:52:00Z
-    webUrl: "https://www.malaysiasun.com/news/272592224/ibm-delta-air-lines-wpp-4a-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 14
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1655057948721.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
     excerpt: "To learn more about IBM Watson Advertising solutions and services ... About IBM IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 ..."
     publishedDateTime: 2022-06-21T19:37:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262271&cat=PR News Wire"
@@ -53,6 +39,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "zqvymOC3AVLROGP3jfbPmji/VckwCZYgJMbrBR9rQNi9mpHc9xU5MdsDeyuP7ZoSz6oFjgIFp98pxk9T5UD1+Rufq9WSDvTGUvIhWmkMhQEwUv7Tomr+5HkINcwshBcsSVagC4dxokvXHCvxMs1IkhtaanW8NJnZUmoindfPH4VMUUKXOwE/nq0XSFBIi0NkoZKVsg7S19s4OupTu9KncR8FyrfgC4MJ99uZEh/73/EOonn7F2aC8t8WcCJs5SxJ8tUSJp0ZE/45UsL6tTSkIg6TLSUc8d8YU0oEIpqpiV3h627ZFQgr+dZuX1idYbBVVYiNEBkNTlK0NqjVRL7UbcrEpCy0yWxA//eWnEGBFi4=;cfA2odfbLSdwy9CcDH6O2Q=="
+secured: "a+8Bud0zVsNlwJlPF79LzM/cixf9V6RjXR3vWmDwiXNpeW+8697RckTOLfoZfuFBnkFUzYkv8CJZD1qR1vGoly6soFPTmNwzckDjZ6ONKFMgbgo5FIfAt6c51JaP3O59f/GID6pFvLAl79PmwTqkgzO5jd92uv/czeptOvs3hvyvEYZrLNhJC/rAynopT3a3EnK6gSS1bNFJjtYyNWA2RNix+nEB2BJPj4C8xL+id4kmoeorD1XBf3lz1WGpLegIzluc/TATkKa+H9UMinX22iT5lYSGwXyp+Q5U/X6D5A2c+MCuENKXgzVh2pgf/hOdNZ+BLUU/9VFKrbP3Coe2BQcan1xlyv+43TP026NojEavARwCl8zx+wi6cY/+xX7z/7cp/3vLpxLL5AQ2SbMXn20enZy2Cb7Xw8qXNb9905slMkjRBgeyHYsZw0dW9MuaptK2Y1B+8dbt604uI5hxExsXuQUIDmXHQ3qrK4wV+8tq1YdaZENo7HcC7rrJCLNWvtYy3uQmq33oQpV916fgLg==;iIOixPZ7iH7oFyXYFpMr5w=="
 ---
 

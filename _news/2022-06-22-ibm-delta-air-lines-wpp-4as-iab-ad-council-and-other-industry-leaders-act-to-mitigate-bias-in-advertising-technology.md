@@ -33,20 +33,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
-    excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising Technology CANNES, France, June 20, 2022 /PRNewswire/ --Today,leading companies committed to improving fairness in marketing campaigns."
-    publishedDateTime: 2022-06-20T21:52:00Z
-    webUrl: "https://www.malaysiasun.com/news/272592224/ibm-delta-air-lines-wpp-4a-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 14
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1655057948721.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "qfq87tjw4RMNppOs1bP0YhIoZKeA1ddNS9BL4xj19j0cOMCPSgG8CbJXqPF0SEZyal9u02FRlgd27Xnt2b5itg/TWR/2yoC5boZdmcvcg1BIWmHGjbztkYgk70gUcNE6R8IdEC/EcCb7J2rTifF1lW7A8EHoeAky78pktjc3dLSRw6wGA4WT32o20+T18YAwMcGV3t7sDtBziSlQK/dTbskZk0Xgz8Rm/pRTd+2dimPkEYNcTBERVWXojSExdjiKboOfe++tj3I0KqNyhaVDyf3mp9sGQACPXMnCDQvYuuiyKvX8SAilvoASsEOQNhbYnK2vkjUSIhzQVBZtnu6F78k3dtGSokqfINveLtsKfUY=;tw6T0JmsAky2Mq1QtGIpKQ=="
 ---

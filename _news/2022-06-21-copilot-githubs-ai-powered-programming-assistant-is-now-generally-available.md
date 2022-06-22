@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/21/copilot-githubs-ai-powered-program
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/copilot-githubs-ai-powered-programming-assistant-is-now-generally-available/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "GitHub Copilot Will Help You Write Code Using AI"
+    excerpt: "Microsoft-owned GitHub on Tuesday announced that GitHub Copilot, an AI pair programmer that suggests code in your editor, is now generally available to"
+    publishedDateTime: 2022-06-22T06:15:00Z
+    webUrl: "https://www.techworm.net/2022/06/github-copilot-write-code-using-ai.html"
+    ampWebUrl: "https://www.techworm.net/2022/06/github-copilot-write-code-using-ai.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/06/github-copilot-write-code-using-ai.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 57
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/06/Github-Copilot.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GitHub Copilot 'AI Pair Programmer' Now Generally Available at $10/Month"
     excerpt: "After a one-year technical preview, GitHub Copilot, described as an 'AI pair programmer' coding assistant, has reached General Availability (GA) status."
     publishedDateTime: 2022-06-21T18:54:00Z

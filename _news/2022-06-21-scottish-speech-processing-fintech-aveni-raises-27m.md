@@ -68,14 +68,14 @@ related:
       domain: mybroadband.co.za
     quality: 24
   - title: "Leading Payments, Fraud & Compliance Platform Sardine Adds One of Fintech's Most Influential People to its Growing Team"
-    excerpt: "Simon Taylor, voted one of the most influential people in Banking, Insurance, and Fintech, named Head of Content & Strategy as the company scales its customer base and go-to-market capabilities"
-    publishedDateTime: 2022-06-21T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/leading-payments-fraud-compliance-platform-sardine-adds-one-of-fintechs-most-influential-people-to-its/article_171e735e-653c-5832-970a-49fcc9b4fad6.html"
+    excerpt: "Simon Taylor, voted one of the most influential people in Banking, Insurance, and Fintech, named Head of Content & Strategy as the company scales"
+    publishedDateTime: 2022-06-21T12:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-payments-fraud-compliance-platform-sardine-adds-one-of-fintech-s-most-influential-people-to-its-growing-team-1031539797"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
 
 secured: "M3N5tXwvXdMicR4zbxq0c00VRUPZYXjj1AeXhZ+nCNFRcI7eywObWSGaxlMZEw7qS3qP56W/W6TGA4zFKbeLEAWrn95FMEvBVPx0PsuXOlR8ZEf5RdgumHGJdb8dl34YNAsX4VN54Xg6BOI3NiUoFRzq0ccRdNDF3+998d+viLUnHlxEVLOx84cF7ClsO6k1K3gN+Bt2Xc1bT84NoxRVbhKwOSqTzD0cZ2UsZs+BQZ2B0WKmTfueN1pP1OjJOkVuWgicB+fkz7bRQWOskF6sB8HfbRnI8PV6AgKfS9ezMDVT0e9E/7xW6HH/o5w3JvvVGZAbA8XVbjrkygPmTu4KUfY4VFiU03UiFlMYbCLh/PQ=;ieHhizGYAhmbp0FyU035BA=="
 ---

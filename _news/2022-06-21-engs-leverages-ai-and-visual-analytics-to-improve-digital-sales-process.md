@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
-    publishedDateTime: 2022-06-21T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "NBK receives “Data Transformation” award at AI and Analytics Summit in Dubai"
     excerpt: "The award reflects the bank’s successful strategy to build a digital culture with internal capabilities that are knowledgeable in AI and Data Analytics"
     publishedDateTime: 2022-06-19T07:13:00Z
@@ -78,6 +64,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 33
+  - title: "Clinical research and drug development accelerated via analytics"
+    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
+    publishedDateTime: 2022-06-21T12:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qo89YsRLLJQN9uofXcq3WDijOqIO8Y31GkJNItyFQmaC67t5PMFzkiDxP8d7AA2WcTdugpAnqIUvwQpKAgWTbX6us5RyPxURTcrVZ8BFbsjZ4o6d369Gui1m0zxh+S2pWKAeAChS5S0KMC+rhTAEoNm3TVfg0Hwxb/LmtAH2G3Tyij+0DGmFftpC7A1W+o8rZj2MGeCXZrd5UW9LT5MVcIituqY9LbsVd2X1vdn4mDmgG+/9wWNb6SQR6WuNL1/uHzMqcBtvGL8mpCYXnrWVKdJ6TuSFS4oxdXO/qZgyG2TWqZceb1yK7lgamfJX43rr8MHvvWVucfs4WI8oJ9PPmTKYDva606O0aIOSW3EWqF8=;RElGIANIS+z+xC/jOXnJ+w=="
 ---

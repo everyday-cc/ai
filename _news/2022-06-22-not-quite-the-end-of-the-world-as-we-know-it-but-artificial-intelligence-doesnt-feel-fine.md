@@ -7,7 +7,7 @@ originalUrl: "https://www.irishexaminer.com/opinion/commentanalysis/arid-4090090
 webUrl: "https://www.irishexaminer.com/opinion/commentanalysis/arid-40900904.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI Is Not Sentient Yet. But That Doesn’t Mean It’s Not Useful in the Enterprise"
-    excerpt: "Have large language models finally crossed the chasm and become self-aware? A Google researcher recently shocked the world by declaring that Google’s"
-    publishedDateTime: 2022-06-20T19:59:00Z
-    webUrl: "https://www.datanami.com/2022/06/20/ai-is-not-sentient-yet-but-that-doesnt-mean-its-not-useful-in-the-enterprise/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 33
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/sentient_AI_shutterstock_agsandrew.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-
-secured: "Bq95Eomdc6Ab0Lje2oZInm2km1uO7d32WwbrwjjpcAjNxK9HLA+JEX7ORmPgiK4DlI4rajMTVZ8PvJU+iVpGUO9ddm9voM0JJRrCfSbgji0VRXvX9WUrIeBH7vMKT1mstaN5mC+n9EO4qJYcmcT8eWwdZD5xC/HVE+upSGVtlU/zUF82Lqyeb7NIU641eniVQYZ6y3jJL3+c+6M/Er9tSBdvGHm2GJTmpn2EoyCdIW5QjRGXvzGg11VMeMZDdwTsau7lkpE2/FFToEZNf91Lix3+L6Y99s/6E36aD59ZMInrIGg3SHWNKsJcw8R97sXe2CW6mIHYsIl+EX2rWKqSCMQMgZAOaDd9ErXr90zEfio=;tIJKACalKjriILShG9tsgQ=="
+secured: "7yN+CDTeneEIP5a3PbL2biHJBQvt9SwaIygQe+1BjytZqaSzbE26oSewPWVOJzqNxfpJOobYIaycXVlPxeQ6vZIxhIxnAN7pirtBlXXIjxLhqLHZmtPyGJl0dYUAlDOHPIgg++BWuF+QwhgXGzMEMujgfWlt8SS1iW16AS3OY4JR+IAn2bMQHopVukyIBMVpZF0Kt2A7iaP93OzjPa2LycnCsIgeUnDVz6xLbmT9dmePh1Z3cKu6HXqZcRATG1s+J81VJC7LAMA0ZKicMSAZTtuZUEffOW+QtNltSwJjD+e2YUcruY8Ukm3cIZJtA7WbmtUgOhnPq2Uj+1p0XyXsCg8AWS+pXIa5o1L/58uaNiKiAOVirWIRSf4dRCIuSjH4TooWLH9ujXBPNz3W3u+kdNePavJYZ7HZoI/9m3mW4HTyDjySMa0yI6nfpjDvsJ32Nrh6bB4NeCSTJx9298CXXstKFdNLp4ZjtvvqIzz62Y5Y+SSGm966CF/1Tq1/aG/SAG2Z3nmPZCSNfhpkDraA4w==;OO8/7BCRtPkySfOmATDzcA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-tric
 webUrl: "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "A celebrated AI has learned a new trick: How to do chemistry"
-    excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-    publishedDateTime: 2022-06-17T14:30:00Z
-    webUrl: "https://phys.org/news/2022-06-celebrated-ai-chemistry.html"
-    ampWebUrl: "https://phys.org/news/2022-06-celebrated-ai-chemistry.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-celebrated-ai-chemistry.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-celebrated-ai-has-le.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "A celebrated AI has learned a new trick: How to do chemistry"
     excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
     publishedDateTime: 2022-06-20T20:31:00Z

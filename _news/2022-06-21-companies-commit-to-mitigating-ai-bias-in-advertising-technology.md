@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "VCs target AI accounting startups as companies look to control spending in uncertain economy"
-    excerpt: "Worldwide, startups making AI-powered accounting software amassed $233.3m in venture capital between January and the end of March, surpassing the $210.2m in funding for all of 2021"
-    publishedDateTime: 2022-06-20T07:49:00Z
-    webUrl: "https://www.penews.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
-    ampWebUrl: "https://www.penews.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
-    cdnAmpWebUrl: "https://www-penews-com.cdn.ampproject.org/c/s/www.penews.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-20220620"
+  - title: "IBM’s AI Fix to Advertising Bias Promises an Inclusive Future"
+    excerpt: "IBM has come up with a toolkit that will provide an AI ix to advertising bias, leading to more inclusive campaigns."
+    publishedDateTime: 2022-06-22T07:30:00Z
+    webUrl: "https://www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future/"
     type: article
     provider:
-      name: Private Equity News
-      domain: penews.com
-    quality: 46
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 59
     images:
-      - url: "https://images.penews.com/im-566585/?width=1280&height=853"
-        width: 1218
-        height: 853
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/06/AI-bias-in-Advertising-1.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
+    excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising Technology CANNES, France, June 20, 2022 /PRNewswire/ --Today,leading companies committed to improving fairness in marketing campaigns."
+    publishedDateTime: 2022-06-20T21:52:00Z
+    webUrl: "https://www.malaysiasun.com/news/272592224/ibm-delta-air-lines-wpp-4a-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 14
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1655057948721.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "SyUjFAIZcTOIAZv4OVYZCYJccg32jjbXySPvQuIr/iKS7syfAUDYaXvlls8heMIyHPtOBZRcEyieNYT25LhDDrdWgYmPIpqUEtOrB+KT+3O8Uijn0R7Hb2MnKuAOI8rlAm2VmtpU2vr0hbIu7+tZ4kkZn0kqijzjf62KBUXZ+Y80I3txeZcUn9xy8tPlLzeJj/9QBYUsfYEPTUgAReuJaMm9Z755Lkm16rtoH9c1yEFlD/W4kCaWBLdDdflJMzqUxFLrGnk9p0bj0L9HnBYD+yhaFm9x8kuWtCvpmPMBGQM1IfiKVVPG6da/DTSZEk4FfrW0T94jlCaPt/1wcodwmU8P68/Tj8zUbjdUP8ykLQbc9EGVEFEZmv9MOY75RbmG34Yt1XcWfZ+HKfy8WSajV4mHXXfxbSGpsQGgKfzGvDrGJsPJjQd8PNwPGh+1cMjgTnebMZA7oivT+E9WQZx1B+R04pZP50yWSPcv7+L8e0sLZfiDLALNyg6hwzbx5ynaRrigUbzOI+ioyl4y9w/iFw==;3AGMM4PCwtSjBk4ttRuoBA=="

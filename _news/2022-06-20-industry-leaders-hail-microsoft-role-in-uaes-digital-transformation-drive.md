@@ -55,6 +55,22 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Tenable CEO: Microsoft Vulnerability Disclosure and Patching Practices Are Insufficiently Transparent, Put Customers at Risk"
+    excerpt: "Tenable CEO cites reports from several cybersecurity firms that indicate Microsoft is not being timely enough with its vulnerability disclosures and sometimes has a \"dismissive\" attitude."
+    publishedDateTime: 2022-06-21T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/"
+    ampWebUrl: "https://www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 32
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/06/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Futurum Research: Start looking at Microsoft and NVIDIA for the long run"
     excerpt: "Futurum Research analyst Daniel Newman argued that Microsoft (MSFT) and NVIDIA (NVDA) present long-term buying opportunities at these levels, given their exposure to key parts of tech."
     publishedDateTime: 2022-06-21T13:20:00Z
