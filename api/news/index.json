@@ -2,6 +2,217 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-22-youcom-is-taking-on-google-with-ai-apps-privacy-and-personalization.md",
+      "title": "You.com is taking on Google with AI, apps, privacy, and personalization",
+      "excerpt": "Socher is naturally aware of all major AI talking points these days, including bias (it's not just the datasets), sustainability (perhaps overblown, but we can and should do better), ethics (no easy answers, it depends on each person's stances and beliefs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "originalUrl": "https://www.zdnet.com/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ec515376e9ad2dd505b7e960c144f8c10d628690/2022/06/20/74e2fbff-7231-4635-98b3-c73600e3cbc6/richard-soucher.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "publishedDateTime": "2022-06-22T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-aws-beefs-up-contact-center-solution-with-new-ai-capabilities.md",
+      "title": "AWS beefs up contact center solution with new AI capabilities",
+      "excerpt": "AWS promised to be different and use artificial intelligence (AI) to take contact centers in an entirely different direction. Initially, some were skeptical a new vendor could have success ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "originalUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1248443439.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "publishedDateTime": "2022-06-22T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-why-growing-organizations-should-consider-voice-ai.md",
+      "title": "Why Growing Organizations Should Consider Voice AI",
+      "excerpt": "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab34a06f0d8f09215433de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/",
+      "publishedDateTime": "2022-06-22T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-whats-new-in-microsoft-azures-nlp-ai-services.md",
+      "title": "What’s new in Microsoft Azure’s NLP AI services",
+      "excerpt": "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "originalUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 388,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "publishedDateTime": "2022-06-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-the-25-most-significant-new-york-city-novels-from-the-last-100-years.md",
       "title": "The 25 Most Significant New York City Novels From the Last 100 Years",
       "excerpt": "Four writers and one bookseller gathered over Zoom to make a list devoted to fiction in which the city is more than mere setting.",
@@ -50,6 +261,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-create-ai-optimized-resumes-that-get-you-hired-with-resoume.md",
+      "title": "Create AI-optimized resumes that get you hired with Resoume",
+      "excerpt": "This user-friendly resume, portfolio, and cover letter builder helps job seekers craft beautifully designed, ATS-ready documents that get positive attention from humans and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/790953/create-ai-optimized-resumes-that-get-you-hired-with-resoume.html",
+      "originalUrl": "https://www.macworld.com/article/790953/create-ai-optimized-resumes-that-get-you-hired-with-resoume.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/06/sale_312782_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/790953/create-ai-optimized-resumes-that-get-you-hired-with-resoume.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/790953/create-ai-optimized-resumes-that-get-you-hired-with-resoume.html/amp",
+      "publishedDateTime": "2022-06-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -105,7 +367,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -157,7 +419,7 @@
       "originalUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -485,59 +747,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-21-microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai.md",
-      "title": "Microsoft to curtail some of its facial recognition capabilities in the name of 'Responsible AI'",
-      "excerpt": "Microsoft is limiting, and in some cases, dropping completely, some of its own facial-recognition technologies in order to meet its evolving ethical AI standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 278,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/aabce5078bdea32e80b21d0996b47b4e6becd82c/2022/06/21/3a67307f-5daf-4534-b7b0-c65e89f1a409/microsoftcurtailsfacialrecog.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/",
-      "publishedDateTime": "2022-06-21T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
       "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
       "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
@@ -678,6 +887,57 @@
       ]
     },
     {
+      "path": "_news/2022-06-21-artificial-intelligence-will-help-autodesk-expand-in-the-metaverse.md",
+      "title": "Artificial intelligence will help Autodesk expand in the metaverse",
+      "excerpt": "“A common theme is helping the designer,” said Tonya Custis, director of artificial intelligence research at Autodesk, whose team includes fifteen AI research scientists based in San ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1371918162.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "publishedDateTime": "2022-06-21T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics.md",
       "title": "Nvidia’s new AI magic turns 2D photos into 3D graphics",
       "excerpt": "After converting 2D images into 3D scenes, models, and videos, the company has turned its focus to editing. The GPU giant today unveiled a new AI method that transforms still photos into 3D objects that creators can alter with ease.",
@@ -781,58 +1041,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-21-aws-is-using-ai-to-make-contact-centers-smarter.md",
-      "title": "AWS is using AI to make contact centers smarter",
-      "excerpt": "Amazon Web Services AWS has added new AI-based features to its contact center service, Amazon Connect. Amazon Connect is an omnichannel cloud contact center that serves businesses via an as-a-service model, enabling them to set up their own contact center ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-is-using-ai-to-make-contact-centers-smarter",
-      "originalUrl": "https://www.techradar.com/news/aws-is-using-ai-to-make-contact-centers-smarter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/revGmWARy7Adv2kKyAnQhc-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-21-slimai-introduces-beta-software-supply-chain-container-security-as-a-service.md",
       "title": "Slim.AI introduces beta software supply chain container security as a service",
       "excerpt": "Want to make sure your code is safe? Slim.AI helps you secure your containerized programs with its \"Four S Approach\" -- Software Bill of Materials (SBOM), signing, slimming, and sharing.",
@@ -841,7 +1049,7 @@
       "originalUrl": "https://www.zdnet.com/article/slim-ai-introduces-beta-software-supply-chain-container-security-as-a-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -979,7 +1187,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1021,211 +1229,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-ai-is-making-the-frontline-a-more-compelling-place-to-work.md",
-      "title": "AI is making the frontline a more compelling place to work",
-      "excerpt": "One thing that may not happen any time soon, however, is seeing these workers replaced by automation or AI. Rather, their roles will be enhanced. For example, while completely autonomous trucks are years away, intelligent vehicles will manage employees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
-      "originalUrl": "https://www.zdnet.com/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/de48e111d14297c732f9c8cb6561b1888dcb65d6/2022/06/21/725ca575-b9fe-4134-91e4-ac43152691fb/city-street-outside-javits-photo-by-joe-mckendrick2.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
-      "publishedDateTime": "2022-06-21T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-artificial-intelligence-could-be-about-to-change-soccer-player-scouting.md",
-      "title": "Artificial Intelligence Could Be About To Change Soccer Player Scouting",
-      "excerpt": "Chelsea are among the clubs using a phone app based on AI to help them scout players. The app allows scouts to compare amateurs' ability with the benchmarks set by the clubs' own players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
-      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b03e9a7db151884b3b268d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
-      "publishedDateTime": "2022-06-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.md",
-      "title": "Palantir is a buy as demand for AI platforms grows, Bank of America says",
-      "excerpt": "\"We see Palantir as a beneficiary of rapidly growing demand for AI-platforms in both commercial and government end-markets. Palantir's dominant position in the AI-powered software market, differentiated end-to-end & highly-secure solutions and first mover ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/06/21/palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.html",
-      "originalUrl": "https://www.cnbc.com/2022/06/21/palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106805361-1606944602892-gettyimages-1228810171-PALANTIR_NYSE.jpeg?v=1636407117&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-preventing-harmful-ai-bias-with-fairness-through-awareness.md",
-      "title": "Preventing Harmful AI Bias With Fairness Through Awareness",
-      "excerpt": "Today, there are many AI solutions to automate business processes and decisions, but few provide meaningful explainability. While rife with potential, organizations must never lose sight of the “why” behind automated decisions and predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//61c2114d7a803060327c8938/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/amp/",
-      "publishedDateTime": "2022-06-21T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

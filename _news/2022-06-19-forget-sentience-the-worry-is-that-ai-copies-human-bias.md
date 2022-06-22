@@ -2,9 +2,9 @@
 category: news
 title: "Forget sentience… the worry is that AI copies human bias"
 excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-publishedDateTime: 2022-06-19T06:30:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
+publishedDateTime: 2022-06-19T12:07:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
+webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 type: article
@@ -134,6 +134,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "1i99h3F8a591FIEiU1ED0+lRcG+paadiHs/bFbhzM7xFPifovzgjSUKiuWFvWA0oQxL4OLqK2zMmNsDz0RAFR43DArgY3pNe66XqO0zw9jkY5nXKrkOXiVixZPb03fz2MoTUD9zmyciMST34KWuxa1fAbXphN3hJhZ132iSNCcH3KOpG6GcOw7hsFWILM/NnqvwjMQ99rCw6dUZkMg9JIpdSR8i/wv7JoXrhBABfpdEc/OI8W/z8FMCOeJuG/ovq6SQRTR8WmvRmiiNoPjm7N6hYa1NJkbsO9hEOfN28sfBGPdefwdbJ5ZSnmnOU+28SIw489pTgnaHGw4Yf2O0FHeW/p1Y6CkiuPJAOXF6afCPfJ++RLnFpXOaSP6Gm7BFqPV9CtJaNjz2qv+Y781dUO0EdtKBh3tDcUk9YTIErhZWzKpKy/71YY6MQ/wz7TWwjkc/acfKY2qO4MCSpaqxo3In3XyBTt4DhAkIajeEiqvmuAN+Kgy7edon/qTgMJrsUYMhYkkok05O2pg9dp5fabg==;/fAlGdkEZZ6sUve3YEJi9Q=="
+secured: "kby4TpQsokQjRP8XwIvAA+SuOX8ImVxsnPbz9ktjzFQHMhWt+FwdmTD1erIowBAeOZ8+lfu3GS+FuAUzW4LmLr6iHJDXDrOMRfw3nTCq7Fp3XVqfHjJLcP7tAvlsyv+/dQUp+ObnAUKPRnoqZ8GlXWgFqX3U0cxmfNiLmuHSV94fPEyCcoE5+5O9pID5DpIWudnUar78+4TdQw1yZBwgeym1jd1yEnyjzGJtYXJMPrr/w1D4EaBY0/nItiruFGo+yuRcMetdydreQmQghxMWtj/mkrmP7g+AZrJaqUnVARfJwBOaym1fsyZdo+2EbpBUvvmEZITJEFHxAdiOVkbq+92VBN3vmDyQUsCzBJeogz8=;tNImLM9UWXtVLgcamr4waA=="
 ---
 

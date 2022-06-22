@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
-    excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
-    publishedDateTime: 2022-06-20T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-growth-2022-research-analysis-by-product-types-applications-recent-development-and-forecast-to-2028-2022-06-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
   - title: "Automatic Content Recognition (ACR) Market - Global Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "The “Global Automatic Content Recognition Market by Component, Content, Technology, Applications (Broadcast Monitoring and AD Targeting & Pricing), Deployment Mode, Organization Size, Vertical and Region - Global Forecast to 2027” report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-06-21T21:22:00Z
@@ -61,15 +52,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2022-06-20T06:36:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 9
 
 secured: "VdFJNZPjWuJhbbqXpcr0ca2WsB/9Kl4rzKy4gxgMg+SwvTLMczgN8Ua1lgxq6mBnhMm168OPaeDSnHKGLE96ulIyIzVUmzWPpZB/Km6I7k8j5w3mEuCqGhMiR1fgp3np6ne3lGihMHlgMLNcVpvXYZAi4YA8bVxYBJVz+fU9jtAldbuoU7meRsCY2xf1NtVfXHKUkYf5VjHHqGlQGdLhQ4i+Jen4ZC2SUwONqwjnVif9cvAr4kNJQORZo9ZKPKKQMdtUgWBdIyR8a51cIArR3cvyLk1bjGwG1Ob+yWG5tblYIKDXHxMzdrAEI+s23k0+wh6OXGiKeAFCkSp7SHO62vzCL3fxUK/xLxE/ApuZif0=;AG1mUw8/4V1bKerPtjDF2w=="
 ---

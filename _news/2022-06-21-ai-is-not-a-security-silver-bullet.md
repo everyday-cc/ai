@@ -34,6 +34,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 61
+  - title: "Governance Gap Raises AI Security Concerns"
+    excerpt: "Cybersecurity is now viewed as the most critical factor in AI adoption, but governance needs to catch up with the potential risks associated with the technology, a new study from Juniper Networks has revealed."
+    publishedDateTime: 2022-06-20T11:45:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/governance-shortfall-raises-ai/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
 
 secured: "G4MKEDUufkyqbKeZU2vyUHpchkcMY5+ltF94Zc/z91+APlPLFkYu6cNc2qdw334RKZ17PRkPu0xE0dSa2xRKJvmOIdOBHEAoAxIFTGUmxbXqUgUTtoWnNtWiKm8C9XPiNshvA1zO6UqAgb6SNyx0em0tGOuUtaC8ByFMkCkWj1C1K9BpgdVQ0V+rPcgQilk9F9vP6omMoz1cBwQk+gHpkF5IbLGDLYv9exlZGGa0WgingpHmBe98oJJwRqUXCdp8ybmChmHssFf1cC9xtugx87QDUAWpssDJB1SxHTL1fhupgMMO+d+O7rbHJRVzWhEs+nB/ApT4mB7lXdItcuD9NuaxmTuOzKHWKXX4hT43fsEWuagI63ncYDner077j2zY8P90MtIYapyOHHPVFGuNQ1FlZwuyYtFKxRg4v9CFHTaQZTopcddKrVGtGSfT+erLKkBTCT37u3B1Uaob/v2id/94XKCYLUWiGznBSlS3SoyVsAib3XPav+3127+IOrlSdQi76URbGJv26NB6/mWOQA==;uPEOnfqfFd5CeUA+DNZs9A=="
 ---

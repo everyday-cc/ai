@@ -68,6 +68,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "AI startup Synapse Analytics raises $2 million pre-Series A round"
+    excerpt: "Egypt-based AI tech startup Synapse Analytics, has raised $2 million in a pre-Series A funding round led by Egypt Ventures,"
+    publishedDateTime: 2022-06-22T10:24:00Z
+    webUrl: "https://www.wamda.com/2022/06/ai-startup-synapse-analytics-raises-2-million-pre-series-round"
+    type: article
+    provider:
+      name: wamda
+      domain: wamda.com
+    quality: 39
+    images:
+      - url: "https://cdn.wamda.com/feature-images/8a27e9143bfac5b.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Seven top search shifts on Bloomberg's AI-powered Research Analytics Platform this earnings season"
     excerpt: "Analysts use the Bloomberg’s Document Search and Analytics Platform to quickly retrieve company information and understand how the key themes are impacting their coverage. Our AI-powered search analytics in DS  is continuously being enhanced to make it easier for analysts to find the insights they need to conduct their research analysis."
     publishedDateTime: 2022-06-20T04:00:00Z

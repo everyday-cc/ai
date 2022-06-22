@@ -38,15 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
-  - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
-    excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
-    publishedDateTime: 2022-06-20T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-growth-2022-research-analysis-by-product-types-applications-recent-development-and-forecast-to-2028-2022-06-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
   - title: "Automatic Content Recognition (ACR) Market - Global Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "The “Global Automatic Content Recognition Market by Component, Content, Technology, Applications (Broadcast Monitoring and AD Targeting & Pricing), Deployment Mode, Organization Size, Vertical and Region - Global Forecast to 2027” report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-06-21T21:22:00Z
@@ -61,15 +52,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2022-06-20T06:36:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 9
 
 secured: "5h7ypIbnz8IerZr/jOElHHN+ff2JVXIpd7wMZqDkx2zssuJ85YStV+JxJbHv9uE5RxYHiEkdrpkh6C2kNGxk5pvk75+i1ICo0S3ID4aJJ++qoukp5Q/AUQhwT0RSFVyRM/k3OhebfjF3MEwLHGgV0n0nXRkOmerEODMRf5zT/GtQwCOJmaqz03HwlPiD8gdI2UNGHivR8A3OyL/R3jSVgZaZl6GRQoJErrjknhAJ64B+1CHezNPC32VeTuvtHQhQUCngt2pauuqM/iU+lq89gQ9t+Gr+OUKMyGWZlqFYOSN6nD5lqCmafZcnv/eKZDmBuNTf8MsMH/LMduTilqCKkDWiYXI5flRjiaV3PFELJEs=;b5EOgx28sRcsaq1tUhTyfg=="
 ---

@@ -24,61 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Idoven Raises $19.8 Million in Funding to Redefine Detection and Precision Medicine of Cardiovascular Diseases with AI"
-    excerpt: "Idoven, a pioneering health tech company advancing early detection and precision medicine of cardiovascular disease, today announced that it has raised $19.8 million in funding. The funding consists of a $12."
-    publishedDateTime: 2022-06-21T14:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/idoven-raises-19-8-million-in-funding-to-redefine-detection-and-precision-medicine-of-cardiovascular-diseases-with-ai-1031540550"
+  - title: "Why Growing Organizations Should Consider Voice AI"
+    excerpt: "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity."
+    publishedDateTime: 2022-06-22T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://mma.prnewswire.com/media/1844305/Idoven_Logo.jpg"
-        width: 400
-        height: 250
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62ab34a06f0d8f09215433de/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "AI Platform for Modern Data Stack Continual Raises $14.5M Funding"
-    excerpt: "Continual, an San Francisco, CA-based next-generation AI platform for the modern data stack, has announced that it raised $14.5"
-    publishedDateTime: 2022-06-22T01:03:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/25771-ai-platform-for-modern-data-stack-continual-raises-14-5m-funding"
+  - title: "Research confirms AI adoption growing but governance is lagging"
+    excerpt: "There's been an increase in AI adoption during the last year, but a shortage of human talent holds a great deal of good implementation back."
+    publishedDateTime: 2022-06-20T12:40:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/"
+    ampWebUrl: "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/2e94e7673e7a298ca95172e54bcf9f8f.jpg?t=20220622_010037"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Shield AI Raises $165 Million In Funding Round To Accelerate Autonomous Piloting"
-    excerpt: "Defense technology startup Shield AI has closed a $165 million funding round that the company said will be used to accelerate the development artificial intelligence (AI) pilots, including in degraded GPS and communications environments."
-    publishedDateTime: 2022-06-17T19:16:00Z
-    webUrl: "https://www.aviationtoday.com/2022/06/17/shield-ai-raises-165-million-funding-round-accelerate-autonomous-piloting/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 32
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2022/06/v-bat-maritime.jpeg"
-        width: 960
-        height: 644
-        isCached: true
-  - title: "News: WIZ.AI raises US$30 million in funding led by Tiger Global, GL Ventures and Gaorong Capital"
-    excerpt: "Artificial Intelligence startup WIZ.AI has announced that it has raised US$30 million in funding. The round was led by Tiger Global, GL Ventures and Gaorong Capital while other in"
-    publishedDateTime: 2022-06-22T07:00:00Z
-    webUrl: "https://www.peoplematters.in/news/funding-investment/wizai-raises-us30-million-in-funding-led-by-tiger-global-gl-ventures-and-gaorong-capital-34353"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1654594033/ad-drezxt5v.png"
-        width: 990
-        height: 550
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all"
+        width: 1200
+        height: 611
         isCached: true
 
 secured: "OERalYswR1OFqYLQQ1zuQsh1hdH10P+TTA1La+vlltXA0X3gM6a8sCVZ8byd45MVbpW+YTlXHXJfxgMO15S/HdQZdz4wMqXoq18YXeDGbX6Uyoaa/uWW8d66ULx/TgG/MRVf5hxtfLDTL0Em9tQzIxZF4L0Lzf6Fk1mGYuj568hqdni/nidDnFTos2LAt0htPwj9584p3BDpUDeybnnlUKgqoP2M0vCqOUu4AQxr/qmeU2J/76MabEGJ4GkiitMgUf1wYY70sttYzRmLjjzN/8x+YFg7UFnZ65t7r8jePV86/zGSNwf46Q6xBi1PS1kQMbFMAmYNuMSa2rep6rGNSTnn1JRopa73WQIzz9iL3eg=;1iJ7iEYBCrps2IWMFTHoMA=="

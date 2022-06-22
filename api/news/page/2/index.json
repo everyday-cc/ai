@@ -2,6 +2,211 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-21-ai-is-making-the-frontline-a-more-compelling-place-to-work.md",
+      "title": "AI is making the frontline a more compelling place to work",
+      "excerpt": "One thing that may not happen any time soon, however, is seeing these workers replaced by automation or AI. Rather, their roles will be enhanced. For example, while completely autonomous trucks are years away, intelligent vehicles will manage employees ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
+      "originalUrl": "https://www.zdnet.com/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/de48e111d14297c732f9c8cb6561b1888dcb65d6/2022/06/21/725ca575-b9fe-4134-91e4-ac43152691fb/city-street-outside-javits-photo-by-joe-mckendrick2.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
+      "publishedDateTime": "2022-06-21T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-artificial-intelligence-could-be-about-to-change-soccer-player-scouting.md",
+      "title": "Artificial Intelligence Could Be About To Change Soccer Player Scouting",
+      "excerpt": "Chelsea are among the clubs using a phone app based on AI to help them scout players. The app allows scouts to compare amateurs' ability with the benchmarks set by the clubs' own players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
+      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b03e9a7db151884b3b268d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
+      "publishedDateTime": "2022-06-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.md",
+      "title": "Palantir is a buy as demand for AI platforms grows, Bank of America says",
+      "excerpt": "\"We see Palantir as a beneficiary of rapidly growing demand for AI-platforms in both commercial and government end-markets. Palantir's dominant position in the AI-powered software market, differentiated end-to-end & highly-secure solutions and first mover ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/21/palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/21/palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106805361-1606944602892-gettyimages-1228810171-PALANTIR_NYSE.jpeg?v=1636407117&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-preventing-harmful-ai-bias-with-fairness-through-awareness.md",
+      "title": "Preventing Harmful AI Bias With Fairness Through Awareness",
+      "excerpt": "Today, there are many AI solutions to automate business processes and decisions, but few provide meaningful explainability. While rife with potential, organizations must never lose sight of the “why” behind automated decisions and predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//61c2114d7a803060327c8938/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/amp/",
+      "publishedDateTime": "2022-06-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-how-ai-is-changing-iot.md",
       "title": "How AI is changing IoT",
       "excerpt": "Artificial intelligence unlocks the true potential of IoT by enabling networks and devices to learn from past decisions, predict future activity, and continuously improve performance and decision-making capabilities.",
@@ -10,7 +215,7 @@
       "originalUrl": "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -53,21 +258,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-21-astrazenecas-rules-for-implementing-responsible-ethical-ai.md",
-      "title": "AstraZeneca’s rules for implementing responsible, ethical AI",
-      "excerpt": "Multinational pharma and biotech giant AstraZeneca has shared some of its rules towards implementing responsible and ethical artificial intelligence (AI) within its business. For the British-Swedish behemoth,",
+      "path": "_news/2022-06-21-responsible-ai-investments-and-safeguards-for-facial-recognition.md",
+      "title": "Responsible AI investments and safeguards for facial recognition",
+      "excerpt": "Azure Cognitive Services deliver high-quality, consent-driven face recognition that developers use to power verification of human identities on mobile, desktop, and internet of thing (IoT) devices, as well as facial detection and redaction capabilities for accessibility, modern productivity, and privacy.",
       "sourceUrl": null,
-      "webUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai",
-      "originalUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai",
+      "webUrl": "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/",
+      "originalUrl": "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://diginomica.com/sites/default/files/images/2022-06/BFDC6B9D-8597-4470-ADB3-5BD508CE0F99.jpeg",
-          "width": 1840,
-          "height": 1100,
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dc501e24-2f0b-43cd-bf24-cfd4511d958e.jpg",
+          "width": 4081,
+          "height": 2247,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,14 +280,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp",
-      "publishedDateTime": "2022-06-21T02:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T02:00:14-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -91,8 +305,9 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI",
-        "AI Ethics"
+        "Computer Vision"
       ]
     },
     {
@@ -293,7 +508,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -617,57 +832,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-research-confirms-ai-adoption-growing-but-governance-is-lagging.md",
-      "title": "Research confirms AI adoption growing but governance is lagging",
-      "excerpt": "There's been an increase in AI adoption during the last year, but a shortage of human talent holds a great deal of good implementation back.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/",
-      "originalUrl": "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/",
-      "publishedDateTime": "2022-06-20T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1010,49 +1174,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-19-microsoft-and-meta-joins-google-in-using-ai-for-data-centers.md",
-      "title": "Microsoft And Meta Joins Google In Using AI for data centers",
-      "excerpt": "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have",
-      "sourceUrl": null,
-      "webUrl": "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/",
-      "originalUrl": "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/",
-      "cdnAmpWebUrl": "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/",
-      "publishedDateTime": "2022-06-19T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoneworld.com.pk",
-        "domain": "phoneworld.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-19-how-ai-and-human-intelligence-will-beat-cancer.md",
       "title": "How AI and human intelligence will beat cancer",
       "excerpt": "2016 saw the completion of a significant milestone for humanity: artificial intelligence (AI ... an equivalent of a Move 37 against cancer: a therapy that at first may seem counterintuitive ...",
@@ -1103,112 +1224,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-how-ml-powered-video-surveillance-could-improve-security.md",
-      "title": "How ML-powered video surveillance could improve security",
-      "excerpt": "This can include count-based alerts when the number of people in a certain area exceeds a set limit, alerts triggered by object identification or, where applicable, face recognition. Video content ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
-      "originalUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1311084163-e1652290730534.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
-      "publishedDateTime": "2022-06-18T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry.md",
-      "title": "A celebrated AI has learned a new trick: How to do chemistry",
-      "excerpt": "A protein databank training set and multiple sequence alignments enable AlphaFold2 to “think” like chemists. What could it do for us?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry",
-      "originalUrl": "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fshutterstock_1733742608-Protein-folding-hed.jpg&signature=f90a8fd366d297eded59735236f227ae",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

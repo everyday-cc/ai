@@ -52,20 +52,6 @@ related:
         width: 960
         height: 644
         isCached: true
-  - title: "Dubai Police in collaboration with Continental organises a dialogue session on Artificial Intelligence Driving Hub"
-    excerpt: "AI Driving Hub and Continental have announced an initiative to use the technology in driver training. By using artificial intelligence and 3-D modules, the platform can simulate and then analyse incidents linked to tyre failure to keep road users safe and ..."
-    publishedDateTime: 2022-06-22T09:50:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub-me9mhbdb"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
-    images:
-      - url: "https://static.zawya.com/version/c:NTJlZDRlZTgtNTZmNS00:OGZjMjZl/image1-avlivinghubinuse-jpg.JPG?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "News: WIZ.AI raises US$30 million in funding led by Tiger Global, GL Ventures and Gaorong Capital"
     excerpt: "Artificial Intelligence startup WIZ.AI has announced that it has raised US$30 million in funding. The round was led by Tiger Global, GL Ventures and Gaorong Capital while other in"
     publishedDateTime: 2022-06-22T07:00:00Z

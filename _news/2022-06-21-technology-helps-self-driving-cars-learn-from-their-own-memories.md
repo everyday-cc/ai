@@ -44,6 +44,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "John Deere: Leading The Charge In Self-Driving Technology"
+    excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
+    publishedDateTime: 2022-06-22T11:47:00Z
+    webUrl: "https://seekingalpha.com/article/4519582-john-deere-leading-the-charge-in-self-driving-technology"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/6/21/5764111-16558427123565476.png"
+        width: 640
+        height: 250
+        isCached: true
   - title: "Cornell University: Technology helps self-driving cars learn from own memories"
     excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This is achieved with the help of artificial neural networks,"
     publishedDateTime: 2022-06-21T11:27:00Z

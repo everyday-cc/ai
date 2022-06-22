@@ -2,6 +2,342 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-16-ai-weekly-lamdas-sentient-ai-debate-triggers-memories-of-ibm-watson.md",
+      "title": "AI Weekly: LaMDA’s ‘sentient’ AI debate triggers memories of IBM Watson",
+      "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "publishedDateTime": "2022-06-16T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market Size, Share to Expand At 15.1% CAGR Through 2028",
+      "excerpt": "Jun 16, 2022 (Market Insight Reports) -- The Edge Artificial Intelligence (AI) Chip market size study provides a detailed analysis to identify important growth drivers, challenges, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-the-1-way-ai-is-transforming-grocery-shopping.md",
+      "title": "The #1 way AI is transforming grocery shopping",
+      "excerpt": "\"It's pretty overwhelming to get your food right each week,\" says Alex Weinstein, Chief Digital Officer of Hungryroot an AI grocery company. \"Customers tell us all the time - it takes many hours each week to plan, shop for, and finally cook meals for their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/1-way-ai-is-transforming-grocery-shopping/",
+      "originalUrl": "https://www.zdnet.com/article/1-way-ai-is-transforming-grocery-shopping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5de1e47772871d2cdede7663cb5514cc764a5e8a/2022/06/08/adfb4415-c4ca-4702-9690-fe2133e65f9d/hungryroot.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/",
+      "publishedDateTime": "2022-06-16T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-baidu-tipped-to-roll-credits-on-iqiyi-stake.md",
+      "title": "Baidu tipped to roll credits on iQIYI stake",
+      "excerpt": "Chinese internet giant Baidu reportedly entered talks on selling a majority stake in iQIYI, a deal which could value the video streaming platform at about $7 billion and help fund the company’s development of emerging technologies. Reuters reported Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/06/iQIYI_SS_generic.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
+      "publishedDateTime": "2022-06-16T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots.md",
+      "title": "Acceleration Robotics Launch ROBOTCORE™ to Speed-up ROS 2 Robots",
+      "excerpt": "While providing a vendor-agnostic ROS-centric development flow, ROBOTCORE™ solves customer design challenges in robotic areas including sensing, perception, mapping, localization, motion control, low-level control or actuation, with speedups surpassing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
+      "originalUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
+      "publishedDateTime": "2022-06-16T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline.md",
+      "title": "Operationalizing Ethical AI: From The C-Suite To The Data Pipeline",
+      "excerpt": "Now that these technologies have become more commonplace, business leaders should turn much of their focus instead on how they use and manage AI and related training data to ensure that it’s consistent with other aspects of ethical business operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/",
+      "publishedDateTime": "2022-06-16T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations.md",
+      "title": "UAE to boost rainfall using AI in cloud seeding operations",
+      "excerpt": "The project will use artificial intelligence (AI) to achieve enhanced rainfall prediction. The project's focal point will be the creation of an AI research and operations testbed in the UAE. An AI framework will be built to combine satellite observations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations",
+      "originalUrl": "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=b0d9d4ee-9a74-54e9-ade5-de268934f040&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1",
+      "publishedDateTime": "2022-06-16T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round.md",
       "title": "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round",
       "excerpt": "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly.",
@@ -875,334 +1211,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-procter-gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing.md",
-      "title": "Procter & Gamble Partners With Microsoft To Transform And Accelerate Digital Manufacturing",
-      "excerpt": "Cielica continued, “P&G and Microsoft both share a passion for data and AI and are working together to find innovative ways to apply those capabilities to transform the work we do together. This new collaboration uses Microsoft Azure data and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62aa368a0331ac091509c8a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/",
-      "publishedDateTime": "2022-06-15T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-hundreds-of-crashes-linked-to-autonomous-vehicles-and-self-driving-technology-new-report-shows.md",
-      "title": "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows",
-      "excerpt": "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/",
-      "originalUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp",
-      "publishedDateTime": "2022-06-15T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 23",
-        "domain": "fox23.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-insect-inspired-ai-for-autonomous-robots.md",
-      "title": "Insect-inspired AI for autonomous robots",
-      "excerpt": "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/insect-inspired-ai-for-1.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
-      "publishedDateTime": "2022-06-15T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-intel-arc-alchemist-a380-is-finally-here-to-rival-amds-entry-level-gpu.md",
-      "title": "Intel Arc Alchemist A380 is finally here to rival AMD’s entry-level GPU",
-      "excerpt": "The entry-level GPU is positioned to be the rival to AMD’s Radeon RX 6400. The bad news is that you likely won’t be able to get your hands on Intel’s first graphics card for a while yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/INTEL-ARC-A380-3.jpg?p=1",
-          "width": 1858,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
-      "publishedDateTime": "2022-06-15T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-boca-raton-fla-police-to-join-facial-recognition-program.md",
-      "title": "Boca Raton, Fla., Police to Join Facial Recognition Program",
-      "excerpt": "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
-      "originalUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
-      "publishedDateTime": "2022-06-15T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-the-hands-off-tech-era-is-over.md",
-      "title": "The Hands-Off Tech Era Is Over",
-      "excerpt": "More government intervention will slow tech down. Is that good or bad? Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share. By Shira Ovide It’s clear more than ever that governments will no longer leave technology alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/15/business/15OnTech-laissezfaire-NL/15OnTech-laissezfaire-NL-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
-      "publishedDateTime": "2022-06-15T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-ai-coming-to-life-google-engineer-claims-chatbot-is-sentient.md",
-      "title": "AI coming to life? Google engineer claims chatbot is sentient",
-      "excerpt": "A Google engineer is claiming that LaMDA, a chatbot generator, has the ability to think for itself, but the company has rejected the claim. The Washington Post's Nitasha Tiku explains how the chatbot works and why the engineer thinks Google should be asking for its consent to experiment on it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595",
-      "originalUrl": "https://www.nbcnews.com/now/video/ai-coming-to-life-google-engineer-claims-chatbot-is-sentient-142170181595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_06/1655305259269_now_mnn_chatbot_sentient_google_220615_1920x1080-9ec6aw.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo142170181595",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo142170181595",
-      "publishedDateTime": "2022-06-15T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

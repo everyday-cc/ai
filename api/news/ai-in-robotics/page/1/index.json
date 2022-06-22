@@ -10,7 +10,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -254,7 +254,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -394,6 +394,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-17-artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026.md",
+      "title": "Artificial Intelligence Robotics Market Size, Share, Study Overview, Dynamics, Manufacturing Cost Analysis and Forecast Outlook 2026",
+      "excerpt": "Artificial Intelligence Robotics Market research study provides an in-depth analysis of current industry scenarios like Size, Share, Revenue, Leading Competitors, Risk, and Growth factors that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/749967692b9d1f63cada0512a324a03291f1b519-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-ai-and-robotics-in-healthcare-a-phone-could-hear-if-you-have-tb.md",
       "title": "AI and Robotics in healthcare: A phone could hear if you have TB",
       "excerpt": "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives.",
@@ -495,31 +538,22 @@
       "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
       "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "originalUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "webUrl": "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html",
+      "originalUrl": "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.ie/entertainment/music/da2ce/41761859.ece/AUTOCROP/w1240h700/ipanews_35e76834-6e7c-4944-b8c4-e926f0e92322_1",
-          "width": 1240,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T17:40:00-07:00",
+      "publishedDateTime": "2022-06-16T16:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Independent.ie",
-        "domain": "independent.ie",
+        "name": "AOL.co.uk",
+        "domain": "aol.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -661,6 +695,49 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots.md",
+      "title": "Acceleration Robotics Launch ROBOTCORE™ to Speed-up ROS 2 Robots",
+      "excerpt": "While providing a vendor-agnostic ROS-centric development flow, ROBOTCORE™ solves customer design challenges in robotic areas including sensing, perception, mapping, localization, motion control, low-level control or actuation, with speedups surpassing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
+      "originalUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
+      "publishedDateTime": "2022-06-16T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1252,83 +1329,6 @@
       "provider": {
         "name": "NHK",
         "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-stanford-engineers-develop-tiny-robots-to-bring-health-care-closer-to-precisely-targeted-drug-delivery.md",
-      "title": "Stanford engineers develop tiny robots to bring health care closer to precisely targeted drug delivery",
-      "excerpt": "... also provides untethered control for non-invasive operation and separates the control unit from the device to allow for miniaturization. Zhao said their most recent robot, featured this month in Nature Communications, is “the most robust and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/955421",
-      "originalUrl": "https://www.eurekalert.org/news-releases/955421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-nerding-out-with-the-boys-obi-wan-kenobi-and-robots.md",
-      "title": "Nerding Out with The Boys, Obi-Wan Kenobi and Robots",
-      "excerpt": "Death & Robots feels as unique as it did when the series first came to Netflix, delivering on the promise of the first volume’s mind-blowing animation. The techniques seen here elevate the sci ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.laweekly.com/nerding-out-with-the-boys-obi-wan-kenobi-and-robots/",
-      "originalUrl": "https://www.laweekly.com/nerding-out-with-the-boys-obi-wan-kenobi-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laweekly.com/wp-content/uploads/2022/06/JTF-FF-002049.jpg",
-          "width": 1500,
-          "height": 1099,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Laweekly",
-        "domain": "laweekly.com",
         "images": null,
         "publishers": null,
         "authors": null

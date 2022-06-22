@@ -25,49 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "Adelaide City Council votes against purchasing facial recognition software for city security cameras"
-    excerpt: "Police have refused to speculate whether they would invest in facial recognition software after Adelaide City Council voted unanimously not to include the technology in new security cameras being installed across the CBD. Adelaide City Council is due to ..."
-    publishedDateTime: 2022-06-22T02:46:00Z
-    webUrl: "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924"
-    ampWebUrl: "https://amp.abc.net.au/article/101172924"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101172924"
+  - title: "Responsible AI investments and safeguards for facial recognition"
+    excerpt: "Azure Cognitive Services deliver high-quality, consent-driven face recognition that developers use to power verification of human identities on mobile, desktop, and internet of thing (IoT) devices, as well as facial detection and redaction capabilities for accessibility, modern productivity, and privacy."
+    publishedDateTime: 2022-06-21T09:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 76
+      name: Microsoft
+      domain: microsoft.com
+    quality: 106
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485"
-        width: 587
-        height: 330
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dc501e24-2f0b-43cd-bf24-cfd4511d958e.jpg"
+        width: 4081
+        height: 2247
         isCached: true
-  - title: "Adelaide council rules out facial recognition on city CCTV network"
-    excerpt: "It was prompted a council report [pdf] earlier that month noting that “it will be the decision of SAPOL whether these [object tracing, facial and number plate recognition] functions will be turned on”. But it now appears the council had already ruled ..."
-    publishedDateTime: 2022-06-22T03:05:00Z
-    webUrl: "https://www.itnews.com.au/news/adelaide-council-rules-out-facial-recognition-on-city-cctv-network-581696"
+  - title: "AstraZeneca’s rules for implementing responsible, ethical AI"
+    excerpt: "Multinational pharma and biotech giant AstraZeneca has shared some of its rules towards implementing responsible and ethical artificial intelligence (AI) within its business. For the British-Swedish behemoth,"
+    publishedDateTime: 2022-06-21T09:10:00Z
+    webUrl: "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai"
+    ampWebUrl: "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
     images:
-      - url: "https://i.nextmedia.com.au/News/cctv_public.jpg"
-        width: 1254
-        height: 837
+      - url: "https://diginomica.com/sites/default/files/images/2022-06/BFDC6B9D-8597-4470-ADB3-5BD508CE0F99.jpeg"
+        width: 1840
+        height: 1100
         isCached: true
-  - title: "SA Police ignore Adelaide council plea for facial recognition ban on CCTV"
-    excerpt: "Adelaide City Council is yet to receive formal assurance from South Australia Police that it will not use the facial recognition capabilities of Adelaide's planned CCTV network until laws are developed."
-    publishedDateTime: 2022-06-20T01:35:00Z
-    webUrl: "https://www.itnews.com.au/news/sa-police-ignore-adelaide-council-plea-for-facial-recognition-ban-on-cctv-581559"
+  - title: "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'"
+    excerpt: "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI."
+    publishedDateTime: 2022-06-21T18:54:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
+      name: CNET
+      domain: cnet.com
+    quality: 74
+  - title: "Op-ed: Clearview AI facial recognition case reveals clarity on law needed"
+    excerpt: "The privacy regulator determination that Clearview AI was in breach of Australian law raises more questions about emerging facial recognition technology and its uses."
+    publishedDateTime: 2022-06-22T08:06:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/protecting-your-data/data-laws-and-regulation/articles/clearview-ai-and-privacy-law"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
     quality: 53
     images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
-        width: 1254
-        height: 836
+      - url: "https://img.choice.com.au/-/media/45a5e627348b4d84b1a0867528cfeccb.ashx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Adelaide considers CCTV system with facial recognition as calls for regulation intensify"
     excerpt: "New deployments of facial recognition technology continue to raise questions in Australia, as experts call for changes to privacy law."
@@ -83,6 +92,24 @@ related:
         width: 1200
         height: 914
         isCached: true
+  - title: "Corsight AI Releases Privacy Focused Software to Address Emerging Guidelines for Ethical Facial Recognition Technology"
+    excerpt: "Corsight AI, a leading provider of Facial Recognition Technology (FRT), today launched the latest version of its flagship product, Fortify, in a drive to change the face of facial recognition. The new suite of privacy settings empowers the data operator and protects the data subject to address both existing and emerging industry standards."
+    publishedDateTime: 2022-06-21T12:20:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/corsight-ai-releases-privacy-focused-software-to-address-emerging-guidelines-for-ethical-facial-recognition-technology/article_2cdbe2e2-bef9-5f39-a236-83cc1cc0a5e5.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
+  - title: "D FACIAL RECOGNITION PRODUCT"
+    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
+    publishedDateTime: 2022-06-19T12:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 19
 
 secured: "p7L6bmh+RsMPxXLLysNBTkfBwIxWGZYSLkLz25XibbKqGa0PALoZzo9QpIYDLscl7coKA0c299l6TdKYSLMC50nBGeQ4Mg/WyFxPAL3Ucq/236zsagrKF4x3lLSoVdXj6Nd72qAkgWBCKmGH/DC1gLmGP9J7KRy4+7V9mmxYpN7Si7rIEOJEtVSULrY14o97dSCkge9iNSwSNSxMJv0sDV6OJSPH9vAxKKWeezY0enWYtYceCNN2/5inuCAnDeyRXzpHeudBFfNapocbiLjk9/oIfwCb0AavBEJAS6xooFzfJPoxfELQyvbSurRC5EheTW2YvtBasegKCqvWj26aTV7llicCjeWvP90Jeidov77FCt9d6iqg7D/BOLmaer7N8qZBDH65MJ5MJmcHxn0FCM1GQecDtalXKRx6+0dQ29Fu3NnkJJYOVuPytd6WnopOoWVH/YroQtXtb7JiDWbBOHbcLO0vHFwTsGPwubKElnsuibpzRejrWjkiWVxKknpa3iucsedIxVgmsyHJ5gfMPw==;XWpsXCbymUboChW8iPzeRw=="
 ---

@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Op-ed: Clearview AI facial recognition case reveals clarity on law needed"
-    excerpt: "The privacy regulator determination that Clearview AI was in breach of Australian law raises more questions about emerging facial recognition technology and its uses."
-    publishedDateTime: 2022-06-22T08:06:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/protecting-your-data/data-laws-and-regulation/articles/clearview-ai-and-privacy-law"
+  - title: "Spotlight on impact of facial recognition technology on Māori"
+    excerpt: "The use of facial recognition technology in Aotearoa and its impact on Māori has come under the spotlight this week, after Australia's Choice Magazine found that major retailers Kmart, Bunnings and The Good Guys are using the technology across the Tasman to prevent shoplifting."
+    publishedDateTime: 2022-06-20T01:19:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/spotlight-on-impact-of-facial-recognition-technology-on-maori/WIDXGX4GGZKR7XL6VP7VZHOB5U/"
     type: article
     provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 53
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
     images:
-      - url: "https://img.choice.com.au/-/media/45a5e627348b4d84b1a0867528cfeccb.ashx"
+      - url: "https://www.nzherald.co.nz/resizer/rKXun6NpEfiAaiKK0P6iui0NmKg=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Y44JXEYYVTFZFO2LYZF7Q45654.jpg"
         width: 1200
         height: 675
         isCached: true

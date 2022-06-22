@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "What’s new in Microsoft Azure’s NLP AI services"
+    excerpt: "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code."
+    publishedDateTime: 2022-06-22T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html"
+    ampWebUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 138
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft to curtail some of its facial recognition capabilities in the name of 'Responsible AI'"
     excerpt: "Microsoft is limiting, and in some cases, dropping completely, some of its own facial-recognition technologies in order to meet its evolving ethical AI standards."
     publishedDateTime: 2022-06-21T16:58:00Z
@@ -41,20 +57,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/aabce5078bdea32e80b21d0996b47b4e6becd82c/2022/06/21/3a67307f-5daf-4534-b7b0-c65e89f1a409/microsoftcurtailsfacialrecog.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 743
-        isCached: true
-  - title: "Responsible AI investments and safeguards for facial recognition"
-    excerpt: "Azure Cognitive Services deliver high-quality, consent-driven face recognition that developers use to power verification of human identities on mobile, desktop, and internet of thing (IoT) devices, as well as facial detection and redaction capabilities for accessibility, modern productivity, and privacy."
-    publishedDateTime: 2022-06-21T09:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 106
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dc501e24-2f0b-43cd-bf24-cfd4511d958e.jpg"
-        width: 4081
-        height: 2247
         isCached: true
   - title: "Microsoft’s framework for building AI systems responsibly"
     excerpt: "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.\n"
@@ -85,6 +87,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/22/16d1fc06-ff1a-4d91-a4c5-f1d114de2f08_11e4956d.jpg?itok=D-q1jv85&v=1655864958"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How Microsoft's AI spots ransomware attacks before they even get started"
+    excerpt: "According to Microsoft's 365 Defender Research Team, human-operated ransomware campaigns are complex and multi-faceted, which can make early detection very difficult to achieve  e"
+    publishedDateTime: 2022-06-22T11:33:00Z
+    webUrl: "https://www.zdnet.com/article/how-microsofts-ai-spots-ransomware-attacks-before-they-even-get-started/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-microsofts-ai-spots-ransomware-attacks-before-they-even-get-started/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-microsofts-ai-spots-ransomware-attacks-before-they-even-get-started/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/00fc1f311763d5d6c7e4c9acb76b6660710b3207/2021/09/10/ef7f8a3b-bf95-43dd-a96d-82b0316dba85/cybersecurity.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 802
         isCached: true
   - title: "Microsoft Ditches The Controversial Facial Recognition Tool That Detects Emotions; Here's Why"
     excerpt: "Microsoft has decided to restrict access to the face recognition capabilities made accessible through its AzureFace API."
@@ -118,15 +136,54 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'"
-    excerpt: "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI."
-    publishedDateTime: 2022-06-21T18:54:00Z
-    webUrl: "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
+  - title: "Microsoft places limits on facial recognition"
+    excerpt: "Microsoft restricts access to facial recognition tools and scraps the sale of some services as part of attempts to reduce AI risks."
+    publishedDateTime: 2022-06-22T10:28:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-places-limits-on-facial-recognition"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-places-limits-on-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-places-limits-on-facial-recognition/amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 78
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2019/09/MWL_facial_recognition_biometrics_650-e1624358480805.jpg"
+        width: 635
+        height: 390
+        isCached: true
+  - title: "Microsoft retires facial recognition software that recognizes emotion"
+    excerpt: "Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools, including retiring facial analysis tools that purport to infer emotional states and identity gender,"
+    publishedDateTime: 2022-06-22T11:31:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/microsoft-retires-facial-recognition-software-that-recognizes-emotion-article-92388826"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/microsoft-retires-facial-recognition-software-that-recognizes-emotion-article-92388826/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/microsoft-retires-facial-recognition-software-that-recognizes-emotion-article-92388826/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 78
+    images:
+      - url: "https://static.tnn.in/thumb/msid-92388826,imgsize-100,width-1280,height-720,resizemode-75/92388826.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft And Meta Joins Google In Using AI for data centers"
+    excerpt: "Data centers are safer than they were previously. However, in search of innovative solutions, some tech titans have"
+    publishedDateTime: 2022-06-19T07:47:00Z
+    webUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/"
+    ampWebUrl: "https://www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/microsoft-and-meta-joins-google-in-using-ai-for-data-centers/amp/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
     quality: 74
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/04/120906464093638-1.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Microsoft's Calling It Quits on Creepy Emotion Recognition Tech"
     excerpt: "As part of its overhauled AI ethics policies, Microsoft will phase out public access to AI capabilities that attempt to infer emotions and identity attributes."
     publishedDateTime: 2022-06-22T01:20:00Z
@@ -228,6 +285,62 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 53
+  - title: "Industry leaders hail Microsoft role in UAE’s digital transformation drive"
+    excerpt: "Microsoft customers on Monday shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE data centres."
+    publishedDateTime: 2022-06-20T16:31:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 52
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2022/6/21/digital-transformation.ashx?h=450&w=750&hash=99BEC9B861D12CD560227BFDE78AD102"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "KPMG AND MICROSOFT COLLABORATE TO HELP C-SUITES PREDICT TAX OUTCOMES AND SET BUSINESS STRATEGY WITH NEW CLOUD TECHNOLOGIES"
+    excerpt: "Investment in new technology creates value for businesses in more than 140 jurisdictions globallyKPMG Digital Gateway, enabled by Microsoft"
+    publishedDateTime: 2022-06-21T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kpmg-and-microsoft-collaborate-to-help-c-suites-predict-tax-outcomes-and-set-business-strategy-with-new-cloud-technologies-1031540513"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/648978/KPMG_Logo.jpg"
+        width: 400
+        height: 295
+        isCached: true
+  - title: "Microsoft & Meta begins testing of Artificial Intelligence to assist in operating data centers"
+    excerpt: "I run the compute in multiple large scale datacenters. This is such a silly sensationalist article. There is nothing \"AI\" about this."
+    publishedDateTime: 2022-06-20T01:30:00Z
+    webUrl: "https://techstory.in/microsoft-meta-begins-testing-of-artificial-intelligence-to-assist-in-operating-data-centers-2/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 42
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/06/AI.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "Microsoft UAE customers share digitisation success stories"
+    excerpt: "Microsoft’s Azure locations in Dubai and Abu Dhabi have accelerated digital transformation across industries and proven themselves to be potent catalysts of economic growth. “AI capabilities, powered by the Microsoft Cloud, allowed us to unify our ..."
+    publishedDateTime: 2022-06-20T07:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-customers-share-digitisation-success-stories-dxmkkixr"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://static.zawya.com/version/c:NDkzZDVkN2QtNDI3NS00:N2ZmYzM3/sayedhashish-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Microsoft to Limit Access to its Facial Recognition Technologies"
     excerpt: "Microsoft announced today that it will limit customer access to its facial recognition technologies in the name of responsible AI."
     publishedDateTime: 2022-06-21T19:02:00Z
@@ -237,6 +350,22 @@ related:
       name: Thurrott
       domain: thurrott.com
     quality: 36
+  - title: "Tenable CEO: Microsoft Vulnerability Disclosure and Patching Practices Are Insufficiently Transparent, Put Customers at Risk"
+    excerpt: "Tenable CEO cites reports from several cybersecurity firms that indicate Microsoft is not being timely enough with its vulnerability disclosures and sometimes has a \"dismissive\" attitude."
+    publishedDateTime: 2022-06-21T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/"
+    ampWebUrl: "https://www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 32
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/06/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Microsoft curbs selling of emotion guessing software, limits facial recognition tech"
     excerpt: "Microsoft (MSFT) said on Tuesday that it would stop selling technology that guesses their emotion based on a facial image and would limit the access to facial technology"
     publishedDateTime: 2022-06-21T19:12:00Z
@@ -247,6 +376,6 @@ related:
       domain: seekingalpha.com
     quality: 29
 
-secured: "zsQN/S/VvIiCWGi3WGg0AOmvlS8a5dSitWzNAhsUIt0joWIsrUltwze0UaaSouQc9is7C5SQwftuJA+EK0nN8kHLU0OBsAWzWKcVgtya2+m11aS4JCbsqaIsfGJS0KNIUd8ROowFtSiHE30rwhV6+0FHC1vrE+NJTp7rrzw93iSDgXndm3kr57sirn1QxB3il1BP+GONN7vB5KdPAtldQLuzVMRHxx3z4HBuRWuJRe4RbZRGqDr+/g0oYmTi4Z6TG6nRAuZQ5lcH5a9i28NGqqy37WOCM6IqsyZy57LEzIccJASBnUsqMb5XH48yXJPbmoxJd4nqebka9RlPSTBJPTsaav+wCC0d3kyuJEHMruc=;B0m3zqIgrACbQ9CCGOL4Ng=="
+secured: "23eYQJyzbzQWEs/1aZ6PF2mGzYg+6CoYkXkG5XSqBt6Reux9JNn8T6fzMG/hlz5igzmawAq4YzoBjyvCOXmtZhTAN83t6XG/KMOssMSjkFPPYIL/3fj/IcVBUGHokYRxlsk7VB8TJm2wCoKhIbWe4/AZbXDdoTH5BPYk7mVlLTBoNFASAWS+UBB3DHBky4Yh/ZtVazcIflyTmL/vj0wvOSX0s6skhqn5oHpYjJMQSxCm5CexJn5e5KCONTMebFQpf2u9QCW5XrJixQHzFj40QcG1Ph0KqpjR+BIuAsjYM6SYQi0udzBrrFmuYFMnmS1GehB1fbTW8QB3i5ArAUv2FNK1RovmRqFBXjVlEa7/N939Ohx9RJzplvtsfhs+Vk1tU167VPRb2eE6RRZNFfeRTr+w6+crf7qp8sfmuzYGVLh8+eIepImRuM8iEq0zpHPP91rVt2bwEn8E3CYmdF3BlS9fd6MqIfcVLTBDghzvSTTF43/KBMx2ylPCRYzElhPvqxrZlGt6/mzLFtI4XsumLg==;MhngVPvSMxikCZ0Rd4HYfA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/see-how-3-industryleading-compani
 webUrl: "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+related:
+  - title: "Speech processing in industry"
+    excerpt: "Speech can facilitate communication in many situations. It’s no wonder that voice input on smartphones and assistants such as Alexa, Siri and others are booming. Industrial applications can also benefit from this,"
+    publishedDateTime: 2022-06-22T10:00:00Z
+    webUrl: "https://www.elektroniknet.de/international/speech-processing-in-industry.196980.html"
+    type: article
+    provider:
+      name: Elektronik Net
+      domain: elektroniknet.de
+    quality: 24
+    images:
+      - url: "https://cdn.weka-fachmedien.de/thumbs/media_uploads/images/1655807552-270-worfld4dr.jpg.720x405.png"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "iiOFxH1zg0sVrF7XeWqmftvkeWlbycxVvW7h/zNlM7axTQ4ndnr/vlk50TpluQXDjibWAOPjCVylarGSBezljuvsQohDgteAXtHFx8nkpNqnPMVwoH9yh4+f14SptsQJuaI5Y4esXXhyZKIemlcclmtvlGmxFd0CVsf+/vB0GOT/4wRWIcD4G0/FlrFMTaTLrbbjJqjEsxEti3fverHRDKGZ1qXixP2zhsN5GfyXFGwDwPKisJu5MaZvLYhoOjEnHYNwPovu5UwgaTLDWV5w2nKNwG+5qTOiF3PvyvUuHU599A4HsmkCtZIdAOFlHA0YpO0OqraA1V8TN8LAAAwg5/Q7bHVHGF10Zc2qUxcIl3w=;alOEGuxPdALG28A/mcOMdg=="
 ---

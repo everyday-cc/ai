@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analyt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     images:
       - url: "https://www.monitordaily.com/wp-content/uploads/2015/12/166470155.png"
         width: 500
+        height: 500
+        isCached: true
+  - title: "AI startup Synapse Analytics raises $2 million pre-Series A round"
+    excerpt: "Egypt-based AI tech startup Synapse Analytics, has raised $2 million in a pre-Series A funding round led by Egypt Ventures,"
+    publishedDateTime: 2022-06-22T10:24:00Z
+    webUrl: "https://www.wamda.com/2022/06/ai-startup-synapse-analytics-raises-2-million-pre-series-round"
+    type: article
+    provider:
+      name: wamda
+      domain: wamda.com
+    quality: 39
+    images:
+      - url: "https://cdn.wamda.com/feature-images/8a27e9143bfac5b.png"
+        width: 900
         height: 500
         isCached: true
   - title: "NBK receives “Data Transformation” award at AI and Analytics Summit in Dubai"

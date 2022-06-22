@@ -63,6 +63,20 @@ related:
         width: 733
         height: 358
         isCached: true
+  - title: "Visionary.ai and Innoviz Partner to Improve the Power and Accuracy of Machine Vision"
+    excerpt: "Combining Visionary.ai's Camera Imaging Software and Innoviz's LiDAR and Perception Software Enhances Performance in Low-Light Conditions Visionary.ai's True Night Vision technology leverages Artificial Intelligence (AI) to dramatically enhance image ..."
+    publishedDateTime: 2022-06-22T11:55:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionary-ai-and-innoviz-partner-to-improve-the-power-and-accuracy-of-machine-vision/article_7d90bf35-d2ba-5231-8d60-4bd9973ff94a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "JS0mJ6+JeI+2dfHMKq064pHESw1jsXfdv+6kj5PITLrP2yA7n8abkGCFJzGshSNWwlch8R+yBkKUA30v22lI/dRXKMtkUlr6JQxv271taJbNH2tk4dhIVl/tej/KwTbaUh6rjmTCqCwVT6BJYbCpIirQtxJNIGuUTdH15MM4UFY+wPtnve5MlkOQ1fYCjK0NI86JqgVuDc/PzGxAU/L88Qm+4S8qe25P6smcqSY29RLVgsvYne5yq9KT8X/42CFQdOi/nB/TOIX9kN2gzYPSstqBMX21/BukhAb6IBRwmfVube8RTpQHHYlNQCg0B0ySyr0pTjlzPB+bYtMuMG5IX5hO5GdXsHaAWyEoTBDOuQI=;o86zgbUkLCQtnXxB7cQsZQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-gro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,38 +30,36 @@ images:
     isCached: true
 
 related:
-  - title: "How Project Convergence is Bringing AI to the U.S. Army"
-    excerpt: "The U.S. Army is working with industry partners to quickly enable data transmission technologies to get information more quickly and efficiently to soldiers immersed in high-speed, fast-changing combat environments."
-    publishedDateTime: 2022-06-19T22:00:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/how-project-convergence-bringing-ai-us-army-203094"
+  - title: "Why Growing Organizations Should Consider Voice AI"
+    excerpt: "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity."
+    publishedDateTime: 2022-06-22T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/5852204%20%281%29.jpg"
-        width: 1222
-        height: 815
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62ab34a06f0d8f09215433de/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Governance Gap Raises AI Security Concerns"
-    excerpt: "Cybersecurity is now viewed as the most critical factor in AI adoption, but governance needs to catch up with the potential risks associated with the technology, a new study from Juniper Networks has revealed."
-    publishedDateTime: 2022-06-20T11:45:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/governance-shortfall-raises-ai/"
+  - title: "Dubai Police in collaboration with Continental organises a dialogue session on Artificial Intelligence Driving Hub"
+    excerpt: "AI Driving Hub and Continental have announced an initiative to use the technology in driver training. By using artificial intelligence and 3-D modules, the platform can simulate and then analyse incidents linked to tyre failure to keep road users safe and ..."
+    publishedDateTime: 2022-06-22T09:50:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub-me9mhbdb"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
-  - title: "How AI is used for data access governance"
-    excerpt: "According to the 2021 Data Risk Report Financial Services, a financial services employee has access to 13 percent of the company’s total files on an average. Meaning, employees can modify over half a million files,"
-    publishedDateTime: 2022-06-20T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-used-for-data-access-governance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
+      name: Zawya
+      domain: zawya.com
+    quality: 30
+    images:
+      - url: "https://static.zawya.com/version/c:NTJlZDRlZTgtNTZmNS00:OGZjMjZl/image1-avlivinghubinuse-jpg.JPG?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "rDQZoA3NQK+qbLi6dl9Wc1JfW5PxnDPRuKjZJNem4CR4vH+hTrUYjZTSuUKuVGlgkxh1zONDCvsFUlKmXEYFNSjpHgOd0YxVaNv9d158ErwuwvX+zhhqUKO/ZfkxGIUcTHsVPKV0dI97u+5yzZdh+iQEPPe5ePCedSSv+UrxwINQNQgu7pvoQZxHMLWo0gzo4jss4sgCVzC1yAxyqeVXPU0OGy3vszjAzj7DbdCm6TJYYiTR2lqzRRaiQQFWMZdAjJ4YowdHvQ9hLq9CbonZ57xDQcDZ9tnwSgday7GM/mbwpyqGLn6Q+U2ZfjoklyOQPn68Ul5oDSctuY047p8df/kXwPBbCQEobyJwFrM7bqrqETlAQW0mxQTJJ5qptGxM/kPwPnn047QJqUCg/hyObmL7Y6oqY91BK0/nJ2qF5+gpczX3zqeZqXfQO24WtL41KBbytvWutk3/MIg1ZPq9LY7xnRvBVN6TZx+s+kTA5DDtLDDOzoUH+7jAMKz00UxhlTVl7FZvsf1ZnX6A4oO4xA==;UppxmXU2baE3NaM4kjmUoA=="
 ---

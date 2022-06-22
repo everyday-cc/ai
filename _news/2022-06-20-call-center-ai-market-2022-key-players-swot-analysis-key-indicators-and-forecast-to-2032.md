@@ -19,29 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Face Recognition Technology Market 2022 Emerging Trends, Latest Technology, Limitations & Risks, Key Regulation Analysis, Forecast till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 17, 2022 (The Expresswire) -- “Face Recognition Technology Market” report study provides valuable information and useful guidance to new participants or companies ..."
-    publishedDateTime: 2022-06-17T23:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2022-emerging-trends-latest-technology-limitations-risks-key-regulation-analysis-forecast-till-2028-2022-06-17"
+  - title: "AI Chip Market Size Application, Demands, Business Opportunity, And Growth Strategy Forecast To 2030"
+    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030, owing to the surging adoption of artificial ..."
+    publishedDateTime: 2022-06-19T18:39:00Z
+    webUrl: "https://menafn.com/1104398215/AI-Chip-Market-Size-Application-Demands-Business-Opportunity-And-Growth-Strategy-Forecast-To-2030"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?730815"
+        width: 333
+        height: 250
         isCached: true
-  - title: "Global Automotive Voice Recognition Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
-    excerpt: "Global Automotive Voice Recognition Market 2022 by Company, Region, Type, and Application Market Research to 2028 is a report provided by MarketandResearch.biz that examines current trends, provides a financial overview of the industry,"
-    publishedDateTime: 2022-06-19T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-voice-recognition-market-2022---latest-innovation-sales-channels-business-advancements-and-top-vendor-landscape-to-2028-2022-06-19"
+  - title: "Industrial Artificial Intelligence Market Report Future Prospects, Growth, Outlook and Forecast 2022-2028"
+    excerpt: "The latest Industrial Artificial Intelligence Market Analysis is designed to help clients improve their market position, and in line with this, this report provides a detailed analysis of several leading Industrial Artificial Intelligence market Key Players including Intel Corporation,"
+    publishedDateTime: 2022-06-21T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-report-future-prospects-growth-outlook-and-forecast-2022-2028-2022-06-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 16
+    quality: 30
   - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
     excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
     publishedDateTime: 2022-06-20T13:09:00Z
@@ -51,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 13
-  - title: "Automatic Content Recognition (ACR) Market - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Global Automatic Content Recognition Market by Component, Content, Technology, Applications (Broadcast Monitoring and AD Targeting & Pricing), Deployment Mode, Organization Size, Vertical and Region - Global Forecast to 2027” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-06-21T21:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-e9bc48d3116b463a8e82f681044cf65d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "I4RRG0Pt6qySOEHvqX8X1BflaNODxRGIs1PyZxHKkbMEvvAvN6qjGERSlV1PY/sf20u5eGSORu0AY0QKFsOtBOoaIWluTL3cC3DHzEoEVWiM0Eivin891Qc/2TXLbPDVZQIILmPF1V0zpMNOm+3ODChVNOXrnp3dgKTa5i2T1kxpBmB4kuJdqv7UTN9KNRuZO/wk5enjkCkxU0U6usijGXoCvMQvhVRVPWoVb4Mem1jadGdQFg/LGsP9GJSS2O/yGRNW/zuD3wgjx+P7X36eLuL9qPFVFIU9cuHUhd9WvNCauDhl3k6vAJb2foVqx4neOHTmADLBrgMc2dKnyGeg6VDuOPBfjSU5ktleiNvNBcM=;msH4+zMOr9EC9dsFIYSQxg=="
 ---

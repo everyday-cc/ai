@@ -24,31 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Research confirms AI adoption growing but governance is lagging"
-    excerpt: "There's been an increase in AI adoption during the last year, but a shortage of human talent holds a great deal of good implementation back."
-    publishedDateTime: 2022-06-20T12:40:00Z
-    webUrl: "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/"
-    ampWebUrl: "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/"
+  - title: "How AI is changing IoT"
+    excerpt: "Artificial intelligence unlocks the true potential of IoT by enabling networks and devices to learn from past decisions, predict future activity, and continuously improve performance and decision-making capabilities."
+    publishedDateTime: 2022-06-21T10:04:00Z
+    webUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html"
+    ampWebUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/15/09/spot_it_leadership_2021_nw_business_technology_leader_considers_abstract_network_of_iot_internet_of_things_network_devices_by_metamorworks_gettyimages-1255557770_2400x1600_homepage_hero_b-100872872-large-100921919-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 611
+        height: 800
         isCached: true
-  - title: "Governance Gap Raises AI Security Concerns"
-    excerpt: "Cybersecurity is now viewed as the most critical factor in AI adoption, but governance needs to catch up with the potential risks associated with the technology, a new study from Juniper Networks has revealed."
-    publishedDateTime: 2022-06-20T11:45:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/governance-shortfall-raises-ai/"
+  - title: "Engineers build artificial intelligence chip"
+    excerpt: "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ..."
+    publishedDateTime: 2022-06-21T17:01:00Z
+    webUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
+      name: Labroots
+      domain: labroots.com
+    quality: 74
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg"
+        width: 347
+        height: 256
+        isCached: true
   - title: "How AI is used for data access governance"
     excerpt: "According to the 2021 Data Risk Report Financial Services, a financial services employee has access to 13 percent of the company’s total files on an average. Meaning, employees can modify over half a million files,"
     publishedDateTime: 2022-06-20T12:30:00Z

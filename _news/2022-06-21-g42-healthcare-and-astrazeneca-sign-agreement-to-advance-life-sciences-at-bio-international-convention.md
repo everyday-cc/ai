@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/g42-healthcare-and
 webUrl: "https://markets.businessinsider.com/news/stocks/g42-healthcare-and-astrazeneca-sign-agreement-to-advance-life-sciences-at-bio-international-convention-1031540862"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 400
     height: 266
     isCached: true
-
-related:
-  - title: "AstraZeneca’s rules for implementing responsible, ethical AI"
-    excerpt: "Multinational pharma and biotech giant AstraZeneca has shared some of its rules towards implementing responsible and ethical artificial intelligence (AI) within its business. For the British-Swedish behemoth,"
-    publishedDateTime: 2022-06-21T09:10:00Z
-    webUrl: "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai"
-    ampWebUrl: "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-06/BFDC6B9D-8597-4470-ADB3-5BD508CE0F99.jpeg"
-        width: 1840
-        height: 1100
-        isCached: true
 
 secured: "vr/T3F+MgrI14qsSKjW7FWB7FYs9CgbhvLjlPqvZDiLrUhUf132GPoOLbDmiEf3z3Kn4LeOL9eWVoVfBG7VPjbkp49Nero2Swcap87KgHANJLa2Eye8d5Zgey6UDYsZwEtsh1EBa0fVR97DV6XKc/tQZnr0MdIfVwgg0ferQVRktBFVTT7CfXpRDW4J5mpJj4PLoCF2hFsT67ORzuDfQY+Hdwm44ylnBU3Wm61aOULusLKkE90+ztyV6+FXCgH+IznWAjTdQZOnceRMGXX+qAfbATRogiO2psk+kURhsAP2RTzNoddxYKzCYQsCK1xMoRoWFEaCxn9bg97A5CW8fhOhwgczdlOw4BQMm9OgasoQ7QfTAlf0rUCJmXMvFBNmqwl+BEYJLL2Vsvh0Hr5dy68ZnLDCsmIdhjdkQ1BIBS+l7l7kzU/212rUHaEHZP7aTRKqEFuGYV5z/U0xX1Gh+w6ypiXIZ7g7o7fmAIIDF83fkeRRWb85RuWah+NLHpoE373BPHqc84JUTj4b9Sr2gdA==;DnceOjI2YODKqyAV2v6WAg=="
 ---

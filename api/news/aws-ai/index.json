@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-22-aws-beefs-up-contact-center-solution-with-new-ai-capabilities.md",
+      "title": "AWS beefs up contact center solution with new AI capabilities",
+      "excerpt": "AWS promised to be different and use artificial intelligence (AI) to take contact centers in an entirely different direction. Initially, some were skeptical a new vendor could have success ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "originalUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1248443439.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "publishedDateTime": "2022-06-22T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship.md",
       "title": "Accelerate your career with ML skills through the AWS Machine Learning Engineer Scholarship",
       "excerpt": "Amazon Web Services and Udacity are partnering to offer free services to educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Engineer Scholarship program. The program offers free enrollment to the AWS Machine Learning Foundations course and 325 scholarships",
@@ -52,58 +104,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-aws-is-using-ai-to-make-contact-centers-smarter.md",
-      "title": "AWS is using AI to make contact centers smarter",
-      "excerpt": "Amazon Web Services AWS has added new AI-based features to its contact center service, Amazon Connect. Amazon Connect is an omnichannel cloud contact center that serves businesses via an as-a-service model, enabling them to set up their own contact center ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-is-using-ai-to-make-contact-centers-smarter",
-      "originalUrl": "https://www.techradar.com/news/aws-is-using-ai-to-make-contact-centers-smarter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/revGmWARy7Adv2kKyAnQhc-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {

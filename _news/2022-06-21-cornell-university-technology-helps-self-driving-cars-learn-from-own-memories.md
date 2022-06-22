@@ -53,6 +53,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "John Deere: Leading The Charge In Self-Driving Technology"
+    excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
+    publishedDateTime: 2022-06-22T11:47:00Z
+    webUrl: "https://seekingalpha.com/article/4519582-john-deere-leading-the-charge-in-self-driving-technology"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/6/21/5764111-16558427123565476.png"
+        width: 640
+        height: 250
+        isCached: true
   - title: "Technology helps self-driving cars learn from own memories"
     excerpt: "Researchers at Cornell University have developed a way to help autonomous vehicles create “memories” of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
     publishedDateTime: 2022-06-21T00:00:00Z

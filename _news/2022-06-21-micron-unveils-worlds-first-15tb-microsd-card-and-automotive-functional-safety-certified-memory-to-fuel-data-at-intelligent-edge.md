@@ -35,6 +35,20 @@ related:
         width: 900
         height: 672
         isCached: true
+  - title: "1.5TB microSD card introduced by Micron"
+    excerpt: "If you are searching for an extra large microSD card for your camera, vehicle dash camera or action camera, you might be interested in the latest storage"
+    publishedDateTime: 2022-06-22T11:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/1-5tb-microsd-card-22-06-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/06/1TB-microSD-card.jpg"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "jpS0fDOJCvzkXUAUL0ysyr0F6CpS3DqZjHwQTLhu9M+7sZjVikCGlBVzwmjP5PeispW0efd2wiCe/Xg7MGpThF4h1I1JBaZAESWslnp/gi7FogdYou1J7huE3j3nrvuQfBL1aD80aBGtLuHkWx+H+QT6qVmBUAhX1EFXK5zdoBur5jVnplhg0uHAe0oIfu2S3UFuO48Agc0bjWjRaPARb6H/TQPZGZ2tgE8ZOfu8RL65Ez52229Rtou6D68QJSyL4tfQ9nrFLqEeXQ4dsd/EfuDKJjWtbCsdOpokbe38YHt8ZgSEcTEEZraJxnpzYisctXu517wZpGdPBONFoLxNOCt9K7f6DZOt0s3NmMD+3IU=;OdciMBBpZ/A3UCV44Q75ng=="
 ---

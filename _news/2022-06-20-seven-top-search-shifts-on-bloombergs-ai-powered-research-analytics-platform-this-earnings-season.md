@@ -66,6 +66,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "AI startup Synapse Analytics raises $2 million pre-Series A round"
+    excerpt: "Egypt-based AI tech startup Synapse Analytics, has raised $2 million in a pre-Series A funding round led by Egypt Ventures,"
+    publishedDateTime: 2022-06-22T10:24:00Z
+    webUrl: "https://www.wamda.com/2022/06/ai-startup-synapse-analytics-raises-2-million-pre-series-round"
+    type: article
+    provider:
+      name: wamda
+      domain: wamda.com
+    quality: 39
+    images:
+      - url: "https://cdn.wamda.com/feature-images/8a27e9143bfac5b.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "NBK receives “Data Transformation” award at AI and Analytics Summit in Dubai"
     excerpt: "The award reflects the bank’s successful strategy to build a digital culture with internal capabilities that are knowledgeable in AI and Data Analytics"
     publishedDateTime: 2022-06-19T07:13:00Z

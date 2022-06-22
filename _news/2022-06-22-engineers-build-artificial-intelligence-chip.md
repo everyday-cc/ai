@@ -43,6 +43,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Project Convergence is Bringing AI to the U.S. Army"
+    excerpt: "The U.S. Army is working with industry partners to quickly enable data transmission technologies to get information more quickly and efficiently to soldiers immersed in high-speed, fast-changing combat environments."
+    publishedDateTime: 2022-06-19T22:00:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/how-project-convergence-bringing-ai-us-army-203094"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/5852204%20%281%29.jpg"
+        width: 1222
+        height: 815
+        isCached: true
+  - title: "How AI is used for data access governance"
+    excerpt: "According to the 2021 Data Risk Report Financial Services, a financial services employee has access to 13 percent of the company’s total files on an average. Meaning, employees can modify over half a million files,"
+    publishedDateTime: 2022-06-20T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-ai-is-used-for-data-access-governance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
 
 secured: "cGUdjFDfto2EE6MARh/R2yTG/7yKa5h8BStmG5hAg9kjNT7h495wz46xbyqFEhQtPhknDWsdcAOZP1jvnqU97aTJQdU8a9Ry7s8BnMdrSGVDKzQQ643LwW1LUXBqUwr6j+yJaeU/R7YZavzUhy76o7v5AY2R5Zziu/Mqqv4MR3npupIxz/2YmEhQ3xJ82Nvuls35u1pgAF4Od7upGZb76nx8KFUZgzW4Ug8i3CQI2ycaSF2RGuq31aupW0D7n+8KR/O8VbuzvGgyGmC+HnmQvxc7lmFfcSZkAFsHLVZvMEHbhzHS0BiQ6AhA/+SOyf5i5+qod94KnizzTZMW7TzNPVhardanKA7ILRDOXpX8ZhWx7xSBZWzitLCjXa4XEb7BQB7aQoxMrSN+D+EZP8ukTsTDRVwdMJBioiLwPboW1QsUN3sOAFav2RNxW0LW7eLfD/DjiHZTx6O5ZQ0Rhk43Zu4haxOgzSsfZYSswdDjk37PlO70pxPrplfPlZVKzI1VRyjMuZYxtPN8vDW8m6mWJA==;jCFZ5505CZFHn2ncBPmyvg=="
 ---

@@ -59,6 +59,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "AI startup Synapse Analytics raises $2 million pre-Series A round"
+    excerpt: "Egypt-based AI tech startup Synapse Analytics, has raised $2 million in a pre-Series A funding round led by Egypt Ventures,"
+    publishedDateTime: 2022-06-22T10:24:00Z
+    webUrl: "https://www.wamda.com/2022/06/ai-startup-synapse-analytics-raises-2-million-pre-series-round"
+    type: article
+    provider:
+      name: wamda
+      domain: wamda.com
+    quality: 39
+    images:
+      - url: "https://cdn.wamda.com/feature-images/8a27e9143bfac5b.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "NBK receives “Data Transformation” award at AI and Analytics Summit in Dubai"
     excerpt: "The award reflects the bank’s successful strategy to build a digital culture with internal capabilities that are knowledgeable in AI and Data Analytics"
     publishedDateTime: 2022-06-19T07:13:00Z
@@ -83,6 +97,6 @@ related:
       domain: bloomberg.com
     quality: 33
 
-secured: "V0T4JxzQfXOk8yzTJQvIu7tijkXkRz8a4ZpLRMke8zR+vdcz7W72HqQxZACwie2wj/hWL2gfIAilH/kOB6Znv0tGOVgFNymKvIVUTPPDCkPxlvymmA9m/PeFcDsVlCYb5DDFjcGcg229qDEsZtXivl1D6TrxOvVw3oP8XHX6SZK7GfvfLjGSTqEBAmO58H92b2FUXfpuDWPM31Vz6BRzn8kvzCnjsnftKjtDAvJQEhMbY1bCv3Ev2V9Iq+dc0UJTQZ06TS+/LYoilKckudP6aZ1LuBJ5ZcPZ916kjIZgAI0qMUaUhuFkGw9B07xWSr3ryfkopRKbqOWwm3JnqgB7YTKomKg2IYqspGjJ6AIccAo=;P52dZDsVfHgm3G0ZPCir1w=="
+secured: "qGP5eoHD0bRXoRTNc9sG9rHvnkTP9Z4Y0vFGu0On4J88tibUC0+c1PfjgaElhGQDecRSjanQSx2eLUpowY9+1JNUQb0d+NJ7z4A6cbyRnrmWv6m+LuM/jwMdiCsw04GwPCXnH/uBkS9J7zbQRWMJNQEAFT2qFqxRjpUzWUVbAx1j78p7hqlKcGnXRXFyyAoMsDnRall5Qajg20+5Q+Wyjqmq96owOLmpD/FV1APsuHlNIEIYhCY9RnVcFLhjRG5PUiEmmE3XllkHtI6UQtUK4m1Y+WMbV8ymIBtVV5CTfVbJeVbRuDP7JDCtBNimQlJucEr9tlQNJfKt8obV2DvMwb8bp69T+lzp/PL1u+EZyTGbR1yW50yUsaxJy5kjMFNn/JCLmctnba20pt+yYqgoz53TvmwRSl0HWpny16WoluNbGvTKBW/SJlChOLm7IiDAhWJWlqqeeYaJ8Tk7XSPLzbkcUyV3vCJ85I9s2hKXHsEsLLnLt5TEC3igY2u7e0qYMq5B8JhBggx6GCDqzsF6qQ==;mxWPSsOwxo617DcV5bQ96Q=="
 ---
 

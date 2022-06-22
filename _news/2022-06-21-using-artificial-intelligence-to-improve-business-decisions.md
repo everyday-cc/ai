@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/06/AI-for-business.jpg"
         width: 733
         height: 358
+        isCached: true
+  - title: "Visionary.ai and Innoviz Partner to Improve the Power and Accuracy of Machine Vision"
+    excerpt: "Combining Visionary.ai's Camera Imaging Software and Innoviz's LiDAR and Perception Software Enhances Performance in Low-Light Conditions Visionary.ai's True Night Vision technology leverages Artificial Intelligence (AI) to dramatically enhance image ..."
+    publishedDateTime: 2022-06-22T11:55:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionary-ai-and-innoviz-partner-to-improve-the-power-and-accuracy-of-machine-vision/article_7d90bf35-d2ba-5231-8d60-4bd9973ff94a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "G4CjEVfWTSK+1nXe67GUTWbzSMBPu20FxoC7MigZmVSVsqaOpU2JKjr/LVjGtECa8eLzrzcqyREvjQ+zFUrPiY73ElB0f2QQLouSRL1liEqspiJrmV2G2zZA7Iu48T7OvmfPg4qYqGtgQth/03WuKShkf/sX77SojdZPFQD9eng8d+ArWUqJB54M3W4450vfWHLLtHA4HevFR5bLOYD769CEiirtyvQnAwpkSHjTvYmdXBOGDfiQfCLlVWSwPyBtiB3Kw1r5kw4uk8wQexe8mcrS1AIllLlGqvSuf1izs5A/IngmNE0yejunphyu0PKAbewTIef8jM6Ow4lF8AbTyg95K1n5+hHJSSY/HLNsvEY8wg6bd5J2l+yWUjYOHOm1tyTwwKGDWLs1ainqah+uE6UpTfFXGE1Opiufuxu3o88tm82AQIQrR9sD5pLVOIwXQh1BAdgoQVBMYGNVzwgwdV/Nsf1qD3gjk1NEx7b3St4vep4xRWCf2bDzpGEv2t/bQdNPUQt/UnwJTq94n2Uy1A==;ukPewrgzxYi0XmwggyaCmQ=="

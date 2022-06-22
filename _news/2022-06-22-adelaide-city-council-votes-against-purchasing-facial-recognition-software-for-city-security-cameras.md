@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/101172924"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101172924"
 type: article
 quality: 76
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -55,34 +55,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "SA Police ignores Adelaide council plea for facial recognition ban on CCTV"
-    excerpt: "Adelaide City Council is yet to receive formal assurance from South Australia Police that it will not use the facial recognition capabilities of Adelaide's planned CCTV network until laws are developed. In November 2021, the council passed a motion to ..."
-    publishedDateTime: 2022-06-20T02:40:00Z
-    webUrl: "https://www.itnews.com.au/news/sa-police-ignores-adelaide-council-plea-for-facial-recognition-ban-on-cctv-581559"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 52
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "Adelaide considers CCTV system with facial recognition as calls for regulation intensify"
-    excerpt: "New deployments of facial recognition technology continue to raise questions in Australia, as experts call for changes to privacy law."
-    publishedDateTime: 2022-06-21T17:32:00Z
-    webUrl: "https://www.biometricupdate.com/202206/adelaide-considers-cctv-system-with-facial-recognition-as-calls-for-regulation-intensify"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
         isCached: true
 
 secured: "YnYPlAtzzsh3sjnXG0vKfdfxmqEjYvD657Au0YkxcLZou8uxSagynz/lJLyJuOnmFrztKHkXRdH+SHMbOQe7Kmc9bpe2VUMTXA5zFC2e2tIfVWchKwlL/3Nbsi+Rp8Tvrv4vzMS2/HmZlQfKMYdVq4QJT2UhQ35ZjsefyB3GeGyNsmDh85YmJMcSoLNfkg5qDsTE82+DS8ShrhSOs7s2i6CZOYF7+/ihfz7Yfj/6QDYojeuCiPBRvQQm88y5Ff4+Uqcgs5ThcneECy3OCpeTue/Zage+wCvRisCydTB8EV/sVjNh5Bl7F6qjpRH+/tONnXwhHVKU+PU0Gv4KMyoFlHsI4WDgVBmLOGbN3/EX+EV0WUGaY2oGr2yG5COKCI/r9bachsI3XItempkkMizQfmvou8wgretTnYnkbdiRv9F4+d0F+Q+pNuy8otHdzU+48qVUfvKOSkThqtzspZv2NrWXpKw6GXoODpy9zCNX31nTpCYlEjRqbzXr/m78HqPFiSOHRjLp1iBgjluFc53bCw==;7Ax5i0ljOZIQSvvrleEa9w=="

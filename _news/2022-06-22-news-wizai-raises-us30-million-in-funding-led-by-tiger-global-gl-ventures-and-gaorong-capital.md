@@ -66,20 +66,6 @@ related:
         width: 960
         height: 644
         isCached: true
-  - title: "Dubai Police in collaboration with Continental organises a dialogue session on Artificial Intelligence Driving Hub"
-    excerpt: "AI Driving Hub and Continental have announced an initiative to use the technology in driver training. By using artificial intelligence and 3-D modules, the platform can simulate and then analyse incidents linked to tyre failure to keep road users safe and ..."
-    publishedDateTime: 2022-06-22T09:50:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub-me9mhbdb"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
-    images:
-      - url: "https://static.zawya.com/version/c:NTJlZDRlZTgtNTZmNS00:OGZjMjZl/image1-avlivinghubinuse-jpg.JPG?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "XJLhreREKfAZwED6mwL4V2K7mvCbQdUQ5kBgnscpkTybDN1gB/pm4gQRDiQnrXYWgGVDeTdrCTAz04jWerXb+86nITmZJvbxjCmq7ACdQnXayCjptr1U37wJwiymcbSqXJjpwFP1w0sdxtJZtyI44F2UgrXxTpLz480GKZ8JFxbX47H1itRekXYxzGNU8q15ZAmBqfD9nSG5tKQbV7mRSo/Xk7ndEkgmZ5rSyAuKZCuf6y75IoLBZ+m0h4ouCVYsMYcYpm3eOEPQhVLNwO8wkSTxfe+0Glz5J2cWErF1Uohp9wMVr5q4XiUfB60tklUltapogetKGX63WonVzr7uKdQcYn/Xbed4k5B5zv7P43E=;6V4TOs5noJ+v1rQgwcWH4A=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://abcnews.go.com/Politics/irs-rolls-artificial-intelligence-calle
 ampWebUrl: "https://abcnews.go.com/amp/Politics/irs-rolls-artificial-intelligence-callers-make-payments-resolve/story?id=85467107"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/irs-rolls-artificial-intelligence-callers-make-payments-resolve/story?id=85467107"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s.abcnews.com/images/Politics/irs-building-file-gty-ml-220617_1655488848295_hpMain_16x9_992.jpg"

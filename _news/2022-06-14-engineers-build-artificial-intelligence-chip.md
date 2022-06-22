@@ -23,6 +23,7 @@ topics:
   - AI
   - AI Hardware
   - Machine Learning
+  - AI in Autos
 
 related:
   - title: "MIT Engineers Build LEGO-like AI Chip"
