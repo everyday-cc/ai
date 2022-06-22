@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Maruti invests Rs 2 crore in artificial intelligence startup Sociograph Solutions"
-    excerpt: "The country's largest carmaker Maruti Suzuki India on Friday said it has invested around Rs 2 crore in Sociograph Solutions Pvt Ltd (SSPL), a startup specialising in artificial intelligence. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions,"
-    publishedDateTime: 2022-06-17T09:57:00Z
-    webUrl: "https://www.freepressjournal.in/business/maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 52
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Maruti Suzuki invests ₹2 cr in AI startup SocioGraph Solutions"
     excerpt: "India's largest automaker Maruti Suzuki has invested around ₹2 crore in AI startup SocioGraph Solutions. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions."
     publishedDateTime: 2022-06-18T05:26:00Z

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Reddit snaps up Spell to boost user experience with machine learning"
-    excerpt: "Founded by a former Facebook engineer, Spell will help Reddit personalise its content and ads using AI and ML."
-    publishedDateTime: 2022-06-17T09:08:00Z
-    webUrl: "https://www.siliconrepublic.com/business/reddit-spell-machine-learning-ai-acquisition"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/a-14.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Reddit acquires machine learning platform Spell"
     excerpt: "Spell team members will move to Reddit and work on ML projects like how Reddit customises ad placements and keeps its communities safe."
     publishedDateTime: 2022-06-17T12:45:00Z

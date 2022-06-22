@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6eeae672-e702-4ccc-a7cb-9489213358ca/Rendition/thumbnail/Content/Public"
         width: 300
         height: 300
-        isCached: true
-  - title: "How can we prevent AI from being racist, sexist and offensive?"
-    excerpt: "Artificial intelligences continue to exhibit the same biases and prejudices as humans because they are trained on what we create, but there are ways we can improve the situation"
-    publishedDateTime: 2022-06-17T09:14:00Z
-    webUrl: "https://www.newscientist.com/article/2323367-how-can-we-prevent-ai-from-being-racist-sexist-and-offensive/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/17095745/SEI_110046028.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "MZiO1QOqm3F4AieeyVA/A5JeNIG6Nxm1BSj4BtgGl8xG+mNEpjF6v4KAnnw/LC/WQN6Phxwx901N6brg6C2fcyy12T/3CX3VE54t207dleKKDNq7HF5uj7DmelxRNVAnn/loQ+J33HrPPVAnIxswrDhIzSbrfQ1OUT0L986AoSqhARJlV+WuxB+IOfZyqzGU8S+p+dew5IJ27JlYk2PI+ZK1HS5ViSnslHa7MGXFSqYltYo/8wGKBiGTovXEwVaMLokbpHq7A8TseGiSpNg4d+UYPtK5i+55FCgOkUGonflH9AwdLKzTBMCh7fqMvid88A5wOp6MPlDBH864ub12F6XCkHzMabCZ1Lc5IOoc8g/J7EtPoJZgxAFAGb9VMVjsQlaKQ46kywIcpImjcWCf091WoSpMV/pop+vzVwRoLm1jBd3iugRfbW58ta72kFGLv0TrfdJXgsrQCg9hECbCIq9R8yMsXeaNm0KJy2RBRZUL+Hu/LlTO3i9Io8iWVu+6qtwff30VsS2g2+wzo333EQ==;TUK5gXuZmEErdaHUHNOokw=="

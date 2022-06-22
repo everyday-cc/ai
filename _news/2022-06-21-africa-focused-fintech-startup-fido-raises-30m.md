@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/93086/africa-focused-fintech
 webUrl: "https://www.finextra.com/pressarticle/93086/africa-focused-fintech-startup-fido-raises-30m"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "20/06 – Weekly Fintech Recap"
-    excerpt: "Partnerships Global Fintech Ascenda Announces Partnership with Banque Saudi Fransi to power JANA Rewards Program in the Middle East Ascenda, the global loyalty technology company, announces a strategic partnership with Banque Saudi Fransi (BSF),"
-    publishedDateTime: 2022-06-20T09:54:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2006-weekly-fintech-recap"
+  - title: "Fintech Startup Stashfin Raises $270 Mn To Expand Footprint Across South Asia, SEA"
+    excerpt: "Stashfin has raised $270 Mn via a mix of equity and debt as part of its Series C round led by Uncorrelated Ventures, Fasanara Capital."
+    publishedDateTime: 2022-06-21T18:15:00Z
+    webUrl: "https://inc42.com/buzz/fintech-startup-stashfin-raises-270-mn-to-expand-footprint-across-south-asia-sea/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-startup-stashfin-raises-270-mn-to-expand-footprint-across-south-asia-sea/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-stashfin-raises-270-mn-to-expand-footprint-across-south-asia-sea/amp/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
+      name: inc42.com
+      domain: inc42.com
+    quality: 53
     images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_3.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://inc42.com/wp-content/uploads/2022/06/stashfin-social.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "vg+EfNW38sK5yH+Ut4Fos7UEmawb9zd2Hz7ZXZE/AH3tKsq10FFQzAmKrDHEu7BqaYiC0MS7z4GVb7rf8G0QF6be0CC7+4qS38SjoYEn6ySjWChiS+MXNTTuugT4/ziU4T3bI+66hdj8bz8E199KowBDB4HgN7q9SA11DoPFs9UwwVSSaT6zkXAuoNHYj/l2ofxkZwJH/fnSNvmIxFKcMkRjlkGQXKVyB3Eul7DSGoesEcNRHOeEER/CGw7jPx/NoHnIxjsNHQO5shliTMETTYZ3K9M3XHMVxiaeOzjbzMqcVnZXHQjGd6e/9eRGETegCubHch9VZF03Jsi+/Z4lY+Yd8QO4anxdiDic3Px013w=;xvlDjfrbXkVmhylf09WS+A=="

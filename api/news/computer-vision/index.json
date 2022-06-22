@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-22-adelaide-city-council-votes-against-purchasing-facial-recognition-software-for-city-security-cameras.md",
+      "title": "Adelaide City Council votes against purchasing facial recognition software for city security cameras",
+      "excerpt": "Police have refused to speculate whether they would invest in facial recognition software after Adelaide City Council voted unanimously not to include the technology in new security cameras being installed across the CBD. Adelaide City Council is due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
+      "originalUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485",
+          "width": 587,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/101172924",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101172924",
+      "publishedDateTime": "2022-06-21T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai.md",
       "title": "Microsoft to curtail some of its facial recognition capabilities in the name of 'Responsible AI'",
       "excerpt": "Microsoft is limiting, and in some cases, dropping completely, some of its own facial-recognition technologies in order to meet its evolving ethical AI standards.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -52,49 +96,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-sa-police-ignore-adelaide-council-plea-for-facial-recognition-ban-on-cctv.md",
-      "title": "SA Police ignore Adelaide council plea for facial recognition ban on CCTV",
-      "excerpt": "Adelaide City Council is yet to receive formal assurance from South Australia Police that it will not use the facial recognition capabilities of Adelaide's planned CCTV network until laws are developed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/sa-police-ignore-adelaide-council-plea-for-facial-recognition-ban-on-cctv-581559",
-      "originalUrl": "https://www.itnews.com.au/news/sa-police-ignore-adelaide-council-plea-for-facial-recognition-ban-on-cctv-581559",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

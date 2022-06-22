@@ -3,8 +3,8 @@ category: news
 title: "Forget sentience… the worry is that AI copies human bias"
 excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
 publishedDateTime: 2022-06-19T06:30:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
-webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?ref=upstract.com&curator=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
 type: article
@@ -150,6 +150,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "PSfRl85b+LgsBSaq2u6rh5Ri2oBZruTE5qQPBp4kqlW0e5Fvl1IVkPd9QLcJva37Rm5Ozgs0nKjPQkTxUl/JR9aHsIoOjErp9DotNuqhCTLHzuOO+vAAAPtO5WSbOfvp0yGC56pJT1sF4lo87SP4CSpjEE7E0Cxtt2rMvTcboRVxsymxk8P5kNV/j910pRptObZVzIKkOe5yt5tXsjN7c8lwG24cgpdAnQbJNe+LNbPBEx7X4o7nDB112BdQaXB8fkVXCGG7rkU2k9AWCSvi7mlj4yfxCEb9yFAmr0jvPRsJP9GLlBhLcaDTc3k0uohljKiAJM2WYp+dRnmCmv+yN5ozSbGTRKb04vg6lWMTAXhdEP4rspiy6uClu+VK3uWgJ+UfvlssQ3T/6Fv+aO6ye0ZFOJv3yWKt/LUnTsvK/v9lTDBdQBJVzJZhmNVd4wqvWwabQmGlIxMdTQbMmRAFXAtlrYDcxWpURx7Y72NvDMmHoSJ/06LHmMaX6KeTQYPERUHhiS3CraE30FbYElLVCw==;tQ32ZI5XV++d9hgwczGDRA=="
+secured: "9U3peTJzJGJU4kQM1ktEL416Uf1sOBpz7Qa5+HgurnidsiHaDlP9P17VthM308ZAiiYOCfn6Y1zNoDbCJwR9lZC6d7OBoXJnzeGY5h7DdIpJbKdBD1PwYoNQlAT+Rjl1iNkiCfyEmOAS8kidFuwmth3M73cmwdhtLunoBkIypLtOJ0al5yf0kbFQmXzMzlMJ1LX7sYFkNTUPB62BOMBrL5unJWODXoFvnEiSB3uf/WkD0WUdeJzWaRSBsGHxwWtaxiMtrmgMGQjrQQHJjnal/KNn5hcbDtThRqAonVLKl+CroSMftXYUd595ubSSn+fQtwH4MMxqkYUjuF0g5GVrUpbKChPhHdz2ZcsJQMIc4/A=;vluYu/lqSjDY2CpaDO9ymA=="
 ---
 

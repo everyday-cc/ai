@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-21T22:00:00Z
 originalUrl: "https://nationalinterest.org/blog/buzz/could-artificial-intelligence-prepare-us-pilots-war-against-china-and-russia-203130"
 webUrl: "https://nationalinterest.org/blog/buzz/could-artificial-intelligence-prepare-us-pilots-war-against-china-and-russia-203130"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/hornettraining.jpg"
@@ -23,6 +24,6 @@ images:
     height: 815
     isCached: true
 
-secured: "7GLpCM0yveRdXD55YCn9x8Z2SIGqxpkvY0bvQWnq5xyafOZsJ+ecjC0cCbk4eYaZ4jtIJ/DmO78wV05rHq4QGnn2MKBFUVwaWylwU9YoxuE4Ca+sHa31uTorRzQxxK/DTTABrwyOEKButO4dWZt2zEXWUWf9wUQIR2uxtCYSRGxp6QZ2g0iQ5fngYFewVWPdqUJxBIm3Hu0UpJJVRj17K4b79J3I5aiMOCc/EyxXwq0276RAmyfNkZ9MrW9OYx/aEnYz4XibwSd4AmxcYAaN76LFPSlyCpDIoQqUobRMqAzW7XLH8VuhKfrwOr9TqPUltw4+D+ZD2HMAY5P6ftkyWOmcCXw10yvO0i/Liu/vWSE=;ex51waY3tXywLyZ3ZMoWxg=="
+secured: "ZxDuUsIJcRfsl34uI8iBN457fZhaw8lKpH+pkRS8v9/xe22TZtcVvFXFBK2A/uJrP38C9t0iMFg9a7cxIvbHa8PKhgcyz2rmUc4ouKRqtc+Hc195XBpHBIt5gMKZDVhES1IIq2zKNWSQ7A5wOXjS1fgiv092RO3M/gyoCXPFkkPLHGYU/dJ8wEqyTJTc1w3L+JFH1LOEnV+XEdxMaVEo7+kUPhs0HoYDDmPM5qIxZqJ/wmgm3x0qCXp0Ltvvxnib1Wj0zEoTMHgrXMf9iGhjzob3Fez9ght9hsVzDyLPTvJKg9zsJKcDSWw/VVScQrR0YZyI1cvIXehBHEzOr34k6vYINf62zbxPvIJPCRZK9ZRXSg5H55ezsQ2R+XUxnNSc4WHMDNva58sxtYQyiqpCDDVC1zmrtcbS6pJ+YZNr96elXF3qPbKvjvjmag5QkYOQJMD9JCszMecC1y7ya7dxZi9TcZtHC8i5+sHBE5ChzPycnaA8w3OJ7FMC3MXPUNys5yO5tWpeyYBN2f99r5Eg9g==;4WpPgcORraUTdksaJSsR6g=="
 ---
 

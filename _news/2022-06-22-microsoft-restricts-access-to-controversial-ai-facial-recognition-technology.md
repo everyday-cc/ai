@@ -71,6 +71,22 @@ related:
         width: 1024
         height: 486
         isCached: true
+  - title: "Microsoft scraps some AI facial-analysis tools, citing risk of bias"
+    excerpt: "Microsoft will stop selling AI-based facial-analysis software that infers a subject’s emotional state and other personal attributes after the algorithms were shown to exhibit problematic bias and inaccuracies."
+    publishedDateTime: 2022-06-22T02:33:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 104
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/22/16d1fc06-ff1a-4d91-a4c5-f1d114de2f08_11e4956d.jpg?itok=D-q1jv85&v=1655864958"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft will remove emotion-detecting AI tools from Azure"
     excerpt: "The technology giant said the AI features, which have been criticized as potentially biased and unreliable, will no longer be available to new users beginning this week and will be phased out for existing users within the year."
     publishedDateTime: 2022-06-21T17:28:00Z
@@ -174,6 +190,6 @@ related:
       domain: seekingalpha.com
     quality: 29
 
-secured: "+SMfVbPSuGt7FnGfs5A04HKByXmNPAA+iwAzHIUEoZN9ZvbDavgFf5o9/IA2X0odsDTLSKWZ0IbVh32EvAFsdFSQ/Txn4t2lKRHw1KN8GoFiL3Eio+6bQ0Zc0X86b1jTpfD29/TE22X3CvuXARwZR8uWtZGlC56/Gysk0i0HC9DofRaEYI0ysc2ZcvVhHcijquQcI99xua6cz6cat1ihancxJnYpZWwRc8PnwKT2ulvTu1iF2X058Wvr+O2mwq3yQjLUDaMDZzCFi5QjFQ1WS3qIjYYCx4n6l1jaYKUUWwHEjcmmb59c0Ou43ssnGuVNpl62uKy/GcHnFWCyzE8eFpxlt2AM06hNL43aePXVayk=;9HhHd7JfX8lg+jhDAmBJqg=="
+secured: "DA5Mtg+k9uo3IxD41QDRCfhrJYxnQFxt1R7348Wkyhtgcql13/k51u83KDI7odOvzW38eNrudnnkVztNg/uTJ3lOrP1cE5bdOPJEMuPsB8NZZV6MNPAvY/MmZpqZTH6Zn//iczuDGkdk96GkSLI0cXWkRI49F9RtKo7lg9mJO0VrCfFTigg9i40IK8tomYy2TvyRNBldSt6j2ZvDH1H6Abp2sMu50uxuwBfc6+bgIICUvuZezGPq+/0d2EziSGo/BPKjgyOF3aeK/B99wCgvYLWwo94mwZXUnBO++6lxN8b+OYbwmz2IdBNfeXM1PKK7DN356l0W8NLlq0+/Onqgijk0phWN+gEAmlToC/kVtwoOc3WY3MIDrRRgLdOHCrZgAt0jWsQV5KuUPLXIBr3fAHcmOnDcam+OtMqpxJ2LhsyzR2R0RTnFlcrbWIWLXfZ+5kaIP1diIvEb/OYUMMYn2/EeRo3C01cXpALqkmrzG3MmWbeHJQzA559kFtTrTb5kTueL+OierCbaEUYtW3Y2mQ==;OMoSt6qR0es4Ye/JPqkAXQ=="
 ---
 

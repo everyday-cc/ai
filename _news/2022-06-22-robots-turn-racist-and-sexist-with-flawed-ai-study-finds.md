@@ -76,20 +76,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "How can we prevent AI from being racist, sexist and offensive?"
-    excerpt: "Artificial intelligences continue to exhibit the same biases and prejudices as humans because they are trained on what we create, but there are ways we can improve the situation"
-    publishedDateTime: 2022-06-17T09:14:00Z
-    webUrl: "https://www.newscientist.com/article/2323367-how-can-we-prevent-ai-from-being-racist-sexist-and-offensive/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/17095745/SEI_110046028.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "bWSw1wsGq1y6CQRvzo8xckAPSBEViDL+C/VeP8y35r1fiMMnm3TDHSj/yX5KpQfbYVpyuJR12Ep46/fsUQX4s9b9lQ1aNhSt7XP8DT7Gkaun5KTA5e22E0NeQD/t/q3k3IQNlYbcqV9R8jF/D+LkRBTRiVI39i/IdAqNN/nxVMm+K8BgIPqWrQfEyj6zbp/0CcUsRQCXFGyhnFgHOI36saqvTa3Kq0RA3d7T/dZ0sfOesz5gyB9TrHQY5J4yUrgP3GrSdMFpY/6IgLYfHAX5RBg9sqnhlMayxIqteSt+MhUkAWBMuxN4xoXKfYhTK3EuDFxqivJ2zNpUOByo3NT1Tcrr576nU4PRBxuZkYa/pkA=;utfBfgw4NLot0rOV6RMP8w=="
 ---

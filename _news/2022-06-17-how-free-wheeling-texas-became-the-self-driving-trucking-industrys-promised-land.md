@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "FOCUS-How free-wheeling Texas became the self-driving trucking industry's promised land"
-    excerpt: "For companies working to make self-driving trucks a near-term reality, all roads lead to Texas. Vast highways, a booming freight market and, crucially, the least restrictive laws governing autonomous vehicles (AVs) in the United States have turned Texas into the industry’s most desired location."
-    publishedDateTime: 2022-06-17T10:00:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-trucking-texas/focus-how-free-wheeling-texas-became-the-self-driving-trucking-industrys-promised-land-idUSL8N2XX4NS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 46
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20220617&t=2&i=1602103600&r=LYNXMPEI5G0FP&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Self-Driving Trucks Could Be On Texas Highways By 2023"
     excerpt: "The Texas DOT has essentially said that as long as autonomous vehicles obey traffic laws, they are free operate in the state. In turn, that could make Texas the future home for the industry, which Reuters says could generate between $250 and $400 billion by 2030."
     publishedDateTime: 2022-06-21T18:05:00Z

@@ -64,6 +64,22 @@ related:
         width: 1024
         height: 486
         isCached: true
+  - title: "Microsoft scraps some AI facial-analysis tools, citing risk of bias"
+    excerpt: "Microsoft will stop selling AI-based facial-analysis software that infers a subject’s emotional state and other personal attributes after the algorithms were shown to exhibit problematic bias and inaccuracies."
+    publishedDateTime: 2022-06-22T02:33:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 104
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/22/16d1fc06-ff1a-4d91-a4c5-f1d114de2f08_11e4956d.jpg?itok=D-q1jv85&v=1655864958"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft will remove emotion-detecting AI tools from Azure"
     excerpt: "The technology giant said the AI features, which have been criticized as potentially biased and unreliable, will no longer be available to new users beginning this week and will be phased out for existing users within the year."
     publishedDateTime: 2022-06-21T17:28:00Z

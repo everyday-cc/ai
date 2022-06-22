@@ -1,20 +1,22 @@
 ---
 category: news
 title: "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,"
-publishedDateTime: 2022-06-16T12:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
+excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ..."
+publishedDateTime: 2022-06-16T08:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
+ampWebUrl: "https://www.benzinga.com/amp/content/27738170"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27738170"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Y52iORe6Tfi91wHjREpGNqTnchpbumn7HN5xdT+7c9C3FUGv5CxPPDF3iKK8BEhB6X5yzH5IDQDlibVKzQoUf4J+9iTy30KNJOCw4zjn5bPeH/x0TD4VyUMAAt0p5Ky1ozapbvLKnmWqyUTt4Y1w16ODioFTcGUhAwhoseNc5VlqnRCpsOLmO7XqDTyILSecTMMY2kJ0Y2Ae8J0zLL0Y0t4Z0KL8AWc9JZU2t4EOFm/0oCoS1krJyg3AO+ZQl8M5Mcqd+IlOiPDgvmGCh1sVPh+g+6cLABFUZLfgGZaof6wnIJipV0uREZmvhKJmOJCZJSmnCad7iNaRTII0jBt2JmXgfKtRK3lMxapZr8Oncfg=;aGp345OK1bnNxn/OhUa+FA=="
+secured: "81h9wjS8BM1kLU6z5SkspdM8aJPQwBOuMG5E52qKj0hkr8HXKtrc/+X9PeAHDwV5vg7/owYR+Xw7iOSrf2EujTNcHrFoyD4fMBrKEhPARobvEbtFF7IEO2CVmNdrPqaX7CyRWVfPJ5ujIltmQrwEBq5AdXvyh0IZEvhr8GmeE2uNzJDJI2ioZOTpfLk5pI/7Dqjk93cUz8vve8v/LtDf3jEQD4UcaA7BiXdWbkkC1AETPnoaZ+VvMEBiTenW+evNjw9WgNRfe4fOKYTX/pAzblj2grFTA81X5PSjM8ryF7ugSDidKitnyMjo2WSp201ukx4allwKXgFAkL/2nybE2GQfxMKZFRtVUc/KFkAxZwI=;Y9+jC45oxfUUlzgTjfTzyQ=="
 ---
 
