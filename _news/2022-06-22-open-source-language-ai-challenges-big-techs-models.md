@@ -1,0 +1,20 @@
+---
+category: news
+title: "Open-source language AI challenges big tech's models"
+excerpt: "An international team of around 1,000 largely academic volunteers has tried to break big tech’s stranglehold on natural-language processing and reduce its harms. Trained with US$7-million-worth of publicly funded computing time, the BLOOM language model ..."
+publishedDateTime: 2022-06-22T12:10:00Z
+originalUrl: "https://www.nature.com/articles/d41586-022-01705-z"
+webUrl: "https://www.nature.com/articles/d41586-022-01705-z"
+type: article
+
+provider:
+  name: Nature
+  domain: nature.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+secured: "0XSikoU5wiIAz3pWZSvBDn3kiZt/mbJJLIsGbIwZs/+D+lxQhFcu+qDL84UOcE8Kvzt+xxX4BA2eMSaDNITvgs2YDu+xiaA2hSK9p2mGQ3TzKIbYdD9rr3+wg1iq1DuQBiOWtIwZgkP660s3v2GIRLa6EoidcJaD0nYDMC3RY9pVAaCrkoxQEtN81/eYa0ZOwhD44lsJ8AlJMxu3+sf4gy3wRv9L/zL1xz+64/Gz4mYmSPC7XEuvsiV0UnIO4haFY5MgSV3R8YWLv4McWEJMPLpxhjNNgTM8OW1Ms4y1Js0+5ayXnyiSNMT+7zm0Hd9x99Tt2Crr+8Y/GNMtqZ/Jn4GBDpYgQw7QuJmYGM8Ke3B0oc6FCxvVTvpMZudtbpSBhi0ikpQbUBaG8cnAWC1rbw/R40OSJm81aIdk9qJz8GH3LJdVqOPNgSX7tKmeH5j5AKLCwzx3NRLJ03216noJbzbn3FWZpJjwadjWl8AYc3ImRUQd4BerREvKU2diB5grfDTVwIr8DCcnSH1W9GUhiQ==;GEVB86XzVPa5ImrOXwM6pQ=="
+---
+

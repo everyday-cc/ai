@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Researchers release open-source photorealistic simulator for autonomous driving"
-excerpt: "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they've proven fruitful test beds for safely trying out dangerous driving scenarios."
-publishedDateTime: 2022-06-21T19:43:00Z
-originalUrl: "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html"
-webUrl: "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html"
+excerpt: "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they’ve proven fruitful test beds for safely trying out dangerous driving scenarios."
+publishedDateTime: 2022-06-22T12:04:00Z
+originalUrl: "https://robohub.org/researchers-release-open-source-photorealistic-simulator-for-autonomous-driving/"
+webUrl: "https://robohub.org/researchers-release-open-source-photorealistic-simulator-for-autonomous-driving/"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Robohub
+  domain: robohub.org
 
 topics:
   - AI in Autos
   - AI
 
-secured: "klnPjmQt+tjCKGnshwUH5Qi8TIy4kUR+iTdOuuKxueTy8keYXba4rcs8h6zcuHz/WHfNHH6khk9dqjQP/DoyPpqwU3hthbAZIoIe1K2SiMtmXFyr8hAvwUeGbm9GMl06TVlRW8MGYrDdKm33OyKHVu1IuNhNhiIX6ab1feQ4BmpG609sKqSxFeM5L5SeAee01GXUD2zHxWM+f3O2F8Att68TpbfJToMUWiT+49EAV9KCu0heeyAl0NCsRRVVGiBNDM4DxR8/nkbk+O0K9xWGMbo7/TedTw1mGgiUB8AOTEQqDaajlsdGLTJL2MZNCU7uw1v9g2bejTx9ZyaeQ9uDJzcwiERwLRjfOgSquT+mrA+FT8m/VItHnLRbqFsKRnBhOoZbVN7LjqJFq6GelChgXS7FPKsgGkYINVNisJBNb9uIuaELKV1Ig0FVhn8LB6662KRmG22uvqWtrwUwl/mFG0PlPsYlVVHueT+E9eycMTFTDghEkiM7FLxZt3E4SfBkFlGCby3vggMvF0TUZjhD7w==;jlv/IS0VwU1PTJLzvLVu5g=="
+secured: "FZVJNCovZxWbLjZG+60FzKxC67iLjhSIEOjVNQcwuqZR2B6zK4iFBDEx6ibFtt02gbbqjzwSAKz4ahq+O9dZxHxEVtVCh74uoSt+oNNWfUW/CreksJn61lKuELLHyRUYKCte1XvCEUD8hdIC30CYEisMrywW+yUEYJ/IMvlclz9fN8s1/taZ/MTfknXpukAylrIEgai9Oo1JwCwH6SApBJ68bEe8fzfugl5BSpxh38HFbYpZq3bY2rNVx03t9TEWP7A4g+DDJu5j7dxttlzjNGXoxEUsfpqRPDoYln5f6n7ZxTvXfvCxsRmH7+/Q//d4i/9ppn4b16QJHF9d07QH4LBT1jzNbvZrp3cv/1qFYT8mwO4ycN0GNLcbEeJCDHKkyOncuw+/4v6mMW0oYKr8mOeKYIg5MDeK7f6i0VkaEVxHavzMu73IXRaQcIe7aL9KKeIh4j8DBU0OerUs2LBc/AC9kJ/EWxClvS7dUrtkVi7EzLsu6PzWjGiuHa8/yYMxUS7sik3hYOlXMMh2kAtmNA==;z3F6xApO4FsiHe2LFwMjUQ=="
 ---
 
