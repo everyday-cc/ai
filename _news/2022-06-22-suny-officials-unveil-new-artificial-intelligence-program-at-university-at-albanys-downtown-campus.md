@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T16:08:00Z
 originalUrl: "https://www.wamc.org/news/2022-06-22/suny-officials-unveil-new-artificial-intelligence-program-at-university-at-albanys-downtown-campus"
 webUrl: "https://www.wamc.org/news/2022-06-22/suny-officials-unveil-new-artificial-intelligence-program-at-university-at-albanys-downtown-campus"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: WAMC

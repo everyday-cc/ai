@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T15:55:00Z
 originalUrl: "https://www.axios.com/pro/health-tech-deals/newsletters/2022/06/22/health-tech-insights-ivf-bet"
 webUrl: "https://www.axios.com/pro/health-tech-deals/newsletters/2022/06/22/health-tech-insights-ivf-bet"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Axios

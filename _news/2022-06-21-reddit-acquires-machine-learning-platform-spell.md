@@ -7,7 +7,7 @@ originalUrl: "https://www.socialsamosa.com/2022/06/reddit-acquires-machine-learn
 webUrl: "https://www.socialsamosa.com/2022/06/reddit-acquires-machine-learning-platform-spell/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 803
     height: 419
     isCached: true
-
-related:
-  - title: "Reddit acquires machine learning platform Spell"
-    excerpt: "San Francisco: Popular online discussion forum Reddit is acquiring machine learning (ML) platform Spell for an undisclosed sum. Founded by former Facebook engineer Serkan Piantino in 2016 ..."
-    publishedDateTime: 2022-06-18T04:10:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/reddit-acquires-machine-learning-platform-spell/92294205"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/reddit-acquires-machine-learning-platform-spell/92294205"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/reddit-acquires-machine-learning-platform-spell/92294205"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92294205,imgsize-35218,width-1200,height-628,overlay-etcio/reddit-acquires-machine-learning-platform-spell.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "97tyzvQd2gD92o25WrHxiuehVdYvuz5wJg8H9uJnT4Ysz4FBE0ypiDVvMWCeABHy/xEzyh4xJrOv2tXgAmHffta5dd60eJgU7njY69uKjFoFYnGaNlrBHk5VtsrowL6c7ql8t9ZQcqSeR68hZhRyX30zDbGyEAcjlnsjOIqmAW3Jp/kMTQV8Z9paQhy8O75PGYnAh2FiU+nQW+La/3kcSmM5ZjiRBdP4jNjFpE3avQ30PQRTvIHhxmtbNFsy6GJ1Rcmp0iotoud/4WfrN5Bv8HezvUN071yoLlGmwEAjUjjF5R9dne0MpY4YqfVolcHPkvJ35eA0oBWmvEf09ythvfHYC49JadT3OX8FybgtFSooc//IWA26Psr8H5YnvAPKxg9sTkTCGTizUYP+aELbwyKZ3GdMHU/+2VdAkoyL7IwtskBoQ/iuQyXt3ZL816e8ihIBIO42t4tWUX9wTTdmvhQ2lRY2q2+W/L8YKe0zoSK6l9a8jJHcGwYzTR9XB4NyG0R/kjS1Jo5kZacnxNCO5w==;cVCrpQnZI8lU6mD/cJGi3A=="
 ---

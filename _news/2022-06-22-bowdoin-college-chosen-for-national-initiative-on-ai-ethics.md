@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T23:06:00Z
 originalUrl: "https://www.djournal.com/news/nation-world/bowdoin-college-chosen-for-national-initiative-on-ai-ethics/article_6b4d631c-5af4-532b-9d7d-ac4cecbbf376.html"
 webUrl: "https://www.djournal.com/news/nation-world/bowdoin-college-chosen-for-national-initiative-on-ai-ethics/article_6b4d631c-5af4-532b-9d7d-ac4cecbbf376.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Daily Journal

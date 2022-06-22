@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-22T17:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-22-ponyai-autonomous-driving-controller-built-on-nvidia-drive-orin-set-for-mass-production"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-22-ponyai-autonomous-driving-controller-built-on-nvidia-drive-orin-set-for-mass-production"
 type: article
-quality: 10
-heat: 10
+quality: 12
+heat: 12
 published: false
 
 provider:

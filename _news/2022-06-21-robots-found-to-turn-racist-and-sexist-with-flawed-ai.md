@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 620
         height: 443
         isCached: true
+  - title: "Can we make artificial intelligence less racist?"
+    excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
+    publishedDateTime: 2022-06-22T18:51:00Z
+    webUrl: "https://www.thestar.com/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 23
   - title: "Internet Data Produces a Racist, Sexist Robot"
     excerpt: "Artificial Intelligence Workforce A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples’ jobs after a glance at ..."
     publishedDateTime: 2022-06-22T12:57:00Z

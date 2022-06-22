@@ -441,6 +441,15 @@ related:
       name: The Pioneer
       domain: dailypioneer.com
     quality: 38
+  - title: "Microsoft retires facial recognition tool"
+    excerpt: "They have not caught up with AI's unique risks or society's needs New Delhi: Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools,"
+    publishedDateTime: 2022-06-22T18:44:00Z
+    webUrl: "https://www.thehansindia.com/business/microsoft-retires-facial-recognition-tool-749950"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 38
   - title: "The Obama's have a new podcast deal, Microsoft facial recognition tool, and Amazon's new robot employee"
     excerpt: "The terms of the deal have not been disclosed. Changes are in the works for Microsoft's facial recognition tool, amid criticism of its ability to identify a person's age, gender and emotional state. The facial recognition features will stop being available ..."
     publishedDateTime: 2022-06-22T12:20:00Z

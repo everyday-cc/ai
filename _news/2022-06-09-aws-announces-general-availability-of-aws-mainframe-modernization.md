@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Mainframe Modernization"
-excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS's superior agility,"
-publishedDateTime: 2022-06-08T21:49:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/08/9618245.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/08/9618245.htm"
+excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS’s superior agility,"
+publishedDateTime: 2022-06-08T17:36:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html"
 type: article
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "XLOMoRfrWWpSsG24s/FXn7/2Him5v6ABagc3D5HQe06Nf9f7EI/v5Knq96VLK05bR9JgUGOjFdljzYL1sAXoNviwdlgRUp0NhLJ7gUYOf4wDi3lyJB9eDIHkeSoDFrGQ02ewK/FnJLDG+p7zFZflnd1SI7CEYI/ORveV3z8lzjVbLFdpk1rJCOfAKOIoaHtDX17bl2rDiKvagdfXh7BY0PmgYpfS8RvdRj8B5vqe9Fvs1MxUVnddbDZxi/ysTEMhduAp2CYqahsNvCfjvsK/Tb/clJwx0ZLo8KYYTNEZfXMe9NeeEdTOGR2vR5cqPk21w70QdWv368G3akEwE5AmMi8+enxT9jIyVA0QGn+f/rs=;QkS+gJEK7ibT5zMChQVpMg=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
+    width: 415
+    height: 539
+    isCached: true
+
+secured: "o4rkiVS6GwCP0gpfZlIaOX3fLT61inyeYazW9POZLaEbk11tt8B99bhHYclVqu31EmDjCl5ry5B/r4mAoELMtXgIbjM6SmpaRmGb1NKhrJufYQb7fqPmHoR4yztCg50d/pwqpliBG8IqEp1ysi0C8SAjQAHDT8eApO/wGSNyXOp5ytKL0gXFDD+FJn4CarFzTAvKwl/tgkjy6i0UXUP2vQx/Kx9h5gm//LcCPHYHcgjUwy/DdATxg+er5MI3RZTxmtrlDuqxRiSah38JS71ofKRfjfbH4WTKV3t7KbD66gu0RxpeSlVPm7kgZG9vWBDKeWJ0II46niT/jgKfIMB5ueaRYTsIXN6ivCpmpyygYyg=;tNwX1LsTu2pdZY7t5NavhA=="
 ---
 

@@ -32,11 +32,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200"
         width: 753
         height: 502
+        isCached: true
+  - title: "Pactum using AI to revolutionize shipping contract negotiations"
+    excerpt: "Using artificial intelligence and chatbots to handle contract negotiations for shippers and suppliers may seem like science fiction, but Pactum believes it has created the technology that could arrange better deals for everyone."
+    publishedDateTime: 2022-06-22T21:03:00Z
+    webUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations"
+    ampWebUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/06/Pactum_Maersk-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Ukraine using AI to track saboteurs"
     excerpt: "Checking for Sara Connorski Artificial intelligence has become one of Ukraine's most \"effective tools\" in identifying potential saboteurs amid the ongoing war with Russia, according to the Ukrainian Ministry of Internal Affairs."

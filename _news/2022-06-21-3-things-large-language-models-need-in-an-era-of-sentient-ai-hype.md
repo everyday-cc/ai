@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
         width: 620
         height: 372
+        isCached: true
+  - title: "Google’s ‘Sentient’ AI Can’t Count in a Minyan, but it Still Raises Ethical Dilemmas"
+    excerpt: "In part, the story feeds into current anxieties that AI itself will somehow threaten humankind, and that “thinking” machines will develop wills of their own. But there is also the deep concern that if a machine is sentient,"
+    publishedDateTime: 2022-06-22T20:31:00Z
+    webUrl: "https://www.jewishexponent.com/2022/06/22/googles-sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
+    type: article
+    provider:
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 47
+    images:
+      - url: "https://www.jewishexponent.com/wp-content/uploads/2022/05/SFTH.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "What if an Artificial Intelligence program actually becomes sentient?"
     excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."

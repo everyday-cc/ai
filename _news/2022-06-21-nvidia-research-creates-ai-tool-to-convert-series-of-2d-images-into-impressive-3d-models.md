@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "NVIDIA's AI-Powered 3D MoMa Tool Turns 2D Photos Into 3D Mesh Models"
+    excerpt: "Turning still 2D photos into 3D rendered mesh models is not a quick or particularly easy task, but perhaps not for long."
+    publishedDateTime: 2022-06-22T17:54:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 61
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58911/content/NVIDIA_3D_MoMa_Hero.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Nvidia's latest AI research will make it easier to build 3D objects out of 2D images"
     excerpt: "It's the sort of research that will help Nvidia and other major companies lay the foundation for an easily-accessible metaverse."
     publishedDateTime: 2022-06-21T13:04:00Z

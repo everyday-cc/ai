@@ -43,15 +43,6 @@ related:
       name: inc42.com
       domain: inc42.com
     quality: 22
-  - title: "Maruti invests Rs 2 cr in AI startup Sociograph Solutions"
-    excerpt: "The company plans to use the visual artificial intelligence (AI) platform of SSPL called ... programme since 2019 to empower the mobility startup ecosystem in the country. The Maruti Suzuki ..."
-    publishedDateTime: 2022-06-18T04:00:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/92294029"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 17
 
 secured: "MVg0TyEj3ntBxe/fQZ8zBUHHuBsv9EybKvqXpQM42sZeYr8r8efS/YgcEzJgdBH30ah+Y1LYgmo3HfuXTWlyqHF31CiHYZxICtfRb1lvNEFvSZALp5U8Mz9IkoBCZ5dE7z8WxpFXazakNRkscFuubrr1c+SPtN8lGfZj/dIb07I7LsVJ04ETygWZw82obp1AdgXgV+m/+qcNKhCbP5t+R0ki0kqtVw6g6MQdm6xPMzwbioSHqm4t6VrlHVwBf4C5ihzKCI7mRjOLkKNNaZ9vRD3xJmLHHf9wprXZ6B/EnBKgI2uAhUrcIyEzYJcpij79HXO4FwPI+J563Ghw1AFNmFyLkI6Qu+meG0kBg/a5RAA50jlgp6nH8D05jgaVdpHf6Vp6rGeiaXjd7BW+p1gMlZ+CLp6edUf+OLmoPEiKS2Xus8Uquo6EsGkLSn9C6ZOlAlAWIPLfIhbilZHF6Hda84G0SdCzbxBXtdcsFWmtueUksiYHux6gQGlq0VJ1tms1SGvTUmrxC4Gc2iwpP8gyFQ==;/+FwWaQ8/8Xv6UZulWA1Lw=="
 ---

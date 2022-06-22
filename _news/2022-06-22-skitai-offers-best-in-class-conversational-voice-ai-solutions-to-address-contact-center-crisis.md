@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Skit.ai Offers Best-In-Class Conversational Voice AI Solutions to Address Contact Center Crisis"
-excerpt: "Leading voice AI startup expands global footprint, offering revolutionary customer experience solution to U.S. –NEW YORK, June 22, 2022"
-publishedDateTime: 2022-06-22T13:06:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/skit-ai-offers-best-in-class-conversational-voice-ai-solutions-to-address-contact-center-crisis-1031543302"
-webUrl: "https://markets.businessinsider.com/news/stocks/skit-ai-offers-best-in-class-conversational-voice-ai-solutions-to-address-contact-center-crisis-1031543302"
+excerpt: "Leading voice AI startup expands global footprint, offering revolutionary customer experience solution to U.S. – NEW YORK, June 22, 2022 /PRNewswire/ -- Skit.ai, the leading voice AI SaaS company, today established U."
+publishedDateTime: 2022-06-22T13:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-york-city-09d07011d104910a5cd53281bbbc47ba"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-york-city-09d07011d104910a5cd53281bbbc47ba"
 type: article
-quality: 37
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
-  - Facebook AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS beefs up contact center solution with new AI capabilities"
@@ -54,6 +55,6 @@ related:
         height: 545
         isCached: true
 
-secured: "zj7xc5/pAGoRNtA0GIKHeBZ0uQ430Vsi8eqXc7i5AAk+tQabTNVVC/H7uKZCKoLI/c3R0JzUCHDG/tdGUW5QFrtRzlMIOeh4EtsTJDL4drqSBCH0cBYdvnMaMyzpvmr0qnnZuMiq5SvNCf0Zc/a+mNW832EYOcEGHVgS/q+r2eE2a89suFomx8yjeJRaIToiomJZdKQj+/NdwlaYyrxXMr1SwHfDs/ExVeenmOMejwsaUVMVd0OSpkLpFtY+XSvIPoZXfiiIIyJh9ZvbVV5kS/mHBbQkjzMJ5qR7y1n6wC4aL6hLD9VXr/wX4+mVoOjcMo8b5XiQ3kTTM5NzCbpIXh0DLRm5ppelQvHi/CzTWnk=;VA/LYvzjZcv73DF4qMW7yQ=="
+secured: "9ASKgm+J50PQS0eqnULu4DwwAo5DMZB43tiZr9JYNf3/e4KMH0CBCxuBcIR0cvNxJsSeTuB/m4hG2OBYUo1DF192/EooHzkX7+phbMiFfzkz1YuD3/L9twEWfOfb254mFiGfTsgMY6cVX3+6E7lbf+VQH/e4TJpYX0yEGIDRfyjvY+yZRczLaWYooyHehY1kow9OupAie3CBKhfa5qUvwkSlHcrl1TpPRpOsHuqyAK78Ty10Ou6Z5XFIvt9IOAoHRNzjqQaIMBCe4jvAoU7hkRvw4yFU8KOtIBI19o14zGdLduCmYWWkGl9WoE3kU4LMO05EMCjmt5VHO/ZlKQnNBH1LAsJh/s6erRV/bOUpRKc=;rJFHNpKfXiES9dvuRJC/OA=="
 ---
 

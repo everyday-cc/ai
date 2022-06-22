@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Qualcomm AI Stack Arrives To Unleash A New Era Of Intelligence From The Cloud To The Edge"
+    excerpt: "AI Stack enables a developer to build a framework for one type of device or platform, and then have the freedom to more easily move across virtually of Qualcomm's products and tiers using a singular AI software package."
+    publishedDateTime: 2022-06-22T15:29:00Z
+    webUrl: "https://hothardware.com/news/qualcomm-ai-stack-intelligence-from-cloud-to-edge"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 8
 
 secured: "UVkj+QJPS1XDFA/IHmBK4J7IEcD+9VOkc2I2QfxCpNXqoxnVyPFHHQWI+7aCMl8qhN1H+hUBlqmpXZODQIt9HMSHzQGimNQtjn0ooNEf5t3SA1OB3jM/JBLXJ2kLsU9PM1C2LV4iLUiD53e3+sMJ1XFI9yGsl4oYrh4nhFHzMCKPO1fgxqw5jCdc2bBJmQZdeb3ESkAS463mt0oGmB7IwHgIcjJ3dyJHDdCBkt0P7F/0EnDonMySjTLF+J5ip37zegsZVzAmW257V2/mW2xl3PnvPTfD8PaFO9fX3VADGs2rcYEV/869rRb0A5XqeQJgt3FCIhh6N7fB2bWQJzYEQIFbi/Vl9+gPo8Q0h/p2iqBaOQLtmZ60tUv+wtUBRJRHoCsBBMCPLzeNhOXqm1wRY7xuUHe7Qm+YnLEzDZztqYW2oi9dAA1l6TQqPrbQ2EWPj7gF1Ugl96INqhIBYrBKu46RP07EUj1k2mSMI7BkfDQmB16MbWb3GdVmwhzZoruQ9fGgx4sUEj8hDMxqbWtuig==;MQwNrO3Z7gOsFxmyHm4DkQ=="
 ---

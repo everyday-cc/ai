@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-arti
 ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
 type: article
-quality: 91
-heat: 131
+quality: 93
+heat: 143
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200"
@@ -32,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pactum using AI to revolutionize shipping contract negotiations"
+    excerpt: "Using artificial intelligence and chatbots to handle contract negotiations for shippers and suppliers may seem like science fiction, but Pactum believes it has created the technology that could arrange better deals for everyone."
+    publishedDateTime: 2022-06-22T21:03:00Z
+    webUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations"
+    ampWebUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/06/Pactum_Maersk-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How AI helps improve the workforce"
     excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
     publishedDateTime: 2022-06-20T13:40:00Z

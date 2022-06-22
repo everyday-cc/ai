@@ -2,21 +2,21 @@
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
 excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-publishedDateTime: 2022-06-21T14:00:00Z
-originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+publishedDateTime: 2022-06-21T13:00:00Z
+originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EtpOLDv6SCFEYSPVrt9dZUrMLMiLLpxbn7Dv3P51T0iIwMYHJ0SkX6RTpXKd8Ix1MxRV+OzQlIz8C6SUe6N9Z26eZLal8PqvpoQeC5Yi94mlZ7+EDp8bwQp6qcvfpI3B3x/qmkP0nf+LpG3LqTcOIPCGse/csgBvmCVK57818UalaPUUN2l9SzNLk0GXJX8UZVeIXxV0QaoTTlXJo4TJT4rc2w8M619EjTjMGSPSoDQD/l2LZLtiNYaX159mKlzXSTNrzG6cVLYz9WiRnxqxW7MHX2uthGVRwEo2OjW9hrIlSyUK7g49Z/czaTZTFGYDmiowDwo2szgvPNKbcEZF8GZJuKL4sqavh3Mod2sBiJeK6d1H4i3b3akyITmzS3Pt+Mr5KVbVPEd5Hzk0EdhbAeqPwMQvVF2DFjpnFO9UMWY/OHzngSxoH9aE95j3dagYsMj5B2hndR9kE7d/7r44vvlCzEA0Z18vF/KJMzbaU7wRGcuRJzXBeJjhCJNw4D4lh6vEfFgtSf7YHu/Tjo1aGQ==;Cq7nYIEHiR7MgB7d/CFDpg=="
+secured: "RgBN3SH4t+ZJrBjzQ8zh5LxWShsRWqzdgms1iqqvaOBRFFRXByk8Rw6Ke3V1G5UJjt0VH0JWYAyXNwLOCXi9PSeDCRbQUJhvZfmAgo84t6S2O1ZE5VblKjgnFfsv4Jp8t2ebZ8ZIMJe65F/gjvmdTHjF5sZkOieny22kk3EMYLFTPB47iy+RYJUIqjlEY74IPEtQdkZSvq0k7jyS3L85lf3pDJu4qaWAmCFYtlhJ4srYx0riwUWab0KXPUeVtp32YduAH6XEjTD4pjbT6XKwcDpCZKn1AknwCkClTOdfFX/5jqAr/D4Yip49lhHhwYyQnEiQGSu/ddNmBAPTbvRd2MhK4vjguDWi3cFim8H32nY=;Q8Q8ofGhoXoQt7KIcdEI9A=="
 ---
 

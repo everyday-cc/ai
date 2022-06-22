@@ -83,6 +83,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google’s ‘Sentient’ AI Can’t Count in a Minyan, but it Still Raises Ethical Dilemmas"
+    excerpt: "In part, the story feeds into current anxieties that AI itself will somehow threaten humankind, and that “thinking” machines will develop wills of their own. But there is also the deep concern that if a machine is sentient,"
+    publishedDateTime: 2022-06-22T20:31:00Z
+    webUrl: "https://www.jewishexponent.com/2022/06/22/googles-sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
+    type: article
+    provider:
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 47
+    images:
+      - url: "https://www.jewishexponent.com/wp-content/uploads/2022/05/SFTH.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "What if an Artificial Intelligence program actually becomes sentient?"
     excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
     publishedDateTime: 2022-06-21T09:12:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T20:20:00Z
 originalUrl: "https://www.nationalhogfarmer.com/news/uflifas-use-artificial-intelligence-assess-livestock-mobility"
 webUrl: "https://www.nationalhogfarmer.com/news/uflifas-use-artificial-intelligence-assess-livestock-mobility"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: National Hog Farmer

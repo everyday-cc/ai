@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T16:52:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/your-mindfulness-toolkit/202206/meditating-in-and-tough-times"
 webUrl: "https://www.psychologytoday.com/us/blog/your-mindfulness-toolkit/202206/meditating-in-and-tough-times"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Psychology Today

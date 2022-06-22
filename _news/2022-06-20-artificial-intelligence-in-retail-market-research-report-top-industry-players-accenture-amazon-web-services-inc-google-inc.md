@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T10:50:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-research-report-top-industry-players-accenture-amazon-web-services-inc-google-inc-2022-06-20"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-research-report-top-industry-players-accenture-amazon-web-services-inc-google-inc-2022-06-20"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: MarketWatch

@@ -6,15 +6,17 @@ publishedDateTime: 2022-06-22T12:30:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Daily Herald
   domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "94YNTjvMKNYPKJe1yppRbjOR1r5PLLpsDRRS2L8j56CpxzT9nqXWMIbEFK9xwxIHFxznxqylgRj8/k8ZoTO/5GAIRDrZYPdKQdTFESv/i0uT48aKtzJBNw8d1jCKyDrZIhI/caJTMoGNbRpwpLT0B/ijs7Ha3h3uLMow9FVgkIV/YixYGXjTwYdhIxrOKVcx2K2E/bk4L29Xp1CHWspehPk2DJbxKoWx9KykYZCqerrLsX2Oqy6p7T5kpDlBDpcXEJ/cN7WVrY4OyGYYHeT7xwRLile523vgzbjF/Niv/c/UhDhB8UiPipXW6RLi2+eG3HfNTJvSJrrVW7yAOQjVwJ50KPTl6Qf4+NRouaEZliw=;7QWbfJL7Baboj2roWteXfQ=="
+secured: "QwcKcFYWNUGGOmHmd4QmBpt//2XIF9gxgc/H8ZOKkODDpE+zRoyu8lPQizjL0aVukQp3wAaR+LiahvU99MhH0t4PAP/KJjjGl1AgVJeYvmLIcreOrUUi5OyuZYdkSkBaHXKGZENKPOEEq0WQBMCbjuEcRQ4vrFLx6AK3LXDJ8IxZOxxtDZv8bLyDt1UbR/lc0WzDK39Sohpr9dH0GS5ii6TqcllggxfCoi5+C09VsFRS1dFWHDeoMBBmvoSZXSIZMJM/4XMkhCtBDnhLoUuvWwJSKIrLshn1rqjpSZd6P9mcn2K/0EHPbXU19jpKZWoeksuvaI72fkvgnaTp9/RZGqiLcF4K/CcLVLVx7wJ9k8g=;ohQRV2C+DZXDcSdC0n3a4Q=="
 ---
 

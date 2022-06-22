@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T19:30:00Z
 originalUrl: "https://www.medpagetoday.com/meetingcoverage/ddwvideopearls/99368"
 webUrl: "https://www.medpagetoday.com/meetingcoverage/ddwvideopearls/99368"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MedPage Today

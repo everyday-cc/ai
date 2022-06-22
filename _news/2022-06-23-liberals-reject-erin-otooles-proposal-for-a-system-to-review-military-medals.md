@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T19:19:00Z
 originalUrl: "https://windsorstar.com/news/politics/liberals-reject-erin-otooles-proposal-for-a-system-to-review-military-medals"
 webUrl: "https://windsorstar.com/news/politics/liberals-reject-erin-otooles-proposal-for-a-system-to-review-military-medals"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Windsor Star

@@ -35,22 +35,31 @@ related:
         width: 1920
         height: 1344
         isCached: true
-  - title: "Report: 500 crashes linked to self-driving cars, auto-assist vehicle technology"
-    excerpt: "The National Highway Traffic Safety Administration released 10-months-worth of crash data involving vehicles using driver-assist technologies, as well as fully autonomous vehicles. It is the first time this information has been released,"
-    publishedDateTime: 2022-06-18T03:14:00Z
-    webUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology"
-    ampWebUrl: "https://www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/report-500-crashes-linked-to-self-driving-cars-auto-assist-vehicle-technology.amp"
+  - title: "Technology helps self-driving cars learn from own memories"
+    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This is achi"
+    publishedDateTime: 2022-06-22T20:30:00Z
+    webUrl: "https://www.ithaca.com/news/technology-helps-self-driving-cars-learn-from-own-memories/article_ef7e5a46-f265-11ec-a93e-d7c247ce97e2.html"
+    ampWebUrl: "https://www.ithaca.com/news/technology-helps-self-driving-cars-learn-from-own-memories/article_ef7e5a46-f265-11ec-a93e-d7c247ce97e2.amp.html"
+    cdnAmpWebUrl: "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/technology-helps-self-driving-cars-learn-from-own-memories/article_ef7e5a46-f265-11ec-a93e-d7c247ce97e2.amp.html"
     type: article
     provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 40
+      name: Ithaca Times
+      domain: ithaca.com
+    quality: 44
     images:
-      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/06/932/470/self-driving-cars.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://bloximages.chicago2.vip.townnews.com/ithaca.com/content/tncms/assets/v3/editorial/6/b9/6b9c5434-f266-11ec-9385-db4203099856/62b375d21346a.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Technology helps self-driving cars learn from own 'memories'"
+    excerpt: "Researchers have developed a way to help autonomous vehicles create 'memories' of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
+    publishedDateTime: 2022-06-22T15:27:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "John Deere: Leading The Charge In Self-Driving Technology"
     excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
     publishedDateTime: 2022-06-22T11:47:00Z
@@ -85,15 +94,6 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 6
-  - title: "Technology Helps Self-Driving Cars Learn From Own Memories"
-    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This i"
-    publishedDateTime: 2022-06-22T05:00:00Z
-    webUrl: "https://www.realclearscience.com/2022/06/22/technology_helps_self-driving_cars_learn_from_own_memories_838521.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 4
 
 secured: "Xuj7gd3ULuwa162LNlJwEGuMkX0MES5RqEb0Veo21E0jhVslbq+HJIpzfl12GPlba7SkNstoH0xVGFHb1M2wrAQ8JGdRImn9mp+yslh6CZWU7MNeWfT+BXkj30st8MdMO+HskPw3J72xPCZggzA94eig+jXNIwY9DJY6hM7VB5jGXn8kWGIIIhU4/L34bNf2zN/F7celIYEO0uEyFmS1irJnXK8EH2HAsyHkTFsX0qJ1qD4r1/wj63S+Auv5H/oAe7yHNn7a4UuMaiktlE+Ov8xfxKcxhfgEQX5nb2D8AFdra2OC+DqIF39sqOVi2nxAa62t03+/TK9VbTGqlIRSNLIttsNWOmp+bA4qWKV3Z34xmf9Fodnnn2ERcn/+fiUwL2ITU+YsSa+ouLWBGm32F967bemDI8lKVV6vb1Z+jHc0DE+O6setDUKAV/OWrO9lqiUGsEEff1LULOtdESVoUb6EIUaKQ08+W4jK/IIUt1BMhwVNstBUTE2TXas5H6XMR6JLGT2QhvOiS+iVv6Bq+g==;tU7lJ15iL1yhUhlNWmTCag=="
 ---
