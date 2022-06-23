@@ -17,7 +17,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 12798
+        "followers": 12806
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -33,7 +33,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 77,
+      "heat": 138,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1529454611920207874/6CRRMnHU_400x400.jpg",
@@ -61,7 +61,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 184794
+        "citations": 184880
       },
       "affiliation": {
         "path": "",
@@ -73,7 +73,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 50,
+      "heat": 83,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
@@ -134,7 +134,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 232798
+        "citations": 232877
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
