@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Bowdoin College Chosen for National Initiative on AI Ethics"
-excerpt: "Bowdoin College is involved in a new project aimed at developing academic courses that tackle the ethical issues raised by emerging artificial intelligence"
-publishedDateTime: 2022-06-21T23:06:00Z
-originalUrl: "https://www.djournal.com/news/nation-world/bowdoin-college-chosen-for-national-initiative-on-ai-ethics/article_6b4d631c-5af4-532b-9d7d-ac4cecbbf376.html"
-webUrl: "https://www.djournal.com/news/nation-world/bowdoin-college-chosen-for-national-initiative-on-ai-ethics/article_6b4d631c-5af4-532b-9d7d-ac4cecbbf376.html"
+excerpt: "Bowdoin College is involved in a new project aimed at developing academic courses that tackle the ethical issues raised by emerging artificial intelligence (AI) technologies. Sponsored by Google and the National Humanities Center (NHC),"
+publishedDateTime: 2022-06-21T18:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bowdoin-college-chosen-for-national-initiative-on-ai-ethics-1031541362"
+webUrl: "https://markets.businessinsider.com/news/stocks/bowdoin-college-chosen-for-national-initiative-on-ai-ethics-1031541362"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
-secured: "wnE53jMcU7jdenEzkFQj1IlnGRaEalDIJNoppj4F1rJ1ufdjA+rk5aEAl0UmuWS/2F7mLFhIh8d4uE1tRaltaNWLoYVr3w7zcTxoNQwA6Z0N2saUB8N6O5y2R3E5o+7NTjBgJj3i773u/2KHgP4niddTHu/vOcKaJ51gKkJqAa+cnjDSXmgXJa3mkWgzUX+xAkDLdmFnhkc/54FbXAjKJ8b5stY0aAtOe6I9opGfbNrilQON0F65K23xfS9wNhkO79DJ/W4edWyhuUnAb9hPS1eeVXBHC77hNVsGJAc4GncgLYHfPAyD/V9tqCgks3KmlyZzjqf/Sb/mXZ5lmTM/vhGpdCY7emG7sR+yfZbuWHFN8+Nh4YFS0+gzZl/nndSPM1FpAQBS1TCrfpaaumZtgeDdhn2l9q2jdKJoK+iXI5ZIjQU5YAFPt+KKRNLPjR8pj5NVdy5WT/g0R2wVSmLk8AZwoC3a7jtadFHmfrchEkQWQ+bvgy+bnSqRMHhbQGMUneZLap6mcCSinDzEeVsxzg==;dYI2GrrgXFIJaB2Av32dOw=="
+secured: "nyJQYIFgy/IIu63lsrQw6wcaOWpbVYk3sMsoQM/m1XrZoTyyR+LHnjtqkkOVREe8aHkdplnTieK5l/WA0jNBdrXKGChcXhUy7WC4rrOKfxBQdkPzECOMKAzm473JOZhAsJePzUbU86j+h8WU9Y3RddNbXSfqxK9Ifg2PPir5es/WDkqOwxvlFucSPxCSBWM/ZGBsUMEygpzgQEL2+wI3oxq7O/4+nJegvE3pwffuJAIMP0sizdrT6feF2I1cV5OUz3zvh0I8FamDWc2KY83v1Y+MTdDH5LOb5q65WVETmUpwVum9L2TqfF8qwydURiDxjGRZvOZt93QHplIFSfigrs3pA/Lcl0/Dt3LHU7M/Fd0=;qO2OXP/PGhqwuIHSYTbi8A=="
 ---
 

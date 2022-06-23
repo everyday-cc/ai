@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-22T15:27:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 related:
   - title: "Technology helps self-driving cars learn from their own memories"

@@ -65,7 +65,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 34
+    quality: 36
   - title: "Cornell University: Technology helps self-driving cars learn from own memories"
     excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This is achieved with the help of artificial neural networks,"
     publishedDateTime: 2022-06-21T11:27:00Z

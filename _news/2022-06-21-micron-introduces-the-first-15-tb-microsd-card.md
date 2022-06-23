@@ -7,7 +7,7 @@ originalUrl: "https://liliputing.com/2022/06/micron-introduces-the-first-1-5-tb-
 webUrl: "https://liliputing.com/2022/06/micron-introduces-the-first-1-5-tb-microsd-card.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "The First 1.5TB microSD Card Is Coming to Destroy Your Budget"
+    excerpt: "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1."
+    publishedDateTime: 2022-06-22T22:50:00Z
+    webUrl: "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625"
+    ampWebUrl: "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 54
   - title: "1.5TB microSD card introduced by Micron"
     excerpt: "If you are searching for an extra large microSD card for your camera, vehicle dash camera or action camera, you might be interested in the latest storage"
     publishedDateTime: 2022-06-22T11:35:00Z

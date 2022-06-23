@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/economy/foreign-trade/india-banglad
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/amp_articleshow/92322921.cms"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/F1m348Ic.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Airbus Cybersecurity, Artificial Intelligence, and setting foot on Mars"
+    excerpt: "How can aviation become more sustainable? When will the first human be set foot on Mars? Cyber security and artificial intelligence at Airbus"
+    publishedDateTime: 2022-06-22T22:20:00Z
+    webUrl: "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 52
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/06/ILABerlin.jpeg"
+        width: 2480
+        height: 1654
         isCached: true
 
 secured: "t3z4PSUIGC5U7F+RSYheRN/rizx4hGV91TmXjhYboIV0XOgRK2RigUNw+w1Z1URE9PdzBe3zOWxolURC0RXKjIOPxnzGvREbeTFjgq4Nc+Lv7QDcqm4+yoQHZ6PFp83bGtukocKlp+20bTA6kNE7SUjAaOhVipiEfahfiCcBMziUJsoeJLBNz0KW6zzbr3AFZN4q3rflU/wQAGbF2+I62AgOH/AeyOFT5RgZvF5XMGLjWveQEe5x72Fil7r8kuTL+YXf2yzjJ2ccESmLAvlZIgEJPgiFxnjqCsqLX8O6Q1W1CnbtmWZTk+WvuHj6ZtR/ePMTbNdJjrlJlirpnLUiEBFn7zGSDNnv2MSoNbgw8Ic=;+Su2+7NxlqVv7QsPWfKEqQ=="

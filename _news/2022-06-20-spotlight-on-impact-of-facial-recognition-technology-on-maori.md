@@ -39,6 +39,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "House bill would block police from using facial recognition technology with body cam footage"
+    excerpt: "The use of facial recognition technology and other biometric surveillance is becoming increasingly widespread by law enforcement."
+    publishedDateTime: 2022-06-22T23:28:00Z
+    webUrl: "https://augustafreepress.com/house-bill-would-block-police-from-using-facial-recognition-technology-with-body-cam-footage/"
+    type: article
+    provider:
+      name: Augusta Free Press
+      domain: augustafreepress.com
+    quality: 28
+    images:
+      - url: "https://augustafreepress.com/wp-content/uploads/2020/12/us-politics.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "rzObvmVGz/6q1RcrzA1IiVwCH8zYjvueeRWpFxQE+xw/vOwZiazwAiuc8tYHKLWIllfhWqnY+SyuymO/bl1MpW0nou2b4jp2/QnX6P1hi1/vVTif1j/BsarI9ZxXUEKGIBqsYy94RJBKf6kTQMM2QUT4TefbWhd5aDDYKxC8537+0C3VzMrHBW7BQv+oDwBkuwFPTIFgb/bb2SWdeF1k2TD1NVNx9+DWt6K3oPbz2CUV/8uQJtfaEA7OvJ/CCOLKr15rWfSdrrgkMKnP7yWINLBjvaPvUR50Saqyc+6VgwgUEDoNVZkn1c3kj0fXGwaNI/ysfs4DS1VaxkR/iRPhT3wn7BaHeQD+jGTVkfCVSng=;FvIiIihCuTAO9siQXel/ag=="
 ---

@@ -1,24 +1,23 @@
 ---
 category: news
 title: "What if an Artificial Intelligence program actually becomes sentient?"
-excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
 publishedDateTime: 2022-06-21T09:12:00Z
-originalUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-ampWebUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-cdnAmpWebUrl: "https://www-publicradiotulsa-org.cdn.ampproject.org/c/s/www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+originalUrl: "https://www.ksmu.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+webUrl: "https://www.ksmu.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+ampWebUrl: "https://www.ksmu.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+cdnAmpWebUrl: "https://www-ksmu-org.cdn.ampproject.org/c/s/www.ksmu.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Public Radio Tulsa
-  domain: publicradiotulsa.org
+  name: KSMU
+  domain: ksmu.org
 
 topics:
   - AI
-  - AI in Healthcare
 
 related:
   - title: "3 things large language models need in an era of ‘sentient’ AI hype"
@@ -146,6 +145,6 @@ related:
       domain: futurism.com
     quality: 17
 
-secured: "xUnLmSzXzGO+p38c5OZGCLot28aoaBXAJ1BUx4r97VFKCWcS6UxxHMMRYYcz0g4BLkuw3HzdVqH2rss1bYpEyLtcy13WgbPjlmpRBBzspqkaQpeTRhDcOe1Z6fP53sDHaQ2kZPW+4pZWDLKMuHygfsxIaRmzC2ksJlM8rIJ85s01x52ILDnNKqd5AjmQ/ZfWH0lF/+Aalr41XWRT7WVNtjQdjE2MVI1k/BprP50lHIeXKYUzrWWnPnZ47XAYXrgJjTunnJGo9BW+wXonkYfIaFwTsN2RGAi6sR4TaSYQW66J+J2oLoJ2/irzr3m2EeVEUNv87bs0wuN4gOEX+Yl8W5DKuWBAAkT2Dq+ysGCnP1o=;NpOzd0d1H/Qh/aa40pjBlg=="
+secured: "e+SGWD7YsONo29wXNK/EdiIyB7USyfSHnP31aADk0I/kTwNo+INj1C7SIUlcrgzb2+XoeNTYLlUDjQ43kiI1diWdkrduYnhyH2cFjPh7cdpmBqFLbJqO+yaazJUCjasew/oRP6pXtV291XrDpA5aByS5W6qLj4gvzjwFgC1RRM7qHXrdKItK0hXKZpZTJON2kYLGkRAsmHgmBjad/O4PBFVE4yhovAw/I5vVikcyvNATOYyZN/nYLlGqXKtFzpLm80aYfYZo3CZD0yqZNcrQKoDzCWjVdrbo7GKMI8rQ9eRawwGg/T7zTHAYja5norkpHfKX51Uwvn7tHAU68ySl4P25j9fmt3meSfeXKV0Em0I=;rNolb//J/zGciezx8Yn41Q=="
 ---
 

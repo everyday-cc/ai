@@ -89,17 +89,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "What if an Artificial Intelligence program actually becomes sentient?"
-    excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
-    publishedDateTime: 2022-06-21T09:12:00Z
-    webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-    ampWebUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    cdnAmpWebUrl: "https://www-publicradiotulsa-org.cdn.ampproject.org/c/s/www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    type: article
-    provider:
-      name: Public Radio Tulsa
-      domain: publicradiotulsa.org
-    quality: 39
   - title: "Don't mention Google's \"sentient\" AI chatbot"
     excerpt: "A senior Google software engineer who claimed that the company's artificial intelligence chatbot had gained sentience was suspended on Monday. Should we be wary? And the EU deal will force iPhones to use USB-C charger by 2024. Will charging technology ..."
     publishedDateTime: 2022-06-19T01:28:00Z
@@ -128,6 +117,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "What if an Artificial Intelligence program actually becomes sentient?"
+    excerpt: "What if an AI program becomes sentient? Would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+    publishedDateTime: 2022-06-21T09:12:00Z
+    webUrl: "https://www.ksmu.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    ampWebUrl: "https://www.ksmu.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-ksmu-org.cdn.ampproject.org/c/s/www.ksmu.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    type: article
+    provider:
+      name: KSMU
+      domain: ksmu.org
+    quality: 37
   - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
     excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
     publishedDateTime: 2022-06-19T13:43:00Z

@@ -60,7 +60,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 34
+    quality: 36
   - title: "John Deere: Leading The Charge In Self-Driving Technology"
     excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
     publishedDateTime: 2022-06-22T11:47:00Z

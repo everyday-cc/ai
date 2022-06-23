@@ -19,20 +19,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Maruti Suzuki invests ₹2 cr in AI startup SocioGraph Solutions"
-    excerpt: "India's largest automaker Maruti Suzuki has invested around ₹2 crore in AI startup SocioGraph Solutions. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions."
-    publishedDateTime: 2022-06-18T05:26:00Z
-    webUrl: "https://inshorts.com/en/news/maruti-suzuki-invests-₹2-cr-in-ai-startup-sociograph-solutions-1655529987109"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 37
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/06_jun/18_sat/img_1655527878359_481.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Maruti Suzuki Invests INR 2 Crore in a Start-up Specialising in AI"
     excerpt: "Maruti Suzuki India Limited has announced an investment of around INR 2 crore in Sociograph Solutions Private Limited (SSPL). The investment is part of Maru"
     publishedDateTime: 2022-06-20T02:00:00Z

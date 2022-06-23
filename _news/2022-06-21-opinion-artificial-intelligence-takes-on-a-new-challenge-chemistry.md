@@ -2,17 +2,17 @@
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
 excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-publishedDateTime: 2022-06-21T13:00:00Z
-originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+publishedDateTime: 2022-06-21T14:00:00Z
+originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Machine Learning
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "RgBN3SH4t+ZJrBjzQ8zh5LxWShsRWqzdgms1iqqvaOBRFFRXByk8Rw6Ke3V1G5UJjt0VH0JWYAyXNwLOCXi9PSeDCRbQUJhvZfmAgo84t6S2O1ZE5VblKjgnFfsv4Jp8t2ebZ8ZIMJe65F/gjvmdTHjF5sZkOieny22kk3EMYLFTPB47iy+RYJUIqjlEY74IPEtQdkZSvq0k7jyS3L85lf3pDJu4qaWAmCFYtlhJ4srYx0riwUWab0KXPUeVtp32YduAH6XEjTD4pjbT6XKwcDpCZKn1AknwCkClTOdfFX/5jqAr/D4Yip49lhHhwYyQnEiQGSu/ddNmBAPTbvRd2MhK4vjguDWi3cFim8H32nY=;Q8Q8ofGhoXoQt7KIcdEI9A=="
+secured: "gyNDEr2S8nxcW32VSaza21YzBD+l0mjvMSJ0+v5dSWIUkv0DvipWRxGtSYvwTbHv3AErF0y6WbDaHcJzB7DUtIzteOu/6o2Bxnz55YHnjGLRzXcejEdJpbywz1parVqXwrQVKgd8eCAhZT/ueyguTZzh78vKupW+lGGxTcSwl7MQ99xcCUjegSFsWHZIywJTELp+RZ3imsyWg7WfbgiL2ePqlLptqRdgDv4whu7La/woEWiYYAzNXgxHjWp1sO6D3i7MxZTYbDaWdKIj7RylBs3xbv/5lKFq418+o2dl+3YOvguYb5eeEdz77kumnjDsuY8UDjerbcxb5aTZmniTM1YvfSzQsLRgNkj2XrrjJXU=;+zQUIuOe4SCVNUCpKU8Dfg=="
 ---
 

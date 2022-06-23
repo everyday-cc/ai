@@ -9,7 +9,7 @@ ampWebUrl: "https://m.indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a
 cdnAmpWebUrl: "https://m-indianautosblog-com.cdn.ampproject.org/c/s/m.indianautosblog.com/maruti-suzuki-invests-inr-2-crore-in-a-start-up-specialising-in-ai-p324983/amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Maruti Suzuki invests ₹2 cr in AI startup SocioGraph Solutions"
-    excerpt: "India's largest automaker Maruti Suzuki has invested around ₹2 crore in AI startup SocioGraph Solutions. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions."
-    publishedDateTime: 2022-06-18T05:26:00Z
-    webUrl: "https://inshorts.com/en/news/maruti-suzuki-invests-₹2-cr-in-ai-startup-sociograph-solutions-1655529987109"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 37
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/06_jun/18_sat/img_1655527878359_481.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Maruti Suzuki Acquires 12.5% Stake In AI Startup Sociograph To Improve Digital Sales Experience"
     excerpt: "It currently offers services to companies in banking, retail and automotive sectors Automobile giant Maruti Suzuki has acquired a 12.5% stake in Bengaluru-based AI startup Sociograph Solutions Pvt ..."
     publishedDateTime: 2022-06-18T11:20:00Z
