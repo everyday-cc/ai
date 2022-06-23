@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-20T19:28:00Z
 originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/06/20/the-funded-reddit-acquires-startup-mum-on-ipo.html"
 webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/06/20/the-funded-reddit-acquires-startup-mum-on-ipo.html"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Reddit acquires Machine-Learning platform, Spell"

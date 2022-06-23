@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-e
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The amazing potential of artificial intelligence, machine learning for every industry"
+    excerpt: "Any organization with data (which is every organization) can leverage artificial intelligence and machine learning."
+    publishedDateTime: 2022-06-22T14:00:00Z
+    webUrl: "https://www.patriotledger.com/story/business/2022/06/22/artificial-intelligence-machine-learning-arent-just-for-tech-giants/7695122001/"
+    type: article
+    provider:
+      name: The Patriot Ledger
+      domain: patriotledger.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/06/21/NPAL/0a2aeccc-7632-4686-9ebd-223bba355efa-Troy_Hollings.jpg?auto=webp&crop=399,225,x0,y87&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "The CEO Rebooting AI"
     excerpt: "Back then, we had to build everything ourselves, like hardware, software, data centers and even dial-up access networks—without the convenient, low-cost broadband and AWS type services that allow us to quickly launch services,"
     publishedDateTime: 2022-06-21T19:13:00Z

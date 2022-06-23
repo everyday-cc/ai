@@ -5,10 +5,12 @@ excerpt: "The tech releases a Responsible AI Standard document that lays out its
 publishedDateTime: 2022-06-21T18:54:00Z
 originalUrl: "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
 webUrl: "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 116
+heat: 136
+published: true
 
 provider:
   name: CNET
@@ -22,6 +24,13 @@ topics:
   - Microsoft AI
   - AI
   - Computer Vision
+  - Natural Language Processing
+
+images:
+  - url: "https://www.cnet.com/a/img/resize/290f770fd6283318e4d4c021da82022ea12a273c/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Responsible AI investments and safeguards for facial recognition"
@@ -54,83 +63,7 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "AstraZeneca’s rules for implementing responsible, ethical AI"
-    excerpt: "Multinational pharma and biotech giant AstraZeneca has shared some of its rules towards implementing responsible and ethical artificial intelligence (AI) within its business. For the British-Swedish behemoth,"
-    publishedDateTime: 2022-06-21T09:10:00Z
-    webUrl: "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai"
-    ampWebUrl: "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-06/BFDC6B9D-8597-4470-ADB3-5BD508CE0F99.jpeg"
-        width: 1840
-        height: 1100
-        isCached: true
-  - title: "Op-ed: Clearview AI facial recognition case reveals clarity on law needed"
-    excerpt: "The privacy regulator determination that Clearview AI was in breach of Australian law raises more questions about emerging facial recognition technology and its uses."
-    publishedDateTime: 2022-06-22T08:06:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/protecting-your-data/data-laws-and-regulation/articles/clearview-ai-and-privacy-law"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 53
-    images:
-      - url: "https://img.choice.com.au/-/media/45a5e627348b4d84b1a0867528cfeccb.ashx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "SA Police ignores Adelaide council plea for facial recognition ban on CCTV"
-    excerpt: "Adelaide City Council is yet to receive formal assurance from South Australia Police that it will not use the facial recognition capabilities of Adelaide's planned CCTV network until laws are developed. In November 2021, the council passed a motion to ..."
-    publishedDateTime: 2022-06-20T02:40:00Z
-    webUrl: "https://www.itnews.com.au/news/sa-police-ignores-adelaide-council-plea-for-facial-recognition-ban-on-cctv-581559"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 52
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "Adelaide considers CCTV system with facial recognition as calls for regulation intensify"
-    excerpt: "New deployments of facial recognition technology continue to raise questions in Australia, as experts call for changes to privacy law."
-    publishedDateTime: 2022-06-21T17:32:00Z
-    webUrl: "https://www.biometricupdate.com/202206/adelaide-considers-cctv-system-with-facial-recognition-as-calls-for-regulation-intensify"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
-        isCached: true
-  - title: "Corsight AI Releases Privacy Focused Software to Address Emerging Guidelines for Ethical Facial Recognition Technology"
-    excerpt: "Corsight AI, a leading provider of Facial Recognition Technology (FRT), today launched the latest version of its flagship product, Fortify, in a drive to change the face of facial recognition. The new suite of privacy settings empowers the data operator and protects the data subject to address both existing and emerging industry standards."
-    publishedDateTime: 2022-06-21T12:20:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/corsight-ai-releases-privacy-focused-software-to-address-emerging-guidelines-for-ethical-facial-recognition-technology/article_2cdbe2e2-bef9-5f39-a236-83cc1cc0a5e5.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 27
-  - title: "D FACIAL RECOGNITION PRODUCT"
-    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
-    publishedDateTime: 2022-06-19T12:37:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 19
 
-secured: "Tly2iKTqHDoAKaVZHUI5QxpBQon+OINN5j3bUiic8jLpLhUW9SwKyOOqDG4UZHbUVs449+74slcw1Uj45/X1vLRnpctihUsswym40s66O8rRZiIwcxr5E8pF+buhXCSZAx/9NGhPpE0bIU0ZCxmS28lKk4Mgd5uTpRNv5zR1S4m9v5iVjPCsEd05tHKD0eJz4HgFQUpTShiZWHlpla4gqayYNhKABwiHDtyOrDh0VD18m1t0/oLRcPnxgHiAhO8t1uspKjfMQ0znfSiNgmjbFR7MVclot9FUv+UvkIqLPjuAN6+RRtM1X0Y6uIfVUXgMboibB5kF3Elvc4EErJMt5n92+iE3jhZzCG+n9stvRa/TvnM3/dg9tyDMczcxZjZwZFExgtArOeuh7ZdPXXZ9DkyZihpqMVOpdg7Ipu8ADxMrr3HAEl/TvyeuKr0vFv4t7sQjFdaRaonoRSWObAfwFYnaxX9aDCOF8U09y/lqIWAg0/8E7x3UOlgIIC3SZVOGKs4tw0MTBa96MRBgEhf7sg==;3UowFk8MIIoEJ0B093wQhg=="
+secured: "tIrF0sfpR7W0w8wg+mZH7fJMtiXYl09sOidH2o8MqmoHn7xAo7+N5hZHV82h42RAb4fz3oFRVtiW8Ld67AXRusdUR+J1mjLJSK7T+hmKZwKyaDahOf+/nXRFo1RC/TYBmTdYAsn1GLhkTWBRL03pfPrOHjysUty6s60rcjL32v/IJSB6nUoGea7/7ksA2V7qGmTR4bzYQtkzRp1YHAlCEJgPlfQzWeaZ8Ek87keOyR0ybThBHwBbLUVn06q1RWFc1qWHfrglF/n2n9WlQi2g4UumWQ+HYKXAUd+iTRHyWMQ1JECccgW9KGx/mMTJl4zZDpavrTBVFa8uvKO8iqHBC8LGK8xKgIpP5+AOoGfXar0=;SFR6twJNSQ/paMt1tgiftw=="
 ---
 

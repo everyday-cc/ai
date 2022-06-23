@@ -161,6 +161,103 @@
       ]
     },
     {
+      "path": "_news/2022-06-22-dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry.md",
+      "title": "Dynamic AI Agents enabling the great reboot of the BFSI industry",
+      "excerpt": "In 2000s, a website was necessary for most businesses. In 2010s, a mobile app became a must-have, and today, conversational AI is fast becoming integral for businesses to successfully cater to rapidly changing customer",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "publishedDateTime": "2022-06-22T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
+      "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
+      "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "originalUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/290f770fd6283318e4d4c021da82022ea12a273c/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "publishedDateTime": "2022-06-21T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-natural-language-processing-market-strategies-share-segmentation-in-depth-analysis-research-report-by-foresight-to-2022-2031.md",
       "title": "Natural Language Processing Market Strategies, Share, Segmentation, In-Depth Analysis Research Report By Foresight To (2022-2031)",
       "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Jun 17, 2022, 05:05 /Comserve / -- Natural Language Processing Market Recent Activities, Key Growth Opportunities, and Trends 2022-2031 As per the study of ...",
@@ -1307,93 +1404,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
-      "title": "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker.md",
-      "title": "How InfoJobs (Adevinta) improves NLP model prediction performance with AWS Inferentia and Amazon SageMaker",
-      "excerpt": "This is a guest post co-written by Juan Francisco Fernandez, ML Engineer in Adevinta Spain, and AWS AI/ML Specialist Solutions Architects Antonio Rodriguez and João Moura. InfoJobs, a subsidiary company of the Adevinta group, provides the perfect match between candidates looking for their next job position",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ML-8163-options-diagram.jpg",
-          "width": 979,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T09:06:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

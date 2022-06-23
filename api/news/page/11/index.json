@@ -2,6 +2,102 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-13-a-worrying-phone-call-adds-to-concerns-about-sen-dianne-feinsteins-cognitive-health.md",
+      "title": "A worrying phone call adds to concerns about Sen. Dianne Feinstein's cognitive health",
+      "excerpt": "And while Traister's feature piece does center on Feinstein's long and storied career, it also evokes questions about the senator's cognitive health. NPR's All Things Considered spoke with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
+      "originalUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2022/06/13/gettyimages-1240601779_wide-3616d7a7c5252ab0382618dd132f940c65b86c60.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-the-data-science-and-ai-market-may-be-out-for-a-recalibration.md",
+      "title": "The data science and AI market may be out for a recalibration",
+      "excerpt": "Being a data scientist was supposed to be \"the sexiest job of the 21st century\". Whether the famous Harvard Business Review aphorism of 2012 holds water is somewhat subjective, depending on how you interpret \"sexy\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "originalUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a9504caf2ddfb0b7c19917de3dbf34532f282eac/2021/07/16/95711752-ec77-44fc-8dc0-70aa6204d707/data-science-shutterstock-1081970570.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "publishedDateTime": "2022-06-13T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-383-billion-by-2027.md",
       "title": "The Worldwide Artificial Intelligence (AI) Robots Industry Is Expected To Reach $38.3 Billion By 2027",
       "excerpt": "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The 'Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive ...",
@@ -1057,111 +1153,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-google-chrome-will-use-machine-learning-to-make-browsing-less-awful.md",
-      "title": "Google Chrome Will Use Machine Learning to Make Browsing Less Awful",
-      "excerpt": "Google has revealed its plans to use machine learning to make browsing the web suck less. The company says (Opens in a new window) it already uses machine learning to enable some",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful",
-      "originalUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00BFfSrxJN6AaGlonTAOKls-1.fit_lim.size_1200x630.v1654956168.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true",
-      "publishedDateTime": "2022-06-11T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-is-tesla-backtracking-on-its-camera-only-autopilot-strategy.md",
-      "title": "Is Tesla Backtracking On Its Camera-Only Autopilot Strategy?",
-      "excerpt": "A Tesla Model Y was spotted in Canada with a LiDAR system integrated into its roof. Could there be a change coming to Tesla’s camera-only Tesla Vision plan?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a38c5ba606a01408876076/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/06/11/is-tesla-backtracking-on-its-camera-only-autopilot-strategy/amp/",
-      "publishedDateTime": "2022-06-11T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can facial recognition technology detect you with a mask?"
-    excerpt: "Algorithms can recognise facial features during authentication, based on their programmed understanding of how a mask fits on the face."
-    publishedDateTime: 2022-06-22T07:14:00Z
-    webUrl: "https://gulfbusiness.com/can-facial-recognition-technology-detect-you-with-a-mask/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2021/07/GettyImages-1233763603.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "House bill would block police from using facial recognition technology with body cam footage"
     excerpt: "The use of facial recognition technology and other biometric surveillance is becoming increasingly widespread by law enforcement."
     publishedDateTime: 2022-06-22T23:28:00Z

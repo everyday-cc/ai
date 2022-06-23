@@ -159,7 +159,7 @@
       "originalUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -195,21 +195,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-21-responsible-ai-investments-and-safeguards-for-facial-recognition.md",
-      "title": "Responsible AI investments and safeguards for facial recognition",
-      "excerpt": "Azure Cognitive Services deliver high-quality, consent-driven face recognition that developers use to power verification of human identities on mobile, desktop, and internet of thing (IoT) devices, as well as facial detection and redaction capabilities for accessibility, modern productivity, and privacy.",
+      "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
+      "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
+      "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/",
-      "originalUrl": "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/",
+      "webUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "originalUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dc501e24-2f0b-43cd-bf24-cfd4511d958e.jpg",
-          "width": 4081,
-          "height": 2247,
+          "url": "https://www.cnet.com/a/img/resize/290f770fd6283318e4d4c021da82022ea12a273c/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -217,16 +217,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T02:00:14-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "publishedDateTime": "2022-06-21T11:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -244,7 +244,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     },
     {

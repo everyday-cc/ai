@@ -39,7 +39,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "D FACIAL RECOGNITION PRODUCT"
+    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
+    publishedDateTime: 2022-06-19T12:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 19
 
-secured: "gyNDEr2S8nxcW32VSaza21YzBD+l0mjvMSJ0+v5dSWIUkv0DvipWRxGtSYvwTbHv3AErF0y6WbDaHcJzB7DUtIzteOu/6o2Bxnz55YHnjGLRzXcejEdJpbywz1parVqXwrQVKgd8eCAhZT/ueyguTZzh78vKupW+lGGxTcSwl7MQ99xcCUjegSFsWHZIywJTELp+RZ3imsyWg7WfbgiL2ePqlLptqRdgDv4whu7La/woEWiYYAzNXgxHjWp1sO6D3i7MxZTYbDaWdKIj7RylBs3xbv/5lKFq418+o2dl+3YOvguYb5eeEdz77kumnjDsuY8UDjerbcxb5aTZmniTM1YvfSzQsLRgNkj2XrrjJXU=;+zQUIuOe4SCVNUCpKU8Dfg=="
+secured: "y0VR8ripjOzvP5uosQj5yezBBaAq5fJ5QJbnvNaFgdTySsFWTDMalSlyhroY87Fkxq0IPAyCyQeGimjpIxAwx4SOlaF/m4vhjOmbfX1ymjgezgXMjYxySz4hzpIoXqYrWzSLlcOR0WPzT66VqA/ZLG1ueLpkoGqpNVJugZk8hle4tRmbh8b4ccUK2DUcJO/WzLocZfjenvgT50iIFJw7D1G/diaNdVTiQJgiwsC63Il1UxwkH4LV8SuKP7REEC0qrlzLlgAXulANCT7Jy3mgiUvJgibKmFX4x7ibDzvhs7JWkoIJ9F/fZsYJBIgqpSBeoiHkETgacaSDhhyRcVUYDDDzIahhR71q898WUdxeD9IqfalcUolN1DiIx7vTCu+kL7O3mP+eDZzF6fm8JkK+KDXcIx44AaB08yj22hOl2Dh08Ue4yJWAu2HnOC4TkBySnA7PBF5Ig4zFMUJm+36cnWBy4qhyI+ETUIQ+Vu4W2PkT1pzoMGdMWxB9x/SENJhq7Ttykl/bwcpBjqcu56GAuA==;dIbXebc8ILQdkbFKbXHYYQ=="
 ---
 

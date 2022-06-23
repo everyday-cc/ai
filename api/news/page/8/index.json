@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-15-researcher-finds-that-military-cannot-rely-on-ai-for-strategy-or-judgment.md",
+      "title": "Researcher finds that military cannot rely on AI for strategy or judgment",
+      "excerpt": "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology argues only so much can be automated and shows the value of human judgment.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
+      "publishedDateTime": "2022-06-14T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
+      "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
+      "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg",
+          "width": 1280,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "publishedDateTime": "2022-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
       "title": "AWS with Intel launches DeepRacer Student League",
       "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
@@ -1042,110 +1128,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-amd-stealthily-releases-another-secret-gpu-and-were-not-impressed.md",
-      "title": "AMD stealthily releases another secret GPU... and we’re not impressed",
-      "excerpt": "Usually, desktop GPU announcements are kind of a big deal. The big dogs AMD and Nvidia (and soon their new challenger Intel) typically want to get as many eyes on new graphics cards as possible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amd-stealthily-releases-another-secret-gpu-and-were-not-impressed",
-      "originalUrl": "https://www.techradar.com/news/amd-stealthily-releases-another-secret-gpu-and-were-not-impressed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ijbwrgWd8z5ceA2EaYoAzi-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-3-technology-stocks-that-can-prosper-during-a-tech-downturn.md",
-      "title": "3 Technology Stocks That Can Prosper During a Tech Downturn",
-      "excerpt": "That cloud-computing services segment produced $5.8 billion in revenue, up 44% year over year. According to Synergy Research Group, it lags only Amazon and Microsoft in terms of cloud market share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
-      "originalUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/684836/gettyimages-1209867567.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

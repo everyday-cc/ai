@@ -7,7 +7,7 @@ originalUrl: "https://physicsworld.com/a/bridging-the-knowledge-gap-on-ai-and-ma
 webUrl: "https://physicsworld.com/a/bridging-the-knowledge-gap-on-ai-and-machine-learning-technologies/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,19 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+
+related:
+  - title: "The robots and AI technologies advancing South African health care"
+    excerpt: "South African researchers and surgeons are using artificial intelligence and robotics to enhance healthcare in the country, BBC News reports. The improvements include a video-call robot that ..."
+    publishedDateTime: 2022-06-20T09:39:00Z
+    webUrl: "https://mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html"
+    ampWebUrl: "https://mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "2JQl4MEmlq6WC7EswKdFr+t6UEv751xkeo8fWDc5/Jno/osyvZE71VXxyWb1fMNqonvvH5fkCLRGNgByx6dVy4ZeNYtyjQSlxtE65CSpMQ23iLQusktozWGGr25RFc+tXPNGsJwNObIT1UEiNCOSddV3ROjruoygIPoQHCv8kXEaQYVUPHCd1qOSfX9CPEzBck8h7QxZ80Az0RDtq6LIshC1rreLLqmhKURJ1AwRCncxTAjL8meAWKL/+Ob+cpMvED8R1gVLFoW+suA4RRfwTDDXomDsoOdsO8SPe7WwhJ/fii2o1cn+SeYvTUP9kz6b2MVmOefhHALNn7/koh+UjDGPO10kTKKYFDnvxPeGW0h+vVYk/HVZPgTuPu6vAmD2W490m3Q8jzQtT00bx0qlFx7JDqk+pME6zOiLYnCTeJ5dGdrrqGQHHiWqnMtEzsabsEZ/2LCbqdWQwVx6ranuiN7rl5gx6zvlcCliG4CmjTCffNIwpyZfHHz0ICz8EioCYE5OHP7EVHyycc+WcSbVkA==;FQ8xam3+i6ejfnpUNEeAFg=="
 ---

@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-14-churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers.md",
+      "title": "Churn It Down: How Media Companies Can Use AI To Keep And Win Subscribers",
+      "excerpt": "With new challenges for streamers, and longstanding headwinds for many others in media, combatting churn has become more important than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3d955ea7f4b3cb1876076/0x0.jpg?format=jpg&crop=1260,709,x0,y96,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
+      "publishedDateTime": "2022-06-13T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-amds-ai-strategy-comes-into-view-with-xilinx-gpu-software-plans.md",
+      "title": "AMD’s AI strategy comes into view with Xilinx, GPU, software plans",
+      "excerpt": "Analysis After re-establishing itself in the datacenter over the past few years, AMD is now hoping to become a big player in the AI compute space with an expanded portfolio of chips that cover everything from the edge to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/13/amd_ai_strategy/",
+      "originalUrl": "https://www.theregister.com/2022/06/13/amd_ai_strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/11/08/handout_amd_lisa_su.jpg",
+          "width": 1557,
+          "height": 761,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/13/amd_ai_strategy/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/13/amd_ai_strategy/",
+      "publishedDateTime": "2022-06-13T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-future-phones-could-be-as-easy-to-build-and-upgrade-as-legos.md",
       "title": "Future Phones Could Be as Easy to Build and Upgrade as LEGOs",
       "excerpt": "“We tried to make some kind of AI chip, which is reconfigurable, so we call it a LEGO-like AI chip,” Jihoon Kang, an electrical engineer at MIT and co-author of the new study, told The Daily Beas",
@@ -1084,102 +1179,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-a-worrying-phone-call-adds-to-concerns-about-sen-dianne-feinsteins-cognitive-health.md",
-      "title": "A worrying phone call adds to concerns about Sen. Dianne Feinstein's cognitive health",
-      "excerpt": "And while Traister's feature piece does center on Feinstein's long and storied career, it also evokes questions about the senator's cognitive health. NPR's All Things Considered spoke with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
-      "originalUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2022/06/13/gettyimages-1240601779_wide-3616d7a7c5252ab0382618dd132f940c65b86c60.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-the-data-science-and-ai-market-may-be-out-for-a-recalibration.md",
-      "title": "The data science and AI market may be out for a recalibration",
-      "excerpt": "Being a data scientist was supposed to be \"the sexiest job of the 21st century\". Whether the famous Harvard Business Review aphorism of 2012 holds water is somewhat subjective, depending on how you interpret \"sexy\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
-      "originalUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a9504caf2ddfb0b7c19917de3dbf34532f282eac/2021/07/16/95711752-ec77-44fc-8dc0-70aa6204d707/data-science-shutterstock-1081970570.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
-      "publishedDateTime": "2022-06-13T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

@@ -38,6 +38,20 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "The amazing potential of artificial intelligence, machine learning for every industry"
+    excerpt: "Any organization with data (which is every organization) can leverage artificial intelligence and machine learning."
+    publishedDateTime: 2022-06-22T14:00:00Z
+    webUrl: "https://www.patriotledger.com/story/business/2022/06/22/artificial-intelligence-machine-learning-arent-just-for-tech-giants/7695122001/"
+    type: article
+    provider:
+      name: The Patriot Ledger
+      domain: patriotledger.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/06/21/NPAL/0a2aeccc-7632-4686-9ebd-223bba355efa-Troy_Hollings.jpg?auto=webp&crop=399,225,x0,y87&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "mfg7COBuhjhh32nyWv5E8fANKIGTzSh7zkROb0pbyK0mEjlhWoVS03sLNuoZ4zUv/LWXOni2TfIh6MYr2vPvejSVln0McJo4xjLDFyLnlMEEfCIaA8K1koxzzIGkpmbN/saMizetmPB8lnDB26/Rx0uq7fG8eFRNJmc+npmz241LAa3+9iAb7sdMKWqMbXkxOTsA7tnk1oxzs9m8DHEw200Kp1GOs4bDJZ1Z2MM9jzoY3qKRkUMvNECq6tVWwcbkHXbLSBIl0eVi/nB3BSrHSZcLYlJWTVWBDmJWlBcR00eg8EPWAke7mPSSuGsr37hperRbCXGghJngeRuYDCn2gO8JMIsWAh5+F6Qe8TjEv6IreeVjrJ+ryqp7j7mkTguP60+j5Y5GlkE+g7tncB0gA9ouCB60l25EBwdupsibNb04aqCCMlv0q1Olc9WfAhrTStU48cyDmPcBC8wqyirchxCOLYiMV8YvDfvUMF5C8J8D8wFlNWtGfpmSuoKMYg4kJLIK6kZrz4Vg+38aK8LEkA==;yPnIhqKG+53UMipGzzBMRQ=="
 ---

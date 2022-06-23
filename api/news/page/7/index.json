@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-15-exclusive-baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources.md",
+      "title": "EXCLUSIVE Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources",
+      "excerpt": "Baidu, whose businesses range from internet search to electric vehicles, with expansion into cloud services, robotaxis and autonomous driving in recent years, has tapped Bank of America (BAC.N ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/",
+      "originalUrl": "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/guPLU9seqwgSD6LVw04iCxt0V6g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4EGMJWOEKZL7RHK4KSSRBGTUQA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-is-ai-the-future-of-audit-or-all-hype.md",
+      "title": "Is AI The Future Of Audit Or All Hype?",
+      "excerpt": "Artificial intelligence is billed as the future of everything—a magical panacea to all of the world’s challenges, heralding a utopian future where algorithms will know exactly what’s required and when.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a884dd069425f7520e32b5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/",
+      "publishedDateTime": "2022-06-15T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-new-deep-learning-tools-can-help-us-win-the-cyber-war.md",
       "title": "New deep learning tools can help us win the cyber war",
       "excerpt": "Today’s columnist Guy Caspi of Deep Instinct, says deep learning can help security teams get ahead of costly cyberattacks on critical infrastructure like the one last year on Colonial Pipeline.",
@@ -963,92 +1066,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-researcher-finds-that-military-cannot-rely-on-ai-for-strategy-or-judgment.md",
-      "title": "Researcher finds that military cannot rely on AI for strategy or judgment",
-      "excerpt": "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology argues only so much can be automated and shows the value of human judgment.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
-      "publishedDateTime": "2022-06-14T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
-      "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
-      "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg",
-          "width": 1280,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
-      "publishedDateTime": "2022-06-14T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
