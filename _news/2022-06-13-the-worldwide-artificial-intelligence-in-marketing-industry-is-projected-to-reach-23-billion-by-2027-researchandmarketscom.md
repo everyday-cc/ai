@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

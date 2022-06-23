@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T13:27:00Z
 originalUrl: "https://www.alleywatch.com/2022/06/lightning-ai-operating-system-for-ai-machine-learning-william-falcon/"
 webUrl: "https://www.alleywatch.com/2022/06/lightning-ai-operating-system-for-ai-machine-learning-william-falcon/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: alleywatch.com

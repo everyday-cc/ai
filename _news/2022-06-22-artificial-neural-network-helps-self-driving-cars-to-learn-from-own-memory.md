@@ -94,6 +94,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 6
+  - title: "New Method Helps Self-Driving Cars Create ‘Memories’"
+    excerpt: "A team of researchers at Cornell University has developed a new method enabling autonomous vehicles to create “memories” of previous experiences, which can then be used in future navigation. This will be especially useful when these self-driving cars can’t rely on sensors in bad weather environments."
+    publishedDateTime: 2022-06-23T13:32:00Z
+    webUrl: "https://www.unite.ai/new-method-helps-self-driving-cars-create-memories/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 6
 
 secured: "Xuj7gd3ULuwa162LNlJwEGuMkX0MES5RqEb0Veo21E0jhVslbq+HJIpzfl12GPlba7SkNstoH0xVGFHb1M2wrAQ8JGdRImn9mp+yslh6CZWU7MNeWfT+BXkj30st8MdMO+HskPw3J72xPCZggzA94eig+jXNIwY9DJY6hM7VB5jGXn8kWGIIIhU4/L34bNf2zN/F7celIYEO0uEyFmS1irJnXK8EH2HAsyHkTFsX0qJ1qD4r1/wj63S+Auv5H/oAe7yHNn7a4UuMaiktlE+Ov8xfxKcxhfgEQX5nb2D8AFdra2OC+DqIF39sqOVi2nxAa62t03+/TK9VbTGqlIRSNLIttsNWOmp+bA4qWKV3Z34xmf9Fodnnn2ERcn/+fiUwL2ITU+YsSa+ouLWBGm32F967bemDI8lKVV6vb1Z+jHc0DE+O6setDUKAV/OWrO9lqiUGsEEff1LULOtdESVoUb6EIUaKQ08+W4jK/IIUt1BMhwVNstBUTE2TXas5H6XMR6JLGT2QhvOiS+iVv6Bq+g==;tU7lJ15iL1yhUhlNWmTCag=="
 ---

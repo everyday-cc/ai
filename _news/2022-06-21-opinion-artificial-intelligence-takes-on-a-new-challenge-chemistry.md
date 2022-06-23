@@ -7,7 +7,7 @@ originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificia
 webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Too many flaws in commonwealth’s facial recognition law"
-    excerpt: "Virginia’s new law does not adequately address the risks facial recognition poses, Georgetown Law's Jameson Spivack writes in a guest column."
-    publishedDateTime: 2022-06-18T22:05:00Z
-    webUrl: "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html"
+  - title: "A celebrated AI has learned a new trick: How to do chemistry"
+    excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
+    publishedDateTime: 2022-06-20T20:31:00Z
+    webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 41
+      name: Salon
+      domain: salon.com
+    quality: 37
     images:
-      - url: "https://www.dailypress.com/resizer/aqlo7BFfe8I2VRn2WP7gYdR2q88=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/pipette-lab.jpg"
         width: 1200
-        height: 630
+        height: 810
         isCached: true
-  - title: "D FACIAL RECOGNITION PRODUCT"
-    excerpt: "Latest Breaking News, Pictures, Videos, and Special Reports from The Economic Times. d facial recognition product Blogs, Comments and Archive News on Economictimes.com"
-    publishedDateTime: 2022-06-19T12:37:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/d-facial-recognition-product"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 19
 
 secured: "y0VR8ripjOzvP5uosQj5yezBBaAq5fJ5QJbnvNaFgdTySsFWTDMalSlyhroY87Fkxq0IPAyCyQeGimjpIxAwx4SOlaF/m4vhjOmbfX1ymjgezgXMjYxySz4hzpIoXqYrWzSLlcOR0WPzT66VqA/ZLG1ueLpkoGqpNVJugZk8hle4tRmbh8b4ccUK2DUcJO/WzLocZfjenvgT50iIFJw7D1G/diaNdVTiQJgiwsC63Il1UxwkH4LV8SuKP7REEC0qrlzLlgAXulANCT7Jy3mgiUvJgibKmFX4x7ibDzvhs7JWkoIJ9F/fZsYJBIgqpSBeoiHkETgacaSDhhyRcVUYDDDzIahhR71q898WUdxeD9IqfalcUolN1DiIx7vTCu+kL7O3mP+eDZzF6fm8JkK+KDXcIx44AaB08yj22hOl2Dh08Ue4yJWAu2HnOC4TkBySnA7PBF5Ig4zFMUJm+36cnWBy4qhyI+ETUIQ+Vu4W2PkT1pzoMGdMWxB9x/SENJhq7Ttykl/bwcpBjqcu56GAuA==;dIbXebc8ILQdkbFKbXHYYQ=="
 ---

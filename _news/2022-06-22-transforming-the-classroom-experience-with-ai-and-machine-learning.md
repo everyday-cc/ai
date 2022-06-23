@@ -41,20 +41,15 @@ related:
         width: 1200
         height: 706
         isCached: true
-  - title: "State of denial and the power of AI"
-    excerpt: "The fact that a majority of denied claims are preventable is only one aspect of a much deeper problem. Reworking claims take time, money, and resources. But here's how resource-strapped providers can leverage artificial intelligence to reimagine claims management."
-    publishedDateTime: 2022-06-21T05:00:00Z
-    webUrl: "https://medcitynews.com/2022/06/state-of-denial-and-the-power-of-ai/"
+  - title: "Here are 3 ways AI is going beyond hype and transforming research at one of the world's biggest drugmakers"
+    excerpt: "The Bristol Myers Squibb executive Venkat Sethuraman spoke with Insider about artificial-intelligence projects he hoped would change drug research."
+    publishedDateTime: 2022-06-23T12:30:00Z
+    webUrl: "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/wp-content/themes/medcitynews/images/logo-1000x1000.png"
-        width: 872
-        height: 916
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "ohTvN5nUBxjAd4eU8Bi7iooL+RATU2PyEuRhwR5GAb30MbB1DMwfqKnyUTIRy3jX25l/ZI3rMm6ojoDBkLgBOtFun0mIdrd7m5C8PCCq/XWwpf7qJA7GA3nvRNcn1XRZWvY6GtXSqSW+GvugRUhk7Ggmmya8kuHmjQcurFnFCk6nlvQW7to7lFlWh3valn8YNAG4R9nfc4Km+D6mSoLkZx7ocyu6MZrXI8oXP2UHjU5M6PvGEsVuRfJd2S3E0+jfKi5G//RwD12au/UE/2qrNV9kOv7AS7if04/CxThpA7mRfvV5mm+oRNZJelOs5M8XWiJ+NeCli3KfufBEecVR0ypGn1WEa3vgnY+ZjBtUWdEYE8KZX6DkgqCHrmqF19cFpN7g+JOeGxNau3Y07LJPR8bjsjrcVr0rPMp8I6E4JpnWKWPoI5slU33w1kpKnX0VNUvxWYY4uaonNtUXtifcxe0FodZUmAeaqYRIbCxOG/ySmg/tAry1Qxh7u+8/JBm+PSvlYRgOwdzeu7bHKsaUnw==;OCILnEWudN5MivJXVIma7w=="
 ---

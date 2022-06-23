@@ -3,19 +3,27 @@ category: news
 title: "AMAX Launches Ultralow-Latency and Liquid-Cooled Quad-GPU Data Science Workstations"
 excerpt: "AMAX, a leading provider of high-performance computing (HPC), artificial intelligence (AI), and OEM data center manufacturing, has announced new GPU workstations for AI developers that are not only ultra-powerful but also suitable for deployment in any non-lab environment."
 publishedDateTime: 2022-06-21T15:03:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-artificial-intelligence-02d3cf4b04fbd9262b87d686907df3a3"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-artificial-intelligence-02d3cf4b04fbd9262b87d686907df3a3"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-artificial-intelligence-02d3cf4b04fbd9262b87d686907df3a3"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-artificial-intelligence-02d3cf4b04fbd9262b87d686907df3a3"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Associated Press
   domain: apnews.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Hardware
+  - AI
 
-secured: "gD1CFB+wpQdeLBQEzOnce8/26czXuB1DBt3bdzKuruhIRfqMcYEKqj7cKIXmqQnUnCam32F1q4GpqBmdyEqT52Kvm0cZbDU9YdPtoMMSV98HxZrQXBGxiGfCDGCjC0p7hhvGKoKcuCnTFBjRLft9maL5EPrr8NRACYl70OhYFK2Qc5YdX8P5eSK9uhID0bEK0jCHGMJadFFz/it6acoklLQwI7kxAM4rZgWdVLXYgmB0a4Y/vwlxnTq6bbwEsODnAwYLTF/+scOWbWbZdzwnY1QVD3h8ZMFIlVp1ZgOo5rvIuRkLGmn8eoOSX234ZvNP1ifF/ucyjez2RnpOVM/whtb4RB4SeLHQ0mj1lKymdtE=;8nC4jl7IVLxWfTct3pVNsw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "io4PqxYawTCU4VHgvPrUHS29m69sQ5Jd73g9hTDpIRntKq5WsMqTcg+XUF4SYagR831IPQe7Nml4TrZPOP7iwiX/Qaxy1wENz7IxDAweAYBSEMu9srPgCm2nqMhX5cMXD86AIR4oin0zmlJxPCjQJufSl5JiabI0VKKoRjj6AwAxPvpmXAlSXchSmlg+31kCPdGl1bTRV15065Uy13ZP/UZRKGidHN4RrVnFcdevDEKqwtCOmlUldoyBEgDB7HZhCqJyCm3kO/mfq9pwPvI9idkNaf63GHHr4K+xqeyMAgMwTrJQhLXqD0yKy10ReBVOMVtmUBCA9Efm9PkWAU9nqNmwr2dWMGcFO/IVQEhQde0=;sQun21fugSn9my3A1Mpo4A=="
 ---
 

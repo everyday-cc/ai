@@ -9,7 +9,7 @@ ampWebUrl: "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
 cdnAmpWebUrl: "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,47 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and human intelligence will beat cancer"
-    excerpt: "2016 saw the completion of a significant milestone for humanity: artificial intelligence (AI ... an equivalent of a Move 37 against cancer: a therapy that at first may seem counterintuitive ..."
-    publishedDateTime: 2022-06-18T20:21:00Z
-    webUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/"
-    ampWebUrl: "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/"
+  - title: "Ai Build Receives Major Investment"
+    excerpt: "London-based Ai Build has received a significant investment to boost their manufacturing platform. Ai Build, founded in 2015, is all about 3D printing toolpaths. Their flagship product, AiSync, is an extremely powerful software platform that can generate highly complex additive toolpaths for multi-axis devices."
+    publishedDateTime: 2022-06-22T20:09:00Z
+    webUrl: "https://www.fabbaloo.com/news/ai-build-receives-major-investment"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Fabbaloo
+      domain: fabbaloo.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all"
-        width: 1200
-        height: 588
+      - url: "https://www.fabbaloo.com/wp-content/uploads/2022/06/ai-build-robot-cover.jpg"
+        width: 1128
+        height: 700
         isCached: true
-  - title: "The Power and Pitfalls of AI for US Intelligence"
-    excerpt: "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,"
-    publishedDateTime: 2022-06-21T20:14:00Z
-    webUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/"
-    ampWebUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "How AI Can Make Strategy More Human"
-    excerpt: "The power of AI is now within reach of all companies, opening up a new world of strategy innovation and enabling companies to leave the constraints of legacy architecture behind forever."
-    publishedDateTime: 2022-06-22T13:20:00Z
-    webUrl: "https://hbr.org/2022/06/how-ai-can-make-strategy-more-human"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "G9MLZwvHvZXM7klk8vK0JwcMg8Cw2S08v9gPfTz9Y1JM867XT8YgcHF11EXvO12oGkyGJ11Hip/8PZc9+MoQlcJ/BScI2MKryHbeOhO542C2fWbL4JUByEaws1ZicmacCcwRAESsOzU+Nn6R/PXDvw7GDGqBPXew9iiCh9dc8J46a9o4iunxyv8VLQMBG/4ojtO87M/YvM3A6odR9DY7EoKdBQBGVnq6YjUxgsSws8B9Mt9qRRIG+3JgsFzA2FZZz+z0807UCKyD8lsTO1FOFk73N5YBFB8mGvJMWk8VsxjUtmJmm9O9z3jy6ahc5Ml+Pjdj71uDhreHWyn81tDSpiIeVIlJ02gj05b6gqW9h8w=;r70jAO380T+mP55bll1kBg=="
 ---

@@ -3,18 +3,27 @@ category: news
 title: "DARPA adding ‘common sense’ to battlefield robots"
 excerpt: "As the Pentagon turns to artificial intelligence to aid operations, researchers at the Defense Advanced Research Projects Agency said they are closer to giving robots the “common sense” they need to survive the battlefield."
 publishedDateTime: 2022-06-23T13:41:00Z
-originalUrl: "https://www.c4isrnet.com/2022/06/23/darpa-adding-common-sense-to-battlefield-robots/"
-webUrl: "https://www.c4isrnet.com/2022/06/23/darpa-adding-common-sense-to-battlefield-robots/"
+originalUrl: "https://www.defensenews.com/2022/06/23/darpa-adding-common-sense-to-battlefield-robots/"
+webUrl: "https://www.defensenews.com/2022/06/23/darpa-adding-common-sense-to-battlefield-robots/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "CeJDm2yEiDP57LmO1tzeJOaWbpuQjBQqnohETB5fpWlsOd/ms1TYuZnwv5SxL3/U2jitWW5d6K3K39VhRDesVxhgPkZD/nn8ERL9l33W8o4iu7hCzWsFw4Nef9eJDbuKDvnF9H3FRN/Oo0dLn0iUITLq9WKCXLKeXpu75o549yhCV/Zr1p7R9PecEXdL/YAWqADVzWIEB15PiVF5meVNgCkRggyPdaWlvYm+1QSWyGhdirVitBtgVNK1FrmPiBPwnNipt0m/+wB9Ot4NvCyD3xuWVObKuuVedZ6OACCHReMv6WtYmcELLkoHoAMyPRv8/XKn8ADHGke3W+ceA8sseuSnRRKgdak4V5qqO+t7Y9nTv+81CzuE1XZ+j2pE0ShuMKqupKq33heTs4MuTs7nhtWd7FR7nybzruHFnIAHkt9EvGDHXHPhMnlMR1jrkkyTWP9n20qsOhwHHb4tq835xADpKhHexAhYPqD86fi+k6SSUjb/IjTrBBPxfS4J33m6HsASAWv7GMzfIKUYKo0ETw==;0h4/6nrG0WaxkCOiebotPw=="
+images:
+  - url: "https://www.defensenews.com/resizer/c-1KWw7ZOfb6OvGaUQh8NBBaadc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FLOYUOXULRGVZINKFJTVKI3BVY.jpg"
+    width: 1024
+    height: 643
+    isCached: true
+
+secured: "D9futBRjYHVqhn4a1ogQ1VcUECOfIguBOfgSgB8lXAr6w0+oypIZttJrJiEcprQaEu9nSoHt8wOIXjozaf8LaAnCm2MCkaCtlRZiF8d7lLwX2JPyxHNVbTs2Pjgy62wetS3QEg2xO++i3xVMx5Kp/SIdDq2dPnVflDS22Gs3OsonxnbXvI+MuwExmcV2TYA+nof40fenyF8FAfrE4vesl/fP1Xey+AwEG89/2bpSu0UtqnO9UmRBCZxQOem/NQ9tKSyy0M2GRoyjQL/JLaLt5CXBo+qHJUMZOatyUzfTItgGQcfX2XIa4i24GZI4OG9j8Ekn4M8QJL7kpQsoRX9P61+uLzjYO18SSkQnv6xSwE4=;7zz5ObVPAWbxncG9Wyi0yw=="
 ---
 

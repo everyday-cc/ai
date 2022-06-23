@@ -7,7 +7,7 @@ originalUrl: "https://bylinetimes.com/2022/06/21/lawmakers-must-wake-up-to-the-t
 webUrl: "https://bylinetimes.com/2022/06/21/lawmakers-must-wake-up-to-the-threat-of-artificial-intelligence/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 600
     height: 314
     isCached: true
+
+related:
+  - title: "The maker of the world’s largest chip has made a major AI breakthrough"
+    excerpt: "Cerebras Systems, maker of the world’s largest processor, has broken the record for the most complex AI model trained using a single device. Using one CS-2 system, powered by the company’s wafer-sized chip (WSE-2),"
+    publishedDateTime: 2022-06-23T13:02:00Z
+    webUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 64
+  - title: "The World's Smartest Artificial Intelligence Just Made Its First Magazine Cover"
+    excerpt: "The technology behind DALL-E 2 is already re-shaping the world as you know it—perhaps most literally with this magazine cover you're looking at. Are you ready for what comes next?"
+    publishedDateTime: 2022-06-21T14:02:00Z
+    webUrl: "https://www.cosmopolitan.com/lifestyle/a40314356/dall-e-2-artificial-intelligence-cover/"
+    type: article
+    provider:
+      name: Cosmopolitan
+      domain: cosmopolitan.com
+    quality: 33
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2022-06-20-at-9-47-56-pm-1655776096.png?crop=1.00xw:0.837xh;0,0&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
 
 secured: "2QA0Ce8lcyCGQhxJvE2iKOkuy4hvExkNnyK7a1FNR//CYlKzZ2aaxPTpM8tRvgEjWxZQBaY/hLxJoN/6u8yjqSRsVxaNdwRtcSN4wjA0L+UEMkGP1bdCRvchmRxB32NqwTDMS2dkXMxa8FbCGhETSbvjwhBKH11A/c9KNKWStPuyJnYQnjeODGI60mP1bRgFf8pmyu+AQvh+ePcCxySvanMs0ogpS70kwXaD+ivY1x9T6NEsCc52rbM3OiuTdv90b/vdUWu4TupiuE3RTpiMs4Gws2UUiB7RcpENIKh+S4qK2oQv/vNMMqXtfgVe+TaD7mih8hwKiyWSG1LzTIcYAF1rSKR1WAMy4ygh7JNpPCc=;X/5T4cNx/ev4tW+9Wg4fdQ=="
 ---

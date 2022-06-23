@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-da
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Big Data and AI Are Changing the Financial Industry"
+    excerpt: "T he financial industry has never been short of data, but until recently, the bulk of it has been too complex to do anything meaningful with. A little something called AI is gradu"
+    publishedDateTime: 2022-06-23T13:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-big-data-and-ai-are-changing-the-financial-industry"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "Quantum banking: The next leap in financial services"
     excerpt: "Quantum computers are supposed to be much faster and more powerful than current supercomputers, and as such, their application could have a profound impact on any industry. As banks begin to embrace quantum computing,"
     publishedDateTime: 2022-06-20T10:49:00Z

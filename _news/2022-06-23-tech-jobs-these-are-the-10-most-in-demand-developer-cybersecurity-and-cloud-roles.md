@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T12:07:00Z
 originalUrl: "https://www.zdnet.com/article/tech-jobs-these-are-the-10-most-in-demand-developer-cybersecurity-and-cloud-roles/"
 webUrl: "https://www.zdnet.com/article/tech-jobs-these-are-the-10-most-in-demand-developer-cybersecurity-and-cloud-roles/"
 type: article
+quality: 28
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -18,6 +21,31 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Cybersecurity landscape: The state of managed security services, 2022"
+    excerpt: "Machine learning and other capabilities help to ... Whether it’s a hospital, manufacturing plant or financial services company, their business is not secure, and our business is."
+    publishedDateTime: 2022-06-20T19:11:00Z
+    webUrl: "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-state-of-managed-security-services-2022/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
+  - title: "Advancing Cybersecurity Awareness in the Healthcare and Public Health Sector"
+    excerpt: "Tetra Tech applies AI and automation tools at the U.S. Department of Health and Human Services to increase outreach within the Healthcare and Public Health community."
+    publishedDateTime: 2022-06-20T16:47:00Z
+    webUrl: "https://www.csrwire.com/press_releases/747881-advancing-cybersecurity-awareness-healthcare-and-public-health-sector"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 36
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Advancing-Cybersecurity-Awareness-in-the-Healthcare-IS22-013-650.jpeg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "DuwIJpNZYkTLxAXwGVO3WwYaQb1druJyPs4LEBCOe1hn83CJO8QvLbJ+DV83JJmKf2IC4zRcW/Mk9P1Ns9vlVURGJe7w6679c1s6iY143PjUVsb77EmqrjcVH+z4sacO8DKFrCzH0bbvHLA0suB2db5fKzXegtNozWOce+rq+yDRU5O43nnwPnkT3D9IBon5c8ms57gfVApEfGmtvA6vHt+MI70HQiaoPnp4iP9vObhcYCMSLhRewenHCOAX8s6r8K3wf7mkiyY0PfvI82OfSvutA2Y0Ytwm4vFyXhYnpeAka8JHGlxzKbSI6xc//boNKFwkqovMPLF232K32qKSkXifGKO2WV+YVOqzZpnyJH0ID4usJQrOkKRnQbuG/UOnbZMms6rlmu25msfT5om2Gq7OVtYlRkSIeUM36ONR5aFmy99DMBvS3qBBCtJkxL5zo8LnNiRgS3C/V808w3Wv5ghm2rnHB84rFNHL4opAx0eDeKhzdYIiE+9930wniHHosu4cq1x8ACz6lCpzB5NPmA==;AVti2X56Qmb2aoVrjCENqA=="
 ---

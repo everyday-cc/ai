@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/06/22/octoml-transforms-machine-learn
 webUrl: "https://venturebeat.com/2022/06/22/octoml-transforms-machine-learning-models-into-software-functions/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "OctoML launches new machine learning platform expansion"
+    excerpt: "Today OctoML, provider of a machine learning acceleration platform, released a major platform expansion in order to accelerate the development of AI-powered applications by eliminating bottlenecks ..."
+    publishedDateTime: 2022-06-23T15:09:00Z
+    webUrl: "https://sdtimes.com/ai/octoml-launches-new-machine-learning-platform-expansion/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/06/8d0b569cbf3ee6cec31affcb22c63988-490x326.jpg"
+        width: 490
+        height: 326
+        isCached: true
   - title: "OctoML turns AI models into ‘portable software functions’ with new platform release"
     excerpt: "OctoML Inc. today updated its artificial intelligence development platform with new features designed to ease the work of enterprise software teams. Seattle-based OctoML was found"
     publishedDateTime: 2022-06-22T13:00:00Z

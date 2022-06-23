@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/industry/p
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870"
 type: article
 quality: 61
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "This entrepreneur exceptionally personifies FinTech with AI"
+    excerpt: "With the motive of helping people understand the complicated yet powerful FinTech tools by providing accessible and quality education, Dr.Clemen Chiang founded Spiking.com"
+    publishedDateTime: 2022-06-23T12:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/430110"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Learning new ways of working from the UK’s soaring fintech sector"
     excerpt: "By Stuart Templeton, Head of UK at Slack From the rapid rise of the cashless society to instant in-app bill splitting, the world of banking has transformed at pace over the past decade. The sparks that lit this revolution were non-traditional fintech services and challenger banks,"
     publishedDateTime: 2022-06-20T21:52:00Z

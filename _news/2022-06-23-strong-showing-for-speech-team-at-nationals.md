@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T12:25:00Z
 originalUrl: "https://www.hometownsource.com/laker_pioneer/community/strong-showing-for-speech-team-at-nationals/article_84bf4d48-f2ef-11ec-a922-3fcba3dd0833.html"
 webUrl: "https://www.hometownsource.com/laker_pioneer/community/strong-showing-for-speech-team-at-nationals/article_84bf4d48-f2ef-11ec-a922-3fcba3dd0833.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Hometown Source

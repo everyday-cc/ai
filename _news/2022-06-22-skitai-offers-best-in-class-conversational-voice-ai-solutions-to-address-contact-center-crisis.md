@@ -54,6 +54,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "When AI goes Awry; 5 Contact Centre Transformation Mistakes to Avoid"
+    excerpt: "When AI goes awry; five contact centre transformation mistakes to avoid. Jonathan Rosenberg, CTO and Head of AI at Five9 explians how to"
+    publishedDateTime: 2022-06-23T15:52:00Z
+    webUrl: "https://contact-centres.com/when-ai-goes-awry-5-contact-centre-transformation-mistakes-to-avoid/"
+    type: article
+    provider:
+      name: Chat Bots
+      domain: contact-centres.com
+    quality: 37
+    images:
+      - url: "https://contact-centres.com/wp-content/uploads/2022/05/jabra-engage-55-image-may-2022.1-min.jpg"
+        width: 851
+        height: 451
+        isCached: true
 
 secured: "9ASKgm+J50PQS0eqnULu4DwwAo5DMZB43tiZr9JYNf3/e4KMH0CBCxuBcIR0cvNxJsSeTuB/m4hG2OBYUo1DF192/EooHzkX7+phbMiFfzkz1YuD3/L9twEWfOfb254mFiGfTsgMY6cVX3+6E7lbf+VQH/e4TJpYX0yEGIDRfyjvY+yZRczLaWYooyHehY1kow9OupAie3CBKhfa5qUvwkSlHcrl1TpPRpOsHuqyAK78Ty10Ou6Z5XFIvt9IOAoHRNzjqQaIMBCe4jvAoU7hkRvw4yFU8KOtIBI19o14zGdLduCmYWWkGl9WoE3kU4LMO05EMCjmt5VHO/ZlKQnNBH1LAsJh/s6erRV/bOUpRKc=;rJFHNpKfXiES9dvuRJC/OA=="
 ---

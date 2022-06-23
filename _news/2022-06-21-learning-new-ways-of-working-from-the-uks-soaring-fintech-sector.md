@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "This entrepreneur exceptionally personifies FinTech with AI"
+    excerpt: "With the motive of helping people understand the complicated yet powerful FinTech tools by providing accessible and quality education, Dr.Clemen Chiang founded Spiking.com"
+    publishedDateTime: 2022-06-23T12:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/430110"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "What industry-driven fintech skills are a need of the hour for aspirants"
     excerpt: "FinTech is a phenomenon that has been speeding the pace of change at a remarkable rate and redefining the industry’s status quo at the convergence of business and innovation. It’s hard to envision a"
     publishedDateTime: 2022-06-23T10:12:00Z

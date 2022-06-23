@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solut
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/revGmWARy7Adv2kKyAnQhc-1200-80.jpg"
         width: 970
         height: 545
+        isCached: true
+  - title: "When AI goes Awry; 5 Contact Centre Transformation Mistakes to Avoid"
+    excerpt: "When AI goes awry; five contact centre transformation mistakes to avoid. Jonathan Rosenberg, CTO and Head of AI at Five9 explians how to"
+    publishedDateTime: 2022-06-23T15:52:00Z
+    webUrl: "https://contact-centres.com/when-ai-goes-awry-5-contact-centre-transformation-mistakes-to-avoid/"
+    type: article
+    provider:
+      name: Chat Bots
+      domain: contact-centres.com
+    quality: 37
+    images:
+      - url: "https://contact-centres.com/wp-content/uploads/2022/05/jabra-engage-55-image-may-2022.1-min.jpg"
+        width: 851
+        height: 451
         isCached: true
   - title: "Skit.ai Offers Best-In-Class Conversational Voice AI Solutions to Address Contact Center Crisis"
     excerpt: "Leading voice AI startup expands global footprint, offering revolutionary customer experience solution to U.S. – NEW YORK, June 22, 2022 /PRNewswire/ -- Skit.ai, the leading voice AI SaaS company, today established U."

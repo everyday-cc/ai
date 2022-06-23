@@ -5,7 +5,12 @@ excerpt: "Panasas announced its collaboration with MLCommons™, to create indu
 publishedDateTime: 2022-06-23T09:22:00Z
 originalUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
 webUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+ampWebUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
 type: article
+quality: 74
+heat: 94
+published: true
 
 provider:
   name: enterprisetalk
@@ -15,6 +20,42 @@ topics:
   - Machine Learning
   - AI
 
-secured: "XcBTo8hkB+BGge3QkhD/x788f00Kh0Q06NI+ztL0zO7A7kLiQ099349dx9BWoJoBk0+Ra4VNpMWJa0mjybq95o+Y9dJ1HPK9QU4rxOFpP2WBtor37wDt5CHDEf0DeJ0StgRC0oUGaHdQ4tFvuUiw6fuQeHcsBBh1ZN03f83Nr2Tw59J+Vov4gOcHaht8ZvwmSA4V16kmjCwzGX5ca5TmIQc2hqBnyiUjJwEw9e8f/Xos68MmJBflnlYXul/+qX3P0jF5cS/FDCi1wMxiKeawslDO0Pf7AA5afUoPZJcesN1A2iheDQpQPK0d6G8Jeb3/pJdc/0yNiQIvWnRwTLsYnC6z/kRd4E/NYGuKW7tY2HFkwA6ak98HGAEcL5uv/djjtwN3xK9TqNJS55P9W16gsg21b8wuY2MzilKmvZfTm5rrcQLMs/R8LzzLSti/qutpKN6OHxRW3GUfZIIb8JMWJrAwjA07oyrICMCdd7VW+Dlo4mkktJQMZVluj9fkcYx+qW7ymBjU7W9BwkNXujTnAw==;A9UfECz/EO8ywmnORc3QCw=="
+images:
+  - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Panasas-Joins-MLCommons-to-Advance-Machine-Learning-Storage-Innovation-01.jpg"
+    width: 700
+    height: 400
+    isCached: true
+
+related:
+  - title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
+    excerpt: "Panasas®, the data engine for innovation, today announced its collaboration with MLCommons ™, the consortium behind MLPerf™, to create industry-wide benchmarks for machine learning (ML) storage. Panasas will work with MLCommons to help steer these benchmarks by establishing best practices for measuring ML storage performance and ultimately helping to develop the next generation storage systems for AI/ML."
+    publishedDateTime: 2022-06-22T16:28:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 56
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Panasas has become an MLCommons collaborator to develop a machine learning storage benchmark"
+    excerpt: "HPC storage supplier Panasas is working with MLCommons on how best to measure machine learning (ML) storage performance, develop an ML storage benchmark, and help develop a next generation of storage systems for ML."
+    publishedDateTime: 2022-06-22T15:54:00Z
+    webUrl: "https://blocksandfiles.com/2022/06/22/panasas-has-become-an-mlcommons-collaborator-to-develop-a-machine-learning-storage-benchmark/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 43
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/06/Curtis-Anderson.jpg"
+        width: 950
+        height: 944
+        isCached: true
+
+secured: "Ajj2T+nkRbeSh4cyPt/qnsQRvk3BgSLUW4RFJhB7tWodGno/zGZFiXo+9M3mN/gd1BTdU58j5CTxC63Vi6Xtjg0LBgITM/5rG1XtlJIxwWFU70BAXcPwu0/zP/RYL6/ppk2x85Q3ifuYK7yKIUB8fABK+wbqNMW3J26GDaZL/fSK2HfZMYxKWoQBNxerWD6RaFAK6dl0AabLv6VvX+UEjL5fczWbu31x09FkLB9Bhc6DACC90znAuzR/fZPILXxAIa2mqVL8AVHoSubhlBB3bFL1xoUajcqSBmosTyh4Pa3FPCMaehV5+p1UxbwPHkIlYdTZSih1biUWle66pUuYSzzSkPPVkVNN6AyLTg6p2J4=;Tm0MQ6B5uaq09AJGF9zmOg=="
 ---
 

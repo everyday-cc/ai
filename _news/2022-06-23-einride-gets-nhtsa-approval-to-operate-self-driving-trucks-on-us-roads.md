@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T12:26:00Z
 originalUrl: "https://www.autonews.com/mobility-report/einride-gets-nhtsa-approval-operate-self-driving-trucks-us-roads"
 webUrl: "https://www.autonews.com/mobility-report/einride-gets-nhtsa-approval-operate-self-driving-trucks-us-roads"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Automotive News

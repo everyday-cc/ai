@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T12:55:00Z
 originalUrl: "https://mobileidworld.com/fido-publishes-new-ux-guidelines-security-keys-062302/"
 webUrl: "https://mobileidworld.com/fido-publishes-new-ux-guidelines-security-keys-062302/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Mobile ID News

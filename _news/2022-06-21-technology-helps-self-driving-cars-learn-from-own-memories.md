@@ -95,6 +95,15 @@ related:
       name: Azorobotics
       domain: azorobotics.com
     quality: 17
+  - title: "New Method Helps Self-Driving Cars Create ‘Memories’"
+    excerpt: "A team of researchers at Cornell University has developed a new method enabling autonomous vehicles to create “memories” of previous experiences, which can then be used in future navigation. This will be especially useful when these self-driving cars can’t rely on sensors in bad weather environments."
+    publishedDateTime: 2022-06-23T13:32:00Z
+    webUrl: "https://www.unite.ai/new-method-helps-self-driving-cars-create-memories/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 6
 
 secured: "/0aBwlucrzhCgCk91MzJhRNcLWnfEooWSiAZHHeBi9ZmMKr1PfgVBhQ2vjjfT4gJQtPfWYFfznfml0j+8fHhBgelmKquYPExY9904N7eVNrt6uiXNTyg6hzwpCqYas3rNNDCgfrs/MDY6bjYeEQ9ft6NZq+gDlPNgz6+02Ury1eCOT3zolyylyKYd3v+Of7ZsfgK00XyQ2pxp7JUUI6CGZhcnUo/l4uTB8irbvByrWAw/u5NTbB9zsiTcnOO9xugoGzJ+VyiMd5Cro9VFA+plrnrmTDUtjQUANGR6TX58zfdoO8H1dGGwICBuKNjo6yPgMS7adH2jTfO0A9IepAsgu0Kba341XL8MrxYaGe2VKQ=;/xeRf6ysJbP3HcLi+mVAZQ=="
 ---

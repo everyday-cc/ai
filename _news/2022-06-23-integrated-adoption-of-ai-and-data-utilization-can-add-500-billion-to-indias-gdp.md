@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI adoption to add $500 billion to India's GDP by 2025: Nasscom report"
-    excerpt: "BFSI, consumer packaged goods (CPG) and retail, healthcare, and industrials/automotive -- can contribute 60 per cent of the total $ 500 billion opportunity"
-    publishedDateTime: 2022-06-23T11:33:00Z
-    webUrl: "https://www.business-standard.com/article/economy-policy/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom-report-122062300493_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/economy-policy/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom-report-122062300493_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/economy-policy/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom-report-122062300493_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "AI adoption to add $500 billion to India's GDP by 2025: Nasscom"
     excerpt: "The AI adoption in four key sectors -- BFSI, consumer packaged goods (CPG) and retail, healthcare, and industrials/automotive -- can contribute 60% of the total $ 500 billion opportunity ..."
     publishedDateTime: 2022-06-23T11:10:00Z
@@ -74,6 +58,33 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "AI adoption to add $500 billion to GDP by 2025: Nasscom report"
+    excerpt: "AI adoption in Consumer Goods and Retail, BFSI, Energy & Industrials, and Healthcare can contribute 60 per cent of its potential to GDP by 2025, according to the AI Adoption Index"
+    publishedDateTime: 2022-06-23T13:34:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-adoption-to-add-500-billion-to-gdp-by-2025-nasscom-report/article65557176.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 17
+  - title: "AI adoption to add $500 billion to India’s GDP by 2025: Nasscom report"
+    excerpt: "The adoption of artificial intelligence (AI) and data utilisation strategy can add $500 billion to India's GDP by 2025, a new Nasscom  report showed."
+    publishedDateTime: 2022-06-23T12:32:00Z
+    webUrl: "https://www.voicendata.com/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom-report/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 17
+  - title: "AI adoption to add $500 bn to India's GDP by 2025: Nasscom"
+    excerpt: "The adoption of artificial intelligence (AI) and data utilisation strategy can add $500 billion to India's GDP by 2025, a new Nasscom report showed on Thursday. The AI adoption in four key sectors -- BFSI,"
+    publishedDateTime: 2022-06-23T12:53:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/ai-adoption-to-add--500-bn-to-india-s-gdp-by-2025--nasscom.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 17
 
 secured: "gq3pPmTNcG+UITlqqymx7a/1OTVVLGh0WBXDfZIaJcE3UQb5ka1epL9yT48NsnHQAmaA2KthH16a4QYMI52cu2eaO7aW9hFrNa6k5uUeZGlVN8tryXaCnnBcy9b2cya2skAv7bkzZsppQnsuoz7sjRk+OIz3jdssT5tV3ukFmWqKyO7vFqNPaoYCxW2/h2D6rJSMauh00AXPcVx+zS6gmo7QU7zYe+vmU2Bwb+XqlQ1/QL11vsvZOJpWa4sgwMBx0Z/zPwezQsaP/cqMQgIiliqTJ+O0rkoiS4FBHB3txH1fMFK3WBaZMtKyFYNWJJL6eSb8Y5TdGZsZ94TmLqVtPvwkTcb6QqMhfo3T46RdVJM=;7ncvaScja4lxHmlPS/q5WA=="
 ---

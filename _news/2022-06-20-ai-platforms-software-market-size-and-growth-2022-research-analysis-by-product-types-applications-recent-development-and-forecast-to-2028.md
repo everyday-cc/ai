@@ -32,9 +32,23 @@ related:
       domain: menafn.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?472144"
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?185264"
         width: 375
         height: 250
+        isCached: true
+  - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
+    excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
+    publishedDateTime: 2022-06-23T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Industrial Artificial Intelligence Market Report Future Prospects, Growth, Outlook and Forecast 2022-2028"
     excerpt: "The latest Industrial Artificial Intelligence Market Analysis is designed to help clients improve their market position, and in line with this, this report provides a detailed analysis of several leading Industrial Artificial Intelligence market Key Players including Intel Corporation,"

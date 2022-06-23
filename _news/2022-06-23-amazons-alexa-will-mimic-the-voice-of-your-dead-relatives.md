@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T13:45:00Z
 originalUrl: "https://www.telegraph.co.uk/business/2022/06/23/amazons-alexa-will-mimic-voice-dead-relatives/"
 webUrl: "https://www.telegraph.co.uk/business/2022/06/23/amazons-alexa-will-mimic-voice-dead-relatives/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Daily Telegraph

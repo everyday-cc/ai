@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
-    excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns"
-    publishedDateTime: 2022-06-22T12:34:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 109
-    images:
-      - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Microsoft to curtail some of its facial recognition capabilities in the name of 'Responsible AI'"
     excerpt: "Microsoft is limiting, and in some cases, dropping completely, some of its own facial-recognition technologies in order to meet its evolving ethical AI standards."
     publishedDateTime: 2022-06-21T16:58:00Z
@@ -148,6 +132,20 @@ related:
       - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-ai-features-have-been-criticized-as-potentially-biased-and-unreliable-less-than-p-greater-than.jpg?id=27994621&width=400&coordinates=54%2C0%2C54%2C0&height=711.4285714285714&quality=80"
         width: 400
         height: 225
+        isCached: true
+  - title: "Microsoft doesn't want AI recognizing your emotions anymore - mostly"
+    excerpt: "The Responsible AI Standard (opens in new tab) is Microsoft’s internal ruleset when it comes to building AI systems. The company wants AI to be a positive force in the world and"
+    publishedDateTime: 2022-06-23T15:46:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-doesnt-want-ai-recognizing-your-emotions-anymore-mostly"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kRuo7YkHKNPYGDwuLYL3C4-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft places limits on facial recognition"
     excerpt: "Microsoft restricts access to facial recognition tools and scraps the sale of some services as part of attempts to reduce AI risks."
@@ -294,6 +292,15 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
+    excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns"
+    publishedDateTime: 2022-06-22T11:31:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 67
   - title: "Microsoft curbs its facial recognition platforms in the name of privacy and security"
     excerpt: "Microsoft seemingly gave lip service to the notion of responsible and regulated facial recognition usage when it publicly pushed for a \"common"
     publishedDateTime: 2022-06-21T20:39:00Z

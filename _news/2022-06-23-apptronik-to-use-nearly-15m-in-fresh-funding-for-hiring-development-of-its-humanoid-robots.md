@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T11:18:00Z
 originalUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2022/06/23/humanoid-robots-startup-apptronik-raises-millions.html"
 webUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2022/06/23/humanoid-robots-startup-apptronik-raises-millions.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Business Journals

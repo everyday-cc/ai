@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: telecom.economictimes.indiatimes
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI adoption to add $500 billion to India's GDP by 2025: Nasscom report"
-    excerpt: "BFSI, consumer packaged goods (CPG) and retail, healthcare, and industrials/automotive -- can contribute 60 per cent of the total $ 500 billion opportunity"
-    publishedDateTime: 2022-06-23T11:33:00Z
-    webUrl: "https://www.business-standard.com/article/economy-policy/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom-report-122062300493_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/economy-policy/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom-report-122062300493_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/economy-policy/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom-report-122062300493_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Integrated adoption of AI and data utilization can add $500 billion to India’s GDP"
     excerpt: "The IT industry body has launched a new “AI Adoption Index” for India, which provides as assessment of AI adoption trends in four key sectors, banking and financial services, consumer products and retail,"
     publishedDateTime: 2022-06-23T11:55:00Z
@@ -74,6 +58,33 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "AI adoption to add $500 billion to GDP by 2025: Nasscom report"
+    excerpt: "AI adoption in Consumer Goods and Retail, BFSI, Energy & Industrials, and Healthcare can contribute 60 per cent of its potential to GDP by 2025, according to the AI Adoption Index"
+    publishedDateTime: 2022-06-23T13:34:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-adoption-to-add-500-billion-to-gdp-by-2025-nasscom-report/article65557176.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 17
+  - title: "AI adoption to add $500 billion to India’s GDP by 2025: Nasscom report"
+    excerpt: "The adoption of artificial intelligence (AI) and data utilisation strategy can add $500 billion to India's GDP by 2025, a new Nasscom  report showed."
+    publishedDateTime: 2022-06-23T12:32:00Z
+    webUrl: "https://www.voicendata.com/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom-report/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 17
+  - title: "AI adoption to add $500 bn to India's GDP by 2025: Nasscom"
+    excerpt: "The adoption of artificial intelligence (AI) and data utilisation strategy can add $500 billion to India's GDP by 2025, a new Nasscom report showed on Thursday. The AI adoption in four key sectors -- BFSI,"
+    publishedDateTime: 2022-06-23T12:53:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/ai-adoption-to-add--500-bn-to-india-s-gdp-by-2025--nasscom.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 17
 
 secured: "20SLLHAdTToL/rFs50oRmo4bxf08pWzQHusR0ctTrjP3ZmnaC8B35IlGf2/baM3jd+5S1soAdqEnp47qfY11nxxAssEY9v9cycdxR0HgP40eAplvHWX2cLonYe5OLhefQnyA+mTH8XdfEQneKgooGxMvsPoPpA6E+Ij9+rBBaecmWFomKTApkycbseb9wZlvFOXVpXgmc+ISQDbhg49kSN+WK2UvlOqzlIuyC3Dw63RN+rX+ltsgCdslFA2Az3RAjY393Fij4Xzonovz++Z31gKoSM7XLMy6b+YXjRhLDf28ncHfINF3yIAFhX0XbshmCSvkGOkjC6mL1w+GQZZnArtAy3/jyg/wKuV951JUMSg=;eqnV6SU3qBcT3X955YYSIQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 867
         height: 577
         isCached: true
+  - title: "How Big Data and AI Are Changing the Financial Industry"
+    excerpt: "T he financial industry has never been short of data, but until recently, the bulk of it has been too complex to do anything meaningful with. A little something called AI is gradu"
+    publishedDateTime: 2022-06-23T13:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-big-data-and-ai-are-changing-the-financial-industry"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "r6XWr/1Zd0uig7tcc2pRqvbbabnZZKknbZrEY2urWCAvRdvx96LtyZO/JLzXT+ZQ0sWmoW/Oj4aVMC3ag4ZpVZrxk/gbcWpjy8ZZNywEArgcHV8LE9LE72x7Fs2jAlpYEHKnXg9eFJ0FoyyQYv6k7o5zccIHWs5Zh5W/AYOVRcB4ixoUvmp5GDNY++dlMHDDxeem2fq7JJvWeNSGrxKSrdb3qPC4r0y9uF1A0rgATqW05ZGLOEuWvlstqNWhdpvqaXySauHxxoNWBZH0LUFRUk3f4FzElGSKCwIA1OYEZI5s5mTSmBypP0ZdJq0wklQkH6rIkqIfhEX/s6nyhXIXcKgd+pS7cWqoMf/f2tHQVIL6/sR0BegrTbt/wjJNGP45f120TGmi3zg6sUUYlJSL2qFkFigXJSwy5Z8rRCwdgJUMUCzx0pRlLTu34pxWvfAFuJ97Q97TogDMzx3ttpC5estEod0CSdTtcmJOp6D6TV2QSTTjRODft7Ge0Ykso/oBjZwFEV1JICPNp8pbEKNM/g==;PyAIjW3U4Kgy6fE1lJzMhg=="
 ---

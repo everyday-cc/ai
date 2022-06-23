@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/23/ai-wont-replace-marketers-it-will-make-them-more-valuable/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/23/ai-wont-replace-marketers-it-will-make-them-more-valuable/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

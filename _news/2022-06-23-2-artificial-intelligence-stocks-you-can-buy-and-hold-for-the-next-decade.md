@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T13:28:00Z
 originalUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade-2"
 webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade-2"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Nasdaq
