@@ -40,6 +40,17 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Instagram Rolls Out Face Recognition for Teen Age Verification"
+    excerpt: "Besides providing Instagram with an ID, young people will have the novel option to upload a video selfie and have it vetted by an AI specialized in facial age estimation from Yoti, a UK-based ..."
+    publishedDateTime: 2022-06-23T21:19:00Z
+    webUrl: "https://gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628"
+    ampWebUrl: "https://gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
   - title: "Instagram can now verify your age with your face with new AI technology"
     excerpt: "Instagram is using AI technology from a third-party company, Yoti, to scan video selfies to estimate the ages of users."
     publishedDateTime: 2022-06-23T15:55:00Z
@@ -54,21 +65,35 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-    publishedDateTime: 2022-06-23T17:44:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+  - title: "Instagram tests using artificial intelligence, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+    publishedDateTime: 2022-06-23T20:24:00Z
+    webUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/"
+    ampWebUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 55
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_40267c0d07df4ef99bac109894984999_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
+        width: 760
+        height: 507
+        isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its But the tools won't be used, at least not yet, to block children from the popular photo and video-sharing app. The current test only involves verifying that a user is 18 or older."
+    publishedDateTime: 2022-06-23T20:16:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Instagram-tests-using-AI-other-tools-for-age-17261098.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/26/24/62/22629516/3/rawImage.jpg"
+        width: 915
+        height: 610
         isCached: true
 
 secured: "8/6jsSr+robldqxd/LokNv6iHP8G7S3CuDKQxRRGbCXvav3foeLZri7/vT9/ox5kldCg67jZVEp7n6qw/Wy6z5EUyD7LQsfoVRE8xT/yVkzr6u7hl/siTtlaFllq4Ul2uxxV9m0pESvcGB0ZgHMeTfZOdz/2WUkvCrxJjzv+cojIETLC4sqbuVfFV7ENKzFaiG9PBNGJkpTYNCgo7a/3GPvv5htCw2dmPvdXANT4YZuffVZ9pR3CGSMX7QHCPLtXcwiZ45tm6QF6BYHtRkdvET0M217JeeutvrLKHXWW1mP2yuoBiTFo066KnqaLSPYlHfqhbhENV4uXTLP3wmomgdHTV0z3SJSX4JevFQX3sHg=;q2WSfdCtYEDyCdSYjpj6Cw=="

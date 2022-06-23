@@ -3,22 +3,20 @@ category: news
 title: "Can we make artificial intelligence less racist?"
 excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
 publishedDateTime: 2022-06-22T18:51:00Z
-originalUrl: "https://www.thestar.com/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
-webUrl: "https://www.thestar.com/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
+originalUrl: "https://www.thepeterboroughexaminer.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
+webUrl: "https://www.thepeterboroughexaminer.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
 type: article
-quality: 23
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com
+  name: Peterborough Examiner
+  domain: thepeterboroughexaminer.com
 
 topics:
-  - AI in Healthcare
-  - AI
-  - Computer Vision
   - AI in Autos
+  - AI
 
 related:
   - title: "Robots found to turn racist and sexist with flawed AI"
@@ -107,6 +105,6 @@ related:
       domain: nextgov.com
     quality: 19
 
-secured: "4084X0QvLsjyqHTj8udoVavrTwv+cYI36aezX5cHGfmO3026wAIRSalkcv8HNq+51qrGK1en5PrxOQpkWSsKou3RA51F7jq1Kbc07wiq1DGDOVVHvn4wZ3bW2b41QjQoF0g/f7t3gMzLPoyUsBEeoc0k9kDr2Ny9HZIXen6NHd5eDQkuuOzsBrOvE3iZHoJsIaqh/vsSW3QYg3RTa9QG/mFxeG+/BuN64kV+PU2BHbZvevjdEuj8uARl8l/Wbtc3VgsjK/K9vZoH93v6uLr8ef5XakOKf4frgJVvEI4owxKj8hfIvxtaaI17WJSTIrW1jjUnvZoIHLDwnQ/3UJEtNu7S8QRc6v5wX2bff6MA+rw=;yy4Wv26ERplhTd6Ukb+6KA=="
+secured: "GCmKcGHWBL4lSbf9+qgzP+ESQ8Q7tM5uPnl4+ouATWqDpJc72k6hWVW9xNn25DAScdSSICcvoDiNaYTfiAOYNrbiJgGx94mqbdDQ+51AE1TBx5mjXDTLn8G+mX9K5swNpOEqit8nZCTfN4/NMT2/D1BQIo31OccwJnkHJ19ENIqDZRQmtX/3/UpG/VRFKXUpkdArhRK9g//RozI7b+2zuUTLVaGYNsnyne1aUXH+kN7hrjaMRrx0X5n0XfbXetXhUhGXg9ZG+foSrLTw06xhf0uAZ6HGN443JShiUHfoI+3ygyHhpBVoPs+x4hdb1DrdTlDj+2QsWZnEJC8+dueWAsxiQA7ZJOkj6129g7nUqj4=;e8vap41bSSi0RmpkYVrq0Q=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
 cdnAmpWebUrl: "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: WGHP
@@ -40,6 +40,15 @@ related:
         width: 1128
         height: 700
         isCached: true
+  - title: "How a tech startup is using AI to find better treatments for autism"
+    excerpt: "SpectrumAi, founded by a mother of four children with autism, aims to use technology to improve therapies for children with the neurological disorder."
+    publishedDateTime: 2022-06-20T10:00:00Z
+    webUrl: "https://www.fastcompany.com/90759804/spectrumai-startup-treatment-autism"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "G9MLZwvHvZXM7klk8vK0JwcMg8Cw2S08v9gPfTz9Y1JM867XT8YgcHF11EXvO12oGkyGJ11Hip/8PZc9+MoQlcJ/BScI2MKryHbeOhO542C2fWbL4JUByEaws1ZicmacCcwRAESsOzU+Nn6R/PXDvw7GDGqBPXew9iiCh9dc8J46a9o4iunxyv8VLQMBG/4ojtO87M/YvM3A6odR9DY7EoKdBQBGVnq6YjUxgsSws8B9Mt9qRRIG+3JgsFzA2FZZz+z0807UCKyD8lsTO1FOFk73N5YBFB8mGvJMWk8VsxjUtmJmm9O9z3jy6ahc5Ml+Pjdj71uDhreHWyn81tDSpiIeVIlJ02gj05b6gqW9h8w=;r70jAO380T+mP55bll1kBg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
 type: article
 quality: 116
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Pentagon Unveils Plan to Make 'Responsible Military AI' More Than Just a Buzzword"
+    excerpt: "The Pentagon’s marching forward with AI weapons of war… responsibly. This week, the Department of Defense released a lengthy 47-page document outlining the military’s plan to implement its ..."
+    publishedDateTime: 2022-06-23T19:41:00Z
+    webUrl: "https://gizmodo.com/pentagon-unveils-plan-to-make-responsible-ethical-milit-1849100945"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 44
 
 secured: "5JkTyReY9wvivcERhhfPvY1x4+rXp1ejLum6xoz6TFuc3vreMn35Ih6Lc+k3D0LVXY1Lp1lruISA7eXZtWwjpZKHWy9zgKOK6Zr7A+0+h/QnygRJVq2ys43JV92p/X9wVAOLil1ueCLbAydWPf2xr+rOBHNcsGjEjD0tpMmsbXj26skNAntMke7DJRUXee4Fo+lgCuBKNOhpNQ7OLusgZCHiaY5DczRNfJ0E8CiOBgFwfZzl4gphvkuEVcNXogSB1XLl69fJMvXiKqlhNDSUIIn4H063KjhST0D0LK6pr09/jpKpw4xSrNrzWfmC8TvB0LuExPRtxwRUbk/qUrFD6/DAhxYkY0rk7SCb0gbD4tG2a7TsYFWUvMMFxrn3JAOHoiUGiCkMs4homdmiJZ5RMro8hwACyspeg0Q4weYf/ZPCa5TMdZWFNSoPaQszozWB/WKzU1Tu5/FMqWDegAIQ/OCjdzu52be49kYDkc/bhXt43RptO5eAeoIpvvYrKvgs/xaNJc3AkjK2vDP089v73A==;RMdgpTBT8oHQNurfWJYS+Q=="
 ---

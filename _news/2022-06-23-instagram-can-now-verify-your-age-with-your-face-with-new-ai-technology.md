@@ -44,21 +44,32 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-    publishedDateTime: 2022-06-23T17:44:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+  - title: "Instagram Rolls Out Face Recognition for Teen Age Verification"
+    excerpt: "Besides providing Instagram with an ID, young people will have the novel option to upload a video selfie and have it vetted by an AI specialized in facial age estimation from Yoti, a UK-based ..."
+    publishedDateTime: 2022-06-23T21:19:00Z
+    webUrl: "https://gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628"
+    ampWebUrl: "https://gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628/amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+  - title: "Instagram tests using artificial intelligence, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+    publishedDateTime: 2022-06-23T20:24:00Z
+    webUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/"
+    ampWebUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 55
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_40267c0d07df4ef99bac109894984999_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "Instagram trials AI tool to verify age of users"
     excerpt: "SAN FRANCISCO - Photo-sharing platform Instagram said it was starting to trial a tool that relies on artificial intelligence (AI) to confirm the age of users in the United States. Lawmakers across the world have been vocal in demanding that the social ..."
@@ -73,6 +84,20 @@ related:
       - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-06/doc-32D33NQ-%40photo0.jpg?h=4bf1c8f5&itok=U32GY5Dv"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its But the tools won't be used, at least not yet, to block children from the popular photo and video-sharing app. The current test only involves verifying that a user is 18 or older."
+    publishedDateTime: 2022-06-23T20:16:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Instagram-tests-using-AI-other-tools-for-age-17261098.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/26/24/62/22629516/3/rawImage.jpg"
+        width: 915
+        height: 610
         isCached: true
 
 secured: "u9H1LPgOa5oOxoKvOg4JD9TJqF0NM968eep74umOmtbzhbzriBaloHjDGEDEdWXysZ2UwxBHygwjypqh5yBxyHQf+O8da4yv4sqOMHl5K00UmoZB9vLl0oTcrwOl+92MZzih5X0zG7leCNkZ9M9NtoDCFQ+oZhARy1ami96PmUWIupf8gz3feJl1eGkMWkj9J4IEncWQfgs//TzctYHsItPH24CRK/i/GWcWXZVwcnSnf1Mvoi03NKjWF6+O/VnJR80v8nj8XDy0ahi8HCatiZstLYePrvxu0JI2N2cjCFr10ISCKiy9NEsy1Gi88DuE+CDt3b0CEbYojESgbijbTngrEBl/5mDaT5lSAguQIE58wNjg9ldbY/w1g2URm5rEMdESHmWpqZMPVJoCMV0Mwy5Bn3ud27mX1ASoXNM7eUN76z8yLo8bRZVH3RH9MLO3x4VQuHUJPMJWmRaO4V3gwbXhj+k816DlNN157A6MyqhLDf41y/jpdtOmzuHpSSLaOdutfhopBXZ0z7W8W9XpEA==;7W+JqS/Dz/rUD04JrbfViw=="

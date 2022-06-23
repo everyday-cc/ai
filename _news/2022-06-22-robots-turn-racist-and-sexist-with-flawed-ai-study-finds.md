@@ -90,15 +90,6 @@ related:
         width: 620
         height: 443
         isCached: true
-  - title: "Can we make artificial intelligence less racist?"
-    excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
-    publishedDateTime: 2022-06-22T18:51:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 23
   - title: "Internet Data Produces a Racist, Sexist Robot"
     excerpt: "Artificial Intelligence Workforce A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples’ jobs after a glance at ..."
     publishedDateTime: 2022-06-22T12:57:00Z
@@ -107,6 +98,15 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
+    quality: 19
+  - title: "Can we make artificial intelligence less racist?"
+    excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
+    publishedDateTime: 2022-06-22T18:51:00Z
+    webUrl: "https://www.thepeterboroughexaminer.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
+    type: article
+    provider:
+      name: Peterborough Examiner
+      domain: thepeterboroughexaminer.com
     quality: 19
 
 secured: "bWSw1wsGq1y6CQRvzo8xckAPSBEViDL+C/VeP8y35r1fiMMnm3TDHSj/yX5KpQfbYVpyuJR12Ep46/fsUQX4s9b9lQ1aNhSt7XP8DT7Gkaun5KTA5e22E0NeQD/t/q3k3IQNlYbcqV9R8jF/D+LkRBTRiVI39i/IdAqNN/nxVMm+K8BgIPqWrQfEyj6zbp/0CcUsRQCXFGyhnFgHOI36saqvTa3Kq0RA3d7T/dZ0sfOesz5gyB9TrHQY5J4yUrgP3GrSdMFpY/6IgLYfHAX5RBg9sqnhlMayxIqteSt+MhUkAWBMuxN4xoXKfYhTK3EuDFxqivJ2zNpUOByo3NT1Tcrr576nU4PRBxuZkYa/pkA=;utfBfgw4NLot0rOV6RMP8w=="

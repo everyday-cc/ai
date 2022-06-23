@@ -47,6 +47,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
+    excerpt: "To learn more about IBM Watson Advertising solutions and services ... About IBM IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 ..."
+    publishedDateTime: 2022-06-23T18:35:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262713&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "RyBCEIs3dxTK0SzwhI6hCyBv1lnSpr5v5GAsLwyM5atpHsRCEcnEUoLfO68E1+I/7EAMqRyH/1p8UwcApXyMTi0QfsuaNTrwv/fDah+1jlRkj6qygSC7Z8pcxNvOQFpD5Oo+Y904y+adoLt4Lu4kOMDYWeCup0BbLwa8lVqjelR9FlzpbiE0vOdBh5b0QVS9yioFkl8lx2Hk/s4XFyriXce4Of9kTTn+QYKlRCuXgcGhu5RacdQHORiKf8JY+u6y/cCAO2l0kj6TH5VGJEDXtJG5BUtUMpi+hdbQCwXi6BzX6cnDDnoymxrYNuZUxEjFZfbr1oFQecSmjH+dRJ5ebCYJ1CK+cbz1ExiCGSPfL6COGRK3dZ71XXwV2J9paq9EQpWy56pc5UgKI8OFePjf1lpcAo3Ilqs0hiXIs1lZOIGtoxcXI2lFRq+TuAbaV07PdMaWe9/3oNG/UoNZcYgPcPFXmDfIlXQqcmpb8ZwcMmgFr3anCB/9EZM3zylB7AaM4unjtibdGVoh+2dbBfUPAQ==;T8eEgXlYQoGGAVCgDt2ubg=="
 ---

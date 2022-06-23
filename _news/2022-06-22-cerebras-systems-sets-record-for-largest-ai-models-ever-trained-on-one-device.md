@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/06/22/cerebras-systems-sets-record-fo
 webUrl: "https://venturebeat.com/2022/06/22/cerebras-systems-sets-record-for-largest-ai-models-ever-trained-on-one-device/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Cerebras just built a big chip that could democratize AI"
+    excerpt: "Chip startup Cerebras has developed a foot-wide piece of silicon, compared to average chips measured in millimeters, that makes training AI cheap and easy."
+    publishedDateTime: 2022-06-23T00:17:00Z
+    webUrl: "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine"
+    ampWebUrl: "https://www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 74
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-at-the-core-of-cerebras-pitch-is-a-chip-that-is-roughly-the-size-of-a-dinner-plate-less-than-p-greater-than.jpg?id=27946326&width=400&coordinates=0%2C135%2C0%2C136&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Cerebras Claims Record for Largest AI Models Trained on a Single Device"
     excerpt: "AI computing company Cerebras Systems today announced that  a single Cerebras CS-2 system is able to train models with up to 20 billion parameters on – something not possible on any other single device,"
     publishedDateTime: 2022-06-22T15:48:00Z

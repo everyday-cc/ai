@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T19:30:00Z
 originalUrl: "https://venturebeat.com/2022/06/23/why-the-onlyfans-leaders-are-moving-into-web3-avatars-with-nft-startup-zoop/"
 webUrl: "https://venturebeat.com/2022/06/23/why-the-onlyfans-leaders-are-moving-into-web3-avatars-with-nft-startup-zoop/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: VentureBeat

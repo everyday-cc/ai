@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T19:44:00Z
 originalUrl: "https://www.cio.com/article/401881/healthcare-ai-in-a-year-3-trends-to-watch.html"
 webUrl: "https://www.cio.com/article/401881/healthcare-ai-in-a-year-3-trends-to-watch.html"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: CIO

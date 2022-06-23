@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Calls for privacy law reform after Bunnings facial recognition scandal"
-    excerpt: "Biometric surveillance inside shops often falls foul of Australia’s Privacy Act, but retailers don’t care because the fines are so small, privacy experts warn."
-    publishedDateTime: 2022-06-20T05:56:00Z
-    webUrl: "https://www.afr.com/technology/calls-for-privacy-law-reform-after-bunnings-facial-recognition-scandal-20220617-p5aume"
+  - title: "School security summit pushes object and facial recognition tech, leans on humans"
+    excerpt: "The discussion, billed as a school safety emergency summit and sponsored by AI vision vendor Oosto, was subdued with moments of stridency."
+    publishedDateTime: 2022-06-23T20:45:00Z
+    webUrl: "https://www.biometricupdate.com/202206/school-security-summit-pushes-object-and-facial-recognition-tech-leans-on-humans"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.2424%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_283/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/9946a25ae1764464d5f2de96a20cdb54294d457e"
-        width: 1200
-        height: 628
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/23163748/school-scaled.jpg"
+        width: 2048
+        height: 1378
         isCached: true
 
 secured: "N/NmGhlL1P1D2SU0CTi/yH+M/fFnPMTT7kXHwkvfujhMwk27mgzI4rOIjuHhJggSKejs5iQjzSevMdQMW4nVw0HiINmo7ejmeRAPxC4fFYQrOimRwfV+mM2OHfAbH136OiJ4wGt8clzI0szByoq0MOptvBJlQLZmiyN7xAnqRjxCT/h9NHLEPRyyMOLMCiWtK4k2MoE98t0KmnK1tyeFCczaI5CG7gtHXJ/z3oka1jz61uKWI90H6kVB8/zyZWe65ISmXNPRd8oHBMSLanIuUA5oW0ekC9aVDXAipNPgNky3nzv18e2tDwK8nb4FFB3dMVUmN9vbExSWVJ5wDQfC/qHuj2+nF48/Iv1POjS6gVQ=;HguHPuZjAvXJ9aK711sO7g=="

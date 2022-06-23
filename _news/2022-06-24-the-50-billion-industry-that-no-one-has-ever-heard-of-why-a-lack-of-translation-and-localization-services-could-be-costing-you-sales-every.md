@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T17:58:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27833044/the-50-billion-industry-that-no-one-has-ever-heard-of-why-a-lack-of-translation-and-localization-s"
 webUrl: "https://www.benzinga.com/pressreleases/22/06/g27833044/the-50-billion-industry-that-no-one-has-ever-heard-of-why-a-lack-of-translation-and-localization-s"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

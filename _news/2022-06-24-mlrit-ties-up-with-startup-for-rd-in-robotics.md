@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T18:01:00Z
 originalUrl: "https://telanganatoday.com/mlrit-ties-up-with-startup-for-rd-in-robotics"
 webUrl: "https://telanganatoday.com/mlrit-ties-up-with-startup-for-rd-in-robotics"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Telangana Today

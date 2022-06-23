@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "AI Weekly: Microsoft’s new moves in responsible AI"
+    excerpt: "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ..."
+    publishedDateTime: 2022-06-23T16:31:00Z
+    webUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft’s framework for building AI systems responsibly"
     excerpt: "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.\n"
     publishedDateTime: 2022-06-21T17:50:03Z
@@ -86,22 +102,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/22/16d1fc06-ff1a-4d91-a4c5-f1d114de2f08_11e4956d.jpg?itok=D-q1jv85&v=1655864958"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI Weekly: Microsoft’s new moves in responsible AI"
-    excerpt: "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ..."
-    publishedDateTime: 2022-06-23T16:31:00Z
-    webUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
         isCached: true
   - title: "How Microsoft's AI spots ransomware attacks before they even get started"
     excerpt: "According to Microsoft's 365 Defender Research Team, human-operated ransomware campaigns are complex and multi-faceted, which can make early detection very difficult to achieve  e"
@@ -402,6 +402,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft Phases Out AI Facial Recognition Tool That Identifies Emotion"
+    excerpt: "Microsoft Corp. on Tuesday announced that it is planning to phase out its so-called artificial intelligence-based “emotion recognition” tool from its"
+    publishedDateTime: 2022-06-22T09:54:00Z
+    webUrl: "https://www.techworm.net/2022/06/microsoft-ai-facial-recognition-tool-emotion.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 53
   - title: "Microsoft plans to eliminate face analysis tools in push for ‘responsible AI’"
     excerpt: "Microsoft will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool."
     publishedDateTime: 2022-06-21T20:33:00Z

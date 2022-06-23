@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/ais-
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2019/03/Artificial-Intelligence.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AI’s Hold Over Humans Is Starting to Get Stronger"
-    excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern."
-    publishedDateTime: 2022-06-19T03:30:00Z
-    webUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/19/d09497a2-efaa-11ec-ac16-8fbf7194cd78_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ADPJCHPVII6ZLAWR67XDFGNPA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Opinion: AI's hold over humans is starting to get stronger"
     excerpt: "Ilya Sutskever, the chief scientist of research giant OpenAI ... Last month, Mark Zuckerberg said that Facebook would use more AI recommendations for people's newsfeeds, instead of showing content based on what friends and family were looking at."

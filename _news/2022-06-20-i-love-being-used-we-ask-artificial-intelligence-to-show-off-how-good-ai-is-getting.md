@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-20T02:36:00Z
 originalUrl: "https://www.crikey.com.au/2022/06/20/we-ask-artificial-intelligence-show-off-ai/"
 webUrl: "https://www.crikey.com.au/2022/06/20/we-ask-artificial-intelligence-show-off-ai/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Crikey

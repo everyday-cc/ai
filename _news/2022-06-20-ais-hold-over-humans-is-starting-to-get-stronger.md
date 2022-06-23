@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "AI’s Hold Over Humans Is Starting to Get Stronger"
-    excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern."
-    publishedDateTime: 2022-06-19T03:30:00Z
-    webUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/19/d09497a2-efaa-11ec-ac16-8fbf7194cd78_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ADPJCHPVII6ZLAWR67XDFGNPA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Opinion: AI's hold over humans is starting to get stronger"
     excerpt: "Ilya Sutskever, the chief scientist of research giant OpenAI ... Last month, Mark Zuckerberg said that Facebook would use more AI recommendations for people's newsfeeds, instead of showing content based on what friends and family were looking at."
     publishedDateTime: 2022-06-20T18:06:00Z

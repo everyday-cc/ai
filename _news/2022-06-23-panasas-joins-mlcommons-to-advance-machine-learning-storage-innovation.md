@@ -1,20 +1,62 @@
 ---
 category: news
 title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
-excerpt: "Panasas announced its collaboration with MLCommons™, to create industry-wide benchmarks for machine learning (ML) storage."
-publishedDateTime: 2022-06-23T09:22:00Z
-originalUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
-webUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+excerpt: "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS"
+publishedDateTime: 2022-06-22T18:44:00Z
+originalUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+webUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+ampWebUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
 type: article
+quality: 76
+heat: 96
+published: true
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "MRFAJFoKffo9e6KbPjqk9G5eDjToNbcq6507DOa7eSa1W/uR9Iv4nKjhWE55MPlFDY4/Zo0iQtFTFGxtH6Ik2usL6qgqYz+RbAS+7QXYp/Ma6h41X2KoqdhHEaefhJKxrTzp7FliPtTYx0OAKXXs0mMGj4q34lKtGw02O6tNYznJzew68Hh9A6SyuxN1wy1lC1joaS3oRZLiZKaRksB/B+MYAgRNsJm2ocscKkAmXu+X509B9Wp7y/5T39YxkyjR6NGDxc5m9vFe93MwpRl2EMG5MLBzpxZbmMR/L93s6WlVgBfmQBZVdeiu3qyN35h7Pvwh0mdLS+1GkOuSKER9sX+jbGmL3PKFvcm/5RbZShdbbHrZSU4L5VqniAPN3a5IbDDnjGBkin8ozJJnDm/bD7PPGPP99UpDY0narCfLFISP3jEPEKuNwHbxYcyTD89IGGuj3Fb+sX1gKHnriNswWjIFe+sMh3Z2E7bGaREWGd6DYLv+upTihjOhV1yowXmd9Ja3AmNalpLZnQkjl+8p3A==;iiUa/TW13KaXuWZPsCzoYw=="
+images:
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
+
+related:
+  - title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
+    excerpt: "Panasas®, the data engine for innovation, today announced its collaboration with MLCommons ™, the consortium behind MLPerf™, to create industry-wide benchmarks for machine learning (ML) storage. Panasas will work with MLCommons to help steer these benchmarks by establishing best practices for measuring ML storage performance and ultimately helping to develop the next generation storage systems for AI/ML."
+    publishedDateTime: 2022-06-22T16:28:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 56
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Panasas has become an MLCommons collaborator to develop a machine learning storage benchmark"
+    excerpt: "HPC storage supplier Panasas is working with MLCommons on how best to measure machine learning (ML) storage performance, develop an ML storage benchmark, and help develop a next generation of storage systems for ML."
+    publishedDateTime: 2022-06-22T15:54:00Z
+    webUrl: "https://blocksandfiles.com/2022/06/22/panasas-has-become-an-mlcommons-collaborator-to-develop-a-machine-learning-storage-benchmark/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 43
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/06/Curtis-Anderson.jpg"
+        width: 950
+        height: 944
+        isCached: true
+
+secured: "qX81Dc4FcHkmHO5PGqbgR503Hkwov/EarvrqotPkeJpuON5mFTZR7PTpH5QBm0Orz2ba71BslnnDWIMpHS2HsUrfrBP018lTgZcw+MaXMToNSPkecqcZl6aeLISueYjAaC1KnPYMbm9aLHGwmI7c1B8HbJzu1ky0JnAw4MsI9GEutWkFhpb1sQeHdow9myunQdkJidno7W6DQJocX45ulN/U5icV8wTzM8zfgdDAaWGfcrsy44D4/d2qVjsVuOjz7J4sD0ugtFMHbXkmH5c+PNdym42NjfsNSMQotqFy5ENisM6uTN+B2yuI/u89AMlIPXRxM1zfg3GSaX3xk6XOC4FnQVpkiYSj/eiaHua6Jng=;YY5zjweL6FTXnkkKf+zJ0A=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Study: Unnoticed eye movements can be key for better self-driving cars"
+    excerpt: "These findings can be transferred to machine vision, for example, to make it easier for self-driving cars to learn important features on the road. Despite constant head and eye movements ..."
+    publishedDateTime: 2022-06-23T18:31:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/news/study-unnoticed-eye-movements-can-be-key-for-better-self-driving-cars/videoshow/92420750.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
+
 secured: "0dUUvWtQ4ayLYesL+D1x5PPdWUf6YB+Mvo5G0ihnOycxGXJoCs1TwuvrlDXe/Oakii2CCLB6asB8sh565qNBM2gXIDquCCKqT0Gd3kPK0GB25W4OKsBNUGl0S7Yu3M1QjY5ITZ2P9Q8Ob/tUv9HtvPhfEpxJybHzxX6Aa0wiLqR81ovexPqw0b5FOzU9zfQ7Q+j9aodIrWMb3wkTKmTGwMpxIUsEUeJuoOt/MaW/Jezs5RETDSDX0TIL+C99e1EedvXXKhmkDfC5aUeGRxGXb+XUib9q3AqRpGI8gBUm8Jf+RHP0lS8erPsDSqFkdxFVcDwGtXJi3un0eTv7dIZtAXD54k2JGoo8Va+LHYV95dGql4QUvZlgt58jMCtVNo8BNRwjl4kApcQQ93prKp5ACUCMnfpD6jueTuV1z4qxVXd5pAaKRSfB6IIUPBNXNTRw6veZS6wjMLFtELbwTxmUm8z0tX1TqSbdEHJVBtqU1kR8r2VNB+jCG0UBlSJHvhfHJU0JBwouR2MM0QJAXA+FfQ==;9wE+ellvEu0rU3upCULdAg=="
 ---
 

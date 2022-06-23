@@ -98,12 +98,12 @@ related:
   - title: "Can we make artificial intelligence less racist?"
     excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
     publishedDateTime: 2022-06-22T18:51:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
+    webUrl: "https://www.thepeterboroughexaminer.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 23
+      name: Peterborough Examiner
+      domain: thepeterboroughexaminer.com
+    quality: 19
 
 secured: "mSEBptl3B3GffmPg3tsHMBpvrTdxOxZkH2ixbKj2h4CRMYalvhLYQAPWtTEMyn+40QQ9gcHaBc6XswUL9HfJBFQyXgaV4Bk97Ffprd7GE8MIFZkQeGOodqZ8B3KXEuPrAlY4hVFV2Snlsv6Kss4Ze1IHKOSxlR5Q3CezChepcOs4075cvaUmhiSef1uB5T3JhiJsXwyfKwPaf2FLFFLX1NvFz2pX3jQVwE/sAzY71GhZ2Oaefro8hCKOpZCQ5ba36y+QaLPFWgRAD90dKUOjrRSDLy/sNZ9T38KqlYmltm+1WPHDJNWVicO43lckjx+hYsILUkeFi7jrVbB76VRyQzvXpNzXzTjJs1rvNd37wtUIL4q7chlmcXbKNqv3z59+quCCbrvSGcK9963x9u79k2Mih5a+HHxwP82rhX1byhtPTJVc5gGmtBZ/GP4DvIY8anbGKMQFmUuqADxefkTy6EbJskcheufG2LiIIcbAkyz+K2DQVJrxGEcbW/flR7T3BQt8Ai8+Mm9kwRCZTJ7k+g==;1BFGNOmeuLMDQqnH5esyGw=="
 ---

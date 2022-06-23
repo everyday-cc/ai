@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T13:00:00Z
 originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Connecticut Post
@@ -15,6 +18,28 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "E/OG/1p9qrKNVNJBsO1A/Y/EFX3P9ceuPEWqwKFdOMsCoa8piUmgt5TsL1sjRVt3e18x1KKRnH+sWQjjVvq67HoyoE1gBKrwHqpkp/fjc9eQ9ir6uMQvWC45wdPvXYJljNg+JfJNkwShI7DYLl/utbubvupfgUH9pgNc2bkHoq20OuKAN/17l5qayjrkcaGJCo1WhjpFsZIq7+ARlsIfN6Mt3mBjoZYCz4J6hjHX0qT2tBd2C1T/osvHXmGPM0I40SfBoxdSP8fSvFqxVWWKPiIbg2Oe5aDHG5UVbmjWl2A/UXoKG2zEQMnizc+UzzgRbST8IzUNp5Ly4o3qIqFA7srGIVqWNZwGacmejIe6eYBwWqFZfnOe1bhsimjQWXITfSHVarWeW/vDlwBjBbKp9Sk/L0ecpgZXGWlizAkfywSYWiD6bi+ROxH44NNVVaLTf15Br0tPwNUCNT8cM42CZ0y1yUmkSxRdtORKsx+liEB6kx27NPDZhukU96SJRfA0eeCAoaRq+xopWLpr2EXeMQ==;kSHJq3wQXwarKP6cBh+ldw=="
+images:
+  - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
+    width: 1800
+    height: 1203
+    isCached: true
+
+related:
+  - title: "A celebrated AI has learned a new trick: How to do chemistry"
+    excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
+    publishedDateTime: 2022-06-20T20:31:00Z
+    webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 37
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/pipette-lab.jpg"
+        width: 1200
+        height: 810
+        isCached: true
+
+secured: "YUt5N5sHeY0TK06eY7YAnykd/tqBYXUN2+9KfH8MF0R4TXFWF36WDyTJPyf3vAm9a0NVSYQHifw4HzM26+nK9PBnX3DD7Jmb+KU+FwIJXPRD/FN8ixPV4TKhQYefQMU2J5rif61kzcekX3wg0gSkrs7j/QY9ASmieDCQtr/QoHV7AduH3+cTFu+RU/etK3oNM7iGsT9RX0uFzC+WIrAn+sDKJJPi7S00BOGcdj8RWrJ9oq1xyhJwioo7U7QyKn1zYvP+EfeQL/b6/1gkbmNHLG6MJ7fgQ+KhjX478nM35Lx0cffLoP8H+UyXULfk9Vr2tvp0ZcMPDnExA4fV5Vgb6bj8CObpOzLcGl0Enc7249w=;9m5BVLHPbBXGiIVA0Xql9Q=="
 ---
 

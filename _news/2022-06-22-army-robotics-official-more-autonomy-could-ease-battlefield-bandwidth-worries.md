@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T13:10:00Z
 originalUrl: "https://breakingdefense.com/2022/06/army-robotics-officer-more-autonomy-could-ease-battlefield-bandwidth-worries/"
 webUrl: "https://breakingdefense.com/2022/06/army-robotics-officer-more-autonomy-could-ease-battlefield-bandwidth-worries/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Breaking Defense

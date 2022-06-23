@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T19:22:00Z
 originalUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2022/06/23/best-robot-vacuums/"
 webUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2022/06/23/best-robot-vacuums/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

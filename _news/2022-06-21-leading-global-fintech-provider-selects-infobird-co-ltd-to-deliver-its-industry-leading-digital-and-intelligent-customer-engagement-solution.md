@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T14:34:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578"
 webUrl: "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -18,6 +21,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Global FinTech provider selects Infobird for its intelligent Customer Engagement Solution"
+    excerpt: "Infobird Co, a provider of AI-powered customer engagement solutions, announced has entered an agreement with a FinTech service"
+    publishedDateTime: 2022-06-23T07:02:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/global-fintech-provider-selects-infobird-for-its-intelligent-customer-engagement-solution/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 15
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
 
 secured: "qn6B4QkpXfrNmDPUHPeVWuZzyhjIwB/aciKZRyfXjzIrZY6tev66aH2G2uzE25bWYjnSFsKe/OVHSy7nfYS88vhjSTsVsURKncEStFI7qU6+I+5JTsLbdUus31q/cWqEkhUHiRtmJAXlXVq/U88KtJX7IKzjqOnsZhX3c6BbfUMcUi/6jjHWbRIAsII854/oYjEL8fkf+TUAM8WzpXSpHYzZPRDPjyNikX42h7KnC3LXXgguFf/cp/jvFI0e2K96rWcMglLhV76iI7N4Ezyv4IotM329UVoc/GDa7KRX2icbgbRvtMKVlHklHLqqLHAIVUXNpX/VEvPhVCpys5Cp2oFaHsm71CIqZcCIx8JdhPs=;FZ6P8Vy6ZOpJvTl3PmUePA=="
 ---

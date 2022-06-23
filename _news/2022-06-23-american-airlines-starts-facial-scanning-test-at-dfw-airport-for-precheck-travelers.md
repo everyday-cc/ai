@@ -59,6 +59,36 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "American Airlines Testing Face-Scanning for Passengers at Dallas-Fort Worth Airport"
+    excerpt: "At DFW Airport, passengers will need PreCheck, the expedited-screening service sold by the Transportation Security Administration, and an American Airlines mobile app to use the facial-recognition technology. To be part of the service, American passengers ..."
+    publishedDateTime: 2022-06-23T20:40:00Z
+    webUrl: "https://www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/"
+    ampWebUrl: "https://www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/?amp"
+    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/?amp"
+    type: article
+    provider:
+      name: NBC Washington
+      domain: nbcwashington.com
+    quality: 53
+    images:
+      - url: "https://media.nbcwashington.com/2022/06/american-airlines-facial-recognition.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Flash a QR and your face biometrics and American will put you in a jet seat"
+    excerpt: "To get their American Airlines mobile ID, customers will need a TSA PreCheck account, enabling them to bypass long lines at airport security."
+    publishedDateTime: 2022-06-23T21:52:00Z
+    webUrl: "https://www.biometricupdate.com/202206/flash-a-qr-and-your-face-biometrics-and-american-will-put-you-in-a-jet-seat"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/20134618/phone-airport-scaled.jpg"
+        width: 2048
+        height: 1080
+        isCached: true
 
 secured: "plj/TziXrFiwNrf+V5th7R7ACyLcV9pj6e3VWfT/D5ow2MuDvHohkl6GlobdqeGJH+YMsgcFXCEwEsX07r+jYXX6veUQAl01fCkBNljRN1G7jiXPEVmEW8tjKjzDQMJP4qKgRkqFsYXuJ9+e/EDhgadM56UUjk/2hqHuTqWFZr+l20DP7UL2lwvzB83aP0qD81mEH3b9Ok0Q54rPLYT47xeMiQ2Bypou+Ieu70wLPKkUd2G4bkd6uus10D0qB/4gFcsWL4zpvoWvQiGL/ObGCA9wBF0pS3AwwhHfaa8FBJokyrrEHoKmfCErzzS7Hn3wWj+XK4YkAOdQLt7dTdPQJNHC90fCFlgwc2a0jeAkVUI=;/lyyHbUhz4K8IZdLEbcRyw=="
 ---

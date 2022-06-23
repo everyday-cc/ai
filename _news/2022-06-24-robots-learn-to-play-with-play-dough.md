@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T18:16:00Z
 originalUrl: "https://techxplore.com/news/2022-06-robots-dough.html"
 webUrl: "https://techxplore.com/news/2022-06-robots-dough.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

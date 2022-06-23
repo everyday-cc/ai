@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cerebras just built a big chip that could democratize AI"
+    excerpt: "Chip startup Cerebras has developed a foot-wide piece of silicon, compared to average chips measured in millimeters, that makes training AI cheap and easy."
+    publishedDateTime: 2022-06-23T00:17:00Z
+    webUrl: "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine"
+    ampWebUrl: "https://www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 74
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-at-the-core-of-cerebras-pitch-is-a-chip-that-is-roughly-the-size-of-a-dinner-plate-less-than-p-greater-than.jpg?id=27946326&width=400&coordinates=0%2C135%2C0%2C136&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Cerebras Systems sets record for largest AI models ever trained on one device"
     excerpt: "Cerebras Systems said it has set the record for the largest AI models ever trained on a single device, which in this case is a silicon wafer."
     publishedDateTime: 2022-06-22T13:00:00Z

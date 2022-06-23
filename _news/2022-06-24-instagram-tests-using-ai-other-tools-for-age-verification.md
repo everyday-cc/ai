@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Instagram tests using AI, other tools for age verification"
-excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-publishedDateTime: 2022-06-23T17:44:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+excerpt: "Instagram is testing new ways to verify the age of people using its But the tools won't be used, at least not yet, to block children from the popular photo and video-sharing app. The current test only involves verifying that a user is 18 or older."
+publishedDateTime: 2022-06-23T20:16:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/Instagram-tests-using-AI-other-tools-for-age-17261098.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/Instagram-tests-using-AI-other-tools-for-age-17261098.php"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_40267c0d07df4ef99bac109894984999_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/26/24/62/22629516/3/rawImage.jpg"
+    width: 915
+    height: 610
     isCached: true
 
 related:
@@ -42,6 +40,17 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Instagram Rolls Out Face Recognition for Teen Age Verification"
+    excerpt: "Besides providing Instagram with an ID, young people will have the novel option to upload a video selfie and have it vetted by an AI specialized in facial age estimation from Yoti, a UK-based ..."
+    publishedDateTime: 2022-06-23T21:19:00Z
+    webUrl: "https://gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628"
+    ampWebUrl: "https://gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
   - title: "Instagram can now verify your age with your face with new AI technology"
     excerpt: "Instagram is using AI technology from a third-party company, Yoti, to scan video selfies to estimate the ages of users."
     publishedDateTime: 2022-06-23T15:55:00Z
@@ -55,6 +64,22 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/Instagram-stock-image-11.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Instagram tests using artificial intelligence, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+    publishedDateTime: 2022-06-23T20:24:00Z
+    webUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/"
+    ampWebUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 55
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "Instagram trials AI tool to verify age of users"
     excerpt: "SAN FRANCISCO - Photo-sharing platform Instagram said it was starting to trial a tool that relies on artificial intelligence (AI) to confirm the age of users in the United States. Lawmakers across the world have been vocal in demanding that the social ..."
@@ -71,6 +96,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5MXNUaSW02DCX8ezkHCWRQfI0PQgoYGomgX2jpeCApWkNO3yuyuvjLXiSYMDN/fQJniJnv6eiFjtOYz4SyiSFAiVTvn2Xx9hJrOTt66EvSM0WNszTymfS2MUA4dC+F0K/ymxf2t3htm6DdYiBVknVdLVbtlVN1ObndASrHWHPUuDvgEu4lKfAr5yj2Vs/QslX8JQ5riBnYA81Djp3iQMKsJnR387iKhlXH80V8dOoaw+8+2mFzgJw6BuW4f/IZY/9zrgjw+LP4AsJBWktp8/O44K3RwqnFlldTMz0Xcec3/SB56JYi89GXaRi0mKeFHUaYWXO0Qrus8N3c6KTk2Ds0cUQg2sx3wZoRclnfIcIeZg7TQlI26zxneLGPt2ZdmvbTJxowF/D0ZDozjI2VwFLbd/+4NBy3rsajwFuRvMm5yhk4ySzO99Eejn/jhrZDomctF8hbwKBN+cP7uYaKVZGsWrNpOuEMt/o5tlQLDyseJ4wrXVw2YicYTBfEIXXau3SPDZu+Y9DPVf6nEM5Y1TUA==;pzKz+4xLVlYW7c7y5mSM4Q=="
+secured: "vMbSP82+A11G/9RvgI+uLMTa9VqQs1A9XanTev+PPzFPT2OH4vCApEXWTDi/ACrduGUdNsIqVMfah7LSUP6J3/198W/9X5TGigAd4SfZ9LyM4PoOPvKiFY6AXU0d2ClzDfhSNTCaGvtNFFaigxaSZlQSszVmWK6pPLGIiKJe4RYIqJzZjRL2//3ndMXABEtM7Qi4ph7dIr1gElYsjFqAt/PbJg++IURYjwiU9xwTCM/AUOqTMBQSuvYjTGHfuJZziQrFOC8bb4+TxZ+BUkvjclPaLDhaBooGOapBqXGov5iv/zLypBru/5cCg7Mddl99kP9yRXi3jnjwgEcM3cLG8WRQ76tls4eZ8gu+aLP5JTo=;lmwRCqWi7J8dpmjqKjYmuQ=="
 ---
 

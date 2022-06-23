@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI’s Hold Over Humans Is Starting to Get Stronger"
-    excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern."
-    publishedDateTime: 2022-06-19T03:30:00Z
-    webUrl: "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/19/d09497a2-efaa-11ec-ac16-8fbf7194cd78_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ADPJCHPVII6ZLAWR67XDFGNPA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "G91zBd0VqoxFfqqlQjosGgtLCGXWaUO6JguQar+n50opMX0WRPjlcmlopjvWAdGUOcnRIwATPq080p+CgAOQ3E3Pfcul8G70eL8lQp5iZIWCoAsY2+yRL23B2a3dtWal1G1RX6yoGixCqBD/lWz3cZQU9cij2LsxMJBjNYKh+T0zkOpkavcAOp+EF+Kdz560ewG2zqnpOjrk+DNa9jzf6BcwByuJ2pQ0bvjPJheMeYd52CrWHjvhAWWUcpkLRl7wbA0+c02RtnjRBaKT/nCjqa9w0XWfKzA1I2MJgzcbrXJ/uMYCn8a4SJWr1mMzf92C4OwlyNDkVwWX5erHtZvynsDePb0C5KSwAvdMLKJeh86ZkQ6eOxGwi7ep2Y1SywJI+3MMp1c8kzMRutPQ1prLQz2/Ow8Gn3w+mg6KLv+zuqVgG8tLqxgaNPDqCEuLYQebW/PjEsEcYf9WSmOEyN9UsuFZpOJK3e7EaaNB9rAg6JqmtZ3ylAQLjbm05R6BQcUYZAHg4D4+65N7+n6q/HzTcA==;Qrt7oa8qRktcE7ctXBCSFw=="
 ---

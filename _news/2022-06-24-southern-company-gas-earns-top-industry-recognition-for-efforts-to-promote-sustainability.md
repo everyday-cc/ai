@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T19:48:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/southern-company-gas-earns-top-industry-recognition-for-efforts-to-promote-sustainability-1031547280"
 webUrl: "https://markets.businessinsider.com/news/stocks/southern-company-gas-earns-top-industry-recognition-for-efforts-to-promote-sustainability-1031547280"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: Business Insider

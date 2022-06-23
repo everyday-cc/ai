@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DeepMind Is Working on a Solution to Bias in AI"
+    excerpt: "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ..."
+    publishedDateTime: 2022-06-20T00:00:00Z
+    webUrl: "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 54
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png"
+        width: 1178
+        height: 1070
+        isCached: true
 
 secured: "Xox0yCw+whiebVYXVpB4BiOfDZA0C548NA+3fqLV4tjrFI68ytPhrp9xueERx+foocVhjpjJHjjD8fjZx4pQ/IYrDjUC/CBbX+ZunNYrSmHr6RN3ju31B6ch69kI4Jil/38A/amcj13lmQYahviZLji8NQe2nsDtxLrvaKdeWCIgEb1jvnNnEMeueQHIBc/MKIw4kQ/rhVxyiGqMUCPRUoCRCm8h09XBgg17G0wqQ/cWEPOUE6SVoh2hXejSmLsoZMoW2Y16W1hLT/1UljYqMS6Zf3Xz4cZd9WNhOk6zbyTa7B3M44ShevzpApKXgSqf5PuwpCRSVLU32EejcJ7MJlGtPBlQwe4WHGymgKY9KCyIt1JeCn0n80p91CI6rhRSuMilRlRYn2EFsxCkQAKeb2b6gTABRdgsQBGs+zx4cDinOiWNHYuDjQiDeFTj9cXxNXRbV3W+TpywlBQxpRr3VRsHhfhsOeWTi5XGgzev00vmHIyutPIwG8YwmzzEpi521UdnuBM4g+lVtcsc5larrQ==;zctC/uxmTexUtdfCpPhQnA=="
 ---

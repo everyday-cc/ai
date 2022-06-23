@@ -87,15 +87,6 @@ related:
         width: 620
         height: 443
         isCached: true
-  - title: "Can we make artificial intelligence less racist?"
-    excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
-    publishedDateTime: 2022-06-22T18:51:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 23
   - title: "Internet Data Produces a Racist, Sexist Robot"
     excerpt: "Artificial Intelligence Workforce A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples’ jobs after a glance at ..."
     publishedDateTime: 2022-06-22T12:57:00Z
@@ -104,6 +95,15 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
+    quality: 19
+  - title: "Can we make artificial intelligence less racist?"
+    excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
+    publishedDateTime: 2022-06-22T18:51:00Z
+    webUrl: "https://www.thepeterboroughexaminer.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
+    type: article
+    provider:
+      name: Peterborough Examiner
+      domain: thepeterboroughexaminer.com
     quality: 19
 
 secured: "CRXV9k7V5eocdicC5dbfCbgNA+YHlTBWbIY+RwHdSBygOFYEk9qjluv2peh5zZz+GeNvWY9DfIoCLHwmi92r639gDzcsQm6YQXoUqF3rr4z2QrHOkWxMpWpiuqvCMeUkZTlg7l545kC3K21/6zszALNyAlCnnTqfv2R/0ZPBfv0WtZZW5kKtJ5jPMp3dYBJDzf0Vdas6gt99UwilwvLqxH1TG5ZGncTFKe25RamCfmkMGPymr5z23nW2p2NQn0UvqmT/kEcTTtfsHw2QCy6UQQxDNa4Tpzjj1I/7vcJgPZtAQXtNW4Vf9OZU+tk4aMJZ1qJU46onXMKSQbXXQdULsiHRDTiROAkqzkpKnhRV+wpTQCa012jBHrWTSjSLp18Jl+Or4sciWeGVdbMsZCY4W3pfE6FgDD4T96/RubMFUsZ4QNsacrY0wvXTGxFiicQ4uf/8LFHTift+b5OO7OlRO+6n7XGNNY4gtCVyaFP6LLnqHQwDGKFOig4KHw3744u8L/xAQ4+6PNxU0Wyvz3L1sQ==;KKV+AeD1BlT2iUw+DsTP1w=="

@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-re
 ampWebUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
 type: article
-quality: 104
+quality: 106
 heat: -1
 published: false
 
@@ -407,6 +407,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Microsoft Phases Out AI Facial Recognition Tool That Identifies Emotion"
+    excerpt: "Microsoft Corp. on Tuesday announced that it is planning to phase out its so-called artificial intelligence-based “emotion recognition” tool from its"
+    publishedDateTime: 2022-06-22T09:54:00Z
+    webUrl: "https://www.techworm.net/2022/06/microsoft-ai-facial-recognition-tool-emotion.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 53
   - title: "Microsoft plans to eliminate face analysis tools in push for ‘responsible AI’"
     excerpt: "Microsoft will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool."
     publishedDateTime: 2022-06-21T20:33:00Z

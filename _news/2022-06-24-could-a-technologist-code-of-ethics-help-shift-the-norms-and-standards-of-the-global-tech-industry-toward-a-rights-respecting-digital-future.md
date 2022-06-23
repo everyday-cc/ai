@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T18:46:00Z
 originalUrl: "https://www.newamerica.org/digital-impact-governance-initiative/blog/could-a-technologist-code-of-ethics-help-shift-the-norms-and-standards-of-the-global-tech-industry-toward-a-rights-respecting-digital-future/"
 webUrl: "https://www.newamerica.org/digital-impact-governance-initiative/blog/could-a-technologist-code-of-ethics-help-shift-the-norms-and-standards-of-the-global-tech-industry-toward-a-rights-respecting-digital-future/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: New America
