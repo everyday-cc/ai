@@ -93,6 +93,20 @@ related:
         width: 733
         height: 358
         isCached: true
+  - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
+    excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"
+    publishedDateTime: 2022-06-23T06:30:00Z
+    webUrl: "https://www.forkliftaction.com/news/ai-solutions-are-going-to-save-your-logistics-business-by-saving-your-coworkers.aspx?n=26075"
+    type: article
+    provider:
+      name: forklift
+      domain: forkliftaction.com
+    quality: 33
+    images:
+      - url: "https://www.forkliftaction.com/upload/gallery/26168.jpg?v0026-3&s=2"
+        width: 640
+        height: 334
+        isCached: true
 
 secured: "2Wb8qoW+29fLUqYbKTL93Rweg/lZBnwXfT272D4MSDqYJF7VAHU8s7Zta9061TX+rd85to925sJCCg68Gf6IciX12itQ2Pkj+VOMSY6bPCu0Z0sE7wjMvsRcJMHxV30x5WTVsQozeaNyo74eWm2MwrPU1Vw0FsdGZ1nDGOrrFTR9o58PGaaTVUa71h/7eypcXNCvRm6Vs8JtsnsW0Y3Grn2RQ8SZPG49wawhW/cozM/vjoP7i0axwC5looZnJ6zuHO/5DMIpyaQeg3Jrk93s/FappZoGlLs3fT3ai7Cajwpw2sGDFQPEFFeHpKTGoRlnMZh/NzIB4K6M/4FlPCmDo2dVQ2gG7iTOF91WPrFiUNM=;hH6rT6LIrLpllpRGPFTEAQ=="
 ---

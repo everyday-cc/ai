@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "CallMiner Introduces Combined Workforce Intelligence Capabilities to Elevate Agent Experience and Drive Improved Customer Outcomes"
-    excerpt: "CallMiner, the leading provider of conversation intelligence to drive business improvement, today announced new and expanded workforce intelligence capabilities to help organizations improve the performance and experience of contact center and customer service agents,"
-    publishedDateTime: 2022-06-20T14:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-las-vegas-waltham-608e450ab4b54cf9875aa6ea1408245f"
+  - title: "Global FinTech provider selects Infobird for its intelligent Customer Engagement Solution"
+    excerpt: "Infobird Co, a provider of AI-powered customer engagement solutions, announced has entered an agreement with a FinTech service"
+    publishedDateTime: 2022-06-23T07:02:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/global-fintech-provider-selects-infobird-for-its-intelligent-customer-engagement-solution/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 15
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
         isCached: true
 
 secured: "7qcmY41QtcoytTEkFASVD30ofII7Z9YXo72rMmVFdzpeWxhxtHpcNRHqgtpRQ9/BOdK/xCVQjqK8QHsFqjjlUpD5o/XJdJSU6amc0nQmBXuqZJEsr7AbCmMPfPkJEONJhczM69C9X2bk4Fkh0I5Z80E5vNpjSAsxqyOQgkyxHRNYl7CGIHkE8u02zJpS3rvYSWXkFbRUg5cfuelW1bd+BSvPmtH6jr/B+yMGpHvKd5UuZbycKAIoiKCqQ3MnIZOLiE9Rva7NTLTlWiI1IOmzlLB7u+AcuyXJTbds4UgVjpij4AFL/rcReNRLDwSIZ4T/pNK7tuDzg2azYjN2vCr8pZYL+/fcF0oPqOMYJ6zzGwY=;Ui5GtBqGAw8Dgo7qjNHBTw=="

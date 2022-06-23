@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
 type: article
 quality: 93
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/06/AI-for-business.jpg"
         width: 733
         height: 358
+        isCached: true
+  - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
+    excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"
+    publishedDateTime: 2022-06-23T06:30:00Z
+    webUrl: "https://www.forkliftaction.com/news/ai-solutions-are-going-to-save-your-logistics-business-by-saving-your-coworkers.aspx?n=26075"
+    type: article
+    provider:
+      name: forklift
+      domain: forkliftaction.com
+    quality: 33
+    images:
+      - url: "https://www.forkliftaction.com/upload/gallery/26168.jpg?v0026-3&s=2"
+        width: 640
+        height: 334
         isCached: true
   - title: "Visionary.ai and Innoviz Partner to Improve the Power and Accuracy of Machine Vision"
     excerpt: "Combining Visionary.ai's Camera Imaging Software and Innoviz's LiDAR and Perception Software Enhances Performance in Low-Light Conditions Visionary.ai's True Night Vision technology leverages Artificial Intelligence (AI) to dramatically enhance image ..."

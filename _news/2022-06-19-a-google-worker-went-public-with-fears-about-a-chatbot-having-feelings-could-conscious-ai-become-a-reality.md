@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dori: Google engineer explains how AI chatbot shows sentient side, might have a soul"
+    excerpt: "Cognitive and computer science expert Blake Lemoine boldly told his employer that the machine showed a sentient side and might have a soul."
+    publishedDateTime: 2022-06-23T01:26:00Z
+    webUrl: "https://mynorthwest.com/3528440/dori-google-engineer-ai-chatbot-sentient-soul/"
+    ampWebUrl: "https://mynorthwest.com/3528440/dori-google-engineer-ai-chatbot-sentient-soul/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3528440/dori-google-engineer-ai-chatbot-sentient-soul/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 50
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/06/AIchatbot.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "LaMDA: The chatbot that a Google engineer says has become sentient"
     excerpt: "Google engineer Blake Lemoine said that the AI chatbot LaMDA has become sentient. He was sent on paid administrative leave."
     publishedDateTime: 2022-06-23T04:30:00Z

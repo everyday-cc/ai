@@ -23,6 +23,22 @@ images:
     height: 602
     isCached: true
 
+related:
+  - title: "DALL-E2 Creates The World’s First AI-Generated Magazine Cover For Cosmopolitan"
+    excerpt: "DALL-E 2 on Monday became the first AI-powered software to create a magazine cover for the Cosmopolitan magazine."
+    publishedDateTime: 2022-06-23T06:43:00Z
+    webUrl: "https://fossbytes.com/dall-e2-creates-the-worlds-first-ai-generated-magazine-cover-for-cosmopolitan/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 33
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/06/dalle.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "XApzyW144mvyTte2NBHMqlj/w8DqFUtUMNwIjcmQ9LPvCeFiPYeihpFChD2VrJMruFY+3Zgs99m17dsLoW+3GLVH9mwHzgjAAiNG9nnUuwKBr/XMYf57NeyDUEmDc/3RoYYA9E3voYUeTfD0HW3ne6r+SH2xGAE5YhRLPXdRyPqUDNwiEYi3N0AqlAcjdPDj8WXKjxVISEkJOmfJXNdCf+HCAVrMhOITfXmKpIqT7AM6lZ0mYNhv2WLWC6AoTIxR+LzQfAJ4x06jQA3cbdetM8exDoAfRNHBaChNh4J0uO0IPPcA1pAAKYEMlzQJCQQVyFe2+KSCZ3GKMWIhYr9TeWmHouqrFPJofPsUVtlLCMY=;rxGfYe5vPjqWD8Q3v8Cn6w=="
 ---
 

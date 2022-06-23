@@ -64,20 +64,6 @@ related:
         width: 510
         height: 219
         isCached: true
-  - title: "AI’s abilities may grow, but will never attain humanity"
-    excerpt: "Without question, therefore, artificial intelligence (and the automation it enables) can be of great benefit to humanity as we use its strengths to augment our weaknesses. But knowledge is about as far as AI can take us,"
-    publishedDateTime: 2022-06-18T13:24:00Z
-    webUrl: "https://www.abqjournal.com/2509401/ais-abilities-may-grow-but-will-never-attain-humanity.html"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 37
-    images:
-      - url: "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2022/06/18/mb00_jd_20jun_mckee.jpg"
-        width: 664
-        height: 916
-        isCached: true
   - title: "How AI Can Make Strategy More Human"
     excerpt: "The power of AI is now within reach of all companies, opening up a new world of strategy innovation and enabling companies to leave the constraints of legacy architecture behind forever."
     publishedDateTime: 2022-06-22T13:20:00Z
