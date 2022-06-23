@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-10-tesla-secures-multi-billion-dollar-deal-with-samsung-for-new-cameras-for-self-driving.md",
+      "title": "Tesla secures multi-billion-dollar deal with Samsung for new cameras for self-driving",
+      "excerpt": "Tesla has reportedly secured a multi-billion-dollar deal with Samsung to get new cameras for its self-driving sensor suite. Tesla’s Full Self-Driving (FSD) program relies on cameras to get imagery to feed its neural nets.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
+      "originalUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
+      "publishedDateTime": "2022-06-10T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-loading-remote-data-in-tff.md",
+      "title": "Loading Remote Data in TFF",
+      "excerpt": "In a production environment, the raw data for a federated computation is typically distributed across machines and requires special preprocessing and loading before it's usable. This tutorial describes how to load data stored in those remote locations with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-global-us-283-bn-speech-and-voice-recognition-market-outlook-to-2026.md",
       "title": "Global US $ 28.3 Bn Speech and Voice Recognition Market Outlook to 2026",
       "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
@@ -1046,100 +1141,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-apply-to-pitch-your-startup-at-tc-sessions-climate.md",
-      "title": "Apply to pitch your startup at TC Sessions: Climate",
-      "excerpt": "The climate crisis is here. As the stakes rise with the temperature, a wide range of startups are striving to help humanity slash emissions and adapt to extreme weather. If you’re an early-stage founder focused on such efforts,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/",
-      "originalUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Neesha.webp?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/amp/",
-      "publishedDateTime": "2022-06-09T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-global-healthcare-artificial-intelligence-research-report-2022-researchandmarketscom.md",
-      "title": "Global Healthcare Artificial Intelligence Research Report 2022 - ResearchAndMarkets.com",
-      "excerpt": "The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the role of artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesunchronicle.com/news/nation_world/global-healthcare-artificial-intelligence-research-report-2022---researchandmarkets-com/article_10ce40eb-2afc-5a33-bf4c-efbe3b84b100.html",
-      "originalUrl": "https://www.thesunchronicle.com/news/nation_world/global-healthcare-artificial-intelligence-research-report-2022---researchandmarkets-com/article_10ce40eb-2afc-5a33-bf4c-efbe3b84b100.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/eedition/2/e6/2e602f87-3b50-5cc8-a798-838046514119/62afc7cc16660.preview-300.jpg?resize=300%2C579",
-          "width": 300,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun Chronicle",
-        "domain": "thesunchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

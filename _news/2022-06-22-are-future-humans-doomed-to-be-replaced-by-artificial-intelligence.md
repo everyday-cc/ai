@@ -3,11 +3,11 @@ category: news
 title: "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?"
 excerpt: "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,"
 publishedDateTime: 2022-06-21T17:32:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "4GQKT0bUy+wG97DBYuvOAzbTN0a/J42lcVKYvRKno0J7P4rYR7z48RfUT0/KuoXoWP2ylt/BoR41hXsQRElLOBgIJgdNe93C8OdLuTXN33FFQnKHR6yVn2tDICu/RlmPdo0qxQrnQsRqME+K+jdZ/JkULeD0h6YE8k0xfuGFDEtKjRvpGfGaaUSdF3Z3sqWeNvfyDevdh2rKn0oliGFtu7qbVv3Oe3vHp1JIjR46thhQRERUNf7CxGT9yoBJG0GCxWCH9tonM6LRSldfqy3djnMb3sqMDd+lLIon93ngiAN6kmhXH3r4tSNmUJ8pTu1lLv2TiBpF8UxDd6FWumXQRXPuvA/7N6dhtuHo4L2zn1k=;64gzzV/uwaKxXPpJO8ZVdA=="
+secured: "C3/6yu9IX3YbmvUfDwuyywT6+PWFY0SxvtR83L4VnHgAjCwfuQ9+SHl5L1wvDkJ8Hw4ZZf4hnj6a6d/Sp7YBdug0nDMFOTP1khNVhv4LCksQgFMlvRhJtL7+j81EgPy6EfghPE/whCDU3Xlj61VH8f/5D6qwCBzPtRHBUAmlF4PKrVeLY+TugbBDeAGvbTrja1qGF76OKfrVKVr941RyNlAY0+QItzPeE7p8uJ5WAa/VhBKVkwRXV3eBgRP2qQwMWDziIQlb2G9vZ5GCgBdjQ8UIre3gtzlhpzz1JIL6opfqk5ykFGZYu1vY3sRnGpav9rv9PYYIOZQOQSWwgwpGBd5/JlixUPs1lnvbugEDGuM=;d/E+HAXx/hL0WSc/3tOZCQ=="
 ---
 

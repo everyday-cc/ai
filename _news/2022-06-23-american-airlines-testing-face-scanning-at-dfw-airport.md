@@ -2,26 +2,26 @@
 category: news
 title: "American Airlines testing face-scanning at DFW Airport"
 excerpt: "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app."
-publishedDateTime: 2022-06-23T02:12:00Z
-originalUrl: "https://www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/"
-webUrl: "https://www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/"
-ampWebUrl: "https://www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
-cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
+publishedDateTime: 2022-06-23T09:20:00Z
+originalUrl: "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/"
+webUrl: "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/"
+ampWebUrl: "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
+cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: Click2Houston
-  domain: click2houston.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3ZEBCTQFU5EV7H6REY4GCB7IPQ.jpg?_a=ATAK9d60"
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QCM3NSYLD5CDHBU37NHWRODMDM.jpg?_a=ATAK9d60"
     width: 700
     height: 467
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 641
         isCached: true
 
-secured: "zLngiwvWgYLyMEHW07darqOmIezpdPLihteqy0d4wXW9thv8VoD46h197zUzUQ1Qm+ckiaeIPK8GX46O9oyMWVxL3K4HAzkZhEqCyIGwvAtYF4a80gebG9ysrOgIJ/FZO/v5XlwAljLG9p+W5K1oh9l0SfSclXsomglqBpPchF4NpPJz0tzAsQqr16kI3iWP4TssddmBopuCAV90KKlXfVORgQQFUg4jwFLYXMskbc1A6navz/COYhlk1tJIypnWLuEq+fEILO83GMZiZfBiXPUN0p8Ya/LzVkTM+DXw86maLx15+dZrlZRtLHlWak0ubrcVWFsF7nkMLDvrBokJvbYwNT0LwiNuF5By8TG32zY=;BKF7tHsTIVK/aTdnYs/i7w=="
+secured: "qWIe63Y7Ise8KJUCspgX2nH4P4B7vlNm1S9um3QIGeiLWKoNBOL6aKa221oeuTJw7pZFmIjCrADwjL1KC6I5BZUfYAJK6D7qHOTHoCM4wrhat7gezck8jsU7SweGTveTL7O1gX+dYp6k7X9s3ryKgr4YAO7DtdI1rHbvi8gFIigTie7woR9QhGBE8GZkGOWpjwgZdnSlkf3eckDICC5IWeN8jshTx3fhrraTFxX6RZF20zLjPFd5NmoXoTYU5VFQQ1XualpEXkf3ixo7/SaXdy4TDMDlFPXKuO9+70Y5QNiFya69ilU5uQk4XS3AST6FDuLzy9We4om2zrB/hGSxugIm/f6zGBpNj6uDOMC7ZLc=;qXTG1hW3s13ACiwMaWphag=="
 ---
 

@@ -29,17 +29,17 @@ images:
 related:
   - title: "American Airlines testing face-scanning at DFW Airport"
     excerpt: "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app."
-    publishedDateTime: 2022-06-23T02:12:00Z
-    webUrl: "https://www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/"
-    ampWebUrl: "https://www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
-    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
+    publishedDateTime: 2022-06-23T09:20:00Z
+    webUrl: "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/"
+    ampWebUrl: "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
+      name: KSAT
+      domain: ksat.com
     quality: 59
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3ZEBCTQFU5EV7H6REY4GCB7IPQ.jpg?_a=ATAK9d60"
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QCM3NSYLD5CDHBU37NHWRODMDM.jpg?_a=ATAK9d60"
         width: 700
         height: 467
         isCached: true

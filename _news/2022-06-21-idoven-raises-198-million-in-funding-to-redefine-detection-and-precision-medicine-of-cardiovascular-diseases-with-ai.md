@@ -42,20 +42,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "News: WIZ.AI raises US$30 million in funding led by Tiger Global, GL Ventures and Gaorong Capital"
-    excerpt: "Artificial Intelligence startup WIZ.AI has announced that it has raised US$30 million in funding. The round was led by Tiger Global, GL Ventures and Gaorong Capital while other in"
-    publishedDateTime: 2022-06-22T07:00:00Z
-    webUrl: "https://www.peoplematters.in/news/funding-investment/wizai-raises-us30-million-in-funding-led-by-tiger-global-gl-ventures-and-gaorong-capital-34353"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1654594033/ad-drezxt5v.png"
-        width: 990
-        height: 550
-        isCached: true
 
 secured: "Cx/Qn9QQnVE7igT+tF0J2kH10X4OCZuRfdnM1evdWQqph725A2JCOkLAPjBD56yHsAMCtJTfpQWxPW23hshg0A54STrFIbOLIG2uIxov6zvPEXcdEnfalpzhrbJzsRiLS60OOfxwDIDaKRU5e3mXD2Or2cHahj7jfY7hEhrcODeXQbLBDROB2h9DcCjWHe8/VYookQ5zf5n2eYFpQmroagYSWI9fg+yLMmeYVbu3TeiwsI/fvlfG+RiEQp2mkRgSY6VU01GZ732bbmxF3nvp7q7Obk3ojXKZ7Cm/Yc77mn4dSgG3So71GAeo+lYFqtSh9vvE6OYqSdJUmbuc+S2eL7Dp/y3R2ofB4WsdyQvjbJ655YfIURhQbt4RhdnxWVNc9bEGfG97QPOoLvo/hTpdyyLkPt5hcribzpoocgg58S3bOFpLGFSNBDpUY5CQSJoIqLSyMAygHbSOY9WOqwCrfPGmDcBFJoYukpMsRk32xUQPB9mJC/yNY1NYyK7sdUk1vG7FMUSDCSXtjsEJwUEBdA==;mQ1MMUup/LFXGYYTgIGpnA=="
 ---

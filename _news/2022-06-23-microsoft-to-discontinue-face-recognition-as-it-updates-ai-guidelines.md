@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-23T06:51:00Z
 originalUrl: "https://www.computing.co.uk/news/4051693/microsoft-discontinue-recognition-updates-ai-guidelines"
 webUrl: "https://www.computing.co.uk/news/4051693/microsoft-discontinue-recognition-updates-ai-guidelines"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://image.chitra.live/api/v1/wps/54e7d23/0c9dcc41-059c-4d39-b2cf-1816a5ac70c3/7/facial-370x229.jpg"
@@ -502,6 +503,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "ikpzJ6ERAkMEQIAClS2DB/0HFd2gM7tuo8VeLqEeRxypE1h2vEJmkXoHd/HBT42i6l2Vm8OXD6IxbUHdjzact/x31Bb/SEZgfkw5mesRY9SWgNB4FV2FKXHskiZl3RacxelW3iQXa9ra2G3HXvKR38Q8NOywv401O78JCK+Z6tt+qeJQACobOHElVek6MmgUhHYj1Bzwcu/2LnG65GLHG2p5zP8qKRg6B7qKYtOuiAwolJo422G3z53BBxFNAnz6wnAhU+4QJZLPeUuk2X3sIyd+FyDXzI8O72QRAmHXG7IjPYkhhx2ybFllZ3wkBClixnaaINRh76Ay4PfW3sTZQBJovPlaN14UNGQ/rI3gEz0=;M55Fbs5HxmfO44sb1GdFHg=="
+secured: "3mp4KCqF0uGG0JAOXIYPHL8F4LB+FcVeu78vh9yCA30luHW0ilv7A5ZhQe562B1qyqVo1hr1Iq8QHgKsDRHUh/aNS+YNMFr/wyMM0nelWylEhacQVx5rlEjd3L8P01WQRDYLwzefZHcWl10vLQijNqJD5aqJGPQJ+FQ72v5GhpoWj4co4MXWFFCfevIXShqwPMFvUMAGdmMJF3Qpp4zGEqt7Jrsdmb3fsebSilJhPiD8DHFW7bOMz+3gFSUptXxnxvs/D84IQF9rsjDhAngtnu7UHdfsS5Imf1UEkBvwgpSM/XhOFcCYWWpa6BKVt1vwubvVXcSJ9TW4nW9G5DqMIE/rQyoiVKCHaupe4IpqUzo6NhSlkpq61YvV3ISISTE/SDvqH7ZvS6ItdnfBYA5Tbiu9kfP0/NsdIvP5kRbRxrdvC2ggxQFwRMpfJfuxGU6CNNqKtx8B3jSU8BGZykwmYS3Y5OI5kYl6OCPXnm5SUlLuuT5YQRb+2sCk1u3n6liUttu0f4FTmLJjPyGmQxNQ0g==;ak72M+jj4IgBkG36RkKBFg=="
 ---
 

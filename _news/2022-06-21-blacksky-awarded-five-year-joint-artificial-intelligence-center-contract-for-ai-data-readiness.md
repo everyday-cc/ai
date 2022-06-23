@@ -3,24 +3,24 @@ category: news
 title: "BlackSky Awarded Five-Year Joint Artificial Intelligence Center Contract for AI Data Readiness"
 excerpt: "BlackSky Technologies Inc. (NYSE: BKSY) was awarded a basic order agreement from the Joint Artificial Intelligence Center (JAIC) to create and optimize data sets for use in DoD AI models and applications."
 publishedDateTime: 2022-06-21T11:52:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_6920a9f6-6553-59c7-b0e4-4fdba7949844.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_6920a9f6-6553-59c7-b0e4-4fdba7949844.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-artificial-intelligence-bcb37a0858634d358b1e4b2d49d316c2"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-artificial-intelligence-bcb37a0858634d358b1e4b2d49d316c2"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -50,6 +50,6 @@ related:
       domain: marketwatch.com
     quality: 45
 
-secured: "ek+CrCLdESdEkyDQ+Iy/8Dmr5SZtx3koH6oWFqdkdXIxia9JGSZrl41Vn8jpJJDXETOIJyIJ6AgGSZKeAgNP5YEIFrxz+Lgi5Wxn24G+XsuXLPCzs2kgCotGuMh85YCVm+QIaUO/58D/VALlRJyz/+hx+lDgUJSas3mmY7HgaLE4nyAQLv8LCsfKG0fkLinITVnz0wOIrYSkaBZf0aXhVM7MyKpG+OYrjOmAe5526cpM/vs49+HfsUS867hw+4nxBi42VDhk8lZVnfzM/C6ubysCmWuJd3TiaxHKJA1/Pfhs1+D2z2zR6fV3YsI51QHYi7O5HVavqKA5lI0wSrDlNwndL34fgRbbugIaYIqg6EU=;RY426NL+e8KPnwITzI2a2Q=="
+secured: "XjojrrS0BX2RIHxODddMsF5IRQ5w9tSMTyfXEnnphWgHwX9s6F+0jU7qfFzYGKF/UVhn//Bs+CSJVczLJCKSrRvEcLAyDi1rxrCBcq8ei3cmcwDkT6m97cmcTKhHZAIn3AHRG99T9ZDdO2tc5x0Gk/Cri5LWPEIMhJTpKoPwvXSjC+sjwDPKAe6XopqyS721akvHjaaW/bpkEt6idDXq/it890PBZ02O87Agkm5UczBQ1E/K+nruoK66CT0JgUXwfqBJ+7g9WsuDxbgu4qkLM1Z2LaOQu/RODv2KjD9zHzSMoCN2i/tvJOKc64f20odbUfaUew4utRaARhTBryn1hLGxj+X2aZuHAVkvwiw9DJU=;q5HriPDf1QKx94LEfKQ1ig=="
 ---
 

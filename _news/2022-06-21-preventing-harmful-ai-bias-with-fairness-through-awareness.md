@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/21/preventing-harmful-ai-bias-with-fairness-through-awareness/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "10 tracks that harness the power of artificial intelligence"
+    excerpt: "Perhaps the best way to demonstrate AI’s creative abilities is to zoom in on how numerous artists have already worked with it, and – together – crafted some quite astounding music"
+    publishedDateTime: 2022-06-23T08:53:00Z
+    webUrl: "https://www.musicradar.com/news/10-tracks-artificial-intelligence"
+    type: article
+    provider:
+      name: MusicRadar
+      domain: musicradar.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Kt4G2msYkJZow2RgcmGPyF-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "xygkdTJAna9qg13CXUVvscfKdi1+tGzo79xDBCUXVXSLajD2LyGco8F/cD32Yx7y2jBQzgeGtiDaLcsF2cc+2ZxW8YjYofdrQC0sCWWo8+x5s90DHD+VtyYEgwSzw4+40p+fElgAk3sr0dVqeswkqPE7B0EQF1bqhjtAeAkIQ7S02Lrcqhy+8a8ne33rI1UAPmgsWajNkpu4XD4xMxZGI7SEC4Hlsgi/r6clvFD+lMBk99FfUm9FmiOaguszbaFO9sat2XJaQ+sihwJ8rxNtpZnDR1FD9UOdnFyNgtSaCcKk8n3VLeqeHaaRkjUrfohfbo1x0YzeizO/DIQm7Y82s/zrZ3uBbpPF5q9yM016X+Wx2lIibGYEZKMqFwyjN3ZTD/p6qUmIDipc+owTQlkibiEjkXny2ixfseczFNkaJCWuEranJy/Js00MZ3ijXPc0Q2S8xA4OboI4rsIie2nXirqnzhuDwn7tdnra/Ux7d2zL9XKHaaxykvf1xyaZ1hX08X/+vs6RVts8tM4sRErFag==;0MFJ8QfUgMOL13tenHlUhg=="
 ---

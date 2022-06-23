@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Idoven Raises $19.8 Million in Funding to Redefine Detection and Precision Medicine of Cardiovascular Diseases with AI"
-    excerpt: "Idoven, a pioneering health tech company advancing early detection and precision medicine of cardiovascular disease, today announced that it has raised $19.8 million in funding. The funding consists of a $12."
-    publishedDateTime: 2022-06-21T14:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/idoven-raises-19-8-million-in-funding-to-redefine-detection-and-precision-medicine-of-cardiovascular-diseases-with-ai-1031540550"
+  - title: "Neuron7.ai raises $10 million funding led by Battery Ventures, Nexus Partners"
+    excerpt: "Neuron7.ai leverages AI and natural language processing (NLP) to help service organisations overcome challenges and improve service metrics."
+    publishedDateTime: 2022-06-23T09:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/neuron7-ai-raises-10-million-funding-led-by-battery-ventures-nexus-partners/articleshow/92408582.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/neuron7-ai-raises-10-million-funding-led-by-battery-ventures-nexus-partners/amp_articleshow/92408582.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/neuron7-ai-raises-10-million-funding-led-by-battery-ventures-nexus-partners/amp_articleshow/92408582.cms"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1844305/Idoven_Logo.jpg"
-        width: 400
-        height: 250
-        isCached: true
-  - title: "AI Platform for Modern Data Stack Continual Raises $14.5M Funding"
-    excerpt: "Continual, an San Francisco, CA-based next-generation AI platform for the modern data stack, has announced that it raised $14.5"
-    publishedDateTime: 2022-06-22T01:03:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/25771-ai-platform-for-modern-data-stack-continual-raises-14-5m-funding"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/2e94e7673e7a298ca95172e54bcf9f8f.jpg?t=20220622_010037"
-        width: 752
-        height: 408
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-125746,msid-92408566/neuron7-ai-founders.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "XJLhreREKfAZwED6mwL4V2K7mvCbQdUQ5kBgnscpkTybDN1gB/pm4gQRDiQnrXYWgGVDeTdrCTAz04jWerXb+86nITmZJvbxjCmq7ACdQnXayCjptr1U37wJwiymcbSqXJjpwFP1w0sdxtJZtyI44F2UgrXxTpLz480GKZ8JFxbX47H1itRekXYxzGNU8q15ZAmBqfD9nSG5tKQbV7mRSo/Xk7ndEkgmZ5rSyAuKZCuf6y75IoLBZ+m0h4ouCVYsMYcYpm3eOEPQhVLNwO8wkSTxfe+0Glz5J2cWErF1Uohp9wMVr5q4XiUfB60tklUltapogetKGX63WonVzr7uKdQcYn/Xbed4k5B5zv7P43E=;6V4TOs5noJ+v1rQgwcWH4A=="

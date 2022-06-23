@@ -45,6 +45,20 @@ related:
         width: 1840
         height: 1100
         isCached: true
+  - title: "Pentagon Launches Strategy for Responsible AI Implementation; Kathleen Hicks Quoted"
+    excerpt: "The Responsible Artificial Intelligence Strategy and Implementation Pathway lists proposed actions to promote responsible AI use across the department based on six foundational tenets: RAI governance; warfighter trust; AI product and acquisition lifecycle ..."
+    publishedDateTime: 2022-06-23T09:30:00Z
+    webUrl: "https://www.govconwire.com/2022/06/pentagon-launches-strategy-for-responsible-ai-implementation/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 31
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2022/06/unnamed-file-111.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "vr/T3F+MgrI14qsSKjW7FWB7FYs9CgbhvLjlPqvZDiLrUhUf132GPoOLbDmiEf3z3Kn4LeOL9eWVoVfBG7VPjbkp49Nero2Swcap87KgHANJLa2Eye8d5Zgey6UDYsZwEtsh1EBa0fVR97DV6XKc/tQZnr0MdIfVwgg0ferQVRktBFVTT7CfXpRDW4J5mpJj4PLoCF2hFsT67ORzuDfQY+Hdwm44ylnBU3Wm61aOULusLKkE90+ztyV6+FXCgH+IznWAjTdQZOnceRMGXX+qAfbATRogiO2psk+kURhsAP2RTzNoddxYKzCYQsCK1xMoRoWFEaCxn9bg97A5CW8fhOhwgczdlOw4BQMm9OgasoQ7QfTAlf0rUCJmXMvFBNmqwl+BEYJLL2Vsvh0Hr5dy68ZnLDCsmIdhjdkQ1BIBS+l7l7kzU/212rUHaEHZP7aTRKqEFuGYV5z/U0xX1Gh+w6ypiXIZ7g7o7fmAIIDF83fkeRRWb85RuWah+NLHpoE373BPHqc84JUTj4b9Sr2gdA==;DnceOjI2YODKqyAV2v6WAg=="
 ---

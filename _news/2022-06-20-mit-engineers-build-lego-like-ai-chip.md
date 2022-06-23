@@ -7,7 +7,7 @@ originalUrl: "https://www.ept.ca/2022/06/mit-engineers-build-lego-like-ai-chip/"
 webUrl: "https://www.ept.ca/2022/06/mit-engineers-build-lego-like-ai-chip/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 53
+    quality: 57
     images:
       - url: "https://scitechdaily.com/images/MIT-Reconfigurable-AI-Chip.jpg"
         width: 2000

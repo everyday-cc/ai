@@ -9,7 +9,7 @@ ampWebUrl: "https://mynorthwest.com/3528440/dori-google-engineer-ai-chatbot-sent
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3528440/dori-google-engineer-ai-chatbot-sentient-soul/amp/"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/06/17162036/pexels-tara-winstead-8386440-2.jpeg"
         width: 800
         height: 800
-        isCached: true
-  - title: "Google sidelines engineer who claims Its AI is sentient"
-    excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company's most advanced technology. Blake Lemoine,"
-    publishedDateTime: 2022-06-21T05:13:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2022/jun/20/google-sidelines-engineer-who-claims-its-ai-is/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201668885_google-bg-5dae7724-f9e9-11eb-943a-c5cf30d50e6a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 398
         isCached: true
   - title: "A Google worker went public with fears about a chatbot having feelings. Could conscious AI become a reality?"
     excerpt: "Google engineer Blake Lemoine took to Twitter to publish a conversation he had with a chatbot at work - because he was concerned it was 'sentient'. While the tech giant refuted the claim, this has once again raised questions about the future of artificial intelligence."

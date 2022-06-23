@@ -35,6 +35,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
+  - title: "Cerebras breaks record for largest AI models trained on a single device"
+    excerpt: "Cerebras said training AI on a single device can reduce the engineering time to run large NLP models from months to minutes."
+    publishedDateTime: 2022-06-23T08:34:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/cerebras-ai-model-trained-single-device"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/RRL_9923.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "J8W1ki5gVQWGgOOetDSqBZmopTCELZKBothVvZ3rRR9ckvhuMStpDcBl+UII1o1ylfSAFSKM3qdS+J/QuuF2iUPWR4QwgI8GhSpitLalvtDZXiDunrIMXqfOFVJsO6ysyTTNNCHzvUn1vhPSp73Eg3Par3mg3B+DnADZD8Lp05hPaSezDkz1f7+MFARVKPM4OAhpLOvWhWNTaLiIXHtUZ8LdzqCvNY8Ty+wdMjzSRYF22PEoX1/YHaAhQK3meCKWdvdfRvmWZACd6PgAp4+JEuFzMcyJ58ui378xxwkYooxXGRM0BfsNx8TR+21b9wH1fSeiYYEcmpL07d3SoWCzzdlNrcuX3KvMAJU49Bq8YWGq3V2e3Z5JpwP1MAQwbBBvGuVl8pr5I1coX5GV9k7yDlVbaHHQauDeKm5Je31DKJOY+RTemF6rS9mAycqg0A8Leh1CnCDoGXUh4xAK86aC2oTJ+sApGCaKWgNkz+pQgXAln4yrL+Xs9SaMfSvXYpmu8X9C/tWrDv/zq984qYPV8w==;RQ0WmE4rJ1hT6puWo2MkDg=="
 ---
