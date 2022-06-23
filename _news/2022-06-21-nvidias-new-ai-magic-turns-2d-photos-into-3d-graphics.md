@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-i
 webUrl: "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://www.eeworldonline.com/wp-content/uploads/2022/06/elma-6-17-22.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Crazy AI model from NVIDIA sculpts 3D model just from a 2D image"
+    excerpt: "We all know AI is going to be the main force of decision-making and automation in the future and one of the main driving forces in the industry is none other than NVIDIA with their use of deep learning models already being used in games,"
+    publishedDateTime: 2022-06-23T03:30:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-3d-moma/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/06/NVIDIA-3D-MoMa-Featured.jpg"
+        width: 1280
+        height: 680
         isCached: true
   - title: "Nvidia’s 3D MoMa creates 3D objects from 2D sources"
     excerpt: "D MoMa, a new rendering technique from Nvidia, creates 3D objects, including a mesh, material, and lighting, from 2D images."

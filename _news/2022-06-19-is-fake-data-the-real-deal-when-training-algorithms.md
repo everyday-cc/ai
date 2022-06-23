@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/18/is-fake-data-the-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/18/is-fake-data-the-real-deal-when-training-algorithms"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Is ‘fake data’ the real deal when training algorithms?"
-    excerpt: "The use of synthetic data is a cost‑effective way to teach AI about human responses. But can it help eliminate bias and make self‑driving cars safer?"
-    publishedDateTime: 2022-06-18T12:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/18/is-fake-data-the-real-deal-when-training-algorithms"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 19
 
 secured: "Mjg3/E/oIF20hSzYy3TnoP/AYGaJTa6USlDP4raww7kF5VSb5bk/GhGD1k5chH7zsNQBf51/nILrRgz9ZSNls5tw0CZavywm8fOBtcXQ0ZfcOu3TWIlvPeXRfq9Ep9OxXlchfAnfQ1/hDwJcsoF+hiSuSQ3jJst8tUPgtEFIsgVRhvErTIGx2x7yoerl9DM411OIWLmTbEKfCPXec5v/7anqtYY3PsFspdffar5gslVNojapRawe4NiMbTRYcDHbX/LIlwV7v2SCxFvAXBluUEqKOUTniGRBkHaly4GLDAhDqmbt4Fz4i7TY+QyBjAacG1nDy+CuAbGL0hA+sqc5x+rgMLee5lafVrga1L6OrEM=;U+SUPX1pU4FuCc4ApIr/WA=="
 ---

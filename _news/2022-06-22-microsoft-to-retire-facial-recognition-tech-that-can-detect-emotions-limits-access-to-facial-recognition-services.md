@@ -307,15 +307,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft and Meta join Google in using AI to help run their data centers"
-    excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
-    publishedDateTime: 2022-06-18T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 63
   - title: "GitHub Copilot, Microsoft's AI pair-programming service, is generally available"
     excerpt: "The pair-programming service is available for $10 per user per month or $100 per user per year. There are a couple of free options too."
     publishedDateTime: 2022-06-22T12:19:00Z

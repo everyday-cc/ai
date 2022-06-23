@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-e2b8f650
 webUrl: "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
+    excerpt: "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS"
+    publishedDateTime: 2022-06-22T18:44:00Z
+    webUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+    ampWebUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 76
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Panasas has become an MLCommons collaborator to develop a machine learning storage benchmark"
     excerpt: "HPC storage supplier Panasas is working with MLCommons on how best to measure machine learning (ML) storage performance, develop an ML storage benchmark, and help develop a next generation of storage systems for ML."
     publishedDateTime: 2022-06-22T15:54:00Z

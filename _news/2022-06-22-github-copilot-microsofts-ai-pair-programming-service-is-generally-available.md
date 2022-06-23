@@ -310,15 +310,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft and Meta join Google in using AI to help run their data centers"
-    excerpt: "Data centers, which drive the apps, websites, and services that billions of people use every day, can be hazardous places for the workers that build and maintain them. Workers sometimes have to service a data center’s electrical equipment while it’s being energized."
-    publishedDateTime: 2022-06-18T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 63
   - title: "Microsoft is putting a stop to its sketchy AI emotion recognition"
     excerpt: "Facial recognition is a hot-button topic and Microsoft is now pivoting its AI projects by ending its emotion recognition technology. Microsoft is currently working on improving its ethics policies. Part of that update includes a new version of its Responsible AI Standards."
     publishedDateTime: 2022-06-22T14:52:00Z

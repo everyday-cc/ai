@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/news/the-feed/article/humans-love-fictional
 webUrl: "https://www.sbs.com.au/news/the-feed/article/humans-love-fictional-stories-on-ai-becoming-conscious-could-it-become-a-reality/vh903l2tj"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "LaMDA: The chatbot that a Google engineer says has become sentient"
+    excerpt: "Google engineer Blake Lemoine said that the AI chatbot LaMDA has become sentient. He was sent on paid administrative leave."
+    publishedDateTime: 2022-06-23T04:30:00Z
+    webUrl: "https://www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/"
+    ampWebUrl: "https://www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/amp/"
+    cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/amp/"
+    type: article
+    provider:
+      name: Prestige Online
+      domain: prestigeonline.com
+    quality: 44
+    images:
+      - url: "https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/06/17162036/pexels-tara-winstead-8386440-2.jpeg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Google sidelines engineer who claims Its AI is sentient"
+    excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company's most advanced technology. Blake Lemoine,"
+    publishedDateTime: 2022-06-21T05:13:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2022/jun/20/google-sidelines-engineer-who-claims-its-ai-is/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201668885_google-bg-5dae7724-f9e9-11eb-943a-c5cf30d50e6a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 398
+        isCached: true
 
 secured: "T8nLfS/rdKjDOlvlYbPSLSKe+8Cw2ahlpVgcDM3+2Cho+hti3FKboS/Gv8wzHc93cdYyXGE/NUhvPKnmgXPEDAcO1FWo4E8BYWssNHjqEaoOHgBR2bcMZUsFN/8dOZt2KkRTQuaBhu9dibdPa02Eyc99FhTAzPlIKHqBDcdgaWsBBglowy0xAKyacUMKIT8ORhquOAP1v8ENIcts1rHvWOVz3sIgX5gG4wpsXmQHk0jfNiSSiczYj8TlgvCeRFckkiHoS7PFoFteGOA6YSPspwZh5N9272TrloLFOF5uy7HihEBoTcDpvc4TyKO3JHTaavoGUoaj4HAdiFnZ5uTZfyAVJE6BN+q8A81K0yGvmKs=;qCiNuFIqEgBvXyllPbdzAg=="
 ---

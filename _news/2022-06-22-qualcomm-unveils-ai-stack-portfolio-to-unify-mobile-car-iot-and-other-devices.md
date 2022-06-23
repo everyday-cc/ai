@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Qualcomm announces unified ‘full stack’ approach to AI software"
+    excerpt: "Qualcomm Inc. today unveiled its new Qualcomm AI Stack portfolio, which it says brings a unified software approach to creating artificial intelligence applications across its products. Qualcomm AI Stack is said to combine and improve upon the company’s existing AI offerings by providing a more comprehensive AI solution for original equipment manufacturers and developers."
+    publishedDateTime: 2022-06-23T01:21:00Z
+    webUrl: "https://siliconangle.com/2022/06/22/qualcomm-announces-unified-full-stack-approach-ai-software/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/qualcomm-ai-stack.png"
+        width: 634
+        height: 354
+        isCached: true
   - title: "Qualcomm AI Stack Arrives To Unleash A New Era Of Intelligence From The Cloud To The Edge"
     excerpt: "AI Stack enables a developer to build a framework for one type of device or platform, and then have the freedom to more easily move across virtually of Qualcomm's products and tiers using a singular AI software package."
     publishedDateTime: 2022-06-22T15:29:00Z

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Perimeter Medical Imaging AI Appoints Artificial Intelligence Leader Anantha Kancherla to Board of Directors"
-excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF)(FSE:4PC) (\"Perimeter\" or the \"Company\"), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
-publishedDateTime: 2022-06-22T12:46:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-/2022/06/22/9626418.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-/2022/06/22/9626418.htm"
+excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF)(FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
+publishedDateTime: 2022-06-22T12:32:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-health-clinical-trials-artificial-intelligence-a98225f35ac44fa3954af1afce53913e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-health-clinical-trials-artificial-intelligence-a98225f35ac44fa3954af1afce53913e"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "WM6+3htvn/545Dcc0wJIhC0gkp9Cwxp6XhmZXm4ct7xtzUf9co+t+Kg8f8Gb8/QjHV7XLnzhgXq9TgFuN/x/3467FB+VA8zUDQ71HOhEyzAWB2FJ1lCOI4zb6/5XOp2ELAVLlcg1fo2Z2lGMS/aocVsgzin5DmNzkqs4NXGwELxZ1aEQ9z4LbErnXZHlw/8wbQ6ft/JFjQXghXEr/GsGAR5pzxxs8k3FC6QNnVojDGR0wYDU2kozLgsBVYlIwYldSiiCfmxIFXx22RvHeVpVW6Q8XnRW+/OZuzfcjSJD6uCy6bGOBYkzxO5TXnzUT/Mo0z2H4Ct9LX70BW8Per8zE8+7Kx1RF003HqMB+o+pVNQ=;XwdgRwNHeA6dWlnJkxCgyQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "pHGN/dKeUDX2yFbFWRR8R9PxBfwFuH0gQHCsY6t7torl66zYB4/lwQON/58RJ9nQ3cE6jPVFj0mO/Rc+JCMwKXUN01fr7zc98rFMBjVG5c5TatkqHcfMRs3VMUo5WSvRJoIPGqpDU3Z8SD1nfMyFOIAS8XLT/lA4PwTDqYnfHojyXHUmJo+9UQbbFhW0vqsdpG4Ggo5uxMJPtCG7OwC8C0z2TDW9HTWRFpjsWx09Tsxf4gnmGWjUOQe9WVx18aqTGoK8FbN8GkmqFE5l/yjqdBgJNTx+WEdWew/MhcxdlqRjynG+BsFwr/7FVfFrejp26U3N9qHfsgYcHGxc3hjjM1wItF/ts68+Qh028o/V57U=;xXWt6j+NiDw6ucRKm+EQUw=="
 ---
 

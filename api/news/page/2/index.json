@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-22-github-copilot-ai-coding-assistant-is-now-generally-available.md",
+      "title": "GitHub Copilot AI coding assistant is now generally available",
+      "excerpt": "Copilot is available via subscription for commercial developers, free to students and maintainers of popular open source projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html",
+      "originalUrl": "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/robot_workforce_workers_artificial_intelligence_ai_thinkstock_905028734-100749936-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html",
+      "publishedDateTime": "2022-06-21T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-this-ukrainian-deeptech-startup-has-trained-an-ai-to-paint-war-art.md",
+      "title": "This Ukrainian deeptech startup has trained an AI to paint war art",
+      "excerpt": "A Ukrainian deeptech startup is launching a charity NFT project to sell AI-generated artworks with the twin goal of raising money to support people affected by Russia’s war of aggression and also — it hopes — keep attention locked on the conflict as it approaches its fourth month,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/",
+      "originalUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/7.2.25.jpg?w=680",
+          "width": 680,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/",
+      "publishedDateTime": "2022-06-21T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-blacksky-awarded-five-year-joint-artificial-intelligence-center-contract-for-ai-data-readiness.md",
       "title": "BlackSky Awarded Five-Year Joint Artificial Intelligence Center Contract for AI Data Readiness",
       "excerpt": "HERNDON, Va.–(BUSINESS WIRE)–$BKSY #artificialintelligence–BlackSky Technologies Inc. (NYSE: BKSY) was awarded a basic order agreement from the Joint Artificial Intelligence Center (JAIC) to create and optimize data sets for use in DoD AI models and ...",
@@ -243,7 +345,7 @@
       "originalUrl": "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1086,109 +1188,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/",
       "publishedDateTime": "2022-06-20T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes.md",
-      "title": "Responsible AI in healthcare: Addressing biases and equitable outcomes",
-      "excerpt": "So what does that look like? A call to fight bias with the help of algorithms Let’s start by talking about when AI fails and when AI succeeds at organizations overall. MIT and Boston ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/",
-      "originalUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/",
-      "publishedDateTime": "2022-06-20T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-coatue-adds-atlassian-cto-as-new-partner-investing-in-ai.md",
-      "title": "Coatue Adds Atlassian CTO As New Partner Investing In AI",
-      "excerpt": "Prior to his six year stint at Atlassian, Sri Viswanath accumulated operating experience at Groupon, ... [+] VMware and the Marc Andreessen-founded startup Ning. Coatue is growing its venture investing bench at a time when the market downturn has put ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2022/06/19/coatue-hires-coatue-cto-sri-viswanath-ai-partner/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2022/06/19/coatue-hires-coatue-cto-sri-viswanath-ai-partner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62afbf15c4c5dc1c8449c824/0x0.jpg?format=jpg&crop=4029,2687,x0,y158,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2022/06/19/coatue-hires-coatue-cto-sri-viswanath-ai-partner/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2022/06/19/coatue-hires-coatue-cto-sri-viswanath-ai-partner/amp/",
-      "publishedDateTime": "2022-06-20T10:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

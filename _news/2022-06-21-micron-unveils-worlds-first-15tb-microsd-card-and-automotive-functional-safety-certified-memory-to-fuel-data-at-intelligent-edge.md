@@ -60,6 +60,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Micron Launches World’s First 1.5TB MicroSD Card"
+    excerpt: "Micron has announced the world’s highest-capacity microSD card, the i400 1.5 terabyte card. The company announced the groundbreaking storage technology at the Embedded World conference in German yesterday,"
+    publishedDateTime: 2022-06-23T04:15:00Z
+    webUrl: "https://www.channelnews.com.au/micron-launches-worlds-first-1-5tb-microsd-card/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 24
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/06/micron.png"
+        width: 1749
+        height: 1213
+        isCached: true
 
 secured: "jpS0fDOJCvzkXUAUL0ysyr0F6CpS3DqZjHwQTLhu9M+7sZjVikCGlBVzwmjP5PeispW0efd2wiCe/Xg7MGpThF4h1I1JBaZAESWslnp/gi7FogdYou1J7huE3j3nrvuQfBL1aD80aBGtLuHkWx+H+QT6qVmBUAhX1EFXK5zdoBur5jVnplhg0uHAe0oIfu2S3UFuO48Agc0bjWjRaPARb6H/TQPZGZ2tgE8ZOfu8RL65Ez52229Rtou6D68QJSyL4tfQ9nrFLqEeXQ4dsd/EfuDKJjWtbCsdOpokbe38YHt8ZgSEcTEEZraJxnpzYisctXu517wZpGdPBONFoLxNOCt9K7f6DZOt0s3NmMD+3IU=;OdciMBBpZ/A3UCV44Q75ng=="
 ---

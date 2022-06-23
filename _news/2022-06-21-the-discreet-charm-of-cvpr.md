@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "OPPO has 7 papers selected and wins 8 challenges at CVPR 2022"
+    excerpt: "Seven papers submitted by OPPO were selected for presentation at the 2022 Computer Vision and Pattern Recognition Conference, breaking a new record for the company. The selected papers cover OPPO’s various R&D breakthroughs in a range of artificial intelligence disciplines OPPO received a total of eight prizes in the CVPR challenges,"
+    publishedDateTime: 2022-06-23T01:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-artificial-intelligence-a1310045125a7ea81bcea7f5c38918f8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "c0JUW7boqfF5wK2XpbRWNTYx7SfZpT/BVSLFlr8ni9LZ6j65VGBy/RcuvTN9hYalsWk7SaDIwKbHIGJqVuJFvzvhyF0BLA5IKFvB4tt5537xMEo9S/LJaJu5GOZF9FbkMIH005SQAV4CZ1epvAmzPAGHFrAkO3X1+lM+m2StG9YGLnDunMHznHFVW1gBB6jGyjAcafbclRofHLWYKkk616YBbwQjv5TDKHDKn/D15wEG0ruHljRxFWb7SPNFgEtPCizxsghYTdGq6DTtTmSwWufe0puIRQQuim5oHXOy6MHiyL2LVKSHEhH7whZtb0GW8vgSMwdDX6MTHTLjEvEZJI6462EjosltPoAGULkcQrE=;TwGD6H8avWT8NfXm81d3GQ=="
 ---
 
