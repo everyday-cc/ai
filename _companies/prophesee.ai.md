@@ -2,7 +2,7 @@
 name: "Prophesee"
 overview: "Prophesee (formerly Chronocam) is the inventor of the world’s most advanced neuromorphic vision systems"
 type: "profile"
-heat: 161
+heat: 130
 
 website: http://www.prophesee.ai/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=L7DsXXUyRis"
 
-secured: "aK7N4cfq6quQ3JVaZj8HX1OYEIUQRtiXixERcuN9R5QPKhMzlLb99Gd102lMSUOYxjy6X+SJG2nwx/lD4fXYVN2snYWCImk86fULLkNW74jBg3wyWT9GAGG8QYpWxH/Kdas0lQfv9vw/1kJ6fyvmZudbwFyprULBdNdGuURxUzAm9JY8k2zIjI9WSvIY8Xc2B69I0PrN5uVDCQ5zMWHbGLElZPdx5EL6kcdt6noei8afUMvPLPqcIhSfyFu4C/wzplcNJgsSU2BH9yiI1Weg41LP78TuZ8ZrjqOcfF9RH+7rdngeKfZcPgQlARCKevy16eHx4nZRgSGLrQ1UQyRWfqw4wQA0Kza50Et74NzpiTLl3Nmh4TX27v1Sm0D3uOvky86fWaqwvJMFh3axTabti+xKgR1QXh9EvE65bxiHuXM=;/SQuzM06T0MeMh65w+UBvg=="
+secured: "45r+iwZzH1slQtinLPDFXTk8SWlabG4UyCgYmLAsLmoBCqcgeq4iQuqYTlCLHnzyMn05nCZ2duXbkgiwgNyQenWw/PtXMwhcvSzfwe9gUWxFhF5tqnD9ClAv6l/FJpBRGx2UFe77VpomnZkns/8H2yitz6QJk0z2LWW/gR8PgSkyjUOGrHmTdWWKjlT1LBYUmuJB34wGAhYYZqcRobgav4XDat2AQstVmsghrrOpgvEM3P/Lt26up902JNJFbKEuXVVMDDS0pX2dXcGDRMT3PqSTSw+vFA9pgnSgzIOw3y2a0qONDst5CYZFI3Q79awt96h/cH0BPNEkNUywRbcH+whl6ef1d5X3jCv5RIpeQfVjegduL0ZHGpZVa0oC/ZtBoPBLQnevmt2YLeJ/3uHZMvllQUzkc231n9QRh6Ogf4M=;/LciFznr5KG4dSbsCbby3g=="
 ---
 

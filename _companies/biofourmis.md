@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 58
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "WpGnKFVQF0g7erGrS63tJEJRqQrd1YUIBEJKSJVaHn43Pes2TVzhqcvOr1/Vt4K8WsALeD/N2fxYYo+C7gpJcUAQtx2bm5wF2kJVxzYuCpLhltwNA2DTeNluX+dwmmxNYp0JZdxptbbQu1PaPpCjbNQaLEHpyOcWOeCd3YMbhU1+kStYR3cMG3KAKvyJ5w0pxlH96MtouBQtElgzkzwE3zmv0R0qNkDk+Zqbk006+2UJQS0eUEUulCdFtR9uO9JemNH7ejcs4zOm99FQIprlcM9s2Q7QgWmo2IXS6lUaul/6giEFYxbj1jL8TmkTAi+B8v+FGzaVFc4MuR8fdOBgxLNlynELNazrL4FW4s3xCa9c0sloCnC/QjRHnXe4oPKNCu27LQh7MKcYlwXReSysxDGdR2RdswtnVJJvCR3k9Lg=;sNmwP/zzpbxhYC6OAMveAw=="
+secured: "GKnTpxEdOgBUygPsj0eXflMBR/zCjSne8yPi61VgNBcRoo2zOA/jyBQijoJv0UReqO3Gzdumd03ZN3NwNlP9DhdQdKcl7XQDKb0YGFTo1kYbjFL08xNFIN9uVZUDv41qIlvEQMF4uTxCs61fIeKh5VDghd6D8e5aFmjuPW4ihc+ZzF7jEXBPbVidWTHcgywvNaNgOszGzt1nZZssHScSJda9TG/EgZCWFzXLYVnlANAWk2zUYcy0vuvuQY4PRWAPj6HFzY0mZPZ9bcr1h2hUYU31ZBjwaO5M/ljqEspcSIV2NVePtShVVHlYtbeYw0s6wRj9SLf+P/WI0iTeM4aIE47G9kZbNniBMQmYKu2L+1eMkL7nFabQFh3j+PJneRgHk6OzoMxUrJuWWUMrZ5b4PquOAA6Sb5O3nKvDIiKkwYU=;1PF0wlRICACRSb0rR7pfbA=="
 ---
 
