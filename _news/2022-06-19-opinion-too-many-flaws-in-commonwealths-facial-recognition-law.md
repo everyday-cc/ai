@@ -3,23 +3,24 @@ category: news
 title: "Opinion: Too many flaws in commonwealth’s facial recognition law"
 excerpt: "Virginia’s new law does not adequately address the risks facial recognition poses, Georgetown Law's Jameson Spivack writes in a guest column."
 publishedDateTime: 2022-06-18T22:05:00Z
-originalUrl: "https://www.pilotonline.com/opinion/columns/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html"
-webUrl: "https://www.pilotonline.com/opinion/columns/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html"
+originalUrl: "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html"
+webUrl: "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Virginian-Pilot
-  domain: pilotonline.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://www.pilotonline.com/resizer/aqlo7BFfe8I2VRn2WP7gYdR2q88=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
+  - url: "https://www.dailypress.com/resizer/aqlo7BFfe8I2VRn2WP7gYdR2q88=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -49,6 +50,6 @@ related:
       domain: indiatimes.com
     quality: 19
 
-secured: "e/WYhulF+SjCVJdd1iErmmPvFV31TTFBxxq/70IcpD4mjLUikZTHuTtBDs+RXhJwEWEH0ZUVTqOGEgZspIGPxErucFr/CIqUIjRLhDWmGYlK8KKMrjLkjzf0TVjLFsfdsHUd3b7bFY9JLx1Vl9zJLGITr9VaYE3ci5vRX5moOImmG0ZQFOHkP2Ya4tAOOwhVQ365C63FLkUXrRZo8s1ySQWB74Ea7MQ9u2gmPeHYbj4L8aBTHkFKfALIIFGtC1Km2QzG7QuR9Z6UbXjGqnova7YSPB/sA+cd0nSeAz44v6DP9c1lN6xbhCGo+nnABpVGZ2/8VNg/wH+PweXKUH1q9x18oFcj+Eg6C23u2o5qrbaLcibFEUZzfx+j3faWfNZWk0e+h32WEz4H++hDyHqsyAYkunG1kq3zlBc7Zfk/JtQ0ScX8rCTUPG+UEnQArJ/Y0sJZ9Ky0bliWm2V8gtVx7nC5mG8PZYHM0r/SX/QVp50n9bHCN3u8bie8JGMU5Olqg0iSWWcAvCwuKPbA5ar5bA==;ZVHs52FZy3gfi+Vtls2XwA=="
+secured: "VF9uvkluk5RHeDPeRyz8yQsaB669gMNhGFoCeLsjUDPvSXEjjB3xZgBDO3XLQS+q+GELbKBylWefdiXzooUCDN0I4Zbki/7G+oE75RVlCyiToypcHtJRgbeEKePwyWsw4d9wSfH329+LxRfF9Tnh01PwgfoRwDWA9jKLQxrLWDCM4V6zKJWjt6mDkupLmBACGgn6a5qWOWkrWFwSFWFxKnknZwbl7rAPMoxj/6rr0JImECqsY/QvY/qXoleX7JUzfLGMMZ6i2Pn1mlmLS2k50bZk7uJNXGEvjaE5yDZcn3xZv77MpGifai2/BZ/810zAr7Z109KP8y1wC3za53L3A5q6mHcElHhiTxEKTktNbhc=;ZcvTFI08VkLhRXw7Hcg4Fg=="
 ---
 

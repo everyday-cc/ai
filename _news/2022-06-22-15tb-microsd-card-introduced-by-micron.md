@@ -36,6 +36,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 54
+  - title: "Micron Unveils The World’s First 1.5 TB microSD Card"
+    excerpt: "Micron Technology, Inc. on Tuesday announced the world’s highest-capacity microSD card with an extraordinary density of 1.5 terabytes (TB) at the Embedded"
+    publishedDateTime: 2022-06-23T11:16:00Z
+    webUrl: "https://www.techworm.net/2022/06/micron-worlds-first-1-5-tb-microsd-card.html"
+    ampWebUrl: "https://www.techworm.net/2022/06/micron-worlds-first-1-5-tb-microsd-card.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/06/micron-worlds-first-1-5-tb-microsd-card.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 44
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/06/micron-1.5tb-sd.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Micron introduces the first 1.5 TB microSD card"
     excerpt: "such as object detection and classification like license plate or facial recognition.” Micron says the cards should also be long-lived: you should be able to record video continuously 24-hours a ..."
     publishedDateTime: 2022-06-21T16:39:00Z
@@ -64,6 +80,15 @@ related:
         width: 1749
         height: 1213
         isCached: true
+  - title: "Micron unveils 1.5TB microSD card"
+    excerpt: "Micron has revealed what it says is the world’s first 1.5TB microSD card. It announced the new i400 microSD at the Embedded World 2022 conference in Nuremberg, Germany, Gizmodo reported. Micron’s i400 microSD card has no release date or pricing details yet."
+    publishedDateTime: 2022-06-23T11:37:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/450062-micron-unveils-1-5tb-microsd-card.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 4
   - title: "Micron Unveils World's First 1.5TB microSD Card and Automotive Functional Safety-Certified Memory to Fuel Data at Intelligent Edge"
     excerpt: "Embedded World – Micron Technology, Inc. (NASDAQ:MU), today announced expansions to its embedded product portfolio and ecosystem partnerships to deliver powerful"
     publishedDateTime: 2022-06-21T06:00:00Z

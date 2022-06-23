@@ -32,6 +32,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 54
+  - title: "Micron Unveils The World’s First 1.5 TB microSD Card"
+    excerpt: "Micron Technology, Inc. on Tuesday announced the world’s highest-capacity microSD card with an extraordinary density of 1.5 terabytes (TB) at the Embedded"
+    publishedDateTime: 2022-06-23T11:16:00Z
+    webUrl: "https://www.techworm.net/2022/06/micron-worlds-first-1-5-tb-microsd-card.html"
+    ampWebUrl: "https://www.techworm.net/2022/06/micron-worlds-first-1-5-tb-microsd-card.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/06/micron-worlds-first-1-5-tb-microsd-card.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 44
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/06/micron-1.5tb-sd.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Micron introduces the first 1.5 TB microSD card"
     excerpt: "such as object detection and classification like license plate or facial recognition.” Micron says the cards should also be long-lived: you should be able to record video continuously 24-hours a ..."
     publishedDateTime: 2022-06-21T16:39:00Z
@@ -74,6 +90,15 @@ related:
         width: 1749
         height: 1213
         isCached: true
+  - title: "Micron unveils 1.5TB microSD card"
+    excerpt: "Micron has revealed what it says is the world’s first 1.5TB microSD card. It announced the new i400 microSD at the Embedded World 2022 conference in Nuremberg, Germany, Gizmodo reported. Micron’s i400 microSD card has no release date or pricing details yet."
+    publishedDateTime: 2022-06-23T11:37:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/450062-micron-unveils-1-5tb-microsd-card.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 4
 
 secured: "jpS0fDOJCvzkXUAUL0ysyr0F6CpS3DqZjHwQTLhu9M+7sZjVikCGlBVzwmjP5PeispW0efd2wiCe/Xg7MGpThF4h1I1JBaZAESWslnp/gi7FogdYou1J7huE3j3nrvuQfBL1aD80aBGtLuHkWx+H+QT6qVmBUAhX1EFXK5zdoBur5jVnplhg0uHAe0oIfu2S3UFuO48Agc0bjWjRaPARb6H/TQPZGZ2tgE8ZOfu8RL65Ez52229Rtou6D68QJSyL4tfQ9nrFLqEeXQ4dsd/EfuDKJjWtbCsdOpokbe38YHt8ZgSEcTEEZraJxnpzYisctXu517wZpGdPBONFoLxNOCt9K7f6DZOt0s3NmMD+3IU=;OdciMBBpZ/A3UCV44Q75ng=="
 ---

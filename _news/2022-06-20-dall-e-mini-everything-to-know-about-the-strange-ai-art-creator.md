@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art"
-    excerpt: "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues"
-    publishedDateTime: 2022-06-18T19:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 72
-    images:
-      - url: "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "K1DU/jSg55Bk72feqwKOWlmlkxyUmOnQWRNMyM/Xnrbn4v44mF6h/AioYBlNWYFvKsiKV1ExTqw2aNTB5peu6u9vihW7cADMlHT6eVktQK9XPLzIFnO4CdTKdEZMoLqYQeM0s7fNvE8L7c/GjBlzWKw8cbSxeFkYnlz6Y9M3f5n+t4anC3OOP1ufyaLNO63p+Ps/CYlw3Ufen+YOomcYW97kKaSLiRz06bcMYJN4K+j1CL+OD1yx+SwSMR/Vpm3LCfALHupBjIQkYQe5s3KwqGvTCbAZHrFHxtbItQCfYJK4VDCPqkFhHuiNVHP54SXP1XiNdALbBimL2RF4cigd7dXC9l96r0uAnoq6Ij9QbQw+fW1hp742trBjb02JvTX12AV6UcrWCTEPvcFaGXOL8/iD3lXc5ltQy1YgE1j2ijLoijpqY/oJjJ+dzfTofjUMPOBg1N3DckwfqgmWJjRa8vkhfarLG8nqF8sDpT0vNoF+Mvc0Yu56Fp9i7WDRz/HF4hCTHjFy4jm6Ku7Nl5w/yw==;lKNksJV26UUtxwkzk2oNWw=="

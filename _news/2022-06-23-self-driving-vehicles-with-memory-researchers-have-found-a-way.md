@@ -8,8 +8,8 @@ webUrl: "https://interestingengineering.com/self-driving-vehicles-with-memory"
 ampWebUrl: "https://amp.interestingengineering.com/self-driving-vehicles-with-memory"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/self-driving-vehicles-with-memory"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Azwk84yyOb/sizes/autonomous-driving_resize_md.jpg"
@@ -26,6 +27,6 @@ images:
     height: 419
     isCached: true
 
-secured: "8A2/WqZmlWLK9vAU/0Gzyu38EJys/0DIiajlMIj2PaGd4YbwlkTKFGqvxLRQ7bkAIwymFHijpEp+tqvsiymTw/qRssskl9LI+QWWWT9UZ7hk4q/C2GDAnnmOdb7C4BNoE36EjQS136fxNTjROr1Z67C2pCn67yoiJZKxjD9d6EhgCUtZhC6UzJdGXd3oZ7FIq0qLPMm76R9NLESxAmxbPB9Q8xAmdLLBHp+km7uga5bhinxG3/Z+nihY8RClM7lEbmV9PJWTzOY2EBm7WbcWPEvCGG45C3oif0gsUdizcnSiwHy8QJqLvcsDvs+cojafChNOuXnWROfksvjKn7prI0OEaNBgiC5FrZ2yqHRdL9k=;p/v5FEUUvk0fNAB/zdWInA=="
+secured: "5Wp6ZtuWJTvOCEADCZJGkg73P7cbfQhg+QKGzW8CVg4VHDqSZY+T2FyCCv3kno7L7QQf9vAq6b4ushzZueNB+tmKZAVvX016FGbZD9adCAikZie3QsqYlkTynfa63mN0Oj021Y8GxQoONOCnlJYDapASO7mZxTkQK+Q90evNBoIHh2wea7IlISS7Tz/7Zi2IU5XD8Ph5QAd+DIN9CNV4YNllGSubevsjivhZgTfvUb5OQUnqHsYN0q9kUDjBzscT/Muyv6ZHlfgDTMuWMgX6PtiA6z+CaiNNQPGpQuAFC3gn8IFC740Y2O/60gHJ5or3SMBJIU6yVPeY0q8AZWleke3GZTA9omKTC7O/Bz9gzfAhNYDn30V4uhr9S/HpSVHDPNvrXahKttYq8HF9yfFz5NYKFtta95d8+Q8xTa4wWdGsx9KbcRXzubHUZqlzOBHklvBujqUlWVu3V+TDZrg+lPDl9gPRuhqpgn2mBVbhQVvSM3w4DtbkRxokuW4ilc2a/FiuxY/CFWvpt2C1CT+xfQ==;R4LlPB3YKcoWf/s157VK5A=="
 ---
 

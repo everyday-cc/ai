@@ -26,22 +26,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Swiss-Singapore partnership vital to driving innovation and sustainable fintech: Heng Swee Keat"
-    excerpt: "Singapore will set up an environmental, social and corporate governance (ESG) Impact Hub to strengthen collaboration and fuel the fast-growing sustainability ecosystem. Read more at straitstimes.com."
-    publishedDateTime: 2022-06-22T07:15:00Z
-    webUrl: "https://www.straitstimes.com/business/economy/swiss-singapore-partnership-vital-to-driving-innovation-and-sustainable-fintech-heng-swee-keat"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 27
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/22/AK_sgsl_220622.jpg?VersionId=YmHgJnfZpVFEzlR1K29VhIZH5Wl4RKiI"
-        width: 860
-        height: 573
-        isCached: true
-
 secured: "4jAbTh49ubGTpqwq2uKd4xrbRmoz/kLP8ymShAsYgfrbEPBpG8QlOcFBovOI+0nwZiya+wmHKlQqGDBXBaXRZzDKAjKa2j+ZBW+IlYyLPzJJ+0io4FcrGHCb3U33Y+/jFYHgyLUdjflg8sgmdORlr0CR7tpFdPao38M3Wmx/tbf+Yy7+9mM/QSGEps5bEWb4aHiuivkXx+0BOUoJOiX02SBKqE+62O0JPwnwjOA1s4Gqv67AlaNyNOw2l8go/7BH3fh5KlP6k4qImePyVJULIs8Gqqfo8Nc7UeyQuV3WQl9M6mrTOtLdNcO8FDVI+hI6WZ9IxfoH/We/DFuhFBCz85E/0MPb7VnrynxPBQMpkGVuncfkIR0Y/SasZIqytzBsWqrdK9A8rCmgehs3ooDkVR9/f++j9A0axqjebCqq+LAN+OFL1V6afs3tf0EuW9LVlRdhabTlKdfNpdspc2G7PlSstLD4ZBwRInZyvNznBX2mG3y61QrLIkDBXFkqwpY1YBnMQyOEvG3LFEV7EAKEQA==;EQlzgOeL2T6DeLBFZkB+jQ=="
 ---
 

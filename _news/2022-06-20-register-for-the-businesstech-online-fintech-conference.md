@@ -53,6 +53,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "What industry-driven fintech skills are a need of the hour for aspirants"
+    excerpt: "FinTech is a phenomenon that has been speeding the pace of change at a remarkable rate and redefining the industry’s status quo at the convergence of business and innovation. It’s hard to envision a"
+    publishedDateTime: 2022-06-23T10:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/what-industry-driven-fintech-skills-are-a-need-of-the-hour-for-aspirants/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/what-industry-driven-fintech-skills-are-a-need-of-the-hour-for-aspirants/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/what-industry-driven-fintech-skills-are-a-need-of-the-hour-for-aspirants/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-2-6.png"
+        width: 283
+        height: 242
+        isCached: true
   - title: "Why Machine Learning has huge potential in Fintech"
     excerpt: "Aaron Holmes, CEO and Founder of Kani Payments. He discusses the role of technology in data management within the fintech industry"
     publishedDateTime: 2022-06-19T08:00:00Z

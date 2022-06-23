@@ -393,6 +393,22 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "KPMG and Microsoft join hands to deliver advanced cloud-based tax technologies for c-suits"
+    excerpt: "As part of their multi-billion-dollar global alliance, KPMG and Microsoft are making significant investments to deliver advanced cloud-based tax techn.."
+    publishedDateTime: 2022-06-23T10:01:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92409534,imgsize-10914,width-1200,height-628,overlay-etcio/kpmg-and-microsoft-join-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "KPMG AND MICROSOFT COLLABORATE TO HELP C-SUITES PREDICT TAX OUTCOMES AND SET BUSINESS STRATEGY WITH NEW CLOUD TECHNOLOGIES"
     excerpt: "Investment in new technology creates value for businesses in more than 140 jurisdictions globallyKPMG Digital Gateway, enabled by Microsoft"
     publishedDateTime: 2022-06-21T14:20:00Z

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "DPM Heng on the future of crypto and fintech in S’pore: public-private cooperation is needed"
-    excerpt: "He stressed that regulators and businesses share a common goal in using finance and tech to create value and improve lives. As such, there is no need for the two to take an adversarial approach."
-    publishedDateTime: 2022-06-22T09:49:00Z
-    webUrl: "https://vulcanpost.com/792909/dpm-heng-future-crypto-fintech-singapore/"
-    ampWebUrl: "https://vulcanpost.com/792909/dpm-heng-future-crypto-fintech-singapore/amp/"
-    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/792909/dpm-heng-future-crypto-fintech-singapore/amp/"
+  - title: "Singapore Financial Data Startup To Double Down On Global Expansion After Insignia-Led Funding Round"
+    excerpt: "Bluesheets, a two-year-old Singapore startup that uses AI-powered software to integrate financial data for some of Southeast Asia’s biggest companies, has big plans for international expansion."
+    publishedDateTime: 2022-06-23T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/ralphjennings/2022/06/23/singapore-financial-data-startup-to-double-down-on-global-expansion-after-insignia-led-funding-round/"
     type: article
     provider:
-      name: Vulcan Post
-      domain: vulcanpost.com
-    quality: 33
+      name: Forbes
+      domain: forbes.com
+    quality: 37
     images:
-      - url: "https://cdn01.vulcanpost.com/wp-uploads/2022/06/heng-swee-keat.jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62b3f46d363722e2d3988c80/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "53mWxbxFGEY5eELdeUyVBjcVGve7YTch5niciNYQlnva8BRf59h8KnbvpoKdaTn4WCU9N9d2PBbhDIpj6enCdiEeLEo/UBPsONd84d26Gvdph71af0afajtn+obJB6nxDFmVG+ivhU/TED4K67yRZYiv8VWBPkMQxiC/yXjyN0MdXncr1aM93FfHWuOaDyUBl/yv9yUXICtwD4VK7XjDrXUx6777ycRHgL9zcCeXja1zYLGFpbF+W0B5aLdE+sZ7C7dt+ftr6PBZm59tyCCWr9AN2xPZYamv9PPhr8abMRpeSAzha8ttIhb/sCegZpHuDwm2VWZPdlapk0bl3ztV95xKNSigtLYWd2uC2eGKwmi51gJx02/a/uNsLmAEPW8emOUA/Itcxhxj1G9vy3Skjt6ByPE4OfRG6vkdiBJhFqTPRNSJHF6kL4cH4RfERmycqIIa0Gr8gnG4riLZr2XSclwS/TIuJdJz3T/NBcA0H04s0mzJ45ECUkqqPc0ZSjmSDDhCwvsamNAOPtZtvKt8FQ==;J5yTNeh5f9M0xM3USXp1Sg=="
