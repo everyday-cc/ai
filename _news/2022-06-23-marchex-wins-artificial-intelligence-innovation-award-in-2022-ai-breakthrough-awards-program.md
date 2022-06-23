@@ -1,0 +1,67 @@
+---
+category: news
+title: "Marchex Wins Artificial Intelligence Innovation Award in 2022 AI Breakthrough Awards Program"
+excerpt: "Company’s Conversation Intelligence Selected by Awards Program Honoring Standout AI and Machine Learning Solutions and Companies SEATTLE--(BUSINESS"
+publishedDateTime: 2022-06-23T13:15:00Z
+originalUrl: "https://www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/"
+webUrl: "https://www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/"
+ampWebUrl: "https://www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/amp/"
+type: article
+quality: 63
+heat: 93
+published: true
+
+provider:
+  name: 01Net
+  domain: 01net.it
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
+
+related:
+  - title: "Eigen Technologies Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards Program"
+    excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies NEW YORK & LONDON--(BUSINESS WIRE)--Eigen"
+    publishedDateTime: 2022-06-23T13:14:00Z
+    webUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/"
+    ampWebUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 54
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Arize AI Recognized For MLOps Innovation in 2022 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Arize AI, the leader in machine learning (ML) observability and model performance monitoring, today announced that its Bias Tracing tool has been named \"MLOps Innovation of the Year\" in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-23T15:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/23/9627739.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program. The fifth annual awards program recognizes Skai's innovation in"
+    publishedDateTime: 2022-06-23T14:00:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/23/9627327.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 13
+
+secured: "dPgdZN2nObWMmR0ZbFCL6HEhDCou2VmeZlrzVD6YQRG7lng9MX8CdUSlZbRotl1AbCs98R7Vyt6gi4QeIUPKTOPHWKbBQLTiCafxCS2UP8zTWb7jbtEw4+TKUorC5JsHG17Xc10W/fw7TPW9YVDkQaVlLT6aD2PeORwiuGp6l+fX0OkMo4fdw+J8RLUdXC/wQ30n3CnoNz4lbhCzoLTblwSGXuZkxd/Lp88eD47NrVwYS2hedfYNhv+23iUEsevdH+c3rg+3k46k3/k8Awr8uhBEP+7LJvLluV0dGJ+J5qenaLDzO4t+0tkl230fg0bp700bs4/Fyh9WYeX3XtKnwXYpEOtpoSJrtgu4iE576h4=;+V8/duOW/hdUrySvSlivGw=="
+---
+

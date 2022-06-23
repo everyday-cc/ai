@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Weekly: Microsoft’s new moves in responsible AI"
+    excerpt: "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ..."
+    publishedDateTime: 2022-06-23T16:31:00Z
+    webUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How Microsoft's AI spots ransomware attacks before they even get started"
     excerpt: "According to Microsoft's 365 Defender Research Team, human-operated ransomware campaigns are complex and multi-faceted, which can make early detection very difficult to achieve  e"
     publishedDateTime: 2022-06-22T11:33:00Z
@@ -241,6 +257,22 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/UglyNebulaSmall.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Facial recognition tool that identified emotions to be discontinued by Microsoft"
+    excerpt: "The decision has been taken as part of Microsoft's 'Responsible AI Standard', a framework to guide how it builds AI systems."
+    publishedDateTime: 2022-06-23T16:43:00Z
+    webUrl: "https://www.mid-day.com/technology/article/microsoft-retires-facial-recognition-tool-that-identifies-emotions-23232749"
+    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-retires-facial-recognition-tool-that-identifies-emotions-23232749"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-retires-facial-recognition-tool-that-identifies-emotions-23232749"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 71
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/jun/instagram_d.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft restricts access to controversial AI facial recognition technology"
     excerpt: "Microsoft added that its responsible AI standards don’t stop at facial recognition. It will also apply them to Azure AI’s Custom Neural Voice, a speech-to-text service that’s used to power ..."

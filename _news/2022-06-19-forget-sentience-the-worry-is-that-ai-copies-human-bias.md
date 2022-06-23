@@ -62,21 +62,21 @@ related:
         width: 729
         height: 468
         isCached: true
-  - title: "Sentient? Google LaMDA feels like a typical chat bot"
-    excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document that he had circulated to colleagues in which Lemoine urged Google to consider that one of its deep learning AI programs,"
-    publishedDateTime: 2022-06-19T00:19:00Z
-    webUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+  - title: "How Close Is AI to Becoming Sentient?"
+    excerpt: "Sounds great to me, I’m in. Lemoine: A monk asked Kegon, “How does an enlightened one return to the ordinary world?” Kegon replied, “A broken mirror never reflects again; fallen flowers never go back to the old branches."
+    publishedDateTime: 2022-06-23T17:39:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient?_amp=true"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
     images:
-      - url: "https://www.zdnet.com/a/img/resize/009856ccdcd012e776dba72b3dc1444fa900596c/2022/06/18/faddab42-212e-4d7a-8150-b993f1b05ce4/brain-in-a-jar-crop-for-twitter-new-new.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/5cf20d7/2147483647/strip/true/crop/366x512+0+0/resize/366x512!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F16%2F7687441d4ce0a3b2820b9b0b02e5%2Feric-holdeman-senior-fellow.jpg"
+        width: 366
+        height: 512
         isCached: true
   - title: "Google’s ‘Sentient’ AI Can’t Count in a Minyan, but it Still Raises Ethical Dilemmas"
     excerpt: "In part, the story feeds into current anxieties that AI itself will somehow threaten humankind, and that “thinking” machines will develop wills of their own. But there is also the deep concern that if a machine is sentient,"

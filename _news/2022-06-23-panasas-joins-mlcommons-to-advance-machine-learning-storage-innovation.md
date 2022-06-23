@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
-excerpt: "Panasas announced its collaboration with MLCommons™, to create industry-wide benchmarks for machine learning (ML) storage."
-publishedDateTime: 2022-06-23T09:22:00Z
-originalUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
-webUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
-ampWebUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+excerpt: "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS"
+publishedDateTime: 2022-06-22T18:44:00Z
+originalUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+webUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+ampWebUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
 type: article
-quality: 74
-heat: 94
+quality: 76
+heat: 96
 published: true
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Panasas-Joins-MLCommons-to-Advance-Machine-Learning-Storage-Innovation-01.jpg"
-    width: 700
-    height: 400
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
 related:
@@ -56,6 +57,6 @@ related:
         height: 944
         isCached: true
 
-secured: "Ajj2T+nkRbeSh4cyPt/qnsQRvk3BgSLUW4RFJhB7tWodGno/zGZFiXo+9M3mN/gd1BTdU58j5CTxC63Vi6Xtjg0LBgITM/5rG1XtlJIxwWFU70BAXcPwu0/zP/RYL6/ppk2x85Q3ifuYK7yKIUB8fABK+wbqNMW3J26GDaZL/fSK2HfZMYxKWoQBNxerWD6RaFAK6dl0AabLv6VvX+UEjL5fczWbu31x09FkLB9Bhc6DACC90znAuzR/fZPILXxAIa2mqVL8AVHoSubhlBB3bFL1xoUajcqSBmosTyh4Pa3FPCMaehV5+p1UxbwPHkIlYdTZSih1biUWle66pUuYSzzSkPPVkVNN6AyLTg6p2J4=;Tm0MQ6B5uaq09AJGF9zmOg=="
+secured: "b9EgRaP7iiGLvAufX6rYxvli3F6CxpvneePUN9jsV+PaomsEBBLM+Jm9Xl4tbFcu2uSCDViG5XaH043iZHKd3gRJjK0ycQpqRnYMR7pd2I+MDXWFvSwHiQeKc0RWVyKiCFSQfGiFNXXyIX0+lnIc3eMoIk2fC+3U/BHfgKKnZo9G8NXJ2zs7/ypnIeE28PLag2fAHO6iU0aXf7UxyP6S+MQ+FLLD2OYyCEws/DqxgCUQ5Nrdz2tflkGbNH3K5UTgpm7F37qvwWI2qlm4Zzcr7vUI2PM1FQ/OP9fDzdq/BmIpbjcD7p+064SUm9KeNvJi8dui+6lLzVFlmC26dO1ddJEeSIGAqBc0yO7sdetdK8w=;Cr+hlejOlcZwu7xKYY9NjQ=="
 ---
 

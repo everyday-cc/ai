@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.
 ampWebUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: techxplore
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg"
@@ -41,6 +43,6 @@ related:
         height: 500
         isCached: true
 
-secured: "TQoHBbn0YkMGH43uO4oQZ+mEYBdobzNe8MvwWz3iZ5VkLHyMXGB3S4QLBVvaJuuEVPRMCUfdd9JUsrPcksgSTwTDvQQUgBiQNvuI99/+0hidBlZ+imZnAbYFYix8y9T9W4ArtEA9uyndwVjAsDFE0c/BsWqRaymTEjp/yQ97M6LBP4Q02hvAw9AeXvmVhtvAvBuNjWBSsL6sDOTLCf46ua8lRgebsZE0hXvUuj2DOBAhGfiMN85dEOJx2KlYH5iOhYdZnn6gsgMiiDQC/Ox4KDGuddIqQRLDe07F3zjqmY2MPhIZ1PGGVQYx9V+GbUpy/Dacb/8gGraKyiOoTZtodzbsXYIpWlkYfitmKTW+MCU=;ZFpCHvkbwSUT1nAGBQJdvQ=="
+secured: "LPB06TeiRQH625EpCWoM1o4qWK0tSc6I+CyvLaIij5Z97UK2tuprn6oCutihBeIKzEUZcYYYkWvQ+6hJs5nxwKXDHhyqqyH+u1xPPL2HSWlTMGoeejtBQVEQp68ZQ2yX2rBJT0gUUKzqiWV6FclmMbtWNvf6b4ULKIJh1xzt30IEU7UvNGuktErY3kPyQ7c8NaBLPSkhA2RcFGsPHGytGXfmdn6/nKBTgpP8IncHGMckNPyaRH+GNL4ahVM7Cxg9hWsJHzo9RdUHL9sppj5zBMLP+p0yv2V4Z1zqZ9oQcq5EJI0d5sGZmmkY8VPxXKj6R1QwxcxjAEh0PB1xGeflOdkqSYzbVEn7nIHuOVxdG1y2DnymbZXRkGiq7fvZ/+DV6PcK65bGGH8LxXXmZZ+4fARd7AQ/ySMwZ30OBPQG7jTyXPaypFUh2mf+GeT0zySwDLq4yiPepDWvo+I57PKmQpRpQCO1bPUupLblhxoJuvL0vs3NHX1fDrDSVygFduqedQ2BMTS76xfpIjaTT4K6gQ==;b0UlcskrjJPKkgykyRGhvA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-making-the-frontline-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How machine learning AI is going to change gaming forever"
+    excerpt: "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca"
+    publishedDateTime: 2022-06-23T17:00:00Z
+    webUrl: "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jL8Kry8IvP0y/PtjnSGx3TGZYJyFwcEOb9VsIkxYVLEIoisN1tQeuRO1gEq2k80VbmCbzUymaIrqsICJDOmtO4A3cRDsT1yISaFffIAeAvEz1eJoFOegkZ7PYCIdf4hOQsPXP9Kz81Md6WGWAVUQ1rVZE7AM4VezL08nC5WrEGIrkvLHJGoaCgDJ1QMQLFP+RM1+IJVRpMYFQtHtRcT2Mg+eg2LztuevLH7R6JFEojwTQIMkVZy3d/3Zpnho5io7Kz5HucywTwiBtoMaLm9onb9W8jyqjcT6hGkqJknPItw9t5uQt1s/VJwcV44qniyS8WR4qw5E4zF3X0G57MNv8ftJx9inBOGXV1QfEAkblFsJeBqtU6HB1Nbc1AmIrdAJunZmEojSJWP+xi48mtuwrsGX+eXf74wf3ZaJRbaALb8vypNSfYoLA7S0Oitzrk3KW0v2XDPjafD0B+FgL9QNpzuPtZoMntJ1rTo99KAiOzUJBfbNawhF+B5twdbR05Ugx7dgCxdK4Bmpg+pzbhel0A==;DyF0JUryLEGO8quGcOVpcg=="
 ---

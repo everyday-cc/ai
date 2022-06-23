@@ -35,7 +35,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 57
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg"
         width: 2880

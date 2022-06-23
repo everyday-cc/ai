@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/visual-inspection-au
 webUrl: "https://aws.amazon.com/blogs/machine-learning/visual-inspection-automation-using-amazon-sagemaker-jumpstart/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Predict types of machine failures with no-code machine learning using Amazon SageMaker Canvas"
+    excerpt: "Predicting common machine failure types is critical in manufacturing industries. Given a set of characteristics of a product that is tied to a given type of failure, you can develop a model that can predict the failure type when you feed those attributes to a machine learning (ML) model. ML can help"
+    publishedDateTime: 2022-06-23T16:02:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 110
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/23/predict-machine-failures.jpg"
+        width: 1237
+        height: 622
+        isCached: true
   - title: "Identify mangrove forests using satellite image features using Amazon SageMaker Studio and Amazon SageMaker Autopilot – Part 1"
     excerpt: "The increasing ubiquity of satellite data over the last two decades is helping scientists observe and monitor the health of our constantly changing planet. By tracking specific regions of the Earth’s surface, scientists can observe how regions like forests, water bodies, or glaciers change over time."
     publishedDateTime: 2022-06-21T18:58:58Z

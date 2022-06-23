@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-22-visual-inspection-automation-using-amazon-sagemaker-jumpstart.md",
-      "title": "Visual inspection automation using Amazon SageMaker JumpStart",
-      "excerpt": "According to Gartner, hyperautomation is the number one trend in 2022 and will continue advancing in future. One of the main barriers to hyperautomation is in areas where we’re still struggling to reduce human involvement. Intelligent systems have a hard time matching human visual recognition abilities,",
+      "path": "_news/2022-06-23-predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Predict types of machine failures with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "Predicting common machine failure types is critical in manufacturing industries. Given a set of characteristics of a product that is tied to a given type of failure, you can develop a model that can predict the failure type when you feed those attributes to a machine learning (ML) model. ML can help",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/visual-inspection-automation-using-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/visual-inspection-automation-using-amazon-sagemaker-jumpstart/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 140,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/04/ML-8409-image003.png",
-          "width": 1138,
-          "height": 415,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/23/predict-machine-failures.jpg",
+          "width": 1237,
+          "height": 622,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T14:34:09-07:00",
+      "publishedDateTime": "2022-06-23T09:02:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Machine Learning"
       ]
     },
     {

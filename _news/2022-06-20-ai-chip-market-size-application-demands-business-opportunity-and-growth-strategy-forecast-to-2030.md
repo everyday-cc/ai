@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?185264"
-    width: 375
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?271191"
+    width: 282
     height: 250
     isCached: true
 
@@ -67,6 +67,6 @@ related:
       domain: fmiblog.com
     quality: 9
 
-secured: "4m0+n9C0L+TCsQ4CE2CpR3s/Xk/L3KJn04hUG/QjzWqqG7IBZ8MRgM3Dm39FJGNTkAIUDO/KvzAboE5rOFgBA0EiKhU4ms0HAROqpFdUQvFmnypUa9g9zUQaQISOMuU6TLauDLc1nKZfgOasltEe3i4/cHU4ixAT+V8TemTxA32YJ+9YDXxerOSbhKScBOUIz+HOYcnChOV9GSg21ikDBs00Js+iOf1zDPFGnBncLDPtxnglwXdn8izQq2M4Lyr288DOZoAuyHu64YmghuieayRGYE2pSbZPKf6Yrx9dYHHvJfszBsQymafF2xz6nR7Ry6F50CXSta8Xeix6qvrUrHdNkJbmXHNmy9Uq8MraUtE=;7FhtiKFPYYtAyK+FvoAsHw=="
+secured: "ASOVYm7owXS08lbygFtYtV+aQNChdu6m89wAJBak3Bm/H0IapvVtEDTqH5g1jHeSLIrwfbjO5kswSuDkUQaoRmt6FtNVtlM7sRXnqdAc/aCg7h7mSYxAxcUXMZ2EyPtnNehTcBnIlsBQjFrIHVYEmj5iSyiGZtldL4FoCW4MqoHOihhS/cpysNqm+an8gxkt0stTpepcydjV31GoiOu+URBNx4ZZbXG1YwfgMZMW5jNU7oKUtzLfb6DjZWuvuCTGmoaCthUzlgTIiwts8tv3N1u4N+uhAWy6wA0DvauthmOI3MPfMc6F0IAKR6VX1O2JYvKcP3Sg3qoM2t3E4TT4zr6GQY0UkFKYWgTAJSa43Zs=;3oZ9MMpXYbK7Kurst1bF2w=="
 ---
 

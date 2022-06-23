@@ -108,6 +108,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 33
+  - title: "Zesty.ai Named “Best Predictive Analytics Platform” in 2022 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Zesty.ai, the leading provider of property risk analytics powered by Artificial Intelligence (AI), today announced it has been selected as winner of the “Best Predictive Analytics Platform” award in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-23T15:35:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/wildfires-technology-north-america-artificial-intelligence-599bd3b88b143e6ed80bf44b1d99ce31"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution"
     excerpt: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution. Integrating BioMech Lab™ into the SSS shoulder device delivers autom"
     publishedDateTime: 2022-06-22T14:20:00Z
@@ -118,6 +132,6 @@ related:
       domain: mobilitytechzone.com
     quality: 16
 
-secured: "L8pIZ/upE6WoRWGUROD+JUdZtdlgo/dfdg+GwxT/sH7CIjwaqWA/AtQ7haOGiJx+SoWufhjO3jKAS4EU/d1uof8R/m51N5irni4QqaZ1tGakMBXPPjprRkQvkdiKr3GG/b1W4SlW3I11Y8/DnQWENHlRG3ww6UHvhIvz+PcSbuduNyyVS9sLN3u9Nv7PanmwvtXqfo9/OepjitmW6f92vl758GkYiliSAg/aOgeB9bymS2KkZvJ8i7W7axv9ppc7faJ1lR0vM9S31mmNQJ9bLOyKP7Y9hPgo4lYlqRMozoCMri0jpRsJ/yPABW4VxVBLKeOWZM/2T/l69U5mLNpQMf1qeIDO9Se1yD3YBjLT0hc=;18jBe4BiWI1TQ33AnMK2gw=="
+secured: "CFbiwUzSPV1FegtMjw6qX5itxgLEQpEKZagUv0zTQAuKOVe3PzW7xcbqQsaBvT79X6QsdRy2aftxOSSS+kx1KOV7JchC30WkAelfx+qDQfBp91uQ80lDv1vr69IGARCchsI6ATB6kUm5bH4xutt2SDGGSWAYsVWQexvf91kBgxDfFx4gPkQW77g33AVzuGfoaStjsf3N0B70XFr+LxVi3Zy/udwYiD1gF438vA1mIWlzcSAfCCDmBalDdBcxvgPdqrqJoqHEAux0KeyPGuHjy3SCv2UsEZSX9Mgac/XXm7Cu8d/WfDNTeG19CRF1GSteUBqa8XsBi12mOEb9vCG9kCPrLdKNFzqydaHYgom7HBfrD/rEChPS5gYo5mdltLFPPXv7ZA8GtUn5TYmrDET76azCq/1tWYbUcLdzAS5rJ8y8BdXCQZnLNXMj9a91kNNwb3B3u+OiR2iVaZJpjRuh1+Hxq8NiboH4BrP13wwZY9e0xL0QqJNga5pNxE+wKEx1lQTRoIHTIMMs2EEnDFxPgQ==;mPS6eqBeW2AG4gnQRctzCQ=="
 ---
 

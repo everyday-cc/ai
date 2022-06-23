@@ -1,0 +1,48 @@
+---
+category: news
+title: "How machine learning AI is going to change gaming forever"
+excerpt: "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca"
+publishedDateTime: 2022-06-23T17:00:00Z
+originalUrl: "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever"
+webUrl: "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever"
+type: article
+quality: 56
+heat: -1
+published: false
+
+provider:
+  name: Windows Central
+  domain: windowscentral.com
+
+topics:
+  - Microsoft AI
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "AI is making the frontline a more compelling place to work"
+    excerpt: "One thing that may not happen any time soon, however, is seeing these workers replaced by automation or AI. Rather, their roles will be enhanced. For example, while completely autonomous trucks are years away, intelligent vehicles will manage employees ..."
+    publishedDateTime: 2022-06-21T11:25:00Z
+    webUrl: "https://www.zdnet.com/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/de48e111d14297c732f9c8cb6561b1888dcb65d6/2022/06/21/725ca575-b9fe-4134-91e4-ac43152691fb/city-street-outside-javits-photo-by-joe-mckendrick2.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "dPqJnuSvs/ul6S93zR5Loi6C3ZxmxYAkohQeRVv+FnXisRBYvdM4pRVjJbP8iArawNSEGYhmIdeiodVSM8YWlJs5ubC9TX90w3Dt88u0KfLqHyBgcZRCqPELw5nZ4Zy/59kYkYrzMA3nwqi7UQr7ha48tPHH5cE6m4D9hXMUvs1f+F5oHK1Trpmr7SW7DUVuj51YD4ynoevwkyLPoJt34qwfug6xOdE73PeVvRaLAiP2zTVlnXolfrBvnZdY9l6G0pcmrReNxs6FPhGCYjchUxYQK0wopZKwBWhB31liG3ZUECTYFMkToA6nf6DVjd538hXPNZjeX0X/YGRfYPUzB8zWE3LXwaNq6Cws7MlFpyw=;mAC3WjZ3Qhg77n7Ae+7Xjg=="
+---
+

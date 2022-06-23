@@ -23,6 +23,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "Predict types of machine failures with no-code machine learning using Amazon SageMaker Canvas"
+    excerpt: "Predicting common machine failure types is critical in manufacturing industries. Given a set of characteristics of a product that is tied to a given type of failure, you can develop a model that can predict the failure type when you feed those attributes to a machine learning (ML) model. ML can help"
+    publishedDateTime: 2022-06-23T16:02:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 110
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/23/predict-machine-failures.jpg"
+        width: 1237
+        height: 622
+        isCached: true
   - title: "Visual inspection automation using Amazon SageMaker JumpStart"
     excerpt: "According to Gartner, hyperautomation is the number one trend in 2022 and will continue advancing in future. One of the main barriers to hyperautomation is in areas where we’re still struggling to reduce human involvement. Intelligent systems have a hard time matching human visual recognition abilities,"
     publishedDateTime: 2022-06-22T21:34:09Z

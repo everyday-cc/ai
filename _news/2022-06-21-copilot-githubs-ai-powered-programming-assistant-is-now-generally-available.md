@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon launches CodeWhisperer, a GitHub Copilot-like AI pair programming tool"
+    excerpt: "Mars conference, Amazon today announced the launch of CodeWhisperer, an AI pair programming tool similar to GitHub’s Copilot that can autocomplete entire functions based on only a comment or a few keystrokes."
+    publishedDateTime: 2022-06-23T16:23:00Z
+    webUrl: "https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/"
+    ampWebUrl: "https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/PXL_20220623_161108580.jpg?w=1024"
+        width: 1024
+        height: 771
+        isCached: true
   - title: "GitHub Copilot Will Help You Write Code Using AI"
     excerpt: "Microsoft-owned GitHub on Tuesday announced that GitHub Copilot, an AI pair programmer that suggests code in your editor, is now generally available to"
     publishedDateTime: 2022-06-22T06:15:00Z
