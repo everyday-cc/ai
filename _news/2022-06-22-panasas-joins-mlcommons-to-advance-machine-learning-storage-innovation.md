@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-e2b8f650
 webUrl: "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Panasas has become an MLCommons collaborator to develop a machine learning storage benchmark"
+    excerpt: "HPC storage supplier Panasas is working with MLCommons on how best to measure machine learning (ML) storage performance, develop an ML storage benchmark, and help develop a next generation of storage systems for ML."
+    publishedDateTime: 2022-06-22T15:54:00Z
+    webUrl: "https://blocksandfiles.com/2022/06/22/panasas-has-become-an-mlcommons-collaborator-to-develop-a-machine-learning-storage-benchmark/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 43
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/06/Curtis-Anderson.jpg"
+        width: 950
+        height: 944
+        isCached: true
 
 secured: "GWsyAGvRnTi8Pt1kss3XxZyHuw5KeOOdQlhDE1lR8LKD6n/CxmYIatz0Xgzq9Miidg7CFMflHxt8CUrcQe4HtvLr1ZxMaY4k88TpYE9RjinjBoNevD/PFuqUpSe2cGXYqYRi8yCjsmpHaPwwS+M3L6jbn1gGAVogU2eBly22D3j2OzLs4rzxtwIPMacPZn/UTA0zb+ERqzYy4XcWKv/brX+C+buP//NGFMfnTfm696hlxefde9BdNlLoepnvrFh92hC2bp5e+PHdPZ1rlPvZB1vNpnXV08RtzjWo7NzWVNbPLiXWGSO4ZQQ708TvXjmkgUy4acwpvBnDh9pu8GH7Q83LoJjLBhXIE4wSyBqs5Yw=;5jTK4oW+KrJErdpsrdkrSQ=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "American Airlines testing face-scanning at DFW Airport"
-excerpt: "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app"
-publishedDateTime: 2022-06-22T20:40:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/american-airlines-testing-face-scanning-dfw-airport-85568980"
-webUrl: "https://abcnews.go.com/Technology/wireStory/american-airlines-testing-face-scanning-dfw-airport-85568980"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/american-airlines-testing-face-scanning-dfw-airport-85568980"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/american-airlines-testing-face-scanning-dfw-airport-85568980"
+excerpt: "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app."
+publishedDateTime: 2022-06-23T02:12:00Z
+originalUrl: "https://www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/"
+webUrl: "https://www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/"
+ampWebUrl: "https://www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
+cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/business/2022/06/22/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Click2Houston
+  domain: click2houston.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3ZEBCTQFU5EV7H6REY4GCB7IPQ.jpg?_a=ATAK9d60"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 641
         isCached: true
 
-secured: "QhtzVtMRF0MQHCkAAbZG+/qeGYASMscuHd1IbYmaNjxvjduXwim3UiD+hIYBA5T+Sq45vgADsoNrsftAXXIN/09azT26DEK1C9AAgw1MqqWnrIu0CJBHOSTVQJKmLnGozzt67U+NLZGj6c8tEWsU+PXLLzudicH0KYCaqRujs5RCYs4aX1mZfyK/QxBZcs50bh29VXDqZ6GHup8+XZLeq9UkPmpcbp539v7vnqc7BB86TuwEsg5G2a0vLXBV+j1uPMR0jJHtgl3MuDidBx9urmevWHNrqVkcxR5sfni16qaLNb8l3qg7JDccTeTl06rbMreJbH7+T+qQJ6dvW4vw6yvP1Wu4ANSW9mVFCKctYAY=;C+nd2RHGzUDJpe6FV1dSfw=="
+secured: "zLngiwvWgYLyMEHW07darqOmIezpdPLihteqy0d4wXW9thv8VoD46h197zUzUQ1Qm+ckiaeIPK8GX46O9oyMWVxL3K4HAzkZhEqCyIGwvAtYF4a80gebG9ysrOgIJ/FZO/v5XlwAljLG9p+W5K1oh9l0SfSclXsomglqBpPchF4NpPJz0tzAsQqr16kI3iWP4TssddmBopuCAV90KKlXfVORgQQFUg4jwFLYXMskbc1A6navz/COYhlk1tJIypnWLuEq+fEILO83GMZiZfBiXPUN0p8Ya/LzVkTM+DXw86maLx15+dZrlZRtLHlWak0ubrcVWFsF7nkMLDvrBokJvbYwNT0LwiNuF5By8TG32zY=;BKF7tHsTIVK/aTdnYs/i7w=="
 ---
 
