@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all"
@@ -560,6 +561,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "KhC/+71a0Ml1pRL1hJVE1x7wiblBMocULoHCSlyWfw0sZ9IM0PlsXqaZa9lRU4DMZNsjHDGN7ZPY3aZldrWtaIx0/SYPG305yN88wWObs2/3RiV84MZQnRMjLnbgvrVEF3LHzUiEVks3l9Mf4o9vN3jlcT6Thhw1XpbpwLlD1zCu4ZndTHog0VIIBXF1HetLlViGqcq96i96urqtK71d212DZGCvtrfF8J5pdQTsqTPUb3ZlWxw1Gtg1Ups/fsuroJagXnibNPzxPUYxJXvvBgUr7zCFntvbJcmJP5NY9Vm7294m21rUx2cHS3g20+kxPl3Ny6+vQzXjtGW/leQDk2lU7OsGF+duMbgY4lZNibs=;7cFgyy8uz2GnMcs4mRMY1g=="
+secured: "rFW79JJDcjoXLKBLiq4wlJ/aiPC4PwZgt25zOc3zl9oFdb+Kf7zNHOXyvffUx8rdkSaZoYKsEoVdFioIfCD+Jo7w8vFBKG+Ap3a0I1dBflOtsPPR1IFJ9OuUeFfUpSzWvYtjzSX2LKzixaWM25h1uWmas0mS5pE1NF9iLU29H3qv/LopL99eJnYQHgVnAhLIoI7KTMUlHcc3W9Y6Yyxghg2zH6mCIM9ro3NUqibGrya7BkS9cmzeD1HscX/QVZgh/cy9qLnIAEVpH+1aZzACMX1i6wnIQxgBtfzflvBrE6anh8V7S6zkSaBU48fi9XnW+UkUSNNCDewij8SeNOlwKvdlxVHo1AaCuyAsKPNZS/1AWFBZAOnXR+U9WYrp1UM0fl/bxzlRHSwNg8QY4Ey45R6dvoyvXpXeMiP1gaG/wsBDiPcHIgUX8/o6vigNO9FMN6gfcRy4zvoTxlPMptYh+I15s6Wwi0F4q8Tz/i6gB9f0u5fcae71bm3IsbZa3gwIVYkl4rbcULpAx9E61z6Xlw==;s6hplkAtJXwKeQe3wgo+VQ=="
 ---
 

@@ -20,6 +20,7 @@ topics:
   - AI
   - Machine Learning
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg"

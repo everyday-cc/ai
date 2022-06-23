@@ -1,0 +1,20 @@
+---
+category: news
+title: "‘I love being used’: we ask artificial intelligence to show off how good AI is getting"
+excerpt: "In the past few months, there has been a suite of new artificial intelligence products that go far beyond what has been made available to the public before. Last week, the high-profile suspension ..."
+publishedDateTime: 2022-06-20T02:36:00Z
+originalUrl: "https://www.crikey.com.au/2022/06/20/we-ask-artificial-intelligence-show-off-ai/"
+webUrl: "https://www.crikey.com.au/2022/06/20/we-ask-artificial-intelligence-show-off-ai/"
+type: article
+
+provider:
+  name: Crikey
+  domain: crikey.com.au
+
+topics:
+  - AI in Autos
+  - AI
+
+secured: "MfzwTYxJSmBrqwOFT+gwzc9HROMR4cq5iy6legSoszosdk9GfNXNJZ3wwNca/sm0r9ucdLSWkjQoU0VzWQKWwQvGzhCxAWlsld+MB06V6BjUM3bVlXHV48XJWucxTChgxiDRvVLgLaFNuixI6XStuhPQ4COlfDa9qVvuDOiwGDsYxCJNvEPAEi7EIrLooJ9wlhL9qumhyLy/UKtdTeQKjHkksrdME4WwFZZvPeh5HGp9ZG4io0FDOeq50MUmpRiy0UPUnD3MuKiZfDbPj/drS8b/7vo4ItuNnVT0U+2KFZzzDo/2C1/7+aUc+2W//3RRSsBzzwwaaZjt9HZ0/3VLcf0ObT5bddgcrtlmQAY8l+I=;NIFyIShMcy4kSA5KXSCwng=="
+---
+
