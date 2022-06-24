@@ -81,15 +81,6 @@ related:
       name: Public Radio Tulsa
       domain: publicradiotulsa.org
     quality: 39
-  - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
-    excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
-    publishedDateTime: 2022-06-19T16:24:00Z
-    webUrl: "https://futurism.com/the-byte/google-insider-ai-lawyer"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 17
 
 secured: "2lIxZHfav+SUJwgORebiRhoE/P+uRDMsy4t08dmRXOU3WWtJkqKbYFw5LZRUMRJwAxc71p2WP7WSmU5sSlHYZjmzgjX9YzmJVRx7CM+MgzfuMkN5MA6nlUrC72dD5Nzy2eXsGqBl1xkp2xVnITFIBMkrgx+q/017v47iev3ZryHnmplB9z7INdeavWXBiOPz0tSq5xtk/NcLzLa6JOMGipOL4+48B3F3HH7UVpbU3bFzS+53hwZwSiSCzjArPg2HQ99OXWKA9NTQGWnrC2pI27hP7p3e7oEJ2+gRgQSjyFVnJvmgFi+LDtUtUP2Xyt10xt6q3ORfadxHDzMgZmjuay18NJ8Y1+idi/83sQIYsfY=;cFfvtbkEynlGu5oci0F4Yw=="
 ---

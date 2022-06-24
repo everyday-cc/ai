@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligen
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "How Can Babies' Learning Help Teach AI?"
+    excerpt: "Researchers from Trinity College have analyzed the neuroscience and psychology of infant learning to identify three key principles that can help direct independent learning by AI."
+    publishedDateTime: 2022-06-24T08:53:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/how-can-babies-learning-help-teach-ai-363001"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 41
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/363001/how-can-babies-learning-help-teach-ai-363001-640x360.jpg?cb=20220624"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "LPB06TeiRQH625EpCWoM1o4qWK0tSc6I+CyvLaIij5Z97UK2tuprn6oCutihBeIKzEUZcYYYkWvQ+6hJs5nxwKXDHhyqqyH+u1xPPL2HSWlTMGoeejtBQVEQp68ZQ2yX2rBJT0gUUKzqiWV6FclmMbtWNvf6b4ULKIJh1xzt30IEU7UvNGuktErY3kPyQ7c8NaBLPSkhA2RcFGsPHGytGXfmdn6/nKBTgpP8IncHGMckNPyaRH+GNL4ahVM7Cxg9hWsJHzo9RdUHL9sppj5zBMLP+p0yv2V4Z1zqZ9oQcq5EJI0d5sGZmmkY8VPxXKj6R1QwxcxjAEh0PB1xGeflOdkqSYzbVEn7nIHuOVxdG1y2DnymbZXRkGiq7fvZ/+DV6PcK65bGGH8LxXXmZZ+4fARd7AQ/ySMwZ30OBPQG7jTyXPaypFUh2mf+GeT0zySwDLq4yiPepDWvo+I57PKmQpRpQCO1bPUupLblhxoJuvL0vs3NHX1fDrDSVygFduqedQ2BMTS76xfpIjaTT4K6gQ==;b0UlcskrjJPKkgykyRGhvA=="
 ---

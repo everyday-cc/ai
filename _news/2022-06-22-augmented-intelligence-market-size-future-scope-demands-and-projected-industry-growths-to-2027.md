@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/augmented-intelligence-m
 webUrl: "https://www.marketwatch.com/press-release/augmented-intelligence-market-size-future-scope-demands-and-projected-industry-growths-to-2027-2022-06-22"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,69 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
+    excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
+    publishedDateTime: 2022-06-23T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Industrial Artificial Intelligence Market Report Future Prospects, Growth, Outlook and Forecast 2022-2028"
+    excerpt: "The latest Industrial Artificial Intelligence Market Analysis is designed to help clients improve their market position, and in line with this, this report provides a detailed analysis of several leading Industrial Artificial Intelligence market Key Players including Intel Corporation,"
+    publishedDateTime: 2022-06-21T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-report-future-prospects-growth-outlook-and-forecast-2022-2028-2022-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+  - title: "Autonomous / Self-Driving Cars Market - Global Forecast to 2030"
+    excerpt: "Chicago, June 20, 2022 (GLOBE NEWSWIRE) -- According to the new market research report \"Autonomous / Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1 ..."
+    publishedDateTime: 2022-06-20T10:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27782278/autonomous-self-driving-cars-market-global-forecast-to-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27782278"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27782278"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+  - title: "AI Chip Market Size Application, Demands, Business Opportunity, And Growth Strategy Forecast To 2030"
+    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030, owing to the surging adoption of artificial ..."
+    publishedDateTime: 2022-06-19T18:39:00Z
+    webUrl: "https://menafn.com/1104398215/AI-Chip-Market-Size-Application-Demands-Business-Opportunity-And-Growth-Strategy-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+  - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
+    excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
+    publishedDateTime: 2022-06-20T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-growth-2022-research-analysis-by-product-types-applications-recent-development-and-forecast-to-2028-2022-06-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
+  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-06-20T06:36:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 9
 
 secured: "yiOfZzqHcZuV48BViCYQoWyDjcbo/VqPCIJUT9G2DLu08145r5jAcFtx2ItPjQ7BTZYBbI6kHNSPyni/J2LY5sAnteCmrFolV/SNuOs3pK2PuZ80EmGY4dOyCFK6CBhB0IBOyR7RNC1sdXg9SWUkFv9t1ALSFsd9KpI2MOccTO6zFp23FjsIHiqrXDDF845R4WmwnijwRl1/8qEgLtE5c05RXYMjoU+ceogWSYBdoDdTE612I8cE3QGHOkLN3MuQznqw09535UMCi5Ee37cWndJGtlD8jc6033YAxBTk/H6Rf3GD+1Z+s1agcDl54xz/AqdAb+ZFxC+qR+rnW7FsQpaDm3IzdRduSwlcjM4HzGY=;CNFKt1q5PTwprSiwfdZgBw=="
 ---

@@ -19,61 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "AI Chip Market Size Application, Demands, Business Opportunity, And Growth Strategy Forecast To 2030"
-    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030, owing to the surging adoption of artificial ..."
-    publishedDateTime: 2022-06-19T18:39:00Z
-    webUrl: "https://menafn.com/1104398215/AI-Chip-Market-Size-Application-Demands-Business-Opportunity-And-Growth-Strategy-Forecast-To-2030"
+  - title: "£8.5 million research program to transform AI ethics and regulation in the UK"
+    excerpt: "It will move beyond AI ethics frameworks, creating recommendations and use cases that can be put into practice for a range of AI applications – from biometrics and facial recognition, to big data analytics in the financial sector and diagnostics in ..."
+    publishedDateTime: 2022-06-23T20:30:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/956877"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?79228"
-        width: 303
-        height: 250
-        isCached: true
-  - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
-    excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
-    publishedDateTime: 2022-06-23T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+  - title: "Global Artificial Intelligence In The Education Sector Expected To Reach $17 Billion By 2027"
+    excerpt: "FinancialNewsMedia.com News Commentary – Global artificial intelligence in the education sector market revenue is expected to increase significantly during the next several years due to increasing demand for real-time progress monitoring of learners/students,"
+    publishedDateTime: 2022-06-22T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/financialnewsmedia-2022-6-22-global-artificial-intelligence-in-the-education-sector-expected-to-reach-17-billion-by-2027"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Industrial Artificial Intelligence Market Report Future Prospects, Growth, Outlook and Forecast 2022-2028"
-    excerpt: "The latest Industrial Artificial Intelligence Market Analysis is designed to help clients improve their market position, and in line with this, this report provides a detailed analysis of several leading Industrial Artificial Intelligence market Key Players including Intel Corporation,"
-    publishedDateTime: 2022-06-21T06:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-report-future-prospects-growth-outlook-and-forecast-2022-2028-2022-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-  - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
-    excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
-    publishedDateTime: 2022-06-20T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-growth-2022-research-analysis-by-product-types-applications-recent-development-and-forecast-to-2028-2022-06-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
-  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2022-06-20T06:36:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 9
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 23
 
 secured: "ORq8i7uo5pdWid8scWiHHYIam+VLNYscOr5gma6diEH0szTZZ5fVuyC0I3CwF+oJn4cDzg8d97i4Tikdbv9AEa06mmkcJj0FKRLvt3CVh6TWDlVZEIFkgNUELs2UZ9jz8euXE0Z8ktSipXzf6KbNX6C0C1KwvWUgPaLpd+rmi6Wd8exY2czvv/Paqh8wuQp2O4+Ucn/vLoiX4qSx3WjwLTVaIMZR1Rujzl+97d7c3W3grmh6JvIBUL9RqgI4IG0YeGX8aQCqpP5Pv/tQFCi0YLmd1dN1aFQL3msHzUyYj/xDtT3w90AhmkBeK4kynof2FKiWGZPTToVV7dN70m4lFGiFdYrQM48t1fJqe0aKSKI=;8rd27HKx2G1Dpgt90Md+qw=="
 ---

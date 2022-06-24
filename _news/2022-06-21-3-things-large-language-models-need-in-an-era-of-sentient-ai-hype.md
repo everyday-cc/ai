@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
-    excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
-    publishedDateTime: 2022-06-19T16:24:00Z
-    webUrl: "https://futurism.com/the-byte/google-insider-ai-lawyer"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 17
 
 secured: "mtzpMeL4zM7LyWdWUI8bMxLqqQAJujWWv9PgqPIj8/xnDvD/AZ/BUSAMSuZZkbUgG64lQLJltGl6ryWYI3CuxKa9MgAzrSDSBthR+cWbySHq4Lsri5CKuv++rYwNzz8QnlKGBuggTLig0TLD7XaQOHIHlbrsW6ai/eit1gwimHHiIoHOpgnqEABo1f8y6yaGf6jzKteVSK4sc0N75JWH5zx3soFHEow0LW+YRxMb1oEV+gKrJbqoRjnUK3BLqGcJap1kthOdNTekC7aaryOaWWHYM5KUuEstjz95zMnycuODTON9X3CCxiwqmz+MJV+mXhXlqudWY8FLNIH8GWvJVIKgK/OuQv8nkNfrfXWeEGRNEEnNW3A2IkO6tC2EbDSLRx52ZTcsU+x9/HcmPohZIyoTMdlUpDd3JFaDGDYGUVkaFjqN5L+yPMRYMm+8knjQjz9N8/eOofNE0DfvuLJkpbFnwMieWZ0IG6FYUdl8SPK/X7KccYP2qFpn7HyXngSukfaNU8IprCLE4wvunL0cCg==;xL5qIevOX4owreuduMRBGQ=="
 ---

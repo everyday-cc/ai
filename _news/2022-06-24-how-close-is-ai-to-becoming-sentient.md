@@ -81,15 +81,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
-    excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
-    publishedDateTime: 2022-06-19T16:24:00Z
-    webUrl: "https://futurism.com/the-byte/google-insider-ai-lawyer"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 17
 
 secured: "/NP4O6Qr8/26yNNSuJ1DJrJzfj1k5qOGnSvC2iNdvFgMX1JVoOTWbMSujPyKn4OvV/KHG4GCQC6X1XHB98yUAKQCmrPHs3UAj1srcxUIMVpIbFbWDFgf8SU9PObEoOvz2FJrZBmwQjsHISidVjoQgyeu5NggUjvM2I/h5/WZ3uWlPJ75iydRjPz7pX14uPbEEsup/WiYm+NOFk8I2yXdjdA6wzirHFVB8Ny8wJvn3TcEecQVa1z2Acfz8whlWH5+UcUKFYmt+31xrN+wqQ1+e/uvfSCj7wjjcT6CEKmyuImFZWbEwz8j9egFFat0QZ/RrNs6hRQGFVPDyoKj9oFtNkHmWdMfiujTLSfqLKzbEPo=;d9VW9d+knyjmFJqJxsobnA=="
 ---

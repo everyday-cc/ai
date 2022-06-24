@@ -65,22 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-    publishedDateTime: 2022-06-23T17:44:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_40267c0d07df4ef99bac109894984999_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
     publishedDateTime: 2022-06-23T20:24:00Z
@@ -110,6 +94,20 @@ related:
       - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-06/doc-32D33NQ-%40photo0.jpg?h=4bf1c8f5&itok=U32GY5Dv"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. But the tools won't be used,"
+    publishedDateTime: 2022-06-23T20:12:00Z
+    webUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/40267c0d07df4ef99bac109894984999/915.jpeg"
+        width: 915
+        height: 610
         isCached: true
 
 secured: "y7yfELQpxEVv3LtlZRVmkVPZRflJ7nA0xBA06NPsyQtnVTBWsMfOsj775YHiVrrsAYJnJ2zQ5OatY91cBh+q4D7jUVOzE83SUg4dKu6iX99pvPd7OiOeZNtdub9Sr27zkoDvnh4UBN62qpUfX3nIS9HjIRtDAEFgltKeeKH4ccsZ5UR6OjTbXQxtGpvTSK+TM5/SRMvUWw6p7WePu2H8znY6fY6NwTEEkSlNobzktMxD52xxxx6b2XFFbv/1G6jZIKnA8B4uVpA4q4iP9///I5cB7pHahW0xKLZfIaBa2SxObVkr8Pp/DeMn8PWntpkWmz2WqdlcSRKvvtWcAnb1a17umDokjolT+Tvzr4nCqy8=;NXdngH6qN36C7PrNJFIy1Q=="

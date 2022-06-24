@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Dori: Google engineer explains how AI chatbot shows sentient side, might have a soul"
-    excerpt: "Cognitive and computer science expert Blake Lemoine boldly told his employer that the machine showed a sentient side and might have a soul."
-    publishedDateTime: 2022-06-23T01:26:00Z
-    webUrl: "https://mynorthwest.com/3528440/dori-google-engineer-ai-chatbot-sentient-soul/"
-    ampWebUrl: "https://mynorthwest.com/3528440/dori-google-engineer-ai-chatbot-sentient-soul/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3528440/dori-google-engineer-ai-chatbot-sentient-soul/amp/"
+  - title: "A Google engineer says AI has become sentient. What does that actually mean?"
+    excerpt: "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth."
+    publishedDateTime: 2022-06-24T08:00:00Z
+    webUrl: "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6498068"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 50
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 56
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2022/06/AIchatbot.jpg"
-        width: 900
-        height: 506
+      - url: "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "AI Is Not Sentient Yet. But That Doesn’t Mean It’s Not Useful in the Enterprise"
+    excerpt: "Have large language models finally crossed the chasm and become self-aware? A Google researcher recently shocked the world by declaring that Google’s"
+    publishedDateTime: 2022-06-20T19:59:00Z
+    webUrl: "https://www.datanami.com/2022/06/20/ai-is-not-sentient-yet-but-that-doesnt-mean-its-not-useful-in-the-enterprise/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 33
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/sentient_AI_shutterstock_agsandrew.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "ESF0jxSFkfdVW9xZnHWBRKPr4FwrmXwHo9dJaYad8faJQak6UQyhu6NVxFx8AvMxiaYcGYTzuKNvPoH1iGjY+D6cyptRyFZMN4RaDpT5D/voziVCSxl8GPWExZK1eav6j9K67Vl24rzVyoLq3IgAdO5j1y8wJZ4yHf40SXl/Aqkq2qt/d/RiEKpnWCXBxgqq1XXC5ca9gsl2c6N9PGyt5kc2xv4D8TDwUZl+Ww9Dc/UvWfCjWUOW3lWqqt9vRBfv3SBWUhJh8M4BGhza7dSCCxccr2xbwaFm5y8ZVfdjaKHlBg0jsXKlPkEZslsLDO14FdfP8YFCcvhUoPS5sdhrcS/X6UQ0ka1930dblrbR3v+CayrRe+yVq29TvytfVozZHpPXIm2TFJkZAj8/dg1fScx6qEmtAURwfnYl9c+J3F2X427RMTfLQdOOQpYMmH0XnyxGM0PE5jvNiNAqYSdq1SflzOcMGYeQgkuuVJgCvDx6n5GxL2Pk2sEQGkbcpCLr8NRCLjqDm/DOxFIfhe8AkA==;7j6SPCC5yHFZUcKnMOcZWQ=="

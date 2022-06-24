@@ -39,6 +39,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "How Can Babies' Learning Help Teach AI?"
+    excerpt: "Researchers from Trinity College have analyzed the neuroscience and psychology of infant learning to identify three key principles that can help direct independent learning by AI."
+    publishedDateTime: 2022-06-24T08:53:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/how-can-babies-learning-help-teach-ai-363001"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 41
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/363001/how-can-babies-learning-help-teach-ai-363001-640x360.jpg?cb=20220624"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "VopzaOIP65Rb5GYjXcLNYW694Is2HoPgLASPsKbIbNN1JYmkf6Z6TY93bGK8NWC+tC423rKkj+mK8tzAMKCVvvF9nTQ2zWZwvojw3DQfU1nJTFPROYLmJWgExrNA82wJBiEOcSrpog7GVqwxbkAOCKJB7p1ZVJf8WyLx5up+5Cfrig3fHfsRN45frsApZKXbPECTdKdBpmoLRYJu74zL1F5i/0sN6SUaGwhCSpZui66MYld3EzdkkNRy0rjGfz5J22BCqkMzVcOhjvtYOBmlTgc7t3Urj55WO0PQNkT9xQs4KUCJwQzMop54iKPCK5N6whjrIj5AIYFkeXYgr88xG8RpAuc3mmiLlkt5lBWkyXg=;gYRd8So11uBo9fOjuGyX3w=="
 ---

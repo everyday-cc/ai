@@ -23,22 +23,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "AI Is Not Sentient Yet. But That Doesn’t Mean It’s Not Useful in the Enterprise"
-    excerpt: "Have large language models finally crossed the chasm and become self-aware? A Google researcher recently shocked the world by declaring that Google’s"
-    publishedDateTime: 2022-06-20T19:59:00Z
-    webUrl: "https://www.datanami.com/2022/06/20/ai-is-not-sentient-yet-but-that-doesnt-mean-its-not-useful-in-the-enterprise/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 33
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/sentient_AI_shutterstock_agsandrew.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-
 secured: "Ax6Zy7LCdSA3Cr/dSakB/tvCki1GpIdTCwF6mICZML/XkvcLWg8LjmRJXvZfsGMEH5srmr08ezzpQiYi6vprJHcslCV1UBfs9ibCsdksNXJOtdBs7R740t3BRDcSwC5dUgWXLIV4xZ1+K41juCu8g0oH8a5HdDt5gE2MrpUmP8WAQC2Zc0cOKxgZJE2UddFgCrGEGOpYISnqnqp6qntQIhZhYEKGTJjPoufvp6AR1TGsojnWe70qXva1mD55Uw+5bqGEMcjAX6ADzL/Eqx7F2QH34BnShq1lpNu4EhE6pMv6KhDlxAFTzx9Ucc/zYQ63GDCQx+L79wQjQBuUv7UCgXUMjIVIhTMQxMZI8Q0A6Qs=;iP2pPbazH+Q1aV6HruFbxg=="
 ---
 
