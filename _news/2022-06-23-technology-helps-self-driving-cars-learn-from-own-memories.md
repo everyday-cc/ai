@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/ithaca.com/content/tncms/assets/v3/editorial/6/b9/6b9c5434-f266-11ec-9385-db4203099856/62b375d21346a.image.jpg?resize=1024%2C576"
