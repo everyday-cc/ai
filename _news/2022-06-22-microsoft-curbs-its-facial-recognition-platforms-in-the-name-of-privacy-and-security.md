@@ -507,20 +507,6 @@ related:
         width: 400
         height: 295
         isCached: true
-  - title: "Microsoft & Meta begins testing of Artificial Intelligence to assist in operating data centers"
-    excerpt: "I run the compute in multiple large scale datacenters. This is such a silly sensationalist article. There is nothing \"AI\" about this."
-    publishedDateTime: 2022-06-20T01:30:00Z
-    webUrl: "https://techstory.in/microsoft-meta-begins-testing-of-artificial-intelligence-to-assist-in-operating-data-centers-2/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 42
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/06/AI.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Microsoft UAE customers share digitisation success stories"
     excerpt: "Microsoft’s Azure locations in Dubai and Abu Dhabi have accelerated digital transformation across industries and proven themselves to be potent catalysts of economic growth. “AI capabilities, powered by the Microsoft Cloud, allowed us to unify our ..."
     publishedDateTime: 2022-06-20T07:59:00Z

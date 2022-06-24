@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-p
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -67,9 +67,9 @@ related:
       domain: abcnews.go.com
     quality: 57
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_40267c0d07df4ef99bac109894984999_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
@@ -86,6 +86,22 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
         width: 760
         height: 507
+        isCached: true
+  - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
+    excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
+    publishedDateTime: 2022-06-24T20:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 38
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/06/24/shutterstock_712489231_c0-196-4707-2941_s1200x700.jpeg?252bacb6c34fcb4f7b3ea742705da80edbc49450"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Instagram trials AI tool to verify age of users"
     excerpt: "SAN FRANCISCO - Photo-sharing platform Instagram said it was starting to trial a tool that relies on artificial intelligence (AI) to confirm the age of users in the United States. Lawmakers across the world have been vocal in demanding that the social ..."

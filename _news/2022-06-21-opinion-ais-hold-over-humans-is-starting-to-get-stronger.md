@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s hold over humans is getting stronger"
-    excerpt: "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works."
-    publishedDateTime: 2022-06-20T03:51:00Z
-    webUrl: "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/"
-    ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/06/Google_AP_1.jpeg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "AI’s hold over humans is starting to get stronger"
     excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern"
     publishedDateTime: 2022-06-20T11:32:00Z

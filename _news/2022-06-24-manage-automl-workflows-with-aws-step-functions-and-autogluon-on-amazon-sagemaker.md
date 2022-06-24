@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/manage-automl-workfl
 webUrl: "https://aws.amazon.com/blogs/machine-learning/manage-automl-workflows-with-aws-step-functions-and-autogluon-on-amazon-sagemaker/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Cepsa used Amazon SageMaker and AWS Step Functions to industrialize their ML projects and operate their models at scale"
+    excerpt: "This blog post is co-authored by Guillermo Ribeiro, Sr. Data Scientist at Cepsa. Machine learning (ML) has rapidly evolved from being a fashionable trend emerging from academic environments and innovation departments to becoming a key means to deliver value across businesses in every industry. This transition"
+    publishedDateTime: 2022-06-24T18:01:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-cepsa-used-amazon-sagemaker-and-aws-step-functions-to-industrialize-their-ml-projects-and-operate-their-models-at-scale/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
   - title: "Amazon Shows Off Its Latest Warehouse Automation: Fully Autonomous Robots, High-Tech Scanners And More"
     excerpt: "Amazon will show off four new pieces of robotics technology, including fully autonomous robots and high-tech scanners, at its re:MARS event in Las Vegas."
     publishedDateTime: 2022-06-21T22:00:00Z

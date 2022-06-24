@@ -43,6 +43,15 @@ related:
         width: 1246
         height: 623
         isCached: true
+  - title: "How Cepsa used Amazon SageMaker and AWS Step Functions to industrialize their ML projects and operate their models at scale"
+    excerpt: "This blog post is co-authored by Guillermo Ribeiro, Sr. Data Scientist at Cepsa. Machine learning (ML) has rapidly evolved from being a fashionable trend emerging from academic environments and innovation departments to becoming a key means to deliver value across businesses in every industry. This transition"
+    publishedDateTime: 2022-06-24T18:01:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-cepsa-used-amazon-sagemaker-and-aws-step-functions-to-industrialize-their-ml-projects-and-operate-their-models-at-scale/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
 
 secured: "zVCl+FWXoFshyxY55bYjCtir8zAxRv5jg4vsVb6kTk//ZhVI935pGGu3udhH18FSnfzB/kSRZi9cjM/bky+hg+hZ0SAXte+JDKDF3Q2xsTPHAm9yEBVKmOTsXfWszgrm0rwBBcpQTMGG35J9J29TPQmAOR1UoTaliVFahMNNcZdyO5EgcVscGdMRUP47SAoO7kh5LV4BuUhMQ7HZIuOlkrwCB9mCnDM9iojXuc0mtbwUkjXRePvJiGP3F/RzrOMoEjRpLPGzluaZyrSCkTafXMcHg4052B1wHkNzf9yHosJXxv6qjdnYDsHq/lvAPo7IBf476lj6dxjXFlo8zg0KMVhhc8ULDB34Yd0B3PaGLWgLmNr347XQqEZOR6EzVNqpoxiOag8nSfOsmkL6cveUoqlJWtygI/URrDkCgjLR/FEEXRY0m1QqBknL0w9S0YCfK6UmWsT+bx7rZd8wH2JzpVRlLCfByJZGA+GI5IkBi2TFntkoaH9z/8tIzUvFT3Fsc9mn+3AEvc1wGqM6clAGgw==;m44yuVAORuS2q5O66FyTEQ=="
 ---

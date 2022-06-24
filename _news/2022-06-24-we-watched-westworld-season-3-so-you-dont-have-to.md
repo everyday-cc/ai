@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T15:05:00Z
 originalUrl: "https://www.polygon.com/23180079/what-happened-in-westworld-season-3-explainer"
 webUrl: "https://www.polygon.com/23180079/what-happened-in-westworld-season-3-explainer"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Polygon

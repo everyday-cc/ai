@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Teams With Big Brands/Agencies To Mitigate Bias In Ad Tech"
-    excerpt: "IBM launched an initiative as part of the Cannes Lions festival, bringing together agencies and rands to generate awareness and action to mitigate bias in advertising and marketing technologies."
-    publishedDateTime: 2022-06-20T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/374925/ibm-teams-with-big-brandsagencies-to-mitigate-bia.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 4
   - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
     excerpt: "To learn more about IBM Watson Advertising solutions and services ... About IBM IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 ..."
     publishedDateTime: 2022-06-21T19:37:00Z

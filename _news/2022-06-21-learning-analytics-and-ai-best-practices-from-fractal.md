@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analyt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Seven top search shifts on Bloomberg's AI-powered Research Analytics Platform this earnings season"
-    excerpt: "Analysts use the Bloomberg’s Document Search and Analytics Platform to quickly retrieve company information and understand how the key themes are impacting their coverage. Our AI-powered search analytics in DS  is continuously being enhanced to make it easier for analysts to find the insights they need to conduct their research analysis."
-    publishedDateTime: 2022-06-20T04:00:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/seven-top-search-shifts-on-bloombergs-ai-powered-research-analytics-platform-this-earnings-seasons/?tactic-page=597225"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 33
   - title: "Zesty.ai Named “Best Predictive Analytics Platform” in 2022 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "Zesty.ai, the leading provider of property risk analytics powered by Artificial Intelligence (AI), today announced it has been selected as winner of the “Best Predictive Analytics Platform” award in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
     publishedDateTime: 2022-06-23T15:35:00Z

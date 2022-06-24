@@ -98,15 +98,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Seven top search shifts on Bloomberg's AI-powered Research Analytics Platform this earnings season"
-    excerpt: "Analysts use the Bloomberg’s Document Search and Analytics Platform to quickly retrieve company information and understand how the key themes are impacting their coverage. Our AI-powered search analytics in DS  is continuously being enhanced to make it easier for analysts to find the insights they need to conduct their research analysis."
-    publishedDateTime: 2022-06-20T04:00:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/seven-top-search-shifts-on-bloombergs-ai-powered-research-analytics-platform-this-earnings-seasons/?tactic-page=597225"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 33
   - title: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution"
     excerpt: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution. Integrating BioMech Lab™ into the SSS shoulder device delivers autom"
     publishedDateTime: 2022-06-22T14:20:00Z

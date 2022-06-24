@@ -53,14 +53,14 @@ related:
         height: 360
         isCached: true
   - title: "Research finds babies can help unlock 'next generation' of artificial intelligence"
-    excerpt: "According to neuroscientists at the Trinity College Dublin, babies can help unlock the next generation of artificial intelligence (AI). The research examines the neuroscience and psychology of infant learning and distils three principles to guide the next generation of AI,"
-    publishedDateTime: 2022-06-24T17:24:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220624/3955734.html"
+    excerpt: "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI"
+    publishedDateTime: 2022-06-24T18:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 11
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 13
 
 secured: "LPB06TeiRQH625EpCWoM1o4qWK0tSc6I+CyvLaIij5Z97UK2tuprn6oCutihBeIKzEUZcYYYkWvQ+6hJs5nxwKXDHhyqqyH+u1xPPL2HSWlTMGoeejtBQVEQp68ZQ2yX2rBJT0gUUKzqiWV6FclmMbtWNvf6b4ULKIJh1xzt30IEU7UvNGuktErY3kPyQ7c8NaBLPSkhA2RcFGsPHGytGXfmdn6/nKBTgpP8IncHGMckNPyaRH+GNL4ahVM7Cxg9hWsJHzo9RdUHL9sppj5zBMLP+p0yv2V4Z1zqZ9oQcq5EJI0d5sGZmmkY8VPxXKj6R1QwxcxjAEh0PB1xGeflOdkqSYzbVEn7nIHuOVxdG1y2DnymbZXRkGiq7fvZ/+DV6PcK65bGGH8LxXXmZZ+4fARd7AQ/ySMwZ30OBPQG7jTyXPaypFUh2mf+GeT0zySwDLq4yiPepDWvo+I57PKmQpRpQCO1bPUupLblhxoJuvL0vs3NHX1fDrDSVygFduqedQ2BMTS76xfpIjaTT4K6gQ==;b0UlcskrjJPKkgykyRGhvA=="
 ---

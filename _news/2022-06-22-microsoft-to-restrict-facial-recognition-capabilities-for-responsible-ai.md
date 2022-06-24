@@ -67,6 +67,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
+  - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
+    excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
+    publishedDateTime: 2022-06-24T18:09:00Z
+    webUrl: "https://menafn.com/1104428195/Microsoft-To-Phase-Out-Public-Access-To-Controversial-Facial-Recognition-Tool-Breezyscroll"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
 
 secured: "DYXbr5vFw5oxIMywWzCaIVVeWlkRfw9XTHFHIoNsumXsFSM+27TBi7cp8RxesTcHy1aojjia0xbjnCWwabof9biqOeGnjZYOq41Lgalpp9PiNFlYZAg29OGHvhdBeNaqaFll7JjTpDT75Alv3rV43u8EF5fkqDhHBooHvddhhgM55eIRTjcp/YDqaIwenimyJ82kJ2hBY/zSz0vjvK3nz4ncPWZHAZv/CPcGDE9aHPAKpzL8VjU78Y4rvYIS84fuNSUv8Z8jP08j57axgDf7YsHaaBTaGzoI2cAP/7IwzpZcDQJ1e7OMwKDB3K4sALS4q0EGLhCqFTAzrqMqrwExS4X6xd9xdPQvRj4Vs9qN3LMmsAjLAg6Diho1qPtDpwKdMO3HOIRkR/9jgjrUQHX+We2uyA/guudN5lcRQaPJCYIG1m2y/0Lq1YVB7Xr7ycs0Lr2EtzuXIErRosfjRBXU5Y80H1nLn2yxwdv+X0oJsd8MhFZBLKW80ly0RS9mcgUe9O32BS9SSFd/aZxCAB9DTA==;mQGKU0NASDvjGLu0w0ourg=="
 ---

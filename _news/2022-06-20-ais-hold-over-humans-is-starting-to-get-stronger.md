@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-st
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html/amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s hold over humans is getting stronger"
-    excerpt: "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works."
-    publishedDateTime: 2022-06-20T03:51:00Z
-    webUrl: "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/"
-    ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/06/Google_AP_1.jpeg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Opinion: AI's hold over humans is starting to get stronger"
     excerpt: "Ilya Sutskever, the chief scientist of research giant OpenAI ... Last month, Mark Zuckerberg said that Facebook would use more AI recommendations for people's newsfeeds, instead of showing content based on what friends and family were looking at."
     publishedDateTime: 2022-06-20T18:06:00Z

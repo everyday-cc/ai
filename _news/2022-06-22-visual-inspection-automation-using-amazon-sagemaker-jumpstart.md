@@ -43,6 +43,20 @@ related:
         width: 1237
         height: 622
         isCached: true
+  - title: "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker"
+    excerpt: "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs"
+    publishedDateTime: 2022-06-24T20:33:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 107
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg"
+        width: 1245
+        height: 620
+        isCached: true
   - title: "MLOps foundation roadmap for enterprises with Amazon SageMaker"
     excerpt: "As enterprise businesses embrace machine learning (ML) across their organizations, manual workflows for building, training, and deploying ML models tend to become bottlenecks to innovation. To overcome this, enterprises needs to shape a clear operating model defining how multiple personas, such as data"
     publishedDateTime: 2022-06-24T17:51:02Z

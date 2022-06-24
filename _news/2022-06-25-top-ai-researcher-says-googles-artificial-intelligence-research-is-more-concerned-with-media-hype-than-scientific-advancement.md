@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T19:30:00Z
 originalUrl: "https://www.businessinsider.com/gary-marcus-google-lamda-artificial-intelligence-media-hype-dead-cat-2022-6"
 webUrl: "https://www.businessinsider.com/gary-marcus-google-lamda-artificial-intelligence-media-hype-dead-cat-2022-6"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

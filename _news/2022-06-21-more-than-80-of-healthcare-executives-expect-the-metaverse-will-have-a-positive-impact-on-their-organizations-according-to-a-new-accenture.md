@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 937
         isCached: true
-  - title: "Oxbotica Taps AI in Metaverse to Accelerate Safe Deployment of AV Technology"
-    excerpt: "Oxbotica MetaDriver uses ‘metaverse’ to detect rare and unusual scenarios 1,000 times faster than actual driving"
-    publishedDateTime: 2022-06-20T02:13:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/25709-oxbotica-taps-ai-in-metaverse-to-accelerate-safe-deployment-of-av-technology"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 34
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/e4cc89a0b308faac762aebe6062fc468.jpg?t=20220620_021243"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Enterprise hits and misses - shoppers hit the grocery stores, AI gets an ROI check, and the metaverse hype machine refuels"
     excerpt: "This week - shoppers return to grocery stores - are retailers ready for the hybrid consumer? Events season rolls on; Oracle offers tech earnings hope. Transformation turns into lessons learned, and, just in time for the whiffs section - the metaverse gets a $5 trillion hype projection."
     publishedDateTime: 2022-06-20T09:44:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T19:54:00Z
 originalUrl: "https://www.ladbible.com/news/elon-musks-humanoid-irobot-that-can-lift-70kg-will-be-ready-soon-20220624"
 webUrl: "https://www.ladbible.com/news/elon-musks-humanoid-irobot-that-can-lift-70kg-will-be-ready-soon-20220624"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: LADbible

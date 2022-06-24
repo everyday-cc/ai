@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/101172924"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101172924"
 type: article
 quality: 76
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -41,34 +41,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/cctv_public.jpg"
         width: 1254
         height: 837
-        isCached: true
-  - title: "SA Police ignore Adelaide council plea for facial recognition ban on CCTV"
-    excerpt: "Adelaide City Council is yet to receive formal assurance from South Australia Police that it will not use the facial recognition capabilities of Adelaide's planned CCTV network until laws are developed."
-    publishedDateTime: 2022-06-20T01:35:00Z
-    webUrl: "https://www.itnews.com.au/news/sa-police-ignore-adelaide-council-plea-for-facial-recognition-ban-on-cctv-581559"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 53
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "SA Police ignores Adelaide council plea for facial recognition ban on CCTV"
-    excerpt: "Adelaide City Council is yet to receive formal assurance from South Australia Police that it will not use the facial recognition capabilities of Adelaide's planned CCTV network until laws are developed. In November 2021, the council passed a motion to ..."
-    publishedDateTime: 2022-06-20T02:40:00Z
-    webUrl: "https://www.itnews.com.au/news/sa-police-ignores-adelaide-council-plea-for-facial-recognition-ban-on-cctv-581559"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 52
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_technology_cctv_camera_biometric.jpg"
-        width: 1254
-        height: 836
         isCached: true
   - title: "Adelaide considers CCTV system with facial recognition as calls for regulation intensify"
     excerpt: "New deployments of facial recognition technology continue to raise questions in Australia, as experts call for changes to privacy law."

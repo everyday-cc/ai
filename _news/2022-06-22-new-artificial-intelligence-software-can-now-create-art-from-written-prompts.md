@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Robust.AI announces new Grace software suite"
+    excerpt: "Robust.AI announced the release of a new autonomous mobile robot software suite called Grace. The software is named in honor of Grace Hopper, who was the first person to devise the theory of machine-independent programming languages,"
+    publishedDateTime: 2022-06-23T17:32:00Z
+    webUrl: "https://www.therobotreport.com/robust-ai-announces-new-grace-software-suite/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/06/robustai-carter-CMR-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "New AI software cuts development timeline dramatically"
     excerpt: "How do you make it easy and cost-effective to take an AI feature developed for one product and expand it across a portfolio of products?"
     publishedDateTime: 2022-06-22T18:20:00Z
@@ -27,6 +41,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "How to edit Raw – AI and new software features"
+    excerpt: "With AI-powered tools and advanced features, raw editing software has come a long way. James Paterson shows how to use some of the best new tools Raw photo-editing has evolved rapidly over the past few years. Raw software has always been necessary for ..."
+    publishedDateTime: 2022-06-21T07:19:00Z
+    webUrl: "https://www.amateurphotographer.co.uk/technique/photo_editing/how-to-edit-raw-168211"
+    type: article
+    provider:
+      name: amateur photographer
+      domain: amateurphotographer.co.uk
+    quality: 37
+    images:
+      - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/06/boxout2_advantages.jpg"
+        width: 1000
+        height: 646
+        isCached: true
 
 secured: "UwvaMDFXNubSVISe8BNbIfqWqtqhJANaFjdfwL2JjrFg3CwOn+4XHFXr3CAGfyrCB29310vGSy0c4ez2zJFc0OSWTFm1VHx7dcqid4gYzS0/v/yHyphTrhj5D3IejNKJlGD6++dKOVsujnTKjZMUwM4glWfj4hVhMR0vfpy831dtF3gdpH5zvTI6vD09uvlcYZqfAAUaIQnosiMVutTjL6ti+huoEltyALK+eTFM2khe/kQiXvvGsXlHOkkTR+JoNijzJZb91PWdnvutAsOKWyCZhIVFR2BYdd4/CieHZVP7BQ07DHtCSGuEaBp/ilb/3X2t0ifCYild7XCVBTYiipYGCeK9YIhUVccJp3RggBo=;m1hSuPq7Y7HI4Y0RyoAh8w=="
 ---

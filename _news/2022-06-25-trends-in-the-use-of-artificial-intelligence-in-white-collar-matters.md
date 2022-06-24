@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T18:18:00Z
 originalUrl: "https://www.law.com/newyorklawjournal/2022/06/24/trends-in-the-use-of-artificial-intelligence-in-white-collar-matters/"
 webUrl: "https://www.law.com/newyorklawjournal/2022/06/24/trends-in-the-use-of-artificial-intelligence-in-white-collar-matters/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Law

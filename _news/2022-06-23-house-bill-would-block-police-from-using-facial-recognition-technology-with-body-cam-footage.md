@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Spotlight on impact of facial recognition technology on Māori"
-    excerpt: "The use of facial recognition technology in Aotearoa and its impact on Māori has come under the spotlight this week, after Australia's Choice Magazine found that major retailers Kmart, Bunnings and The Good Guys are using the technology across the Tasman to prevent shoplifting."
-    publishedDateTime: 2022-06-20T01:19:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/spotlight-on-impact-of-facial-recognition-technology-on-maori/WIDXGX4GGZKR7XL6VP7VZHOB5U/"
+  - title: "US House Democrats resurrect bill to ban body cams paired with facial recognition"
+    excerpt: "The legislation also would stop state and local police forces from buying biometrics-supported body cameras with federal funds."
+    publishedDateTime: 2022-06-24T21:34:00Z
+    webUrl: "https://www.biometricupdate.com/202206/us-house-democrats-resurrect-bill-to-ban-body-cams-paired-with-facial-recognition"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
     images:
-      - url: "https://www.nzherald.co.nz/resizer/rKXun6NpEfiAaiKK0P6iui0NmKg=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Y44JXEYYVTFZFO2LYZF7Q45654.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/25113324/axon-body-camera-police.jpg"
+        width: 1600
+        height: 1065
         isCached: true
 
 secured: "s/LwQP/f97vHMjFIv/ifR7+EJyao6B2sZisgIfRKEjP/xQXz8KDjBleV44RWKOj6OQ8a1K1pZ9an8US4LO2y9gMupiFn2UGmBPX34l2g32QBFVYAeLboeErZ0SftGcsFRIPiB4OX4jJOww6MMD4LaPA4fd80J/1w5M1EqJ84pQgOw/VeAguSRNSOBLs5ZH6nIBE7Bhg1XCp6KlWMIl+/jkWDhyBDC7+5r4oGAT2/LntADyTiQf1AluMEJ95OIC8UDNsoRpACvqxYPKHGdaSF4iWFzCnQCgWfwbVBTUs72bjKABkMKg8AKRxb9uFCZBnCZxdz/ldc8PFIYYXGwDhR5dQhhaKPZWynQwxP3g9a5SA=;6/C3UbhWsC73jbBNFsXxjA=="
