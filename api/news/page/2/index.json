@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-23-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
+      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
+      "excerpt": "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
+      "originalUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
+      "publishedDateTime": "2022-06-22T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-octoml-ceo-mlops-needs-to-step-aside-for-devops.md",
       "title": "OctoML CEO: MLOps needs to step aside for DevOps",
       "excerpt": "\"We can just use DevOps, but for that you need to be able to treat the machine learning model as if it was any other piece ... include a myriad of public cloud instances from AWS, GCP, and Azure, and support for different versions of CPU — x86 and ...",
@@ -1186,50 +1230,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
-      "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
-      "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
-      "originalUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314271305/image_1314271305.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

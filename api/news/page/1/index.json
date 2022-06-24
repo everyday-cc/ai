@@ -95,7 +95,7 @@
       "originalUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -815,49 +815,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-23-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
-      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
-      "excerpt": "Panasas announced its collaboration with MLCommons™, to create industry-wide benchmarks for machine learning (ML) storage.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
-      "originalUrl": "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Panasas-Joins-MLCommons-to-Advance-Machine-Learning-Storage-Innovation-01.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
-      "publishedDateTime": "2022-06-23T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-23-american-airlines-testing-face-scanning-at-dfw-airport.md",
       "title": "American Airlines testing face-scanning at DFW Airport",
       "excerpt": "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app.",
@@ -939,6 +896,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-cathie-wood-adds-329000-more-of-this-self-driving-trucking-firm.md",
+      "title": "Cathie Wood Adds $329,000 More Of This Self-Driving Trucking Firm",
+      "excerpt": "Cathie Wood-led Ark Investment Management on Wednesday scooped up more shares in self-driving trucking company TuSimple Holdings Inc (NASDAQ: TSP), its second straight buy in the San Diego, California-based startup in over two months.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-adds-329-000-more-of-this-self-driving-trucking-firm-1031544922",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-adds-329-000-more-of-this-self-driving-trucking-firm-1031544922",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/06/22/tusimplefleet.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },

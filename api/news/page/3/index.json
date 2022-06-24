@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
+      "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
+      "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
+      "originalUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314271305/image_1314271305.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-robots-found-to-turn-racist-and-sexist-with-flawed-ai.md",
       "title": "Robots found to turn racist and sexist with flawed AI",
       "excerpt": "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face.",
@@ -1031,7 +1075,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1174,50 +1218,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-cybersecurity-landscape-the-state-of-managed-security-services-2022.md",
-      "title": "Cybersecurity landscape: The state of managed security services, 2022",
-      "excerpt": "Machine learning and other capabilities help to ... Whether it’s a hospital, manufacturing plant or financial services company, their business is not secure, and our business is.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-state-of-managed-security-services-2022/",
-      "originalUrl": "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-state-of-managed-security-services-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

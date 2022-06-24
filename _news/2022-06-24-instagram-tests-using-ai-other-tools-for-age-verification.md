@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Instagram tests using AI, other tools for age verification"
-excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. But the tools won't be used,"
-publishedDateTime: 2022-06-23T20:12:00Z
-originalUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
-webUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
+excerpt: "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+publishedDateTime: 2022-06-23T17:38:00Z
+originalUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
+webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/40267c0d07df4ef99bac109894984999/915.jpeg"
-    width: 915
-    height: 610
+  - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -95,7 +96,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
+    excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."
+    publishedDateTime: 2022-06-24T05:27:00Z
+    webUrl: "https://gulfbusiness.com/instagram-to-test-artificial-intelligence-on-faces-to-verify-users-are-over-18/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 33
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2022/06/brett-jordan-fmqhTMu4IVU-unsplash.jpg"
+        width: 921
+        height: 620
+        isCached: true
 
-secured: "/T25vX4dsJi/sDc+x6f6fEAe8w9ndm/3eiwTy4xhg5JW/VDiHuhgNefPnhtpAxkREV8QVjE6FU6zI5IpoVnJO7pwaz0+YwH/2N8QfeqnJNUtL/E4dNMn4Py2gfns6kqNBH3iwufWiT5k9Z4c/BcgssYMyVzXMq3YcJnwo+53FTSMy8aEeVxwMTQg0MFtIRMOLL/SSgYT9hG/Cgyg+FBVS13nNT+o8pZfdDu9E0ukH8nS+lqA8BLnX7BWUcj1rwOupZ/Wwn7sH/yY5cg+X6RdlTcLXXETg4eUm1ROZNLIPDxv8JXRLKdg+5CfJtFRwFZPcluwMiF1eNHERnKNu+qeXkK9Bqb2njarzkZ3nsHnTMg=;RLtbariIHotcLyegovB/dA=="
+secured: "YjlMD8AZdcn/d+NMvG60THNcGJG+Ir6LijUOAwl/3GjXjkRYSRLwDE0zsXOdhbcHxijre6M92aNuT51EaRwq838lYc81rMsnJFNIaHT1LF7QQRAIgHXFq/lM/dZctSrw1pOagXhmPi1VSTrUCI1AAT5Dd1H3TXlcK1RDfVJtluJ7kj1rWUCeWQMeBzDsfHRNmcPSxO1boKl/HMuO6W3JCOnbP8zxEkXzSeK5M11K/UV9yeEuRkxnvwqVZ/KIt44Nx/A4c3YAzSnOxB66xBeUJii2MVm7T0gn5i0LN44BvcosnpQDMkpYhK8CbUACocRtDKHMG/98r+go0x4+SY+FTVZb7yKayGPIqXUfAGfnvko=;2nKo726i/JLT5r20RHPyeg=="
 ---
 

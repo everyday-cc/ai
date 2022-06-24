@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-16-acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots.md",
+      "title": "Acceleration Robotics Launch ROBOTCORE™ to Speed-up ROS 2 Robots",
+      "excerpt": "While providing a vendor-agnostic ROS-centric development flow, ROBOTCORE™ solves customer design challenges in robotic areas including sensing, perception, mapping, localization, motion control, low-level control or actuation, with speedups surpassing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
+      "originalUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
+      "publishedDateTime": "2022-06-16T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-teslas-driverless-cars-saw-most-crashes-in-past-year.md",
+      "title": "Tesla’s driverless cars saw most crashes in past year",
+      "excerpt": "US senators have raised the alarm about the high number of Tesla crashes. (AP pic) WASHINGTON: Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline.md",
       "title": "Operationalizing Ethical AI: From The C-Suite To The Data Pipeline",
       "excerpt": "Now that these technologies have become more commonplace, business leaders should turn much of their focus instead on how they use and manage AI and related training data to ensure that it’s consistent with other aspects of ethical business operations.",
@@ -145,40 +222,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
-      "title": "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27738170",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27738170",
-      "publishedDateTime": "2022-06-16T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1112,59 +1155,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-demystifying-machine-learning-at-the-edge-through-real-use-cases.md",
-      "title": "Demystifying machine learning at the edge through real use cases",
-      "excerpt": "Edge is a term that refers to a location, far from the cloud or a big data center, where you have a computer device (edge device) capable of running (edge) applications. Edge computing is the act of running workloads on these edge devices. Machine learning at the edge (ML@Edge) is a concept that brings",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/demystifying-machine-learning-at-the-edge-through-real-use-cases/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/demystifying-machine-learning-at-the-edge-through-real-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/demystifying-edge.jpg",
-          "width": 1241,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T13:37:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-23-cathie-wood-adds-329000-more-of-this-self-driving-trucking-firm.md",
+      "title": "Cathie Wood Adds $329,000 More Of This Self-Driving Trucking Firm",
+      "excerpt": "Cathie Wood-led Ark Investment Management on Wednesday scooped up more shares in self-driving trucking company TuSimple Holdings Inc (NASDAQ: TSP), its second straight buy in the San Diego, California-based startup in over two months.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-adds-329-000-more-of-this-self-driving-trucking-firm-1031544922",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-adds-329-000-more-of-this-self-driving-trucking-firm-1031544922",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/06/22/tusimplefleet.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-artificial-intelligence-will-help-autodesk-expand-in-the-metaverse.md",
       "title": "Artificial intelligence will help Autodesk expand in the metaverse",
       "excerpt": "“A common theme is helping the designer,” said Tonya Custis, director of artificial intelligence research at Autodesk, whose team includes fifteen AI research scientists based in San ...",
@@ -1311,58 +1363,6 @@
         "name": "CAR Magazine",
         "domain": "carmagazine.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-2-artificial-intelligence-growth-stocks-to-buy-on-the-dip.md",
-      "title": "2 Artificial Intelligence Growth Stocks to Buy on the Dip",
-      "excerpt": "C3.ai is a trailblazer, helping companies across 11 industries access the power of artificial intelligence. Upstart is using AI to improve the decades-old FICO credit scoring system. Throughout ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/",
-      "originalUrl": "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/684716/a-digital-face-appearing-amongst-computer-code-and-a-digital-background.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

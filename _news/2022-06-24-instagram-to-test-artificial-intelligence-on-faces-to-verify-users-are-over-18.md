@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Instagram is testing AI-powered video selfies to verify age"
-excerpt: "Continuing on with its push for age verification and the enforcement of its age requirement, Instagram announced that it would be testing new age-verification methods to help primarily younger users verify their ages with the popular photo and video sharing app."
-publishedDateTime: 2022-06-23T16:47:00Z
-originalUrl: "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/"
-webUrl: "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/"
-ampWebUrl: "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp"
+title: "Instagram to test artificial intelligence on faces to verify users are over 18"
+excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."
+publishedDateTime: 2022-06-24T05:27:00Z
+originalUrl: "https://gulfbusiness.com/instagram-to-test-artificial-intelligence-on-faces-to-verify-users-are-over-18/"
+webUrl: "https://gulfbusiness.com/instagram-to-test-artificial-intelligence-on-faces-to-verify-users-are-over-18/"
 type: article
-quality: 87
-heat: 147
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gulf Business
+  domain: gulfbusiness.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.digitaltrends.com/wp-content/uploads/2022/04/smartphone-with-instagram-app-on-it.jpg?p=1"
-    width: 1500
-    height: 1000
+  - url: "https://gulfbusiness.com/wp-content/uploads/2022/06/brett-jordan-fmqhTMu4IVU-unsplash.jpg"
+    width: 921
+    height: 620
     isCached: true
 
 related:
+  - title: "Instagram is testing AI-powered video selfies to verify age"
+    excerpt: "Continuing on with its push for age verification and the enforcement of its age requirement, Instagram announced that it would be testing new age-verification methods to help primarily younger users verify their ages with the popular photo and video sharing app."
+    publishedDateTime: 2022-06-23T16:47:00Z
+    webUrl: "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/"
+    ampWebUrl: "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/04/smartphone-with-instagram-app-on-it.jpg?p=1"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Instagram Rolls Out Face Recognition for Teen Age Verification"
     excerpt: "Besides providing Instagram with an ID, young people will have the novel option to upload a video selfie and have it vetted by an AI specialized in facial age estimation from Yoti, a UK-based ..."
     publishedDateTime: 2022-06-23T21:19:00Z
@@ -99,21 +109,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
-    excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."
-    publishedDateTime: 2022-06-24T05:27:00Z
-    webUrl: "https://gulfbusiness.com/instagram-to-test-artificial-intelligence-on-faces-to-verify-users-are-over-18/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 33
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2022/06/brett-jordan-fmqhTMu4IVU-unsplash.jpg"
-        width: 921
-        height: 620
-        isCached: true
 
-secured: "qDaNLRutnGysHQWF9x1RD9jX1U41n2kmm3H+WFKn7cI+CYDZuhmtpaZ1W/ptRmposY2Hg+U6dRCLesqWhbO2+v16mNkanwdh7u/MEjEvkkDw227id4VwPflznA0i0F4IjJdyBGMAE9t77maMtGRghEqFjw+92h+A5FPWzdSE4nOaCgbye+HRQLrKl/hgElfBUgJxOzXqNDOJr+hmMLoKA8hmS+IaAVQm2i/dziOA76VNe0gbHNMNHrA/5TDPUY8bf6vuduJi8tSAez+WKb/ri81m2DPhZVVc2GophcFb/YjldWTn+u48ffqqgfNYVoIT+sOKVx5RdUMKZ9e5ZUBo0i2TSaGZDrmrzGxW8/hW0fEgCKg2xJ0y7cRTHMr+TPnKFTsRSmZRAtoA1c8HwMfhAVzSaCMKwSAxBxOv/W2WVLAeBvEXfYKb/BPYtgv7UPL+CvbnmWQq2SZzGh/thKWvP12u8ATihGudc8pG4qiwUKEiEdU2bxO15xrcm84hNNG4iOHdXyIAiWTI66aZsGV3zw==;2jfr/Rh67/8C2c73pDNzDg=="
+secured: "y7yfELQpxEVv3LtlZRVmkVPZRflJ7nA0xBA06NPsyQtnVTBWsMfOsj775YHiVrrsAYJnJ2zQ5OatY91cBh+q4D7jUVOzE83SUg4dKu6iX99pvPd7OiOeZNtdub9Sr27zkoDvnh4UBN62qpUfX3nIS9HjIRtDAEFgltKeeKH4ccsZ5UR6OjTbXQxtGpvTSK+TM5/SRMvUWw6p7WePu2H8znY6fY6NwTEEkSlNobzktMxD52xxxx6b2XFFbv/1G6jZIKnA8B4uVpA4q4iP9///I5cB7pHahW0xKLZfIaBa2SxObVkr8Pp/DeMn8PWntpkWmz2WqdlcSRKvvtWcAnb1a17umDokjolT+Tvzr4nCqy8=;NXdngH6qN36C7PrNJFIy1Q=="
 ---
 

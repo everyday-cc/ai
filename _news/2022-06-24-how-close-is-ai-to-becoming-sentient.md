@@ -42,22 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Forget sentience… the worry is that AI copies human bias"
-    excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-    publishedDateTime: 2022-06-19T12:07:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google’s ‘Sentient’ AI Can’t Count in a Minyan, but it Still Raises Ethical Dilemmas"
     excerpt: "In part, the story feeds into current anxieties that AI itself will somehow threaten humankind, and that “thinking” machines will develop wills of their own. But there is also the deep concern that if a machine is sentient,"
     publishedDateTime: 2022-06-22T20:31:00Z

@@ -2,6 +2,60 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-13-sentient-artificial-intelligence-have-we-reached-peak-ai-hype.md",
+      "title": "“Sentient” artificial intelligence: Have we reached peak AI hype?",
+      "excerpt": "AI experts wonder whether discussing whether LaMDA should be treated as a Google employee means we have reached “peak AI hype.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
+      "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 278,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1311426965.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
+      "publishedDateTime": "2022-06-13T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-2-artificial-intelligence-growth-stocks-to-buy-on-the-dip.md",
       "title": "2 Artificial Intelligence Growth Stocks to Buy on the Dip",
       "excerpt": "C3.ai is a trailblazer, helping companies across 11 industries access the power of artificial intelligence. Upstart is using AI to improve the decades-old FICO credit scoring system. Throughout ...",
@@ -1107,49 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts.md",
-      "title": "Augmented Reality-Enabled Manifest® Platform Becoming Pivotal in Military Digitization Efforts",
-      "excerpt": "At the Eurosatory show in Paris (June 13-17, Microsoft stand K350 ... that increase service member understanding, reduce cognitive stress, and improve operational readiness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts/article_c0672487-137f-5b5c-b335-f412a1ff829d.html",
-      "originalUrl": "https://www.eagletribune.com/region/augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts/article_c0672487-137f-5b5c-b335-f412a1ff829d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/aa/6aa28b27-3223-59bf-b098-eb87aad19752/62a6d38ec9115.image.jpg?crop=1880%2C987%2C0%2C57&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

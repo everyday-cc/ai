@@ -82,18 +82,32 @@ related:
         height: 507
         isCached: true
   - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. But the tools won't be used,"
-    publishedDateTime: 2022-06-23T20:12:00Z
-    webUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
+    excerpt: "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+    publishedDateTime: 2022-06-23T17:38:00Z
+    webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: KVIA
+      domain: kvia.com
+    quality: 39
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/40267c0d07df4ef99bac109894984999/915.jpeg"
-        width: 915
-        height: 610
+      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
+    excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."
+    publishedDateTime: 2022-06-24T05:27:00Z
+    webUrl: "https://gulfbusiness.com/instagram-to-test-artificial-intelligence-on-faces-to-verify-users-are-over-18/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 33
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2022/06/brett-jordan-fmqhTMu4IVU-unsplash.jpg"
+        width: 921
+        height: 620
         isCached: true
 
 secured: "8/6jsSr+robldqxd/LokNv6iHP8G7S3CuDKQxRRGbCXvav3foeLZri7/vT9/ox5kldCg67jZVEp7n6qw/Wy6z5EUyD7LQsfoVRE8xT/yVkzr6u7hl/siTtlaFllq4Ul2uxxV9m0pESvcGB0ZgHMeTfZOdz/2WUkvCrxJjzv+cojIETLC4sqbuVfFV7ENKzFaiG9PBNGJkpTYNCgo7a/3GPvv5htCw2dmPvdXANT4YZuffVZ9pR3CGSMX7QHCPLtXcwiZ45tm6QF6BYHtRkdvET0M217JeeutvrLKHXWW1mP2yuoBiTFo066KnqaLSPYlHfqhbhENV4uXTLP3wmomgdHTV0z3SJSX4JevFQX3sHg=;q2WSfdCtYEDyCdSYjpj6Cw=="

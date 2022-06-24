@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
-    excerpt: "Panasas announced its collaboration with MLCommons™, to create industry-wide benchmarks for machine learning (ML) storage."
-    publishedDateTime: 2022-06-23T09:22:00Z
-    webUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
-    ampWebUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+    excerpt: "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS"
+    publishedDateTime: 2022-06-22T18:44:00Z
+    webUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+    ampWebUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
+      name: 01Net
+      domain: 01net.it
+    quality: 76
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Panasas-Joins-MLCommons-to-Advance-Machine-Learning-Storage-Innovation-01.jpg"
-        width: 700
-        height: 400
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
     excerpt: "Panasas®, the data engine for innovation, today announced its collaboration with MLCommons ™, the consortium behind MLPerf™, to create industry-wide benchmarks for machine learning (ML) storage. Panasas will work with MLCommons to help steer these benchmarks by establishing best practices for measuring ML storage performance and ultimately helping to develop the next generation storage systems for AI/ML."

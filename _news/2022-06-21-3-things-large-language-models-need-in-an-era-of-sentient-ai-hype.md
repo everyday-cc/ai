@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forget sentience… the worry is that AI copies human bias"
-    excerpt: "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns"
-    publishedDateTime: 2022-06-19T12:07:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias?amp"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122"
-        width: 620
-        height: 372
-        isCached: true
   - title: "How Close Is AI to Becoming Sentient?"
     excerpt: "Sounds great to me, I’m in. Lemoine: A monk asked Kegon, “How does an enlightened one return to the ordinary world?” Kegon replied, “A broken mirror never reflects again; fallen flowers never go back to the old branches."
     publishedDateTime: 2022-06-23T17:39:00Z

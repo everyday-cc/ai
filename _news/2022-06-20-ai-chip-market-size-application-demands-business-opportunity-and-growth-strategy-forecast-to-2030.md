@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?70647"
-    width: 443
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?330783"
+    width: 444
     height: 250
     isCached: true
 
@@ -66,7 +66,16 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 9
+  - title: "Cognitive Computing Market Analysis by Type, Application, End-User and Region 2032"
+    excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
+    publishedDateTime: 2022-06-24T05:56:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/24/cognitive-computing-market-analysis-by-type-application-end-user-and-region-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
-secured: "7XNCMfQdvwpcOMVihQS7mKPGynElgblw99a/Feuf0P2Nmuy50iPq7syxcsaxKXJxLWxENTOeHC3W3JH6vczWACPe35ktCagDHfDsSOIOVaFwINtA0Vpvd294MvJ2H8vnxQmJSccge1FAkCFCQODJB30zwKnv0j6Nv49CqCb63V0d4aOqrWtXJVgaiTV2SKT3IrC0R7XEkNh/1v1pQHbdbjSAtVp8j2WfpfFyQEKNnRYlJCWoopN5c+IlWO2+5ra1XA1Iq22aJxKgfYNPNglPULQzcSZbKaKRK2LG8YgqbUJ7Wf5eKixw9ykMA+fGu598eG8A5NUGLIsT7F03Vd7FJm/ZVNiZiMcZ9Alk0dc8924=;HRus5DrybLlMqwPEb66zzQ=="
+secured: "0V9TU11aCae9kb0tZ7gd2VgiFPJJUxnDd56HPU8Q8ja0NgC7/OFlarCZ4JQXyFp9lpCEl5RPQkO3KDKiHa2ECv6b+PpcWxA0kqwc/Lc6mXVCl+TR7tknH/WDmzRb35xTp1WEYDp+LKe2mmpJyTnu4ae2O/5nmnLmEae2yaO3J7QANiZsApOZOAjBW+jZzx68qROhsqrRJ+/zx0wrMohl4oMDooRwXgsyLCKdKrFDNAbw4QL/F+K7janUIRLrplAmYh1HP3dY477M3mviV4TR3CIKI4v+oUrst2H5/RByLtxU7h50MvUefm9vWC/LSunAwlNC6JF254ZUwJrLGpoa6/C+Qn48hSMf0E+ElbM87go=;rKipXk6j7bOg9JbD99gO4A=="
 ---
 

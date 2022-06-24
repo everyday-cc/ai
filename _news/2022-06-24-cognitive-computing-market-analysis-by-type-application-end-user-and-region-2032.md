@@ -1,32 +1,22 @@
 ---
 category: news
-title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
-excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
-publishedDateTime: 2022-06-23T12:13:00Z
-originalUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
-webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
+title: "Cognitive Computing Market Analysis by Type, Application, End-User and Region 2032"
+excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
+publishedDateTime: 2022-06-24T05:56:00Z
+originalUrl: "https://www.fmiblog.com/2022/06/24/cognitive-computing-market-analysis-by-type-application-end-user-and-region-2032/"
+webUrl: "https://www.fmiblog.com/2022/06/24/cognitive-computing-market-analysis-by-type-application-end-user-and-region-2032/"
 type: article
-quality: 36
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Future Market Insights
+  domain: fmiblog.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AI Chip Market Size Application, Demands, Business Opportunity, And Growth Strategy Forecast To 2030"
@@ -42,6 +32,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?330783"
         width: 444
         height: 250
+        isCached: true
+  - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
+    excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
+    publishedDateTime: 2022-06-23T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Industrial Artificial Intelligence Market Report Future Prospects, Growth, Outlook and Forecast 2022-2028"
     excerpt: "The latest Industrial Artificial Intelligence Market Analysis is designed to help clients improve their market position, and in line with this, this report provides a detailed analysis of several leading Industrial Artificial Intelligence market Key Players including Intel Corporation,"
@@ -70,16 +74,7 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 9
-  - title: "Cognitive Computing Market Analysis by Type, Application, End-User and Region 2032"
-    excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
-    publishedDateTime: 2022-06-24T05:56:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/24/cognitive-computing-market-analysis-by-type-application-end-user-and-region-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
-secured: "bvt0Txomc3eFThgqhBwd9aQk/wTpLjLvSEvhTCZ4aZIqN/cVDwpSVUI4F/amDBNiZsiCLgl2nchIZxy1x8c6buCVI/a1ZGmpMdS8JyMHBYdZFpyDZ2mJmBCJboxCWU+hHPB2tJKxVlrmXwgVjWDKVqi5lKqtO8ax/EUIUjEAs81+n7kJSxbkU5ig7bliZg6InMJ1w4lLBgsNRobmAHTRDucCaq5IL2xz1yXjotfg6F4coNk1wJUclpMDTFWmET9z4NKqDxug/Z0jDff3HpjFjJ+0Y1mqrBunIszy/FNLum5ml4/MpvWlKf+q0QPZCVddr9ChzddBM7RuvXj9gj/iHyJg1S6wcNXDcgqr6RYto0s=;wdhPDXuFeeaBgfK+L4NGGQ=="
+secured: "ORq8i7uo5pdWid8scWiHHYIam+VLNYscOr5gma6diEH0szTZZ5fVuyC0I3CwF+oJn4cDzg8d97i4Tikdbv9AEa06mmkcJj0FKRLvt3CVh6TWDlVZEIFkgNUELs2UZ9jz8euXE0Z8ktSipXzf6KbNX6C0C1KwvWUgPaLpd+rmi6Wd8exY2czvv/Paqh8wuQp2O4+Ucn/vLoiX4qSx3WjwLTVaIMZR1Rujzl+97d7c3W3grmh6JvIBUL9RqgI4IG0YeGX8aQCqpP5Pv/tQFCi0YLmd1dN1aFQL3msHzUyYj/xDtT3w90AhmkBeK4kynof2FKiWGZPTToVV7dN70m4lFGiFdYrQM48t1fJqe0aKSKI=;8rd27HKx2G1Dpgt90Md+qw=="
 ---
 

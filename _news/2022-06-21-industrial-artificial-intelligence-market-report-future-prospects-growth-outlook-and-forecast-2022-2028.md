@@ -32,8 +32,8 @@ related:
       domain: menafn.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?70647"
-        width: 443
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?330783"
+        width: 444
         height: 250
         isCached: true
   - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
@@ -68,6 +68,15 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 9
+  - title: "Cognitive Computing Market Analysis by Type, Application, End-User and Region 2032"
+    excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
+    publishedDateTime: 2022-06-24T05:56:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/24/cognitive-computing-market-analysis-by-type-application-end-user-and-region-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "6EN1pj1OWNkuOo4khA4er9zxhrqvZZkvph2Dl41TO5qeXBj50rUSMo0HVD4DfSGC+oDtZj4P8lu9Qyss5J9YCEzbfQVVAIT4olczAGs1RbVCkZ4Uj6xnbHi9ZkvfJP0nxT6C+9/EuNPct9LUzhfMlGJSr5bqYdKNu5qVgWBcTJpwN2C/6ntfCYXH544DoINLEQcXBEm7SP5Vqg5CqGU0/W38hBjT9TGSCg5KVzVePm8xuJSk2MphL2E0/GlwjqvTUTmgz64qSmuOHBhNHAaC2c514PriRjPBfNdNL/LSpv7EBNV9rffFPYi8k8G1n77+N4uqfHx88my3P8NRrzdcC3GniO4qLMuTk7WdFaTZzYE=;wEx4cXM3E8XMP29YvVHivg=="
 ---
