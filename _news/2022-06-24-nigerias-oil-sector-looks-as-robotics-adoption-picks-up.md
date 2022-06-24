@@ -9,7 +9,7 @@ ampWebUrl: "https://businessday.ng/amp/uncategorized/article/nigerias-oil-sector
 cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 300
     isCached: true
 
-secured: "39zEJ8mP3pM4z1UAHVn400gcPWn6dnffMDh2V3jmk3WqnQSX1QjxiKMHWMwgG3AYf5awAIqVDonvp7JkQDL9Gr6a0O+ljfXAJ1Kmdhk6qbf0LYi7loNNkABF4e9aGxcVnhDuUR1MFNxQBClHzGwd34jy8sukZtKYlpEUYk96KkuQVcyxa3tZIwXDFwUTqBB16uesecByA6K9A1OyzhCDueMblUHEM+5v35O0s9mSe4dWOvu/6H/IbW7drfJMu9lrYwtv1VXbiPU1a7V60qZnnNo1cXZnAR4BJGU72Fu4FWyTRT5Sa5K8G60QUyjwbZX+JN6Z6K8gyn5dRGWnCwo8Bpbu2DZLQ3VCG/2nbF9RN34=;uffw76og7+1A9wPrzHCZAQ=="
+secured: "Jd7lKGzTq/FECdeAu8QD+dGveutLnoSK9968Fv9CQF6g0AlysNlMP4fRKD4SGbm/Pt3F31ye9MfGyb6xifGFCe5tgPe5alFZJJWxFKT2umA4nrw8rZrpMmHTrjh7lnycniBGtZpcan+1KdeBOH0JdY4aWf2waX4rON92KlqEBW5k+mTkgLd6xfRM5KVMDCmgunvXexHe+oOewSqJRW/bHV4KucP52+V1HUZTKHnDwd0aJf7Q/MgcaUPA47vdtwWz/FSxPClBGqY+0g+flLpOrlZDuFqrAvIZbM50MNSyhzMmiFRH2U9LtUFV0rPRcgFrxOn+fxxYUSGoCx6LQ7qkkEhD5Ky5GilxBnMf9W86UkZ6AtjB3TU+704kw4UCwHVfyGotO9q+7UlbzTNKP3cPkEkGkeZDgskvil0YrHrbQMVlDoSbvET9ieb8C85uQiFVFCZr76juN8O8I8hF6M3Bqn7zXubrojAQl+Cmsz5aCPZzGA1AAXpszIm7TvWH1WoixMfrg4UjA4YfA0a85RuS3Q==;hm2hf94LRXC1wqjEjBvvsA=="
 ---
 

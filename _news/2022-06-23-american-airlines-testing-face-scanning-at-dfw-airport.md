@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksat.com/business/2022/06/23/american-airlines-testing-f
 cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp"
 type: article
 quality: 59
-heat: 99
+heat: 100
 published: true
 
 provider:

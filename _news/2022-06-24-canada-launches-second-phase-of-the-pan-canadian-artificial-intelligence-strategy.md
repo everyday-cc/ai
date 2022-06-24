@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/canada-launches-second-phase-of-the-p
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/canada-launches-second-phase-of-the-pan-canadian-artificial-intelligence-strategy/"
 type: article
 quality: 52
-heat: 82
+heat: 83
 published: true
 
 provider:

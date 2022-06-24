@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Instagram tests using AI, other tools for age verification"
-excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-publishedDateTime: 2022-06-23T17:44:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. But the tools won't be used,"
+publishedDateTime: 2022-06-23T20:12:00Z
+originalUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
+webUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_40267c0d07df4ef99bac109894984999_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/40267c0d07df4ef99bac109894984999/915.jpeg"
+    width: 915
+    height: 610
     isCached: true
 
 related:
@@ -98,6 +96,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DPFuc9AJDrigPNujBvIfML3UzexUZnGt+wzzfhyX/KSD77Ov16fhJPKghVNpC73oYEC9f1T0R64mceGgr5pg2LjUUNRftSHJDxUSFb58UcVY6JgcFckM8cSnQHzhRlFQmbVHM51wNzRbHhQHRA8nwoH5gCFy2BhzYxiRl+2qWKrHyYslPpaU2Ct2niILg3/C9mEBmLLpMJs1VAHbs0OuiRk1tkqYSP+u3QhgzDzOnO89lYTdfRyPNKK4JeGcpu/71AsAqPWIwMHEfBxcfQiX+kaNsrjQZd5x0mdPzqpe8GzITReFpnKJbsfzdRyX/iobUSoNWsOB/AZHsJjgRgo/S+vlQNR9+Sk+sygJqoGv+7E=;8NT/YZWGRVVCkJ3imzMyKw=="
+secured: "/T25vX4dsJi/sDc+x6f6fEAe8w9ndm/3eiwTy4xhg5JW/VDiHuhgNefPnhtpAxkREV8QVjE6FU6zI5IpoVnJO7pwaz0+YwH/2N8QfeqnJNUtL/E4dNMn4Py2gfns6kqNBH3iwufWiT5k9Z4c/BcgssYMyVzXMq3YcJnwo+53FTSMy8aEeVxwMTQg0MFtIRMOLL/SSgYT9hG/Cgyg+FBVS13nNT+o8pZfdDu9E0ukH8nS+lqA8BLnX7BWUcj1rwOupZ/Wwn7sH/yY5cg+X6RdlTcLXXETg4eUm1ROZNLIPDxv8JXRLKdg+5CfJtFRwFZPcluwMiF1eNHERnKNu+qeXkK9Bqb2njarzkZ3nsHnTMg=;RLtbariIHotcLyegovB/dA=="
 ---
 
