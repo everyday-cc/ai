@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-24T07:59:00Z
 originalUrl: "https://thebridge.jp/en/2022/06/legalforce-series-d-round-funding"
 webUrl: "https://thebridge.jp/en/2022/06/legalforce-series-d-round-funding"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://thebridge.jp/en/wp-content/uploads/2022/06/LegalForce-team.jpg"
@@ -23,6 +24,6 @@ images:
     height: 780
     isCached: true
 
-secured: "YkVI5/7J+co2Kh5C0yVW9QZ1QLEjQK0bw5HLvnXbeD3962OyeGeRqDOV/0geHTI1yoS56jhGERyNWe6T8tbypE7jc/Oia0dY0efbZle5xZUktRxu3+NfvNRJhNbNT+cvi9yyKN223TOwyUV/pdKSzCM09Ba7oJTy3Iig7HV4zP2/rYcC03gYTbjFGDQRsF4CR2k1pUcLNfdhzf+jlkggavYv82jpnrxiWq0PS74Zoe55iLTtF+UPfeZhTAxHLIk6fkbBdqEu32dshMyp/arlHC4kadh+6lcgQKWg6VGT3iQQcf1vHjs0cXU7uJW1y/Byo7N2u/yoBJNZD7mkhwkQaXk6Yb5K45segFnHGlOUH7c=;Yie0ktEdBUbiDh+vEGuuVw=="
+secured: "6MRQwFKOgoaMgKTnq5oyKF0yenoKrWFWk6beTnzDq1be36dUSNba1cxkFE4sNppe+C8I+osd90XoFiT1GaiEFrxL/sNco+DnVwkeh8m8SKxBAuBIhDurV8mmvNc5vGU9UdcwlzWxHlAIb6Oz9K5piGZAbfWpi48XVGRRvZR4RGzesBvCbUUnykcxL083n6YP1/mGdFSfX1DJXme7rmaIXJPbIOBh9eK0eMNewaozoVE9Dav8livkI0O5y5UzI9TQJzPbVl0HaCm0weM2YRV+plfxUX+ckJThNbHVbhRWRn23Oj9+H+yX9gh4khFODecvPQa3AMkUBIrqK5jUhKkI31YNUUck/RHUEPgFZ6KqvuPxoLw3TSkUgyBL0UHpEs2RKdiXyaP1OGX++4zLFSDcOf60MmXK97hDAW6zlXTB+7U5beNVfrWw0VEbTwhtIQ2e+h5rzqJHaIyl6ix7FTsNXWyvM3MFJmrI1Y2ws6vBzgovg4GlZi8OUUJOUmxxohfuq840b1Y875y6pU+nO1ZQeQ==;2Gw+xolovTquS3EnkFuvFQ=="
 ---
 

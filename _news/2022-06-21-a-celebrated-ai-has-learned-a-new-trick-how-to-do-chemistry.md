@@ -7,7 +7,7 @@ originalUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new
 webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,13 +26,13 @@ images:
 related:
   - title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
     excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-    publishedDateTime: 2022-06-21T14:00:00Z
-    webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+    publishedDateTime: 2022-06-21T13:00:00Z
+    webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
         width: 1800

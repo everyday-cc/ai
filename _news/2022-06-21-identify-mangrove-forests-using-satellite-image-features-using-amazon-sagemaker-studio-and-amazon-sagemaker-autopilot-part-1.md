@@ -60,6 +60,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 41
+  - title: "Amazon SageMaker Ground Truth now supports synthetic data generation"
+    excerpt: "SageMaker Ground Truth can generate hundreds of thousands of automatically labelled synthetic images on your behalf."
+    publishedDateTime: 2022-06-24T10:39:00Z
+    webUrl: "https://analyticsindiamag.com/amazon-sagemaker-ground-truth-now-supports-synthetic-data-generation/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-4-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "CjrkLj6NEWlD6KtJYaeUPCt8G3H2/sBTOhxwrQ+XjUc34X7JoZk8YOP3/bOqiN+jCWL/psRkNrhyk5D+W+dJD2ht5jzyFhHRQfT7qF+6YxVE466HKfJ7qaGojenOq2gDTIk2wGpeHZ0gTj3vqcm+e2dp+0gzBurWe/1cFfBtuktkFR/JZ4JfFnrBJ+UFm+chYDbOPbSFoa3xYlqfVgJ5FDmCguxnsH+pesbHwaSy5lFe7l3j9ekFWV9jZWduwYQrnMK/frl7R6hUpgYlZU+6vo3ypJkKP+AuO4pDYuYIVb3Di1KLbfsfh6KNEdLYULK8ZiVfkAy40dB3Um9WvvMLbEMOZa1zxEIoaNBRapFwKWA=;Eo6rwHsGH+xlT0FIchdGpQ=="
 ---

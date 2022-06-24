@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -152,6 +152,94 @@
       ]
     },
     {
+      "path": "_news/2022-06-23-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
+      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
+      "excerpt": "Panasas announced its collaboration with MLCommons™, to create industry-wide benchmarks for machine learning (ML) storage.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
+      "originalUrl": "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Panasas-Joins-MLCommons-to-Advance-Machine-Learning-Storage-Innovation-01.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
+      "publishedDateTime": "2022-06-23T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-mit-engineers-build-lego-like-reconfigurable-artificial-intelligence-chip.md",
+      "title": "MIT Engineers Build LEGO-Like Reconfigurable Artificial Intelligence Chip",
+      "excerpt": "The new AI chip design is stackable and reconfigurable, for swapping out and building on existing sensors and neural network processors. Imagine a more sustainable future, where cellphones, smartwatches,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/mit-engineers-build-lego-like-reconfigurable-artificial-intelligence-chip/",
+      "originalUrl": "https://scitechdaily.com/mit-engineers-build-lego-like-reconfigurable-artificial-intelligence-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/MIT-Reconfigurable-AI-Chip.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-leading-a-movement-to-strengthen-machine-learning-in-africa.md",
       "title": "Leading a movement to strengthen machine learning in Africa",
       "excerpt": "",
@@ -201,50 +289,6 @@
       "topics": [
         "AI",
         "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
-      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
-      "excerpt": "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
-      "originalUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
-      "publishedDateTime": "2022-06-22T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
         "Machine Learning"
       ]
     },
@@ -1348,59 +1392,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr.md",
-      "title": "Deep Learning Market Size, Share, Sales, Scope, Trends, Industry Overview, Top Players, Growth, Forecast to 2029 – VMR",
-      "excerpt": "Jun 14, 2022 (Heraldkeepers) -- New Jersey, United States,- The Global Deep Learning Market research includes an in-depth analysis of key geographical trends, market dynamics, and global size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr-2022-06-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr-2022-06-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

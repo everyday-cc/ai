@@ -65,6 +65,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
+    publishedDateTime: 2022-06-23T17:44:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_40267c0d07df4ef99bac109894984999_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
     publishedDateTime: 2022-06-23T20:24:00Z
@@ -80,20 +96,6 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
         width: 760
         height: 507
-        isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. But the tools won't be used,"
-    publishedDateTime: 2022-06-23T20:12:00Z
-    webUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/40267c0d07df4ef99bac109894984999/915.jpeg"
-        width: 915
-        height: 610
         isCached: true
   - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
     excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-23T12:03:00Z
 originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-software-artificial-intelligence-c732daf55344a99f12bc56276591dc17"
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-software-artificial-intelligence-c732daf55344a99f12bc56276591dc17"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

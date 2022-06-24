@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-making-the-frontline-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "InRule Technology delivers workflow automation to democratize AI and machine learning"
+    excerpt: "InRule Technology, an intelligence automation company, is adding AutoML within xAI Workbench, the company’s suite of machine learning modeling engines. “For organizations seeking to empower non-data science staff to build machine learning models ..."
+    publishedDateTime: 2022-06-21T17:46:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 47
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
         isCached: true
 
 secured: "jL8Kry8IvP0y/PtjnSGx3TGZYJyFwcEOb9VsIkxYVLEIoisN1tQeuRO1gEq2k80VbmCbzUymaIrqsICJDOmtO4A3cRDsT1yISaFffIAeAvEz1eJoFOegkZ7PYCIdf4hOQsPXP9Kz81Md6WGWAVUQ1rVZE7AM4VezL08nC5WrEGIrkvLHJGoaCgDJ1QMQLFP+RM1+IJVRpMYFQtHtRcT2Mg+eg2LztuevLH7R6JFEojwTQIMkVZy3d/3Zpnho5io7Kz5HucywTwiBtoMaLm9onb9W8jyqjcT6hGkqJknPItw9t5uQt1s/VJwcV44qniyS8WR4qw5E4zF3X0G57MNv8ftJx9inBOGXV1QfEAkblFsJeBqtU6HB1Nbc1AmIrdAJunZmEojSJWP+xi48mtuwrsGX+eXf74wf3ZaJRbaALb8vypNSfYoLA7S0Oitzrk3KW0v2XDPjafD0B+FgL9QNpzuPtZoMntJ1rTo99KAiOzUJBfbNawhF+B5twdbR05Ugx7dgCxdK4Bmpg+pzbhel0A==;DyF0JUryLEGO8quGcOVpcg=="

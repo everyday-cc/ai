@@ -65,15 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
-  - title: "AI Chip Market Size Application, Demands, Business Opportunity, And Growth Strategy Forecast To 2030"
-    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030, owing to the surging adoption of artificial ..."
-    publishedDateTime: 2022-06-19T18:39:00Z
-    webUrl: "https://menafn.com/1104398215/AI-Chip-Market-Size-Application-Demands-Business-Opportunity-And-Growth-Strategy-Forecast-To-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
   - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2022-06-20T06:36:00Z
