@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-21T13:00:00Z
 originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
   name: Connecticut Post
@@ -17,28 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
-    width: 1800
-    height: 1203
-    isCached: true
-
-related:
-  - title: "A celebrated AI has learned a new trick: How to do chemistry"
-    excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
-    publishedDateTime: 2022-06-20T20:31:00Z
-    webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 37
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/pipette-lab.jpg"
-        width: 1200
-        height: 810
-        isCached: true
-
-secured: "axonb9tS52LX+PXqhYUE5ZtQxXmcqEPPHYS+vXAQCBoGS/DR7BJdQNE8IyRxeLAwDRn7/wpv3qbqNWC1V2N4g9xEb2EuZ3IcAJes0FfQPgsIev8CT2JfHxW9SUBqeXDnMA0D2nMHqjM0P/1In1OTviGsGlZJmeYeD0QfXJ5uXHXEfFjXtBF0V1xXox2nR64Y1QYxdey/mTHvnx95oNktW9nP3MWYPB4UxpIeQSJM//OnELGk2mQ85Cb+7uI6T+T6ZrqxJ/YrcB7zQk/+h9cd63TS2zS9e4RgbZqCsXhshLE2djceIU2W0PFbUuYcZoMAHXpKsYqJUK0D5GIOWsVUetOplAhhYpRBHNZwBBGmGqU=;JVQptjbFxjFqGSa/pEYkXg=="
+secured: "l7zlQ0ot6hrYnDJTsr7Ry0X/4wTh0qkVc4WymUKf39UkReOIxPFB6koXZBFsv4nVN66BFgod9/9owzf6h7HsXRC4/vXe+8c3cyfLjVxtKrBOzkD8Sz05MUVFB2OpKlZkUiE5RZydH3e2QABa5bDj8cemFkAVJjB0dgmTm0pwT8bO6RzgE12wm8xaOf343Jd+XO+C8OQ7WoCrGYdevvQ+El+lp6MHwpvLs0oQElLQ9BkOYHh2mXfpgYHyDi9YkUY0BXLG6dojI568TGAgi/VSKHh7Yszwnlpy0C3I41lidIGhEgfllUpvx9MYMdcK1ilMuTgdapgYVj7tfoc976nFMA0M7tYCnI5aQMgDIDeGL/PXhgt3HXZGinsVpvnjHbenFokMIGhdRv1M/RhwRMy/YjUn+2jplnX76vgcSSr+/D9MqhZbgPg2u53aXreJ5vPrJ8BFHrGOkmEtQSO3qjKVw9Btv6Rg0eL48ibVBHkD/e0phGZO1krFB+0XXkqM09A996S3EtLvwWKEUIkxwCdTlQ==;isLFbxyyF52QZPMnQuyFkA=="
 ---
 
