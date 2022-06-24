@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Value of China’s core AI industry surpasses 400 bln yuan; smart chips, open-source frameworks technology achieve major breakthrough: minister"
+    excerpt: "The scale of China’s core artificial intelligence (AI) industry has exceeded 400 billion yuan ($59.74 billion) and the number of related enterprises has exceeded 3,000, with major breakthroughs being made in key core technologies such as smart chips and ..."
+    publishedDateTime: 2022-06-24T07:50:00Z
+    webUrl: "https://www.globaltimes.cn/page/202206/1268945.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 19
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-24/46903169-621a-4950-bf12-3610a1fb0cb0.jpeg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "2QA0Ce8lcyCGQhxJvE2iKOkuy4hvExkNnyK7a1FNR//CYlKzZ2aaxPTpM8tRvgEjWxZQBaY/hLxJoN/6u8yjqSRsVxaNdwRtcSN4wjA0L+UEMkGP1bdCRvchmRxB32NqwTDMS2dkXMxa8FbCGhETSbvjwhBKH11A/c9KNKWStPuyJnYQnjeODGI60mP1bRgFf8pmyu+AQvh+ePcCxySvanMs0ogpS70kwXaD+ivY1x9T6NEsCc52rbM3OiuTdv90b/vdUWu4TupiuE3RTpiMs4Gws2UUiB7RcpENIKh+S4qK2oQv/vNMMqXtfgVe+TaD7mih8hwKiyWSG1LzTIcYAF1rSKR1WAMy4ygh7JNpPCc=;X/5T4cNx/ev4tW+9Wg4fdQ=="
 ---

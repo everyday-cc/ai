@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-06-08-uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up.md",
+      "title": "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up",
+      "excerpt": "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "originalUrl": "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "publishedDateTime": "2022-06-07T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022.md",
       "title": "There’s still time to join leading AI and data thought leaders on stage at Transform 2022",
       "excerpt": "Does your org have an AI and data solution case study to share? There's still time for sponsors to apply to get on stage at Transform 2022.",
@@ -1082,49 +1134,6 @@
         "AWS AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant.md",
-      "title": "AI Tech Company Nala Robotics Introduces Pizzaiola, A Fully Autonomous Pizzeria Restaurant",
-      "excerpt": "Nala Robotics, an AI technology company revolutionizing the culinary industry with its restaurant-as-a-service platform , today unveiled Pizzaiola™, a fully automated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant/article_49aefc11-3756-5b6f-a863-3e69ed34da80.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant/article_49aefc11-3756-5b6f-a863-3e69ed34da80.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -89,15 +89,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
-    excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
-    publishedDateTime: 2022-06-19T13:43:00Z
-    webUrl: "https://blogs.timesofisrael.com/sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 32
 
 secured: "Mx0tC8XxYpv/j22rEr+9LMKgBhpX6rOtxSmU7x02rWjAt2WC2JiJ0vrbHKIVyV5e8Lh9dEBjcqIEnYwDP+NEdDgHDutRF9IwnVERV/CxYWLGOKc0YcUAcfMJWHxQMOovZ5YyhGDZ/hE/a/BWzACBdZArMUbsx5fDvtr2ElE66GhHIJIzYuWczrInV07k1GqTT77cSW17SUkQoM4ebfctmi49ov8+cDxd/WqYrylV9GLctx6FjlMqgfbDvkU6zY93CXc4tIweNIon0W9vVUl/ipIC7Z3N1P+0DizNNrkrhuAoGBXd0w58U0JRcvwBG9Vf5yZ/6JBTuvWjBBS8D7IV9mFeVtPU5yYiuA8TmWdm7Ot75ELVJAcgwVHvScwhnUsS9HMpCNZ7nWruNQ5VePrGpR7ANcDb81jcdILtN7rdDB3RP+KKRXjkB9/DyMvEcqvPwDVxh5rKzB0gXPmu1XPjEHiduNVrtj/LUN2ebIjVNRWxb/kZGZ/NboUTy6CDXzcuWg54UxVRaX0GWNzxU5qWOA==;XTkz2SycPY/aCdoTda3lMw=="
 ---

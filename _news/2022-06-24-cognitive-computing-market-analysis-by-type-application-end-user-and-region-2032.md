@@ -29,8 +29,8 @@ related:
       domain: menafn.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?330783"
-        width: 444
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?79228"
+        width: 303
         height: 250
         isCached: true
   - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"

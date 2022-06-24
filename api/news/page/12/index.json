@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-13-posture-assessed-in-health-exam-detects-cognitive-decline.md",
+      "title": "Posture assessed in health exam detects cognitive decline",
+      "excerpt": "Males with SVA ≥ 100 mm at any age, SVA ≥ 90 mm at ≥ 70 years, and SVA ≥ 70 mm at ≥ 80 years were likely to have cognitive decline, while females with SVA ≥ 70 mm at any age were ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-posture-health-exam-cognitive-decline.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-posture-health-exam-cognitive-decline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/posture-assessed-in-he.jpg",
+          "width": 2880,
+          "height": 5138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-posture-health-exam-cognitive-decline.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-posture-health-exam-cognitive-decline.amp",
+      "publishedDateTime": "2022-06-13T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-sentient-artificial-intelligence-have-we-reached-peak-ai-hype.md",
       "title": "“Sentient” artificial intelligence: Have we reached peak AI hype?",
       "excerpt": "AI experts wonder whether discussing whether LaMDA should be treated as a Google employee means we have reached “peak AI hype.”",
@@ -1111,57 +1154,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-what-are-the-most-in-demand-ai-skills.md",
-      "title": "What Are The Most In-Demand AI Skills?",
-      "excerpt": "Artificial Intelligence (AI) is about teaching machines to learn and make decisions that can benefit organizations or society as a whole. But being able to deploy and implement it is dependent on an array of human skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a6d92d400b6f084b876076/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/amp/",
-      "publishedDateTime": "2022-06-12T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

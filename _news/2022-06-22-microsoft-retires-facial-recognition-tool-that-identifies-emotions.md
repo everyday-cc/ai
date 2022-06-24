@@ -382,6 +382,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft retires facial analysis capability under responsible AI"
+    excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
+    publishedDateTime: 2022-06-24T07:36:00Z
+    webUrl: "https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai/"
+    type: article
+    provider:
+      name: Innovation
+      domain: innovationaus.com
+    quality: 56
+    images:
+      - url: "https://www.innovationaus.com/wp-content/uploads/2021/04/Identity_1892584579_OP.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft restricts access to several controversial AI services"
     excerpt: "Microsoft announced it will phase out access to a number of its artificial intelligence-powered facial recognition tools. The changes apply to some of its"
     publishedDateTime: 2022-06-22T09:30:00Z

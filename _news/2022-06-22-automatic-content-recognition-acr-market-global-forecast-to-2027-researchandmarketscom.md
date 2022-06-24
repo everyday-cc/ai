@@ -25,15 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Global Automotive Voice Recognition Market 2022 - Latest Innovation, Sales Channels, Business Advancements, and Top-Vendor Landscape to 2028"
-    excerpt: "Global Automotive Voice Recognition Market 2022 by Company, Region, Type, and Application Market Research to 2028 is a report provided by MarketandResearch.biz that examines current trends, provides a financial overview of the industry,"
-    publishedDateTime: 2022-06-19T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-voice-recognition-market-2022---latest-innovation-sales-channels-business-advancements-and-top-vendor-landscape-to-2028-2022-06-19"
+  - title: "Autonomous / Self-Driving Cars Market - Global Forecast to 2030"
+    excerpt: "Chicago, June 20, 2022 (GLOBE NEWSWIRE) -- According to the new market research report \"Autonomous / Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1 ..."
+    publishedDateTime: 2022-06-20T10:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27782278/autonomous-self-driving-cars-market-global-forecast-to-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27782278"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27782278"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "rHEbjygQa3NUNLrqHjZ8gEjxi2esl4oaB11go1a7OmkzPLtHxn5CEZQe/n2X4j3zJ58snmqSxIupbT48D+KV02wHah32wGGkC0kj8WnVS+87oxhPx0F7rnFrfL5xM95DrzD3IXgZ2TIOPGdV4Wt/+o3h0lAB+x03fMwLCYoL7qf2Geyvkseiww3YVe39wz1kwV51bXbBBT3tb0K2FeRua0uSagUOyX/bq4i1hv9BSfQq/m+HWzJ9+6beOSMOScbZdoxySD7yLa7gC74nrGoc3GAKC8LEjPpln25GSFlWJEu6PJkQXGDtzuJisqjqHBXKTG8ggdmP96/PjTQwiCEfA7UPhwxB/IX3bgRu1sxYXkk=;gvBGR+3HFLeep+KBuyJKUQ=="
 ---

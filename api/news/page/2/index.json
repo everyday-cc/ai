@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-06-23-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
-      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
-      "excerpt": "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS",
+      "path": "_news/2022-06-23-amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable.md",
+      "title": "AMD Xilinx Makes Machine Vision AI Development Quick, Easy And Affordable",
+      "excerpt": "A host of software tools, code samples, an app store, and pre-configured Linux images make getting started surprisingly simple.",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
-      "originalUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/",
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b37f46922813ea4349c831/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 727,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/",
-      "publishedDateTime": "2022-06-22T11:44:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/amp/",
+      "publishedDateTime": "2022-06-22T13:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -409,7 +417,7 @@
       "originalUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 528,
+      "heat": 538,
       "tags": null,
       "images": [
         {

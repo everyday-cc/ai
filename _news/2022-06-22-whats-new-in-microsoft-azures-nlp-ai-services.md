@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cogniti
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
 type: article
 quality: 138
-heat: 528
+heat: 538
 published: true
 
 provider:
@@ -377,6 +377,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--ejq4NgZ4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-06-21t175514z_2_lynxmpei5k0u9_rtroptp_3_activision-m-a-microsoft.jpg?itok=RAOmg6w0"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Microsoft retires facial analysis capability under responsible AI"
+    excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
+    publishedDateTime: 2022-06-24T07:36:00Z
+    webUrl: "https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai/"
+    type: article
+    provider:
+      name: Innovation
+      domain: innovationaus.com
+    quality: 56
+    images:
+      - url: "https://www.innovationaus.com/wp-content/uploads/2021/04/Identity_1892584579_OP.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft restricts access to several controversial AI services"
     excerpt: "Microsoft announced it will phase out access to a number of its artificial intelligence-powered facial recognition tools. The changes apply to some of its"

@@ -81,15 +81,6 @@ related:
       name: Public Radio Tulsa
       domain: publicradiotulsa.org
     quality: 39
-  - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
-    excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
-    publishedDateTime: 2022-06-19T13:43:00Z
-    webUrl: "https://blogs.timesofisrael.com/sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 32
   - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
     excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
     publishedDateTime: 2022-06-19T16:24:00Z

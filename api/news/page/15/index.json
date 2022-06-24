@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-10-spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.md",
+      "title": "Spinal posture assessment in health exams reliably detects cognitive decline",
+      "excerpt": "A mass survey of citizens aged 50 to 89 years examined whether cognitive decline could be detected by sagittal spinal balance measurement based on a radiological approach. Doctors from Shinshu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220610/Spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220610/Spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220610/Spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220610/Spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.aspx",
+      "publishedDateTime": "2022-06-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-thinning-of-the-eyes-retinal-layer-a-marker-of-cognitive-decline.md",
       "title": "Thinning of the Eye's Retinal Layer a Marker of Cognitive Decline?",
       "excerpt": "Thinning of the eye's macular retinal nerve fiber layer (RNFL) is linked to cognitive decline in older adults, new research suggests. Results from a study of more than 400 adults showed an ...",
@@ -1138,57 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-how-ai-is-shaping-the-future-of-work.md",
-      "title": "How AI is shaping the future of work",
-      "excerpt": "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
-      "originalUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/",
-      "publishedDateTime": "2022-06-09T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

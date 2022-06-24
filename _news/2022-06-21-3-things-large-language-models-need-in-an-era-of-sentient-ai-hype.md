@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "‘Sentient’ AI can’t count in a minyan, but it still raises ethical dilemmas"
-    excerpt: "Bringing the inanimate to life with rabbinic magic has historically been problematic. Can we do better with artificial intelligence?"
-    publishedDateTime: 2022-06-19T13:43:00Z
-    webUrl: "https://blogs.timesofisrael.com/sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 32
   - title: "Google Insider Claims Company's \"Sentient\" AI Has Hired an Attorney"
     excerpt: "Google engineer Blake Lemoine says the AI program called LaMDA is sentient and retained a lawyer for itself. Lemoine says LaMDA is a sentient person."
     publishedDateTime: 2022-06-19T16:24:00Z

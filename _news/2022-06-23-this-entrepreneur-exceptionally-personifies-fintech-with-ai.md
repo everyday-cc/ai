@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Next big thing in the future of finance: Fintech revolution"
+    excerpt: "Fintech has changed the lives and habits of people by making it easy to trade, bank, exchange money, take loans without the need for physical human interaction. Innovations and revolutions are what the technology"
+    publishedDateTime: 2022-06-24T05:47:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-1-7.png"
+        width: 487
+        height: 375
+        isCached: true
   - title: "Learning new ways of working from the UK’s soaring fintech sector"
     excerpt: "By Stuart Templeton, Head of UK at Slack From the rapid rise of the cashless society to instant in-app bill splitting, the world of banking has transformed at pace over the past decade. The sparks that lit this revolution were non-traditional fintech services and challenger banks,"
     publishedDateTime: 2022-06-20T21:52:00Z

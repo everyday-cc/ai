@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chi
 webUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2022-06-20-at-9-47-56-pm-1655776096.png?crop=1.00xw:0.837xh;0,0&resize=1200:*"
         width: 1200
         height: 602
+        isCached: true
+  - title: "Value of China’s core AI industry surpasses 400 bln yuan; smart chips, open-source frameworks technology achieve major breakthrough: minister"
+    excerpt: "The scale of China’s core artificial intelligence (AI) industry has exceeded 400 billion yuan ($59.74 billion) and the number of related enterprises has exceeded 3,000, with major breakthroughs being made in key core technologies such as smart chips and ..."
+    publishedDateTime: 2022-06-24T07:50:00Z
+    webUrl: "https://www.globaltimes.cn/page/202206/1268945.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 19
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-24/46903169-621a-4950-bf12-3610a1fb0cb0.jpeg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "K60FXlg/UJiJxhMa/52cuoGm+o6XuLDZuyB6sA307lZo3+X4CFtZ57nlb30ffZRuIuBrXX23/sOqgiyT02Q4zZs+2j+CO12qaiYOGTMi+DcbZgR1KAgq4epJSqDjn1X2tF4UNW5x49R/P+coDLONR3s7kyDKgbd/ZjjV+aJ8jLOo0nGxt/TfIllrJX6V5E0RByndmPqPkeipxPSIui+ys9dvGfY60XP4A3jJP3SaWXcy8qeLUdFI+KXWmFQBBbOn4Tjrx63/WuKqmACRb632nGo5aqhOidBFJdWxVLBhty+qz00AkRBHA+yX+J9eszqwqvx1/xE87gXsTvyz1Axl4JyyJ07gWJU5cx18qmiV4jjsFassbREwybigj+T4dYmekBRBt9+XGubxa6FvuCgKH2Nn/RZq6nVTqrkx/RoAjCIqd13pSb65zC/v5F0l/lOmisoAZ5KW6L+EBUjTMNUTcI+kvINaYCKJQGBepJRm9GzPK5KmtVwnrb/L2SQVuYgP1JE+iUpmlIbozAOR9Vv/7w==;g+Np03VBZ9+7eV7YWWkEuw=="
