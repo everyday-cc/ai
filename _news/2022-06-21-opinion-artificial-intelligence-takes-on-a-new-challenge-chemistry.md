@@ -2,18 +2,44 @@
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
 excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-publishedDateTime: 2022-06-21T13:00:00Z
-originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+publishedDateTime: 2022-06-21T14:00:00Z
+originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
+  - Machine Learning
   - AI
 
-secured: "l7zlQ0ot6hrYnDJTsr7Ry0X/4wTh0qkVc4WymUKf39UkReOIxPFB6koXZBFsv4nVN66BFgod9/9owzf6h7HsXRC4/vXe+8c3cyfLjVxtKrBOzkD8Sz05MUVFB2OpKlZkUiE5RZydH3e2QABa5bDj8cemFkAVJjB0dgmTm0pwT8bO6RzgE12wm8xaOf343Jd+XO+C8OQ7WoCrGYdevvQ+El+lp6MHwpvLs0oQElLQ9BkOYHh2mXfpgYHyDi9YkUY0BXLG6dojI568TGAgi/VSKHh7Yszwnlpy0C3I41lidIGhEgfllUpvx9MYMdcK1ilMuTgdapgYVj7tfoc976nFMA0M7tYCnI5aQMgDIDeGL/PXhgt3HXZGinsVpvnjHbenFokMIGhdRv1M/RhwRMy/YjUn+2jplnX76vgcSSr+/D9MqhZbgPg2u53aXreJ5vPrJ8BFHrGOkmEtQSO3qjKVw9Btv6Rg0eL48ibVBHkD/e0phGZO1krFB+0XXkqM09A996S3EtLvwWKEUIkxwCdTlQ==;isLFbxyyF52QZPMnQuyFkA=="
+images:
+  - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
+    width: 1800
+    height: 1203
+    isCached: true
+
+related:
+  - title: "A celebrated AI has learned a new trick: How to do chemistry"
+    excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
+    publishedDateTime: 2022-06-20T20:31:00Z
+    webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 37
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/pipette-lab.jpg"
+        width: 1200
+        height: 810
+        isCached: true
+
+secured: "DRfSkMAXVUvHWAcNVeQFm00KfRe9o6cRgXDlfscF1PKSdSJDu1bi4mgUtQ66qqWR16I2W+kQ7BFsV+na7RGalHojiQdDTFVvoW11hE9V+jwyqGGR3xROXcc4VM3WkrmOYhetFulpT8G6Ct57xs1x0p2ZZMr+8wiEbiQLMrf+PNaW/YSKaOzkMoUZfKOCXKAf/ffhIx95IcCyDCexDl4/hAUJ1Od8ivbEjfWy1Y68MORebndt60d5aMRa3eIwkNYwlgxM6exBGhdtG/rQxc9pcrwnxPLfm+ONc6H63j4Jw3N5SedPxH4Il5E8F9eSNDopUtYVo+2yoyUkvtbGJ293UH0EwRgfqfbKnP4PIACXo14=;XQAbuCe40TbtfKrSk/3mhA=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-e2b8f650
 webUrl: "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Associated Press
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
-    excerpt: "Panasas announced its collaboration with MLCommons™, to create industry-wide benchmarks for machine learning (ML) storage."
-    publishedDateTime: 2022-06-23T09:22:00Z
-    webUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
-    ampWebUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Panasas-Joins-MLCommons-to-Advance-Machine-Learning-Storage-Innovation-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Panasas has become an MLCommons collaborator to develop a machine learning storage benchmark"
     excerpt: "HPC storage supplier Panasas is working with MLCommons on how best to measure machine learning (ML) storage performance, develop an ML storage benchmark, and help develop a next generation of storage systems for ML."
     publishedDateTime: 2022-06-22T15:54:00Z
@@ -56,6 +40,15 @@ related:
         width: 950
         height: 944
         isCached: true
+  - title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
+    excerpt: "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS"
+    publishedDateTime: 2022-06-22T18:44:00Z
+    webUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 36
 
 secured: "GWsyAGvRnTi8Pt1kss3XxZyHuw5KeOOdQlhDE1lR8LKD6n/CxmYIatz0Xgzq9Miidg7CFMflHxt8CUrcQe4HtvLr1ZxMaY4k88TpYE9RjinjBoNevD/PFuqUpSe2cGXYqYRi8yCjsmpHaPwwS+M3L6jbn1gGAVogU2eBly22D3j2OzLs4rzxtwIPMacPZn/UTA0zb+ERqzYy4XcWKv/brX+C+buP//NGFMfnTfm696hlxefde9BdNlLoepnvrFh92hC2bp5e+PHdPZ1rlPvZB1vNpnXV08RtzjWo7NzWVNbPLiXWGSO4ZQQ708TvXjmkgUy4acwpvBnDh9pu8GH7Q83LoJjLBhXIE4wSyBqs5Yw=;5jTK4oW+KrJErdpsrdkrSQ=="
 ---

@@ -146,6 +146,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 10
+  - title: "5 Fintech companies looking to hire in Europe right now"
+    excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
+    publishedDateTime: 2022-06-24T12:38:00Z
+    webUrl: "https://www.euronews.com/next/2022/06/24/5-fintech-companies-looking-to-hire-in-europe-right-now"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 4
 
 secured: "Sc4o8gSEn/7FEGhrDYPxdPCuEiQ+SV5IlXZZadBMecoIbQlx0K0Gl8eyBpcZwKK1nrx2ZMDLOZ8hraZvEOuJlHXHnYSsTGgkFGkhstaGd09jSRwlAOUqakF1vHLHTxOiokttcunfVvHawJecfgbMBOaO0nSdeEAJcWsr9emTMoff8GwlwUIXt23IDgJV3221UU3v4bN0VVFsGsSklm7m1sBswVGJcRUYGuFMgng6Z/KA3D6HDAeNH+1494Rw07KTR7m2/eYA+z978p+ZVObh1pzvxmRHR3Q6IwPJEpv7eDrb1NnRX0HPySlsX8N4+pZjtDO5Bq0TPt9X0IETOBZ2iunxH9UhN9BdJgOA9s0l9RVG5U1Qiik2G6uJQtEk95lMA2DdinudfqIMi3bj37XwO6757TlI9fMaBDmVwgljJKDJTmpTMLbUKwlLt+919/rDbzj6E25jqm01si+oHjNNn5F6VjUNnBdIQwu/xBMZ1niOzsXpzMw0QJqlZrss5J5oInPm58+AH4H4khULoRbroQ==;Pad4zZJns/q1t3jLWz56Sg=="
 ---

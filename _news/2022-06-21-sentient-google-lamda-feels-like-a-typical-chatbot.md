@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T16:54:00Z
 originalUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
 webUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: ZDNet

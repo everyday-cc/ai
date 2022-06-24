@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T13:03:00Z
 originalUrl: "https://medicalxpress.com/news/2022-06-guesswork-dental-artificial-intelligence.html"
 webUrl: "https://medicalxpress.com/news/2022-06-guesswork-dental-artificial-intelligence.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Medical Xpress

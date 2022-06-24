@@ -9,8 +9,8 @@ ampWebUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-in
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: 01Net
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marchex Wins Artificial Intelligence Innovation Award in 2022 AI Breakthrough Awards Program"
-    excerpt: "Company’s Conversation Intelligence Selected by Awards Program Honoring Standout AI and Machine Learning Solutions and Companies SEATTLE--(BUSINESS"
-    publishedDateTime: 2022-06-23T13:15:00Z
-    webUrl: "https://www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/"
-    ampWebUrl: "https://www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/amp/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 63
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "AdTheorent Wins “Machine Learning Innovation Award” in 2022 Artificial Intelligence (AI) Breakthrough Awards Program"
     excerpt: "Marks AdTheorent’s Fifth Consecutive AI Breakthrough Awards Win. NEW YORK, June 23, 2022 /PRNewswire/ -- AdTheorent Holding Company, Inc. (“AdTheorent” or the “Compan"
     publishedDateTime: 2022-06-23T13:32:00Z
@@ -56,6 +40,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
+    excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,"
+    publishedDateTime: 2022-06-22T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "ACTIVEFENCE WINS “BEST AI-BASED SOLUTION FOR CYBERSECURITY” AT THE 2022 ARTIFICIAL INTELLIGENCE BREAKTHROUGH AWARDS"
     excerpt: "The Award Honors the Company’s World-Class AI-Powered Proactive Content Detection Technology NEW YORK and TEL AVIV, Israel, June 23, 2022 /PRNewswire/ -- ActiveFence, a leading Trust & Safety tech platform that prevents online harm,"
     publishedDateTime: 2022-06-23T12:31:00Z
@@ -93,15 +86,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program. The fifth annual awards program recognizes Skai's innovation in"
-    publishedDateTime: 2022-06-23T14:00:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/23/9627327.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 13
 
 secured: "S74tTFJPCSN4gtKDwWRikGFpY2s9Lu2I0AUAj23F9LjXEsknn3woLwfTGDmIs0eQ0yYIRZ0MXCXCFeFXbzN8/+8o2YSwFQzNuJMKXsQ2hwQmvBcQiL0VbpUGaQDt0X37/l89PFIPWWKPltWiap7iv6h/DIXqAJ9i0ac/LYI6Qavnlk3Oiu2et6aNcRwb34K7p2QNcH1mTYOOA0L2YRSCE5pPHDsLs+YRDID8IoFahbU4tuUkpWMRkbMdDEK+2qvzlJgPBsvz0DfVOzoZDvRcNll+yNiIXhgXCHRk1vbZQXH8aesWvvWjMsWzeevfZiHSg9OkRuL3K2qbSVP6S+mVZ00bW6gxp02ivfDdHB63v8k=;ZZXkNgofr/kzoI2ZzI8pfQ=="
 ---

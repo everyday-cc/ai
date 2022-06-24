@@ -149,6 +149,15 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "5 Fintech companies looking to hire in Europe right now"
+    excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
+    publishedDateTime: 2022-06-24T12:38:00Z
+    webUrl: "https://www.euronews.com/next/2022/06/24/5-fintech-companies-looking-to-hire-in-europe-right-now"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 4
 
 secured: "pMbPNHSLF5h+7t/nCiL7FIKJnEt0ZD2lUzelMmM+2nVoW4sYrPZiFK58adwLr93BiTx28D0xn3Tb5Fts6x8GM1uS1z3fWc0cq2d8gTt+eAMKBSQwl+Wydoxd0pcgBMp1onV18AzxdK3ExndFDL3Y+DURhUj7HzDcgcYo8QaDyIpfA+8C86xMISb80ss/0NBljULY4EnDIdTJxfcOtGEyskJZLu1amF61S9ahXDaPbZCpIjbfwMBFrHddSqJdsAzLg3YnkenfnMlUoioi3Dm0ad9uSBKtZrbPHrMm5572aP8eHWuABjUgZjc+8l62q+1m/VyUvLhlKhW/trhfLQjpiBAYRrN9iOYmb/4CIBYgKGI=;7jvEFWgGGjJrFfHN/mLMqQ=="
 ---

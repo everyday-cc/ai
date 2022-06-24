@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg"
         width: 347
         height: 256
-        isCached: true
-  - title: "How Project Convergence is Bringing AI to the U.S. Army"
-    excerpt: "The U.S. Army is working with industry partners to quickly enable data transmission technologies to get information more quickly and efficiently to soldiers immersed in high-speed, fast-changing combat environments."
-    publishedDateTime: 2022-06-19T22:00:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/how-project-convergence-bringing-ai-us-army-203094"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/5852204%20%281%29.jpg"
-        width: 1222
-        height: 815
         isCached: true
   - title: "How AI is used for data access governance"
     excerpt: "According to the 2021 Data Risk Report Financial Services, a financial services employee has access to 13 percent of the company’s total files on an average. Meaning, employees can modify over half a million files,"

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T11:10:00Z
 originalUrl: "https://www.actuia.com/english/what-role-does-artificial-intelligence-play-in-fighting-forest-fires/"
 webUrl: "https://www.actuia.com/english/what-role-does-artificial-intelligence-play-in-fighting-forest-fires/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Actu IA

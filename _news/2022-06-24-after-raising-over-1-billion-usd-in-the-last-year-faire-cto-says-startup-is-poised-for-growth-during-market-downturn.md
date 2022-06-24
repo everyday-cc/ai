@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T13:43:00Z
 originalUrl: "https://betakit.com/after-raising-over-1-billion-usd-in-the-last-year-faire-cto-says-startup-is-poised-for-growth-during-market-downturn/"
 webUrl: "https://betakit.com/after-raising-over-1-billion-usd-in-the-last-year-faire-cto-says-startup-is-poised-for-growth-during-market-downturn/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: BetaKit

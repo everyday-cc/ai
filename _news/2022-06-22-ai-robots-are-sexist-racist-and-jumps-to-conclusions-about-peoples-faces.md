@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots found to turn racist and sexist with flawed AI"
-    excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
-    publishedDateTime: 2022-06-21T15:09:00Z
-    webUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-racism.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Robots turn racist and sexist with flawed AI, study finds"
     excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
     publishedDateTime: 2022-06-21T22:57:00Z
@@ -95,15 +79,6 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 19
-  - title: "Can we make artificial intelligence less racist?"
-    excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
-    publishedDateTime: 2022-06-22T18:51:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
     quality: 19
 
 secured: "UhHzXg+F08av+lbkgJpGbUHQBOtcs5pFai8xmdJZwT3CUN6NTsfMvhfWDzagwIcsYrdnyw8f5pVVIvKXgIUCA/R3e9Wr1MmL5L3lcieOKBVvJGwjgYbTOualBfdnijQnOJHTqqZ0WIF9oS8kAN6EbFgcrTPHCI9HHSSZgcCJPG53NEoAhbki7yRKd5Whkw6QyKwz6PZ6pPytFiMMMPSBrMfLCiu3NOc0QXRQmv7nk4htOzcTWl9eKfSxdcgsTVWhzwc4RgCXpb3EUi8jkpTJmbQTIhbxnsff1buKEuvJ4DjKdoe3iQP2oRim6zr6ilDeG9MoezS9wr+G1+X+gHgJiq8FPxE/rFW32m5cN9Q5Z9rYlgNHAiBOZD/iYCB47Gd2amb5qsJm7qzkjfjl1+nJhXexyynsOrhDygmPWDQM8IbupXOHBN/h7TTeOZMcGI9y6yiM4hPEKN9SeqO3Bgqp/vyz4ytULSpIV16yaqKsnXN0MCWy61NGvt49mLI3DT6LgiZm4E3WFV6dhhOErnn2bw==;9M13ayObMLPAJwp/46qrZQ=="

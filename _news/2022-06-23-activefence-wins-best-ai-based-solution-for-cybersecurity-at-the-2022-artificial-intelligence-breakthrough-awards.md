@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marchex Wins Artificial Intelligence Innovation Award in 2022 AI Breakthrough Awards Program"
-    excerpt: "Company’s Conversation Intelligence Selected by Awards Program Honoring Standout AI and Machine Learning Solutions and Companies SEATTLE--(BUSINESS"
-    publishedDateTime: 2022-06-23T13:15:00Z
-    webUrl: "https://www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/"
-    ampWebUrl: "https://www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/marchex-wins-artificial-intelligence-innovation-award-in-2022-ai-breakthrough-awards-program/amp/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 63
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Eigen Technologies Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards Program"
     excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies NEW YORK & LONDON--(BUSINESS WIRE)--Eigen"
     publishedDateTime: 2022-06-23T13:14:00Z
@@ -70,6 +54,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
+    excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,"
+    publishedDateTime: 2022-06-22T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Aizon Wins “Best AI-based Solution for Manufacturing” Award in 2022 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "SaaS provider that transforms pharmaceutical manufacturing operations, today announced that it has been named “Best AI-based Solution for Manufacturing” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
     publishedDateTime: 2022-06-23T14:02:00Z
@@ -93,15 +86,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program. The fifth annual awards program recognizes Skai's innovation in"
-    publishedDateTime: 2022-06-23T14:00:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/23/9627327.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 13
 
 secured: "QfZOFINB4QkY89VEECLKk+3Hs/VVxboeUGPJaC9APW8VSsRNR1LyQ1/R9FAyWLIuHSF3zoLugaGRoEufw/VMWzYZ4xhmMkRe7Jb9rzUwQU5x5BxB7VTZhfQt/RAtyOoczpO3onPUZiKzYsXBUK310jU3FaSU2JwVqUPVUcCJjp7RCzG/JtmBzD3zdsjdT/uKnJecb0oSnajBA7yYLx3seFlBGZg40fko1sXiTfjC6W4U0DMYzHx+ebZlASGA4dTYSa9tKyRfnWVolv6MEpWrbb9axYCqo9LqXFdbHWcmVyNR3MEC26NHwhOMQwOKfAeH7gXvxwJn9H4hII9Cc6d6bikoIKgY5JdR9h3IouTEWvA=;SHDVXqq7fmsOuS0ULchIQg=="
 ---

@@ -5,7 +5,12 @@ excerpt: "A Google engineer claims he's found sentience in an artificial intelli
 publishedDateTime: 2022-06-24T13:01:00Z
 originalUrl: "https://www.seattletimes.com/business/ai-and-the-ghost-in-the-machine-losing-human-jobs-is-the-least-of-our-worries/"
 webUrl: "https://www.seattletimes.com/business/ai-and-the-ghost-in-the-machine-losing-human-jobs-is-the-least-of-our-worries/"
+ampWebUrl: "https://www.seattletimes.com/business/ai-and-the-ghost-in-the-machine-losing-human-jobs-is-the-least-of-our-worries/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-and-the-ghost-in-the-machine-losing-human-jobs-is-the-least-of-our-worries/?amp=1"
 type: article
+quality: 37
+heat: -1
+published: false
 
 provider:
   name: Seattle Times
@@ -14,6 +19,23 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
+
+related:
+  - title: "Why data-driven marketing needs artificial intelligence and machine learning"
+    excerpt: "Bobby Gray, head of analytics and data marketing at Artefact, looks at how organizations can tackle the resulting data loss with a first-party data mindset – and the adoption of artificial intelligence and machine learning. No one needs reminding that ..."
+    publishedDateTime: 2022-06-22T09:21:00Z
+    webUrl: "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 68
+    images:
+      - url: "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-247257-alina-grubnyak-ziqkhi7417a-unsplash--default--1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "jwGCkebiO5clePpEOkRkR6aR5rqUaNCxSCjUWS77xZPkccBrNfn90dRWwq2BHLO2fSGW3hO1OGNmQPDt0QR0EaOgSk8HvmQouDLEKzQtjok3SkBFNL1S1sjZy0X8aYpIY56xgYLeWNM4OYBVYazdM3mv7ZQmKwOk53Z6dLnva18Ta1LD0RrFWBqDlySfPmw0qTxlWFDWdrSi9k+UBhqwGPHGNISUEtRNjEPfR1v1YJWw2oMgKYPmSCZ92SsgfT2bkuSURaAtUJ5njcNhhTDpgOo3hx3pWvMgmao74aULdeLDPqExxAOZL+/LUWi7m6PlmtatxfmPNCQgs2XPn+X69uPU1AEkr7+dySm//FCoQRa1b9rTGW/rRJsFINVYwVbzgt2PV7hOOn5yrNwKT2B+HtjqP6zp9X6Vj34/S6ZQxHQ0TmyAakXzeVFmde+pityLsLTxf/HitUI+sJObz3H9VNk2kyCzSfJl1M9JIn7jJAugBZbsZjXrvLHOXOLyTqzTPQs2TGDojsK9OcdDvmnODA==;dH0TBezoJDmIleLNjo8SRA=="
 ---

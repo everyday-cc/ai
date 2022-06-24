@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T11:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-set-to-register-6459-billion-usd-by-2027-2022-06-24"
 webUrl: "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-set-to-register-6459-billion-usd-by-2027-2022-06-24"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: MarketWatch

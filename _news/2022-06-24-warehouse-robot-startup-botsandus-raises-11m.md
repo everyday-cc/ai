@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T12:07:00Z
 originalUrl: "https://bmmagazine.co.uk/news/warehouse-robot-startup-botsandus-raises-11m/"
 webUrl: "https://bmmagazine.co.uk/news/warehouse-robot-startup-botsandus-raises-11m/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Matters

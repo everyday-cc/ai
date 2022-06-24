@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T11:42:00Z
 originalUrl: "https://www.theaustralian.com.au/nation/im-struggling-to-see-way-forward-on-recognition-pat-turner-says/news-story/6ee5f6c09af313ed4496d41579a9de7a"
 webUrl: "https://www.theaustralian.com.au/nation/im-struggling-to-see-way-forward-on-recognition-pat-turner-says/news-story/6ee5f6c09af313ed4496d41579a9de7a"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

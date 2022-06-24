@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/06/220621141753.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220621141753.htm"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Science Daily
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Robots found to turn racist and sexist with flawed AI"
-    excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
-    publishedDateTime: 2022-06-21T15:09:00Z
-    webUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-racism.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Study Shows Robots Using Internet-Based AI Exhibit Racist And Sexist Tendencies"
     excerpt: "AI has the potential to revolutionize society, but that may not be a good thing if it leads to robots that harbor harmful stereotypes from humans."
     publishedDateTime: 2022-06-21T19:56:00Z
@@ -98,15 +82,6 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 19
-  - title: "Can we make artificial intelligence less racist?"
-    excerpt: "AI is used in everything from banking and policing to entertainment and health care. But fixing the biases baked into its algorithms is far harder than just rewriting code."
-    publishedDateTime: 2022-06-22T18:51:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
     quality: 19
 
 secured: "bWSw1wsGq1y6CQRvzo8xckAPSBEViDL+C/VeP8y35r1fiMMnm3TDHSj/yX5KpQfbYVpyuJR12Ep46/fsUQX4s9b9lQ1aNhSt7XP8DT7Gkaun5KTA5e22E0NeQD/t/q3k3IQNlYbcqV9R8jF/D+LkRBTRiVI39i/IdAqNN/nxVMm+K8BgIPqWrQfEyj6zbp/0CcUsRQCXFGyhnFgHOI36saqvTa3Kq0RA3d7T/dZ0sfOesz5gyB9TrHQY5J4yUrgP3GrSdMFpY/6IgLYfHAX5RBg9sqnhlMayxIqteSt+MhUkAWBMuxN4xoXKfYhTK3EuDFxqivJ2zNpUOByo3NT1Tcrr576nU4PRBxuZkYa/pkA=;utfBfgw4NLot0rOV6RMP8w=="

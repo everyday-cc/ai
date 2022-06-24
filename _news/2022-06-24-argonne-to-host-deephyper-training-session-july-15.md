@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Argonne to Host DeepHyper Training Session July 15"
-excerpt: "Registration is here, the deadline for registering is Thursday, July 1. Deep Hyper is a distributed automated machine learning (AutoML) software package for automating the"
-publishedDateTime: 2022-06-23T21:51:00Z
-originalUrl: "https://insidehpc.com/tag/deephyper/"
-webUrl: "https://insidehpc.com/tag/deephyper/"
+excerpt: "The Argonne Leadership Computing Facility will host a virtual hands-on training session on DeepHyper ( on Friday, July 15 from 9 am to 4 pm Central Time. Registration is here, the deadline for registering is Thursday,"
+publishedDateTime: 2022-06-23T21:44:00Z
+originalUrl: "https://insidehpc.com/2022/06/argonne-to-host-deephyper-training-session-july-15/"
+webUrl: "https://insidehpc.com/2022/06/argonne-to-host-deephyper-training-session-july-15/"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "XG1MbCTUHa/2ifyRpuHtauuvAiIdr6KofOx+/kevMoAGUJCXHA1L+BN5n0nORONH+JwJbk/fiwXIpUjIr9Fei3FahghySMTfOi5MF4zdAEmVojnTVUzD8QKuCQLOnz97HEHuiGXou25TGNtlehb7NR8jVfFbs5AHug8x4lAmqIYQosJv05DglPqEBPBlUu1imuG8nzCBfz3y3ptRwJn4rzfBYEaVC8VqD645DEbToYcLgWIPNlHKwR/3YHAteenwrnqkXAMbmxiqhrFeiDKNLSpdLaxKoYlaznG3k49SnlGf+90QnYwnX5SZoUfqti8jOR6lu71emOKBku/wjYiqMZ2yIXbzNOkgIsI1G75wP/w=;A7A11IOQdmed6vw4qMyVnA=="
+secured: "ml2BJTAclopLgT8PhlCVrJN12SxA0if1IuohwQVPDKs5qvUIkVInOsLRb3Bbm8sok8s/leMx2J8r9snyIbKR5fEEwQ7JUWoJ0j2mCROQvDVTcyeDluVYbqlEPbsAMy1cHMa4gvU4Fvxup252gsvixwInUrzCNsuspgaGbw1uHY6H/oqxKfxKXCRNavp8S0NfQHx9zmzN92B1A/qqvjdVCtw0Z6RDAg+m8PbpqRN7uX2HewMFe3EOl6Virlahj34RkYRUHo9lvN5ayVeW1XtzcccW9DEFoDT6MiLQ6hdyt5ViiMAocROd62gq6NvGLUNQrueMHqNszMntsW+ghE9bTqOxu2Ww76ByDRQg3qtOJ/Y=;6wbpNaKqLzdlJfO4XAYCYA=="
 ---
 

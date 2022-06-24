@@ -210,6 +210,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Why Microsoft is rolling back its AI-powered facial analysis tech"
+    excerpt: "AI-powered facial recognition has been criticized by groups like the Electronic Frontier Foundation (EFF) for years. While law enforcement use is often the most worrying, studies have shown that these tools simply aren’t accurate in identifying ..."
+    publishedDateTime: 2022-06-24T14:24:00Z
+    webUrl: "https://www.popsci.com/technology/microsoft-removes-facial-recognition-tools/"
+    ampWebUrl: "https://www.popsci.com/technology/microsoft-removes-facial-recognition-tools/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/microsoft-removes-facial-recognition-tools/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 76
+    images:
+      - url: "https://www.popsci.com/uploads/2022/06/24/mauro-mora-31-pOduwZGE-unsplash.jpg?auto=webp"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Microsoft to discontinue face recognition as it updates AI guidelines"
     excerpt: "Amid the ongoing debate about the controversial use of facial recognition technology, Microsoft has announced it is retiring certain AI facial recognition capabilities."
     publishedDateTime: 2022-06-23T06:51:00Z
@@ -293,6 +309,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft Halts Sales of Emotion-Reading Tech, Limits Facial Recognition Access"
+    excerpt: "Microsoft has decided to retire its emotional assessment technology, as well as place restrictions on the use of its facial recognition systems. In a blog post published Tuesday, the software giant announced that it would be sunsetting facial analysis ..."
+    publishedDateTime: 2022-06-24T14:08:00Z
+    webUrl: "https://www.extremetech.com/internet/337431-microsoft-halts-sales-of-emotion-reading-tech-limits-facial-recognition-access"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 69
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/06/turag-photography-1uQe5BIiH8w-unsplash-640x427.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Why Microsoft is retiring its facial recognition AI that can detect emotions"
     excerpt: "The company has confirmed that the facial recognition AI framework will no longer be available for new users. However, existing users can access these"
     publishedDateTime: 2022-06-22T09:14:00Z
@@ -330,6 +360,15 @@ related:
         width: 825
         height: 510
         isCached: true
+  - title: "Microsoft stops selling emotion-reading tech, limits face recognition"
+    excerpt: "Microsoft Corp on Tuesday said it would stop selling technology that guesses someone's emotion based on a facial image and would no longer provide unfettered access to facial recognition technology."
+    publishedDateTime: 2022-06-21T20:07:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-stops-selling-emotion-reading-tech-limits-face-recognition-2022-06-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
   - title: "Microsoft Scraps Some Artificial Intelligence Facial-Analysis Tools, Citing Risk of Bias"
     excerpt: "Microsoft Corp. will stop selling artificial intelligence-based facial-analysis software tools that infer a subject’s emotional state, gender, age, mood and other personal attri"
     publishedDateTime: 2022-06-22T15:05:00Z
@@ -368,20 +407,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2022/06/facial-recognition-door-lock-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Microsoft stops selling emotion-reading tech, limits face recognition"
-    excerpt: "Microsoft Corp on Tuesday said it would stop selling technology that guesses someone's emotion based on a facial image and would no longer provide unfettered access to facial recognition technology.Th"
-    publishedDateTime: 2022-06-21T17:48:00Z
-    webUrl: "https://www.channelnewsasia.com/business/microsoft-stops-selling-emotion-reading-tech-limits-face-recognition-2761426"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 56
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--ejq4NgZ4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-06-21t175514z_2_lynxmpei5k0u9_rtroptp_3_activision-m-a-microsoft.jpg?itok=RAOmg6w0"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Microsoft retires facial analysis capability under responsible AI"
     excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."

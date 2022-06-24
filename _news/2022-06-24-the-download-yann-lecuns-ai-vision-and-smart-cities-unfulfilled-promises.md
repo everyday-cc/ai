@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T12:13:00Z
 originalUrl: "https://www.technologyreview.com/2022/06/24/1054826/download-yann-lecun-interview-ai-general-intelligence-meta-smart-cities/"
 webUrl: "https://www.technologyreview.com/2022/06/24/1054826/download-yann-lecun-interview-ai-general-intelligence-meta-smart-cities/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: MIT Technology Review

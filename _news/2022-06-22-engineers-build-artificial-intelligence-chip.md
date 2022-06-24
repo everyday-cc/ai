@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Project Convergence is Bringing AI to the U.S. Army"
-    excerpt: "The U.S. Army is working with industry partners to quickly enable data transmission technologies to get information more quickly and efficiently to soldiers immersed in high-speed, fast-changing combat environments."
-    publishedDateTime: 2022-06-19T22:00:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/how-project-convergence-bringing-ai-us-army-203094"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/5852204%20%281%29.jpg"
-        width: 1222
-        height: 815
-        isCached: true
   - title: "How AI is used for data access governance"
     excerpt: "According to the 2021 Data Risk Report Financial Services, a financial services employee has access to 13 percent of the company’s total files on an average. Meaning, employees can modify over half a million files,"
     publishedDateTime: 2022-06-20T12:30:00Z

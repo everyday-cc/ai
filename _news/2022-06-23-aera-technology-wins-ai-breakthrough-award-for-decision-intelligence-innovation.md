@@ -40,6 +40,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Marchex Wins Artificial Intelligence Innovation Award in 2022 AI Breakthrough Awards Program"
+    excerpt: "Marchex (NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that its Marchex Conversation Intelligence solution has been selected as winner of the “AI-based Analytics Innovation Award” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-31c3dcc0cdb14bdfad926836cd6051ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "1zwXYe42h/ZdMatWVJ81MmHDkFmoCO1pom67tl4XRyQ9WeA50jEv3QsqpchXgmE3ko9/Z1hfT4JtPChTHpjk6MhfzRLCiumgMBlaJwqUg2C2hfk0xhGh41OcRYfYf0NVkxvx8FEfj6bZaxrK9Z0bZeOh9D1zY+EuISSFCrv3yabx5aiASuMNzJew8KoWnNywBj0357XN4QXCgCPqFu1m7A+tdldNMYL67x62vWHC/JXCUiPhVSyFcSdCSUMn8O4C57cPEY0ih1CJYy/nOzfrin6pcMcQkWUqIP2xBGibFrmCyS3T/mNjQwRO158hsSMikKj2Av8vgDtLvE/ENVgO2dF5McrZG4THeqD5O38nKtI=;HgCNmVywIwdiMou6Vr8dTg=="
 ---

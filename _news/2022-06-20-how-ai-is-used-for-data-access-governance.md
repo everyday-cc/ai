@@ -50,20 +50,6 @@ related:
         width: 347
         height: 256
         isCached: true
-  - title: "How Project Convergence is Bringing AI to the U.S. Army"
-    excerpt: "The U.S. Army is working with industry partners to quickly enable data transmission technologies to get information more quickly and efficiently to soldiers immersed in high-speed, fast-changing combat environments."
-    publishedDateTime: 2022-06-19T22:00:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/how-project-convergence-bringing-ai-us-army-203094"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/5852204%20%281%29.jpg"
-        width: 1222
-        height: 815
-        isCached: true
 
 secured: "/+rdAGOxryYa/v9xvTHreNI7Z7d83zj3z6iIbMgO5/QrdNOdTjfExjEMgDYRg6w1UUnCDt0RB31PzpCKEHjF8qoinDQ48bch1ro4G2ttx2c0eT+LIL1gL5e7pcwgZ8acFqCvu9QQFxZgJybULRrpb6ejCW99KVuvLywdI5+WKdTU9khznTPXfDYop13B3sBhBdUQtM/wbTcUKNkN3zb6UrMtCODGnmbEMPJ9eKvyf1DwBu9X1rTQb0BNURww5I6Bw5GGTo81J5k15hDNITq0WSjvEgY/A2HS3XhQzIT9wvP8P/kuZXndJHzZmO/nmdNOQEr7rFLr4RHIOCUkMhzkCCd+NvpBd7p35XzR4NovTh8=;SA4IDbJ5F2Sqf3Y7oYjEdQ=="
 ---

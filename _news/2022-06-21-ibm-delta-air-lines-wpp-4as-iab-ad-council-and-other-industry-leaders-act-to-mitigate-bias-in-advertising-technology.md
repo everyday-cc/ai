@@ -55,6 +55,15 @@ related:
         width: 800
         height: 564
         isCached: true
+  - title: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program. The fifth annual awards program recognizes Skai's innovation in"
+    publishedDateTime: 2022-06-23T14:00:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/23/9627327.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 13
 
 secured: "nHM3/i0uc25iC+NiJ/zXvlAi6p5hKXEMu5YFkZYQOApnD1J+ycuGURP/H6Uqh+H+T4gfuyFS2/We7tMPxJ/2Egig97ttwgAB6NnSBirB0yjNyU3gztvwdC+TsTsKAm4U9IeCWUUe3bhxvn19Dqgf0i3YGUgbULhbYX3vj48ejYY7zkqmaS77tgvq7+4n7dUQtmZRop4VV+7PKGD4dmicjCLfRHeMlmQKF0yeCdxQf0q7b75Pu1Q3rDG2/6tfiIVJO90/h/f5nondZLEf3mGJCAYUuumzPFc+Jhm5sklxwX/tH7L1/PekcGgEu7GyRbxRS128HJSaCSBE1dfjQ71dn3OaKDpkcBZUYMNVHV50KXxqFSjz1yu/q0EmGvMw+BLmW85XPSsGWBUhnz208loEH2jtrtpoEf2quO1/wi7AzH0o2U4yfIwMCXPj5r58OgK/EhBa5siAaymEETzMdV8l9D/kwLhp0UJfllRzoq2+Yo3EnCVdg5GTb/JOvsV1hkpnEE7NVQ9bzFE7hY+42uUccw==;9hsSrSXtPz+DNxlven24ww=="
 ---

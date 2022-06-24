@@ -23,6 +23,17 @@ images:
     height: 426
     isCached: true
 
+related:
+  - title: "Yann LeCun has a bold new vision for the future of AI"
+    excerpt: "One of the godfathers of deep learning pulls together old ideas to sketch out a fresh path for AI, but raises as many questions as he answers."
+    publishedDateTime: 2022-06-24T11:54:00Z
+    webUrl: "https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 21
+
 secured: "HOj5OtS8d5qLUd/44Zch16gq7eMHT2i1eg//nsvOtnqk62vOlL2w0chW33aX+yvzm+1DwpGuvnl+VWhhdhUkfDNHCVMJxXZ9d/eBC0JZtRCElqwNKCFrC6AAiY9l6jh61EbYaw40HNQ+SbtXZWM19LMEJ2eQgM9sdnBBvELU7ajh++U24iYszblCg44stzHDrFr7hn7Q5fbph4QoEuXG+SZDSwgDF2mTtnruZd3y2CIeABVxMbC4vgSjq1/1duz/S9JNZEj8kJ20lU3+yV3GgE1pLN3qEhGo+TdDTtqArYvpR46FuRFE1BjoA+ajTm/rs7u4AuZU2bctUVV6B6jBDYwXR3dO0xYBAMsmq0pkj3ayO2+a7+aQRpHaYQtru7zoW0UFaj/HooxFZd5uHkIL5jhkuM126cSmdafv8BJhRJsugAm4QdrDujp31TwPuQi29+WOXdO0lQk+YmwyzMksRcOhSCfocW1MlHrBJZYNr368DyBCBoxrGslRgRktesZSSfBQF+LH6/nS3o+cbt+P2Q==;BT4nDAsLfAa6V6fXsSYTTw=="
 ---
 

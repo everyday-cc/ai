@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/industry/p
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870"
 type: article
 quality: 61
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 10
+  - title: "5 Fintech companies looking to hire in Europe right now"
+    excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
+    publishedDateTime: 2022-06-24T12:38:00Z
+    webUrl: "https://www.euronews.com/next/2022/06/24/5-fintech-companies-looking-to-hire-in-europe-right-now"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 4
 
 secured: "aX77hbYkF8U7NFUG2OlNvLhx2tcsGN2AzoQVRm6gaZlvyvMqOm6jurU5pssO/aN2WbFiLhTKMfyDRmkw2vMOlk8WLh64UoGD1kZ+mZsHLgavas+CTp/c5gxl+yFLfLwglw4TlTNdnUxN9vroeiXxrzu75c2DggcrCI1u55kmwW+EKnV6nnf1KvbNiRbvFiUvKo0LT4WsrxguoeR0J05BkJQ3xhLMAS5UY4UOS0znS8J9Wex7Ba5sZoynyRnvr9XSJLFFnkzq/BTCbrqKNF1MLtL0oKEDN6g0nsXX9MrOXE3Gyy/gftI2CitLVKWRi/4YjfQVUCeeWOyl9NWGzM9aqIfa7A0E8h1zwfom8c+wQcM=;THQ7qggCz9uer79rBzeR1A=="
 ---

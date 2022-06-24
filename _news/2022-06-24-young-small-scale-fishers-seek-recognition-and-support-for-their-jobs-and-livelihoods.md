@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T12:30:00Z
 originalUrl: "https://www.iol.co.za/capeargus/news/young-small-scale-fishers-seek-recognition-and-support-for-their-jobs-and-livelihoods-73e52a9f-e143-4630-8204-c582d189d26c"
 webUrl: "https://www.iol.co.za/capeargus/news/young-small-scale-fishers-seek-recognition-and-support-for-their-jobs-and-livelihoods-73e52a9f-e143-4630-8204-c582d189d26c"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: IOL News
