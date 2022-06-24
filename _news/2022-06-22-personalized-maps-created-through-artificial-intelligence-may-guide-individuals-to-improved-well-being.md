@@ -26,17 +26,6 @@ images:
     height: 461
     isCached: true
 
-related:
-  - title: "Personalized maps created through artificial intelligence may guide individuals to improved well-being"
-    excerpt: "Researchers have used artificial intelligence to explore psychological well-being and to provide guidance to help people improve their long-term life satisfaction."
-    publishedDateTime: 2022-06-20T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/956502"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 3
-
 secured: "Vz8DxGIpOW1fh1NSs0TtP0SUWn8uhhBiXhN3jeMEXSdalC0gDYsk7I9Xti38VwpuN1G5KaKuWggorLpbowSdHftcWnS2OMogdFnZwSo4UDPA7pYvc7y1PvpAKKyEXPnlHTNCqzZ4rhxUNIUwAr0XLGwZZc2ui6VqKMPkq65YaL7IEKwRI1OlNoC7dV8pm/Hrn8t3kFd/JF6tczTs/G07vF5PaOGKHwfEAIycOUHCQh6KuteYRYr8FsWtf5CE4+3Np391Slbjuh6KsUr2qqgNER8vXtDthsycFwoj5/CkU4Rc2StGoSjCgT/yWTRFZ4MIYwrB+nr81byh5KcjA3bqTOaL9idKhjYjGaqt93noQEzkwXM6l2+9f6XX8nXb5inCGuDXpWWIfYCK0FYUYbVPJOO5WDDo3801zjHIlCVQX+KAH5JB3qbS/fZFyWKUBKH26MrNzhAJDJLXeFl15eks1XlJpmckPmHvYBXQtui0gfwo93krqJS11iQWAb04tkYT87TqTFSG5dWb80qVbkQcEA==;VZ3By7d570F9pndGaaR3gQ=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-06-10-task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government.md",
-      "title": "Task force to assess use of facial recognition by Colorado law enforcement, government",
-      "excerpt": "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
-      "originalUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Colorado Statesman",
-        "domain": "coloradopolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-09-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
       "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
       "excerpt": "The Flagship Hybrid Robot Vacuum and Mop paired with new Empty Wash Fill Dock was recognized for its performance in home cleaning automation. HONG KONG, June 9, 2022 /PRNewswire/",
@@ -1308,6 +1265,49 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-backlash-over-law-that-would-let-gardai-use-facial-recognition-technology.md",
+      "title": "Backlash over law that would let gardai use facial recognition technology",
+      "excerpt": "The justice minister has come under pressure to explain the nature of legislation that would allow gardai to use facial recognition technology (FRT).Helen McEnt",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
+      "originalUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9bdafcf6-dc48-11ec-bcbd-e35b52e0266c.jpg?crop=2950%2C1660%2C0%2C154&resize=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

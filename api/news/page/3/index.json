@@ -2,29 +2,124 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-06-22-robots-turn-racist-and-sexist-with-flawed-ai-study-finds.md",
-      "title": "Robots turn racist and sexist with flawed AI, study finds",
-      "excerpt": "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face.",
+      "path": "_news/2022-06-22-ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future.md",
+      "title": "IBM’s AI Fix to Advertising Bias Promises an Inclusive Future",
+      "excerpt": "IBM has come up with a toolkit that will provide an AI ix to advertising bias, leading to more inclusive campaigns.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220621141753.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220621141753.htm",
+      "webUrl": "https://www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future/",
+      "originalUrl": "https://www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 89,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2022/06/AI-bias-in-Advertising-1.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T15:57:00-07:00",
+      "ampWebUrl": "https://www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future/",
+      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future/",
+      "publishedDateTime": "2022-06-22T00:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "Leadership",
+        "domain": "industryleadersmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry.md",
+      "title": "Dynamic AI Agents enabling the great reboot of the BFSI industry",
+      "excerpt": "In 2000s, a website was necessary for most businesses. In 2010s, a mobile app became a must-have, and today, conversational AI is fast becoming integral for businesses to successfully cater to rapidly changing customer",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "publishedDateTime": "2022-06-22T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-say-hi-to-proteus-amazons-most-advanced-warehouse-robot-yet.md",
+      "title": "Say hi to Proteus, Amazon’s most advanced warehouse robot yet",
+      "excerpt": "Amazon has unveiled its first fully autonomous mobile robot. While it looks very much like a robot vacuum, Proteus is designed for transportation not cleaning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
+      "originalUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/amazon-proteus-robot.jpg?p=1",
+          "width": 800,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp",
+      "publishedDateTime": "2022-06-21T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -42,6 +137,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-adelaide-city-council-votes-against-purchasing-facial-recognition-software-for-city-security-cameras.md",
+      "title": "Adelaide City Council votes against purchasing facial recognition software for city security cameras",
+      "excerpt": "Police have refused to speculate whether they would invest in facial recognition software after Adelaide City Council voted unanimously not to include the technology in new security cameras being installed across the CBD. Adelaide City Council is due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
+      "originalUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485",
+          "width": 587,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/101172924",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101172924",
+      "publishedDateTime": "2022-06-21T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -401,7 +540,7 @@
       "originalUrl": "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -842,7 +981,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1090,143 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-how-ai-is-changing-iot.md",
-      "title": "How AI is changing IoT",
-      "excerpt": "Artificial intelligence unlocks the true potential of IoT by enabling networks and devices to learn from past decisions, predict future activity, and continuously improve performance and decision-making capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html",
-      "originalUrl": "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/15/09/spot_it_leadership_2021_nw_business_technology_leader_considers_abstract_network_of_iot_internet_of_things_network_devices_by_metamorworks_gettyimages-1255557770_2400x1600_homepage_hero_b-100872872-large-100921919-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html",
-      "publishedDateTime": "2022-06-21T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-see-how-3-industry-leading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it.md",
-      "title": "See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT",
-      "excerpt": "In this episode, you’ll get a behind-the-scenes look at how three companies are using cutting-edge technologies like high-performance computing, Quantum, and AI to solve complex challenges, power innovation, and generate new kinds of business impact.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/",
-      "originalUrl": "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T03:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-astrazenecas-rules-for-implementing-responsible-ethical-ai.md",
-      "title": "AstraZeneca’s rules for implementing responsible, ethical AI",
-      "excerpt": "Multinational pharma and biotech giant AstraZeneca has shared some of its rules towards implementing responsible and ethical artificial intelligence (AI) within its business. For the British-Swedish behemoth,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai",
-      "originalUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-06/BFDC6B9D-8597-4470-ADB3-5BD508CE0F99.jpeg",
-          "width": 1840,
-          "height": 1100,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp",
-      "publishedDateTime": "2022-06-21T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

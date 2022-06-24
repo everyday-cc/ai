@@ -2,6 +2,91 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-12-dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system.md",
+      "title": "Dubai to boost public bus ridership, cut journey times using new Artificial Intelligence system",
+      "excerpt": "High-level RTA meeting discusses ‘City Brain’ project, recently-opened bus stations Dubai: The use of advanced technology and artificial intelligence (AI) has contributed to improving the public bus service and its operational efficiency in Dubai,",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
+      "originalUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/06/12/------_----_---_-------_-----_---------_-------1655020936624_18156ef5dbd_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
+      "publishedDateTime": "2022-06-12T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says.md",
+      "title": "Long-term respiratory, cognitive and mental health issues tied to vaping, study says",
+      "excerpt": "SALT LAKE CITY — Lung injuries from e-cigarettes or vaping can lead to long-term issues including respiratory problems, cognitive impairment and mental health issues, according to an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksl.com/article/50418868/long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says",
+      "originalUrl": "https://www.ksl.com/article/50418868/long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.ksl.com/slc/2654/265403/26540377.jpg?filter=kslv2/responsive_story_lg",
+          "width": 1228,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSL",
+        "domain": "ksl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea.md",
       "title": "Hyundai launches driverless ride-hailing service in Seoul, South Korea",
       "excerpt": "Automaker Hyundai has introduced its Level 4 autonomous RoboRide service in the Gangnam district of Seoul, South Korea. The Hyundai Ioniq 5 is at the heart of the deployment and will see a safety ...",
@@ -1055,101 +1140,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-stats-perform-to-launch-opta-vision.md",
-      "title": "Stats Perform To Launch Opta Vision",
-      "excerpt": "The Next Generation of Sports Data Delivering On the Promise of Richer Insights LONDON, June 10, 2022 /PRNewswire/ --Stats Perform, the sports",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-tesla-secures-multi-billion-dollar-deal-with-samsung-for-new-cameras-for-self-driving.md",
-      "title": "Tesla secures multi-billion-dollar deal with Samsung for new cameras for self-driving",
-      "excerpt": "Tesla has reportedly secured a multi-billion-dollar deal with Samsung to get new cameras for its self-driving sensor suite. Tesla’s Full Self-Driving (FSD) program relies on cameras to get imagery to feed its neural nets.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
-      "originalUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
-      "publishedDateTime": "2022-06-10T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/amyfeldman/2022/06/21/amazon-shows-of
 webUrl: "https://www.forbes.com/sites/amyfeldman/2022/06/21/amazon-shows-off-its-latest-warehouse-automation-fully-autonomous-robots-high-tech-scanners-and-more/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ann Arbor’s Universal Robots Adds Humatics to Enhance Automation"
-    excerpt: "Humatics Corp. has been accepted into the UR+ program from Ann Arbor’s Universal Robots after extensive testing of its technologies."
-    publishedDateTime: 2022-06-20T11:55:00Z
-    webUrl: "https://www.dbusiness.com/tech-mobility-news/ann-arbors-universal-robots-adds-humatics-to-enhance-automation/"
+  - title: "Manage AutoML workflows with AWS Step Functions and AutoGluon on Amazon SageMaker"
+    excerpt: "Running machine learning (ML) experiments in the cloud can span across many services and components. The ability to structure, automate, and track ML experiments is essential to enable rapid development of ML models. With the latest advancements in the field of automated machine learning (AutoML), namely"
+    publishedDateTime: 2022-06-24T16:12:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/manage-automl-workflows-with-aws-step-functions-and-autogluon-on-amazon-sagemaker/"
     type: article
     provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
     images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/06/TMN-Humatics-400.jpg"
-        width: 350
-        height: 467
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/manage-automl.jpg"
+        width: 1246
+        height: 623
         isCached: true
 
 secured: "zVCl+FWXoFshyxY55bYjCtir8zAxRv5jg4vsVb6kTk//ZhVI935pGGu3udhH18FSnfzB/kSRZi9cjM/bky+hg+hZ0SAXte+JDKDF3Q2xsTPHAm9yEBVKmOTsXfWszgrm0rwBBcpQTMGG35J9J29TPQmAOR1UoTaliVFahMNNcZdyO5EgcVscGdMRUP47SAoO7kh5LV4BuUhMQ7HZIuOlkrwCB9mCnDM9iojXuc0mtbwUkjXRePvJiGP3F/RzrOMoEjRpLPGzluaZyrSCkTafXMcHg4052B1wHkNzf9yHosJXxv6qjdnYDsHq/lvAPo7IBf476lj6dxjXFlo8zg0KMVhhc8ULDB34Yd0B3PaGLWgLmNr347XQqEZOR6EzVNqpoxiOag8nSfOsmkL6cveUoqlJWtygI/URrDkCgjLR/FEEXRY0m1QqBknL0w9S0YCfK6UmWsT+bx7rZd8wH2JzpVRlLCfByJZGA+GI5IkBi2TFntkoaH9z/8tIzUvFT3Fsc9mn+3AEvc1wGqM6clAGgw==;m44yuVAORuS2q5O66FyTEQ=="

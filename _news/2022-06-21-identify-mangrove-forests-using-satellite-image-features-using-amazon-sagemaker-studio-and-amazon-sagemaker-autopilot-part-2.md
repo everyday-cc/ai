@@ -51,6 +51,20 @@ related:
         width: 1138
         height: 415
         isCached: true
+  - title: "MLOps foundation roadmap for enterprises with Amazon SageMaker"
+    excerpt: "As enterprise businesses embrace machine learning (ML) across their organizations, manual workflows for building, training, and deploying ML models tend to become bottlenecks to innovation. To overcome this, enterprises needs to shape a clear operating model defining how multiple personas, such as data"
+    publishedDateTime: 2022-06-24T17:51:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/mlops-foundations.jpg"
+        width: 1246
+        height: 619
+        isCached: true
   - title: "Identify mangrove forests using satellite image features using Amazon SageMaker Studio and Amazon SageMaker Autopilot – Part 1"
     excerpt: "The increasing ubiquity of satellite data over the last two decades is helping scientists observe and monitor the health of our constantly changing planet. By tracking specific regions of the Earth’s surface, scientists can observe how regions like forests, water bodies, or glaciers change over time."
     publishedDateTime: 2022-06-21T18:58:58Z

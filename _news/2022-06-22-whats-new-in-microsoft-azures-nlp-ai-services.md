@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cogniti
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
 type: article
 quality: 138
-heat: 558
+heat: 568
 published: true
 
 provider:
@@ -64,6 +64,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all"
         width: 1024
         height: 683
+        isCached: true
+  - title: "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps"
+    excerpt: "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365."
+    publishedDateTime: 2022-06-24T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/"
+    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft’s framework for building AI systems responsibly"
     excerpt: "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.\n"

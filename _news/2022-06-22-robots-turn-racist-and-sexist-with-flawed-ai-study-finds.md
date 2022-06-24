@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/06/220621141753.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220621141753.htm"
 type: article
 quality: 64
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -23,6 +23,38 @@ topics:
   - AI
 
 related:
+  - title: "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says"
+    excerpt: "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ..."
+    publishedDateTime: 2022-06-24T16:03:00Z
+    webUrl: "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989"
+    ampWebUrl: "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 104
+    images:
+      - url: "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg"
+        width: 2000
+        height: 1718
+        isCached: true
+  - title: "Robots found to turn racist and sexist with flawed AI"
+    excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
+    publishedDateTime: 2022-06-21T15:09:00Z
+    webUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-racism.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Study Shows Robots Using Internet-Based AI Exhibit Racist And Sexist Tendencies"
     excerpt: "AI has the potential to revolutionize society, but that may not be a good thing if it leads to robots that harbor harmful stereotypes from humans."
     publishedDateTime: 2022-06-21T19:56:00Z

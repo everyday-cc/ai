@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecra
 ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/22ffcef4fd570a8f18bf6c65c1751640f3e70e1c/2022/06/24/75630c96-c275-4a5e-8a1c-b1d7b3528f63/crafting-diamond-pickaxe.jpg?width=1200&fit=bounds&auto=webp"
@@ -30,6 +31,6 @@ images:
     height: 612
     isCached: true
 
-secured: "s3PrEhd9Y26e8ZusIPUDKfJQyoxTuP41DH/Jv6o+Movi7sh14K14GwjXCbWkLC/DGUdt+rVB9tqdz7IRlKkS5yvlnF4h2c0NADNYnKeEZJwXEp7pULlGCVcWdX0NfS+PqsSJrSDh4Bu7HgVLGASmFMiZ2aMTxXntlIwJobytZ8TlXBn+9b4uU3H7ar3wy+UccISTEPdc0hV1NbSp1pcgtwpWB5K7QOOBkC2gmj8VtxvxcItCOvz31RU1vOAJfql+j4jcink2EUJtXYnMtUbSI50pE8Ap7RSjZfBK0ntn6ac7NMXoM4bXq622eaJR1ZMas0gZrY3CyWM/fDZ3BLTO6vlfS8EPg9z3fLLvX9cmaJY=;Y3Rxh+v2kfZ5P/5gRM/TiQ=="
+secured: "qXo2z/Muug2BYBia9QvrVBp95YYBuR3703P30FStlCISNbiAE4FzTClSKq8fxuW0wrh/G++vtS53boNWIpf9VXscDF5BfoKQu8nEnSnPU0mSZFgHgauy25IftYEIpZR6DNPZfRRevRisY0gXoMfXgq+6eXxBOM5u5kFw+aF0TBSWidX2uNQnSvAsfeOpmuOPpINbgg3rwGdiHVB/cpUuebYeJQcrIsCGQuPhm20mi6OIqbd5bOD/ebWiYHGhpzEsTsdgSKeJMcW0LNUZmEHq2T3Hgx+U9plj+pmAOHAFbYhfGmcw0Lm4ZyEMj8GXY+sQ7Hojf6xQ/9ipT1qbN8LvMsy1mpPtu+lv9UTfF9LuUwuQmEsgtL18/bV1ZG0+71Lxab7XEqpBnI6sj/u8t4Aamt/DQ4FUEJ2EweNudrYOtoRMUag//4oPGEoFcZMiijA2CKogk1/UcJZy5GBKlDYCGB9z5DNjP5pxGCXAo1UbKp7DfsUThoa3wJ+WhQE2Fq3CqFLL2CRrBgYduJJoNT4fDw==;VxgbrMRxOPJwYQvpF9sPyg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-sto
 ampWebUrl: "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp"
 type: article
-quality: 88
-heat: 98
+quality: 90
+heat: 100
 published: true
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI in Autos
   - AI Hardware
   - Natural Language Processing
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Report 2022-2032"

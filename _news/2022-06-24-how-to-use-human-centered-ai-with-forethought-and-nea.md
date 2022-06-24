@@ -30,23 +30,23 @@ images:
     isCached: true
 
 related:
-  - title: "Robots found to turn racist and sexist with flawed AI"
-    excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
-    publishedDateTime: 2022-06-21T15:09:00Z
-    webUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robots-racist-sexist-flawed-ai.amp"
+  - title: "How to use OpenAI Playground, the viral tool that lets an AI write nearly anything for you"
+    excerpt: "When you make your OpenAI account, you're given a credit of $18 to start with. Considering that the AI only costs about six cents per 4000 characters generated, that $18 should last you an incredibly long time. After three months, the free credits will expire."
+    publishedDateTime: 2022-06-24T17:21:00Z
+    webUrl: "https://www.businessinsider.com/openai-playground"
+    ampWebUrl: "https://www.businessinsider.com/openai-playground?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-playground?amp"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-racism.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://i.insider.com/62b4cfd29f5e550019aa6867?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
-secured: "BCb6w+q5amAuNkkuarVjrT9JrUchZxCe+rbz+x6CK6GYhFDAdoZYMORHpWi85ahkZcIA4PRNheinzA9dBMCRZ02KLJdTPFfzJowbSlZ9jCh0LhDkPpGURVyy7f1Cpfp4nnmxJ0hnXi7CMQHTschpCtBLEjnnhUrR8kSkNwvQVuA9bPowbCIAIAml2t3Lfm7xGSNd4GQMIFvc4CX/1SNaOuFZ6DBBLAcbK59+BiMvB3FNH/XDbI+6R88iyNnYs6b2niRsHPUE9iULYov1u8tixasaF6zEzrnmomDb2EtJp5Xrna1tIrFe4dISbCh7q41muk3xKBi82HhOaae53yNgIyOKZSoUcoosSlospMuEPDU=;RIISuqvnLiZt1YMNiNqGdg=="
+secured: "rJz99WnZ94O11AERrP+tOnekQwJyXfBvVUf1InAgqq1nABoHknTa/qUt/q02cRoqGzkpmXcT12PbSXW9ctbRYtqm5KZCC15QjsLYg1O1tYARKPoxa/QlfTOgUVtt/Z3P/SVW16eOFM+uQENIDlQU31UDKBkgZMMy/jJnNtOpg/jbrlmDH6cRqDwJdGM6tvAwDLcIeNakcb+mn2rLOtqXU6d4ElF5c18j8A7Z0QRQI7E69lTqbyuO9dzvJ5a2UkjhHIg1QRMcCJ8DME172Y5mBs0nDZUL/KvZ5ogtWLZkssyggsX5MnzsSTeo4UM/XX/k6DiHauNOjLgpgzd+vOwMm9tdpHmJxz2WEmK331g8RFEeIXBj72auAh6cc6Zb2Ga4FKZ8p39qPI+TmbvfZcxkXhjl7jSVLi/LjIhTuEqKSttb1sRtS7fgdq7fJVzdBcBd03HArsmrHaR7qV19//3dsQqiyuUesmRBjlooqvPmV+W7p1QjkeuvIITByUySzT7u1Q5ttmOiu4CkWuPlmO5oCQ==;JNTlmF8qt69C55zltoWWrQ=="
 ---
 

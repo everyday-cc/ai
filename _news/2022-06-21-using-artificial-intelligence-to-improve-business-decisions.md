@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
 type: article
 quality: 93
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/1c39fb9022cbb4f20af04c4f04e29c92_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "Your business needs AI. Here’s how to overcome decision paralysis"
-    excerpt: "Despite having more data and greater access to advanced software, decision overload paralyses many businesses from adopting AI."
-    publishedDateTime: 2022-06-19T23:19:00Z
-    webUrl: "https://www.smartcompany.com.au/plus/business-ai-decision-paralysis/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 37
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/06/AI-for-business.jpg"
-        width: 733
-        height: 358
         isCached: true
   - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
     excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"

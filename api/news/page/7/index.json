@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-16-ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families.md",
+      "title": "Ukraine is using controversial facial recognition tech to identify the dead and reunite families",
+      "excerpt": "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users.",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "originalUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "publishedDateTime": "2022-06-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-nuvei-launches-groundbreaking-machine-learning-solution-to-boost-risk-management.md",
+      "title": "Nuvei Launches Groundbreaking Machine Learning Solution to Boost Risk Management",
+      "excerpt": "Nuvei Corporation (“Nuvei” or the “Company”) (Nasdaq: NVEI) (TSX: NVEI), tomorrow’s payment platform, announces today the launch of a new risk management model underpinned by cutting-edge machine learning technology for its Instant Bank Transfer product in North America.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-ableai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans.md",
       "title": "Able.ai exits stealth with $20M to help big lenders speed up making high-value loans",
       "excerpt": "In the latest development, a startup called Able has built an engine ... computer vision and other forms of AI to ingest and process data related to loans as part of their evaluation process.",
@@ -189,40 +276,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
-      "title": "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -735,6 +788,40 @@
       ]
     },
     {
+      "path": "_news/2022-06-16-apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
+      "title": "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
+      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27738170",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27738170",
+      "publishedDateTime": "2022-06-16T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-tesla-autopilot-and-other-driver-assist-systems-linked-to-hundreds-of-crashes.md",
       "title": "Tesla Autopilot and Other Driver-Assist Systems Linked to Hundreds of Crashes",
       "excerpt": "Teslas operating with Autopilot, the more ambitious Full Self Driving mode or any of their associated component features were in 273 crashes. Five of those Tesla crashes were fatal. The data was ...",
@@ -1059,91 +1146,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-why-you-need-an-ai-ethics-committee.md",
-      "title": "Why You Need an AI Ethics Committee",
-      "excerpt": "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee",
-      "originalUrl": "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator.md",
-      "title": "Everything to Know About Dall-E Mini, the Bizarre AI Art Creator",
-      "excerpt": "The latest source is Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "originalUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "publishedDateTime": "2022-06-15T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

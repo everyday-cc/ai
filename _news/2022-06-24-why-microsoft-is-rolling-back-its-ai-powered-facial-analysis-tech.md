@@ -76,6 +76,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps"
+    excerpt: "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365."
+    publishedDateTime: 2022-06-24T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/"
+    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft’s framework for building AI systems responsibly"
     excerpt: "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.\n"
     publishedDateTime: 2022-06-21T17:50:03Z
@@ -589,6 +605,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "dx/xP3yZEOvOpesygHz7Oqza9c1wV42BBPllTCUm+uatq0g56LrLoxkMQyQ3KlWmAxGUuH3Cx96h7MGd8TbJhwV1pqhvcUBGB0yfVwwc+6rTLUi+sMuAo9o6u6TOFUH5KDOU08GzXYTfHbw9b3OXxEIJTm03NKh9Yfl5+CKukzDSAfv98aWq9USBP4rm4LSHRRdO/zC4vjR7mdEpYVzBm3ygDWJxJmuuNNJWtuu3ZOKj1iiiTzasLCiLHtFTSsd84AVvHYxN7OAMSMrMm4fC2wRBFY3u12GhHeYOkpujbxfJi6rxG4vNTS0z+XRehQgPy/nVQbUbo37D0w/KoA92PAYU6R7nGur5D3evKX+7PjY=;Fp+a74v7j+7Ssbsp5xugwA=="
+secured: "MBZIcHHcWz1qvTiSWglJ52ph+mhfgn3OEodHleuamZkUyGIMSe3Hu+tKPildzWxGh/yaaVG0naDz4r4idutRYp+KR3IHWUnzAxAaWHMVnAqpTPOeRoy5bj5nCN78x9uvKTDg+dezbp5zDvXK4XkwD5nTJh/VeQPh/lnyeYe0z4IGRbBVJpMrVY2w7zGsJfMwLKf3g9u+JMWEXDWGFW5EWFSGUddtD5MWFkROvnmNFh7mLDiIFl/5s1Tf5dqXw1rhpfJ9ukzRBRfLWr3dvXTQ3JaNZFWX5SVk+Q2D1nCWeha2yA3VTspAVL/ymCb1LEbF7zTXfuqzx7DsJe+/sHkVCHhS9TktD5KnHb5RNLNW/b5D3292sqtPtQ3dih+WtKlz65YkqBwI8Paljpwr8EkBOW+J7qTW7jJrZ9Mf8XNZymSul4cBnZMeWLGiGjXbzlm7zGOHLPJ0P1KxIhKYhWnZcXUIqvXpmJZKbax2k51Ip2VmZaeOHLIIO4FPfa4GcIGRJQq7esLx6sGHoykGML0KCw==;RGKeD45mhM5VTzPzUW7VFA=="
 ---
 

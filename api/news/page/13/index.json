@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-13-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels.md",
+      "title": "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels",
+      "excerpt": "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Vault-Safe-Open.jpeg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/",
+      "publishedDateTime": "2022-06-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-nerding-out-with-the-boys-obi-wan-kenobi-and-robots.md",
+      "title": "Nerding Out with The Boys, Obi-Wan Kenobi and Robots",
+      "excerpt": "Death & Robots feels as unique as it did when the series first came to Netflix, delivering on the promise of the first volume’s mind-blowing animation. The techniques seen here elevate the sci ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.laweekly.com/nerding-out-with-the-boys-obi-wan-kenobi-and-robots/",
+      "originalUrl": "https://www.laweekly.com/nerding-out-with-the-boys-obi-wan-kenobi-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.laweekly.com/wp-content/uploads/2022/06/JTF-FF-002049.jpg",
+          "width": 1500,
+          "height": 1099,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Laweekly",
+        "domain": "laweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-are-driverless-car-searches-constitutional.md",
       "title": "Are driverless car searches constitutional?",
       "excerpt": "Whether we like it or not, automated, driverless vehicles are quickly becoming a reality and a norm in our society. Along with all the benefits the technology and associated services provide ...",
@@ -1076,91 +1162,6 @@
         "AI in Robotics",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system.md",
-      "title": "Dubai to boost public bus ridership, cut journey times using new Artificial Intelligence system",
-      "excerpt": "High-level RTA meeting discusses ‘City Brain’ project, recently-opened bus stations Dubai: The use of advanced technology and artificial intelligence (AI) has contributed to improving the public bus service and its operational efficiency in Dubai,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "originalUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/06/12/------_----_---_-------_-----_---------_-------1655020936624_18156ef5dbd_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "publishedDateTime": "2022-06-12T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says.md",
-      "title": "Long-term respiratory, cognitive and mental health issues tied to vaping, study says",
-      "excerpt": "SALT LAKE CITY — Lung injuries from e-cigarettes or vaping can lead to long-term issues including respiratory problems, cognitive impairment and mental health issues, according to an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksl.com/article/50418868/long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says",
-      "originalUrl": "https://www.ksl.com/article/50418868/long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.ksl.com/slc/2654/265403/26540377.jpg?filter=kslv2/responsive_story_lg",
-          "width": 1228,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSL",
-        "domain": "ksl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

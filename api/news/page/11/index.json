@@ -2,6 +2,100 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-14-pharmas-blind-spot-successfully-using-ai-to-drive-drug-development.md",
+      "title": "Pharma’s Blind Spot: Successfully Using AI To Drive Drug Development",
+      "excerpt": "Ultimately, we have to remember that AI in drug development isn't about profitability—it’s about the patient. So, make sure your AI doesn’t have any blind spots when you put it in the front seat driving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a73a5af4080243164331d7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/amp/",
+      "publishedDateTime": "2022-06-14T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial.md",
+      "title": "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial",
+      "excerpt": "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "originalUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop",
+          "width": 320,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
+      "publishedDateTime": "2022-06-14T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-voice-and-speech-recognition-market-2022-potential-growth-share-demand-and-analysis-of-key-players-and-forecasts-to-2030.md",
       "title": "Voice and Speech Recognition Market 2022 Potential Growth, Share, Demand and Analysis of Key Players and Forecasts to 2030",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 14, 2022 (Alliance News via COMTEX) -- New York , United States-Report Ocean published the latest research ...",
@@ -1026,100 +1120,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-no-googles-ai-is-not-sentient.md",
-      "title": "No, Google’s AI is not sentient",
-      "excerpt": "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ...",
-      "sourceUrl": null,
-      "webUrl": "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/",
-      "originalUrl": "https://krdo.com/money/cnn-social-media-technology/2022/06/13/no-googles-ai-is-not-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://krdo.b-cdn.net/2022/06/hypatia-h_9cdf147d812a353808628ed250a1d7ca-h_a47ca4ba74dd4127006e8be8eff3f3af-300.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRDO",
-        "domain": "krdo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum.md",
-      "title": "Daily Crunch: AI voice platform used in ‘Top Gun: Maverick’ sells to Spotify for undisclosed sum",
-      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/",
-      "originalUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/03/top-gun-2-val-kilmer-tom-cruise.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/amp/",
-      "publishedDateTime": "2022-06-13T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

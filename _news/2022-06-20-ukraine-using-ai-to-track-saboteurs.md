@@ -65,20 +65,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Your business needs AI. Here’s how to overcome decision paralysis"
-    excerpt: "Despite having more data and greater access to advanced software, decision overload paralyses many businesses from adopting AI."
-    publishedDateTime: 2022-06-19T23:19:00Z
-    webUrl: "https://www.smartcompany.com.au/plus/business-ai-decision-paralysis/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 37
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/06/AI-for-business.jpg"
-        width: 733
-        height: 358
-        isCached: true
   - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
     excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"
     publishedDateTime: 2022-06-23T06:30:00Z
