@@ -30,19 +30,14 @@ images:
 
 related:
   - title: "Are babies the key to the next generation of artificial intelligence?"
-    excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI."
-    publishedDateTime: 2022-06-22T15:07:00Z
-    webUrl: "https://www.tcd.ie/news_events/articles/are-babies-the-key-to-the-next-generation-of-artificial-intelligence/"
+    excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to neuroscientists who have just published new guiding principles for improving AI. The research examines the neuroscience and psychology of infant learning and distills three principles to guide the next generation of AI,"
+    publishedDateTime: 2022-06-22T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220623110954.htm"
     type: article
     provider:
-      name: Trinity College, Dublin
-      domain: www.tcd.ie
-    quality: 39
-    images:
-      - url: "https://www.tcd.ie/news_events/wp-content/uploads/2022/06/Rhodri-Cusack-babies-and-AI.jpg"
-        width: 800
-        height: 500
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "LPB06TeiRQH625EpCWoM1o4qWK0tSc6I+CyvLaIij5Z97UK2tuprn6oCutihBeIKzEUZcYYYkWvQ+6hJs5nxwKXDHhyqqyH+u1xPPL2HSWlTMGoeejtBQVEQp68ZQ2yX2rBJT0gUUKzqiWV6FclmMbtWNvf6b4ULKIJh1xzt30IEU7UvNGuktErY3kPyQ7c8NaBLPSkhA2RcFGsPHGytGXfmdn6/nKBTgpP8IncHGMckNPyaRH+GNL4ahVM7Cxg9hWsJHzo9RdUHL9sppj5zBMLP+p0yv2V4Z1zqZ9oQcq5EJI0d5sGZmmkY8VPxXKj6R1QwxcxjAEh0PB1xGeflOdkqSYzbVEn7nIHuOVxdG1y2DnymbZXRkGiq7fvZ/+DV6PcK65bGGH8LxXXmZZ+4fARd7AQ/ySMwZ30OBPQG7jTyXPaypFUh2mf+GeT0zySwDLq4yiPepDWvo+I57PKmQpRpQCO1bPUupLblhxoJuvL0vs3NHX1fDrDSVygFduqedQ2BMTS76xfpIjaTT4K6gQ==;b0UlcskrjJPKkgykyRGhvA=="
 ---

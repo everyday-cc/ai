@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation"
-    excerpt: "Panasas software architect Curtis Anderson co-chairs the MLPerf Storage working group to develop ML storage benchmarks SAN JOSE, Calif.--(BUSINESS"
-    publishedDateTime: 2022-06-22T18:44:00Z
-    webUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
-    ampWebUrl: "https://www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+    excerpt: "Panasas announced its collaboration with MLCommons™, to create industry-wide benchmarks for machine learning (ML) storage."
+    publishedDateTime: 2022-06-23T09:22:00Z
+    webUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/"
+    ampWebUrl: "https://enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation/amp/"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 76
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
     images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Panasas-Joins-MLCommons-to-Advance-Machine-Learning-Storage-Innovation-01.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "Panasas has become an MLCommons collaborator to develop a machine learning storage benchmark"
     excerpt: "HPC storage supplier Panasas is working with MLCommons on how best to measure machine learning (ML) storage performance, develop an ML storage benchmark, and help develop a next generation of storage systems for ML."

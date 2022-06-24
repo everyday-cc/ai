@@ -75,7 +75,7 @@ related:
     provider:
       name: Honolulu Star-Advertiser
       domain: staradvertiser.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
         width: 760

@@ -8,7 +8,7 @@ webUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-ar
 ampWebUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
@@ -97,6 +98,6 @@ related:
         height: 610
         isCached: true
 
-secured: "JCQuLaCFlcjnDWZGOCIxcbDiUQZMtD6GNWmbtgx/9j4r+JfCt+a538CtBmUdQK+wvD90ekw0cr7VtU21QKTtFsH26FDx1odt78kV9HMbGyIPQ2D7E+OaYmm8Ml0v56uB2Or1Qu34fRGey1oABpiCSEbTokpe9ntbJs9h/P+SDqw0GTW+u8Rfuj1tIkEXi7haGLFC3iSPtJCph/bKks3t+xG60oNDG6dxOm8xioqNuv5DiTmt6euvIRUErD6WXuDWukuvsbm3wCOn95/nlWLlbrtP/FeknJqs1zTdy9YCUol12ScGHgo6+XPMcWK7R8Sq/3A9ozk4B108uweRAMEfY5uXi9NJmur/c3HpZaEvDno=;ttkbk/+wdBT7/si5SK0+Eg=="
+secured: "+289mczr1KgIISMUFCI4ao1ivL5z5L7LBzLnt+jRy1UfT/ti/CvsQziA8hEF0pevNtMsJ2W3qYdRUMbpY3I0jPhrFFBnt5qfEhZO5ei7+i6SEggu7rcILt1ousGAN3Ie0h/H05i2hvwT4bESkETN/Hlqxy4qAPrdtJfWrQFJNhRNUJ1KhXKpWhHoiBNJBvh2XfdtYbLgBkYYakQvhbmPUnZf+oCE8IWX5kuqnppG+TBlFuMPoGeZeglkpSMBSXzwEbLM2ieZDbY4KN4xtd7Eh87ZefwponxjN7Mgbi/G7l6GzzlyIlCbp5ckrW1ICrOWGKLI8oimABa7YkpruhpM2yaZa/HVCmXwIJt5K5NbYK6r02i2zxTJNovWsmxxOELGkSOouoFOP7UI2Uf7XfLTRafubtFn9Z38AjDBUZc1nz//MgmsRMOdE4/gB1WToH5HsKwgfnoqYIJRhCH55/KcXYyasAUxGvasEPoSEGyqzNLJq9CxtVmPiuv26NioRh6Ba1nQyz+MOoc/G41q0WZxpQ==;DQTwpFGgfrW0pCykuBfc1A=="
 ---
 

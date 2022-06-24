@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cogniti
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
 type: article
 quality: 138
-heat: 539
+heat: 538
 published: true
 
 provider:
