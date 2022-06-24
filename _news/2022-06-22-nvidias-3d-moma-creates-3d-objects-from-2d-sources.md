@@ -78,20 +78,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 40
-  - title: "NVIDIA-based board targets advanced AI computing"
-    excerpt: "An embedded single-board computing (SBC) engine leverages the integrated deep learning capabilities and rich I/O of the NVIDIA Jetson AGX Xavier. The 3U CPCI Serial-based JetKit-3010 delivers artificial intelligence (AI)-enabled video inspection,"
-    publishedDateTime: 2022-06-19T08:59:00Z
-    webUrl: "https://www.eeworldonline.com/elma-nvidia-based-board-targets-advanced-ai-computing/"
-    type: article
-    provider:
-      name: eeworldonline
-      domain: eeworldonline.com
-    quality: 39
-    images:
-      - url: "https://www.eeworldonline.com/wp-content/uploads/2022/06/elma-6-17-22.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Crazy AI model from NVIDIA sculpts 3D model just from a 2D image"
     excerpt: "We all know AI is going to be the main force of decision-making and automation in the future and one of the main driving forces in the industry is none other than NVIDIA with their use of deep learning models already being used in games,"
     publishedDateTime: 2022-06-23T03:30:00Z

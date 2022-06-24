@@ -83,20 +83,6 @@ related:
         width: 283
         height: 242
         isCached: true
-  - title: "Why Machine Learning has huge potential in Fintech"
-    excerpt: "Aaron Holmes, CEO and Founder of Kani Payments. He discusses the role of technology in data management within the fintech industry"
-    publishedDateTime: 2022-06-19T08:00:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/why-machine-learning-has-huge-potential-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 41
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/e3c89c609a1197b6eaa187b6229af410:fc8174b75c3509ff04591549ff1c6714/gettyimages-1205428317.jpg.jpg"
-        width: 1800
-        height: 1011
-        isCached: true
   - title: "20/06 – Weekly Fintech Recap"
     excerpt: "Partnerships Global Fintech Ascenda Announces Partnership with Banque Saudi Fransi to power JANA Rewards Program in the Middle East Ascenda, the global loyalty technology company, announces a strategic partnership with Banque Saudi Fransi (BSF),"
     publishedDateTime: 2022-06-20T09:54:00Z

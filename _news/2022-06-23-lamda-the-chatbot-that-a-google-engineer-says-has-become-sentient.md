@@ -43,20 +43,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "A Google worker went public with fears about a chatbot having feelings. Could conscious AI become a reality?"
-    excerpt: "Google engineer Blake Lemoine took to Twitter to publish a conversation he had with a chatbot at work - because he was concerned it was 'sentient'. While the tech giant refuted the claim, this has once again raised questions about the future of artificial intelligence."
-    publishedDateTime: 2022-06-19T08:13:00Z
-    webUrl: "https://www.sbs.com.au/news/the-feed/article/humans-love-fictional-stories-on-ai-becoming-conscious-could-it-become-a-reality/vh903l2tj"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 20
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/6e0daf5/2147483647/strip/true/crop/2000x1125+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F01%2F2b%2F51b8fbf7421eab1179c13008306b%2Fcopy-of-feed-youtube-thumb-7.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "ESF0jxSFkfdVW9xZnHWBRKPr4FwrmXwHo9dJaYad8faJQak6UQyhu6NVxFx8AvMxiaYcGYTzuKNvPoH1iGjY+D6cyptRyFZMN4RaDpT5D/voziVCSxl8GPWExZK1eav6j9K67Vl24rzVyoLq3IgAdO5j1y8wJZ4yHf40SXl/Aqkq2qt/d/RiEKpnWCXBxgqq1XXC5ca9gsl2c6N9PGyt5kc2xv4D8TDwUZl+Ww9Dc/UvWfCjWUOW3lWqqt9vRBfv3SBWUhJh8M4BGhza7dSCCxccr2xbwaFm5y8ZVfdjaKHlBg0jsXKlPkEZslsLDO14FdfP8YFCcvhUoPS5sdhrcS/X6UQ0ka1930dblrbR3v+CayrRe+yVq29TvytfVozZHpPXIm2TFJkZAj8/dg1fScx6qEmtAURwfnYl9c+J3F2X427RMTfLQdOOQpYMmH0XnyxGM0PE5jvNiNAqYSdq1SflzOcMGYeQgkuuVJgCvDx6n5GxL2Pk2sEQGkbcpCLr8NRCLjqDm/DOxFIfhe8AkA==;7j6SPCC5yHFZUcKnMOcZWQ=="
 ---

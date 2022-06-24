@@ -7,7 +7,7 @@ originalUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new
 webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Connecticut Post
       domain: ctpost.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
         width: 1800

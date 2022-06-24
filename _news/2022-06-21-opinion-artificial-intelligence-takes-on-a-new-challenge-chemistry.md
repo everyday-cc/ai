@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-21T13:00:00Z
 originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: ctpost.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 810
         isCached: true
 
-secured: "G6OliV3WN3TcRqLd3nibJD0lKvqa4yqb2l6UAl0cV5RijHnDmMuIpUVV36JkXP+eTDH5IMgvgXN+RhmKgjcQwfA4SBnNYdOrXDXRwNDlzC1qzAXXWjS02kWObRuTrOyYq5Gr4YGRrfLoFJso76OxJk+oyx/ToXnIsVgAZuJ+guIwtR95yzi1Lpwf7wHrov2rQtiJChlhbpdMyviJx9gbsl9BacFEdDOnSTGBSrov8NaVkLDrieb94BMcIATLeC/5cj1j9MjsdcJr2sZUyFY0RDl5AxuV8ZHJTl34w2Pldkn/+mTnwowHmAzvdqC9dwmY+m3vSfaJtjwcy3qoInDH+upDrmnaCWsvn3rEeibmTYw=;LPskj74UVmTzwrCh0VDLRQ=="
+secured: "AwRxytb/MyYZoK9d80Ytq5jC06j7AA7RF8kzn5di+GK2HAv+pzhdTxkj55EqSgKcf9F8m6pZv6d4Z+P9sLJ6aSu0ee2p++BE7Y9aDKWxX1zhbRi2Lnw2+7rBwSIzINBiisP9DeVbnPyayE55ue6qvniw60t24cX2o4cDo4rOAvHYdA14SGPBHPSL18iOJgN8+xv4iIdxvQa4V5Sxu1OzGjES2RIx3z218EE7P3+iaoBsW/pxyNP0bOtMngNaMA8CoP4onrrs+K6zE1xlMwJ7J6y/4nIc/Lp0rHjEiIk0IEJgq7hPWsc8dvardtN7EVUbd1TDRGfsn3yu6AmY+8iipAy4X8WQWyiCrxIU1Qc8iwo=;WcQAihwCfWPCWQOlyxLDyA=="
 ---
 

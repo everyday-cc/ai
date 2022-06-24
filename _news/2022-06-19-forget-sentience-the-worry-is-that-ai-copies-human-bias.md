@@ -46,22 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Has Artificial Intelligence gained sentience?"
-    excerpt: "Blake Lemoine, who works at Google’s Responsible Artificial Intelligence (AI) team announced the company’s Language Model for Dialogue Applications (LaMDA) was sentient . He has since been suspended by the company due"
-    publishedDateTime: 2022-06-19T07:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/techniti-shala/has-artificial-intelligence-gained-sentience/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/11/kama.png"
-        width: 729
-        height: 468
-        isCached: true
   - title: "How Close Is AI to Becoming Sentient?"
     excerpt: "Sounds great to me, I’m in. Lemoine: A monk asked Kegon, “How does an enlightened one return to the ordinary world?” Kegon replied, “A broken mirror never reflects again; fallen flowers never go back to the old branches."
     publishedDateTime: 2022-06-23T17:39:00Z

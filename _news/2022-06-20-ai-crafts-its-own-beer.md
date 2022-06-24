@@ -32,7 +32,7 @@ related:
     provider:
       name: Stuff.co.nz
       domain: stuff.co.nz
-    quality: 41
+    quality: 43
     images:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/y/n/image.related.StuffLandscapeSixteenByNine.1420x800.24szi4.png/1655648420696.jpg"
         width: 1420

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
+    publishedDateTime: 2022-06-23T17:44:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_40267c0d07df4ef99bac109894984999_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
     publishedDateTime: 2022-06-23T20:24:00Z
@@ -84,20 +100,6 @@ related:
       - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-06/doc-32D33NQ-%40photo0.jpg?h=4bf1c8f5&itok=U32GY5Dv"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its But the tools won't be used, at least not yet, to block children from the popular photo and video-sharing app. The current test only involves verifying that a user is 18 or older."
-    publishedDateTime: 2022-06-23T20:16:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Instagram-tests-using-AI-other-tools-for-age-17261098.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/26/24/62/22629516/3/rawImage.jpg"
-        width: 915
-        height: 610
         isCached: true
 
 secured: "qDaNLRutnGysHQWF9x1RD9jX1U41n2kmm3H+WFKn7cI+CYDZuhmtpaZ1W/ptRmposY2Hg+U6dRCLesqWhbO2+v16mNkanwdh7u/MEjEvkkDw227id4VwPflznA0i0F4IjJdyBGMAE9t77maMtGRghEqFjw+92h+A5FPWzdSE4nOaCgbye+HRQLrKl/hgElfBUgJxOzXqNDOJr+hmMLoKA8hmS+IaAVQm2i/dziOA76VNe0gbHNMNHrA/5TDPUY8bf6vuduJi8tSAez+WKb/ri81m2DPhZVVc2GophcFb/YjldWTn+u48ffqqgfNYVoIT+sOKVx5RdUMKZ9e5ZUBo0i2TSaGZDrmrzGxW8/hW0fEgCKg2xJ0y7cRTHMr+TPnKFTsRSmZRAtoA1c8HwMfhAVzSaCMKwSAxBxOv/W2WVLAeBvEXfYKb/BPYtgv7UPL+CvbnmWQq2SZzGh/thKWvP12u8ATihGudc8pG4qiwUKEiEdU2bxO15xrcm84hNNG4iOHdXyIAiWTI66aZsGV3zw==;2jfr/Rh67/8C2c73pDNzDg=="
