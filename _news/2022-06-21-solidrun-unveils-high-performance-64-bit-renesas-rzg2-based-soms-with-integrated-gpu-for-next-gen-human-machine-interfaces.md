@@ -1,29 +1,20 @@
 ---
 category: news
 title: "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces"
-excerpt: "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces. Ideal for automation, smart buildings, network cameras"
-publishedDateTime: 2022-06-21T08:06:00Z
-originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/21/9624814.htm"
-webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/21/9624814.htm"
+excerpt: "Ideal for automation, smart buildings, network cameras, and IoT devices, SolidRun RZ/G2 SOMs combine a powerful MPU, GPU, extended ECC, Ethernet, and offer long-term Linux software support NUREMBERG,"
+publishedDateTime: 2022-06-21T07:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-solidrun-unveils-high-performance-64-bit-renesas-rzg2-/2022/06/21/9624814.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-solidrun-unveils-high-performance-64-bit-renesas-rzg2-/2022/06/21/9624814.htm"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-    width: 1577
-    height: 1050
-    isCached: true
-
-secured: "KpuWHbqr1JIvpUyjTNW/xKY34LvyEQ5lm8rS6+D6oNRmZvAeOfjLTOcr7U0eGY2QRaACt708h2QmA95Lgj+VFOp1/bN7cvLp9y5m2sI6kQX/GkcXzfA8PwCopDI2Parfqhw8mDgqz9VvZLMJj5LRr/M7N8VCu+zYCNJVmrqcITQuJ7VyYuCth6CeCdn92FAAfdJQ9zFBlsq5yE2AD1f0maWefNFuaYKNIT5/l+vLSbe3YT/VkxSrNXQewPfCCVuHAM5roInr2NqcbPy8rEQkzRDB7rX7IokJqYR6nn1NHvyN7QC0D+wpxt+/wXMnCJVRR7GQZiqEf4jvNHtSGFxIP17mt74OtFrewKvempKGhHw=;MTdGQ8vOikIzyx4Otu+Xww=="
+secured: "JvrGduBvhR6jfdje1Nh5Ib7vxWmvOnyvwWV3x+98RO4+UsyyIaYE1NgLac8T15EwOJvSopFkmR9m6lqT0lmyoWc8Q3GJ2stVLSL9FLKukTiicG4jwK8CHmVQ15Uy4Lw/4fpsGkZh6plTrNu4HvJjaIyp5tLt/qtgeBSatJOcc/m5BUX3wE421TXwVEF1Z6kPYhM73Jhnaq4b4WocaEtGiIGbCJQD4yBXcfmHfO4Geom1SwZ2Fk8jrHDJEc5dQIb2q2RjJJzeeCmKp1hf+KOuiqB+Htn3WaZlKQh+GhsInWakX1r3rYH//4Clv0t7lkx2QyB0EuJN6tyxlQyJR6CBEv+3NrbwTJmJfG9fDZx/PvQ=;uts6Gaz83I6VQOgFjqpLUQ=="
 ---
 
