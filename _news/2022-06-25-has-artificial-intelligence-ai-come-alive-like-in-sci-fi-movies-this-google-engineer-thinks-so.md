@@ -56,6 +56,15 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Google's AI chatbot hires lawyer as engineer put on leave after 'sentient' claim"
+    excerpt: "Google scientific engineer Blake Lemoine claims an AI chatbot is displaying human emotions, but was suspended after sharing a transcript on online platform Medium"
+    publishedDateTime: 2022-06-25T17:49:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/googles-ai-chatbot-hires-lawyer-27327599"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 12
 
 secured: "kseSVfSKG+2HShAMtZOJxnkROdKmqb3YDq5Q3B96Xq8FISlzdKP/Cn1cpkh1/rH5g67Hz8o+slAx4dxETq1gXta1sjGiXxqfSYvlxvxzC4c0HNF5zWyHczGuUurEbr/JCnfpqeDMUwKKbUJLumNGgAUCkrBp2paRKF25+63fqYxUWgoACqkEqEzOVp6tyTanRHsG1srds69ExjCmcDRsCElzybG+S4GxachCNrlKpTGz12y9dDTWAGCU1I+gbDUhk/di6UZMldOAOnrt5D6LtN2nZYBUnDfF+4lVPWLwuaK4ZCgJfSrIA0cXvcj8FGJUcYweByiN61U3nk8GB42Dk4TsBzS+TpTcovpxsx88sTU=;TwKipad2G5B5ihFXf1mWJQ=="
 ---

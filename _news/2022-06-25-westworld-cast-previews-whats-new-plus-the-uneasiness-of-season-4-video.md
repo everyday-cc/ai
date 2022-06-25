@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4"
-    excerpt: "They, along with wily robot Dolores (Evan Rachel Wood), had freed humans from the mind control of a massive AI entity. But Dolores died in the fight, and the unchained masses were torching ..."
-    publishedDateTime: 2022-06-24T16:20:00Z
-    webUrl: "https://tylerpaper.com/lifestyle/arts_and_entertainment/westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4/article_93068b6a-2318-52cb-beb4-beedd0f0948c.html"
+    excerpt: "They, along with wily robot Dolores (Evan Rachel Wood), had freed humans from the mind control of a massive AI entity. But Dolores died in the fight, and the unchained masses were torching skyscrapers. The Westworld Season 4 opener picks up seven years later."
+    publishedDateTime: 2022-06-24T16:13:00Z
+    webUrl: "https://www.wfmz.com/entertainment/westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4/article_98ecf313-2c98-5d9a-b4ed-e6a74166bb4e.html"
     type: article
     provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/custom/image/1d130320-7305-11e7-aad4-cf9f36fa6d1e.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
 
 secured: "wShaRg/ptO8e44C8Lnw1mns3eaPX7gBPrxhlsY+4Vk3AVnCpSisoArNHhMXYXEvajGcNOzFjBKK37/bfmX6YlK4rOVfpK29jNApGlS4Ln3ZmXS9cyVe/NL9Idf2kORfU/5kImFxbeH/KTda6TKDhwPFKD2861zGVdITBlDZzgts54h51EjRXBlYD+wWtMOQ3y3WKKK/HbLa2iaGh9YkR0tBi6b9X6T9fWbbvgLtONmIBVGSvS5thMCU7jmvl9rYueJfmPa81rYAqsW9V5yXRq366Iq8Ga9ZoP0BmRl8MSV65wDw/PtR/m/nl3tpaHH/eYfe0zJ6eWVt4GL0eGIU/QhmDhvZT3hD0rlUBUU6s2T/VuTZZTDng9FV+VHK8BiXLMC3mxvPZd4dYLdFeXYxOMYPa1vMbQ3xUWA+zgqLdJO6BU0elBJHgpGjLY3GC8MB/9wFWFYWQ30oAaOD4W/4W75a4oC1nXr9yP+0MYPZ1ZJPKBw8t5dnqb09aXqrqN62e4e3X3rZTCk8ceICmuDoZrQ==;TFL0rIMOXOSumFM+cZMiYw=="
 ---

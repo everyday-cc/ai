@@ -9,8 +9,8 @@ ampWebUrl: "https://www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-b
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/ibms-ai-fix-to-advertising-bias-promises-an-inclusive-future/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Leadership
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Companies commit to mitigating AI bias in advertising technology"
-    excerpt: "A collection of organisations including technology vendors, tier-one brands and agency holding groups have committed to action aimed at mitigating bias in advertising technology."
-    publishedDateTime: 2022-06-21T04:30:00Z
-    webUrl: "https://www.cmo.com.au/article/699193/companies-commit-mitigating-ai-bias-advertising-technology/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 39
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_xxl_214569381.jpg"
-        width: 800
-        height: 564
-        isCached: true
   - title: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program. The fifth annual awards program recognizes Skai's innovation in"
     publishedDateTime: 2022-06-23T14:00:00Z

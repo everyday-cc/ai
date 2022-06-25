@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. But the tools won't be used,"
-    publishedDateTime: 2022-06-23T20:12:00Z
-    webUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/40267c0d07df4ef99bac109894984999/915.jpeg"
-        width: 915
-        height: 610
-        isCached: true
   - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
     excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."
     publishedDateTime: 2022-06-24T05:27:00Z
@@ -129,6 +115,15 @@ related:
         width: 921
         height: 620
         isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
+    publishedDateTime: 2022-06-23T17:44:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "qDaNLRutnGysHQWF9x1RD9jX1U41n2kmm3H+WFKn7cI+CYDZuhmtpaZ1W/ptRmposY2Hg+U6dRCLesqWhbO2+v16mNkanwdh7u/MEjEvkkDw227id4VwPflznA0i0F4IjJdyBGMAE9t77maMtGRghEqFjw+92h+A5FPWzdSE4nOaCgbye+HRQLrKl/hgElfBUgJxOzXqNDOJr+hmMLoKA8hmS+IaAVQm2i/dziOA76VNe0gbHNMNHrA/5TDPUY8bf6vuduJi8tSAez+WKb/ri81m2DPhZVVc2GophcFb/YjldWTn+u48ffqqgfNYVoIT+sOKVx5RdUMKZ9e5ZUBo0i2TSaGZDrmrzGxW8/hW0fEgCKg2xJ0y7cRTHMr+TPnKFTsRSmZRAtoA1c8HwMfhAVzSaCMKwSAxBxOv/W2WVLAeBvEXfYKb/BPYtgv7UPL+CvbnmWQq2SZzGh/thKWvP12u8ATihGudc8pG4qiwUKEiEdU2bxO15xrcm84hNNG4iOHdXyIAiWTI66aZsGV3zw==;2jfr/Rh67/8C2c73pDNzDg=="
 ---

@@ -109,6 +109,15 @@ related:
       name: Public Radio Tulsa
       domain: publicradiotulsa.org
     quality: 39
+  - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
+    excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
+    publishedDateTime: 2022-06-25T19:51:00Z
+    webUrl: "https://techstory.in/googles-sentient-ai-hired-a-lawyer-to-prove-its-alive/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 17
 
 secured: "rm4eitRNL9UfLHCn+O3Eozi+tlApArcN03LVfiB+qpWQxOgfv/dlv4kvb2japATBHfUoNF0+wj9+5tj4tzaxkoT2zXh8AOhj6jnxsSeUnQJcIvw+Qfb8sZ76jlVNF7y7F9Nc2LtoReiVcoed+jTIAu4bc7PyO1i70ubWAVdkmTYNj5PJCGuHEbn1s6opARAod7GSrVPOghnqJEGfC4IgAC3Dgm56VZZ0KszFm2Yukcr17QHqsOAxFtM3RFhwErPb/2GJ2ed4k1ePYZR1UlwIivadSGWQeyn+PyS0+b5YaUMeimWPxqtMOYSpE/UMiGuxyi1p2lYadw52AyjauEYNN4eEJSkkye9R1F/zqoW2nZw8mCffc6kQkSk9tsKYtuL9pNe+5+gpk/oeUvKqI2QTfPPrxOxXmd/chCJz8LFxOgeFxUb+9vjg5bmb7RG1Nm2hKcqjwW/kp2HjSAHutrpz8KNZAvJCKR20adl+zDj3Wj4yvdEza/M/w4kkjUJhSL+WbpKNcNAQBv8v6b7TpJxEMg==;NLM8GccMjecyval22PebKw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-comm
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Kt4G2msYkJZow2RgcmGPyF-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "State of denial and the power of AI"
-    excerpt: "The fact that a majority of denied claims are preventable is only one aspect of a much deeper problem. Reworking claims take time, money, and resources. But here's how resource-strapped providers can leverage artificial intelligence to reimagine claims management."
-    publishedDateTime: 2022-06-21T05:00:00Z
-    webUrl: "https://medcitynews.com/2022/06/state-of-denial-and-the-power-of-ai/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/wp-content/themes/medcitynews/images/logo-1000x1000.png"
-        width: 872
-        height: 916
         isCached: true
 
 secured: "0bxyJFY+sFbvtNkgAEZmpZmpn4tbgnpp1pL+K8HZxRojoA8dE6v4pdmFZpSSLYx3nFvx/d82TKxuvv2YvE4oBHX5RSuOuzDFOwpJ/u8gj0HqBJloXoVMpmsxLp3MpBF1vzmVbiKksazb7oURO6ZbiPtgRMvmJTspzcn+Fn0FkOgDSfvqFj1S50eGfdg9/M+pTJWrlrhcwe5b1JRIvaauHtsNFDCtLYoZpYoIrQWi4QfnG9/uMoiw1eoELBh4RkmDBNTMz72TwTIo5DfoWgWa0PY8REt16oDH4YptBGo+gMRkO8cyA/aV5ThFTCrUASDpI78kF8COfVLm/9zUY14qqUHqFcFiRDI8uqsYbm3cplc4HvL1xmgl6depDepV5rGZM3g7iju8WlD8HX/axQFfI0aPUwKDuJeOCamufjgQEEZ0xlFi0Ap6Qz7H37OVgsR5iP/EXIkMx4657Du+Nfiee7M5OXjCYNr00pTuC4b9m0bK9qB9Y9FM0I0wVAmTTXAvenM9XhRfVbZH/xAcVGRlRQ==;en5MkjeTb2euesN1tVrxxw=="

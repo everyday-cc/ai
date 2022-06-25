@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-25T19:17:00Z
 originalUrl: "https://www.dailyexcelsior.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"
 webUrl: "https://www.dailyexcelsior.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Daily Excelsior

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-25T18:08:00Z
 originalUrl: "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
 webUrl: "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Medindia

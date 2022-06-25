@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-21T07:53:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-solidrun-unveils-high-performance-64-bit-renesas-rzg2-/2022/06/21/9624814.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-solidrun-unveils-high-performance-64-bit-renesas-rzg2-/2022/06/21/9624814.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

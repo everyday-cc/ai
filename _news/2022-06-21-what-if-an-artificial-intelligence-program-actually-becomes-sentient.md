@@ -108,6 +108,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
+    excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
+    publishedDateTime: 2022-06-25T19:51:00Z
+    webUrl: "https://techstory.in/googles-sentient-ai-hired-a-lawyer-to-prove-its-alive/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 17
 
 secured: "kLWsGtyT7nGGE/izaVaDaFMwHzHo0isboZH8TWyrAWRqEqWaxWNFR+4/VkLn4my4/+Ibd4EkKPUTbP0bnaNqNWuYITpfrZu5yetE80vzemCl+Rijq57hFSX5NATe2yKEqf488aBb9i9kG8CjeNaS00X4GcEMZA9n8vWL8nfH+QJ1dPmomKGhs0dMq3AsMY15RqFuLqjh3i7Ol1LUNqyM3dZOU8XbWkjyxf8Hxl0laJWLz3s4dHiABForz8S3UJaBBp/YpefjaxlOpZBjKUYTwJ09VpIcu/1RxYsgneWHiTC9HPJ0tsgxrsRfl2HMjdzhPPrhc6Vy6ZsZ+ojzc1cMob0e6iO1AdpwzRGTpXRkL18=;T6vs4jYKcH99Fwchj0zOKA=="
 ---

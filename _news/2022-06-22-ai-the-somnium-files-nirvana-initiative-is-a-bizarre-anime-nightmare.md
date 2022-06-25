@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-
 cdnAmpWebUrl: "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220618205430_1-Copy.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AI: The Somnium Files – nirvanA Initiative details Eyeballie mini-game, Aiba’s Room and Tama’s Room"
-    excerpt: "Spike Chunsoft has released new information and screenshots for AI: The Somnium Files – nirvanA Initiative introducing the Eyeballie mini-game and Aiba's Room and Tama's Room bonus content."
-    publishedDateTime: 2022-06-21T03:26:00Z
-    webUrl: "https://www.gematsu.com/2022/06/ai-the-somnium-files-nirvana-initiative-details-eyeballie-mini-game-aibas-room-and-tamas-room"
-    type: article
-    provider:
-      name: Gematsu
-      domain: gematsu.com
-    quality: 23
-    images:
-      - url: "https://www.gematsu.com/wp-content/uploads/2022/06/AI-The-Somnium-Files-nirvanA-Initiative_2022_06-20-22_003.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Review: AI: THE SOMNIUM FILES – nirvanA Initiative"
     excerpt: "Back in 2019 players were introduced to AI: The Somnium Files alongside a colorful cast of characters that ended up creating a memorable murder mystery. It felt like it could have stayed as a one ..."

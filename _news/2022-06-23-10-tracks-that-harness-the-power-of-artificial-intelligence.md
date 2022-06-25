@@ -71,20 +71,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "State of denial and the power of AI"
-    excerpt: "The fact that a majority of denied claims are preventable is only one aspect of a much deeper problem. Reworking claims take time, money, and resources. But here's how resource-strapped providers can leverage artificial intelligence to reimagine claims management."
-    publishedDateTime: 2022-06-21T05:00:00Z
-    webUrl: "https://medcitynews.com/2022/06/state-of-denial-and-the-power-of-ai/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/wp-content/themes/medcitynews/images/logo-1000x1000.png"
-        width: 872
-        height: 916
-        isCached: true
 
 secured: "HC6j1upa+Q3yuwl1mC4ifIcY8w7wjA3oEYev1tjlBUHr6uqJ/iEeoHVzmc9SNOb1JjYC1bELNvKGekUBFPBASsrbWZ4SLyBOKAOqNWjx65uRuzVJABcRhpaT1EikhmJjpqNPIMQnMSdFeugmylMc+XvPqjnRf4lUldU12Jar+HpRNTK7z/jD7wqhl1V4e+fA1ioQdNwEuX8fbacQ3eu1e2SiDk/45GW4u7pjnJdYnIeFveRjcNwbDR6Vg5E7j4YAIsV1OdU6OCLUzDlDRMSWWkl27ZMdMb0TQ4D8Cxirp4/Sw9YrEIJoFeOulLuX9xU6Kr0MxPuUA0XF+rTH1t5BYf3LiGyJgczag0ZXkh84ewE=;v4I2JY9zh8Ctg2ZiJ4npxw=="
 ---

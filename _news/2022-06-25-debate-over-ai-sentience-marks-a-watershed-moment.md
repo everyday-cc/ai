@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
       name: Public Radio Tulsa
       domain: publicradiotulsa.org
     quality: 39
+  - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
+    excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
+    publishedDateTime: 2022-06-25T19:51:00Z
+    webUrl: "https://techstory.in/googles-sentient-ai-hired-a-lawyer-to-prove-its-alive/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 17
 
 secured: "AZhbRtMLHnbjq4Lue8W3m1d1gugk3aIvZPpiBAwk9fDyX8kuT75GuH5rC6TfnmnJaz8BOZ94U3OGVt51SVuehWMehyI2bEYK2odFYSGAFwa6puiiodq0Yv4dfpdrkHGKunUuhkk+UKrO9U2m65QwZLkPkrJPK24NgKNg3K6PuH/Zg/El4cM/GrExHASjkY7MKIqmIt2DVarXBN/dqMmbDYWkJTxXqU2AOrbdGyea4MMI0tCQBKT0IwpzGyJ914jbJpX/krOTWliKkyHMxGdBZPRaWwEje8Ebszh1RPhF/Ay7kCg5ENjeoWdCTWbsoDSITKypJWJEy9qG50sye94Z4Blw9RbeuCGGWHWCDURrRFu+BODCewyrVFeap+jna/j2mlmbbvXT6F2fC3mT76FOn0JSs9VlSCUUA74HcablX212V8xG4ynoLndLqjHtS6Pp4yGMLTaZ7FMAVp49Xj9Am3M3C69OMZFyE9Vk8KQ+ZNXLKuz9f1mivev3f6SlAqIJwzYA3+UVKSYXW/JKh+bIAw==;gOFvfKtjgTnZtMYQwqi3mw=="
 ---

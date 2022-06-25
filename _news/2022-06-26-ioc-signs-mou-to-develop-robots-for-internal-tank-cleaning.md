@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-25T19:29:00Z
 originalUrl: "https://www.dailyexcelsior.com/ioc-signs-mou-to-develop-robots-for-internal-tank-cleaning/"
 webUrl: "https://www.dailyexcelsior.com/ioc-signs-mou-to-develop-robots-for-internal-tank-cleaning/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Daily Excelsior

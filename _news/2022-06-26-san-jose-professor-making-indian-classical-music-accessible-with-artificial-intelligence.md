@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-25T18:35:00Z
 originalUrl: "https://indiawest.com/2022/06/25/san-jose-professor-making-indian-classical-music-accessible-with-artificial-intelligence/"
 webUrl: "https://indiawest.com/2022/06/25/san-jose-professor-making-indian-classical-music-accessible-with-artificial-intelligence/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: India West
