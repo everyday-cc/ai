@@ -33,20 +33,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "MIT engineers build LEGO-like AI chip"
-    excerpt: "Instead, they could be upgraded with the latest sensors and processors that would snap onto a device’s internal chip — like LEGO bricks incorporated into an existing build. Such reconfigurable chipware could keep devices up to date while reducing our electronic waste."
-    publishedDateTime: 2022-06-20T12:55:00Z
-    webUrl: "https://www.ept.ca/2022/06/mit-engineers-build-lego-like-ai-chip/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 54
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2022/06/MIT-AI-Lego-chip.jpeg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "blKLxgGcVw1HVqAeh9JZXkoTnxnn6DhodShmcvX0KpPYfnV1V6+PXBy+WzWj+PBEuWk00TDaBwc3ujdesA7il2ch3st7/mpzZGN9P7s00mZ3zbPNY3xerWE7ib070UDKm7b25cAGchaGCtl66IfK3HjRwzjUoS1qoH3xc+G20tPNw4r3APtEj8U0vjJKzM4jgg/6gk1pdY6QrgYB4LA1He4sCFi5QsVLyAdLrFovfwZUy8B2jsCWz2yEtmx203c3G0z0qMn9FC8I4Qo6ijhpn5l/o+B9TOorZgarr4Hgui3l/1qHBRsqcc6kDzU5IIJGHdDcRuAw5WuciiO/oRZcO3uIMX78IygdxAM/ESqTAtM=;z9Fu0eNdzOwjrjUqNVH0uw=="
 ---

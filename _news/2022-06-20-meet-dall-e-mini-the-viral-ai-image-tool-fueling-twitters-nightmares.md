@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/meet-dall-e-mini-the-viral-ai-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2022/06/comp-ap-6469-dalle-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Give this AI a few words of description and it produces a stunning image – but is it art?"
-    excerpt: "A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is a new neural network algorithm that creates a picture from a short phrase or sentence that you provide."
-    publishedDateTime: 2022-06-20T13:00:00Z
-    webUrl: "https://www.salon.com/2022/06/20/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image--but-is-it-art_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 28
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/06/printer-0617221.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "xr0oMVB8hFtgZIjRN+CY+h1KGZFvkLsRtgJF5GA/PZhjz6hy+fxzwUcobXZwkHtIRMu5hmw55EKybAVaUq//c2VdLyK3VZlaUHvvCopNdAQSBJ+BW/LwNnR0/vK/HZugbzJjRNakQK2Azjc0MoDJirlUxGk1lul108He7rWlZCB5BujqS7ZZdFee0Lirerhj2sBhwkbxaiG0farWWfbgWl562sDcLwwqxobylqUVohQ6xYDGJHMXAYB2SD87iO6zXT1XOoeAmMQ865zbFL/x8RPBLxN7gXnBdrr0CMMkMSM1ug5OR7ezBVqOiTblWKCxRtg3bNrcpVoeU8B7Rqei+1lNrl/i2aw+F98L2ctEebeHz25gESbv/eOGtKkor4S8hMbalhI+OtWdgxq/tZKf76+AGKlsoYeZ99AY+y+JZylRsFh8dWfR+8V+aut2XK5x5AlhCDNwk/gWGCQeTMF1KoTXahQ4DDKXCx9NuvQzI2O+n1dMsk+TQz2JFyxbCepi0XXs7oOqUhj3maDBSIYj2w==;GpKsSoHw9vieLz3Z5AEhSA=="

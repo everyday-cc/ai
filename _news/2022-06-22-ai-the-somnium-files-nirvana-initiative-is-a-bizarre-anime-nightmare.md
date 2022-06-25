@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-
 cdnAmpWebUrl: "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true"
 type: article
 quality: 57
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The Somnium Files – nirvanA Initiative — Naix office puzzle solution"
+    excerpt: "Want to know how to solve the puzzle in the Naix president's office in nirvanA Initiative? We've got the solution in black and white."
+    publishedDateTime: 2022-06-24T22:31:00Z
+    webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/"
+    ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 56
+    images:
+      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220615234626_1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI: The Somnium Files – Nirvana Initiative — How to solve the Mizuki chapter 2 park puzzle"
     excerpt: "The Somnium Files – nirvanA Initiative has another rough puzzle to throw your way. Once Mizuki finds a familiar corpse in the park, you’"
     publishedDateTime: 2022-06-24T22:46:00Z

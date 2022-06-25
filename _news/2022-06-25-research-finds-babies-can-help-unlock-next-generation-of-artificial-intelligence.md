@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Research finds babies can help unlock 'next generation' of artificial intelligence"
-excerpt: "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI"
-publishedDateTime: 2022-06-24T18:24:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence"
-webUrl: "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence"
+excerpt: "According to neuroscientists at the Trinity College Dublin, babies can help unlock the next generation of artificial intelligence (AI). The research examines the neuroscience and psychology of infant learning and distils three principles to guide the next generation of AI,"
+publishedDateTime: 2022-06-25T05:24:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20220624/3955734.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20220624/3955734.html"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Machine Learning
@@ -59,6 +59,6 @@ related:
         height: 360
         isCached: true
 
-secured: "OrZ008yku8sJZamaWz9JTPzR8AEWzxLXKGxXsmCyxFo5EI2DqF8Tct2qD3q04rTSo1gDoWx5/Tb6bxdFvnCLz0U/jon3R0fINVFQSgGFxi1D5+yApDjc79Ida6mE/cgC8N5XGco2QAhMFYihGYC7gIZNZxc1JtG/zQuRS4413LpuIjywAxs/Mt4EqfriHrieSbRImVEHgYX86Db7VVz98dlAWD/YuZDao2nJrISH2q+pS2t/vJO0bEIdWr8ptC2DnBHR4Goj3L0QCkHTJ0UYrg9UEZrRSIGA0T/BpIN5exGJoDbBBEYWtcfoQ0DeosXPFk1qOXNqzgsQi8tI6wzZAYZZ+6tFl3E6TCJ+nPGlz8Q=;Rt5norTHqmnGcV466gm/Zg=="
+secured: "JHwOUIpPUwTNPtAB78W3wGAYEb2OEdnC5tDLIXb06r3ljGgiBiPqXzXj4LiOAq6nCUW4Y7atrgtTBd+R0MJdrXRRj23MSz9Jyqmi2sAudExQv5YLLseckej+fKwJ6BWUe22rAX7mGEoJn5uO1au6svocsXtzOY/vv9JLidG56MdMiay0mUEltjt2CkjAXRbZEI4J6QUyx2cVFWdy44iSf6wtwvZWdq8+f8QdIanEYcnSNwwXi95RTns/yZTFNF5fpsORmeqWK5sWLKpv90KLDjmQFgE4PgX3ym6udqFtIT4yyGN5sMvlhhld3Uic6FhACuFDs1uIpBuNn+v134o/Jz9Hggik/InXAAKLN/JT9ug=;hnhL0RsOYTaerm4XbINbjw=="
 ---
 

@@ -62,15 +62,6 @@ related:
         width: 347
         height: 256
         isCached: true
-  - title: "How AI is used for data access governance"
-    excerpt: "According to the 2021 Data Risk Report Financial Services, a financial services employee has access to 13 percent of the company’s total files on an average. Meaning, employees can modify over half a million files,"
-    publishedDateTime: 2022-06-20T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-used-for-data-access-governance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
 
 secured: "EW8pn/DORYY5tMiPidZa9jENdNu7FZSwlNyALUGgFqU9ttO9myx/GzK7YEg90bISVbDw9zNJyJS+JJPntEqDSCkqal+thK6JH9DQmUAglf6x3mkDm8oAwNXLC0QF+9MLPqE7sotR39LQw9lcLAgZGjQB2+gwNBMeoIQ8uEUOotGzxPb8wY6hemlI08jNKws2k1LktHM78gdlJ5eQZxhyLUZKhRKF++ra8jGat6WJmNxEczjVFhn7tSJ9HrNuWI7GMY0NpIpqVpDet1EPi6xWzgBMmQg7GiwnrQD+6g56GBMIpmiyMvMLLRTgVu0Wo//B9xr51BOEoAyKhzeZxDMnA27ADA2G+Lp8skuYOMWFQPTj93JA9naChQkKxVsI7/TLIAUZAFXk0UdilwidYFyQDIA5ItU7t3tSE9kA4rcI605HXFmdU+iC4e9DHYMOvWJXEic/yji8Kcw7nitmDuAeJbrtGN2os2CUUVHUzxoumBg1sC0dzcp9Jg5zdfjoS7yS1Lhe6hiAOE9Twdzgp0mK/Q==;DMzeVNkjOQe7KR3ZmZpPGQ=="
 ---

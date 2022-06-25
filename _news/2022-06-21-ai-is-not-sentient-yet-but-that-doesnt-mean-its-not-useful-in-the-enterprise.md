@@ -56,6 +56,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Has artificial intelligence (AI) come alive like in sci-fi movies? This Google engineer thinks so"
+    excerpt: "If you have ever interacted with a chatbot you know we’re still years away from those things convincing you that you are chatting with a real human."
+    publishedDateTime: 2022-06-25T05:30:00Z
+    webUrl: "https://www.techzim.co.zw/2022/06/google-engineer-says-lamda-ai-has-come-alive-like-in-sci-fi/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 39
+    images:
+      - url: "https://www.techzim.co.zw/wp-content/uploads/2018/11/ai-man.jpg"
+        width: 800
+        height: 304
+        isCached: true
 
 secured: "nISRD4qTY0oJ3lPzdg/z4dAGTct4KhcSZm0/Fed9njWbG3rtESQjj4u4aiFQ05GuIBBYps4tenAMtwlofHmkIU0JLQ3AgrD8X6RIpVVwjQ5IUdVGP0AkGcYptUlPI5rJT7cwTeGeDcBcs/6BWNnfQMWfeHexOrQUXenaOfcVREevBTVwUAToD0QcjxIhNtQtV5e+1I21jiwqyMioL213seFL6tZYNqwnc8n+0dMLDrDlrK3auQoFwTbBth9shUVU4GLc0yoMeB7FuZgGpn8hrGhs3Ubl9OmYCsGGIaHsWxujqIGOAmYuQenmhNyh1SxsJ3Z80ul2O4R8uU2NhhHGJJ9oFjfjGFUubwrezwnyXWr9jqb61d8pqiNaQz9Iup0PHbWhrIzMhed1iovGlicuFcNDLW+4cGkXNL6TAP5fnQg8gFrqi22XW0wL+7LYSjIo+cFEQS0/BpZBL+VbKz2ZuoRZHTsFKMC+mNjIcDM0qIRu6Axt1Eu++YTLYirF4h7yJgSbHJj0BLsYYxSOPuj/7w==;p8G2o3mCi5ai/Zu3ukLhNA=="
 ---

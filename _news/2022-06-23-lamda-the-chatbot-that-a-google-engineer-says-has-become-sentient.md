@@ -43,6 +43,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Has artificial intelligence (AI) come alive like in sci-fi movies? This Google engineer thinks so"
+    excerpt: "If you have ever interacted with a chatbot you know we’re still years away from those things convincing you that you are chatting with a real human."
+    publishedDateTime: 2022-06-25T05:30:00Z
+    webUrl: "https://www.techzim.co.zw/2022/06/google-engineer-says-lamda-ai-has-come-alive-like-in-sci-fi/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 39
+    images:
+      - url: "https://www.techzim.co.zw/wp-content/uploads/2018/11/ai-man.jpg"
+        width: 800
+        height: 304
+        isCached: true
   - title: "AI Is Not Sentient Yet. But That Doesn’t Mean It’s Not Useful in the Enterprise"
     excerpt: "Have large language models finally crossed the chasm and become self-aware? A Google researcher recently shocked the world by declaring that Google’s"
     publishedDateTime: 2022-06-20T19:59:00Z

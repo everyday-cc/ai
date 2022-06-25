@@ -25,49 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-    excerpt: "As the Official Technology Partner of The Championships for the past 33-years, IBM continues to accelerate innovation at Wimbledon and improve"
-    publishedDateTime: 2022-06-21T05:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
+  - title: "IKEA rolls out an AI-powered interactive design experience for shoppers"
+    excerpt: "IKEA is launching a new AI-driven interactive design experience called IKEA Kreativ for IKEA.com and the IKEA app. With the new feature, U.S. customers can design and visualize their own living spaces with digitalized furniture on their smartphones instead of traveling to the"
+    publishedDateTime: 2022-06-22T14:45:00Z
+    webUrl: "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/"
+    ampWebUrl: "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg"
-        width: 400
-        height: 258
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-13-at-4.35.24-PM.png?w=1024"
+        width: 1024
+        height: 566
         isCached: true
-  - title: "Wimbledon plot major 'AI-powered' overhaul to improve fan experience at 2022 championship"
-    excerpt: "Wimbledon is set to use technology to help fans grow their tennis knowledge at this year's tournament, which is set to get underway at the end of this month. The likes of Novak Dj"
-    publishedDateTime: 2022-06-21T10:25:00Z
-    webUrl: "https://www.express.co.uk/sport/tennis/1628795/Wimbledon-AI-powered-overhaul-2022-tennis-news"
-    ampWebUrl: "https://www.express.co.uk/sport/tennis/1628795/Wimbledon-AI-powered-overhaul-2022-tennis-news/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/sport/tennis/1628795/Wimbledon-AI-powered-overhaul-2022-tennis-news/amp"
+  - title: "IKEA launches AI-powered design experience (no Swedish meatballs included)"
+    excerpt: "IKEA launched IKEA Kreativ, a new design experience powered by artificial intelligence (AI), meant to bridge the e-commerce and in-store customer journeys."
+    publishedDateTime: 2022-06-22T13:00:00Z
+    webUrl: "https://venturebeat.com/2022/06/22/ikea-launches-first-ai-powered-design-experience-no-swedish-meatballs-included/"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 48
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/72/590x/1628795_1.jpg?r=1655809500652"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-    excerpt: "It hosts and processes data from matches that is fed into AI models built using IBM Watson Studio and IBM Watson Discovery to produce insights for fans, commentators and media. Alexandra ..."
-    publishedDateTime: 2022-06-21T19:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262284&cat=PR News Wire"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
+  - title: "The Power and Pitfalls of AI for US Intelligence"
+    excerpt: "In one example of the IC’s successful use of AI, after exhausting all other avenues—from human spies to signals intelligence—the US was able to find an unidentified WMD research and ..."
+    publishedDateTime: 2022-06-21T20:09:00Z
+    webUrl: "https://www.wired.co.uk/article/ai-machine-learning-us-intelligence-community"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Wired UK
+      domain: wired.co.uk
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg"
-        width: 400
-        height: 258
+      - url: "https://media.wired.co.uk/photos/62acd555eeda7498d40896f6/16:9/w_1280,c_limit/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Cdrx+ip3Rq1zBNBAn1YBkrbsrbfvbDWu8y++20Z/BhoyALK2S+C+6juotlIEhqW/cuI580d6RE62dpZyoLjldUYF+MlLAkEORf1CkjWNFhO+GkpfQlSwsy44Ycs17U0riemCnzUhaggnVx9Oz3ti1LkM7wDGKCoQyhHer7Uggs/zDearddf75Ock1l5tlofc9llSQefRFnCO8rQ85xrHUbAyUZMWQoRGCzSAPx08cnr9Q0aPXZcDRsOHOfxaq7trn3wGnfvhsyusZUsss+/lXmAlQCYr3OXF5n6aeLyN6fvRMsOc1LbxAaWhfMRaq9VnK0TZVlHpWk4EGHnGCMTmdiY/yJXAP7po4oMIZqGv9mo=;IwD5V0aftNVdUmJtvk9HBg=="

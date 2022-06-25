@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Research confirms AI adoption growing but governance is lagging"
-    excerpt: "There's been an increase in AI adoption during the last year, but a shortage of human talent holds a great deal of good implementation back."
-    publishedDateTime: 2022-06-20T12:40:00Z
-    webUrl: "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/"
-    ampWebUrl: "https://venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/research-confirms-ai-adoption-growing-but-governance-is-lagging/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all"
-        width: 1200
-        height: 611
-        isCached: true
 
 secured: "OERalYswR1OFqYLQQ1zuQsh1hdH10P+TTA1La+vlltXA0X3gM6a8sCVZ8byd45MVbpW+YTlXHXJfxgMO15S/HdQZdz4wMqXoq18YXeDGbX6Uyoaa/uWW8d66ULx/TgG/MRVf5hxtfLDTL0Em9tQzIxZF4L0Lzf6Fk1mGYuj568hqdni/nidDnFTos2LAt0htPwj9584p3BDpUDeybnnlUKgqoP2M0vCqOUu4AQxr/qmeU2J/76MabEGJ4GkiitMgUf1wYY70sttYzRmLjjzN/8x+YFg7UFnZ65t7r8jePV86/zGSNwf46Q6xBi1PS1kQMbFMAmYNuMSa2rep6rGNSTnn1JRopa73WQIzz9iL3eg=;1iJ7iEYBCrps2IWMFTHoMA=="
 ---

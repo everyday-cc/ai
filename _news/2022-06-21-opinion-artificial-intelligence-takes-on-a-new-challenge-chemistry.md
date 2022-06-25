@@ -7,7 +7,7 @@ originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificia
 webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "A celebrated AI has learned a new trick: How to do chemistry"
-    excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
-    publishedDateTime: 2022-06-20T20:31:00Z
-    webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
+  - title: "Opinion: AI's hold over humans is starting to get stronger"
+    excerpt: "Ilya Sutskever, the chief scientist of research giant OpenAI ... Last month, Mark Zuckerberg said that Facebook would use more AI recommendations for people's newsfeeds, instead of showing content based on what friends and family were looking at."
+    publishedDateTime: 2022-06-20T18:06:00Z
+    webUrl: "https://www.crainscleveland.com/opinion/opinion-ais-hold-over-humans-starting-get-stronger"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 37
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 39
     images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/pipette-lab.jpg"
-        width: 1200
-        height: 810
+      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "pfHSb0D2c3qYJSWHARhkPvx7dG2M90AKE/LowCTLJbBy1+uf/8QQT4a7N0EcVbDKHlUUFcLTJSu7v4jeJU7B5DEKuSYnGz7vDWd9GimYs2Md7j3Yt1GivxOe+9aMpnxPn7Fqt9a5Wc4wbMV6gfaptsQ2a/hfYq0q90R9xMxtM8okpN3+mlJFugZA6fOT2wlwniPUSbOw6hYqN91IywT+hsEJ9VURd1sHe/uvd2w3UCkYavLj5SveCOWGMweS5NomfSrWiXRFd9WMe53BW2Tf83w8qKVMwRWvnIxtyycrEXZn4dBE/Fw8t/lVThwxhzVdrPwUZw76uy6JORi7Zpg3OYMSm9UIWUOdFc0I07d9aLHv45JXCD6SRfZWx+63387vOlFYWzMdMWSfNCgtsiAEl8YewtO98W+IEby/NAR8AEzNOPi9JHImdei0tRObalmW4zMOCuXtnuLfEXWO9MJ2bdaRajvfw8K9lO1Yf4TJgDaiNz7rQRBOPk7DalIesZN0CwUHTHGBpfcCpq9BSBBfkQ==;GPFeUHklwOKE7rPtSchWLQ=="

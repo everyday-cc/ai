@@ -7,7 +7,7 @@ originalUrl: "https://www.crainscleveland.com/opinion/opinion-ais-hold-over-huma
 webUrl: "https://www.crainscleveland.com/opinion/opinion-ais-hold-over-humans-starting-get-stronger"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s hold over humans is starting to get stronger"
-    excerpt: "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern"
-    publishedDateTime: 2022-06-20T11:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/ais-hold-over-humans-is-starting-to-get-stronger-8712241.html/amp"
+  - title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
+    excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
+    publishedDateTime: 2022-06-21T14:00:00Z
+    webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/03/Artificial-Intelligence.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
+        width: 1800
+        height: 1203
         isCached: true
 
 secured: "G91zBd0VqoxFfqqlQjosGgtLCGXWaUO6JguQar+n50opMX0WRPjlcmlopjvWAdGUOcnRIwATPq080p+CgAOQ3E3Pfcul8G70eL8lQp5iZIWCoAsY2+yRL23B2a3dtWal1G1RX6yoGixCqBD/lWz3cZQU9cij2LsxMJBjNYKh+T0zkOpkavcAOp+EF+Kdz560ewG2zqnpOjrk+DNa9jzf6BcwByuJ2pQ0bvjPJheMeYd52CrWHjvhAWWUcpkLRl7wbA0+c02RtnjRBaKT/nCjqa9w0XWfKzA1I2MJgzcbrXJ/uMYCn8a4SJWr1mMzf92C4OwlyNDkVwWX5erHtZvynsDePb0C5KSwAvdMLKJeh86ZkQ6eOxGwi7ep2Y1SywJI+3MMp1c8kzMRutPQ1prLQz2/Ow8Gn3w+mg6KLv+zuqVgG8tLqxgaNPDqCEuLYQebW/PjEsEcYf9WSmOEyN9UsuFZpOJK3e7EaaNB9rAg6JqmtZ3ylAQLjbm05R6BQcUYZAHg4D4+65N7+n6q/HzTcA==;Qrt7oa8qRktcE7ctXBCSFw=="

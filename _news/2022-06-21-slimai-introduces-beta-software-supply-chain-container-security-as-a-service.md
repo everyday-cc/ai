@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/slim-ai-introduces-beta-software-sup
 webUrl: "https://www.zdnet.com/article/slim-ai-introduces-beta-software-supply-chain-container-security-as-a-service/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 1300
         height: 728
         isCached: true
-  - title: "Governance Gap Raises AI Security Concerns"
-    excerpt: "Cybersecurity is now viewed as the most critical factor in AI adoption, but governance needs to catch up with the potential risks associated with the technology, a new study from Juniper Networks has revealed."
-    publishedDateTime: 2022-06-20T11:45:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/governance-shortfall-raises-ai/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
 
 secured: "2rc7B60X8Jxcy94/KRpG/xrK2dg2YQFa4QsDcbKg5LuYkrvK9jkgFEvxPtITj3e1L3uHxAIcOSflWtTU/79qpiLv/lSV3Jo8Mhd+TjRyZKmPV6g6P4olHYG0+Jbyv9kVO8h219d+HiSYhZ+/XShMw1Fm84TVJWoWygNhgTGQbGuKNsdufKSbxWiDVgzfQZt3GH3SMYMuubGwkpYbYSezpG22gK68PJSe0CD2WCdlTOnGX5kLWQt7si1ghLLMhn6puQ5zi1na4USGhoSwsihXmj7WNoabut7lXcpN+hoiae0Gt8PT4vJJ+kcAWApK+laEm2qNjIUItNN5efbqsN0orZe1dC9FW59jg/DRYwD3+Gs=;Cut0epqZ3fZR6o9JSUvQPg=="
 ---

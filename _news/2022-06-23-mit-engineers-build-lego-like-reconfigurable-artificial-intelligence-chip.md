@@ -7,8 +7,8 @@ originalUrl: "https://scitechdaily.com/mit-engineers-build-lego-like-reconfigura
 webUrl: "https://scitechdaily.com/mit-engineers-build-lego-like-reconfigurable-artificial-intelligence-chip/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: SciTech Daily
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MIT engineers build LEGO-like AI chip"
-    excerpt: "Instead, they could be upgraded with the latest sensors and processors that would snap onto a device’s internal chip — like LEGO bricks incorporated into an existing build. Such reconfigurable chipware could keep devices up to date while reducing our electronic waste."
-    publishedDateTime: 2022-06-20T12:55:00Z
-    webUrl: "https://www.ept.ca/2022/06/mit-engineers-build-lego-like-ai-chip/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 54
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2022/06/MIT-AI-Lego-chip.jpeg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Engineers Build LEGO-Like AI Chip"
     excerpt: "An international team of  researchers has developed an artificial intelligence chip that is stackable and reconfigurable, similar to LEGO bricks."
     publishedDateTime: 2022-06-21T00:00:00Z

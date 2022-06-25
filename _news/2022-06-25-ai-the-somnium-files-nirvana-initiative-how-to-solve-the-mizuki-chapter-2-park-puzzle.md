@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI: The Somnium Files – nirvanA Initiative — Naix office puzzle solution"
+    excerpt: "Want to know how to solve the puzzle in the Naix president's office in nirvanA Initiative? We've got the solution in black and white."
+    publishedDateTime: 2022-06-24T22:31:00Z
+    webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/"
+    ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 56
+    images:
+      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220615234626_1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative Review"
     excerpt: "AI: The Somnium Files - nirvanA Initiative brings another twisting and unpredictable murder mystery to the table."
     publishedDateTime: 2022-06-20T20:47:00Z
@@ -108,6 +124,6 @@ related:
       domain: hardcoregamer.com
     quality: 17
 
-secured: "JHTHTFgnIwbAD0LCuerKnW4Bvx1wCL+mS4u2OWNQ02cXwkAw2eCXkt4oYJ5ot2zUpJ2sgfvbAJIKsum1gq2UG8+NG6Q8LDTUJzy05ezBUO1r2wmwj8lUEExJuBJLcmQqBnEwv0CbNK9ZiJnKyzcUbcB0wdjWb62/5Wg9YyMNIReyx1M7Z1OFShf/vzWW3aQQSsqMaIk+3pbuXNiP93KNvGia03XjEevEc0w25czE6VwFY95DEDJdI5u0QKrZTiZO0+SpBDbvurECEUI46z3iClv88+6pBB4ZGnBFw7DKPklKzyYzoNziVSv/R+rv4W9aKHgooSshrtVhYyTalqpLg77FRQfXkUt4THeRMazqQ64=;cLaKWoWkoknmLv9SlezpOg=="
+secured: "ufXJ/5OHkI+KAPSY3u9GUdlP0ma3ISYk7f6XMzsrEHfipaNifyJEtfQCHRqvUGE2nkDTXZytNm5wz12Tco9xXqt0aNemlnwxINSfOMkryMVeRqlgRIFGz+0pxaDUtNGRodxXfat36S0HHLFs6a2QBkgANCTepyiOQy6aTuzm/Zf80CeYWonNFSELyCHkEgYO+nY7i4PZl4VBhgbMaYOE7mGPPP2I8nGk7S/220WEeE7z0OgcBypHlfIxhpilKappALqBV1Lg1unSVJ+Qi5sEyA8GHeSkS3G/F23Ylz3QW1nqzCIP6Dzwiic7fl84ZRlYNPkZBnnDFh+mTcPjDs+Px6PECstyawENXz4soI/jOTJG81If1Io5UUfOgk4+GreSZGz26MHVZoolP5np1wYhlyTp+EJm/7lJV0kAvorIxEY1A8HoTJkUzBh+N7t6m2LiNZU1fWPAKQ2xqHPdPp0jd1u/n+zFUj09zD6EI9Pj0uW8lpNX317/YAGqvFnW/RODjzo7RmolWK247WbaXvDqxg==;qvbVaKic4RfY8EjtDj4kRg=="
 ---
 

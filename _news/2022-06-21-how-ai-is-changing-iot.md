@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 347
         height: 256
         isCached: true
-  - title: "How AI is used for data access governance"
-    excerpt: "According to the 2021 Data Risk Report Financial Services, a financial services employee has access to 13 percent of the company’s total files on an average. Meaning, employees can modify over half a million files,"
-    publishedDateTime: 2022-06-20T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-is-used-for-data-access-governance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
 
 secured: "0+epWtXJgoq32pa7q8Rva3ZlEBf7gqruqB84o6gqRjlgrZs+/1Wstdn5UFUwN/8qtDZiIqcQXn5XeN32XAQecN53CtnCwD306Fd3bs10Mo/w3Q6bT4LLB882i4r9y7j2IjmR+mnXKEP9Hcrn73oea/b/NLwO5VPAdVZByVuyuA+ocmvZReds9lJaxvdZJiQdvP5bOlV3CGsGH3xRuXfZsWvrBwsHNKiXfDYxDiH5lm4IxFcPbTkqXoBMblR22khNo5gBRJ3YRP65I1GjTZlUxTWI3343LptVvXx0FS8HDUgLfbMMvLZbLQQKGdLARLydY4vcmNRbIN8AtZgDKFBU/GzfFR09LBzmLb8wWhf4MHMBGI6HqRcSNjGu/fyyYGens66GJBSwmeY01B+LP6CY+8AmBBc/5sBPEv0az/Ke9wyubPocEIbrvZyMINGVYfjN1kZLCxiMWwFr2BGhgQHtHWu60cAbodPAYH3rubO7gR6ladja3OuL2IclEDeABwudhJ/Jv4KIe1ZJcnbEigHPbA==;X7gmH2woSiC/FbN8iubhCQ=="
 ---

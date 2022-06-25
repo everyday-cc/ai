@@ -78,20 +78,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Give this AI a few words of description and it produces a stunning image – but is it art?"
-    excerpt: "A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is a new neural network algorithm that creates a picture from a short phrase or sentence that you provide."
-    publishedDateTime: 2022-06-20T13:00:00Z
-    webUrl: "https://www.salon.com/2022/06/20/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image--but-is-it-art_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 28
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/06/printer-0617221.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "vIrHyn9fI9MmhCQIMKdr+MzaCag4GfZ6Scp3Wl/dpz1rjNMHoKWxS8/rnMY5171sMRDs0hCA/s9BbUCTQsKt9u7FCPrBPbu3SCh1Ssfi0ePpQ3mQiWfz51s5drSkcKKD56JBDfBeYCUKtCeYtYvfHYPtLpPlLRsxZ8ydzpbDUi1el4p48RecypZrTijnzblOTf+0wOvp2W1LRbzUPoHB3WBeQKsK0/gm6wgR8qAsfSpYe75bfR1nrXVtLoAKlF4D7l8iO+dn42aD2gslYHNr0j5QY47XKYrXEHvq2pSLSFkl3FMAYX9tGOkfLmrTV+5k5CNi0TnbQZVot/9U/nPBTrtUjtaJfVQfjIXx65dhKEo9NVOkamuhatZ8iKokXpNU8bqcCRd3aHEoDNXVxzkZuRlu4TMaABpWa8+sbu41khK/FVQhAr0n5Y/taMK1fRnBezAM5bykf3TQJpqUKzj8zre4YHbBtwVw1nGI3ZP0EJVkhBqcPXtbCeK5a7VOUYxuMoS0DookY9SYnoQrnut+SQ==;C7MeCJTfEZrnqO2ShHSruA=="
 ---
