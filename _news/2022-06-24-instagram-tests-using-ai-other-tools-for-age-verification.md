@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Instagram tests using AI, other tools for age verification"
-excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-publishedDateTime: 2022-06-23T17:44:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
-webUrl: "https://abcnews.go.com/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
+excerpt: "The use of face-scanning AI, especially on teenagers, raised some alarm bells Thursday, given the checkered history of Instagram parent Meta when it comes to protecting users' pri"
+publishedDateTime: 2022-06-23T18:44:00Z
+originalUrl: "https://www.12news.com/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
+webUrl: "https://www.12news.com/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
+ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
+cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: KPNX
+  domain: 12news.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://media.12news.com/assets/CCT/images/abc5dc47-fb42-4751-a055-75b2ca6ac77b/abc5dc47-fb42-4751-a055-75b2ca6ac77b_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -128,6 +128,6 @@ related:
         height: 620
         isCached: true
 
-secured: "uJWYgNqXMytRFz2+C9jVl+lHYITf6ImBuHvAJkSXO0f9MrMGUb+as4nURlZ42mRt2jS8BuyKRkQGpvir0j/lvDRDHUXWBYdlUN6Q6GwpLTzBBAhBEZu3p/DNZ7Kczdh8691Dh31Om03jNuWkAj1eQNPfzXO17eofHc1phmKsAZv6HCyrvaErnJrlX9qM6Y3kQfIdxrR7to3ubh0AYJ99cJVvHIIY7yZvZZ2hPjH6rcdzeabz1xU6cdPFAS+NGoVep/ObDbrxlIET05T1fswX0C6xklC2o69Rv+YoKPY2CG4BcP4VyLWzrvvToNiHbTE5bhB4vgFnJkMTYEwr9EEtP2DWw0oFOfU1KhuGG0Knd2M=;NX3c2xCsvLxUCO7P3g08Rw=="
+secured: "u/21yPlD2dXkcas78yn8Wt0OD7kcKLL2N5OLGZM1NTB7u3tO8Mp3Q/HJPq1us/1dPgE3dDpyJYzmoWMNDokpV7+1Kf9s2+oZOUfXScy6Lpe/Z0allVv0kTMf1zBSela1MT2BNXcNohGXVOousSoGqJ5mXf5vJJepWMUZCTU7ORViw94PvsAlRKxhZ6X/ryavbTfkt+iVW6wssTERsoAmG4a+C/Mzl0STKMTPdkgunGWED6InJsN5mpAO4TLT7mCRHG8S/EF0h9ZSzTffkgqBqzO4zaESFb5ERro2lPf3Rou0/dzHt82M+v7L5Qwf9ZiW5oxxH/sn27c5pUdTd1M6SbB+KEEr03Y9MHEd2Ks7odk=;XJV++XYsOREPnoAT8KWTiQ=="
 ---
 

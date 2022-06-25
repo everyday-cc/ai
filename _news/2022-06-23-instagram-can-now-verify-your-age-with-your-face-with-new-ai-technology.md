@@ -56,20 +56,20 @@ related:
       domain: gizmodo.com
     quality: 69
   - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-    publishedDateTime: 2022-06-23T17:44:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
+    excerpt: "The use of face-scanning AI, especially on teenagers, raised some alarm bells Thursday, given the checkered history of Instagram parent Meta when it comes to protecting users' pri"
+    publishedDateTime: 2022-06-23T18:44:00Z
+    webUrl: "https://www.12news.com/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
+    ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: KPNX
+      domain: 12news.com
     quality: 57
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://media.12news.com/assets/CCT/images/abc5dc47-fb42-4751-a055-75b2ca6ac77b/abc5dc47-fb42-4751-a055-75b2ca6ac77b_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."

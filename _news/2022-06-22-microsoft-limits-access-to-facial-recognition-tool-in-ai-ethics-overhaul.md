@@ -2,11 +2,13 @@
 category: news
 title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
 excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns"
-publishedDateTime: 2022-06-22T11:31:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco"
+publishedDateTime: 2022-06-22T13:34:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
 type: article
-quality: 67
+quality: 107
 heat: -1
 published: false
 
@@ -19,10 +21,16 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - Computer Vision
+  - AI
   - AI Ethics
+  - Microsoft AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "What’s new in Microsoft Azure’s NLP AI services"
@@ -567,6 +575,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "WefaPOBlN/6aOe3wdM2x1wnfWBSfaAhRSBXMXeL5qm59W0gBYBgdv6lt3R9h6GBrphz4xD3cypLl0eb1w/bi+soe5odQkmnWx0x1sCSjCQArMAb/NgyKQk+3Fj9ngu9qN6P9NArncViwdfxEUKWN5j9V11Xvec498KhF3hutKTjTHGLnYGuLGzruxEQ6YaUifdxYV/5jS8nHuqcl/owM7at2stwpvAfe7KzR1E5xFjgONLNA2FlFL15QTOI+DSFfG1F30c7le/4dCdRSwDIe+CiVzDi5hS4jq049a4wOG3qNZL5jXiJT6iTwkXKNBYt2TS7Jjnu2YEix8eL07tuP5sNNwOQbuqqJsv+5pEvNEaJ6IKNg7/BlaPXmi4QJnWcwj0UKA7p65gklX9N955Mddc1WUdKKOwt4zTaGCU3Wd78oOt1bl4zE0iwwk5fYI4KEbl/svizJcDwLkpgqEIIrygsazzSJ3EaIcn4AZnDvJGbCt/WLM0O1aI5ddaEcfC29DIJcUdWeSFDOXbsvr/hwJA==;INVBToVYtbb5FH0Gi/myJQ=="
+secured: "a/wj4/LWQ2vDHlSwQgAhJSV9/q9NgJ06Ursg2VSZOdxBUNku+3ViHwXZgnayf01kBurZiW+YAr1JdHkEWsTQfTbn6twClXyAezb8KoF6wTDZaOnAFYjSnikni7EzaQWzmgPDeNO7xzTTfcp6DNNedyv8NyHz7khxg0/rKSqABoqMM9AVBqPkuR/SD97m3dMLd4lnqjToSVoUhHvAmfNpWWXs9t4vks9cjNUl7GflY0I4KfLEtNJmPuxA2xdIiIjFB1Ai4pVHCN5CNjKSkTlnyWM+pQPVCwr03HAEKciTMUPFAVfVTIvvv4BtkE+HzfpYzLaBBEmm5UCQd/4V/jxA7DuR5crOeb7pub4NLB6CgFQ=;zlfbUrLQmRtQL7RswLUrGw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificia
 webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: AI's hold over humans is starting to get stronger"
-    excerpt: "Ilya Sutskever, the chief scientist of research giant OpenAI ... Last month, Mark Zuckerberg said that Facebook would use more AI recommendations for people's newsfeeds, instead of showing content based on what friends and family were looking at."
-    publishedDateTime: 2022-06-20T18:06:00Z
-    webUrl: "https://www.crainscleveland.com/opinion/opinion-ais-hold-over-humans-starting-get-stronger"
+  - title: "A celebrated AI has learned a new trick: How to do chemistry"
+    excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
+    publishedDateTime: 2022-06-20T20:31:00Z
+    webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
     type: article
     provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 39
+      name: Salon
+      domain: salon.com
+    quality: 37
     images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/pipette-lab.jpg"
+        width: 1200
+        height: 810
         isCached: true
 
-secured: "C5EkBDsCWHsIHzuwjEg/kZiZK0mPL9khF2gLEmenhFlxYY+PBEvA1kDAPaK1yi6KkVrSCySgUr1ROJRvARSxAJ5slnTmV72C7UCWaO4bQaTK3YJ9E2KoPlLqI2Mi90i5dDNYKgedc31xm6wcN3wvAeHleir4JYdTHAFU5m6XRcpFrqvTahEkEHi+C5chV4ST7ZJIKdBkDrhJUNRNCH5mWBiTu5f2NJup/xPmXTe/j/9QA56ggtsvuW3Dzp/sQJvcMiqf74SK5W5sNX/RKg+qM+ZgpyZfts81+xSGe+v+wXmOV8FplKHM04IrYSohooMS05WrfMbBWV946Ag+dA3C7xMGZ2pHzfNa+MT5cM00Z5Y=;bxeJzl4ptiSGfqqpru4Tcw=="
+secured: "kA6yZff0d9Ol0kJ9dEzzMyhh+O7JoCLbbkunaQrxzYsSfjWovg/L4Npa0DxJqWZC8DkkElybwDHEO9w4j7cAvPAA/GS2ncOVT+NZMOED1O0Ko0qCoAXQXgGHWmwhGLrwbjnO71oH9ZjEvQAsLrk5wt1FDgF78JvncGuVxsSH4gnVKv5Huw56zd3qtLghXggB8HotbvXocUNehYQoVm3xQ9m+07sD/fp8a2HSgAXyiRGAz/W5A2a0yn6oKRWilCLE7m3dig4Jfit232SnvZh2uY8UDpr2aUdK0XJVy99fOoBXks3RRUcg0z8HCiqi47V9n64xfGSQPnHZdd4jnq5O5VuOQuBmtucOadV2K9gw7v6z8bNO31ECTbVJNPSQsV9h8mRJk3qEd0A20Q8MLPEQQHVHSUrLc3B1d9UtFdnGLcEZjz1O5/exDjE6YB71MpqNrC+FgXqKK3qdLrIlcgoDGs/2tMuOcmDKLy04t27UIXfc2MreJyQjORqbdDneSkhmX8DfikDT+GSpU99+hAy90A==;SOrUmsTMbzowgkdVRlvjVQ=="
 ---
 

@@ -51,7 +51,7 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310293181/image_1310293181.jpg?io=getty-c-w750"
         width: 750
