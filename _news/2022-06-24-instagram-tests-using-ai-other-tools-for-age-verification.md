@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Instagram tests using AI, other tools for age verification"
-excerpt: "The use of face-scanning AI, especially on teenagers, raised some alarm bells Thursday, given the checkered history of Instagram parent Meta when it comes to protecting users' pri"
-publishedDateTime: 2022-06-23T18:44:00Z
-originalUrl: "https://www.12news.com/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
-webUrl: "https://www.12news.com/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
-ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
-cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/instagram-tests-using-ai-tool-for-age-verification/507-9cc5730e-b52b-4df3-a724-6f1d08242b48"
+excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. But the tools won't be used,"
+publishedDateTime: 2022-06-23T20:12:00Z
+originalUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
+webUrl: "https://apnews.com/article/technology-artificial-intelligence-e7a5583ccfe7e1b284081db40cb2ea7c"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KPNX
-  domain: 12news.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.12news.com/assets/CCT/images/abc5dc47-fb42-4751-a055-75b2ca6ac77b/abc5dc47-fb42-4751-a055-75b2ca6ac77b_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://storage.googleapis.com/afs-prod/media/40267c0d07df4ef99bac109894984999/915.jpeg"
+    width: 915
+    height: 610
     isCached: true
 
 related:
@@ -128,6 +126,6 @@ related:
         height: 620
         isCached: true
 
-secured: "u/21yPlD2dXkcas78yn8Wt0OD7kcKLL2N5OLGZM1NTB7u3tO8Mp3Q/HJPq1us/1dPgE3dDpyJYzmoWMNDokpV7+1Kf9s2+oZOUfXScy6Lpe/Z0allVv0kTMf1zBSela1MT2BNXcNohGXVOousSoGqJ5mXf5vJJepWMUZCTU7ORViw94PvsAlRKxhZ6X/ryavbTfkt+iVW6wssTERsoAmG4a+C/Mzl0STKMTPdkgunGWED6InJsN5mpAO4TLT7mCRHG8S/EF0h9ZSzTffkgqBqzO4zaESFb5ERro2lPf3Rou0/dzHt82M+v7L5Qwf9ZiW5oxxH/sn27c5pUdTd1M6SbB+KEEr03Y9MHEd2Ks7odk=;XJV++XYsOREPnoAT8KWTiQ=="
+secured: "QQ45BkdxcSjbllUpbXbgzeKyBhUnO1e86OkoZkwdkP8MGwWIPfrr6a0o7IVRFJ8tuuwMt7FDzLo5wY/sDdzqujKvhdjhMOFYI5oRpaioqkqjFSHOhV19gQPVe/8trupdz/rVR+1E1IMg2lf0t90xSnxhq4AnUEu6Iw9h7//azhdHwxw5zQF1Or+NSofJejEzWXFeAdegtPt6SrvafYC1+aWfs+pBcPV+Ag7X/zqCsTSYpnxrLT0yONJJyMaaA+AnQZ31CaxPvjq/QPXL4aKnaAWAQuSLx59z/rwzfCLWPEaj9S+VM9Gozos1sIh2wx4i558I3S2OunDVXmpkYbzLW2TdLCtoJJgh9xmusXc9LWE=;paBqKv8cj5FKZyH947V4Lw=="
 ---
 

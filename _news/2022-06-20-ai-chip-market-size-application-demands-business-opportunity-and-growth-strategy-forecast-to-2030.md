@@ -15,6 +15,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "NxRpyJKG/AMA15dJ57ZKiVrfj9fhWZXnKbN84rqww5zx7dJhmkgn3+N6GqNmeWlfv1CesenwBGI7wUNKstKEgBgQ02FyLyCFQ9EAiTUyPvPXbeeHuo/X9YmdAh0wjH2k1nZU7C1apBg+n2uKfI6XVht6dXmUWVcKYoadFpGNrBxmuXQ7NjAqUvAodnh8nUdzzxrBpW6hpbBeJ0oleD8SdRlpeVxFMi/KcgPPqoxlthNrPAgmjI/yme+eiX3w8tGN3nuK2BkRhBYMT1Hyi7WyVrCrxQ30BA+f+NhsHjoiCHVGQwYHamPQemEwVQZWg7HJjz4/G/VeO2WRjophnlj7J6LV/XI53BEFwSJW9+hKKIw=;obh+G3fcqYwK+gy5o1tTYw=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324354"
+    width: 374
+    height: 250
+    isCached: true
+
+secured: "bi/+CbswmfSneFGv1Dpq8nIE/se3sj0zDPzqzgZjfSXGyyEMw09E9uInse2Y8n6FUPqMgrkljt/kChp1NCKsrQCpbZJwZ5nmAFYFCHFYNcptuGHaJcZr7+x1mGB8QnjZwveDCsgcbClv2gqI+IuvmVAiraNAY/zljlebwxipO296EmSCdQ2gNmT37gauOLDyE6dK4DxvrPSfL3LYNn2ZHRQo6xC678s9HNGizL/jPBRUWjWUFhKGNml0ivtU3RB9b/39W4dMzd0aptycggS0+t+ieH9U4vU8YRvjxRahJqlyrwVdxhB6aVZSS7X1Sr/clnPaKc5KRs4ONT3dLwk0T7I7/PIbjHX72gvjMhfRY0M=;ueLQGdpGyiW0z5CxJMf+7A=="
 ---
 

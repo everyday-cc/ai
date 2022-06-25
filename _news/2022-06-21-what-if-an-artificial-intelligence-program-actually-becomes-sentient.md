@@ -21,35 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "3 things large language models need in an era of ‘sentient’ AI hype"
-    excerpt: "Here's some of the lessons learned from the hype and confusion surrounding large language models and progress in AI."
-    publishedDateTime: 2022-06-20T21:40:00Z
-    webUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/"
-    ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
+  - title: "Debate over AI sentience marks a watershed moment"
+    excerpt: "The debate over sentience in AI is evidence of not only how far AI systems have come, but also suggestive of where they are going."
+    publishedDateTime: 2022-06-25T13:40:00Z
+    webUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/"
+    ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1367281424-e1654632813202.jpg?fit=800%2C533&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all"
         width: 800
-        height: 450
+        height: 399
         isCached: true
-  - title: "What happens if we put a ‘sentient’ AI inside of a lab-grown brain?"
-    excerpt: "At the intersection of synthetic organs, artificial general intelligence, and brain-computer-interfaces lies the future. Let's take a peek!"
-    publishedDateTime: 2022-06-23T19:02:00Z
-    webUrl: "https://thenextweb.com/news/what-happens-if-we-put-sentient-ai-inside-of-a-lab-grown-brain"
+  - title: "Google engineer says artificial intelligence program is sentient"
+    excerpt: "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself."
+    publishedDateTime: 2022-06-24T12:09:00Z
+    webUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
+    ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
+    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
+      name: NewsNation
+      domain: newsnationnow.com
+    quality: 59
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fbirdbrain.jpg&signature=cf04805fb464744027e21949538c2d03"
-        width: 1280
-        height: 640
+      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
+        width: 509
+        height: 339
         isCached: true
   - title: "How Close Is AI to Becoming Sentient?"
     excerpt: "Sounds great to me, I’m in. Lemoine: A monk asked Kegon, “How does an enlightened one return to the ordinary world?” Kegon replied, “A broken mirror never reflects again; fallen flowers never go back to the old branches."
@@ -83,18 +85,27 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Google’s ‘Sentient’ AI Can’t Count in a Minyan, but it Still Raises Ethical Dilemmas"
-    excerpt: "In part, the story feeds into current anxieties that AI itself will somehow threaten humankind, and that “thinking” machines will develop wills of their own. But there is also the deep concern that if a machine is sentient,"
-    publishedDateTime: 2022-06-22T20:31:00Z
-    webUrl: "https://www.jewishexponent.com/2022/06/22/googles-sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
+  - title: "Stop debating whether AI is ‘sentient’ — the question is if we can trust it"
+    excerpt: "A more practical question is, how “compatible” are current neural networks with the human mind, and how far can we trust them?"
+    publishedDateTime: 2022-06-25T13:00:00Z
+    webUrl: "https://thenextweb.com/news/stop-debating-whether-ai-is-sentient-trust"
     type: article
     provider:
-      name: The Jewish Exponent
-      domain: jewishexponent.com
-    quality: 47
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 45
+  - title: "Comment: Never mind if it’s sentient, AI’s still concerning"
+    excerpt: "Even so, AI’s influence on our daily life is growing. As machine-learning models grow in complexity and improve their ability to mimic sentience, they are also becoming more difficult, even for their creators,"
+    publishedDateTime: 2022-06-21T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-never-mind-if-its-sentient-ais-still-concerning/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
     images:
-      - url: "https://www.jewishexponent.com/wp-content/uploads/2022/05/SFTH.jpg"
-        width: 800
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
         height: 400
         isCached: true
 

@@ -24,89 +24,124 @@ images:
     isCached: true
 
 related:
-  - title: "Learning Analytics And AI Best Practices From Fractal"
-    excerpt: "Analytics and AI groups within companies can learn best practices for working with their own internal clients from companies like Fractal Analytics."
-    publishedDateTime: 2022-06-20T21:12:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
+  - title: "Eigen Technologies Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards Program"
+    excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies NEW YORK & LONDON--(BUSINESS WIRE)--Eigen"
+    publishedDateTime: 2022-06-23T13:14:00Z
+    webUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/"
+    ampWebUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62b0e1fd2738373c85cbe185/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 782
-        isCached: true
-  - title: "Consumer Biotechnology AI Startup Watz Raises $2M To Provide Deeper, Personalized Analytics From Your Wearables"
-    excerpt: "The lack of deep, holistic analytics of data from wearables limits the applications and personalization of health recommendations for the multi-billion dollar consumer health wearable device industry."
-    publishedDateTime: 2022-06-22T14:38:00Z
-    webUrl: "https://www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/"
-    ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62a0f887602b33d7ab39aea5/0x0.jpg?format=jpg&crop=1125,633,x0,y0,safe&width=1200"
-        width: 1125
-        height: 633
-        isCached: true
-  - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
-    excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
-    publishedDateTime: 2022-06-21T11:37:00Z
-    webUrl: "https://www.monitordaily.com/news-posts/engs-leverages-ai-and-visual-analytics-to-improve-digital-sales-process/"
-    type: article
-    provider:
-      name: Monitordaily
-      domain: monitordaily.com
+      name: 01Net
+      domain: 01net.it
     quality: 54
     images:
-      - url: "https://www.monitordaily.com/wp-content/uploads/2015/12/166470155.png"
-        width: 500
-        height: 500
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "AI startup Synapse Analytics raises $2 million pre-Series A round"
-    excerpt: "Egypt-based AI tech startup Synapse Analytics, has raised $2 million in a pre-Series A funding round led by Egypt Ventures,"
-    publishedDateTime: 2022-06-22T10:24:00Z
-    webUrl: "https://www.wamda.com/2022/06/ai-startup-synapse-analytics-raises-2-million-pre-series-round"
+  - title: "AdTheorent Wins “Machine Learning Innovation Award” in 2022 Artificial Intelligence (AI) Breakthrough Awards Program"
+    excerpt: "Marks AdTheorent’s Fifth Consecutive AI Breakthrough Awards Win. NEW YORK, June 23, 2022 /PRNewswire/ -- AdTheorent Holding Company, Inc. (“AdTheorent” or the “Compan"
+    publishedDateTime: 2022-06-23T13:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-b8f411c5edc1e72859dfa8e411c6e901"
     type: article
     provider:
-      name: wamda
-      domain: wamda.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
     images:
-      - url: "https://cdn.wamda.com/feature-images/8a27e9143bfac5b.png"
-        width: 900
-        height: 500
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
-    publishedDateTime: 2022-06-21T12:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
+  - title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
+    excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,"
+    publishedDateTime: 2022-06-22T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+  - title: "Marchex Wins Artificial Intelligence Innovation Award in 2022 AI Breakthrough Awards Program"
+    excerpt: "Marchex (NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that its Marchex Conversation Intelligence solution has been selected as winner of the “AI-based Analytics Innovation Award” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-31c3dcc0cdb14bdfad926836cd6051ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Aera Technology Wins AI Breakthrough Award for Decision Intelligence Innovation"
+    excerpt: "Aera Technology today announced the company has been chosen as a “Decision Intelligence Innovator” in the fifth annual AI Breakthrough Awards program. At a time when the global AI market is expected to grow to USD 390."
+    publishedDateTime: 2022-06-23T16:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/aera-technology-wins-ai-breakthrough-award-for-decision-intelligence-innovation/article_d482a395-0b56-5857-a6aa-b88bb50ed1eb.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 33
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
+        width: 415
+        height: 539
+        isCached: true
+  - title: "ACTIVEFENCE WINS “BEST AI-BASED SOLUTION FOR CYBERSECURITY” AT THE 2022 ARTIFICIAL INTELLIGENCE BREAKTHROUGH AWARDS"
+    excerpt: "The Award Honors the Company’s World-Class AI-Powered Proactive Content Detection Technology NEW YORK and TEL AVIV, Israel, June 23, 2022 /PRNewswire/ -- ActiveFence, a leading Trust & Safety tech platform that prevents online harm,"
+    publishedDateTime: 2022-06-23T12:31:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-b649f87505957b79f6acce6b4c9f7533"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Aizon Wins “Best AI-based Solution for Manufacturing” Award in 2022 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "SaaS provider that transforms pharmaceutical manufacturing operations, today announced that it has been named “Best AI-based Solution for Manufacturing” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-23T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-artificial-intelligence-pharmaceutical-manufacturing-2582c10a960c434f825f9fd5456b8fde"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Arize AI Recognized For MLOps Innovation in 2022 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Arize AI, the leader in machine learning (ML) observability and model performance monitoring, today announced that its Bias Tracing tool has been named \"MLOps Innovation of the Year\" in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-23T15:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/23/9627739.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "China’s AI applications see faster integration with real economy driven by ‘deep’ technological innovation: report"
+    excerpt: "Boosted by \"deep\" technological innovation and entrepreneurial activities, China's artificial intelligence (AI) industry has consolidated obvious incremental momentum in terms of scale growth and the comprehensive expansion of application fields and ..."
+    publishedDateTime: 2022-06-25T15:39:00Z
+    webUrl: "https://www.globaltimes.cn/page/202206/1269008.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 15
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-23/a10f06b5-e29c-4339-9dcc-8f67db527b08.jpeg"
         width: 1200
-        height: 630
+        height: 720
         isCached: true
-  - title: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution"
-    excerpt: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution. Integrating BioMech Lab™ into the SSS shoulder device delivers autom"
-    publishedDateTime: 2022-06-22T14:20:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/22/9626442.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 16
 
 secured: "6evsx/9Y7eAV3ZodxhloH774xh3NUfeZ6K30r0B4oJcruDIZUhC7fW5OxhAHtxIfYNnwYJCka3PLs8QeVRihWTkYgnakChg3ubU/cRDmHZo8NSt5K+smf/aEbBlPA3f8k1vUz3824w5ZI30fYpa37ZCfShzbhu54yjmADJTIdMVYKzpDOo8dwKiOfWjDWxT0l4jD32KCCgmuiVWGyz0FdytaJCRtq7BAIwJCRP3JgLEXnpZQL4As3iSeI3D0X3XIzJyOCsawEn0Pd2yhC07ijyceadbBEMsFLPL3aApPRH9xZxEjUo5xemzQlpot5nPnztmFJKKdVUol+QurbNSslmfWXQ+atmsOUdue7Aq9h3w=;WbxIUNpZb7IqllJYNFVNIA=="
 ---

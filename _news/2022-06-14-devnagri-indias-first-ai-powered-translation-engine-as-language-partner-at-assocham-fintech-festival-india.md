@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://static.theprint.in/wp-content/uploads/2022/06/anibs2022061405495820220614065826.jpg"

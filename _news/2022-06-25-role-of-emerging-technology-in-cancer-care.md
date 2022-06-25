@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-25T12:11:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-emerging-technology-in-cancer-care/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-emerging-technology-in-cancer-care/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: India Times

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T12:46:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-/2022/06/22/9626418.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-/2022/06/22/9626418.htm"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: TMCnet

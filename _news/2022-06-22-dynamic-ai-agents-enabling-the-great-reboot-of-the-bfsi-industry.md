@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-e
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial Intelligence in BFSI Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in BFSI Market (2022-2027) research report offers in-depth analysis on market size,"
+    publishedDateTime: 2022-06-24T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027-2022-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "x+3+8c8VyE7tAygcvjUUEwvJt9CtuVy/W43xi0AgBCIwGVCfGHffzbNkdh/+bXNCQ0X1xF3yv+aEcyBQfygRbmpU343yWodjGU8HojRigNExQamThkKVyPG0T2wcP96stN/QjgLJUS8fibDCXhOiws9haNYeHmRv722xTpO4gLJY3v43yE/DIwtqEOO/2tOOyKIZzM6C0ZNlWRZKZaoL4XGlHHlppFLR8yg0GgNFQQwCSt3ywDXzdfkiM7VZZqQTT3dedFP3S74KlhnhOIzsm9AIgYgxumwjkk2j8YexJsJ+ReOMhNLUKSrYoKAVwOdEISMKUYt5z9jk+ex4EhmRw5R82nwGlO9kGFJQZaBixEs=;Plj9kpnTkjmvFV1CaDXVAQ=="
 ---

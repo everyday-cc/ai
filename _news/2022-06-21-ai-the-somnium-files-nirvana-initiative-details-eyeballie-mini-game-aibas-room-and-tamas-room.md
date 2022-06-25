@@ -72,20 +72,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI: The Somnium Files – nirvanA Initiative Review"
-    excerpt: "AI: The Somnium Files - nirvanA Initiative brings another twisting and unpredictable murder mystery to the table."
-    publishedDateTime: 2022-06-20T20:47:00Z
-    webUrl: "https://cogconnected.com/review/ai-the-somnium-files-nirvana-initiative-review/"
-    type: article
-    provider:
-      name: COGconnected
-      domain: cogconnected.com
-    quality: 39
-    images:
-      - url: "https://cogconnected.com/wp-content/uploads/2021/07/AI-The-Somnium-Files-nirvanA-Initiative-Mizuki-crop.jpg"
-        width: 890
-        height: 520
-        isCached: true
   - title: "Review: AI: THE SOMNIUM FILES – nirvanA Initiative"
     excerpt: "Back in 2019 players were introduced to AI: The Somnium Files alongside a colorful cast of characters that ended up creating a memorable murder mystery. It felt like it could have stayed as a one ..."
     publishedDateTime: 2022-06-21T12:00:00Z

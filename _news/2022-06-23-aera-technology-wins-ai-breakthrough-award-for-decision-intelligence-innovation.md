@@ -77,6 +77,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Zesty.ai Named “Best Predictive Analytics Platform” in 2022 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Zesty.ai, the leading provider of property risk analytics powered by Artificial Intelligence (AI), today announced it has been selected as winner of the “Best Predictive Analytics Platform” award in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-23T15:35:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/wildfires-technology-north-america-artificial-intelligence-599bd3b88b143e6ed80bf44b1d99ce31"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "ACTIVEFENCE WINS “BEST AI-BASED SOLUTION FOR CYBERSECURITY” AT THE 2022 ARTIFICIAL INTELLIGENCE BREAKTHROUGH AWARDS"
     excerpt: "The Award Honors the Company’s World-Class AI-Powered Proactive Content Detection Technology NEW YORK and TEL AVIV, Israel, June 23, 2022 /PRNewswire/ -- ActiveFence, a leading Trust & Safety tech platform that prevents online harm,"
     publishedDateTime: 2022-06-23T12:31:00Z
@@ -114,6 +128,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "China’s AI applications see faster integration with real economy driven by ‘deep’ technological innovation: report"
+    excerpt: "Boosted by \"deep\" technological innovation and entrepreneurial activities, China's artificial intelligence (AI) industry has consolidated obvious incremental momentum in terms of scale growth and the comprehensive expansion of application fields and ..."
+    publishedDateTime: 2022-06-25T15:39:00Z
+    webUrl: "https://www.globaltimes.cn/page/202206/1269008.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 15
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-23/a10f06b5-e29c-4339-9dcc-8f67db527b08.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "1zwXYe42h/ZdMatWVJ81MmHDkFmoCO1pom67tl4XRyQ9WeA50jEv3QsqpchXgmE3ko9/Z1hfT4JtPChTHpjk6MhfzRLCiumgMBlaJwqUg2C2hfk0xhGh41OcRYfYf0NVkxvx8FEfj6bZaxrK9Z0bZeOh9D1zY+EuISSFCrv3yabx5aiASuMNzJew8KoWnNywBj0357XN4QXCgCPqFu1m7A+tdldNMYL67x62vWHC/JXCUiPhVSyFcSdCSUMn8O4C57cPEY0ih1CJYy/nOzfrin6pcMcQkWUqIP2xBGibFrmCyS3T/mNjQwRO158hsSMikKj2Av8vgDtLvE/ENVgO2dF5McrZG4THeqD5O38nKtI=;HgCNmVywIwdiMou6Vr8dTg=="
 ---

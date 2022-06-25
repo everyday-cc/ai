@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
-    excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising Technology CANNES, France, June 20, 2022 /PRNewswire/ --Today,leading companies committed to improving fairness in marketing campaigns."
-    publishedDateTime: 2022-06-20T21:52:00Z
-    webUrl: "https://www.malaysiasun.com/news/272592224/ibm-delta-air-lines-wpp-4a-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 14
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1655057948721.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program. The fifth annual awards program recognizes Skai's innovation in"
     publishedDateTime: 2022-06-23T14:00:00Z

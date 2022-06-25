@@ -75,6 +75,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
+  - title: "DoD Releases Responsible Artificial Intelligence Strategy and Implementation Pathway"
+    excerpt: "While the RAI’s objective is to restrict irresponsible and unethical use of AI, it is not meant to be a barrier to AI implementation."
+    publishedDateTime: 2022-06-25T15:54:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/dod-releases-responsible-artificial-intelligence-strategy-and-implementation-pathway/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 30
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/02/1000w_q95-6.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "BX1SoJgv56OFvPfLfN5C/HeLlCKax6waMgSez0vcx2QquGck1a0NoGFQ1EzMwBqF1p3Ka/IEFzKuy2eU8CTg+JftmPvLayghB46Fidp/BhqfwT5JsxHY79W6/VSx6sNSAV8VCS18eCKQim2xO8nxK4KIKnQLqMGWMLXkUDhmuTK43+jQss/0nzN8ybVQDkEwUInZDAMx+z96czX3bCnvGJrfLOlWQN0Its7d/V9Xdi4diiJ3TL00GC6hEfcqC/47PYnHQTN0MPP2LbZ4sIm6PKly+oD5D6ez9rqMmDcz4xQVXa1ayv7AKK0DkQR3d6LF01sALDzCoOeofpwOH2kstkE+NUM+bgpEoBlZkjSuUA0skmhTAxIW2AQwcYDj69rLL0ZzNAv+sv+c7QmeWK/7fwuAxqSV9TgNLjpkkrlF291EKIFad0duUp5JbkGGAGnjSF/DhRGVsNmpNlZw7479FC/AxqZoWIJ25ZDVvITs7nTVmQuq82FhpkBH0P7FYw9MzDnEKKzuIVBjx/XFYK/IQA==;Ev7JaQkV2HwyzybC05gT7g=="
 ---

@@ -52,22 +52,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Raleigh drivers hesitant to use self-driving cars"
-    excerpt: "Automakers assume drivers want as much technology as they can get in their vehicles, but the day of a robot driving us is still a long way away."
-    publishedDateTime: 2022-06-24T20:48:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 44
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/06/Steve-web.jpg?w=1280"
-        width: 671
-        height: 376
-        isCached: true
   - title: "Technology helps self-driving cars learn from own 'memories'"
     excerpt: "Researchers have developed a way to help autonomous vehicles create 'memories' of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
     publishedDateTime: 2022-06-22T15:27:00Z

@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial Intelligence in BFSI Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in BFSI Market (2022-2027) research report offers in-depth analysis on market size,"
+    publishedDateTime: 2022-06-24T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027-2022-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "UPEn1EHxkN++pvSP2jXlImsRT1hCTSpiloj91ZF8LTLK5fP4GjgknYGd2Z4UEVioFG5vg3wqItv+m5br4fKd1Vf3ojM1puFu7pKtPI/gJ0yc6wLO8f5K4+nwcQY/KxO1ordfbRFtJZaUMepvLR5IpRfvXYnE4gT1VCaIDOEfDRSFzEEeHpMLbyTl430FPgx/f33u5r5kYVSJdTP6EQyf0Vs7eTbw0Oqn2Zai9MpYH/ZdZiJeYUSRa/pAP2oR1ZU4S0wT/ZEBVs/h65l1aULZ6ODRM6pGdT29m5w+xdvUlyg3iM1tL6yMNFnotNGSxhg4jcSMBmgNGyyOUTCQHYEJRd4de6MKqDYz3I8YGouziGk=;Eb5ik2tYJumMyrh/acbDmw=="
 ---

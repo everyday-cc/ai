@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artifici
 cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
 type: article
 quality: 59
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: NewsNation
@@ -27,91 +27,88 @@ images:
     isCached: true
 
 related:
-  - title: "Sentient AI claims could be just a start"
-    excerpt: "The claim that intelligent computers could develop a mind of their own has long been rejected by those in the know as nothing but fictional. Stanley Kubrick's film, 2001 A Space Odyssey, portrayed such a scenario in 1958,"
-    publishedDateTime: 2022-06-23T06:30:00Z
-    webUrl: "https://english.mathrubhumi.com/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642"
-    ampWebUrl: "https://english.mathrubhumi.com/amp/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642"
-    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642"
+  - title: "Debate over AI sentience marks a watershed moment"
+    excerpt: "The debate over sentience in AI is evidence of not only how far AI systems have come, but also suggestive of where they are going."
+    publishedDateTime: 2022-06-25T13:40:00Z
+    webUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/"
+    ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
     type: article
     provider:
-      name: Mathrubhumi
-      domain: mathrubhumi.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all"
+        width: 800
+        height: 399
+        isCached: true
+  - title: "How Close Is AI to Becoming Sentient?"
+    excerpt: "Sounds great to me, I’m in. Lemoine: A monk asked Kegon, “How does an enlightened one return to the ordinary world?” Kegon replied, “A broken mirror never reflects again; fallen flowers never go back to the old branches."
+    publishedDateTime: 2022-06-23T17:39:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 57
     images:
-      - url: "https://english.mathrubhumi.com/image/contentid/policy:1.7629660:1655966869/google.jpg?$p=2230905&f=16x9&w=1080&q=0.8"
-        width: 1080
-        height: 608
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/5cf20d7/2147483647/strip/true/crop/366x512+0+0/resize/366x512!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F16%2F7687441d4ce0a3b2820b9b0b02e5%2Feric-holdeman-senior-fellow.jpg"
+        width: 366
+        height: 512
         isCached: true
-  - title: "A Google engineer says AI has become sentient. What does that actually mean?"
-    excerpt: "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth."
-    publishedDateTime: 2022-06-24T08:00:00Z
-    webUrl: "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6498068"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068"
+  - title: "Suspended Google engineer claims ‘sentient’ AI bot has hired a lawyer"
+    excerpt: "The Google engineer who was placed on administrative leave after claiming that one of the company’s artificial intelligence bots was “sentient” says that the AI bot known as"
+    publishedDateTime: 2022-06-24T17:32:00Z
+    webUrl: "https://nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/"
+    ampWebUrl: "https://nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/amp/"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 56
+      name: New York Post
+      domain: nypost.com
+    quality: 57
     images:
-      - url: "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG"
-        width: 620
-        height: 349
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/blake-lemoine-google-engineer-ai-bot-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "LaMDA: The chatbot that a Google engineer says has become sentient"
-    excerpt: "Google engineer Blake Lemoine said that the AI chatbot LaMDA has become sentient. He was sent on paid administrative leave."
-    publishedDateTime: 2022-06-23T04:30:00Z
-    webUrl: "https://www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/"
-    ampWebUrl: "https://www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/amp/"
-    cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/amp/"
+  - title: "Stop debating whether AI is ‘sentient’ — the question is if we can trust it"
+    excerpt: "A more practical question is, how “compatible” are current neural networks with the human mind, and how far can we trust them?"
+    publishedDateTime: 2022-06-25T13:00:00Z
+    webUrl: "https://thenextweb.com/news/stop-debating-whether-ai-is-sentient-trust"
     type: article
     provider:
-      name: Prestige Online
-      domain: prestigeonline.com
-    quality: 44
-    images:
-      - url: "https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/06/17162036/pexels-tara-winstead-8386440-2.jpeg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "Google sidelines engineer who claims Its AI is sentient"
-    excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company's most advanced technology. Blake Lemoine,"
-    publishedDateTime: 2022-06-21T05:13:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2022/jun/20/google-sidelines-engineer-who-claims-its-ai-is/"
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 45
+  - title: "Comment: Never mind if it’s sentient, AI’s still concerning"
+    excerpt: "Even so, AI’s influence on our daily life is growing. As machine-learning models grow in complexity and improve their ability to mimic sentience, they are also becoming more difficult, even for their creators,"
+    publishedDateTime: 2022-06-21T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-never-mind-if-its-sentient-ais-still-concerning/"
     type: article
     provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
+      name: HeraldNet
+      domain: heraldnet.com
     quality: 39
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201668885_google-bg-5dae7724-f9e9-11eb-943a-c5cf30d50e6a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 398
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Sentient? Google LaMDA feels like a typical chatbot"
-    excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document in which he urged Google to consider that one of its deep learning AI programs, LaMDA, might be \"sentient.\" Google replied by officially denying the likelihood of sentience in the program,"
-    publishedDateTime: 2022-06-21T16:54:00Z
-    webUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+  - title: "What if an Artificial Intelligence program actually becomes sentient?"
+    excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+    publishedDateTime: 2022-06-21T09:12:00Z
+    webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    ampWebUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-publicradiotulsa-org.cdn.ampproject.org/c/s/www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
-  - title: "AI Is Not Sentient Yet. But That Doesn’t Mean It’s Not Useful in the Enterprise"
-    excerpt: "Have large language models finally crossed the chasm and become self-aware? A Google researcher recently shocked the world by declaring that Google’s"
-    publishedDateTime: 2022-06-20T19:59:00Z
-    webUrl: "https://www.datanami.com/2022/06/20/ai-is-not-sentient-yet-but-that-doesnt-mean-its-not-useful-in-the-enterprise/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 33
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/sentient_AI_shutterstock_agsandrew.jpg"
-        width: 1000
-        height: 750
-        isCached: true
+      name: Public Radio Tulsa
+      domain: publicradiotulsa.org
+    quality: 39
 
 secured: "rm4eitRNL9UfLHCn+O3Eozi+tlApArcN03LVfiB+qpWQxOgfv/dlv4kvb2japATBHfUoNF0+wj9+5tj4tzaxkoT2zXh8AOhj6jnxsSeUnQJcIvw+Qfb8sZ76jlVNF7y7F9Nc2LtoReiVcoed+jTIAu4bc7PyO1i70ubWAVdkmTYNj5PJCGuHEbn1s6opARAod7GSrVPOghnqJEGfC4IgAC3Dgm56VZZ0KszFm2Yukcr17QHqsOAxFtM3RFhwErPb/2GJ2ed4k1ePYZR1UlwIivadSGWQeyn+PyS0+b5YaUMeimWPxqtMOYSpE/UMiGuxyi1p2lYadw52AyjauEYNN4eEJSkkye9R1F/zqoW2nZw8mCffc6kQkSk9tsKYtuL9pNe+5+gpk/oeUvKqI2QTfPPrxOxXmd/chCJz8LFxOgeFxUb+9vjg5bmb7RG1Nm2hKcqjwW/kp2HjSAHutrpz8KNZAvJCKR20adl+zDj3Wj4yvdEza/M/w4kkjUJhSL+WbpKNcNAQBv8v6b7TpJxEMg==;NLM8GccMjecyval22PebKw=="
 ---

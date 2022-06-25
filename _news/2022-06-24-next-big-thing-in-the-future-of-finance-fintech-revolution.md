@@ -52,22 +52,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
-  - title: "Learning new ways of working from the UK’s soaring fintech sector"
-    excerpt: "By Stuart Templeton, Head of UK at Slack From the rapid rise of the cashless society to instant in-app bill splitting, the world of banking has transformed at pace over the past decade. The sparks that lit this revolution were non-traditional fintech services and challenger banks,"
-    publishedDateTime: 2022-06-20T21:52:00Z
-    webUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/learning-new-ways-of-working-from-the-uks-soaring-fintech-sector/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/06/iStock-533698836.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "What industry-driven fintech skills are a need of the hour for aspirants"
     excerpt: "FinTech is a phenomenon that has been speeding the pace of change at a remarkable rate and redefining the industry’s status quo at the convergence of business and innovation. It’s hard to envision a"
     publishedDateTime: 2022-06-23T10:12:00Z

@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-25-if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.md",
+      "title": "If we’re ever going to accepting driverless cars, a trusted brand matters",
+      "excerpt": "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
+      "originalUrl": "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/autos/opinion/2022/06/13/racing-roundup-max-verstappen-wins-as-does-josef-newgarden/_benyoung.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
+      "publishedDateTime": "2022-06-25T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-debate-over-ai-sentience-marks-a-watershed-moment.md",
+      "title": "Debate over AI sentience marks a watershed moment",
+      "excerpt": "The debate over sentience in AI is evidence of not only how far AI systems have come, but also suggestive of where they are going.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/",
+      "originalUrl": "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all",
+          "width": 800,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/",
+      "publishedDateTime": "2022-06-25T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Purchased by Flagship Harbor Advisors LLC",
       "excerpt": "Flagship Harbor Advisors LLC raised its holdings in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% in the first quarter, according to the company in its most recent filing with the Securities ...",
@@ -608,49 +704,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-24-google-engineer-says-artificial-intelligence-program-is-sentient.md",
-      "title": "Google engineer says artificial intelligence program is sentient",
-      "excerpt": "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/",
-      "originalUrl": "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280",
-          "width": 509,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/",
-      "cdnAmpWebUrl": "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/",
-      "publishedDateTime": "2022-06-24T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsNation",
-        "domain": "newsnationnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-24-ai-writing-assistants-are-they-worth-using-in-2022.md",
       "title": "AI Writing Assistants: Are They Worth Using In 2022?",
       "excerpt": "AI assistants can assist copywriters by providing writing prompts, offering suggestions, identifying trends and checking for plagiarism.",
@@ -793,6 +846,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-a-google-engineer-says-ai-has-become-sentient-what-does-that-actually-mean.md",
+      "title": "A Google engineer says AI has become sentient. What does that actually mean?",
+      "excerpt": "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068",
+      "originalUrl": "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6498068",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068",
+      "publishedDateTime": "2022-06-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -970,6 +1066,57 @@
       ]
     },
     {
+      "path": "_news/2022-06-24-what-happens-if-we-put-a-sentient-ai-inside-of-a-lab-grown-brain.md",
+      "title": "What happens if we put a ‘sentient’ AI inside of a lab-grown brain?",
+      "excerpt": "At the intersection of synthetic organs, artificial general intelligence, and brain-computer-interfaces lies the future. Let's take a peek!",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/what-happens-if-we-put-sentient-ai-inside-of-a-lab-grown-brain",
+      "originalUrl": "https://thenextweb.com/news/what-happens-if-we-put-sentient-ai-inside-of-a-lab-grown-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fbirdbrain.jpg&signature=cf04805fb464744027e21949538c2d03",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-robustai-announces-new-grace-software-suite.md",
       "title": "Robust.AI announces new Grace software suite",
       "excerpt": "Robust.AI announced the release of a new autonomous mobile robot software suite called Grace. The software is named in honor of Grace Hopper, who was the first person to devise the theory of machine-independent programming languages,",
@@ -1045,152 +1192,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training.md",
-      "title": "Amazon launches Ground Truth Synthetics to create virtual objects for AI model training",
-      "excerpt": "It takes massive amounts of data to train AI models. But sometimes, that data simply isn’t available from real-world sources, so data scientists use synthetic data to make up for that. In machine vision applications,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/23/amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training/",
-      "originalUrl": "https://techcrunch.com/2022/06/23/amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/IMG_7753.jpg",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/23/amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/23/amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training/amp/",
-      "publishedDateTime": "2022-06-23T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
-      "title": "Predict types of machine failures with no-code machine learning using Amazon SageMaker Canvas",
-      "excerpt": "Predicting common machine failure types is critical in manufacturing industries. Given a set of characteristics of a product that is tied to a given type of failure, you can develop a model that can predict the failure type when you feed those attributes to a machine learning (ML) model. ML can help",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/23/predict-machine-failures.jpg",
-          "width": 1237,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T09:02:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-russias-yandex-opens-public-access-to-ai-large-language-model.md",
-      "title": "Russia's Yandex Opens Public Access to AI Large Language Model",
-      "excerpt": "Russian technology company Yandex said on Thursday it had made a large language model for artificial intelligence research open to the public, hoping to spawn faster and deeper development of certain AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
-      "publishedDateTime": "2022-06-23T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

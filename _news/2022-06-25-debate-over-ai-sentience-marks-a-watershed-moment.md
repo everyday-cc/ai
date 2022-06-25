@@ -5,7 +5,12 @@ excerpt: "The debate over sentience in AI is evidence of not only how far AI sys
 publishedDateTime: 2022-06-25T13:40:00Z
 originalUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/"
 webUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/"
+ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
 type: article
+quality: 91
+heat: 151
+published: true
 
 provider:
   name: VentureBeat
@@ -18,7 +23,98 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Natural Language Processing
 
-secured: "julQw1haqD4gNRNgHQg1XER057RpeuwC3kQ6niMNerK/6L3jspX1cErgNtRWxS2VzIhjgmmyE7vY2DK6EOHF6dZN2qRqvtXZxtjcNp+lbQ0gL/OSHKFlqwTUYq6SXeNh20YLpUirH1cv6ytkLsN90CyWsRaFA9nFJNCXyuwyqs9wKZZaTm2WcS2kIo4twI2AiicKMe5vyfSEBPgscBLp5/CbyMRbubdUA9HJd6BeGQPGk1g7fXgkHCUNQa1iEkRT9Q8rXkDmj6SZzycMlCohZTf0khYljs88DgWVZc0m5+4KBz8F002wzo8PVFa2YNiquEOXiRIN9TCS/EdnBfbDhYwiUrPy+Q+zauWYscv8tG5Kah/szJeByiME884U/jKBLwIPBZdVxgJs35hogGqBJ94EMhLoZm3Sk5N2bhBiiMHOfAnGCg/lewWczIvUn1KZ+u8fGPOuJ4SqdOxFzwakc3aw5mZfJ5glFqaU/EyO3AkuHKR4bNv4w0wA4l/ZH7FA4cm1MOq8DB43xgoFuaV5/g==;kcgz45iCR8OieMRWkIMJWQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all"
+    width: 800
+    height: 399
+    isCached: true
+
+related:
+  - title: "Google engineer says artificial intelligence program is sentient"
+    excerpt: "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself."
+    publishedDateTime: 2022-06-24T12:09:00Z
+    webUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
+    ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
+    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
+    type: article
+    provider:
+      name: NewsNation
+      domain: newsnationnow.com
+    quality: 59
+    images:
+      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
+        width: 509
+        height: 339
+        isCached: true
+  - title: "How Close Is AI to Becoming Sentient?"
+    excerpt: "Sounds great to me, I’m in. Lemoine: A monk asked Kegon, “How does an enlightened one return to the ordinary world?” Kegon replied, “A broken mirror never reflects again; fallen flowers never go back to the old branches."
+    publishedDateTime: 2022-06-23T17:39:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/5cf20d7/2147483647/strip/true/crop/366x512+0+0/resize/366x512!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F16%2F7687441d4ce0a3b2820b9b0b02e5%2Feric-holdeman-senior-fellow.jpg"
+        width: 366
+        height: 512
+        isCached: true
+  - title: "Suspended Google engineer claims ‘sentient’ AI bot has hired a lawyer"
+    excerpt: "The Google engineer who was placed on administrative leave after claiming that one of the company’s artificial intelligence bots was “sentient” says that the AI bot known as"
+    publishedDateTime: 2022-06-24T17:32:00Z
+    webUrl: "https://nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/"
+    ampWebUrl: "https://nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/blake-lemoine-google-engineer-ai-bot-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Stop debating whether AI is ‘sentient’ — the question is if we can trust it"
+    excerpt: "A more practical question is, how “compatible” are current neural networks with the human mind, and how far can we trust them?"
+    publishedDateTime: 2022-06-25T13:00:00Z
+    webUrl: "https://thenextweb.com/news/stop-debating-whether-ai-is-sentient-trust"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 45
+  - title: "Comment: Never mind if it’s sentient, AI’s still concerning"
+    excerpt: "Even so, AI’s influence on our daily life is growing. As machine-learning models grow in complexity and improve their ability to mimic sentience, they are also becoming more difficult, even for their creators,"
+    publishedDateTime: 2022-06-21T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-never-mind-if-its-sentient-ais-still-concerning/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "What if an Artificial Intelligence program actually becomes sentient?"
+    excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
+    publishedDateTime: 2022-06-21T09:12:00Z
+    webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
+    ampWebUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    cdnAmpWebUrl: "https://www-publicradiotulsa-org.cdn.ampproject.org/c/s/www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
+    type: article
+    provider:
+      name: Public Radio Tulsa
+      domain: publicradiotulsa.org
+    quality: 39
+
+secured: "r7GdfHaep8Shisxe2fvkoSDHSdaW43TuttgYrC9MitlnTmKwxI1FnJxAspzcJoIUlANhhL6B3RGu/KsdlW5ILBjJlxVP6RPdpvY8IBosJNZH8EUnsl2jAENLvu0zfHPKmx1Fb+DGapA+Cd5p20mZJG8HGy8ko/0LFOVHO9kQyBFGvOkd854NBXnAxnoQVW8WoKxzPfsbDZnzxnMgnM8D4oZ0P9zqeC8TnRI4M+s9kvJqimDxfsSBcX59/QMTbEbuX1nQAc3lzScbniua5WVj1C7WtzUsiY4dH/spSWLNN4QybuOynSeaXkTjMoxk5RLb52PaJJH4JADAsCl2hMegNafiNiWZHCct2hyJtSu4GGg=;VRezMTfMopA5/YKcuyvjsw=="
 ---
 

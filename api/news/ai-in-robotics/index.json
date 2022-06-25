@@ -866,24 +866,33 @@
     {
       "path": "_news/2022-06-17-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
       "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
-      "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
+      "excerpt": "Ai-DA Robot has painted portraits of this year’s Glastonbury headliners using AI technology (Shangri-La/PA) To start, Ai-Da Robot uses cameras in its eyes and its computer memory, before using a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html",
-      "originalUrl": "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html",
+      "webUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "originalUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/06/17/00/16193841-8b53a400-1035-4ce2-acfc-f70bd059404f.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T16:13:00-07:00",
+      "ampWebUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "publishedDateTime": "2022-06-16T16:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL.co.uk",
-        "domain": "aol.co.uk",
+        "name": "The Independent",
+        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

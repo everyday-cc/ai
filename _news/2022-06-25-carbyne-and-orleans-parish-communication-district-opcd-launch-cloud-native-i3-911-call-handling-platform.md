@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Carbyne and Orleans Parish Communication District (OPCD) Launch Cloud-Native i3 911 Call Handling Platform"
-excerpt: "Launch Cloud-Native i3 911 Call Handling Platform. Carbyne APEX enables OPCD to reduce dependence on brick-and-mortar buil"
-publishedDateTime: 2022-06-24T23:53:00Z
-originalUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-carbyne-orleans-parish-communication-district-opcd-launch-cloud-/2022/06/24/9628387.htm"
-webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-carbyne-orleans-parish-communication-district-opcd-launch-cloud-/2022/06/24/9628387.htm"
+excerpt: "Carbyne APEX enables OPCD to reduce dependence on brick-and-mortar building infrastructure by introducing remote NG9-1-1 call handling, improving"
+publishedDateTime: 2022-06-24T22:50:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/carbyne-and-orleans-parish-communication-district-opcd-launch-cloud-native-i3-911-call-handling-platform-1031549823"
+webUrl: "https://markets.businessinsider.com/news/stocks/carbyne-and-orleans-parish-communication-district-opcd-launch-cloud-native-i3-911-call-handling-platform-1031549823"
 type: article
-quality: 6
-heat: 6
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg"
-    width: 336
-    height: 280
-    isCached: true
-
-secured: "IdIpsow6VBJyg3S+3mLWZS8kTXpcjQqilxRtapqdbGyoJ7oerNSK2r1iOo57IOQh3UQtesA/qDp1c1FDdP4lhMW83wHLaMKomQ/oKnUJeWn3t8uVzEXamS946i6INsT3yNXnyBxTpI/sqcveKb3XGJVQq4vvU2Z0+NF0d7wNbu/Osb4Q7pFOdhxyroLkSss3ze5LaTpRP82NX+CoiTLFvk/DpkU9WNx52USpQSiR3XaFUwygklSGyrRiLNjxJvofjuU9K96Ow99vX2KiW+y87YPOfDw+p28XSgerZcpLnvVO2T/pl8X4Nlb/QHynSTY2BFx9h06kawAjpJQ4MlV8fmOp91hJ/T4giJMkwagcU0w=;Pr1fu7X2CqxiQeGZ6bGGuw=="
+secured: "Qzt8O8WbmGqZQihJsI0SY6V2QAVysk/zq1vgwVNPuBoA8fS61FtqwzpB5DcWbusvhh0A5WklDDoDPWAnUccxPvlMJWEbaudHFTVInXG6T84a/N9lpnynzH8iNBZtAKX6rXWjdbIm5u6hgZ4dmY5S9eY3p9KXjJHaTSu+AQ/O7TeW8vGtvYM8jIO6uIaz82xBGWOzfnoseGQsV1Bc8TfWmB+6ch4WVOQVjpIiJtZsc/LXU7qjSRed/+oTWcYnHSd3J4FIZRQK5pbLfCnrfpmOuEv8eY/aIt/fTCaAWYpNZatWm2yTM6eLIK9fWZXaNeYDecMhmFvmSg7kcvUoJTDOUi7RERX2TxuTLye6oWMd/ec=;qlP0qeZF2irfcySLdWC3lQ=="
 ---
 

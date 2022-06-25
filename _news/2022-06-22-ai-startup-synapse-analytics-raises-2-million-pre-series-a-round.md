@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Learning Analytics And AI Best Practices From Fractal"
-    excerpt: "Analytics and AI groups within companies can learn best practices for working with their own internal clients from companies like Fractal Analytics."
-    publishedDateTime: 2022-06-20T21:12:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62b0e1fd2738373c85cbe185/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 782
-        isCached: true
   - title: "Consumer Biotechnology AI Startup Watz Raises $2M To Provide Deeper, Personalized Analytics From Your Wearables"
     excerpt: "The lack of deep, holistic analytics of data from wearables limits the applications and personalization of health recommendations for the multi-billion dollar consumer health wearable device industry."
     publishedDateTime: 2022-06-22T14:38:00Z
@@ -71,43 +55,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Zesty.ai Named “Best Predictive Analytics Platform” in 2022 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Zesty.ai, the leading provider of property risk analytics powered by Artificial Intelligence (AI), today announced it has been selected as winner of the “Best Predictive Analytics Platform” award in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-06-23T15:35:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/wildfires-technology-north-america-artificial-intelligence-599bd3b88b143e6ed80bf44b1d99ce31"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
-    publishedDateTime: 2022-06-21T12:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution"
-    excerpt: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution. Integrating BioMech Lab™ into the SSS shoulder device delivers autom"
-    publishedDateTime: 2022-06-22T14:20:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/22/9626442.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 16
 
 secured: "RN0GAeqrZGnkqQ+ttBgYnsTVgg1f4EGvN97oGLNS82k+tJSGxY62FNBPZTGy5METmRvMLjew159nkKCbbp8Lu6xxf4gA3NMqm/g/EdgHe40jKoP6yx89d72HaXP1lbB2t8gLtXf2d4i3lKPD80JWWlODgMLqgEOe6UwuHOmt6wtKFVJYALGES5BcGRihzExivWzDdrjMLLzUaVk2v0rUzjsL4KRp0/DRZCMY+VwlHkmUGeln5upZCSYC9WAmOjEfUbbJmUxVCv/9dhWnltNu8ygNSP6FUOib5jZHnPIPCQrHmwp+gVoqQNkNHa6VzwrB4/fBtD7p0SHuwnB4DeY9YzIyWzhgn6JC4cTnvhOf6eymKSK6mMiLqG2kSH2r4E9sVa/yc/rN7bnBIrpSGQLZjH8KgLavruKkPovMn3WPehol18Re/Sv3+tRLAqs5Oyq2Y5SiYIzDNIequc545bCb9HkdWnrFYNjKDH2yo2QNzXvr6cYyhIyFghA6l+0rtQdRU8T0ZjMTDaobOGI4wcFSAw==;IM076ZNZfUhAxjaIpJC6xA=="
 ---

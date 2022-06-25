@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
+    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
+    publishedDateTime: 2022-06-25T14:27:00Z
+    webUrl: "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
+    ampWebUrl: "https://www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 58
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/autos/opinion/2022/06/13/racing-roundup-max-verstappen-wins-as-does-josef-newgarden/_benyoung.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Why does London Underground not have driverless trains yet?"
     excerpt: "Driverless trains on the London Underground are in the news again. With union strikes threatening to make traveling in the capital a nightmare this week, it was only a matter of time before the question of axing drivers in favour of automation would pop up again."
     publishedDateTime: 2022-06-21T08:34:00Z

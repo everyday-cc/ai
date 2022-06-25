@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
 type: article
 quality: 116
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
+  - title: "DoD Releases Responsible Artificial Intelligence Strategy and Implementation Pathway"
+    excerpt: "While the RAI’s objective is to restrict irresponsible and unethical use of AI, it is not meant to be a barrier to AI implementation."
+    publishedDateTime: 2022-06-25T15:54:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/dod-releases-responsible-artificial-intelligence-strategy-and-implementation-pathway/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 30
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/02/1000w_q95-6.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
     excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
     publishedDateTime: 2022-06-24T18:09:00Z

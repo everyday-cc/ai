@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biote
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/06/22/consumer-biotechnology-ai-startup-watz-raises-2m-to-provide-deeper-personalized-analytics-from-your-wearables/amp/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Learning Analytics And AI Best Practices From Fractal"
-    excerpt: "Analytics and AI groups within companies can learn best practices for working with their own internal clients from companies like Fractal Analytics."
-    publishedDateTime: 2022-06-20T21:12:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62b0e1fd2738373c85cbe185/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 782
-        isCached: true
   - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
     excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
     publishedDateTime: 2022-06-21T11:37:00Z
@@ -74,43 +58,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Zesty.ai Named “Best Predictive Analytics Platform” in 2022 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Zesty.ai, the leading provider of property risk analytics powered by Artificial Intelligence (AI), today announced it has been selected as winner of the “Best Predictive Analytics Platform” award in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-06-23T15:35:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/wildfires-technology-north-america-artificial-intelligence-599bd3b88b143e6ed80bf44b1d99ce31"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Clinical research and drug development accelerated via analytics"
-    excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
-    publishedDateTime: 2022-06-21T12:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution"
-    excerpt: "BioMech, elizur Announce Partnership Integrating AI-enabled Motion Analytics into Physical Therapy Solution. Integrating BioMech Lab™ into the SSS shoulder device delivers autom"
-    publishedDateTime: 2022-06-22T14:20:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/22/9626442.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 16
 
 secured: "GgIW5uLrTV7ap8uMFytvy6uJ1iBBA3k7D3oHeO7lGa+KxHyoN2SqPGmlZ1FqPTS663eRkoynzh2gdAz3p6GqwwxxHKC/yEXDm3LD5LRqXi7enYtjQFYXPUX/5b2xQjh3vXCEaisH+UUnkUjTpTx7u0Hy21v0CvoGUTtzXT0aauq4cUv1SED4sfokd35R6TsM8O+zZkId71SulHCVp6/0IdEu7odP6Nz+ADGTkbD2IMLtjwmFEnhNCVNgL7wRNVxkkbtS/DR5rDo/TGLyl8pfb87egrP5k0lFCmAL4r3ZXiEzjF7sSmXEmv6AHtVxOhMDbUDPOQRmrHfE3iYTzmUH4c5WJfkK1gX+SO63y5vvNbloDVUmxFt2M89dxwsgUWrc1HNR1qiT5Zrz5hifbfTxYix94SZkYOX8EGz22BLSAtTD0FsxfcPDtc81rBs47gKN+vlIzL81ICIL2yzzHhZHObnBbWjrXcf1Uw0U+n4tMncvvnoGu/Lb/mRriv8MHRJjRDoJ00idTWjTtHx4kY2TgQ==;4nLUuuqYGhulsRf5uZGhaQ=="
 ---
