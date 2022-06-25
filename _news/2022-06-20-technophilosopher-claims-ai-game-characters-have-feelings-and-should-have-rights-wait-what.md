@@ -7,7 +7,7 @@ originalUrl: "https://hothardware.com/news/technophilosopher-claims-ai-game-char
 webUrl: "https://hothardware.com/news/technophilosopher-claims-ai-game-characters-have-feelings-and-should-have-rights-wait-what"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 708
     height: 398
     isCached: true
-
-related:
-  - title: "Of course AI NPCs 'can be conscious and can have feelings' says technophilosopher"
-    excerpt: "If you simulate a human brain in silicon, you'll get a conscious being like us. So to me, that suggests that these beings deserve rights.. To try and get a handle o"
-    publishedDateTime: 2022-06-20T10:44:00Z
-    webUrl: "https://www.pcgamer.com/of-course-ai-npcs-can-be-conscious-and-can-have-feelings-says-technophilosopher/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 32
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hSYghhXgHZVUHJeYKnCtxF-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "BUOmm2rrQ6VpGqAR0j+l1rSd4m6N4OKjA7N9JHT8t2Maj0mStyjvl/MrwonSzQpkHI0esj5zZ/LaHQPekc5phIbFWgPhJ0o2Ebc/bbCPcAb/AURFXi2zXIoPr+7nK74ZkMvsba6rCr8pzHIbWrJrA+8k3/TX5uGdtOQzbu+J/bYz6K2PnsBXDJWs6JHbYbbOsJJxefiSuYed5GjLegmYdOFcVg8vu1/RAz+Qp4w7eBvyEjgUqVGwqpGy0WoXgHN70ZEnwae5MVx9x9HHa3V1XgUJ+RsK/HitFgjc2xcEf6+uE10tsiF6+6vsixmoVkaInmBuYRmwr3lQsWf/Oi8nu0PQnvgI4sO+x8Mp1YuIlOyjWu6Lp03jb0GYuk7izUDcxl6AyKdh3AxYlmRp3npIb1Apv/hL3oPJOaH8y2eLoQ1zW50l/FhvS/l8Izhrddy9LGnozfcmdg36Ok69BJEiPbnlt5Py+zhWUa4xDDOi3xZU/4Ntyj1XTdpGO9nSrcr3BQFaraf7wBQ8gxVT5n2Xaw==;5yPr74B8gjO2GpaDLdlv/w=="
 ---

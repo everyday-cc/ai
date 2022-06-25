@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-06-21-how-data-driven-banking-can-transform-the-financial-landscape.md",
-      "title": "How Data-Driven Banking Can Transform The Financial Landscape",
-      "excerpt": "While online banking has made customers expect top-notch services at hand regardless of time and location, embedded finance and open banking have set the bar even higher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62aca33eb79511f4160ae0ff/0x0.jpg?format=jpg&width=1200",
-          "width": 867,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/amp/",
-      "publishedDateTime": "2022-06-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-21-using-artificial-intelligence-to-improve-business-decisions.md",
       "title": "Using Artificial Intelligence To Improve Business Decisions",
       "excerpt": "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention.",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -648,7 +596,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1214,6 +1162,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-ais-hold-over-humans-is-getting-stronger.md",
+      "title": "AI’s hold over humans is getting stronger",
+      "excerpt": "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
+      "originalUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/06/Google_AP_1.jpeg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
+      "publishedDateTime": "2022-06-19T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

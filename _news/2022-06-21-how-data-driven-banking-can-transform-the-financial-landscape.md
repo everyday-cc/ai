@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-da
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/21/how-data-driven-banking-can-transform-the-financial-landscape/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "Quantum banking: The next leap in financial services"
-    excerpt: "Quantum computers are supposed to be much faster and more powerful than current supercomputers, and as such, their application could have a profound impact on any industry. As banks begin to embrace quantum computing,"
-    publishedDateTime: 2022-06-20T10:49:00Z
-    webUrl: "https://www.euromoney.com/article/2a8fb2jukdh3ae709zojl/sponsored-content/quantum-banking-the-next-leap-in-financial-services"
-    type: article
-    provider:
-      name: Euromoney
-      domain: euromoney.com
-    quality: 39
-    images:
-      - url: "https://assets.euromoneydigital.com/dims4/default/2cca30e/2147483647/strip/true/crop/4200x2205+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2F49%2Fc6%2F2e8c40e9412c832707bbd843137d%2Fquantum-comp-chip.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DnpJVBC2czjV3zDIposKX0NCbc3IFrANDLRUn2WW5iCLj1v0FomrxvAIb4TwGywlwKrH2e90FfOrP0bqhP0G87n1FkXV7224qhR16xmpf/lDYpuc10efLgssir3eK8jln69sk3S+Mc6XHP8fbnqmx3MOV/vJdpt35VCMBv9549EPJWM9NEIgcpC6qsxwskLwQ6tQxCZeKUu5MWs4qa+s3t2qynj4uFn+YoqHG3T5pHrehmJzW2UbOuKRjFBM4icnJUsK4wRVf2hRtbYcWlJF8jIcYasb4N1BuFo8FS/wvn/hgrh3Uzyj28WxTPwidrNwN2Wzf452VOJZf5rRT3oKVJv/m8Zx2CNIdN0Vmn/0m0HCWct6Zj5cCKDosIdPdvxmpyv12xsjCwww102LU5UPAEBqrWBVSMrKnLO6tmdZlX6/bb+0O0ecgS3FIE0uttyIrNRzOZuyCoCbzqe8ZfPMpB5JhZvJeubmceVmvd3/ipGpokwlbUbtP0Mgd114GM0RaUIRNgJt3jdeXemO2NxCXA==;hiWa6Fgc6oVPZxfCHtnnzw=="
 ---

@@ -65,20 +65,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Ukraine using AI to track saboteurs"
-    excerpt: "Checking for Sara Connorski Artificial intelligence has become one of Ukraine's most \"effective tools\" in identifying potential saboteurs amid the ongoing war with Russia, according to the Ukrainian Ministry of Internal Affairs."
-    publishedDateTime: 2022-06-20T09:57:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55014-ukraine-using-ai-to-track-saboteurs"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/1c39fb9022cbb4f20af04c4f04e29c92_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
     excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"
     publishedDateTime: 2022-06-23T06:30:00Z

@@ -38,17 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "Autonomous / Self-Driving Cars Market - Global Forecast to 2030"
-    excerpt: "Chicago, June 20, 2022 (GLOBE NEWSWIRE) -- According to the new market research report \"Autonomous / Self-driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1 ..."
-    publishedDateTime: 2022-06-20T10:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27782278/autonomous-self-driving-cars-market-global-forecast-to-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27782278"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27782278"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "Augmented Intelligence Market Size Future Scope, Demands and Projected Industry Growths to 2027"
     excerpt: "Market Study Report has added a new report on Augmented Intelligence market that provides a comprehensive review"
     publishedDateTime: 2022-06-22T11:00:00Z

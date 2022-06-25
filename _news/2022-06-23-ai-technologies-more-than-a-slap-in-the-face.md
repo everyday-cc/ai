@@ -7,7 +7,7 @@ originalUrl: "https://www.businessweekly.co.uk/news/legal/ai-technologies-–-mo
 webUrl: "https://www.businessweekly.co.uk/news/legal/ai-technologies-–-more-slap-face"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The robots and AI technologies advancing South African health care"
-    excerpt: "South African researchers and surgeons are using artificial intelligence and robotics to enhance healthcare in the country, BBC News reports. The improvements include a video-call robot that ..."
-    publishedDateTime: 2022-06-20T09:39:00Z
-    webUrl: "https://mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html"
-    ampWebUrl: "https://mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "Bridging the knowledge gap on AI and machine-learning technologies"
     excerpt: "Medical physicists explored a range of education and training scenarios for AI and machine learning at last month’s ESTRO Annual Congress"
     publishedDateTime: 2022-06-22T13:00:00Z

@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI: The Somnium Files – Nirvana Initiative — How to solve the Mizuki chapter 2 park puzzle"
+    excerpt: "The Somnium Files – nirvanA Initiative has another rough puzzle to throw your way. Once Mizuki finds a familiar corpse in the park, you’"
+    publishedDateTime: 2022-06-24T22:46:00Z
+    webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/"
+    ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 47
+    images:
+      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220618205430_1-Copy.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative Review – Detecting Excellence"
     excerpt: "Image Source: Spike Chunsoft Six years ago, ABIS (Advanced Brain Investigation Squad) detective Ryuki and his AI partner Tama were assigned to the so-called HB (Half Body) case. At present ..."
     publishedDateTime: 2022-06-20T17:01:00Z

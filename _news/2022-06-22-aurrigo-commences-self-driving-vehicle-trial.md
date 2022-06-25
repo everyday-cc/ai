@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How BMW's intelligent factory uses self-driving vehicles to automate logistics"
-    excerpt: "BMW Group, in partnership with the Technical University of Munich (TUM) and other companies is exploring how self-driving logistics vehicles can be used in a production setting at its component plant in Landshut in Lower Bavaria."
-    publishedDateTime: 2022-06-20T09:49:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics-41655714976539.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics/amp-41655714976539.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/how-bmw-s-intelligent-factory-uses-self-driving-vehicles-to-automate-logistics/amp-41655714976539.html"
+  - title: "In the race for self-driving vehicles, semitrucks are pulling ahead of passenger cars"
+    excerpt: "But perhaps we are a bit closer to that futuristic scenario when it comes to self-driving semitrucks. Christopher Mims, a tech reporter at The Wall Street Journal, recently wrote about the specialized technology behind autonomous big rigs. Marketplace’s ..."
+    publishedDateTime: 2022-06-22T09:57:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-semitrucks-could-be-on-roads-ahead-of-driverless-passenger-cars/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/self-driving-semitrucks-could-be-on-roads-ahead-of-driverless-passenger-cars/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/self-driving-semitrucks-could-be-on-roads-ahead-of-driverless-passenger-cars/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 40
+      name: Marketplace
+      domain: marketplace.org
+    quality: 37
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/06/20/1600x900/P90466955_lowRes_intelligent-connecte_1655716753429_1655716769014.jpg"
-        width: 1599
-        height: 900
+      - url: "https://www.marketplace.org/wp-content/uploads/2022/06/GettyImages-80109812-e1655848577339.jpg"
+        width: 3000
+        height: 1687
         isCached: true
 
 secured: "9Qse+gPFWTifC5L1uWaYsxQqxP5PSTFTohMw2Wu+W2ENoPnnLjrQgAEfqHO2+QOsrPKmFSuzRvEqgZ8r2YGGO+geHLkRy+MEkmfdvHm5Gn308rT6V/wH5KI7jaXD6rfbzgn9tobDh5unno95p1Qs6QodF+JNgdGakd+iJ8G92vuGLiAjvwLivY8qnTt1dc7cfQTczujIAoAJe1ulJ+8kKNBNJfa4u+zvnkSeMYKZopfoiTs3fxeA29js1dUStc6w5K73E6nSnoqF7MCwJy+uacSdcfHTKtk8qiACizM0sK5SR7x64HSwyfD0XJ39vAdZhwrjQ42GHQAOX5mCJUBV3wXNK9RrATcNSfWNVDjSUlI=;4OvJmTvKEDUc3HHestekNw=="

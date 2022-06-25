@@ -2,57 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2022-06-10-2022-imagine-cup-junior-ai-for-good-winners-top-outstanding-creativity.md",
-      "title": "2022 Imagine Cup Junior AI For Good Winners - Top Outstanding Creativity",
-      "excerpt": "Outstanding inspiring creativity from the top 10 global winners in the annual Imagine Cup Junior AI for Good Challenge. The announcement June 9, 2022 is the culmination of thousands of students, aged 13-18,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a26c35375cdb5c75876078/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 928,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/amp/",
-      "publishedDateTime": "2022-06-09T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-10-task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government.md",
       "title": "Task force to assess use of facial recognition by Colorado law enforcement, government",
       "excerpt": "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado.",
@@ -1197,6 +1146,59 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028.md",
+      "title": "Neural Network Software Market Size, share, and developments by type, sales channel, application, and segment estimates for the years 2022-2028",
+      "excerpt": "Jun 09, 2022 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

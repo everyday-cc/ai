@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/5cf20d7/2147483647/strip/true/crop/366x512+0+0/resize/366x512!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F16%2F7687441d4ce0a3b2820b9b0b02e5%2Feric-holdeman-senior-fellow.jpg"
         width: 366
         height: 512
+        isCached: true
+  - title: "Suspended Google engineer claims ‘sentient’ AI bot has hired a lawyer"
+    excerpt: "The Google engineer who was placed on administrative leave after claiming that one of the company’s artificial intelligence bots was “sentient” says that the AI bot known as"
+    publishedDateTime: 2022-06-24T17:32:00Z
+    webUrl: "https://nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/"
+    ampWebUrl: "https://nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/blake-lemoine-google-engineer-ai-bot-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Google’s ‘Sentient’ AI Can’t Count in a Minyan, but it Still Raises Ethical Dilemmas"
     excerpt: "In part, the story feeds into current anxieties that AI itself will somehow threaten humankind, and that “thinking” machines will develop wills of their own. But there is also the deep concern that if a machine is sentient,"

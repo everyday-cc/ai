@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise hits and misses - shoppers hit the grocery stores, AI gets an ROI check, and the metaverse hype machine refuels"
-    excerpt: "This week - shoppers return to grocery stores - are retailers ready for the hybrid consumer? Events season rolls on; Oracle offers tech earnings hope. Transformation turns into lessons learned, and, just in time for the whiffs section - the metaverse gets a $5 trillion hype projection."
-    publishedDateTime: 2022-06-20T09:44:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 31
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
-        width: 425
-        height: 283
-        isCached: true
   - title: "More Than 80% of Healthcare Executives Expect the Metaverse Will Have a Positive Impact on Their Organizations, According to a New Accenture Report"
     excerpt: "Accenture’s (NYSE: ACN) Digital Health Technology Vision 2022 report found that 81% of healthcare executives expect the metaverse ... blockchain, digital twins, artificial intelligence and computer vision. Rich Birhanzel, global industry health lead ..."
     publishedDateTime: 2022-06-21T12:00:00Z

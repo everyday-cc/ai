@@ -34,20 +34,6 @@ related:
         width: 867
         height: 577
         isCached: true
-  - title: "Quantum banking: The next leap in financial services"
-    excerpt: "Quantum computers are supposed to be much faster and more powerful than current supercomputers, and as such, their application could have a profound impact on any industry. As banks begin to embrace quantum computing,"
-    publishedDateTime: 2022-06-20T10:49:00Z
-    webUrl: "https://www.euromoney.com/article/2a8fb2jukdh3ae709zojl/sponsored-content/quantum-banking-the-next-leap-in-financial-services"
-    type: article
-    provider:
-      name: Euromoney
-      domain: euromoney.com
-    quality: 39
-    images:
-      - url: "https://assets.euromoneydigital.com/dims4/default/2cca30e/2147483647/strip/true/crop/4200x2205+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2F49%2Fc6%2F2e8c40e9412c832707bbd843137d%2Fquantum-comp-chip.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "925dmqMfyZIC1xju2U5VyYnGxs7UZNp0Bu8nexFgz1lDfOVZTJOHVJ3tlDCUZhmlim3rcZ3wp1ZETkSiCGpB3HW/+dtNgmSvZ+eD2ihlO+AFaQOAzNLMvVKNKg0P6y31QWYC1dG1zyYYc3mL1PUbZiypLHaEO9eIvaXvo8d45bUSPZ8YKxWGKNwCTxHGJc8Qb7iVRr5lHuKqMXOCouYTzJdRxKYFqUq0KXiN2ciIrAGNzI/z9i5R+g7Hf1gQQdgmZCyX3fskMjaVVqv6tLJDmqBu1JL65G1F/EKwJUJkAl/fzZXqyANwLAK7AL6XtyAvhaKWBJC2SCysxP9wLMf3ce2PV9FhM+u37CMty94sslXeLQfdLZw+exeoIBvRU29X19APXccc7vtJsOaF3FCjYbo/DRlZMY0ZeRuAtPZMRnMLtjNi9L4VbylkGV2fn34SWyi6IsAl2UJD02MPRYSbRTYz5bEAq9IVXYuLyywqHUw8CVjq3G1TPudnC6pLhf0hKlUmq6UL3gn+nAFqRjFydg==;779NvWQZaBVBIPBnkPqefg=="
 ---

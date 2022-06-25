@@ -20,17 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "The robots and AI technologies advancing South African health care"
-    excerpt: "South African researchers and surgeons are using artificial intelligence and robotics to enhance healthcare in the country, BBC News reports. The improvements include a video-call robot that ..."
-    publishedDateTime: 2022-06-20T09:39:00Z
-    webUrl: "https://mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html"
-    ampWebUrl: "https://mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/449398-the-robots-and-ai-technologies-advancing-south-african-health-care.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "AI Technologies – more than a slap in the face"
     excerpt: "The ICO has indicated that adopting steps comparable to those set out above in relation to UK residents would be enough to show compliance with the requirements of the enforcement notice, showing that it is prepared to take a pragmatic approach to the regulation of AI collected data."
     publishedDateTime: 2022-06-23T09:13:00Z

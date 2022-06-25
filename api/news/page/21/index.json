@@ -2,58 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2022-06-07-defacto-a-french-fintech-startup-that-offers-loans-to-small-businesses-just-raised-16-million-using-a-15-slide-pitch-deck.md",
-      "title": "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck",
-      "excerpt": "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6",
-      "originalUrl": "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/629e27cc7bc6a80018b67f15?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-07-silicon-overdrive-achieves-100-aws-certifications.md",
       "title": "Silicon Overdrive achieves 100 AWS certifications",
       "excerpt": "Over the past 25 years, Silicon Overdrive has gained various achievements including AWS Public Sector Partner of the Year – Sub-Saharan Africa 2021 and AWS Consulting Partner of the Year – Sub ...",
@@ -1115,6 +1063,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-self-captaining-ships-start-their-mutiny.md",
+      "title": "Self-Captaining Ships Start Their Mutiny",
+      "excerpt": "The unmanned \"Mayflower\" made landfall in Canada and Hyundai's autonomous tanker vessel completed its first cross-ocean voyage.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
+      "originalUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/658e3f0fca820bdf112e22bd811e16dc.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
+      "publishedDateTime": "2022-06-06T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

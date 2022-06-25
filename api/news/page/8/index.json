@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-06-16-h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers.md",
-      "title": "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers",
-      "excerpt": "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=1200&h=627&fm=jpg&fit=crop-47-32&s=88fe7b821d6aca1f29e9a18f3d17c66c",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-16-why-ai-could-be-the-answer-as-companies-chase-down-debt.md",
       "title": "Why AI Could Be The Answer As Companies Chase Down Debt",
       "excerpt": "Webio has raised $4 million of Series A funding as it capitalises on growing demand for digital technology in credit and collections",
@@ -1176,6 +1133,58 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-the-hands-off-tech-era-is-over.md",
+      "title": "The Hands-Off Tech Era Is Over",
+      "excerpt": "More government intervention will slow tech down. Is that good or bad? Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share. By Shira Ovide It’s clear more than ever that governments will no longer leave technology alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/15/business/15OnTech-laissezfaire-NL/15OnTech-laissezfaire-NL-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
+      "publishedDateTime": "2022-06-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

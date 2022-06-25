@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 937
         isCached: true
-  - title: "Enterprise hits and misses - shoppers hit the grocery stores, AI gets an ROI check, and the metaverse hype machine refuels"
-    excerpt: "This week - shoppers return to grocery stores - are retailers ready for the hybrid consumer? Events season rolls on; Oracle offers tech earnings hope. Transformation turns into lessons learned, and, just in time for the whiffs section - the metaverse gets a $5 trillion hype projection."
-    publishedDateTime: 2022-06-20T09:44:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-shoppers-hit-grocery-stores-ai-gets-roi-check-and-metaverse-hype-machine?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 31
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
-        width: 425
-        height: 283
-        isCached: true
 
 secured: "vBB5ba7Dk1jGdjp2dVhG3bAs104JFfj5mZGsQxhi4CcybaRhLPIfDkuadGafoRBQZB1NlAxbeC4uc9pcAMOJkPPjMQYW7lRC1Vhm1ZxeBDPwMmRry8xjbbLEf+Uiz0wY7q4oJpUhbT7bn4nCuc8rspPA+bezv95PD+XZ8xGDBpNs9ledqSMAXfGe470SKimBnFG/EhwqL6CUHrtYHMlA2sekov1EvroTSZ6JUTIN5hX0U4e0s9SlyhnOomi5xGw+lsIzshkpPHMNdhHUaUVPD6Dmjm0j5CTx75VC1vgN0jYcdFrTmUBJcGPesiwi5lMxg+QSTDk7eFj4i04nTtr9GjvvwaDihYo3IEn8PpeqUxo=;5Ol+pzIeoe2pdnl5Z60DiA=="
 ---

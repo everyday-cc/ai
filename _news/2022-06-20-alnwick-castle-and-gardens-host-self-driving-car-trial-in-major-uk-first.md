@@ -7,7 +7,7 @@ originalUrl: "https://bdaily.co.uk/articles/2022/06/20/alnwick-castle-and-garden
 webUrl: "https://bdaily.co.uk/articles/2022/06/20/alnwick-castle-and-gardens-host-self-driving-car-trial-in-major-uk-first"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Coventry’s Aurrigo heads to Alnwick Castle for ‘self-driving rural first’"
-    excerpt: "Aurrigo, a world leader in autonomous technology, started a four-day trial of its self-driving vehicles at Alnwick Castle and The Alnwick Gardens on Saturday, as part of a study led by the Centre for Connected and Autonomous Vehicles (CCAV) and insight and strategy specialists BritainThinks."
-    publishedDateTime: 2022-06-20T10:19:00Z
-    webUrl: "https://www.thebusinessdesk.com/westmidlands/news/2064892-coventry’s-aurrigo-heads-to-alnwick-castle-for-‘self-driving-rural-first’"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 23
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/jun_22/Aurrigo-Alnwick-trial.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "YhQhpY+nccJX1ULHy3X3yOZIX0Vl5zpn0vfYsOGQf2Gmt8VsqBo6wNeyLW4iyX2vbszgR1uTN6CFXEtWtC+H3uj1iTrUSsqOzBVJQawqWoAKYcuUG3k0ur8zmP9bfNK5HTrU9UrDi8aYzmCsnu3TUQpdQilAME7pHm1drqbgmKmizlj6n9rknjcIMOKX5sCTQzjL1NdfN+4G6YbghYSVHIjcefhE467yKFlYfSPer1S1BrW/XgH+8EhfoKjwNNEuT8FzR6IlGWpYKQ+sTBE6TFCmlyqDSJJZKE+XXfQdCAnkDubMrFXt+GZkO2FYfcfDJVNvfc0BuEtqXAER+3n/oh22mPi2SdZgZhdBnFHYgxValvAd713wEvnNFGzqv8Ykgx3+rexXBh+KTwe3HeoCXyP5dW01OkQCxrJxfUlvV/jIRPtdYzx2quGsXHvVNz4BybqaquPEFwpoUciAKKqZ+v2Zcnh8Z4O9L2XXJcqZ0V4qaQ/YdUXZp0fwFyqngeRGFTloXfaGD9S2WiMM8b6dRQ==;FMT3Wzhm/f/DfQOKdVnF8Q=="
 ---
