@@ -34,7 +34,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
         width: 2400

@@ -1,39 +1,28 @@
 ---
 category: news
-title: "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India"
-excerpt: "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ..."
-publishedDateTime: 2022-06-14T12:56:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
-webUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
+title: "Devnagri – India’s first AI-powered translation engine as language partner at Assocham Fintech Festival India"
+excerpt: "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,"
+publishedDateTime: 2022-06-14T07:45:00Z
+originalUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/"
+webUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/"
+ampWebUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
-  - Natural Language Processing
+  - AI in Finance
   - AI
 
-related:
-  - title: "Podcast | Intel’s AI skilling journey in India"
-    excerpt: "Shweta Khurana, Senior Director, Asia Pacific and Japan, Government Partnerships and Initiatives, Global Government Affairs, Intel shares her insights on skilling the country’s youth on AI."
-    publishedDateTime: 2022-06-18T15:33:00Z
-    webUrl: "https://www.thehindubusinessline.com/multimedia/audio/podcast-intels-ai-skilling-journey-in-india/article65540694.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 37
-    images:
-      - url: "https://www.thehindubusinessline.com/incoming/ezqa3x/article65539985.ece/alternates/LANDSCAPE_615/Shweta%20Khurana_Latest.jpg"
-        width: 615
-        height: 383
-        isCached: true
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2022/06/anibs2022061405495820220614065826.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
-secured: "6M+Vzx5x6L+/n8picvWj5+JYX9eOjICW18VD0Kah0kHZobHuQwimoGTdbS7gkso4OTOwYrHzSStV7FqcK5awioqw3Y4nZIPzqwsDMZnSq7tsY8UhJW/uOZjE5M7No0DM8ZUzAJlSWdZQUWxKyr5dOtnE1zN3u9V6Gg0+5MsSn6mS7pjSifYv3GWY+bd1SK0HnCvBIuwgyuoaRgaU/7rABxBmfnudZcQaZszdiV8AWA+MMxoCqKiYdWEBwfO11Hw2TMC2u8ylwudnXFOMeOSt1k0f3wqGKcdg/Zb8QeeCxn8ZxqSeOwDv6lzNb++Pgna1TbBQSylOBl2cLI0bq3tOz+iSCestypPZ7jpGGehvd/g=;GoHx2c51iOpF/Xr1LDttpw=="
+secured: "PpyESzGUi7ZtqMNRhxB1ZaC8E29uMMTyCI86js9xCS9sq1IMWF8WJbwiL9AhK1XhWvtCmPehrvMrdRBsqsMgv1rKf5jZYNnicbY6vOZdrHfzGTVgV8/GNJ3bD7C0OUZH8nd1VErN0zruHGolQ+Xh+vCml1FAy+E5YtACBQrE9kYxjZDgRUz3Fh4MW2uEaWNt3ms28M/fjY1nO+utThcJodwOLfIYWtXuAk9WoK2kbx+jHRFSAaAMTargj3mlFWXFyfi4yFHMytKFI2lewmtbOdh5CibkQW4YLQShgL21clLAzH0ghLu2mNQMr0soxlVKg7ige+MzVnh+B/Fu4yRBtgB99tclQwk7d87dtg2Kllc=;K+FK9YViHZSzoPFWTO16AQ=="
 ---
 

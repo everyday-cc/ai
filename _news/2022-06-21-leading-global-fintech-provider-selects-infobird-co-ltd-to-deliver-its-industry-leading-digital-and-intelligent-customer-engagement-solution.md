@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution"
-excerpt: "today announced that it has entered into a cooperation agreement with a leading global Fintech service provider. Under this agreement, Infobird will leverage its AI Chatbots and years of ..."
-publishedDateTime: 2022-06-21T15:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578"
-webUrl: "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578"
+excerpt: "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider."
+publishedDateTime: 2022-06-21T15:37:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Global FinTech provider selects Infobird for its intelligent Customer Engagement Solution"
@@ -54,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tV2Tcbl6SBYM0F9A8gk931dXrLyhwCdPHyf4JvesYlM3KeaD5Flv1A3eP4Cu5d1Ra8ab++t/xoW23PuHHdJ3Gdv9QAxysoAugQaqidApmCk+OqeztKUpKb4A5VNsf004TbsSRtbYbj/U6tI+zZJvJ3kBm68HiSIHZdMb58snIJpSWY3WMAYlFoSJSbgAUhZ8//pIr1QpcA4DwRCEDRnR1bJnzyL6Epw5UQh+ENh1Ii3my7fLVr7pKQ184EH1gt4Um9QX/61yESQAWRHeacNgk6kHTvxrZYwpHaxLjcxolw2oojiv/mIdSk3Y61fO2d3u7JqpKV/WvgV86Xl580BCSVXZvhwOaeAsKMLX06qrAVU=;ktHTRtCMVzR3I/b2/Ea5NQ=="
+secured: "G/3y/dyE9IqFceAVv2X6aM5m7ylIBftCqyOMbhPK+JKQiX/0ppIwL+sZJ3to5vMoMLjPsyZULzuGVXUcS6vH+bUQZsqExh3osw3HwhrpcNWy267s3y9EVuOAqBXS8+tvG9t0tih/1pxMCiuca5YMsXOVAcUHXtT1ybzbZkLaPn7EfAUI12+6DTJ9XWhrioA7+QX0jxKa68omD3YodGD+rR2h4WBnhudCCh2tDYRcpxMo4uwcs8GxcjNMc4fCajf3zc2fmhnBsDnk6UFiJ95x3PQvzX2k9W8CurlGHtqfaKOVj7hafm5pomPVT59ogz+JhUstnlKnQ+SU5QQ3xJ3OB7xnc7pvP6nA9JkdTAhH/b4=;7Usuj74zyGPunELG7MMOJw=="
 ---
 

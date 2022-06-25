@@ -101,20 +101,6 @@ related:
       name: Public Radio Tulsa
       domain: publicradiotulsa.org
     quality: 39
-  - title: "Why ‘sentient AI’ claims are actually very damaging"
-    excerpt: "Google’s LaMDA system and its conversation with engineer Blake Lemoine got everyone talking, from tabloids to daytime TV, about the possibility of AI becoming sentient and threatening our way of life. The subject of AI rarely makes it off the science and ..."
-    publishedDateTime: 2022-06-20T16:02:00Z
-    webUrl: "https://www.siliconrepublic.com/business/sentient-ai-google-lamda-research-development-ireland-insight"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_139892685.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "bEMx7qGa9DWuCBCDxMwKPUpClrkHBZUpuAawy56IzBs+sc4Pf+xMitn63uYrTo/QB7FuX7ecAyGfvT2oyd3JuoXXFhDcBphH3wBceza7RSHj6yFew3EyUZUsFlCwoocReszVwL5TNfaPfjrEKL8fKkQKrNQRco/BZSz28kBBGWbQPivmW5OAoh4nq9pqDrQiJTvajxS9Va3kPeKmxB8pXI4cmppAUrp3DGW6FZHRU/exGa2A6oTauz6eZWIU2ZWI8dUQAhfm+mVF3GeHmtfg5AoqHkb37e3HAqWm3zXs+SsaM/8Rhd5pw41yAbmRfY6fVLWKACMexlmKmLxqyX8MauQEXTj9vpw8MM7AvnSmOgI=;//jr9eYx8oy+vwHSrY797Q=="
 ---

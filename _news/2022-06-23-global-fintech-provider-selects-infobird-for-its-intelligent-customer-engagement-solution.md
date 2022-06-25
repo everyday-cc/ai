@@ -42,14 +42,19 @@ related:
         height: 630
         isCached: true
   - title: "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution"
-    excerpt: "today announced that it has entered into a cooperation agreement with a leading global Fintech service provider. Under this agreement, Infobird will leverage its AI Chatbots and years of ..."
-    publishedDateTime: 2022-06-21T15:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578"
+    excerpt: "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider."
+    publishedDateTime: 2022-06-21T15:37:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "i/jhYjcD1yY7Ej1i7l7IgS6rczzUVeGMvzIdZ3N3k10YvfFwVbxmlB5uUay/UgY2OlImTyFKb8Rc9G2zZmkX2tUVSth7avKSamjSHzn3t/a6l1zVx338BpEJmNIWHupleMKJZCqGYwP2D48x/dGI+iZj7HxGbAPWXQBznOe8Cya2iH/oPl2HGeDBLcGDscg/JR7JnN6WJeWNTB8XwYNbni3xIUlH3iTpwepSU7u9ClfHU1I9cPbRw15ru74O8wnYZV6QjIhyEszQ98waytw4TMrARIiOJ0um2xPZL3eu4S+F/teOBrq+nrfeajJamNxMMf1h1H+R/vEyuG0XzR5P6gOlMmZz1VicYfyO4oJ2V5+c19kSXxQ5YnTEVBTCsNNdGUssTPiOO4XZoh4np+vBEsnX/ZW4M/XnXcrfFTsIyvexkxnF1v7/uxW9LFe+PWpfgK+WbUIJw0PO46LdZ8vL80uZGBjMzr5R0uIv4PvM1HjnnmJxkQENeqZfssT4wodsvweUZSgb6CPj1OiNoNbbUQ==;N+0g83Oz4VAzhP+ilE9a3w=="
 ---

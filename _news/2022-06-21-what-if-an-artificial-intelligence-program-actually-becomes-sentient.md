@@ -97,20 +97,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Why ‘sentient AI’ claims are actually very damaging"
-    excerpt: "Google’s LaMDA system and its conversation with engineer Blake Lemoine got everyone talking, from tabloids to daytime TV, about the possibility of AI becoming sentient and threatening our way of life. The subject of AI rarely makes it off the science and ..."
-    publishedDateTime: 2022-06-20T16:02:00Z
-    webUrl: "https://www.siliconrepublic.com/business/sentient-ai-google-lamda-research-development-ireland-insight"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_139892685.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "kLWsGtyT7nGGE/izaVaDaFMwHzHo0isboZH8TWyrAWRqEqWaxWNFR+4/VkLn4my4/+Ibd4EkKPUTbP0bnaNqNWuYITpfrZu5yetE80vzemCl+Rijq57hFSX5NATe2yKEqf488aBb9i9kG8CjeNaS00X4GcEMZA9n8vWL8nfH+QJ1dPmomKGhs0dMq3AsMY15RqFuLqjh3i7Ol1LUNqyM3dZOU8XbWkjyxf8Hxl0laJWLz3s4dHiABForz8S3UJaBBp/YpefjaxlOpZBjKUYTwJ09VpIcu/1RxYsgneWHiTC9HPJ0tsgxrsRfl2HMjdzhPPrhc6Vy6ZsZ+ojzc1cMob0e6iO1AdpwzRGTpXRkL18=;T6vs4jYKcH99Fwchj0zOKA=="
 ---

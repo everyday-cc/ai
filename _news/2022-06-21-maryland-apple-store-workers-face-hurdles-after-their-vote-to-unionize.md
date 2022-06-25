@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wxxinews.org/2022-06-20/maryland-apple-store-workers-fac
 cdnAmpWebUrl: "https://www-wxxinews-org.cdn.ampproject.org/c/s/www.wxxinews.org/2022-06-20/maryland-apple-store-workers-face-hurdles-after-their-vote-to-unionize?_amp=true"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 880
     height: 542
     isCached: true
-
-related:
-  - title: "Maryland Apple workers face hurdles after vote to unionize"
-    excerpt: "The historic vote by employees of a Maryland Apple store to unionize — a first for the technology giant — is a significant step in a lengthy process that labor experts say is heavily stacked against w"
-    publishedDateTime: 2022-06-20T15:57:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/apple-workers-vote-unionize-maryland-store-85490773"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/apple-workers-vote-unionize-maryland-store-85490773"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/apple-workers-vote-unionize-maryland-store-85490773"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_7b8ccc895e444348ac7132df745b770c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "auDpP/9y34uhaKxHAc4zVrh0o6aE0K5Tc8bSvISZ5bMmevHD6+CiRjyhQRgXqtugUQJXPdPsXaY2oJGOQbLacSUdNlruBeb39IJ3lX/SXqLrTE+ctouAqKU9K/bm4fsn8dRvA7KzxcFtKssKyloMTBUqh2udJXLUamtCEJa6jqGzLz/jWLJ6mLbk4bfJKc0U86FEXRTkVyZSDJb4mwbWdocqIU6Jwz+WGVi44GgGGusu052zImBLPsjAe2GExfWljvPoNJbLmxGWrDlNwam7uFjNwpMTztWLpofZp2h8oHRgPGo/RRQbPID+jKxsY3w+6qGodecjkdhExLEcd+Fi71es4PlyKafH7oPYYFyMEbc=;QbOBrF49pr98Q68NWIWUMQ=="
 ---

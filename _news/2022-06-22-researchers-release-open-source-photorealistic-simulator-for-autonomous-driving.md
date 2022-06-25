@@ -43,6 +43,20 @@ related:
         width: 1300
         height: 869
         isCached: true
+  - title: "A Realistic Framing Of The Progress In Artificial Intelligence"
+    excerpt: "The coverage of AlphaGo, DeepMind’s system that was able to best the performance of professional Go player Lee Sedol, was a game changer. Read more here."
+    publishedDateTime: 2022-06-25T08:21:00Z
+    webUrl: "https://seekingalpha.com/article/4520309-a-realistic-framing-of-the-progress-in-artificial-intelligence"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 41
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310293181/image_1310293181.jpg?io=getty-c-w750"
+        width: 750
+        height: 563
+        isCached: true
   - title: "AI generates photorealistic 3D scenes and lets you edit them as well"
     excerpt: "Now Eric Ryan Chan at Stanford University in California and his colleagues have created an AI model, EG3D, that can generate random images of faces and other objects in high resolution together with an underlying geometric structure. Personalised cancer ..."
     publishedDateTime: 2022-06-22T12:03:00Z

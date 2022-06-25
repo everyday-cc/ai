@@ -34,6 +34,20 @@ related:
         width: 1300
         height: 869
         isCached: true
+  - title: "A Realistic Framing Of The Progress In Artificial Intelligence"
+    excerpt: "The coverage of AlphaGo, DeepMind’s system that was able to best the performance of professional Go player Lee Sedol, was a game changer. Read more here."
+    publishedDateTime: 2022-06-25T08:21:00Z
+    webUrl: "https://seekingalpha.com/article/4520309-a-realistic-framing-of-the-progress-in-artificial-intelligence"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 41
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310293181/image_1310293181.jpg?io=getty-c-w750"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Researchers release open-source photorealistic simulator for autonomous driving"
     excerpt: "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they've proven fruitful test beds for safely trying out dangerous driving scenarios."
     publishedDateTime: 2022-06-21T19:43:00Z

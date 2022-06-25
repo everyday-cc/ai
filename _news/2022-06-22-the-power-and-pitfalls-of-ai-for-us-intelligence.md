@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-communi
 ampWebUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
@@ -90,6 +91,6 @@ related:
         height: 916
         isCached: true
 
-secured: "hNVRDns7R7zUEVyk/vwJ/UyAlRIwX99njYTQkeKD6YcPvklf0Qucs3yDr0KRmPdoUwvSXt24rKQF+cG+4ydj7N6IvZ72PxA1JxK2uJXgTskbhGteOpCaEhmUfHTWyY+WDriOiPn+61XNq3nhcX5XTebkaqB49OmJjBopRMu4ir7jAT8ZdOqJeDBVDUJfp8X6WgXbGz0I1AH3/E4vO92+dzei6rE1DUVUNGS23baIA4byw6HC/oemGpWaWU5Mlov616JoaFZ0SxO6s8rkm84tWVUFqDqGSX7sSp1dMS3lLWfP1w4VN2lXr+q6IbJFn8KU8eE85cQm6RHv+t07apHPmWMmd8WFLTlmiGyMWtxN2CI=;EwxGsoD3SGiNzxVMOEOoFw=="
+secured: "0bxyJFY+sFbvtNkgAEZmpZmpn4tbgnpp1pL+K8HZxRojoA8dE6v4pdmFZpSSLYx3nFvx/d82TKxuvv2YvE4oBHX5RSuOuzDFOwpJ/u8gj0HqBJloXoVMpmsxLp3MpBF1vzmVbiKksazb7oURO6ZbiPtgRMvmJTspzcn+Fn0FkOgDSfvqFj1S50eGfdg9/M+pTJWrlrhcwe5b1JRIvaauHtsNFDCtLYoZpYoIrQWi4QfnG9/uMoiw1eoELBh4RkmDBNTMz72TwTIo5DfoWgWa0PY8REt16oDH4YptBGo+gMRkO8cyA/aV5ThFTCrUASDpI78kF8COfVLm/9zUY14qqUHqFcFiRDI8uqsYbm3cplc4HvL1xmgl6depDepV5rGZM3g7iju8WlD8HX/axQFfI0aPUwKDuJeOCamufjgQEEZ0xlFi0Ap6Qz7H37OVgsR5iP/EXIkMx4657Du+Nfiee7M5OXjCYNr00pTuC4b9m0bK9qB9Y9FM0I0wVAmTTXAvenM9XhRfVbZH/xAcVGRlRQ==;en5MkjeTb2euesN1tVrxxw=="
 ---
 

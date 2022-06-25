@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/20/3-things-large-language-models-ne
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/3-things-large-language-models-need-in-an-era-of-sentient-ai-hype/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       name: Public Radio Tulsa
       domain: publicradiotulsa.org
     quality: 39
-  - title: "Why ‘sentient AI’ claims are actually very damaging"
-    excerpt: "Google’s LaMDA system and its conversation with engineer Blake Lemoine got everyone talking, from tabloids to daytime TV, about the possibility of AI becoming sentient and threatening our way of life. The subject of AI rarely makes it off the science and ..."
-    publishedDateTime: 2022-06-20T16:02:00Z
-    webUrl: "https://www.siliconrepublic.com/business/sentient-ai-google-lamda-research-development-ireland-insight"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_139892685.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "mtzpMeL4zM7LyWdWUI8bMxLqqQAJujWWv9PgqPIj8/xnDvD/AZ/BUSAMSuZZkbUgG64lQLJltGl6ryWYI3CuxKa9MgAzrSDSBthR+cWbySHq4Lsri5CKuv++rYwNzz8QnlKGBuggTLig0TLD7XaQOHIHlbrsW6ai/eit1gwimHHiIoHOpgnqEABo1f8y6yaGf6jzKteVSK4sc0N75JWH5zx3soFHEow0LW+YRxMb1oEV+gKrJbqoRjnUK3BLqGcJap1kthOdNTekC7aaryOaWWHYM5KUuEstjz95zMnycuODTON9X3CCxiwqmz+MJV+mXhXlqudWY8FLNIH8GWvJVIKgK/OuQv8nkNfrfXWeEGRNEEnNW3A2IkO6tC2EbDSLRx52ZTcsU+x9/HcmPohZIyoTMdlUpDd3JFaDGDYGUVkaFjqN5L+yPMRYMm+8knjQjz9N8/eOofNE0DfvuLJkpbFnwMieWZ0IG6FYUdl8SPK/X7KccYP2qFpn7HyXngSukfaNU8IprCLE4wvunL0cCg==;xL5qIevOX4owreuduMRBGQ=="
 ---

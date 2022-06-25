@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-sta
 webUrl: "https://venturebeat.com/2022/06/20/cybersecurity-landscape-the-state-of-managed-security-services-2022/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: VentureBeat
@@ -24,20 +24,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Advancing Cybersecurity Awareness in the Healthcare and Public Health Sector"
-    excerpt: "Tetra Tech applies AI and automation tools at the U.S. Department of Health and Human Services to increase outreach within the Healthcare and Public Health community."
-    publishedDateTime: 2022-06-20T16:47:00Z
-    webUrl: "https://www.csrwire.com/press_releases/747881-advancing-cybersecurity-awareness-healthcare-and-public-health-sector"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 36
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Advancing-Cybersecurity-Awareness-in-the-Healthcare-IS22-013-650.jpeg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Tech jobs: These are the 10 most in-demand developer, cybersecurity and cloud roles"
     excerpt: "CodingDojo scoured hiring data and employment stats to uncover the hottest tech jobs of 2022 and their earning potential."
     publishedDateTime: 2022-06-23T12:07:00Z

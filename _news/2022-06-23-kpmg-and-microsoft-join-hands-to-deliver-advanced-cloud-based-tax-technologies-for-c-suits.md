@@ -477,20 +477,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 53
-  - title: "Industry leaders hail Microsoft role in UAE’s digital transformation drive"
-    excerpt: "Microsoft customers on Monday shared their digital transformation success stories as the company celebrated the third anniversary of the launch of its UAE data centres."
-    publishedDateTime: 2022-06-20T16:31:00Z
-    webUrl: "https://www.gulftoday.ae/business/2022/06/20/industry-leaders-hail-microsoft-role-in-uaes-digital-transformation-drive"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 52
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2022/6/21/digital-transformation.ashx?h=450&w=750&hash=99BEC9B861D12CD560227BFDE78AD102"
-        width: 750
-        height: 450
-        isCached: true
   - title: "KPMG AND MICROSOFT COLLABORATE TO HELP C-SUITES PREDICT TAX OUTCOMES AND SET BUSINESS STRATEGY WITH NEW CLOUD TECHNOLOGIES"
     excerpt: "Investment in new technology creates value for businesses in more than 140 jurisdictions globallyKPMG Digital Gateway, enabled by Microsoft"
     publishedDateTime: 2022-06-21T14:20:00Z
