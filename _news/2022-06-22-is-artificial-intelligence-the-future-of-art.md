@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104411578/Is-Artificial-Intelligence-The-Futur
 webUrl: "https://menafn.com/1104411578/Is-Artificial-Intelligence-The-Future-Of-Art"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,31 @@ images:
     isCached: true
 
 related:
+  - title: "Nurturing talented AI professionals for the future"
+    excerpt: "Hyderabad: Many entrepreneurs and technologists from the city have made their mark in the growing tech field, and now, one more Hyderabad-born technology"
+    publishedDateTime: 2022-06-25T17:17:00Z
+    webUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future"
+    ampWebUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 57
+    images:
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/06/AI-831x450.jpg"
+        width: 831
+        height: 450
+        isCached: true
+  - title: "Preparing National Security Officials for the Challenges of AI"
+    excerpt: "National Security Law for the Coming AI Revolution” (Brookings Institution, 2020). *** Artificial intelligence (AI) is on"
+    publishedDateTime: 2022-06-21T12:01:00Z
+    webUrl: "https://www.lawfareblog.com/preparing-national-security-officials-challenges-ai"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 36
   - title: "Yann LeCun has a bold new vision for the future of AI"
     excerpt: "One of the godfathers of deep learning pulls together old ideas to sketch out a fresh path for AI, but raises as many questions as he answers."
     publishedDateTime: 2022-06-24T11:54:00Z

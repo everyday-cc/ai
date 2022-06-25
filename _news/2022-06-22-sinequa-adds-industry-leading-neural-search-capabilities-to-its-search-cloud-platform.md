@@ -2,17 +2,17 @@
 category: news
 title: "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform"
 excerpt: "Enterprise search leader Sinequa today announced the addition of advanced neural search capabilities to its Search Cloud Platform, providing unprecedented relevance and accuracy - at scale - to enterprise users."
-publishedDateTime: 2022-06-22T15:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce"
+publishedDateTime: 2022-06-22T15:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/22/9626776.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/22/9626776.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
@@ -36,6 +36,6 @@ related:
         height: 552
         isCached: true
 
-secured: "EbB5jTTgExQL7A/MkZaJ5JU8F9r+3rQwH0E2czmDmjldfLJxCG61c7dx8KJTbW4qz412VYvnyUoSq/cmnl5bkAFNRH3IVbqzazu2im7eFYTVU3gGg0c04Bionl3JVFFolKVRrIlWDgOiB31p/NqMsd15JXRhSmuMC5KxuRvAd7JCfUxyuGIxsp8wx/zyQHo/Nv77MOkOo2LeTHjsJautBsshvhMd4d2mQRUdI5fgps05LoH3Quq6YkHSqg3ejkgyV4AYR1olYBG68HJsSiKiil0TwZr81rcFhdyL3RGFL9vEMNUkPTHTr6gOpk9uMiyHHsSZV7Fqg5uuTZ16hpkTpKwN5se6xZmBJpzSXK5DgJE=;jxss8xcH3KaSHS9bt3p4LQ=="
+secured: "CGq6+EsUAA6KbHzMFACvmKpq6tOpf9v7SOUmdp9Eqhc6fb1sTmcwThXkIWbrmRoI64qan6OwBEtzlip18wRpxbayW6Ur6CgYwxrE2xELE7TN+BMPRiPKLj0jaerf1SlLw47ZyOWZbU/+A2suLA12ca1THoT0IUf10g0qFAzQIse98E+8VtudOtO5S4+QcaYWQI12Ezx4eGoT/qqDQuaOtOvqXJCIE08zc4ARH71EPEQSjF9ORWtfQoA1/MFe83L4VyyVY9h0Axd2KZcq3ffIU4dfZCdN05+veySSBSbF6xT4HLDrP9rpWbMgXQ5Y8q1SWGia3OvOgdfiEa/V39/8Jr6VRdcjSSl1vfh/BBQAclI=;eAG/2Fh0N0PibGg4SmwhRA=="
 ---
 

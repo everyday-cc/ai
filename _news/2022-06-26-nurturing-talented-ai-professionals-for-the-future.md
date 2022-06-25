@@ -1,0 +1,64 @@
+---
+category: news
+title: "Nurturing talented AI professionals for the future"
+excerpt: "Hyderabad: Many entrepreneurs and technologists from the city have made their mark in the growing tech field, and now, one more Hyderabad-born technology"
+publishedDateTime: 2022-06-25T17:17:00Z
+originalUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future"
+webUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future"
+ampWebUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
+cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
+type: article
+quality: 57
+heat: 87
+published: true
+
+provider:
+  name: Telangana Today
+  domain: telanganatoday.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://telanganatoday.com/wp-content/uploads/2022/06/AI-831x450.jpg"
+    width: 831
+    height: 450
+    isCached: true
+
+related:
+  - title: "Is Artificial Intelligence The Future Of Art?"
+    excerpt: "PARIS — To many they are art's next big thing — digital images of jellyfish pulsing and blurring in a dark pink sea, or dozens of butterflies fus"
+    publishedDateTime: 2022-06-22T03:24:00Z
+    webUrl: "https://menafn.com/1104411578/Is-Artificial-Intelligence-The-Future-Of-Art"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/21/JT_c7a05image_story.jpg"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Preparing National Security Officials for the Challenges of AI"
+    excerpt: "National Security Law for the Coming AI Revolution” (Brookings Institution, 2020). *** Artificial intelligence (AI) is on"
+    publishedDateTime: 2022-06-21T12:01:00Z
+    webUrl: "https://www.lawfareblog.com/preparing-national-security-officials-challenges-ai"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 36
+  - title: "Yann LeCun has a bold new vision for the future of AI"
+    excerpt: "One of the godfathers of deep learning pulls together old ideas to sketch out a fresh path for AI, but raises as many questions as he answers."
+    publishedDateTime: 2022-06-24T11:54:00Z
+    webUrl: "https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 21
+
+secured: "u9JfDesDkLGsa07bndEkt3AiHIgm68OS83vklFaySqj7uo8C71IHO6AP027Kr5kHa/2U4Y8+G1ZQA5o53cQUo/BRFuhC2TsWOKn0zGvOy+FrJG9igznO+xNGIFalMaIK163SQdfTyO8yb3JlriUfCI41xQAGWx9CDwAHm7iZBPxzG7KKBTu/WRPvlnnf1U6t53rgohzKcC9Pj+TjxS4iwPXEo6mUrkXkWXXMFeS3uk2eNAn/6p1aQtbM5aCwh4F3lQUl4qtbuxmCQrcJPB3DFoa891ezALfR18HrXs71H8r2AW2ccAeC5EMmLcJv5tNws76/3DqNB8tiYgKeMNfQ4jvgK5QFTY4skP89joPgbt4=;9SsqUwSZcIuH+DmIxHD8DA=="
+---
+

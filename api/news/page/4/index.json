@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-21-ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems.md",
+      "title": "AI Ethics Leans Into Aristotle To Examine Whether Humans Might Opt To Enslave AI Amidst The Advent Of Fully Autonomous Systems",
+      "excerpt": "The inaugural annual presentation of the Oxford University Institute for Ethics and AI featured a Stanford talk covering Aristotle and lessons for AI Ethics, especially dealing with the controversial idea that perhaps humans will opt to enslave sentient AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/21/ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/21/ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b18b75c943048e2d4b3746/0x0.jpg?format=jpg&crop=2360,1573,x500,y62,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/21/ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/21/ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems/amp/",
+      "publishedDateTime": "2022-06-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-artificial-intelligence-will-help-autodesk-expand-in-the-metaverse.md",
       "title": "Artificial intelligence will help Autodesk expand in the metaverse",
       "excerpt": "“A common theme is helping the designer,” said Tonya Custis, director of artificial intelligence research at Autodesk, whose team includes fifteen AI research scientists based in San ...",
@@ -154,6 +207,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-accurate-diagnosis-of-brain-tumors-using-artificial-intelligence.md",
+      "title": "Accurate diagnosis of brain tumors using artificial intelligence",
+      "excerpt": "Artificial intelligence was found to be superior in the areas of accuracy, precision and misclassification, among others, while professionals performed better in sensitivity and specificity.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/accurate-diagnosis-of.jpg",
+          "width": 2880,
+          "height": 1347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
+      "publishedDateTime": "2022-06-21T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1138,100 +1234,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-artificial-intelligence-shines-a-light-on-how-autistic-brains-work.md",
-      "title": "Artificial Intelligence Shines a Light on How Autistic Brains Work",
-      "excerpt": "Kohitij Kar, a researcher in the lab of MIT Professor James DiCarloThe researchers believes that machine learning could be an effective tool that could open up new pathways to modeling the computational capabilities of the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13048",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13048_1655737439634346.jpg",
-          "width": 2000,
-          "height": 1054,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13048",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13048",
-      "publishedDateTime": "2022-06-20T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares.md",
-      "title": "Meet Dall-E Mini, the Viral AI Image Tool Fueling Twitter's Nightmares",
-      "excerpt": "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/",
-      "originalUrl": "https://www.cnet.com/culture/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/",
-      "publishedDateTime": "2022-06-20T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-15-how-do-you-insure-artificial-intelligence.md",
+      "title": "How do you insure artificial intelligence?",
+      "excerpt": "No doubt, this software has some built-in artificial intelligence (AI) elements. When insuring a vehicle manufacturer, it’s not too difficult to spot the potential for critical failure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
+      "originalUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.canadianunderwriter.ca/uploads/2022/06/artifical-intelligence-picture-id143922813.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canadian Underwriter",
+        "domain": "canadianunderwriter.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-explained-and-tested-teslas-self-driving-autopilot.md",
       "title": "Explained and tested: Tesla’s ‘self-driving’ Autopilot",
       "excerpt": "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads.",
@@ -1342,59 +1386,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-investing-in-ai-stocks.md",
-      "title": "Investing in AI Stocks",
-      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/3-depiction_of_cloud_computing_connections.width-400.jpg",
-          "width": 400,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

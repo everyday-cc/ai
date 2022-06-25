@@ -923,6 +923,41 @@
       ]
     },
     {
+      "path": "_news/2022-06-14-the-qwak-machine-learning-ml-production-platform-advantage.md",
+      "title": "The Qwak Machine Learning (ML) Production Platform Advantage",
+      "excerpt": "Businesses have recognized the latent power that lies in machine learning and AI technology. Consequently, they are investing heavily in ML and AI to gain a competitive edge in the new market. A BCG survey states that at least six out of ten businesses are developing algorithms and hiring data scientists in the ongoing machine learning and AI trend.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker.md",
       "title": "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker",
       "excerpt": "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters).",
@@ -1466,51 +1501,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.md",
-      "title": "Why healthcare organizations select Amazon Web Services over Google, Microsoft",
-      "excerpt": "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
-      "originalUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png",
-          "width": 460,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

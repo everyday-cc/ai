@@ -35,6 +35,20 @@ related:
         width: 1000
         height: 606
         isCached: true
+  - title: "The role of AI in the People’s Liberation Army"
+    excerpt: "China is one of the leaders in military AI investment, but what progress has it made in developing truly autonomous platforms?"
+    publishedDateTime: 2022-06-24T11:24:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/the-role-of-ai-in-the-peoples-liberation-army/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 37
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/06/zhu-hai-yun.jpg"
+        width: 900
+        height: 675
+        isCached: true
 
 secured: "Mv/D44YbcIwKvNLqObHxS0O/dtEuH8kg7TuPn7DpaEdnNZfJPBIC9oD5ShfqH4AcF5GZc5EH2wGB0lYO5KutfzbeLTM1jQVR9fxAO6PUNLEwv3c9jxN/8Ac+FVG+1OjHDfET3TpnytgBox7juTMPHoUSh3aNlBdsLUrKwWh4o8zfpoAomF+86Vqa/0wOF0V6VruPR8wulvO8U0KtRjpq3h2Q18roTexpNrti9ih8x8rZk+veI2WOHfr92YXTiCGQEJXImvS+0oX2QCuOR0YftzBd9QRJ8EBTN83N+FBvZ4aW0l/cNLvpV/6zucO02dzpNfYXXuINUQhl9X5shcKMOqLKJB4omHPgzXC/gollWWQ=;vrfpbbfV4dGk5vhrHuM2Yg=="
 ---

@@ -85,15 +85,6 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 20
-  - title: "Technology helps self-driving cars learn from own memories"
-    excerpt: "Researchers at Cornell University have developed a way to help autonomous vehicles create “memories” of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
-    publishedDateTime: 2022-06-21T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/956596"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 6
   - title: "New Method Helps Self-Driving Cars Create ‘Memories’"
     excerpt: "A team of researchers at Cornell University has developed a new method enabling autonomous vehicles to create “memories” of previous experiences, which can then be used in future navigation. This will be especially useful when these self-driving cars can’t rely on sensors in bad weather environments."
     publishedDateTime: 2022-06-23T13:32:00Z

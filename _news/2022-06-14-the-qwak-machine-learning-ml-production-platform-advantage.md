@@ -1,30 +1,21 @@
 ---
 category: news
 title: "The Qwak Machine Learning (ML) Production Platform Advantage"
-excerpt: "While there are other machine learning (ML) production platforms such as Amazon SageMaker, Vertex AI from Google, MLflow, and IBM Watson, Qwak's state-of-the-art features are a cut above the rest."
-publishedDateTime: 2022-06-14T02:17:00Z
-originalUrl: "https://menafn.com/1104369050/The-Qwak-Machine-Learning-ML-Production-Platform-Advantage"
-webUrl: "https://menafn.com/1104369050/The-Qwak-Machine-Learning-ML-Production-Platform-Advantage"
+excerpt: "Businesses have recognized the latent power that lies in machine learning and AI technology. Consequently, they are investing heavily in ML and AI to gain a competitive edge in the new market. A BCG survey states that at least six out of ten businesses are developing algorithms and hiring data scientists in the ongoing machine learning and AI trend."
+publishedDateTime: 2022-06-14T00:03:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage"
 type: article
-quality: 56
-heat: 56
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?419407"
-    width: 443
-    height: 250
-    isCached: true
-
-secured: "2KQgOaVwIx7XMI6nMJ9/5tCMek8H0+E8JNtsu0IhP0cCuWzHLSyHFnyR1XkG8rf0dX61UMQHD6g4DIUjQjpEPVvayDEFeFIIUoEO2VlDt6onw2KjDCPveP+eK99EI5pKgrC/qSdyqJ4P0M4eIz4zaulEPmLHUqd5eLCiBHACNUX42xxmxY6/l3eDYvR/Ko2sRyqBNWgzrW9FMDGXkJGLzWbqpthr26U+wWpem/DI/oCcw7bsK5pnqC7nbiZ4OYi2Nk3cIN48AZW5ovHYYIF88b4SIVVj3Ctfd7PdpyM+vBgAMZNDmaZR8vSeDwuwOVCKFfct5PkePEPWE8cOHGS+uAQ2Qyrfswrx3XTY8a6K6tc=;cWFg0W/MJ7g1cl1ocb4f9Q=="
+secured: "xZrLcFZJ3IpJvn3MPA5E31G2uJmcrRKwcf5Of0mFaq08gmsQCZCJf1czLKu+XiZ1+yRHrPQgASPtojpj2nZ6YC8CpZvW0mH5K1tq/UTcWibBJnOHoxDeCLu+Ypjiy+OWDTMys4HEpHYhdnEJRsefjPWnEVP1D2ivDN1WClKdANJDgsEkJ/Sm5+LEtU+9rCAyAqQW0veWVgQdULVRSKdqNbEqlXoMPzXRQfw7uGyMHzvrEfXcoxTZ8U0KnHX0MsPB7gX1qvPZaMCFztKbXTemz0qey5c//h6GwkCLcLShLJI4GQXrXSrjSapqo2mRRt6QSeb68q0E5WkiQZqY+3Cq+k/js1ZNDln+S2/LNssL6+g=;SdXlMrmKIRX0Yusrn65F4w=="
 ---
 

@@ -34,6 +34,20 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 64
+  - title: "A huge AI breakthrough has been achieved by the creator of the world’s largest chip"
+    excerpt: "An AI model that was trained on a single device has beaten the previous record set by Cerebras Systems, which makes the world’s biggest processor. Cerebras can now train AI models with up to 20 billion parameters using a single CS-2 system powered by the company’s wafer-sized processor (WSE-2)."
+    publishedDateTime: 2022-06-22T18:00:00Z
+    webUrl: "https://bestgamingpro.com/a-huge-ai-breakthrough-has-been-achieved-by-the-creator-of-the-worlds-largest-chip/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 48
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/The-maker-of-the-worlds-largest-chip-has-made-a-major-AI-breakthrough.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Law-Makers Must Wake Up to the Threat of Artificial Intelligence"
     excerpt: "The European Union's Artificial Intelligence Act will allow the creeping increased use of AI by law enforcement agencies to continue, reports Catherine Connolly"
     publishedDateTime: 2022-06-21T13:23:00Z

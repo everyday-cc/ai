@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-17-how-an-nlp-pioneers-new-company-is-evolving-conversational-ai.md",
+      "title": "How an NLP pioneer’s new company is evolving conversational AI",
+      "excerpt": "Xembly aims to help business people to better organize and schedule their work lives, with an automated NLP-powered AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/",
+      "publishedDateTime": "2022-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
+      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
+      "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html",
+      "originalUrl": "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL.co.uk",
+        "domain": "aol.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases.md",
       "title": "How to scale machine learning inference for multi-tenant SaaS use cases",
       "excerpt": "This post is co-written with Sowmya Manusani, Sr. Staff Machine Learning Engineer at Zendesk Zendesk is a SaaS company that builds support, sales, and customer engagement software for everyone, with simplicity as the foundation. It thrives on making over 170,000 companies worldwide serve their hundreds",
@@ -1072,83 +1158,6 @@
       "provider": {
         "name": "Mobile World Live",
         "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots.md",
-      "title": "Acceleration Robotics Launch ROBOTCORE™ to Speed-up ROS 2 Robots",
-      "excerpt": "While providing a vendor-agnostic ROS-centric development flow, ROBOTCORE™ solves customer design challenges in robotic areas including sensing, perception, mapping, localization, motion control, low-level control or actuation, with speedups surpassing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
-      "originalUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
-      "publishedDateTime": "2022-06-16T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-teslas-driverless-cars-saw-most-crashes-in-past-year.md",
-      "title": "Tesla’s driverless cars saw most crashes in past year",
-      "excerpt": "US senators have raised the alarm about the high number of Tesla crashes. (AP pic) WASHINGTON: Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

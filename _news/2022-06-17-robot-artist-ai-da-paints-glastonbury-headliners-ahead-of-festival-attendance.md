@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance"
-excerpt: "Ai-DA Robot has painted portraits of this year’s Glastonbury headliners using AI technology (Shangri-La/PA) To start, Ai-Da Robot uses cameras in its eyes and its computer memory, before using a ..."
-publishedDateTime: 2022-06-16T23:18:00Z
-originalUrl: "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html"
-webUrl: "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html"
-ampWebUrl: "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html"
-cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html"
+excerpt: "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ..."
+publishedDateTime: 2022-06-16T23:13:00Z
+originalUrl: "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html"
+webUrl: "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html"
 type: article
 
 provider:
-  name: The Independent
-  domain: independent.co.uk
+  name: AOL.co.uk
+  domain: aol.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://static.independent.co.uk/2022/06/17/00/16193841-8b53a400-1035-4ce2-acfc-f70bd059404f.jpg?quality=75&width=1200&auto=webp"
-    width: 1200
-    height: 900
-    isCached: true
-
-secured: "zLSJMj4sahZzUDMlPelirM+AXfBQel6QpqcbZ0IxSxA2x0vGlRpjCErY2XDxiHnJfXbs3Nd2NT1xxLvm3bZikBmgE5cq5Vz+SnIVgO+IIYsYkqxovKHVe8EZrGdcTd/wnzNdqpna693hWUFxPUhr0BXuGz2FfMEv9uxM8f/lwQ6q2qxsqTnru+NUUSyh0lBQF9AZ4aA1FlcwJ4X6JUQZejv10eFpf0tRBsO82uK6IkU42szwUiwSiWzv0elGp1O7dtGAdxH1t0RKG8Q9UgWGtYs3CB4cv8Hmj9gqAn5Fv/og6cLGflkX8b4k0NIobajorKvpUOrvd9QHLdcVYRyyeV87oaTSUwLMck19F+yVq+M=;6Af8LabtZ0+bo3Tj7Ijk3w=="
+secured: "DhJbKoviMQ2dOqPrjAiMMm4sWDyXV96SPmuHlLHOAcXdZe1VqHr4FHz/r3Dvd8MrFrmuGLkWo8KiXzuWyvQDdHSfwsnezYFc2afSCx15IB9wXf9sAF/jZNpYy6hvwy/fTw4PN0bYIQ3Lzuw4WYtNCHpMqQAVW0STNlRtuaavW0dsl7ljI3Qb7Sd9weetb6VwORSIbddU+rsSqZLB1VXK00Voeqq4/T3gienKTP9254Cu+KUtfKCumjdtE0CYId22h7psJUWmTQmls5xdRP0QL/yaR6HkZQZA7fNjuSjnYHogosP+tOIr9KmAKKei2JFtawPIgBPzbwB8mmaqZhUHxy2N2qutjC12hTKn2nxT0XE=;IhFvdabA9qRIjPdGTkIfLQ=="
 ---
 

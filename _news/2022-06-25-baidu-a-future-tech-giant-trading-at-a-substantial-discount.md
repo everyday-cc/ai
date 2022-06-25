@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-25T15:29:00Z
 originalUrl: "https://seekingalpha.com/article/4520341-baidu-the-best-chinese-adr-to-invest-in"
 webUrl: "https://seekingalpha.com/article/4520341-baidu-the-best-chinese-adr-to-invest-in"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static.seekingalpha.com/uploads/2022/6/45540606_16554710152296_rId12.png"
@@ -24,6 +25,6 @@ images:
     height: 384
     isCached: true
 
-secured: "FNPCx4O4zbZb3pfNi+yd0Y86EJSXGNvaKMdRbBdiKOo+i8W81j+fj0TMJzZeSCXiuwaPu/h13qeZjnNWc6TJIbCg6ANrm7iFjcMd3sWdG2OYlhWYvAjPd8Ne9dtqQ13LbPoWASUmmSCORWzG+7P3RPoBgZtEjwLToYiqtEe2nH62o9esS+b5RorNGlenpwo11VRQ3laUQgL9xXvQ6GvcnI0RRzn1dtKog/59pZP+3Cr8Wt3BZyayEg60EIsCYu8FFLQ6E1MI9mAUBOF9hhimUXSn3oDwAMkdG31J6ptfVaCYaV6my10mR0B1bKvdprWseYZBkNMR93QdRo8D00XWc/delJNwbXCbP7U3ePKiGL8=;ILwEd7YUzQc16hWOlzJrig=="
+secured: "3rGmz7KzhOxs0dQUzhXb/IkV/FA9Sm9Tj6uzgUDYeSSseTSjat7mwiXnXmqT9ACSw8Y/lvG7ET84xxM9K16WXUqgg7qlA3tpQe41fu07QLNooODbjTtCNmnb45kL5IsCmQYz99GiKINXas6dt/bJ7eB6+zvmJp5k44ViiCwY6qB1gPZG8ntAY5kFwtOQ4LDU+irTB7WrXixB/fejgwG1ztUQ5wopOZwMvZrD8+tJjXHuoSG6evyJV2ToRbBuR+S0MpJErw9b57ZPo4f7zN9UEWyuFrKBMHXX33HWhWjdQmZWQSmrZKHw3fBCbi6AEFBSiRGBBxNFjGrLA3cVhfsBHfcBjN66CFhOsFVt0EA9QQdpFy77B+VwfM/TCwXeLNXbOfxLn3vT/7cPKk+REH5v/ldmt2ZoDVtC0tasm+bwkVO0apHbWvkfX0+a3CYyYehtFXWwE75+B0dcIh77NhRniXO57H7wGxzvjU4vOfHJ6BvdD+iGx0iKBuwpgpR5gyGnGntqmWORuNbIu411+YB9gQ==;sp/HHlALn/IK5JvDU0HkQw=="
 ---
 

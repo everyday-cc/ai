@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The role of AI in the People’s Liberation Army"
+    excerpt: "China is one of the leaders in military AI investment, but what progress has it made in developing truly autonomous platforms?"
+    publishedDateTime: 2022-06-24T11:24:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/the-role-of-ai-in-the-peoples-liberation-army/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 37
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/06/zhu-hai-yun.jpg"
+        width: 900
+        height: 675
+        isCached: true
   - title: "The 5th Industrial Revolution and Society 5"
     excerpt: "Similarly helpful is AI, which through computer control enables a robot to do tasks usually done by humans because ... and identify patterns and trends faster than the human mind.\" Improving these technologies is a testimony to the prowess of the human ..."
     publishedDateTime: 2022-06-22T14:37:00Z

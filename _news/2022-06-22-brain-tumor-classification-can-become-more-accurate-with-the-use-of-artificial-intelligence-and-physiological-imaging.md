@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Accurate diagnosis of brain tumors using artificial intelligence"
+    excerpt: "Artificial intelligence was found to be superior in the areas of accuracy, precision and misclassification, among others, while professionals performed better in sensitivity and specificity."
+    publishedDateTime: 2022-06-21T13:48:00Z
+    webUrl: "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/accurate-diagnosis-of.jpg"
+        width: 2880
+        height: 1347
+        isCached: true
   - title: "Diagnosing brain tumors using machine learning"
     excerpt: "The classification of brain tumors—and thus the choice of optimal treatment options—can become more accurate and precise through the use of artificial intelligence in combination with physiological imaging."
     publishedDateTime: 2022-06-24T17:29:00Z
