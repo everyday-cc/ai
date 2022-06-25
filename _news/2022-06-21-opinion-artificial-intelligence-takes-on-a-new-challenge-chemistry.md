@@ -1,45 +1,20 @@
 ---
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
-excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-publishedDateTime: 2022-06-21T14:00:00Z
-originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million ..."
+publishedDateTime: 2022-06-21T10:10:00Z
+originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
-    width: 1800
-    height: 1203
-    isCached: true
-
-related:
-  - title: "A celebrated AI has learned a new trick: How to do chemistry"
-    excerpt: "It can find a needle in a million haystacks of information and, using deep learning, it can learn from the data itself. AI is accelerating advances in gene hunting, medicine, drug design and the creation of organic compounds. Deep learning uses algorithms ..."
-    publishedDateTime: 2022-06-20T20:31:00Z
-    webUrl: "https://www.salon.com/2022/06/20/a-celebrated-ai-has-learned-a-new-trick-how-to-dochemistry_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 37
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/pipette-lab.jpg"
-        width: 1200
-        height: 810
-        isCached: true
-
-secured: "kA6yZff0d9Ol0kJ9dEzzMyhh+O7JoCLbbkunaQrxzYsSfjWovg/L4Npa0DxJqWZC8DkkElybwDHEO9w4j7cAvPAA/GS2ncOVT+NZMOED1O0Ko0qCoAXQXgGHWmwhGLrwbjnO71oH9ZjEvQAsLrk5wt1FDgF78JvncGuVxsSH4gnVKv5Huw56zd3qtLghXggB8HotbvXocUNehYQoVm3xQ9m+07sD/fp8a2HSgAXyiRGAz/W5A2a0yn6oKRWilCLE7m3dig4Jfit232SnvZh2uY8UDpr2aUdK0XJVy99fOoBXks3RRUcg0z8HCiqi47V9n64xfGSQPnHZdd4jnq5O5VuOQuBmtucOadV2K9gw7v6z8bNO31ECTbVJNPSQsV9h8mRJk3qEd0A20Q8MLPEQQHVHSUrLc3B1d9UtFdnGLcEZjz1O5/exDjE6YB71MpqNrC+FgXqKK3qdLrIlcgoDGs/2tMuOcmDKLy04t27UIXfc2MreJyQjORqbdDneSkhmX8DfikDT+GSpU99+hAy90A==;SOrUmsTMbzowgkdVRlvjVQ=="
+secured: "jpLiAJxFBFWWv1uxcJSn7RJljYD4goVebksdGOTi+NOsbC6R8sj5VT7VT/ICVCB3u4FQyx2BT3E6sTL+l9Mw/HtbM4raD2DJo3BawnObIL7FtLTF205IKNcnf6vxtr39Mry+tUeGToq2mh13yu4SgvaWmmqX/dh0L35PrH7i13soEVxce8htBR0tbSdarQxNy8T47DcPJyK8GYf+k+pdABK64++Mq3sGBfxuMHGrxGwxEpmlFCop5F6xYgJJU7xIAy9KqBbcYyx3myyJY50n2OO+JE1vz+7GGS4ByNAWNBpCd93d1wZxZAh+4jnxvUut63b+C/6l/UQLzuCUNGm2iSiqirbzq6f5/igZ/9gddDA=;cEY3j8iNxg2piBXJlWZo9w=="
 ---
 

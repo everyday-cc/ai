@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
-excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,"
-publishedDateTime: 2022-06-16T12:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm"
+excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ..."
+publishedDateTime: 2022-06-16T08:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Q7ZnYkJt1roeGRHl8qZNQAShYTtf5X1P4arOUm+KKzC9f+pmxufMcUnfwKJ4k7pSzeoBzQRBthCocj4JtsF2/aUMSDcmkpDS+8eWIyMFrz6i+Z4xxj7Qg82abZ9HAPbAgpy0H/OtFbA62JWovFY5pz9omTtOWGNkVZg6qZh0HnQRFjcY/8lquYnr/uzAeihfwH4S7TM7xJND3u8luIFzh9E52oioaw0TTnFwdKu2hjvUHYZvQRI58YUx5pqUQlQrY7zUKPxh9drGC10tqHsOvAGH9gOTPHxPlHKSBBTUovAHzVAmEAFSfQGYTb+XHbSWJOVpcD8chnPX+ooxnelIjzfn+4/cmPyGbyKbFQz2b8A=;8ldeODMiZcVlDuXQzzU/hg=="
+secured: "P0C3A/vIWX6/H6FwcW1qUoyeMomGfQPAzRII4Zbtj4p00DZvtLQjD6QVXBdRoNkrmjzkF2nf+DdV+puM3Dcn9OnL7EPBJaYPbCaxLTWE5+2vfir81Ia1lBjPzITIQHvDZqrmPB/Au5s/3YdN1w+6yzr9wV3/Ztf+gaFOznjNasvMnTtfEPxLisJHqx+KrKaqos/pDTPn528wBul/lE76z1plXiOUl+Iuxk1jkhTB6MMY9ha2RDppktVvgw0tIfQCSwyRJI94wnpOBN0G9wRBmN3ScE5vBZ7WWnMssgZv9M0J2jU9iXTZJoHatlzzvfLuHCZI/EI5kaSlGjwA+Q20+QbsjTEYFyj4fYVOGesxG+c=;zDNhVGNCvXHgXonR+Z4ZWQ=="
 ---
 
