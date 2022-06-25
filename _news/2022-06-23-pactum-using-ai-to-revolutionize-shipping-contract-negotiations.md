@@ -42,15 +42,6 @@ related:
         width: 753
         height: 502
         isCached: true
-  - title: "How AI helps improve the workforce"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-06-20T13:40:00Z
-    webUrl: "https://venturebeat.com/2022/06/20/how-ai-helps-improve-the-workforce/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
     excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"
     publishedDateTime: 2022-06-23T06:30:00Z

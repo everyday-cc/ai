@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intellige
 ampWebUrl: "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//62b03e9a7db151884b3b268d/0x0.jpg?format=jpg&width=1200"

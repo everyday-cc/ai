@@ -92,7 +92,7 @@
       "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -132,7 +132,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -197,7 +198,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -251,7 +252,7 @@
       "originalUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -291,7 +292,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {

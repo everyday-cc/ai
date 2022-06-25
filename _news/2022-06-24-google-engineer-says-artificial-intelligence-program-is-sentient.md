@@ -1,44 +1,32 @@
 ---
 category: news
-title: "Sentient? Google LaMDA feels like a typical chatbot"
-excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document in which he urged Google to consider that one of its deep learning AI programs, LaMDA, might be \"sentient.\" Google replied by officially denying the likelihood of sentience in the program,"
-publishedDateTime: 2022-06-21T16:54:00Z
-originalUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
-webUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+title: "Google engineer says artificial intelligence program is sentient"
+excerpt: "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself."
+publishedDateTime: 2022-06-24T12:09:00Z
+originalUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
+webUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
+ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
+cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 59
+heat: 119
+published: true
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NewsNation
+  domain: newsnationnow.com
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
+images:
+  - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
+    width: 509
+    height: 339
+    isCached: true
+
 related:
-  - title: "Google engineer says artificial intelligence program is sentient"
-    excerpt: "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself."
-    publishedDateTime: 2022-06-24T12:09:00Z
-    webUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
-    ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
-    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
-    type: article
-    provider:
-      name: NewsNation
-      domain: newsnationnow.com
-    quality: 59
-    images:
-      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
-        width: 509
-        height: 339
-        isCached: true
   - title: "Sentient AI claims could be just a start"
     excerpt: "The claim that intelligent computers could develop a mind of their own has long been rejected by those in the know as nothing but fictional. Stanley Kubrick's film, 2001 A Space Odyssey, portrayed such a scenario in 1958,"
     publishedDateTime: 2022-06-23T06:30:00Z
@@ -101,6 +89,15 @@ related:
         width: 600
         height: 398
         isCached: true
+  - title: "Sentient? Google LaMDA feels like a typical chatbot"
+    excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document in which he urged Google to consider that one of its deep learning AI programs, LaMDA, might be \"sentient.\" Google replied by officially denying the likelihood of sentience in the program,"
+    publishedDateTime: 2022-06-21T16:54:00Z
+    webUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 34
   - title: "AI Is Not Sentient Yet. But That Doesn’t Mean It’s Not Useful in the Enterprise"
     excerpt: "Have large language models finally crossed the chasm and become self-aware? A Google researcher recently shocked the world by declaring that Google’s"
     publishedDateTime: 2022-06-20T19:59:00Z
@@ -116,6 +113,6 @@ related:
         height: 750
         isCached: true
 
-secured: "2VwhLYs9BBQWlYcAvjzAFpEp+U3r3VeFNs5/Ii6DmnycvMw1JSg3/H33wI5ZzYnffjeoHMgY8LH2ys6XeSSWTKY8YXFDVcSi/Zw8cRcjxejC2DZXE2m8pVuPPXJHygPZ7lsjaNzROP6MrOCLCVbRfJShFZxB1crQALCS9rxmGy516ShjfwDU5F4UOtWfAcbCywvlZRmcnaC9T5u4QcgXDu0r1AzhgzOINrkmsBLtNoczh4E3XBmPCFSNAqh5oFio6Vlcm7+XIsGPgxEe9xGh+9R4jkOfb8upICfBTTZbzbVNGwF279qX8HhINRGOiJf3xxioeQq7TPj+j9rPSwKZxRQ/YSc6rvaoSJUlXGcaGzh5OUBr5uHX7PCYpnW/L0EhVHCKojpAOGpKtXjopgpIw6LJp662AZ+Upjm9rJbm8i2gvBKxRq5itC86OSmsEtKRMxRUIH7BKxDlljlB09G2aEe8te597r33BFnJSqJ18b0CtlY5o8Etl/YDrpA4QxEYIu0tPa1Axfw2vJHBbSJYzg==;VC3s8EqKvH81GqgqpTKHTQ=="
+secured: "u/PxX6HnlGq2Z9roXXRioXVKPgofup2RrZ7Y6RVMFUwRup6AbbkFSQvn38eEv+pDQjKyZ5E/wJbnR0Eecva2bxm6lvY6riH0YhFRkDcfZsC8M+gBZcNF3ulpjumlfaSOeSwblkfsyyGQyCu9zFHkIEORq9ImnRkmK0+oL1hFoNIBTofiBqjKhXfcdbnhForWFFTlJfn6os2tI7MI6shIg7Ey+NLofcAQ1OExBmj8KdCITqFLUCaWz27Yxk9OAO2ffymrZXwKNTVTN7saH3hkv8I+Ke7kwuxghth2ZSp3/tScdbQ6sI2HOyoBPoTKBzUCN/x1N8EPY7QeXDRvcRxHCofDrOrmyqGdfCqQo0PGMHA=;7Wl5cZMGAtadMXeotNR5Kg=="
 ---
 

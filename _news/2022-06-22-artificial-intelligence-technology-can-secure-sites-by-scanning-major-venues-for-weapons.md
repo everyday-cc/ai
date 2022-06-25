@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-
 ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d262911-3051-4d40-81af-4cb803967068/6b65f27f-d026-4d2f-91f7-2215ce60715e/1280x720/match/1200/675/image.jpg?ve=1&tl=1"

@@ -188,6 +188,59 @@
       ]
     },
     {
+      "path": "_news/2022-06-22-artificial-intelligence-technology-can-secure-sites-by-scanning-major-venues-for-weapons.md",
+      "title": "Artificial intelligence technology can secure sites by scanning major venues for weapons",
+      "excerpt": "Artificial intelligence, or AI, is being used to help secure sites from sports arenas to churches and schools. The technology is being used to scan for weapons, including guns, knives and explosives as people walk between standing panels. If a weapon is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d262911-3051-4d40-81af-4cb803967068/6b65f27f-d026-4d2f-91f7-2215ce60715e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp",
+      "publishedDateTime": "2022-06-21T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-artificial-intelligence-will-help-autodesk-expand-in-the-metaverse.md",
       "title": "Artificial intelligence will help Autodesk expand in the metaverse",
       "excerpt": "“A common theme is helping the designer,” said Tonya Custis, director of artificial intelligence research at Autodesk, whose team includes fifteen AI research scientists based in San ...",
@@ -238,6 +291,59 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-artificial-intelligence-could-be-about-to-change-soccer-player-scouting.md",
+      "title": "Artificial Intelligence Could Be About To Change Soccer Player Scouting",
+      "excerpt": "Chelsea are among the clubs using a phone app based on AI to help them scout players. The app allows scouts to compare amateurs' ability with the benchmarks set by the clubs' own players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
+      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b03e9a7db151884b3b268d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
+      "publishedDateTime": "2022-06-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -1272,102 +1378,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
-      "title": "The Artificial Intelligence We Fear Is Our Own",
-      "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
-      "originalUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv.md",
-      "title": "Self Driving Cars Market to Witness Massive Growth from 2022 to 2030 | Audi AG, Stomach muscle Volvo, Aptiv",
-      "excerpt": "Central members working in the worldwide self-driving car market incorporate Audi AG, Stomach muscle Volvo, Aptiv, BMW AG, Baidu, Mainland AG, Apple Inc., Mainland AG, DiDi Chuxing, Daimler AG ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv",
-      "originalUrl": "https://www.digitaljournal.com/pr/self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

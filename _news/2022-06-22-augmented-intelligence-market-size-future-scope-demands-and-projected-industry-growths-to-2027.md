@@ -45,15 +45,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "AI Platforms Software Market Size and Growth 2022 Research Analysis by Product Types, Applications, Recent Development and Forecast to 2028"
-    excerpt: "Jun 20, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market” forecast 2022-2028 report study gives comprehensive coverage of the market across different market ..."
-    publishedDateTime: 2022-06-20T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-growth-2022-research-analysis-by-product-types-applications-recent-development-and-forecast-to-2028-2022-06-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
 
 secured: "yiOfZzqHcZuV48BViCYQoWyDjcbo/VqPCIJUT9G2DLu08145r5jAcFtx2ItPjQ7BTZYBbI6kHNSPyni/J2LY5sAnteCmrFolV/SNuOs3pK2PuZ80EmGY4dOyCFK6CBhB0IBOyR7RNC1sdXg9SWUkFv9t1ALSFsd9KpI2MOccTO6zFp23FjsIHiqrXDDF845R4WmwnijwRl1/8qEgLtE5c05RXYMjoU+ceogWSYBdoDdTE612I8cE3QGHOkLN3MuQznqw09535UMCi5Ee37cWndJGtlD8jc6033YAxBTk/H6Rf3GD+1Z+s1agcDl54xz/AqdAb+ZFxC+qR+rnW7FsQpaDm3IzdRduSwlcjM4HzGY=;CNFKt1q5PTwprSiwfdZgBw=="
 ---

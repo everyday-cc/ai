@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-06-personalized-artificial-intellig
 ampWebUrl: "https://medicalxpress.com/news/2022-06-personalized-artificial-intelligence-individuals-well-being.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-personalized-artificial-intelligence-individuals-well-being.amp"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/personalized-maps-crea.jpg"

@@ -2,50 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2022-06-07-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1.md",
-      "title": "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1",
-      "excerpt": "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) ('AMPD' or the 'Company'), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272577578/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272577578/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1655614273766.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-06-07-do-ai-systems-really-have-their-own-secret-language.md",
       "title": "Do AI systems really have their own secret language?",
       "excerpt": "Snoswell is a post-doctoral research fellow in Computational Law & AI Accountability at Queensland ... You may recall the hullabaloo in 2017 over some Facebook chat-bots that “invented their ...",
@@ -1131,6 +1087,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-stem-toys-that-promote-cognitive-skills-critical-thinking.md",
+      "title": "STEM toys that promote cognitive skills, critical thinking",
+      "excerpt": "Toy expert and speech-language pathologist, Erika Cardamone, joins Real Milwaukee from PlayOnWords.com to share awesome STEM Toys that promote cognitive skills, problem-solving, and critical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills",
+      "originalUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills.amp",
+      "cdnAmpWebUrl": "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/stem-toys-that-promote-cognitive-skills.amp",
+      "publishedDateTime": "2022-06-06T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX6 Milwaukee",
+        "domain": "fox6now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

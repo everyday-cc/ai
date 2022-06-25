@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/24/for-shell-ai-and-data-is-as-criti
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/for-shell-ai-and-data-is-as-critical-as-oil/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "State of denial and the power of AI"
-    excerpt: "The fact that a majority of denied claims are preventable is only one aspect of a much deeper problem. Reworking claims take time, money, and resources. But here's how resource-strapped providers can leverage artificial intelligence to reimagine claims management."
-    publishedDateTime: 2022-06-21T05:00:00Z
-    webUrl: "https://medcitynews.com/2022/06/state-of-denial-and-the-power-of-ai/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/wp-content/themes/medcitynews/images/logo-1000x1000.png"
-        width: 872
-        height: 916
-        isCached: true
 
 secured: "UMYbQmNtNyk4qp25kEw1F6Hp1l0Nq+F8zyZJNmWo0y7w3SDfXJUn4WOJeNRFNNbb7HMGAXc3VfFLtAfw7tdMDWMXl9KAU1NwLdnGwefvs/FwoB7FPUbW23Kjbia4uoSAiS3ninO2zfbRCw2fHNnUiZ43bTkgB/whQxbxTaPYGT64ZHe1Os7Cg6Gqcs46n7sJnRoMs+cp4UH2gCjfJYu6+xPiohjfOhF4uS2fZvV62Pis5w0VpxMsS+EDtyO3S4yScmFQqcFY3f/AbCxmTqy1PalgoFMaClKobAbkMfY5EGvH/ClMORvsSgqDaO7psVjEiafuTOx6qREguYu42azexvDWy3T0sYSamM+dJ0SSbJv2g1lWyb0+V3QuW2fkAnH1OWxBxzRLnENd3ASflvNjCP/9paNlpJfPO0S1y1srVtWrfz1dUIDku78HyicO4RBQp5P3YfmcAF7QL+E3gizNxLID7rHqFZVifDOpvona4CxAxS5BXnWnFgixMxA4tvG3wy6WP647RTUkxBmKGQZ+HA==;wULwFPd6X3iDw33Gxhx3Bw=="
 ---

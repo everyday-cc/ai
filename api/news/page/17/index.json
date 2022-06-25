@@ -2,58 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2022-06-09-fintech-integration-and-the-unique-value-of-cxm.md",
-      "title": "Fintech Integration And The Unique Value Of CXM",
-      "excerpt": "Done right, CXM functions as a framework for managing tasks, goals, obligations and outcomes across an enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a0a99bcd45e6dbcf39aea1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/",
-      "publishedDateTime": "2022-06-09T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-09-teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.md",
       "title": "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker",
       "excerpt": "Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics platform with Amazon SageMaker, the industry’s most complete ...",
@@ -1113,6 +1061,51 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.md",
+      "title": "Why healthcare organizations select Amazon Web Services over Google, Microsoft",
+      "excerpt": "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
+      "originalUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png",
+          "width": 460,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
       ]
     }
   ],

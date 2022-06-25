@@ -513,48 +513,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-23-sentient-ai-claims-could-be-just-a-start.md",
-      "title": "Sentient AI claims could be just a start",
-      "excerpt": "The claim that intelligent computers could develop a mind of their own has long been rejected by those in the know as nothing but fictional. Stanley Kubrick's film, 2001 A Space Odyssey, portrayed such a scenario in 1958,",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642",
-      "originalUrl": "https://english.mathrubhumi.com/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/image/contentid/policy:1.7629660:1655966869/google.jpg?$p=2230905&f=16x9&w=1080&q=0.8",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/amp/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642",
-      "publishedDateTime": "2022-06-22T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-23-cathie-wood-adds-329000-more-of-this-self-driving-trucking-firm.md",
       "title": "Cathie Wood Adds $329,000 More Of This Self-Driving Trucking Firm",
       "excerpt": "Cathie Wood-led Ark Investment Management on Wednesday scooped up more shares in self-driving trucking company TuSimple Holdings Inc (NASDAQ: TSP), its second straight buy in the San Diego, California-based startup in over two months.",
@@ -1042,57 +1000,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-22-ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers.md",
-      "title": "IKEA rolls out an AI-powered interactive design experience for shoppers",
-      "excerpt": "IKEA is launching a new AI-driven interactive design experience called IKEA Kreativ for IKEA.com and the IKEA app. With the new feature, U.S. customers can design and visualize their own living spaces with digitalized furniture on their smartphones instead of traveling to the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/",
-      "originalUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-13-at-4.35.24-PM.png?w=1024",
-          "width": 1024,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/",
-      "publishedDateTime": "2022-06-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-22-ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare.md",
       "title": "AI: The Somnium Files nirvanA Initiative is a bizarre anime nightmare",
       "excerpt": "Depending on the person, it begins as either the most exciting or most horrifying episode of \"Jeopardy!\" ever made.",
@@ -1185,6 +1092,110 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-aws-beefs-up-contact-center-solution-with-new-ai-capabilities.md",
+      "title": "AWS beefs up contact center solution with new AI capabilities",
+      "excerpt": "AWS promised to be different and use artificial intelligence (AI) to take contact centers in an entirely different direction. Initially, some were skeptical a new vendor could have success ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "originalUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1248443439.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "publishedDateTime": "2022-06-22T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-why-growing-organizations-should-consider-voice-ai.md",
+      "title": "Why Growing Organizations Should Consider Voice AI",
+      "excerpt": "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab34a06f0d8f09215433de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/",
+      "publishedDateTime": "2022-06-22T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

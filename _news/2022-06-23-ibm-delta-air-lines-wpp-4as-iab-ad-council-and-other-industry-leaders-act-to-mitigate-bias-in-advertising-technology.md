@@ -20,20 +20,6 @@ topics:
 
 related:
   - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
-    excerpt: "IBM Delivers Open Source Toolkit to Identify and Mitigate Bias in Advertising TechnologyCANNES, France, June 20, 2022 /PRNewswire/ -- Today,"
-    publishedDateTime: 2022-06-20T14:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-delta-air-lines-wpp-4a-s-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology-1031538207"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
-  - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
     excerpt: "To learn more about IBM Watson Advertising solutions and services ... About IBM IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 ..."
     publishedDateTime: 2022-06-21T19:37:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262271&cat=PR News Wire"

@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-06-15-post-doctoral-fellow-in-artificial-intelligence-and-deep-learning.md",
-      "title": "Post-doctoral Fellow in Artificial Intelligence and Deep Learning",
-      "excerpt": "Applications are invited for appointment as Post-doctoral Fellow in Artificial Intelligence and Deep Learning in the Department of Medicine, School of Clinical Medicine (Ref.: 515364), to commence as soon as possible for 18 months, with the possibility of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/unijobs/minisites/the-university-of-hong-kong/listing/297298/post-doctoral-fellow-in-artificial-intelligence-and-deep-learning/",
-      "originalUrl": "https://www.timeshighereducation.com/unijobs/minisites/the-university-of-hong-kong/listing/297298/post-doctoral-fellow-in-artificial-intelligence-and-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/unijobs/getasset/bc5dd9e5-9997-4192-be9a-89c18e0171a9/;w=600;h=315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-15-montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology.md",
       "title": "Montana legislative committee debates proposed restrictions for facial recognition technology",
       "excerpt": "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be.",
@@ -1118,6 +1075,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc.md",
+      "title": "Artificial Intelligence in Precision Medicine Market Likely to Boost Future Growth by 2030 | Intel AI, IBM, GE Healthcare, etc.",
+      "excerpt": "The key vendors in the Global Artificial Intelligence in Precision Medicine Market include Intel AI, IBM, GE Healthcare, Thermo Fisher Scientific, Qiagen, Berg Health, Medasense Biometrics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

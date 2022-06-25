@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/24/for-shell-ai-and-data-is-as-critical-as-oil/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -565,6 +565,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-24-google-engineer-says-artificial-intelligence-program-is-sentient.md",
+      "title": "Google engineer says artificial intelligence program is sentient",
+      "excerpt": "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/",
+      "originalUrl": "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280",
+          "width": 509,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/",
+      "cdnAmpWebUrl": "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/",
+      "publishedDateTime": "2022-06-24T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NewsNation",
+        "domain": "newsnationnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-ai-writing-assistants-are-they-worth-using-in-2022.md",
       "title": "AI Writing Assistants: Are They Worth Using In 2022?",
       "excerpt": "AI assistants can assist copywriters by providing writing prompts, offering suggestions, identifying trends and checking for plagiarism.",
@@ -707,49 +750,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-a-google-engineer-says-ai-has-become-sentient-what-does-that-actually-mean.md",
-      "title": "A Google engineer says AI has become sentient. What does that actually mean?",
-      "excerpt": "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068",
-      "originalUrl": "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6498068",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068",
-      "publishedDateTime": "2022-06-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },

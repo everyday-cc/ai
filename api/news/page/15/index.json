@@ -2,40 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2022-06-10-global-healthcare-artificial-intelligence-market.md",
-      "title": "Global Healthcare Artificial Intelligence Market...",
-      "excerpt": "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27643706/global-healthcare-artificial-intelligence-market-analysis-report-2022-with-use-cases-from-clara-ma",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27643706/global-healthcare-artificial-intelligence-market-analysis-report-2022-with-use-cases-from-clara-ma",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27643706",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27643706",
-      "publishedDateTime": "2022-06-10T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-10-machine-learning-bella-italia-trials-use-of-robot-waiters.md",
       "title": "Machine learning: Bella Italia trials use of robot waiters",
       "excerpt": "The group behind restaurant brands Las Iguanas, Bella Italia and Café Rouge is trialling the use of robots at one of its venues.",
@@ -1086,6 +1052,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids.md",
+      "title": "How eMagazines utilizes Amazon Polly to voice articles for school-aged kids",
+      "excerpt": "This is a guest post by Andrew Degenholtz, CEO and Founder of eMagazines, the parent company of ReadAlong.ai. eMagazines’ technology seamlessly transforms print products into premium digital and audio experiences. Leveraging Amazon technology, ReadAlong.ai offers a simple, turn-key way for publishers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/emagazines-polly.jpg",
+          "width": 1247,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T14:39:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],
