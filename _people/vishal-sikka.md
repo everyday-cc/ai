@@ -12,7 +12,7 @@ affiliation:
 twitter:
   username: vsikka
   url: https://twitter.com/vsikka
-  followers: 241190
+  followers: 241191
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Vishal_Sikka
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Vishal Sikka"
 
-secured: "SzEYvIXWTOTLSQW1TcTicyk7CwS4WlO2jpHcf+tfenOWttPLcgO7kNqEOt7wVzZPoCH1Bg0UT543MKg++4V+TXuHD5i6sTvEYEW8YtkwZLMqjQleGJ75V6tTziL8MMwgyC+9MsJpcXmf7ihl5xyKjhpSXFs8+GwAW/YHVYhuKDDNhEw6WzN7DF6VYImhwaofPWRz9b20bZxyWtdBIgQjiU9RaO6uqdwAHdXEmG2dSFs+uEj5s41dDgBCXOBibSPzQTEM/v4mxe4qlzBR4jud2lDKHLrx+cNWivHIMYFRiik0d44a0gwhJSCdNMFLxTpWv6Vw59kvjxXedtTc4gdSrZAuticcroqcsth1CGD0A3s/ztl/olXOUzlEipxIT2lQ3t7ioI0w8KfsBXkcsADNVfx4Hcaf5Ye67/ClwhSbXqA=;8+QvjruK3Sf+si9i3RwRrA=="
+secured: "gOF7OKvvGpE1nc+PHhKgGReoyJFzOgqfu0dv8z9hxQe4cKgZ1wv6cWI8jT0loG+xzLE/we5uw4M2lE211XR1k0WOUAkMvSu3WKtnhAARrnrqxMry8SJb4WCSK1IMYeK5S1pqE+WtE9MrQFfw1o5vPQITXzAV4cCXli0ODrkhsvm7CZUQd7A124Eqcn6XD1uMBwYtbwqp++/rU0AGDZgJLUuuhzTnXx31yTmYuUkQRHVMGoMa/3vFw0rR7EbOxYdnqlqiQDuuWl0MUI6NXTpEqaRI2TE7xmiPN1J2/lZfgp8FMVBkvaVmfGgBnrzOtIB4nDj7Mficymccv2FIaVD1j5ka0so61CqVJ3RYlCU97lKYLbszI31TK4W8c5kLXJebImfGIaFEx7yoctlCK28QYAd6pjE4GmziKhg22tkzR8A=;91AfBaWPB49AsY3QBgVeLA=="
 ---
 
