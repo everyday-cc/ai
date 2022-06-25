@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is quietly revolutionizing the back office"
+    excerpt: "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control."
+    publishedDateTime: 2022-06-24T22:05:00Z
+    webUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/"
+    ampWebUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "Engineers build artificial intelligence chip"
     excerpt: "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ..."
     publishedDateTime: 2022-06-21T17:01:00Z

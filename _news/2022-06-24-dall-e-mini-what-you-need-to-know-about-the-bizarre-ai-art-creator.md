@@ -3,8 +3,8 @@ category: news
 title: "Dall-E Mini: What You Need to Know About the Bizarre AI Art Creator"
 excerpt: "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,"
 publishedDateTime: 2022-06-23T22:26:00Z
-originalUrl: "https://www.cnet.com/culture/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/"
-webUrl: "https://www.cnet.com/culture/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/"
+originalUrl: "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/"
+webUrl: "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/"
 ampWebUrl: "https://www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/"
 type: article
@@ -93,6 +93,6 @@ related:
         height: 800
         isCached: true
 
-secured: "8m2E7zL3qUXh569n+yDw/g7iY+pNSSTulGAbFlZVymQZVi85h60L7mZcpqGl4RTaChDtlxXhjeSm+GwMrRQf1oNL39tyGk1qIE++oCf3ep1w2UTUhThUgIIxYiK5V0GigPjKShLii91R/0mlhizmiyy9ehEXKrcVeV6b5LwfZPCTL+dFuYnPvhWTxwWKEm80Ro2Uhg2oEh3oXwB6a//PXK0Bfuqm7aAYDYTzTmgK9CC0gIJmd3pX0BOx4IACswIhODHBphkE0rlZByDxYU7zKkcxYvAlRI3PNR3mQiM1LJtechyR5tHE1XbQBOsv2X+1v6tn3YimU9dbhl7rsaTtvd4sm7ZdHY7FtvNFaahvQWiyWxl0bHeCToLRXHnKjKshuAY8Ux78n50JiWOYWD8ax7RtH1ZNOFbkOgneJS6GGKNmRtRgvDZBZQcvqhG0Eoh5GCuveMT/nQZuAdWbdSj+8uPWBHVARyXZnpOcS46le1X8ltb9Mq9W6R5YE+BMsQiUGGElh1BpwoD/ewLOn0UVFw==;jjNMC1gXWup0/ENA66PXZw=="
+secured: "mZHBR6z1OwQgpONTF/7mK0hMLo5QMZNRAqdIp73caGbuNa1+OS28BBoFrnFiD6dJglpc47LBR3BacBX1KuNulii8+G5KK4oFfFriG8A8IB39TLdLt4wFKNcvrgtWaJxR8QZVBnxUCZhv1HcrvkzDjMmPz+RrIC+G1r4VNLhERf3rsYu2kkRTc4Pe/YZcK13c/XOKDTRU05fmBQFBEwbViRLdTRVoiuY3jzle40ORykb8jXXbhQCT5diaPvjCdSJpslbm2wvZjCx0AD+XUhh94GaCGWv/sLpcFPP9DbqeS/FcvI52qd8rTWpZSLknT7tonbRzXNS+mHEpHF9fX4IZ9anlitFzrBSF0ee9mNYlcVM=;fT8PDPeNk811DktB4qbG2w=="
 ---
 

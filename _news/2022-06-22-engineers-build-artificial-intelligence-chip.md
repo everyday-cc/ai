@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI is quietly revolutionizing the back office"
+    excerpt: "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control."
+    publishedDateTime: 2022-06-24T22:05:00Z
+    webUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/"
+    ampWebUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "How AI is used for data access governance"
     excerpt: "According to the 2021 Data Risk Report Financial Services, a financial services employee has access to 13 percent of the company’s total files on an average. Meaning, employees can modify over half a million files,"
     publishedDateTime: 2022-06-20T12:30:00Z

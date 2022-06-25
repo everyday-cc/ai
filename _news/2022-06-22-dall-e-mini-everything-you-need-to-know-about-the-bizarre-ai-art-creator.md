@@ -49,7 +49,7 @@ related:
   - title: "Dall-E Mini: What You Need to Know About the Bizarre AI Art Creator"
     excerpt: "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,"
     publishedDateTime: 2022-06-23T22:26:00Z
-    webUrl: "https://www.cnet.com/culture/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/"
+    webUrl: "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/"
     ampWebUrl: "https://www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/"
     cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/"
     type: article

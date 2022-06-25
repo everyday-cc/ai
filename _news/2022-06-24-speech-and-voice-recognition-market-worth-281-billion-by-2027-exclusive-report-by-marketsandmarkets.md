@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The key factors contributing to the growth of the speech and voice recognition market include increasing demand in healthcare for improving efficiency and the growing use of smart appliances are among the factors driving the growth of the speech and voice recognition market."
-publishedDateTime: 2022-06-24T14:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm"
+excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
+publishedDateTime: 2022-06-24T13:31:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
+    isCached: true
 
 related:
   - title: "AI Won’t Replace Marketers—It Will Make Them More Valuable"
@@ -29,6 +35,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "sKpK6s3xu0Ey+rAelxuCkbGyU27GWTi1CITFejn4iXR+Tyn2YZGsprKgB2/cjnAdyBp9QI+LgrzJgTAqZqgXnw1FSrU5PV85RtBWGdjSbxZH/TOF44ak40ldaew++OclfiNnE+FvDhwbuTFvNA0Ya2F1vCV6allTHf/Cg4p0N6J0XzvrmcKsNXi2GYbIOWEdkaRejNUdkvsdFMgrtyG9atM8VwSIOcAcHJUsEaucfjQrahtfQBeUvzWcodi+AkXgbf4Ft/Nt4EbTjT+6Cfk5xniSTzsrOFyh07oD9V1nifLv/R3rZkZSus/ztGDAru5rrgHCCiI4D676UuXt/osSqwLhTYQ7Lxd9uEo2RK32xoj4tO3i4jCjoPKdyBix2hSQWEloBIFpHfyuwdiMDqFwRMTonxOlpk968Ds8tnKCNlD6UGbc1fV66JRE3k0TAABeYmYJSQCxxZF0zIK2JdCfqvkwJ6vgHkS5IPYABZwIF+r8qUA46wKNcZk/vrIhRN5erGlktZRoY8AZnCiTdpCsPg==;f0On5/7GQKeSThV1OSwHDg=="
+secured: "mphPUaG4087xGeijF+4v+7Xo3DZS7vzfgDH6NQXFD+Jag9kCJc+Ez5uXdXeqUV24pbnU2XxZ9g6YdJYvSiJyj9yXmgGLksF7hwAupZ4kV6CckDowCcx6uDKuy27F9bzTsPwJAf2tB1WOkQmNXohkq7hGBMKwS1dNeTQF0ohFz71WFiZgjP8xwOduUo26dTU5oZ5T1MUPSnoWKKERH/1Rpca5Lu7aESgSgnf7enGR6GlzPluMuSASzc4skVVJylg0NGSqF93SKq4giiWVMRYoziiNCn6Aqm8wnpsvbHdmFnv2WU/i+D/Tmm3KS5sC04R1JIcVITRNs4Nw7dqRRUH/DSLXe4UmJ0Eiwtp/lEaM3wg=;LPUbSP5jmkBiuPA8tbNIbQ=="
 ---
 

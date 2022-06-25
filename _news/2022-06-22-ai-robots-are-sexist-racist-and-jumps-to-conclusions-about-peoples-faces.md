@@ -103,6 +103,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Flawed AI makes robots racist, sexist"
+    excerpt: "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases."
+    publishedDateTime: 2022-06-24T22:46:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/957065"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7667c6ad-9eb3-4059-bf6d-ab9842d2fbc4/Rendition/low-res/Content/Public"
+        width: 700
+        height: 420
+        isCached: true
   - title: "Internet Data Produces a Racist, Sexist Robot"
     excerpt: "Artificial Intelligence Workforce A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples’ jobs after a glance at ..."
     publishedDateTime: 2022-06-22T12:57:00Z

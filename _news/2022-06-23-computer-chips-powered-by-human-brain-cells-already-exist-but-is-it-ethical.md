@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/computer-chips-powered-by-human-brain-
 webUrl: "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical"
 type: article
 quality: 97
-heat: 99
+heat: 97
 published: true
 
 provider:

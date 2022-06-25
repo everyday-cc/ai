@@ -62,15 +62,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 13
-  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2022-06-20T06:36:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/20/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 9
 
 secured: "ufbop+wNoD6EXF9cWZw/TDyeukzky2/4/JdX71TmWqQDJN+mnil6+Iw1UQ1DNP0D6kpnr8siOw7Zp5YITFt7z88MoPvEcD145iJCCyONi+5yx4s2A2Hne9gWcgZV/2CurfAXdr/ESiJL30cu+xXNytu72zqOHDgKY/VK4NyU2ilb+kr9fnj0QcreCz4rK5zIhGZ0O+cXC0oXd9a+0o0Ti5yJbVBn33cGUviMJY++SuYB15rEXY3xfxYsXV5jlYiJYgkadnntQW94tmYZ/Z3ME0k4jliLU9VF4Glub+HY6Wf7lZuwpZZ68wqGt/IoZSMRFK4elF/QbByFCiLowjghmqgh0tv7oRjQQ8bQQKc8wcY=;QDXF6hDKnSlob+YCRryHYg=="
 ---

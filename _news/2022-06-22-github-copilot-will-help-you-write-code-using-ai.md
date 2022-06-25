@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI-Powered Coding Assistant Aims to Help, Not Replace Developers"
+    excerpt: "Instead, he said, the AI coding tool acts like a predictive-text feature on smartphones. As developers work, the tool suggests options for lines of code needed to execute given tasks, within a larger software program. Developers, who can also ask for ..."
+    publishedDateTime: 2022-06-24T23:30:00Z
+    webUrl: "https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-571472/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Copilot, GitHub’s AI-powered programming assistant, is now generally available"
     excerpt: "GitHub's Copilot tool, which was developed in partnership with OpenAI, is now generally available. It's free for students and 'verified' open source contributors."
     publishedDateTime: 2022-06-21T16:28:00Z

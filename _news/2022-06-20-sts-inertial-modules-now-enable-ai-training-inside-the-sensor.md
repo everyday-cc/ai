@@ -53,6 +53,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "How conversational AI can transform the Gulf’s hospitality sector"
+    excerpt: "As a result, consumer requests and responses often end up getting lost in translation. Conversational AI helps understand your customers, their asks, and preferences better in the language of their choice. According to HubSpot, 33 percent of customers said ..."
+    publishedDateTime: 2022-06-23T11:10:00Z
+    webUrl: "https://www.itp.net/emergent-tech/how-conversational-ai-can-transform-the-gulfs-hospitality-sector"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "EOn5OIy7AOQo4KiGfyJTpqpwrlNa5zjVmI7VJvKeTybisRDnSdTtdKv594/6ZLnsqelHFECJcPLPEC8gndwrLTLr9KZOB1p3TVuO+z5UxaJdPMwCNRhQQqlFNDMaR87La9/wZBHZc3GS6pigu2xecykEQ5YER8KdLRok1Pdka0vNE9rVQewWhjMAclEE4ORbQc2aL/Oir/Bf3ceQNbRYoAFHq/tBDT/+fHVvT1/s/vk18rz4Dl7mapBzCXIZVyRby7yndOP5CE+/NL5hHMEfVNDxDs6eIziHX9Liz39LDqtfp4ZBv7qkW15kBsmCyn+xVeg9Ez1RWcqSo0zSC6mna289WoXvtZNTxoQSZd5sUnM=;5tEww29NNFAJXdQ5W7hM+A=="
 ---
