@@ -50,20 +50,6 @@ related:
         width: 1024
         height: 586
         isCached: true
-  - title: "Dataiku 11 Unveils Enhanced Toolset to Scale AI"
-    excerpt: "Dataiku today announced Dataiku 11, a pivotal update of the company’s data science and AI platform that helps organizations"
-    publishedDateTime: 2022-06-20T07:30:00Z
-    webUrl: "https://www.djournal.com/dataiku-11-unveils-enhanced-toolset-to-scale-ai/article_b450e7f9-6b2d-5a75-8ee8-56abf7e01904.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "K9HRru4on96pUk5Qq3GBiDFQ7aiL703l+6KzadYmcKvN9+HDg+kFeCWNsG58yxSWi5prOiTRC6hoYgl5VTr9CQIdYox/DCvxF4ffPBostJg5sNDF4iSpyz4Pvg0mnBKmij4FOalL4mAh9uHnJ/q+RPDJ3RhvXPuUk0FMMX/54orvN1FgbRd93qHUE43QQLEMIckngXh+j0u3WycfZoGUAmUYpKUzqSxnIhdqNLX+Bp34ApmEw8X1JzDOHiNRGy+NCHp8YUSLWB4GwVXWsR6LVLBsqNty51RPf1UcfmusBfD4dAmRmrGOwTWox08Ru+kMhxEtMEWkB41Rm7Ar/eqLlHccgRcT2e6CCYK/wI8Byw5JTQiM0OczSPC+kBu46cIqYBIUmwBPWDlI8KgZnonLeHzs61T7F699/uaG9IPhDYm3pDiAI0r2qHJlujbT5nQOBmECZeprh3wiXyzcyDSya0KPtX3C79gMsantPA8+cUJHNqVCO+ybSU2zkQ/qUAMWX4KqxHJPPJgtEpdXm6SfJg==;9pfm9uSNSnHZk+svGaC/QQ=="
 ---

@@ -69,20 +69,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 36
-  - title: "Paving the way for more level 3 self-driving cars from 2024"
-    excerpt: "The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024."
-    publishedDateTime: 2022-06-20T08:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/20/paving-the-way-for-more-level-3-self-driving-cars-from-2024"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/20/1629608.jpg"
-        width: 1240
-        height: 550
-        isCached: true
   - title: "John Deere: Leading The Charge In Self-Driving Technology"
     excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
     publishedDateTime: 2022-06-22T11:47:00Z

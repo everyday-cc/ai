@@ -38,20 +38,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "ST’s inertial modules now enable AI training inside the sensor"
-    excerpt: "ST has integrated a specialised processor, the ISPU, in a small area directly on the sensor chip, optimising machine-learning applications ... Developers will be able to programme the ISPU using ST’s NanoEdge AI Studio, that many customers have already ..."
-    publishedDateTime: 2022-06-20T08:20:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/st-s-inertial-modules-now-enable-ai-training-inside-the-sensor"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/ps3bluzt/ism330isn-imu-with-ispu-p4460d-big.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How conversational AI can transform the Gulf’s hospitality sector"
     excerpt: "As a result, consumer requests and responses often end up getting lost in translation. Conversational AI helps understand your customers, their asks, and preferences better in the language of their choice. According to HubSpot, 33 percent of customers said ..."
     publishedDateTime: 2022-06-23T11:10:00Z

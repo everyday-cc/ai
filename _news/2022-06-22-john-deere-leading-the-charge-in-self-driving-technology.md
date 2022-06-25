@@ -82,20 +82,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 36
-  - title: "Paving the way for more level 3 self-driving cars from 2024"
-    excerpt: "The Stellantis group has announced that it has chosen to equip several models across its various auto brands with Valeo's third-generation LiDAR from 2024."
-    publishedDateTime: 2022-06-20T08:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/20/paving-the-way-for-more-level-3-self-driving-cars-from-2024"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/20/1629608.jpg"
-        width: 1240
-        height: 550
-        isCached: true
   - title: "Cornell University: Technology helps self-driving cars learn from own memories"
     excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This is achieved with the help of artificial neural networks,"
     publishedDateTime: 2022-06-21T11:27:00Z

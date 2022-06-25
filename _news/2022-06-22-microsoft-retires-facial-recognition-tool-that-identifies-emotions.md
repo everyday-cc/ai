@@ -515,20 +515,6 @@ related:
         width: 400
         height: 295
         isCached: true
-  - title: "Microsoft UAE customers share digitisation success stories"
-    excerpt: "Microsoft’s Azure locations in Dubai and Abu Dhabi have accelerated digital transformation across industries and proven themselves to be potent catalysts of economic growth. “AI capabilities, powered by the Microsoft Cloud, allowed us to unify our ..."
-    publishedDateTime: 2022-06-20T07:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-customers-share-digitisation-success-stories-dxmkkixr"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:NDkzZDVkN2QtNDI3NS00:N2ZmYzM3/sayedhashish-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Microsoft retires facial recognition tool"
     excerpt: "They have not caught up with AI's unique risks or society's needs New Delhi: Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools,"
     publishedDateTime: 2022-06-22T18:44:00Z

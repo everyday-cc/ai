@@ -64,6 +64,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Marchex Wins Artificial Intelligence Innovation Award in 2022 AI Breakthrough Awards Program"
+    excerpt: "Marchex (NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that its Marchex Conversation Intelligence solution has been selected as winner of the “AI-based Analytics Innovation Award” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-31c3dcc0cdb14bdfad926836cd6051ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Aera Technology Wins AI Breakthrough Award for Decision Intelligence Innovation"
+    excerpt: "Aera Technology today announced the company has been chosen as a “Decision Intelligence Innovator” in the fifth annual AI Breakthrough Awards program. At a time when the global AI market is expected to grow to USD 390."
+    publishedDateTime: 2022-06-23T16:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/aera-technology-wins-ai-breakthrough-award-for-decision-intelligence-innovation/article_d482a395-0b56-5857-a6aa-b88bb50ed1eb.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 33
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
+        width: 415
+        height: 539
+        isCached: true
   - title: "ACTIVEFENCE WINS “BEST AI-BASED SOLUTION FOR CYBERSECURITY” AT THE 2022 ARTIFICIAL INTELLIGENCE BREAKTHROUGH AWARDS"
     excerpt: "The Award Honors the Company’s World-Class AI-Powered Proactive Content Detection Technology NEW YORK and TEL AVIV, Israel, June 23, 2022 /PRNewswire/ -- ActiveFence, a leading Trust & Safety tech platform that prevents online harm,"
     publishedDateTime: 2022-06-23T12:31:00Z
