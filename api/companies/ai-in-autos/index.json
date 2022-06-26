@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 16117246
+        "followers": 16117954
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 612,
+      "heat": 611,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -142,7 +142,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 94724
+        "followers": 94729
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -198,7 +198,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1084430
+        "followers": 1084439
       },
       "yearFounded": 0,
       "locations": [
@@ -244,7 +244,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 74551
+        "followers": 74552
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1149,7 +1149,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 9153
+        "followers": 9154
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
