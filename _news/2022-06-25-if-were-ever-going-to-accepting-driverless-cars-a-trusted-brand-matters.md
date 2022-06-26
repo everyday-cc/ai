@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-go
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: The Star
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why does London Underground not have driverless trains yet?"
-    excerpt: "Driverless trains on the London Underground are in the news again. With union strikes threatening to make traveling in the capital a nightmare this week, it was only a matter of time before the question of axing drivers in favour of automation would pop up again."
-    publishedDateTime: 2022-06-21T08:34:00Z
-    webUrl: "https://www.railway-technology.com/analysis/london-underground-driverless-trains/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 54
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/06/shutterstock_1922751281-310925fe96d8f10ca38c03e0b40833ce.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Why don’t we have driverless trains on the tube yet?"
     excerpt: "Driverless trains on the London Underground are in the news again. With union strikes threatening to make traveling within the Smoke a nightmare this week, it was only a matter of time before the question of axing drivers in favour of automation would pop up again."
     publishedDateTime: 2022-06-21T12:08:00Z

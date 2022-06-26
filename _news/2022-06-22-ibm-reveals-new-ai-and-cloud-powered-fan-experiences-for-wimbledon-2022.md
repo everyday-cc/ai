@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022"
+    excerpt: "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But naturally we can't just be thinking about the past - we need to be ..."
+    publishedDateTime: 2022-06-21T16:32:00Z
+    webUrl: "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 67
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/vExTvrYZ34ak3GJaUNv2zF-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Wimbledon plot major 'AI-powered' overhaul to improve fan experience at 2022 championship"
     excerpt: "Wimbledon is set to use technology to help fans grow their tennis knowledge at this year's tournament, which is set to get underway at the end of this month. The likes of Novak Dj"
     publishedDateTime: 2022-06-21T10:25:00Z

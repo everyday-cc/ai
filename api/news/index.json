@@ -44,21 +44,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-25-if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.md",
-      "title": "If we’re ever going to accepting driverless cars, a trusted brand matters",
-      "excerpt": "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car.",
+      "path": "_news/2022-06-25-tesla-and-hondas-363-crashes-show-why-self-driving-cars-may-be-decades-away-from-safety.md",
+      "title": "Tesla and Honda's 363 crashes show why self-driving cars may be decades away from safety",
+      "excerpt": "The promise of self-driving cars remains unfulfilled, as the technology still requires drivers to co-pilot the vehicles to avoid collisions.",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
-      "originalUrl": "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
+      "webUrl": "https://interestingengineering.com/tesla-honda-crash-self-driving-cars-unsafe",
+      "originalUrl": "https://interestingengineering.com/tesla-honda-crash-self-driving-cars-unsafe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thestar.com/content/dam/thestar/autos/opinion/2022/06/13/racing-roundup-max-verstappen-wins-as-does-josef-newgarden/_benyoung.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/7qOYXKdAw3/sizes/2560px-tesla-autopilot-engaged-in-model-x_resize_md.jpg",
+          "width": 744,
+          "height": 418,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -66,13 +66,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
-      "publishedDateTime": "2022-06-25T07:27:00-07:00",
+      "ampWebUrl": "https://amp.interestingengineering.com/tesla-honda-crash-self-driving-cars-unsafe",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/tesla-honda-crash-self-driving-cars-unsafe",
+      "publishedDateTime": "2022-06-25T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -95,7 +95,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1079,7 +1079,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1167,7 +1167,7 @@
       "originalUrl": "https://www.therobotreport.com/robust-ai-announces-new-grace-software-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {

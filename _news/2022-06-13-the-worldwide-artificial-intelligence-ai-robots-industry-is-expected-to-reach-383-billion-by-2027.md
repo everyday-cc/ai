@@ -1,26 +1,22 @@
 ---
 category: news
-title: "The Worldwide Artificial Intelligence (AI) Robots Industry Is Expected To Reach $38.3 Billion By 2027"
-excerpt: "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The 'Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive ..."
-publishedDateTime: 2022-06-13T12:18:00Z
-originalUrl: "https://menafn.com/1104365563/The-Worldwide-Artificial-Intelligence-AI-Robots-Industry-Is-Expected-To-Reach-383-Billion-By-2027"
-webUrl: "https://menafn.com/1104365563/The-Worldwide-Artificial-Intelligence-AI-Robots-Industry-Is-Expected-To-Reach-383-Billion-By-2027"
+title: "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027"
+excerpt: "The Global Artificial Intelligence (AI) Robots Market is estimated to be USD 7.1 Bn in 2022 and is projected to reach USD 38.32 Bn by 2027, growing at a CAGR of 40.1%. Market Dynamics"
+publishedDateTime: 2022-06-13T11:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
+ampWebUrl: "https://www.benzinga.com/amp/content/27667412"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?208723"
-    width: 640
-    height: 250
-    isCached: true
-
-secured: "TxrGviTtGpc1l8ckjfg0uh/f8PnoCiQbC/gL6wxxGPtWbjOz1rsxZAx3MRO48fYYmMrDNry6KNp886asj89mji2b8+1wPShnP5L1Z+dLogUwMo3oazYmAsuZWLs9nerX/TJSH7AoaOGGdTzdqjxq+1kcWXXENfC42C4PWgb1A8xlLMBhzhU8mR+1wjez0j+UwX2ioLOugSbXsOIGvcbHzfaBMbbQ/R5GxNZy5MsO/zkRVv52Mh62WDqQhIFJxBasXre37NOJ3tRSPT6FdB7jPJa4BDiW3/pX1ubWwmC0mE4TPl0pOPH5ZRwAsPESYC7yRZr5aMtxL7zWdodwN1Mc084AylzgUrBde99EAGbwt5o=;Ukqkhj541wCK8pX50Tsi0g=="
+secured: "pNss8Io0XDXm1+hBVwMlx2eUrGDVGSD/x6OglRY5JZFf+OrdSurJHmf3EEuCBzpr4m7JXyrHbHvGq29ZTBO/CbPk1nkC/Fqoi7M8reKiZhn3qx9lNInRIhevp8NZV5q74Bj+Oo4nt8RL6eUIIg9z4tspBMHOl8q0mkTppdpuBpMlouP09LjJZs+dVx1otJiNWA1wIScY6zlTMdI79vglMae1fZ217ADhNMGXNXbEVSefSsAje1LLdswJNC65Zf2NjQGgdy4jOFHKUWA0tYAadjupsnfigAYi4zXjX/ilsKsSdzILDSsvWCQAJJRwHFJ2fVsMepGLVZBAGzmd64iGn6Us/M5dIB/eKFXOJ11Rtuk=;zsc/W/PM/oLp1pX6QtC0hw=="
 ---
 

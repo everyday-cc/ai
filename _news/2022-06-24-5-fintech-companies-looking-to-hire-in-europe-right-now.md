@@ -76,20 +76,6 @@ related:
         width: 283
         height: 242
         isCached: true
-  - title: "Scottish speech-processing fintech Aveni raises £2.7m"
-    excerpt: "Scottish AI company Aveni.ai has secured an investment of £2.75 million to deliver the expansion of its Aveni Detect platform across the financial services and utility markets across the UK. Its ground-breaking conversational intelligence technology is ..."
-    publishedDateTime: 2022-06-21T08:39:00Z
-    webUrl: "https://www.finextra.com/pressarticle/93066/scottish-speech-processing-fintech-aveni-raises-27m"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 41
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "4 Fintech Execs Make Top 100 B2B Marketers Leaderboard"
     excerpt: "HotTopics.ht, a thought leadership platform for business leaders, has announced 2022’s top 100 global marketing leaders in the technology sector. Of the 100 business-to-business (B2B) marketing executives selected,"
     publishedDateTime: 2022-06-23T04:47:00Z

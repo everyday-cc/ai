@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Responsible AI investments and safeguards for facial recognition"
-    excerpt: "Azure Cognitive Services deliver high-quality, consent-driven face recognition that developers use to power verification of human identities on mobile, desktop, and internet of thing (IoT) devices, as well as facial detection and redaction capabilities for accessibility, modern productivity, and privacy."
-    publishedDateTime: 2022-06-21T09:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 106
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dc501e24-2f0b-43cd-bf24-cfd4511d958e.jpg"
-        width: 4081
-        height: 2247
-        isCached: true
   - title: "Pentagon Unveils Plan to Make 'Responsible Military AI' More Than Just a Buzzword"
     excerpt: "The Pentagon’s marching forward with AI weapons of war… responsibly. This week, the Department of Defense released a lengthy 47-page document outlining the military’s plan to implement its ..."
     publishedDateTime: 2022-06-23T19:41:00Z

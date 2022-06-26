@@ -82,20 +82,6 @@ related:
         width: 283
         height: 242
         isCached: true
-  - title: "Scottish speech-processing fintech Aveni raises £2.7m"
-    excerpt: "Scottish AI company Aveni.ai has secured an investment of £2.75 million to deliver the expansion of its Aveni Detect platform across the financial services and utility markets across the UK. Its ground-breaking conversational intelligence technology is ..."
-    publishedDateTime: 2022-06-21T08:39:00Z
-    webUrl: "https://www.finextra.com/pressarticle/93066/scottish-speech-processing-fintech-aveni-raises-27m"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 41
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Leading Payments, Fraud & Compliance Platform Sardine Adds One of Fintech's Most Influential People to its Growing Team"
     excerpt: "Simon Taylor, voted one of the most influential people in Banking, Insurance, and Fintech, named Head of Content & Strategy as the company scales"
     publishedDateTime: 2022-06-21T12:07:00Z

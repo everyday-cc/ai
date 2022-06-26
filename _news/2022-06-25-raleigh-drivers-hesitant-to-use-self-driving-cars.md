@@ -43,6 +43,20 @@ related:
         width: 744
         height: 418
         isCached: true
+  - title: "I was wrong about self-driving cars: they’re nowhere near ready"
+    excerpt: "I was wrong about self-driving cars. Six years ago, I believed the promises from car companies that autonomous vehicles would properly be on our roads within a decade."
+    publishedDateTime: 2022-06-26T01:30:00Z
+    webUrl: "https://www.independent.ie/business/technology/i-was-wrong-about-self-driving-cars-theyre-nowhere-near-ready-41786154.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 24
+    images:
+      - url: "https://www.independent.ie/business/technology/025e5/41786153.ece/AUTOCROP/w1240h700/Swedish%20freight%20tech%20firm%20Einride%20was%20last%20week%20granted%20permission%20by%20the%20US%20NHTSA%20for%20a%20public%20road%20pilot%20project"
+        width: 1240
+        height: 700
+        isCached: true
 
 secured: "9fs9rc3LL3OqKEaY4iYgFOTr7J4b81T1+F8DK6tAxQK/Cy/t8nnKkX8a2Wcu0KQYVcM6IxtkvrbR15Cyrfxm45rCQECvFxOLdqXQLEsUYZMAxSV4bv0frlI1Dev8/eWJzWOf82JKQ87/i36P+zGQDuHfi32SUVh5Ts+8ucqMgB6LjyltKc/7O0239LqY8WMow+JUhv50xUMXoWhHniSVsrtf4CU2qQH7i1Dsj21k0sDNX4Dlm2qVOF/kKr6nVWk+fUgBKQf7g7K0bP4dqhPKyA4Kyb2YPHHaP283fiw60xIW0L4eDg69nKdAbiE2V7rE+cfJtlyPEIduvbrUnhNvzv0JW+FN/Z9fj4cmSWNeFpbaogvM4CAxgQzknNpmv5j8FSDgauh9r5JuYG1ksSQieZMdIlDyyyGk0J8S/CLSyQEEKIsCryGVPuoSwp3tfDwcjrSXjkXbuEl4dWNpWOkvnWhYN7qx3emmdO0kFmLdppAOxsOrPF65j0xn8NTmO16nVA1xqxPXm6MkvplryfLZSw==;82QC3cOtXNxegLQsSz47Sw=="
 ---

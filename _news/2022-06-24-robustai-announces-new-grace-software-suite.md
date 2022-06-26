@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/robust-ai-announces-new-grace-softw
 webUrl: "https://www.therobotreport.com/robust-ai-announces-new-grace-software-suite/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "How to edit Raw – AI and new software features"
-    excerpt: "With AI-powered tools and advanced features, raw editing software has come a long way. James Paterson shows how to use some of the best new tools Raw photo-editing has evolved rapidly over the past few years. Raw software has always been necessary for ..."
-    publishedDateTime: 2022-06-21T07:19:00Z
-    webUrl: "https://www.amateurphotographer.co.uk/technique/photo_editing/how-to-edit-raw-168211"
-    type: article
-    provider:
-      name: amateur photographer
-      domain: amateurphotographer.co.uk
-    quality: 37
-    images:
-      - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/06/boxout2_advantages.jpg"
-        width: 1000
-        height: 646
-        isCached: true
   - title: "New artificial intelligence software can now create art from written prompts"
     excerpt: "A new piece of artificial intelligence software, called DALL-E 2, can instantly generate art from words, a function that one Toronto-based industrial designer said he considered to be “one of the jobs that was automation-proof."
     publishedDateTime: 2022-06-21T18:41:00Z
