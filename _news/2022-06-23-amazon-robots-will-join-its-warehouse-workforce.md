@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-robots-will-join-its-war
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon unveils its 1st full self-driving mobile warehouse robot 'Proteus'"
+    excerpt: "Amazon has unveiled its first fully autonomous mobile robot, Proteus, which is meant to move large carts in its warehouse and can safely navigate around human employees. It also showcased a prototype of a robotic arm,"
+    publishedDateTime: 2022-06-22T11:17:00Z
+    webUrl: "https://inshorts.com/en/news/amazon-unveils-its-1st-full-selfdriving-mobile-warehouse-robot-proteus-1655896634812"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/amazon-unveils-its-1st-full-selfdriving-mobile-warehouse-robot-proteus-1655896634812"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/amazon-unveils-its-1st-full-selfdriving-mobile-warehouse-robot-proteus-1655896634812"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 60
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/06_jun/22_wed/img_1655893977291_219.jpg?"
+        width: 920
+        height: 613
+        isCached: true
   - title: "Amazon details new internally developed warehouse robots"
     excerpt: "The systems are headlined by Proteus and Cardinal, a pair of new warehouse robots. Both are designed to help with the task of processing e-commerce packages. Proteus is a compact, two-wheeled robot that can pick up a cart containing multiple packages and move the cart from one section of a warehouse to another."
     publishedDateTime: 2022-06-22T17:25:00Z
@@ -45,6 +61,15 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "With new warehouse robots, Amazon looks to invent its way out of its safety problems"
+    excerpt: "Other robotic systems shown for the first time included “Cardinal,” which uses AI and computer vision to select and lift ... and expects Cardinal to start rolling out to its fulfillment centers next year. Another new system, called AR ID, uses computer ..."
+    publishedDateTime: 2022-06-22T13:46:00Z
+    webUrl: "https://www.geekwire.com/2022/with-new-warehouse-robots-amazon-looks-to-invent-its-way-out-of-its-safety-problems/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 42
 
 secured: "s3bwyi2eNDJrg5mQm4YgSN/pHDvUezIrdfWBJDaurJHNdEig7f7UY12wHpaqT/lIzQs95EAmYygJHdrVj+tc5exe1BY4AKxCqqFi7PuGV269vP3WG9oV9JEPExpoLDWU0Xy17BmTu4OvUY138jI6nBQjP7SIDyJq0bC5JMpAcLvMjtOyAKW0RfJHUHuysdRrWxaTONzi/8/l5Ano2X/RdlzYT/jRW2GrFPXIYGXFdNtq88y9PW+mkLEXp/yWlu+zcIuJXHm2Sx3reBNrpv/n5QnoASsWXUEscyAkHgzCXeEzp5S8RRk1pSiLPDRv6OZmWf4V6XNn+qfWprsu8RGaLghHPYAnXxcyh/hmfjRqRUhAbP3SSjrWvJkYpzSlsjgbVNQBgJvfEx6bMFQ3gQEF3kIs/QOU5QDUgylnVo1Aw9SAc0QV/HvEJeHYIjB12Vzcwa3RVEzwBY0dUmhw61VvDObBHU5EXR1Ig4PKpv7Z7yk2DXjzEdFVygJ8EiE1uL5J0/pbB+TXCjPFjnXucX9YZQ==;P29ngFVGn+p7wLUmV3n/Sw=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 1240
         height: 770
         isCached: true
+  - title: "Exploring the world of artificial intelligence"
+    excerpt: "IN this digital age, we are now facing a totally different sphere where technology has been transforming the world we live in. To minimize costs and to improve efficiency, companies have relied on third parties over the years,"
+    publishedDateTime: 2022-06-26T19:13:00Z
+    webUrl: "https://businessmirror.com.ph/2022/06/27/exploring-the-world-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/06/Column-box-KPMG-Perspectives.jpg"
+        width: 1400
+        height: 735
+        isCached: true
   - title: "Novel Startup Airzai is Utilizing Artificial intelligence (AI) to Disrupt the Fragrance Industry"
     excerpt: "Airzai, a Canadian startup focused on developing tech-enabled fragrance products, is launching Airzai Aroma, a new product that they call"
     publishedDateTime: 2022-06-22T17:39:00Z

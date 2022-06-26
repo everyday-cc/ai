@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft scraps some AI facial-analysis tools, citing risk of bias"
-    excerpt: "Microsoft will stop selling AI-based facial-analysis software that infers a subject’s emotional state and other personal attributes after the algorithms were shown to exhibit problematic bias and inaccuracies."
-    publishedDateTime: 2022-06-22T02:33:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3182575/microsoft-scraps-some-ai-facial-analysis-tools-citing-risk-bias"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 104
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/22/16d1fc06-ff1a-4d91-a4c5-f1d114de2f08_11e4956d.jpg?itok=D-q1jv85&v=1655864958"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Microsoft's AI spots ransomware attacks before they even get started"
     excerpt: "According to Microsoft's 365 Defender Research Team, human-operated ransomware campaigns are complex and multi-faceted, which can make early detection very difficult to achieve  e"
     publishedDateTime: 2022-06-22T11:33:00Z
@@ -245,17 +229,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft's Calling It Quits on Creepy Emotion Recognition Tech"
-    excerpt: "As part of its overhauled AI ethics policies, Microsoft will phase out public access to AI capabilities that attempt to infer emotions and identity attributes."
-    publishedDateTime: 2022-06-22T01:20:00Z
-    webUrl: "https://gizmodo.com/microsoft-shutting-down-azure-facial-emotion-recognitio-1849090511"
-    ampWebUrl: "https://gizmodo.com/microsoft-shutting-down-azure-facial-emotion-recognitio-1849090511/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-shutting-down-azure-facial-emotion-recognitio-1849090511/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 71
   - title: "Facial recognition tool that identified emotions to be discontinued by Microsoft"
     excerpt: "The decision has been taken as part of Microsoft's 'Responsible AI Standard', a framework to guide how it builds AI systems."
     publishedDateTime: 2022-06-23T16:43:00Z

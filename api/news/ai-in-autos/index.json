@@ -179,58 +179,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-23-cathie-wood-adds-329000-more-of-this-self-driving-trucking-firm.md",
-      "title": "Cathie Wood Adds $329,000 More Of This Self-Driving Trucking Firm",
-      "excerpt": "Cathie Wood-led Ark Investment Management on Wednesday scooped up more shares in self-driving trucking company TuSimple Holdings Inc (NASDAQ: TSP), its second straight buy in the San Diego, California-based startup in over two months.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-adds-329-000-more-of-this-self-driving-trucking-firm-1031544922",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-adds-329-000-more-of-this-self-driving-trucking-firm-1031544922",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/06/22/tusimplefleet.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-22-welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise.md",
       "title": "Welcome aboard, this is a driverless train: unions begin their own demise",
       "excerpt": "London ground to a standstill yesterday as transport workers began a series of strike action As the summer sun makes the UK feel like a Mediterranean resort, we are also about to see the perils of ...",
@@ -1348,6 +1296,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-exclusive-baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources.md",
+      "title": "EXCLUSIVE Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources",
+      "excerpt": "Baidu, whose businesses range from internet search to electric vehicles, with expansion into cloud services, robotaxis and autonomous driving in recent years, has tapped Bank of America (BAC.N ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/",
+      "originalUrl": "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/guPLU9seqwgSD6LVw04iCxt0V6g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4EGMJWOEKZL7RHK4KSSRBGTUQA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

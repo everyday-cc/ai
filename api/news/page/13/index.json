@@ -2,6 +2,102 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-14-googles-artificial-intelligence-has-a-conscience-experts-say.md",
+      "title": "Google's Artificial Intelligence has a conscience, experts say",
+      "excerpt": "Google's Artificial Intelligence seems to have reached a new level, at least in the case of the LaMDA project, which impressed its workers. Google's Artificial Intelligence is probably one of the most advanced technologies in this field and we know that well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gq.co.za/culture/tech/googles-artificial-intelligence-has-a-conscience-experts-say-83a64d41-eb38-4063-898f-3a617a2f8ced",
+      "originalUrl": "https://www.gq.co.za/culture/tech/googles-artificial-intelligence-has-a-conscience-experts-say-83a64d41-eb38-4063-898f-3a617a2f8ced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/960x960/Image-Pexels?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/cb7a733d-b193-584c-95be-ba6998e38100&operation=CROP&offset=1030x0&resize=4118x4118",
+          "width": 960,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GQ South Africa",
+        "domain": "gq.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
+      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
+      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=inline&pgtype=article",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=inline&pgtype=article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
+      "publishedDateTime": "2022-06-14T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-congressional-hearings-focus-on-ai-machine-learning-challenges-in-cybersecurity.md",
       "title": "Congressional hearings focus on AI, machine learning challenges in cybersecurity",
       "excerpt": "Talent shortages and ensuring that AI and machine learning systems are trustworthy are among the biggest concerns explained to the U.S. Congress.",
@@ -41,49 +137,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india.md",
-      "title": "Devnagri – India’s first AI-powered translation engine as language partner at Assocham Fintech Festival India",
-      "excerpt": "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/",
-      "originalUrl": "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2022/06/anibs2022061405495820220614065826.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp",
-      "publishedDateTime": "2022-06-14T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1060,49 +1113,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-amds-ai-strategy-comes-into-view-with-xilinx-gpu-software-plans.md",
-      "title": "AMD’s AI strategy comes into view with Xilinx, GPU, software plans",
-      "excerpt": "Analysis After re-establishing itself in the datacenter over the past few years, AMD is now hoping to become a big player in the AI compute space with an expanded portfolio of chips that cover everything from the edge to the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/13/amd_ai_strategy/",
-      "originalUrl": "https://www.theregister.com/2022/06/13/amd_ai_strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/11/08/handout_amd_lisa_su.jpg",
-          "width": 1557,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/13/amd_ai_strategy/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/13/amd_ai_strategy/",
-      "publishedDateTime": "2022-06-13T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

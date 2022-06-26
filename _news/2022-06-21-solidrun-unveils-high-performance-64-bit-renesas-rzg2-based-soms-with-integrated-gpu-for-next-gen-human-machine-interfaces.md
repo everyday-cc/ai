@@ -5,6 +5,8 @@ excerpt: "The embedded GPU also adds value for its advanced AI inference executi
 publishedDateTime: 2022-06-21T06:49:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-"
 webUrl: "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-"
+ampWebUrl: "https://www.benzinga.com/amp/content/27788702"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788702"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "V9aYOeEcaS4cHy/QkWlt/m5GcFM1zn0JdKt5noWqeePxnA/S1ozc+9Vx71HRie6LyPJOPgBQNUO/+DvhQokh9DGs8IsAeoGgBDG+4rNZ5Pt3UUtsch9UbvbeXWyBChsecXPEsnGQOOly30VVUgipHva3m+mCRTDC73nDgQpBnBWgOL1ZGUgFApgQ21CRHlVpKiX2Kg+MWD1qqcRAbO/uMvr6ePEZ2ZQeSNahb5ZoYNeBngJ8MdnexpyQ8w3FTdiaYMKORf41cPb7Sl+DE2ZiJoEU2rRZnNbeSNybkFPJ500jCBSb9puA+nkxE0Wn9MUuTnjUtvVBBCJb7/ijS2fY8mFxt2B46mOEhpf9jJOih/E=;dD10Xm3PEJEJiLSNzAT9CQ=="
+secured: "boZz/x7FfJeGstJrmSGLNaya12Nz+nt1Ow8t7hHBathRG34R1VUAVFoE9blh9x3pG2HkuOAf9h6PtXVTYeUDAPf/owT6sDtwqyl4IkZRMBx/FKgp/Qh7bnyG/AeUd3pDACPIAnUYlA49yBfSFoLR1a+qGW6Nr9/DqqSSxg7HwYXl/sD0cszzf36QoqslVjhO8Eb1Jrnt2AeGD9aRYxaVikQQKrB5E2czHqHtvefZWjzFZFyV+ocCtKTxX2+aWmNM0FzPtjqikVW9xyAxVs4KiuqBH173MkxYFgVCNTi09tDfTTtQJspZ43wa/1A8yxJ3FxA0SQiBpqZnZHu65VJw0LIN5oHJ/6HVkuGhqIiQfDY=;1zKM3O8kUpW4FzXm+BA5gQ=="
 ---
 

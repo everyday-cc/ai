@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/cathie-wood-adds-3
 webUrl: "https://markets.businessinsider.com/news/stocks/cathie-wood-adds-329-000-more-of-this-self-driving-trucking-firm-1031544922"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Business Insider
@@ -40,20 +40,6 @@ related:
     quality: 50
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/06/23/tusimpletruck2.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Cathie Wood Loads Up $1M More Of This Self-Driving Trucking Firm As Shares Drop 80% YTD"
-    excerpt: "Cathie Wood-led Ark Investment Management on Tuesday further raised its exposure to self-driving trucking company TuSimple Holdings Inc (NASDAQ: TSP), its first buy in the San Diego, California-based"
-    publishedDateTime: 2022-06-22T02:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cathie-wood-loads-up-1m-more-of-this-self-driving-trucking-firm-as-shares-drop-80-ytd-1031541839"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/06/21/tusimpletruck4.jpg"
         width: 1024
         height: 768
         isCached: true

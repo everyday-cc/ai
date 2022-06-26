@@ -26,6 +26,17 @@ images:
     height: 438
     isCached: true
 
+related:
+  - title: "Unprecedented result in National Race Unity Speech Awards"
+    excerpt: "and of course two very powerful speeches that both deserve recognition.” Joe Howells of Kerikeri High School and Sheryl Chand of Solway College in Masterton are the unprecedented joint champions of the Race Unity Speech Awards, which have been held every ..."
+    publishedDateTime: 2022-06-26T19:19:00Z
+    webUrl: "https://www.scoop.co.nz/stories/AK2206/S00507/unprecedented-result-in-national-race-unity-speech-awards.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 4
+
 secured: "UzVK00bsGPkJmkMhxkOPobkV6VKP2+SpcjvtO1vKmeGVVgkRwa3RlmSUG73dNOJSNunba9WXZPCdravdmWqptPXtFotWw/Nu+trOAhyI8o4DjU6PjZsk0WMOd8/90iNVVXRxwEpRwyf9RVy7yjRd7qK5emSgDEUVGoU5rxNuL01iqmQmXJs56qcLJrnFj34mzAf1JkzhkJLCL/PxJv4y2xtHu1UYAYjUyf3LCuBg1pm5RpUyas5fkosZJO/gGqHGbscVPjdSgmse3ANb69HfFOnPqHx+FMH4uHKvaAM+V3ddkRAVcP0fOkhk9u4V97UgZMRc1QXG06OSPopCmjCMxG47Vb2q2eWMfuY+e3ALol0=;9GiwjKLrew0xe3lrrxpK9g=="
 ---
 

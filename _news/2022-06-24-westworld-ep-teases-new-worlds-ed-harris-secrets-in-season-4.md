@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Westworld’ Recap: 5 Things to Remember Going Into Season 4"
+    excerpt: "Season 4, which premieres on June 26, takes place seven years after the events of the previous season (which aired more than two years ago) and is even further away from the theme-park-robots-run-amok ... created and seemingly controlled by Dolores."
+    publishedDateTime: 2022-06-25T18:59:00Z
+    webUrl: "https://www.thewrap.com/westworld-season-3-recap/"
+    ampWebUrl: "https://www.thewrap.com/westworld-season-3-recap/amp/"
+    cdnAmpWebUrl: "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/westworld-season-3-recap/amp/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 44
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2022/06/Westworld.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
     excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
     publishedDateTime: 2022-06-24T20:00:00Z

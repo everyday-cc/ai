@@ -54,15 +54,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
-    excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,"
-    publishedDateTime: 2022-06-22T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "Marchex Wins Artificial Intelligence Innovation Award in 2022 AI Breakthrough Awards Program"
     excerpt: "Marchex (NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that its Marchex Conversation Intelligence solution has been selected as winner of the “AI-based Analytics Innovation Award” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
     publishedDateTime: 2022-06-23T13:02:00Z
@@ -76,6 +67,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
+    excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology ... people speak a native or foreign language powered by real-time accent translation. Headquartered in Palo Alto ..."
+    publishedDateTime: 2022-06-22T14:13:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220622NY96534/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 34
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
         isCached: true
   - title: "Aera Technology Wins AI Breakthrough Award for Decision Intelligence Innovation"
     excerpt: "Aera Technology today announced the company has been chosen as a “Decision Intelligence Innovator” in the fifth annual AI Breakthrough Awards program. At a time when the global AI market is expected to grow to USD 390."

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-27-ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone.md",
+      "title": "AI is transforming medicine: Here’s how we make sure it works for everyone",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/26/ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone/",
+      "originalUrl": "https://venturebeat.com/2022/06/26/ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1333328712-metamorworks.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/26/ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/26/ai-is-transforming-medicine-heres-how-we-make-sure-it-works-for-everyone/amp/",
+      "publishedDateTime": "2022-06-26T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-26-big-firms-to-invest-20m-for-ai-research.md",
       "title": "Big firms to invest $20M for AI research",
       "excerpt": "BIG companies in the country will invest $20 million (around P1 billion) to establish a shared hub for artificial intelligence (AI) research in the Philippines. Trade Secretary Ramon Lopez said in a recent interview that conglomerates are funding the ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -31,48 +82,6 @@
       "provider": {
         "name": "The Manila Times",
         "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-nurturing-talented-ai-professionals-for-the-future.md",
-      "title": "Nurturing talented AI professionals for the future",
-      "excerpt": "Hyderabad: Many entrepreneurs and technologists from the city have made their mark in the growing tech field, and now, one more Hyderabad-born technology",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future",
-      "originalUrl": "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://telanganatoday.com/wp-content/uploads/2022/06/AI-831x450.jpg",
-          "width": 831,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp",
-      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp",
-      "publishedDateTime": "2022-06-25T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -293,7 +302,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {

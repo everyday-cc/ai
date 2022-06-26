@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-22T15:05:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Finanznachrichten
@@ -15,6 +18,24 @@ topics:
   - Machine Learning
   - AI
 
-secured: "5CDRZRgP/bsoC8FtqgrlZ79q1xqj8zAbK71buYNkihKss5tG5ghVbCfvJuiTWz9FU7HpzwejwXmGHe27WXBSRykarR3NfgvMBKVLr04CCdcSzmXBTBzWnYPUMYead8qRcxU6QlBCgCmW8aj6LYAn2HhKnztzbRfVdNGTkrCw+hvEDG9RF5WtBQSc83w3Lus8eJTSuxSjoxZ2WiGm4FkwxYXeM2ns49HSBK+WiQfUwdL5fhl7Pl5c0Ow4GvuCvYANORxKF2qY6NO+WR80xzNmOch53gNUnej3JKAJp98By9vMyqiHj3gLpfWjC7Gsc/NzOSORGawOtkSPvs3lJHXGLoSpb4G91tOZy/lmSE8x9B8=;DlLHCdu/L0QpR6edxqwPpQ=="
+related:
+  - title: "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform"
+    excerpt: "Sinequa customers gain unprecedented search relevance, accuracy at scale, with the industry’s most comprehensive native neural search for enterprise use"
+    publishedDateTime: 2022-06-22T18:44:00Z
+    webUrl: "https://www.01net.it/sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform/"
+    ampWebUrl: "https://www.01net.it/sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 37
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+
+secured: "DWVvEzxyJTjCqxzora5K1ckAEynHyl9/sV0ljxi7B+9h8I3pKuQNRu3cXCwm7CkzzG6w3aD7ui7AkAaSsm1l7OyCrNf+sinwqZ40V7TlC567aQFMl2kRN/ZC7ZKvQXAaeVKcfArKGOXejuFzPaH4zdEVT9TYHXbk0ukxJyNvBPdCAMXafvSJeXB6uFzt2sKHjgth7aFyEXJCyPYB4iwy7WmUYBgDDtmVMW90UcW5scE1Y9nEsj5BWzv3ZB6jZKzOVtqhtpdtDmzMoR+LJMDxvMsT+KyfXhFMUpX61zQH33zpuk9J9hi0yoeFUYTAAMWduTR+0qlclhlwyzQV1FqkfvmhuOOCkALIUHlEATuX2mM=;/49Jgtm2CJrFp10Iecn7rg=="
 ---
 

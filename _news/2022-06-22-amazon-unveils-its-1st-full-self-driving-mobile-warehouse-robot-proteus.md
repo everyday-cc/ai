@@ -28,21 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Say hi to Proteus, Amazon’s most advanced warehouse robot yet"
-    excerpt: "Amazon has unveiled its first fully autonomous mobile robot. While it looks very much like a robot vacuum, Proteus is designed for transportation not cleaning."
-    publishedDateTime: 2022-06-22T04:15:00Z
-    webUrl: "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/"
-    ampWebUrl: "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp"
+  - title: "Amazon Robots Will Join Its Warehouse Workforce"
+    excerpt: "While Amazon's Astro started hauling drinks from room to room in some homes this year, two new working robots will start hauling and sorting boxes at the company's warehouses in 2023. O, Amazon gave a first look at Proteus and Cardinal,"
+    publishedDateTime: 2022-06-23T15:16:00Z
+    webUrl: "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
+      name: CNET
+      domain: cnet.com
     quality: 89
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/06/amazon-proteus-robot.jpg?p=1"
-        width: 800
-        height: 539
+      - url: "https://www.cnet.com/a/img/resize/c58b82d01bac03ecddd20850eaf2bc8d99d26ca3/2022/06/22/c974b7b0-bbfe-4bcf-8ada-b6bbcd7d7e67/gettyimages-1241014040-amazon-building.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon details new internally developed warehouse robots"
+    excerpt: "The systems are headlined by Proteus and Cardinal, a pair of new warehouse robots. Both are designed to help with the task of processing e-commerce packages. Proteus is a compact, two-wheeled robot that can pick up a cart containing multiple packages and move the cart from one section of a warehouse to another."
+    publishedDateTime: 2022-06-22T17:25:00Z
+    webUrl: "https://siliconangle.com/2022/06/22/amazon-details-new-internally-developed-warehouse-robots/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/amazon-1.png"
+        width: 850
+        height: 478
         isCached: true
   - title: "With new warehouse robots, Amazon looks to invent its way out of its safety problems"
     excerpt: "Other robotic systems shown for the first time included “Cardinal,” which uses AI and computer vision to select and lift ... and expects Cardinal to start rolling out to its fulfillment centers next year. Another new system, called AR ID, uses computer ..."

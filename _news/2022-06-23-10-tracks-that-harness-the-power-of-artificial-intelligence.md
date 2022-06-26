@@ -7,7 +7,7 @@ originalUrl: "https://www.musicradar.com/news/10-tracks-artificial-intelligence"
 webUrl: "https://www.musicradar.com/news/10-tracks-artificial-intelligence"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "‘Today, retailers can harness the power of artificial intelligence in practical ways’"
-    excerpt: "Applied AI can bring efficiency gains, improved decision-making and enhanced financial performance, say McKinsey's Anita Balchandani and Louise Herring."
-    publishedDateTime: 2022-06-22T05:00:00Z
-    webUrl: "https://www.retail-week.com/opinion/today-retailers-can-harness-the-power-of-artificial-intelligence-in-practical-ways/7041974.article"
+  - title: "Former Hackworth Fellow Envisions the Future of AI"
+    excerpt: "The Future of Life Institute is a global leader in AI ethics and AI governance, as 2020-21 Hackworth Fellow, Julian Dreiman ’21 says: “[Future of Life] really has a lot of sway as a think tank, a lot of people go to them to look at these issues.”"
+    publishedDateTime: 2022-06-23T20:46:00Z
+    webUrl: "https://www.scu.edu/ethics/about-the-center/center-news/former-hackworth-fellow-envisions-the-future-of-ai/"
     type: article
     provider:
-      name: Retail Week
-      domain: retail-week.com
-    quality: 45
+      name: Santa Clara University
+      domain: scu.edu
+    quality: 39
     images:
-      - url: "https://d53bpfpeyyyn7.cloudfront.net/Pictures/1024x536/0/2/5/3100025_aiuse_109549.png"
-        width: 1024
-        height: 536
+      - url: "https://www.scu.edu/media/ethics-center/center-news/Julian_Dreiman_2022-360x225.png"
+        width: 360
+        height: 225
         isCached: true
 
 secured: "HC6j1upa+Q3yuwl1mC4ifIcY8w7wjA3oEYev1tjlBUHr6uqJ/iEeoHVzmc9SNOb1JjYC1bELNvKGekUBFPBASsrbWZ4SLyBOKAOqNWjx65uRuzVJABcRhpaT1EikhmJjpqNPIMQnMSdFeugmylMc+XvPqjnRf4lUldU12Jar+HpRNTK7z/jD7wqhl1V4e+fA1ioQdNwEuX8fbacQ3eu1e2SiDk/45GW4u7pjnJdYnIeFveRjcNwbDR6Vg5E7j4YAIsV1OdU6OCLUzDlDRMSWWkl27ZMdMb0TQ4D8Cxirp4/Sw9YrEIJoFeOulLuX9xU6Kr0MxPuUA0XF+rTH1t5BYf3LiGyJgczag0ZXkh84ewE=;v4I2JY9zh8Ctg2ZiJ4npxw=="

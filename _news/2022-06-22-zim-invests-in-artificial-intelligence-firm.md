@@ -34,6 +34,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "DTI begins preps for AI"
+    excerpt: "THE Department of Trade and Industry (DTI) has begun preparations for the establishment of the $20-million Artificial Intelligence (AI) research hub, to be funded by the country’s top conglomerates. At the recent 2022 Manufacturing Summit,"
+    publishedDateTime: 2022-06-26T20:39:00Z
+    webUrl: "https://businessmirror.com.ph/2022/06/27/dti-begins-preps-for-airesearch-hub-privatefirms-to-foot-20-m-bill/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/BusinessMirror-BM-lettermark.jpg"
+        width: 1400
+        height: 799
+        isCached: true
   - title: "Conglomerates investing $20-M for AI center"
     excerpt: "Big companies in the country will invest USD20 million (around PHP1 billion) to establish a shared hub for artificial intelligence (AI) research.Department of Trade and Industry (DTI) Secretary Ramon Lopez said in a recent interview that conglomerates are funding the"
     publishedDateTime: 2022-06-26T05:21:00Z

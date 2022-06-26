@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify"
-    publishedDateTime: 2022-06-23T20:03:00Z
-    webUrl: "https://wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/"
-    ampWebUrl: "https://wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 57
-    images:
-      - url: "https://wsvn.com/wp-content/uploads/sites/2/2021/09/instagram-5409107_1920.jpg?quality=60&strip=color&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
     publishedDateTime: 2022-06-23T20:24:00Z
@@ -100,6 +84,22 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Instagram tests using AI and video selfies for age verification"
+    excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
+    publishedDateTime: 2022-06-26T18:26:00Z
+    webUrl: "https://www.whas11.com/article/tech/instagram-testing-age-verification-tools/285-4dac1f40-f069-49ef-8798-354878572102"
+    ampWebUrl: "https://www.whas11.com/amp/article/tech/instagram-testing-age-verification-tools/285-4dac1f40-f069-49ef-8798-354878572102"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/tech/instagram-testing-age-verification-tools/285-4dac1f40-f069-49ef-8798-354878572102"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 57
+    images:
+      - url: "https://media.whas11.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Instagram trials AI tool to verify age of users"
     excerpt: "SAN FRANCISCO - Photo-sharing platform Instagram said it was starting to trial a tool that relies on artificial intelligence (AI) to confirm the age of users in the United States. Lawmakers across the world have been vocal in demanding that the social ..."
     publishedDateTime: 2022-06-23T15:51:00Z
@@ -113,6 +113,20 @@ related:
       - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-06/doc-32D33NQ-%40photo0.jpg?h=4bf1c8f5&itok=U32GY5Dv"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. Meta, which owns both Facebook and Instagram,"
+    publishedDateTime: 2022-06-23T20:12:00Z
+    webUrl: "https://www.kxly.com/i/instagram-tests-using-ai-other-tools-for-age-verification/"
+    type: article
+    provider:
+      name: KXLY 4 News
+      domain: kxly.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/06/q/r/5eb482d125e302385cce288e60e408b575aa0bf0.jpg"
+        width: 915
+        height: 610
         isCached: true
   - title: "Instagram tests using AI and video selfies for age verification"
     excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."

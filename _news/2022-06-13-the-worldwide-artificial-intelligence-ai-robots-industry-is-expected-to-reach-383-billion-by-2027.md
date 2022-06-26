@@ -5,6 +5,8 @@ excerpt: "The Global Artificial Intelligence (AI) Robots Market is estimated to 
 publishedDateTime: 2022-06-13T11:45:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
 webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
+ampWebUrl: "https://www.benzinga.com/amp/content/27667412"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "aR5Gq8IDBGcZ033uYpd0/lCHX5rv4mLkhr+sGHEU9ftuCkXKKaUsxqVFIWc9WoTRU4mez5OiFMXUNh7zJQJi7p3BD7my8oDa42C1xk42cIeJPBh9uu+U/h0doy/d6QEcZdkUIcs/yqwTBLjMFEGCHks7pCY9N2Iaj3M0rOy+DPF/r6tCsQRz6/dg97n1Og/140pYnyLQUZZcDl9QxuMcX9laqi4k4ednH5Pywg6GnadUSUFT5e2hfYXby89OZFI4TqYgU1zy9NbnZJJcen7VTMG5oojv/uLHSEUDygwVO6FK/8GdLdLkcnsT0ufWNOAhbB/6p3Rvsr1JptIHgFQXOv4ECb8hjT44+tBMHyttdbI=;Mrk5ytuVNyIuAWN9+2q+lw=="
+secured: "Sq9G4cXcPiHlqlbKv7P1Mpzb4Jx/RERznY685BtTw3KZFnWSlUmMrJBwilwISW4HORrjsIbxkqGvZXFYrtRzbDh//JtSBzrIwMi+FhwMhL/N6LrMSnkJuHs7N1VNSeEhMVIv42izi6GP7/80CPpnjZP7O/+uTkAHTj9N9HPQEaJJhJdgI+yRlPv1CThO+r5meuI3jnlty3WQV1SZw8z9IvzcTs6QzoUcTik+OzMICXK2+FTf+D4ifdnnn2gUPCg4PGSXv82yX8D0UR+J/MMJTGjU2pn8nHZR6YHUxWUnyUynCjHQ9Y+AZ8VSNQHvIgKTjlv69G4IdtsxbYfU/0/Bwwh7qnyoDQDddOBkFFbkqfU=;/fVj+WIDdFqvdOoF9/M3ZA=="
 ---
 

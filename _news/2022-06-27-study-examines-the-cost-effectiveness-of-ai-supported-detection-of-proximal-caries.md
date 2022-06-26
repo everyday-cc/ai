@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-26T18:11:00Z
 originalUrl: "https://www.news-medical.net/news/20220626/Study-examines-the-cost-effectiveness-of-AI-supported-detection-of-proximal-caries.aspx"
 webUrl: "https://www.news-medical.net/news/20220626/Study-examines-the-cost-effectiveness-of-AI-supported-detection-of-proximal-caries.aspx"
 type: article
+quality: 11
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Is Artificial Intelligence-supported Caries Detection Cost-effective?"
+    excerpt: "A new study assessed the cost-effectiveness of artificial intelligence-supported detection of proximal caries and its benefits in caries management."
+    publishedDateTime: 2022-06-25T18:08:00Z
+    webUrl: "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 17
 
 secured: "//5F02wPZl+/nRB9mEP+wfvAbMlrNcoi8DSXKmRqcKGn5q3gkT2b9nHk9F6MVotyKX5cRCXkgiQXsAUJOYv3fFKkdLA6e0yxf7roEcpoK16pFNVKEpBJcrjoGtvdo2qd/sWQk4nJXwuzdnrQ4wgi/oJ61gEvIB/IDp4kd+r2tOolqfI+Ik4gz9roLsqiu1gRKTczCWijiv+CQrykxXvvZURi1j4y2FMlAUHD8dCwf7x8sVYdnBW5to+u2QUJTIvNQS2smI60VfBUUcCqcJQHSDqZQLNSXMOT5UOxpg1K4WF3X/9BOueKwpKM09waw4AegV/0ZsKzZ7WX1Ro6JYFow3/qKKn4ZXrldsAiL1O/r6Q=;zDjGCuEtZ4ZV0ddnfknq3g=="
 ---

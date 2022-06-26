@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-26T19:01:00Z
 originalUrl: "https://www.salon.com/2022/06/26/westworld-review-season-4-hbo/"
 webUrl: "https://www.salon.com/2022/06/26/westworld-review-season-4-hbo/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Salon

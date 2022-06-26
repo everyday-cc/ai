@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2022/06/27/business/top-business/big-fir
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "DTI begins preps for AI"
+    excerpt: "THE Department of Trade and Industry (DTI) has begun preparations for the establishment of the $20-million Artificial Intelligence (AI) research hub, to be funded by the country’s top conglomerates. At the recent 2022 Manufacturing Summit,"
+    publishedDateTime: 2022-06-26T20:39:00Z
+    webUrl: "https://businessmirror.com.ph/2022/06/27/dti-begins-preps-for-airesearch-hub-privatefirms-to-foot-20-m-bill/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/BusinessMirror-BM-lettermark.jpg"
+        width: 1400
+        height: 799
+        isCached: true
   - title: "ZIM invests in artificial intelligence firm"
     excerpt: "Cash-rich Israeli carrier ZIM has invested $6m into Data Science Consulting Group (DSG), a compatriot tech firm with a focus on artificial intelligence. The two companies have already been working together over the past year."
     publishedDateTime: 2022-06-22T05:51:00Z

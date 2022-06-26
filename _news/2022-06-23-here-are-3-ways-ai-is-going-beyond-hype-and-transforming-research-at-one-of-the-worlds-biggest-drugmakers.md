@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-23T12:30:00Z
 originalUrl: "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6"
 webUrl: "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6"
 type: article
-quality: 29
-heat: 29
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "I6WR3WsTQicLHWkeNolGhw5MwfxUeYKFiVuiOCWTZheq1c7IQ16iRwb0m6/PlrFkM9uCktLA0sHd0zmSsz3ixXovQp/uT4LbR/aPL4c7d03efEwN07b6SmaTVBsdLxH6AmTJp/2qoVLq12WaNxvtZ9515APgEr4zukYB3njspt++XndLFHVaxVgXs5U9GHq4Fp9Sdfa5UHKx7LnI67UdobWSho1GUdLfLV+DXrbKK6FPUZjohyRjsHo5NVUf4bWhU+kfX7LWYTjlH8VnOJHTPOnT072yfB4YvkF/uOWkkktJkpiTa8fnub1bMas9RnH5EXuVurUK0V9yU70gAu5vJZWiMiOvrBndb/zXq9sxOYJb84pFCxKkhF16vchWlfg7j5g1xOgXt7Vu9u9S/Lkd1MVzbcQM5GBHCz7WimaQt8/jcLd3m0o/roxl3l09IY8airMqhskNiWRL+RRhVtWgPLfUsLWuiblUiaa3XQPBus0x2Vd2co3PjSWjEXVY1tAjep+ODlVe9k+ds9RZVt5jUw==;9DtlhZZPlsepLevDfMG5zg=="
+images:
+  - url: "https://i.insider.com/62b220ea4245600018ddcfbf?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "x6FD3K3XbhfhnE2VXDTLli47F6e2JipyREfRIbxyidUliOY8bRen7n3FxCXLLHlT2S/vWQOFPppAU9VsiejLcIyBoTwyqDduufjmelhXjdY4p+WtO1uOZL+ksjfgVOLXf8XMjVgGYoPhN1wHLwd4ffnkSdF/xlDVPiEpwj6pnJBJPASaUm84PJ7H2O3gaWQHqi+3ZEjbMvulDQ/01J9+Un9ojjFWNStHbQhFyubdDOxOppzysWlaDNbRuDTnoSSde1pdjgL42Y9J34y5tgxfQd3TM93Og95qWUKMpiak5IgAkoj2CpxqrVJA+oPIVWG+rn58A1TLg3UnWbsZ4pmBcXxPFou+TTkXC/Rt17UN5ss=;Dkh9Z69gmxQzPBZy/xTl9A=="
 ---
 
