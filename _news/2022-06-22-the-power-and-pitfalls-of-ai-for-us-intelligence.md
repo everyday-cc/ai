@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-comm
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-13-at-4.35.24-PM.png?w=1024"
         width: 1024
         height: 566
-        isCached: true
-  - title: "4 Challenges of the SOC: How Decision Intelligence Can Help"
-    excerpt: "Artificial intelligence can aid decision-making and automate manual, repetitive processes with greater efficiency – resulting in more productive security operations centers."
-    publishedDateTime: 2022-06-21T16:47:00Z
-    webUrl: "https://www.eweek.com/security/challenges-of-the-soc-decision-intelligence/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 52
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/08/typing-on-computer-scaled.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "10 tracks that harness the power of artificial intelligence"
     excerpt: "Perhaps the best way to demonstrate AI’s creative abilities is to zoom in on how numerous artists have already worked with it, and – together – crafted some quite astounding music"

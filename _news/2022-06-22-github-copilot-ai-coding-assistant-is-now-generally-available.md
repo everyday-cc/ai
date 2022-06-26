@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://images.wsj.net/im-571472/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Copilot, GitHub’s AI-powered programming assistant, is now generally available"
-    excerpt: "GitHub's Copilot tool, which was developed in partnership with OpenAI, is now generally available. It's free for students and 'verified' open source contributors."
-    publishedDateTime: 2022-06-21T16:28:00Z
-    webUrl: "https://techcrunch.com/2022/06/21/copilot-githubs-ai-powered-programming-assistant-is-now-generally-available/"
-    ampWebUrl: "https://techcrunch.com/2022/06/21/copilot-githubs-ai-powered-programming-assistant-is-now-generally-available/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/copilot-githubs-ai-powered-programming-assistant-is-now-generally-available/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/08/IMG_20190506_125609.jpg?w=1024"
-        width: 1024
-        height: 693
         isCached: true
   - title: "GitHub Copilot Will Help You Write Code Using AI"
     excerpt: "Microsoft-owned GitHub on Tuesday announced that GitHub Copilot, an AI pair programmer that suggests code in your editor, is now generally available to"

@@ -47,9 +47,9 @@ related:
         height: 600
         isCached: true
   - title: "AI can never be human"
-    excerpt: "Therefore, it's not surprising that Google put one of its engineers on administrative leave after he claimed that LaMDA, an AI-driven Google chatbot, was sentient and that it has developed something akin to human consciousness. Automatically, the story ..."
-    publishedDateTime: 2022-06-26T04:32:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/opinion/2022/06/352_331642.html"
+    excerpt: "All this is to say that human beings are, first and foremost, meaning making beings. That's what defines who we are, why we live, whom we love, whom we kill…etc. If we are honest, our lives are insufferably predictable and boring."
+    publishedDateTime: 2022-06-26T07:32:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2022/06/352_331642.html?fl"
     ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=331642"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=331642"
     type: article
@@ -58,7 +58,7 @@ related:
       domain: koreatimes.co.kr
     quality: 57
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Jason_Lim_w200_30874417b72fc.jpg/dims/resize/740/optimize"
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Jason_Lim_w200_58f27a4c1006d.jpg/dims/resize/740/optimize"
         width: 740
         height: 914
         isCached: true

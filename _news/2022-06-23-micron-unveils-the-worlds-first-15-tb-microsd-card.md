@@ -38,20 +38,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 54
-  - title: "Micron introduces the first 1.5 TB microSD card"
-    excerpt: "such as object detection and classification like license plate or facial recognition.” Micron says the cards should also be long-lived: you should be able to record video continuously 24-hours a ..."
-    publishedDateTime: 2022-06-21T16:39:00Z
-    webUrl: "https://liliputing.com/2022/06/micron-introduces-the-first-1-5-tb-microsd-card.html"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 24
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2022/06/i400.jpg"
-        width: 900
-        height: 672
-        isCached: true
   - title: "1.5TB microSD card introduced by Micron"
     excerpt: "If you are searching for an extra large microSD card for your camera, vehicle dash camera or action camera, you might be interested in the latest storage"
     publishedDateTime: 2022-06-22T11:35:00Z

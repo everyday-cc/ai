@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ithaca.com/news/technology-helps-self-driving-cars-learn
 cdnAmpWebUrl: "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/technology-helps-self-driving-cars-learn-from-own-memories/article_ef7e5a46-f265-11ec-a93e-d7c247ce97e2.amp.html"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -28,31 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technology helps self-driving cars learn from their own memories"
-    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This is achieved with the help of artificial neural networks,"
-    publishedDateTime: 2022-06-21T16:37:00Z
-    webUrl: "https://techxplore.com/news/2022-06-technology-self-driving-cars-memories.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-technology-self-driving-cars-memories.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-technology-self-driving-cars-memories.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car.jpg"
-        width: 1920
-        height: 1344
-        isCached: true
-  - title: "Technology helps self-driving cars learn from own 'memories'"
-    excerpt: "Researchers have developed a way to help autonomous vehicles create 'memories' of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
-    publishedDateTime: 2022-06-22T15:27:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 36
   - title: "John Deere: Leading The Charge In Self-Driving Technology"
     excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
     publishedDateTime: 2022-06-22T11:47:00Z
@@ -76,15 +51,6 @@ related:
       name: Azorobotics
       domain: azorobotics.com
     quality: 17
-  - title: "New Method Helps Self-Driving Cars Create ‘Memories’"
-    excerpt: "A team of researchers at Cornell University has developed a new method enabling autonomous vehicles to create “memories” of previous experiences, which can then be used in future navigation. This will be especially useful when these self-driving cars can’t rely on sensors in bad weather environments."
-    publishedDateTime: 2022-06-23T13:32:00Z
-    webUrl: "https://www.unite.ai/new-method-helps-self-driving-cars-create-memories/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 6
 
 secured: "UysmgZHmt3Q/guBSuR2LihS6CLp1PRh0NuzPS6CUrtEkJjd/TUeEsWUUlNtLA5H23b69qMKRsKAVnUjn2f4TmRrZEhpPF2f0v6yb7mm0tNoxz6+CzesO88MDD7Z68koDXDvdEjcoMzM9AV4dbizPeMcxe+i2V7pWVdbNnGaiB1RQUS1y4qgEavs7YyEJTdNL55doRcXZod7jFXXP+pyot39SQiI7Newj7o4Ok2AiNYjI3Jo8zryivNj69XhFidO0+fVil8ZTQ7H7ETgwb1FHNdvelROluTnQx1dGNWZrUDgLwVQgEHSqBBcBZjSDkRUvDtoOPE69yhjiYGaIrW29Sb9RHJTghfJHe5EGeSxkG4zkYTruPefSbWzidpJm0zxy+oDbyukPwaPvbkHDmAqGSnZ1vonV1YpzT3CN34bJmTtV7TE1NjEmeTi/Fd7fG/yR3I0OncS3GbGDFIovigQWe+pX5CZvysJG4Gx36EWkuxXqp0wOLSaS98NQFU30dtnI/r5P/1xJFflcC86cXyL5Hg==;mD9lHQHgmWB7vuQC5kDsDw=="
 ---

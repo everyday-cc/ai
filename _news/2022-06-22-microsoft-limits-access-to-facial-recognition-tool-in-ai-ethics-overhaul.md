@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft to curtail some of its facial recognition capabilities in the name of 'Responsible AI'"
-    excerpt: "Microsoft is limiting, and in some cases, dropping completely, some of its own facial-recognition technologies in order to meet its evolving ethical AI standards."
-    publishedDateTime: 2022-06-21T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 108
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/aabce5078bdea32e80b21d0996b47b4e6becd82c/2022/06/21/3a67307f-5daf-4534-b7b0-c65e89f1a409/microsoftcurtailsfacialrecog.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 743
-        isCached: true
   - title: "AI Weekly: Microsoft’s new moves in responsible AI"
     excerpt: "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ..."
     publishedDateTime: 2022-06-23T16:31:00Z
@@ -577,6 +561,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "DSzWJZ/A3lcN0zkZYn34ulgcX0d8IGjKiJYJUl1N8aVo42ftdxNAsnWrycScxynUR5Zid2PXeHxnFPMeVaBfustblk4slsCDnD9EZ1kbePRMqUF00m4iSMF35CMgBAbCMK8VIM//Z5kMzqDQEummIzAgfJx4QDADXXLFJ1vjdki4RWHoLIZ+rzP6omMtTkf6wvZOTX3x+rI6QinhFi4QtloFn/uEx7A/ToOf3xcswgQzFooa6lZssGeVJiBaBiHc5r3nbIImIz6PI/PZ1ahDRwkwTnEKa1Wh8BMaKXpBMpbFJPvmlh1PO3m0GM7gSkwuivCi2lIGJZ9REkU2mDwMfwSRUSOpgX/pBOyLM3HSlYU=;sgxiE5duT12EID0ueVKcFg=="
+secured: "cO24j9al85y6d3mjeHlWCs1/SoJBeiSSL0V27YKi6Adbqz+iovIz/O8QIL1D6ejPhyHUlBFPB3j8/V9d8XV8mZ68FrrsmKqqMASrbMDZ9oN2ThCguSc5e2xknWIJPOkFnqzVB0gGm3x29OHEkvtulbWaW6/xTRVniNkiugiAF5JKjSaWkXbJjHG4KE7TX9ufhAwndX+ry+p4NPOa4JAq8ZqvTBJaf6rWjYfJGJalqg4TslqSXx5R1NeX0LlnFQ+BeMXdcBhEwFlW531L5hLGCLowAvrVmWNUOdrztYVHdnPy7IGx3iOdSuTf9HNYrywKlbyy0CmTdwI8IPBecWxAfHz4i/mk/2hLqK+qqPWGQHQ=;FGORsIXy4o0wxeOJY7J3HA=="
 ---
 

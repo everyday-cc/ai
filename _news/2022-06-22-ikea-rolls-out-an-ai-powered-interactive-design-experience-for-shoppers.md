@@ -46,20 +46,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "4 Challenges of the SOC: How Decision Intelligence Can Help"
-    excerpt: "Artificial intelligence can aid decision-making and automate manual, repetitive processes with greater efficiency – resulting in more productive security operations centers."
-    publishedDateTime: 2022-06-21T16:47:00Z
-    webUrl: "https://www.eweek.com/security/challenges-of-the-soc-decision-intelligence/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 52
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/08/typing-on-computer-scaled.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "10 tracks that harness the power of artificial intelligence"
     excerpt: "Perhaps the best way to demonstrate AI’s creative abilities is to zoom in on how numerous artists have already worked with it, and – together – crafted some quite astounding music"
     publishedDateTime: 2022-06-23T08:53:00Z

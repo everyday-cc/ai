@@ -41,15 +41,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution"
-    excerpt: "today announced that it has entered into a cooperation agreement with a leading global Fintech service provider. Under this agreement, Infobird will leverage its AI Chatbots and years of ..."
-    publishedDateTime: 2022-06-21T15:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 0
 
 secured: "5RQiGVWr+PMHlEAOj7V4glUDIFuJwwuJ+trcQtRNk2vKRvTKEHJmtR2K6J7U/RluAh5AhkEGTfzqZXdwyVl5mgXHaU9eHcthZ81nhgetGMpQLQw0DCxVkqeY3QM3K07m8AhWW0JZqbTT+iYfZp8om3cSzrbxFTfg5l9C/F/fWywcylNKeSf3Yh9tgOy1UYR3nYkV9d41K7xn46wbfaiQNUs3W3qG1VSlUNXIRQTnGWH2MTXUy83IpVAMA3qgBcSimjkdD2h78QT80bKKWSpGlHBdZeSWuCXLOc4IiWQgTKkVDibz9v9EqRagy4FamPg1+LnRluRFMEyBQ8ZzF95qy1m2wqpbcf0p2qhuJmG+4a8=;JxPKYc6oykPMR++QDbxMbg=="
 ---

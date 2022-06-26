@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=12622
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262284&cat=PR News Wire"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 258
     isCached: true
-
-related:
-  - title: "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022"
-    excerpt: "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But naturally we can't just be thinking about the past - we need to be ..."
-    publishedDateTime: 2022-06-21T16:32:00Z
-    webUrl: "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 67
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/vExTvrYZ34ak3GJaUNv2zF-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
 
 secured: "87fRDVUjP/Sz9cqbzdsITeDoP1HFFd68K2aYC+1rW+fgJSvgQtxiiBgPrRsYCnLb/AqOATml0IsQ9h2KZ3hs7XOYRUiuQayLbnXkbgWkzdpMR9tv02c/ImH0ZrdCWKkQNd+psj0hDl4/5t86ZROAo49OkdvEISb0Zs/78ibwvJHshSWm42+Ufi1SXj1IyrSj7I5/giumLfN+kEzLXGI1mEMCDEe1U6NINMwtGGMfAjpMGJURGX0lESYEroHQ8chGtSrPSIYHPNtqjvjDvLYIpHjg454rT2wA5Gqyx99a7MVB5E40cLVEbDdjqHW0dkL16z6Riuh5itUB8YzdMuk5jvRtWJeZUeaukw7V1BL1CHXCKpi8216zMnFxh/lF+3oZ+v9UoBPDyKo4/Aneb8QPZHVoSvbGCBsER0LQWy2gX+x6LHAhHSBPgwHtg3CBNCh1q+9DLsEym2slupD7/rT9ucG+KnGYVbS1pnLdox19Uhmf50EukvFZQAlY+QgKwInCrZTSIaGr7XdjdyMP7I2u0Q==;KLeT5QDDZI4opv6VrWIXkg=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 566
         isCached: true
-  - title: "4 Challenges of the SOC: How Decision Intelligence Can Help"
-    excerpt: "Artificial intelligence can aid decision-making and automate manual, repetitive processes with greater efficiency – resulting in more productive security operations centers."
-    publishedDateTime: 2022-06-21T16:47:00Z
-    webUrl: "https://www.eweek.com/security/challenges-of-the-soc-decision-intelligence/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 52
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/08/typing-on-computer-scaled.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "HC6j1upa+Q3yuwl1mC4ifIcY8w7wjA3oEYev1tjlBUHr6uqJ/iEeoHVzmc9SNOb1JjYC1bELNvKGekUBFPBASsrbWZ4SLyBOKAOqNWjx65uRuzVJABcRhpaT1EikhmJjpqNPIMQnMSdFeugmylMc+XvPqjnRf4lUldU12Jar+HpRNTK7z/jD7wqhl1V4e+fA1ioQdNwEuX8fbacQ3eu1e2SiDk/45GW4u7pjnJdYnIeFveRjcNwbDR6Vg5E7j4YAIsV1OdU6OCLUzDlDRMSWWkl27ZMdMb0TQ4D8Cxirp4/Sw9YrEIJoFeOulLuX9xU6Kr0MxPuUA0XF+rTH1t5BYf3LiGyJgczag0ZXkh84ewE=;v4I2JY9zh8Ctg2ZiJ4npxw=="
 ---

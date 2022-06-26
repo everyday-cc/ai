@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI can never be human"
-excerpt: "Therefore, it's not surprising that Google put one of its engineers on administrative leave after he claimed that LaMDA, an AI-driven Google chatbot, was sentient and that it has developed something akin to human consciousness. Automatically, the story ..."
-publishedDateTime: 2022-06-26T04:32:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/opinion/2022/06/352_331642.html"
-webUrl: "https://www.koreatimes.co.kr/www/opinion/2022/06/352_331642.html"
+excerpt: "All this is to say that human beings are, first and foremost, meaning making beings. That's what defines who we are, why we live, whom we love, whom we kill…etc. If we are honest, our lives are insufferably predictable and boring."
+publishedDateTime: 2022-06-26T07:32:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/06/352_331642.html?fl"
+webUrl: "https://www.koreatimes.co.kr/www/nation/2022/06/352_331642.html?fl"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=331642"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=331642"
 type: article
@@ -20,7 +20,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Jason_Lim_w200_30874417b72fc.jpg/dims/resize/740/optimize"
+  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Jason_Lim_w200_58f27a4c1006d.jpg/dims/resize/740/optimize"
     width: 740
     height: 914
     isCached: true
@@ -59,6 +59,6 @@ related:
         height: 600
         isCached: true
 
-secured: "tp9cYUfWj9uI0EiLdgIH3BrWSIVDk7q2RdoSDTmp1a3iYoU5//5TSLaLMpB1zIGqtl139kD/NTpyfLRXOIrEaQWib+Q6MG4Pt8SwlVuqAa1QPUmwxFBqlWcaKsT+o/9ZZTpnk+DnPqNN6Y3Z3gVMbm6/VwjEJfCKGA7pwMZU0MFsXDT67e5y4WWdNBhD0801MN9Ab526XcVO6vnhhQpiplFfOULkvEnq3b8c2zEz79C93yDNFqonLgm82xbSVmci/LF0vBEGkWF0y+ausii4VWv8VF2C+EeanABhISWIKWMlk5FtuTJKmYMisaPTVIHBZ95WGARwlzAhv7U2VdVnLxUbZLdnKTT8ew+dHAUJoic=;STYQ0XsbpBVdsh9ap6960w=="
+secured: "P4ddT9B2DqnE1GpjdhB3dH4+fRNsRytpDTi2URGwqNA3rtmn/rlKPssQeYctFkQ/73i2QWCt+pC/cU7EoMsH9XvUHDTqU2JkYn2sE9J+fy3kgnkgqggTjLXtcmiAPX2/gSk6foDXn4CdGsZEqMeV5AyZZOls0dkq78JS8sdt3QRbLWLyGIn/E3BcyxGKDAon1PGls1RItzmfimiBD53l4k0x8Ggvfggc/yTPusj+H4XSBhB4jXPeMSsJwTFhaNuUGHMHxv+SD+4l2krGSC8DPs349jIMYEniTLC4RfAyTqXpKCC8G6Zi4y0QDL3Yd7A32ljWLdOVtf5yaUmAWteixlSJEL+rgg4Yz0z4kJ+bc98=;PGk6SItRQe+rv7juFO/B0A=="
 ---
 

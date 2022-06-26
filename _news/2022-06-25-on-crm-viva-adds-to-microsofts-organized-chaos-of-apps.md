@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft to curtail some of its facial recognition capabilities in the name of 'Responsible AI'"
-    excerpt: "Microsoft is limiting, and in some cases, dropping completely, some of its own facial-recognition technologies in order to meet its evolving ethical AI standards."
-    publishedDateTime: 2022-06-21T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-curtail-some-of-its-facial-recognition-capabilities-in-the-name-of-responsible-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 108
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/aabce5078bdea32e80b21d0996b47b4e6becd82c/2022/06/21/3a67307f-5daf-4534-b7b0-c65e89f1a409/microsoftcurtailsfacialrecog.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 743
-        isCached: true
   - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
     excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ..."
     publishedDateTime: 2022-06-22T15:20:00Z

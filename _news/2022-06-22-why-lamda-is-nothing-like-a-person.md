@@ -7,7 +7,7 @@ originalUrl: "https://slate.com/technology/2022/06/google-ai-sentience-lamda.htm
 webUrl: "https://slate.com/technology/2022/06/google-ai-sentience-lamda.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 780
     height: 520
     isCached: true
-
-related:
-  - title: "Sentient? Google LaMDA feels like a typical chatbot"
-    excerpt: "Google engineer Blake Lemoine caused controversy last week by releasing a document in which he urged Google to consider that one of its deep learning AI programs, LaMDA, might be \"sentient.\" Google replied by officially denying the likelihood of sentience in the program,"
-    publishedDateTime: 2022-06-21T16:54:00Z
-    webUrl: "https://www.zdnet.com/article/sentient-google-lamda-feels-like-a-typical-chat-bot/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
 
 secured: "cRsXzfqVRakls9CEFZzqDFs3JN8r8ubaDsbcOmSv7tvO0h/0hDy1NwS0noYAuE2DagTUbeR6YoNPkc64lD7K3JD6uVYyhNSJLyYGBUMMgdtkePr2Z3C/Ck0W8yxPk6KwFGpRUNgy+qLGWX/Ae+aJytavrLIDn50Y1JqmcTkOikoEqW+pdsP3DLhfXYHKGZv1A/BMHwRArCdCDttXtOkWnz3DHrvFO3FrP3ZWMcpXA1ESXfshLHGZvI4mj0RfBNTm3zzxpMTABNHZMBU0Foi6deKRk9NV+trkQTSq84sA1wqfIXjIjH3hMC6YbjT8WvcjVTMP24+aV/A+NmxIi1l7ic17PDMczeZnVUSw1eT1Dts=;FLKYX70AeBx3pd69RqyIHA=="
 ---
