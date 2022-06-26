@@ -47,20 +47,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Justice backed by AI"
-    excerpt: "An artificial intelligence (AI) system to be used as a sentencing guideline in courts within Peninsular Malaysia is in the works, while it’s now applied in Sabah and Sarawak. Before it proceeds, a lot of deliberation and consultation is needed."
-    publishedDateTime: 2022-06-25T23:33:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2022/06/26/justice-backed-by-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/26/1636616.jpg"
-        width: 1240
-        height: 770
-        isCached: true
 
 secured: "igDgBnpGBdQ/asvOOjNoMDOIJjTQeoziUfXHbzdZ4KSu4uj4v5R2aeoxsWT1CN8SIYvD7ZFLEl3CERjVj+n0w2JvHwQcrE21duyFfKIsbWG7Q05u1QEL6Yu8fcFQJjmcfG525VhBKLTetMjKoU3k5Qoq3PAYOXmipv9CxieTp0dueWWTVdLd0/UF4uGAOy33A/7WV6sbdgPRG9K5P0AZbESc0/SJ+oud8KTCQfMoTHH5SoWb/vqIrlJn6w3friIJBrz1GFShMK3xRA4eSLbmmAq2kvhLnpq5Q7vKKLOpM5VD0xeqODnX+RdJ76mzbYC8C+l0Ck6cIu0yaIFJ/Ye4PZLU3LVLDZQwWC2T23r3kYSBY6+vtsxfr2XltilvLvzPngOeTnrjgko6CW7mbb6W08sjr3tP+U0ilDsmtX+LexI4c0LqfLFhLyflBxY6/gCjjJmWWRUCQ23p7NFT3w31YWrROe1oE6/prMfn67RRVi6o4kv3uhWraVOoqnKUpdoBHysfBZIK26H8FDOP6eAHQQ==;nXlWPY7//4y2c2k6bmQABA=="
 ---

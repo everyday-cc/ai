@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Using AI to save the lives of mothers and babies"
+    excerpt: "As part of our SLAS Europe 2022 coverage, we speak to Professor Patricia Maguire from the University College Dublin about their AI_PREMie technology."
+    publishedDateTime: 2022-06-24T10:13:00Z
+    webUrl: "https://www.news-medical.net/news/20220624/Using-AI-to-save-the-lives-of-mothers-and-babies.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 37
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_717399_16558959837485847.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Visionary.ai and Innoviz Partner to Improve the Power and Accuracy of Machine Vision"
     excerpt: "Combining Visionary.ai's Camera Imaging Software and Innoviz's LiDAR and Perception Software Enhances Performance in Low-Light Conditions Visionary.ai's True Night Vision technology leverages Artificial Intelligence (AI) to dramatically enhance image ..."
     publishedDateTime: 2022-06-22T11:55:00Z

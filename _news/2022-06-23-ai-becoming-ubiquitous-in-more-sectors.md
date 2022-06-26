@@ -38,20 +38,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Justice backed by AI"
-    excerpt: "An artificial intelligence (AI) system to be used as a sentencing guideline in courts within Peninsular Malaysia is in the works, while it’s now applied in Sabah and Sarawak. Before it proceeds, a lot of deliberation and consultation is needed."
-    publishedDateTime: 2022-06-25T23:33:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2022/06/26/justice-backed-by-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/26/1636616.jpg"
-        width: 1240
-        height: 770
-        isCached: true
   - title: "How conversational AI can transform the Gulf’s hospitality sector"
     excerpt: "As a result, consumer requests and responses often end up getting lost in translation. Conversational AI helps understand your customers, their asks, and preferences better in the language of their choice. According to HubSpot, 33 percent of customers said ..."
     publishedDateTime: 2022-06-23T11:10:00Z

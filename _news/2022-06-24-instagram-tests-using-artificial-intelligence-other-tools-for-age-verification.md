@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+    publishedDateTime: 2022-06-24T00:12:00Z
+    webUrl: "https://www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
+    ampWebUrl: "https://www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 57
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7ZJ4BQS5HFANHIS753TETI45N4.jpg?_a=ATAK9d60"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
     excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
     publishedDateTime: 2022-06-24T20:49:00Z
@@ -113,15 +129,6 @@ related:
         width: 921
         height: 620
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-    publishedDateTime: 2022-06-23T17:44:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 17
 
 secured: "+289mczr1KgIISMUFCI4ao1ivL5z5L7LBzLnt+jRy1UfT/ti/CvsQziA8hEF0pevNtMsJ2W3qYdRUMbpY3I0jPhrFFBnt5qfEhZO5ei7+i6SEggu7rcILt1ousGAN3Ie0h/H05i2hvwT4bESkETN/Hlqxy4qAPrdtJfWrQFJNhRNUJ1KhXKpWhHoiBNJBvh2XfdtYbLgBkYYakQvhbmPUnZf+oCE8IWX5kuqnppG+TBlFuMPoGeZeglkpSMBSXzwEbLM2ieZDbY4KN4xtd7Eh87ZefwponxjN7Mgbi/G7l6GzzlyIlCbp5ckrW1ICrOWGKLI8oimABa7YkpruhpM2yaZa/HVCmXwIJt5K5NbYK6r02i2zxTJNovWsmxxOELGkSOouoFOP7UI2Uf7XfLTRafubtFn9Z38AjDBUZc1nz//MgmsRMOdE4/gB1WToH5HsKwgfnoqYIJRhCH55/KcXYyasAUxGvasEPoSEGyqzNLJq9CxtVmPiuv26NioRh6Ba1nQyz+MOoc/G41q0WZxpQ==;DQTwpFGgfrW0pCykuBfc1A=="
 ---

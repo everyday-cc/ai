@@ -21,15 +21,6 @@ topics:
 related:
   - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
     excerpt: "To learn more about IBM Watson Advertising solutions and services ... About IBM IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 ..."
-    publishedDateTime: 2022-06-22T19:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262493&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY"
-    excerpt: "To learn more about IBM Watson Advertising solutions and services ... About IBM IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 ..."
     publishedDateTime: 2022-06-23T18:35:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262713&cat=PR News Wire"
     type: article

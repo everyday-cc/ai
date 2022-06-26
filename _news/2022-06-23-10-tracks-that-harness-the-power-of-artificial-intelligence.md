@@ -25,51 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Power and Pitfalls of AI for US Intelligence"
-    excerpt: "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale."
-    publishedDateTime: 2022-06-21T20:17:00Z
-    webUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/"
-    ampWebUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
+  - title: "‘Today, retailers can harness the power of artificial intelligence in practical ways’"
+    excerpt: "Applied AI can bring efficiency gains, improved decision-making and enhanced financial performance, say McKinsey's Anita Balchandani and Louise Herring."
+    publishedDateTime: 2022-06-22T05:00:00Z
+    webUrl: "https://www.retail-week.com/opinion/today-retailers-can-harness-the-power-of-artificial-intelligence-in-practical-ways/7041974.article"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
+      name: Retail Week
+      domain: retail-week.com
+    quality: 45
     images:
-      - url: "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "IKEA rolls out an AI-powered interactive design experience for shoppers"
-    excerpt: "IKEA is launching a new AI-driven interactive design experience called IKEA Kreativ for IKEA.com and the IKEA app. With the new feature, U.S. customers can design and visualize their own living spaces with digitalized furniture on their smartphones instead of traveling to the"
-    publishedDateTime: 2022-06-22T14:45:00Z
-    webUrl: "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/"
-    ampWebUrl: "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-13-at-4.35.24-PM.png?w=1024"
+      - url: "https://d53bpfpeyyyn7.cloudfront.net/Pictures/1024x536/0/2/5/3100025_aiuse_109549.png"
         width: 1024
-        height: 566
-        isCached: true
-  - title: "4 Challenges of the SOC: How Decision Intelligence Can Help"
-    excerpt: "Artificial intelligence can aid decision-making and automate manual, repetitive processes with greater efficiency – resulting in more productive security operations centers."
-    publishedDateTime: 2022-06-21T16:47:00Z
-    webUrl: "https://www.eweek.com/security/challenges-of-the-soc-decision-intelligence/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 52
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/08/typing-on-computer-scaled.jpg"
-        width: 1920
-        height: 1280
+        height: 536
         isCached: true
 
 secured: "HC6j1upa+Q3yuwl1mC4ifIcY8w7wjA3oEYev1tjlBUHr6uqJ/iEeoHVzmc9SNOb1JjYC1bELNvKGekUBFPBASsrbWZ4SLyBOKAOqNWjx65uRuzVJABcRhpaT1EikhmJjpqNPIMQnMSdFeugmylMc+XvPqjnRf4lUldU12Jar+HpRNTK7z/jD7wqhl1V4e+fA1ioQdNwEuX8fbacQ3eu1e2SiDk/45GW4u7pjnJdYnIeFveRjcNwbDR6Vg5E7j4YAIsV1OdU6OCLUzDlDRMSWWkl27ZMdMb0TQ4D8Cxirp4/Sw9YrEIJoFeOulLuX9xU6Kr0MxPuUA0XF+rTH1t5BYf3LiGyJgczag0ZXkh84ewE=;v4I2JY9zh8Ctg2ZiJ4npxw=="

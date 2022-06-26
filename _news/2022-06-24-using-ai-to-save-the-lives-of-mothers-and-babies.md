@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Pactum using AI to revolutionize shipping contract negotiations"
-excerpt: "Using artificial intelligence and chatbots to handle contract negotiations for shippers and suppliers may seem like science fiction, but Pactum believes it has created the technology that could arrange better deals for everyone."
-publishedDateTime: 2022-06-22T21:03:00Z
-originalUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations"
-webUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations"
-ampWebUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+title: "Using AI to save the lives of mothers and babies"
+excerpt: "As part of our SLAS Europe 2022 coverage, we speak to Professor Patricia Maguire from the University College Dublin about their AI_PREMie technology."
+publishedDateTime: 2022-06-24T10:13:00Z
+originalUrl: "https://www.news-medical.net/news/20220624/Using-AI-to-save-the-lives-of-mothers-and-babies.aspx"
+webUrl: "https://www.news-medical.net/news/20220624/Using-AI-to-save-the-lives-of-mothers-and-babies.aspx"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: News Medical
+  domain: news-medical.net
 
 topics:
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2022/06/Pactum_Maersk-1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_717399_16558959837485847.jpg"
+    width: 1000
+    height: 666
     isCached: true
 
 related:
@@ -42,19 +40,21 @@ related:
         width: 753
         height: 502
         isCached: true
-  - title: "Using AI to save the lives of mothers and babies"
-    excerpt: "As part of our SLAS Europe 2022 coverage, we speak to Professor Patricia Maguire from the University College Dublin about their AI_PREMie technology."
-    publishedDateTime: 2022-06-24T10:13:00Z
-    webUrl: "https://www.news-medical.net/news/20220624/Using-AI-to-save-the-lives-of-mothers-and-babies.aspx"
+  - title: "Pactum using AI to revolutionize shipping contract negotiations"
+    excerpt: "Using artificial intelligence and chatbots to handle contract negotiations for shippers and suppliers may seem like science fiction, but Pactum believes it has created the technology that could arrange better deals for everyone."
+    publishedDateTime: 2022-06-22T21:03:00Z
+    webUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations"
+    ampWebUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_717399_16558959837485847.jpg"
-        width: 1000
-        height: 666
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/06/Pactum_Maersk-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
     excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"
@@ -85,6 +85,6 @@ related:
         height: 338
         isCached: true
 
-secured: "OXMvKxb/gvT8u0ih0uKdbn3aCM0JVEA5Hmq8A++BnrrHH/57MdZhsLn2x1pmihTGPg2/lfTIUXhFKUmC8TRwEiP01wYPPhhmLKYnmmU4qyncQ1htBUn4d971ntRGGnbb0mwllvlYE1rLVA3QxmJ6otI6S2HLrbfvpepjkG/Y+8vEKNIpFf9esu5/CqxotS1j+asOgA56vdkjzSAai6/yqg1leBo8fQqqTuXpPrEvcbKU8ZlYaCmaozQE3fNHl+GL6Vj+8Ahv2g+QRE0KyTKvhbzwY1DEKx1aFoPdzry7rhz1XmGbqAjWxd5f/mBedZ/1FqcA80GbOzHUe6ONrtzCXMoA1qtZLeoKPT4G4y/7Yv8AF3RjfkdKMeFfcqGVnByZDCy36e8Dvj4JCWQXrQ5b/PHMkFOz6QU4XW/WYXxWlCwCD7fDDVrMI+BljTs5+nvNh9lbjkh7hBfeYfzZJfCSa0TTSQZosZRAdPQAtUflwUgxArWFImmXA2SQBe+LEGCfXltrfFt572Ha+76qVb+mGQ==;zCBVqLR+8B3OB70pX9CD4g=="
+secured: "GLo+AMfj4ETeD8TgafA+8jM8D2OAQr18uMpdRHgyzDlgOZyVy7PWrS3Iu9VNT8PZSeQKNUz4xnen+xFVqvluAnyhT4VPpnI7ukOM6fEuQLSD1VnHQA+TvrlwBA1RzuAanKRXZmxcHMkCSDst1Gn6ZKq7VnzLy0QJApvr5ik2HtH152Gd4BW8ugwlX9MhbdDVyO2opdb9MEBrHM7S08hAiixkT1h+0c1OZ56wbcGft8Y/MK4r0MYAeUbFKB3L64y+fyMQeqx456ts2QmU785gOvHn6t8UTK/LH8mODSzLp1I9CREN+jlhW7PFbUhZqo2e5ij5A52JwwFEsSpZwf0cFVAarh6Bt9O07wlX3r9uDgw=;Dn66l64LQZE26rZL8hUQYQ=="
 ---
 

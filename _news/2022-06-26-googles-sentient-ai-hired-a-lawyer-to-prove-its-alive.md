@@ -91,17 +91,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 45
-  - title: "What if an Artificial Intelligence program actually becomes sentient?"
-    excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
-    publishedDateTime: 2022-06-21T09:12:00Z
-    webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-    ampWebUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    cdnAmpWebUrl: "https://www-publicradiotulsa-org.cdn.ampproject.org/c/s/www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    type: article
-    provider:
-      name: Public Radio Tulsa
-      domain: publicradiotulsa.org
-    quality: 39
 
 secured: "IKnuha9DFW6TFsPGYb7UCuAlOlzSP1on7wlXpXPEQ3PWP9LTyrD6kfieOQrgl0crGqYs+QVMoVXXc/n6Gi4rNVok20doGlQ8DTbRgHb5cYXUe5MVJcOZpmJzldeLB2BCv1Qk7qEOcoEnq7Ilo9QqPOXzlOwnLObcMLUEvkL609LtdBddYJOzuD4/6NmjJK2jitN+E8RmdnCd5CZx7tpwyZS8O+EEOOoUcOdZUP7kf3babYY7AQmimLxoVteL2hzOdU3JzxmaZDjKnfBv2QTjvGc0ibNXlMEzzcYSRoHdPscHVPUSlAPVa/2A46eSM1e2QhG//2OXF2xE98gh6rUQUHNZnTJuTR7Y9f9hW4PCpuL7aL9Dq72ur/mAkqdHdWmJsH4wIYcfdIFiczslWNpUmIeI1IYaqk79ab2fpY12izkknDtSxNqziT5r/L0sukh7U65S2nv5KeRthHpAz1b49zR4sPXxX7Dw0HFXkEiBNvHfTXWkBwgNwY6BVkZOp+VOUFCU9H/yNlKmFPMTI3iUqg==;J61b5+TplCNanJ5qlL/A9w=="
 ---

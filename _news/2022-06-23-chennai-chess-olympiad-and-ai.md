@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/chennai-chess-olympiad-and-ai/"
 webUrl: "https://analyticsindiamag.com/chennai-chess-olympiad-and-ai/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,52 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Engineers build artificial intelligence chip"
+    excerpt: "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ..."
+    publishedDateTime: 2022-06-21T17:01:00Z
+    webUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 74
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg"
+        width: 347
+        height: 256
+        isCached: true
+  - title: "MIT Engineers Build LEGO-Like Reconfigurable Artificial Intelligence Chip"
+    excerpt: "The new AI chip design is stackable and reconfigurable, for swapping out and building on existing sensors and neural network processors. Imagine a more sustainable future, where cellphones, smartwatches,"
+    publishedDateTime: 2022-06-23T04:47:00Z
+    webUrl: "https://scitechdaily.com/mit-engineers-build-lego-like-reconfigurable-artificial-intelligence-chip/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/MIT-Reconfigurable-AI-Chip.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Ai Build Receives Major Investment"
+    excerpt: "London-based Ai Build has received a significant investment to boost their manufacturing platform. Ai Build, founded in 2015, is all about 3D printing toolpaths. Their flagship product, AiSync, is an extremely powerful software platform that can generate highly complex additive toolpaths for multi-axis devices."
+    publishedDateTime: 2022-06-22T20:09:00Z
+    webUrl: "https://www.fabbaloo.com/news/ai-build-receives-major-investment"
+    type: article
+    provider:
+      name: Fabbaloo
+      domain: fabbaloo.com
+    quality: 37
+    images:
+      - url: "https://www.fabbaloo.com/wp-content/uploads/2022/06/ai-build-robot-cover.jpg"
+        width: 1128
+        height: 700
+        isCached: true
 
 secured: "uzrrH4XQGUBxzSrnxbBoUrEezhkTiFfY5qmLxEbxiuEZ0E4tCwmw+igRop/cTrvJpLJa365SgZEKHSUSUcYemgP3IKZBKFFqCdQUAGexMjNNzq5bEe2nWoy3664M8dEJxWSdlduzP9SPSNJ3P8rIbRBX7PD/32OHiquwt871uwkuN1fh0HkFIpQOn7w42zXh0LJbmHrUhtRvTWcoZ2q4XJXXGQvF7iqZs5hWN3A+KyqdiDhmBhj0+yX5/uY9/7jfyqHLRTHL0NO5XgV6K0VtBIKEew7yreyOjS1UKmRcPZCBFjyeYywEfopkLzg1AAthU14ITOW3khtkUn6xd9wZ75aAaemPxtIMUFecYnQCyKw=;IyTeE4ey+8MGxT2uBvkhgQ=="
 ---

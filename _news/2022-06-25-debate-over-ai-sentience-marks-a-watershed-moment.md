@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -89,17 +89,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 45
-  - title: "What if an Artificial Intelligence program actually becomes sentient?"
-    excerpt: "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI."
-    publishedDateTime: 2022-06-21T09:12:00Z
-    webUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient"
-    ampWebUrl: "https://www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    cdnAmpWebUrl: "https://www-publicradiotulsa-org.cdn.ampproject.org/c/s/www.publicradiotulsa.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient?_amp=true"
-    type: article
-    provider:
-      name: Public Radio Tulsa
-      domain: publicradiotulsa.org
-    quality: 39
   - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
     excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
     publishedDateTime: 2022-06-25T19:51:00Z

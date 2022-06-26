@@ -24,35 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI improves cancer treatment"
-    excerpt: "The medical world has been making progress in fighting cancer for decades.  Although we’re not likely to eradicate the disease in our lifetimes, many types of cancer (there are more"
-    publishedDateTime: 2022-06-21T22:20:00Z
-    webUrl: "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/"
-    ampWebUrl: "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
-    cdnAmpWebUrl: "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/"
+  - title: "Engineers build artificial intelligence chip"
+    excerpt: "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ..."
+    publishedDateTime: 2022-06-21T17:01:00Z
+    webUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
     type: article
     provider:
-      name: WGHP
-      domain: myfox8.com
+      name: Labroots
+      domain: labroots.com
+    quality: 74
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg"
+        width: 347
+        height: 256
+        isCached: true
+  - title: "MIT Engineers Build LEGO-Like Reconfigurable Artificial Intelligence Chip"
+    excerpt: "The new AI chip design is stackable and reconfigurable, for swapping out and building on existing sensors and neural network processors. Imagine a more sustainable future, where cellphones, smartwatches,"
+    publishedDateTime: 2022-06-23T04:47:00Z
+    webUrl: "https://scitechdaily.com/mit-engineers-build-lego-like-reconfigurable-artificial-intelligence-chip/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
     quality: 57
     images:
-      - url: "https://myfox8.com/wp-content/uploads/sites/17/2022/06/Capture81.png?w=1280"
-        width: 510
-        height: 219
+      - url: "https://scitechdaily.com/images/MIT-Reconfigurable-AI-Chip.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Artificial intelligence finding a new role in medical treatment"
-    excerpt: "Picture: Paul Sharp/Maura Hickey When we think of potential applications for artificial intelligence (AI) and machine learning (ML) in healthcare, typically the first thing that springs to mind is diagnosis. After all, teaching machines to operate as ..."
-    publishedDateTime: 2022-06-25T22:10:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/artificial-intelligence-finding-a-new-role-in-medical-treatment/"
+  - title: "Chennai Chess Olympiad and AI"
+    excerpt: "Nikhil Kamath, founder of Zerodha, defeated five-time world champion Vishwanathan Anand in chess with the help of computers (he confessed later on) at a celebrity fundraiser. The controversy sparked discussions around the use of AI in the game of chess."
+    publishedDateTime: 2022-06-23T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/chennai-chess-olympiad-and-ai/"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=7fc42e1c-2f76-5cb1-8371-148e7d77f4f2&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07865"
-        width: 1200
-        height: 675
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/AI-Chess-olympiad.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "01fSVJQLswfh63ENQN+DqcARJyClW0zMkYZy7Q2K0Cwi+VDAzTFxiSrQoKSAjsZKvmQFy6h7Hy8kyhDohhgCYf9e+igTZJVWqE8mUnVxW69GBSr+xVBXBXftF2V87xZ0eniAygxNCnK24wPr5PY5+HvvLz+dP+yOtdPQOf80nm+zVIePPOyoEeDFIPlax79tzj91SS1uSEcpjAS3KCCVxEGDxd+AJXu0YiVtR6OZm82NDYJCH12Hf+cA0zIOTVWbwt6G/oDUrYv8E1gEArmqC1Vj3xloSXW/aJU2xKPaAAzcvFj/LSgtUAUX1IrU8T+ZdbwPngZhNXoJ/XEN/OkcftNqL6Vd5CLzU1DdFQqFMDI=;8h78IJyH2MtBW5ayTb1jHQ=="

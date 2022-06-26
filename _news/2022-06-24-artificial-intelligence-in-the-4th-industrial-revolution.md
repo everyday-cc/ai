@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/artificial-intelligence-in-the
 webUrl: "https://www.bbntimes.com/technology/artificial-intelligence-in-the-4th-industrial-revolution"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,31 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "The role of AI in the People’s Liberation Army"
-    excerpt: "China is one of the leaders in military AI investment, but what progress has it made in developing truly autonomous platforms?"
-    publishedDateTime: 2022-06-24T11:24:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/the-role-of-ai-in-the-peoples-liberation-army/"
+  - title: "How AI is quietly revolutionizing the back office"
+    excerpt: "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control."
+    publishedDateTime: 2022-06-24T22:05:00Z
+    webUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/"
+    ampWebUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
     type: article
     provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
+  - title: "Justice backed by AI"
+    excerpt: "An artificial intelligence (AI) system to be used as a sentencing guideline in courts within Peninsular Malaysia is in the works, while it’s now applied in Sabah and Sarawak. Before it proceeds, a lot of deliberation and consultation is needed."
+    publishedDateTime: 2022-06-25T23:33:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2022/06/26/justice-backed-by-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
     quality: 37
     images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/06/zhu-hai-yun.jpg"
-        width: 900
-        height: 675
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/26/1636616.jpg"
+        width: 1240
+        height: 770
         isCached: true
-  - title: "The 5th Industrial Revolution and Society 5"
-    excerpt: "Similarly helpful is AI, which through computer control enables a robot to do tasks usually done by humans because ... and identify patterns and trends faster than the human mind.\" Improving these technologies is a testimony to the prowess of the human ..."
-    publishedDateTime: 2022-06-22T14:37:00Z
-    webUrl: "https://www.manilatimes.net/2022/06/23/campus-press/the-5th-industrial-revolution-and-society-5/1848392"
-    ampWebUrl: "https://www.manilatimes.net/2022/06/23/campus-press/the-5th-industrial-revolution-and-society-5/1848392/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/23/campus-press/the-5th-industrial-revolution-and-society-5/1848392/amp"
+  - title: "Novel Startup Airzai is Utilizing Artificial intelligence (AI) to Disrupt the Fragrance Industry"
+    excerpt: "Airzai, a Canadian startup focused on developing tech-enabled fragrance products, is launching Airzai Aroma, a new product that they call"
+    publishedDateTime: 2022-06-22T17:39:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-23-novel-startup-airzai-is-utilizing-artificial-intelligence-ai-to-disrupt-the-fragrance-industry"
     type: article
     provider:
-      name: The Manila Times
-      domain: manilatimes.net
-    quality: 24
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
 
 secured: "sCE6I7yCEPMmOVC7/Aw1vkIvNKg8TbUp5dng7sJJKFvkZD99NzuHxlJ218cvnJ2ITHa11b3W+jRo6hnwNFMXfl4VTXrMLl8Y/O6fPgWFlW8hvj6nMTbwuCiXhxKX4Rr8BjA2zEo+ZmKt5VQs/2Cy0rhJfucDAIrmms8DWMXYCtKdM7ECydpTJqrov2SzQ9J4cpFAicIK2j4pGI/tpXuWUwKqigQEvnXwmUo7gnmqbFhN3R76P/w/UI3Lfp/BtifhqmOWLSHavH/azRPR/T0woLvNQL4rupBDHZS+SDrGpeTPsF9xb/iq0RIEBtg9GmNRgklmumEXBp2m+piXO2M5FUf/yQKnqk9mnsC9r2pSAVaFgjks9LtCp91z1euSpkGuz7U05v7Sr3WQ2jLAA8eKVMEkDtBJpcthgl7vQyhIEB60bWDHTj+8xAClgZbBpr0JPh6TbzMAHGNx1r5KgfhttCxcZD8VHdrtFNIYvSaIksK9WLDgJ86GIjDgSI2puISsg6fZom4E7Vx2huopDdyz3g==;LXo4MprQdt0OutbCm9e53w=="
 ---

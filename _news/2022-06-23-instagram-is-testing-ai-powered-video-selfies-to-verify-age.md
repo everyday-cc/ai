@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+    publishedDateTime: 2022-06-24T00:12:00Z
+    webUrl: "https://www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
+    ampWebUrl: "https://www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 57
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7ZJ4BQS5HFANHIS753TETI45N4.jpg?_a=ATAK9d60"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
     publishedDateTime: 2022-06-23T20:24:00Z
@@ -115,15 +131,6 @@ related:
         width: 921
         height: 620
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-    publishedDateTime: 2022-06-23T17:44:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/instagram-tests-ai-tools-age-verification-85592466"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 17
 
 secured: "qDaNLRutnGysHQWF9x1RD9jX1U41n2kmm3H+WFKn7cI+CYDZuhmtpaZ1W/ptRmposY2Hg+U6dRCLesqWhbO2+v16mNkanwdh7u/MEjEvkkDw227id4VwPflznA0i0F4IjJdyBGMAE9t77maMtGRghEqFjw+92h+A5FPWzdSE4nOaCgbye+HRQLrKl/hgElfBUgJxOzXqNDOJr+hmMLoKA8hmS+IaAVQm2i/dziOA76VNe0gbHNMNHrA/5TDPUY8bf6vuduJi8tSAez+WKb/ri81m2DPhZVVc2GophcFb/YjldWTn+u48ffqqgfNYVoIT+sOKVx5RdUMKZ9e5ZUBo0i2TSaGZDrmrzGxW8/hW0fEgCKg2xJ0y7cRTHMr+TPnKFTsRSmZRAtoA1c8HwMfhAVzSaCMKwSAxBxOv/W2WVLAeBvEXfYKb/BPYtgv7UPL+CvbnmWQq2SZzGh/thKWvP12u8ATihGudc8pG4qiwUKEiEdU2bxO15xrcm84hNNG4iOHdXyIAiWTI66aZsGV3zw==;2jfr/Rh67/8C2c73pDNzDg=="
 ---

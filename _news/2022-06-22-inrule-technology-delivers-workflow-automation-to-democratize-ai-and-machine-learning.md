@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How machine learning AI is going to change gaming forever"
+    excerpt: "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca"
+    publishedDateTime: 2022-06-23T17:00:00Z
+    webUrl: "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ecTyysMcRCXZq39BoFSmH9EuZJdeWO9iEOtsf3ULYP3aRcfW3bfWuoGTeq+NmNbe2AGhXA2SFymDYUInOQWfpyQmHS2Yuek1PxD672souGsEZHIfL3vNCqMrZDhrktrN2eeL7nPybbfwg1nVhcActMIoJkmKV61Bkf+aai0oho17B4HCndTkAKPCW9GDQaKJEOM5iiPM8xVsQG6hRGQVxykeBGI0H6eq8/lB9niWjHePMR0EEKrhHb6jJ8WPBiPpOJk8JHIudbJbzLKJdu9dTT5iwUV/4wivtFC6YMnVTDYTX6M7Zoptd/1mSKJhq7bIyOcmwZvCinJOVXbJCD419bzYC+Jaq0Js1lHwNaqIR08=;CZFDG3QcbixafJxVWE4X8A=="
 ---

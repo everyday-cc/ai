@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Why don’t we have driverless trains on the tube yet?"
-excerpt: "Driverless trains on the London Underground are in the news again. With union strikes threatening to make traveling within the Smoke a nightmare this week, it was only a matter of time before the question of axing drivers in favour of automation would pop up again."
-publishedDateTime: 2022-06-21T12:08:00Z
-originalUrl: "https://www.railway-technology.com/news/london-underground-driverless-trains/"
-webUrl: "https://www.railway-technology.com/news/london-underground-driverless-trains/"
+title: "Pennsylvania House Advances Driverless Vehicle Bill"
+excerpt: "(TNS) — Driverless vehicles without an emergency driver could be coming to Pittsburgh's streets, as Pennsylvania hopes to become the nation's leader in the industry. The Pennsylvania House ..."
+publishedDateTime: 2022-06-21T20:40:00Z
+originalUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill"
+webUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill"
+ampWebUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill?_amp=true"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill?_amp=true"
 type: article
-quality: 34
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Railway Technology
-  domain: railway-technology.com
+  name: Governing
+  domain: governing.com
 
 topics:
   - AI in Autos
@@ -51,18 +53,16 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Pennsylvania House Advances Driverless Vehicle Bill"
-    excerpt: "(TNS) — Driverless vehicles without an emergency driver could be coming to Pittsburgh's streets, as Pennsylvania hopes to become the nation's leader in the industry. The Pennsylvania House ..."
-    publishedDateTime: 2022-06-21T20:40:00Z
-    webUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill"
-    ampWebUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill?_amp=true"
+  - title: "Why don’t we have driverless trains on the tube yet?"
+    excerpt: "Driverless trains on the London Underground are in the news again. With union strikes threatening to make traveling within the Smoke a nightmare this week, it was only a matter of time before the question of axing drivers in favour of automation would pop up again."
+    publishedDateTime: 2022-06-21T12:08:00Z
+    webUrl: "https://www.railway-technology.com/news/london-underground-driverless-trains/"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 34
 
-secured: "nGmol0MaQBgvGaxZwiJZEY9Uj+/g9JNkojzKG2yNnF/6FCszCkiUsuw0hthr7c5+Nh1Gx7owWeeiMZvYHR09THECPAmPZe+q7i8sUI0Ic4t8NaHIwVTzuH4aLbGws2bk1WetEV+Z4oD0hQWIgFbihe84HoX8xvT9uG8r0iZ0M2/pay5EBPAoHX6K5t0bcIhLdTSZoeYcLFRS6o/Rh16+GSM0ACg7AX7RlbopIzH6Mg5cNvPp2jgTNFPmy8U7UtyTV3TxGq0mK5lCXbtSCSHMSp4I42YqNt+WR4DMyrlNfzo6xkah6YFLpXkQs+OHwBdUTS45uHgNvMHKqk4zo2Enigv+6eWTkPu+WI+ROyUnQF9BYRAUpKeGsvtvheXK56RxVQpSjkUkwfNv+0YUQqpVfeKa/SYvgYzPVNagNtwnH+sZah3paHQ7XElYob6Jn6GQuNF94HjGijBjsEWDdoudFh5xwikBo21bCZyZMNd0JJFOFW9OqzX6biS4gYZRod9Q543SBZw7lOP3zQnxSYWG8g==;xoWDXj5laS2euEm4A4TV4A=="
+secured: "L1MZFJBniyunpEhjyv03yGcPb0xUy1Jj7+o+2jSQ8/M4lktMFzy3oZJa7VCuAkzfvp7MtKRO4upptCO9S1wfuVBl/c0w01lu+bZt65/V4/TkGgKvPSd8NW3ZfHrRFfpJc9th4E2NE7LUqzMd52Jks2bv1wfwRdnGwfCsw/MdAra2uCEvBOglxjHX617FsyphTCDZp11DyyNibJ4WldfQLk9KOPUD5SOGFojTEq2y8hYhm06ZoHe4G7+d995XmUFY7XnSvc+tWJYhwMXXhfqLaEs6Igeuu6NL7taBzqnMIzPm5Z6m38QhsVc7q36LgbzROBY8z3VEE2uHEBoop1XIhQWVj7VIjArI2yV7tyrzHH4=;IZS0cL+PJMXsrgINQ8W6wQ=="
 ---
 

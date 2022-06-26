@@ -9,8 +9,8 @@ ampWebUrl: "https://www.labroots.com/trending/technology/23006/engineers-build-a
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Labroots
@@ -27,37 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is changing IoT"
-    excerpt: "Artificial intelligence unlocks the true potential of IoT by enabling networks and devices to learn from past decisions, predict future activity, and continuously improve performance and decision-making capabilities."
-    publishedDateTime: 2022-06-21T10:04:00Z
-    webUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html"
-    ampWebUrl: "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html"
+  - title: "MIT Engineers Build LEGO-Like Reconfigurable Artificial Intelligence Chip"
+    excerpt: "The new AI chip design is stackable and reconfigurable, for swapping out and building on existing sensors and neural network processors. Imagine a more sustainable future, where cellphones, smartwatches,"
+    publishedDateTime: 2022-06-23T04:47:00Z
+    webUrl: "https://scitechdaily.com/mit-engineers-build-lego-like-reconfigurable-artificial-intelligence-chip/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/15/09/spot_it_leadership_2021_nw_business_technology_leader_considers_abstract_network_of_iot_internet_of_things_network_devices_by_metamorworks_gettyimages-1255557770_2400x1600_homepage_hero_b-100872872-large-100921919-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://scitechdaily.com/images/MIT-Reconfigurable-AI-Chip.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "How AI is quietly revolutionizing the back office"
-    excerpt: "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control."
-    publishedDateTime: 2022-06-24T22:05:00Z
-    webUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/"
-    ampWebUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
+  - title: "Ai Build Receives Major Investment"
+    excerpt: "London-based Ai Build has received a significant investment to boost their manufacturing platform. Ai Build, founded in 2015, is all about 3D printing toolpaths. Their flagship product, AiSync, is an extremely powerful software platform that can generate highly complex additive toolpaths for multi-axis devices."
+    publishedDateTime: 2022-06-22T20:09:00Z
+    webUrl: "https://www.fabbaloo.com/news/ai-build-receives-major-investment"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Fabbaloo
+      domain: fabbaloo.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
+      - url: "https://www.fabbaloo.com/wp-content/uploads/2022/06/ai-build-robot-cover.jpg"
+        width: 1128
+        height: 700
+        isCached: true
+  - title: "Chennai Chess Olympiad and AI"
+    excerpt: "Nikhil Kamath, founder of Zerodha, defeated five-time world champion Vishwanathan Anand in chess with the help of computers (he confessed later on) at a celebrity fundraiser. The controversy sparked discussions around the use of AI in the game of chess."
+    publishedDateTime: 2022-06-23T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/chennai-chess-olympiad-and-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/AI-Chess-olympiad.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "cGUdjFDfto2EE6MARh/R2yTG/7yKa5h8BStmG5hAg9kjNT7h495wz46xbyqFEhQtPhknDWsdcAOZP1jvnqU97aTJQdU8a9Ry7s8BnMdrSGVDKzQQ643LwW1LUXBqUwr6j+yJaeU/R7YZavzUhy76o7v5AY2R5Zziu/Mqqv4MR3npupIxz/2YmEhQ3xJ82Nvuls35u1pgAF4Od7upGZb76nx8KFUZgzW4Ug8i3CQI2ycaSF2RGuq31aupW0D7n+8KR/O8VbuzvGgyGmC+HnmQvxc7lmFfcSZkAFsHLVZvMEHbhzHS0BiQ6AhA/+SOyf5i5+qod94KnizzTZMW7TzNPVhardanKA7ILRDOXpX8ZhWx7xSBZWzitLCjXa4XEb7BQB7aQoxMrSN+D+EZP8ukTsTDRVwdMJBioiLwPboW1QsUN3sOAFav2RNxW0LW7eLfD/DjiHZTx6O5ZQ0Rhk43Zu4haxOgzSsfZYSswdDjk37PlO70pxPrplfPlZVKzI1VRyjMuZYxtPN8vDW8m6mWJA==;jCFZ5505CZFHn2ncBPmyvg=="
