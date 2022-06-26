@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Research finds babies can help unlock 'next generation' of artificial intelligence"
-excerpt: "According to neuroscientists at the Trinity College Dublin, babies can help unlock the next generation of artificial intelligence (AI). The research examines the neuroscience and psychology of infant learning and distils three principles to guide the next generation of AI,"
-publishedDateTime: 2022-06-25T05:24:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20220624/3955734.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20220624/3955734.html"
+excerpt: "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI"
+publishedDateTime: 2022-06-24T18:24:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence"
+webUrl: "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1656095078.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Are babies the key to the next generation of artificial intelligence?"
@@ -59,6 +65,6 @@ related:
         height: 360
         isCached: true
 
-secured: "JHwOUIpPUwTNPtAB78W3wGAYEb2OEdnC5tDLIXb06r3ljGgiBiPqXzXj4LiOAq6nCUW4Y7atrgtTBd+R0MJdrXRRj23MSz9Jyqmi2sAudExQv5YLLseckej+fKwJ6BWUe22rAX7mGEoJn5uO1au6svocsXtzOY/vv9JLidG56MdMiay0mUEltjt2CkjAXRbZEI4J6QUyx2cVFWdy44iSf6wtwvZWdq8+f8QdIanEYcnSNwwXi95RTns/yZTFNF5fpsORmeqWK5sWLKpv90KLDjmQFgE4PgX3ym6udqFtIT4yyGN5sMvlhhld3Uic6FhACuFDs1uIpBuNn+v134o/Jz9Hggik/InXAAKLN/JT9ug=;hnhL0RsOYTaerm4XbINbjw=="
+secured: "LwaKIX8vTc6yfGu5qlXrokX3TLH5i+WfwYx1hEWoWFxLZfzDYQkUvHfMGdWCawUMP3+2RapvmAKz4EGF3nM9PGF3a8+idvv8ePvzbGzEOFbBxgd/H53HsyAMCmz+PlA3FdMGG+xGloFqZ1N8Tno+GyMU8ScsT+Nlg6uuLxZiWW1fbgNUx5Q+VyBqGqdBr2S8jdjrYNcvEqcsS9Ka3TJnq3AfzJ9TA4Yd8kyS/N0KYJ3s4WZJvFNAoeebaW1t2t0GBc7xDbOlf1P6szFsl7rSj3F1W592Y+AXwkWys8qRS+UlgaH/fkQ52ivh9wRjL4klUhWSCuRRFfhB5L0AWa6h2+eQcblFIMcc59F7KHZkG1Y=;f9w7jmbAqY0NtMwlcDKxGw=="
 ---
 

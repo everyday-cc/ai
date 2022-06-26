@@ -89,17 +89,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 4
-  - title: "Micron Unveils World's First 1.5TB microSD Card and Automotive Functional Safety-Certified Memory to Fuel Data at Intelligent Edge"
-    excerpt: "Embedded World – Micron Technology, Inc. (NASDAQ:MU), today announced expansions to its embedded product portfolio and ecosystem partnerships to deliver powerful"
-    publishedDateTime: 2022-06-21T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27788567/micron-unveils-worlds-first-1-5tb-microsd-card-and-automotive-functional-safety-certified-memory-t"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27788567"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788567"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "K1x/MPeBieaGYutnamKmTZNLCmiDDqxEWGlCGcdX0xJy4iY1t9hcQbLng2nksbEjalHQlG/1K8Ua3/CGvURZZxlw0MGITIQ4HvpUda/4dVQRC1VvbIfUvbvQE4m1UVIcbzVuR0gI6O7vcSzp93SSA7v7XwT4081KEio09zixpFdZEFElBtMVf06eN6OC+71CL9NLJKf8KFBrlZR5lkGbp9lQz9mwBHr2IV1i/zUAv2CKWwMG+2N0CEG0NagKl8QLfsOv7y9rogG+b0L6fIZbZUieq1R8D3scZGNbUU2uxhhUPVZ4cSLoZhxzcoAwnEDFzjWUFvjAn6VZTQxAxjdQNVjRTGYkU3KEgV9v7GKZffE=;EOz7t+nHPwGojEXy9pucfA=="
 ---

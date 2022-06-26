@@ -7,7 +7,7 @@ originalUrl: "https://www.just-style.com/analysis/machine-learning-hiring-levels
 webUrl: "https://www.just-style.com/analysis/machine-learning-hiring-levels-in-apparel-fell-in-may-2022/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Machine learning hiring levels in the power industry rose in May 2022"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for machine learning-related positions rose in May 2022 compared with the equivalent month last year, with 31.2% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-06-23T09:56:00Z
-    webUrl: "https://www.power-technology.com/analysis/machine-learning-hiring-levels-in-the-power-industry-rose-in-may-2022/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 39
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/06/sch5L-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
 
 secured: "d0TkYhStoLiGghTq92VqI+lmdptsfbsyCmNUzWXjqccUlWcxOPFp0WBI8HWgpgExFQc7m2R1icQ5W5p8UPFvBah0n82px6dZj2+QeB42mcW0hIp2ysL/FqllOnBcs9VPfjFCFyhknJMKdaInXc6P7yEFjhefN3AYaO/w6Q8yuAY0fXnnvTJzDm4DrUZ4uEOb9vlvE0sS2IfkwvU8Cj6+Rux1GdLzzMKGA5sD+TAb31OAC8XUQoirRZNukTwbcCoBBYEI8j/kSasjofXD2wSzqYPmvFSFi79FtnjW7ywjcyUACr2dSetZsor9cCeqw0R+Z+CCkVkeOaggyY2WqdQ3JNzFy03B7tQqYMRFscpBh8rnXq8RpPl3twCBcMiEhNdy7ZjWLgmfsf5kboTud+ax7dJLZRtxUwhC/hbWAy6bl6UrFBW6LLR1YLnyzYC+OHQ2vqB2IvR9UoirwqYlUI6xtk4O/SSBjDHf/JvMa2mG+wUNSBTYoqnvaKfPl1yyF8Lpha+hq50uGLZpsxf6jO6ANQ==;Cjvf/cqCxjZykbVpioTheg=="
 ---

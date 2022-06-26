@@ -9,7 +9,7 @@ ampWebUrl: "https://businessday.ng/amp/uncategorized/article/nigerias-oil-sector
 cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

@@ -40,6 +40,20 @@ related:
         width: 510
         height: 219
         isCached: true
+  - title: "Artificial intelligence finding a new role in medical treatment"
+    excerpt: "Picture: Paul Sharp/Maura Hickey When we think of potential applications for artificial intelligence (AI) and machine learning (ML) in healthcare, typically the first thing that springs to mind is diagnosis. After all, teaching machines to operate as ..."
+    publishedDateTime: 2022-06-25T22:10:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/artificial-intelligence-finding-a-new-role-in-medical-treatment/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=7fc42e1c-2f76-5cb1-8371-148e7d77f4f2&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07865"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "01fSVJQLswfh63ENQN+DqcARJyClW0zMkYZy7Q2K0Cwi+VDAzTFxiSrQoKSAjsZKvmQFy6h7Hy8kyhDohhgCYf9e+igTZJVWqE8mUnVxW69GBSr+xVBXBXftF2V87xZ0eniAygxNCnK24wPr5PY5+HvvLz+dP+yOtdPQOf80nm+zVIePPOyoEeDFIPlax79tzj91SS1uSEcpjAS3KCCVxEGDxd+AJXu0YiVtR6OZm82NDYJCH12Hf+cA0zIOTVWbwt6G/oDUrYv8E1gEArmqC1Vj3xloSXW/aJU2xKPaAAzcvFj/LSgtUAUX1IrU8T+ZdbwPngZhNXoJ/XEN/OkcftNqL6Vd5CLzU1DdFQqFMDI=;8h78IJyH2MtBW5ayTb1jHQ=="
 ---

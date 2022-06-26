@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-06-22-how-ai-creates-photorealistic-images-from-text.md",
-      "title": "How AI creates photorealistic images from text",
-      "excerpt": "Have you ever seen a puppy in a nest emerging from a cracked egg? What about a photo that’s overlooking a steampunk city with airships? Or a picture of two robots having a romantic evening at the movies? These might sound far-fetched, but a novel type of machine learning technology called text-to-image",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/",
-      "originalUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Final_Hero_Image_Imagen_Parti.max-1300x1300.png",
-          "width": 1300,
-          "height": 869,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/",
-      "publishedDateTime": "2022-06-22T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-22-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
       "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
       "excerpt": "Panasas®, the data engine for innovation, today announced its collaboration with MLCommons ™, the consortium behind MLPerf™, to create industry-wide benchmarks for machine learning (ML) storage. Panasas will work with MLCommons to help steer these benchmarks by establishing best practices for measuring ML storage performance and ultimately helping to develop the next generation storage systems for AI/ML.",
@@ -209,7 +157,7 @@
       "originalUrl": "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -737,6 +685,48 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-ai-improves-cancer-treatment.md",
+      "title": "AI improves cancer treatment",
+      "excerpt": "The medical world has been making progress in fighting cancer for decades.  Although we’re not likely to eradicate the disease in our lifetimes, many types of cancer (there are more",
+      "sourceUrl": null,
+      "webUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/",
+      "originalUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/06/Capture81.png?w=1280",
+          "width": 510,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/",
+      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/",
+      "publishedDateTime": "2022-06-21T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGHP",
+        "domain": "myfox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {

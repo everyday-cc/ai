@@ -9,8 +9,8 @@ ampWebUrl: "https://english.mathrubhumi.com/amp/columns/occasional-bytes/sentien
 cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Mathrubhumi
@@ -39,20 +39,6 @@ related:
       - url: "https://equusmagazine.com/wp-content/uploads/sites/3/2022/06/Screen-Shot-2022-06-22-at-4.49.29-PM.png"
         width: 662
         height: 436
-        isCached: true
-  - title: "Google sidelines engineer who claims Its AI is sentient"
-    excerpt: "Google placed an engineer on paid leave recently after dismissing his claim that its artificial intelligence is sentient, surfacing yet another fracas about the company's most advanced technology. Blake Lemoine,"
-    publishedDateTime: 2022-06-21T05:13:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2022/jun/20/google-sidelines-engineer-who-claims-its-ai-is/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201668885_google-bg-5dae7724-f9e9-11eb-943a-c5cf30d50e6a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 398
         isCached: true
 
 secured: "Tk4l/iHllr5yf3hj9kM9hJjS4MKdtAo6eB002yA9Z5h5QOfQuCHTEEVV0+aTz1CKjHKqP5pgurPktLw5znWve76rUQkuWQpwes25xI03XOoeyYlhcdzJqFgrWD+FrYnBU4nr6aTen32Y4kM//eFM1P7jH988QuiFm2grTmWXyGrJ0I4CbePmoSIdiBbgSETfCRk56SlCY95de6J7O8tQjWedSmspIb9eOCTaeRSKkLHW4j5LZL44a3BqsmzpN46D+nDuheUtG1QUGnK9pTZBKFV4d+JbKc4qwBS24HghTGIuJzzhdl2pM5aRRvIvCGO/2Pnt516YZhnIlnM7vykpB6fyAcVRduGRLtq6GhWYnUaav3WSLN+EG/bviEZ6HC+o26v0MpCEKWAH0N7mZ/iD5CbYdfxmuFaZ9mwADWO29bY2VlIld/UIij0ttg9fk5zDppHZHN6jmcWsgRVnRNwm+ka5FLX0F+FOIUM4x9emwNZU5X6d+kW+oiCUOTkTV19zz18r49iTwa7/xpAGhqEQAA==;TZRhMsNemp94JaE8p3uujw=="

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "AI: The Somnium Files – Nirvana Initiative — How to solve the Mizuki chapter 2 park puzzle"
-excerpt: "The Somnium Files – nirvanA Initiative has another rough puzzle to throw your way. Once Mizuki finds a familiar corpse in the park, you’"
-publishedDateTime: 2022-06-24T22:46:00Z
-originalUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/"
-webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/"
-ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/amp/"
-cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/amp/"
+title: "AI: The Somnium Files – nirvanA Initiative — Somnium divergence answers"
+excerpt: "The Somnium Files – nirvanA Iniative, the game requires you to answer questions using knowledge gleaned from advancing your way through other routes. Obviously, you’re going to want to do the main story path first,"
+publishedDateTime: 2022-06-25T22:27:00Z
+originalUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/"
+webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/"
+ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/amp/"
+cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/amp/"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ topics:
   - AI
 
 images:
-  - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220618205430_1-Copy.jpg"
+  - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220614012347_1.jpg"
     width: 1920
     height: 1080
     isCached: true
@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI: The Somnium Files – nirvanA Initiative — Somnium divergence answers"
-    excerpt: "The Somnium Files – nirvanA Iniative, the game requires you to answer questions using knowledge gleaned from advancing your way through other routes. Obviously, you’re going to want to do the main story path first,"
-    publishedDateTime: 2022-06-25T22:27:00Z
-    webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/"
-    ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/amp/"
-    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/amp/"
-    type: article
-    provider:
-      name: pcinvasion.com
-      domain: pcinvasion.com
-    quality: 57
-    images:
-      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220614012347_1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative — Naix office puzzle solution"
     excerpt: "Want to know how to solve the puzzle in the Naix president's office in nirvanA Initiative? We've got the solution in black and white."
     publishedDateTime: 2022-06-24T22:31:00Z
@@ -74,6 +58,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI: The Somnium Files – Nirvana Initiative — How to solve the Mizuki chapter 2 park puzzle"
+    excerpt: "The Somnium Files – nirvanA Initiative has another rough puzzle to throw your way. Once Mizuki finds a familiar corpse in the park, you’"
+    publishedDateTime: 2022-06-24T22:46:00Z
+    webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/"
+    ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 47
+    images:
+      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220618205430_1-Copy.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Review: AI: THE SOMNIUM FILES – nirvanA Initiative"
     excerpt: "Back in 2019 players were introduced to AI: The Somnium Files alongside a colorful cast of characters that ended up creating a memorable murder mystery. It felt like it could have stayed as a one ..."
     publishedDateTime: 2022-06-21T12:00:00Z
@@ -84,6 +84,6 @@ related:
       domain: hardcoregamer.com
     quality: 17
 
-secured: "ufXJ/5OHkI+KAPSY3u9GUdlP0ma3ISYk7f6XMzsrEHfipaNifyJEtfQCHRqvUGE2nkDTXZytNm5wz12Tco9xXqt0aNemlnwxINSfOMkryMVeRqlgRIFGz+0pxaDUtNGRodxXfat36S0HHLFs6a2QBkgANCTepyiOQy6aTuzm/Zf80CeYWonNFSELyCHkEgYO+nY7i4PZl4VBhgbMaYOE7mGPPP2I8nGk7S/220WEeE7z0OgcBypHlfIxhpilKappALqBV1Lg1unSVJ+Qi5sEyA8GHeSkS3G/F23Ylz3QW1nqzCIP6Dzwiic7fl84ZRlYNPkZBnnDFh+mTcPjDs+Px6PECstyawENXz4soI/jOTJG81If1Io5UUfOgk4+GreSZGz26MHVZoolP5np1wYhlyTp+EJm/7lJV0kAvorIxEY1A8HoTJkUzBh+N7t6m2LiNZU1fWPAKQ2xqHPdPp0jd1u/n+zFUj09zD6EI9Pj0uW8lpNX317/YAGqvFnW/RODjzo7RmolWK247WbaXvDqxg==;qvbVaKic4RfY8EjtDj4kRg=="
+secured: "1IrhTuDwDTcwcOZ3ZWUHmBez1hPBNiW1bxloKlkGG485i1YmQyWwdEM2jlpZmwb53/35xqkCzC1vzPqZjvEYnfcQ2YisT299anWMp32LuRWX2fX/88PA8pV/c9pBvUqy8a50VDwT27jJtH8Q/JVVMO9E+ix4CztiyRNLHjnsrcJU8BY14LAz8AJfehYXSmFLHSTxeb7xewNB902VMYNn69GYXnZoZHFbUFUTfTwo19HhuNTOblvOny33+h1NXotHlMsM4UtkA92I1ZcjmJJCA70WXxhxAj25EjWhblTT9rfTScmMQkI7Xjv375tC+bCVyzwn60N0LDxw3adMoCcSwRfgLnCoB1Tb+HwfOxQOrn0=;Xxbwry6ua0yHtt4yshN2lw=="
 ---
 

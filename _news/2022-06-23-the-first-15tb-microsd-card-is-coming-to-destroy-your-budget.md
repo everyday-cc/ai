@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embed
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -92,17 +92,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 4
-  - title: "Micron Unveils World's First 1.5TB microSD Card and Automotive Functional Safety-Certified Memory to Fuel Data at Intelligent Edge"
-    excerpt: "Embedded World – Micron Technology, Inc. (NASDAQ:MU), today announced expansions to its embedded product portfolio and ecosystem partnerships to deliver powerful"
-    publishedDateTime: 2022-06-21T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27788567/micron-unveils-worlds-first-1-5tb-microsd-card-and-automotive-functional-safety-certified-memory-t"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27788567"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788567"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "J2MKk4ge0OUxyiPF05Lj7q23SnG1+sLNPStZtzBZ7MLflAXHFN0rlxMueaAC0XQbb2bT6GNzO9eQLE2C1TiWiujnbQgbUeruh3xyQJk3NmcBQqW8e7lE6oMUwTzkWh/ox5tP/h8kT0qh6jjW+4qu+WBEBF2KOfcLnX6GK16LKUM8xKNXxWdQnzXNuFD7kmb0iIepcloWdM3zSv98Gj8jexpMQQDJlB/SmMrxYm8TYUU5zxd9XPH/PqLL9U13eoibqcipIKRV50AtMv9+LJe8ur3Eb74p2LjyIirmIUwQ9wGfKeMJSknst/mn48+5NGkzMNy43qZ53m+y47cpkzjOF3SY2XxtCG4sUe+mO1x6KgIsZGU0Hnkb/+Qjb4uQp4cipdSQY1ml97q4vnjdcYabfYvWa7Z/bEk4vn7p1wtVRLDJ4Rr9fa0id+vPPm3PqItU1UfXyIAMXvtm7Egcuj2JIoGxZxPQ7CJyeIW2lVL6VwKc+VeqhndLvKHBlzHRO5q3KCUDKObfnGu+HIkDZIfgjQ==;5XX69IbJknR/EgHPFZyl3A=="
 ---

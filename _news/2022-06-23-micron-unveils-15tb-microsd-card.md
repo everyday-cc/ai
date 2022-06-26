@@ -88,17 +88,6 @@ related:
         width: 1749
         height: 1213
         isCached: true
-  - title: "Micron Unveils World's First 1.5TB microSD Card and Automotive Functional Safety-Certified Memory to Fuel Data at Intelligent Edge"
-    excerpt: "Embedded World – Micron Technology, Inc. (NASDAQ:MU), today announced expansions to its embedded product portfolio and ecosystem partnerships to deliver powerful"
-    publishedDateTime: 2022-06-21T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27788567/micron-unveils-worlds-first-1-5tb-microsd-card-and-automotive-functional-safety-certified-memory-t"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27788567"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788567"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "xlBtiWmHExDfA8solRDdprGPQnDfCjqFG/kQMbQyfAF2qRltd5ay694AQ698rzbBp2aa3K4CZSa8Sxi/4luM6htS5HeBbG8en3xtAz9MM0etX9irx0T6x/Tjsmu1CVeiVQAmWdhMwB2fnqDLbdTk16zazDuL8yNB+BdhGgwjwThPlDPRNn6hXah91gsl4SU9IA6SpD99fHyr8sCC/6HCcMsUNOQlO5L3vE/tDRzlPqR5u8zC/nNKiZbEwtIgyWFlknpy/ZuloC2Fdt3qjquTThcZWrIc071g48rYK8q7ctzNTGYBG8PY1L5E1hZ6pUqzt2g68WMSocFjAHTcRx8VKzwGz4rgiz9Eu8F9G2eNo5YKgUokdU0Q4bUVjzjw3/LllHAySJgvt4QLeYPbATfPrPcspnzwBHWof6UKesgNlGIXNQ2f3F09j7lays5ZX1koaQnHK1qCx914BbVbm+d+/EqYdMUMGSMqlbg+xwX3oRREH8PeHp+Me641gqO2WbMWgqaRuXEuVvCc3O5gyKN+HA==;/ZJ1kqXnfClGZFE0XIMPog=="
 ---

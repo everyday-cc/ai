@@ -34,20 +34,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Inovatec Executives To Present AI-Focused Lending Automation Workshop At Canada’S Used Car Week"
-    excerpt: "Leading Provider of Cloud-Based Automotive Lending Solutions Will Share Their Expertise at this Premier Fintech Event"
-    publishedDateTime: 2022-06-21T05:44:00Z
-    webUrl: "https://menafn.com/1104405067/Inovatec-Executives-To-Present-AI-Focused-Lending-Automation-Workshop-At-CanadaS-Used-Car-Week"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443429"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Government of Canada launches second phase of the Pan-Canadian Artificial Intelligence Strategy"
     excerpt: "Artificial intelligence (AI) is one of the greatest technological advances of our age and has a significant impact on the daily lives of Canadians. AI is a driver of economic growth and good jobs, which is why the Government of Canada is committed to investing in efforts to drive its adoption across our economy and society."
     publishedDateTime: 2022-06-22T17:21:00Z

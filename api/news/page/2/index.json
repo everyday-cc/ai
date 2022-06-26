@@ -779,7 +779,7 @@
       "originalUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -810,48 +810,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-sentient-ai-claims-could-be-just-a-start.md",
-      "title": "Sentient AI claims could be just a start",
-      "excerpt": "The claim that intelligent computers could develop a mind of their own has long been rejected by those in the know as nothing but fictional. Stanley Kubrick's film, 2001 A Space Odyssey, portrayed such a scenario in 1958,",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642",
-      "originalUrl": "https://english.mathrubhumi.com/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/image/contentid/policy:1.7629660:1655966869/google.jpg?$p=2230905&f=16x9&w=1080&q=0.8",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/amp/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642",
-      "publishedDateTime": "2022-06-22T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -916,7 +874,7 @@
       "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1014,7 @@
       "originalUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1192,6 +1150,58 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-how-ai-creates-photorealistic-images-from-text.md",
+      "title": "How AI creates photorealistic images from text",
+      "excerpt": "Have you ever seen a puppy in a nest emerging from a cracked egg? What about a photo that’s overlooking a steampunk city with airships? Or a picture of two robots having a romantic evening at the movies? These might sound far-fetched, but a novel type of machine learning technology called text-to-image",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/",
+      "originalUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Final_Hero_Image_Imagen_Parti.max-1300x1300.png",
+          "width": 1300,
+          "height": 869,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/",
+      "publishedDateTime": "2022-06-22T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

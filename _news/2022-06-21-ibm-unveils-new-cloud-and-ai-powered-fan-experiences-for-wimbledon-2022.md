@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-    excerpt: "As the Official Technology Partner of The Championships for the past 33-years, IBM continues to accelerate innovation at Wimbledon and improve"
-    publishedDateTime: 2022-06-21T05:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg"
-        width: 400
-        height: 258
-        isCached: true
   - title: "Wimbledon plot major 'AI-powered' overhaul to improve fan experience at 2022 championship"
     excerpt: "Wimbledon is set to use technology to help fans grow their tennis knowledge at this year's tournament, which is set to get underway at the end of this month. The likes of Novak Dj"
     publishedDateTime: 2022-06-21T10:25:00Z
