@@ -45,21 +45,19 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Researchers release open-source photorealistic simulator for autonomous driving"
-    excerpt: "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they've proven fruitful test beds for safely trying out dangerous driving scenarios."
-    publishedDateTime: 2022-06-21T19:43:00Z
-    webUrl: "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp"
+  - title: "Deep learning accelerates super-resolution photoacoustic imaging"
+    excerpt: "A multinational research team has used deep-learning technology to dramatically increase image acquisition speed without sacrificing image quality, for both photoacoustic microscopy (PAM) and photoacoustic computed tomography (PACT). The artificial ..."
+    publishedDateTime: 2022-06-22T14:17:00Z
+    webUrl: "https://physicsworld.com/a/deep-learning-accelerates-super-resolution-photoacoustic-imaging/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 40
+      name: Physics World
+      domain: physicsworld.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-release-op.jpg"
-        width: 900
-        height: 600
+      - url: "https://physicsworld.com/wp-content/uploads/2022/06/photoacoustic-featured.jpg"
+        width: 1195
+        height: 616
         isCached: true
   - title: "AI generates photorealistic 3D scenes and lets you edit them as well"
     excerpt: "Now Eric Ryan Chan at Stanford University in California and his colleagues have created an AI model, EG3D, that can generate random images of faces and other objects in high resolution together with an underlying geometric structure. Personalised cancer ..."

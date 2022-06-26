@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T21:39:00Z
 originalUrl: "https://www.restaurantdive.com/news/mcdonalds-ai-drive-thru-voice-ordering-accuracy/625923/"
 webUrl: "https://www.restaurantdive.com/news/mcdonalds-ai-drive-thru-voice-ordering-accuracy/625923/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: restaurantdive

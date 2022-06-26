@@ -41,38 +41,6 @@ related:
         width: 2000
         height: 1718
         isCached: true
-  - title: "Robots turn racist and sexist with flawed AI, study finds"
-    excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
-    publishedDateTime: 2022-06-21T22:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220621141753.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "Study Shows Robots Using Internet-Based AI Exhibit Racist And Sexist Tendencies"
-    excerpt: "AI has the potential to revolutionize society, but that may not be a good thing if it leads to robots that harbor harmful stereotypes from humans."
-    publishedDateTime: 2022-06-21T19:56:00Z
-    webUrl: "https://www.slashgear.com/902540/study-shows-robots-using-internet-based-ai-exhibit-racist-and-sexist-tendencies/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 60
-  - title: "Robots turn racist and sexist with flawed AI"
-    excerpt: "A robot operating with a popular Internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples’ jobs after a glance at their face. The work, led by Johns ..."
-    publishedDateTime: 2022-06-21T19:40:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/956412"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6eeae672-e702-4ccc-a7cb-9489213358ca/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Flawed AI makes robots racist, sexist"
     excerpt: "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases."
     publishedDateTime: 2022-06-24T22:46:00Z

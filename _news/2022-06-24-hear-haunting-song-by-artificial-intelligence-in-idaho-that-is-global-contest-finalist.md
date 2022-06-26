@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T22:50:00Z
 originalUrl: "https://www.idahostatesman.com/entertainment/arts-culture/article262800738.html"
 webUrl: "https://www.idahostatesman.com/entertainment/arts-culture/article262800738.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Idaho Statesman

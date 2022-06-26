@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-uni
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/?amp=1"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Pennsylvania House Advances Driverless Vehicle Bill"
-    excerpt: "(TNS) — Driverless vehicles without an emergency driver could be coming to Pittsburgh's streets, as Pennsylvania hopes to become the nation's leader in the industry. The Pennsylvania House ..."
-    publishedDateTime: 2022-06-21T20:40:00Z
-    webUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill"
-    ampWebUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
 
 secured: "F3rz2f6DlynwLkn8xYzncKmd4h3ogdvLgQrRqWXl0NThby+Dj4Id42n1hhwXJ0hLbseTyAJjVqWGlZ5SlM+iggVe9hLe9BHrOjCv1hMoQg9uOa7maDiAOEr8MM+KUQjxXL1p9GV9fLWdyS8PsmYN2Y7FZ/UEbEebaFVg3ZbyQoYOPw2Ho7ETyS1QI6CRCC6ZlDmFgMoIXfzM48Hfc4DkOVFDmaviFIKckBP6Onf2FfigaviGNW0eqWWPlFknXlXGeFRJfsP6EMV/tTlrMYYHtO0Jjk6/dKOhFYkfDDuG+aRKhy1e3Un7QS5k2whEkOE73ZRmmWbhgGRM1fSml/NcpmT034nqqOEc5K0WoQNHJDc=;HEos67M8mBKWmIChFn99/w=="
 ---

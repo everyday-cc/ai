@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "cKz3QqWgEqKRPyszXp/HJ0ASCzeOp7xSQx1etlWlAzEEm9MxUsX5i1zNZ25WJ1FSkQiaXPGOHe/LdJHXXXVswkzWvcGKfPBXUhK9qtWhNifyG4C7y7kruTxGFvrtgetOYOS7PR4Ghd8tdsPbpAdBWvsrsEwmArtNP7g+krux9YWM2aMe8ZUUoooQ6zdVduppVcSxkO+gqE9T4fj/VL/Y6iXAszaVwVhFIk23UlCNrp6bdjM6whIKNDi0iV8gQCdoDVBEqhURdD43wZ9eA+vI/CTKt3vDZWnIN+TGXUe3Te/87mIOSptVaydmP+sz1RpJp3FR2cyCDZWpIoE4VE4d/xYd3eRw01b6pJfNg/7p+b8=;z2DOGUd/+tv7nueph77gFA=="
+images:
+  - url: "https://files.scmagazine.com/wp-content/uploads/2021/12/GreatwoodColDEC-e1638991220438.jpg"
+    width: 1241
+    height: 745
+    isCached: true
+
+secured: "wHdRVNpt2Vtl8W558XuZDxIhyBF8/KjoEyG2b9bHCUm1PR9gcB+vqttqmqnYGF5/ObqGJzAphx1De/brNlSSTUIQaSZoqyYL3Mye6x7PLLGBFxv96+I3DY+IO2AWyUAAY9l43LmD/h84S+gKyQ+kG024K7er33RchKxZVfsHExRndl8deYLUuRQNeZCVOvcqc8rO4ZtLjP3Im4uXqVJHf9aOE313Hy/alopWAKFZPEVkiYcubIpgAMlXS3Vy7MWBEm2X1fbxzVj+ThU2jNcFKmB9a2hBvMR9FW3r1Avw4Z3pEub+Ecwpefy9/myBT42pF9nci2SIt9CQ3BRBW+dBwHVWqzXOT/z+SYpZz8OcBew=;HzSJ7PKVCSsmvdL6ivB5ow=="
 ---
 

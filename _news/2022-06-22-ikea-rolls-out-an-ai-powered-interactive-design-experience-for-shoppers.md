@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-inter
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: TechCrunch
@@ -30,36 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "The Power and Pitfalls of AI for US Intelligence"
-    excerpt: "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,"
-    publishedDateTime: 2022-06-21T20:14:00Z
-    webUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/"
-    ampWebUrl: "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp"
+  - title: "AI-Powered Coding Assistant Aims to Help, Not Replace Developers"
+    excerpt: "Instead, he said, the AI coding tool acts like a predictive-text feature on smartphones. As developers work, the tool suggests options for lines of code needed to execute given tasks, within a larger software program. Developers, who can also ask for ..."
+    publishedDateTime: 2022-06-24T23:30:00Z
+    webUrl: "https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://images.wsj.net/im-571472/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "10 tracks that harness the power of artificial intelligence"
-    excerpt: "Perhaps the best way to demonstrate AI’s creative abilities is to zoom in on how numerous artists have already worked with it, and – together – crafted some quite astounding music"
-    publishedDateTime: 2022-06-23T08:53:00Z
-    webUrl: "https://www.musicradar.com/news/10-tracks-artificial-intelligence"
+  - title: "IKEA launches AI-powered design experience (no Swedish meatballs included)"
+    excerpt: "IKEA launched IKEA Kreativ, a new design experience powered by artificial intelligence (AI), meant to bridge the e-commerce and in-store customer journeys."
+    publishedDateTime: 2022-06-22T13:00:00Z
+    webUrl: "https://venturebeat.com/2022/06/22/ikea-launches-first-ai-powered-design-experience-no-swedish-meatballs-included/"
     type: article
     provider:
-      name: MusicRadar
-      domain: musicradar.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Kt4G2msYkJZow2RgcmGPyF-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
 
 secured: "RB/FaFccgbhvYNJpup1p1RX1UQaJanc7zw6Xmv/zeY+oF/JUtsdm9I0HvW22x1762NdHCFUMc8/G/e4T572MAfNOruUfU8HwuoE3sQCgRqh+qzwdh6aRCtGFtgr7qpjYgP/9h7asp6A9yn9duKl/1CYbjzVQkuevJX/b4NPIYhPsZMuz0JnzTPTs0rfPr4I9HRRMyscEfMwJnoHTvFW3JrFUcAwpoGYxktOEEztf6nfQI5SUjBqP4gWkmaE1T8TwhVppGYwKoJfHCVCrUpjSBlw7IqBlVZXqpH7q1zPo2fA09mcid4gidtN36NXf+fnhxjuinEZp7TC/AIJlW0gfIGLsnDP23e26UwWzNIdefaRpKYQwitizK+YtWFToOD103hntKdnRjtZ3qmL6Vti9Jt8swlACyzVFGRTnSk749I3bAfAhZLVFZrYPV+FpUi95yhVjvXSurQfi+/Wts/Vjb4ZPx1IaMAfbf9gbV1WvZJbsQ3SYVZ9PPpDuXphz8464/EyreN1VDUeFQegchc5a6w==;oFOWoVKx8iqTI1dPf8Mejg=="
 ---

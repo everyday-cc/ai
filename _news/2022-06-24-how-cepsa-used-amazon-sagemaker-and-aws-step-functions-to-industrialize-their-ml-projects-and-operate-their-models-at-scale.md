@@ -38,20 +38,6 @@ related:
         width: 1246
         height: 623
         isCached: true
-  - title: "Amazon Shows Off Its Latest Warehouse Automation: Fully Autonomous Robots, High-Tech Scanners And More"
-    excerpt: "Amazon will show off four new pieces of robotics technology, including fully autonomous robots and high-tech scanners, at its re:MARS event in Las Vegas."
-    publishedDateTime: 2022-06-21T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/amyfeldman/2022/06/21/amazon-shows-off-its-latest-warehouse-automation-fully-autonomous-robots-high-tech-scanners-and-more/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62ace99a1a057c35338819cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 756
-        isCached: true
 
 secured: "elCFmN2TQ8DJPFRXKuJnuw9CxuPyDUVvvNkGI2TQXJsysJ8HSQi/oJ7vFNga6LyWNTbZAumIQwek6hzTsUJ2M2pkUepxnbZur81kUsYgaZYPZs5aQNn78+748k5U6uVs0x0rQj942DUwRQuNEzJG3XmuIGI7TPyUkamyNKH825V5wfDlscShOdoUo5chPSYi0msOW4iZC9hlcZegR+jX3KaSVdOgz9rbF7k9h+xbhpVlox+MXTo2a5qCoYB8rjWcM8gaLLxJ3LLTcUJ2l09C4xRyjEfJoVbr5BvrAuwjw8GZaTfvzmM8Apj25kBZ8GGU2KRjuxqGJ+VayaaozvNyoIFetYVebT/Pnm2wMXXImcU=;y/Tbo838W6JHodYpLD91aQ=="
 ---

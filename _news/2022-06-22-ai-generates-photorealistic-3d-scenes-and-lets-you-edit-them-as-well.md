@@ -48,21 +48,19 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Researchers release open-source photorealistic simulator for autonomous driving"
-    excerpt: "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they've proven fruitful test beds for safely trying out dangerous driving scenarios."
-    publishedDateTime: 2022-06-21T19:43:00Z
-    webUrl: "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp"
+  - title: "Deep learning accelerates super-resolution photoacoustic imaging"
+    excerpt: "A multinational research team has used deep-learning technology to dramatically increase image acquisition speed without sacrificing image quality, for both photoacoustic microscopy (PAM) and photoacoustic computed tomography (PACT). The artificial ..."
+    publishedDateTime: 2022-06-22T14:17:00Z
+    webUrl: "https://physicsworld.com/a/deep-learning-accelerates-super-resolution-photoacoustic-imaging/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 40
+      name: Physics World
+      domain: physicsworld.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-release-op.jpg"
-        width: 900
-        height: 600
+      - url: "https://physicsworld.com/wp-content/uploads/2022/06/photoacoustic-featured.jpg"
+        width: 1195
+        height: 616
         isCached: true
 
 secured: "JVWnwV/3QVDXzcsvu3spTkxuA1M+TBO/bwI6MSrtQuDt2jLOzjiukfd220vi7JbEDkRfZK0y2Pdq4xbH0w5s0lKupTVMjEA4laYC9Ok8KhYnePRZWytpfaFvDJtxJCXcSom2rmItTII6MFe5NkogsXgZ/e+QOAKSpx7ZuS2k+koYFCpFpZAQ0lYzrDY39nK0zYw04PPFHamYlmn6VS/u28mdM7taI4annG0RHjEmn7rNczW8u+8B0sKSh2q5gf0GvlvHzD+rTNIuPGYpLZq+CtYlmoXRQiKn1aNUsN7VbPXik6XvUy5KkRftqFNO/dEiNMv6Ny7lSzjSV6/NdbO6M/e2ugkNl/vWF5TfS4v9u0BH8JaF61pOTlj8N0TnT2V5mZcL8dINZu4rG1UAlKUPd9U6FHElzweZJveqVSjVTWR3CTOOWDydSLdLdUf78HCPCNSNOjvjebbtoY17QMWhvzszv5cx7yCf+KsGl+PvbglGdyS+1ey2ZizRjhzuAg2sw7AsFLm/F+Xa7rkK1XoE/A==;Llo0QDWK+C916a+OHIa7Ow=="

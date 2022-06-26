@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-p
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Nvidia’s 3D MoMa creates 3D objects from 2D sources"
-    excerpt: "D MoMa, a new rendering technique from Nvidia, creates 3D objects, including a mesh, material, and lighting, from 2D images."
-    publishedDateTime: 2022-06-21T20:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/21/nvidias-3d-moma-creates-3d-objects-from-2d-sources/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
 
 secured: "S0eavPxLCD5DfVz1hSWqxmhJ+XMXLPruRlu09Wfjn1syQFldXdWqD4LlI1Cu7Bw1Of3qLnLETsdITyHM+7kyfvGlLOBO/BD4+88V9Ko8plbKQpmtwTRK5TUPr8xJXVxpDCKTKV/Ne6j3eq8tH3t7xWI/b+g2M/57E1o7aCtPble0JHBD5Qjxec8zKB9/ONit64yQnlfikRCqIa4SmhcEn7sgNqsEeiTafc5rHWuIHf+IuLfyn72um2vYmL2cHPbq3YKdNSFJarKcrbm+Yvq8Ws9Bxu1ja4DrgV7EKj2A5hKdYfU4LzeqoKxzDZNamX3/KA3oI04/KNEY5jR4qBmnxJrQW3VKWZA5G75cf0mwcUTo3+d5MKezCum0b5IE8RxzqG8DTo4dT6482ZbDYLyEWSZxPrXe63jB7tDbDB+KUr8uA6iVjKpZd1xNd3M5cwzbV5PtNdrGYErymwO5MoOX7ageyOWaZB8D3VdS2coFpfHXPybXgp0tqdBUN0ZEbRYIu/6XbBHFEFO/FUmy+Y8ocA==;PQRB8ohkOeOJCy9zfaelug=="
 ---

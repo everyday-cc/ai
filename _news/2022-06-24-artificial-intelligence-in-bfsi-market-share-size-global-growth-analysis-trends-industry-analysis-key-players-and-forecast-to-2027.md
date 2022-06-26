@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "The CEO Rebooting AI"
-    excerpt: "Back then, we had to build everything ourselves, like hardware, software, data centers and even dial-up access networks—without the convenient, low-cost broadband and AWS type services that allow us to quickly launch services,"
-    publishedDateTime: 2022-06-21T19:13:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2022/06/21/the-ceo-rebooting-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "hVS9yw5sQ/fzlTrE8Pj06yv+Y5mGGRAMeqf/b9knwiZLI4T7THARxZjcBXfwtT5AnvHXdkTQ2z/vM7B1Uie5Ei46S02A3+F75Hzt6InBR6rWGF37pcFAStoX+NZZXaWCD/o30jEk9UfNH0aGF8aUJ/VQOLoCrsTFDPeElVBHvcpdeW2mJMMLGEhx9BwFzvD2aDhxu6kE/OrrBCAsJ/UAlc4cGSg/OXs26Jy6gVJYpFt7uE9O/oym0Eb+1cPxIW7kNWsDZ5J0l8nup4HuBqcRYG6j8RiF2d0Qs9MMPRYr1S7qG0jC+YkkosJApIe9eyJvkESnaf1R8oYkOUpuH+MAgHtX8Ec22cwIYbw4lvJDaDA=;hELqJfizMBWFeJG+FY1lnA=="
 ---

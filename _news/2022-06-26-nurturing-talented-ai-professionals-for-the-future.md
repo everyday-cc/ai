@@ -9,7 +9,7 @@ ampWebUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-t
 cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

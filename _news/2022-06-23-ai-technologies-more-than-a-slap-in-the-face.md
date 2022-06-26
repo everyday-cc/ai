@@ -23,6 +23,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Bridging the knowledge gap on AI and machine-learning technologies"
+    excerpt: "Medical physicists explored a range of education and training scenarios for AI and machine learning at last month’s ESTRO Annual Congress"
+    publishedDateTime: 2022-06-22T13:00:00Z
+    webUrl: "https://physicsworld.com/a/bridging-the-knowledge-gap-on-ai-and-machine-learning-technologies/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 21
+
 secured: "/zhBe7kQEcM6y6hQ7HXVnyjxKrdXpYUmIZ6EAw0Le9PhT93J9wvdwXoRp5xecesG8f3oByH/O4gAnW9RJzdzZUPylASs6VSHdPHiPpXE66OJG5wqTK6ubcbQgGFMaH6BVonApPGUu9Ewt+MJcrtq4C6X9KhZ/QZwqk6Rej09P+iVtkb/o1Yu/29QQtd318ZOSAEIM3rbQ9Vf7rUbdKuEgFUGvNJQDPymQ/bYthsY+iPbC28pUbkpAsvPwTNZq4IdekfaBhekKoChR6FKavxsI2N/kk1/rIYVlEnrcfMmm5C1Ll+4z4CENgd4nWTAJ0+3CFM3+umLME96BhJepP0I7LPL+nG+EZskUTH6XluxcXc=;r1OeTwTtMbZNstmPTylsPQ=="
 ---
 

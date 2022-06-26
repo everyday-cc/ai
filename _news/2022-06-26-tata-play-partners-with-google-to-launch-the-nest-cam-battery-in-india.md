@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-26T13:23:00Z
 originalUrl: "https://www.gizmochina.com/2022/06/26/tata-play-partners-google-to-launch-nest-cam-battery-india/"
 webUrl: "https://www.gizmochina.com/2022/06/26/tata-play-partners-google-to-launch-nest-cam-battery-india/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Gizmochina

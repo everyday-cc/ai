@@ -41,15 +41,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "The CEO Rebooting AI"
-    excerpt: "Back then, we had to build everything ourselves, like hardware, software, data centers and even dial-up access networks—without the convenient, low-cost broadband and AWS type services that allow us to quickly launch services,"
-    publishedDateTime: 2022-06-21T19:13:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2022/06/21/the-ceo-rebooting-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial Intelligence in BFSI Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027"
     excerpt: "Global Artificial Intelligence in BFSI Market (2022-2027) research report offers in-depth analysis on market size,"
     publishedDateTime: 2022-06-24T10:40:00Z

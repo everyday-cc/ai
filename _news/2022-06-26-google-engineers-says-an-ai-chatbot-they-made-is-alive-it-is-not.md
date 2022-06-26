@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-26T13:03:00Z
 originalUrl: "https://www.realclearpolitics.com/video/2022/06/26/google_engineers_says_an_ai_they_made_is_alive_it_is_not.html"
 webUrl: "https://www.realclearpolitics.com/video/2022/06/26/google_engineers_says_an_ai_they_made_is_alive_it_is_not.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: RealClearPolitics

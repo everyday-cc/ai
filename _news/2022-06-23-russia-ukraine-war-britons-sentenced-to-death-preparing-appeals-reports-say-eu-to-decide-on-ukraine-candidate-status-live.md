@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/live/2022/jun/23/russia-ukraine-wa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2022/jun/23/russia-ukraine-war-eu-leaders-to-decide-on-kyiv-bid-russia-aims-to-turn-donbas-cities-into-a-mariupol-zelenskiy-says-live-news"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "This Ukrainian deep tech startup has trained an AI to paint war art"
-    excerpt: "A Ukrainian deep tech startup is launching a charity NFT project to sell AI-generated artworks with the twin goal of raising money to support people affected by Russia’s war of aggression and also — it hopes — keep attention locked on the conflict as it approaches its fourth"
-    publishedDateTime: 2022-06-21T20:17:00Z
-    webUrl: "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/"
-    ampWebUrl: "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/5.1.3.jpg?w=1024"
-        width: 1024
-        height: 568
-        isCached: true
 
 secured: "6fzAc1cmmiukfHGBB5k/BnIRlYBBdduzbxV2EBwBNtsCKFlHW/35R81XBhbxMtQstIfvJyRgOIuWEvU0m8Ois4HcJYBdUWfqB0d2PjM6vqVKhnv0uSjwr6YKBMfYaccFJpABxIWKG+VLVPTD+FcCtwM0fNeOibdqzrSH3z6O/FV1EDUa7t/TO7kzjDlYVcElHLrNSa4QP/QfxBEbY131YnIp+UyVsW+6gvVdIokn/Ldq+zaxUUy0LSz29LIk5jp2y3ld9wtoRlFLHIsRuHe0LQdDuBP9tqADm9tw4gFqFbv/iC6ZjOgsSZOFxjLs/p3QJipPc8qM0xkF/EplzrHnWrLHQNk2clRFWr2cYeK5fTs=;pd7z5FEqEB4JMCe9NH2s7w=="
 ---

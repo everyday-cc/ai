@@ -7,7 +7,7 @@ originalUrl: "https://www.pna.gov.ph/articles/1177557"
 webUrl: "https://www.pna.gov.ph/articles/1177557"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Big firms to invest $20M for AI research"
+    excerpt: "BIG companies in the country will invest $20 million (around P1 billion) to establish a shared hub for artificial intelligence (AI) research in the Philippines. Trade Secretary Ramon Lopez said in a recent interview that conglomerates are funding the ..."
+    publishedDateTime: 2022-06-26T14:50:00Z
+    webUrl: "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821"
+    ampWebUrl: "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp"
+    type: article
+    provider:
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 57
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2022/06/26/83648.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "ZIM invests in artificial intelligence firm"
+    excerpt: "Cash-rich Israeli carrier ZIM has invested $6m into Data Science Consulting Group (DSG), a compatriot tech firm with a focus on artificial intelligence. The two companies have already been working together over the past year."
+    publishedDateTime: 2022-06-22T05:51:00Z
+    webUrl: "https://splash247.com/zim-invests-in-artificial-intelligence-firm/"
+    type: article
+    provider:
+      name: Splash 247
+      domain: splash247.com
+    quality: 17
 
 secured: "zkUmkFdtsnTtmLyFr0tKG3ZJVe3T+ClcIhTFC7YVrAPLyQwc5ODKjaUDtYLqhis25q/07GEcqnJjcWfGUdQLCmpXC7bemWNhtdu0wmLcGDheh/aaIbOfQxoFO/9Ka3E5XMhhzjheSbrQtWJ/rEMbLFnyaq0qBPjfgWQE4q+KrsTWhuj8Wab4K3zQgVXaOEpJgv4qPFCIAyZX4IofPePkWn7fvfGtcuy+jb6aglZGJTa1fwuafUAa7k9sVn43zCwy0S/3cVx5jQDR7aw9D14RAJlE5JXpmb/nYTMA7Vx1iZlJ2KXfEKCtwY7a7ikwA391xP3GB9qvXqPsQ0RBmZrLa6x73NC+Vju11Tlrb7BLqtVt5t3LARxQtmpiSK2YUFli+xBfYK+jHxM3FVni0Qi+4DT6HbLa3nLdyElchHjJwRpOmp/Mz95rysb3kGUyIB8HGjFZVjmdQ/MleFjjBcS390DguOuSEj0daBhnfc5vSvdR4TYOQv0TQAxBDmcpFflehNqTouXZhqy9Lbuy1aNuVw==;68bKae3R+p2hfO4NPVMjwQ=="
 ---

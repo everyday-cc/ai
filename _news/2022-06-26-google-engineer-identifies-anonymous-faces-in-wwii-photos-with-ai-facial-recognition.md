@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-26T12:40:00Z
 originalUrl: "https://www.timesofisrael.com/google-engineer-identifies-anonymous-faces-in-wwii-photos-with-ai-facial-recognition/"
 webUrl: "https://www.timesofisrael.com/google-engineer-identifies-anonymous-faces-in-wwii-photos-with-ai-facial-recognition/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: The Times of Israel

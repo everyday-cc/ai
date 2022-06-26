@@ -43,17 +43,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Pennsylvania House Advances Driverless Vehicle Bill"
-    excerpt: "(TNS) — Driverless vehicles without an emergency driver could be coming to Pittsburgh's streets, as Pennsylvania hopes to become the nation's leader in the industry. The Pennsylvania House ..."
-    publishedDateTime: 2022-06-21T20:40:00Z
-    webUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill"
-    ampWebUrl: "https://www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/pennsylvania-house-advances-driverless-vehicle-bill?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
 
 secured: "sgQLZNfuXjaElfvRPVXGLVyYtIurYX7DIa3Q5Miu5OalkF2UcChUsg+eth3VrtT7UhaIUuQhTxrBSgaZITP1CbS4bwOwBNE3Bul6CH5ELrSls4R7YfVFe18P6c++FLL6lUB6WdjTQWlQ/uCWAxVpJJTbY5bGuR2/7gn8JxmUBRw4305kFqvs6b58Eec5IkQJw8LGcrHpp+eXc0yXfsxQBhsrlQeBsHQvktb85RjsEzJsI1BiqQ365NQTnWhsuq+GzYF2qrdSu3vDvyxNnrArtXnTz/BlLTo/CDRdPXRA5DvKCyHDEL8FUJFW9vNyM6r3e5l+S8S+s624OzwvlEAU9sJEwy/pu+bHXfhhYNTqDW8=;d2NY3M0i0+ZW0bdWfvvuSg=="
 ---

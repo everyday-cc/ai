@@ -26,22 +26,6 @@ images:
     height: 1687
     isCached: true
 
-related:
-  - title: "Aurrigo commences self-driving vehicle trial"
-    excerpt: "Coventry-headquartered autonomous technology specialist Aurrigo has commenced a four-day trial of its self-driving vehicles at a prominent Alnwick venue."
-    publishedDateTime: 2022-06-21T20:38:00Z
-    webUrl: "https://www.insidermedia.com/news/north-eastyorkshire/aurrigo-commences-self-driving-vehicle-trial"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/Alnwick-Castle-%28Action-2%29-67251-1655721569.jpg"
-        width: 900
-        height: 506
-        isCached: true
-
 secured: "XTMFdXYSCF9LIDlOEqCvV/2L84kS90waYy55rb4wmFCQZ1UIZ4g/Okt0d2msXKeIUk96TfAQKPGx50yyQ6OXEWRFy1s+SAz1jDqTAAMj8PoidSpdzA6Q7SHn/u2sxPB6ealUY7/hB/iGyyoCCejaM4fJBjyfmeFpFTG1hQnp18+XVE1WF9RRFFcvfUjVWnpmKPcCCGxPmh8x0pdH54R66yJ2KtplhfI0uyPuCA8ezZjv+Dk9jmcX0muNuGTT8WN5vsRgaPozcNj6c0LPeBe+Pptp6BgHv1y1gU1jvzHaAdJkiOYyOA+HzSo2VbNOyMD8RzGDPqqKKyzP8obHZcYGtsWiZKCANG6Xht+DlAullSerrnoGbyvDKAyEYNXAmO6Ax6fuWpIANcnzj65fYjJHxkb4RwKB4JXNl+dTOpTOxEPyfgPizw6NIs0T6/n0QoUEMa2BD7VTbKDY9w8nrFfGCXSF8kiKWDau8oFkmUHRF92sKUBQ4pY3u4KFs3/whm3W26LY+op+Sc/YmiczO5xXFw==;neeSNFxxgOZncWG9VygU5A=="
 ---
 

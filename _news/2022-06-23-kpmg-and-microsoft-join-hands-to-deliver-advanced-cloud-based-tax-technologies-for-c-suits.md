@@ -328,29 +328,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Microsoft curbs its facial recognition platforms in the name of privacy and security"
-    excerpt: "Microsoft seemingly gave lip service to the notion of responsible and regulated facial recognition usage when it publicly pushed for a \"common"
-    publishedDateTime: 2022-06-21T20:39:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-curbs-its-facial-recognition-platforms-in-the-name-of-privacy-and-security"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 66
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2016/09/recog-825x510-1.jpg"
-        width: 825
-        height: 510
-        isCached: true
-  - title: "Microsoft stops selling emotion-reading tech, limits face recognition"
-    excerpt: "Microsoft Corp on Tuesday said it would stop selling technology that guesses someone's emotion based on a facial image and would no longer provide unfettered access to facial recognition technology."
-    publishedDateTime: 2022-06-21T20:07:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-stops-selling-emotion-reading-tech-limits-face-recognition-2022-06-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
   - title: "Microsoft Scraps Some Artificial Intelligence Facial-Analysis Tools, Citing Risk of Bias"
     excerpt: "Microsoft Corp. will stop selling artificial intelligence-based facial-analysis software tools that infer a subject’s emotional state, gender, age, mood and other personal attri"
     publishedDateTime: 2022-06-22T15:05:00Z
@@ -443,17 +420,6 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 53
-  - title: "Microsoft plans to eliminate face analysis tools in push for ‘responsible AI’"
-    excerpt: "Microsoft will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool."
-    publishedDateTime: 2022-06-21T20:33:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 53
   - title: "Microsoft retires facial recognition tool that identifies emotions"
     excerpt: "Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools, including retiring facial analysis tools that purport to infer emotional states and identity gender,"
     publishedDateTime: 2022-06-22T13:04:00Z
@@ -481,31 +447,6 @@ related:
       name: WDIO
       domain: wdio.com
     quality: 37
-  - title: "Tenable CEO: Microsoft Vulnerability Disclosure and Patching Practices Are Insufficiently Transparent, Put Customers at Risk"
-    excerpt: "Tenable CEO cites reports from several cybersecurity firms that indicate Microsoft is not being timely enough with its vulnerability disclosures and sometimes has a \"dismissive\" attitude."
-    publishedDateTime: 2022-06-21T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/"
-    ampWebUrl: "https://www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 32
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/06/tenable-ceo-microsoft-vulnerability-disclosure-and-patching-practices-are-insufficiently-transparent-put-customers-at-risk_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "Microsoft curbs selling of emotion guessing software, limits facial recognition tech"
-    excerpt: "Microsoft (MSFT) said on Tuesday that it would stop selling technology that guesses their emotion based on a facial image and would limit the access to facial technology"
-    publishedDateTime: 2022-06-21T19:12:00Z
-    webUrl: "https://seekingalpha.com/news/3850435-microsoft-curbs-selling-of-emotion-guessing-software-limits-facial-recognition-tech"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 29
   - title: "Microsoft to retire facial recognition tech that can detect emotions, limits access to facial recognition services"
     excerpt: "Microsoft is “retiring” facial recognition capabilities that infer emotional states and identity attributes such as gender, age, smile, facial hair, hair, and makeup, the tech giant has announced. It is also limiting access to facial recognition services."
     publishedDateTime: 2022-06-22T12:39:00Z

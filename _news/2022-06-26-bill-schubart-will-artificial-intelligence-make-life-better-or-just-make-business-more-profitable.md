@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-26T11:42:00Z
 originalUrl: "https://vtdigger.org/2022/06/26/bill-schubart-will-artificial-intelligence-make-life-better-or-just-make-business-more-profitable/"
 webUrl: "https://vtdigger.org/2022/06/26/bill-schubart-will-artificial-intelligence-make-life-better-or-just-make-business-more-profitable/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: VTDigger

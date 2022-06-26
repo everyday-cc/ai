@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-26T13:32:00Z
 originalUrl: "https://abc7.com/worlds-ugliest-dog-mr-happy-face-chihuahua-mix-jeneda-benally/11996390/"
 webUrl: "https://abc7.com/worlds-ugliest-dog-mr-happy-face-chihuahua-mix-jeneda-benally/11996390/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: ABC7
