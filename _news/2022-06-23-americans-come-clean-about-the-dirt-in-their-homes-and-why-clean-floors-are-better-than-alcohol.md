@@ -3,27 +3,27 @@ category: news
 title: "Americans Come Clean About the Dirt in Their Homes — And Why Clean Floors Are Better Than Alcohol"
 excerpt: "Even though Americans are obsessed with cleaning their homes, a potential impending recession has many people rethinking their cleaning budgets and looking to technology for help. A new survey from Narwal,"
 publishedDateTime: 2022-06-23T16:07:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-hong-kong-robotics-017f3108d8884b449ee278c4b88af8e1"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-hong-kong-robotics-017f3108d8884b449ee278c4b88af8e1"
+originalUrl: "https://www.joplinglobe.com/region/national_business/americans-come-clean-about-the-dirt-in-their-homes-and-why-clean-floors-are-better/article_55760c12-0053-5926-b759-cf2223a2621b.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/americans-come-clean-about-the-dirt-in-their-homes-and-why-clean-floors-are-better/article_55760c12-0053-5926-b759-cf2223a2621b.html"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
+    width: 415
+    height: 539
     isCached: true
 
-secured: "VjHevS4WqFjdZDJWEnikR3qIt+3Ll0Tp30GgiTcBk3n2QEKVWwEy2cb+vlbYrts0RcZFNurfGwbkcSJdvqbVxpUHuSXx2PXVRhJNlMVYnTcC7QQ0uzTP1wD4UuSCXibnW05UPL8EhLcjovIDSRmzAPMe0m+9R1HaG1X2Cg3RPRkbpO+9jMEppR6/Au5m1/fDtWMTktTIKhlDNQy8mA3/x4flKa5JsKKmdXkOLAmg1GSirb0A1sTJTbgvBFdYtFmvLkUg43x8JKkGlyYJWNWJV/6nL1sSg5KCR1OGxI/EN2bRoUAZBH0Z7/MGLKLesx9niHej6Ktie3yZLb6SjFZIWDpUS4pwsAwv8zL7uXtRZCs=;r1ZSqGQM1Hji7KXGSXZvRA=="
+secured: "op7PcS/ots9XzWyt892TxYmpT3cKo6HjP2/d6eK9f9RZZl83/owNaG6uUVmpB+1LKf7jVLh+1xTCpgTPU9WO1EyP4yEosZKKCPsBOqGpw4oUyuQxH7y/RevxFfiAVa3bjnGlQQSQDXrehkjAmWk3L1SOaFDEH/mS3ER89mzcOZpYbEKEOS/JZ+wvYNgVkyBybBwh6BpFzwCR/kY/12wlOC88V7wllSQNIWAczoumsIVAa1Lz0uSI111M4/O0KnqUCwDmvPT+/ld3G8T3GP6OC0TGjUNYt9xRr9dShAp8+5nVnM2RHEqA5FvNHF+VrycGgFw0WvzmxQP8jNE14eawrAIQ/RbRXqtNExevfQU6N0k=;3qzPoX/MlvoDGTcXlEm08Q=="
 ---
 

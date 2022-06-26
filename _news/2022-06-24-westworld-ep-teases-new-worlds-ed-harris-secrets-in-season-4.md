@@ -29,19 +29,17 @@ images:
 related:
   - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
     excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
-    publishedDateTime: 2022-06-24T21:00:00Z
-    webUrl: "https://www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/"
-    ampWebUrl: "https://www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/amp/"
-    cdnAmpWebUrl: "https://www-tvinsider-com.cdn.ampproject.org/c/s/www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/amp/"
+    publishedDateTime: 2022-06-24T20:00:00Z
+    webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_205eb3fe-17e8-578d-b5b2-81de9d41d328.html"
     type: article
     provider:
-      name: TV Insider
-      domain: tvinsider.com
-    quality: 41
+      name: Daily Journal
+      domain: djournal.com
+    quality: 21
     images:
-      - url: "https://www.tvinsider.com/wp-content/uploads/2022/06/westworld-video-interview-1014x570.jpg"
-        width: 1014
-        height: 570
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "We watched Westworld season 3 so you don’t have to"
     excerpt: "You’ve just watched the trailer for Westworld season 4, which premieres on HBO Max this Sunday. You feel a strange mix of emotions: anticipation, curiosity, bu"

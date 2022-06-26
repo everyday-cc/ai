@@ -1,17 +1,18 @@
 ---
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
-excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-publishedDateTime: 2022-06-21T14:00:00Z
-originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million ..."
+publishedDateTime: 2022-06-21T10:10:00Z
+originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -20,6 +21,6 @@ images:
     height: 1203
     isCached: true
 
-secured: "VY1sLbx7dMVO1lGcboKtSCUD178viG1kwtVmHQ31p0ENrwbmJtNKpwE9H0/qq7QFsnvl4lLit07S+DjMX+aAd2ckN9Y0B8W6mCi5HdgzPhTntqnso0Y0qTiISqQenItm5lK609vQT+QGWMkhDMEueHXDtlYAvsyZLlGLvaWSeA8kCNgW6q7JzWuhE7yRlu0a5k2Pkqb2xbi+nQ/SvHpZiiJF2gcOU9dvdBVXZggxXwziJ9+lCy3uBe20wOK7i2cFNTpInjIGavg0Q/PdKlxvCPnWu6w24SLcJXzkpDzWJ0VM5S4ZG2qp5bfCmem0ZebodqoJYSRECf1/7fKvOFJBuC6tfPytcPSWvZlMSRmyrq4=;d1nEX+5r4S6+OpXAWpFv5A=="
+secured: "6mQ1RgJGHAzJ2AQyh8fCi8p+AqumV6I1gxblDZTyc1HzQaYQQmncoZturuOTHPOuCmoGb9JZAYbpheyMBlq21bd+UzkUuedwOSh9LoAniAmoL+Stv5CK9eoufG1wrnLPzBnlqbiDowFj7gsOWHnmCGp+6vVmBFjyt8WGzfXzdGboflw3HoHPQ9Nwwu3PPRVZVVCCJ1VRpAuFe5zMK46RuGDCBFHViCFOzRvX2/5aqnwO0Dk0RSHYXvVhl1oMgt72xH+qOfmmc5chrAUGtCbP1HoMbPFtU/xHxJBCjZVS93OHv1jRf3uVzyB1n8ZjlnQyLsfvDGL1ZNNtq+HANzoehoG2D4MWKGME50mMZD7pM0g=;h3dK5Pzo9dFnicLBN9jsEg=="
 ---
 

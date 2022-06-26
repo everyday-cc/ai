@@ -86,6 +86,20 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 8
+  - title: "New unified Qualcomm AI stack portfolio revolutionises developer access and extends AI leadership across the connected intelligent edge"
+    excerpt: "Qualcomm Technologies, Inc. has announced the Qualcomm AI Stack portfolio, accelerating the company’s leadership in artificial intelligence (AI) and the Connected Intelligent Edge. Combining and improving its best-in-class AI software offerings,"
+    publishedDateTime: 2022-06-26T09:39:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/new-unified-qualcomm-ai-stack-portfolio-revolutionises-developer-access-and-extends-ai-leadership-across-the-connected-intelligent-edge.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 5
+    images:
+      - url: "https://itwire.com/images/20220509-ITWire-300x250-may22-3.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "amjqnyJiEBACdS9w0/0YyvLcuKMlBDk6PIh4uIRPiQOZB8/2aBV5CejG5d2UTtHU6nS5kCwvaemm59tx9PsX6Xl04zrchnrVaYKtnCdtKu0ZStEuGNzRNPgErKzgXEEGN4fHhP/pStPEfS8vRhqFaCtEblKT6U90zNTZTrvNb/ijD3hAc2h3H+/Yn2qIcy1Noj4NKOSt88BB4z5lYgZKrVEVNb8hATKhDkGZkKzQ6naxF+WLZc5baEb4VqfNuw9JAJQUj3KPIezHmMXAiM6I6iLMKFIxonXrRP8vWWOvoDovnuc1UI4p4tX0v/Fxv12SAl/d0DT7y/JUW1i/v09emRfC9P0/F7VGzqa1or7Jb9Q=;lVaMh4+IIiVEvywX9WVVLw=="
 ---

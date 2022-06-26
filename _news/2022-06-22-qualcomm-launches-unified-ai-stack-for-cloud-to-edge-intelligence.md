@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 8
+  - title: "New unified Qualcomm AI stack portfolio revolutionises developer access and extends AI leadership across the connected intelligent edge"
+    excerpt: "Qualcomm Technologies, Inc. has announced the Qualcomm AI Stack portfolio, accelerating the company’s leadership in artificial intelligence (AI) and the Connected Intelligent Edge. Combining and improving its best-in-class AI software offerings,"
+    publishedDateTime: 2022-06-26T09:39:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/new-unified-qualcomm-ai-stack-portfolio-revolutionises-developer-access-and-extends-ai-leadership-across-the-connected-intelligent-edge.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 5
+    images:
+      - url: "https://itwire.com/images/20220509-ITWire-300x250-may22-3.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "Yth5++SNL7IlJyIP7h5uYBjZtWQ3GnurnIQ/sixFLr6i9KGqWxo1L68h2YEOniQUuWvoYNPHDEUFJAHT6PUydrSXPcN7qoPpX74mqwfUKUMqyKNrJYDN7svFtBCDxo5wU2sch2/9PLZl6lYSiE4sF4hTcOCv9By2F/HRGmE9xy7LHAmEByX9lme1R6aJAnFPqW6dL70rhFrjLXoDLB9cpRb5B4M6fCNvmukUlq5Udd8Eh6nTqKMHvQNtyA9rTDg2AcL9h6GH3c/7vfXUmnFhZPhJ1eK9I4shWvRv051vzGae3GX0HvNgOHdjvakkejxDsnRab+2rwO/QmyZtQOiS8d3F55FcCuNR2AEHh+UYuLRmS+4q2VK54HEgQdp4K+2U7lcS8v5XZaP8hXD3G2J0+tUySBkagzYe/sI7AQ5soWjUybOeKSghBq5YP0XoSMP4QHrgStefnPAmmKT/rlz03OFLzp5aECbcpXegx2hVfGh5pbEOJ1aQc5YDeBD04UhBkwRTTIDk+2uQHUr9M1B7iw==;lmntOeA3Vg4yssCup/xVjA=="
 ---

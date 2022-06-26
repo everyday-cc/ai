@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: enterprisetalk
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'"
-    excerpt: "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI."
-    publishedDateTime: 2022-06-21T18:54:00Z
-    webUrl: "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/"
+  - title: "Pentagon’s long-awaited ‘Responsible AI’ pathway highlights flexibility, ‘trust’"
+    excerpt: "One key element is ensuring a transformation from \"viewing AI as an enigmatic and incomprehensible technology to understanding the capabilities and limitations of this widely adopted and accepted technology."
+    publishedDateTime: 2022-06-23T17:45:00Z
+    webUrl: "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/"
+    ampWebUrl: "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 116
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 52
     images:
-      - url: "https://www.cnet.com/a/img/resize/290f770fd6283318e4d4c021da82022ea12a273c/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2021/02/KathHicks.jpg"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "Pentagon Unveils Plan to Make 'Responsible Military AI' More Than Just a Buzzword"
     excerpt: "The Pentagon’s marching forward with AI weapons of war… responsibly. This week, the Department of Defense released a lengthy 47-page document outlining the military’s plan to implement its ..."
@@ -53,20 +53,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
-  - title: "DoD Releases Responsible Artificial Intelligence Strategy and Implementation Pathway"
-    excerpt: "While the RAI’s objective is to restrict irresponsible and unethical use of AI, it is not meant to be a barrier to AI implementation."
-    publishedDateTime: 2022-06-25T15:54:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/dod-releases-responsible-artificial-intelligence-strategy-and-implementation-pathway/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 30
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2021/02/1000w_q95-6.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
     excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
     publishedDateTime: 2022-06-24T18:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Ukrainian deeptech startup has trained an AI to paint war art"
-    excerpt: "A Ukrainian deeptech startup is launching a charity NFT project to sell AI-generated artworks with the twin goal of raising money to support people affected by Russia’s war of aggression and also — it hopes — keep attention locked on the conflict as it approaches its fourth month,"
-    publishedDateTime: 2022-06-21T17:27:00Z
-    webUrl: "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/"
-    ampWebUrl: "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/7.2.25.jpg?w=680"
-        width: 680
-        height: 377
-        isCached: true
   - title: "Russia-Ukraine war: Britons sentenced to death preparing appeals, reports say; EU to decide on Ukraine candidate status – live"
     excerpt: "Russian news agency says British citizens and Moroccan sentenced to death preparing appeal; EU leaders to decide whether to grant Ukraine candidate status"
     publishedDateTime: 2022-06-23T11:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techworm.net/2022/06/github-copilot-write-code-using-ai.
 cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/06/github-copilot-write-code-using-ai.html/amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,68 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "GitHub Copilot AI coding assistant is now generally available"
-    excerpt: "Copilot is available via subscription for commercial developers, free to students and maintainers of popular open source projects."
-    publishedDateTime: 2022-06-21T18:31:00Z
-    webUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html"
-    ampWebUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/robot_workforce_workers_artificial_intelligence_ai_thinkstock_905028734-100749936-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI-Powered Coding Assistant Aims to Help, Not Replace Developers"
-    excerpt: "Instead, he said, the AI coding tool acts like a predictive-text feature on smartphones. As developers work, the tool suggests options for lines of code needed to execute given tasks, within a larger software program. Developers, who can also ask for ..."
-    publishedDateTime: 2022-06-24T23:30:00Z
-    webUrl: "https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-571472/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "GitHub Copilot – Coding AI developed by GitHub & Open AI released"
-    excerpt: "GitHub Copilot comes in the form of an extension for text editors. It is powered by Open AIs text generating technology."
-    publishedDateTime: 2022-06-22T17:13:00Z
-    webUrl: "https://techstory.in/github-copilot-coding-ai-developed-by-github-open-ai-released/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/06/OIP-7.jpeg"
-        width: 474
-        height: 248
-        isCached: true
-  - title: "GitHub Copilot 'AI Pair Programmer' Now Generally Available at $10/Month"
-    excerpt: "After a one-year technical preview, GitHub Copilot, described as an 'AI pair programmer' coding assistant, has reached General Availability (GA) status."
-    publishedDateTime: 2022-06-21T18:54:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/06/21/github-copilot-ga.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 38
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0815vsm_ShacklesCCorner.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "4tRb3sbl90aTXdm6e6ySocPCOleu3hoEpTTQfHXpiPtefEux44EyFGrYob6nnnlNiFI+dnpbdY1yXZxdLbCUqm4rwexDvRqS7YQdJiLm66oZydbItYXCWmxK7fihLO31i6imQCj+cnsJGtlZ6IMIuQulNBNZvcSs0KkCxtVZnNh9pbk2sHWG5uCOve2GtLYH/AM84uUZOGX8RRM7/xjJb4LlRZW/i8V2t85WaeHw7oyWVlW/1q4VsyM6TZa3fnclaRL5qGsNgykIhAYrj1hh3nNRmUiE69+dykdG9f4P48dNSBr/7IPjeG/DJCAf6RudjQHSHB1a+psVYhPjQbIKHpw1aTMzWG//zHbrhBV44ls=;gynRl2H5BBmzKVL7gsHyrQ=="
 ---

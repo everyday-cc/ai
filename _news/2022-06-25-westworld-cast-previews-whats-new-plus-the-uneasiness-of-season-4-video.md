@@ -2,28 +2,26 @@
 category: news
 title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
 excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
-publishedDateTime: 2022-06-24T21:00:00Z
-originalUrl: "https://www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/"
-webUrl: "https://www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/"
-ampWebUrl: "https://www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/amp/"
-cdnAmpWebUrl: "https://www-tvinsider-com.cdn.ampproject.org/c/s/www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/amp/"
+publishedDateTime: 2022-06-24T20:00:00Z
+originalUrl: "https://www.djournal.com/lifestyle/arts-entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_205eb3fe-17e8-578d-b5b2-81de9d41d328.html"
+webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_205eb3fe-17e8-578d-b5b2-81de9d41d328.html"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: TV Insider
-  domain: tvinsider.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.tvinsider.com/wp-content/uploads/2022/06/westworld-video-interview-1014x570.jpg"
-    width: 1014
-    height: 570
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: polygon.com
     quality: 4
 
-secured: "wShaRg/ptO8e44C8Lnw1mns3eaPX7gBPrxhlsY+4Vk3AVnCpSisoArNHhMXYXEvajGcNOzFjBKK37/bfmX6YlK4rOVfpK29jNApGlS4Ln3ZmXS9cyVe/NL9Idf2kORfU/5kImFxbeH/KTda6TKDhwPFKD2861zGVdITBlDZzgts54h51EjRXBlYD+wWtMOQ3y3WKKK/HbLa2iaGh9YkR0tBi6b9X6T9fWbbvgLtONmIBVGSvS5thMCU7jmvl9rYueJfmPa81rYAqsW9V5yXRq366Iq8Ga9ZoP0BmRl8MSV65wDw/PtR/m/nl3tpaHH/eYfe0zJ6eWVt4GL0eGIU/QhmDhvZT3hD0rlUBUU6s2T/VuTZZTDng9FV+VHK8BiXLMC3mxvPZd4dYLdFeXYxOMYPa1vMbQ3xUWA+zgqLdJO6BU0elBJHgpGjLY3GC8MB/9wFWFYWQ30oAaOD4W/4W75a4oC1nXr9yP+0MYPZ1ZJPKBw8t5dnqb09aXqrqN62e4e3X3rZTCk8ceICmuDoZrQ==;TFL0rIMOXOSumFM+cZMiYw=="
+secured: "nW1BbwVahqHU6W1dT/TiR7Jtgb+NbVnF9cl6HJtk56TWfTw2/oNsrOuN0Hils4D2pucoNZ9JY2fkgFP3u+8VYCkD6lujYkLi4LWdUTaivJPTBuInaLCR/o8yvGBdYaJgyTOVf8bFc7mxPyneyVNDbwP6ApU47ZIrMwatBL1zkLDeYP7pgapKQ9i0q9+B+AQ9Ag067LLQEPVB+TM/HhTAkJPTk5cdmoRvflpcTHfDKuKP2C0OeyLcZpSW1DI0gx/QodQj5rrd/OgJJ8xCIaQglD9EpqiXoRvw4Fd9dpYTGgNDxi/VMGdtA3vKNp1ecDqEz7FEU+vdI/B27/rIMqCSOtjKKyj0suCY83vjCKHT0sQ=;JesDoOu/DMJ5WfnS4p9V6w=="
 ---
 

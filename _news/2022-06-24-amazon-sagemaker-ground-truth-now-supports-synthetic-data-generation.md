@@ -81,24 +81,6 @@ related:
         width: 1246
         height: 619
         isCached: true
-  - title: "Identify mangrove forests using satellite image features using Amazon SageMaker Studio and Amazon SageMaker Autopilot – Part 1"
-    excerpt: "The increasing ubiquity of satellite data over the last two decades is helping scientists observe and monitor the health of our constantly changing planet. By tracking specific regions of the Earth’s surface, scientists can observe how regions like forests, water bodies, or glaciers change over time."
-    publishedDateTime: 2022-06-21T18:58:58Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-identify-mangrove-forests-using-satellite-image-features-using-amazon-sagemaker-studio-and-amazon-sagemaker-autopilot/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 41
-  - title: "Identify mangrove forests using satellite image features using Amazon SageMaker Studio and Amazon SageMaker Autopilot – Part 2"
-    excerpt: "Mangrove forests are an import part of a healthy ecosystem, and human activities are one of the major reasons for their gradual disappearance from coastlines around the world. Using a machine learning (ML) model to identify mangrove regions from a satellite image gives researchers an effective way to"
-    publishedDateTime: 2022-06-21T18:59:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-identify-mangrove-forests-using-satellite-image-features-using-amazon-sagemaker-studio-and-amazon-sagemaker-autopilot/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 41
 
 secured: "4STTTNQ95h+1HWS2/xIw/uc6u7uSY1iy+RXqKmRrVSGIK1rgWRR1BYMg7QUOpeKAYcuDwWZcGSER+jfX9f4pGTJ++pPNP7bP9N9cHmlzTwub0DmH1rIHE6XkjicVbtKa+cymepmNCP0KEL4UjvDoDGTWAvbmX4nk0JTkJS68wAVQDruF5HB/XyoaN328dPIk3tkHdnZs8ibraTKAwddEBv/kGHCWcsCIBld5q0805mDEP9TSIymxAX+thtcSfYvFkn/zwqhs/o06aOCtJusofN38I0g8RzgadvFZhaxPWSVJ5jyaje3WeYuUjIgCadPpV1pilru2j0x0Wl6aRO0oFAp0AfNYnHL+kX3kSYtCDqHAZtee+D606dW/pzDLzGXwqnbuzGzwSSvRs6TZu7LY+O/m/rR/DSxcbOHqMMimlvP+g/FEl3RoNUPvJUTqcggL6Gs68/XBt3XtP4HmBlyT5bPYdgxAJ5OG5Qf3pLaftOE9u0gv5PD+vKtIdt0KOSfQdKhY5/XtP7FIDw/Y28PASA==;5xayALXLmpbV8FHIWt2IYg=="
 ---

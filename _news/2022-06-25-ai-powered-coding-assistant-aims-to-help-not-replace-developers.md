@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Wall Street Journal
@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "GitHub Copilot AI coding assistant is now generally available"
-    excerpt: "Copilot is available via subscription for commercial developers, free to students and maintainers of popular open source projects."
-    publishedDateTime: 2022-06-21T18:31:00Z
-    webUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.html"
-    ampWebUrl: "https://www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664123/github-copilot-ai-coding-assistant-is-now-generally-available.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/robot_workforce_workers_artificial_intelligence_ai_thinkstock_905028734-100749936-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "GitHub Copilot Will Help You Write Code Using AI"
-    excerpt: "Microsoft-owned GitHub on Tuesday announced that GitHub Copilot, an AI pair programmer that suggests code in your editor, is now generally available to"
-    publishedDateTime: 2022-06-22T06:15:00Z
-    webUrl: "https://www.techworm.net/2022/06/github-copilot-write-code-using-ai.html"
-    ampWebUrl: "https://www.techworm.net/2022/06/github-copilot-write-code-using-ai.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/06/github-copilot-write-code-using-ai.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 57
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/06/Github-Copilot.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "GitHub Copilot – Coding AI developed by GitHub & Open AI released"
     excerpt: "GitHub Copilot comes in the form of an extension for text editors. It is powered by Open AIs text generating technology."
     publishedDateTime: 2022-06-22T17:13:00Z
@@ -75,20 +43,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/06/OIP-7.jpeg"
         width: 474
         height: 248
-        isCached: true
-  - title: "GitHub Copilot 'AI Pair Programmer' Now Generally Available at $10/Month"
-    excerpt: "After a one-year technical preview, GitHub Copilot, described as an 'AI pair programmer' coding assistant, has reached General Availability (GA) status."
-    publishedDateTime: 2022-06-21T18:54:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/06/21/github-copilot-ga.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 38
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0815vsm_ShacklesCCorner.jpg"
-        width: 647
-        height: 450
         isCached: true
 
 secured: "KIr/t5a5rLXMh38lxriI5r3zihnTzQwbbpXS3QmQbp41bhbfxPi4WUgJ/IQvDvK7dbFhYPO72wfpAWjCkJVkRuPxnpCS3QENX4xKlFqw697oaNcr8KBiNa9MnidTQLuh98BgNV4/519jJIRoC1aqjCIATrrjK3ELiVJp2nYlJHH+XDzi3lpeUMEvWDSAG7JYXkvcT3y5b9F3IiJwQaoInQ+L0ni4yHE1oyTxE2Wfz79ScpJpDHqfJOK/nqOo1VWUKJBSn3CJ9UR7YuJ6aFM8PTxo5Tz4bBB0RpEjtTzOn/hg7JGMWbzRKKe8XJxdfwrShkm9yxHNrikFvxLMpu0Z5pd9sZhxun+50EuWHbAKarp6zpOV5p6ygivjpbjlqxaAvGCAgN3XlIxIxQT/aUXWiM8a1m2UI+QJuM4dEFM6/VORj1dzwalW1Xd3NvKZSdN2CvoVcdDPbzin3VGiZO4orG2YisaNTLsBUgFIyXNcE527EGb/ExWfDnUttVLGGiI4tf4SH7YmDBEa0HZobjMQsA==;oDLuQ9u1YQSKe2tgaZh5Ng=="

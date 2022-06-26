@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/robust-ai-announces-new-grace-softw
 webUrl: "https://www.therobotreport.com/robust-ai-announces-new-grace-software-suite/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -34,15 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "New artificial intelligence software can now create art from written prompts"
-    excerpt: "A new piece of artificial intelligence software, called DALL-E 2, can instantly generate art from words, a function that one Toronto-based industrial designer said he considered to be “one of the jobs that was automation-proof."
-    publishedDateTime: 2022-06-21T18:41:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/new-artificial-intelligence-software-can-now-create-art-from-written-prompts-1.5956693"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 14
 
 secured: "joXOERSxZN6iq0vkWvG+AyAQzLcTM6+rwvOaKBQ31+A5x2laeUDet83T7tE7eIG7oNTaybOUCFq05GT1EQPzXki8nWLhf1nbfryWzNtGo2WHa7op7L1yfNno576VpUxAN+UVSiXVOlDaYtKtUueSFusVxLeR5XtTx6keHLjurW5JlJRxxQ2u6NDPbFSwbv/rrO48xiEwusGxz8U0WjHhGrwGjjeBjDNaKx5RnzXyviWphwRrgPWYXHW+j0bwZ4qEqQ107tTVgNYXNGhllbiofZzKSPNKuOqbDBiGfkde4UJPpa239BqhoEVCmxrWlx1/z4JdVmPgYJ0sY+zbv3ZQkrjPgonl5HxuAVId9OS9ZG1UzS13SMlUS+dHWgS88VxrIz0Bt7YSJo/Y+4THZAmFbBYcklVWhagBGBsghjOUhqQlIfs5V0drLhvYZdvSOnVF0wp8l1mE4IZrUTaalpB4kQF6Q9CUomLyLhR+2fpgZvCbjYOC4I3kqEVcQwDXh8HYMN/f6W02M70LRj5UMM9ORA==;OQubS8tr4HQ9PTizb7d1JA=="
 ---

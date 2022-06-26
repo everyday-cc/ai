@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 568
         isCached: true
-  - title: "This Ukrainian deeptech startup has trained an AI to paint war art"
-    excerpt: "A Ukrainian deeptech startup is launching a charity NFT project to sell AI-generated artworks with the twin goal of raising money to support people affected by Russia’s war of aggression and also — it hopes — keep attention locked on the conflict as it approaches its fourth month,"
-    publishedDateTime: 2022-06-21T17:27:00Z
-    webUrl: "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/"
-    ampWebUrl: "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/7.2.25.jpg?w=680"
-        width: 680
-        height: 377
-        isCached: true
 
 secured: "6fzAc1cmmiukfHGBB5k/BnIRlYBBdduzbxV2EBwBNtsCKFlHW/35R81XBhbxMtQstIfvJyRgOIuWEvU0m8Ois4HcJYBdUWfqB0d2PjM6vqVKhnv0uSjwr6YKBMfYaccFJpABxIWKG+VLVPTD+FcCtwM0fNeOibdqzrSH3z6O/FV1EDUa7t/TO7kzjDlYVcElHLrNSa4QP/QfxBEbY131YnIp+UyVsW+6gvVdIokn/Ldq+zaxUUy0LSz29LIk5jp2y3ld9wtoRlFLHIsRuHe0LQdDuBP9tqADm9tw4gFqFbv/iC6ZjOgsSZOFxjLs/p3QJipPc8qM0xkF/EplzrHnWrLHQNk2clRFWr2cYeK5fTs=;pd7z5FEqEB4JMCe9NH2s7w=="
 ---

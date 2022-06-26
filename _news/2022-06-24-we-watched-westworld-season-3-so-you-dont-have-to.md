@@ -37,19 +37,17 @@ related:
         isCached: true
   - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
     excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
-    publishedDateTime: 2022-06-24T21:00:00Z
-    webUrl: "https://www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/"
-    ampWebUrl: "https://www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/amp/"
-    cdnAmpWebUrl: "https://www-tvinsider-com.cdn.ampproject.org/c/s/www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/amp/"
+    publishedDateTime: 2022-06-24T20:00:00Z
+    webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_205eb3fe-17e8-578d-b5b2-81de9d41d328.html"
     type: article
     provider:
-      name: TV Insider
-      domain: tvinsider.com
-    quality: 41
+      name: Daily Journal
+      domain: djournal.com
+    quality: 21
     images:
-      - url: "https://www.tvinsider.com/wp-content/uploads/2022/06/westworld-video-interview-1014x570.jpg"
-        width: 1014
-        height: 570
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "dxI2iPw9ZbdUeByVe2dF75krYHWVhhPdk7IqN+JXqrl+gC9le7iM7uqx8dIlOljYq02tnA1F+4WLBiufA1pz+vFcBXXzKjTNwr7RikPzBbYCnmQcesgbpO1S72iOg6Fv6E+us5Eufsi3iJhkXbuWykOr1rn2FxrDRBYrk4sQIQcHM3ofpwr06qEBSty98RGuEJHqS8u0N0XzZAQY/KIxgBh1+2O1FvLT7kADYRC9vE6ApVRbINF7gM8bA4TvwNwq5OO7w/f3QBTgqa31cGQV7ErDlXHDn0JbRAh5YuqdddWuY6z6S71toP9aQZ0XoLJNPlqr9si8bGIcJRqD/6Gb7tabin3uD+BBtU7E6W53ZKz8TLu6U7JhlVCyhaTQPl7gagKiroGTbP8ydbvqhtWcAIHbKoLKwwFTua0GXq5qRqwTYF6aMRRE4W60VfKP2swT3gPXFoiXvtwKhsxxF8Ig6359652p3KeQU5qNVB5U0tf7BGeAj+tZS5ncDr2xg3jCagvmP9jyE4GePYClUhKRFQ==;fsVwO9ZJT6AyfofPz+b/GQ=="

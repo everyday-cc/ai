@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft’s framework for building AI systems responsibly"
-    excerpt: "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-06-21T17:50:03Z
-    webUrl: "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/1_Header-e1655828009665-1024x486.jpg"
-        width: 1024
-        height: 486
-        isCached: true
   - title: "Microsoft scraps some AI facial-analysis tools, citing risk of bias"
     excerpt: "Microsoft will stop selling AI-based facial-analysis software that infers a subject’s emotional state and other personal attributes after the algorithms were shown to exhibit problematic bias and inaccuracies."
     publishedDateTime: 2022-06-22T02:33:00Z
@@ -142,22 +128,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/5e063cbb-467f-467d-9144-e03fb0b3c462_kf7x.620.jpg"
         width: 619
         height: 374
-        isCached: true
-  - title: "Microsoft will remove emotion-detecting AI tools from Azure"
-    excerpt: "The technology giant said the AI features, which have been criticized as potentially biased and unreliable, will no longer be available to new users beginning this week and will be phased out for existing users within the year."
-    publishedDateTime: 2022-06-21T17:28:00Z
-    webUrl: "https://www.protocol.com/bulletins/microsoft-emotion-detecting-ai-azure"
-    ampWebUrl: "https://www.protocol.com/amp/microsoft-emotion-detecting-ai-azure-2657539400"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/microsoft-emotion-detecting-ai-azure-2657539400"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 89
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-ai-features-have-been-criticized-as-potentially-biased-and-unreliable-less-than-p-greater-than.jpg?id=27994621&width=400&coordinates=54%2C0%2C54%2C0&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
         isCached: true
   - title: "Microsoft doesn't want AI recognizing your emotions anymore - mostly"
     excerpt: "The Responsible AI Standard (opens in new tab) is Microsoft’s internal ruleset when it comes to building AI systems. The company wants AI to be a positive force in the world and"
@@ -517,15 +487,6 @@ related:
       name: WDIO
       domain: wdio.com
     quality: 37
-  - title: "Microsoft to Limit Access to its Facial Recognition Technologies"
-    excerpt: "Microsoft announced today that it will limit customer access to its facial recognition technologies in the name of responsible AI."
-    publishedDateTime: 2022-06-21T19:02:00Z
-    webUrl: "https://www.thurrott.com/cloud/269015/microsoft-to-limit-access-to-its-facial-recognition-technologies"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 36
   - title: "Tenable CEO: Microsoft Vulnerability Disclosure and Patching Practices Are Insufficiently Transparent, Put Customers at Risk"
     excerpt: "Tenable CEO cites reports from several cybersecurity firms that indicate Microsoft is not being timely enough with its vulnerability disclosures and sometimes has a \"dismissive\" attitude."
     publishedDateTime: 2022-06-21T22:00:00Z
@@ -561,6 +522,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "cO24j9al85y6d3mjeHlWCs1/SoJBeiSSL0V27YKi6Adbqz+iovIz/O8QIL1D6ejPhyHUlBFPB3j8/V9d8XV8mZ68FrrsmKqqMASrbMDZ9oN2ThCguSc5e2xknWIJPOkFnqzVB0gGm3x29OHEkvtulbWaW6/xTRVniNkiugiAF5JKjSaWkXbJjHG4KE7TX9ufhAwndX+ry+p4NPOa4JAq8ZqvTBJaf6rWjYfJGJalqg4TslqSXx5R1NeX0LlnFQ+BeMXdcBhEwFlW531L5hLGCLowAvrVmWNUOdrztYVHdnPy7IGx3iOdSuTf9HNYrywKlbyy0CmTdwI8IPBecWxAfHz4i/mk/2hLqK+qqPWGQHQ=;FGORsIXy4o0wxeOJY7J3HA=="
+secured: "TxISH4kC3iDXaW3nGC0/hb6Mun5lp3tvWiHowszaw/37hAXzdrIBNi7/CPisgtTvbh8EgedJ1Qc2hOuHopJNKgvzjFcBOYpqDUC+5L8c9SHlAePfnVhAZh6P2ldyhoDPuXvewNH4qgJBeJL/8A1xqgN58ZWeIRlubcEr0dKUJwxa/pDsEIpC8qAjxtTJo3n3OtJWIWOnUcUKFSfYf9vnmR6htH7YV3qY/SCpqDmtu03SjwWmU40l6k3vKnFm/SZ6cKjcZiCJW/RoEatx/v5JNT5ojLgTBRC8MrYAF8+vNelW9gQfWkZtDUYgBXcAks0ET/hCqP0ECFB/N+BEXAJ2xMnm8F79wBv3UOHMcFHK+fk=;U6PZ9wbUOuFP2+odZS9Jzw=="
 ---
 

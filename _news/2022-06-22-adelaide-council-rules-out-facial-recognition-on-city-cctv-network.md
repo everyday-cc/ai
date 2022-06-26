@@ -41,20 +41,6 @@ related:
         width: 587
         height: 330
         isCached: true
-  - title: "Adelaide considers CCTV system with facial recognition as calls for regulation intensify"
-    excerpt: "New deployments of facial recognition technology continue to raise questions in Australia, as experts call for changes to privacy law."
-    publishedDateTime: 2022-06-21T17:32:00Z
-    webUrl: "https://www.biometricupdate.com/202206/adelaide-considers-cctv-system-with-facial-recognition-as-calls-for-regulation-intensify"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
-        isCached: true
 
 secured: "t8qaF3mYI17ed7e6UpxtSFs6o5YLM8Ff856c1x2U4+y6BbokbHBoi0hYT/bnmMN0NTZTH+AzFoF4+31i9FHxRL4Mlg6k+1QZKZUbMJQA5fSh0y55ixCjXUCbuL4nliOtEfPrYVPsdI8xu/M/2XHZUP3pABO+4X1yzdcYVKNjYRCYEr2qxDKGU5D9mMvRNLC9MG/tfRLm9VGv5JvWC9XaqkMyfSXGoH+KisHqqDcVyXvODvnskq/OLFD6Neh94audDL2uMBpHAtwHOFopaqtUc1uJLH281JNwX5MgK9DD9M/iU+wGe0QJmcZf6RCP73Q31uLujve5tip5ViFC16E04iwMAS99VaAXz/XBG1sFu0pmFbI1Cy66OFGQYY51ETkrZ5XSZcoGGW6O0tSVDn4lbUn9M2maFXM4kejhnvOc2la1ru7EwMnRFPwgWvVIxGsOPZTZDB325ydhEK+GpVcl0ZuqwnH/3ddPavf2A0w8X2HxYOi9XxkpVqOy3F+4WEd3dAF9wVCetwjngXpH5ojQ0g==;tzVIW3p/IYo41anwEeQg9A=="
 ---

@@ -71,24 +71,6 @@ related:
         width: 1246
         height: 619
         isCached: true
-  - title: "Identify mangrove forests using satellite image features using Amazon SageMaker Studio and Amazon SageMaker Autopilot – Part 1"
-    excerpt: "The increasing ubiquity of satellite data over the last two decades is helping scientists observe and monitor the health of our constantly changing planet. By tracking specific regions of the Earth’s surface, scientists can observe how regions like forests, water bodies, or glaciers change over time."
-    publishedDateTime: 2022-06-21T18:58:58Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-identify-mangrove-forests-using-satellite-image-features-using-amazon-sagemaker-studio-and-amazon-sagemaker-autopilot/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 41
-  - title: "Identify mangrove forests using satellite image features using Amazon SageMaker Studio and Amazon SageMaker Autopilot – Part 2"
-    excerpt: "Mangrove forests are an import part of a healthy ecosystem, and human activities are one of the major reasons for their gradual disappearance from coastlines around the world. Using a machine learning (ML) model to identify mangrove regions from a satellite image gives researchers an effective way to"
-    publishedDateTime: 2022-06-21T18:59:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-identify-mangrove-forests-using-satellite-image-features-using-amazon-sagemaker-studio-and-amazon-sagemaker-autopilot/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 41
   - title: "Amazon SageMaker Ground Truth now supports synthetic data generation"
     excerpt: "SageMaker Ground Truth can generate hundreds of thousands of automatically labelled synthetic images on your behalf."
     publishedDateTime: 2022-06-24T10:39:00Z

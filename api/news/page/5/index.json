@@ -2,6 +2,178 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-21-see-how-3-industry-leading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it.md",
+      "title": "See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT",
+      "excerpt": "In this episode, you’ll get a behind-the-scenes look at how three companies are using cutting-edge technologies like high-performance computing, Quantum, and AI to solve complex challenges, power innovation, and generate new kinds of business impact.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/",
+      "originalUrl": "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T03:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
+      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
+      "excerpt": "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg",
+          "width": 400,
+          "height": 258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-astrazenecas-rules-for-implementing-responsible-ethical-ai.md",
+      "title": "AstraZeneca’s rules for implementing responsible, ethical AI",
+      "excerpt": "Multinational pharma and biotech giant AstraZeneca has shared some of its rules towards implementing responsible and ethical artificial intelligence (AI) within its business. For the British-Swedish behemoth,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai",
+      "originalUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-06/BFDC6B9D-8597-4470-ADB3-5BD508CE0F99.jpeg",
+          "width": 1840,
+          "height": 1100,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/astrazenecas-rules-implementing-responsible-ethical-ai?amp",
+      "publishedDateTime": "2022-06-21T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market.md",
+      "title": "The role of machine learning and artificial intelligence in transforming residential real estate market",
+      "excerpt": "One of the primary reasons for this change is the revolutionary use of machine learning and artificial intelligence in the real estate market. While their contributions may not be evident, changes are apparent when comparing the present-day residential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/",
+      "originalUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/388134892.jpg",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/",
+      "publishedDateTime": "2022-06-21T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-imagination-launches-img-rtxm-2200-its-first-real-time-embedded-risc-v-cpu.md",
       "title": "Imagination launches IMG RTXM-2200 – its first real-time embedded RISC-V CPU",
       "excerpt": "Together with its market-leading GPU and AI accelerator IP, Imagination’s new CPU cores offer customers access to innovative heterogeneous solutions. This real-time embedded core features up to ...",
@@ -41,6 +213,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-incredible-moment-australian-soldiers-control-ghost-robots-with-their-minds-using-new-technology-designed-to-keep-hands-free-for-weapons.md",
+      "title": "Incredible moment Australian soldiers control 'ghost robots' with their MINDS using new technology designed to keep hands free for weapons",
+      "excerpt": "The technology allows soldiers to control the robots hands-free which is ideal ... visual concentration rather than having to clear your mind and have mindfulness.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/06/21/06/59323199-0-image-a-32_1655788844022.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "publishedDateTime": "2022-06-21T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -120,49 +335,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and hybrid ... by Match Insights with Watson and those of other ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/06/21/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/06/21/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg",
-          "width": 400,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     },
     {
@@ -498,6 +670,101 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-dreametech-d10-plus-robot-vacuum-and-mop-review.md",
+      "title": "Dreametech D10 Plus Robot Vacuum and Mop review",
+      "excerpt": "Once you’ve connected the Dreametech DreameBot D10 Plus to Wi-Fi (bearing in mind that it ... There’s even a remote control function if you want to send the robot vacuum in a different ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/reviews/dreametech-d10-plus-robot-vacuum-and-mop-review",
+      "originalUrl": "https://www.techradar.com/reviews/dreametech-d10-plus-robot-vacuum-and-mop-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yMYWLfEJ6za3EGFG25w448-1200-80.jpg",
+          "width": 1200,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-jan-6-testimony-drives-cognitive-dissonance-for-trump-fans.md",
+      "title": "Jan. 6 testimony drives ‘cognitive dissonance’ for Trump fans",
+      "excerpt": "“It’s cognitive dissonance,” said Jennifer Stromer-Galley, a Syracuse University professor who has studied how Trump used social media and advertising to mobilize his base. “If you believe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/06/sjm-Disinformation_98658590-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
+      "publishedDateTime": "2022-06-20T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -877,263 +1144,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo.md",
-      "title": "Speech Recognition Software Market Is Booming Worldwide with IBM, Dolbey, Voxeo",
-      "excerpt": "The latest study released on the Global Speech Recognition Software Market by AMA Research evaluates market size, trend, and forecast to 2027. The Speech Recognition Software market study covers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Abortion-rights-supporters-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-robotics-ai-innovation-is-the-way-forward.md",
-      "title": "Robotics & AI – Innovation is the way forward",
-      "excerpt": "The latest edition of ET UNWIRED in association with NTT DATA included Thomas Normark, Global Head of AI & Robotics, NTT DATA Business Solutions, Denmark, Vikas Desai, Chief Technology Off - Mediawire",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/msid-92332662,width-640,height-480,resizemode-7/unwired-ntt-28th-april-800-x-600.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
-      "publishedDateTime": "2022-06-20T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-ais-hold-over-humans-is-getting-stronger.md",
-      "title": "AI’s hold over humans is getting stronger",
-      "excerpt": "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
-      "originalUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/06/Google_AP_1.jpeg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
-      "publishedDateTime": "2022-06-19T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-artificial-intelligence-may-diagnose-dementia-as-accurately-as-clinicians.md",
-      "title": "Artificial intelligence may diagnose dementia as accurately as clinicians",
-      "excerpt": "June 20 (UPI) --To solve the conundrum of how to get timely medical care to people with memory loss or other impaired cognitive functioning, a new study suggests that artificial intelligence may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-dall-e-mini-everything-to-know-about-the-strange-ai-art-creator.md",
-      "title": "Dall-E Mini: Everything to Know About the Strange AI Art Creator",
-      "excerpt": "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturb",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
-      "originalUrl": "https://www.cnet.com/culture/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
-      "publishedDateTime": "2022-06-19T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency.md",
-      "title": "BrainChip Partners with Prophesee Optimizing Computer Vision AI Performance and Efficiency",
-      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / June 19, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of neuromorphic AI IP, and Prophesee, the inventor of the world's most advanced neuromorphic vision systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272591460/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272591460/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1655956906143.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

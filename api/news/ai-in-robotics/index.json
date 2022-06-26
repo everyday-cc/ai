@@ -148,7 +148,7 @@
       "originalUrl": "https://www.therobotreport.com/robust-ai-announces-new-grace-software-suite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -626,6 +626,101 @@
         "AI",
         "AI in Healthcare",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-incredible-moment-australian-soldiers-control-ghost-robots-with-their-minds-using-new-technology-designed-to-keep-hands-free-for-weapons.md",
+      "title": "Incredible moment Australian soldiers control 'ghost robots' with their MINDS using new technology designed to keep hands free for weapons",
+      "excerpt": "The technology allows soldiers to control the robots hands-free which is ideal ... visual concentration rather than having to clear your mind and have mindfulness.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/06/21/06/59323199-0-image-a-32_1655788844022.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "publishedDateTime": "2022-06-21T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-dreametech-d10-plus-robot-vacuum-and-mop-review.md",
+      "title": "Dreametech D10 Plus Robot Vacuum and Mop review",
+      "excerpt": "Once you’ve connected the Dreametech DreameBot D10 Plus to Wi-Fi (bearing in mind that it ... There’s even a remote control function if you want to send the robot vacuum in a different ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/reviews/dreametech-d10-plus-robot-vacuum-and-mop-review",
+      "originalUrl": "https://www.techradar.com/reviews/dreametech-d10-plus-robot-vacuum-and-mop-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yMYWLfEJ6za3EGFG25w448-1200-80.jpg",
+          "width": 1200,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1263,74 +1358,6 @@
       "provider": {
         "name": "poandpo.com",
         "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a large drop in short interest in the month of May. As of May 31st, there was short interest totalling 603,200 shares, a drop of 27.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html",
-      "originalUrl": "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-industrial-robotics-are-expanding-across-multiple-sectors.md",
-      "title": "Industrial Robotics Are Expanding Across Multiple Sectors",
-      "excerpt": "Robotics has progressed from a world of building blocks and moved to real-world computing. Robots are getting progressively integrated into several types of production lines, which is driving industrial robotics market growth. According to Grand View ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/industrial-robotics-are-expanding-across-multiple-sectors",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/industrial-robotics-are-expanding-across-multiple-sectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null
