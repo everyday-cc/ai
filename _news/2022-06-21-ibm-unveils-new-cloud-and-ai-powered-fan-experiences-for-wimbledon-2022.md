@@ -25,44 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "IKEA rolls out an AI-powered interactive design experience for shoppers"
-    excerpt: "IKEA is launching a new AI-driven interactive design experience called IKEA Kreativ for IKEA.com and the IKEA app. With the new feature, U.S. customers can design and visualize their own living spaces with digitalized furniture on their smartphones instead of traveling to the"
-    publishedDateTime: 2022-06-22T14:45:00Z
-    webUrl: "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/"
-    ampWebUrl: "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/"
+  - title: "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022"
+    excerpt: "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But naturally we can't just be thinking about the past - we need to be ..."
+    publishedDateTime: 2022-06-21T16:32:00Z
+    webUrl: "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: TechRadar
+      domain: techradar.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-13-at-4.35.24-PM.png?w=1024"
-        width: 1024
-        height: 566
+      - url: "https://cdn.mos.cms.futurecdn.net/vExTvrYZ34ak3GJaUNv2zF-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "IKEA launches AI-powered design experience (no Swedish meatballs included)"
-    excerpt: "IKEA launched IKEA Kreativ, a new design experience powered by artificial intelligence (AI), meant to bridge the e-commerce and in-store customer journeys."
-    publishedDateTime: 2022-06-22T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/22/ikea-launches-first-ai-powered-design-experience-no-swedish-meatballs-included/"
+  - title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
+    excerpt: "It hosts and processes data from matches that is fed into AI models built using IBM Watson Studio and IBM Watson Discovery to produce insights for fans, commentators and media. Alexandra ..."
+    publishedDateTime: 2022-06-21T19:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262284&cat=PR News Wire"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
-  - title: "The Power and Pitfalls of AI for US Intelligence"
-    excerpt: "In one example of the IC’s successful use of AI, after exhausting all other avenues—from human spies to signals intelligence—the US was able to find an unidentified WMD research and ..."
-    publishedDateTime: 2022-06-21T20:27:00Z
-    webUrl: "https://www.wired.co.uk/article/ai-machine-learning-us-intelligence-community"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
+      name: Webindia 123
+      domain: webindia123.com
     quality: 39
     images:
-      - url: "https://media.wired.co.uk/photos/62acd555eeda7498d40896f6/16:9/w_1280,c_limit/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg"
+        width: 400
+        height: 258
         isCached: true
 
 secured: "Cdrx+ip3Rq1zBNBAn1YBkrbsrbfvbDWu8y++20Z/BhoyALK2S+C+6juotlIEhqW/cuI580d6RE62dpZyoLjldUYF+MlLAkEORf1CkjWNFhO+GkpfQlSwsy44Ycs17U0riemCnzUhaggnVx9Oz3ti1LkM7wDGKCoQyhHer7Uggs/zDearddf75Ock1l5tlofc9llSQefRFnCO8rQ85xrHUbAyUZMWQoRGCzSAPx08cnr9Q0aPXZcDRsOHOfxaq7trn3wGnfvhsyusZUsss+/lXmAlQCYr3OXF5n6aeLyN6fvRMsOc1LbxAaWhfMRaq9VnK0TZVlHpWk4EGHnGCMTmdiY/yJXAP7po4oMIZqGv9mo=;IwD5V0aftNVdUmJtvk9HBg=="

@@ -50,15 +50,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Preparing National Security Officials for the Challenges of AI"
-    excerpt: "National Security Law for the Coming AI Revolution” (Brookings Institution, 2020). *** Artificial intelligence (AI) is on"
-    publishedDateTime: 2022-06-21T12:01:00Z
-    webUrl: "https://www.lawfareblog.com/preparing-national-security-officials-challenges-ai"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 36
 
 secured: "sB0vfvrJXOty3nkWKkbYRdSpaWpNqLV6ASESYaIOGS0oDbbTR7kNgnv2skDniy6yQ00d+krkNpPb5rjJuSdPk4tBumoukXjInVi02pvdMyqlBqkBKveBlr7gL0mT69lT8SHDr7ue9sF62hc7/fLp3pZvTAZIN/i88kF8KizmE1oQDx1CiSNMHmvChaHtfb2pUnyZ6dkOWmv4638pVBcNwlss19YmZprFp73pUxTfDeGPeL6PtRkeppRa4xoYo9VmWHRjXMieNJOTLSaQ9L+/bAsQ7Cetc3rgxPfP/I1Gbg6l2j9bNUu6kL1NjGVKBZ+0W/9KZ3xjL9U3r9nB3y2WvtIvlrZaY4NAXUASMNgZVuIbQWPnxS8/L4HUKOCUSiRbjWDXfKpRQF6Q29wBNtk5IKh1YROYLcW22CDQy8M2uc0D4/PL/wcB+piZAw4NAVPfnpY+AGKnYfz6ls03Wz3HcPCrpYtIcG88aHatlbg4T5j0vD0m46/hOVtmuPmtxoCHhnNMz/udZJ8zRs/XJ/HNsw==;3zTjlsGHFxtu+W8dDSZyqw=="
 ---

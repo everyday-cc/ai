@@ -89,15 +89,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
-  - title: "Nvidia makes big advances in inverse rendering to transform still photos into 3D objects"
-    excerpt: "Nvidia Corp. today showcased the impressive advances it has made in the area of “inverse rendering,” which is a technique that uses artificial intelligence to reconstruct a series of still photos into a 3D model of an object or scene."
-    publishedDateTime: 2022-06-21T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/06/21/nvidia-makes-big-advances-inverse-rendering-transform-still-photos-3d-objects/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
 
 secured: "d6zbLv69oAgmD9UFdiMKKuGwQuZY6hkb1+IeMl3svSIt0xJFpc7YF/5uP74z1SgcfuTxl/IbB6dJoaCofjGrDdwauXXYKbh+GgCxWaTg5Rgv3wgTfuCvjqZmaoFbWEyDA/xRZ4NHeDe51wWmWu2BnjRbBzSFAr2N2JdNmo4kNFkAuNAQvSTlFt5odG/L7eB+92+kJqofVeWWTImtwxqzbh1IJw413chWiqUZAyRbZM1d1xWr+YhbM+qsjUuJjjUoVc9Ph4ohp2Cub/io0o238avs0/xqMQxyCQippqYWvSzhx+YndBQZqs5VaulEIsFE+72rjVsSI+c3Yf/0B0mscWEu72NRuEr3DfzfznnpTpOYkx9Fdq9fmPXs7hDG7qz+PQ3thBqWQoZ8eKYM6Ue5UwUyQ5jl27DY9kq6QY4x5Vgmc9Wf9s1sG4VMoCO70AYLP/PpqHfiVDvSZDWraFjWIURjYjg439dS1ZAcRQxnBaCAsRDBAIjON7U1d/i4XXhfbMsLnsFBuqmsnGrHlvC2tA==;Jv/l3UH0j4PcXRhZpKSbIA=="
 ---

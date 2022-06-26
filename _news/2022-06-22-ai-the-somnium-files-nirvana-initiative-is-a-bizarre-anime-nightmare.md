@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-
 cdnAmpWebUrl: "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Review: AI: THE SOMNIUM FILES – nirvanA Initiative"
-    excerpt: "Back in 2019 players were introduced to AI: The Somnium Files alongside a colorful cast of characters that ended up creating a memorable murder mystery. It felt like it could have stayed as a one ..."
-    publishedDateTime: 2022-06-21T12:00:00Z
-    webUrl: "https://hardcoregamer.com/reviews/review-ai-the-somnium-files-nirvana-initiative/424080/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 17
 
 secured: "yYX3dkY1eww/QekQHgb3cmZcWsXpZba9hA5uaJXy4W0e6eBrKt0MhWgVR7DKOH1GgGVMxsqHuPqkOxos+ALl0Nk11JQ8TBm7vtGSTdPPxNE6DY8Urpk0z78JDkgQrEaKlnkd4kBjox0tAJekRfyjnuHjgrUoPU4033PLWIDhBLFD1pKnnNk2BYd3XC143KGTYII1Ed9HgeKvsOeKux/+Bre9kbJMkZmCNPIAfcQx8pK/oRqKbsBw68tquZsoBBm5SXeHcqMNKmdWkv4Cq6nzTgbVCplQtq+BIYplVHOsppOtxZObQUQFMe51A+4ked6+N7w+FWYPprdcT0yuWvk1FvQSYztTZ+qcORWO1WOSV6wY/OO9c2vDHNB1ATda6s1/6UcPAvtlzQ8g4eL+Y2PJxMo/DoGfN8uTWLDIZtQ0TGcoLUcNZCgJY8/aUmXVRs/P3RSBeUcLFAEA9i22oqyqPMgBteYYx1rNMG8+qtv+mreiGPs8yqzbULzGLvXwUhR3P64w4jiQJeZdh8GcetfQbQ==;FasH8nBMROl9p8nJy+Urdg=="
 ---

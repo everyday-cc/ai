@@ -41,20 +41,6 @@ related:
         width: 1125
         height: 633
         isCached: true
-  - title: "ENGS Leverages AI and Visual Analytics to Improve Digital Sales Process"
-    excerpt: "ENGS Commercial Finance completed an integration with Salesforce’s Tableau platform to further enhance its proprietary artificial intelligence engine and customer key performance indicator analytics platform."
-    publishedDateTime: 2022-06-21T11:37:00Z
-    webUrl: "https://www.monitordaily.com/news-posts/engs-leverages-ai-and-visual-analytics-to-improve-digital-sales-process/"
-    type: article
-    provider:
-      name: Monitordaily
-      domain: monitordaily.com
-    quality: 54
-    images:
-      - url: "https://www.monitordaily.com/wp-content/uploads/2015/12/166470155.png"
-        width: 500
-        height: 500
-        isCached: true
 
 secured: "RN0GAeqrZGnkqQ+ttBgYnsTVgg1f4EGvN97oGLNS82k+tJSGxY62FNBPZTGy5METmRvMLjew159nkKCbbp8Lu6xxf4gA3NMqm/g/EdgHe40jKoP6yx89d72HaXP1lbB2t8gLtXf2d4i3lKPD80JWWlODgMLqgEOe6UwuHOmt6wtKFVJYALGES5BcGRihzExivWzDdrjMLLzUaVk2v0rUzjsL4KRp0/DRZCMY+VwlHkmUGeln5upZCSYC9WAmOjEfUbbJmUxVCv/9dhWnltNu8ygNSP6FUOib5jZHnPIPCQrHmwp+gVoqQNkNHa6VzwrB4/fBtD7p0SHuwnB4DeY9YzIyWzhgn6JC4cTnvhOf6eymKSK6mMiLqG2kSH2r4E9sVa/yc/rN7bnBIrpSGQLZjH8KgLavruKkPovMn3WPehol18Re/Sv3+tRLAqs5Oyq2Y5SiYIzDNIequc545bCb9HkdWnrFYNjKDH2yo2QNzXvr6cYyhIyFghA6l+0rtQdRU8T0ZjMTDaobOGI4wcFSAw==;IM076ZNZfUhAxjaIpJC6xA=="
 ---

@@ -74,17 +74,6 @@ related:
         width: 640
         height: 250
         isCached: true
-  - title: "Cornell University: Technology helps self-driving cars learn from own memories"
-    excerpt: "An autonomous vehicle is able to navigate city streets and other less-busy environments by recognizing pedestrians, other vehicles and potential obstacles through artificial intelligence. This is achieved with the help of artificial neural networks,"
-    publishedDateTime: 2022-06-21T11:27:00Z
-    webUrl: "https://indiaeducationdiary.in/cornell-university-technology-helps-self-driving-cars-learn-from-own-memories/"
-    ampWebUrl: "https://indiaeducationdiary.in/cornell-university-technology-helps-self-driving-cars-learn-from-own-memories/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/cornell-university-technology-helps-self-driving-cars-learn-from-own-memories/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 20
   - title: "New Method Helps Self-Driving Cars Create ‘Memories’"
     excerpt: "A team of researchers at Cornell University has developed a new method enabling autonomous vehicles to create “memories” of previous experiences, which can then be used in future navigation. This will be especially useful when these self-driving cars can’t rely on sensors in bad weather environments."
     publishedDateTime: 2022-06-23T13:32:00Z

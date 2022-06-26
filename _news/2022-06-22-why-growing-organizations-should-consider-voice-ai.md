@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pactum using AI to revolutionize shipping contract negotiations"
+    excerpt: "Using artificial intelligence and chatbots to handle contract negotiations for shippers and suppliers may seem like science fiction, but Pactum believes it has created the technology that could arrange better deals for everyone."
+    publishedDateTime: 2022-06-22T21:03:00Z
+    webUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations"
+    ampWebUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/06/Pactum_Maersk-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dubai Police in collaboration with Continental organises a dialogue session on Artificial Intelligence Driving Hub"
     excerpt: "AI Driving Hub and Continental have announced an initiative to use the technology in driver training. By using artificial intelligence and 3-D modules, the platform can simulate and then analyse incidents linked to tyre failure to keep road users safe and ..."
     publishedDateTime: 2022-06-22T09:50:00Z

@@ -26,63 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Using Artificial Intelligence To Improve Business Decisions"
-    excerpt: "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention."
-    publishedDateTime: 2022-06-21T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
+  - title: "Why Growing Organizations Should Consider Voice AI"
+    excerpt: "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity."
+    publishedDateTime: 2022-06-22T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 93
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200"
-        width: 753
-        height: 502
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62ab34a06f0d8f09215433de/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Using AI to save the lives of mothers and babies"
-    excerpt: "As part of our SLAS Europe 2022 coverage, we speak to Professor Patricia Maguire from the University College Dublin about their AI_PREMie technology."
-    publishedDateTime: 2022-06-24T10:13:00Z
-    webUrl: "https://www.news-medical.net/news/20220624/Using-AI-to-save-the-lives-of-mothers-and-babies.aspx"
+  - title: "Dubai Police in collaboration with Continental organises a dialogue session on Artificial Intelligence Driving Hub"
+    excerpt: "AI Driving Hub and Continental have announced an initiative to use the technology in driver training. By using artificial intelligence and 3-D modules, the platform can simulate and then analyse incidents linked to tyre failure to keep road users safe and ..."
+    publishedDateTime: 2022-06-22T09:50:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub-me9mhbdb"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_717399_16558959837485847.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
-    excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"
-    publishedDateTime: 2022-06-23T06:30:00Z
-    webUrl: "https://www.forkliftaction.com/news/ai-solutions-are-going-to-save-your-logistics-business-by-saving-your-coworkers.aspx?n=26075"
-    type: article
-    provider:
-      name: forklift
-      domain: forkliftaction.com
-    quality: 33
-    images:
-      - url: "https://www.forkliftaction.com/upload/gallery/26168.jpg?v0026-3&s=2"
-        width: 640
-        height: 334
-        isCached: true
-  - title: "Visionary.ai and Innoviz Partner to Improve the Power and Accuracy of Machine Vision"
-    excerpt: "Combining Visionary.ai's Camera Imaging Software and Innoviz's LiDAR and Perception Software Enhances Performance in Low-Light Conditions Visionary.ai's True Night Vision technology leverages Artificial Intelligence (AI) to dramatically enhance image ..."
-    publishedDateTime: 2022-06-22T11:55:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionary-ai-and-innoviz-partner-to-improve-the-power-and-accuracy-of-machine-vision/article_7d90bf35-d2ba-5231-8d60-4bd9973ff94a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Zawya
+      domain: zawya.com
     quality: 30
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://static.zawya.com/version/c:NTJlZDRlZTgtNTZmNS00:OGZjMjZl/image1-avlivinghubinuse-jpg.JPG?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "OXMvKxb/gvT8u0ih0uKdbn3aCM0JVEA5Hmq8A++BnrrHH/57MdZhsLn2x1pmihTGPg2/lfTIUXhFKUmC8TRwEiP01wYPPhhmLKYnmmU4qyncQ1htBUn4d971ntRGGnbb0mwllvlYE1rLVA3QxmJ6otI6S2HLrbfvpepjkG/Y+8vEKNIpFf9esu5/CqxotS1j+asOgA56vdkjzSAai6/yqg1leBo8fQqqTuXpPrEvcbKU8ZlYaCmaozQE3fNHl+GL6Vj+8Ahv2g+QRE0KyTKvhbzwY1DEKx1aFoPdzry7rhz1XmGbqAjWxd5f/mBedZ/1FqcA80GbOzHUe6ONrtzCXMoA1qtZLeoKPT4G4y/7Yv8AF3RjfkdKMeFfcqGVnByZDCy36e8Dvj4JCWQXrQ5b/PHMkFOz6QU4XW/WYXxWlCwCD7fDDVrMI+BljTs5+nvNh9lbjkh7hBfeYfzZJfCSa0TTSQZosZRAdPQAtUflwUgxArWFImmXA2SQBe+LEGCfXltrfFt572Ha+76qVb+mGQ==;zCBVqLR+8B3OB70pX9CD4g=="

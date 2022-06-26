@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visiona
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionary-ai-and-innoviz-partner-to-improve-the-power-and-accuracy-of-machine-vision/article_7d90bf35-d2ba-5231-8d60-4bd9973ff94a.html"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,68 +22,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Using Artificial Intelligence To Improve Business Decisions"
-    excerpt: "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention."
-    publishedDateTime: 2022-06-21T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200"
-        width: 753
-        height: 502
-        isCached: true
-  - title: "Pactum using AI to revolutionize shipping contract negotiations"
-    excerpt: "Using artificial intelligence and chatbots to handle contract negotiations for shippers and suppliers may seem like science fiction, but Pactum believes it has created the technology that could arrange better deals for everyone."
-    publishedDateTime: 2022-06-22T21:03:00Z
-    webUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations"
-    ampWebUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 57
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/06/Pactum_Maersk-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Using AI to save the lives of mothers and babies"
-    excerpt: "As part of our SLAS Europe 2022 coverage, we speak to Professor Patricia Maguire from the University College Dublin about their AI_PREMie technology."
-    publishedDateTime: 2022-06-24T10:13:00Z
-    webUrl: "https://www.news-medical.net/news/20220624/Using-AI-to-save-the-lives-of-mothers-and-babies.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_717399_16558959837485847.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "AI Solutions Are Going to Save Your Logistics Business By Saving Your Coworkers"
-    excerpt: "Employee stress management is one of the greatest contributors to workplace productivity, safety and job satisfaction. AI-powered Driver Safety System (DSS) technology for forklifts can help. This is a business announcement published in Forkliftaction News,"
-    publishedDateTime: 2022-06-23T06:30:00Z
-    webUrl: "https://www.forkliftaction.com/news/ai-solutions-are-going-to-save-your-logistics-business-by-saving-your-coworkers.aspx?n=26075"
-    type: article
-    provider:
-      name: forklift
-      domain: forkliftaction.com
-    quality: 33
-    images:
-      - url: "https://www.forkliftaction.com/upload/gallery/26168.jpg?v0026-3&s=2"
-        width: 640
-        height: 334
-        isCached: true
 
 secured: "2Wb8qoW+29fLUqYbKTL93Rweg/lZBnwXfT272D4MSDqYJF7VAHU8s7Zta9061TX+rd85to925sJCCg68Gf6IciX12itQ2Pkj+VOMSY6bPCu0Z0sE7wjMvsRcJMHxV30x5WTVsQozeaNyo74eWm2MwrPU1Vw0FsdGZ1nDGOrrFTR9o58PGaaTVUa71h/7eypcXNCvRm6Vs8JtsnsW0Y3Grn2RQ8SZPG49wawhW/cozM/vjoP7i0axwC5looZnJ6zuHO/5DMIpyaQeg3Jrk93s/FappZoGlLs3fT3ai7Cajwpw2sGDFQPEFFeHpKTGoRlnMZh/NzIB4K6M/4FlPCmDo2dVQ2gG7iTOF91WPrFiUNM=;hH6rT6LIrLpllpRGPFTEAQ=="
 ---

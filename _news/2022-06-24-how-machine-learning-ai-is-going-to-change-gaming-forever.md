@@ -26,35 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI is making the frontline a more compelling place to work"
-    excerpt: "One thing that may not happen any time soon, however, is seeing these workers replaced by automation or AI. Rather, their roles will be enhanced. For example, while completely autonomous trucks are years away, intelligent vehicles will manage employees ..."
-    publishedDateTime: 2022-06-21T11:25:00Z
-    webUrl: "https://www.zdnet.com/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/"
+  - title: "Google’s AI Is Something Even Stranger Than Conscious"
+    excerpt: "LaMDA is no more conscious than a pocket calculator. More importantly, the silly fantasy of machine sentience has once again been allowed to dominate the artificial-intelligence conversation when much stranger and richer,"
+    publishedDateTime: 2022-06-21T17:02:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/de48e111d14297c732f9c8cb6561b1888dcb65d6/2022/06/21/725ca575-b9fe-4134-91e4-ac43152691fb/city-street-outside-javits-photo-by-joe-mckendrick2.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://cdn.theatlantic.com/thumbor/1RcywjNbiaw9JpLVBsnfMv2osqs=/0x51:2396x1299/1200x625/media/img/mt/2022/06/GettyImages_515342070/original.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "InRule Technology delivers workflow automation to democratize AI and machine learning"
-    excerpt: "InRule Technology, an intelligence automation company, is adding AutoML within xAI Workbench, the company’s suite of machine learning modeling engines. “For organizations seeking to empower non-data science staff to build machine learning models ..."
-    publishedDateTime: 2022-06-21T17:46:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 47
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
+        height: 625
         isCached: true
 
 secured: "wWpWZSsLnpQ3ldi1EWiweCIkF4ULQe6sJ68xLzi1HMCddhDOhscp2Suw/TOKKOe+joW32QDJN3IuYBfH/HZDhPGSwTdxKorKHZ67ZxzsI405ycn8/pWCbTMiYWpdnOGFKtrdi7c2B2eJt0p7vrGR8SI9Jaz3Sbv0vEk5doOQqAuKhkRegtK29HZh18OyEnPzJgO/OWsb1S30iDNbS7lcmN+7Tm4krP9+zb/WvZhbxYx9LVzuq8XY5DCkukqxyH34cAkJibGMiv/Ag8tOZGB3euqZ/zQ7X/YEO0GpEK3LaZyyVAAtCasczZ549o+slLbwQi6P0VA4yXAqKG7Z/cCszp4Uo1Vboa++2z+SyfTmKIkmStn3BXgnSlFs2oJP2wOJ71unOWKzGaQXaQ5cyxiuSQxV79f4qQxTS/84ypFL0HLUHshjW8g5wu/LH9bzO0m7vMBWh4uEOGYBz7jJWyexdqBBlIJjl3b6XOSghCFNnI6f8CbDIci+S1PN6+mp4wcL3NJNF9/2PGoCOW6YoBBunw==;GSS0+s4KK8AH7Z4SpqzwDw=="

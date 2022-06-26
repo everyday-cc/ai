@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://i.insider.com/62b4cfd29f5e550019aa6867?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI can never be human"
+    excerpt: "Therefore, it's not surprising that Google put one of its engineers on administrative leave after he claimed that LaMDA, an AI-driven Google chatbot, was sentient and that it has developed something akin to human consciousness. Automatically, the story ..."
+    publishedDateTime: 2022-06-26T04:32:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/opinion/2022/06/352_331642.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=331642"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=331642"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Jason_Lim_w200_30874417b72fc.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 914
         isCached: true
 
 secured: "rJz99WnZ94O11AERrP+tOnekQwJyXfBvVUf1InAgqq1nABoHknTa/qUt/q02cRoqGzkpmXcT12PbSXW9ctbRYtqm5KZCC15QjsLYg1O1tYARKPoxa/QlfTOgUVtt/Z3P/SVW16eOFM+uQENIDlQU31UDKBkgZMMy/jJnNtOpg/jbrlmDH6cRqDwJdGM6tvAwDLcIeNakcb+mn2rLOtqXU6d4ElF5c18j8A7Z0QRQI7E69lTqbyuO9dzvJ5a2UkjhHIg1QRMcCJ8DME172Y5mBs0nDZUL/KvZ5ogtWLZkssyggsX5MnzsSTeo4UM/XX/k6DiHauNOjLgpgzd+vOwMm9tdpHmJxz2WEmK331g8RFEeIXBj72auAh6cc6Zb2Ga4FKZ8p39qPI+TmbvfZcxkXhjl7jSVLi/LjIhTuEqKSttb1sRtS7fgdq7fJVzdBcBd03HArsmrHaR7qV19//3dsQqiyuUesmRBjlooqvPmV+W7p1QjkeuvIITByUySzT7u1Q5ttmOiu4CkWuPlmO5oCQ==;JNTlmF8qt69C55zltoWWrQ=="

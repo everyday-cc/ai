@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-uni
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/?amp=1"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Why don’t we have driverless trains on the tube yet?"
-    excerpt: "Driverless trains on the London Underground are in the news again. With union strikes threatening to make traveling within the Smoke a nightmare this week, it was only a matter of time before the question of axing drivers in favour of automation would pop up again."
-    publishedDateTime: 2022-06-21T12:08:00Z
-    webUrl: "https://www.railway-technology.com/news/london-underground-driverless-trains/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 34
 
 secured: "F3rz2f6DlynwLkn8xYzncKmd4h3ogdvLgQrRqWXl0NThby+Dj4Id42n1hhwXJ0hLbseTyAJjVqWGlZ5SlM+iggVe9hLe9BHrOjCv1hMoQg9uOa7maDiAOEr8MM+KUQjxXL1p9GV9fLWdyS8PsmYN2Y7FZ/UEbEebaFVg3ZbyQoYOPw2Ho7ETyS1QI6CRCC6ZlDmFgMoIXfzM48Hfc4DkOVFDmaviFIKckBP6Onf2FfigaviGNW0eqWWPlFknXlXGeFRJfsP6EMV/tTlrMYYHtO0Jjk6/dKOhFYkfDDuG+aRKhy1e3Un7QS5k2whEkOE73ZRmmWbhgGRM1fSml/NcpmT034nqqOEc5K0WoQNHJDc=;HEos67M8mBKWmIChFn99/w=="
 ---

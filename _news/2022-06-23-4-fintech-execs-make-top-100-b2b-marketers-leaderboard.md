@@ -82,15 +82,6 @@ related:
         width: 283
         height: 242
         isCached: true
-  - title: "Leading Payments, Fraud & Compliance Platform Sardine Adds One of Fintech's Most Influential People to its Growing Team"
-    excerpt: "Simon Taylor, voted one of the most influential people in Banking, Insurance, and Fintech, named Head of Content & Strategy as the company scales"
-    publishedDateTime: 2022-06-21T12:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-payments-fraud-compliance-platform-sardine-adds-one-of-fintech-s-most-influential-people-to-its-growing-team-1031539797"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
   - title: "5 Fintech companies looking to hire in Europe right now"
     excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
     publishedDateTime: 2022-06-24T12:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/globa
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-artificial-intelligence-chipsets-market-to-reach-50-7-billion/article_3df74255-2621-5fcc-adeb-387964bb7c48.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "New Analysis from Global Industry Analysts Reveals Steady Growth for Computer Vision, with the Market to Reach $18 Billion Worldwide by 2026"
+    excerpt: "Companies: 43 - Players covered include algolux; AMETEK, Inc.; BASLER AG; Baumer Optronic GmbH; Cadence Design Systems, Inc.; CEVA, Inc.; Clarifai, Inc.; Cognex ..."
+    publishedDateTime: 2022-06-23T10:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27823673/new-analysis-from-global-industry-analysts-reveals-steady-growth-for-computer-vision-with-the-mark"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27823673"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27823673"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1843853/Global_Industry_Analysts_Computer_Vision.jpg"
+        width: 400
+        height: 249
+        isCached: true
 
 secured: "4evL4dqIyhC+Kab/V9VOjAQhEePDAUGWN5XjVtfoAi/aoNQ20AbnvWMRXQEs0TGwV7Q4R3uMPVD0H/mDZvjJaoQyjsevijXMjR3ldUxqAg4iCKh6BsNN+DPkYP8xYnpojlwAMfUR2ZDhyJFzDdVQGtdWazTvL/tn0u/y7OZ/uqLboQ7Wq8Nb3lWDzG42sVfP8yIM/sk7qPJ3UJxZ9s93P4f9mM14tdJT7JPwZxs3/3Z6xtBy2OvL2qWWishmIt/tVPxtX6eBTVq1GtLIhMgAhOMJisopd0bruUZwj8XpSQGP25dhbhYSYH1dMds9hEz37JDBdAmedKzs8U9d0vjgiwCtOANHYdlpbP7gHFSMBKbIxxyWexrajFWlNZDsdXr/M//xY0TOc14ScnI2HJHLDnIMYbrGKQTjlM3F8GNK8g3+mA/EFfW2LnrxhlkMyGyxTw32yFdVZpV3Bqa3NhJxK2Cta7h2rNHeQZDGJnDxiY1bY8dmc4aMvUv6Y2FJEcIpHdiJt36aDS4H7wEvI0UNMA==;dBmtNFxrKG9z8lmuaAt2yw=="
 ---

@@ -74,15 +74,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Review: AI: THE SOMNIUM FILES – nirvanA Initiative"
-    excerpt: "Back in 2019 players were introduced to AI: The Somnium Files alongside a colorful cast of characters that ended up creating a memorable murder mystery. It felt like it could have stayed as a one ..."
-    publishedDateTime: 2022-06-21T12:00:00Z
-    webUrl: "https://hardcoregamer.com/reviews/review-ai-the-somnium-files-nirvana-initiative/424080/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 17
 
 secured: "ufXJ/5OHkI+KAPSY3u9GUdlP0ma3ISYk7f6XMzsrEHfipaNifyJEtfQCHRqvUGE2nkDTXZytNm5wz12Tco9xXqt0aNemlnwxINSfOMkryMVeRqlgRIFGz+0pxaDUtNGRodxXfat36S0HHLFs6a2QBkgANCTepyiOQy6aTuzm/Zf80CeYWonNFSELyCHkEgYO+nY7i4PZl4VBhgbMaYOE7mGPPP2I8nGk7S/220WEeE7z0OgcBypHlfIxhpilKappALqBV1Lg1unSVJ+Qi5sEyA8GHeSkS3G/F23Ylz3QW1nqzCIP6Dzwiic7fl84ZRlYNPkZBnnDFh+mTcPjDs+Px6PECstyawENXz4soI/jOTJG81If1Io5UUfOgk4+GreSZGz26MHVZoolP5np1wYhlyTp+EJm/7lJV0kAvorIxEY1A8HoTJkUzBh+N7t6m2LiNZU1fWPAKQ2xqHPdPp0jd1u/n+zFUj09zD6EI9Pj0uW8lpNX317/YAGqvFnW/RODjzo7RmolWK247WbaXvDqxg==;qvbVaKic4RfY8EjtDj4kRg=="
 ---

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pactum using AI to revolutionize shipping contract negotiations"
+    excerpt: "Using artificial intelligence and chatbots to handle contract negotiations for shippers and suppliers may seem like science fiction, but Pactum believes it has created the technology that could arrange better deals for everyone."
+    publishedDateTime: 2022-06-22T21:03:00Z
+    webUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations"
+    ampWebUrl: "https://www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/pactum-using-ai-to-revolutionize-shipping-contract-negotiations/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/06/Pactum_Maersk-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OERalYswR1OFqYLQQ1zuQsh1hdH10P+TTA1La+vlltXA0X3gM6a8sCVZ8byd45MVbpW+YTlXHXJfxgMO15S/HdQZdz4wMqXoq18YXeDGbX6Uyoaa/uWW8d66ULx/TgG/MRVf5hxtfLDTL0Em9tQzIxZF4L0Lzf6Fk1mGYuj568hqdni/nidDnFTos2LAt0htPwj9584p3BDpUDeybnnlUKgqoP2M0vCqOUu4AQxr/qmeU2J/76MabEGJ4GkiitMgUf1wYY70sttYzRmLjjzN/8x+YFg7UFnZ65t7r8jePV86/zGSNwf46Q6xBi1PS1kQMbFMAmYNuMSa2rep6rGNSTnn1JRopa73WQIzz9iL3eg=;1iJ7iEYBCrps2IWMFTHoMA=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 831
         height: 450
         isCached: true
-  - title: "Preparing National Security Officials for the Challenges of AI"
-    excerpt: "National Security Law for the Coming AI Revolution” (Brookings Institution, 2020). *** Artificial intelligence (AI) is on"
-    publishedDateTime: 2022-06-21T12:01:00Z
-    webUrl: "https://www.lawfareblog.com/preparing-national-security-officials-challenges-ai"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 36
   - title: "Yann LeCun has a bold new vision for the future of AI"
     excerpt: "One of the godfathers of deep learning pulls together old ideas to sketch out a fresh path for AI, but raises as many questions as he answers."
     publishedDateTime: 2022-06-24T11:54:00Z

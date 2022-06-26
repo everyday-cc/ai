@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/24/for-shell-ai-and-data-is-as-criti
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/for-shell-ai-and-data-is-as-critical-as-oil/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Big Data and AI Are Changing the Financial Industry"
+    excerpt: "T he financial industry has never been short of data, but until recently, the bulk of it has been too complex to do anything meaningful with. A little something called AI is gradu"
+    publishedDateTime: 2022-06-23T13:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-big-data-and-ai-are-changing-the-financial-industry"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "Data and AI are as important to Shell as oil"
     excerpt: "There are several motivations for Shell to revolutionise their company via the use of AI and data. The oil and gas business is at a crossroads because to rising energy needs, disconnected environments,"
     publishedDateTime: 2022-06-25T17:23:00Z

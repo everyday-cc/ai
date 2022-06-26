@@ -54,15 +54,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Why don’t we have driverless trains on the tube yet?"
-    excerpt: "Driverless trains on the London Underground are in the news again. With union strikes threatening to make traveling within the Smoke a nightmare this week, it was only a matter of time before the question of axing drivers in favour of automation would pop up again."
-    publishedDateTime: 2022-06-21T12:08:00Z
-    webUrl: "https://www.railway-technology.com/news/london-underground-driverless-trains/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 34
 
 secured: "sgQLZNfuXjaElfvRPVXGLVyYtIurYX7DIa3Q5Miu5OalkF2UcChUsg+eth3VrtT7UhaIUuQhTxrBSgaZITP1CbS4bwOwBNE3Bul6CH5ELrSls4R7YfVFe18P6c++FLL6lUB6WdjTQWlQ/uCWAxVpJJTbY5bGuR2/7gn8JxmUBRw4305kFqvs6b58Eec5IkQJw8LGcrHpp+eXc0yXfsxQBhsrlQeBsHQvktb85RjsEzJsI1BiqQ365NQTnWhsuq+GzYF2qrdSu3vDvyxNnrArtXnTz/BlLTo/CDRdPXRA5DvKCyHDEL8FUJFW9vNyM6r3e5l+S8S+s624OzwvlEAU9sJEwy/pu+bHXfhhYNTqDW8=;d2NY3M0i0+ZW0bdWfvvuSg=="
 ---

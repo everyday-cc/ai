@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 937
     isCached: true
-
-related:
-  - title: "More Than 80% of Healthcare Executives Expect the Metaverse Will Have a Positive Impact on Their Organizations, According to a New Accenture Report"
-    excerpt: "Accenture’s (NYSE: ACN) Digital Health Technology Vision 2022 report found that 81% of healthcare executives expect the metaverse ... blockchain, digital twins, artificial intelligence and computer vision. Rich Birhanzel, global industry health lead ..."
-    publishedDateTime: 2022-06-21T12:00:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-dffdbc654db94775b8936ef306c1f8d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "rEr8erL8c7dPa7RbBIFBSa7xtrIH7dQNpk/VeV3Jubchmm3jVqTDl3UOJxr7pxU4FksCWtir6l66rbZgAXgkTCYE+VyDdsZzyFVkl9tWiUPNvxHsnaCgX+SCENv33PUodPYQuzz7S/JE/IuEhv0ET9V7u7IPwlNorFZ1SmFxlyjHpq3YKU5kEw82Fh2QjeijkdpJw+T7TSSq9IG5sHlqFCLtdQYElyoReZpA3Z1ID4x48wvpkRseVo1tbBOQfEkzbLEoYwhvGaUXPdN3gqI4T/3eJ1WVRH3FBZZk6HAPmFnkPuamHi8DZL4hHZMGkN7dMRD230aeBe3zJV9xpsGx8WhO/q9IyHCAE74lm89jNcL5LknHX2q2pkgu9DvP5gzhTWTkJQLFEkCjl8k+IpLILk51hS8/BvDkskHoDg1cUZibr4NnJ449yvqhahutHYuLEsUpksIuN2ggetQAKVz/6vZd0Aqe3Roh3f85lkQgcnPpquINCpCKZDJMYpm96iI4aWjX+hJ3kk9qwcxLmfL5yg==;AHPgGZSnyObScdu6wEV1nw=="
 ---
