@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 41
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "RblC2lg1bot3v5f7k7zDZNMmvjYxHboyjamhLYJP1KVV+5aWPpY87WIERwuNFbrAenAWbeVcoGBfCxkxQC2AjEYKuawDSRIEKYstxaio3MmJoKR9z1aC0ZE1ATiKi+CB6xc7uqgjYFLQWaEdO6ut3/5VqXZUOpPihF5xWzuRfEsK9GFO4fk4dAl1yvlie0IyLFASbpyjFgdQRDr6U3xcXxML2yG/GmKLQwVlrTtbi4Y6iZ5rwJQy12lX2WR6pYxOBsz3eSigOzAVAmyLSSS2K2oKqsnMf1ir6S4CSCPEzTtNmFmnBisJhOIj7SHTirmoSXJ3So6Inpwb3POK/+bh7dT1O1eTtcSoh8Yp+wlrXsQYpx/oQEm4X4yUnivHsGHtjrGxIVMTnWNVogf8jbalGquCkcmh9fEmIzt9J+xtCyQ=;xopdXGoApjHn2ER0ti5Neg=="
+secured: "6nhWqNlnkQtSzrWTaBV4C/pd6+FRmrRDuCO9NfsUHteVEw+c7Kwqeupj1CZvPLkjIBRlRhhXqByTYARkbwEZlmNmpTj0cHpwZmCjadKepbreLRD+GQFhlSi1DgnwVcjSbeRtuBK2+J6SGLllaX+Mv6hQOyaxenmWXShr/9uvB552fTzHiQA5CVOn6c00My5x97yrt2SJUf/Fo67gksJekB/QjwoUJnUXyUk700lNRSM6MJCMjyJK9YIf6mx0keXKKBNABzbBLBZ/3d0eeNyXo3Cb7nuSPgTUJv0hZqgAAxeRkJTMS4ktpQY7WfF4SPm4Fvr5HJnK+H1nyzA4Dqpw5QvvbS7XFMfz5qOI82ZII4A1F48TpmSmogtg5u+pgCvxH77Rp1RjYNbQHhoPbhbQIJ29+0E02kKTnCfC3DbujVs=;K4FByGDQ5oJCj0pU646Eew=="
 ---
 
