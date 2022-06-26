@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligen
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Are babies the key to the next generation of artificial intelligence?"
-    excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to neuroscientists who have just published new guiding principles for improving AI. The research examines the neuroscience and psychology of infant learning and distills three principles to guide the next generation of AI,"
-    publishedDateTime: 2022-06-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220623110954.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "How Can Babies' Learning Help Teach AI?"
     excerpt: "Researchers from Trinity College have analyzed the neuroscience and psychology of infant learning to identify three key principles that can help direct independent learning by AI."
     publishedDateTime: 2022-06-24T08:53:00Z

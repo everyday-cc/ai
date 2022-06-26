@@ -56,20 +56,20 @@ related:
       domain: gizmodo.com
     quality: 69
   - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-    publishedDateTime: 2022-06-23T17:44:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify"
+    publishedDateTime: 2022-06-23T20:03:00Z
+    webUrl: "https://wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/"
+    ampWebUrl: "https://wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: 7News Miami
+      domain: wsvn.com
     quality: 57
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://wsvn.com/wp-content/uploads/sites/2/2021/09/instagram-5409107_1920.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
@@ -116,6 +116,20 @@ related:
       - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-06/doc-32D33NQ-%40photo0.jpg?h=4bf1c8f5&itok=U32GY5Dv"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Instagram tests using AI and video selfies for age verification"
+    excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
+    publishedDateTime: 2022-06-26T16:40:00Z
+    webUrl: "https://www.khou.com/video/tech/instagram-tests-using-ai-and-video-selfies-for-age-verification/285-20af8952-82e1-49de-af4e-dd3fda504d51"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 37
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
     excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."

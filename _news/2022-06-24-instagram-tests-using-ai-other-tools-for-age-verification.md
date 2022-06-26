@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Instagram tests using AI, other tools for age verification"
-excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
-publishedDateTime: 2022-06-23T17:44:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify"
+publishedDateTime: 2022-06-23T20:03:00Z
+originalUrl: "https://wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/"
+webUrl: "https://wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/"
+ampWebUrl: "https://wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/amp/"
+cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/instagram-tests-using-ai-other-tools-for-age-verification/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: 7News Miami
+  domain: wsvn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://wsvn.com/wp-content/uploads/sites/2/2021/09/instagram-5409107_1920.jpg?quality=60&strip=color&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Instagram tests using AI and video selfies for age verification"
+    excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
+    publishedDateTime: 2022-06-26T16:40:00Z
+    webUrl: "https://www.khou.com/video/tech/instagram-tests-using-ai-and-video-selfies-for-age-verification/285-20af8952-82e1-49de-af4e-dd3fda504d51"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 37
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
     excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."
     publishedDateTime: 2022-06-24T05:27:00Z
@@ -128,6 +142,6 @@ related:
         height: 620
         isCached: true
 
-secured: "ctSe0F6w8Ir6ROlwsqkj05777xnM6Sb4wEWXe377TCri8isB4RRWAfqIVTPsL4sAsRlr//nDb5PRwiSo7mxRHWPbUltP1H69mAIs8wTe04Ghh0Z5yMPupc8t22paZCXKFqetFa9DfNHlHSap8R62ZbNQm155AABtlf7eIOCSRGCjMzT8pPUTeRsbDWip/RXPi59Gvi7GNwuJBJBNlb1BpIjSOtCu63TNcE/C2zCbIHO3qvKyc3/Nfr5/3PRlZCdgWLDg543TMiB62Y1uwZen1tz4bw4SnPdUkiGgMqNeDTUMvrJ40qMFMR+5GH5J7Mj7PA4SWv478bw+4TBfaAabmkfiI47oUUe3u4QoyZr5O1a9q6kwt4jJQsABUPdl2JkStPkK1F87M+XpQX68yYqqz6T7LHmOeglfZ8R0QB+Um4vx6cEZ6tsBYwWuKgx+83CQntA3jNZKygtEGh50M6VcocF1ugOQJoESI7FcXJ8qqvlyZfvtA6RRKvyE1S2ZlvnHqwfZDyCwGpVkCTgiVTfMNQ==;5Wkys6eW2h9R8WB+kUx6lQ=="
+secured: "G4X+CrLx6SLCv/QPLu2vd+7LiHrCMH+ahwy0PabhSq+8nPZBp5Ouok3qBSaXw7DvRE9Iw3aTaI4lkAPp9X27oo6pgDZ9TYYYt3DAxR7EcgUjh2ephQGj4yTtOKqtQFWOh7ZUe7gKUhgpf8ow0GWvlzx11BsUtuh0YC+8TqAPr5qckThWEkYDLkV8OKZmyXmzuqh23DGqviahnhFzSeugxMlwhir5+fDtbVPCU+7QYrL6bw+h1ErVQ/lnBEyzxzVtriOahZoCRT1ruYudAapCEmwwdbDzBNxndS2EpHB9PHfSi9usQBIHs21C4hk33xjoN8+Q280fkcC6mTdjbq+klw853vhomLJ6H++JOkn22Yc=;FGPF8N9katsdBua6vcNbAQ=="
 ---
 

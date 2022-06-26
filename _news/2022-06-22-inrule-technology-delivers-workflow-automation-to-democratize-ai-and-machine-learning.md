@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-21T17:46:00Z
 originalUrl: "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx"
 webUrl: "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
   name: KMWorld Magazine
@@ -24,6 +21,6 @@ images:
     height: 594
     isCached: true
 
-secured: "ecTyysMcRCXZq39BoFSmH9EuZJdeWO9iEOtsf3ULYP3aRcfW3bfWuoGTeq+NmNbe2AGhXA2SFymDYUInOQWfpyQmHS2Yuek1PxD672souGsEZHIfL3vNCqMrZDhrktrN2eeL7nPybbfwg1nVhcActMIoJkmKV61Bkf+aai0oho17B4HCndTkAKPCW9GDQaKJEOM5iiPM8xVsQG6hRGQVxykeBGI0H6eq8/lB9niWjHePMR0EEKrhHb6jJ8WPBiPpOJk8JHIudbJbzLKJdu9dTT5iwUV/4wivtFC6YMnVTDYTX6M7Zoptd/1mSKJhq7bIyOcmwZvCinJOVXbJCD419bzYC+Jaq0Js1lHwNaqIR08=;CZFDG3QcbixafJxVWE4X8A=="
+secured: "taixxQL5t9D3fq65Z/ogzfxcmiyxthAOM12bbcyBqq35EG95a44y4e3vAM0bLzATlJMmPMPmu6/CsGnx064vLzieFczUrKtWAfB4aj/j2ngZdw6W067m4/B2BjeuS3Eb9KDi8nhdfyTza7UJsvfdZZ3T0ob8S0z9cZPDmoTdD4bsWt0fTRvoHm9RXyif45OnZQcHPWEM05bUoLON6q5ZA37wl5hB5C66BBjG/SI+lgdy3JpTotdNkzfQUFweyBk3re3yrqeANhoSOa2GFln/+cN5xwuyw6LkzAepKAbhIlY13h4lvdHaQ1D5+F1Vf3ltVR/0yvXAm3yThT3cvuZFcNTs0MeiuPNbsednbl0HHkA=;YDhhbctZLbDAFQg0C66WVg=="
 ---
 

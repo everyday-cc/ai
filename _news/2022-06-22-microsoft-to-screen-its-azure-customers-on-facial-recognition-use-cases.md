@@ -257,20 +257,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft restricts access to controversial AI facial recognition technology"
-    excerpt: "Microsoft added that its responsible AI standards don’t stop at facial recognition. It will also apply them to Azure AI’s Custom Neural Voice, a speech-to-text service that’s used to power ..."
-    publishedDateTime: 2022-06-22T00:00:00Z
-    webUrl: "https://siliconangle.com/2022/06/21/microsoft-restricts-access-controversial-ai-facial-recognition-technology/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 70
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/facial-recognition-AI.png"
-        width: 781
-        height: 511
-        isCached: true
   - title: "Microsoft restricts facial recognition tech in push for ‘Responsible AI’"
     excerpt: "... to the problems they are designed to solve,” said Microsoft chief responsible AI officer Natasha Crampton in a blog post. “As part of our work to align our Azure Face service to the requirements of the Responsible AI Standard, we are also retiring ..."
     publishedDateTime: 2022-06-22T08:27:00Z

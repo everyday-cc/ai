@@ -262,20 +262,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft restricts access to controversial AI facial recognition technology"
-    excerpt: "Microsoft added that its responsible AI standards don’t stop at facial recognition. It will also apply them to Azure AI’s Custom Neural Voice, a speech-to-text service that’s used to power ..."
-    publishedDateTime: 2022-06-22T00:00:00Z
-    webUrl: "https://siliconangle.com/2022/06/21/microsoft-restricts-access-controversial-ai-facial-recognition-technology/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 70
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/facial-recognition-AI.png"
-        width: 781
-        height: 511
-        isCached: true
   - title: "Microsoft restricts facial recognition tech in push for ‘Responsible AI’"
     excerpt: "... to the problems they are designed to solve,” said Microsoft chief responsible AI officer Natasha Crampton in a blog post. “As part of our work to align our Azure Face service to the requirements of the Responsible AI Standard, we are also retiring ..."
     publishedDateTime: 2022-06-22T08:27:00Z
@@ -463,6 +449,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "F3Jro3xkrQ1475Rg8BXuJ09lQhT+au/gBWj3J6O0BrJcqOrZnni9v0Ov+mfhqIyVjQAPwOxGLVcM01Eb5sBnfjnD60KG/3+UtmqLOQKxwMD0m/WT1a5HUFFXkjlwoOjPoU4GXVQFjALqbeEOir877xdSljm/yhUEQi8zXiqLKlNqi9LxpcNs5L9UL8e2EppGtxki+dRAYBYGY822sgId61nzi5Fmh9mm7DNPoE3cuoPBDuXcgE+PdQLPPEu+zTzan6pNCVHbdOsEJ6n64bDVQCxXvPdBfhyoh8Yg1xq2YruaSsKT5ls8iAU9VFbUabEktrSY4GevkH0Hgm0eSdxXG0YGWRaT1wcP2P4In1FKlaA=;HiicovdcNpd0RUBdSDmvgQ=="
+secured: "h/yRdNQTxvjSaYnWraX9prw0WPLy1wCnENtfl3bDKRt9XW4+rFKAm2Jo1WCDnDufRBtonc5odrEU1ezufbKSvasOUUnLU6WBcl7GUx5cHdauSp98C9X3krCaciNG1PoeT1OUml6CTZ8i7InrjDeDOBS667YgdP2pOjmSsK1oRZ8LrsqYtHwmQiDqp3rxrO19/VHysl9f7H8GLmaSqGK76pUy8pw26WXBvkWKwYuY07yH+Hj4VEsHQQJp/cnqL2O8okx4dzpk7u2DiI7j2Z666+oh5mBRLhgbMtyQGoVziAc/Wzmrt0Ip/ZdDN9rdfnPadcOO+SxvWGlMeMcW5XoAUz1DYxul357t67XAyeWAldQ=;pPFxAHqhNaBVGFKnGGBstg=="
 ---
 

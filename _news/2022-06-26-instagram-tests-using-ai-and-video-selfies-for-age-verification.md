@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
-excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
-publishedDateTime: 2022-06-24T20:49:00Z
-originalUrl: "https://www.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-webUrl: "https://www.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
+title: "Instagram tests using AI and video selfies for age verification"
+excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
+publishedDateTime: 2022-06-26T16:40:00Z
+originalUrl: "https://www.khou.com/video/tech/instagram-tests-using-ai-and-video-selfies-for-age-verification/285-20af8952-82e1-49de-af4e-dd3fda504d51"
+webUrl: "https://www.khou.com/video/tech/instagram-tests-using-ai-and-video-selfies-for-age-verification/285-20af8952-82e1-49de-af4e-dd3fda504d51"
 type: article
-quality: 38
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
-  - Computer Vision
   - AI
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2022/06/24/shutterstock_712489231_c0-196-4707-2941_s1200x700.jpeg?252bacb6c34fcb4f7b3ea742705da80edbc49450"
-    width: 1200
-    height: 700
+  - url: "https://media.khou.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -100,6 +97,22 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
+    excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
+    publishedDateTime: 2022-06-24T20:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 38
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/06/24/shutterstock_712489231_c0-196-4707-2941_s1200x700.jpeg?252bacb6c34fcb4f7b3ea742705da80edbc49450"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Instagram trials AI tool to verify age of users"
     excerpt: "SAN FRANCISCO - Photo-sharing platform Instagram said it was starting to trial a tool that relies on artificial intelligence (AI) to confirm the age of users in the United States. Lawmakers across the world have been vocal in demanding that the social ..."
     publishedDateTime: 2022-06-23T15:51:00Z
@@ -113,20 +126,6 @@ related:
       - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-06/doc-32D33NQ-%40photo0.jpg?h=4bf1c8f5&itok=U32GY5Dv"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Instagram tests using AI and video selfies for age verification"
-    excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
-    publishedDateTime: 2022-06-26T16:40:00Z
-    webUrl: "https://www.khou.com/video/tech/instagram-tests-using-ai-and-video-selfies-for-age-verification/285-20af8952-82e1-49de-af4e-dd3fda504d51"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 37
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
     excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."
@@ -143,6 +142,6 @@ related:
         height: 620
         isCached: true
 
-secured: "vLkz4ni4IAC7gQM9nXnwtBibKNji/zmwNQqDBW9sM4pjH2KZaxuBMMmYLn9cRnDfellDDvCISyyUq7RxquiwtThlq+q6IYcYkDlvjguo/EGsHVSyQXIiN4Qz+P8SbUSNqYlHyoP3urPVZ2Akto0mAvzeYRZgfQTlu9XVNXVOXQibKuhWPGwhnmFZv01LEPh/Ojm4aAsUH4uVN3FyDNvUjvWomIPClwxs67+hm/hw9OgY+BXpGphvyq6cU7cWx6SuCklq42EOE4hOpAMq0eFZoUsaidhwhf6osj4XV+nmif6w9+Ci6L5O1L0vSHyF6EfmpI/Ly03VjfQYtpiH2nv5CsNVTnpepELBE6aea/X1Skk=;CurIWLTMFHfiBP15NPlyWw=="
+secured: "pd02nIYb+51dKwhhCtvZMYbTcZ1j/6gUmR7MuE/6WAtPUXEtfpBeR5FQfTGA9o4S9EXlIFIATavdacRN67QBWYMYPVYRnFop91Tk0oQVze+pMvO29bOtaxodZuRj5XalVfH/FE1QpTtsPSXTtSIceSJ0O35InZZT2pRqG2YlpwYNtZtSUwTE04EzJl12Ivdb8sZpLnIH0fzCGDb3WvSsbLVbHEEOOkFa2CUUfUh5u5k3Jzr1/un7JzK9EfY6iYSb0K/y1aTD2/dhH1J85ACqjLr2rXYSruDUYK0k3kXL+WTwZd8LOQjs2DqaMXVp57OSn0mmUkgMUhkSynlSWBV3pNN3qwhKKHnpM5Q6VGQFzFQ=;CGrS4o2ho62+cCQv69Jtqg=="
 ---
 

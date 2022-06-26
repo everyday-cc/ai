@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-20-parmy-olson-ais-hold-over-humans-is-starting-to-get-stronger.md",
+      "title": "Parmy Olson: AI’s hold over humans is starting to get stronger",
+      "excerpt": "It has been an exasperating week for computer scientists. They’ve been falling over each other to publicly denounce claims from Google engineer Blake Lemoine, chronicled in a Washington Post report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/news/nation/parmy-olson-ai-s-hold-over-humans-is-starting-to-get-stronger/article_284a3811-1bb7-549b-ba91-bd8302c85cb0.html",
+      "originalUrl": "https://www.fltimes.com/news/nation/parmy-olson-ai-s-hold-over-humans-is-starting-to-get-stronger/article_284a3811-1bb7-549b-ba91-bd8302c85cb0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/b/c8/bc8ebd40-6215-5f93-97c9-4fef2d15402e/62b093459abe9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-samsung-ventures-eyes-israeli-ai-its-a-neureality.md",
+      "title": "Samsung Ventures Eyes Israeli AI, It’s A NeuReality",
+      "excerpt": "Israel is a smart young nation with a track record in showing determined focus and a steadfast belief in itself - but how did it get so AI smart? Part of the answer is down to a young motivated educated",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ae0929343782a40e8819d5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/amp/",
+      "publishedDateTime": "2022-06-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-how-artificial-intelligence-is-revolutionising-healthcare.md",
       "title": "How Artificial Intelligence is revolutionising healthcare",
       "excerpt": "Artificial Intelligence (AI) may never be able to adopt the comforting 'bedside manner' that good doctors are known for, but it may be better equipped to diagnose your ailments accurately.",
@@ -315,8 +410,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?998188",
-          "width": 375,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?796735",
+          "width": 320,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1064,109 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images.md",
-      "title": "Unified-IO is an AI system that can complete a range of tasks, including generating images",
-      "excerpt": "Researchers at the Allen Institute for AI have developed a machine learning system that can complete a range of tasks, including generating images.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/17/unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images/",
-      "originalUrl": "https://techcrunch.com/2022/06/17/unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/17/unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/17/unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images/amp/",
-      "publishedDateTime": "2022-06-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-2023-genesis-gv60-not-just-another-face-in-the-crowd.md",
-      "title": "2023 Genesis GV60: Not Just Another Face in the Crowd",
-      "excerpt": "Built on a platform shared by other Hyundai Motor Group EVs, this premium all-electric crossover has a highly distinctive look—and innovative tech (including fingerprint and facial recognition) to tem",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/2023-genesis-gv60-not-just-another-face-in-the-crowd-11655481890?mod=hp_listc_pos2",
-      "originalUrl": "https://www.wsj.com/articles/2023-genesis-gv60-not-just-another-face-in-the-crowd-11655481890?mod=hp_listc_pos2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-563615/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/2023-genesis-gv60-not-just-another-face-in-the-crowd-11655481890",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/2023-genesis-gv60-not-just-another-face-in-the-crowd-11655481890",
-      "publishedDateTime": "2022-06-17T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

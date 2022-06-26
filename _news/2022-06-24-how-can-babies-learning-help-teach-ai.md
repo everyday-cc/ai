@@ -42,15 +42,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Are babies the key to the next generation of artificial intelligence?"
-    excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to neuroscientists who have just published new guiding principles for improving AI. The research examines the neuroscience and psychology of infant learning and distills three principles to guide the next generation of AI,"
-    publishedDateTime: 2022-06-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220623110954.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Research finds babies can help unlock 'next generation' of artificial intelligence"
     excerpt: "According to neuroscientists at the Trinity College Dublin, babies can help unlock the next generation of artificial intelligence (AI). The research examines the neuroscience and psychology of infant learning and distils three principles to guide the next generation of AI,"
     publishedDateTime: 2022-06-25T05:24:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.retailtouchpoints.com/blog/what-role-can-computer-visi
 webUrl: "https://www.retailtouchpoints.com/blog/what-role-can-computer-vision-and-ai-play-in-loss-prevention"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Retail TouchPoints
@@ -40,6 +40,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1847282/China_Daily_Vision.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Huawei Announces New Inventions That Will Revolutionize AI, 5G, and User Experience Company discloses progress in IP, innovation at themed event"
+    excerpt: "Huawei announced a batch of key inventions as part of its biennial \"Top Ten Inventions\" Awards at the \"Broadening the Innovation Landscape 2022\" forum held at its Shenzhen headquarters."
+    publishedDateTime: 2022-06-26T17:07:00Z
+    webUrl: "https://www.techjuice.pk/huawei-announces-new-inventions-that-will-revolutionize-ai-5g-and-user-experience-company-discloses-progress-in-ip-innovation-at-themed-event/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 0
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2022/06/huawei.png"
+        width: 560
+        height: 438
         isCached: true
 
 secured: "o8HqN3NrgkJ+wH5S+Pwc2iM7y602/F9Kbr8RdWsWP4mqaDjN2UcHZ9HQ44xelesQbBNZFQaa/l0nguBVZcKBee1MYc3j1lV88ujKdU2jkUEEd38NjHCe+k3PqAjKwJm0bE71LPO5LfG47rdWBXKd2CYCARNXCHZFjnZWKcxbHzqnwvE7eZPYAJsOybzjTbDsfPFlh5liiBxNdIPVo9tSPPTdby7rZY2x24TRs/PFBsRuKQZdcfghYst62jX1QyRk1Gy4FQS7/k8Dlxawz5LFwJKGUaZ0IKnhjzHWUzrt7vyjP9vDVbhNR7CKvpFSrnJi/2YwBM5Yq/keQpa3U7xvr1xHugWb/PVX80wY3TkrwHJo71TgVPmF24aPVLib53Eq53KSx2JLSBtRZju+Aa6ouMl8zlSGtoXeiHYQBPALeHdzkMNl7WpVxwk5DBukeoKaoARuxqKZ4T/E19VxE2YeqyD+WsR+SsYIDO3iywdWUtk6mf5W+BC0eoYCZN04k6LEWfDnIfYkAJlnIkoz38799A==;OAIKRhkuyn8vV0meaPCD8A=="
