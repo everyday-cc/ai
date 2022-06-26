@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Fieldpoint Private Securities LLC Sells 730 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
-excerpt: "Fieldpoint Private Securities LLC reduced its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 41.5% in the 1st quarter, according to its most recent filing with the Securities & Exchange Commission."
+excerpt: "Fieldpoint Private Securities LLC lowered its holdings in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 41.5% during the first quarter, according to its ..."
 publishedDateTime: 2022-06-23T08:58:00Z
-originalUrl: "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
-webUrl: "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
+originalUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
+webUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
+ampWebUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
+cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
 type: article
-quality: 27
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
-  name: Defense World
-  domain: defenseworld.net
+  name: ETF Daily News
+  domain: etfdailynews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ"
+    width: 650
+    height: 350
+    isCached: true
 
 related:
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Purchased by Flagship Harbor Advisors LLC"
@@ -35,20 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF declares quarterly distribution of $0.0677"
-    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) - $0.0677. 30-Day SEC Yield of 0.20% as of May. 31. Payable Jun 30; for shareholders of record Jun 27; ex-div Jun 24. To ensure ..."
-    publishedDateTime: 2022-06-24T19:41:00Z
-    webUrl: "https://seekingalpha.com/news/3851799-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-declares-quarterly-distribution-of-00677"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 53
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Acquired by Flagship Harbor Advisors LLC"
     excerpt: "Flagship Harbor Advisors LLC increased its stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% during the first quarter, according to its most recent filing with the Securities & Exchange Commission."
     publishedDateTime: 2022-06-25T09:56:00Z
@@ -59,6 +53,6 @@ related:
       domain: defenseworld.net
     quality: 24
 
-secured: "0CnQJznjPccUHH6wEzHYbioHFSwjJG9kNk8Pkp268F/iIoa9G1FDGesCCvufM0Tc3WCCf7dJT7g/yZ5oDfpdNhdqTU+DoqFBAZdUejDY9Y45bzdEROkecIMANn0k2T3ztSE1UHBknhJ0x/7ab8Ri+06XL21xeK/RJHIDrHXCGqPVQcEU2b1yLEm3M4/dhrXKxlMlmB8HrMraxFXRXNDVST1EidEOBti23Sk8v/yf9DNebIzDnK6YNuHRPZZroJkpOhuBFev7iZfyNRF2RZ7ZmBwdxCmxBTeVbQoEqBK0px/AOWEQD63yOarqxkB3LxWag3JGXTwIuC9r3Rq0TBcMsCqACA0YXbyyLflLYDZFhUbGwb9ZZ4x/42k5HWXj3wl1CdbG3Wygpk/KhFRJ0U6bjhTFEt5Za7Vo0PgbrQ5pcvRmXRnxaBAjni7vzXP3B0EDbDj0jZJU+OGK4MtVOfXhssxDCNVIQ8BO3hULpefiQ0TPRIrp9dPjzY7uZH8vE6lDIPpJvLZHc9CN35Vdoy3Nqw==;x/Syap4WnpwNS8EGBFG+gg=="
+secured: "+Jbgtm88TYKLK7Ld4ZuqhsM3X+VKGfL5XiWrSEyW80cm+bAP2HSjStwme05PLGf5ctiD/DgxKqO68eRKR//Y7E1HK8bB6BC33AL5ONluj/wVScpwtwaYlAnpul5lN7r8wxzhwrR8EqDDUrjzvJTq8D9qhqVuODg04FWK87A4vLqHCf51qnB0G1frqV+zwhWL8qCISSrHid2fmLs3CbddDS30tqY6iXLljfaVAL4OKbR65Dr1VMOPCBiReqfIUgNa3OsyJspshUGqkZN+e+ClF+D9AQDB4iwR7Hu/XCouBNN8asXlYF4yTvNiFwd/fCN8grmc5uT371W2kjtsxxD7LIpt3BSt2kNMpo+QK/efcz8=;cuwq20PUxLIrJwuR6U3KQw=="
 ---
 

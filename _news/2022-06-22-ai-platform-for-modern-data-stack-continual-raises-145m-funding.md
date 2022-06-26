@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/investments-and-expansions/25771-ai-pl
 webUrl: "https://www.thefastmode.com/investments-and-expansions/25771-ai-platform-for-modern-data-stack-continual-raises-14-5m-funding"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "Idoven Raises $19.8 Million in Funding to Redefine Detection and Precision Medicine of Cardiovascular Diseases with AI"
-    excerpt: "Idoven, a pioneering health tech company advancing early detection and precision medicine of cardiovascular disease, today announced that it has raised $19.8 million in funding. The funding consists of a $12."
-    publishedDateTime: 2022-06-21T14:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/idoven-raises-19-8-million-in-funding-to-redefine-detection-and-precision-medicine-of-cardiovascular-diseases-with-ai-1031540550"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1844305/Idoven_Logo.jpg"
-        width: 400
-        height: 250
-        isCached: true
 
 secured: "8PaT/4gIwgjkRzI4KoU1acTST7zPS0uTjfRvOJ1/cglwI68ewHJRmB3A7xHw/X76K4RhNMlPSKfWGlwjcu+c1KbgAVYAeIVDLae1vfPiPD1Dh/1BroGkOM6H2JVcr+fPt8PIH1AgjsXjWFY+7jHw77/1HLN9/peOzU0RiO/gYffGcR5YgmEyV6Ugu6/T8NOnf0WYhIHM71tHh/aXO92amhBX9Qpcu/g/DTOO8XoQvx74WPAHAre5wmaaYPzmx0x2yv2VmcApaIa3rN1yAJ7sKxxEmVCryWNjs+pNucqgLAh8CsQDCg3x+ZNYhj51Wu7OIfm14/4yYYKI9MDHa+uDAd2CiWch7alnAaU7DLtfEmI=;m42YGwXW/vpbt1byVPv+rA=="
 ---

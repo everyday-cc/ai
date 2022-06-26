@@ -422,6 +422,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Microsoft will REMOVE a controversial feature of its facial recognition tool that claims to identify emotion from videos and pictures – in major overhaul of its AI ethics ..."
+    excerpt: "Microsoft is retiring a controversial facial recognition feature that claims to identify emotion in people's faces from videos and photos. As part of an overhaul its AI policies, the US tech giant ..."
+    publishedDateTime: 2022-06-22T13:35:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10941433/Microsoft-retire-controversial-facial-recognition-tool.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 56
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/06/22/12/59383727-0-image-a-12_1655896439971.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Microsoft retires facial analysis capability under responsible AI"
     excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
     publishedDateTime: 2022-06-24T07:36:00Z
@@ -485,20 +501,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-92409534,imgsize-10914,width-1200,height-628,overlay-etcio/kpmg-and-microsoft-join-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "KPMG AND MICROSOFT COLLABORATE TO HELP C-SUITES PREDICT TAX OUTCOMES AND SET BUSINESS STRATEGY WITH NEW CLOUD TECHNOLOGIES"
-    excerpt: "Investment in new technology creates value for businesses in more than 140 jurisdictions globallyKPMG Digital Gateway, enabled by Microsoft"
-    publishedDateTime: 2022-06-21T14:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kpmg-and-microsoft-collaborate-to-help-c-suites-predict-tax-outcomes-and-set-business-strategy-with-new-cloud-technologies-1031540513"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/648978/KPMG_Logo.jpg"
-        width: 400
-        height: 295
         isCached: true
   - title: "Microsoft retires facial recognition tool that identifies emotions"
     excerpt: "Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools, including retiring facial analysis tools that purport to infer emotional states and identity gender,"

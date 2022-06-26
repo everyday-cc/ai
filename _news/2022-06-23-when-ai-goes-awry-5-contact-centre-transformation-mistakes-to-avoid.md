@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 614
         isCached: true
-  - title: "AWS is using AI to make contact centers smarter"
-    excerpt: "Amazon Web Services AWS has added new AI-based features to its contact center service, Amazon Connect. Amazon Connect is an omnichannel cloud contact center that serves businesses via an as-a-service model, enabling them to set up their own contact center ..."
-    publishedDateTime: 2022-06-21T14:00:00Z
-    webUrl: "https://www.techradar.com/news/aws-is-using-ai-to-make-contact-centers-smarter"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/revGmWARy7Adv2kKyAnQhc-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Skit.ai Offers Best-In-Class Conversational Voice AI Solutions to Address Contact Center Crisis"
     excerpt: "Leading voice AI startup expands global footprint, offering revolutionary customer experience solution to U.S. – NEW YORK, June 22, 2022 /PRNewswire/ -- Skit.ai, the leading voice AI SaaS company, today established U."
     publishedDateTime: 2022-06-22T13:03:00Z

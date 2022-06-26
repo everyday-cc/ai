@@ -70,20 +70,20 @@ related:
         height: 675
         isCached: true
   - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
-    publishedDateTime: 2022-06-24T00:12:00Z
-    webUrl: "https://www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
-    ampWebUrl: "https://www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
+    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID"
+    publishedDateTime: 2022-06-23T17:44:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/instagram-tests-ai-tools-age-verification-85592483"
     type: article
     provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 57
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7ZJ4BQS5HFANHIS753TETI45N4.jpg?_a=ATAK9d60"
-        width: 700
-        height: 467
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
     excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."

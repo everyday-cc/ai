@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solut
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS is using AI to make contact centers smarter"
-    excerpt: "Amazon Web Services AWS has added new AI-based features to its contact center service, Amazon Connect. Amazon Connect is an omnichannel cloud contact center that serves businesses via an as-a-service model, enabling them to set up their own contact center ..."
-    publishedDateTime: 2022-06-21T14:00:00Z
-    webUrl: "https://www.techradar.com/news/aws-is-using-ai-to-make-contact-centers-smarter"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/revGmWARy7Adv2kKyAnQhc-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "When AI goes Awry; 5 Contact Centre Transformation Mistakes to Avoid"
     excerpt: "When AI goes awry; five contact centre transformation mistakes to avoid. Jonathan Rosenberg, CTO and Head of AI at Five9 explians how to"
     publishedDateTime: 2022-06-23T15:52:00Z

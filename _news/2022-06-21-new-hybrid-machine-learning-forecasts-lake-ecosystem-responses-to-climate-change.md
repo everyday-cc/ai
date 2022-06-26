@@ -1,23 +1,29 @@
 ---
 category: news
 title: "New hybrid machine learning forecasts lake ecosystem responses to climate change"
-excerpt: "Throughout the middle of the 20th century, phosphorus inputs from detergents and fertilizers degraded the water quality of Switzerland's Lake Geneva, spurring officials to take action to remediate pollution in the 1970s."
-publishedDateTime: 2022-06-20T19:44:00Z
+excerpt: "EDM can help in this context as a form of supervised machine learning, a way for computers ... of ecosystems and they are also the reality of financial markets where prediction is so challenging ..."
+publishedDateTime: 2022-06-20T19:53:00Z
 originalUrl: "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html"
 webUrl: "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html"
+ampWebUrl: "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp"
 type: article
-quality: 14
-heat: 14
-published: false
 
 provider:
   name: Phys.org
   domain: phys.org
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "fCMRAiXGjt4h6MY+DQOp3gZlx2tTRpTDrs6qDdQZlukTTBcDwPiXMe4FeBdlrJxtLJtT82aZsS8vK9yAlEhL8w1fOg/cs9+0pRQBi7LoCdDbF70q53vaWsOXjChZci5/D0gevOvmQE9iZM4aD6uwPDKiXORJmikSHVYrbEntvuc5jhwUOZDTQ2mkHn+HHH82AnhXpXbTiHEIvIEn0AY1FZOEbbZ0GRxwX+r0JIm/jkXqgT0BOlYn4/eU4Pf3v4P0rE/bxjNh8aLXeyOcvRNK9Xn8NVoWDXVhw7V1QdOS1HbfJGFb6wXdcZSKZAXO+WM+p3TNqoz2y3i4N/aB6q7/LT3OHChGc3Y1cBl8vAo/a3/YQuFJ6UBV/DvVFKOcmWsanX826Mc3MZvPV9iadREAWvGKpXbVZk5HHjmYn9SOE0d8rnOWi45cmGaYsY3VY8kiPankg/0R+E7jQivbQbQQeEM8CFga83Av+P74EUeG+pHSadoYIdtbDYL5dIgjyui+B+hzk/ZHezJOtDh5ZRg2RA==;kBdFQRnisJmj4/OQ1kjs0g=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hybrid-machine-lea.jpg"
+    width: 2880
+    height: 1620
+    isCached: true
+
+secured: "ijh2H9UoT8J44mWfS1SfmsDWoX95nbJhJaewmCWmODrs/w0CFye6EOWgotB0YNh9LTHwjLcP9YrdrIURwl8MjTWU9I4uCAIVaGQZVIUEJL6FF0ku2uw3OEZQFjxdMkXU0/6I3oHz6rPVJz8Bj8lzniAAqcPz+82CmNkeAJda7LFyrx0s+WgkAfJ+dTrk1lPozGkFvdFpmXSSB+5U1XDf1hCPVMJyFc360RRde70p/S34CW39wkJ/6l3qqWMvq/E6YYZXPd8JvgxiyM3Lf3h6U3WrTQH1ZJQ7ShUItXJ93bK5Nksxlg07wMQlNWNx1pLdXGqi1DfrbRBqzEqaqmnxkNKkiOToA2XY4JIk6rF9vVg=;KF/0i4cLaFnCJIDK5aGR2g=="
 ---
 

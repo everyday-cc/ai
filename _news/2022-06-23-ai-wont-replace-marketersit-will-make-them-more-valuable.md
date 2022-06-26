@@ -22,6 +22,17 @@ topics:
   - AI
 
 related:
+  - title: "Natural Language Processing Market worth $35.1 billion by 2026 - Report by MarketsandMarkets™"
+    excerpt: "id=825 North America to hold the largest market size during the forecast period The Natural Language Processing Market has been segmented into five regions: North America, Europe, APAC ..."
+    publishedDateTime: 2022-06-21T15:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27797394/natural-language-processing-market-worth-35-1-billion-by-2026-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27797394"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27797394"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
   - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
     publishedDateTime: 2022-06-24T13:31:00Z

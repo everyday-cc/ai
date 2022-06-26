@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvinsider.com/1049804/westworld-season-4-evan-rachel-woo
 cdnAmpWebUrl: "https://www-tvinsider-com.cdn.ampproject.org/c/s/www.tvinsider.com/1049804/westworld-season-4-evan-rachel-wood-ed-harris-aaron-paul-cast-preview/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -28,13 +28,29 @@ images:
 
 related:
   - title: "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4"
-    excerpt: "They, along with wily robot Dolores (Evan Rachel Wood), had freed humans from the mind control of a massive AI entity. But Dolores died in the fight, and the unchained masses were torching skyscrapers. The Westworld Season 4 opener picks up seven years later."
-    publishedDateTime: 2022-06-24T16:13:00Z
-    webUrl: "https://www.wfmz.com/entertainment/westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4/article_98ecf313-2c98-5d9a-b4ed-e6a74166bb4e.html"
+    excerpt: "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy."
+    publishedDateTime: 2022-06-24T16:00:00Z
+    webUrl: "https://www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/"
+    ampWebUrl: "https://www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/amp/"
+    cdnAmpWebUrl: "https://www-tvinsider-com.cdn.ampproject.org/c/s/www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TV Insider
+      domain: tvinsider.com
+    quality: 44
+    images:
+      - url: "https://www.tvinsider.com/wp-content/uploads/2022/06/westworld-season-4-ed-harris-1014x570.jpg"
+        width: 1014
+        height: 570
+        isCached: true
+  - title: "We watched Westworld season 3 so you don’t have to"
+    excerpt: "You’ve just watched the trailer for Westworld season 4, which premieres on HBO Max this Sunday. You feel a strange mix of emotions: anticipation, curiosity, bu"
+    publishedDateTime: 2022-06-24T15:05:00Z
+    webUrl: "https://www.polygon.com/23180079/what-happened-in-westworld-season-3-explainer"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
     quality: 4
 
 secured: "wShaRg/ptO8e44C8Lnw1mns3eaPX7gBPrxhlsY+4Vk3AVnCpSisoArNHhMXYXEvajGcNOzFjBKK37/bfmX6YlK4rOVfpK29jNApGlS4Ln3ZmXS9cyVe/NL9Idf2kORfU/5kImFxbeH/KTda6TKDhwPFKD2861zGVdITBlDZzgts54h51EjRXBlYD+wWtMOQ3y3WKKK/HbLa2iaGh9YkR0tBi6b9X6T9fWbbvgLtONmIBVGSvS5thMCU7jmvl9rYueJfmPa81rYAqsW9V5yXRq366Iq8Ga9ZoP0BmRl8MSV65wDw/PtR/m/nl3tpaHH/eYfe0zJ6eWVt4GL0eGIU/QhmDhvZT3hD0rlUBUU6s2T/VuTZZTDng9FV+VHK8BiXLMC3mxvPZd4dYLdFeXYxOMYPa1vMbQ3xUWA+zgqLdJO6BU0elBJHgpGjLY3GC8MB/9wFWFYWQ30oAaOD4W/4W75a4oC1nXr9yP+0MYPZ1ZJPKBw8t5dnqb09aXqrqN62e4e3X3rZTCk8ceICmuDoZrQ==;TFL0rIMOXOSumFM+cZMiYw=="

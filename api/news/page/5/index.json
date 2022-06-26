@@ -2,6 +2,178 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-21-imagination-launches-img-rtxm-2200-its-first-real-time-embedded-risc-v-cpu.md",
+      "title": "Imagination launches IMG RTXM-2200 – its first real-time embedded RISC-V CPU",
+      "excerpt": "Together with its market-leading GPU and AI accelerator IP, Imagination’s new CPU cores offer customers access to innovative heterogeneous solutions. This real-time embedded core features up to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartware.de/2022/06/21/imagination-launches-img-rtxm-2200-its-first-real-time-embedded-risc-v-cpu/",
+      "originalUrl": "https://www.hartware.de/2022/06/21/imagination-launches-img-rtxm-2200-its-first-real-time-embedded-risc-v-cpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartware.de/wp-content/uploads/2022/06/Imagination-IMG-RTXM-2200-top-600x388.jpg",
+          "width": 600,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hartware Net",
+        "domain": "hartware.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-human-machine-interfaces.md",
+      "title": "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces",
+      "excerpt": "The embedded GPU also adds value for its advanced AI inference execution processing capabilities, which clock in nearly six-times faster than what is possible with Cortex-A53 processor-equipped ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27788702",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788702",
+      "publishedDateTime": "2022-06-20T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "Losing one AI ethics board might be unlucky, but two is surely careless given the ethical hot water the company has found itself in lately. 10/04/2019 EC lists seven requirements for ethical AI A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.chitra.live/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects.md",
+      "title": "Dataiku 11: Top features that will accelerate enterprise AI projects",
+      "excerpt": "Daitaku 11 has more automation built in, the company says, to help their customers reduce busywork and make more of their AI investment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/",
+      "originalUrl": "https://venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/KITCHEN.00_02_05_30.Still009.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects/amp/",
+      "publishedDateTime": "2022-06-20T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-3-things-large-language-models-need-in-an-era-of-sentient-ai-hype.md",
       "title": "3 things large language models need in an era of ‘sentient’ AI hype",
       "excerpt": "Here's some of the lessons learned from the hype and confusion surrounding large language models and progress in AI.",
@@ -147,6 +319,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-21-speech-recognition-market-overall-study-report-2030.md",
+      "title": "Speech Recognition Market Overall Study Report 2030",
+      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for Speech Recognition market across North America, Europe, Asia-Pacific, Middle East & Africa ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/speech-recognition-market-overall-study-report-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/speech-recognition-market-overall-study-report-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Abortion-rights-supporters-AFP-1K-02-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes.md",
       "title": "Responsible AI in healthcare: Addressing biases and equitable outcomes",
       "excerpt": "So what does that look like? A call to fight bias with the help of algorithms Let’s start by talking about when AI fails and when AI succeeds at organizations overall. MIT and Boston ...",
@@ -196,6 +411,50 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-new-hybrid-machine-learning-forecasts-lake-ecosystem-responses-to-climate-change.md",
+      "title": "New hybrid machine learning forecasts lake ecosystem responses to climate change",
+      "excerpt": "EDM can help in this context as a form of supervised machine learning, a way for computers ... of ecosystems and they are also the reality of financial markets where prediction is so challenging ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html",
+      "originalUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hybrid-machine-lea.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp",
+      "publishedDateTime": "2022-06-20T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -578,6 +837,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-20-speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo.md",
+      "title": "Speech Recognition Software Market Is Booming Worldwide with IBM, Dolbey, Voxeo",
+      "excerpt": "The latest study released on the Global Speech Recognition Software Market by AMA Research evaluates market size, trend, and forecast to 2027. The Speech Recognition Software market study covers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
+      "originalUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Abortion-rights-supporters-AFP-1K-02-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-robotics-ai-innovation-is-the-way-forward.md",
       "title": "Robotics & AI – Innovation is the way forward",
       "excerpt": "The latest edition of ET UNWIRED in association with NTT DATA included Thomas Normark, Global Head of AI & Robotics, NTT DATA Business Solutions, Denmark, Vikas Desai, Chief Technology Off - Mediawire",
@@ -804,8 +1106,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?387088",
-          "width": 458,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?521772",
+          "width": 375,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -832,328 +1134,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-india-bangladesh-explore-cooperation-in-ai-cyber-security-startups.md",
-      "title": "India, Bangladesh explore cooperation in AI, cyber security, startups",
-      "excerpt": "Border management was also a key item on the agenda of cooperation. \"...better management of our long border is also a key priority. Our Border Guarding Forces are committed to combating trans-border crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/articleshow/92322921.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/articleshow/92322921.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-78488,msid-92322961/bangladesh-foreign-minister-to-visit-india-this-week.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/amp_articleshow/92322921.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/amp_articleshow/92322921.cms",
-      "publishedDateTime": "2022-06-19T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do.md",
-      "title": "Why businesses take a month or more to deploy ML models and what you can do",
-      "excerpt": "Choosing the right machine learning model can make a difference not only in the output quality, but also the development time and cost.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/",
-      "originalUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1284049480.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/amp/",
-      "publishedDateTime": "2022-06-19T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars.md",
-      "title": "AI Ethics Confronting The Insidious One-Like-Mind Of AI Algorithmic Monoculture, Including For Autonomous Self-Driving Cars",
-      "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample discussion on the topic. Here’s then a noteworthy question that is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3ec8d45601953acdb1ac4/0x0.jpg?format=jpg&crop=1458,971,x134,y0,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-19T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-dementia-two-childhood-factors-that-can-lead-to-cognitive-decline-in-midlife-new-study.md",
-      "title": "Dementia: Two childhood factors that can lead to cognitive decline in midlife - new study",
-      "excerpt": "They were then followed up between 2017 and 2019 - aged between 39 and 50 - when their cognitive function was assessed using a range of computerised tests. These participants were followed up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/1627736_1.jpg?r=1655626056776",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline/amp",
-      "publishedDateTime": "2022-06-19T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art.md",
-      "title": "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art",
-      "excerpt": "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art?trk=public_post_share-update_update-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T17:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-opinion-too-many-flaws-in-commonwealths-facial-recognition-law.md",
-      "title": "Opinion: Too many flaws in commonwealth’s facial recognition law",
-      "excerpt": "Virginia’s new law does not adequately address the risks facial recognition poses, Georgetown Law's Jameson Spivack writes in a guest column.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pilotonline.com/opinion/columns/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html",
-      "originalUrl": "https://www.pilotonline.com/opinion/columns/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pilotonline.com/resizer/aqlo7BFfe8I2VRn2WP7gYdR2q88=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virginian-Pilot",
-        "domain": "pilotonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia.md",
-      "title": "Real-world Data Show Efficacy of Digital Cognitive Behavioral Therapy for Insomnia",
-      "excerpt": "Real-world data showed that cognitive behavioral therapy for insomnia (CBT-I) delivered via a digital therapeutic was effective, according to a study published in Behaviour Research and Therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia",
-      "originalUrl": "https://www.ajmc.com/view/real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/72867d7f281bc29c668a24c000e99f955cb6d1a6-1731x1109.jpg?fit=crop&auto=format",
-          "width": 1731,
-          "height": 1109,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

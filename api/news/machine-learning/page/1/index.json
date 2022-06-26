@@ -681,6 +681,50 @@
       ]
     },
     {
+      "path": "_news/2022-06-21-new-hybrid-machine-learning-forecasts-lake-ecosystem-responses-to-climate-change.md",
+      "title": "New hybrid machine learning forecasts lake ecosystem responses to climate change",
+      "excerpt": "EDM can help in this context as a form of supervised machine learning, a way for computers ... of ecosystems and they are also the reality of financial markets where prediction is so challenging ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html",
+      "originalUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hybrid-machine-lea.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp",
+      "publishedDateTime": "2022-06-20T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-artificial-intelligence-shines-a-light-on-how-autistic-brains-work.md",
       "title": "Artificial Intelligence Shines a Light on How Autistic Brains Work",
       "excerpt": "Kohitij Kar, a researcher in the lab of MIT Professor James DiCarloThe researchers believes that machine learning could be an effective tool that could open up new pathways to modeling the computational capabilities of the human brain.",
@@ -1377,40 +1421,6 @@
       "provider": {
         "name": "Times Higher Education",
         "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores.md",
-      "title": "AtScale Helps Customers Accelerate Machine Learning Initiatives With Support for Feast Feature Stores",
-      "excerpt": "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced that it has added support for the Feast feature store. Feast is an open-source feature store gaining rapid adoption in the enterprise data science community.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

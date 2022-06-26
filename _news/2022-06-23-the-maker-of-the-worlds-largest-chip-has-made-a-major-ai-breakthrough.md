@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chi
 webUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough"
 type: article
 quality: 64
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -36,34 +36,6 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/The-maker-of-the-worlds-largest-chip-has-made-a-major-AI-breakthrough.png"
         width: 600
         height: 365
-        isCached: true
-  - title: "Law-Makers Must Wake Up to the Threat of Artificial Intelligence"
-    excerpt: "The European Union's Artificial Intelligence Act will allow the creeping increased use of AI by law enforcement agencies to continue, reports Catherine Connolly"
-    publishedDateTime: 2022-06-21T13:23:00Z
-    webUrl: "https://bylinetimes.com/2022/06/21/lawmakers-must-wake-up-to-the-threat-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: bylinetimes
-      domain: bylinetimes.com
-    quality: 39
-    images:
-      - url: "https://bylinetimes.com/wp-content/uploads/2022/06/2A7PTJE-600x314.jpg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "The World's Smartest Artificial Intelligence Just Made Its First Magazine Cover"
-    excerpt: "The technology behind DALL-E 2 is already re-shaping the world as you know it—perhaps most literally with this magazine cover you're looking at. Are you ready for what comes next?"
-    publishedDateTime: 2022-06-21T14:02:00Z
-    webUrl: "https://www.cosmopolitan.com/lifestyle/a40314356/dall-e-2-artificial-intelligence-cover/"
-    type: article
-    provider:
-      name: Cosmopolitan
-      domain: cosmopolitan.com
-    quality: 33
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2022-06-20-at-9-47-56-pm-1655776096.png?crop=1.00xw:0.837xh;0,0&resize=1200:*"
-        width: 1200
-        height: 602
         isCached: true
   - title: "Value of China’s core AI industry surpasses 400 bln yuan; smart chips, open-source frameworks technology achieve major breakthrough: minister"
     excerpt: "The scale of China’s core artificial intelligence (AI) industry has exceeded 400 billion yuan ($59.74 billion) and the number of related enterprises has exceeded 3,000, with major breakthroughs being made in key core technologies such as smart chips and ..."

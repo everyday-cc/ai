@@ -1,22 +1,26 @@
 ---
 category: news
-title: "The Worldwide Artificial Intelligence (AI) Robots Industry is Expected to Reach $38.3 Billion by 2027"
-excerpt: "The Global Artificial Intelligence (AI) Robots Market is estimated to be USD 7.1 Bn in 2022 and is projected to reach USD 38.32 Bn by 2027, growing at a CAGR of 40.1%. Market Dynamics"
-publishedDateTime: 2022-06-13T11:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/g27667412/the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-38-3-billion-by-2027"
-ampWebUrl: "https://www.benzinga.com/amp/content/27667412"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27667412"
+title: "The Worldwide Artificial Intelligence (AI) Robots Industry Is Expected To Reach $38.3 Billion By 2027"
+excerpt: "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The 'Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive ..."
+publishedDateTime: 2022-06-13T12:18:00Z
+originalUrl: "https://menafn.com/1104365563/The-Worldwide-Artificial-Intelligence-AI-Robots-Industry-Is-Expected-To-Reach-383-Billion-By-2027"
+webUrl: "https://menafn.com/1104365563/The-Worldwide-Artificial-Intelligence-AI-Robots-Industry-Is-Expected-To-Reach-383-Billion-By-2027"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "0HTqEt01aQ4pct8xAJoX7CGlA9goSO3dYLd4wfjaZh09Gi9lK+0o2t8IpjfIFro+y9o+bxJdr7Vgt3cUyPGatDX3uvtO+3uvs4kD8SGiaU74q36cRngmDUHc/UtUDgW0eyUc/8ewAMSTXJbJoBgZCUQgZKpSV7h8vxYP3UnYgrtT5WxehmFN4i6Y7BSAbE30/KUnU9gfvvMm6SsPSxDpw/SPoecZkWM6xcSfQuj4KxkzxxrtHBLL6JFfVZEL0hpN3PeI7mbXJCzvJ1/Fbm4n3x1v7oj76cENb7rkKxBIm243niIbOvsrM7/qhV6qk65aZ+6B31BHvxXCXC708wpftK5GV/aZNYeyaQjxWV3g97g=;RhldanxUHZ0nE5yccU/scg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?521772"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "RrSqHvkvmby+tttkzGke423rgZ2VTtA3epy1w2HX/DwbnSU4kxNZUJlJh7Bw05x50stb9wOSxf6pNZeyBMw85119Cu8zGS5UoDQa/6s2X+LPIPPKySI8JK+tRouMkbOQfaUZm3H3N86rMDLillxKcCLX0Y7DCgdXbUCpg8Flz8lJM2ICR9o4DcJHyQaebU4+RUJFrcUO99cLGnFxs+wRyfMULSLIv839cHABnXquYYDCf5TVXthyS+j0+hgqArIYGzK5qlIELsvc01/ykEcVYLyjkK0Wn/qlTERQ0UMZosWCyzRDcZhERrcNLnUdeqpz/L2byYz596RUUND83ZeOB8ZSKnTRqJKVRQAcYSFavcY=;Pe1jieZ8LY5M1w7Sjv474g=="
 ---
 
