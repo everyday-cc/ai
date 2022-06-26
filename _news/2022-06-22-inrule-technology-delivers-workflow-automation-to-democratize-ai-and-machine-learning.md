@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-    width: 772
-    height: 594
-    isCached: true
-
-secured: "taixxQL5t9D3fq65Z/ogzfxcmiyxthAOM12bbcyBqq35EG95a44y4e3vAM0bLzATlJMmPMPmu6/CsGnx064vLzieFczUrKtWAfB4aj/j2ngZdw6W067m4/B2BjeuS3Eb9KDi8nhdfyTza7UJsvfdZZ3T0ob8S0z9cZPDmoTdD4bsWt0fTRvoHm9RXyif45OnZQcHPWEM05bUoLON6q5ZA37wl5hB5C66BBjG/SI+lgdy3JpTotdNkzfQUFweyBk3re3yrqeANhoSOa2GFln/+cN5xwuyw6LkzAepKAbhIlY13h4lvdHaQ1D5+F1Vf3ltVR/0yvXAm3yThT3cvuZFcNTs0MeiuPNbsednbl0HHkA=;YDhhbctZLbDAFQg0C66WVg=="
+secured: "KwOxKqxDJZoLlnGSWS3eJp5X+VxpplUCaB8cKigmYa39de0BXYHINcCyUryFXI1P6a4IeWx9/Wygx4RL6gtpPovaE8n9MKh6F5Oc/ezmzl+4YTWnjHg8Cy7XZMFMkfSveS/Av6R8mRX+5QvyzndPIx3EnsFVpW4VaB95/gw1e+6u6lRV5wyUQvo5+HOeRLdjLhmv5tQr0Ji57I7UyY4uiP+kv22QD8VCNJZT7S/MrVur5Io7ptwN3fa60jdQm9z9uFtQHfiGcWdaJR8sUaRJ9S2/5H9+0oBVxrE2np7/Oyy6lczNAbamGUvpfyEKI+PR2hXFsZso7tjDpSD5Se9lrIDOykJEZmUGmi6Gudi8ia0=;UbhgQ3ubxECU3SGJ20vy6w=="
 ---
 
