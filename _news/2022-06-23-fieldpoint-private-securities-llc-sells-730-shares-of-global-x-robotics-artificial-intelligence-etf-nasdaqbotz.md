@@ -5,12 +5,7 @@ excerpt: "Fieldpoint Private Securities LLC lowered its holdings in shares of Gl
 publishedDateTime: 2022-06-23T08:58:00Z
 originalUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
 webUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
-ampWebUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
-cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
 type: article
-quality: 67
-heat: 87
-published: true
 
 provider:
   name: ETF Daily News
@@ -20,39 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ"
-    width: 650
-    height: 350
-    isCached: true
-
-related:
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Purchased by Flagship Harbor Advisors LLC"
-    excerpt: "Flagship Harbor Advisors LLC raised its holdings in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% in the first quarter, according to the company in its most recent filing with the Securities ..."
-    publishedDateTime: 2022-06-25T09:57:00Z
-    webUrl: "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 63
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks7.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Acquired by Flagship Harbor Advisors LLC"
-    excerpt: "Flagship Harbor Advisors LLC increased its stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% during the first quarter, according to its most recent filing with the Securities & Exchange Commission."
-    publishedDateTime: 2022-06-25T09:56:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-acquired-by-flagship-harbor-advisors-llc.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 24
-
-secured: "wPOYQCfZ35eyfA2Wf9k1wgFF843k3jSgo3XFD8rud/z91a1xnyifCUCa1cDyn1HCpD2qO1bZZ8ebFdAequXVr0VUWEVbPpmm3mD3UZ+hd52RR93mGdXgyT2Y9kwH136GP92t5BwPOpyjF8EOfqkpj9jn6z+YIdCpmLBzf/ZO8cIlxHxRSyBmUvacpP7yXDjM9Pz8CFL4f4otSkm52tT/4M6mNVnjjupNok5jRu52/qJFei1HaYQPi2M0xQTuvrK833Jfp1+WXLE1ksUQjpgbx0kdIY7tIDzZrHOB8q/hpAfNDR6jCnqjmKgnwmFPyUM4NcpNbEOG5UmyRW0PCyxGMnVJuf9ZrgT6GJ3za2Zn1sk=;LrVcAXXCVLxQL66HcJ4fJQ=="
+secured: "cIWiYglCrDKtjlxrqpsmOWfOgqxpxc32f7b4OnFjTuFtvS9cSsi4eSl9f7RDG++/qxwcKmtGyG3CCz5chkTErsyHffPbV5KAwyAL5Ps9HuOGjJDhpRDjeV9rzW2SOxuU/G5sGdMyix//eWYgMxw+48+owd53P4B57BbAVa/O7UslIGIgLa249VKWdsTB1zutW1yfNpidsnf+Ry3H8G/SgcJLIXW9+QxV6VB/sUd04F8rmLmbCpcCgvab9WTqTPkDkzztUCmSvJc0Il58telVfsecI4pRp455jxK51dAX2F4Ho/ef68+2Qq93cmZMNj2qekWxgcHXa+Bb5H9CMw00JD0pWNhRyW7peL8PuVac27Q=;KNSKfaS0Mwvayosfi8a0pg=="
 ---
 

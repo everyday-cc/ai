@@ -5,8 +5,6 @@ excerpt: "EDM can help in this context as a form of supervised machine learning,
 publishedDateTime: 2022-06-20T19:53:00Z
 originalUrl: "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html"
 webUrl: "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.html"
-ampWebUrl: "https://phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-hybrid-machine-lake-ecosystem-responses.amp"
 type: article
 
 provider:
@@ -18,12 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hybrid-machine-lea.jpg"
-    width: 2880
-    height: 1620
-    isCached: true
-
-secured: "2ioDWtjhulummVybxbxfqMoIPq8sHyCUy2YA5qbb9Tkz0KghZoQ6ZtGAf+qysWA4YQ3nNKF8K//V3tIDjzBurgw1KzP6e8UIILbNyopDLGGXmctnziTzYwoapbp7eNJBamTqc0wO+GnSF0qBabLNnJkk4NvjncsFM4rziOFTlvqmBWgIXFvlkHAugk7Rirla3Eea0dxStKLBubPJS56nc0Ib9vVqzwCAWglOxPZoFmnBSwUaoQeSsnuJWN54O6t+5sebrJ5E0lRiolTrRg4ZLDu4WKd/5LexrhrJ1L49Y3F2dEn/kwgKDouvZVx/3cUGV6iXZWS9eTQ7COaXXAQF4IYWSzET+QKmntkjUp3Uehs=;OpOItY3SszAj9AyUt9RaAQ=="
+secured: "JNdxkPbghO/IuIqtkRMuJ81GMYIsuUUbLwPgL/rhNxMRDczNskbUoWc4Za7G7pN8NjusjfiZ/7r6KaW1b0zkOORjtDXOt9yOzBnuN+QA3JcbZfkffDrjyMT6V0Jgm8y7g81xOh4+5L6IzqlZ+GlxqEP1DFMeZ8J1w4Q8Yul5LVK38L1HqciVl8RCzASge31XEDFYhWVTw7IuDpE59R1lXXmqSiMk6tNzALtmrG3e7jEtinFjPgcDmsSsuPR+nxkugg5D5zZTL0w+Xe5tH6y+4go7Q7yexYzqtEYXNwbR2Sk6CUiNilLA0vCViCm1h1l8x4A5CVIO7OnSK0PbXIg5q8S8olq4FLJHRW2u4cedQhc=;RpbwJMOGi+AH2ZPHmh8cLQ=="
 ---
 

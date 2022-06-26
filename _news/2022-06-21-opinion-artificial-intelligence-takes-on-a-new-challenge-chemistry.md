@@ -1,26 +1,19 @@
 ---
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
-excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million ..."
-publishedDateTime: 2022-06-21T10:10:00Z
-originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
+publishedDateTime: 2022-06-21T14:00:00Z
+originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - AI in Autos
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
-    width: 1800
-    height: 1203
-    isCached: true
-
-secured: "6mQ1RgJGHAzJ2AQyh8fCi8p+AqumV6I1gxblDZTyc1HzQaYQQmncoZturuOTHPOuCmoGb9JZAYbpheyMBlq21bd+UzkUuedwOSh9LoAniAmoL+Stv5CK9eoufG1wrnLPzBnlqbiDowFj7gsOWHnmCGp+6vVmBFjyt8WGzfXzdGboflw3HoHPQ9Nwwu3PPRVZVVCCJ1VRpAuFe5zMK46RuGDCBFHViCFOzRvX2/5aqnwO0Dk0RSHYXvVhl1oMgt72xH+qOfmmc5chrAUGtCbP1HoMbPFtU/xHxJBCjZVS93OHv1jRf3uVzyB1n8ZjlnQyLsfvDGL1ZNNtq+HANzoehoG2D4MWKGME50mMZD7pM0g=;h3dK5Pzo9dFnicLBN9jsEg=="
+secured: "MgN1eKUzWnGbMnpUv1/XGwheefnp+bhx4QkWQ4w8EMjfnzKHraN1Ry3VyT5YTyBj4nDpbodqtNCVVsERfoR5UVbQaEwRfrwuC+9aWci5ArQpBkG/IOSTnKvLuvIrVPise3QyWdZBlXV+1SkjKUMoQk8sADEwcWcCd0PhqzCenzo+m4eteJyQgQpob+LK8ZDxWCm2PPhRZ4y3gTF666fvrVM5B8GAgEkg897UzB0sVg4YXVOm5YfIvkyvARnqFCfh100vn7UaDpFyftONcP7O81JlCTeQFO2V/DJbs3XWUKtxaPNdmS28wYxKr5gRvt7fqZS7H0q+m3CuM3tWEOfM0LQk/iUVlhAvy4VVdWKa4l/Ib9c2ZzlrrL0PTv3NfzeAxGzJGPvImFWaJ1P/1Vzbv1/PEWNLF7cIR5Psj7Teb9Xe2lRtS5n9FAnGRAJHc4aerivK7JQGIx9oRDWClQVO92V0TniQc6/dcg4JlHg+3f82HXQMzVOpdInaF7msWaawD55/BwixJlpLAMa+zIinTw==;r8A0eUyvP2HzjCKIfGqLug=="
 ---
 
