@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon unveils its 1st full self-driving mobile warehouse robot 'Proteus'"
-    excerpt: "Amazon has unveiled its first fully autonomous mobile robot, Proteus, which is meant to move large carts in its warehouse and can safely navigate around human employees. It also showcased a prototype of a robotic arm,"
-    publishedDateTime: 2022-06-22T11:17:00Z
-    webUrl: "https://inshorts.com/en/news/amazon-unveils-its-1st-full-selfdriving-mobile-warehouse-robot-proteus-1655896634812"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/amazon-unveils-its-1st-full-selfdriving-mobile-warehouse-robot-proteus-1655896634812"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/amazon-unveils-its-1st-full-selfdriving-mobile-warehouse-robot-proteus-1655896634812"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 60
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/06_jun/22_wed/img_1655893977291_219.jpg?"
-        width: 920
-        height: 613
-        isCached: true
   - title: "With new warehouse robots, Amazon looks to invent its way out of its safety problems"
     excerpt: "Other robotic systems shown for the first time included “Cardinal,” which uses AI and computer vision to select and lift ... and expects Cardinal to start rolling out to its fulfillment centers next year. Another new system, called AR ID, uses computer ..."
     publishedDateTime: 2022-06-22T13:46:00Z

@@ -41,15 +41,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Cerebras Systems sets record for largest AI models ever trained on one device"
-    excerpt: "Cerebras Systems said it has set the record for the largest AI models ever trained on a single device, which in this case is a silicon wafer."
-    publishedDateTime: 2022-06-22T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/22/cerebras-systems-sets-record-for-largest-ai-models-ever-trained-on-one-device/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
   - title: "Cerebras Claims Record for Largest AI Models Trained on a Single Device"
     excerpt: "AI computing company Cerebras Systems today announced that  a single Cerebras CS-2 system is able to train models with up to 20 billion parameters on – something not possible on any other single device,"
     publishedDateTime: 2022-06-22T15:48:00Z

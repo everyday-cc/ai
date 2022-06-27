@@ -55,6 +55,20 @@ related:
         width: 487
         height: 375
         isCached: true
+  - title: "How Are Fintech Companies Helping MSMEs Increase Customer Reach"
+    excerpt: "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ..."
+    publishedDateTime: 2022-06-27T05:51:00Z
+    webUrl: "https://www.entrepreneur.com/article/430266"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1656308376-joshuva-daniel-U4OS-GimdXA-unsplash.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "What industry-driven fintech skills are a need of the hour for aspirants"
     excerpt: "FinTech is a phenomenon that has been speeding the pace of change at a remarkable rate and redefining the industry’s status quo at the convergence of business and innovation. It’s hard to envision a"
     publishedDateTime: 2022-06-23T10:12:00Z

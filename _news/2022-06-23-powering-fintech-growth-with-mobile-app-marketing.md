@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/industry/p
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-1-7.png"
         width: 487
         height: 375
+        isCached: true
+  - title: "How Are Fintech Companies Helping MSMEs Increase Customer Reach"
+    excerpt: "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ..."
+    publishedDateTime: 2022-06-27T05:51:00Z
+    webUrl: "https://www.entrepreneur.com/article/430266"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1656308376-joshuva-daniel-U4OS-GimdXA-unsplash.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "This entrepreneur exceptionally personifies FinTech with AI"
     excerpt: "With the motive of helping people understand the complicated yet powerful FinTech tools by providing accessible and quality education, Dr.Clemen Chiang founded Spiking.com"

@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "1.5TB microSD card introduced by Micron"
-    excerpt: "If you are searching for an extra large microSD card for your camera, vehicle dash camera or action camera, you might be interested in the latest storage"
-    publishedDateTime: 2022-06-22T11:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/1-5tb-microsd-card-22-06-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/06/1TB-microSD-card.jpg"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Micron unveils 1.5TB microSD card"
     excerpt: "Micron has revealed what it says is the world’s first 1.5TB microSD card. It announced the new i400 microSD at the Embedded World 2022 conference in Nuremberg, Germany, Gizmodo reported. Micron’s i400 microSD card has no release date or pricing details yet."
     publishedDateTime: 2022-06-23T11:37:00Z

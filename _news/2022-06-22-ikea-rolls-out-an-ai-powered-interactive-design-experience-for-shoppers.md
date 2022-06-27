@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-inter
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "IKEA launches AI-powered design experience (no Swedish meatballs included)"
-    excerpt: "IKEA launched IKEA Kreativ, a new design experience powered by artificial intelligence (AI), meant to bridge the e-commerce and in-store customer journeys."
-    publishedDateTime: 2022-06-22T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/22/ikea-launches-first-ai-powered-design-experience-no-swedish-meatballs-included/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
 
 secured: "RB/FaFccgbhvYNJpup1p1RX1UQaJanc7zw6Xmv/zeY+oF/JUtsdm9I0HvW22x1762NdHCFUMc8/G/e4T572MAfNOruUfU8HwuoE3sQCgRqh+qzwdh6aRCtGFtgr7qpjYgP/9h7asp6A9yn9duKl/1CYbjzVQkuevJX/b4NPIYhPsZMuz0JnzTPTs0rfPr4I9HRRMyscEfMwJnoHTvFW3JrFUcAwpoGYxktOEEztf6nfQI5SUjBqP4gWkmaE1T8TwhVppGYwKoJfHCVCrUpjSBlw7IqBlVZXqpH7q1zPo2fA09mcid4gidtN36NXf+fnhxjuinEZp7TC/AIJlW0gfIGLsnDP23e26UwWzNIdefaRpKYQwitizK+YtWFToOD103hntKdnRjtZ3qmL6Vti9Jt8swlACyzVFGRTnSk749I3bAfAhZLVFZrYPV+FpUi95yhVjvXSurQfi+/Wts/Vjb4ZPx1IaMAfbf9gbV1WvZJbsQ3SYVZ9PPpDuXphz8464/EyreN1VDUeFQegchc5a6w==;oFOWoVKx8iqTI1dPf8Mejg=="
 ---

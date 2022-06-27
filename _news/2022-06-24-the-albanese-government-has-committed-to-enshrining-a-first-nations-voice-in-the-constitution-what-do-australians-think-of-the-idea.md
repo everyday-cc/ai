@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "Australian retail giants targeted in facial recognition tech complaint"
+    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
+    publishedDateTime: 2022-06-27T03:58:00Z
+    webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Privacy, your face and the rise of facial recognition"
+    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
+    publishedDateTime: 2022-06-27T01:22:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
     publishedDateTime: 2022-06-27T01:47:00Z
@@ -43,17 +71,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Anthony Albanese to go ahead with Voice referendum even if Coalition refuses to back Indigenous body"
-    excerpt: "Anthony Albanese will put a referendum to enshrine a First Nations voice to parliament in the Constitution this term even if the Liberal and National parties do not formally support it. In an exclusive interview, the Prime Minister said he would adopt a ..."
-    publishedDateTime: 2022-06-26T11:20:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/anthony-albanese-to-go-ahead-with-voice-referendum-even-if-coalition-refuses-to-back-indigenous-body/news-story/ca9864bb1b97bd5ab9cfe36579d163e6"
-    ampWebUrl: "https://amp.theaustralian.com.au/nation/anthony-albanese-to-go-ahead-with-voice-referendum-even-if-coalition-refuses-to-back-indigenous-body/news-story/ca9864bb1b97bd5ab9cfe36579d163e6"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/anthony-albanese-to-go-ahead-with-voice-referendum-even-if-coalition-refuses-to-back-indigenous-body/news-story/ca9864bb1b97bd5ab9cfe36579d163e6"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 9
 
 secured: "V2Tibe54x9KzTHclyyjEqrVNQOk3Jnay80XFh9LvtBZNPY+hBPQ/M7UQwkHUdyOncmIpncJKpPqNMyjpXEsOmFPf0ib5UHSqqQg0tbcZg6jJcm2BgBFmkqW/PJOYbGovJSGjrBTT9QXGzl8UV998tz53FKYtsu9ny8QJ4JOEH20JOTgWWHzUs+TVPeMP/Bj31EUbgSCozM3so0k5Zrk44w3qr9P6ejXBxhr1vjtlgLMyFnntwd8m4QOYOIJrrqhLbM2IJhY+1xq9KwWjfeL/7tjTxhzwqRe6wnASATiVP2G86bTKJXDbSpiPS9pgZd7jMKgmTzqeZWV6I6A+Kzf88wlTXaccloTdfu1TAti34lZq7flZgFosgsUjdigECPKnL0tq/+bu7gpcTmTtnAMYi9FnKXY7chkuFfoOv+wawB35eiMDOUGhYX9R774pTrY1TpxzkX9xNYm2pmIu5FBUiM2Cd9jySAwID+t0hrvU0YZddirInFis0GMxJlpmxHeXPBitft4BcRkmA80f4YTyDQ==;FYhiS9DgQ5ihxR0mDh+zmg=="
 ---

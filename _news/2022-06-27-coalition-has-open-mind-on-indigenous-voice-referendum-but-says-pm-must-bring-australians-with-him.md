@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jun/27/coalition-has
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "Australian retail giants targeted in facial recognition tech complaint"
+    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
+    publishedDateTime: 2022-06-27T03:58:00Z
+    webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Privacy, your face and the rise of facial recognition"
+    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
+    publishedDateTime: 2022-06-27T01:22:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "The Albanese government has committed to enshrining a First Nations Voice in the Constitution. What do Australians think of the idea?"
     excerpt: "The Voice was proposed in the Uluru Statement ... Support for Indigenous constitutional recognition is clearly strongest if believed to be likely to deliver practical benefits as well as its ..."
     publishedDateTime: 2022-06-24T02:12:00Z
@@ -47,18 +75,7 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Anthony Albanese to go ahead with Voice referendum even if Coalition refuses to back Indigenous body"
-    excerpt: "Anthony Albanese will put a referendum to enshrine a First Nations voice to parliament in the Constitution this term even if the Liberal and National parties do not formally support it. In an exclusive interview, the Prime Minister said he would adopt a ..."
-    publishedDateTime: 2022-06-26T11:20:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/anthony-albanese-to-go-ahead-with-voice-referendum-even-if-coalition-refuses-to-back-indigenous-body/news-story/ca9864bb1b97bd5ab9cfe36579d163e6"
-    ampWebUrl: "https://amp.theaustralian.com.au/nation/anthony-albanese-to-go-ahead-with-voice-referendum-even-if-coalition-refuses-to-back-indigenous-body/news-story/ca9864bb1b97bd5ab9cfe36579d163e6"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/anthony-albanese-to-go-ahead-with-voice-referendum-even-if-coalition-refuses-to-back-indigenous-body/news-story/ca9864bb1b97bd5ab9cfe36579d163e6"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 9
 
-secured: "4lPLmLcbx66RDcUvPDWNLpQF0vM/wUrL2PofKERxg4OlFKnUHVcwbjzjpkgmz6PVYiGUrZMG7opvjtTZe0HBajp4xeEDvM6R+HbPtSQfsu8qNKpWB1XSbQSrqluS1o7Q0NzChkpmlMguZcxVgDEn53v0xz8YUXqSFo1f7sVyusMch9yaJDSVQHob/S6lhlEpQWp6Hdm36UgP+dOQmVAq+iTBD/7cfXOtUOYsd58vP3dnOw0DGz4kLNCJImvb0OiTwjpuPIiKIY6u6CiDaXuKLGDrPPCoIir7O7yTsTXmWQRHxVavlxak1xHtSa2wizVaBYla76iJ6vx8IgOBikMDz2GzsHgz2Mp+3HWWnvYRX5E=;WBTtLSI5OnK/sj4pGXG2Hw=="
+secured: "tFfbA/qToS60UmkKiWkXWom5Ose1FjcMAk1q5MfMpC/4uZ5cQc8JP9uJ/iCTt/lalAqhwmkFkq3kfezHZqjrP4S2aqG6ZpdIJtOonJosbmfNjwfYrs0ngq77jQu+ajynw4htA653uacQJ/naxTjAxcemyd0D+M3S8k5+NfX7DIfSDaByDAi+CK6Szv1PqiwkVQ5O2Prw5MmZ5eJcVN26T5dcRp+93LrTGPhNlGV/8CIHbyVeFsaxAPY9vF+xyODn1zQ2MXIfOvsar6aWtGtT2s9j+4eScF/YPQXqiQO7jiwxodnwgNJCJF9JZSnTtt610L3rCjhI2d4m+n29NyEv5qnHNuqAT9aUMEegfnc24c9kmqsXkoSGhifVVxKebN2LOfPiKPIYVpuIhQedBGYX8l7278jNtF/TT/wiripddYEk6kW7Pf9n0dYgLXcuaQ4iMbYm5K41CAs74rseTYylb/emIsbKT59IY0Oyo09j7FG44HLGQXADojdIoZ848kZmieRhpsyc7CRmPde4QfkQFg==;MQ/kz84oy2hJkLj5TzOz2g=="
 ---
 

@@ -66,6 +66,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "India's investments in AI to cross $880 mn by 2023: NASSCOM report"
+    excerpt: "Investments in India's artificial intelligence (AI) capabilities are expanding at a CAGR of 31.8% and are expected to reach US$ 881 million by 2023, according to NASSCOM's most recent study on the AI Adoption Index."
+    publishedDateTime: 2022-06-27T05:02:00Z
+    webUrl: "https://www.ibef.org/news/india-s-investments-in-ai-to-cross-880-mn-by-2023-nasscom-report"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 37
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
+        isCached: true
   - title: "AI adoption to add $500 billion to India’s GDP by 2025: Nasscom report"
     excerpt: "The adoption of artificial intelligence (AI) and data utilisation strategy can add $500 billion to India's GDP by 2025, a new Nasscom  report showed."
     publishedDateTime: 2022-06-23T12:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/research/how-ai-creates-photorealisti
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1195
         height: 616
         isCached: true
-  - title: "AI generates photorealistic 3D scenes and lets you edit them as well"
-    excerpt: "Now Eric Ryan Chan at Stanford University in California and his colleagues have created an AI model, EG3D, that can generate random images of faces and other objects in high resolution together with an underlying geometric structure. Personalised cancer ..."
-    publishedDateTime: 2022-06-22T12:03:00Z
-    webUrl: "https://www.newscientist.com/article/2325477-ai-generates-photorealistic-3d-scenes-and-lets-you-edit-them-as-well/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
 
 secured: "IaG2MaSd+u6dKttDcFsLIh43YYBm2k9nRm5DlihgM5a/g1UeOyFK8EiEqjaeRwAZmxwueMKDoKOKHf+Br5yyJqA1eDmgSvYoK3F1ckg4rWLQ39C3nuM9+Xk0uakwucP83FeXwhcaBihbpUWIzY5dIsMhh+LIDg1rPe6PaeygNJ9V+zLiz2ZW9vJIyPmDNsqv02EXCifjU9xCt8/wzvrHMizood4Fnx5/qCDkLZn5OpVtquFFPrkJzivjb1d9CaqH6BaooFDxr6wtLNqWuKW40yVh+rT/Jh2Lh6mMNeYXMgOLz8JwSKSTqg9DOzLO6o1CHOcZr0YUjRmBYQRaliXKHt9LzJdOTLX6Kx+e7wZOQGE=;6CCHXZb7Z93OS1tnAMExpw=="
 ---

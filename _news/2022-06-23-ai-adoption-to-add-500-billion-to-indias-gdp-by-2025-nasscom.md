@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.thehindu.com/business/Industry/p7sb3e/article53531387.ece/alternates/LANDSCAPE_615/NKV-AI"
         width: 615
         height: 383
+        isCached: true
+  - title: "India's investments in AI to cross $880 mn by 2023: NASSCOM report"
+    excerpt: "Investments in India's artificial intelligence (AI) capabilities are expanding at a CAGR of 31.8% and are expected to reach US$ 881 million by 2023, according to NASSCOM's most recent study on the AI Adoption Index."
+    publishedDateTime: 2022-06-27T05:02:00Z
+    webUrl: "https://www.ibef.org/news/india-s-investments-in-ai-to-cross-880-mn-by-2023-nasscom-report"
+    type: article
+    provider:
+      name: IBEF
+      domain: ibef.org
+    quality: 37
+    images:
+      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
+        width: 500
+        height: 665
         isCached: true
   - title: "AI adoption to add $500 billion to GDP by 2025: Nasscom report"
     excerpt: "AI adoption in Consumer Goods and Retail, BFSI, Energy & Industrials, and Healthcare can contribute 60 per cent of its potential to GDP by 2025, according to the AI Adoption Index"

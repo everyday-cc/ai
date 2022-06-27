@@ -55,15 +55,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "AI generates photorealistic 3D scenes and lets you edit them as well"
-    excerpt: "Now Eric Ryan Chan at Stanford University in California and his colleagues have created an AI model, EG3D, that can generate random images of faces and other objects in high resolution together with an underlying geometric structure. Personalised cancer ..."
-    publishedDateTime: 2022-06-22T12:03:00Z
-    webUrl: "https://www.newscientist.com/article/2325477-ai-generates-photorealistic-3d-scenes-and-lets-you-edit-them-as-well/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
 
 secured: "mkGgHTnijyqQMK1RyVmJw5Czk51Cnb8z3CT0GG/tXSHaVmGHVNGXJnF+HMfu9ztvuR1nxnto6tc8cZdvWtBEitG6tsxsZMXsiPX0NOIvpEGQbNLtdm0WWuIea0Jr9dXOPbi/E593dEYHzvWg7IxtGLv3EwhDMMHoVZ8QY3ovlQ4XjVm2slwo82iQdX1yEBHFGM03YWLEXNZ9a3itEiUcbUD0lciV/4JwbDXXhexztqy9fhZSRxm2iuCn2EiqZJ6Pg23GOzNGVxgogBAY+wfq1KTkxxqbHiGDQsYLcrtGSyXWiroiRUxncaGsCETLUrCYKT/mH5tAS+iFzS74DED9pBcoywj6l1SO4EzLQMq/kh0=;AQ4v2b8QCWYSkmo+N1HZTQ=="
 ---

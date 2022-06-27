@@ -53,6 +53,6 @@ related:
       domain: defenseworld.net
     quality: 24
 
-secured: "Ck+qvzwoZGRF2mtebXXNqLjAUSaHETso+RiRxrbvcXt4m80kVb/UlfhHiFkk5PATpzyDcl9wvwVjQYxsyy2pX5ayV3xTwIcvmIuL3FLJ+smap1qRMG7/eB+kqCrql4NDYHzU0awIlGBxlxosclBKAORKYtnINQt2pBDW7S+q0F8oWvdZyKdhB3s5RpzxblRBJec/Q/OIKs0XXD98Nv4qaL/hL3GHHGxpT7BPavekNIHonFTAnQFbgCbr+PfLhlEQ1i5P27sDfij3G2ciOuXMpZlxZYQHfovh2p8moi6s5+G02j7rxGtzH+BuH7v1jxVd6eZ5NTbVBfCvUlFVW/vjoaxkRwwsn9yDiObuawvF/Lk=;i+NLFWXbg9F6Sjo4kfJHBw=="
+secured: "j+LexIaDc6dgmdu/o0O882J9p2ZGUIjN+dxnKiW8UfM7jpyTzct6Z3yejh67D8J1XBWjmgwN/yA8ADtYS9yd1CfGr8BoWfaCt6lRtd9HF0/67QYlaBroezvZZZ1mX7M6rSpeyOYpEjXrHJvVNabNVF/V1PKjYRCkky9PJn7KPUQQaIK6pP3PQKHQPC9WDIC+qxxTOQAZdW22h4+T5Bpb6N3s2DbMAg75lkyWwG/qVmOZZ9zUWNWjiZ+cd5TNmEO4olTkliGSBkiP1X1j8DxpntjHGsBCWtiFHKJEQTgLPas/zJpRk9kMc3MTJMeccrmxIunK+td9K333CXpjnGNt/EDvOuEZGgj9bRbAtfnXV0E=;IxJDv52ZnaH+USTPq1ydAQ=="
 ---
 

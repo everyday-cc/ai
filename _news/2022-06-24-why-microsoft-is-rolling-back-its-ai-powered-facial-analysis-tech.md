@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
-    excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ..."
-    publishedDateTime: 2022-06-22T15:20:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 107
-    images:
-      - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI Weekly: Microsoft’s new moves in responsible AI"
     excerpt: "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ..."
     publishedDateTime: 2022-06-23T16:31:00Z
@@ -76,22 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Microsoft's AI spots ransomware attacks before they even get started"
-    excerpt: "According to Microsoft's 365 Defender Research Team, human-operated ransomware campaigns are complex and multi-faceted, which can make early detection very difficult to achieve  e"
-    publishedDateTime: 2022-06-22T11:33:00Z
-    webUrl: "https://www.zdnet.com/article/how-microsofts-ai-spots-ransomware-attacks-before-they-even-get-started/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-microsofts-ai-spots-ransomware-attacks-before-they-even-get-started/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-microsofts-ai-spots-ransomware-attacks-before-they-even-get-started/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/00fc1f311763d5d6c7e4c9acb76b6660710b3207/2021/09/10/ef7f8a3b-bf95-43dd-a96d-82b0316dba85/cybersecurity.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "Microsoft to Restrict Facial Recognition Capabilities for ‘Responsible AI’"
     excerpt: "Microsoft is eliminating some functionalities from its AI service. Microsoft intends to limit some facial recognition features for both"
     publishedDateTime: 2022-06-22T13:17:00Z
@@ -121,38 +89,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/kRuo7YkHKNPYGDwuLYL3C4-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft retires facial recognition software that recognizes emotion"
-    excerpt: "Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools, including retiring facial analysis tools that purport to infer emotional states and identity gender,"
-    publishedDateTime: 2022-06-22T11:31:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/microsoft-retires-facial-recognition-software-that-recognizes-emotion-article-92388826"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/microsoft-retires-facial-recognition-software-that-recognizes-emotion-article-92388826/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/microsoft-retires-facial-recognition-software-that-recognizes-emotion-article-92388826/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 78
-    images:
-      - url: "https://static.tnn.in/thumb/msid-92388826,imgsize-100,width-1280,height-720,resizemode-75/92388826.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Why did Microsoft retired facial recognition tool?"
-    excerpt: "Microsoft said that it will not provide open-ended API (application programming interface) access to technology that can scan people's faces and purport to infer their emotional states based on their facial expressions or movements."
-    publishedDateTime: 2022-06-22T13:02:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-s-facial-recognition-tool-retires-but-why-2022-06-22-786556"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-s-facial-recognition-tool-retires-but-why-2022-06-22-786556"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-s-facial-recognition-tool-retires-but-why-2022-06-22-786556"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 78
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/06/microsoft-1655902911.jpg"
-        width: 360
-        height: 202
         isCached: true
   - title: "Microsoft to discontinue face recognition as it updates AI guidelines"
     excerpt: "Amid the ongoing debate about the controversial use of facial recognition technology, Microsoft has announced it is retiring certain AI facial recognition capabilities."
@@ -228,15 +164,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "GitHub Copilot, Microsoft's AI pair-programming service, is generally available"
-    excerpt: "The pair-programming service is available for $10 per user per month or $100 per user per year. There are a couple of free options too."
-    publishedDateTime: 2022-06-22T12:19:00Z
-    webUrl: "https://www.zdnet.com/article/github-copilot-microsofts-ai-pair-programming-service-is-generally-available/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 60
   - title: "Microsoft is putting a stop to its sketchy AI emotion recognition"
     excerpt: "Facial recognition is a hot-button topic and Microsoft is now pivoting its AI projects by ending its emotion recognition technology. Microsoft is currently working on improving its ethics policies. Part of that update includes a new version of its Responsible AI Standards."
     publishedDateTime: 2022-06-22T14:52:00Z
@@ -251,22 +178,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Microsoft will REMOVE a controversial feature of its facial recognition tool that claims to identify emotion from videos and pictures – in major overhaul of its AI ethics ..."
-    excerpt: "Microsoft is retiring a controversial facial recognition feature that claims to identify emotion in people's faces from videos and photos. As part of an overhaul its AI policies, the US tech giant ..."
-    publishedDateTime: 2022-06-22T13:35:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10941433/Microsoft-retire-controversial-facial-recognition-tool.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 56
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/06/22/12/59383727-0-image-a-12_1655896439971.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Microsoft retires facial analysis capability under responsible AI"
     excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
     publishedDateTime: 2022-06-24T07:36:00Z
@@ -280,22 +191,6 @@ related:
       - url: "https://www.innovationaus.com/wp-content/uploads/2021/04/Identity_1892584579_OP.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "KPMG and Microsoft join hands to deliver advanced cloud-based tax technologies for c-suits"
-    excerpt: "As part of their multi-billion-dollar global alliance, KPMG and Microsoft are making significant investments to deliver advanced cloud-based tax techn.."
-    publishedDateTime: 2022-06-23T10:01:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92409534,imgsize-10914,width-1200,height-628,overlay-etcio/kpmg-and-microsoft-join-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Microsoft retires facial recognition tool that identifies emotions"
     excerpt: "Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools, including retiring facial analysis tools that purport to infer emotional states and identity gender,"
@@ -315,47 +210,6 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 38
-  - title: "The Obama's have a new podcast deal, Microsoft facial recognition tool, and Amazon's new robot employee"
-    excerpt: "The terms of the deal have not been disclosed. Changes are in the works for Microsoft's facial recognition tool, amid criticism of its ability to identify a person's age, gender and emotional state. The facial recognition features will stop being available ..."
-    publishedDateTime: 2022-06-22T12:20:00Z
-    webUrl: "https://www.wdio.com/good-morning-northland/obama-podcast-deal-microsoft-facial-recognition-amazon-robot-employee/6506327/"
-    type: article
-    provider:
-      name: WDIO
-      domain: wdio.com
-    quality: 37
-  - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
-    excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
-    publishedDateTime: 2022-06-24T18:09:00Z
-    webUrl: "https://menafn.com/1104428195/Microsoft-To-Phase-Out-Public-Access-To-Controversial-Facial-Recognition-Tool-Breezyscroll"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-  - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
-    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
-    publishedDateTime: 2022-06-26T20:30:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-xbox-cloud-gaming-keyboard-mouse-support-and-latency-improvements-facial-recognition-platform-curbs-and-more"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 25
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
-        width: 1365
-        height: 768
-        isCached: true
-  - title: "Microsoft to retire facial recognition tech that can detect emotions, limits access to facial recognition services"
-    excerpt: "Microsoft is “retiring” facial recognition capabilities that infer emotional states and identity attributes such as gender, age, smile, facial hair, hair, and makeup, the tech giant has announced. It is also limiting access to facial recognition services."
-    publishedDateTime: 2022-06-22T12:39:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-to-retire-facial-recognition-tech-that-can-detect-emotions-limits-access-to-facial-recognition-services/article65553294.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 14
 
 secured: "MBZIcHHcWz1qvTiSWglJ52ph+mhfgn3OEodHleuamZkUyGIMSe3Hu+tKPildzWxGh/yaaVG0naDz4r4idutRYp+KR3IHWUnzAxAaWHMVnAqpTPOeRoy5bj5nCN78x9uvKTDg+dezbp5zDvXK4XkwD5nTJh/VeQPh/lnyeYe0z4IGRbBVJpMrVY2w7zGsJfMwLKf3g9u+JMWEXDWGFW5EWFSGUddtD5MWFkROvnmNFh7mLDiIFl/5s1Tf5dqXw1rhpfJ9ukzRBRfLWr3dvXTQ3JaNZFWX5SVk+Q2D1nCWeha2yA3VTspAVL/ymCb1LEbF7zTXfuqzx7DsJe+/sHkVCHhS9TktD5KnHb5RNLNW/b5D3292sqtPtQ3dih+WtKlz65YkqBwI8Paljpwr8EkBOW+J7qTW7jJrZ9Mf8XNZymSul4cBnZMeWLGiGjXbzlm7zGOHLPJ0P1KxIhKYhWnZcXUIqvXpmJZKbax2k51Ip2VmZaeOHLIIO4FPfa4GcIGRJQq7esLx6sGHoykGML0KCw==;RGKeD45mhM5VTzPzUW7VFA=="
 ---

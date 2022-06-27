@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "John Deere: Leading The Charge In Self-Driving Technology"
-    excerpt: "Mr. Hindman was hired in 2020 to focus on the company's technology enhancements, focused around connectivity, software, data platforms, applications, and even self-driving. Yes, you heard right ..."
-    publishedDateTime: 2022-06-22T11:47:00Z
-    webUrl: "https://seekingalpha.com/article/4519582-john-deere-leading-the-charge-in-self-driving-technology"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2022/6/21/5764111-16558427123565476.png"
-        width: 640
-        height: 250
-        isCached: true
 
 secured: "Xuj7gd3ULuwa162LNlJwEGuMkX0MES5RqEb0Veo21E0jhVslbq+HJIpzfl12GPlba7SkNstoH0xVGFHb1M2wrAQ8JGdRImn9mp+yslh6CZWU7MNeWfT+BXkj30st8MdMO+HskPw3J72xPCZggzA94eig+jXNIwY9DJY6hM7VB5jGXn8kWGIIIhU4/L34bNf2zN/F7celIYEO0uEyFmS1irJnXK8EH2HAsyHkTFsX0qJ1qD4r1/wj63S+Auv5H/oAe7yHNn7a4UuMaiktlE+Ov8xfxKcxhfgEQX5nb2D8AFdra2OC+DqIF39sqOVi2nxAa62t03+/TK9VbTGqlIRSNLIttsNWOmp+bA4qWKV3Z34xmf9Fodnnn2ERcn/+fiUwL2ITU+YsSa+ouLWBGm32F967bemDI8lKVV6vb1Z+jHc0DE+O6setDUKAV/OWrO9lqiUGsEEff1LULOtdESVoUb6EIUaKQ08+W4jK/IIUt1BMhwVNstBUTE2TXas5H6XMR6JLGT2QhvOiS+iVv6Bq+g==;tU7lJ15iL1yhUhlNWmTCag=="
 ---

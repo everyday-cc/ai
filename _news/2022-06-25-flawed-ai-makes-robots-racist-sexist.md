@@ -50,15 +50,6 @@ related:
       name: Georgia Tech News Center
       domain: gatech.edu
     quality: 34
-  - title: "Internet Data Produces a Racist, Sexist Robot"
-    excerpt: "Artificial Intelligence Workforce A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples’ jobs after a glance at ..."
-    publishedDateTime: 2022-06-22T12:57:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/06/internet-data-produces-racist-sexist-robot/368434/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 19
 
 secured: "VQssIWcdNRCp5qzW/zCtV7wFB1dk0AR37lWwcaA6XlgRzVriJH00d225QSKqsNZNTh5Bk+GeHWq2QdE50FCaAyOxZgAYZPif/W7X0xCZm4bU6TGAThv76aTZNvz4bgFiXSOd7A1uRoOEY5SMBuslCqdDBkXhQD4lZe6sjCwzpX8xQ0LXb2A7quorpEcXcs1T1KzkjksIazSjsr+qi8OwzQM98TymGJK3UQyi+pVPWYYg5QC673eRfRZvxDO6h+5qxzT3OnzS+V6HuOqScud5fZU0yKH0toEiRZbGQMaZ5St2IS43Pb2hgZm3uXPpbKtvYgDaUX6dFkInf7HTKOdkb0lbAMqVPhrAh2ZkV9WeoLLQ7dM5YPY29LzNgHgfyeuh+Zbnev3LJIKPlXal/63M6djvHrF6O87DNFt3h1GnmHK+vO0fmefUgAOIXQvaxhqECt4f+bByUomxymtnPfD4BgfeDLWzLlqFVQFa137s75qriAhUsBsPpjFpolIoMZzdTD+ip+VzSiYmtuszEn7U3Q==;sAEQ6tB2vbHlTDbtn2ZN+A=="
 ---
