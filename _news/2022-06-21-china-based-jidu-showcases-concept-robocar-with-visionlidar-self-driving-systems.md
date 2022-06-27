@@ -1,7 +1,7 @@
 ---
 category: news
 title: "China-based Jidu showcases concept robocar with vision+LiDAR self-driving systems"
-excerpt: "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only ..."
+excerpt: "Jidu, an EV joint venture of Baidu and Geely, showcased its first ... The concept car adopts both vision and LiDAR self-driving systems to enhance object and people detection."
 publishedDateTime: 2022-06-21T11:30:00Z
 originalUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10"
 webUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10"
@@ -21,6 +21,6 @@ images:
     height: 853
     isCached: true
 
-secured: "u2UkarGvIsIyHNj0Rni/HlP5z4lq7SJidiTOMBC/FQR/k6ygoe96XuNl/Oe1BHQkn6UHiVoD8JSxM5xKR5EEdAbYEBqtjPSs52usJsV54nQ7igSgspdagD9GcLDFM6Mi9INf0Sk+y29V1ysYX6xrsNHP/F0100th6ALjXY7lbv4BWWqfkbwolEq5HmQXZNJNAHVr42V8RkErUuracPyby2I52YT7xOZgoZxIWxcopNsTvnY4CQMbIwqu9Bf4WG7/pO9JVXoe/ymFFXCd6zdcMecGylQYvrjxlMXE1dN5nLfP2JYNYt1KgPn4A/KHv9HCeheIMDWb2o4+cxUi62A6ULmnNsO7Ra6pHgUtDN3WOZM=;nDmiySchOT+0wPxLhjph9w=="
+secured: "feseq6brqe353kNYUU+26C06RqOtx8aam5G6zwjzPzYEYwtg8DYr9ZKhP0F9Ol+VutDDuev8IyTSlbqqA3WzGH2lTL6RK4mPsi2AC5xoS7wicLvrnwRicCFZGu4s6142RdAHx/flrWkHdXcE9GVNSYyw8eEM5Sr0ZS5hiL+2dwqUqUlnpyOI3qymG9pQEIxskV/6HZVne3cItDkLCuB/RYHPhYq7Duyv/Cd6o6tvL3G08SFoBmwc3NTzOh6MGaMwel8WJQiIJKAv9a6DK0QaFzZpNOkveXz3VjH4mEgEernnRbG+ffHIqtSENhL5rYw6ESXaz17tbDqij1j00n3gxnh/HFR2gulwg46n+5JHGRs=;pRmFyx7wWsfK7Mdz4bvsOw=="
 ---
 

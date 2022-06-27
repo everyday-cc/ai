@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3665113/bharat-bytes-5g-subscr
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.amp.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,29 @@ images:
     isCached: true
 
 related:
+  - title: "Airbus Cybersecurity, Artificial Intelligence, and setting foot on Mars"
+    excerpt: "How can aviation become more sustainable? When will the first human be set foot on Mars? Cyber security and artificial intelligence at Airbus"
+    publishedDateTime: 2022-06-22T22:20:00Z
+    webUrl: "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 52
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/06/ILABerlin.jpeg"
+        width: 2480
+        height: 1654
+        isCached: true
+  - title: "Tech jobs: These are the 10 most in-demand developer, cybersecurity and cloud roles"
+    excerpt: "CodingDojo scoured hiring data and employment stats to uncover the hottest tech jobs of 2022 and their earning potential."
+    publishedDateTime: 2022-06-23T12:07:00Z
+    webUrl: "https://www.zdnet.com/article/tech-jobs-these-are-the-10-most-in-demand-developer-cybersecurity-and-cloud-roles/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 28
   - title: "The following are three reasons why you should consider using AI-based cybersecurity products"
     excerpt: "Threats to cybersecurity are rising at an incredibly rapid rate. Nevertheless, companies’ and their cybersecurity’s hesitancy to integrate artificial intelligence (AI) into processes reliant on humans is inhibiting,"
     publishedDateTime: 2022-06-26T06:23:00Z

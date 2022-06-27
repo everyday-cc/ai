@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-27T00:00:00Z
 originalUrl: "https://www.washingtonpost.com/business/ais-next-big-thing-is-fake-data/2022/06/27/d1a2e4f0-f5d6-11ec-81db-ac07a394a86b_story.html"
 webUrl: "https://www.washingtonpost.com/business/ais-next-big-thing-is-fake-data/2022/06/27/d1a2e4f0-f5d6-11ec-81db-ac07a394a86b_story.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"

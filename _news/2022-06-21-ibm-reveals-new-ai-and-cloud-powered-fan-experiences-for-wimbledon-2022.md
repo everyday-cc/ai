@@ -2,14 +2,16 @@
 category: news
 title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
 excerpt: "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ..."
-publishedDateTime: 2022-06-21T09:30:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
+publishedDateTime: 2022-06-21T05:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27788438/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27788438/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/27788438"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788438"
 type: article
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
@@ -21,6 +23,6 @@ images:
     height: 258
     isCached: true
 
-secured: "dKQ5gf1eIHHs9+eurEXk4mV8ATzwN2tabnsqgoktSTyICOH75H/DC/NzCVGn5WHknPlG0Swd3oArCl+sapY6AUQdn4gVu1CbZAK1UCbJhT+jghIO1fzgYNosw8ccRAvh5LOPtTXn+qvMO9zcF88yzQxliZeE4icxM/cNI0qG90RA4Kn11u3HZBPSoy+0u5+A8oMLjF97N02geXLURWHBFb06YqJ1BxTDkVxhzWUYEcLknVIBZJMdn5O21x8xfSjKv/t/ESvIGixS+DzWJW1HyFfrJfQi2JJD/TwV4iyZ1dQ9K9xkkv5JRpcUTJara9B8U1F2gcbxR2wBg9FTyVVVSwbznL4FIJg0Y9/v+V4R+bM=;WP99gj7W2032+nAPyaqlnA=="
+secured: "X+eSx5zJrcv+T77qPIe4wVvJnf8xWehMFV7N8y80DaFjvDhqXHViTCRaZ+T/Jjb0S6UjTwqChH3/dypzQirfAImWnHL+d2RU5aV1DNFRN3/DUHOGemqeiPS1FmJ8XFPeLpq0o6Vd/qoZLExPdF7rgM6AFopYtckZ5DF8u185vPLYcN4mywOn8dTFUnKvwtuM+6ZsCwbmlkuPuAnL+1tWNKlLVdrH2EEy13yRc9YhDB7slGG3xGpSIdTtg0Jtp/nyg2AKgDydh+7jSH2LTi7Js5Sei8cfSMj4IOpYjtQwSpJUHEp0Oymk2SQ56lU06DKCfwdt0Tn5k8NkvituOevTmsQ5HzTfgE9dnxRZ7j8ZrPg=;BFl9uoVQ0HEAdb+H6nvi1Q=="
 ---
 

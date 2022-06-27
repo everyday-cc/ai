@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "A Google engineer says AI has become sentient. What does that actually mean?"
-    excerpt: "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth."
-    publishedDateTime: 2022-06-24T08:00:00Z
-    webUrl: "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6498068"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068"
+  - title: "Suspended Google Engineer Claims LaMDA AI Can “Escape Control”"
+    excerpt: "Google engineer Blake Lemoine caused a stir earlier this month when he claimed that the search giant’s LaMDA chatbot has gained sentience. Following his claims, Google put him on administrative leave for violating its confidentiality policy."
+    publishedDateTime: 2022-06-27T07:33:00Z
+    webUrl: "https://www.gizbot.com/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 56
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 57
     images:
-      - url: "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Has artificial intelligence (AI) come alive like in sci-fi movies? This Google engineer thinks so"
-    excerpt: "If you have ever interacted with a chatbot you know we’re still years away from those things convincing you that you are chatting with a real human."
-    publishedDateTime: 2022-06-25T05:30:00Z
-    webUrl: "https://www.techzim.co.zw/2022/06/google-engineer-says-lamda-ai-has-come-alive-like-in-sci-fi/"
-    type: article
-    provider:
-      name: Techzim
-      domain: techzim.co.zw
-    quality: 39
-    images:
-      - url: "https://www.techzim.co.zw/wp-content/uploads/2018/11/ai-man.jpg"
-        width: 800
-        height: 304
+      - url: "https://www.gizbot.com/img/2022/06/human-levelai1-1653461497-1656314967.jpeg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Google's AI chatbot hires lawyer as engineer put on leave after 'sentient' claim"
     excerpt: "Google scientific engineer Blake Lemoine claims an AI chatbot is displaying human emotions, but was suspended after sharing a transcript on online platform Medium"

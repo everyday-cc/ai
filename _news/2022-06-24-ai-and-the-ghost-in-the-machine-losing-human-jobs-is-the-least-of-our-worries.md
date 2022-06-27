@@ -22,15 +22,20 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "AI 101: The strategies behind creating and deploying machine learning"
-    excerpt: "Whether we refer to this field as \"complex information processing\" or \"artificial intelligence\" (or the more ominously Skynet-sounding \"machine learning\") is irrelevant. Immense amounts of work ..."
-    publishedDateTime: 2022-06-22T13:04:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/06/ai-101-the-strategies-behind-creating-and-deploying-machine-learning/"
+  - title: "How machine learning AI is going to change gaming forever"
+    excerpt: "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca"
+    publishedDateTime: 2022-06-23T17:00:00Z
+    webUrl: "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jwGCkebiO5clePpEOkRkR6aR5rqUaNCxSCjUWS77xZPkccBrNfn90dRWwq2BHLO2fSGW3hO1OGNmQPDt0QR0EaOgSk8HvmQouDLEKzQtjok3SkBFNL1S1sjZy0X8aYpIY56xgYLeWNM4OYBVYazdM3mv7ZQmKwOk53Z6dLnva18Ta1LD0RrFWBqDlySfPmw0qTxlWFDWdrSi9k+UBhqwGPHGNISUEtRNjEPfR1v1YJWw2oMgKYPmSCZ92SsgfT2bkuSURaAtUJ5njcNhhTDpgOo3hx3pWvMgmao74aULdeLDPqExxAOZL+/LUWi7m6PlmtatxfmPNCQgs2XPn+X69uPU1AEkr7+dySm//FCoQRa1b9rTGW/rRJsFINVYwVbzgt2PV7hOOn5yrNwKT2B+HtjqP6zp9X6Vj34/S6ZQxHQ0TmyAakXzeVFmde+pityLsLTxf/HitUI+sJObz3H9VNk2kyCzSfJl1M9JIn7jJAugBZbsZjXrvLHOXOLyTqzTPQs2TGDojsK9OcdDvmnODA==;dH0TBezoJDmIleLNjo8SRA=="
 ---

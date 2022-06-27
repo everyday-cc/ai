@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-s
 cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: pcinvasion.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI: The Somnium Files nirvanA Initiative is a bizarre anime nightmare"
-    excerpt: "Depending on the person, it begins as either the most exciting or most horrifying episode of \"Jeopardy!\" ever made."
-    publishedDateTime: 2022-06-22T14:32:00Z
-    webUrl: "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare"
-    ampWebUrl: "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true"
-    cdnAmpWebUrl: "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true"
-    type: article
-    provider:
-      name: KGUN 9
-      domain: kgun9.com
-    quality: 57
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/40a592b/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2F52%2Ff914e2ee4c3d9a7a252731ec441d%2Fai2-storytrailer-4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative — Naix office puzzle solution"
     excerpt: "Want to know how to solve the puzzle in the Naix president's office in nirvanA Initiative? We've got the solution in black and white."
     publishedDateTime: 2022-06-24T22:31:00Z

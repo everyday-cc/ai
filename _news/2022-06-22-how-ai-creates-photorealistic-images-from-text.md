@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/research/how-ai-creates-photorealisti
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310293181/image_1310293181.jpg?io=getty-c-w750"
         width: 750
         height: 563
-        isCached: true
-  - title: "Deep learning accelerates super-resolution photoacoustic imaging"
-    excerpt: "A multinational research team has used deep-learning technology to dramatically increase image acquisition speed without sacrificing image quality, for both photoacoustic microscopy (PAM) and photoacoustic computed tomography (PACT). The artificial ..."
-    publishedDateTime: 2022-06-22T14:17:00Z
-    webUrl: "https://physicsworld.com/a/deep-learning-accelerates-super-resolution-photoacoustic-imaging/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2022/06/photoacoustic-featured.jpg"
-        width: 1195
-        height: 616
         isCached: true
 
 secured: "IaG2MaSd+u6dKttDcFsLIh43YYBm2k9nRm5DlihgM5a/g1UeOyFK8EiEqjaeRwAZmxwueMKDoKOKHf+Br5yyJqA1eDmgSvYoK3F1ckg4rWLQ39C3nuM9+Xk0uakwucP83FeXwhcaBihbpUWIzY5dIsMhh+LIDg1rPe6PaeygNJ9V+zLiz2ZW9vJIyPmDNsqv02EXCifjU9xCt8/wzvrHMizood4Fnx5/qCDkLZn5OpVtquFFPrkJzivjb1d9CaqH6BaooFDxr6wtLNqWuKW40yVh+rT/Jh2Lh6mMNeYXMgOLz8JwSKSTqg9DOzLO6o1CHOcZr0YUjRmBYQRaliXKHt9LzJdOTLX6Kx+e7wZOQGE=;6CCHXZb7Z93OS1tnAMExpw=="

@@ -43,20 +43,6 @@ related:
         width: 1300
         height: 869
         isCached: true
-  - title: "Deep learning accelerates super-resolution photoacoustic imaging"
-    excerpt: "A multinational research team has used deep-learning technology to dramatically increase image acquisition speed without sacrificing image quality, for both photoacoustic microscopy (PAM) and photoacoustic computed tomography (PACT). The artificial ..."
-    publishedDateTime: 2022-06-22T14:17:00Z
-    webUrl: "https://physicsworld.com/a/deep-learning-accelerates-super-resolution-photoacoustic-imaging/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2022/06/photoacoustic-featured.jpg"
-        width: 1195
-        height: 616
-        isCached: true
 
 secured: "9hUq9tEb8KVEheT12PqbjKD6J8gEz28Aow/SgvbEdNuyPf9ltBmGW1iNB3FEYOBZb6zeDxMsdLkPTV4bI+7HBJ7tyv+flVkuVkyMA5u6dffnuvOF1hwH1bQ4yL2OASOJvgSuE57KGR1hzeozvuY7zsg8+QRbwKPBfY8bsElBK6IX7n4AovT5M1Lm3b3roYq3wdGbZmmKBANDSbSnTLEMESq5d5vsFSxJbGaXFUOxANRrGWAi1aKj/PUohL2xHdxGRAnzd0xAzpZyLX++3q7ZDgeG4Jp+1vL/3iAVuB6QnoKIsBhYZiuee/wEx769oDrcgZwr2vTOMuC6MpiyMuFfQjP13ndVfr5xG4UjT00jUzpYJjp4mH2fL48X+zVSG9sRI8uYZ2C+65w7/otvfRGY2+ozUNjp5yimF9f9cgWYgpxUuvZowy50hLn/84L79jWA7IoZdhoZTNze39l695t0vheobU3CUErL0cW7ZXO65Noa2IRLmav1wXiPK/ArUSFBpJgtX5pMJVOWMHDPSbGXMQ==;OKAlm9ZorPd6+L7KLuBWEg=="
 ---

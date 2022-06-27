@@ -27,17 +27,6 @@ images:
     height: 576
     isCached: true
 
-related:
-  - title: "Artificial Neural Network Helps Self-Driving Cars to Learn from Own Memory"
-    excerpt: "By using artificial intelligence to detect pedestrians, other cars, and possible impediments, an autonomous vehicle may go across city streets and other less crowded areas."
-    publishedDateTime: 2022-06-22T13:12:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13050"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 17
-
 secured: "UysmgZHmt3Q/guBSuR2LihS6CLp1PRh0NuzPS6CUrtEkJjd/TUeEsWUUlNtLA5H23b69qMKRsKAVnUjn2f4TmRrZEhpPF2f0v6yb7mm0tNoxz6+CzesO88MDD7Z68koDXDvdEjcoMzM9AV4dbizPeMcxe+i2V7pWVdbNnGaiB1RQUS1y4qgEavs7YyEJTdNL55doRcXZod7jFXXP+pyot39SQiI7Newj7o4Ok2AiNYjI3Jo8zryivNj69XhFidO0+fVil8ZTQ7H7ETgwb1FHNdvelROluTnQx1dGNWZrUDgLwVQgEHSqBBcBZjSDkRUvDtoOPE69yhjiYGaIrW29Sb9RHJTghfJHe5EGeSxkG4zkYTruPefSbWzidpJm0zxy+oDbyukPwaPvbkHDmAqGSnZ1vonV1YpzT3CN34bJmTtV7TE1NjEmeTi/Fd7fG/yR3I0OncS3GbGDFIovigQWe+pX5CZvysJG4Gx36EWkuxXqp0wOLSaS98NQFU30dtnI/r5P/1xJFflcC86cXyL5Hg==;mD9lHQHgmWB7vuQC5kDsDw=="
 ---
 

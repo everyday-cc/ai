@@ -68,20 +68,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
-    excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology ... people speak a native or foreign language powered by real-time accent translation. Headquartered in Palo Alto ..."
-    publishedDateTime: 2022-06-22T14:13:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220622NY96534/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 34
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
   - title: "Zesty.ai Named “Best Predictive Analytics Platform” in 2022 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "Zesty.ai, the leading provider of property risk analytics powered by Artificial Intelligence (AI), today announced it has been selected as winner of the “Best Predictive Analytics Platform” award in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
     publishedDateTime: 2022-06-23T15:35:00Z

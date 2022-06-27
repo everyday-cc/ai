@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Airbus Cybersecurity, Artificial Intelligence, and setting foot on Mars"
+    excerpt: "How can aviation become more sustainable? When will the first human be set foot on Mars? Cyber security and artificial intelligence at Airbus"
+    publishedDateTime: 2022-06-22T22:20:00Z
+    webUrl: "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 52
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/06/ILABerlin.jpeg"
+        width: 2480
+        height: 1654
+        isCached: true
   - title: "Bharat Bytes: 5G subscriptions; Retailers leverage technology; AI/ML for business resilience; Pharma firms invest in cybersecurity; India spends on AI"
     excerpt: "India to have 500 million 5G subscriptions by 2027 end. The latest Ericsson Mobility Report—the 22 nd edition of Ericsson’s network traffic insights and forecasts—says in In"
     publishedDateTime: 2022-06-26T21:30:00Z
@@ -40,6 +54,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tech jobs: These are the 10 most in-demand developer, cybersecurity and cloud roles"
+    excerpt: "CodingDojo scoured hiring data and employment stats to uncover the hottest tech jobs of 2022 and their earning potential."
+    publishedDateTime: 2022-06-23T12:07:00Z
+    webUrl: "https://www.zdnet.com/article/tech-jobs-these-are-the-10-most-in-demand-developer-cybersecurity-and-cloud-roles/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 28
 
 secured: "wkrv/5t2WN2abljuYe7uhD1ygN9/lr+orIm2BmtIXlUJC1VDf9ddeQBXPqxrMwUGTyV/W4jIaNB1O+4UFwFwdYFea4UFsPk6FWitc9ynzRDijXGAQ2ucgDzFRlSSI9tA3LvTI1Jd08qoI0W9s47Q8Zsih5du9xVo5qfMbOncHo34qxiCDuvWVGoEFEJSeZLBka8XU7P48VgJV8XE525DqczWR4KekQrNmTsy3L+kMQ/TpUrYg/GvqBNnoBtRW8Og72HOxTIECq9Fgr6i6ZXlikW/6cGRMALfrQ5b2CDsIPn5/UnFE3agMcuKVDhpW50yXtHKxUyppdGn2E0KsCgUh17NCp/njXn+GbQdJT6IDIM=;sdyP0pwFWSKXOaNWIGF5tw=="
 ---

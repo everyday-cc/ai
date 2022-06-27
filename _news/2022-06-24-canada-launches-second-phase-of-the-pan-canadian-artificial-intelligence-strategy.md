@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/canada-launches-second-phase-of-the-p
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/canada-launches-second-phase-of-the-pan-canadian-artificial-intelligence-strategy/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: India Education Diary
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Make Strategy More Human"
-    excerpt: "The power of AI is now within reach of all companies, opening up a new world of strategy innovation and enabling companies to leave the constraints of legacy architecture behind forever."
-    publishedDateTime: 2022-06-22T13:20:00Z
-    webUrl: "https://hbr.org/2022/06/how-ai-can-make-strategy-more-human"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
   - title: "Government of Canada launches second phase of the Pan-Canadian Artificial Intelligence Strategy"
     excerpt: "Artificial intelligence (AI) is one of the greatest technological advances of our age and has a significant impact on the daily lives of Canadians. AI is a driver of economic growth and good jobs, which is why the Government of Canada is committed to investing in efforts to drive its adoption across our economy and society."
     publishedDateTime: 2022-06-22T17:21:00Z

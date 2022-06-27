@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform"
-excerpt: "\"Sinequa is differentiating itself through its use of deep learning (artificial neural networks), by applying multiple deep learning models to provide more accurate and relevant search results ..."
-publishedDateTime: 2022-06-22T15:05:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm"
+excerpt: "Enterprise search leader Sinequa today announced the addition of advanced neural search capabilities to its Search Cloud Platform, providing unprecedented relevance and accuracy - at scale - to enterprise users."
+publishedDateTime: 2022-06-22T15:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform"
@@ -36,6 +42,6 @@ related:
         height: 552
         isCached: true
 
-secured: "WDJaQinBM/vyhjvnKmqsi/ulspotx4vGOPE4ooUcsVaGNm3ZtPsORTV8lhs7/OGXjd34De476j9U6HHZpEEk0Kmao8b/aZYDah89xAq1mL63cAlNEp/v4oEkmvu9TNADymNVkUjMgWBe3bjjXdUk3gXfVo9ZuE1URpZ2v7GSpEZEw1qEH0jFAa2fCnkFSgylNGPQ35E19sfQ7GaxOjQBQzu15NvPOGYDEDA6HEn0Tv0nwUCcF4LIeuDXoTs5eekswZ2FrBo007A2pb1XrhPOmwy2OPqbScRhdu9QT3mlknDQx5hSAH253oVGWFbWdFrsNOEXS/exbFPLMD94y4dcTYnSS1jgK3ZzO5WeR0jVywE=;oq3Jq3CxsrnTjr/AuUic7g=="
+secured: "dLs4hPn0HJWLjouvg1BpBesVRV0OrBCzoiNZSljood+XxvDIOK2+MOA+MCtC3snVqx2xJFdLx/R5Eah6arxqB8BTYqy8iuZoYYyD7dIvxuw1Q/fWGGp82n7dr07KjopsSz5T9EZnKzVb4qn6Syo+p6DNh7UroUElWYxsbcfbRIF4HuUQ/2o8f+FcN5O3YEzmznDpxxo7kW7aKjsm8LCx1ZoUYx1mtmMAW2eqbPKlQdSJuLVhf8UcFZHYCVRur2x/6HxaVUcAnJJqUTND0NxtqlQIOG2geD4liLsEm6dEYSF+A+eT1fYpY9YsB6jSnP9mNPejHQhHqR9jtF3OnzH/srxK2p2WuQEF0MM7itNr2Fo=;hYed/mLqEBU2kmvPiu6tRw=="
 ---
 

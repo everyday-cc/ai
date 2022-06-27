@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-24T01:00:00Z
 originalUrl: "https://www.theguardian.com/news/audio/2022/jun/24/artificial-intelligence-conscious-or-just-very-convincing-podcast"
 webUrl: "https://www.theguardian.com/news/audio/2022/jun/24/artificial-intelligence-conscious-or-just-very-convincing-podcast"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://i.guim.co.uk/img/media/38a743ed0b9dbdbb4c941d3cbcacfea5ffc2a0d7/913_947_3392_2035/master/3392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93aaeeb11c83668e97b4336479ce25fa"

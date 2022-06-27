@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-27-suspended-google-engineer-claims-lamda-ai-can-escape-control.md",
+      "title": "Suspended Google Engineer Claims LaMDA AI Can “Escape Control”",
+      "excerpt": "Google engineer Blake Lemoine caused a stir earlier this month when he claimed that the search giant’s LaMDA chatbot has gained sentience. Following his claims, Google put him on administrative leave for violating its confidentiality policy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html",
+      "originalUrl": "https://www.gizbot.com/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2022/06/human-levelai1-1653461497-1656314967.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html",
+      "publishedDateTime": "2022-06-27T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-australian-retail-giants-targeted-in-facial-recognition-tech-complaint.md",
       "title": "Australian retail giants targeted in facial recognition tech complaint",
       "excerpt": "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action.",
@@ -147,6 +189,48 @@
       ]
     },
     {
+      "path": "_news/2022-06-26-ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers.md",
+      "title": "AI: The Somnium Files – nirvanA Initiative — Somnium divergence answers",
+      "excerpt": "The Somnium Files – nirvanA Iniative, the game requires you to answer questions using knowledge gleaned from advancing your way through other routes. Obviously, you’re going to want to do the main story path first,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/",
+      "originalUrl": "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220614012347_1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/amp/",
+      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-somnium-divergence-answers/amp/",
+      "publishedDateTime": "2022-06-25T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pcinvasion.com",
+        "domain": "pcinvasion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-tesla-and-hondas-363-crashes-show-why-self-driving-cars-may-be-decades-away-from-safety.md",
       "title": "Tesla and Honda's 363 crashes show why self-driving cars may be decades away from safety",
       "excerpt": "The promise of self-driving cars remains unfulfilled, as the technology still requires drivers to co-pilot the vehicles to avoid collisions.",
@@ -240,6 +324,57 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-ai-powered-coding-assistant-aims-to-help-not-replace-developers.md",
+      "title": "AI-Powered Coding Assistant Aims to Help, Not Replace Developers",
+      "excerpt": "Instead, he said, the AI coding tool acts like a predictive-text feature on smartphones. As developers work, the tool suggests options for lines of code needed to execute given tasks, within a larger software program. Developers, who can also ask for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433",
+      "originalUrl": "https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-571472/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433",
+      "publishedDateTime": "2022-06-24T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1046,149 +1181,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-24-a-google-engineer-says-ai-has-become-sentient-what-does-that-actually-mean.md",
-      "title": "A Google engineer says AI has become sentient. What does that actually mean?",
-      "excerpt": "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth.",
+      "path": "_news/2022-06-24-amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives.md",
+      "title": "Amazon shows off Alexa feature that mimics the voices of your dead relatives",
+      "excerpt": "Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives. The company demoed the feature at its annual MARS conference ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068",
-      "originalUrl": "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068",
+      "webUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
+      "originalUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6498068",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068",
-      "publishedDateTime": "2022-06-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-canada-launches-second-phase-of-the-pan-canadian-artificial-intelligence-strategy.md",
-      "title": "Canada launches second phase of the Pan-Canadian Artificial Intelligence Strategy",
-      "excerpt": "Toronto:  Artificial intelligence (AI) is one of the greatest technological advances of our age and has a significant impact on the daily lives of Canadians. AI is a driver of economic growth and good jobs,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/canada-launches-second-phase-of-the-pan-canadian-artificial-intelligence-strategy/",
-      "originalUrl": "https://indiaeducationdiary.in/canada-launches-second-phase-of-the-pan-canadian-artificial-intelligence-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/canada-launches-second-phase-of-the-pan-canadian-artificial-intelligence-strategy/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/canada-launches-second-phase-of-the-pan-canadian-artificial-intelligence-strategy/",
-      "publishedDateTime": "2022-06-23T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-nigerias-oil-sector-looks-as-robotics-adoption-picks-up.md",
-      "title": "Nigeria’s oil sector looks as robotics adoption picks up",
-      "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "originalUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2017/11/How-robots-will-change-dynamics-of-shared-services-centralised-processing-1-1.jpg?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "publishedDateTime": "2022-06-23T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator.md",
-      "title": "Dall-E Mini: What You Need to Know About the Bizarre AI Art Creator",
-      "excerpt": "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "originalUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
+          "url": "https://cdn.vox-cdn.com/thumbor/InAzvn-WcHBy1UXFlR62QNMNS6g=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21989893/dseifert_201025_4263_0007.0.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1196,16 +1203,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/",
-      "publishedDateTime": "2022-06-23T15:26:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T19:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1221,6 +1228,7 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

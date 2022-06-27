@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
-    excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
-    publishedDateTime: 2022-06-23T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
+  - title: "Artificial Intelligence In Healthcare Market Size, Share, Value, And Competitive Landscape - 2022-2031"
+    excerpt: "Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market' in its database of market research reports which provides its readers an in-depth analysis on the latest ..."
+    publishedDateTime: 2022-06-23T09:43:00Z
+    webUrl: "https://menafn.com/1104420041/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Value-And-Competitive-Landscape-2022-2031"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357951"
+        width: 394
+        height: 250
         isCached: true
 
 secured: "hVS9yw5sQ/fzlTrE8Pj06yv+Y5mGGRAMeqf/b9knwiZLI4T7THARxZjcBXfwtT5AnvHXdkTQ2z/vM7B1Uie5Ei46S02A3+F75Hzt6InBR6rWGF37pcFAStoX+NZZXaWCD/o30jEk9UfNH0aGF8aUJ/VQOLoCrsTFDPeElVBHvcpdeW2mJMMLGEhx9BwFzvD2aDhxu6kE/OrrBCAsJ/UAlc4cGSg/OXs26Jy6gVJYpFt7uE9O/oym0Eb+1cPxIW7kNWsDZ5J0l8nup4HuBqcRYG6j8RiF2d0Qs9MMPRYr1S7qG0jC+YkkosJApIe9eyJvkESnaf1R8oYkOUpuH+MAgHtX8Ec22cwIYbw4lvJDaDA=;hELqJfizMBWFeJG+FY1lnA=="
