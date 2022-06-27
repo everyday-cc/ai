@@ -1,30 +1,23 @@
 ---
 category: news
-title: "Google engineer says artificial intelligence program is sentient"
-excerpt: "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself."
-publishedDateTime: 2022-06-24T12:09:00Z
-originalUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
-webUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
-ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
-cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
+title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
+excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
+publishedDateTime: 2022-06-26T22:20:00Z
+originalUrl: "https://www.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
+webUrl: "https://www.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
+ampWebUrl: "https://m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
+cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: NewsNation
-  domain: newsnationnow.com
+  name: Scoop
+  domain: scoop.co.nz
 
 topics:
-  - Facebook AI
   - AI
-
-images:
-  - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
-    width: 509
-    height: 339
-    isCached: true
 
 related:
   - title: "Debate over AI sentience marks a watershed moment"
@@ -42,6 +35,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all"
         width: 800
         height: 399
+        isCached: true
+  - title: "Google engineer says artificial intelligence program is sentient"
+    excerpt: "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself."
+    publishedDateTime: 2022-06-24T12:09:00Z
+    webUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
+    ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
+    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
+    type: article
+    provider:
+      name: NewsNation
+      domain: newsnationnow.com
+    quality: 59
+    images:
+      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
+        width: 509
+        height: 339
         isCached: true
   - title: "How Close Is AI to Becoming Sentient?"
     excerpt: "Sounds great to me, I’m in. Lemoine: A monk asked Kegon, “How does an enlightened one return to the ordinary world?” Kegon replied, “A broken mirror never reflects again; fallen flowers never go back to the old branches."
@@ -84,17 +93,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 45
-  - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
-    excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
-    publishedDateTime: 2022-06-26T22:20:00Z
-    webUrl: "https://www.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 37
   - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
     excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
     publishedDateTime: 2022-06-25T19:51:00Z
@@ -105,6 +103,6 @@ related:
       domain: techstory.in
     quality: 17
 
-secured: "rm4eitRNL9UfLHCn+O3Eozi+tlApArcN03LVfiB+qpWQxOgfv/dlv4kvb2japATBHfUoNF0+wj9+5tj4tzaxkoT2zXh8AOhj6jnxsSeUnQJcIvw+Qfb8sZ76jlVNF7y7F9Nc2LtoReiVcoed+jTIAu4bc7PyO1i70ubWAVdkmTYNj5PJCGuHEbn1s6opARAod7GSrVPOghnqJEGfC4IgAC3Dgm56VZZ0KszFm2Yukcr17QHqsOAxFtM3RFhwErPb/2GJ2ed4k1ePYZR1UlwIivadSGWQeyn+PyS0+b5YaUMeimWPxqtMOYSpE/UMiGuxyi1p2lYadw52AyjauEYNN4eEJSkkye9R1F/zqoW2nZw8mCffc6kQkSk9tsKYtuL9pNe+5+gpk/oeUvKqI2QTfPPrxOxXmd/chCJz8LFxOgeFxUb+9vjg5bmb7RG1Nm2hKcqjwW/kp2HjSAHutrpz8KNZAvJCKR20adl+zDj3Wj4yvdEza/M/w4kkjUJhSL+WbpKNcNAQBv8v6b7TpJxEMg==;NLM8GccMjecyval22PebKw=="
+secured: "dBKRPKZPKB/FWEkPBkX5VwEvabDAZRyL58nydBFkdYneHlDTEzGV8s4GZUePTapp81wQiZgmJFlp2RMVkyc4088UkLMsqZwD/5iOG2PXyKVaDLcaxPOhxebCIGurLp38YXTkM7EMNO5TRm8pkHzCqHQuF6GpIN7CnL7uUF+1iLycgK4Ja1l/ie0EE7LaSG4hQcC7DP8UP44GX3I7ci4KJRvB6Jj7uSVl/eRRS3kpHMC76aY8+TGVFAVM9IyhLV95IJDeEhuRTP5A2BJE0IVFv9C5CUG+tCAnL2lgou6js3IfUVQDX6D0jiKQqSNmXznj1r6gv8JS89Un1vjaTW2nF3Tsd25nn+NuqLf6TWeVd7k=;P8JI4D6c8C9OMR0Y+jnb9Q=="
 ---
 

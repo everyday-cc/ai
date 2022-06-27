@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-15-new-deep-learning-tools-can-help-us-win-the-cyber-war.md",
+      "title": "New deep learning tools can help us win the cyber war",
+      "excerpt": "For example, deep learning (DL) has helped make cybersecurity strategies more proactive and less reactive. DL is the most advanced subset of AI that currently exists and it’s a huge step forward ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC",
+      "originalUrl": "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2021/12/GreatwoodColDEC-e1638991220438.jpg",
+          "width": 1241,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-post-doctoral-fellow-in-artificial-intelligence-and-deep-learning.md",
       "title": "Post-doctoral Fellow in Artificial Intelligence and Deep Learning",
       "excerpt": "Applications are invited for appointment as Post-doctoral Fellow in Artificial Intelligence and Deep Learning in the Department of Medicine, School of Clinical Medicine (Ref.: 515364), to commence as soon as possible for 18 months, with the possibility of ...",
@@ -1369,59 +1412,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028.md",
-      "title": "Neural Network Software Market Size, share, and developments by type, sales channel, application, and segment estimates for the years 2022-2028",
-      "excerpt": "Jun 09, 2022 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

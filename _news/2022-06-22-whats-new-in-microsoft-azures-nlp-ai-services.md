@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cogniti
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
 type: article
 quality: 138
-heat: 418
+heat: 408
 published: true
 
 provider:
@@ -96,22 +96,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/00fc1f311763d5d6c7e4c9acb76b6660710b3207/2021/09/10/ef7f8a3b-bf95-43dd-a96d-82b0316dba85/cybersecurity.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 802
-        isCached: true
-  - title: "Microsoft Ditches The Controversial Facial Recognition Tool That Detects Emotions; Here's Why"
-    excerpt: "Microsoft has decided to restrict access to the face recognition capabilities made accessible through its AzureFace API."
-    publishedDateTime: 2022-06-22T06:07:00Z
-    webUrl: "https://in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why"
-    ampWebUrl: "https://in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 97
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/5e063cbb-467f-467d-9144-e03fb0b3c462_kf7x.620.jpg"
-        width: 619
-        height: 374
         isCached: true
   - title: "Microsoft doesn't want AI recognizing your emotions anymore - mostly"
     excerpt: "The Responsible AI Standard (opens in new tab) is Microsoft’s internal ruleset when it comes to building AI systems. The company wants AI to be a positive force in the world and"

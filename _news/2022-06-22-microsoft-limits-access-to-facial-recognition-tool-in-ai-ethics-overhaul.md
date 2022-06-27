@@ -97,22 +97,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Microsoft Ditches The Controversial Facial Recognition Tool That Detects Emotions; Here's Why"
-    excerpt: "Microsoft has decided to restrict access to the face recognition capabilities made accessible through its AzureFace API."
-    publishedDateTime: 2022-06-22T06:07:00Z
-    webUrl: "https://in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why"
-    ampWebUrl: "https://in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 97
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/5e063cbb-467f-467d-9144-e03fb0b3c462_kf7x.620.jpg"
-        width: 619
-        height: 374
-        isCached: true
   - title: "Microsoft doesn't want AI recognizing your emotions anymore - mostly"
     excerpt: "The Responsible AI Standard (opens in new tab) is Microsoft’s internal ruleset when it comes to building AI systems. The company wants AI to be a positive force in the world and"
     publishedDateTime: 2022-06-23T15:46:00Z
@@ -422,6 +406,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "d94kzeXruqbd9ZiZ3Yabcp+KRXtAq60kYXwWA0+Pcso5i9jUHxQupUGhj+CQFyj/InYtlZ+Jbxr09oWusPaszzS0fShzMoe+5GONs8AOBDu0e74hAMIHbWm6K0Qn2kngShL8TcdFSqpiitoG8eJcsnAWI+6pnwfmmxnQ6dd8FtYtfmvyzuXxRJ4b7uKN1m+UyB0s61TkiwcZ4UvX7jaGkDkCliJca8gi1lwMqy98OiBF3IkD0OvNV8wwtjDXsw0YblnWZ1t2dtOAM6Uo1mqAyeHax2uO9wOCcXLTMD2YcdOHg7d0SY0WH4istCUs734B0v0mhHE/aYPdiLs4IrSmumxkaTZEtnYngZZ/BHWA/uY=;6KTJbMEphbllHjmJvCOr6Q=="
+secured: "npdcRXp8F+cjqduR9GZZQtWaHLFIWOd5PfUmQ+zlnhbFtNhnwQG/5XAPqc8BVxjHIGVQDbRhHVyIvjf0GY6ZIVEt88pwSVItk/aRK6rW/AUJrO3pY1RHeK4xiuuDfhw+I94+iw/2jce+KuDXZku6a4DS2w4WHNZO9UaUDbqq4oTDAMQnGXIvqELQBdOUqBpr1APo+/pgNhkc3S4XAig92v5KnCynAD0thl+TzHO49ZPugJ4tQwwAsMopgd7Hs5NcvH/KOz0yhmWMx9TCQ7ofnTpa5gYbqHGMN5GlXiqt3QlhHhqteAsT3G4ran3zmsYpD2TWdm9D0Lt3P1QnRNzL2VmvZbciIoRsp+OAitYkbDo=;/PVC442POOy0PGqdL8/PiA=="
 ---
 

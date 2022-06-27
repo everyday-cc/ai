@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-18-how-to-successfully-deploy-robotics-within-an-organization.md",
+      "title": "How to successfully deploy robotics within an organization",
+      "excerpt": "Join AI and data leaders for insightful talks and ... The Association for Advancing Automation (A3) found that the number of robots sold in 2021 rose 28% from 2020, making last year the strongest ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/17/how-to-successfully-deploy-robotics-within-an-organization/",
+      "originalUrl": "https://venturebeat.com/2022/06/17/how-to-successfully-deploy-robotics-within-an-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1223541497.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/17/how-to-successfully-deploy-robotics-within-an-organization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/17/how-to-successfully-deploy-robotics-within-an-organization/amp/",
+      "publishedDateTime": "2022-06-17T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-unified-io-is-an-ai-system-that-can-complete-a-range-of-tasks-including-generating-images.md",
       "title": "Unified-IO is an AI system that can complete a range of tasks, including generating images",
       "excerpt": "Researchers at the Allen Institute for AI have developed a machine learning system that can complete a range of tasks, including generating images.",
@@ -1103,49 +1155,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-how-companies-can-avoid-ethical-pitfalls-when-building-ai-products.md",
-      "title": "How companies can avoid ethical pitfalls when building AI products",
-      "excerpt": "Moving forward, firms must approach AI ethics as a strategic business issue at the core of a project – not as an afterthought.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/20/how-companies-can-avoid-ethical-pitfalls-when-building-ai-products/",
-      "originalUrl": "https://venturebeat.com/2022/06/20/how-companies-can-avoid-ethical-pitfalls-when-building-ai-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

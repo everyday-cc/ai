@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-09-ai-experts-to-discuss-how-artificial-intelligence-is-powering-manufacturing-at-automate-2022.md",
+      "title": "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022",
+      "excerpt": "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
       "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
       "excerpt": "Baidu-backed EV firm WM applies to list in Hong Kong ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023. The number of intelligent cars in China is expected to ...",
@@ -1291,49 +1334,6 @@
       "provider": {
         "name": "Seattle Times",
         "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
-      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
-      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
-          "width": 619,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -109,22 +109,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Microsoft Ditches The Controversial Facial Recognition Tool That Detects Emotions; Here's Why"
-    excerpt: "Microsoft has decided to restrict access to the face recognition capabilities made accessible through its AzureFace API."
-    publishedDateTime: 2022-06-22T06:07:00Z
-    webUrl: "https://in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why"
-    ampWebUrl: "https://in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/33737/microsoft-ditches-the-controversial-facial-recognition-tool-that-detects-emotions-heres-why?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 97
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/5e063cbb-467f-467d-9144-e03fb0b3c462_kf7x.620.jpg"
-        width: 619
-        height: 374
-        isCached: true
   - title: "Microsoft places limits on facial recognition"
     excerpt: "Microsoft restricts access to facial recognition tools and scraps the sale of some services as part of attempts to reduce AI risks."
     publishedDateTime: 2022-06-22T10:28:00Z

@@ -2,28 +2,19 @@
 category: news
 title: "AMAX Launches Ultralow-Latency and Liquid-Cooled Quad-GPU Data Science Workstations"
 excerpt: "AMAX, a leading provider of high-performance computing (HPC), artificial intelligence (AI), and OEM data center manufacturing, has announced new GPU workstations for AI developers that are not only ultra-powerful but also suitable for deployment in any non-lab environment."
-publishedDateTime: 2022-06-21T15:03:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-artificial-intelligence-02d3cf4b04fbd9262b87d686907df3a3"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-artificial-intelligence-02d3cf4b04fbd9262b87d686907df3a3"
+publishedDateTime: 2022-06-21T15:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-21-amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-21-amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "PWbTgHuOdDHJOaR3BPGP6W6eeO/NfQTu25Iwif2zKJxr94Wfu5f1kSsLGODbZkbh/88uGb1IoaSBr/LKsD1z0MaP+EK3wncO63EGXy4gDHxmQNydMoHWIqPqFvgVDZb7/EatiJQxJDaxxer5Q5qaL59EygSZd4iy7zlCBII0Xokna2Xa9jyJZGp8nYojswDwrZhZd2HptCed/uKB/C45P2mMgJuqwgjp3qhpwWJyj03OPym16m6GzT7lwzxWBS+migS/zsITrzFPjLJk9eHc8d6chIozUkWH9FXzqn5s/rPOzAneM8EIILgpEoHSVfgaDwbj5iUEXZ6x/5rgNzhOtd5RYIIy3SAYrA4/LSAKqUU=;N5L0pq4inzbPj9nTWi9qUw=="
+secured: "qWDA025j3Twj9wFJ/U5fzuWUZavHGmx1aWeSdB91cK12/jFK+vr+nQ/ivMSB7cByP4MrMKkpHPn4I9N3ZRP9rCvfcPTrotKihCCn011cmb+516I/ROQ0SlMK+n+/XcASqVnvgJ7BWC6qbu4aSYy+maemmduffBOHO1T47K1o65Uf1i1qIpzzW31W8/sCsoSFqcQEw0jsJcN9QFeNtKbtDGDAx3ZmOp/118GTZJKBW3hFg9LcvkE9rENiRo7sLfVcI9oDQdwS/iYtYckcqix4RKNvN0Z/574EMgjWSpUX6WH2axzGGGvF5b3gR1MHNuR1iZ/k+Vk8nAo+XDc+yEU6VpaCdXBJlg9Xf1GAOBMSUus=;u9zjfp/1AX0kLA47SM04gA=="
 ---
 

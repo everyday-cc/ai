@@ -86,6 +86,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
+    excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
+    publishedDateTime: 2022-06-26T22:20:00Z
+    webUrl: "https://www.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 37
   - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
     excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
     publishedDateTime: 2022-06-25T19:51:00Z

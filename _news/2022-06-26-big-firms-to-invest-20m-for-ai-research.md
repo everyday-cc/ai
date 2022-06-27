@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2022/06/27/business/top-business/big-fir
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 1400
         height: 799
         isCached: true
-  - title: "ZIM invests in artificial intelligence firm"
-    excerpt: "Cash-rich Israeli carrier ZIM has invested $6m into Data Science Consulting Group (DSG), a compatriot tech firm with a focus on artificial intelligence. The two companies have already been working together over the past year."
-    publishedDateTime: 2022-06-22T05:51:00Z
-    webUrl: "https://splash247.com/zim-invests-in-artificial-intelligence-firm/"
-    type: article
-    provider:
-      name: Splash 247
-      domain: splash247.com
-    quality: 17
   - title: "Conglomerates investing $20-M for AI center"
     excerpt: "Big companies in the country will invest USD20 million (around PHP1 billion) to establish a shared hub for artificial intelligence (AI) research.Department of Trade and Industry (DTI) Secretary Ramon Lopez said in a recent interview that conglomerates are funding the"
     publishedDateTime: 2022-06-26T05:21:00Z
