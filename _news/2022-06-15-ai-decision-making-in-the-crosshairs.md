@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - Machine Learning
 
 images:
   - url: "https://dsnews.com/wp-content/uploads/2022/06/DSN-JUNE222.jpg"

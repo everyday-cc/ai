@@ -1,20 +1,21 @@
 ---
 category: news
-title: "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India"
-excerpt: "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ..."
-publishedDateTime: 2022-06-14T12:56:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
-webUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
+title: "Devnagri – India’s first AI-powered translation engine as language partner at Assocham Fintech Festival India"
+excerpt: "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,"
+publishedDateTime: 2022-06-14T07:45:00Z
+originalUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/"
+webUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
-secured: "Riyv9kDcaGUdIL3GoQQkOHRy4Kch2I70h5geufOmsVAHS9cm698SmjAz7GFFd8DjWQcGWat3tHMi0CHGYWP7qdBNzeIdmdJ/XhfEjJ+QiLioFFX4KfFljTd6Tmvc3ih9XYmtsdPTtLCpk4L454eBwrCT43IgY3lzCFH5CmGX2c36ikUtkFWAgPV23AEnOJmXVAojJSJF/Nkf3MiMQd777tzAC8eO5N5M12b4YlA4POmeaspTyXgt6JOo+PvrbOslXfVJKbi+lAVIVkHrXBQNxzIYOL6g1od0iLag9QyZqZZQqkUHvODhzoA/8cRS/KdcEvtxp8cyWvx4LAIvAZsQ6ILyZ5b+oMzoVixDjnOpMvU=;/9lRJ/1vxW9w6tzeOGAj7w=="
+secured: "Zgg5/0xLgB95GDVPanQYeJWeCD3oRYirG+OcUdrFsvX7mdbQhHUCz7KjbRGf8FJpw74+hfyHWIg+cyQyiz7n3dmxew4+WqLjN9IgAL7uQxNkl3Wie1EmVTSdX0ZzOCGSBuHg9uE5Wf6Q3a6JyUICLKj7jNuyJxbDXqbee1A8rea3X+B6STs/dUgvY8Z34Xo40wizA+G1UGlgocgyFdQH4Ssuk53sb8HB2F/A3aNyqe7fYq+1wJWUxlthyuqGKPxv7ADg9CrTGBTWGNwecGCWxFUna5H8HmpEGGBwTp4mnbFe5Lk8eKbAwDwbgimanZxgL7M9XntUHPChXHHpalHc+hbdfm6nAb3QTgNHE4sT0kU=;MdYVCTcTx7eLvFanLkWbpg=="
 ---
 

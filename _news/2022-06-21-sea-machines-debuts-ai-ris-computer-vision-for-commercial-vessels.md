@@ -2,28 +2,19 @@
 category: news
 title: "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels"
 excerpt: "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea"
-publishedDateTime: 2022-06-21T13:37:00Z
-originalUrl: "https://www.marinelink.com/news/sea-machines-debuts-airis-computer-vision-497493"
-webUrl: "https://www.marinelink.com/news/sea-machines-debuts-airis-computer-vision-497493"
+publishedDateTime: 2022-06-21T13:43:00Z
+originalUrl: "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557"
+webUrl: "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: Marine Link
-  domain: marinelink.com
+  name: marinetechnologynews.com
+  domain: marinetechnologynews.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.marinelink.com/images/maritime/w800/image-courtesy-sea-machines-robotics-133099.jpg"
-    width: 800
-    height: 500
-    isCached: true
-
-secured: "KTqgKoxBQZBp3Jp3MVx/NYm6KII/I93YOEzQmqY/Ulb89P1V/+F1Rgo2TetUR79w0YrzPmfFoByuvHVC4maFuS5jTZAHvSQ3Iz1H77/y1nD8Cvd4/7s03KqO4uGFw2iVdKNBWBix3y0d3Si5KX8fwzqrymbwZ2j53hgoYN5DVD0npApS8fLYoSYRWTa/06nPa0K+vmNvVEL1r1vIzgzCYAr0A4qTmLFLAuXGEevWwoP2jqmX1Z8pLuGGY6KZBuDTjIIc3FqzrcxeVqH/ZxBj+DGjx5BlMIBJJnJ1RrL2uRRAggWEUcu7pNWrgTZ/H1TsuwZUOrlYRoXFXqBXaOB1qkZ98q1JFa9JYVLfKyIBxVbJbg9yephxL8NH9eNwgbVRvJS6yTe0uLqEq/APAtUx574xGd2eOyKcWMy0rP8tghFPv2so6tiRrlzYvuExHqfJNQm9mb+2u9Tigin0kWJPOv4hCC2o+KyYB8hFmASaN1bm26yxxEr3F5nxtquBrFShm3BVP/t5nYuG8W4lKIsbSw==;5ffwPNaJ0Js407Yrm2y1uQ=="
+secured: "XinXhnD6FXEaYvORr3XhgbVhG8H6xa3aazLkPgpJUD8O/HNs9OazEdZB0nHcG6iJ+OSwsyGSzOU3wc0ZnyygzdphZxNgUfE0etk++Y7Yveu1pxq6HjYk16gN/LBSikRqeN2WFDMhwIxlPwMV5S8gmUQ2tPuxv5V+nZwslAqAh+13G8ZRjoiVS8TZqPvAnaKT3Lym5mLBFVsVPkb2VdeurduEeMXLFUMh/3txd3i1YPqh2qDqXfsM38AZFC1Qr9XDBFqyZ1Hf20iKfY+iyk+fzLQ9jCL6Gi/xvJ5eLwm64S8Q8YphhHJI1sPnCAGtf45V3fjfMnttVXtU/iWVY69vamUsdefZiHj9AmHf+tOiNBFP2Nzr4M6slh62BCGNjgs9vjUbC+c4t2wpbwDmsyFPeLEXgCJHCo6FbAH2k6gaL1uJzHGVnMQhHPODArHjE5FAQZi6k6/Tszs5Ifk7Z2kUUdlpqyEKypVOVqu4GrhGtcqCdbDM99loiDmP5q/Q4MV0etWzo1QoSg8BhIfyu6kEdQ==;939+YYbxVhTRraGvu4hH8w=="
 ---
 

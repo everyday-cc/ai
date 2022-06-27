@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution"
-excerpt: "PRNewswire/ – Infobird Co., Ltd (NASDAQ:IFBD) (\"Infobird\" or the \"Company\"), a leading provider of AI-powered customer engagement solutions in China, today announced that it has"
-publishedDateTime: 2022-06-21T14:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27796726/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-an"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27796726/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-an"
-ampWebUrl: "https://www.benzinga.com/amp/content/27796726"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27796726"
+excerpt: "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider."
+publishedDateTime: 2022-06-21T15:37:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "2QZNuow8ZrBIaL0wBFe2AwlAkjeMM/xkxepoUf6EgISzZhzYo+Use5pAxyceZB0reQlpNVWqj654CG+v/s1p7BXYaDALV05ONVxUyrR9Pj6wuX3FIlIAkDOj0HPMDvu/2Yi14oWag9pyj4Z0JeYGQ7qsIiwcr3yqvfiATgMP4HkMVCN3M4obPtpjXUoZvg+XDHXfBSBI+y5W7bvofrsTHKxOL8Ezb2SIHrVOTvjNRwCNXiLnK/ceskUeef/2Sa+TGA3Dr/dqB2PiREv3f9gcuSy81O+zYCx6XsiGy4B1yzFfEnvUUjE5GdR7ZDohG4wrNucpWWS7PnaKGU0Y+86/C/t5ef+B0zn1CCYKULKN1rg=;lPlR6zpWG6cN3/2D5UkDtQ=="
+secured: "9CDT/gppxlNjXP/ClM4mHVAWBHJNJaxJBrx6+8CXiR3UuIBKR/vHwDsE7tI2KA6DEgCPEiJiqIcfHTC4HkcYdvldxldbLelebNOW9gJbekL0ZrkEmG9YSVkj+VY0gqMWcx/TL7PeylPTvDOZxZ0NH2bvnK3681htKUksKOVcAlQEdX69TCTGWkvpWHpCP/dgTgNR6Rhtz77AFONEEFSKXTHEM0D2E6NFqV0x2lIpHkuIRckdlSzrhNo9pB3+NhIkszfY7pYkz2N/gx8KB9KFem2AGYsOjoNcV8MSr6bTTOrMO02ZQH7d+1Mb50bbs86u5O38Ggznem0kguRPCy5QA+rYtGJR+2TX0zsGUJESoF8=;5/BS2JNgjJ8s/J0ZPJhsow=="
 ---
 

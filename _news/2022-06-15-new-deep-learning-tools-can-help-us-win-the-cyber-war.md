@@ -1,7 +1,7 @@
 ---
 category: news
 title: "New deep learning tools can help us win the cyber war"
-excerpt: "For example, deep learning (DL) has helped make cybersecurity strategies more proactive and less reactive. DL is the most advanced subset of AI that currently exists and it’s a huge step forward ..."
+excerpt: "Today’s columnist Guy Caspi of Deep Instinct, says deep learning can help security teams get ahead of costly cyberattacks on critical infrastructure like the one last year on Colonial Pipeline."
 publishedDateTime: 2022-06-15T10:14:00Z
 originalUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
 webUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://files.scmagazine.com/wp-content/uploads/2021/12/GreatwoodColDEC-e1638991220438.jpg"
-    width: 1241
-    height: 745
-    isCached: true
-
-secured: "9pDssmSqlQ2Iy7EOeOTltbaiyUaQi0aJWiZLxwsG4NG98i+2HPw2BvypK5vCyslRHU/Bu9YpzdxjUQt7MGUqs2PFiqYX12i30Rbjsh2ZETUYl3RWlCxPuw052iN48xyfqJC5Z25nBgfPQbXlBALUlkRAWMjj1sHEPFmklsSaVH0byk7sOx8ZBAP5AuUR8g7J1QalzCR22CfJ+70SejRcTUUsTD9JYbp5pa8hsNHlMDhNuCesPvOSNbCDE2OCEWf9f1sBh9mvgsfIg3I4AXlbQwA8TPnoZuyZDVrHb+D9LVlAt/7Cqc2KSMj+OE6uPOnwmWv6PMSAc47i+J6E6tjXVNlqhCjBvjGVwaGuH5Uv/7U=;EwDCdZAvSs63cpulyULy+w=="
+secured: "/bACM2wniJAs4gXUY1ZgeBrQiGBIUfPSgj9z0VTkDHWwbGI2gDrj3dQuO3rOrmmppGZV9FWqxDF8ycHa2Mh6Jmx5/EwhnnE7Ev0ITL9pOopVFAaQi+t49thEVLZRnRsjJWGJmfuyD8GXhbqbsF7WqJgQEVuM2qbW72FWIhIqjF1jt+9wSwQK9kAGSc0u+n7Sng6IWdZUO6JGMsva/50R4wP+3Keb50IiVG+mZPxclkpl6lE3GCNz3Twz78hNbShtwuJMSbCuRvgaXY1qW3BqjwaGAOClswuBbvujwUfZ8n48e2XUfRQtF21rvYh3eKtSS3cENZbZx49RhRnBCUmL5GmgrQlMu1xdvcN/7KfE7sc=;GW0MPOFuIVvVyd3oS5o6uw=="
 ---
 

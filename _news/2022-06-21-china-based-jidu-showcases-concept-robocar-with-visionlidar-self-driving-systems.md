@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China-based Jidu showcases concept robocar with vision+LiDAR self-driving systems"
-excerpt: "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only ..."
-publishedDateTime: 2022-06-21T11:30:00Z
-originalUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10"
-webUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10"
+excerpt: "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only 15 months to develop the concept car."
+publishedDateTime: 2022-06-21T03:30:00Z
+originalUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html?chid=13"
+webUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html?chid=13"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://img.digitimes.com/newsshow/20220620pd209_files/4_2b.jpg"
-    width: 1280
-    height: 853
-    isCached: true
-
-secured: "0e8FGx57eXJ3f+TzHaRWgm6na/8C3jIn8N9D8KDugRmdY0tIiqyFtmQmkSqrCKnB4mmye+8aOje9yzTqra1Q/eygbYFSEKvD9FnjD8/68vzl7lTJ3BAhCFBzQA+37dC2QPp5s8a1ESAOD5mxGmvAonOLX8b15mEQ+a7jkFH+epfP1WB5TmAFLuDiPT0qmG7p+/RNQSeKfS8YRKCkKZ3dOUXGOYQWC4vDzcAmsiKZh5eaRjBqauAvsSSkvfKnN5WDxsHVN5YxSBR8ppiCzD70YjpFcKDq8/UGhDZHEn6wyCTPv3K+nhHyLsXlEDzKReBdTeiBhPjvFB1nmxdrCougCelb3yzU6tEl9clGpwCDY7Y=;xPDhD2EqqVT6aDVWni+9aA=="
+secured: "c6WOI1thRlEM2xHj9dVX+unFCSi2OMR7QrPCcAkU2FmcHFxWwB8im0rQaLTU5+Exr7JIPooMQF36XtTT4YpJrr2qCO6X4gmPvVZqJ+VYQz2lKyE06w1TrxM+7wfCIMuWqlluOf/DN98FMkBim+pTS8mk441FAQAEPvxmHM7SQLoHzEXtlBIkUJ3WiTIpC4J3oQwkqx0vbWusuPqR9iNA8pRBwuWnBKKLbU9V3MaYHlRjQO8RrUtcwL3V9oRT0vhgYWpgQNmHj/kAMYCmtCgsnh1fkILenf7hgU8r0nZtt8VBnFyd29LJc83qYNstEreUdswMnJBFa18Ws7pGJUR5CK420oaofP120kd0ZZrOBIs02xTgPaRG6g2cAQFp0Er9V7P8/h9jHV2KarfWxskemmFI1V3ZQ28lN+E5j3JR0ip2q47DNGCcljio93kI0dNeq3dKlDb39xelqp9ND9xfucKs7uXYWIDipOR6zsrT8oNC2UsCFExzbsU5Sp9J5z+lr43UbaNB2RCFAmceVWhnhg==;I0ToUU9oSzAhnvrc+24CjQ=="
 ---
 
