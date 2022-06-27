@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cogniti
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
 type: article
 quality: 138
-heat: 408
+heat: 398
 published: true
 
 provider:
@@ -218,20 +218,6 @@ related:
       - url: "https://images.mid-day.com/images/images/2022/jun/instagram_d.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft restricts facial recognition tech in push for ‘Responsible AI’"
-    excerpt: "... to the problems they are designed to solve,” said Microsoft chief responsible AI officer Natasha Crampton in a blog post. “As part of our work to align our Azure Face service to the requirements of the Responsible AI Standard, we are also retiring ..."
-    publishedDateTime: 2022-06-22T08:27:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/facial-recognition-microsoft-azure-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 70
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_444587191.jpeg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Microsoft Halts Sales of Emotion-Reading Tech, Limits Facial Recognition Access"
     excerpt: "Microsoft has decided to retire its emotional assessment technology, as well as place restrictions on the use of its facial recognition systems. In a blog post published Tuesday, the software giant announced that it would be sunsetting facial analysis ..."

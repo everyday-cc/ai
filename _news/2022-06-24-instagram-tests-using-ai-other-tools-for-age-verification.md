@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Instagram tests using AI, other tools for age verification"
-excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. Meta, which owns both Facebook and Instagram,"
-publishedDateTime: 2022-06-23T20:12:00Z
-originalUrl: "https://www.kxly.com/i/instagram-tests-using-ai-other-tools-for-age-verification/"
-webUrl: "https://www.kxly.com/i/instagram-tests-using-ai-other-tools-for-age-verification/"
+excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+publishedDateTime: 2022-06-24T00:12:00Z
+originalUrl: "https://www.local10.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
+webUrl: "https://www.local10.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
+ampWebUrl: "https://www.local10.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
+cdnAmpWebUrl: "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: KXLY 4 News
-  domain: kxly.com
+  name: WPLG
+  domain: local10.com
 
 topics:
   - AI
 
 images:
-  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/06/q/r/5eb482d125e302385cce288e60e408b575aa0bf0.jpg"
-    width: 915
-    height: 610
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7ZJ4BQS5HFANHIS753TETI45N4.jpg?_a=ATAK9d60"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -156,6 +158,6 @@ related:
         height: 620
         isCached: true
 
-secured: "2bxChHMih3gzPdLwQFMn0xIucxaATtwyw9m7SWGrwGZcB8/ekBNdbqFFJ4IX4ZusiTZZ91q568+GPjhxhph/OhoTTad+3EnRs97JFZUYI9dqrnfgChHll2D3aslPnNGyZKlx6oURlTBhANz7InuIcjo75QNGGh13PjMFpddbeQ98lo+5qA1EQryDySHWAMq1PQgnaJncbTw+k8FfMKPxjw+SfOEH89uszmeLD7UI8tsF3ZCIgZDkvhzrfK7UksHUcL4UjpYhfL1wD0/HWBGjr8zSdWBF0om5WHaczH5ayrhWSBHNltaQbOxkhmSVfLTIacQwCyVy3mlma7sg6UK6bQ3QLOJ579ajw3QUnW5QQUY=;oZ4qrQJvKJdJi5NW3dCPcg=="
+secured: "NiP5P01zgEW9F6wgxDgfegelcRN3/N89XWZE96GNBBE7ng4UtdNAto68ZkgBES/zo6vbSaQy4x+xUxj1Xs2/zoOLGn82+TawRcawAEcV6C/zV9C6Q1xEBn0ndGFiealMnnQnJNJBPSpLVqSbvby1DsbvJWaduMCsHohVKvIIKklEuoB+rH8UeXwXIWFTcpz+pTfyCxPNpuLgC9PkNanDK0JAzFMOsNXlRzlTWa8OIpnEOCpqqiVHL/OUBNF/KAk7eQUt50hhX60UL95hzX+aMtUzs77GSeNo4aOXlQ5heGmRxDspjPyXXRhZ2IPJ0facYSqqCKW5xK1woxauJ21N+qCJVANRGh1m1MT06npUf9U=;kYJKF1zvHZg1DT5u44CFcA=="
 ---
 

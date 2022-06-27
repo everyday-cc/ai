@@ -219,20 +219,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft restricts facial recognition tech in push for ‘Responsible AI’"
-    excerpt: "... to the problems they are designed to solve,” said Microsoft chief responsible AI officer Natasha Crampton in a blog post. “As part of our work to align our Azure Face service to the requirements of the Responsible AI Standard, we are also retiring ..."
-    publishedDateTime: 2022-06-22T08:27:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/facial-recognition-microsoft-azure-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 70
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_444587191.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft Halts Sales of Emotion-Reading Tech, Limits Facial Recognition Access"
     excerpt: "Microsoft has decided to retire its emotional assessment technology, as well as place restrictions on the use of its facial recognition systems. In a blog post published Tuesday, the software giant announced that it would be sunsetting facial analysis ..."
     publishedDateTime: 2022-06-24T14:08:00Z
@@ -406,6 +392,6 @@ related:
       domain: thehindubusinessline.com
     quality: 14
 
-secured: "npdcRXp8F+cjqduR9GZZQtWaHLFIWOd5PfUmQ+zlnhbFtNhnwQG/5XAPqc8BVxjHIGVQDbRhHVyIvjf0GY6ZIVEt88pwSVItk/aRK6rW/AUJrO3pY1RHeK4xiuuDfhw+I94+iw/2jce+KuDXZku6a4DS2w4WHNZO9UaUDbqq4oTDAMQnGXIvqELQBdOUqBpr1APo+/pgNhkc3S4XAig92v5KnCynAD0thl+TzHO49ZPugJ4tQwwAsMopgd7Hs5NcvH/KOz0yhmWMx9TCQ7ofnTpa5gYbqHGMN5GlXiqt3QlhHhqteAsT3G4ran3zmsYpD2TWdm9D0Lt3P1QnRNzL2VmvZbciIoRsp+OAitYkbDo=;/PVC442POOy0PGqdL8/PiA=="
+secured: "KXvrcK9uKj8p8Y3docGAryJzS2DxjqZAqlUl6v4CGTdxDCc0c32zBGx/HhkK9PhiHqgfLgrEuN+5M/Uo3u/+MhPZmOvCZ1iKVzemZjxEaZWf3CkaRvRpSM8ZRCOt30JbsNvGZnmLFf9wpDRovFTgtG80nl3wJbM82pe3DqwBfN4+vQrHNWzLMjcES4NZ9u0kqZ6YzAUxP/CsIE1lKkbzakzRXWrHIsy7PjC7hbr3NU0pitOSUGVXOm/ejglvCGlto0lyxhDA0q8IfO/3hgBMPtc03baU9UmVUVT7CbZw9QwcEfBsgXCBn+2NSCv/M7SXdUPk7mt2O3Cuq166/28N9MIsNlilw4AqyiP/bPQeVao=;TkEkQd1ixxTlMMjJKcxCWA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/catalyst/how-adskate-is-reinven
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/catalyst/how-adskate-is-reinventing-online-advertising-with-ai/article65560391.ece/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 615
     height: 383
     isCached: true
+
+related:
+  - title: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Skai Awarded \"Best AI-based Solution for Advertising\" in 2022 Artificial Intelligence Breakthrough Awards Program. The fifth annual awards program recognizes Skai's innovation in"
+    publishedDateTime: 2022-06-23T14:00:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/23/9627327.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 13
 
 secured: "2DFKuU89cUIbJWAvqT1AV57GrrJLe+ZkSV0Xqq8lwJ6gfifwcSGuxIz8yZTsQ/dfQff5Y9NXodaSjjnU/bgezvurLwoO14/eFrbgkxs3amu9Pm0KcuKnQym0gGg7MlNwtqKDgBcnvv6TqnaXy4dTQl8LzRtk3Z/smZwQ4rL+O33xuHLjexefyMwNuZ3A0Pqq+HPK/ykepOrBsJTXQxH/ypfEyJOH6mXuiorWDU6otUPUvE8JvfxejEc2bWTSvGnQguZsf08bIcvet+BPs6tD9B5FxQCoZKu3omCaziZ9Z9n5XTVU/ymUaOGIvjoz7gjNl0acu0JtqIi8A1+SJ/etBzYgI2oZUUcuFVGjUffou+g=;/MsKDwpjUO5gqgqKP+DcWw=="
 ---

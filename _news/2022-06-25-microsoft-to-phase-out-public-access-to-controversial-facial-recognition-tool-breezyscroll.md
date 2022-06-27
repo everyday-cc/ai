@@ -61,6 +61,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
+  - title: "The Pentagon's plan for 'responsible AI'"
+    excerpt: "A 47-page document released this week outlines the Pentagon's plan to incorporate its two-year old ethical AI principles throughout a system's design, development and use."
+    publishedDateTime: 2022-06-24T19:55:00Z
+    webUrl: "https://fcw.com/defense/2022/06/pentagons-plan-responsible-ai/368605/"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 37
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/06/24/062422_getty_fcw_ai_brain/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "BX1SoJgv56OFvPfLfN5C/HeLlCKax6waMgSez0vcx2QquGck1a0NoGFQ1EzMwBqF1p3Ka/IEFzKuy2eU8CTg+JftmPvLayghB46Fidp/BhqfwT5JsxHY79W6/VSx6sNSAV8VCS18eCKQim2xO8nxK4KIKnQLqMGWMLXkUDhmuTK43+jQss/0nzN8ybVQDkEwUInZDAMx+z96czX3bCnvGJrfLOlWQN0Its7d/V9Xdi4diiJ3TL00GC6hEfcqC/47PYnHQTN0MPP2LbZ4sIm6PKly+oD5D6ez9rqMmDcz4xQVXa1ayv7AKK0DkQR3d6LF01sALDzCoOeofpwOH2kstkE+NUM+bgpEoBlZkjSuUA0skmhTAxIW2AQwcYDj69rLL0ZzNAv+sv+c7QmeWK/7fwuAxqSV9TgNLjpkkrlF291EKIFad0duUp5JbkGGAGnjSF/DhRGVsNmpNlZw7479FC/AxqZoWIJ25ZDVvITs7nTVmQuq82FhpkBH0P7FYw9MzDnEKKzuIVBjx/XFYK/IQA==;Ev7JaQkV2HwyzybC05gT7g=="
 ---

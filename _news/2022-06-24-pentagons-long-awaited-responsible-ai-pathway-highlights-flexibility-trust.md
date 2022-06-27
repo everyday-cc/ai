@@ -51,6 +51,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
+  - title: "The Pentagon's plan for 'responsible AI'"
+    excerpt: "A 47-page document released this week outlines the Pentagon's plan to incorporate its two-year old ethical AI principles throughout a system's design, development and use."
+    publishedDateTime: 2022-06-24T19:55:00Z
+    webUrl: "https://fcw.com/defense/2022/06/pentagons-plan-responsible-ai/368605/"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 37
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/06/24/062422_getty_fcw_ai_brain/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
     excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
     publishedDateTime: 2022-06-24T18:09:00Z

@@ -229,20 +229,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft restricts facial recognition tech in push for ‘Responsible AI’"
-    excerpt: "... to the problems they are designed to solve,” said Microsoft chief responsible AI officer Natasha Crampton in a blog post. “As part of our work to align our Azure Face service to the requirements of the Responsible AI Standard, we are also retiring ..."
-    publishedDateTime: 2022-06-22T08:27:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/facial-recognition-microsoft-azure-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 70
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_444587191.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Why Microsoft is retiring its facial recognition AI that can detect emotions"
     excerpt: "The company has confirmed that the facial recognition AI framework will no longer be available for new users. However, existing users can access these"
     publishedDateTime: 2022-06-22T09:14:00Z

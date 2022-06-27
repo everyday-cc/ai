@@ -22,36 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "Dynamic AI Agents enabling the great reboot of the BFSI industry"
-    excerpt: "In 2000s, a website was necessary for most businesses. In 2010s, a mobile app became a must-have, and today, conversational AI is fast becoming integral for businesses to successfully cater to rapidly changing customer"
-    publishedDateTime: 2022-06-22T07:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/"
+  - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
+    excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
+    publishedDateTime: 2022-06-23T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "The amazing potential of artificial intelligence, machine learning for every industry"
-    excerpt: "Any organization with data (which is every organization) can leverage artificial intelligence and machine learning."
-    publishedDateTime: 2022-06-22T14:00:00Z
-    webUrl: "https://www.patriotledger.com/story/business/2022/06/22/artificial-intelligence-machine-learning-arent-just-for-tech-giants/7695122001/"
-    type: article
-    provider:
-      name: The Patriot Ledger
-      domain: patriotledger.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/06/21/NPAL/0a2aeccc-7632-4686-9ebd-223bba355efa-Troy_Hollings.jpg?auto=webp&crop=399,225,x0,y87&format=pjpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 677
+        height: 630
         isCached: true
+  - title: "Augmented Intelligence Market Size Future Scope, Demands and Projected Industry Growths to 2027"
+    excerpt: "Market Study Report has added a new report on Augmented Intelligence market that provides a comprehensive review"
+    publishedDateTime: 2022-06-22T11:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/augmented-intelligence-market-size-future-scope-demands-and-projected-industry-growths-to-2027-2022-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "hVS9yw5sQ/fzlTrE8Pj06yv+Y5mGGRAMeqf/b9knwiZLI4T7THARxZjcBXfwtT5AnvHXdkTQ2z/vM7B1Uie5Ei46S02A3+F75Hzt6InBR6rWGF37pcFAStoX+NZZXaWCD/o30jEk9UfNH0aGF8aUJ/VQOLoCrsTFDPeElVBHvcpdeW2mJMMLGEhx9BwFzvD2aDhxu6kE/OrrBCAsJ/UAlc4cGSg/OXs26Jy6gVJYpFt7uE9O/oym0Eb+1cPxIW7kNWsDZ5J0l8nup4HuBqcRYG6j8RiF2d0Qs9MMPRYr1S7qG0jC+YkkosJApIe9eyJvkESnaf1R8oYkOUpuH+MAgHtX8Ec22cwIYbw4lvJDaDA=;hELqJfizMBWFeJG+FY1lnA=="
 ---
