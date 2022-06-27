@@ -41,6 +41,34 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australian retail giants named in facial recognition tech complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
+    publishedDateTime: 2022-06-27T09:02:00Z
+    webUrl: "https://www.channelnewsasia.com/business/australian-retail-giants-named-facial-recognition-tech-complaint-2772591"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Choice lodges OAIC complaint over ‘intrusive’ facial recognition technology"
+    excerpt: "Choice has lodged a complaint with Australia's privacy regulator alleging retailers are using \"intrusive\" facial recognition technology."
+    publishedDateTime: 2022-06-27T08:15:00Z
+    webUrl: "https://insideretail.com.au/business/choice-lodges-oaic-complaint-over-intrusive-facial-recognition-technology-202206"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 52
+    images:
+      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/06/bigstock-Security-Camera-Recognizing-At-436501025.jpg?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
+        isCached: true
   - title: "Privacy, your face and the rise of facial recognition"
     excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
     publishedDateTime: 2022-06-27T01:22:00Z

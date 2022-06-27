@@ -41,22 +41,6 @@ related:
         width: 744
         height: 418
         isCached: true
-  - title: "Raleigh drivers hesitant to use self-driving cars"
-    excerpt: "Automakers assume drivers want as much technology as they can get in their vehicles, but the day of a robot driving us is still a long way away."
-    publishedDateTime: 2022-06-24T20:48:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 44
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/06/Steve-web.jpg?w=1280"
-        width: 671
-        height: 376
-        isCached: true
 
 secured: "iz5X4zWW1vYKARG+HBhBpY8ATI8NtDMkNry9gAcgBX63+3iVJSnw3/87LDKCRVns5HiZU7ALQqB4/FhL6WBQVrAxekIemNH94lv01A6TPoCeZWdCA10I1wr4Ag6ZecdrJ+R4pyB/lmswRV2PhZ6p0gshrFU2Ilt0BoociVjowrLF0Gy5VttetSbPJcbnEwCatwBMwmNQC/3E8NV1UGXpcmG9lCCOMJ2KN1uu34KllGZ8/lONMECT5571aoLq6r9jFC/VBSf2OhmCMqKG4QhJBAewuqMxXuM6gr8eb+6cJzl2z2HTxKOAT0en0ufBWRVRmmFQ/fBbSWogCFIan2ukqMQ/7z/yM+TdrpXBhuvERXsyWmOV0L91cex7Stwkef1Bcd+cPxhxbhwqE3bcKLp5IevM/c3RWhCQn5wJMBhKdmu7TRTk/NVY0qnFj3S9aJ9hm4PNp2HIK8GwN5gks46dRjPPCFKueYdewZA+hf2Fx1Tb2Oc1yXUUYOkr4huop3dIgLR5IIR9tWTHZCWRDogUMA==;VaIoSqEZrjJRq2qefc8/uQ=="
 ---

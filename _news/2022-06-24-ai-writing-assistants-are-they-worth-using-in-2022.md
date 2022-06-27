@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Autowriterpro Is Your AI-Powered Copywriting Assistant"
-    excerpt: "Autowriterpro provides all of the copywriting tools you need to overhaul your content marketing. The automated copywriting tools make crafting compelling copy a completely seamless, automatic process."
-    publishedDateTime: 2022-06-22T16:31:00Z
-    webUrl: "https://www.chron.com/business/article/Autowriterpro-Is-Your-AI-Powered-Copywriting-17257566.php"
+  - title: "AI-based coding assistants can surprisingly assist in genetic programming"
+    excerpt: "OpenAI has now introduced the results of their recent research where large language models that are trained to generate codes could also be used to improve the effectiveness of mutation operators applied to genetic programming."
+    publishedDateTime: 2022-06-27T08:36:00Z
+    webUrl: "https://analyticsindiamag.com/ai-based-coding-assistants-can-surprisingly-assist-in-genetic-programming/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
     images:
-      - url: "https://s.hdnux.com/photos/01/26/23/30/22623757/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/abstract-colored-light-wave-CVN9EB2.jpeg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "1r9unxo4+Yi0wd8VAXEEd3VjFbSQk4dSltaW4x3f0l1RMZMYSkEoaauyzqtJOXNh2ep+JLKpSiT+ryNYPAV65500UwXuVADInVI2OlGWzSbKUwWGtMBasnmnFPFl2GlFPcdARy3zRbEzFGKoz3Xz3hxfOC3XHkgflBdbxamQFtDjUg2T/LlPj6DM8uHRY9jseY+OyDl5t0vj36nd5V/2/ZW9lJhvb3nLSlNKUuq9W1rroP3BuXskmc9/sxLCRn56WrcWqQfMlES0mFh6NMaFRkefCIbWIrO9CJf/HhBHaM8YUkhWQeksZSi7I+fzoUoAevhSNFvtwq/9DIenRZDgpgF1H+vsExmkiZz2/Uw7PdRJqmeIJ74OngvHwqJ7AyQpg1sMR3Vi+EjzF4h+KiGD3lDPC2a+ci6AYzzVCvwJpn9/hkyMfIVaY0x2e1LOiSaJjbo4ywA7FEpnuQcqa+WxzxQODP4wsyEl+agxp/R+fGk9aLbHwb5kqfLVLEdZEKo7eSDnx/cEgsCSBusP/dDNyw==;8Y0DlG+hXB86DPSY9z8lMw=="

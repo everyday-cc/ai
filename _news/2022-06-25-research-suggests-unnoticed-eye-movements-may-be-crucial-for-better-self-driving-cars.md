@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Extra “eye” movements are the key to better self-driving cars"
-    excerpt: "The RIKEN Center for Brain Science in Japan has developed a way to create artificial neural networks that learn to recognize objects faster and more accurately. The study focuses on all the unnoticed eye movements that we make,"
-    publishedDateTime: 2022-06-22T15:56:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/956768"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f3fd8c77-8f0e-4f12-b5fc-5ba6d3637cea/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Study: Unnoticed eye movements can be key for better self-driving cars"
     excerpt: "These findings can be transferred to machine vision, for example, to make it easier for self-driving cars to learn important features on the road. Despite constant head and eye movements ..."
     publishedDateTime: 2022-06-23T18:31:00Z

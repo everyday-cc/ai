@@ -41,19 +41,21 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Cerebras Claims Record for Largest AI Models Trained on a Single Device"
-    excerpt: "AI computing company Cerebras Systems today announced that  a single Cerebras CS-2 system is able to train models with up to 20 billion parameters on – something not possible on any other single device,"
-    publishedDateTime: 2022-06-22T15:48:00Z
-    webUrl: "https://insidehpc.com/2022/06/cerebras-claims-record-for-largest-ai-models-trained-on-a-single-device/"
+  - title: "Cerebras sets record for 'largest AI model' on a single chip"
+    excerpt: "In brief US hardware startup Cerebras claims to have trained the largest AI model on a single device powered by the world's largest Wafer Scale Engine 2 chip the size of a plate. \"Using the Cerebras Software Platform (CSoft),"
+    publishedDateTime: 2022-06-27T04:49:00Z
+    webUrl: "https://www.theregister.com/2022/06/27/in_brief_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/06/27/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/27/in_brief_ai/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 41
+      name: theregister
+      domain: theregister.com
+    quality: 74
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2019/08/cerebras-logo.jpg"
-        width: 1250
-        height: 1250
+      - url: "https://regmedia.co.uk/2021/05/12/brain.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "anU9aJbvtsLGPQevVz67uIGTyzAQYEBIigadsoly7dlOkUkoPIGmgOXaa4cwLxCKunt5z911xx5s/d/WwAIrZwPPgGn+4kOxT2cEHXAQg/gUfYnqtpVPEwdflurBIcYTU1SR5b4QfZLVxWaKmqHRUMcNF1AEKQtz6J3/h+JcPfIvAw/A+l5RbsUIRGRfaPFb6nVY5IJGA8Y1ZjseTg/mcNJxBp+fNt1xT6egL0ZHWwEf6qEsCgMEynGPpT/Bv7FhuhSfp37rjZhXjN2KlBMyY1T1IzQg1k70uG2zO2xuuYlANa42hh9ky9Pmtyzx5oYc9CruhiQtyByaCR50tlgo4WlaJd3j4u2XBah3e7y8KnE=;jAS3g3HNngDEE6SIz2BIvw=="

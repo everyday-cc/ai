@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
-    excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ..."
-    publishedDateTime: 2022-06-22T15:20:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 107
-    images:
-      - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI Weekly: Microsoft’s new moves in responsible AI"
     excerpt: "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ..."
     publishedDateTime: 2022-06-23T16:31:00Z
@@ -108,20 +92,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Microsoft To Screen Its Azure Customers on Facial Recognition Use Cases"
-    excerpt: "Microsoft on Tuesday announced version 2 of its 'Responsible AI Standard' document, and disclosed a use-case approval process for its Azure Face API, Computer Vision, and Video Indexer customers."
-    publishedDateTime: 2022-06-22T16:07:00Z
-    webUrl: "https://redmondmag.com/articles/2022/06/22/microsoft-to-screen-its-azure-customers-on-facial-recognition-use-cases.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 71
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/UglyNebulaSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Facial recognition tool that identified emotions to be discontinued by Microsoft"
     excerpt: "The decision has been taken as part of Microsoft's 'Responsible AI Standard', a framework to guide how it builds AI systems."
     publishedDateTime: 2022-06-23T16:43:00Z
@@ -152,22 +122,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft Scraps Some Artificial Intelligence Facial-Analysis Tools, Citing Risk of Bias"
-    excerpt: "Microsoft Corp. will stop selling artificial intelligence-based facial-analysis software tools that infer a subject’s emotional state, gender, age, mood and other personal attri"
-    publishedDateTime: 2022-06-22T15:05:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-scraps-some-artificial-intelligence-facial-analysis-tools-citing-risk-of-bias-71655876343025.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-scraps-some-artificial-intelligence-facial-analysis-tools-citing-risk-of-bias-71655876343025.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-scraps-some-artificial-intelligence-facial-analysis-tools-citing-risk-of-bias-71655876343025.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 65
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/06/22/1600x900/MICROSOFT-RESULTS-1_1653047362114_1655881239151.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft retires facial analysis capability under responsible AI"
     excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
     publishedDateTime: 2022-06-24T07:36:00Z
@@ -182,22 +136,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "KPMG and Microsoft join hands to deliver advanced cloud-based tax technologies for c-suits"
-    excerpt: "As part of their multi-billion-dollar global alliance, KPMG and Microsoft are making significant investments to deliver advanced cloud-based tax techn.."
-    publishedDateTime: 2022-06-23T10:01:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/kpmg-and-microsoft-joins-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits/92409534"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92409534,imgsize-10914,width-1200,height-628,overlay-etcio/kpmg-and-microsoft-join-hands-to-deliver-advanced-cloud-based-tax-technologies-for-c-suits.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft retires facial recognition tool"
     excerpt: "They have not caught up with AI's unique risks or society's needs New Delhi: Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools,"
     publishedDateTime: 2022-06-22T18:44:00Z
@@ -207,29 +145,6 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 38
-  - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
-    excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
-    publishedDateTime: 2022-06-24T18:09:00Z
-    webUrl: "https://menafn.com/1104428195/Microsoft-To-Phase-Out-Public-Access-To-Controversial-Facial-Recognition-Tool-Breezyscroll"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-  - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
-    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
-    publishedDateTime: 2022-06-26T20:30:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-xbox-cloud-gaming-keyboard-mouse-support-and-latency-improvements-facial-recognition-platform-curbs-and-more"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 25
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
-        width: 1365
-        height: 768
-        isCached: true
 
 secured: "y0+IFzImsN1QccZdo4Xa8iMA8Yiz/7QKb0D5BHJ8tRq40HerhIQiQTVm+O3WMnN0dMmw9diXQuEWyj6/IB5EIfFZWYTUwv6xByXV7vmr8SnSABybMNfCEahjcggrfgRFX1X/1ozhQMSzM58NqQeWznzHIqDpkaqYHjpgmzXgQRUyET9jNYYrk+x3/nCPKZChbpeMGZaYP1PzQeQlWaCTtMNoHuCuYqF70ngoZnPfy+x43wuBiA3QhCwscIGuNXMNz5ps/KSByPRVjJVp+uICNCCnc2oRxFfvkeL5ogRyZQzsrfsnhxY927aqxbL8gCyJPwfpZ6sIAtOpjsa2reJlsVjJq1AN+JKF0oswg9nilP2fmRlVfDZbn5JAQGIDfb9NZJeX/NXOPsGI2hXaLG9dVa5nYaq+HE502o1riXiLK5SsM6fj59BHx/V6lMTAVbwoHPyb6fKifrLysrZ4UNRTSGLpM8xX7Ani++kd4J8ROI3f9RHWYVHXD4x49fmdEBlBLuQWYJJi//Gus3/L3jTC6Q==;1NzaMhLouxJRIjkugwoA8w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/industry/p
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870"
 type: article
 quality: 61
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/06/4-Fintech-Execs-Make-Top-100-B2B-Marketers-Leaderboard.png?x30842"
         width: 1024
         height: 567
+        isCached: true
+  - title: "The future of fintech"
+    excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
+    publishedDateTime: 2022-06-27T08:14:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-future-of-fintech"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 24
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/015/iStock-978531552-kuflink.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "5 Fintech companies looking to hire in Europe right now"
     excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."

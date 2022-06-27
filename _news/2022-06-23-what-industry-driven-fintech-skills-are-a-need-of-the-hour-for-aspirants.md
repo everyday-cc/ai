@@ -96,6 +96,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "The future of fintech"
+    excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
+    publishedDateTime: 2022-06-27T08:14:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-future-of-fintech"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 24
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/015/iStock-978531552-kuflink.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "5 Fintech companies looking to hire in Europe right now"
     excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
     publishedDateTime: 2022-06-24T12:38:00Z

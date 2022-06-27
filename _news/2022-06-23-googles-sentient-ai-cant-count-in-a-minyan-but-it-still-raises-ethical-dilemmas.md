@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google’s ‘sentient AI’ likened to a 7-year-old child by engineer"
+    excerpt: "A former engineer at Google has likened one of the company’s artificial intelligence programs to a seven or eight-year-old child. Blake Lemoine was put on administrative leave from Google after claiming the tech giant’s LaMDA (Language Model for Dialogue Applications) had become self-aware."
+    publishedDateTime: 2022-06-27T09:04:00Z
+    webUrl: "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/"
+    ampWebUrl: "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 57
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339"
+        width: 600
+        height: 339
+        isCached: true
 
 secured: "zLe/m9HMynBA74cMyuLHXX2+cMwAJsz8A7xilGbiGguQMr99OBMyjF/medPWPYpQn2fYgud3y5W8KXr91SW5prcv3RLWgBpkwW2ro/J2yGwIbc8fEWAsm54tnHYC2bKQ1Sc7vukDhSfZJQ6A0RucjSmLa1a7TcoFYRbFK5kZZDex6iBWnQKBArkwbJGEWm9fQ+jlBFthcoh7KcTX6P6ykyuj/0iQhJ40IMc2NNDMqHL/gKGxuRnl86RnmvGXbUEFa+KRGia5nbBmbD201yaRYvkXUfrvdG7klL/zSPA+bJwduO4gD3azxeJ5QNv0yZO6f2zOCpm7EmnuFGchrkdJ/0QEbxm0s8zQdRrMzg8+Smc=;6iwlwDi7RL77kbbYqgf8gQ=="
 ---

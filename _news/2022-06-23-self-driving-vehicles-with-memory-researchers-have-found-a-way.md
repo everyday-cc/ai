@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technology helps self-driving cars learn from own 'memories'"
-    excerpt: "Researchers have developed a way to help autonomous vehicles create 'memories' of previous experiences and use them in future navigation, especially during adverse weather conditions when the car cannot safely rely on its sensors."
-    publishedDateTime: 2022-06-22T15:27:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220622101303.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 36
   - title: "New Method Helps Self-Driving Cars Create ‘Memories’"
     excerpt: "A team of researchers at Cornell University has developed a new method enabling autonomous vehicles to create “memories” of previous experiences, which can then be used in future navigation. This will be especially useful when these self-driving cars can’t rely on sensors in bad weather environments."
     publishedDateTime: 2022-06-23T13:32:00Z

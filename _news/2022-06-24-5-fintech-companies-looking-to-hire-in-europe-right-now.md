@@ -104,6 +104,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "The future of fintech"
+    excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
+    publishedDateTime: 2022-06-27T08:14:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-future-of-fintech"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 24
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/015/iStock-978531552-kuflink.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xMOhXDbi6fAf3awbQrdrp2E06gnHbxx+/g3vO0IQe99wnv1+NAbBrLqEfqHfbTXhal5oAXbF6pnQPK9PJoaP9IlG28xGO3OlnIX8UssRKjBi+eJLl0TuwfWcZpnBOHtTTidXP6+kxeZhmUY//wnTbR4bwug+xBfaWB43mow9Ojt9MTHAc4BzicnCaCeO2wsygTEoWLTcRnoROT9SRtUTlNsJvWYZpVJee7D0bnQmSXJu8CAcPUVrxNTXZDNLbZSSw9pqcKnOyK1WimCFR1OuRZ3Ya2QaFcMf+CJj041XhRD0qzXIJEfE1gUc6Vl/S/VhISVSS2g2M44wjsRsFTqd0h0EQOiHg0J/ipLvbOUjIdLXmCgdF2d9gilzzYdqAJsAf5s4z4YBaKyhjGLuxc8/7f75cDcIMlKozPhWGenZo6CA5NjNEDwAic2P/9pIVmm+RVTjkXOqkRa9VBGSgLGwkyE1FiXmpmfWRjkOBrZ8FvelvBRpYKsbKZqrtdbnlhiCROEFObJnlvPLGzgWm5q0mA==;hpOGCh7ygybcLRzjxxca6A=="
 ---

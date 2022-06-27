@@ -7,7 +7,7 @@ originalUrl: "https://www.theengineer.co.uk/content/news/deep-learning-algorithm
 webUrl: "https://www.theengineer.co.uk/content/news/deep-learning-algorithms-deployed-on-mobile-devices-to-screen-for-eye-disease"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,47 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "New deep learning model helps the automated screening of common eye disorders"
-    excerpt: "Automation in disease diagnosis is reliant on deep learning models that can accurately and efficiently identify measurements of tumors, tissue volume, or other sorts of abnormalities. Now, researchers have unveiled a new,"
-    publishedDateTime: 2022-06-24T18:27:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220624105121.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
-  - title: "New deep-learning model helps the automated screening of common eye disorders"
-    excerpt: "Automation in disease diagnosis is reliant on deep learning models that can accurately and efficiently identify measurements of tumors, tissue volume, or other sorts of abnormalities. Now, researchers from Tohoku University have unveiled a new,"
-    publishedDateTime: 2022-06-24T15:07:00Z
-    webUrl: "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-mode.jpg"
-        width: 466
-        height: 402
-        isCached: true
-  - title: "Research: New deep learning model helps automated screening of common eye disorders"
-    excerpt: "A new deep study reveals that automation in disease diagnosis is reliant on deep learning models that can accurately and efficiently identify measurements of tu"
-    publishedDateTime: 2022-06-26T14:40:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272599731/research-new-deep-learning-model-helps-automated-screening-of-common-eye-disorders"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 33
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1656253436.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
-secured: "TxUpeeIDeei4AAA/eIbbBbtclWMHox8Kcmr2jk4O74uj7vUV4Lb0lsrk96B1GyA94VDF9IFb2RAzrwbHt92BtSuPtS+jFnREkJDlnM5y8l2Y+pTSyqwjEasPkmreBQcDFbrpvWeoNxxd4GyQ5SgiJuD8yRG/X150ufkRVjr0GAOzKgqt2FL68sY7r16dFsZx7yNvP+x+mohI1qrp664mUK0vpJo3OH5EOaYdOyT2LGULdoPE0lNjROMIDYxFR/XcU6GFU+Izk/ryFcBWDdz58QwdwNnxSP8HZzzmYm8Jr2OPWy0P+UU9d+A/oIEDDvKQXv69RXr7+HUdbP3ThlaGBca0UQ7hBAqiOjGz2EAUxt0=;haxZuMhKDJTflj/BBAMupA=="
+secured: "ewbXdtxt1dP+a/M3ncmXjb/v1OhbGsCt3Fv4OA4SEUs2PJc1gnTzifUr5nhN0jMMeef3HK1LtjirqWV1nhvEOtTrs4k4Peqj/HTejOS1hqfVHLpsmOfZ8iE/4qtBUiEmsat/usC2m9s0cziQt3ybpUf/328jGVU32NzId45cjH2Jku2yl7T3bQ9Z7Jkl189S5tDWbSO2oziWU1qNp93U1Ezq/OGx14zC7iUt45qMxs39TjIzMLtf9wFcAQgW5dlaFb54/zi18/fYUWlC8RHP2DAu/TphzJRItClZ7uVGFSyb+vPWIdky10qEsGHGg0SRFWpi9rWbWuwiBPBXmznPjAbmewEIQL9WDlOn/w1VPh+sDXv2jmZGUCAuxkkKexzGkD0RAQ/Cgkq5TVhhRHtLTliNROk+ktXDPHD68503OMO93ZYHTGWxfqjPKRG6ktK7g7oSxEedD6gR9hmUOBkveBBMRXOpK5HZXu7675hpP/lSJF5bCbaVub3LUJuflAXRe/Ez2xVCFz6tHlbS66wwFQ==;6OnnecS+WNLq6NgML+Lbog=="
 ---
 

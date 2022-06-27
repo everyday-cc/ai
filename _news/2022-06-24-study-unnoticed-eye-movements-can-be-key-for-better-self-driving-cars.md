@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/videos/news/study-unnoticed-ey
 webUrl: "https://timesofindia.indiatimes.com/videos/news/study-unnoticed-eye-movements-can-be-key-for-better-self-driving-cars/videoshow/92420750.cms"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Extra “eye” movements are the key to better self-driving cars"
-    excerpt: "The RIKEN Center for Brain Science in Japan has developed a way to create artificial neural networks that learn to recognize objects faster and more accurately. The study focuses on all the unnoticed eye movements that we make,"
-    publishedDateTime: 2022-06-22T15:56:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/956768"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f3fd8c77-8f0e-4f12-b5fc-5ba6d3637cea/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Research suggests unnoticed eye movements may be crucial for better self-driving cars"
     excerpt: "Andrea Benucci and colleagues at the RIKEN Center for Brain Science have created artificial neural networks that can learn to recognize objects more rapidly and"
     publishedDateTime: 2022-06-25T12:18:00Z
