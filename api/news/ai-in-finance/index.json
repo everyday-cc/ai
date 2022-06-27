@@ -10,7 +10,7 @@
       "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -142,12 +142,12 @@
       ]
     },
     {
-      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
-      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
-      "excerpt": "today announced that it has entered into a cooperation agreement with a leading global Fintech service provider. Under this agreement, Infobird will leverage its AI Chatbots and years of ...",
+      "path": "_news/2022-06-22-investornewsbreaks-infobird-co-ltd-nasdaq-ifbd-selected-by-leading-fintech-provider-to-deliver-intelligent-customer-engagement-solution.md",
+      "title": "InvestorNewsBreaks – Infobird Co. Ltd. (NASDAQ: IFBD) Selected by Leading Fintech Provider to Deliver Intelligent Customer Engagement Solution",
+      "excerpt": "Infobird (NASDAQ: IFBD), a leading provider of AI-powered customer engagement solutions in China, announced its entry into a cooperation agreement with a leading global fintech service provider. Under the agreement,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-6-22-investornewsbreaks-infobird-co-ltd-nasdaq-ifbd-selected-by-leading-fintech-provider-to-deliver-intelligent-customer-engagement-solution",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-6-22-investornewsbreaks-infobird-co-ltd-nasdaq-ifbd-selected-by-leading-fintech-provider-to-deliver-intelligent-customer-engagement-solution",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -157,21 +157,89 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:07:00-07:00",
+      "publishedDateTime": "2022-06-22T06:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-data-connectivity-services-play-a-vital-role-of-business-growth.md",
+      "title": "Data Connectivity Services Play a Vital Role of Business Growth",
+      "excerpt": "The 5G technology market includes 5G connectivity technologies such as enhanced mobile broadband, ultra-reliable low latency communications, and massive machine type communications. In fact, 5G technology is expected to redefine communication,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/22/9626501.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/22/9626501.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
+      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
+      "excerpt": "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -464,6 +532,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-16-h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers.md",
+      "title": "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers",
+      "excerpt": "H2O.ai, the AI Cloud leader, today showcased a unique set of capabilities and use cases that enable rich insights by seamlessly connecting data and machine learning. Snowflake and H2O.ai bring platforms for data and machine learning together to help more customers around the world innovate with AI through a native integration that allows users to access all of H2O.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
       "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
       "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
@@ -670,6 +781,41 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027.md",
+      "title": "Machine Learning as a Service (MLaaS) Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)",
+      "excerpt": "In addition, it provides flexibility on a pay-as-you-use basis. Machine learning-as-a-service (MLaaS) is a range of services that provides machine-learning tools as part of Cloud Computing Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27676295/machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27676295/machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1184,197 +1330,6 @@
         "AI in Autos",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ai-in-fintech-market-to-be-worth-4116-billion-by-2030-grand-view-research-inc.md",
-      "title": "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc.",
-      "excerpt": "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
-          "width": 1400,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more.md",
-      "title": "Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more",
-      "excerpt": "Embedded finance — where financial services companies and others bring in different kinds of fintech technology by way of APIs to enhance their own offerings with more data and functionality — remains a growing opportunity,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/",
-      "originalUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1218896782.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/",
-      "publishedDateTime": "2022-06-08T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ai-in-fintech-market-size-2022-growth-prospects-top-key-players-share-swot-analysis-cagr-status-dynamics-and-forecast-to-2028.md",
-      "title": "AI in Fintech Market Size 2022 Growth Prospects, Top Key Players, Share, SWOT Analysis, CAGR Status, Dynamics and Forecast to 2028",
-      "excerpt": "Jun 08, 2022 (The Expresswire) -- “AI in Fintech Market” report study provides valuable information and useful guidance to new participants or companies anticipating to enter the worldwide AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-2022-growth-prospects-top-key-players-share-swot-analysis-cagr-status-dynamics-and-forecast-to-2028-2022-06-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-2022-growth-prospects-top-key-players-share-swot-analysis-cagr-status-dynamics-and-forecast-to-2028-2022-06-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-trai-looking-at-ai-machine-learning-to-curb-pesky-communications.md",
-      "title": "Trai looking at AI, machine learning to curb pesky communications",
-      "excerpt": "The Telecom Regulatory Authority of India (Trai) is looking at utilising technologies like artificial intelligence (AI) and machine learning (ML) to tackle the menace of spam communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
-      "originalUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-148.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
-      "publishedDateTime": "2022-06-07T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

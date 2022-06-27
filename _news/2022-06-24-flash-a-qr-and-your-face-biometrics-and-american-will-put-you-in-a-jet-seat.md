@@ -41,22 +41,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "American Airlines testing face-scanning at DFW Airport. Phoenix is up next"
-    excerpt: "American said the service as a convenience factor that will help passengers get through security checkpoints more quickly."
-    publishedDateTime: 2022-06-22T22:58:00Z
-    webUrl: "https://www.12news.com/article/news/local/arizona/american-airlines-testing-face-scanning-at-dfw-airport-phoenix-is-next/75-53b6ddfb-e668-44e4-a638-0f8141d4d487"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/american-airlines-testing-face-scanning-at-dfw-airport-phoenix-is-next/75-53b6ddfb-e668-44e4-a638-0f8141d4d487"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/american-airlines-testing-face-scanning-at-dfw-airport-phoenix-is-next/75-53b6ddfb-e668-44e4-a638-0f8141d4d487"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 57
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/b14a3ae9-6803-4630-aa16-6604593777ce/b14a3ae9-6803-4630-aa16-6604593777ce_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "American Airlines starts facial scanning test at DFW Airport for PreCheck travelers"
     excerpt: "Passengers with PreCheck can now pass through security checkpoints at DFW International Airport with a face scan and phone app."
     publishedDateTime: 2022-06-23T14:03:00Z

@@ -3,27 +3,27 @@ category: news
 title: "Americans Come Clean About the Dirt in Their Homes — And Why Clean Floors Are Better Than Alcohol"
 excerpt: "Even though Americans are obsessed with cleaning their homes, a potential impending recession has many people rethinking their cleaning budgets and looking to technology for help. A new survey from Narwal,"
 publishedDateTime: 2022-06-23T16:07:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/americans-come-clean-about-the-dirt-in-their-homes-and-why-clean-floors-are-better/article_55760c12-0053-5926-b759-cf2223a2621b.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/americans-come-clean-about-the-dirt-in-their-homes-and-why-clean-floors-are-better/article_55760c12-0053-5926-b759-cf2223a2621b.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-hong-kong-robotics-017f3108d8884b449ee278c4b88af8e1"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-hong-kong-robotics-017f3108d8884b449ee278c4b88af8e1"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
-    width: 415
-    height: 539
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "9EabN73CACcHUVCM6D3OvDpHNtMDhWCNwCn/xO9Pqa2Mm8CEoyEfuoKsLRUxyQPVinsg3Z+BTwzoUb6XQH3tOLOGabt2JwJ/9XNCKENLu1+SHxBIe4FvbDy31vSop7Ymqs/LjnyySJFrvRsRcQepDGNyzoVshQdqR/ShVYOHY+FE0OjMibDhi13DnFS014mVusYpO/Os5wSkpZCYxAouQf5N0H+zyEN5hab9a7mxMPUfCwzpXzYxVlmQdex549PKmfhsQhzWNGAG5lOH7rf2NOGcPOkhG3SKRPFYQH2cs5rTyRqazSuO17vI1CA9epXCGW4ny14bAmf/HhFs2N+eYNMeDsFr342O614hdIsQcYnomSyzY0tOqSP6byj35bfU29/f1N8lZw+w9SH7VR2oeky+cI5QaNgxQ+Dm4XnRqSUmMKoXTiIwxyTy8kzdhvt1eufudVIxQkJI/5F7ztm9z8oU77Wss9vqbve3nTWZqDUbvd/T70DlfpRpNoQ6EmFJxlClpomSNYUnt3iZlLZwag==;HOG9wIbmu7xW+9DITHrFBA=="
+secured: "I2MPjqSK4ehNRzNYfAItAVjOp0trFui5G1KAnWvag6KcTiTNBWZLdliKJUMfLsgouznSBYoh6oZdMGIVrvKIR/oeOjmGgh2Lmtcw6vgeiNY/u5XubDBm+SzNHu3VBSu1C7A3iczf9mnsaRe+7t7Su3x0fdw/5wqwK5N15bDQlipHSyR29TxkjiGOcAqvaChSuTG8mjlGUHvQdZVOE40rzgxehP1clHT3Na6RGSyogcW9fK5L7oP0HoRsKAIVKiHBNiK7zZo+61kTfmEgnekJAOLkpnR5VXx96nAZCkumtbKRgqfcWldSHNU/0cUf1m00U/F12atTCQfmpLP2fv/9IPbHIYURfIb494i5LsIaJmE=;okPd1/PJzxxI0r+kz/yhgg=="
 ---
 

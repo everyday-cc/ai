@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techworm.net/2022/06/micron-worlds-first-1-5-tb-microsd-
 cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/06/micron-worlds-first-1-5-tb-microsd-card.html/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The First 1.5TB microSD Card Is Coming to Destroy Your Budget"
-    excerpt: "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1."
-    publishedDateTime: 2022-06-22T22:50:00Z
-    webUrl: "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625"
-    ampWebUrl: "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 54
   - title: "Micron Launches World’s First 1.5TB MicroSD Card"
     excerpt: "Micron has announced the world’s highest-capacity microSD card, the i400 1.5 terabyte card. The company announced the groundbreaking storage technology at the Embedded World conference in German yesterday,"
     publishedDateTime: 2022-06-23T04:15:00Z

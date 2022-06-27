@@ -1,20 +1,26 @@
 ---
 category: news
 title: "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers"
-excerpt: "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En"
-publishedDateTime: 2022-06-16T08:16:00Z
-originalUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
-webUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
+excerpt: "H2O.ai, the AI Cloud leader, today showcased a unique set of capabilities and use cases that enable rich insights by seamlessly connecting data and machine learning. Snowflake and H2O.ai bring platforms for data and machine learning together to help more customers around the world innovate with AI through a native integration that allows users to access all of H2O."
+publishedDateTime: 2022-06-15T18:28:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/h2o-ai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers/article_b0834933-0243-5393-b295-d37b1f6bb1df.html"
 type: article
 
 provider:
-  name: Bdaily Business Network
-  domain: bdaily.co.uk
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
-secured: "/eXVLVaqP4Uyzqacul1AVHQs0E2USsyxVG/+6QxZxFYq3ztuCIMjsI1imovz1Y58eKpO2R2xkf09Z0HqEP0Ffv3SBse0vqWUNXXGb+Rhf8bIq7NBjRtBvkl2cIhekT5QiU1nn/9Db4NQp8LoH8tCLV5C7wxZYlVSmoM6jeyb/eoAj5Cu+h03eUfvE9o3QVMjzlK/6/hzX4wcF5axUmiMBGiWl4DKLAb3mEWQzgVYLfpAYVc5aAuq3+BmfmowjG2yOEoaxz/FpGTRDp3F54p7RZnmpDpwTbZIb+YwHSMXm0t9WTx+jLAquGSC0RWNmdrl+j2BJJQUx0mvyZqX3aYo2FvbrIyGUkqBsUEz7sWV9szyQBW8bPiV+N85/SPki2f6UKrZ3beirn8DRLD8DdKwL3pEoTBxStxSgzde8Xk5ZKp7LP+SmqAm3hzvtgQX5ujiaHAHfte9XXJPgm3B9G3ubMVCoN1B/YQLzlv5DQat6JRYrH3siZBT7yCo4V4etUscYrIK4qe+hY7h0NkxiTOgMA==;CgEFUV8HFAnGEWmA79sWbA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "Dmc2XNLjUCqax4cBgWkjpbdCZExg1fdkPWnXcP7nssFqGcqATcKY5SEb2VYXtJqN4pCc/GshnEnZsfH8XL0NRzLWq4Hna0cekvPhBXAGT5F1tXNamScv/XlVJ9Z6iw0MreiNI1/c0Q9QPc8tFO6P86LGxkG5z1jlXgrDSaeKL2s8gUeK1A3wKDdnNAY6nUU1asQ6FpN42ggtmW8py9l5xxXm6HLiDr24ve2cGn/703gXyhQuAH2Ixk+Pon/jSffgEA7gxoutgVvLTibhlXqhuCSAVfE6sAx/XCtF5cl7uFn2JiLJSC2BEBwEZUzVreZKOpqSRUAvIoUIse0Js9VJtgH8CbLTEkj+wUAHwbj+Scw=;RuOkkNP5CXakkPQRTnTO/g=="
 ---
 

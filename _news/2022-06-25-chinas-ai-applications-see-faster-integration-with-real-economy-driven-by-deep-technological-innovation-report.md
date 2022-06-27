@@ -133,6 +133,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "CallMiner Named Best Overall AI-based Analytics Company in 2022 AI Breakthrough Awards"
+    excerpt: "Award recognizes CallMiner for its use of AI to analyze customer conversations at scale, driving improved customer experience and business transformation. CallMiner, the leading p"
+    publishedDateTime: 2022-06-27T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-27-callminer-named-best-overall-ai-based-analytics-company-in-2022-ai-breakthrough-awards"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 9
 
 secured: "yDWHNTq9O1vypQjYSnbmtJFh3pCJY360aNHRDG5xzHm0T+tOj/8AwmVTTrn2W9zTlhcYAnW0redjN2Q/bcAIro4Bp13BSDs1lueRKthi/gkqfC7BQGzykCl0pWMfudVQBch39EFpUNJnt5sT//Ugted1McYuytIpxCJ3oGNUtX07VbP9vQhssm2/BplTGg2DAB4sZE7QOPy/vXLtw4OFIsf3ZyTeReo69U64uFt0p7yufv39vHG3tNj4aL892KB1QwonL8719Mx2vmJXCyj6ZlcB4DbHgSAKMMyxxs6rPj8XGN50YSMzukTtkewN/MWo2xSpAGclCwPOQdvCLBLls3f9O1MnU9TVffy5dek8Ht8=;3FdLEITeoPIDxvyjY36WFQ=="
 ---

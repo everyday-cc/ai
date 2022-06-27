@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T13:21:00Z
 originalUrl: "https://www.cleveland.com/news/2022/06/powerful-abstraction-by-the-late-carmen-herrera-highlights-cleveland-museum-of-arts-latest-round-of-art-acquisitions.html"
 webUrl: "https://www.cleveland.com/news/2022/06/powerful-abstraction-by-the-late-carmen-herrera-highlights-cleveland-museum-of-arts-latest-round-of-art-acquisitions.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Cleveland.com

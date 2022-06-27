@@ -5,7 +5,12 @@ excerpt: "Researchers have developed a way to detect the presence of rock art in
 publishedDateTime: 2022-06-27T13:53:00Z
 originalUrl: "https://phys.org/news/2022-06-machine-learning-hidden-aussie-art.html"
 webUrl: "https://phys.org/news/2022-06-machine-learning-hidden-aussie-art.html"
+ampWebUrl: "https://phys.org/news/2022-06-machine-learning-hidden-aussie-art.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-machine-learning-hidden-aussie-art.amp"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Phys.org
@@ -14,7 +19,14 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
-secured: "YENthqDSxKHmmjyNCOdVAMNwId4xNG2fiUzvrRRftBsRJa/hjfo7ZCl96PGZCp+sgib/FhDgExtx1dTX4zoMroXMg/3zwBqJZMD2VgDpLZh+9/YyAKAfcptottrTqP+QKAhy9cLQrzlJjPuTKxufSkUHw444M3sQiF34POgnhjJfKqG6ZMMUVZX7qMSW8nSO0LTKFcefwZjn95kU3fZ5SA+NiMNBA5XuHuLyGV0QCk6UAkCSpjPMipzsXhMXu8fJOu84upP7ezGN3SQq8vEmqU0o5vjAxhJl48kFoU/RO9yK0YgP3QlSHNk46XExsiFVKJi0Re+N1umPJWeuGMLyWRnn7U+IdxVeeHfJuCwUArAvXeCHbv0+XNrkkPY9SYMxTH5K7VD3aJEEm2B1mzVXXkKpSpsq5i6GWC6EWCyDXFCf7lBi1r2qERMmCoZ+xUkipFyFjh+fujzYoopBbv8Mms0qaO5eW38sra0pm0SpVlEZRmOATaPj8fqGx/f2DE102h5YJW6Gz6CatKzQbRXTiw==;2y3UP0Y5bViiohKMF607gQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine--learning-mode.jpg"
+    width: 1302
+    height: 809
+    isCached: true
+
+secured: "IWNMjqWdoYg3xgp5Cc+UWx8sVDhRHWwCT0rL96WJMcTOqL6Ttkyl0+HhJ7dg2UEMElWxp3QS2VlJvtkKLYSP4Q4bJ2NEjTTV47VMMC7H+rsraiOIwTmT6KXqdJj4+MjG3IgcruaVi8xWctVL9CUiTthvLxZty4QlKLkEObmGAyabOLBkM/s9awlYUmIsZUNgy42IGODsO//IDCwcbgUFApnsyew43IowrlCGkHv4jE3zzYC4SuMrSbiLvwkOeZuSlm2iSJhiqGrwyX3M8qtfR/fDmOA3iqRn+wJSBD6E75JP6xZdISfGjXNb2pJ8/AmmVevbYcyBIsNwdFNAco+sXJTSAOKfx9ivY1ZJht7ZH8w=;DR8rf/gXrnCkC6QOGZZsow=="
 ---
 

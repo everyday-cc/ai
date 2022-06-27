@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: Gizmodo
@@ -22,6 +22,36 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI learns to play Minecraft by watching 40,000 hours of YouTube"
+    excerpt: "OpenAI's latest AI learned to play Minecraft by watching 40,000 hours of YouTube. The company, which specialises in"
+    publishedDateTime: 2022-06-27T14:18:00Z
+    webUrl: "https://www.eurogamer.net/ai-learns-to-play-minecraft-by-watching-40000-hours-of-youtube"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 37
+    images:
+      - url: "https://assets.reedpopcdn.com/minecraft-wild-update_utcjZFH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/minecraft-wild-update_utcjZFH.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "This AI learned to play Minecraft after watching 70,000 hours of YouTube videos"
+    excerpt: "An AI has learned to play Minecraft after watching YouTube videos of people playing the game for 70,000 hours. If movies have taught us anything, it's that we're inevitably hurtling toward a future where robots will become so advanced that they'll rise up against their creators and wage war on humankind."
+    publishedDateTime: 2022-06-27T15:04:00Z
+    webUrl: "https://www.gamesradar.com/this-ai-learned-to-play-minecraft-after-watching-70000-hours-of-youtube-videos/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 33
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/x5GaA4GkehF4fUQjTExNoZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "lY+EamPIr5HssYYi+d69je8hnDDXBlvKQ511CAC10IQslAQTv443oXjrmDkjzZ5wFayOnp7hhVrIBZOfnyGBx7LjnSy2MdR3ZstYZrWkolHcPBGX91rrQ6T7xXk2G4fCQ9rAOJCY6vOkikijIq9QGKMuFgYueuuBXWv6aNbFEPH/PLmwURmTt217FleZW/xojMD5qCX/jEgbHsc+2sohIakslpHwJS0pEAB5hLXoAvdkDqg69rdA0AsuT4wjB11VIFq1YALwHCTqXQ9z0lAO43hSTeAM8TP6LhRQ7zWzd6V7Lpz7JdyYUkgpw/loDhCDq3jlTz4IIFkomVaIElp8Nus1UAoHz3Xy2LM8q9lzJCSHa8zqt/yaNxSHLOO/m0mowjwj5PtvbNdOgx3dqYL9DJye2Itymjbs2rhQkk6S9LyObc5MkJ19U7dwM2owQISIc9g9/wqQSYHsBw9p1b8GbS/FM404PsgecmOp1WwYDmeCoZ1GJWezpQnlpl4/ZDDKqrvG7K7RgjuirEvDqIHxmg==;a6UWFZ66a5bPxKaaQW6gww=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/predict-types-of-mac
 webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
 type: article
 quality: 110
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
         width: 1245
         height: 620
         isCached: true
-  - title: "Visual inspection automation using Amazon SageMaker JumpStart"
-    excerpt: "According to Gartner, hyperautomation is the number one trend in 2022 and will continue advancing in future. One of the main barriers to hyperautomation is in areas where we’re still struggling to reduce human involvement. Intelligent systems have a hard time matching human visual recognition abilities,"
-    publishedDateTime: 2022-06-22T21:34:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/visual-inspection-automation-using-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/04/ML-8409-image003.png"
-        width: 1138
-        height: 415
-        isCached: true
   - title: "MLOps foundation roadmap for enterprises with Amazon SageMaker"
     excerpt: "As enterprise businesses embrace machine learning (ML) across their organizations, manual workflows for building, training, and deploying ML models tend to become bottlenecks to innovation. To overcome this, enterprises needs to shape a clear operating model defining how multiple personas, such as data"
     publishedDateTime: 2022-06-24T17:51:02Z
@@ -71,6 +57,34 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/mlops-foundations.jpg"
         width: 1246
         height: 619
+        isCached: true
+  - title: "Inspect your data labels with a visual, no code tool to create high-quality training datasets with Amazon SageMaker Ground Truth Plus"
+    excerpt: "Launched at AWS re:Invent 2021, Amazon SageMaker Ground Truth Plus helps you create high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements,"
+    publishedDateTime: 2022-06-27T15:49:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/inspect-your-data-labels-with-a-visual-no-code-tool-to-create-high-quality-training-datasets-with-amazon-sagemaker-ground-truth-plus/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/27/inspect-your-labels.jpg"
+        width: 1244
+        height: 625
+        isCached: true
+  - title: "Amazon Released Incremental Training Feature in SageMaker JumpStart"
+    excerpt: "JumpStart to incrementally retrain machine-learning (ML) models trained with expanded datasets. By using this feature, developers could fine-tune their models for better performance in production with a couple of clicks."
+    publishedDateTime: 2022-06-27T15:04:00Z
+    webUrl: "https://www.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/en/headerimage/amazon-released-incremental-training-feature-in-SageMaker-JumpStart-header-image-1656331499762.jpg"
+        width: 1200
+        height: 629
         isCached: true
   - title: "Amazon SageMaker Ground Truth now supports synthetic data generation"
     excerpt: "SageMaker Ground Truth can generate hundreds of thousands of automatically labelled synthetic images on your behalf."

@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "REwuB99OX6Gzycikb3Wxoc9DzF3Bn2ybtntthDgGtDef/s9xN0ZGgB2Oc8sMhaYDt8i4GquWyVsw0/b3EN6YPADrktn1OnyiKj+Y8yaUjgbiQpUELZxMTT6tT+Ba1grCxZ5bdd1+XLJdepSy3Df1wNmo4iROLIBuUzj/CRJNvXQFmUJ2DUif4okj8wfBowFFFc5MPCPsWHDbM+HrqI7yFIJqOFPy3eAHorlSuTyYJWMO3gxZqSl1S2oYI0gSC/fZHFyLZmAoDynYvZPqPyQ2JngkaVNWIO43HrWqU7eoxdaK3jLf5AASkQv17M6fA8rYt1glLj9Yjk/EY15QP6N5G29hdgsNHIJJ7n0zd8udiBlLp50WC6LO/lxjrBM3xdBiLc1u9FWjLBk2PaIwK9Uw+BXX3i8ZO5CeN8Lfge85q62pph5sFFFKA5QZqCm9fMjIBb2n59V+DCAAA/VneGayTlYxUtIkz9euJ4h2CityMczpgY9iMQLNiPLrBDesPuytr2Lffg5JzkqA8R4Lz0EL8w==;1asrFkygnkDs9kTWsfasDA=="
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fgalaxywhiteboard.jpg&signature=d99c7d3f5a9cfbeca7e9f3c9ae5c2f5b"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "n5cb5B2+J0FhvCEAE45XZnkqqFHJoKT6szOKkRPHhymiZWsf4RNU4yfvVk4K8nW9hz3LL/IM2fZ+uaS0xjohvROVp3dpKrWyy7YNaLwwWopUNSaxyzLGiv/NtOY+2IK9NNhvs0fDlfymIo+ntQtkIoMszSaaNvMFgZ0ZIyegPuJHiQW83Dho8ne19RuckxKlA7l3G1pyeo4704tZiHVzi3q4tOoayE8Hn0kVSX73g1mFZuWJZin00YyoF9jPlSmz8O8Wm+CVJwIu1bjQ7AgUAhfFvtT8otlOpGkytntBLp09+BLZ0Qz4CwhyZY7h+dm5qEfnTUKxvUnhEXCY7vxnGo+7oQNnb/UVzNUc8iLuI6k=;lAYVajBBe72OHfo9Eybwtw=="
 ---
 

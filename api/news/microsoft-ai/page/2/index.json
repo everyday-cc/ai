@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-14-arkestro-brings-ai-to-erp.md",
+      "title": "Arkestro brings AI to ERP",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
+      "originalUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1317265017.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
+      "publishedDateTime": "2022-06-14T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-consumers-drive-retails-digital-transformation-says-microsoft.md",
+      "title": "Consumers drive retail’s digital transformation, says Microsoft",
+      "excerpt": "From e-commerce to omnichannel, customers drive retail’s digital transformation in the Middle East and Africa (MEA), Microsoft, the software manufacturing",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "originalUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/11/Nigerias-E-commerce-sector.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
+      "publishedDateTime": "2022-06-14T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-3-technology-stocks-that-can-prosper-during-a-tech-downturn.md",
+      "title": "3 Technology Stocks That Can Prosper During a Tech Downturn",
+      "excerpt": "That cloud-computing services segment produced $5.8 billion in revenue, up 44% year over year. According to Synergy Research Group, it lags only Amazon and Microsoft in terms of cloud market share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
+      "originalUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/684836/gettyimages-1209867567.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse.md",
+      "title": "CaixaBank and Microsoft establish an innovation laboratory for AI solutions and the metaverse",
+      "excerpt": "The agreement will see the two companies start up an AI Innovation Lab, with particular involvement from CaixaBank Tech",
+      "sourceUrl": null,
+      "webUrl": "https://ibsintelligence.com/ibsi-news/caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse/",
+      "originalUrl": "https://ibsintelligence.com/ibsi-news/caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ibsintelligence.com/wp-content/uploads/2022/06/CaixaBank.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBS",
+        "domain": "ibsintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-splunk-doubles-down-on-security-observability-with-90-release.md",
       "title": "Splunk Doubles Down On Security, Observability With 9.0 Release",
       "excerpt": "Data platform developer Splunk has debuted the next generation of its core on-premises and cloud systems, offering up a wave of new capabilities and features that will help customers collect, manage and search increasingly huge volumes of machine data.",
@@ -1137,180 +1327,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics.md",
-      "title": "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics",
-      "excerpt": "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/07/1296568-aicte.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "publishedDateTime": "2022-06-07T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the-year.md",
-      "title": "Open Systems Recognized as a Microsoft Security Excellence Awards Winner for Security MSSP of The Year",
-      "excerpt": "Open Systems, the only cybersecurity services provider with Mission Control, today announced it has won the Security MSSP of the Year award at the Microsoft Security Excellence Awards 2022. The company’s achievements have helped it rise to the top of the Microsoft Intelligent Security Association (MISA) – an ecosystem of independent software vendors and services that have integrated their security products and services with Microsoft’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science.md",
-      "title": "Does cognitive computing offer the next wave of analytics beyond data science?",
-      "excerpt": "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1327016094-e1654538126130.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-06-06T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-stem-toys-that-promote-cognitive-skills-critical-thinking.md",
-      "title": "STEM toys that promote cognitive skills, critical thinking",
-      "excerpt": "Toy expert and speech-language pathologist, Erika Cardamone, joins Real Milwaukee from PlayOnWords.com to share awesome STEM Toys that promote cognitive skills, problem-solving, and critical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills",
-      "originalUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills.amp",
-      "cdnAmpWebUrl": "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/stem-toys-that-promote-cognitive-skills.amp",
-      "publishedDateTime": "2022-06-06T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX6 Milwaukee",
-        "domain": "fox6now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

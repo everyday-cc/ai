@@ -41,6 +41,15 @@ related:
         width: 792
         height: 536
         isCached: true
+  - title: "Process of allowing self-driving cars on UK roads has begun"
+    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
+    publishedDateTime: 2022-06-27T14:11:00Z
+    webUrl: "https://www.getreading.co.uk/news/uk-world-news/process-allowing-self-driving-cars-24331951"
+    type: article
+    provider:
+      name: Get Reading
+      domain: getreading.co.uk
+    quality: 4
 
 secured: "NNkCIDepDf1aGMa3xE33GSBBHvHaINby4C+9EDK2XwihTKpA26ErJhiumDdNDOIiDhBmX2/v6WBOnRCfTqFpyUbDlRiI4T2pYvSelyixHjIO9kdaubQ7MPoW7I8XGeG1lGrxDL1lJ4CJeICLoypnShqPBmgfb+vrJFtuh9QJpBaE0P75lDx+r14v7c/OfdKcwdBA7xT/2gHz49VS3VbnAh1YY+SDDAdNBBOAAnR1CuFNXt7nkZpGW9qMuxZLKiJXdledjx1TCPxeIn0FvOlQg9d8KT4og/fFVjX6wsgOWuMw1pBWicXi04ZTY9JLDHAUs2B4q4bP46MQ6uu79ENvCU40SecA0wu/pg23Ht3fbTaEL/F0CS35iiZ5QrP0XuJ4ugCvgONLwSZORIoDntvoIAO28jsKEPfIJA2LMRb2ZayeBGVMhDvRd17BWZrQkF0oIgFT5Yj2BLX8t+nPEf0ZCNVYsTdkJ+sLhWEn8/daMeK3/fJ0oP1CM3P2v0gjRfJ1qrjZ5TN94wh1pGSmY22bwQ==;vC5ZYIEd+JvNCZnc0R8d/A=="
 ---

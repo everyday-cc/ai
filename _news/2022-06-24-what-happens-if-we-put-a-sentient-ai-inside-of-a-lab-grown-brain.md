@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/what-happens-if-we-put-sentient-ai-ins
 webUrl: "https://thenextweb.com/news/what-happens-if-we-put-sentient-ai-inside-of-a-lab-grown-brain"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339"
         width: 600
         height: 339
-        isCached: true
-  - title: "Google’s ‘Sentient’ AI Can’t Count in a Minyan, but it Still Raises Ethical Dilemmas"
-    excerpt: "In part, the story feeds into current anxieties that AI itself will somehow threaten humankind, and that “thinking” machines will develop wills of their own. But there is also the deep concern that if a machine is sentient,"
-    publishedDateTime: 2022-06-22T20:31:00Z
-    webUrl: "https://www.jewishexponent.com/2022/06/22/googles-sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
-    type: article
-    provider:
-      name: The Jewish Exponent
-      domain: jewishexponent.com
-    quality: 47
-    images:
-      - url: "https://www.jewishexponent.com/wp-content/uploads/2022/05/SFTH.jpg"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "bEMx7qGa9DWuCBCDxMwKPUpClrkHBZUpuAawy56IzBs+sc4Pf+xMitn63uYrTo/QB7FuX7ecAyGfvT2oyd3JuoXXFhDcBphH3wBceza7RSHj6yFew3EyUZUsFlCwoocReszVwL5TNfaPfjrEKL8fKkQKrNQRco/BZSz28kBBGWbQPivmW5OAoh4nq9pqDrQiJTvajxS9Va3kPeKmxB8pXI4cmppAUrp3DGW6FZHRU/exGa2A6oTauz6eZWIU2ZWI8dUQAhfm+mVF3GeHmtfg5AoqHkb37e3HAqWm3zXs+SsaM/8Rhd5pw41yAbmRfY6fVLWKACMexlmKmLxqyX8MauQEXTj9vpw8MM7AvnSmOgI=;//jr9eYx8oy+vwHSrY797Q=="

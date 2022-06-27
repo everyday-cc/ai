@@ -40,20 +40,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Artificial Intelligence could help equine gait assessment"
-    excerpt: "University of Florida scientists want to assess livestock mobility faster and more accurately, ultimately helping farm animal health and production. To do so, they’ll use artificial intelligence (AI) to analyze high-definition video of the animals as they move."
-    publishedDateTime: 2022-06-22T20:51:00Z
-    webUrl: "https://equusmagazine.com/news/artificial-intelligence-could-help-equine-gait-assessment/"
-    type: article
-    provider:
-      name: Equus Magazine
-      domain: equusmagazine.com
-    quality: 52
-    images:
-      - url: "https://equusmagazine.com/wp-content/uploads/sites/3/2022/06/Screen-Shot-2022-06-22-at-4.49.29-PM.png"
-        width: 662
-        height: 436
-        isCached: true
 
 secured: "myuIHi0EwV3xzIk+99OtoRqUpn0aTmcPSU6EzOv5IYdW4W5FIul1a4nYusfMJssPntTkWVR3BzexQYbd7aHMMt2HVwyfGzSMBVKcpzl8nxLY1D734BZlswjUy2LaNoiPHa1SM+9pYCr20/zRPujksPWztfI182CcJlANsFLSpbCyrzowSK7ouLXmmk1I8rIfAmKPiNUggdXXSuv7BcMLcf/sGYdWk2tNG+ej2OYr/89wvFLvnbT0+Ok1lOYRhANi4ASbUQOyBymh1i11JNwKOEViISxZx4gNH07pWYqzwXcrazOGYqXXkmO+IsQftOb43bOtnX/OkURVV1vFWmX342hQrSSWPRGFZ8VNRxVP7X9IzbUDObuHV1wNvpQL2JBjiO4T2zFZTuRd5TnbMCYl8kRhrXr/hL/ILFsudd7ummCFNbazIfcBPcqW773oVNawvxztK5uJFhYTVen5yfFA7QQo2PxFMSlwlcPkAxNgowY/Iv4obw0+pQ/axGkBdmfB+T0ReuWcNNr7Mmf/QKYjfg==;uXbXiSI7/niClvdBPlwHzQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-in
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
 type: article
 quality: 54
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "CallMiner Named Best Overall AI-based Analytics Company in 2022 AI Breakthrough Awards"
+    excerpt: "Award recognizes CallMiner for its use of AI to analyze customer conversations at scale, driving improved customer experience and business transformation. CallMiner, the leading p"
+    publishedDateTime: 2022-06-27T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-27-callminer-named-best-overall-ai-based-analytics-company-in-2022-ai-breakthrough-awards"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 9
 
 secured: "S74tTFJPCSN4gtKDwWRikGFpY2s9Lu2I0AUAj23F9LjXEsknn3woLwfTGDmIs0eQ0yYIRZ0MXCXCFeFXbzN8/+8o2YSwFQzNuJMKXsQ2hwQmvBcQiL0VbpUGaQDt0X37/l89PFIPWWKPltWiap7iv6h/DIXqAJ9i0ac/LYI6Qavnlk3Oiu2et6aNcRwb34K7p2QNcH1mTYOOA0L2YRSCE5pPHDsLs+YRDID8IoFahbU4tuUkpWMRkbMdDEK+2qvzlJgPBsvz0DfVOzoZDvRcNll+yNiIXhgXCHRk1vbZQXH8aesWvvWjMsWzeevfZiHSg9OkRuL3K2qbSVP6S+mVZ00bW6gxp02ivfDdHB63v8k=;ZZXkNgofr/kzoI2ZzI8pfQ=="
 ---

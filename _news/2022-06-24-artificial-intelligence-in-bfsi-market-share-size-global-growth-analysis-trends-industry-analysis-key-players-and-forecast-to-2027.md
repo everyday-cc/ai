@@ -22,33 +22,28 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Size, Share, Value, And Competitive Landscape - 2022-2031"
-    excerpt: "Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market' in its database of market research reports which provides its readers an in-depth analysis on the latest ..."
-    publishedDateTime: 2022-06-23T09:43:00Z
-    webUrl: "https://menafn.com/1104420041/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Value-And-Competitive-Landscape-2022-2031"
+  - title: "Global Face Recognition Device Market Recent Developments & Emerging Trends To 2025"
+    excerpt: "Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
+    publishedDateTime: 2022-06-24T14:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-recent-developments-emerging-trends-to-2025-2022-06-24"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357951"
-        width: 394
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Research Report 2022, Size, Share, Trends And Forecast To 2027"
-    excerpt: "SHERIDAN, WYOMING, UNITED STATES, June 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intell"
-    publishedDateTime: 2022-06-27T10:14:00Z
-    webUrl: "https://menafn.com/1104437488/Artificial-Intelligence-In-Healthcare-Market-Research-Report-2022-Size-Share-Trends-And-Forecast-To-2027"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "Natural Language Processing (NLP) Market Size 2022 Future Trends, Global Top Leaders, Growth Factors, Development Strategy, and Forecast till 2028"
+    excerpt: "Natural Language Processing (NLP) market provides industry overview, segment by application, sales growth rate comparison by type, size estimates by region, competition by manufacturers ..."
+    publishedDateTime: 2022-06-24T06:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-size-2022-future-trends-global-top-leaders-growth-factors-development-strategy-and-forecast-till-2028"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
     images:
-      - url: "https://menafn.com/updates/pr/2022-06/27/EP_00e02image_story.jpeg"
-        width: 300
-        height: 300
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Google-cybercrime-AFP-1K-01-e1638923704870-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "hVS9yw5sQ/fzlTrE8Pj06yv+Y5mGGRAMeqf/b9knwiZLI4T7THARxZjcBXfwtT5AnvHXdkTQ2z/vM7B1Uie5Ei46S02A3+F75Hzt6InBR6rWGF37pcFAStoX+NZZXaWCD/o30jEk9UfNH0aGF8aUJ/VQOLoCrsTFDPeElVBHvcpdeW2mJMMLGEhx9BwFzvD2aDhxu6kE/OrrBCAsJ/UAlc4cGSg/OXs26Jy6gVJYpFt7uE9O/oym0Eb+1cPxIW7kNWsDZ5J0l8nup4HuBqcRYG6j8RiF2d0Qs9MMPRYr1S7qG0jC+YkkosJApIe9eyJvkESnaf1R8oYkOUpuH+MAgHtX8Ec22cwIYbw4lvJDaDA=;hELqJfizMBWFeJG+FY1lnA=="

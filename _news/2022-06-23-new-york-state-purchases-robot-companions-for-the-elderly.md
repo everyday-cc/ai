@@ -7,7 +7,7 @@ originalUrl: "https://www.smithsonianmag.com/smart-news/new-york-state-purchases
 webUrl: "https://www.smithsonianmag.com/smart-news/new-york-state-purchases-robot-companions-for-the-elderly-180980181/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1600
     height: 1068
     isCached: true
-
-related:
-  - title: "New York to Bring Companion Robots to Seniors' Homes"
-    excerpt: "The New York State Office for the Aging has launched a new initiative to bring companion robots into seniors’ homes — and they go beyond the common virtual assistants to proactively support seniors’ needs."
-    publishedDateTime: 2022-06-22T22:31:00Z
-    webUrl: "https://www.govtech.com/health/new-york-to-bring-companion-robots-to-seniors-homes"
-    ampWebUrl: "https://www.govtech.com/health/new-york-to-bring-companion-robots-to-seniors-homes?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/new-york-to-bring-companion-robots-to-seniors-homes?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/bf830db/2147483647/strip/true/crop/2172x1133+0+208/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F80%2F34%2Fb69881e44823aed5fafefba9efb7%2Felliq10-1.jpg"
-        width: 840
-        height: 438
-        isCached: true
 
 secured: "6A/QL7n9/I5KsB80Piw91IOmdzN7jRfQ90tBpZxtQuo3bwbXvocRfBVFEwucNBKBNngROJZA2xu0BGU5YEQTyMvTtsmiCoIqXOV0BQ8u1FvHHyBPOLjYCGUWrRTuxjfib38CNDHkYRyBE+NzXWQUXbMnwP1I+/FAimJBpSSVM9agLE5u3/H0XkfIHWx4rW2d19oyDRBtWO4rRnk+J26qhosbWJUyIRARe1dqcCcmIqvoBfDDTt+6T51yr2lR6HjDYl7X3Xxnh+SIF8UZGRp+L/C+NiwJi8Hv4RJLoT6E6fnQ+YxXug+FkqeDjD3MJvYKb9Obj/SPILR/ry3wfjPtLm/d8FfyvFb2ZxQqhI16mEhVJYzqeAPczCSEzVPcXlfKYt6T4AP4V/M5yCaRY/D1Ebgm7FemQjfaldIAhLP2ngPKE63pVyCDeLtvbQL5nfqpuRskwMvxOGdhNDsNARr/9RXKSNEEi7BAUAjAk1c5IusL80zUuULU4tmSDLvm3IzC2QJKOg/qYYj/PnobdngakA==;xzLFYRXehUECKDPmAiYFdA=="
 ---

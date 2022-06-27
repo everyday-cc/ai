@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-24-how-to-use-human-centered-ai-with-forethought-and-nea.md",
+      "title": "How to use human-centered AI with Forethought and NEA",
+      "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/",
+      "originalUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/TCL-2022-06-29-featured-1920x1080-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
+      "publishedDateTime": "2022-06-24T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-chatbots-can-use-ai-to-guide-customers-to-the-right-human-based-experience.md",
+      "title": "Chatbots can use AI to guide customers to the right human-based experience",
+      "excerpt": "Chatbots that use more advanced AI algorithms could give customers a seamless experience transitioning between technology and humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6",
+      "originalUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/612e98ba12b9cc001963956a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6?amp",
+      "publishedDateTime": "2022-06-24T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers.md",
       "title": "Cruise’s driverless autonomous cars start giving rides to paying passengers",
       "excerpt": "The milestone comes after Cruise received official approval from the California Public Utilities Commission in early June to operate driverless in a commercial capacity. Initially, Cruise’s ...",
@@ -487,7 +589,7 @@
       "originalUrl": "https://thenextweb.com/news/what-happens-if-we-put-sentient-ai-inside-of-a-lab-grown-brain",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -631,7 +733,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -735,7 +837,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1075,7 +1177,7 @@
       "originalUrl": "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1096,91 +1198,6 @@
       "provider": {
         "name": "01Net",
         "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-the-maker-of-the-worlds-largest-chip-has-made-a-major-ai-breakthrough.md",
-      "title": "The maker of the world’s largest chip has made a major AI breakthrough",
-      "excerpt": "Cerebras Systems, maker of the world’s largest processor, has broken the record for the most complex AI model trained using a single device. Using one CS-2 system, powered by the company’s wafer-sized chip (WSE-2),",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough",
-      "originalUrl": "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom.md",
-      "title": "AI adoption to add $500 billion to India's GDP by 2025: Nasscom",
-      "excerpt": "The AI adoption in four key sectors -- BFSI, consumer packaged goods (CPG) and retail, healthcare, and industrials/automotive -- can contribute 60% of the total $ 500 billion opportunity ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92411737,imgsize-111048,width-1200,height-628,overlay-ettelecom/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "publishedDateTime": "2022-06-23T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

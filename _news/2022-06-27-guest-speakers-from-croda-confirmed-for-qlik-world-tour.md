@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T12:44:00Z
 originalUrl: "https://www.thebusinessdesk.com/yorkshire/news/2095717-guest-speakers-from-croda-confirmed-for-qlik-world-tour"
 webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2095717-guest-speakers-from-croda-confirmed-for-qlik-world-tour"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The UK

@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence-enhanced journalism offers a glimpse of the future of the knowledge economy"
 excerpt: "In this case, who – or what – will do journalism in this AI-enhanced and automated world, and how will they do it? The evidence I assembled in my 2019 book “Automating the News: How Algorithms are Rewriting the Media” suggests that the future of AI-enabled journalism will still have plenty of people around."
 publishedDateTime: 2022-06-25T14:02:00Z
-originalUrl: "https://madison.com/lifestyles/technology/artificial-intelligence-enhanced-journalism-offers-a-glimpse-of-the-future-of-the-knowledge-economy/article_69275991-9ef0-55e2-8939-b491f8704414.html"
-webUrl: "https://madison.com/lifestyles/technology/artificial-intelligence-enhanced-journalism-offers-a-glimpse-of-the-future-of-the-knowledge-economy/article_69275991-9ef0-55e2-8939-b491f8704414.html"
+originalUrl: "https://madison.com/lifestyles/technology/article_69275991-9ef0-55e2-8939-b491f8704414.html"
+webUrl: "https://madison.com/lifestyles/technology/article_69275991-9ef0-55e2-8939-b491f8704414.html"
 type: article
 quality: 23
 heat: 23
@@ -23,6 +23,6 @@ images:
     height: 315
     isCached: true
 
-secured: "kFRaRyRmk07AXVtd7yH05icCFGjvC1L0HpXpTtGVL+A0PDY61inCytS7cPiGF3Dqzv/wQRZpYZCyIN/s7d/i3FQp3ocA39ll+wIz/1jcALJWzvSZYQ3U+TSVIiS9Q4VjGM6rHzBHT3Of43+xFV2Z8Xt8HuZwto5T4j7gAs7CzPnZOgaNhc+04cKUTCu3EjmzbPQ67+x3dC/chYZKEexQiWgJujdpiZzemVCf1DzjA30rhEhRDBkWlb84aKkwYE1y4xyJ/uL54mEy6qaBcAD8O7vOaW33sF2sJ5IRA04pK3X1Xxpwspqz41VCff0ROF6L3SjSGFV91FdyVwamEmYeBg9uDcgSDMSmSTWEcQHNXN4=;2jayyqjBBBDhRVtFgN2XuQ=="
+secured: "WXl8JKaGIGXknYoiTnMzgIA+erbH92CbHrFWFbVzGAXoRoXVmRegfeDHYvjnzQTS/ouwL8Jjmz/WcnbScA/4+uqky2e0nnH63USbqExLxBatHg+BYTpCE80QVggWmM0lXUyB0K2Hi/y/tZ0qi056RpwypOkUo/GQe3vr5N0Mtwo3GwYNvP8E31XooYCLbEFgKMssR8CScNWh0KW0OgOqzV32iMCejx8OF40MauMI6eaoTJgLryk8T+BM1/oq9Sp274jM8w64w8Ts2yg7Hn66MhWbCyCjqBdvOOcsaAVaUxG2O5y2kLhmDy3CW7rMPuVyEVhQ+KTZOnYgFvY4HPTdN+0SQ83AcaXKL9WwjLEpYbs=;fVjxK28W27ehJ94u0ASoiQ=="
 ---
 

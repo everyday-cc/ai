@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T15:37:00Z
 originalUrl: "https://venturebeat.com/2022/06/27/advances-in-computer-vision-are-set-to-disrupt-the-healthcare-industry/"
 webUrl: "https://venturebeat.com/2022/06/27/advances-in-computer-vision-are-set-to-disrupt-the-healthcare-industry/"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: VentureBeat

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T18:02:00Z
 originalUrl: "https://www.medindia.net/news/is-glaucoma-linked-to-cognitive-dysfunction-207691-1.htm"
 webUrl: "https://www.medindia.net/news/is-glaucoma-linked-to-cognitive-dysfunction-207691-1.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Medindia

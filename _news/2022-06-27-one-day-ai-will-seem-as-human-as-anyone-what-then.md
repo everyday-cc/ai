@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/"
 ampWebUrl: "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:

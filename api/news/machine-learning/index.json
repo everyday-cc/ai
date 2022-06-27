@@ -204,7 +204,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -445,10 +445,10 @@
     {
       "path": "_news/2022-06-22-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform.md",
       "title": "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform",
-      "excerpt": "\"Sinequa is differentiating itself through its use of deep learning (artificial neural networks), by applying multiple deep learning models to provide more accurate and relevant search results ...",
+      "excerpt": "Enterprise search leader Sinequa today announced the addition of advanced neural search capabilities to its Search Cloud Platform, providing unprecedented relevance and accuracy - at scale - to enterprise users.",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -458,11 +458,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:05:00-07:00",
+      "publishedDateTime": "2022-06-22T08:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-26T01:05:00Z
 originalUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-selfdriving-shuttles-at-route-66-road-fest"
 webUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-selfdriving-shuttles-at-route-66-road-fest"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: News on 6

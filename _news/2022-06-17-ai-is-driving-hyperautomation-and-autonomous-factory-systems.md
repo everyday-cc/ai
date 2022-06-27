@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/05/data-observability-e1655328076213.jpg?fit=800%2C526&strip=all"
@@ -40,6 +41,6 @@ related:
       domain: indiatimes.com
     quality: 13
 
-secured: "Am9qZq25ZXmbYu4RGUn9BwtrEbmLsDs2KiEI57j8gDexGr5nSRqsRB8vYTpLIPM10iMNZi964E2deWeCpgJE0qh0qQX9T+/k+tZkH+nl81snNRYNLh39fy2ZU5nRZwZDneUL8K6Y3JySSS1rfLNkk3T30ebBZ9briojhxkkZoUFaz3bXmBFTpqPrKHnEpM/L+ObzgNk/Ez0QybqBBB/CxvQ5i4IqYmCCN9huOOS7770yBw9hrh/qYHBtFslNTF02lJJesQ32+Ayqq1OLWWmJ8PSQ7pp8lBhB4LEg9b+rt4zdpGvtXt9tBtRo2bV6bl9ApVKxgXeVMVoCNO88ozWg4zsocnoDBJY8CMMaOJlz3dI=;SWpywaKz6vtMjxCTW1KILw=="
+secured: "lIm94hhrzCk7zbfXik/j12ap1gYmDrjhRBbbUzny7eJXIvw4WSRYCr9HEBqZZ5NKmzPQ7/m+Y+G4fxmm0NUOGVxqEgrktJsvNhe65ww1T65iD3XgM6UxLUsAc8FzmxWZmmWIotq3ZE2zbSObMaJMpLQ6Rt4xZmmEyjQsSzP3nOAdl/NHm3m+dDHZzdbq+X2NBZ9taOATxxFuNZSnhCOfA73aKiPCT7muULqsNBWzh+GzaqUrMg9ThbN77gLjQc676q8YBtpmeI3mHN2LH4ehjdtPeQ66YE7AI30kKTMfcUhVl84CoYpMv9CWPIWmU/m/Nbh++qqR6TMI7EHrqavkzrXxRpiZocIdipG6MFgDIQZF8g1at6uUBxtZku4KHb1bmkPPj7ZWzjb5SUIWsYKH3npPtSRqkF+8xML3pl/javBgxI0dBWxf1GaYLYrIVriWR7MQIJDwgjNDFEOTK4gqTNv7vSJjYS7QgdyCSw9Old0MN9jouMR+u0orvTurg7oiGbe82pkKhQyeN0J2+0jqEw==;I3O/xZNKdALVQ1JHtpVBRw=="
 ---
 

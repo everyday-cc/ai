@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T12:16:00Z
 originalUrl: "https://fleetworld.co.uk/transport-committee-launches-inquiry-into-self-driving-vehicles/"
 webUrl: "https://fleetworld.co.uk/transport-committee-launches-inquiry-into-self-driving-vehicles/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Fleet World

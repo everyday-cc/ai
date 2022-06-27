@@ -119,6 +119,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AWS, Microsoft, Google Top Cloud AI Developer Market: Gartner"
+    excerpt: "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping $135 billion by 2025, according to IT ..."
+    publishedDateTime: 2022-06-27T15:12:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/aws-microsoft-google-top-cloud-ai-developer-market-gartner"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0273-14b82b7c6db9-8d7b4fa5b5c9-1000/ai-artificial-intelligence-mind.jpg"
+        width: 608
+        height: 457
+        isCached: true
   - title: "Microsoft retires facial analysis capability under responsible AI"
     excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
     publishedDateTime: 2022-06-24T07:36:00Z

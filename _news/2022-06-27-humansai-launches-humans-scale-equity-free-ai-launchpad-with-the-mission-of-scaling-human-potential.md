@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T11:57:00Z
 originalUrl: "https://business-review.eu/tech/humans-ai-launches-humans-scale-equity-free-ai-launchpad-with-the-mission-of-scaling-human-potential-232500"
 webUrl: "https://business-review.eu/tech/humans-ai-launches-humans-scale-equity-free-ai-launchpad-with-the-mission-of-scaling-human-potential-232500"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: business-review.eu

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-27T08:42:00Z
 originalUrl: "https://thenextweb.com/news/how-to-bootstrap-startup-european-funding"
 webUrl: "https://thenextweb.com/news/how-to-bootstrap-startup-european-funding"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Ffunding-EU.jpeg&signature=3a7eb28926469126828482a79c76bb83"
@@ -27,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "goF7e6EfI1am1VPuIchVvrbfjIL3aOEdhgP/s5FB7fq0Ou8feg+mtk43mBOFLGJphBLvGFZ2bKm79M1cuRXYl/D5MgW1lHlNkTdF/WhYotJrfcqWF6btuGYxajrJaj24vd/PAp/L6spgnvzybjTcVG0W4NsQaNa9Naex3udzlO5TXYrA+pE9qWPxVtd0Zg5ybVv7VhsjnhT07i+zQ0xopgKZsUg0kq+0tu4ssqdRN7JidOT7/4ssdtf1V058dgZi1c0ggpxZQbIiq9iPNlwg0v8S6SexcMDnYsaDwL7SyQbB6vmm+YxU9Fm84QpnOTP64CdqFz30tnqSD56rj67SZ16xwVvKP5fVez0pGh9JzBs=;uRBNffG/b/DB60ABr/wEjQ=="
+secured: "XUTd0eJ3BHK6unWYz/z4ujMLRBCSc74bo0cBWM7EJYubl39L+wijstJMX9mM5rIT6TAlV4QCvxwsPqv/Gj7ae2pbE3UZ5C6ecFLD259qb9445jPUOb8Td6DLMDMEP0r2Aboqn+oIu0PRwaU1EiG+xWiidhsGbSzlRCP7k5D4desYg2XBniHXjDUuzvgFVCvtnPWbRxQ5L6nqzy2c7ipykKaiuNldiV1UJc+FnnfsdfUiR+4eJZjrahLPHDFnFA/pl9v9LCMD06p+jye4YiFT+AsPhk9SiC8zcSXOOCUAtKhgdQsHVbmSMucpTbRAk/jO6ZLHtp7kPc/5A+AV1yCURhQWcsUIXBfxRgTZQcDxyueckZqCJ2QpmPstx6HFDaHgywwloRbVvbE+39oC7DeNQGUklSWDS9OYpFlWv4I44NM2XVU5LXDbAIP32IrkG6gtIJj0CY4DIuwFYmFahAoYfrCGBJfj1BaIyVcU3l9YEiNy9GNNg1e+ka7GHxfgmLbPyy/WiHocgb6CGnVyvmoUSw==;7VWkfjStrdaBR9WcjRdixA=="
 ---
 

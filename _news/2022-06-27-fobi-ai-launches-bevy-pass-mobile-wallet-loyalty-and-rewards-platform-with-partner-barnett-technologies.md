@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T13:57:00Z
 originalUrl: "https://ca.proactiveinvestors.com/companies/news/985923/fobi-ai-launches-bevy-pass-mobile-wallet-loyalty-and-rewards-platform-with-partner-barnett-technologies-985923.html"
 webUrl: "https://ca.proactiveinvestors.com/companies/news/985923/fobi-ai-launches-bevy-pass-mobile-wallet-loyalty-and-rewards-platform-with-partner-barnett-technologies-985923.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Proactiveinvestors

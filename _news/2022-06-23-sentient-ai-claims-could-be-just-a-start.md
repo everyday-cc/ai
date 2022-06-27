@@ -9,8 +9,8 @@ ampWebUrl: "https://english.mathrubhumi.com/amp/columns/occasional-bytes/sentien
 cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/columns/occasional-bytes/sentient-ai-claims-could-be-just-a-start-g-hari-kumar-writes-in-column-occasional-bytes-1.7629642"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Mathrubhumi
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence could help equine gait assessment"
-    excerpt: "University of Florida scientists want to assess livestock mobility faster and more accurately, ultimately helping farm animal health and production. To do so, they’ll use artificial intelligence (AI) to analyze high-definition video of the animals as they move."
-    publishedDateTime: 2022-06-22T20:51:00Z
-    webUrl: "https://equusmagazine.com/news/artificial-intelligence-could-help-equine-gait-assessment/"
-    type: article
-    provider:
-      name: Equus Magazine
-      domain: equusmagazine.com
-    quality: 52
-    images:
-      - url: "https://equusmagazine.com/wp-content/uploads/sites/3/2022/06/Screen-Shot-2022-06-22-at-4.49.29-PM.png"
-        width: 662
-        height: 436
-        isCached: true
   - title: "The AI challenge must start in schools"
     excerpt: "Getting a hands-on experience with artificial intelligence will, hopefully, turn students on to a career in tech."
     publishedDateTime: 2022-06-26T05:42:00Z

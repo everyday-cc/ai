@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T04:04:00Z
 originalUrl: "https://www.theregreview.org/2022/06/27/ben-dor-coglianese-procurement-path-to-ai-governance/"
 webUrl: "https://www.theregreview.org/2022/06/27/ben-dor-coglianese-procurement-path-to-ai-governance/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: theregreview

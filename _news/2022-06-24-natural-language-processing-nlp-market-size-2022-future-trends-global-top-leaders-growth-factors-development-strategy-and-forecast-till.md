@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
-    excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
-    publishedDateTime: 2022-06-23T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
+  - title: "Global Face Recognition Device Market Recent Developments & Emerging Trends To 2025"
+    excerpt: "Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
+    publishedDateTime: 2022-06-24T14:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-recent-developments-emerging-trends-to-2025-2022-06-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 43
+  - title: "Artificial Intelligence in BFSI Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in BFSI Market (2022-2027) research report offers in-depth analysis on market size,"
+    publishedDateTime: 2022-06-24T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027-2022-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "TcKI6LkF6k9dkyVafNt3JZKqy41m8LlMU2mijcMPjsmyN1hzzjgUNySRELi5Xsy3kxBiXq1Ty0KF1HPx7wFFCtlT1HezPs3sDfkKa+UUtptRC6B1AN5eVrvAurNpiwWSjIbd3dc62GFeR8eIPW3C75tVtiMgpjxUac9amCgsSqyugeU8sB7h/qgyZtL5E659Hrphugy/NPW9Lni5Q+Zs5VpJWhp3BmBY8dr7Gxh/so4oqUSGMl7Jwr3UQf7D6rDOgJ0z9IsA50u/635AUmVbyPxoEEbY8/tMVX3XTobYJ9bBEg3X7yPlR00ujQwGhPK0vkjZpRcNVoC+KL6muemngrc6br/hbLPjUai0VD+VIQo=;QE1BV/5xONbxYkkgD7L7Mw=="
 ---

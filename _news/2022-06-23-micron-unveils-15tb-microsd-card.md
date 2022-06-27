@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The First 1.5TB microSD Card Is Coming to Destroy Your Budget"
-    excerpt: "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1."
-    publishedDateTime: 2022-06-22T22:50:00Z
-    webUrl: "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625"
-    ampWebUrl: "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 54
   - title: "Micron Unveils The World’s First 1.5 TB microSD Card"
     excerpt: "Micron Technology, Inc. on Tuesday announced the world’s highest-capacity microSD card with an extraordinary density of 1.5 terabytes (TB) at the Embedded"
     publishedDateTime: 2022-06-23T11:16:00Z

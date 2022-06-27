@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-24T01:00:00Z
 originalUrl: "https://www.theguardian.com/news/audio/2022/jun/24/artificial-intelligence-conscious-or-just-very-convincing-podcast"
 webUrl: "https://www.theguardian.com/news/audio/2022/jun/24/artificial-intelligence-conscious-or-just-very-convincing-podcast"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

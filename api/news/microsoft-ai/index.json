@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -87,6 +87,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-uncovering-links-between-grit-and-cognitive-function.md",
+      "title": "Uncovering links between grit and cognitive function",
+      "excerpt": "Gritty people may be more able to self-regulate and show 'cautious control' -- but don't necessarily have greater cognitive ability, according to a new study. A new analysis of the personality ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -365,6 +408,40 @@
       ]
     },
     {
+      "path": "_news/2022-06-22-walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.md",
+      "title": "Walking helps some young and healthy people improve performance on cognitive tasks",
+      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources. However, this does not necessarily mean you should work on a big ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220621/Walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220621/Walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
       "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
       "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
@@ -502,6 +579,83 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci.md",
+      "title": "Recorded Future Announces Second Investment in Cyber Threat Cognitive Intelligence (CTCI)",
+      "excerpt": "Bill Ladd, Chief Data Scientist, Recorded Future Combining cognitive reasoning and machine learning with intelligence lifecycle collection, CTCI curates and validates CVE data that threat actors ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci-1031538590",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci-1031538590",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds.md",
+      "title": "Childhood obesity may affect cognitive function in midlife, study finds",
+      "excerpt": "Photo (c) Md Saiful Islam Khan - Getty Images A new study conducted by researchers from Monash University explored how childhood obesity may impact consumers’ cognitive function as they go into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
+      "originalUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ConsumerAffairs",
+        "domain": "consumeraffairs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1230,196 +1384,6 @@
       "provider": {
         "name": "KMWorld Magazine",
         "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-arkestro-brings-ai-to-erp.md",
-      "title": "Arkestro brings AI to ERP",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
-      "originalUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1317265017.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
-      "publishedDateTime": "2022-06-14T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-consumers-drive-retails-digital-transformation-says-microsoft.md",
-      "title": "Consumers drive retail’s digital transformation, says Microsoft",
-      "excerpt": "From e-commerce to omnichannel, customers drive retail’s digital transformation in the Middle East and Africa (MEA), Microsoft, the software manufacturing",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
-      "originalUrl": "https://businessday.ng/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/11/Nigerias-E-commerce-sector.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/consumers-drive-retails-digital-transformation-says-microsoft/",
-      "publishedDateTime": "2022-06-14T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-3-technology-stocks-that-can-prosper-during-a-tech-downturn.md",
-      "title": "3 Technology Stocks That Can Prosper During a Tech Downturn",
-      "excerpt": "That cloud-computing services segment produced $5.8 billion in revenue, up 44% year over year. According to Synergy Research Group, it lags only Amazon and Microsoft in terms of cloud market share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
-      "originalUrl": "https://www.fool.com/investing/2022/06/14/3-technology-stocks-that-can-prosper-during-a-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/684836/gettyimages-1209867567.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse.md",
-      "title": "CaixaBank and Microsoft establish an innovation laboratory for AI solutions and the metaverse",
-      "excerpt": "The agreement will see the two companies start up an AI Innovation Lab, with particular involvement from CaixaBank Tech",
-      "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/caixabank-and-microsoft-establish-an-innovation-laboratory-for-ai-solutions-and-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ibsintelligence.com/wp-content/uploads/2022/06/CaixaBank.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
         "images": null,
         "publishers": null,
         "authors": null

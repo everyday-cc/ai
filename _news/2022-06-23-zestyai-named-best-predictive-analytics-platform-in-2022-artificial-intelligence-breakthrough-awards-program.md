@@ -133,6 +133,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "CallMiner Named Best Overall AI-based Analytics Company in 2022 AI Breakthrough Awards"
+    excerpt: "Award recognizes CallMiner for its use of AI to analyze customer conversations at scale, driving improved customer experience and business transformation. CallMiner, the leading p"
+    publishedDateTime: 2022-06-27T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-27-callminer-named-best-overall-ai-based-analytics-company-in-2022-ai-breakthrough-awards"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 9
 
 secured: "6evsx/9Y7eAV3ZodxhloH774xh3NUfeZ6K30r0B4oJcruDIZUhC7fW5OxhAHtxIfYNnwYJCka3PLs8QeVRihWTkYgnakChg3ubU/cRDmHZo8NSt5K+smf/aEbBlPA3f8k1vUz3824w5ZI30fYpa37ZCfShzbhu54yjmADJTIdMVYKzpDOo8dwKiOfWjDWxT0l4jD32KCCgmuiVWGyz0FdytaJCRtq7BAIwJCRP3JgLEXnpZQL4As3iSeI3D0X3XIzJyOCsawEn0Pd2yhC07ijyceadbBEMsFLPL3aApPRH9xZxEjUo5xemzQlpot5nPnztmFJKKdVUol+QurbNSslmfWXQ+atmsOUdue7Aq9h3w=;WbxIUNpZb7IqllJYNFVNIA=="
 ---

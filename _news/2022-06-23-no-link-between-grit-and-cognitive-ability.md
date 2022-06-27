@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-23T14:50:00Z
 originalUrl: "https://www.labroots.com/trending/neuroscience/23039/link-grit-cognitive-ability"
 webUrl: "https://www.labroots.com/trending/neuroscience/23039/link-grit-cognitive-ability"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Labroots

@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google’s ‘Sentient’ AI Can’t Count in a Minyan, but it Still Raises Ethical Dilemmas"
-    excerpt: "In part, the story feeds into current anxieties that AI itself will somehow threaten humankind, and that “thinking” machines will develop wills of their own. But there is also the deep concern that if a machine is sentient,"
-    publishedDateTime: 2022-06-22T20:31:00Z
-    webUrl: "https://www.jewishexponent.com/2022/06/22/googles-sentient-ai-cant-count-in-a-minyan-but-it-still-raises-ethical-dilemmas/"
-    type: article
-    provider:
-      name: The Jewish Exponent
-      domain: jewishexponent.com
-    quality: 47
-    images:
-      - url: "https://www.jewishexponent.com/wp-content/uploads/2022/05/SFTH.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "XQ3yo0nSfFgdIn/CFAF/zIKI14ZwU+38d91PX0yi6LYVU2ZBTbGFvE+BAu1hUt5QlVPa00Viw1bRa0LjwBjx9hR2unF42VM808btKlWiNnVf4uys51wOZJ7nInpQTkn15gmQhZHkCCHFMvQZTTzU3L7w1VsYEUcbLCVe9X/FKTGijIwJMYvQ0QT5uk+mPvGtOS26vn88FeEIJztdZ/ZyP0tB9fqEHf7lSuLLhbksGsWN+zZcoM6RJIoIDr+FCAyy2kYo4bV3Acadv33Ewh8JLZtymF3byupQPfzHxxpBGMVKWeffU1xVFdFodeYEnm2EeWE8MW8VXzw9SExhMzcYzk5EhIsB9WW9eOk3SN4PZqfH4++RX6qLzDiRL1I4WedDVpgEPUHI81PC/wxB+ODrltcJKnDDi/qEL4UdU9/X0GVvEIyCsldDUFX7+OpbrHA+1PIn2ovlAYIEzdf9RZ1IAtYzaEBav1iOIjN0BkO99SfY8Vqg01CGkO24rxufi2qKrAdFZ8w9/k+RPDX49q+JXw==;A43il841603z4+TrpCDwDQ=="
 ---

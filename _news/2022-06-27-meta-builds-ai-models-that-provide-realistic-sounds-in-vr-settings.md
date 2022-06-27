@@ -42,34 +42,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Meta is building better AI-driven audio for the virtual reality"
-    excerpt: "When it comes to virtual reality, creating immersive worlds is more than just generating visually perfect environments, the way that sound works can make or break an experience. To tackle the subject of audio,"
-    publishedDateTime: 2022-06-24T17:15:00Z
-    webUrl: "https://siliconangle.com/2022/06/24/meta-building-better-ai-driven-audio-virtual-reality/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/oculus-quest-2.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Meta is building better AI-driven audio for virtual reality"
-    excerpt: "When it comes to virtual reality, creating immersive worlds is more than just generating visually perfect environments, the way that sound works can make or break an experience. To tackle the subject of audio,"
-    publishedDateTime: 2022-06-24T17:15:00Z
-    webUrl: "https://siliconangle.com/2022/06/24/meta-building-better-ai-driven-audio-virtual-reality/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/oculus-quest-2.png"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "6S69TEIKjvTbLbW+G9BrvDJTt6FblIieU0Js8+5L1l1XvO/QX6lbbDPsf80931ctjJzcV9voRboJFTjBdHdViLI3B0Tqum6k7ctLS+3thc0EN8VnlRTdslvukSr+yw0Y0JHuqrV1gAAGPmhZ4dfjcaVa072UjFhxBNTlSgMNooRUztWBTuH+gvK+b9n0SepxtRpA4xh28KJzYRm9qNEA3mYY6mXZ4iG8l+qkaBYJZPI9FZnyHvnRryBD0NKJqHw9kwuzw9xkv2DwSbGgGOGhOiZpLuPYiqP675im09hgPdGX8crkxd4ss564WiN/vLMHi4QeC//3HlAfmFzsgGBGj+f/3vDwp+qFl11jIxP37FQ=;7/FHPprgem+AhyxMznexxg=="
 ---

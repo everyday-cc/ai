@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
-excerpt: "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars."
-publishedDateTime: 2022-06-17T14:39:00Z
-originalUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
-webUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
+title: "Drivers of self-driving cars can rely too much on autopilot, and that’s a recipe for disaster"
+excerpt: "Likewise, new partnerships have recently been announced to develop and test the safety of self-driving trucks. The journey toward autonomous or self-driving consumer cars, on the other hand ..."
+publishedDateTime: 2022-06-16T23:11:00Z
+originalUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+webUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+ampWebUrl: "https://theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "bk1D3h592J/wefQuc5Hrgvr1NOFgXtORfTVE+LNL8AsomHwtKa2Nkh/5VUrRvnKbor/dQR/a6oYBTUn3zneB0SNQR7r4rG5ldmggszNtdCwZvHEOT+5hgaUQqL4o4giTCzNXZf9Xg8qmTGBY1+uRJgotzajWIB4K4VLjl1dMlNObUkMteVE5AmX0plHuwyXXFsj35ECVxKFkYHcoFbIXURT26+5Gy5xGEy9JQuLODdQ93Ib/k7UMnldagnj+5Z3riGtat7KbYotfknOQQ5RYdyQMuw020WGy0nQHQGxOWpoLCNpMFGwFpJJK8KYOBaZtHciQBhjUORZAcvFelMOx+yVHdROxsdouIjE1MR52/yg=;9vLSdReYJPLCBVLVbupSrg=="
+images:
+  - url: "https://images.theconversation.com/files/469278/original/file-20220616-12-ui495k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=245&fit=crop"
+    width: 320
+    height: 245
+    isCached: true
+
+secured: "bg0VFox8hPA6ScOxrJSoatf9hhhhsPf4S5v6oMzoK8rgz8/QGORK1jlztCt/051icrZj2geJHSRE1NdM4WbXOITL4JISIqDokUfpL8ct6xFm2Up75MQI0ZfwAqzthBwWreUNOHmxi+nr/46yStV641Lvs2cx0h589SsiRLsj7g9IDEt2fsuZho0SrrOt7MfZeHIcnL2xd/3W6DRbgRs5Vzo7PnC8JEnoW40b4/mOZMBjJu874Ysz2HGGm2oH0mXZLyUJNyhHLpnHHBEX5TGwwlTE8MU8PsCXa92rKZNNwWgOu8I3Fauv1rL2WLzNL+WYUXsZvLBLwq/EaM8e7ecIB3fq9Fl1MXRg3O+JYh/CYyo=;maSlKp1uywXRV99p8MX0OQ=="
 ---
 

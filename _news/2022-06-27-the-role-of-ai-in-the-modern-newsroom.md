@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "A Realistic Framing Of The Progress In Artificial Intelligence"
-    excerpt: "The coverage of AlphaGo, DeepMind’s system that was able to best the performance of professional Go player Lee Sedol, was a game changer. Read more here."
-    publishedDateTime: 2022-06-25T08:21:00Z
-    webUrl: "https://seekingalpha.com/article/4520309-a-realistic-framing-of-the-progress-in-artificial-intelligence"
+  - title: "Training Data: The Overlooked Problem Of Modern AI"
+    excerpt: "The importance of data labeling had been hugely underestimated and treated as a nontechnological, ineffective and boring management task."
+    publishedDateTime: 2022-06-27T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310293181/image_1310293181.jpg?io=getty-c-w750"
-        width: 750
-        height: 563
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62b5c1181f0fc88fc17a1f19/0x0.jpg?format=jpg&crop=1660,934,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "gfP3wzAnu0jzwnrWHQs7/WWYqjybPH6mCa1VWN7d+NwnlMyT9esBllJOxtyw5stKZhlaNvLGD80MLk4ge/alppGGQsMs8MCQg2PXqP2uKDF9dsumLYBdUHzdZXOT9myUd07RZ8RDu0c46Rw9oTvjv9Mq6WaBNp9TkYYCZMKxMGaG7U1BAS9cxRrhdFP8VCqVK08o3NDxSX1ufBh/k6WGUrlcBiNCvRnlpzOGfkWgjocoBsIo8BD/Ncy7yPuszS3czE+tgwUSGBFDip/j5T/6bk4lnZYk0RS8TIn0j37X0BLGpxhjqc0IuKa+xdoVZ9t1mK7+8BiFTF8V3RBJ295Z3MwYLp68D96KTnSbgwP3+4QOqiLh4z4uuBKXwyG9R2SbLoUCTVb2+EVA6frPmuxHC/veAVWQnYApk+FrCbFHJNS3ryfHXf3BSbPZ+gLKZuSZ0H1op9Bhfae5fuhF8FYfg9YXBT/Fh9Tfv8F9hACx60Uzx+7wsz9V0pfDKgu+HlKzz7vhdt4zWV6WI3riUvqcVw==;irkecnzfgMXQVxIR5bgX1g=="
