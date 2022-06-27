@@ -41,6 +41,15 @@ related:
         width: 320
         height: 229
         isCached: true
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
+    publishedDateTime: 2022-06-27T19:29:00Z
+    webUrl: "https://www.dailyexcelsior.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 16
 
 secured: "DiHMhO7j4osesxGSyhByJOSn3FEwOf/aWLACh2iftHqIoddqgYfZ8sFt1jR8URqtuDg+GMhvWVUtxHS32pQCRz5xUXOTRPe339i1vmeGDvaM/Ro7fypL/QcxIkJRus+QCK8bBkNdeV28ePGcYduUvu01ar1VUf0ljsRqNJAfujc6lzeGU7TZaPrHxGnjwR8v4hO3SgzZENDpKWoNUXXSNTV0Qi8e96TfF0xHxcf7viz5DJput/sXx9UM/5MIwcDvnsOyK+rr2dU54gZdjMkCxPXejzlkGXEommcWHLAJlkRgG7CQRalM3+R9sOTPK8SQNiWVbBan/QhmBuXGqmBcuEekJAzYCLnYDrurIdq+Dyw=;PbQfkZX+JYOZjVs/dNKEOQ=="
 ---

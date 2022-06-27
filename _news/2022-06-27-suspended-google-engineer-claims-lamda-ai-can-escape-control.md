@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/suspended-google-en
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: GIZBOT
@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "LaMDA: The chatbot that a Google engineer says has become sentient"
-    excerpt: "Google engineer Blake Lemoine said that the AI chatbot LaMDA has become sentient. He was sent on paid administrative leave."
-    publishedDateTime: 2022-06-23T04:30:00Z
-    webUrl: "https://www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/"
-    ampWebUrl: "https://www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/amp/"
-    cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/amp/"
+  - title: "Google's Controversial AI Bot Story Keeps Getting More Wild"
+    excerpt: "Google recently made waves when it put an employee on administrative leave after he claimed that the company's LaMDA AI has gained sentience, personhood, and a soul. As outlandish as that might sound, there's more to the story. Blake Lemoine, the engineer ..."
+    publishedDateTime: 2022-06-27T20:18:00Z
+    webUrl: "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/"
     type: article
     provider:
-      name: Prestige Online
-      domain: prestigeonline.com
-    quality: 44
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
     images:
-      - url: "https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/06/17162036/pexels-tara-winstead-8386440-2.jpeg"
-        width: 800
-        height: 800
+      - url: "https://www.slashgear.com/img/gallery/googles-controversial-ai-bot-story-keeps-getting-more-wild/l-intro-1656359836.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Google's AI chatbot hires lawyer as engineer put on leave after 'sentient' claim"
-    excerpt: "Google scientific engineer Blake Lemoine claims an AI chatbot is displaying human emotions, but was suspended after sharing a transcript on online platform Medium"
-    publishedDateTime: 2022-06-25T17:49:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/googles-ai-chatbot-hires-lawyer-27327599"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 12
 
 secured: "zXR0n53HzFuNTDkk05SOHsOLoqax3Iy5Ae+ykP0yA5J4t5uj+DkeRiW34zNl9NasVKv4A2PRlTZmj2ypsH034w5OsWk+4U13TL3iMdPxi0cJqnkQEAPhYlbO3l5yQwdmhfrJbaYyfdnRRCkdjdWXxmVW6uhIH0O/trMok16Yf0c1XJ9oqZr7hBC1oe89fymuKKDLuvNYavBgbUxmdtYlDmQb1n/sbrVrlaSu1it8ZdfsrZWgRJA+0ZSHl+He6zmVHEs42GZH2Muf8tzM+kgufiyKUDixiHEb4O8O3FIoZpu8DyiV0Q55n6b1O/BrtYq8LkV4Y/LPJ91lCNqJv/o5mP6R/d3LmNDqG4vSSX+BJkE=;oc3Rks/HMYH7O0uJQ3QE6A=="
 ---

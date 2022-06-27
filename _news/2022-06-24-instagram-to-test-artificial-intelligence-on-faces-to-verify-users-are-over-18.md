@@ -42,7 +42,7 @@ related:
         isCached: true
   - title: "Instagram is testing AI that verifies your age with a selfie scan. It's not perfect"
     excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
-    publishedDateTime: 2022-06-27T16:18:00Z
+    publishedDateTime: 2022-06-27T16:33:00Z
     webUrl: "https://edition.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
@@ -50,7 +50,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 83
+    quality: 81
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220624020409-02-instagram-ai-age-estimation-face-scan-restricted-super-tease.jpg"
         width: 1100
@@ -96,22 +96,6 @@ related:
       - url: "https://nbc-2.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
-    publishedDateTime: 2022-06-24T00:12:00Z
-    webUrl: "https://www.local10.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
-    ampWebUrl: "https://www.local10.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
-    cdnAmpWebUrl: "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/?outputType=amp"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 57
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7ZJ4BQS5HFANHIS753TETI45N4.jpg?_a=ATAK9d60"
-        width: 700
-        height: 467
         isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
@@ -205,6 +189,24 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Instagram tests using AI, other tools for age verification"
+    excerpt: "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
+    publishedDateTime: 2022-06-23T17:38:00Z
+    webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 19
+  - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
+    excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."
+    publishedDateTime: 2022-06-27T19:38:00Z
+    webUrl: "https://www.wwaytv3.com/instagram-is-testing-artificial-intelligence-that-verifies-your-age-with-a-selfie-scan/"
+    type: article
+    provider:
+      name: WWAY TV
+      domain: wwaytv3.com
+    quality: 11
 
 secured: "y7yfELQpxEVv3LtlZRVmkVPZRflJ7nA0xBA06NPsyQtnVTBWsMfOsj775YHiVrrsAYJnJ2zQ5OatY91cBh+q4D7jUVOzE83SUg4dKu6iX99pvPd7OiOeZNtdub9Sr27zkoDvnh4UBN62qpUfX3nIS9HjIRtDAEFgltKeeKH4ccsZ5UR6OjTbXQxtGpvTSK+TM5/SRMvUWw6p7WePu2H8znY6fY6NwTEEkSlNobzktMxD52xxxx6b2XFFbv/1G6jZIKnA8B4uVpA4q4iP9///I5cB7pHahW0xKLZfIaBa2SxObVkr8Pp/DeMn8PWntpkWmz2WqdlcSRKvvtWcAnb1a17umDokjolT+Tvzr4nCqy8=;NXdngH6qN36C7PrNJFIy1Q=="
 ---

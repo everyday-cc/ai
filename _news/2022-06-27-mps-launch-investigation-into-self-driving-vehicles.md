@@ -34,6 +34,15 @@ related:
       name: Fleet World
       domain: fleetworld.co.uk
     quality: 4
+  - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
+    excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
+    publishedDateTime: 2022-06-27T17:34:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1631877/self-driving-cars-MPs-enquiry-latest-news"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 0
 
 secured: "8OTnSiarpd0D7NbXmWexviOOwg4EpMNVLd6cJ5GDRbSaQT3LXi4C7zNEyB3PYqgTgZ3xIXuGI+WpCGKU2wCwYGbe5r/0iYKsVPSPlOSTnnGLq9ybCR901gThhm7UEwYF8NCn+mINpPJdSu2I6GUL/ut2YYYOalcFYPmui64s8AvzcWJnzbqnX04f/sdeUU6+nHVeQmfyYQXhGJWOybkjdXISFav49QZGmxVKTBQ+HGKiDMd1plY7z/IpjiXpjc1kojwMLY+T9haggmN6ZFOuySfln/uU8KMGTJQW7Uk2Syodgzvqs4SAKFUb3wcCyTkbe7I4HeIYsrMwZgMSocAqtungCav3YOEr5mZRoOQ3eKDeTFDCUOIEwlWit7dszDV3A2mQrR474AnTeWZk3n4DVdnxX0gUDBnBjoEj65uCAqxb8VJ45bj0BHxVygK9KXSFOEg5nzd3BX4FUCVtUK4kw2uH7IP/mRZLoaMMgVQFfnm6T69ZG1tMGi75ueo/cuDkelAO6ZAw4CBZgu5w3EsR2w==;CMgh4xeNJaPVS4jII+c9Bw=="
 ---

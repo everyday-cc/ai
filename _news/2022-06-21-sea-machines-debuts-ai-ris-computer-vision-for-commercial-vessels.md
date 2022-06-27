@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels"
-excerpt: "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea"
-publishedDateTime: 2022-06-21T13:43:00Z
-originalUrl: "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557"
-webUrl: "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557"
+excerpt: "Sea Machines Robotics unveiled AI-ris (Artificial Intelligence Recognition and Identification System), a new marine computer-vision navigation sensor designed to improve safety and performance ..."
+publishedDateTime: 2022-06-21T15:16:00Z
+originalUrl: "https://www.marinelink.com/news/sea-machines-debuts-airis-computer-vision-497493"
+webUrl: "https://www.marinelink.com/news/sea-machines-debuts-airis-computer-vision-497493"
 type: article
 
 provider:
-  name: marinetechnologynews.com
-  domain: marinetechnologynews.com
+  name: Marine Link
+  domain: marinelink.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "XinXhnD6FXEaYvORr3XhgbVhG8H6xa3aazLkPgpJUD8O/HNs9OazEdZB0nHcG6iJ+OSwsyGSzOU3wc0ZnyygzdphZxNgUfE0etk++Y7Yveu1pxq6HjYk16gN/LBSikRqeN2WFDMhwIxlPwMV5S8gmUQ2tPuxv5V+nZwslAqAh+13G8ZRjoiVS8TZqPvAnaKT3Lym5mLBFVsVPkb2VdeurduEeMXLFUMh/3txd3i1YPqh2qDqXfsM38AZFC1Qr9XDBFqyZ1Hf20iKfY+iyk+fzLQ9jCL6Gi/xvJ5eLwm64S8Q8YphhHJI1sPnCAGtf45V3fjfMnttVXtU/iWVY69vamUsdefZiHj9AmHf+tOiNBFP2Nzr4M6slh62BCGNjgs9vjUbC+c4t2wpbwDmsyFPeLEXgCJHCo6FbAH2k6gaL1uJzHGVnMQhHPODArHjE5FAQZi6k6/Tszs5Ifk7Z2kUUdlpqyEKypVOVqu4GrhGtcqCdbDM99loiDmP5q/Q4MV0etWzo1QoSg8BhIfyu6kEdQ==;939+YYbxVhTRraGvu4hH8w=="
+images:
+  - url: "https://images.marinelink.com/images/maritime/w800/image-courtesy-sea-machines-robotics-133099.jpg"
+    width: 800
+    height: 500
+    isCached: true
+
+secured: "SrE550bXPrCYv4Gxq/b72g0x/wPfVW8jbq2yXmS7fn1my13iQKtdgCM7NWOwisvGKPAVTIvDUV21W2KILwY+XRij2nE1dipH4uF7YXGsK27z53YrtjsA+KLzElIcBIAGqoxjbvZ0TaxvQLrPOzUe3tRFZ/fKrgr3gKY2q48lcAwaBGylQxkQV9hYjU/yzA7N1vlafjs9uTQMF94l9FO2DByFSx37L6wEmU7qiINs4/bf4kg/AmG9t05YRIeVDxJ7cIjbmVVKSP7+KYXC9vPLeq3MrawP/IZunPdW2mBimQ5SR/izfSIMSusWBDA1oOUVS7c91wtWGH47Si4OFtn+qVwal51xEp73C9+Z8DICG80=;fhALWDsiKg8k+yDqCL9giA=="
 ---
 

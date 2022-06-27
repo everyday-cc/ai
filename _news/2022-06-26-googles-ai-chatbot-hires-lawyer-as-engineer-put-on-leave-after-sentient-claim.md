@@ -18,37 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Suspended Google Engineer Claims LaMDA AI Can “Escape Control”"
-    excerpt: "Google engineer Blake Lemoine caused a stir earlier this month when he claimed that the search giant’s LaMDA chatbot has gained sentience. Following his claims, Google put him on administrative leave for violating its confidentiality policy."
-    publishedDateTime: 2022-06-27T07:33:00Z
-    webUrl: "https://www.gizbot.com/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
+  - title: "A Google engineer says AI has become sentient. What does that actually mean?"
+    excerpt: "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth."
+    publishedDateTime: 2022-06-24T08:00:00Z
+    webUrl: "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6498068"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068"
     type: article
     provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 57
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 56
     images:
-      - url: "https://www.gizbot.com/img/2022/06/human-levelai1-1653461497-1656314967.jpeg"
-        width: 600
-        height: 337
+      - url: "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG"
+        width: 620
+        height: 349
         isCached: true
-  - title: "LaMDA: The chatbot that a Google engineer says has become sentient"
-    excerpt: "Google engineer Blake Lemoine said that the AI chatbot LaMDA has become sentient. He was sent on paid administrative leave."
-    publishedDateTime: 2022-06-23T04:30:00Z
-    webUrl: "https://www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/"
-    ampWebUrl: "https://www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/amp/"
-    cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/sg/pursuits/tech/google-ai-chatbot-lamda-has-become-sentient/amp/"
+  - title: "Has artificial intelligence (AI) come alive like in sci-fi movies? This Google engineer thinks so"
+    excerpt: "If you have ever interacted with a chatbot you know we’re still years away from those things convincing you that you are chatting with a real human."
+    publishedDateTime: 2022-06-25T05:30:00Z
+    webUrl: "https://www.techzim.co.zw/2022/06/google-engineer-says-lamda-ai-has-come-alive-like-in-sci-fi/"
     type: article
     provider:
-      name: Prestige Online
-      domain: prestigeonline.com
-    quality: 44
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 39
     images:
-      - url: "https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/06/17162036/pexels-tara-winstead-8386440-2.jpeg"
+      - url: "https://www.techzim.co.zw/wp-content/uploads/2018/11/ai-man.jpg"
         width: 800
-        height: 800
+        height: 304
         isCached: true
 
 secured: "3YCu4+sm0LkyOPNF1qx+2NOUGU0/Qu5s5wDWQlhUjf7Bn9qtBGoTOIbIWxwXZiHgIT4+es/HE5Vatoi86Qjm4UU8642s08KWtpGkx+CBbkjIPnT0DvCZILjDUUksiUQ7StlZdMMZo5iGyh91lE1uDvwMC4pIab7Y4H9Ve0Vd82eyU2EUEssfOKTWpCVggZmVSLAVUKypvcaE7LqgKUSXOMQ81oljjvoYxFcShDCwNsK5c3SSoX/R0U1mpyyi7SNFvszIHthD2MzCDQERvQH2EjHo1r9tmSLh2wBqjkjvKoEHUfnyuwO5uEb+q2hyo6o52eHUsMAXHflL7IlRQbbSnKdtNTqUTJSg36Jp/ejkRins2TM+Cd39qpF3bG06bKgAxjLqPAgO+oBRHk+aDIQNZ+Ml2QPnfRh8XOT/HJOuJkzs3wJGz4WyBIThiVuFnBjjPVly92aFoWtg9wsMoYKND/zrWoe6sFGzrERyRxqx+82sfMORjd3iZjd964HKIhOLu2xXHyyS7u5nhTrEjoLL7A==;SXaBZOSk+xVMrQVllH1r8Q=="

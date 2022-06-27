@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft is removing emotion recognition features from its facial recognition tech"
+    excerpt: "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state."
+    publishedDateTime: 2022-06-27T19:12:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna35087"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Microsoft doesn't want AI recognizing your emotions anymore - mostly"
     excerpt: "The Responsible AI Standard (opens in new tab) is Microsoft’s internal ruleset when it comes to building AI systems. The company wants AI to be a positive force in the world and"

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T15:49:00Z
 originalUrl: "https://www.denverbroncos.com/video/broncos-weekend-what-will-it-take-for-denver-s-defensive-playmakers-to-get-pro-b"
 webUrl: "https://www.denverbroncos.com/video/broncos-weekend-what-will-it-take-for-denver-s-defensive-playmakers-to-get-pro-b"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Denver Broncos

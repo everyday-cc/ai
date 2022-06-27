@@ -43,6 +43,20 @@ related:
         width: 810
         height: 544
         isCached: true
+  - title: "Australian retailers named in facial recognition complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
+    publishedDateTime: 2022-06-27T20:39:00Z
+    webUrl: "https://www.itnews.com.au/news/australian-retailers-named-in-facial-recognition-complaint-581908"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
     publishedDateTime: 2022-06-27T01:47:00Z

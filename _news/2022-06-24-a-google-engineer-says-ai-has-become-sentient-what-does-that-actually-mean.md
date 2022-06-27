@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbc.ca/amp/1.6498068"
 cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: CBC.ca
@@ -41,6 +41,15 @@ related:
         width: 800
         height: 304
         isCached: true
+  - title: "Google's AI chatbot hires lawyer as engineer put on leave after 'sentient' claim"
+    excerpt: "Google scientific engineer Blake Lemoine claims an AI chatbot is displaying human emotions, but was suspended after sharing a transcript on online platform Medium"
+    publishedDateTime: 2022-06-25T17:49:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/googles-ai-chatbot-hires-lawyer-27327599"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 12
 
 secured: "EDUJdAjem85+N61AC7MWcrH2zTj5B1r4To+X4yoKwp082Bp3zZ0QzXWVXPErevRnQgEMNdm0vB1R5yM/SwkSH2W2yC3zF+6ZZDeqoiHJ8cOxoJy5z6Avq+CBKDzcXEHqrHbm14hujviET9oqGe+OK9WYPmj3u4uuodrZkO36i7wWTmIw6kVA8yi7pG6bnMs4yODUc1Dx7ua4CVtylfnKvRUXch0/MYreT2KWDMHFa0mMqnXa283mqwkjHJUuXtsFV38vLV8jfltXmygE83j8r/efjEXSC5cH9NXr03zbiF2n2QTM2c4sNg2cJ/Mpl3OVL0YXXtnl/5rRCRwTjV/S5zfDPJdKlxR59jz64oiqZ7w=;C7kJ+SUldzPgQoILnscm6Q=="
 ---

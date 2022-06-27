@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft is removing emotion recognition features from its facial recognition tech"
+    excerpt: "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state."
+    publishedDateTime: 2022-06-27T19:12:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna35087"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Why Microsoft is rolling back its AI-powered facial analysis tech"
     excerpt: "AI-powered facial recognition has been criticized by groups like the Electronic Frontier Foundation (EFF) for years. While law enforcement use is often the most worrying, studies have shown that these tools simply aren’t accurate in identifying ..."
     publishedDateTime: 2022-06-24T14:24:00Z

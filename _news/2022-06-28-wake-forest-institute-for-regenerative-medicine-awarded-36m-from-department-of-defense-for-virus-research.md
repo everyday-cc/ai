@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T19:00:00Z
 originalUrl: "https://www.bizjournals.com/triad/news/2022/06/27/wf-regenerative-medicine-department-defense-36m.html"
 webUrl: "https://www.bizjournals.com/triad/news/2022/06/27/wf-regenerative-medicine-department-defense-36m.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

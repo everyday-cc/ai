@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T19:44:00Z
 originalUrl: "https://www.thesun.co.uk/tech/19018475/terrifying-images-fake-humans-ai-revealed/"
 webUrl: "https://www.thesun.co.uk/tech/19018475/terrifying-images-fake-humans-ai-revealed/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Sun

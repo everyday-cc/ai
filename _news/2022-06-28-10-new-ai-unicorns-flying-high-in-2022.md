@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T17:42:00Z
 originalUrl: "https://venturebeat.com/2022/06/27/10-new-ai-unicorns-flying-high-in-2022/"
 webUrl: "https://venturebeat.com/2022/06/27/10-new-ai-unicorns-flying-high-in-2022/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

@@ -84,6 +84,15 @@ related:
         width: 1240
         height: 770
         isCached: true
+  - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
+    excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
+    publishedDateTime: 2022-06-27T17:20:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 23
 
 secured: "oLZdHL0FCqqRCrDZoctgPaWEP78Od8zYOWk9T+dYe/SqqdJ8QXpHYCtRnQD5rEbf17E7GJGBUD5tzsFcODu60iAXYOS3mbsR8sqV5o/ZS7sR0j6Wuuaa8lFZfNF99j+g1FkBxQdUwRlgVmc06UhX8HcPbM1Pcv6vET9aP7OrvGokTgpON030O+JiLofTXC7amDvPmI+VTSBg3IJjOYaWQ1/9G3oqCjkDlFypTmt506q9V6aeUxX1pMeKKcsz0hLZRr8opOVSS9lGbh89QY2M73xyetdHHpAF49EiH8E45sLoxtUlJBVqCvhyrMlwNg189o/i3tPzV9z8GQ18o8SjBb+/89mkJ8e4UL02THVr38k=;hm8jCOT1HLIucV34GS3pvg=="
 ---

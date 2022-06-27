@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 612
         isCached: true
+  - title: "An AI Was Trained To Play Minecraft With 70,000 Hours Of YouTube Videos"
+    excerpt: "OpenAI, the artificial intelligence research organization founded by Elon Musk, has trained an AI to play Minecraft almost as well as humans. It only took about 70,000 hours of binging YouTube videos."
+    publishedDateTime: 2022-06-27T18:15:00Z
+    webUrl: "https://www.ign.com/articles/ai-trained-to-play-minecraft-with-hours-of-youtube-videos"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 37
+    images:
+      - url: "https://assets1.ignimgs.com/2019/03/18/minecraft-1552946351168.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ertMUjzuJuF6S6C1CCoonGkvqtbJjDsEx1iz1ddaAAn7dNJG4vh7KBz8tIJkVvbXRXDoHtQb9ZsTY9ualXBl6vTJjqvvUBgbjNyYN8NrEEXLVoOY3D8aUVSp6Bi7lz7avjTeaxRj5oj5x/JybrYWUE2F0In6zYvYlzGY6O/Ou1B7lMAJDZdzBTCBI9IEpgqwr0INf8J/lWaN02O2Sr4vFr3WCJlAn46gYTatbhIjJuI/jlXIkuT0wUNF7dg/HCcGWrVup0WZERrsJNB4kLIP0jvy9H87mJfo5wLt0vgl07J/apSaKkFDlxkAuQap0SxaevKrel2i/S4bIzHVav8X/UDblhVE/q3fnJnjTUhdcRMyLJ2wdJq3Qs5ScEAYYsrJaB+d75VF5ylUzWJfdlwNa/GN0mFr2wuqLrc6NWyHWdjTWKz4IaN7urYvERTYh4bx0Niq+rq7C0HRYQMZwK+MR2akC5lEH+J9v12cXtDrfpP4OED53mgVMHJw6UWodzToFLpQ9CxdRTFoavYDiabE3Q==;bDqheO/LZnOqQCGuHZl6eA=="
 ---

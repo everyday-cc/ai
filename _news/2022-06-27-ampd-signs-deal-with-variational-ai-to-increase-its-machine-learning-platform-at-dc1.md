@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T15:59:00Z
 originalUrl: "https://www.bctechnology.com/news/2022/6/27/AMPD-Signs-Deal-with-Variational-AI-to-Increase-Its-Machine-Learning-Platform-at-DC1.cfm"
 webUrl: "https://www.bctechnology.com/news/2022/6/27/AMPD-Signs-Deal-with-Variational-AI-to-Increase-Its-Machine-Learning-Platform-at-DC1.cfm"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: T-Net

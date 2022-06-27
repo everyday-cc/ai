@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australian retailers named in facial recognition complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
+    publishedDateTime: 2022-06-27T20:39:00Z
+    webUrl: "https://www.itnews.com.au/news/australian-retailers-named-in-facial-recognition-complaint-581908"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
+        width: 1254
+        height: 836
+        isCached: true
 
 secured: "tFfbA/qToS60UmkKiWkXWom5Ose1FjcMAk1q5MfMpC/4uZ5cQc8JP9uJ/iCTt/lalAqhwmkFkq3kfezHZqjrP4S2aqG6ZpdIJtOonJosbmfNjwfYrs0ngq77jQu+ajynw4htA653uacQJ/naxTjAxcemyd0D+M3S8k5+NfX7DIfSDaByDAi+CK6Szv1PqiwkVQ5O2Prw5MmZ5eJcVN26T5dcRp+93LrTGPhNlGV/8CIHbyVeFsaxAPY9vF+xyODn1zQ2MXIfOvsar6aWtGtT2s9j+4eScF/YPQXqiQO7jiwxodnwgNJCJF9JZSnTtt610L3rCjhI2d4m+n29NyEv5qnHNuqAT9aUMEegfnc24c9kmqsXkoSGhifVVxKebN2LOfPiKPIYVpuIhQedBGYX8l7278jNtF/TT/wiripddYEk6kW7Pf9n0dYgLXcuaQ4iMbYm5K41CAs74rseTYylb/emIsbKT59IY0Oyo09j7FG44HLGQXADojdIoZ848kZmieRhpsyc7CRmPde4QfkQFg==;MQ/kz84oy2hJkLj5TzOz2g=="
 ---

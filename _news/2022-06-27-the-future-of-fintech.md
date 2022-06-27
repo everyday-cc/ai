@@ -110,20 +110,6 @@ related:
         width: 640
         height: 238
         isCached: true
-  - title: "4 Fintech Execs Make Top 100 B2B Marketers Leaderboard"
-    excerpt: "HotTopics.ht, a thought leadership platform for business leaders, has announced 2022’s top 100 global marketing leaders in the technology sector. Of the 100 business-to-business (B2B) marketing executives selected,"
-    publishedDateTime: 2022-06-23T04:47:00Z
-    webUrl: "https://fintechnews.ch/fintech/4-fintech-execs-make-top-100-b2b-marketers-leaderboard/53518/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/06/4-Fintech-Execs-Make-Top-100-B2B-Marketers-Leaderboard.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Top 29 Fintech Events To Attend in DACH in H2 2022"
     excerpt: "financial services and fintech professionals to discuss how integrated solutions are shaping the future of digital banking. Leading professionals from global brands will be in attendance to share their experiences and discuss trending topics such as AI, ML ..."
     publishedDateTime: 2022-06-27T10:08:00Z

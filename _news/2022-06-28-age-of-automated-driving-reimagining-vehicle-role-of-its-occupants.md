@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T18:35:00Z
 originalUrl: "https://menafn.com/1104440066/Age-Of-Automated-Driving-Reimagining-Vehicle-Role-Of-Its-Occupants"
 webUrl: "https://menafn.com/1104440066/Age-Of-Automated-Driving-Reimagining-Vehicle-Role-Of-Its-Occupants"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

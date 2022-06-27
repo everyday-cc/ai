@@ -5,6 +5,8 @@ excerpt: "Indoor Robotics Raises $15M Following Launch of its Tando Drone by DRO
 publishedDateTime: 2022-06-16T15:16:00Z
 originalUrl: "https://dronelife.com/2022/06/16/indoor-robotics-tando-drone-startup-scores-15-million-for-building-security-solution/"
 webUrl: "https://dronelife.com/2022/06/16/indoor-robotics-tando-drone-startup-scores-15-million-for-building-security-solution/"
+ampWebUrl: "https://dronelife.com/2022/06/16/indoor-robotics-tando-drone-startup-scores-15-million-for-building-security-solution/amp/"
+cdnAmpWebUrl: "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2022/06/16/indoor-robotics-tando-drone-startup-scores-15-million-for-building-security-solution/amp/"
 type: article
 quality: 63
 heat: 63
@@ -25,6 +27,6 @@ images:
     height: 648
     isCached: true
 
-secured: "4943rivdNpNBHulOnv83i3awC0WQCWdqFF8PmJwxNcq8V8dIA9GD1REpEO9D52aoF0nDckkB35xmCV2F48oe5gzh8LApoKsZPCx4iJJwnDQ20ZhB4AWVcyqAviQ7Bxkg5+Z56d3zlPNZcUo6Di+nxCwYPS4o7HUGVi/tX7mmlnAEXx9XsRb++uSayFbXrEVigwwb1WgmpyJI6yupYZn38IIYxm1EPVI+wjClTUokL2DgY8WXeWwQr9lRu3b3APzXYsPR9a/SjC0mOQoKTnE1nI0dBTPEPw4zIHXQ/bKSR/SHRxZpQ/9OYfq4foD7Rj8OS49yfIOm6yOpTR13s5WzSnMyUautXJmPlFri3Q7re7o=;hHwu7CMrTRN01zSDqhPZ9Q=="
+secured: "avaa+ni7GUWF8izgpKsWPoWHj85L/e/rIAnqsoXObBFxrpKc7Fjg3NlU8OJ1rZvzIg4cWHdLQJAnd9RuNQkZq1hydwgWAnRUfJKXW6FYBev/vOySvzDCpftra2SKoNv3P0Ca/INjGUBjs6weyxLNwHuyw3NZwlrTp5ry+PQQi52NJMM3I/iVE2lUaNAa6091rhz9KQkLrCu+ZsmPGyXhOicnpA4hZkAquGFlfjVwg97mPTc+P8rqp497TUMgjgyxyfar4V7vHsVLlSfkDxAXtSaAxgGUtnZiS6BC6rA9O99mDhLkeA7QG0MuD6XsqlxW+cWs9q+AJIwJZM/azf1oxYxz3oowahccWOTPUPGplT7tWU9lJtxmJf/s7hjXnIKPgA3LJMfwjEpXop4vEB+KXdXAlxs00zb3WAIzyO8gYZ+7C9gaC0GYcjHVaCUojdqGNMcbCZ7LQBrQ9QEUSpVlWQU3qPGogmg1Bke6exLRKMaq3BFv062id64skICd9093TGwImp5nebh+5RkL8fxlJw==;roWhDSbrUQ0aTHQMqM+qHA=="
 ---
 

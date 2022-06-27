@@ -9,8 +9,8 @@ ampWebUrl: "https://www.phoneworld.com.pk/oppo-receives-eight-prizes-in-the-comp
 cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/oppo-receives-eight-prizes-in-the-computer-vision-and-pattern-recognition-conference-2022/amp/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: phoneworld.com.pk
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "OPPO has 7 papers selected and wins 8 challenges at CVPR 2022"
-    excerpt: "Seven papers submitted by OPPO were selected for presentation at the 2022 Computer Vision and Pattern Recognition Conference, breaking a new record for the company. The selected papers cover OPPO’s various R&D breakthroughs in a range of artificial intelligence disciplines OPPO received a total of eight prizes in the CVPR challenges,"
-    publishedDateTime: 2022-06-23T01:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-artificial-intelligence-a1310045125a7ea81bcea7f5c38918f8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Interpreters Unlimited Recognition Continues"
     excerpt: "Language Service Provider Interpreters Unlimited recognized by the Small Business Administration, Vonage, Slator and Nimdzi."
     publishedDateTime: 2022-06-25T05:15:00Z

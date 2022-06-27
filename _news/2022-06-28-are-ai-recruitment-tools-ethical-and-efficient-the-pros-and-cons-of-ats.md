@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T17:56:00Z
 originalUrl: "https://www.forbes.com/sites/karadennison/2022/06/27/are-ai-recruitment-tools-ethical-and-efficient-the-pros-and-cons-of-ats/"
 webUrl: "https://www.forbes.com/sites/karadennison/2022/06/27/are-ai-recruitment-tools-ethical-and-efficient-the-pros-and-cons-of-ats/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: Forbes

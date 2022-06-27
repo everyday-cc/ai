@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China-based Jidu showcases concept robocar with vision+LiDAR self-driving systems"
-excerpt: "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only 15 months to develop the concept car."
-publishedDateTime: 2022-06-21T03:30:00Z
-originalUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html?chid=13"
+excerpt: "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only ..."
+publishedDateTime: 2022-06-21T11:30:00Z
+originalUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10"
+webUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "c6WOI1thRlEM2xHj9dVX+unFCSi2OMR7QrPCcAkU2FmcHFxWwB8im0rQaLTU5+Exr7JIPooMQF36XtTT4YpJrr2qCO6X4gmPvVZqJ+VYQz2lKyE06w1TrxM+7wfCIMuWqlluOf/DN98FMkBim+pTS8mk441FAQAEPvxmHM7SQLoHzEXtlBIkUJ3WiTIpC4J3oQwkqx0vbWusuPqR9iNA8pRBwuWnBKKLbU9V3MaYHlRjQO8RrUtcwL3V9oRT0vhgYWpgQNmHj/kAMYCmtCgsnh1fkILenf7hgU8r0nZtt8VBnFyd29LJc83qYNstEreUdswMnJBFa18Ws7pGJUR5CK420oaofP120kd0ZZrOBIs02xTgPaRG6g2cAQFp0Er9V7P8/h9jHV2KarfWxskemmFI1V3ZQ28lN+E5j3JR0ip2q47DNGCcljio93kI0dNeq3dKlDb39xelqp9ND9xfucKs7uXYWIDipOR6zsrT8oNC2UsCFExzbsU5Sp9J5z+lr43UbaNB2RCFAmceVWhnhg==;I0ToUU9oSzAhnvrc+24CjQ=="
+images:
+  - url: "https://img.digitimes.com/newsshow/20220620pd209_files/4_2b.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "V3P+3iscEVK8Lz7TL8Uy61No33gyhs8gwASJP+gozuwgqx9qQK01f1MuXYrUbptupia/iHKaSDHARnT0P1ZXhasbrvKD9wWaMxCmaz6YClJ94GEvfX+ecDvnl2Ax2jsY7snfL+/5yfTeZ4HjndFFYVXfAYnvHIhLZo31AOj6eqlsA5s8D+66BpXaof46LeMNqhp8F8y6TWuu50bD+J5OVmg2gIAcy4YsIR9pm64dcRqGheOCKy2nLxRfaJYlcy2DEHiK1cOaSjcywRgg06+97LwkO5wTd0LMmkIPq5CTxw+o04QHaQ0/QSaBJTKkIIhwC+TWb/HUYbG3ao4voc7827FJP7f9pAaHjylRGhk8Cbc=;VINlIzC5XGbmNQoVClQgRQ=="
 ---
 

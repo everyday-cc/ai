@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/australian-retail-giants-name
 webUrl: "https://www.reuters.com/news/picture/australian-retail-giants-named-in-facial-idUSKBN2O8072"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Australian retailers named in facial recognition complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
+    publishedDateTime: 2022-06-27T20:39:00Z
+    webUrl: "https://www.itnews.com.au/news/australian-retailers-named-in-facial-recognition-complaint-581908"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"

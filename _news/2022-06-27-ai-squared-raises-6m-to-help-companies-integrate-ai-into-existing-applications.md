@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Squared raises $6M in funding for its AI integration platform"
+    excerpt: "Artificial intelligence startup AI Squared Inc. today announced that it has raised a $6 million seed funding round led by NEA, with participation from Ridgeline Partners. Enterprises are adopting AI in their business operations to automate manual tasks and increase operational efficiency."
+    publishedDateTime: 2022-06-27T19:36:00Z
+    webUrl: "https://siliconangle.com/2022/06/27/ai-squared-raises-6m-funding-ai-integration-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/Photo.png"
+        width: 1390
+        height: 800
+        isCached: true
   - title: "Breakthrough AI Integration Platform AI Squared Raises $6 Million Seed Financing led by NEA and Ridgeline Partners"
     excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI"
     publishedDateTime: 2022-06-27T15:15:00Z

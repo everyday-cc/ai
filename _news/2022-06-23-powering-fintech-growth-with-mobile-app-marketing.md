@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/industry/p
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870"
 type: article
 quality: 61
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2022/6/26/55230498-1656252847202421.png"
         width: 640
         height: 238
-        isCached: true
-  - title: "4 Fintech Execs Make Top 100 B2B Marketers Leaderboard"
-    excerpt: "HotTopics.ht, a thought leadership platform for business leaders, has announced 2022’s top 100 global marketing leaders in the technology sector. Of the 100 business-to-business (B2B) marketing executives selected,"
-    publishedDateTime: 2022-06-23T04:47:00Z
-    webUrl: "https://fintechnews.ch/fintech/4-fintech-execs-make-top-100-b2b-marketers-leaderboard/53518/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/06/4-Fintech-Execs-Make-Top-100-B2B-Marketers-Leaderboard.png?x30842"
-        width: 1024
-        height: 567
         isCached: true
   - title: "The future of fintech"
     excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."

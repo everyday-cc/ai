@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-27T19:25:00Z
 originalUrl: "https://www.nextgov.com/analytics-data/2022/06/us-uk-privacy-tech-initiative-focuses-halting-financial-crime/368649/"
 webUrl: "https://www.nextgov.com/analytics-data/2022/06/us-uk-privacy-tech-initiative-focuses-halting-financial-crime/368649/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Nextgov

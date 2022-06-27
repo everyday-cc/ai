@@ -2,26 +2,28 @@
 category: news
 title: "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4"
 excerpt: "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy."
-publishedDateTime: 2022-06-24T15:00:00Z
-originalUrl: "https://www.independentnews.com/lifestyles/entertainment/westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4/article_1b3939e8-f8bd-5be9-81ac-2a2c638761f9.html"
-webUrl: "https://www.independentnews.com/lifestyles/entertainment/westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4/article_1b3939e8-f8bd-5be9-81ac-2a2c638761f9.html"
+publishedDateTime: 2022-06-24T16:00:00Z
+originalUrl: "https://www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/"
+webUrl: "https://www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/"
+ampWebUrl: "https://www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/amp/"
+cdnAmpWebUrl: "https://www-tvinsider-com.cdn.ampproject.org/c/s/www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/amp/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: The Independent
-  domain: independentnews.com
+  name: TV Insider
+  domain: tvinsider.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://independentnews.com/app/general/independent_subscribe_web%20_ad.jpg"
-    width: 300
-    height: 250
+  - url: "https://www.tvinsider.com/wp-content/uploads/2022/06/westworld-season-4-ed-harris-1014x570.jpg"
+    width: 1014
+    height: 570
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
       - url: "https://www.thewrap.com/wp-content/uploads/2022/06/Westworld.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Westworld Season 3 Recap: Remembering Incite, Rehoboam, Solomon, and More"
-    excerpt: "Here's what happened during an eventful season 3 of Westworld. As Bernard said, how can you learn from your mistakes if you can't remember them?"
-    publishedDateTime: 2022-06-26T07:00:00Z
-    webUrl: "https://www.denofgeek.com/tv/westworld-season-3-recap-incite-rehoboam-solomon/"
-    ampWebUrl: "https://www.denofgeek.com/tv/westworld-season-3-recap-incite-rehoboam-solomon/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/tv/westworld-season-3-recap-incite-rehoboam-solomon/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 43
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2022/06/Westworld-Season-3-Recap.jpg?fit=1920%2C1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
     excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
@@ -81,6 +67,6 @@ related:
       domain: polygon.com
     quality: 4
 
-secured: "p0fpnGut7kpoanZohAXFdMr2xwVL0uepatBiaHNiBbvJmzzCBw6dpV64B9gBNdIxleCHbg1+d2DErv4/PL0wy1Lxm0ZAr4PuEjwOUPt6UpM2qXCm4tViLWqNH1GqAjiCBe36ZoEcyDXZjwVbe5QNSTjqnGhtb8nOU3R8egpx/mHAs63TJdxr1PugMHcDN5H6c52fEEoqfKtoX26HIq6x3wLLDDY0RT1enETTFGzOuL49KvL+EfOTJJcCwQgv4ay/pG3dX1kp3Kp/nlZjnOZOizaONXjV1amLiEollgUlXAnFwGU4NT0ET707WSxL39skEb45yk4gZrAxGEYum5KjaZOr4azWKIzg7C6vUKm5xQS/9aVpFZ1uFPOK7XuneY6dE90UVClo8bgRxJ/6SlWFfnJmx9Cb7IVVuGIjyiWimAJdoyFciiw/o4IjgMS5y4ufaf/E7FNWK1nvg8O4YJkOFoGi8YUdNla/ndQ62oc8V+WnZrPN36ZOp1zL63FRKWqDFYCq10ZGv/OeR8MNksxkpQ==;ZH6SrE3X1BjQpZfjDYGWlg=="
+secured: "cxX1rATob/Qn1IDz0hCK+uGqsb9RneE5zcfCv1dVL9o8qsrSlnvioduZl8SY0uNYMHUPuhw9lT7hDS0gxFoDI/FDcUbvF2yCz46WfDT6oA4T9QXIxPT/2WYYCG93fiEb1vzbf+D67QhB9XhBkqm67p3+h4/iW+1k+19YQ3oQcc+ARq9oGX0i80HWZU12WLdr0xoN0OyvP4rRwA+encg0/U8goMK1/8qNSm94vKnOE5wy4GqXy4QvtHTIULkhugz14C/jDLz6Do2nwi0dVlV4dV6rWxj5pzZUtYr3fQAgw85fnXN5U4HOETirjxERyYy5a/TzYwEiSw/hD9kG8d0nHE7BytSlAyAho8tmWSf++HE=;KF16BLD3HxYw/wGWpzmO2g=="
 ---
 

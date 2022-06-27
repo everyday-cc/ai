@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4"
+    excerpt: "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy."
+    publishedDateTime: 2022-06-24T16:00:00Z
+    webUrl: "https://www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/"
+    ampWebUrl: "https://www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/amp/"
+    cdnAmpWebUrl: "https://www-tvinsider-com.cdn.ampproject.org/c/s/www.tvinsider.com/1046938/westworld-season-4-time-jump-evan-rachel-wood-new-character-ed-harris/amp/"
+    type: article
+    provider:
+      name: TV Insider
+      domain: tvinsider.com
+    quality: 44
+    images:
+      - url: "https://www.tvinsider.com/wp-content/uploads/2022/06/westworld-season-4-ed-harris-1014x570.jpg"
+        width: 1014
+        height: 570
+        isCached: true
   - title: "‘Westworld’ Recap: 5 Things to Remember Going Into Season 4"
     excerpt: "Season 4, which premieres on June 26, takes place seven years after the events of the previous season (which aired more than two years ago) and is even further away from the theme-park-robots-run-amok ... created and seemingly controlled by Dolores."
     publishedDateTime: 2022-06-25T18:59:00Z
@@ -40,36 +56,6 @@ related:
       - url: "https://www.thewrap.com/wp-content/uploads/2022/06/Westworld.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Westworld Season 3 Recap: Remembering Incite, Rehoboam, Solomon, and More"
-    excerpt: "Here's what happened during an eventful season 3 of Westworld. As Bernard said, how can you learn from your mistakes if you can't remember them?"
-    publishedDateTime: 2022-06-26T07:00:00Z
-    webUrl: "https://www.denofgeek.com/tv/westworld-season-3-recap-incite-rehoboam-solomon/"
-    ampWebUrl: "https://www.denofgeek.com/tv/westworld-season-3-recap-incite-rehoboam-solomon/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/tv/westworld-season-3-recap-incite-rehoboam-solomon/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 43
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2022/06/Westworld-Season-3-Recap.jpg?fit=1920%2C1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4"
-    excerpt: "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy."
-    publishedDateTime: 2022-06-24T15:00:00Z
-    webUrl: "https://www.independentnews.com/lifestyles/entertainment/westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4/article_1b3939e8-f8bd-5be9-81ac-2a2c638761f9.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independentnews.com
-    quality: 24
-    images:
-      - url: "https://independentnews.com/app/general/independent_subscribe_web%20_ad.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "We watched Westworld season 3 so you don’t have to"
     excerpt: "You’ve just watched the trailer for Westworld season 4, which premieres on HBO Max this Sunday. You feel a strange mix of emotions: anticipation, curiosity, bu"

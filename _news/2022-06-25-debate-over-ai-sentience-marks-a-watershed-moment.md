@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 37
+  - title: "Can an AI bot convince you that it's sentient?"
+    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
+    publishedDateTime: 2022-06-27T21:00:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
     excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
     publishedDateTime: 2022-06-25T19:51:00Z

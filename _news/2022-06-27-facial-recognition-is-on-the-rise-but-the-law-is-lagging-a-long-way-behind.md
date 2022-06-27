@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/facial-recognition-is-on-the-rise-bu
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Conversation
@@ -41,6 +41,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
+    publishedDateTime: 2022-06-27T19:29:00Z
+    webUrl: "https://www.dailyexcelsior.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 16
 
 secured: "l4RoX00poCdmJ9H1zEuTTc86ggRU6vy2g0jsFsWvo9nWZwD57JwEEeog39mDly+A/AmW7qWbto878EhiLQ/g9xmodxjznaHCxfYg0R/xhm6nIMq1gFgygeNbUg38TryzxXyYsxbEOmsTr+ILRl7Y4wec5/C9WuMHLQ6BqeuR1ciFcrDNSHU3szbZjtyp7al++WY/oUCJaIdp4g8V2LdCRX6ecOYrMFiuvrt18EcM+PD60Qea84TfgWHRaIg0qgmRN5ptvAII+VzTsROhUirYNOZ19bnHWhvnzhOdlyzCx24vDZQxTSraCNmwpanBrRGXuLDuJtwVCTaDQH4ebRNrgoslKv23AlY3JT5GPHOuV980VwEica30hzE6B6ATixgjqhlrmI2VzXhE+vkStFh6kDDT+C0Ba3d40kjwww8wkBilhwdhp9AXENAUOs6Y8CKNa/dafZuUt9Rrjax0bMHmMe8heOXULd6yIxCshyJGN8iJ/UgXKbHpwt/npspNS8o+N2Uf7XjrKUy+6JAy2vjA4w==;FUA+oc/6QSoDV0x+IQfk+A=="
 ---
