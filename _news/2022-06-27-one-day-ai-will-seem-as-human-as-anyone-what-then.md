@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/62b632dd403df153e6760345/master/pass/ideas-ai-intelligence.jpg"
@@ -29,6 +30,6 @@ images:
     height: 1350
     isCached: true
 
-secured: "tpFUkzGYIUBwgYyo362MWEzCpPB16AyvUcD41WJNaITIJjFLNrGxEkyZwQstaHmLPlSD9z2OZ8olKQ9oH2rBWMN57z2FsyuA57DN1KK1uh6EqiecUqTnf+ymEAhtz4jM1jCIInijdz/JyQ1h043dBHdKOho/j6uKsXKVhhTdyJDeVzGQV2XPlVUZyrihmgdSHf97dCaNMPeY4rYqtSMwYQnZ5sY6SsGXpah0aPSspZPEd5wIGqhq3YsxNZ1o9uOWK1A/knJScJdgt3+4OBonGn0xH63wIPh0CHpyW/sAwe5IZ7qIKbgNyrAPwjjmbiIum2F2bEvOqGDiZryEdnZSDqEb2CWzjtvqzC37PbgqS6I=;GQO2e0FnTv0W1Rt9bYeA3Q=="
+secured: "2Yozr04PQ8HsOo5T1sSvTpf5AGOwZm7AVW99RkOeevkg2d8+8/wC640KIuAkrC9kE+pNCTMnPBXPpDAo/TcgHiT/0MEBWVTV0IOPNEScROZ3DiB/kk+LIoilBm5YdNmaBa0KGrcZNDKrTQ1W/85raexI03hsA1nFzRQVrGHCbKkhdmaGH3ZdB3+SR2QjVcpBG/LfQHlT4G6e8i05AOJAtWykMFJ3w2VlrTH4YqV60tMVjXnfmWlcJiXQCUYRhmVxT2DMX4rKPfQ2QlSrDi7iAadsZePs0q4Zp6Yh2B1jGJA4MYV3Grm6lOpseD/IUr1PnYM9ODx+5cqYrn3kt0TLVyLxygul5zJw5sIzq06f5w1Le45X5Jer13GEchSesoLKGHkqGxGgdYzc+2iVnpWMvgH8a1SUmft6RM3FGXUke5a1vJDmo/0FamqNzccvSwzYuIl4GC0lRNjwN0VwbkyKeVECyZiqnLLumEA/IJ8M1fCr4zcozd0C+wOShyEOWFVgkAmxcu/nvisSAYIDpbWB3A==;8vdE1ks3gT0bs3Iedz8S8A=="
 ---
 

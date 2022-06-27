@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Robot Market is predicted to Rise at a CAGR of 20.5% during the Forecast Period, Observes TMR Study"
-excerpt: "Industrial robotics technology is quickly adopting ML and AI technologies. In order to boost production, manufacturers are striving to better the rigid, immobile capabilities of ordinary industrial robots."
-publishedDateTime: 2022-06-27T11:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robot-market-is-predicted-to-rise-at-a-cagr-of-20-5/article_c0df1781-6c5e-51ea-86a0-18273f99b873.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-robot-market-is-predicted-to-rise-at-a-cagr-of-20-5/article_c0df1781-6c5e-51ea-86a0-18273f99b873.html"
+excerpt: "The value of global artificial intelligence (AI) robot market was clocked at US$ 8.18 Bn in 2021. The market is likely to register growth at a CAGR of 20.5% during the forecast period, from 2022 to 2031."
+publishedDateTime: 2022-06-27T12:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/27/9628702.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/27/9628702.htm"
 type: article
-quality: 42
-heat: 42
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Robotics
-  - AI in Healthcare
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/43/1437abc5-a42d-5050-bde8-b4f1cffda1e2/618a5c44a8e86.image.jpg?crop=768%2C403%2C0%2C182&resize=768%2C403&order=crop%2Cresize"
-    width: 768
-    height: 403
-    isCached: true
-
-secured: "2dF1t06RumMy0vCE1ZPlpXrHgqgGTVKclvPZpmLNIQmu1V8E9+idcwgWO6v29DqSus3FmWDJ4mEFYj5zcm286G61cHFI2i02phvh0LCNdsEBnU/ObpQoSnTS/FjA8qoIfvVM5wyk3EFKvlN7Pm8RpTs4fUVTFRL3yjDzS26XRDhQoZKLmhB8cjLYH84168u6KOt9vYsqSfOegk00s6d+UpmEzTpNQwu7fY7mpj+4eXJFyKXHtmiXKDAmXpad3Ge7/nredEyG5iTuiVCRbRa2l+i2pI5OC7svz1rj+HSVgUNY4qvXyVlcON8x8A1G4Sq3AOe3EXMMnVGX4gTNXTqEwOxkV9urbq8Io8YlWLWGD4I=;GOt3pr3n9YM/5vxUg1saSQ=="
+secured: "Bfz3vfucAnRROroCjzRWt0ADhHBpCVSqZSxeEV/58zXZ69cuMpOjL+cCZGlNjNUBDG2wqmXnXZ6t4bbCuznH4tyY1ZU4d+oBC0V3QiQm8peKDgZbCE3P3HgHIGOMH49B0kIf/k8IDI/MXXLWheCFm9tsduNbdt6PJDX4ga2Y88tFW+QYwE1MmrMc+YWia3ijpbZmVIJUYMtFLX6S9+GCFuHpNrEmFYFC+ax4GdcKbWNMYSdKiP9RYm9+tPKJhtzaE0+PZUHfeWl2+fBZtcY3EsbI0C5kvWHnvGLIdH1yiX06oOkfssvwVdIishWcMVII9SvR7m/qeMH8FlhsLc+5uU0eBMMjD+z6OAeYRzvkoYWpMOTja3L3e7RiYWYp7soFhq/TB4SilCbFk4ruKyyN/ZnyCopZMw9FyWs2fG+SPTVS9TPRviiICQE81867ePtafifpCRKrjDIgUGxHiMFIHnmyumW+GREKSG/sel4TB1/TCtbGba3ASSx3pb1ekzMqOECecbPrkVtwtJOvTXMh1A==;b/9gtN8uEmHIDbnd9L8ABg=="
 ---
 
