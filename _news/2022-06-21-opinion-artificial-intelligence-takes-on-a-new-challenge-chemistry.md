@@ -1,18 +1,17 @@
 ---
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
-excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million ..."
-publishedDateTime: 2022-06-21T10:10:00Z
-originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
+publishedDateTime: 2022-06-21T14:00:00Z
+originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -21,6 +20,6 @@ images:
     height: 1203
     isCached: true
 
-secured: "mSgfpWZbcgVxfnWdzg0jzUaNqFHZX4VyRIWBYjuHoVyvr/+KR6r1kVfjxz9H51bxbRLcAcVIXWzsQpbwBhR4N1kLDi28awlDVJDfQjFIXW/pgQGm4S7V6dD+0YCjNXwIonab1uFIZuxavym8EHrc+BI72yFDfgztHMHiOtJSWEideaG8rAdgKSQ6dNoUi28WpA7Q8dzlhyyBvY3fTXdkxDtXhmyq/R18ktJC+I8VHRVv7tIzqN9wNb0CIyeqxMolq2nDlnQjsd1+Z6YkXSigdkpm45RH3Afc049xn/oCgkOX4vbcG+zJ72xKzDr6AZURYpTGBJhULNdw3ZMZ/OnOuBNfeC0fPjwax7Qjyl6Hfk4=;CrB6mg5zVzf/zjSFONzshg=="
+secured: "x38vaLrOVvs8VYlpZ2OMQ76RLlUrSgTotOM4tBgqiCCPwMWeEsUqwrEvrornq8Q6QNBJyXNaOeOz60a8zAHWNv7d101DIIvsz1hVO/Denye2Ntgusbhng/trEdx6OXwI0GOpeL6ScHajwCW8GP9KKPfvjynO4DtUVClgpP1YME+YVllPNZtgSbW/J5kLvp9vz1e81MSVErZN8uSgIAqiNNpPNkfFoPQ1VMTj+XWpUuQ1+1PP1T3iWl8vjDjzRTg5ZZHMHLXnBVetUWL/s/Ocpan8K7eMD4tblCOiN9glNpcDg/clfLd0dEKPn5ggXY/fhhX5tYUswxXf8L7+sYYSO9sXf5BaFjsFCAF3auun9AY=;RwpZ8YjWQhptCE+XMa5g7A=="
 ---
 

@@ -82,6 +82,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "Adyen: FinTech Titan, Fairly Valued With A Huge Moat"
+    excerpt: "Adyen N.V. is a Dutch multinational payments company which serves leading companies such as; Facebook, Spotify, Microsoft, and more. Read more about ADYEY here."
+    publishedDateTime: 2022-06-27T15:55:00Z
+    webUrl: "https://seekingalpha.com/article/4520520-adyen-fintech-titan-fairly-valued-with-a-huge-moat"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/6/26/55230498-1656252847202421.png"
+        width: 640
+        height: 238
+        isCached: true
   - title: "4 Fintech Execs Make Top 100 B2B Marketers Leaderboard"
     excerpt: "HotTopics.ht, a thought leadership platform for business leaders, has announced 2022’s top 100 global marketing leaders in the technology sector. Of the 100 business-to-business (B2B) marketing executives selected,"
     publishedDateTime: 2022-06-23T04:47:00Z

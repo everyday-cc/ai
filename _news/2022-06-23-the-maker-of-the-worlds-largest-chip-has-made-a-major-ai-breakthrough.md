@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chi
 webUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -23,19 +23,63 @@ topics:
   - AI
 
 related:
-  - title: "Value of China’s core AI industry surpasses 400 bln yuan; smart chips, open-source frameworks technology achieve major breakthrough: minister"
-    excerpt: "The scale of China’s core artificial intelligence (AI) industry has exceeded 400 billion yuan ($59.74 billion) and the number of related enterprises has exceeded 3,000, with major breakthroughs being made in key core technologies such as smart chips and ..."
-    publishedDateTime: 2022-06-24T07:50:00Z
-    webUrl: "https://www.globaltimes.cn/page/202206/1268945.shtml"
+  - title: "Cerebras sets record for 'largest AI model' on a single chip"
+    excerpt: "In brief US hardware startup Cerebras claims to have trained the largest AI model on a single device powered by the world's largest Wafer Scale Engine 2 chip the size of a plate. \"Using the Cerebras Software Platform (CSoft),"
+    publishedDateTime: 2022-06-27T04:49:00Z
+    webUrl: "https://www.theregister.com/2022/06/27/in_brief_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/06/27/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/27/in_brief_ai/"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 19
+      name: theregister
+      domain: theregister.com
+    quality: 74
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-24/46903169-621a-4950-bf12-3610a1fb0cb0.jpeg"
+      - url: "https://regmedia.co.uk/2021/05/12/brain.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Cerebras breaks record for largest AI models trained on a single device"
+    excerpt: "Cerebras said training AI on a single device can reduce the engineering time to run large NLP models from months to minutes."
+    publishedDateTime: 2022-06-23T08:34:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/cerebras-ai-model-trained-single-device"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/RRL_9923.jpeg"
         width: 800
-        height: 480
+        height: 600
+        isCached: true
+  - title: "Cerebras CS-2 Wafer Scale Engine: The Largest and Most powerful GPU ever Made"
+    excerpt: "The benefit for Cerebras is that by deploying a 20 billion-parameter NLP model in a single chip, it can lower its overhead in the cost of training thousands of GPUs, hardware, and scaling requirements."
+    publishedDateTime: 2022-06-27T05:34:00Z
+    webUrl: "https://technosports.co.in/2022/06/27/cerebras-cs-2/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 36
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2022/06/Cerebras-CS-2-AI-System-With-WSE-2-Chip-Official.jpg"
+        width: 1621
+        height: 908
+        isCached: true
+  - title: "Cerebras trains 20 billion parameter AI model on a single system, sets new record"
+    excerpt: "US semiconductor startup Cerebras claims that it has trained the largest AI model on a single device. The company trained AI models with 20 billion parameters on its Wafer Scale Engine 2 (WSE-2) chip,"
+    publishedDateTime: 2022-06-27T10:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-trains-20-billion-parameter-ai-model-on-a-single-system-sets-new-record/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras.040bff2c.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "K60FXlg/UJiJxhMa/52cuoGm+o6XuLDZuyB6sA307lZo3+X4CFtZ57nlb30ffZRuIuBrXX23/sOqgiyT02Q4zZs+2j+CO12qaiYOGTMi+DcbZgR1KAgq4epJSqDjn1X2tF4UNW5x49R/P+coDLONR3s7kyDKgbd/ZjjV+aJ8jLOo0nGxt/TfIllrJX6V5E0RByndmPqPkeipxPSIui+ys9dvGfY60XP4A3jJP3SaWXcy8qeLUdFI+KXWmFQBBbOn4Tjrx63/WuKqmACRb632nGo5aqhOidBFJdWxVLBhty+qz00AkRBHA+yX+J9eszqwqvx1/xE87gXsTvyz1Axl4JyyJ07gWJU5cx18qmiV4jjsFassbREwybigj+T4dYmekBRBt9+XGubxa6FvuCgKH2Nn/RZq6nVTqrkx/RoAjCIqd13pSb65zC/v5F0l/lOmisoAZ5KW6L+EBUjTMNUTcI+kvINaYCKJQGBepJRm9GzPK5KmtVwnrb/L2SQVuYgP1JE+iUpmlIbozAOR9Vv/7w==;g+Np03VBZ9+7eV7YWWkEuw=="

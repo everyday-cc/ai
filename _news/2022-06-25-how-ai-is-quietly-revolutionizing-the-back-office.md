@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
+    excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
+    publishedDateTime: 2022-06-27T16:06:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience"
+    ampWebUrl: "https://amp.wbur.org/hereandnow/2022/06/27/ai-sentience"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/06/27/ai-sentience"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 63
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/AP20007048093657.jpg"
+        width: 3000
+        height: 2035
+        isCached: true
   - title: "Artificial Intelligence in the 4th Industrial Revolution"
     excerpt: "Artificial intelligence is providing disruptive changes in the 4th industrial revolution (Industry 4.0) by increasing interconnectivity and smart automation."
     publishedDateTime: 2022-06-24T02:35:00Z

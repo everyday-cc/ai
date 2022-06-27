@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/tesla-honda-crash-self-drivin
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/tesla-honda-crash-self-driving-cars-unsafe"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Interesting Engineering
@@ -40,6 +40,20 @@ related:
       - url: "https://www.independent.ie/business/technology/025e5/41786153.ece/AUTOCROP/w1240h700/Swedish%20freight%20tech%20firm%20Einride%20was%20last%20week%20granted%20permission%20by%20the%20US%20NHTSA%20for%20a%20public%20road%20pilot%20project"
         width: 1240
         height: 700
+        isCached: true
+  - title: "UK to investigate the safety and potential of self-driving cars"
+    excerpt: "As a result of these accidents, six people lost their lives. This week, the UK Highway Code will be updated to ensure that users of self-driving cars are not held responsible for crashes. Instead, it will be insurance companies that will be liable in ..."
+    publishedDateTime: 2022-06-27T15:52:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/06/uk-to-investigate-the-safety-and-potential-of-self-driving-cars/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/18700/dreamstime_l_134441594.jpg?crop=0,0.32666666666666672,0,0.18114583333333328&cropmode=percentage&width=1200&height=450&rnd=133008144110000000"
+        width: 1200
+        height: 450
         isCached: true
 
 secured: "Zbo5u6/IcK+SPOsVnNDm769VoTwlIn4Lzh7JkWH8+swIMQP67oEKGRjA7HjMfAIFnRSsDhWxO/CA/UPHyYpz8kzcpX+FTnoFyBMgxvDe13p0+vdvpXLdMcEWwXwixMixThF4oPzDzPByS1M/l5oyzp70UXhaf4kDKHO8qUhbyVbW17D3nwo6DESZLNwglakB1sKrFppmaRYwHydfMOlJ0rlU6XqrD1S7KkQbDbxrkkEOk2fS8SmAT4Lwvc7i+mrPJ1RUedbo9UiB+0xM8cpWSEMRh0fLjHsg5iF6/pIwncG9YenHRtXVf/sCGFFd3FwzjERDMrRMpxyhoyqEkaPlyS2AUSyDe+KPf6q7zLpdwjnx39QKOauOGPf9vT4QkUoQcjqMtGYTJMmVl7p0pHG11e66n0OKxH+wiQPSWL4NLYgVIw/2AcCi38i+1m+mIOr5/B90bISvF6UU3Xwy9OEG+EGf3hNc+H9KmlKX3raq1nc+tlqLbXH4X7ThJ3tfk9Yf8bpWaznxDX8XJsPa+ePDTg==;Ib4+bAzzdzfKhYNaDDAGNQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202206/1268945.shtml"
 webUrl: "https://www.globaltimes.cn/page/202206/1268945.shtml"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 800
     height: 480
     isCached: true
-
-related:
-  - title: "The maker of the world’s largest chip has made a major AI breakthrough"
-    excerpt: "Cerebras Systems, maker of the world’s largest processor, has broken the record for the most complex AI model trained using a single device. Using one CS-2 system, powered by the company’s wafer-sized chip (WSE-2),"
-    publishedDateTime: 2022-06-23T13:02:00Z
-    webUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 64
 
 secured: "WNy/maVB1e7Hnl19rDMXBEIb5e9HX0RGDIXM9g4JLlvUlLckS7fr/yS/8bq1PBKN27zkKQcfg/b07kjBHfc6hMxlt0nmQDpZAjuWVW7AMzYb8tiOk7kS2hQogUFmA6aXhmVTeMX/cqZOBoj3KOWpHZDvrUfdEcEwKRbDM97J4TF4QeHZF1l1zt7NG+DwlnUHJHrDsoLwUkb7DYlWQ084ZETk52ZXBAUogEq4usZcZJWHY9sIHPQ+YH4Ufi7i08uo+UCBNb6JXzjiIkmw/sxqMWnwj98Jl2LE+XeT+kYdPHJFOEVMNcCtk+cM7dRcyf67h7WERYYlDMhB8GJur0+wsFs/mgCcYIilgrHlDYYjpoej9wMY7T4NeNYJCyuPk6gufhX1A/EPzZnr9TBi7HT9BQb9xyK/1Ug+9KgnRl6u86V/26EBU65R+2lpp+/DVTLJnLfWayICRnImDyXpykKLSjigiFeW7Y5QisGk9Y+uEkTVeWPhqLdybNF3ZSfrXLdnqLKfFoEgzlQJ+Lr8pZ5DAA==;G7fecmjo+Wy1V4w3QcNiLQ=="
 ---

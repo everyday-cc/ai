@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-27T15:04:00Z
 originalUrl: "https://www.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/"
 webUrl: "https://www.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/"
 type: article
-quality: 54
+quality: 58
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://res.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/en/headerimage/amazon-released-incremental-training-feature-in-SageMaker-JumpStart-header-image-1656331499762.jpg"
@@ -96,6 +98,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "799/aZDJQYqP5pIswenz36LvAF4Ucuu8t6uYnNW0edf8I0JLEVaaSaARG3Qn46xMHkKSClGcpfRBFzk04wQca/57NziBlhrRKcS1rnv1TS4PsDEKPr8YAvo3jiTVE2fWlA+utRlSZ6xN5cow8l0iKYzhdvCmfonBYCVWGFIoJ/Ln3n0Ghh2qPL7m58UnIaaCH6kk8O+7kHt0itQ6QwdrBrgpB9zF1xXTOHwbjzRBCTDF27lizsEOrIM/aTA1L/IlusbX3nqP5r1Rr7dlu6LC5dVXswyVzMKfycfw/ttRIV+GjpzbRc5Z/dCit9LXSxoXzfBytPlTjKheseTsVhkeDdZgPJaLDKQzWSd++JD00lk=;8S2ymq3AqA5Mcn01/oTiHw=="
+secured: "tlOOQzAOC3c0DEZV5weXFJyIL9rlgunBgNMmZiRw6Os/rlqZYbiqII2xDxInexp2pIK3VdW3CGPgtQ00D+YWxVTjvGWhuE1yf7XoRzEPZ1MwafuEuMeDKMT5oEiAITEyde05Qxh6Hlz96qnSoscLLqqtKc1O7lmq+lMd0frGT3UCjIhIrZHsHRAuUwu3iGho7mRYxyf1szLahdWwOzQ7pzm0MiTKkWwXTx8990CsbZGjgFMNFG1YanRFiLu3VIMkxN+hnLyfSq1iv158LmvhV9ZFHprHXZQGPas3bUgA9X+El+58BnOJYJSG4JehzQGCa0pos5nxhLi0wxXtSLyRVkQqz4gMF+ncxf5l2spcOvlzKqjbx9TnuDPOf1KLUW43cbrXEWf8F3HzHtY7bn0wIPhybYG+Tw+f+DKppJdZ4jJj5oLd87Jl5jSpa8Fmu1lrc7NRfhXVf3bNMjulWCqe2iG29YdAs3OGZzxXO23JJ8zOtU9o+hysa0m7++YD08MTyELyjh1lKgLReMiECG06wQ==;JSNEqqc9FacXup575ZPa8w=="
 ---
 

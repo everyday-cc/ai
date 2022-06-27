@@ -31,6 +31,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "Speech and Voice Recognition Market worth $28.1..."
+    excerpt: "In 2021, the consumer segment the largest share of the speech and voice recognition market. The growing requirement for mobile device and application authentication and the increasing use of voice ..."
+    publishedDateTime: 2022-06-24T13:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27842802/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarke"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27842802"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27842802"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "Natural Language Processing (NLP) Market Size 2022 Future Trends, Global Top Leaders, Growth Factors, Development Strategy, and Forecast till 2028"
     excerpt: "Natural Language Processing (NLP) market provides industry overview, segment by application, sales growth rate comparison by type, size estimates by region, competition by manufacturers ..."
     publishedDateTime: 2022-06-24T06:31:00Z

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/388134892.jpg"

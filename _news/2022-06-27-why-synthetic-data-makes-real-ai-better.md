@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 132
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AI Is Revitalizing Data Centers"
+    excerpt: "Artificial intelligence is refreshing data centers — improving efficiency, operations and performance with new capabilities. All types of centers benefit from AI’s possibilities, from automated workload management to smart cybersecurity."
+    publishedDateTime: 2022-06-27T17:23:00Z
+    webUrl: "https://www.unite.ai/ai-is-revitalizing-data-centers/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/ai-in-data-centers-feature.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Meta is building better AI-driven audio for the virtual reality"
     excerpt: "When it comes to virtual reality, creating immersive worlds is more than just generating visually perfect environments, the way that sound works can make or break an experience. To tackle the subject of audio,"
     publishedDateTime: 2022-06-24T17:15:00Z
@@ -77,6 +91,6 @@ related:
         height: 450
         isCached: true
 
-secured: "DMtd5OXrrqPL7dM9DltePHmy7gIhZ8ekAttlnFSEqG3jKb3WtpbVdl/PlM/Prx/cHOy+jsHHuSBLJesiUW86N9o8D2M2YSRP/NRruacoiFl+4Khnmdo5WSe+jLWo0b26rGA3w07fC9eBjVluyWtnyldLFO/5AidulmfO2coK6V0B2SYAMWfXLlQcd82vlb8A9/o1XMV/wl8F7d3UX9saFYKE6ook+unP7fkhFG5gHSX2l6rp1OSqnYI7aRk2fVAsw+kbvvuX0KtM4+bPfzbWftNU8UxfXwjpuGblZT3mZaIkhFWPWWhMpjS3Qb3Tp9Ig0RQvNsfAVdy/CkFPMPxbO7H9eElsy5KncYRgIZq2RBI=;ib//6uJFi7dzie9NHF1tig=="
+secured: "NZiCwig3j4yq1LkQgMmUzMCHSAlIoDev4jGW0CfvSr8P+jfaftaWjkbsTaGi/J1WWku7OgbE2ps7z9sbmjV+XrmmvoV7JmPeERMhKMM3jCliAbhqBHOEjhi7SfIW2D/lXU1gBsph8b6auOjk+TMoRC0xsQBK/hSAB/0bQyqFUuyeOqGcUgOY/XyRDAr+JohyME06od0Swmvi/eNxAjcnNumyiA3YoqzRZfnbitq99FvyZVJ+dJuE3GoDAevjfachTyn+MGDH0Czyn7agfyXDfYCqm4Ob/6wxW4tBaFN66j9XJRAcs75rh6emCI6Kkp2OKRHDPcMeFvCcqDO9bOR782wvLhWDKuW2HPSa2ykLaJSeiCbrBjPe8OQBzwABYKJVs3ni6GpvJCgecDk4A1nB0JlKD0tt0YZ61k06vf5SwrDQb0I/eHoC21r8wF7eZj44xHOMrD85qfBAp6KwljHBnaZKv3q/giZ5QQP+66dX6pCGFKcaX6+zBrKY6nRcEEgpk6A5HdxxRvqg6yKYTArUSQ==;dG7B6nSruxXGgyinsoCoSw=="
 ---
 

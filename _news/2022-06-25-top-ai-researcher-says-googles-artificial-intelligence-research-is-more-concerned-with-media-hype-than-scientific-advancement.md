@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-24T19:30:00Z
 originalUrl: "https://www.businessinsider.com/gary-marcus-google-lamda-artificial-intelligence-media-hype-dead-cat-2022-6"
 webUrl: "https://www.businessinsider.com/gary-marcus-google-lamda-artificial-intelligence-media-hype-dead-cat-2022-6"
 type: article
-quality: 34
-heat: 34
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "bmL7BpfAz2uEYHkYuwaJQofFWc1540z+vk9UFilZXNKNY2yRbNqQvqlnXiysGxq7R/WNIUemIIVVs4SoCIxCYRH5miWXF+HojWJhVQhmghfFttxp+J1mvTjkq5PBDEOPqlo9X0YmG97kDwzqp09DldYeafz9argL5NRVCMGPVGU5lacVzZFEg28oh9ADwsRgKUfwbCxtCXihxPPQUIz0txz76bQg0waG0krppmu0BBiJLYLmyaTMdQH8whLzXfh5/7gCIbhTW/J/tbJopWcOrowGE6OgrfCxfyTZ0PP0X0GTe8ysRZFzGZArrfewVIqjwnCXib+E1rd73LMMI6rFmAQwtIT7cGmN0WZcGD0MikAJsTHutgGbK+sm8W/l4MjJXOoBsU/AbYFMAOzvaPeRUImetnliDnitwRhIAApemyxaTZfJah4yK1yRtpll+5ZjneZwvbJMJDTzC5m4OsVRvWW+5iory0A7e0pfgv11JSwhXY0oYtAiTRpfU+tgwQZx5h1kIyLDQr8dM9fU4kEAcQ==;2I5pwjZQDKH66dKD6gfVRw=="
+images:
+  - url: "https://i.insider.com/62b61296a8ac190019a786fe?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "rB8na87siaQQhuLRwIPwV2bcEgF66ZvWRjEqlVvGTylvoVtofn6PdEYY0UWFvls8y9Ah6hEzJKiJZ4eMmPR6S9ZvfZhDE2fc4f3KoGXu4X3qc3yQvKV8PjfO//oQmES5oStRbWcRXzXIDh58vaGFRUXn+gNWdNLKotqLN5YY2Rb7bwNxz/2svS+z+MNVFkRNmuzxE4XMk+DNtu2SJco7/nDP9nbBYLz/6rYtiVYPuDMiOKSQPth1v7OcmlGmrttLY7dsVIRY7ITg7r1Zy0bH1Yfhn+ZqGXI4z+KvZWBo3enVN57FzN/pAu3LyeW18BoS3mlMtoZceqTIiSAipJlbx7OJoABw4OQ5HtzXyKpHNTU=;lhjk58g0gBYa8SsR7c4Hyw=="
 ---
 

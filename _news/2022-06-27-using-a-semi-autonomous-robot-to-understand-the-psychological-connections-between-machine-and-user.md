@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Topology and machine learning reveal hidden relationship in amorphous silicon"
-    excerpt: "Theoretical scientists have used topological mathematics and machine learning to identify a hidden relationship between nano-scale structures and thermal conductivity in amorphous silicon, a glassy form of the material with no repeating crystalline order."
-    publishedDateTime: 2022-06-24T17:26:00Z
-    webUrl: "https://phys.org/news/2022-06-topology-machine-reveal-hidden-relationship.html"
-    ampWebUrl: "https://phys.org/news/2022-06-topology-machine-reveal-hidden-relationship.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-topology-machine-reveal-hidden-relationship.amp"
+  - title: "Perfecting Operations Through Machine Learning"
+    excerpt: "Raising the Solution Manager IQ In the last two years, the OCC team and SAP have worked together to teach CEMEX’s SAP Solution Manager to run SAP operations intelligently, utilizing machine learning and artificial intelligence, supported by best practices."
+    publishedDateTime: 2022-06-27T16:12:00Z
+    webUrl: "https://www.cio.com/article/402027/perfecting-operations-through-machine-learning.html"
+    ampWebUrl: "https://www.cio.com/article/402027/perfecting-operations-through-machine-learning.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/402027/perfecting-operations-through-machine-learning.html/amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 56
+      name: CIO
+      domain: cio.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/topology-and-machine-l.jpg"
-        width: 2880
-        height: 1241
+      - url: "https://www.cio.com/wp-content/uploads/2022/06/Picture1-5.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 708
         isCached: true
 
 secured: "5XsNmGKmiGh0sLgpCi2TPIOJa3Y090OdsGbd8dOALr0k6f4hwy5XEQB9BEmp/xmWmpOru7dyydDMtMbfEr1gAGO9aCJpmDwMst7qnWOTEinZ2ZUR9NQB0stnlLu1g4ZBKYl+kWLHft0IcrhxyKMkBL6C0DM6oGHpOx7IRn6+2Sy8J3H6tWRTRKypBpNWbBxvMpfb8kVSmOFwaUn/4ugVQ+at80EyT8NUjnZO/vQvUNROBLIbB5rOXZgZjdz20RG3o4op7O8/QswzNcoa4qm+D5ggHrXr+YSqR3Y6XhaFRCBt6LXNNKKGIRaTgWJy8DClN24LO/O39KR0ONj2SAwBdUs3SZ+xYYXA4nW+dTQYmaM=;4uZ2KhwGOq5VeDHfFn0bng=="

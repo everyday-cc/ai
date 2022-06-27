@@ -89,7 +89,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 54
+    quality: 58
     images:
       - url: "https://res.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/en/headerimage/amazon-released-incremental-training-feature-in-SageMaker-JumpStart-header-image-1656331499762.jpg"
         width: 1200

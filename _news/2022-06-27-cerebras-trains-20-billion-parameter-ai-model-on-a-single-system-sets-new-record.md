@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras just built a big chip that could democratize AI"
-    excerpt: "Chip startup Cerebras has developed a foot-wide piece of silicon, compared to average chips measured in millimeters, that makes training AI cheap and easy."
-    publishedDateTime: 2022-06-23T00:17:00Z
-    webUrl: "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine"
-    ampWebUrl: "https://www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 74
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-at-the-core-of-cerebras-pitch-is-a-chip-that-is-roughly-the-size-of-a-dinner-plate-less-than-p-greater-than.jpg?id=27946326&width=400&coordinates=0%2C135%2C0%2C136&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Cerebras sets record for 'largest AI model' on a single chip"
     excerpt: "In brief US hardware startup Cerebras claims to have trained the largest AI model on a single device powered by the world's largest Wafer Scale Engine 2 chip the size of a plate. \"Using the Cerebras Software Platform (CSoft),"
     publishedDateTime: 2022-06-27T04:49:00Z
@@ -57,6 +41,15 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "The maker of the world’s largest chip has made a major AI breakthrough"
+    excerpt: "Cerebras Systems, maker of the world’s largest processor, has broken the record for the most complex AI model trained using a single device. Using one CS-2 system, powered by the company’s wafer-sized chip (WSE-2),"
+    publishedDateTime: 2022-06-23T13:02:00Z
+    webUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 64
   - title: "Cerebras breaks record for largest AI models trained on a single device"
     excerpt: "Cerebras said training AI on a single device can reduce the engineering time to run large NLP models from months to minutes."
     publishedDateTime: 2022-06-23T08:34:00Z
@@ -70,6 +63,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/RRL_9923.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Cerebras CS-2 Wafer Scale Engine: The Largest and Most powerful GPU ever Made"
+    excerpt: "The benefit for Cerebras is that by deploying a 20 billion-parameter NLP model in a single chip, it can lower its overhead in the cost of training thousands of GPUs, hardware, and scaling requirements."
+    publishedDateTime: 2022-06-27T05:34:00Z
+    webUrl: "https://technosports.co.in/2022/06/27/cerebras-cs-2/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 36
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2022/06/Cerebras-CS-2-AI-System-With-WSE-2-Chip-Official.jpg"
+        width: 1621
+        height: 908
         isCached: true
 
 secured: "fz1fRCjOn3GfqXWLg9DoUVDWmlfevnHSDp11NdBTk/sHkx7am51Zp3XP0Bge9FL2Yli3+A3j6paZdc9c51RlqKUsL8EzLz+Hl8SbD3ts3ZvKO1n87uYmA+QlfJcEkiEFWMq4pLGoAgQXF95fiUkmhSLkfJBlu7wzUWzMX4ynH47PKHqsbd8I7mTS56ARaLKZDyFsYaH5eQp8r8TnpRCWvTXSPTVs5J2hkY5W72bF59geXHx9BKX+EyPsUr8z5XVZtRVGh+FzwNDr6RRHEhmCMVWKa5XDmnv9sLbxAE0pZMq11p2/Hwn2ZEFO/T2TRsksDkzHTRrApf9xe+7P9TqAViuI9GBfDr584o2XDURsl3CNLwBOx0VHGuYIkQNsLLj8UfAFNHj1H8WVNv17kRX82URHH2Kt/madzO2vxbfpBmP4CtfCct9ck0K/wWmTSDcagGI5fsFmEXqdvxpNJSAWyWh4wv3GolT2Mo9Y5s0lQcQ78Dmd2BuXhYmg1ck+yaNi4d6r4vlH+eQxGNo2QyJBrw==;09XQPiW0x1mv493RqU1glg=="

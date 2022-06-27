@@ -1,23 +1,45 @@
 ---
 category: news
-title: "Google's powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
-excerpt: "When you read a sentence like this one, your past experience tells you that it’s written by a thinking, feeling human. And, in this case, there is indeed a human typing these words: [Hi, there!] But these days,"
-publishedDateTime: 2022-06-26T21:45:00Z
-originalUrl: "https://japantoday.com/category/tech/google%27s-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought"
-webUrl: "https://japantoday.com/category/tech/google%27s-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought"
+title: "Google’s Powerful AI Spotlights a Human Cognitive Glitch: Mistaking Fluent Speech for Fluent Thought"
+excerpt: "Kyle Mahowald, The University of Texas at Austin College of Liberal Arts and Anna A. Ivanova, Massachusetts Institute of Technology (MIT) When you read a"
+publishedDateTime: 2022-06-27T16:43:00Z
+originalUrl: "https://innotechtoday.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"
+webUrl: "https://innotechtoday.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"
+ampWebUrl: "https://innotechtoday.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/amp/"
+cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/amp/"
 type: article
-quality: 2
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Japan Today
-  domain: japantoday.com
+  name: Innovation & Tech Today
+  domain: innotechtoday.com
 
 topics:
   - AI
 
+images:
+  - url: "https://innotechtoday.com/wp-content/uploads/2022/06/image-1.jpeg"
+    width: 754
+    height: 496
+    isCached: true
+
 related:
+  - title: "Google’s powerful AI spotlights a human cognitive glitch"
+    excerpt: "Because of a persistent tendency to associate fluent expression with fluent thought, it is natural – but potentially misleading – to think that if an AI model can express itself fluently ..."
+    publishedDateTime: 2022-06-27T17:10:00Z
+    webUrl: "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/06/typewriter-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Google’s powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
     excerpt: "When you read a sentence like this one, your past experience tells you that it’s written by a thinking, feeling human. And, in this case, there is indeed a human typing these words: [Hi, there!] But these days,"
     publishedDateTime: 2022-06-25T19:17:00Z
@@ -28,6 +50,6 @@ related:
       domain: dailyexcelsior.com
     quality: 2
 
-secured: "xsFkmMRFo6+/zAq6Cz7cpj+St4OUDW8cJDGPrLmyzjmedH3SRpFkWc/lc0fVdyPKFdT49giGn1/36Palz6S1zwMzlMicfgbLZpSEtAqvNIA5/fxIWALLPLt4TxRSgU/NiAAA6s/hs1VyRMVOfENEXib6U/0/Qv9yhD7hUHHTXrsmVcbYe2CVS7lZzN6bik17EuEWMVcNKacjKCUdXWF20XfZotxsLpsjUqNvYI+TY7fQcd0Zq9U6v4mEKjapsCg/Ryo1t+IfyrgLdxnzomzv7njzkaop9698z2B88+G0jRg+7vccBwnhPN/6mh2/e3as77eVwuaX2J2HRsp8uEo8ZsfLCqfJdgFoSRsfMcpOYgc=;9eGkGUHm09V5hmQlP4VClA=="
+secured: "7Br3fa+8+sCpi6vStUekBSPTGruE8dqFNm7XrpQgSTkbbqkeQnF5+vbEqRuW+U1JhODpg2Jc0z6ev/QUO78ngwaI7ifFYDNammfC6UmVrfMUMkDZZlU1E9NYy5FIX4uJYIbpF1DYhhspLZJxDGjtW1/IHgkAOeNaDPbTKMQklOZWAz1A8wlgL7t7o8fitGmpP4V4jouyWeq24ZuACCFaaktCmI6bQGshggJf6lp0Y8xyrTwn0K13GzjL/1HR5pfXLLzxfSolH0vCh+43mIYvcmumm+Vs4/MK7yZdOzHD1YLFc2X3ZeS2I4/GkCw842og+dE2QNusftv4BmsR2GO3rZ6sLww0XGgELB2mewrqUQc=;7vSQkOGapmUUsz7U36FbtA=="
 ---
 

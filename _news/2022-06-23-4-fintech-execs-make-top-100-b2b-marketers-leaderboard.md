@@ -96,6 +96,20 @@ related:
         width: 283
         height: 242
         isCached: true
+  - title: "Adyen: FinTech Titan, Fairly Valued With A Huge Moat"
+    excerpt: "Adyen N.V. is a Dutch multinational payments company which serves leading companies such as; Facebook, Spotify, Microsoft, and more. Read more about ADYEY here."
+    publishedDateTime: 2022-06-27T15:55:00Z
+    webUrl: "https://seekingalpha.com/article/4520520-adyen-fintech-titan-fairly-valued-with-a-huge-moat"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/6/26/55230498-1656252847202421.png"
+        width: 640
+        height: 238
+        isCached: true
   - title: "The future of fintech"
     excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
     publishedDateTime: 2022-06-27T08:14:00Z

@@ -34,6 +34,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "Speech and Voice Recognition Market worth $28.1..."
+    excerpt: "In 2021, the consumer segment the largest share of the speech and voice recognition market. The growing requirement for mobile device and application authentication and the increasing use of voice ..."
+    publishedDateTime: 2022-06-24T13:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27842802/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarke"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27842802"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27842802"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "Artificial Intelligence in BFSI Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027"
     excerpt: "Global Artificial Intelligence in BFSI Market (2022-2027) research report offers in-depth analysis on market size,"
     publishedDateTime: 2022-06-24T10:40:00Z

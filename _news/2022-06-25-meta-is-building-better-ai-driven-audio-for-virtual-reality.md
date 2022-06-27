@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AI Is Revitalizing Data Centers"
+    excerpt: "Artificial intelligence is refreshing data centers — improving efficiency, operations and performance with new capabilities. All types of centers benefit from AI’s possibilities, from automated workload management to smart cybersecurity."
+    publishedDateTime: 2022-06-27T17:23:00Z
+    webUrl: "https://www.unite.ai/ai-is-revitalizing-data-centers/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/ai-in-data-centers-feature.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Meta is building better AI-driven audio for the virtual reality"
     excerpt: "When it comes to virtual reality, creating immersive worlds is more than just generating visually perfect environments, the way that sound works can make or break an experience. To tackle the subject of audio,"
     publishedDateTime: 2022-06-24T17:15:00Z
