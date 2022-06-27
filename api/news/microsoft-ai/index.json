@@ -106,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-22-microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai.md",
-      "title": "Microsoft to Restrict Facial Recognition Capabilities for ‘Responsible AI’",
-      "excerpt": "Microsoft is eliminating some functionalities from its AI service. Microsoft intends to limit some facial recognition features for both",
+      "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
+      "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
+      "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ...",
       "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/",
+      "webUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "originalUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 347,
       "tags": null,
       "images": [
         {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Microsoft-to-Restrict-Facial-Recognition-Capabilities-for-Responsible-AI-01.jpg",
-          "width": 700,
-          "height": 400,
+          "url": "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069",
+          "width": 620,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,14 +128,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/",
-      "publishedDateTime": "2022-06-22T06:17:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "publishedDateTime": "2022-06-22T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -144,8 +153,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI Ethics",
         "AI",
+        "Computer Vision",
         "Microsoft AI"
       ]
     },

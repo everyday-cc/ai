@@ -116,6 +116,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Instagram to use AI for age verification to protect children"
+    excerpt: "Instagram, under fire from safety advocates to keep children off the app and prevent teens from seeing harmful content, is testing new ways to verify users’ age. Among them: running users’ video selfies through an artificial intelligence that can determine if they are adults."
+    publishedDateTime: 2022-06-27T03:05:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/news/2022-06-27-instagram-to-use-ai-for-age-verification-to-protect-children/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-06-27-instagram-to-use-ai-for-age-verification-to-protect-children/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-06-27-instagram-to-use-ai-for-age-verification-to-protect-children/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 57
+    images:
+      - url: "https://lh3.googleusercontent.com/Alk9pKPUG1-DVcKhi2fbxf1CyzAo5q4vtsI43I4bmS4j3tuWUtWzysp_9HquiLxfkBsSPtYIcRL4gVvqKC_OTa0obToYkE1yuY_5YnuU8rkj=s512"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Instagram trials AI tool to verify age of users"
     excerpt: "SAN FRANCISCO - Photo-sharing platform Instagram said it was starting to trial a tool that relies on artificial intelligence (AI) to confirm the age of users in the United States. Lawmakers across the world have been vocal in demanding that the social ..."
     publishedDateTime: 2022-06-23T15:51:00Z

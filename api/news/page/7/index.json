@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-18-self-driving-big-rigs-are-coming-is-america-ready.md",
+      "title": "Self-Driving Big Rigs Are Coming. Is America Ready?",
+      "excerpt": "The goal is better-than-human, but not perfect, autonomous driving; jobs are probably on the line. Every day, millions of sailors, truck drivers, longshoremen, warehouse workers and delivery drivers keep mountains of goods moving into stores and homes to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-566755/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
+      "publishedDateTime": "2022-06-17T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-18-intuit-ceo-ai-is-fueling-innovation-for-our-customers.md",
       "title": "Intuit CEO: \"AI is fueling innovation for our customers\"",
       "excerpt": "Sasan Goodarzi says AI will \"revolutionize experiences\" for Intuit customers.",
@@ -1129,41 +1181,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources.md",
-      "title": "EXCLUSIVE-Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources",
-      "excerpt": "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago, according to people familiar with the matter and posts online, as the high-profile facial recognition startup grapples with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources",
-      "originalUrl": "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp",
-      "publishedDateTime": "2022-06-16T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI in Sales"
       ]
     }
   ],

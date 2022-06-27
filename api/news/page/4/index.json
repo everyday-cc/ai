@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-22-transforming-the-classroom-experience-with-ai-and-machine-learning.md",
+      "title": "Transforming the classroom experience with AI and machine learning",
+      "excerpt": "There is a unique opportunity to create a more meaningful and equitable learning experience through the implementation of AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.universityaffairs.ca/magazine/sponsored-content/transforming-the-classroom-experience-with-ai-and-machine-learning/",
+      "originalUrl": "https://www.universityaffairs.ca/magazine/sponsored-content/transforming-the-classroom-experience-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.universityaffairs.ca/wp-content/uploads/2022/06/sponsored-cisco-644x374-1.jpg",
+          "width": 644,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University Affairs",
+        "domain": "universityaffairs.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-artificial-intelligence-technology-can-secure-sites-by-scanning-major-venues-for-weapons.md",
       "title": "Artificial intelligence technology can secure sites by scanning major venues for weapons",
       "excerpt": "Artificial intelligence, or AI, is being used to help secure sites from sports arenas to churches and schools. The technology is being used to scan for weapons, including guns, knives and explosives as people walk between standing panels. If a weapon is ...",
@@ -407,8 +450,8 @@
       "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
       "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -910,48 +953,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-opinion-artificial-intelligence-takes-on-a-new-challenge-chemistry.md",
-      "title": "Opinion: Artificial intelligence takes on a new challenge — chemistry",
-      "excerpt": "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
-      "originalUrl": "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg",
-          "width": 1800,
-          "height": 1203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

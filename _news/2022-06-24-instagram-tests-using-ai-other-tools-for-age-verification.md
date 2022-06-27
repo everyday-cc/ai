@@ -99,6 +99,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Instagram to use AI for age verification to protect children"
+    excerpt: "Instagram, under fire from safety advocates to keep children off the app and prevent teens from seeing harmful content, is testing new ways to verify users’ age. Among them: running users’ video selfies through an artificial intelligence that can determine if they are adults."
+    publishedDateTime: 2022-06-27T03:05:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/news/2022-06-27-instagram-to-use-ai-for-age-verification-to-protect-children/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-06-27-instagram-to-use-ai-for-age-verification-to-protect-children/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-06-27-instagram-to-use-ai-for-age-verification-to-protect-children/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 57
+    images:
+      - url: "https://lh3.googleusercontent.com/Alk9pKPUG1-DVcKhi2fbxf1CyzAo5q4vtsI43I4bmS4j3tuWUtWzysp_9HquiLxfkBsSPtYIcRL4gVvqKC_OTa0obToYkE1yuY_5YnuU8rkj=s512"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
     excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
     publishedDateTime: 2022-06-24T20:49:00Z

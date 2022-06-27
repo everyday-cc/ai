@@ -35,6 +35,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Amazon’s Alexa AI showcases feature allowing it to speak in your dead relative’s voice"
+    excerpt: "Amazon has showcased an experimental Alexa artificial intelligence (AI) feature that lets it talk to you in the voice of your dead relative at its re:MARS 2022 event.This deepfake voice technology is said to only need one minute of recorded"
+    publishedDateTime: 2022-06-27T02:06:00Z
+    webUrl: "https://www.asiaone.com/digital/amazon-s-alexa-ai-showcases-feature-allowing-it-speak-your-dead-relative-s-voice"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 29
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/alexa_0.jpg?itok=mK6p93Kz"
+        width: 800
+        height: 567
+        isCached: true
 
 secured: "GCxvVaUGf0uRokodUZGFLbY15CcUBtyvQxf69G0Ct7xppKKzRe14kna0IEXcZPOzOEI9K6QMXez2slJN+lusneMfM6W+ekWrdX+tqSB8VcGIH8UFiSNZjf7wlZlrpRLFkjT+V8fbr6nVHbrDBl6zs9Q2NSuq7dBv60Vu1f5UMoEq+cZn0RqAhgeVbDPKY9YRAjZvWuBEdpGCCczBIlP8iUDCRiAnAlU0tAPx9jjJx8NdxX7Y2dOw9E2OhHNVyZHdgeaw+D+Gq5UKA9G6eNcpoVnziw+An0t3uPuUvQIeNQBZLwprlsSysk6FdOvUG6EDfhCgboAaNdIpsWRzCGmL0G9E+iRhYQLuv+3xS7QTkPFNT9ajDfN4NxmLX+aKwtcnTTreqWvZpRgBlwDO+qLrQ3DJMouNwBabGoXDoTpYOberUh7kmJxfCk6Dxv9YYl9dYdM/V+IjclMGRu/GDvNQYte/z4HWKYhw00EwH9egwu8RY1kgbMTI5jXfDHvmGKMAw3IlJQaKaQ/VUU6+hzPkmQ==;qCWEj2LCwfcHCXqp40r+ng=="
 ---

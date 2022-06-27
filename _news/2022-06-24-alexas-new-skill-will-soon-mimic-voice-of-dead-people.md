@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon’s Alexa AI showcases feature allowing it to speak in your dead relative’s voice"
+    excerpt: "Amazon has showcased an experimental Alexa artificial intelligence (AI) feature that lets it talk to you in the voice of your dead relative at its re:MARS 2022 event.This deepfake voice technology is said to only need one minute of recorded"
+    publishedDateTime: 2022-06-27T02:06:00Z
+    webUrl: "https://www.asiaone.com/digital/amazon-s-alexa-ai-showcases-feature-allowing-it-speak-your-dead-relative-s-voice"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 29
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/alexa_0.jpg?itok=mK6p93Kz"
+        width: 800
+        height: 567
+        isCached: true
   - title: "Amazon’s Alexa will mimic the voice of your dead relatives"
     excerpt: "Amazon’s Alexa will be able to resurrect the voices of dead relatives, allowing users to feel as if they are speaking to lost ones beyond the grave. The company revealed that it was working on technology that would allow its voice assistant to impersonate people with a recording of somebody’s voice less than a minute long."
     publishedDateTime: 2022-06-23T13:45:00Z

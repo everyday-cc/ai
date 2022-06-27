@@ -22,20 +22,15 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Why data-driven marketing needs artificial intelligence and machine learning"
-    excerpt: "Bobby Gray, head of analytics and data marketing at Artefact, looks at how organizations can tackle the resulting data loss with a first-party data mindset – and the adoption of artificial intelligence and machine learning. No one needs reminding that ..."
-    publishedDateTime: 2022-06-22T09:21:00Z
-    webUrl: "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning"
+  - title: "AI 101: The strategies behind creating and deploying machine learning"
+    excerpt: "Whether we refer to this field as \"complex information processing\" or \"artificial intelligence\" (or the more ominously Skynet-sounding \"machine learning\") is irrelevant. Immense amounts of work ..."
+    publishedDateTime: 2022-06-22T13:04:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/06/ai-101-the-strategies-behind-creating-and-deploying-machine-learning/"
     type: article
     provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 68
-    images:
-      - url: "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-247257-alina-grubnyak-ziqkhi7417a-unsplash--default--1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
 
 secured: "jwGCkebiO5clePpEOkRkR6aR5rqUaNCxSCjUWS77xZPkccBrNfn90dRWwq2BHLO2fSGW3hO1OGNmQPDt0QR0EaOgSk8HvmQouDLEKzQtjok3SkBFNL1S1sjZy0X8aYpIY56xgYLeWNM4OYBVYazdM3mv7ZQmKwOk53Z6dLnva18Ta1LD0RrFWBqDlySfPmw0qTxlWFDWdrSi9k+UBhqwGPHGNISUEtRNjEPfR1v1YJWw2oMgKYPmSCZ92SsgfT2bkuSURaAtUJ5njcNhhTDpgOo3hx3pWvMgmao74aULdeLDPqExxAOZL+/LUWi7m6PlmtatxfmPNCQgs2XPn+X69uPU1AEkr7+dySm//FCoQRa1b9rTGW/rRJsFINVYwVbzgt2PV7hOOn5yrNwKT2B+HtjqP6zp9X6Vj34/S6ZQxHQ0TmyAakXzeVFmde+pityLsLTxf/HitUI+sJObz3H9VNk2kyCzSfJl1M9JIn7jJAugBZbsZjXrvLHOXOLyTqzTPQs2TGDojsK9OcdDvmnODA==;dH0TBezoJDmIleLNjo8SRA=="
 ---

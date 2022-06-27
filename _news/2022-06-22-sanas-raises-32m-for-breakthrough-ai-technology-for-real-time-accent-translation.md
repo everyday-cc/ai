@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
-excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,"
-publishedDateTime: 2022-06-22T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
-webUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
+excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology ... people speak a native or foreign language powered by real-time accent translation. Headquartered in Palo Alto ..."
+publishedDateTime: 2022-06-22T14:13:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220622NY96534/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220622NY96534/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
 
 related:
   - title: "Eigen Technologies Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards Program"
@@ -147,6 +149,6 @@ related:
         height: 720
         isCached: true
 
-secured: "mnMFZDiC3urm0nT8FGYUl9Xn0tYTWncp9pxk0jOhidhOiYIKM2dceIJDcTxej0N1VPTFk/44LpRy27zMgULa0v4B/NmO/Qjj9geuJeixG/qsruK5X5UyaYev7kAr6YxWbMgY9SD3DoXgqPxeMlcqhJC9hRVVuXMAPnMoeupvMzRncbs6OjtZloCFLy3JCQhWwMYWv+9WME5gTHCcWgVEZYBXCHwyv3W6XkGUJuZU6Wk91Z0EgDOKlrKpkdbKb71tRQBMNLFkPPx4m+scfuR5ExxsItNLnQrAtnDhVZvM/+gkeW1IfUNS1G6KJ0v1cttmzemGofT1XeiMExUI19SSndJA5ZPUE/GFvfwnEqqnKV4=;BUAxZHjPoIKCRWrzzHRwyg=="
+secured: "z5T9ZwJJ5btkN3GyOhJrSztxVRavR7z+NqudRPIuirDJsRYpsKPVSe4oig4VzS7eWNuWVknIK+2PZBDtTlI4cOyBEi5rg+aCvQRO3CnhS81gBv0hdfG1xxe5YpdbrIiPElZXlbBIV5sReZGWMiByPLQVa7LUbf+5kHjc8/2REmPS6a5CsGkneeP3S6ufj3yf4yfT1lTEeMezoPSI3d/kkQsNfFrKmL5feWAS4wxd2EgL3EGf/N6vrsfe4rUfbnZXBzzesBFmn7xAhhm8TDu5q/vzEdBo2rfCMMVUPLK4twmyxHyU43J8HzFcMfjnvfeHjV/nySUZ+dBIaPIQjxu1+44MYPiNyoncZfcah//g7wQ=;ivi/nOH4CETRC7sVddnOJw=="
 ---
 

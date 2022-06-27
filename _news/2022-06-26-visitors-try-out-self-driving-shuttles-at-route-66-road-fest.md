@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Visitors Try Out Self-Driving Shuttles At Route 66 Road Fest"
+title: "Visitors Try Out Self Driving Shuttles At Route 66 Road Fest"
 excerpt: "The first driverless shuttle in Oklahoma is giving people a taste of the future in Tulsa this weekend. People who got the chance to ride the shuttle said they were excited to experience the future of transportation."
-publishedDateTime: 2022-06-26T01:05:00Z
-originalUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-selfdriving-shuttles-at-route-66-road-fest"
-webUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-selfdriving-shuttles-at-route-66-road-fest"
+publishedDateTime: 2022-06-26T00:22:00Z
+originalUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-self-driving-shuttles-at-route-66-road-fest"
+webUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-self-driving-shuttles-at-route-66-road-fest"
 type: article
-quality: 24
-heat: 24
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Sn8lEwUlTooSX4mbwOaX0Iy1tAEyM+F1tpyWSxVKj3C1bs+c/bhxQtg/cDrzTu8k0FZk8MgYjDZeEO8DcwBhjAbsAvSE4oK6oT/91O4Yr/EkA57N1npvhwO6ajSX3uTWytVIsl2RYSX3z0YZu0fq3fFcGuFR/WUuKPVumJfonM286RM7JqxT7O7pmFuPgYqS4wErahW5O0rGwFbfcfQ0a5f8Xu5qTatiJBNubbdvMvCZMssuzSvnrY0PgelDjMADdw0IwjRqvVfeTD606gy0CHBJ86Q9R1ig34YsmohsBlOz+C+V/tASz6NUWEs4TA3QIEKrXgTYN2qd/FYU3soOtUxjCuViv2nwLbHkzDks2/2Uo5gDWiwlxP18D7GZNJPRXDa8uro4zwphy0esvKH/FJUuBO/IKKtIwFpBYANSAVDk2Yul1U2yaobzSIeX9/EB3y+la4s4plTfnu8si7e8u8cfMFd5J4ouzISMKu3CDYXRP1zIoQhDzt26yVQDazEr4PiKPPgOuSk2VxCmK5wPLA==;jvnPh125KWAtQNR5olw36Q=="
+secured: "EZoaaufPMK/WPRC1VqaXu0fyb1ysdcsyT/+1u5/6SkAlaUCPix0bXg1kWrIN13f84nQyFow/r2cohzdZtUb56D83I5mj7+jTj2yNVLzdrxagM4fjnpNuaNFRA95SZWsQz7eN0nwLyLx5pix4QnogGBFhgTwRo18EpRmAMAHB45FZq/uVN39sX7TlZD+i6zJ6DDcADPQoiX3gwNqqfO7o6qDscAHokWxRKVibFfZ0EHNUamV395HUERNkl1pSnCCSWjodAYAy/VlZOv972vW9IlKbtxs/JkmFqsT4otn9JGXAWH3k8PaENrXRaji29Jf/IigZfTAlIKIsoVc37dq8iwWjLg3ZcQgIFe9J2VsJGPo=;VsCOPXmVHF3QEeunUUm0Qg=="
 ---
 

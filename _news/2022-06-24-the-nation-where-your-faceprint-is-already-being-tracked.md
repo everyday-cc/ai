@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/future/article/20220616-the-nation-where-your-
 webUrl: "https://www.bbc.com/future/article/20220616-the-nation-where-your-faceprint-is-already-being-tracked"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 624
     height: 351
     isCached: true
-
-related:
-  - title: "Privacy, your face and the rise of facial recognition"
-    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
-    publishedDateTime: 2022-06-27T01:22:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "hMLvgVqm4ai9QAVAqLSgTmFd3r/28sBD9MZvky1tG0+SoHbgmbeheCe7L0XG8YgrUTti6QZpJnEsrJ2p2XW/SnmrFAf3U7DUwzETQs/+1RilkDHRmbdVBKzq0k64gTMsVuLTGU6oc7P9L6UZWXR9hwXiWtMDX+VMwj3wu+8UFa38chxyB2spCBNMYkLQAoklWx1dGg559IfjfFWEM5XGeybJK9O9doUiJV/FcJspgSR2dqDwGWM+7kRWQ2Id4NF/LXG2+0zIfk4Ji8VybYfTGziEFKAGyB7Wt4aPgGxRU8uw6pmfOi30xW1wB1ke5a8rOM5eRgxb6Ia9FLL3uFwGP0k/bPbeYPdcgsKnLOYYJ17WQ6BUcQWDqVLneZ/mqJ/aIgn+tEExUa+CFesqrbyPugUYyMJwDqYmHxKcnpeB1jebueJwWYxyas0wpqgPMfXcmw8JCUUMjIZmA5uxU4QnA23MZHk8wxvIRk72niaKwvZa3woet2qYk+fQF40ZDONknwy1kAJmmuvCZFtx5PmD/A==;5GVUcCPiYykXHwIWpc3DPQ=="
 ---

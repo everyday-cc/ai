@@ -54,14 +54,14 @@ related:
   - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
     excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
     publishedDateTime: 2022-06-24T20:00:00Z
-    webUrl: "https://www.southernminn.com/around_the_web/community/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_c004614e-1825-5208-bd0c-a5e337d052b9.html"
+    webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_205eb3fe-17e8-578d-b5b2-81de9d41d328.html"
     type: article
     provider:
-      name: Southern Minn
-      domain: southernminn.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/custom/image/ccf30c42-2648-11e5-b4b0-afdfa9085526.jpg?resize=600%2C315"
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
         width: 600
         height: 315
         isCached: true

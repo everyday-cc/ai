@@ -3,23 +3,23 @@ category: news
 title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
 excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
 publishedDateTime: 2022-06-24T20:00:00Z
-originalUrl: "https://www.southernminn.com/around_the_web/community/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_c004614e-1825-5208-bd0c-a5e337d052b9.html"
-webUrl: "https://www.southernminn.com/around_the_web/community/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_c004614e-1825-5208-bd0c-a5e337d052b9.html"
+originalUrl: "https://www.djournal.com/lifestyle/arts-entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_205eb3fe-17e8-578d-b5b2-81de9d41d328.html"
+webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_205eb3fe-17e8-578d-b5b2-81de9d41d328.html"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Southern Minn
-  domain: southernminn.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/custom/image/ccf30c42-2648-11e5-b4b0-afdfa9085526.jpg?resize=600%2C315"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
     width: 600
     height: 315
     isCached: true
@@ -67,6 +67,6 @@ related:
       domain: polygon.com
     quality: 4
 
-secured: "TZ0/x0P14yEIx/lB7olsIAf73s6o0jrhtAuhxtJdz1t+L90VA9L2/y+leC7GnLoS9AU6J28ZXYjARVoYfWinqfgfGSE1FDl6jzYRO31vSqoZu5AJSuuL0I/bWI9JccQp7wHQluG3oO6n9qAMV2Lw9uo2vU3pnNNp7y8eQ69OViHctVprbu61ClcHymj1399pPBQ/gL6xuaSGOPaSes1u27+mkRAMnsQrjvLKYgEgtqWcEI9gvQAdCWdWm5qJtljanB9+P6G5X2OUy86Td55zNVK+KZl+xSzpiSTU56BnXxeP6CdVPBH6G9eTrRAY0nE1RTEaxBo5ZUwqZTJsgVEsRaEClOPrabLxEhhhLrtKARkv54CkzQI6USa+K3LR5JNbFE6/PeGX7f49tn6kWYqDQkqalTnYN/vEEoMdF0Zw9iDzOn9Ys3g2SBYsoWw18IPUeCXDc9fsIEvMvLuZRHmjd7aCYPj9c6qJouPSljHyRlAank6nxspOvTVBTzWQKSeKG1EPi5fI2iTH1zM5IV8gsw==;mZqFKRIdj9L8UcWiZe3gCA=="
+secured: "ZgRQK7jWL6tDMYCEwIxRUa+ISYNHlmLaDQGaXZwARQk7m5nWxMGTL5lqXFzzdFcNjV+58o8KFHMu5xxFlSEFPHJ6zxV/uMDh/3PV+/0Q1cdo+fG+CBdjinGecDGgn0FKomI6Dk3T7N/ieFBeUPWRuZkQ75tj3r6wx7wUFqoUmMsEKUth7cErBKTudgg7vOSFXGq0aPJZflBVXMH9HjYUzodQQOd/ibTr4gK+OJi31IgdumR9q90vCbzIU3l3fNz0K9uqkPtMI/04A5f8yxc4rk3SHPVE11xIDcy65JMVVjSOCP9OVJNgcbQwYp/YTMuHMsSGJryUJsjjJvt9locqjcgIDSX2abq5rP5RDIhAD/8=;wW2lgAUSlwJX+uUyl4ikSw=="
 ---
 

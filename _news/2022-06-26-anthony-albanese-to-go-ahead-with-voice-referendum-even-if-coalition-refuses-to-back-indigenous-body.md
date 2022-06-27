@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
+    excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
+    publishedDateTime: 2022-06-27T01:47:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
+    images:
+      - url: "https://i.guim.co.uk/img/media/fac09191ef4c77c13693f0add4b05ef7dcb58ad6/0_0_6773_4515/master/6773.jpg?width=620&quality=85&auto=format&fit=max&s=4cd2c049f96940e5e15628c3488a4c29"
+        width: 620
+        height: 413
+        isCached: true
   - title: "The Albanese government has committed to enshrining a First Nations Voice in the Constitution. What do Australians think of the idea?"
     excerpt: "The Voice was proposed in the Uluru Statement ... Support for Indigenous constitutional recognition is clearly strongest if believed to be likely to deliver practical benefits as well as its ..."
     publishedDateTime: 2022-06-24T02:12:00Z

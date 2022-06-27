@@ -1,17 +1,18 @@
 ---
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
-excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-publishedDateTime: 2022-06-21T14:00:00Z
-originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million ..."
+publishedDateTime: 2022-06-21T10:10:00Z
+originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -20,6 +21,6 @@ images:
     height: 1203
     isCached: true
 
-secured: "5G10jJCIt4dS4FTncew39R9QcjMc5SBdh+6KHrfWlQRnx/pIXa+uKHJ5XJV26RMmhT267NweEjU73NMvXLpROJgkBnlGgvKr0eIJMLvQmgewvbkolliDoaKix4cdMY9cApQ4m110zRiVT13NUjmmvnQ2EFJ0FTU4NtetK3mu7qrl6sCfM82QUHFW3cbvvkNqu6WRJaXdWeqhEtere/8PEY9L2+KKan7aanfnjGBG0Y7vfeOpVofZUX5tqLDApKcp3pnWArxwvM1Dtcj36RylESpEhgGpBpQ74wnjdswG0Dh3oWEti/YWiH/aOesKrKGzO3BOcPiOvyK4Go//6Qc1lh+N/1/huAnhSlpK8EYjeEM=;fxWWDz6TWWq5c2J/dYuczw=="
+secured: "WC3ZU+HVdYA9LBui2JKO4ejjo9pT6mtaf7NYF8HWZVwoLmBtymfN1OORsluQHRHtHzwsDMQRgFi2Nx5avpTiXXbqkDtkFcsfwOxTClQLloCWo4ASGQQNe7wxIAAwg2qdxBzmJtJ2MjQ/tyW0sP3793r0/+o3k8cYOOeTm6EOzRJo6tvwJgH7Y51q5cxp3sHhFqT3e7KjVDZAeAJIXRmgpR+77Jr8JPodq7f0nF3dpHBRlL8eWYEU3rK8FgoEDnLRXSpjJJFmKoabdJ/e4iZ1loeoirWiRE9CIfKc8jCf9/7XsSZYnqoPKZxH4Qm02sAi4Teb5vCbqWCiMbB9jUptOoGkiCDWa7V5XUoD5f0CYqk=;y50i/vHICqc5wc7CqIqAqg=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1718
         isCached: true
-  - title: "AI robots are sexist, racist, and jumps to conclusions about people’s faces"
-    excerpt: "“We’re at risk of creating a generation of racist and sexist robots but people and organizations have decided it’s OK to create these products without addressing the issues.” Those building artificial intelligence models to recognise humans and ..."
-    publishedDateTime: 2022-06-22T09:54:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55028-ai-robots-are-sexist-racist-and-jumps-to-conclusions-about-people-s-faces"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 52
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/70dceacf78f2d8e0f11f6c3acd830a98_L.jpg"
-        width: 620
-        height: 443
-        isCached: true
   - title: "Flawed AI Makes Robots Racist, Sexist"
     excerpt: "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases."
     publishedDateTime: 2022-06-24T12:00:00Z

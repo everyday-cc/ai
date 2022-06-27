@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Augmented Intelligence Market Size Future Scope, Demands and Projected Industry Growths to 2027"
-    excerpt: "Market Study Report has added a new report on Augmented Intelligence market that provides a comprehensive review"
-    publishedDateTime: 2022-06-22T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/augmented-intelligence-market-size-future-scope-demands-and-projected-industry-growths-to-2027-2022-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
   - title: "Artificial Intelligence in BFSI Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027"
     excerpt: "Global Artificial Intelligence in BFSI Market (2022-2027) research report offers in-depth analysis on market size,"
     publishedDateTime: 2022-06-24T10:40:00Z

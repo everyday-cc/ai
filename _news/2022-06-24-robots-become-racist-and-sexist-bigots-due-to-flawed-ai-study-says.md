@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flaw
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7667c6ad-9eb3-4059-bf6d-ab9842d2fbc4/Rendition/low-res/Content/Public"
         width: 700
         height: 420
-        isCached: true
-  - title: "AI robots are sexist, racist, and jumps to conclusions about people’s faces"
-    excerpt: "“We’re at risk of creating a generation of racist and sexist robots but people and organizations have decided it’s OK to create these products without addressing the issues.” Those building artificial intelligence models to recognise humans and ..."
-    publishedDateTime: 2022-06-22T09:54:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55028-ai-robots-are-sexist-racist-and-jumps-to-conclusions-about-people-s-faces"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 52
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/70dceacf78f2d8e0f11f6c3acd830a98_L.jpg"
-        width: 620
-        height: 443
         isCached: true
   - title: "Flawed AI Makes Robots Racist, Sexist"
     excerpt: "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases."

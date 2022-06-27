@@ -20,22 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "What’s new in Microsoft Azure’s NLP AI services"
-    excerpt: "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code."
-    publishedDateTime: 2022-06-22T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html"
-    ampWebUrl: "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 138
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
     excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ..."
     publishedDateTime: 2022-06-22T15:20:00Z
@@ -100,6 +84,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Microsoft to Restrict Facial Recognition Capabilities for ‘Responsible AI’"
+    excerpt: "Microsoft is eliminating some functionalities from its AI service. Microsoft intends to limit some facial recognition features for both"
+    publishedDateTime: 2022-06-22T13:17:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 89
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Microsoft-to-Restrict-Facial-Recognition-Capabilities-for-Responsible-AI-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Microsoft doesn't want AI recognizing your emotions anymore - mostly"
     excerpt: "The Responsible AI Standard (opens in new tab) is Microsoft’s internal ruleset when it comes to building AI systems. The company wants AI to be a positive force in the world and"
     publishedDateTime: 2022-06-23T15:46:00Z
@@ -113,22 +113,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/kRuo7YkHKNPYGDwuLYL3C4-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft places limits on facial recognition"
-    excerpt: "Microsoft restricts access to facial recognition tools and scraps the sale of some services as part of attempts to reduce AI risks."
-    publishedDateTime: 2022-06-22T10:28:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-places-limits-on-facial-recognition"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-places-limits-on-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-places-limits-on-facial-recognition/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 78
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2019/09/MWL_facial_recognition_biometrics_650-e1624358480805.jpg"
-        width: 635
-        height: 390
         isCached: true
   - title: "Microsoft retires facial recognition software that recognizes emotion"
     excerpt: "Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools, including retiring facial analysis tools that purport to infer emotional states and identity gender,"
@@ -236,20 +220,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Why Microsoft is retiring its facial recognition AI that can detect emotions"
-    excerpt: "The company has confirmed that the facial recognition AI framework will no longer be available for new users. However, existing users can access these"
-    publishedDateTime: 2022-06-22T09:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/why-microsoft-is-retiring-its-facial-recognition-ai-that-can-detect-emotions/articleshow/92384459.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 68
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-92384459,width-1070,height-580,imgsize-94846,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Microsoft Scraps Some Artificial Intelligence Facial-Analysis Tools, Citing Risk of Bias"
     excerpt: "Microsoft Corp. will stop selling artificial intelligence-based facial-analysis software tools that infer a subject’s emotional state, gender, age, mood and other personal attri"
     publishedDateTime: 2022-06-22T15:05:00Z
@@ -319,29 +289,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft restricts access to several controversial AI services"
-    excerpt: "Microsoft announced it will phase out access to a number of its artificial intelligence-powered facial recognition tools. The changes apply to some of its"
-    publishedDateTime: 2022-06-22T09:30:00Z
-    webUrl: "https://www.techzine.eu/news/privacy-compliance/81458/microsoft-restricts-access-to-several-controversial-ai-services/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_1830378857.png"
-        width: 1500
-        height: 800
-        isCached: true
-  - title: "Microsoft Phases Out AI Facial Recognition Tool That Identifies Emotion"
-    excerpt: "Microsoft Corp. on Tuesday announced that it is planning to phase out its so-called artificial intelligence-based “emotion recognition” tool from its"
-    publishedDateTime: 2022-06-22T09:54:00Z
-    webUrl: "https://www.techworm.net/2022/06/microsoft-ai-facial-recognition-tool-emotion.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 53
   - title: "KPMG and Microsoft join hands to deliver advanced cloud-based tax technologies for c-suits"
     excerpt: "As part of their multi-billion-dollar global alliance, KPMG and Microsoft are making significant investments to deliver advanced cloud-based tax techn.."
     publishedDateTime: 2022-06-23T10:01:00Z
@@ -385,6 +332,29 @@ related:
       name: WDIO
       domain: wdio.com
     quality: 37
+  - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
+    excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
+    publishedDateTime: 2022-06-24T18:09:00Z
+    webUrl: "https://menafn.com/1104428195/Microsoft-To-Phase-Out-Public-Access-To-Controversial-Facial-Recognition-Tool-Breezyscroll"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+  - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
+    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
+    publishedDateTime: 2022-06-26T20:30:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-xbox-cloud-gaming-keyboard-mouse-support-and-latency-improvements-facial-recognition-platform-curbs-and-more"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 25
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
+        width: 1365
+        height: 768
+        isCached: true
 
 secured: "4UcBjp0MDSdzJJ0Hb4lH/PMVqdWaif8Zrwm+WQFo4rwZdGMhO2xTnAtWFnsyEyD9i58kvCziq/YlvOxmBiwmfAl3NsvmIC2+VTdaJLNqCmdUznnHL7/K+BQUUDzq61GCXp/QTtYSEU76vAXkVs3yDs0BYv0N7cv6qLSTZpUGb/pcUpzf2561zD9UBYW4LhfU67/5cD9xTRReA+xbOgQz8tFJB4TAxkMLRnrjkP8iqfTcZ3hAkIlO18DGSrKMeGZCQnAqCwNz5oR09/OyQA8Eut4nponk3kyLkebF6en3wmO/0Zvfl+1ta+Y1tyCTAa7x758XGCJFW7/c7NtGLTpAU/Hhf5J0PlSLuCXI+Md/ncv1tg3ehKwYSr7BQ+5tvaDk0M0UQYqCmcslGi7a73J/qzZQn1FI1MUGTYTLTdXBd7FtZ+zbDgY8PFOdddIYhPqk60Cs5NP22pbb6TbzXHW6WTanjofajwtKdGUnG716m8BqjPD2wnIeO/Gv9cq5w/aHp+gQBENKGoTpc1Xk4U6JUQ==;uzq5qjY0aHgKvV1ApsG4IA=="
 ---

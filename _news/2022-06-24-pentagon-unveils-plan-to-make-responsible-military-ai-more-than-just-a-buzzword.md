@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft to Restrict Facial Recognition Capabilities for ‘Responsible AI’"
-    excerpt: "Microsoft is eliminating some functionalities from its AI service. Microsoft intends to limit some facial recognition features for both"
-    publishedDateTime: 2022-06-22T13:17:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-to-restrict-facial-recognition-capabilities-for-responsible-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 89
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Microsoft-to-Restrict-Facial-Recognition-Capabilities-for-Responsible-AI-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Pentagon’s long-awaited ‘Responsible AI’ pathway highlights flexibility, ‘trust’"
     excerpt: "One key element is ensuring a transformation from \"viewing AI as an enigmatic and incomprehensible technology to understanding the capabilities and limitations of this widely adopted and accepted technology."
     publishedDateTime: 2022-06-23T17:45:00Z
@@ -69,15 +53,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
-    excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
-    publishedDateTime: 2022-06-24T18:09:00Z
-    webUrl: "https://menafn.com/1104428195/Microsoft-To-Phase-Out-Public-Access-To-Controversial-Facial-Recognition-Tool-Breezyscroll"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
 
 secured: "9cDxuqM4g6h/ITmSDBYl1EZhceOJ8TXcOTgpPt+rlQ0hmt6edVNr8NJsIOzSD6wHGBtrLwzW29zNutd1CM8wJJIAc/CKF3sdG620y5xZttRig6kBxxp/wlyPUlcKU23vE8tCFTjjb/BTa0coWy7PN8705M87CL2ibX1m02KoRJH6srCoR9MY9bxVo+siJWyx01TNFi0dYQotXpqrdx21Oswd26fDGBh5qThlBh4VUdUeVs+WOXkpd+O0HdytBGZz5NazgUYm7IQ2DuMbwHO85Xt7J60anwJuenY4+gdKbfFMQnY2Kl7TCe2K7uhBQYaRmZatd2ifr/+HgkHvoiLv6e7eZ7myDz0ojf1rEgsrzA53lU/CIl3Bh3vMQO0OrKaT3q9zY1/FBFFO0uDL+JChLFVYTye/uAZuCnFWjfZhdCIjnjFU1Op+16a54MEb03iwzz5UlDnJbHAxrC3v3iWlnXw9SSUctDrv6bJLL6k4fTztI49KnqkvggKDcbElvndX7kDHfg2uM+KYz3b/MUondg==;fxIRB1tUaP8UvXFeMUq8fw=="
 ---

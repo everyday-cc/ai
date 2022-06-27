@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/the-albanese-government-has-committe
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-albanese-government-has-committed-to-enshrining-a-first-nations-voice-in-the-constitution-what-do-australians-think-of-the-idea-184841"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
+    excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
+    publishedDateTime: 2022-06-27T01:47:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
+    images:
+      - url: "https://i.guim.co.uk/img/media/fac09191ef4c77c13693f0add4b05ef7dcb58ad6/0_0_6773_4515/master/6773.jpg?width=620&quality=85&auto=format&fit=max&s=4cd2c049f96940e5e15628c3488a4c29"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Anthony Albanese to go ahead with Voice referendum even if Coalition refuses to back Indigenous body"
     excerpt: "Anthony Albanese will put a referendum to enshrine a First Nations voice to parliament in the Constitution this term even if the Liberal and National parties do not formally support it. In an exclusive interview, the Prime Minister said he would adopt a ..."
     publishedDateTime: 2022-06-26T11:20:00Z
