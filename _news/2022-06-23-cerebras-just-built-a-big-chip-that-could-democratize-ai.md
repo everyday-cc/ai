@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/cerebras-ai-wafer-scale-engine-26575416
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/RRL_9923.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Cerebras trains 20 billion parameter AI model on a single system, sets new record"
+    excerpt: "US semiconductor startup Cerebras claims that it has trained the largest AI model on a single device. The company trained AI models with 20 billion parameters on its Wafer Scale Engine 2 (WSE-2) chip,"
+    publishedDateTime: 2022-06-27T10:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-trains-20-billion-parameter-ai-model-on-a-single-system-sets-new-record/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras.040bff2c.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "nII/vLhelU486zqADaPpUmMvZGbG8xWWb2JEpSjYkDNSCvaRaXDuQo0Z6oLvmqBq2YvELr9E6fgrhViEm0pT6NVAbcnG6B4SDM02BLdqi8dqZEulidI1s6quEAA3sQSaJFwbHGizIhkSjuK1nKIyxKA0JIuil3I2TNmMbbjFO8ZKFqKZoa4v70yO+Jupnj3r4GgU0a3cPh+YTQ1uVc2Sm1XIpO9q2wdu6uAQ/In4C+wTGSpyf20X4agu0tX6CVvZ+36bFI704X1iAaAvwqzPsvADtNZXbvrOneOtEqyPdqIkUF866ZUPOFjlVKSpdqP2bU8K/nnSJg0rZCNuVfmpSfwDR+5n7Q2m1N1bLdpkMuAAawkAWk/IOOdfEdnKQ69kc8aWIKqNTXVyONv6Qf2HHtTZmgn3xAFk3rxo0lrwNhIgkCPVKahEcdo7FJ81H2B5zdEwTVh/sYr5y5Nsbb93KUSPvPhutIC3heZ4F8D40RmpKJS5FlhkJQ8cYDtrvWvHZQW05cfFG7iy9h+E74RBuw==;kDiRBDYdCUamsjSJ012x1A=="

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers"
-excerpt: "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En"
-publishedDateTime: 2022-06-16T08:16:00Z
-originalUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
-webUrl: "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
+excerpt: "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit. H2O.ai, the AI Cloud leader, today showcased a unique set of capabilities and use cases that enable rich insights by seamlessly connecting data and machine learning."
+publishedDateTime: 2022-06-15T20:28:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-15-h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-15-h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers"
 type: article
 
 provider:
-  name: Bdaily Business Network
-  domain: bdaily.co.uk
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bdaily.co.uk/images/uploads/k3E3MFjWGlxZ9yvFZFs3XZSeS4xHjFox3H9c9IxC.jpeg?w=1200&h=627&fm=jpg&fit=crop-47-32&s=88fe7b821d6aca1f29e9a18f3d17c66c"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "SVG6TMBxSnQCJnZQIPG4BKwLCFD1wJq43u52uTHYFIp+EmHgEvSfFgX3Wak/iPqTNVPzugLeAwpZA9m3nwpcEIKbSVafv56+s6n/s64GBFgqlV4AOw9vfIWvxw8FbGAG1kPKl56EvaoCsWTVrSus5aO+pjmuPa0IkOHu9sjnzmTuexMwylkyR3YcsKZYOvWtR1QZQNwrNvK76UMfdIHRw3texJpx9S7eUo/A/jrqb2OOEGkLim+mml3BA8QDWY6osWRbNUO7H0V3JrjAzNPoq5X7NS/fqf6I5sHHHlVJvWZ7IX4Wb7sR5k5b2LH5d4PBl/gwxu8aH1AUIOsbY1Vcp04K0HKV3yPE3DQnaGNmCaRmU+qsrzmnESR5dyk7sKgNzQkkB4EwTM4tgC0aof0BTEPNedkAk2EpCdglj74Z9dqMpOp+4Eq0mKKCOV17hVnJp6UizOgkZGgYz7/1kYs81RUvTUTwcEnY3ONRbY/TdSh/0ip6cepTF6cVgh0RbpfXN4HjyX3CZmBZF3WTRcboYg==;kNXTC1Nu8ObFGFRydnB39g=="
+secured: "r1SXMyNXJmcCdYBwVRRPO4SrC9i27n15MCKQq+iuT1FW1PWfiBjVZ6UIEBHmUQgBBJvGPDxj5jLYgjUyTmksCbD0hrI07cgdUCBBTliQkifvvLakA7IfLHIzfWKbjV2s0PgYfpwG7fLb8bDtwg8TLmbs6BaxPgWLKiAQfRaM3tvoYyxTi+oVBh49kak73hsbvB9/sdkDKR6iq6MaTuf9ufitjdHQX4EIgAVZJ+u7Ouz88j26vKKi75FZD16C7Pc21yHEJwLO4dZFnSE6iXvIAu1neER9Jdu4ke5T1HDnYZ8W5Oh5kSE/eUvXbt4ZjT2YE4jJfrMTkjXw67InoN83MyGRDl8n6xQ23sB8V+veIbs=;jF1tfQQw6Y2WYlMMpKu5rA=="
 ---
 

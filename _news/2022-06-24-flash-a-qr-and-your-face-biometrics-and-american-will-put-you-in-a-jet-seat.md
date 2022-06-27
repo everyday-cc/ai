@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "American Airlines Testing Face-Scanning for Passengers at Dallas-Fort Worth Airport"
-    excerpt: "At DFW Airport, passengers will need PreCheck, the expedited-screening service sold by the Transportation Security Administration, and an American Airlines mobile app to use the facial-recognition technology. To be part of the service, American passengers ..."
-    publishedDateTime: 2022-06-23T20:40:00Z
-    webUrl: "https://www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/"
-    ampWebUrl: "https://www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/?amp"
-    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/?amp"
-    type: article
-    provider:
-      name: NBC Washington
-      domain: nbcwashington.com
-    quality: 53
-    images:
-      - url: "https://media.nbcwashington.com/2022/06/american-airlines-facial-recognition.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "0PmpEeziaTDSWgiC2zYTA6nE8GjDTYooVxK4z2S1sZnEwXccvA4HFYZ62bSMuKOR7daS9CGUTHzcB1z5uuCt3tnhPVNLzN20xmUQlO84rZ6mtSG4uFgDFQZ7/mMUZvmK9tzNByCk81ICjYv49X6fTPLWjm7ROwccwXLKu+Q39ZktrNwoIGiW171Acnvg07ggbqGfaHv87vdr50rIOI2RWkVHGUMRREo3tjPBlPOvhVv/xODMyuSPe20e88wLDUuwH58EFzBJ3tQk1dReIDJ5GIygb0JeyPQuNC+dA//z7osg6g6XYwH48xS7llDct7kqATesBiIcF3xu36F7egmNOmNGIRz6t7HfxBi8TKYsTIE=;wfQd/6owdQI10vKCYryrOw=="
 ---

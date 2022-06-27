@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chi
 webUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "A huge AI breakthrough has been achieved by the creator of the world’s largest chip"
-    excerpt: "An AI model that was trained on a single device has beaten the previous record set by Cerebras Systems, which makes the world’s biggest processor. Cerebras can now train AI models with up to 20 billion parameters using a single CS-2 system powered by the company’s wafer-sized processor (WSE-2)."
-    publishedDateTime: 2022-06-22T18:00:00Z
-    webUrl: "https://bestgamingpro.com/a-huge-ai-breakthrough-has-been-achieved-by-the-creator-of-the-worlds-largest-chip/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 48
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/The-maker-of-the-worlds-largest-chip-has-made-a-major-AI-breakthrough.png"
-        width: 600
-        height: 365
-        isCached: true
   - title: "Value of China’s core AI industry surpasses 400 bln yuan; smart chips, open-source frameworks technology achieve major breakthrough: minister"
     excerpt: "The scale of China’s core artificial intelligence (AI) industry has exceeded 400 billion yuan ($59.74 billion) and the number of related enterprises has exceeded 3,000, with major breakthroughs being made in key core technologies such as smart chips and ..."
     publishedDateTime: 2022-06-24T07:50:00Z

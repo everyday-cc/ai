@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/australian-retail-giants-target
 webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
 type: article
 quality: 84
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -30,46 +30,18 @@ images:
 
 related:
   - title: "Australian retail giants named in facial recognition tech complaint"
-    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
-    publishedDateTime: 2022-06-27T09:02:00Z
-    webUrl: "https://www.channelnewsasia.com/business/australian-retail-giants-named-facial-recognition-tech-complaint-2772591"
+    excerpt: "Shoppers walk past stores of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys located in a shopping center in Sydney, Australia, May 19,"
+    publishedDateTime: 2022-06-27T08:02:00Z
+    webUrl: "https://www.reuters.com/news/picture/australian-retail-giants-named-in-facial-idUSKBN2O8072"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Choice lodges OAIC complaint over ‘intrusive’ facial recognition technology"
-    excerpt: "Choice has lodged a complaint with Australia's privacy regulator alleging retailers are using \"intrusive\" facial recognition technology."
-    publishedDateTime: 2022-06-27T08:15:00Z
-    webUrl: "https://insideretail.com.au/business/choice-lodges-oaic-complaint-over-intrusive-facial-recognition-technology-202206"
-    type: article
-    provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 52
-    images:
-      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/06/bigstock-Security-Camera-Recognizing-At-436501025.jpg?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
-        isCached: true
-  - title: "Privacy, your face and the rise of facial recognition"
-    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
-    publishedDateTime: 2022-06-27T01:22:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
-        width: 2000
-        height: 1125
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220627&t=2&i=1602786598&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5Q04P"
+        width: 810
+        height: 544
         isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
@@ -86,22 +58,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/fac09191ef4c77c13693f0add4b05ef7dcb58ad6/0_0_6773_4515/master/6773.jpg?width=620&quality=85&auto=format&fit=max&s=4cd2c049f96940e5e15628c3488a4c29"
         width: 620
         height: 413
-        isCached: true
-  - title: "The Albanese government has committed to enshrining a First Nations Voice in the Constitution. What do Australians think of the idea?"
-    excerpt: "The Voice was proposed in the Uluru Statement ... Support for Indigenous constitutional recognition is clearly strongest if believed to be likely to deliver practical benefits as well as its ..."
-    publishedDateTime: 2022-06-24T02:12:00Z
-    webUrl: "https://theconversation.com/the-albanese-government-has-committed-to-enshrining-a-first-nations-voice-in-the-constitution-what-do-australians-think-of-the-idea-184841"
-    ampWebUrl: "https://theconversation.com/amp/the-albanese-government-has-committed-to-enshrining-a-first-nations-voice-in-the-constitution-what-do-australians-think-of-the-idea-184841"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-albanese-government-has-committed-to-enshrining-a-first-nations-voice-in-the-constitution-what-do-australians-think-of-the-idea-184841"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 13
-    images:
-      - url: "https://images.theconversation.com/files/469143/original/file-20220616-13070-wbhp31.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
         isCached: true
 
 secured: "uV2FaaQBWnQ7NfzTQxPstsDqJR7D99+rsajvv2qlEa7TR0pnJrp7ns8dW6oFgavsAu6nZoGKo4ibofQCepWTM2uZinWCEVpnLi8dwhTDVMrnH0t8Jmcz8BoSzngj2zVwiiGbTVEjoQx/bRyAcno1IBxsSnVb4kWBfTvrYp1rXeDjnJYBWWxfevxZBCud7dNLSY0ReqqZgeFY5SM8t0VqhQ4wBUfBDIU7wnGzWoffmXZWYEad+v2xVfXPIRItee5j79F+MCIlEVCT/pji5sVP5dwPUopMyIhXbHOCk4ySK91ita0BiQgARcAhdg0LAWjc+a3Hvsw/OyWfUC0wAmGQiMqKcRUM6LpnSxtvQg6tOj8xvfRoPeyj9umZoisH5tEcoOfjB+d+xJ2fpuHj1tGRToQ6JH4UQNDkYPWg9HXZlfoxBG+9jL9A4ABMiSG4d9Nnt59JZFs34X1C4hjkvJW1eCw5Vc5nV7BLcTqtCDJH7Nlj12vtR1NeVzxnXauEnKrw4WLTlkPyoLoVhBns1v4iDQ==;g0h6IFILfbJIssfFweR6VA=="

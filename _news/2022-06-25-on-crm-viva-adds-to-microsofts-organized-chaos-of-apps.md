@@ -136,15 +136,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft retires facial recognition tool"
-    excerpt: "They have not caught up with AI's unique risks or society's needs New Delhi: Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools,"
-    publishedDateTime: 2022-06-22T18:44:00Z
-    webUrl: "https://www.thehansindia.com/business/microsoft-retires-facial-recognition-tool-749950"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 38
 
 secured: "y0+IFzImsN1QccZdo4Xa8iMA8Yiz/7QKb0D5BHJ8tRq40HerhIQiQTVm+O3WMnN0dMmw9diXQuEWyj6/IB5EIfFZWYTUwv6xByXV7vmr8SnSABybMNfCEahjcggrfgRFX1X/1ozhQMSzM58NqQeWznzHIqDpkaqYHjpgmzXgQRUyET9jNYYrk+x3/nCPKZChbpeMGZaYP1PzQeQlWaCTtMNoHuCuYqF70ngoZnPfy+x43wuBiA3QhCwscIGuNXMNz5ps/KSByPRVjJVp+uICNCCnc2oRxFfvkeL5ogRyZQzsrfsnhxY927aqxbL8gCyJPwfpZ6sIAtOpjsa2reJlsVjJq1AN+JKF0oswg9nilP2fmRlVfDZbn5JAQGIDfb9NZJeX/NXOPsGI2hXaLG9dVa5nYaq+HE502o1riXiLK5SsM6fj59BHx/V6lMTAVbwoHPyb6fKifrLysrZ4UNRTSGLpM8xX7Ani++kd4J8ROI3f9RHWYVHXD4x49fmdEBlBLuQWYJJi//Gus3/L3jTC6Q==;1NzaMhLouxJRIjkugwoA8w=="
 ---

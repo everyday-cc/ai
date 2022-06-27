@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Cerebras trains 20 billion parameter AI model on a single system, sets new record"
+    excerpt: "US semiconductor startup Cerebras claims that it has trained the largest AI model on a single device. The company trained AI models with 20 billion parameters on its Wafer Scale Engine 2 (WSE-2) chip,"
+    publishedDateTime: 2022-06-27T10:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-trains-20-billion-parameter-ai-model-on-a-single-system-sets-new-record/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras.040bff2c.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "anU9aJbvtsLGPQevVz67uIGTyzAQYEBIigadsoly7dlOkUkoPIGmgOXaa4cwLxCKunt5z911xx5s/d/WwAIrZwPPgGn+4kOxT2cEHXAQg/gUfYnqtpVPEwdflurBIcYTU1SR5b4QfZLVxWaKmqHRUMcNF1AEKQtz6J3/h+JcPfIvAw/A+l5RbsUIRGRfaPFb6nVY5IJGA8Y1ZjseTg/mcNJxBp+fNt1xT6egL0ZHWwEf6qEsCgMEynGPpT/Bv7FhuhSfp37rjZhXjN2KlBMyY1T1IzQg1k70uG2zO2xuuYlANa42hh9ky9Pmtyzx5oYc9CruhiQtyByaCR50tlgo4WlaJd3j4u2XBah3e7y8KnE=;jAS3g3HNngDEE6SIz2BIvw=="
 ---

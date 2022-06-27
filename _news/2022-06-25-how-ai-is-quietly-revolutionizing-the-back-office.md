@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 1400
         height: 735
         isCached: true
-  - title: "Novel Startup Airzai is Utilizing Artificial intelligence (AI) to Disrupt the Fragrance Industry"
-    excerpt: "Airzai, a Canadian startup focused on developing tech-enabled fragrance products, is launching Airzai Aroma, a new product that they call"
-    publishedDateTime: 2022-06-22T17:39:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-23-novel-startup-airzai-is-utilizing-artificial-intelligence-ai-to-disrupt-the-fragrance-industry"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
 
 secured: "EW8pn/DORYY5tMiPidZa9jENdNu7FZSwlNyALUGgFqU9ttO9myx/GzK7YEg90bISVbDw9zNJyJS+JJPntEqDSCkqal+thK6JH9DQmUAglf6x3mkDm8oAwNXLC0QF+9MLPqE7sotR39LQw9lcLAgZGjQB2+gwNBMeoIQ8uEUOotGzxPb8wY6hemlI08jNKws2k1LktHM78gdlJ5eQZxhyLUZKhRKF++ra8jGat6WJmNxEczjVFhn7tSJ9HrNuWI7GMY0NpIpqVpDet1EPi6xWzgBMmQg7GiwnrQD+6g56GBMIpmiyMvMLLRTgVu0Wo//B9xr51BOEoAyKhzeZxDMnA27ADA2G+Lp8skuYOMWFQPTj93JA9naChQkKxVsI7/TLIAUZAFXk0UdilwidYFyQDIA5ItU7t3tSE9kA4rcI605HXFmdU+iC4e9DHYMOvWJXEic/yji8Kcw7nitmDuAeJbrtGN2os2CUUVHUzxoumBg1sC0dzcp9Jg5zdfjoS7yS1Lhe6hiAOE9Twdzgp0mK/Q==;DMzeVNkjOQe7KR3ZmZpPGQ=="
 ---

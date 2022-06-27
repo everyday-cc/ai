@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Australian retail giants named in facial recognition tech complaint"
-excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
-publishedDateTime: 2022-06-27T09:02:00Z
-originalUrl: "https://www.channelnewsasia.com/business/australian-retail-giants-named-facial-recognition-tech-complaint-2772591"
-webUrl: "https://www.channelnewsasia.com/business/australian-retail-giants-named-facial-recognition-tech-complaint-2772591"
+excerpt: "Shoppers walk past stores of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys located in a shopping center in Sydney, Australia, May 19,"
+publishedDateTime: 2022-06-27T08:02:00Z
+originalUrl: "https://www.reuters.com/news/picture/australian-retail-giants-named-in-facial-idUSKBN2O8072"
+webUrl: "https://www.reuters.com/news/picture/australian-retail-giants-named-in-facial-idUSKBN2O8072"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 104
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-    width: 1200
-    height: 676
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220627&t=2&i=1602786598&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5Q04P"
+    width: 810
+    height: 544
     isCached: true
 
 related:
@@ -39,34 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Choice lodges OAIC complaint over ‘intrusive’ facial recognition technology"
-    excerpt: "Choice has lodged a complaint with Australia's privacy regulator alleging retailers are using \"intrusive\" facial recognition technology."
-    publishedDateTime: 2022-06-27T08:15:00Z
-    webUrl: "https://insideretail.com.au/business/choice-lodges-oaic-complaint-over-intrusive-facial-recognition-technology-202206"
-    type: article
-    provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 52
-    images:
-      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/06/bigstock-Security-Camera-Recognizing-At-436501025.jpg?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
-        isCached: true
-  - title: "Privacy, your face and the rise of facial recognition"
-    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
-    publishedDateTime: 2022-06-27T01:22:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
     publishedDateTime: 2022-06-27T01:47:00Z
@@ -83,23 +59,7 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "The Albanese government has committed to enshrining a First Nations Voice in the Constitution. What do Australians think of the idea?"
-    excerpt: "The Voice was proposed in the Uluru Statement ... Support for Indigenous constitutional recognition is clearly strongest if believed to be likely to deliver practical benefits as well as its ..."
-    publishedDateTime: 2022-06-24T02:12:00Z
-    webUrl: "https://theconversation.com/the-albanese-government-has-committed-to-enshrining-a-first-nations-voice-in-the-constitution-what-do-australians-think-of-the-idea-184841"
-    ampWebUrl: "https://theconversation.com/amp/the-albanese-government-has-committed-to-enshrining-a-first-nations-voice-in-the-constitution-what-do-australians-think-of-the-idea-184841"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-albanese-government-has-committed-to-enshrining-a-first-nations-voice-in-the-constitution-what-do-australians-think-of-the-idea-184841"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 13
-    images:
-      - url: "https://images.theconversation.com/files/469143/original/file-20220616-13070-wbhp31.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
-secured: "Et9v5nyYOmI7qAlrYKV5kPxSstwhqizuLPhtF5T59kipYgfcwx7EDFlv1F0Y6ziE9zengRwP/DcrKKmQm5b+F6CALWvEm1SUs3FajnQSfoVf568R2v+9ewDcaNCxnaUwLV66U3kxfq3wT+9y9Y4OMYI5AOj/rD+5jFaxB1wcOXwP3UdjzAnd4ufL1l7hVbuSjeMkrAJksgQaaMvXDyENdQVLK7tcXcfKCTOUxe/QUoKcoxLuukzM+abyzzJFour0rD2wYAc4zQFIENPNFjFvQKWTecYztUc68qR30un9emFEezrhGrxLSd15FruuQ3pmtXxrvitEqy2PtQUFplr3g/76u4+4h8hwtMw8dIJdWXE=;UDG3COvxo3aV4nHl859/DQ=="
+secured: "+Zdcksaitjvv4TCjgRKPlY8/xdMnXQXpDJyuYnNeCOe6EDVV3X0aMR9/VbEPv4c22ay6ZyNNlBWj5TYdq0hw3h1TlNzkgALUe3yirNXtnSRVIPB6yZ13Zn6OMWuz2kB0xBNG7eoSLnzK9umhH5iQ2675aIHjCqsb+AZQ4lGYjpNbnbI1XQqvp5nOCOu9QjLkV1rHIE2yDKlBcRiScdgFNQ/5J1HdDDYYCkYS3E0tvC/jwfEkCfQP/DrbE23gnAfg7U1x7IdC/ziLkQVZvrcV0kwdM+LM7lKgeB2ic6sc4cyEuiKpMDh4hyxvwYxG2HtshD/Th3UkI74EP5pcdyLCfsgD9dtz/7puLDvQ2puhPj4=;T0qyKui7OxqpcHwpjmW9gg=="
 ---
 

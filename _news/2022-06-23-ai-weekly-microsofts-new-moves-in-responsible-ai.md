@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -136,15 +136,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft retires facial recognition tool"
-    excerpt: "They have not caught up with AI's unique risks or society's needs New Delhi: Amid the debate over the controversial facial recognition technology, Microsoft has announced to restrict public access to several of its AI-powered facial analysis tools,"
-    publishedDateTime: 2022-06-22T18:44:00Z
-    webUrl: "https://www.thehansindia.com/business/microsoft-retires-facial-recognition-tool-749950"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 38
 
 secured: "rFW79JJDcjoXLKBLiq4wlJ/aiPC4PwZgt25zOc3zl9oFdb+Kf7zNHOXyvffUx8rdkSaZoYKsEoVdFioIfCD+Jo7w8vFBKG+Ap3a0I1dBflOtsPPR1IFJ9OuUeFfUpSzWvYtjzSX2LKzixaWM25h1uWmas0mS5pE1NF9iLU29H3qv/LopL99eJnYQHgVnAhLIoI7KTMUlHcc3W9Y6Yyxghg2zH6mCIM9ro3NUqibGrya7BkS9cmzeD1HscX/QVZgh/cy9qLnIAEVpH+1aZzACMX1i6wnIQxgBtfzflvBrE6anh8V7S6zkSaBU48fi9XnW+UkUSNNCDewij8SeNOlwKvdlxVHo1AaCuyAsKPNZS/1AWFBZAOnXR+U9WYrp1UM0fl/bxzlRHSwNg8QY4Ey45R6dvoyvXpXeMiP1gaG/wsBDiPcHIgUX8/o6vigNO9FMN6gfcRy4zvoTxlPMptYh+I15s6Wwi0F4q8Tz/i6gB9f0u5fcae71bm3IsbZa3gwIVYkl4rbcULpAx9E61z6Xlw==;s6hplkAtJXwKeQe3wgo+VQ=="
 ---

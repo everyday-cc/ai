@@ -28,6 +28,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 31
+  - title: "How conversational AI can transform the Gulf’s hospitality sector"
+    excerpt: "As a result, consumer requests and responses often end up getting lost in translation. Conversational AI helps understand your customers, their asks, and preferences better in the language of their choice. According to HubSpot, 33 percent of customers said ..."
+    publishedDateTime: 2022-06-23T11:10:00Z
+    webUrl: "https://www.itp.net/emergent-tech/how-conversational-ai-can-transform-the-gulfs-hospitality-sector"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "ORq8i7uo5pdWid8scWiHHYIam+VLNYscOr5gma6diEH0szTZZ5fVuyC0I3CwF+oJn4cDzg8d97i4Tikdbv9AEa06mmkcJj0FKRLvt3CVh6TWDlVZEIFkgNUELs2UZ9jz8euXE0Z8ktSipXzf6KbNX6C0C1KwvWUgPaLpd+rmi6Wd8exY2czvv/Paqh8wuQp2O4+Ucn/vLoiX4qSx3WjwLTVaIMZR1Rujzl+97d7c3W3grmh6JvIBUL9RqgI4IG0YeGX8aQCqpP5Pv/tQFCi0YLmd1dN1aFQL3msHzUyYj/xDtT3w90AhmkBeK4kynof2FKiWGZPTToVV7dN70m4lFGiFdYrQM48t1fJqe0aKSKI=;8rd27HKx2G1Dpgt90Md+qw=="
 ---

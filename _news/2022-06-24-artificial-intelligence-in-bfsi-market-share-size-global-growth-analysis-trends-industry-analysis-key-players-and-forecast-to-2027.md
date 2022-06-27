@@ -36,6 +36,20 @@ related:
         width: 394
         height: 250
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Research Report 2022, Size, Share, Trends And Forecast To 2027"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, June 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intell"
+    publishedDateTime: 2022-06-27T10:14:00Z
+    webUrl: "https://menafn.com/1104437488/Artificial-Intelligence-In-Healthcare-Market-Research-Report-2022-Size-Share-Trends-And-Forecast-To-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/27/EP_00e02image_story.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "hVS9yw5sQ/fzlTrE8Pj06yv+Y5mGGRAMeqf/b9knwiZLI4T7THARxZjcBXfwtT5AnvHXdkTQ2z/vM7B1Uie5Ei46S02A3+F75Hzt6InBR6rWGF37pcFAStoX+NZZXaWCD/o30jEk9UfNH0aGF8aUJ/VQOLoCrsTFDPeElVBHvcpdeW2mJMMLGEhx9BwFzvD2aDhxu6kE/OrrBCAsJ/UAlc4cGSg/OXs26Jy6gVJYpFt7uE9O/oym0Eb+1cPxIW7kNWsDZ5J0l8nup4HuBqcRYG6j8RiF2d0Qs9MMPRYr1S7qG0jC+YkkosJApIe9eyJvkESnaf1R8oYkOUpuH+MAgHtX8Ec22cwIYbw4lvJDaDA=;hELqJfizMBWFeJG+FY1lnA=="
 ---

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
-excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,"
-publishedDateTime: 2022-06-22T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
-webUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
+excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology ... people speak a native or foreign language powered by real-time accent translation. Headquartered in Palo Alto ..."
+publishedDateTime: 2022-06-22T13:21:00Z
+originalUrl: "https://www.victoriaadvocate.com/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/article_79b4598d-585a-52c9-8c75-b922cc679058.html"
+webUrl: "https://www.victoriaadvocate.com/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/article_79b4598d-585a-52c9-8c75-b922cc679058.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "ODzE5ar3M0JunOsq62xlwaa6MGaPjL0oMwJPCLmjgQVv93d7h9ZDNsW7YnzhdQ3PuIcjLBXcHFpGX3YacdBZjiE5YubGPAHjj4bc+dD1dnoc83xI8VNfhwDLJGA5PP1nk97Z46CqfmaGKaxWZvlDtb/XTFn7y++BHW4xqAOzOSiGq8zDZOIQf5g0MUVjzuJhGv07shcrKyWYRYfBGXpj816vTasfBx3oqaMfUzN4ujZSC5o/Wq+z/v8W7XBS2p2+Hyk30OdkrIy8KvcK1TxgYBKbzAVkUoDh5ATG5IY3t3LKmgP2Ym6cZU2XIaLLNF75ngQzrM1eITIVYvnqdmtQAyjjLnUpxYTMktUTa+JT0ow=;l76NNxDnWDNO6dcpCIQRhQ=="
+secured: "ZnLZprq3bWMQOF/brXXZse4NV3Zo+/uNSCsIl6cLFL9HY6APjdyuh5yB2D2GesT//2vLq9SGucUf86UhrpDPSsb5ml3YKn97+MJR8E9FBgGA09g7sglhBQtp7KWtLA/u6xU3B3SgDRGcj9gv7fb3xfcdaNyZBDGLz7BnH5cQfMO+w2sDWUJx+qaoXeFdQy74vgNWYGu0p/r4LloeyBTH2Nao3h3h5uNFnCKUN1Ymzk8/GAym199YsRSPRaGIt1L5074m6eSA6TL+H3yIkeCb2lkNFH5bFVMZgr77UJBkQ8kNlFM1dBj6a74MxE2ZPuHuAnorBmhAS/cqv86dNZyRFXYGWVZDLvbY4ns6q/CqbfI=;qj+DZ0ut54o4pPPvNEW65g=="
 ---
 

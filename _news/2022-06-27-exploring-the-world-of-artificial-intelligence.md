@@ -84,15 +84,6 @@ related:
         width: 1240
         height: 770
         isCached: true
-  - title: "Novel Startup Airzai is Utilizing Artificial intelligence (AI) to Disrupt the Fragrance Industry"
-    excerpt: "Airzai, a Canadian startup focused on developing tech-enabled fragrance products, is launching Airzai Aroma, a new product that they call"
-    publishedDateTime: 2022-06-22T17:39:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-23-novel-startup-airzai-is-utilizing-artificial-intelligence-ai-to-disrupt-the-fragrance-industry"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
 
 secured: "oLZdHL0FCqqRCrDZoctgPaWEP78Od8zYOWk9T+dYe/SqqdJ8QXpHYCtRnQD5rEbf17E7GJGBUD5tzsFcODu60iAXYOS3mbsR8sqV5o/ZS7sR0j6Wuuaa8lFZfNF99j+g1FkBxQdUwRlgVmc06UhX8HcPbM1Pcv6vET9aP7OrvGokTgpON030O+JiLofTXC7amDvPmI+VTSBg3IJjOYaWQ1/9G3oqCjkDlFypTmt506q9V6aeUxX1pMeKKcsz0hLZRr8opOVSS9lGbh89QY2M73xyetdHHpAF49EiH8E45sLoxtUlJBVqCvhyrMlwNg189o/i3tPzV9z8GQ18o8SjBb+/89mkJ8e4UL02THVr38k=;hm8jCOT1HLIucV34GS3pvg=="
 ---

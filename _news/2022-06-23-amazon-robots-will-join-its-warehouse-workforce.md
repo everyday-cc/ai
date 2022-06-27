@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-robots-will-join-its-war
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Amazon details new internally developed warehouse robots"
-    excerpt: "The systems are headlined by Proteus and Cardinal, a pair of new warehouse robots. Both are designed to help with the task of processing e-commerce packages. Proteus is a compact, two-wheeled robot that can pick up a cart containing multiple packages and move the cart from one section of a warehouse to another."
-    publishedDateTime: 2022-06-22T17:25:00Z
-    webUrl: "https://siliconangle.com/2022/06/22/amazon-details-new-internally-developed-warehouse-robots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/amazon-1.png"
-        width: 850
-        height: 478
-        isCached: true
 
 secured: "s3bwyi2eNDJrg5mQm4YgSN/pHDvUezIrdfWBJDaurJHNdEig7f7UY12wHpaqT/lIzQs95EAmYygJHdrVj+tc5exe1BY4AKxCqqFi7PuGV269vP3WG9oV9JEPExpoLDWU0Xy17BmTu4OvUY138jI6nBQjP7SIDyJq0bC5JMpAcLvMjtOyAKW0RfJHUHuysdRrWxaTONzi/8/l5Ano2X/RdlzYT/jRW2GrFPXIYGXFdNtq88y9PW+mkLEXp/yWlu+zcIuJXHm2Sx3reBNrpv/n5QnoASsWXUEscyAkHgzCXeEzp5S8RRk1pSiLPDRv6OZmWf4V6XNn+qfWprsu8RGaLghHPYAnXxcyh/hmfjRqRUhAbP3SSjrWvJkYpzSlsjgbVNQBgJvfEx6bMFQ3gQEF3kIs/QOU5QDUgylnVo1Aw9SAc0QV/HvEJeHYIjB12Vzcwa3RVEzwBY0dUmhw61VvDObBHU5EXR1Ig4PKpv7Z7yk2DXjzEdFVygJ8EiE1uL5J0/pbB+TXCjPFjnXucX9YZQ==;P29ngFVGn+p7wLUmV3n/Sw=="
 ---

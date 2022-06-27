@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "American Airlines Testing Face-Scanning for Passengers at Dallas-Fort Worth Airport"
-    excerpt: "At DFW Airport, passengers will need PreCheck, the expedited-screening service sold by the Transportation Security Administration, and an American Airlines mobile app to use the facial-recognition technology. To be part of the service, American passengers ..."
-    publishedDateTime: 2022-06-23T20:40:00Z
-    webUrl: "https://www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/"
-    ampWebUrl: "https://www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/?amp"
-    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/?amp"
-    type: article
-    provider:
-      name: NBC Washington
-      domain: nbcwashington.com
-    quality: 53
-    images:
-      - url: "https://media.nbcwashington.com/2022/06/american-airlines-facial-recognition.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Flash a QR and your face biometrics and American will put you in a jet seat"
     excerpt: "To get their American Airlines mobile ID, customers will need a TSA PreCheck account, enabling them to bypass long lines at airport security."
     publishedDateTime: 2022-06-23T21:52:00Z

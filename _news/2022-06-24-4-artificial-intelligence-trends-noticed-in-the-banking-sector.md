@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/4-artificial-intelligence-tr
 webUrl: "https://ibsintelligence.com/ibsi-news/4-artificial-intelligence-trends-noticed-in-the-banking-sector/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,29 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI becoming ubiquitous in more sectors"
-    excerpt: "The adoption of artificial intelligence technologies in China is poised to accelerate as AI continues to mature, becoming more accessible and easier to implement, according to a report released by United States-based tech heavyweight IBM Corp and market research company Morning Consult."
-    publishedDateTime: 2022-06-23T05:20:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202206/23/WS62b3c7c5a310fd2b29e680cb.html"
+  - title: "Creating the world’s first AI assisted voice bank in Spain"
+    excerpt: "Established in 2012, Spanish player EVO Banco is a pioneering financial force disrupting the industry with a wholly digital banking model. But don’t mistake ‘digital’ as ‘faceless’ – EVO Banco takes a highly personal approach when dealing with ..."
+    publishedDateTime: 2022-06-27T11:01:00Z
+    webUrl: "https://www.worldfinance.com/banking/creating-the-worlds-first-ai-assisted-voice-bank-in-spain"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 37
+      name: World Finance
+      domain: worldfinance.com
+    quality: 54
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202206/23/62b3c7c5a310fd2bec9132da.jpeg"
-        width: 720
-        height: 480
+      - url: "https://www.worldfinance.com/wp-content/uploads/2022/06/E051_rt-600x450.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "How conversational AI can transform the Gulf’s hospitality sector"
-    excerpt: "As a result, consumer requests and responses often end up getting lost in translation. Conversational AI helps understand your customers, their asks, and preferences better in the language of their choice. According to HubSpot, 33 percent of customers said ..."
-    publishedDateTime: 2022-06-23T11:10:00Z
-    webUrl: "https://www.itp.net/emergent-tech/how-conversational-ai-can-transform-the-gulfs-hospitality-sector"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
 
 secured: "LxiEbE77Bwssr7YBtqMP+J3k8uMXxH97K+ghL/f9yK9baN1/SsuvZLozjN+meCJJ0uY/zPFz+lh7zX8YRf1EcGv06YMfnFjsrtWjQlkVQLTTurfy+IP7mf/5f0CG3MyxC+NPP7v7qlZWGSChIXdJuH8lGaKQvCrlp7WKrLf3m0XhTd900SKvDHngIi+P47/y1Pmc/pyQgoaJG4lcsJoRDF/ObC5zqHTtzNjlKaXeR9Fcsi57lEUuL5ZBY99pxhGJhsaEKa7ubuQ5LBVlxRLVQg+tVdTZLl6tQ8FnNyRLCmMHy9CUyn2MmyppQ+LBK5CTsfxyGFhFtF+u1xmPSuILeQoFGxvE8LR8ZkT2u9ozoOSy+EM+5s2RteKZMJXnY+Sy9OiNqflclmfsCqjOV6e2e/JhGtoIJQWvHcqBv0tN1mlEfEudr5/i7UDgLqQ4x14ALhTaxOA65hE2gQ7EgeNNdor5P+ysvdbpwd11VSeNZiJfoY7Dchl9C0nVm68Q+BYbu1vGHcvYbUcTv/7tUK4jEQ==;yqZbcNqEaGBNs3pXJrvS0w=="
 ---

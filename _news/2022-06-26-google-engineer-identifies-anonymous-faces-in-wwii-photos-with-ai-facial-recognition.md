@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Engineer creates AI tool to identify Holocaust victims in WWII photos"
+    excerpt: "From Number to Names (N2N) can scan through photos from prewar Europe and the Holocaust and link them to people living today (Picture: EPA) A Google engineer has created software that uses AI to help Holocaust descendants identify images of their loved ones."
+    publishedDateTime: 2022-06-27T11:35:00Z
+    webUrl: "https://metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/"
+    ampWebUrl: "https://metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 57
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/PRI179167543-67d6.jpg?quality=90&strip=all&zoom=1&resize=600%2C378"
+        width: 600
+        height: 378
+        isCached: true
   - title: "This AI Face Recognition Can Identify Faces In WWII Photos"
     excerpt: "Daniel Patt has developed an AI using face recognition technology that scans through a large amount of WWII photos"
     publishedDateTime: 2022-06-27T08:26:00Z

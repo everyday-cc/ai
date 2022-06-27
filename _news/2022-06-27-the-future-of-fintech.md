@@ -110,6 +110,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Top 29 Fintech Events To Attend in DACH in H2 2022"
+    excerpt: "financial services and fintech professionals to discuss how integrated solutions are shaping the future of digital banking. Leading professionals from global brands will be in attendance to share their experiences and discuss trending topics such as AI, ML ..."
+    publishedDateTime: 2022-06-27T10:08:00Z
+    webUrl: "https://fintechnews.ch/fintechgermany/top-29-fintech-events-to-attend-in-dach-in-h2-2022/53474/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/06/Top-29-Fintech-Events-To-Attend-in-DACH-in-H2-2022.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "5 Fintech companies looking to hire in Europe right now"
     excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
     publishedDateTime: 2022-06-24T12:38:00Z
@@ -120,6 +134,6 @@ related:
       domain: euronews.com
     quality: 4
 
-secured: "YvVWN0jLSZ1Fo9pn4lY3CnWTmQ6At1/PWJZyZIJLLV1T8WdqeRMdyw+Sdv7eaVUJf+6DJ2FSig4lYQ3N/eAtIEpm7Mzr8b7fSnILwITaxCxRff/Niax1xSqYGmejHJivsmDeeuKsc3MUnRnflO4EXWpMkd1u3cUuGM7uVzdUq6tXhcGNU938CNhmZMokQPhTJF4TEipNsjIfwakyjkZsAUyyN0W67UwupMOEFDUiOBbDy/jwup5FyuijChu7QbjrmG7ji9Jwq697PPZcOsl3eiq4WeSQhUMsyKSXjmA5O6+KgWqPw7mbJwJFeB1vo+jZqQbRPAKT8dU5cIZa0lNCI9V5JRkz2I2ED3LhBZ67h30=;FjPRh07CQWOB1lid+vP0Tw=="
+secured: "WesRY4rOO1Q6uiRb4yX7nvA+1dq7HBDISafrDT3KU0jrd7AQXi+onCv9m4AHMN0gPEoipLOQcWuzm/Hv/qpAqTSLsTgKM+Nn/Kp9PlDM/+CYME/kyUJyXdswJh6r+wBmlLYYVJRjZn3eIIYeEB5LJLQtvHfGYz221rqzI82+YIZCMdz2PIm89WZAEi5AMRUPm40YYylO9eFfiA3cBJo6qz7aGAvYOh/FG57VtIaaa8sScz2oX1Q96N8dyQhR/e/lYtcbjazrZNmn8vgCCLQejGkZnJ5jBGcpqvS6oeOwrRlR+VfG6IR7r8t5eTVv1CaeV98SVpgNN8Nhkv5TYu+xsiY0uQsrF2RUrXHNEwEXrPvaNcwranARdzqxKlxQ4CpgH7QxHfek6ZZYLPvJjGMsUd9VdzHpKofrogg8/wzuXDs6oNHv964BE4FgutLYrD6ym2az9xPRc0nmxfltAT4jX0/fYMH2D8vNNtdhl+yL5rp6w8nm3KqTM39sa26ECb8tieDCp4BLJUrLX3wvPoKfpQ==;G95b/VEWoYzLn3AUjIGVCw=="
 ---
 

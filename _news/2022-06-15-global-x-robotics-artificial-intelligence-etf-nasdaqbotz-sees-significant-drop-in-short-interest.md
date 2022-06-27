@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest"
-excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a large drop in short interest in the month of May. As of May 31st, there was short interest totalling 603,200 shares, a drop of 27."
+excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating BOTZ opened at $20.90 on Wednesday. The company has a 50 day moving average of $23.96 and a 200 day moving average of ..."
 publishedDateTime: 2022-06-15T05:28:00Z
-originalUrl: "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html"
-webUrl: "https://www.defenseworld.net/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.html"
+originalUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/"
+webUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/"
+ampWebUrl: "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/"
+cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/"
 type: article
 
 provider:
-  name: Defense World
-  domain: defenseworld.net
+  name: ETF Daily News
+  domain: etfdailynews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "S2v/AcrVxRdPvz73cQL9zgNVGs6bCQUHScVkPx0XbnBw6KnOS0JkmDo7VSor8AgG7eHX2PjVCq+JtjcTFk29OC3RR0oZJhZ/RzfzJSIc/mCrZIOP9tUEtFniWX1U7eInItEJEWulfw5fUBHM8uM6YVoPowuu/tkyBQmuXzPgSGMzKAV7GROPaGmZ2uu4F+6lLHC9pPhAhJtRNkCJ6B8rMwbMgH4WnXbSkRiS9fGGqngYp/VQWJsvQ3AIGLnt6JmSt2MnnpIKC7W7TdKzHnPuKCdRfZF3CevGcyltZOrbd6gDkeTStb4R/JKLb20O3smbr54nYaXKhYzXUuvtvy/Vt3B2OGhuGfba03/a/Y2BYfI=;Ep5b83pnhK+ZECKK4Ntkrw=="
+secured: "r5sWYNvvSrlZe8jOLSdGo/ekwoHCyEKKjrVBonLMFc8Nc+51Qly6ycbE7XPsuJPPRYe89Ks8mjwK1yapEWldiwpoHo++FhI7PiM6bwWNS2lGye+Ia8AafvR7LOfEDacQlHLmeKQ8pfqVBTl3h56ucXy2CceiW9BCcgBKvGSRFcX3eEssx2D8k8WnKituq65mb9uywKZCo+0UrcaP1DkFasfppRGFcTDWdoILOt9VmDVemdycQu4uxGmUtoCWZWbtfELpCHiAlONUppEImeZWzcv0ERRrnX9I7QeMSmGuY/wMhT2J6M03YFWStINvxd/qKjbbyuyWGP5/eLKcygOoYMxl+kAEpp6drAvbcOxEFs4=;HWzswY22J7U7xeQpATGbtA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://fossbytes.com/ai-face-recognition-to-identify-faces-in-wwi
 webUrl: "https://fossbytes.com/ai-face-recognition-to-identify-faces-in-wwii-photos/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Engineer creates AI tool to identify Holocaust victims in WWII photos"
+    excerpt: "From Number to Names (N2N) can scan through photos from prewar Europe and the Holocaust and link them to people living today (Picture: EPA) A Google engineer has created software that uses AI to help Holocaust descendants identify images of their loved ones."
+    publishedDateTime: 2022-06-27T11:35:00Z
+    webUrl: "https://metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/"
+    ampWebUrl: "https://metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 57
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/PRI179167543-67d6.jpg?quality=90&strip=all&zoom=1&resize=600%2C378"
+        width: 600
+        height: 378
+        isCached: true
   - title: "Google engineer identifies anonymous faces in WWII photos with AI facial recognition"
     excerpt: "And so he set to work creating and developing From Numbers to Names (N2N), an artificial intelligence-driven facial recognition platform that can scan through photos from prewar Europe and the Holocaust, linking them to people living today. Patt has a ..."
     publishedDateTime: 2022-06-26T12:40:00Z
@@ -35,6 +51,6 @@ related:
       domain: timesofisrael.com
     quality: 27
 
-secured: "WHw4xgmWMlWEqSytotw1XdIHhwhTTfFn8k55J2D3JyCRaswkGOj2OlNCeO8hZxfLZgbIDIQQDNySQ+Y6iRJFDJ4wE8W6kLmrhhcUtEcb7dUH0pDDmp3VeKxa5zRSz5zCHgQkiNtt3MShc7NF6cuBddNnvvz1CvW+EhaFxVkKx9lhe7eRaFTWIvhdqqlMBxaqqI7fHhFkW5Adltsg/Xx2/ROXV2uG+wQC4uTT03IdTk2zzcDiIbeVIiTA9GNzthMdiFLvAYnMj/GEKjMRu+cfdgMAySGRu6WJBzx8G9hjKrQWIt1jC2UEMFQH8dJvXRm75XM0YEjpedxjcjEzjjiC/UERlPKXhR40NnHMw+goMq0=;H8GTB7iT4opzHQ4PX57rhg=="
+secured: "TYY0Ra9MsB7OcLWkcPhxqeYSP6m8+DAPG57vw5Xxg5q/Sq304OvfR1xypb+s3I4Jiq61nw8G88yqqFWO6JqtOruw4C42aWGDigYFbFq3dJrd09AGMvtskQFkBeink7YretsDV3Uy5NgHYFkfxYWorr13aBKZBock38yRlCz6sedAiK8Uct2ulet0wkUYH10PqTfikm0XiBYmqBrIcQr4/k/xjxfZGultYcYnd+q9v6s6uoosuDiYQjIKDaHGg45lFeDhnQQ0Qj1W+2ZKvq0pqxveHIMndWNuAEJ6QBOLX4ROidNYH0j2Dp6ORQcYuiFK9EQ9HK14dFZLpEF5WBVTStz0I+leWZ3L8PgwFkIXWz11wGEx78/d5cDVYo2SenMG6wP0wz4XurRzqaTtUEG3PrrWYxiFN97TyNgkDaTxWx5xqH0JLe9kpSkdA8ELDIt95NUakDVafduxUk2k3CrnMByWgFmrCXja9RN3BwZTNhZGjDn8aF9NJ+X+TBY75ltrxXmO05jK32quJg7quuQnlg==;gLPghj4WP8UsGfTrKgTyTg=="
 ---
 
