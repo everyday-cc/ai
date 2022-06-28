@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "6nhWqNlnkQtSzrWTaBV4C/pd6+FRmrRDuCO9NfsUHteVEw+c7Kwqeupj1CZvPLkjIBRlRhhXqByTYARkbwEZlmNmpTj0cHpwZmCjadKepbreLRD+GQFhlSi1DgnwVcjSbeRtuBK2+J6SGLllaX+Mv6hQOyaxenmWXShr/9uvB552fTzHiQA5CVOn6c00My5x97yrt2SJUf/Fo67gksJekB/QjwoUJnUXyUk700lNRSM6MJCMjyJK9YIf6mx0keXKKBNABzbBLBZ/3d0eeNyXo3Cb7nuSPgTUJv0hZqgAAxeRkJTMS4ktpQY7WfF4SPm4Fvr5HJnK+H1nyzA4Dqpw5QvvbS7XFMfz5qOI82ZII4A1F48TpmSmogtg5u+pgCvxH77Rp1RjYNbQHhoPbhbQIJ29+0E02kKTnCfC3DbujVs=;K4FByGDQ5oJCj0pU646Eew=="
+secured: "vyEo5FdDY7XJDl8EBscEmVbWOH5kTZwNgGAnqkrTJXZF6Ppmw8koTiMMLzsIsX3CCXHahKLwmRYHHh5Ptsi7aBvyseHTyJ5PVvUyF4zQjrim8c1czs5cVYiA5n8BMeKhz0dmpQhvrKwDTXc8V978ER7xjnjhGfDAyJkWv/Ys8lVmD51TDtgHnpIMtr17oj5jhezWbtI2CeZGiPfo+7cysF654qCb1itKEZoAFPl365cyF7RxTX0aiO0lGwfrYO/ehEEPybKCaUkDQHmdnqnnBHf84VgHVlFJMm0k6cvna/vajaAwe1jphNvXI6F7m8eTjvp4D22qZhRS4inDDNqITSgIEtszd47U11rlGpPqy4NyK0bIo5uSlN0Mp22o5DXVZlkdm80BqHhEkRIJBBXDvcJxa00Jlo71eDM/ao1aWUI=;EkhtWZMdea/C6HG2FRfIlw=="
 ---
 
