@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T19:28:49Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: AWS

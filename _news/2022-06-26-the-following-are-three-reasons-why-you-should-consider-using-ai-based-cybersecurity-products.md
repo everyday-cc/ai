@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Improving digital employee experiences must start with cybersecurity"
+    excerpt: "Ivanti's State of the Digital Employee Experience (DEX) study published this week provides insights into how enterprises move beyond trading off usability for cybersecurity and what's most important to new,"
+    publishedDateTime: 2022-06-28T21:40:00Z
+    webUrl: "https://venturebeat.com/2022/06/28/improving-digital-employee-experiences-needs-to-start-with-cybersecurity/"
+    ampWebUrl: "https://venturebeat.com/2022/06/28/improving-digital-employee-experiences-needs-to-start-with-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/improving-digital-employee-experiences-needs-to-start-with-cybersecurity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/03/2016-03-01T200913Z_1_LYNXNPEC202XZ_RTROPTP_3_POLAND.jpg?w=1200&strip=all"
+        width: 728
+        height: 485
+        isCached: true
   - title: "3 reasons to consider adopting AI cybersecurity tools"
     excerpt: "AI is instrumental in responding to cyberattacks when paired with cybersecurity best practices — and it helps with security decision-making."
     publishedDateTime: 2022-06-25T23:20:00Z
@@ -33,22 +49,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Bharat Bytes: 5G subscriptions; Retailers leverage technology; AI/ML for business resilience; Pharma firms invest in cybersecurity; India spends on AI"
-    excerpt: "India to have 500 million 5G subscriptions by 2027 end. The latest Ericsson Mobility Report—the 22 nd edition of Ericsson’s network traffic insights and forecasts—says in In"
-    publishedDateTime: 2022-06-26T21:30:00Z
-    webUrl: "https://www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.html"
-    ampWebUrl: "https://www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/11/bharat-bytes-100912564-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cybersecurity pioneers share their views on how organisations can protect against future large-scale ransomware attacks"
     excerpt: "Ahead of the five-year anniversary of NotPetya (June 27th), cybersecurity leaders from Gigamon, DigitalXRAID and CYFOR Secure have weighed in on what has changed, and how organisations can"
     publishedDateTime: 2022-06-28T12:26:00Z

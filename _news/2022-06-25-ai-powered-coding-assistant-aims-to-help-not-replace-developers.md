@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-24T22:35:00Z
 originalUrl: "https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
 webUrl: "https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wall Street Journal

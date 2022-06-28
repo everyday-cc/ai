@@ -49,6 +49,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Databricks open sources its Delta Lake data lake"
+    excerpt: "Databricks is open sourcing Delta Lake to counter criticism from rivals and take on Apache Iceberg as well as data warehouse products from Snowflake, Starburst, Dremio, Google Cloud, AWS, Oracle and HPE."
+    publishedDateTime: 2022-06-28T18:55:00Z
+    webUrl: "https://www.infoworld.com/article/3665117/databricks-open-sources-its-delta-lake-data-lake.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 36
   - title: "Databricks Announces Major Contributions to Flagship Open Source Projects at Data + AI Summit"
     excerpt: "Databricks, the data and AI company and pioneer of the data lakehouse paradigm, today announced several contributions to popular data and AI"
     publishedDateTime: 2022-06-28T15:30:00Z

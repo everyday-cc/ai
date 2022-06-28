@@ -50,6 +50,24 @@ related:
       name: Georgia Tech News Center
       domain: gatech.edu
     quality: 34
+  - title: "Does AI make robots racist? - study"
+    excerpt: "A new study found that a robot operating with a widely used, internet-based artificial intelligence system consistently prefers men over women, white people over people of color, and jumps to ..."
+    publishedDateTime: 2022-06-25T11:38:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-710355"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 34
+  - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
+    excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
+    publishedDateTime: 2022-06-28T19:31:00Z
+    webUrl: "https://www.express.co.uk/news/science/1632504/artificial-intelligence-racist-sexist-robots-flawed-ai-scientists-horror-warning"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 11
 
 secured: "VQssIWcdNRCp5qzW/zCtV7wFB1dk0AR37lWwcaA6XlgRzVriJH00d225QSKqsNZNTh5Bk+GeHWq2QdE50FCaAyOxZgAYZPif/W7X0xCZm4bU6TGAThv76aTZNvz4bgFiXSOd7A1uRoOEY5SMBuslCqdDBkXhQD4lZe6sjCwzpX8xQ0LXb2A7quorpEcXcs1T1KzkjksIazSjsr+qi8OwzQM98TymGJK3UQyi+pVPWYYg5QC673eRfRZvxDO6h+5qxzT3OnzS+V6HuOqScud5fZU0yKH0toEiRZbGQMaZ5St2IS43Pb2hgZm3uXPpbKtvYgDaUX6dFkInf7HTKOdkb0lbAMqVPhrAh2ZkV9WeoLLQ7dM5YPY29LzNgHgfyeuh+Zbnev3LJIKPlXal/63M6djvHrF6O87DNFt3h1GnmHK+vO0fmefUgAOIXQvaxhqECt4f+bByUomxymtnPfD4BgfeDLWzLlqFVQFa137s75qriAhUsBsPpjFpolIoMZzdTD+ip+VzSiYmtuszEn7U3Q==;sAEQ6tB2vbHlTDbtn2ZN+A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         width: 3000
         height: 2035
         isCached: true
+  - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
+    excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
+    publishedDateTime: 2022-06-27T17:20:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+    ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+    cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 63
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/922c5da/2147483647/strip/true/crop/524x295+0+6/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fidaho%2Ffiles%2F201804%2Fidaho_shakespeare_festival_amphitheater.jpg"
+        width: 430
+        height: 242
+        isCached: true
   - title: "Edge AI: The Future of Artificial Intelligence And Edge Computing"
     excerpt: "Forward-thinking companies and cloud providers see new opportunities in the integration of edge computing and AI. By Helen Wilson"
     publishedDateTime: 2022-06-28T08:14:00Z
@@ -59,20 +75,6 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202022-06-17T131611.005.png"
         width: 902
         height: 632
-        isCached: true
-  - title: "Artificial Intelligence in the 4th Industrial Revolution"
-    excerpt: "Artificial intelligence is providing disruptive changes in the 4th industrial revolution (Industry 4.0) by increasing interconnectivity and smart automation."
-    publishedDateTime: 2022-06-24T02:35:00Z
-    webUrl: "https://www.bbntimes.com/technology/artificial-intelligence-in-the-4th-industrial-revolution"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_in_the_4th_Industrial_Revolution.jpg"
-        width: 1000
-        height: 606
         isCached: true
   - title: "Justice backed by AI"
     excerpt: "An artificial intelligence (AI) system to be used as a sentencing guideline in courts within Peninsular Malaysia is in the works, while it’s now applied in Sabah and Sarawak. Before it proceeds, a lot of deliberation and consultation is needed."
@@ -102,15 +104,6 @@ related:
         width: 1400
         height: 735
         isCached: true
-  - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
-    excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
-    publishedDateTime: 2022-06-27T17:20:00Z
-    webUrl: "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-    type: article
-    provider:
-      name: Valley Public Radio
-      domain: kvpr.org
-    quality: 23
 
 secured: "EW8pn/DORYY5tMiPidZa9jENdNu7FZSwlNyALUGgFqU9ttO9myx/GzK7YEg90bISVbDw9zNJyJS+JJPntEqDSCkqal+thK6JH9DQmUAglf6x3mkDm8oAwNXLC0QF+9MLPqE7sotR39LQw9lcLAgZGjQB2+gwNBMeoIQ8uEUOotGzxPb8wY6hemlI08jNKws2k1LktHM78gdlJ5eQZxhyLUZKhRKF++ra8jGat6WJmNxEczjVFhn7tSJ9HrNuWI7GMY0NpIpqVpDet1EPi6xWzgBMmQg7GiwnrQD+6g56GBMIpmiyMvMLLRTgVu0Wo//B9xr51BOEoAyKhzeZxDMnA27ADA2G+Lp8skuYOMWFQPTj93JA9naChQkKxVsI7/TLIAUZAFXk0UdilwidYFyQDIA5ItU7t3tSE9kA4rcI605HXFmdU+iC4e9DHYMOvWJXEic/yji8Kcw7nitmDuAeJbrtGN2os2CUUVHUzxoumBg1sC0dzcp9Jg5zdfjoS7yS1Lhe6hiAOE9Twdzgp0mK/Q==;DMzeVNkjOQe7KR3ZmZpPGQ=="
 ---

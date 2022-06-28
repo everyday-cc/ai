@@ -23,6 +23,17 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Ambient.ai Integrates with Brivo to Address Workplace Violence by Automating Threat Detection in Access Control"
+    excerpt: "Open platform integration with Brivo Access enables automated threat validation, using computer vision intelligence to reduce PACs alarm volume by over 80% so security teams can focus on incident response."
+    publishedDateTime: 2022-06-28T19:50:00Z
+    webUrl: "https://www.officer.com/command-hq/technology/security-surveillance/access-control/press-release/21272599/ambientai-ambientai-integrates-with-brivo-to-address-workplace-violence-by-automating-threat-detection-in-access-control"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 0
+
 secured: "2ZdLHSbai4JYLXLABUlARzpglg1mJb9KVMvqZDfw45AXqzTtvs0V59E3gXT5h3ec36CUC2oxBSOu/TWjc/hAwCiMcLULASTPGdHIbui0AgZH1adnbYoKXlXxdygjrBHpLQ6rGroqitEZr9arPmQMJ5nG8eTGRZwHSLPQUtYTkvBs2x2bmuwUEXZbo9RmWzoYk/UsHW8xRAZa7JsvYt31TbbLZu58qor40bmH92SbVpXm7CLYEKoF9nfTd0JeTMGSuqJC9z6cbLHxts1F1cW0lfvy01AhcFv1LnJUsazeh5aT2gq5lzykfOd5yVWkdqVu0r4Hd+5PJ0frvs0lbvApTgyEZ9CMuRYwrwalskJZxRE=;dz8IIH5Pi0SUGWqbxcBKVA=="
 ---
 

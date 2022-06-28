@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flaw
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1"
 type: article
 quality: 104
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -54,6 +54,24 @@ related:
       name: Georgia Tech News Center
       domain: gatech.edu
     quality: 34
+  - title: "Does AI make robots racist? - study"
+    excerpt: "A new study found that a robot operating with a widely used, internet-based artificial intelligence system consistently prefers men over women, white people over people of color, and jumps to ..."
+    publishedDateTime: 2022-06-25T11:38:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-710355"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 34
+  - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
+    excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
+    publishedDateTime: 2022-06-28T19:31:00Z
+    webUrl: "https://www.express.co.uk/news/science/1632504/artificial-intelligence-racist-sexist-robots-flawed-ai-scientists-horror-warning"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 11
 
 secured: "EFmssStgMBe0G4NYUl2V4RWezFG+lmdfYLKcYqHE5hroIv/rIEWsWA8Nu3PJ3wVjDUvVvkXI4/cwXa/hkMNn0SRCp3fSsC6C/0x9muFTH8EPW0eoJ7e5ugjBOrjzkkXL9HGoTX+1aMKzdZ9yqDwBSBv6ZCLyEAY4OChvYqr5OocEWUuu1du+HmoE/Rk5MCWaLW/ULJTPwsfUgFmvAeZXQDKw1r4MjjKM7XmpxVvH31Ln1f7mS8SESXeR90JJEDYHPCmSXSpFjbhvQhLH61of4TCrIGvUCWAAMSbnNaeLSmdZMXDAfYEgofUv55cqXSo5p7McaRXmbV03f0He3aO4W2RN1syzqQXf0R5T7g5qbr2LTOehax6tmWGBPoOFHCsJLPhzV2emNFYxkSs8L6/teGTYHV2ioUbuvYgtPpH8CJeI6nqw+dfK3q6Id98ZcU1O6fBF9H7n3cPOMgoZJzfaBX5m5Fl/YmoSi+aeunxa8ZpSeJtxwqNlg95RYyGPcLirDFWORlZLw+Wnte8SatQ9VQ==;kLI5N5aJ3pDTQQ9rF85/7Q=="
 ---

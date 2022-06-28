@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T19:34:00Z
 originalUrl: "https://www.dcvelocity.com/articles/54946-jb-hunt-trials-self-driving-trucks-in-texas-pilot"
 webUrl: "https://www.dcvelocity.com/articles/54946-jb-hunt-trials-self-driving-trucks-in-texas-pilot"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: DC Velocity

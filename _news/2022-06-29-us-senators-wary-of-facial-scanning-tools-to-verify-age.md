@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T19:31:00Z
 originalUrl: "https://www.djournal.com/news/nation-world/us-senators-wary-of-facial-scanning-tools-to-verify-age/article_f814a4a7-2142-5d65-a32f-f221e59e1ae5.html"
 webUrl: "https://www.djournal.com/news/nation-world/us-senators-wary-of-facial-scanning-tools-to-verify-age/article_f814a4a7-2142-5d65-a32f-f221e59e1ae5.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Daily Journal

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T18:51:00Z
 originalUrl: "https://www.politico.eu/article/france-far-right-mp-shows-nostalgia-for-french-algeria-in-national-assembly-opening-speech/"
 webUrl: "https://www.politico.eu/article/france-far-right-mp-shows-nostalgia-for-french-algeria-in-national-assembly-opening-speech/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: POLITICO

@@ -57,20 +57,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
-    excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
-    publishedDateTime: 2022-06-24T20:00:00Z
-    webUrl: "https://www.albanyherald.com/features/arts_entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_1e06e6d6-9801-5482-9407-ff805f016640.html"
-    type: article
-    provider:
-      name: Albany Herald
-      domain: albanyherald.com
-    quality: 21
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/custom/image/01b25422-d8d8-11e6-bb31-5378351eadac.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "We watched Westworld season 3 so you don’t have to"
     excerpt: "You’ve just watched the trailer for Westworld season 4, which premieres on HBO Max this Sunday. You feel a strange mix of emotions: anticipation, curiosity, bu"
     publishedDateTime: 2022-06-24T15:05:00Z
@@ -80,6 +66,15 @@ related:
       name: Polygon
       domain: polygon.com
     quality: 4
+  - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
+    excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
+    publishedDateTime: 2022-06-24T20:00:00Z
+    webUrl: "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html"
+    type: article
+    provider:
+      name: Marietta Daily Journal
+      domain: mdjonline.com
+    quality: 1
 
 secured: "NL8i/IULYOctiVwg9UQzm+pTql/G6jxF7n7qdx9cROFhJnyZPFsJ0Jr1hb9y6kW2zQxPgmiYC2ucBxep/FXBDxoyPw/iQDTag/mL6GIN0UcpHlbCuIXwxTxdAcJt0hle9V0TcV5iOgDD7CcM7uTaCgmCnWd5yg2I0avHLZ+yKFAW/pdmCYwjyI7yI6SMn0OoSYOqKgMcyHGLJEiY3Te/q420R69xyyaYZOiqyvL/O7DntcWKhSsCvj5/i4Oc96wezgMUi5q3LiUxvb4MxIlGNeluiiOKRZipxV+kib85wgOS2qzIZk2L/7lTXVceZxYbBjP02au9GRZKjGNwjdYIzbrIeLhfZOfur9sJW0YPt+c=;wVG1yo++1Lm73jVV85zJWA=="
 ---

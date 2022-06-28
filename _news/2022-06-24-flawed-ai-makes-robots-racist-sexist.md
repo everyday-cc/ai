@@ -49,6 +49,24 @@ related:
         width: 700
         height: 420
         isCached: true
+  - title: "Does AI make robots racist? - study"
+    excerpt: "A new study found that a robot operating with a widely used, internet-based artificial intelligence system consistently prefers men over women, white people over people of color, and jumps to ..."
+    publishedDateTime: 2022-06-25T11:38:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-710355"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 34
+  - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
+    excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
+    publishedDateTime: 2022-06-28T19:31:00Z
+    webUrl: "https://www.express.co.uk/news/science/1632504/artificial-intelligence-racist-sexist-robots-flawed-ai-scientists-horror-warning"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 11
 
 secured: "PJlfIX03zxFtq7eeAqABFNp0YKucfYlwK7TkeT5wNfy19f73+ijNqdpvNIeeQeYYFFqUHkHqVBTeJaQOZOriUCyqOOCrRDdkWyq3QhArcsGnArnypOWvXSiIQlL73cfBHb914keI5zag/iQG6BD144KgNpi+2qCG8PQeK38bWrQywrmGF3rIrpSABR0MiZ+ZlZA5ahkWEqMhSzIinYolk4QCzwShVNPvvBwsnRxrs0iU2NtzqsCfj9mptmdkNvL3rU5SL++5tPmUHBC/xggiFVMEu1TJpzRHc/DBgdyL2LCv9FPp0APlucX6e8UPaW7PsGEUuAlkq2h70Mmsup8d/9YQIn5wUpNC8AHvp4xdzh7M8iQu7u1meMAUOYgJZg+stlZKH8I0aItDSu/c5j32Ljg0t01hgzkrSxxe3nxZfYg6HEQi6BdKm+9qWkIInGjfZwWm/PTsfZewqtKITFOMN+pC35ZW20ERoiFCZyjQl7lhZDhX1PfjUnehKBue1EA0bR9IanmxTY+tk2NtLmLerQ==;rbX64A58BVqxjJEAPHQwjg=="
 ---

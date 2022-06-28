@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-24-how-to-use-human-centered-ai-with-forethought-and-nea.md",
+      "title": "How to use human-centered AI with Forethought and NEA",
+      "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/",
+      "originalUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/TCL-2022-06-29-featured-1920x1080-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
+      "publishedDateTime": "2022-06-24T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-chatbots-can-use-ai-to-guide-customers-to-the-right-human-based-experience.md",
+      "title": "Chatbots can use AI to guide customers to the right human-based experience",
+      "excerpt": "Chatbots that use more advanced AI algorithms could give customers a seamless experience transitioning between technology and humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6",
+      "originalUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/612e98ba12b9cc001963956a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6?amp",
+      "publishedDateTime": "2022-06-24T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers.md",
+      "title": "Cruise’s driverless autonomous cars start giving rides to paying passengers",
+      "excerpt": "The milestone comes after Cruise received official approval from the California Public Utilities Commission in early June to operate driverless in a commercial capacity. Initially, Cruise’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/",
+      "originalUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Cruise-car-in-San-Francisco-streets.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/",
+      "publishedDateTime": "2022-06-24T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net.md",
       "title": "OpenAI spent $160,000 on Upwork for Minecraft gamers to train a neural net",
       "excerpt": "The point of the work is to find a way to train a general purpose computer \"agent\" that can use the wealth of the data on the Internet to carry out all kinds of computer tasks.",
@@ -114,7 +268,7 @@
       "originalUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -962,6 +1116,40 @@
       ]
     },
     {
+      "path": "_news/2022-06-23-system-on-chip-market-to-surpass-valuation-of-3178-billion-by-2031-tmr-study.md",
+      "title": "System-On-Chip Market to Surpass Valuation of $ 317.8 Billion by 2031; TMR Study",
+      "excerpt": "The system-on-chip market share has grown steadily in recent years from the application of the technology in hyper scale data centers, automotive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
       "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
       "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
@@ -1012,185 +1200,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ross-lets-worry-about-the-google-ais-ethics-and-discretion-not-its-soul.md",
-      "title": "Ross: Let’s worry about the Google AI’s ethics and discretion, not its soul",
-      "excerpt": "Google wants a truly conversational search engine, with immediate real-time access to the sum total of online information.",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
-      "originalUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/06/GettyImages-1241233246.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
-      "publishedDateTime": "2022-06-23T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program.md",
-      "title": "Eigen Technologies Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards Program",
-      "excerpt": "Awards Program Honors Standout AI and Machine Learning Solutions and Companies NEW YORK & LONDON--(BUSINESS WIRE)--Eigen",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/",
-      "originalUrl": "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/",
-      "publishedDateTime": "2022-06-23T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom.md",
-      "title": "AI adoption to add $500 billion to India's GDP by 2025: Nasscom",
-      "excerpt": "The AI adoption in four key sectors -- BFSI, consumer packaged goods (CPG) and retail, healthcare, and industrials/automotive -- can contribute 60% of the total $ 500 billion opportunity ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92411737,imgsize-111048,width-1200,height-628,overlay-ettelecom/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "publishedDateTime": "2022-06-23T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-can-wall-crawling-robots-help-solve-our-infrastructure-problems.md",
-      "title": "Can wall crawling robots help solve our infrastructure problems?",
-      "excerpt": "With federal dollars for infrastructure increasing, the technology could have additional public sector applications. But how big a difference can robots make? Is it too little too",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-wall-crawling-robots-solve-infrastructure-problems/",
-      "originalUrl": "https://www.zdnet.com/article/can-wall-crawling-robots-solve-infrastructure-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f40053e0e058a596fc5c696dd4c51098272ee76d/2022/06/22/59c9d5d3-83d7-4825-8fd1-20e550c568c2/brooklyn-bridge.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-wall-crawling-robots-solve-infrastructure-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-wall-crawling-robots-solve-infrastructure-problems/",
-      "publishedDateTime": "2022-06-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -3,20 +3,28 @@ category: news
 title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
 excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
 publishedDateTime: 2022-06-27T17:20:00Z
-originalUrl: "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-webUrl: "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+originalUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+webUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
 type: article
-quality: 23
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Valley Public Radio
-  domain: kvpr.org
+  name: Boise State Public Radio
+  domain: boisestatepublicradio.org
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/922c5da/2147483647/strip/true/crop/524x295+0+6/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fidaho%2Ffiles%2F201804%2Fidaho_shakespeare_festival_amphitheater.jpg"
+    width: 430
+    height: 242
+    isCached: true
 
 related:
   - title: "How AI is quietly revolutionizing the back office"
@@ -65,20 +73,6 @@ related:
         width: 902
         height: 632
         isCached: true
-  - title: "Artificial Intelligence in the 4th Industrial Revolution"
-    excerpt: "Artificial intelligence is providing disruptive changes in the 4th industrial revolution (Industry 4.0) by increasing interconnectivity and smart automation."
-    publishedDateTime: 2022-06-24T02:35:00Z
-    webUrl: "https://www.bbntimes.com/technology/artificial-intelligence-in-the-4th-industrial-revolution"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_in_the_4th_Industrial_Revolution.jpg"
-        width: 1000
-        height: 606
-        isCached: true
   - title: "Justice backed by AI"
     excerpt: "An artificial intelligence (AI) system to be used as a sentencing guideline in courts within Peninsular Malaysia is in the works, while it’s now applied in Sabah and Sarawak. Before it proceeds, a lot of deliberation and consultation is needed."
     publishedDateTime: 2022-06-25T23:33:00Z
@@ -108,6 +102,6 @@ related:
         height: 735
         isCached: true
 
-secured: "c71WTmgyNDtoeSjE0UROqXW6J2Tj4/u8cwgtBwKQzbgZEvs4DpM0c35vk1cvrq+b1GobqsXZTiSSNpBmJS7b1cHtFzLhC4B9rtWlRR9OLoxHpCgzJ3jTgFZk9N9Z4znF1rcEl1HaIIwCea8UzsSsWJev7BYKVEv+GGjdA9sY7c+h9/daLEsQyII3e6iyWMULBx9c0MbFDaEAXq7WcjdrWjt78lP5iVxIMLxNJNiwXRPlOXTC+qhZKWAHpOWGyu3PftoO9vWJoNN5+OBf6BvHEuQVAIc2yGmDVjZAXaZ/wNbxRPpTRztEmERhdd1t7CWnSQbuzk7D/WRwfW2m7EqwJQSw/hhd1W1/WgXvXlZqWrz8G+T9vpBjYlWjwcdRho7ZFNxfVJOEjEfsOkRKkzm0VIUT5MUwoxkwG6Qcny4caV1wdQh4LOmfpA+jav0BllVxl1mesfrdtCwkqeI1BBacSD25rAmX/FBvQbwZ4nvMz/NesPYI8YTCXfa9MZ9njaIRz7hn6cIHtA94PXEVLyJBhQ==;bAtUdcLycLUA3oRqIGhnWA=="
+secured: "a9QNr7fxgtqjMqnwwUTAX8AoypAIpai3TXEJU2j/ndO3coxeIKTIRS966L26vvbbeP44Es6nhrrBL095at9IeuoWIHl7tezkSS6zep7G4RaCX4RhE8rSdcKCVnlbHKlD96dpp5aEgL0OMBDxhGhRhnN9fwu8PYgHqgab1d4FBev2d6hkPQ1fEjxkTk3wp0idX2Nhj6heaFGgsGw7bwoty3mBmvPu9CIb6qva8ikPqLf90kAtcph+CkMpWWQzZwzT1woiIRGnd3HsuwOgskwuPAr5pQ6eR5dfLIooo7713CwVUruClQMpseTuDrM47xdd287BrBwiJiN+4Xi7zt8r8sOmnwUsV6ISkODgXNYJ9CM=;3eUbW1iiKQ8jhtvJLLiQ7g=="
 ---
 

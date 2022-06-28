@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotli
 webUrl: "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
+    excerpt: "PhD Candidate in Brain and Cognitive Sciences ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ..."
+    publishedDateTime: 2022-06-24T20:26:00Z
+    webUrl: "https://theconversation.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099"
+    ampWebUrl: "https://theconversation.com/amp/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 44
+    images:
+      - url: "https://images.theconversation.com/files/470388/original/file-20220622-7895-m4o7lp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=212&fit=crop"
+        width: 320
+        height: 212
+        isCached: true
   - title: "Google’s Powerful AI Spotlights a Human Cognitive Glitch: Mistaking Fluent Speech for Fluent Thought"
     excerpt: "Kyle Mahowald, The University of Texas at Austin College of Liberal Arts and Anna A. Ivanova, Massachusetts Institute of Technology (MIT) When you read a"
     publishedDateTime: 2022-06-27T16:43:00Z

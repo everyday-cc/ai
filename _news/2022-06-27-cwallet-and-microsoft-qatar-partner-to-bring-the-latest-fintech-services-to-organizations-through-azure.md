@@ -117,6 +117,20 @@ related:
         width: 1024
         height: 551
         isCached: true
+  - title: "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year"
+    excerpt: "Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the Year Award."
+    publishedDateTime: 2022-06-28T21:00:00Z
+    webUrl: "https://www.asiaone.com/business/cloocus-recognized-winner-2022-microsoft-country-partner-year-second-consecutive-year-0"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 17
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/image_1_91.jpg?itok=4NRJZiWv"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "pU5kil5uJaKp+/1Yz46jHq1j/m06wN1sqvBBj/MGLGjhRvX1UW0p21m9smD5mrsO8wgOlpDuF7LHmRl4wd4HUfSn2770IHjNvin53wqJK260ONmUIECNEPt3KcFfmVjL09VItLnA5anLy/9a3xme1I007rZUREjeF6Hv6TbrcjJm3aa9pfmb6LVUWxZDUP5PNapGSpeSuPk2t4Hc2OVBEfQex7EdGdgPdRbVhAcXZPTXyr7LhEdsfDXz9kKggtHwUYhjaHnW+jhQTwipFzO+P28gLAgZZgrCCXCizFfEc7+8twYqjjCBhas40uUI+Iio1Tgp949U2y0Og9SviSMBSlGp1poZmw8hIl4h8KIzAgdYuEd4yRR+5z3Mrt00JhRkj+IjH5V9hrLOuQJIkGq6gphMHQxcG+RVDGtJkusV2vdytBVMfqMuQbL3gRjIDoRLc+bcZ35ILQIz0V5BitHXJeDm7nJX9LbcfhjoGBD8FtFew0HeXpLL/hZetiKk8G3TdV3ObOBCWrMAopFwhfYE2w==;DypOiIvHsyRACFy2iR6Zwg=="
 ---

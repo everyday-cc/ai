@@ -56,6 +56,22 @@ related:
         width: 3000
         height: 2035
         isCached: true
+  - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
+    excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
+    publishedDateTime: 2022-06-27T17:20:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+    ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+    cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 63
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/922c5da/2147483647/strip/true/crop/524x295+0+6/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fidaho%2Ffiles%2F201804%2Fidaho_shakespeare_festival_amphitheater.jpg"
+        width: 430
+        height: 242
+        isCached: true
   - title: "Edge AI: The Future of Artificial Intelligence And Edge Computing"
     excerpt: "Forward-thinking companies and cloud providers see new opportunities in the integration of edge computing and AI. By Helen Wilson"
     publishedDateTime: 2022-06-28T08:14:00Z
@@ -69,20 +85,6 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202022-06-17T131611.005.png"
         width: 902
         height: 632
-        isCached: true
-  - title: "Artificial Intelligence in the 4th Industrial Revolution"
-    excerpt: "Artificial intelligence is providing disruptive changes in the 4th industrial revolution (Industry 4.0) by increasing interconnectivity and smart automation."
-    publishedDateTime: 2022-06-24T02:35:00Z
-    webUrl: "https://www.bbntimes.com/technology/artificial-intelligence-in-the-4th-industrial-revolution"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_in_the_4th_Industrial_Revolution.jpg"
-        width: 1000
-        height: 606
         isCached: true
   - title: "Exploring the world of artificial intelligence"
     excerpt: "IN this digital age, we are now facing a totally different sphere where technology has been transforming the world we live in. To minimize costs and to improve efficiency, companies have relied on third parties over the years,"
@@ -98,15 +100,6 @@ related:
         width: 1400
         height: 735
         isCached: true
-  - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
-    excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
-    publishedDateTime: 2022-06-27T17:20:00Z
-    webUrl: "https://www.kvpr.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-    type: article
-    provider:
-      name: Valley Public Radio
-      domain: kvpr.org
-    quality: 23
 
 secured: "KbWfzuaQ9SLR7gMpfSwvgqLrMNXi+MSo307qnMD2VvMKmMe/nebY/alLLILrkJ09k9SyQmltH36/tIoWcSKM2RJETzgb5qFaYe+SOOJBBJ7EPaKClV879GgdvXHht4LwNTCNMWIXQaMPP83AiaoIaRjCkSvx3qHAZhxutTl0sVa/9yu5xvYy+9wSL8UhK1+28Poz5U7F+HEZi9rT30qZf++8qvVLOHJ+Pn6frvbiUk/3rr22/l+6yy0Ghnq/GsaSE4j/OxaqXWzQLVgl7hszek8HSufI3Cs4Hufo4b6rW3EhGsGxOnhf93JHXNCodoTfqRN7GUWBby2Z14AyVUeJ3vo665P1fL+5IXS+2G4xscc=;/phtblWwKlDjoHP+I+mvUw=="
 ---

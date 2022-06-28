@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T19:14:00Z
 originalUrl: "https://www.dallasnews.com/business/local-companies/2022/06/28/self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45/"
 webUrl: "https://www.dallasnews.com/business/local-companies/2022/06/28/self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Dallas Morning News

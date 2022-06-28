@@ -10,7 +10,7 @@
       "originalUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -343,34 +343,34 @@
     {
       "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
       "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
-      "excerpt": "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider.",
+      "excerpt": "today announced that it has entered into a cooperation agreement with a leading global Fintech service provider. Under this agreement, Infobird will leverage its AI Chatbots and years of ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:37:00-07:00",
+      "publishedDateTime": "2022-06-21T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -624,22 +624,13 @@
       "title": "Financial planning perspective on life milestones | Money Matters",
       "excerpt": "The trip got me reflecting on planning, how my daughter planned for it, and the importance of planning in successfully achieving milestones in life. For a person graduating from any program of learning,",
       "sourceUrl": null,
-      "webUrl": "https://www.kirklandreporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
-      "originalUrl": "https://www.kirklandreporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
+      "webUrl": "https://www.bothell-reporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
+      "originalUrl": "https://www.bothell-reporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.kirklandreporter.com/wp-content/uploads/2022/06/29337371_web1_toomeycol-mir-200909-toomey_1.jpg",
-          "width": 1302,
-          "height": 868,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -647,8 +638,8 @@
       "publishedDateTime": "2022-06-17T13:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kirkland Reporter",
-        "domain": "kirklandreporter.com",
+        "name": "Bothell-Kenmore Reporter",
+        "domain": "bothell-reporter.com",
         "images": null,
         "publishers": null,
         "authors": null

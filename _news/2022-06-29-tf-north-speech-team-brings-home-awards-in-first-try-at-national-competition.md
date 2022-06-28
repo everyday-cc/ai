@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T18:47:00Z
 originalUrl: "https://www.chicagotribune.com/suburbs/daily-southtown/ct-sta-tf-north-speech-awards-st-0629-20220628-tsnvhtbowvcc5oiv6wy55yokie-story.html"
 webUrl: "https://www.chicagotribune.com/suburbs/daily-southtown/ct-sta-tf-north-speech-awards-st-0629-20220628-tsnvhtbowvcc5oiv6wy55yokie-story.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Chicago Tribune
