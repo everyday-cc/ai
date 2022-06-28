@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-    width: 772
-    height: 594
-    isCached: true
-
-secured: "IzjivzfrTDWZzndb0HXsFeSn+ybgOWmPPWcqHHob/OsMypJ+t5lA7SpuYSdB1f/Psf//2ga7IALmRDX+pWde4JwGEfKZz0+c0pmtAhC5KAwD0xpr2EBboL711hAsGpmsusX96Aq0CAjlfB5YY+MJRVuMt4WOZjWnMExWJDBbuYoQaP8gxKtwU90O/mqVa5ZWBgRQflvxoBz8ekq1x+AN2yhfD7KiHbUPsSfNP/EmfD/1DEyU+fJEm4cnWEqV06Z/A/xPW3KiJwb7+bBH3YHWSpW/RvLo0bOl5eKCGcs1RHLaqShq/TyqrnS+uAXzMP7jDemCaO8opOblJ23E+KH9WbM7SxUrM2+3zwb5JezQWfE=;0f35laK1l5xm8GcsIyBe3w=="
+secured: "ATSmu7wAXHmvt3tQiwZ9F0Qprbyp546akUoMqTK+1xCBsT0xawRqBMP2ghasXrdG/RHiybC4CEwzRdsVz5ukVaFJHY/VlMr9Z51irkStoCh3l5IzL/yYsDOa3sNQb2Nlf7GRQWGkyt7V1Psqk129/cTWaPCnH4BD74PG/7xquJ9PDXuLQ1VJbc6FN1eloyDWbHt8Miss76XshZGnSlI8ofnSlRdO++KFt2M/kmXts/95c/c+Xnoh0P8xuXKnNygmQ4kVIW2Yhdpg0FzlxSAgvYP99ZqBOaWT70g/YryiV6S2UW8+4JGUKWc9jd5nrCrw2Yo2cSHG/RHj7aed5Q2A2E0G+gMaEKWX9hc5QYViWts=;i0pAnO711Sjo0yXS2bqXxA=="
 ---
 

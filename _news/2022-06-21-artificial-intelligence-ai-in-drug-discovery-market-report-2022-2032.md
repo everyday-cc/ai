@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "10 Smart Artificial Intelligence (AI) Stocks to Buy"

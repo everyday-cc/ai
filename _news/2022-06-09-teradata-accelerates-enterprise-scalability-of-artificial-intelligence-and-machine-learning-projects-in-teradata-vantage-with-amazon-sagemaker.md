@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+excerpt: "Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics platform with Amazon SageMaker, the industry’s most complete ..."
 publishedDateTime: 2022-06-09T14:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
-webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+originalUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
+webUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "njlclFfrfy94SICMkZO2X5Df7K4nvmDrkAgmWilpHZEZPr1dGZEAb2Ps67DN7p/5xFrwoZFXK4nmYdLtI9w7G2lNdPd9IBbly/pzT0kLY6JbNXHVad8XDw7EIxO3x+txQcdCewdLvdsLbeVrx1XYQZ2riuVM3TC9yC5CaMb7O3bbUvbDoYl2N1HadX2xFJ8PkDaPKixzCDa8l9dU7AXHHWnUj3tBgBRjkYeQXCOz1m1Y9rwHkxdEKj4OHc/JH3JnDuek89D8IJloIbx0whvEURhD26AmrdDY6rRCw4NNZy47A669H52G2swLYpR3arleVgozo1s2lJdZ3bzs+kH+rrF0dH0rskezEFOOMTuJG6E=;TLbzt9VcQCFym2RUf8qzGA=="
+secured: "zLHxYcyZEmAOE+VMPNfk6W0GKpNWherbfB1vf1Us0prYe5m3wEoyBF4MbK+HKSJtItP7qPt0AefOX9mNKd30kw9+Nvnle5q3yQiAnwFlZ5oJU+71SkZakZVgerhZ1AmW/vSOLbMyi+EiSL+v60w+QY9oYl6TnirDujwkBVMm5a5eyrsjIYRssEOYJVYcRNh9zVCwm1L9wEtvXkIZJNOIgD4P1MrDUc6OZKjbYQjcO8JORbpNef+8sJwKeqNWc/jRSTY+pEc8hSaZOQIFcx+nXmNnsqVem88/5BWy8v6XLMr8YXTQmJcsAUke8UHF7RZDPKE/HrLs/kOuY6fISLLCgABHQ5MGZiGzfeC5DRcFXd0=;0KVQjBedYFG1IZmpFpAEXw=="
 ---
 

@@ -5,8 +5,6 @@ excerpt: "\"Advances in AI provide new opportunities to reduce costs and improve
 publishedDateTime: 2022-06-16T08:39:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
 webUrl: "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi"
-ampWebUrl: "https://www.benzinga.com/amp/content/27738170"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27738170"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "Dg7OgPLAr5FKLKot4qlsvKaDX5SaQo30tlHV/A1gPo0inCBV8KTphX/bAdQ5VjPPRzP8WtT1siWr3XfNJPvNQzB/tqBWcdTCv0ghNeA2XcgLwihI7R6i0lGJVKAi5eheaSmZgmRzo43L837SHwElC6TAtSWsjlLStbaGzgCJI290haWYRcKirGEpeQzJ6EyfjBGRqgAE4kPmbXYyI/xiLC2B1kwROjdmF94X54aYxs+/Prbq3Gg4mT1Tc7zKWfm8sRJIOZhrprlhW04MVleJV71Mxf1AJqzH/0bBuuwP49MyvdQlXvBZEhGvcpUpPykkcad5HwKmXDqD+8tfACPLNzu2k0IQHnxLaO1xrFM/mTQ=;QDdPZfIE9GyYSpyCXvL44A=="
+secured: "UigCoraQQAGsA4qDtutVIKfdoWXAI0IXqK1R/cpy4L1jdIRl6JuzQmY0MkFkGHCCsAjyVvOr2T14zwKTGXndrbgSO2pdkWtCuuHrk5N0vZE0QlOxAoVWnC1GMNDW3w6isJC9q2wxDmSM6WrebJcCFmrvDFjlgPt2MgLN2BlR/2DzM41dP9beUprWXmjJsomplcITA0dIF8ZaU5dYpmX8KDzQ4p+u/5Z4QT+kaSpcs61hs+vLaSSQCqc4j34UyybLPrS85nun7KoQ7S7sin1Th9lmjEurjKz7SPuIUF8IlKp7NVE2ilJeE+soK2Lb6R9KzFqdWAb8rEGMLQjQgIcAHCq0pbDc4iPPqqy+7bG7geE=;3e4FYLnsFcNUE790FuQrHQ=="
 ---
 
