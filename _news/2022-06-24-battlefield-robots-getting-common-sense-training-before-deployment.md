@@ -7,7 +7,7 @@ originalUrl: "https://www.defensenews.com/2022/06/23/darpa-adding-common-sense-t
 webUrl: "https://www.defensenews.com/2022/06/23/darpa-adding-common-sense-to-battlefield-robots/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 643
     isCached: true
-
-related:
-  - title: "DARPA adding ‘common sense’ to battlefield robots"
-    excerpt: "As the Pentagon turns to artificial intelligence to aid operations, researchers at the Defense Advanced Research Projects Agency said they are closer to giving robots the “common sense” they need to survive the battlefield."
-    publishedDateTime: 2022-06-23T13:41:00Z
-    webUrl: "https://www.c4isrnet.com/2022/06/23/darpa-adding-common-sense-to-battlefield-robots/"
-    type: article
-    provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 19
 
 secured: "4+MXLM0FmvowLi8lHZcbY9tV1G6hfjL7YAcJEGrsltYu/Fpo27qAxIEqKF59Kr/clU0EyLaAvKWtzXpZVECy25V06ZJnoVIKVVrum/b5IzZpuROq5i/9flHx5JiXZtg3BVEl5j05Y9kM+3OVE5KDTIaHKJMIXwHW9xfMtHbT+v/96tvfEwo0SRY/Lgk7JsciBNpiRmZ+v8JpxBYaWhPjijZYFekpblW30/Q2aeMddZgGbhQWkfwW6H8cSBHZgVbkKMIiG4ADeEyg6T3hVZ51EAkGYEt6pr6sqlp+/qcUhjmp2iAepNUC0nlkOCMUF44yr4vx+YVOabq7UePdFaMDKTpgNiN3yMe8CeBG56BHzItR+oCjKxpTO3VTy04dutstYnF8R1KFy4qDJFfIR+c6YzkqAQirnaTK4+0oG92c7piWMbJ5KAD0KppFjyV4BqnEABmvzpIhd+lb69ogI+PkGYNAXFW3t5t83GVmYy2FJ2C7OYc7ryZu9WLP8XzI1eRUVV149OEMQ9b9XWU+sSAaJg==;57XzyDApICNEk8hxKFOJPw=="
 ---

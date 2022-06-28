@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-m
 webUrl: "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 800
         height: 567
         isCached: true
-  - title: "Amazon’s Alexa will mimic the voice of your dead relatives"
-    excerpt: "Amazon’s Alexa will be able to resurrect the voices of dead relatives, allowing users to feel as if they are speaking to lost ones beyond the grave. The company revealed that it was working on technology that would allow its voice assistant to impersonate people with a recording of somebody’s voice less than a minute long."
-    publishedDateTime: 2022-06-23T13:45:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2022/06/23/amazons-alexa-will-mimic-voice-dead-relatives/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 4
 
 secured: "oAAsTVHEHVC9JqhRqbTrXzPQ+wNOAfWtasMt0dBRQAuaIOccKr453vZEA/izuEXIMxlFZgCX1k2zWupDoy9zLJEJFNIiy8Y1JqmIBlMe28VHTN/FbvDahbgjUxIkd9EL61TmSWdUlEWj/1cNKU79dKGlaNI67YrYxHHygJoJpc7l0yVCclrliVL1n9lKAMsNmcqDJRpAfndgm9YRR1fzX6F/y09AhJaBCdVzKC0E5fwNzYwQ3CTOS5rKRONXtiBF9tm8hcrIjQ1cl5dHdUnuN7KPRg5uvqp09NXpQzz0/2/cM7hJTx1xy/XWDtKTQ0AIOb9p0+k6vw7I6lnMTs44kP06k8KRa24sOGGrr4csHdU=;YIzzbnEDG+kmATHBzGxTJA=="
 ---

@@ -24,110 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Eigen Technologies Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards Program"
-    excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies NEW YORK & LONDON--(BUSINESS WIRE)--Eigen"
-    publishedDateTime: 2022-06-23T13:14:00Z
-    webUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/"
-    ampWebUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
+  - title: "Integration of AI Platform Can Cut Time for Chest CT Interpretation"
+    excerpt: "Integration of an automated artificial intelligence (AI) support platform into clinical workflow can reduce the time for radiologist interpretation of chest computed tomography (CT) scans, according to a study published online June 15 in the American Journal of Roentgenology."
+    publishedDateTime: 2022-06-27T17:48:00Z
+    webUrl: "https://www.physiciansweekly.com/integration-of-ai-platform-can-cut-time-for-chest-ct-interpretation/"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 54
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 37
     images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/06/image1656352125.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "AdTheorent Wins “Machine Learning Innovation Award” in 2022 Artificial Intelligence (AI) Breakthrough Awards Program"
-    excerpt: "Marks AdTheorent’s Fifth Consecutive AI Breakthrough Awards Win. NEW YORK, June 23, 2022 /PRNewswire/ -- AdTheorent Holding Company, Inc. (“AdTheorent” or the “Compan"
-    publishedDateTime: 2022-06-23T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-b8f411c5edc1e72859dfa8e411c6e901"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Marchex Wins Artificial Intelligence Innovation Award in 2022 AI Breakthrough Awards Program"
-    excerpt: "Marchex (NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that its Marchex Conversation Intelligence solution has been selected as winner of the “AI-based Analytics Innovation Award” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-06-23T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-31c3dcc0cdb14bdfad926836cd6051ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Aera Technology Wins AI Breakthrough Award for Decision Intelligence Innovation"
-    excerpt: "Aera Technology today announced the company has been chosen as a “Decision Intelligence Innovator” in the fifth annual AI Breakthrough Awards program. At a time when the global AI market is expected to grow to USD 390."
-    publishedDateTime: 2022-06-23T16:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/aera-technology-wins-ai-breakthrough-award-for-decision-intelligence-innovation/article_d482a395-0b56-5857-a6aa-b88bb50ed1eb.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 33
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
-        width: 415
-        height: 539
-        isCached: true
-  - title: "Zesty.ai Named “Best Predictive Analytics Platform” in 2022 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Zesty.ai, the leading provider of property risk analytics powered by Artificial Intelligence (AI), today announced it has been selected as winner of the “Best Predictive Analytics Platform” award in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-06-23T15:35:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/wildfires-technology-north-america-artificial-intelligence-599bd3b88b143e6ed80bf44b1d99ce31"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Aizon Wins “Best AI-based Solution for Manufacturing” Award in 2022 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "SaaS provider that transforms pharmaceutical manufacturing operations, today announced that it has been named “Best AI-based Solution for Manufacturing” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-06-23T14:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-artificial-intelligence-pharmaceutical-manufacturing-2582c10a960c434f825f9fd5456b8fde"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Arize AI Recognized For MLOps Innovation in 2022 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Arize AI, the leader in machine learning (ML) observability and model performance monitoring, today announced that its Bias Tracing tool has been named \"MLOps Innovation of the Year\" in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-06-23T15:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/23/9627739.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "CallMiner Named Best Overall AI-based Analytics Company in 2022 AI Breakthrough Awards"
-    excerpt: "Award recognizes CallMiner for its use of AI to analyze customer conversations at scale, driving improved customer experience and business transformation. CallMiner, the leading p"
-    publishedDateTime: 2022-06-27T12:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-27-callminer-named-best-overall-ai-based-analytics-company-in-2022-ai-breakthrough-awards"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 9
 
 secured: "yDWHNTq9O1vypQjYSnbmtJFh3pCJY360aNHRDG5xzHm0T+tOj/8AwmVTTrn2W9zTlhcYAnW0redjN2Q/bcAIro4Bp13BSDs1lueRKthi/gkqfC7BQGzykCl0pWMfudVQBch39EFpUNJnt5sT//Ugted1McYuytIpxCJ3oGNUtX07VbP9vQhssm2/BplTGg2DAB4sZE7QOPy/vXLtw4OFIsf3ZyTeReo69U64uFt0p7yufv39vHG3tNj4aL892KB1QwonL8719Mx2vmJXCyj6ZlcB4DbHgSAKMMyxxs6rPj8XGN50YSMzukTtkewN/MWo2xSpAGclCwPOQdvCLBLls3f9O1MnU9TVffy5dek8Ht8=;3FdLEITeoPIDxvyjY36WFQ=="
 ---

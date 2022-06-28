@@ -1,19 +1,28 @@
 ---
 category: news
 title: "Are babies the key to the next generation of artificial intelligence?"
-excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity College neuroscientists and colleagues who have just published new guiding principles for improving AI."
-publishedDateTime: 2022-06-23T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/956862"
-webUrl: "https://www.eurekalert.org/news-releases/956862"
+excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI."
+publishedDateTime: 2022-06-23T14:34:00Z
+originalUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html"
+webUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html"
+ampWebUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
+  - Machine Learning
   - AI
 
-secured: "qZi43t5j5hszJUUYs9vSFvOJOVkMZ0FCwGMBWoOwoYpvKJdIoXHt92yPdgk39ui6gMjAFBolSD1FlSY04GHN093tFLOMSddlgkCtmbVwTV/YIgCFHO54WKDlA0Cw/DQ2fGaMUrvkqj0QlJiVsDVScO6/acIVzkllDEiclSaW//ks7HXG4fbbIaFzh+2HbiOTKXIhN3jZMHzaM2LfFPxeQb/TiFVqjkZvJWgoLqJbGltHqEJ/2WFbTvyhlImC+A3NB0cT9ZflUm/9OG1AjuA+ctM9+D/ntWq+B5MwKjBvtqcbs2cp08OiGN7Gn2mVlTwQswzIy7bNPAVs00afx/6upBEsEvSJL3Ne2NYhHiPNZpY=;4QZikW/AKTfe+SHqDEQ15Q=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "eBKpw1L9pV5T81xzUbUwef22+MIVXBw/nJOsQ3ZVSKsEMcShwu/LI6fYU/wnX7x7emFheAjsmcSN6uPa1vizqJu/ZzHJuBx8IkdfjEnsNOtT8cUhV8E2dCSq/WJZDgMJXQqMMDyqpT5vKSAI51BF8DDjQd36WQL5heU9l/V0/ijqqiG5z83ljaqCAWPgyux/yzwYdp9LOCKVgXOyrbsQlViKX94cqZ38qQ9azZoRVZgcnemL5UD9QaIVEDRSjtZJGiTvmgV9XjYemL6TnDnDLzHoTjwldSnlIugJ3TGqNIobajgioL/6odRajAH1eYR/TjvM1bgVpQUREvNWriKWEqVUPQDAiTFjr4sRaQ17KPw=;yLohwozQlAl0tnEhrhNf4Q=="
 ---
 

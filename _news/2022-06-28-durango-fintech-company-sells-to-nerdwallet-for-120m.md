@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/denver/news/2022/06/27/nerdwallet-acqu
 webUrl: "https://www.bizjournals.com/denver/news/2022/06/27/nerdwallet-acquires-on-the-barrelhead-colorado.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "CWallet, Microsoft Qatar partner to bring latest fintech services through Azure"
+    excerpt: "Doha: Award winning fintech startup CWallet has partnered with Microsoft Qatar to digitally transform thousands of organisations by equipping"
+    publishedDateTime: 2022-06-28T06:25:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 50
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220628_1656397572-912.jpg?1656397572"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
+    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 38
+    images:
+      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "iXKPCsHZGg2En3oqQKprV9sg1QLevj819eekaHiKpKEaZhY+iYLV/zDJpnUIIOf/E+F+FWWxjXj1hJdbbmWCvrlMCpUau+36qW/ilmqqAZO6qEN2SxRa2UM5qVxSeNyBrzDM8IK6CjMH05VZHgd2zp7Ho1QnSsxe8H12+4/PjoPhJl41IZ+Gankwzra8SrDjHOBCc5Kk+5IdcPfCjTsDdxYqfLjabkXVZ8Uwp4cjm+5JyzNk9OdreRjhn/hIEYohAZ4dYZlOliD8fjTypHBt8kFUKuafT441Aqs33RM9JmGxsOfTe5QDIe///6kWsELeC9Xdvmres3cBlMEFz2I67ySHpGMdD//cpGBRVPV0mGjDhc9ZlQ3rDHc3Q5N3I9u/zpxFHvYx5bV72MA5CVVzc86BEpMh76UI+/gZvbsk4Q3dldA0p9q7IPyIXneF+mfwH2Mta/K4Cf3RQq7wekPJQckuktFalIyqRcRhaXKMVHGwTpTPXDPKFmsYoc8oZzRgQuCBplt+XvrhM6m3Egbi8g==;OPfE65PegAhnccdJQWCxvg=="
 ---

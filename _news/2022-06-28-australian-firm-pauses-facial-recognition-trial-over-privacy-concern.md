@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Australian firm pauses facial recognition trial over privacy concern"
-excerpt: "The move comes after a consumer group referred it to the privacy regulator for possible enforcement action. Read more at straitstimes.com."
-publishedDateTime: 2022-06-28T05:36:00Z
-originalUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
-webUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer"
+publishedDateTime: 2022-06-28T06:36:00Z
+originalUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+webUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+ampWebUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern/amp"
+cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern/amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: Daily Sabah
+  domain: dailysabah.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/28/ac_thegoodguys_280622.jpg?VersionId=wGnZzn1t3CotARjlPkNubCxeThFvNo4P"
-    width: 860
-    height: 573
+  - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/06/28/thumbs/800x531/215212.jpg"
+    width: 1600
+    height: 1062
     isCached: true
 
 related:
@@ -53,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australian chain store pauses facial recognition trial"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T06:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s750"
+        width: 750
+        height: 456
+        isCached: true
   - title: "Australian appliances giant pauses facial recognition tech over privacy concern"
     excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
     publishedDateTime: 2022-06-28T03:08:00Z
@@ -66,6 +84,22 @@ related:
       - url: "https://www.reuters.com/resizer/E9f6SERqd4JhyOSdc1sETEzMCaQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VIWPZARKTHH5MMB7K3BHAEI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Australian firm halts facial recognition trial over privacy fears"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. In an email on Tuesday, a spokesperson for JB ..."
+    publishedDateTime: 2022-06-28T07:19:00Z
+    webUrl: "https://www.aljazeera.com/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2022/06/359452268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Australian retailers named in facial recognition complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
@@ -98,6 +132,6 @@ related:
         height: 413
         isCached: true
 
-secured: "dbStsXQ1ve2y4fREKaTB6Yg8S/f3ZoBtZXu/jVCX4PflIyXj0RYTZM026/TBgp1XZEdyVkmcr4++y9d+N1rG767Je0tjuYTufi/zisL3c24+0+SkN/e6MkMHIVkqf683np/GgYrU+5qwTRGeVTP82L39r5Czo8jer+G6hXGUiAW7wHDZpQh7Kx8TRE9etoZMPeSvkkflWGiP5VH7/JF4KdyINszRmX0Wc8r2XGp4LcYzxNCDyz3ELjiWiWMs+tBbTv7gQoSteT6Jf4YgfYqoj5JAxDAWee9j/t9e5E/d5X6+LgXJ+pXbTimZXhWAs4BD+9CUS2zNAsnbM1i292MWUfUJi8DYSCryuDe8lgcCpQY=;rqZ3X/zUJDqD4/IdUIiA0w=="
+secured: "DUkMP5yZwRKGj3C0I5LUmBG748+dd4+3PABZNyqtmMrPHgXV1GPBQLnW71BTrsrSCcjENMzxneDpyFxdEr9dpAHGu59BznB56h6I78Xg30B0w8ir/gGmInoyAo4MfyuH+KpcdxHS65cTLZFPWzpFEqsFl0J35zw1yZ3/fX7HixUhRBamiYgNzhVSNdC3F/sNAc6yjlZ+75KG60LzP3qHyCS3Fbsms0U/0j+lwQsg9HMm54ScA8iinWiymeB2IYt+hvmji/JlsclWY4VatEnkFbJjgHnpfm1XTIjp5EFR7W8BPHeKuHeW0WJ4D1FmsLlPTBxV/vXN+Iti1P+pu2KVHQV9G4tIoaJmxVBEVukPm5Q=;Wt8BjMF3qaPCt6q5jpyKlA=="
 ---
 

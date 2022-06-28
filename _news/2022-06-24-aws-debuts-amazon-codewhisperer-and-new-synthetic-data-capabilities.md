@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 771
         isCached: true
+  - title: "Battle of AI-coding assistants: GitHub Copilot vs Amazon CodeWhisperer"
+    excerpt: "Amazon claims that developers can speed up the development process with CodeWhisperer by simply writing a comment in their IDE's code editor."
+    publishedDateTime: 2022-06-28T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/battle-of-ai-coding-assistants-github-copilot-vs-amazon-codewhisperer/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/git-hub-copilot-vs-code-whisperer.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "RgSLWTSMaeDuniGzLGCgj5axS9q0UBlO5jkgYDrOX5AdsTYqz144K+0gp8QUx3914zzBIb3L6y4twnYtchjx3Rg7uvFD/MifhLzJvX71I84wif47xJej6ElkCK3XqDvFqOJfS+E/eWKEhzuEXfZuv/PDWT6h92XrExxpI8B/aoesa76HbTm+W/MJajc7ZGVgwH8yu0EqddHOAJbdM33M/4wTUJ6Bl6O17u7dEjdwLcEy3bTd6m20MtJbZ/F4xvFryC0YFFXxej3UJw+piypl2cO7Ih0g/mKl8K9AoaHbUBelOIYUcMVo8SyIJ/Wubl6ZR33cQjg4S0WgoOE0wDy6/5fvuqUCkKkGAd2B4vcEbahKZTY3Gv4Idf+d92AFhNpkfXunt+PkT7kBpnhJoM1Yz8keEGoFuQKaezpTKxshPo3bnYKPCp8CduGOqX2J8m5Aaiix7e2gHN+lgwIF0xMO8xUyP2irGyM2lQb/uOpHyi/58vUfSSYyzxBLDseZI++4UO+BOXh9+WIocjyjEVU2/A==;okVF/8A2rIQbkAUax29/TA=="
 ---

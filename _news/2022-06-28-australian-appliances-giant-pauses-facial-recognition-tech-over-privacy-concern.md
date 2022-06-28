@@ -57,6 +57,54 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australian chain store pauses facial recognition trial"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T06:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s750"
+        width: 750
+        height: 456
+        isCached: true
+  - title: "Australian firm halts facial recognition trial over privacy fears"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. In an email on Tuesday, a spokesperson for JB ..."
+    publishedDateTime: 2022-06-28T07:19:00Z
+    webUrl: "https://www.aljazeera.com/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2022/06/359452268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Australian firm pauses facial recognition trial over privacy concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer"
+    publishedDateTime: 2022-06-28T06:36:00Z
+    webUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+    ampWebUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/06/28/thumbs/800x531/215212.jpg"
+        width: 1600
+        height: 1062
+        isCached: true
   - title: "Australian retailers named in facial recognition complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
     publishedDateTime: 2022-06-27T20:39:00Z
@@ -70,20 +118,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "Australian firm pauses facial recognition trial over privacy concern"
-    excerpt: "The move comes after a consumer group referred it to the privacy regulator for possible enforcement action. Read more at straitstimes.com."
-    publishedDateTime: 2022-06-28T05:36:00Z
-    webUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/28/ac_thegoodguys_280622.jpg?VersionId=wGnZzn1t3CotARjlPkNubCxeThFvNo4P"
-        width: 860
-        height: 573
         isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
@@ -102,6 +136,6 @@ related:
         height: 413
         isCached: true
 
-secured: "/geQbhMcoCVFCCG9zPCZ9Bix21HP3v45gogoCbCtUfxd3/8sGM6krUKPd5Bl8WNrsqTyAGdiGYxjEczzqGpAbtNTisIEes+7Dv0aCDcyhS5oE3Hk7smCIQTpvKIms+ZQKz8e/8PL99UWg1EqrnWGn/8pLj/kwWUelqtu+MIRBbXiYcR7+4fsrIrsemDLbd+HkPrRCc0bkgLRNrVFmBoMLZgRcfQGkkC2TC/vP23H+lyT9ARIdwGLeT++QqR8Nexy5dNX7+I/N3p8pCqmUvEfJPBSTBmr5lDr8Pl4dqGeRTrIySwEy44TchecexmCG0ZDwy/SUUZsu9Ymnm7j9Lg/TGljHUYb/BtC3ahufzLr7N8=;doYGiY+F9C8UF7eXbgAzww=="
+secured: "zbJlECbJSaJnLN5IdZoLo60CUOYIFZ1Tlc4MtRz9ipUkP2Voq8S2xuPKiQ7zPfEodq3RY6/gRVbMCqs6/dn4j0MLULLCcWLpTARpMDgPAhcJXg3gy7VXIgKawqVw0H50onIWIIgev5KoYzWFUUrsOrdCSiq/pN+F080nz5LBnZ+uq17jTezebpjIQ0NYZAJ7zthqe4vp06mS6zdRMBG+8rFkOyIfgro88iVcvWjHGLj1CK6OvO6QKYNy+qzgts75adT2YNZ+aygnY2nXrcgE8DH4GIJ0u7XbjsAEmDMIiPCJMHDyLeYaeBAMX3MwlA+XB7Lg4AbMQRfqec/+02xxFK8WCionR74pX/9NEgsdGyrtnNfY+jJQZ/hy6Xh4ENIqSppFDi/5xLI7QsdKGI4s3slB51XbZJFyJ41eLuE6u7v5MODXZlFc/1i/KvLaSfnkEg0Sgkwr85s3C84eVIMwicOOVD4Dspfo3BxauRORZClz0fDAxoc3tAg8jENRyUwUuG9jCkZW32DD92YJRDmV+g==;IqjvlUmHs8N4JZcS+AtWsg=="
 ---
 

@@ -54,15 +54,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Amazon’s Alexa will mimic the voice of your dead relatives"
-    excerpt: "Amazon’s Alexa will be able to resurrect the voices of dead relatives, allowing users to feel as if they are speaking to lost ones beyond the grave. The company revealed that it was working on technology that would allow its voice assistant to impersonate people with a recording of somebody’s voice less than a minute long."
-    publishedDateTime: 2022-06-23T13:45:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2022/06/23/amazons-alexa-will-mimic-voice-dead-relatives/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 4
 
 secured: "32beU8J+zmiyTgdq4ALcgRsNSMHTOZJv0V8UcqfURhAsE6BqQIktFDHL0z+6ry4DuXSQSl7hY7tSbLbbEoDGOZYAK63sAtwiedj1RkGwd681Hsl5xqhDH0onuVJgF78oWSqS3m0xiKecj0zSbyMWmDFPnr9fYWyQsMCBUEsvRVnpQZg7JJkZk8IZf7v/tNYZW9oQBY0Eiz7G/mx7vhIOVq1/ghNqOjdRMVq8pqKChxCTXHrpMBuucrrez+DGoumXEaEyVPS87WABs23yIphmmY6WSPujxQidLDC88dBMWOCJt6/kPzVgWKa3z/Vn6ODROMNZeJdr0r5noqkJ4mC9nflxpmCvFXdTqhFmdhW1RIE=;Io02QfYDH8YpigZNEt54Uw=="
 ---

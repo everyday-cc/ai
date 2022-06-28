@@ -111,6 +111,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Fintech provider signs Sciontec deal at The Spine"
+    excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
+    publishedDateTime: 2022-06-28T07:03:00Z
+    webUrl: "https://www.insidermedia.com/news/north-west/fintech-provider-signs-sciontec-deal-at-the-spine"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Spine2-40876-1621522090-%281%29-65271-1653038839-67832-1656398370.jpg"
+        width: 578
+        height: 325
+        isCached: true
   - title: "The pain of KYC in fintech"
     excerpt: "KYC is not just an important part of regulatory compliance – it's one of the hardest parts of an app's customer flow to get right, writes Tim Strebkov."
     publishedDateTime: 2022-06-26T08:00:00Z
@@ -130,6 +144,6 @@ related:
       domain: euronews.com
     quality: 4
 
-secured: "gRVrtFGLm6422RvhDoTAHyQDnbfxIn9oyxYxf0hpR80tBsKN/ewFbXEWJh1miPUO4pBGPjeoX8MSmvl0WZL3h7tSljKYdO+8uq5NTXhtukXx7sDsTWZt8vVcHn4PiE6uYddAiy0iIq9OHyHK1MRMFpPW/Y4INN+pqizOaYHYU1FOTlWQJu1o8E6VZye6699U8VVGWtNBfZvXQzT6q2K3K1qh1JKEtylvqr4LH0g7ZZZRpMqd6jLMThGxlXVoCSW7SvS+6FNObOxSdGYF1BRqjbrbHgiVGof4AOmB+vh8BfLh2IOjg4OT8T13nUY06IBFL5NPcVQxP4d5dCnkQoK6a3vWYsHNdHTtpHtMa5xOW6w=;caYcX+uWVs+uSuEk+16Ymg=="
+secured: "GMgRPSou7XdQPKW7KHRW4c/fgIMugKAgfQwJGyu1HY48/4gUIlb9gcWzuv4QAbuVSBihqrsfsv84zJ4impjzCqFB90ux7O2mW85CaQIvBLDF8rjdly5jCSeZ3d4GHqtEXgQ/r4lHhRo7nvfkLMz1FXEXMLIwdtK2C8ipr0OLa2yJpM2HGhKYuAoOo4VqMOm+LlcuSra3PlMkyMad2G5RUzeon7n6xXMhE8zku4Gad/gfCIyl/mIcPF+qirQPETsDGJRm0lAND57orJIa3waDV2bFRsfl0+V/Sb0YnOTcFUu9EFYAvJX8LE6HCKiC5SkGYVXZkUzIFM6ZyJ/YCv5btaKgB/9AYMMwGpF2khlDdL7RBbBYudCqH57gQDJgal3zdeZAesoz9NDnEp3munZ163TmOFJ6+cFU7rwrtu1hZj6Vo4EDlRmkVi5Vwv/uW9WoMo3ylKJwnztTcTBG6mmDtmMVYh2tQUvM68uSkt96WPXLNh6HLuYSd8pCJ2ZCAMSgcrbPZWq1X77GoK98+HXBtw==;Y/RLhZo787R+f1KEjBIcJA=="
 ---
 

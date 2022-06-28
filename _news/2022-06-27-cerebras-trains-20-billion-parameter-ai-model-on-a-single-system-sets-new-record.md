@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "The maker of the world’s largest chip has made a major AI breakthrough"
-    excerpt: "Cerebras Systems, maker of the world’s largest processor, has broken the record for the most complex AI model trained using a single device. Using one CS-2 system, powered by the company’s wafer-sized chip (WSE-2),"
-    publishedDateTime: 2022-06-23T13:02:00Z
-    webUrl: "https://www.techradar.com/news/the-maker-of-the-worlds-largest-chip-has-made-an-huge-ai-breakthrough"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 64
   - title: "Cerebras CS-2 Wafer Scale Engine: The Largest and Most powerful GPU ever Made"
     excerpt: "The benefit for Cerebras is that by deploying a 20 billion-parameter NLP model in a single chip, it can lower its overhead in the cost of training thousands of GPUs, hardware, and scaling requirements."
     publishedDateTime: 2022-06-27T05:34:00Z

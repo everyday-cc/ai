@@ -101,6 +101,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Fintech provider signs Sciontec deal at The Spine"
+    excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
+    publishedDateTime: 2022-06-28T07:03:00Z
+    webUrl: "https://www.insidermedia.com/news/north-west/fintech-provider-signs-sciontec-deal-at-the-spine"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Spine2-40876-1621522090-%281%29-65271-1653038839-67832-1656398370.jpg"
+        width: 578
+        height: 325
+        isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
     excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"
     publishedDateTime: 2022-06-28T05:00:00Z

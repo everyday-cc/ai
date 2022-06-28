@@ -1,15 +1,19 @@
 ---
 category: news
 title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-excerpt: "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ..."
-publishedDateTime: 2022-06-21T09:30:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
+excerpt: "As the Official Technology Partner of The Championships for the past 33-years, IBM continues to accelerate innovation at Wimbledon and improve"
+publishedDateTime: 2022-06-21T05:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
 type: article
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -21,6 +25,6 @@ images:
     height: 258
     isCached: true
 
-secured: "vYPqPxlKfsne6dnVDGXSMvU47SGGsvKkCjBu6T4NQzknISMIx4OEssy5NxwIxLBvYHQx+E5XYxhjIMjPQQfqPRiv2k/tZo1ZPIHP5oyRQ2KirIgi+r4AUJ09IkYD+YUl8SyrgqDoK1zEgAY0grDzbJO1T9JPVHSufhKHo2ePLSBqbCXFeRE156/kZef8TIoTh9tzM5m58ESLZNFFKXaXBIZvIUE8D7dvZ1inOjHiUaO30eSKqQqG2yshpDESaY8EFEQaVFbZWwIZ4dn5i/Ux946PkOYfcN+NDTM9NSiA9jv3UqpBz5zZea35Eeyh9Q5xrWwQnkP4meEBvvLTRDZ+ioUCR0OZvSIf22by5YPyXLA=;L6poZHyjk54UFJZ1kfz33w=="
+secured: "OlbZaRy0sqnEub275HKn4UGj0+ahiUbN0ddOrafEL+H9+kKZ3y/Px7CgzOnTQ2uHXlptg5KMDVZxpsWcXyvJ0M/q7JyR4gvwZkxW4LGd1zGSsZpeMVpxO8584U9acWStkiisUXkulVsD//YGnxkRqlyShllHE96qw1rcP4PQPjUWyVuEITeYxNqkB+P17Bc2yQI+urW5VCbJ9KNrCuJ1upJaSKV5q3AP4AgOawvck0Si1Xgd6/7NCQ3FQQ2VmQhcFIjy7pPuImwsfWbGGN+cRgUoi8AAx9EKmKHa0zTFnMP0xSJemE+XpHNOlOYOre7rfL58bW+YrnRrsUzPkN1/0uvB9My2vdmDAgoBpJ1YtL8=;q4U5fGGJ2ld8crhIiJTLJg=="
 ---
 

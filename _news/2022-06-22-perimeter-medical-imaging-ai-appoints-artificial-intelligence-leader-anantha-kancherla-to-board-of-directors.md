@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
