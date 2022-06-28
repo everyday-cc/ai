@@ -30,6 +30,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "Face Recognition Device Market 2022 Size, Share, Growth Analysis, Development and Plans, Revenue, Sales, Key Segment and Forecast to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 27, 2022 (The Expresswire) -- Global “Face Recognition Device Market” research report 2022 provides specific segments by manufacturers, global growth trends ..."
+    publishedDateTime: 2022-06-27T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-size-share-growth-analysis-development-and-plans-revenue-sales-key-segment-and-forecast-to-2028-2022-06-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
   - title: "Natural Language Processing (NLP) Market Size 2022 Future Trends, Global Top Leaders, Growth Factors, Development Strategy, and Forecast till 2028"
     excerpt: "Natural Language Processing (NLP) market provides industry overview, segment by application, sales growth rate comparison by type, size estimates by region, competition by manufacturers ..."
     publishedDateTime: 2022-06-24T06:31:00Z

@@ -91,20 +91,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Microsoft to discontinue face recognition as it updates AI guidelines"
-    excerpt: "Amid the ongoing debate about the controversial use of facial recognition technology, Microsoft has announced it is retiring certain AI facial recognition capabilities."
-    publishedDateTime: 2022-06-23T06:51:00Z
-    webUrl: "https://www.computing.co.uk/news/4051693/microsoft-discontinue-recognition-updates-ai-guidelines"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 73
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/54e7d23/0c9dcc41-059c-4d39-b2cf-1816a5ac70c3/7/facial-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Facial recognition tool that identified emotions to be discontinued by Microsoft"
     excerpt: "The decision has been taken as part of Microsoft's 'Responsible AI Standard', a framework to guide how it builds AI systems."
     publishedDateTime: 2022-06-23T16:43:00Z
@@ -164,6 +150,6 @@ related:
         height: 600
         isCached: true
 
-secured: "VljWltM+lO/llQUpLl9bdxzZsc8G35rV8nNvON84EvG+vLjnP7CAkIsPr8TtHIOcyAPA158ztEd/wXmnidgkIcvJ/F4NySzs7wRlcJ0qVUpurIh58HS/McrkoBu6tU5w+ATXFyfdgLfR8N3TYD97PFyZJMCv47cnFHYuGAvrFTzxJux5UPQ3Z0UF5msMIo2YYBC6W+3sX7SnYJix0Hi6GJm3JBXGcKyQkQZYR2vV+Rp/iBFTOkFnqgDrqmwVbnjYfhyWBE+QlBIsqnqh0D7tDbdDMnmv4zrZKDKu7qW+ZVWo85K7U7YtvjneUsq1IySjiuPv7DyIPNe1H0aFVZDOJBpoCjmnI3UGjyh/6WvClZs=;ps/gS8Oek8fxklHAesODiA=="
+secured: "u/zlNrTW9ptaPw5cGk0GzAQ4fJjpiuEc0tDURxonVFZgc0dm5ae4pkNRoab8/WD3b1WOW0i4j2bMXP1LTkCfF471p2yxFNwM1PYZtEwldUTFb9kVAtmsJUXplv4H1q2l6Oj48GEDjikF/HKsRa9BFwGTAImlpxvAVSPIV0CcDkkxDZrQyuNnMP3arMK2ew8ENokEYSUWd/dViybbK8eIAJgBjDo7Fey+GmlHXbrgFk/DBVsa5q+xwqlHH406p9IZ7vpmniriGlGbtwZ9A7kUJSzjeT0n7tqBf7iqlXRNUx9XQ3SC/UBKHpaHcJfvPKj+4ECOgSnLx05WIaRnVEpQ6ZvE3+IbKOOcnvleDUl+hN6RT4zlQH1v4q8IHhsotjJDZ8I7pcmVsISWZVFV1LzantquRaGPFdVEDYp/KywoAnpHQCzYuhjyOkMRJ35weRCKNtuwhXdKRGQQyrWP3MlqfAW/1kPdHtegZstcckj8U8jtp3WiePrFQ5Kos0jhOQpUlDrTGssb8IpZ67q5jMAkvA==;kv77wTHdzbifsMIVpeVKeQ=="
 ---
 

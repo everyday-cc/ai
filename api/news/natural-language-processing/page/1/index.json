@@ -899,10 +899,10 @@
     {
       "path": "_news/2022-06-16-apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
       "title": "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ...",
+      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -910,13 +910,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27738170",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27738170",
-      "publishedDateTime": "2022-06-16T01:39:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1200,6 +1200,50 @@
       ]
     },
     {
+      "path": "_news/2022-06-14-devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india.md",
+      "title": "Devnagri – India’s first AI-powered translation engine as language partner at Assocham Fintech Festival India",
+      "excerpt": "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/",
+      "originalUrl": "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2022/06/anibs2022061405495820220614065826.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp",
+      "publishedDateTime": "2022-06-14T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-patent-application-titled-natural-language-processing-parsimonious-question-generator-published-online-uspto-20220164549-patent-application.md",
       "title": "Patent Application Titled “Natural Language Processing Parsimonious Question Generator” Published Online (USPTO 20220164549): Patent Application",
       "excerpt": "For a specified subject matter and with a natural language autonomous agent, the method generates a set of parsimonious questions. The set of parsimonious questions are based on a county ...",
@@ -1348,49 +1392,6 @@
         "Natural Language Processing",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-over-400-sc-verdicts-translated-until-covid-stalled-ai-project.md",
-      "title": "Over 400 SC verdicts translated, until Covid stalled AI project",
-      "excerpt": "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
-      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/06/supreme-court.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
-      "publishedDateTime": "2022-06-12T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

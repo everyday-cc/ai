@@ -2,26 +2,25 @@
 category: news
 title: "Instagram is testing AI that verifies your age with selfie scan"
 excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
-publishedDateTime: 2022-06-27T16:51:00Z
-originalUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-webUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-ampWebUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+publishedDateTime: 2022-06-27T16:55:00Z
+originalUrl: "https://abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+webUrl: "https://abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+ampWebUrl: "https://abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: NBC2
-  domain: nbc-2.com
+  name: ABC7
+  domain: abc-7.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://nbc-2.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
+  - url: "https://abc-7.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -45,15 +44,15 @@ related:
         isCached: true
   - title: "Instagram is testing AI that verifies your age with a selfie scan. It's not perfect"
     excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
-    publishedDateTime: 2022-06-27T16:33:00Z
-    webUrl: "https://edition.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
+    publishedDateTime: 2022-06-27T12:33:00Z
+    webUrl: "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220624020409-02-instagram-ai-age-estimation-face-scan-restricted-super-tease.jpg"
         width: 1100
@@ -209,6 +208,6 @@ related:
       domain: wwaytv3.com
     quality: 11
 
-secured: "23Gk6PxTi+vcoxr5/sb+JqRq6kcHI2E5UBvd35RlS4PNYp99gw/JOHrx3Z32Kg1ajo3lb1BNtqlvZ/G5+LIxFAAunlNoH0xMpPkkd9gH5zh3v/HOAvTui/sWF+SlqeLtL5i5ztZKJx19UFWOBwOI2qcstOYXOaF56vWPWnG6G41kDWWtNLNoduS2/LAhwa/B15HAnJIffok2H36HlL3YMJJUuvPTgNrTt+1NYNdKwxXXXzcD9t4zXrTHuubNzDqJKH3EiqsbHGch5lqPWGJLzfy3EI3kn1ZPetGXSi92EVqrU1Lf51zXJ8jP1zwkGlJx17Zm8QLdpIirRgtKPaowDIyP+Sv9kMXGRY2T/RZik11eLuaQCZWxVgGOSf0My6WrABNaRrNh1Mq+GKGtLA2gB0PlvducZIF8ni7wqhFxHwVsqx1Afucwf3U7WnDdk+iHm6FXkdlw8FcSSi3ha1FF9Ulx9aErT76GT684547sUZEHSJepDFUq8Wbt0xngyAL2Dz1UvRzRQ4cPRnuc++1Ocg==;0e91vQOhQrKaklnPRCx/zg=="
+secured: "Yy8Z7veJM/WSFhqAFc9gLC0Zr1tGp7aIf24UsWar0ZRRdgW4hh7kuJsEMDM+fca+S2bcd7n9jYdxvRRVt4X/yU3Ogn/37zQ05I7PuBHRlqHta1YEewKILf5uyvgjwxMDJpYR+eKilrQu3F6qRNe/P8qGRCgQx8mLLhoDHDAcdVsyuQ84UNUdSFQGHSoPfdZ4fi8HlOkoXhzKu6EWSzC5bs1l9xDkkA/0e8Zhk84gtZCEZT3yA19TFSGcUy7X02OvSfqtApOVmdHMNZSBSLLeZ65F4Gdthda4mZ2rT6OPAQ9Wj5xLnU3XSkfYCHzZN//JhJmyQRI/qvGJ98ZUO18VrgLI6wK557AeYHgkmRLtrAo=;rq+mdd3Hj1QaBFF5dxF3pA=="
 ---
 

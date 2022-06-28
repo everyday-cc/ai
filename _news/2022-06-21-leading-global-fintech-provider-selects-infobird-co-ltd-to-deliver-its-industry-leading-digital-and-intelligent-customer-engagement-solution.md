@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution"
-excerpt: "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider."
-publishedDateTime: 2022-06-21T15:37:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe"
+excerpt: "today announced that it has entered into a cooperation agreement with a leading global Fintech service provider. Under this agreement, Infobird will leverage its AI Chatbots and years of ..."
+publishedDateTime: 2022-06-21T15:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578"
+webUrl: "https://markets.businessinsider.com/news/stocks/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution-1031540578"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "9CDT/gppxlNjXP/ClM4mHVAWBHJNJaxJBrx6+8CXiR3UuIBKR/vHwDsE7tI2KA6DEgCPEiJiqIcfHTC4HkcYdvldxldbLelebNOW9gJbekL0ZrkEmG9YSVkj+VY0gqMWcx/TL7PeylPTvDOZxZ0NH2bvnK3681htKUksKOVcAlQEdX69TCTGWkvpWHpCP/dgTgNR6Rhtz77AFONEEFSKXTHEM0D2E6NFqV0x2lIpHkuIRckdlSzrhNo9pB3+NhIkszfY7pYkz2N/gx8KB9KFem2AGYsOjoNcV8MSr6bTTOrMO02ZQH7d+1Mb50bbs86u5O38Ggznem0kguRPCy5QA+rYtGJR+2TX0zsGUJESoF8=;5/BS2JNgjJ8s/J0ZPJhsow=="
+secured: "lMmkRryBgLd8FhEQBbxqGoOavHljKn+zIJcRn6hdcKv8zveZ6yeN3NWSXcMwdSRgA6UX5Y141Idz2au2z3WoIdOFIc7nIf9jtPVv1x7rXUUtyBvHVSZTuTQ09cyMIK4w93gcweoFE4QEA+/NnGNSDCn2UFU8ZC3BNqNLXXYCpTX4g7ym/FO1x64IM5M7fjvUxVCg06lweGl1/3SpOoYTYSSfY0o8cvqiXvq4M1gFt2AS9/rE37iQKabKSKFwEcB3eMxiY+oylYADn0LSl3WMBsQDob8EsVfFTViFYCjDuZMeiR5cHKiiOLLnefXZace0ApYn5mKKxLMj2RwGgvPOvR8Aok3u+ngXOoiJFL5nNtc=;A87ICJbrt7KGuQMJ2d706w=="
 ---
 

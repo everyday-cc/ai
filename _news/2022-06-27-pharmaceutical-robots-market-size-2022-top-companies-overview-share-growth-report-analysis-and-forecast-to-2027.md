@@ -23,29 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Construction Market Analysis 2022 With Top Leaders| Growth Opportunity with 31.1% CAGR, Share and Growth till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 23, 2022 (The Expresswire) -- Global Artificial Intelligence (AI) in Construction Market Analysis and Insights: Report on \"Artificial Intelligence (AI) in Construction ..."
-    publishedDateTime: 2022-06-23T06:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-analysis-2022-with-top-leaders-growth-opportunity-with-311-cagr-share-and-growth-till-2028-2022-06-23"
+  - title: "Artificial Intelligence In Healthcare Market Size, Share, Value, And Competitive Landscape - 2022-2031"
+    excerpt: "Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market' in its database of market research reports which provides its readers an in-depth analysis on the latest ..."
+    publishedDateTime: 2022-06-23T09:43:00Z
+    webUrl: "https://menafn.com/1104420041/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Value-And-Competitive-Landscape-2022-2031"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357951"
+        width: 394
+        height: 250
         isCached: true
-  - title: "Face Recognition Device Market 2022 Size, Share, Growth Analysis, Development and Plans, Revenue, Sales, Key Segment and Forecast to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 27, 2022 (The Expresswire) -- Global “Face Recognition Device Market” research report 2022 provides specific segments by manufacturers, global growth trends ..."
-    publishedDateTime: 2022-06-27T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-size-share-growth-analysis-development-and-plans-revenue-sales-key-segment-and-forecast-to-2028-2022-06-27"
+  - title: "Artificial Intelligence In Healthcare Market Research Report 2022, Size, Share, Trends And Forecast To 2027"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, June 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intell"
+    publishedDateTime: 2022-06-27T10:14:00Z
+    webUrl: "https://menafn.com/1104437488/Artificial-Intelligence-In-Healthcare-Market-Research-Report-2022-Size-Share-Trends-And-Forecast-To-2027"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/27/EP_00e02image_story.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "wZ+7/jHYo/NK05YJkwUTOZkmD1+v8+Ae+t33m2BGWpqNwinrsDRY59LragJWEZMHRCDf55Iyw2wtdjz5CkIDTN8LxZ+Ig4WvQYC2Mz6lfmiVBgQkqR4HJ6e86pHpRq/KQCVgGKZFunipBRG2ln+u0btXtZrHyMGuNrOSu3vbBxcaigPfBZAqmegBKEzwX6nr4W+SfyBlepOBMkjpcy/LnnRyjMzQ7bUvUPHnyvvmEgBZcz959wk4TG+oShbeGVlt0FPqwueodKj9i0oVwgC0Ce+FCYq8dNWsOpJMbM5mgv7DelWGNW2aFZqpv33oHizfkfM1iD7kvzPjJLoZdzXOqUNrRj7IdlzF5ldNVwFd+Nk=;rAhDir+C4mrNfAfYzXDs8g=="
 ---

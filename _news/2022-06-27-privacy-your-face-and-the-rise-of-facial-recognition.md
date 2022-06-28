@@ -25,31 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Private companies and public authorities are beginning to implement facial recognition technology, even without rules to govern what they can do."
-    publishedDateTime: 2022-06-27T02:32:00Z
-    webUrl: "https://theconversation.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
+  - title: "Smart Pet Door Uses Facial Recognition to Keep Critters Out"
+    excerpt: "Installing a pet door can make pet ownership less of a chore by eliminating the need to constantly have to let them outside for bathroom breaks and then back in again after, and the Petvation wants to make sure it’s only your dog or cat (or naked mole rat,"
+    publishedDateTime: 2022-06-27T23:10:00Z
+    webUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959"
+    ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
     images:
-      - url: "https://images.theconversation.com/files/471008/original/file-20220627-14-q7vf1z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=229&fit=crop"
-        width: 320
-        height: 229
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/a2c3710f56698b6fc0b31da2db224794.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
-    publishedDateTime: 2022-06-27T19:29:00Z
-    webUrl: "https://www.dailyexcelsior.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind/"
+  - title: "School security summit pushes object and facial recognition tech, leans on humans"
+    excerpt: "The discussion, billed as a school safety emergency summit and sponsored by AI vision vendor Oosto, was subdued with moments of stridency."
+    publishedDateTime: 2022-06-23T20:45:00Z
+    webUrl: "https://www.biometricupdate.com/202206/school-security-summit-pushes-object-and-facial-recognition-tech-leans-on-humans"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 16
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 51
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/23163748/school-scaled.jpg"
+        width: 2048
+        height: 1378
+        isCached: true
+  - title: "Russia uses its facial recognition system to show reporters who’s the boss"
+    excerpt: "A report by the pro-free press International Press Institute indicates that the government is following journalists critical of the Kremlin in Moscow."
+    publishedDateTime: 2022-06-24T21:37:00Z
+    webUrl: "https://www.biometricupdate.com/202206/russia-uses-its-facial-recognition-system-to-show-reporters-whos-the-boss"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11132055/surveillance-cctv-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
 
 secured: "DiHMhO7j4osesxGSyhByJOSn3FEwOf/aWLACh2iftHqIoddqgYfZ8sFt1jR8URqtuDg+GMhvWVUtxHS32pQCRz5xUXOTRPe339i1vmeGDvaM/Ro7fypL/QcxIkJRus+QCK8bBkNdeV28ePGcYduUvu01ar1VUf0ljsRqNJAfujc6lzeGU7TZaPrHxGnjwR8v4hO3SgzZENDpKWoNUXXSNTV0Qi8e96TfF0xHxcf7viz5DJput/sXx9UM/5MIwcDvnsOyK+rr2dU54gZdjMkCxPXejzlkGXEommcWHLAJlkRgG7CQRalM3+R9sOTPK8SQNiWVbBan/QhmBuXGqmBcuEekJAzYCLnYDrurIdq+Dyw=;PbQfkZX+JYOZjVs/dNKEOQ=="
 ---

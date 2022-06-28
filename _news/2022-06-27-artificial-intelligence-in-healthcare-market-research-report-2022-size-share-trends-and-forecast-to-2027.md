@@ -39,6 +39,15 @@ related:
         width: 394
         height: 250
         isCached: true
+  - title: "Pharmaceutical Robots Market Size 2022 Top Companies Overview, Share, Growth, Report Analysis and Forecast to 2027"
+    excerpt: "The global pharmaceutical robots market size reached a value of US$ 161.84 Million in 2021. Looking forward, IMARC Group expects the market to reach a value of US$ 305.01 Million by 2027, exhibiting a CAGR of 10."
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pharmaceutical-robots-market-size-2022-top-companies-overview-share-growth-report-analysis-and-forecast-to-2027-2022-06-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "sJKUxSW2g8CM5dWWuC3blpaIv24BmsSFk9rQtNWg2pq8odjRt3pLJNZw8wLaUDqhWsrewiL3k7Hf81mDBTKjcL4shhF9CdP2iSWbj+BhOdqcKQPxbOrTi+PVncuqdBrReyu6egLp+fJ6bGLmgxhPgAtTBfHQvZJSpUuRq+w1HUdV+seNzsTfowhKF2QvMono9oPV+eGvXTXI/fMQMUiQE6VeZxZkTJqHv3Ct5zZXWGoRE3rd4bevOFuI+D9YtZp5Metdd8ScJ96V/fJ8sVYo7L7V0jxOGgjnnUDMAs6YOWZeG3RDM4QXRqs9aY1Obqf27g4aTYVRdtAtRAFHXv9r1frccHmQ76uvy+8jDJBUX5VBv5zStyNzLpXM9nINOk1kaO2bysUeLY9Hr3ytbgvRAiprZOPYreRqwWx4NXWdJdEVZaftZhbM72Ng5O5XGhkQU1SiMP1FW4J6GPPaOBT378b4KFbFyP9hXVt6Ua108sw0d33QC4DNUz+JgenZAUcdKUv6OaSZv6hqUExYm55UcQ==;lP1Yd6LUTaAe1j78dKAUPg=="
 ---

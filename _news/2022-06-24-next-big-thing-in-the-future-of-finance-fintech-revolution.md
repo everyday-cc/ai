@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-t
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: India Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Powering fintech growth with mobile app marketing"
-    excerpt: "A dive deep into how fintech brands are leveraging mobile app marketing to connect and create a seamless experience for their customers."
-    publishedDateTime: 2022-06-23T06:21:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 61
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92403870,imgsize-55626,width-1200,height-628,overlay-etbrandequity/powering-fintech-growth-with-mobile-app-marketing.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How Are Fintech Companies Helping MSMEs Increase Customer Reach"
     excerpt: "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ..."
     publishedDateTime: 2022-06-27T05:51:00Z
@@ -96,6 +80,20 @@ related:
         width: 640
         height: 238
         isCached: true
+  - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
+    excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
+    publishedDateTime: 2022-06-27T06:47:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/digidoe-a-uk-based-fintech-launches-operations-in-qatar/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
   - title: "The future of fintech"
     excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
     publishedDateTime: 2022-06-27T08:14:00Z
@@ -133,6 +131,34 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 19
+  - title: "Global FinTech provider selects Infobird for its intelligent Customer Engagement Solution"
+    excerpt: "Infobird Co, a provider of AI-powered customer engagement solutions, announced has entered an agreement with a FinTech service"
+    publishedDateTime: 2022-06-23T07:02:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/global-fintech-provider-selects-infobird-for-its-intelligent-customer-engagement-solution/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 15
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
+  - title: "Financial Firms Are Investing More in Tech to Manage Increasingly Complex Regulatory Landscape"
+    excerpt: "According to SteelEye’s annual Compliance Health Check Report, more than half of U.S. firms (55%) plan to invest more in regulatory technology (RegTech) solutions over the next 12 months to cope with the growing compliance pressures in today’s increasingly complex regulatory and operational landscape."
+    publishedDateTime: 2022-06-23T11:43:00Z
+    webUrl: "https://www.monitordaily.com/news-posts/financial-firms-are-investing-more-in-tech-to-manage-increasingly-complex-regulatory-landscape/"
+    type: article
+    provider:
+      name: Monitordaily
+      domain: monitordaily.com
+    quality: 12
+    images:
+      - url: "https://www.monitordaily.com/wp-content/uploads/2015/12/shutterstock_243776701.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "5 Fintech companies looking to hire in Europe right now"
     excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
     publishedDateTime: 2022-06-24T12:38:00Z

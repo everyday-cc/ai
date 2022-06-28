@@ -34,6 +34,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "Face Recognition Device Market 2022 Size, Share, Growth Analysis, Development and Plans, Revenue, Sales, Key Segment and Forecast to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 27, 2022 (The Expresswire) -- Global “Face Recognition Device Market” research report 2022 provides specific segments by manufacturers, global growth trends ..."
+    publishedDateTime: 2022-06-27T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-size-share-growth-analysis-development-and-plans-revenue-sales-key-segment-and-forecast-to-2028-2022-06-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
   - title: "Speech and Voice Recognition Market worth $28.1..."
     excerpt: "In 2021, the consumer segment the largest share of the speech and voice recognition market. The growing requirement for mobile device and application authentication and the increasing use of voice ..."
     publishedDateTime: 2022-06-24T13:43:00Z

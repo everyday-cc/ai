@@ -35,19 +35,19 @@ related:
         width: 320
         height: 229
         isCached: true
-  - title: "Privacy, your face and the rise of facial recognition"
-    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
-    publishedDateTime: 2022-06-27T01:22:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
+  - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
+    excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."
+    publishedDateTime: 2022-06-27T22:16:00Z
+    webUrl: "https://www.biometricupdate.com/202206/proposed-facial-recognition-use-rules-for-irish-police-hits-resistance-among-slim-majority"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
     images:
-      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
-        width: 2000
-        height: 1125
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "gE8JX5c5IcTZkAQRkBpx1g9K9+z3UVc2Dpc2fX8RCkBwvtB9tXXCMi2ZTejOOpBPQVV9c0DZ8L4Rvjy6HgMDKj5BpJEQt10h/uT0Gw0/SC3UDWzaJKGmDYlhlxraFntIa+O98wYz+kzXu5ICLpGfumYEOPcQM6n4MJZOuY91xip6GMd9uADRcm+fCzc53jRkdCmqziIhNdRRDile7ACoz4KQ+6ZcbuQrs2z78+k2tZo2ukHeD8J27ebLnQlrNp6xwzsPL8TybwUEFt/oyOt51qRbVjqs5h0c+Ma4463RriQXjAr7S/rY9REeT8NJz47UpekFYVKtwnoTY8KlBvA/7UTRgh5gxbobEzEH+Pf3LcLmimkyXFWQpPs81cjf6Qb7OP2loL3BJHdZ0tWyRf7GL44sd/ytKyMJZL/15rVlrANFvBeIWeDeQHDgAp4jK9o9SKrk14IqjADMQFNFa4fmL1ENX0io6H5ZrLNmSW0dm2JASre8ojqMBiOhYla1f8fsjS/rWRY9MjH7DA12GzH/wQ==;+mCUuhsljzVbYN8Nsw0/mA=="

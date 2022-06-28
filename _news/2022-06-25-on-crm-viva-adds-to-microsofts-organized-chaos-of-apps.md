@@ -94,20 +94,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Microsoft to discontinue face recognition as it updates AI guidelines"
-    excerpt: "Amid the ongoing debate about the controversial use of facial recognition technology, Microsoft has announced it is retiring certain AI facial recognition capabilities."
-    publishedDateTime: 2022-06-23T06:51:00Z
-    webUrl: "https://www.computing.co.uk/news/4051693/microsoft-discontinue-recognition-updates-ai-guidelines"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 73
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/54e7d23/0c9dcc41-059c-4d39-b2cf-1816a5ac70c3/7/facial-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Facial recognition tool that identified emotions to be discontinued by Microsoft"
     excerpt: "The decision has been taken as part of Microsoft's 'Responsible AI Standard', a framework to guide how it builds AI systems."
     publishedDateTime: 2022-06-23T16:43:00Z
