@@ -50,22 +50,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Integrated adoption of AI, data utilisation strategy can add $500 bn to India’s GDP by 2025: Nasscom"
-    excerpt: "With a burgeoning number of STEM graduates and digital natives, India is one of the biggest talent hubs for AI, as per Nasscom"
-    publishedDateTime: 2022-06-23T09:31:00Z
-    webUrl: "https://www.thehindu.com/business/Industry/integrated-adoption-of-ai-data-utilisation-strategy-can-add-500-bn-to-indias-gdp-by-2025-nasscom/article65556681.ece"
-    ampWebUrl: "https://www.thehindu.com/business/Industry/integrated-adoption-of-ai-data-utilisation-strategy-can-add-500-bn-to-indias-gdp-by-2025-nasscom/article65556681.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/integrated-adoption-of-ai-data-utilisation-strategy-can-add-500-bn-to-indias-gdp-by-2025-nasscom/article65556681.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 42
-    images:
-      - url: "https://www.thehindu.com/business/Industry/p7sb3e/article53531387.ece/alternates/LANDSCAPE_615/NKV-AI"
-        width: 615
-        height: 383
-        isCached: true
   - title: "India's investments in AI to cross $880 mn by 2023: NASSCOM report"
     excerpt: "Investments in India's artificial intelligence (AI) capabilities are expanding at a CAGR of 31.8% and are expected to reach US$ 881 million by 2023, according to NASSCOM's most recent study on the AI Adoption Index."
     publishedDateTime: 2022-06-27T05:02:00Z

@@ -68,16 +68,16 @@ related:
   - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
     excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
     publishedDateTime: 2022-06-24T20:00:00Z
-    webUrl: "https://www.albanyherald.com/features/arts_entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_1e06e6d6-9801-5482-9407-ff805f016640.html"
+    webUrl: "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html"
     type: article
     provider:
-      name: Albany Herald
-      domain: albanyherald.com
+      name: Marietta Daily Journal
+      domain: mdjonline.com
     quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/custom/image/01b25422-d8d8-11e6-bb31-5378351eadac.jpg?resize=600%2C315"
+      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400"
         width: 600
-        height: 315
+        height: 400
         isCached: true
 
 secured: "dxI2iPw9ZbdUeByVe2dF75krYHWVhhPdk7IqN+JXqrl+gC9le7iM7uqx8dIlOljYq02tnA1F+4WLBiufA1pz+vFcBXXzKjTNwr7RikPzBbYCnmQcesgbpO1S72iOg6Fv6E+us5Eufsi3iJhkXbuWykOr1rn2FxrDRBYrk4sQIQcHM3ofpwr06qEBSty98RGuEJHqS8u0N0XzZAQY/KIxgBh1+2O1FvLT7kADYRC9vE6ApVRbINF7gM8bA4TvwNwq5OO7w/f3QBTgqa31cGQV7ErDlXHDn0JbRAh5YuqdddWuY6z6S71toP9aQZ0XoLJNPlqr9si8bGIcJRqD/6Gb7tabin3uD+BBtU7E6W53ZKz8TLu6U7JhlVCyhaTQPl7gagKiroGTbP8ydbvqhtWcAIHbKoLKwwFTua0GXq5qRqwTYF6aMRRE4W60VfKP2swT3gPXFoiXvtwKhsxxF8Ig6359652p3KeQU5qNVB5U0tf7BGeAj+tZS5ncDr2xg3jCagvmP9jyE4GePYClUhKRFQ==;fsVwO9ZJT6AyfofPz+b/GQ=="

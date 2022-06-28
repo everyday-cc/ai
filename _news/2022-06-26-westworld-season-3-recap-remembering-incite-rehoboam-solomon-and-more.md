@@ -60,16 +60,16 @@ related:
   - title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
     excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
     publishedDateTime: 2022-06-24T20:00:00Z
-    webUrl: "https://www.albanyherald.com/features/arts_entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_1e06e6d6-9801-5482-9407-ff805f016640.html"
+    webUrl: "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html"
     type: article
     provider:
-      name: Albany Herald
-      domain: albanyherald.com
+      name: Marietta Daily Journal
+      domain: mdjonline.com
     quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/custom/image/01b25422-d8d8-11e6-bb31-5378351eadac.jpg?resize=600%2C315"
+      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400"
         width: 600
-        height: 315
+        height: 400
         isCached: true
   - title: "We watched Westworld season 3 so you don’t have to"
     excerpt: "You’ve just watched the trailer for Westworld season 4, which premieres on HBO Max this Sunday. You feel a strange mix of emotions: anticipation, curiosity, bu"

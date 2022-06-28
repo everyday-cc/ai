@@ -7,8 +7,8 @@ originalUrl: "https://www.retailtouchpoints.com/blog/what-role-can-computer-visi
 webUrl: "https://www.retailtouchpoints.com/blog/what-role-can-computer-vision-and-ai-play-in-loss-prevention"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Retail TouchPoints
@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "China Daily: Vision China event focuses on role of emerging intelligent tech"
-    excerpt: "Emerging intelligent technologies, represented by information technology and artificial intelligence, are expected to play a bigger role in promoting industrial upgrading and a new wave of globalization, and more efforts should be made to bolster ..."
-    publishedDateTime: 2022-06-24T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27846848/china-daily-vision-china-event-focuses-on-role-of-emerging-intelligent-tech"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27846848"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27846848"
+  - title: "Can AI really help bring in diversity and inclusion?"
+    excerpt: "AI programs have been used in a number of fields. However, it wasn't until 2017 that \"AI in Hiring\" became the industry buzzword, driving several conferences, blogs, papers, and podcasts that ..."
+    publishedDateTime: 2022-06-28T03:01:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/can-ai-really-help-bring-in-diversity-and-inclusion/92506942"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/can-ai-really-help-bring-in-diversity-and-inclusion/92506942"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/can-ai-really-help-bring-in-diversity-and-inclusion/92506942"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/1847282/China_Daily_Vision.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Huawei Announces New Inventions That Will Revolutionize AI, 5G, and User Experience Company discloses progress in IP, innovation at themed event"
-    excerpt: "Huawei announced a batch of key inventions as part of its biennial \"Top Ten Inventions\" Awards at the \"Broadening the Innovation Landscape 2022\" forum held at its Shenzhen headquarters."
-    publishedDateTime: 2022-06-26T17:07:00Z
-    webUrl: "https://www.techjuice.pk/huawei-announces-new-inventions-that-will-revolutionize-ai-5g-and-user-experience-company-discloses-progress-in-ip-innovation-at-themed-event/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 0
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2022/06/huawei.png"
-        width: 560
-        height: 438
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92506942,imgsize-22134,width-1200,height-628,overlay-etcio/can-ai-really-help-bring-in-diversity-and-inclusion.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "o8HqN3NrgkJ+wH5S+Pwc2iM7y602/F9Kbr8RdWsWP4mqaDjN2UcHZ9HQ44xelesQbBNZFQaa/l0nguBVZcKBee1MYc3j1lV88ujKdU2jkUEEd38NjHCe+k3PqAjKwJm0bE71LPO5LfG47rdWBXKd2CYCARNXCHZFjnZWKcxbHzqnwvE7eZPYAJsOybzjTbDsfPFlh5liiBxNdIPVo9tSPPTdby7rZY2x24TRs/PFBsRuKQZdcfghYst62jX1QyRk1Gy4FQS7/k8Dlxawz5LFwJKGUaZ0IKnhjzHWUzrt7vyjP9vDVbhNR7CKvpFSrnJi/2YwBM5Yq/keQpa3U7xvr1xHugWb/PVX80wY3TkrwHJo71TgVPmF24aPVLib53Eq53KSx2JLSBtRZju+Aa6ouMl8zlSGtoXeiHYQBPALeHdzkMNl7WpVxwk5DBukeoKaoARuxqKZ4T/E19VxE2YeqyD+WsR+SsYIDO3iywdWUtk6mf5W+BC0eoYCZN04k6LEWfDnIfYkAJlnIkoz38799A==;OAIKRhkuyn8vV0meaPCD8A=="

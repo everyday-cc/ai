@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "What Role Can Computer Vision and AI Play in Loss Prevention?"
-    excerpt: "Reduce Checkout Fraud with Computer Vision and AI As a result of these increasing challenges, retailers are investing in new technologies to combat retail shrink with better loss prevention solutions at the front of the store. There are new solutions ..."
-    publishedDateTime: 2022-06-24T11:43:00Z
-    webUrl: "https://www.retailtouchpoints.com/blog/what-role-can-computer-vision-and-ai-play-in-loss-prevention"
+  - title: "New unified Qualcomm AI stack portfolio revolutionises developer access and extends AI leadership across the connected intelligent edge"
+    excerpt: "Qualcomm Technologies, Inc. has announced the Qualcomm AI Stack portfolio, accelerating the company’s leadership in artificial intelligence (AI) and the Connected Intelligent Edge. Combining and improving its best-in-class AI software offerings,"
+    publishedDateTime: 2022-06-26T09:39:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/new-unified-qualcomm-ai-stack-portfolio-revolutionises-developer-access-and-extends-ai-leadership-across-the-connected-intelligent-edge.html"
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 54
+      name: ITWire
+      domain: itwire.com
+    quality: 5
     images:
-      - url: "https://www.retailtouchpoints.com/wp-content/uploads/2022/06/VP_blog_DeepNorth.jpg"
-        width: 1680
-        height: 945
-        isCached: true
-  - title: "China Daily: Vision China event focuses on role of emerging intelligent tech"
-    excerpt: "Emerging intelligent technologies, represented by information technology and artificial intelligence, are expected to play a bigger role in promoting industrial upgrading and a new wave of globalization, and more efforts should be made to bolster ..."
-    publishedDateTime: 2022-06-24T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27846848/china-daily-vision-china-event-focuses-on-role-of-emerging-intelligent-tech"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27846848"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27846848"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1847282/China_Daily_Vision.jpg"
-        width: 400
-        height: 267
+      - url: "https://itwire.com/images/20220509-ITWire-300x250-may22-3.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "Mv/6lHMa4XuNdydGN9Qd74VwdNlAYNxuMR3rzhSN8ChbI9rYETRPZFFmEaQ9PD3fIe+Vfj2bTH6/bYpfKkvaXCGgNwE4cSTX0CNIniywXQqZ2ovW6712qUbmL1xmbjRBfFjjrFUmW/yTV9dwrlTOmlHt2GFKpQn9wSF/PS58T76XXk8is30VBqcLHhzk/8xDNsHrdow90bIg+nbedYzRFhRrHNOFXO1OEX0zb9xV8bZe+hLFTcE9mpaxmLxg8JKOhPPRv2nWuglqpgJf82YMj30plEaLSZK6+Ybw6b/cxFGJ37CFAFyC//a00SM1oFHEEthhgLEt2Lb4Oidz1rjSEEpP7d1xF/jHCmgIDj+2rzE=;G8gTaQpxbCxgkMbnyN6Ogg=="

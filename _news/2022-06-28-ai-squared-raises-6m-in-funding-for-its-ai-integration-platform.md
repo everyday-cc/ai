@@ -34,19 +34,14 @@ related:
       domain: techcrunch.com
     quality: 43
   - title: "Breakthrough AI Integration Platform AI Squared Raises $6 Million Seed Financing led by NEA and Ridgeline Partners"
-    excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI Squared, the low-code AI integration platform, today announced it has raised $6 million Seed financing by global venture capital firm NEA with participation from Ridgeline Partners."
-    publishedDateTime: 2022-06-27T15:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-venture-capital-artificial-intelligence-c1de2afaf5415e87fe852f1b33642f32"
+    excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI"
+    publishedDateTime: 2022-06-27T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/breakthrough-ai-integration-platform-ai-squared-raises-6-million-seed-financing-led-by-nea-and-ridgeline-partners-1031552254"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
 
 secured: "+S/O6+tEbwMS0nz6y7JxtlHi8hyB3vmyCxA9Y+bMewCPRQOXo3bNI2JtjJsriD1MtC9NmRtivAeAlmOiSeXKK2lEmXGP0eozTf7J1Ffh2dmC2F4M/9Rhi7Bej/J5B4/11cGQy/7OBEtYsF5hZD3CN3T3L7kEH8A7EUOJJ1lTbzLouzFmdjgupdbZFUNn8uuUJRxsNMwxlzbaduxRMPLhccXBw5qm6RDIjGTdRdZou7GPPAlQUNrw5CIfNOcemJdYjgnRImPuu5Njwx1Htn3w8GwuX/2umKz+XWVaFH5YrBdZCtdV3rWN/pleR5iEIaLbZrQTncfz04Re3PT/h62u0upy3lehni3UouJYbbh7eXCZNehsECRMi1NpVFe46xiMzybGAecnx+ZP1G0kXAMrUOTMT2BMJBgjCMXwuDLBB2Ri7CM4Ryot7avajsY0OFQ+8vOGjBNZq99cP1WaYm8Q26vb0J4XqCPRQdBgNkDWO30RS4LGsBC9DpySRenIivSSMWTT0jJQ/uiWCGpQTnvnZA==;YUZWXa98StvZt6iCxygWQw=="
 ---

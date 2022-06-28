@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/subject-matter-areas/information-technology
 webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/dod-releases-responsible-artificial-intelligence-strategy-and-implementation-pathway/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Pentagon Launches Strategy for Responsible AI Implementation; Kathleen Hicks Quoted"
-    excerpt: "The Responsible Artificial Intelligence Strategy and Implementation Pathway lists proposed actions to promote responsible AI use across the department based on six foundational tenets: RAI governance; warfighter trust; AI product and acquisition lifecycle ..."
-    publishedDateTime: 2022-06-23T09:30:00Z
-    webUrl: "https://www.govconwire.com/2022/06/pentagon-launches-strategy-for-responsible-ai-implementation/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 31
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2022/06/unnamed-file-111.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "LTN2Q+OndHHtuywfcpsFxQfbgrOTHC9PTdnd9myArD1FfsB76WG5y6INYqpvf67ObB1FVfAaxcbQN9iPu4HbB+S+N+/fMbvBjFpu2ZqAuCosWgDs3Si7b7Zn1dIMrnPg8m9JaajBA34H19yBgxkM5rWy3iAUEYTDGCmHz3spNhs3pyPZCFef53ipl9v+ucrPF5TgYhXiRYB+RT8M+OV+qgT8AJFqXi9gtcj0vWUa6PTA7HKtT8ThGIRryq10ITMHMZ/aSE9fxH0BOx1Q6fJz0TkNlXF/jGVVA8+hDyJpgZWmvIAntFwsHKwCHkbPojy8qCBs6EM1fehWLOIDRc9jzETzQH+kMPIP/S8HIbatWqvpT1iLFtwTTsH2cU2B3DhOFnviea0aR6hREY+wGNfbgf5PKHAZwYHBa6wAaBB8nauctRYIXU8SCP3ao7CEzZGk0kNGdYK6EBC01L5++lPhcVIDFiPo2Vgpo/wcZdBRQ3WDibVrQAiffTPZgwmwzjIYJUaxdjBoWFBEwgAaaqn/Iw==;6lcn4P1bImirWjxDwVYmSA=="
 ---

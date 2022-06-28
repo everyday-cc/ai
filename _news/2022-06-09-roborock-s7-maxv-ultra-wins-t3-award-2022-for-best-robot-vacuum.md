@@ -2,14 +2,14 @@
 category: news
 title: "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum"
 excerpt: "Considering the tough competition amongst its robovac peers, it's clear that the advanced object recognition technology, customized cleaning options and performance in cleaning hard floors and ..."
-publishedDateTime: 2022-06-09T13:36:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220609CN84169/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220609CN84169/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum/"
+publishedDateTime: 2022-06-09T13:25:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220609CN84169/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220609CN84169/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum/"
 type: article
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Computer Vision
@@ -22,6 +22,6 @@ images:
     height: 267
     isCached: true
 
-secured: "nwFq8is+TGKxc5yLKVkiLAAUkNJXNVEbZVswEtcpMG4oy3PXY1KOzhPjWwTjCKnjoZjsj27c+mu3IXxp5Jm66voxkW8tBUX1XMJGDZqI3vIYt153oxHqIRGVPe6ZyaMqWXVUzyRoHOk1FaupwJuh9+maNq89k/UA67647ndo6yVVZwNMWxjlSWeysAlPiNNLM+XuW7uP6PU9JY6wGwh6CSHxovunufwaFHzIZV1sac22kWdOkWJbAmguqGRYW+/z09f+sRpAGs1UExfnh/DdkBiHuYB1FwZOVPQP0Omh8/qCOf+XsMc7oPz9766HSxR3WajBTGVYcAIEobXsDBrOxTmpNeQ2ZT8zE6KDX7zTN78=;r4w69mjbEGJ+4Ou4NHPB0Q=="
+secured: "DbjgDf6ydiv4mkfv7YVYxY9dANVXL9B/DLH+SGKms0x5JsSIIH/Xrpt/GNjcipezmPGOvQxcIGY+gYYYDk2qPhpWccbRp0tOUNx0ExuGZfkMhCHB7N2eKOr5fKfcjiFPYwG9OCncVgHR1Go30h/oGQFKACq7soeV0aAXN4gJtFoMELDWlkwL2ddCxmiheyirXTfXDnKFBCnODA2t85FIG01Aeb1ntpFauq3Pbo2Ty59otaO3bESwnzvltDO7xCzxQ7AEhAnjcI2G9Yd0rfyyBBSY3ZrmaTbsCAqx/8p6D+7nDPARDXh845ZUbx4fhyirTGco4ihKUJHAyglOQaD/2JUZ7dXQraroKaMWtNHjJBo=;xd6udU/VJoQE737v1jYL/A=="
 ---
 

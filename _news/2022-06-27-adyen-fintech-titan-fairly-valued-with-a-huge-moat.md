@@ -64,22 +64,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
-  - title: "What industry-driven fintech skills are a need of the hour for aspirants"
-    excerpt: "FinTech is a phenomenon that has been speeding the pace of change at a remarkable rate and redefining the industry’s status quo at the convergence of business and innovation. It’s hard to envision a"
-    publishedDateTime: 2022-06-23T10:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/what-industry-driven-fintech-skills-are-a-need-of-the-hour-for-aspirants/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/what-industry-driven-fintech-skills-are-a-need-of-the-hour-for-aspirants/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/what-industry-driven-fintech-skills-are-a-need-of-the-hour-for-aspirants/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-2-6.png"
-        width: 283
-        height: 242
-        isCached: true
   - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
     excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
     publishedDateTime: 2022-06-27T06:47:00Z
