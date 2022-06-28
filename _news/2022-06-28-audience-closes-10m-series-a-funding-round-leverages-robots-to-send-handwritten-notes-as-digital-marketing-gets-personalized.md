@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T11:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-miami-403eabc1ac714a8f9b5d7df1af544690"
 webUrl: "https://apnews.com/press-release/business-wire/technology-miami-403eabc1ac714a8f9b5d7df1af544690"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Associated Press

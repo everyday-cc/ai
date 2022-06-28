@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-
 webUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html"
 type: article
 quality: 78
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -45,6 +45,24 @@ related:
         width: 1920
         height: 1390
         isCached: true
+  - title: "Partially paralyzed man maneuvers a pair of robotic prostheses to feed himself"
+    excerpt: "Two robotic arms – a fork in one hand, a knife in the other – flank a seated man, who sits in front of a table, with a piece of cake on a plate."
+    publishedDateTime: 2022-06-28T12:55:00Z
+    webUrl: "https://www.news-medical.net/news/20220628/Partially-paralyzed-man-maneuvers-a-pair-of-robotic-prostheses-to-feed-himself.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 30
+  - title: "Smart Robotic Arms can Help Partially Paralyzed Man Feed Himself"
+    excerpt: "A partially paralyzed man manages to feed himself with a help of robotic arms using brain-machine interface (BMI). The findings of the study are published in the journal Frontiers in Neurorobotics . Two robotic arms - a fork in one hand,"
+    publishedDateTime: 2022-06-28T13:57:00Z
+    webUrl: "https://www.medindia.net/news/smart-robotic-arms-can-help-partially-paralyzed-man-feed-himself-207751-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 19
 
 secured: "pmIWh+Frz1/UK3T7ooef7g6V/sfc6pwlbJh+O+5THndKF14u4dGYBIppkG4Y/GkGJbevTd1V5BkmqbqdAnVj7yOo9VV0Mi7lVOB7TisEbbQRap3xfHDUPpE/Tkrqbne5xBRS1S69QyJqkWXS09t3s8Q3CYgQdCB+vo23vhlFf+UMyyNGrIVmXCOlSG8Dm/zx8fPmiKIgL1DnxoC8LIHg4gX6GHWRmozhitYZcZUNviG1hT9HFzzQHsanoIephDiDWgUPTKngb2zfbifasQEoEt6j/4Hu8MHN8+bbIhDlruFtXVc5b6TX3OEZxeMv2Pn59sQdZ7kMdz5dMWTsQAzuFY91SgmxP93ShHzgJZfklFU=;4/1L10iqYpW487GAQb1TKg=="
 ---

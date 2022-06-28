@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T12:03:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-health-california-b857133f55c966e5d840b5cc76b561bf"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-politics-health-california-b857133f55c966e5d840b5cc76b561bf"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

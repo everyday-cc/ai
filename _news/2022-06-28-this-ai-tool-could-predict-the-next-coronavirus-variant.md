@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T12:23:00Z
 originalUrl: "https://www.scientificamerican.com/article/this-ai-tool-could-predict-the-next-coronavirus-variant/"
 webUrl: "https://www.scientificamerican.com/article/this-ai-tool-could-predict-the-next-coronavirus-variant/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Scientific American

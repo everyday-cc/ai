@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T11:07:00Z
 originalUrl: "https://www.asiaone.com/business/new-hope-ivf-patients-global-study-published-human-reproduction-shows-ai-can-effectively"
 webUrl: "https://www.asiaone.com/business/new-hope-ivf-patients-global-study-published-human-reproduction-shows-ai-can-effectively"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Asia One

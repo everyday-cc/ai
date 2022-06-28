@@ -1,20 +1,20 @@
 ---
 category: news
 title: "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces"
-excerpt: "The embedded GPU also adds value for its advanced AI inference execution processing capabilities, which clock in nearly six-times faster than what is possible with Cortex-A53 processor-equipped ..."
-publishedDateTime: 2022-06-21T06:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-"
+excerpt: "Ideal for automation, smart buildings, network cameras, and IoT devices, SolidRun RZ/G2 SOMs combine a powerful MPU, GPU, extended ECC, Ethernet, and offer long-term Linux software support NUREMBERG,"
+publishedDateTime: 2022-06-21T07:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/21/9624814.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/21/9624814.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "d548hTLFYraWd9YW24k5YiEgnCid/4DQ9zUecpRgsnS9rkkq0+6IAKuzON1gfF5c09I5L+QB8gfD9sRXkpAy0xXQGXtM4krb47qjOHmp077eSXsq40PeLhRpDEGuad43Y7Gi9x1R3JG08zBMjJNDXNI2vJKCqwmgBA07bw2oJSsHqaDLkYeZ44jZY+MS3QX4T94wy5SOJkDg/M41IrCGXHbxcmYjGHdO/VpbUbwBQ+e9fG/Rq1h/Igu3xY3ihBdjKk+6wFniYnrNtTpSq+RFJwCsQTEn5+XkBTYGKOznyVZs0enzy/FP8t9GGK0g+oSf5+gDyR2xoLGGOCQ4UCn4mGSbyw6ps2aPuf20I1mHZjE=;+NN4nkZb8QrVnbdjBdjAqw=="
+secured: "MJpokSn61h1l1hdvW6gYcYAIMAFI1UXnHj57anY/GVrELyhn/c660PMB+rIFmidzrKNagNHNkEWRkOxN/b8SLyZZ5yiump7jNb1vpJ0S3XwBNr3wJVPB5AkogRNg4v/h8+vIv8jhgzvuptYpV0Mkc7qtoN7kdEVG/flkvXtTKbgCgzemxr5R9ZJCFkH7wgcyjwp5yaZIbFqOHTQFUWoRdMH0MJ/qlSrJbvmCE/sl/0LRHZsN7F/M0cD5bnwvU7AoUJ9526DEDs72P32Bgv0fY8+Nw6vlP0x8AVfjbZysW9EPSvnmKW6btJ6K3NkkR7MuA7rJxyLFmSrH58yCYtXQKj7zSnwVzDUdjr9X6cwbE1w=;IxsAbc9DNiYJpyHW+7w0lw=="
 ---
 

@@ -49,6 +49,15 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 2
+  - title: "Google's powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
+    excerpt: "When you read a sentence like \"This is my story...,\" your past experience tells you that it's written by a thinking, feeling human. And, in this case, there is indeed a human typing these words: [Hi,"
+    publishedDateTime: 2022-06-28T12:59:00Z
+    webUrl: "https://techxplore.com/news/2022-06-google-powerful-ai-spotlights-human.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 2
 
 secured: "7Br3fa+8+sCpi6vStUekBSPTGruE8dqFNm7XrpQgSTkbbqkeQnF5+vbEqRuW+U1JhODpg2Jc0z6ev/QUO78ngwaI7ifFYDNammfC6UmVrfMUMkDZZlU1E9NYy5FIX4uJYIbpF1DYhhspLZJxDGjtW1/IHgkAOeNaDPbTKMQklOZWAz1A8wlgL7t7o8fitGmpP4V4jouyWeq24ZuACCFaaktCmI6bQGshggJf6lp0Y8xyrTwn0K13GzjL/1HR5pfXLLzxfSolH0vCh+43mIYvcmumm+Vs4/MK7yZdOzHD1YLFc2X3ZeS2I4/GkCw842og+dE2QNusftv4BmsR2GO3rZ6sLww0XGgELB2mewrqUQc=;7vSQkOGapmUUsz7U36FbtA=="
 ---

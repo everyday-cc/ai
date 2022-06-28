@@ -42,6 +42,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Artificial Intelligence’s Environmental Costs and Promise"
+    excerpt: "Artificial intelligence has been cited as a potential tool for combatting climate change. Technology companies, however, need to do more to prevent AI from becoming a source of environmental"
+    publishedDateTime: 2022-06-28T15:30:00Z
+    webUrl: "https://www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise"
+    ampWebUrl: "https://www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise?amp"
+    cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise?amp"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 57
+    images:
+      - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/06/elonmusk_red_0.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "6S69TEIKjvTbLbW+G9BrvDJTt6FblIieU0Js8+5L1l1XvO/QX6lbbDPsf80931ctjJzcV9voRboJFTjBdHdViLI3B0Tqum6k7ctLS+3thc0EN8VnlRTdslvukSr+yw0Y0JHuqrV1gAAGPmhZ4dfjcaVa072UjFhxBNTlSgMNooRUztWBTuH+gvK+b9n0SepxtRpA4xh28KJzYRm9qNEA3mYY6mXZ4iG8l+qkaBYJZPI9FZnyHvnRryBD0NKJqHw9kwuzw9xkv2DwSbGgGOGhOiZpLuPYiqP675im09hgPdGX8crkxd4ss564WiN/vLMHi4QeC//3HlAfmFzsgGBGj+f/3vDwp+qFl11jIxP37FQ=;7/FHPprgem+AhyxMznexxg=="
 ---

@@ -115,6 +115,20 @@ related:
         width: 578
         height: 325
         isCached: true
+  - title: "Constrafor Builds Construction Financial Automation Around Fintech Solution"
+    excerpt: "This construction software vendor is starting with a fintech proposition for advance payment loans and building operations software around it."
+    publishedDateTime: 2022-06-28T14:16:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/apps/article/22301532/construction-fintech-comes-first-in-constrafor-software-product"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 22
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/06/coi_bi.62bb086697426.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 996
+        height: 641
+        isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
     excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"
     publishedDateTime: 2022-06-28T05:00:00Z

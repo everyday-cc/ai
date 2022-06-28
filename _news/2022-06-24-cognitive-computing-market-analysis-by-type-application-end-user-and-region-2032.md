@@ -56,6 +56,15 @@ related:
         width: 666
         height: 350
         isCached: true
+  - title: "Global Industrial Robot Market Report 2022: Industry Set to Reach $61.09 Billion by 2026 - ResearchAndMarkets.com"
+    excerpt: "Analysis By Industry, By Type, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2026” report has been added to ResearchAndMarkets.com’s offering. The global industrial robot market in 2021 was valued at US$33."
+    publishedDateTime: 2022-06-28T11:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-715506a4e9154d4986cbec51aa69a0d0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "ORq8i7uo5pdWid8scWiHHYIam+VLNYscOr5gma6diEH0szTZZ5fVuyC0I3CwF+oJn4cDzg8d97i4Tikdbv9AEa06mmkcJj0FKRLvt3CVh6TWDlVZEIFkgNUELs2UZ9jz8euXE0Z8ktSipXzf6KbNX6C0C1KwvWUgPaLpd+rmi6Wd8exY2czvv/Paqh8wuQp2O4+Ucn/vLoiX4qSx3WjwLTVaIMZR1Rujzl+97d7c3W3grmh6JvIBUL9RqgI4IG0YeGX8aQCqpP5Pv/tQFCi0YLmd1dN1aFQL3msHzUyYj/xDtT3w90AhmkBeK4kynof2FKiWGZPTToVV7dN70m4lFGiFdYrQM48t1fJqe0aKSKI=;8rd27HKx2G1Dpgt90Md+qw=="
 ---

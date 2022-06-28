@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/meta-builds
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-builds-ai-models-for-realistic-sound-experience-in-vr-environments-122062700299_1.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Standard
@@ -41,6 +41,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-92485176,imgsize-42178,width-1200,height-628,overlay-etcio/meta-builds-ai-models-that-provide-realistic-sounds-in-vr-settings.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Artificial Intelligence’s Environmental Costs and Promise"
+    excerpt: "Artificial intelligence has been cited as a potential tool for combatting climate change. Technology companies, however, need to do more to prevent AI from becoming a source of environmental"
+    publishedDateTime: 2022-06-28T15:30:00Z
+    webUrl: "https://www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise"
+    ampWebUrl: "https://www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise?amp"
+    cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise?amp"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 57
+    images:
+      - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/06/elonmusk_red_0.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "Rp2yfd0nsATiJV9dd8un0AC/GxUV1ZpChEVsiDsycBrgAaqkjcwXo4fZ4BgKfDcj9Ix1cIre1TDtrIxeHVbb3XHUt69XTFrfcybzj+g/Hnbo8J4qYOYv3gBkMPoyFkiMdfsyD1FldpCUmih9j9au4i79FSCUlbMwC9OAGtZkPlLr/B7SWLgpaTNIlGzG9CNH6vjxmBT7kce02Yk12jm85R8SejctNlQQeHmanrn3lNwOwNKL8mTgO5aU5p5/ZO/AyUMEhU8qN7WcyMYGy/oHdKOplp57hBUsscrnKyUkHiyIHNv46B9vSGBfqK76lQ2yRH0Ssfyd1I7fuwOwfn7Qvj+1J3uQBJTIl/odcIQVkDY=;sHrL62yE9tEflyv1WKGCmA=="

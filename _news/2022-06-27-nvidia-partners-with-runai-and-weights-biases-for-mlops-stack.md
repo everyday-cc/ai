@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Weights & Biases and Run:ai Make Business Alliance to Enhance ML Developer Workflow"
+    excerpt: "Weights & Biases (W&B), and Run:ai, the leader in compute orchestration for AI workloads, have announced a joint partnership."
+    publishedDateTime: 2022-06-28T09:53:00Z
+    webUrl: "https://enterprisetalk.com/news/weights-biases-and-runai-make-business-alliance-to-enhance-ml-developer-workflow/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 30
   - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
     excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
     publishedDateTime: 2022-06-27T18:08:00Z

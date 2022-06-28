@@ -47,6 +47,15 @@ related:
         width: 1390
         height: 800
         isCached: true
+  - title: "AI Squared raises USD 6M in funding for its AI integration platform"
+    excerpt: "AI Squared Inc., an AI startup, has announced that it has raiused a USD 6 million seed funding round from NEA and Ridgeline Partners."
+    publishedDateTime: 2022-06-28T12:30:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-squared-raises-usd-6m-in-funding-for-its-ai-integration-platform/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 17
 
 secured: "gyCFexphdzK+ekHz1S7hDpccwvQ64bGe07yD66cpDeckieXSjFPl6rA01vuk4KR0Ej7YHDgxrtzu24ZqJ9imXDYzvxUbyjZFNtsXICoGYx1ioI2nqqNBcqr6hWRINLNyWVTVfIqsEEnWxsJLuxeMrTsuJB6OG/5s6ySGC7MRwPN3RE9vlJNjyNd4+6dvIEFlsLbH5MP8oJ2WvvoV/q0SB78iUvzIt/p8yBcjW8XK20kFztSx1PyMxzm15Lbnxp7j3VrohkFs61iE6+M7BGqcmLJRza04L3lGEcndYPnBEn0bVxy7F32nTVKWXXhTzf2IpdodZ4smFAZT6ECj5YrYMXJ8Rq2WpyKCsqHBgxCRsMU=;ZFvJ1IrRG9L1rPWdz5inZw=="
 ---

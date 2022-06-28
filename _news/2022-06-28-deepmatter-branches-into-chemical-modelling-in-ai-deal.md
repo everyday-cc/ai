@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T13:46:00Z
 originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/986050/deepmatter-branches-into-chemical-modelling-in-ai-deal-986050.html"
 webUrl: "https://www.proactiveinvestors.co.uk/companies/news/986050/deepmatter-branches-into-chemical-modelling-in-ai-deal-986050.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Proactive Investors

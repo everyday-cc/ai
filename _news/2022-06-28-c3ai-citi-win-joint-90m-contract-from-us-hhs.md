@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T13:38:00Z
 originalUrl: "https://seekingalpha.com/news/3852459-c3ai-citi-win-joint-90m-contract-from-us-hhs"
 webUrl: "https://seekingalpha.com/news/3852459-c3ai-citi-win-joint-90m-contract-from-us-hhs"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Seeking Alpha

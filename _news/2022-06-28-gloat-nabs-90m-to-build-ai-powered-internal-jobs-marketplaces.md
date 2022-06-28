@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T13:14:00Z
 originalUrl: "https://techcrunch.com/2022/06/28/gloat-nabs-90m-to-build-ai-powered-internal-jobs-marketplaces/"
 webUrl: "https://techcrunch.com/2022/06/28/gloat-nabs-90m-to-build-ai-powered-internal-jobs-marketplaces/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

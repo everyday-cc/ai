@@ -43,17 +43,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Instagram Rolls Out Face Recognition for Teen Age Verification"
-    excerpt: "Besides providing Instagram with an ID, young people will have the novel option to upload a video selfie and have it vetted by an AI specialized in facial age estimation from Yoti, a UK-based ..."
-    publishedDateTime: 2022-06-23T21:19:00Z
-    webUrl: "https://gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628"
-    ampWebUrl: "https://gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/instagram-rolls-out-face-recognition-for-teen-age-verif-1849101628/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
   - title: "Instagram is testing AI that verifies your age with selfie scan"
     excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
     publishedDateTime: 2022-06-27T16:51:00Z
@@ -69,22 +58,6 @@ related:
       - url: "https://nbc-2.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Instagram tests using artificial intelligence, other tools for age verification"
-    excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
-    publishedDateTime: 2022-06-23T20:24:00Z
-    webUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/"
-    ampWebUrl: "https://www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2022/06/23/news/instagram-tests-using-artificial-intelligence-other-tools-for-age-verification/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 57
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
-        width: 760
-        height: 507
         isCached: true
   - title: "Instagram tests using AI and video selfies for age verification"
     excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
@@ -117,6 +90,20 @@ related:
       - url: "https://lh3.googleusercontent.com/Alk9pKPUG1-DVcKhi2fbxf1CyzAo5q4vtsI43I4bmS4j3tuWUtWzysp_9HquiLxfkBsSPtYIcRL4gVvqKC_OTa0obToYkE1yuY_5YnuU8rkj=s512"
         width: 512
         height: 341
+        isCached: true
+  - title: "Identifying Instagram Crowdturfers with Machine Learning"
+    excerpt: "Researchers in Italy and Iran claim to have formulated the first machine learning system capable of recognizing the ‘crowdturfing’ activity of human (rather than automated) influencer accounts on the Instagram platform."
+    publishedDateTime: 2022-06-28T14:09:00Z
+    webUrl: "https://www.unite.ai/identifying-instagram-crowdturfers-with-machine-learning/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
+        width: 800
+        height: 480
         isCached: true
   - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
     excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
@@ -161,6 +148,20 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2022/06/brett-jordan-fmqhTMu4IVU-unsplash.jpg"
         width: 921
         height: 620
+        isCached: true
+  - title: "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found"
+    excerpt: "By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-"
+    publishedDateTime: 2022-06-27T23:30:00Z
+    webUrl: "https://krdo.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 33
+    images:
+      - url: "https://krdo.b-cdn.net/2022/06/hypatia-h_ddb2ed82f2acf3cc6634dfa323c057de-h_345cbbfeb56d75741c3eed4796efa7c5-300-scaled.jpg"
+        width: 2560
+        height: 1543
         isCached: true
   - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
     excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."

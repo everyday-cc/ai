@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-25T14:02:00Z
 originalUrl: "https://madison.com/lifestyles/technology/artificial-intelligence-enhanced-journalism-offers-a-glimpse-of-the-future-of-the-knowledge-economy/article_69275991-9ef0-55e2-8939-b491f8704414.html"
 webUrl: "https://madison.com/lifestyles/technology/artificial-intelligence-enhanced-journalism-offers-a-glimpse-of-the-future-of-the-knowledge-economy/article_69275991-9ef0-55e2-8939-b491f8704414.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Madison.com

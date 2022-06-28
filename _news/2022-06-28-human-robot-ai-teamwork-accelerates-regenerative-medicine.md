@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T13:42:00Z
 originalUrl: "https://phys.org/news/2022-06-human-robot-ai-teamwork-regenerative-medicine.html"
 webUrl: "https://phys.org/news/2022-06-human-robot-ai-teamwork-regenerative-medicine.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Phys.org

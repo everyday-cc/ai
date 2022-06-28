@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T10:04:00Z
 originalUrl: "https://thebridge.jp/en/2022/06/gitai-us-expansion"
 webUrl: "https://thebridge.jp/en/2022/06/gitai-us-expansion"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: BRIDGE

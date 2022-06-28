@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "School security summit pushes object and facial recognition tech, leans on humans"
-    excerpt: "The discussion, billed as a school safety emergency summit and sponsored by AI vision vendor Oosto, was subdued with moments of stridency."
-    publishedDateTime: 2022-06-23T20:45:00Z
-    webUrl: "https://www.biometricupdate.com/202206/school-security-summit-pushes-object-and-facial-recognition-tech-leans-on-humans"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/23163748/school-scaled.jpg"
-        width: 2048
-        height: 1378
-        isCached: true
   - title: "Privacy, your face and the rise of facial recognition"
     excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
     publishedDateTime: 2022-06-27T01:22:00Z

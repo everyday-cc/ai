@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Road is opening up to allow self-driving cars on UK roads"
+    excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
+    publishedDateTime: 2022-06-28T14:10:00Z
+    webUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678"
+    ampWebUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
+    cdnAmpWebUrl: "https://www-chroniclelive-co-uk.cdn.ampproject.org/c/s/www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
+    type: article
+    provider:
+      name: Evening Chronicle
+      domain: chroniclelive.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.chroniclelive.co.uk/incoming/article24269154.ece/ALTERNATES/s615/1_Rail-and-Tube-strikes.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Alibaba to test self-driving trucks on public roads without human safety drivers"
     excerpt: "Alibaba has become the first company in China to receive approval to test self-driving trucks without a driver behind the wheel on public roads in the"
     publishedDateTime: 2022-06-28T11:20:00Z
@@ -35,15 +51,20 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Visitors Try Out Self-Driving Shuttles At Route 66 Road Fest"
-    excerpt: "The first driverless shuttle in Oklahoma is giving people a taste of the future in Tulsa this weekend. People who got the chance to ride the shuttle said they were excited to experience the future of transportation."
-    publishedDateTime: 2022-06-26T01:05:00Z
-    webUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-selfdriving-shuttles-at-route-66-road-fest"
+  - title: "MPs launch investigation into self-driving vehicles"
+    excerpt: "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads."
+    publishedDateTime: 2022-06-27T15:24:00Z
+    webUrl: "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html"
     type: article
     provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 4
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/xmFJ8qFOOJuoEVSvYgxM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/eYgDLUjJxGQwzBfZwFWgUg--~B/aD0xOTY2O3c9MzQ5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_press_association_news_966/698166f5dea6b0b933d2a70fc8ec91c6"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Process of allowing self-driving cars on UK roads has begun"
     excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
     publishedDateTime: 2022-06-27T14:11:00Z
@@ -53,6 +74,29 @@ related:
       name: Get Reading
       domain: getreading.co.uk
     quality: 4
+  - title: "Transport Committee launches inquiry into self-driving vehicles"
+    excerpt: "The inquiry by the Transport Committee will scrutinise the development and deployment of connected and autonomous vehicles ahead of the potential arrival of self-driving tech from later this year.   The inquiry will consider the progress of research and work in the UK and abroad on self-driving cars and what needs to happen to prepare for their arrival."
+    publishedDateTime: 2022-06-27T12:16:00Z
+    webUrl: "https://fleetworld.co.uk/transport-committee-launches-inquiry-into-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Fleet World
+      domain: fleetworld.co.uk
+    quality: 4
+  - title: "Jet-Packs, Self-Driving Cars, Wireless Charging Of Buses: Museum Of The Future, RTA To Showcase Latest In Mobility"
+    excerpt: "The Museum of the Future and Dubai's Roads and Transport Authority (RTA) have announced a new partnership to showcase future mobility solutions, from personal jet packs to self-driving cars. The partnership will showcase new solutions in advanced mobility at the 'Tomorrow,"
+    publishedDateTime: 2022-06-28T08:53:00Z
+    webUrl: "https://menafn.com/1104443821/Jet-Packs-Self-Driving-Cars-Wireless-Charging-Of-Buses-Museum-Of-The-Future-RTA-To-Showcase-Latest-In-Mobility"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/28/KT_4dcf1image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "u5rym9X/9DyVl5gNGPHABJnbJArAaccM7Z2auCiiEBNomAwwk3M76dPLdk97dFcv6WLSlvZncIIyc0TISrzkIjmlC2WhaX1T3h6UEB5Uz9SNjs0rdnORI7VGrAJ7tU4RUF/R+H+JtDUtyYFXagv3Ac0o0upGS9teIIG+oJ3ESBGskz7h+PzpsUkZlXahF9jrNbKu5iEEmEyQK8GZzLIRM76+D+1ijWud+yBFOZONeSMSR/w6jtNf6BM4UsSujkEAD/Ro5uYowYILAF118FTNYTrm+L4WbCdgb9qKxMfVWq4aCEvY/ezvWoGi3SoUPfSCXXD6X/H0KZTWCe5qdSuj8gzzxysbGAqhc9/tSfLOXgwNt/MGXk9ZIqMeSd8f7o1gpDjYfCjVBYA3QXpijh2esbdrXVuWO8HR8tCTJmKGY5n/GRvurWOKQ4TCHzS1x6s3fAyVDJJOeANW2aQaOmepAn3Kikvqtmi+kuwyAGie82bPuPfQoK1h/d10devQijiMmDx03ZoCX0OkNicM3+z3OA==;ZxRZcTiURB731Do+7H5PYg=="
 ---

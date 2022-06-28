@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T13:14:00Z
 originalUrl: "https://www.energylivenews.com/2022/06/28/case-study-betfred-win-big-betting-on-optimal-monitorings-emma-ai/"
 webUrl: "https://www.energylivenews.com/2022/06/28/case-study-betfred-win-big-betting-on-optimal-monitorings-emma-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Energy Live News

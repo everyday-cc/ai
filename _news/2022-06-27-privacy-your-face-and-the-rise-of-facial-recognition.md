@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "School security summit pushes object and facial recognition tech, leans on humans"
-    excerpt: "The discussion, billed as a school safety emergency summit and sponsored by AI vision vendor Oosto, was subdued with moments of stridency."
-    publishedDateTime: 2022-06-23T20:45:00Z
-    webUrl: "https://www.biometricupdate.com/202206/school-security-summit-pushes-object-and-facial-recognition-tech-leans-on-humans"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/23163748/school-scaled.jpg"
-        width: 2048
-        height: 1378
-        isCached: true
   - title: "Russia uses its facial recognition system to show reporters who’s the boss"
     excerpt: "A report by the pro-free press International Press Institute indicates that the government is following journalists critical of the Kremlin in Moscow."
     publishedDateTime: 2022-06-24T21:37:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T13:04:00Z
 originalUrl: "https://www.finextra.com/pressarticle/93175/franklin-templeton-selects-startups-for-inaugural-fintech-accelerator"
 webUrl: "https://www.finextra.com/pressarticle/93175/franklin-templeton-selects-startups-for-inaugural-fintech-accelerator"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finextra

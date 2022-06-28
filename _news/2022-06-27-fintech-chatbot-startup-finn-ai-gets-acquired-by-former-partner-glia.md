@@ -35,7 +35,7 @@ related:
     provider:
       name: inc42.com
       domain: inc42.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://inc42.com/wp-content/uploads/2022/06/social-5-1.png"
         width: 1200
@@ -69,6 +69,15 @@ related:
         width: 600
         height: 500
         isCached: true
+  - title: "Lentra acquires AI startup TheDataTeam to accelerate digital lending platform business"
+    excerpt: "Pune-based digital lending cloud platform Lentra AI has acquired Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness."
+    publishedDateTime: 2022-06-28T13:22:00Z
+    webUrl: "https://analyticsindiamag.com/lentra-acquires-ai-startup-thedatateam-to-accelerate-digital-lending-platform-business/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 9
 
 secured: "Im1qIw3sY7gtAUPG/nlsf4dmvvXYj4wnqQ6FjMKl6QMDieWU7KI/8B/PKmpYKqNsa9NKRsdGsx8anf1NHQMuOXI7Dcot7I5uzFD6/Q57rWHnPFH1QjcHrKlUiwWHynElHrHeKxMrR/cM8at0cYTTCeUxp6N2h9g4pkiJPwAc6HO9pX16cVUFmeD7Sbq/eO6JUKxm31be5/gLoGqK9QUonjfpbBxuHEbh+F0l/j91Ci15weE1s3xrg2ZOjN1Ty7hlpoyaSfGovSrGQZv4ncdNBqt3KqeI414RegpzCChaKHPoHEY4xRt6/aVYEGbh6LNkNF5edqh4yQ4JLz0BJEQ/UbLZDpoQDX5MyLd/XK6+b+bwUmoFU1ZWGXJmBEIeBT4dlGP0F6y0RBMOmSODXbBMoOcHXL+Nfutr9ktxXgEYCF8pdYJJs5AMCI3tQAepAaeYhplWxvm+caVtNkFQCN5mkhUAYa1a98TXB3zGq2yFv9GTcBiCcFvCwe2c1FKjSo7+CldBhz5PV3cAbYP4DaIuGA==;cGHe9stTF/i/g3gY0iTfCQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T12:00:00Z
 originalUrl: "https://www.wired.com/story/warehouse-robot-reads-body-language/"
 webUrl: "https://www.wired.com/story/warehouse-robot-reads-body-language/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired

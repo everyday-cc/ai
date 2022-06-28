@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/india/india-to-get-facial-recognition-tech
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-87554,msid-92500010/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "American Airlines Testing Face-Scanning for Passengers at Dallas-Fort Worth Airport"
-    excerpt: "At DFW Airport, passengers will need PreCheck, the expedited-screening service sold by the Transportation Security Administration, and an American Airlines mobile app to use the facial-recognition technology. To be part of the service, American passengers ..."
-    publishedDateTime: 2022-06-23T20:40:00Z
-    webUrl: "https://www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/"
-    ampWebUrl: "https://www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/?amp"
-    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/national-international/face-scanning-being-tested-at-dfw-airport/3084349/?amp"
-    type: article
-    provider:
-      name: NBC Washington
-      domain: nbcwashington.com
-    quality: 53
-    images:
-      - url: "https://media.nbcwashington.com/2022/06/american-airlines-facial-recognition.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "K+7BTeF5ul5tbG7wx3HROSb/4I3CkjBZNoPBUbmQ4Ij26DjDFpcVNsxgzHckquos2cip2VckqUb7Qck0meiu89IhDXC6OI63Jae3GROY/6YxKceSYfWVRZqbabdIGsvS1VdwXe2XNi4II7oq6TuoodgMUrzidP9sqlUWY6nChnNOz1zHs5bmTMRAbYECOtpzmBLu5MtLKaiQWDQSEybc5ejNcz6pLEBjY3LyQEWFFq9LdkQGXawBKXf4xpBXGAwVJSmKdl1ZQQsrc1PWU+14nQXQC28Ahdesde6XVTLmsHloUlBWJdxl42EUv8PnsePhO/F6bYlGvwFQ38EtiMGg6NGOMqz6wCr9PReMy0EUnKU=;5MXmDL1/jPWiU5IlUxog8g=="

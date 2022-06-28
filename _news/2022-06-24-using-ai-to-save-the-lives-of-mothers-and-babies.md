@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI and ML to Fight Zero-Day Attacks"
+    excerpt: "If it felt like you were asked to download a lot of patches in May and June, it’s because there were a lot of patches in May and June. An increase in"
+    publishedDateTime: 2022-06-28T12:00:00Z
+    webUrl: "https://securityboulevard.com/2022/06/using-ai-and-ml-to-fight-zero-day-attacks/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 34
   - title: "Using artificial intelligence to study autism"
     excerpt: "New discoveries published by Boston College researchers could help identify the causes of Autism Spectrum Disorder, and lead to personalized interventions The team used artificial intelligence to study magnetic resonance imaging data from over 1,"
     publishedDateTime: 2022-06-24T15:58:00Z

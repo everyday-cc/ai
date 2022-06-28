@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T12:57:00Z
 originalUrl: "https://www.embedded.com/implementing-edge-ai-look-before-you-leap/"
 webUrl: "https://www.embedded.com/implementing-edge-ai-look-before-you-leap/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Embedded

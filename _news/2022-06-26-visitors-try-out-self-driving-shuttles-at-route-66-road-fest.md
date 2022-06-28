@@ -7,7 +7,7 @@ originalUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-tr
 webUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-selfdriving-shuttles-at-route-66-road-fest"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,42 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Alibaba to test self-driving trucks on public roads without human safety drivers"
-    excerpt: "Alibaba has become the first company in China to receive approval to test self-driving trucks without a driver behind the wheel on public roads in the"
-    publishedDateTime: 2022-06-28T11:20:00Z
-    webUrl: "https://technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
-    ampWebUrl: "https://technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "Process of allowing self-driving cars on UK roads has begun"
-    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
-    publishedDateTime: 2022-06-27T14:11:00Z
-    webUrl: "https://www.getreading.co.uk/news/uk-world-news/process-allowing-self-driving-cars-24331951"
-    type: article
-    provider:
-      name: Get Reading
-      domain: getreading.co.uk
-    quality: 4
-  - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
-    excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
-    publishedDateTime: 2022-06-27T17:34:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1631877/self-driving-cars-MPs-enquiry-latest-news"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 0
 
 secured: "01x0eYYFGL1U22xfumnNnJUkuzztrSJ/isidiy37JvcXwpivLAA+S3Hn56qu1/Pf3hgRblWsmCBAUZKUrfR5kBtc3EfVE2JT7B7VSwjg0hTbYGH2k9t1w8aVqCmTFY+IXGmyCaBnOn9XD5VVkbVVUTTMZRvNRIbsf9MCMAsOPAKNmwWu3aGodHiPHSxbn5kU/etxaw8xTJjvNBnKMuyFJob4O1KoHomTj/IV3poudoeaxkbwuZnJ603g+WZClGhsk24aKn16wtDknqRN6hq4Isp3m1168ngxeUirEsSUGZtW37kP+DK8EDMBqUmxd9LjCLM+hsGsZuZHnkHt1lBdyCDk8s98/aph6MwrHfhDtZwQW89Ct3jG1/t9qer34+unFb6bbA7Q8jCsOPAcvqn+HHBl6QzPfxgv3qrhV1gqFcyp8/kKr9yNanuGiNRqFlfHi/ZPB1mj5nvBnqOAkBORWDADsTiGWleVF58PhbrRnFgRIGlJdKHmTQessNad9Ds9RCv8alzzjoJj8z2Brrh1/g==;Nsw6c9vVSRF7W0SyWdNXoA=="
 ---

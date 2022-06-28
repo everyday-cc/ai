@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T12:55:00Z
 originalUrl: "https://www.openrightsgroup.org/blog/prevent-and-the-attack-on-free-speech/"
 webUrl: "https://www.openrightsgroup.org/blog/prevent-and-the-attack-on-free-speech/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Open Rights Group

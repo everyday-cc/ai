@@ -101,6 +101,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
+    excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
+    publishedDateTime: 2022-06-28T12:28:00Z
+    webUrl: "https://www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 51
+    images:
+      - url: "https://www.exchangewire.com/wp-content/uploads/2022/06/shopping-cart-with-pill-foils-copy-space.jpg"
+        width: 1024
+        height: 551
+        isCached: true
 
 secured: "pU5kil5uJaKp+/1Yz46jHq1j/m06wN1sqvBBj/MGLGjhRvX1UW0p21m9smD5mrsO8wgOlpDuF7LHmRl4wd4HUfSn2770IHjNvin53wqJK260ONmUIECNEPt3KcFfmVjL09VItLnA5anLy/9a3xme1I007rZUREjeF6Hv6TbrcjJm3aa9pfmb6LVUWxZDUP5PNapGSpeSuPk2t4Hc2OVBEfQex7EdGdgPdRbVhAcXZPTXyr7LhEdsfDXz9kKggtHwUYhjaHnW+jhQTwipFzO+P28gLAgZZgrCCXCizFfEc7+8twYqjjCBhas40uUI+Iio1Tgp949U2y0Og9SviSMBSlGp1poZmw8hIl4h8KIzAgdYuEd4yRR+5z3Mrt00JhRkj+IjH5V9hrLOuQJIkGq6gphMHQxcG+RVDGtJkusV2vdytBVMfqMuQbL3gRjIDoRLc+bcZ35ILQIz0V5BitHXJeDm7nJX9LbcfhjoGBD8FtFew0HeXpLL/hZetiKk8G3TdV3ObOBCWrMAopFwhfYE2w==;DypOiIvHsyRACFy2iR6Zwg=="
 ---

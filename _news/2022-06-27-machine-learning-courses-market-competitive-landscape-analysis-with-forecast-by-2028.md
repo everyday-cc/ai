@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-courses
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
     provider:
       name: Future Market Insights
       domain: fmiblog.com
+    quality: 0
+  - title: "Global Industrial Robot Market Report 2022: Industry Set to Reach $61.09 Billion by 2026 - ResearchAndMarkets.com"
+    excerpt: "Analysis By Industry, By Type, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2026” report has been added to ResearchAndMarkets.com’s offering. The global industrial robot market in 2021 was valued at US$33."
+    publishedDateTime: 2022-06-28T11:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-715506a4e9154d4986cbec51aa69a0d0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 0
 
 secured: "6Acj1HI56odlaR1V9M5R6crdoxnR2bqFERCnQacStcQVSKDM7dDnzcZ2Zpd869UDILNdF4fOKY/BP1NVulU/mC/WihAGjUIKjdTwN7Usa84dZAzwlqx5AXtgQfF3r9NQUTYjzi1QdjUs1aRDGHYCtGbLJCnexn+haa4Tv7x/pjWxwXTV8iHPocZqIgX6KQOGmKaMEJA3qYzqXN2TMfHZQr0KB/H/20Mf18gnfslCDqBF7s7j+tM1HuLWiK4B0u5HftOeCqARFzoAcCj25KB10DVQo+6uOuiGA4vYVVVlPppQCknLfrQJFKxwzloSaVY2l64XRBoUlw8pqNwjd9uqDlVXJRegtTnXB0Sh64RrcW8=;UELjf3UzM2e4MOdS//MgGw=="
