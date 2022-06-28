@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Instagram is testing AI that verifies your age with selfie scan"
+    excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
+    publishedDateTime: 2022-06-27T16:51:00Z
+    webUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+    ampWebUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 59
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
     publishedDateTime: 2022-06-23T20:24:00Z
@@ -87,22 +103,6 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2022/06/web1_12669860-40267c0d07df4ef99bac109894984999.jpg"
         width: 760
         height: 507
-        isCached: true
-  - title: "Instagram is testing AI that verifies your age with selfie scan"
-    excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
-    publishedDateTime: 2022-06-27T16:55:00Z
-    webUrl: "https://abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-    ampWebUrl: "https://abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-    cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc-7.com
-    quality: 57
-    images:
-      - url: "https://abc-7.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Instagram tests using AI and video selfies for age verification"
     excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
@@ -213,6 +213,6 @@ related:
       domain: wwaytv3.com
     quality: 11
 
-secured: "aN3FjnhtrokXsR+Lgl355i/wjl8M2L3IyzxqDUZL3B6t3NlXyvalgJoiDMhGIyCR780h6YBz6Xz3zauSfn1IfG/sGrhS9IX1Ch6bZAvvv6gSmVP7wFNsaL9rS3NQl8zYvloelp4w6JPv80Qi65s/KAn9ini/5In1b9M1E4gTo6ySdemT7Q+tojQBN+mXtOY/NlqAuAR2ErSO9r/XkR1OMWGBSf/Mh39KtsjPoyzmvaxnFEl9/JIEh/bk3wIVcTakSk3X7/WsikPKv0MoetVsmJgN8IlcIAXXaOjedorr3tQt5uaXzO2ruQjT3od4VZWpzjuO87eOgg5bkvJMsYVBb1a1qZAeV6wahM+42VxJjqE=;o6R21O9Ss4kPQcsi0wtIVg=="
+secured: "j7Rczh98zoAgzDctunXXzzmu4YtaQLIxrkI6+H/2qtEPuCciIDoEGcOQ9oOdhms1yEUgjadW/ON3rnPGdFME5Z6r6VKSEktEBVtsO0nJI9BxtYHUJ8s6UIA/HZ27F5b62DcGOg6lH3j957ziFHbWIz4s0Uzh7F+ln/J+QKg3MTuH5VPpT4dmwHoJvl7p/y1c+RMg0c3IlH9B1wZJZLx1PM0PwD/s9lRIp212bOxxxf2W5zZGWt0v0X7J4bYFPwbT2qNJ0EGw/vZOKmCCc2hmI2KHMtIajbx6cuygnqkBofG3T7QPWXHowOwW/72XDPgE5RTOq0NvGovj+rQBmI9ET+wgLb6vjVZBgG9vw0HAVKzs4YCyv87lfg3h2u9Za9amddNZjfqLzJJJYbM/be82UIrZGv4uhvagSI80SlZiKXOxrinry2v2lex4nJJW2atXi1lHM5SAaXaHjnXCgAsfCzoYEAA7I8vDXNtqpyll8CyUskBySkkreV+FmTOoFG2NJKSPjLKYfZ9+ejld3b4WfA==;AwjICMwD54fIQeSEg1KxiQ=="
 ---
 

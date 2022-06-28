@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Perimeter Medical Imaging AI Appoints Artificial Intelligence Leader Anantha Kancherla to Board of Directors"
-excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF)(FSE:4PC) (\"Perimeter\" or the \"Company\"), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
-publishedDateTime: 2022-06-22T12:46:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-/2022/06/22/9626418.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-/2022/06/22/9626418.htm"
+excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF)(FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
+publishedDateTime: 2022-06-22T12:32:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-health-clinical-trials-artificial-intelligence-a98225f35ac44fa3954af1afce53913e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-health-clinical-trials-artificial-intelligence-a98225f35ac44fa3954af1afce53913e"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "cU3U5Ovu+WNM1aOE4YM+jzH8Cozy7YiTLKsvR6vPtqWTSCB9d+jIwworK2sFlQ0mbOyMnd5gi2jshG83Q8Ycb9RCmgN13jBsRYgOWKkuEVUDxd29q6r6M0tYneL/P0DTb5xyncqKROzk6sJHjz6A0uvEhYBnrotdjk+VX/L2fqvrwsV5rdMeI/HPeGdXq/URfBntJndqbi/XpD05WpZvCAaOvN7aLWymzznIUiDOv8RlpXgcCtsL+jSnzXdmLOhpKy5M8R8XeFv1I2+9H1ebeCqbDgDidwKP5NR7ZNHJfyI6ckAXVQhAZqGlntP7tb8WFP8GlpMpJ/egXBAnWJo07dYaeBSWGjS4ScyNQChbef4=;B0dJhXUENp3S5mX6OdclpQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ZkXDcQdfiuzND9SBlPKguHZy3Rr8Gbd8npYVOaeUKKWNhTiQ8T7rUQD/NUYuzmAAVlKiomLh8EOIw3jfadmbdlQk4qZGnba3iuO3VD4kqDiSz6UpFHkALTSAiF4xtsgWYwAKEv6WgHcE7qliv2tV2Vni06GpmeAEcGMO90AAE6joFwSUoBnoDCGZopxHmxBPuL2Ta7KCaOzgOc78DSvnQcuZFNh1H6UHv/fKKhIa7zkOfOCW8zhuo/wjKc3OQt4qA/ILP46iPGWexURM+DRd/YgU2LEWJUa9QXc9fWk7390Ewty3cBTpNiljua7Wp6Me7onaf6XKM24qbMJTAVeZtTk0LxQepkad18g57z42BJg=;+XI4q29ekdWMpfUNiKF62Q=="
 ---
 

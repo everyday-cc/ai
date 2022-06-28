@@ -43,6 +43,22 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "AI no longer fringe tech in India, says report"
+    excerpt: "The Accelerating Pace of AI in India, will be launched on Tuesday and is based on a survey of nearly 150 providers and 350 enterprises."
+    publishedDateTime: 2022-06-28T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-no-longer-fringe-tech-in-india-says-report/articleshow/92500018.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/ai-no-longer-fringe-tech-in-india-says-report/amp_articleshow/92500018.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-no-longer-fringe-tech-in-india-says-report/amp_articleshow/92500018.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-87554,msid-92500010/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "zP/JBsMhROgQAUiPQG8uV69lejdAVucylfczBCNpcb2H5gE2L6mF1sXJS5FJKuRW3HD8lJqCRploGJguEqFLPZOTzjBUy2jC6i3vzeSYhu8O1I7u6fSTwAKSZFRnPgxx97qcj/l9j8bj9mrMRLqTdMYknviDKjXwM9fWkQ/sWSwZ6Wh71gKBbaKc7qGQfndfOsAgZN4CjBlg3WT/GGeMyoje1MMrYQo+RX4OSLofje7vJndKHAQb0drDathlbEawHTFoyUt3rKsy2VY5xilHto+IMbqBQo/9qHH9e4GvAKsCgAK4TFFvLCJUgMutnV8VDAmeQ7dTYtZlzVzaJFBPjzm3IulauTkNIIfAbM0PdKs=;xECSB5yviMTYl4uDmEYv6Q=="
 ---

@@ -145,20 +145,6 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 19
-  - title: "Global FinTech provider selects Infobird for its intelligent Customer Engagement Solution"
-    excerpt: "Infobird Co, a provider of AI-powered customer engagement solutions, announced has entered an agreement with a FinTech service"
-    publishedDateTime: 2022-06-23T07:02:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/global-fintech-provider-selects-infobird-for-its-intelligent-customer-engagement-solution/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 15
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
-        width: 600
-        height: 500
-        isCached: true
   - title: "5 Fintech companies looking to hire in Europe right now"
     excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
     publishedDateTime: 2022-06-24T12:38:00Z

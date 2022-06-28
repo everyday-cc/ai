@@ -50,20 +50,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 64
-  - title: "Cerebras breaks record for largest AI models trained on a single device"
-    excerpt: "Cerebras said training AI on a single device can reduce the engineering time to run large NLP models from months to minutes."
-    publishedDateTime: 2022-06-23T08:34:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/cerebras-ai-model-trained-single-device"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/RRL_9923.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Cerebras trains 20 billion parameter AI model on a single system, sets new record"
     excerpt: "US semiconductor startup Cerebras claims that it has trained the largest AI model on a single device. The company trained AI models with 20 billion parameters on its Wafer Scale Engine 2 (WSE-2) chip,"
     publishedDateTime: 2022-06-27T10:34:00Z

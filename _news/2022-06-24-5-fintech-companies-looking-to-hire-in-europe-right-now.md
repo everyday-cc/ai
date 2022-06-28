@@ -139,20 +139,6 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 19
-  - title: "Global FinTech provider selects Infobird for its intelligent Customer Engagement Solution"
-    excerpt: "Infobird Co, a provider of AI-powered customer engagement solutions, announced has entered an agreement with a FinTech service"
-    publishedDateTime: 2022-06-23T07:02:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/global-fintech-provider-selects-infobird-for-its-intelligent-customer-engagement-solution/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 15
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
-        width: 600
-        height: 500
-        isCached: true
   - title: "Financial Firms Are Investing More in Tech to Manage Increasingly Complex Regulatory Landscape"
     excerpt: "According to SteelEye’s annual Compliance Health Check Report, more than half of U.S. firms (55%) plan to invest more in regulatory technology (RegTech) solutions over the next 12 months to cope with the growing compliance pressures in today’s increasingly complex regulatory and operational landscape."
     publishedDateTime: 2022-06-23T11:43:00Z

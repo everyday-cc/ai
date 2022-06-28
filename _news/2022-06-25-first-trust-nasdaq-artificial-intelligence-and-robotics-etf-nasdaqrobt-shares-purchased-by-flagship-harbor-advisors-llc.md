@@ -9,8 +9,8 @@ ampWebUrl: "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificia
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: ETF Daily News
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fieldpoint Private Securities LLC Sells 730 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
-    excerpt: "Fieldpoint Private Securities LLC lowered its holdings in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 41.5% during the first quarter, according to its ..."
-    publishedDateTime: 2022-06-23T08:58:00Z
-    webUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
+  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF declares quarterly distribution of $0.0677"
+    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) - $0.0677. 30-Day SEC Yield of 0.20% as of May. 31. Payable Jun 30; for shareholders of record Jun 27; ex-div Jun 24. To ensure ..."
+    publishedDateTime: 2022-06-24T19:41:00Z
+    webUrl: "https://seekingalpha.com/news/3851799-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-declares-quarterly-distribution-of-00677"
     type: article
     provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 67
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 53
     images:
-      - url: "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ"
-        width: 650
-        height: 350
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Acquired by Flagship Harbor Advisors LLC"
     excerpt: "Flagship Harbor Advisors LLC increased its stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% during the first quarter, according to its most recent filing with the Securities & Exchange Commission."
@@ -52,6 +50,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 24
+  - title: "Nordea Investment Management AB Increases Holdings in Veritone, Inc. (NASDAQ:VERI)"
+    excerpt: "Nordea Investment Management AB increased its stake in shares of Veritone, Inc. (NASDAQ:VERI – Get Rating) by 1.8% during the first quarter, according to its most recent filing with the SEC. The institutional investor owned 387,"
+    publishedDateTime: 2022-06-26T08:22:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/26/nordea-investment-management-ab-increases-holdings-in-veritone-inc-nasdaqveri.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 0
 
 secured: "GX4pCHEXaFQGxZjHEEoWsS32pSxYG3+DeNwYZYlfdtXzk3d9yNU7DR/2BXSDr84hQskG0ZA8TU6svV+dR5iBFdZ55uiWOO7Z9ZmyUFJGKwxYR0OxPbGaT+xjHpcRzdCu4qheWy/rCB0hxBWW7WZ/E+LQrsx2WMF8fXjbBlnnE3b0JZmKFXdjZ3Cpi23+lPeRaGpane1NUUc2+l3VoL/++nmZ/Rmg7McQyCYbLRpT/XHluqX4vT+gPMLrZi6JIt8J8uKBn9BjAVRXm0iBAUHOE+atNyosLSqY7q2odOH2i+du+r3jks+Q1HPY4WX6ZgiRGFTtoOPCk1hvtpZNdtBeIE8Db7DhSzKRbCDwy5Nwyko=;bIiMZcSY9Xxy7chQPmIW5Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/india/india-to-get-facial-recognition-tech
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI no longer fringe tech in India, says report"
+    excerpt: "The Accelerating Pace of AI in India, will be launched on Tuesday and is based on a survey of nearly 150 providers and 350 enterprises."
+    publishedDateTime: 2022-06-28T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-no-longer-fringe-tech-in-india-says-report/articleshow/92500018.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/ai-no-longer-fringe-tech-in-india-says-report/amp_articleshow/92500018.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-no-longer-fringe-tech-in-india-says-report/amp_articleshow/92500018.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-87554,msid-92500010/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "American Airlines Testing Face-Scanning for Passengers at Dallas-Fort Worth Airport"
     excerpt: "At DFW Airport, passengers will need PreCheck, the expedited-screening service sold by the Transportation Security Administration, and an American Airlines mobile app to use the facial-recognition technology. To be part of the service, American passengers ..."
     publishedDateTime: 2022-06-23T20:40:00Z

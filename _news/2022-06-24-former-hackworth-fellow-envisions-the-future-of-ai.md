@@ -7,7 +7,7 @@ originalUrl: "https://www.scu.edu/ethics/about-the-center/center-news/former-hac
 webUrl: "https://www.scu.edu/ethics/about-the-center/center-news/former-hackworth-fellow-envisions-the-future-of-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 360
     height: 225
     isCached: true
-
-related:
-  - title: "10 tracks that harness the power of artificial intelligence"
-    excerpt: "Perhaps the best way to demonstrate AI’s creative abilities is to zoom in on how numerous artists have already worked with it, and – together – crafted some quite astounding music"
-    publishedDateTime: 2022-06-23T08:53:00Z
-    webUrl: "https://www.musicradar.com/news/10-tracks-artificial-intelligence"
-    type: article
-    provider:
-      name: MusicRadar
-      domain: musicradar.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Kt4G2msYkJZow2RgcmGPyF-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "KfJlUKE/7Hlhq3ST96s4rbyy8Hl1k8rOxZt91ekWFW8USlTMsSrWrPihBZkyVPT4HsfkEvJD054xplOKLFFuyBkTYHWc9LgNUf+H4sW7J+T2X9Sbrew/+xWwVcPr29+pG3/J71HA1pHzYZgL5r3PEmCJJeEeY5S7jCJ8DVX+yKSODrt8rHnGbO7fNwihsRLEW8mm8q8NBK3GB/mpz0iH5KySQpp8WBu3P16OqIPHYOgAq8lQi6I0RctYZw14kTnHr21WFCcEb2I+Jj6VVqnHcuYQuTPDZTr4nej7AIuAQkKFlCtxt+UCaQyJEnTBgg9w+oDkovl35b7wOLtalFO6ZwFBgHLnYab228BEosLQbDA=;mCRpfTfQ72A2dMmBSHtZ8w=="
 ---

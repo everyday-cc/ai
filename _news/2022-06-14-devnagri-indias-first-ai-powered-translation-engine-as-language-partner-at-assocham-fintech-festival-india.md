@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Devnagri – India’s first AI-powered translation engine as language partner at Assocham Fintech Festival India"
-excerpt: "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,"
-publishedDateTime: 2022-06-14T07:45:00Z
-originalUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/"
-webUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/"
-ampWebUrl: "https://theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india/995948/?amp"
+title: "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India"
+excerpt: "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ..."
+publishedDateTime: 2022-06-14T12:56:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
+webUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
 type: article
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
-  - AI in Finance
-  - AI
   - Natural Language Processing
+  - AI
 
-images:
-  - url: "https://static.theprint.in/wp-content/uploads/2022/06/anibs2022061405495820220614065826.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "2m3rrFcJTzMse9ifesqqOpceDjvqKZJchGxfowrZX+glHfwRyMqEQrv4BZ51Rrkq6fiaLoKpMhFvbtyHjH4XmGWu9FQxdKA0JIXFbe0P020QfABYqy+mcM//din+JWkdQGz/EO4VTfukEvE2VLKosfaSUV/h8Dlrp4Rk4cYVeXkJqzrxCJWJ21G6kKe3az1BT3tK9Aqk5MEPljsOR4kR9QaFZ9f/OJT9aRx2Peho4SEaHj7QePzEbprSdi+Z0/fDQNRvB8e0v5S3YI8VHrSenQLa8TKVFUxw4FxOjoSrGGul2RvxGK5Birzrx6WdeaQ4edvV6IVy1V2/5V5NyzLdyhOVGDTwvEjuga5JPJIfih4=;PRo+3uUXsaSivIAUV+YZ3w=="
+secured: "HIa98FELeHMgn+R9LCb/7gC2ruoPTg3rIra8q4JI+g1JMGM9IQZXIA6JMREVAd+1Xovzl7AGHFfpHOQaHaIEkEHBkb4eRoScNcnhGI8H4hh/zJ8WKtZpMPhlL1ivIZEcJofGvytJhPoeZ2V+O3OOSjrHGaUP2EuXjluYGHLgx3mdeegmaMJ3YXzqVOZCQaVu7OIYE1dBZNJuUd5+gfw+VxiuwSsncOolWDEHfYQZm2Le6OCWio19nurmRwO2sXNfEmpSDoQVS0MB9QGVQ0jGvmL6V/Vhd9az6lMtwr4+tvqjw4DoucFT99/DkTcHFzciBXv8q3kSLmjAGYjxYxLu8TkJJoQd0TvR/OUFOhoC8wI=;2ysV8pGmKukEdldY7juJvA=="
 ---
 

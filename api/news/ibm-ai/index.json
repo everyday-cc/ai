@@ -10,7 +10,7 @@
       "originalUrl": "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -43,7 +43,9 @@
         "IBM AI",
         "AI",
         "AWS AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     },
     {

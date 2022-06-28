@@ -2,25 +2,26 @@
 category: news
 title: "Instagram is testing AI that verifies your age with selfie scan"
 excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
-publishedDateTime: 2022-06-27T16:55:00Z
-originalUrl: "https://abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-webUrl: "https://abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-ampWebUrl: "https://abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+publishedDateTime: 2022-06-27T16:51:00Z
+originalUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+webUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+ampWebUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
+cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC7
-  domain: abc-7.com
+  name: NBC2
+  domain: nbc-2.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://abc-7.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
+  - url: "https://nbc-2.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -208,6 +209,6 @@ related:
       domain: wwaytv3.com
     quality: 11
 
-secured: "Yy8Z7veJM/WSFhqAFc9gLC0Zr1tGp7aIf24UsWar0ZRRdgW4hh7kuJsEMDM+fca+S2bcd7n9jYdxvRRVt4X/yU3Ogn/37zQ05I7PuBHRlqHta1YEewKILf5uyvgjwxMDJpYR+eKilrQu3F6qRNe/P8qGRCgQx8mLLhoDHDAcdVsyuQ84UNUdSFQGHSoPfdZ4fi8HlOkoXhzKu6EWSzC5bs1l9xDkkA/0e8Zhk84gtZCEZT3yA19TFSGcUy7X02OvSfqtApOVmdHMNZSBSLLeZ65F4Gdthda4mZ2rT6OPAQ9Wj5xLnU3XSkfYCHzZN//JhJmyQRI/qvGJ98ZUO18VrgLI6wK557AeYHgkmRLtrAo=;rq+mdd3Hj1QaBFF5dxF3pA=="
+secured: "Imr1vrogSef3pDGS8CBe51WCifYovcEiCyf6c+u3XkudNqjUvnIFcUCoFHme6HsN5LySllr36/xBPRZVXoXn18CZnd7chJiGvb1HicNLfVdwWs9REnMUSu+evwvJ0xXGIFv5tEtpWQ16TXX7HjHifrtv9ABr9YfTAfl1862+NoPGrFCbzr1TtyKMZJvzrdQiKBpWyYaXM8M78+nriEyYw+3cqxwqxJ6cKM7NNjn8io+Bzk4VVRIscKRGTDEuJijUlOS+fpq52SeGfjogfhfcIh0zUdJYNLYsSyJ2Xr9JqdlDt6hhGorZVifEuWYbJm6HEp1CkuG6FzlDngURb2nlo+vUegiwBQvA9AWG4pkev2o=;3A53DmmG35RK1YbpliR2DQ=="
 ---
 
