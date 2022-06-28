@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australian firm pauses facial recognition trial over privacy concern"
-    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer"
-    publishedDateTime: 2022-06-28T06:36:00Z
-    webUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
-    ampWebUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/06/28/thumbs/800x531/215212.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
   - title: "Australian retailers named in facial recognition complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
     publishedDateTime: 2022-06-27T20:39:00Z
@@ -118,6 +102,31 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "Australian retailer pauses facial recognition trial over privacy complaint"
+    excerpt: "The Good Guys said it would “pause the trial of the upgraded security system with the optional facial recognition technology being conducted in two of its Melbo"
+    publishedDateTime: 2022-06-28T09:34:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint"
+    ampWebUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint/wcm/8d1f0c81-50d2-4357-b7a0-4ae47f7f191e/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint/wcm/8d1f0c81-50d2-4357-b7a0-4ae47f7f191e/amp/"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 52
+  - title: "Australian firm pauses facial recognition trial over privacy concern"
+    excerpt: "The move comes after a consumer group referred it to the privacy regulator for possible enforcement action. Read more at straitstimes.com."
+    publishedDateTime: 2022-06-28T05:36:00Z
+    webUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/28/ac_thegoodguys_280622.jpg?VersionId=wGnZzn1t3CotARjlPkNubCxeThFvNo4P"
+        width: 860
+        height: 573
         isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"

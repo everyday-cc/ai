@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Instagram is testing AI-powered video selfies to verify age"
-    excerpt: "Continuing on with its push for age verification and the enforcement of its age requirement, Instagram announced that it would be testing new age-verification methods to help primarily younger users verify their ages with the popular photo and video sharing app."
-    publishedDateTime: 2022-06-23T16:47:00Z
-    webUrl: "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/"
-    ampWebUrl: "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/04/smartphone-with-instagram-app-on-it.jpg?p=1"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Instagram is testing AI that verifies your age with a selfie scan. It's not perfect"
     excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
     publishedDateTime: 2022-06-27T12:33:00Z
@@ -57,20 +41,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Instagram can now verify your age with your face with new AI technology"
-    excerpt: "Instagram is using AI technology from a third-party company, Yoti, to scan video selfies to estimate the ages of users."
-    publishedDateTime: 2022-06-23T15:55:00Z
-    webUrl: "https://www.androidauthority.com/instagram-can-now-verify-your-age-with-your-face-3179652/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/Instagram-stock-image-11.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Instagram is testing AI that verifies your age with selfie scan"
     excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
     publishedDateTime: 2022-06-27T16:51:00Z
@@ -86,6 +56,22 @@ related:
       - url: "https://nbc-2.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Instagram’s New AI Tool for Age-Verification"
+    excerpt: "Instagram is testing various new ways for age verification of its youngest users. Yoti’s AI tool is one of them."
+    publishedDateTime: 2022-06-28T07:38:00Z
+    webUrl: "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/"
+    ampWebUrl: "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1"
+    cdnAmpWebUrl: "https://www-techthirsty-com.cdn.ampproject.org/c/s/www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 59
+    images:
+      - url: "https://www.techthirsty.com/wp-content/uploads/2022/06/Instagrams-New-AI-Tool-for-Age-Verification-1-640x356.jpg"
+        width: 640
+        height: 356
         isCached: true
   - title: "Instagram tests using artificial intelligence, other tools for age verification"
     excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
@@ -150,20 +136,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2022/06/24/shutterstock_712489231_c0-196-4707-2941_s1200x700.jpeg?252bacb6c34fcb4f7b3ea742705da80edbc49450"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Instagram trials AI tool to verify age of users"
-    excerpt: "SAN FRANCISCO - Photo-sharing platform Instagram said it was starting to trial a tool that relies on artificial intelligence (AI) to confirm the age of users in the United States. Lawmakers across the world have been vocal in demanding that the social ..."
-    publishedDateTime: 2022-06-23T15:51:00Z
-    webUrl: "https://www.enca.com/news/instagram-trials-ai-tool-verify-age-users"
-    type: article
-    provider:
-      name: eNCA
-      domain: enca.com
-    quality: 37
-    images:
-      - url: "https://www.enca.com/sites/default/files/styles/facebook/public/afp/2022-06/doc-32D33NQ-%40photo0.jpg?h=4bf1c8f5&itok=U32GY5Dv"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Instagram tests using AI and video selfies for age verification"
     excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer
 webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 177
+published: true
 
 provider:
   name: AWS
@@ -31,19 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Predict types of machine failures with no-code machine learning using Amazon SageMaker Canvas"
-    excerpt: "Predicting common machine failure types is critical in manufacturing industries. Given a set of characteristics of a product that is tied to a given type of failure, you can develop a model that can predict the failure type when you feed those attributes to a machine learning (ML) model. ML can help"
-    publishedDateTime: 2022-06-23T16:02:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
+  - title: "Manage AutoML workflows with AWS Step Functions and AutoGluon on Amazon SageMaker"
+    excerpt: "Running machine learning (ML) experiments in the cloud can span across many services and components. The ability to structure, automate, and track ML experiments is essential to enable rapid development of ML models. With the latest advancements in the field of automated machine learning (AutoML), namely"
+    publishedDateTime: 2022-06-24T16:12:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/manage-automl-workflows-with-aws-step-functions-and-autogluon-on-amazon-sagemaker/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 110
+    quality: 99
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/23/predict-machine-failures.jpg"
-        width: 1237
-        height: 622
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/manage-automl.jpg"
+        width: 1246
+        height: 623
+        isCached: true
+  - title: "Introducing Amazon CodeWhisperer, the ML-powered coding companion"
+    excerpt: "We are excited to announce Amazon CodeWhisperer, a machine learning (ML)-powered service that helps improve developer productivity by providing code recommendations based on developers’ natural comments and prior code. With CodeWhisperer, developers can simply write a comment that outlines a specific"
+    publishedDateTime: 2022-06-24T16:56:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-codewhisperer-the-ml-powered-coding-companion/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/introducing-codewhisperer.jpg"
+        width: 1248
+        height: 623
         isCached: true
   - title: "MLOps foundation roadmap for enterprises with Amazon SageMaker"
     excerpt: "As enterprise businesses embrace machine learning (ML) across their organizations, manual workflows for building, training, and deploying ML models tend to become bottlenecks to innovation. To overcome this, enterprises needs to shape a clear operating model defining how multiple personas, such as data"
@@ -59,6 +73,15 @@ related:
         width: 1246
         height: 619
         isCached: true
+  - title: "How Cepsa used Amazon SageMaker and AWS Step Functions to industrialize their ML projects and operate their models at scale"
+    excerpt: "This blog post is co-authored by Guillermo Ribeiro, Sr. Data Scientist at Cepsa. Machine learning (ML) has rapidly evolved from being a fashionable trend emerging from academic environments and innovation departments to becoming a key means to deliver value across businesses in every industry. This transition"
+    publishedDateTime: 2022-06-24T18:01:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-cepsa-used-amazon-sagemaker-and-aws-step-functions-to-industrialize-their-ml-projects-and-operate-their-models-at-scale/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
   - title: "Inspect your data labels with a visual, no code tool to create high-quality training datasets with Amazon SageMaker Ground Truth Plus"
     excerpt: "Launched at AWS re:Invent 2021, Amazon SageMaker Ground Truth Plus helps you create high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements,"
     publishedDateTime: 2022-06-27T15:49:44Z

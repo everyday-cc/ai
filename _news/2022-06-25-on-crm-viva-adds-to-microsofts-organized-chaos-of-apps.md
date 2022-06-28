@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 156
+published: true
 
 provider:
   name: Forbes
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: Microsoft’s new moves in responsible AI"
-    excerpt: "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ..."
-    publishedDateTime: 2022-06-23T16:31:00Z
-    webUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft is removing emotion recognition features from its facial recognition tech"
     excerpt: "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state."
     publishedDateTime: 2022-06-27T19:12:00Z
@@ -64,20 +48,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Microsoft doesn't want AI recognizing your emotions anymore - mostly"
-    excerpt: "The Responsible AI Standard (opens in new tab) is Microsoft’s internal ruleset when it comes to building AI systems. The company wants AI to be a positive force in the world and"
-    publishedDateTime: 2022-06-23T15:46:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-doesnt-want-ai-recognizing-your-emotions-anymore-mostly"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kRuo7YkHKNPYGDwuLYL3C4-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why Microsoft is rolling back its AI-powered facial analysis tech"
     excerpt: "AI-powered facial recognition has been criticized by groups like the Electronic Frontier Foundation (EFF) for years. While law enforcement use is often the most worrying, studies have shown that these tools simply aren’t accurate in identifying ..."
     publishedDateTime: 2022-06-24T14:24:00Z
@@ -93,36 +63,6 @@ related:
       - url: "https://www.popsci.com/uploads/2022/06/24/mauro-mora-31-pOduwZGE-unsplash.jpg?auto=webp"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "Facial recognition tool that identified emotions to be discontinued by Microsoft"
-    excerpt: "The decision has been taken as part of Microsoft's 'Responsible AI Standard', a framework to guide how it builds AI systems."
-    publishedDateTime: 2022-06-23T16:43:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-retires-facial-recognition-tool-that-identifies-emotions-23232749"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-retires-facial-recognition-tool-that-identifies-emotions-23232749"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-retires-facial-recognition-tool-that-identifies-emotions-23232749"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 71
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/jun/instagram_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AWS, Microsoft, Google Top Cloud AI Developer Market: Gartner"
-    excerpt: "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping $135 billion by 2025, according to IT ..."
-    publishedDateTime: 2022-06-27T15:12:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/aws-microsoft-google-top-cloud-ai-developer-market-gartner"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0273-14b82b7c6db9-8d7b4fa5b5c9-1000/ai-artificial-intelligence-mind.jpg"
-        width: 608
-        height: 457
         isCached: true
   - title: "Microsoft Halts Sales of Emotion-Reading Tech, Limits Facial Recognition Access"
     excerpt: "Microsoft has decided to retire its emotional assessment technology, as well as place restrictions on the use of its facial recognition systems. In a blog post published Tuesday, the software giant announced that it would be sunsetting facial analysis ..."
@@ -150,6 +90,20 @@ related:
     images:
       - url: "https://www.innovationaus.com/wp-content/uploads/2021/04/Identity_1892584579_OP.jpg"
         width: 800
+        height: 600
+        isCached: true
+  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
+    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 38
+    images:
+      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
+        width: 900
         height: 600
         isCached: true
 

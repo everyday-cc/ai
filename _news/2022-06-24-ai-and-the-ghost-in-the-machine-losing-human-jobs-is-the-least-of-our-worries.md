@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/ai-and-the-ghost-in-the-machin
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-and-the-ghost-in-the-machine-losing-human-jobs-is-the-least-of-our-worries/?amp=1"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,31 +20,6 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
-
-related:
-  - title: "How machine learning AI is going to change gaming forever"
-    excerpt: "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca"
-    publishedDateTime: 2022-06-23T17:00:00Z
-    webUrl: "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Using artificial intelligence to study autism"
-    excerpt: "New discoveries published by Boston College researchers could help identify the causes of Autism Spectrum Disorder, and lead to personalized interventions The team used artificial intelligence to study magnetic resonance imaging data from over 1,"
-    publishedDateTime: 2022-06-24T15:58:00Z
-    webUrl: "https://www.bc.edu/content/bc-web/bcnews/science-tech-and-health/psychology/autism-research-initiative-.html"
-    type: article
-    provider:
-      name: Boston College
-      domain: bc.edu
-    quality: 19
 
 secured: "jwGCkebiO5clePpEOkRkR6aR5rqUaNCxSCjUWS77xZPkccBrNfn90dRWwq2BHLO2fSGW3hO1OGNmQPDt0QR0EaOgSk8HvmQouDLEKzQtjok3SkBFNL1S1sjZy0X8aYpIY56xgYLeWNM4OYBVYazdM3mv7ZQmKwOk53Z6dLnva18Ta1LD0RrFWBqDlySfPmw0qTxlWFDWdrSi9k+UBhqwGPHGNISUEtRNjEPfR1v1YJWw2oMgKYPmSCZ92SsgfT2bkuSURaAtUJ5njcNhhTDpgOo3hx3pWvMgmao74aULdeLDPqExxAOZL+/LUWi7m6PlmtatxfmPNCQgs2XPn+X69uPU1AEkr7+dySm//FCoQRa1b9rTGW/rRJsFINVYwVbzgt2PV7hOOn5yrNwKT2B+HtjqP6zp9X6Vj34/S6ZQxHQ0TmyAakXzeVFmde+pityLsLTxf/HitUI+sJObz3H9VNk2kyCzSfJl1M9JIn7jJAugBZbsZjXrvLHOXOLyTqzTPQs2TGDojsK9OcdDvmnODA==;dH0TBezoJDmIleLNjo8SRA=="
 ---

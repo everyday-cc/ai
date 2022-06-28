@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-c
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-codewhisperer-the-ml-powered-coding-companion/"
 type: article
 quality: 91
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,49 +30,98 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon launches CodeWhisperer, a GitHub Copilot-like AI pair programming tool"
-    excerpt: "Mars conference, Amazon today announced the launch of CodeWhisperer, an AI pair programming tool similar to GitHub’s Copilot that can autocomplete entire functions based on only a comment or a few keystrokes."
-    publishedDateTime: 2022-06-23T16:23:00Z
-    webUrl: "https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/"
-    ampWebUrl: "https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/amp/"
+  - title: "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker"
+    excerpt: "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs"
+    publishedDateTime: 2022-06-24T20:33:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: AWS
+      domain: aws.amazon.com
+    quality: 107
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/PXL_20220623_161108580.jpg?w=1024"
-        width: 1024
-        height: 771
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg"
+        width: 1245
+        height: 620
         isCached: true
-  - title: "AWS debuts Amazon CodeWhisperer and new synthetic data capabilities"
-    excerpt: "Amazon Web Services Inc. is adding new capabilities to its cloud platform that will help developers write code more efficiently and generate training datasets for their artificial intelligence projects."
-    publishedDateTime: 2022-06-23T19:28:00Z
-    webUrl: "https://siliconangle.com/2022/06/23/aws-debuts-amazon-codewhisperer-new-synthetic-data-capabilities/"
+  - title: "Manage AutoML workflows with AWS Step Functions and AutoGluon on Amazon SageMaker"
+    excerpt: "Running machine learning (ML) experiments in the cloud can span across many services and components. The ability to structure, automate, and track ML experiments is essential to enable rapid development of ML models. With the latest advancements in the field of automated machine learning (AutoML), namely"
+    publishedDateTime: 2022-06-24T16:12:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/manage-automl-workflows-with-aws-step-functions-and-autogluon-on-amazon-sagemaker/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/swami-codewhisperer1-remars.png"
-        width: 1262
-        height: 809
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/manage-automl.jpg"
+        width: 1246
+        height: 623
         isCached: true
-  - title: "Battle of AI-coding assistants: GitHub Copilot vs Amazon CodeWhisperer"
-    excerpt: "Amazon claims that developers can speed up the development process with CodeWhisperer by simply writing a comment in their IDE's code editor."
-    publishedDateTime: 2022-06-28T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/battle-of-ai-coding-assistants-github-copilot-vs-amazon-codewhisperer/"
+  - title: "MLOps foundation roadmap for enterprises with Amazon SageMaker"
+    excerpt: "As enterprise businesses embrace machine learning (ML) across their organizations, manual workflows for building, training, and deploying ML models tend to become bottlenecks to innovation. To overcome this, enterprises needs to shape a clear operating model defining how multiple personas, such as data"
+    publishedDateTime: 2022-06-24T17:51:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/mlops-foundations.jpg"
+        width: 1246
+        height: 619
+        isCached: true
+  - title: "How Cepsa used Amazon SageMaker and AWS Step Functions to industrialize their ML projects and operate their models at scale"
+    excerpt: "This blog post is co-authored by Guillermo Ribeiro, Sr. Data Scientist at Cepsa. Machine learning (ML) has rapidly evolved from being a fashionable trend emerging from academic environments and innovation departments to becoming a key means to deliver value across businesses in every industry. This transition"
+    publishedDateTime: 2022-06-24T18:01:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-cepsa-used-amazon-sagemaker-and-aws-step-functions-to-industrialize-their-ml-projects-and-operate-their-models-at-scale/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+  - title: "Inspect your data labels with a visual, no code tool to create high-quality training datasets with Amazon SageMaker Ground Truth Plus"
+    excerpt: "Launched at AWS re:Invent 2021, Amazon SageMaker Ground Truth Plus helps you create high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements,"
+    publishedDateTime: 2022-06-27T15:49:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/inspect-your-data-labels-with-a-visual-no-code-tool-to-create-high-quality-training-datasets-with-amazon-sagemaker-ground-truth-plus/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/27/inspect-your-labels.jpg"
+        width: 1244
+        height: 625
+        isCached: true
+  - title: "Amazon Released Incremental Training Feature in SageMaker JumpStart"
+    excerpt: "JumpStart to incrementally retrain machine-learning (ML) models trained with expanded datasets. By using this feature, developers could fine-tune their models for better performance in production with a couple of clicks."
+    publishedDateTime: 2022-06-27T15:04:00Z
+    webUrl: "https://www.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 58
+    images:
+      - url: "https://res.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/en/headerimage/amazon-released-incremental-training-feature-in-SageMaker-JumpStart-header-image-1656331499762.jpg"
+        width: 1200
+        height: 629
+        isCached: true
+  - title: "Amazon SageMaker Ground Truth now supports synthetic data generation"
+    excerpt: "SageMaker Ground Truth can generate hundreds of thousands of automatically labelled synthetic images on your behalf."
+    publishedDateTime: 2022-06-24T10:39:00Z
+    webUrl: "https://analyticsindiamag.com/amazon-sagemaker-ground-truth-now-supports-synthetic-data-generation/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/git-hub-copilot-vs-code-whisperer.jpg"
-        width: 1600
-        height: 900
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-4-2.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "qMQ36iBEhbj8GbQo0F2Ul7gR5RgEusG2PkVdGEg7GzBgd7VihoBnS50pl4DmY4i0lBXiCc8YVzXXKwiJhNUjKW74d0fykqt3DMSxwEeBVpbQ3+6gdn63RyhLvTW2lvq30qSTpWB666b2jfeE2+4kQClUn2Cuyyg69YlQz37QhIYwBkxWARgLH4xuZALh2KfeDQTJdrEi2Zi7vp+crS/4e33BYippKIN9UlEXxTMsBTKd78TPeHNHuDXPnviPdwfnTnzVJwPV6HhA4GcMFUW10ixKJ7VWpL6D/rVbZ6gUEJaaxnYHl6Hb8J1FjUvEjXsCdw5YAmIHahIUBIDP+5FbRuQ9L30x9Doo8SbihuojTKY=;hKgmD8Dl2zr3M6dovbHLcQ=="

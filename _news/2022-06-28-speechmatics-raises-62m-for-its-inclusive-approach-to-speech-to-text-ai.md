@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclu
 ampWebUrl: "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/06/image-1.jpg?w=680"
@@ -29,6 +30,6 @@ images:
     height: 453
     isCached: true
 
-secured: "NcOMPS5Wo7qwpYpg3xK1CWgAkGzhZqNMACxW9O9NyEwe9V61Arf/7lCytL4hQbOdm9f3cd6frzRJ3bVgxMyxqqbw5wHe3kSZU5RKodjNANuAlE/DEXISEvubMNkRuyipfPcYiwfvPDPfazQR/1WGLFgCStsDwA1bcvs6FGPrf//FH/RoVldXwM71pixU89FHDIYwe+j9nVsmt5ns4lWUtmBl/lynxo4sXMl029/uiUvTeDLHLPN2wV9Msr2pydyfMbKx2B4dEvwEN3o+7DdCpKsA/UQoEJaI8vmjk/tiOVbfTFZZpw4DGooH7J+TLdwjdf45AkX0WbfxiXDUgonC79Mh5WEaNH6OoCcuBaMF5fc=;QrXL9mxXwD9Ci9J8RPeo9Q=="
+secured: "/Dqbf/gIcZBXJOkvguy5JQdoE++Ob3aKIx7tXbOUtkcH2JOBV7ZtaPPYTJuGt/3KQkKoAmj1zYt90QaIp330LkTy/E+dGlWBHHzLumWrMDpisBlgkeEajZUHiiPrJIqw7i4sW/L6lKW21CvRbQzRx5bKyyLCBNZVvtIdGrGkT28yWgHYSSKImBM9vsse/OqzjSFYkC1zHS3LTeyegcllcJAeLlzuDU0Pq33ZqCm3uYd/tU/GyY6q20neUT+k/YBgjMlofeyZ6kgonVfKUvkbI68ogIv8M1MeKL0asK+FSu41Y9Qa+1f9RPV/L2S2J2kCL+dhXjFTwFeJ1yPs6EIEQD4YzR9NqSE2t2bI1FBeNIDcZ/aAnVHo7hQ+NLWbOOnuqHQeQfmrC/7RXM+rRFHgO3E8QgJUuZGKNzIu+7gcPROXuW7B1p7imcK/mV8WtWzauaGrmq+rJct0nkEXfU6kMf1/v7VYFsq1gZxi0Q0ix9VKdwvyhg4/NHgkmLYsBL1qTpl0kXh53oW2NXA6mAbhHg==;Aya5MqgxDncvSaBSTKQBwA=="
 ---
 

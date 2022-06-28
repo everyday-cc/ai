@@ -143,6 +143,15 @@ related:
       name: Euronews
       domain: euronews.com
     quality: 4
+  - title: "Franklin Templeton Selects First Startup to join inaugural Franklin Templeton Singapore FinTech Incubator"
+    excerpt: "Franklin Templeton, one of the world's largest independent asset managers, today officially opened its first Asian FinTech incubator in the heart of Singapore. The new Franklin Templeton Singapore FinTech Incubator is a joint incubation program for early-stage FinTech startups in partnership with F10 Global Innovation Network Singapore Pte."
+    publishedDateTime: 2022-06-28T09:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/28/9629322.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "iuTTiLJkYyevx+t81XxUIaAu0w9WWd1eMNC7SuT4L7NN5adRGPFLN8rpqcEQHSBg/1+QJ1yuhLo9wwqn8KddjjHIS+77fOR3eymgPUwSifpcr3tF4ozC2HFOG2RZwkw7cAdLIHmjHnyu4glfXQeBJt8uLa9bTHAe7XndYTw0cd3O1RZxCw8qySaAmItlacsnrcU+xb5lI7HgZ3T2zgv4Fwk7qYoPcX9lunRxKabDOfpOjieBzB15bXySnfAtDBXHXWK2miAl7ctARyf4brKYDECACG5JwsqOuVWC14NTmI3ntFt+wPui3VsTzIDL6EvxVWfjXaXAjt53Vu4TV6FGYBPappuN9Ov+Nt++AUWxqkYV6V8ZOpsR9NmMu6/XC2GXs7cH8y3PHOuzWTdfGTv8K+hwrj8P7rvsImPGDRsYBIQMSW54Eg8dtNCnNjzEV5di5Oa2/rQiKnfWNfrnX1S3a8mVzm0u3bdeZF13/0NgFrcs89W6pE7PdxTS6T9vY/Hiy8TlWSVuoR6iKpLqxEkIZw==;5RBRCNtYhun8FzowPE84KQ=="
 ---

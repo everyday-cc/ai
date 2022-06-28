@@ -56,6 +56,20 @@ related:
         width: 3000
         height: 2035
         isCached: true
+  - title: "Edge AI: The Future of Artificial Intelligence And Edge Computing"
+    excerpt: "Forward-thinking companies and cloud providers see new opportunities in the integration of edge computing and AI. By Helen Wilson"
+    publishedDateTime: 2022-06-28T08:14:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/edge-ai-the-future-of-artificial-intelligence-and-edge-computing-6377.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 52
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202022-06-17T131611.005.png"
+        width: 902
+        height: 632
+        isCached: true
   - title: "Artificial Intelligence in the 4th Industrial Revolution"
     excerpt: "Artificial intelligence is providing disruptive changes in the 4th industrial revolution (Industry 4.0) by increasing interconnectivity and smart automation."
     publishedDateTime: 2022-06-24T02:35:00Z

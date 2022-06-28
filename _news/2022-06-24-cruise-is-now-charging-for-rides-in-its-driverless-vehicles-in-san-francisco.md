@@ -61,17 +61,6 @@ related:
         width: 1600
         height: 1016
         isCached: true
-  - title: "Driverless Taxis Are Here. How Should Investors Play It?"
-    excerpt: "Cruise, a subsidiary of GM (GM), gave rides in their completely driverless AVs to fare-paying customers in San Francisco, marking the first time that has happened in the U.S. Alphabet (GOOG ..."
-    publishedDateTime: 2022-06-23T15:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/driverless-taxis-are-here.-how-should-investors-play-it"
-    ampWebUrl: "https://www.nasdaq.com/articles/driverless-taxis-are-here.-how-should-investors-play-it?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/driverless-taxis-are-here.-how-should-investors-play-it?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
     excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
     publishedDateTime: 2022-06-25T14:27:00Z

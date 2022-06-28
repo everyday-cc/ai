@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Australian firm pauses facial recognition trial over privacy concern"
-excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer"
-publishedDateTime: 2022-06-28T06:36:00Z
-originalUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
-webUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
-ampWebUrl: "https://www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern/amp"
-cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/australian-firm-pauses-facial-recognition-trial-over-privacy-concern/amp"
+excerpt: "The move comes after a consumer group referred it to the privacy regulator for possible enforcement action. Read more at straitstimes.com."
+publishedDateTime: 2022-06-28T05:36:00Z
+originalUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+webUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Daily Sabah
-  domain: dailysabah.com
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/06/28/thumbs/800x531/215212.jpg"
-    width: 1600
-    height: 1062
+  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/28/ac_thegoodguys_280622.jpg?VersionId=wGnZzn1t3CotARjlPkNubCxeThFvNo4P"
+    width: 860
+    height: 573
     isCached: true
 
 related:
@@ -115,6 +113,17 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Australian retailer pauses facial recognition trial over privacy complaint"
+    excerpt: "The Good Guys said it would “pause the trial of the upgraded security system with the optional facial recognition technology being conducted in two of its Melbo"
+    publishedDateTime: 2022-06-28T09:34:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint"
+    ampWebUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint/wcm/8d1f0c81-50d2-4357-b7a0-4ae47f7f191e/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint/wcm/8d1f0c81-50d2-4357-b7a0-4ae47f7f191e/amp/"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 52
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
     publishedDateTime: 2022-06-27T01:47:00Z
@@ -132,6 +141,6 @@ related:
         height: 413
         isCached: true
 
-secured: "DUkMP5yZwRKGj3C0I5LUmBG748+dd4+3PABZNyqtmMrPHgXV1GPBQLnW71BTrsrSCcjENMzxneDpyFxdEr9dpAHGu59BznB56h6I78Xg30B0w8ir/gGmInoyAo4MfyuH+KpcdxHS65cTLZFPWzpFEqsFl0J35zw1yZ3/fX7HixUhRBamiYgNzhVSNdC3F/sNAc6yjlZ+75KG60LzP3qHyCS3Fbsms0U/0j+lwQsg9HMm54ScA8iinWiymeB2IYt+hvmji/JlsclWY4VatEnkFbJjgHnpfm1XTIjp5EFR7W8BPHeKuHeW0WJ4D1FmsLlPTBxV/vXN+Iti1P+pu2KVHQV9G4tIoaJmxVBEVukPm5Q=;Wt8BjMF3qaPCt6q5jpyKlA=="
+secured: "KVC3YMN61HmPyM+kmAJP6Ol3pVNucudaHZaywOuFG1xvUE2l8ue/iRANZ68q7X5BWmsB2lq9jmMYTskigPDtix4H0X4Xo9qTTyEi9x8g3EgSVuV+SWSGnJz2O1fTVOq31TWOC4mlZcAuAyfxkU1NN5EcUFI4InEqSskIjxvNJD/4Sx/ig+a6RViXTEQNREL4c0TJkWr4s4kxHBIPKLRrz5k2ruBubfuK4E+0eROahw6F2PSW1o2hAnlZDLRZqdMEPoROw/TWXrFHG/kcuLstgdy/iKelR+5h20rzm4DsWEUAYuqDqHI4DdkjE5Nh5Crh8X63sZh1z485J1pUv7mnG+WjlnltsMigZRLBGk2mdE4=;kcWjmioQR3JaKAPFHFqeUg=="
 ---
 

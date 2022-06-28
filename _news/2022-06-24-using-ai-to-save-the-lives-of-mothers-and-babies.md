@@ -23,6 +23,17 @@ images:
     height: 666
     isCached: true
 
+related:
+  - title: "Using artificial intelligence to study autism"
+    excerpt: "New discoveries published by Boston College researchers could help identify the causes of Autism Spectrum Disorder, and lead to personalized interventions The team used artificial intelligence to study magnetic resonance imaging data from over 1,"
+    publishedDateTime: 2022-06-24T15:58:00Z
+    webUrl: "https://www.bc.edu/content/bc-web/bcnews/science-tech-and-health/psychology/autism-research-initiative-.html"
+    type: article
+    provider:
+      name: Boston College
+      domain: bc.edu
+    quality: 19
+
 secured: "8gmDY0/VNyTfEcGYdtvI/xoe1oObmuzkl8wzAwgr0xV+Q5x5O+rDgL69zhp6N5VXk44m53DpySRUmNp8DFPhXLX/MVlEoppzKi/LXBKF5gUK5PZkgVuUf9f+YkvqRd8X1C+MtMcWCEmjhh9rCf7ZAmQMmNZqBNwmCVtCO4cCDRrCLdWyi0rnJGporVc+Z+o6CUAhdAHvEnZh/4bpvTO51i2zP3vGk+FQWC6wGyWeVnGMQF1Zz6QHYPIEPUWhmc66Hd5XdUJep1T1gpEzPPmVDTaBDaUJeKUh36wOU33nEB38JtBGGJPVpKT1/TsSqnBvvBfUDkCh+kIXRuAPhqqKVLnTG29PKyw2TffdBkkDuGjaWuB95Gkyf2ZxA+7RniD48U8260SqxfAi2+notuynZD4Ozqeb78F0JK8KNEl9t6a3IqmvblAa2mBlvY9Fzd+ud3hWa9q4YVS3D1QRI+sTepTIaRBHAi1psfLoNnSBI0ItMDYxk9OmfyIhBJgdPzeCc+gYUTWE6pXtV2B95MCPDQ==;RfXIQUbNut0TXblR7JrcZQ=="
 ---
 

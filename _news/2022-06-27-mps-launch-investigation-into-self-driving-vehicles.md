@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving vehicle inquiry launched by Transport Committee"
+    excerpt: "The Transport Select Committee has launched an inquiry into the development and deployment of connected and autonomous vehicles."
+    publishedDateTime: 2022-06-28T08:36:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 24
   - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
     excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
     publishedDateTime: 2022-06-27T17:34:00Z

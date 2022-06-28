@@ -7,8 +7,8 @@ originalUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft
 webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: The Peninsula
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
-    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
-    publishedDateTime: 2022-06-27T11:25:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 38
-    images:
-      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Durango fintech company sells to NerdWallet for $120M"
     excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."
     publishedDateTime: 2022-06-27T20:07:00Z

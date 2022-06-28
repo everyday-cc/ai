@@ -33,6 +33,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving vehicle inquiry launched by Transport Committee"
+    excerpt: "The Transport Select Committee has launched an inquiry into the development and deployment of connected and autonomous vehicles."
+    publishedDateTime: 2022-06-28T08:36:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 24
 
 secured: "u5rym9X/9DyVl5gNGPHABJnbJArAaccM7Z2auCiiEBNomAwwk3M76dPLdk97dFcv6WLSlvZncIIyc0TISrzkIjmlC2WhaX1T3h6UEB5Uz9SNjs0rdnORI7VGrAJ7tU4RUF/R+H+JtDUtyYFXagv3Ac0o0upGS9teIIG+oJ3ESBGskz7h+PzpsUkZlXahF9jrNbKu5iEEmEyQK8GZzLIRM76+D+1ijWud+yBFOZONeSMSR/w6jtNf6BM4UsSujkEAD/Ro5uYowYILAF118FTNYTrm+L4WbCdgb9qKxMfVWq4aCEvY/ezvWoGi3SoUPfSCXXD6X/H0KZTWCe5qdSuj8gzzxysbGAqhc9/tSfLOXgwNt/MGXk9ZIqMeSd8f7o1gpDjYfCjVBYA3QXpijh2esbdrXVuWO8HR8tCTJmKGY5n/GRvurWOKQ4TCHzS1x6s3fAyVDJJOeANW2aQaOmepAn3Kikvqtmi+kuwyAGie82bPuPfQoK1h/d10devQijiMmDx03ZoCX0OkNicM3+z3OA==;ZxRZcTiURB731Do+7H5PYg=="
 ---

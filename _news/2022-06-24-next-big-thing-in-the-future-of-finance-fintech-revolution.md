@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-t
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -143,6 +143,15 @@ related:
       name: Euronews
       domain: euronews.com
     quality: 4
+  - title: "Franklin Templeton Selects First Startup to join inaugural Franklin Templeton Singapore FinTech Incubator"
+    excerpt: "Franklin Templeton, one of the world's largest independent asset managers, today officially opened its first Asian FinTech incubator in the heart of Singapore. The new Franklin Templeton Singapore FinTech Incubator is a joint incubation program for early-stage FinTech startups in partnership with F10 Global Innovation Network Singapore Pte."
+    publishedDateTime: 2022-06-28T09:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/28/9629322.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "5+Hx/9dUnBnFplC7n4VuIl8wX3eY+y/Y5rmvDQc38ImpQ47q4Ys0zeDhaWu1vf1gmDpIUqAqaNb4v6zCaA8rd14vDymqW3sEd/P5IvKiwLDNiOK94UObhxcrEkpflLGaES+xKIpdp1yOhUC4Qy1vsZPgtPebCAJgcO1qVEwbv8LgMUVIjYdzF/1P8U0WBiCoqlt9PWzDzZVaTWu6ojFzAI0eT3htIm9YYgrCu/P2KpW57VJN4gBYMCMvsZ/HzTXrV5zj8hDEs3HfIkMqj7SYx5OCvi3Ws3YqcQA72gVzRLfI1N9Q5qR0sCmSg9YPpguQyblSqLHJzbKJGj7wVVdQqayybDePl0tBN4hvt7n09dt/YpMNKYoq0wZ5oU/AtN0ocT4Ran3kdP4P98DgtlN1//i+E15FXooONftv9eDAlhWr+aspzRd2tn46jLfD0pK2ggOjm5e2+n+fEt1makcBc10tJzgp1DgD+YJL8J5DNLsPvhaWYtPRqHXmeCe3vZroq133lbcrHYMAmmhZFqIjpw==;kthdDSQz4tWZHH4w8Wz5Jw=="
 ---

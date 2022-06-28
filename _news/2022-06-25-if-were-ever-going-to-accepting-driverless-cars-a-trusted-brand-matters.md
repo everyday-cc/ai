@@ -59,17 +59,6 @@ related:
         width: 1600
         height: 1016
         isCached: true
-  - title: "Driverless Taxis Are Here. How Should Investors Play It?"
-    excerpt: "Cruise, a subsidiary of GM (GM), gave rides in their completely driverless AVs to fare-paying customers in San Francisco, marking the first time that has happened in the U.S. Alphabet (GOOG ..."
-    publishedDateTime: 2022-06-23T15:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/driverless-taxis-are-here.-how-should-investors-play-it"
-    ampWebUrl: "https://www.nasdaq.com/articles/driverless-taxis-are-here.-how-should-investors-play-it?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/driverless-taxis-are-here.-how-should-investors-play-it?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Cruise is now charging for rides in its driverless vehicles in San Francisco"
     excerpt: "The company said that fared driverless rides are currently taking place with “most riders” in the Northwest section of San Francisco. Cruise will continue “expanding our paid service in ..."
     publishedDateTime: 2022-06-23T17:21:00Z

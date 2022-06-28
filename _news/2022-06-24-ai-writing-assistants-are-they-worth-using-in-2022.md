@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Battle of AI-coding assistants: GitHub Copilot vs Amazon CodeWhisperer"
+    excerpt: "Amazon claims that developers can speed up the development process with CodeWhisperer by simply writing a comment in their IDE's code editor."
+    publishedDateTime: 2022-06-28T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/battle-of-ai-coding-assistants-github-copilot-vs-amazon-codewhisperer/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/git-hub-copilot-vs-code-whisperer.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI-based coding assistants can surprisingly assist in genetic programming"
     excerpt: "OpenAI has now introduced the results of their recent research where large language models that are trained to generate codes could also be used to improve the effectiveness of mutation operators applied to genetic programming."
     publishedDateTime: 2022-06-27T08:36:00Z

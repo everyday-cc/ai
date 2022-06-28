@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Clinical research and drug development accelerated via analytics"
-excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting CARY, N.C., June 21, 2022"
-publishedDateTime: 2022-06-21T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
-webUrl: "https://markets.businessinsider.com/news/stocks/clinical-research-and-drug-development-accelerated-via-analytics-1031539894"
+excerpt: "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting"
+publishedDateTime: 2022-06-21T12:03:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1843598/SAS_clinical_research_analytics.jpg"
-    width: 400
-    height: 267
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "s1/P08owAA1qSK3RYStyWFHvLRWqfrxzCilj2iPgqEsdJ5Taxwle338fTskyOqwb0dOn/uaIjUNWV82tXaFqHm/r3zCbbOUlTLWs9HUq88r64tUEZ0/mZxbfMZAlkf19LBLDt9b+4D1+YM56CxeK0Ic2kGX95qn8aITSi+qizFGsKaf7HPzchSDRBgsaQOkt5HzWyGo2q9KfIjG1bEDv/gC0gvHfkex3qFy1jHcU+72BNx40K9qtyG7LGuPmettq7LO9jbEiLAWU2PWEst+D9khqvCJjwWLpiHGYcB8WavSe8IPY2uXGAsvWea88e3WLNqYgT9sBgID+vWqErw7RKTGGUbBFg0YynK6gEv5hCKw=;aouAN2gPuyWH0jXvvWkacg=="
+secured: "pUSGWQFIBTOfOuA7VGLwmKATthZHwv6YBzoIDoLXTdykGAmJPnpsqbBjP1jBFzW013mbU02zNY/FEExSrAAnJ9ziTxH34nOvOZG0gcrAmtuAfW4eVcBgtHN7KNUACJSsj3cHFt01/YU70ZRDA1srkFSIstRc24XPp/MOeZoUgHxcTLMKQmL216gJt6+hpi+ssNVZGqPf7PWZWTcIXcDKLjzY4Rp2ttKrOyRoEJf2aS73dhW/mDtO95WkmC27UMA7/d0BRfJe13aD9uLFwLVk/e6RoH7viqrRX/W1cwjBA46MPZOWBBU08JnKob1Wj37hpgacdAaRXgAWsGrQ6fQrGAhdy/q6h8o3Np2V4LZxnag=;Ponx+72Jw6xFxb1D1dcFpQ=="
 ---
 
