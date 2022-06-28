@@ -5,8 +5,6 @@ excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial in
 publishedDateTime: 2022-06-15T12:07:00Z
 originalUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
 webUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
-ampWebUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
-cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - Google AI
   - AI
 
-secured: "R1iog0nwqfZXZV0iRaSvY1U0luSjjQUfhvBCY7llDuEvn56VxCuLNFLXmzeUFFwFHB5rhBQH3huk9db90xGSZ6k8tKf8hrNn/g668BY1bJL9Q6VCpBKHPotzaflEnFDjHlK//zXwYQpkVylieddDjpb981PyrDM3KVX9r9SaKssKh4JkvQsyIAB4e5i2vTAIBEzSSA18DURE0hNnWARKy5FpnS6ZQKe18dw0MdsUx+VsI8/KprZ4jGYS7NgTtSywGyfAxYNp+oTjh2EWI/SLuRdENLdfiQRaqCWqx/g5ULUU8Yq0sqLMT/JlQchGG64F6i3gDoBk0XyQFiKT/bOfr89DIfIRLnCZApl9ABO5Od0=;etEMWukA/kHQT3r9FXma1A=="
+secured: "+AhwMrwhdeXKoCjm5ca2YepO8TT8LevFCODIrp77+El8THjME8jIogyrkW/jQfaT89qgJHeDCWJoRN1Lhy1XVqqzW2aa2PEhV5KU3F+OgfDzzUJ1S1HItoXBgods/+3zqsTjaqj5lo1baHZ67f9n2h/Zr3oqob2SlmagDPJfcwXgcmAK1LSrIZhIDJwWNL2afwNNbC82xwmVgkUEbZ2xEqtwrr7xteoHqjZF5zN06ZZj5hAUXSdQkBREbnDQS44qrYL7YC8yR4/1iWwfEWL0KklKnghgNFPfepMN+WFJdeIE/uOTJTwBcymrtCB8suoxL/RIqqhGFbM+nS4XE8UNFpRv9aHz1P/wI+2YMcLLnbY=;WEyFKtdrLpPwvUAB4ScRiA=="
 ---
 

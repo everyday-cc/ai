@@ -1,26 +1,24 @@
 ---
 category: news
 title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-excerpt: "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ..."
-publishedDateTime: 2022-06-21T09:30:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
+excerpt: "As the Official Technology Partner of The Championships for the past 33-years, IBM continues to accelerate innovation at Wimbledon and improve"
+publishedDateTime: 2022-06-21T05:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
 type: article
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg"
-    width: 400
-    height: 258
-    isCached: true
-
-secured: "2h9HO+ZUVAds2pWQNvESYbRngVWeOY0Xg31V8h3odEOIJgzaFS5ta5XiCnqmawj7B+3fvEuB62b6PM/3VIg+yHMbwXXIgr/0hRHgfdppr4jTJJyGdtlDIuq+WX1tJOW16OjpIuiV3J0FCg5KkdBPN6cFTVcxuuS17ZdCQtoX7y//ahE+VSW3j4HHh8zd9MH/XSgr9r03es+I+51DjWUbHR3WkP952XVK+TlBj/DaoAKCNFtoxYyXFI5taBKEHbY4Fyy+d4uatQvU3hXsN3JWaYxXltRdeToUOhdLxcNTtU1/9ZwBNDfLvzOM5/Tv+t1PFGPOW/M24SO5FQAxb0yxrk3zbzYXFjwYieJjrvVnF1o=;pZH/m2p7WTT6XOc/ioBV2g=="
+secured: "lSpcNugF2dx+JVGpkh0Xkx6W+WJYB3k2vjzWZqhdAG28V2/ieBHVthoTbE7eWRB8dzAYrXnGYOzYBEhdMhS9mrKnD+wdVTv8Blajc1CMl1THdR+lq1tYqi7j2LYMyxpveKRhT1N4GDN/K2xgEOhCzGiuoH/spB4SomFbQZ00mbqtfbHvV8eDiuSN89wxkCmlWqJbjokRDd99HiDTREmf4F+JFbcxfXW7ZIashRMXRcnplnTQdy/KGj779NViS1qgQP8Dg3yCVsBkkVX3zUPgK45n3J0w9RA19ILOdxQDP05pT3nrjZQxVZTlzo4V6QohNrT836T+1HUj3phNITKDdd7KJ2c/X/fxmH0HmrB9PE5zbes8QDq6y5JQCvFWOfXqN1jcdR0BME+KIGjLjoNbNVG0qqZEf/az3C+t+TKmO5fENRh2O22CRiZrQB0F8BpU3QArQ5pdWyad9NKaOvOQcKg+n//IWgEmpWpuH/Iwl8ycQMg7idb4txz5nABcdBOP3SofWOxdIgKVtNBk8RgP3Q==;f/7gdNa6DdIySeA8tiVJKg=="
 ---
 

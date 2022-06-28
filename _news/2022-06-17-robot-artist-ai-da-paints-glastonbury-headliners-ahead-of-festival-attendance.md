@@ -2,19 +2,19 @@
 category: news
 title: "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance"
 excerpt: "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ..."
-publishedDateTime: 2022-06-16T23:13:00Z
-originalUrl: "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html"
-webUrl: "https://www.aol.co.uk/news/robot-artist-ai-da-paints-230100737.html"
+publishedDateTime: 2022-06-17T00:40:00Z
+originalUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html"
+webUrl: "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html"
 type: article
 
 provider:
-  name: AOL.co.uk
-  domain: aol.co.uk
+  name: Independent.ie
+  domain: independent.ie
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "ens/7a1o03cQ+mfcj4g+biC/9n7IcFZ7yo7KXhBuqmM60LeKt3/dki7Kf65KqDYbep43tsEJ9nynkl9s+nVX7P4pOO8HrsSkZVCYO7yjMypd4oY5fUnDd2JOBcAeRrXgXnUYz9v+RjLpoGKm2RekmC1iou2gHbzDSN4TZLJlQzSpIums3w9sXYq/V3PEqtb8+UKq+cQZL7fx4SDGOnLdO5Pi+LcDsSs9UYRm2ZAFVGhQQRkIeZxoozK/O2n4DhEB6T/IGy/RTlpeKEYkHcdTNYoXylMnnRhzl8/KJXJkMuB2h6ShzzzoRiHWAfKgqPFdbChvDyxd3FrWocDpxHdOuUMMXsh6LxVuks2hvEmjjIs=;/ubE9HAGkH4t1L4xfXBKsQ=="
+secured: "ChsVf8WUrxIh0U2TX8pJi7WDUFxHzeOtB6gicvJCCM1epTSE+kZAse78VfDKULyLhV0sktHuT484ni3TN1KkJYAVCS2lLYxZtoyZD1MiBtinxXCSokr1s7E52QLRlL0Dpm2OebGrWcUYqILqwzZGaby2ZOz0Fvdjt9lI4EYSasFuF48YFKPvpzJSBRUnkTFzwPFl9DCwhxELpDtWLXpry4xZmdUyiAtt2KTSVVETiewZEdq9cCRkngGZqH5YaQieY21NswghknKjKFbePNv41uV7g/ixcxaD5gS9hW7RfVANh/0SMkLVvr6leQnIegtXg4Y4TkvaICl7U/HDlhH8M3hKH8UBcT+xMFk1+pYqwMk=;S+bEVa1EfCpI9R5rXEmLyg=="
 ---
 
