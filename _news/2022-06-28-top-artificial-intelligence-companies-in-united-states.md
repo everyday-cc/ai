@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-28T14:57:00Z
 originalUrl: "https://business-review.eu/tech/top-artificial-intelligence-companies-in-united-states-232590"
 webUrl: "https://business-review.eu/tech/top-artificial-intelligence-companies-in-united-states-232590"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://business-review.eu/wp-content/uploads/2019/09/foto-articol-AI-Ovidiu.jpg"
@@ -58,6 +59,6 @@ related:
         height: 383
         isCached: true
 
-secured: "NOY95ss6hy3dVrx3A0pyPOqaIs/VK+n5eej6YOWHZtOUVzrTZamDsXmjM1awHboj2cHlM+NBp+lBBFqGHkDYXBc3FhDyXEEaSozO02zukDDtSDEvoBHWP0PYn+5g4bBG27Kx/TdiLSYf6Zs7zvUOP0pHspl1ziVYQTxze/q76fSJ+zFXdfnxjnXo40pTDGptp1unHM4dyvW7ClvqW+jwQZqL6tus5qfxjoFOBQ4umwHI+lNfn2dbon6b1TnGludceieetAV4bJCiniktMxD5C0CVvQJuQocW/YqdChwqCF0eYxYaPh5HZZ/VMg1Mlq9dhMhvN2lTWiPCHk4KIhtLpt88m0SuQdroUZ808uQ22d4=;o9/autQBNaiUHdJMVjB76Q=="
+secured: "aBakoIdhAuqvvO831hiUN9BaPwwxdlt/zrLYYJIkklmxEK+7XAxE5Xk+/TD0MyfpYCBdYvFXCFhUicbndbalLtWTZ11Gcl5g+6shqJgnHjW7n1ozJeOBmRag1tVraeii6TiLYSx6EvHFK8gPWZIK8ecqk0O7Yly9Z7Ee0Glf+n/t+0DxIQCJs5Oei6sjRjT5oxML26FWmy9wFX0kn9mWPD4BFqVsPp1BwxNSdUodOU0IRHYjpzSxtAIJRzaAmt/rzveRS94ef8dCwA2tenHse4AqHkkuMIdpSxqK1lfhrPWgurDDwRIGT/qOXreMSKWhDrZEROamYneUZ24BorfwUI6Stjngum0jtgvdidI7x/V9303HqDMsTciPSenABMU4ja0Ji837T9rN7TcZTz1t/36NcuBpS6oYGdza5/xin4jFS6HKJtDQdnDgNgFDjmFRuiH5RVHU+ddavK8Czt6PPIhWKU6qqHqdNJmSz/9OerwAEH+fDgdeAIebHOUYYYye3DaCZo8wg+TOMmroaLRq8g==;T6zJCNNN/qO0FgFeLfMi/w=="
 ---
 

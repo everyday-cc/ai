@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-in
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 679
     height: 453
     isCached: true
+
+related:
+  - title: "Speechmatics to extend voice biometrics, speech recognition accuracy with $62M funding round"
+    excerpt: "Speechmatics raises $62 million in a Series B funding round led by Susquehanna Growth Equity with participation from existing investors AlbionVC and IQ Capital."
+    publishedDateTime: 2022-06-28T16:02:00Z
+    webUrl: "https://www.biometricupdate.com/202206/speechmatics-to-extend-voice-biometrics-speech-recognition-accuracy-with-62m-funding-round"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/28183020/funding-round-biometrics-and-identity-verification.jpg"
+        width: 940
+        height: 500
+        isCached: true
 
 secured: "/Dqbf/gIcZBXJOkvguy5JQdoE++Ob3aKIx7tXbOUtkcH2JOBV7ZtaPPYTJuGt/3KQkKoAmj1zYt90QaIp330LkTy/E+dGlWBHHzLumWrMDpisBlgkeEajZUHiiPrJIqw7i4sW/L6lKW21CvRbQzRx5bKyyLCBNZVvtIdGrGkT28yWgHYSSKImBM9vsse/OqzjSFYkC1zHS3LTeyegcllcJAeLlzuDU0Pq33ZqCm3uYd/tU/GyY6q20neUT+k/YBgjMlofeyZ6kgonVfKUvkbI68ogIv8M1MeKL0asK+FSu41Y9Qa+1f9RPV/L2S2J2kCL+dhXjFTwFeJ1yPs6EIEQD4YzR9NqSE2t2bI1FBeNIDcZ/aAnVHo7hQ+NLWbOOnuqHQeQfmrC/7RXM+rRFHgO3E8QgJUuZGKNzIu+7gcPROXuW7B1p7imcK/mV8WtWzauaGrmq+rJct0nkEXfU6kMf1/v7VYFsq1gZxi0Q0ix9VKdwvyhg4/NHgkmLYsBL1qTpl0kXh53oW2NXA6mAbhHg==;Aya5MqgxDncvSaBSTKQBwA=="
 ---

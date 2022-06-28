@@ -24,19 +24,6 @@ images:
     height: 779
     isCached: true
 
-related:
-  - title: "Amazon building ‘fake data’ to advance manufacturing"
-    excerpt: "Data is one the most valuable assets in the world, but not all of it is real. Big tech companies are entering a new era, racing to create fake or synthetic data to help further the advancement of machine learning."
-    publishedDateTime: 2022-06-24T00:13:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/amazon-building-fake-data-to-advance-manufacturing/news-story/5e350a3d13d429ee3ee7576e2acbaf32"
-    ampWebUrl: "https://amp.theaustralian.com.au/business/technology/amazon-building-fake-data-to-advance-manufacturing/news-story/5e350a3d13d429ee3ee7576e2acbaf32"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/amazon-building-fake-data-to-advance-manufacturing/news-story/5e350a3d13d429ee3ee7576e2acbaf32"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
-
 secured: "aB5VQYDOsIhGo3Oz0GqChbCLP6dWf8aogxkJdKICuIWOlst1KGivlvDnR4Vsers/hoxCINdAoICtwnOvfidcglwNkI+5xvSS4F66wlV+icrv3zEw/3y4itcX39Qd1jXscKQ9ZUwOf9DaSBxmmtXlGpwHHZmtSuCu2liQP7ugUWbEvSQuHfPDe2//y3TdGmeRq0bQg9//PnW81YIS2jQ/eOcWEjVbOz9n3DvMO6K4C14a3M/fQXD36578OrWLhDfyYaOMaMuUvGVilVk5wRUKqUYX2th/WOU7EVdauyIA015gtqCm9ul+sfSR9Bq0D/l1oxeWnRZZCLp1p/SUqZTAopwqJ+SaUUvOniFtO9ES9Mw=;Yt76NTID/2ulT0m4JixQhQ=="
 ---
 

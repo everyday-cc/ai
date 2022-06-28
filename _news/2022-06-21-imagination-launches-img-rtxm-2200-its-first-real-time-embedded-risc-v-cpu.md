@@ -15,6 +15,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "1KLTuNV8PkJbdXzamlCCDGYkMX4cHAzrhwAC4ePimSCmSzv0bw70/+qAjd/jO2JHXgrvQoQiXq8DBTjZjtGlISuOSnbYh04D7K39LzpKrSzk5jxwM4cZr4ygzHP+VzlzrwZGZzn+NDSNwijT+h/8ALyMDFrqeub7w/RqykWIm/SKnoSnsa7UP2cGUtFE32hsXX5QY/8p2N1A03MKApOMd842QCIXJudWmcpP4KMwDg93eSyHeLbOoxbb+GHRvFOdgwSKIN6XbMTgBR1gna2CrZlL4wDv6vQhIEl6igxovjUyjgGXnXUs05Hy6fV1clWkCwgdc4XPX4V83xNtBt0o8dZyknz4GfcFsk5mjmQ5JLA=;5NNPnvAXtQJxlg8iIcRugg=="
+images:
+  - url: "https://www.hartware.de/wp-content/uploads/2022/06/Imagination-IMG-RTXM-2200-top-600x388.jpg"
+    width: 600
+    height: 388
+    isCached: true
+
+secured: "MSNJtmYPQHBtRckvV9MWD4wFVtj4FQZQtQzRpVnXTzrOmgJsibGbn6Cjck9hJyfYSatDUSkEZWzJk12BD+HxKlXLckbCGq/iE0pGOksyEZ4REYKwREdyBDDdCrnBUoNJmnlApt+gkA7erzzxwbP18wnP4g7aADWiUE9d+BHURISVNHIYyfm4ngAD3xPU/SQ0FaGcADBFqAtXEtAUNylpR8xTq/g2e07IISBSjqyhSEJyXcDQPZsXoVJjOjOcwmKYUq3ZCUXjX4uWSaBfdWBehOjJSd9nVprxW1PfTX2FHpN+CFDxWBnBKE9M84I/Pe0e0WozFTShcxxG4OiS/xfU28mIR7cpmHq0i95Fql81Yo0=;bZrdB9FAUV5aZL6PWUb5Ow=="
 ---
 

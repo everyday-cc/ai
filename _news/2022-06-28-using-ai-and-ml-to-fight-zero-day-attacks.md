@@ -33,6 +33,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Using AI to predict hip surgery outcomes"
+    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose diseases in early stages. Now it’s newest use can give patients more control over their surgery outcomes."
+    publishedDateTime: 2022-06-28T16:11:00Z
+    webUrl: "https://www.winknews.com/2022/06/28/using-ai-to-predict-hip-surgery-outcomes/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
+    images:
+      - url: "https://cdn.winknews.com/wp-content/uploads/2022/06/Capture76-1.png"
+        width: 1901
+        height: 1066
+        isCached: true
   - title: "Using artificial intelligence to study autism"
     excerpt: "New discoveries published by Boston College researchers could help identify the causes of Autism Spectrum Disorder, and lead to personalized interventions The team used artificial intelligence to study magnetic resonance imaging data from over 1,"
     publishedDateTime: 2022-06-24T15:58:00Z

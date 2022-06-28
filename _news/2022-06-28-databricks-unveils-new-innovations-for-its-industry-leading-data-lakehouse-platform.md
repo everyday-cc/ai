@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tellius and Databricks Partner to Deliver AI-powered Decision Intelligence for the Data Lakehouse"
+    excerpt: "New integration will allow joint customers to search and generate AI-powered insights directly on the Databricks Lakehouse Platform, powered by Delta Lake"
+    publishedDateTime: 2022-06-28T16:14:00Z
+    webUrl: "https://www.01net.it/tellius-and-databricks-partner-to-deliver-ai-powered-decision-intelligence-for-the-data-lakehouse/"
+    ampWebUrl: "https://www.01net.it/tellius-and-databricks-partner-to-deliver-ai-powered-decision-intelligence-for-the-data-lakehouse/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tellius-and-databricks-partner-to-deliver-ai-powered-decision-intelligence-for-the-data-lakehouse/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 46
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Databricks Opens Up Its Delta Lakehouse at Data + AI Summit"
     excerpt: "Databricks, which had faced criticism of running a closed lakehouse, is open sourcing most of the technology behind Delta Lake, including its APIs, with"
     publishedDateTime: 2022-06-28T15:30:00Z
@@ -52,6 +68,34 @@ related:
       - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
         width: 1094
         height: 576
+        isCached: true
+  - title: "Databricks Announces Major Contributions to Flagship Open Source Projects at Data + AI Summit"
+    excerpt: "SAN FRANCISCO, June 28, 2022 /PRNewswire/ -- June 28, 2022 - Databricks, the data and AI company and pioneer of the data lakehouse paradigm, today announced several contributions to popular data and AI open source projects including Delta Lake, MLflow ..."
+    publishedDateTime: 2022-06-28T17:01:00Z
+    webUrl: "https://www.asiaone.com/business/databricks-announces-major-contributions-flagship-open-source-projects-data-ai-summit"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 26
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_1660.jpg?h=7de12b8a&itok=C4LzCrqO"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "Army awards $72M for prototypes for next-generation intelligence ground station"
+    excerpt: "The Army has awarded two companies $36 million each to develop a prototype for its next-generation ground system to collect and disseminate sensor data to decision-makers and weapons platforms. In a Tuesday announcement,"
+    publishedDateTime: 2022-06-28T16:22:00Z
+    webUrl: "https://www.fedscoop.com/army-awards-72m-for-prototypes-for-next-generation-intelligence-ground-station/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 18
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/06/TITAN.jpeg?w=1000&h=500&crop=1"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Databricks Releases Final Keynote Lineup and Industry Programming for 2022 Data + AI Summit"
     excerpt: "Microsoft Azure, Prophecy, Slalom, Sisu, ThoughtSpot and more. About Databricks Databricks is the data and AI company. More than 7,000 organizations worldwide â€” including Comcast ..."

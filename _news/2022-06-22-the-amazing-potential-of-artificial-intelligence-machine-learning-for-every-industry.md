@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2022/06/21/NPAL/0a2aeccc-7632-4686-9ebd-223bba355efa-Troy_Hollings.jpg?auto=webp&crop=399,225,x0,y87&format=pjpg&width=1200"

@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-28T14:09:00Z
 originalUrl: "https://www.unite.ai/identifying-instagram-crowdturfers-with-machine-learning/"
 webUrl: "https://www.unite.ai/identifying-instagram-crowdturfers-with-machine-learning/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
@@ -173,6 +174,6 @@ related:
       domain: wwaytv3.com
     quality: 11
 
-secured: "l6iobznnSIJQQjwlDGZHNHDtCcBokdapwHa6/Aw566x+vYVHjCL9qdfU6lssgt0KSy9IXL09Zp2yyj3Wm+oi/nR1OuNiwRwkLYqxgODS5urS4RzwGuoNF2ILa4QrpP953yV/STsfjTykI3/a+PVbkbD83gyLraTdpbAwkENXqEW6X2csWcroRli03HrpCpUZ0M/QSXJk/div5pUj50RnZF4v8FuFHbBnkoQ8p2hljP/TXsvEGCnqU4TzQMzmoAW4s2625XklZLq3nrXKXT357IaQjlcZWKEnN6kaKEc9kfLScnusUGLsUxeEvdTc13FRvEifplqz145IT4jztET/5ovYOxMwdRw4BmKpNc20jpA=;IzdARueISwB5E6M2/8MvAA=="
+secured: "u7b8PDLm3z115QaXz3cswJJCmsxqFEL5Gl1hxMinKeVlNT8wNoz86HcyOlWUHZOXFXGHwel4nCRmuKEIObLhog4kvgLbRqEbZfpD14ooYSYjv05GUt/IeIuri0HcU0pOwKzkGWHDimz8eGoptlByTXS47Tp9L8Vubs5+uPZtQKCuBzdeIGT9RMgwJxT/qzc4wSEfu8/1TLIiykVSsLlYNauOcD9T2/FZnwJkyOb1EQ0Fdhw78xaN4XodkDs+RFhr0FovKLh1FaA6jctvuZyUmCoUo8fp5OXaQPHlZ3GCjMgywl8NOtg9jCPMvXVvhI/Ry2B7gTf+mNEAvF8tMFFlBd3OdUPXOunh0qG1iKzjOk3EeGAw0zG7fM9Z/SGBk128X6Ou4l00zN+ZsmUE7540PDb4vIu4fzqMl37oR/4x1nYzJbcQBpOU1ydueN7083RQEgd3OTk1ZJxBojbDJUDfGlfZ0dUqqvuRBMeaXdV4BmmM4n4saLj6qnQEn3rDoqNiNwPv6VbH0q6hlZ0DlLgdTg==;k/TOAUg3qxZ13AD2UTxU3A=="
 ---
 

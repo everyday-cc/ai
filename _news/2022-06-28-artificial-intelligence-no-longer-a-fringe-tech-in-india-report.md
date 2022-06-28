@@ -50,7 +50,7 @@ related:
     provider:
       name: business-review.eu
       domain: business-review.eu
-    quality: 39
+    quality: 41
     images:
       - url: "https://business-review.eu/wp-content/uploads/2019/09/foto-articol-AI-Ovidiu.jpg"
         width: 1023

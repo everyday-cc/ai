@@ -107,7 +107,7 @@ related:
     provider:
       name: unite
       domain: unite.ai
-    quality: 39
+    quality: 41
     images:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
         width: 800
