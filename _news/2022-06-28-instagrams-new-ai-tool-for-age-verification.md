@@ -162,15 +162,6 @@ related:
         width: 921
         height: 620
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
-    publishedDateTime: 2022-06-23T17:38:00Z
-    webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 19
   - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
     excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."
     publishedDateTime: 2022-06-27T19:38:00Z
@@ -181,6 +172,6 @@ related:
       domain: wwaytv3.com
     quality: 11
 
-secured: "AFxPC9xTZTalZIaZzRuEbpRWiPFCM0mnBFAbR4kh5JvwlIZmi3RQDS5dR64M/Hsm04qa3LCe9vCENGsXe8w0Y+iI9qAXriFLhBjoEQ0NUz7QGrjEAdDV4SzvF/mx+LL3SmXhWzthtRYBW7HZRDfsiVkV+pxg5W10Swvb9DvTKfx0kSXQh6cTa+tfh/VKsKgDLdUIuGWHUefL3zhCnUyo8o5tefkO96Q/pU8sgR0yHPfno8hefhtpyhPZFFdsbGLG81snqw6hABh+QcSmcIIaYu1bKysUk/lTxabcPOb1Mk7u03qsBwsY0uwV6t/ddf5xO2jYUUGeogrj+AZ+Zbl+gMruRoqmO9cTVpA8qHdAWq8=;nvYltR3rtqIWo9n1oAvx9Q=="
+secured: "ZDnHgb8A46GNRS0rUG9G6g3sreJ/rL7NVMfLzVQ/tDyz/3un9zRR4KSwEkIAj7VQUiqhVp3b7CSnLMafpIQDHWR//bEjn4PaE0EmEGs6MTxY9D4Oe+O4PCyENOC/rGTWPFucxaf9XDSt6uCd6ShMVPYS1Hye0xNwrAlm9ZrVZUWKDiXbR2/Y0fBY/snbMLd4FxPF299bhRYvBoB8WJhUc6v8+RhMwbQGfsDqrs+veQrbejlJtSgMA+12S9QbiOQ5YcuPs615eq8mLKPWZ8Qk2qnM3QvHYiR8/ZBf/1xMRLk1G/hupSJOxOYSED08dtQ1OzD2iWEsxQU8cIzDSIqlrDc3ZSI6/kciCoG6SAIFwvp3BWKRJVs8gshM7XxwEnfDdhMSBu/poKop+2lng44rBevUelEiPQmWTnQjxu/0iQKeniAkJJUes+sRxd3NrrVk81Mk2MLJBR9veOqso6jgjW8G02GSf7wVqF8T2J8nayxkLQQpJhd8ojWvZzHkuiB31WfN9IBJTdBOgHLB4tWQTA==;OHYrKeiFs3gMGhOSVCJ79Q=="
 ---
 

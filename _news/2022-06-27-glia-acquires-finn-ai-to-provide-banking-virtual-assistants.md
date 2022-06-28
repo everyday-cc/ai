@@ -7,8 +7,8 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/glia-acquir
 webUrl: "https://fintechmagazine.com/financial-services-finserv/glia-acquired-finn-ai-to-provide-banking-virtual-assistants"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: fintechmagazine
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech chatbot startup Finn AI gets acquired by former partner Glia"
-    excerpt: "Vancouver-based startup Finn AI has been acquired by its former partner Glia, a SaaS company based in the United States (US). “Until now, none of the financial services bot vendors have been able to achieve widespread adoption on their own."
-    publishedDateTime: 2022-06-27T16:13:00Z
-    webUrl: "https://betakit.com/fintech-chatbot-startup-finn-ai-gets-acquired-by-former-partner-glia/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/06/Finn-AI-founders.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "Glia Acquires Finn AI to Offer Banking Virtual Assistants for Digital Customer Service"
     excerpt: "Glia, the provider of Digital Customer Service, has acquired Finn AI, the AI-powered chatbot platform for banks and credit unions."
     publishedDateTime: 2022-06-26T19:15:00Z

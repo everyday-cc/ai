@@ -18,35 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "A Google engineer says AI has become sentient. What does that actually mean?"
-    excerpt: "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth."
-    publishedDateTime: 2022-06-24T08:00:00Z
-    webUrl: "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6498068"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068"
+  - title: "Google’s ‘sentient AI’ likened to a 7-year-old child by engineer"
+    excerpt: "A former engineer at Google has likened one of the company’s artificial intelligence programs to a seven or eight-year-old child. Blake Lemoine was put on administrative leave from Google after claiming the tech giant’s LaMDA (Language Model for Dialogue Applications) had become self-aware."
+    publishedDateTime: 2022-06-27T09:04:00Z
+    webUrl: "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/"
+    ampWebUrl: "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 56
+      name: Metro
+      domain: metro.co.uk
+    quality: 57
     images:
-      - url: "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Has artificial intelligence (AI) come alive like in sci-fi movies? This Google engineer thinks so"
-    excerpt: "If you have ever interacted with a chatbot you know we’re still years away from those things convincing you that you are chatting with a real human."
-    publishedDateTime: 2022-06-25T05:30:00Z
-    webUrl: "https://www.techzim.co.zw/2022/06/google-engineer-says-lamda-ai-has-come-alive-like-in-sci-fi/"
-    type: article
-    provider:
-      name: Techzim
-      domain: techzim.co.zw
-    quality: 39
-    images:
-      - url: "https://www.techzim.co.zw/wp-content/uploads/2018/11/ai-man.jpg"
-        width: 800
-        height: 304
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339"
+        width: 600
+        height: 339
         isCached: true
 
 secured: "3YCu4+sm0LkyOPNF1qx+2NOUGU0/Qu5s5wDWQlhUjf7Bn9qtBGoTOIbIWxwXZiHgIT4+es/HE5Vatoi86Qjm4UU8642s08KWtpGkx+CBbkjIPnT0DvCZILjDUUksiUQ7StlZdMMZo5iGyh91lE1uDvwMC4pIab7Y4H9Ve0Vd82eyU2EUEssfOKTWpCVggZmVSLAVUKypvcaE7LqgKUSXOMQ81oljjvoYxFcShDCwNsK5c3SSoX/R0U1mpyyi7SNFvszIHthD2MzCDQERvQH2EjHo1r9tmSLh2wBqjkjvKoEHUfnyuwO5uEb+q2hyo6o52eHUsMAXHflL7IlRQbbSnKdtNTqUTJSg36Jp/ejkRins2TM+Cd39qpF3bG06bKgAxjLqPAgO+oBRHk+aDIQNZ+Ml2QPnfRh8XOT/HJOuJkzs3wJGz4WyBIThiVuFnBjjPVly92aFoWtg9wsMoYKND/zrWoe6sFGzrERyRxqx+82sfMORjd3iZjd964HKIhOLu2xXHyyS7u5nhTrEjoLL7A==;SXaBZOSk+xVMrQVllH1r8Q=="

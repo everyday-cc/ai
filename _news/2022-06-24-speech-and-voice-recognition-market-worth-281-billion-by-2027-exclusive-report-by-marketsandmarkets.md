@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
-publishedDateTime: 2022-06-24T14:22:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
+excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
+publishedDateTime: 2022-06-24T13:31:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
+    isCached: true
 
 related:
   - title: "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028"
@@ -52,6 +58,6 @@ related:
       domain: fmiblog.com
     quality: 0
 
-secured: "R3BDTT9J7oFjSLKrMUfkOeY8wvT/4HFf/C8G9d3GUYSt2n+xMYT4napj/kAwn1Fu49ZVGjdpBKwwXQbpH2MdcRwGZ4VXiAXzsAP+BHyPzYVlUWbTwUcMgI9qVE0EGLH0wBDjO4E67SzgyMAU/sEQtvJpyhhNkWfzchhB6y6Wwb08EOTYErEfUX1GF3hILYbEhRqb9sXXX2GRjjrAG9NCry3tb+lPuR5yoeL29KNW6gou7R0vlEMBx2WZ0hz8FObjUVViGvWvVkXqGlGpEMC+1ZKM6yVvqhLDsHoNPSye9K/CIJ8ixUOigqc4++F0js26PY+5IdsqxCSWII9pmryINRUy5ZelCUy7WedV3UxbF8k=;5+MIQmNMfDyvyi7/AqYgmg=="
+secured: "KPAxRNn6o2/HCMkgp35879NOLkOfXSkHUBzBYhsld2KoyC3zOMWVzcO09arr2xxlMHiY8g2vabkCYId/9Xz8+ttCPL1XifLs8hWPaUTA0ZJ9WmowKsYMxx/B3zGgpmynuV+31SGXwwRMS9HUeNBgAi1EwcZha7e7R2nArv2AnAVbCHOw87Lg0WbxqVet5SPsOHRJp7D9rJrItmQzxcZ63OTqAD0CqIutdjRoH1mDZUrboHdiTbisDHXmZtlMzuSXJq9QjYTn9JJRc7OfkqqDUGYNb29oAbjr2962xSWvp27QEKUyCO3n+N164U6mQMNw6JsqKMiD4vU/fULBxbdTyx/Kbqe/89bi1P5cOq7N3HY=;WPagTVfwCA+HygkuUS2rAg=="
 ---
 

@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India"
-excerpt: "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ..."
-publishedDateTime: 2022-06-14T12:56:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
-webUrl: "https://news.webindia123.com/news/articles/Business/20220614/3952002.html"
+excerpt: "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,"
+publishedDateTime: 2022-06-14T12:35:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "IBoklOd8dLzMbYKM5waoE3ebOMWO3LDu4FJflPfZOXyokUgDzX8oTkNb6neHg3e9H5LaXOdDVg35KAHx3BlvB9sk8xNMNPgQyYGcC399rHaf2ZJPtAzb4+Ta/pVkyFKEyKTkvK1K3bn2EQGNDwbytiSmUt2dLim2VIm7U/rQI75qoBZVabT3cTBJxX2vs5JhJQuNsiuDqnfANK9C2hzqyBL8zRAHWuYUBDOtTPtCoN4bqQQCs2LctmFyF8zXNQ3OaMqWKEiQQKelDH2rB6qEXb8fDBYEagGW86s+J1/Kgj7CGzxkXNZoc0NEMWmIPAEAdRxWtxD4Tg7FBL3qWT01d4KZof7AW3p1DjWBYFara+I=;OJ1lEQ6laZDq7vZfaQ/Ahg=="
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/14/full/20220614122844.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "/A5OwAo69TF3zH8lMa/D67f87o/K//SFPNBwrvdndjWG96l+Ee6vOK0OkxvIkMUT3/c1i6o8t4Q31Z7aQ0DN4dRCIaWwbcUVKurSXesmAQsd2IyHXzyHkldtfcJhp+SZ19o/DRdGtJB3N9Wx5LDRfh61iwb1zREh8kB2qgC8AhBSgo8wyrskWWiSRUw2poYVR6JYKeaelX9zVNwny9eBF+UIQh50mabUA4t0JaHGQSreLr72ID41n67eyZwdtLnFGFdNPbZZyqcp1n+9M7af1EfyIp+J7nS52Cxcwh5Y5nbiQvPLuCgMZADa5xD3T8AksOLAqtgRTfD1JubRAdby/sKbUcy2xgGaaga/XATTwQ8=;J3y+EUBsTd0mRJVhRs80nQ=="
 ---
 

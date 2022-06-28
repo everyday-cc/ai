@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
-    excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
-    publishedDateTime: 2022-06-27T17:34:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1631877/self-driving-cars-MPs-enquiry-latest-news"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 0
 
 secured: "z81lF2Fb48ywS5ZxrSbGj6e6s1pWnhsGt3AlxspyfvIud7683Q/yVayRNlo0C5RBeUTGeVx7N37FT0zZI8UI5if4j2LRK4axaHvVBZWykQympFgmklfXgU7wETcyh30sIed0MT2qOCwQ6iZPEmwoQ1TkBN2Jybg547BKEDYqvJIamq7vUEyYMjrf5LrdlP2N/LSFfjXlOsrG8tqBU1gUIJGzZh68btA3CfUzhgUXzd9vhGZTDYCXfS9ZEaKgZa1863ySoUM1dk5JscoMkBn+QU84Kn7eKB/LEH0JkU+M1Pwu7zckmWMeftOUtfBUUAXtXG8g+7MaI7kjqHeQKcBlsfoU0PzaWtSZMK1VcwjLDQHg1XJtdzWf5VTJNTO2isd+21MkI9nvnaNiz5Qoit/GyBOTkTPEZjo9/aWzp6e0v2O2hcKzTBasEkEJcSdxeNzzT0eadkEVFi+txKi7yHpWCC/ArNIPPqOzQtQdgGsMjWnW5UuVUONDhIDs3G5AEYW2Hp0p4SmdzKO/nDVV0mcvxA==;JYRLSQqcZwDUoep6FzxdLQ=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Australian firm pauses facial recognition trial over privacy concern"
-excerpt: "The move comes after a consumer group referred it to the privacy regulator for possible enforcement action. Read more at straitstimes.com."
-publishedDateTime: 2022-06-28T05:36:00Z
-originalUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
-webUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
+excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+publishedDateTime: 2022-06-28T04:34:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-06-28/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-06-28/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/28/ac_thegoodguys_280622.jpg?VersionId=wGnZzn1t3CotARjlPkNubCxeThFvNo4P"
-    width: 860
-    height: 573
-    isCached: true
 
 related:
   - title: "Australian retail giants named in facial recognition tech complaint"
@@ -113,17 +111,20 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Australian retailer pauses facial recognition trial over privacy complaint"
-    excerpt: "The Good Guys said it would “pause the trial of the upgraded security system with the optional facial recognition technology being conducted in two of its Melbo"
-    publishedDateTime: 2022-06-28T09:34:00Z
-    webUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint"
-    ampWebUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint/wcm/8d1f0c81-50d2-4357-b7a0-4ae47f7f191e/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint/wcm/8d1f0c81-50d2-4357-b7a0-4ae47f7f191e/amp/"
+  - title: "Australian Retailer Pauses Facial Recognition Trial Over Privacy Complaint"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T10:10:00Z
+    webUrl: "https://www.ibtimes.com/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint-3554579"
     type: article
     provider:
-      name: Financial Post
-      domain: financialpost.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/28/the-logos-of-australian-electronic-goods-retailers-jb.jpg"
+        width: 1200
+        height: 775
+        isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
     publishedDateTime: 2022-06-27T01:47:00Z
@@ -141,6 +142,6 @@ related:
         height: 413
         isCached: true
 
-secured: "KVC3YMN61HmPyM+kmAJP6Ol3pVNucudaHZaywOuFG1xvUE2l8ue/iRANZ68q7X5BWmsB2lq9jmMYTskigPDtix4H0X4Xo9qTTyEi9x8g3EgSVuV+SWSGnJz2O1fTVOq31TWOC4mlZcAuAyfxkU1NN5EcUFI4InEqSskIjxvNJD/4Sx/ig+a6RViXTEQNREL4c0TJkWr4s4kxHBIPKLRrz5k2ruBubfuK4E+0eROahw6F2PSW1o2hAnlZDLRZqdMEPoROw/TWXrFHG/kcuLstgdy/iKelR+5h20rzm4DsWEUAYuqDqHI4DdkjE5Nh5Crh8X63sZh1z485J1pUv7mnG+WjlnltsMigZRLBGk2mdE4=;kcWjmioQR3JaKAPFHFqeUg=="
+secured: "PgdQ4N0a8l67h8vDBTzDMHg8UGO3yAl58dxnH4ZRV4Y35j0LYnLk8/9LkTAKX1v9b5I4+utgRjUVABjQwYiRYx17cL0bE97UsSqh2y0scONU/UFSc7804/n2x269zsBTShGrtYKsxiC9IinfqVJGcynEcaTBPD70f6uFpP2DqoQtjOLIGEtaanO+qwD17Zs9XGtpOSdDJuVPFf7oG2+Xs89eMEgIMP2F9hx/9wisY/6xbLnbi13x6AbRXnCogL/pNZq2UnEtjoUm1B4vV7LNKFXYCHw1EQiIWABEAYhpl9+kqXnJ8S2IuioTtEbHUeTpHiEK4OkL2YigZ7DaZkuTooTJ/ogLmxweepoTTYO3w6L/zDxe3L/S8W+8A7mj+Qt3RjH693j+qX3xNSqsIcMyv/9fP0AKZF8DAhCn1+ZPbFVHPJEb9UiTwUeehxSuyq73l4Lc2Jua73okDfyNyaRLjLLIcV+y1ZCqsmcd400feYsAtGx9zUqGXqLoCzItykN/s5l2KCPV0MuC6kUDqR1xQw==;3hIHFRfjiDAeG3e0ZbtSMQ=="
 ---
 

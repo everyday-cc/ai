@@ -7,7 +7,7 @@ originalUrl: "https://www.techjuice.pk/huawei-announces-new-inventions-that-will
 webUrl: "https://www.techjuice.pk/huawei-announces-new-inventions-that-will-revolutionize-ai-5g-and-user-experience-company-discloses-progress-in-ip-innovation-at-themed-event/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 560
     height: 438
     isCached: true
-
-related:
-  - title: "New unified Qualcomm AI stack portfolio revolutionises developer access and extends AI leadership across the connected intelligent edge"
-    excerpt: "Qualcomm Technologies, Inc. has announced the Qualcomm AI Stack portfolio, accelerating the company’s leadership in artificial intelligence (AI) and the Connected Intelligent Edge. Combining and improving its best-in-class AI software offerings,"
-    publishedDateTime: 2022-06-26T09:39:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-opinion/new-unified-qualcomm-ai-stack-portfolio-revolutionises-developer-access-and-extends-ai-leadership-across-the-connected-intelligent-edge.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 5
-    images:
-      - url: "https://itwire.com/images/20220509-ITWire-300x250-may22-3.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "Mv/6lHMa4XuNdydGN9Qd74VwdNlAYNxuMR3rzhSN8ChbI9rYETRPZFFmEaQ9PD3fIe+Vfj2bTH6/bYpfKkvaXCGgNwE4cSTX0CNIniywXQqZ2ovW6712qUbmL1xmbjRBfFjjrFUmW/yTV9dwrlTOmlHt2GFKpQn9wSF/PS58T76XXk8is30VBqcLHhzk/8xDNsHrdow90bIg+nbedYzRFhRrHNOFXO1OEX0zb9xV8bZe+hLFTcE9mpaxmLxg8JKOhPPRv2nWuglqpgJf82YMj30plEaLSZK6+Ybw6b/cxFGJ37CFAFyC//a00SM1oFHEEthhgLEt2Lb4Oidz1rjSEEpP7d1xF/jHCmgIDj+2rzE=;G8gTaQpxbCxgkMbnyN6Ogg=="
 ---

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon’s long-awaited ‘Responsible AI’ pathway highlights flexibility, ‘trust’"
-    excerpt: "One key element is ensuring a transformation from \"viewing AI as an enigmatic and incomprehensible technology to understanding the capabilities and limitations of this widely adopted and accepted technology."
-    publishedDateTime: 2022-06-23T17:45:00Z
-    webUrl: "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/"
-    ampWebUrl: "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/"
-    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/"
-    type: article
-    provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 52
-    images:
-      - url: "https://sites.breakingmedia.com/uploads/sites/3/2021/02/KathHicks.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "Pentagon Unveils Plan to Make 'Responsible Military AI' More Than Just a Buzzword"
     excerpt: "The Pentagon’s marching forward with AI weapons of war… responsibly. This week, the Department of Defense released a lengthy 47-page document outlining the military’s plan to implement its ..."
     publishedDateTime: 2022-06-23T19:41:00Z

@@ -59,20 +59,6 @@ related:
         width: 1600
         height: 1016
         isCached: true
-  - title: "Cruise is now charging for rides in its driverless vehicles in San Francisco"
-    excerpt: "The company said that fared driverless rides are currently taking place with “most riders” in the Northwest section of San Francisco. Cruise will continue “expanding our paid service in ..."
-    publishedDateTime: 2022-06-23T17:21:00Z
-    webUrl: "https://www.theverge.com/2022/6/23/23180156/cruise-driverless-vehicle-charge-riders-san-francisco"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/R3t-iMGHpKyGpkzWmouXY4CC8Us=/0x286:4000x2380/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23646672/1238159620.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
     excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
     publishedDateTime: 2022-06-25T14:27:00Z
@@ -88,6 +74,20 @@ related:
       - url: "https://www.thestar.com/content/dam/thestar/autos/opinion/2022/06/13/racing-roundup-max-verstappen-wins-as-does-josef-newgarden/_benyoung.jpg.size.custom.crop.640x360.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
+    excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
+    publishedDateTime: 2022-06-27T10:03:00Z
+    webUrl: "https://www.wheels.ca/features/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters"
+    type: article
+    provider:
+      name: Wheels
+      domain: wheels.ca
+    quality: 39
+    images:
+      - url: "https://images.wheels.ca/wp-content/uploads/2022/06/wh-DriverlessColumn-June25.jpg"
+        width: 2121
+        height: 1414
         isCached: true
 
 secured: "9fs9rc3LL3OqKEaY4iYgFOTr7J4b81T1+F8DK6tAxQK/Cy/t8nnKkX8a2Wcu0KQYVcM6IxtkvrbR15Cyrfxm45rCQECvFxOLdqXQLEsUYZMAxSV4bv0frlI1Dev8/eWJzWOf82JKQ87/i36P+zGQDuHfi32SUVh5Ts+8ucqMgB6LjyltKc/7O0239LqY8WMow+JUhv50xUMXoWhHniSVsrtf4CU2qQH7i1Dsj21k0sDNX4Dlm2qVOF/kKr6nVWk+fUgBKQf7g7K0bP4dqhPKyA4Kyb2YPHHaP283fiw60xIW0L4eDg69nKdAbiE2V7rE+cfJtlyPEIduvbrUnhNvzv0JW+FN/Z9fj4cmSWNeFpbaogvM4CAxgQzknNpmv5j8FSDgauh9r5JuYG1ksSQieZMdIlDyyyGk0J8S/CLSyQEEKIsCryGVPuoSwp3tfDwcjrSXjkXbuEl4dWNpWOkvnWhYN7qx3emmdO0kFmLdppAOxsOrPF65j0xn8NTmO16nVA1xqxPXm6MkvplryfLZSw==;82QC3cOtXNxegLQsSz47Sw=="

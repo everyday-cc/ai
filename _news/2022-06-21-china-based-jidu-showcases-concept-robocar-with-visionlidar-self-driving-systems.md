@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China-based Jidu showcases concept robocar with vision+LiDAR self-driving systems"
-excerpt: "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only 15 months to develop the concept car."
-publishedDateTime: 2022-06-21T03:30:00Z
-originalUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html?chid=13"
+excerpt: "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only ..."
+publishedDateTime: 2022-06-21T11:30:00Z
+originalUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10"
+webUrl: "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 853
     isCached: true
 
-secured: "B7X+jfGF1qQNfi86gVKLuTD38hrM0MG+gxP04esz/fRBOQ4D7d5XQtUhvTbXg0OJjdwPsLfvVD1Sjl7DMl7lV+eX4H2tQiLpJXFaQ0cR6MMEk2IvaugxPhpq6jLUbcREylH/wVpju5SJP+mJCL9XYcTC5h+WlTHL13CgF5Q5LcOJrsst7zWG4VLtpsb/XXxoRf6su4v930f4bPQS/11yYLVj2Wae7JHhUu5IJAz+MjCVd8/BYv0I5jqe7RpoxASk9iRQ/fme33Cqu+QgsyexU7Obvr3BVrjnReMfLVeJy3PxRZIZ2ydElFIl4+hDJTKR2eQKXFXdXUVxZlS/dnCcSRFfsG4VQ1Fr+JPhn5WQ0kp/enOMpEa6WSJDzPJlzzMEJ0jvd5dEoy6oeh9tdoMda76H0s2DYgMOBvGkn0/wbwbFAnNfQEt0qIpW7NdjMoYdCHJwBUIOYnIlRAfd1SGsg8283Mequb4bGm0nALerQ0qk3CN9J6n1SVGSEDLl5GEyiZJ3t58O5XgHw/aXFkt3SA==;ySrpoVZjeCCE/kgkIqVdjQ=="
+secured: "azoJYYrfpHrPJT4RlYq9SYuO9dOR331IbHae2wmaxi0EryMoUqnp1wNFlHmZ1Sx0+fYSVN1Z3+64ItUO6nj+r2UlVUwNvZhTFxAXtj/uDnCj3JAkerolr7gma3W3lok0jSfo5E2oJ0nPCspP9AiPciWo3BdZXZiciU2TNurZS1Iv7/qrpuJYBcDuWCdLEAmiAyxt5EOnq+MmP9B6wVbJEzuqXq8yAHu5dPM8NNfyCFBxwg74+w5ULzaUuDep4tg66WrdC0csnToW91kWaws69NX7WrpbJD25vi9Ajt/WN824+cO3WlCnr6i8ZzmhNIIEfAIIRNtV/5u3hD+NklEAmY28MbdJhSLlTlY/0hv6hRw=;T5Wco07/p9here7cHAswuA=="
 ---
 

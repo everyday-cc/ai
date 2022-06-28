@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2325970-ai-powered-robot-lear
 webUrl: "https://www.newscientist.com/article/2325970-ai-powered-robot-learned-to-make-letters-out-of-play-doh-on-its-own/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Robots learn to play with play dough"
-    excerpt: "The inner child in many of us feels an overwhelming sense of joy when stumbling across a pile of the fluorescent, rubbery mixture of water, salt, and flour that put goo on the map: play dough. (Even if this happens rarely in adulthood."
-    publishedDateTime: 2022-06-23T18:16:00Z
-    webUrl: "https://techxplore.com/news/2022-06-robots-dough.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
 
 secured: "8JlV+NGY1GxcpIJ+CJPpIDNtHCyHBDRWoJw9hjuL6YEaw8tQzuKzWsE+wEbTF0SLEaxhFhAdO/MKW2irIY5LpJrFcxaqcxWACm7EDtdWAL2gGXQrQCJg4QOyF6EJgGyIDDox5kP3vsFIUqjJ7z97pztl/f3dusHJDohgiPz6NdqkUaKko+tHQO2pGR5ciR0nWO6Trh8O7+TiBMnv6qvzdcL3a9qD4ZW2pMKDEOIm/W81dVpVlCTW66nYu+tJPxYSvZo3xDQw8PfjbpDc3wXQNoepBoVvt1mpBbi06pKOgc8CRWqv+s0uxYeNo+F1gXzKD5q3WWZnRhvfJRxww8heHDPtByyY4tpEdMShEWe1DtJ4E3KTPoLYeA5zA3tBfmuD1ZbHJmZW4+Ub5vEMJvwuK1w1QuiCdt45lXQr5amNJOSQcU4LPlqsKreJnTXsldRFGo6owvuS0WU52hSlV6XFmkTtHKZR+yHf+ecVZUXaJexJQsfdVpV6MlUZL20DFf+JpufzDxDjW9QZmdupeXRdhw==;a3+gQUIVcWPbidUE4jkBZQ=="
 ---

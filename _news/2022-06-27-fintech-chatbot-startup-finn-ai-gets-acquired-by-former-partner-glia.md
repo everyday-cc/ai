@@ -25,29 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Glia acquires Finn AI to provide banking virtual assistants"
-    excerpt: "Glia will use Finn AI's state-of-the-art conversational AI solution to help to deliver banking virtual assistants for enhanced digital customer service"
-    publishedDateTime: 2022-06-27T15:44:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/glia-acquired-finn-ai-to-provide-banking-virtual-assistants"
+  - title: "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam"
+    excerpt: "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ..."
+    publishedDateTime: 2022-06-28T11:19:00Z
+    webUrl: "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: inc42.com
+      domain: inc42.com
+    quality: 57
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/06/social-5-1.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "HDFC Bank-backed Lentra AI to acquire TheDataTeam"
+    excerpt: "Digital lending platform Lentra AI, on Tuesday announced it has acquired artificial intelligence solutions company, TheDataTeam for an undisclosed amount. Post-acquisition Rangarajan Vasudevan, founder and chief executive officer of TheDataTeam will join ..."
+    publishedDateTime: 2022-06-28T08:39:00Z
+    webUrl: "https://www.vccircle.com/hdfc-bank-backed-lentra-ai-to-acquire-thedatateam"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
     quality: 54
     images:
-      - url: "https://assets.bizclikmedia.net/1800/4d58cf8469f159b6c9c8892069ffecbe:35207d53e665ed6862b12f1032b3082c/gettyimages-1343097441.jpg.jpg"
-        width: 1800
-        height: 1011
+      - url: "https://assets.vccircle.com/uploads/2017/09/hdfc_bank_reuter2.jpg"
+        width: 810
+        height: 506
         isCached: true
-  - title: "Glia Acquires Finn AI to Offer Banking Virtual Assistants for Digital Customer Service"
-    excerpt: "Glia, the provider of Digital Customer Service, has acquired Finn AI, the AI-powered chatbot platform for banks and credit unions."
-    publishedDateTime: 2022-06-26T19:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192716-glia-acquires-finn-ai-to-offer-banking-virtual-assistants-for-digital-customer-service/"
+  - title: "Lentra acquires AI startup TheDataTeam to accelerate digital lending"
+    excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to ..."
+    publishedDateTime: 2022-06-28T07:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/lentra-acquires-ai-startup-thedatateam-to-accelerate-digital-lending/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 9
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
 
 secured: "Im1qIw3sY7gtAUPG/nlsf4dmvvXYj4wnqQ6FjMKl6QMDieWU7KI/8B/PKmpYKqNsa9NKRsdGsx8anf1NHQMuOXI7Dcot7I5uzFD6/Q57rWHnPFH1QjcHrKlUiwWHynElHrHeKxMrR/cM8at0cYTTCeUxp6N2h9g4pkiJPwAc6HO9pX16cVUFmeD7Sbq/eO6JUKxm31be5/gLoGqK9QUonjfpbBxuHEbh+F0l/j91Ci15weE1s3xrg2ZOjN1Ty7hlpoyaSfGovSrGQZv4ncdNBqt3KqeI414RegpzCChaKHPoHEY4xRt6/aVYEGbh6LNkNF5edqh4yQ4JLz0BJEQ/UbLZDpoQDX5MyLd/XK6+b+bwUmoFU1ZWGXJmBEIeBT4dlGP0F6y0RBMOmSODXbBMoOcHXL+Nfutr9ktxXgEYCF8pdYJJs5AMCI3tQAepAaeYhplWxvm+caVtNkFQCN5mkhUAYa1a98TXB3zGq2yFv9GTcBiCcFvCwe2c1FKjSo7+CldBhz5PV3cAbYP4DaIuGA==;cGHe9stTF/i/g3gY0iTfCQ=="
 ---

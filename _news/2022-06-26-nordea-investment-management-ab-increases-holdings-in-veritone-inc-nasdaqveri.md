@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Bought by Creative Financial Designs Inc. ADV"
+    excerpt: "Creative Financial Designs Inc. ADV raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 167.0% in the first quarter, according to the company in its most recent disclosure with the SEC."
+    publishedDateTime: 2022-06-28T09:20:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-bought-by-creative-financial-designs-inc-adv.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 27
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Acquired by Flagship Harbor Advisors LLC"
     excerpt: "Flagship Harbor Advisors LLC increased its stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% during the first quarter, according to its most recent filing with the Securities & Exchange Commission."
     publishedDateTime: 2022-06-25T09:56:00Z

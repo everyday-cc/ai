@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-28-fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam.md",
+      "title": "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam",
+      "excerpt": "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
+      "originalUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/06/social-5-1.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/",
+      "publishedDateTime": "2022-06-28T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-spotting-objects-from-space-is-easy-this-challenge-is-harder.md",
+      "title": "Spotting Objects From Space Is Easy. This Challenge Is Harder",
+      "excerpt": "SMART stands for Space-based Machine Automated Recognition Technique ... “A lot of what we see out there today is ‘Can I find a particular object?’” says Jack Cooper, the program’s manager. “And SMART is trying to figure out what all those ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/",
+      "originalUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62ba5377403df153e6760426/master/pass/SMART-AI-Satellite-Images-Construction-Sites-science-1166454983.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/amp",
+      "publishedDateTime": "2022-06-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.md",
       "title": "Adversarial machine learning explained: How attackers disrupt AI and ML systems",
       "excerpt": "Threat actors have several ways to fool or exploit artificial intelligence and machine learning systems and models, but you can defend against their tactics.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -42,7 +136,8 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -446,49 +541,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-27-glia-acquires-finn-ai-to-provide-banking-virtual-assistants.md",
-      "title": "Glia acquires Finn AI to provide banking virtual assistants",
-      "excerpt": "Glia will use Finn AI's state-of-the-art conversational AI solution to help to deliver banking virtual assistants for enhanced digital customer service",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/glia-acquired-finn-ai-to-provide-banking-virtual-assistants",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/glia-acquired-finn-ai-to-provide-banking-virtual-assistants",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/4d58cf8469f159b6c9c8892069ffecbe:35207d53e665ed6862b12f1032b3082c/gettyimages-1343097441.jpg.jpg",
-          "width": 1800,
-          "height": 1011,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-27-why-synthetic-data-makes-real-ai-better.md",
       "title": "Why synthetic data makes real AI better",
       "excerpt": "When combined with real data, synthetic data creates an enhanced dataset that often can mitigate the weaknesses of the real data.\"",
@@ -550,7 +602,7 @@
       "originalUrl": "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1168,48 +1220,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-big-firms-to-invest-20m-for-ai-research.md",
-      "title": "Big firms to invest $20M for AI research",
-      "excerpt": "BIG companies in the country will invest $20 million (around P1 billion) to establish a shared hub for artificial intelligence (AI) research in the Philippines. Trade Secretary Ramon Lopez said in a recent interview that conglomerates are funding the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821",
-      "originalUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2022/06/26/83648.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp",
-      "publishedDateTime": "2022-06-26T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Manila Times",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

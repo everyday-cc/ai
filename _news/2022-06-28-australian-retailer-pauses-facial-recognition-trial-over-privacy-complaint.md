@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Australian retailer pauses facial recognition trial over privacy complaint"
-excerpt: "The Good Guys said it would “pause the trial of the upgraded security system with the optional facial recognition technology being conducted in two of its Melbo"
-publishedDateTime: 2022-06-28T09:34:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint"
-webUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint/wcm/8d1f0c81-50d2-4357-b7a0-4ae47f7f191e/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint/wcm/8d1f0c81-50d2-4357-b7a0-4ae47f7f191e/amp/"
+title: "Australian Retailer Pauses Facial Recognition Trial Over Privacy Complaint"
+excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+publishedDateTime: 2022-06-28T10:10:00Z
+originalUrl: "https://www.ibtimes.com/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint-3554579"
+webUrl: "https://www.ibtimes.com/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint-3554579"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/28/the-logos-of-australian-electronic-goods-retailers-jb.jpg"
+    width: 1200
+    height: 775
+    isCached: true
 
 related:
   - title: "Australian retail giants named in facial recognition tech complaint"
@@ -109,20 +113,15 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Australian firm pauses facial recognition trial over privacy concern"
-    excerpt: "The move comes after a consumer group referred it to the privacy regulator for possible enforcement action. Read more at straitstimes.com."
-    publishedDateTime: 2022-06-28T05:36:00Z
-    webUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+  - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T04:34:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-28/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/28/ac_thegoodguys_280622.jpg?VersionId=wGnZzn1t3CotARjlPkNubCxeThFvNo4P"
-        width: 860
-        height: 573
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
     publishedDateTime: 2022-06-27T01:47:00Z
@@ -140,6 +139,6 @@ related:
         height: 413
         isCached: true
 
-secured: "eoAvFyVGb5jQldYkx7NPO+wlcG9DPHXaTlrjiZqw1FaRcW6SNKXdKPFqN4dOdSrPAVIDddq+bXk9vM3Edd6Ha7/4BQ5jSPhfE3sjfwIiA6cudsAGXYZ4lftz9QXPJdK8AHqsB5RPfXmfB1nBhAKGop+b5+an62JlUtrYHaxdyn5GauUsxrJQXEI9k7mnlUvJmZ3sjbt4ryTazK6osB8LpQOVfbzWN12qgKqNNldBKwxGPYHYIEgU64QvrR14qhGwI8FQ6O4EfesoG9uev/8Q/wQRuB9vlbF1P3bG6qbSCyEtjKD+o3UF12pPdSBm2iLgcC0SU1yJ/b4IAPCh9/PgJXSBGNk/1MQjmrRaWlwWLxM=;r5Lka4jgadtliHOyAvRlKg=="
+secured: "OD24NKFNP3BmezD2LbN9N2tYoRRtwuSKd4Xl0/jSQtPdJt5vBaz5PlY9xpzW6EQDV4RIVyDNzSi6IPnGwXrns1qTfNr/L2lKBZorVVnCQ3+5mu01QONV0WngeM4MVriiIgGcNoHn8+epa7tIuZyXlgqwxz3XslPCA1L+WgFZaEDrs4RJLPuWmSU2nvGlQsFCU5cdhSMORDY8yAvBuOZ4j1fGpXIEOl/8+fqE5k25H0PW+RuYaLWOJDq5swgaHucqpAfvPevTuqruQ9mRH9EuGblwq6KeO4wB3szSLmyOKHRYPLgkIfafhc6Wgp1iVDXOQPQUHyy/kHi2MGHRpFJhA3WeC03FpfxNQW/+qGG/iRY=;+QNKXlK+R7mBirZ5utjCTA=="
 ---
 

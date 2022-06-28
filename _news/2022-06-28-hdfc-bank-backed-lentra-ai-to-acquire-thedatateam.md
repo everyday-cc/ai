@@ -7,7 +7,7 @@ originalUrl: "https://www.vccircle.com/hdfc-bank-backed-lentra-ai-to-acquire-the
 webUrl: "https://www.vccircle.com/hdfc-bank-backed-lentra-ai-to-acquire-thedatateam"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam"
+    excerpt: "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ..."
+    publishedDateTime: 2022-06-28T11:19:00Z
+    webUrl: "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 57
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/06/social-5-1.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "FinTech chatbot startup Finn AI gets acquired by former partner Glia"
+    excerpt: "Vancouver-based startup Finn AI has been acquired by its former partner Glia, a SaaS company based in the United States (US). “Until now, none of the financial services bot vendors have been able to achieve widespread adoption on their own."
+    publishedDateTime: 2022-06-27T16:13:00Z
+    webUrl: "https://betakit.com/fintech-chatbot-startup-finn-ai-gets-acquired-by-former-partner-glia/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/06/Finn-AI-founders.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Lentra acquires AI startup TheDataTeam to accelerate digital lending"
     excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to ..."
     publishedDateTime: 2022-06-28T07:33:00Z

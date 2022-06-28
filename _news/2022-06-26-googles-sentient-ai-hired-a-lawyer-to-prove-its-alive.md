@@ -50,22 +50,6 @@ related:
         width: 509
         height: 339
         isCached: true
-  - title: "How Close Is AI to Becoming Sentient?"
-    excerpt: "Sounds great to me, I’m in. Lemoine: A monk asked Kegon, “How does an enlightened one return to the ordinary world?” Kegon replied, “A broken mirror never reflects again; fallen flowers never go back to the old branches."
-    publishedDateTime: 2022-06-23T17:39:00Z
-    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient"
-    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/how-close-is-ai-to-becoming-sentient?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/5cf20d7/2147483647/strip/true/crop/366x512+0+0/resize/366x512!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F16%2F7687441d4ce0a3b2820b9b0b02e5%2Feric-holdeman-senior-fellow.jpg"
-        width: 366
-        height: 512
-        isCached: true
   - title: "Suspended Google engineer claims ‘sentient’ AI bot has hired a lawyer"
     excerpt: "The Google engineer who was placed on administrative leave after claiming that one of the company’s artificial intelligence bots was “sentient” says that the AI bot known as"
     publishedDateTime: 2022-06-24T17:32:00Z

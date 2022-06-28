@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-06-10-hyundais-self-driving-roboride-taxi-ready-for-gangnams-streets.md",
+      "title": "Hyundai’s self-driving RoboRide taxi ready for Gangnam’s streets",
+      "excerpt": "Hyundai has launched its self-driving taxis in the streets of Gangnam, South Korea that is equipped with Level 4 autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831",
+      "originalUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.philkotse.com/2022/06/10/O3IWXvly/1-c8f8_wm.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831/amp",
+      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831/amp",
+      "publishedDateTime": "2022-06-09T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philkotse",
+        "domain": "philkotse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-artificial-intelligence-reveals-a-never-before-described-3d-structure-in-rotavirus-spike-protein.md",
       "title": "Artificial intelligence reveals a never-before described 3D structure in rotavirus spike protein",
       "excerpt": "The tip of rotavirus B spike protein is not only totally different from the corresponding structure in rotavirus A and C, but also no other protein before had been reported to have this structure.",
@@ -377,8 +420,8 @@
       "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
       "excerpt": "The Global Artificial Intelligence in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence in Insurance Industry to make stakeholders aware with current and future scenarios.",
       "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-3",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-3",
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-4",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1056,59 +1099,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-09T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
-      "title": "Azure eats into AWS lead as cloud market continues to grow",
-      "excerpt": "Amazon Web Services may be a global powerhouse in the cloud hosting world, but its share of the infrastructure as a service (IaaS) market could be one area it is falling behind somewhat. The tech giant’s share of the IaaS marketplace fell 40.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "originalUrl": "https://www.techradar.com/in/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

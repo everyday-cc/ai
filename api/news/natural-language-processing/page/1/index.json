@@ -163,7 +163,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1224,24 +1224,33 @@
     {
       "path": "_news/2022-06-14-devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india.md",
       "title": "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India",
-      "excerpt": "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ...",
+      "excerpt": "Assocham Fintech Festival India 2022, one of the finest and biggest salutations of limitless networking, involving new technology ideas took place from June 8 to 10, 2022, at Le Meridian Hotel, New Delhi,",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20220614/3952002.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20220614/3952002.html",
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/14/full/20220614122844.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T05:56:00-07:00",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/devnagri-india-s-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india-122061400933_1.html",
+      "publishedDateTime": "2022-06-14T05:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "Business Standard",
+        "domain": "business-standard.com",
         "images": null,
         "publishers": null,
         "authors": null

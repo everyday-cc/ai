@@ -19,36 +19,40 @@ topics:
   - AI
 
 related:
-  - title: "Toyota Halved Stake in Uber Following Self-Driving Unit Sale"
-    excerpt: "Toyota Motor Corp. sold about half of its Uber Technologies Inc. shares after the US mobility company carved out its self-driving division."
-    publishedDateTime: 2022-06-23T17:28:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/toyota-halved-stake-in-uber-following-self-driving-unit-sale-71655978833568.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/toyota-halved-stake-in-uber-following-self-driving-unit-sale-71655978833568.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/toyota-halved-stake-in-uber-following-self-driving-unit-sale-71655978833568.html"
+  - title: "Alibaba to test self-driving trucks on public roads without human safety drivers"
+    excerpt: "Alibaba has become the first company in China to receive approval to test self-driving trucks without a driver behind the wheel on public roads in the"
+    publishedDateTime: 2022-06-28T11:20:00Z
+    webUrl: "https://technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
+    ampWebUrl: "https://technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
+      name: TechNode
+      domain: technode.com
+    quality: 39
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/06/23/1600x900/5e4f6439ce844ff7bb99d7b82fd9f472-5e4f6439ce844ff7bb99d7b82fd9f472-1_1614355229630_1614355253677_1655983644619.jpg"
-        width: 1600
-        height: 900
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
-  - title: "Supplier Toyota Boshoku sees quadrupling of sales through self-driving pod car interiors"
-    excerpt: "Toyota Boshoku, the automaker's main seating and interior supplier, is answering the call for future robotaxis and drone delivery docks."
-    publishedDateTime: 2022-06-26T11:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/supplier-toyota-boshoku-plans-new-products-robotaxis"
+  - title: "Visitors Try Out Self-Driving Shuttles At Route 66 Road Fest"
+    excerpt: "The first driverless shuttle in Oklahoma is giving people a taste of the future in Tulsa this weekend. People who got the chance to ride the shuttle said they were excited to experience the future of transportation."
+    publishedDateTime: 2022-06-26T01:05:00Z
+    webUrl: "https://www.newson6.com/story/62b7a6dff5b223072977b560/visitors-try-out-selfdriving-shuttles-at-route-66-road-fest"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 32
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/CHUNG-MAIN_i.jpg"
-        width: 792
-        height: 536
-        isCached: true
+      name: News on 6
+      domain: newson6.com
+    quality: 4
+  - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
+    excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
+    publishedDateTime: 2022-06-27T17:34:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1631877/self-driving-cars-MPs-enquiry-latest-news"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 0
 
 secured: "lXs0E+ib4LD9yysYHyxHoh2Zgg5ZfYPlJyylkMPeBz4wCGZo51zCvjfyCwsFdxGOC/Fk2Bv/QXC3I3m6rdPfLpmmcm76K1SyAZFZGl9AOiFZxRwcfEhCZdHzGyMUemHbkSLqh6E+9CI7azsWsTPe2bqxUOmDXeu1JJjCIeMw5F68DHHtSiRnvM15cXxigqJ27Qv8owHZ0rAN1bYQ+NzY7UWSMr6or1GRwjOA/7eUVSWNYoj3842GbkPuf9Dmy/yWb936oHuOTJaxxOFgfNc3r6nvdM+cLXDTOnz2ZHi+liTDz6KaViPmg/oOXd51j2nwKuZgb7d2ScSdQFjHDfMhKfNEo3HvjFNCOYWGuX3klLE=;UJbRQaQ27Fj+9LBQ0BueLQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2022/06/27/business/top-business/big-fir
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: Gov
       domain: pna.gov.ph
     quality: 17
+  - title: "Morgan State could get $2M in federal funding for new artificial intelligence research center"
+    excerpt: "Morgan State University is in line to get $2 million in federal funding for a new artificial intelligence research center that will focus on 'algorithmic biases' in AI."
+    publishedDateTime: 2022-06-28T11:03:00Z
+    webUrl: "https://www.bizjournals.com/baltimore/inno/stories/fundings/2022/06/28/morgan-state-artificial-intelligence-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "bwTYD/spEbaXR8a4KEfsNTt/1m5fdn1S4s7qBGlpOZStRyi7L/kvwnKypIsZ0rExTBhMnCq8RVCiuagFnME9q2t77jpaDYuAlAu+3WHHlwJfUwswubPp+BXOd1VeqB4b1YPds7twa3IZupzBJmxhR29gSQg/3eZqunxshdYoI2hJ3/BVIcYPYJGxRD5O8mxaCAtbYo/gT2GW1Hvhxwr3KWHiDrY2cKAPheC1VXV8IOqS6NfHJOoJDlPqvNd1uNrTSSkdkiqmHjg65AeUVfo1WNYyw3VeZ/lIhIUeOmqF4utWAry+9BznxGRNR3V9XumBD4R0BL0ugXImHoNowdjQ5HoIMnrrgbRGrFN/OMdy7B0=;2glF1pL8s9X4ZcCeJEUQOg=="
 ---

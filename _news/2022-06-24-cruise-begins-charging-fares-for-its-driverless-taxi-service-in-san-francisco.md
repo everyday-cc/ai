@@ -47,20 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Cruise is now charging for rides in its driverless vehicles in San Francisco"
-    excerpt: "The company said that fared driverless rides are currently taking place with “most riders” in the Northwest section of San Francisco. Cruise will continue “expanding our paid service in ..."
-    publishedDateTime: 2022-06-23T17:21:00Z
-    webUrl: "https://www.theverge.com/2022/6/23/23180156/cruise-driverless-vehicle-charge-riders-san-francisco"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/R3t-iMGHpKyGpkzWmouXY4CC8Us=/0x286:4000x2380/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23646672/1238159620.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
     excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
     publishedDateTime: 2022-06-25T14:27:00Z
@@ -92,6 +78,20 @@ related:
       - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/06/Steve-web.jpg?w=1280"
         width: 671
         height: 376
+        isCached: true
+  - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
+    excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
+    publishedDateTime: 2022-06-27T10:03:00Z
+    webUrl: "https://www.wheels.ca/features/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters"
+    type: article
+    provider:
+      name: Wheels
+      domain: wheels.ca
+    quality: 39
+    images:
+      - url: "https://images.wheels.ca/wp-content/uploads/2022/06/wh-DriverlessColumn-June25.jpg"
+        width: 2121
+        height: 1414
         isCached: true
 
 secured: "lZw6UbqhLnkqx2gmLRGTip2HQubnlN0v3RMEiymIfwdMawzIlC9+NWH+EkBqytid3bKlOtnuNF0f6xcp3QOATuTMA94s7QfI/M+1CU9+/sVVMOMoEfJ0eS9MMPn3ZZgbQVXLp886Wr+lRKrs1QBj0LBHo5SxjK4/Fv8umoMkfkhG0ysFemVOdcrIGkf/z+KwRUZ67ElXu0oTQ7mee+Ab4O38TtLuNkn4VC2jNafT9JIs3GXu7IWrQ0fghWXAym90P2BOqyzeD7vhAiz/hKv9Z3Mgke6GpYuY2xX1VKD2XMA0A3KhcVMKqBg6uzhbZvrs2tzrlH9SComSE3eKXPt5EZleOn1ygm1jhgo9P8OEmYQ=;nDJuftmAnZojnmZpO9P0SA=="

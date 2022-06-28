@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
+    publishedDateTime: 2022-06-24T13:31:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 7
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
   - title: "Cognitive Computing Market Analysis by Type, Application, End-User and Region 2032"
     excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
     publishedDateTime: 2022-06-24T05:56:00Z
@@ -45,15 +59,6 @@ related:
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 0
-  - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
-    publishedDateTime: 2022-06-24T14:22:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
     quality: 0
 
 secured: "wZ+7/jHYo/NK05YJkwUTOZkmD1+v8+Ae+t33m2BGWpqNwinrsDRY59LragJWEZMHRCDf55Iyw2wtdjz5CkIDTN8LxZ+Ig4WvQYC2Mz6lfmiVBgQkqR4HJ6e86pHpRq/KQCVgGKZFunipBRG2ln+u0btXtZrHyMGuNrOSu3vbBxcaigPfBZAqmegBKEzwX6nr4W+SfyBlepOBMkjpcy/LnnRyjMzQ7bUvUPHnyvvmEgBZcz959wk4TG+oShbeGVlt0FPqwueodKj9i0oVwgC0Ce+FCYq8dNWsOpJMbM5mgv7DelWGNW2aFZqpv33oHizfkfM1iD7kvzPjJLoZdzXOqUNrRj7IdlzF5ldNVwFd+Nk=;rAhDir+C4mrNfAfYzXDs8g=="

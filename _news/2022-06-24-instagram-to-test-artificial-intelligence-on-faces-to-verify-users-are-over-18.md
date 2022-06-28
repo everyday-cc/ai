@@ -161,15 +161,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Instagram tests using AI, other tools for age verification"
-    excerpt: "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
-    publishedDateTime: 2022-06-23T17:38:00Z
-    webUrl: "https://kvia.com/news/business-technology/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 19
   - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
     excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."
     publishedDateTime: 2022-06-27T19:38:00Z

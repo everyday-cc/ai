@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/pentagon-unveils-plan-to-make-responsible-ethi
 webUrl: "https://gizmodo.com/pentagon-unveils-plan-to-make-responsible-ethical-milit-1849100945"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Pentagon’s long-awaited ‘Responsible AI’ pathway highlights flexibility, ‘trust’"
-    excerpt: "One key element is ensuring a transformation from \"viewing AI as an enigmatic and incomprehensible technology to understanding the capabilities and limitations of this widely adopted and accepted technology."
-    publishedDateTime: 2022-06-23T17:45:00Z
-    webUrl: "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/"
-    ampWebUrl: "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/"
-    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/"
-    type: article
-    provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 52
-    images:
-      - url: "https://sites.breakingmedia.com/uploads/sites/3/2021/02/KathHicks.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "The Pentagon's plan for 'responsible AI'"
     excerpt: "A 47-page document released this week outlines the Pentagon's plan to incorporate its two-year old ethical AI principles throughout a system's design, development and use."
     publishedDateTime: 2022-06-24T19:55:00Z

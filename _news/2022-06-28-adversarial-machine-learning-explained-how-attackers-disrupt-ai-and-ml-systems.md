@@ -8,8 +8,8 @@ webUrl: "https://www.csoonline.com/article/3664748/adversarial-machine-learning-
 ampWebUrl: "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html"
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/01/binary_neural_network_artificial_intelligence_machine_learning_thinkstock_636754212_tinted-100747913-large.jpg?auto=webp&quality=85,70"
