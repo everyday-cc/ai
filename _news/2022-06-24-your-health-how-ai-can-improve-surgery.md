@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Leveraging AI in the Indian healthcare system: Opportunities and challenges"
+    excerpt: "According to NASSCOM, data and AI has the potential to contribute $25-$30 billion to India’s GDP by 2025 AI can reduce the cost of healthcare delivery without"
+    publishedDateTime: 2022-06-28T03:43:00Z
+    webUrl: "https://www.businessinsider.in/tech/enterprise/leveraging-ai-in-the-indian-healthcare-system-opportunities-and-challenges/articleshow/92509393.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 52
+    images:
+      - url: "https://www.businessinsider.in/photo/92509393/leveraging-ai-in-the-indian-healthcare-system-opportunities-and-challenges.jpg?imgsize=115382"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "Qm0qZeh1WElhOxwePoXQTI6UG5sEka2pFz6diApB2CsMhBBM9G0tB0cwDlh0bWdgub0dqd/jP2yYZeY5po2Ij9ktchyC5M7yCjQ5VEn3oy9Hzqm2juGYz99I3nO2iKGKtqwP6DDpmUb/XfGVSUU24eV0ejeRgmKjrbrjQrENSXluQYtPg2Zg5z27sV0uOunuPO92ky9S8IVMH4Eg6kAh/Cqz+l1uR0qPiqIBED4S6XYhwGU2s5FEp2d/lD+/IN2MTQTTB66mNXA+9C3WkrQ96xbIsqRhTzpI54xPlrsm+aryi8kgTDfvNST8PpAHv75L8nv12SF3PJIR/ikwIh7Dd0c6uKN3y2jjVhDHqKBMaogKPwZOR5uX/zMWatZCijtoMzGTFm5k2bDjA59a7c1MfjXafUpKUMgZ5smxtYH+QY6Yyf/OelmMYKaa+eyNUmgBgym7OyhT7MltIZ2E/GOzlFAdROEmGUyTL9f6T4BX/x2SPjiQ7+2peV6lX8gS5KP6jnIsTTInnL274kjcuwxkpQ==;/uStiL9yNY5bBf9q9n3S/A=="
 ---

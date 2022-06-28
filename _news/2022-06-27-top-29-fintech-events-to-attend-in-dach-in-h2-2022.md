@@ -55,15 +55,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "This entrepreneur exceptionally personifies FinTech with AI"
-    excerpt: "With the motive of helping people understand the complicated yet powerful FinTech tools by providing accessible and quality education, Dr.Clemen Chiang founded Spiking.com"
-    publishedDateTime: 2022-06-23T12:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/430110"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
   - title: "Adyen: FinTech Titan, Fairly Valued With A Huge Moat"
     excerpt: "Adyen N.V. is a Dutch multinational payments company which serves leading companies such as; Facebook, Spotify, Microsoft, and more. Read more about ADYEY here."
     publishedDateTime: 2022-06-27T15:55:00Z
@@ -106,6 +97,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
+    excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"
+    publishedDateTime: 2022-06-28T05:00:00Z
+    webUrl: "https://www.thebusinessdesk.com/northwest/news/2099738-fintech-provider-signs-sciontec-deal-at-the-spine-as-part-of-huge-jobs-drive"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 21
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/jun_22/The-Spine-workspace-e1656344065506.jpg"
+        width: 1116
+        height: 744
+        isCached: true
   - title: "The pain of KYC in fintech"
     excerpt: "KYC is not just an important part of regulatory compliance – it's one of the hardest parts of an app's customer flow to get right, writes Tim Strebkov."
     publishedDateTime: 2022-06-26T08:00:00Z
@@ -115,20 +120,6 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 19
-  - title: "Financial Firms Are Investing More in Tech to Manage Increasingly Complex Regulatory Landscape"
-    excerpt: "According to SteelEye’s annual Compliance Health Check Report, more than half of U.S. firms (55%) plan to invest more in regulatory technology (RegTech) solutions over the next 12 months to cope with the growing compliance pressures in today’s increasingly complex regulatory and operational landscape."
-    publishedDateTime: 2022-06-23T11:43:00Z
-    webUrl: "https://www.monitordaily.com/news-posts/financial-firms-are-investing-more-in-tech-to-manage-increasingly-complex-regulatory-landscape/"
-    type: article
-    provider:
-      name: Monitordaily
-      domain: monitordaily.com
-    quality: 12
-    images:
-      - url: "https://www.monitordaily.com/wp-content/uploads/2015/12/shutterstock_243776701.png"
-        width: 500
-        height: 500
-        isCached: true
   - title: "5 Fintech companies looking to hire in Europe right now"
     excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
     publishedDateTime: 2022-06-24T12:38:00Z

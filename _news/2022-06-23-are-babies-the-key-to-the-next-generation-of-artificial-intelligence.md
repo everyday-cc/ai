@@ -1,58 +1,19 @@
 ---
 category: news
 title: "Are babies the key to the next generation of artificial intelligence?"
-excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI."
-publishedDateTime: 2022-06-23T14:34:00Z
-originalUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html"
-webUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
+excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity College neuroscientists and colleagues who have just published new guiding principles for improving AI."
+publishedDateTime: 2022-06-23T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/956862"
+webUrl: "https://www.eurekalert.org/news-releases/956862"
 type: article
-quality: 63
-heat: 83
-published: true
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
-  - Machine Learning
-  - AI Ethics
-  - AI in Healthcare
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
-
-related:
-  - title: "How Can Babies' Learning Help Teach AI?"
-    excerpt: "Researchers from Trinity College have analyzed the neuroscience and psychology of infant learning to identify three key principles that can help direct independent learning by AI."
-    publishedDateTime: 2022-06-24T08:53:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/how-can-babies-learning-help-teach-ai-363001"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 41
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/363001/how-can-babies-learning-help-teach-ai-363001-640x360.jpg?cb=20220624"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Research finds babies can help unlock 'next generation' of artificial intelligence"
-    excerpt: "According to neuroscientists at the Trinity College Dublin, babies can help unlock the next generation of artificial intelligence (AI). The research examines the neuroscience and psychology of infant learning and distils three principles to guide the next generation of AI,"
-    publishedDateTime: 2022-06-25T05:24:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220624/3955734.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
-
-secured: "LPB06TeiRQH625EpCWoM1o4qWK0tSc6I+CyvLaIij5Z97UK2tuprn6oCutihBeIKzEUZcYYYkWvQ+6hJs5nxwKXDHhyqqyH+u1xPPL2HSWlTMGoeejtBQVEQp68ZQ2yX2rBJT0gUUKzqiWV6FclmMbtWNvf6b4ULKIJh1xzt30IEU7UvNGuktErY3kPyQ7c8NaBLPSkhA2RcFGsPHGytGXfmdn6/nKBTgpP8IncHGMckNPyaRH+GNL4ahVM7Cxg9hWsJHzo9RdUHL9sppj5zBMLP+p0yv2V4Z1zqZ9oQcq5EJI0d5sGZmmkY8VPxXKj6R1QwxcxjAEh0PB1xGeflOdkqSYzbVEn7nIHuOVxdG1y2DnymbZXRkGiq7fvZ/+DV6PcK65bGGH8LxXXmZZ+4fARd7AQ/ySMwZ30OBPQG7jTyXPaypFUh2mf+GeT0zySwDLq4yiPepDWvo+I57PKmQpRpQCO1bPUupLblhxoJuvL0vs3NHX1fDrDSVygFduqedQ2BMTS76xfpIjaTT4K6gQ==;b0UlcskrjJPKkgykyRGhvA=="
+secured: "qZi43t5j5hszJUUYs9vSFvOJOVkMZ0FCwGMBWoOwoYpvKJdIoXHt92yPdgk39ui6gMjAFBolSD1FlSY04GHN093tFLOMSddlgkCtmbVwTV/YIgCFHO54WKDlA0Cw/DQ2fGaMUrvkqj0QlJiVsDVScO6/acIVzkllDEiclSaW//ks7HXG4fbbIaFzh+2HbiOTKXIhN3jZMHzaM2LfFPxeQb/TiFVqjkZvJWgoLqJbGltHqEJ/2WFbTvyhlImC+A3NB0cT9ZflUm/9OG1AjuA+ctM9+D/ntWq+B5MwKjBvtqcbs2cp08OiGN7Gn2mVlTwQswzIy7bNPAVs00afx/6upBEsEvSJL3Ne2NYhHiPNZpY=;4QZikW/AKTfe+SHqDEQ15Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://do0bihdskp9dy.cloudfront.net/06-23-2022/t_ccd52045145a496e908ef003e4b35abd_name_thumbnail_image001.png"
         width: 635
         height: 355
+        isCached: true
+  - title: "Leveraging AI in the Indian healthcare system: Opportunities and challenges"
+    excerpt: "According to NASSCOM, data and AI has the potential to contribute $25-$30 billion to India’s GDP by 2025 AI can reduce the cost of healthcare delivery without"
+    publishedDateTime: 2022-06-28T03:43:00Z
+    webUrl: "https://www.businessinsider.in/tech/enterprise/leveraging-ai-in-the-indian-healthcare-system-opportunities-and-challenges/articleshow/92509393.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 52
+    images:
+      - url: "https://www.businessinsider.in/photo/92509393/leveraging-ai-in-the-indian-healthcare-system-opportunities-and-challenges.jpg?imgsize=115382"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "MBAgk3VXxGu43I2CzsKZ/SQPZMzX6Xq7OkiOp/OVftkRu486BikTBUvzgod7h+rT/EbVm34HWt6KHSLQtrt7cVSqLyX8gbpPfz04vqZaf7Lze9Ws2XVZ+nfgZkulb3NkEUCeaUKeArVCY1DgiRf3RmuAMolIrLGoxnynnzVsFfi4UGaTZwugfFLYkOh3FMJwOgt9gKy1kZcTt4RwoaR9eKsK8shtTKMFuLrUNMcKTcTVaGQHie+BNyEgZzKb8zscFOUaP9epuofIrm9znI+fo3rpznQApsKD7Wa9D90JBjDBE9ZJZ09Xs+cDUsV5nisrHvv4Rdkl71Aqkqp6mJugRu9epPg5G96CCA+2tbztozkQfiqGQFcQdWTXWUr2HDAeK7YwwerKxqL1ZkL3UKT+2KTYhQHFy+I/dbuKDavkSv9U4m5CrRFp38wA9D+FrE+2is0cacFVrKHesLBK+FxZXxdJdGsP1oLDTe1n3qL/SLLCMzm4MKRBT70jOb0MKoEpRAl0CufD4EX0XqTcWnRIBw==;Wzuuoo3m0fsWednKhb9uzg=="

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transport Committee launches inquiry into self-driving vehicles"
-    excerpt: "The inquiry by the Transport Committee will scrutinise the development and deployment of connected and autonomous vehicles ahead of the potential arrival of self-driving tech from later this year.   The inquiry will consider the progress of research and work in the UK and abroad on self-driving cars and what needs to happen to prepare for their arrival."
-    publishedDateTime: 2022-06-27T12:16:00Z
-    webUrl: "https://fleetworld.co.uk/transport-committee-launches-inquiry-into-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Fleet World
-      domain: fleetworld.co.uk
-    quality: 4
   - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
     excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
     publishedDateTime: 2022-06-27T17:34:00Z

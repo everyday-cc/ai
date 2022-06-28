@@ -19,24 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "£8.5 million research program to transform AI ethics and regulation in the UK"
-    excerpt: "It will move beyond AI ethics frameworks, creating recommendations and use cases that can be put into practice for a range of AI applications – from biometrics and facial recognition, to big data analytics in the financial sector and diagnostics in ..."
-    publishedDateTime: 2022-06-23T20:30:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/956877"
+  - title: "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028"
+    excerpt: "Market Trends for Machine Learning Courses Market Insights and Forecast to 2028 from 2022 to 2028 According to the"
+    publishedDateTime: 2022-06-27T09:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-  - title: "How conversational AI can transform the Gulf’s hospitality sector"
-    excerpt: "As a result, consumer requests and responses often end up getting lost in translation. Conversational AI helps understand your customers, their asks, and preferences better in the language of their choice. According to HubSpot, 33 percent of customers said ..."
-    publishedDateTime: 2022-06-23T11:10:00Z
-    webUrl: "https://www.itp.net/emergent-tech/how-conversational-ai-can-transform-the-gulfs-hospitality-sector"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pharmaceutical Robots Market Size 2022 Top Companies Overview, Share, Growth, Report Analysis and Forecast to 2027"
+    excerpt: "The global pharmaceutical robots market size reached a value of US$ 161.84 Million in 2021. Looking forward, IMARC Group expects the market to reach a value of US$ 305.01 Million by 2027, exhibiting a CAGR of 10."
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pharmaceutical-robots-market-size-2022-top-companies-overview-share-growth-report-analysis-and-forecast-to-2027-2022-06-27"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+  - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
+    publishedDateTime: 2022-06-24T13:31:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 7
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "ORq8i7uo5pdWid8scWiHHYIam+VLNYscOr5gma6diEH0szTZZ5fVuyC0I3CwF+oJn4cDzg8d97i4Tikdbv9AEa06mmkcJj0FKRLvt3CVh6TWDlVZEIFkgNUELs2UZ9jz8euXE0Z8ktSipXzf6KbNX6C0C1KwvWUgPaLpd+rmi6Wd8exY2czvv/Paqh8wuQp2O4+Ucn/vLoiX4qSx3WjwLTVaIMZR1Rujzl+97d7c3W3grmh6JvIBUL9RqgI4IG0YeGX8aQCqpP5Pv/tQFCi0YLmd1dN1aFQL3msHzUyYj/xDtT3w90AhmkBeK4kynof2FKiWGZPTToVV7dN70m4lFGiFdYrQM48t1fJqe0aKSKI=;8rd27HKx2G1Dpgt90Md+qw=="
 ---

@@ -23,34 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "Self-Healing Materials Market Size 2020 Driving Factors, Industry Growth, Key Vendors and Forecasts to 2025"
-    excerpt: "The latest trending report Global Self-Healing Materials Market to 2025 available at MarketStudyReport.com is an informative study covering the market with detailed analysis. The report will assist reader with better understanding and decision making."
-    publishedDateTime: 2022-06-23T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-healing-materials-market-size-2020-driving-factors-industry-growth-key-vendors-and-forecasts-to-2025-2022-06-23"
+  - title: "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028"
+    excerpt: "Market Trends for Machine Learning Courses Market Insights and Forecast to 2028 from 2022 to 2028 According to the"
+    publishedDateTime: 2022-06-27T09:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Research Report 2022, Size, Share, Trends And Forecast To 2027"
-    excerpt: "SHERIDAN, WYOMING, UNITED STATES, June 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intell"
-    publishedDateTime: 2022-06-27T10:14:00Z
-    webUrl: "https://menafn.com/1104437488/Artificial-Intelligence-In-Healthcare-Market-Research-Report-2022-Size-Share-Trends-And-Forecast-To-2027"
+  - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
+    publishedDateTime: 2022-06-24T13:31:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 7
     images:
-      - url: "https://menafn.com/updates/pr/2022-06/27/EP_00e02image_story.jpeg"
-        width: 300
-        height: 300
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
         isCached: true
+  - title: "Cognitive Computing Market Analysis by Type, Application, End-User and Region 2032"
+    excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
+    publishedDateTime: 2022-06-24T05:56:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/24/cognitive-computing-market-analysis-by-type-application-end-user-and-region-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "wZ+7/jHYo/NK05YJkwUTOZkmD1+v8+Ae+t33m2BGWpqNwinrsDRY59LragJWEZMHRCDf55Iyw2wtdjz5CkIDTN8LxZ+Ig4WvQYC2Mz6lfmiVBgQkqR4HJ6e86pHpRq/KQCVgGKZFunipBRG2ln+u0btXtZrHyMGuNrOSu3vbBxcaigPfBZAqmegBKEzwX6nr4W+SfyBlepOBMkjpcy/LnnRyjMzQ7bUvUPHnyvvmEgBZcz959wk4TG+oShbeGVlt0FPqwueodKj9i0oVwgC0Ce+FCYq8dNWsOpJMbM5mgv7DelWGNW2aFZqpv33oHizfkfM1iD7kvzPjJLoZdzXOqUNrRj7IdlzF5ldNVwFd+Nk=;rAhDir+C4mrNfAfYzXDs8g=="
 ---

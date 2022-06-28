@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Are babies the key to the next generation of artificial intelligence?"
-    excerpt: "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI."
-    publishedDateTime: 2022-06-23T14:34:00Z
-    webUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "How Can Babies' Learning Help Teach AI?"
     excerpt: "Researchers from Trinity College have analyzed the neuroscience and psychology of infant learning to identify three key principles that can help direct independent learning by AI."
     publishedDateTime: 2022-06-24T08:53:00Z

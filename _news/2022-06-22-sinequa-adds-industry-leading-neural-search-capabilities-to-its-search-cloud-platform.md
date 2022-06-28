@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform"
-excerpt: "\"Sinequa is differentiating itself through its use of deep learning (artificial neural networks), by applying multiple deep learning models to provide more accurate and relevant search results ..."
-publishedDateTime: 2022-06-22T15:05:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm"
+excerpt: "Enterprise search leader Sinequa today announced the addition of advanced neural search capabilities to its Search Cloud Platform, providing unprecedented relevance and accuracy - at scale - to enterprise users."
+publishedDateTime: 2022-06-22T15:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "tYMIqyn6sArP4XUh+a0huPs/CZXNBsEYy7NB2slRo7BWdVVweiuQjsBtp98XSpN7x/uPKaXc3g1GdPzG7LhXDOms8xe23hQ23keNZvm+wLwJnEiD57qi3y/itDLkh7nwJ+HnukCAm7W/02Jn4ypen1mBtFjlm8KNP7HnR8ZMEAvuyGExpJGQ/45hN9H1cDs5ugNU6wNtoDxtO5i+KUiBaUTIr+ptPQU47cJe6Hdqp5tHpU8UKPLlrINAeV5eS65B3NVWuQlIWciU18bt/kaBElHnZ6NmnDN6vQqzIB0Uut5+y6KxIZVhUMpfLMZG1I9/OsjUnWAFkZ1yLtKvHTDbGSKVo91yAJG0iPGz2HnKCQ8=;+gAeS39xszdsZEEycbQpnQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "+TasFHZ3vsh62w8FPrnPNxEOFLzxeX+znYG9BfDV5VsxaMPKXqLH3CEnh9rEsRnhP7wGqqD3sMA1tkHsrjCsEYFOBsjvAaqojXBvU9fbPeRVWbbRgyuHd+zuDkEXizYJxa+N2Fx5O27godBXFigJEcximNUgs14eIu8S21EBprSLPveMWg1+SepVNJVn0ZRCJ0aXpIknGVjM81j3jCsSs9bq0qhKDanV2Bh2ZMuf53OpJM3HE76umHk2//2LRobDXJ0P8xfwVix4Kh4EIxIGjlA8PyR12I+4GQhlMq4SH4+vbJaMoPDnea3bdQcMBgLHOkeWkmRZwIzO1lUY3GuZ9sfWDUJyHq0TbTd8bevHeZg=;YlU1/2B7XC8WGMz8BAUeBw=="
 ---
 

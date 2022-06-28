@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-23T13:32:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-b8f411c5edc1e72859dfa8e411c6e901"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-b8f411c5edc1e72859dfa8e411c6e901"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -78,20 +79,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "ACTIVEFENCE WINS “BEST AI-BASED SOLUTION FOR CYBERSECURITY” AT THE 2022 ARTIFICIAL INTELLIGENCE BREAKTHROUGH AWARDS"
-    excerpt: "The Award Honors the Company’s World-Class AI-Powered Proactive Content Detection Technology NEW YORK and TEL AVIV, Israel, June 23, 2022 /PRNewswire/ -- ActiveFence, a leading Trust & Safety tech platform that prevents online harm,"
-    publishedDateTime: 2022-06-23T12:31:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-b649f87505957b79f6acce6b4c9f7533"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

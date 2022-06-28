@@ -48,7 +48,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -81,20 +81,6 @@ related:
       - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
         width: 415
         height: 539
-        isCached: true
-  - title: "ACTIVEFENCE WINS “BEST AI-BASED SOLUTION FOR CYBERSECURITY” AT THE 2022 ARTIFICIAL INTELLIGENCE BREAKTHROUGH AWARDS"
-    excerpt: "The Award Honors the Company’s World-Class AI-Powered Proactive Content Detection Technology NEW YORK and TEL AVIV, Israel, June 23, 2022 /PRNewswire/ -- ActiveFence, a leading Trust & Safety tech platform that prevents online harm,"
-    publishedDateTime: 2022-06-23T12:31:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-b649f87505957b79f6acce6b4c9f7533"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Aizon Wins “Best AI-based Solution for Manufacturing” Award in 2022 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "SaaS provider that transforms pharmaceutical manufacturing operations, today announced that it has been named “Best AI-based Solution for Manufacturing” in the fifth annual AI Breakthrough Awards program conducted by AI Breakthrough,"

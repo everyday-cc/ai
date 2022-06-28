@@ -9,7 +9,7 @@ ampWebUrl: "https://www.01net.it/eigen-technologies-recognized-for-artificial-in
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/"
 type: article
 quality: 54
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -77,20 +77,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "ACTIVEFENCE WINS “BEST AI-BASED SOLUTION FOR CYBERSECURITY” AT THE 2022 ARTIFICIAL INTELLIGENCE BREAKTHROUGH AWARDS"
-    excerpt: "The Award Honors the Company’s World-Class AI-Powered Proactive Content Detection Technology NEW YORK and TEL AVIV, Israel, June 23, 2022 /PRNewswire/ -- ActiveFence, a leading Trust & Safety tech platform that prevents online harm,"
-    publishedDateTime: 2022-06-23T12:31:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-b649f87505957b79f6acce6b4c9f7533"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

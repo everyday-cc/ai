@@ -43,6 +43,20 @@ related:
         width: 810
         height: 544
         isCached: true
+  - title: "Australian appliances giant pauses facial recognition tech over privacy concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T03:08:00Z
+    webUrl: "https://www.reuters.com/technology/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern-2022-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/E9f6SERqd4JhyOSdc1sETEzMCaQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VIWPZARKTHH5MMB7K3BHAEI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Australian retailers named in facial recognition complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
     publishedDateTime: 2022-06-27T20:39:00Z
@@ -56,6 +70,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "Australian firm pauses facial recognition trial over privacy concern"
+    excerpt: "The move comes after a consumer group referred it to the privacy regulator for possible enforcement action. Read more at straitstimes.com."
+    publishedDateTime: 2022-06-28T05:36:00Z
+    webUrl: "https://www.straitstimes.com/asia/australianz/australian-firm-pauses-facial-recognition-trial-over-privacy-concern"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/28/ac_thegoodguys_280622.jpg?VersionId=wGnZzn1t3CotARjlPkNubCxeThFvNo4P"
+        width: 860
+        height: 573
         isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"

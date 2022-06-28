@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Breakthrough AI Integration Platform AI Squared Raises $6 Million Seed Financing led by NEA and Ridgeline Partners"
-excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI"
-publishedDateTime: 2022-06-27T15:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/breakthrough-ai-integration-platform-ai-squared-raises-6-million-seed-financing-led-by-nea-and-ridgeline-partners-1031552254"
-webUrl: "https://markets.businessinsider.com/news/stocks/breakthrough-ai-integration-platform-ai-squared-raises-6-million-seed-financing-led-by-nea-and-ridgeline-partners-1031552254"
+excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI Squared, the low-code AI integration platform, today announced it has raised $6 million Seed financing by global venture capital firm NEA with participation from Ridgeline Partners."
+publishedDateTime: 2022-06-27T15:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-venture-capital-artificial-intelligence-c1de2afaf5415e87fe852f1b33642f32"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-venture-capital-artificial-intelligence-c1de2afaf5415e87fe852f1b33642f32"
 type: article
-quality: 25
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI Squared raises $6M to help companies integrate AI into existing applications"
@@ -46,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "UTVu6xIzGgF1XJvOFoHwvMXHN0eV8E0CsZBptXPxdF/Twi9ywRIC+N4lz8hXyge4KrioCxLZEwEVeBlLMvMl91PHTVqy+JD8Pay6YGXVW8orNdjGjviFBPeacYM+B2kDZ8uWr767J9Iv/uSUoaKO8KlPIkRTNzvp5x3NonAV0p7AneJFuiFcSFx9EGjRta6+LQTbOhFPdy4szfPHzeTjoUnVCe4pWk1O62agi7Ptt8SjumHD0hp/VcONoqcW2DYN/QDXj2siqklSU7sJqAUofypbFhi0TrBGcQ+f74Yblph8xhfh6Ig42mJ4fyUC4heeVbPBnLoFjNFmxfh7+fcySFKHvzpoGnI08TIXnVN8MfU=;gsVxRWXJi+rNKjtq+GEr1g=="
+secured: "gyCFexphdzK+ekHz1S7hDpccwvQ64bGe07yD66cpDeckieXSjFPl6rA01vuk4KR0Ej7YHDgxrtzu24ZqJ9imXDYzvxUbyjZFNtsXICoGYx1ioI2nqqNBcqr6hWRINLNyWVTVfIqsEEnWxsJLuxeMrTsuJB6OG/5s6ySGC7MRwPN3RE9vlJNjyNd4+6dvIEFlsLbH5MP8oJ2WvvoV/q0SB78iUvzIt/p8yBcjW8XK20kFztSx1PyMxzm15Lbnxp7j3VrohkFs61iE6+M7BGqcmLJRza04L3lGEcndYPnBEn0bVxy7F32nTVKWXXhTzf2IpdodZ4smFAZT6ECj5YrYMXJ8Rq2WpyKCsqHBgxCRsMU=;ZFvJ1IrRG9L1rPWdz5inZw=="
 ---
 
