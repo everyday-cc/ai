@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI hiring levels in the apparel industry dropped in May 2022"
+    excerpt: "The proportion of apparel supply chain companies hiring for AI positions dropped in May 2022 compared with the equivalent month last year."
+    publishedDateTime: 2022-06-29T11:00:00Z
+    webUrl: "https://www.just-style.com/analysis/ai-hiring-levels-in-the-apparel-industry-dropped-in-may-2022/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 37
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/06/BP0E0-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "AI hiring levels in the automotive industry rose in May 2022"
     excerpt: "The proportion of automotive manufacturing and supply companies hiring for AI related positions rose significantly in May 2022 compared with the equivalent month last year, with 64.2% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-06-29T09:00:00Z
@@ -53,6 +67,6 @@ related:
         height: 778
         isCached: true
 
-secured: "NcTGha375a8bPCWEIzS6dwWHShkFeWIUGBqKCgoTc6lif2PCsc1G64+2CwVhR4bhVOgDwNtL6tteeNRCqR3RA+/AwnO8Y2kQGgyioyh2DpTtMAspd+AuiHsFtKmO6Q0c3c/QF5gGFqK+vYUM1eVjlGLlB+AslZSLzT+iPjIIQ+dROUwJkRjQL8h5dDWRAQSOHwwO2PDSCwFcrCCEU3LbhWnS17Z5gal1/o7TRAXPsAc7KMvMeE9drxl/JuPnWsry/utJB0SKrWo6zDUbd5QD+zdHIDLoBOwC64Aa5rB0l+uHeu0sIJhrs9W50YPClyW6qZU3nDi9qK5p3bTsKqI+QxJJ5TGrVPUvVARV/NNEMtE=;36zF3UGQnTnVPKNrzFftjA=="
+secured: "vpmDkv92Hk9vcRfXXUPjDjlbbQtcc8nu4hNIxlIJH0TyfblXqtTHtoSzKNxqk1vKoCEmizI9yTTgoMUaHVw+9AUlMgZ0L3D40x5DSmJbJNYA8wRcS44//EtHKRGu/OW6DZDkRn17rcHhY6q1X3TTycGQLuSTfK+6VTfMFUsIrEDmdnsXkW6Na8CaLalSSlh9krLz6AvWRBpqdNKOZ1yVEx02xdVhW8kLmfXgcSDY9YGqIcUeVBvPWQyIMOll/VI3HrLXBSx8MR79kFTePrsBO00BJMUXavk9CmgrAv64zSvJ02nEZw6HVAJN0onvObew53wcVUpFd+MkwfQy6hlHUUkVw3l5HwPlZiSPSskGN0/DONytFtQ3A0ntybUa/3QYR+MUi9ULRdJ6fvqhothFRgXH8nCC89MV+9ohzVV5VSID0P9aCZsw0lMRFv/+vbGMHYulN0jVydqXP8+Z9ek+u0oGezpM8E8Me06w/0bO1vLnYz1pF2YeiGc36MqIODE5bAWV0r2UrCOhOTkGlJDmzA==;6cZGDBEWfYL6uEHiqcyi8g=="
 ---
 

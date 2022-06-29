@@ -7,7 +7,7 @@ originalUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft
 webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CWallet announces partnership with Microsoft Qatar"
+    excerpt: "FinTech start-up CWallet has partnered with Microsoft Qatar to digitally transform thousands of organizations by equipping"
+    publishedDateTime: 2022-06-29T10:37:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/cwallet-announces-partnership-with-microsoft-qatar/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
   - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
     excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
     publishedDateTime: 2022-06-27T11:25:00Z

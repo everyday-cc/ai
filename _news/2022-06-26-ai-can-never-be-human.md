@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How to use OpenAI Playground, the viral tool that lets an AI write nearly anything for you"
-    excerpt: "When you make your OpenAI account, you're given a credit of $18 to start with. Considering that the AI only costs about six cents per 4000 characters generated, that $18 should last you an incredibly long time. After three months, the free credits will expire."
-    publishedDateTime: 2022-06-24T17:21:00Z
-    webUrl: "https://www.businessinsider.com/openai-playground"
-    ampWebUrl: "https://www.businessinsider.com/openai-playground?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-playground?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/62b4cfd29f5e550019aa6867?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "P4ddT9B2DqnE1GpjdhB3dH4+fRNsRytpDTi2URGwqNA3rtmn/rlKPssQeYctFkQ/73i2QWCt+pC/cU7EoMsH9XvUHDTqU2JkYn2sE9J+fy3kgnkgqggTjLXtcmiAPX2/gSk6foDXn4CdGsZEqMeV5AyZZOls0dkq78JS8sdt3QRbLWLyGIn/E3BcyxGKDAon1PGls1RItzmfimiBD53l4k0x8Ggvfggc/yTPusj+H4XSBhB4jXPeMSsJwTFhaNuUGHMHxv+SD+4l2krGSC8DPs349jIMYEniTLC4RfAyTqXpKCC8G6Zi4y0QDL3Yd7A32ljWLdOVtf5yaUmAWteixlSJEL+rgg4Yz0z4kJ+bc98=;PGk6SItRQe+rv7juFO/B0A=="
 ---

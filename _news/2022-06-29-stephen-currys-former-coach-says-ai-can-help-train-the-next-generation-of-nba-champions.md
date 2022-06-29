@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/he-helped-save-steph-curry-career-want
 webUrl: "https://thenextweb.com/news/he-helped-save-steph-curry-career-wants-ai-save-future-nba-stars"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Research finds babies can help unlock 'next generation' of artificial intelligence"
-    excerpt: "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI"
-    publishedDateTime: 2022-06-24T18:24:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 33
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1656095078.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "UXGi/Sqpbu8mzoP+6pOkJj8iCIe71kJ9TCpEKr+hvkmArISmWltrofGs2kV0Em5icSuR+/fgM58Q2cx0/JIDC33gDqMwlR5M8LTL2CCw47QnDpcZsgkEX18KUonZ+BmKYQfsBCWyssqTPsqY71dgpkvS+O79sgCFJgMWHTbtauyKszER68fjRtX+QInpkdk/RIEPwBDJSU5HyeZszLEhV45uB76htF3ZRaUt4DGUDD3NXXIJ3Ac1vf26SDCj1VwX8h0KINtoFnx+29SP4msBLL43//ShNNzKkQWIXMY/qIQziRpZl1OWRFaiD/2rgmXGCksPPEJk2qKa41fmZWqTCXAwIwnQLXkwwUxw45lhaS5Kb6n4lUZFeCKXoPdglDwVO1NG7AUANH8VaPT8DyUGPDVrd2lp+0ApAwKc2fk+Q0WR/dCaBE6Q0DAnC+TPberux1TvEF7Fm39Fm3+m3wSLCQtb171d677tgP6qPC0B9timsuHlo0004mgNdxSQQU3N+IL7le07ItH5GxwnjUqh8Q==;wgIRmClB6lbCPUEzz0qlzw=="
 ---

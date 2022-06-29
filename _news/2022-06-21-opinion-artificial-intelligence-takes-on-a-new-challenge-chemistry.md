@@ -13,7 +13,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
 images:
   - url: "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg"
@@ -21,6 +20,6 @@ images:
     height: 1203
     isCached: true
 
-secured: "CK1AuGWa8QKJk99O3Ade/6MI9YX1T94Z7nCKRQ6auTbLchtI3Acy2fhJb84FxC0R7eiXl7ADaImQpMjDLwu/LfVGjG0V9auGlGMnuGzZyP+K8HjLRnkxxh/85mGkBO5YBDgHYtXa/ZREptMo2ACN/BRE74qknlnwx62dO2l66TXf1+eSVbGN7G5kP7BXKcqUThleF/C9Mc7FY6z5ZrKk3XFiBgiOZxviGsJdCp/ZGBzojZ4PajVufTw4HXbCmPm6n7Zk8kUq95hI+Y4b9M/4Du9ceKvUUwSesSqmaZ2gHRgEyFapnQxAyBKiOJcgs+lGzsFLyvKawME3fMWIESAu+UPZKg/xyqy9s3cqYh9PiqMbWfDnI4h9pIw5ujb6uMC7dErtSpdOcPx29jpeOMsDObeuz9odliAr6maLgsSNd5hc0xqmT2DTyADyoIm7jvFW9dMgcC0Rcl66X6sRZW+RN9zKV4YrL/caFkBZ53XsSBvBTBrYf1fpPy6rc1PIJ5TNvM/1uLX9bJbeDcRixH3qoQ==;OajUgZrqPsGWz2cg6uctAg=="
+secured: "CL0+PFjP7f6MT0adedUigPEsRfqKksUyYpSaBxb8mBCBpHgupOUk8340C8LwPK3zYZ9QgxcBRFb573iBy6UdnbAtLt1H4aWpdH61TQuWLuF4XHE/lOBMrPxHhNZgL1dMK+9E+VOvIWmHZeJD0IJjg/39bU8zzsKqAsr6QoxRNH8+xvTHHbhjljimb1TZo4rHW3hQ1wOIgzEMJPpHegESzjNcKf9sE1t7zh/9kBtvMlDhPzkvqJYHloZ83SFWpTUDDX6RGylVnmxn/z1rLPHoj6Kux2dzHTrS5/surobXvObEvKbeST4d2n0V3jGqpkRA+1+RzUU5+J6uZFr7+V6ZZr2V4jbK3AR4fXSm28uzcR4=;jlmzrlPHqYx1Uc/7oXkk6g=="
 ---
 

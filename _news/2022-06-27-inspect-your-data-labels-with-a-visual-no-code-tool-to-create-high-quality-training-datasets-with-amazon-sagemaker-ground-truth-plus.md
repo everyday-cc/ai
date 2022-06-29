@@ -57,20 +57,6 @@ related:
         width: 1996
         height: 998
         isCached: true
-  - title: "MLOps foundation roadmap for enterprises with Amazon SageMaker"
-    excerpt: "As enterprise businesses embrace machine learning (ML) across their organizations, manual workflows for building, training, and deploying ML models tend to become bottlenecks to innovation. To overcome this, enterprises needs to shape a clear operating model defining how multiple personas, such as data"
-    publishedDateTime: 2022-06-24T17:51:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/mlops-foundations.jpg"
-        width: 1246
-        height: 619
-        isCached: true
   - title: "Deep demand forecasting with Amazon SageMaker"
     excerpt: "Every business needs the ability to predict the future accurately in order to make better decisions and give the company a competitive advantage. With historical data, businesses can understand trends, make predictions of what might happen and when, and incorporate that information into their future"
     publishedDateTime: 2022-06-28T16:12:34Z
@@ -85,15 +71,6 @@ related:
         width: 895
         height: 314
         isCached: true
-  - title: "How Cepsa used Amazon SageMaker and AWS Step Functions to industrialize their ML projects and operate their models at scale"
-    excerpt: "This blog post is co-authored by Guillermo Ribeiro, Sr. Data Scientist at Cepsa. Machine learning (ML) has rapidly evolved from being a fashionable trend emerging from academic environments and innovation departments to becoming a key means to deliver value across businesses in every industry. This transition"
-    publishedDateTime: 2022-06-24T18:01:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-cepsa-used-amazon-sagemaker-and-aws-step-functions-to-industrialize-their-ml-projects-and-operate-their-models-at-scale/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
   - title: "Amazon Released Incremental Training Feature in SageMaker JumpStart"
     excerpt: "JumpStart to incrementally retrain machine-learning (ML) models trained with expanded datasets. By using this feature, developers could fine-tune their models for better performance in production with a couple of clicks."
     publishedDateTime: 2022-06-27T15:04:00Z

@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Research claims military cannot rely on Artificial Intelligence for strategy or judgment"

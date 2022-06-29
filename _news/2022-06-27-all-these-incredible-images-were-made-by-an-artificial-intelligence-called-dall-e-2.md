@@ -42,6 +42,22 @@ related:
         width: 1680
         height: 979
         isCached: true
+  - title: "How to make AI art: DALL-E mini, AI Dungeon, and more"
+    excerpt: "AI art encompasses everything from text adventures to AI-generated images produced by DALL-E Mini and Latitude Vantage, as well as text-to-speech apps that will \"speak\" in the voice of your favorite characters."
+    publishedDateTime: 2022-06-29T10:45:00Z
+    webUrl: "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html"
+    ampWebUrl: "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 87
+    images:
+      - url: "https://b2c-contenthub.com/wp-content/uploads/2022/06/craiyon_2022-6-21_9-42-40.png?w=981"
+        width: 980
+        height: 1199
+        isCached: true
 
 secured: "HSye5zNntVtZIMfPOD/vM9PTaCHcUMYvazsmWEHQOUsX/CWCUPHbn3+g/dJWRAyT4kXYzLxcx4QnVj+lTlyiEeaLijqHiuLj4moViYHz8+gDvVT/MRqbzINDvZb941SBlQXFm42TU/xzklkJ9JiFa8fRDmL7asjb8/JJpHQ712OiaCcZtJxVH8/RbTh/XX75tX1oWXGCO9banfPZH1nZ0HhMr82xJDMSf1dmNlSwCjCaQ7OFyeiVCukBV9rVkj7INf/UN8tl0MyZulsgUk66vH68qsUK/kmZ4a8SiMlGPcltek0oqWk1y00SE2ZLLhngoavkcywYdb4FPeP3u9+wND97dHzQQ2Ot3TPtn7IX0RI=;9iR5A6bDTk7n7Hyx48i1Kg=="
 ---

@@ -1,0 +1,82 @@
+---
+category: news
+title: "CWallet announces partnership with Microsoft Qatar"
+excerpt: "FinTech start-up CWallet has partnered with Microsoft Qatar to digitally transform thousands of organizations by equipping"
+publishedDateTime: 2022-06-29T10:37:00Z
+originalUrl: "https://ibsintelligence.com/ibsi-news/cwallet-announces-partnership-with-microsoft-qatar/"
+webUrl: "https://ibsintelligence.com/ibsi-news/cwallet-announces-partnership-with-microsoft-qatar/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: IBS
+  domain: ibsintelligence.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+    width: 600
+    height: 500
+    isCached: true
+
+related:
+  - title: "CWallet, Microsoft Qatar partner to bring latest fintech services through Azure"
+    excerpt: "Doha: Award winning fintech startup CWallet has partnered with Microsoft Qatar to digitally transform thousands of organisations by equipping"
+    publishedDateTime: 2022-06-28T06:25:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 50
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220628_1656397572-912.jpg?1656397572"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
+    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 38
+    images:
+      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
+    excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
+    publishedDateTime: 2022-06-27T06:47:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/digidoe-a-uk-based-fintech-launches-operations-in-qatar/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
+  - title: "Durango fintech company sells to NerdWallet for $120M"
+    excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."
+    publishedDateTime: 2022-06-27T20:07:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/06/27/nerdwallet-acquires-on-the-barrelhead-colorado.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+
+secured: "91RQtKiT30HH0Jqpd+alKUA+uJKzdNjcEbitvKgFecDpoX6uzdxl/ahcAJSUQ2HDMAAVscw+PI4ZrkfbgbC3vVH2vCuSlmvJ/kEqZQZCMKRDZfoZG4sLb6Sf2T1eYyh5nTchfXTcTw7Hlkp8W4zl9JEKixVkeW3JHPUbAovV+Q79n8aVyQdE8Kj3LT04bI6r8aN6Bk42osb3yI7HtQcRhuCSi2O6oHVAGuRjifz+5nWb9QZBw8QDyNAiWfmMBIuBqHldGNXeLBNhfwHxDKN9tb2XfJrzYtBKMGNw0RCakYNDFjpoqad4/xp4qVbKiQZYREXj4fF+66Ft20Zss0ZWHdVQ2qImYcmcI03R//HcaAg=;YtNhR25SWN3SDLgb1jyCxQ=="
+---
+

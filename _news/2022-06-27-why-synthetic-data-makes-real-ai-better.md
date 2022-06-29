@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/"
 type: article
 quality: 91
-heat: 135
+heat: 115
 published: true
 
 provider:
@@ -61,34 +61,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/ai-in-data-centers-feature.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Meta is building better AI-driven audio for the virtual reality"
-    excerpt: "When it comes to virtual reality, creating immersive worlds is more than just generating visually perfect environments, the way that sound works can make or break an experience. To tackle the subject of audio,"
-    publishedDateTime: 2022-06-24T17:15:00Z
-    webUrl: "https://siliconangle.com/2022/06/24/meta-building-better-ai-driven-audio-virtual-reality/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/oculus-quest-2.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Meta is building better AI-driven audio for virtual reality"
-    excerpt: "When it comes to virtual reality, creating immersive worlds is more than just generating visually perfect environments, the way that sound works can make or break an experience. To tackle the subject of audio,"
-    publishedDateTime: 2022-06-24T17:15:00Z
-    webUrl: "https://siliconangle.com/2022/06/24/meta-building-better-ai-driven-audio-virtual-reality/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/oculus-quest-2.png"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "NZiCwig3j4yq1LkQgMmUzMCHSAlIoDev4jGW0CfvSr8P+jfaftaWjkbsTaGi/J1WWku7OgbE2ps7z9sbmjV+XrmmvoV7JmPeERMhKMM3jCliAbhqBHOEjhi7SfIW2D/lXU1gBsph8b6auOjk+TMoRC0xsQBK/hSAB/0bQyqFUuyeOqGcUgOY/XyRDAr+JohyME06od0Swmvi/eNxAjcnNumyiA3YoqzRZfnbitq99FvyZVJ+dJuE3GoDAevjfachTyn+MGDH0Czyn7agfyXDfYCqm4Ob/6wxW4tBaFN66j9XJRAcs75rh6emCI6Kkp2OKRHDPcMeFvCcqDO9bOR782wvLhWDKuW2HPSa2ykLaJSeiCbrBjPe8OQBzwABYKJVs3ni6GpvJCgecDk4A1nB0JlKD0tt0YZ61k06vf5SwrDQb0I/eHoC21r8wF7eZj44xHOMrD85qfBAp6KwljHBnaZKv3q/giZ5QQP+66dX6pCGFKcaX6+zBrKY6nRcEEgpk6A5HdxxRvqg6yKYTArUSQ==;dG7B6nSruxXGgyinsoCoSw=="

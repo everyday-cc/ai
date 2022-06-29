@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
+  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
     excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-06-29T07:58:00Z
-    webUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
+    publishedDateTime: 2022-06-29T05:39:00Z
+    webUrl: "https://apnews.com/article/technology-china-general-motors-co-baidu-inc-df3c475bdebfb9b2644aa23c37664a74"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://storage.googleapis.com/afs-prod/media/1a0a38a297cc4212bc25ee2ceaba5bbe/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Road is opening up to allow self-driving cars on UK roads"
     excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."

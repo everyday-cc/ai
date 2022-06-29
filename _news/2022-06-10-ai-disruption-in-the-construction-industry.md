@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.techreport.com/wp-content/uploads/2022/05/AI-Construction.jpeg"

@@ -1,0 +1,75 @@
+---
+category: news
+title: "New laws urgently needed to control facial recognition"
+excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
+publishedDateTime: 2022-06-29T11:46:00Z
+originalUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
+webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: lawgazette.co.uk
+  domain: lawgazette.co.uk
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
+    width: 1024
+    height: 536
+    isCached: true
+
+related:
+  - title: "Smart Pet Door Uses Facial Recognition to Keep Critters Out"
+    excerpt: "Installing a pet door can make pet ownership less of a chore by eliminating the need to constantly have to let them outside for bathroom breaks and then back in again after, and the Petvation wants to make sure it’s only your dog or cat (or naked mole rat,"
+    publishedDateTime: 2022-06-27T23:10:00Z
+    webUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959"
+    ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/a2c3710f56698b6fc0b31da2db224794.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Privacy, your face and the rise of facial recognition"
+    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
+    publishedDateTime: 2022-06-27T01:22:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Russia uses its facial recognition system to show reporters who’s the boss"
+    excerpt: "A report by the pro-free press International Press Institute indicates that the government is following journalists critical of the Kremlin in Moscow."
+    publishedDateTime: 2022-06-24T21:37:00Z
+    webUrl: "https://www.biometricupdate.com/202206/russia-uses-its-facial-recognition-system-to-show-reporters-whos-the-boss"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11132055/surveillance-cctv-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
+
+secured: "NFOq5I0v/QWapaSeAVxDpke1x8yZQplBSi0ip5rhdnqT2FP3BH7tfpDRQEjJcxLzcsA5Ie8je3lkbEpg7XNG6PS52vJjCzJlWguorM3nn5+ICAONgf/ak8BZT+K7bn+lyFsBa6eMhFySm7Ntjpu6rK0TEx/lm4UcTHXx7o6GeBS1n7Tz4c9DP0UVOUIk2Nv5Ee46XZr3YxN9jhZyk8wfXvGlY/8gnInViawQP3X1hleOBA7gFsgI9jaIBiGsPkHjVZjdLEbpN6fOwIQXLhpbYPgwPcKBq4I8AaGygNvt9HvHEC/ZIKmxHVVN7LgaxhwtpFmOSvszPspcn7GNWaKb/EyLgGrviOg62PZCQCYmSDQ=;AQkNbeHu29FZiN0whoPClw=="
+---
+

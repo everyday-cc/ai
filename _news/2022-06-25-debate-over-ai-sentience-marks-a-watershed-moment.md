@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fsentient.jpeg&signature=3a19e7aa65818472b054905e82d18749"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Suspended Google engineer claims ‘sentient’ AI bot has hired a lawyer"
-    excerpt: "The Google engineer who was placed on administrative leave after claiming that one of the company’s artificial intelligence bots was “sentient” says that the AI bot known as"
-    publishedDateTime: 2022-06-24T17:32:00Z
-    webUrl: "https://nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/"
-    ampWebUrl: "https://nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/24/suspended-google-engineer-claims-sentient-ai-bot-has-hired-a-lawyer/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/blake-lemoine-google-engineer-ai-bot-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
     excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."

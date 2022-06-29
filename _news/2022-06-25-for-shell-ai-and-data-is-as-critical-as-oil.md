@@ -60,34 +60,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Meta is building better AI-driven audio for the virtual reality"
-    excerpt: "When it comes to virtual reality, creating immersive worlds is more than just generating visually perfect environments, the way that sound works can make or break an experience. To tackle the subject of audio,"
-    publishedDateTime: 2022-06-24T17:15:00Z
-    webUrl: "https://siliconangle.com/2022/06/24/meta-building-better-ai-driven-audio-virtual-reality/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/oculus-quest-2.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Meta is building better AI-driven audio for virtual reality"
-    excerpt: "When it comes to virtual reality, creating immersive worlds is more than just generating visually perfect environments, the way that sound works can make or break an experience. To tackle the subject of audio,"
-    publishedDateTime: 2022-06-24T17:15:00Z
-    webUrl: "https://siliconangle.com/2022/06/24/meta-building-better-ai-driven-audio-virtual-reality/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/oculus-quest-2.png"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "UMYbQmNtNyk4qp25kEw1F6Hp1l0Nq+F8zyZJNmWo0y7w3SDfXJUn4WOJeNRFNNbb7HMGAXc3VfFLtAfw7tdMDWMXl9KAU1NwLdnGwefvs/FwoB7FPUbW23Kjbia4uoSAiS3ninO2zfbRCw2fHNnUiZ43bTkgB/whQxbxTaPYGT64ZHe1Os7Cg6Gqcs46n7sJnRoMs+cp4UH2gCjfJYu6+xPiohjfOhF4uS2fZvV62Pis5w0VpxMsS+EDtyO3S4yScmFQqcFY3f/AbCxmTqy1PalgoFMaClKobAbkMfY5EGvH/ClMORvsSgqDaO7psVjEiafuTOx6qREguYu42azexvDWy3T0sYSamM+dJ0SSbJv2g1lWyb0+V3QuW2fkAnH1OWxBxzRLnENd3ASflvNjCP/9paNlpJfPO0S1y1srVtWrfz1dUIDku78HyicO4RBQp5P3YfmcAF7QL+E3gizNxLID7rHqFZVifDOpvona4CxAxS5BXnWnFgixMxA4tvG3wy6WP647RTUkxBmKGQZ+HA==;wULwFPd6X3iDw33Gxhx3Bw=="
 ---

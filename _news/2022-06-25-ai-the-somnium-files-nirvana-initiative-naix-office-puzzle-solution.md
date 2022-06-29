@@ -58,6 +58,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI: The Somnium Files – nirvanA Initiative review"
+    excerpt: "The other half of Jin won't show up until six years later, having seemingly died just a few hours earlier. That's the baffling setup for AI: The Somnium Files – nirvanA Initiative, an out-there anime visual novel, but with a compelling murder mystery at ..."
+    publishedDateTime: 2022-06-29T11:45:00Z
+    webUrl: "https://www.pcgamer.com/ai-the-somnium-files-nirvana-initiative-review/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/7KpF5hy9rPQM6Vvy2SFPEX-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "+zL1my/bMW64zgkJX34PK4fl0GVIu54tRy/f0Fy1Apx8dQBRDYjylVZcsky2gswEy87pg36/EP22w8tFrEU/8IbYP9NxXtz4M9BO5xvHr9zDby5mMZnapf8K0KsN4L/iE5kll8kphnUdYu7wJ+lXduxdJ+nv8f0zD0rmyEFm9jGgJTajlM7UEkyYdlVvuW/GXYyOWW5EzOVEKEoP03Zpn1JH3HhqMLL2zpMOb0tG0gmWlu3eR7Smw+hEenF3EBz0lhgisjnZwzpe304PZQacRC/2TNLZ2fZ84KesQTcc1zTSg1m6IgOJxAuCqQ8n0xNEvWLo5BaNGbE72KZfFA27HQ6v99ysTRhi3uQFCtgb5WZi6wjwcA4qOA4bsTvFbIVEAZ7/epXYqf7vcpCr8DtHzIE47Dl7kazs02QlpdFObdtO7/xPqZDbSz0xL5+82Tv1mqPDq4vOnq/R1QqM2JEpZOQTCwmpGEwdP9fi/DT/XJciZ5oO7GoxOpYhayYDNycb/7TSJ+NDfnqzCtINqSj6cQ==;lG7brJcB71vzwAKGJq2Y+A=="
 ---

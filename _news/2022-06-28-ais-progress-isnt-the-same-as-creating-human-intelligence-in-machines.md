@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Deep Dive Into Advanced AI and Machine Learning at The Behavox Artificial Intelligence in Compliance and Security Conference"
-    excerpt: "The Behavox AI in Compliance and Security Conference will be held at the company HQ in Montreal. With this exclusive in-person conference, Behavox is relaunching its pre-COVID tradition of inviting customers,"
-    publishedDateTime: 2022-06-29T01:37:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-28-deep-dive-into-advanced-ai-and-machine-learning-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 39
   - title: "BreachLock's Intelligence Report reveals rare industry insights from over 8,000 PenTests"
     excerpt: "An unseen perk of using a SaaS-based delivery model is the collection of data points in an aggregated and anonymized manner from various Penetration Tests that feed into BreachLock's AI (Artificial Intelligence) platform to derive intelligence that is leveraged to create additional value for its clients."
     publishedDateTime: 2022-06-28T15:00:00Z
@@ -63,6 +54,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/6a/76abc69b-370f-5fb4-b64d-3e3109e9a0b9/626806aa3c9fb.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Intelligence in the Modern World: The Opportunities and Barriers of Data in Today’s Investigations"
+    excerpt: "It is easy to fall into traps, thinking that access to data equals insight, or that tools featuring artificial intelligence can generate answers to complex problems as easily as our iPhones can predict what we are trying to type. To derive insight from ..."
+    publishedDateTime: 2022-06-29T11:04:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/06/29/intelligence-in-the-modern-world-the-opportunities-and-barriers-of-data-in-todays-investigations/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 8
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/05/Inbox-GDPR-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "S5GWFT46EXc0FfJ6k8LpzygPRlKKRIpQSXg97xHyTNF0tR9Ff5+DGswQHpXfAkgf19lMFnki0XQfvhniXcrcpHNqlwjnUa2Yy4Tnxo9O5oxpgOLJ3a+NEOBPGpIGv4TeeoHaAjJBX+tu0LGP+VgbP2wyKl1lisCa/Ir1b1Iub8WYkiVygsMvVxdGgB84NRozu9Nfgw+D1pL/BOg61Alyei+KkOxkYSTBwKB7HYGbUy4n/lQyRC4hzQO1I/fn6UEaRBCzqYU/nJGtbx6p2LAI2L61DV+rpovcIQCxoSL6LoDAQfeydnIdDpEDobN0LYiS40xUb/Fm20f8U0HhEUZ2Zu3ppGJ0L/vWGo24WgrSwHY=;2eMCPZWcNVL8wQ71JycVXg=="

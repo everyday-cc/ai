@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
 type: article
 quality: 89
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "New laws urgently needed to control facial recognition"
+    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
+    publishedDateTime: 2022-06-29T11:46:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
+    type: article
+    provider:
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
+    quality: 39
+    images:
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Russia uses its facial recognition system to show reporters who’s the boss"
     excerpt: "A report by the pro-free press International Press Institute indicates that the government is following journalists critical of the Kremlin in Moscow."

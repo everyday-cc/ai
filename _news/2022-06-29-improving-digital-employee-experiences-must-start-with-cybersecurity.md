@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/06/28/improving-digital-employee-experi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/improving-digital-employee-experiences-needs-to-start-with-cybersecurity/amp/"
 type: article
 quality: 72
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Help Solve Cybersecurity’s Predicament"
+    excerpt: "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical."
+    publishedDateTime: 2022-06-29T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62bb116946bce888db123430/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "3 reasons to consider adopting AI cybersecurity tools"
     excerpt: "AI is instrumental in responding to cyberattacks when paired with cybersecurity best practices — and it helps with security decision-making."
     publishedDateTime: 2022-06-25T23:20:00Z
@@ -39,6 +55,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Bharat Bytes: 5G subscriptions; Retailers leverage technology; AI/ML for business resilience; Pharma firms invest in cybersecurity; India spends on AI"
+    excerpt: "India to have 500 million 5G subscriptions by 2027 end. The latest Ericsson Mobility Report—the 22 nd edition of Ericsson’s network traffic insights and forecasts—says in In"
+    publishedDateTime: 2022-06-26T21:30:00Z
+    webUrl: "https://www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.html"
+    ampWebUrl: "https://www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/11/bharat-bytes-100912564-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The following are three reasons why you should consider using AI-based cybersecurity products"
     excerpt: "Threats to cybersecurity are rising at an incredibly rapid rate. Nevertheless, companies’ and their cybersecurity’s hesitancy to integrate artificial intelligence (AI) into processes reliant on humans is inhibiting,"
     publishedDateTime: 2022-06-26T06:23:00Z

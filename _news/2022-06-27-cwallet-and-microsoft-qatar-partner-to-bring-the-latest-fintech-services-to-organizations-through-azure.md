@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "CWallet announces partnership with Microsoft Qatar"
+    excerpt: "FinTech start-up CWallet has partnered with Microsoft Qatar to digitally transform thousands of organizations by equipping"
+    publishedDateTime: 2022-06-29T10:37:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/cwallet-announces-partnership-with-microsoft-qatar/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
   - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
     excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
     publishedDateTime: 2022-06-27T06:47:00Z

@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+    width: 920
+    height: 482
+    isCached: true
 
 related:
   - title: "E-Learning Market to reach USD 645 Billion in market size by 2030, growing at a CAGR of 13%: Straits Research"
@@ -61,6 +68,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "quJOsvE03tU5hBBCg9T5PVbPxj5Nql5NGapq5+Itp7tWOz/VjbOz0DRXrO41Op2BCLpNZBZ2oLs4+AAsiJpwKN8Q5SlfX4cYKYh7cwY/1VvWrZFyeZAN8Zj3tojLfweXE5cvpP/+TGdOomFKHAUUrw5BL9bkZmvAcmeKShJSOWRGmPNQoa6SWbqI+UrTr3tdxf4bIjSh4pY5PBB+AmPpt4YtLLLF3CFTyqk0OasLnAbwI5vDncuxcJYF+RV+YsC64958+ncx+qpcF4+iheSpfFj6d35B9SDQqmBPDbgsLddTpyfUmIYCdPLSxtdmD+Bxf8Mi45n0NtkJ/cMPaEHquRovOv/k7SNYQ2layj7fWYW4dQZ7uZ2j1k2M2UQs4Qa5kXJG/+u8S1BfWF6dNtYIwXWqlaqWks1UDYkHVJn0W62hlke8UT/5DJyRz/ujJqXcAWcfsfrursCjJDNNvvkp80hA0NmLDmuaCjBr9P2HWEeEqTnTR0ACFQdtsVSUL1wF5IWIY1RgPHnoIfhmF4RFHA==;dvTPNk6r6UQQ6+gwNT5qYw=="
+secured: "CuG+Lwoxf28Mhss1OJrfa/ali9brR40fmXuMvePjy9YFX0C4q/o/YcDTvinPmPHCiQQgkcU7BYaR8XiLE1IZpVh1wO+4Z7N4RYFfgMWRoOUUNGmAKmYgeqqYvJKTQ60ARkY/mwPtChznWTyT4C+5+RqdBL9/TedxHbbByTtBDlbprzUrwHXQuoeCeoHVYCa8CThLaXhvmnCtOnpuKRGJMQa4umSwcQd0On/31pChkhzrIfcSzXigJ2VK7x8Bb1++gZkuT3vlQNe7hmBQjckbwk/HRa6oU3zVSzC2mnFM1XQXofmkmfdvIoS+AIDT8AY2b/v5JoGddZR1TrDSSDy0tlSZm0dDCV9C3CXMldzy5xg=;Xx11t8Jmhfn8JFnCOWquYA=="
 ---
 

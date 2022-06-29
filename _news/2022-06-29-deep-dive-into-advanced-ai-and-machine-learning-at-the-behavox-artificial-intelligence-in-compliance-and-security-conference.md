@@ -1,70 +1,74 @@
 ---
 category: news
 title: "Deep Dive Into Advanced AI and Machine Learning at The Behavox Artificial Intelligence in Compliance and Security Conference"
-excerpt: "The Behavox AI in Compliance and Security Conference will be held at the company HQ in Montreal. With this exclusive in-person conference, Behavox is relaunching its pre-COVID tradition of inviting customers,"
-publishedDateTime: 2022-06-29T01:37:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-28-deep-dive-into-advanced-ai-and-machine-learning-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-28-deep-dive-into-advanced-ai-and-machine-learning-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference"
+excerpt: "On July 19th, Behavox will host a conference to share the next generation of artificial intelligence in Compliance and Security with clients, regulators, and industry leaders. The Behavox AI in Compliance and Security Conference will be held at the company ..."
+publishedDateTime: 2022-06-28T23:37:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
+webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - Machine Learning
   - AI in Security
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 related:
-  - title: "AI’s progress isn’t the same as creating human intelligence in machines"
-    excerpt: "The artificial-­intelligence methods build predictive models that grow ... AI developers are also considering how to use these insights in robots that interact with the physical world. And AI is increasingly being applied to biology, chemistry, and ..."
-    publishedDateTime: 2022-06-28T15:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/"
-    ampWebUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
+  - title: "Chinese space company wins in top int'l AI competition"
+    excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth and Environment (MultiEarth 2022) competition during the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)."
+    publishedDateTime: 2022-06-29T03:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/06/Upload_20220609-170819.png?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://mma.prnewswire.com/media/1848074/1.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "A Realistic Framing Of The Progress In Artificial Intelligence"
-    excerpt: "The coverage of AlphaGo, DeepMind’s system that was able to best the performance of professional Go player Lee Sedol, was a game changer. Read more here."
-    publishedDateTime: 2022-06-25T08:21:00Z
-    webUrl: "https://seekingalpha.com/article/4520309-a-realistic-framing-of-the-progress-in-artificial-intelligence"
+  - title: "Top Artificial Intelligence Companies in United States"
+    excerpt: "Tech - Today, the amount of generated data outpaces humans' ability to absorb, interpret, and make smart data-driven decisions. Here, AI comes in to assist us in"
+    publishedDateTime: 2022-06-28T14:57:00Z
+    webUrl: "https://business-review.eu/tech/top-artificial-intelligence-companies-in-united-states-232590"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 43
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 41
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310293181/image_1310293181.jpg?io=getty-c-w750"
-        width: 750
-        height: 563
+      - url: "https://business-review.eu/wp-content/uploads/2019/09/foto-articol-AI-Ovidiu.jpg"
+        width: 1023
+        height: 591
         isCached: true
-  - title: "BreachLock's Intelligence Report reveals rare industry insights from over 8,000 PenTests"
-    excerpt: "An unseen perk of using a SaaS-based delivery model is the collection of data points in an aggregated and anonymized manner from various Penetration Tests that feed into BreachLock's AI (Artificial Intelligence) platform to derive intelligence that is leveraged to create additional value for its clients."
-    publishedDateTime: 2022-06-28T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/breachlocks-intelligence-report-reveals-rare-industry-insights-from-over-8-000-pentests/article_f6013984-f48c-54fe-9d06-f678a436da4b.html"
+  - title: "STAR.VISION AEROSPACE GROUP LIMITED: Chinese space company wins in top int'l AI competition"
+    excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth"
+    publishedDateTime: 2022-06-29T04:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56423817-star-vision-aerospace-group-limited-chinese-space-company-wins-in-top-int-l-ai-competition-008.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 13
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 29
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/6a/76abc69b-370f-5fb4-b64d-3e3109e9a0b9/626806aa3c9fb.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1848088/1.jpg"
+        width: 400
+        height: 300
         isCached: true
 
-secured: "+oH9mEr7qEXfudyqW8tQYUP2i3tlVuk695TWTP5yxWwP1P93+Fe4iY/jQ3sNLUCc/orZHFJKmHFTMMgpuuSgoih9vNa4zW8TcKIBkfvwdhjscD30Wu7rjY0Ji+sQONkycAR4Ie/QjugwWVpOru+6b9vw/y/SeRqveAEfo2ILEHdwkGqfu2oJUmnv5VcZ8NAEriIJAvcHJ79J/PEcxomfEqdLAAON7k23LpkoPncgZD89OQPTm3cKBSOqI4gEOEvNAVvuVrOlIKzF7ZKlL4TzJqKSu8XwT6ptD9udxmiFS6UUKdO/uV27UaXF6DswHSTIqJks54hhnow+QES0UTMmtdU+SOI8poe5g/EuvCss618=;C2XuOgL1Tax7R1n9tItHjQ=="
+secured: "gGwbjQsh0xzq/oZD6+VfzCjimYzZaauHY6mx92cRqgpR2mvkajdvxeVebqABqXCOWlbjovtqHjCTqrHB9s2usWVgM2ILhW6m/KgGZRmTeYrnc0kJrAm05xYbWi0DasOD8KLtVBagsNydFcrICZva2E1iGRwH8Yk7+hYvwNE6NwOe9RkEG3h69PoN8aSyL0iAmsU8kXFBmSOVU9+n4+1AVakncrlW4/n7AUS3SSZl67Mm2HCiGJpY1wEtXFz7Hhe4kQQtedB2f7oxlKoAWitGX97ysbTqtoK8ZP1cdq7cbPOYcjeV8JMqESGcFjS3yKowE4aPghyTk+VgbfUKmJpxDSbIdNAMVpCe7siaWZbcWaY=;vSHdXYq5N3hQEsUBn9HfcA=="
 ---
 
