@@ -37,15 +37,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "What are the ethics of facial recognition technology? UChicago experts discuss"
-    excerpt: "People form instant and powerful impressions of each other based on facial features, and computers are increasingly analyzing facial images for various applications. In an interdisciplinary discussion hosted by Chicago Booth Review,"
-    publishedDateTime: 2022-06-24T12:00:00Z
-    webUrl: "https://news.uchicago.edu/story/what-are-ethics-facial-recognition-technology-uchicago-experts-discuss"
-    type: article
-    provider:
-      name: The University of Chicago Chronicle
-      domain: uchicago.edu
-    quality: 32
 
 secured: "CeVETvyizC18nPBnKpTn7n0/Qa4pLYdu1HaRBYOO/FAJ4RaElJiLEDcvfIaMe0HGMd6OPhD/2YuLWdaFKiEzrIEy42258acII59uOCw1R4Wv86SgBPxjUdt8uP+ljjlwQwrB7G6ao7GZ8rHC1BB5sV9N+7VjbAdym0Nxp9oJVviji6Wcq3o+rQI6h0SZx/ssZPm7a4d/MNY+UOnRYXblwR+VI1NYLm2rc7Gn37tKxuBlO/zepzEfgUun7HfU/GKxWDdMJSLjEX2+FEr24K7G5FTUQLz4C8cwCfYN1Nnwq2oYiDflaVReozhrYh0WAPhCDlEm7gMhmoNJrGCimhCOpXnDEUZA14ln2EJyEip+uEfpfkSe6twID/6XWLuPJ4FwDPN2Ud7C2JIFRqV9bE57yTxIiN5Cy3Fyj0jBE1EJrvFA0kv7e9WsloFA5Iuj+Xbnuvt1CAg9c0z/a3M8N/cOkTz6NpHpVihnkefF5jAiZ99eBL9H6LaWuaB//08kKABgPFeGKf40o1t/B5kiL+qdUg==;4P20P5MryggqUqSvlrD1mQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-25T13:00:00Z
 originalUrl: "https://thenextweb.com/news/stop-debating-whether-ai-is-sentient-trust"
 webUrl: "https://thenextweb.com/news/stop-debating-whether-ai-is-sentient-trust"
 type: article
-quality: 45
+quality: 67
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fsentient.jpeg&signature=3a19e7aa65818472b054905e82d18749"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Debate over AI sentience marks a watershed moment"
@@ -37,22 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all"
         width: 800
         height: 399
-        isCached: true
-  - title: "Google engineer says artificial intelligence program is sentient"
-    excerpt: "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself."
-    publishedDateTime: 2022-06-24T12:09:00Z
-    webUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
-    ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
-    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
-    type: article
-    provider:
-      name: NewsNation
-      domain: newsnationnow.com
-    quality: 59
-    images:
-      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
-        width: 509
-        height: 339
         isCached: true
   - title: "Suspended Google engineer claims ‘sentient’ AI bot has hired a lawyer"
     excerpt: "The Google engineer who was placed on administrative leave after claiming that one of the company’s artificial intelligence bots was “sentient” says that the AI bot known as"
@@ -105,6 +96,6 @@ related:
       domain: techstory.in
     quality: 17
 
-secured: "FgwRdNBbUtWVHZfWO6dKI027yvER+nnrC45nLqXpnVp7UR/6tg2cAgZzJ3drxUKDBNGyXuRHZsGowdlAj1RIwQwfnq+SP2f7fDwV03WmVaY+VI5PqSWiSVCBO9YbRPh3N8pebHgN4HCQhVBs3nCd5Q1oE/QNYMzFIsgfXqzP4TrTDU6lvqOYe5Kt0nnkm+AGphEVwpryRRM7efigTA50MTknruFVEeE6JcJGExG37F3ybV9ySlnd7E8mqYEeeg69H6w2ujnjaS8vZDsKR3pPKl1GGKY5vRoi+A2ppNsDfhXh32qOp+RdqqGCob2QfE9mw0DyHxJ8Gc5WaDsiMrff38/KV8npvwYfB7S65bgXP0U5VDFvKQELclXk+bOQ7DII6Z++obSoK7KOcGFklaTVjn+G5IZvEKmH4EC4E4FQQ58R6vwamkMHJQKG5zxppGgwI1TpgEIKVGSxks/7mpazPCLDxxX6394kqllfPncSGDwYX/IkJLzv0g1VFLAtRPSVRsmbI0WsNhS9uwBydEpt6A==;QzR9vKqJwSvZD8doT9EXbQ=="
+secured: "MEMGXS2PYrUuzWPI+4ckAUnnwjPYU9u1u7Zgr8SReKX3IPpX2pDiKPoQeI5ADXjN8EQBS+UHEsV+37Z5aq4bQkV/rpfMvid3pcX4UCMH5/l1Dq1p4sX3VAa5ZngT2ghEKKLVwwMxi83b3dC9cBLOpylLYkMgu2+exd0apzCmHsFsOFbxDewbSlw/KTrtCZEBQ+b9+hsFXv+z7vgWO6Vv8aWK1lHtp/d7iQofEmbzPoiT7MgNjZzRPC+Vk5aVeC/GgQf+dAWjucMW0b8zB/MDNwXA83x7TFNcr59Qh9YuzmndDBN75phXXiiHcTcdEkQ4AUOsns7+uLUXqUOEQ4RdxXj8TkRLtReUD3CW+Qbn4Wo=;3ympJ1OnIUyuXkEsNyUPWw=="
 ---
 

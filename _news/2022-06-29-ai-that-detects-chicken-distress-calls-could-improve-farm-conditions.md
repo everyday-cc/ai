@@ -27,7 +27,7 @@ related:
   - title: "AI could improve welfare of farmed chickens by listening to their squawks"
     excerpt: "The technology correctly distinguished distress calls from other barn noises with 97% accuracy"
     publishedDateTime: 2022-06-28T22:08:00Z
-    webUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
+    webUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
     type: article

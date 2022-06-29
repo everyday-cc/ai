@@ -2,9 +2,9 @@
 category: news
 title: "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023"
 excerpt: "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023."
-publishedDateTime: 2022-06-08T13:56:00Z
-originalUrl: "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_hk&pgtype=homepage"
-webUrl: "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_hk&pgtype=homepage"
+publishedDateTime: 2022-06-08T14:07:00Z
+originalUrl: "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_int&pgtype=homepage"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_int&pgtype=homepage"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "UMcJLIVfKe7b7zXvoN2xeXPz12fSgKXBnvNh7QDvk61UTf4Lz7ihQJESskOyfnTeW1lOurEqDlptEi/ng91SA0ZowG+/KIaATIM8xUyNAJPldDdfDvZor8wXqQ6wo+kZ32OgxUwoUNSNbvKv/vQ8A1pA/3AzUKhekLlaWctn7jsGFR2403XOYV3V6kfUj/PNK20aj2N/UwJ5urnc4VuFwKJ/yreRMeelsFMf+NytpDFKd1P7R3tFkvwFsI+LJpbbC6OxU2oDqYV7sREtcbFLfPsUjWO2+HeZQMYsaSP/4YrySZcfXM43+ynRrKKUZd0NaNz6QQeY3QlhojSw+l7bJStgyMOEYfMZs07eAE2ZRXU=;v4CPh/mY0odQWGtoQWR3lw=="
+secured: "NpuLjJz2Hi56683JSb7+yxYMIOyRKdvzCxNnrFZd1MH0gkwZ7gFg9Cg/hNi6n/PKRdNW7ZpjKOF4P6CHRZhVyBQSlf6ZDD6p86O4RJ5oJdcgb0ToI7MZnqCZzSHW4AHknfbFyHLn9Er4UXPoBGYy1x5Ln5VgpKXjHFACohyCXEgAp6FlRxgR4CPp5NJBHq5sJVAFKOsc0g8i+r204lyDJxLl6MwqpjUytAFRszcARrBORpsSKsivl/70g8IIMBDRKTmO55gve4lM+jbDgaO0MnV+GCYTHaAVbSZa9HDAvTjELNhutPnhPhFhl090BX8AhtgnfKRkBljHGeBlAKg8FW4/+PcWVPb+WGaUXaCuoq0=;vsEC4oD+hacoz/Wjs6L4HQ=="
 ---
 

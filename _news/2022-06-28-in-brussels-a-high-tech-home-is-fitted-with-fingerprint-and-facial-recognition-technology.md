@@ -38,15 +38,6 @@ related:
       name: Nine News Australia
       domain: 9news.com.au
     quality: 39
-  - title: "What are the ethics of facial recognition technology? UChicago experts discuss"
-    excerpt: "People form instant and powerful impressions of each other based on facial features, and computers are increasingly analyzing facial images for various applications. In an interdisciplinary discussion hosted by Chicago Booth Review,"
-    publishedDateTime: 2022-06-24T12:00:00Z
-    webUrl: "https://news.uchicago.edu/story/what-are-ethics-facial-recognition-technology-uchicago-experts-discuss"
-    type: article
-    provider:
-      name: The University of Chicago Chronicle
-      domain: uchicago.edu
-    quality: 32
 
 secured: "40i17sRKlr+jUU82e1ThSUszUZhl6cE/Ypz53bxHTm6qLumuWAOBnNfiWk8WDDDLmWcuCp0pofXmH0mMmDZKC39tCEQC37ipggx1zAG8tqSgdvmosnFIZ/zJHo5J7Vv3LyqBf5LfIEEx6+tfXqKn4MIrMan9LufST5Xly00QSaBnibxUc4aI5Njd67rLdZfTXGSzkfuOxsWDYZFO6kZ0JZOSobB9nJDU5Isu9KwEwPGWPc3U7CtZkYfSA8LSYLWGQ5i/VHCwYCrPJKwzm0dSiGjmUg+2UmYl6q9JWjQ1VtrU1Foy3vRkSo2jqheVjNtd4lygM+047PzVW0TgB/ap18js74baFnekbQmZWFbaAf6FzgGWfrm7pBpUIq51RK9mcPY06y9dMDXoMA+kQqqhyA6vFbHRX54wqbI2K6Cv4jK8n6DuSYGKov4xc63EX5PC0MFq+n/01sbQ0rQib92bUK0qcsZsjZ+qWDbaRX29fhL6c0lFqAd6TSdFXVXHnDuF4YznXvmSKEn6NKabsfzs+A==;nAA+q8a1bw8DT9DIwXAE2w=="
 ---

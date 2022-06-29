@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/430266"
 webUrl: "https://www.entrepreneur.com/article/430266"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 19
-  - title: "5 Fintech companies looking to hire in Europe right now"
-    excerpt: "Looking for a break in Fintech or to expand on existing experience? These are the companies you should be taking notice of."
-    publishedDateTime: 2022-06-24T12:38:00Z
-    webUrl: "https://www.euronews.com/next/2022/06/24/5-fintech-companies-looking-to-hire-in-europe-right-now"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 4
 
 secured: "QqJOQva+tXdN4ad6uqFzD85gyTg0ALF8wdYwZpSBWio/nxPNOZKXtcq3uXLc3vlYTHLNnzh8nbppt4rZhUmkvueizuUZqi59yb+yzaecJanFKhEeoYl00F2rVTbflE76rYW+ILK7Yiv2or48tPI5PpVsZm80WmybcOssd9Z9yOjR4DlcM0UE+3lsJ8mKJdZwKJFjEuLGyh2D+/YEDQ3QnRhlXAr64iOY91PpqC6jAFftMz0dGT4rU3hkJBGHyVGzY3mlWeSoqGnS+IrWwIsBP10i3hRNUxL8/S+st2hTsmyIIqlRDDw47338oQ5Vb0kuSyDjxj6MAXeTpdA6zt2RAi/Eags0L9m/VFh1KzCGTzvBmGdCM9tJY5L3v533GSPexf62pr2B3H9ZMj6vuaZEbL+ojH/vA2hcAy/NA/wFnEoWA9pe4qpysswda57U7jCT5cJMGgeoYnJ43YsgvkMGiFYvwFG4mDg2Fc/yOm5rv6vif7cNNX3okNmmIO/3tiza5VL3jjKlrVWA4nTAOFGRKA==;gNFDgZ45Ic2SXmFFqcvBrw=="
 ---

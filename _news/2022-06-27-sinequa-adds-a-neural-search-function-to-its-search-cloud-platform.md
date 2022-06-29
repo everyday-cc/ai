@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-27T10:21:00Z
 originalUrl: "https://www.siliconrepublic.com/enterprise/neural-search-sinequa-cloud-deep-learning"
 webUrl: "https://www.siliconrepublic.com/enterprise/neural-search-sinequa-cloud-deep-learning"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/06/AdobeStock_487311449.jpeg"

@@ -7,7 +7,7 @@ originalUrl: "https://thecommonwealth.org/news/chogm-2022-opening-ceremony-speec
 webUrl: "https://thecommonwealth.org/news/chogm-2022-opening-ceremony-speech-prince-wales"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A speech by The Prince of Wales at the CHOGM 2022 Opening Ceremony"
-    excerpt: "Your Majesties, Excellencies, Ladies and Gentlemen, On behalf of The Queen, in this Platinum Jubilee Year, my wife and I are delighted to be with you all here in Rwanda for this 26th Commonwealth Heads of Government Meeting."
-    publishedDateTime: 2022-06-24T11:36:00Z
-    webUrl: "https://thecommonwealth.org/news-press-release/speech-prince-wales-chogm-2022-opening-ceremony"
-    type: article
-    provider:
-      name: The Commonwealth
-      domain: thecommonwealth.org
-    quality: 24
-    images:
-      - url: "https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-06/WhatsApp%20Image%202022-06-24%20at%2011.34.30%20AM%20%281%29.jpg?VersionId=Izw3WZFm0T20oFnOClLyASs58tEh8hHm"
-        width: 1557
-        height: 1037
-        isCached: true
-  - title: "CHOGM 2022 Opening Ceremony Speech by The Prince of Wales"
-    excerpt: "Your Majesties, Excellencies, Ladies and Gentlemen, On behalf of The Queen, in this Platinum Jubilee Year, my wife and I are delighted to be with you all here in Rwanda for this 26th Commonwealth Heads of Government Meeting."
-    publishedDateTime: 2022-06-24T11:46:00Z
-    webUrl: "https://thecommonwealth.org/news-press-release/chogm-2022-opening-ceremony-speech-prince-wales"
-    type: article
-    provider:
-      name: The Commonwealth
-      domain: thecommonwealth.org
-    quality: 24
-    images:
-      - url: "https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-06/WhatsApp%20Image%202022-06-24%20at%2011.34.30%20AM%20%281%29.jpg?VersionId=Izw3WZFm0T20oFnOClLyASs58tEh8hHm"
-        width: 1557
-        height: 1037
-        isCached: true
   - title: "A speech by HRH The Prince of Wales at the CHOGM Opening Ceremony at Kigali Convention Centre, Rwanda"
     excerpt: "Your Majesties, Excellencies, Ladies and Gentlemen, On behalf of The Queen, in this Platinum Jubilee Year, my wife and I are delighted to be with you all here in Rwanda for this 26th Commonwealth Heads of Government Meeting."
     publishedDateTime: 2022-06-24T15:18:00Z

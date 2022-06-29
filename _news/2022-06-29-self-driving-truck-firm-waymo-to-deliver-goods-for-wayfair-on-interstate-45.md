@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars"
-    publishedDateTime: 2022-06-29T02:05:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
+  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "Baidu is China’s highest-profile competitor in a multibillion-dollar race with rival autonomous vehicle developers including Alphabet Inc.‘s Waymo and General Motors Co.‘s Cruise to turn their futuristic tech into a consumer product."
+    publishedDateTime: 2022-06-29T03:58:00Z
+    webUrl: "https://www.bostonglobe.com/2022/06/28/business/chinas-baidu-races-waymo-gm-develop-self-driving-cars/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 74
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 54
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/T6eJkRdh6lwrkDykQEONXmflBCg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/W2FX35URKBSLZUJN34T77YACAI.jpg"
+        width: 506
+        height: 337
         isCached: true
 
 secured: "d0L+BQe1ts9Il8MkrLLJMsEnHJGe9dYtjT9nbU1xgdHZJAYDechRERaNiCmjlBI4Md2pgir6baUHAAyAVpnzQShOcPSWeMT27GniisHfb3QUbvmvmnA/92RlVLD+brQc26spS6wJaSF04j6tDHyzwmTlqC67LS5qk4ohGuji0fpSGpwy5auzmSYcOR7nBURpcKS0KFgRaJIvh582QjNVpWH2fllQ08tEDSy3vvKrpf3HjVjMns7sXh7jMZ2FXnbIz+KlzIeOiYL3zVQKg/znjitQrbUCSmBmxfZaZPLodqjXfW+0I2Ww/+5vVORIAnpUsfQDzSlB95P9AXnej9QguRbqAiekClhbWWcgKUm2QIT+H3HWZtdvv2aSv0m8KGCYAbnwrSG8bHhocepholmjL1phTN9NHba2t4jmjBJM+9NlWPAtB1954ZbDbzlRUnR4jlwQF/5Tr6qap0ycwgG1TqCmcOnVbSEh/eBI2v671igRj2DTG3wox/bBJHewXF4IVzn5mtACK2kn9p3TOPXUEA==;Jp/73d8ie7/wa/k6R8bSow=="

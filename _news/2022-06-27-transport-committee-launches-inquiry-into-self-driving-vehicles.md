@@ -52,18 +52,18 @@ related:
         height: 540
         isCached: true
   - title: "MPs launch investigation into self-driving vehicles"
-    excerpt: "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads."
-    publishedDateTime: 2022-06-27T15:24:00Z
-    webUrl: "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html"
+    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
+    publishedDateTime: 2022-06-27T10:53:00Z
+    webUrl: "https://www.expressandstar.com/news/uk-news/2022/06/27/mps-launch-investigation-into-self-driving-vehicles/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Express & Star
+      domain: expressandstar.com
     quality: 24
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/xmFJ8qFOOJuoEVSvYgxM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/eYgDLUjJxGQwzBfZwFWgUg--~B/aD0xOTY2O3c9MzQ5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_press_association_news_966/698166f5dea6b0b933d2a70fc8ec91c6"
+      - url: "https://www.expressandstar.com/resizer/VAjoinj5e7OLV3rbttwZFGQO5V0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/K67PTIFSCNB35HH2NECGQB7CJM.jpg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
   - title: "Process of allowing self-driving cars on UK roads has begun"
     excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars"
-publishedDateTime: 2022-06-29T02:05:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-webUrl: "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
+title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "Baidu is China’s highest-profile competitor in a multibillion-dollar race with rival autonomous vehicle developers including Alphabet Inc.‘s Waymo and General Motors Co.‘s Cruise to turn their futuristic tech into a consumer product."
+publishedDateTime: 2022-06-29T03:58:00Z
+originalUrl: "https://www.bostonglobe.com/2022/06/28/business/chinas-baidu-races-waymo-gm-develop-self-driving-cars/"
+webUrl: "https://www.bostonglobe.com/2022/06/28/business/chinas-baidu-races-waymo-gm-develop-self-driving-cars/"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 54
+heat: 64
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/T6eJkRdh6lwrkDykQEONXmflBCg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/W2FX35URKBSLZUJN34T77YACAI.jpg"
+    width: 506
+    height: 337
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: dallasnews.com
     quality: 32
 
-secured: "DyZfdT5yZi1KmjVGkr3xVfTW/sJZzgHnNZOHWMOjlxoceLitdHyE9N2o68X8j/LhoeH1uDX/zFuqPWJAmxS9C/gExCKODbhE/8BP98qhRNj+Vkm4IvqKWAGaXCz5puEnaXFIDkM41sxNIXOAkkbqTKU+8PBp2AmGh7Vn3twkg0XejAJaQmXZ84AT53KhWFwQwwjQK8nEvj3EyzYS+TbNKEvXtjjTxD6AnmLAHaSJnE39yspn+YOST7BF2tdQ0GVEVoYeW87xEcBYHEPhTKrMZowICCvNwAW7vdtaXlOYMihJQx7GlZ8ArIfuBisMNZ+MrILxwUuqLDvdLZaEFRYFQPr99/XwKbfjqJdgJg0EQwg=;XOGMvOkGTc5fuOWwkznD6w=="
+secured: "i50r667/jGtYj/3L3e01u84odD3QO9+ZCpP6rDWK5KWV4ylvkfZw2Fy/h5KFGa6IGsVnRKJDiZaSomPOCLeyVXX8EmZ5ESiodPzoTMqcNaev2Zv4dkk2ynlNSMpzUNLsLwesC17W9ne42YqggV/r57mpNogagIjgSsr0+gScMzgDI8C8t2KEl8RNWHRlGzbbgDDb60U9/K5GUEKclg1RWYNWvG9zBW4y4pM8udR26x8zD8U8FJl+m4VGzOCxH0Z/eUKUvLsncPUmZ8X/CUVZYlKyejRUcxG/YkP/1a0bLvUvluNVJDPDHGY/OZqztL8/0D1ImbzjBek8QzFGxmKKz72Iq0ebc6wuXzaFbsJuB6s=;mbgCr987ufLt33E8PijtPA=="
 ---
 

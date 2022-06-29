@@ -40,6 +40,34 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Deep Dive Into Advanced AI and Machine Learning at The Behavox Artificial Intelligence in Compliance and Security Conference"
+    excerpt: "On July 19th, Behavox will host a conference to share the next generation of artificial intelligence in Compliance and Security with clients, regulators, and industry leaders. The Behavox AI in Compliance and Security Conference will be held at the company ..."
+    publishedDateTime: 2022-06-28T23:37:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 59
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "STAR.VISION AEROSPACE GROUP LIMITED: Chinese space company wins in top int'l AI competition"
+    excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth"
+    publishedDateTime: 2022-06-29T04:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56423817-star-vision-aerospace-group-limited-chinese-space-company-wins-in-top-int-l-ai-competition-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1848088/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "aBakoIdhAuqvvO831hiUN9BaPwwxdlt/zrLYYJIkklmxEK+7XAxE5Xk+/TD0MyfpYCBdYvFXCFhUicbndbalLtWTZ11Gcl5g+6shqJgnHjW7n1ozJeOBmRag1tVraeii6TiLYSx6EvHFK8gPWZIK8ecqk0O7Yly9Z7Ee0Glf+n/t+0DxIQCJs5Oei6sjRjT5oxML26FWmy9wFX0kn9mWPD4BFqVsPp1BwxNSdUodOU0IRHYjpzSxtAIJRzaAmt/rzveRS94ef8dCwA2tenHse4AqHkkuMIdpSxqK1lfhrPWgurDDwRIGT/qOXreMSKWhDrZEROamYneUZ24BorfwUI6Stjngum0jtgvdidI7x/V9303HqDMsTciPSenABMU4ja0Ji837T9rN7TcZTz1t/36NcuBpS6oYGdza5/xin4jFS6HKJtDQdnDgNgFDjmFRuiH5RVHU+ddavK8Czt6PPIhWKU6qqHqdNJmSz/9OerwAEH+fDgdeAIebHOUYYYye3DaCZo8wg+TOMmroaLRq8g==;T6zJCNNN/qO0FgFeLfMi/w=="
 ---

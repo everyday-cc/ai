@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
-publishedDateTime: 2022-06-24T14:22:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
+excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
+publishedDateTime: 2022-06-24T13:31:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
+    isCached: true
 
 related:
   - title: "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028"
@@ -28,6 +34,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Media Market Forecast Report 2022-2029 with Market Share Analysis of Leading Players"
+    excerpt: "The market size estimation also considered leading players revenues as part of triangulation the key players considered are Microsoft ... Services among others operating in the Cognitive Media ..."
+    publishedDateTime: 2022-06-24T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-forecast-report-2022-2029-with-market-share-analysis-of-leading-players-2022-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -52,6 +72,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "3SRbcSgff5KvxGez4fBEZSL1P/GtAhYgF4o3zf+WVJZGolaTq7zmquB+31FnezvoIpggVHwfuKA4XX6SkcaFMxuMPQSD1GqJzpa0LRiM55bjXRtTgq99u/LjGGGj9UFKb3W5glyX3o7R3tF80ez1p+TZUBrAxmYQ+Jom00X1I4qOUpWN+inGN4bpP9EtNDDF3mihN4UFvAMv2UcxgFYzt7C6EWpG5xStKhbefT0AuidKFBl1yjaLFP6hEA5dL3LLseOI8dx6QUP25TjE9oBUiI2XI4zSvqQe38EQNBRZtRZqeROrqkkVbNrkNCsSLE0PoXGwkQHGiplnzpbaX+s2w96V6DvSEeFFpxlhNol5hMQ=;Mh2iAk3QrzOJYFeoBKJJ9g=="
+secured: "HFGzeYchljpjJjGojltclb0tN+7/seWtItKMKfwxLwI13nWrQCqgN7aiQnjKRJRaWjGejOcBgsiuOpGM0JZAZzh1ETUfPkqRSJow/VuiyAgRNMNL9g+Goj0nUJ6A2Uwk0Ww4I/Y7JeZZlJKYD417v8N8jjVqV+19RZr+aBjyU5v2WT9upIGAMkTDgf8JIqP+D1DWP1ugywfC8V9ShBMRK4RXQT0jyWTqSQCwRZEHfaznOwBV1wUo09KhGLKYTeMPhThLOr2jlsh2wzirtaZ29TqLrUUaMIAoawoNbuBFDrbDe6/oUk6As1wJM2T+bZRU4RBplLs466QziDXHyXo3dstiThl4fkWqfhwdyqZbUn0=;IZEhvJCNjmjjATl4AkJtKQ=="
 ---
 

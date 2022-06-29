@@ -1,22 +1,24 @@
 ---
 category: news
-title: "AI pioneers honored with Spain’s Princess of Asturias Award"
-excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind’s AphaFold protein database, a joint-project with the European Bioinformatics Institute ..."
-publishedDateTime: 2022-06-15T12:07:00Z
-originalUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
-webUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/"
-ampWebUrl: "https://wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
-cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/ai-pioneers-honored-with-spains-princess-of-asturias-award/amp/"
+title: "AI Pioneers Honored With Spain’s Princess of Asturias Award"
+excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
+publishedDateTime: 2022-06-15T12:05:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
+webUrl: "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award"
 type: article
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
-secured: "ilbxBaAqTqGPBQUHDt4kqRJw5fla5chm2Z71D7Hi040+WaGCJr8FZqplZZto/TUKNw9OkzZ5IwiKPyxCmt3/kq+rNx1s/KA2fj+gWKhVqyIsbhLnCTGeR7m5qzEPWBi/y2qPyaSdGMvTjYWln+DP3L1jvys9XpbweiVEJDP6GzC2I0+C+Sm8aJt8lQ86Ni82nzVok6k1UAkro0NGjRWd7J9idjBAAKhWSvoHVWVRlzlAKsyWtnWSaU+1ETaLiNSJDHyxmZ+iLgsMyETiCJyDhZbBggQSj5ICjnMDbEknTu8VF9GgfeSfWl2JlgFru/Bob6ZkDCX3EAJSJ7Hm9bIMTumzPRRvrPvKrRx7YMfICu0=;vR5l2XGkdhAZS0rODoywng=="
+secured: "s/qISQopKhB/JEzmkC9JE9q4n0+Eh2qedGlkJml8NqmfCyh9GJvpwHVrulAZ6k3NodZWxyV72J+fM7Av+OQHb8skjMws+SCSwv81QCglOqVVCHZFtW/BacLl1Jg6WHNMHMH5Wxb8WZ0cTXCSi/WPNIiJbgUpCVvJguelVAn1bi7OzeccyiZc531i49tvke7svl6B4icoFkbNasZIZzXdeA3Dpokndw3ZOUvlxTaIg8CjZmyWKktaxK9Mvibf/dpYY2+5aZtIe1ln84+GXQRsO7N/1PjDwLKcOxerfKxF+pABtLJuGEXmzF7B9nK+hsfVGhtR6L2ydwzf/8/WAHCAUCJXBWpjfzKzjdyGUtaK55k=;Q5yjGoEqmBUu0Y0DoHE2LQ=="
 ---
 

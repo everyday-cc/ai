@@ -1,27 +1,27 @@
 ---
 category: news
 title: "MPs launch investigation into self-driving vehicles"
-excerpt: "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads."
-publishedDateTime: 2022-06-27T15:24:00Z
-originalUrl: "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html"
-webUrl: "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html"
+excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
+publishedDateTime: 2022-06-27T10:53:00Z
+originalUrl: "https://www.expressandstar.com/news/uk-news/2022/06/27/mps-launch-investigation-into-self-driving-vehicles/"
+webUrl: "https://www.expressandstar.com/news/uk-news/2022/06/27/mps-launch-investigation-into-self-driving-vehicles/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Express & Star
+  domain: expressandstar.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/xmFJ8qFOOJuoEVSvYgxM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/eYgDLUjJxGQwzBfZwFWgUg--~B/aD0xOTY2O3c9MzQ5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_press_association_news_966/698166f5dea6b0b933d2a70fc8ec91c6"
+  - url: "https://www.expressandstar.com/resizer/VAjoinj5e7OLV3rbttwZFGQO5V0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/K67PTIFSCNB35HH2NECGQB7CJM.jpg"
     width: 1200
-    height: 675
+    height: 900
     isCached: true
 
 related:
@@ -99,6 +99,6 @@ related:
       domain: express.co.uk
     quality: 0
 
-secured: "8OTnSiarpd0D7NbXmWexviOOwg4EpMNVLd6cJ5GDRbSaQT3LXi4C7zNEyB3PYqgTgZ3xIXuGI+WpCGKU2wCwYGbe5r/0iYKsVPSPlOSTnnGLq9ybCR901gThhm7UEwYF8NCn+mINpPJdSu2I6GUL/ut2YYYOalcFYPmui64s8AvzcWJnzbqnX04f/sdeUU6+nHVeQmfyYQXhGJWOybkjdXISFav49QZGmxVKTBQ+HGKiDMd1plY7z/IpjiXpjc1kojwMLY+T9haggmN6ZFOuySfln/uU8KMGTJQW7Uk2Syodgzvqs4SAKFUb3wcCyTkbe7I4HeIYsrMwZgMSocAqtungCav3YOEr5mZRoOQ3eKDeTFDCUOIEwlWit7dszDV3A2mQrR474AnTeWZk3n4DVdnxX0gUDBnBjoEj65uCAqxb8VJ45bj0BHxVygK9KXSFOEg5nzd3BX4FUCVtUK4kw2uH7IP/mRZLoaMMgVQFfnm6T69ZG1tMGi75ueo/cuDkelAO6ZAw4CBZgu5w3EsR2w==;CMgh4xeNJaPVS4jII+c9Bw=="
+secured: "qOFkcwAMisOKBsM6wvDNgbmpDAviL0iC5ZN+ENBRNuW42khvKfA9Q7mjBjl2IJqqYw2I2lrV8LND18lT8wb/kcjSiVvROZ841+M05P4F8AXcyXX9QwnsTuLCmzR4FWw6qfUITTCC7bZw/4FzuoHu7za3WlX5qZT8TPZ+BlnYjaFQvsGBT+6L7gI+BL7t2m85UfTUQu66syPmvuF/tT/0b5Eglz5QuVQpOTJbQ4ZtIbSG+nidb7PXxJ5y/NXnzBQe+QmQdPtKO0LYcQWOpE8p6ikLPE3f90hqe7/QZd9xUgASAnPs1Xp82mdrE99Nx+3stunfg1ZqJwKeTK+d2gOz7548wPaSkOjA8pFu/T2Ia4w=;Q0/2oAGNi9hFP+uF5G5mjA=="
 ---
 

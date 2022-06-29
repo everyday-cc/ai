@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Writing Assistants: Are They Worth Using In 2022?"
-    excerpt: "AI assistants can assist copywriters by providing writing prompts, offering suggestions, identifying trends and checking for plagiarism."
-    publishedDateTime: 2022-06-24T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/amp/"
+  - title: "Creating the world’s first AI assisted voice bank in Spain"
+    excerpt: "Established in 2012, Spanish player EVO Banco is a pioneering financial force disrupting the industry with a wholly digital banking model. But don’t mistake ‘digital’ as ‘faceless’ – EVO Banco takes a highly personal approach when dealing with ..."
+    publishedDateTime: 2022-06-27T11:01:00Z
+    webUrl: "https://www.worldfinance.com/banking/creating-the-worlds-first-ai-assisted-voice-bank-in-spain"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: World Finance
+      domain: worldfinance.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//615382e277b406d68cb8398a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 882
-        isCached: true
-  - title: "Battle of AI-coding assistants: GitHub Copilot vs Amazon CodeWhisperer"
-    excerpt: "Amazon claims that developers can speed up the development process with CodeWhisperer by simply writing a comment in their IDE's code editor."
-    publishedDateTime: 2022-06-28T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/battle-of-ai-coding-assistants-github-copilot-vs-amazon-codewhisperer/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/git-hub-copilot-vs-code-whisperer.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.worldfinance.com/wp-content/uploads/2022/06/E051_rt-600x450.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "Utnmkl227UkxO4kqoJjc7DlJot+lhJ2pd9/i1pdPxEh32jO17AyiR7iCkteAgizV7rRJnyeK305sLO17yype3vGXinVFGdkpDjdAao1oHyFjC5ODLqJVEn5IaBmFcNIZFjVU+RuHf5V+wwBHoJTnY+JwDA6Qn3SQiZWBteLmIeDTvthybAlirXw/5La2sX60ikuxt/W8xXzCDTys6jhupOEvqcwHCJ5UTSascI1GocCDE/roPAcrWfGWmSuYEiTY1VRHgbnqnGzrKhEmVrS9Sia7N5mkLIBIU0sAQxQuFXLC2/cmYhGSK+b7Id7rE4aemwYyEXSuUf0ZCmLWBKccNpW5B9tpb+pnZFkvH98OfG8=;oO67f5ixg0iViFfAiVINqQ=="

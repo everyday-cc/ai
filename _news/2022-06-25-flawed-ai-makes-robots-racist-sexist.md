@@ -41,15 +41,6 @@ related:
         width: 2000
         height: 1718
         isCached: true
-  - title: "Flawed AI Makes Robots Racist, Sexist"
-    excerpt: "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases."
-    publishedDateTime: 2022-06-24T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/flawed-ai-makes-robots-racist-sexist"
-    type: article
-    provider:
-      name: Georgia Tech News Center
-      domain: gatech.edu
-    quality: 34
   - title: "Does AI make robots racist? - study"
     excerpt: "A new study found that a robot operating with a widely used, internet-based artificial intelligence system consistently prefers men over women, white people over people of color, and jumps to ..."
     publishedDateTime: 2022-06-25T11:38:00Z

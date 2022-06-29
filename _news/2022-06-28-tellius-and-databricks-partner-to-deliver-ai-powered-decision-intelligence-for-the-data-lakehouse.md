@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Tellius and Databricks Partner to Deliver AI-powered Decision Intelligence for the Data Lakehouse"
-excerpt: "New integration will allow joint customers to search and generate AI-powered insights directly on the Databricks Lakehouse Platform, powered by Delta Lake"
-publishedDateTime: 2022-06-28T16:14:00Z
-originalUrl: "https://www.01net.it/tellius-and-databricks-partner-to-deliver-ai-powered-decision-intelligence-for-the-data-lakehouse/"
-webUrl: "https://www.01net.it/tellius-and-databricks-partner-to-deliver-ai-powered-decision-intelligence-for-the-data-lakehouse/"
-ampWebUrl: "https://www.01net.it/tellius-and-databricks-partner-to-deliver-ai-powered-decision-intelligence-for-the-data-lakehouse/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tellius-and-databricks-partner-to-deliver-ai-powered-decision-intelligence-for-the-data-lakehouse/amp/"
+excerpt: "Tellius, the AI-driven decision intelligence platform, today announced a partnership with Databricks to give joint customers the ability to run Tellius natural language search queries and automated insights directly on the Databricks Lakehouse Platform,"
+publishedDateTime: 2022-06-28T15:48:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-bed3a3dffb0f463b817e86df42effe7a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-bed3a3dffb0f463b817e86df42effe7a"
 type: article
-quality: 46
-heat: 46
+quality: 26
+heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -78,20 +76,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Army awards $72M for prototypes for next-generation intelligence ground station"
-    excerpt: "The Army has awarded two companies $36 million each to develop a prototype for its next-generation ground system to collect and disseminate sensor data to decision-makers and weapons platforms. In a Tuesday announcement,"
-    publishedDateTime: 2022-06-28T16:22:00Z
-    webUrl: "https://www.fedscoop.com/army-awards-72m-for-prototypes-for-next-generation-intelligence-ground-station/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 18
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/06/TITAN.jpeg?w=1000&h=500&crop=1"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Databricks Unveils New Innovations for its Industry Leading Data Lakehouse Platform"
     excerpt: "Data Governance Highlighted as a Top Priority with Advanced Capability for Unity Catalog Unity Catalog, generally available on AWS and Azure in the coming weeks ... of assets such as data tables, files, machine learning models, notebooks and analytics ..."
     publishedDateTime: 2022-06-28T15:52:00Z
@@ -116,6 +100,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "D3gNFl/iXU9hIJ7n4qtsNp5TKnfSWnUraE/rjNbmCJoQjGmK4f4HV76jg9ZZLAT4EVyZ3G2t0Udb9C1kJzy3lujIHlIs6xVdd1bWPkYPyeVtoYIccCfKVTpZeiVazpAF+oCWt4wgDHl+FP6YbmLIJC2xVverftldyA+g+lezT8TINENu1PJ0xMXAgF9qKNvr1KegnGRy+YH3iigK7tKYPdhg8bZwcYSj5++IDJTfdbpqI61iyTa2dPovC3P1t0qL9YjjdmsHyrAbBpCGg+qQz81lle5UjJkizPnGcHKPkV9Txn0Z+5YwzrM7kfNbTIghgreYQLLtl6J1z8iwZ8J+gc6cAdkiMp0MpKH2L6+EhaM=;AJND1Wr0VzCXufci26WU5g=="
+secured: "lNSc86Bkz5GbUclMW4WKBUl6cG3BRzM7RBKEBWYB1iGDnx0C9kyj0M6k3zU9VuPkkcXA8OKEPljWac9GPmlSSUNz21Skf3mUicMcSfEfK2Qnvr/QLEHPyo6BJa8XgzQxDRrtX1kxapUhEcZK/NsNrYkEq7r4QzPGGD+x0h/n0//SrHhTncLTwJz0QPbYf/47KRdzDuL7ViB9+IC7Zpi0IHM1MaUSWywUaowwP0fzyAci5fAVvVRG4+6bpPXULa/sNvpcwb0niAxWqVSjo61BbwD9D9BJGjSVmrDKa41r6tDVJ7NbcEhnRV2QnCsBbi+sYXE00s1hn26+x9drLpAexrm/hVb13OPaFoSMZjLBWjQ=;h0i8lgHpP6Gbh0+XQB1C+g=="
 ---
 

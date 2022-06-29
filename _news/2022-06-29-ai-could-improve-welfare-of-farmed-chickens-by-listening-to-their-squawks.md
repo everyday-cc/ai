@@ -3,8 +3,8 @@ category: news
 title: "AI could improve welfare of farmed chickens by listening to their squawks"
 excerpt: "The technology correctly distinguished distress calls from other barn noises with 97% accuracy"
 publishedDateTime: 2022-06-28T22:08:00Z
-originalUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
-webUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
+originalUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks?amp;amp;amp"
+webUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/FG7ABYrVU2OlSOatQAiylqzTrureVJW4VxVrRIhbEmB+yUBINCSSWHY/NKbmzUAnND2ZKNeolP6fn99kWtRvFBG0tx5tNmuhUf1G3LNM+K8K0XxZIbUZx6hyefQL7x7p2xf1WeuKctbGVnY0gn//8ZbOjL2Fo6df/32dzDsyJQPWr2d2hvmXdn1jyOcOT6/NfxFa35GqS/VfgViEfXbj/IEwQ1iD0SL7EVqvbZZ0Eatd1+/yA5jAybQlF+1kMlgjhXjhQuMnR3M+tJI4wQMjTGXkL3d2cKF1JnY65+59pppmKDLi91wJsGd/QvgMPCzeT/b1RBzKQtwefL4LaU/fNB23ajdLyhUIIU4OqOzYn9TVefpu+dVwY+Sn7akxHi/VKbk25fsqnY/+P1ERfH2oxvG3ch2oRr63ZDnDIfvDrDSndc3OID8cZzUDHnAvi3AzRDxZ1s0bZkq/a0latFF2duJWedQtYh9OrTLjUXuMprUdvdH3Dxhba8kNMkDd6X8GN31qNWmpTuQA82le/K+dg==;ApR+DI/qoEit9HYnSXmZ7A=="
+secured: "Zr91PR2deYtOC7tTjp6hfamwrPq6dDA9SFrcx2nfNrWHiEI7x8uxKAG+NlnkKacAOEsxwcmNQc2kI8UerQZqTBZd8ZJwmlIHuzOWbxZoW9kyYZuTDK1HLM25efPMUA/5XX2kiaLlk33pvaugomWFMB+enoIW9bZHWgi6NPKOSZCw80mFHMCuFbXMibEAjgc2XOdgE0FOp+aH9tACBYQlg9xpjIDfpBpYxoojPNjVKkbmy1v7yPKm3SwwZsiTB+DRm/k6TvWr11eZ6vV/SVRLW8oPdqCjlvPY4KiUB/r3nbmgRuaDtZJCUjrYJn+5FxnHVu6KTwunzrDjS/lNk76QMi888N2zYeDsQ3wdyQSHLAc=;YGeHMkxWjGm8ZzMTUx4w3A=="
 ---
 

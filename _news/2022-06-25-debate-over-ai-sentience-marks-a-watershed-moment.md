@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -32,21 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google engineer says artificial intelligence program is sentient"
-    excerpt: "NewsNation’s Brian Entin spoke with a Google AI researcher Blake Lemoine who was suspended after claiming a computer chatbot, called LaMDA, learned to think for itself."
-    publishedDateTime: 2022-06-24T12:09:00Z
-    webUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/"
-    ampWebUrl: "https://www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
-    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/banfield/google-engineer-says-artificial-intelligence-program-is-sentient/amp/"
+  - title: "Stop debating whether AI is ‘sentient’ — the question is if we can trust it"
+    excerpt: "A more practical question is, how “compatible” are current neural networks with the human mind, and how far can we trust them?"
+    publishedDateTime: 2022-06-25T13:00:00Z
+    webUrl: "https://thenextweb.com/news/stop-debating-whether-ai-is-sentient-trust"
     type: article
     provider:
-      name: NewsNation
-      domain: newsnationnow.com
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
-        width: 509
-        height: 339
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fsentient.jpeg&signature=3a19e7aa65818472b054905e82d18749"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Suspended Google engineer claims ‘sentient’ AI bot has hired a lawyer"
     excerpt: "The Google engineer who was placed on administrative leave after claiming that one of the company’s artificial intelligence bots was “sentient” says that the AI bot known as"
@@ -64,15 +62,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Stop debating whether AI is ‘sentient’ — the question is if we can trust it"
-    excerpt: "A more practical question is, how “compatible” are current neural networks with the human mind, and how far can we trust them?"
-    publishedDateTime: 2022-06-25T13:00:00Z
-    webUrl: "https://thenextweb.com/news/stop-debating-whether-ai-is-sentient-trust"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 45
   - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
     excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
     publishedDateTime: 2022-06-26T22:20:00Z

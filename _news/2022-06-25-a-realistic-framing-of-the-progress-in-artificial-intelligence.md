@@ -43,17 +43,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "AI and the ghost in the machine: Losing human jobs is the least of our worries"
-    excerpt: "A Google engineer claims he's found sentience in an artificial intelligence program. Even if he's wrong, it points to a future of risks and promises, writes columnist Jon Talton."
-    publishedDateTime: 2022-06-24T13:01:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-and-the-ghost-in-the-machine-losing-human-jobs-is-the-least-of-our-worries/"
-    ampWebUrl: "https://www.seattletimes.com/business/ai-and-the-ghost-in-the-machine-losing-human-jobs-is-the-least-of-our-worries/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-and-the-ghost-in-the-machine-losing-human-jobs-is-the-least-of-our-worries/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "BreachLock's Intelligence Report reveals rare industry insights from over 8,000 PenTests"
     excerpt: "An unseen perk of using a SaaS-based delivery model is the collection of data points in an aggregated and anonymized manner from various Penetration Tests that feed into BreachLock's AI (Artificial Intelligence) platform to derive intelligence that is leveraged to create additional value for its clients."
     publishedDateTime: 2022-06-28T15:00:00Z
