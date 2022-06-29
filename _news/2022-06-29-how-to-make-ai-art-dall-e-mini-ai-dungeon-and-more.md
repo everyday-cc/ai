@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://b2c-contenthub.com/wp-content/uploads/2022/06/craiyon_2022-6-21_9-42-40.png?w=981"
@@ -63,6 +64,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3mVKu3OWt3IODAQfp29MYF6Jkk703wp+/K6p6Lj0FKuSgXR+rHp9FJGgKYxmQQ47m4SG47hFN8SyS8X1t+E5D4SykbBAMkEjm3wY4QZcpC5YnOAXSwEM8TVei9t/z8tNNDN2BA7sCzyljdP1dRTRYWmaamfrFRCfdEXw27GODRQpiGU7BzG9VXCCD0+BAZ5VDJmanAZtw9SnSP/F9k6QwODZ7nBGrYwYmE5H62OSnUny2IlmbwlBXcHyqi0baDKH9nYLvQp7LNgzJc+7A1GYiZrKV2tGr/A61X9PTfgL9ii5I19oD40VeLSoNYFG4rZplbvyqG3yiKzlA9ehn3O750dyXa8lcioib/cavildsKs=;bK4ApDQAZH5x2t+4G4aeJw=="
+secured: "wlekxX9WoFERwdhrlTiRv6WSNd9sej/hU/19tZ50w6bAk8s/iMni7ss83jcmWweBdFHWzDKYdXs/O8FOvGpYlcPyGVGF1FaBphKtJFkUKkcE1a7PInFY+aJkcuZUJPFhYQVMyZ6o9SGK9HQ2/sfwL34hGbWjzIwsdA7sibAKj10hWiodgJVPxmxupthUMk3j00K5EWpjxU/CffRr61UTh1hj9u/RuzCnXZK93ClbHnZ3v9UvpRWaTaVl/tinkK5tMvmpfap+kbEHz9/jzn1CZ0Xys5GOgCZWgqQHEB4aAFHREPESl0UVvKe6+wOu9iH4aRc8w/yAOHPAt5SLdgK9+Jvguj4UCrmyezQNZ1kVowdqeLDUipWS9mA7nGOYkeBHCDJ1vNjb/mU867wWM7zmo9YTmzc1vQd/quOFw9VVDbdyyRXOGXJ8mjkSOqjQ/d+70InhtCLp7bygsG26cxmgtrSHpLy9EYUFJ58EZRJgU9xzcS1XYUWKYc9xMek5Zkd/KGJmpwswQYnuOIIcSk6O4Q==;qXwZJnW/C3uNrxkbcaUITA=="
 ---
 

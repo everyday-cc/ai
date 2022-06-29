@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Be the first to know"
-excerpt: "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ..."
-publishedDateTime: 2022-06-15T12:42:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
-webUrl: "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html"
+excerpt: "A Spanish foundation has recognized four scientists for their pioneering work in artificial intelligence. The four were named recipients on Wednesday of the 2022 Princess of Asturias Award for Technic"
+publishedDateTime: 2022-06-15T12:00:00Z
+originalUrl: "https://greensboro.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_2eaf621f-0e4e-51dc-bb1a-4e82063d191d.html"
+webUrl: "https://greensboro.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_2eaf621f-0e4e-51dc-bb1a-4e82063d191d.html"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: News & Record
+  domain: greensboro.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "Z+Ozc2zvenTExqAZmAAELgJnyylOYCxfppP8Z1capAzIFRdJunt7JJkkSFmWHQQwQ+AvhPiJIspE55o6PShqtqiDiRoRu1Oz1Ri+na/l5Uo06Ea/+Z72Vfo/0irPcPszhYtPO32Ty/8RCBiyv3xvw4VjEgQ2pgz/urO9H/f1Y0xagsvHZu5UxRSHLtNm3ikQ+tYgKtCxRxWGZT4afjkqj1WlzoKOeUeU/sGXzNjlTV6sQ5iX528Ca8pJxzMEomJv8Sf7V0eTfl9z6sJKZwqc3PuAXrBPO8NaKrQiPntlui7Ftx0JbN1G7DwKujS9wkZsXw0dWswFWijq/lcMvRrmbwHkJAtDTPGj0tyvWuiAUTE=;UHpIS1M9EleDkMqDU2DvNg=="
+secured: "Rio7FwdjyRPnXiLnUuakxuXO5YOvylNA+uI/wPc9YlAmap8SujY68miImf0AW2/ps5pEmXCkueA2KpykWD1/z2lXUddmbVUzY4CL5KogcTbVLqAIZINKcsr6b3ehIrUSkJduRiaZ5fECv6WXwYlE4rWqKoGOVmTbeMuZswhHc+iO2Rd7AhMfPjbZVov2nKkUrbXMX/GUI6WoxF3TBC+xnf/wUowg+hKG+SV3kwzavMwWUhzO7tJWAPV7jkw37m6NX8Oa+9DUolDKqLqfDFuzJjfqR4vxRtSuRlVgImFMKxH7nJIA2mLwUe8PiH+FGd1K8pEyIro+ElyAhfqjqxYobPCjy7lM4URpENx7RXyrKGr9q/HNyj/5yGcg2THnSgCMKVp0gemZFimvHA9q76xlAxI38FFPMa2SBwoGpVbbi4z85HJFqTWMFBlDBVDnLhu/aZgzYxvR+PCO5Kn2bnCbWdAyl+5MJC6nY1BuOyVuqq2nzWvlcAzQaQS6TZAbV7gtxOi15TEGpnJikdlOS8z0MA==;R7Slqwm+71e8mmrG4qud4A=="
 ---
 
