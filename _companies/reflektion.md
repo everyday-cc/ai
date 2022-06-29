@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ReflektionInc"
   url: "https://twitter.com/ReflektionInc"
-  followers: 1440
+  followers: 1441
 
 locations:
   - San Mateo, CA
