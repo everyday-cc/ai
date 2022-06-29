@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-27-amazon-just-say-no-the-looming-horror-of-ai-voice-replication.md",
+      "title": "Amazon, just say no: The looming horror of AI voice replication",
+      "excerpt": "If an AI like Alexa really can convert less than a minute of recorded voice into real-time speech, it opens the door to dystopian gaslighting at a whole new level. It's frightening, creepy, and disturbing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "originalUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c88a1fe04f375fb5f453e199411c0f747b9bc8ce/2022/06/27/3d36094a-0ee2-4e13-92b8-74e1cd38fa8c/gettyimages-543194887-cloud-faces.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "publishedDateTime": "2022-06-27T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work.md",
       "title": "India to get facial recognition tech at airports: Understanding how it will work",
       "excerpt": "Starting from 31 August, the facial recognition technology under the Centre's DigiYatra scheme will facilitate passengers to proceed at airports without the need for physical boarding pass or identity cards.",
@@ -1050,7 +1104,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1135,58 +1189,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services.md",
-      "title": "Analyze and tag assets stored in Veeva Vault PromoMats using Amazon AppFlow and Amazon AI Services",
-      "excerpt": "In a previous post, we talked about analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services and the Veeva Vault Platform’s APIs. In this post, we explore how to use Amazon AppFlow, a fully managed integration service that enables you to securely transfer data from software",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/analyze-and-tag-assets-veeva.jpg",
-          "width": 1248,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T10:56:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-23-russias-yandex-opens-public-access-to-ai-large-language-model.md",
+      "title": "Russia's Yandex Opens Public Access to AI Large Language Model",
+      "excerpt": "Russian technology company Yandex said on Thursday it had made a large language model for artificial intelligence research open to the public, hoping to spawn faster and deeper development of certain AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
+      "publishedDateTime": "2022-06-23T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-amazon-robots-will-join-its-warehouse-workforce.md",
+      "title": "Amazon Robots Will Join Its Warehouse Workforce",
+      "excerpt": "While Amazon's Astro started hauling drinks from room to room in some homes this year, two new working robots will start hauling and sorting boxes at the company's warehouses in 2023. O, Amazon gave a first look at Proteus and Cardinal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/",
+      "originalUrl": "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c58b82d01bac03ecddd20850eaf2bc8d99d26ca3/2022/06/22/c974b7b0-bbfe-4bcf-8ada-b6bbcd7d7e67/gettyimages-1241014040-amazon-building.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/",
+      "publishedDateTime": "2022-06-23T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-octoml-launches-new-machine-learning-platform-expansion.md",
       "title": "OctoML launches new machine learning platform expansion",
       "excerpt": "Today OctoML, provider of a machine learning acceleration platform, released a major platform expansion in order to accelerate the development of AI-powered applications by eliminating bottlenecks ...",
@@ -555,6 +649,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-23-develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry.md",
+      "title": "Develop regulations to guide all actors in artificial intelligence industry",
+      "excerpt": "Recently, Google employee Blake Lemoine made headlines when he claimed that the Artificial Intelligence ... in case of an accident involving a self-driving car which uses components and software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/opinion/article/2001448682/develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry",
+      "originalUrl": "https://www.standardmedia.co.ke/opinion/article/2001448682/develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/uQ6YkBPcVsizubEzC0VCPtMs56VG4IJTJDkHWYSq.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-american-airlines-testing-face-scanning-at-dfw-airport.md",
       "title": "American Airlines testing face-scanning at DFW Airport",
       "excerpt": "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app.",
@@ -927,6 +1064,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-23-dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub.md",
+      "title": "Dubai Police In Collaboration With Continental Organises A Dialogue Session On Artificial Intelligence Driving Hub",
+      "excerpt": "Dubai Police in Collaboration with Continental Organises a Dialogue Session on Artificial Intelligence Driving Hub • Tyre manufacturer to collaborate on initiatives to improve drivers' skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
+      "originalUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/22/DPN_37bc1image_story.jpg",
+          "width": 580,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars.md",
       "title": "Airbus Cybersecurity, Artificial Intelligence, and setting foot on Mars",
       "excerpt": "How can aviation become more sustainable? When will the first human be set foot on Mars? Cyber security and artificial intelligence at Airbus",
@@ -966,188 +1146,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-robots-become-racist-and-sexist-when-programmed-with-common-ai-system-researchers-claim.md",
-      "title": "Robots become racist and sexist when programmed with common AI system, researchers claim",
-      "excerpt": "A ROBOT programmed with a popular artificial intelligence system turned racist and sexist, according to researchers. The robot was found to prefer men to women and white people over people of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
-      "originalUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/06/me-off-plat-racist-robot.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-22T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable.md",
-      "title": "AMD Xilinx Makes Machine Vision AI Development Quick, Easy And Affordable",
-      "excerpt": "A host of software tools, code samples, an app store, and pre-configured Linux images make getting started surprisingly simple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b37f46922813ea4349c831/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/amp/",
-      "publishedDateTime": "2022-06-22T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-uncovering-links-between-grit-and-cognitive-function.md",
-      "title": "Uncovering links between grit and cognitive function",
-      "excerpt": "A new analysis of the personality trait of grit found that people who showed higher levels of grit also had different patterns of cognitive performance—but not necessarily enhanced cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/uncovering-links-betwe.jpg",
-          "width": 2880,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.amp",
-      "publishedDateTime": "2022-06-22T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-nvidias-ai-powered-3d-moma-tool-turns-2d-photos-into-3d-mesh-models.md",
-      "title": "NVIDIA's AI-Powered 3D MoMa Tool Turns 2D Photos Into 3D Mesh Models",
-      "excerpt": "Turning still 2D photos into 3D rendered mesh models is not a quick or particularly easy task, but perhaps not for long.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
-      "originalUrl": "https://hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58911/content/NVIDIA_3D_MoMa_Hero.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
-      "publishedDateTime": "2022-06-22T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

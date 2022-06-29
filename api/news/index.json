@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-29-chinese-space-company-wins-in-top-intl-ai-competition.md",
+      "title": "Chinese space company wins in top int'l AI competition",
+      "excerpt": "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth and Environment (MultiEarth 2022) competition during the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022).",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1848074/1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "publishedDateTime": "2022-06-28T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-improving-digital-employee-experiences-must-start-with-cybersecurity.md",
       "title": "Improving digital employee experiences must start with cybersecurity",
       "excerpt": "Ivanti's State of the Digital Employee Experience (DEX) study published this week provides insights into how enterprises move beyond trading off usability for cybersecurity and what's most important to new,",
@@ -61,7 +155,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -243,7 +337,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -562,48 +656,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ai-no-longer-fringe-tech-for-indian-companies-bain-company-report.md",
-      "title": "AI no longer fringe tech for Indian companies: Bain & Company report",
-      "excerpt": "India is also a global source of talent in data and AI skills; it produces 16 per cent of the world's AI talent pool, said the report",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html",
-      "publishedDateTime": "2022-06-28T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1152,60 +1204,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-amazon-just-say-no-the-looming-horror-of-ai-voice-replication.md",
-      "title": "Amazon, just say no: The looming horror of AI voice replication",
-      "excerpt": "If an AI like Alexa really can convert less than a minute of recorded voice into real-time speech, it opens the door to dystopian gaslighting at a whole new level. It's frightening, creepy, and disturbing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "originalUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c88a1fe04f375fb5f453e199411c0f747b9bc8ce/2022/06/27/3d36094a-0ee2-4e13-92b8-74e1cd38fa8c/gettyimages-543194887-cloud-faces.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "publishedDateTime": "2022-06-27T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

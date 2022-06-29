@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Deep Dive Into Advanced AI and Machine Learning at The Behavox Artificial Intelligence in Compliance and Security Conference"
-    excerpt: "The Behavox AI in Compliance and Security Conference will be held at the company HQ in Montreal. With this exclusive in-person conference, Behavox is relaunching its pre-COVID tradition of inviting customers,"
-    publishedDateTime: 2022-06-29T01:37:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-28-deep-dive-into-advanced-ai-and-machine-learning-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 39
   - title: "AI and the ghost in the machine: Losing human jobs is the least of our worries"
     excerpt: "A Google engineer claims he's found sentience in an artificial intelligence program. Even if he's wrong, it points to a future of risks and promises, writes columnist Jon Talton."
     publishedDateTime: 2022-06-24T13:01:00Z

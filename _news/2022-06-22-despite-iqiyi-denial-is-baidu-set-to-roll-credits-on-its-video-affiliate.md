@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Despite iQIYI Denial, Is Baidu Set To Roll Credits On Its Video Affiliate?"
-excerpt: "A Reuters report says search engine giant Baidu is considering selling the recently profitable iQIYI platform with a target price of $7 billion. iQIYI denied the report. Read more here."
-publishedDateTime: 2022-06-22T14:20:00Z
-originalUrl: "https://seekingalpha.com/article/4519690-despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate"
-webUrl: "https://seekingalpha.com/article/4519690-despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate"
+title: "Despite iQiyi Denial, Is Baidu Set to Roll Credits on Its Video Affiliate?"
+excerpt: "But it could make sense for Baidu to divest from video streaming to sharpen its focus on cloud services, AI and self-driving products Online streaming service iQiyi swiftly denied the report as ..."
+publishedDateTime: 2022-06-22T14:41:00Z
+originalUrl: "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate"
+webUrl: "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate"
+ampWebUrl: "https://www.benzinga.com/amp/content/27813279"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27813279"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458699003/image_458699003.jpg?io=getty-c-w750"
-    width: 750
-    height: 500
+  - url: "https://cdn.benzinga.com/files/iqiyi.jpg?width=1200&height=800&fit=crop"
+    width: 900
+    height: 600
     isCached: true
 
-secured: "9wqV1+aeHy/jb5DE6D2aAx7MSNpXofc6B1XAfAMB+PVDhP2TnQnIXPoWg02/+oW5yIH7/TDdrcnA1QmCgkhyygovjLf11bcuvwcXUNerFuhwgSy2Ht38+gYXCTV08aUVtivYLO5SqRm3hvCkyNF9eFjKGcKpuVx+km7ZAVIMwTrkUMyOrXTg9aXEwTHzmgbhp3eQ6p7aDbIFN9URktvNBJ42nMBpBb/ZWWO+TC1nMZAPX9tP0nnmrT11uy73MqK2nc22/jywsRV7+bqSwZU1GkfnopEJYvL6S1qh7GFQHpNbSwHN41nx8eukKAmOE7i++8ygob+lqRVpBDpGKYwvXO60okCrVYuSOFeLQCzatJU07bCkQnrH0rSY3eWWFGYpd/S48nuRs2/PYo/GwTDvRnZVqE8NdwJvjT7VDey1m2BLlcJArVVH+ZCS1ky6jITG50NZ0t+Z1QSE9Jf3GFsG/RaYihb/TXr3sdgEwKK7OySaTZO06wf+Lf8YZO41G9tu4DVA/5DnzFjZsp9m3Xzg8w==;rX7NP1ShAgDVl5UfFU/nXA=="
+secured: "pDyhQNWowiVPO0I4+QVdGkiEks7jv9icMTFBdv0JCz1kuXQ6aGHQ3WbImDwL8IAgeVedM8x+ILr1MWpfqZB5yeDTAv7lLUkmXb4UnYqEEoQsml3cdjcMdOJvjVhnKReLk4ySbf1OZP7EB5lZ7eZywJA2rpLUMR18PgHoozG8FZ2gb6dsC7gY9jgc+5r5AJDCxafxUXj4R9t/tBLrt7dzKX1h2tmmrdeoGnzQCVjpO9GnELeYFQKyNg8j4gmhbSomXJGravE2YXcsqtwUr52pbLj4K1v6uN2Tn8G7C9Rij0h04Kg2uWgM6RuAvhMajYUyYlwfgvRo79G4tcby4GqnG39J993phox9G+Y2IoQa+0U=;ubeLAG+oqXVqsjKRZSkxPA=="
 ---
 

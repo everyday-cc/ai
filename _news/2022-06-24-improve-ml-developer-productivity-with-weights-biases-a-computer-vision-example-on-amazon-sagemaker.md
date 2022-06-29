@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer
 webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/"
 type: article
 quality: 107
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       - url: "https://res.infoq.com/news/2022/06/amazon-sagemaker-jumpstart/en/headerimage/amazon-released-incremental-training-feature-in-SageMaker-JumpStart-header-image-1656331499762.jpg"
         width: 1200
         height: 629
-        isCached: true
-  - title: "Amazon SageMaker Ground Truth now supports synthetic data generation"
-    excerpt: "SageMaker Ground Truth can generate hundreds of thousands of automatically labelled synthetic images on your behalf."
-    publishedDateTime: 2022-06-24T10:39:00Z
-    webUrl: "https://analyticsindiamag.com/amazon-sagemaker-ground-truth-now-supports-synthetic-data-generation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-4-2.jpg"
-        width: 2240
-        height: 1260
         isCached: true
 
 secured: "U+nRqtTWwqJK3R7ApJuGGOSNBTCjMGk8tB2D8NVTU9p4sZkSovDlUHLqU0Gnt+w09G5PuSVDB+pF0xVM8ymZ29INv4PEyRPPLbX08c28YGU6MCl2cMKT9vfgKfkdQfFwX4kRUmY/GthxwGkcbtm+8VcG9y+YU4K6WrKPOBnGf6NiKPbSQe9QSCeJZx2EY7qNaMhwUBhU3hBuFwnhCGgt4Rh/vZoZqUcu6VMCk7L1mAL7R+M51P20fBBhoawiyBSTj6q2BYscvu2IDcmqlvHbSNN/FhFA60ZIR8voBgP5VxhMdyq0ILeFhRt9UYwjd6v26fEDfgH0Nu7hSig/GsEXaw69VJVGzGknuVWGonxe0Ec=;d8EJBorEUBgC3hWE/r1Kgg=="

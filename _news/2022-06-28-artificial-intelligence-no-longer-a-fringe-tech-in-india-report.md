@@ -42,20 +42,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Top Artificial Intelligence Companies in United States"
-    excerpt: "Tech - Today, the amount of generated data outpaces humans' ability to absorb, interpret, and make smart data-driven decisions. Here, AI comes in to assist us in"
-    publishedDateTime: 2022-06-28T14:57:00Z
-    webUrl: "https://business-review.eu/tech/top-artificial-intelligence-companies-in-united-states-232590"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 41
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2019/09/foto-articol-AI-Ovidiu.jpg"
-        width: 1023
-        height: 591
-        isCached: true
 
 secured: "H6DlfYqO3dT0cbMdmpj1dgvfvLr4j414JxfdQ5nVl9kSkdFwyvCCd57lgTCdpLKbKPz2CgKTiLRYOALJ0bZQX0wys9d5BPt+ZfdlvwxtU96Sw1EfbVxx829dAhkhz/x2cxriEzYo3vSbb5ApejRqmmWnEis9SwtyeUSWXgK8Jtu8R+moEztuDl07fAE/S219bWzr//2bEqNvl+M5VJtXxovUOYmdx54eYJggXstFwN47/aqLbQZnAUuMYIfKSBq5KvtCLFF3ET9kGciYq6WrybSJoQCmuGf/eEYoCCwnqtJjsRWQejJQT3vHrm6ILirP5Adj8b95OPfLv3U/NXo2zCjSkjc2vmUoYjEeaLtTJJlQDIBei9ToGZeQ/RPpuNpD2HcdI0DN+g3StjzJ5IJXPADnFeDPg+5ZiZsMBzWAcORlk6xU2LKPTbjEvadMPZPvLn6a2keBlJ2qGS3ZShcbf0pCmMqpgEQ4Eez6xDlEGLuOta93R88HdxzufdzZrPpmyGCJSCeKg8OFI94JqBlOoQ==;PW4g72FWy7+NNbxv3tijcg=="
 ---

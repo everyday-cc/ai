@@ -103,10 +103,10 @@
     {
       "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
       "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ...",
+      "excerpt": "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and hybrid ... by Match Insights with Watson and those of other ...",
       "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/06/21/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/06/21/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -125,11 +125,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T02:30:00-07:00",
+      "publishedDateTime": "2022-06-20T22:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology.md",
+      "title": "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY",
+      "excerpt": "To learn more about IBM Watson Advertising solutions and services ... About IBM IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220620NY93276/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220620NY93276/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1321,49 +1364,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend.md",
-      "title": "Too Much AI May Not Be Good for Your Health or the NHS; Google and IBM exits map trend",
-      "excerpt": "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/05/12/1600x900/Google_Health_1621427558893_1652340789454.JPG",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
-      "publishedDateTime": "2022-05-12T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

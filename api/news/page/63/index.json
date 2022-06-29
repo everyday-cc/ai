@@ -2,21 +2,21 @@
   "page": 63,
   "value": [
     {
-      "path": "_news/2022-04-19-using-ai-to-help-san-antonio-radiologists-reduce-x-ray-reading-errors.md",
-      "title": "Using AI to help San Antonio radiologists reduce X-ray reading errors",
-      "excerpt": "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,",
+      "path": "_news/2022-05-11-intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus.md",
+      "title": "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs",
+      "excerpt": "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI",
       "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php",
-      "originalUrl": "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php",
+      "webUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
+      "originalUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg",
+          "width": 709,
+          "height": 428,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,107 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T02:01:00-07:00",
+      "ampWebUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "publishedDateTime": "2022-05-10T12:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-ibm-ceo-says-ais-transformation-of-business-will-take-another-decade.md",
-      "title": "IBM CEO Says AI’s Transformation of Business Will Take Another Decade",
-      "excerpt": "We have got to understand the life science of AI. Otherwise we are going to create a monster,” says IBM Chief Executive Arvind Krisha.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601",
-      "originalUrl": "https://www.wsj.com/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-526711/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601",
-      "publishedDateTime": "2022-04-19T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes.md",
-      "title": "Microsoft Azure UAE Regions launches four new key services to accelerate digital transformation programmes",
-      "excerpt": "and Azure Machine Learning in our Azure UAE Regions . Governance, multi-cloud, open communications, and Artificial Intelligence are vital components of the post-COVID rush in digitisation and we are pleased to provide our regional customers with four ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes-d1mvrciz",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes-d1mvrciz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:N2NhNWExODAtYmJhMi00:Y2UwYzYx/necipozyucel-director-azurebusinessgrouplead-microsoftuae-jpg.jpg",
-          "width": 683,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -135,68 +41,26 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2022-04-19-quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022.md",
-      "title": "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022",
-      "excerpt": "Customers can automate common content-tagging and enhancement tasks such as object recognition within video frames, speech-to-text transcription, video and audio super-resolution, and other tools ...",
+      "path": "_news/2022-05-11-certn-nabs-50m-to-accelerate-background-checks-with-ai.md",
+      "title": "Certn nabs $50M to accelerate background checks with AI",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
       "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_ecf6c7b5-417f-5347-937f-7fa51934f2b8.html",
-      "originalUrl": "https://www.victoriaadvocate.com/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_ecf6c7b5-417f-5347-937f-7fa51934f2b8.html",
+      "webUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/e/60/e606b659-a940-5f38-be30-04aa8f639840/625ea81644068.image.jpg?crop=909%2C477%2C0%2C66&resize=909%2C477&order=crop%2Cresize",
-          "width": 909,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-global-automated-guided-vehicle-market-to-reach-27-billion-by-2026.md",
-      "title": "Global Automated Guided Vehicle Market to Reach $2.7 Billion by 2026",
-      "excerpt": "Automated Guided Vehicles or Automatic Guided Vehicles (AGVs) are computer controlled, wheel-based and driverless vehicles ... embedded artificial intelligence that helps learn and take autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/global-automated-guided-vehicle-market-to-reach-2-7-billion-by-2026/article_751ae8db-79ca-55e5-9929-020e13656bf5.html",
-      "originalUrl": "https://www.victoriaadvocate.com/global-automated-guided-vehicle-market-to-reach-2-7-billion-by-2026/article_751ae8db-79ca-55e5-9929-020e13656bf5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/1/e6/1e691430-2508-509c-bc8a-51d855c1f2f8/625d6b6decec1.image.jpg?crop=1536%2C806%2C0%2C109&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 599,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -204,241 +68,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay.md",
-      "title": "China’s work automation startup Laiye raises $160M, acquires France’s Mindsay",
-      "excerpt": "An ambitious Chinese startup wants a slice of the flourishing global work automation market. Laiye, a Beijing-based company that provides a one-stop platform for automating office tasks of varying degrees of complexity,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/",
-      "originalUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/laiye-2.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/amp/",
-      "publishedDateTime": "2022-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
-      "title": "Facial recognition on smartphones: Is it secure and should you use it?",
-      "excerpt": "Facial recognition on personal use devices like smartphones and laptops has become increasingly common. The concept seems downright futuristic on the surface — most of us used a PIN, password ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "originalUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2018/10/huawei-mate-20-pro-review-aa-notch-3d-face-unlock-earpiece-11.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-k-health-review-is-it-legit.md",
-      "title": "K Health Review: Is It Legit?",
-      "excerpt": "K Health is a health service that uses artificial intelligence (AI ... or you could sign up for their therapy services. K Therapy is a monthly subscription that offers 24/7 access to self-guided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/khealth-reviews",
-      "originalUrl": "https://www.healthline.com/health/khealth-reviews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/03/telehealth-1200x628-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report.md",
-      "title": "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report",
-      "excerpt": "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine.",
-      "sourceUrl": null,
-      "webUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
-      "originalUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox2now.com/wp-content/uploads/sites/14/2022/04/UkraineTanksAP22091745245082.jpg?w=1280",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/",
-      "cdnAmpWebUrl": "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/",
-      "publishedDateTime": "2022-04-18T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis.md",
-      "title": "Instreamatic launches voice AI for real-time customer sentiment analysis",
-      "excerpt": "Using Instreamatic's voice AI, Speaky analyzes in real time the ideas, advice and suggestions that customers communicate verbally.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
-      "originalUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1283399887-e1650300137284.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
-      "publishedDateTime": "2022-04-18T15:50:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "publishedDateTime": "2022-05-10T12:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -465,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-19-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
-      "title": "SAS data ethics head named to National AI Advisory Committee'",
-      "excerpt": "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ...",
+      "path": "_news/2022-05-11-sofi-stock-falls-after-fintech-firm-accidentally-releases-first-quarter-report-early.md",
+      "title": "SoFi stock falls after fintech firm accidentally releases first-quarter report early",
+      "excerpt": "Shares of SoFi fell sharply on Tuesday and were halted for nearly three hours after the company accidentally released its first-quarter results early. The company said the report was released early due to human error.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee",
-      "originalUrl": "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee",
+      "webUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "originalUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2022-04/18/PN_75f4df88-3_Image_In_Body.jpg",
-          "width": 320,
-          "height": 400,
+          "url": "https://image.cnbcfm.com/api/v1/image/107018575-1645558180917-gettyimages-1372185735-0j5a7034_07649f06-aee4-4713-b71b-eb5bcd0da8bb.jpeg?v=1645558270",
+          "width": 2803,
+          "height": 1936,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -487,14 +119,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T15:38:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "publishedDateTime": "2022-05-10T11:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -503,66 +144,24 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-research-using-ai-to-better-predict-severe-weather.md",
-      "title": "Research using AI to better predict severe weather",
-      "excerpt": "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
-      "originalUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/010/7fed36643eb2467f9bc52626aec24432/010967a4141a4b1880e8e6a6959c23e6/poster_390848a290ff4c9b8ddee470a61ee48c.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
-      "cdnAmpWebUrl": "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
-      "publishedDateTime": "2022-04-18T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KJRH",
-        "domain": "kjrh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-04-19-gsa-looks-into-facial-recognition-bias-and-improving-accessibility-in-federal-web-services.md",
-      "title": "GSA looks into facial recognition bias and improving accessibility in federal web services",
-      "excerpt": "The U.S. General Services Administration, which procures and investigates tech for things like government websites and online services, is making a two-pronged push for accessibility in its recently released Equity Action Plan.",
+      "path": "_news/2022-05-11-slai-makes-intelligent-choices-around-machine-learning-setups-for-developers.md",
+      "title": "Slai makes intelligent choices around machine learning setups for developers",
+      "excerpt": "Slai is building a developer-first platform for machine learning. It equips developers with the tools to quickly ship machine-learning applications.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/",
-      "originalUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/",
+      "webUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-186872728.jpg?w=1024",
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/slai-founders.jpg?w=1024",
           "width": 1024,
           "height": 682,
           "title": null,
@@ -572,9 +171,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/",
-      "publishedDateTime": "2022-04-18T14:23:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -589,388 +188,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-the-success-of-ai-lies-in-the-infrastructure.md",
-      "title": "The success of AI lies in the infrastructure",
-      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Artificial intelligence (AI) is bringing many changes to the enterprise, none of which is more vital to its success than infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/AI_infrastructure.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/",
-      "publishedDateTime": "2022-04-18T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
-      "title": "SAS data ethics head named to National AI Advisory Committee",
-      "excerpt": "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg",
-          "width": 320,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-elon-musk-there-will-likely-be-a-humanoid-robot-in-every-home-by-2050.md",
-      "title": "Elon Musk: There will likely be a humanoid robot in every home by 2050",
-      "excerpt": "Tesla CEO Elon Musk thinks that the company will have an interesting prototype sometime this year and something interesting within at least two years.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/robots-musk-in-homes",
-      "originalUrl": "https://interestingengineering.com/robots-musk-in-homes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lJ5z0OD/sizes/tesla-bot_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/robots-musk-in-homes",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/robots-musk-in-homes",
-      "publishedDateTime": "2022-04-18T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-how-speech-recognition-technology-can-help-providers-achieve-the-quadruple-aim.md",
-      "title": "How Speech Recognition Technology Can Help Providers Achieve the Quadruple Aim",
-      "excerpt": "As healthcare organizations seek to achieve the Quadruple Aim framework, they can rely on speech recognition tools to improve clinicians’ experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
-      "originalUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/nurse%20with%20patient.jpg?itok=zutJSDjG",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp",
-      "publishedDateTime": "2022-04-18T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars.md",
-      "title": "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars",
-      "excerpt": "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621d3f718d137bada9d5d84a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-04-18T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-using-an-ai-startup-logistical-problems-may-be-alleviated.md",
-      "title": "Using an AI startup, logistical problems may be alleviated",
-      "excerpt": "Since the start of the Covid-19 outbreak ... There are no easy remedies to the global supply chain issue, of course. AI-powered company Optimal Dynamics secured $33 million in series B funding last week headed by the Westly Group, which is helping ...",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/using-an-ai-startup-logistical-problems-may-be-alleviated/",
-      "originalUrl": "https://bestgamingpro.com/using-an-ai-startup-logistical-problems-may-be-alleviated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/04/AI-startup-helps-tackle-logistics-nightmares.png",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-ai-startup-helps-tackle-logistics-nightmares.md",
-      "title": "AI startup helps tackle logistics nightmares",
-      "excerpt": "Optimal Dynamics, an AI-powered startup, is helping trucking companies solve their particular logistical nightmares by automating and optimizing their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/",
-      "originalUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/bigstock-Richmond-County-Ga-Usa-427143116.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/",
-      "publishedDateTime": "2022-04-18T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-neural-network-model-helps-predict-site-specific-impacts-of-earthquakes.md",
-      "title": "Neural network model helps predict site-specific impacts of earthquakes",
-      "excerpt": "In disaster mitigation planning for future large earthquakes, seismic ground motion predictions are a crucial part of early warning systems and seismic hazard mapping. The way the ground moves depends on how the soil layers amplify the seismic waves (described as a mathematical site \"amplification factor\").",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html",
-      "originalUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/neural-network-model-h.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp",
-      "publishedDateTime": "2022-04-18T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -982,189 +199,7 @@
         "Machine Learning",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-04-18-us-and-india-launch-talks-about-military-ai.md",
-      "title": "US and India launch talks about military AI",
-      "excerpt": "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-15-ideas-to-build-brand-recognition-in-a-crowded-marketplace.md",
-      "title": "15 ideas to build brand recognition in a crowded marketplace",
-      "excerpt": "When you are just starting out in the market, it may be hard to achieve immediate recognition as the newest player on the field or compete for clients in a crowded space. To pique consumer interest in an oversaturated space,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90740025/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace",
-      "originalUrl": "https://www.fastcompany.com/90740025/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu.md",
-      "title": "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu",
-      "excerpt": "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-the-future-of-the-web-is-marketing-copy-generated-by-algorithms.md",
-      "title": "The Future of the Web Is Marketing Copy Generated by Algorithms",
-      "excerpt": "Facebook decides which posts we see in ... have adapted a text-generation technology known as GPT-3, from the artificial-intelligence company OpenAI, to feed one of the internet’s oldest urges ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-generated-marketing-content/",
-      "originalUrl": "https://www.wired.com/story/ai-generated-marketing-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6259e2f90f68d976e2565a70/master/pass/Keyboards-AI-Generated-Writing-Buisness-1344332721.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-generated-marketing-content/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-generated-marketing-content/amp",
-      "publishedDateTime": "2022-04-18T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
     }
   ],
-  "nextPage": 64
+  "nextPage": null
 }

@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023"
-excerpt: "Baidu-backed EV firm WM applies to list in Hong Kong ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023. The number of intelligent cars in China is expected to ..."
-publishedDateTime: 2022-06-08T13:45:00Z
-originalUrl: "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=live&pgtype=homepage"
-webUrl: "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=live&pgtype=homepage"
-ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit"
-cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit"
+excerpt: "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023."
+publishedDateTime: 2022-06-08T13:56:00Z
+originalUrl: "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_hk&pgtype=homepage"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_hk&pgtype=homepage"
 type: article
 
 provider:
@@ -27,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "AnxaE2f6swSyBzl3YAqiE9M+GMsUMgh++Xz1Qh1Ytc2RLVdFGRffrG0udQZBSy7k0ZtNi9/sta7A7CP38ID6WgSFJj4XUMRu0C84XhXBL3mK+962YL7/k0xPqrqWLvhLwx+Xhuk/GkzP5b8bTZuHpR1o8daTEQL6e/qYcU3vx7Y5q5JXr/I+8WUfe0RsrXoo5rOpQKxMdypMrX5DjbNzv/bggt5W6ytKrVF1WLCq0ByeTWxRxYUjQLCOAW/pIWsKOMILEVr8YXOdPebv2M75pfwMWtELu1dlf4c1QjNWTe70ST7G71iNTRvi2EBozUuEjJC4vaiPop3JBg3G/gI9jmnuDEEhmPkQ/rvEJmtXOh52CQN92bAOdiTtr5rf0uLb+2aE7tEgaJA6nwggYdkGBDfiAk/YJAh5kKIzADi1NNDK6q7bw3LomtTmm0gSNSvkt5CnTEA9UwqAMxnrWPqrGi4PpKHET6KKyqfCDKY2QzKxUni/DFnp5s6ZEbfkM1zGg4eknrijwsw0+kVTaZratQ==;3ct4RM03D7CXu5TIDHZKiw=="
+secured: "UMcJLIVfKe7b7zXvoN2xeXPz12fSgKXBnvNh7QDvk61UTf4Lz7ihQJESskOyfnTeW1lOurEqDlptEi/ng91SA0ZowG+/KIaATIM8xUyNAJPldDdfDvZor8wXqQ6wo+kZ32OgxUwoUNSNbvKv/vQ8A1pA/3AzUKhekLlaWctn7jsGFR2403XOYV3V6kfUj/PNK20aj2N/UwJ5urnc4VuFwKJ/yreRMeelsFMf+NytpDFKd1P7R3tFkvwFsI+LJpbbC6OxU2oDqYV7sREtcbFLfPsUjWO2+HeZQMYsaSP/4YrySZcfXM43+ynRrKKUZd0NaNz6QQeY3QlhojSw+l7bJStgyMOEYfMZs07eAE2ZRXU=;v4CPh/mY0odQWGtoQWR3lw=="
 ---
 

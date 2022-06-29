@@ -2,6 +2,259 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-22-why-growing-organizations-should-consider-voice-ai.md",
+      "title": "Why Growing Organizations Should Consider Voice AI",
+      "excerpt": "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab34a06f0d8f09215433de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/",
+      "publishedDateTime": "2022-06-22T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-whats-new-in-microsoft-azures-nlp-ai-services.md",
+      "title": "What’s new in Microsoft Azure’s NLP AI services",
+      "excerpt": "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "originalUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 398,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "publishedDateTime": "2022-06-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning.md",
+      "title": "Why data-driven marketing needs artificial intelligence and machine learning",
+      "excerpt": "Bobby Gray, head of analytics and data marketing at Artefact, looks at how organizations can tackle the resulting data loss with a first-party data mindset – and the adoption of artificial intelligence and machine learning. No one needs reminding that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning",
+      "originalUrl": "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-247257-alina-grubnyak-ziqkhi7417a-unsplash--default--1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-the-25-most-significant-new-york-city-novels-from-the-last-100-years.md",
+      "title": "The 25 Most Significant New York City Novels From the Last 100 Years",
+      "excerpt": "Four writers and one bookseller gathered over Zoom to make a list devoted to fiction in which the city is more than mere setting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/22/t-magazine/entertainment/22tmag-t25novels-slide-GHUM-copy/22tmag-t25novels-slide-GHUM-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
+      "publishedDateTime": "2022-06-22T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-create-ai-optimized-resumes-that-get-you-hired-with-resoume.md",
+      "title": "Create AI-optimized resumes that get you hired with Resoume",
+      "excerpt": "This user-friendly resume, portfolio, and cover letter builder helps job seekers craft beautifully designed, ATS-ready documents that get positive attention from humans and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/790953/create-ai-optimized-resumes-that-get-you-hired-with-resoume.html",
+      "originalUrl": "https://www.macworld.com/article/790953/create-ai-optimized-resumes-that-get-you-hired-with-resoume.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/06/sale_312782_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/790953/create-ai-optimized-resumes-that-get-you-hired-with-resoume.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/790953/create-ai-optimized-resumes-that-get-you-hired-with-resoume.html/amp",
+      "publishedDateTime": "2022-06-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry.md",
       "title": "Dynamic AI Agents enabling the great reboot of the BFSI industry",
       "excerpt": "In 2000s, a website was necessary for most businesses. In 2010s, a mobile app became a must-have, and today, conversational AI is fast becoming integral for businesses to successfully cater to rapidly changing customer",
@@ -634,6 +887,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-22-artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Worldwide Opportunities, Driving Forces, Future Potential 2028",
+      "excerpt": "Jun 21, 2022 (Market Insight Reports) -- Latest Report Artificial Intelligence (AI) Chipset Market by Type (Deep Learning, Neural networks, Natural language processing, Others), By Application ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028-2022-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028-2022-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
       "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
       "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
@@ -864,274 +1169,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
-      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
-      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-googles-ai-is-something-even-stranger-than-conscious.md",
-      "title": "Google’s AI Is Something Even Stranger Than Conscious",
-      "excerpt": "LaMDA is no more conscious than a pocket calculator. More importantly, the silly fantasy of machine sentience has once again been allowed to dominate the artificial-intelligence conversation when much stranger and richer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/1RcywjNbiaw9JpLVBsnfMv2osqs=/0x51:2396x1299/1200x625/media/img/mt/2022/06/GettyImages_515342070/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-engineers-build-artificial-intelligence-chip.md",
-      "title": "Engineers build artificial intelligence chip",
-      "excerpt": "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg",
-          "width": 347,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp",
-      "publishedDateTime": "2022-06-21T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
-      "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
-      "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
-      "originalUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314271305/image_1314271305.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022.md",
-      "title": "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022",
-      "excerpt": "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But naturally we can't just be thinking about the past - we need to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "originalUrl": "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vExTvrYZ34ak3GJaUNv2zF-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
-      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
-      "excerpt": "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

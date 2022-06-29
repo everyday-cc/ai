@@ -7,7 +7,7 @@ originalUrl: "https://www.winknews.com/2022/06/28/using-ai-to-predict-hip-surger
 webUrl: "https://www.winknews.com/2022/06/28/using-ai-to-predict-hip-surgery-outcomes/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to save the lives of mothers and babies"
-    excerpt: "As part of our SLAS Europe 2022 coverage, we speak to Professor Patricia Maguire from the University College Dublin about their AI_PREMie technology."
-    publishedDateTime: 2022-06-24T10:13:00Z
-    webUrl: "https://www.news-medical.net/news/20220624/Using-AI-to-save-the-lives-of-mothers-and-babies.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_717399_16558959837485847.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Using AI and ML to Fight Zero-Day Attacks"
     excerpt: "If it felt like you were asked to download a lot of patches in May and June, it’s because there were a lot of patches in May and June. An increase in"
     publishedDateTime: 2022-06-28T12:00:00Z
@@ -47,15 +33,6 @@ related:
       name: Security Boulevard
       domain: securityboulevard.com
     quality: 34
-  - title: "Using artificial intelligence to study autism"
-    excerpt: "New discoveries published by Boston College researchers could help identify the causes of Autism Spectrum Disorder, and lead to personalized interventions The team used artificial intelligence to study magnetic resonance imaging data from over 1,"
-    publishedDateTime: 2022-06-24T15:58:00Z
-    webUrl: "https://www.bc.edu/content/bc-web/bcnews/science-tech-and-health/psychology/autism-research-initiative-.html"
-    type: article
-    provider:
-      name: Boston College
-      domain: bc.edu
-    quality: 19
 
 secured: "ucYleKP5tU1h2tijVyxgwVoohNCxuaORC8IvP7poXAIN8BX+BSFk+gk0X1HNOrM1kj72KYNrWqvxsbxS/IRPUokp/AFm96MbOsB3siMDmOxXu81Lq7UheutIsyTCLubGIzTpaRTsnPHJHiKdLAZT4xwlHK5aVH4fROUt9Ob+ygxRdYM2jOrmlMWRO/IUwd/P7ZUJxXl7gIez6cTIV80REK1iOniW4QC/tTTxgl7ooeqqQFIzRuYzwSpFufjiSGghQEo7oeytPT0fqjTW98Y1zEHY/WD6j3jDsFWJopYgcpHc1Ng6Zed4JnlH+l0R9REbmfbKBGYW+NN7eBgUS+Gua8qkeVlpr9TWV2hgwgb+7vIHRhsTgLpzAHW4TVeQMPkeMfnzeh33eIReHNKwDsy170fVlvOXI86fuODjYyXeo7HbF/1F2mpJMiQp03yQPRMeNwGcC5QHCpaElngH76ff5u2ESV2M4ZmxF7Wi+NqrXdUHgdGTs/p1prg0fMSLc0xMevwD5Jx/6F93srxHbLdofQ==;zi2++gfvtI8BJAF/1k8bPg=="
 ---

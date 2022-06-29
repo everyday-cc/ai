@@ -676,13 +676,22 @@
       "title": "Financial planning perspective on life milestones | Money Matters",
       "excerpt": "The trip got me reflecting on planning, how my daughter planned for it, and the importance of planning in successfully achieving milestones in life. For a person graduating from any program of learning,",
       "sourceUrl": null,
-      "webUrl": "https://www.bothell-reporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
-      "originalUrl": "https://www.bothell-reporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
+      "webUrl": "https://www.kirklandreporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
+      "originalUrl": "https://www.kirklandreporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.kirklandreporter.com/wp-content/uploads/2022/06/29337371_web1_toomeycol-mir-200909-toomey_1.jpg",
+          "width": 1302,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -690,8 +699,8 @@
       "publishedDateTime": "2022-06-17T13:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bothell-Kenmore Reporter",
-        "domain": "bothell-reporter.com",
+        "name": "Kirkland Reporter",
+        "domain": "kirklandreporter.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -136,20 +136,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Amazon SageMaker Ground Truth now supports synthetic data generation"
-    excerpt: "SageMaker Ground Truth can generate hundreds of thousands of automatically labelled synthetic images on your behalf."
-    publishedDateTime: 2022-06-24T10:39:00Z
-    webUrl: "https://analyticsindiamag.com/amazon-sagemaker-ground-truth-now-supports-synthetic-data-generation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-4-2.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "K5EUsp95c3Qfh7rH9F8u43HgnaJpVHHeQ8jpkslqQm0VBYV1SoRBdyZ/NJE/P3NToMfx6DVqBXVt0hzM6dOCvPCVU1LXgxmGusVqaYXrhPg5R6QUHfybeCngP0o0Clcmq5wh7P99r8UsXu/3EISm9319zbdyXyr4eCz5/hEdPRrPcz/CkCbXcVcnEUHNyk5Kg8JPdZf6opB+iaDwCUc3l5JTMyRgFJdUOYu11NZDNbSiEafSpO7oSMVo6b2jAEDyyjbSVd6gA6tPLmAbxAWrarD92KE+TsniiYFW1q8jlsY1yWqADMoVuwTW4/X5uiY2bsau1IRdTq9+y4HI3I3exqptZCtjmmvq63DwnLHdoDY=;IMS7q0pAZpvM9X97vJxP2w=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla relaunches $6,000 Enhanced Autopilot – gutting Full Self-Driving package in the process"
-    excerpt: "Tesla has relaunched its Enhanced Autopilot option and pulled almost all the features from its Full Self-Driving (FSD) package in the process. Over the years, Tesla has changed its Autopilot options and pricing so many times,"
-    publishedDateTime: 2022-06-24T09:45:00Z
-    webUrl: "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/"
-    ampWebUrl: "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s ‘Enhanced Autopilot’ Back Again After Full-Self Driving Criticism"
     excerpt: "Tesla brought back Enhanced Autopilot after a three-year hiatus, and its $6,000 price tag has some owners questioning the value."
     publishedDateTime: 2022-06-24T15:50:00Z

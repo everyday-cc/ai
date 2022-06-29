@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources"
-excerpt: "The divestment plan, not previously disclosed by Baidu, comes after the firm deemed iQIYI to be a non-core asset, and as it seeks to sharpen its focus on developing its capital-intensive artificial intelligence and autonomous driving units, the first two ..."
-publishedDateTime: 2022-06-15T10:30:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources-2"
-webUrl: "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources-2"
+excerpt: "The divestment plan, not previously disclosed by Baidu, comes after the firm deemed iQIYI to be a non-core asset, and as it seeks to sharpen its focus on developing its capital-intensive artificial intelligence and autonomous driving units, said the first ..."
+publishedDateTime: 2022-06-15T16:29:00Z
+originalUrl: "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources"
+webUrl: "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources"
+ampWebUrl: "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "2cRnXohyqPLDf7CqqEtMOAEOTODtJM/yKRTIXwV6weFnt6WNHQRIkLrU+nYHuWR3ONbSfn1ktUDYKke0rPQgVzeQioE0QO8c3tkFXXwsWFxEo6l0a/UCVtWR2x8fG/1gfhQx0knBkbiLzn3YSlEHJ+Z5kaTOIyT3WCpPYOygUtZktkOApzG2VqjuTMPAZpX82lqEedzr5/MvywpzEC9M8J80+WDW+TeUN5VfmRjXl/XLWPpEC+mfZT4aatT3FNr9RC8/Z4ybkFeNFTaN8gopkbOObgs0IDI0nd6tGhfi6uVnwaBYJK+7WSmfGjS6ru90lIvaTEfYoXzfC7oV5NfG4Sw/RdC+6yWi9oqlsklnc1A=;Bx+ILpbfhGdY+Ty4QiFkRQ=="
+secured: "XKOpt94MjdPXJANkzProGDH/KHTYGhfI7rFkLp284wZi+4DvwsMb633XiNVG61pJSrKHDAIGg1rltNQ7MjfwOSGztK5JzjdVVrL8EI7w1KxRWKZepgcIXkVKyfmitnA/HsHhTbkCTtaNfXC2IENXaU9GPm6/FNSVuwXXNdNYED1Lmgf3e9jSmKCVkSAdrNu8CyyY12LERsMv2Gv3JK+I/6shRpbSnum8xO83VhcBeJKs7EDyOrimaczRxCkuQKrhqIODOW2XxxOwg5BYaBfSbnJkEiuFdJPZePih1TgaPIs7+wJvcjj0MghxTgn7kRTtYwAUmhFId9VX7FXxLClLv1aJaozOoaWTOc13j3/dM+4=;6Y9EUHvVVXIMHWGfJkjcVg=="
 ---
 

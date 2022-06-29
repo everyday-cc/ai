@@ -19,43 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to save the lives of mothers and babies"
-    excerpt: "As part of our SLAS Europe 2022 coverage, we speak to Professor Patricia Maguire from the University College Dublin about their AI_PREMie technology."
-    publishedDateTime: 2022-06-24T10:13:00Z
-    webUrl: "https://www.news-medical.net/news/20220624/Using-AI-to-save-the-lives-of-mothers-and-babies.aspx"
+  - title: "Fair Lending: Using AI to democratize compliance"
+    excerpt: "In its most recent advisory, the CFPB addressed a critical question - “When creditors make credit decisions based on complex algorithms that prevent"
+    publishedDateTime: 2022-06-28T07:30:00Z
+    webUrl: "https://www.cuinsight.com/fair-lending-using-ai-to-democratize-compliance/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: Credit Union Insight
+      domain: cuinsight.com
     quality: 37
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_717399_16558959837485847.jpg"
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/11/bigstock-Business-hand-robot-handshake-436873724.jpg"
         width: 1000
-        height: 666
+        height: 500
         isCached: true
-  - title: "Using AI to predict hip surgery outcomes"
-    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose diseases in early stages. Now it’s newest use can give patients more control over their surgery outcomes."
-    publishedDateTime: 2022-06-28T16:11:00Z
-    webUrl: "https://www.winknews.com/2022/06/28/using-ai-to-predict-hip-surgery-outcomes/"
-    type: article
-    provider:
-      name: WINK NEWS
-      domain: winknews.com
-    quality: 37
-    images:
-      - url: "https://cdn.winknews.com/wp-content/uploads/2022/06/Capture76-1.png"
-        width: 1901
-        height: 1066
-        isCached: true
-  - title: "Using AI and ML to Fight Zero-Day Attacks"
-    excerpt: "If it felt like you were asked to download a lot of patches in May and June, it’s because there were a lot of patches in May and June. An increase in"
-    publishedDateTime: 2022-06-28T12:00:00Z
-    webUrl: "https://securityboulevard.com/2022/06/using-ai-and-ml-to-fight-zero-day-attacks/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 34
 
 secured: "TF4rEk1wqIdldTngj5WzOBT2U4xMcN9Pff2eH4imvot+9qRkfP1QJog4JDBFt+laCMvYzyfwDBU13XxDA63GFqO8eksHaAXU2zj4s7LWRHTkjX0yyLLoArdbgCiQwUjMpNdW0s6oVLXEw4+pflQER7EAWlvIJtmGlMP60QkXS1Y0XB7TeUccN+mV0omQDNm7MCiEGDYqy1SaRSD/TAnsd/ellgLjMx57kaoDL5S4rLpLDGcDTZIdX6skW77aYK+B2eAo+AiFid2EZpVHHFQwkK5lXRh3PG9PDGSrL/mZwdM+9bP/jEEdciYMGqS81DhphJ1tE7RNQEIBtHgDvEDqrSqkJtPjCmqsAwrJQ5S2TkA=;IAMoQjB+bGgVzbG0N+FXuA=="
 ---
