@@ -55,20 +55,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Russia uses its facial recognition system to show reporters who’s the boss"
-    excerpt: "A report by the pro-free press International Press Institute indicates that the government is following journalists critical of the Kremlin in Moscow."
-    publishedDateTime: 2022-06-24T21:37:00Z
-    webUrl: "https://www.biometricupdate.com/202206/russia-uses-its-facial-recognition-system-to-show-reporters-whos-the-boss"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11132055/surveillance-cctv-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
 
 secured: "Ea62mIMRx2wRM0E6Aw7q9C+LjhGxxfqG23yeHFnvriOcnGvvOmeIuUokuPiK12agHDk/d5aUODyKGSdjNRezeCS3VzC+ZBsqB8mk+Lee7rJWOe/CDDdOTvpEr0oeA6dRVU3D3fhtYChO5DPTmWpTFWQT2roqKFUs172vZtTJBKLR4RgjTy8LgSq/3djKHAC6Jyn+I4FSvdb/97RZGv7KU0luhKerHrQSvmEmkcl+5PGsNbZCVdNIzKyS3yREREAvg1FkPR0kNQArq+wfdQookGLrF11O9JgiJyXqFL+7TjB9JZFTgsf4DB7VTxhPpsxnGt03ZNzsk0whIs3gahZQsD2BZ+77Au7VBd/rJbGrQfoNklpq+lkUAwqqYSZC87+lZ1U1Bv7rLHUUi6fpi9jWegwNAm6BcgDTtYEKS1dX8DVsm409+avL9MgRI6UCCqz5EsectUejz+RC56j4bBFpZcCXbkMMOHCUraWy+xNYkxM8SYb1oSNRgWxtyyGXdoLl+zJZ7dDMrC/8SS79DSQQsw==;6i9OOH4HKz34q3eWyBAnXw=="
 ---

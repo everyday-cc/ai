@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:10:00Z
 originalUrl: "https://venturebeat.com/2022/06/29/gong-ios-ai-enables-b2b-sales-teams-to-spot-bad-deals-early-with-revenue-intelligence/"
 webUrl: "https://venturebeat.com/2022/06/29/gong-ios-ai-enables-b2b-sales-teams-to-spot-bad-deals-early-with-revenue-intelligence/"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: VentureBeat

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3664748/adversarial-machine-learni
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

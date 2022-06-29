@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rapid-growth-and-rebrand-launch-payferences-position-in-fintech-space/article_5e166b09-7e3a-54a2-a2ac-57b17c2cc17a.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rapid-growth-and-rebrand-launch-payferences-position-in-fintech-space/article_5e166b09-7e3a-54a2-a2ac-57b17c2cc17a.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WFMZ-TV

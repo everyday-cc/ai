@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T19:04:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year-1031555698"
 webUrl: "https://markets.businessinsider.com/news/stocks/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year-1031555698"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Business Insider

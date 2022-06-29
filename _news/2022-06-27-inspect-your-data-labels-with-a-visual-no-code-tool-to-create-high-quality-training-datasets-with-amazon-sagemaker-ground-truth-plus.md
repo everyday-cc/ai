@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker"
-    excerpt: "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs"
-    publishedDateTime: 2022-06-24T20:33:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 107
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg"
-        width: 1245
-        height: 620
-        isCached: true
   - title: "Semantic segmentation data labeling and model training using Amazon SageMaker"
     excerpt: "In computer vision, semantic segmentation is the task of classifying every pixel in an image with a class from a known set of labels such that pixels with the same label share certain characteristics. It generates a segmentation mask of the input images. For example, the following images show a segmentation"
     publishedDateTime: 2022-06-28T16:22:22Z
@@ -85,6 +71,15 @@ related:
         width: 1200
         height: 629
         isCached: true
+  - title: "New built-in Amazon SageMaker algorithms for tabular data modeling: LightGBM, CatBoost, AutoGluon-Tabular, and TabTransformer"
+    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
+    publishedDateTime: 2022-06-28T18:13:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-built-in-amazon-sagemaker-algorithms-for-tabular-data-modeling-lightgbm-catboost-autogluon-tabular-and-tabtransformer/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 42
 
 secured: "LpTiGRyslzrEz+qxdnHwxSFAynGvrmHqpkDqDUhreDE8gn/BWw+hXW/ThGGdRBi4WVa5SesBXhM3fKTU4fyzMVtEIlOFkHcsrC/7B50A/N+OJ8jRgP8c/oF7HxXMN/XlTC53LALn2sJiQu0OK6iodPyqFap8iUl6mUBMLQkx+ZGuUagZJvEBwujpwsXwH9Co1ObN9H2hGmVKYfzVwuZv/5Gv8t51ZKXd3zK5Q3JlnV4zVmb7YaKLBwodpb/+atZ51V9v9U/XIog8zCf7BH/7yqtuC6fA9OvWJ0Pp3gTsm58LdT1hP7n06mE/z3OhAWtfaVy9HU1Y0CUKCjZrxI3OZAw1E2upmyu1wn0YLRo8V+E=;8yDKmMv6UdBoNU5REoVnPA=="
 ---

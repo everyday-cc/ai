@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:40:00Z
 originalUrl: "https://venturebeat.com/2022/06/29/transform-2022-announcing-the-nominees-for-venturebeats-4th-annual-ai-innovation-awards/"
 webUrl: "https://venturebeat.com/2022/06/29/transform-2022-announcing-the-nominees-for-venturebeats-4th-annual-ai-innovation-awards/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: VentureBeat

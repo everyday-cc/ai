@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T11:13:00Z
 originalUrl: "https://www.sourcesecurity.com/news/vitaprotech-group-strengthens-smart-monitoring-division-co-4167-ga-co-11040-ga-co-1560864386-ga.1656494717.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/vitaprotech-group-strengthens-smart-monitoring-division-co-4167-ga-co-11040-ga-co-1560864386-ga.1656494717.html?ref=nav"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

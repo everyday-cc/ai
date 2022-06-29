@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/semantic-segmentatio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/semantic-segmentation-data-labeling-and-model-training-using-amazon-sagemaker/"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker"
-    excerpt: "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs"
-    publishedDateTime: 2022-06-24T20:33:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 107
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg"
-        width: 1245
-        height: 620
-        isCached: true
   - title: "Deep demand forecasting with Amazon SageMaker"
     excerpt: "Every business needs the ability to predict the future accurately in order to make better decisions and give the company a competitive advantage. With historical data, businesses can understand trends, make predictions of what might happen and when, and incorporate that information into their future"
     publishedDateTime: 2022-06-28T16:12:34Z
@@ -85,6 +71,15 @@ related:
         width: 1200
         height: 629
         isCached: true
+  - title: "New built-in Amazon SageMaker algorithms for tabular data modeling: LightGBM, CatBoost, AutoGluon-Tabular, and TabTransformer"
+    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
+    publishedDateTime: 2022-06-28T18:13:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-built-in-amazon-sagemaker-algorithms-for-tabular-data-modeling-lightgbm-catboost-autogluon-tabular-and-tabtransformer/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 42
 
 secured: "pGEHpVnW2ChWc4iYYdcVfwfAuShpGNBpkAS3NKZay5CY9ph7F3mF0sO0N9VwQg1mzrd1DbCaSrw+V3Z9PNZx2Ib3wTqFrZ/0Uab6vzKY0ateaibCGpIbxMYdewf3daYe84Wn6gde8oydhxrNRm1OvK1moQjfdHgkDUf97aMZ55MTbfinvp6MKwKV1NtXtGYCSVDr16HrmIbbqAUjLhsVKPCqgMoRiQU823cN8N+xI5wQ9OShfBOsAx5bAbnRGyG+3q82EGPi5lhsI8Awes+bmjtIYEpcdfppeI5G7NpMUKXs7pIYSSj59uyeDgFgnNUaidMsBQNMKT00A7rTFKb9HdptxiXUsRJiQEYMG2APM5U=;WeNirAooY5g+exFC+ew1HA=="
 ---

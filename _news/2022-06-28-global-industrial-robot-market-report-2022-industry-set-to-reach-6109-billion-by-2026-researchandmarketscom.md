@@ -42,6 +42,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Edge Computing AI Chips Market Size 2022 Investigation Report by Consumption, Drivers, Trends, Forces Analysis, Market Dynamics and Forecast to 2028"
+    excerpt: "Jun 29, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Edge Computing AI Chips"
+    publishedDateTime: 2022-06-29T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-size-2022-investigation-report-by-consumption-drivers-trends-forces-analysis-market-dynamics-and-forecast-to-2028-2022-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "X0MMuAj5A155PvY/xZXKrclISjXt39VDP6a6LPK75SgxjYhEeZ8Hvf5m2iA+P1pY/BZ8wlE/nbq+a0UXpAF7lN9mSgrTYd3sEEKCZMupFLBiqZ2ZaZgc/tAk+sYGWzeHCAdpAlP//FULAiOxSv7bLYj6b7ASln9BjXO6+GkPx3lXJJ/c9EontgMoyQ1WPSCCgnUP8MhegRT6H99rxXQZg2fk+dIF1IS204mxrFWif/mZG9SP8naRGFjehXc9oo/UDGoeTohYO4vy2KmCkUpyrGt6CIdJVmR5r5VMLw/o2BS/JCg3wodO5vdhzlDEYj6hh15CmfnEEx0vv1kA+29sICmGr+qN1wA/dYQWG3UsYT0=;l7JKCE+y+HSALCciZ4HDaw=="
 ---

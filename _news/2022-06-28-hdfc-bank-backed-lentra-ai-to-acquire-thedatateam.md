@@ -55,6 +55,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "How Artificial Intelligence is Shaping the Future of the Fintech Industry"
+    excerpt: "Managers who work in the financial area, and UK-resident banks or investment companies, should always look for an optimal approach to customers, processes, and data. Embracing AI technologies may come in handy here."
+    publishedDateTime: 2022-06-29T14:43:00Z
+    webUrl: "https://www.deadlinenews.co.uk/2022/06/29/how-artificial-intelligence-is-shaping-the-future-of-the-fintech-industry/"
+    type: article
+    provider:
+      name: Deadline News
+      domain: deadlinenews.co.uk
+    quality: 38
+    images:
+      - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2022/06/possessed-photography-jIBMSMs4_kA-unsplash-1-scaled.jpg"
+        width: 2048
+        height: 1474
+        isCached: true
   - title: "Lentra acquires AI startup TheDataTeam to accelerate digital lending"
     excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to ..."
     publishedDateTime: 2022-06-28T07:33:00Z

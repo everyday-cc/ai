@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T11:51:00Z
 originalUrl: "https://www.euronews.com/culture/2022/06/29/breakthrough-machine-learning-tool-can-help-identifiy-rock-art-in-remote-areas"
 webUrl: "https://www.euronews.com/culture/2022/06/29/breakthrough-machine-learning-tool-can-help-identifiy-rock-art-in-remote-areas"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Euronews

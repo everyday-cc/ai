@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/"
 type: article
 quality: 91
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "For Shell, AI and data is as critical as oil"
-    excerpt: "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! At Shell, there are plenty of reasons to use AI and data to transform their business.  From increased energy demands and unconnected environments to mounting pressure to fight climate change,"
-    publishedDateTime: 2022-06-24T23:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/24/for-shell-ai-and-data-is-as-critical-as-oil/"
-    ampWebUrl: "https://venturebeat.com/2022/06/24/for-shell-ai-and-data-is-as-critical-as-oil/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/for-shell-ai-and-data-is-as-critical-as-oil/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1241475051.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI Is Revitalizing Data Centers"
     excerpt: "Artificial intelligence is refreshing data centers — improving efficiency, operations and performance with new capabilities. All types of centers benefit from AI’s possibilities, from automated workload management to smart cybersecurity."
     publishedDateTime: 2022-06-27T17:23:00Z

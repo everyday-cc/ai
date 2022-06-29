@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T11:14:00Z
 originalUrl: "https://www.sourcesecurity.com/news/blickfeld-expansion-us-operations-company-growth-plans-co-1642677976-ga-co-1656494077-ga-co-1656494283-ga.1656495204.html"
 webUrl: "https://www.sourcesecurity.com/news/blickfeld-expansion-us-operations-company-growth-plans-co-1642677976-ga-co-1656494077-ga-co-1656494283-ga.1656495204.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Innodisk showcases innovative edge AI computing capabilities at Computex 2022"
-    excerpt: "Innodisk, the industrial-grade storage, and embedded peripheral manufacturer, is actively combining software and hardware integration, remote management, and data security to make a strong impact"
-    publishedDateTime: 2022-06-29T09:20:00Z
-    webUrl: "https://www.sourcesecurity.com/news/innodisk-showcases-innovative-edge-ai-computing-co-1656487268-ga.1656488933.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/innodisk-showcases-innovative-edge-ai-computing-co-1656487268-ga.1656488933.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/innodisk-showcases-innovative-edge-ai-computing-co-1656487268-ga.1656488933.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 34
   - title: "India lags in AI research activities, needs to equal China on supercomputing capabilities: Amitabh Kant"
     excerpt: "\"We lag behind in terms of core and applied research,\" Kant said, adding that in high quality research, India still trails behind US and China and wil.."
     publishedDateTime: 2022-06-28T12:53:00Z

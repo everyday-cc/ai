@@ -8,7 +8,7 @@ webUrl: "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-d
 ampWebUrl: "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp"
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 

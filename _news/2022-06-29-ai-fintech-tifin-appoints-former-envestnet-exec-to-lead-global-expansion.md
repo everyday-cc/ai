@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T02:56:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/06/192816-ai-fintech-tifin-appoints-former-envestnet-exec-to-lead-global-expansion/"
 webUrl: "https://www.crowdfundinsider.com/2022/06/192816-ai-fintech-tifin-appoints-former-envestnet-exec-to-lead-global-expansion/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Crowdfund Insider

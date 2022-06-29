@@ -26,17 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Learned to Play Minecraft, and It's Actually Pretty Good"
-    excerpt: "Open AI engineers revealed their experiment in a research paper and subsequent blog post this week. OpenAI’s model was able to move beyond basic crafting and survival and actually perform many ..."
-    publishedDateTime: 2022-06-24T19:49:00Z
-    webUrl: "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533"
-    ampWebUrl: "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp"
+  - title: "Microsoft-Backed AI Learns How To Play Minecraft By Watching Online Videos"
+    excerpt: "AI capable of rapidly learning and interacting with interfaces humans usually use is taking over the world. Luckily for us, this particular world is virtual."
+    publishedDateTime: 2022-06-29T02:35:00Z
+    webUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
+      name: SlashGear
+      domain: slashgear.com
+    quality: 82
+    images:
+      - url: "https://www.slashgear.com/img/gallery/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/l-intro-1656465937.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "AWS, Microsoft, Google Top Cloud AI Developer Market: Gartner"
+    excerpt: "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping $135 billion by 2025, according to IT ..."
+    publishedDateTime: 2022-06-27T15:12:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/aws-microsoft-google-top-cloud-ai-developer-market-gartner"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0273-14b82b7c6db9-8d7b4fa5b5c9-1000/ai-artificial-intelligence-mind.jpg"
+        width: 608
+        height: 457
+        isCached: true
   - title: "AI learns to play Minecraft by watching 40,000 hours of YouTube"
     excerpt: "OpenAI's latest AI learned to play Minecraft by watching 40,000 hours of YouTube. The company, which specialises in"
     publishedDateTime: 2022-06-27T14:18:00Z

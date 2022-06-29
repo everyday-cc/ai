@@ -132,22 +132,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
-    excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
-    publishedDateTime: 2022-06-24T20:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 38
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/06/24/shutterstock_712489231_c0-196-4707-2941_s1200x700.jpeg?252bacb6c34fcb4f7b3ea742705da80edbc49450"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found"
     excerpt: "CNN By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. M"
     publishedDateTime: 2022-06-27T23:30:00Z

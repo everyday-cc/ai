@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T13:03:00Z
 originalUrl: "https://medicalxpress.com/news/2022-06-machine-technique-drugs-repurposed.html"
 webUrl: "https://medicalxpress.com/news/2022-06-machine-technique-drugs-repurposed.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

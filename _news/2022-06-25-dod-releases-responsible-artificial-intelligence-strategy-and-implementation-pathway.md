@@ -26,20 +26,6 @@ images:
 related:
   - title: "The Pentagon's plan for 'responsible AI'"
     excerpt: "A 47-page document released this week outlines the Pentagon's plan to incorporate its two-year old ethical AI principles throughout a system's design, development and use."
-    publishedDateTime: 2022-06-24T19:55:00Z
-    webUrl: "https://fcw.com/defense/2022/06/pentagons-plan-responsible-ai/368605/"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 37
-    images:
-      - url: "https://cdn.fcw.com/media/img/cd/2022/06/24/062422_getty_fcw_ai_brain/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "The Pentagon's plan for 'responsible AI'"
-    excerpt: "A 47-page document released this week outlines the Pentagon's plan to incorporate its two-year old ethical AI principles throughout a system's design, development and use."
     publishedDateTime: 2022-06-28T14:25:00Z
     webUrl: "https://defensesystems.com/ai-analytics/2022/06/pentagons-plan-responsible-ai/368687/"
     type: article

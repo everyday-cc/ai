@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:00:00Z
 originalUrl: "https://www.assemblymag.com/articles/97139-bmw-applies-ai-to-assembly"
 webUrl: "https://www.assemblymag.com/articles/97139-bmw-applies-ai-to-assembly"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Assembly Mag

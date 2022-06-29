@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
 type: article
 quality: 83
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -122,22 +122,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
         width: 800
         height: 480
-        isCached: true
-  - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
-    excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
-    publishedDateTime: 2022-06-24T20:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/jun/24/instagram-testing-facial-scanning-tech-kids-verify/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 38
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/06/24/shutterstock_712489231_c0-196-4707-2941_s1200x700.jpeg?252bacb6c34fcb4f7b3ea742705da80edbc49450"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Instagram tests using AI and video selfies for age verification"
     excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."

@@ -2,15 +2,12 @@
 category: news
 title: "This Simple Cognitive Bias Can Have Serious Consequences"
 excerpt: "Recently, I became acutely aware and impacted by left-digit bias. At first, it seemed benign—a few letters and a freebie from the AARP—but then the discriminatory communications began to roll ..."
-publishedDateTime: 2022-06-17T19:09:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences"
-webUrl: "https://www.psychologytoday.com/us/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences?amp"
+publishedDateTime: 2022-06-17T18:07:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences"
+webUrl: "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences?amp"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: Psychology Today
@@ -26,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "bJHASHVTcffp3Sa71v3iLtFz7dGr0lO/ttfggl6UvCIbRaPi1xvM7QS7u2r0jElX8/P1dCjr5gc4/qoJ5v4oRHZBhKG7LthZecwx7i6qlteqJrTtmZLm/s0S8+youlKBwv92Ko1hw6zSvR0sSAIp1rVYTx2Wx5z659SMlzoyfZmAQwtXG8fFAXWZFRw1TJh3d7MzO2pPVON4tOHxY7ouMpoJjHIV7Fk0br2w3uW8BbzB0anbjympH78Y9P1qFMWDslnOtExB6CMAF7bDqFTt4UJpQSu4jUjm3TSgWBx/ICgyXwvWyKt09XS6QkDbnSLYdgmOQz0K4JpPqq+Yy85my04Dka32QTWbsQ88IfhHoCA=;xo4BWqN2IrhGYUU1lZMG1A=="
+secured: "gq7vcUB4AZVcZNfAr+ATdCBvy0p1bMd1sG9M8u1AolMz0qZTt6jYWL8X7tCuT1hGJ847qdRClQvP3iLi2RtxUX5wdnHY7+JVpK8+6jb/nGyOX+Mw6Ze3sbSaFrvqlkE6zzSQnF4I5OZj2/p7SjG0QSVT6fbBjtR3hQIfzH0NZ3z2k2RchaRXaBMk6uxELbTcYLSsOmJF7STbfvTfzfGNcSSo2GzNLFSH5KSyRWPf2gJBsvxPbg7JzQmkgrULrHRPzqIkUvWSTqyeZll+vZQl3aH9HuufepVtRt7WnaL1uSQ+zsxN9G96078hoGKYzYrOL6isnP/PdXKnicrLu54eF9stOUUJLWyhSgiLV/v0hC0=;1zRTnrPW3H5gYBTtuHGTLQ=="
 ---
 

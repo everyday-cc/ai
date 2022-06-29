@@ -73,6 +73,15 @@ related:
         width: 1138
         height: 774
         isCached: true
+  - title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
+    excerpt: "\"We are thrilled to be recognized as the 2022 Rising Azure Technology Partner of the Year,\" said Evan Resier, CEO and co-founder of Abnormal Security. \"This award is a testament to our singular focus on solving our customers' critical email security needs alongside Microsoft."
+    publishedDateTime: 2022-06-29T14:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-abnormal-security-recognized-as-winner-2022-microsoft-rising-/2022/06/29/9630989.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
     excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
     publishedDateTime: 2022-06-26T20:30:00Z

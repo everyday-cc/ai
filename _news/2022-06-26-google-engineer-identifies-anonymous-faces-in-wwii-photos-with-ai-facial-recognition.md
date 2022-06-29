@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Facial Recognition IDs Rocker Geddy Lee’s Mother in Anonymous Holocaust Photos"
+    excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"
+    publishedDateTime: 2022-06-29T15:26:00Z
+    webUrl: "https://www.jewishexponent.com/2022/06/29/ai-facial-recognition-ids-rocker-geddy-lees-mother-in-anonymous-holocaust-photos/"
+    type: article
+    provider:
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 49
+    images:
+      - url: "https://www.jewishexponent.com/wp-content/uploads/2022/06/6-28-22-Geddy-1536x853-1.jpg"
+        width: 1536
+        height: 853
+        isCached: true
   - title: "AI identifies rocker Geddy Lee’s mother in Holocaust photos"
     excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"
     publishedDateTime: 2022-06-28T18:20:00Z

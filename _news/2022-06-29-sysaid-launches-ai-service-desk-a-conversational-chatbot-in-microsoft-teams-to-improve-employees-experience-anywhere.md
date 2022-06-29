@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sysaid-launches-ai-service-desk-a-conversational-chatbot-in-microsoft-teams-to-improve-employees-experience/article_4e3075b5-83ee-5b77-9a5f-e0f4388c3c65.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sysaid-launches-ai-service-desk-a-conversational-chatbot-in-microsoft-teams-to-improve-employees-experience/article_4e3075b5-83ee-5b77-9a5f-e0f4388c3c65.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: WFMZ-TV

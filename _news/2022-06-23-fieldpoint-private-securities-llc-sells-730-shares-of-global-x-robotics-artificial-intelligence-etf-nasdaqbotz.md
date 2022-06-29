@@ -5,6 +5,8 @@ excerpt: "Fieldpoint Private Securities LLC lowered its holdings in shares of Gl
 publishedDateTime: 2022-06-23T08:58:00Z
 originalUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
 webUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
+ampWebUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
+cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "HNL5Pv/bFFhWVmAcvovVKeQfV8y3om111t1nabkrX4Y3r88mSeUlwQlH1rw85VnS+aJI+B0AsOvmMCpIU4ym3HxtpkT19uX0mf9nM5Scx+lR9pKL2ikdBZyelRlMiIxt5YccY3vVwgJRGJbO77MjvaY9ut2hLnxPc5ccucE/T9qR2qtUyma6wVrX/5casXE78EgwFSlD0B36aIQXjul3jlcfK8DGvBD9qBO+Lk7vtdsWirWJFs+fRklnksb2sHFeRx9CTW00J9tUiJrhwy0h2ec5WQODJWUqPVTLi92rUFKdweoXPw1kyakTbJKjFWYmgYThPPLlhU35qHyoVzl/MBuwf6BxE3tguGZddzsYZu0=;9VvK2v4WW/rOvdDwDaoYUg=="
+images:
+  - url: "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ"
+    width: 650
+    height: 350
+    isCached: true
+
+secured: "eW1JoyInolq2aNtRkvVuC5YssXoQlCMGAATOH2OFvsp57nYVcNY/fkqktl4alm6B3KO/i5hAF9M/EGjve90UxcN9zPdxbp6P1w3NPQd/OlVwTYgEVEyictK4un2tFLT4iujC5BCW7+YFcB0PowGpm9tjZoA1DPKTgaLt/ks9GWoahgFO/5eEiLmntlJQDO+UCHSpmdLwlWHwosYNUxQqCGD/870XrbyD71bhRxbLpR6QFKYpSJPuNE7NiqGy6W+8OrYx5lXI3HUpDUQE5haDu9iG4DRG0oj8R64Bt+AMz8NprJPedWTPV/CKYcAQDm1RSdkiWbrfBSsUF5ykR2BaHLxXqnQlP4ML/Dd0wmOsSCs=;0Os8jgdUYt5mcgH7p6Hh5Q=="
 ---
 

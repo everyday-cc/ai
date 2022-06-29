@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:33:00Z
 originalUrl: "https://circuitdigest.com/news/how-ai-iot-5g-showing-way-for-platinum-era-for-semiconductor-industry-explains-tsmc-chairman"
 webUrl: "https://circuitdigest.com/news/how-ai-iot-5g-showing-way-for-platinum-era-for-semiconductor-industry-explains-tsmc-chairman"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: circuitdigest.com

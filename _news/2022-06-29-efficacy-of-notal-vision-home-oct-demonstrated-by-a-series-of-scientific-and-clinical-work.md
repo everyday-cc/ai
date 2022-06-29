@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:03:00Z
 originalUrl: "https://www.elpasoinc.com/efficacy-of-notal-vision-home-oct-demonstrated-by-a-series-of-scientific-and-clinical-work/article_ec1cc150-844e-528d-a35d-2511d28921ae.html"
 webUrl: "https://www.elpasoinc.com/efficacy-of-notal-vision-home-oct-demonstrated-by-a-series-of-scientific-and-clinical-work/article_ec1cc150-844e-528d-a35d-2511d28921ae.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: El Paso Inc

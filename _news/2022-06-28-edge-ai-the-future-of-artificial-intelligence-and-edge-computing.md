@@ -24,67 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is quietly revolutionizing the back office"
-    excerpt: "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control."
-    publishedDateTime: 2022-06-24T22:05:00Z
-    webUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/"
-    ampWebUrl: "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/"
+  - title: "Nurturing talented AI professionals for the future"
+    excerpt: "Hyderabad: Many entrepreneurs and technologists from the city have made their mark in the growing tech field, and now, one more Hyderabad-born technology"
+    publishedDateTime: 2022-06-25T17:17:00Z
+    webUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future"
+    ampWebUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
-  - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
-    excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
-    publishedDateTime: 2022-06-27T16:06:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience"
-    ampWebUrl: "https://amp.wbur.org/hereandnow/2022/06/27/ai-sentience"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/06/27/ai-sentience"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 63
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/AP20007048093657.jpg"
-        width: 3000
-        height: 2035
-        isCached: true
-  - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
-    excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
-    publishedDateTime: 2022-06-27T17:20:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-    ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
-    cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 63
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/922c5da/2147483647/strip/true/crop/524x295+0+6/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fidaho%2Ffiles%2F201804%2Fidaho_shakespeare_festival_amphitheater.jpg"
-        width: 430
-        height: 242
-        isCached: true
-  - title: "Justice backed by AI"
-    excerpt: "An artificial intelligence (AI) system to be used as a sentencing guideline in courts within Peninsular Malaysia is in the works, while it’s now applied in Sabah and Sarawak. Before it proceeds, a lot of deliberation and consultation is needed."
-    publishedDateTime: 2022-06-25T23:33:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2022/06/26/justice-backed-by-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/26/1636616.jpg"
-        width: 1240
-        height: 770
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/06/AI-831x450.jpg"
+        width: 831
+        height: 450
         isCached: true
   - title: "Exploring the world of artificial intelligence"
     excerpt: "IN this digital age, we are now facing a totally different sphere where technology has been transforming the world we live in. To minimize costs and to improve efficiency, companies have relied on third parties over the years,"

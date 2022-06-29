@@ -41,22 +41,6 @@ related:
         height: 380
         isCached: true
   - title: "Google’s powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
-    excerpt: "PhD Candidate in Brain and Cognitive Sciences ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ..."
-    publishedDateTime: 2022-06-24T20:26:00Z
-    webUrl: "https://theconversation.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099"
-    ampWebUrl: "https://theconversation.com/amp/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 44
-    images:
-      - url: "https://images.theconversation.com/files/470388/original/file-20220622-7895-m4o7lp.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=212&fit=crop"
-        width: 320
-        height: 212
-        isCached: true
-  - title: "Google’s powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
     excerpt: "When you read a sentence like this one, your past experience tells you that it’s written by a thinking, feeling human. And, in this case, there is indeed a human typing these words: [Hi, there!] But these days,"
     publishedDateTime: 2022-06-25T19:17:00Z
     webUrl: "https://www.dailyexcelsior.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"

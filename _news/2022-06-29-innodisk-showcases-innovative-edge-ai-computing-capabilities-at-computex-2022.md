@@ -20,40 +20,29 @@ topics:
   - AI
 
 related:
-  - title: "India lags in AI research activities, needs to equal China on supercomputing capabilities: Amitabh Kant"
-    excerpt: "\"We lag behind in terms of core and applied research,\" Kant said, adding that in high quality research, India still trails behind US and China and wil.."
-    publishedDateTime: 2022-06-29T02:13:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-amitabh-kant/92531893"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-amitabh-kant/92531893"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-amitabh-kant/92531893"
+  - title: "Adopting AI To Manage Regulatory Complexity"
+    excerpt: "Regulatory compliance exercises already pose a significant challenge to legal departments, made harder by both the unprecedented volumes of legal and enterprise data that needs to be reviewed and the complex corporate operating structures that often see relevant information siloed across different storage locations,"
+    publishedDateTime: 2022-06-29T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/adopting-ai-to-manage-regulatory-complexity/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Using AI to predict hip surgery outcomes"
+    excerpt: "The future is now. Artificial intelligence has allowed physicians to receive better training and diagnose diseases in early stages. Now it’s newest use can give patients more control over their surgery outcomes."
+    publishedDateTime: 2022-06-28T16:11:00Z
+    webUrl: "https://www.winknews.com/2022/06/28/using-ai-to-predict-hip-surgery-outcomes/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92531893,imgsize-43032,width-1200,height-628,overlay-ettelecom/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-amitabh-kant.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cdn.winknews.com/wp-content/uploads/2022/06/Capture76-1.png"
+        width: 1901
+        height: 1066
         isCached: true
-  - title: "India Lags In AI Research Activities; Needs To Equal China On Supercomputing Capabilities: Kant"
-    excerpt: "Government think tank Niti Aayog's outgoing chief executive Amitabh Kant on Tuesday said the country lags in artificial intelligence research activities, and also needs to elevate its supercomputing capabilities to those possessed by China."
-    publishedDateTime: 2022-06-28T13:21:00Z
-    webUrl: "https://www.outlookindia.com/business/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-kant-news-205335"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 7
-  - title: "India lags in AI research activities, needs to equal China on supercomputing capabilities: Amitabh Kant"
-    excerpt: "\"We lag behind in terms of core and applied research,\" Kant said, adding that in high quality research, India still trails behind US and China and wil.."
-    publishedDateTime: 2022-06-28T12:53:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/india-lags-in-ai-research-activities-needs-to-equal-china-on-supercomputing-capabilities-amitabh-kant/92523249"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 3
 
 secured: "/YZgGPsG0KoFanPAsP4mcCI/VWBtvhRBcabJ9xHnIIu4xQFoW2wcKWoKm+P5kuhArYj//wc3YvGXItPZ5vRI3SebsH2VGcNbJwarZCLwK/080lsGP/iYI8g7sUiZf4CmdET6YYKwI0e8l+QQtczARosn6nIdh3vmwKvjwEem+kIwkO502SLC0Ut0YqD+ioiWmdk9EFjBNsstrA71S0oU6cjyf+wa3ZyTdBujUqR3/93PRFKbXJBuGrZh6J+CiefrxOTMw1gXww4cxBVEEbIeZ2bW4iHyHs+KxKkxwaZAKiJ+PvZi/jyPBPou24q6IWsmRwSUNHxJ8A3sHuUNN/QBzqC3FzWp+gcb1ZYHGytmGFE=;HHe0A5cCDIw3wDB+iJ4tTg=="
 ---

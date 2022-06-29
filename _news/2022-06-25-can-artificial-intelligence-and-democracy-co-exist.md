@@ -25,66 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Flawed AI makes robots racist, sexist"
-    excerpt: "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases."
-    publishedDateTime: 2022-06-24T22:46:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/957065"
+  - title: "AI Favors Autocracy, But Democracies Can Still Fight Back"
+    excerpt: "AI will prove to be a powerful tool for autocrats, but that doesn't mean democracies can't gain the upper hand."
+    publishedDateTime: 2022-06-25T16:00:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/ai-favors-autocracy-democracies-can"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7667c6ad-9eb3-4059-bf6d-ab9842d2fbc4/Rendition/low-res/Content/Public"
-        width: 700
-        height: 420
-        isCached: true
-  - title: "Internet data produces a racist, sexist robot"
-    excerpt: "The AI-based robot developed significant gender and racial biases, gravitating more towards men and white individuals while drawing conclusions about occupation after a glance at their face."
-    publishedDateTime: 2022-06-24T19:47:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/06/internet-data-produces-racist-sexist-robot/368602/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
+      name: The National Interest
+      domain: nationalinterest.org
     quality: 39
     images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/06/24/GettyImages_543194863/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2017-11-08T095132Z_944923674_RC12C5AB1DB0_RTRMADP_3_TRUMP-ASIA-CHINA.JPG.jpg"
+        width: 1222
+        height: 815
         isCached: true
-  - title: "Artificially intelligent robot perpetuates racist and sexist prejudice"
-    excerpt: "Virtual robot run by artificial intelligence acts in a way that conforms to toxic stereotypes when asked to pick faces that belong to criminals or homemakers"
-    publishedDateTime: 2022-06-27T16:38:00Z
-    webUrl: "https://www.newscientist.com/article/2326129-artificially-intelligent-robot-perpetuates-racist-and-sexist-prejudice/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/27161237/SEI_111293227.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Does AI make robots racist? - study"
-    excerpt: "A new study found that a robot operating with a widely used, internet-based artificial intelligence system consistently prefers men over women, white people over people of color, and jumps to ..."
-    publishedDateTime: 2022-06-25T11:38:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-710355"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 34
-  - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
-    excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
-    publishedDateTime: 2022-06-28T19:31:00Z
-    webUrl: "https://www.express.co.uk/news/science/1632504/artificial-intelligence-racist-sexist-robots-flawed-ai-scientists-horror-warning"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 11
 
 secured: "r5S+pq88qBx+cAIVQGBkz5hvoy8FYkeM1ecZ4ILRoDmS+uEo4HMhuPcYQkq1hLMzZvCo1sJuS4c3ShEg63uHBB0Z7I0i0CP2+RWDuEQm1RC+5bKCf9ugH9/4kNIttbnSs5M9dHuPZyRlKuHjv5umL0Ca7FhEZeAuUjSiQMgkOF2Mm9xeSg3rkqfx+srzwxuC2xssNgataaof4GGPK9ZOWubl6XsY+91iU88zZlinn9LZyLxndoQlrS5UhckCRN/QCl9ILsxhCmUlf/Votm2Yb79Btq6fuibQiuk8AD4Q6uYwOzU3tYGWFTjwaIrgcs1Yf4nN1SNkbZTFlI9l+BW6g/47DyQlZf3WEPIIgYXm2kw=;rGKrRp7sFq9GfRUkq75p9w=="
 ---

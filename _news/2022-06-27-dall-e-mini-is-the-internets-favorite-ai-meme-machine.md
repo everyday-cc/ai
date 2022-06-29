@@ -41,7 +41,7 @@ related:
     provider:
       name: PC World
       domain: pcworld.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://b2c-contenthub.com/wp-content/uploads/2022/06/craiyon_2022-6-21_9-42-40.png?w=981"
         width: 980

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-courses
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Edge Computing AI Chips Market Size 2022 Investigation Report by Consumption, Drivers, Trends, Forces Analysis, Market Dynamics and Forecast to 2028"
+    excerpt: "Jun 29, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Edge Computing AI Chips"
+    publishedDateTime: 2022-06-29T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-size-2022-investigation-report-by-consumption-drivers-trends-forces-analysis-market-dynamics-and-forecast-to-2028-2022-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
   - title: "Global Industrial Robot Market Report 2022: Industry Set to Reach $61.09 Billion by 2026 - ResearchAndMarkets.com"
     excerpt: "Analysis By Industry, By Type, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2026” report has been added to ResearchAndMarkets.com’s offering. The global industrial robot market in 2021 was valued at US$33."
     publishedDateTime: 2022-06-28T11:47:00Z

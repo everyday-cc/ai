@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/themathcompany-launches-ai-xecutive-council-1031557230"
 webUrl: "https://markets.businessinsider.com/news/stocks/themathcompany-launches-ai-xecutive-council-1031557230"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Business Insider
@@ -17,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "m/KSXNgK1Pcx0GQki/U0uHPqEjslX1Pr9xpFk8hgHndzZgF+GBnm+qR4deyf1yGb2G3SHAERoM/HFEByj/daXeLDqI2S85oBVU/NQJjjpK3bdqCKytAD5J8+r0bfBhSFzzLsyeIMhmvQKYhH46dOYmDqfR5OE6TSa4vi0649Wa/0IOxPKj7V9MfLpSL/qY7rC5cZjIEARcRQdZwoAVPkv/hgttt9T0Z0vHpa6M+ioUIRg29Ts6voTtKHLTKxL41tJMIcBz+sOEADJkKKpL65RYuSfRn+DhzJ91wIuneMetYDwwfCMK8pRDv6y/NGkw2DkWLxo3hVDGBGhmQt7hucJpDixG26xPnIaas0Y6NfbasIBbs5K7CxHIO5lfOb4vpokt1ebHNa5llxdjxtoXhpFiH20vYnTpcyzlA83PHsqD3H2rXVo1rPvnznuaYrYIkh/yTE4N4/AOLXkaiLEv2QxhHiO1GpbgtbU+rsN0IFuOzqTH6JyyLkGbDLJC1ka+rcP2Kz0jXtOq9QDkwKBQg92g==;EFFrKnWh08s+PEKcb+ZMaw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1849235/AIXC_Launch.jpg"
+    width: 400
+    height: 234
+    isCached: true
+
+secured: "1yKgxtDLjPo6WI8WJGuVe9DcaFlnXcB8FfUg///8nnNCTNX3uyy3A4OrPQ1vDaz14Wzs/WurkmYOQXKHKtkTmM5xiwy7xXLrzg+5P82t4DIpHzlcAyhbuTacRI/G8ad1L3SBxzwNTwmCnau4TnZ2K902Bb/Kbiyyp/CbumzCOTagk+FnSaxqQ9UeVMTP9SsaCW6KbsDqPQvudnhsaHXg3LDGHlWrk92mrZe55pZ5zvo6Xx2wu2dIBcB78irxbWEzsNGnoUZ4U+9xOSN7x1KKpU4ZRb6I8vnw2tgQM4uEfsmS8sinMZ7uumssZ4q1VFmBx3QZ11pXaSh15W+DYtqZYKolypx1nr3ddhbgywAXKK8=;PS+nG+GE+MRx6WjbT+GoIA=="
 ---
 

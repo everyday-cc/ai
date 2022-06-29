@@ -9,7 +9,7 @@ ampWebUrl: "https://www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-id
 cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos/amp"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2022/06/FotoJet-3-min.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI Facial Recognition IDs Rocker Geddy Lee’s Mother in Anonymous Holocaust Photos"
+    excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"
+    publishedDateTime: 2022-06-29T15:26:00Z
+    webUrl: "https://www.jewishexponent.com/2022/06/29/ai-facial-recognition-ids-rocker-geddy-lees-mother-in-anonymous-holocaust-photos/"
+    type: article
+    provider:
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 49
+    images:
+      - url: "https://www.jewishexponent.com/wp-content/uploads/2022/06/6-28-22-Geddy-1536x853-1.jpg"
+        width: 1536
+        height: 853
         isCached: true
   - title: "Google engineer identifies anonymous faces in WWII photos with AI facial recognition"
     excerpt: "And so he set to work creating and developing From Numbers to Names (N2N), an artificial intelligence-driven facial recognition platform that can scan through photos from prewar Europe and the Holocaust, linking them to people living today. Patt has a ..."

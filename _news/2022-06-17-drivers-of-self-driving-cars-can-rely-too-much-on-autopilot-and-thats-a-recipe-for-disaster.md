@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Drivers of self-driving cars can rely too much on autopilot, and that’s a recipe for disaster"
-excerpt: "Likewise, new partnerships have recently been announced to develop and test the safety of self-driving trucks. The journey toward autonomous or self-driving consumer cars, on the other hand ..."
-publishedDateTime: 2022-06-16T23:11:00Z
-originalUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
-webUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
+excerpt: "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars."
+publishedDateTime: 2022-06-17T14:39:00Z
+originalUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
+webUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
+ampWebUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "teg41U2/ow5gcAwTXMdmtIAywvxdqcdpF2MyZ7RWZRFRJz4VBaqxDiJknZOgPwSb5VqwK2pxeVwmwNaIuiiLFQ4ln6ghRZ5GbicVAHRVSqGRuJFWKNklRU0mmh3HQ4IzDRZJxeYc5onkQqeDbcoDfiJXtQX8cfPN+WMi0sUf4waIGKrWmZ8tgscu1kwVYVF7sSv4URUftIqhat8cx3p1SC1BQ/rMbdU9whiQ+i8514pJJyJvNJH8EW0XFd/f74P+YgzUxjwVE6EI5nu9duN8Dq7nNwsuEQ2xNPhBvKaJ9/q19mJrDssEXAsdG+gaEhX0beZQZIMtzaU4VS0YH5qAtCLo/csgyrhzEi9cm0Ae/Lk=;nBpMIN1p/7YhI7oN02FBsQ=="
+secured: "NHEwPzroX4aHv9YV4H+OfpnudccEEePEBvM2tJOu9dPN6MsYtMcZJhfZLZuBqjtvenRI1ZSoKV61x6cFPq7hiTY1CzJ0CY4DXXZN09w0SRtWqyDlaURw4fCYsf9EpRtSqt6rEdcQrrAeJw/24ETIpo8NCvYzXhOtbjXxJ3URopdhf9fIHgHJ8GXFG3X+IMI+NHCF51gqHfRXLHiolEdgV3B9B6VBNm7+0cBdOtS1CfvS8t8tPnd8wdLSfqGdlnozqrVwjRRHqsSyrTzKvGR/qpx+NwaT/wvmVfikxfGkuMW0F2un/j0XYkWF/7VVZpVeXILSoGD3yyEsg+NnNOO08ctT2Yw01KgCC+/L1tUfoMQ=;WiqMOEk+ff2haqpDHSRF/A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cars.com/amp/articles/tesla-brings-back-enhanced-autopil
 cdnAmpWebUrl: "https://www-cars-com.cdn.ampproject.org/c/s/www.cars.com/amp/articles/tesla-brings-back-enhanced-autopilot-at-half-the-cost-of-full-self-driving-451181/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Jet-Packs, Self-Driving Cars, Wireless Charging Of Buses: Museum Of The Future, RTA To Showcase Latest In Mobility"
-    excerpt: "The Museum of the Future and Dubai's Roads and Transport Authority (RTA) have announced a new partnership to showcase future mobility solutions, from personal jet packs to self-driving cars. The partnership will showcase new solutions in advanced mobility at the 'Tomorrow,"
-    publishedDateTime: 2022-06-28T08:53:00Z
-    webUrl: "https://menafn.com/1104443821/Jet-Packs-Self-Driving-Cars-Wireless-Charging-Of-Buses-Museum-Of-The-Future-RTA-To-Showcase-Latest-In-Mobility"
+  - title: "Tesla Reportedly Lays Off 200 Autopilot Employees"
+    excerpt: "In early June, Tesla CEO Elon Musk reportedly told executives that Tesla needed to cut 10% of its staff, based on a \"super bad feeling\" about the economy. Now, as Tesla pares back its workforce, new reports are highlighting where some of those cuts are taking place."
+    publishedDateTime: 2022-06-29T15:00:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-reportedly-lays-off-200-autopilot-employees/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-reportedly-lays-off-200-autopilot-employees/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-reportedly-lays-off-200-autopilot-employees/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
+      name: CNET
+      domain: cnet.com
+    quality: 91
     images:
-      - url: "https://menafn.com/updates/pr/2022-06/28/KT_4dcf1image_story.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.cnet.com/a/img/resize/a6733534d3a0516b9621818e4cf8b5c7b7103cc8/2022/06/29/fbc4a995-8be5-45a1-ab52-23c6a2d76843/elon-musk-getty-1395371342-ogi.jpg?auto=webp"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "thqjkKWXw8p0O2dzOWPHTLNqBkE+6sG9jUwVFfk2eVoe5uQxg1o27X8xuLgBPPKdE38D/vf7NF5R6deaYJyYy5mEZTshZgGPgXDWSgcX6bwbrDJkf6u9MP+SrdFfdn3UzauyPIvE5jeSSx64EZ6gI555CuhAoLB5k2+aSMl2dvbJoAHsvG/piR5k2Nrm/3WXwzR+m7VqL65JXiHZojGeTWOS/Fd/gZ7FsOGpPrkvYymTy5H7MrfuMuiWBw5XKEvuWXXO+lm/X/AzEq+wrmKxBw9lKoMAKyLTbUArrESnlW1IDIuOJdeEjKTjsZMr+tNHi4x5O+xmulPHnmdbssTUo1McYWqFuzofHCeaQLHZn3nFupvg94o5nSibSNP6zd5WP/JbC/7jyASrX9hBz4sks3tFon/jDezZynM+xPFr5eARIaf0Bo8lQ7SuBTKRDhVPyIJOstnGWlYnKRWDaJShRsksTOunM/80l8gcg6xL017egXSUfbT3rtajPC4x/y6IW6RPlm/0mOZy7GMACLksSQ==;pfEJAr41fN7kHjIhv4/ZLA=="

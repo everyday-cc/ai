@@ -40,38 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI: The Somnium Files – nirvanA Initiative — Naix office puzzle solution"
-    excerpt: "Want to know how to solve the puzzle in the Naix president's office in nirvanA Initiative? We've got the solution in black and white."
-    publishedDateTime: 2022-06-24T22:31:00Z
-    webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/"
-    ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/amp/"
-    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-naix-office-puzzle-solution/amp/"
-    type: article
-    provider:
-      name: pcinvasion.com
-      domain: pcinvasion.com
-    quality: 56
-    images:
-      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220615234626_1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI: The Somnium Files – Nirvana Initiative — How to solve the Mizuki chapter 2 park puzzle"
-    excerpt: "The Somnium Files – nirvanA Initiative has another rough puzzle to throw your way. Once Mizuki finds a familiar corpse in the park, you’"
-    publishedDateTime: 2022-06-24T22:46:00Z
-    webUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/"
-    ampWebUrl: "https://www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/amp/"
-    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/ai-the-somnium-files-nirvana-initiative-how-to-solve-the-mizuki-chapter-2-park-puzzle/amp/"
-    type: article
-    provider:
-      name: pcinvasion.com
-      domain: pcinvasion.com
-    quality: 47
-    images:
-      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/06/20220618205430_1-Copy.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "+MN6IZZdIZwpWN7yS8FLPA/LCiOPWDST8Ijxcx1K9cadjF3/xytYRe9PXWbWOK7TuEQNT15ce8LILZ8aYLOpAa7kC763+ImXKytRiY9YZcROYC4jCX+uPsjnFALLchxfZvIHw9QkELQrGJ9CSS1p7mzWckP6Xxgl+MjvXE/sYQ7gZ88Qb66+/xQRrWygSH762iYQm7e4lR2T5Ftms3ycUVQCbDJR31gB1h/ccS7bXNniIURLMwYmRF6AZx5HibyGYwZkoBGLWmYgkQCsRTmZ5qnCq6t469Hq5Ljbl8w+qBnwI4l8aLkQEBsZJz1+ozr6TVRmm/gdpOptc7dvkl1X8o25k6Bf+w8hpz2Qwdn4Jvw=;P+MfZTrXBaMxDzkEIMnzhg=="
 ---

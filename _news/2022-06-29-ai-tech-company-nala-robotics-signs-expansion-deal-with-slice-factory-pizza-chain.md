@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T12:24:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Business Insider

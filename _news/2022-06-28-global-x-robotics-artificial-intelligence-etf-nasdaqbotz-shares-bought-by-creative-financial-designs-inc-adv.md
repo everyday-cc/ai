@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF declares quarterly distribution of $0.0677"
-    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) - $0.0677. 30-Day SEC Yield of 0.20% as of May. 31. Payable Jun 30; for shareholders of record Jun 27; ex-div Jun 24. To ensure ..."
-    publishedDateTime: 2022-06-24T19:41:00Z
-    webUrl: "https://seekingalpha.com/news/3851799-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-declares-quarterly-distribution-of-00677"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 53
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Acquired by Flagship Harbor Advisors LLC"
     excerpt: "Flagship Harbor Advisors LLC increased its stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% during the first quarter, according to its most recent filing with the Securities & Exchange Commission."
     publishedDateTime: 2022-06-25T09:56:00Z

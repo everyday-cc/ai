@@ -89,15 +89,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Databricks Releases Final Keynote Lineup and Industry Programming for 2022 Data + AI Summit"
-    excerpt: "Microsoft Azure, Prophecy, Slalom, Sisu, ThoughtSpot and more. About Databricks Databricks is the data and AI company. More than 7,000 organizations worldwide â€” including Comcast ..."
-    publishedDateTime: 2022-06-24T21:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262964&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 9
 
 secured: "HJebRD3XOQIQj74RY0rZPxaRFz96/xHi/bjnWDsDJc7G+DxgAMFXrCu8jV/vXeEHzP2lh7qKDw2/lVB1degJLsyPhHk8l0sq11StotUwnTSdxS/yVsvRixcabo2GpdfdMOXstV7IyYzIYNEzq4Hc4vJSbv2XdmxvwGcxJWut4r1N5H6L/we5vQK+xrAMcCi/ao6A27IgmWiTFZxqM2IUapCMKPrbv7/5LSE80nNJZm5HUHgsbJSsd2yo3kmJ78HAHLQbmhZjEoO1/mKxHRds448ByCnBygsKpBUvl/7zCCt57USGGaAXmfNwJ5d/vj5xSKIUdlswxCqC3ZTiYKF8IC3gOpW/CToMLHq1lRC0BZ4=;lgenxODO7NlpfEnDbI9/og=="
 ---
