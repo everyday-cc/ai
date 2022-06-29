@@ -5,8 +5,6 @@ excerpt: "Company also restricts use of custom neural voice technology owing to 
 publishedDateTime: 2022-06-22T15:20:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
 webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
 type: article
 
 provider:
@@ -23,12 +21,6 @@ topics:
   - Computer Vision
   - Microsoft AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "SbcE6bB06JSGWY4HOpAXZAFH9P5YxkmVdgKDg8wCtGlGP+/aJqfzXO3Ml6lODNDPDzI9gybPRVj2Tz1KheuFhSPm0imo4PBLRvD9SgHb0Jxli/wXewFiD5qN0+cKhaqlr9DfT3hEEdzsAh+FY8H5K6GdScTDX7FAVJU+cq3VwabIyKfUEkQx+cjQGruZHWaIEsRcq+Sk/CMZU0wA1lIAApu8ojm6uDi+Cl97nlHoKmwKl1oIzhPKqbgv3K/sb6yO6l9duEZlzAB32ShkLzLh8uhRxU+9TN9zGx0BUqWefoBF7plp4HyA5LUH3m4w67Rtd0Sf7XHX7MGaRjvTu+/5rMZlZAS/f9ii3ZGH+IPDKwQ=;qqjH08XnIpbzcrNV66Xyqw=="
+secured: "kvUMkAhhfryaVxNUmdukwjXjdA43BKTcrUFbuwwKhgS4nsJddVQ7RF3mEcafEACIgoVdynkMmv4EUreth59qSZM+7iyH0NhCN2xcQiNBj8eZJEflh2TxGlwPzjYYTkjbMbLm2jFzQxAQBLHvGy7tt9tuAUz/P2OoS0vjuZTV67zt9mFIXgcTjus73NcF2e5/EGZXHMpepAKzurPjsuHOQ0wsocbueemUepw9+sNilqRwIEMIYvm+Ib/kJBit6QIVBYtML5M1hJEQQzp73x9G0wEvDni6LvxsfV39o6d90NwX82ugGUHMKvPFK0Lsy8kmNEz6R4G3zlZ/q9i30prcjwGjKybvDaCCkfCY2fepGwk=;XY6NJwozq8MqZgOBxDF7pA=="
 ---
 

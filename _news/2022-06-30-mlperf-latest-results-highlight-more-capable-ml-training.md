@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2019/06/mlperf.jpg"
@@ -25,6 +26,6 @@ images:
     height: 540
     isCached: true
 
-secured: "+oEWkFRK33GIG4T9h+TMJ6SgqfK8Jl7CXdw1n+x2HuFq8I8qJMJsPvdm3QySBxP8711wbfaIU23qh+4SXMWp69g789X+tbNxPqor2JlvxdBdORYan5MoYu9f7keFZEkeMufeqS7aak4qSBzJvwtiHQGGJpG0TTbtYM/QcGBDu2BvqcQHFdZBqg4a+L3ARHx364HsnI7OcwP6Ekau7RjuaWyOlxVLTBUvk9PhoVc+jLkng1I0uL4UdBiRf/rfdLztD9AhRCFDcJZqO54BYc5tyiHM2Pk5ns3rqLCb3xcSQnyZfPVsMdS2dY5FKSL3MkGwqJ2HV1QFnzK9t6PjV3e55XVmwe+TW+llOsdZoOyGCp8=;WPYL+B7TMr8P0Z3li0k1tw=="
+secured: "qoSX0onXmN8HV1GhZDTVhf0zN/t1uJqYGpHsSGEsd8+p/S5fimzp/8sRomQAPoA2e0zB6NjCtvR0eI7Dj9UjNn9H9MNvIGAigwMvum1rg5agoAR0Sgl2qvxaXyBximW1pw0p7Q99HIMEiTJPepgLti4X2w8tgP4Wr8a8EHk+hRpWGX/QbyG+Lqaah8RCZiQl1AFbuq96fRgHzSIF7kG/vqUxggmzrGJFZ4XqHcbCetDZNBrT38+6MTbuH/nL9bgePukRswZE+d55Uy3FHwExkieQmqeNC9r16DLvNOx5Er4AxBvrN02BrmiRlzwA/72UTreFfAfoxSSiRDf2W3IpbIiA51xvzsmXsItZPGfsubUvVKxynjUYRtcb8DIi03uSYxUiycca7Ye12kpZIm98TadaRMwuPtSPQzPlwb0UqIbZuyiLmjK8DFCqy2YIwwJydJMfddc1z0IokinfulilVQjnkX0TbijM7am7lIaz4OrLJWcVNFNE4UaORNif3iG395gpDGH4ljuRMTWaCoqiQw==;pXbR7bl4arh5rK35ZHdQGw=="
 ---
 
