@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-16-a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease.md",
+      "title": "A Roche treatment fails to slow cognitive decline in patients with inherited form of Alzheimer’s disease",
+      "excerpt": "Roche reported negative results Thursday from a long-running clinical trial investigating an experimental antibody treatment in people born with an inherited form of early onset Alzheimer’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2022/06/16/a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease/",
+      "originalUrl": "https://www.statnews.com/2022/06/16/a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2021/12/AP7729632100000111-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best.md",
       "title": "Report: AWS, Azure and GCP evaluated for overall performance — which is best?",
       "excerpt": "Join AI and data leaders for insightful talks and ... The report evaluates the performance of AWS, Azure and GCP for common Online Transaction Processing (OLTP) workloads. Testing shows that ...",
@@ -1316,58 +1359,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-achieve-seamless-observability-with-dynatrace-for-azure.md",
-      "title": "Achieve seamless observability with Dynatrace for Azure",
-      "excerpt": "Microsoft Azure enables customers to host their apps on the globally trusted cloud platform and use the services of their choice by closely partnering with popular SaaS offerings. Dynatrace is one such partner that provides deep cloud observability, advanced AIOps, and continuous runtime application",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc185ce4-1b45-494d-9d04-1e533be6bc49.png",
-          "width": 1028,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T03:00:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

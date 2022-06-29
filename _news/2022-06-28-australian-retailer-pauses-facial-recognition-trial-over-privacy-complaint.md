@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Australian Retailer Pauses Facial Recognition Trial Over Privacy Complaint"
-excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
-publishedDateTime: 2022-06-28T10:10:00Z
-originalUrl: "https://www.ibtimes.com/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint-3554579"
-webUrl: "https://www.ibtimes.com/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint-3554579"
+title: "Australian retailer pauses facial recognition trial over privacy complaint"
+excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
+publishedDateTime: 2022-06-28T08:25:00Z
+originalUrl: "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075"
+webUrl: "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075"
 type: article
-quality: 52
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/28/the-logos-of-australian-electronic-goods-retailers-jb.jpg"
-    width: 1200
-    height: 775
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220628&t=2&i=1602869101&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5R04C"
+    width: 810
+    height: 522
     isCached: true
 
 related:
@@ -139,6 +143,6 @@ related:
         height: 413
         isCached: true
 
-secured: "8g1OeLLzZv+L8G0A17tgeQT9OJm7FM0CNzpvKiM4ix0q7MYxRo3+gnRYzSKG6zb2HegOo/zxahEmV3rcCNaMw8w0BYZYZRj1aMg2kXKIUNC71rI0zUbQlH0ORjKgtWEgTdySY1jC+oI6ZOZQQ67kpX8A3V6t5RvJQtjrgIriXtMcNsFkqJTXQX4NfwsRJqWBExclIxxyQRKKXMTUl0VDQEFgIXargqKqQER+o17mPtWRuH2xr75mY3T6mG4mhJwcmq6j2qrfhCwxMF3YR1vV15+3fDtPFBV+M88HFIwGfFMoIx+j42lqHFjI1g3Vv7H0euwUlaDCEKCyF/rOCnreYOOJxarOPixjLLwLiXPaL+iRj5gifmZR3Y22C25e9iu1IjzSB9XxpaoY6Q7ZsLDDMtUKYrWC+oBdMBVPSIljpr0BDBqI6ik/iZkgrpE7V1glKlhRVyjJqx6jghQ//Ab2+yEFdnZpV9s3IvmN53wR/pB6UiYjUaHrx00wgTbogXrWCs0RIArrLITs/FKkY/tRog==;Kfx/c0xlJCKCFLKRBzruqA=="
+secured: "NVH/Nui4DM8Jsc8Sa0HTrIUdYfResAIO/Up/BcBddU3rlT/NONZWpUUQ5biXJnfly2HpRkOAkn+jFtAhDQy/B5yOeI4qPpu4iBJkr86kU2cythLML4rno1OLXt3JnVjyy8E9iSWOpmcFq3BWBaQD9VmoAuta8T15fMMQBEEwCovg/wDp/ytCLO6JvdRcgu4xj1Wgg2v4Ay7ofJK2/E/fx3S3W4sPKl+EYz1irAcEscrueo7pCd/Nqhk4fZ1Ro1YBEp08hWEK2uHA6PN4g9OGDx8kzuNiwqfAkxsyGgYKcIn9CnyY6283+djYM9AyDOsC9mlUbibEUX0S9K/MbgbkEcxw4wJavE1UKnhxfrd/Qbo=;9Ub0dPregiAp3RhtiaKyCA=="
 ---
 

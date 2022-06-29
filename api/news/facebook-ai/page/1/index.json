@@ -342,6 +342,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-20-ais-hold-over-humans-is-starting-to-get-stronger.md",
+      "title": "AI’s Hold Over Humans Is Starting to Get Stronger",
+      "excerpt": "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76LPBSHQNQI6ZLAWR67XDFGNPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-19T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
       "title": "Why Artificial Intelligence remains a distant dream?",
       "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
@@ -1421,50 +1464,6 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-the-forgotten-margins-of-ai-ethics-a-paper-on-ai-ethics-with-teeth.md",
-      "title": "The forgotten margins of AI ethics - a paper on AI ethics with teeth",
-      "excerpt": "The field of AI ethics seems to generate more happy talk than potent ideas. It's rare to find an academic paper with real world teeth, but \"The forgotten margins of AI ethics\" stands out. Here's my critical review.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
-      "originalUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2015-09/Fotolia_85545935_Subscription_Monthly_M-e1540994230373.jpg",
-          "width": 701,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
-      "publishedDateTime": "2022-06-03T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
         "Facebook AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/heriot-watt-university-new-project-he
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/heriot-watt-university-new-project-helps-amazon-create-dataset-to-advance-multilingual-language-understanding-research/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Siberian Federal University: SibFU Student Has Taught Artificial Intelligence to Understand Sign Language"
-    excerpt: "Vladislava Zhukovskaya, a student of the School of Space and Information Technology at Siberian Federal University, has developed a method for recognizing Russian sign language gestures from video sequences,"
-    publishedDateTime: 2022-06-24T06:06:00Z
-    webUrl: "https://indiaeducationdiary.in/siberian-federal-university-sibfu-student-has-taught-artificial-intelligence-to-understand-sign-language-2/"
-    ampWebUrl: "https://indiaeducationdiary.in/siberian-federal-university-sibfu-student-has-taught-artificial-intelligence-to-understand-sign-language-2/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/siberian-federal-university-sibfu-student-has-taught-artificial-intelligence-to-understand-sign-language-2/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 42
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/03/highlight-campus-lib.jpg"
-        width: 970
-        height: 440
-        isCached: true
 
 secured: "zigF7/Zck8Lz9Ydq36UqJKJlqVgfBHJvgJKUX4oFCA+g8taRlCZ37zvNP0CqRq2ONIvtv28+X3sLfGj9Y0aPy1fIdYbL1KueKTCCurqcc6EhbFyhNhKsxy5HSoNrnBytaiR1mzRqDxS6BSPxj8KgQhXffr2eNfpRWG7XQEFWd1ERyNU3rV+vhEimXZRtEF0vk5gwI8hzWl3Hiya4JMzh6ECPcHvgrCj2JgyH4ei1MKIdGhuAmEh1C/2dVV0+QwXtsTjfSALaNZF/SuEqqPuJNZpOKNGpORVw9NQnwvHmGzuRyc8AiJefQ1JmZvExpaff7H1G45bhfaODkv9iWva6zufQfn6Has+Dt2raMXQomJyrQM128UHx4tdXF+sJg9c8DEeMWyFGxXTIblrCblNmKZNTHe3See85gMjlEnY6NWn1rhXCTmIXeNOzGBp4Ydog3kaKEFoYk6T8PpXbC+Pd56T41mmiv4uFzYnefv+EISNAAm6EMjJdpxMnHyU7DqR8oyWOYu98yRJhizeXGvmBzQ==;AMiD0JXXVQe81jJHhXUAaw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Brain-machine interface helped a man with paralysis feed himself using robotic arms"
 excerpt: "People with arm paralysis might easily feed themselves in the future.  University-led researchers have developed a new technique that let a partially paralyzed man feed himself using robotic arms connected through a brain-machine interface."
 publishedDateTime: 2022-06-28T04:38:00Z
-originalUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html"
-webUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html"
+originalUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html?src=rss"
+webUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html?src=rss"
 type: article
 quality: 78
 heat: 118
@@ -78,6 +78,6 @@ related:
       domain: medindia.net
     quality: 19
 
-secured: "6KOv7/sv/aAZTR9fG9+w8Ff+llX8COaD84gFm8c5pU4pPPNpf3G09+SZA0PJZZ5THGoO4mjvOsMGnB7efWlMBICoJMdqVVeCjrgVRxwTRWvaCESTL/YwQKUtkmSMZA5+5K/R2bty5dv6q5rUThUENUlQdIU3THmdlSJjP7qsM6g82Q4cJWY0kuq0T/6m8UOBJfw0CNXZxkgGWB5YwfbClNKNSYafPgsoMTFnB1MIT+d2AhF1Qg7hCwh/9IqTqz7V2F7SHpI709WII7HN0lUhYTt0/9WDgZ2V39R9GYJMkUn8Vt6/STOxpT4KRZtIrbXZvOq83zAWXGlG/yCIIIpr8NtD+FNUYRUccSYdRLvwKlVBI0nHEhAAzLzLi3IE7Bkg/AyTicr1gt3HFjJN5f+x3DSh6Dwxv31ixzEpATswDEP16OJkGNd+vgho4KC6DW1vuI2bRtJh6iztk3VPA7uUQuKlzMBSELn+snHuZjE/lOVQdZwD6mLZPQNY623OTovmsfuoYGl4U1ydVAOfMynCkA==;pJUhzsCUBGBCS+73CrMkWg=="
+secured: "XuiA7xTHDzxQXbx9A15IPTodGdts6bQMndNYAV5+yTC8HDLeLKYrDYdv+FO26v6YJwlRWvCM9BJLdyd+0lpzEZruLuhXK8u0+3IXiay9lO0bOSxg3y3uLmv/G90B9VjbMV3V0sqRb1gQhajPY964/B7s0NWiApGcUtZvOkrRSrjiMHiyQBsZHpHf0yTaiHL9sDgErqUCCS4zXK9pQTk6DajL9RRq7UE9z3Mpjzoo/QWtSr8Kqq5RxLlifg0xpJxmdfPisNa0l2gkf/cd9Wo5N2t4hepSBYyczd5Ax+pmHoDGQC4gSPHsykddCKjAxl60kiOYFUAFFX4i0zFehQKmo6R4ZP7c2nXSOKgswoBNG80=;UP3v9xS03Zk5x2NBWE3eew=="
 ---
 

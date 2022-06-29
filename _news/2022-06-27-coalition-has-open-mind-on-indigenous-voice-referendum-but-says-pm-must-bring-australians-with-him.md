@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australian retailer pauses facial recognition trial over privacy complaint"
+    excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
+    publishedDateTime: 2022-06-28T08:25:00Z
+    webUrl: "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220628&t=2&i=1602869101&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5R04C"
+        width: 810
+        height: 522
+        isCached: true
   - title: "Australian chain store pauses facial recognition trial"
     excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
     publishedDateTime: 2022-06-28T06:53:00Z
@@ -118,20 +132,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "Australian Retailer Pauses Facial Recognition Trial Over Privacy Complaint"
-    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
-    publishedDateTime: 2022-06-28T10:10:00Z
-    webUrl: "https://www.ibtimes.com/australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint-3554579"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/28/the-logos-of-australian-electronic-goods-retailers-jb.jpg"
-        width: 1200
-        height: 775
         isCached: true
   - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
     excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."

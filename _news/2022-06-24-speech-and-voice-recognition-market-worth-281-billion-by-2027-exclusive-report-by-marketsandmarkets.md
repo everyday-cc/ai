@@ -42,15 +42,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Cognitive Computing Market Analysis by Type, Application, End-User and Region 2032"
-    excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
-    publishedDateTime: 2022-06-24T05:56:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/24/cognitive-computing-market-analysis-by-type-application-end-user-and-region-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
   - title: "Global Industrial Robot Market Report 2022: Industry Set to Reach $61.09 Billion by 2026 - ResearchAndMarkets.com"
     excerpt: "Analysis By Industry, By Type, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2026” report has been added to ResearchAndMarkets.com’s offering. The global industrial robot market in 2021 was valued at US$33."
     publishedDateTime: 2022-06-28T11:47:00Z
@@ -61,6 +52,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "/ND49/jaxc9jbqQd3fzVhZ+YUB3G77Ez3SqbyAmRgdjd+v8v14pZ5nbSs6o30lylpd2EE9n5hmDV5a0NEDM+QXsMv4T89Vto3l+VER1HbmHb5pHw+wNm5TyNjbh0XUk/n7zuZO6M1Y1RzNWNcfukLGe3BlhykxpfQwlE6I67TH4FhA8eRxEEcd9rB1WoFvOmy8mun1l7yhEF79LyKgQO+6d6LWmhlhoyRve5zIu04muBMwjjtycly6QsusG/6q8YUX15PSTyD/5Be2AZ5QQwrKvp132MnWl2l5qY4nmpG4EWNTe2mbj108EbceJyyat5PMQPoJhzQh/jg+qpJlIE2MdT4i5vensQjaxohqQ36uo=;VjpRHWusLf+XbsZ4eo1EkQ=="
+secured: "Samhe+9RiQiZbHiO8DPCWJqK4UbIoBQ3qaEcWKnHiN1JoSZnWhnQEEziHBDY2KW9Jta2ty9RqYUGtQl/FnIPKykKBIUQ6+AR7iEtJVyDVt5lEfdbBUE33GCJCBJvDu2x1RrG5Px+2FQQQT3pHS2SFkuUAz7eE+4UHQHevd9YXAleDCJTFRqVEIk6sOt5BRyu2gcoqGdWkxhqRPxye3aTjB68ZiEW3cnTjmv/8vj4MxuRyosH6NyYsGBkb1NupB5BryzaU3BvHtOa3m5eVq189tC/W2DlxdnWzaO4I+ytCfKhG2rUSuLnJNCrgM8OSI8Ws7cQ5bAs7J03+svkZYvJBGNhBUir8I5dRdUQSDuM94M=;epyQNvxnLpKRsdZ57XMNgg=="
 ---
 

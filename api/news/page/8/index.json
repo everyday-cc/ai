@@ -2,6 +2,136 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-21-solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-human-machine-interfaces.md",
+      "title": "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces",
+      "excerpt": "The embedded GPU also adds value for its advanced AI inference execution processing capabilities, which clock in nearly six-times faster than what is possible with Cortex-A53 processor-equipped ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27788702",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788702",
+      "publishedDateTime": "2022-06-20T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "Losing one AI ethics board might be unlucky, but two is surely careless given the ethical hot water the company has found itself in lately. 10/04/2019 EC lists seven requirements for ethical AI A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.chitra.live/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
+      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
+      "excerpt": "As the Official Technology Partner of The Championships for the past 33-years, IBM continues to accelerate innovation at Wimbledon and improve",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg",
+          "width": 400,
+          "height": 258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk.md",
       "title": "Aurrigo heads to Alnwick for Self-driving rural first for the UK",
       "excerpt": "Local residents enjoyed the opportunity to attend ‘The Great Self Driving Exploration’ on June 19 and 20, where they took a closer look at self-driving vehicles, asked questions and even enjoyed a ride. These trials are the first time that self-driving ...",
@@ -1005,135 +1135,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo.md",
-      "title": "Speech Recognition Software Market Is Booming Worldwide with IBM, Dolbey, Voxeo",
-      "excerpt": "The latest study released on the Global Speech Recognition Software Market by AMA Research evaluates market size, trend, and forecast to 2027. The Speech Recognition Software market study covers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Abortion-rights-supporters-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-robotics-ai-innovation-is-the-way-forward.md",
-      "title": "Robotics & AI – Innovation is the way forward",
-      "excerpt": "The latest edition of ET UNWIRED in association with NTT DATA included Thomas Normark, Global Head of AI & Robotics, NTT DATA Business Solutions, Denmark, Vikas Desai, Chief Technology Off - Mediawire",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/msid-92332662,width-640,height-480,resizemode-7/unwired-ntt-28th-april-800-x-600.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
-      "publishedDateTime": "2022-06-20T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-ais-hold-over-humans-is-getting-stronger.md",
-      "title": "AI’s hold over humans is getting stronger",
-      "excerpt": "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
-      "originalUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/06/Google_AP_1.jpeg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
-      "publishedDateTime": "2022-06-19T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Next big thing in the future of finance: Fintech revolution"
-    excerpt: "Fintech has changed the lives and habits of people by making it easy to trade, bank, exchange money, take loans without the need for physical human interaction. Innovations and revolutions are what the technology"
-    publishedDateTime: 2022-06-24T05:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-1-7.png"
-        width: 487
-        height: 375
-        isCached: true
   - title: "How Are Fintech Companies Helping MSMEs Increase Customer Reach"
     excerpt: "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ..."
     publishedDateTime: 2022-06-27T05:51:00Z
@@ -48,34 +32,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1656308376-joshuva-daniel-U4OS-GimdXA-unsplash.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Adyen: FinTech Titan, Fairly Valued With A Huge Moat"
-    excerpt: "Adyen N.V. is a Dutch multinational payments company which serves leading companies such as; Facebook, Spotify, Microsoft, and more. Read more about ADYEY here."
-    publishedDateTime: 2022-06-27T15:55:00Z
-    webUrl: "https://seekingalpha.com/article/4520520-adyen-fintech-titan-fairly-valued-with-a-huge-moat"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2022/6/26/55230498-1656252847202421.png"
-        width: 640
-        height: 238
-        isCached: true
-  - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
-    excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
-    publishedDateTime: 2022-06-27T06:47:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/digidoe-a-uk-based-fintech-launches-operations-in-qatar/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
-        width: 600
-        height: 500
         isCached: true
   - title: "The future of fintech"
     excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
@@ -105,6 +61,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Fintech firm takes space at Liverpool’s Spine"
+    excerpt: "Having a fast-growing, leading UK Fintech brand located within the Sciontec AI space at The Spine will not only add to the dynamic ecosystem here, but it will be a driver for even greater job creation,"
+    publishedDateTime: 2022-06-28T07:10:00Z
+    webUrl: "https://www.placenorthwest.co.uk/fintech-firm-takes-space-at-liverpools-spine/"
+    type: article
+    provider:
+      name: Place North West
+      domain: placenorthwest.co.uk
+    quality: 24
+    images:
+      - url: "https://www.placenorthwest.co.uk/wp-content/uploads/The-Spine-LCC-p.Inform-Comms.jpeg"
+        width: 1024
+        height: 777
+        isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine"
     excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
     publishedDateTime: 2022-06-28T07:03:00Z
@@ -119,34 +89,6 @@ related:
         width: 578
         height: 325
         isCached: true
-  - title: "Constrafor Builds Construction Financial Automation Around Fintech Solution"
-    excerpt: "This construction software vendor is starting with a fintech proposition for advance payment loans and building operations software around it."
-    publishedDateTime: 2022-06-28T14:16:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/apps/article/22301532/construction-fintech-comes-first-in-constrafor-software-product"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 22
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/06/coi_bi.62bb086697426.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 996
-        height: 641
-        isCached: true
-  - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
-    excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"
-    publishedDateTime: 2022-06-28T05:00:00Z
-    webUrl: "https://www.thebusinessdesk.com/northwest/news/2099738-fintech-provider-signs-sciontec-deal-at-the-spine-as-part-of-huge-jobs-drive"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 21
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/jun_22/The-Spine-workspace-e1656344065506.jpg"
-        width: 1116
-        height: 744
-        isCached: true
   - title: "The pain of KYC in fintech"
     excerpt: "KYC is not just an important part of regulatory compliance – it's one of the hardest parts of an app's customer flow to get right, writes Tim Strebkov."
     publishedDateTime: 2022-06-26T08:00:00Z
@@ -156,15 +98,6 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 19
-  - title: "Franklin Templeton Selects First Startup to join inaugural Franklin Templeton Singapore FinTech Incubator"
-    excerpt: "Franklin Templeton, one of the world's largest independent asset managers, today officially opened its first Asian FinTech incubator in the heart of Singapore. The new Franklin Templeton Singapore FinTech Incubator is a joint incubation program for early-stage FinTech startups in partnership with F10 Global Innovation Network Singapore Pte."
-    publishedDateTime: 2022-06-28T09:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/28/9629322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "xMOhXDbi6fAf3awbQrdrp2E06gnHbxx+/g3vO0IQe99wnv1+NAbBrLqEfqHfbTXhal5oAXbF6pnQPK9PJoaP9IlG28xGO3OlnIX8UssRKjBi+eJLl0TuwfWcZpnBOHtTTidXP6+kxeZhmUY//wnTbR4bwug+xBfaWB43mow9Ojt9MTHAc4BzicnCaCeO2wsygTEoWLTcRnoROT9SRtUTlNsJvWYZpVJee7D0bnQmSXJu8CAcPUVrxNTXZDNLbZSSw9pqcKnOyK1WimCFR1OuRZ3Ya2QaFcMf+CJj041XhRD0qzXIJEfE1gUc6Vl/S/VhISVSS2g2M44wjsRsFTqd0h0EQOiHg0J/ipLvbOUjIdLXmCgdF2d9gilzzYdqAJsAf5s4z4YBaKyhjGLuxc8/7f75cDcIMlKozPhWGenZo6CA5NjNEDwAic2P/9pIVmm+RVTjkXOqkRa9VBGSgLGwkyE1FiXmpmfWRjkOBrZ8FvelvBRpYKsbKZqrtdbnlhiCROEFObJnlvPLGzgWm5q0mA==;hpOGCh7ygybcLRzjxxca6A=="
 ---

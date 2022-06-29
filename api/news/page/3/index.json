@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-25-on-crm-viva-adds-to-microsofts-organized-chaos-of-apps.md",
+      "title": "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps",
+      "excerpt": "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/",
+      "publishedDateTime": "2022-06-24T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-robots-become-racist-and-sexist-bigots-due-to-flawed-ai-study-says.md",
+      "title": "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says",
+      "excerpt": "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "originalUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg",
+          "width": 2000,
+          "height": 1718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "publishedDateTime": "2022-06-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-how-to-use-human-centered-ai-with-forethought-and-nea.md",
       "title": "How to use human-centered AI with Forethought and NEA",
       "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,",
@@ -206,6 +311,41 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-zscaler-zs-adds-aiml-capabilities-to-zero-trust-exchange.md",
+      "title": "Zscaler (ZS) Adds AI/ML Capabilities to Zero Trust Exchange",
+      "excerpt": "Zscaler ZS recently announced the addition of new artificial intelligence (AI) and machine learning (ML) capabilities to its zero-trust security solution — Zscaler Zero Trust Exchange (“ZTE”). With this update,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/zscaler-zs-adds-ai-ml-capabilities-to-zero-trust-exchange",
+      "originalUrl": "https://www.nasdaq.com/articles/zscaler-zs-adds-ai-ml-capabilities-to-zero-trust-exchange",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/zscaler-zs-adds-ai-ml-capabilities-to-zero-trust-exchange?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zscaler-zs-adds-ai-ml-capabilities-to-zero-trust-exchange?amp",
+      "publishedDateTime": "2022-06-24T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1070,136 +1210,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-are-babies-the-key-to-the-next-generation-of-artificial-intelligence.md",
-      "title": "Are babies the key to the next generation of artificial intelligence?",
-      "excerpt": "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp",
-      "publishedDateTime": "2022-06-23T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-system-on-chip-market-to-surpass-valuation-of-3178-billion-by-2031-tmr-study.md",
-      "title": "System-On-Chip Market to Surpass Valuation of $ 317.8 Billion by 2031; TMR Study",
-      "excerpt": "The system-on-chip market share has grown steadily in recent years from the application of the technology in hyper scale data centers, automotive",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
-      "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
-      "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
-      "originalUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fcomputer-chip-brain-cells.jpg&signature=a0ea842bb93c94d62b1ec2f299347e26",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

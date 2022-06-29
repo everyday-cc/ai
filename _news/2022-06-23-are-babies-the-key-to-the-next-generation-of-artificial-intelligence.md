@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1920
     isCached: true
 
-secured: "KD18gS9tTxN0W2T9N9EjPQsBvo+kShCTdwMkyx3uLi0NfFp5iOZUNCfwu3niCXgKUY6d3w289bREZ6YPit5eClX5d/+s5F8XQevqV30fVef3fJMLvZc+q++f7rxaJkwoEKYgRHRWDXs7liC0Ds35My5oJo7srWOySVRmA/Pj3KQ9rmieselxq/UMUWPPuo1yYhp/BZGqXgQKGArRyae30Bb3hZZ5NzV+YIlhZBd9fJ7+iymrmciyDjdcss6Y5iDVW+N+8W7/SphlsEd07A6shXKZw5/c6tr/Z/Q1gpqdHFDwFWSt7epZq1xKVeZ0S3U+RTAinaIrJIknCKu42I2c6pw5AEZgsf85tFuOoSkmFmk=;lSaNcfTsm6sS6s9LJlEPRA=="
+secured: "ieVmWsYXxG6uE+3tEGeeGF5YMdalwg9msx3lo+48YdoywDNDMHjjdGZDpfsteguwXuQGKYkER3FKJu3iTI/Xcupzi8kB9BspTNgtymeT1UHyF1wsVhuvX3wiUl0LT2HCnrC5PnikwBwhMgVWnptm0vDyqfsShKE4Lk6piVkITTdI7H1wkkcBhh57NPIEGaipAyIHCwU7E7NXE+EQ9J2GPgcXlGMyhNalYN9upgvHZQF6c5+Y8MHln+Vm36WjrLxadWoyLEHuJ2sdaWO6hNaRCYuAGQTNC39CGP/80oB/vwoibxh72h+ICJk/o3iY/een0xiaZKKo06QFF5Hoy75Zjh8AaFO67tgjkcM/q/0OCM9rVs96a91UaGB6e30fRySQaD0vrmgcJa+xkCUo/fmKAZaUWzkVCe/3tihPXjGYlzmROBtx/ff8g7HP0Sjr+JQnGXJKIZN7RJzPpPX3sdpzc9B0+ZYZ/6EhmjeFnugqW/hPuRISaxZATvJB1Q9VAGIdBwmBl+mHAWXU5DBAPJ+DIg==;dzePy+XOKuCsp0sVjjyPrg=="
 ---
 

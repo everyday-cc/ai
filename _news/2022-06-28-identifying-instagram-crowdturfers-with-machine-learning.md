@@ -106,6 +106,20 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "It's Time To Talk About Instagram's Age Recognition Technology"
+    excerpt: "Instagram is working to make browsing safer for younger users through facial recognition software and other age verification methods."
+    publishedDateTime: 2022-06-28T23:54:00Z
+    webUrl: "https://www.slashgear.com/910919/its-time-to-talk-about-instagrams-age-recognition-technology/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 54
+    images:
+      - url: "https://www.slashgear.com/img/gallery/its-time-to-talk-about-instagrams-age-recognition-technology/l-intro-1656456555.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Instagram testing facial scanning tech for kids to verify ages, lawmakers cry foul"
     excerpt: "“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less ..."
     publishedDateTime: 2022-06-24T20:49:00Z
@@ -135,20 +149,6 @@ related:
       - url: "https://media.khou.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Instagram to test artificial intelligence on faces to verify users are over 18"
-    excerpt: "Starting in the US, Instagram will be accepting video selfies, which Meta will submit to the identity verification company Yoti."
-    publishedDateTime: 2022-06-24T05:27:00Z
-    webUrl: "https://gulfbusiness.com/instagram-to-test-artificial-intelligence-on-faces-to-verify-users-are-over-18/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 33
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2022/06/brett-jordan-fmqhTMu4IVU-unsplash.jpg"
-        width: 921
-        height: 620
         isCached: true
   - title: "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found"
     excerpt: "By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-"

@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-  - title: "Natural Language Processing (NLP) Market Size 2022 Future Trends, Global Top Leaders, Growth Factors, Development Strategy, and Forecast till 2028"
-    excerpt: "Natural Language Processing (NLP) market provides industry overview, segment by application, sales growth rate comparison by type, size estimates by region, competition by manufacturers ..."
-    publishedDateTime: 2022-06-24T06:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-size-2022-future-trends-global-top-leaders-growth-factors-development-strategy-and-forecast-till-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Google-cybercrime-AFP-1K-01-e1638923704870-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in BFSI Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027"
     excerpt: "Global Artificial Intelligence in BFSI Market (2022-2027) research report offers in-depth analysis on market size,"
     publishedDateTime: 2022-06-24T10:40:00Z

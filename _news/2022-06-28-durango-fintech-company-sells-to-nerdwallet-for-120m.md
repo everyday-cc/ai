@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
+    excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
+    publishedDateTime: 2022-06-27T06:47:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/digidoe-a-uk-based-fintech-launches-operations-in-qatar/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
 
 secured: "iXKPCsHZGg2En3oqQKprV9sg1QLevj819eekaHiKpKEaZhY+iYLV/zDJpnUIIOf/E+F+FWWxjXj1hJdbbmWCvrlMCpUau+36qW/ilmqqAZO6qEN2SxRa2UM5qVxSeNyBrzDM8IK6CjMH05VZHgd2zp7Ho1QnSsxe8H12+4/PjoPhJl41IZ+Gankwzra8SrDjHOBCc5Kk+5IdcPfCjTsDdxYqfLjabkXVZ8Uwp4cjm+5JyzNk9OdreRjhn/hIEYohAZ4dYZlOliD8fjTypHBt8kFUKuafT441Aqs33RM9JmGxsOfTe5QDIe///6kWsELeC9Xdvmres3cBlMEFz2I67ySHpGMdD//cpGBRVPV0mGjDhc9ZlQ3rDHc3Q5N3I9u/zpxFHvYx5bV72MA5CVVzc86BEpMh76UI+/gZvbsk4Q3dldA0p9q7IPyIXneF+mfwH2Mta/K4Cf3RQq7wekPJQckuktFalIyqRcRhaXKMVHGwTpTPXDPKFmsYoc8oZzRgQuCBplt+XvrhM6m3Egbi8g==;OPfE65PegAhnccdJQWCxvg=="
 ---

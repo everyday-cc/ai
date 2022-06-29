@@ -7,8 +7,8 @@ originalUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft
 webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: The Peninsula
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
+    excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
+    publishedDateTime: 2022-06-27T06:47:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/digidoe-a-uk-based-fintech-launches-operations-in-qatar/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Durango fintech company sells to NerdWallet for $120M"
     excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."
     publishedDateTime: 2022-06-27T20:07:00Z

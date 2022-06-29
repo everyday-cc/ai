@@ -41,6 +41,15 @@ related:
         width: 320
         height: 229
         isCached: true
+  - title: "UK should immediately ban use of live facial recognition, warns report"
+    excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
+    publishedDateTime: 2022-06-28T23:13:00Z
+    webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
     excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
     publishedDateTime: 2022-06-27T19:29:00Z

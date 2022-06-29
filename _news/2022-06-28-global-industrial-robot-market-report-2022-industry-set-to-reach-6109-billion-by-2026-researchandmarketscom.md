@@ -42,15 +42,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Cognitive Computing Market Analysis by Type, Application, End-User and Region 2032"
-    excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
-    publishedDateTime: 2022-06-24T05:56:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/24/cognitive-computing-market-analysis-by-type-application-end-user-and-region-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
   - title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
     publishedDateTime: 2022-06-24T14:22:00Z
