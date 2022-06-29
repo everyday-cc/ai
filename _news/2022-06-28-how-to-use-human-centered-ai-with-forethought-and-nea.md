@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: TechCrunch
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to use human-centered AI with Forethought and NEA"
-    excerpt: "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,"
-    publishedDateTime: 2022-06-24T15:38:00Z
-    webUrl: "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/"
-    ampWebUrl: "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/TCL-2022-06-29-featured-1920x1080-1.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "How to use OpenAI Playground, the viral tool that lets an AI write nearly anything for you"
     excerpt: "When you make your OpenAI account, you're given a credit of $18 to start with. Considering that the AI only costs about six cents per 4000 characters generated, that $18 should last you an incredibly long time. After three months, the free credits will expire."
     publishedDateTime: 2022-06-24T17:21:00Z

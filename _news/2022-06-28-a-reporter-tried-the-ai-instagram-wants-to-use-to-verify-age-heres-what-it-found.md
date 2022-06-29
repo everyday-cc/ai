@@ -1,25 +1,25 @@
 ---
 category: news
 title: "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found"
-excerpt: "By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-"
+excerpt: "CNN By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. M"
 publishedDateTime: 2022-06-27T23:30:00Z
-originalUrl: "https://krdo.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
-webUrl: "https://krdo.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
+originalUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
+webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: KRDO
-  domain: krdo.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://krdo.b-cdn.net/2022/06/hypatia-h_ddb2ed82f2acf3cc6634dfa323c057de-h_345cbbfeb56d75741c3eed4796efa7c5-300-scaled.jpg"
+  - url: "https://kesq.b-cdn.net/2022/06/hypatia-h_ddb2ed82f2acf3cc6634dfa323c057de-h_345cbbfeb56d75741c3eed4796efa7c5-300-scaled.jpg"
     width: 2560
     height: 1543
     isCached: true
@@ -173,6 +173,6 @@ related:
       domain: wwaytv3.com
     quality: 11
 
-secured: "YNbBBiSCkXJRzF07Pe58V3fdeMREeLH/d8QPPEgQd1q5N7aTQ+qebwtskd5B2onV+Y/qbaOTxr1o1qoal4VWB1NCYnP8O6gvgY3VcVXrdK7drHQV3z001T1pcbfFW9TqsixDeQkei6dyOKuSlsoIHAKAeaBLlWlcRPK7kBOBw/atEKyMGDvpMYQi5P/QHQn/ptDhpIThfuF+jQf9qyYNHtY+RA/r96P1QCi6XNyQGPHbj8nxyzJX/JPeTxYZcQlJqp6yHii9DtpYahWCzKGJ2+RTPgp5PhlUYzz0qTHnR9T9APcavw6ct8whTQPSWYOsybgWf1bXrAeSkUjcqIvaDXt96/4NDfFeL3k6GiODOHs=;52tD0pkwKwwcPnDH8NM3Qg=="
+secured: "lpBnkndXe4AUiYyQWv3rR4EDhYYJlWtBMgrDpdvLZFkkK7hEY2SkaFfJsYzrSFNNCVYawP1P2jjYkWKVBnt+LjMKso9WBmEgfMUxzunLDSAKcNShPC7/P6LoWAKn8q+YirgYmBDhmYqhy+sBR0EjlOM1UEXfQ2bi2AxHmvk4x/96AGwrQuZCNteLRvKMe8h3XrrmXETJA59xJ79sNDNKYPy/ENeEQFM1lbHySOuR7y84STVl2DQKYuU6w591NJ3i3gl03+iY1rqf7MZYWbwj34k+2c1uL0BjkImp/DNT1YePzqXzp75r9N+n+Tv6a5Jfj8fJD11n9nvIClsTUKm5/uDEBNiyzkHgZW0anAJZEeU=;4AEFByafDfPP5rXcAcjQPw=="
 ---
 

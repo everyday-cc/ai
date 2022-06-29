@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "SoundHound AI (NASDAQ:SOUN) Shares Gap Up to $3.20"
+    excerpt: "SoundHound AI, Inc. (NASDAQ:SOUN – Get Rating)’s stock price gapped up prior to trading on Monday . The stock had previously closed at $3.20, but opened at $3.32. SoundHound AI shares last traded at $3."
+    publishedDateTime: 2022-06-29T08:54:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/29/soundhound-ai-nasdaqsoun-shares-gap-up-to-3-20.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
   - title: "DMI and SoundHound Partner to Bring Conversational Intelligence and Connected Vehicle Solutions to The Automotive Industry"
     excerpt: "DMI, a global digital transformation services company, and SoundHound,a global leader in voice artificial intelligence, today formally announced at Reuters Events Automotive Europe 2022"
     publishedDateTime: 2022-06-28T14:43:00Z

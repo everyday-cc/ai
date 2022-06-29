@@ -7,7 +7,7 @@ originalUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft
 webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
+    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 38
+    images:
+      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
     excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
     publishedDateTime: 2022-06-27T06:47:00Z

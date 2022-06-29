@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/cloocus-recognized-winner-2022-mi
 webUrl: "https://www.asiaone.com/business/cloocus-recognized-winner-2022-microsoft-country-partner-year-second-consecutive-year-0"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,70 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps"
-    excerpt: "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365."
-    publishedDateTime: 2022-06-24T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/"
-    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft is removing emotion recognition features from its facial recognition tech"
-    excerpt: "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state."
-    publishedDateTime: 2022-06-27T19:12:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna35087"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 102
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
-    excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
-    publishedDateTime: 2022-06-28T12:28:00Z
-    webUrl: "https://www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 51
-    images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2022/06/shopping-cart-with-pill-foils-copy-space.jpg"
-        width: 1024
-        height: 551
-        isCached: true
-  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
-    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
-    publishedDateTime: 2022-06-27T11:25:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 38
-    images:
-      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "wXsR9Lu2XGQbtAZwiW7oh/ZJz9FpfnOsAypPPtKmCrm1YFwMqaqVcR5t//smZFl5p9jO2mbb/VwLEtw35zV1es9NZrt7kwd42QTIAFvRMNg5O7/9TvyFYOqadi4XzCTFG9XQs/hQemN9zUxiJ8S7/Vz1eR0BpkTNykVmr7QrcQtAL4RljZt9FwklQ6vW3gIWdVfFipo0rK7JqDbUfocVKdDA71/af7XBkrzzhUwnOnoK/Y3jpaOCcS84lpBS7OmmJ6EzJ3GbrzCelH04AbZwiDGV0AWwjI0Oc9HEh/yAwuLwO1zs3NXG/p/1NVBFCEE1CwHyvG+z3vuiCjMLMnNsi/G/+nWVsJyWhSV2ib4go8kDVICK0vQHAFnQTE6YME9pxdcri5tpk6DRqpqdKx0HokK7CrdOyqdwR8N6Oog+6jZQ5eyAycTS3aF5sLCMOn0guOuSgIse/2n+nUyjXXuvrnH2DP8kt2qvzHXWewYER7owwzVEvBeNix4ANJp2fosX3KSabXY4/kWmEG6jFQ8axw==;3SerN8MySnDB5Fu57dYQkw=="
 ---

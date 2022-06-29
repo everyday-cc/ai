@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps"
-    excerpt: "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365."
-    publishedDateTime: 2022-06-24T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/"
-    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft is removing emotion recognition features from its facial recognition tech"
     excerpt: "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state."
     publishedDateTime: 2022-06-27T19:12:00Z
@@ -61,33 +45,56 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
-    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
-    publishedDateTime: 2022-06-27T11:25:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
+  - title: "Microsoft Limits Public Access to AI-Powered Facial Analysis Features"
+    excerpt: "Fran Mendez discusses event-driven or asynchronous APIs, comparing AsyncAPI with OpenAPI/Swagger, AMQP/MQTT/Kafka with HTTP, and publish/subscribe with request/response. Lola Priego, Jose del Pozo ..."
+    publishedDateTime: 2022-06-26T07:16:00Z
+    webUrl: "https://www.infoq.com/news/2022/06/microsoft-azure-responsible-ai/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 38
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
     images:
-      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://res.infoq.com/news/2022/06/microsoft-azure-responsible-ai/en/headerimage/generatedHeaderImage-1656053489141.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year"
-    excerpt: "Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the Year Award."
-    publishedDateTime: 2022-06-28T21:00:00Z
-    webUrl: "https://www.asiaone.com/business/cloocus-recognized-winner-2022-microsoft-country-partner-year-second-consecutive-year-0"
+  - title: "The Good Guys pauses facial recognition trial"
+    excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
+    publishedDateTime: 2022-06-28T20:38:00Z
+    webUrl: "https://www.itnews.com.au/news/the-good-guys-pauses-facial-recognition-trial-581959"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 17
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/image_1_91.jpg?itok=4NRJZiWv"
-        width: 600
-        height: 337
+      - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
+        width: 1138
+        height: 774
+        isCached: true
+  - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
+    excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
+    publishedDateTime: 2022-06-24T18:09:00Z
+    webUrl: "https://menafn.com/1104428195/Microsoft-To-Phase-Out-Public-Access-To-Controversial-Facial-Recognition-Tool-Breezyscroll"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+  - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
+    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
+    publishedDateTime: 2022-06-26T20:30:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-xbox-cloud-gaming-keyboard-mouse-support-and-latency-improvements-facial-recognition-platform-curbs-and-more"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 25
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
+        width: 1365
+        height: 768
         isCached: true
 
 secured: "7kAGdrL4qXKbAX/mjuAyyWjgYCSaiN+ScXAMRTVEWLxG18vfc9D5r5JCUg70g0Aq86NvDnp4YOWOUmkCYLGmAibjP1U+5CUF2v5YpCsfWL9i6cLZ8gnWN9AiBDSwb7eDtQAzgQ9SdZoVBOH0xJJMR6RE4Y3UeAXqDrYNmferZSVARckuwQ3gDk0Vy9XABTrLuTlgpzVq3g6pJTVPAMOvq4tJ1RLLutkflYBzh0V3WNbhOTK+XYBaOBjfTmKp5JQfFMrm+uSk6ipjQA1zpAjXC4WKPSaHOivMV/rRqC83QNBH+WgqODqv3SPnRbINEMYwXcZ7nFwF7K969a+UqL8Ujz0T3kd9r5bO7M45WNdDUCrtaJW/kPjt9WZk9Jo9xwxkDpSzAdf24lzdewylrfy2/+psLa0RSFTrIMXwxYwD0exSjaXuduaAdnEA78LAgujQqCFi6mMqZnGCLihJGj7uw4Jo41Da9BsLv15A9H+q7cenT/Sm7K8bCeTB2rPRJ9tbGmgSYxhqvvz/t7p+vSvZxQ==;8lqnhUgn+aaDYEGJ8JV+3g=="

@@ -68,15 +68,20 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Lentra acquires AI startup TheDataTeam to accelerate digital lending platform business"
-    excerpt: "Pune-based digital lending cloud platform Lentra AI has acquired Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness."
-    publishedDateTime: 2022-06-28T13:22:00Z
-    webUrl: "https://analyticsindiamag.com/lentra-acquires-ai-startup-thedatateam-to-accelerate-digital-lending-platform-business/"
+  - title: "Lentra Acquires AI Startup TheDataTeam to Accelerate Digital Lending Platform Business"
+    excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness based on their unique financial journey."
+    publishedDateTime: 2022-06-28T12:58:00Z
+    webUrl: "https://financialit.net/news/lending/lentra-acquires-ai-startup-thedatateam-accelerate-digital-lending-platform-business"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 9
+      name: Financial IT
+      domain: financialit.net
+    quality: 29
+    images:
+      - url: "https://financialit.net/sites/default/files/lentra.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "JuUUCB9J/CcKUHjCQpPkL4Gj3ht5Oxlod3rBLH/tRyEKILJtw4NChZio7vyb1zxvk3DE3K3xFuWisGRbY04qhSPOPiJuM1YTm4UtOakBtQ3tZmtZqUgmXn3TBr5lS6wBHTq/ucb4A/vLgPB4KVujFuBG2LyebZsh9gvTJwLECIeGpBld9XCiC9RECxQlsaCYZxBbcBbGUy3GG8jZnk2db2lZCF6dLAqLGiDxqTOCDQspC4OPvdx5BEvlgh9+WjbSNBa+E6liaWaAlrqK62YzQau+L9MlMp0CRH5PSWAfo6PohOox7DhQ6INMgbjN+jflFplzzv063dtK56M8EiCJTp0NlYOGluYVNm5xVETHX6qJo1PzG9t+H5sJwJE9AiEyq/sR+oXA60aqJBu0S03FD6vXbaC2gT17cVaeug2tRcmTYqnTg7emEMOJs4Ciqkhd/5D6Qv3ffGfQW19Avx3s11lQ+NlP7XiJxm+TnoGLsW/BqfnHlqERJFb+5xhfFJYuAFc8vndpS0Qwql+LwQErzA==;CFZjyTOv3LiBlns0xU+1Rg=="
 ---

@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-22-qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices.md",
+      "title": "Qualcomm unveils 'AI Stack' portfolio to unify mobile, car, IoT and other devices",
+      "excerpt": "Qualcomm says the new version of its technology eases portability of machine learning models across the plethora of hardware offered by itself and its customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
+      "originalUrl": "https://www.zdnet.com/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ea097126a1829a1d8e65a5940a6239fca8c80705/2022/06/22/c621399a-264e-4684-a8f5-33f6558a2ace/ai-stack-hero-image.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
+      "publishedDateTime": "2022-06-22T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform.md",
+      "title": "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform",
+      "excerpt": "\"Sinequa is differentiating itself through its use of deep learning (artificial neural networks), by applying multiple deep learning models to provide more accurate and relevant search results ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence.md",
+      "title": "Qualcomm Launches Unified AI Stack For Cloud To Edge Intelligence",
+      "excerpt": "The new Qualcomm AI Stack lays the foundation for domain-specific SDK’s . While advances in AI accelerators have improved silicon performance by over a thousand-fold, it’s sof",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab51cdac057dbfb68819cd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/",
+      "publishedDateTime": "2022-06-22T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers.md",
       "title": "IKEA rolls out an AI-powered interactive design experience for shoppers",
       "excerpt": "IKEA is launching a new AI-driven interactive design experience called IKEA Kreativ for IKEA.com and the IKEA app. With the new feature, U.S. customers can design and visualize their own living spaces with digitalized furniture on their smartphones instead of traveling to the",
@@ -495,6 +633,60 @@
       ]
     },
     {
+      "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
+      "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
+      "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "publishedDateTime": "2022-06-22T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-why-growing-organizations-should-consider-voice-ai.md",
       "title": "Why Growing Organizations Should Consider Voice AI",
       "excerpt": "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity.",
@@ -921,194 +1113,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-22-say-hi-to-proteus-amazons-most-advanced-warehouse-robot-yet.md",
-      "title": "Say hi to Proteus, Amazon’s most advanced warehouse robot yet",
-      "excerpt": "Amazon has unveiled its first fully autonomous mobile robot. While it looks very much like a robot vacuum, Proteus is designed for transportation not cleaning.",
+      "path": "_news/2022-06-22-self-driving-trucks-could-be-on-us-highways-by-2023.md",
+      "title": "Self-Driving Trucks Could Be On U.S. Highways By 2023",
+      "excerpt": "Self-driving trucks could be on Texas highways as early as 2023 due to lax autonomous vehicle regulations in the Lone Star State. The Texas Department of Transportation is taking a collaborative ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
-      "originalUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/amazon-proteus-robot.jpg?p=1",
-          "width": 800,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp",
-      "publishedDateTime": "2022-06-21T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-adelaide-city-council-votes-against-purchasing-facial-recognition-software-for-city-security-cameras.md",
-      "title": "Adelaide City Council votes against purchasing facial recognition software for city security cameras",
-      "excerpt": "Police have refused to speculate whether they would invest in facial recognition software after Adelaide City Council voted unanimously not to include the technology in new security cameras being installed across the CBD. Adelaide City Council is due to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
-      "originalUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485",
-          "width": 587,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/101172924",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101172924",
-      "publishedDateTime": "2022-06-21T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-data-connectivity-services-play-a-vital-role-of-business-growth.md",
-      "title": "Data Connectivity Services Play a Vital Role of Business Growth",
-      "excerpt": "The 5G technology market includes 5G connectivity technologies such as enhanced mobile broadband, ultra-reliable low latency communications, and massive machine type communications. In fact, 5G technology is expected to redefine communication,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/22/9626501.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/22/9626501.htm",
+      "webUrl": "https://www.gizmodo.com.au/2022/06/self-driving-trucks-could-be-on-u-s-highways-by-2023/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/06/self-driving-trucks-could-be-on-u-s-highways-by-2023/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-uncovering-links-between-grit-and-cognitive-function.md",
-      "title": "Uncovering links between grit and cognitive function",
-      "excerpt": "Gritty people may be more able to self-regulate and show 'cautious control' -- but don't necessarily have greater cognitive ability, according to a new study. A new analysis of the personality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-ai-improves-cancer-treatment.md",
-      "title": "AI improves cancer treatment",
-      "excerpt": "The medical world has been making progress in fighting cancer for decades.  Although we’re not likely to eradicate the disease in our lifetimes, many types of cancer (there are more",
-      "sourceUrl": null,
-      "webUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/",
-      "originalUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
       "images": [
         {
-          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/06/Capture81.png?w=1280",
-          "width": 510,
-          "height": 219,
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/06/22/f9d39a0d05ca7d786b3af2fbc0ab988e.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1116,13 +1135,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/",
-      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/",
-      "publishedDateTime": "2022-06-21T15:20:00-07:00",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/06/self-driving-trucks-could-be-on-u-s-highways-by-2023/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/06/self-driving-trucks-could-be-on-u-s-highways-by-2023/amp/",
+      "publishedDateTime": "2022-06-21T22:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WGHP",
-        "domain": "myfox8.com",
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1132,6 +1151,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

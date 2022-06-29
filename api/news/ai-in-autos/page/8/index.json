@@ -2,21 +2,21 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-04-06-aurora-werner-enterprises-testing-self-driving-tractor-trailers.md",
-      "title": "Aurora, Werner Enterprises testing self-driving tractor-trailers",
-      "excerpt": "Aurora Innovation announced on Wednesday that it had initiated a self-driving truck pilot test with Werner Enterprises. According to the report, Aurora's self-driving system, named Aurora Driver,",
+      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
+      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
+      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
       "sourceUrl": null,
-      "webUrl": "https://www.teletrader.com/aurora-werner-enterprises-testing-self-driving-tractor-trail/news/details/57638486",
-      "originalUrl": "https://www.teletrader.com/aurora-werner-enterprises-testing-self-driving-tractor-trail/news/details/57638486",
+      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ttweb.net/News/images/251217.jpg?preset=w800_q70",
-          "width": 800,
-          "height": 450,
+          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.teletrader.com/amp/news/details/57638486",
-      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/57638486",
-      "publishedDateTime": "2022-04-06T07:50:00-07:00",
+      "ampWebUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "cdnAmpWebUrl": "https://inews-co-uk.cdn.ampproject.org/c/s/inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "publishedDateTime": "2022-05-11T06:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "teletrader.com",
-        "domain": "teletrader.com",
+        "name": "i",
+        "domain": "inews.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,36 +45,36 @@
       ]
     },
     {
-      "path": "_news/2022-04-05-logistics-giants-hedge-their-bets-in-uncertain-us-self-driving-truck-race.md",
-      "title": "Logistics giants hedge their bets in uncertain U.S. self-driving truck race",
-      "excerpt": "TUCSON, Ariz., April 4 (Reuters) - U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither ...",
+      "path": "_news/2022-05-11-brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car.md",
+      "title": "Brands matter: Why trusting an existing brand can lure you into buying a driverless car",
+      "excerpt": "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/logistics-giants-hedge-their-bets-uncertain-us-self-driving-truck-race-2022-04-04/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/logistics-giants-hedge-their-bets-uncertain-us-self-driving-truck-race-2022-04-04/",
+      "webUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brands-matter-why-trus.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T21:52:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
+      "publishedDateTime": "2022-05-11T06:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -88,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-04-heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations.md",
-      "title": "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations",
-      "excerpt": "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,",
+      "path": "_news/2022-05-11-lightly-promises-faster-food-for-ai-models-after-3-million-seed-round.md",
+      "title": "Lightly Promises Faster Food For AI Models After $3 Million Seed Round",
+      "excerpt": "“Data is food for AI,” observed Andrew Ng, the artificial intelligence guru who co-founded Google Brain and led Baidu’s AI group. However, there’s a problem implied by the analogy. Artificial intelligence systems do indeed need data to function ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239aa5f2d68c629702662a8/0x0.jpg?format=jpg&width=1200",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627a4f1fab77fe5b38d75a76/0x0.jpg?format=jpg&crop=2931,1374,x0,y281,safe&width=1200",
           "width": 1200,
-          "height": 1200,
+          "height": 563,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,9 +110,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
-      "publishedDateTime": "2022-04-04T03:51:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T23:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -135,103 +135,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-04-04-focus-logistics-giants-hedge-their-bets-in-uncertain-us-self-driving-truck-race.md",
-      "title": "FOCUS-Logistics giants hedge their bets in uncertain U.S. self-driving truck race",
-      "excerpt": "U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither are their biggest potential customers.",
+      "path": "_news/2022-05-11-the-problem-with-self-driving-cars.md",
+      "title": "The problem with self-driving cars",
+      "excerpt": "The question was never about automating driving. The question is about how to transform the transit experience.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
-      "originalUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
+      "webUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race?amp",
-      "publishedDateTime": "2022-04-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended.md",
-      "title": "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended",
-      "excerpt": "The difference in these cases is that neither Cruise or Waymo are relying on a human to remain continually watchful for danger. Their systems have been developed to a point where regulators are ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/",
-      "originalUrl": "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://hackaday.com/wp-content/uploads/2020/10/teslafsdmain.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-algorithms-could-disrupt-our-ability-to-think.md",
-      "title": "AI algorithms could disrupt our ability to think",
-      "excerpt": "We already know AI-powered apps diminish our privacy. If they also diminish our human agency, that could have serious consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
-      "originalUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/shutterstock_635238704.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 798,
+          "height": 850,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -239,9 +162,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
-      "publishedDateTime": "2022-04-03T06:20:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-10T20:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -264,1109 +187,10 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy.md",
-      "title": "Xinhua Headlines: Gen Z's love of Guochao bodes well for Chinese economy",
-      "excerpt": "Wang Junwen thought he could easily snap up a fuzzy Winter Olympics mascot toy at a recent online pre-sale but all the products were",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272446689/xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272446689/xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-02T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-amazons-deepracer-league-drives-chicago-students-into-world-of-ai-machine-learning.md",
-      "title": "Amazon's DeepRacer League drives Chicago students into world of AI, machine learning",
-      "excerpt": "Students on Chicago's South Side got a deep dive into the world of artificial intelligence and machine learning on Saturday. \"We're using machines and learning to code a car then racing it,\" said student Trevaughn Scott.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "originalUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11703938_40222-maher-amazon-deepracer-students-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "publishedDateTime": "2022-04-02T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-emerging-ai-technologies-in-higher-education.md",
-      "title": "Emerging AI Technologies in Higher Education",
-      "excerpt": "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education",
-      "originalUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "publishedDateTime": "2022-04-01T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses.md",
-      "title": "Beijing strengthens policy support for road testing of autonomous buses",
-      "excerpt": "Beijing unveiled regulations for trial implementation on Thursday to provide policy support for the upcoming road tests of autonomous buses, local authorities said. Beijing will allow road tests of its first batch of eight autonomous buses from three tech enterprises — Baidu,",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses/",
-      "originalUrl": "https://www.macaubusiness.com/beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png",
-          "width": 516,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-the-dangers-of-not-aligning-artificial-intelligence-with-human-values.md",
-      "title": "The Dangers Of Not Aligning Artificial Intelligence With Human Values",
-      "excerpt": "I speak to Brian Christian, author of 'The Alignment Problem – How AI Learns Human Values' about how we still face some significant hurdles when it comes to building machines that are truly capable of thinking and acting like humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62468a610c6dc8f419eac76b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "publishedDateTime": "2022-03-31T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-neuron-based-computer-chips-neuroscience-meets-artificial-intelligence.md",
-      "title": "Neuron-based computer chips: Neuroscience meets artificial intelligence",
-      "excerpt": "Neuroscience meets artificial intelligence. Cortical Labs’ “brain on a chip” may change the field of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "originalUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://console.kr-asia.com/wp-content/uploads/2022/03/Cortical-Labs-chief-science-officer-Brett-Kagan-and-co-founder-Hon-Wen-Chong.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "publishedDateTime": "2022-03-31T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kr-asia",
-        "domain": "kr-asia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
-      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
-      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/03/31/kenya-internet-poa",
-      "originalUrl": "https://www.euronews.com/next/2022/03/31/kenya-internet-poa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/wires/841/56/8415664/1000x563_jj5six.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-why-is-baidu-bidu-stock-down-today.md",
-      "title": "Why Is Baidu (BIDU) Stock Down Today?",
-      "excerpt": "Baidu operates the largest internet search engine in China, and in recent years, has become heavily involved in other technologies, including self-driving vehicles and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "originalUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "publishedDateTime": "2022-03-31T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
-      "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
-      "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "originalUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "publishedDateTime": "2022-03-31T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
-      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
-      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
-      "originalUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
-      "title": "Are We Ready To Transform Lives With AI?",
-      "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/423551",
-      "originalUrl": "https://www.entrepreneur.com/article/423551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1648708439-Myproject141.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymo-expanding-self-driving-car-operations-to-downtown-phoenix.md",
-      "title": "Waymo expanding self-driving car operations to Downtown Phoenix",
-      "excerpt": "On March 30, officials with Waymo announce they are expanding their self-driving car operations in Phoenix, years after they began self-driving car operations in a part of the East Valley. FOX 10's Linda Williams reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox10phoenix.com/video/1052039",
-      "originalUrl": "https://www.fox10phoenix.com/video/1052039",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox10phoenix.com/video/1052039.amp",
-      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/1052039.amp",
-      "publishedDateTime": "2022-03-30T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 10 Phoenix",
-        "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chinas-baidu-exploring-options-after-us-delisting-risk.md",
-      "title": "China's Baidu exploring options after U.S. delisting risk",
-      "excerpt": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "originalUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "publishedDateTime": "2022-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymos-self-driving-cars-are-coming-to-downtown-phoenix.md",
-      "title": "Waymo's self-driving cars are coming to downtown Phoenix",
-      "excerpt": "The autonomous car company has already been operating its self-driving vehicles around the East Valley for years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "originalUrl": "https://www.12news.com/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.12news.com/assets/KPNX/images/7b3c006d-a483-4340-8e5c-9b34900ab441/7b3c006d-a483-4340-8e5c-9b34900ab441_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.12news.com/amp/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "publishedDateTime": "2022-03-30T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymo-expands-self-driving-car-trials-to-san-francisco.md",
-      "title": "Waymo Expands Self-Driving Car Trials to San Francisco",
-      "excerpt": "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
-      "originalUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00sHEbCBZPkX4vW3zeodaKj-1.fit_lim.size_1200x630.v1648664014.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true",
-      "publishedDateTime": "2022-03-30T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymo-begins-fully-driverless-robotaxi-rides-in-sf.md",
-      "title": "Waymo begins fully driverless robotaxi rides in SF",
-      "excerpt": "Waymo has started giving fully driverless robotaxi rides to its employees in San Francisco. The company also announced its plan to open up its robotaxi service in downtown Phoenix. This morning, an all-electric Jaguar I-PACE picked up a Waymo engineer on their way to work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/waymo-begins-fully-driverless-robotaxi-rides-sf/",
-      "originalUrl": "https://www.therobotreport.com/waymo-begins-fully-driverless-robotaxi-rides-sf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-waymo-to-expand-autonomous-vehicle-rides-to-san-francisco.md",
-      "title": "Waymo to expand autonomous vehicle rides to San Francisco",
-      "excerpt": "SAN FRANCISCO (AP) — Waymo’s self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/",
-      "originalUrl": "https://www.seattletimes.com/business/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-lotus-eletre-suv-revealed-with-hidden-self-driving-tech-tesla-doesnt-use.md",
-      "title": "Lotus Eletre SUV revealed with hidden self-driving tech Tesla doesn't use",
-      "excerpt": "The Eletre is slightly longer than a Ford Explorer, but only has two rows of seats. It’s equipped with a 600 hp all-wheel-drive system that Lotus says will be able to accelerate",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
-      "originalUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/03/720/405/lotus-5.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp",
-      "publishedDateTime": "2022-03-30T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-video-teslas-new-full-self-driving-technology-still-a-work-in-progress.md",
-      "title": "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress",
-      "excerpt": "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the",
-      "sourceUrl": null,
-      "webUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "originalUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.kelownanow.com/files/files/images/tewtes.jpg",
-          "width": 828,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "cdnAmpWebUrl": "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "publishedDateTime": "2022-03-29T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kelowna",
-        "domain": "kelownanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-it-doesnt-miss-a-trick-artificial-intelligence-beats-eight-world-champion-bridge-players-at-their-own-game.md",
-      "title": "It doesn't miss a trick! Artificial intelligence beats EIGHT world champion bridge players at their own game",
-      "excerpt": "But the Microsoft co-founder will be eating his words this week, following the news that an artificial intelligence ... including self-driving cars. 'As AI progresses, a central challenge is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/03/29/10/55943063-0-image-a-69_1648545333179.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/amp/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10663209/amp/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
-      "publishedDateTime": "2022-03-29T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-really-isnt-all-that-intelligent.md",
-      "title": "Artificial intelligence really isn’t all that intelligent",
-      "excerpt": "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
-      "originalUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
-      "publishedDateTime": "2022-03-29T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-beats-eight-world-champions-at-bridge.md",
-      "title": "Artificial intelligence beats eight world champions at bridge",
-      "excerpt": "Victory marks milestone for AI as bridge requires more human skills than other strategy games An artificial intelligence ... as health and engineering. Self-driving cars negotiating a junction ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "originalUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=620&quality=85&auto=format&fit=max&s=96b559e5e97e6b4eb1d1e90d48241536",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "publishedDateTime": "2022-03-28T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars.md",
-      "title": "Crafting Ethical AI That Monitors Unethical AI And Tries To Deter Bad AI From Acting Up, Useful Even For Exalted AI-Based Self-Driving Cars",
-      "excerpt": "Let's use Ethical AI to oversee unethical AI, though this can be tricky and care is needed, which is illustrated via examples in the advent of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-28T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-teslas-head-of-ai-is-on-sabbatical-and-people-are-worried.md",
-      "title": "Tesla’s head of AI is on sabbatical and people are worried",
-      "excerpt": "Elon Musk announced that Tesla’s head of AI, Andrej Karpathy, is on a four-month sabbatical, and people are worried since other Tesla execs have left after going on sabbatical. It comes as Tesla expands its Full Self-Driving (FSD) Beta to Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/",
-      "originalUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/",
-      "publishedDateTime": "2022-03-28T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
-  "nextPage": 9
+  "nextPage": null
 }

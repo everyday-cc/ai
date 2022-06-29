@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-25-flawed-ai-makes-robots-racist-sexist.md",
+      "title": "Flawed AI makes robots racist, sexist",
+      "excerpt": "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/957065",
+      "originalUrl": "https://www.eurekalert.org/news-releases/957065",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7667c6ad-9eb3-4059-bf6d-ab9842d2fbc4/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-how-ai-is-quietly-revolutionizing-the-back-office.md",
+      "title": "How AI is quietly revolutionizing the back office",
+      "excerpt": "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
+      "originalUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/",
+      "publishedDateTime": "2022-06-24T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-ai-powered-video-platform-salesroom-comes-out-of-stealth.md",
+      "title": "AI-Powered Video Platform Salesroom Comes Out Of Stealth",
+      "excerpt": "\"You’re talking too fast; consider slowing down.\" That's a statement you’d expect coming from a mentor or friend. But they’re computer-generated prompts designed to help someone trying to sell a product via video call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/",
+      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b62578551931f3067a1f15/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/amp/",
+      "publishedDateTime": "2022-06-24T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-deepracer-machine-learning-platform-offers-a-fun-way-to-learn-ml.md",
       "title": "DeepRacer machine learning platform offers a fun way to learn ML",
       "excerpt": "MARS event spotlighted cutting edge technologies, including machine learning, automation, robotics and space exploration. Machine learning, in particular, has seen advanced by leaps and bounds recently,",
@@ -55,7 +200,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -445,40 +590,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-24-speech-and-voice-recognition-market-worth-281-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-24-cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers.md",
       "title": "Cruise’s driverless autonomous cars start giving rides to paying passengers",
       "excerpt": "The milestone comes after Cruise received official approval from the California Public Utilities Commission in early June to operate driverless in a commercial capacity. Initially, Cruise’s ...",
@@ -581,6 +692,49 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-speech-and-voice-recognition-market-worth-281-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1029,146 +1183,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator.md",
-      "title": "Dall-E Mini: What You Need to Know About the Bizarre AI Art Creator",
-      "excerpt": "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "originalUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/",
-      "publishedDateTime": "2022-06-23T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco.md",
-      "title": "GM Cruise takes first fares for paid driverless taxi in San Francisco",
-      "excerpt": "GM’s autonomous driving division, Cruise, has begun its paid driverless taxi service in San Francisco and officially took its first fares last night. Cruise’s program is still quite limited ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/",
-      "originalUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/cruise-bolt-2000.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/amp/",
-      "publishedDateTime": "2022-06-23T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-10-smart-artificial-intelligence-ai-stocks-to-buy.md",
-      "title": "10 Smart Artificial Intelligence (AI) Stocks to Buy",
-      "excerpt": "Artificial intelligence (AI), for all of its futuristic elements, is not a new category – not by a long shot. The roots of the technology go all the way back to the late 1950s, when computers started to become much more powerful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
-      "publishedDateTime": "2022-06-23T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

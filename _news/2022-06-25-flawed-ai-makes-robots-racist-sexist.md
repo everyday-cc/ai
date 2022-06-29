@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/news-releases/957065"
 webUrl: "https://www.eurekalert.org/news-releases/957065"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: EurekAlert!
@@ -25,21 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says"
-    excerpt: "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ..."
-    publishedDateTime: 2022-06-24T16:03:00Z
-    webUrl: "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989"
-    ampWebUrl: "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1"
+  - title: "Can artificial intelligence and democracy co-exist?"
+    excerpt: "Some people see artificial intelligence as a danger to democracy; others see it as a huge opportunity. Researchers and experts explain how algorithms and big data are deployed in Switzerland ..."
+    publishedDateTime: 2022-06-25T08:30:00Z
+    webUrl: "https://www.swissinfo.ch/eng/sci-tech/can-artificial-intelligence-and-democracy-co-exist-/47672584"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 104
+      name: Swissinfo
+      domain: swissinfo.ch
+    quality: 39
     images:
-      - url: "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg"
-        width: 2000
-        height: 1718
+      - url: "https://www.swissinfo.ch/resource/image/47508400/landscape_ratio16x9/1920/1080/3bfef1262dbfa735dba900639cbe80e6/9630F4438D50626D182DA9CBBB9AF5E3/bot-dog_twitter-check.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Internet data produces a racist, sexist robot"
+    excerpt: "The AI-based robot developed significant gender and racial biases, gravitating more towards men and white individuals while drawing conclusions about occupation after a glance at their face."
+    publishedDateTime: 2022-06-24T19:47:00Z
+    webUrl: "https://gcn.com/emerging-tech/2022/06/internet-data-produces-racist-sexist-robot/368602/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2022/06/24/GettyImages_543194863/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Artificially intelligent robot perpetuates racist and sexist prejudice"
+    excerpt: "Virtual robot run by artificial intelligence acts in a way that conforms to toxic stereotypes when asked to pick faces that belong to criminals or homemakers"
+    publishedDateTime: 2022-06-27T16:38:00Z
+    webUrl: "https://www.newscientist.com/article/2326129-artificially-intelligent-robot-perpetuates-racist-and-sexist-prejudice/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/27161237/SEI_111293227.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Does AI make robots racist? - study"
     excerpt: "A new study found that a robot operating with a widely used, internet-based artificial intelligence system consistently prefers men over women, white people over people of color, and jumps to ..."

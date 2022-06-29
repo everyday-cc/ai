@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Exclusive-Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources"
-excerpt: "Baidu, whose businesses range from internet search to electric vehicles, with expansion into cloud services, robotaxis and autonomous driving in recent years, has tapped Bank of America (NYSE ..."
-publishedDateTime: 2022-06-15T11:06:00Z
-originalUrl: "https://www.investing.com/news/stock-market-news/exclusivechinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources-2837246"
-webUrl: "https://www.investing.com/news/stock-market-news/exclusivechinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources-2837246"
+title: "EXCLUSIVE Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources"
+excerpt: "Baidu, whose businesses range from internet search to electric vehicles, with expansion into cloud services, robotaxis and autonomous driving in recent years, has tapped Bank of America (BAC.N ..."
+publishedDateTime: 2022-06-15T10:19:00Z
+originalUrl: "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/"
+webUrl: "https://www.reuters.com/technology/exclusive-chinas-baidu-talks-sell-majority-stake-video-streaming-firm-iqiyi-2022-06-15/"
 type: article
 
 provider:
-  name: Investing.com
-  domain: investing.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6Q0X6_L.jpg"
-    width: 800
-    height: 577
+  - url: "https://www.reuters.com/resizer/guPLU9seqwgSD6LVw04iCxt0V6g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4EGMJWOEKZL7RHK4KSSRBGTUQA.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "jAM7p3ASZaAMZs7viv5KCw5dWybZdYWUL3za8wIqser+ddVr/LRyC6v5NnoQqx2Ct3l92aShMtWsWaRZIUf5daS3+JJDJ+Wk6gj/hmoJbdyjj2zpT7IdeMNN9WMSpWNdg0oS2u/e5VyzHu2BBKVSxuJVRwuZESZ2R3E3QcL6OHcf4VTsXt3BrahblEAQe20kCUwKN7py1xNgwDtS14k7Qi3Vz8Z+hWwEXP5GPwppscatA1tshu5rRBBRFYe8FuPQxWcmwJwjdIhWwizOgF/e/oTSCcP2R8uEGeyrQ4KYC3XBhpTwBqVDxtM50AMdzNV9dspav/JpmbFCjDrHwt0BIhjtZmmzspcyuWr6xbEcoqA=;KrpVEbYqzB4D+YmG/8rKHg=="
+secured: "3sK1zCO5etbJHvLPTYNkOFdCcpi11m756sVXLFozXYcaV3s33+gOb/r2SL6aQYjW0wBFLnNsms9+wMNEfqpC/R1wmMM5GjZH8Ds74+wk9IdKtAsTWP9RYrLdJOQ/ydPmQHBiN/YQXxjZ2SaqbBEKR4fC7KHqLhqArzfBoALQp14PBmNtHd5YrxBathA5o7I/pSBxWIkoATGMUu0sUhVmqKa2mwIyAjchObCHYHDe1q60Gr7cTO26H6vJ7UPEJddLskc6UgNWiQcljXePZzpmtNNpI1XKbFj7nyFVpl7UYATUV92+bDmB83uezqmpuYWRhFUkuVKC6PlxHIuH0OzGAmue76vfpHdyzvcRneQd558=;AZSj93PUFV7S2lHWRE+ZCQ=="
 ---
 

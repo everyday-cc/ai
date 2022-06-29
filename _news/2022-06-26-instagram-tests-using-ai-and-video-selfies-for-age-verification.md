@@ -149,16 +149,16 @@ related:
         height: 700
         isCached: true
   - title: "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found"
-    excerpt: "By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-"
+    excerpt: "CNN By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. M"
     publishedDateTime: 2022-06-27T23:30:00Z
-    webUrl: "https://krdo.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
+    webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: KESQ News
+      domain: kesq.com
     quality: 33
     images:
-      - url: "https://krdo.b-cdn.net/2022/06/hypatia-h_ddb2ed82f2acf3cc6634dfa323c057de-h_345cbbfeb56d75741c3eed4796efa7c5-300-scaled.jpg"
+      - url: "https://kesq.b-cdn.net/2022/06/hypatia-h_ddb2ed82f2acf3cc6634dfa323c057de-h_345cbbfeb56d75741c3eed4796efa7c5-300-scaled.jpg"
         width: 2560
         height: 1543
         isCached: true

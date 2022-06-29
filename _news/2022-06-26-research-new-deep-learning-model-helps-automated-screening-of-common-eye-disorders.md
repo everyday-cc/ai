@@ -50,22 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 46
-  - title: "New deep-learning model helps the automated screening of common eye disorders"
-    excerpt: "Automation in disease diagnosis is reliant on deep learning models that can accurately and efficiently identify measurements of tumors, tissue volume, or other sorts of abnormalities. Now, researchers from Tohoku University have unveiled a new,"
-    publishedDateTime: 2022-06-24T15:07:00Z
-    webUrl: "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-mode.jpg"
-        width: 466
-        height: 402
-        isCached: true
 
 secured: "Wlh4mKdAH6W+vZGvE0RdDvXSBXTyI6m+fyK5kk6XlHN1fyM+6Ci9arM1JEkJhN0nzM7nUqaEEJiCDU/VcbBozBQcx75xQX+o8Zytb71OE0LmN+5Hi69Z0wvx55oBt8maeq2z2KkDU0BQPOul9C8TXJRuYmdBTdmZs6PlIW6oGwkYDTeL/1QIEYkoRWyUMNb+2e3+bguxqn3+qDNLig8M6hBWnxJTR0HFYpIvh2z0kN8AmKrbuap6Px7354XCCfi+Hk9MuEiCzMPhNZVsurq/596728Qr9VGBZU3qxalXQaAohYmjOSKzzxLNfEIXVEypjBfo4QJdt7cB3uQCrxSpKYEu4KLsAnMF2ko6TUvcDicZslvBJnO/4Ff2n9AiJLll5hVu2F1t3wqEVHsSZxR1dabVgEpsymXEvVKSLALnBwmOrhELsImTmckc5sLRnohYgX7FZN1iVDJgkZeasEpLmGJoTHdH/5FvaESd7SR7tjuE+emEy9/GRtUcTrW8/sxTfzdmX6gL0JEg9NCY8UceUQ==;mNVQvAT0CHDJIffG2RVO+Q=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-29T07:30:00Z
 originalUrl: "https://analyticsindiamag.com/language-aligned-datasets-are-the-rate-limiter-for-ai-progress/"
 webUrl: "https://analyticsindiamag.com/language-aligned-datasets-are-the-rate-limiter-for-ai-progress/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/language-assigned-datab-sets.jpg"

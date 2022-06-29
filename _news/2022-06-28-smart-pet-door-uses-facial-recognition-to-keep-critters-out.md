@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
 type: article
 quality: 89
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "The Good Guys pauses facial recognition trial"
-    excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
-    publishedDateTime: 2022-06-28T20:38:00Z
-    webUrl: "https://www.itnews.com.au/news/the-good-guys-pauses-facial-recognition-trial-581959"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
-        width: 1138
-        height: 774
         isCached: true
   - title: "Russia uses its facial recognition system to show reporters who’s the boss"
     excerpt: "A report by the pro-free press International Press Institute indicates that the government is following journalists critical of the Kremlin in Moscow."

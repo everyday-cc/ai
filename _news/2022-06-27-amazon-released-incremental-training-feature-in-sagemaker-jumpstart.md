@@ -55,34 +55,6 @@ related:
         width: 1996
         height: 998
         isCached: true
-  - title: "Manage AutoML workflows with AWS Step Functions and AutoGluon on Amazon SageMaker"
-    excerpt: "Running machine learning (ML) experiments in the cloud can span across many services and components. The ability to structure, automate, and track ML experiments is essential to enable rapid development of ML models. With the latest advancements in the field of automated machine learning (AutoML), namely"
-    publishedDateTime: 2022-06-24T16:12:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/manage-automl-workflows-with-aws-step-functions-and-autogluon-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/manage-automl.jpg"
-        width: 1246
-        height: 623
-        isCached: true
-  - title: "Introducing Amazon CodeWhisperer, the ML-powered coding companion"
-    excerpt: "We are excited to announce Amazon CodeWhisperer, a machine learning (ML)-powered service that helps improve developer productivity by providing code recommendations based on developers’ natural comments and prior code. With CodeWhisperer, developers can simply write a comment that outlines a specific"
-    publishedDateTime: 2022-06-24T16:56:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-codewhisperer-the-ml-powered-coding-companion/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/introducing-codewhisperer.jpg"
-        width: 1248
-        height: 623
-        isCached: true
   - title: "MLOps foundation roadmap for enterprises with Amazon SageMaker"
     excerpt: "As enterprise businesses embrace machine learning (ML) across their organizations, manual workflows for building, training, and deploying ML models tend to become bottlenecks to innovation. To overcome this, enterprises needs to shape a clear operating model defining how multiple personas, such as data"
     publishedDateTime: 2022-06-24T17:51:02Z

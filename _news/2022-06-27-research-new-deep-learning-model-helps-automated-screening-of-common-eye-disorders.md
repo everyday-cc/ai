@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/medical-devices
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/medical-devices/research-new-deep-learning-model-helps-automated-screening-of-common-eye-disorders/92488876"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -36,22 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 46
-  - title: "New deep-learning model helps the automated screening of common eye disorders"
-    excerpt: "Automation in disease diagnosis is reliant on deep learning models that can accurately and efficiently identify measurements of tumors, tissue volume, or other sorts of abnormalities. Now, researchers from Tohoku University have unveiled a new,"
-    publishedDateTime: 2022-06-24T15:07:00Z
-    webUrl: "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-mode.jpg"
-        width: 466
-        height: 402
-        isCached: true
   - title: "Research: New deep learning model helps automated screening of common eye disorders"
     excerpt: "A new deep study reveals that automation in disease diagnosis is reliant on deep learning models that can accurately and efficiently identify measurements of tu"
     publishedDateTime: 2022-06-26T14:40:00Z

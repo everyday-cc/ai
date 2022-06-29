@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Lentra acquires AI startup TheDataTeam to accelerate digital lending platform business"
-excerpt: "Pune-based digital lending cloud platform Lentra AI has acquired Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness."
-publishedDateTime: 2022-06-28T13:22:00Z
-originalUrl: "https://analyticsindiamag.com/lentra-acquires-ai-startup-thedatateam-to-accelerate-digital-lending-platform-business/"
-webUrl: "https://analyticsindiamag.com/lentra-acquires-ai-startup-thedatateam-to-accelerate-digital-lending-platform-business/"
+title: "Lentra Acquires AI Startup TheDataTeam to Accelerate Digital Lending Platform Business"
+excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness based on their unique financial journey."
+publishedDateTime: 2022-06-28T12:58:00Z
+originalUrl: "https://financialit.net/news/lending/lentra-acquires-ai-startup-thedatateam-accelerate-digital-lending-platform-business"
+webUrl: "https://financialit.net/news/lending/lentra-acquires-ai-startup-thedatateam-accelerate-digital-lending-platform-business"
 type: article
-quality: 9
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI
+
+images:
+  - url: "https://financialit.net/sites/default/files/lentra.png"
+    width: 1366
+    height: 768
+    isCached: true
 
 related:
   - title: "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam"
@@ -77,6 +83,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Z9gP20WY7KTCS5a3dII4rj+yzwTaz6wdiWAc4kdKPTEOxheTfXri7o7Ixzuyrbmk65YMHA0SttOddyAtk5HSUSlsOeLG+F0jJDqzVovbPVmRzdxymaH7pIkQlRiHOnwgdTs6buQmkJbXpoURpZURCeqUEpiwIgcmJG+5Jv/t1QOfCs3lqr5eFuyMWtQJhDG1ZKq8mJv7Z0XDMOqXwMLLR6UeiRWU95ci9/mPqDog7/BBdx2ACkBAPeKlOD7/8OjdEilH8OItDdqDLd2x5kajkF9J/qxoL3vyseTaOMjvcZpSxoaidnccmKdZNHREXK+NPZKMDdyHR8D2og3RHKe1TNg+/Rg3cZhYHn17ILuuXRc=;sBaCPJawXv4kFVAYF6QabQ=="
+secured: "myNa8j+VaNjK1oh8mbJIO4ryzHIrc/aWd/vIFcfxm7BJSgB0TSLU6TxHmKSNEMqJFo/eMyp5JGE8iKdxp9fahONbgT2j9vSd+gE0XVcfSx9ipgfrKH15e2A8dPDeTTTgZA1HHuprXXFWSlgkXW9gMKixwQDB6FPvbF+UAJOfoBnABUgaDNkJalUmtuYf1W6B+qcsMfZFtLr8cfsv0DtAdVBZHjsvStQ1bF4DS6lAit0TY25gZwpRaU7J3FGRkQ5CTPKAgo9yzPcF4gtNbwYPhmawTBQDIjhtGZQxjzGA9ukMwYF1emrhg0+x738VWcfJJTXoZuj5evnqJGJk3VjRG0UABzPRtgsb0okVQW8XvY8=;gD6c4IfdZR2sEhJMb/vrJg=="
 ---
 

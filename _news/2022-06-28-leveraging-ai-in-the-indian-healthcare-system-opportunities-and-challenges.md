@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI disrupting the healthcare sector: What’s missing in the Indian Healthcare system?"
+    excerpt: "In healthcare, artificial intelligence is becoming increasingly sophisticated at performing what humans do, but more cost-effectively and time-efficiently. AI’s potential in healthcare is enormous, becoming an increasingly important element of the healthcare ecosystem."
+    publishedDateTime: 2022-06-29T09:27:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 67
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "How AI is transforming the future of healthcare"
     excerpt: "The symptoms are alarming: It might start with lightheadedness ... With today’s innovations, medical devices incorporate AI and insights from data to amplify impact across the entire healthcare industry, improving patient diagnosis and treatment."
     publishedDateTime: 2022-06-28T14:10:00Z

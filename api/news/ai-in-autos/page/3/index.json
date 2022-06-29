@@ -2,6 +2,128 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
+      "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
+      "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
+      "originalUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Japan Times",
+        "domain": "japantimes.co.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-how-do-you-insure-artificial-intelligence.md",
+      "title": "How do you insure artificial intelligence?",
+      "excerpt": "No doubt, this software has some built-in artificial intelligence (AI) elements. When insuring a vehicle manufacturer, it’s not too difficult to spot the potential for critical failure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
+      "originalUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.canadianunderwriter.ca/uploads/2022/06/artifical-intelligence-picture-id143922813.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canadian Underwriter",
+        "domain": "canadianunderwriter.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-explained-and-tested-teslas-self-driving-autopilot.md",
+      "title": "Explained and tested: Tesla’s ‘self-driving’ Autopilot",
+      "excerpt": "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg",
+          "width": 1800,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
+      "cdnAmpWebUrl": "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
+      "publishedDateTime": "2022-06-14T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
       "title": "AWS with Intel launches DeepRacer Student League",
       "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
@@ -547,6 +669,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-join-amazing-developments-in-artificial-intelligence.md",
+      "title": "Join amazing developments in artificial intelligence",
+      "excerpt": "Since then, artificial intelligence (AI), particularly the ... than-human intelligence in a diverse range of systems, such as driverless cars and industry automation. Ultimately, deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "originalUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theborneopost.com/newsimages/2022/06/p3.jpeg",
+          "width": 1080,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://www-theborneopost-com.cdn.ampproject.org/c/s/www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "publishedDateTime": "2022-06-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Borneo Post",
+        "domain": "theborneopost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1174,187 +1339,6 @@
       "provider": {
         "name": "TechNode",
         "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-based-traffic-management-system-in-delhi-soon-officials.md",
-      "title": "AI-based traffic management system in Delhi soon: Officials",
-      "excerpt": "The new system that works on machine learning and artificial intelligence will also play a vital role in facilitating a quick passage to emergency vehicles such as ambulances and fire tenders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
-      "originalUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2017/12/RTX3LJGB.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
-      "publishedDateTime": "2022-06-08T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-self-driving-cars-are-not-yet-safe.md",
-      "title": "Self-Driving Cars Are Not (Yet) Safe",
-      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago.md",
-      "title": "Baidu’s first robocar looks like the future we pictured 20 years ago",
-      "excerpt": "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "originalUrl": "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Atczmc6ShrzgeTvTauUuw6-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-experts-to-discuss-how-artificial-intelligence-is-powering-manufacturing-at-automate-2022.md",
-      "title": "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022",
-      "excerpt": "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

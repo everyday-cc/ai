@@ -158,7 +158,7 @@
       "originalUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -199,6 +199,51 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-microsoft-is-removing-emotion-recognition-features-from-its-facial-recognition-tech.md",
+      "title": "Microsoft is removing emotion recognition features from its facial recognition tech",
+      "excerpt": "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna35087",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087",
+      "publishedDateTime": "2022-06-27T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -305,7 +350,7 @@
       "originalUrl": "https://theconversation.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -348,7 +393,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -524,60 +569,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
-      "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
-      "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
-      "publishedDateTime": "2022-06-22T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-22-microsoft-will-remove-a-controversial-feature-of-its-facial-recognition-tool-that-claims-to-identify-emotion-from-videos-and-pictures-in-major.md",
       "title": "Microsoft will REMOVE a controversial feature of its facial recognition tool that claims to identify emotion from videos and pictures – in major overhaul of its AI ethics ...",
       "excerpt": "Microsoft is retiring a controversial facial recognition feature that claims to identify emotion in people's faces from videos and photos. As part of an overhaul its AI policies, the US tech giant ...",
@@ -619,6 +610,60 @@
         "Computer Vision",
         "AI",
         "AI Ethics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
+      "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
+      "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "publishedDateTime": "2022-06-22T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision",
         "Microsoft AI"
       ]
     },
@@ -1370,49 +1415,6 @@
       "provider": {
         "name": "Global Times",
         "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-boca-raton-police-renewing-facial-recognition-program.md",
-      "title": "Boca Raton police renewing facial recognition program",
-      "excerpt": "BOCA RATON — The city of Boca Raton is letting its police force continue to participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html",
-      "originalUrl": "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sun Sentinel",
-        "domain": "sun-sentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

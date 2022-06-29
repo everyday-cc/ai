@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
     excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-06-29T05:39:00Z
-    webUrl: "https://apnews.com/article/technology-china-general-motors-co-baidu-inc-df3c475bdebfb9b2644aa23c37664a74"
+    publishedDateTime: 2022-06-29T07:58:00Z
+    webUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/1a0a38a297cc4212bc25ee2ceaba5bbe/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg"
+        width: 2880
+        height: 1920
         isCached: true
   - title: "Raleigh drivers hesitant to use self-driving cars"
     excerpt: "Automakers assume drivers want as much technology as they can get in their vehicles, but the day of a robot driving us is still a long way away."

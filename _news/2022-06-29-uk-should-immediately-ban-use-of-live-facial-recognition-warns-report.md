@@ -35,6 +35,20 @@ related:
         width: 320
         height: 229
         isCached: true
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
+    publishedDateTime: 2022-06-29T08:47:00Z
+    webUrl: "https://www.iothub.com.au/news/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-582022"
+    type: article
+    provider:
+      name: iothub.com.au
+      domain: iothub.com.au
+    quality: 36
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
     excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."
     publishedDateTime: 2022-06-27T22:16:00Z

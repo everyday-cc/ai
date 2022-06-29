@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna35087"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087"
 type: article
 quality: 102
-heat: -1
-published: false
+heat: 152
+published: true
 
 provider:
   name: NBC News
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps"
-    excerpt: "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365."
-    publishedDateTime: 2022-06-24T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/"
-    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
+  - title: "Microsoft Limits Public Access to AI-Powered Facial Analysis Features"
+    excerpt: "Fran Mendez discusses event-driven or asynchronous APIs, comparing AsyncAPI with OpenAPI/Swagger, AMQP/MQTT/Kafka with HTTP, and publish/subscribe with request/response. Lola Priego, Jose del Pozo ..."
+    publishedDateTime: 2022-06-26T07:16:00Z
+    webUrl: "https://www.infoq.com/news/2022/06/microsoft-azure-responsible-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://res.infoq.com/news/2022/06/microsoft-azure-responsible-ai/en/headerimage/generatedHeaderImage-1656053489141.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
   - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
     excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
@@ -61,33 +59,42 @@ related:
         width: 1024
         height: 551
         isCached: true
-  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
-    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
-    publishedDateTime: 2022-06-27T11:25:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
+  - title: "The Good Guys pauses facial recognition trial"
+    excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
+    publishedDateTime: 2022-06-28T20:38:00Z
+    webUrl: "https://www.itnews.com.au/news/the-good-guys-pauses-facial-recognition-trial-581959"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 38
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
     images:
-      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
+        width: 1138
+        height: 774
         isCached: true
-  - title: "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year"
-    excerpt: "Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the Year Award."
-    publishedDateTime: 2022-06-28T21:00:00Z
-    webUrl: "https://www.asiaone.com/business/cloocus-recognized-winner-2022-microsoft-country-partner-year-second-consecutive-year-0"
+  - title: "Microsoft To Phase Out Public Access To Controversial Facial Recognition Tool - Breezyscroll"
+    excerpt: "Microsoft will first remove some parts of its facial recognition services from“Azure Face”. Thereafter, it will restrict access to others. Users will now need to apply to utilise Azure Face."
+    publishedDateTime: 2022-06-24T18:09:00Z
+    webUrl: "https://menafn.com/1104428195/Microsoft-To-Phase-Out-Public-Access-To-Controversial-Facial-Recognition-Tool-Breezyscroll"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 17
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+  - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
+    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
+    publishedDateTime: 2022-06-26T20:30:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-xbox-cloud-gaming-keyboard-mouse-support-and-latency-improvements-facial-recognition-platform-curbs-and-more"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 25
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/image_1_91.jpg?itok=4NRJZiWv"
-        width: 600
-        height: 337
+      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
+        width: 1365
+        height: 768
         isCached: true
 
 secured: "u/zlNrTW9ptaPw5cGk0GzAQ4fJjpiuEc0tDURxonVFZgc0dm5ae4pkNRoab8/WD3b1WOW0i4j2bMXP1LTkCfF471p2yxFNwM1PYZtEwldUTFb9kVAtmsJUXplv4H1q2l6Oj48GEDjikF/HKsRa9BFwGTAImlpxvAVSPIV0CcDkkxDZrQyuNnMP3arMK2ew8ENokEYSUWd/dViybbK8eIAJgBjDo7Fey+GmlHXbrgFk/DBVsa5q+xwqlHH406p9IZ7vpmniriGlGbtwZ9A7kUJSzjeT0n7tqBf7iqlXRNUx9XQ3SC/UBKHpaHcJfvPKj+4ECOgSnLx05WIaRnVEpQ6ZvE3+IbKOOcnvleDUl+hN6RT4zlQH1v4q8IHhsotjJDZ8I7pcmVsISWZVFV1LzantquRaGPFdVEDYp/KywoAnpHQCzYuhjyOkMRJ35weRCKNtuwhXdKRGQQyrWP3MlqfAW/1kPdHtegZstcckj8U8jtp3WiePrFQ5Kos0jhOQpUlDrTGssb8IpZ67q5jMAkvA==;kv77wTHdzbifsMIVpeVKeQ=="

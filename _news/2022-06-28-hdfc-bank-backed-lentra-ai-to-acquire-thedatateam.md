@@ -69,15 +69,20 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "Lentra acquires AI startup TheDataTeam to accelerate digital lending platform business"
-    excerpt: "Pune-based digital lending cloud platform Lentra AI has acquired Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness."
-    publishedDateTime: 2022-06-28T13:22:00Z
-    webUrl: "https://analyticsindiamag.com/lentra-acquires-ai-startup-thedatateam-to-accelerate-digital-lending-platform-business/"
+  - title: "Lentra Acquires AI Startup TheDataTeam to Accelerate Digital Lending Platform Business"
+    excerpt: "Lentra AI Private Limited, one of the fastest-growing digital lending cloud platforms, has announced the acquisition of Chennai and Singapore-based AI company TheDataTeam (TDT). Lentra will deploy TDT’s flagship behaviour intelligence platform Cadenz to help banks and financial institutions make better data-driven decisions on customer creditworthiness based on their unique financial journey."
+    publishedDateTime: 2022-06-28T12:58:00Z
+    webUrl: "https://financialit.net/news/lending/lentra-acquires-ai-startup-thedatateam-accelerate-digital-lending-platform-business"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 9
+      name: Financial IT
+      domain: financialit.net
+    quality: 29
+    images:
+      - url: "https://financialit.net/sites/default/files/lentra.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "s2lK0g45BdCVtJJsDDWAt4p0q+wbG/9EaKVA4AuoqQjXhphOl/N9xUJA4yIi0vcDWRRRz5bOfbGMo7a72S017MwV16/eDMhQ0V92NDwD5CXrNKd4IyiTbeZ8N92Y1GDfdmKHCLXcasTmQsWq7shu+2XSNzuYHDQc9TgfDjXDvd/c1S6LRNtv8BJnE80FrvZr926D3tA7ZQpg/x4Nwvb5PNVdht5UxGZ9ZoKImm+KYbE2iPQ6fCD0029FczbvDqHKO0Domke3GkDVPsFDZ/rdO0tHZCbHE4hvPsDkMTvWwP79FGjGicOQdLwqRK2+EESKdg51Cf+6Tv2SdRIaKeQRk1N3orcHn2FLHq8LLC6lSIg=;jVA0xMglgN08TVmXDNlMrg=="
 ---

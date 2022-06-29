@@ -145,6 +145,51 @@
       ]
     },
     {
+      "path": "_news/2022-06-28-microsoft-is-removing-emotion-recognition-features-from-its-facial-recognition-tech.md",
+      "title": "Microsoft is removing emotion recognition features from its facial recognition tech",
+      "excerpt": "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna35087",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087",
+      "publishedDateTime": "2022-06-27T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-amazon-just-say-no-the-looming-horror-of-ai-voice-replication.md",
       "title": "Amazon, just say no: The looming horror of AI voice replication",
       "excerpt": "If an AI like Alexa really can convert less than a minute of recorded voice into real-time speech, it opens the door to dystopian gaslighting at a whole new level. It's frightening, creepy, and disturbing.",
@@ -254,24 +299,33 @@
     {
       "path": "_news/2022-06-24-speech-and-voice-recognition-market-worth-281-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
       "title": "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ...",
+      "excerpt": "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T07:22:00-07:00",
+      "publishedDateTime": "2022-06-24T06:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1128,10 +1182,10 @@
     {
       "path": "_news/2022-06-16-apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
       "title": "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ...",
+      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. MCLEAN, Va., June 16, 2022 /PRNewswire/ -- AppTek,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/16/9623190.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1139,13 +1193,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27738170",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27738170",
-      "publishedDateTime": "2022-06-16T01:39:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1329,40 +1383,6 @@
       "provider": {
         "name": "Law",
         "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india.md",
-      "title": "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India",
-      "excerpt": "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20220614/3952002.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20220614/3952002.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null
