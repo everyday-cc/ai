@@ -23,6 +23,19 @@ images:
     height: 567
     isCached: true
 
+related:
+  - title: "Amazon assistant Alexa on an uncrewed mission to space"
+    excerpt: "By the end of this year, the digital assistant whos told you the time, the weather and played your favourite songs will have been to space and back."
+    publishedDateTime: 2022-06-29T05:46:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/amazon-assistant-alexa-on-an-uncrewed-mission-to-space/news-story/142efd2c938347705ce3c327ba7bd413"
+    ampWebUrl: "https://amp.theaustralian.com.au/business/technology/amazon-assistant-alexa-on-an-uncrewed-mission-to-space/news-story/142efd2c938347705ce3c327ba7bd413"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/amazon-assistant-alexa-on-an-uncrewed-mission-to-space/news-story/142efd2c938347705ce3c327ba7bd413"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
+
 secured: "32beU8J+zmiyTgdq4ALcgRsNSMHTOZJv0V8UcqfURhAsE6BqQIktFDHL0z+6ry4DuXSQSl7hY7tSbLbbEoDGOZYAK63sAtwiedj1RkGwd681Hsl5xqhDH0onuVJgF78oWSqS3m0xiKecj0zSbyMWmDFPnr9fYWyQsMCBUEsvRVnpQZg7JJkZk8IZf7v/tNYZW9oQBY0Eiz7G/mx7vhIOVq1/ghNqOjdRMVq8pqKChxCTXHrpMBuucrrez+DGoumXEaEyVPS87WABs23yIphmmY6WSPujxQidLDC88dBMWOCJt6/kPzVgWKa3z/Vn6ODROMNZeJdr0r5noqkJ4mC9nflxpmCvFXdTqhFmdhW1RIE=;Io02QfYDH8YpigZNEt54Uw=="
 ---
 

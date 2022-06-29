@@ -24,22 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI spent $160,000 on Upwork for Minecraft gamers to train a neural net"
-    excerpt: "The point of the work is to find a way to train a general purpose computer \"agent\" that can use the wealth of the data on the Internet to carry out all kinds of computer tasks."
-    publishedDateTime: 2022-06-24T13:54:00Z
-    webUrl: "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/"
+  - title: "An AI Learned to Play Minecraft, and It's Actually Pretty Good"
+    excerpt: "Open AI engineers revealed their experiment in a research paper and subsequent blog post this week. OpenAI’s model was able to move beyond basic crafting and survival and actually perform many ..."
+    publishedDateTime: 2022-06-24T19:49:00Z
+    webUrl: "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533"
+    ampWebUrl: "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/22ffcef4fd570a8f18bf6c65c1751640f3e70e1c/2022/06/24/75630c96-c275-4a5e-8a1c-b1d7b3528f63/crafting-diamond-pickaxe.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 612
-        isCached: true
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
   - title: "OpenAI’s New AI Learned to Play Minecraft by Watching 70,000 Hours of YouTube"
     excerpt: "Now, the company says its latest AI has learned to play Minecraft after watching some 70,000 hours of video showing people playing the game on YouTube. Compared to numerous prior Minecraft algorithms which operate in much simpler “sandbox” versions of ..."
     publishedDateTime: 2022-06-26T14:01:00Z
@@ -55,6 +50,34 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2022/06/minecraft-openai-machine-learning-algorithm-plays-games.jpeg"
         width: 1068
         height: 601
+        isCached: true
+  - title: "AI learns to play Minecraft by watching 40,000 hours of YouTube"
+    excerpt: "OpenAI's latest AI learned to play Minecraft by watching 40,000 hours of YouTube. The company, which specialises in"
+    publishedDateTime: 2022-06-27T14:18:00Z
+    webUrl: "https://www.eurogamer.net/ai-learns-to-play-minecraft-by-watching-40000-hours-of-youtube"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 37
+    images:
+      - url: "https://assets.reedpopcdn.com/minecraft-wild-update_utcjZFH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/minecraft-wild-update_utcjZFH.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "This AI learned to play Minecraft after watching 70,000 hours of YouTube videos"
+    excerpt: "An AI has learned to play Minecraft after watching YouTube videos of people playing the game for 70,000 hours. If movies have taught us anything, it's that we're inevitably hurtling toward a future where robots will become so advanced that they'll rise up against their creators and wage war on humankind."
+    publishedDateTime: 2022-06-27T15:04:00Z
+    webUrl: "https://www.gamesradar.com/this-ai-learned-to-play-minecraft-after-watching-70000-hours-of-youtube-videos/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 33
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/x5GaA4GkehF4fUQjTExNoZ-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Q50H5TtGSd3Op0WKSxc8KmAyFNwrToCzndrkRDsqEM48Vami/lpPqlsysOY88zCL9OgLxN5z5fpo64n4B4AmFegxFnAPoWfHqad3ND2WIppjkGc+xNYpF0ugMKkQerDyoWN/dUO/SDKXD1Y8lUXABrSy5yXbw29PKtsBEEkeYSmslbfmzCkjuBiMb++5P6/z3paBrY2KLyIf+hUCdMbT1IAAmV9Gro55Hb6DFJ5U+BC0AyDIleNJ9vltB9g9zDzWsY1IpdysCBnnnSPD6XP2Q2S59P/D9KxIZleLpqEe7/YJpvel2yvOeMLOdwDnyU2blQyQu64E8Klpo9lqpITXvKELGmn/NC2j29ZSXBrhMIrEpRl3DGRW9mM8/nLgze0fsvv1CdAfMX+o7dZRZPDdzYH+NKVkA3/VYRV0LYS4bAMuqGcKZFqZIicwq4az3PzdkRos2UiFJcbfTxQUZvezshtcVImsi/6lKv97bIj75jFP2+Pi0im5bPwE4FvMF3iGjXgsNYW9hFSVHnqNaA4YTA==;Kt4z2F3PY0F9wSYAD5qLjw=="

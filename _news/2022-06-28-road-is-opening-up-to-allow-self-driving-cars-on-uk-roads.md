@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-la
 cdnAmpWebUrl: "https://www-chroniclelive-co-uk.cdn.ampproject.org/c/s/www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,36 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba to test self-driving trucks on public roads without human safety drivers"
-    excerpt: "Alibaba has become the first company in China to receive approval to test self-driving trucks without a driver behind the wheel on public roads in the"
-    publishedDateTime: 2022-06-28T11:20:00Z
-    webUrl: "https://technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
-    ampWebUrl: "https://technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
+  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+    publishedDateTime: 2022-06-29T05:39:00Z
+    webUrl: "https://apnews.com/article/technology-china-general-motors-co-baidu-inc-df3c475bdebfb9b2644aa23c37664a74"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
+      - url: "https://storage.googleapis.com/afs-prod/media/1a0a38a297cc4212bc25ee2ceaba5bbe/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "MPs launch investigation into self-driving vehicles"
-    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
-    publishedDateTime: 2022-06-27T10:53:00Z
-    webUrl: "https://www.expressandstar.com/news/uk-news/2022/06/27/mps-launch-investigation-into-self-driving-vehicles/"
+  - title: "Raleigh drivers hesitant to use self-driving cars"
+    excerpt: "Automakers assume drivers want as much technology as they can get in their vehicles, but the day of a robot driving us is still a long way away."
+    publishedDateTime: 2022-06-24T20:48:00Z
+    webUrl: "https://www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/"
+    ampWebUrl: "https://www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/amp/"
     type: article
     provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 24
+      name: CBS17 Raleigh
+      domain: cbs17.com
+    quality: 44
     images:
-      - url: "https://www.expressandstar.com/resizer/VAjoinj5e7OLV3rbttwZFGQO5V0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/K67PTIFSCNB35HH2NECGQB7CJM.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/06/Steve-web.jpg?w=1280"
+        width: 671
+        height: 376
         isCached: true
+  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
+    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services. Beginning in July, the pilot will last over six weeks, marking the first in-depth transportation of home ..."
+    publishedDateTime: 2022-06-28T19:14:00Z
+    webUrl: "https://www.dallasnews.com/business/local-companies/2022/06/28/self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 32
   - title: "Process of allowing self-driving cars on UK roads has begun"
     excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
     publishedDateTime: 2022-06-27T14:11:00Z
@@ -66,29 +75,6 @@ related:
       name: Get Reading
       domain: getreading.co.uk
     quality: 4
-  - title: "Transport Committee launches inquiry into self-driving vehicles"
-    excerpt: "The inquiry by the Transport Committee will scrutinise the development and deployment of connected and autonomous vehicles ahead of the potential arrival of self-driving tech from later this year.   The inquiry will consider the progress of research and work in the UK and abroad on self-driving cars and what needs to happen to prepare for their arrival."
-    publishedDateTime: 2022-06-27T12:16:00Z
-    webUrl: "https://fleetworld.co.uk/transport-committee-launches-inquiry-into-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Fleet World
-      domain: fleetworld.co.uk
-    quality: 4
-  - title: "Jet-Packs, Self-Driving Cars, Wireless Charging Of Buses: Museum Of The Future, RTA To Showcase Latest In Mobility"
-    excerpt: "The Museum of the Future and Dubai's Roads and Transport Authority (RTA) have announced a new partnership to showcase future mobility solutions, from personal jet packs to self-driving cars. The partnership will showcase new solutions in advanced mobility at the 'Tomorrow,"
-    publishedDateTime: 2022-06-28T08:53:00Z
-    webUrl: "https://menafn.com/1104443821/Jet-Packs-Self-Driving-Cars-Wireless-Charging-Of-Buses-Museum-Of-The-Future-RTA-To-Showcase-Latest-In-Mobility"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/updates/pr/2022-06/28/KT_4dcf1image_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
     excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
     publishedDateTime: 2022-06-27T17:34:00Z

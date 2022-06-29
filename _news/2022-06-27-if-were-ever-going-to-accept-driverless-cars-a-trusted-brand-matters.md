@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise’s driverless autonomous cars start giving rides to paying passengers"
-    excerpt: "The milestone comes after Cruise received official approval from the California Public Utilities Commission in early June to operate driverless in a commercial capacity. Initially, Cruise’s ..."
-    publishedDateTime: 2022-06-24T13:58:00Z
-    webUrl: "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/"
-    ampWebUrl: "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/Cruise-car-in-San-Francisco-streets.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
     excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
     publishedDateTime: 2022-06-25T14:27:00Z
@@ -57,33 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Raleigh drivers hesitant to use self-driving cars"
-    excerpt: "Automakers assume drivers want as much technology as they can get in their vehicles, but the day of a robot driving us is still a long way away."
-    publishedDateTime: 2022-06-24T20:48:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/raleigh-drivers-hesitant-to-use-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 44
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/06/Steve-web.jpg?w=1280"
-        width: 671
-        height: 376
-        isCached: true
-  - title: "GM’s Cruise Has Started Charging For Driverless Rides In San Francisco"
-    excerpt: "GM subsidiary Cruise has begun charging customers for rides in its driverless Chevy Bolt EV test vehicles in San Francisco. The company had previously received a permit from the California ..."
-    publishedDateTime: 2022-06-24T14:08:00Z
-    webUrl: "https://gmauthority.com/blog/2022/06/gms-cruise-has-started-charging-for-driverless-rides-in-san-francisco/"
-    ampWebUrl: "https://gmauthority.com/blog/2022/06/gms-cruise-has-started-charging-for-driverless-rides-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2022/06/gms-cruise-has-started-charging-for-driverless-rides-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 39
 
 secured: "WSnAnW11ObBo+8WPSa+7SnR+Y/72udllFDQUsQaERa9K3Z86jNpthd1MmFfmdP1vl4L3OD6yQ/7YW0C9q/bV79IjZ250bSzuxVGH9DS5FkAHUEFAqhzuN3BFpByDOLt9LpjJrbJxT/dkQY9TIrqljbumVUiSUnIrqife/facLwa8Wi+gQ2arSnUcXCRhbcQJbaFHIlAdhoUpVyf7oD3kAyzaTPSj4O/Kyaa0GeiyZ5VUOhapVmz8ARXkrbpIjGETQ7TtaUEYfFv27MPpoZAuPbr9B+8AMCVF+HZWmO5WqfmEgHyFlXloLmoIxQhS2Gwp+WmnuKBNC7l1ohMmFK0UOHiZUD0VeWqewkKQvgQxqpY=;oVWlmVvFmt5XTvk/9Qpbgw=="
 ---

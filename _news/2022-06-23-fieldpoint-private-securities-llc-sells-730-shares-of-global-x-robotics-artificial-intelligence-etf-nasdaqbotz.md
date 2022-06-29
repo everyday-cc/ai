@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Fieldpoint Private Securities LLC Sells 730 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
-excerpt: "Fieldpoint Private Securities LLC reduced its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 41.5% in the 1st quarter, according to its most recent filing with the Securities & Exchange Commission."
+excerpt: "Fieldpoint Private Securities LLC lowered its holdings in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 41.5% during the first quarter, according to its ..."
 publishedDateTime: 2022-06-23T08:58:00Z
-originalUrl: "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
-webUrl: "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
+originalUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
+webUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/"
+ampWebUrl: "https://www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
+cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/"
 type: article
 
 provider:
-  name: Defense World
-  domain: defenseworld.net
+  name: ETF Daily News
+  domain: etfdailynews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "NHhBMGGnKKK5r7vrTedRhJYW1ugloKEbXDU6zHeOnY+wukZJxTJ5PezH6dVD9XlVO7Kea9Dkep7trZsQHCm2ZiJ6fuPQv8P0uJKNJwYZ9Lbfvc91ND2cbk6IliXG3+1y0I7jQCJyqRuRD1twXh7l/Dk/CkOaAgXJoPrORMR3pYX14FTksMQRRbeE+DfbCImdT85g14JacBCanTKHUVCnwP6PVEXSSIS7e7Y+DUt58N8u73WpwCw3ON6GOaIWvbE8811231a7V8IdQpg7JCuKV2Lz1nEjfS/19ggeNdqRpWeov8TI/4BdjcOlkbxrizZwG/uolkUJY3haxngYmyIT/ESMzcl1zj60Gf9wzBCMvsFLoxxkTYG1BsrviBO990/ujKJc1Ok6H4Owe1Km39Zf7QvW2+NkqUvpoXSamNW3Y+3PfbYdyiJdiEC6udRlxblRKaYO+7PxOg/HZaHd31bzsCtSJV6aBRKtY7FGQeqFCzVWEyguZxkU1fdaXn/7FHOYH3JkE1L6si6qO2Y3ympqvw==;EO3rHKintgSZzNow/+cmBw=="
+images:
+  - url: "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ"
+    width: 650
+    height: 350
+    isCached: true
+
+secured: "1x9JbrCP5awfAYKT0nJJEyxdd0CNUvkFqWlNfeVkyBCTti1Xw1swpYfPSBrn6LijulhQVbL6pojs1Nz8acxUD4PNP1dsuOIK+hlShtHjxiHPU9bPMbZ3y3HBKBTXvbGtRj2yKdyTjKFQTKcCD+DIwhM2tswfM2avlfITPt+Mu/4P8AH4kcoeKvBzjYtTflVpBnRj/1ZLa+cKsKGw4PHin4aaOPPz8vdMVZvbOmCaiabllGlo/+UvJE+wEKIBLOylrTgxLESWVdO2eqRSOqUj+1kxU/3BVMklo1vZqY5Vug63YwHlAJfmoZTbHZrhh8UIJDjNgxH6ki3y0QCESkM1hZ4/HURlERsNxIHdGh5C2ik=;lE3rmhpsyujdiuOswpRVNg=="
 ---
 

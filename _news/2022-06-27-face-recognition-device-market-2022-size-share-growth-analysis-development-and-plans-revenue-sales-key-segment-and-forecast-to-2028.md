@@ -24,26 +24,34 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Global Face Recognition Device Market Recent Developments & Emerging Trends To 2025"
-    excerpt: "Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
-    publishedDateTime: 2022-06-24T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-recent-developments-emerging-trends-to-2025-2022-06-24"
+  - title: "Artificial Intelligence In Healthcare Market Research Report 2022, Size, Share, Trends And Forecast To 2027"
+    excerpt: "SHERIDAN, WYOMING, UNITED STATES, June 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intell"
+    publishedDateTime: 2022-06-27T10:14:00Z
+    webUrl: "https://menafn.com/1104437488/Artificial-Intelligence-In-Healthcare-Market-Research-Report-2022-Size-Share-Trends-And-Forecast-To-2027"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-  - title: "Speech and Voice Recognition Market worth $28.1..."
-    excerpt: "In 2021, the consumer segment the largest share of the speech and voice recognition market. The growing requirement for mobile device and application authentication and the increasing use of voice ..."
-    publishedDateTime: 2022-06-24T13:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27842802/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarke"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27842802"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27842802"
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/27/EP_00e02image_story.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Automated Machine Learning (AutoML) Market Share 2022: Trends, Growth, Size, Opportunity Assessment by Forecast to 2029"
+    excerpt: "Automated Machine Learning (AutoML) Market 2022 Report provides the industry data on market status, market share, growth rate, competition landscape, future trends, budget allocation and key ..."
+    publishedDateTime: 2022-06-26T19:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automated-machine-learning-automl-market-share-2022-trends-growth-size-opportunity-assessment-by-forecast-to-2029"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://i.postimg.cc/VNFBndzq/Social-Media-Graph-01-1-500.png"
+        width: 500
+        height: 300
+        isCached: true
 
 secured: "JnKknlzgGVI7WW6jzEKIio7Xz15I3vYgZyW2Y2WdumpeK/HQdrmiZc9w1DZGU9Da7PU1jTicrgzxAiAiCel/U8CX1zCIf6pjINkkMIzM+LCWfPX76obJCXl++CL4OFULfHMBIkrmv40h3oF9LuGJ0xLkVCs/fbk12GyQlbYYgyRmqyREq1oYmpU0Kjcq1XwLq0492CgQanPfEMhnWlJeaY0b2BiMgsBXV94tyEz4VwulXXmPfo3Vg8XhMmVPWa8rOt64wHlRyokssSC89RJ8UX3r8ANJmWj0ZRxi8k20KhnKySPsh7OX0n2OlLDxAyqe2A7SS/1AHz23iy/GEKlHCYCbfWAmMy3jfk1G/TMTjGQ=;I4IBxhECqw2+/zUZ6otuRA=="
 ---

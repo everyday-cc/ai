@@ -1,54 +1,26 @@
 ---
 category: news
 title: "Give this AI a few words of description and it produces a stunning image – but is it art?"
-excerpt: "The text-to-art program DALL-E 2 generates images from brief descriptions. But what does it mean to make art when an algorithm automates so much of the creative process itself?"
-publishedDateTime: 2022-06-10T12:31:00Z
-originalUrl: "https://theconversation.com/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art-184363"
-webUrl: "https://theconversation.com/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art-184363"
+excerpt: "(THE CONVERSATION) A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is ..."
+publishedDateTime: 2022-06-10T14:57:00Z
+originalUrl: "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html"
+webUrl: "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html"
 type: article
-quality: 8
-heat: -1
-published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Napa Valley Register
+  domain: napavalleyregister.com
 
 topics:
+  - AI in Autos
   - AI
 
-related:
-  - title: "This AI Makes Mind-Bending Art, and You Can Give It a Try"
-    excerpt: "You don't have to search far on the internet to find nightmare fuel. If your dreams have gotten a little too rosy lately, you can spend some time browsing the weird, funny and occasionally disturbing images created by an artificial intelligence tool called Dall-E Mini."
-    publishedDateTime: 2022-06-14T21:25:00Z
-    webUrl: "https://www.cnet.com/culture/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-ai-makes-mind-bending-art-and-you-can-give-it-a-try/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Taking a Closer Look at AI and Diagnoses"
-    excerpt: "New systems can scan images to detect disease at ever-earlier stages and forecast illnesses to come. But they would require an overhaul in medical decision-making."
-    publishedDateTime: 2022-06-13T17:39:00Z
-    webUrl: "https://www.discovermagazine.com/health/taking-a-closer-look-at-ai-and-diagnoses"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 37
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/4DuGYukpuyvUPO9td0OpMP/fbf9108159fd04c4028a75357563ae5b/Closer_look_illustration.jpg"
-        width: 1000
-        height: 778
-        isCached: true
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/custom/image/f675bdee-c549-11ea-98b6-631770e8cea7.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "f25DKaZG6noVIUC7CUujDACnHVhPzOMz7DItNgkGV8MCss4sv6iSdwkNaeoQIS7yuRIbiW9gSyx0wGJB3aSNNHRtFjqfIr36EZMnJlNbQAd5/5R0zgnQkBCWHFDRx5gm4MChzzDM2+5DT6RnWHdDmvZAOrbdRhcBTIEggjkGHDcIqqWRs1wh0YmRLTcswj2Rfb2nfiwBDbvmZtYoVPZQ9lGKcW/F2q0XieShqAuB/P4k2xX7bSzT++0ZxJiSUx8h7+pSzrCTdiMVLG86dFFhbRqZe2VELFpLGTDWeR0K0t5UnYNXUYEg+Ksxn7/xUhgvYrSWMYHP7YGrJpYkiJsm1Puwfmp8tYRlYfqdq4eQUqZE9lO2pRMdQWJUtIQ1A/g5Q9j5WmiBtxorQKHKwB2I/ryBZ2tEg/Kb7BK6HWxzPXPnWGSGa1o7KEMZsc0M5a6cQesUUPvLQlGzrlg0ogbcV3auhaxcS3AGIFNE9GD3zDAfOSNbNEpZ3z+8qUtz3VfCQDj35s0LUMXVJvOloj8ndQ==;vEjuxHpXnBjjzcQ4iCSxBg=="
+secured: "mgYN6ESB0McLH+7wvowGTy5ffku393GizkaIPrPsl6Gv+Ef4swSfvohDuzXIlRE5tKeStzOoCZiCuWNCYa8doXzp98rbOe+coj++b+vJbDvJaKJbnDeU5xmA6laePgYhndUCQG0z1FmkyeEVBsAmccen2tpEdy0lmSqymijFFnwhoA+DA8BaHuen3vdldNeYMpXfx0w9tRNYu/stA6oI4fyQLFQg8d2zuooJYyMhFH75JcPbW2AaBM3JNPqxHRvgmtlN458zU+ilBr28WAzoegNKE/lV2CAHDDQ4BFLMgq/Lr6r/fHnbCXqdo6gYagv+JxizeQc3zQCX2vogoaYTbGWMtPq4Hosqjr7LdW88SPE=;JBisNo8cRY9y1GFOV7Skkw=="
 ---
 

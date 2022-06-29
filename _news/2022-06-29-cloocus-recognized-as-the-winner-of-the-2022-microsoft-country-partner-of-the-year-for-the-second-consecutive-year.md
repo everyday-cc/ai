@@ -57,36 +57,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Why Microsoft is rolling back its AI-powered facial analysis tech"
-    excerpt: "AI-powered facial recognition has been criticized by groups like the Electronic Frontier Foundation (EFF) for years. While law enforcement use is often the most worrying, studies have shown that these tools simply aren’t accurate in identifying ..."
-    publishedDateTime: 2022-06-24T14:24:00Z
-    webUrl: "https://www.popsci.com/technology/microsoft-removes-facial-recognition-tools/"
-    ampWebUrl: "https://www.popsci.com/technology/microsoft-removes-facial-recognition-tools/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/microsoft-removes-facial-recognition-tools/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 76
-    images:
-      - url: "https://www.popsci.com/uploads/2022/06/24/mauro-mora-31-pOduwZGE-unsplash.jpg?auto=webp"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Microsoft Halts Sales of Emotion-Reading Tech, Limits Facial Recognition Access"
-    excerpt: "Microsoft has decided to retire its emotional assessment technology, as well as place restrictions on the use of its facial recognition systems. In a blog post published Tuesday, the software giant announced that it would be sunsetting facial analysis ..."
-    publishedDateTime: 2022-06-24T14:08:00Z
-    webUrl: "https://www.extremetech.com/internet/337431-microsoft-halts-sales-of-emotion-reading-tech-limits-facial-recognition-access"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 69
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/06/turag-photography-1uQe5BIiH8w-unsplash-640x427.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
     excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
     publishedDateTime: 2022-06-28T12:28:00Z

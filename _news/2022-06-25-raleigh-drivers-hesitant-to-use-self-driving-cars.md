@@ -27,63 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise’s driverless autonomous cars start giving rides to paying passengers"
-    excerpt: "The milestone comes after Cruise received official approval from the California Public Utilities Commission in early June to operate driverless in a commercial capacity. Initially, Cruise’s ..."
-    publishedDateTime: 2022-06-24T13:58:00Z
-    webUrl: "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/"
-    ampWebUrl: "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/"
+  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+    publishedDateTime: 2022-06-29T05:39:00Z
+    webUrl: "https://apnews.com/article/technology-china-general-motors-co-baidu-inc-df3c475bdebfb9b2644aa23c37664a74"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/Cruise-car-in-San-Francisco-streets.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://storage.googleapis.com/afs-prod/media/1a0a38a297cc4212bc25ee2ceaba5bbe/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
-    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
-    publishedDateTime: 2022-06-25T14:27:00Z
-    webUrl: "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    ampWebUrl: "https://www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
+  - title: "Road is opening up to allow self-driving cars on UK roads"
+    excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
+    publishedDateTime: 2022-06-28T14:10:00Z
+    webUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678"
+    ampWebUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
+    cdnAmpWebUrl: "https://www-chroniclelive-co-uk.cdn.ampproject.org/c/s/www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 58
+      name: Evening Chronicle
+      domain: chroniclelive.co.uk
+    quality: 44
     images:
-      - url: "https://www.thestar.com/content/dam/thestar/autos/opinion/2022/06/13/racing-roundup-max-verstappen-wins-as-does-josef-newgarden/_benyoung.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://i2-prod.chroniclelive.co.uk/incoming/article24269154.ece/ALTERNATES/s615/1_Rail-and-Tube-strikes.jpg"
+        width: 615
+        height: 409
         isCached: true
-  - title: "GM’s Cruise Has Started Charging For Driverless Rides In San Francisco"
-    excerpt: "GM subsidiary Cruise has begun charging customers for rides in its driverless Chevy Bolt EV test vehicles in San Francisco. The company had previously received a permit from the California ..."
-    publishedDateTime: 2022-06-24T14:08:00Z
-    webUrl: "https://gmauthority.com/blog/2022/06/gms-cruise-has-started-charging-for-driverless-rides-in-san-francisco/"
-    ampWebUrl: "https://gmauthority.com/blog/2022/06/gms-cruise-has-started-charging-for-driverless-rides-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2022/06/gms-cruise-has-started-charging-for-driverless-rides-in-san-francisco/amp/"
+  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
+    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services. Beginning in July, the pilot will last over six weeks, marking the first in-depth transportation of home ..."
+    publishedDateTime: 2022-06-28T19:14:00Z
+    webUrl: "https://www.dallasnews.com/business/local-companies/2022/06/28/self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45/"
     type: article
     provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 39
-  - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
-    excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
-    publishedDateTime: 2022-06-27T10:03:00Z
-    webUrl: "https://www.wheels.ca/features/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters"
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 32
+  - title: "Process of allowing self-driving cars on UK roads has begun"
+    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
+    publishedDateTime: 2022-06-27T14:11:00Z
+    webUrl: "https://www.getreading.co.uk/news/uk-world-news/process-allowing-self-driving-cars-24331951"
     type: article
     provider:
-      name: Wheels
-      domain: wheels.ca
-    quality: 39
-    images:
-      - url: "https://images.wheels.ca/wp-content/uploads/2022/06/wh-DriverlessColumn-June25.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
+      name: Get Reading
+      domain: getreading.co.uk
+    quality: 4
+  - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
+    excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
+    publishedDateTime: 2022-06-27T17:34:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1631877/self-driving-cars-MPs-enquiry-latest-news"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 0
 
 secured: "9fs9rc3LL3OqKEaY4iYgFOTr7J4b81T1+F8DK6tAxQK/Cy/t8nnKkX8a2Wcu0KQYVcM6IxtkvrbR15Cyrfxm45rCQECvFxOLdqXQLEsUYZMAxSV4bv0frlI1Dev8/eWJzWOf82JKQ87/i36P+zGQDuHfi32SUVh5Ts+8ucqMgB6LjyltKc/7O0239LqY8WMow+JUhv50xUMXoWhHniSVsrtf4CU2qQH7i1Dsj21k0sDNX4Dlm2qVOF/kKr6nVWk+fUgBKQf7g7K0bP4dqhPKyA4Kyb2YPHHaP283fiw60xIW0L4eDg69nKdAbiE2V7rE+cfJtlyPEIduvbrUnhNvzv0JW+FN/Z9fj4cmSWNeFpbaogvM4CAxgQzknNpmv5j8FSDgauh9r5JuYG1ksSQieZMdIlDyyyGk0J8S/CLSyQEEKIsCryGVPuoSwp3tfDwcjrSXjkXbuEl4dWNpWOkvnWhYN7qx3emmdO0kFmLdppAOxsOrPF65j0xn8NTmO16nVA1xqxPXm6MkvplryfLZSw==;82QC3cOtXNxegLQsSz47Sw=="
 ---

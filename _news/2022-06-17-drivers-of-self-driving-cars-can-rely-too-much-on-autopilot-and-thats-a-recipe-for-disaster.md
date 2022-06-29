@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster"
-excerpt: "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars."
-publishedDateTime: 2022-06-17T14:39:00Z
-originalUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
-webUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp"
+title: "Drivers of self-driving cars can rely too much on autopilot, and that’s a recipe for disaster"
+excerpt: "Likewise, new partnerships have recently been announced to develop and test the safety of self-driving trucks. The journey toward autonomous or self-driving consumer cars, on the other hand ..."
+publishedDateTime: 2022-06-16T23:11:00Z
+originalUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+webUrl: "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+ampWebUrl: "https://theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "LQc/nVb9cWivLnW0wu473+2cFLro2nsONrNo2rvej2UpxO3/dsDOKtPb9/XhPr5ieOi4HR34+J199EIiv0O3RoPCbbCp+4J/I6k+Ukcl4d9KmdFVapFok29naC9kWkJcN9ZjP/GGxUDxgeGs2NvksFg9XvzBuqMKx+oWmAc+O63Nv9ac74i3lQ1kgaZOEE+gc84KqiWR50sKnAtbYq91gHZMD4YT7A/9zOB7Vy3kXFc4saHCl65hVm3I7XBOwJoXjZrkHz97cHF1vYMDNRHFe526S2wUITmHDJGysPEvk+oKZ4cznIgScYdLu0kLYzppQI5BJOQ83PcajNiWOKDC4C+V8tfoQF1iqoKOmm1VWl8=;ZWK1PkCvXl82wJM09s4c9g=="
+images:
+  - url: "https://images.theconversation.com/files/469278/original/file-20220616-12-ui495k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=245&fit=crop"
+    width: 320
+    height: 245
+    isCached: true
+
+secured: "GRBVpSLg7791fbCHbdcjrRGSDwyK8Bguf7LaOEAfyR9Q+27K8ci+AOHUK5mNzaW+LLIvecFtwtLQCHUsaKfqwQHbHUH2F4OnklwMdbTRXNFIVSfhO7yFO2HPq+lg1znmScROB6zARsVOUBR5ZxIOzZms1HEBShCoP7D06PDcbFlwDMxBfj+uE1aFQgp7Y4c/HzgT/9Jkj/UpQ9fxQ96WIugYbpKdT4zj5ufviUqXMwApgNLbkmCyn/jnamOJv1oWPwByAP984w1VHCx7ffPpmXGhbH5W5Z2IfglxtG05XtfiH5gQlvfxcmiO8GH9bQY31hvb/rsBvKh6iXO5P2xCC3l4tQqS8AlQgj1iiZJEyR4=;SegAEPYmeqPi2D0ZZ2mwAQ=="
 ---
 

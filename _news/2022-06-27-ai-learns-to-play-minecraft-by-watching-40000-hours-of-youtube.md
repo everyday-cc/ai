@@ -35,6 +35,36 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 67
+  - title: "OpenAI’s New AI Learned to Play Minecraft by Watching 70,000 Hours of YouTube"
+    excerpt: "Now, the company says its latest AI has learned to play Minecraft after watching some 70,000 hours of video showing people playing the game on YouTube. Compared to numerous prior Minecraft algorithms which operate in much simpler “sandbox” versions of ..."
+    publishedDateTime: 2022-06-26T14:01:00Z
+    webUrl: "https://singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/"
+    ampWebUrl: "https://singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 54
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/06/minecraft-openai-machine-learning-algorithm-plays-games.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "An AI Was Trained To Play Minecraft With 70,000 Hours Of YouTube Videos"
+    excerpt: "OpenAI, the artificial intelligence research organization founded by Elon Musk, has trained an AI to play Minecraft almost as well as humans. It only took about 70,000 hours of binging YouTube videos."
+    publishedDateTime: 2022-06-27T18:15:00Z
+    webUrl: "https://www.ign.com/articles/ai-trained-to-play-minecraft-with-hours-of-youtube-videos"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 37
+    images:
+      - url: "https://assets1.ignimgs.com/2019/03/18/minecraft-1552946351168.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "This AI learned to play Minecraft after watching 70,000 hours of YouTube videos"
     excerpt: "An AI has learned to play Minecraft after watching YouTube videos of people playing the game for 70,000 hours. If movies have taught us anything, it's that we're inevitably hurtling toward a future where robots will become so advanced that they'll rise up against their creators and wage war on humankind."
     publishedDateTime: 2022-06-27T15:04:00Z

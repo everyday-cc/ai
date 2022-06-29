@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-
 webUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html?src=rss"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/5-brain.jpg"
         width: 1920
         height: 1390
+        isCached: true
+  - title: "Partially paralysed man uses mind control to feed himself"
+    excerpt: "A partially paralysed man has been able to feed himself - and use his fingers for the first time in 30 years - thanks to recent advances in neural science, software and robotics. Equipped with two robotic arms,"
+    publishedDateTime: 2022-06-29T06:08:00Z
+    webUrl: "https://oversixty.com.au/health/body/partially-paralysed-man-uses-mind-control-to-feed-himself"
+    ampWebUrl: "https://oversixty.com.au/amp/health/body/partially-paralysed-man-uses-mind-control-to-feed-himself"
+    cdnAmpWebUrl: "https://oversixty-com-au.cdn.ampproject.org/c/s/oversixty.com.au/amp/health/body/partially-paralysed-man-uses-mind-control-to-feed-himself"
+    type: article
+    provider:
+      name: oversixty.com.au
+      domain: oversixty.com.au
+    quality: 44
+    images:
+      - url: "https://oversixtydev.blob.core.windows.net/media/2022/06/MindCut_Hero.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Paralysed man feeds himself using his mind and smart robotic hands"
     excerpt: "A partially paralysed man who had been unable to use his fingers for about 30 years fed himself dessert using his mind and some smart robotic hands"

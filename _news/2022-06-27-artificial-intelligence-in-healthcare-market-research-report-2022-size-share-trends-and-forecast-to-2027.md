@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Device Market 2022 Size, Share, Growth Analysis, Development and Plans, Revenue, Sales, Key Segment and Forecast to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 27, 2022 (The Expresswire) -- Global “Face Recognition Device Market” research report 2022 provides specific segments by manufacturers, global growth trends ..."
+    publishedDateTime: 2022-06-27T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-size-share-growth-analysis-development-and-plans-revenue-sales-key-segment-and-forecast-to-2028-2022-06-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
   - title: "Automated Machine Learning (AutoML) Market Share 2022: Trends, Growth, Size, Opportunity Assessment by Forecast to 2029"
     excerpt: "Automated Machine Learning (AutoML) Market 2022 Report provides the industry data on market status, market share, growth rate, competition landscape, future trends, budget allocation and key ..."
     publishedDateTime: 2022-06-26T19:51:00Z
