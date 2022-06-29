@@ -2,7 +2,7 @@
 name: "Risk Ident"
 overview: "RISK IDENT fights payment fraud, identity theft, account takeovers, and loan application fraud with self-developed anti-fraud solutions."
 type: "profile"
-heat: 50
+heat: 64
 
 website: https://riskident.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "RiskIdent"
   url: "https://twitter.com/RiskIdent"
-  followers: 362
+  followers: 363
 
 locations:
   - Hamburg, Germany
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Risk Ident"
 
-secured: "Nawm9dqOlue/Gf07IYh5eRondHeLE75wRdfU7xvscV1epLk7MiXmxvnfytx76EchJXzipo3fXvxm+lyK+Nf2eT2aEdYxkGl26BFkgcAJHSAXV04Stz5gRCWE4qaIyn/WfCbxvlS0ZFKsqMXADbZ288qfKZ3rrJlj6SXKRkAgnbovAjB6kAgozERCCBmI+iHnqX6ms7J8XMdiZ03cXYkcgpTJDtnaOe+TRF6rji5XKabHwThGtDd0ChSuIWfliS6OTsm5Bqc46OJ6e/BU5bFQ8bNwqBqwZQB4O1Q7ZvYm3uXGYp2ng3raMEirjqz9buCpl0DAEnhnLaxK0z4yEpvRXYm8LPvs+l1pbgK27w/QF/CW6u0J7geT4PVSdHlYpllZ+SXLjRph3nPgJ9FW2yTrLw==;osQUQGHEYOOZM+uWOj3vhQ=="
+secured: "pPSGRqq2Gi5CDgQw9Zr67wGbgjK6oRSveAxWjMJw1hfJ8rSJ4Cy/ZC6z2nDQIJqrMfhNBtzEAoQtfDXHRGKvtOMEVtv2CnUAI+IHekNvftfnrD3GHkeogy29r/QifaACiYVCnrK/Ki1+diFDDCurjTgJwFFOUtdEfIec7nt5eUerj8TmUur4I+ShaiRJ2sKZi3NUskExxakAYdLMfIRWF1op/IvcK+/l8K6owJFzrH3VUOzNqsFwfbrznWLonlzBt7A+nKh/ZFQOxUnZaqcRM0HrAZfYpFCsChiQgxy1mWxQFjmjjp+T3li0eZZCMMyOFGzzdA+LVvGjewf2MgRIqlZUwkDmdcx9Vyctr1zSRcqrH98YPGO0RkSU0vjSHJvSaqSR1kWvUAKNs3vzbRkZBQ==;+EBXw4yf5HqiSA3ox6Xk+Q=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "persado"
   url: "https://www.twitter.com/persado"
-  followers: 5211
+  followers: 5210
 
 size: 201-500 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ig4B5roBgao"
 
-secured: "gb8uULoT4Y56kPC5v/YuM4tBA7El23rgnWSS6O55sdMWgZcOZPFdGg6fqLrFFNMPb5TfRT+ODVmdfrRm4AC+oazLCbh9KI92+cGpTMXtmaK5hicVeDRiwD6beyhbRCEFsrAL+ObgPi2N073Dcx9dkXkW0zqJhaL0egKAztcj/rHCWqcrtj9AyN/WTtYeP7kFRr/NLKw9vbEtH+eoV2EdOQ7aeRJ4fsR6kXb8b7NHcdMvEmBp+ySH9nbJmlItW/+JQ/hic4jlQ/hvpPlWnmqCfHX+cth7fCcKGp1DeAOP0VJUVgqPdAJvaPAvHhE65/l0bGhO34LnbgSiYZZPrgvcz1SPxC5nq0yWPnFqmYtqt2pyGsS3aSUQOSL9fps4b1VXsfGEtpPRQF4tbghymw/h6NFxopOLYQsvcYf5YR0/iMw=;545hWtHOXdEZvY2zyXMojg=="
+secured: "u6iAReySFjA3lte590FAJN7iP0Ri0xgcdhtNVkii+NYcTjMgFAS/v/GcXScwi1om7yZBsN3na4X1U/Nq/z76ekZxfPXUdgc4YvcjSSsWGr1IQBj0+J5DmBfSNXahFxB12oGT3oH1vSTD+Yi0McQsDMXyaZUVpgOHXuqIzZlr1CcG/mU3Z6SZe+gX9xCoBEt1WMYnElxYXzr5oje3c+PywGtcTEc+iUCHtlbIn4b/hyI4SZdPwf/03S5QYP5rbHCHVv2I2ayG9sGyLWJbJA8oyB4pTYUoHsYVAHS52Tnap6kJ7FIhRj+wvkODpeEqhCf6WEeyYXaUF7lAPeSq/Zn0DGN12TlNnEn9RJ4A1IOstZKMYrKZjU4GbEy7YKFFST9e6JE7GLbBbYa5r79LgYq2BDb1UGyFcplSOoz62pvkCuo=;OYlC6hUvoxun89l6ox6y1A=="
 ---
 
