@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T18:03:00Z
 originalUrl: "https://medicalxpress.com/news/2022-06-reveals-job-problems-contributing-physician.html"
 webUrl: "https://medicalxpress.com/news/2022-06-reveals-job-problems-contributing-physician.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Medical Xpress

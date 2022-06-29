@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T19:00:00Z
 originalUrl: "https://www.popsci.com/technology/darpa-machine-common-sense/"
 webUrl: "https://www.popsci.com/technology/darpa-machine-common-sense/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Popular Science

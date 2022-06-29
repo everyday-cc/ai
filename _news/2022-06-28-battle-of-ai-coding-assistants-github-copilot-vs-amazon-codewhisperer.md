@@ -23,6 +23,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "So this is how it feels when the robots come for your job: what GitHub’s Copilot ‘AI assistant’ means for coders"
+    excerpt: "As mentioned in the article, I was given early beta access to the GitHub copilot AI tool. I love writing code to make things: apps, websites, charts, even music. It’s a skill I’ve worked hard at for more than 20 years."
+    publishedDateTime: 2022-06-29T19:56:00Z
+    webUrl: "https://theconversation.com/so-this-is-how-it-feels-when-the-robots-come-for-your-job-what-githubs-copilot-ai-assistant-means-for-coders-185957"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 16
+    images:
+      - url: "https://images.theconversation.com/files/471517/original/file-20220629-24-n3q489.jpeg?ixlib=rb-1.1.0&rect=49%2C316%2C5562%2C2781&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+
 secured: "z51N0Mt/UHIDOElHv7GAS2RcoFlwYyvy7c0dtt5CMWADdHz43oroh3oWGqBuoMXwBYkH+EduuHDJXFb8NfwbV5cjK1PSUbbSPpgw9rfpN6hQORaG0yjw5k7e7h3pjuimJLUMeKZBFjABowxLEJjumWIWylLfMYu8lp1HjyiQhYnslhWrQE5S+zPEZqeL1W+s/AfeTLTWtDaVtqiyB/RHsfbV9vzGk06evgLuA7IAH35+G9+zEY6/YzQTAs/KxjytSE6YWw5YizRwPc2LcztkwGjx62HE3XvhztZgXkxcryRsMJHOWa1oJzt69M2ebgEz0Sv48WjeFAodF1a66KPrFdIagnKgL4QEwHsod54mIJw=;Mx8aVNvn8aDylPS/A66nXg=="
 ---
 

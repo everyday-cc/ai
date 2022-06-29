@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T18:39:00Z
 originalUrl: "https://telanganatoday.com/govt-degree-colleges-roll-out-ai-mi-courses"
 webUrl: "https://telanganatoday.com/govt-degree-colleges-roll-out-ai-mi-courses"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Telangana Today

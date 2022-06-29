@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
-publishedDateTime: 2022-06-24T14:22:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
+excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
+publishedDateTime: 2022-06-24T13:31:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "BPnDzKi4IYjDUNBhE0H39+FsrG7ovSv+8kcBflp0TSe2A7rH0DHpawjLJ1D+/fFZFBWr/L2EnPkiWGhITje2P44f6+wugEyge34H5heOywaEB1kEOTq/mBSIMoxK2XlqpusH8uG8fW3dSLDQ1iNktC+OnJeiHoO0XqJv9nmv6HBi9gd6BG7W40/oogjtJfWCVMU8ZCffc/7O04pol6zyL1xO/OrBWSN+tJN2aKXistF6RihKn7K3zASH3rOCUIdVux61+ORGpYP7JordNob3DbJrLMYSTiFfag2xVnAaqlnSXqwHhufGtbClTE6kk7iAShkAgBA79lNAsXRKi8ra5LvPLwqkiS94zglEy6/jjQo=;hmhLJWAA7QDm/PnSxZwcOg=="
+images:
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
+    isCached: true
+
+secured: "/3h2d88pLrjZRX6+N9M3hMAj2M4FTTsw+DUNuMVnsCUzp1jnuFX6XZMslfmXeicftYDewxguSqzI7pDX4Y6aHcWgpgtFM7ZV1Wi6NlAYqmBu6kX1H1O+q753cGLx4RZi85UMSRuLusQdV0sK0V34dxwDfUsx2R5fJgOpQ9Y0JRolMFp/dYagQt+vcXIFF7G43IWOtrhwtNzYyV9sbGiid8NkoM3oH7sfUQCN8RwQf86tN0YbtHIMSBQo013KvTEyZiIEI9fxgZJT/mgjat2Hl767ZSBBsbyh0EwCHtvbqXVVhIR1x50E1igLyPGWjZ4VPM03oC5b2r4vpoUFQT8/t7uGn377+Bz70US9m6rzU0g=;ycRjIUkyWIPNGIQKlNgHyw=="
 ---
 

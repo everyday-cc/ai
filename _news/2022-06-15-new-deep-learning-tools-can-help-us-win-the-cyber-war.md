@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New deep learning tools can help us win the cyber war"
-excerpt: "For example, deep learning (DL) has helped make cybersecurity strategies more proactive and less reactive. DL is the most advanced subset of AI that currently exists and it’s a huge step forward ..."
-publishedDateTime: 2022-06-15T10:14:00Z
-originalUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
-webUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+excerpt: "Stronger public-private partnerships and tools that help organizations more effectively detect and mitigate attacks can help the U.S. stay one step ahead in the cyber wars."
+publishedDateTime: 2022-06-15T10:11:00Z
+originalUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+webUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "x9x5XClP+hf42yMV0EJXpr162W65mu+566FBN1hl1+YJh5y4B1LdNdIZtBh9bNEafkdAjnCCmopm3/GqYlb+UusnelabjhLy6t2UChz2oIi+O+enNtre2e/nTFdtI55bZ/z29LAOFZyPSQsiS728Tntsykp2F5YLRFLrG7ZBaJ8Oxx1rQoAucp0pYE4RSo9FMaPn6BA3ZegfBkf+3vCalFQGzYPXIXLFCjRppHOdI3aHj29oOI5W+dlS6M3H/Nkn19dy7k4rpaOOnu4kZctA6jWO9TDF9qBGMhbXA25DuPXWg/v0LgFek8mYuGZi+Dy5mKt+EcEJvJ6OjPvKaOYaPy1+jxkqOsnRDgtjySNqlT4=;sCep1lKNoZYvTXFHbttrQA=="
+images:
+  - url: "https://files.scmagazine.com/wp-content/uploads/2021/12/GreatwoodColDEC-e1638991220438.jpg"
+    width: 1241
+    height: 745
+    isCached: true
+
+secured: "FSrz3c7P+x54rkuXjgllGos5+E3qbKdHEVcU5JLEwg00qM35g/rCDAXeusN88DwaoTYfdegGm5DJbPEY2EiEfXs/FoIJwn3zS0yPaKAV54nQ51oEYlxl9q554K4c1bN9Lx1bWMpnLg+G9KF1V7tbCV2h9xPLK4Hsepo/cKcxrrHT85slQYYHoXSj1Sm3lZom7sFbaQHf35RN7tR7IXN8AzkAkCoDveMuyV52LVOpzmi061GCn3/EIyDsw2h6PPrZfrtzzRgDjnt1mpzIqF6Ap8M6gAn/MruTLYC4/ZWhKtCTy25YDQoID35w1mGuP8CRqZSGjvaM0SZEg6HuXr1M0g7d5mle6ZjGlz6bSYAVMUQ=;lmfL82P1ioGIZsbAwc/4pQ=="
 ---
 

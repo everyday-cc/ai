@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
-excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
+excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale SAN FRANCISCO, June 27, 2022 /PRNewswire/ -- Today,"
 publishedDateTime: 2022-06-27T18:08:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27867705/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27867705/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow"
+ampWebUrl: "https://www.benzinga.com/amp/content/27867705"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27867705"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -30,7 +32,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?w=1200&strip=all"
         width: 1200
@@ -55,6 +57,6 @@ related:
       domain: enterprisetalk.com
     quality: 30
 
-secured: "CsD/N3cad1Duda247UoS9VO7rXF6TGKVFZdJDZH+PNwF7YkD0+U0aYaXuiTP5w1uXSq0FTBBXQNuhvIL3ugi/mmUXADkpGbIZk8cD153M92APCQ1s3pYm1eZYfsEijcDy/6ZUlPWDoAVNBi7ZVG4MJWgTb/sADazNYe4MkLSRKr8kvQDcQUxE5QpexzXTeqK2g2m2Hsa0DLfdHZTjPEKhlfgsPVTMqfiLlV6AvDx3I7jv0IYNP87jO1ockq4vE3JWlJKD476V91kRC67fP44Bo2El2srQGEr5YSxmYayPOqZT00+7xNEGy3gIdBTKMw0Y9bzqqtirV1Q0KVauWns2op2CsL1x2XuckXG8dqnKApUk5owyBNDsLLx/X5Mweyw88KObIGcWBjI5lEEAgyjM+gSRM2peqfbB4lXxwNW6bVt9FYSkFyD6WgUMCMP9zaMmkln69y0OdzWnTMY6qc1gT4OY9BTqRD4pXkgW/onNZXVVVTCOnLp/X8s68aPw8SrCpCh/sI9ZknaHZTp5vKEow==;IhlXW9sLVF/h3RD76rZ4BQ=="
+secured: "zT5UASBlgFf05jpC1zg8cb9Mc6h1xjzX95UWaKbJnJxztW0B1NkQFUzzoGkrPosP7DYE33Feq0mwgYW9qRUt4uliJaaVlvUIRxnnXIDWG5AKGCtezgfX95jbJ8yedMrHOXJ/nC/wk0M60LMFHOiqeMHmrYdG0cMg6zYK5eevNUNAzrG5f39SUsMK6OIdxXNHk+py+6cp9txK8BV3F6if1+6OFAwaFSUWeT85BDVVt1D17cfVXvR8+AV6Hw8Q1Gt7gFJtPH0vRaNFhEXGQkm+g0mNEXNl+Ln/un9MEnOeLDKcYMaKToMqbtgyUZ4+Ig1+K+Q1J+0IlgFPVOAww5epNh3jTB7yWWY3iP8t0WybBzI=;ziAvsNdbeiC9zNIZl0+3mw=="
 ---
 

@@ -33,12 +33,23 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?w=1200&strip=all"
         width: 1200
         height: 850
         isCached: true
+  - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
+    excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale SAN FRANCISCO, June 27, 2022 /PRNewswire/ -- Today,"
+    publishedDateTime: 2022-06-27T18:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27867705/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27867705"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27867705"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
   - title: "Weights & Biases and Run:ai Make Business Alliance to Enhance ML Developer Workflow"
     excerpt: "Weights & Biases (W&B), and Run:ai, the leader in compute orchestration for AI workloads, have announced a joint partnership."
     publishedDateTime: 2022-06-28T09:53:00Z
@@ -48,15 +59,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 30
-  - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
-    excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
-    publishedDateTime: 2022-06-27T18:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 29
 
 secured: "8EHI9n60gy2nh7FJOVx7oSwZsnuXz0USs4YEPxvbQfqb2/Ysr7qNzBkAlzGn8RpQ4z+5aZcsLl4lcfRYAj0rGnCVVgp+dQ3V8Nwdo6smODXaUG9x7Ed+GnQhBYVher+GEAYemIiQjK8ZZVNY9BTNijiZoY4L+ctz4dGXTLFBOQqGUb61HQnAAQDV553Vq7GtRmyVr3ksZxjF6sIdnD/jAdM64zlC0mtvMIKAClkHtYoOZYWqBQIQrKuuT8UXmLXF7LRnMvtx8ZEyOILKuqcT29hLda8JR7q5mtgNRdoJLFS9wk0KAguKIM8kls6IfnM7dAmKnvxW89Y9IatjZSK3YsOXyEY6PwHqS41QOAgmM+hvulqoH//zMmAL6qfy5v/qJDAc7s6hdz2QEXueS3T1bIkq0upsZWnhXiDvhm53fAu5XwSIYmPS69lup3bj8KpMywksbWmALqsWLCKJyQX8fhrGYI4dU1LblB0tfdcIhsh5eNnczNT9iAd995ym1mDVvr/sfeDhvGpoDMPoSV/92w==;gCOR67GpGnrY6t6/l4eAOQ=="
 ---

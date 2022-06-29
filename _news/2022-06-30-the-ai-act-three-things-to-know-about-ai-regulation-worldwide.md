@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T18:58:00Z
 originalUrl: "https://www.forbes.com/sites/nishatalagala/2022/06/29/the-ai-act-three-things-to-know-about-ai-regulation-worldwide/"
 webUrl: "https://www.forbes.com/sites/nishatalagala/2022/06/29/the-ai-act-three-things-to-know-about-ai-regulation-worldwide/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

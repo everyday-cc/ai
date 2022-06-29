@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T18:58:27Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/"
 type: article
+quality: 85
+heat: 85
+published: true
 
 provider:
   name: AWS

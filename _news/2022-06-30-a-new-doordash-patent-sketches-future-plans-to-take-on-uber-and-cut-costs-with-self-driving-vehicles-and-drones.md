@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T19:53:00Z
 originalUrl: "https://www.businessinsider.com/doordash-files-patent-for-automated-vehicles-to-speed-up-deliveries-2022-6"
 webUrl: "https://www.businessinsider.com/doordash-files-patent-for-automated-vehicles-to-speed-up-deliveries-2022-6"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Business Insider

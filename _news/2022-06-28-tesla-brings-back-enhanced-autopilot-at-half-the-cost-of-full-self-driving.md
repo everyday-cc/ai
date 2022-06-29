@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's layoffs hit Autopilot team as AI develops"
+    excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
+    publishedDateTime: 2022-06-29T21:01:00Z
+    webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220629161230-tesla-vehicle-autopilot-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla Reportedly Lays Off 200 Autopilot Employees"
     excerpt: "In early June, Tesla CEO Elon Musk reportedly told executives that Tesla needed to cut 10% of its staff, based on a \"super bad feeling\" about the economy. Now, as Tesla pares back its workforce, new reports are highlighting where some of those cuts are taking place."
     publishedDateTime: 2022-06-29T15:00:00Z
@@ -43,6 +59,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Stock Split Seen Drawing AI Investors"
+    excerpt: "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things."
+    publishedDateTime: 2022-06-28T16:56:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
 
 secured: "thqjkKWXw8p0O2dzOWPHTLNqBkE+6sG9jUwVFfk2eVoe5uQxg1o27X8xuLgBPPKdE38D/vf7NF5R6deaYJyYy5mEZTshZgGPgXDWSgcX6bwbrDJkf6u9MP+SrdFfdn3UzauyPIvE5jeSSx64EZ6gI555CuhAoLB5k2+aSMl2dvbJoAHsvG/piR5k2Nrm/3WXwzR+m7VqL65JXiHZojGeTWOS/Fd/gZ7FsOGpPrkvYymTy5H7MrfuMuiWBw5XKEvuWXXO+lm/X/AzEq+wrmKxBw9lKoMAKyLTbUArrESnlW1IDIuOJdeEjKTjsZMr+tNHi4x5O+xmulPHnmdbssTUo1McYWqFuzofHCeaQLHZn3nFupvg94o5nSibSNP6zd5WP/JbC/7jyASrX9hBz4sks3tFon/jDezZynM+xPFr5eARIaf0Bo8lQ7SuBTKRDhVPyIJOstnGWlYnKRWDaJShRsksTOunM/80l8gcg6xL017egXSUfbT3rtajPC4x/y6IW6RPlm/0mOZy7GMACLksSQ==;pfEJAr41fN7kHjIhv4/ZLA=="
 ---

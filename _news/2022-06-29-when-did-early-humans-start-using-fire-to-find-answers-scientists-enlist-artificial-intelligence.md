@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T16:43:00Z
 originalUrl: "https://www.smithsonianmag.com/smart-news/evidence-of--fire-artificial-intelligence-180980319/"
 webUrl: "https://www.smithsonianmag.com/smart-news/evidence-of--fire-artificial-intelligence-180980319/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Smithsonian Magazine

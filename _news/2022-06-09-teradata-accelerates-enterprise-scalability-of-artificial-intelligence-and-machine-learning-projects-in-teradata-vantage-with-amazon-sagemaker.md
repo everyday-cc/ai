@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+excerpt: "Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics platform with Amazon SageMaker, the industry’s most complete ..."
 publishedDateTime: 2022-06-09T14:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
-webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+originalUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
+webUrl: "https://www.bakersfield.com/ap/news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with/article_3f2dd1e0-cbc2-5814-8bdd-b9ec080f9869.html"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "Blrg4OdjWccRWLIIpsMJcQYIKofzLknxkMJfXj2FkTisfrC5QrwfYxc/uh+xtXRnSo6xIFXwMsHNnsctRu1xNQiQOR13nqGmBCpbgQMNKjs4Y/EKKi/4NnjOJNhssS2h8Gh2km4jWdVMC/ACLrQgu7hos9sUNQpZFOEr5nwEHgrsSO90mz7IDpQVLLWFnUftjNxZuS16UmPs54DS6cmdDvLrrLUxAXRabcnVBNJ1juV5lN4lps/1Dy4/55cYScZVe8LbqyTX2oxEUtFcixc7Lv+GAcr2rgSeE3q+o4MnRPF5lXMr4aEyAbcfycHpQqMrdLLZTs+h51TfcVFEK9IvLQAnTrv5sye6hR4sgwreUF8=;rX/ehRp7hrt8ki+6wRDJHw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "0xrAbWl1IhchjO7MtjQiON48epflU7hSHEON/Kt7fTUSJ+7spWuBHj9dSa1cUBdtYG4VQPL2/fJHgLDzxxqzisyhOnarXyVRPGlgOsZuaVYCxwSg0SToovwCta334ODzcRQR2vnL4nCedHfnN5hjWAQFufklCZ8JxDHMj0ImbkiRwJQ7A0c7x+mcl8RbX0f+sJswasS+ORpqra9dIDtjOf9Yn29JYo0sKLccWDd5wBmQel/19vMJFxV6JoQCzjhf5AOa8C0OCRAI6BMyW5gpEuNa6+KGAvEFtxua7zjhmGXCzPcmSpU817dxQ1LR3cdPUKKSZY3pLGGp7RY964cn87I/TCMOdfhTAbvIE1tO2RM=;5ivm5O3rqj/HUNJ6X6ubzQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-29T17:05:00Z
 originalUrl: "https://insidehpc.com/2022/06/mlperf-latest-results-highlight-more-capable-ml-training/"
 webUrl: "https://insidehpc.com/2022/06/mlperf-latest-results-highlight-more-capable-ml-training/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:

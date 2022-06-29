@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weigh
 ampWebUrl: "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?w=1200&strip=all"
@@ -39,6 +40,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
+    excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale SAN FRANCISCO, June 27, 2022 /PRNewswire/ -- Today,"
+    publishedDateTime: 2022-06-27T18:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27867705/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27867705"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27867705"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
   - title: "Weights & Biases and Run:ai Make Business Alliance to Enhance ML Developer Workflow"
     excerpt: "Weights & Biases (W&B), and Run:ai, the leader in compute orchestration for AI workloads, have announced a joint partnership."
     publishedDateTime: 2022-06-28T09:53:00Z
@@ -48,16 +60,7 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 30
-  - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
-    excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
-    publishedDateTime: 2022-06-27T18:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 29
 
-secured: "K1vbDQIinXcrd3wu3FWhRYqI+vb7Y/gXoc4Z15+M5MsScnpzuu2TO1cOyfQk5JmGfbWiAQ9ZSttiJea/zC3PNYtLJehwV5wi6Iy2fakORsSRmEZR/qYVD7DZdpEerBf9hhnkanMRzDbZNzob9InqUhkIja4A4pAAhus/aG75zDNdlTBTe12qtKz2G2FM6m/Sa5Gs7frUXoPhk1OGgsOI2P0LXc6nR7kIBkLslkM//pwOHAz93KgAgysRpjsGcX1nTJnEuqzvMtpI/pNi0E7u8UjBQz0FmRfz2/oYw1ucU7eHNBQyL1Qvwo/3qmw3tigBRUo1Hml3qmNHAxQ7V1mY+plcyCoDqHFtoKvQVH0NJyU=;DpsMFaN+bE8pPj3ZHQKB5g=="
+secured: "dkOzklSostq7aVdLoGNGYFDA+ZKu81bbPRqtnaWSo0C1rV4c8z7i3W5quR7rjg3cBEmVHSC7Vt6z2giMtdQHYkw+sVDOTeIiy8jNTs5cns04jhXuiewJF8LeqNye+yzrorn5jnQZwwixkedAqaH6StUkKIzX3vlKDITQeOJUD+Ws1Gafdp/q6wxKl9rWIgn3qIPuRROqxlOSTvg1A38vs5/5WxWBKpMXVFq3CxYkFGFbMjXXnMZzxTnldWReTj0V0nKV4x3u82wlVCO0gJCjhyL+kDx0U9/4/XsE05hpRD9xtj6XZTo+g0hDjPURtJGDven6QDBkSivs7mUQqtq/6e+YWOPqPMVacwG45lTf3rtZc2+zYKXyi6PnwIUz+x6Q+lXsS3esJVXm3OFKnQk6xiT6qhx2+CC/CzvzkshtxWBoZ2ss6YKJ7fD8O1VC71AwW9oe5GKELA+ww2OXSEZogq9Hfz1EcmTe3K8glGoGu/gtL4CalYKDig+rOrsT48GaV3Kh95xlHllf+qG2CmjM5g==;tnhL8ku+lDytFBiP3xU1XA=="
 ---
 

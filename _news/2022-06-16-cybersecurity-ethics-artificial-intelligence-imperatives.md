@@ -3,17 +3,17 @@ category: news
 title: "Cybersecurity Ethics: Artificial Intelligence Imperatives"
 excerpt: "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally"
 publishedDateTime: 2022-06-16T00:00:00Z
-originalUrl: "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
-webUrl: "https://www.databreachtoday.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+originalUrl: "https://www.healthcareinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
+webUrl: "https://www.healthcareinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356"
 type: article
 
 provider:
-  name: DataBreachToday
-  domain: databreachtoday.com
+  name: healthcareinfosecurity.com
+  domain: healthcareinfosecurity.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg"
@@ -21,6 +21,6 @@ images:
     height: 520
     isCached: true
 
-secured: "rFglyfTSS6Jbbl3w/W5E8ngD6wHQTz4z/tL7ZUxwBTW9+buNUSQKDXEdfaRVEKELIxcrPngIsLVMYCkzaeKWmBDYD9aBJEsuQVJiTXxLyRokUkpe2iz1GghZknuc6b2BZrKWtFnyuYzcz25fcT+IpuRHduwglVCMT5jpSrn6kPbNEtgVdw4V72MMT3qQ8NBarhwabhac2X34XEekQmpkuey5TyTR7IJ3mPgqy9XMyqrr2D3dOea6Pjdpn6uwB9ZoE5/4b8Vr9Hm1Q/8pfBqD/PjB2hCMlM8n8D3kKeN7W2x/3mnjv6K6Um+BXp+9uVAdIDGIDM0Z043o4HpLDAEh2Iftrx1R9m724hkIsZInOTgg6z5gTwxkiVZESqxVWE0ealFNx/Q1prgfposk3mucReK5kUlsaL9g9cd5wn3/dOklaBNTrSGlSlQMO53UiL6mb51UoczC4o9L/0k9eOqHJq4o6Kmot0ujDjtyaSdlfP1WCZ3bRgTR3bPUT+loDrBnRmYDJC+7z3r4J+NSm7NdpQ==;cHLSBRNcZa6yLZ4oHAnyJg=="
+secured: "m+xbVYYRGOlm73cp5KjR9QBuc8WS7Wbetv2oeFF9lbaDk6v6QLtHwoJk95leDpRD4bkSq+s/rG3pzlPYvg+IZifdXRtsrgIGn8NTpC1TQ3uBoIl7iEVDNZmVCY7GMs2vPcgElypH746F5vKbU2YjvZKJYzjFqXTuugzRgW8jQIy9QjUmM0+r5Q/M/cfhKvdCs5NCa1dKxL8d1fPkIyJwEVGqn0soUIw6q40QpXwUa22Uq0nFvPAyp7R8XwhX5CjP+CmPcONknG4H6OWnN2QH0TlMBzLTdEmKfnm+PbgeiYP67ptA66GcgETFPvMJOKy6ITRwn/IgNlvnksBW/TxBaKCXkf3/ndxw9jL7M18LQxE=;y9zkL17m/jwLSa/RMmyBtQ=="
 ---
 

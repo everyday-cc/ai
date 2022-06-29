@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T09:38:00Z
 originalUrl: "https://blocksandfiles.com/2022/06/29/storage-news-ticker-june-29/"
 webUrl: "https://blocksandfiles.com/2022/06/29/storage-news-ticker-june-29/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: blocksandfiles

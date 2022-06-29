@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "AI 2022: Conference highlights"
-    excerpt: "This virtual conference provided an essential forum for discussion amongst those at the cutting edge of AI-related innovation, authorities in how it is being used to modernise newsrooms and journalism,"
-    publishedDateTime: 2022-06-29T15:09:00Z
-    webUrl: "https://www.bbc.co.uk/academy/events/ai-22-the-conference/conference-highlights/"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
-
 secured: "4CBPdXWZ0xFcqH+lUXO7xvma1FrOkORBnW9pXZ4Wxs5gu4nJ93lK/HzDtPdk/yWYYPeg81bnbp7Czn0nois4zuqe8GgOzDhWiZDTluGoxj3wxwX3fUx1GnGuqA9DizpnSLT3w/MKvInq5aMHrh4/w763FInAq3LJwxng3/vne93PaJnGZzxRm2ytycc2FaRJri7hcehRvl1Pr+2oFHiQUqCafo1PVMrfMVmn7LfW+1tcyXJDQnpQknfpM4BIurqIEiMRl0HmsiXbSh+rEuhr1rXkhC/xVTsUZt/ZTqjJYuDq+erf0+eruYN3RHLZY2JTfl3DJGrAtqdMmkmro9ZvtfpgaLDhbH61PJRh7PjUxlWKLZVx+8XZyiQgsndBzXQwcrBvm1Pa0j0Z5geXmz4j0KIq16Ytflfi9UPcTmNRL0GHMLt2zSgB+DHMpJ1GijljI1sQ8jVsBOlvBtp4ihhXtBChNkNZsD+uPMKSb30H1TtIA3EsfA9QqqoP1beE1Utn9bJXg55wWs6IgVKOaep7vQ==;PYh4M1jzu8Miu60nMoZzCA=="
 ---
 

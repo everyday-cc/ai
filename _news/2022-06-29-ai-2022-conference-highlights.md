@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "10 new AI unicorns flying high in 2022"
-    excerpt: "It’s no surprise that among the 206 new 2022 'unicorns,' a boatload are in artificial intelligence and machine learning."
-    publishedDateTime: 2022-06-27T17:42:00Z
-    webUrl: "https://venturebeat.com/2022/06/27/10-new-ai-unicorns-flying-high-in-2022/"
+  - title: "Cisco Live 2022: How Cisco Is Using AI to Boost Efficiency"
+    excerpt: "Cisco's Vidcast leverages artificial intelligence to save its users time when creating and editing audio and video."
+    publishedDateTime: 2022-06-29T21:53:00Z
+    webUrl: "https://biztechmagazine.com/media/video/cisco-live-2022-how-cisco-using-ai-boost-efficiency"
+    ampWebUrl: "https://biztechmagazine.com/media/video/cisco-live-2022-how-cisco-using-ai-boost-efficiency?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/cisco-live-2022-how-cisco-using-ai-boost-efficiency?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/Vidcast%20Thumbnail.jpg?itok=SpQwqoK0"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "sJUg3v1FR+wrgn4n9Zj3M23icfl1emhDzMcSzHhou6bkEc/56vIksKaTjZ7kEBW2iHOFV3KrcK8yjGgfU0gc7fw/hrcef7Olmi/WrGQ85/pzDHbxohHotuf2zdrrjPAcFfFMHTcOH2/RPs5XF1MqpFoBTB9jUwxh+lXC/96+szg0gd6ZhahW7VjyCsdfy+dVZig8hgIdgzSZhLfN0yx2CVTzhl8o/D32wv+F7AR2YA2QGlWYXu58vro16Z9abCuHGBCgEZJRiniVtWh1qDxlQUsK5vVRW87Zq/n1bR2GxZR5W/NLJW0HMWHzUv6bwtU2kh4iC76xmRAwiodK13S/nTeC3NY+4G7d2Q24yKoQvs7gDSNg9V0Igp9svGayI+CbWu9V2TEydIeZAMqKhKetZo1s43D/Nhq2ExmGb3rhrf8Q+HfyGzPI4Y5Gv37cODfMdGHHmV6OPuiJ18A6/86QxrHf4vrWhCiAbFTL2mna2LufHFUcqCCm1bUCSqKDLeu/P8+kGB+1nVb2gD0Z1o1DIw==;BRCyEcHOwZzSiYeIIANoJw=="
 ---

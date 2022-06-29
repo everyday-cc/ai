@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T15:43:00Z
 originalUrl: "https://www.christianpost.com/news/vietnam-floats-new-religion-regulations-impose-high-fines-punishments.html"
 webUrl: "https://www.christianpost.com/news/vietnam-floats-new-religion-regulations-impose-high-fines-punishments.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Christian Post
