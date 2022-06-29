@@ -1,19 +1,15 @@
 ---
 category: news
 title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-excerpt: "As the Official Technology Partner of The Championships for the past 33-years, IBM continues to accelerate innovation at Wimbledon and improve"
-publishedDateTime: 2022-06-21T05:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-1031538852"
+excerpt: "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ..."
+publishedDateTime: 2022-06-21T09:30:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - IBM AI
@@ -25,6 +21,6 @@ images:
     height: 258
     isCached: true
 
-secured: "hJjZ3B40SEMp0sYWwauE9iCq6dmwkruJnlIbcGaTGcxYdxt6rzjOwpEe8NQJq9LFKuaswuRI4O2+JqHYGzqkYV+nHNebm9bcai6tIk7K7N/ohEVdDnHBSfK3jt53NLiG906iuiE1GwZHclr+HQsDMW0hNyfAI+t5MuvEFJfj7h4cPvnTiMpxqMNVyxY72JFZIUP0YbzZrg9T38gxcJ+oJPlFs27NSqm1SPI/egKelc7ITvvCmKSf6/4hDRVvpdA+mBoIGdNaB/XpaIRmtCU2zdRyVfMUsvMQ5qRqHzgWGGV/pFQ1NcvtLehrQlvgF9cfOdXHHRj8yCbKAKEDH1AOMaLpNdMhs3UXETd+L3GGN38=;+GSqCRFXELHGnaq+FAkV4g=="
+secured: "LL1sE1Do1VTluxyQ0AzPIhWXpzUsGc5p0nztSwwU1aSqwF0VwCIO59pRiPQzJrWRVMTIGQZ1lJ/ZL/CFW+2hKx350e7kmmy1pYiAFFEPpp/qpTlKjAvZXuzL0vnkIR+LQgeRbKk4cpMS2FobUmemsBkie4yZRwrfr9wBFsFB2hQdbfFAIusP3NzJ4opSUXzEoeNZcvP4uPUcap2PttcrmSa/pxSWNPFh88CLM/JsjW8/mB9/KNCZFk2gJQ+Vzr+78NhQSe9IUox41stwM2z90brfXkNp/QIS2cHGELerCQuK/lKJ1Gl6denrq7liN3pok5AUazvSJEp2dhW6KQpcBLXAG26oYLRMuY3hFwSLLaA=;M6l6zlcrJmFMJzyK7Dd0ww=="
 ---
 

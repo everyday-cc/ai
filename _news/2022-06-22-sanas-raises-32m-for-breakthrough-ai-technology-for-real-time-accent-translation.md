@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation"
-excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,"
-publishedDateTime: 2022-06-22T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
-webUrl: "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312"
+excerpt: "Record Series A Round Will Be Used to Further Develop the AI-based Technology ... people speak a native or foreign language powered by real-time accent translation. Headquartered in Palo Alto ..."
+publishedDateTime: 2022-06-22T14:13:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220622NY96534/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220622NY96534/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "ienUVg7byR+MuFPw5xhnqHE3PSGlQtf12qKdjv6Oln6r5L56xblqXZcQRIf5Y8U1awvELoLe0N22y3vuijatIk27k0ZDJ5Vohly+tlQ3njt1BY8aZfYllGbRKEqJT1bU4t7rZTB1pv5YzxiGSuwWb83/u5sf88ASl1226eNC8AfEFJsIT8is/rHxThZ2dLbAPjickaCmF2EnpyCKYjsnW4tfu9Q4jJT3mCUsWUdTP4Ct30lrTrDjUcOcl0lybT+kXvkiHjgUbYC6yEITvQv6da+eFE0zDxE6qyGVEqtBdS9WdrBVqDDDKz95/kxotPuCoFZLkHA2g3FM4McG0bj9K6Hgr8oV4ifDGq190PJ2Dfs=;u1/ekv2lfS0A51pBouv7BA=="
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
+
+secured: "gTdrynzGQtoFTVNPnw6dqwkYRO2LIrxt/t/B17SD+XtTJu1dNg10bcCWapp8h28q5tQ5pCN/8a6LyBDl6yw3cR2W//6BCuaksTZdSq7zDdppqFHiDZqDjJZeBWctcxtas349HGxTMAl92Qy9k7v8JACpGcVqVrPXufwa0Yd8vYKB5D5N8wHnl1UIGWmVw/IGitb2NjmB+ZBQpYE6r4ZZYpTFm7CrQNEDPbjq54Fn5jADFCkSQXKwK2F03+9b9RBGZjeK8OEs9KClP75bsUmM6zM6pT/Fc2vevXmK8HALCLHP8BWeM0ycP16A62sZdOsI6/k/q5KhMKynw5mxz0im6U0C8ZFGR9JWeappqPtRAls=;g9AhaCxzOzOGcBheDNRBag=="
 ---
 

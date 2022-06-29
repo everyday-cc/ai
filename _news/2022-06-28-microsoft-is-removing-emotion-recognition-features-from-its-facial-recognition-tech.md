@@ -75,20 +75,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft retires facial analysis capability under responsible AI"
-    excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
-    publishedDateTime: 2022-06-24T07:36:00Z
-    webUrl: "https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai/"
-    type: article
-    provider:
-      name: Innovation
-      domain: innovationaus.com
-    quality: 56
-    images:
-      - url: "https://www.innovationaus.com/wp-content/uploads/2021/04/Identity_1892584579_OP.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
     excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
     publishedDateTime: 2022-06-28T12:28:00Z

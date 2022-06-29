@@ -7,7 +7,7 @@ originalUrl: "https://www.techzim.co.zw/2022/06/google-engineer-says-lamda-ai-ha
 webUrl: "https://www.techzim.co.zw/2022/06/google-engineer-says-lamda-ai-has-come-alive-like-in-sci-fi/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "A Google engineer says AI has become sentient. What does that actually mean?"
-    excerpt: "Scientists and philosophers say AI consciousness might be possible, but technology is so good at fooling humans into thinking it's alive that we will struggle to know if it's telling the truth."
-    publishedDateTime: 2022-06-24T08:00:00Z
-    webUrl: "https://www.cbc.ca/news/science/ai-consciousness-how-to-recognize-1.6498068"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6498068"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6498068"
+  - title: "This Google Engineer Says An AI Chatbot They Made Is \"Alive\" (It Is Not)"
+    excerpt: "Google Engineer Blake Lemoine told Bloomberg's Emily Chang about some of the things that led him to think that a Google product called \"LaMDA\" was a sentient AI, like in a movie. He says it made a joke about the Israeli-Palestinian conflict."
+    publishedDateTime: 2022-06-26T14:03:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2022/06/27/google_engineers_says_an_ai_they_made_is_alive_it_is_not.html"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 56
-    images:
-      - url: "https://i.cbc.ca/1.6498116.1655934866!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-technology.JPG"
-        width: 620
-        height: 349
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 16
 
 secured: "kseSVfSKG+2HShAMtZOJxnkROdKmqb3YDq5Q3B96Xq8FISlzdKP/Cn1cpkh1/rH5g67Hz8o+slAx4dxETq1gXta1sjGiXxqfSYvlxvxzC4c0HNF5zWyHczGuUurEbr/JCnfpqeDMUwKKbUJLumNGgAUCkrBp2paRKF25+63fqYxUWgoACqkEqEzOVp6tyTanRHsG1srds69ExjCmcDRsCElzybG+S4GxachCNrlKpTGz12y9dDTWAGCU1I+gbDUhk/di6UZMldOAOnrt5D6LtN2nZYBUnDfF+4lVPWLwuaK4ZCgJfSrIA0cXvcj8FGJUcYweByiN61U3nk8GB42Dk4TsBzS+TpTcovpxsx88sTU=;TwKipad2G5B5ihFXf1mWJQ=="
 ---

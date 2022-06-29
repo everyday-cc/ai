@@ -91,20 +91,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft retires facial analysis capability under responsible AI"
-    excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
-    publishedDateTime: 2022-06-24T07:36:00Z
-    webUrl: "https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai/"
-    type: article
-    provider:
-      name: Innovation
-      domain: innovationaus.com
-    quality: 56
-    images:
-      - url: "https://www.innovationaus.com/wp-content/uploads/2021/04/Identity_1892584579_OP.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
     excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
     publishedDateTime: 2022-06-27T11:25:00Z

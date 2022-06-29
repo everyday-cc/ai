@@ -612,6 +612,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-23-how-babies-can-unlock-the-next-generation-of-artificial-intelligence.md",
+      "title": "How babies can unlock the next generation of artificial intelligence",
+      "excerpt": "“These exciting developments have been achieved thanks to machine learning, which uses enormous datasets to train artificial neural network models. However, progress is stalling in many areas ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.ie/business/technology/how-babies-can-unlock-the-next-generation-of-artificial-intelligence-41780694.html",
+      "originalUrl": "https://www.independent.ie/business/technology/how-babies-can-unlock-the-next-generation-of-artificial-intelligence-41780694.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.ie/business/technology/9a979/41780692.ece/AUTOCROP/w1240h700/Businesswoman%20creating%20artificial%20intelligence%20in%20a%20digital%20brain%203D%20rendering",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent.ie",
+        "domain": "independent.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-leading-a-movement-to-strengthen-machine-learning-in-africa.md",
       "title": "Leading a movement to strengthen machine learning in Africa",
       "excerpt": "",
@@ -711,24 +754,33 @@
     {
       "path": "_news/2022-06-22-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform.md",
       "title": "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform",
-      "excerpt": "\"Sinequa is differentiating itself through its use of deep learning (artificial neural networks), by applying multiple deep learning models to provide more accurate and relevant search results ...",
+      "excerpt": "Enterprise search leader Sinequa today announced the addition of advanced neural search capabilities to its Search Cloud Platform, providing unprecedented relevance and accuracy - at scale - to enterprise users.",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:05:00-07:00",
+      "publishedDateTime": "2022-06-22T08:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1333,60 +1385,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-how-ml-powered-video-surveillance-could-improve-security.md",
-      "title": "How ML-powered video surveillance could improve security",
-      "excerpt": "This can include count-based alerts when the number of people in a certain area exceeds a set limit, alerts triggered by object identification or, where applicable, face recognition. Video content ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
-      "originalUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1311084163-e1652290730534.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
-      "publishedDateTime": "2022-06-18T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

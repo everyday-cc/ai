@@ -23,6 +23,17 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "Startups sniff out missing dogs using AI, ‘noseprints’"
+    excerpt: "This comes as the petcare industry expands in many parts of the world, with owners in Japan and other places spending big on their furry friends."
+    publishedDateTime: 2022-06-29T01:00:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/top-lifestyle/2022/06/29/startups-sniff-out-missing-dogs-using-ai-noseprints/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 17
+
 secured: "aGElyQ2fxZaipq3PyVKVfWpDd+uo9inSwA/9ipZeI4L24ZITIZ9uhaomRdQpnzzH/kcXIM51qPEDMHXgu76k+kfJr0V07MybJTMqZoVx2gmMzUNoqFjsI6+Ne+nMzvsrtnYsdD9921Ci+ofWJYQpgbmkr/iFsyi3FmmdJVlcmFKdfU8jJSANDnWH7ju13gEvf4TWdmrY7wjlGvUyxRtswY5X0mUvwM+Ng06UjQZoWw+1COwUq79Unjk1Vt++tYnlN4pY3yPkFq9WVFeaXw7t6G4woDXPFEz6kROtF3VmTx4u08etzV5d9Kk9Gt/7L2unUdoaCSq41qY6Pic+AJKjg4Yv6ut1uc0cAdX94S4kBWORe6EWov2fnYjiEz4No/vOkIQzYp2IKU/VR6sD3OlTQPh3th9sSI3UdLS2GzerjNzjdYpeSZETdHT0xgqlq415DSUuJnaNuVlse12qjITGuoL/E84Pjtpic9eM3yRTDhLra1V9tR+ThsBnEB6vN6wd/jn/OraIz66QrbbG8pagpA==;G+W0aACCve2uWfu95g6gsw=="
 ---
 

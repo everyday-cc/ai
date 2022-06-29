@@ -2,6 +2,83 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-22-dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry.md",
+      "title": "Dynamic AI Agents enabling the great reboot of the BFSI industry",
+      "excerpt": "In 2000s, a website was necessary for most businesses. In 2010s, a mobile app became a must-have, and today, conversational AI is fast becoming integral for businesses to successfully cater to rapidly changing customer",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "publishedDateTime": "2022-06-22T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-aurrigo-gets-into-gear-for-rural-uk-self-driving-first.md",
+      "title": "Aurrigo gets into gear for rural UK self-driving first",
+      "excerpt": "Its self-driving pods are designed to provide mobility within urban areas, shopping malls, airports, university campuses, science parks and other areas that are poorly served by traditional ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252521747/Aurrigo-gets-into-gear-for-rural-UK-self-driving-first",
+      "originalUrl": "https://www.computerweekly.com/news/252521747/Aurrigo-gets-into-gear-for-rural-UK-self-driving-first",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252521747/Aurrigo-gets-into-gear-for-rural-UK-self-driving-first?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252521747/Aurrigo-gets-into-gear-for-rural-UK-self-driving-first?amp=1",
+      "publishedDateTime": "2022-06-21T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-microsoft-to-retire-controversial-facial-recognition-tool-that-claims-to-identify-emotion.md",
       "title": "Microsoft to retire controversial facial recognition tool that claims to identify emotion",
       "excerpt": "In a blog post, Microsoft’s principal group product manager for Azure AI, Sarah Bird, said that tools such as emotion recognition “can be valuable when used for a set of controlled ...",
@@ -1055,92 +1132,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-kpmg-and-microsoft-collaborate-to-help-c-suites-predict-tax-outcomes-and-set-business-strategy-with-new-cloud-technologies.md",
-      "title": "KPMG AND MICROSOFT COLLABORATE TO HELP C-SUITES PREDICT TAX OUTCOMES AND SET BUSINESS STRATEGY WITH NEW CLOUD TECHNOLOGIES",
-      "excerpt": "Investment in new technology creates value for businesses in more than 140 jurisdictions globally; KPMG Digital Gateway, enabled by Microsoft Azure, is designed to provide real-ti",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-politics-e7b9d3b2dd68156cca69a49bab0785b9",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-politics-e7b9d3b2dd68156cca69a49bab0785b9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations.md",
-      "title": "AMAX Launches Ultralow-Latency and Liquid-Cooled Quad-GPU Data Science Workstations",
-      "excerpt": "AMAX, a leading provider of high-performance computing (HPC), artificial intelligence (AI), and OEM data center manufacturing, has announced new GPU workstations for AI developers that are not only ultra-powerful but also suitable for deployment in any non-lab environment.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-artificial-intelligence-02d3cf4b04fbd9262b87d686907df3a3",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-artificial-intelligence-02d3cf4b04fbd9262b87d686907df3a3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

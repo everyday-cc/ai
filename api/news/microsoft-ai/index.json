@@ -145,7 +145,7 @@
       "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -859,19 +859,19 @@
     {
       "path": "_news/2022-06-21-clinical-research-and-drug-development-accelerated-via-analytics.md",
       "title": "Clinical research and drug development accelerated via analytics",
-      "excerpt": "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting",
+      "excerpt": "SAS life science analytics help contract research organization Gunvatta expedite clinical trials and FDA reporting. CARY, N.C., June 21, 2022 /PRNewswire/ -- Bringing life-changin",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/clinical-research-and-drug-development-accelerated-via-analytics/article_16290c04-a16f-5954-bb18-07652e9c0689.html",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/covid-technology-politics-health-f3115cb53184c3dd95011f94b23c5c27",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/covid-technology-politics-health-f3115cb53184c3dd95011f94b23c5c27",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/67/067e3ed2-656d-537f-bca0-0bbf73999122/62b1b48dc967c.image.jpg?crop=1500%2C788%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -881,11 +881,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T05:03:00-07:00",
+      "publishedDateTime": "2022-06-21T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

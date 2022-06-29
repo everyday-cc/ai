@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Research finds babies can help unlock 'next generation' of artificial intelligence"
-excerpt: "According to neuroscientists at the Trinity College Dublin, babies can help unlock the next generation of artificial intelligence (AI). The research examines the neuroscience and psychology of infant learning and distils three principles to guide the next generation of AI,"
-publishedDateTime: 2022-06-25T05:24:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20220624/3955734.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20220624/3955734.html"
+excerpt: "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI"
+publishedDateTime: 2022-06-24T18:24:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence"
+webUrl: "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1656095078.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Stephen Curry’s former coach says AI can help train the next generation of NBA champions"
@@ -34,6 +40,6 @@ related:
         height: 640
         isCached: true
 
-secured: "pvRGBL/r080XwT5lhEshPmF0lWU2UfnydjnbKtQ7S1PiE7Bh85agUm2jxwURzVGZToqT3Awk56xmf0f840+df4xxgKZql9u8oyycwAhbAd4Qg9pD8Zce7TyFUQZYrgLWMA66CcFMCtNDKnpvDLG1oR8D4NBUSy/z1UsCQp2pROMsQzmKSRMJc99EPoTSBBvNEG2vYkQK89qEMvF2clADD21JYWX82klSmQkPCfiGJ4GtnBDH9zp/MSpUYtsaOgC6xzbOY/yRO9Ay4ygfaaKJX24YzdPDZXLv2ilAD5q9MZ7rQ2ZJ59YvpIcXYYBKHNSKgNMpkGF5EdQtpTmrHkaUvxdG7mD1bjOZ1mjh3OcOnGs=;HQjT/E1/G8+x0XYlr3O8mA=="
+secured: "0nlAXysWL89lEgdORVA0RRSe35P87QXfVsWfvuy4GKe8KR5hINkbMND5FPE+ZIHtLtzjOLqc2Db7G3dOo/61UNLmZ4Ab/h6SjfqUDj+L3aYAJeVhKeagSA0LyiqzJboS2x7wIcJh/6R3ccJcAcQVYOtDXjpVUxt9J10gAQ2NYZtDCpo7JYjOuUWto0O4uWO1GUYeUkt1Xekj4Q+SQhg0DxOEtXl1dogxdkBL7pNUNMyVWB6vyaOsR9eJKAfaNqkEZtSmGz30EsBz5npg/jClLxQZv/UrFe/QKoF5UNb7PYfMLtVdPcdj059pVlh45Lx4AEofh4j6LyFDPwn9T9u0LZDlKznBMp3YABGM50QNnLY=;om7epTg5JfwGQ1ArQSYMSQ=="
 ---
 

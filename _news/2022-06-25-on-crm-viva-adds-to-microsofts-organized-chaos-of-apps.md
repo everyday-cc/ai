@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2022/06/turag-photography-1uQe5BIiH8w-unsplash-640x427.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Microsoft retires facial analysis capability under responsible AI"
-    excerpt: "Microsoft is ending access for new customers to its facial analysis capabilities immediately and is restricting access to its facial recognition technology as the company introduced upgraded responsible AI standards for itself."
-    publishedDateTime: 2022-06-24T07:36:00Z
-    webUrl: "https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai/"
-    type: article
-    provider:
-      name: Innovation
-      domain: innovationaus.com
-    quality: 56
-    images:
-      - url: "https://www.innovationaus.com/wp-content/uploads/2021/04/Identity_1892584579_OP.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
     excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"

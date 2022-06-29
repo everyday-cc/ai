@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Machine Learning
 
 related:
   - title: "Are babies the key to the next generation of artificial intelligence?"
