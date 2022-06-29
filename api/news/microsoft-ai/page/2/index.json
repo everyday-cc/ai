@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-21-jan-6-testimony-drives-cognitive-dissonance-for-trump-fans.md",
+      "title": "Jan. 6 testimony drives ‘cognitive dissonance’ for Trump fans",
+      "excerpt": "“It’s cognitive dissonance,” said Jennifer Stromer-Galley, a Syracuse University professor who has studied how Trump used social media and advertising to mobilize his base. “If you believe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/06/sjm-Disinformation_98658590-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
+      "publishedDateTime": "2022-06-20T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-19-dementia-two-childhood-factors-that-can-lead-to-cognitive-decline-in-midlife-new-study.md",
       "title": "Dementia: Two childhood factors that can lead to cognitive decline in midlife - new study",
       "excerpt": "They were then followed up between 2017 and 2019 - aged between 39 and 50 - when their cognitive function was assessed using a range of computerised tests. These participants were followed up ...",
@@ -1307,49 +1350,6 @@
       "provider": {
         "name": "NPR",
         "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme.md",
-      "title": "Thrive instead of just surviving your HR career with the 13th batch of IIM Calcutta's HR Management Programme",
-      "excerpt": "As part of the programme, participants will also receive exclusive access to Emeritus Career Services ... Many Emeritus alumni work at Microsoft, ICICI Bank, Infosys, HDFC, Airbnb, TCS, Ola ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/spotlight/thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme/articleshow/92180134.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/spotlight/thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme/articleshow/92180134.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-92180376,width-1070,height-580,imgsize-155502,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/spotlight/thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme/amp_articleshow/92180134.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/spotlight/thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme/amp_articleshow/92180134.cms",
-      "publishedDateTime": "2022-06-13T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-29-wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward.md",
+      "title": "Wells Fargo CIO: AI and machine learning will move financial services industry forward",
+      "excerpt": "Wells Fargo is incorporating artificial intelligence (AI) and machine learning (ML) initiatives to accelerate operations and better understand customer data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/02/14224371682_7060d038fd_k.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/",
+      "publishedDateTime": "2022-06-29T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-7-key-microsoft-azure-analytics-services-plus-one-extra.md",
       "title": "7 key Microsoft Azure analytics services (plus one extra)",
       "excerpt": "Microsoft offers an array of options for data analytics in its cloud that are meant to operate together as a full analytics stack. Here is an overview of the core services and where each fits.",
@@ -240,7 +294,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1328,49 +1382,6 @@
       "provider": {
         "name": "ConsumerAffairs",
         "domain": "consumeraffairs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-jan-6-testimony-drives-cognitive-dissonance-for-trump-fans.md",
-      "title": "Jan. 6 testimony drives ‘cognitive dissonance’ for Trump fans",
-      "excerpt": "“It’s cognitive dissonance,” said Jennifer Stromer-Galley, a Syracuse University professor who has studied how Trump used social media and advertising to mobilize his base. “If you believe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
-      "originalUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/06/sjm-Disinformation_98658590-1.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
-      "publishedDateTime": "2022-06-20T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

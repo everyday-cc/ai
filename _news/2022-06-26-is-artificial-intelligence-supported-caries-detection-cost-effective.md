@@ -5,9 +5,11 @@ excerpt: "A new study assessed the cost-effectiveness of artificial intelligence
 publishedDateTime: 2022-06-25T18:08:00Z
 originalUrl: "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
 webUrl: "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
 type: article
-quality: 17
-heat: 17
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://images.medindia.net/amp-images/health-images/teeth-1.jpg"
+    width: 1200
+    height: 1000
+    isCached: true
 
 related:
   - title: "Study examines the cost-effectiveness of AI-supported detection of proximal caries"

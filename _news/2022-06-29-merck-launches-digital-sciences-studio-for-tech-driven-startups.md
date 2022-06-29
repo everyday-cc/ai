@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3852781-merck-launches-digital-scien
 webUrl: "https://seekingalpha.com/news/3852781-merck-launches-digital-sciences-studio-for-tech-driven-startups"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Merck to Help Healthcare Startups with Digital Sciences Studio"
+    excerpt: "Merck today announced the launch of the Merck Digital Sciences Studio to enable the generation of innovative technologies for drug discovery"
+    publishedDateTime: 2022-06-29T17:37:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/merck-to-help-healthcare-startups-with-digital-sciences-studio/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 41
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2021/09/ThoughtLeaders_Web.jpg"
+        width: 775
+        height: 500
+        isCached: true
 
 secured: "5ipI33VYaHvIxl/fVNRRXnJaVWVjUjEAPPWRHReMKhAjtCFWH1RD2I7UyQO7/GTsKSPJKQ/WzXxFacgsbRsXrqu1rJ3FEDtD2GDQnrzTDy/VYmcRSFOXpn3plEtAeUaX5VKKup19iUr2G1XOmt+QPg4h4429kxNKc7PhDeedvMuB0pVjYmsvivlLsA0NVceqPwuiumWYrLwphE5Zkcx5CuWjp31JUix0yidF9WAxXkzGjWVl9xKJiXGdGhls5cwrVpbp2VwdUQNRO7mrKzOi6wn8AxeVoo8EL0mowFVfmZid+72WzwOucUJX8xTQy+/8qj+dTb+O+FLNJ5qHfqnxbpU6lva9VvC/G8FnEeftpUULw2dWnT7+JlZ2UrECasqVrfk0uG7rQuEDSGcrYu9H31gAuiSbz5CwSojO6S+xCZM48zbnXFWNcWG/DIemaFcRqBBGp1S4rzsMrAmyUYoPLN1vRovk2MNeOFaNAlW5U+xdlRVV0Ng51Ov6I/7NYchUeWRk4m0TicW0NqX6v9ocjw==;hyybWZ6cw0q2LBaOELKYww=="
 ---

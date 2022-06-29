@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-developme
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1024
     height: 552
     isCached: true
+
+related:
+  - title: "Government to boost AI data mining research in copyright law change"
+    excerpt: "The UK Government today announced plans to amend copyright law to allow greater analysis of licenced material to support machine learning and wider research into artificial intelligence. Following the change,"
+    publishedDateTime: 2022-06-29T16:02:00Z
+    webUrl: "https://www.itpro.co.uk/business/policy-legislation/368393/government-to-boost-ai-data-mining-research-copyright-law-change"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 67
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656517372/itpro/AI-books-GettyImages-1300681905.jpg"
+        width: 1260
+        height: 710
+        isCached: true
 
 secured: "mkoNovLtJnx/4XjU++d7vEqg5oEUWb2/92PqZFVX7uSYlxtMiXY768Dm7+pGEBjlt0fjbkgN6Y9XY0WBJ/nb5lANCCMHy5drAZ1XPysFCd3N5T1xEACbqLP0DA/VvAUUhkw2pFsAmol21QRyztxZgtU9PRo/MFM17MkYnnpvu+a/Ewy0OITP8TxrKt0jEYn+rzfp9rY4vbKDrc3pp6k8BQEE59UCLVNV6eX0V6g47dZeKr/O9nzndRfaSu28oCfjjhPIAsKsp3aEtmNWWcZIEDJhSBqB50/VGJqX3ZTIJdZKXtJtUIyvhqQOE5RO2yHRyVjuc0SUkK4vcdoMMmRvPEmacNfpIBsz7ik0Pof/61crdfCWiv8Z55Px1P8r5ftX6Bf029wub2u4YeoDLX6HtuO5xZdbmoqB3yrBotFLNWTSFvaZuZB0FzFvnHg+qugK+pVhAqVzxatgLNLoLM0XDfEfI91Tx2fT/4v48aMiEcEcP5anz9ueFX58fP+RY5+pwcrNfxCTfNtfjgW0VvUuaw==;FNfthMrFSDbYu46jiGVTDg=="
 ---

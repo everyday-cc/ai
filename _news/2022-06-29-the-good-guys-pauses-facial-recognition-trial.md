@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
+    excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft"
+    publishedDateTime: 2022-06-29T13:54:00Z
+    webUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/"
+    ampWebUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 74
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Microsoft Limits Public Access to AI-Powered Facial Analysis Features"
     excerpt: "Fran Mendez discusses event-driven or asynchronous APIs, comparing AsyncAPI with OpenAPI/Swagger, AMQP/MQTT/Kafka with HTTP, and publish/subscribe with request/response. Lola Priego, Jose del Pozo ..."
     publishedDateTime: 2022-06-26T07:16:00Z
@@ -71,15 +87,20 @@ related:
         width: 1024
         height: 551
         isCached: true
-  - title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
-    excerpt: "\"We are thrilled to be recognized as the 2022 Rising Azure Technology Partner of the Year,\" said Evan Resier, CEO and co-founder of Abnormal Security. \"This award is a testament to our singular focus on solving our customers' critical email security needs alongside Microsoft."
-    publishedDateTime: 2022-06-29T14:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-abnormal-security-recognized-as-winner-2022-microsoft-rising-/2022/06/29/9630989.htm"
+  - title: "Scrap police use of facial recognition"
+    excerpt: "A LEADING QC has called for urgent legislation and regulation of biometric technologies including facial recognition following a review which produced a number of recommendations for the government. A review led by Matthew Ryder QC, commissioned by the Ada ..."
+    publishedDateTime: 2022-06-29T16:29:00Z
+    webUrl: "https://www.voice-online.co.uk/news/uk-news/2022/06/29/scrap-police-use-of-facial-recognition/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: Voice Newspaper
+      domain: voice-online.co.uk
+    quality: 41
+    images:
+      - url: "https://www.voice-online.co.uk/wp-content/uploads/2022/06/rsz_gettyimages-849090846.jpg"
+        width: 1000
+        height: 699
+        isCached: true
   - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
     excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
     publishedDateTime: 2022-06-26T20:30:00Z

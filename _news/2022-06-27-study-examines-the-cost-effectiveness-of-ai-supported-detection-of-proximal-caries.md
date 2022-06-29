@@ -22,11 +22,18 @@ related:
     excerpt: "A new study assessed the cost-effectiveness of artificial intelligence-supported detection of proximal caries and its benefits in caries management."
     publishedDateTime: 2022-06-25T18:08:00Z
     webUrl: "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm"
     type: article
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 17
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/teeth-1.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "//5F02wPZl+/nRB9mEP+wfvAbMlrNcoi8DSXKmRqcKGn5q3gkT2b9nHk9F6MVotyKX5cRCXkgiQXsAUJOYv3fFKkdLA6e0yxf7roEcpoK16pFNVKEpBJcrjoGtvdo2qd/sWQk4nJXwuzdnrQ4wgi/oJ61gEvIB/IDp4kd+r2tOolqfI+Ik4gz9roLsqiu1gRKTczCWijiv+CQrykxXvvZURi1j4y2FMlAUHD8dCwf7x8sVYdnBW5to+u2QUJTIvNQS2smI60VfBUUcCqcJQHSDqZQLNSXMOT5UOxpg1K4WF3X/9BOueKwpKM09waw4AegV/0ZsKzZ7WX1Ro6JYFow3/qKKn4ZXrldsAiL1O/r6Q=;zDjGCuEtZ4ZV0ddnfknq3g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-health-a
 webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market"
+    excerpt: "The \"Artificial Intelligence (AI) in Drug Discovery Market by Component (Software, Service), Technology (ML, DL), Application (Neurodegenerative Diseases, Immuno-Oncology, CVD), End User (Pharmaceutical & Biotechnology,"
+    publishedDateTime: 2022-06-29T16:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-drug-discovery-market-report-/2022/06/29/9631151.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
 secured: "tGGTPOl97TjLgbY7Y8ENU6TtCx8f6+7/VEQNR1FXqlfysvd6iLC9dxGgPMc3eaa1SX1aUGyBnoxxjdC1I5FHWvspFWJ/533xTxGJr4TcQYfZPIxKMUsX0fY3JFGSNfg9uEHdnSXLxCxLX7pjMDHQ18lL4X++K0sAGwWoanUF3asqa3cvsjB7/U5Vr8va+kkSACFYPeo5NcC6/ZjEPF/f/6Vvr3vpmjXKabQ73pb1Af04AOEyJCYbs7L69ptBFPkmU1XAtr1/qQ/mAFGOhjvm9NI1fG47FHvgKOw/b72owP70LltCN6XghYkchOZE/6G7Pz+NxJvRJcXrAhYpWWrIiin4nU4Lv60AgimPXVn6m8I=;lJx2sidDn4WSlFhlk1g7Ew=="
 ---

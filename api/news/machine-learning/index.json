@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-29-wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward.md",
+      "title": "Wells Fargo CIO: AI and machine learning will move financial services industry forward",
+      "excerpt": "Wells Fargo is incorporating artificial intelligence (AI) and machine learning (ML) initiatives to accelerate operations and better understand customer data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/02/14224371682_7060d038fd_k.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/",
+      "publishedDateTime": "2022-06-29T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.md",
       "title": "Adversarial machine learning explained: How attackers disrupt AI and ML systems",
       "excerpt": "Threat actors have several ways to fool or exploit artificial intelligence and machine learning systems and models, but you can defend against their tactics.",
@@ -754,24 +808,33 @@
     {
       "path": "_news/2022-06-22-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform.md",
       "title": "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform",
-      "excerpt": "\"Sinequa is differentiating itself through its use of deep learning (artificial neural networks), by applying multiple deep learning models to provide more accurate and relevant search results ...",
+      "excerpt": "Enterprise search leader Sinequa today announced the addition of advanced neural search capabilities to its Search Cloud Platform, providing unprecedented relevance and accuracy - at scale - to enterprise users.",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56373282-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform-004.htm",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-4875d1ce80af481988e31f01b15950ce",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:05:00-07:00",
+      "publishedDateTime": "2022-06-22T08:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1314,58 +1377,6 @@
         "name": "Azorobotics",
         "domain": "azorobotics.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do.md",
-      "title": "Why businesses take a month or more to deploy ML models and what you can do",
-      "excerpt": "Choosing the right machine learning model can make a difference not only in the output quality, but also the development time and cost.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/",
-      "originalUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1284049480.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/amp/",
-      "publishedDateTime": "2022-06-19T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
