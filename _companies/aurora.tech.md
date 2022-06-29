@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aurora_inno"
   url: "https://twitter.com/aurora_inno"
-  followers: 13723
+  followers: 13727
 
 size: 201-500 employees
 yearFounded: 2016
@@ -35,7 +35,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1410627461721821192/sPS0s8xu_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1542183542309892096/nuVb-Twc_400x400.jpg"
     width: 400
     height: 400
     isCached: true
