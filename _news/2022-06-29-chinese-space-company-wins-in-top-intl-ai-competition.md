@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-comp
 webUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076"
 type: article
 quality: 67
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1023
         height: 591
         isCached: true
+  - title: "Deep Dive Into Advanced AI and Machine Learning at The Behavox Artificial Intelligence in Compliance and Security Conference"
+    excerpt: "On July 19th, Behavox will host a conference to share the next generation of artificial intelligence in Compliance and Security with clients, regulators, and industry leaders. The Behavox AI in Compliance and Security Conference will be held at the company ..."
+    publishedDateTime: 2022-06-28T23:37:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
   - title: "STAR.VISION AEROSPACE GROUP LIMITED: Chinese space company wins in top int'l AI competition"
     excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth"
     publishedDateTime: 2022-06-29T04:22:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind"
 webUrl: "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind"
 type: article
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: DeepMind

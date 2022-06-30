@@ -1,0 +1,158 @@
+---
+category: news
+title: "Ambassador Xiao Qian’s Speech: A New Way Forward for Australia-China Relations?"
+excerpt: "Xiao’s recent speech signaled a new approach to the relationship from Beijing, but the many protesters also highlighted the lingering structural issues."
+publishedDateTime: 2022-06-30T15:29:00Z
+originalUrl: "https://thediplomat.com/2022/07/ambassador-xiao-qians-speech-a-new-way-forward-for-australia-china-relations/"
+webUrl: "https://thediplomat.com/2022/07/ambassador-xiao-qians-speech-a-new-way-forward-for-australia-china-relations/"
+type: article
+quality: 20
+heat: -1
+published: false
+
+provider:
+  name: The Diplomat
+  domain: thediplomat.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-30-143000.jpg"
+    width: 600
+    height: 400
+    isCached: true
+
+related:
+  - title: "Australian retail giants named in facial recognition tech complaint"
+    excerpt: "Shoppers walk past stores of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys located in a shopping center in Sydney, Australia, May 19,"
+    publishedDateTime: 2022-06-27T08:02:00Z
+    webUrl: "https://www.reuters.com/news/picture/australian-retail-giants-named-in-facial-idUSKBN2O8072"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220627&t=2&i=1602786598&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5Q04P"
+        width: 810
+        height: 544
+        isCached: true
+  - title: "Australian retailer pauses facial recognition trial over privacy complaint"
+    excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
+    publishedDateTime: 2022-06-28T08:25:00Z
+    webUrl: "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220628&t=2&i=1602869101&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5R04C"
+        width: 810
+        height: 522
+        isCached: true
+  - title: "Australian chain store pauses facial recognition trial"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T06:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s750"
+        width: 750
+        height: 456
+        isCached: true
+  - title: "Australian appliances giant pauses facial recognition tech over privacy concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T03:08:00Z
+    webUrl: "https://www.reuters.com/technology/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern-2022-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/E9f6SERqd4JhyOSdc1sETEzMCaQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VIWPZARKTHH5MMB7K3BHAEI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Australian firm halts facial recognition trial over privacy fears"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. In an email on Tuesday, a spokesperson for JB ..."
+    publishedDateTime: 2022-06-28T07:19:00Z
+    webUrl: "https://www.aljazeera.com/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2022/06/359452268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Australian Retail Giants Targeted In Facial Recognition Tech Complaint"
+    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
+    publishedDateTime: 2022-06-27T08:10:00Z
+    webUrl: "https://www.ibtimes.com/australian-retail-giants-targeted-facial-recognition-tech-complaint-3553115"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
+        width: 1200
+        height: 807
+        isCached: true
+  - title: "Australian retailers named in facial recognition complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
+    publishedDateTime: 2022-06-27T20:39:00Z
+    webUrl: "https://www.itnews.com.au/news/australian-retailers-named-in-facial-recognition-complaint-581908"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T04:34:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-28/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
+    excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
+    publishedDateTime: 2022-06-27T01:47:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
+    images:
+      - url: "https://i.guim.co.uk/img/media/fac09191ef4c77c13693f0add4b05ef7dcb58ad6/0_0_6773_4515/master/6773.jpg?width=620&quality=85&auto=format&fit=max&s=4cd2c049f96940e5e15628c3488a4c29"
+        width: 620
+        height: 413
+        isCached: true
+
+secured: "HPQkUCMU789CVryD4N5H7JJXsCmtW/dFuPoxrIIx0qVVbYe1c39gBvG5+J8lz6PTvK8YTslIO8lQpuJOhslcIPAJXAKTfYnGimGsjpmVQfWTLwp0dON1sA4OzGxRlCFor/MYdhBtjMZbxgO8gPtCBjBCITLPgTazcinRDy2ITFrZRFIfbJshZ/bfh7nq90RaDrf92Om9J8lpkkUlJQPXSbQ+5UrQcBWu4+av+N+km8McV6H4xLoPsgzE1hMIG7o/88p6updMp+/md0hLSLPcwoEJXqnvkSAUiSLx2807NGHgvy2mjh+sWdNWJFVfy+u8aWaJdNALfJrfCt1At0wjdZxU2eaz65VxMl6k6P/5ptA=;zdWjpxMNlX4PQ23K4AdIGQ=="
+---
+

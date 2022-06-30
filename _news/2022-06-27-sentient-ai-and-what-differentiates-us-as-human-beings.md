@@ -36,15 +36,29 @@ related:
         width: 600
         height: 339
         isCached: true
-  - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
-    excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
-    publishedDateTime: 2022-06-25T19:51:00Z
-    webUrl: "https://techstory.in/googles-sentient-ai-hired-a-lawyer-to-prove-its-alive/"
+  - title: "How Will We Know When Artificial Intelligence Is Sentient?"
+    excerpt: "Ethicists debate what sentience means for AI, while computer scientists struggle to test for it."
+    publishedDateTime: 2022-06-30T14:35:00Z
+    webUrl: "https://www.discovermagazine.com/technology/how-will-we-know-when-artificial-intelligence-is-sentient"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 17
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/4rSgYq0yVaTQgOqX1FUzNj/ab97e12b99393a95a22085642921edad/shutterstock_2108132924.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Rather than focus on the speculative rights of sentient AI, we need to address human rights"
+    excerpt: "A flurry of activity occurred on social media after Blake Lemoine a Google developer, was placed on leave for claiming that LaMDA, a chatbot, had become sentient—in other words, had acquired the ability to experience feelings."
+    publishedDateTime: 2022-06-30T13:21:00Z
+    webUrl: "https://techxplore.com/news/2022-06-focus-speculative-rights-sentient-ai.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 7
 
 secured: "dBKRPKZPKB/FWEkPBkX5VwEvabDAZRyL58nydBFkdYneHlDTEzGV8s4GZUePTapp81wQiZgmJFlp2RMVkyc4088UkLMsqZwD/5iOG2PXyKVaDLcaxPOhxebCIGurLp38YXTkM7EMNO5TRm8pkHzCqHQuF6GpIN7CnL7uUF+1iLycgK4Ja1l/ie0EE7LaSG4hQcC7DP8UP44GX3I7ci4KJRvB6Jj7uSVl/eRRS3kpHMC76aY8+TGVFAVM9IyhLV95IJDeEhuRTP5A2BJE0IVFv9C5CUG+tCAnL2lgou6js3IfUVQDX6D0jiKQqSNmXznj1r6gv8JS89Un1vjaTW2nF3Tsd25nn+NuqLf6TWeVd7k=;P8JI4D6c8C9OMR0Y+jnb9Q=="
 ---

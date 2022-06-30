@@ -40,6 +40,15 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Hub71, e& enterprise set up UAE’s first-ever AI Centre of Excellence"
+    excerpt: "The AI CoE will provide a platform for AI solutions to be built and scaled from Abu Dhabi. Hub71, e& enterprise set up UAE's first-ever AI Centre of Excellence. Abu dhabi, Badr Al-Olama, e&, e& enterprise,"
+    publishedDateTime: 2022-06-30T13:24:00Z
+    webUrl: "https://www.itp.net/business/hub71-e-enterprise-set-up-uaes-first-ever-ai-centre-of-excellence"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "iv4umuRBq6rfV79Qvc7p6UrOICwr+DUGPGmP9A6TpWX3LFKDnUei/r2Z25BgM1vJ4CIpcGLHUEbNnJC1p5Wc7vFnjwtqVGJHg0eiPBGKxesHsdhXLbgxLv3zhplYyD59QVfEvKj1uHUxPaLqe1RoSYvzoQDDPj3sZ1uWRV3u2WJGbo4YyLkl56qCsLJz9gjWWtYBm1NAbsH+axwl/CPH+RKNQdaTXDuzlQ10kOEV89D4xVx+3hZ/utYwPY61vWHNQfLU0poRNbHjSwiZVlI7H3esz183YDlChoEMYwPeFCU02glh8CL3dvwfgDhwFcKhZzzhcOomlKpWmuvhz/RqnBKrhRDleAzixnl0o5eixRY=;NrTwzJsqSSPYH03aLVrExQ=="
 ---

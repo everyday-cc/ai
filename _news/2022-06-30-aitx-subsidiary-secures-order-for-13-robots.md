@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T12:49:00Z
 originalUrl: "https://seekingalpha.com/news/3853221-aitx-subsidiary-secures-order-for-13-robots"
 webUrl: "https://seekingalpha.com/news/3853221-aitx-subsidiary-secures-order-for-13-robots"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Seeking Alpha

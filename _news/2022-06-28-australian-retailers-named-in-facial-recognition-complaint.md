@@ -39,20 +39,6 @@ related:
         width: 810
         height: 544
         isCached: true
-  - title: "Australian retail giants targeted in facial recognition tech complaint"
-    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
-    publishedDateTime: 2022-06-27T03:58:00Z
-    webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Australian retailer pauses facial recognition trial over privacy complaint"
     excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
     publishedDateTime: 2022-06-28T08:25:00Z
@@ -113,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australian Retail Giants Targeted In Facial Recognition Tech Complaint"
+    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
+    publishedDateTime: 2022-06-27T08:10:00Z
+    webUrl: "https://www.ibtimes.com/australian-retail-giants-targeted-facial-recognition-tech-complaint-3553115"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
+        width: 1200
+        height: 807
+        isCached: true
   - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
     excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
     publishedDateTime: 2022-06-28T04:34:00Z
@@ -137,6 +137,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/fac09191ef4c77c13693f0add4b05ef7dcb58ad6/0_0_6773_4515/master/6773.jpg?width=620&quality=85&auto=format&fit=max&s=4cd2c049f96940e5e15628c3488a4c29"
         width: 620
         height: 413
+        isCached: true
+  - title: "Ambassador Xiao Qian’s Speech: A New Way Forward for Australia-China Relations?"
+    excerpt: "Xiao’s recent speech signaled a new approach to the relationship from Beijing, but the many protesters also highlighted the lingering structural issues."
+    publishedDateTime: 2022-06-30T15:29:00Z
+    webUrl: "https://thediplomat.com/2022/07/ambassador-xiao-qians-speech-a-new-way-forward-for-australia-china-relations/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 20
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-30-143000.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "kVXtl16h7TXLI/tYu1tybctiyoCTh8wDYIpkCffoG6gAV3ZkTQCYfy4sHx9VQkyQzJyQ+eTj4+keUD8rakxAwB9pvhGA+tKpwzkqmNBXNyc2HBf4X7a4AOWi9WJDwoRkFuaOUUNulxGt/3NgWYGgPjRkFmbvq4L+arHDCgMBViQRY/SUGekhAMpe20KvOCUh0KFOQMDmgjU6DYqGgaLliqfmNSAeGNzzITqftesYD31Uyu7+AynUYr2v47hKQOEXmfdEtRkd9H9smmvm6pFkYmd+E8Fau7KYXoy5a4G6pok1Oo89Oc0uLNn8F5jXfOFKesR3cc9RhT0WrzlVS54V/NRirrY06sVwqBnJeCOKWRhIpRK6/BP0H3f1QpHcV8U9D5gTLEozkhfXo8GZXv0iYtHyl86suj4vhth3LKUkDLnLv+LJMvZJs3BVJQ2N/y/EWDnn4RoZbu4lV3uzl9fqQU4LJKCHd2DPj/j8zdG3gs30hCOsuSZD9uguAfX/XpRwLmMWORHi/UBD9ObI4Vx91A==;c6TCEK0bXYcyH/W7tRV5PQ=="

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Snowplow raises $40M to help enterprises ‘create’ data for AI and analytics"
+    excerpt: "London-based Snowplow Analytics, which enables enterprises to create behavioral datasets for AI and BI use cases, today announced it has raised $40 million in a series B round of"
+    publishedDateTime: 2022-06-30T12:30:00Z
+    webUrl: "https://venturebeat.com/2022/06/30/snowplow-raises-40m-to-help-enterprises-create-data-for-ai-and-analytics/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Pangea combines AI analytics, computer vision for border control, workplace safety solutions"
     excerpt: "Pangea has launched of a pair of AI solutions, one for preventing injuries in the construction industry, and the other for pre-arrival background checks."
     publishedDateTime: 2022-06-28T23:28:00Z
@@ -39,15 +48,31 @@ related:
         width: 844
         height: 633
         isCached: true
-  - title: "CallMiner Named Best Overall AI-based Analytics Company in 2022 AI Breakthrough Awards"
-    excerpt: "Award recognizes CallMiner for its use of AI to analyze customer conversations at scale, driving improved customer experience and business transformation. CallMiner, the leading p"
-    publishedDateTime: 2022-06-27T12:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-27-callminer-named-best-overall-ai-based-analytics-company-in-2022-ai-breakthrough-awards"
+  - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
+    excerpt: "In a preemptive effort to trigger capital inflow into Ukraine for the post-war era, Deep Knowledge Analytics (DKA), the flag"
+    publishedDateTime: 2022-06-27T11:18:00Z
+    webUrl: "https://menafn.com/1104437838/Data-analytics-platform-launched-to-attract-1-billion-in-AI-and-DeepTech-investments-to-Ukraine"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 9
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-06/27/pr_13675_f48d8955_image_story.jpg"
+        width: 643
+        height: 361
+        isCached: true
+  - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility,"
+    excerpt: "Enerfy Global provides AI-driven data analytics, business intelligence, and deep driving risk insights to the mass market quickly and intuitively. Self-onboarding resonates well with insurance, mobility, and fleet solution providers globally, who require ..."
+    publishedDateTime: 2022-06-30T11:51:00Z
+    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-thans-new-self-onboarding-platform-puts-ai-driver-risk-analytics-seamlessly-into-hands-of-insurance-mobility-20220630134054.html"
+    ampWebUrl: "https://amp.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-thans-new-self-onboarding-platform-puts-ai-driver-risk-analytics-seamlessly-into-hands-of-insurance-mobility-20220630134054.html"
+    cdnAmpWebUrl: "https://amp-europapress-es.cdn.ampproject.org/c/s/amp.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-thans-new-self-onboarding-platform-puts-ai-driver-risk-analytics-seamlessly-into-hands-of-insurance-mobility-20220630134054.html"
+    type: article
+    provider:
+      name: Europa Press
+      domain: europapress.es
+    quality: 13
 
 secured: "HAEdEvTQaQDyyxMPY7yVbB94bA1vsdxsKgr3LLmG/ygvLe56PRRENQMmQyEESMRaeAOkHKPrnqwO3sjFoGVIPA5Ux7JCsC0TjZutP9Frc3L4olp6M9HOMOyehyaHouy/h6uN52hMDMHuIbKHp0fbej3JuiVNcBZLwy4MpMvKGZZimkWW+44typyD9KPW/1pvN/jA/a6kufOkCKNOvPmJ/pobf5Ak9M0nnWA7GFlZ+WGKpwxY09GbF0GH96Fm7uIkgx97eMYC644J35vWV7HVhsbqGkdJu8l/9qEIjKkN282pNkrKkE4tgs13JwSgMM8K3N0xI07FATIgOwC3Ki/DPRhGqpaoquH5BKw/2H+kk8A=;0iCNOIbNf3cTWvqFyo48Dg=="
 ---

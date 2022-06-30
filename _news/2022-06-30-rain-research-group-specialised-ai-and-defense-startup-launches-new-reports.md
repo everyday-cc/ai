@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T13:41:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446"
 webUrl: "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Business Insider

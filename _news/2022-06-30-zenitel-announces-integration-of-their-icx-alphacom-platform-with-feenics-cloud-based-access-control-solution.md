@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T12:27:00Z
 originalUrl: "https://www.sourcesecurity.com/news/zenitel-announces-integration-icx-alphacom-platform-co-3411-ga-co-11861-ga.1656583319.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/zenitel-announces-integration-icx-alphacom-platform-co-3411-ga-co-11861-ga.1656583319.html?ref=nav"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T13:05:00Z
 originalUrl: "https://techcrunch.com/2022/06/30/forethought-ais-ceo-explains-the-pitch-deck-that-won-startup-battlefield-at-techcrunch-disrupt-2018/"
 webUrl: "https://techcrunch.com/2022/06/30/forethought-ais-ceo-explains-the-pitch-deck-that-won-startup-battlefield-at-techcrunch-disrupt-2018/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: TechCrunch

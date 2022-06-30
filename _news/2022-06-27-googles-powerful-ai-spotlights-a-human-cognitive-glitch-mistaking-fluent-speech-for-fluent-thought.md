@@ -40,15 +40,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google’s powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
-    excerpt: "When you read a sentence like this one, your past experience tells you that it’s written by a thinking, feeling human. And, in this case, there is indeed a human typing these words: [Hi, there!] But these days,"
-    publishedDateTime: 2022-06-25T19:17:00Z
-    webUrl: "https://www.dailyexcelsior.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 2
   - title: "Google's powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
     excerpt: "When you read a sentence like \"This is my story...,\" your past experience tells you that it's written by a thinking, feeling human. And, in this case, there is indeed a human typing these words: [Hi,"
     publishedDateTime: 2022-06-28T12:59:00Z

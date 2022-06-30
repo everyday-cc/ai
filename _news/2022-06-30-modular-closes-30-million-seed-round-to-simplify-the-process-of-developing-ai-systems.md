@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/06/30/modular-closes-30m-seed-round-to-simplify-the-process-of-developing-ai-systems/"
 webUrl: "https://techcrunch.com/2022/06/30/modular-closes-30m-seed-round-to-simplify-the-process-of-developing-ai-systems/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: TechCrunch

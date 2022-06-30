@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T13:38:00Z
 originalUrl: "https://www.tvbeurope.com/live-production/could-artificial-intelligence-replace-the-need-for-camera-people-in-live-sport"
 webUrl: "https://www.tvbeurope.com/live-production/could-artificial-intelligence-replace-the-need-for-camera-people-in-live-sport"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: tvbeurope.com

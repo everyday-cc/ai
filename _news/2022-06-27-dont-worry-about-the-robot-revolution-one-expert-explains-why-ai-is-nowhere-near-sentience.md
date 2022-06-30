@@ -30,16 +30,16 @@ related:
   - title: "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience"
     excerpt: "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical."
     publishedDateTime: 2022-06-27T17:20:00Z
-    webUrl: "https://www.southcarolinapublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
-    ampWebUrl: "https://www.southcarolinapublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
-    cdnAmpWebUrl: "https://www-southcarolinapublicradio-org.cdn.ampproject.org/c/s/www.southcarolinapublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+    webUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience"
+    ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
+    cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-27/dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience?_amp=true"
     type: article
     provider:
-      name: southcarolinapublicradio
-      domain: southcarolinapublicradio.org
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
     quality: 63
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/9c1fce2/2147483647/strip/true/crop/1023x576+0+0/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F29%2Fap22179816164543_wide-6d5fd36e8355939b5c33f3e2a1c3a8869a38fa1a.jpg"
+      - url: "https://npr.brightspotcdn.com/dims4/default/4e1d7fb/2147483647/strip/true/crop/800x450+0+293/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F51%2Fc2428b8447048eb8f156686bf3ec%2F404613a7-eab4-4fb3-adfa-0d9c71f2c021-large1x1-mccall-welcome-sign.jpg"
         width: 430
         height: 242
         isCached: true

@@ -46,7 +46,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.crn.com/resources/0273-14b82b7c6db9-8d7b4fa5b5c9-1000/ai-artificial-intelligence-mind.jpg"
         width: 608
@@ -68,6 +68,15 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Visonify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
+    excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
+    publishedDateTime: 2022-06-30T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-visonifyai-strongarms-its-ai-engineers-with-microsoft-azure-/2022/06/30/9631823.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 43
   - title: "An AI Was Trained To Play Minecraft With 70,000 Hours Of YouTube Videos"
     excerpt: "OpenAI, the artificial intelligence research organization founded by Elon Musk, has trained an AI to play Minecraft almost as well as humans. It only took about 70,000 hours of binging YouTube videos."
     publishedDateTime: 2022-06-27T18:15:00Z

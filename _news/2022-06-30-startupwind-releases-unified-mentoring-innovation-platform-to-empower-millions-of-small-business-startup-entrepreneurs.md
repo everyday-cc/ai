@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T12:15:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/startupwind-releases-unified-mentoring-innovation-platform-to-empower-millions-of-small-business-startup-entrepreneurs/article_40c8f4c2-abe9-54e2-a8ac-68cfee98b3da.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/startupwind-releases-unified-mentoring-innovation-platform-to-empower-millions-of-small-business-startup-entrepreneurs/article_40c8f4c2-abe9-54e2-a8ac-68cfee98b3da.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

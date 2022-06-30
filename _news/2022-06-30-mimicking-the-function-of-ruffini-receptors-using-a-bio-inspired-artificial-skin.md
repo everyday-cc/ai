@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T13:30:00Z
 originalUrl: "https://techxplore.com/news/2022-06-mimicking-function-ruffini-receptors-bio-inspired.html"
 webUrl: "https://techxplore.com/news/2022-06-mimicking-function-ruffini-receptors-bio-inspired.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: techxplore

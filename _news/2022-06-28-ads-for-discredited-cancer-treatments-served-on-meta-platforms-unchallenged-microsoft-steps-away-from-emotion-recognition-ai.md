@@ -103,6 +103,20 @@ related:
         width: 1000
         height: 699
         isCached: true
+  - title: "‘UK government illegally utilizes facial recognition’"
+    excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
+    publishedDateTime: 2022-06-30T14:42:00Z
+    webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 41
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "The Good Guys pauses facial recognition trial"
     excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
     publishedDateTime: 2022-06-28T20:38:00Z

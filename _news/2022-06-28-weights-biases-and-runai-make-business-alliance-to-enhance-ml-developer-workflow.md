@@ -48,7 +48,7 @@ related:
   - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
     excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
     publishedDateTime: 2022-06-27T18:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
     type: article
     provider:
       name: WFMZ-TV

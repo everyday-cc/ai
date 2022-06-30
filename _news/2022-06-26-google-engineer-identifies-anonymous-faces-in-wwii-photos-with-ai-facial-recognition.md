@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "AI facial recognition tech identifies rocker Geddy Lee’s mother in anonymous WII photos"
-    excerpt: "The Rush frontman was also able to find other photos of his mother’s extended family from the Yad Vashem photo collection."
-    publishedDateTime: 2022-06-28T13:52:00Z
-    webUrl: "https://www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos"
-    ampWebUrl: "https://www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos/amp"
-    cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos/amp"
+  - title: "Engineer creates AI tool to identify Holocaust victims in WWII photos"
+    excerpt: "From Number to Names (N2N) can scan through photos from prewar Europe and the Holocaust and link them to people living today (Picture: EPA) A Google engineer has created software that uses AI to help Holocaust descendants identify images of their loved ones."
+    publishedDateTime: 2022-06-27T11:35:00Z
+    webUrl: "https://metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/"
+    ampWebUrl: "https://metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/amp/"
     type: article
     provider:
-      name: Jewish Telegraphic Agency
-      domain: jta.org
-    quality: 66
+      name: Metro
+      domain: metro.co.uk
+    quality: 57
     images:
-      - url: "https://www.jta.org/wp-content/uploads/2022/06/6-28-22-Geddy.jpg"
-        width: 2160
-        height: 1200
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/PRI179167543-67d6.jpg?quality=90&strip=all&zoom=1&resize=600%2C378"
+        width: 600
+        height: 378
         isCached: true
   - title: "This AI Face Recognition Can Identify Faces In WWII Photos"
     excerpt: "Daniel Patt has developed an AI using face recognition technology that scans through a large amount of WWII photos"
@@ -48,20 +48,6 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2022/06/FotoJet-3-min.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI Facial Recognition IDs Rocker Geddy Lee’s Mother in Anonymous Holocaust Photos"
-    excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"
-    publishedDateTime: 2022-06-29T15:26:00Z
-    webUrl: "https://www.jewishexponent.com/2022/06/29/ai-facial-recognition-ids-rocker-geddy-lees-mother-in-anonymous-holocaust-photos/"
-    type: article
-    provider:
-      name: The Jewish Exponent
-      domain: jewishexponent.com
-    quality: 49
-    images:
-      - url: "https://www.jewishexponent.com/wp-content/uploads/2022/06/6-28-22-Geddy-1536x853-1.jpg"
-        width: 1536
-        height: 853
         isCached: true
   - title: "AI identifies rocker Geddy Lee’s mother in Holocaust photos"
     excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"

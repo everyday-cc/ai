@@ -9,8 +9,8 @@ ampWebUrl: "https://gulfnews.com/amp/business/markets/abu-dhabis-hub71-is-gettin
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Gulf News
@@ -40,6 +40,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Hub71, e& enterprise set up UAE’s first-ever AI Centre of Excellence"
+    excerpt: "The AI CoE will provide a platform for AI solutions to be built and scaled from Abu Dhabi. Hub71, e& enterprise set up UAE's first-ever AI Centre of Excellence. Abu dhabi, Badr Al-Olama, e&, e& enterprise,"
+    publishedDateTime: 2022-06-30T13:24:00Z
+    webUrl: "https://www.itp.net/business/hub71-e-enterprise-set-up-uaes-first-ever-ai-centre-of-excellence"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "Ttg9Md0L3V3egZDNOMbAroxPwMrJe2QDgm91QgxnuIyhSaucD6Hv6MgNggC2nNOaXnRRq8piTB6q+6EMlRw5unmCsHa+QkNnT/JEfwo/rfZ2cbQANPKmz1hkjgyB6iYqybcWwFZlYijNJx8Y1zTPOPkxqCG5K8JV6Z9/Q0zJ4rQWUjb9nURJZh22xfWpzeW3I3wmccdT2QX5MIpWHyxrQum2BlvDUTVXD2g6EIy+1SgRqtKeYuWBe1O5N9Dsm/qsHpikbi92MOqa3oOA9xdH4zTdjUojTOnV8z+KaF5bCUjpueW+cuAenK/VqDIIhhcjFNbkuftQ1j/n9r58Xro8ZQlDraoOhAopQXpZ7lP0mlQ=;JI1vxXx9Lk7K7cuueKqt1A=="
 ---

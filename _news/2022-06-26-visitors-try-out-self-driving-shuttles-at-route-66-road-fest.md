@@ -35,6 +35,15 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Makers of Self-Driving Trucks Face a Long Haul to Profitability"
+    excerpt: "The frustrated co-founder of robotruck pioneer TuSimple demanded answers from his executives at a tense meeting in late January. The company, which went public last year and rode the global tech boom to a $15 billion market capitalization,"
+    publishedDateTime: 2022-06-30T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/makers-of-self-driving-trucks-face-a-long-haul-to-profitability"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 4
 
 secured: "01x0eYYFGL1U22xfumnNnJUkuzztrSJ/isidiy37JvcXwpivLAA+S3Hn56qu1/Pf3hgRblWsmCBAUZKUrfR5kBtc3EfVE2JT7B7VSwjg0hTbYGH2k9t1w8aVqCmTFY+IXGmyCaBnOn9XD5VVkbVVUTTMZRvNRIbsf9MCMAsOPAKNmwWu3aGodHiPHSxbn5kU/etxaw8xTJjvNBnKMuyFJob4O1KoHomTj/IV3poudoeaxkbwuZnJ603g+WZClGhsk24aKn16wtDknqRN6hq4Isp3m1168ngxeUirEsSUGZtW37kP+DK8EDMBqUmxd9LjCLM+hsGsZuZHnkHt1lBdyCDk8s98/aph6MwrHfhDtZwQW89Ct3jG1/t9qer34+unFb6bbA7Q8jCsOPAcvqn+HHBl6QzPfxgv3qrhV1gqFcyp8/kKr9yNanuGiNRqFlfHi/ZPB1mj5nvBnqOAkBORWDADsTiGWleVF58PhbrRnFgRIGlJdKHmTQessNad9Ds9RCv8alzzjoJj8z2Brrh1/g==;Nsw6c9vVSRF7W0SyWdNXoA=="
 ---

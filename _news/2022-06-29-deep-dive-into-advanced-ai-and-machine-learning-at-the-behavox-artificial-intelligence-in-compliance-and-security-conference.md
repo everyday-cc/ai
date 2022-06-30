@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T23:37:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
 webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
 type: article
+quality: 41
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -16,6 +19,50 @@ topics:
   - AI
   - Machine Learning
   - AI in Security
+
+related:
+  - title: "Chinese space company wins in top int'l AI competition"
+    excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth and Environment (MultiEarth 2022) competition during the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)."
+    publishedDateTime: 2022-06-29T03:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1848074/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Top Artificial Intelligence Companies in United States"
+    excerpt: "Tech - Today, the amount of generated data outpaces humans' ability to absorb, interpret, and make smart data-driven decisions. Here, AI comes in to assist us in"
+    publishedDateTime: 2022-06-28T14:57:00Z
+    webUrl: "https://business-review.eu/tech/top-artificial-intelligence-companies-in-united-states-232590"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 41
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2019/09/foto-articol-AI-Ovidiu.jpg"
+        width: 1023
+        height: 591
+        isCached: true
+  - title: "STAR.VISION AEROSPACE GROUP LIMITED: Chinese space company wins in top int'l AI competition"
+    excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth"
+    publishedDateTime: 2022-06-29T04:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56423817-star-vision-aerospace-group-limited-chinese-space-company-wins-in-top-int-l-ai-competition-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1848088/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "ddVG6fR+uL89b3JfYReNAvk668rw2ovzUZUlXFbaAjCKdIAbnD0Kuq2qdn5wu0OfzTlaFMbh2xP/eNjJeO68rvlstAafSzDsh0iBL4KUSDXc1goxcW9oFALKfx7kG6+wiGs19lbjyDsndUb92EXI2wR6ugZ2arCZ5ohgQz8EBkxOm78DZwLPPQRmaONgEgfCnZYD1WKwQmgm2hr6MjmySvEx/tQPGfeH9sOYymrB6e/WpGQzMjzLJxDC+L9LXpue5ulKisF1mVYcDJWW1OOssDXR3tYbL6CyrRcodlQb5eMGTKl/krfYcJ9jjRqS8t36SUJen29cak6SM02nswRw1MRDmjhPOK/PuD4NGCUfHqI=;tuvtv6X7CgLxVkbfRLzMOg=="
 ---

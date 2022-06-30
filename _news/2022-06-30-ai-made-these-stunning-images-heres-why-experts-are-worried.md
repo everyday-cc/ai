@@ -1,20 +1,34 @@
 ---
 category: news
-title: "AI made these stunning images. Here’s why experts are worried"
-excerpt: "By Rachel Metz, CNN Business A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs. These are just a few of the text descriptions that people have fed to cutting-edge artificial intelligence systems in recent weeks,"
+title: "AI made these stunning images. Here's why experts are worried"
+excerpt: "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs."
 publishedDateTime: 2022-06-30T12:12:00Z
-originalUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
-webUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
+originalUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+webUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "uf4AKJtLYeWx0E35ceLhnzzQNkHq64dTff17F+wuueYe3q/MpxoJNfYaomcy2y6g/dPyB+mLxRBDv6459xHx4bv9/AuWeqgLL9k/XcfTCSW8a0m+O2OU38VR7ZopnnsEeN2Bk3eGvyP/UM4N380MLbKiAQq4IrFM6m7i/zXojNaqto/z414x2ROUu8OOrzkWEvsGaiogNl9jku2Nz4Pb7ym9RwaPNMU5hsTmW5h74/Hg3yWcbVhwQ97LUju1fuFYIvMD8do8qNxKEUGDrQ0xLwXjtF+21nL+/sn+MjpMYy/sP1uX5aUKdsd02tUSObpwS53Wexi2+6E1Ejngj4AC0RZ5dAFsFIJWEcxZnAAvzymZHid7A1r4JzeWNSJesCD3pFWVSe2C9f45YpLI0Nnkjn/5cZtOn2xCTKnU6tnHj7Ta7FFOejKkKCfBvpASJi1ha06i6XnzOfohXl/7E+RjJudDMf/g7T30UmiWtVImjrN0UAqfbbqFnadvEdGoFNMKG56nQFj0aYR2r6MYfkrBsQ==;BYlb6jXlZVn1uMkVESyzbQ=="
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607143256-google-imagen-corgi-house-of-sushi-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+secured: "rBzV6GExZykveomx7ur/E6h1YDf7zqaHro6ACNb1CJlkTazzd8aRZhldSSFzX91he2OkYKAqqL5qZaTCzrNxSN6eSoU8S52RVaiKXEnbAPMAfRiOSj+kNqFAAM3IMhREe05sWIjUl0oQYBBYkUomKG8SAPFkrrTlyTRGARV623+VJ+CvGGpll1x82LjkfstX0aIxT7nB/glRk0b0CSUl9thvk71NOvLbpgWp32ojSvAQzZA6TcblGVXwVyu1NjQ+SJaOKlnoiinPPF0G1YCo5aqy4dALpIrKS6sLwV4ETeD2EIOLp2rb6EDDd0fIh4TbV4Z2dmd0Hwokd5nRI4Ni55vhHRabRU4mYzD8oi1qiQY=;4oNgS/6i+G8u1VllbBPfpw=="
 ---
 

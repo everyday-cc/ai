@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T11:01:00Z
 originalUrl: "https://www.actuia.com/english/discover-actuia-n8-the-new-issue-of-the-artificial-intelligence-magazine/"
 webUrl: "https://www.actuia.com/english/discover-actuia-n8-the-new-issue-of-the-artificial-intelligence-magazine/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Actu IA

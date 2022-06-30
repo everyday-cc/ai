@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T13:17:00Z
 originalUrl: "https://www.sourcesecurity.com/news/morse-watchmans-showcase-security-products-national-co-3579-ga-co-1639730102-ga.1656591169.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/morse-watchmans-showcase-security-products-national-co-3579-ga-co-1639730102-ga.1656591169.html?ref=nav"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

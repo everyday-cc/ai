@@ -45,20 +45,6 @@ related:
         width: 810
         height: 544
         isCached: true
-  - title: "Australian retail giants targeted in facial recognition tech complaint"
-    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
-    publishedDateTime: 2022-06-27T03:58:00Z
-    webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Australian retailer pauses facial recognition trial over privacy complaint"
     excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
     publishedDateTime: 2022-06-28T08:25:00Z
@@ -119,6 +105,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australian Retail Giants Targeted In Facial Recognition Tech Complaint"
+    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
+    publishedDateTime: 2022-06-27T08:10:00Z
+    webUrl: "https://www.ibtimes.com/australian-retail-giants-targeted-facial-recognition-tech-complaint-3553115"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
+        width: 1200
+        height: 807
+        isCached: true
   - title: "Australian retailers named in facial recognition complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
     publishedDateTime: 2022-06-27T20:39:00Z
@@ -142,6 +142,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Ambassador Xiao Qian’s Speech: A New Way Forward for Australia-China Relations?"
+    excerpt: "Xiao’s recent speech signaled a new approach to the relationship from Beijing, but the many protesters also highlighted the lingering structural issues."
+    publishedDateTime: 2022-06-30T15:29:00Z
+    webUrl: "https://thediplomat.com/2022/07/ambassador-xiao-qians-speech-a-new-way-forward-for-australia-china-relations/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 20
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-30-143000.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "tFfbA/qToS60UmkKiWkXWom5Ose1FjcMAk1q5MfMpC/4uZ5cQc8JP9uJ/iCTt/lalAqhwmkFkq3kfezHZqjrP4S2aqG6ZpdIJtOonJosbmfNjwfYrs0ngq77jQu+ajynw4htA653uacQJ/naxTjAxcemyd0D+M3S8k5+NfX7DIfSDaByDAi+CK6Szv1PqiwkVQ5O2Prw5MmZ5eJcVN26T5dcRp+93LrTGPhNlGV/8CIHbyVeFsaxAPY9vF+xyODn1zQ2MXIfOvsar6aWtGtT2s9j+4eScF/YPQXqiQO7jiwxodnwgNJCJF9JZSnTtt610L3rCjhI2d4m+n29NyEv5qnHNuqAT9aUMEegfnc24c9kmqsXkoSGhifVVxKebN2LOfPiKPIYVpuIhQedBGYX8l7278jNtF/TT/wiripddYEk6kW7Pf9n0dYgLXcuaQ4iMbYm5K41CAs74rseTYylb/emIsbKT59IY0Oyo09j7FG44HLGQXADojdIoZ848kZmieRhpsyc7CRmPde4QfkQFg==;MQ/kz84oy2hJkLj5TzOz2g=="
 ---

@@ -5,6 +5,8 @@ excerpt: "One of the godfathers of deep learning pulls together old ideas to ske
 publishedDateTime: 2022-06-24T11:54:00Z
 originalUrl: "https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/"
 webUrl: "https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/"
+ampWebUrl: "https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/amp/"
 type: article
 quality: 21
 heat: -1
@@ -18,6 +20,13 @@ topics:
   - Computer Vision
   - AI
   - AI Ethics
+  - Machine Learning
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/06/GettyImages-540680934-thumb.jpeg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
 
 related:
   - title: "Nurturing talented AI professionals for the future"
@@ -37,6 +46,6 @@ related:
         height: 450
         isCached: true
 
-secured: "sB0vfvrJXOty3nkWKkbYRdSpaWpNqLV6ASESYaIOGS0oDbbTR7kNgnv2skDniy6yQ00d+krkNpPb5rjJuSdPk4tBumoukXjInVi02pvdMyqlBqkBKveBlr7gL0mT69lT8SHDr7ue9sF62hc7/fLp3pZvTAZIN/i88kF8KizmE1oQDx1CiSNMHmvChaHtfb2pUnyZ6dkOWmv4638pVBcNwlss19YmZprFp73pUxTfDeGPeL6PtRkeppRa4xoYo9VmWHRjXMieNJOTLSaQ9L+/bAsQ7Cetc3rgxPfP/I1Gbg6l2j9bNUu6kL1NjGVKBZ+0W/9KZ3xjL9U3r9nB3y2WvtIvlrZaY4NAXUASMNgZVuIbQWPnxS8/L4HUKOCUSiRbjWDXfKpRQF6Q29wBNtk5IKh1YROYLcW22CDQy8M2uc0D4/PL/wcB+piZAw4NAVPfnpY+AGKnYfz6ls03Wz3HcPCrpYtIcG88aHatlbg4T5j0vD0m46/hOVtmuPmtxoCHhnNMz/udZJ8zRs/XJ/HNsw==;3zTjlsGHFxtu+W8dDSZyqw=="
+secured: "X67eMCqIfoPD1Ic6Y1gH/aMir5RzZ36YOHDaVLb5ZARghQ64pX9P9wlD9Pn7joKIOmFY4yTtAV0H4nSEXxZK2bgiq8C3379LWoBgQxOwWNSWSGUyFrJumrYZ49VpLfdJW3x/XbKW4ccoOhQn0dZKXFNof6kjsJntadVVeyI2VknsGCSj/ZvKtc1Tva6QCAPh3t3vvws4P76bC877dgdvGOoz/NEPz7B8ptddda4KV+xorWckHaeZaCGj2qK0ovXp7wCjDZ3XnQoM/YJcszgKjRWjKgwHW+pNeOgKueRWUEz6HhN/2uuKXXmFdkg7MdDTgHzGFmD31/t8bN/Y0VbxqqwHn9/27ic3LzKVXAoOhTQ=;ui4tIYwtqLlw/9P1Z+2hMw=="
 ---
 

@@ -215,49 +215,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-28-ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos.md",
-      "title": "AI facial recognition tech identifies rocker Geddy Lee’s mother in anonymous WII photos",
-      "excerpt": "The Rush frontman was also able to find other photos of his mother’s extended family from the Yad Vashem photo collection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos",
-      "originalUrl": "https://www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jta.org/wp-content/uploads/2022/06/6-28-22-Geddy.jpg",
-          "width": 2160,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos/amp",
-      "cdnAmpWebUrl": "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/06/28/culture/ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos/amp",
-      "publishedDateTime": "2022-06-28T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jewish Telegraphic Agency",
-        "domain": "jta.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-28-spotting-objects-from-space-is-easy-this-challenge-is-harder.md",
       "title": "Spotting Objects From Space Is Easy. This Challenge Is Harder",
       "excerpt": "SMART stands for Space-based Machine Automated Recognition Technique ... “A lot of what we see out there today is ‘Can I find a particular object?’” says Jack Cooper, the program’s manager. “And SMART is trying to figure out what all those ...",
@@ -370,7 +327,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -458,7 +415,7 @@
       "originalUrl": "https://www.reuters.com/news/picture/australian-retail-giants-named-in-facial-idUSKBN2O8072",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1465,6 +1422,41 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources.md",
+      "title": "EXCLUSIVE-Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources",
+      "excerpt": "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago, according to people familiar with the matter and posts online, as the high-profile facial recognition startup grapples with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources",
+      "originalUrl": "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources?amp",
+      "publishedDateTime": "2022-06-16T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI in Sales"
       ]
     }
   ],

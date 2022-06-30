@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/top-guinness-world-records-in-ai%EF%BF%BC/"
 webUrl: "https://analyticsindiamag.com/top-guinness-world-records-in-ai%EF%BF%BC/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Analytics India Magazine

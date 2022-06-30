@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T13:32:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/jobox-ai-announces-jobox-financial-account-to-streamline-money-management-for-home-service-pros-1031560439"
 webUrl: "https://markets.businessinsider.com/news/stocks/jobox-ai-announces-jobox-financial-account-to-streamline-money-management-for-home-service-pros-1031560439"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Business Insider

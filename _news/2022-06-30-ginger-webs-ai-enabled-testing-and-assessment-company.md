@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T12:40:00Z
 originalUrl: "https://economictimes.indiatimes.com/industry/services/education/ginger-webs-ai-enabled-testing-and-assessment-company/articleshow/92571858.cms"
 webUrl: "https://economictimes.indiatimes.com/industry/services/education/ginger-webs-ai-enabled-testing-and-assessment-company/articleshow/92571858.cms"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: India Times

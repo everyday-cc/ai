@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-27T15:12:00Z
 originalUrl: "https://www.crn.com/slide-shows/cloud/aws-microsoft-google-top-cloud-ai-developer-market-gartner"
 webUrl: "https://www.crn.com/slide-shows/cloud/aws-microsoft-google-top-cloud-ai-developer-market-gartner"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -57,6 +57,15 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Visonify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
+    excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
+    publishedDateTime: 2022-06-30T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-visonifyai-strongarms-its-ai-engineers-with-microsoft-azure-/2022/06/30/9631823.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 43
   - title: "AI learns to play Minecraft by watching 40,000 hours of YouTube"
     excerpt: "OpenAI's latest AI learned to play Minecraft by watching 40,000 hours of YouTube. The company, which specialises in"
     publishedDateTime: 2022-06-27T14:18:00Z

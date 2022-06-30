@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Australian retail giants targeted in facial recognition tech complaint"
+title: "Australian Retail Giants Targeted In Facial Recognition Tech Complaint"
 excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
-publishedDateTime: 2022-06-27T03:58:00Z
-originalUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
-webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
+publishedDateTime: 2022-06-27T08:10:00Z
+originalUrl: "https://www.ibtimes.com/australian-retail-giants-targeted-facial-recognition-tech-complaint-3553115"
+webUrl: "https://www.ibtimes.com/australian-retail-giants-targeted-facial-recognition-tech-complaint-3553115"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
     width: 1200
-    height: 628
+    height: 807
     isCached: true
 
 related:
@@ -142,7 +138,21 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Ambassador Xiao Qian’s Speech: A New Way Forward for Australia-China Relations?"
+    excerpt: "Xiao’s recent speech signaled a new approach to the relationship from Beijing, but the many protesters also highlighted the lingering structural issues."
+    publishedDateTime: 2022-06-30T15:29:00Z
+    webUrl: "https://thediplomat.com/2022/07/ambassador-xiao-qians-speech-a-new-way-forward-for-australia-china-relations/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 20
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-30-143000.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
-secured: "uV2FaaQBWnQ7NfzTQxPstsDqJR7D99+rsajvv2qlEa7TR0pnJrp7ns8dW6oFgavsAu6nZoGKo4ibofQCepWTM2uZinWCEVpnLi8dwhTDVMrnH0t8Jmcz8BoSzngj2zVwiiGbTVEjoQx/bRyAcno1IBxsSnVb4kWBfTvrYp1rXeDjnJYBWWxfevxZBCud7dNLSY0ReqqZgeFY5SM8t0VqhQ4wBUfBDIU7wnGzWoffmXZWYEad+v2xVfXPIRItee5j79F+MCIlEVCT/pji5sVP5dwPUopMyIhXbHOCk4ySK91ita0BiQgARcAhdg0LAWjc+a3Hvsw/OyWfUC0wAmGQiMqKcRUM6LpnSxtvQg6tOj8xvfRoPeyj9umZoisH5tEcoOfjB+d+xJ2fpuHj1tGRToQ6JH4UQNDkYPWg9HXZlfoxBG+9jL9A4ABMiSG4d9Nnt59JZFs34X1C4hjkvJW1eCw5Vc5nV7BLcTqtCDJH7Nlj12vtR1NeVzxnXauEnKrw4WLTlkPyoLoVhBns1v4iDQ==;g0h6IFILfbJIssfFweR6VA=="
+secured: "EyvstKOudO0BejJD8hPMBmK4BbG5hofOP+QDdlrfZbzIS4Acx64+/YgprBqeflKbdNe7w0LKuuDtGZ6CYRo0plqj/HbXAGw8XUcpBl0BVyd+TZQVR57gFs/2O1B1/b2gf6zqPgaBdJ6W75KQlzy3dDduF0r/BGjr/Xb2DOaOfj/CUdRmlGvIZ5rghauODtg9MkwRTkeVqSchd4iy5Nt/HLO3IRUuKKMWil12c/v9jhp/OBw/HAiot/wfmemXFuy6ZOnb84J/WW3ImT52RcxG+X+lQzCtGRa9vn4CqMVwq+MLAvJCYKv1CSBk3AQcUYf4vE4tWWmXncLxpkc4nsUR3KkSBXA/lrTcDv41FiR1OhI=;XqkhPxwm0N9V5wFLxYC0bg=="
 ---
 
