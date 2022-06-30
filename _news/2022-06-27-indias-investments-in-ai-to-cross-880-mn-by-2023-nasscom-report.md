@@ -23,6 +23,22 @@ images:
     height: 665
     isCached: true
 
+related:
+  - title: "100 most influential AI leaders in India — 2022"
+    excerpt: "Analytics India Magazine brings to you its annual list of the Most Influential AI Leaders In India for the year 2022."
+    publishedDateTime: 2022-06-30T05:51:00Z
+    webUrl: "https://analyticsindiamag.com/ai-100/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/ai-100-1.jpeg"
+        width: 2048
+        height: 930
+        isCached: true
+
 secured: "aD1V2Dpjsd8Iyn0pl2VndgxcGIagKimRMB5Va9lmSL6T1BpyiP/685jk0URr7btWvkVaoDUXvbpwphuDBoGcV70Jx3Zq6S/290FELBXXxb7WDK8xjdF8TzZ9KvK6JpxW/nalf1PHOKpKg+vHSGdeaJ7bps1Ys5+pyb1Mgl7FO1DDcGMG0ABUNm4SVgeFbuqRCyMT4gX7MYs3Od1Qw178TSSwnqNhMjqs2vasqxtgeYuhMJ2I0m/VEJlNjw1xtw8PAefHxIlN6sI/cWiOIEQo0uN5CabghwJN8PuTbORIwGLSFZmPNSYovmtQm9hA1t1R0bwaKoo+a0LiQ9UkDRlWXGakCNCrX2Q2qL4Tbw2U4ag=;HxhkfWALU60eL2zWCy7ryw=="
 ---
 

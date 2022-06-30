@@ -1,32 +1,27 @@
 ---
 category: news
-title: "A reporter tried the AI Instagram wants to use to verify age. Here's what it found"
-excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
+title: "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found"
+excerpt: "CNN By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. M"
 publishedDateTime: 2022-06-27T23:30:00Z
-originalUrl: "https://edition.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
-webUrl: "https://edition.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
+originalUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
+webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
 type: article
-quality: 81
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KESQ News
+  domain: kesq.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220624020409-02-instagram-ai-age-estimation-face-scan-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://kesq.b-cdn.net/2022/06/hypatia-h_ddb2ed82f2acf3cc6634dfa323c057de-h_345cbbfeb56d75741c3eed4796efa7c5-300-scaled.jpg"
+    width: 2560
+    height: 1543
     isCached: true
 
 related:
@@ -162,6 +157,6 @@ related:
       domain: wwaytv3.com
     quality: 11
 
-secured: "DuzZtC8cCGL6X1mTTSzDEUc9ZexpEzzgSVEstu0lpAVrbYTBecdS4Rktdvn1wy1aFIe2gDaBSU5uas7lTilIJW96Xnpl4gpPjdtQ0fP74y1BYRrCZzEbvSZs/dqD04xhMIY7HB/K8avj4vw3f0aBcGiC+SdLiIT4yAt9+owEkB28AhwWaKTCWNvpQf8APn/P762gyWaeQ4DfrX+qEJaLbTT79lQVZ76FKKexhewJmsp3CjKw/rZWZtXJPXBJaC7WTGJKxXoPVtOsEbE+s4e5fR5SHEXqw9319LHDKZagi8orTUWH7My+aVHRRJMOkDNN/SI4Q7FGKED3IvqjZGgVjHHEL1cKTYYzIj1gelagADo=;4xml0oDeSHMXJT6M7m0/yw=="
+secured: "tqrFEl82t7wNRoBTzxVaebZBiMlTTp2yS8FSINFnoLBf3d4fRz+/KBz7w+MGctu6hYDdBX1B4oIpA2YPpcTkv1bVEPZqkz7gq7A5kkhVHEEuFi1c6MR103hoBosW6kwecEx7vc40YTOlBXHdGJ3Hwp/ClY8YUkdpqUim32JV4/OTJeONK79qOTdvkogfJsTHUXF7jvS4ZQ09eCJm3/3pJzCTZsGEJyewdxNt262DwQ0/64iLeleJsJ2wU9OGECUtr2FT7Nj1cqBbPyrlxZAIMGxQ2qq+nXcsqbPXQSzYcQS+v05AdmbSYr+gCKxqOZa+SbQAyALlH6vDbhSFCOfGDQPduntH3g2a5ULOCtuKaOU=;+vfoa3HyT7d5Y3fliicYWQ=="
 ---
 

@@ -1,30 +1,29 @@
 ---
 category: news
-title: "CONNATIX LAUNCHES INTUITIVE CONTEXTUAL TARGETING SOLUTION 'DEEP CONTEXTUAL'"
-excerpt: "Leveraging artificial intelligence, machine learning and other proprietary technologies to analyze video and page content"
-publishedDateTime: 2022-06-28T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/connatix-launches-intuitive-contextual-targeting-solution-deep-contextual/article_5c2f4eef-713c-56b4-acb1-b2533d985a23.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/connatix-launches-intuitive-contextual-targeting-solution-deep-contextual/article_5c2f4eef-713c-56b4-acb1-b2533d985a23.html"
+title: "CONNATIX LAUNCHES INTUITIVE CONTEXTUAL TARGETING SOLUTION ‘DEEP CONTEXTUAL’"
+excerpt: "Leveraging artificial intelligence, machine learning and other proprietary technologies to analyze video and page content NEW YORK, June 28, 2022 /PRNewswire/ -- Connatix, the leading video technology company for publishers and advertisers today officially introduces a first of its kind contextual offering named Deep Contextual."
+publishedDateTime: 2022-06-28T14:07:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ec3aee4593ab744c99869822e9cc1c77"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ec3aee4593ab744c99869822e9cc1c77"
 type: article
-quality: 24
-heat: 24
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/d5/4d5bee39-7ef6-5e86-9b0b-68dfb2c3ad6f/626004812eebe.image.jpg?crop=1905%2C1000%2C47%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "L22fSfr6rqNZU8qmgE8bthXZYIV1/fpu6I5JoiACde+1QE1MAZA8qMPTZkkggXvlMnDU7O+xoT3OCYMIdOnnRymRgEyDp4oFfr0JmMB23VDSTiiBhhHTt/ZpnEJLQV2rvtMS3yGpWPkCHjXwS2LlwLk/ckmhHqYE7E2RoxyDEYIcRG0PGeenk2Mru4cp2xiDzlbdO4NK9vrqvpi3L06pa6uHWcswm/1VppUHeXQ4xNYwgRRACNebZtVUaQwNu1km1Np3TFzGpUW0IJolCOWBzmoNsQhrJXBPthoI3qDyr3XlWr6lJI+nAGGuDZX71RrKoANPJDC+XVpEzkaNfBevUUha7MM5eMV7OAeLt0wzdnUmuJNsFvITALxL7XYcULK3USB5wxe4bDOXkf7IIWc7UYXgE26YaFVXwpSHxsfoY+50d1f4DZH2c4rnBG2lmZmlO5ESKdUDBlQmyikZMrUmGXdRFsRYLUofyRsT1nKbnPXEWbnA0fklVNTCmwYXTXI0pVlGVcTeEHxrGTCXJ2nylA==;rTGzsEquqFU8dmnfv0t2yg=="
+secured: "25lH4no7AkyeZFfy/4HRuM3rR7zNVflqmOJxnkuN8ELRjo0sw8TkEC0ASwUKXPvzsjYe1Yd11tAx/xebxzTjm8qW8L3zdU9AHhs5ob/QzJxFHfuZXycqTIL3ou/hNLwjd2XM88Lc0DIxsbHTzWkDJcHH3ngRkXWmgYcaPu+wCmB6HcdnqapftF9QB3/uWUYyMpw/K0cI28/Ed5k/vyu1zs2XQJXW6d5suvFHeB+YRAMeT6SBkqWwgoIjBBz5ZRsp92JEkGqiCRRBGba3EcLgXkhT9uhkYo51vz9rcbTSNiYO9n7Y5igEJu4/8MDmZHLrucTwnFfwzOTVA17gI7GH43DJmRBIfM8KgGFxa82g3fA=;lwzv0qlDmyvyvUgeBMETeg=="
 ---
 

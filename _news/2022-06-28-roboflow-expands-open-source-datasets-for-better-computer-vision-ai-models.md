@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Glip_Roboflow-Augments-Open-Source-Datasets-for-Improved-Computer-Vision-AI-Models-1.png"
         width: 2917
         height: 1668
+        isCached: true
+  - title: "Meta open sources three new AI-driven acoustic models for better sound in the metaverse"
+    excerpt: "Meta AI has open sourced three new models based on audio-visual perception that can help improve AR/VR experiences."
+    publishedDateTime: 2022-06-30T07:33:00Z
+    webUrl: "https://analyticsindiamag.com/meta-open-sources-three-new-ai-driven-acoustic-models-for-better-sound-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/unnamed-3.png"
+        width: 512
+        height: 262
         isCached: true
 
 secured: "yV7fTIS2sjTJ1EZ//0XDzaRgeyAO/lP7GtylG12VNxZ5eEDogCd6LFGozh293RkfG5NIrL3y2gD0elf1vFnv3yMtHVgdPdQX/2wOfjDMt0T5i3j055LEoaFa85s2myT4ytzheJ6YJEV9LhwpOOzQycaxSY7EngH5/mg/y45JLy7NKOE9UAtXcozNHAOdQxGTuX4+3f1x6GDI1jZC+wGDmwlo3oEQKxm/Lrfk0VXQVsBZKKaV2u2Q+WYuAFwfsH/GB5a7rDsFicjYdq/cgEVM/rYKaqg2+OE6ZtVXPBajBUOLqFGAb4rwkX9Kz3zSejj/zYM2LAs3fga9VEIoMCEJpo6j5LkTMxdcSoNTg7fOqHg/hCV24q1bpJd64KAuc/hO9xnVloFvApuviprQhaoc9hJbLyVj8q5VJ14c99HVYOXy3STXllwM+iXJ4550qy5Vh90GatdPlFa4LVV1eMAo+0yyzsuWHlKfpguSpcUyDd3kodhOgs21a5mKt2upScIMPVsEu56WaZ5WawD0bfRCUg==;Xk0pIz4JAXlZz09AU+HqjQ=="

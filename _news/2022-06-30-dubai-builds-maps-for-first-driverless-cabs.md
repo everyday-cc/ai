@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
-    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
-    publishedDateTime: 2022-06-25T14:27:00Z
-    webUrl: "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    ampWebUrl: "https://www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 58
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/autos/opinion/2022/06/13/racing-roundup-max-verstappen-wins-as-does-josef-newgarden/_benyoung.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
     excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
     publishedDateTime: 2022-06-27T10:03:00Z
@@ -93,6 +77,6 @@ related:
       domain: it-online.co.za
     quality: 34
 
-secured: "xJNShEqitBxApF6W1szv4yttYJmiGggFCvzqZSxwwWSi6HHdi0eFSQZuUtdqFM9yD3S0UsY9GA9NeHdJ7eiSzUgx0IHjAk+pKZN+7OsL6o/U64J1EyV9LbdxIzSCrOaFvtaF4gLlxEffIbid/Eku795dxXki5GVm8nkwmo/kXFYRhwbGxEd+brvC9XYAsn8dENkeidwEsnYVPLKEpSEVC5fd4e0NYeP4/mQp3JzmFQMH64rsdqu7hEqtjRq4iDC6nCC4ib+prP1i733otgTwxApriq7fI3knlDauh0UDQp6sX225N64Gv9/ryuhb5fTB0wxPCNSHqgDUhj50M/5OgI+5J1x/dzxgyShq+fcRCsY=;D1MEHvbXhAKiS9CqZDV/Qw=="
+secured: "QzqUeWiTRMirCPNZPyK9RQgbHgTM+LtmWXKhKti32AFFPCU8aul0NZLJCnBtQoDg0TZuQDFdSgD82YknuCinmhgMmsjOX5rrGr90iGBoPrUhRPiy9X2Jd3wfHUubWGPeaGrSm/ODhemFBctukP+xTb8VtTz/CMFxoT3Keh+SNTggMdOz3gBuWl0pCDYUVqJ382eTFdNiwqxiJDvhXyChm2i6R1Mb8SRouSVwtz4QOXb/MYkDPSaJUFw3PArUTnMEzRPKMPnc+DRVpNkMee0ll6mO0j5jhekdPjIDBl0XJQwm2LsZM6A89idH9A3lO2mB+6eH0y5Q/QAGNy+aVGh0hYWk1uG9v/sHy10hRXOmd7hqzVvFopGBM0HCsbe9lI+3z+7PrYLbbxebiwq5caCFvAIrjOQ8zUyYiWXFkMKrG4bQWaHpetYnpk6S4+BU5SfICdvVT41WT01CRsZvJ/OSuCdPT/mHyDL2VV/dsPGwmVGzpPVcd3PGLx0cQR+5PHf51Y3qCuZzCQHYnuPQAJLHXA==;0hv2ZXpGU75xF9o9/RCGFw=="
 ---
 

@@ -24,42 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Debate over AI sentience marks a watershed moment"
-    excerpt: "The debate over sentience in AI is evidence of not only how far AI systems have come, but also suggestive of where they are going."
-    publishedDateTime: 2022-06-25T13:40:00Z
-    webUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/"
-    ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
+  - title: "Google's Controversial AI Bot Story Keeps Getting More Wild"
+    excerpt: "Google recently made waves when it put an employee on administrative leave after he claimed that the company's LaMDA AI has gained sentience, personhood, and a soul. As outlandish as that might sound, there's more to the story. Blake Lemoine, the engineer ..."
+    publishedDateTime: 2022-06-27T20:18:00Z
+    webUrl: "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all"
-        width: 800
-        height: 399
+      - url: "https://www.slashgear.com/img/gallery/googles-controversial-ai-bot-story-keeps-getting-more-wild/l-intro-1656359836.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
-    excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
-    publishedDateTime: 2022-06-26T22:20:00Z
-    webUrl: "https://www.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
+  - title: "Suspended Google Engineer Claims LaMDA AI Can “Escape Control”"
+    excerpt: "Google engineer Blake Lemoine caused a stir earlier this month when he claimed that the search giant’s LaMDA chatbot has gained sentience. Following his claims, Google put him on administrative leave for violating its confidentiality policy."
+    publishedDateTime: 2022-06-27T07:33:00Z
+    webUrl: "https://www.gizbot.com/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 37
-  - title: "Google’s Sentient AI hired a lawyer to prove it’s alive"
-    excerpt: "Lemoine denied reports that he encouraged LaMDA to recruit a legal counselor, adding: “The lawyer had a discussion with LaMDA, and LaMDA decided to hold his administrations.”"
-    publishedDateTime: 2022-06-25T19:51:00Z
-    webUrl: "https://techstory.in/googles-sentient-ai-hired-a-lawyer-to-prove-its-alive/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 17
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 57
+    images:
+      - url: "https://www.gizbot.com/img/2022/06/human-levelai1-1653461497-1656314967.jpeg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "sLhHJ/nR3Rn+UMqRHh+JjuMIA1Bxi4sebvM8podDr8V00fKFgne8oQOTBRYnrVBZaa38mIipT1fmF704xJ0lcLavPR1wq07WGpdo8GKU6hUrJkZofJbZY3D10GO/wBh/RHHU0kiCASSarbwroXZkgjb32Z3p86z4tJaH64t1/PLSt9VZQec3WP+aNxuYmBg7EODtFnCdRfrZODUqKX08l4PeAq4slwyi9Zw0crDbTViZvuO/AuI1G1euJwj8C50ZIKbZMftTW8+Y6p7TJ1hFp1tqPqZHGB+msnwXfjyc03LejNwtEO3eV+74chaKNFmvbOO6hTaiYQuryhNuRYskWjmHd0ErVmQekzD2LyXzFFQJ9CU1EeStSRX52eLTi5zmxAgr96FqsnEitqXGljiMD4KHXYpQWIl5XnSIZecX7QkEXYKZwdqNuI2W8VHiZiV+a5MsECngdupKDBdOQH56aNnL058KprpqM5gzGjYzjCqwePKyptT460ZTuCZIey6MnyTc/Tsgy1Zw+D5VV+pTCQ==;ETbBWUKmbVx4P6nE30WtJw=="
 ---

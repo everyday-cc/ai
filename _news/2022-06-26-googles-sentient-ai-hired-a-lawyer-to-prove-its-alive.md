@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Debate over AI sentience marks a watershed moment"
-    excerpt: "The debate over sentience in AI is evidence of not only how far AI systems have come, but also suggestive of where they are going."
-    publishedDateTime: 2022-06-25T13:40:00Z
-    webUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/"
-    ampWebUrl: "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/"
+  - title: "Google’s ‘sentient AI’ likened to a 7-year-old child by engineer"
+    excerpt: "A former engineer at Google has likened one of the company’s artificial intelligence programs to a seven or eight-year-old child. Blake Lemoine was put on administrative leave from Google after claiming the tech giant’s LaMDA (Language Model for Dialogue Applications) had become self-aware."
+    publishedDateTime: 2022-06-27T09:04:00Z
+    webUrl: "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/"
+    ampWebUrl: "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Metro
+      domain: metro.co.uk
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all"
-        width: 800
-        height: 399
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339"
+        width: 600
+        height: 339
         isCached: true
   - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
     excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
@@ -45,20 +45,15 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 37
-  - title: "Can an AI bot convince you that it's sentient?"
-    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
-    publishedDateTime: 2022-06-27T21:00:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
+  - title: "Google's AI chatbot hires lawyer as engineer put on leave after 'sentient' claim"
+    excerpt: "Google scientific engineer Blake Lemoine claims an AI chatbot is displaying human emotions, but was suspended after sharing a transcript on online platform Medium"
+    publishedDateTime: 2022-06-25T17:49:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/googles-ai-chatbot-hires-lawyer-27327599"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 12
 
 secured: "IKnuha9DFW6TFsPGYb7UCuAlOlzSP1on7wlXpXPEQ3PWP9LTyrD6kfieOQrgl0crGqYs+QVMoVXXc/n6Gi4rNVok20doGlQ8DTbRgHb5cYXUe5MVJcOZpmJzldeLB2BCv1Qk7qEOcoEnq7Ilo9QqPOXzlOwnLObcMLUEvkL609LtdBddYJOzuD4/6NmjJK2jitN+E8RmdnCd5CZx7tpwyZS8O+EEOOoUcOdZUP7kf3babYY7AQmimLxoVteL2hzOdU3JzxmaZDjKnfBv2QTjvGc0ibNXlMEzzcYSRoHdPscHVPUSlAPVa/2A46eSM1e2QhG//2OXF2xE98gh6rUQUHNZnTJuTR7Y9f9hW4PCpuL7aL9Dq72ur/mAkqdHdWmJsH4wIYcfdIFiczslWNpUmIeI1IYaqk79ab2fpY12izkknDtSxNqziT5r/L0sukh7U65S2nv5KeRthHpAz1b49zR4sPXxX7Dw0HFXkEiBNvHfTXWkBwgNwY6BVkZOp+VOUFCU9H/yNlKmFPMTI3iUqg==;J61b5+TplCNanJ5qlL/A9w=="
 ---

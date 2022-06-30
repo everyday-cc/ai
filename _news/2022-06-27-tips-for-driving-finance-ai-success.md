@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
-    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
-    publishedDateTime: 2022-06-25T14:27:00Z
-    webUrl: "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    ampWebUrl: "https://www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 58
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/autos/opinion/2022/06/13/racing-roundup-max-verstappen-wins-as-does-josef-newgarden/_benyoung.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Dubai builds maps for first driverless cabs"
     excerpt: "Dubai is preparing to launch its first fleet of “self-driving” taxis in 2023. Vice President Sheikh Mohammed bin Rashid, who announced the plan in May, has set a target of 25% of Dubai journeys to be driverless by 2030."
     publishedDateTime: 2022-06-30T04:54:00Z

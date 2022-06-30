@@ -41,6 +41,22 @@ related:
         width: 679
         height: 453
         isCached: true
+  - title: "Speechmatics raises $62m as AI speech-to-text progress delights investors"
+    excerpt: "Speech-to-text leaders Speechmatics has raised $62m in Series B funding as the scaleup moves closer to its goal – a platform which understands every human voice in any language with human-level accuracy."
+    publishedDateTime: 2022-06-30T07:02:00Z
+    webUrl: "https://www.cambridgeindependent.co.uk/business/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/"
+    ampWebUrl: "https://www.cambridgeindependent.co.uk/business/amp/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/"
+    cdnAmpWebUrl: "https://www-cambridgeindependent-co-uk.cdn.ampproject.org/c/s/www.cambridgeindependent.co.uk/business/amp/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/"
+    type: article
+    provider:
+      name: cambridgeindependent
+      domain: cambridgeindependent.co.uk
+    quality: 58
+    images:
+      - url: "https://www.cambridgeindependent.co.uk/_media/img/09PX553QDLF67JDO3K26.jpg"
+        width: 986
+        height: 677
+        isCached: true
 
 secured: "GI9EFPFvuT8nVm6Ve06q9RpUEeTMxt048wFBpW8RXGL0nGJTsqltCjc1xiB6v5p+XmSg4VlmgZSeQQ1L8DE7L/LNfnK2N+okj3LjnsVcdU3LYv6SrQpJaNGFFE0oIK+bqD+s5cZ5EtpmK/8ea4hSCMKDmysIub/JrZ8q0oRjNa6nZjgDJuh1ybYBHCJhfZSYKnLbN34YnHKWmmJrECAxxyiqC5jmjFfKomEtI3VGQYuQs6XndVTfDD+XRX42xbXRglfhzWtVV5tQBjN1/8KGeM+q5+kLKPb9xq/5qgMw5XAMzdcvgaCSfa6xmG5cng0bkmMPLm6SPvSN9qHU2NZZHZJBFrfwIp8/0GWvnzKsKVPy1xhkaN0kIXforDs1iXbehGhIKAXxrcUlwSLoRyuW9FxoqV2mseoncTEWvbo0ispNM905x/e7CBTZBgQC1bdGOy5Gonfnu8pg2q20s/0s/S8aHWIc6/P3fVf5Bpm2YwL8VlJEp/79mXsllxyeAxZUqdMAIXEUpsGUDcWG17TaDw==;qy3CKAXYcDTgiN3jb6b8Eg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-
 ampWebUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
 type: article
-quality: 59
-heat: 80
+quality: 61
+heat: 82
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/06/Upload_20220609-170819.png?w=3000"

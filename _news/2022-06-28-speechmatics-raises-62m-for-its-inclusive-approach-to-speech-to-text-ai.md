@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-in
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Speechmatics raises $62m as AI speech-to-text progress delights investors"
+    excerpt: "Speech-to-text leaders Speechmatics has raised $62m in Series B funding as the scaleup moves closer to its goal – a platform which understands every human voice in any language with human-level accuracy."
+    publishedDateTime: 2022-06-30T07:02:00Z
+    webUrl: "https://www.cambridgeindependent.co.uk/business/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/"
+    ampWebUrl: "https://www.cambridgeindependent.co.uk/business/amp/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/"
+    cdnAmpWebUrl: "https://www-cambridgeindependent-co-uk.cdn.ampproject.org/c/s/www.cambridgeindependent.co.uk/business/amp/speechmatics-raises-62m-as-ai-speech-to-text-progress-delig-9261568/"
+    type: article
+    provider:
+      name: cambridgeindependent
+      domain: cambridgeindependent.co.uk
+    quality: 58
+    images:
+      - url: "https://www.cambridgeindependent.co.uk/_media/img/09PX553QDLF67JDO3K26.jpg"
+        width: 986
+        height: 677
+        isCached: true
   - title: "Speechmatics to extend voice biometrics, speech recognition accuracy with $62M funding round"
     excerpt: "Speechmatics raises $62 million in a Series B funding round led by Susquehanna Growth Equity with participation from existing investors AlbionVC and IQ Capital."
     publishedDateTime: 2022-06-28T16:02:00Z

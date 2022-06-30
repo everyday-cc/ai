@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-reportedly-lays-off-200-a
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-reportedly-lays-off-200-autopilot-employees/"
 type: article
 quality: 91
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -32,6 +32,33 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's layoffs hit Autopilot team as AI develops"
+    excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
+    publishedDateTime: 2022-06-29T21:01:00Z
+    webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220629161230-tesla-vehicle-autopilot-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Tesla Stock Split Seen Drawing AI Investors"
+    excerpt: "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things."
+    publishedDateTime: 2022-06-28T16:56:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Tesla Brings Back Enhanced Autopilot at Half the Cost of Full Self-Driving"
     excerpt: "Enhanced Autopilot offers a middle ground between Autopilot and Full Self-Driving, with additional highway and parking assist features for $6,000."
     publishedDateTime: 2022-06-28T15:32:00Z
@@ -47,20 +74,6 @@ related:
       - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2022-01-dynamic-exterior-profile-sedan-white-scaled.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tesla's layoffs hit Autopilot team as AI develops"
-    excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
-    publishedDateTime: 2022-06-29T21:12:00Z
-    webUrl: "https://www.wicz.com/story/46792693/teslas-layoffs-hit-autopilot-team-as-ai-develops"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 54
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/22925986_G.jpg?lastEditedDate=1656533572000"
-        width: 500
-        height: 333
         isCached: true
 
 secured: "YnSMLy3VAILofTUZKQhyjfO28P2WnFF8xKLbxeklAnREfBfeudKnMQL9JFIG9fNH1D3f7x54NVBT9rFzMm+1G3DdfUQRFceSixnB3c2LlIGTQJDsbzhcq24fdEfBvPuLq/PQbIj8FVl/LkdRoPrF8hE7nMB6/E53iWncRVA079YEAiOc9cGFVkuGGjaeX5RyVdfagUrPEHc9k7AYgubYnPtLGqnjUm6qRh0rBjwxfdVbogSS3SUzOeuvHPWYViVLY5AV9YQ8N5KUWmAHbsxCc7FTm3cDwn5i+J2xw1uGWY7KmofjyUDcZq+wKdJSjhP3ZPoHkyFQyxPsFz2ysPV90DbuRIGfZbCb+3m1J8tBnM0=;0Puqh2UtT1dekJbdnDbO/w=="

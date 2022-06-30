@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
-excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft"
-publishedDateTime: 2022-06-29T13:54:00Z
-originalUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/"
-webUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/"
-ampWebUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/"
+excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft Rising Azure Technology Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
+publishedDateTime: 2022-06-29T13:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-29-abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-29-abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
 
 related:
   - title: "Microsoft is removing emotion recognition features from its facial recognition tech"
@@ -131,6 +123,6 @@ related:
         height: 768
         isCached: true
 
-secured: "Bx2X7MUqWmp1pMC9cLUXMbIyVyQ99QStqrsrEZntkjVRk9yWciJLsxwbQOBJuOxZ0kusfHErETb+X06r14Xy/PdLaFds1rNiM5WwNU4dwWeqO0/F8k4QN30v/F+Umbpl8gB5RaWPBrnTw0T4ZECAXVCh8I4Ejcu8EEE2DYQYxFhZkxsTZUjNa2Xrah7JX7m0mgW4mZIhvmnwuehvovMYl5fPGY6PnV56itTIT5zGKne8nuj48FCoMK7nAukf5GjT5o+peI4OnfNHyYCxVXKAbD2OHlLurStoF7XebKwrR4mYvhka4nVHB2KNr+QNLvxUzrJL0vpez5M0zEPFqVbPNIuADCQgmeWa1LoaPtkMzXe3Ao1e0veQPlyw4QxjzBffEKxh7xJRuATNZM3OGPMadlxHcf4wGHvNMIvr4PnPPBoj63KRjOOucnMoUC6QKeAvuEHjBE7x1AcCMdlPhZBwxG8EjyQO4n8RllaDczNPkHvCLOpVNboGJKT0MtxdI2i501xt9/km6n0CV7zt8xBvmg==;BY87N9c8Z4SRTWUPGivhUw=="
+secured: "vYa9Ze8hyQOiFYgiu3EEZ3fT5BPt4qkbMeO+smTGVXxQyIjW4tFkUniranHItNE4DjD8KIz9j/VrP/XPmYwm6hIaGfvO2/BxDw6bNZcQd7hfiL8NCSkA/9KyWGVVXfI38gPaoY+q7MP0Mavz/A4N9wx4g2+lu6QQhIlyRQUrUoCiyhYJNCfcr0sKEziaPWHA+slYP8PHgxBTVLRTDoQ+AvdOWNKP5456WAoDIxkIRtCssxOOE+inCZVO7O/UWkVU9qg9SDkuRGeBv+AOCd7g4yApbaKEaatU6/I93Cf44FZbuyLU+cNm54IVBeBlyfwVnfyRGs+YyINhEcPROftcm9HIVPz9eXMUttNQdZdPovU=;utgL5EroAlw1fhVj6ro4hg=="
 ---
 

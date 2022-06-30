@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "If we’re ever going to accepting driverless cars, a trusted brand matters"
-    excerpt: "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern. Indeed, a recent study found 43 per cent of people in the United States do not feel safe in a driverless car."
-    publishedDateTime: 2022-06-25T14:27:00Z
-    webUrl: "https://www.thestar.com/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    ampWebUrl: "https://www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 58
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/autos/opinion/2022/06/13/racing-roundup-max-verstappen-wins-as-does-josef-newgarden/_benyoung.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Dubai builds maps for first driverless cabs"
     excerpt: "Dubai is preparing to launch its first fleet of “self-driving” taxis in 2023. Vice President Sheikh Mohammed bin Rashid, who announced the plan in May, has set a target of 25% of Dubai journeys to be driverless by 2030."
     publishedDateTime: 2022-06-30T04:54:00Z
@@ -93,6 +77,6 @@ related:
       domain: it-online.co.za
     quality: 34
 
-secured: "KSv2dBEsPasBwwrjxvNmX0O4FyBKIdHzW1IoYWytM9ZpHDe/0T5nbUw4XsYEyyVDEO6sy3fqzSu9EsbNjRnv+rlGjjNw6uFh4j1/iDtUrIYW93lMg3CFoHS8dB7w+nCp8Di+oS1hveq2bcutCMNmJCtu2DUtSmWmZzHIIGbVQSZhCA0SQvgcKJAjiaHza9rxrjT47x1x9Emvw4yT4Ti5I1Dspu0Pd8prFlkGfs5meAIwo8r59Q1hLkmuNMLGCBlVAJDqESrVi2N86T8CfS7xVIkTutZLeirmjnUBN7gTl/BFkgFTEMyluwRv25ujbMQpw6oETGn/B1LpDMFnTi97rCU03448OzvATz/KbL46vu8=;CtyXwmWhFMwM6KnBprvs2w=="
+secured: "Zh97neAkdUNOoVxYD5gqcAclnATB//d7/O3VeXTdTp2cWU7DXVi4DPQXhgXIKz58zr4V9WUj1iTaLVLjOZQen8VvaXhE920ClFRAGgapejBeDa5yRIKrylu1qTVvAzNpPHvKChlQsY/8SRInNyvy5ehfTopHIEuSqj8feFOGrV8S/0tC4pW++H0QFCeea8dHvHZqiE+LisX2zV/UDre7+uEcjGTxcDlWbnMYW4tSgRvxo8dMLtAjd5HuY7xpKONk0nyYWF/Rs6fLEUwGcW1nkvOtRtd8Y3/pbvEwIx7kI4LR1zvsIUeVYv7ynkjjUM49KBfp7tZqB7h4eDjFic06Yq0YwS7lwcjcGuyuaH7uipHPlL7tT/cQ9wg2pmzaLcTCYMRCMde8G35kxEXHqjRAVLV7rqbdjqPTGfPm0QOgUcyIpLLql3FERZNa1HWOp2oBOyy7tLsJPBkJUXw50bpVFfT8m94eT26H1NH4gWcbNVcg0Lr/5Gx6IsVEHiBUA2hTrI84xPoa3Xh1M869yiRNwQ==;pZCZo6WeVncLDN0qOxqjjQ=="
 ---
 

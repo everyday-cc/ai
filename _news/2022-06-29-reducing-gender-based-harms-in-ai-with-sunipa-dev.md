@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/reducing-gender-based-harms-in-ai-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 110
 published: true
 
 provider:

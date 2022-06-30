@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ..."
-publishedDateTime: 2022-06-24T14:22:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-28-1-billion-by-2027---exclusive-report/article_341bb86f-357e-5e77-bd4b-637687ce558e.html"
+excerpt: "The key factors contributing to the growth of the speech and voice recognition market include increasing demand in healthcare for improving efficiency and the growing use of smart appliances are among the factors driving the growth of the speech and voice recognition market."
+publishedDateTime: 2022-06-24T14:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "TYAvKbHwStNO9YN0ps43bG5pK0v2HR+QCZvgtwyg+ANeB7vki5IXzVonilkXKT4NFKOGXNZpo/KsYm7p3K9ACYJiXEKRJG6zhA4PncVDgF2DJlUaMoHe+Fu+oLI3WgKh5myQgK96C3zczOZUfZTrKRC/xVeTES0JC7Qh/9xAhgSa4wATbS7m7gOPPHIXUxyMiQsdni3Be1UYIm56HRUipHCeDUCKpN7e5sgjjdkzuUiOCuVXiAF/9hZkXGaedOZEjJleBxQgtlI7g/dKVriDxb12brxAV3CgeNkr8PmlHp0nri3Wkw1LmymxjNUitoqaReltlDvK2tRNXgMoCOd3oAzGdcfLsr/GOb2QPRfK9sI=;ocXBg3Zz4TR5N0jSPRKeiA=="
+secured: "iY0uDl6BZDd1ArSXObIOGppUL0PimlbzBC8LwYlLe0bQmtV3wWFSCH1ZZ7+90wvHQpw2kvuVT3X8C6A24bB2XvQcgEzAjPHkXzWbZmZO9WYnggN4o/9O42iU5f+pTrIkMtal2kRbSSgu4sV2C2pd/31P+Pprhs8p3xDqqJtu0w+KnkihSlUVOjqIwKMkFnaOdNpDa+yjVdc55N1hStDsVYpRzrh3RNgy447mYdIZZkA8NPJ5hn1siwWrPf6cy5yR63eA+tmmjphbf+yvBTxubYDBoO8ZU+DdlQyhEwU2DDMzMGdGMP8i4NHoJp6PPBlNremOxPzTbplQVd4D2yB7DE/7HdBcB8V5Ipy9/OoGk5mVE3HFffUBSgT5D18hVRJU4LankrH8KpX/UPa1TqanO8LpoI6TpwzBDoILOVZBjmDi+LTb0DvXOpL7Mr/20QIpv4ZhsiHTaMkjeX3/jX/oTxykNENN7Tx22ukm2AI7xiABgGhtT1QdcPdbHrVPacSBguoU7MXfoMhEtrcMWUrekg==;yMJ4+EoF4tK8du/eizVTFg=="
 ---
 

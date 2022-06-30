@@ -2,26 +2,32 @@
 category: news
 title: "Tesla's layoffs hit Autopilot team as AI develops"
 excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
-publishedDateTime: 2022-06-29T21:12:00Z
-originalUrl: "https://www.wicz.com/story/46792693/teslas-layoffs-hit-autopilot-team-as-ai-develops"
-webUrl: "https://www.wicz.com/story/46792693/teslas-layoffs-hit-autopilot-team-as-ai-develops"
+publishedDateTime: 2022-06-29T21:01:00Z
+originalUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 104
+heat: 134
+published: true
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://CNNWIRE.images.worldnow.com/images/22925986_G.jpg?lastEditedDate=1656533572000"
-    width: 500
-    height: 333
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220629161230-tesla-vehicle-autopilot-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -41,6 +47,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Stock Split Seen Drawing AI Investors"
+    excerpt: "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things."
+    publishedDateTime: 2022-06-28T16:56:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Tesla Brings Back Enhanced Autopilot at Half the Cost of Full Self-Driving"
     excerpt: "Enhanced Autopilot offers a middle ground between Autopilot and Full Self-Driving, with additional highway and parking assist features for $6,000."
     publishedDateTime: 2022-06-28T15:32:00Z
@@ -58,6 +75,6 @@ related:
         height: 800
         isCached: true
 
-secured: "UKSxhGd4pUWmxQreUN5jUdR5P3VBie8xdO7vcOG+VVG9qSfrT31kkWzE/22Ks9bkkKyPqkObPJ3sefmIWnEBs8LHs5wpOOe4yaDPASJDPlYRVANazudAK5twbyTf30VzygBHsxofoX7BhMThUAMVnhZXSNMv49kFOZ1b5KHS6p0Fy7FGYWv2dM9xfwvjEXYPpXOIbE6ayn7ep5nEWeMYx96XVj75dTFzDyM73W92s+98BvJ4KL4ban82QEiEBy7ddZWUfMGzdM4Yu/DQV6fazT2JEoYi5xfO5mUxyCogpo1SDsk1oAqy/YBzTZxjMHTY2F8fQpDeKVqc69sMj1ZGmRcWcS7+rdY5w5RtuwI0ew8=;FraTHUj+hY7LvoCrA1CgMQ=="
+secured: "HduFOlpjU8etRmo7nC9LeD34dmZ89Uvhix+Eh3f1WhAUvi7skM3j1VwE8DxXdorVFFYFJkLkLiA16w4fRqdTZ39Xu0RBr0FTjG8qN1NUBQWSAy65jvutoU4HSyge/KCxnfDhpf/yr7zTq5eg04c9u+t5XZzib3j017oX9AD1nie0JjPzw0Ab1YHsvVb/OmKI14/e6w7zAp/lWnxIQ8pzrbVXCVC9Z2RN69ALP5UqVQb/QD+3F4jfRGc1tH3/z0jDQ1tKMd7ZYsIwhFxjA5xOonxu34w33Xc1sOXAyCQfNlDu0qfU3h75QfvnQg6WlBAnafWQsA2aj8CzjKPPzmjYYs5wlrnhJGX7o0qsnCmMdGw=;/fVWMlalBqIjbqiAULbfKA=="
 ---
 

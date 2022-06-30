@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-06-15-the-hands-off-tech-era-is-over.md",
-      "title": "The Hands-Off Tech Era Is Over",
-      "excerpt": "More government intervention will slow tech down. Is that good or bad? Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share. By Shira Ovide It’s clear more than ever that governments will no longer leave technology alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/15/business/15OnTech-laissezfaire-NL/15OnTech-laissezfaire-NL-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
-      "publishedDateTime": "2022-06-15T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-15-baidu-netflix-apple-rise-premarket-robinhood-microstrategy-fall.md",
       "title": "Baidu, Netflix, Apple Rise Premarket; Robinhood, MicroStrategy Fall",
       "excerpt": "Investing.com -- Stocks in focus in premarket trade on Wednesday, June 15th. Please refresh for updates. Netflix (NASDAQ:NFLX) stock rose 1.3% after the streaming giant announced plans to turn its ...",
@@ -1357,6 +1305,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-hyundais-self-driving-roboride-taxi-ready-for-gangnams-streets.md",
+      "title": "Hyundai’s self-driving RoboRide taxi ready for Gangnam’s streets",
+      "excerpt": "Hyundai has launched its self-driving taxis in the streets of Gangnam, South Korea that is equipped with Level 4 autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831",
+      "originalUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.philkotse.com/2022/06/10/O3IWXvly/1-c8f8_wm.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831/amp",
+      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831/amp",
+      "publishedDateTime": "2022-06-09T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philkotse",
+        "domain": "philkotse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
