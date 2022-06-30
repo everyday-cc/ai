@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
+    excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft"
+    publishedDateTime: 2022-06-29T13:54:00Z
+    webUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/"
+    ampWebUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 74
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Microsoft Limits Public Access to AI-Powered Facial Analysis Features"
     excerpt: "Fran Mendez discusses event-driven or asynchronous APIs, comparing AsyncAPI with OpenAPI/Swagger, AMQP/MQTT/Kafka with HTTP, and publish/subscribe with request/response. Lola Priego, Jose del Pozo ..."
     publishedDateTime: 2022-06-26T07:16:00Z
@@ -101,15 +117,6 @@ related:
         width: 1138
         height: 774
         isCached: true
-  - title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
-    excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft Rising Azure Technology Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2022-06-29T13:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-29-abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 34
   - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
     excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
     publishedDateTime: 2022-06-26T20:30:00Z

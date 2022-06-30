@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-30-ai-ethics-should-be-hardcoded-like-security-by-design.md",
+      "title": "AI ethics should be hardcoded like security by design",
+      "excerpt": "With security by design essential to ensure IT systems are built to be robust from development, the same approach should be applied to artificial intelligence tools so these can be deployed responsibly and without bias,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "publishedDateTime": "2022-06-30T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems.md",
       "title": "AI Ethics Skeptical About Establishing So-Called Red Flag AI Laws For Calling Out Biased Algorithms In Autonomous AI Systems",
       "excerpt": "AI Ethics is questioning whether having Red Flag AI Laws would be viable as to coping with biases in AI, including amid the advent of autonomous AI systems.",
@@ -360,60 +404,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
-      "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
-      "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
-      "publishedDateTime": "2022-06-22T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-22-microsoft-will-remove-a-controversial-feature-of-its-facial-recognition-tool-that-claims-to-identify-emotion-from-videos-and-pictures-in-major.md",
       "title": "Microsoft will REMOVE a controversial feature of its facial recognition tool that claims to identify emotion from videos and pictures – in major overhaul of its AI ethics ...",
       "excerpt": "Microsoft is retiring a controversial facial recognition feature that claims to identify emotion in people's faces from videos and photos. As part of an overhaul its AI policies, the US tech giant ...",
@@ -509,6 +499,60 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
+      "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
+      "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/97a044d4d477b5294394bea91846dc84f2c7dbfd/243_89_5313_3188/master/5313.jpg?width=620&quality=85&auto=format&fit=max&s=7d1751bd65dd2ceecf39d08d46f9d069",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul",
+      "publishedDateTime": "2022-06-22T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision",
+        "Microsoft AI"
       ]
     },
     {
@@ -1405,60 +1449,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-sentient-artificial-intelligence-have-we-reached-peak-ai-hype.md",
-      "title": "“Sentient” artificial intelligence: Have we reached peak AI hype?",
-      "excerpt": "AI experts wonder whether discussing whether LaMDA should be treated as a Google employee means we have reached “peak AI hype.”",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
-      "originalUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 278,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1311426965.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/sentient-artificial-intelligence-have-we-reached-peak-ai-hype/amp/",
-      "publishedDateTime": "2022-06-13T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

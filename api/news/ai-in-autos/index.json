@@ -3,11 +3,11 @@
   "value": [
     {
       "path": "_news/2022-06-30-teslas-layoffs-hit-autopilot-team-as-ai-develops.md",
-      "title": "Tesla's layoffs hit Autopilot team as AI develops",
-      "excerpt": "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street.",
+      "title": "Tesla’s layoffs hit Autopilot team as AI develops",
+      "excerpt": "The layoffs were first reported by Bloomberg Tuesday and confirmed by CNN Business. Data annotation specialists use software tools to manually label objects in video clips collected from Tesla vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
+      "webUrl": "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/",
+      "originalUrl": "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/",
       "featuredContent": null,
       "highlight": null,
       "heat": 134,
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
+      "path": "_news/2022-06-30-self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45.md",
+      "title": "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45",
+      "excerpt": "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
+      "webUrl": "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg",
-          "width": 2880,
-          "height": 1920,
+          "url": "https://scx2.b-cdn.net/gfx/news/2019/waymo.jpg",
+          "width": 375,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
-      "publishedDateTime": "2022-06-29T00:58:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp",
+      "publishedDateTime": "2022-06-29T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore",
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {

@@ -2,6 +2,144 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-17-dementia-warning-the-sleep-disorder-significantly-associated-with-cognitive-impairment.md",
+      "title": "Dementia warning: The sleep disorder ‘significantly associated' with cognitive impairment",
+      "excerpt": "A new study has now suggested erratic sleep patterns could fuel cognitive impairment in later life. The new study, spanning several decades, has suggested erratic sleep disorders could result in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/dementia-1627007.jpg?r=1655459385595",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor/amp",
+      "publishedDateTime": "2022-06-17T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-how-human-pose-estimation-can-push-computer-vision-a-step-forward.md",
+      "title": "How Human Pose Estimation Can Push Computer Vision A Step Forward",
+      "excerpt": "Unlike traditional object detection, HPE allows the computer not only to find a human in the image but to actually understand its behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab35581d55f4f89af2b68a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/amp/",
+      "publishedDateTime": "2022-06-17T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026.md",
+      "title": "Artificial Intelligence Robotics Market Size, Share, Study Overview, Dynamics, Manufacturing Cost Analysis and Forecast Outlook 2026",
+      "excerpt": "Artificial Intelligence Robotics Market research study provides an in-depth analysis of current industry scenarios like Size, Share, Revenue, Leading Competitors, Risk, and Growth factors that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/749967692b9d1f63cada0512a324a03291f1b519-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions.md",
       "title": "Maruti invests Rs 2 crore in artificial intelligence startup Sociograph Solutions",
       "excerpt": "The country's largest carmaker Maruti Suzuki India on Friday said it has invested around Rs 2 crore in Sociograph Solutions Pvt Ltd (SSPL), a startup specialising in artificial intelligence. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions,",
@@ -876,49 +1014,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-17-drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster.md",
-      "title": "Drivers of self-driving cars can rely too much on autopilot, and that’s a recipe for disaster",
-      "excerpt": "Likewise, new partnerships have recently been announced to develop and test the safety of self-driving trucks. The journey toward autonomous or self-driving consumer cars, on the other hand ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241",
-      "originalUrl": "https://theconversation.com/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/469278/original/file-20220616-12-ui495k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=245&fit=crop",
-          "width": 320,
-          "height": 245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster-185241",
-      "publishedDateTime": "2022-06-16T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-16-how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases.md",
       "title": "How to scale machine learning inference for multi-tenant SaaS use cases",
       "excerpt": "This post is co-written with Sowmya Manusani, Sr. Staff Machine Learning Engineer at Zendesk Zendesk is a SaaS company that builds support, sales, and customer engagement software for everyone, with simplicity as the foundation. It thrives on making over 170,000 companies worldwide serve their hundreds",
@@ -1053,101 +1148,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-cybersecurity-ethics-artificial-intelligence-imperatives.md",
-      "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
-      "excerpt": "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
-      "originalUrl": "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HHS",
-        "domain": "govinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-funding-the-robot-revolution.md",
-      "title": "Funding the robot revolution",
-      "excerpt": "I also had the opportunity to get a peek at a few projects from Pieter Abbeel’s lab at Berkeley Artificial Intelligence Research ... ve seen with the larger startup. The past couple of years ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/",
-      "originalUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/prime-air-drone-deliver-04.jpeg?w=1024",
-          "width": 1024,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/",
-      "publishedDateTime": "2022-06-16T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

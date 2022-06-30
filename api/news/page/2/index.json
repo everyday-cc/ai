@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-28-inside-the-3d-printed-hyper-car-designed-by-ai.md",
+      "title": "Inside the 3D-printed hyper-car designed by AI",
+      "excerpt": "Technology Inside the 3D-printed hyper-car designed by AI. Posted . The Czinger 21C is an uncompromising technological feet which Czinger Vehicles says is a glimpse of the future",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOV803128062022RP1",
+      "originalUrl": "https://www.reuters.com/video/watch/idOV803128062022RP1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20220628&i=OV803128062022RP1&r=OV803128062022RP1&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-4-ai-research-trends-everyone-is-or-will-be-talking-about.md",
+      "title": "4 AI research trends everyone is (or will be) talking about",
+      "excerpt": "Recent work by a group of researchers from Google Research, Stanford University, UNC Chapel Hill and DeepMind says it can. Transform 2022 Join us at the leading event on applied AI for enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
+      "originalUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158-e1628013733702.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
+      "publishedDateTime": "2022-06-28T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-uk-decides-ai-still-cannot-patent-inventions.md",
       "title": "UK decides AI still cannot patent inventions",
       "excerpt": "The UK's Intellectual Property Office has decided artificial-intelligence systems cannot patent inventions for the time being. Patents assign the ownership of a new invention to its creator. A recent IPO consultation found many experts doubted AI was currently able to invent without human assistance.",
@@ -1110,111 +1213,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-why-synthetic-data-makes-real-ai-better.md",
-      "title": "Why synthetic data makes real AI better",
-      "excerpt": "When combined with real data, synthetic data creates an enhanced dataset that often can mitigate the weaknesses of the real data.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
-      "originalUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1200224477_design_engineering_science.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
-      "publishedDateTime": "2022-06-27T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-instagram-is-testing-ai-that-verifies-your-age-with-a-selfie-scan-its-not-perfect.md",
-      "title": "Instagram is testing AI that verifies your age with a selfie scan. It's not perfect",
-      "excerpt": "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "originalUrl": "https://www.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220624020409-02-instagram-ai-age-estimation-face-scan-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html",
-      "publishedDateTime": "2022-06-27T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

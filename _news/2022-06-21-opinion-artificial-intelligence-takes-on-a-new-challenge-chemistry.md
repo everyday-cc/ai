@@ -2,14 +2,14 @@
 category: news
 title: "Opinion: Artificial intelligence takes on a new challenge — chemistry"
 excerpt: "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,"
-publishedDateTime: 2022-06-21T14:00:00Z
-originalUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
-webUrl: "https://www.stamfordadvocate.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+publishedDateTime: 2022-06-21T13:00:00Z
+originalUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
+webUrl: "https://www.ctpost.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php"
 type: article
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
   - AI
@@ -20,6 +20,6 @@ images:
     height: 1203
     isCached: true
 
-secured: "SqpOhWqidCgLauZL4u8/ZZBMwOHGC4u25mRuua5AAGrgfhQ5170JvCDJQrve2g8opMC9hYBCi5JhhU9E0c+Y19XlpN4n5C9U0UGzYLa1MeENMW/NASL3uG6R9VRMg7xFbtvQk7XIgSgdlj7IL0IEbFHlk8Vso1wLFwh47WjzOavPpsyTdtOWjXcJpchKZCoEcSOxAelHAr20WUrZzbtbp5ufHFkcYdIPLfrcUXbBkov8OoRVie8LvlBI0kDS/jVrlor07AvOl7YCe5JFrNSA/sQiUX3PySupL+I5RDDG7OyzgaUvdD844bN4hOiwNmBLgPZDerARkmRKkx/nkuZWgGBDQmM/l9mVg9VBeW7i15p8NNfMbva9eMv6ely0mSuR/K0Z2i6+XXpv4EwgOuI7FSM5pi3H15uJyxn2dCUw0tyQ90kXqfqxb+0OSTDkILhSIOpEViDSH5GfeyvgEPDMamA9aCDQqxRPVCXU68fZXyNJeyUA0TaXgJD9wPi7zgQiMBKY9atiTu+d2fQNmJlL5g==;D+s4VVRrbqRSDvQ/6gfEEw=="
+secured: "yTWOyz/nn5An0bjAfkqZazEeIqcgNr9VAsOH9fuHLEo1it/d5i8vi2omUeaTehmY6aZE2t1OB7G8BNvpJpj34KvopMMwbTl0MIDhpfeCYqJV2oMiedM69nVYcSNS+nBrHiCa+9ob4HUenbwXrS5QVvXFFXHkuqbRkqKHYXhUM4iJfLM12fiRywtQ9jM6TAuKO+WSm//wpwTBXils31pdwLorC7EQLVoxB5fbhgHtnaCWfq3t/34rCtrCL6h4wumo/7UEdXfKFEzUXx17bAkFiSQGO5df1K5NuBtIQcCrnMoqPNr7zuBFY0GrwP2JzCKO2BmbJFHCjKYGpEXRF3csZt+E0ilG3fvZuIGsKGWaU+c=;LtYCJ/9K4bz/10AxEqBjRw=="
 ---
 

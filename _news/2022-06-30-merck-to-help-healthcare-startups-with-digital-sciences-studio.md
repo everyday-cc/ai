@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Merck launches accelerator programme for AI startups"
+    excerpt: "US pharma Merck is offering 12 places in a new digital sciences accelerator to startups applying tech like AI and machine learning to drug discovery and development"
+    publishedDateTime: 2022-06-30T09:23:00Z
+    webUrl: "https://pharmaphorum.com/news/merck-launches-accelerator-programme-for-ai-startups/"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/Lab-techs-looking-at-computer-1096502340-605x340-1.jpg"
+        width: 2121
+        height: 1193
+        isCached: true
   - title: "Merck launches Digital Sciences Studio for tech-driven startups"
     excerpt: "Merck (MRK) said it launched Merck Digital Sciences Studio ((MDSS)) to generate technologies for drug discovery and development.The Kenilworth, N.J.-based company"
     publishedDateTime: 2022-06-29T12:04:00Z
