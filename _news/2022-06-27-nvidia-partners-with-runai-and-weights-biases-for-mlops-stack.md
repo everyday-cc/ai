@@ -40,16 +40,19 @@ related:
         height: 850
         isCached: true
   - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
-    excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale SAN FRANCISCO, June 27, 2022 /PRNewswire/ -- Today,"
+    excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
     publishedDateTime: 2022-06-27T18:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27867705/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27867705"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27867705"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 49
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Weights & Biases and Run:ai Make Business Alliance to Enhance ML Developer Workflow"
     excerpt: "Weights & Biases (W&B), and Run:ai, the leader in compute orchestration for AI workloads, have announced a joint partnership."
     publishedDateTime: 2022-06-28T09:53:00Z

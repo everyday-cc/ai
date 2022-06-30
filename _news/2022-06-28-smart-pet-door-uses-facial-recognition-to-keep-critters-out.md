@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
         width: 1024
         height: 536
+        isCached: true
+  - title: "Bunnings doubles down on facial recognition"
+    excerpt: "Hardware store chain Bunnings has defended its use of facial recognition to monitor customers in-store following revelations in June from consumer group Choice that three major Australian retailers were capturing biometric data of customers without their express consent."
+    publishedDateTime: 2022-06-29T23:14:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/bunnings-doubles-down-on-facial-recognition.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20warehouse.jpg"
+        width: 766
+        height: 431
         isCached: true
 
 secured: "YhgtBQ906D7PNEz2MGyi8YzGF2yN+ymqoC2sX7aFGO4CYM9I37N51ZvE8DBlCGYfveKXzxZ2V4hvQ4AaxBkkkh8SWPEadUn0eh5L3wHCEMdjKmqqmrlk5tN+pPTHgtXW7SasPU7swGJX30bqKZnz6+piM5vTlt25mWam0UQp7kloobZIB7SLk4hlVaEZRSIP5gNUjbnWWroRG6xr4jPFeCFGxlpQeEWNjvoGpAAYBwYFPd9mnyBHCunZ7j8l5mPKbP2bCsd30CkQza7NWIdttFC3gJsbAGLx5+qec1u0QFPsu0Q0Cxjvama8xDJq1RAB3tQKj6RiHK78MRou4kDKlpkzesJegQLXnpTCH6kEGdxmTVP+MQ9BZlp9e74i51syha0sKoIh+rKRA9jA77Pi5UoiftUDIiS2SrHtlUZZP2FBNvgYE1yCWs8NEkxSkfsceE0dG2N5mzKupapyPQdItw8RdIOirMV8pYXMGlLGpy+A4vjDTD1mws3hCAGqGt9U+G9xx1wAE5eVGIqbVurnnw==;Nii5W8IxGLm4uxRph7yESQ=="

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels"
-excerpt: "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea"
-publishedDateTime: 2022-06-21T13:43:00Z
-originalUrl: "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557"
-webUrl: "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557"
+excerpt: "Sea Machines Robotics unveiled AI-ris (Artificial Intelligence Recognition and Identification System), a new marine computer-vision navigation sensor designed to improve safety and performance ..."
+publishedDateTime: 2022-06-21T15:16:00Z
+originalUrl: "https://www.marinelink.com/news/sea-machines-debuts-airis-computer-vision-497493"
+webUrl: "https://www.marinelink.com/news/sea-machines-debuts-airis-computer-vision-497493"
 type: article
 
 provider:
-  name: marinetechnologynews.com
-  domain: marinetechnologynews.com
+  name: Marine Link
+  domain: marinelink.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.marinetechnologynews.com/images/maritime/w800/image-courtesy-machines-133099.jpg"
+  - url: "https://images.marinelink.com/images/maritime/w800/image-courtesy-sea-machines-robotics-133099.jpg"
     width: 800
     height: 500
     isCached: true
 
-secured: "c7qUIZvVItUDSKFWbw92R3yIDBhlpN4pFeGNmldAIlhPMM/qkCL6+oQb0fd26Hw/Hn9pNmpZWZi+ZTudFYIVT3nfOJaiEK1xiAkluKX20vI0F/88ciG76kDtXjxlr5hkrgN2irdhk9WFZmFRvwS+tfBLP4dsdbh4iycvzbzKrAgzFAKF7/j3doqBh2xqvp4bo2R3fuqMw2NCX8tu+HPMUBJVjqHobJVHhPDNP71sJZSXp+sKUcuoO874r77S0eaLZ5ICkEgccWit7EbVGotg3+0pv/WkjKMosyvIFZ9dppl2rUXgh9wKfGAd/qOwEO8Z7sM5gz/0CqLXlw6pwcIf/RiAy9OEWhyYQ6KRhRMLhVHJ+pPnchWnhM8KKo0UsZy3b5kd8DZ1NEM/Iho7q6zpeI2BNItXexU/sGTsiJKetDT5mSYF4gA1mo1mr+a+sr8z10bHnedHUCe3RVzYTQU/g7h6acRXW8QlOJJeHM1a82C/s8oMwdIrMYEmlZt/Z2sFoqxwZZpvV8cnmAKCo6qvWg==;xpv5wf//0VOYtrT05iCDBA=="
+secured: "7wtb78x+7Rs1iE4T3qgSTkDpKxMegsCwWrqPlhNxGlliDw6/G09b+fxJ1om4uQb6qsrn4ss6CDG9uaSWJzIOsm8hhyTigTEtU2NdQ7jrWxrgCLKr7DvarTsHVbWTU+EPOnQVClgi0Avi5l/iXz+GGK27ziByTTbB9JEuZ5e0fwCL/bjITMHJdc35hse94UUM/hgOsCETJ4AByfkP9AzeISN11577MqhxrN+7URF3gmQptH3NfY25jzTpnGpvJowOETpDEjkHkw7jDawgSBfOkO4zHPQdiWZhBLr9NGhZ2LyOb/YwQaF+iEe08NUua1CR5aaqI6VYfDVPCNWshY6+UJOtva6uBqJF09BhXAEgRwg=;1N7RfKGMAKFxWDcRQcCjog=="
 ---
 

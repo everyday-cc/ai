@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A reporter tried the AI Instagram wants to use to verify age. Here's what it found"
+    excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
+    publishedDateTime: 2022-06-27T23:30:00Z
+    webUrl: "https://edition.cnn.com/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 81
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220624020409-02-instagram-ai-age-estimation-face-scan-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Instagram is testing AI that verifies your age with selfie scan"
     excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
     publishedDateTime: 2022-06-27T16:51:00Z
@@ -131,20 +147,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
         width: 800
         height: 480
-        isCached: true
-  - title: "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found"
-    excerpt: "CNN By Rachel Metz, CNN Business Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. M"
-    publishedDateTime: 2022-06-27T23:30:00Z
-    webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/06/27/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 33
-    images:
-      - url: "https://kesq.b-cdn.net/2022/06/hypatia-h_ddb2ed82f2acf3cc6634dfa323c057de-h_345cbbfeb56d75741c3eed4796efa7c5-300-scaled.jpg"
-        width: 2560
-        height: 1543
         isCached: true
   - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
     excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."

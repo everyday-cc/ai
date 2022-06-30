@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-s
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/"
 type: article
 quality: 59
-heat: 112
+heat: 109
 published: true
 
 provider:

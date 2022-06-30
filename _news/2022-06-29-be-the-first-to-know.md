@@ -3,27 +3,27 @@ category: news
 title: "Be the first to know"
 excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars. Baidu is test-driving more than 5"
 publishedDateTime: 2022-06-29T01:54:00Z
-originalUrl: "https://greensboro.com/lifestyles/technology/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_a4267568-5424-569e-8c41-792c32bcc147.html"
-webUrl: "https://greensboro.com/lifestyles/technology/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_a4267568-5424-569e-8c41-792c32bcc147.html"
+originalUrl: "https://omaha.com/lifestyles/article_8e591d31-e022-5f9d-8bf4-53872d43e46a.html"
+webUrl: "https://omaha.com/lifestyles/article_8e591d31-e022-5f9d-8bf4-53872d43e46a.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: News & Record
-  domain: greensboro.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/2/29/2299180b-76e4-5054-b306-1de54c21ebd0/62bbb97ca352c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/49/749cbce9-245b-55e7-9ea1-621465da45c2/62bbb9652773c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "IgjasbH6R+B/fL60RBKJ4bwRTbaYVLVZ1vC/66qkbH2gE9MNoV+8WSLTtRSuK3Oeu1hRzxFT7w9E96CEIQjWq5rHbJmmjIgKHIfJ8YQb+3ZrTQg1ATYQQBgtJydAOoQqNQ2Uwdkov+3p4ry7K3oJkgApEKAOjUWy5tVwnCDYAMEjhCWdWnQkTt01i0F+/3AJD/VI7qnNd6+dPTVbt0UXO/F+xGpzWCd9pQbyayFZpyuQOuXDKZDzLD+OnfZF0VBu9WK0o3uYYEgfh+0pZw5DhswKqslLzlfALoh/XfqqYqoiYR8Eo0hGrDhC9fW/4U0T54X+2NxuegsQfPz4KGy8nVHQDOWlge8EHeymkAnIWUcnbRRs+NG0HFxRUy6Y/Du9rV0umAEeP3il2InivSCHXNvkFzR84W0IFgOVtDuimhkHZpqFiUgKtJSKFPGvb29qrXB+YP60RtqciPnatm/KpEpye1wBfLO1TzEOQYHiw1IQGDNM1Af7pEl9dM4ZPziYRafa9a8NfZXm+kcGjxMSFg==;BK0o/fGr33d8v9Gn/LPKEA=="
+secured: "EKxO4Jr5gUqSjtKbP0xjUlWBoC+fMDs7oI3MTjh2CkupBzHOcqTsh8iqaRqovY/EjT9J++ffuAvsrd3GY6066pVSpD5ltBKx8bQjjDaOsAlIsX89SIJTqIfZiR4spAjiHtkeitoEBzVyP+VppYrKFzfI1J/pNn5hnjDeNy6ANa11obPL8zhqlpL0QIMMv9B0hEi+xOkqswIqBKuU1UBvRk9h/zU9Qumed1wtP7JPAmS/Y90AgQAsTbzGxUu0F0YGwdjcKJLe22lThGLdoYHTjKKhtcKy4zr8qDvlmnzcvqKcuePCrTj5Db6OF0yPxV2MFosgCKyvhvpCbXZXnFsbhFMmh3rLD+rCd1nbyH2Girg=;28kzpSFTSf4sMLTjun2k9g=="
 ---
 

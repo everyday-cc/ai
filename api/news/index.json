@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-30-tigergraph-cloud-adds-iam-capabilities.md",
+      "title": "TigerGraph Cloud adds IAM capabilities",
+      "excerpt": "Graph database as a service streamlines access management for enterprises and eases developer collaboration with a single login across multiple projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.html",
+      "originalUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/tiger_by_blake_meyer_cc0_via_unsplash-100756522-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.amp.html",
+      "publishedDateTime": "2022-06-29T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-text-classification-for-online-conversations-with-machine-learning-on-aws.md",
       "title": "Text classification for online conversations with machine learning on AWS",
       "excerpt": "Online conversations are ubiquitous in modern life, spanning industries from video games to telecommunications. This has led to an exponential growth in the amount of online conversation data, which has helped in the development of state-of-the-art natural language processing (NLP) systems like chatbots",
@@ -518,6 +570,57 @@
       ]
     },
     {
+      "path": "_news/2022-06-29-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
+      "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
+      "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos5",
+      "originalUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-568242/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "publishedDateTime": "2022-06-29T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-can-artists-still-benefit-from-nfts.md",
       "title": "Can Artists Still Benefit From NFTs?",
       "excerpt": "Despite the recent cryptocurrency crash and a more sober approach to digital art by collectors, artists still can gain a lot from non-fungible tokens if they use them wisely.",
@@ -665,6 +768,57 @@
       ]
     },
     {
+      "path": "_news/2022-06-29-the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store.md",
+      "title": "The Role Of AI And Edge Computing In Building The Checkout-Free Store",
+      "excerpt": "The foundation of a seamless, checkout-free shopping experience is a set of sophisticated, compute-intensive AI models that map a customer's journey through a store.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6183e5d5ee59e3b06ef1404b/0x0.jpg?format=jpg&width=1200",
+          "width": 1028,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
+      "publishedDateTime": "2022-06-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-7-key-microsoft-azure-analytics-services-plus-one-extra.md",
       "title": "7 key Microsoft Azure analytics services (plus one extra)",
       "excerpt": "Microsoft offers an array of options for data analytics in its cloud that are meant to operate together as a full analytics stack. Here is an overview of the core services and where each fits.",
@@ -704,49 +858,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
-      "publishedDateTime": "2022-06-29T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -810,7 +921,7 @@
       "originalUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -851,6 +962,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "publishedDateTime": "2022-06-28T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1051,7 +1205,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/semantic-segmentation-data-labeling-and-model-training-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1092,153 +1246,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-how-to-use-human-centered-ai-with-forethought-and-nea.md",
-      "title": "How to use human-centered AI with Forethought and NEA",
-      "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/",
-      "originalUrl": "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/TCL-2022-06-29-featured-1920x1080-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
-      "publishedDateTime": "2022-06-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ais-progress-isnt-the-same-as-creating-human-intelligence-in-machines.md",
-      "title": "AI’s progress isn’t the same as creating human intelligence in machines",
-      "excerpt": "The artificial-­intelligence methods build predictive models that grow ... AI developers are also considering how to use these insights in robots that interact with the physical world. And AI is increasingly being applied to biology, chemistry, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
-      "originalUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/06/Upload_20220609-170819.png?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/",
-      "publishedDateTime": "2022-06-28T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models.md",
-      "title": "Roboflow expands open-source datasets for better computer vision AI models",
-      "excerpt": "The Roboflow Universe is about providing images that are curated in an approach that enables datasets to be used for AI-powered applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/",
-      "originalUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1013311574-e1656371218782.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/",
-      "publishedDateTime": "2022-06-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

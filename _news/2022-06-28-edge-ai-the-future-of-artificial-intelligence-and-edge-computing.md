@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nurturing talented AI professionals for the future"
-    excerpt: "Hyderabad: Many entrepreneurs and technologists from the city have made their mark in the growing tech field, and now, one more Hyderabad-born technology"
-    publishedDateTime: 2022-06-25T17:17:00Z
-    webUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future"
-    ampWebUrl: "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp"
+  - title: "The Role Of AI And Edge Computing In Building The Checkout-Free Store"
+    excerpt: "The foundation of a seamless, checkout-free shopping experience is a set of sophisticated, compute-intensive AI models that map a customer's journey through a store."
+    publishedDateTime: 2022-06-29T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/06/AI-831x450.jpg"
-        width: 831
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6183e5d5ee59e3b06ef1404b/0x0.jpg?format=jpg&width=1200"
+        width: 1028
+        height: 685
         isCached: true
   - title: "Exploring the world of artificial intelligence"
     excerpt: "IN this digital age, we are now facing a totally different sphere where technology has been transforming the world we live in. To minimize costs and to improve efficiency, companies have relied on third parties over the years,"

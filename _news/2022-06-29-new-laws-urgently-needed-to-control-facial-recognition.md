@@ -55,6 +55,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Bunnings doubles down on facial recognition"
+    excerpt: "Hardware store chain Bunnings has defended its use of facial recognition to monitor customers in-store following revelations in June from consumer group Choice that three major Australian retailers were capturing biometric data of customers without their express consent."
+    publishedDateTime: 2022-06-29T23:14:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/bunnings-doubles-down-on-facial-recognition.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20warehouse.jpg"
+        width: 766
+        height: 431
+        isCached: true
 
 secured: "Ea62mIMRx2wRM0E6Aw7q9C+LjhGxxfqG23yeHFnvriOcnGvvOmeIuUokuPiK12agHDk/d5aUODyKGSdjNRezeCS3VzC+ZBsqB8mk+Lee7rJWOe/CDDdOTvpEr0oeA6dRVU3D3fhtYChO5DPTmWpTFWQT2roqKFUs172vZtTJBKLR4RgjTy8LgSq/3djKHAC6Jyn+I4FSvdb/97RZGv7KU0luhKerHrQSvmEmkcl+5PGsNbZCVdNIzKyS3yREREAvg1FkPR0kNQArq+wfdQookGLrF11O9JgiJyXqFL+7TjB9JZFTgsf4DB7VTxhPpsxnGt03ZNzsk0whIs3gahZQsD2BZ+77Au7VBd/rJbGrQfoNklpq+lkUAwqqYSZC87+lZ1U1Bv7rLHUUi6fpi9jWegwNAm6BcgDTtYEKS1dX8DVsm409+avL9MgRI6UCCqz5EsectUejz+RC56j4bBFpZcCXbkMMOHCUraWy+xNYkxM8SYb1oSNRgWxtyyGXdoLl+zJZ7dDMrC/8SS79DSQQsw==;6i9OOH4HKz34q3eWyBAnXw=="
 ---

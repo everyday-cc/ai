@@ -57,6 +57,20 @@ related:
         width: 895
         height: 314
         isCached: true
+  - title: "Use a custom image to bring your own development environment to RStudio on Amazon SageMaker"
+    excerpt: "RStudio on Amazon SageMaker is the industry’s first fully managed RStudio Workbench in cloud. You can quickly launch the familiar RStudio integrated development environment (IDE), and dial up and down the underlying compute resources without interrupting your work, making it easy to build machine learning"
+    publishedDateTime: 2022-06-29T22:04:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-custom-image-to-bring-your-own-development-environment-to-rstudio-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/29/Featured-images-for-ml9305.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Amazon Released Incremental Training Feature in SageMaker JumpStart"
     excerpt: "JumpStart to incrementally retrain machine-learning (ML) models trained with expanded datasets. By using this feature, developers could fine-tune their models for better performance in production with a couple of clicks."
     publishedDateTime: 2022-06-27T15:04:00Z

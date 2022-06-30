@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New deep learning tools can help us win the cyber war"
-excerpt: "Stronger public-private partnerships and tools that help organizations more effectively detect and mitigate attacks can help the U.S. stay one step ahead in the cyber wars."
-publishedDateTime: 2022-06-15T10:11:00Z
-originalUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
-webUrl: "https://www.scmagazine.com/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+excerpt: "For example, deep learning (DL) has helped make cybersecurity strategies more proactive and less reactive. DL is the most advanced subset of AI that currently exists and it’s a huge step forward ..."
+publishedDateTime: 2022-06-15T10:14:00Z
+originalUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
+webUrl: "https://www.scmagazine.com/editorial/perspective/critical-infrastructure/new-deep-learning-tools-can-help-us-win-the-cyber-war%EF%BF%BC"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 745
     isCached: true
 
-secured: "FSrz3c7P+x54rkuXjgllGos5+E3qbKdHEVcU5JLEwg00qM35g/rCDAXeusN88DwaoTYfdegGm5DJbPEY2EiEfXs/FoIJwn3zS0yPaKAV54nQ51oEYlxl9q554K4c1bN9Lx1bWMpnLg+G9KF1V7tbCV2h9xPLK4Hsepo/cKcxrrHT85slQYYHoXSj1Sm3lZom7sFbaQHf35RN7tR7IXN8AzkAkCoDveMuyV52LVOpzmi061GCn3/EIyDsw2h6PPrZfrtzzRgDjnt1mpzIqF6Ap8M6gAn/MruTLYC4/ZWhKtCTy25YDQoID35w1mGuP8CRqZSGjvaM0SZEg6HuXr1M0g7d5mle6ZjGlz6bSYAVMUQ=;lmfL82P1ioGIZsbAwc/4pQ=="
+secured: "2UX/Pyxy7yg+H6swUDl4CqroJpF0a5uz+VTjkuHfLvTSHZZqgWBQj0gJzoql7Fw86rw/QuN50+WFCMHfSw+xlFyQkQRqIiLwp2IQZosaqDkgiH/xgZbKNrTzNwuK25by6KodIiwZl/3vQ4ujBZnNiVQd3kOHUckbz15g/apsGiaVASzDYDWjQP3RC1PlQSfJrluPTwAnRIji0M2B58I4AGZpVYY/S5VHXnA8LXC8JbUI4AFciDmBe4UHMUSdgvPiMaKDshzin6zfjPGxxsjyCH6fjL4Sx9Lmk3xRxLRTgEBL2pXIAAk1qwt3O+fCZpRBms6I0iEBZiLcKHnoDOKiWGrCrTpPRgD3SAlGpU9W+R0=;0FNkLD4f2Yiqqc6xwmvtrg=="
 ---
 

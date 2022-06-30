@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/"
 type: article
 quality: 91
-heat: 105
+heat: 101
 published: true
 
 provider:

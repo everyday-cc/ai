@@ -46,16 +46,19 @@ related:
       domain: venturebeat.com
     quality: 49
   - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
-    excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale SAN FRANCISCO, June 27, 2022 /PRNewswire/ -- Today,"
+    excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
     publishedDateTime: 2022-06-27T18:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27867705/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27867705"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27867705"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 49
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "5D6GW/DED+A0QCUYje42iUSlbR8FUn688VTlrV2n1cSHg/sNpydkxtRAo/e7Xn6RjkjlkiLSolC00NCNBZi7YT03rVGBiqVwmSWVn8a3PmZmwSWNmSSnvVGMV2iR/F2Mpwd5UjmAjI8T8qshAye3ITio6H0lvKvcLFMzc+oyiyDl+xlYxXZujM362HNL1vqnwZtiYpzpYOUeiYGNAuJzpa+T7eDtUySKM5WKcQUxr1FDLexoi7y4kFWZYpXpsOGXnvOZ4hkyBlzyrmEz3b1RiHjdUV7eWfz3hUAP6VAEUQj+NtCpmBY2uVwTwbnwDho/+DlQWwg0Zhdqv3fK7ggn5swgo7Usak9qgqetS4QcevMftCiS+gZcMo3R2e9xQeKQxwaXUoC1tZlMnyd0HKWD1y0hFpfrOuY1tFqsJkvpEqiIqN1n3HZRvGbYmFelz+3w580tD219IxenSUJHoWsZrfRrcdk7/M9zRNLAKmCO3bubPvQ32+JUEAq2mU4arNzfzocWk9H7n3AtGhoOq8+kDQ==;EqL8xBvCjRUtLZ20VpW59g=="
 ---

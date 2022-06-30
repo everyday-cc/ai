@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-24-robots-become-racist-and-sexist-bigots-due-to-flawed-ai-study-says.md",
+      "title": "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says",
+      "excerpt": "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "originalUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg",
+          "width": 2000,
+          "height": 1718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "publishedDateTime": "2022-06-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism.md",
+      "title": "Tesla’s ‘Enhanced Autopilot’ Back Again After Full-Self Driving Criticism",
+      "excerpt": "Tesla brought back Enhanced Autopilot after a three-year hiatus, and its $6,000 price tag has some owners questioning the value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrive.com/news/teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism",
+      "originalUrl": "https://www.thedrive.com/news/teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedrive.com/uploads/2022/06/24/20220624-Tesla-Model-Y-Driving.jpg?auto=webp",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drive",
+        "domain": "thedrive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-how-to-use-human-centered-ai-with-forethought-and-nea.md",
       "title": "How to use human-centered AI with Forethought and NEA",
       "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,",
@@ -49,6 +144,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-speech-and-voice-recognition-market-worth-281-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The key factors contributing to the growth of the speech and voice recognition market include increasing demand in healthcare for improving efficiency and the growing use of smart appliances are among the factors driving the growth of the speech and voice recognition market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -206,49 +335,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-speech-and-voice-recognition-market-worth-281-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1068,101 +1154,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-how-machine-learning-ai-is-going-to-change-gaming-forever.md",
-      "title": "How machine learning AI is going to change gaming forever",
-      "excerpt": "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
-      "originalUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-instagram-is-testing-ai-powered-video-selfies-to-verify-age.md",
-      "title": "Instagram is testing AI-powered video selfies to verify age",
-      "excerpt": "Continuing on with its push for age verification and the enforcement of its age requirement, Instagram announced that it would be testing new age-verification methods to help primarily younger users verify their ages with the popular photo and video sharing app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
-      "originalUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/04/smartphone-with-instagram-app-on-it.jpg?p=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp",
-      "publishedDateTime": "2022-06-23T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

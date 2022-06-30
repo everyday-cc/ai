@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "CHICAGO, June 24, 2022 /PRNewswire/ -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded), Technology (Speech Recognition, Voice Recognition), Vertical and Geography (Americas ..."
-publishedDateTime: 2022-06-24T13:31:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/speech-and-voice-recognition-market-worth-28-1-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--892298317.html"
+excerpt: "The key factors contributing to the growth of the speech and voice recognition market include increasing demand in healthcare for improving efficiency and the growing use of smart appliances are among the factors driving the growth of the speech and voice recognition market."
+publishedDateTime: 2022-06-24T14:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-    width: 666
-    height: 350
-    isCached: true
-
-secured: "/3h2d88pLrjZRX6+N9M3hMAj2M4FTTsw+DUNuMVnsCUzp1jnuFX6XZMslfmXeicftYDewxguSqzI7pDX4Y6aHcWgpgtFM7ZV1Wi6NlAYqmBu6kX1H1O+q753cGLx4RZi85UMSRuLusQdV0sK0V34dxwDfUsx2R5fJgOpQ9Y0JRolMFp/dYagQt+vcXIFF7G43IWOtrhwtNzYyV9sbGiid8NkoM3oH7sfUQCN8RwQf86tN0YbtHIMSBQo013KvTEyZiIEI9fxgZJT/mgjat2Hl767ZSBBsbyh0EwCHtvbqXVVhIR1x50E1igLyPGWjZ4VPM03oC5b2r4vpoUFQT8/t7uGn377+Bz70US9m6rzU0g=;ycRjIUkyWIPNGIQKlNgHyw=="
+secured: "CC4gRR3JJvjF7nyJDXPXbBE52O6k1vZF5E18Eo/7ZvlYR/lXMe2HvLKyoGuXmn0bqcuBu0qrddAm8NLp9MHhAZV64/G0VFgjHZyxxfHg4vWjKox91uu8MzrPPY0+WLnVqQQ7fPDfwjouLB7svPMnI7sHuhvYCmbP6HuVl4FAYUKYe0G/1PiFMPpM53YPRrYgasadEEzuXSguL6CvQEbeHVRsI9uD5oayUzh+ByRMF7d6B9HqGln6u7XJtYYuzn7hXUPjAV8RaxN7uO/1f8KVMJGtCJA5AImGxT51x286vSJ49n++r+rjWNq0fZ0U7GYqwedtj3m0PVX4eOmCOCAyM5itksPZY+jDF9+YCleeN4+othkUNtwLs5FBsqFoSJIhPm8GnAxOVpqjPyxY33/yrMPYLLwfupegJRsVd3Uvitdq3+KF7aR9tPezNyCmir0G47iLMtMfFFMVH7inu7mZVdQ9nV31CSRLofVqj+ZVIVPXs/Jcqrd1vmtydDEsH5+TZihYZFpyIUvhModlho2VVA==;5ygg+ygybLYlJeSCWcVyGg=="
 ---
 

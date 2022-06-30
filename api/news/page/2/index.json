@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-28-how-to-use-human-centered-ai-with-forethought-and-nea.md",
+      "title": "How to use human-centered AI with Forethought and NEA",
+      "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/",
+      "originalUrl": "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/TCL-2022-06-29-featured-1920x1080-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
+      "publishedDateTime": "2022-06-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-ais-progress-isnt-the-same-as-creating-human-intelligence-in-machines.md",
+      "title": "AI’s progress isn’t the same as creating human intelligence in machines",
+      "excerpt": "The artificial-­intelligence methods build predictive models that grow ... AI developers are also considering how to use these insights in robots that interact with the physical world. And AI is increasingly being applied to biology, chemistry, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
+      "originalUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/06/Upload_20220609-170819.png?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/",
+      "publishedDateTime": "2022-06-28T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models.md",
+      "title": "Roboflow expands open-source datasets for better computer vision AI models",
+      "excerpt": "The Roboflow Universe is about providing images that are curated in an approach that enables datasets to be used for AI-powered applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/",
+      "originalUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1013311574-e1656371218782.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/",
+      "publishedDateTime": "2022-06-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-ai-facial-recognition-tech-identifies-rocker-geddy-lees-mother-in-anonymous-wii-photos.md",
       "title": "AI facial recognition tech identifies rocker Geddy Lee’s mother in anonymous WII photos",
       "excerpt": "The Rush frontman was also able to find other photos of his mother’s extended family from the Yad Vashem photo collection.",
@@ -104,7 +251,7 @@
       "originalUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -487,7 +634,7 @@
       "originalUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -880,7 +1027,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1070,161 +1217,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-dall-e-mini-is-the-internets-favorite-ai-meme-machine.md",
-      "title": "DALL-E Mini Is the Internet's Favorite AI Meme Machine",
-      "excerpt": "The viral image generation app is good, absurd fun. It's also giving the world an education in how artificial intelligence may warp reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
-      "originalUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b63286e0a13316321d2421/master/w_1680,h_979,c_limit/AI-Meme-Machine-Dall-E-Mini-Craiyon-3-Business.jpg",
-          "width": 1680,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dalle-ai-meme-machine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-ai-meme-machine/amp",
-      "publishedDateTime": "2022-06-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-training-data-the-overlooked-problem-of-modern-ai.md",
-      "title": "Training Data: The Overlooked Problem Of Modern AI",
-      "excerpt": "The importance of data labeling had been hugely underestimated and treated as a nontechnological, ineffective and boring management task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b5c1181f0fc88fc17a1f19/0x0.jpg?format=jpg&crop=1660,934,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
-      "publishedDateTime": "2022-06-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028.md",
-      "title": "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028",
-      "excerpt": "Market Trends for Machine Learning Courses Market Insights and Forecast to 2028 from 2022 to 2028 According to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-27-dall-e-mini-is-the-internets-favorite-ai-meme-machine.md",
+      "title": "DALL-E Mini Is the Internet's Favorite AI Meme Machine",
+      "excerpt": "The viral image generation app is good, absurd fun. It's also giving the world an education in how artificial intelligence may warp reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
+      "originalUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62b63286e0a13316321d2421/master/w_1680,h_979,c_limit/AI-Meme-Machine-Dall-E-Mini-Craiyon-3-Business.jpg",
+          "width": 1680,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dalle-ai-meme-machine/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-ai-meme-machine/amp",
+      "publishedDateTime": "2022-06-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-training-data-the-overlooked-problem-of-modern-ai.md",
+      "title": "Training Data: The Overlooked Problem Of Modern AI",
+      "excerpt": "The importance of data labeling had been hugely underestimated and treated as a nontechnological, ineffective and boring management task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b5c1181f0fc88fc17a1f19/0x0.jpg?format=jpg&crop=1660,934,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
+      "publishedDateTime": "2022-06-27T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028.md",
+      "title": "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028",
+      "excerpt": "Market Trends for Machine Learning Courses Market Insights and Forecast to 2028 from 2022 to 2028 According to the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification.md",
       "title": "Poolbeg Pharma Partner Completes AI Model for RSV Drug Identification",
       "excerpt": "Poolbeg Pharma PLC said Monday that partner OneThree Biotech has completed its artificial intelligence model optimization to identify treatments for respiratory syncytial virus, with results expected in the fourth quarter. The pharmaceutical company said ...",
@@ -417,48 +572,6 @@
       "provider": {
         "name": "The Manila Times",
         "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-nurturing-talented-ai-professionals-for-the-future.md",
-      "title": "Nurturing talented AI professionals for the future",
-      "excerpt": "Hyderabad: Many entrepreneurs and technologists from the city have made their mark in the growing tech field, and now, one more Hyderabad-born technology",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future",
-      "originalUrl": "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://telanganatoday.com/wp-content/uploads/2022/06/AI-831x450.jpg",
-          "width": 831,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp",
-      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/nurturing-talented-ai-professionals-for-the-future/amp",
-      "publishedDateTime": "2022-06-25T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1094,101 +1207,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-robots-become-racist-and-sexist-bigots-due-to-flawed-ai-study-says.md",
-      "title": "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says",
-      "excerpt": "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
-      "originalUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg",
-          "width": 2000,
-          "height": 1718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
-      "publishedDateTime": "2022-06-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism.md",
-      "title": "Tesla’s ‘Enhanced Autopilot’ Back Again After Full-Self Driving Criticism",
-      "excerpt": "Tesla brought back Enhanced Autopilot after a three-year hiatus, and its $6,000 price tag has some owners questioning the value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/news/teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism",
-      "originalUrl": "https://www.thedrive.com/news/teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thedrive.com/uploads/2022/06/24/20220624-Tesla-Model-Y-Driving.jpg?auto=webp",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drive",
-        "domain": "thedrive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

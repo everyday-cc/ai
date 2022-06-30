@@ -2,6 +2,127 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-21-amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations.md",
+      "title": "AMAX Launches Ultralow-Latency and Liquid-Cooled Quad-GPU Data Science Workstations",
+      "excerpt": "AMAX, a leading provider of high-performance computing (HPC), artificial intelligence (AI), and OEM data center manufacturing, has announced new GPU workstations for AI developers that are not only ultra-powerful but also suitable for deployment in any non-lab environment.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-21-amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-21-amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-artificial-intelligence-will-help-autodesk-expand-in-the-metaverse.md",
+      "title": "Artificial intelligence will help Autodesk expand in the metaverse",
+      "excerpt": "“A common theme is helping the designer,” said Tonya Custis, director of artificial intelligence research at Autodesk, whose team includes fifteen AI research scientists based in San ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1371918162.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "publishedDateTime": "2022-06-21T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
+      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
+      "excerpt": "PRNewswire/ – Infobird Co., Ltd (NASDAQ:IFBD) (\"Infobird\" or the \"Company\"), a leading provider of AI-powered customer engagement solutions in China, today announced that it has",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27796726/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-an",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27796726/leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27796726",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27796726",
+      "publishedDateTime": "2022-06-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics.md",
       "title": "Nvidia’s new AI magic turns 2D photos into 3D graphics",
       "excerpt": "After converting 2D images into 3D scenes, models, and videos, the company has turned its focus to editing. The GPU giant today unveiled a new AI method that transforms still photos into 3D objects that creators can alter with ease.",
@@ -231,49 +352,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-sea-machines-debuts-ai-ris-computer-vision-for-commercial-vessels.md",
-      "title": "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels",
-      "excerpt": "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
-      "originalUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinetechnologynews.com/images/maritime/w800/image-courtesy-machines-133099.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marinetechnologynews.com",
-        "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -865,40 +943,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-21-what-if-an-artificial-intelligence-program-actually-becomes-sentient.md",
       "title": "What if an Artificial Intelligence program actually becomes sentient?",
       "excerpt": "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI.",
@@ -1063,21 +1107,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-21-incredible-moment-australian-soldiers-control-ghost-robots-with-their-minds-using-new-technology-designed-to-keep-hands-free-for-weapons.md",
-      "title": "Incredible moment Australian soldiers control 'ghost robots' with their MINDS using new technology designed to keep hands free for weapons",
-      "excerpt": "The technology allows soldiers to control the robots hands-free which is ideal ... visual concentration rather than having to clear your mind and have mindfulness.'",
+      "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
+      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
+      "excerpt": "It hosts and processes data from matches that is fed into AI models built using IBM Watson Studio and IBM Watson Discovery to produce insights for fans, commentators and media. Alexandra Willis ...",
       "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "webUrl": "https://www.marketwatch.com/press-release/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-2022-06-21-120200",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-2022-06-21-120200",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.dailymail.co.uk/1s/2022/06/21/06/59323199-0-image-a-32_1655788844022.jpg",
-          "width": 636,
-          "height": 382,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1085,14 +1129,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "publishedDateTime": "2022-06-21T00:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T00:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1101,41 +1154,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-human-machine-interfaces.md",
-      "title": "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces",
-      "excerpt": "The embedded GPU also adds value for its advanced AI inference execution processing capabilities, which clock in nearly six-times faster than what is possible with Cortex-A53 processor-equipped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27788702/solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27788702",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27788702",
-      "publishedDateTime": "2022-06-20T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
+        "IBM AI",
         "AI"
       ]
     }
