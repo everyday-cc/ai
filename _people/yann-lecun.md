@@ -18,7 +18,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=WLN3QrAAAAAJ
-  citations: 251621
+  citations: 251744
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Yann_LeCun
