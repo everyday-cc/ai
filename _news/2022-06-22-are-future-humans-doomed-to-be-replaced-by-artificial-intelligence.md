@@ -15,6 +15,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

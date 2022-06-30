@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 related:
   - title: "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says"
