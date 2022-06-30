@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Brain-connected robot arms enable paralyzed man to feed himself"
+    excerpt: "A paralyzed man has fed himself for the first time in 30 years by remote-controlling robotic arms with his brain. Researchers at Johns Hopkins University in"
+    publishedDateTime: 2022-06-30T20:41:00Z
+    webUrl: "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/06/2022-06-30-image-24.jpg"
+        width: 829
+        height: 718
+        isCached: true
   - title: "Brain-machine interface helped a man with paralysis feed himself using robotic arms"
     excerpt: "People with arm paralysis might easily feed themselves in the future.  University-led researchers have developed a new technique that let a partially paralyzed man feed himself using robotic arms connected through a brain-machine interface."
     publishedDateTime: 2022-06-28T04:38:00Z

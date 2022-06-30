@@ -34,6 +34,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "MSU researchers use AI to stay ahead of COVID-19 and other diseases"
+    excerpt: "The National Institutes of Health have awarded Michigan State University researchers $2.7 million to continue developing artificial intelligence algorithms that predict key features of viruses as they evolve."
+    publishedDateTime: 2022-06-30T19:28:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/957627"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
 
 secured: "y9i+XN9oZrtdzyLFoWni+eCikE9eE2ynH6/OFL1Lcv47lVBHntXyylA6bXXXKRzLYu5wmHyjq2RYjOyhQ/UZ4cuDpje2VA+WCkjaJQZ6ti35nJVZd7QOgRgwMVwKgOYX+JOuWiy/mx28UKvjyAJinHJlxL09FIONUxylvby4j0a1b59cHzYwrJ+aKaMt45wqvbLVGqPz7963hPh2aAoqV1W/otxmHTrw37lXC6E98sCRoD8s0ruKuykAEVn7G5NY3ayplfVSPoetB+5IaRTYeKLfkyN8gV6lCJUt/Ov626uO+mfbA0l6PT67K1of5Omn28gmXyf1QhZS+wk7rDRnAPGcfxvkdF7CcXtX6fhmj/4BCmre/3/vnTCDq/pnNbbih+ZS8rgBbMwG5jtRH2MYjcdI1Qxs2QrJIsTCtIPKQxmXWm8Uqbz+0wWtUCC8Gf35Bnq8+FqFf/SuGEsaEu9NhRqUIMqMOBROWhMHlSzB392dUwALKr9sShXHv4UXt7AdJiOJQBeS0lTmGqoLnI4x2g==;uNNJWm8sO0ynwutPYXNn/A=="
 ---

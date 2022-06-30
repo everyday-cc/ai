@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T19:45:00Z
 originalUrl: "https://menafn.com/1104461032/Martech-Startup-Fintell-Enables-Financial-Advisors-To-Reach-100-Million-Americans-By-2030"
 webUrl: "https://menafn.com/1104461032/Martech-Startup-Fintell-Enables-Financial-Advisors-To-Reach-100-Million-Americans-By-2030"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

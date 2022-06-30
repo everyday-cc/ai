@@ -3,8 +3,8 @@ category: news
 title: "Tesla's layoffs hit Autopilot team as AI develops"
 excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
 publishedDateTime: 2022-06-29T21:01:00Z
-originalUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/"
-webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/"
+originalUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 type: article
@@ -75,6 +75,6 @@ related:
         height: 800
         isCached: true
 
-secured: "f1QKLK9lEeEtHb1pIuAE2u1hnf1ihtbduL8BVGno9SGuMRW6VD+eiw+Q/6skaPTV8K7j2YVzKWthYDhhl7KyGg7y3dkNzZQmeW729fWn+hMMR8DgBHgwD9Vu50Ng47YdG9BV+ZXQl+HwMLNtuEq1at511faOWQhTZU30ul2UKJ4y/jcpMLfyAfEEfEiFLbzlfGksxa0vlpjLuYlODwkfSGTEjWG14S3XpytkSy0sagrVXHP9/mIKJWV4dhI1NJ6MX9u7X2+a+ejz8bFCXLlvk/S/e+SDO7sKRVupJA0lQQWCelVa/vu3+nYkySgugdREH/W9aZ0HfFsssPz6otNDQ/zlMiTP9kTCogXadK8op4K+iMRiXW5Mq2CSz4/Q8DSeSjgCbV6gH7GasgLjMQVkhMK+fNUe6jsj5L0kNmyV69S7UtDCXGJAXrB/hCGfX6vGSISBv36umJh/Yct3LpUDjQcGemLDYqM9dPaIrHYOGbu7Ay+2VIqwVkScoXBa5oBIsdHhSie5PMIGwJsKg2ELBA==;0/s/8ChwiGl3Oh/Of6RLVQ=="
+secured: "6Fy4aagFf7rqnRCsM8nO6NCFYSEehaHWurXEanP4de/fxzacx15SsUxIk4dJZXu2wdqhocVcLpi5oRvU1emxxzDXO5pvTFm8cjzO/DievA302vZapx12+c4f7/tqiro2/Tx3HDI61/6xNir93incP3jj24fA0mjkzV+Rptb5K0AROpHD7Pk0qDD9Q7ED9DRuuKJakiPeuqHaZYVcSrAmDZ6FOBSZ9RoxP08i/jNKjwh4oGSUZg6HR/m0hr1q/EEIn3bxRAz3h1yQaePZGVM2UthBgigHXDbik4qkhAqcTSbPmzfOqyea21Kc5icmu5POHdVXD1IZY2FmZjkpEjQt7VHVc+wsjky8S8hEvYBxpxs=;IpC9TEF9riOUc7oBbZlgoA=="
 ---
 

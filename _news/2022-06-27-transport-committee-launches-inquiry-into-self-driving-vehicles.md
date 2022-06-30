@@ -67,34 +67,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "I was wrong about self-driving cars: they’re nowhere near ready"
-    excerpt: "I was wrong about self-driving cars. Six years ago, I believed the promises from car companies that autonomous vehicles would properly be on our roads within a decade."
-    publishedDateTime: 2022-06-26T01:30:00Z
-    webUrl: "https://www.independent.ie/business/technology/i-was-wrong-about-self-driving-cars-theyre-nowhere-near-ready-41786154.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 24
-    images:
-      - url: "https://www.independent.ie/business/technology/025e5/41786153.ece/AUTOCROP/w1240h700/Swedish%20freight%20tech%20firm%20Einride%20was%20last%20week%20granted%20permission%20by%20the%20US%20NHTSA%20for%20a%20public%20road%20pilot%20project"
-        width: 1240
-        height: 700
-        isCached: true
-  - title: "MPs launch investigation into self-driving vehicles"
-    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
-    publishedDateTime: 2022-06-27T10:53:00Z
-    webUrl: "https://www.expressandstar.com/news/uk-news/2022/06/27/mps-launch-investigation-into-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 24
-    images:
-      - url: "https://www.expressandstar.com/resizer/VAjoinj5e7OLV3rbttwZFGQO5V0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/K67PTIFSCNB35HH2NECGQB7CJM.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "UK to investigate the safety and potential of self-driving cars"
     excerpt: "As a result of these accidents, six people lost their lives. This week, the UK Highway Code will be updated to ensure that users of self-driving cars are not held responsible for crashes. Instead, it will be insurance companies that will be liable in ..."
     publishedDateTime: 2022-06-27T15:52:00Z
@@ -134,6 +106,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MPs launch investigation into self-driving vehicles"
+    excerpt: "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads."
+    publishedDateTime: 2022-06-27T11:13:00Z
+    webUrl: "https://www.ayradvertiser.com/news/20237804.mps-launch-investigation-self-driving-vehicles/"
+    type: article
+    provider:
+      name: ayradvertiser
+      domain: ayradvertiser.com
+    quality: 4
   - title: "Jet-Packs, Self-Driving Cars, Wireless Charging Of Buses: Museum Of The Future, RTA To Showcase Latest In Mobility"
     excerpt: "The Museum of the Future and Dubai's Roads and Transport Authority (RTA) have announced a new partnership to showcase future mobility solutions, from personal jet packs to self-driving cars. The partnership will showcase new solutions in advanced mobility at the 'Tomorrow,"
     publishedDateTime: 2022-06-28T08:53:00Z

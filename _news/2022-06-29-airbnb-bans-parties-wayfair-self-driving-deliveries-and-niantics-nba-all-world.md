@@ -55,6 +55,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away."
+    publishedDateTime: 2022-06-30T21:45:00Z
+    webUrl: "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
   - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
     excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services. Beginning in July, the pilot will last over six weeks, marking the first in-depth transportation of home ..."
     publishedDateTime: 2022-06-28T19:14:00Z

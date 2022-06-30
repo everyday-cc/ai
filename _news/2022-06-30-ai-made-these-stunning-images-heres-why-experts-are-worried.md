@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T12:12:00Z
 originalUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 webUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: CNN

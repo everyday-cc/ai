@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T19:50:00Z
 originalUrl: "https://www.forbes.com/sites/googlecloud/2022/06/30/worms-in-the-cloud-how-nematodes-and-ai-are-transforming-rd/"
 webUrl: "https://www.forbes.com/sites/googlecloud/2022/06/30/worms-in-the-cloud-how-nematodes-and-ai-are-transforming-rd/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

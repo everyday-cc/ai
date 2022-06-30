@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T19:54:00Z
 originalUrl: "https://www.timesofisrael.com/walmart-to-acquire-israeli-founded-ar-startup-memomi/"
 webUrl: "https://www.timesofisrael.com/walmart-to-acquire-israeli-founded-ar-startup-memomi/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Times of Israel

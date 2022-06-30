@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-fa
 cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
 type: article
 quality: 59
-heat: 119
+heat: 149
 published: true
 
 provider:
@@ -94,6 +94,33 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
+    publishedDateTime: 2022-06-30T18:47:00Z
+    webUrl: "https://menafn.com/1104460450/Facial-Recognition-Technology-How-Its-Being-Used-In-Ukraine-And-Why-Its-Still-So-Controversial"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+  - title: "Marijuana, facial recognition, other laws take effect July 1"
+    excerpt: "Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology, expanded hunting on public lands, and added a new criminal penalty for marijuana possession."
+    publishedDateTime: 2022-06-30T14:22:00Z
+    webUrl: "https://www.chron.com/news/article/Marijuana-facial-recognition-other-laws-take-17276652.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
+  - title: "Marijuana, facial recognition, other Virginia laws take effect July 1"
+    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday."
+    publishedDateTime: 2022-06-30T15:20:00Z
+    webUrl: "https://wtop.com/virginia/2022/06/marijuana-facial-recognition-other-laws-take-effect-july-1/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 19
   - title: "Facial recognition technology: The Good Guys stops using special cameras in stores"
     excerpt: "Home appliance chain The Good Guys has decided to stop using facial recognition technology in stores after a customer backlash, it can be revealed. The reversal heaps pressure on even larger retailers Bunnings and Kmart, which are also using special ..."
     publishedDateTime: 2022-06-28T03:59:00Z

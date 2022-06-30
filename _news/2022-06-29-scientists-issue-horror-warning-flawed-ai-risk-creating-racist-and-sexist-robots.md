@@ -32,6 +32,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Widely Used AI Model Makes Robots Racist and Sexist"
+    excerpt: "A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
+    publishedDateTime: 2022-06-27T08:49:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 34
 
 secured: "G4TKInIsnwG+TwSoSZiaNjyIiO+ZL8vG2XIpOx4JiusWiJg1SB4WnMwvLY/J8kFF0sO4hBWRjgk1E5PwtJQkVFFfJQg4H3lQ1FOxiLKNqj+VOMh2w+TdJN/ZJXPugky1SB9pWoVcrUy2tR17v7c3S9MfJyGxDZhah3iT6A2Hg07S+GMbnm1KPzqe2o/E11VrlXkzeJH0Y8ABiS9sJnZSQm3cnFrV9UUTrMmzVE7LORmmwFd+53sljqLHk19apmVJYQjNJ+QBkuaKXRoQBcCXzTsSpO26Vb3xRPUPrYMopxR+54+9SHMbzn1FTGZLnDOMfClbIksj3Lg+QIU0aMv85tydZfUd2HuGhRUdX3qlZjcVAYNHV3Az4Cy0w/dydGUSpiFCCoNk5gj+w39spbwKn7M6B7c8q/ki7I9it1r1azAbrgCmhm/vpXWzCJm48IKuCxsj6KKj1dCV0TQ/keMBCqqzor1WPIWagpIpKjCHGyVx3L/epOF0GI8tG6sNnl0MkoHLjREG9Zq+yr34CBKWwQ==;YmPQMNw5TtjdaKBxH5WLCA=="
 ---

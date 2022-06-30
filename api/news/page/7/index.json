@@ -2,6 +2,222 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-23-delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage.md",
+      "title": "Delivery Robots Are Bridging The Gap Arising From The Labor Shortage",
+      "excerpt": "With labor shortage showing no signs of receding, delivery-focused companies are turning to robots to steer goods to consumers—with robust results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b32151f2054ac58c7a1f0b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/amp/",
+      "publishedDateTime": "2022-06-23T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry.md",
+      "title": "Develop regulations to guide all actors in artificial intelligence industry",
+      "excerpt": "Recently, Google employee Blake Lemoine made headlines when he claimed that the Artificial Intelligence ... in case of an accident involving a self-driving car which uses components and software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/opinion/article/2001448682/develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry",
+      "originalUrl": "https://www.standardmedia.co.ke/opinion/article/2001448682/develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/uQ6YkBPcVsizubEzC0VCPtMs56VG4IJTJDkHWYSq.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-american-airlines-testing-face-scanning-at-dfw-airport.md",
+      "title": "American Airlines testing face-scanning at DFW Airport",
+      "excerpt": "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/",
+      "originalUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QCM3NSYLD5CDHBU37NHWRODMDM.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp",
+      "publishedDateTime": "2022-06-23T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSAT",
+        "domain": "ksat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.md",
+      "title": "Fieldpoint Private Securities LLC Sells 730 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)",
+      "excerpt": "Fieldpoint Private Securities LLC reduced its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 41.5% in the 1st quarter, according to its most recent filing with the Securities & Exchange Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
+      "originalUrl": "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-powering-fintech-growth-with-mobile-app-marketing.md",
+      "title": "Powering fintech growth with mobile app marketing",
+      "excerpt": "A dive deep into how fintech brands are leveraging mobile app marketing to connect and create a seamless experience for their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-92403870,imgsize-55626,width-1200,height-628,overlay-etbrandequity/powering-fintech-growth-with-mobile-app-marketing.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
+      "publishedDateTime": "2022-06-22T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-esg-book-arms-investors-with-ai-powered-insights-on-sustainability.md",
       "title": "ESG Book arms investors with AI-powered insights on sustainability",
       "excerpt": "With new funding, the company aims to scale its platform while ensuring that its tech offers ESG data that is \"accessible, consistent and transparent.\"",
@@ -940,237 +1156,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence.md",
-      "title": "Qualcomm Launches Unified AI Stack For Cloud To Edge Intelligence",
-      "excerpt": "The new Qualcomm AI Stack lays the foundation for domain-specific SDK’s . While advances in AI accelerators have improved silicon performance by over a thousand-fold, it’s sof",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab51cdac057dbfb68819cd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/",
-      "publishedDateTime": "2022-06-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers.md",
-      "title": "IKEA rolls out an AI-powered interactive design experience for shoppers",
-      "excerpt": "IKEA is launching a new AI-driven interactive design experience called IKEA Kreativ for IKEA.com and the IKEA app. With the new feature, U.S. customers can design and visualize their own living spaces with digitalized furniture on their smartphones instead of traveling to the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/",
-      "originalUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-13-at-4.35.24-PM.png?w=1024",
-          "width": 1024,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/",
-      "publishedDateTime": "2022-06-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate.md",
-      "title": "Despite iQiyi Denial, Is Baidu Set to Roll Credits on Its Video Affiliate?",
-      "excerpt": "But it could make sense for Baidu to divest from video streaming to sharpen its focus on cloud services, AI and self-driving products Online streaming service iQiyi swiftly denied the report as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate",
-      "originalUrl": "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/iqiyi.jpg?width=1200&height=800&fit=crop",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27813279",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27813279",
-      "publishedDateTime": "2022-06-22T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare.md",
-      "title": "AI: The Somnium Files nirvanA Initiative is a bizarre anime nightmare",
-      "excerpt": "Depending on the person, it begins as either the most exciting or most horrifying episode of \"Jeopardy!\" ever made.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare",
-      "originalUrl": "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/40a592b/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2F52%2Ff914e2ee4c3d9a7a252731ec441d%2Fai2-storytrailer-4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true",
-      "cdnAmpWebUrl": "https://www-kgun9-com.cdn.ampproject.org/c/s/www.kgun9.com/eteam/ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare?_amp=true",
-      "publishedDateTime": "2022-06-22T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KGUN 9",
-        "domain": "kgun9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation.md",
-      "title": "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation",
-      "excerpt": "Record Series A Round Will Be Used to Further Develop the AI-based Technology ... people speak a native or foreign language powered by real-time accent translation. Headquartered in Palo Alto ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220622NY96534/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220622NY96534/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

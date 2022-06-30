@@ -10,7 +10,7 @@
       "originalUrl": "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -103,19 +103,19 @@
     {
       "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
       "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "It hosts and processes data from matches that is fed into AI models built using IBM Watson Studio and IBM Watson Discovery to produce insights for fans, commentators and media. Alexandra Willis ...",
+      "excerpt": "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-2022-06-21-120200",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-2022-06-21-120200",
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg",
+          "width": 400,
+          "height": 258,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -125,21 +125,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T00:15:00-07:00",
+      "publishedDateTime": "2022-06-21T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

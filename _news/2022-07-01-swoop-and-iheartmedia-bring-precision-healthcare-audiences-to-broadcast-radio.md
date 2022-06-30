@@ -1,20 +1,25 @@
 ---
 category: news
 title: "Swoop and iHeartMedia Bring Precision Healthcare Audiences to Broadcast Radio"
-excerpt: "Swoop’s privacy-safe patient segments can now be used by healthcare marketers to plan activation across iHeartMedia’s industry-leading broadcast radio ecosystem. Swoop, the leader in privacy-safe AI-generated audiences for healthcare marketing,"
-publishedDateTime: 2022-06-30T19:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-30-swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-30-swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
+excerpt: "Swoop's privacy-safe patient segments can now be used by healthcare marketers to plan activation across iHeartMedia's industry-leading broadcast radio ecosystem. Swoop, the leader in privacy-safe AI-g"
+publishedDateTime: 2022-06-30T17:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/b27920880/swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/b27920880/swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
+ampWebUrl: "https://www.benzinga.com/amp/content/27920880"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27920880"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "PioV+30YvOE1dbJMdz/GbX887anbAiqBNxGqB0dgHjhoZ1I5xzDd5/q1t2NEaeLqMw44taGok9L5EO+32BU/ailstkf1LPk6nVpnx7y/Gxd3xHH/36punKd7KDl1wS97p0URGiSwHZk/zTLsyySDIPjmuPBxEFEpQRXxY/dK2/bxz1PRAAN+rj6hQ958qq9XY5l1Mtmvo+YUG+I56B832EVL5CEVqNkQKOnn/U2mJGDtu9JfnVwocDywVy870WEorYrq8WQXnzh5ANcp8LrCDmyxSBckqe7kX5nOHCnnmXLwVtbPb6zAeYG+SSe3J9JZjp4vpkSfAQOymO/u245pl5nmdJ3aShWHhcYdxPziTZM=;MGbd6yEE068eRAPUV8+yGg=="
+secured: "HMkCpRdZACHv8hiDityQpxVHar1dYRhDkGknWMJxi0EI5K6DSAnd4v61/SxMZUE+daNCpYk43Wua5VqzzI9/dlP94okEmAMw2OVZvvjiMPYrPYN4Kxl/d8uEsGlkytBO5oUSuWNRP+AqziXhzHCl4YMVN12WLYN+2KP4kyS/XX4HkFyU7aVf79vE7Ahw58O/UZlXckXFDRDMa5vQNIlZkf86Va+8odqy0RChZB3qYw5J3WIB66SPW4S+ACkLHIG/QLGh+WI7wIiMStPG9JBzAD5G6jgN54lYoGOtJWcMyuDsrNBzVdSTKbedjDVS6UhEJm0d+gHFBV2BxypsvfpZ0la0IriPaECNZpxDb8ONc+Q=;wVKyh/iBll7Uv/c7RB40FQ=="
 ---
 

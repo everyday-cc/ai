@@ -7,8 +7,8 @@ originalUrl: "https://www.inc.com/suzanne-lucas/robots-are-racist-sexist-ai-isnt
 webUrl: "https://www.inc.com/suzanne-lucas/robots-are-racist-sexist-ai-isnt-ready-for-recruiting.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Inc
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Widely Used AI Model Makes Robots Racist and Sexist"
+    excerpt: "A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
+    publishedDateTime: 2022-06-27T08:49:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 34
   - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
     excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
     publishedDateTime: 2022-06-28T19:31:00Z

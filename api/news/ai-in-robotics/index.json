@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-01-brain-connected-robot-arms-enable-paralyzed-man-to-feed-himself.md",
+      "title": "Brain-connected robot arms enable paralyzed man to feed himself",
+      "excerpt": "A paralyzed man has fed himself for the first time in 30 years by remote-controlling robotic arms with his brain. Researchers at Johns Hopkins University in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html",
+      "originalUrl": "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/06/2022-06-30-image-24.jpg",
+          "width": 829,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-iit-delhis-ihfc-to-design-robotics-and-automation-curriculum-for-sose.md",
+      "title": "IIT Delhi's IHFC To Design Robotics And Automation Curriculum For SoSE",
+      "excerpt": "The Delhi Board of School Education (DBSE) is collaborating with the Indian Institute of Technology, Delhi to design a robotics and automation curriculum for the Schools of Specialized",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/national/iit-delhis-ihfc-to-design-robotics-and-automation-curriculum-for-sose-751263",
+      "originalUrl": "https://www.thehansindia.com/news/national/iit-delhis-ihfc-to-design-robotics-and-automation-curriculum-for-sose-751263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/06/30/1300483-sose.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-robots-are-racist-and-sexist-ai-isnt-ready-for-recruiting.md",
+      "title": "Robots are Racist and Sexist: AI Isn't Ready for Recruiting",
+      "excerpt": "Humans struggle with not letting bias creep in, but it looks like artificial intelligence has a worse problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inc.com/suzanne-lucas/robots-are-racist-sexist-ai-isnt-ready-for-recruiting.html",
+      "originalUrl": "https://www.inc.com/suzanne-lucas/robots-are-racist-sexist-ai-isnt-ready-for-recruiting.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-921293258_506731_fghab8.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inc",
+        "domain": "inc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-pitch-your-startup-at-tc-sessions-robotics.md",
       "title": "Pitch your startup at TC Sessions: Robotics",
       "excerpt": "Robotics 2022 – is coming back virtually July 21. It’s slated to be one of the best programming lineups in the robotics industry with luminaries like U.S. secretary of labor, Marty Walsh; inventor Dean Kamen;",
@@ -234,58 +372,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-brain-machine-interface-helped-a-man-with-paralysis-feed-himself-using-robotic-arms.md",
-      "title": "Brain-machine interface helped a man with paralysis feed himself using robotic arms",
-      "excerpt": "People with arm paralysis might easily feed themselves in the future.  University-led researchers have developed a new technique that let a partially paralyzed man feed himself using robotic arms connected through a brain-machine interface.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html?src=rss",
-      "originalUrl": "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/92de38f0-f626-11ec-bfbf-2a6f7a4ab996",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1283,104 +1369,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-using-artificial-intelligence-to-improve-business-decisions.md",
-      "title": "Using Artificial Intelligence To Improve Business Decisions",
-      "excerpt": "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200",
-          "width": 753,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
-      "publishedDateTime": "2022-06-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-incredible-moment-australian-soldiers-control-ghost-robots-with-their-minds-using-new-technology-designed-to-keep-hands-free-for-weapons.md",
-      "title": "Incredible moment Australian soldiers control 'ghost robots' with their MINDS using new technology designed to keep hands free for weapons",
-      "excerpt": "The technology allows soldiers to control the robots hands-free which is ideal ... visual concentration rather than having to clear your mind and have mindfulness.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/06/21/06/59323199-0-image-a-32_1655788844022.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "publishedDateTime": "2022-06-21T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

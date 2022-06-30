@@ -40,6 +40,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Google’s AI Spotlights a Human Cognitive Glitch: Mistaking Fluent Speech for Fluent Thought"
+    excerpt: "Every time you engage in conversation, your mind automatically constructs a mental model of your conversation partner."
+    publishedDateTime: 2022-06-30T14:00:00Z
+    webUrl: "https://singularityhub.com/2022/06/30/googles-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 7
   - title: "Google's powerful AI spotlights a human cognitive glitch: Mistaking fluent speech for fluent thought"
     excerpt: "When you read a sentence like \"This is my story...,\" your past experience tells you that it's written by a thinking, feeling human. And, in this case, there is indeed a human typing these words: [Hi,"
     publishedDateTime: 2022-06-28T12:59:00Z

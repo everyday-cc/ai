@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T19:23:00Z
 originalUrl: "https://thenextweb.com/news/ukrainian-ai-firm-behind-deaged-luke-skywalker-on-deepfake-voice-risks"
 webUrl: "https://thenextweb.com/news/ukrainian-ai-firm-behind-deaged-luke-skywalker-on-deepfake-voice-risks"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: The Next Web

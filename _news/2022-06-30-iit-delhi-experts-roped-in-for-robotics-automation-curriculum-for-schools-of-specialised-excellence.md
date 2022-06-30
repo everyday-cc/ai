@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "IIT Delhi plans for robotics and automation"
+    excerpt: "The Delhi Board of School Education (DBSE) has roped in experts from IIT Delhi to design the robotics and automation curriculum for the city government's Schools of Specialised Excellence"
+    publishedDateTime: 2022-06-30T18:18:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/iit-delhi-plans-for-robotics-and-automation-751290"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 34
 
 secured: "U/gdx9vxlZjFaxUa6i4VpOjkSIWmC7UDzYRr6tvTZsOqnDw3w8uolIinAQXymKzEMucMvPtv7EcvXOxnQ1EmCqAaxPWJiwyuX7Ley9KrIccC1R4ECtU0Y1F+P6pRi3L2xPpSzYEWHKdXfrPP9H++OHwkWQ9tNcG8KWiSY1xqcLWSjetKFJ8b0CBgGVxWNfe12ZCVn9y1p0Zca1MtPPGGx2gXWsSxa8/QW1ktnE9kYqI7kH/DwPN3wmEmVIdXzDaYzuVqOPmeQm+arju8IVsr+bjZAyofotZCwSaPaecIz+rg2F6/ijQiSX/i5/2kE6b7HlyHuplolCEAY90PreQfvzRN9GjNHOZvhQf0UG9oRgAitrNe/zs3bWIVYqHsG8J0+ySyfsQV2/LKqYfqRIsMTWQRgaeekXcCUorTwrCWCECnLOqsQ+BGqMZyxyliWO290GCfjLX1OKiBRJUQbIvEONnFAM/JZdCTkDk+pdHH/+JKmMIOHooLK0YcHueD+KWd4LPmWv+ttDQRkhPiPqYxRA==;SLTHeayvOpfYRbW+KPaFEQ=="
 ---

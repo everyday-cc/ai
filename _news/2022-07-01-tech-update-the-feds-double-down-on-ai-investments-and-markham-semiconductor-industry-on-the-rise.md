@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T18:39:00Z
 originalUrl: "https://www.thestar.com/business/mars/2022/06/30/tech-update-the-feds-double-down-on-ai-investments-and-markham-semiconductor-industry-on-the-rise.html"
 webUrl: "https://www.thestar.com/business/mars/2022/06/30/tech-update-the-feds-double-down-on-ai-investments-and-markham-semiconductor-industry-on-the-rise.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The Star

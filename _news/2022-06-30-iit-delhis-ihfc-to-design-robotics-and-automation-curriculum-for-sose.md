@@ -7,8 +7,8 @@ originalUrl: "https://www.thehansindia.com/news/national/iit-delhis-ihfc-to-desi
 webUrl: "https://www.thehansindia.com/news/national/iit-delhis-ihfc-to-design-robotics-and-automation-curriculum-for-sose-751263"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Hans India
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Delhi plans for robotics and automation"
+    excerpt: "The Delhi Board of School Education (DBSE) has roped in experts from IIT Delhi to design the robotics and automation curriculum for the city government's Schools of Specialised Excellence"
+    publishedDateTime: 2022-06-30T18:18:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/iit-delhi-plans-for-robotics-and-automation-751290"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 34
   - title: "IIT Delhi experts roped in for robotics, automation curriculum for schools of specialised excellence"
     excerpt: "IIT Delhi experts have been roped in for their expertise. The IIT Delhi experts will be helping students in designing robitics and automation curriculum for the School of Specialised Excellence which is in the city of elhi."
     publishedDateTime: 2022-06-30T12:46:00Z
@@ -35,6 +44,6 @@ related:
       domain: timesnownews.com
     quality: 19
 
-secured: "TayMjjF5CC7vCwD6n1SUx9cLtvOYGg7rkv6JIjq9cswfbTJhQFg6uktqlmJfe5jHS9SwXavAKpsoRDmp3K3axyrkY7m6zh9a26tYZwDerJKasa+Su2bfWMdwT5spI7S31URLG7fzO5kocQV1P04rsBXvfluep+yHVKiaFFMT1AcnIGU3WY4oPVFaELU0sd4YgtZhSb0m92EdZcHl7Gumqv+8zbotScIXEfwuWF1+SPCYFfx3agM+xf/L1cB4nF2/F+UlrNMzz6FOBlDprT2pLAzc2y7Hf7wyIbOIxPhGLpcibWNvcQ2AOVS0daOQdTJbAETwne4C+LiJMNCDr3Sne4En6gppFcQ/iAotk4lGadQ=;iXCCHzIBpFy6SNTogxjALQ=="
+secured: "C2qOC+X1sDnG/6SL1g3ZRIm1iL0up5zICgOhvajAs/2asVrO64JWxsPcgQ7Gh2UyIgBaQLMLHOLFKQbes2YzTDaT2lom9UzlbGWlxDhVryjF+W9ncJpcS6jU8DxQiyj0uLLm2rHIS7syOZsVZ6SZSzSMjzz5911wwTIcgHEnsodmD6CVt7zJYDSzuC1TPAq+Po72qe6OvBeHBKMiqXgYFnuz2FYOine5UBtucWa5sqhJPGRBwZOjVaKFQR0yvyD5FRSJuW9VZWcIzPdB6NX19LPsB9RdylF2lCocCFR4XfKvZ7dMZvoMmCRgbgOGI7ULdrlkP7aIEgsyB4LOmAmN/fegRt9IzMwjpmtn2Mpc5ZtBo0HcfcySZSkaGFfbB/RzSOOU90jgXPPMznWeLyY89UGRboFPmp69MGXdyBl3UF5A0/GxN+yygLq1dDe3f/OD0duGVO2XyLhPD+imo6sM6b5VUTW+h3weJcwug06ggSJSmrA/CZ5H50V+0IKUZTNNQjbCV94VrqOnrplkhV0Waw==;Aakmb1tKYiJKkx3LO4YjXw=="
 ---
 

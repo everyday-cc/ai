@@ -2,6 +2,249 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-17-ai-and-robotics-in-healthcare-a-phone-could-hear-if-you-have-tb.md",
+      "title": "AI and Robotics in healthcare: A phone could hear if you have TB",
+      "excerpt": "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/world-africa-61834753",
+      "originalUrl": "https://www.bbc.com/news/av/world-africa-61834753",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1639B/production/_125453019_p0cffz8h.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-tabnine-updates-ai-based-code-writing-assistant-for-developers.md",
+      "title": "Tabnine updates AI-based code-writing assistant for developers",
+      "excerpt": "Tabnine has launched a new version of its AI-powered assistant, which software developers can use to anticipate code written for apps.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/devops-e1655415804190.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/amp/",
+      "publishedDateTime": "2022-06-16T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources.md",
+      "title": "Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources",
+      "excerpt": "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources/article65535927.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources/article65535927.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/incoming/6x0n49/article65535993.ece/alternates/LANDSCAPE_615/2022-05-12T113433Z_265084154_RC2M5U97EGQ2_RTRMADP_3_USA-TECH-FACIALRECOGNITION.JPG",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources/article65535927.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources/article65535927.ece/amp/",
+      "publishedDateTime": "2022-06-16T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-ai-is-driving-hyperautomation-and-autonomous-factory-systems.md",
+      "title": "AI is driving ‘hyperautomation’ and autonomous factory systems",
+      "excerpt": "The hyperautomation approach allows organizations to automate as many of their processes as possible with tech such as RPA and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/data-observability-e1655328076213.jpg?fit=800%2C526&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/amp/",
+      "publishedDateTime": "2022-06-16T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey.md",
+      "title": "Maruti Suzuki invests in AI startup with eye on enhancing digital sales journey",
+      "excerpt": "Maruti Suzuki has taken a 12.09 per cent stage in Sociograph Solutions Private Limited under its MAIL initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey-41655442728485.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey-41655442728485.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/06/17/600x338/AI_1_1655443322967_1655443329077.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html",
+      "publishedDateTime": "2022-06-16T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-how-ai-powered-pricing-improves-margins-and-protects-consumers.md",
       "title": "How AI-powered pricing improves margins and protects consumers",
       "excerpt": "AI-powered pricing done right means consumers will enjoy personalized offers and prices set squarely in their comfort zone.",
@@ -414,6 +657,39 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence.md",
+      "title": "Privacy bill sets out rules on use of personal data, artificial intelligence",
+      "excerpt": "The federal Liberals introduced privacy legislation on Thursday to give Canadians more control over how their personal data is used by commercial entities, impose fines for non-compliant organizations",
+      "sourceUrl": null,
+      "webUrl": "https://www.lakelandtoday.ca/national-news/privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence-5484614",
+      "originalUrl": "https://www.lakelandtoday.ca/national-news/privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence-5484614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "lakelandtoday",
+        "domain": "lakelandtoday.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -874,282 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
-      "title": "Why Artificial Intelligence remains a distant dream?",
-      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
-      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
-          "width": 1100,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
-      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
-      "publishedDateTime": "2022-06-16T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "americanbazaaronline.com",
-        "domain": "americanbazaaronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage.md",
-      "title": "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage",
-      "excerpt": "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab4ceac506a1afd8f2b684/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/",
-      "publishedDateTime": "2022-06-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families.md",
-      "title": "Ukraine is using controversial facial recognition tech to identify the dead and reunite families",
-      "excerpt": "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users.",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "originalUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "publishedDateTime": "2022-06-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-nuvei-launches-groundbreaking-machine-learning-solution-to-boost-risk-management.md",
-      "title": "Nuvei Launches Groundbreaking Machine Learning Solution to Boost Risk Management",
-      "excerpt": "Nuvei Corporation (“Nuvei” or the “Company”) (Nasdaq: NVEI) (TSX: NVEI), tomorrow’s payment platform, announces today the launch of a new risk management model underpinned by cutting-edge machine learning technology for its Instant Bank Transfer product in North America.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ableai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans.md",
-      "title": "Able.ai exits stealth with $20M to help big lenders speed up making high-value loans",
-      "excerpt": "In the latest development, a startup called Able has built an engine ... computer vision and other forms of AI to ingest and process data related to loans as part of their evaluation process.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/",
-      "originalUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/amp/",
-      "publishedDateTime": "2022-06-16T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ancient-tea-technique-finds-new-popular-recognition.md",
-      "title": "Ancient tea technique finds new popular recognition",
-      "excerpt": "The process of making chabaixi, a unique technique that creates a pattern on the surface of tea soup via water injection and agitation in Song Dynasty (960-1279), later becaming a",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
-      "originalUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-16/15eb179f-f0a5-4add-83e7-bf1195b17dec.jpeg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

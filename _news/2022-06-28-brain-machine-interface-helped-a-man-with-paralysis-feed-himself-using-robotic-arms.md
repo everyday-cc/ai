@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-
 webUrl: "https://www.engadget.com/robotic-arms-paralyzed-man-feeds-himself-040057103.html?src=rss"
 type: article
 quality: 78
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Brain-connected robot arms enable paralyzed man to feed himself"
+    excerpt: "A paralyzed man has fed himself for the first time in 30 years by remote-controlling robotic arms with his brain. Researchers at Johns Hopkins University in"
+    publishedDateTime: 2022-06-30T20:41:00Z
+    webUrl: "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/06/2022-06-30-image-24.jpg"
+        width: 829
+        height: 718
+        isCached: true
   - title: "Robotic arms connected directly to brain of partially paralyzed man allows him to feed himself"
     excerpt: "Two robotic arms—a fork in one hand, a knife in the other—flank a seated man, who sits in front of a table, with a piece of cake on a plate. A computerized voice announces each action: \"Moving ..."
     publishedDateTime: 2022-06-28T04:00:00Z

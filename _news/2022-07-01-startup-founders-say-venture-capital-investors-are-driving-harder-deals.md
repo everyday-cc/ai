@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T17:06:00Z
 originalUrl: "https://www.wsj.com/articles/startup-founders-say-venture-capital-investors-are-driving-harder-deals-11656612409?mod=hp_minor_pos4"
 webUrl: "https://www.wsj.com/articles/startup-founders-say-venture-capital-investors-are-driving-harder-deals-11656612409?mod=hp_minor_pos4"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Wall Street Journal

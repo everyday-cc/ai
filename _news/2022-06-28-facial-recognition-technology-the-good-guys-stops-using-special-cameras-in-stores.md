@@ -102,6 +102,33 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
+    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
+    publishedDateTime: 2022-06-30T18:47:00Z
+    webUrl: "https://menafn.com/1104460450/Facial-Recognition-Technology-How-Its-Being-Used-In-Ukraine-And-Why-Its-Still-So-Controversial"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+  - title: "Marijuana, facial recognition, other laws take effect July 1"
+    excerpt: "Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology, expanded hunting on public lands, and added a new criminal penalty for marijuana possession."
+    publishedDateTime: 2022-06-30T14:22:00Z
+    webUrl: "https://www.chron.com/news/article/Marijuana-facial-recognition-other-laws-take-17276652.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
+  - title: "Marijuana, facial recognition, other Virginia laws take effect July 1"
+    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday."
+    publishedDateTime: 2022-06-30T15:20:00Z
+    webUrl: "https://wtop.com/virginia/2022/06/marijuana-facial-recognition-other-laws-take-effect-july-1/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 19
 
 secured: "IMfApZlroh4/4GDYa85dqMomph6FI0J7n34RCQFejx2Y2Ov+YV/Fv7YfTS6MODIgKZik6cD82xdFaXnbsTpRXG+cDncPKjbh4iDxYYHOlb3W4RI4XqQDIjgAhmF2QEx77C+XdLWLh7AUhLOlgh5bbYXtDidfxYh0xx6yCK2AIoA/QMx1WoY+Wr7L89HJEdsK0+nitGLXSBND2So7g9eh6OTeuPR6hX1YlBzCXa8B7zxeokNFeAxbdw7o/4GinlgYC41Q6nLO0eGjTvDaJ7XyzaACopfPjC6Kisgjrrr14FVjH6pRJIOvY5fu7stjQz5ZUF2NhSE7B6whyMaqOYVYDizwoQa31MgWnIakiu5YKo1256W4hdza0OAAYvULXXQun6efzQsCM0yCAkMfY3B/7uYDBiiOBUbJ4lhruRvMvEKnP0rWua3kIqAHhQic81ur8AXO8UqH95fq/4TXGxHtBJEC0TbpjyeduuBucc4X+PaSHPK7LFF0thMPPWtnNHssiwGbSHDZXd7ytT5RYZmCcw==;AMHDsr+H2LisC/XJf3jTBQ=="
 ---

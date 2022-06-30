@@ -51,6 +51,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
+  - title: "Machine Learning Operations Market Size, Share, Future Scope, Competitive Landscape, Latest Innovation and Forecast Report by 2028"
+    excerpt: "Machine Learning Operations (MLOps) is the process of taking an experimental Machine Learning model into a production system. The word is a compound of \"Machine Learning\" and the continuous development practice of DevOps in the software field."
+    publishedDateTime: 2022-06-29T19:26:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-6-29-machine-learning-operations-market-size-share-future-scope-competitive-landscape-latest-innovation-and-forecast-report-by-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "X0MMuAj5A155PvY/xZXKrclISjXt39VDP6a6LPK75SgxjYhEeZ8Hvf5m2iA+P1pY/BZ8wlE/nbq+a0UXpAF7lN9mSgrTYd3sEEKCZMupFLBiqZ2ZaZgc/tAk+sYGWzeHCAdpAlP//FULAiOxSv7bLYj6b7ASln9BjXO6+GkPx3lXJJ/c9EontgMoyQ1WPSCCgnUP8MhegRT6H99rxXQZg2fk+dIF1IS204mxrFWif/mZG9SP8naRGFjehXc9oo/UDGoeTohYO4vy2KmCkUpyrGt6CIdJVmR5r5VMLw/o2BS/JCg3wodO5vdhzlDEYj6hh15CmfnEEx0vv1kA+29sICmGr+qN1wA/dYQWG3UsYT0=;l7JKCE+y+HSALCciZ4HDaw=="
 ---
