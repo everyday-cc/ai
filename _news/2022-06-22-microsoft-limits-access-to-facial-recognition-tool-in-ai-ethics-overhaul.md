@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
-excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns"
-publishedDateTime: 2022-06-22T11:31:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco"
+excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ..."
+publishedDateTime: 2022-06-22T15:20:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "gWGIkIeWQlgJ1Okuj/xcxPsnO2xnXCoSiILs/SsNYAT2htRBauNXCd/B04k85QW1im4kx1C+SOzTC9jY8Wt0YDGZ+Y2BehjHlBSb1x3M4LwHAWBBACfqOrd0jkX18AfE7QT1HfLd5pbx9Cw4YATrOEeTkuFbP0Vzgaz7tdQ31dpoipxJUs/hgtN6DfhY+ExaWeeFO07MjvJWskIgESJqw/ggjHFdQci2Y9IzmtSxIAQzbIq0biGwF+V2N3iLYxjbWivh8WLBXqAJUeqZQx9DJLpNGxRg4XQbU0myf6Q3vtgLP6o1VQd7vxWCdmTz1VAJe4PYpUuk+uaery8pFlzVkt/hemE3TQy9voavTvygaDU=;VKvpWbxEfLBS9mGtNMPoXg=="
+secured: "BDRJgZTkCZqMlfNxq0jhi6dkp/rkTQEUXvDnpai+RywIes9efGIaHoiwmuLDhnasZihLxaaDpzIKxP+7lF3HaDEYovHkKht04IjRiT4jnwRVL7tDHIO7eCKE9igrG/zrrPkwt59QocUKvGUQPprwGJRZJpYWeBsdzF84mYGLnqYk7sA1rwhCXHsb6o2MbxWOACoKZzGgNX1jDNFoGfqfjpszZhmzQROS0U2Riw0Pn0rtf+bit7dIv78oIPOK8GJ5esDxw60GXaqyVZghjpDNmbzuaJtMmbymqDsTxJ7QUs2jBcdeNInwwywDeSJ8L3KkceLxe8uh4sUt316Nc4pqM9/NuSM2gSe1CFlK/eb/mic=;RLUiYeapKLvVK2rKPXndeg=="
 ---
 

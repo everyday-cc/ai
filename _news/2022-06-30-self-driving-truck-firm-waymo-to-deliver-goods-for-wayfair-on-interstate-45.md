@@ -28,20 +28,50 @@ images:
 
 related:
   - title: "China's Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars"
-    publishedDateTime: 2022-06-29T02:05:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+    publishedDateTime: 2022-06-29T07:58:00Z
+    webUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: techxplore
+      domain: techxplore.com
     quality: 74
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "Airbnb bans parties, Wayfair self driving deliveries, and Niantic's NBA All-world"
+    excerpt: "The party is permanently over, at Airbnb properties, some items ordered from Wayfair will soon arrive on self-driving trucks, and the developer of Pokemon Go is creating an augmented reality game with the NBA."
+    publishedDateTime: 2022-06-29T10:15:00Z
+    webUrl: "https://www.wdio.com/good-morning-northland/airbnb-bans-parties-wayfair-self-driving-deliveries-niantic-nba-all-world/6513307/"
+    type: article
+    provider:
+      name: WDIO
+      domain: wdio.com
+    quality: 49
+    images:
+      - url: "https://www.wdio.com/wdioimages/repository/2022-06/Airbnb_bans_parties_Wayfair_self_driving_deliveries_and_Niantic39s_NBA_Allworld-syndImport-061507.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Road is opening up to allow self-driving cars on UK roads"
+    excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
+    publishedDateTime: 2022-06-28T14:10:00Z
+    webUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678"
+    ampWebUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
+    cdnAmpWebUrl: "https://www-chroniclelive-co-uk.cdn.ampproject.org/c/s/www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
+    type: article
+    provider:
+      name: Evening Chronicle
+      domain: chroniclelive.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.chroniclelive.co.uk/incoming/article24269154.ece/ALTERNATES/s615/1_Rail-and-Tube-strikes.jpg"
+        width: 615
+        height: 409
         isCached: true
   - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
     excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services. Beginning in July, the pilot will last over six weeks, marking the first in-depth transportation of home ..."
@@ -52,7 +82,25 @@ related:
       name: Dallas Morning News
       domain: dallasnews.com
     quality: 32
+  - title: "Process of allowing self-driving cars on UK roads has begun"
+    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
+    publishedDateTime: 2022-06-27T14:11:00Z
+    webUrl: "https://www.getreading.co.uk/news/uk-world-news/process-allowing-self-driving-cars-24331951"
+    type: article
+    provider:
+      name: Get Reading
+      domain: getreading.co.uk
+    quality: 4
+  - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
+    excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
+    publishedDateTime: 2022-06-27T17:34:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1631877/self-driving-cars-MPs-enquiry-latest-news"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 0
 
-secured: "80LcNPc8jADU0pEOjHYoGRVkoK86QxkTcNt9Nk6QWVWItFr+LHGIA4LHnuAAa6LJ9MedZ3T131erpcqv6TJTaDXPR1AEO9cDrwZTQoyTZWv/dh3vWE1YlGqQ4Z4Rl8Fw//lGt5HP7AZh+BR07Fql9IaqPMjtlPrpbsNjrjN9JxfEP6esx5E6vnhXuCdfHW6AuISjzwqOMiVfAWyziduptaESpyr4VD3FBU3gpnrZLeE90v9P7X5Vro1rsCtImIXWJ48BjLSlzTqDWai4oQRUpgIZgwzMXeixrpRf94XSH5y7iQTkSrxofpXFFczoIK83Y0lVkKXr3xFKzVSlsKO6aS/3tiMNYPyUDEhOyX+dKHk=;1kLN67wZRDGnn29zRR04vQ=="
+secured: "s8VkAMTbJMB5uzJ3imTsbgDxAMpcZANMvFBOcSiRqyrK+r4kq+3po7/gP1Xh1/dCdKSBgY9D/82mJqw8FpzdFSQ77TvhqFmzi52j1AZMSWJKsOHrlnCIADyXe4oTUOoOusC8hz32OjjDgnD3OTaPtAvQtteLC+NxU2gEzVgaYbSDitSB27YW+ND2yuOD/L37FRzsswZqU+hWcNtIS1FOCyRy71w0bR0dyI+eqB5B+s/xCB0NDxtWoXrIbXRc7E9qppDIkbaUh6lH5E4EbTUXajepDSo9d9w53kAIyLTE9xobZnjG2gCcdOdzqNvPZjDUdEUJR2JP5i0DRmpHd2GI3ETQWQke1SLCD8u2iE/9gRVqz8i5iQUo6xnL9KkcFfk9bT+2M5qneCBOj2GFbaJJ+uG88OUYyRPcaMXTUYDQeUsYGaHzpiZ0bN7fd9VTZ1GpDGNDYaADsIL/Dw4RB8f3Ovirh1sy+tPPpSYJrd5wU4yK+eKrKhbBXIGTKyni70hFCbCtHlrxHYxZ5ZTJshy63Q==;/KljAmYoEiXDD5qf0fjiNg=="
 ---
 

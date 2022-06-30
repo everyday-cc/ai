@@ -56,19 +56,19 @@
     {
       "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
       "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars",
+      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
+      "webUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_1a0a38a297cc4212bc25ee2ceaba5bbe_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg",
+          "width": 2880,
+          "height": 1920,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chinas-baidu-races-waymo-gm-develop-driving-cars-85898051",
-      "publishedDateTime": "2022-06-28T19:05:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
+      "publishedDateTime": "2022-06-29T00:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -94,6 +94,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-26-is-artificial-intelligence-supported-caries-detection-cost-effective.md",
+      "title": "Is Artificial Intelligence-supported Caries Detection Cost-effective?",
+      "excerpt": "A new study assessed the cost-effectiveness of artificial intelligence-supported detection of proximal caries and its benefits in caries management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
+      "originalUrl": "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/teeth-1.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
+      "publishedDateTime": "2022-06-25T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -1348,49 +1392,6 @@
       "provider": {
         "name": "Manufacturing",
         "domain": "themanufacturer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-driverless-trains-will-become-more-attractive-than-striking-employees.md",
-      "title": "Driverless trains will become 'more attractive than striking employees'",
-      "excerpt": "Speaking to The Telegraph on Monday, Mr Shapps predicted that support for bringing in driverless trains – the technology for which exists – will soar this week. Mr Shapps said: “Every hour ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/politics/2022/06/20/grant-shapps-rail-strikes-will-make-public-demand-driverless/",
-      "originalUrl": "https://www.telegraph.co.uk/politics/2022/06/20/grant-shapps-rail-strikes-will-make-public-demand-driverless/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/politics/2022/06/20/TELEMMGLPICT000300274433_1_trans_NvBQzQNjv4BqB0kPDfEJHmx8uZd_9tUv7YnlD9VzwhkrYRykakve5GE.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

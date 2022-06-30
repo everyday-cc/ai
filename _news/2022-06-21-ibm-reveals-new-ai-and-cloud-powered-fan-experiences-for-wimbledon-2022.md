@@ -1,30 +1,26 @@
 ---
 category: news
 title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-excerpt: "It hosts and processes data from matches that is fed into AI models built using IBM Watson Studio and IBM Watson Discovery to produce insights for fans, commentators and media. Alexandra Willis ..."
-publishedDateTime: 2022-06-21T07:15:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-2022-06-21-120200"
-webUrl: "https://www.marketwatch.com/press-release/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022-2022-06-21-120200"
+excerpt: "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ..."
+publishedDateTime: 2022-06-21T09:30:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg"
+    width: 400
+    height: 258
     isCached: true
 
-secured: "fpJot0pDpb9KOJwsWl7rW2UQ2h49C+KuA/1X0JOAP9GVjMXfYorV5S2Dggl8VTTkPufHGsRG+7lQNvb7cSgMblBZygdELLSaS+54hbZ3pL3po+LFvNu72PXNIOF0lWeuxZP+MiApGmxCXYdxozqXsu1SnQcqnZ8BNj6rVunf8H3subWzyhcd+40eqQ1jS6revR9VajW7Qh2CREbCbfacZhURBrN7Ir0aI7TCUvjoAuZ3QBEqiuEDB5gOChyCzHAYGeverhQahNEiQGwoTO4bfM489e8w123p5AYUuxKwr3rgK7V4Ksobfb9IFM+JZc4kPoskEUR6mh0geNP/0XcUoVVzWjwPY2I82v9QQWDjk0I=;tlTm7eNi9S/jGlOdXagZaQ=="
+secured: "O52jZt2/u01bxL1CnrJoN8piudVuKPpqt+L5cqrFEJ99tDjo0WF1Z2kY4RXbbOx2fU1FNmg3rYeJQCJj4zbqFZngneJq62pXHL5VfXJ9uA8UPdK5nBAPA5HV0BMLFXgk5cbx8Ipw5QrwCCaKznr0hRUMGSewRdLLHJqJ8TBcHzqhn0Jf220g5N2zuphF2RPd4/6hoJyxwlXotQyx1+yepp8ovn9lX6fBHS9NGXQ3PS1LBNEnG+alu3LdqwJJLD+K7vgGDx6It5lyfmSHcFK3V/pEvK1dWplONJ4Rf+ad1exfWRWClOhMfFAVH9d/ke3yEiq0OdQVjlAMyGyFCNVBAUGeLHwdL0OWuxDYPjkKLq4=;+rYZw8hGYRbU/l1H5prtnA=="
 ---
 

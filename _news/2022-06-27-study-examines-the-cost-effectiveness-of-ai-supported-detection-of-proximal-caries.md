@@ -28,7 +28,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.medindia.net/amp-images/health-images/teeth-1.jpg"
         width: 1200

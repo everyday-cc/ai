@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
 type: article
 quality: 59
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Realistic Framing Of The Progress In Artificial Intelligence"
-    excerpt: "The coverage of AlphaGo, DeepMind’s system that was able to best the performance of professional Go player Lee Sedol, was a game changer. Read more here."
-    publishedDateTime: 2022-06-25T08:21:00Z
-    webUrl: "https://seekingalpha.com/article/4520309-a-realistic-framing-of-the-progress-in-artificial-intelligence"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 43
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310293181/image_1310293181.jpg?io=getty-c-w750"
-        width: 750
-        height: 563
-        isCached: true
   - title: "BreachLock's Intelligence Report reveals rare industry insights from over 8,000 PenTests"
     excerpt: "An unseen perk of using a SaaS-based delivery model is the collection of data points in an aggregated and anonymized manner from various Penetration Tests that feed into BreachLock's AI (Artificial Intelligence) platform to derive intelligence that is leveraged to create additional value for its clients."
     publishedDateTime: 2022-06-28T15:00:00Z
