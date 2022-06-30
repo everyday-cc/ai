@@ -24,6 +24,17 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "Transport Committee launches inquiry into self-driving vehicles"
+    excerpt: "The inquiry by the Transport Committee will scrutinise the development and deployment of connected and autonomous vehicles ahead of the potential arrival of self-driving tech from later this year.   The inquiry will consider the progress of research and work in the UK and abroad on self-driving cars and what needs to happen to prepare for their arrival."
+    publishedDateTime: 2022-06-27T12:16:00Z
+    webUrl: "https://fleetworld.co.uk/transport-committee-launches-inquiry-into-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Fleet World
+      domain: fleetworld.co.uk
+    quality: 4
+
 secured: "BJSgSvRr3uLJ7SVUkr/MH6ExsBfei/9LROyk8HzfH/M5b90yhr5Gx0ElKRL/qLcY1IDZRoZk6SecOA62IXng2+LUJXqCCz6bxtkePsmxK8K3i9mPXbQY86n0pH8FREuJJU62dyD340mbYdBzDsFGmk9dg23I+SzVBRV6G1wSuP0DgYerhTBoVTdiJQQUY5BvomvvukTZxT8eMyj8C0zw+KcSL6AiCm2MOGEONXfthbS12hET27dVYOU2LcWEwYCIughamesu7AUB15iwQbvJJNzOq1scoMcCl15e3+QN2NgG+cDZv/a+ERlkAZjDSmDWWSJ6Xpji5dcAojCS3+h2Fn5R02D+6LDH+yl+GMwzvEYllHFYTWpTP5DAKri7c4cT37cOVJprTLP1TabdyMr3k7c/zNcDQAcluBDGdXnHFRVhzs8lP2VbO14MzXwcf0tELEmYFhm3NcWjKygFzX7U47qGlWL9pBstjmQsyCYmFGV1SfhsLQW7f3Gb/aPzQZ/w1+GGDwJ5XRd+wFEP1Fdiyw==;l0KKXZYdrlZO+F026Pcn4Q=="
 ---
 

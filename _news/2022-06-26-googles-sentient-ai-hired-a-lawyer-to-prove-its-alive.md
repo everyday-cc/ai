@@ -45,15 +45,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 37
-  - title: "Google's AI chatbot hires lawyer as engineer put on leave after 'sentient' claim"
-    excerpt: "Google scientific engineer Blake Lemoine claims an AI chatbot is displaying human emotions, but was suspended after sharing a transcript on online platform Medium"
-    publishedDateTime: 2022-06-25T17:49:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/googles-ai-chatbot-hires-lawyer-27327599"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 12
 
 secured: "IKnuha9DFW6TFsPGYb7UCuAlOlzSP1on7wlXpXPEQ3PWP9LTyrD6kfieOQrgl0crGqYs+QVMoVXXc/n6Gi4rNVok20doGlQ8DTbRgHb5cYXUe5MVJcOZpmJzldeLB2BCv1Qk7qEOcoEnq7Ilo9QqPOXzlOwnLObcMLUEvkL609LtdBddYJOzuD4/6NmjJK2jitN+E8RmdnCd5CZx7tpwyZS8O+EEOOoUcOdZUP7kf3babYY7AQmimLxoVteL2hzOdU3JzxmaZDjKnfBv2QTjvGc0ibNXlMEzzcYSRoHdPscHVPUSlAPVa/2A46eSM1e2QhG//2OXF2xE98gh6rUQUHNZnTJuTR7Y9f9hW4PCpuL7aL9Dq72ur/mAkqdHdWmJsH4wIYcfdIFiczslWNpUmIeI1IYaqk79ab2fpY12izkknDtSxNqziT5r/L0sukh7U65S2nv5KeRthHpAz1b49zR4sPXxX7Dw0HFXkEiBNvHfTXWkBwgNwY6BVkZOp+VOUFCU9H/yNlKmFPMTI3iUqg==;J61b5+TplCNanJ5qlL/A9w=="
 ---

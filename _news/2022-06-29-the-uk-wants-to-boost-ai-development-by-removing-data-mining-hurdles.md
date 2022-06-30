@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-developme
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656517372/itpro/AI-books-GettyImages-1300681905.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "Looking for silicon that’s actually designed for AI development? Look to the cloud first"
+    excerpt: "Meanwhile, the GPU architectures touted as enabling the AI revolution are both expensive and in short supply. And while GPUs may excel for training AI models, their advantage when it comes to inference is not always so clear cut."
+    publishedDateTime: 2022-06-30T10:04:00Z
+    webUrl: "https://www.theregister.com/2022/06/30/looking_for_silicon_thats_actually/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/06/30/looking_for_silicon_thats_actually/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/30/looking_for_silicon_thats_actually/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 50
+    images:
+      - url: "https://regmedia.co.uk/2022/06/22/g-core-labs-advertorial2.jpg"
+        width: 2400
+        height: 1111
         isCached: true
 
 secured: "mkoNovLtJnx/4XjU++d7vEqg5oEUWb2/92PqZFVX7uSYlxtMiXY768Dm7+pGEBjlt0fjbkgN6Y9XY0WBJ/nb5lANCCMHy5drAZ1XPysFCd3N5T1xEACbqLP0DA/VvAUUhkw2pFsAmol21QRyztxZgtU9PRo/MFM17MkYnnpvu+a/Ewy0OITP8TxrKt0jEYn+rzfp9rY4vbKDrc3pp6k8BQEE59UCLVNV6eX0V6g47dZeKr/O9nzndRfaSu28oCfjjhPIAsKsp3aEtmNWWcZIEDJhSBqB50/VGJqX3ZTIJdZKXtJtUIyvhqQOE5RO2yHRyVjuc0SUkK4vcdoMMmRvPEmacNfpIBsz7ik0Pof/61crdfCWiv8Z55Px1P8r5ftX6Bf029wub2u4YeoDLX6HtuO5xZdbmoqB3yrBotFLNWTSFvaZuZB0FzFvnHg+qugK+pVhAqVzxatgLNLoLM0XDfEfI91Tx2fT/4v48aMiEcEcP5anz9ueFX58fP+RY5+pwcrNfxCTfNtfjgW0VvUuaw==;FNfthMrFSDbYu46jiGVTDg=="

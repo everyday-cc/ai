@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/varian-makes-cancer-ca
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/amp_articleshow/92506956.cms"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "San Jose Professor Making Indian Classical Music Accessible With Artificial Intelligence"
-    excerpt: "India-West Staff Reporter SAN JOSE, CA – Music has a profound impact on human lives. Many like Dr. Vishnu S. Pendyala, a faculty member of the department of Applied Data Science at San Jose State University aspire to learn music,"
-    publishedDateTime: 2022-06-25T18:35:00Z
-    webUrl: "https://indiawest.com/2022/06/25/san-jose-professor-making-indian-classical-music-accessible-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: India West
-      domain: indiawest.com
-    quality: 8
 
 secured: "mniHkbMYkuB1BxKP5Qu9MJXRy9UALQb+tZYQpIsEKnYMGMy4lcDoZn5lkB3eX0psCylv+vU+f7p2Hv1DrG7vrfL08IaCu85JkRmaQU63dM2qu86N+vGbBi/IW3BcOkuS0f7qeUI9T5nbWEL0R01VFQmxIN3DR5LGty7Tw1HggiCCWd1v53DzHgD0tHW3ijJTkdesiVI0VXjR3e0o04LzQBCrykh1UiejedhCcXPa+zndd9M4nuuVH2h1je/NIHKFx4k9tjF7e9aQ1b79MNNbdAp+q7usR0K/xPULTmmCfmsLxWjZOTlMoUevuMfg1NixgkYEiJwiGXJ5U46otrQVN+LxSYxW2TxxvLOnlfA9plH+LgxYUTTzrMQIxjRTkr31+6R7eDLzez7OiSOyyq0Sy5UhFjLu1p06u4CmK2XFAH+OKI0q3FHUrHVZWyCNc+GlnxWyMkz5YtJxX9q7/PMUbOANXT6s0G0S1axlrbgOZ1dcbQa/41DWH0+32a/RWcHvpq6VNbXuqWqsQK8Cd7089Q==;22zsr70wyJj102Qh/3FeeQ=="
 ---

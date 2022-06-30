@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-ye
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 17
-  - title: "Google's AI chatbot hires lawyer as engineer put on leave after 'sentient' claim"
-    excerpt: "Google scientific engineer Blake Lemoine claims an AI chatbot is displaying human emotions, but was suspended after sharing a transcript on online platform Medium"
-    publishedDateTime: 2022-06-25T17:49:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/googles-ai-chatbot-hires-lawyer-27327599"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 12
 
 secured: "XQ3yo0nSfFgdIn/CFAF/zIKI14ZwU+38d91PX0yi6LYVU2ZBTbGFvE+BAu1hUt5QlVPa00Viw1bRa0LjwBjx9hR2unF42VM808btKlWiNnVf4uys51wOZJ7nInpQTkn15gmQhZHkCCHFMvQZTTzU3L7w1VsYEUcbLCVe9X/FKTGijIwJMYvQ0QT5uk+mPvGtOS26vn88FeEIJztdZ/ZyP0tB9fqEHf7lSuLLhbksGsWN+zZcoM6RJIoIDr+FCAyy2kYo4bV3Acadv33Ewh8JLZtymF3byupQPfzHxxpBGMVKWeffU1xVFdFodeYEnm2EeWE8MW8VXzw9SExhMzcYzk5EhIsB9WW9eOk3SN4PZqfH4++RX6qLzDiRL1I4WedDVpgEPUHI81PC/wxB+ODrltcJKnDDi/qEL4UdU9/X0GVvEIyCsldDUFX7+OpbrHA+1PIn2ovlAYIEzdf9RZ1IAtYzaEBav1iOIjN0BkO99SfY8Vqg01CGkO24rxufi2qKrAdFZ8w9/k+RPDX49q+JXw==;A43il841603z4+TrpCDwDQ=="
 ---

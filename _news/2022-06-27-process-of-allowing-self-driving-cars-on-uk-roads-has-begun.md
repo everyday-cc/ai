@@ -9,7 +9,7 @@ ampWebUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-dri
 cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,66 @@ images:
     isCached: true
 
 related:
+  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+    publishedDateTime: 2022-06-29T07:58:00Z
+    webUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
+    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services."
+    publishedDateTime: 2022-06-29T17:00:00Z
+    webUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 72
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2019/waymo.jpg"
+        width: 375
+        height: 360
+        isCached: true
+  - title: "China’s Baidu joins race to develop driverless cars"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+    publishedDateTime: 2022-06-30T07:25:00Z
+    webUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/06/29/2DChinaCars0630_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Airbnb bans parties, Wayfair self driving deliveries, and Niantic's NBA All-world"
+    excerpt: "The party is permanently over, at Airbnb properties, some items ordered from Wayfair will soon arrive on self-driving trucks, and the developer of Pokemon Go is creating an augmented reality game with the NBA."
+    publishedDateTime: 2022-06-29T10:15:00Z
+    webUrl: "https://www.wdio.com/good-morning-northland/airbnb-bans-parties-wayfair-self-driving-deliveries-niantic-nba-all-world/6513307/"
+    type: article
+    provider:
+      name: WDIO
+      domain: wdio.com
+    quality: 49
+    images:
+      - url: "https://www.wdio.com/wdioimages/repository/2022-06/Airbnb_bans_parties_Wayfair_self_driving_deliveries_and_Niantic39s_NBA_Allworld-syndImport-061507.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Road is opening up to allow self-driving cars on UK roads"
     excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
     publishedDateTime: 2022-06-28T14:10:00Z
@@ -43,98 +103,15 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Alibaba to test self-driving trucks on public roads without human safety drivers"
-    excerpt: "Alibaba has become the first company in China to receive approval to test self-driving trucks without a driver behind the wheel on public roads in the"
-    publishedDateTime: 2022-06-28T11:20:00Z
-    webUrl: "https://technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
-    ampWebUrl: "https://technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/28/alibaba-to-test-self-driving-trucks-on-public-roads-without-human-safety-drivers/"
+  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
+    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services. Beginning in July, the pilot will last over six weeks, marking the first in-depth transportation of home ..."
+    publishedDateTime: 2022-06-28T19:14:00Z
+    webUrl: "https://www.dallasnews.com/business/local-companies/2022/06/28/self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "I was wrong about self-driving cars: they’re nowhere near ready"
-    excerpt: "I was wrong about self-driving cars. Six years ago, I believed the promises from car companies that autonomous vehicles would properly be on our roads within a decade."
-    publishedDateTime: 2022-06-26T01:30:00Z
-    webUrl: "https://www.independent.ie/business/technology/i-was-wrong-about-self-driving-cars-theyre-nowhere-near-ready-41786154.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 24
-    images:
-      - url: "https://www.independent.ie/business/technology/025e5/41786153.ece/AUTOCROP/w1240h700/Swedish%20freight%20tech%20firm%20Einride%20was%20last%20week%20granted%20permission%20by%20the%20US%20NHTSA%20for%20a%20public%20road%20pilot%20project"
-        width: 1240
-        height: 700
-        isCached: true
-  - title: "MPs launch investigation into self-driving vehicles"
-    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
-    publishedDateTime: 2022-06-27T10:53:00Z
-    webUrl: "https://www.shropshirestar.com/news/uk-news/2022/06/27/mps-launch-investigation-into-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 24
-    images:
-      - url: "https://www.shropshirestar.com/resizer/VAjoinj5e7OLV3rbttwZFGQO5V0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/K67PTIFSCNB35HH2NECGQB7CJM.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "UK to investigate the safety and potential of self-driving cars"
-    excerpt: "As a result of these accidents, six people lost their lives. This week, the UK Highway Code will be updated to ensure that users of self-driving cars are not held responsible for crashes. Instead, it will be insurance companies that will be liable in ..."
-    publishedDateTime: 2022-06-27T15:52:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/06/uk-to-investigate-the-safety-and-potential-of-self-driving-cars/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/18700/dreamstime_l_134441594.jpg?crop=0,0.32666666666666672,0,0.18114583333333328&cropmode=percentage&width=1200&height=450&rnd=133008144110000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Self-driving vehicle inquiry launched by Transport Committee"
-    excerpt: "The Transport Select Committee has launched an inquiry into the development and deployment of connected and autonomous vehicles."
-    publishedDateTime: 2022-06-28T08:36:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2022/06/28/self-driving-vehicle-inquiry-launched-by-transport-committee"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-  - title: "Transport Committee launches inquiry into self-driving vehicles"
-    excerpt: "The inquiry by the Transport Committee will scrutinise the development and deployment of connected and autonomous vehicles ahead of the potential arrival of self-driving tech from later this year.   The inquiry will consider the progress of research and work in the UK and abroad on self-driving cars and what needs to happen to prepare for their arrival."
-    publishedDateTime: 2022-06-27T12:16:00Z
-    webUrl: "https://fleetworld.co.uk/transport-committee-launches-inquiry-into-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Fleet World
-      domain: fleetworld.co.uk
-    quality: 4
-  - title: "Jet-Packs, Self-Driving Cars, Wireless Charging Of Buses: Museum Of The Future, RTA To Showcase Latest In Mobility"
-    excerpt: "The Museum of the Future and Dubai's Roads and Transport Authority (RTA) have announced a new partnership to showcase future mobility solutions, from personal jet packs to self-driving cars. The partnership will showcase new solutions in advanced mobility at the 'Tomorrow,"
-    publishedDateTime: 2022-06-28T08:53:00Z
-    webUrl: "https://menafn.com/1104443821/Jet-Packs-Self-Driving-Cars-Wireless-Charging-Of-Buses-Museum-Of-The-Future-RTA-To-Showcase-Latest-In-Mobility"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/updates/pr/2022-06/28/KT_4dcf1image_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 32
   - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
     excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
     publishedDateTime: 2022-06-27T17:34:00Z

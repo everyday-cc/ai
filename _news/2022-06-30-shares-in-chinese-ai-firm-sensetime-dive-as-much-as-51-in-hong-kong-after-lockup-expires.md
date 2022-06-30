@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/business/companies-markets/sensetime-
 webUrl: "https://www.straitstimes.com/business/companies-markets/sensetime-dives-as-much-as-51-in-hong-kong-after-lockup-expires"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "SenseTime’s Challenges Are Anything but Artificial"
-    excerpt: "It’s never a good sign when shares tank the moment a lockup expires. Investors appear to be losing faith that the company can stay at the cutting edge of a fast-moving field."
-    publishedDateTime: 2022-06-30T02:39:00Z
-    webUrl: "https://www.washingtonpost.com/business/sensetimes-challenges-are-anything-but-artificial/2022/06/30/f6c8922a-f847-11ec-81db-ac07a394a86b_story.html"
+  - title: "Guardforce stock gains on collaboration with Hong Kong Industrial AI, Robotics Centre"
+    excerpt: "Guardforce AI (GFAI) is rising 7.1% premarket on Thursday after it entered in a collaboration pact with Hong Kong Industrial Artificial Intelligence and Robotics Centre, founded by"
+    publishedDateTime: 2022-06-30T11:47:00Z
+    webUrl: "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 22
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 62
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
         isCached: true
 
-secured: "Qc1VvyY+bBcih5DHcHm5NbvQBomC+Y0k6d4XH3+eH5jWlHpjnbdf54EYJTnWkcAC0Wc9ulhMePH9K+WnEnO/GudV8DoLNYodSoPvO9fBN3ISc6GLIuInZKHb3KjymHCj+fG0EAE0Vgu7S6oL9sbnKSvMjXI3MW6TLnBgQjhvBncB+y818SDJhPmUs43jN5VztDrsJ7HrxS+fDARM/935/lgQnNqOsGRSXWAYAY1wdZSC81OfYCjE4mGJNoUt4Sd2fgDWlepd98DW+zV/VTrQcrHjS5cYx9gWdtMd0mPJGNUfH0QwykWAPuR92zlPIjc/K3Ab2RpiCvBz/1OCbOkUyah6XEDv6b3iqg6C/JQn5Po=;JhxHTFPpb+4vIrQFBIUyOw=="
+secured: "UPOmR+xoFEjUhqAU2S/KrWWJnZmzAQcMDXdrCUu7q/1xGGQD+mw3n1wVRTgs+Ba+7ncO9cqsDQLCY6MDc+VLvVFyyfuWCiKBej8d8tYBC3efJyZYuTnv+4uF7uWkU/fziPPelxyAxDfdflRlVm4VgBiZg+7CJda3uAqYdKmjYK6c/LNxhKFr/I/GRBb5eyIZ1MSnN0o71dlnEMUurIuQb9IkRnVCd3oI5HuiwrdhK1XSpeAsO3iAxyPHklGxL+i9983xhi8EQQLE/gXT0W9VuZCNRKXX1BXkYSk1p6qS4j2fS0t32+OPQmWVB8yzu2Vgk2gXyDctLiYyZCFjVFxYZ9wmw0NVm3LQSO17/GCKclvsuNv95hVcF5x0ue6b5nDchd4hffwVEQ7+c7llCICeVTFBotZKY/KuPCXoHXREcqO9wk0tWz5Dhz7UV7l6rbOiUviLITcWhy0shv84EOqa9RnO0CXzSLzxilwgkqVhO1wg49DdsAvem4DEk4/I81+89NMx/gnHkCZornY/NuHUYg==;050yVw12tSqPZjzjs/3EIg=="
 ---
 

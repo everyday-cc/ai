@@ -1,26 +1,25 @@
 ---
 category: news
 title: "Instagram tests using AI, other tools for age verification"
-excerpt: "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID."
-publishedDateTime: 2022-06-23T17:38:00Z
-originalUrl: "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
-webUrl: "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/"
+excerpt: "Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID. But the tools won't be used,"
+publishedDateTime: 2022-06-23T20:12:00Z
+originalUrl: "https://apnews.com/e7a5583ccfe7e1b284081db40cb2ea7c"
+webUrl: "https://apnews.com/e7a5583ccfe7e1b284081db40cb2ea7c"
 type: article
 
 provider:
-  name: KRDO
-  domain: krdo.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://krdo.b-cdn.net/2021/06/krdo-biz-and-tech.png"
-    width: 1024
-    height: 576
+  - url: "https://storage.googleapis.com/afs-prod/media/40267c0d07df4ef99bac109894984999/915.jpeg"
+    width: 915
+    height: 610
     isCached: true
 
-secured: "4/KyjAtVLYedzon+8wmCfevYOJCEWsmdV5+jRMZJyz6FpV/f4vODEPu5HEvw0LPS6aWRCojOEUCDyyvO0tSp/6+yxVt2q6ZTJ/rz7l4GcoXkjztGL8octhMojw0j6GRfJdoKi0zb4S1Z32XMfeDx9RECaJcIzTRk+22hA2cNQHvYRWfTe8nj+tWflP2OWAFmb/P9icQ2bW8sw9gGSEwGsUeSX+vS+iKYWR5SyJv02TSx8EO67c4+EyfoPiGaQt0g8AXdGwal2bAgEv6BWQthfj+fE0ndwkbq0ymCfOIqDV+1H++7Rjb9WNAzvaSXH0yN1gn5tQxAQZgKNgTvGWuGvedblMwqEdatOdbMYHXTZPA=;uXHEHgOR7vt7fYAi7Ps8KA=="
+secured: "yi2QzqAXcOGaySN0HYP3BC4Z5c8ASx7ha5FSrjbeI8Lm8C2O2eCTSt9R2qQLBcnMgAyf7RF5MkTPe/BiHCPwjjSM7l5IJfpt2Nxo1eeD9EC2Uzt8o1S8G9eIueuPo/drbtVfzQ7ljnqz0gPCOSgZ6OrUcIfjHAIlyMhbSHXbNu85sx9TEFsbhSvI+zfwnvFrOvB7vApohGiFfp8UWXvwchnBtfasfGmtBsQ0vuU70V7rLp3TpzI4nL+k/DQGvB4p7BCLA1D/sUOBxg26KcFYNZLW8W7EHdfdaZuxehNP+bAK758MbAgeUnxWQA+2rLXg3msblKlGUZiHPHT9Tu7k/3YN1nepAsFJf8anLB/noN8=;A0MvjcpmGjlXRoOgg6l0+g=="
 ---
 
