@@ -3,7 +3,7 @@ name: "Andrew Moore"
 bio: "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI."
 location: Pittsburgh, PA
 type: "profile"
-heat: 71
+heat: 50
 
 website: http://www.cs.cmu.edu/~awm/
 
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Andrew Moore"
 
-secured: "5hXHDA54jzkUBtDHbW1ySf18XJBlRowuxOQ8T2bkMybU/tvikVG5wBeI2BMftsBcgeYU+FMcTZKvEqmu91mjmRaOqkZvFuq3Dyw4dFIJgyu+eg8uwM3Oh/DpRVyFGZKCeepyJibhMIinlizthghWoftkMhPZr2yaCUAijIFiRFv1kkpLeQdDmhldqFeLM+9k8wQxCodyqm/34HGOx7L+4kBEgVi4c9eoJLNLRIZ2d0H2LSZGkE+/iHi/aQTg55pAk/9HPBV1XdTNW3h1BsiduXrPKHnp/D3q17r8zhASbCqbFChDDTUrwEEHF+cpcuC4q4Ar0F4ZcPn/Y4zmv6CPRviw21cHkibaaL6Nz8U7Gtq1qykseGOBBufjToqTY23Mc04wlixrOsTdi1PfYBYp0PwjGaf1kIWUi6Yxngb9sh4=;DW6sVcawJdRwZj0a0BgxcQ=="
+secured: "Z+mhZLweTGAwUu5FE5x5FyE8POY5uTlVc8f0SRzJwPoPcdOAyJG1466mTzukDw3vVkADCKhKoRaaA4yWLpMN0LeyUGbYRVYuzFRpTfDz1qY2lxdXxIbalzzcizDhhh5zK4OTT0em2yoJMCKmucMdeUE4k8SMJ8dJAcvvteL4K4CKbZ09YlPWFCaDquVjnqimUnyzZBoOBgrPNldsi8OK65MpiIDjS8DdjB2VlrQETWSGjg2lbF72NevM78OcBxOk1cVT5C3SgfN7Jq7AFSkWqIzzwCq7SH3YEhxtdrjgiIMOHFeMSHaIu2k/4OqJZWocZjZI0lCpzX+6zdNsYdYXZanFu21gNzjtMf8KjENZyAHwKwh9RL/HNVQi2mzxvCouvv2LnyrCfEtUOoY4BRnlCjqpwYKSm8j63PnSRS7dmFk=;gF2bluUF6gn+xEt1wpjqDw=="
 ---
 
