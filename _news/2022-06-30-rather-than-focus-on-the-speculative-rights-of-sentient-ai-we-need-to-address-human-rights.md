@@ -1,30 +1,19 @@
 ---
 category: news
 title: "Rather than focus on the speculative rights of sentient AI, we need to address human rights"
-excerpt: "A Google engineer’s claims that a chatbot can feel things has prompted people to consider what consciousness means. It also begs the questions of the rights of sentient software and machines."
-publishedDateTime: 2022-06-29T17:28:00Z
-originalUrl: "https://theconversation.com/rather-than-focus-on-the-speculative-rights-of-sentient-ai-we-need-to-address-human-rights-185128"
-webUrl: "https://theconversation.com/rather-than-focus-on-the-speculative-rights-of-sentient-ai-we-need-to-address-human-rights-185128"
-ampWebUrl: "https://theconversation.com/amp/rather-than-focus-on-the-speculative-rights-of-sentient-ai-we-need-to-address-human-rights-185128"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/rather-than-focus-on-the-speculative-rights-of-sentient-ai-we-need-to-address-human-rights-185128"
+excerpt: "A flurry of activity occurred on social media after Blake Lemoine a Google developer, was placed on leave for claiming that LaMDA, a chatbot, had become sentient—in other words, had acquired the ability to experience feelings."
+publishedDateTime: 2022-06-30T13:21:00Z
+originalUrl: "https://techxplore.com/news/2022-06-focus-speculative-rights-sentient-ai.html"
+webUrl: "https://techxplore.com/news/2022-06-focus-speculative-rights-sentient-ai.html"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI
 
-images:
-  - url: "https://images.theconversation.com/files/470794/original/file-20220624-20-syb314.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
-    isCached: true
-
-secured: "jIPXeBL7dVKqmmv+BSb0/v13lbAfaOP8oEigZnmcyWzVR+pzLdt5qA+R3vxhRoctEEx7qKI0dGzsfDBqfNmAZaPCB/fkINkns5VLUoXr4byZMD+7chS+KEBFpT0aTXU3TaghTJBRtJd89n0WCHTD4JzOtpXBJgS8nL67KqAgB9BlWsT1G1flhWcCU3UZev6Hr6senQhlPvTouMwaC1Gz/yEbAT1tFsV6zHszc0hoBMXc1i4gZqfzVbr8Sr+HYYnqnHk/rwvSaJqoTf+Od2vcQq/p+5bh6c8c1xsnyzmvFTnUGSz8Y0LnljjvP944g4bWwL50tG97YieGIRhOePGoPmi7MVl9Gz6/KDJQs6pKwcf0vUHRfGD+K9Plw02ciuAVZMtU0vm9Sb/xxqZzh/l/NhafEIE4TWjvcKMiInBvGGvcJHP93zjrFfSortTF4+sFMZ+HWIq4DzUBFMR+75n/6puDW43M78FVTEl4nK9tDwJYbpsB4Z0Nk8PCuZCpS68RWZ06ELPCEIA/T3lY6chv1A==;bP056rbRNIUpvbcCBbuBeg=="
+secured: "sYdt73eK0icpym3n3wM+/Zx5evctbX00bxi0dFof1aI5tCJ6Z5HRQjX2iLOlrHi6h+TgYD1W+sEdcE7UTQPQFbdbR4xMBzNNpyFK3V/M6WTo9IC607fgiOq6uHqy2o41gPcs7eJtB8ZbWhZcEKSLrXfVbR6/tkHj41+6TmHye1XFYgwMeoU3HdBesgolg3evDWH5WlnKb6qwxxW4yoEYrLaW0+wEWnQplps2znAcavZfTwCIAzz5WA+FiMZHdxlWW9+yb4qRNM5uuFir/ccsTCJBDKJ1+Uxj38uo+KGIACnPG56P248mU1ql96KCA4ZKWp97Yf0VjeKozUKmVkcz94xzC4iKljy5FGsbrVwUyB4rirtDykW1BQM4NYJiZAe8u6YPdc/iQDEyXjMihsd1wy4n34d7h3jn+mYm840+pbss/5j5kgqY3bKYMEYFMkMCvcWHFACJPM2G9OZ+tFHA8fAfdS9mDVCKfL5bxu4dV+AJgTqYnquu5nrwa0x5ij4Y6SdMZE2I6EhQydlQnvzBwA==;t/sL2cz1dU0jE4BSZx2YlA=="
 ---
 

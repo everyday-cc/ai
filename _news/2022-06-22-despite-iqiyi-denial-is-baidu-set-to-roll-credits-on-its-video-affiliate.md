@@ -5,8 +5,6 @@ excerpt: "But it could make sense for Baidu to divest from video streaming to sh
 publishedDateTime: 2022-06-22T14:41:00Z
 originalUrl: "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate"
 webUrl: "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate"
-ampWebUrl: "https://www.benzinga.com/amp/content/27813279"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27813279"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://cdn.benzinga.com/files/iqiyi.jpg?width=1200&height=800&fit=crop"
-    width: 900
-    height: 600
-    isCached: true
-
-secured: "jGO5ZPfcNm8M4dWnpyxYkQPDqd/ObgN4D3Z+oK0ew2hjfsIsg4L3s+8Vu3t7xVwec/Jpevo4R363SCFfP2QV1uJpn8GPFXQ8kynRwppcoiDu2wPoQ5zvCIgcIfObTyvGKZSr8zxfzocpDX3kuo7K9HiWYT6kAapfGqZFi45BgxUCec2WAiaTJHuoT+mcTJCt51zSfPxcdv1JZdMsNUPCnK7VrFJ7IYZgpW3VzkucWWQxkG/ESwIL5pbrXxtBZeYKRF0cfYO5Cgzln2BXrY+Hp7FcRm1EcVfz87nH8fNyl4iWd3JAZLcBun1DDkQ6V6HIdCE2qewEO/cuyrG6KUKa/nd03rJpXQOSoF8XMZz6nzg=;YrLA+5CrQrlYzusJD5qWog=="
+secured: "/lrOkRaKMVN1dj1YYOFfdLCqe48TPW/SiBXyo9/w/+zmgcB0YmkNzAjqQBTVnE+AwHaerFBpTSkvFg6NkAg7QNa5ZTO+1Je4PncGlrYONIjfK6hHAi4AqOoVR7yInknCskqQlV4ksBt9lTloRI9RQ0muFaF/Gxx2ZTJZ81ijeJJho3PiA9IgThBwTtVUb55/zaIEYlsF4UNMbSTizxVDpF16OxmuDmvCdOH0ck1lIkBfeYeL8qpFQhxWnkYl4qXZYF7pQKiTuJs9wtYPcJN6TsXZ376pw1J7etFpj+WVhFToJuKNWcl6HtYNRkdQEBFF8Jp8sGeCBK4/kTT7PCkzPEoTR3WYcBDz0IH0wF7XZAE=;ZbLwYG5FmPqKMTKUe6WeSA=="
 ---
 

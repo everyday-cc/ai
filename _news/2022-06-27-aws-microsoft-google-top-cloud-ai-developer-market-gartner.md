@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/0273-14b82b7c6db9-8d7b4fa5b5c9-1000/ai-artificial-intelligence-mind.jpg"

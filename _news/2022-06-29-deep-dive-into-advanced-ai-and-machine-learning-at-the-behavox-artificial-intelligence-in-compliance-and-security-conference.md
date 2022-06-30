@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Deep Dive Into Advanced AI and Machine Learning at The Behavox Artificial Intelligence in Compliance and Security Conference"
-excerpt: "On July 19th, Behavox will host a conference to share the next generation of artificial intelligence in Compliance and Security with clien"
+excerpt: "On July 19th, Behavox will host a conference to share the next generation of artificial intelligence in Compliance and Security with clients, regulators, and industry leaders. The Behavox AI in Compliance and Security Conference will be held at the company ..."
 publishedDateTime: 2022-06-28T23:37:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
-webUrl: "https://apnews.com/press-release/business-wire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
+originalUrl: "https://apnews.com/press-release/BusinessWire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
+webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-politics-canada-artificial-intelligence-769d7c3791944bebb9a1a7c16688d5a2"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: Associated Press
   domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
   - Machine Learning
   - AI in Security
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "AO+A5z+yt5Z/QNV8WdeIdHwmWscrTHd0C4cJheL5OUhQBcTe3AeRhYsdeRtq88j3DKBBZrl6Zzd4JeDQ4aga2MSRtQaZvLXoBuaxDMW00fWP3ftzO7Hkx37MTnXqbtewONE4pFUdCovEhKHGB6Wp0wr0cr/Sty6CnvgCpa079wGIw/THb6h9uGKSGn0FOPJLRTtzlrA1Db/G8N6Px5Wluq/DTOsK6307VFuOBV0S8stiUjI/zDpUXE26W1dfAtK2jHCjhosRlZHaxT/lqOCbQ/r1kpq1CuZExgQaagmw1B4SUQUZ63Ss+pCnGNSQcccy9/wAuwlisMNwMN7HSuBb3aQE5wPHKkc6/4p7LvOS6b0=;FG659b3M6bX5h1UyaoUNMg=="
+secured: "ddVG6fR+uL89b3JfYReNAvk668rw2ovzUZUlXFbaAjCKdIAbnD0Kuq2qdn5wu0OfzTlaFMbh2xP/eNjJeO68rvlstAafSzDsh0iBL4KUSDXc1goxcW9oFALKfx7kG6+wiGs19lbjyDsndUb92EXI2wR6ugZ2arCZ5ohgQz8EBkxOm78DZwLPPQRmaONgEgfCnZYD1WKwQmgm2hr6MjmySvEx/tQPGfeH9sOYymrB6e/WpGQzMjzLJxDC+L9LXpue5ulKisF1mVYcDJWW1OOssDXR3tYbL6CyrRcodlQb5eMGTKl/krfYcJ9jjRqS8t36SUJen29cak6SM02nswRw1MRDmjhPOK/PuD4NGCUfHqI=;tuvtv6X7CgLxVkbfRLzMOg=="
 ---
 
