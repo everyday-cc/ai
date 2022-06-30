@@ -19,19 +19,88 @@ topics:
   - AI
 
 related:
-  - title: "Choice lodges OAIC complaint over ‘intrusive’ facial recognition technology"
-    excerpt: "Choice has lodged a complaint with Australia's privacy regulator alleging retailers are using \"intrusive\" facial recognition technology."
-    publishedDateTime: 2022-06-27T08:15:00Z
-    webUrl: "https://insideretail.com.au/business/choice-lodges-oaic-complaint-over-intrusive-facial-recognition-technology-202206"
+  - title: "Virginia lifts ban on police facial recognition technology"
+    excerpt: "The new law allows police to use the technology in certain circumstances, including to help identify an individual when they have reasonable suspicion that the person committed a crime."
+    publishedDateTime: 2022-06-30T15:29:00Z
+    webUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022"
+    ampWebUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
+    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
     type: article
     provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 52
+      name: WTVR
+      domain: wtvr.com
+    quality: 59
     images:
-      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/06/bigstock-Security-Camera-Recognizing-At-436501025.jpg?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/484/ab537de11df9456cb23cbc1d7e732de9/484559d726fb4bf0a2e672ddacb2c07f/poster_4bd9a0b83c914d0cbfab1db5c30d361a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Good Guys Halt Facial Recognition As Watchdog Investigates"
+    excerpt: "The Good Guys have stopped using facial recognition technology in their stores, following a complaint made to the Office of the Australian Information Commissioner. This follows an investigation by consumer whistleblowers CHOICE,"
+    publishedDateTime: 2022-06-28T23:58:00Z
+    webUrl: "https://www.channelnews.com.au/good-guys-halt-facial-recognition-as-watchdog-investigates/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 39
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2018/02/The_Good_Guys_Wagga.jpg"
+        width: 1500
+        height: 1073
+        isCached: true
+  - title: "The Good Guys to pause facial recognition technology following backlash"
+    excerpt: "\"This is an important step in the right direction for The Good Guys, and a decision we know reflects community expectations,\" CHOICE senior campaigns and policy advisor Amy Pereir"
+    publishedDateTime: 2022-06-29T01:28:00Z
+    webUrl: "https://www.9news.com.au/national/the-good-guys-to-pause-recording-customers-faceprints-following-backlash/113c5e59-42ff-4925-ae3b-755850f2f143"
+    ampWebUrl: "https://amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
+    cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
+  - title: "Police have 'no imminent plans' for use of facial recognition technology"
+    excerpt: "Suffolk police has \"no imminent plans\" to roll out facial recognition technology after another force confirmed it will start using"
+    publishedDateTime: 2022-06-30T10:40:00Z
+    webUrl: "https://www.ipswichstar.co.uk/news/crime/suffolk-police-no-plans-for-facial-recognition-tech-9102522"
+    type: article
+    provider:
+      name: Ipswich Star
+      domain: ipswichstar.co.uk
+    quality: 38
+    images:
+      - url: "https://images.cm.archant.co.uk/service/social-media-image/1851526/7302524/1/6217252-2/PA-49806341.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
+    publishedDateTime: 2022-06-29T08:47:00Z
+    webUrl: "https://www.iothub.com.au/news/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-582022"
+    type: article
+    provider:
+      name: iothub.com.au
+      domain: iothub.com.au
+    quality: 36
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
+    excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."
+    publishedDateTime: 2022-06-27T22:16:00Z
+    webUrl: "https://www.biometricupdate.com/202206/proposed-facial-recognition-use-rules-for-irish-police-hits-resistance-among-slim-majority"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "IMfApZlroh4/4GDYa85dqMomph6FI0J7n34RCQFejx2Y2Ov+YV/Fv7YfTS6MODIgKZik6cD82xdFaXnbsTpRXG+cDncPKjbh4iDxYYHOlb3W4RI4XqQDIjgAhmF2QEx77C+XdLWLh7AUhLOlgh5bbYXtDidfxYh0xx6yCK2AIoA/QMx1WoY+Wr7L89HJEdsK0+nitGLXSBND2So7g9eh6OTeuPR6hX1YlBzCXa8B7zxeokNFeAxbdw7o/4GinlgYC41Q6nLO0eGjTvDaJ7XyzaACopfPjC6Kisgjrrr14FVjH6pRJIOvY5fu7stjQz5ZUF2NhSE7B6whyMaqOYVYDizwoQa31MgWnIakiu5YKo1256W4hdza0OAAYvULXXQun6efzQsCM0yCAkMfY3B/7uYDBiiOBUbJ4lhruRvMvEKnP0rWua3kIqAHhQic81ur8AXO8UqH95fq/4TXGxHtBJEC0TbpjyeduuBucc4X+PaSHPK7LFF0thMPPWtnNHssiwGbSHDZXd7ytT5RYZmCcw==;AMHDsr+H2LisC/XJf3jTBQ=="

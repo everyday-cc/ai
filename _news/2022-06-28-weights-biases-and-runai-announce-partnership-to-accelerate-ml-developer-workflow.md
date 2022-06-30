@@ -3,8 +3,8 @@ category: news
 title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
 excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
 publishedDateTime: 2022-06-27T18:08:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
 type: article
 quality: 49
 heat: -1
@@ -61,6 +61,6 @@ related:
       domain: enterprisetalk.com
     quality: 30
 
-secured: "yDpcqORV7FbKMPwCDxFUdJE5nwWWTaV98VoUm4T4N5nUWYkRsWZLaGSCojuZ0b38wT+GQG7MsjI1iF2RyuZlQP8tERcKkCvWP+JL5UZLivMXJb5GkLyW7pI6iOIl2yhC8WUstARpVKC3omP+spLxP5jIXLa9B7CvisZDSd0ernYD4D5KU8IBcg5RseS2n9wRoUXG4Bk87tuIGIR1Kcug4aiCEknafE4IC9vlHXAaHgRSsP/3SkcBfxKQq6/7NkP2r/RgLH3TRn7ztBhkcSioJXhVZ94vBGapToRb4+PobYoe8AMRsWu7osGpge8Gk5+PlijGqa1D+S3Oj7CdIIka8JETW0i8gp2OJwNSL+hWwYg=;0iBUZyWXBXJVnFxBGGT60w=="
+secured: "35K4hC+IF///fY03WScg6LUfMQeBkq2xwKgzTWULAjyUYDVoKJ5IokyPxzKRNzCc1Er7ITT166+ENKoy+Nq1QXfcG/rUqTfm+cYgdwfpgf7X+LjrrJBWPAJUZkYYgMh58/5+GTk1QF8MH6hUmW8z+cANR2AW4iOnHMoztUa046PVMdmzu8s3jLZMDg5W0GgGKJdzRArgZiyAhXYSASCoNhNcnRdd+W3mVBh8knu+dxxUZyIpeSudymibwt8KfvT62rjy/ig8Blm9F4mLOIFpVQxTexYEP9IpBSFMPyzJJsCUY83Nv3WUuSop3BZicnn+PBueh7+dplQu8jCdF8Xjk3voC2qkZAiyeV++3+OzwKQ=;yi2HYO6D+ZRrapePsrFeIg=="
 ---
 

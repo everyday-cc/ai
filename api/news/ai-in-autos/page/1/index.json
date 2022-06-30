@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
+      "path": "_news/2022-06-30-self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45.md",
+      "title": "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45",
+      "excerpt": "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
+      "webUrl": "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg",
-          "width": 2880,
-          "height": 1920,
+          "url": "https://scx2.b-cdn.net/gfx/news/2019/waymo.jpg",
+          "width": 375,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
-      "publishedDateTime": "2022-06-29T00:58:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp",
+      "publishedDateTime": "2022-06-29T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore",
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1192,6 +1192,50 @@
       ]
     },
     {
+      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
+      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
+      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-googles-ai-is-something-even-stranger-than-conscious.md",
       "title": "Google’s AI Is Something Even Stranger Than Conscious",
       "excerpt": "LaMDA is no more conscious than a pocket calculator. More importantly, the silly fantasy of machine sentience has once again been allowed to dominate the artificial-intelligence conversation when much stranger and richer,",
@@ -1339,49 +1383,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-china-based-jidu-showcases-concept-robocar-with-visionlidar-self-driving-systems.md",
-      "title": "China-based Jidu showcases concept robocar with vision+LiDAR self-driving systems",
-      "excerpt": "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10",
-      "originalUrl": "https://www.digitimes.com/news/a20220620PD209/lidar-self-driving-car.html&chid=10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220620pd209_files/4_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

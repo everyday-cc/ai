@@ -90,6 +90,20 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Tellius Collaborates with Databricks to Enable AI-powered Decision Intelligence for the Data Lakehouse"
+    excerpt: "Tellius, the AI-driven decision intelligence platform, is partnering with Databricks to give joint customers the ability to run Tellius natural language search queries and automated insights directly on the Databricks Lakehouse Platform,"
+    publishedDateTime: 2022-06-30T16:32:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Tellius-Collaborates-with-Databricks-to-Enable-AI-powered-Decision-Intelligence-for-the-Data-Lakehouse-153767.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 23
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FC6ZQNc9Az4s/jg/PlzccZYzJrKLPc1aNRAaOXzpa1gaABxr5uLuIXw2psLpMpvMTEvoyjTEMiKvwyPgTgoJRhvr9bVOg6eb4W+TW5QeOZ8iztLh/iSTyEBhrDME6jnaHpZDqB8zZLxKV2wuReoJBMaFCF8KmeCG6g0W/yjL54GOztYyUlvmTm1uCLd6OdoscV3sjf4/TMjzDBIBsiQvkfJGANvw3kFKP/v5C7tqJxcap8MzdMZRLy58ChX/AHl2GZCTLNgswcasEX4DhB0eOKB0OziSzzxG/AgqAPLVll66JXhAu4fd8o7n8JGTqcgKNl6nH4SUpPw+cwFhnFxEUkKalq2mv49MBi1gFz5V3tU=;N/9f5dIQxWI1cCgmTAxf5g=="
 ---

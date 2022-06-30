@@ -14,6 +14,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

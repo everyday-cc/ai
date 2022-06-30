@@ -62,6 +62,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 41
+  - title: "The Business Reseach Company: AI in FinTech Industry Analysis By The Business Research Company"
+    excerpt: "The Business Research Company's AI in FinTech market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, June 30, 2022 /PRNewswire/ -- The AI"
+    publishedDateTime: 2022-06-30T16:07:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56445423-the-business-reseach-company-ai-in-fintech-industry-analysis-by-the-business-research-company-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "FJ3C+JT9fgV4/7QcHfAMhNpAwZCkbyP9pB9VsSci/6S4KuC6Xb7kA48Cx4nBSWjcZADg4ysWc1pGEDkJHRbphCtKrkuadK6vFVaT5jVRKYKhWL8SgcFQADVWRlLlmfoCZi5wdCQzOBAokdtKim9v9rIuKpojLEGqc6MccznZcvI7bLLgr+xDQ6kREnq7xiqskBBT2kTW/uDxvFQRd3E0FpkCPO07Qv/wGSKr6YlinQJc5EL25MdH0D7pFewf0oEbvnl428rrioJHPgqUfbqRsMFk0sYC3J5hwrTwHJD4bLcARVb1Xn30BPcdvByV49vSx+9OC+yw3GyBZYV7LSrmM6DfgPdtv3cl2qzi0GbzbmTnEUNFbfZ+19+67XiVYwChtBFByEipY7q6L/cNX55adbufdB1ODG66X603TLdo5FwvipuyqAkMD5w8bPVqS5qLZgddU+rfrAhapAvvciPEg/55QjkHjY6Qu7nea0+GPQKQuE5WrXTrCcp6lbdGQmyjkmUNQZrKzdasGmTg+7iquQ==;jqZtBZHyExPvB8KijRkKng=="
 ---

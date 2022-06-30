@@ -76,6 +76,20 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Tellius Collaborates with Databricks to Enable AI-powered Decision Intelligence for the Data Lakehouse"
+    excerpt: "Tellius, the AI-driven decision intelligence platform, is partnering with Databricks to give joint customers the ability to run Tellius natural language search queries and automated insights directly on the Databricks Lakehouse Platform,"
+    publishedDateTime: 2022-06-30T16:32:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Tellius-Collaborates-with-Databricks-to-Enable-AI-powered-Decision-Intelligence-for-the-Data-Lakehouse-153767.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 23
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Databricks Unveils New Innovations for its Industry Leading Data Lakehouse Platform"
     excerpt: "Data Governance Highlighted as a Top Priority with Advanced Capability for Unity Catalog Unity Catalog, generally available on AWS and Azure in the coming weeks ... of assets such as data tables, files, machine learning models, notebooks and analytics ..."
     publishedDateTime: 2022-06-28T15:52:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-29T16:32:00Z
 originalUrl: "https://siliconangle.com/2022/06/29/how-to-ethically-enable-the-automagic-of-real-time-ai-insights-hpediscover/"
 webUrl: "https://siliconangle.com/2022/06/29/how-to-ethically-enable-the-automagic-of-real-time-ai-insights-hpediscover/"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "nGXY03cLfLplNU6ED/P3qrxLnnosjLH5Iivt8uGAc6uA9R7mj4lZqN9gVP6n3cDD9oHtv1fIYTrMFHyTshKSPwEDmOcQyglh3xU9Rw62DMQJ+FJrjxBBs4WaaCkYKTmqDsPgJj9h2Q32rmtYfQFbgwXgX6R74duU+Fglp/2eoEvywJ1tTKv6NfvN5zPn8qh+BIAbejAatymLypmy+yYTEKBqNys7CQLoSywYa8PEENJGfswOIHcQsP7CrSYRJMDh91wKzi3XDp6AG6ajaoXJE7PuQb09+VuU0XTMlOBFaz2J0jX5a21TM7yjX5pauCcsz1SIdJD3M+pEE2C1jqwgvpXwKCo7oVkTH3tDWbN2jXPxGCRC7LU99aoRfLe2N7u4BjfyyPCS0xDDsDy+XyfLPRPvqjlDprrqBGUoBOdzIZKftyPRsirXVOzjbuGrrkC8Fl5M4RPamfW1BiHMzqTLIz/i2Ff1BNzWZJK66HCjtaoZ99wZiO4ewDhuGoVGNx0XgkBDMn7mk6Nkr1+/k/srYw==;ZnUE7FLCzMBFjngLWPFLug=="
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/John-Schultz-and-Kay-Firth-Butterfield-HPE-Discover-1.jpeg"
+    width: 4615
+    height: 2372
+    isCached: true
+
+secured: "0+oIGSSpkDQmCxjqDifflLbfTP4D3yKwf6FNgiWT5owQNQlA3WZhLRQ5y9cNdSfbTgPwodl66mV8+6lCslSB/EU/gdtRP1yd6SpdiTToaeYKrKY8BWSLFftKetdHvx7RKwHgUF0muCGj3Bzp+yuc+gE79+yJFpYU7qDsdXqPSPAl8/lqtA8EEvMQ3HrRMrlFHavsoqpXEVtMKsaN5zh/RXbnSoBOhsxgAJFekUXPNQY2gqKu/OSrpFfvWNKpwzwY6ZPCTxGGKjM2sPCc2Sjl8g++EfoYU+k/YPbYabtDP4W4flpzzxhVuCIf5i3rX85t34W1vIpXXUt//Y8hZfx1tP67AH0sDDIFMsnaE9e2GJ8=;R3UyXc6hDqJhkaHBNLveyg=="
 ---
 

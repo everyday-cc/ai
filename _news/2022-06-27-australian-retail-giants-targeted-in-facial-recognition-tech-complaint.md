@@ -39,6 +39,20 @@ related:
         width: 810
         height: 544
         isCached: true
+  - title: "Australian retail giants named in facial recognition tech complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
+    publishedDateTime: 2022-06-27T19:53:00Z
+    webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Australian retailer pauses facial recognition trial over privacy complaint"
     excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
     publishedDateTime: 2022-06-28T08:25:00Z

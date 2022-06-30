@@ -35,11 +35,43 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Chatbot company Replika says many customers believe in AI sentience"
+    excerpt: "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-06-30T17:36:00Z
+    webUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/"
+    ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 61
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "How belief in AI sentience is becoming a problem"
+    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-06-30T15:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/sci-tech/technology/ptka6f/article65586870.ece/alternates/LANDSCAPE_615/airepl.jpg"
+        width: 615
+        height: 383
         isCached: true
 
 secured: "2++HgbtCA35Rvl9NUP01fWkwaHb37JDaCFmxpJmXONpvNTZVWY5z36B+pTDM3iW4SzFKyVQoLOa1pcdQ3quZ+/DfRgX7Kvvl/a8pYF1h3b5czPZ/M63LC6+3Du61JjFkqCEhdfFGYe0xPlibRBegZkeecGBtWiOIrh4W4wtcho8QtdZebOH7ABrydaUVJwEk3tKFgR3XMkwk4LARQaxKtEmEBZ2upkKkPLvdVw6wmlg6zJyGu/nQP5pSKwxqfsdLZIU8dUQMAYbECDuSLcdS9MEQpG42biVp+V6iiC5tONC1J3o4gFKupWh7AqHgHV0Y01t4HEx6D9amPBsyXYFuMFag0Vf2GF3+gnlBKyWzfiM=;ZU8ofQQKiE3MfYSNyyxdqA=="

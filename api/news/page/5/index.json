@@ -965,13 +965,22 @@
       "title": "Instagram tests using AI, other tools for age verification",
       "excerpt": "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID.",
       "sourceUrl": null,
-      "webUrl": "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
-      "originalUrl": "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
+      "webUrl": "https://kvia.com/news/business-technology/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
+      "originalUrl": "https://kvia.com/news/business-technology/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -979,8 +988,8 @@
       "publishedDateTime": "2022-06-23T10:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KRDO",
-        "domain": "krdo.com",
+        "name": "KVIA",
+        "domain": "kvia.com",
         "images": null,
         "publishers": null,
         "authors": null

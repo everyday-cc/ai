@@ -25,35 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Private companies and public authorities are beginning to implement facial recognition technology, even without rules to govern what they can do."
-    publishedDateTime: 2022-06-27T02:32:00Z
-    webUrl: "https://theconversation.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
+  - title: "Virginia lifts ban on police facial recognition technology"
+    excerpt: "The new law allows police to use the technology in certain circumstances, including to help identify an individual when they have reasonable suspicion that the person committed a crime."
+    publishedDateTime: 2022-06-30T15:29:00Z
+    webUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022"
+    ampWebUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
+    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
+      name: WTVR
+      domain: wtvr.com
+    quality: 59
     images:
-      - url: "https://images.theconversation.com/files/471008/original/file-20220627-14-q7vf1z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=229&fit=crop"
-        width: 320
-        height: 229
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/484/ab537de11df9456cb23cbc1d7e732de9/484559d726fb4bf0a2e672ddacb2c07f/poster_4bd9a0b83c914d0cbfab1db5c30d361a.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Bunnings, Kmart dig in on facial recognition as scrutiny grows"
-    excerpt: "The Good Guys will “pause” its use of facial recognition technology following an investigation and subsequent complaint to the privacy regulator by a consumer group. But Bunnings and Kmart are digging in on their use of the controversial technology."
-    publishedDateTime: 2022-06-30T03:58:00Z
-    webUrl: "https://www.innovationaus.com/bunnings-kmart-dig-in-on-facial-recognition-as-scrutiny-grows/"
+  - title: "Good Guys Halt Facial Recognition As Watchdog Investigates"
+    excerpt: "The Good Guys have stopped using facial recognition technology in their stores, following a complaint made to the Office of the Australian Information Commissioner. This follows an investigation by consumer whistleblowers CHOICE,"
+    publishedDateTime: 2022-06-28T23:58:00Z
+    webUrl: "https://www.channelnews.com.au/good-guys-halt-facial-recognition-as-watchdog-investigates/"
     type: article
     provider:
-      name: Innovation
-      domain: innovationaus.com
+      name: ChannelNews Australia
+      domain: channelnews.com.au
     quality: 39
     images:
-      - url: "https://www.innovationaus.com/wp-content/uploads/2021/11/facial-recognition_763651345_800x600.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2018/02/The_Good_Guys_Wagga.jpg"
+        width: 1500
+        height: 1073
+        isCached: true
+  - title: "The Good Guys to pause facial recognition technology following backlash"
+    excerpt: "\"This is an important step in the right direction for The Good Guys, and a decision we know reflects community expectations,\" CHOICE senior campaigns and policy advisor Amy Pereir"
+    publishedDateTime: 2022-06-29T01:28:00Z
+    webUrl: "https://www.9news.com.au/national/the-good-guys-to-pause-recording-customers-faceprints-following-backlash/113c5e59-42ff-4925-ae3b-755850f2f143"
+    ampWebUrl: "https://amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
+    cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
+  - title: "Police have 'no imminent plans' for use of facial recognition technology"
+    excerpt: "Suffolk police has \"no imminent plans\" to roll out facial recognition technology after another force confirmed it will start using"
+    publishedDateTime: 2022-06-30T10:40:00Z
+    webUrl: "https://www.ipswichstar.co.uk/news/crime/suffolk-police-no-plans-for-facial-recognition-tech-9102522"
+    type: article
+    provider:
+      name: Ipswich Star
+      domain: ipswichstar.co.uk
+    quality: 38
+    images:
+      - url: "https://images.cm.archant.co.uk/service/social-media-image/1851526/7302524/1/6217252-2/PA-49806341.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
     excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."
@@ -69,24 +94,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "UK should immediately ban use of live facial recognition, warns report"
-    excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
-    publishedDateTime: 2022-06-28T23:13:00Z
-    webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
+  - title: "Facial recognition technology: The Good Guys stops using special cameras in stores"
+    excerpt: "Home appliance chain The Good Guys has decided to stop using facial recognition technology in stores after a customer backlash, it can be revealed. The reversal heaps pressure on even larger retailers Bunnings and Kmart, which are also using special ..."
+    publishedDateTime: 2022-06-28T03:59:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/nsw/facial-recognition-technology-the-good-guys-stops-using-special-cameras-in-stores/news-story/0bca9e65aab91fa1439416024a27b0d7"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
-    publishedDateTime: 2022-06-27T19:29:00Z
-    webUrl: "https://www.dailyexcelsior.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 16
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 13
 
 secured: "FX+G73FTFkk2A2w6DZ6rRvfaqN32j5bhR22aHOZ/ea2m8OGNEq3Og4iytaLUtAcwJk83fR0yowTJQCOUlWht8RMKj3CN6XOYYwgOXDQPSRsCIft0xl5a5/tD5nTSx6NhE7WL4EwzmfJpkaCMq2rVV226MKHBQ+PdKuH+0GPIqOnx6tWNgVoQUVczvJLbzn2q1tuNBaJN1YIP7f7WwJmERENCgmwPtKvnXg7KCk2C5kntFr7Tow+FTj6w4VjfyLIt5r4QtsGlth4kZBTDhb5TlszYab3VpLrKsNA9kNvcCFF9Ehxu0egwz0YLU50vut6MD28xNL4sti30HHvXpckZszmjjzcgfgaQueNFnCkg2lQN9tkQE2TmPj8aDgHt3FcEYhSdeHhh5GNzf+v8kBEC3xsJwWYE2U+r8QnZzJhkCIjJqYtm0WDXoFnBdVqZyzxJRs/mftJ/TLatXPJ/GgegithPQnh2pNq6APnzGqBZO0P52xjXzHfaaRxOhjkdpsDQhmz3tf3uyfCraNj9edzV/A==;rYBp/AvTLSbGZ3AdWnTBCQ=="
 ---

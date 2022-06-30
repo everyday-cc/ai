@@ -55,6 +55,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "AI in FinTech Industry Analysis By The Business Research Company"
+    excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"
+    publishedDateTime: 2022-06-30T17:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-industry-analysis-the-business-research-company-/2022/06/30/9632089.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "How Artificial Intelligence is Shaping the Future of the Fintech Industry"
     excerpt: "Managers who work in the financial area, and UK-resident banks or investment companies, should always look for an optimal approach to customers, processes, and data. Embracing AI technologies may come in handy here."
     publishedDateTime: 2022-06-29T14:43:00Z

@@ -39,6 +39,20 @@ related:
         width: 810
         height: 544
         isCached: true
+  - title: "Australian retail giants named in facial recognition tech complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
+    publishedDateTime: 2022-06-27T19:53:00Z
+    webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Australian retailer pauses facial recognition trial over privacy complaint"
     excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
     publishedDateTime: 2022-06-28T08:25:00Z
@@ -153,6 +167,6 @@ related:
         height: 413
         isCached: true
 
-secured: "HPQkUCMU789CVryD4N5H7JJXsCmtW/dFuPoxrIIx0qVVbYe1c39gBvG5+J8lz6PTvK8YTslIO8lQpuJOhslcIPAJXAKTfYnGimGsjpmVQfWTLwp0dON1sA4OzGxRlCFor/MYdhBtjMZbxgO8gPtCBjBCITLPgTazcinRDy2ITFrZRFIfbJshZ/bfh7nq90RaDrf92Om9J8lpkkUlJQPXSbQ+5UrQcBWu4+av+N+km8McV6H4xLoPsgzE1hMIG7o/88p6updMp+/md0hLSLPcwoEJXqnvkSAUiSLx2807NGHgvy2mjh+sWdNWJFVfy+u8aWaJdNALfJrfCt1At0wjdZxU2eaz65VxMl6k6P/5ptA=;zdWjpxMNlX4PQ23K4AdIGQ=="
+secured: "9qCfMaeBeC7/7BHuIlR55WV+uHn8zaVZc/aNz83/DfHP82BCQ5ZQv3WoSTEe+w4zFaD0U5hxE2a1zO6s6WKyH7dNK93/xaQlzLPTXbSsikiQIHSNE1eEXP08oa7JH7TjHd3a9TxhtX7jq3FZHZLeursR41UIxq3YfTh9pauJ/cakwihlz6dbfe0xgrZjhqkR5FxvsG2MOZx7d40583wP9tm3SqlG5Dg3oyWB2JTWYK96U4fxYmGth7svwe5JXRPVRKL/3X4eAskSPK8OHKfuE6rqJsiWL++c75aPSdtOx+vsL9WjJQCZhiQFFDhfxkWQhdQ6UviIyYBWTCaXzkFL5G0Lj/Wc+mWT7Vb+uUK+SYG9+/bzaXvVk5P1l/VLPnHTIQUHhZoVaKO10+q6S46EVCQh6AeY1JmRb1E04cuneI4mygebugiUzoHQSm5NULLQu60ikD81ZF7+nJcwcdORjUdOgEyXgQQT9d7mt0X7LGVMH2x6LwD9XlzD8oPM4gKyZYbymLi8tSUN/uZfp740nw==;PeYFBr7GG2I10p1JNiF0YQ=="
 ---
 

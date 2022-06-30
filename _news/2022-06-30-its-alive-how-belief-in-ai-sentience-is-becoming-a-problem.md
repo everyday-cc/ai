@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-30T14:04:00Z
 originalUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
 webUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 99
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -28,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "Chatbot company Replika says many customers believe in AI sentience"
+    excerpt: "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-06-30T17:36:00Z
+    webUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/"
+    ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 61
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "How belief in AI sentience is becoming a problem"
+    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-06-30T15:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/sci-tech/technology/ptka6f/article65586870.ece/alternates/LANDSCAPE_615/airepl.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "How believing AI 'behaving like humans' is becoming problematic"
     excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
     publishedDateTime: 2022-06-30T14:48:00Z
@@ -45,6 +78,6 @@ related:
         height: 393
         isCached: true
 
-secured: "Y2ix3G5sp+CydRzsAp65QhGJsqy/vlT+blYjO91KSR4ag1DRuO0YTmlMWoMFQSbbX8xKkTkaKAlyd6jIaoOuoJZo2oE3sKB8w0mk4DwKLDXiX2xfZXpURFueKM0/nQn6DEtMeYxXMycBg2ZA0GWsasgEwxZLUwp0M7FS5hhLV38vzGC5rElFHBexoNgJfIpKpCRx8P2wS4CYO9k0V4GBLznYrv6KDJPhZpU/9cHhe882aUU2/g/JE5v2glnHgbdlD4yEXGKUQYFpBuOnoH8Dhc/YnKTp2s6zANkhLql5kDMYGZOU+9ClmJsCJ5SdOWjMitPUSB3dobZumWacXJMZWB7xZk0jHl5eJCYS9iS8SCk=;Kh2VML5YSs1ZQogmKMVSBA=="
+secured: "NJaanvl1TUkxPG47b9guf36mV/Gi6869SMZU5byjtrCmnjZRTM/n0/u3hemP3JqxPQj9W+eMoQSfMMpSLo7lSYxuxZwq2coxO3VM2lqKv1R3Lb42u9CWTICyi0ReUqZ7P2PA+ASOgeVj/xem5XLosK+P9v+odW0QL048nBxlTZzLDcR6YUEHJd7GEosOw+KczG6Zg+mOb11VegrCd78p67bhT0xb/b5miB9QP82SAOJuUOP20ch3inLtk6w/NI4KIc8nlbXI/C+1HttVfUhNgaLeQ2JQr2tFUb2ujuYXx11755EhDio5Ana98mnhca5Ftmrvr9ZqePt+IXgIaQ2Xxy++bDpwOmbV6zQPF1TjIm8=;TiqAa5IgwFA0Vu5/TOKCUw=="
 ---
 

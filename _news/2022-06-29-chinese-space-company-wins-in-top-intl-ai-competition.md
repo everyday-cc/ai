@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-comp
 webUrl: "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076"
 type: article
 quality: 67
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1848088/1.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "The Business Reseach Company: AI in FinTech Industry Analysis By The Business Research Company"
+    excerpt: "The Business Research Company's AI in FinTech market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, June 30, 2022 /PRNewswire/ -- The AI"
+    publishedDateTime: 2022-06-30T16:07:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56445423-the-business-reseach-company-ai-in-fintech-industry-analysis-by-the-business-research-company-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "XpnNfARbvyvnxB6aKgz8hjylxnSIZE9Qw6dJmp01zqq2Eg0Qd9K6T7hAm+uhNgtsopspSVtdbH3pW3g3x92y8NDy/WB7fDsJrAOwLNc1PvoQdERjy6t9eL4Fml4a0ju/IjdL+vom3EFzd8ThJQssY2iMogvsfvFuOvyG9KZOC39V6N5DzYe4vAaKkkAR6Ne8/b+f/uSNX/0DOFJPSGGFIK6mMaCIYqqwdEVAj622Qi1WQJEaA4rrV3CcbTaBcCkqY3dVEYKZSG32dGy/gcvdOnsQ8DUN6IvW+QczQ1h6OT9HPFLPmQvQrJclrfHeEquRY1etKyO7I55ydhanP23Yu4eo6vB7Oz/Ld+45LRxkTvVQxAH7JFIo+5Ww5Y4wRYnhhDXGJVSLYNuRiKq/88nDczevf2GyL4zMjgzXiPpWbf8Ax+H+tJhBA/jO23lKZ8mO186QhlQrV8LWCE9dbWLLtdBwiPqa4wUpoUPVoSb38gBOAXMCYSnvASeZmE4m4pBXEKT1wPdfkRa0kJkvaBdTWg==;BataIqG7EgUzE9W0ojtguA=="

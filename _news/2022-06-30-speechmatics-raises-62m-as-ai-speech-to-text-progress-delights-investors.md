@@ -57,6 +57,15 @@ related:
         width: 940
         height: 500
         isCached: true
+  - title: "Speech Analyst Speechmatics Raises $62m"
+    excerpt: "British-based automated speech recognition platform Speechmatics has raised $62m in a Series B round of funding which it will use to support expansion across the US and Asia-Pacific, and to improve infrastructure - particularly the capacity of it data centre."
+    publishedDateTime: 2022-06-30T17:48:00Z
+    webUrl: "https://www.mrweb.com/drno/news33506.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
 
 secured: "ChQTV8nuPIXA11YfhaWqQOTErPtB2dTtBA29bYRBrZ4EMI5vlBZw8h3xD6oqgnXEwLsHgBR6Z6ylApCDzLaLfQWKKI8geV86NwO2NQ4RL+q+uBWJlvTmpOWG15S1OItlK7F4WofMjTa5AUoWplLIJcASld9TFlJPR1spqNcWuwNA2IRkeLKtEpgUsFZX0tEqvRO228wSIqTWC/fj6+zU3kd95WgD4Jlx5A6yrONdAfAZOPMZARgG15IObZofZxXT/cB0EHM/hefqGbBM60LYub2CBKtofkR4D+csKosHx3SE8c7N08LI/OM9+7r0jt7LFTXPqqyOYYY8dhBq19kbfs2R6FAm8GkNjaJNZhB3wA9teXDYLyDTs2PfiuwZDGaulwaboA6ifHmTqCOaXhbWuQecOKh7+DwddKl8UBQI/sur6ntETRfEsryuV5Zl2JabkcIXL3UFvK6TUE8roKZTaI4lvjJU+2DRQr0X0LF9SMiChYC7RJlkoz2iRow7zi1mIh3Oq45GG8n2aHFfflaXLA==;mCr6jPC44tP5UtBVLwWmIQ=="
 ---

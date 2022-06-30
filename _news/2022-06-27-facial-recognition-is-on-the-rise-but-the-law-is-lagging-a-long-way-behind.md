@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/facial-recognition-is-on-the-rise-bu
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
 type: article
 quality: 56
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -40,34 +40,6 @@ related:
       - url: "https://www.innovationaus.com/wp-content/uploads/2021/11/facial-recognition_763651345_800x600.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
-    publishedDateTime: 2022-06-29T08:47:00Z
-    webUrl: "https://www.iothub.com.au/news/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-582022"
-    type: article
-    provider:
-      name: iothub.com.au
-      domain: iothub.com.au
-    quality: 36
-    images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
-    excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."
-    publishedDateTime: 2022-06-27T22:16:00Z
-    webUrl: "https://www.biometricupdate.com/202206/proposed-facial-recognition-use-rules-for-irish-police-hits-resistance-among-slim-majority"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "UK should immediately ban use of live facial recognition, warns report"
     excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."

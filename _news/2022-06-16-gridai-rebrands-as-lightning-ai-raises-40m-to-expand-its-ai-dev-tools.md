@@ -5,6 +5,8 @@ excerpt: "Lightning AI, the startup behind the open source PyTorch Lightning fra
 publishedDateTime: 2022-06-16T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/06/16/grid-ai-rebrands-as-lightning-ai-raises-40m-to-build-ai-dev-tools/"
 webUrl: "https://techcrunch.com/2022/06/16/grid-ai-rebrands-as-lightning-ai-raises-40m-to-build-ai-dev-tools/"
+ampWebUrl: "https://techcrunch.com/2022/06/16/grid-ai-rebrands-as-lightning-ai-raises-40m-to-build-ai-dev-tools/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/grid-ai-rebrands-as-lightning-ai-raises-40m-to-build-ai-dev-tools/amp/"
 type: article
 quality: 46
 heat: 46
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "vu1/FDjDT0dKm7qzczKIyqt+KK/y5J1wqGahPjglmMrf0tONm9JMVG8J86ugxkNx8dJ+TEfd8rt1rpXNr+HWluKapbDSd0eg4fsdgxU6J7rz556YYMqfG145v2iCMq8YWnTbbn6E/9M2HNKwLqRLoQh+l4NLo0pMrf9J4SBxS0hC+yYr4i/MJDPqD2hZ75ONgPYsvHle57FxHIjg5WjraaSOjObIZQA7xrBF1CinWDpCBq1hd7RToxDAnoB5m68jcdGQjPgjlPx55jV0j3ZgEdlIYX42RB8ZHzkM9HskZoACdBFXsElvTh52K9p4Oqt/NwHdfJ+hm0VqkyAuvR4nHQ6IN1uuGvEyRdomn+nf1lDzh8/C0kRDo96LKHLPfX0P6A6lcBwrAJ6FhPhGceMAjAmca9LUGRBE6rwTsk5ftj15xi6E0OW1DEKSQSsARnTj/so1zn8Umgyrg5WPHI5E2Ukl7yNX8p/k/VYP3h1ZpGKVqaTabRYi0zxwKl78gBUvmhUoeA0/kM+sycfiqu7Jmw==;DKFs3ky2z9pF2Pn27nFdTA=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1165431212.jpg?w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "k2dXPR4B79VpDTvKjqM2CmoIBLfyR3mXq+3vcsrFkQAQ34U/A9HWAHvfSjGxC+qlz3hAI0s9qt/eZiijAg7EN4tk1y/rLqEeB4/gtnmFre9xuh+KJ2ItYSFLOgsYQ/PlPn/GMhZnhjySlhRrXm5Us9hmYo+sYCQSHGYrMtx/aBDACuxFMwdw1rnMdZJk609xQy/i6VVeNBiIFkJsRQhKsJUmpLE0jpEeZZROH5LoEyoO8FkHTGqCE8QF989Mn3xpc20txw8+ZnhfBZVqY0q/NM0Cf2nSA88EQxj/cYYLHn2DNqgRRGM9db569pu8tAtmlnRkUkD0ksofnEDfGV5GPKlxOkOc5qacsj/N4w4Iqbs=;+RzkI04L/Lg6do4Z+Ngftw=="
 ---
 
