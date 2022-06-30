@@ -49,6 +49,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Dubai builds maps for first driverless cabs"
+    excerpt: "Dubai is preparing to launch its first fleet of “self-driving” taxis in 2023. Vice President Sheikh Mohammed bin Rashid, who announced the plan in May, has set a target of 25% of Dubai journeys to be driverless by 2030."
+    publishedDateTime: 2022-06-30T04:54:00Z
+    webUrl: "https://www.al-monitor.com/originals/2022/06/dubai-builds-maps-first-driverless-cabs"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 54
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-06/GettyImages-1236906074.jpg?h=1d34674f&itok=fmXAqAhQ"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
     excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
     publishedDateTime: 2022-06-27T10:03:00Z
@@ -62,6 +76,20 @@ related:
       - url: "https://images.wheels.ca/wp-content/uploads/2022/06/wh-DriverlessColumn-June25.jpg"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "Open-sourcing simulators for driverless cars"
+    excerpt: "MIT researchers deployed the learned controller in a full-scale autonomous vehicle in the real world after successfully driving 10,000 kilometres in simulation."
+    publishedDateTime: 2022-06-30T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/open-sourcing-simulators-for-driverless-cars/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Mit-vista.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "8chsiWKIi72y6ZqQlUG1xy9nUTHOsO4STnqGG4XSEb3fCYUpSIaIbIrczULeKmR/9Jt/p6C/MoTCczSziK2TfMfb0ncgcKP0FlzHgrqHHcSPRbR8l77RTDhnhvXfg2Y1T2unpnaD6+e8eFdj0uYkJ9F2fARHD9EjmAiHZwiVsn7E4WdtXZS8p+P8Jh2LDzJ8xcqWvA+xirJVnPn1q7y9C4yRc8Cer0NzeXAXdcH47kpYcNRrHxnR5twqwzuVhqbK9IKxgZU59XWpqf8m50MRgKTgxXGsd2weAwYo4p3Kh/5amTs6BUElyXKqziBrpJWqBPlAgLGRBNtjTs3+vU3U5uP5P+OCfApzBgpaqUHttBs=;lXdiTedYp7MjA2f/SCEyYg=="

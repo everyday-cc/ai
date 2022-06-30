@@ -26,17 +26,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Research suggests unnoticed eye movements may be crucial for better self-driving cars"
-    excerpt: "Andrea Benucci and colleagues at the RIKEN Center for Brain Science have created artificial neural networks that can learn to recognize objects more rapidly and"
-    publishedDateTime: 2022-06-25T12:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272598941/research-suggests-unnoticed-eye-movements-may-be-crucial-for-better-self-driving-cars"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
-
 secured: "mPrtLM/ayl7SbEtC2f9uA0sqQ1OlsMRW/eefaMEm/8thkPz/luMtYJnyZhjuAzOzoEyDrcjxQKvW9Fkp4Oc9TFBvoRUi1tIC0tqL3Yeh1sEWQT45tbp1hNa/9C0+2nrVtAL2Tol6OCxUK6Py+kVvwa4XCEHQSeg/Vn63ka92d1wvJF9veiWQWNGaGL50ldeOw5w/wg/aACvJzK+a8X83kYwHm5gq4Gj7qDZ4lr4VMnJO7x33wd980BAMu1TytN95LtSuo8ZeyiCA2Uah+uUN3QM/QWDpGh5jX4ZAjrLAA2KiFH+tJDW0qj6rbsZJpZomCUB40fHJlzlHfk8PGTAg6/1kPqZM7jQRIY3ACg7XQ5lEkoouLgzxzSqx8TIx6AVEkQak2NJo1qLoS1CWf7kUkHYtLnfQvoq6IPxwWxa4YVmcQ02s+aC+iiggyQEagiJOu+eF7bt16YUp5ewqo4oXS6f3DT8r9klTQIkZ+NAgkGafPNcdMdKJWDihG1dQSHgS0sb4BuvWKg8olxcEWte/Qw==;pgY04L52hDyP+Bdq/W6K3w=="
 ---
 

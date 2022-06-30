@@ -43,19 +43,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla’s layoffs hit Autopilot team as AI develops"
-    excerpt: "By Matt McFarland, CNN Business Tesla is increasingly turning to machines rather than humans as it attempts to develop autonomous vehicles. As part of Tesla’s plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists."
-    publishedDateTime: 2022-06-29T21:01:00Z
-    webUrl: "https://abc17news.com/news/2022/06/29/teslas-layoffs-hit-autopilot-team-as-ai-develops/"
+  - title: "Tesla's layoffs hit Autopilot team as AI develops"
+    excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
+    publishedDateTime: 2022-06-29T21:12:00Z
+    webUrl: "https://www.wicz.com/story/46792693/teslas-layoffs-hit-autopilot-team-as-ai-develops"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 54
     images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://CNNWIRE.images.worldnow.com/images/22925986_G.jpg?lastEditedDate=1656533572000"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "thqjkKWXw8p0O2dzOWPHTLNqBkE+6sG9jUwVFfk2eVoe5uQxg1o27X8xuLgBPPKdE38D/vf7NF5R6deaYJyYy5mEZTshZgGPgXDWSgcX6bwbrDJkf6u9MP+SrdFfdn3UzauyPIvE5jeSSx64EZ6gI555CuhAoLB5k2+aSMl2dvbJoAHsvG/piR5k2Nrm/3WXwzR+m7VqL65JXiHZojGeTWOS/Fd/gZ7FsOGpPrkvYymTy5H7MrfuMuiWBw5XKEvuWXXO+lm/X/AzEq+wrmKxBw9lKoMAKyLTbUArrESnlW1IDIuOJdeEjKTjsZMr+tNHi4x5O+xmulPHnmdbssTUo1McYWqFuzofHCeaQLHZn3nFupvg94o5nSibSNP6zd5WP/JbC/7jyASrX9hBz4sks3tFon/jDezZynM+xPFr5eARIaf0Bo8lQ7SuBTKRDhVPyIJOstnGWlYnKRWDaJShRsksTOunM/80l8gcg6xL017egXSUfbT3rtajPC4x/y6IW6RPlm/0mOZy7GMACLksSQ==;pfEJAr41fN7kHjIhv4/ZLA=="

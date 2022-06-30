@@ -41,6 +41,20 @@ related:
         width: 320
         height: 229
         isCached: true
+  - title: "Bunnings, Kmart dig in on facial recognition as scrutiny grows"
+    excerpt: "The Good Guys will “pause” its use of facial recognition technology following an investigation and subsequent complaint to the privacy regulator by a consumer group. But Bunnings and Kmart are digging in on their use of the controversial technology."
+    publishedDateTime: 2022-06-30T03:58:00Z
+    webUrl: "https://www.innovationaus.com/bunnings-kmart-dig-in-on-facial-recognition-as-scrutiny-grows/"
+    type: article
+    provider:
+      name: Innovation
+      domain: innovationaus.com
+    quality: 39
+    images:
+      - url: "https://www.innovationaus.com/wp-content/uploads/2021/11/facial-recognition_763651345_800x600.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
     excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."
     publishedDateTime: 2022-06-27T22:16:00Z

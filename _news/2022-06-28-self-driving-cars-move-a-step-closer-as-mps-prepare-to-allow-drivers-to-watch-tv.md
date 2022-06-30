@@ -65,6 +65,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Process of allowing self-driving cars on UK roads has begun"
+    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
+    publishedDateTime: 2022-06-27T11:34:00Z
+    webUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948"
+    ampWebUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
+    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
+    type: article
+    provider:
+      name: Wales Online
+      domain: walesonline.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.walesonline.co.uk/news/uk-news/article24331943.ece/ALTERNATES/s615/0_roberto-nickson-Ddjl0Cicdr4-unsplash.png"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Road is opening up to allow self-driving cars on UK roads"
     excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
     publishedDateTime: 2022-06-28T14:10:00Z
@@ -90,15 +106,6 @@ related:
       name: Dallas Morning News
       domain: dallasnews.com
     quality: 32
-  - title: "Process of allowing self-driving cars on UK roads has begun"
-    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
-    publishedDateTime: 2022-06-27T14:11:00Z
-    webUrl: "https://www.getreading.co.uk/news/uk-world-news/process-allowing-self-driving-cars-24331951"
-    type: article
-    provider:
-      name: Get Reading
-      domain: getreading.co.uk
-    quality: 4
 
 secured: "u5rym9X/9DyVl5gNGPHABJnbJArAaccM7Z2auCiiEBNomAwwk3M76dPLdk97dFcv6WLSlvZncIIyc0TISrzkIjmlC2WhaX1T3h6UEB5Uz9SNjs0rdnORI7VGrAJ7tU4RUF/R+H+JtDUtyYFXagv3Ac0o0upGS9teIIG+oJ3ESBGskz7h+PzpsUkZlXahF9jrNbKu5iEEmEyQK8GZzLIRM76+D+1ijWud+yBFOZONeSMSR/w6jtNf6BM4UsSujkEAD/Ro5uYowYILAF118FTNYTrm+L4WbCdgb9qKxMfVWq4aCEvY/ezvWoGi3SoUPfSCXXD6X/H0KZTWCe5qdSuj8gzzxysbGAqhc9/tSfLOXgwNt/MGXk9ZIqMeSd8f7o1gpDjYfCjVBYA3QXpijh2esbdrXVuWO8HR8tCTJmKGY5n/GRvurWOKQ4TCHzS1x6s3fAyVDJJOeANW2aQaOmepAn3Kikvqtmi+kuwyAGie82bPuPfQoK1h/d10devQijiMmDx03ZoCX0OkNicM3+z3OA==;ZxRZcTiURB731Do+7H5PYg=="
 ---

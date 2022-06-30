@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla’s layoffs hit Autopilot team as AI develops"
-excerpt: "By Matt McFarland, CNN Business Tesla is increasingly turning to machines rather than humans as it attempts to develop autonomous vehicles. As part of Tesla’s plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists."
-publishedDateTime: 2022-06-29T21:01:00Z
-originalUrl: "https://abc17news.com/news/2022/06/29/teslas-layoffs-hit-autopilot-team-as-ai-develops/"
-webUrl: "https://abc17news.com/news/2022/06/29/teslas-layoffs-hit-autopilot-team-as-ai-develops/"
+title: "Tesla's layoffs hit Autopilot team as AI develops"
+excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
+publishedDateTime: 2022-06-29T21:12:00Z
+originalUrl: "https://www.wicz.com/story/46792693/teslas-layoffs-hit-autopilot-team-as-ai-develops"
+webUrl: "https://www.wicz.com/story/46792693/teslas-layoffs-hit-autopilot-team-as-ai-develops"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ABC 17 News
-  domain: abc17news.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
-    width: 1024
-    height: 576
+  - url: "https://CNNWIRE.images.worldnow.com/images/22925986_G.jpg?lastEditedDate=1656533572000"
+    width: 500
+    height: 333
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 800
         isCached: true
 
-secured: "9g4wEw80p6BDzN+rdd28tFmCQeab93bNtQUsFcLQNZM1ADuaLUAbP/XFgO9iOEGOgj3S1CHiGAkkvjCOhmKr5izyRXSg36UtUAYumvlIuvOfplB69Uu+nbdDdLUzu3PthMptB19ZGcbG2azwjMabT1zvRqNqU5T8dwPt3E/v2IvA1cqwbfUE8jXC0lFoHO2AoazbC88LWYIAbrdSpDHteHM+GvvnDEnqp42Etpm0VshdjVm0gMtTievHL+kFNuv1CZSAVHX+nvvjj5GYxsy/naSJ8gHVA87wuNR2SZgeWHzSXkTwldo7rYodc52WXQBpPmnhVWH7HY0vwVF7mARNPXRGkG0/UaWxVW0xGJ0YwDo=;p1C1h6ko1YqXy3hOWK50ew=="
+secured: "UKSxhGd4pUWmxQreUN5jUdR5P3VBie8xdO7vcOG+VVG9qSfrT31kkWzE/22Ks9bkkKyPqkObPJ3sefmIWnEBs8LHs5wpOOe4yaDPASJDPlYRVANazudAK5twbyTf30VzygBHsxofoX7BhMThUAMVnhZXSNMv49kFOZ1b5KHS6p0Fy7FGYWv2dM9xfwvjEXYPpXOIbE6ayn7ep5nEWeMYx96XVj75dTFzDyM73W92s+98BvJ4KL4ban82QEiEBy7ddZWUfMGzdM4Yu/DQV6fazT2JEoYi5xfO5mUxyCogpo1SDsk1oAqy/YBzTZxjMHTY2F8fQpDeKVqc69sMj1ZGmRcWcS7+rdY5w5RtuwI0ew8=;FraTHUj+hY7LvoCrA1CgMQ=="
 ---
 

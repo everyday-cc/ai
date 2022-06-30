@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Shares Of SoundHound AI Inc. (NASDAQ: SOUN): Are They Overvalued Compared To Others?"
-    excerpt: "SoundHound AI Inc. (NASDAQ:SOUN) shares, rose in value on Friday, 06/24/22, with the stock price down by -7.25% to the previous day’s close as strong demand from buyers drove the stock to $3.20. Actively observing the price movement in the last trading,"
-    publishedDateTime: 2022-06-25T11:33:00Z
-    webUrl: "https://stocksregister.com/2022/06/25/shares-of-soundhound-ai-inc-nasdaq-soun-are-they-overvalued-compared-to-others/"
+  - title: "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year"
+    excerpt: "Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
+    publishedDateTime: 2022-06-28T19:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year-1031555698"
     type: article
     provider:
-      name: stocksregister
-      domain: stocksregister.com
-    quality: 30
-    images:
-      - url: "https://stocksregister.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "SoundHound AI (NASDAQ:SOUN) Shares Gap Up to $3.20"
-    excerpt: "SoundHound AI, Inc. (NASDAQ:SOUN – Get Rating)’s stock price gapped up prior to trading on Monday . The stock had previously closed at $3.20, but opened at $3.32. SoundHound AI shares last traded at $3."
-    publishedDateTime: 2022-06-29T08:54:00Z
-    webUrl: "https://www.defenseworld.net/2022/06/29/soundhound-ai-nasdaqsoun-shares-gap-up-to-3-20.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "DKHRQugvdLEu6WRGBwd2Kt6n0Sg6lSTFfHoQ9RB0h/pXEs2N5SB9XE3uwnjOEhRrm6ZZrvLAJCPxK5kM02/uYK/mmWjAq63+hBUOD24/wiXxZm/04myoqjlcgWeAgeDBIyethtB0Pk6upEIyG2gm1aK8sh+yPydmvgEAIa9r2SOkHgNpxvhhdEenIm0sdod2l/CdEY8nNyc61a/Rc3rleF6tjYcsehyoanNHvAPbi7K8RtFyTzprtSrKYUj7gV/lTWew0fE5lXu/rvVoKejzI/p2gE82oLA7M6i7nEJSif9rOvUOhAH2xaDoWkkUfdwVjzxH4bFcWaPGBxkwHhed2yb9vuYtrriSq7lPMfJtUXNEC3dFA3+x1SAcqVqkjvCTnjz+toK4E5cQikZahRX8ZnoLSvvuA68P0Vb58VrxBqpItAjUUwZNWGNC0SejtRg1vlHVzPtT/kWXubHDbHC3OTy3HdzqHFl5BfGcOEMZqYPw9R5luuyMdK/PY2GsmsQh9rmAs7sc3GMUnKEIuRJlnA==;L8OBeWbPQy9G0EDUtwp8SQ=="
 ---

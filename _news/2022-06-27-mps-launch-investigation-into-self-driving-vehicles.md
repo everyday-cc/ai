@@ -2,26 +2,26 @@
 category: news
 title: "MPs launch investigation into self-driving vehicles"
 excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
-publishedDateTime: 2022-06-27T10:53:00Z
-originalUrl: "https://www.expressandstar.com/news/uk-news/2022/06/27/mps-launch-investigation-into-self-driving-vehicles/"
-webUrl: "https://www.expressandstar.com/news/uk-news/2022/06/27/mps-launch-investigation-into-self-driving-vehicles/"
+publishedDateTime: 2022-06-27T10:54:00Z
+originalUrl: "https://www.belfasttelegraph.co.uk/news/uk/mps-launch-investigation-into-self-driving-vehicles-41794404.html"
+webUrl: "https://www.belfasttelegraph.co.uk/news/uk/mps-launch-investigation-into-self-driving-vehicles-41794404.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Express & Star
-  domain: expressandstar.com
+  name: Belfast Telegraph
+  domain: belfasttelegraph.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.expressandstar.com/resizer/VAjoinj5e7OLV3rbttwZFGQO5V0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/K67PTIFSCNB35HH2NECGQB7CJM.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.belfasttelegraph.co.uk/news/uk/961a9/41794402.ece/AUTOCROP/w1240h700/bpanews_bf18d45d-a0b3-431e-957d-fcbed9ebde5d_1"
+    width: 1240
+    height: 700
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: fleetnews.co.uk
     quality: 24
 
-secured: "qOFkcwAMisOKBsM6wvDNgbmpDAviL0iC5ZN+ENBRNuW42khvKfA9Q7mjBjl2IJqqYw2I2lrV8LND18lT8wb/kcjSiVvROZ841+M05P4F8AXcyXX9QwnsTuLCmzR4FWw6qfUITTCC7bZw/4FzuoHu7za3WlX5qZT8TPZ+BlnYjaFQvsGBT+6L7gI+BL7t2m85UfTUQu66syPmvuF/tT/0b5Eglz5QuVQpOTJbQ4ZtIbSG+nidb7PXxJ5y/NXnzBQe+QmQdPtKO0LYcQWOpE8p6ikLPE3f90hqe7/QZd9xUgASAnPs1Xp82mdrE99Nx+3stunfg1ZqJwKeTK+d2gOz7548wPaSkOjA8pFu/T2Ia4w=;Q0/2oAGNi9hFP+uF5G5mjA=="
+secured: "vxGZKGMUOJpHoYk3TvajB2TttLEnAk3+UYK/K+iUZhIeqKEeSU21dQxCaDnTchyxohBDUXuEocHwTIbBvf6BPAX1k64RcmMTi5dcF0cnHkTF8Ot1umpMvye/SXtcuw6mifN9wagd02iYp5uKaF6Rr7uu4yJFLB01JxIuVaU2Rwz/0PD3oJ+MqEbykNGmLiv3AZsql7KIrufpuWOy7hFl+RQvr4Au43dGJZVZ+W3sK3jtYVhBjebt/WFg7ALP8X+nZF0E7EpeMMbAAOb/OYXcVlpV0xlPEukHdrg2uDE1PazbqzVsHV68p79VXCZ47K5ww4WATM4/YT8E86FKHPtU4IKURH+TWlZEiMDECEpl1cc=;2KIeVjNj/LuiNMDMeXXabA=="
 ---
 

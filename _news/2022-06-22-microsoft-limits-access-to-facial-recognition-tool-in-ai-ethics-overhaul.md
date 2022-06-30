@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft limits access to facial recognition tool in AI ethics overhaul"
-excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use ..."
-publishedDateTime: 2022-06-22T15:20:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
-webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
+excerpt: "Company also restricts use of custom neural voice technology owing to deepfake concerns"
+publishedDateTime: 2022-06-22T11:31:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "4RCsnRU8syoVeC/zyfQSGCx8uXayMC7O2qq3dWX9sDoETQR62g/jOYIkwNakbq+Hm1SQkIu68i9Mtva5GuyzG3PMbkpr5gTith1+LEk8t2hPdpSk9FB0HM+tSH0r4TC9aYlWRmXdSDof8oABebsLalM/BovFh5nih2HfZQwwNg25HmaKzX6BGG4z+fF2VzOemSDoDwa74ABvcXWdvvki1DNmfMDjZ5tToS+bfLPlpcA104neOAfaWW5o8EH/pAUdBhymt0CF3z/28COia8tmsIFZ9lfOXWS+W4CmxnewWd5QosE744nDR7aYmu4B5rbTbVFWGa50WB2XNgvvt4ms4PcHgSLikZ7tDItvD3QEQO4=;1HHQLkFysCV/4PQFJWzqLw=="
+secured: "I/rrMVM1KHzfK41JxYyekRzPqayDP+vVoVkfdVwvwohF+wgeBlCjw5h0JqMeaeTIdkXwk3ild6+2v/kyy/f6XqTBTva6EuToSGCAAFVz5/HBQicDD5Bv1/5Yq2u0APt/jvbH0UPe0X98f8nsXWkYXWq5Z6VRHVyIO+0ImOrmSq74gho4tYxc1xQln5ngp4z+dtQLNNzJuA+Cobhn0lLYCYxHXCKtpLEfXRJdIZRh57/hNfxXzkVxP4UAaN7+/oJQgguoSdpwtkkhRCKCgnmMJ3VtlF7higVz4rJk94iaWXJZMVrHaASN8F3Kqxb/SVNZLQ80yzXUKqWwwRTj5JvBCDD9F6ghq9Oz8NSx6+XRkrM=;bNThAOuH7u/ToPViQ9bJrQ=="
 ---
 

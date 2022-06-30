@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Process of allowing self-driving cars on UK roads has begun"
-excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
-publishedDateTime: 2022-06-27T14:11:00Z
-originalUrl: "https://www.getreading.co.uk/news/uk-world-news/process-allowing-self-driving-cars-24331951"
-webUrl: "https://www.getreading.co.uk/news/uk-world-news/process-allowing-self-driving-cars-24331951"
+excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
+publishedDateTime: 2022-06-27T11:34:00Z
+originalUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948"
+webUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948"
+ampWebUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
+cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Get Reading
-  domain: getreading.co.uk
+  name: Wales Online
+  domain: walesonline.co.uk
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i2-prod.walesonline.co.uk/news/uk-news/article24331943.ece/ALTERNATES/s615/0_roberto-nickson-Ddjl0Cicdr4-unsplash.png"
+    width: 615
+    height: 409
+    isCached: true
 
 related:
   - title: "China's Baidu races Waymo, GM to develop self-driving cars"
@@ -100,6 +108,6 @@ related:
       domain: express.co.uk
     quality: 0
 
-secured: "lXs0E+ib4LD9yysYHyxHoh2Zgg5ZfYPlJyylkMPeBz4wCGZo51zCvjfyCwsFdxGOC/Fk2Bv/QXC3I3m6rdPfLpmmcm76K1SyAZFZGl9AOiFZxRwcfEhCZdHzGyMUemHbkSLqh6E+9CI7azsWsTPe2bqxUOmDXeu1JJjCIeMw5F68DHHtSiRnvM15cXxigqJ27Qv8owHZ0rAN1bYQ+NzY7UWSMr6or1GRwjOA/7eUVSWNYoj3842GbkPuf9Dmy/yWb936oHuOTJaxxOFgfNc3r6nvdM+cLXDTOnz2ZHi+liTDz6KaViPmg/oOXd51j2nwKuZgb7d2ScSdQFjHDfMhKfNEo3HvjFNCOYWGuX3klLE=;UJbRQaQ27Fj+9LBQ0BueLQ=="
+secured: "xp+f6fyY3WbGvhdd+wpn1KVXM4QyPp4ejqTP0ufYO5ez7XoNuUwlFem50rKrW4Ig/wvoTDAN3VrbRdyDQEWDDoh05FrCb5iQmDecoyCdHGXs8lGjDlRlBmnzztEvE9njl82gNiXF2wyEXrexxztfxyWEr7uiTNBgCmJXsLNMRQla7hZXwA/EIwvKIm6cxCLj3efq6mKmHd64c1zjSuooDrTYMxvy/DMdZlf4jrXq8ke7tY+GF3ifmW5rsjL3tkDcPRXPzh7ePwCmNWz+YxqIvztk2L2yipwzKqaNy/JcjcnR3sU5+95drYlkBdrGygfjyDVpHFJjbmLLw3TSkaNv1pLasUDDE1r1j8Ai87DClSY=;QxsyutlrCnmcsRMNqLsNcg=="
 ---
 

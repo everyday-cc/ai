@@ -48,19 +48,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla’s layoffs hit Autopilot team as AI develops"
-    excerpt: "By Matt McFarland, CNN Business Tesla is increasingly turning to machines rather than humans as it attempts to develop autonomous vehicles. As part of Tesla’s plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists."
-    publishedDateTime: 2022-06-29T21:01:00Z
-    webUrl: "https://abc17news.com/news/2022/06/29/teslas-layoffs-hit-autopilot-team-as-ai-develops/"
+  - title: "Tesla's layoffs hit Autopilot team as AI develops"
+    excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
+    publishedDateTime: 2022-06-29T21:12:00Z
+    webUrl: "https://www.wicz.com/story/46792693/teslas-layoffs-hit-autopilot-team-as-ai-develops"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 54
     images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://CNNWIRE.images.worldnow.com/images/22925986_G.jpg?lastEditedDate=1656533572000"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "YnSMLy3VAILofTUZKQhyjfO28P2WnFF8xKLbxeklAnREfBfeudKnMQL9JFIG9fNH1D3f7x54NVBT9rFzMm+1G3DdfUQRFceSixnB3c2LlIGTQJDsbzhcq24fdEfBvPuLq/PQbIj8FVl/LkdRoPrF8hE7nMB6/E53iWncRVA079YEAiOc9cGFVkuGGjaeX5RyVdfagUrPEHc9k7AYgubYnPtLGqnjUm6qRh0rBjwxfdVbogSS3SUzOeuvHPWYViVLY5AV9YQ8N5KUWmAHbsxCc7FTm3cDwn5i+J2xw1uGWY7KmofjyUDcZq+wKdJSjhP3ZPoHkyFQyxPsFz2ysPV90DbuRIGfZbCb+3m1J8tBnM0=;0Puqh2UtT1dekJbdnDbO/w=="

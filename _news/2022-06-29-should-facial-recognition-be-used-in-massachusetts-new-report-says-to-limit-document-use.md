@@ -41,15 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Role of emerging technology in cancer care"
-    excerpt: "Cancer research is one of the most important research areas in healthcare globally, with over 18.1 million cases around the world in 2020 . Of these, 9.3 million are in men and 8.8 million"
-    publishedDateTime: 2022-06-25T12:11:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/role-of-emerging-technology-in-cancer-care/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 4
 
 secured: "qyaJ0xFZ8l3AOfBdvySSqxCK/jO5YSlIcxKZeEw9rk61NDuUOriiV7kiXoNUmgwrIXmYqkH1V6UIu6xJK1iFyBG36UTg2K8subQmcT+IyX0688w3PoSIrpBflBr+TLQlfQyOZEM5HP1SlQVbBJUn7tEMA37KQv6d884BONt8iqki91PhLsjLid4fDgwS8cJyQolBrhLdorkriun0WF+MZgEV9DCc+Ssz7f8Lhm1z1DngkTZeLw7rIsZBZAkMdTIbBY7sx/hrdowWsbRYzDV848ETl2wELoVZM0yXuuz+l7U7xc0Y+qP/WBZgfkdNIOPNGZOX3EiBrhn4GdcwquOVgP5KZla0pwfGjm+Wgq7UmWY=;3EB0Dq2XifiTMHWMD35d4Q=="
 ---

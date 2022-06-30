@@ -65,6 +65,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Process of allowing self-driving cars on UK roads has begun"
+    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
+    publishedDateTime: 2022-06-27T11:34:00Z
+    webUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948"
+    ampWebUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
+    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
+    type: article
+    provider:
+      name: Wales Online
+      domain: walesonline.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.walesonline.co.uk/news/uk-news/article24331943.ece/ALTERNATES/s615/0_roberto-nickson-Ddjl0Cicdr4-unsplash.png"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Road is opening up to allow self-driving cars on UK roads"
     excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
     publishedDateTime: 2022-06-28T14:10:00Z
@@ -81,15 +97,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Process of allowing self-driving cars on UK roads has begun"
-    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a common sight on public roads. This will include assessing ..."
-    publishedDateTime: 2022-06-27T14:11:00Z
-    webUrl: "https://www.getreading.co.uk/news/uk-world-news/process-allowing-self-driving-cars-24331951"
-    type: article
-    provider:
-      name: Get Reading
-      domain: getreading.co.uk
-    quality: 4
   - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
     excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
     publishedDateTime: 2022-06-27T17:34:00Z

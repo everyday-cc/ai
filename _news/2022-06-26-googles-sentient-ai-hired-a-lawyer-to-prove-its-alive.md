@@ -34,20 +34,6 @@ related:
         width: 800
         height: 399
         isCached: true
-  - title: "Stop debating whether AI is ‘sentient’ — the question is if we can trust it"
-    excerpt: "A more practical question is, how “compatible” are current neural networks with the human mind, and how far can we trust them?"
-    publishedDateTime: 2022-06-25T13:00:00Z
-    webUrl: "https://thenextweb.com/news/stop-debating-whether-ai-is-sentient-trust"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fsentient.jpeg&signature=3a19e7aa65818472b054905e82d18749"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
     excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
     publishedDateTime: 2022-06-26T22:20:00Z
