@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft retires AI facial analysis tool"
+    excerpt: "Keen to be on the right side of history, Microsoft has updated its guidelines for treating AI carefully and will retire a range of AI features from its Azure Face service that’s used with things like ID checks,"
+    publishedDateTime: 2022-06-30T02:56:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/microsoft-retires-ai-facial-analysis-tool.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 54
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/microsoft%20azure.jpg"
+        width: 821
+        height: 462
+        isCached: true
   - title: "Scrap police use of facial recognition"
     excerpt: "A LEADING QC has called for urgent legislation and regulation of biometric technologies including facial recognition following a review which produced a number of recommendations for the government. A review led by Matthew Ryder QC, commissioned by the Ada ..."
     publishedDateTime: 2022-06-29T16:29:00Z

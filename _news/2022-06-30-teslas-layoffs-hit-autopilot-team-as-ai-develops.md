@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Tesla's layoffs hit Autopilot team as AI develops"
-excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
+title: "Tesla’s layoffs hit Autopilot team as AI develops"
+excerpt: "By Matt McFarland, CNN Business Tesla is increasingly turning to machines rather than humans as it attempts to develop autonomous vehicles. As part of Tesla’s plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists."
 publishedDateTime: 2022-06-29T21:01:00Z
-originalUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
-webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+originalUrl: "https://abc17news.com/news/2022/06/29/teslas-layoffs-hit-autopilot-team-as-ai-develops/"
+webUrl: "https://abc17news.com/news/2022/06/29/teslas-layoffs-hit-autopilot-team-as-ai-develops/"
 type: article
-quality: 104
-heat: 134
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC 17 News
+  domain: abc17news.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220629161230-tesla-vehicle-autopilot-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -47,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Stock Split Seen Drawing AI Investors"
-    excerpt: "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things."
-    publishedDateTime: 2022-06-28T16:56:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Tesla Brings Back Enhanced Autopilot at Half the Cost of Full Self-Driving"
     excerpt: "Enhanced Autopilot offers a middle ground between Autopilot and Full Self-Driving, with additional highway and parking assist features for $6,000."
     publishedDateTime: 2022-06-28T15:32:00Z
@@ -75,6 +58,6 @@ related:
         height: 800
         isCached: true
 
-secured: "xBPP/GRpacWTmbm7eAxuH7j4BCw4US2SqaTPAHBIEegAOIkAbn0Tuv0bzfK59M2Ayp1BURo1MhxjNfFgkGgaOzf+8DALWNXYpMa0MWZjl7FOzGWvTEJmGB/2lMZMLfyPRIsWCi/nfx+eHNR8xgPBPSushKLpeQX8rRxsojofWxol5aqBpr/ENQ4w0SrZS5DXwz1XgQhKynU6rSzqrQ03gniHTXzmMENTshHECFZUaGMMkPTs4fsLJboKbKviWv8lJAMpkNTxwY6kPWdsigLYFBpIvq7UoQx8GsIlI+tsm9uLmrttx9Tdf18qAZnilrBEOnhKxkRpU3CzyI9BTkHUh1aPQoca2kuNIaWg3JhNqZrz0KlvKnxBTpINVrCap28mXxzHIPNddD/2PPVWeup3hq3SjHSlcBO/euhBvILeB1ZGbTkRZmCnXECdUDx++MGYuqg6kiAjFoZzi2oV0JiY310RADY1DCJzDpH7rSjdsc5R0a6T4AWQYXMmSVM/S5GYG1gl5vGrqb3aQhA7SPVO6A==;1TuoNKMIwRGpBF7D3y8nnQ=="
+secured: "9g4wEw80p6BDzN+rdd28tFmCQeab93bNtQUsFcLQNZM1ADuaLUAbP/XFgO9iOEGOgj3S1CHiGAkkvjCOhmKr5izyRXSg36UtUAYumvlIuvOfplB69Uu+nbdDdLUzu3PthMptB19ZGcbG2azwjMabT1zvRqNqU5T8dwPt3E/v2IvA1cqwbfUE8jXC0lFoHO2AoazbC88LWYIAbrdSpDHteHM+GvvnDEnqp42Etpm0VshdjVm0gMtTievHL+kFNuv1CZSAVHX+nvvjj5GYxsy/naSJ8gHVA87wuNR2SZgeWHzSXkTwldo7rYodc52WXQBpPmnhVWH7HY0vwVF7mARNPXRGkG0/UaWxVW0xGJ0YwDo=;p1C1h6ko1YqXy3hOWK50ew=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna35087"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087"
 type: article
 quality: 102
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://res.infoq.com/news/2022/06/microsoft-azure-responsible-ai/en/headerimage/generatedHeaderImage-1656053489141.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft retires AI facial analysis tool"
+    excerpt: "Keen to be on the right side of history, Microsoft has updated its guidelines for treating AI carefully and will retire a range of AI features from its Azure Face service that’s used with things like ID checks,"
+    publishedDateTime: 2022-06-30T02:56:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/microsoft-retires-ai-facial-analysis-tool.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 54
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/microsoft%20azure.jpg"
+        width: 821
+        height: 462
         isCached: true
   - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
     excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
