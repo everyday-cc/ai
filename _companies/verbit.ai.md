@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "verbit_"
   url: "https://twitter.com/verbit_"
-  followers: 1481
+  followers: 1482
 
 size: 51-200 employees
 locations:
