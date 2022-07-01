@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200"
@@ -70,6 +71,6 @@ related:
       domain: hothardware.com
     quality: 44
 
-secured: "hIJiTa/2VakQX4uhfRklMeBL8mip8n2cExRQQVyCOUpYg8PCQFCuSjbmPhWHIKNLtj2uKmDCSXQ8Tkeq9TsogIT2Rt3bR/LM5JsGXsuUpto8+dOrAhKOQ9Cn2L3KdnhwBNtIFokaXyLKZs2lnnDt+/u9Um9YyMHyCILWCAAxL6bqZumXHDh/nSlNR4ha73KdA+enjB5YoXKYOGOaw7tRboIWL1UJpvdI33Q/m6Xi1fc3mcZ/goguabnsJz6w2bTdLeS158SballOK9mWhsjQCadwSq1UqZ2ChrYsrlf7ff29Fzd2Qnu7AQuZ9VPcGW2d5TaugaDJ2brXut7NcS6fzfVPKqe5XFXWs1FanSIaIGc=;pxbRvIsEnDwZyErH+qw7OQ=="
+secured: "NMCX6mxBwC4WyU5LEsCx5a5fRIsyzSvYpXncjq2m63GK+ZZHrRqJSjAcAMtIKD0Q0DocvXyLYSuX6zWWFbXnbQWV+xH+K6xN+r6Pmnn4XDE1BBWImFy56YaODteg+oRXT38tOCCBKFnQIEzUbJH3Jv069TxblA1juhZhMlfWBXCjhtIoxbKPH+OUGDrVEEv/DD1k6+OodWBJ4lVWxWdA08HaHGTRd8cwI/FnndSBMC6xrgI9t56p+Xq5mHbyJhxWkvW0lgTsmL33se8ds/TD3MA+TJwpeLIgoBUF4ia04R7H0UU8FYrmg2VezQL4SPV4PpP7XJtQbIWG4NCVtxjzBfPvk3g8Od4qy9XOPnUDm7Sr3GxsLHUAN6S1aC3Fg4VzYJa/OOSKOndisxFfLRaklpb/Vioh0mRO26cFh3Msvg5YYJXv4ffI8vvQLsY5kxGfgdT1qW7e5228MfdA/zsWgkxldhrx8rha/O4jhwf9nRJJC8GAYEsC+czdzeUHN3MObSSfK9yu1iiNF/Sr36eCnA==;vcXRPLSIlIIuQVNbZfjayA=="
 ---
 

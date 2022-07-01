@@ -1,38 +1,29 @@
 ---
 category: news
 title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
-publishedDateTime: 2022-06-30T19:06:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
-webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
+excerpt: "VistaPath’s Sentinel is a first-of-its-kind pathology processing platform designed to seamlessly deliver a range of solutions for critical lab processes. The company’s first application, released in 2021,"
+publishedDateTime: 2022-06-30T19:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
 type: article
-quality: 65
-heat: 75
-published: true
+quality: 55
+heat: 55
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
-related:
-  - title: "AI Squared raises $6M to help companies integrate AI into existing applications"
-    excerpt: "Integration platform AI Squared announced today the closing of a $6 million seed round led by NEA with participation from Ridgeline Partners. Launched in 2021, AI Squared helps companies adopt artificial intelligence by using a low-code platform to integrate it into existing applications in a timely and straightforward manner."
-    publishedDateTime: 2022-06-27T13:57:00Z
-    webUrl: "https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "PtfOO2iWFd7pa9crr15bbBW2IxAJQ//k3OlAvE7ume8dwsQsjZjW9xeDwVycFSWA7Qr5E6HFu2rM5dRrEM9qoD7kx7RdRx1jajYqE8NF0xRl3fqf+1p8ZAhdMaCuaHPvzjopyAaZRXgGZUyqQ4kIp2OBO82GlOolFenwxcbDjmCPpbc0u076CJh9ip0zw6g1N9AfuKSJsdAygVQ5zNpUv4obPMr4/2NeHQgSN4dPSyw+ldRklsnfFN8hJ3XGnNxSoh9na94yH3uzVONDh0ZjvZqQ8vkiATcefvAMW0czOTdMhN4HuwDewrnyaTnhCd/MAcytOSFLxSuNlTNfzqed66P0SnszVPzkuce8qz0UFZo=;3rRmqdJAQHl21LwWaCyeRA=="
+secured: "EjBYg3Pkl5+z6hjrtcZyfFnUcajybe9Zf1V1RDkXgzvsc/FGsRjoL3qgv5/z0HIJK2qqxuJfgaX4DP7hdEX5Gs6Y/wjBhkqwHvM+mhd1hhpNXJKDnb4lQsMYz4EbupkRbfrF3GQGIetwqeaJik4sI05KOwcrh4dfsJzjBKZ+EP3bcg3BF+SYO8qNpqDbYFNLr31FnthBKbg0NvzXTGOqQ7WUN6BMo0wtY6VML42wvinhQbeZ+7hENpW89UbPPlYQdepjppeRlaWzlYK2bHqfAWKfV42kLBn6qhpCzjpBtUYq4fUdBe48IW06hFiY1SDamjtJYZEZ0zCXiSzAwlSu3fPZQGPqneLem/R6Fe2KRTI=;ANqp5EzE5008756OgFE5rQ=="
 ---
 

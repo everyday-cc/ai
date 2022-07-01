@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "AI can never be human"
-    excerpt: "All this is to say that human beings are, first and foremost, meaning making beings. That's what defines who we are, why we live, whom we love, whom we kill…etc. If we are honest, our lives are insufferably predictable and boring."
-    publishedDateTime: 2022-06-26T07:32:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2022/06/352_331642.html?fl"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=331642"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=331642"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 57
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Jason_Lim_w200_58f27a4c1006d.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 914
-        isCached: true
 
 secured: "274LBaRIDJscreMsN2vlIMDFl0+bduf9I7tHHZZtzdnmcsN3lKcnlHLBUACjjCOsKYIMCsSKJsKFrIkqYRkbz2mv9BPpipW4BmUkf/Wx36PAtyxzHwkBb2tp54wIK6vj/bVcSQ9P3cypDV6pgbPMzxlIshaUVeShNMY+lLa0vQX8AFd2/gHJPr+i5C6+Ecz7WovYoq+awpjzpnQXp+wMPMv4abXI4Lrq8sM8w3R9rc3K6Umdgi+Syi+cC1koLA7iX8rw9/M5FLEnbwMIpLuyrJitd7BJOeYSgqpTgN1/cK8R6xK8lmAjA05bv3nN9l7NvU9DcLocLjQHoLlV06mrBujcHJzAxGvvKC/i1Edi0bA=;9qHz3OiyP6D1IirKiGziWw=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Can an AI bot convince you that it's sentient?"
-    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
-    publishedDateTime: 2022-06-27T21:00:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "zXR0n53HzFuNTDkk05SOHsOLoqax3Iy5Ae+ykP0yA5J4t5uj+DkeRiW34zNl9NasVKv4A2PRlTZmj2ypsH034w5OsWk+4U13TL3iMdPxi0cJqnkQEAPhYlbO3l5yQwdmhfrJbaYyfdnRRCkdjdWXxmVW6uhIH0O/trMok16Yf0c1XJ9oqZr7hBC1oe89fymuKKDLuvNYavBgbUxmdtYlDmQb1n/sbrVrlaSu1it8ZdfsrZWgRJA+0ZSHl+He6zmVHEs42GZH2Muf8tzM+kgufiyKUDixiHEb4O8O3FIoZpu8DyiV0Q55n6b1O/BrtYq8LkV4Y/LPJ91lCNqJv/o5mP6R/d3LmNDqG4vSSX+BJkE=;oc3Rks/HMYH7O0uJQ3QE6A=="
 ---

@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-22-the-25-most-significant-new-york-city-novels-from-the-last-100-years.md",
+      "title": "The 25 Most Significant New York City Novels From the Last 100 Years",
+      "excerpt": "Four writers and one bookseller gathered over Zoom to make a list devoted to fiction in which the city is more than mere setting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/22/t-magazine/entertainment/22tmag-t25novels-slide-GHUM-copy/22tmag-t25novels-slide-GHUM-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
+      "publishedDateTime": "2022-06-22T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub.md",
+      "title": "Dubai Police In Collaboration With Continental Organises A Dialogue Session On Artificial Intelligence Driving Hub",
+      "excerpt": "AI Driving Hub and Continental have announced an initiative to use the technology in driver training. By using artificial intelligence and 3-D modules, the platform can simulate and then analyse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/dubai-police-collaboration-continental-organises-dialogue-session-artificial",
+      "originalUrl": "https://www.albawaba.com/business/pr/dubai-police-collaboration-continental-organises-dialogue-session-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-06/Image%201%20-%20AV%20Living%20Hub%20in%20use.JPG?itok=9TNGuAPn",
+          "width": 2572,
+          "height": 1717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/dubai-police-collaboration-continental-organises-dialogue-session-artificial",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/dubai-police-collaboration-continental-organises-dialogue-session-artificial",
+      "publishedDateTime": "2022-06-22T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-create-ai-optimized-resumes-that-get-you-hired-with-resoume.md",
       "title": "Create AI-optimized resumes that get you hired with Resoume",
       "excerpt": "This user-friendly resume, portfolio, and cover letter builder helps job seekers craft beautifully designed, ATS-ready documents that get positive attention from humans and AI.",
@@ -771,6 +866,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-22-researchers-release-open-source-photorealistic-simulator-for-autonomous-driving.md",
+      "title": "Researchers release open-source photorealistic simulator for autonomous driving",
+      "excerpt": "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they've proven fruitful test beds for safely trying out dangerous driving scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/researchers-release-op.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp",
+      "publishedDateTime": "2022-06-21T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028.md",
       "title": "Artificial Intelligence (AI) Chipset Market Size, Worldwide Opportunities, Driving Forces, Future Potential 2028",
       "excerpt": "Jun 21, 2022 (Market Insight Reports) -- Latest Report Artificial Intelligence (AI) Chipset Market by Type (Deep Learning, Neural networks, Natural language processing, Others), By Application ...",
@@ -1011,146 +1149,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-cognitive-services-market-technological-advancement-growth-analysis-with-forecast-to-2028.md",
-      "title": "Cognitive Services Market Technological Advancement & Growth Analysis with Forecast to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 21, 2022 (Market Insight Reports) -- New Analysis Of Cognitive Services Market overview, spend analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-technological-advancement-growth-analysis-with-forecast-to-2028-2022-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-technological-advancement-growth-analysis-with-forecast-to-2028-2022-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-inrule-technology-delivers-workflow-automation-to-democratize-ai-and-machine-learning.md",
-      "title": "InRule Technology delivers workflow automation to democratize AI and machine learning",
-      "excerpt": "InRule Technology, an intelligence automation company, is adding AutoML within xAI Workbench, the company’s suite of machine learning modeling engines. “For organizations seeking to empower non-data science staff to build machine learning models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
-      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
-      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

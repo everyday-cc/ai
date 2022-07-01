@@ -24,36 +24,86 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Controversial AI Bot Story Keeps Getting More Wild"
-    excerpt: "Google recently made waves when it put an employee on administrative leave after he claimed that the company's LaMDA AI has gained sentience, personhood, and a soul. As outlandish as that might sound, there's more to the story. Blake Lemoine, the engineer ..."
-    publishedDateTime: 2022-06-27T20:18:00Z
-    webUrl: "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/"
+  - title: "It’s alive! How belief in AI sentience is becoming a problem"
+    excerpt: "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-06-30T14:00:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 67
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://www.slashgear.com/img/gallery/googles-controversial-ai-bot-story-keeps-getting-more-wild/l-intro-1656359836.jpg"
-        width: 1600
-        height: 900
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
+        width: 2500
+        height: 1623
         isCached: true
-  - title: "Suspended Google Engineer Claims LaMDA AI Can “Escape Control”"
-    excerpt: "Google engineer Blake Lemoine caused a stir earlier this month when he claimed that the search giant’s LaMDA chatbot has gained sentience. Following his claims, Google put him on administrative leave for violating its confidentiality policy."
-    publishedDateTime: 2022-06-27T07:33:00Z
-    webUrl: "https://www.gizbot.com/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/suspended-google-engineer-claims-lamda-ai-can-escape-control-081401.html"
+  - title: "How belief in AI sentience is becoming a problem"
+    excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
+    publishedDateTime: 2022-06-30T15:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-belief-in-ai-sentience-is-becoming-a-problem/article65586810.ece/amp/"
     type: article
     provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 57
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: "https://www.gizbot.com/img/2022/06/human-levelai1-1653461497-1656314967.jpeg"
-        width: 600
-        height: 337
+      - url: "https://th-i.thgim.com/public/sci-tech/technology/ptka6f/article65586870.ece/alternates/LANDSCAPE_615/airepl.jpg"
+        width: 615
+        height: 383
         isCached: true
+  - title: "How believing AI 'behaving like humans' is becoming problematic"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-06-30T14:48:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
+    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
+    publishedDateTime: 2022-06-30T16:01:00Z
+    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 31
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
+        width: 708
+        height: 419
+        isCached: true
+  - title: "Google Engineers Says An AI Chatbot They Made Is \"Alive\" (It Is Not)"
+    excerpt: "Google Engineer Blake Lemoine told Bloomberg's Emily Chang about some of the things that led him to think that a Google product called \"LaMDA\" was a sentient AI, like in a movie. He says it made a joke about the Israeli-Palestinian conflict."
+    publishedDateTime: 2022-06-26T13:03:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2022/06/26/google_engineers_says_an_ai_they_made_is_alive_it_is_not.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 17
+  - title: "This Google Engineer Says An AI Chatbot They Made Is \"Alive\" (It Is Not)"
+    excerpt: "Google Engineer Blake Lemoine told Bloomberg's Emily Chang about some of the things that led him to think that a Google product called \"LaMDA\" was a sentient AI, like in a movie. He says it made a joke about the Israeli-Palestinian conflict."
+    publishedDateTime: 2022-06-26T14:03:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2022/06/27/google_engineers_says_an_ai_they_made_is_alive_it_is_not.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 16
 
 secured: "sLhHJ/nR3Rn+UMqRHh+JjuMIA1Bxi4sebvM8podDr8V00fKFgne8oQOTBRYnrVBZaa38mIipT1fmF704xJ0lcLavPR1wq07WGpdo8GKU6hUrJkZofJbZY3D10GO/wBh/RHHU0kiCASSarbwroXZkgjb32Z3p86z4tJaH64t1/PLSt9VZQec3WP+aNxuYmBg7EODtFnCdRfrZODUqKX08l4PeAq4slwyi9Zw0crDbTViZvuO/AuI1G1euJwj8C50ZIKbZMftTW8+Y6p7TJ1hFp1tqPqZHGB+msnwXfjyc03LejNwtEO3eV+74chaKNFmvbOO6hTaiYQuryhNuRYskWjmHd0ErVmQekzD2LyXzFFQJ9CU1EeStSRX52eLTi5zmxAgr96FqsnEitqXGljiMD4KHXYpQWIl5XnSIZecX7QkEXYKZwdqNuI2W8VHiZiV+a5MsECngdupKDBdOQH56aNnL058KprpqM5gzGjYzjCqwePKyptT460ZTuCZIey6MnyTc/Tsgy1Zw+D5VV+pTCQ==;ETbBWUKmbVx4P6nE30WtJw=="
 ---

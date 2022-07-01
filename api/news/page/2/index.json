@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-29-hyperparameter-optimization-for-fine-tuning-pre-trained-transformer-models-from-hugging-face.md",
+      "title": "Hyperparameter optimization for fine-tuning pre-trained transformer models from Hugging Face",
+      "excerpt": "Large attention-based transformer models have obtained massive gains on natural language processing (NLP). However, training these gigantic networks from scratch requires a tremendous amount of data and compute. For smaller NLP datasets, a simple yet effective strategy is to use a pre-trained transformer,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/hyperparameter-optimization-for-fine-tuning-pre-trained-transformer-models-from-hugging-face/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/hyperparameter-optimization-for-fine-tuning-pre-trained-transformer-models-from-hugging-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/29/Featured-images-for-ML-9045.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T09:57:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward.md",
       "title": "Wells Fargo CIO: AI and machine learning will move financial services industry forward",
       "excerpt": "Wells Fargo is incorporating artificial intelligence (AI) and machine learning (ML) initiatives to accelerate operations and better understand customer data.",
@@ -357,6 +409,48 @@
       ]
     },
     {
+      "path": "_news/2022-06-29-using-ai-to-identify-chick-distress-calls-in-large-poultry-farms.md",
+      "title": "Using AI to identify chick distress calls in large poultry farms",
+      "excerpt": "A team of researchers from the City University of Hong Kong, working with several colleagues from the U.K., has modified an AI application for use in detecting chick distress calls in noisy environments.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.html",
+      "originalUrl": "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/poultry-farm.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-chick-distress-large-poultry.amp",
+      "publishedDateTime": "2022-06-29T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
       "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
       "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
@@ -563,7 +657,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -645,49 +739,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp",
-      "publishedDateTime": "2022-06-29T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1044,7 +1095,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/28/how-to-use-human-centered-ai-with-forethought-and-nea/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1181,57 +1232,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-as-ai-advances-will-human-workers-disappear.md",
-      "title": "As AI Advances, Will Human Workers Disappear?",
-      "excerpt": "If you’ve recently eaten at a fast-food restaurant, driven on a toll road or checked out groceries at the supermarket, you may have noticed one thing they all have in common: Many people who used to help you have been replaced by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/amp/",
-      "publishedDateTime": "2022-06-28T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

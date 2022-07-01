@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/science/2022/jun/29/ai-could-improve-wel
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "AI that detects chicken distress calls could improve farm conditions"
-    excerpt: "An AI has been trained to identify and count chickens’ distress calls. Farmers could use the tool to improve conditions for chickens raised on crowded commercial farms. As of 2020, there were more than 33 billion chickens around the world, according to ..."
-    publishedDateTime: 2022-06-28T23:15:00Z
-    webUrl: "https://www.newscientist.com/article/2326521-ai-that-detects-chicken-distress-calls-could-improve-farm-conditions/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/06/28214135/SEI_112031939.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "cfGF4EDjc/Cd5EZSVJ9mJhDPZILTj1bnvaZ37zoeL0mOUiGm1HbY4BFYPZR07LnpKi/p4dEROBs83ZFs3VagKv+VPvKbpE87Ke2KK4WsVAo5yAqjEl5v7JGaXG79L9ewGI4DFR1cN+YvCHKNynxBNih+TBwY5vfa3hHrFK8RkbkuCQY8keMSgJOj7D2/yHhgjm+veRko6iZqQ+u8T2UV2c3q2Ot0FrCndjGj8tTzMQ7jj4iKf3qEji2c5K4PfiegUXlCV5ykMb3LzPlaDm6rje/uPvpYyqvrAD3GxJF2QW/ZjP1bot5n9lXRDU5m858cGXIw3KuBsQ2/FgOAs5KISi+fzJUU7D8mxEfJRvloe75lGnvJRZ2T/fJri5G1A+lH5CfcfAcOl/N0S/L1jPW307GiExBg7pYBt3YoOgNsPuFNCSkRYhdQr15EUcZOEJz3g4u3ApuY28OUJlrN8At5fwIqNVKxOLErHY2aG1i+vrnq9JGqVBwzTg/+nJNxngbVXUHpnRQ89gm8tvKEPKcMoA==;s/Gku792GUZdES34yYB/pQ=="
 ---

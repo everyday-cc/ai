@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -232,6 +232,58 @@
         "Microsoft AI",
         "Machine Learning",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
+      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
+      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1209,8 +1261,8 @@
       "title": "InRule Technology delivers workflow automation to democratize AI and machine learning",
       "excerpt": "InRule Technology, an intelligence automation company, is adding AutoML within xAI Workbench, the company’s suite of machine learning modeling engines. “For organizations seeking to empower non-data science staff to build machine learning models ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx",
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153592",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153592",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1345,50 +1397,6 @@
         "AI in Healthcare",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market.md",
-      "title": "The role of machine learning and artificial intelligence in transforming residential real estate market",
-      "excerpt": "One of the primary reasons for this change is the revolutionary use of machine learning and artificial intelligence in the real estate market. While their contributions may not be evident, changes are apparent when comparing the present-day residential ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/",
-      "originalUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/388134892.jpg",
-          "width": 1200,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/",
-      "publishedDateTime": "2022-06-21T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

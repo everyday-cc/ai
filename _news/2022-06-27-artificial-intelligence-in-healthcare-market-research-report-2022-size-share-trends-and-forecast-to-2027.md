@@ -25,24 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning in Education Market 2022 Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast 2028"
-    excerpt: "Machine Learning in Education Market 2022-2028 A New Market Study, Titled \"Machine Learning in Education Market"
-    publishedDateTime: 2022-06-28T06:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-education-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028-2022-06-28"
+  - title: "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030"
+    excerpt: "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ..."
+    publishedDateTime: 2022-06-27T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
-  - title: "Face Recognition Device Market 2022 Size, Share, Growth Analysis, Development and Plans, Revenue, Sales, Key Segment and Forecast to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 27, 2022 (The Expresswire) -- Global “Face Recognition Device Market” research report 2022 provides specific segments by manufacturers, global growth trends ..."
-    publishedDateTime: 2022-06-27T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-size-share-growth-analysis-development-and-plans-revenue-sales-key-segment-and-forecast-to-2028-2022-06-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market 2022 Emerging Technologies, Global Growth, Share, Industry Size, Major Manufacturers, Regions, and Forecast to 2025"
     excerpt: "Global “Machine Learning Market” research report includes market size estimates, consumer growth, revenue share"
     publishedDateTime: 2022-06-29T06:37:00Z

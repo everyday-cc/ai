@@ -47,6 +47,20 @@ related:
         width: 844
         height: 633
         isCached: true
+  - title: "Modular raises $30M to ease AI development and deployment"
+    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
+    publishedDateTime: 2022-07-01T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
+        width: 1030
+        height: 577
+        isCached: true
   - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility,"
     excerpt: "Enerfy Global provides AI-driven data analytics, business intelligence, and deep driving risk insights to the mass market quickly and intuitively. Self-onboarding resonates well with insurance, mobility, and fleet solution providers globally, who require ..."
     publishedDateTime: 2022-06-30T11:51:00Z
@@ -72,6 +86,15 @@ related:
         width: 1194
         height: 627
         isCached: true
+  - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility, and fleets"
+    excerpt: "Greater Than (GREAT.SE), the global provider of DriverDNA for real-time insurance and predictive risk insights, has announced the first edition of a new self-onboarding solution for connected car services."
+    publishedDateTime: 2022-06-30T12:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631705.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "1t/bdz7NcZm9lKmY7eEz0nVpOLEILSGc3/A3YxX6eFEBse5mz6h9GF1yW9xeY1Yt2j+4qA64PEbbNcinvsvQ0Cm2H2o0qJEQAM+eKvs+ySmwKs44vdu2VC4EJ4pMlrbtQsKiBu6RDRQQd9lBl7E/IXK0w20Pf2sHBAyB9kej769/LwXej5TIX/dq0MbENoztkxjumN8y2EKH0H0IeB0ACMGeRcbTNQUJtximWosIL/rP2qXpqEwSWr7C75okFEkxX9JXPIO04SFIhNdlOmBbmkUQffs7Tcm3Wf2EvO5DbibqUMkA3JkZDrBqLptVoGZjMWhyN34SNDIjX/nZ7qYFQ7JNMIoClBSxvtxDDYau5JM=;7h+ODquE9u6n5TXqK5H08w=="
 ---

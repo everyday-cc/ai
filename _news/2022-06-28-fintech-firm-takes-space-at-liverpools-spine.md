@@ -81,15 +81,6 @@ related:
         width: 578
         height: 325
         isCached: true
-  - title: "The pain of KYC in fintech"
-    excerpt: "KYC is not just an important part of regulatory compliance – it's one of the hardest parts of an app's customer flow to get right, writes Tim Strebkov."
-    publishedDateTime: 2022-06-26T08:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/the-pain-of-kyc-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 19
 
 secured: "+kCF2s6mvw1/V7GvzbDHlwC49fD/uzYCKSWnGXOYMt8bEa0Q07R3Rxbm2rcvYcymNjTfzfdPpp5ZX6TC6T7S4T1zLfxnehAPl/SG1CLI+GC9oc7R2An3To56BBLUNF/V2IEwYOX1n2LJYIoIP/BBfvOjBECpLXctDpxiSJQSKcWz1QZEz6Rldr97PL+ZRapIi9Wx0fqfyDvKE7s2Iyl5CsnBviqv8QoELzJEChYrdMqiFk1QTGeB5M/WJmXsL25UTPJ/G/kAadHKQ9Qcqes8tSt5fkKA/+OzryiJtIawjPkisb1c/NQb/HX/NtRXl6Dz3vnwyOmFTJiqPnjvxmZcLEkKlzBEFulFcdudqQcezFw=;UdhIcvjubfeyAKK4OGfmAQ=="
 ---

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.popsci.com/uploads/2019/04/16/HZRNWKAVJZA5SQVXP5ETYOIOEM.jpg?auto=webp&width=720&crop=16:9,offset-x50"

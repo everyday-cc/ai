@@ -48,6 +48,20 @@ related:
         width: 844
         height: 633
         isCached: true
+  - title: "Modular raises $30M to ease AI development and deployment"
+    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
+    publishedDateTime: 2022-07-01T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
+        width: 1030
+        height: 577
+        isCached: true
   - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
     excerpt: "In a preemptive effort to trigger capital inflow into Ukraine for the post-war era, Deep Knowledge Analytics (DKA), the flag"
     publishedDateTime: 2022-06-27T11:18:00Z
@@ -73,6 +87,15 @@ related:
       name: Europa Press
       domain: europapress.es
     quality: 13
+  - title: "Greater Than's new self-onboarding platform puts AI driver risk analytics seamlessly into hands of insurance, mobility, and fleets"
+    excerpt: "Greater Than (GREAT.SE), the global provider of DriverDNA for real-time insurance and predictive risk insights, has announced the first edition of a new self-onboarding solution for connected car services."
+    publishedDateTime: 2022-06-30T12:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631705.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "HAEdEvTQaQDyyxMPY7yVbB94bA1vsdxsKgr3LLmG/ygvLe56PRRENQMmQyEESMRaeAOkHKPrnqwO3sjFoGVIPA5Ux7JCsC0TjZutP9Frc3L4olp6M9HOMOyehyaHouy/h6uN52hMDMHuIbKHp0fbej3JuiVNcBZLwy4MpMvKGZZimkWW+44typyD9KPW/1pvN/jA/a6kufOkCKNOvPmJ/pobf5Ak9M0nnWA7GFlZ+WGKpwxY09GbF0GH96Fm7uIkgx97eMYC644J35vWV7HVhsbqGkdJu8l/9qEIjKkN282pNkrKkE4tgs13JwSgMM8K3N0xI07FATIgOwC3Ki/DPRhGqpaoquH5BKw/2H+kk8A=;0iCNOIbNf3cTWvqFyo48Dg=="
 ---

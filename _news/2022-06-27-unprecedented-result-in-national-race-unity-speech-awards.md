@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Teens share joint victory in New Zealand's national Race Unity Speech Awards"
-    excerpt: "For the first time in the Race Unity Speech Awards history, two young speakers have been named joint national champions. Joe Howells of Kerikeri High School and Sheryl Chand of Solway College in Masterton are the joint champions of the awards,"
-    publishedDateTime: 2022-06-26T08:38:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2022/06/teens-share-joint-victory-in-new-zealand-s-national-race-unity-speech-awards.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/06/teens-share-joint-victory-in-new-zealand-s-national-race-unity-speech-awards.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/06/teens-share-joint-victory-in-new-zealand-s-national-race-unity-speech-awards.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 41
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2022/06/teens-share-joint-victory-in-new-zealand-s-national-race-unity-speech-awards/_jcr_content/par/image.dynimg.768.q75.jpg/v1656230548003/supplied-police-joe-howells-sheryl-chand-1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Kerikeri High School student joint national Race Unity Speech award winner"
     excerpt: "A Kerikeri High School student has been crowned the joint national winner of the Race Unity Speech Awards. Joe Howells was named a winner alongside Sheryl Chand, of Solway College"
     publishedDateTime: 2022-06-26T23:16:00Z

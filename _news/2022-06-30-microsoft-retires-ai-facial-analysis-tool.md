@@ -57,20 +57,15 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Microsoft Limits Public Access to AI-Powered Facial Analysis Features"
-    excerpt: "Fran Mendez discusses event-driven or asynchronous APIs, comparing AsyncAPI with OpenAPI/Swagger, AMQP/MQTT/Kafka with HTTP, and publish/subscribe with request/response. Lola Priego, Jose del Pozo ..."
-    publishedDateTime: 2022-06-26T07:16:00Z
-    webUrl: "https://www.infoq.com/news/2022/06/microsoft-azure-responsible-ai/"
+  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
+    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
+    publishedDateTime: 2022-07-01T00:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2022/06/microsoft-azure-responsible-ai/en/headerimage/generatedHeaderImage-1656053489141.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
     excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
     publishedDateTime: 2022-06-28T12:28:00Z

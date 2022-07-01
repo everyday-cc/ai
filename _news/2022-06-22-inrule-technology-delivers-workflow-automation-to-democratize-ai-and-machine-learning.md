@@ -3,8 +3,8 @@ category: news
 title: "InRule Technology delivers workflow automation to democratize AI and machine learning"
 excerpt: "InRule Technology, an intelligence automation company, is adding AutoML within xAI Workbench, the company’s suite of machine learning modeling engines. “For organizations seeking to empower non-data science staff to build machine learning models ..."
 publishedDateTime: 2022-06-21T17:46:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/InRule-Technology-delivers-workflow-automation-to-democratize-AI-and-machine-learning-153592.aspx"
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153592"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153592"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 594
     isCached: true
 
-secured: "/1vmh6GcvWoFRqnKdtG5p/MSiVSHi2EVelgc1qE0NO+ukz382jr03Ln3NgHCq81lyR18ltLTTldhoghluhYcuJjvqHnlrEKbc9jn0bLMAO4sRX66mYVYSq5jJI/zCSY0PslmE0m7nL0rP05mJzdrk6t7iPSYOTFp5ORQRdxlDra5ufSzOn80u6Sh6lTbZB2G+RtqI2PGRpvZx1BceJFGtQJGyFeG9oOz2+v7PNa0FSx4SWsoSCRVc+Kog29PNO072/Bp/KGl75QskxijvTwTg+dhVdZPw1ZkDhg2sKPBqrDobn4EerWTpd1wtufcBZo12tQTdlTEItYN5hgPwVnYF6Ac58XIcL+rCd+/+jWLsZY=;a1LdLSEeSWfux7Wrh61+Dw=="
+secured: "Xm0Q5I9p1Ga+SFR/Q9t15sZH8p1wu3SFZO5NlmMV3g/AzT9qyP4AZidnhCbJfK7OT+1gqqzn0fC0FvAR5w6SXc17Fh578iL21wnoYOWS0lvpYkaJCY9j3Oan8fzvZh/cYz1Wse3glhH5yDgifSwMm/SquXO0P6g1RkOCJ66T7sFesM7AU6w1W7a2DzMxZio3FuIVJHHh2sbmGi1jy9l+PJceJKDTnTK+V2ZGTMGHBCqEa+gTAEVeAvF/RveKQxjGKfEm/O7DL2a0Lr3/4DlHUj6sIjgqnoTo1nG5HajntNHbZaj0cZFaOa5exEGikn+csIA8Cm7FZU2Q7lwjfrYU/GIGNB6fq8v8lhcJjGW5CUs=;t5P2C+E/fgN0aoT51zOObA=="
 ---
 

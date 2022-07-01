@@ -204,7 +204,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/430266",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -235,6 +235,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools.md",
+      "title": "Grand Rapids State Bank provides financial literacy learning resources to local schools",
+      "excerpt": "Local students are getting a free education in how to manage their money. Thanks to Grand Rapids State Bank’s sponsorship, over 1,740 students and teachers at 11 schools in Itasca",
+      "sourceUrl": null,
+      "webUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
+      "originalUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/grandrapidsmn.com/content/tncms/assets/v3/editorial/3/9d/39dc0ea4-f3f5-11ec-989f-37ca0def542b/62b612d1e6628.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-25T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grand Rapids Herald-Review",
+        "domain": "grandrapidsmn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1271,50 +1314,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk.md",
-      "title": "Machine learning-led decarbonisation platform Ecolibrium launches in the UK",
-      "excerpt": "Ecolibrium launches in the UK today having already signed its first commercial contract with Integral, JLL's UK engineering and facilities service ... Ecolibrium's proprietary machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=facebook",
-          "width": 2700,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

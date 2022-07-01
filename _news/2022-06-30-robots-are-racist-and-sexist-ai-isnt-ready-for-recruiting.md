@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/suzanne-lucas/robots-are-racist-sexist-ai-isnt
 webUrl: "https://www.inc.com/suzanne-lucas/robots-are-racist-sexist-ai-isnt-ready-for-recruiting.html"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

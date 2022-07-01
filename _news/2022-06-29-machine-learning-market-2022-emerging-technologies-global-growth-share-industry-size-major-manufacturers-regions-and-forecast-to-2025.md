@@ -23,15 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning in Education Market 2022 Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast 2028"
-    excerpt: "Machine Learning in Education Market 2022-2028 A New Market Study, Titled \"Machine Learning in Education Market"
-    publishedDateTime: 2022-06-28T06:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-education-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028-2022-06-28"
+  - title: "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030"
+    excerpt: "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ..."
+    publishedDateTime: 2022-06-27T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Research Report 2022, Size, Share, Trends And Forecast To 2027"
     excerpt: "SHERIDAN, WYOMING, UNITED STATES, June 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intell"
     publishedDateTime: 2022-06-27T10:14:00Z
@@ -46,15 +51,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Face Recognition Device Market 2022 Size, Share, Growth Analysis, Development and Plans, Revenue, Sales, Key Segment and Forecast to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 27, 2022 (The Expresswire) -- Global “Face Recognition Device Market” research report 2022 provides specific segments by manufacturers, global growth trends ..."
-    publishedDateTime: 2022-06-27T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-size-share-growth-analysis-development-and-plans-revenue-sales-key-segment-and-forecast-to-2028-2022-06-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
 
 secured: "5K2grQKXbMHKO4ix+VnrY5IW4fyQ2UaxdUfyPKtS+lzIKbG68hJ9+q0okyOuyTEjdiD7lZTc+a6n8GwxDwnz3Zo0mJCtK3LCUL1HfSzltZKfq+OcVbZQqp/i7Xp6zzRbZ9e+TzLHJVn8mCFP3cYwv6PXD1zs3HkmcJGzUIue+AX0dyUPil+yRgUh2ElP1OJpWNiH5L2XyYXt4dGSpsOepnnMLx4elU9KSAe+uE9xYfFTGyRdCW5oq8kkKvLuJkTWNjAFhytgcMAqitKfqhgNvecqoJaknoWTlfSu92oHeNo935b/WKzjnTVQ+VPNqHnGOQkDoEU5lxpIh2tDw2rS6jHXc8NtXAvtwsNdSxLnO44=;0xFJbNJpXqI+qKCdh9HicA=="
 ---

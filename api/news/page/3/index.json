@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-28-as-ai-advances-will-human-workers-disappear.md",
+      "title": "As AI Advances, Will Human Workers Disappear?",
+      "excerpt": "If you’ve recently eaten at a fast-food restaurant, driven on a toll road or checked out groceries at the supermarket, you may have noticed one thing they all have in common: Many people who used to help you have been replaced by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/amp/",
+      "publishedDateTime": "2022-06-28T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam.md",
       "title": "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam",
       "excerpt": "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ...",
@@ -440,7 +491,7 @@
       "originalUrl": "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -776,6 +827,58 @@
         "Facebook AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
+      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
+      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1121,99 +1224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification.md",
-      "title": "Poolbeg Pharma Partner Completes AI Model for RSV Drug Identification",
-      "excerpt": "Poolbeg Pharma PLC said Monday that partner OneThree Biotech has completed its artificial intelligence model optimization to identify treatments for respiratory syncytial virus, with results expected in the fourth quarter. The pharmaceutical company said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "originalUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "publishedDateTime": "2022-06-27T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer.md",
-      "title": "Google’s ‘sentient AI’ likened to a 7-year-old child by engineer",
-      "excerpt": "A former engineer at Google has likened one of the company’s artificial intelligence programs to a seven or eight-year-old child. Blake Lemoine was put on administrative leave from Google after claiming the tech giant’s LaMDA (Language Model for Dialogue Applications) had become self-aware.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
-      "originalUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339",
-          "width": 600,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
-      "publishedDateTime": "2022-06-27T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

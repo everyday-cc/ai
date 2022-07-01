@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-27-poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification.md",
+      "title": "Poolbeg Pharma Partner Completes AI Model for RSV Drug Identification",
+      "excerpt": "Poolbeg Pharma PLC said Monday that partner OneThree Biotech has completed its artificial intelligence model optimization to identify treatments for respiratory syncytial virus, with results expected in the fourth quarter. The pharmaceutical company said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
+      "originalUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
+      "publishedDateTime": "2022-06-27T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer.md",
+      "title": "Google’s ‘sentient AI’ likened to a 7-year-old child by engineer",
+      "excerpt": "A former engineer at Google has likened one of the company’s artificial intelligence programs to a seven or eight-year-old child. Blake Lemoine was put on administrative leave from Google after claiming the tech giant’s LaMDA (Language Model for Dialogue Applications) had become self-aware.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
+      "originalUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339",
+          "width": 600,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
+      "publishedDateTime": "2022-06-27T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-meta-builds-ai-models-for-realistic-sound-experience-in-vr-environments.md",
       "title": "Meta builds AI models for realistic sound experience in VR environments",
       "excerpt": "Meta (formerly Facebook) has built three new artificial intelligence (AI) models designed to make sound more realistic in mixed and virtual reality experiences",
@@ -104,7 +197,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/430266",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -156,7 +249,7 @@
       "originalUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -606,6 +699,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-25-grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools.md",
+      "title": "Grand Rapids State Bank provides financial literacy learning resources to local schools",
+      "excerpt": "Local students are getting a free education in how to manage their money. Thanks to Grand Rapids State Bank’s sponsorship, over 1,740 students and teachers at 11 schools in Itasca",
+      "sourceUrl": null,
+      "webUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
+      "originalUrl": "https://www.grandrapidsmn.com/business/grand-rapids-state-bank-provides-financial-literacy-learning-resources-to-local-schools/article_2aeb8bf4-f3f5-11ec-9cd4-0b48ac9c8c29.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/grandrapidsmn.com/content/tncms/assets/v3/editorial/3/9d/39dc0ea4-f3f5-11ec-989f-37ca0def542b/62b612d1e6628.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-25T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grand Rapids Herald-Review",
+        "domain": "grandrapidsmn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-nigerias-oil-sector-looks-on-as-robotics-adoption-picks-up.md",
       "title": "Nigeria’s oil sector looks on as robotics adoption picks up",
       "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
@@ -992,17 +1128,17 @@
       "title": "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)",
       "excerpt": "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park.",
       "sourceUrl": null,
-      "webUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
-      "originalUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
+      "webUrl": "https://www.albanyherald.com/features/arts_entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_1e06e6d6-9801-5482-9407-ff805f016640.html",
+      "originalUrl": "https://www.albanyherald.com/features/arts_entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_1e06e6d6-9801-5482-9407-ff805f016640.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400",
+          "url": "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/custom/image/01b25422-d8d8-11e6-bb31-5378351eadac.jpg?resize=600%2C315",
           "width": 600,
-          "height": 400,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1015,8 +1151,8 @@
       "publishedDateTime": "2022-06-24T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Marietta Daily Journal",
-        "domain": "mdjonline.com",
+        "name": "Albany Herald",
+        "domain": "albanyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1027,143 +1163,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-an-ai-learned-to-play-minecraft-and-its-actually-pretty-good.md",
-      "title": "An AI Learned to Play Minecraft, and It's Actually Pretty Good",
-      "excerpt": "Open AI engineers revealed their experiment in a research paper and subsequent blog post this week. OpenAI’s model was able to move beyond basic crafting and survival and actually perform many ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533",
-      "originalUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp",
-      "publishedDateTime": "2022-06-24T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services.md",
-      "title": "Analyze and tag assets stored in Veeva Vault PromoMats using Amazon AppFlow and Amazon AI Services",
-      "excerpt": "In a previous post, we talked about analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services and the Veeva Vault Platform’s APIs. In this post, we explore how to use Amazon AppFlow, a fully managed integration service that enables you to securely transfer data from software",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/analyze-and-tag-assets-veeva.jpg",
-          "width": 1248,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T10:56:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-the-smartest-way-to-play-the-autonomous-vehicle-boom.md",
-      "title": "The Smartest Way to Play the Autonomous Vehicle Boom",
-      "excerpt": "Breuer “invented” the concept of self-driving cars. At the time, it was considered a wild concept from a zany novelist. But over the following century, Breuer’s concept of autonomy inspired ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/hypergrowthinvesting/2022/06/the-autonomous-vehicle-boom-self-driving-car-stocks/",
-      "originalUrl": "https://investorplace.com/hypergrowthinvesting/2022/06/the-autonomous-vehicle-boom-self-driving-car-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2022/02/electric-autonomous-vehicles-city.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

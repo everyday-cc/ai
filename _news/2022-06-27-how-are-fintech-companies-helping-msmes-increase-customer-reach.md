@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/430266"
 webUrl: "https://www.entrepreneur.com/article/430266"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 578
         height: 325
         isCached: true
-  - title: "The pain of KYC in fintech"
-    excerpt: "KYC is not just an important part of regulatory compliance – it's one of the hardest parts of an app's customer flow to get right, writes Tim Strebkov."
-    publishedDateTime: 2022-06-26T08:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/the-pain-of-kyc-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 19
 
 secured: "QqJOQva+tXdN4ad6uqFzD85gyTg0ALF8wdYwZpSBWio/nxPNOZKXtcq3uXLc3vlYTHLNnzh8nbppt4rZhUmkvueizuUZqi59yb+yzaecJanFKhEeoYl00F2rVTbflE76rYW+ILK7Yiv2or48tPI5PpVsZm80WmybcOssd9Z9yOjR4DlcM0UE+3lsJ8mKJdZwKJFjEuLGyh2D+/YEDQ3QnRhlXAr64iOY91PpqC6jAFftMz0dGT4rU3hkJBGHyVGzY3mlWeSoqGnS+IrWwIsBP10i3hRNUxL8/S+st2hTsmyIIqlRDDw47338oQ5Vb0kuSyDjxj6MAXeTpdA6zt2RAi/Eags0L9m/VFh1KzCGTzvBmGdCM9tJY5L3v533GSPexf62pr2B3H9ZMj6vuaZEbL+ojH/vA2hcAy/NA/wFnEoWA9pe4qpysswda57U7jCT5cJMGgeoYnJ43YsgvkMGiFYvwFG4mDg2Fc/yOm5rv6vif7cNNX3okNmmIO/3tiza5VL3jjKlrVWA4nTAOFGRKA==;gNFDgZ45Ic2SXmFFqcvBrw=="
 ---
