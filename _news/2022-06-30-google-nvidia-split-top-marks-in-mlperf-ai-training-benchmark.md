@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-nvidia-split-top-mar
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/"
 type: article
 quality: 95
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -34,6 +34,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Loses The AI Performance Crown, At Least For Now"
+    excerpt: "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,"
+    publishedDateTime: 2022-06-30T23:48:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 621
+        isCached: true
   - title: "Nvidia and Google win top spots in MLPerf Training machine learning competition"
     excerpt: "Nvidia Corp. and Google LLC have won top spots in the MLPerf Training machine learning competition, the organization that hosts the competition detailed today. MLPerf Training is run by the MLCommons Association,"
     publishedDateTime: 2022-06-29T20:58:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/text-classification-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/"
 type: article
 quality: 85
-heat: 95
+heat: 96
 published: true
 
 provider:

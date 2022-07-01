@@ -3,8 +3,8 @@ category: news
 title: "Tesla's layoffs hit Autopilot team as AI develops"
 excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
 publishedDateTime: 2022-06-29T21:01:00Z
-originalUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
-webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+originalUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/"
+webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 type: article
@@ -75,6 +75,6 @@ related:
         height: 800
         isCached: true
 
-secured: "6Fy4aagFf7rqnRCsM8nO6NCFYSEehaHWurXEanP4de/fxzacx15SsUxIk4dJZXu2wdqhocVcLpi5oRvU1emxxzDXO5pvTFm8cjzO/DievA302vZapx12+c4f7/tqiro2/Tx3HDI61/6xNir93incP3jj24fA0mjkzV+Rptb5K0AROpHD7Pk0qDD9Q7ED9DRuuKJakiPeuqHaZYVcSrAmDZ6FOBSZ9RoxP08i/jNKjwh4oGSUZg6HR/m0hr1q/EEIn3bxRAz3h1yQaePZGVM2UthBgigHXDbik4qkhAqcTSbPmzfOqyea21Kc5icmu5POHdVXD1IZY2FmZjkpEjQt7VHVc+wsjky8S8hEvYBxpxs=;IpC9TEF9riOUc7oBbZlgoA=="
+secured: "durPVH7x18JYgsbSf5VQN9StPAuAy/IYVXSx6yQUGtXcdZHoypviASDsGpWsB2hhY3nNJFEZI9Ef4Hb2LWaaGRyrm8Xk8uCfM+WNUl5gJZWWTr2iWCsw7G2yRE+wlXzdowFrB/KiVJRqxGXbTNNQq7hqRYk3lYLs6Yhh+S6FP/wSxM2H+A+h8JntMIS9ZVeSgzSMfVXlmhdYcF8xiJTlwLdDCCpXGYSKLKxmgiLErNcilw+FptpZWN/KRaR9Q+Atq4dGfHHDoLLxGs07SSIYRYwl/lli632+jMVw5oKuAS1fGbu5+sXhJsD9FjbnsMKQhxz9qepCHKfIylexuE79W9u4pN43JLHkC33gk4Pg5Os=;pXLOqSD2YenErZwnxzioBw=="
 ---
 

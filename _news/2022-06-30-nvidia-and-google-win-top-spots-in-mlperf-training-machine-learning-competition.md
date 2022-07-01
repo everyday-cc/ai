@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 688
         isCached: true
+  - title: "NVIDIA Loses The AI Performance Crown, At Least For Now"
+    excerpt: "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,"
+    publishedDateTime: 2022-06-30T23:48:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 621
+        isCached: true
   - title: "Intel Benchmarks Show Habana Gaudi2 AI Machine Learning Chip Trouncing NVIDIA's A100"
     excerpt: "After unveiling its second generation Habana Gaudi2 AI processor last month with some preliminary performance figures, Intel has followed suit with internally run benchmarks with impressive results."
     publishedDateTime: 2022-06-29T18:15:00Z

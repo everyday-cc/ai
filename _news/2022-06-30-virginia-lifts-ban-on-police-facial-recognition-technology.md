@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-fa
 cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "Marijuana, facial recognition and other new Virginia laws take effect on Friday"
+    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday. Here is a look those measures a"
+    publishedDateTime: 2022-06-30T22:49:00Z
+    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-new-laws-virginia-20220630-m3dfwhbanbfvrak6hxodfhbsqy-story.html"
+    type: article
+    provider:
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 35
+    images:
+      - url: "https://www.pilotonline.com/resizer/jAG-_2DS9bJJEPZmuCsLjsWsgVM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UDUQHF4OV56YHOQEME7BUTF5VE.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
     excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."

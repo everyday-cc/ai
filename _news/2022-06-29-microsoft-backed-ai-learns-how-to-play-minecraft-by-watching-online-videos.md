@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to
 webUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/"
 type: article
 quality: 82
-heat: 143
+heat: 142
 published: true
 
 provider:

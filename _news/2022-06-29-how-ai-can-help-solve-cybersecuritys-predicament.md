@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/"
 type: article
 quality: 89
-heat: 150
+heat: 139
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/11/bharat-bytes-100912564-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The following are three reasons why you should consider using AI-based cybersecurity products"
-    excerpt: "Threats to cybersecurity are rising at an incredibly rapid rate. Nevertheless, companies’ and their cybersecurity’s hesitancy to integrate artificial intelligence (AI) into processes reliant on humans is inhibiting,"
-    publishedDateTime: 2022-06-26T06:23:00Z
-    webUrl: "https://bestgamingpro.com/the-following-are-three-reasons-why-you-should-consider-using-ai-based-cybersecurity-products/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 26
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/3-reasons-to-consider-adopting-AI-cybersecurity-tools.png"
-        width: 600
-        height: 365
         isCached: true
   - title: "Revealed: The drinks companies leading the way on cybersecurity"
     excerpt: "Nestlé and Lotte Chilsung are among the drinks manufacturers so far best set up in the area of cybersecurity, according to data and analytics group GlobalData. According to analysis set out by GlobalData,"

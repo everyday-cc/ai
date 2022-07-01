@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-developme
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

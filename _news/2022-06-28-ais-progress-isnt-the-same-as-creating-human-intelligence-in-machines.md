@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/"
 type: article
 quality: 61
-heat: 82
+heat: 81
 published: true
 
 provider:

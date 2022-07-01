@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20warehouse.jpg"
         width: 766
         height: 431
+        isCached: true
+  - title: "Facial recognition use increasing at US federal agencies faster than oversight, GAO reports"
+    excerpt: "The use of facial recognition has become increasingly common across the government, a new report from the U.S. Government Accountability Office suggests."
+    publishedDateTime: 2022-06-30T22:08:00Z
+    webUrl: "https://www.biometricupdate.com/202206/facial-recognition-use-increasing-at-us-federal-agencies-faster-than-oversight-gao-reports"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
         isCached: true
 
 secured: "YhgtBQ906D7PNEz2MGyi8YzGF2yN+ymqoC2sX7aFGO4CYM9I37N51ZvE8DBlCGYfveKXzxZ2V4hvQ4AaxBkkkh8SWPEadUn0eh5L3wHCEMdjKmqqmrlk5tN+pPTHgtXW7SasPU7swGJX30bqKZnz6+piM5vTlt25mWam0UQp7kloobZIB7SLk4hlVaEZRSIP5gNUjbnWWroRG6xr4jPFeCFGxlpQeEWNjvoGpAAYBwYFPd9mnyBHCunZ7j8l5mPKbP2bCsd30CkQza7NWIdttFC3gJsbAGLx5+qec1u0QFPsu0Q0Cxjvama8xDJq1RAB3tQKj6RiHK78MRou4kDKlpkzesJegQLXnpTCH6kEGdxmTVP+MQ9BZlp9e74i51syha0sKoIh+rKRA9jA77Pi5UoiftUDIiS2SrHtlUZZP2FBNvgYE1yCWs8NEkxSkfsceE0dG2N5mzKupapyPQdItw8RdIOirMV8pYXMGlLGpy+A4vjDTD1mws3hCAGqGt9U+G9xx1wAE5eVGIqbVurnnw==;Nii5W8IxGLm4uxRph7yESQ=="

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "China’s Baidu joins race to develop driverless cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-06-30T07:25:00Z
-    webUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/06/29/2DChinaCars0630_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
     excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
     publishedDateTime: 2022-06-27T10:03:00Z

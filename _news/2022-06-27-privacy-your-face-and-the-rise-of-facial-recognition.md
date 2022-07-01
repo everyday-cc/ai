@@ -69,6 +69,20 @@ related:
         width: 766
         height: 431
         isCached: true
+  - title: "Facial recognition use increasing at US federal agencies faster than oversight, GAO reports"
+    excerpt: "The use of facial recognition has become increasingly common across the government, a new report from the U.S. Government Accountability Office suggests."
+    publishedDateTime: 2022-06-30T22:08:00Z
+    webUrl: "https://www.biometricupdate.com/202206/facial-recognition-use-increasing-at-us-federal-agencies-faster-than-oversight-gao-reports"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
 
 secured: "DiHMhO7j4osesxGSyhByJOSn3FEwOf/aWLACh2iftHqIoddqgYfZ8sFt1jR8URqtuDg+GMhvWVUtxHS32pQCRz5xUXOTRPe339i1vmeGDvaM/Ro7fypL/QcxIkJRus+QCK8bBkNdeV28ePGcYduUvu01ar1VUf0ljsRqNJAfujc6lzeGU7TZaPrHxGnjwR8v4hO3SgzZENDpKWoNUXXSNTV0Qi8e96TfF0xHxcf7viz5DJput/sXx9UM/5MIwcDvnsOyK+rr2dU54gZdjMkCxPXejzlkGXEommcWHLAJlkRgG7CQRalM3+R9sOTPK8SQNiWVbBan/QhmBuXGqmBcuEekJAzYCLnYDrurIdq+Dyw=;PbQfkZX+JYOZjVs/dNKEOQ=="
 ---

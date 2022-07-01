@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2022/06/27/business/top-business/big-fir
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/06/27/business/top-business/big-firms-to-invest-20m-for-ai-research/1848821/amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 1400
         height: 799
         isCached: true
-  - title: "Conglomerates investing $20-M for AI center"
-    excerpt: "Big companies in the country will invest USD20 million (around PHP1 billion) to establish a shared hub for artificial intelligence (AI) research.Department of Trade and Industry (DTI) Secretary Ramon Lopez said in a recent interview that conglomerates are funding the"
-    publishedDateTime: 2022-06-26T05:21:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1177557"
-    type: article
-    provider:
-      name: Gov
-      domain: pna.gov.ph
-    quality: 17
   - title: "Morgan State could get $2M in federal funding for new artificial intelligence research center"
     excerpt: "Morgan State University is in line to get $2 million in federal funding for a new artificial intelligence research center that will focus on 'algorithmic biases' in AI."
     publishedDateTime: 2022-06-28T11:03:00Z

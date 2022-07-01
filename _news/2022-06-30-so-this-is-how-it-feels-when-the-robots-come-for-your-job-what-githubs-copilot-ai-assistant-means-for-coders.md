@@ -38,6 +38,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "So this is how it feels when the robots come for your job: what GitHub’s Copilot ‘AI assistant’ means for coders"
+    excerpt: "Many in white-collar 'creative industries' that deal in text and images are starting to wrestle with their fears of being (at least partially) automated away."
+    publishedDateTime: 2022-06-30T23:24:00Z
+    webUrl: "https://www.themandarin.com.au/193655-so-this-is-how-it-feels-when-the-robots-come-for-your-job-what-githubs-copilot-ai-assistant-means-for-coders/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 16
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/07/woman-writing-code.jpg"
+        width: 795
+        height: 530
+        isCached: true
 
 secured: "CMbGqpH/C4IRCHwxgoIjAgF4f0gfx/aLc3e3MnqKPXDxHdTtg3tUTuCbpZbTSuK69Kj8A5Dgjo74aY7AwdufdOfMroyUc2wshj0EXvGwVciz1u1PSmQ7y/YxNN1WcL4fthTrUB08asK1pCPBdrwDTPPbxaRFnLADvmRQ1rMRJ1nzbIhZX7rhiqOpZVd52zAwwNsa4XRzatkg+IQiortB8HobOvs6RNFva0DUZXy383YrBh/eMMEHZQXxP23QjyS3zLggjqBEAlp+alrgBtg8Da+sPaOtTgOULE6C0xsFtctDD5VGzOLi+NMD+kwtaz0bTwN0OLxZ9lC3L9Ks2+xL2UznFA10tyoL9IYUPhWPjjMcxx/KHjNM8V6rMhBX1yZLDEQMK7d+Zg45r3o7p10qui4/A7318ptFzIlzNLKKwn4lEVqpmFeqxA0OlQNVqT0zeidm2v7VLwUHyhHqtXYsUEnmTqnwUoOBIx0YofoLCQ7OZ6UGGj9rvGVO9jcUZ4OowKRZmj7yKX0DOKFdMyLncA==;z2CaJb0puHWugvHSyPGsAA=="
 ---

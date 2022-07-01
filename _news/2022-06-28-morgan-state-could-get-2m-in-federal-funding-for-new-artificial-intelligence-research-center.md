@@ -48,15 +48,6 @@ related:
         width: 1400
         height: 799
         isCached: true
-  - title: "Conglomerates investing $20-M for AI center"
-    excerpt: "Big companies in the country will invest USD20 million (around PHP1 billion) to establish a shared hub for artificial intelligence (AI) research.Department of Trade and Industry (DTI) Secretary Ramon Lopez said in a recent interview that conglomerates are funding the"
-    publishedDateTime: 2022-06-26T05:21:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1177557"
-    type: article
-    provider:
-      name: Gov
-      domain: pna.gov.ph
-    quality: 17
 
 secured: "Jkqy9qQ3s2SnBdD3IRy6xrnLV92KKdC3GzBp8bCx5P31uNyvBSkIFdihPMT54CVL1bIhNgm9Nteb6LWvQ0V1DAHxsFSI/IpdgbHij2+FTWhWkl7jGuR3VnjXGDhoFjkbD1CYOmP/jxk615B2EhpyhQA0LVPx9phpEwb1xmaNbrymxWSZROhxMwLjrMBkHwJfUJJRLhwjfcw8L+6307v59efA/Fek86T7ExnOike2/D5O0hHRmZMxj5kO45E4E9Bj0FGhDB4O5Q8kMczHWUk/yqkBznbu0qRpzH6Ez5lZ33oCQH08ySlYH/8znxjqD8GaPcJ1OWvPkEJ+6YXtItV2ULPfZsc35iU4DRjwjNROIdJ8LK1sf0iDkZbTBCy1Nv3YbyN8tSVT/jFfKQPVWCK8TBEpV8yuLkmUXci2rNJabxw9Pl/RNM+cmji1XDOf1ZAyg/p6HEczkaywmI/JwQoX1JWMHcfe08Uyrln/rbKfldMSp6NRYrfVQyxekmtB1iZc6e/5ezxemXyKb4ZunS9JHQ==;FWoWh7Edwt2kF/9THf8J3Q=="
 ---

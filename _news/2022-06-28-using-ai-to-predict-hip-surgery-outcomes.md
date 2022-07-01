@@ -38,6 +38,15 @@ related:
         width: 799
         height: 470
         isCached: true
+  - title: "Enhancing player protection using artificial intelligence"
+    excerpt: "Mindway AI CEO, Rasmus Kjaergaard, discusses how the forward-thinking company combines artificial intelligence with human expertise to make betting a safer plac"
+    publishedDateTime: 2022-06-30T23:04:00Z
+    webUrl: "https://www.intergameonline.com/igaming/features/enhancing-player-protection-using-artificial-intelligence"
+    type: article
+    provider:
+      name: InterGame
+      domain: intergameonline.com
+    quality: 17
 
 secured: "ucYleKP5tU1h2tijVyxgwVoohNCxuaORC8IvP7poXAIN8BX+BSFk+gk0X1HNOrM1kj72KYNrWqvxsbxS/IRPUokp/AFm96MbOsB3siMDmOxXu81Lq7UheutIsyTCLubGIzTpaRTsnPHJHiKdLAZT4xwlHK5aVH4fROUt9Ob+ygxRdYM2jOrmlMWRO/IUwd/P7ZUJxXl7gIez6cTIV80REK1iOniW4QC/tTTxgl7ooeqqQFIzRuYzwSpFufjiSGghQEo7oeytPT0fqjTW98Y1zEHY/WD6j3jDsFWJopYgcpHc1Ng6Zed4JnlH+l0R9REbmfbKBGYW+NN7eBgUS+Gua8qkeVlpr9TWV2hgwgb+7vIHRhsTgLpzAHW4TVeQMPkeMfnzeh33eIReHNKwDsy170fVlvOXI86fuODjYyXeo7HbF/1F2mpJMiQp03yQPRMeNwGcC5QHCpaElngH76ff5u2ESV2M4ZmxF7Wi+NqrXdUHgdGTs/p1prg0fMSLc0xMevwD5Jx/6F93srxHbLdofQ==;zi2++gfvtI8BJAF/1k8bPg=="
 ---
