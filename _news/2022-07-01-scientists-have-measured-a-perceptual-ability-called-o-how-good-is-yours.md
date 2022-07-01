@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "'O' Ability: Your Power of Perception Is Mostly Innate"
+    excerpt: "Like snowflakes, no two people are exactly the same. You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solvi"
+    publishedDateTime: 2022-07-01T20:35:00Z
+    webUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html"
+    ampWebUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html"
+    cdnAmpWebUrl: "https://www-realclearscience-com.cdn.ampproject.org/c/s/www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 24
   - title: "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'"
     excerpt: "You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information. In contrast, there’s a widely held intuition that people vary far less in their ability to recognize,"
     publishedDateTime: 2022-06-30T19:03:00Z

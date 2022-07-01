@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T18:43:00Z
 originalUrl: "https://www.forbes.com/sites/gregpetro/2022/07/01/what-online-retailers-got-wrong-about-algorithms-and-ai/"
 webUrl: "https://www.forbes.com/sites/gregpetro/2022/07/01/what-online-retailers-got-wrong-about-algorithms-and-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

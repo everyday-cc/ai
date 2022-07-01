@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T19:57:00Z
 originalUrl: "https://www.marinatimes.com/ai-weiwei-returns-to-san-francisco-with-everyday-monuments-at-the-haines-gallery"
 webUrl: "https://www.marinatimes.com/ai-weiwei-returns-to-san-francisco-with-everyday-monuments-at-the-haines-gallery"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Marina Times

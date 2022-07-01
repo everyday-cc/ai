@@ -32,22 +32,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Private companies and public authorities are beginning to implement facial recognition technology, even without rules to govern what they can do."
-    publishedDateTime: 2022-06-27T02:32:00Z
-    webUrl: "https://theconversation.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
-    images:
-      - url: "https://images.theconversation.com/files/471008/original/file-20220627-14-q7vf1z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=229&fit=crop"
-        width: 320
-        height: 229
-        isCached: true
   - title: "Woolworths denies using AI and facial recognition despite leak claiming otherwise"
     excerpt: "Woolworths says the leaked internal training module detailing how it uses the controversial technologies to stop theft was a mistake."
     publishedDateTime: 2022-06-29T00:49:00Z

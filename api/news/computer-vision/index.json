@@ -10,7 +10,7 @@
       "originalUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -49,32 +49,32 @@
       "title": "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence",
       "excerpt": "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T12:02:00-07:00",
+      "publishedDateTime": "2022-06-30T12:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -83,8 +83,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -361,7 +361,7 @@
       "originalUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {

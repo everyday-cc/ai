@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Privacy, your face and the rise of facial recognition"
-    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
-    publishedDateTime: 2022-06-27T01:22:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Bunnings doubles down on facial recognition"
     excerpt: "Hardware store chain Bunnings has defended its use of facial recognition to monitor customers in-store following revelations in June from consumer group Choice that three major Australian retailers were capturing biometric data of customers without their express consent."
     publishedDateTime: 2022-06-29T23:14:00Z

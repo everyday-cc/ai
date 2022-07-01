@@ -167,15 +167,6 @@ related:
       name: Fleet World
       domain: fleetworld.co.uk
     quality: 4
-  - title: "Self-driving cars block traffic for hours in US, manually moved later"
-    excerpt: "In a freak incident, several self-driving cars stopped simultaneously here and blocked traffic for a couple of hours until the company staff arrived and manually moved the autonomous vehicles. More than a half dozen Cruise robotaxis stopped operating,"
-    publishedDateTime: 2022-07-01T13:23:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=974692"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 4
   - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
     excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
     publishedDateTime: 2022-06-27T17:34:00Z

@@ -35,6 +35,17 @@ related:
         width: 1024
         height: 415
         isCached: true
+  - title: "'O' Ability: Your Power of Perception Is Mostly Innate"
+    excerpt: "Like snowflakes, no two people are exactly the same. You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solvi"
+    publishedDateTime: 2022-07-01T20:35:00Z
+    webUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html"
+    ampWebUrl: "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html"
+    cdnAmpWebUrl: "https://www-realclearscience-com.cdn.ampproject.org/c/s/www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.amp.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 24
 
 secured: "uPKPZ7yCuELEQ7suh2O4HSFpPR7gmmJv19FCBtxha4LAkGyvxvXoQIa6oe1rHZ9nVtFMKbYholfNnWPPwBFImIXHd/5PeEBToPgvO6wgIP/3DZ6rRnYNKcSm/THzlsKIQfEpqo4tiW/WGDXg7pcHWsERfat7TwEgMjMbS0h0o+kCbyXm3hdhUggN/YOqEbSyIKVH5TPqsgI6LY4foeBUUywpKDQSpCEbg5whblduIWpRRrCO7/Wjsc0wroKridsUA/n+pAIPzQCX6uKod6HHDbkNvfRTb0G6otvN9j7kP8DK8Beb5Co3+LnOXHGszg2Og171rpZRx1SX9xCMw6embVrL8mkRDUQiTct/kRrJngQLVl7POc1vNVpQAiphReHU5uZVfv6X0GxOr/DH19KaOWdmy93/Pa7iaUCO+5EAsL5nBJCwrHOd4jh9mKptvcKqXVjQqG9TihWxqzIccZsI3mWu6YbN7r7j+gpdE+ywybUogWXRndmSUZuVf3DutthYR3qYgKdTedk3tvcfxPr+9Q==;a5UTbCdVz8bC76vdNxi/tw=="
 ---

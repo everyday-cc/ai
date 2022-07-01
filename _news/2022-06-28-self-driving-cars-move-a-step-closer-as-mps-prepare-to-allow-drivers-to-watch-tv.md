@@ -161,15 +161,6 @@ related:
       name: Fleet World
       domain: fleetworld.co.uk
     quality: 4
-  - title: "Self-driving cars block traffic for hours in US, manually moved later"
-    excerpt: "In a freak incident, several self-driving cars stopped simultaneously here and blocked traffic for a couple of hours until the company staff arrived and manually moved the autonomous vehicles. More than a half dozen Cruise robotaxis stopped operating,"
-    publishedDateTime: 2022-07-01T13:23:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=974692"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 4
   - title: "Jet-Packs, Self-Driving Cars, Wireless Charging Of Buses: Museum Of The Future, RTA To Showcase Latest In Mobility"
     excerpt: "The Museum of the Future and Dubai's Roads and Transport Authority (RTA) have announced a new partnership to showcase future mobility solutions, from personal jet packs to self-driving cars. The partnership will showcase new solutions in advanced mobility at the 'Tomorrow,"
     publishedDateTime: 2022-06-28T08:53:00Z

@@ -27,10 +27,10 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s layoffs hit Autopilot team as AI develops"
-    excerpt: "The layoffs were first reported by Bloomberg Tuesday and confirmed by CNN Business. Data annotation specialists use software tools to manually label objects in video clips collected from Tesla vehicles."
+  - title: "Tesla's layoffs hit Autopilot team as AI develops"
+    excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
     publishedDateTime: 2022-06-29T21:01:00Z
-    webUrl: "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+    webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
     type: article

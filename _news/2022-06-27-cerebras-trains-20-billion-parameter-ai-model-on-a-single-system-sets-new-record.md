@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras sets record for 'largest AI model' on a single chip"
-    excerpt: "In brief US hardware startup Cerebras claims to have trained the largest AI model on a single device powered by the world's largest Wafer Scale Engine 2 chip the size of a plate. \"Using the Cerebras Software Platform (CSoft),"
-    publishedDateTime: 2022-06-27T04:49:00Z
-    webUrl: "https://www.theregister.com/2022/06/27/in_brief_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/06/27/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/27/in_brief_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2021/05/12/brain.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Cerebras CS-2 Wafer Scale Engine: The Largest and Most powerful GPU ever Made"
     excerpt: "The benefit for Cerebras is that by deploying a 20 billion-parameter NLP model in a single chip, it can lower its overhead in the cost of training thousands of GPUs, hardware, and scaling requirements."
     publishedDateTime: 2022-06-27T05:34:00Z

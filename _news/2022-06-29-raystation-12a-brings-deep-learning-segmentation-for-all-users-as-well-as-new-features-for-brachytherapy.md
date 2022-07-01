@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-29T13:39:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20220629io04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20220629io04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Morningstar%2c Inc.

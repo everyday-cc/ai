@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-02-ai-powered-speech-recognition-is-entering-a-new-phase-total-global-comprehension.md",
+      "title": "AI-powered speech recognition is entering a new phase: Total global comprehension",
+      "excerpt": "A new speech recognition startup has taken an ambitious path to leapfrog Apple, Google and other tech giants. Can AI understand all 7,000 languages in the world?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "originalUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9411a919483b45a96f423ef5d2fc198e85feafc1/2022/07/01/86d710b8-0303-4e57-8529-c789deded6df/gettyimages-1279453193.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "publishedDateTime": "2022-07-01T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-company-meaningcloud.md",
+      "title": "Reddit acquires natural language processing company MeaningCloud",
+      "excerpt": "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "originalUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "publishedDateTime": "2022-07-01T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-ai-powered-photo-stock-startup-wirestock-lands-partnership-with-getty-images.md",
       "title": "AI-powered photo stock startup Wirestock lands partnership with Getty Images",
       "excerpt": "As a stock photographer, taking great photos is often only just a tiny part of the job. To run a successful business, keywording, categorizing, captioning, and all the other admin that goes with it can take up almost as much time.",
@@ -104,7 +208,7 @@
       "originalUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -242,7 +346,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -437,17 +541,60 @@
       "title": "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence",
       "excerpt": "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-chatbot-company-replika-says-many-customers-believe-in-ai-sentience.md",
+      "title": "Chatbot company Replika says many customers believe in AI sentience",
+      "excerpt": "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
+      "originalUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -455,13 +602,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T12:02:00-07:00",
+      "ampWebUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
+      "publishedDateTime": "2022-06-30T10:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "New York Post",
+        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -471,8 +618,9 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI",
-        "Computer Vision"
+        "AI in Healthcare"
       ]
     },
     {
@@ -777,20 +925,20 @@
     },
     {
       "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
-      "title": "It's alive! How belief in AI sentience is becoming a problem",
-      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
+      "title": "It’s alive! How belief in AI sentience is becoming a problem",
+      "excerpt": "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
-      "originalUrl": "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/",
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg",
+          "width": 2500,
+          "height": 1623,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -798,23 +946,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T07:04:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna36110",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110",
+      "publishedDateTime": "2022-06-30T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -823,7 +962,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1056,145 +1195,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-emotionally-intelligent-education-defining-student-experiences.md",
-      "title": "Emotionally Intelligent Education Defining Student Experiences",
-      "excerpt": "I could feel from their body what they may not be able to put into words and a recognition that it's not the same as ... That mentality says, “if I'm a good object, that means I'm doing good.” It goes back to absorption foreshadows transcendence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bd209a2bd95f3270d547b7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
-      "publishedDateTime": "2022-06-29T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-reflections-from-ethics-and-safety-on-the-ground-at-deepmind.md",
-      "title": "Reflections from ethics and safety ‘on the ground’ at DeepMind",
-      "excerpt": "Boxi shares their experiences working as a program specialist on the ethics & society team to support ethical, safe and beneficial AI development, highlighting the importance of interdisciplinary and sociotechnical thinking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
-      "originalUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-can-ai-and-genomics-predict-the-next-covid-variant.md",
-      "title": "Can AI and Genomics Predict the Next COVID Variant?",
-      "excerpt": "A new study shows how AI and genomics can predict future mutations of the SARS-CoV-2 virus that causes the COVID-19 disease. “The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has been characterized by waves of transmission initiated by new variants replacing older ones,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic99807.jpg?itok=f_OY9F15",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant?amp",
-      "publishedDateTime": "2022-06-29T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

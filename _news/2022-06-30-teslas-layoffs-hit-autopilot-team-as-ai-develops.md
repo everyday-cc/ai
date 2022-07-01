@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Tesla’s layoffs hit Autopilot team as AI develops"
-excerpt: "The layoffs were first reported by Bloomberg Tuesday and confirmed by CNN Business. Data annotation specialists use software tools to manually label objects in video clips collected from Tesla vehicles."
+title: "Tesla's layoffs hit Autopilot team as AI develops"
+excerpt: "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street."
 publishedDateTime: 2022-06-29T21:01:00Z
-originalUrl: "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
-webUrl: "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+originalUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
+webUrl: "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html"
 type: article
@@ -75,6 +75,6 @@ related:
         height: 800
         isCached: true
 
-secured: "SeteyBVn7F2HPO2VIRPthaErlCphaMy0tuQtjVjwKiQVYxjAivXX3UX5cfuCZZB3lYVoK32vspLO8QBIbSUaCg5udGPOCTapbpZ4KzJus00Q1Dg5aL2Qf8QxRoGS5RQTeF3OmMpgNesyJtWOqaWr7KfYzpW/WV9xQwGrnEH1s2NFGI7Uqrw6OftgXzOrB7H9vunl8R0524ooEI7pw/9aL/dWdJFQewcTVHMTnLJLI/6PWqvEDjKXa+7/rrBW2TGCwsWF20JiaqhUPBlpc1GMOXMRYJRLv18jVvI6P6KTN2WnzpW9K9sahUNUNejy3wVIE8/LCaNdmMhCrAU92wofiwnIKuf1Ye5iBFm9z92qTOo=;MI/XlTojLRyeJDu5wsSi4g=="
+secured: "Id0Bsx8fsAgXX4xGIdNsgipCAg0HNiAtf36JVBZsmbmZQ5E5Zni2CJCwWRUBtDrPS5VvjFp5u/zLNKn/3PlwEIXRLWGxYmgYyIdf9AXK/PczOaWvYlCrdBYQYt4NX+BlEfZFLtGZZatZiXA7G9txuhaZs/mbZQ4Gpn+/1J+IxH62sjTbJSo2gfYXCMZfna35C4fD7liRFF/migUYPtCoMzsQIHvaWLTkRCPoVJI1LHCwUBUNpn34i1/5YzmSj/FaHVmKC4cVF57kMl1VLVeRQlyI/hOcMo9wZ32Y/jzKwaqYFHLMueSUEMZskcfNWLr/mF5pNj/qxFwg71Rr5OFdL8PiLVYPSVw0CPR7m6qVmqY=;tdeRLIKyXJlpaMzJ/qufwA=="
 ---
 

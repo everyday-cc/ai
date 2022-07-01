@@ -3,18 +3,24 @@ category: news
 title: "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)"
 excerpt: "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park."
 publishedDateTime: 2022-06-24T20:00:00Z
-originalUrl: "https://www.albanyherald.com/features/arts_entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_1e06e6d6-9801-5482-9407-ff805f016640.html"
-webUrl: "https://www.albanyherald.com/features/arts_entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_1e06e6d6-9801-5482-9407-ff805f016640.html"
+originalUrl: "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html"
+webUrl: "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html"
 type: article
 
 provider:
-  name: Albany Herald
-  domain: albanyherald.com
+  name: Marietta Daily Journal
+  domain: mdjonline.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "eVaw1pMt4qHaebcPSasmXwEXbhM4wkjBSNWQ7nxnSpZezWqAu4swvfpcIckrt8FMjZqKi1xKp0AbdGbEI2lwrZx9z7bLBcXshwdMESjBcvaz4DsiE/464rRUtteejkObOh/oguEwoDzxxQsX45CmcDYBx4LGEUNN1Gg51ei8E9Fk3YC8JEYYY0xJR3o2RglUI8GgDPNfrcyV86/acrxo+jHWRkdpUa10RIhyQGp/jdyigqGtYKN2IFskSYkO2AtihCw6K9BIfzrLmDiC2fhyr3q2zkhxMw2s7hAPP8I3c6CCgdhh6H+MRN6VaUzDnAtePj3KA/JCNFgEv9yJ7BNKnuasaD5rpdgLmkYybr978+u3SeK/0bY+WWrZt0rQ4LWo5gZNAb3ilOU8+MLiK1O3lHepxnwVdSZssckYVVPDGpMe0osulSak4K9asyk6zpybnBqn/Tblz36LVH8LJz9jC3YWNMMWOxJYkIlcsXrXtZltaoziaLz7JzP61wdXDL6uEo3jJRr3DOfGmEovWPo6ug==;JtJtT4wTtQ02yY9Ov1PbJw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400"
+    width: 600
+    height: 400
+    isCached: true
+
+secured: "z4pIy9m+cl0aWkDWhMTZTefKe2kTH/Z5EnaQy18YiP57lFqeh+6/2U7GXJegry0HkDY7q+X0E+iT5JAlP2kX74tKxxY7ZRHPuI4CR9cG2mSoDgrGJISjVLFXL0u5Km2y4zm/NsMUTjnf3j+w0VurkMRwhuU0E8uRZSBGiwhBrTBofeDTIVy8xNk0THu467ntBLQs1uv9NqqEWFQFsCv2oL6jsy8fSXBYVR5NZwyCpSsM+a4fvfi1gAqXQrUUZdEI1YogUaUo161qJWP9lG0I6TDDkcrE6QJpvyDN8HjJZN/DZx4pVSHWUQb1ApXhkfBeeBYBPe4c1MQFHcbc2mzj8Zfm3l6cfpbmbHKJ8pPFsnE=;xPVVC2FjyfCo0UDk5hKMLQ=="
 ---
 

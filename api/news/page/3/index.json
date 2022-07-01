@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-29-the-uk-wants-to-boost-ai-development-by-removing-data-mining-hurdles.md",
+      "title": "The UK wants to boost AI development by removing data mining hurdles",
+      "excerpt": "These changes make the most of the greater flexibilities following Brexit. They will help make the UK more competitive as a location for firms doing data mining",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
+      "originalUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Concept-Illustration-Hurdling-e1656446452746.jpeg?w=1024",
+          "width": 1024,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
+      "publishedDateTime": "2022-06-28T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly.md",
+      "title": "Create audio for content in multiple languages with the same TTS voice persona in Amazon Polly",
+      "excerpt": "Amazon Polly is a leading cloud-based service that converts text into lifelike speech. Following the adoption of Neural Text-to-Speech (NTTS), we have continuously expanded our portfolio of available voices in order to provide a wide selection of distinct speakers in supported languages. Today, we are",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T12:28:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-4-ai-research-trends-everyone-is-or-will-be-talking-about.md",
+      "title": "4 AI research trends everyone is (or will be) talking about",
+      "excerpt": "Recent work by a group of researchers from Google Research, Stanford University, UNC Chapel Hill and DeepMind says it can. Transform 2022 Join us at the leading event on applied AI for enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
+      "originalUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158-e1628013733702.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
+      "publishedDateTime": "2022-06-28T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-uk-decides-ai-still-cannot-patent-inventions.md",
       "title": "UK decides AI still cannot patent inventions",
       "excerpt": "The UK's Intellectual Property Office has decided artificial-intelligence systems cannot patent inventions for the time being. Patents assign the ownership of a new invention to its creator. A recent IPO consultation found many experts doubted AI was currently able to invent without human assistance.",
@@ -676,7 +823,7 @@
       "originalUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -716,6 +863,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-building-responsible-ai-5-pillars-for-an-ethical-future.md",
+      "title": "Building responsible AI: 5 pillars for an ethical future",
+      "excerpt": "Humans are building AI, so they bring their own ethics into the design, oftentimes for the worse. Responsible AI can help mitigate this bias.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/01/building-responsible-ai-5-pillars-for-an-ethical-future/",
+      "originalUrl": "https://venturebeat.com/2022/07/01/building-responsible-ai-5-pillars-for-an-ethical-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -775,7 +965,7 @@
       "originalUrl": "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1016,205 +1206,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-googles-powerful-ai-spotlights-a-human-cognitive-glitch.md",
-      "title": "Google’s powerful AI spotlights a human cognitive glitch",
-      "excerpt": "Because of a persistent tendency to associate fluent expression with fluent thought, it is natural – but potentially misleading – to think that if an AI model can express itself fluently ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/",
-      "originalUrl": "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/typewriter-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience.md",
-      "title": "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience",
-      "excerpt": "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "originalUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/AP20007048093657.jpg",
-          "width": 3000,
-          "height": 2035,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "publishedDateTime": "2022-06-27T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-why-synthetic-data-makes-real-ai-better.md",
-      "title": "Why synthetic data makes real AI better",
-      "excerpt": "When combined with real data, synthetic data creates an enhanced dataset that often can mitigate the weaknesses of the real data.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
-      "originalUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1200224477_design_engineering_science.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
-      "publishedDateTime": "2022-06-27T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
-      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
-      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

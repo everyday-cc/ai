@@ -1,20 +1,61 @@
 ---
 category: news
 title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-excerpt: "VistaPath’s Sentinel is a first-of-its-kind pathology processing platform designed to seamlessly deliver a range of solutions for critical lab processes. The company’s first application, released in 2021,"
-publishedDateTime: 2022-06-30T19:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
+excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
+publishedDateTime: 2022-06-30T19:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
+webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
 type: article
+quality: 65
+heat: 95
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
-secured: "d7JLGZTy5UAz1DJHunlVBUF7SIaqIWxy4HUP9XWoSaG6wLwDfLosbj7ngBP/S1I+gxhLXsi+MUEvVjeNbdLqnZmuKvXzv4tbJ3vx/M9194Ox7T8EcmeIkmBkjBN/xHFsEs2R8J4HOdBiTYpz/Ud3caWlgDE/f0+I99//SlX+AFAQFgCz5PX3NRrMaqdJWvaooblA5nqthFhpPv4PR5BIVwlY/ekACI16n0WYYkJTev8AmbdqqvfIB3bocxSHViaHMqZtWNVQomlbRvySKQZ8tAwAQHa6djOHf2wX6CnH051MDOzmrrcytlfC/Kydk28R97IAlUur2EgxkWe3JgR3q8bVXq3AXSwmDjQiGGFUWxk=;QdUkQR+dDm5yifViGOCOMQ=="
+related:
+  - title: "AI Squared raises $6M to help companies integrate AI into existing applications"
+    excerpt: "Integration platform AI Squared announced today the closing of a $6 million seed round led by NEA with participation from Ridgeline Partners. Launched in 2021, AI Squared helps companies adopt artificial intelligence by using a low-code platform to integrate it into existing applications in a timely and straightforward manner."
+    publishedDateTime: 2022-06-27T13:57:00Z
+    webUrl: "https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 43
+  - title: "Modular raises $30M to ease AI development and deployment"
+    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
+    publishedDateTime: 2022-07-01T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
+        width: 1030
+        height: 577
+        isCached: true
+  - title: "VistaPath Secures $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
+    excerpt: "VistaPath announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen"
+    publishedDateTime: 2022-07-01T09:45:00Z
+    webUrl: "https://enterprisetalk.com/news/vistapath-secures-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 20
+
+secured: "zidWZ90TVJN8o9brZ7N/zuPN7+WazJACSmg98ttSMg88MmLsaHkEXEvi/NLJ15/85FO4QwnM5UuGOKF1bI9IWoVajcPMSX4/GjavE7BJ5WWlZpzCs1ftAySbbMXSfzGo5C1xuf1WAS8FzdiSOKN/TrhWTEvm0jvYiPMbwaq7fY/ggzaf0n7XrsAoInLzMLz+hvoHqvvun6cwZw6mzYfrDQXYKAC5u3W3hm1zmiF97PaOiK8IYyk12P9Daghd25kmBAD/rDdsQrdidk8Z0ceEdUIJUWJ04La3twnYlQI7/Fs6EW4eE4zErDkNaIkMJcgRakNoQVq1AUaXqifywIIHuRqL6/7ObbkCcvVuJtijSDg=;LN5PhTyUwvWqgK4oisLB2g=="
 ---
 

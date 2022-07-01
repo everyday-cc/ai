@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T18:59:00Z
 originalUrl: "https://www.defenseone.com/technology/2022/07/us-chips-are-paving-chinas-path-ai-superiority-and-theres-no-easy-fix/368906/"
 webUrl: "https://www.defenseone.com/technology/2022/07/us-chips-are-paving-chinas-path-ai-superiority-and-theres-no-easy-fix/368906/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Defense One

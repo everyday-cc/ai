@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-
 webUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia: Paving The Way For Rapid Growth Through AI Democratization"
-    excerpt: "Nvidia is building a powerhouse economic moat around an accelerated compute platform that will generate 25%+ compounded FCF growth over the next decade."
-    publishedDateTime: 2022-06-27T02:54:00Z
-    webUrl: "https://seekingalpha.com/article/4520437-nvidia-rapid-growth-ai-democratization"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037038/image_957037038.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Inspur Information AI Servers with NVIDIA A100 Tensor"
     excerpt: "MLPerf is the world's most influential benchmark for AI performance. It is managed by MLCommons, with members from more than 50 global leading AI companies and top academic institutions, including Inspur Information,"
     publishedDateTime: 2022-07-01T14:36:00Z

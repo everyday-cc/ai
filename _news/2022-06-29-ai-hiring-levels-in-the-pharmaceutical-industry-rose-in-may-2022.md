@@ -66,6 +66,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Advisors are ready to go all-in on AI. Here’s how it may change the industry."
+    excerpt: "A new Accenture study shows more than 80% of advisors believe AI will soon have a “direct, measurable and consistent impact” on client-advisor relationships."
+    publishedDateTime: 2022-07-01T19:25:00Z
+    webUrl: "https://www.financial-planning.com/news/why-wealth-managers-are-ready-to-go-all-in-on-ai-to-change-the-industry"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 14
 
 secured: "HENs/DRWwQOi9I6ng1q/7eWeKqeNG1GcB8GEOhKmDlHTaLt07L5FzwofhfFooQwWL4CfYkcpQ0LYJZb7x+4aFfS6STyEPQnkqEx5b8uISu0px5Y7REDz4blUzVE9+2AEd2DgXTJZc7KOuMmdx6qopIyQlQ2LzvxiRoA+NfOvtOqZ2uMYQm1jdOPhnjf4tt8M7FtTdjARB93clhw5JXrmMLV92R/JzitPUpHahBZ0Y0bT3THp5R7XOzHYbxFwj6S6o719MK5BF5CpuhRgDsDE4Xu0Fm5qS/PZASWs7eaVMIacwX5rGs8PPs80rvfv4odZGKbZTDuSZ5O/gKoo1TvIkZQTTfvRQUb1eWhQKQ1lvoI=;LcgsWg7ge92HnDB9/0rm7g=="
 ---

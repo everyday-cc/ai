@@ -115,6 +115,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Quantum AI Australia Reviews – Best Trading platform of 2022"
+    excerpt: "Bitcoin is the most traded cryptocurrency in the world. Traders have been earning thousands of dollars by trading this digital asset.  However, one question every trader, especially beginner traders,"
+    publishedDateTime: 2022-07-01T20:16:00Z
+    webUrl: "https://techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/"
+    ampWebUrl: "https://techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/quantum-ai-australia-reviews-best-trading-platform-of-2022/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/07/Screenshot-2022-07-02-011549.png"
+        width: 453
+        height: 286
+        isCached: true
   - title: "Australian Retail Giants Named In Facial Recognition Tech Complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
     publishedDateTime: 2022-06-27T09:40:00Z
@@ -221,22 +237,6 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_1.jpg"
         width: 800
         height: 531
-        isCached: true
-  - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
-    excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
-    publishedDateTime: 2022-06-27T01:47:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 29
-    images:
-      - url: "https://i.guim.co.uk/img/media/fac09191ef4c77c13693f0add4b05ef7dcb58ad6/0_0_6773_4515/master/6773.jpg?width=620&quality=85&auto=format&fit=max&s=4cd2c049f96940e5e15628c3488a4c29"
-        width: 620
-        height: 413
         isCached: true
   - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
     excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."

@@ -2,12 +2,151 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-06-30-teslas-layoffs-hit-autopilot-team-as-ai-develops.md",
-      "title": "Tesla’s layoffs hit Autopilot team as AI develops",
-      "excerpt": "The layoffs were first reported by Bloomberg Tuesday and confirmed by CNN Business. Data annotation specialists use software tools to manually label objects in video clips collected from Tesla vehicles.",
+      "path": "_news/2022-06-30-emotionally-intelligent-education-defining-student-experiences.md",
+      "title": "Emotionally Intelligent Education Defining Student Experiences",
+      "excerpt": "I could feel from their body what they may not be able to put into words and a recognition that it's not the same as ... That mentality says, “if I'm a good object, that means I'm doing good.” It goes back to absorption foreshadows transcendence.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
+      "webUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
+      "originalUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bd209a2bd95f3270d547b7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
+      "publishedDateTime": "2022-06-29T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-reflections-from-ethics-and-safety-on-the-ground-at-deepmind.md",
+      "title": "Reflections from ethics and safety ‘on the ground’ at DeepMind",
+      "excerpt": "Boxi shares their experiences working as a program specialist on the ethics & society team to support ethical, safe and beneficial AI development, highlighting the importance of interdisciplinary and sociotechnical thinking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
+      "originalUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-can-ai-and-genomics-predict-the-next-covid-variant.md",
+      "title": "Can AI and Genomics Predict the Next COVID Variant?",
+      "excerpt": "A new study shows how AI and genomics can predict future mutations of the SARS-CoV-2 virus that causes the COVID-19 disease. “The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has been characterized by waves of transmission initiated by new variants replacing older ones,",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic99807.jpg?itok=f_OY9F15",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant?amp",
+      "publishedDateTime": "2022-06-29T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-teslas-layoffs-hit-autopilot-team-as-ai-develops.md",
+      "title": "Tesla's layoffs hit Autopilot team as AI develops",
+      "excerpt": "As part of Tesla's plans to cut 10% of salaried staff, the company has laid off a significant number of its data annotation specialists. These specialists do grunt work that is critical to empowering artificial intelligence systems to handle complex tasks like driving safely down a city street.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 134,
@@ -114,7 +253,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -698,6 +837,57 @@
       ]
     },
     {
+      "path": "_news/2022-06-29-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
+      "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
+      "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos4",
+      "originalUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-568242/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "publishedDateTime": "2022-06-29T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-can-artists-still-benefit-from-nfts.md",
       "title": "Can Artists Still Benefit From NFTs?",
       "excerpt": "Despite the recent cryptocurrency crash and a more sober approach to digital art by collectors, artists still can gain a lot from non-fungible tokens if they use them wisely.",
@@ -789,57 +979,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
-      "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
-      "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_lista_pos4",
-      "originalUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_lista_pos4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-568242/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
-      "publishedDateTime": "2022-06-29T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1090,153 +1229,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-the-uk-wants-to-boost-ai-development-by-removing-data-mining-hurdles.md",
-      "title": "The UK wants to boost AI development by removing data mining hurdles",
-      "excerpt": "These changes make the most of the greater flexibilities following Brexit. They will help make the UK more competitive as a location for firms doing data mining",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
-      "originalUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Concept-Illustration-Hurdling-e1656446452746.jpeg?w=1024",
-          "width": 1024,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
-      "publishedDateTime": "2022-06-28T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly.md",
-      "title": "Create audio for content in multiple languages with the same TTS voice persona in Amazon Polly",
-      "excerpt": "Amazon Polly is a leading cloud-based service that converts text into lifelike speech. Following the adoption of Neural Text-to-Speech (NTTS), we have continuously expanded our portfolio of available voices in order to provide a wide selection of distinct speakers in supported languages. Today, we are",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-4-ai-research-trends-everyone-is-or-will-be-talking-about.md",
-      "title": "4 AI research trends everyone is (or will be) talking about",
-      "excerpt": "Recent work by a group of researchers from Google Research, Stanford University, UNC Chapel Hill and DeepMind says it can. Transform 2022 Join us at the leading event on applied AI for enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
-      "originalUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158-e1628013733702.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
-      "publishedDateTime": "2022-06-28T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

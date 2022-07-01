@@ -42,17 +42,12 @@ related:
   - title: "Chinese AI Champion SenseTime’s Stock Tanks as Investor Lockup Ends"
     excerpt: "SoftBank-backed company listed in December despite being added to U.S. blacklist."
     publishedDateTime: 2022-06-30T09:32:00Z
-    webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155"
+    webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155?mod=tech_featst_pos2"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-574521/social"
-        width: 1280
-        height: 640
-        isCached: true
+    quality: 47
   - title: "Top Artificial Intelligence Companies in United States"
     excerpt: "Tech - Today, the amount of generated data outpaces humans' ability to absorb, interpret, and make smart data-driven decisions. Here, AI comes in to assist us in"
     publishedDateTime: 2022-06-28T14:57:00Z

@@ -43,17 +43,12 @@ related:
   - title: "Chinese AI Champion SenseTime’s Stock Tanks as Investor Lockup Ends"
     excerpt: "SoftBank-backed company listed in December despite being added to U.S. blacklist."
     publishedDateTime: 2022-06-30T09:32:00Z
-    webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155"
+    webUrl: "https://www.wsj.com/articles/chinese-ai-champion-sensetimes-stock-tanks-as-investor-lockup-ends-11656585155?mod=tech_featst_pos2"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-574521/social"
-        width: 1280
-        height: 640
-        isCached: true
+    quality: 47
   - title: "STAR.VISION AEROSPACE GROUP LIMITED: Chinese space company wins in top int'l AI competition"
     excerpt: "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth"
     publishedDateTime: 2022-06-29T04:22:00Z

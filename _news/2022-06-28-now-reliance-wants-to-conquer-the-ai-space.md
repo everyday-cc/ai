@@ -24,17 +24,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "The Procurement Path to AI Governance"
-    excerpt: "Procurement standards could promote responsible use of artificial intelligence by government. The growing interest in and adoption of artificial intelligence systems by all levels of government has inspired significant debate."
-    publishedDateTime: 2022-06-27T04:04:00Z
-    webUrl: "https://www.theregreview.org/2022/06/27/ben-dor-coglianese-procurement-path-to-ai-governance/"
-    type: article
-    provider:
-      name: theregreview
-      domain: theregreview.org
-    quality: 17
-
 secured: "QQUJSAZWxMugp/Jp94BuY1otYGhUFLPNW8Uwu4aAA/00jx9ZhP/UsbYrqXrBDByyl5hLeKB3kdX/PAAvZnI8z5tef4iln/NRpfgrsIUAYvH6IFFQSVMtViONTp7va56Xhrfv++5SQmEqRZtJ7PQIyg2Z/LlvwpS86MfBI6jAvdTlRuMwj0aztNpUZy1ZuoX044Nc0ea6ZhDCWvgbDrvh1BXTdJp2G66itBOVU+NrrQLzp2pC07uA6AoX5Jc6sITVLEPTz6X1VrHsJ5J0piEB9WjyerSH30Pjnrtz1kQVLVn60eFbAPhUErPuqnf4SmWHVcCvKEE4Ui3UnaTq9CL/xBKsUHZHwyWyalj7qyCO6wha6vKKOGbUmKrk1h/jz5GpIO+FLdbvg/cbEWB7qE3mX/PVqMgdz232Ym3hGqJBY8c/C0RUXosXTkp7kY7jBqNQ7gb6vaYRBvMoqYyusApTw8+t1hrU/fptsB8mwwG5Xjjw0H5vOwqTO0M9lLImg/ILzwBoIFbeGWhUotaEKvmTzg==;ihGw9utkBfuHQUAorWqC1g=="
 ---
 

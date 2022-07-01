@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T18:47:00Z
 originalUrl: "https://www.govtech.com/products/space-tech-gains-ground-in-spending-funding-feasibility"
 webUrl: "https://www.govtech.com/products/space-tech-gains-ground-in-spending-funding-feasibility"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Government Technology

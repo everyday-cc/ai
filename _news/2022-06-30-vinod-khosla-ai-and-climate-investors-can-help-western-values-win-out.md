@@ -3,8 +3,8 @@ category: news
 title: "Vinod Khosla: AI and climate investors can help western values win out"
 excerpt: "The Silicon Valley venture capitalist says it is vital to take risks on breakthrough technologies as economic rivalry between the US and China intensifies"
 publishedDateTime: 2022-06-30T16:47:00Z
-originalUrl: "https://www.ft.com/content/127b03ac-56be-4c70-903c-29c53293fc4a"
-webUrl: "https://www.ft.com/content/127b03ac-56be-4c70-903c-29c53293fc4a"
+originalUrl: "https://www.ft.com/content/127b03ac-56be-4c70-903c-29c53293fc4a?curator=biztoc.com"
+webUrl: "https://www.ft.com/content/127b03ac-56be-4c70-903c-29c53293fc4a?curator=biztoc.com"
 type: article
 quality: 17
 heat: 17
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "4KmY1M1CPNlgBlH7J7OABdy05qhI1B0jDE85VCTSHU/boG+VCOtEB4QAqv3iTV9qPAvz680iMr7vffANFw6/Tqb8DF/+8HfLNL0UXa5ZXId2Hl0/dOMoEs5E7zxprfLNXA1yPLV7r2apnbHVeum52acVivQMURwVSCTClderp69uwLrZJsWTvOUmN281D+iya2s/uJ0tb9AX/v2t0lBAqVkzLrHhrGHa9PzSGzpnbwiFMLRXVHcnIPUWJBf3JqMXGI0xd1U+GrqgRBB4IA82C8S1IbAKR25dJrV2TJ1itxmVtYm3OnM83TyJM+ttsRh1T7jQ5fWwWz5OGawoW5n6zdd0EhuqcW63tTB/rwDR/CsPokqFvxfAZsxPQRlDVnhb5vyLvDJuXLF8iqSKtgFEfk5eSXOM8UWDh3SRnzIMNPJB6HouLi5IefwLorVGkHx/RNWLugnkMATwpuawsKYlp80UDEMp1Jwqk1Iyi6YGWCHzLFN3e4hc3wwlGcm/HYraek5j1FD+YPxyfwfI7+jMgw==;ZONJw6kz1mnGC63cAfvUFQ=="
+secured: "NvdRsVDpO1+Sr/ZwTOpKnjZ41lQEPD/lvcp9pLg3v24BDrTVPZ7OkLgu0UxEbelPniydVTI+uf5QxgkrZnrzHP2miIW/3toYlK3S2cNDCbEi8JapnsmF5w0c6z0gp74FfSip0fRUy0rol/J8VJpkzGg+48WGtLBncRSynqx+nvrKpZPbW3GZgG4lVzXmLtcM1DcZ4B4eugzjl83rTWbBhp20WdbzR+PVRe/hvGovGmW2b+bJVHJrQ+zN5xLxiwn3Pto7ar0t8z84SZP7fSFlouWH/DXsIPPbLCeb6jNO8U+kZDPo/4+E0RYMTTRH7fO5xhO4xlV8LJBoIzpg/ite0/j9BbrNUByJ5UYENLNWS3BP7e05ev7vIMbWxIfQN5BETpCeRAkqK41bL+DH8CqR0ChknlLmA7TZYucG449xknoEvdHRhF+S1mCmOjcRLuHTGPQtvmeIk5RsoyF6A9P+3tnb+9OpGL3QPRWPr0RySjNI7UfeFaH4cOnsO4XaW8+2vaWAcvvd5hCtL6ThaGPa2g==;RZQk0hLYPAjDLEtz/0Dg4w=="
 ---
 

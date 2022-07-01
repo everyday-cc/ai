@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "4Psychedelics And Big Data: Learn How AI Is Helping To Read The Brain"
+    excerpt: "In a recent article in Psychology Today, Danilo Bzdok, M.D. goes through the novel research using natural-language processing tools in machine learning to understand conscious awareness and how drugs alter it."
+    publishedDateTime: 2022-07-01T20:06:00Z
+    webUrl: "https://www.benzinga.com/markets/cannabis/22/07/27936114/psychedelics-and-big-data-learn-how-ai-is-helping-to-read-the-brain"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27936114"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27936114"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/07/01/photo_courtesy_of_thisisengineering_on_pexels.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "gfP3wzAnu0jzwnrWHQs7/WWYqjybPH6mCa1VWN7d+NwnlMyT9esBllJOxtyw5stKZhlaNvLGD80MLk4ge/alppGGQsMs8MCQg2PXqP2uKDF9dsumLYBdUHzdZXOT9myUd07RZ8RDu0c46Rw9oTvjv9Mq6WaBNp9TkYYCZMKxMGaG7U1BAS9cxRrhdFP8VCqVK08o3NDxSX1ufBh/k6WGUrlcBiNCvRnlpzOGfkWgjocoBsIo8BD/Ncy7yPuszS3czE+tgwUSGBFDip/j5T/6bk4lnZYk0RS8TIn0j37X0BLGpxhjqc0IuKa+xdoVZ9t1mK7+8BiFTF8V3RBJ295Z3MwYLp68D96KTnSbgwP3+4QOqiLh4z4uuBKXwyG9R2SbLoUCTVb2+EVA6frPmuxHC/veAVWQnYApk+FrCbFHJNS3ryfHXf3BSbPZ+gLKZuSZ0H1op9Bhfae5fuhF8FYfg9YXBT/Fh9Tfv8F9hACx60Uzx+7wsz9V0pfDKgu+HlKzz7vhdt4zWV6WI3riUvqcVw==;irkecnzfgMXQVxIR5bgX1g=="
 ---

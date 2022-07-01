@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T17:20:00Z
 originalUrl: "https://www.boisestatepublicradio.org/2022-07-01/how-fifa-is-using-artificial-intelligence-to-curb-online-harassment-ahead-of-the-world-cup"
 webUrl: "https://www.boisestatepublicradio.org/2022-07-01/how-fifa-is-using-artificial-intelligence-to-curb-online-harassment-ahead-of-the-world-cup"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Boise State Public Radio

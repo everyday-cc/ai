@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy, your face and the rise of facial recognition"
-    excerpt: "Several large retailers, including Kmart and Bunnings, already use facial recognition technology in their stores – collecting biometric data that is as unique as a fingerprint – but are customers aware of how their facial data is being captured and used?"
-    publishedDateTime: 2022-06-27T01:22:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/privacy,-your-face-and-the-rise-of-facial-recognition/13946990"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/8203058-16x9-large.jpg?v=16"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "New laws urgently needed to control facial recognition"
     excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
     publishedDateTime: 2022-06-29T11:46:00Z

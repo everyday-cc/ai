@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T19:44:00Z
 originalUrl: "https://urbanmilwaukee.com/2022/07/01/health-care-safety-company-wins-summerfest-pitch-competition/"
 webUrl: "https://urbanmilwaukee.com/2022/07/01/health-care-safety-company-wins-summerfest-pitch-competition/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Urban Milwaukee
