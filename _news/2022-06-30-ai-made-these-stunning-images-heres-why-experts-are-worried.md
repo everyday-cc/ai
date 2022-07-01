@@ -1,32 +1,27 @@
 ---
 category: news
-title: "AI made these stunning images. Here's why experts are worried"
-excerpt: "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs."
+title: "AI made these stunning images. Here’s why experts are worried"
+excerpt: "By Rachel Metz, CNN Business A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs. These are just a few of the text descriptions that people have fed to cutting-edge artificial intelligence systems in recent weeks,"
 publishedDateTime: 2022-06-30T12:12:00Z
-originalUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-webUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+originalUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
+webUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607143256-google-imagen-corgi-house-of-sushi-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -40,6 +35,6 @@ related:
       domain: ktvz.com
     quality: 21
 
-secured: "VxDrzuPpTiefbZNDjcOkI8OUNiWUuOTeT+OFKZjuJYLEdx1UlexlRPJT5N2t3DBu3B/wbc9lAbHxdsrze4wBbZ7ljyUpvcyZ75PeZKvnUD0Ig6bMcExjJPwNUxW6eHxdlacWieMUBBnp+9qiWhtEp2BauILNuzLw08p9mvLeLl1yl7M4c22+9du8x5seW3gXH8UmS0sg51NaFFCZOoUaX+Y02j95weVmS58zGmncREphlaIYH0YBMqQvkUIHk7W/zHduVYrPZUhTkuD7aLWfmXKd49a1POo14I2MzPO6spU2Uu3L465xGLxxyXkYdj3G/wI1GMZ7pN6H985u+3f7W8UYwoPThO50a2BRaWHTyJ4=;+dQXcVBLcL2aq0XX75dvGw=="
+secured: "Pok/vYKl7yXoToi41mG9uoI48OASfzHoGiwkvVnV3QJQGxjrKlWBgP5xfCToA3RCB02ECbFlj2YDHxTWzs/wXJjiTbfG9rCZJMzLfl59mIyP+QUMSz2HDRUqLbMAL0wLrIKolpSHdnpZMzkhn4AlEguOD/eeUj5SUYp9e0/OAzl6WasD3Q7hUTjz7ckuWHtN5nFL1rQmXjJngaJ/gLkIuFOzr8pg7aFrLIbLbZoVAYX1OQmS6hyb5fNrSbiCq1rN39g0dlqD71cJA40D+yENITsroDSmhISYutkOiiQbLQYK//vJK4qE6aIhDSxWlkF/66sZGbt2rcK44Tw6KAvvkji95+bK7hfzmIYoIMpMdSs=;HaSLITYucktY8EEiJ3VbEQ=="
 ---
 

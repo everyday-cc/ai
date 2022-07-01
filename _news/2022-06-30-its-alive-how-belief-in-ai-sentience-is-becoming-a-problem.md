@@ -1,32 +1,50 @@
 ---
 category: news
-title: "It’s alive! How belief in AI sentience is becoming a problem"
-excerpt: "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-publishedDateTime: 2022-06-30T14:00:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
-webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
+title: "It's alive! How belief in AI sentience is becoming a problem"
+excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+publishedDateTime: 2022-06-30T14:04:00Z
+originalUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
+webUrl: "https://www.reuters.com/technology/its-alive-how-belief-ai-sentience-is-becoming-problem-2022-06-30/"
 type: article
-quality: 89
-heat: 139
+quality: 69
+heat: 119
 published: true
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
-    width: 2500
-    height: 1623
+  - url: "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
+  - title: "Chatbot company Replika says many customers believe in AI sentience"
+    excerpt: "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-06-30T17:36:00Z
+    webUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/"
+    ampWebUrl: "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 61
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "How belief in AI sentience is becoming a problem"
     excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
     publishedDateTime: 2022-06-30T15:50:00Z
@@ -75,35 +93,23 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Can an AI bot convince you that it's sentient?"
-    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
-    publishedDateTime: 2022-06-27T21:00:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
+  - title: "Are chatbots conscious entities? The AI sentience conundrum"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the"
+    publishedDateTime: 2022-07-01T15:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
-    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
-    publishedDateTime: 2022-06-30T16:01:00Z
-    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
-        width: 708
-        height: 419
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-58036,msid-92603089/chatbot.jpg"
+        width: 600
+        height: 450
         isCached: true
 
-secured: "4ZZuY76161CvTkFw+2ZlT8TF0oyqym/qrhLbTIDv1jm/FcEuLxK0kKremSTJk054VAE1KnsqFonMkAvaiYfhfdVysDWUYRBpjG+/dkjvEDd/io84n4UOAoQUmAMVlLzEP785Z9XU3ZsdiapJgLTpKIGf2A4nnDb3YBRsifO5gYQrQVQx9cJ2LrNb9AYchwGxOe4wjZGqQj1hhZQi5lIR3H3zINUFxiuncjZuREMi6Lh9N/qs4QFpiuqImmKtVKMb5XxVilMBIqvmlK0ymzbSwZ86mB80+Sokzc1wCRfWL+q8gfbvU7LoTRQUYLGlSQGrljLBlIRpIBY24daijjdDf52J7JgzavVpmhZ3f11hbEw=;G6h3RA0Ko3DpEA5hOIr4EA=="
+secured: "cQDypTETePWt3ZBz6nWWaxd42oxdwDVNJauCMBTvmp595MJgfyYVy++Apik13gtmgKUFxu9ZdZG6W4GwTgM9E/9lmlDMBLsnkC2ubkt9OGWHiuHoiXmsz4ILoyqaK9g4i15vAtwf0gueq5PcWa3DbGjNagwaz6S17NgOyQYkso6VhPk0BEzlg6btnUNZhpIQ1XdIJ2px29SXsfcxOuQedzQJihu5VZ83obt6NIZSJy4AUfEWyyPQpyuwUg4nZHPR2zwmW7A6JG5qBis7zrLICKX5qX7ehD0o/gKJ5Hl2mmQ7+NmBb28oUffB1x+ymffBBkKgFLxg2usSI6D1YMmG0CDPbKs6FtMKVZD6JwrVDqY=;EFWhCzBY2PO8h1E+S3PznQ=="
 ---
 

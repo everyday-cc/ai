@@ -3,8 +3,8 @@ category: news
 title: "AI could improve welfare of farmed chickens by listening to their squawks"
 excerpt: "The technology correctly distinguished distress calls from other barn noises with 97% accuracy"
 publishedDateTime: 2022-06-28T22:08:00Z
-originalUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks?amp;amp;amp"
-webUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
+webUrl: "https://www.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
 ampWebUrl: "https://amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/jun/29/ai-could-improve-welfare-of-farmed-chickens-by-listening-to-their-squawks"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "7yvoaOSrZnRgX9/pyddEOs7pkISHdKS97xpljAL+HJ/Lees+K1hEGzrPx5qjqnkKZT9j3KD3k1RyyOwuUiqCvdJnvlXMG5hIcLzgpip0tfyThEIrcDETAKsyUcbv11scxnLrxByhwsYSdL6KqQytNtcsf2TO6LbpbIil5ei9k12R44qCgadbCEGdJHaK+RSQZZwHtj0FIpPc4+CfZfBllw5Fih9IvZ8gWyoOgokpaxOcwi1MQOhmFbtAslTigbCg4d1DU7DJx7Ty/ecEoFgVNr9GntWjRhEJJY1/txFNV2wX8BdOgjNEuLO5AHFCSPK6qes8Hy0XQ5Sh76+qjs6Dl+X52dhqA3o93VWPAdeiqww=;t3KdRClDR5zhsK1KzJc6zg=="
+secured: "WVgNkQt2HncAVkUjw4/I/8EadZS0aTgT1/43WsVAgic6xfH7qgYF4rbLITeSfk6WSgG6cKiXjwq2EIhCGbxPb33icwvvnvau8M2HI3MoFYczsFk5c4qYm3dtXPXovg3hJLj6XCm7Vk8V0eqGd7zIljrMaM0i7fpcei8MjpElXYSPAoLtj5wmrtx6iuy+dTcvEunksVn4TGtYkKnhEankd1+mWmlbmeBMeNaDh95o60Nj2t08vCZGYoXuKtFkAlvhrzI6GQjQPGV3INmD7yXhqgj8DNrwyIMCRrSoUMNHXmE/0oY1JgV0spROpnY2HOc0bVF/vv1YFibsf6DZXG6o6g97yLbqAvZRU/+P+EUaSIQ=;q4xIAvCy07oQsjFhPv/cPw=="
 ---
 

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Swoop and iHeartMedia Bring Precision Healthcare Audiences to Broadcast Radio"
-excerpt: "Swoop, the leader in privacy-safe AI-generated audiences for healthcare marketing, today announced a strategic partnership with iHeartMedia, the leading audio media company in the U.S., that makes its custom patient audiences available for broadcast radio planning,"
-publishedDateTime: 2022-06-30T17:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-radio-ba27b81c55cc4c688406d98793f99bc1"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-radio-ba27b81c55cc4c688406d98793f99bc1"
+excerpt: "As one of iHeartMedia's preferred healthcare data providers, Swoop enables healthcare marketers to move from legacy age and gender buying to data-driven broadcast radio activation in an ad-enabled portfolio that reaches more than 275 million individuals per month,"
+publishedDateTime: 2022-06-30T18:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-swoop-iheartmedia-bring-precision-healthcare-audiences-broadcast-radio-/2022/06/30/9632126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-swoop-iheartmedia-bring-precision-healthcare-audiences-broadcast-radio-/2022/06/30/9632126.htm"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "JhLyCkhX0mIAr29r0v4L5AuEFq8MwLKFti4CMwqEkQUdgyyNsotKKwDDNarquLO7lQC/Hcyob7zq7qM2dIBHYcvyLW62Yei6OLSAXhOQIiHJ/YNWq88cCXbaM2eX7cemgvJS65+JyKXqeTfBXSm67NKINvg72j/S3lDp1vOwSAY5fYT4qCO0Fehmn10HNMtHx2I9KYDjnNJdF7OGpsPRt2qvxUmlfxaT2IDpDC1m1X7vrShehOb9yxh1QIDxgpo/Wd9Sv96C5csyvvfzkqx5eduVDJ+b52rZKMhbqUyLIsTFYgd7RutTXhBSqyMstPPGALD5dFef72bxcWdF/8mvwRlFC6RvwjWMldHBxK7OAU0=;YAGk2SukMJWq37EVcZXcYw=="
+secured: "LipFFrT1aIYAMrToN2+mQEbMgpk0tpK3NYj+Utfc+68tGUSL1DtP6SOkSxSpjLBNZBhxHb6TwKEwWCQtfynW5U+uCaveziCL5NLvhV8LGPV7BbW3pCd4BvGVgwJGo31nASlUDpMWzaPMnxaMP+Yo4bm3KIQ0RygQky94ThIzfCZg82IJKDpUkBNhT6PUi15mFMfJ6Kqe+CKGOXC5ghYDbey2H2ec2ktKK1K6Q1vCdWM+gBqlRdXRpHgU9kaZdGKp+tl+dl6Uuy+T/MpHlzEAy6ffBsA/nIYzjNqEG00OwFAXSBOi1VGFXs/Cx5LzaYlX386dfc9NF28kWcBXydB7BDoFXEFj6dimXr/c4T9g/Bg=;L/xk/IYQD93tMB+SU1V4zA=="
 ---
 
