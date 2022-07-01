@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to
 webUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/"
 type: article
 quality: 82
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.crn.com/resources/0273-14b82b7c6db9-8d7b4fa5b5c9-1000/ai-artificial-intelligence-mind.jpg"
         width: 608
         height: 457
-        isCached: true
-  - title: "OpenAI’s New AI Learned to Play Minecraft by Watching 70,000 Hours of YouTube"
-    excerpt: "Now, the company says its latest AI has learned to play Minecraft after watching some 70,000 hours of video showing people playing the game on YouTube. Compared to numerous prior Minecraft algorithms which operate in much simpler “sandbox” versions of ..."
-    publishedDateTime: 2022-06-26T14:01:00Z
-    webUrl: "https://singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/"
-    ampWebUrl: "https://singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 54
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/06/minecraft-openai-machine-learning-algorithm-plays-games.jpeg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "Visonify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
     excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."

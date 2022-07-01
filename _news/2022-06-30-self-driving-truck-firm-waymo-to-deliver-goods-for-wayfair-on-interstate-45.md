@@ -43,19 +43,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "ALSO READ: Beijing grants Baidu, Pony.ai new driverless robotaxi permits Founded in 2000 as a search engine operator, Baidu has expanded into artificial intelligence, processor chips and other ..."
-    publishedDateTime: 2022-06-29T04:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "That came 18 months after Waymo started driverless ride-hailing ... Baidu has expanded into artificial intelligence, processor chips and other technology. It says its autonomous vehicles could ..."
+    publishedDateTime: 2022-06-29T10:41:00Z
+    webUrl: "https://qctimes.com/lifestyles/technology/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_527d6ec9-4e78-5594-b255-47e0605594af.html"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Quad-City Times
+      domain: qctimes.com
     quality: 54
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/29/1640322.jpg"
-        width: 1240
-        height: 826
+      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/78/e7886780-d4a7-5a8f-93ad-6bfca78c579f/62bbb5fecbe9e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Airbnb bans parties, Wayfair self driving deliveries, and Niantic's NBA All-world"
     excerpt: "The party is permanently over, at Airbnb properties, some items ordered from Wayfair will soon arrive on self-driving trucks, and the developer of Pokemon Go is creating an augmented reality game with the NBA."

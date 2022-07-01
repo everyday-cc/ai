@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
-excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft"
-publishedDateTime: 2022-06-29T13:54:00Z
-originalUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/"
-webUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/"
-ampWebUrl: "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/"
+excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft Rising Azure Technology Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
+publishedDateTime: 2022-06-29T13:03:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-328e0559108d4e62b1a3654b7a7a514f"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-328e0559108d4e62b1a3654b7a7a514f"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
@@ -22,9 +20,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -140,6 +138,6 @@ related:
         height: 768
         isCached: true
 
-secured: "8de58jTuKPAuaWVzZfKKmE04tQihfG9Gg5iny7HoYcOf3umgn3LlsNrz5T/BMccXEN89e0snwKHPlrkWDQ3afy2QueTvB4Q0elLu/t46Hnc0Z1cJBvd3dU4V+7QQEMUv5VqRa++Aom7AbDQIzzk5rcVZBMvxmAlnP4V0dM6lReB9xxn0i88YcR6NGdbcjz3JlbyLaSwpVOD9pAQ5RF4hDGtR52RqqCGcKVZjWRiegGPx3pXVzGrGyF1430uH3HnyiVYLRYf4fvkbcVWPHkIKDVxl4fFu4bx4WS9L1fZyqfhPsgnAvxKHfBsdhIaDdR8wHqUwis9jEq42zq52Es11PGRK6uQj5dlx5gXqRQrMmgL1BBNz/iLT2pdnpynmI65dGqB+AbrIMuEji/hyY8s9/78ItzjhOGiSNh8bqeEarJ+m43WnmzL9jww74RbfyWC8PBA3tJe8ny5pPKPTw+lc3P03WeX5TyhXoNpGf7kwRVeno2XmzS6SGXZSsqQ2sQ3YmcsjHndYmsr5UhNfVGvYBw==;PMrjSWrOLbdTbAZiDKL5EA=="
+secured: "oEgaEh08xL048n+5Fh0aesUFOkje0Szwr3A4uRZZG0inMb0G4GtA9PGEgXeYbGqzFQu6QmMaW7cE6i7X5QEYKC3T7n5sWxA5tog4eBi91piY074O970GH6fnXispAKZL9RADF2rncIo8CBAYExH2sRYRgGeDUpVv4KooNPgwwAaS47au+zhIDoPZr1fydDDOgbIEHRyFjJenLUq/DdRgRvCtNGKORC0IgLdO5/+hgiI3+QqMg8CAEY3t3Jf3MgaRYvODvrSUZOxAlWxskdpEfwKjRxdaFfgoqJ3r5sOHWw+gqqD74qtNzk1/FJzp5AFIIdPFTSlFUUrd/k4+ZxJ6JARwNTaQkfJr7xAbUqOQJgE=;wWcXe/Zeu5PFnYVgwdpj9A=="
 ---
 

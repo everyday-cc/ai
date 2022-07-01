@@ -25,6 +25,80 @@ images:
     isCached: true
 
 related:
+  - title: "Australian retail giants named in facial recognition tech complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
+    publishedDateTime: 2022-06-27T19:53:00Z
+    webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Australian retailer pauses facial recognition trial over privacy complaint"
+    excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
+    publishedDateTime: 2022-06-28T08:25:00Z
+    webUrl: "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220628&t=2&i=1602869101&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5R04C"
+        width: 810
+        height: 522
+        isCached: true
+  - title: "Australian chain store pauses facial recognition trial"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T06:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s750"
+        width: 750
+        height: 456
+        isCached: true
+  - title: "Australian appliances giant pauses facial recognition tech over privacy concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T03:08:00Z
+    webUrl: "https://www.reuters.com/technology/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern-2022-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/E9f6SERqd4JhyOSdc1sETEzMCaQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VIWPZARKTHH5MMB7K3BHAEI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Australian firm halts facial recognition trial over privacy fears"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. In an email on Tuesday, a spokesperson for JB ..."
+    publishedDateTime: 2022-06-28T07:19:00Z
+    webUrl: "https://www.aljazeera.com/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2022/06/359452268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Virginia lifts ban on police facial recognition technology"
     excerpt: "The new law allows police to use the technology in certain circumstances, including to help identify an individual when they have reasonable suspicion that the person committed a crime."
     publishedDateTime: 2022-06-30T15:29:00Z
@@ -41,6 +115,71 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australian Retail Giants Named In Facial Recognition Tech Complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
+    publishedDateTime: 2022-06-27T09:40:00Z
+    webUrl: "https://www.ibtimes.com/australian-retail-giants-named-facial-recognition-tech-complaint-3553209"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
+        width: 1200
+        height: 807
+        isCached: true
+  - title: "Australian Retail Giants Targeted In Facial Recognition Tech Complaint"
+    excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
+    publishedDateTime: 2022-06-27T08:10:00Z
+    webUrl: "https://www.ibtimes.com/australian-retail-giants-targeted-facial-recognition-tech-complaint-3553115"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
+        width: 1200
+        height: 807
+        isCached: true
+  - title: "Australian retailers named in facial recognition complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
+    publishedDateTime: 2022-06-27T20:39:00Z
+    webUrl: "https://www.itnews.com.au/news/australian-retailers-named-in-facial-recognition-complaint-581908"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "Choice lodges OAIC complaint over ‘intrusive’ facial recognition technology"
+    excerpt: "Choice has lodged a complaint with Australia's privacy regulator alleging retailers are using \"intrusive\" facial recognition technology."
+    publishedDateTime: 2022-06-27T08:15:00Z
+    webUrl: "https://insideretail.com.au/business/choice-lodges-oaic-complaint-over-intrusive-facial-recognition-technology-202206"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 52
+    images:
+      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/06/bigstock-Security-Camera-Recognizing-At-436501025.jpg?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
+        isCached: true
+  - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T04:34:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-28/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Good Guys Halt Facial Recognition As Watchdog Investigates"
     excerpt: "The Good Guys have stopped using facial recognition technology in their stores, following a complaint made to the Office of the Australian Information Commissioner. This follows an investigation by consumer whistleblowers CHOICE,"
     publishedDateTime: 2022-06-28T23:58:00Z
@@ -55,86 +194,50 @@ related:
         width: 1500
         height: 1073
         isCached: true
-  - title: "The Good Guys to pause facial recognition technology following backlash"
-    excerpt: "\"This is an important step in the right direction for The Good Guys, and a decision we know reflects community expectations,\" CHOICE senior campaigns and policy advisor Amy Pereir"
-    publishedDateTime: 2022-06-29T01:28:00Z
-    webUrl: "https://www.9news.com.au/national/the-good-guys-to-pause-recording-customers-faceprints-following-backlash/113c5e59-42ff-4925-ae3b-755850f2f143"
-    ampWebUrl: "https://amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
-    cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
+  - title: "Bunnings, Kmart dig in on facial recognition as scrutiny grows"
+    excerpt: "The Good Guys will “pause” its use of facial recognition technology following an investigation and subsequent complaint to the privacy regulator by a consumer group. But Bunnings and Kmart are digging in on their use of the controversial technology."
+    publishedDateTime: 2022-06-30T03:58:00Z
+    webUrl: "https://www.innovationaus.com/bunnings-kmart-dig-in-on-facial-recognition-as-scrutiny-grows/"
     type: article
     provider:
-      name: Nine News Australia
-      domain: 9news.com.au
+      name: Innovation
+      domain: innovationaus.com
     quality: 39
-  - title: "Police have 'no imminent plans' for use of facial recognition technology"
-    excerpt: "Suffolk police has \"no imminent plans\" to roll out facial recognition technology after another force confirmed it will start using"
-    publishedDateTime: 2022-06-30T10:40:00Z
-    webUrl: "https://www.ipswichstar.co.uk/news/crime/suffolk-police-no-plans-for-facial-recognition-tech-9102522"
-    type: article
-    provider:
-      name: Ipswich Star
-      domain: ipswichstar.co.uk
-    quality: 38
     images:
-      - url: "https://images.cm.archant.co.uk/service/social-media-image/1851526/7302524/1/6217252-2/PA-49806341.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.innovationaus.com/wp-content/uploads/2021/11/facial-recognition_763651345_800x600.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
-    publishedDateTime: 2022-06-29T08:47:00Z
-    webUrl: "https://www.iothub.com.au/news/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-582022"
+  - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
+    excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
+    publishedDateTime: 2022-06-27T01:47:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jun/27/coalition-has-open-mind-on-indigenous-voice-referendum-but-says-pm-must-bring-australians-with-him"
     type: article
     provider:
-      name: iothub.com.au
-      domain: iothub.com.au
-    quality: 36
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
     images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
-        width: 1254
-        height: 836
+      - url: "https://i.guim.co.uk/img/media/fac09191ef4c77c13693f0add4b05ef7dcb58ad6/0_0_6773_4515/master/6773.jpg?width=620&quality=85&auto=format&fit=max&s=4cd2c049f96940e5e15628c3488a4c29"
+        width: 620
+        height: 413
         isCached: true
-  - title: "Marijuana, facial recognition and other new Virginia laws take effect on Friday"
-    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday. Here is a look those measures a"
-    publishedDateTime: 2022-06-30T22:49:00Z
-    webUrl: "https://www.dailypress.com/government/virginia/vp-nw-new-laws-virginia-20220630-m3dfwhbanbfvrak6hxodfhbsqy-story.html"
+  - title: "Ambassador Xiao Qian’s Speech: A New Way Forward for Australia-China Relations?"
+    excerpt: "Xiao’s recent speech signaled a new approach to the relationship from Beijing, but the many protesters also highlighted the lingering structural issues."
+    publishedDateTime: 2022-06-30T15:29:00Z
+    webUrl: "https://thediplomat.com/2022/07/ambassador-xiao-qians-speech-a-new-way-forward-for-australia-china-relations/"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 35
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 20
     images:
-      - url: "https://www.dailypress.com/resizer/jAG-_2DS9bJJEPZmuCsLjsWsgVM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UDUQHF4OV56YHOQEME7BUTF5VE.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-30-143000.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
-    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
-    publishedDateTime: 2022-06-30T18:47:00Z
-    webUrl: "https://menafn.com/1104460450/Facial-Recognition-Technology-How-Its-Being-Used-In-Ukraine-And-Why-Its-Still-So-Controversial"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-  - title: "Marijuana, facial recognition, other laws take effect July 1"
-    excerpt: "Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology, expanded hunting on public lands, and added a new criminal penalty for marijuana possession."
-    publishedDateTime: 2022-06-30T14:22:00Z
-    webUrl: "https://www.chron.com/news/article/Marijuana-facial-recognition-other-laws-take-17276652.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
-  - title: "Marijuana, facial recognition, other Virginia laws take effect July 1"
-    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday."
-    publishedDateTime: 2022-06-30T15:20:00Z
-    webUrl: "https://wtop.com/virginia/2022/06/marijuana-facial-recognition-other-laws-take-effect-july-1/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 19
   - title: "Facial recognition technology: The Good Guys stops using special cameras in stores"
     excerpt: "Home appliance chain The Good Guys has decided to stop using facial recognition technology in stores after a customer backlash, it can be revealed. The reversal heaps pressure on even larger retailers Bunnings and Kmart, which are also using special ..."
     publishedDateTime: 2022-06-28T03:59:00Z

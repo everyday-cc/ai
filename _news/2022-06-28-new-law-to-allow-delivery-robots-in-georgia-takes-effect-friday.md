@@ -39,6 +39,20 @@ related:
         width: 600
         height: 402
         isCached: true
+  - title: "Marijuana, facial recognition and other new Virginia laws take effect on Friday"
+    excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday. Here is a look those measures a"
+    publishedDateTime: 2022-06-30T22:49:00Z
+    webUrl: "https://www.dailypress.com/government/virginia/vp-nw-new-laws-virginia-20220630-m3dfwhbanbfvrak6hxodfhbsqy-story.html"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 35
+    images:
+      - url: "https://www.dailypress.com/resizer/jAG-_2DS9bJJEPZmuCsLjsWsgVM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UDUQHF4OV56YHOQEME7BUTF5VE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pAoLsWIqRyfGOhegSGnrkxkqBKg1TwXOqPGFHk4u5213MtsHsI/VIBBVL/oVArKZ33czhFp/9N83OJzs1UoT1j4VQ7IlGBi9WtapBqDSJlzbj1VtY+jb/mklMnXiYbMbDLwwGTlwfYjPCFwcBzxpuXl1+uXAurf8X/wZ9YjYyfpuhR4DwUTYCn81HMOqB5slsQnCrcEM1ggc/QKex1c5HoRaH6DlYHgnL6YGjE2LNUL6T+08WP0LzVJyOxO6wdLOL3IKCm5Q7Og/lJqNuN/0mYVP6+J/aDuHOR4IOuwpiWKvYEfTHuNfkglMw7mWeHxspJdGnAKC0mWEUsNZeyRwUG1CNTffBDsydiHdWBe8lGTej2Ofb/OZn5oii20RFO+8JrFfkocPY6GoZDiJ546qCR/lsL+M0urwYXNNxClWIOzDmpEUUzU7tC+3V2OPTw4ZdYSjWweef8vdh5Z90BkZp+ro4hOHQFmrT8108S0lMZKcU/KCdb0N0fSSIU7BdBOspdxqwy0Lm3ikkKruodoOcg==;ePyfCy4k9zqiCCw54AaYKg=="
 ---

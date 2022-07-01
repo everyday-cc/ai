@@ -1,15 +1,15 @@
 ---
 category: news
 title: "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022"
-excerpt: "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ..."
-publishedDateTime: 2022-06-21T09:30:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/"
+excerpt: "Start a 7-Day Free Trial Morningstar Investor Unlock our industry-leading research and bring greater confidence to your investment decisions."
+publishedDateTime: 2022-06-21T05:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220621ny94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220621ny94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022"
 type: article
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 258
     isCached: true
 
-secured: "mynW/03u3pjtsn7nvSWmmK0yMFv3L7Cr9NZ+ncrR7s4/gSu3SOz4NUCD5VPB4w1Io+mXT4eHkz390Sfj4/WD0SZOIFpx3OH5qKUHHmy0tW4Hj1yFcyvpgGpDAbufHbjeCRQxKa4Q18iH2dbdnzONc7ipziIVXNFCmJMFV4K7mKDTBf2VoI1aov7hEkc2QLswYMsTO/dWvgXJ8tNbEa/Kz+OFlj09neCIW02vFVTOUMmfz3fIZ8lyaA4yQPL0FCzr/6JNx63rWvpfGGo9uoi6Y/YYci3CMizfNWgmFNCf7WJr4LJNC0LuvdKUI7sB7fMrDLn+AGMM5kA5cyCcqrSiNdv22XmIR8L1wnYibDrxMTg=;8jgBNi/KQ4rYrmr4hsEygw=="
+secured: "pM8ga0akHCZKVtkx98yH4fNPZcfSM4hcqk+N7Qxd5SUWTD4Iv0eeDgizqWWZcI/BMFfCHvwBPD6wWciidcdFQyBgNjfgRHuWKjiqdtWKajaFTtTHTDn1TT7gNsnrselkxfc4AKlqoBCa6n4FBCv/UonxIVhW+adKTmL7Q2fEXg/pkMtRYojNh64lXtwdSdHCmmbdpmYXylVV7LE6bRDkU5NZPrB1soy1OY/yzyHnvCKczkNEE1OLt4zjDBW45F3ej6CqHheWhsI630XOSN/1pcXEKJy9sDNHKBzhhp7+JJCkQpcAumM60JWrbgb2PTsCb/95gHEY3NzbpjLAb3qrsqRM4mL7b9fia8Rl3ZACPoU=;pQlr140N2/Q8I5yWn4cm1w=="
 ---
 

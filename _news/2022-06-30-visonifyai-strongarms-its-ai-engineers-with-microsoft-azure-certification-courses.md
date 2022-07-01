@@ -47,22 +47,6 @@ related:
         width: 608
         height: 457
         isCached: true
-  - title: "OpenAI’s New AI Learned to Play Minecraft by Watching 70,000 Hours of YouTube"
-    excerpt: "Now, the company says its latest AI has learned to play Minecraft after watching some 70,000 hours of video showing people playing the game on YouTube. Compared to numerous prior Minecraft algorithms which operate in much simpler “sandbox” versions of ..."
-    publishedDateTime: 2022-06-26T14:01:00Z
-    webUrl: "https://singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/"
-    ampWebUrl: "https://singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 54
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/06/minecraft-openai-machine-learning-algorithm-plays-games.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "AI learns to play Minecraft by watching 40,000 hours of YouTube"
     excerpt: "OpenAI's latest AI learned to play Minecraft by watching 40,000 hours of YouTube. The company, which specialises in"
     publishedDateTime: 2022-06-27T14:18:00Z

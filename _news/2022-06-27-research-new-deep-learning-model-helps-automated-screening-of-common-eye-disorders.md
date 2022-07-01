@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/medical-devices
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/medical-devices/research-new-deep-learning-model-helps-automated-screening-of-common-eye-disorders/92488876"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Research: New deep learning model helps automated screening of common eye disorders"
-    excerpt: "A new deep study reveals that automation in disease diagnosis is reliant on deep learning models that can accurately and efficiently identify measurements of tu"
-    publishedDateTime: 2022-06-26T14:40:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272599731/research-new-deep-learning-model-helps-automated-screening-of-common-eye-disorders"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 33
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1656253436.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "a2Ve9ERkspRSEMxR9kkHV3O94DBh73XfsFLi3d1SagvNfvEzsWCOJFocpdDFx5XuJoaLwPT5hWPmWR9sQ+sD9F+HDP/7jv15n2zQeTO9qp9r/iCmRjKmKw+P8JLNSHEuF4ocbjqdqMzZCntSFSWlJ2KCGyAYqpGox2NFAo4uWXSNWY1aPn3rZxHz4V5b34sYZpcE385bRU1UoZX8NntW8yX0U/EjcgdNQSFafsdG73cI1ubQET+Lsg0+epRCHJgxNsa97xzYVyCtRoLUUUJl7KmWDNB/AIv0hcRnFMEIIQh8ngNVVWFSBnV7vZVWbOqpJTnjl9CTxuLxQXw8WcG7pxJJx2lV9E7ljAN0AwTUz/K83xcARA38WP7DQ9oFscsch+9eg6CESUtPff5LQHO7SRNhDBIOFFt7g5nOGoNJcMscenhqwUob8Avyi7bFKkd0X3klrUWRg+uHxhYw41JlFeq6Ob3HDM03Q2RDaTJMhAvXrxADCKnUEouiy6COLEffPwXKxYgXjrAacQi1gvo/6Q==;fkTDNpxejTPNldOnxwhZow=="
 ---

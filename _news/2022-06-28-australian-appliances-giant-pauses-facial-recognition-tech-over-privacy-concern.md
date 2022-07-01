@@ -30,20 +30,6 @@ images:
 
 related:
   - title: "Australian retail giants named in facial recognition tech complaint"
-    excerpt: "Shoppers walk past stores of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys located in a shopping center in Sydney, Australia, May 19,"
-    publishedDateTime: 2022-06-27T08:02:00Z
-    webUrl: "https://www.reuters.com/news/picture/australian-retail-giants-named-in-facial-idUSKBN2O8072"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220627&t=2&i=1602786598&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5Q04P"
-        width: 810
-        height: 544
-        isCached: true
-  - title: "Australian retail giants named in facial recognition tech complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
     publishedDateTime: 2022-06-27T19:53:00Z
     webUrl: "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/"
@@ -103,6 +89,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Virginia lifts ban on police facial recognition technology"
+    excerpt: "The new law allows police to use the technology in certain circumstances, including to help identify an individual when they have reasonable suspicion that the person committed a crime."
+    publishedDateTime: 2022-06-30T15:29:00Z
+    webUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022"
+    ampWebUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
+    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
+    type: article
+    provider:
+      name: WTVR
+      domain: wtvr.com
+    quality: 59
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/484/ab537de11df9456cb23cbc1d7e732de9/484559d726fb4bf0a2e672ddacb2c07f/poster_4bd9a0b83c914d0cbfab1db5c30d361a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Australian Retail Giants Named In Facial Recognition Tech Complaint"
+    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
+    publishedDateTime: 2022-06-27T09:40:00Z
+    webUrl: "https://www.ibtimes.com/australian-retail-giants-named-facial-recognition-tech-complaint-3553209"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
+        width: 1200
+        height: 807
+        isCached: true
   - title: "Australian Retail Giants Targeted In Facial Recognition Tech Complaint"
     excerpt: "A major consumer group has referred three of Australia's biggest retail chains to the privacy regulator, saying they use \"unreasonably intrusive\" facial recognition technology on customers and recommending enforcement action."
     publishedDateTime: 2022-06-27T08:10:00Z
@@ -131,6 +147,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Choice lodges OAIC complaint over ‘intrusive’ facial recognition technology"
+    excerpt: "Choice has lodged a complaint with Australia's privacy regulator alleging retailers are using \"intrusive\" facial recognition technology."
+    publishedDateTime: 2022-06-27T08:15:00Z
+    webUrl: "https://insideretail.com.au/business/choice-lodges-oaic-complaint-over-intrusive-facial-recognition-technology-202206"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 52
+    images:
+      - url: "https://i1.wp.com/insideretail.com.au/wp-content/uploads/2022/06/bigstock-Security-Camera-Recognizing-At-436501025.jpg?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
+        isCached: true
   - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
     excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
     publishedDateTime: 2022-06-28T04:34:00Z
@@ -140,6 +170,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Good Guys Halt Facial Recognition As Watchdog Investigates"
+    excerpt: "The Good Guys have stopped using facial recognition technology in their stores, following a complaint made to the Office of the Australian Information Commissioner. This follows an investigation by consumer whistleblowers CHOICE,"
+    publishedDateTime: 2022-06-28T23:58:00Z
+    webUrl: "https://www.channelnews.com.au/good-guys-halt-facial-recognition-as-watchdog-investigates/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 39
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2018/02/The_Good_Guys_Wagga.jpg"
+        width: 1500
+        height: 1073
+        isCached: true
+  - title: "Bunnings, Kmart dig in on facial recognition as scrutiny grows"
+    excerpt: "The Good Guys will “pause” its use of facial recognition technology following an investigation and subsequent complaint to the privacy regulator by a consumer group. But Bunnings and Kmart are digging in on their use of the controversial technology."
+    publishedDateTime: 2022-06-30T03:58:00Z
+    webUrl: "https://www.innovationaus.com/bunnings-kmart-dig-in-on-facial-recognition-as-scrutiny-grows/"
+    type: article
+    provider:
+      name: Innovation
+      domain: innovationaus.com
+    quality: 39
+    images:
+      - url: "https://www.innovationaus.com/wp-content/uploads/2021/11/facial-recognition_763651345_800x600.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
     publishedDateTime: 2022-06-27T01:47:00Z
@@ -156,6 +214,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Proposed facial recognition use rules for Irish police hits resistance among slim majority"
+    excerpt: "Eamon Ryan told Cabinet he and his three Green Party colleagues in Cabinet are concerned about the privacy and civil rights impact of the biometric technology."
+    publishedDateTime: 2022-06-27T22:16:00Z
+    webUrl: "https://www.biometricupdate.com/202206/proposed-facial-recognition-use-rules-for-irish-police-hits-resistance-among-slim-majority"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Ambassador Xiao Qian’s Speech: A New Way Forward for Australia-China Relations?"
     excerpt: "Xiao’s recent speech signaled a new approach to the relationship from Beijing, but the many protesters also highlighted the lingering structural issues."
     publishedDateTime: 2022-06-30T15:29:00Z
@@ -170,6 +242,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Facial recognition technology: The Good Guys stops using special cameras in stores"
+    excerpt: "Home appliance chain The Good Guys has decided to stop using facial recognition technology in stores after a customer backlash, it can be revealed. The reversal heaps pressure on even larger retailers Bunnings and Kmart, which are also using special ..."
+    publishedDateTime: 2022-06-28T03:59:00Z
+    webUrl: "https://www.goldcoastbulletin.com.au/news/nsw/facial-recognition-technology-the-good-guys-stops-using-special-cameras-in-stores/news-story/0bca9e65aab91fa1439416024a27b0d7"
+    type: article
+    provider:
+      name: Gold Coast Sun
+      domain: goldcoastbulletin.com.au
+    quality: 13
 
 secured: "zbJlECbJSaJnLN5IdZoLo60CUOYIFZ1Tlc4MtRz9ipUkP2Voq8S2xuPKiQ7zPfEodq3RY6/gRVbMCqs6/dn4j0MLULLCcWLpTARpMDgPAhcJXg3gy7VXIgKawqVw0H50onIWIIgev5KoYzWFUUrsOrdCSiq/pN+F080nz5LBnZ+uq17jTezebpjIQ0NYZAJ7zthqe4vp06mS6zdRMBG+8rFkOyIfgro88iVcvWjHGLj1CK6OvO6QKYNy+qzgts75adT2YNZ+aygnY2nXrcgE8DH4GIJ0u7XbjsAEmDMIiPCJMHDyLeYaeBAMX3MwlA+XB7Lg4AbMQRfqec/+02xxFK8WCionR74pX/9NEgsdGyrtnNfY+jJQZ/hy6Xh4ENIqSppFDi/5xLI7QsdKGI4s3slB51XbZJFyJ41eLuE6u7v5MODXZlFc/1i/KvLaSfnkEg0Sgkwr85s3C84eVIMwicOOVD4Dspfo3BxauRORZClz0fDAxoc3tAg8jENRyUwUuG9jCkZW32DD92YJRDmV+g==;IqjvlUmHs8N4JZcS+AtWsg=="
 ---

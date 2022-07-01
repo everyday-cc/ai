@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "OpenAI’s New AI Learned to Play Minecraft by Watching 70,000 Hours of YouTube"
-    excerpt: "Now, the company says its latest AI has learned to play Minecraft after watching some 70,000 hours of video showing people playing the game on YouTube. Compared to numerous prior Minecraft algorithms which operate in much simpler “sandbox” versions of ..."
-    publishedDateTime: 2022-06-26T14:01:00Z
-    webUrl: "https://singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/"
-    ampWebUrl: "https://singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/06/26/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 54
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/06/minecraft-openai-machine-learning-algorithm-plays-games.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "Visonify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
     excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
     publishedDateTime: 2022-06-30T14:06:00Z

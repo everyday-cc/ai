@@ -1,73 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports"
-excerpt: "Market by Component (Solution and Services), Technology (Machine Learning, Natural Language Processing, Computer Vision, and Others), and Industry Vertical (IT and Telecommunication, Retail and E-Commerce,"
-publishedDateTime: 2022-06-13T13:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html"
+excerpt: "Major factors driving the growth of the artificial intelligence ... The new standard is to mimic human intelligence through loop-based automatic learning. Because self-learning robots can conduct ..."
+publishedDateTime: 2022-06-13T15:04:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56294906-artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56294906-artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-008.htm"
 type: article
-quality: 1
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Autos
+  - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-    width: 920
-    height: 482
-    isCached: true
-
-related:
-  - title: "E-Learning Market to reach USD 645 Billion in market size by 2030, growing at a CAGR of 13%: Straits Research"
-    excerpt: "E-learning refers to training and testing services delivered or shared over the internet. One of the key growth drivers of the e-learning market is increasing"
-    publishedDateTime: 2022-06-16T18:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27750876/e-learning-market-to-reach-usd-645-billion-in-market-size-by-2030-growing-at-a-cagr-of-13-straits-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27750876"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27750876"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/06/16203049/Screenshot_144.jpg"
-        width: 521
-        height: 322
-        isCached: true
-  - title: "Intelligent Process Automation Market Size to Reach US$ 27,990 Mn by 2030 Exclusive Report By Acumen Research and Consulting"
-    excerpt: "The Global Intelligent Process Automation Market accounted for US$ 10,935 Mn in 2021 and is estimated to reach US$ 27,990 Mn by 2030, with a significant CAGR of 11.2% from 2022"
-    publishedDateTime: 2022-06-16T22:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27755231/intelligent-process-automation-market-size-to-reach-us-27-990-mn-by-2030-exclusive-report-by-acume"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27755231"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27755231"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/06/16203049/Screenshot_144.jpg"
-        width: 521
-        height: 322
-        isCached: true
-  - title: "Healthcare Machine Vision System Market to Reach $4.5 Billion, Globally, By 2031 at 22.4% CAGR: Allied Market Research"
-    excerpt: "Increase in demand for automation in healthcare applications and rise in demand for machine vision-guided robotics in the drug dispensing industry drive the growth of the global healthcare machine vis"
-    publishedDateTime: 2022-06-15T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-machine-vision-system-market-to-reach-4-5-billion-globally-by-2031-at-22/article_e53ad967-2e24-53f5-8a06-a2b1c9034396.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-
-secured: "CuG+Lwoxf28Mhss1OJrfa/ali9brR40fmXuMvePjy9YFX0C4q/o/YcDTvinPmPHCiQQgkcU7BYaR8XiLE1IZpVh1wO+4Z7N4RYFfgMWRoOUUNGmAKmYgeqqYvJKTQ60ARkY/mwPtChznWTyT4C+5+RqdBL9/TedxHbbByTtBDlbprzUrwHXQuoeCeoHVYCa8CThLaXhvmnCtOnpuKRGJMQa4umSwcQd0On/31pChkhzrIfcSzXigJ2VK7x8Bb1++gZkuT3vlQNe7hmBQjckbwk/HRa6oU3zVSzC2mnFM1XQXofmkmfdvIoS+AIDT8AY2b/v5JoGddZR1TrDSSDy0tlSZm0dDCV9C3CXMldzy5xg=;Xx11t8Jmhfn8JFnCOWquYA=="
+secured: "rpsi8TMknDfiikv3423+N14ve8iVg8uxCbZhaWyh9wo9IwczM8HG/PuC5puIstLjt5w5Pib8bszcolywcDgZDYt4bMhjF0dswuWU22OV1J1fvyLEG9Vu/N788rXNcy/nBf/565Ou+hA85sOJZ8NlVGHO84lThSaE5fJcXUSLtcITvNLggkfGSIITkxCwL2Yb0aU466QPIFUUZzJDYrsfRYNbm6ECkRhl2Z2qholQ2Ejrp2E0HY7oAKl+Nkzywzy1e4/aw6HtZVtS3dJ8qRKiirtlC8i7x3aLIumzZeKpi3SBzmMSbbLtRKpeZSTmWcx+dRgszxOGUUUKeZ6kZKPQItmSSzHbL2qfvJKzo73dBk4=;HpjZCpn8U4yfNQKs+31IiQ=="
 ---
 

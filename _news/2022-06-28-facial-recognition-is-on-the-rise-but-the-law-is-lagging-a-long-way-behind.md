@@ -35,19 +35,19 @@ related:
         width: 320
         height: 229
         isCached: true
-  - title: "Bunnings, Kmart dig in on facial recognition as scrutiny grows"
-    excerpt: "The Good Guys will “pause” its use of facial recognition technology following an investigation and subsequent complaint to the privacy regulator by a consumer group. But Bunnings and Kmart are digging in on their use of the controversial technology."
-    publishedDateTime: 2022-06-30T03:58:00Z
-    webUrl: "https://www.innovationaus.com/bunnings-kmart-dig-in-on-facial-recognition-as-scrutiny-grows/"
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
+    publishedDateTime: 2022-06-29T08:47:00Z
+    webUrl: "https://www.iothub.com.au/news/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-582022"
     type: article
     provider:
-      name: Innovation
-      domain: innovationaus.com
-    quality: 39
+      name: iothub.com.au
+      domain: iothub.com.au
+    quality: 36
     images:
-      - url: "https://www.innovationaus.com/wp-content/uploads/2021/11/facial-recognition_763651345_800x600.jpg"
-        width: 800
-        height: 600
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "UK should immediately ban use of live facial recognition, warns report"
     excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."

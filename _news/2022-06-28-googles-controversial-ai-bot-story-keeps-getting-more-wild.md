@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/909014/googles-controversial-ai-bot-stor
 webUrl: "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.gizbot.com/img/2022/06/human-levelai1-1653461497-1656314967.jpeg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Can an AI bot convince you that it's sentient?"
-    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
-    publishedDateTime: 2022-06-27T21:00:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "UObjarXyprxc8mAhmX96Vc6axq7RLfF0+3JXkUve396MCoEt0atebJyJ8KHgs+hdL0uNLRNCY0aXl23wjddhWqUzeVeFa+iRX2fH3EH923cMeYc1X2nTijouwO9jC56oXNAoeHppeZe3SOBxtsnJSQHYJyANv/0AUzc2XBPw4+BzBmcuJvxm1Ew9AY7tV53dcmLDbRffx1DZHljMc6oJV2Iv+CpjyuEwDMMrwI9y3V7YApVRtDMJXsgNoJwKESXXnIilDzI5xDis6kn30yOvVILREf+OZKrkv+V2AsopXNoZNsLhGlDvUF+9ovSvfs24uHNZr9zgdnhPvI6VGL1TeozQtyXbcQtngOHlBR5uMjtAZepSjtKSUnJrAhdxs2AuLzvD18IwZfZY+TXtSZEgnFxTEcBjyOO0aQBcDn8HhuiMynr0UaGRD8/LtGhNBjOBxXeEUTZVoowfgkaBOUNthCL+SRTqoVIl/X0bgWZkGV3BJvAgBrtEcsXOXrbouN9rDHZAWmSM9e0a0YjF+R3kdA==;gK1LDSVw2rLyQfaUT/8INQ=="
