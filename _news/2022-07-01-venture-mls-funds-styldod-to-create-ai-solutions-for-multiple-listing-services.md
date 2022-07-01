@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T12:43:00Z
 originalUrl: "https://enterprisetalk.com/news/venture-mls-funds-styldod-to-create-ai-solutions-for-multiple-listing-services/"
 webUrl: "https://enterprisetalk.com/news/venture-mls-funds-styldod-to-create-ai-solutions-for-multiple-listing-services/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: enterprisetalk

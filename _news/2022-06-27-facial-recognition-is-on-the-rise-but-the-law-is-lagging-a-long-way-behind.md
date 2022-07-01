@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/facial-recognition-is-on-the-rise-bu
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Conversation
@@ -27,6 +27,42 @@ images:
     isCached: true
 
 related:
+  - title: "The Feds Don't Know How Often They're Using Facial Recognition"
+    excerpt: "At a congressional hearing, members learned that multiple government agencies don't know how many of their employees are using facial recognition."
+    publishedDateTime: 2022-07-01T15:00:00Z
+    webUrl: "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487"
+    ampWebUrl: "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+  - title: "Woolworths denies using AI and facial recognition despite leak claiming otherwise"
+    excerpt: "Woolworths says the leaked internal training module detailing how it uses the controversial technologies to stop theft was a mistake."
+    publishedDateTime: 2022-06-29T00:49:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/woolworths-ai-and-facial-recognition/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 49
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2016/10/new-woolworths-store.jpg"
+        width: 681
+        height: 329
+        isCached: true
+  - title: "The Good Guys to pause facial recognition technology following backlash"
+    excerpt: "\"This is an important step in the right direction for The Good Guys, and a decision we know reflects community expectations,\" CHOICE senior campaigns and policy advisor Amy Pereir"
+    publishedDateTime: 2022-06-29T01:28:00Z
+    webUrl: "https://www.9news.com.au/national/the-good-guys-to-pause-recording-customers-faceprints-following-backlash/113c5e59-42ff-4925-ae3b-755850f2f143"
+    ampWebUrl: "https://amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
+    cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
   - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
     excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
     publishedDateTime: 2022-06-29T08:47:00Z
@@ -41,15 +77,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "UK should immediately ban use of live facial recognition, warns report"
-    excerpt: "The UK should immediately ban the use of live facial recognition in public spaces until laws are introduced to regulate biometric technologies, according to an independent legal review published on Wednesday."
-    publishedDateTime: 2022-06-28T23:13:00Z
-    webUrl: "https://www.ft.com/content/25303ee6-9605-4544-ad98-4f63b2c00f18"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
     excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
     publishedDateTime: 2022-06-27T19:29:00Z

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Swoop and iHeartMedia Bring Precision Healthcare Audiences to Broadcast Radio"
-excerpt: "Swoop’s privacy-safe patient segments can now be used by healthcare marketers to plan activation across iHeartMedia’s industry-leading broadcast radio ecosystem. Swoop, the leader in privacy-safe AI-generated audiences for healthcare marketing,"
-publishedDateTime: 2022-06-30T19:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-30-swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-30-swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
+excerpt: "Swoop, the leader in privacy-safe AI-generated audiences for healthcare marketing, today announced a strategic partnership with iHeartMedia, the leading audio media company in the U.S., that makes its custom patient audiences available for broadcast radio planning,"
+publishedDateTime: 2022-06-30T17:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-radio-ba27b81c55cc4c688406d98793f99bc1"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-radio-ba27b81c55cc4c688406d98793f99bc1"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "NgbYDyzO0wQtGiqqMGq9N+QVIXwURRgz6EAZH6xaQhwI4RYQ2wX6VbYoOl3Ydxbtapm7DY09vJr9+sk4DHmsHsb6jER4LMBXCvNabCqZmR9bPpHghVePliC/cZ3QlWJMErum+xhZKvr1qo1iqPh6Skx4G8YnVG3roibQMapPUyHgKFbFWF/sj7n+2dDf9rprdawd7ai6LKr6msJsXDua8BbWH7grrtpcWdpHC01cLHU4jctwGk5a39SJeG1xlIqBCqmB54Bcp7vV3JNGHGP98Ux1O2QATBgoTvAAsAaJN7qdpodF8SsFi1OAGccq4/de+wfdUDZocPNdmrj65tlyD1SiiLr8+ALYxBvY2Ng3qNs=;kIPT3el3MAkLHIekpqQg5Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "JhLyCkhX0mIAr29r0v4L5AuEFq8MwLKFti4CMwqEkQUdgyyNsotKKwDDNarquLO7lQC/Hcyob7zq7qM2dIBHYcvyLW62Yei6OLSAXhOQIiHJ/YNWq88cCXbaM2eX7cemgvJS65+JyKXqeTfBXSm67NKINvg72j/S3lDp1vOwSAY5fYT4qCO0Fehmn10HNMtHx2I9KYDjnNJdF7OGpsPRt2qvxUmlfxaT2IDpDC1m1X7vrShehOb9yxh1QIDxgpo/Wd9Sv96C5csyvvfzkqx5eduVDJ+b52rZKMhbqUyLIsTFYgd7RutTXhBSqyMstPPGALD5dFef72bxcWdF/8mvwRlFC6RvwjWMldHBxK7OAU0=;YAGk2SukMJWq37EVcZXcYw=="
 ---
 

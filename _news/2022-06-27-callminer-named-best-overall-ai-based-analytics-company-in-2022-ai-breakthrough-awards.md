@@ -28,14 +28,19 @@ related:
       domain: businessinsider.com
     quality: 45
   - title: "Socure Wins 2022 Artificial Intelligence Breakthrough Award for Best Decision Intelligence Company"
-    excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that it has been chosen as the \"Best Decision Intelligence Company\" in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-06-30T15:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/30/9631862.htm"
+    excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that it has been chosen as the “Best Decision Intelligence Company” in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2022-06-30T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-4bb3c94349bc434886ce5cd8ff6065a3"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "4dCjWuLMaXetOPGkHffXMJklMylpBZh6mRuOrFlGL/QQn74WCai1NN7d3CtdNTLZ1YkgFIIq8/GVEvKbU4L8Gd0T/sw9ZtG/5YKfRaLLE538IFYl8kWnwGi1JYVVgNPjBn66D9Tv4rBljTIZMgD1IpMJqBJ7gADV9ya0L9FF7tNGHivEkngotvfH6Ye0g6IG1mCWFaTJMNnVei7r3N/qyqfoUvg/z/0nNaAiTvECjo3F2xj7xhdJ9Lz1oO4xRlIhUuIflsthOGxJGOAKYuqEJ6v/1q6Jz2IjYfdOBe5cVV7T3JO3Ot8w+2kfJOYVm6NP43qf+VFrXkdbM7uhCD6epxghYUNN/qDCybgZjWnMonU=;t0nn/BjaB9EmUbrzmT98hA=="
 ---

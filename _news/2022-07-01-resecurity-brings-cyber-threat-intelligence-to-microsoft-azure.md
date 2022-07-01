@@ -83,6 +83,15 @@ related:
         width: 1024
         height: 551
         isCached: true
+  - title: "Visionify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
+    excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
+    publishedDateTime: 2022-07-01T15:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-visionifyai-strongarms-its-ai-engineers-with-microsoft-azure-/2022/07/01/9632599.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 43
   - title: "Scrap police use of facial recognition"
     excerpt: "A LEADING QC has called for urgent legislation and regulation of biometric technologies including facial recognition following a review which produced a number of recommendations for the government. A review led by Matthew Ryder QC, commissioned by the Ada ..."
     publishedDateTime: 2022-06-29T16:29:00Z
@@ -124,20 +133,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
         width: 1138
         height: 774
-        isCached: true
-  - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
-    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
-    publishedDateTime: 2022-06-26T20:30:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-xbox-cloud-gaming-keyboard-mouse-support-and-latency-improvements-facial-recognition-platform-curbs-and-more"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 25
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
-        width: 1365
-        height: 768
         isCached: true
 
 secured: "WxOafVLo3vhHBh/xGlFK2YTpMTs/6TGOypsQc0awbKFz1Y57AxFuw290ikLisdox1VGZ0SSuGeFonphFFH931U8OglYCV2WWx046egcWPgghMydWeD9B5NOnbfK8zQ93+qGdyXTRZtSBTaHM3ycec3G5Eq0QeMoFa8WRDWqiiuHttVly7AiE6r29e2v62TzCRuGMzciYjzNWXsTyKIJuddTCo06W+K0s7Thnm11RLXCY+aZcRtKaJ6Nq7qaVbsF4mkG6w0F9UWHJRgqWQxDLwZGJJ345Urp5mJl5nQG9i7IngXEXPfIBV24+Z1HSnaQdrUSGONQ1BWGPqujdjvYwxr75FQE9L7lS01RX5eBgllEYToQwvUQsZC3kHnUPX9XqXIdCMpLgnKXlo9nqZO9r3aZFD2kt2e24u5nFwCeNV6tSnJJzf6aZo1ebZgEjjQoTQVr+zmjyZrkdpGtppSW8/qqNl7FxTjxGRSRqIEJITFA1sfVgBTF/rYpsOLSVKx3ONCqRT3AoFsDqP5VrR0+SWA==;+WdB33R11i88kAluJpANjQ=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T13:48:00Z
 originalUrl: "https://www.fedscoop.com/pentagon-elevates-key-ai-governance-body/"
 webUrl: "https://www.fedscoop.com/pentagon-elevates-key-ai-governance-body/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: FedScoop

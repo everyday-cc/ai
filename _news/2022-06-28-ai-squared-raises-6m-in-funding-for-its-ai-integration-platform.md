@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/06/27/ai-squared-raises-6m-funding-a
 webUrl: "https://siliconangle.com/2022/06/27/ai-squared-raises-6m-funding-ai-integration-platform/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI Squared raises $6M to help companies integrate AI into existing applications"
-    excerpt: "Integration platform AI Squared announced today the closing of a $6 million seed round led by NEA with participation from Ridgeline Partners. Launched in 2021, AI Squared helps companies adopt artificial intelligence by using a low-code platform to integrate it into existing applications in a timely and straightforward manner."
-    publishedDateTime: 2022-06-27T13:57:00Z
-    webUrl: "https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/"
+  - title: "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
+    excerpt: "AMPD Ventures Inc. (CSE: AMPD, OTCQB: AMPDF), a next-generation digital infrastructure provider, announced that it has signed a deal with Variational AI Inc. to increase Variational's machine learning infrastructure hosted at AMPD's DC1 sustainable data centre."
+    publishedDateTime: 2022-06-27T15:59:00Z
+    webUrl: "https://www.bctechnology.com/news/2022/6/27/AMPD-Signs-Deal-with-Variational-AI-to-Increase-Its-Machine-Learning-Platform-at-DC1.cfm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
+      name: T-Net
+      domain: bctechnology.com
+    quality: 29
+  - title: "SturdyAI Raises $3.1 Million to Strengthen its AI-led Customer Intelligence and Automation Platform"
+    excerpt: "Now using AI and automations businesses can proactively understand whether their customers are likely to churn, which features will entice them to renew, are they experiencing bugs, are they happy or not, and much more.,\" said Lawson DeVries, Managing ..."
+    publishedDateTime: 2022-06-28T11:29:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sturdyai-raises-3-1-million-to-strengthen-its-ai-led-customer-intelligence-and-automation-platform/article_6e3db0f9-cf7e-5d26-b586-918698b4a58e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "AI Squared raises USD 6M in funding for its AI integration platform"
     excerpt: "AI Squared Inc., an AI startup, has announced that it has raiused a USD 6 million seed funding round from NEA and Ridgeline Partners."
     publishedDateTime: 2022-06-28T12:30:00Z

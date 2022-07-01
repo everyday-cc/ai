@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T11:12:00Z
 originalUrl: "https://bdaily.co.uk/articles/2022/07/01/botsandus-secures-13m-in-seed-financing-led-by-lakestar-to-its-warehouse-data-intelligence-platform-with-autonomous-robots"
 webUrl: "https://bdaily.co.uk/articles/2022/07/01/botsandus-secures-13m-in-seed-financing-led-by-lakestar-to-its-warehouse-data-intelligence-platform-with-autonomous-robots"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Bdaily Business Network

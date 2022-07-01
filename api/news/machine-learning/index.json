@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-01-can-machine-learning-help-diagnose-alcohol-associated-hepatitis.md",
+      "title": "Can Machine Learning Help Diagnose Alcohol-associated Hepatitis",
+      "excerpt": "Machine learning algorithms using a few simple variables can help patients with alcohol-associated hepatitis. Acute cholangitis is a potentially life-threatening bacterial infection often associated with gallstones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/sunshine-vitamin-liver.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "publishedDateTime": "2022-07-01T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-text-classification-for-online-conversations-with-machine-learning-on-aws.md",
       "title": "Text classification for online conversations with machine learning on AWS",
       "excerpt": "Online conversations are ubiquitous in modern life, spanning industries from video games to telecommunications. This has led to an exponential growth in the amount of online conversation data, which has helped in the development of state-of-the-art natural language processing (NLP) systems like chatbots",
@@ -54,7 +97,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -96,7 +139,8 @@
         "Machine Learning",
         "AI",
         "Microsoft AI",
-        "AI in Finance"
+        "AI in Finance",
+        "AWS AI"
       ]
     },
     {
@@ -1341,51 +1385,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
-      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
-      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

@@ -62,22 +62,6 @@ related:
         width: 728
         height: 485
         isCached: true
-  - title: "Bharat Bytes: 5G subscriptions; Retailers leverage technology; AI/ML for business resilience; Pharma firms invest in cybersecurity; India spends on AI"
-    excerpt: "India to have 500 million 5G subscriptions by 2027 end. The latest Ericsson Mobility Report—the 22 nd edition of Ericsson’s network traffic insights and forecasts—says in In"
-    publishedDateTime: 2022-06-26T21:30:00Z
-    webUrl: "https://www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.html"
-    ampWebUrl: "https://www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665113/bharat-bytes-5g-subscriptions-retailers-leverage-technology-aiml-for-business-resilience-pharma-fir.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/11/bharat-bytes-100912564-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Revealed: The drinks companies leading the way on cybersecurity"
     excerpt: "Nestlé and Lotte Chilsung are among the drinks manufacturers so far best set up in the area of cybersecurity, according to data and analytics group GlobalData. According to analysis set out by GlobalData,"
     publishedDateTime: 2022-06-30T16:34:00Z

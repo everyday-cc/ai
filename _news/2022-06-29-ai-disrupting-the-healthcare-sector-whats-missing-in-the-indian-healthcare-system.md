@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Implementing Change Part Three: How To Move AI Forward In Healthcare"
+    excerpt: "Rick Newell, MD MPH is CEO of Inflect Health, Chief Transformation Officer at Vituity, and passionate about driving change in healthcare. I’ve explained some of the many ways artificial intelligence could vastly improve healthcare at all levels ..."
+    publishedDateTime: 2022-07-01T13:04:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How AI is transforming the future of healthcare"
     excerpt: "The symptoms are alarming: It might start with lightheadedness ... With today’s innovations, medical devices incorporate AI and insights from data to amplify impact across the entire healthcare industry, improving patient diagnosis and treatment."
     publishedDateTime: 2022-06-28T14:10:00Z

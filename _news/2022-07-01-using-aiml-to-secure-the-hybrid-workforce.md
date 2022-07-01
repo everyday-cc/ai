@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T12:30:00Z
 originalUrl: "https://securityboulevard.com/2022/07/using-ai-ml-to-secure-the-hybrid-workforce/"
 webUrl: "https://securityboulevard.com/2022/07/using-ai-ml-to-secure-the-hybrid-workforce/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Security Boulevard

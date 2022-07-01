@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-ye
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
-    excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
-    publishedDateTime: 2022-06-26T22:20:00Z
-    webUrl: "https://www.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 37
   - title: "Rather than focus on the speculative rights of sentient AI, we need to address human rights"
     excerpt: "A flurry of activity occurred on social media after Blake Lemoine a Google developer, was placed on leave for claiming that LaMDA, a chatbot, had become sentient—in other words, had acquired the ability to experience feelings."
     publishedDateTime: 2022-06-30T13:21:00Z

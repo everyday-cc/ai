@@ -1,18 +1,20 @@
 ---
 category: news
-title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away."
-publishedDateTime: 2022-06-30T21:45:00Z
-originalUrl: "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars"
-webUrl: "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars"
+title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars."
+publishedDateTime: 2022-06-30T22:41:00Z
+originalUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+webUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+ampWebUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Japan Today
-  domain: japantoday.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
@@ -103,6 +105,6 @@ related:
       domain: dallasnews.com
     quality: 32
 
-secured: "tdbmoDIjvhdEXws5D3iG+hwy448VFzpv5tO+76/wLbaSYriWfXvZ3P3HMkRrtczWABVBzj/8ovpU3ts9CNN7PE8asuZ9FAG2N6TGTEJOxLfBvPSrMvpu/mjXYMH4UeHgPlZnZKhFLs84T5qXxuChbXLlONnU8Do7piPZolGFArtPDqBZfTRJNey7Vj0+IVyH97VnfJynkviwU3moWrYOBdMegNDm6yq++MAEu7Y6tH0/O4jagCA858OnZFvk9SEVax15KfBtt6zA2/iamwJ+YPntDrsaXjLDjjFHjBHu/pcs1w+zXV+wmLi+HDRVNXwP0JaLNv4vuZ9kA8r0LKXqt1w6UxJbjpGTpyjybTfsu/A=;0is3mDeMaGgd4kUh6cdkxQ=="
+secured: "N0IiWoBqufd313JW68mUygVk64PxBqj/5PjPS2ADMO+cngqBRdYG7BTG3jFMKzfBrZmBHw6kpKE7hTkAhTponp3rAmh4eQwbGHymbDeDZfJgqpRh3j7bbQIjhqEcZDnbOKyZnReg0Bi+Ka0Yhb1S8JpQgO3oZSNi7Eq3sy9DYIRZt4KyAVzM+0Eev1V6Syt+BsS1GvBkhO5FQKb72lMmtilLQQHuSoGnD3tP4sszQUt9lW8yPi1lEM7/X79a077RuxJXvQx6Et89HlIFd9Xg7VL1UAkkuVd/dD307D5PCKd26Zm5GJ1S+8PKFzAbuph9NGltdJBCi9rHw1xaLca7x07oDoITCU1vDQfh1tgYVHzdUGZlMZfQtMErJ52s7hrqBQn/3/vZ0/KH47UPnZpr7h+2F6JosP/jMfQbIEBPcJcPiGEpcSyeRX6epG+jrp9nyWiruqS88NK+jP904/xqJTczSx7J0uJohCo4aflw3UBfvxN+Sa1S9B5nCtYmM0t7wDApN9nJt/7CqUj9fAzKUQ==;cHWX96lJvDQkTA6IdVAVjw=="
 ---
 

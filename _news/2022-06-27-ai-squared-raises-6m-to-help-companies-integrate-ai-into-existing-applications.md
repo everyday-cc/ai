@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-com
 webUrl: "https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -22,43 +22,43 @@ topics:
   - AI
 
 related:
-  - title: "AI Squared raises $6M in funding for its AI integration platform"
-    excerpt: "Artificial intelligence startup AI Squared Inc. today announced that it has raised a $6 million seed funding round led by NEA, with participation from Ridgeline Partners. Enterprises are adopting AI in their business operations to automate manual tasks and increase operational efficiency."
-    publishedDateTime: 2022-06-27T19:36:00Z
-    webUrl: "https://siliconangle.com/2022/06/27/ai-squared-raises-6m-funding-ai-integration-platform/"
+  - title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
+    excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
+    publishedDateTime: 2022-06-30T19:02:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 55
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Modular raises $30M to ease AI development and deployment"
+    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
+    publishedDateTime: 2022-07-01T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/Photo.png"
-        width: 1390
-        height: 800
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
+        width: 1030
+        height: 577
         isCached: true
-  - title: "AI Squared raises USD 6M in funding for its AI integration platform"
-    excerpt: "AI Squared Inc., an AI startup, has announced that it has raiused a USD 6 million seed funding round from NEA and Ridgeline Partners."
-    publishedDateTime: 2022-06-28T12:30:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ai-squared-raises-usd-6m-in-funding-for-its-ai-integration-platform/"
+  - title: "VistaPath Secures $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
+    excerpt: "VistaPath announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen"
+    publishedDateTime: 2022-07-01T09:45:00Z
+    webUrl: "https://enterprisetalk.com/news/vistapath-secures-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence/"
     type: article
     provider:
       name: enterprisetalk
       domain: enterprisetalk.com
-    quality: 17
-  - title: "Breakthrough AI Integration Platform AI Squared Raises $6 Million Seed Financing led by NEA and Ridgeline Partners"
-    excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI Squared, the low-code AI integration platform, today announced it has raised $6 million Seed financing by global venture capital firm NEA with participation from Ridgeline Partners."
-    publishedDateTime: 2022-06-27T15:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-venture-capital-artificial-intelligence-c1de2afaf5415e87fe852f1b33642f32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+    quality: 20
 
 secured: "7G2LSMaRSXSKU7ZDeF8EP5s9zPKGZ9P8m0yS5MeKVV7vD60/2smgNcUhrxoEg+ikSZmmCSl8/6drLHsXyYX10l3/H2wd22GtTQUmrolV+kMrSWl3x3/I2rxVn494+AqF20G5ugyNWvuMIl2PonPibHbMmpx8lbVkUq9x1O47RbysH75Bzp3w4BKmYpcGCp4C7mse5/p3bpLX6lol32XNceRxwoanGpfw7+iLhbaAtY1dAOBUoL3bwZlbj0OpLq3HiX1wq/to0uB20nr9VP8uNXDjLSw6+ifemBuQd+83PX4rhDcfBXLMnAi0YcQyEa+w6aCbci5oLtqSgBak5Jbn47tQr4W3RI4IauzWErF5H3VF8ObRcTSIJ7IWYEftzwCRZ+d/SLacDvGDyfBoyalji7fT5PNAkBUq3D+x/8H3oMp2OvC6XJDyUV8EurrCn/Keip0lpC3j0EO9Bbck/Sa87JxitQk9ScGQVW5yCz0ZnD2EvfxRe70D2T7yxj2KYCVtH4TTQX/leYqgVBsivxIlBQ==;gKjT6TbJc+F5izXug9n6gQ=="
 ---

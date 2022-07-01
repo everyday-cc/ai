@@ -7,7 +7,7 @@ originalUrl: "https://www.crikey.com.au/2022/06/28/woolworths-artificial-intelli
 webUrl: "https://www.crikey.com.au/2022/06/28/woolworths-artificial-intelligence-facial-recognition-denial/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 740
     height: 400
     isCached: true
-
-related:
-  - title: "Woolworths denies using AI and facial recognition despite leak claiming otherwise"
-    excerpt: "Woolworths says the leaked internal training module detailing how it uses the controversial technologies to stop theft was a mistake."
-    publishedDateTime: 2022-06-29T00:49:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/woolworths-ai-and-facial-recognition/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 49
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2016/10/new-woolworths-store.jpg"
-        width: 681
-        height: 329
-        isCached: true
 
 secured: "X68egSAo51rfI5MYAnAnoGSYlQAAqxWGfFqCso2LwiNFYP98yu3t68Cx+tmojakgOdlSiFf8Fd4HfSHX0eNehUvNRJkQTCq7wnN6HhmWJMb591t9Lrt/ZYuysMvwdyKCME1QskyULoN68o4ob3Oy4TrcMAAF8GY/zUkjVbGx+7TyQGOAWY1JxzwhgBdCDqYNBEp6i20nSryLc+OberqegHPJshndenVak+numpcIhPOnXNfjQeSok/fHauI8gGQ4yHdWKM1dySLYGeHo6ujlEh2o7RFyBPRKiHqAV4QFMv5RggQr9MG8qfC7i/wN0MwMkQZKjXtew3xtMe0eJqXj9+Adc50MjzIm/q7Ztl4yAdZ+uDs7ABk4rMKSP65fShQpqr719fL4iHorjGL3rSyL2LsZ2bM34YDRQxshGZbE+0pJpKZ7gAb2YqzQrb/nnNWy6EyjX6c2cT4L6x39NldNWrleFCXhY22oW/VeTsRQMWyXHSdzuBNePs1ZRMaiwhw2rAwm9aBoKa3Oi3zH3wZACg==;fjc3YIV+XUa+JF1MgqgxJA=="
 ---

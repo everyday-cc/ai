@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T13:27:00Z
 originalUrl: "https://www.alleywatch.com/2022/07/nyc-startup-funding-top-largest-june-2022-vc/"
 webUrl: "https://www.alleywatch.com/2022/07/nyc-startup-funding-top-largest-june-2022-vc/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: alleywatch.com

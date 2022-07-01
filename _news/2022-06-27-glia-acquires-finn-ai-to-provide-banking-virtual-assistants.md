@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/glia-acquir
 webUrl: "https://fintechmagazine.com/financial-services-finserv/glia-acquired-finn-ai-to-provide-banking-virtual-assistants"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1800
     height: 1011
     isCached: true
-
-related:
-  - title: "Glia Acquires Finn AI to Offer Banking Virtual Assistants for Digital Customer Service"
-    excerpt: "Glia, the provider of Digital Customer Service, has acquired Finn AI, the AI-powered chatbot platform for banks and credit unions."
-    publishedDateTime: 2022-06-26T19:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/192716-glia-acquires-finn-ai-to-offer-banking-virtual-assistants-for-digital-customer-service/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 9
 
 secured: "i8E1ew23H9no+iZN5cduQjXVzTgjaLGDlUhp8JaOiJLgdxEEO+sLNxHqAnj2ar+YsCLxciDr+s/P5fd81AQiDIEU/nlzttoAAptz3paLaPJ0+rEbLaBHyvFFUs+SzoIYlVccm989N8JnHH5FyiKuf0QTjLY5aOeQK9ZNA5bL6InxPx0GwtHD/h9k5ehXGenfWIo5H9YrYXWf1zlSpUtkcd7YviWqMW1HkT/zE+Kmnmk0RboJEP4J7E0JUIzv64nEKPNT/tDpUl/DQX7Hq1W0dkc3/P5emewBKX4kamSooSzJU2rId9wlfRJkD7z48EurDT5+ydtqUVkRdLYlkPKGPunJlJV5klADHhLlSfdKK6A=;ubvx6wckCZlG/S/aD3/cZQ=="
 ---

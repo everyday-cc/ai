@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

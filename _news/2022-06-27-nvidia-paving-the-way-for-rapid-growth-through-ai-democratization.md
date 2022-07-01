@@ -39,6 +39,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Inspur Information AI Servers with NVIDIA A100 Tensor"
+    excerpt: "MLPerf is the world's most influential benchmark for AI performance. It is managed by MLCommons, with members from more than 50 global leading AI companies and top academic institutions, including Inspur Information,"
+    publishedDateTime: 2022-07-01T14:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inspur-information-ai-servers-with-nvidia-a100-tensor-/2022/07/01/9632556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "Xo7jhFMsFotN0WFUqTgUwMNYV4e2WZeYZ/c+/dASm0WBJ5fvAReXB8ZxRYHlF+mLn3bkYRfH761Xf1u2+hZipqPdMGGi3RMPtDvgzI7gJMBRutigrdBx/jQwp/oaHNYdHGEE8vJNutH+tP7OJHzeHSfXihlgKs+FvYYNsVm4XylW0k3JJbuh2QLj72AD9uqpALqa2dktdE8wwQOiWbd6YMnbY9HH3LmHR/QpmRMMYK6PKhN/C7eZejNJLjty9DkeTKXnkonL8o6+gxQTyRjVIT27lhs8pWJZMm71xmj0PY1CZPrp02MsrfnhFy8ajsAlwROEO1Eij+8LgdgcOC23ZarZLvb9XVb4+MPYcDTUCvF7Z8GTewUjkgiasLzoIfR09MFo8obRQ2qi8v0Rjy7Fyg9GbG9VH/5Wp2Q2ipcTXyp9k2AfpKv0Xzn6H+VUq2f9L4sSbSWypfD7lAUX8FyI13TXbxMTOHRgPgYiB2dkylDU1KZsGyns163a5Xf8gAFc8BoPHVmmAGnVwCKbg25ypw==;FrgPSAFP2i8dpre/l7ivcQ=="
 ---

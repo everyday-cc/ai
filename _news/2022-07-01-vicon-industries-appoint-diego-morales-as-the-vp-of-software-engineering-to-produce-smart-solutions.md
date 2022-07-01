@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T11:58:00Z
 originalUrl: "https://www.sourcesecurity.com/news/vicon-industries-appoint-diego-morales-vp-co-1756-ga-co-1626430392-ga.1656667405.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/vicon-industries-appoint-diego-morales-vp-co-1756-ga-co-1626430392-ga.1656667405.html?ref=nav"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

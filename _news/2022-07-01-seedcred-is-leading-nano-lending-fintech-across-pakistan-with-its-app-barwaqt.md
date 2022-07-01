@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T08:36:00Z
 originalUrl: "https://www.dawn.com/news/1697493"
 webUrl: "https://www.dawn.com/news/1697493"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Dawn

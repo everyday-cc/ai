@@ -65,6 +65,17 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "Baidu Inc. is China's highest-profile competitor in a multibillion-dollar race with Alphabet Inc.'s Waymo and General Motors Co.'s Cruise to create self-driving cars."
+    publishedDateTime: 2022-06-30T22:41:00Z
+    webUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+    ampWebUrl: "https://www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "China’s Baidu taxi races Waymo, GM to develop self-driving cars"
     excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
     publishedDateTime: 2022-07-01T09:00:00Z
@@ -93,15 +104,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away."
-    publishedDateTime: 2022-06-30T21:45:00Z
-    webUrl: "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
 
 secured: "d0L+BQe1ts9Il8MkrLLJMsEnHJGe9dYtjT9nbU1xgdHZJAYDechRERaNiCmjlBI4Md2pgir6baUHAAyAVpnzQShOcPSWeMT27GniisHfb3QUbvmvmnA/92RlVLD+brQc26spS6wJaSF04j6tDHyzwmTlqC67LS5qk4ohGuji0fpSGpwy5auzmSYcOR7nBURpcKS0KFgRaJIvh582QjNVpWH2fllQ08tEDSy3vvKrpf3HjVjMns7sXh7jMZ2FXnbIz+KlzIeOiYL3zVQKg/znjitQrbUCSmBmxfZaZPLodqjXfW+0I2Ww/+5vVORIAnpUsfQDzSlB95P9AXnej9QguRbqAiekClhbWWcgKUm2QIT+H3HWZtdvv2aSv0m8KGCYAbnwrSG8bHhocepholmjL1phTN9NHba2t4jmjBJM+9NlWPAtB1954ZbDbzlRUnR4jlwQF/5Tr6qap0ycwgG1TqCmcOnVbSEh/eBI2v671igRj2DTG3wox/bBJHewXF4IVzn5mtACK2kn9p3TOPXUEA==;Jp/73d8ie7/wa/k6R8bSow=="
 ---

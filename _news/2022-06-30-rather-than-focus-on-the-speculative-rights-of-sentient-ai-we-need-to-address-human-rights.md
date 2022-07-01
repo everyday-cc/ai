@@ -48,17 +48,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "‘Sentient’ AI, and What Differentiates Us As Human Beings"
-    excerpt: "Have you heard the one about the Google engineer who was fired because he declared that the AI program he’d been working with, called LaMDA, has a soul? It’s darkly fitting that as more and more humans lose their souls, AI engineers are seriously ..."
-    publishedDateTime: 2022-06-26T22:20:00Z
-    webUrl: "https://www.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2206/S00045/sentient-ai-and-what-differentiates-us-as-human-beings.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 37
 
 secured: "sYdt73eK0icpym3n3wM+/Zx5evctbX00bxi0dFof1aI5tCJ6Z5HRQjX2iLOlrHi6h+TgYD1W+sEdcE7UTQPQFbdbR4xMBzNNpyFK3V/M6WTo9IC607fgiOq6uHqy2o41gPcs7eJtB8ZbWhZcEKSLrXfVbR6/tkHj41+6TmHye1XFYgwMeoU3HdBesgolg3evDWH5WlnKb6qwxxW4yoEYrLaW0+wEWnQplps2znAcavZfTwCIAzz5WA+FiMZHdxlWW9+yb4qRNM5uuFir/ccsTCJBDKJ1+Uxj38uo+KGIACnPG56P248mU1ql96KCA4ZKWp97Yf0VjeKozUKmVkcz94xzC4iKljy5FGsbrVwUyB4rirtDykW1BQM4NYJiZAe8u6YPdc/iQDEyXjMihsd1wy4n34d7h3jn+mYm840+pbss/5j5kgqY3bKYMEYFMkMCvcWHFACJPM2G9OZ+tFHA8fAfdS9mDVCKfL5bxu4dV+AJgTqYnquu5nrwa0x5ij4Y6SdMZE2I6EhQydlQnvzBwA==;t/sL2cz1dU0jE4BSZx2YlA=="
 ---

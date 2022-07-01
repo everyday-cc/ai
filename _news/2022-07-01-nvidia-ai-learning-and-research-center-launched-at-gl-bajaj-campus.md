@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T13:01:00Z
 originalUrl: "https://www.hindustantimes.com/brand-stories/nvidia-ai-learning-and-research-center-launched-at-gl-bajaj-campus-101656679734780.html"
 webUrl: "https://www.hindustantimes.com/brand-stories/nvidia-ai-learning-and-research-center-launched-at-gl-bajaj-campus-101656679734780.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Hindustan Times

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-29T04:04:00Z
 originalUrl: "https://seekingalpha.com/article/4520863-part-2-easy-to-discuss-the-ai-hype-but-what-about-substance"
 webUrl: "https://seekingalpha.com/article/4520863-part-2-easy-to-discuss-the-ai-hype-but-what-about-substance"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

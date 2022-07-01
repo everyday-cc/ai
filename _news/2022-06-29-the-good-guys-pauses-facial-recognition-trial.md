@@ -94,6 +94,15 @@ related:
         width: 1024
         height: 551
         isCached: true
+  - title: "Visionify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
+    excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
+    publishedDateTime: 2022-07-01T15:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-visionifyai-strongarms-its-ai-engineers-with-microsoft-azure-/2022/07/01/9632599.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 43
   - title: "Scrap police use of facial recognition"
     excerpt: "A LEADING QC has called for urgent legislation and regulation of biometric technologies including facial recognition following a review which produced a number of recommendations for the government. A review led by Matthew Ryder QC, commissioned by the Ada ..."
     publishedDateTime: 2022-06-29T16:29:00Z
@@ -121,20 +130,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
-    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
-    publishedDateTime: 2022-06-26T20:30:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-xbox-cloud-gaming-keyboard-mouse-support-and-latency-improvements-facial-recognition-platform-curbs-and-more"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 25
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
-        width: 1365
-        height: 768
         isCached: true
 
 secured: "N9HaZiOliYM07EmbQiqeS1Sqnli+TG2uq9DzPlBVz0ExpOFIdcD9dLXAHzsZ9FVuJqYFbKKLEy5whePhPYJ7nC+nXnoBJD8el2lqXl4WYVYxtkHcpZI3ds5L1z+h+p+jqBJjI0ygvs/d9Da5gYwxonNd2xkEr5Wq4btZlg/95DwkQJRUd8nLiKdFIbjcYZGCCXr89uVfgGD2JZvWRpVTT8VyhIS2zb+p7bWrWKvwv0BfswU21ihmwGkT3cYVApRERSpJAzMnsQTldXm9fuy53cuXXaWILtwV1vteBN8tkbAtivVkKB3RgGd7n1aLeuyoGkZQX+arQOWjaAJ6B3htqtTz+QcYRxhU3GYaSKGQbaHpRmO32Iee6lTPsJc9xb9N8bddc0zMnr/uu/9W12pKsrO+mnC6ZX/71pVS6BGujvnXBdI2MPBsBkHU9KgcDPQ6sW6LIFHBJNR9yI0yL4dhBtoaHj5DU67JNAwhorz1+8nFppgexBoJSmYhb+ykiOOurjppHElyZLFGLseh1qsucQ==;jDuACQkzNquSOw0zDzI1ng=="

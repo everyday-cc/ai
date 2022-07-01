@@ -21,31 +21,70 @@ topics:
   - AI
 
 related:
-  - title: "In Brussels, a High-Tech Home Is Fitted With Fingerprint and Facial Recognition Technology"
-    excerpt: "Location: Brussels, Belgium . Price: €6.75 million US$7.11 million . This beautiful east Brussels home was built in 2006 by its current owners—a complete r"
-    publishedDateTime: 2022-06-28T11:23:00Z
-    webUrl: "https://www.mansionglobal.com/articles/in-brussels-a-high-tech-home-is-fitted-with-fingerprint-and-facial-recognition-technology-01656415396"
-    ampWebUrl: "https://www.mansionglobal.com/amp/articles/in-brussels-a-high-tech-home-is-fitted-with-fingerprint-and-facial-recognition-technology-01656415396"
-    cdnAmpWebUrl: "https://www-mansionglobal-com.cdn.ampproject.org/c/s/www.mansionglobal.com/amp/articles/in-brussels-a-high-tech-home-is-fitted-with-fingerprint-and-facial-recognition-technology-01656415396"
+  - title: "The Feds Don't Know How Often They're Using Facial Recognition"
+    excerpt: "At a congressional hearing, members learned that multiple government agencies don't know how many of their employees are using facial recognition."
+    publishedDateTime: 2022-07-01T15:00:00Z
+    webUrl: "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487"
+    ampWebUrl: "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp"
     type: article
     provider:
-      name: Mansion Global
-      domain: mansionglobal.com
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Private companies and public authorities are beginning to implement facial recognition technology, even without rules to govern what they can do."
+    publishedDateTime: 2022-06-27T02:32:00Z
+    webUrl: "https://theconversation.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-185510"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 56
+    images:
+      - url: "https://images.theconversation.com/files/471008/original/file-20220627-14-q7vf1z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=229&fit=crop"
+        width: 320
+        height: 229
+        isCached: true
+  - title: "Woolworths denies using AI and facial recognition despite leak claiming otherwise"
+    excerpt: "Woolworths says the leaked internal training module detailing how it uses the controversial technologies to stop theft was a mistake."
+    publishedDateTime: 2022-06-29T00:49:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/woolworths-ai-and-facial-recognition/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
     quality: 49
     images:
-      - url: "https://images.mansionglobal.com/im-569452/social"
-        width: 1280
-        height: 640
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2016/10/new-woolworths-store.jpg"
+        width: 681
+        height: 329
         isCached: true
-  - title: "Facial Recognition Technology: How It's Being Used In Ukraine And Why It's Still So Controversial"
-    excerpt: "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to ident"
-    publishedDateTime: 2022-06-30T18:47:00Z
-    webUrl: "https://menafn.com/1104460450/Facial-Recognition-Technology-How-Its-Being-Used-In-Ukraine-And-Why-Its-Still-So-Controversial"
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
+    publishedDateTime: 2022-06-29T08:47:00Z
+    webUrl: "https://www.iothub.com.au/news/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-582022"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
+      name: iothub.com.au
+      domain: iothub.com.au
+    quality: 36
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
+    publishedDateTime: 2022-06-27T19:29:00Z
+    webUrl: "https://www.dailyexcelsior.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 16
 
 secured: "CeVETvyizC18nPBnKpTn7n0/Qa4pLYdu1HaRBYOO/FAJ4RaElJiLEDcvfIaMe0HGMd6OPhD/2YuLWdaFKiEzrIEy42258acII59uOCw1R4Wv86SgBPxjUdt8uP+ljjlwQwrB7G6ao7GZ8rHC1BB5sV9N+7VjbAdym0Nxp9oJVviji6Wcq3o+rQI6h0SZx/ssZPm7a4d/MNY+UOnRYXblwR+VI1NYLm2rc7Gn37tKxuBlO/zepzEfgUun7HfU/GKxWDdMJSLjEX2+FEr24K7G5FTUQLz4C8cwCfYN1Nnwq2oYiDflaVReozhrYh0WAPhCDlEm7gMhmoNJrGCimhCOpXnDEUZA14ln2EJyEip+uEfpfkSe6twID/6XWLuPJ4FwDPN2Ud7C2JIFRqV9bE57yTxIiN5Cy3Fyj0jBE1EJrvFA0kv7e9WsloFA5Iuj+Xbnuvt1CAg9c0z/a3M8N/cOkTz6NpHpVihnkefF5jAiZ99eBL9H6LaWuaB//08kKABgPFeGKf40o1t/B5kiL+qdUg==;4P20P5MryggqUqSvlrD1mQ=="
 ---

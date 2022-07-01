@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-01-ai-powered-photo-stock-startup-wirestock-lands-partnership-with-getty-images.md",
+      "title": "AI-powered photo stock startup Wirestock lands partnership with Getty Images",
+      "excerpt": "As a stock photographer, taking great photos is often only just a tiny part of the job. To run a successful business, keywording, categorizing, captioning, and all the other admin that goes with it can take up almost as much time.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
+      "originalUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Weird-Stock-Photography-Haje-Kamps-websize.jpeg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/wirestock-getty/amp/",
+      "publishedDateTime": "2022-07-01T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-can-machine-learning-help-diagnose-alcohol-associated-hepatitis.md",
+      "title": "Can Machine Learning Help Diagnose Alcohol-associated Hepatitis",
+      "excerpt": "Machine learning algorithms using a few simple variables can help patients with alcohol-associated hepatitis. Acute cholangitis is a potentially life-threatening bacterial infection often associated with gallstones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/sunshine-vitamin-liver.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "publishedDateTime": "2022-07-01T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-the-feds-dont-know-how-often-theyre-using-facial-recognition.md",
+      "title": "The Feds Don't Know How Often They're Using Facial Recognition",
+      "excerpt": "At a congressional hearing, members learned that multiple government agencies don't know how many of their employees are using facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
+      "originalUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp",
+      "publishedDateTime": "2022-07-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-the-quest-to-understand-every-voice-globally.md",
       "title": "The quest to understand every voice globally",
       "excerpt": "In a quest to enable a computer to understand every voice in the world. DeepMind: Why is AI so good at language? It's something in language itself AI experts are in short supply. That's making the skills crisis worse I tried Google's AI job interview practice tool,",
@@ -105,7 +242,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -293,6 +430,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence.md",
+      "title": "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence",
+      "excerpt": "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -647,7 +827,7 @@
       "originalUrl": "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -792,7 +972,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1015,196 +1195,6 @@
         "AI",
         "Google AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-can-ai-and-genomics-predict-the-next-covid-variant.md",
-      "title": "Can AI and Genomics Predict the Next COVID Variant?",
-      "excerpt": "A new study shows how AI and genomics can predict future mutations of the SARS-CoV-2 virus that causes the COVID-19 disease. “The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has been characterized by waves of transmission initiated by new variants replacing older ones,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic99807.jpg?itok=f_OY9F15",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/can-ai-and-genomics-predict-the-next-covid-variant?amp",
-      "publishedDateTime": "2022-06-29T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-teslas-layoffs-hit-autopilot-team-as-ai-develops.md",
-      "title": "Tesla’s layoffs hit Autopilot team as AI develops",
-      "excerpt": "The layoffs were first reported by Bloomberg Tuesday and confirmed by CNN Business. Data annotation specialists use software tools to manually label objects in video clips collected from Tesla vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220629161230-tesla-vehicle-autopilot-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/29/cars/tesla-autopilot-data-label-layoffs/index.html",
-      "publishedDateTime": "2022-06-29T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-tigergraph-cloud-adds-iam-capabilities.md",
-      "title": "TigerGraph Cloud adds IAM capabilities",
-      "excerpt": "Graph database as a service streamlines access management for enterprises and eases developer collaboration with a single login across multiple projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.html",
-      "originalUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/05/tiger_by_blake_meyer_cc0_via_unsplash-100756522-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.amp.html",
-      "publishedDateTime": "2022-06-29T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-text-classification-for-online-conversations-with-machine-learning-on-aws.md",
-      "title": "Text classification for online conversations with machine learning on AWS",
-      "excerpt": "Online conversations are ubiquitous in modern life, spanning industries from video games to telecommunications. This has led to an exponential growth in the amount of online conversation data, which has helped in the development of state-of-the-art natural language processing (NLP) systems like chatbots",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T11:58:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

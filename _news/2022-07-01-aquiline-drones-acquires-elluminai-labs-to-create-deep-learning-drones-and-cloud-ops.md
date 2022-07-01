@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T12:08:00Z
 originalUrl: "https://www.suasnews.com/2022/07/aquiline-drones-acquires-elluminai-labs-to-create-deep-learning-drones-and-cloud-ops/"
 webUrl: "https://www.suasnews.com/2022/07/aquiline-drones-acquires-elluminai-labs-to-create-deep-learning-drones-and-cloud-ops/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: SUAS News

@@ -7,7 +7,7 @@ originalUrl: "https://www.officer.com/command-hq/technology/security-surveillanc
 webUrl: "https://www.officer.com/command-hq/technology/security-surveillance/access-control/press-release/21272599/ambientai-ambientai-integrates-with-brivo-to-address-workplace-violence-by-automating-threat-detection-in-access-control"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "SturdyAI Raises $3.1 Million to Strengthen its AI-led Customer Intelligence and Automation Platform"
-    excerpt: "Now using AI and automations businesses can proactively understand whether their customers are likely to churn, which features will entice them to renew, are they experiencing bugs, are they happy or not, and much more.,\" said Lawson DeVries, Managing ..."
-    publishedDateTime: 2022-06-28T11:29:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sturdyai-raises-3-1-million-to-strengthen-its-ai-led-customer-intelligence-and-automation-platform/article_6e3db0f9-cf7e-5d26-b586-918698b4a58e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "OogD+UooUC8LLb0TGQB6eUZ+XokbbAI3IJdtXzp+C7EPYg76g7yjURx8Wu+W133A+tRzaCFhB5+X5yX4yNN1VOtNtAsGQo7gqM1/7v+aIewK0aS9fGp0BpYMaxELgZlZe5w/j31kneA0U56X52kAS8vCbb262saLWL9Zi+fGtqPph3LmAaDDnVpzvrL/2wBgxTdEPTMUUFyjsZlllyuG7X6L4Ae+MKZGhI2lK8jOb20l7Svknk2E7dzbSs9SKZU/mHYpUEg5e18c8czg6xwOggtE3Cq8lGxeEoTml1+afRDz/QF7Rk0YFOsLgqOnhK6suFvE7I6LWIieEjexcIJEQaBz9mdqKs8tyUW4UUb0MUsOc0qyFcRmKiB4CkxbEceTi3GkZldCzCXH3kjZYZjQrbbOkuooev44YByFvS7SJdauUGDKu4Xm6yVtZjQmpgcK0jA4lvGU+JOm2n8V86J6WM06J4nC6oj5y6YR5VEb3hJE6c7BA5WLohcKTZFf2WiuX3y4jC9ZxWWrdoJCbjIJ0w==;wNFKdYKnyeXgu85hgMcyKA=="
 ---

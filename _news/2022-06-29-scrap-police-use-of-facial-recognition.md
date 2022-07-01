@@ -95,6 +95,15 @@ related:
         width: 1024
         height: 551
         isCached: true
+  - title: "Visionify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
+    excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
+    publishedDateTime: 2022-07-01T15:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-visionifyai-strongarms-its-ai-engineers-with-microsoft-azure-/2022/07/01/9632599.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 43
   - title: "‘UK government illegally utilizes facial recognition’"
     excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
     publishedDateTime: 2022-06-30T14:42:00Z
@@ -122,20 +131,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
         width: 1138
         height: 774
-        isCached: true
-  - title: "Microsoft news recap: Xbox Cloud Gaming keyboard/mouse support and latency improvements, facial recognition platform curbs, and more"
-    excerpt: "Microsoft news recap is a weekly feature highlighting the top Microsoft news stories of the past week. Sit back, grab some coffee, and enjoy the read!"
-    publishedDateTime: 2022-06-26T20:30:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-news-recap-xbox-cloud-gaming-keyboard-mouse-support-and-latency-improvements-facial-recognition-platform-curbs-and-more"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 25
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2018/07/IMG_3343.HEIC_-e1530628658367.jpeg"
-        width: 1365
-        height: 768
         isCached: true
 
 secured: "CzQJaWmxSaKIMkQEq0n0wLqNKyXBq9cvMGXtg8ck58JYX7uz76R7gt3+gJ3r7uGlfb0ObEkz8TgT+9ZeLu3xR3kAIjx2Ro8D3kNm0KIuoGZauM2pWZBKXpdyanV1GvwTCVSveeOrt83/qE3ThqvXpLq7eXQ3XcRS6aCFmT/zVCFYEr5zzjwTXtCSRFT/ObxVFy9gRDvQaDYUqWCsn+jKB4zeJNOQFgWwNgrDT2kdsnde2CnjvzTS0FQ8Px7qjEAi+4H3fEeAvh9TxhkTn3Avd3trTsNugwcvFhwmYLliSCzoXaLxHOi0Nakq0u2hfR+iJXVM6rjmH19KjQluLGpqxT+hHXUQ8pHSGTOPmtEvCV1e2qeotNpYP8GcRrVkWJGS8xDSdXgAwiTRg63PYDgT6t2g4tdJNQLXXotOXVP3ECd5QSbp2tmL3swps0KPxXAeHEqdGelQ8bXGsuuP6jVU7x9T8pbxICSnWaBS894X2lJOibPcImEo3Z0hvVn4iX7xqUPmpAMP/PvGPTl+0DUthw==;RtR7+Huq6X9wnbBGaDp3LQ=="

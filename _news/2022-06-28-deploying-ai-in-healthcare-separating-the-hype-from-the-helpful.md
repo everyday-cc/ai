@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Implementing Change Part Three: How To Move AI Forward In Healthcare"
+    excerpt: "Rick Newell, MD MPH is CEO of Inflect Health, Chief Transformation Officer at Vituity, and passionate about driving change in healthcare. I’ve explained some of the many ways artificial intelligence could vastly improve healthcare at all levels ..."
+    publishedDateTime: 2022-07-01T13:04:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI disrupting the healthcare sector: What’s missing in the Indian Healthcare system?"
     excerpt: "In healthcare, artificial intelligence is becoming increasingly sophisticated at performing what humans do, but more cost-effectively and time-efficiently. AI’s potential in healthcare is enormous, becoming an increasingly important element of the healthcare ecosystem."
     publishedDateTime: 2022-06-29T09:27:00Z

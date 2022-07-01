@@ -59,6 +59,38 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Highway Code adds new section on self-driving cars - What the rules are"
+    excerpt: "No vehicles in Britain have been classed as self-driving yet but this could change as soon as next year. The government advises that self-driving modes should be limited with the"
+    publishedDateTime: 2022-07-01T14:47:00Z
+    webUrl: "https://www.dailyecho.co.uk/news/20250269.highway-code-adds-new-section-self-driving-cars/"
+    ampWebUrl: "https://www.dailyecho.co.uk/news/20250269.amp/"
+    cdnAmpWebUrl: "https://www-dailyecho-co-uk.cdn.ampproject.org/c/s/www.dailyecho.co.uk/news/20250269.amp/"
+    type: article
+    provider:
+      name: Southern Daily Echo
+      domain: dailyecho.co.uk
+    quality: 44
+    images:
+      - url: "https://www.dailyecho.co.uk/resources/images/12848179/?type=responsive-gallery"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Safety of self-driving cars doubted – ‘Glitches could kill somebody!’"
+    excerpt: "More info The Transport Select Committee launched an inquiry last month into the development and deployment of self-driving vehicles. They will investigate the safety of autonomous vehicles and consider their relationship with other road users including conventional vehicles,"
+    publishedDateTime: 2022-07-01T14:27:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1634086/self-driving-cars-autonomous-vehicles-safety-trust-poll-results-spt"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1634086/self-driving-cars-autonomous-vehicles-safety-trust-poll-results-spt/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1634086/self-driving-cars-autonomous-vehicles-safety-trust-poll-results-spt/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 44
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/Driverless-car-1634086.jpg?r=1656688947102"
+        width: 590
+        height: 350
+        isCached: true
   - title: "MPs launch investigation into self-driving vehicles"
     excerpt: "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads."
     publishedDateTime: 2022-06-27T15:24:00Z
@@ -112,20 +144,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving cars block traffic for hours in US, manually moved later"
-    excerpt: "In a freak incident, several self-driving cars stopped simultaneously here and blocked traffic for a couple of hours until the company staff arrived and manually moved the autonomous vehicles. More than a half dozen Cruise robotaxis stopped operating,"
-    publishedDateTime: 2022-07-01T11:40:00Z
-    webUrl: "https://www.canindia.com/self-driving-cars-block-traffic-for-hours-in-us-manually-moved-later/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 24
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-        width: 696
-        height: 436
-        isCached: true
   - title: "Transport Committee launches inquiry into self-driving vehicles"
     excerpt: "The inquiry by the Transport Committee will scrutinise the development and deployment of connected and autonomous vehicles ahead of the potential arrival of self-driving tech from later this year.   The inquiry will consider the progress of research and work in the UK and abroad on self-driving cars and what needs to happen to prepare for their arrival."
     publishedDateTime: 2022-06-27T12:16:00Z
@@ -134,6 +152,15 @@ related:
     provider:
       name: Fleet World
       domain: fleetworld.co.uk
+    quality: 4
+  - title: "Self-driving cars block traffic for hours in US, manually moved later"
+    excerpt: "In a freak incident, several self-driving cars stopped simultaneously here and blocked traffic for a couple of hours until the company staff arrived and manually moved the autonomous vehicles. More than a half dozen Cruise robotaxis stopped operating,"
+    publishedDateTime: 2022-07-01T13:23:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=974692"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 4
   - title: "Jet-Packs, Self-Driving Cars, Wireless Charging Of Buses: Museum Of The Future, RTA To Showcase Latest In Mobility"
     excerpt: "The Museum of the Future and Dubai's Roads and Transport Authority (RTA) have announced a new partnership to showcase future mobility solutions, from personal jet packs to self-driving cars. The partnership will showcase new solutions in advanced mobility at the 'Tomorrow,"

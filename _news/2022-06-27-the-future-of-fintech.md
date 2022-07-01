@@ -81,6 +81,20 @@ related:
         width: 578
         height: 325
         isCached: true
+  - title: "The world’s first fintech sitcom is just what you’d imagine"
+    excerpt: "Where Netflix has Stranger Things, Disney+ has Obi-Wan and Apple TV+ Ted Lasso, HPE has Get Ahead, the “ world’s first fintech sitcom ”. Episode one is out, from which it’s fair to say that HPE probably shouldn’t expect the kind of rights offer secured by televisual wallpaper like Friends and The Big Bang Theory."
+    publishedDateTime: 2022-07-01T15:00:00Z
+    webUrl: "https://www.ft.com/content/0f398279-7e57-49f3-bc8a-a67c78d4e9db"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "WesRY4rOO1Q6uiRb4yX7nvA+1dq7HBDISafrDT3KU0jrd7AQXi+onCv9m4AHMN0gPEoipLOQcWuzm/Hv/qpAqTSLsTgKM+Nn/Kp9PlDM/+CYME/kyUJyXdswJh6r+wBmlLYYVJRjZn3eIIYeEB5LJLQtvHfGYz221rqzI82+YIZCMdz2PIm89WZAEi5AMRUPm40YYylO9eFfiA3cBJo6qz7aGAvYOh/FG57VtIaaa8sScz2oX1Q96N8dyQhR/e/lYtcbjazrZNmn8vgCCLQejGkZnJ5jBGcpqvS6oeOwrRlR+VfG6IR7r8t5eTVv1CaeV98SVpgNN8Nhkv5TYu+xsiY0uQsrF2RUrXHNEwEXrPvaNcwranARdzqxKlxQ4CpgH7QxHfek6ZZYLPvJjGMsUd9VdzHpKofrogg8/wzuXDs6oNHv964BE4FgutLYrD6ym2az9xPRc0nmxfltAT4jX0/fYMH2D8vNNtdhl+yL5rp6w8nm3KqTM39sa26ECb8tieDCp4BLJUrLX3wvPoKfpQ==;G95b/VEWoYzLn3AUjIGVCw=="
 ---

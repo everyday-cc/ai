@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/01/can-we-trust-critical-infrastructure-to-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/01/can-we-trust-critical-infrastructure-to-artificial-intelligence/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

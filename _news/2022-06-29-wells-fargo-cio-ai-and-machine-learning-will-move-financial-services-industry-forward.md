@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learn
 ampWebUrl: "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/"
 type: article
-quality: 100
-heat: 110
+quality: 102
+heat: 112
 published: true
 
 provider:

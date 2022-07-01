@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T12:10:00Z
 originalUrl: "https://www.sourcesecurity.com/news/3dx-ray-appoints-vincent-deery-ceo-co-6379-ga.1656667593.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/3dx-ray-appoints-vincent-deery-ceo-co-6379-ga.1656667593.html?ref=nav"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SourceSecurity

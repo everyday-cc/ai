@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "BrainChip's 'This is our Mission' Podcast Deep Dives on Essential AI"
-    excerpt: "\"Since joining BrainChip 6 months ago, among other achievements, Jerome has led the companies rebrand, and reinforced our positioning around Essential AI,\" said Telson. \"This podcast provides a first-hand,"
-    publishedDateTime: 2022-06-30T20:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-30-brainchips-this-is-our-mission-podcast-deep-dives-on-essential-ai"
+  - title: "BrainChip’s ‘This is our Mission’ Podcast Deep Dives on Essential AI"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / June 30, 2022 / BrainChip Holdings Ltd (ASX:BRN) (OTCQX:BRCHF) (ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, today announced that Chief Marketing Officer,"
+    publishedDateTime: 2022-06-30T18:36:00Z
+    webUrl: "https://apnews.com/press-release/Accesswire/41eb11e9d80b684a88be4380ec8cb15d"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "eEU3XguUd04Md3Z8l4AAkskv6rZvyyMn6wwQwMc9pmiN1Z0LOGUcmidwvee7a8AA1dtvFCoHRZaN041iGHaARUbb3e2G1yK1p5IbRnn/Fh79QEkpkI1PfXgjOD/km+Jw5oAC9C+jVBD6eG2TFv7xPx4IeBpK/mltqib8AQk50qMlBepkD3cBqdOoNnaBFiXRwDLe8aItA4mB9n7phpGm3q6aXFhRoQR+ksYtsqAd7+MBGTzSt+Fw//pJ1+7stiC9P5CpJkNtmKYU96TYCrblEBCK/Z2NFp1SmnaYGX6abX128qoaPCfmU+oxnR3KQjUf9wcW2kslKoUnGNTqab717lA0kUksIl/IdBasXihaYWc=;ylprN6sN3lQmKFnW9/SNbQ=="
 ---

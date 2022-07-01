@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-24-coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers.md",
+      "title": "Coimbatore airport has now AI-powered robots. Know how they help flyers",
+      "excerpt": "The Airport Authority of India (AAI) said it is bringing the help desk to the passenger rather than passengers approaching the help desk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109.html",
+      "originalUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/06/24/1600x900/coimbatore_airport_robot_1656061098972_1656061099178.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109-amp.html",
+      "publishedDateTime": "2022-06-24T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-next-big-thing-in-the-future-of-finance-fintech-revolution.md",
+      "title": "Next big thing in the future of finance: Fintech revolution",
+      "excerpt": "Fintech has changed the lives and habits of people by making it easy to trade, bank, exchange money, take loans without the need for physical human interaction. Innovations and revolutions are what the technology",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-1-7.png",
+          "width": 487,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "publishedDateTime": "2022-06-23T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-cognitive-skills-for-engineering-success.md",
+      "title": "Cognitive Skills for Engineering Success",
+      "excerpt": "What follows will outline what I have found to be the most essential cognitive skills that contribute to engineering success. The primacy of critical thinking is such a worn-out aphorism that most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
+      "originalUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/wp-content/uploads/sites/3/2022/03/digital-identity.jpg",
+          "width": 1000,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives.md",
       "title": "Amazon shows off Alexa feature that mimics the voices of your dead relatives",
       "excerpt": "Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives. The company demoed the feature at its annual MARS conference ...",
@@ -1047,145 +1176,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.md",
-      "title": "Cruise CEO on launching driverless taxi service in San Fransisco",
-      "excerpt": "Cruise CEO Kyle Vogt joins CNBC's 'Squawk Box' to discuss the prospect of the driverless ridesharing industry after General Motors' majority-owned autonomous vehicle unit launched its service for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107079691-16559907261655990722-23902419088-1080pnbcnews.jpg?v=1655990725&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-system-on-chip-market-to-surpass-valuation-of-3178-billion-by-2031-tmr-study.md",
-      "title": "System-On-Chip Market to Surpass Valuation of $ 317.8 Billion by 2031; TMR Study",
-      "excerpt": "The system-on-chip market share has grown steadily in recent years from the application of the technology in hyper scale data centers, automotive",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
-      "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
-      "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
-      "originalUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fcomputer-chip-brain-cells.jpg&signature=a0ea842bb93c94d62b1ec2f299347e26",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

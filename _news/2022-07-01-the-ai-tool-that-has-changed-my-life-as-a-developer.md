@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-01T12:43:00Z
 originalUrl: "https://techcentral.co.za/the-ai-tool-that-has-changed-my-life-as-a-developer/212796/"
 webUrl: "https://techcentral.co.za/the-ai-tool-that-has-changed-my-life-as-a-developer/212796/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: TechCentral
