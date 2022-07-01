@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202022-06-17T131611.005.png"
         width: 902
         height: 632
-        isCached: true
-  - title: "Exploring the world of artificial intelligence"
-    excerpt: "IN this digital age, we are now facing a totally different sphere where technology has been transforming the world we live in. To minimize costs and to improve efficiency, companies have relied on third parties over the years,"
-    publishedDateTime: 2022-06-26T19:13:00Z
-    webUrl: "https://businessmirror.com.ph/2022/06/27/exploring-the-world-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/06/Column-box-KPMG-Perspectives.jpg"
-        width: 1400
-        height: 735
         isCached: true
 
 secured: "2d2bhwI/Cu1Xu2ItFbIhfRxO/wZXVMQvzw+fZ/SOD8N4T/a4Hq6MBiQg1e/V/fJaDSylrrMNzWejJnmn1su+zwSj0VoDoy6oPFyv2RRIlkupPNVaFRpBi8WhtaNnCKUVfWLeWXidobV9o1PiRFclwN9JdF4nxOLr0VUNkYCdqMJhElQmitWSYwSv9hLu9V6IeOtNvwYtp9EZhCUKK/gJzxdMKzktzWDMpYcu7z+reh+qrN8H6G5WrSK9CedJz2E9p2+utqL6zGSzVIlO8JdbN6Tc4wE+mbUoGLb6rwKaTmbDQap90Vesj+UYQoft0ynJh5aCzcYUQf2tza5LOybpYTZWq3d970WEXL04g+BigpmVffWdWx8/Yn4VUAgairBHJvkCDpdV+500HeGw93NpkVO4eu9fMb3v1pd0MlG8qZhU8pZI9+3LLRyJJtbnn2KuOyy0RX34cUW4O936Mo7MMFwcfWJ1IOb2Hv4b47II94V17BNE46tSexeVsKfyVgOHOdyK8xumgZ+aZx8Z6YoS0w==;OrR0+whdZafm1Bg+lK0bPg=="

@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
-secured: "9MON4cujZq+34ou1Z314ZitVWvSViUTzYLOIoYJSi9F12jzdWFb76qdy2fcwbIJTGHuyTgeHSrveWoGEvj5UwJ5DorP0YnjzyxndlSpP2gqfFnAwxiCTuOJ4put7OaAKKWg835hz/tDqv/F1uqruSU/nK5Xf/eT+6JmefmlSNML9rcLf9OEB3OpC2HCSU/ytbPKQscCmt0V2lEJA3W+uR06lLfWL9PI9ZCGDYzCduC9hn5/rUpIipKVdbViY3bwb8r7MMAC5ljR9/XQzHrrjjFcO1pgGbge3RsEGLmqIh0cmeNLHeBimXUjSRpjBkhwnnrbtEMcap1h61XbGbqJnOHuDMM9G0CX+mTh+5UN6Mes=;rITFWci8TI0ooMpgkczKpQ=="
+secured: "R/4Akp77EvIsv/hD6AeHF6JVezwgeajuzXpXvuJsTqSLhRLbmz6SRelxcmiWzmU77bIUvGo+R5Pwx5VLuMHX/L7n3EXCfRKMVnKWE2CahUyVyiUyEJtg8Ff4XhEbp8EQoMgmWkRbljOwcv1qJcBXNBp80/ZKHGWeMYveEuVZpz+7ifkEyXy/v11o/ukE9sPm0ntVJQXN/WKSzA1lqEcF4POz+MN1UeozAxRmRTCdKaI5qZfHJSeDr0QESbwlOK5ofC3wWFcPIufvacjXQ1YWtZ3pW9IBHIM6JFKRo/Ur1lqHHpUryKh/pMvjcKKshtvpmy7XPspqTPfL5ccvyVWjk2DAwT37aWarQFGoMDnNOhI=;vatU3YrBduPhI53KCcBn/A=="
 ---
 

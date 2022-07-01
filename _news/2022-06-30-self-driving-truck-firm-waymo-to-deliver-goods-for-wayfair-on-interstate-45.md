@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-go
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -43,19 +43,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "That came 18 months after Waymo started driverless ride-hailing ... Baidu has expanded into artificial intelligence, processor chips and other technology. It says its autonomous vehicles could ..."
-    publishedDateTime: 2022-06-29T10:41:00Z
-    webUrl: "https://qctimes.com/lifestyles/technology/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/article_527d6ec9-4e78-5594-b255-47e0605594af.html"
+  - title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+    excerpt: "ALSO READ: Beijing grants Baidu, Pony.ai new driverless robotaxi permits Founded in 2000 as a search engine operator, Baidu has expanded into artificial intelligence, processor chips and other ..."
+    publishedDateTime: 2022-06-29T04:44:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
     type: article
     provider:
-      name: Quad-City Times
-      domain: qctimes.com
+      name: The Star
+      domain: thestar.com.my
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/78/e7886780-d4a7-5a8f-93ad-6bfca78c579f/62bbb5fecbe9e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/29/1640322.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "China’s Baidu taxi races Waymo, GM to develop self-driving cars"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+    publishedDateTime: 2022-07-01T09:00:00Z
+    webUrl: "https://www.hotsr.com/news/2022/jul/01/chinas-baidu-taxi-races-waymo-gm-to-develop-self/"
+    type: article
+    provider:
+      name: The Sentinel-Record
+      domain: hotsr.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/201768656_201768656-ad342a272c4e4110968c9d9f7caad4ac_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "Airbnb bans parties, Wayfair self driving deliveries, and Niantic's NBA All-world"
     excerpt: "The party is permanently over, at Airbnb properties, some items ordered from Wayfair will soon arrive on self-driving trucks, and the developer of Pokemon Go is creating an augmented reality game with the NBA."

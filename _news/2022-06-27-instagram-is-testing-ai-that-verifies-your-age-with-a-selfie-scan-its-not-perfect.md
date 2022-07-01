@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
 type: article
 quality: 83
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/instagram-crowdturfing-MAIN.jpg"
         width: 800
         height: 480
-        isCached: true
-  - title: "Instagram tests using AI and video selfies for age verification"
-    excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
-    publishedDateTime: 2022-06-26T16:40:00Z
-    webUrl: "https://www.khou.com/video/tech/instagram-tests-using-ai-and-video-selfies-for-age-verification/285-20af8952-82e1-49de-af4e-dd3fda504d51"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 37
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
     excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."

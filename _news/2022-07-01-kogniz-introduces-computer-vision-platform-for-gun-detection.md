@@ -24,6 +24,19 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Vigitron, Inc. announces the launch of the company’s new website that offers detailed information on their products"
+    excerpt: "Vigitron, Inc., the globally renowned manufacturer of network solutions designed for security applications, has announced the release of its new website. The new website is easy to navigate,"
+    publishedDateTime: 2022-07-01T09:54:00Z
+    webUrl: "https://www.sourcesecurity.com/news/vigitron-company-new-website-detailed-information-products-co-3302-ga-npr.1656665259.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/vigitron-company-new-website-detailed-information-products-co-3302-ga-npr.1656665259.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vigitron-company-new-website-detailed-information-products-co-3302-ga-npr.1656665259.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 17
+
 secured: "liWmnCvrpbqXEwFCcHFotc4FDswTGaA61HK6dDZbcC7gh0oz1KbNrlIY47AOIgCyTaTzi5/ZaDD+8v4dSy5INw3uYLo/utend9plz5SHu7nvD7BsCJhpIUKf0/cpTohZJWMLtutDv2Gv52zZ1F98Cllgev6sJkYredxi8lFVggLqRv1JxmN9UQEM4ONVwZNHE5zl6+QMbGskfo5JzmLogkI6WVRxHKuAauG+8fmnlnslyOvDs3NFkTMPp1xMPc2ZaxHVUzGWwjkFqwoAnKqnt0703GYRocQqA1T3hn/OXJHRASgRBlD8KrAfsd6R2OAL7aSmicXz4+Su2Vf7lqyPv7ZtCvIig1Tf0RJBICUAzSemtaUylG9qW/CcEnBboGiYU3OcvkL8URid6lKqb9vorMy5RJMStQov7e9Lzqg7GQHppr+XzC4c7aYhW30IsrulcHGzq+/FLYnSqSJo7RgWcJh4vHw5+v9AWdwxN1xufzEPdWnpIwb1WfEqQoqoomc5SOxkyfn7zM8jBXd8vXmmeQ==;enQ4CXs7U2Zf/gieHGG8tw=="
 ---
 

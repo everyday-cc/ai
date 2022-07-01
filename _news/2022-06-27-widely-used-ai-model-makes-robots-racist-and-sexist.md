@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Flawed AI makes robots racist and sexist"
+    excerpt: "Researchers have shown that common AI training models like CLIP result in robots gravitating to men over women and white people over people of colour"
+    publishedDateTime: 2022-07-01T08:00:00Z
+    webUrl: "https://gadget.co.za/flawed-ai-makes-robots-racist-and-sexist/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2019/04/Ai-Artificial-Intelligence-Droid-Robot-Android-2228610.jpg?resize=960%2C600&#038;ssl=1"
+        width: 960
+        height: 600
+        isCached: true
   - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
     excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
     publishedDateTime: 2022-06-28T19:31:00Z

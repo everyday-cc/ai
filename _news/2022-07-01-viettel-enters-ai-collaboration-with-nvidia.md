@@ -1,22 +1,31 @@
 ---
 category: news
 title: "Viettel Enters AI Collaboration with NVIDIA"
-excerpt: "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel"
-publishedDateTime: 2022-07-01T04:36:00Z
-originalUrl: "https://www.asiaone.com/business/viettel-enters-ai-collaboration-nvidia"
-webUrl: "https://www.asiaone.com/business/viettel-enters-ai-collaboration-nvidia"
+excerpt: "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions."
+publishedDateTime: 2022-07-01T03:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
+webUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1851865/Image_1.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "Nvidia: Paving The Way For Rapid Growth Through AI Democratization"
@@ -34,6 +43,6 @@ related:
         height: 500
         isCached: true
 
-secured: "hWRnhJmJHvPmnfcRFX89nzipPR6D0BBkHE7BJMTJzrQnMwGbxBWG/en/bKgticiPpgRVKOxIc3G9E7DvH2mSANhtfYAYiA+o6YSFYQKhVtJNYLVdaTs85ez3ltm4v//HZMTb5OHo5jZgdLGUVCceXxrruLzseZeJVGKIGesZJp0n2myqLeBHGxmNBqi8h/XlOaNL5Ddg8DZVwUv5p6x8pWTibe+I/q/P+LKLhY1If4cpkjEVkURd87hZhBBlrCGYVVNNQyFwgq8UvhRwAO7CNHvjZZV8v3ORBi+oVOMz7EY1uHNIUFFOuvHOIX8rhSFsuX86DFOHDvOM/rZa4lRUedRlQL7CK4CLvRp9y78rdd5V0pmhIPsNzZS17cBdLdjeT/A013pG+/xJ2f6mNsrRxXr8EgVaEhEQ7KmriypKTZWDL85da1Dat2SIibZDuX+wH0kp0rVMeRwNjEkwV3/PqOiJJLutRfy45waS6kWcOfBSr58gsRqwb1NDVXT4rJm7FGbAUz7ZvczZ3NGD2JsHlA==;Hh2wP0lXgG6iOrFNCcCxcA=="
+secured: "zyx7QvyU93JQREpxiXOYVqc51yPrXlzgTuGc4mmXnSTaJ3pS4lxs09f5mS2o6yCs9Bj+CJziBNflojtTfEJeiQT2QLzTj9qWLgWu72StuGn8eV+XOTDxvSYaLNjebP8FbtczZvj37vUpq0MNMvqVogNRJ5x+ECLx9FCcvvWnP3ADTpxZvsQrHFEYMG3OnOMXyxxN1ZeBPL+yqN7L8wyrXCWCmxe28W8Np2GHaOI3uuZISRlufPSGpsi8qZoa7dmYdrQdYBIgdUczoN19jKc00PmmboWs5iJ0giDhrSJBekMrcuP4xPKSOBUfcn/Wy3hss1b0lRmyDNl3LoIUfYQ/2VXl0WrKLNMP3wqcGLQiEDM=;zr2ujNklzWs8NRzI+Gmu+Q=="
 ---
 

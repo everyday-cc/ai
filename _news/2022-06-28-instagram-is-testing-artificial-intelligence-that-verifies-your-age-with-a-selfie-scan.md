@@ -143,20 +143,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Instagram tests using AI and video selfies for age verification"
-    excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
-    publishedDateTime: 2022-06-26T16:40:00Z
-    webUrl: "https://www.khou.com/video/tech/instagram-tests-using-ai-and-video-selfies-for-age-verification/285-20af8952-82e1-49de-af4e-dd3fda504d51"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 37
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "8iiLSoyFbfWclT4NDpgu1AfUvp7cKsOdJvDuD8ouNqKJ6Hsa3lM7w+JWljkpdE71ZaqejxRy+oKvpKtZJZuqDIClByixwgyPHY9nZjzFWDCZb+NjKUYyCvuQNa20iV2DtR10mq+3hoPlJoDtS3jNexXzASGKPVNjr7ohEnyKrC43Yt5LzEE1sHi2Sd/4dNIb+pZN6/vqhvg3yNqtYoh4g0b4Duo4qRMPQSgWd7sE11hyBHkO0Rwl/S/uy/EJ+ofF+RywhFZ5h0X4+M/EIs9CSKBQujZbIE2beVhJYlItuPBIsCU7RaA2Tr+mpjr3jLvSGnKQ+14fKrPZKiJt73J7XG+/PmpZAK7B26CJxUS1POGsVKojIeK2WaaRfhtm6O1gkhEZX8gzzq8idstTIjSzOPNJf6s7T1M4xKWnIjMDIyuQjXy6Gd7r2qHo+IVx6ifbOHH3icjak+rgp7JFCUWUhbVBbyFclg8VEFKCfoQ6H8VLQknGH41vo4tKruE3oYCcAyFp9048C+2xH7QAnOYotQ==;CIxn/Mb/BJ9S1GL/NwT+Aw=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "Viettel Enters AI Partners with NVIDIA"
+    excerpt: "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam"
+    publishedDateTime: 2022-07-01T09:43:00Z
+    webUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/"
+    ampWebUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
     excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
     publishedDateTime: 2022-06-27T18:08:00Z

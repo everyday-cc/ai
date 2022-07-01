@@ -3,13 +3,13 @@ category: news
 title: "AI made these stunning images. Here's why experts are worried"
 excerpt: "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs."
 publishedDateTime: 2022-06-30T12:12:00Z
-originalUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-webUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+originalUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+webUrl: "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -29,6 +30,22 @@ images:
     height: 619
     isCached: true
 
-secured: "4XbfqCY4kzTobpoKNPa3Vsm3bftnPqhOA9QpDbKmC5Dt7kq75h59Hjx/umoHckCYgQqfaUV4vHEvKHKzIWs04SzdrY+6e2FEUGTKY50P2j+kxpY/eo737/+XunfbTuO8fRnbKtVP1X021ap8+XOkGw6YscFTuapfLQ6ZIZaOh6fIXiuCpyhWZKK1a7f7SR6tYU0RBWGbt4FZ/wjpyZE6gzT6kTefwbjMnaF/say1g6n6KtM/YW3ofjMkFYQI7lw78KQ1cUi5Kw9f/zdEqeBsTOea20mmr7BxbqaKD2v/SNAjqDTVsJAkHg/qkODOkexBo/Q0BptuYWPXwKZ8WFno8w6tqDvff+vKRX6UBY1/hXo=;EEic3MDTeH0PDRuz7Sfaow=="
+related:
+  - title: "Exploring the world of artificial intelligence"
+    excerpt: "IN this digital age, we are now facing a totally different sphere where technology has been transforming the world we live in. To minimize costs and to improve efficiency, companies have relied on third parties over the years,"
+    publishedDateTime: 2022-06-26T19:13:00Z
+    webUrl: "https://businessmirror.com.ph/2022/06/27/exploring-the-world-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/06/Column-box-KPMG-Perspectives.jpg"
+        width: 1400
+        height: 735
+        isCached: true
+
+secured: "UMXQNkRjjulRgEbnmE3ylG7wt4jGBRUqDzxZZt0701iuPaBAu6R2wNxzg4+JLxRSDeLJHD9E7+ITx3MjfG5iogtxShzjmu1fDQkn7FAslvxjwbUFp0ak3AYyQRV4jkkxysTNv3ASg6jm+0x+SkGqTxCd2I7eQm4SJh95XWD5VMm+c9cO/Dt2WtVn4rD8EBZXh/T2zGLbTIBk22pThx2RzUF17KtEv1EQxVRUZRoRSBI+rzYc3IFsP4phO1egam4qYFBBrBmUiLuz9wWadG0eAOPTGdRyKfUVgKG6wEUukPN8fkPYhzAyyJFRdx85gCHUDtMXOcL5IxYuWIsyrT5wqFz9jvO1RoJGmBwBn4hpyOM=;Y9eS4ydqan3yqGvLEXKj+Q=="
 ---
 

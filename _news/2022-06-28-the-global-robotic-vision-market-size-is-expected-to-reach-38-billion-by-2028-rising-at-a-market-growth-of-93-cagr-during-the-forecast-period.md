@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Robot Market is predicted to Rise at a CAGR of 20.5% during the Forecast Period, Observes TMR Study"
-    excerpt: "The value of global artificial intelligence (AI) robot market was clocked at US$ 8.18 Bn in 2021. The market is likely to register growth at a CAGR of 20.5% during the forecast period, from 2022 to 2031."
-    publishedDateTime: 2022-06-27T12:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-robot-market-predicted-rise-a-/2022/06/27/9628702.htm"
+  - title: "The Worldwide NLP In Healthcare And Life Sciences Industry Is Expected To Reach $6.8 Billion By 2028"
+    excerpt: "The 'Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report By Component, By Solution Type, By End User, By NLP Type, By Deployment Mode, By Organization Size,"
+    publishedDateTime: 2022-07-01T09:41:00Z
+    webUrl: "https://menafn.com/1104463669/The-Worldwide-NLP-In-Healthcare-And-Life-Sciences-Industry-Is-Expected-To-Reach-68-Billion-By-2028"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?362989"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "iSVwtUOg0AqpdGAfmS8slt7jYoUK5OWI9CKIM4ml69bIBcR+57gV6q+XLLTlMpPGiCOgpmUUuUm/Q75QRPr5gF5j56YGKwYZ990XZLiy0NR1bMPh4xgZST2MJZGhLSM2xnQfSR0Gs1eA8PVWbzY0M0ULeJN1em/Bf7kW3B6nlf0pfIb+nrzRUkAIUx113ZCEwmNXMndAFsCfpZ8EQnb9KAbe7d9KrMKxkqO4DWa+KTaZvm4NkOhenr9dRbByxiWniKRxVkRvaV3XSXL/KmeUj1MdcgcN04am1XdCdlBF8r9Khr1/qrdy5jyushGQblZzEJjorNjbG+pccG1KIjcBXobU19ememq7tc2lGkCI+Qc=;rREbOQJc0bZfPR/7f1JI9g=="

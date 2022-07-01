@@ -1,37 +1,30 @@
 ---
 category: news
 title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
-publishedDateTime: 2022-06-30T19:06:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
-webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
+excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding"
+publishedDateTime: 2022-06-30T19:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence/article_b80ff974-43a6-572e-b884-261354a5fca8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence/article_b80ff974-43a6-572e-b884-261354a5fca8.html"
 type: article
-quality: 65
-heat: 85
-published: true
+quality: 55
+heat: 65
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cf/3cf157ac-2dff-5b27-9837-34a957413501/62bdf449b4b7b.image.jpg?crop=1034%2C543%2C664%2C0&resize=1034%2C543&order=crop%2Cresize"
+    width: 1034
+    height: 543
+    isCached: true
 
 related:
-  - title: "AI Squared raises $6M to help companies integrate AI into existing applications"
-    excerpt: "Integration platform AI Squared announced today the closing of a $6 million seed round led by NEA with participation from Ridgeline Partners. Launched in 2021, AI Squared helps companies adopt artificial intelligence by using a low-code platform to integrate it into existing applications in a timely and straightforward manner."
-    publishedDateTime: 2022-06-27T13:57:00Z
-    webUrl: "https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
   - title: "Modular raises $30M to ease AI development and deployment"
     excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
     publishedDateTime: 2022-07-01T00:44:00Z
@@ -47,6 +40,6 @@ related:
         height: 577
         isCached: true
 
-secured: "OHAU6/dcFPRXlwmgxmDsDe28fKogzJU6Qb2cwcEJ9xPn6yWFt0swFl+LAUkqpsvsAsjrwn8FEq0oMMOJxQHmfdQL83kms/94jCRCCKhJs8udyTeWHKKW2d28KcWSGfM6QsHXyQDb1kmtkchechxcHWQvawih51XQvXGV+v1KEVtcatgu7Cz3MO1bheqL8wyeJ0d4EC98g01B+L08Np66n+nRZ4czwTflXcChPs/mZtv9MKenKwyQTml0tdSPN/fj/aigzvNhlakyJlQUgJTVIGw0MVP1NzmDn6+hDOg3Z3NH1PcVkWdk2IDA+u+ujhYZ09PCueyyqoBcbvi/spf/3pTx86BreI4GroAOSWCILSE=;GBSdtTv7T3qiu859iX88jQ=="
+secured: "H+h1PikKQRLBYVvRPyhC/DufBUutpe5wwZQXAbM7G68KJwqyuNL3CKgcqmobWq5H4sZVHEtKxlwDcEvUkkmVJSa+UsvsgEM1xeLsYOOm5crFUFeGVUeGV1Ll+3MGbbPv8ShBhT4JeIkURvIKPfZiC72mj8bpPhoUC40PK3VulxiFFjXWIVqPty8Vfa1kii7egUg5xZxbEsABcgr+9FXWAekQ8Ed9cLFw5YSEKoZ8DHId2c8akBVgNbXjMe5KIsc7t7Ar+5FkzTkzOARfOvPOm986opP8+T1Vcv5jds1LMAT3eEQrPY5QvDbNuor2dhKWKMY4RFE4TNe8iZ7Pp2W8utpR1Eu6kAcNPHiHxP+/nwA=;7z1QGTBPQ0DTTq6fPngUeA=="
 ---
 

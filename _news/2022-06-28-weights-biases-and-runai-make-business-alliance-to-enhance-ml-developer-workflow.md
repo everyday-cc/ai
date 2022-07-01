@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "Viettel Enters AI Partners with NVIDIA"
+    excerpt: "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam"
+    publishedDateTime: 2022-07-01T09:43:00Z
+    webUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/"
+    ampWebUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Nvidia partners with Run:ai and Weights & Biases for MLops Stack"
     excerpt: "In a bid to help make machine learning workflow lifecycles easier for data scientists, AI compute orchestration vendor Run:ai and MLops platform vendor Weights & Biases (W&B), are partnering with Nvidia."
     publishedDateTime: 2022-06-27T13:00:00Z
