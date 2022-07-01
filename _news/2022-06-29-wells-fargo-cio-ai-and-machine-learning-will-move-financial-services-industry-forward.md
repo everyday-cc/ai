@@ -25,6 +25,7 @@ topics:
   - AI
   - Microsoft AI
   - AI in Finance
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/02/14224371682_7060d038fd_k.jpg?w=1200&strip=all"
