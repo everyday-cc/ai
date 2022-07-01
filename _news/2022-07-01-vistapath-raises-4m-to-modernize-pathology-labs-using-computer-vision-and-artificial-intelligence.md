@@ -1,14 +1,11 @@
 ---
 category: news
 title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
+excerpt: "VistaPath’s Sentinel is a first-of-its-kind pathology processing platform designed to seamlessly deliver a range of solutions for critical lab processes. The company’s first application, released in 2021,"
 publishedDateTime: 2022-06-30T19:02:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
 type: article
-quality: 55
-heat: 85
-published: true
 
 provider:
   name: Associated Press
@@ -18,46 +15,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "AI Squared raises $6M to help companies integrate AI into existing applications"
-    excerpt: "Integration platform AI Squared announced today the closing of a $6 million seed round led by NEA with participation from Ridgeline Partners. Launched in 2021, AI Squared helps companies adopt artificial intelligence by using a low-code platform to integrate it into existing applications in a timely and straightforward manner."
-    publishedDateTime: 2022-06-27T13:57:00Z
-    webUrl: "https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
-  - title: "Modular raises $30M to ease AI development and deployment"
-    excerpt: "Modular Inc., a new artificial intelligence startup led by prominent software engineers, today announced that it has raised $30 million in seed funding. Alphabet Inc.’s GV venture capital arm led the funding round."
-    publishedDateTime: 2022-07-01T00:44:00Z
-    webUrl: "https://siliconangle.com/2022/06/30/modular-raises-30m-ease-ai-development-deployment/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/modular.png"
-        width: 1030
-        height: 577
-        isCached: true
-  - title: "VistaPath Secures $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
-    excerpt: "VistaPath announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen"
-    publishedDateTime: 2022-07-01T09:45:00Z
-    webUrl: "https://enterprisetalk.com/news/vistapath-secures-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 20
-
-secured: "vjwVJh7GYONZT4F9kQi77e8xv8WD+xPqWAKzgxQFEBlBtsT8bkB/BZ3yxg6yveubD1xo78rDyexxWdrkIYn8P5Pe0HTew+rrU0LPiUHSqkkwM9pRnTLzKIwIf7GnXWa3x1m0pOmhdncLGsOi7CwS4tyjE8HiB4lTDCaQUJEEACUSQskOd9ghqAZ0pjV6BOuvDvu17xZ3trAToNnIIhLFJfoEZie5MvuvRcpr86EBsyzuZDIFNsfbcshLDEIZs37KJOQVRTUwyRcWoNri5Xymz6rhUCn5HVOhF6yRMqWIktjlBTYyUDQ824i9SaE6De0MqKHkhi4ceasz0gOLp4VAGynthmasOYR1EuE9KmBQCQ8=;IyaEfwPXzTdsrdFuggl4hw=="
+secured: "d7JLGZTy5UAz1DJHunlVBUF7SIaqIWxy4HUP9XWoSaG6wLwDfLosbj7ngBP/S1I+gxhLXsi+MUEvVjeNbdLqnZmuKvXzv4tbJ3vx/M9194Ox7T8EcmeIkmBkjBN/xHFsEs2R8J4HOdBiTYpz/Ud3caWlgDE/f0+I99//SlX+AFAQFgCz5PX3NRrMaqdJWvaooblA5nqthFhpPv4PR5BIVwlY/ekACI16n0WYYkJTev8AmbdqqvfIB3bocxSHViaHMqZtWNVQomlbRvySKQZ8tAwAQHa6djOHf2wX6CnH051MDOzmrrcytlfC/Kydk28R97IAlUur2EgxkWe3JgR3q8bVXq3AXSwmDjQiGGFUWxk=;QdUkQR+dDm5yifViGOCOMQ=="
 ---
 

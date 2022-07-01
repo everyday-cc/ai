@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.reuters.com/resizer/d9NWD_6DWfisv4pRwDBwbPk2zp0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZO2LUX5XJLSTKN6HGKFIPZYYU.jpg"
@@ -110,6 +111,6 @@ related:
         height: 450
         isCached: true
 
-secured: "cQDypTETePWt3ZBz6nWWaxd42oxdwDVNJauCMBTvmp595MJgfyYVy++Apik13gtmgKUFxu9ZdZG6W4GwTgM9E/9lmlDMBLsnkC2ubkt9OGWHiuHoiXmsz4ILoyqaK9g4i15vAtwf0gueq5PcWa3DbGjNagwaz6S17NgOyQYkso6VhPk0BEzlg6btnUNZhpIQ1XdIJ2px29SXsfcxOuQedzQJihu5VZ83obt6NIZSJy4AUfEWyyPQpyuwUg4nZHPR2zwmW7A6JG5qBis7zrLICKX5qX7ehD0o/gKJ5Hl2mmQ7+NmBb28oUffB1x+ymffBBkKgFLxg2usSI6D1YMmG0CDPbKs6FtMKVZD6JwrVDqY=;EFWhCzBY2PO8h1E+S3PznQ=="
+secured: "AKFadGU8mzRn4oyFD1hj4gs1lJuwY+136XsPYVB8CmGdXvgKzQGg8gvppcB1H2h+mrYeREmAvCdgITEyplsrI3WyxuYhE58dE85e+hPxwPtixMpNaRG9DUwa2kiUHzykfeV8QxIbwvpopwnmnplIze85n6ScGkJBd9aExIkexLPxsS54LVe4pMJjeo5cSRmirn1T/SWZCRQF1pzWQujWccQxj3EsDnbMGcFrWNA8BK0y/e2b6wtdtjAKscBfyL4ijdgH7RfJFvk9aohLGDTfSlSkeyBApTlcnuR8S6quMQsDwNEinJ8uDR8i/koQuMVflxQvjjSRACp0fLgruFTO5zvg0UEhoLsqqZ+C+UIqSKBMuJhYp9iY8GUTZAGY+0TzkHeBDvrr6D0Uh1KD6N4ndol9UPGN110R00U8xPG91/NrCLlbZ0yi12EEBfEz57yKK1Pyn66L+Fca7iOFqK5T9PbzxtDbV988IsA4Gt2nbmRKwGMWLhwHxskiLB4h8FYIxChRNjjuAjeMhZTh5Gg02w==;S+8T/ghsR9ZgPKfjv5jSWw=="
 ---
 
