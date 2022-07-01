@@ -42,6 +42,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Artificial Intelligence no longer a 'fringe' technology for Indian firms"
+    excerpt: "Although India only accounts for a small share of the global Artificial Intelligence (AI) market, it produces 16 percent of the world’s AI workforce, according to a recent report jointly published by consultancy firm Bain & Company,"
+    publishedDateTime: 2022-07-01T11:44:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/artificial-intelligence-no-longer-a-fringe-technology-for-indian-firms-8767661.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/artificial-intelligence-no-longer-a-fringe-technology-for-indian-firms-8767661.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/artificial-intelligence-no-longer-a-fringe-technology-for-indian-firms-8767661.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 56
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/01/ArtificalI-544x435.jpg"
+        width: 544
+        height: 435
+        isCached: true
 
 secured: "H6DlfYqO3dT0cbMdmpj1dgvfvLr4j414JxfdQ5nVl9kSkdFwyvCCd57lgTCdpLKbKPz2CgKTiLRYOALJ0bZQX0wys9d5BPt+ZfdlvwxtU96Sw1EfbVxx829dAhkhz/x2cxriEzYo3vSbb5ApejRqmmWnEis9SwtyeUSWXgK8Jtu8R+moEztuDl07fAE/S219bWzr//2bEqNvl+M5VJtXxovUOYmdx54eYJggXstFwN47/aqLbQZnAUuMYIfKSBq5KvtCLFF3ET9kGciYq6WrybSJoQCmuGf/eEYoCCwnqtJjsRWQejJQT3vHrm6ILirP5Adj8b95OPfLv3U/NXo2zCjSkjc2vmUoYjEeaLtTJJlQDIBei9ToGZeQ/RPpuNpD2HcdI0DN+g3StjzJ5IJXPADnFeDPg+5ZiZsMBzWAcORlk6xU2LKPTbjEvadMPZPvLn6a2keBlJ2qGS3ZShcbf0pCmMqpgEQ4Eez6xDlEGLuOta93R88HdxzufdzZrPpmyGCJSCeKg8OFI94JqBlOoQ==;PW4g72FWy7+NNbxv3tijcg=="
 ---

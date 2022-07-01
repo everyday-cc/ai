@@ -90,22 +90,6 @@ related:
         width: 640
         height: 356
         isCached: true
-  - title: "Instagram tests using AI and video selfies for age verification"
-    excerpt: "Instagram is testing ways to verify the age of people using its service, but users are skeptical about how the company will use its data."
-    publishedDateTime: 2022-06-26T18:26:00Z
-    webUrl: "https://www.whas11.com/article/tech/instagram-testing-age-verification-tools/285-4dac1f40-f069-49ef-8798-354878572102"
-    ampWebUrl: "https://www.whas11.com/amp/article/tech/instagram-testing-age-verification-tools/285-4dac1f40-f069-49ef-8798-354878572102"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/tech/instagram-testing-age-verification-tools/285-4dac1f40-f069-49ef-8798-354878572102"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 57
-    images:
-      - url: "https://media.whas11.com/assets/KHOU/images/a3d4ed75-b12b-44eb-af5e-6a61172620f9/a3d4ed75-b12b-44eb-af5e-6a61172620f9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "It's Time To Talk About Instagram's Age Recognition Technology"
     excerpt: "Instagram is working to make browsing safer for younger users through facial recognition software and other age verification methods."
     publishedDateTime: 2022-06-28T23:54:00Z

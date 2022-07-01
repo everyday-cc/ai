@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "HP ‘Gets Ahead’ with fintech sitcom"
+    excerpt: "Hewlett Packard Enterprise (HPE) and NVIDIA, have released the first episode of their unique fintech comedy mini-series Get Ahead."
+    publishedDateTime: 2022-07-01T10:30:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40561/hp-gets-ahead-with-fintech-sitcom"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-07-01-114034.png"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
     excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"
     publishedDateTime: 2022-06-28T05:00:00Z

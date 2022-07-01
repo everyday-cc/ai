@@ -49,20 +49,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Huawei Announces New Inventions That Will Revolutionize AI, 5G, and User Experience Company discloses progress in IP, innovation at themed event"
-    excerpt: "Huawei announced a batch of key inventions as part of its biennial \"Top Ten Inventions\" Awards at the \"Broadening the Innovation Landscape 2022\" forum held at its Shenzhen headquarters."
-    publishedDateTime: 2022-06-26T17:07:00Z
-    webUrl: "https://www.techjuice.pk/huawei-announces-new-inventions-that-will-revolutionize-ai-5g-and-user-experience-company-discloses-progress-in-ip-innovation-at-themed-event/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 0
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2022/06/huawei.png"
-        width: 560
-        height: 438
-        isCached: true
 
 secured: "tYtW/pDT0gdCil73/qbQNoxmj82MYjFEuA1d5sVXkRLAIbe+27oySuHXW0jIhWBHULsGX0MOsHpzhDcx/NHHSaq1deJqikKaz0IfgCNUoFKGSgZT1uLdOBFFQOxN82CC6dqDNvH7zvlGQYleCT+PHgcIlNTnokTEdzRIjtnVdyCj/KQUVILhgx6ZmsBNUg+tS2ctENstoPMz7Kj++G7CE9tepyUZkZNLx02/wxuur3Rsi3BQq9YJwTfnLcEmrube3YXG4RomMDTWWcqcynBi6MJpmIFEsvaZGtW8nPxSCQNeyobHhiR4hkYWsPlVJ249HA8nxHtp9y6hU7Cq2Iz6l4s7QunK4LCvIt9m4CGp+dM=;PJN6rqu7SFdDSQ7yYjtzsg=="
 ---

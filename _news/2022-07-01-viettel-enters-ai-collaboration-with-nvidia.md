@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-01T03:48:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
 webUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1851865/Image_1.jpg"
@@ -43,6 +44,6 @@ related:
         height: 500
         isCached: true
 
-secured: "zyx7QvyU93JQREpxiXOYVqc51yPrXlzgTuGc4mmXnSTaJ3pS4lxs09f5mS2o6yCs9Bj+CJziBNflojtTfEJeiQT2QLzTj9qWLgWu72StuGn8eV+XOTDxvSYaLNjebP8FbtczZvj37vUpq0MNMvqVogNRJ5x+ECLx9FCcvvWnP3ADTpxZvsQrHFEYMG3OnOMXyxxN1ZeBPL+yqN7L8wyrXCWCmxe28W8Np2GHaOI3uuZISRlufPSGpsi8qZoa7dmYdrQdYBIgdUczoN19jKc00PmmboWs5iJ0giDhrSJBekMrcuP4xPKSOBUfcn/Wy3hss1b0lRmyDNl3LoIUfYQ/2VXl0WrKLNMP3wqcGLQiEDM=;zr2ujNklzWs8NRzI+Gmu+Q=="
+secured: "OBr79sel4lQ/UdaLq42zx9i2NDltOP7aLamKaPP2uUjxI8r4PDW2LvpQ3B59ow13CN9UM2kiV7+AyKPNzuGusvCSh+fVdkRNX2A23uwBWhagkeaNNibcOuj+kQZgSjrzbSxfuklQCAmdLFrWSgnDZTUFy1xlJSpUap5FcmWq2+/qT6pyw4uTj7IheAlOYCHpQs5rns77+XbPU3mOgNjeISNMzPfL4rBZbS1Wv6YISBDmF06qJwOSWmSecFqOGiz30lkKzvt8fopbsAfLXLIzwnSrOuuXG96viuXAdflJqaC3Xee9u1sn3zJrc/wL/aIJ0l/6/KpY2Q3CRseYQT9v1YaTEri8zbJx74gubpj+b/sB7nQUk5pngDBPhhau4AeqRHa6vvk6gVaNxge5AiA2H8iZ72jvrmMcX5JVWvWuJVps1kA7ozvio3l+YqEYytdMNdW5VAjUgHjIe1mGpk/it5egpU6jvZ5NIi3cmwzflr9hRdc7rXObN3rO0njiZI96nmUjcoDwuYA4/TjJFOIu/w==;L9ZgnOFInzz7356gWgRLEw=="
 ---
 

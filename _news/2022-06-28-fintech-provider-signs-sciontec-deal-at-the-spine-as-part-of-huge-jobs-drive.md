@@ -39,6 +39,20 @@ related:
         width: 640
         height: 238
         isCached: true
+  - title: "HP ‘Gets Ahead’ with fintech sitcom"
+    excerpt: "Hewlett Packard Enterprise (HPE) and NVIDIA, have released the first episode of their unique fintech comedy mini-series Get Ahead."
+    publishedDateTime: 2022-07-01T10:30:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40561/hp-gets-ahead-with-fintech-sitcom"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-07-01-114034.png"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "GMgRPSou7XdQPKW7KHRW4c/fgIMugKAgfQwJGyu1HY48/4gUIlb9gcWzuv4QAbuVSBihqrsfsv84zJ4impjzCqFB90ux7O2mW85CaQIvBLDF8rjdly5jCSeZ3d4GHqtEXgQ/r4lHhRo7nvfkLMz1FXEXMLIwdtK2C8ipr0OLa2yJpM2HGhKYuAoOo4VqMOm+LlcuSra3PlMkyMad2G5RUzeon7n6xXMhE8zku4Gad/gfCIyl/mIcPF+qirQPETsDGJRm0lAND57orJIa3waDV2bFRsfl0+V/Sb0YnOTcFUu9EFYAvJX8LE6HCKiC5SkGYVXZkUzIFM6ZyJ/YCv5btaKgB/9AYMMwGpF2khlDdL7RBbBYudCqH57gQDJgal3zdeZAesoz9NDnEp3munZ163TmOFJ6+cFU7rwrtu1hZj6Vo4EDlRmkVi5Vwv/uW9WoMo3ylKJwnztTcTBG6mmDtmMVYh2tQUvM68uSkt96WPXLNh6HLuYSd8pCJ2ZCAMSgcrbPZWq1X77GoK98+HXBtw==;Y/RLhZo787R+f1KEjBIcJA=="
 ---

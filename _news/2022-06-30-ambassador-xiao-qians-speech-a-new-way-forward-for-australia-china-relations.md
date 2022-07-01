@@ -208,6 +208,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Face recognition study in Australia is halted due to privacy concerns"
+    excerpt: "The second-largest appliance retailer in Australia has halted a shop trial of face recognition technology after a consumer organization alerted it to"
+    publishedDateTime: 2022-07-01T11:24:00Z
+    webUrl: "https://menafn.com/1104463973/Face-recognition-study-in-Australia-is-halted-due-to-privacy-concerns"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_1.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "Coalition has open mind on Indigenous voice referendum, but says PM must ‘bring Australians with him’"
     excerpt: "Shadow attorney general says Opposition wants to see detail of constitutional recognition proposal before deciding if it will support it"
     publishedDateTime: 2022-06-27T01:47:00Z

@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Huawei Announces New Inventions That Will Revolutionize AI, 5G, and User Experience Company discloses progress in IP, innovation at themed event"
-    excerpt: "Huawei announced a batch of key inventions as part of its biennial \"Top Ten Inventions\" Awards at the \"Broadening the Innovation Landscape 2022\" forum held at its Shenzhen headquarters."
-    publishedDateTime: 2022-06-26T17:07:00Z
-    webUrl: "https://www.techjuice.pk/huawei-announces-new-inventions-that-will-revolutionize-ai-5g-and-user-experience-company-discloses-progress-in-ip-innovation-at-themed-event/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 0
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2022/06/huawei.png"
-        width: 560
-        height: 438
-        isCached: true
   - title: "Global Artificial Intelligence (AI) Market Report 2022 with Special Focus on Investments with an Overview of Patents and Patent Applications"
     excerpt: "Market: Investments vs Potential\" report has been added to ResearchAndMarkets.com's offering. The scope of this report is broad and covers the global markets for AI, which is increasingly being implemented across a wide range of industries for various applications."
     publishedDateTime: 2022-06-29T11:56:00Z

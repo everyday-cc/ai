@@ -26,20 +26,71 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 06/26/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-06-26T18:56:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-5"
+  - title: "CWallet, Microsoft Qatar partner to bring latest fintech services through Azure"
+    excerpt: "Doha: Award winning fintech startup CWallet has partnered with Microsoft Qatar to digitally transform thousands of organisations by equipping"
+    publishedDateTime: 2022-06-28T06:25:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
     quality: 50
     images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220628_1656397572-912.jpg?1656397572"
         width: 1200
-        height: 630
+        height: 801
         isCached: true
+  - title: "CWallet announces partnership with Microsoft Qatar"
+    excerpt: "FinTech start-up CWallet has partnered with Microsoft Qatar to digitally transform thousands of organizations by equipping"
+    publishedDateTime: 2022-06-29T10:37:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/cwallet-announces-partnership-with-microsoft-qatar/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
+  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
+    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 38
+    images:
+      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
+    excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
+    publishedDateTime: 2022-06-27T06:47:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/digidoe-a-uk-based-fintech-launches-operations-in-qatar/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
+        isCached: true
+  - title: "Durango fintech company sells to NerdWallet for $120M"
+    excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."
+    publishedDateTime: 2022-06-27T20:07:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/06/27/nerdwallet-acquires-on-the-barrelhead-colorado.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "/mB/Kev5K6yStYdR6c+Fc1Bu+d5/oxBJNQIdz6/m3zYhP5LcfnCbNjkm/W2MUm80xmaoV8zvcmJZGBpwPZTO/fAZ+wZ19q+BBo6VEgJqI69Upgpaz46piW+ZWP+88xQcWe0J7NXKvZ7dryu4g0cTr/bU+8i+/PFpNr0w72wfNwFU0aCzUBRBLWMSRqkLlsvBAkh52HDBcM1jbaRR1n9C406d28fylO12QzZmMBj3tn/P9Wg+dJe7nlokSxgzVRpdv1E+VH7OURMMrpCkmBG2nqfjsv2MYx49fNbti/H7KkA5sm5+0AlxSB5VxAKlvPzBUptcurtEmDYtz3hw35HaMuT4axiBKDk4rW7PxoQ8EOE=;0HPx8cbq12MSsoy1THY1NQ=="
 ---

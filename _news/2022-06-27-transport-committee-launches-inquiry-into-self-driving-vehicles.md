@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving cars block traffic for hours in US, manually moved later"
+    excerpt: "In a freak incident, several self-driving cars stopped simultaneously here and blocked traffic for a couple of hours until the company staff arrived and manually moved the autonomous vehicles. More than a half dozen Cruise robotaxis stopped operating,"
+    publishedDateTime: 2022-07-01T11:40:00Z
+    webUrl: "https://www.canindia.com/self-driving-cars-block-traffic-for-hours-in-us-manually-moved-later/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 24
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
+        isCached: true
   - title: "Jet-Packs, Self-Driving Cars, Wireless Charging Of Buses: Museum Of The Future, RTA To Showcase Latest In Mobility"
     excerpt: "The Museum of the Future and Dubai's Roads and Transport Authority (RTA) have announced a new partnership to showcase future mobility solutions, from personal jet packs to self-driving cars. The partnership will showcase new solutions in advanced mobility at the 'Tomorrow,"
     publishedDateTime: 2022-06-28T08:53:00Z

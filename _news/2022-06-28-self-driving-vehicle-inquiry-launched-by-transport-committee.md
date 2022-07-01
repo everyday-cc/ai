@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving cars block traffic for hours in US, manually moved later"
+    excerpt: "In a freak incident, several self-driving cars stopped simultaneously here and blocked traffic for a couple of hours until the company staff arrived and manually moved the autonomous vehicles. More than a half dozen Cruise robotaxis stopped operating,"
+    publishedDateTime: 2022-07-01T11:40:00Z
+    webUrl: "https://www.canindia.com/self-driving-cars-block-traffic-for-hours-in-us-manually-moved-later/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 24
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
+        isCached: true
   - title: "Transport Committee launches inquiry into self-driving vehicles"
     excerpt: "The inquiry by the Transport Committee will scrutinise the development and deployment of connected and autonomous vehicles ahead of the potential arrival of self-driving tech from later this year.   The inquiry will consider the progress of research and work in the UK and abroad on self-driving cars and what needs to happen to prepare for their arrival."
     publishedDateTime: 2022-06-27T12:16:00Z

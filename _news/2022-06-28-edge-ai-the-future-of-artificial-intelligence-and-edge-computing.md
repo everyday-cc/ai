@@ -40,6 +40,20 @@ related:
         width: 1028
         height: 685
         isCached: true
+  - title: "Exploring the world of artificial intelligence"
+    excerpt: "IN this digital age, we are now facing a totally different sphere where technology has been transforming the world we live in. To minimize costs and to improve efficiency, companies have relied on third parties over the years,"
+    publishedDateTime: 2022-06-26T19:13:00Z
+    webUrl: "https://businessmirror.com.ph/2022/06/27/exploring-the-world-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/06/Column-box-KPMG-Perspectives.jpg"
+        width: 1400
+        height: 735
+        isCached: true
 
 secured: "OdevcLx68G+zF6KMOfnA819bNL3Fc9WJdwAkupmkx1EWzfY5+EjMPqp4XwMga+UuGn8DZ3Is80AH82LmGScsfDoWoq1PpOkcuALGgqMI/pA5TcCftNjiNFyCd1zTCt1Js1InR0r9RZ4E4FF55BrqV6iu4X/FDV/VkkEtPOGaGkHLiWs0MpMqlXThnQFIxTQ2v77Ep5p3Dl3b9y7s1UIOoli8fJa0gKHim8jIAsy+bKpxsLSZzhPioMrQvfvFe9/xAWhJxgKZKsyuD3ARvoFliRyfpXmOQAd459dD3qo3FWUIWKc+LripewhJdsYzO8SwLIblYRkuITOFdpaRVkJNsqPeiTocqXaAJaeEeZrRJdo=;rSsyoxohRwkOdAMmgDSZDQ=="
 ---

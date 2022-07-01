@@ -2,17 +2,17 @@
 category: news
 title: "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'"
 excerpt: "You’re probably used to the idea that people differ substantially in personality and in cognitive abilities – skills like problem-solving or remembering information. In contrast, there’s a widely held intuition that people vary far less in their ability to recognize,"
-publishedDateTime: 2022-06-30T17:03:00Z
-originalUrl: "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
-webUrl: "https://www.chron.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
+publishedDateTime: 2022-06-30T19:03:00Z
+originalUrl: "https://www.seattlepi.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
+webUrl: "https://www.seattlepi.com/news/article/People-vary-a-lot-in-how-well-they-recognize-17276292.php"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Computer Vision
@@ -36,6 +36,6 @@ related:
         height: 415
         isCached: true
 
-secured: "A7GRXfzeSiH569GMIcfvxHmlDcFdzspTl1LQ67rrCDhP5nFY82pD1US2403Or2cBbp5WUwwH6628lkLZHCuYTqaoRwj41ECvOtx1/Dpr09lhdsQ3zx8ksg/faODmtxxhCJD2AQsqfQtxFgF3UsbmmpOWeE0vWzqSEWfjPgagGXVAEpjowj5fhyx60K6Z+x6pltyQFcHfjTT+4eWkr/JmNgag6ym51NYcEFewb3WKzyz28oQeouIfw7yHulBmqwCLTYuZGAi1IuTF9N87YAGTHp+27nArM1esyMn16gaXFewqWnOl8BbHjXBRYCGEhnQV+0BYRuL6fidf885pcadXvwZpN2e29xLchmtaZX8dewiqX9y3bJ4KdkYvVN3nLLMI9QejDY8T3aTIK37DT7WgMR88luRxOHw59AslArj9sFjC2BwI1muybss7Kakt0itgqCfeElz5ke81BIhp632oQuIEiuiDg8EwxZnEqIAntNFXaNnc7QnKMnlDed4gtwaHRr+rSz0WHKlDaEoiQUdO7w==;fIMDMWwehZwKPGUqs7ULEA=="
+secured: "upuq6521wl+j5B9YkQ1qyjaQuUVP21zwCZqHbzjl9kCRh1flHPLSxeTOWRofNAWXtWKfE7L6ZHIKZDcpfHeMSmOkGXLC292bzorHTHBgZSb51Y7Nfot/LEIoflD6x6tKZpdbJ6uholdmLmkcW+TtCRijt9dGUQt5IXngVOj7eZpyZwaf3+fGCA49MKoEjh4oGsAJoFRv7bo+x12Se82aYmFuyLhSUH4cQKBxAeB8UqRXdysZdHFQMRN5oNnGARY/OLSBo38Ct+Lyu2cHV2F0T5MA/zH3Wbg3CKU1966OwmakLjrSnI/MnJ5QqnoHTj6i+SgFW2KOQfXHw10Hh1gQBJKQ3uZ1r49iyl7sUdSXCaCI41AeXaAG9f1A5ES2SVD4E6oujl8E+5U74+2wvKFUfTR0u9Z5HssqBJ/q1+fN5VR5uZCgT3mUL7+kFS8GydWuExPzcaFXQ3oupBCY0cooY0HOMxA/rYC/qbMGgSbS4zIaENy2EGm5UbuZb91mz3Y1hvlg9sMPBrm/lKp8IfBj5Q==;WMwrndDPYCYr/yv0/WFPxQ=="
 ---
 
