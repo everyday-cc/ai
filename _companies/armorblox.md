@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "armorblox"
   url: "https://twitter.com/armorblox"
-  followers: 438
+  followers: 437
 
 size: 11-50 employees
 yearFounded: 2017
@@ -34,7 +34,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1535349558884110342/pAqniBal_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1542639048489058306/oHa1H67L_400x400.jpg"
     width: 400
     height: 400
     isCached: true
