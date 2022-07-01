@@ -36,7 +36,7 @@ tags:
   - Speech Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1531846944733089792/WgaCjwFt_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1542966362389131264/0J6jdSDq_400x400.jpg"
     width: 400
     height: 400
     isCached: true
