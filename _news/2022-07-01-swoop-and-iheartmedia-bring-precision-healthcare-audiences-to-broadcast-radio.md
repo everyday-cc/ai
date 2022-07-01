@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Swoop and iHeartMedia Bring Precision Healthcare Audiences to Broadcast Radio"
-excerpt: "Swoop's privacy-safe patient segments can now be used by healthcare marketers to plan activation across iHeartMedia's industry-leading broadcast radio ecosystem. Swoop, the leader in privacy-safe AI-g"
-publishedDateTime: 2022-06-30T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/b27920880/swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/b27920880/swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
-ampWebUrl: "https://www.benzinga.com/amp/content/27920880"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27920880"
+excerpt: "Swoop’s privacy-safe patient segments can now be used by healthcare marketers to plan activation across iHeartMedia’s industry-leading broadcast radio ecosystem. Swoop, the leader in privacy-safe AI-generated audiences for healthcare marketing,"
+publishedDateTime: 2022-06-30T19:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-30-swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-30-swoop-and-iheartmedia-bring-precision-healthcare-audiences-to-broadcast-radio"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "iqrNodUAeCR4D45hWUb1m565itrpupZ7ON2m+e0s5keQ1YhlKdOFzDzQ0TVYOkGhFvcWOWgimDFOJZb9PL31Spnq6psw5HzbwcYK/30nzycE+TKbRNu/V0IBXD8bvF2VKJwxtAU45d3CL7/U1bG3/vHFGsIOFP9he3AjI3RxB4GUYokvIFXwJcm4iEv/+lLx8xrAJCjYJ+fs9SzNUb3wWKKjEPSnPBLqAgiJ/LnmTqCfJvbdG4hhq26U+3yhqVXaF4/S5Hco4BAmVGR1iIHjzwFL8sdf/raj6CCm35KN8tdOwy3j6CNHkRcaxPlgiS6xKXPgE7s1mTA6joVRlKgKjmKSfAMrgbynPPBjP8iK8Hk=;rZKU7lCPSM0OFQ8cGDJL4w=="
+secured: "NgbYDyzO0wQtGiqqMGq9N+QVIXwURRgz6EAZH6xaQhwI4RYQ2wX6VbYoOl3Ydxbtapm7DY09vJr9+sk4DHmsHsb6jER4LMBXCvNabCqZmR9bPpHghVePliC/cZ3QlWJMErum+xhZKvr1qo1iqPh6Skx4G8YnVG3roibQMapPUyHgKFbFWF/sj7n+2dDf9rprdawd7ai6LKr6msJsXDua8BbWH7grrtpcWdpHC01cLHU4jctwGk5a39SJeG1xlIqBCqmB54Bcp7vV3JNGHGP98Ux1O2QATBgoTvAAsAaJN7qdpodF8SsFi1OAGccq4/de+wfdUDZocPNdmrj65tlyD1SiiLr8+ALYxBvY2Ng3qNs=;kIPT3el3MAkLHIekpqQg5Q=="
 ---
 

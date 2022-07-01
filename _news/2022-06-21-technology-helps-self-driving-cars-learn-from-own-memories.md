@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - AI in Autos
+  - Machine Learning
 
 related:
   - title: "Technology helps self-driving cars learn from their own memories"

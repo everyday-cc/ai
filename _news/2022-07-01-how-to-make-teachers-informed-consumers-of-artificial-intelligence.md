@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-01T02:19:00Z
 originalUrl: "https://marketbrief.edweek.org/marketplace-k-12/make-teachers-informed-consumers-artificial-intelligence/"
 webUrl: "https://marketbrief.edweek.org/marketplace-k-12/make-teachers-informed-consumers-artificial-intelligence/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://marketbrief.edweek.org/wp-content/uploads/2022/06/52180902983_4bbeab152e_k-880x430.jpg"

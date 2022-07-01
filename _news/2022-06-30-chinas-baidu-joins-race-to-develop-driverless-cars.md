@@ -25,127 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-06-29T07:58:00Z
-    webUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
+  - title: "AI-AI-O: The first driverless robot tractor unveiled to farmers at show"
+    excerpt: "Capable of a multitude of farm tasks using normal farm implement attachments, the AgBot 5.115T2 is a 156hp dual tracked driverless tractor which is now available to buy from Angus-based precision ..."
+    publishedDateTime: 2022-06-27T05:20:00Z
+    webUrl: "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 71
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
-    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services."
-    publishedDateTime: 2022-06-29T17:00:00Z
-    webUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-firm-waymo-goods.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 72
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2019/waymo.jpg"
-        width: 375
-        height: 360
-        isCached: true
-  - title: "Waymo opens a new self-driving trucking hub in Lancaster"
-    excerpt: "Workers are spread across the trucking hub, some doing maintenance on the self-driving Waymo Via big rig technology and others cleaning the exterior or monitoring other operations. When the facility is in full operation,"
-    publishedDateTime: 2022-06-30T04:08:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 59
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/I3ZJpQ8RKNjwwQTVFERFUkW1z-g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/GL4BTWS6TVE63IINRYM7KYHAW4.jpg"
+      - url: "https://www.scotsman.com/webimg/b25lY21zOmExMDliNTViLTAzMzMtNDRhYi04MTQ2LTI0ZjVkMGI3YmQ1MzplZmMyNDY0Yi01N2JiLTQwOTMtYmNlOS0yZjFkYjlhYzlmYzQ=.jpg?width=1200&enable=upscale"
         width: 1200
-        height: 630
+        height: 799
         isCached: true
-  - title: "Airbnb bans parties, Wayfair self driving deliveries, and Niantic's NBA All-world"
-    excerpt: "The party is permanently over, at Airbnb properties, some items ordered from Wayfair will soon arrive on self-driving trucks, and the developer of Pokemon Go is creating an augmented reality game with the NBA."
-    publishedDateTime: 2022-06-29T10:15:00Z
-    webUrl: "https://www.wdio.com/good-morning-northland/airbnb-bans-parties-wayfair-self-driving-deliveries-niantic-nba-all-world/6513307/"
+  - title: "Dubai builds maps for first driverless cabs"
+    excerpt: "Dubai is preparing to launch its first fleet of “self-driving” taxis in 2023. Vice President Sheikh Mohammed bin Rashid, who announced the plan in May, has set a target of 25% of Dubai journeys to be driverless by 2030."
+    publishedDateTime: 2022-06-30T04:54:00Z
+    webUrl: "https://www.al-monitor.com/originals/2022/06/dubai-builds-maps-first-driverless-cabs"
     type: article
     provider:
-      name: WDIO
-      domain: wdio.com
-    quality: 49
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 54
     images:
-      - url: "https://www.wdio.com/wdioimages/repository/2022-06/Airbnb_bans_parties_Wayfair_self_driving_deliveries_and_Niantic39s_NBA_Allworld-syndImport-061507.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-06/GettyImages-1236906074.jpg?h=1d34674f&itok=fmXAqAhQ"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Process of allowing self-driving cars on UK roads has begun"
-    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
-    publishedDateTime: 2022-06-27T11:34:00Z
-    webUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948"
-    ampWebUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
-    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
+  - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
+    excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
+    publishedDateTime: 2022-06-27T10:03:00Z
+    webUrl: "https://www.wheels.ca/features/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters"
     type: article
     provider:
-      name: Wales Online
-      domain: walesonline.co.uk
-    quality: 44
+      name: Wheels
+      domain: wheels.ca
+    quality: 39
     images:
-      - url: "https://i2-prod.walesonline.co.uk/news/uk-news/article24331943.ece/ALTERNATES/s615/0_roberto-nickson-Ddjl0Cicdr4-unsplash.png"
-        width: 615
-        height: 409
+      - url: "https://images.wheels.ca/wp-content/uploads/2022/06/wh-DriverlessColumn-June25.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Road is opening up to allow self-driving cars on UK roads"
-    excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
-    publishedDateTime: 2022-06-28T14:10:00Z
-    webUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678"
-    ampWebUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
-    cdnAmpWebUrl: "https://www-chroniclelive-co-uk.cdn.ampproject.org/c/s/www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
+  - title: "Open-sourcing simulators for driverless cars"
+    excerpt: "MIT researchers deployed the learned controller in a full-scale autonomous vehicle in the real world after successfully driving 10,000 kilometres in simulation."
+    publishedDateTime: 2022-06-30T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/open-sourcing-simulators-for-driverless-cars/"
     type: article
     provider:
-      name: Evening Chronicle
-      domain: chroniclelive.co.uk
-    quality: 44
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://i2-prod.chroniclelive.co.uk/incoming/article24269154.ece/ALTERNATES/s615/1_Rail-and-Tube-strikes.jpg"
-        width: 615
-        height: 409
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Mit-vista.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "China's Baidu races Waymo, GM to develop self-driving cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away."
-    publishedDateTime: 2022-06-30T21:45:00Z
-    webUrl: "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars"
+  - title: "Tips for driving finance AI success"
+    excerpt: "Getting artificial intelligence (AI) right isn’t just about investing the most time or money. Gartner has outlined four implementation behaviours that are the most important in quickly delivering finance AI initiatives that meet or exceed the expected impact and deliver critical finance and business outcomes."
+    publishedDateTime: 2022-06-27T09:46:00Z
+    webUrl: "https://it-online.co.za/2022/06/27/tips-for-driving-finance-ai-success/"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
+      name: IT-Online
+      domain: it-online.co.za
     quality: 34
-  - title: "Self-driving truck firm Waymo to deliver goods for Wayfair on Interstate 45"
-    excerpt: "Self-driving big rigs will be soon hauling Wayfair furniture down Interstate 45 through a new partnership of Waymo and J.B. Hunt Transport Services. Beginning in July, the pilot will last over six weeks, marking the first in-depth transportation of home ..."
-    publishedDateTime: 2022-06-28T19:14:00Z
-    webUrl: "https://www.dallasnews.com/business/local-companies/2022/06/28/self-driving-truck-firm-waymo-to-deliver-goods-for-wayfair-on-interstate-45/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 32
-  - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
-    excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
-    publishedDateTime: 2022-06-27T17:34:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1631877/self-driving-cars-MPs-enquiry-latest-news"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 0
 
 secured: "gbKpafTt7NcFh3jFV8zqZG1nUBuDCQJwTOB/H/pcFV3FSCbhIM1bYxmw3tctz3TEhKM9Wcajrhg4fVh7kMB1NACnQqYqv5kdG3tCkPyDgJJIWbwAhVOnhobpfNoyBdOaJELrDvRTsBVcCj75+7pKxtkd2G+Vr0PXUIZgm9AdTHn66GFlwaJLx9t7FVJu5bLc70PJTyVvT9pkNFIXKqrTDKrBqhvE5eqQnHgy86AMBQrPGZKQ6w/kTjRVEs0K5FfWoNUBUqv64E/iCt8Z4F1unaFMNCVEGnsi+Tn6A7lo3TP+wtQSxTuIEKG8MXJwE5v2MyQpb7wv0tc8CcFufzl2FTX3U4+lLBFaOCUKDS/0HHI+auQzNQJ4bfF9Wc+BVsgtjaz0N5tksURlP2WDrvgI+vvGiN3hVesOLMX5Xb2N2o+D2DYB5/PM0KGN5pDnx1154GN2XuUooOU9SUanPlCfXSpYwDCVLYxGnQZCLVvsL6DOr6eNKshFyc+Q7hknLsDfOAkVFluriwCn5iWqBZnrVw==;5vK4dvPpPEdvGvaT3MJy+A=="
 ---

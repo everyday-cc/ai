@@ -33,7 +33,7 @@ related:
     provider:
       name: Education Week
       domain: edweek.org
-    quality: 41
+    quality: 43
     images:
       - url: "https://marketbrief.edweek.org/wp-content/uploads/2022/06/52180902983_4bbeab152e_k-880x430.jpg"
         width: 880

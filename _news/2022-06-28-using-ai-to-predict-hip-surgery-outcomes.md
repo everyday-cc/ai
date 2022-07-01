@@ -38,6 +38,20 @@ related:
         width: 799
         height: 470
         isCached: true
+  - title: "How Can Governments Use AI to Improve Procurement?"
+    excerpt: "Government agencies have experimented with AI to improve the procurement process.  The IBM Center for the Business of Government has released four lessons learned from these innovative efforts, which can help guide agencies,"
+    publishedDateTime: 2022-06-30T04:09:00Z
+    webUrl: "https://www.theregreview.org/2022/06/30/chenok-how-can-governments-use-ai-to-improve-procurement/"
+    type: article
+    provider:
+      name: theregreview
+      domain: theregreview.org
+    quality: 37
+    images:
+      - url: "https://www.theregreview.org/wp-content/uploads/2022/06/1148195855.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Enhancing player protection using artificial intelligence"
     excerpt: "Mindway AI CEO, Rasmus Kjaergaard, discusses how the forward-thinking company combines artificial intelligence with human expertise to make betting a safer plac"
     publishedDateTime: 2022-06-30T23:04:00Z

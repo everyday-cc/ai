@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f3fd8c77-8f0e-4f12-b5fc-5ba6d3637cea/Rendition/thumbnail/Content/Public"

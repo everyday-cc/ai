@@ -7,7 +7,7 @@ originalUrl: "https://phys.org/news/2022-06-human-robot-ai-teamwork-regenerative
 webUrl: "https://phys.org/news/2022-06-human-robot-ai-teamwork-regenerative-medicine.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Robotic AI System Improves Cell Culture Recipes for Regenerative Medicine"
+    excerpt: "A joint research group has developed a robotic artificial intelligence system for autonomously determining the optimal conditions for growing replacement retina layers necessary for vision."
+    publishedDateTime: 2022-06-30T09:28:00Z
+    webUrl: "https://www.technologynetworks.com/cell-science/news/robotic-ai-system-improves-cell-culture-recipes-for-regenerative-medicine-363190"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 36
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/363190/robotic-ai-system-improves-cell-culture-recipes-for-regenerative-medicine-363190-640x360.jpg?cb=20220630"
+        width: 640
+        height: 360
+        isCached: true
   - title: "New robotic AI system can autonomously determine the optimal conditions for growing replacement retina"
     excerpt: "A joint research group led by Genki Kanda at the RIKEN Center for Biosystems Dynamics Research (BDR) has developed a robotic artificial intelligence (AI) system for autonomously determining the optimal conditions for growing replacement retina layers necessary for vision."
     publishedDateTime: 2022-06-29T05:51:00Z

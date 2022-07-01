@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/engineer-creates-ai-tool-to-identify-holocaust-victims-in-wwii-photos-16897143/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google engineer identifies anonymous faces in WWII photos with AI facial recognition"
-    excerpt: "And so he set to work creating and developing From Numbers to Names (N2N), an artificial intelligence-driven facial recognition platform that can scan through photos from prewar Europe and the Holocaust, linking them to people living today. Patt has a ..."
-    publishedDateTime: 2022-06-26T12:40:00Z
-    webUrl: "https://www.timesofisrael.com/google-engineer-identifies-anonymous-faces-in-wwii-photos-with-ai-facial-recognition/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 27
   - title: "AI identifies rocker Geddy Lee’s mother in Holocaust photos"
     excerpt: "Rockstar Geddy Lee found never-before-seen photos of his mother’s family thanks to a new effort to apply artificial intelligence facial recognition technology to photographs from the Holocaust. Lee’s mother,"
     publishedDateTime: 2022-06-28T18:20:00Z

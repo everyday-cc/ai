@@ -1,29 +1,27 @@
 ---
 category: news
-title: "China's Baidu races Waymo, GM to develop self-driving cars"
-excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-publishedDateTime: 2022-06-29T07:58:00Z
-originalUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
-webUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-china-baidu-waymo-gm-self-driving.amp"
+title: "China’s Baidu races Waymo, GM to develop self-driving cars"
+excerpt: "ALSO READ: Beijing grants Baidu, Pony.ai new driverless robotaxi permits Founded in 2000 as a search engine operator, Baidu has expanded into artificial intelligence, processor chips and other ..."
+publishedDateTime: 2022-06-29T04:44:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/29/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars"
 type: article
-quality: 74
-heat: 164
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chinas-baidu-races-way.jpg"
-    width: 2880
-    height: 1920
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/06/29/1640322.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -59,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China’s Baidu joins race to develop driverless cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-06-30T07:25:00Z
-    webUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/06/29/2DChinaCars0630_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Airbnb bans parties, Wayfair self driving deliveries, and Niantic's NBA All-world"
     excerpt: "The party is permanently over, at Airbnb properties, some items ordered from Wayfair will soon arrive on self-driving trucks, and the developer of Pokemon Go is creating an augmented reality game with the NBA."
     publishedDateTime: 2022-06-29T10:15:00Z
@@ -86,38 +70,6 @@ related:
       - url: "https://www.wdio.com/wdioimages/repository/2022-06/Airbnb_bans_parties_Wayfair_self_driving_deliveries_and_Niantic39s_NBA_Allworld-syndImport-061507.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Process of allowing self-driving cars on UK roads has begun"
-    excerpt: "MPs have launched an inquiry into the development and deployment of self-driving vehicles. The Transport Select Committee announced it is investigating what needs to happen for them to become a ..."
-    publishedDateTime: 2022-06-27T11:34:00Z
-    webUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948"
-    ampWebUrl: "https://www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
-    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/uk-news/process-allowing-self-driving-cars-24331948.amp"
-    type: article
-    provider:
-      name: Wales Online
-      domain: walesonline.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.walesonline.co.uk/news/uk-news/article24331943.ece/ALTERNATES/s615/0_roberto-nickson-Ddjl0Cicdr4-unsplash.png"
-        width: 615
-        height: 409
-        isCached: true
-  - title: "Road is opening up to allow self-driving cars on UK roads"
-    excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
-    publishedDateTime: 2022-06-28T14:10:00Z
-    webUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678"
-    ampWebUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
-    cdnAmpWebUrl: "https://www-chroniclelive-co-uk.cdn.ampproject.org/c/s/www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
-    type: article
-    provider:
-      name: Evening Chronicle
-      domain: chroniclelive.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.chroniclelive.co.uk/incoming/article24269154.ece/ALTERNATES/s615/1_Rail-and-Tube-strikes.jpg"
-        width: 615
-        height: 409
         isCached: true
   - title: "China's Baidu races Waymo, GM to develop self-driving cars"
     excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away."
@@ -137,16 +89,7 @@ related:
       name: Dallas Morning News
       domain: dallasnews.com
     quality: 32
-  - title: "Self-driving cars move a step closer as MPs prepare to allow drivers to watch TV"
-    excerpt: "More info The possibility of drivers on UK roads being able to perform other tasks while driving, including watching films and TV, moves ever closer as MPs have launched an inquiry into the development and deployment of self-driving vehicles."
-    publishedDateTime: 2022-06-27T17:34:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1631877/self-driving-cars-MPs-enquiry-latest-news"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 0
 
-secured: "8r/GusRhfNt01YiB/8/93pd6YvlI4Q8pPLzRuTwnI5RD1SMo3OrmgZo8RdoPITNOYm6ZFxRUM5BwQLWt3nS+whxcyRwUktTep3bPCfdEwHE/o3qZv+AKFI0mvPzrRyOF4Ql1VbnW9LmMXqgK7Gww5+sezDECqlNzoEm0dup9DHybbvJBDgeKfb4b1y4j4gWRLYMD+TEI9ZV3ARzsIE9yfyQhqsqrBg1Mx+OuzxcwOFnKZ8MpjkErQD/FSRy6PHphEptUGJRo7y3/wX1irzz1FfJddjU+AnFFf+ARNkfpWE95Eoitd6Vy3Dot78/ob3k3jyopte6rgNcV9plYipad67/KH8HyM0u9kEcsldjsvH0=;fK/LDXRGkg73zQlCXnAlbw=="
+secured: "pJF6hVsAYOsAdt31279DGM9DD7zG/Uk2uKr6+E+c9/IBaWaDcVpy3/xitOtqankYifIjmHqRp7hRd1eDC3dSqBEE9lONGo4N5dl7qZ/wj1D8HSrIvw0CAO7EBrr9o1RGnvs3TImi3k/D64PJGZi3q6C5WXDYxTJBWW5bxoggr1/hZ+31WPXpxeUZocvFuju3hLV15a7+BiCs1Uqi/tgNAtWsZZKAQgwSe+yi7wNTg0H9Seub1INlREVGp0HEkSabrpF9aZOvUalBajEC/+Mg7xH1BPgp6fqzrkiyjfM9WDYI1YWT55GHN7sy1aal2Uwyl5vXJFM8vTFyP3QnFc+XPC0TsitXknYMsNQxpRlHYd8=;qMwfbZX3ZjzhorrtBR4lTQ=="
 ---
 

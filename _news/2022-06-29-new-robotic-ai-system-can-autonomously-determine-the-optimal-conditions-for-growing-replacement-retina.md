@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robotic AI System Improves Cell Culture Recipes for Regenerative Medicine"
+    excerpt: "A joint research group has developed a robotic artificial intelligence system for autonomously determining the optimal conditions for growing replacement retina layers necessary for vision."
+    publishedDateTime: 2022-06-30T09:28:00Z
+    webUrl: "https://www.technologynetworks.com/cell-science/news/robotic-ai-system-improves-cell-culture-recipes-for-regenerative-medicine-363190"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 36
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/363190/robotic-ai-system-improves-cell-culture-recipes-for-regenerative-medicine-363190-640x360.jpg?cb=20220630"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Human-robot-AI teamwork accelerates regenerative medicine"
     excerpt: "A joint research group led by Genki Kanda at the RIKEN Center for Biosystems Dynamics Research (BDR) has developed a robotic artificial intelligence ... the robot must repeatedly produce the ..."
     publishedDateTime: 2022-06-28T13:42:00Z
