@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 82
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "cLZZd8TzAoiNh46MwooRmCsdGr3OX8Z5d1PDT1c4IbopcV0w2Bz45f92ztdPQJxrdrNnAgOveCDBKHCIZlaj3K55HxS4mRpt7mrJqJF93loInAiVrAt+D1mOXqmCtpc6/B3rKW0ASCqBZeLOk+FkDTxZJvxTYjg6vpgmBJ0ofw+GXAMfZjnHKQR3byVH4V7Ka9CMOiYeKTMZtK4/LhcaN5BIwFPfHLv3Z9NG6xzAmCnDM0Yv1BxNKOVb6tbf5K6E/Ov4rlIUcbcoZYW6TeKNp0QMgvkzrONdKhXxv61j2yFDkZRidg5k8pG1h1IcMxphCno6+hZd9AK43voWtBWhvOZajoJNKhHGiPArDFh0cV55VAx9+nzw7hVyIccLPxk7JEpg9QXaBadnJN7IgDMvxM4a+aE9oN6Ccog/6WIZjgI=;x/P/3cGfCLMyfL8G72tbOQ=="
+secured: "+xTJgdHKLsqniHlFgUmKNxUJWmuhyKo/QG9zwqTJcHhR0Fhh0rmdZ4es5kwuy8V5/uyfNL8rQLHtyFNq18dR6KIWVYRQDJ5JiKzELoR3M6mcURcccW9WiI7sPwGPHLpQpRARGhB5ij1aeABKbtj0DLhgJpyJsFz3DQabQi5JV7mHFj+d3He7jHpZcAp++0Ss7hMHqcNUDew9f0OkeK70QtvifIBbWAjxFO7mxrl0a2n51Vd8UJ1zPWVnJrH5CnVWUEOI2CpQ/qm5MOph5uR79GDrrAPVEL3bFcB53DK0bX3Z3TX+36gPs1y9W5vOv2GZ9/SUl2NjlsEnc5zW/3Gte8eHpW9qQAonkx3x9N4faXN3zX4nplBfIeDgzGbvSKH3p10wpk9e3M7oSlbatDChRTSxvintigb4NzI2dMVgo0g=;32Uj5gdcQmwGi9P6kZ+MKA=="
 ---
 

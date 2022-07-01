@@ -4,7 +4,7 @@ otherNames:
   - "Viz.ai Inc."
 overview: "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care."
 type: "profile"
-heat: 57
+heat: 42
 
 website: https://www.viz.ai/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3P9aVwDOig"
 
-secured: "EopSC5TJxNls5YoJXsezA8fkcH4WXwz/+V8SCDnXRcp9fc1lCqh7vuImTPJFxBv7YzbKLyqP0MZpEp4QfR+2SGe6FvNBYXC7GpgrCXXwYyiDTjAj5j8Be+zofRfYqP5IQRLoi1eHagmyoU/mlcGfkVajw+1895nzZfsSZMqRIxbSKgdijZ/flyp56/8MX+FmL4BTWE4x332xMBTgTTGtOsbkEu3incrjZdW+zBRxn/07dLEUvVzM/Dr3ACaKyCND5HLf+3NdYy4vTCRUMr14S6RdT2tAfvDZ1rGgaFmwsbFr1NGdtH6GxJn3dq/loSGa/a/0WuABbAFIFO0laaUEMg/SqfUl3GxXu/pPjU2auXX/XM0eb1OGBrZ0R+3fbkkKHP5RX2M+hLxDjtCth0S8bkGvDwkortiVNvxX8GyHGZU=;VA1iQ3HY0yGN9zAG8OqvaQ=="
+secured: "WtXWt/KeqvjFEtol7fFnyBB9mt9Bbk5UDzPwgIKisGd3gyA7dOTyxoYz1HXdpYHmITjCDTRpyuQCRSRVg7xjsed8nDrX/2gKH25SXXIJX3dbH+zOfQ4sItrbv6Zm/ygqZf/HCUW24bYpqaidmMCKD58peW7CMf35dJlyaNRZ66m5DV4PvpsHKa0HYiLRg1nnfty5cu1j+2Vyjd+S8anDxPA2yDctu+rSafijUOrgJ4r6mSVlnMguguAr6MWYIM68kcdTPnSZ9GQeGC3QxYAc9ZO7rLPiAV8MeA0LP1/eg4zy4CQBRrVVq/GrK0jhwqTcVusx/hap3v8Oz3mITMne2jb3j4lk1aLwWt7Ztstgp/TyYWxUNLj/vkFs7xAMZtkn6PC6Hyz8bN8R+QHNff2957bja3WaOjhqMZ9gYr88paE=;a7YjDtfYFz2HNZyaf27UKw=="
 ---
 
