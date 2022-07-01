@@ -48,6 +48,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
+  - title: "Computer Vision System Market Size, Share, Research Report Recent Developments, Growth Strategies, Segment by Type, Region and Future Forecast 2026"
+    excerpt: "Computer Vision System Market Report provides a detailed of Competitive Landscape, Type, Application and Geographical Region. Computer Vision System Market also provides a Sales and CAGR value ..."
+    publishedDateTime: 2022-06-27T10:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-size-share-research-report-recent-developments-growth-strategies-segment-by-type-region-and-future-forecast-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/OPEC-OIL-AFP-1K-e1638460214268-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "sJKUxSW2g8CM5dWWuC3blpaIv24BmsSFk9rQtNWg2pq8odjRt3pLJNZw8wLaUDqhWsrewiL3k7Hf81mDBTKjcL4shhF9CdP2iSWbj+BhOdqcKQPxbOrTi+PVncuqdBrReyu6egLp+fJ6bGLmgxhPgAtTBfHQvZJSpUuRq+w1HUdV+seNzsTfowhKF2QvMono9oPV+eGvXTXI/fMQMUiQE6VeZxZkTJqHv3Ct5zZXWGoRE3rd4bevOFuI+D9YtZp5Metdd8ScJ96V/fJ8sVYo7L7V0jxOGgjnnUDMAs6YOWZeG3RDM4QXRqs9aY1Obqf27g4aTYVRdtAtRAFHXv9r1frccHmQ76uvy+8jDJBUX5VBv5zStyNzLpXM9nINOk1kaO2bysUeLY9Hr3ytbgvRAiprZOPYreRqwWx4NXWdJdEVZaftZhbM72Ng5O5XGhkQU1SiMP1FW4J6GPPaOBT378b4KFbFyP9hXVt6Ua108sw0d33QC4DNUz+JgenZAUcdKUv6OaSZv6hqUExYm55UcQ==;lP1Yd6LUTaAe1j78dKAUPg=="
 ---

@@ -34,20 +34,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 18
-  - title: "New unified Qualcomm AI stack portfolio revolutionises developer access and extends AI leadership across the connected intelligent edge"
-    excerpt: "Qualcomm Technologies, Inc. has announced the Qualcomm AI Stack portfolio, accelerating the company’s leadership in artificial intelligence (AI) and the Connected Intelligent Edge. Combining and improving its best-in-class AI software offerings,"
-    publishedDateTime: 2022-06-26T09:39:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-opinion/new-unified-qualcomm-ai-stack-portfolio-revolutionises-developer-access-and-extends-ai-leadership-across-the-connected-intelligent-edge.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 5
-    images:
-      - url: "https://itwire.com/images/20220509-ITWire-300x250-may22-3.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "O3afeluNqOKXnrbnEjZ4ER67oTt3hDPOhgbkPv5PXXjOAtWkxiAFxvWE2pDlP5Xh8/iTGNa1hMgsiQnFgh0Vfifw4NK4O45KacvE28bcvUrMVzdd1w/xY6QEK1Q3a6gTAo6KaJhzNt+0RHlXq/IlfEhrtDfFq8Jye+MMw9FoDn6OdQMLbP86/xZrADFnXN5l61a8L6KZdVf9Wf7SqqEvK7XbUq+ditBmDztFmjB8yRgNJZPmCx5oURh8vzSyjCZ2jmCqW6czHAjx9IUoc+uYsB679i8ZzBtV8/l1mTHTLeV64R97DRKYEPxPRbMfBHdeSBEHxetgO7JFnTUsFlJJgKbrbACijU98NzbAcvZuhbg8YhkbIFQcrzpgrbPlMlZTGyHbrMbIaY2XYZKeBxgMUTJt2Y1XHxJHkHxeb2BjIzQXl1NL/DRtWFABFgVwU/HGlPGbPD0KAS0hlgkpdikbGnl8FUJAIrpvqeTAaV5R4aSNjHQzGUKYcEngoXoaxMtlA1EMJzcnO83khGaJBJgudg==;cMePYXz9MblgtGB299TLIg=="
 ---

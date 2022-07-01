@@ -3,23 +3,23 @@ category: news
 title: "Marijuana, facial recognition and other new Virginia laws take effect on Friday"
 excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday. Here is a look those measures a"
 publishedDateTime: 2022-06-30T22:49:00Z
-originalUrl: "https://www.pilotonline.com/government/virginia/vp-nw-new-laws-virginia-20220630-m3dfwhbanbfvrak6hxodfhbsqy-story.html"
-webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-new-laws-virginia-20220630-m3dfwhbanbfvrak6hxodfhbsqy-story.html"
+originalUrl: "https://www.dailypress.com/government/virginia/vp-nw-new-laws-virginia-20220630-m3dfwhbanbfvrak6hxodfhbsqy-story.html"
+webUrl: "https://www.dailypress.com/government/virginia/vp-nw-new-laws-virginia-20220630-m3dfwhbanbfvrak6hxodfhbsqy-story.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Virginian-Pilot
-  domain: pilotonline.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.pilotonline.com/resizer/jAG-_2DS9bJJEPZmuCsLjsWsgVM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UDUQHF4OV56YHOQEME7BUTF5VE.jpg"
+  - url: "https://www.dailypress.com/resizer/jAG-_2DS9bJJEPZmuCsLjsWsgVM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UDUQHF4OV56YHOQEME7BUTF5VE.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -145,6 +145,6 @@ related:
       domain: goldcoastbulletin.com.au
     quality: 13
 
-secured: "RELnu/oWVeOPf8oww/MzemuJNpI1bd96Dd93n4gfu5RSrvz9upvE0spJ+gjBA3BcOoYgJvs3m2h4/WY9BP2w9kLrnbbUCTTLljbsRNh94jhUcxGPjK4qQ2tfDmMgDb7elNVIHB0v0XRNC5D5n9LtzYp3Y0OzD2B3WNihYTY7PCuj7gAyD9GVaVMbOWlbV9DMeAaIh971yiyot1yNfammy0VeBFp4tlF/OCFFX1jTt9KZkm/4SA4sq0MzMKjREi44pPsZTj3GHpK0JJXN6ERHsRaJruSYeb4aXqMlPGYfIrm50ySFmMS8YREougO8B1x4jEbJgiBzwqM3ox8xzYG5Sp3xnSxC5zGowESHodCFEGXXhwS5QkeooMVXB4fZqsJryCXt9hTuupTKJgBgYDjR57tM7y1YTEqgkztpwtQHttPByrD/FOEsnQlzmu2nQ4kcfheiUXYUgEDFTDA6+hhjHOGNXBFFsHlJP2i1mCFSOWfrozf9Txnvshr4rzSOG9OakO/Prw9i/pwnAbfhzUmQ/Q==;OznHZ0Z6NsZXtcfF+216Zw=="
+secured: "UdKHt0PT5ICxZLQm1X3ZDGGuGc97LT+vpr8XJ1dqi2IWKvr1WkszgehNJOO+NC67XBU7RL+cnQx6Ef74g24/G5xhetxDnC1b6l25tCtFy99xp/liPdKDdfmGNtrRYNyxjLnsLKTOhljPKnFLKRK8VmdSdAsQUVseu6tmAEQefQQh//ov691nshWaA9Hd70acDnmNVgzQYF/e7dXQgSc/WxlLo6z3HdCpz43VJpTfvOwZWKDJaC3jQxqBLK9nYcA75Efe3rkJVaW379tgltzwyNQSNAElbjBMccfAo3eilqqoFNliojH6uedLeeT3XRSQOHKT/xTTenbAb0zyCyB3d6zBkTb2DIyGgqokqnSfovU=;d4uBmRi4HXwnqewvC623LA=="
 ---
 

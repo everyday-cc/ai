@@ -7,7 +7,7 @@ originalUrl: "https://www.dig-in.com/news/insurers-ponder-ethical-concerns-with-
 webUrl: "https://www.dig-in.com/news/insurers-ponder-ethical-concerns-with-ai-amid-consumer-trepidation"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How to Make Teachers Informed Consumers of Artificial Intelligence"
+    excerpt: "While using artificial intelligence in the classroom presents its benefits, a lot more research still needs to be done to understand and implement this technology."
+    publishedDateTime: 2022-07-01T02:19:00Z
+    webUrl: "https://marketbrief.edweek.org/marketplace-k-12/make-teachers-informed-consumers-artificial-intelligence/"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 41
+    images:
+      - url: "https://marketbrief.edweek.org/wp-content/uploads/2022/06/52180902983_4bbeab152e_k-880x430.jpg"
+        width: 880
+        height: 430
+        isCached: true
 
 secured: "X98mywVA4CTwrSzYXpire/gLxmt4HhksfhRNeE2e6k5xry/MRZed2m0xIjjR32fXyEL7uEQlFb0tjKCyVvsUm87N6+w4BmWTEVtDaIklmu7O/gTdHxZT22fyFhcWrwgep6zGQmtuQgpK74SV5by2iDcZfORpMM3LeqbaoLnSWLekjov12lPbdJYIvPnrJ+nV4rw1aX2XcJyRG/lN1AxGkmtIAv/4mXMu4YSve0TWjK0/YM+vfWut+Nf7MPmixNzpu2YOpQzyx8fMRXleL6abjI/xvdOelmVqD24rwgZ5idvxApo747MrfxsE3yshfSX5YTDqnkH1SGseFwlf9sCxT699OKx5rgMqIWpsyC7JGqB7KpFGp0Kpt9df0CKlt+V4FOOFXuPFEjWHkpJafnrgfg7WOfGwouI0U8Ek/vSOW5dp/OEc6zxKUWVri0f6kvLQSlSUHVSYyeGA/lHqxHklS/35kCyrVXH1aNMRBKxUFW9ziO/rsLtgLAr0qhKo1TDvy4z95f2gsjZK30lNh3Bvfw==;NqrIIfjQoeU8dFdlDG3ONw=="
 ---

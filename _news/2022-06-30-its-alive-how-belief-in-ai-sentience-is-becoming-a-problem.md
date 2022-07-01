@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-beco
 ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
 type: article
-quality: 87
-heat: 147
+quality: 89
+heat: 159
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
@@ -57,6 +58,20 @@ related:
       - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg"
         width: 750
         height: 393
+        isCached: true
+  - title: "It's alive! How belief in AI sentience is becoming a problem"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-07-01T03:04:00Z
+    webUrl: "https://www.asiaone.com/digital/its-alive-how-belief-ai-sentience-becoming-problem"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2022/01072022_AI_reuters.jpg?itok=WBlTu_Gz"
+        width: 800
+        height: 567
         isCached: true
   - title: "Can an AI bot convince you that it's sentient?"
     excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
@@ -105,6 +120,6 @@ related:
       domain: realclearpolitics.com
     quality: 16
 
-secured: "47hGL2JaCbWXT8uCyW04qMXPDCmra3avcX72ZP/Kc8YeXRjYaktzr+bQeLb8g9YXuGIXIisnrgx/kPsJDnOWibOEvI4RVFAl9uvhDqfMXZeBf6LFS6XECXb+qD4iCWv3QS+d6IvikPT9cdd9/La0r2VuqGP91RK8Ky//paXyHMGBOf2ZRUyHwwqs/9Q01WmhTuFJ3Yx/fPps31cyowSsGv9nO5/GUVDzni0VrCukPZvPSkIxNh//2liwCBSO78SXNpkiC+PMqqSOYaDxHYqZX5EYhPKSBsKKe5tqEEc9wgHlk1+aJrOtMhCZDRXQc3wuMV47iwK7d4/HqWf/e6G/fMhwtU9EVPEzEnk+jEIyO3M=;NY4kT48zz/ayfQkXdn/HdA=="
+secured: "QDYg/6BSAWUwq/7f1gTEeqfBdLCBEEozLYIYJP+kBy9sUEIcMwoqrT7aKshQwgcnuwMWzWKvMXrJu39Hsu1tgAlfeV12vQtc1mrJU6lGXTdFNMQTu9aLDxkNd363HFRmm0q6LYocI4T0YN5I5zs9j85ii2buhP1fdZwcONawQFR5IrJTv4Ornsei8QkySAjWiFuCCWAEx2+o/DMZNmIqX4jfSmjDfFl4df79HESgHz9OvnCksw93PzlNyfFAoutpgO0B5h1kDctc2XyXZGbrbk4J6WCRKW00TFKkA+ybGVv6GiE4gfcal2j2hRwkpWtJTH7eHetWCRQriKuhGWeXk9Dwc/gV4osfY7sFBJ43KOkw9dR/j3k/uwSrib7cHLe+TfIVdhLfLERErh//me6dpUg3kAOoej9hVVWUEXLNNxQczDvcfIZ5resCv384mRb8hbOxuGrK5W5i3Y2R9NYjWn6Nx+m7w3BokbXSa5c2MIzqb0Z7kgX48JXB/BMpixq7KLcilEASQeDVwDy+bNTLAw==;cKAkaDDsOA0njAmijMNqNA=="
 ---
 

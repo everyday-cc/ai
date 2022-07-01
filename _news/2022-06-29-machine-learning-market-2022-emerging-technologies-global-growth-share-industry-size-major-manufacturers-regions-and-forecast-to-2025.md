@@ -51,6 +51,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Computer Vision System Market Size, Share, Research Report Recent Developments, Growth Strategies, Segment by Type, Region and Future Forecast 2026"
+    excerpt: "Computer Vision System Market Report provides a detailed of Competitive Landscape, Type, Application and Geographical Region. Computer Vision System Market also provides a Sales and CAGR value ..."
+    publishedDateTime: 2022-06-27T10:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-size-share-research-report-recent-developments-growth-strategies-segment-by-type-region-and-future-forecast-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/OPEC-OIL-AFP-1K-e1638460214268-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "5K2grQKXbMHKO4ix+VnrY5IW4fyQ2UaxdUfyPKtS+lzIKbG68hJ9+q0okyOuyTEjdiD7lZTc+a6n8GwxDwnz3Zo0mJCtK3LCUL1HfSzltZKfq+OcVbZQqp/i7Xp6zzRbZ9e+TzLHJVn8mCFP3cYwv6PXD1zs3HkmcJGzUIue+AX0dyUPil+yRgUh2ElP1OJpWNiH5L2XyYXt4dGSpsOepnnMLx4elU9KSAe+uE9xYfFTGyRdCW5oq8kkKvLuJkTWNjAFhytgcMAqitKfqhgNvecqoJaknoWTlfSu92oHeNo935b/WKzjnTVQ+VPNqHnGOQkDoEU5lxpIh2tDw2rS6jHXc8NtXAvtwsNdSxLnO44=;0xFJbNJpXqI+qKCdh9HicA=="
 ---

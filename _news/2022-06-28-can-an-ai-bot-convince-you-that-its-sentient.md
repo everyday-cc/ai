@@ -34,7 +34,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
         width: 2500
@@ -71,6 +71,20 @@ related:
       - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg"
         width: 750
         height: 393
+        isCached: true
+  - title: "It's alive! How belief in AI sentience is becoming a problem"
+    excerpt: "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient."
+    publishedDateTime: 2022-07-01T03:04:00Z
+    webUrl: "https://www.asiaone.com/digital/its-alive-how-belief-ai-sentience-becoming-problem"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jul2022/01072022_AI_reuters.jpg?itok=WBlTu_Gz"
+        width: 800
+        height: 567
         isCached: true
   - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
     excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"

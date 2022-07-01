@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-res
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
+  - title: "Computer Vision System Market Size, Share, Research Report Recent Developments, Growth Strategies, Segment by Type, Region and Future Forecast 2026"
+    excerpt: "Computer Vision System Market Report provides a detailed of Competitive Landscape, Type, Application and Geographical Region. Computer Vision System Market also provides a Sales and CAGR value ..."
+    publishedDateTime: 2022-06-27T10:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-size-share-research-report-recent-developments-growth-strategies-segment-by-type-region-and-future-forecast-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/OPEC-OIL-AFP-1K-e1638460214268-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "GT4/tYB+17E3KVeCcqutCMcPOFuYfAlSZOoVTZ8L89GS2eKRLOL5GENKXh0kgkgfzCnOZ/VQVKkH5VrAGjh1wn6rTQrnHMaz/qUB48TbNmlhrJbBk2YfSryf3Nks7P/EECYHZ9t47RZR/O3KmufVPkCpYsfSwMYvBaqzXAQp3iAkBh59e8dDDrIR2nlmdpR057Jd5vIVzVaYJKJv93VJSs2yLg45yntldp8mDELZaM7hNk/D+lkk7+JHR9YPbuwA6XWiqa0r5Y4kEy0kO9i7geNnXi3BAwTRHPDFILICetx0vaMeO6y5UYBU40MNm3DxcwMxXuBmRRa3Ar2BKAxBkCMVdvyXVYCBHHpSMjE/qvs=;Cek0HuQDEMGXdnGnuF5y+Q=="
 ---

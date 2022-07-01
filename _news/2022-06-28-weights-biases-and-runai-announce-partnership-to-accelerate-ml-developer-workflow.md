@@ -3,8 +3,8 @@ category: news
 title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
 excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
 publishedDateTime: 2022-06-27T18:08:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
 type: article
 quality: 49
 heat: -1
@@ -61,6 +61,6 @@ related:
       domain: enterprisetalk.com
     quality: 30
 
-secured: "enrAr+xad8s7unNxMk8kkvoz9FwtXGd//9xCGIlYmwFy1ryvxaWkP/drGc5ksRH4HViN3eVEIclbg8gzX2+kaL5IqvZYzLV1GpV605/W+UQ4dMWyOvwhfOtuhhsWY39ym9iVNPfcjuPxXv2Dr5M/qobZuBCC7DzTBRdmrpvn7Bioke5KfUq2BrH+/UQPFxW80ck3t0p6YzdVvYhnz/8cFS+sQTLkZCvhi2UT1ytWok/LPD1ofUmUDhwpvghawsey8SSHZJ1I+uuGaOKXdDcoGWaEXsJZUb1lJMP82UyboHhiD91QBuTt5EJXz1lP9CzS/onp5BG6HaQyNXvpYHSWqETK4L2ePnbSIcqgcpyDrv8=;amcoP2j6TVQ5ZQl1X04wWQ=="
+secured: "b68oswB1fAVW3u9BEXxLtG8R0FOEg0mJwSl5VQJdh82EqFKnIj9wjFEBnvfd8zANpqK71ml0m3fj9oJBZTsWUQa4cv729mEmqroj8dG87Xp+txtY4VucNYP3xxJUYOgOz4eRvQ0aFqN8RWl97UykjpC+KAbcTrwgE9IZtFyn7BJxZh1U8AT6VGcGy1+e90gmtHse8WEu3a5RiU+bEP6QifMCigNNblRTnpwJehTKqepuc5TfnNiBqWSutrDuxARmgTVsUAZLF7OZ0TOEeF3WWs2p2j0/a+/UJ4X2GUIyfyWCf/a2rnblqF8HbpcLfImvzvwr5ooRi+cBTC3Kf37UKkEQShAff8k7TmvjgWF4wXU=;Yj4z3sD6AhXKbOCnxA0iIQ=="
 ---
 
