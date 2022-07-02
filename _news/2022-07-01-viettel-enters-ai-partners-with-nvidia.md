@@ -26,31 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia partners with Run:ai and Weights & Biases for MLops Stack"
-    excerpt: "In a bid to help make machine learning workflow lifecycles easier for data scientists, AI compute orchestration vendor Run:ai and MLops platform vendor Weights & Biases (W&B), are partnering with Nvidia."
-    publishedDateTime: 2022-06-27T20:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/"
-    ampWebUrl: "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/"
+  - title: "Viettel Enters AI Collaboration with NVIDIA"
+    excerpt: "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions."
+    publishedDateTime: 2022-07-01T03:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
+      - url: "https://mma.prnewswire.com/media/1851865/Image_1.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Weights & Biases and Run:ai Make Business Alliance to Enhance ML Developer Workflow"
-    excerpt: "Weights & Biases (W&B), and Run:ai, the leader in compute orchestration for AI workloads, have announced a joint partnership."
-    publishedDateTime: 2022-06-28T09:53:00Z
-    webUrl: "https://enterprisetalk.com/news/weights-biases-and-runai-make-business-alliance-to-enhance-ml-developer-workflow/"
+  - title: "Inspur Information AI Servers with NVIDIA A100 Tensor"
+    excerpt: "MLPerf is the world's most influential benchmark for AI performance. It is managed by MLCommons, with members from more than 50 global leading AI companies and top academic institutions, including Inspur Information,"
+    publishedDateTime: 2022-07-01T14:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inspur-information-ai-servers-with-nvidia-a100-tensor-/2022/07/01/9632556.htm"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 30
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "7/pqDGlvvPuILgWmZYCDqfLX7BResLkKCSA7vvmt52DOUsWBfYfbtM7Bp+82uwCMUF25glbUQdHMTbUA8ks9WMwu48UyPypj1SVdhMc1Y1JQkUVnWt+QdHqEiGnjPav8+Oqr8W7gMd8TQqDhf+L1xzaMJCrqYzbVGOUF8580eFVtEIi2mP9QQvQiFrzUh2uUkkYYuZh2oj2hlSwGu1LCuafGA/4DIx11H9oXipcT65j2ciS8KDeJ8HhFUyN00uZUtRwx/dyH1/55TC9gN0EkG+1tUU8BYebQYRtiXEN8kJ6G9DT1Ju4318jGEtMc62m2Gd8IRKs20CP3AQYhaFcswGmKrGeZ+F/3axwy86WyZi4=;dNuOlrMtucuVoeaMczdEYw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/facial-recognition-biometric-surveillance-congre
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
-    publishedDateTime: 2022-06-27T19:29:00Z
-    webUrl: "https://www.dailyexcelsior.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 16
 
 secured: "7yJ/2/FTmCfE1wY2aEQo/ogQ5eDbhqQ//YqHRKS3chDkI228cCD0zpQZ0ZrQ1In9RdpMsS/cDsTR57/eVNFFkHcXkgHy1qkR4Qd6YyCMjKlTYXLKLd1bGMELiY/CcQt9VCsqMrOKxoJkDLq6TnVU2dUymEJg+11MEC3xCbhT1wJcJXYHWWK7veMhCsA9URG+yuov1jTYc7GC0jkJMVnSZOshfkjTD70HYTKiFs+5pdiQsqKyuTi5hWNpYZq72FbsNSIoCAfPoH2TdJrszVhyWrrLqOZHcVUxdoZO0/I4mrdOL5L6/oJT0c4bdp5FQLGrl0St9qpaqZVrjJNbDW2/IAiC4nIbJwtj+ziQyCVUJoZhTuFeCEJXnDaztO/+PA2MSRsgjPE5OcqUaPSk7N3JriDsFz31wWNU++f0MZKBUsQpMQm9z7d0DsUf7fyS0sT9bx2Z88MwMDUbe8mxiKvoa6KrEIhHJMbQrKeddZ7Y113k9ly4wAe/PB2+03T3bt5hYbRTpJ2G7TPHtNBHYBya1g==;onr5HTLjDD/kNPV4wLy0KA=="
 ---

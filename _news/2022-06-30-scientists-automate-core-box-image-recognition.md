@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-30T16:06:00Z
 originalUrl: "https://techxplore.com/news/2022-06-scientists-automate-core-image-recognition.html"
 webUrl: "https://techxplore.com/news/2022-06-scientists-automate-core-image-recognition.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: techxplore

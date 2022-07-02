@@ -30,6 +30,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 66
+  - title: "Virginia lifts ban on police facial recognition technology"
+    excerpt: "The new law allows police to use the technology in certain circumstances, including to help identify an individual when they have reasonable suspicion that the person committed a crime."
+    publishedDateTime: 2022-06-30T15:29:00Z
+    webUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022"
+    ampWebUrl: "https://www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
+    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/local-news/virginia-lifts-ban-on-police-facial-recognition-technology-june-30-2022?_amp=true"
+    type: article
+    provider:
+      name: WTVR
+      domain: wtvr.com
+    quality: 59
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/484/ab537de11df9456cb23cbc1d7e732de9/484559d726fb4bf0a2e672ddacb2c07f/poster_4bd9a0b83c914d0cbfab1db5c30d361a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Marijuana, facial recognition, other laws now in effect in Virginia"
     excerpt: "Most of the legislation passed earlier this year by the divided Virginia General Assembly and signed into law by Republican Gov. Glenn Youngkin will take effect Friday. That includes measures that lifted a sweeping ban on facial recognition technology,"
     publishedDateTime: 2022-07-01T12:36:00Z

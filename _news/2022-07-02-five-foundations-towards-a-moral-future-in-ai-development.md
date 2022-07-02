@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-02T11:47:00Z
 originalUrl: "https://bestgamingpro.com/five-foundations-towards-a-moral-future-in-ai-development/"
 webUrl: "https://bestgamingpro.com/five-foundations-towards-a-moral-future-in-ai-development/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Building-responsible-AI-5-pillars-for-an-ethical-future.png"

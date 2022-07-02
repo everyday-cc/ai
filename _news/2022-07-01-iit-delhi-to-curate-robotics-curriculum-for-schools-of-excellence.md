@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 34
+  - title: "DBSE ropes in IIT Delhi experts for robotics, automation curriculum of SoSEs"
+    excerpt: "The Delhi Board of School Education (DBSE) has roped in experts from the Indian Institute of Technology (IIT) Delhi to design the robotics and automation curriculum for the Delhi government’s Schools of Specialised Excellence (SoSE)."
+    publishedDateTime: 2022-07-02T13:12:00Z
+    webUrl: "https://www.indiatoday.in/education-today/news/story/dbse-ropes-in-iit-delhi-experts-for-robotics-automation-curriculum-of-soses-1969479-2022-07-02"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 31
   - title: "IIT Delhi experts roped in for robotics, automation curriculum for schools of specialised excellence"
     excerpt: "IIT Delhi experts have been roped in for their expertise. The IIT Delhi experts will be helping students in designing robitics and automation curriculum for the School of Specialised Excellence which is in the city of elhi."
     publishedDateTime: 2022-06-30T12:46:00Z

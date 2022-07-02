@@ -33,6 +33,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Viettel Enters AI Partners with NVIDIA"
+    excerpt: "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam"
+    publishedDateTime: 2022-07-01T09:43:00Z
+    webUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/"
+    ampWebUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "nOThC3lfJWMXStxUuUcYDjLq71d21nG4fGgzOMDYAWYyC6ugCE1qSfqIyPU+XUvUJnow94qmVEw3HKcpmI/bwEi7Oq9UDrwhC0IGRV1M9Ks+FwMFPoLwxwWMGbleQ8FIfcA6o4PuKhEK5ZbtTPKjZkogP5QEvR96Vn+o+4ZqK2SpDqTOUX7Ac2Y90wLA8a6sVteMB6o6IcNTdjqAQuTo+Xl6Q3VIg4clrr3tLmtLuF13NJ2XPhEWuQKHG57Dw4NGzLj2ZP6wV9CKpugra2AqmlgToOH8vqPa5U1+A56v3i35rbLZxnLWZXCqywvnDdQjxgXT+bRn+XHYecfcBP00JPev9yASpEqF16pZ2BKrJq9DMwlmxTDE/+fAb0+WV7UOE9hWXbjueLH04Bq66rRNKITXO/QO6c+SixWg/PCAhhQVxh84RmPwQd2w843kGrmDQpMLD4zmQ3oYE7SdGW/2GuSg9F2CAe2rQVbn3uoHm5e4gtXyyqsuKp0GskboQbSig8STo60YEQYgpA7+eeJYsw==;v+1cwJp6CRyeUjGWFmrglA=="
 ---

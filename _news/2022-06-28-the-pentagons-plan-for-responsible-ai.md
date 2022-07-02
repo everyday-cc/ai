@@ -7,7 +7,7 @@ originalUrl: "https://defensesystems.com/ai-analytics/2022/06/pentagons-plan-res
 webUrl: "https://defensesystems.com/ai-analytics/2022/06/pentagons-plan-responsible-ai/368687/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Building responsible AI: 5 pillars for an ethical future"
-    excerpt: "Humans are building AI, so they bring their own ethics into the design, oftentimes for the worse. Responsible AI can help mitigate this bias."
-    publishedDateTime: 2022-06-27T21:39:00Z
-    webUrl: "https://venturebeat.com/2022/07/01/building-responsible-ai-5-pillars-for-an-ethical-future/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
 
 secured: "bP6Z1LiUFy59MJzjInEIQvClHstxdHatUwBSYidh5YcrCS+Fnf1wm6el9YkYX2j2/3duS0TS2TsDLbblFq747FmCcNzvcEgt6VGZan69Q9TLwag0VUfhgXr0abXVi20KP8k+qYA70UJyck0tWk+Vp2WTtbcjHRq5HG+VhqusMIbMGdrwfFA3bgcFizjf1dIpJgSA5PaBI4C+8/eXYO88Yvfz2RQw0nTdJozs9VOi1KuqCIfV2h6HPedSmnsPUamIpbzk5goSAFGSozmhFEpchCl+73c5nzkpFNOJpJ3v5oIT8R/imP0Zle+vpx9qgNza2xfnQvdXNMLu3zwNEsijnuM9Lz3xI2b8YJ/ZgxpIQQytxF4kwWLiSQIHxtgZvC8rYcii7THD9x5hKMHzQawf3mzopV+/7YSreFRQIoB6mKH907167YdHAb+2AFVurOVebFPaxCMoNW4FOTTByVuM+ThBffxndov9lizigo2gFXMKLbdecmCc/f96R2YBoMGWZ++3DSM4bRu6JF5ToZhzAQ==;InhmFMCBbxA5pT6J00N5hA=="
 ---

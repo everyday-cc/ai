@@ -73,6 +73,15 @@ related:
         width: 823
         height: 386
         isCached: true
+  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
+    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
+    publishedDateTime: 2022-07-01T00:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Cybersecurity pioneers share their views on how organisations can protect against future large-scale ransomware attacks"
     excerpt: "Ahead of the five-year anniversary of NotPetya (June 27th), cybersecurity leaders from Gigamon, DigitalXRAID and CYFOR Secure have weighed in on what has changed, and how organisations can"
     publishedDateTime: 2022-06-28T12:26:00Z

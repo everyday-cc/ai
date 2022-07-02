@@ -61,15 +61,6 @@ related:
         width: 640
         height: 356
         isCached: true
-  - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
-    excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."
-    publishedDateTime: 2022-06-27T19:38:00Z
-    webUrl: "https://www.wwaytv3.com/instagram-is-testing-artificial-intelligence-that-verifies-your-age-with-a-selfie-scan/"
-    type: article
-    provider:
-      name: WWAY TV
-      domain: wwaytv3.com
-    quality: 11
 
 secured: "sLDANMzG3Ckpz2A6IvfxbZc8BWpHyO79zzTWc63TvxbwUpq4HI/R2Pd0IuZY1hw/MQuA5s2qmkbSSwzNP7Bp4hzWRxb31udb91/pklxAdAwB50FagRIpshqk0utKneZi1sXlvW+lvLP/weEwoZTlPYPbZ1jIxV6JVbVYMT7zUJ81DOawrXaEVBS46zlI27TXZF/yQwrzrdv90v83CqlJsEWDCHCJi0Uyz6QKuTgonKv8cItgOz7fTr/tTk+BxfsQlxpzSb60u93yb+huX73mS2YztkXIZLOV/6RS+nroREH10GgHtc8PdlOGWVvGO9UWSe3w1DBTscry60Uu2u2xx7qOqWPcAQtYmZKO4lM78nK9anI7InmUSDANvsNJbx8eiS6spokL4qr8XygOtonxAYODXNV+Is8jV2G6gRXwmjIita9f+vE152yFvwDwQ6xLZDdF/cpzk8mwruZS1X8yNTU8RoRO4uuZ6RDSJ5ecJiaxkC8K6m7mRYA8HUV74N8vmMJdUQjvOYOCuv3VL/8/9g==;LDsebtTewnAJLLG/kezxyQ=="
 ---

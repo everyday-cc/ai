@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sturdya
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sturdyai-raises-3-1-million-to-strengthen-its-ai-led-customer-intelligence-and-automation-platform/article_6e3db0f9-cf7e-5d26-b586-918698b4a58e.html"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Squared raises $6M in funding for its AI integration platform"
-    excerpt: "Artificial intelligence startup AI Squared Inc. today announced that it has raised a $6 million seed funding round led by NEA, with participation from Ridgeline Partners. Enterprises are adopting AI in their business operations to automate manual tasks and increase operational efficiency."
-    publishedDateTime: 2022-06-27T19:36:00Z
-    webUrl: "https://siliconangle.com/2022/06/27/ai-squared-raises-6m-funding-ai-integration-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/Photo.png"
-        width: 1390
-        height: 800
-        isCached: true
   - title: "AI Squared raises USD 6M in funding for its AI integration platform"
     excerpt: "AI Squared Inc., an AI startup, has announced that it has raiused a USD 6 million seed funding round from NEA and Ridgeline Partners."
     publishedDateTime: 2022-06-28T12:30:00Z
@@ -47,6 +33,15 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 17
+  - title: "Ambient.ai Integrates with Brivo to Address Workplace Violence by Automating Threat Detection in Access Control"
+    excerpt: "Open platform integration with Brivo Access enables automated threat validation, using computer vision intelligence to reduce PACs alarm volume by over 80% so security teams can focus on incident response."
+    publishedDateTime: 2022-06-28T19:50:00Z
+    webUrl: "https://www.officer.com/command-hq/technology/security-surveillance/access-control/press-release/21272599/ambientai-ambientai-integrates-with-brivo-to-address-workplace-violence-by-automating-threat-detection-in-access-control"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 0
 
 secured: "2ZdLHSbai4JYLXLABUlARzpglg1mJb9KVMvqZDfw45AXqzTtvs0V59E3gXT5h3ec36CUC2oxBSOu/TWjc/hAwCiMcLULASTPGdHIbui0AgZH1adnbYoKXlXxdygjrBHpLQ6rGroqitEZr9arPmQMJ5nG8eTGRZwHSLPQUtYTkvBs2x2bmuwUEXZbo9RmWzoYk/UsHW8xRAZa7JsvYt31TbbLZu58qor40bmH92SbVpXm7CLYEKoF9nfTd0JeTMGSuqJC9z6cbLHxts1F1cW0lfvy01AhcFv1LnJUsazeh5aT2gq5lzykfOd5yVWkdqVu0r4Hd+5PJ0frvs0lbvApTgyEZ9CMuRYwrwalskJZxRE=;dz8IIH5Pi0SUGWqbxcBKVA=="
 ---

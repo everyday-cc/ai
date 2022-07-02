@@ -74,6 +74,15 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 34
+  - title: "DBSE ropes in IIT Delhi experts for robotics, automation curriculum of SoSEs"
+    excerpt: "The Delhi Board of School Education (DBSE) has roped in experts from the Indian Institute of Technology (IIT) Delhi to design the robotics and automation curriculum for the Delhi government’s Schools of Specialised Excellence (SoSE)."
+    publishedDateTime: 2022-07-02T13:12:00Z
+    webUrl: "https://www.indiatoday.in/education-today/news/story/dbse-ropes-in-iit-delhi-experts-for-robotics-automation-curriculum-of-soses-1969479-2022-07-02"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 31
 
 secured: "U/gdx9vxlZjFaxUa6i4VpOjkSIWmC7UDzYRr6tvTZsOqnDw3w8uolIinAQXymKzEMucMvPtv7EcvXOxnQ1EmCqAaxPWJiwyuX7Ley9KrIccC1R4ECtU0Y1F+P6pRi3L2xPpSzYEWHKdXfrPP9H++OHwkWQ9tNcG8KWiSY1xqcLWSjetKFJ8b0CBgGVxWNfe12ZCVn9y1p0Zca1MtPPGGx2gXWsSxa8/QW1ktnE9kYqI7kH/DwPN3wmEmVIdXzDaYzuVqOPmeQm+arju8IVsr+bjZAyofotZCwSaPaecIz+rg2F6/ijQiSX/i5/2kE6b7HlyHuplolCEAY90PreQfvzRN9GjNHOZvhQf0UG9oRgAitrNe/zs3bWIVYqHsG8J0+ySyfsQV2/LKqYfqRIsMTWQRgaeekXcCUorTwrCWCECnLOqsQ+BGqMZyxyliWO290GCfjLX1OKiBRJUQbIvEONnFAM/JZdCTkDk+pdHH/+JKmMIOHooLK0YcHueD+KWd4LPmWv+ttDQRkhPiPqYxRA==;SLTHeayvOpfYRbW+KPaFEQ=="
 ---

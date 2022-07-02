@@ -62,6 +62,15 @@ related:
         width: 823
         height: 386
         isCached: true
+  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
+    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
+    publishedDateTime: 2022-07-01T00:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Revealed: The drinks companies leading the way on cybersecurity"
     excerpt: "Nestlé and Lotte Chilsung are among the drinks manufacturers so far best set up in the area of cybersecurity, according to data and analytics group GlobalData. According to analysis set out by GlobalData,"
     publishedDateTime: 2022-06-30T16:34:00Z

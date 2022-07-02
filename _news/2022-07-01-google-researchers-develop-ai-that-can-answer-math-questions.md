@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/06/30/google-researchers-develop-ai-
 webUrl: "https://siliconangle.com/2022/06/30/google-researchers-develop-ai-can-answer-math-questions/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 718
     height: 395
     isCached: true
-
-related:
-  - title: "AWS, Azure, Google Cloud top cloud AI developer market"
-    excerpt: "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping US$135 billion by 2025,"
-    publishedDateTime: 2022-06-27T20:24:00Z
-    webUrl: "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 77
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220628072254_0_0_0_0_70__Features_20211207121924_cloud_1.jpg"
-        width: 1183
-        height: 887
-        isCached: true
 
 secured: "gG/ZIiak80LVqy/9V+poYP28CCGpDOZDfmsJ0RS9yz39FngL7pslBb7VBFbIeQq/OI+oiy7LiVPkLBBcVgnZHfnk4yQcAKpkFMXouFLMG1N6yQmpsvRR/OaqKszOVHFYyt2DP3anLLtXjhj+2Gz5vIFnxePkGfQNycrvPW5OEmW348x3E5YHQKHua5aBnBAhptRdRc8NyW+2DtJO1mLvOn6cAi1KTlx54fiX6/OtOjkPIUrdGsKc8F9c5Rc42ihqMLacI2jDQYFDxbRAcaa0/hLAgXXBNoHAMA79HzA8qS0E2WFOEX4DT3R66HdYsmdeUmQ6kkSntNd79IW0S+I67FNgHUBjhyB7g8kO2TfKaQMRnJ5MNm26+XWixBFQH+xQpOb1IzxOXA8Kiz7dj9uVAPB69zdyV0kIkkBNjKaiG01DlFIkx6naxY25xgMKIH3a2CmOsRnrpc7ry9/HDk2vzukQ+IPO6Xy71/u7BNnmLFCP8qWGbLranP5OOnPAd2TNks2N+eA6eiBv/4eRfMgkDA==;EAwFaM7JuW21Ddt4hS9oUw=="
 ---

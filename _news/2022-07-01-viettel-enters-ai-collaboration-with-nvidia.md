@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-
 webUrl: "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Viettel Enters AI Partners with NVIDIA"
+    excerpt: "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam"
+    publishedDateTime: 2022-07-01T09:43:00Z
+    webUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/"
+    ampWebUrl: "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Inspur Information AI Servers with NVIDIA A100 Tensor"
     excerpt: "MLPerf is the world's most influential benchmark for AI performance. It is managed by MLCommons, with members from more than 50 global leading AI companies and top academic institutions, including Inspur Information,"
     publishedDateTime: 2022-07-01T14:36:00Z

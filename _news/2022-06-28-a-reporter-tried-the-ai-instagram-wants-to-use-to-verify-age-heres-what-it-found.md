@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Instagram is testing artificial intelligence that verifies your age with a selfie scan"
-    excerpt: "(CNN) — Instagram is testing new ways to verify its youngest users’ ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is. Meta-owned Instagram said in a blog post on Thursday that AI is one of three ..."
-    publishedDateTime: 2022-06-27T19:38:00Z
-    webUrl: "https://www.wwaytv3.com/instagram-is-testing-artificial-intelligence-that-verifies-your-age-with-a-selfie-scan/"
-    type: article
-    provider:
-      name: WWAY TV
-      domain: wwaytv3.com
-    quality: 11
 
 secured: "vRvGqzATrQdPsx97IWnboePKi5DygVdxjdL751oETT1QoqoAF2pFH1Z7LeEvk9P6XQuUmaHsFfpdKZeMS6WTklMa7tIK1Lk/Sgxb7p2ZVzSb5CQZh3DJDB8dHagrg0bAb3B+ZTcn7DVY1PgNDC/nudCzn7hrWmkMY2V5DeBwRsr8A0OpBWfy20q+I7/cNdhQV0tkCs0qA+Mn9zOoloFg2gQvdJ4l9x1qiv8XZEu2VAE+XEc+yrCS8cq+ZyiMAlnpO5CCvagEPQPYsTqkMSOjJsafc9TJxe3cg72CX+fXHKZhXq44U18rhdOYxwyngWhPuKxRoSjdRylQSUouYkupZi3cohdrXcNUplZ5rEYsxJc=;tJnu2b/ADfcQ1wIn+TANZw=="
 ---

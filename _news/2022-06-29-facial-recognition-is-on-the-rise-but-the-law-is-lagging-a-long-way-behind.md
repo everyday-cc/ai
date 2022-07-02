@@ -61,15 +61,6 @@ related:
       name: Nine News Australia
       domain: 9news.com.au
     quality: 39
-  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
-    excerpt: "Private companies and public authorities are quietly using facial recognition systems around Australia. Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use."
-    publishedDateTime: 2022-06-27T19:29:00Z
-    webUrl: "https://www.dailyexcelsior.com/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 16
 
 secured: "FX+G73FTFkk2A2w6DZ6rRvfaqN32j5bhR22aHOZ/ea2m8OGNEq3Og4iytaLUtAcwJk83fR0yowTJQCOUlWht8RMKj3CN6XOYYwgOXDQPSRsCIft0xl5a5/tD5nTSx6NhE7WL4EwzmfJpkaCMq2rVV226MKHBQ+PdKuH+0GPIqOnx6tWNgVoQUVczvJLbzn2q1tuNBaJN1YIP7f7WwJmERENCgmwPtKvnXg7KCk2C5kntFr7Tow+FTj6w4VjfyLIt5r4QtsGlth4kZBTDhb5TlszYab3VpLrKsNA9kNvcCFF9Ehxu0egwz0YLU50vut6MD28xNL4sti30HHvXpckZszmjjzcgfgaQueNFnCkg2lQN9tkQE2TmPj8aDgHt3FcEYhSdeHhh5GNzf+v8kBEC3xsJwWYE2U+r8QnZzJhkCIjJqYtm0WDXoFnBdVqZyzxJRs/mftJ/TLatXPJ/GgegithPQnh2pNq6APnzGqBZO0P52xjXzHfaaRxOhjkdpsDQhmz3tf3uyfCraNj9edzV/A==;rYBp/AvTLSbGZ3AdWnTBCQ=="
 ---

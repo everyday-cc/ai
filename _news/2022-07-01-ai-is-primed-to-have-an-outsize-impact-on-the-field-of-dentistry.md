@@ -46,7 +46,7 @@ related:
     provider:
       name: Bestgamingpro
       domain: bestgamingpro.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/Building-responsible-AI-5-pillars-for-an-ethical-future.png"
         width: 600

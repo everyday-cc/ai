@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-02T12:49:00Z
 originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=975031"
 webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=975031"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Daijiworld

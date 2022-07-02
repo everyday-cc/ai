@@ -29,44 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is removing emotion recognition features from its facial recognition tech"
-    excerpt: "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state."
-    publishedDateTime: 2022-06-27T19:12:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna35087"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087"
+  - title: "Microsoft-Backed AI Learns How To Play Minecraft By Watching Online Videos"
+    excerpt: "AI capable of rapidly learning and interacting with interfaces humans usually use is taking over the world. Luckily for us, this particular world is virtual."
+    publishedDateTime: 2022-06-29T02:35:00Z
+    webUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 102
+      name: SlashGear
+      domain: slashgear.com
+    quality: 82
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
-    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
-    publishedDateTime: 2022-07-01T00:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
-    excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft Rising Azure Technology Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2022-06-29T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-328e0559108d4e62b1a3654b7a7a514f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.slashgear.com/img/gallery/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/l-intro-1656465937.jpg"
+        width: 1600
+        height: 899
         isCached: true
   - title: "Microsoft retires AI facial analysis tool"
     excerpt: "Keen to be on the right side of history, Microsoft has updated its guidelines for treating AI carefully and will retire a range of AI features from its Azure Face service that’s used with things like ID checks,"
@@ -82,57 +57,15 @@ related:
         width: 821
         height: 462
         isCached: true
-  - title: "Visionify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
+  - title: "Visonify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
     excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
-    publishedDateTime: 2022-07-01T15:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-visionifyai-strongarms-its-ai-engineers-with-microsoft-azure-/2022/07/01/9632599.htm"
+    publishedDateTime: 2022-06-30T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-visonifyai-strongarms-its-ai-engineers-with-microsoft-azure-/2022/06/30/9631823.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 43
-  - title: "Scrap police use of facial recognition"
-    excerpt: "A LEADING QC has called for urgent legislation and regulation of biometric technologies including facial recognition following a review which produced a number of recommendations for the government. A review led by Matthew Ryder QC, commissioned by the Ada ..."
-    publishedDateTime: 2022-06-29T16:29:00Z
-    webUrl: "https://www.voice-online.co.uk/news/uk-news/2022/06/29/scrap-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 41
-    images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2022/06/rsz_gettyimages-849090846.jpg"
-        width: 1000
-        height: 699
-        isCached: true
-  - title: "‘UK government illegally utilizes facial recognition’"
-    excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
-    publishedDateTime: 2022-06-30T14:42:00Z
-    webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "The Good Guys pauses facial recognition trial"
-    excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
-    publishedDateTime: 2022-06-28T20:38:00Z
-    webUrl: "https://www.itnews.com.au/news/the-good-guys-pauses-facial-recognition-trial-581959"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
-        width: 1138
-        height: 774
-        isCached: true
 
 secured: "7kAGdrL4qXKbAX/mjuAyyWjgYCSaiN+ScXAMRTVEWLxG18vfc9D5r5JCUg70g0Aq86NvDnp4YOWOUmkCYLGmAibjP1U+5CUF2v5YpCsfWL9i6cLZ8gnWN9AiBDSwb7eDtQAzgQ9SdZoVBOH0xJJMR6RE4Y3UeAXqDrYNmferZSVARckuwQ3gDk0Vy9XABTrLuTlgpzVq3g6pJTVPAMOvq4tJ1RLLutkflYBzh0V3WNbhOTK+XYBaOBjfTmKp5JQfFMrm+uSk6ipjQA1zpAjXC4WKPSaHOivMV/rRqC83QNBH+WgqODqv3SPnRbINEMYwXcZ7nFwF7K969a+UqL8Ujz0T3kd9r5bO7M45WNdDUCrtaJW/kPjt9WZk9Jo9xwxkDpSzAdf24lzdewylrfy2/+psLa0RSFTrIMXwxYwD0exSjaXuduaAdnEA78LAgujQqCFi6mMqZnGCLihJGj7uw4Jo41Da9BsLv15A9H+q7cenT/Sm7K8bCeTB2rPRJ9tbGmgSYxhqvvz/t7p+vSvZxQ==;8lqnhUgn+aaDYEGJ8JV+3g=="
 ---

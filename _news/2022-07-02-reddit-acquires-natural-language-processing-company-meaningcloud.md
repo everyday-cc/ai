@@ -32,21 +32,14 @@ images:
 
 related:
   - title: "Reddit buys natural language processing company MeaningCloud"
-    excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately p.."
-    publishedDateTime: 2022-07-02T11:21:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/reddit-buys-natural-language-processing-company-meaningcloud/92616369"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/reddit-buys-natural-language-processing-company-meaningcloud/92616369"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/reddit-buys-natural-language-processing-company-meaningcloud/92616369"
+    excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors."
+    publishedDateTime: 2022-07-02T07:18:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92616369,imgsize-23830,width-1200,height-628,overlay-etcio/reddit-buys-natural-language-processing-company-meaningcloud.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+    quality: 19
 
 secured: "CvtRiLPs0UyeM0DUnKr6IAIj8uROzRPqY5koODVSrxYMMzppo9BndRdNH+YFNEb783NlTmrusTuiC8DH9V3doClqM/4LM8z+Ci2kpsqyd4D7odGyM74bWhs2Km9BZmtrY9grkYuE0qAW24ewv/LuODse88cE1xccpwc+7Xqxl1Oj+W0eFODECkrOrjJ1/aTJufxiqGo8LSF8D1z9dHqiWVMc+dVATu8bVuxXf2+EzT123Ri+Roz2d2mEplPGCOl0I068f5BVnEdVoajcPjJWhcPtG2mPNTV9YnDA8i787l8A2jZFZqGXJn6mhf7Wy0Rkt+1QwEFpQ1HeYLKRWe7814hbqm4fkDantIQ1LC+kL7HyUMYSoVm4vmnY0+qr4uInDlEtmGCs14AmK35iFV4rPXRpGTnBSe15X9DSHndQh4VHu/5d/cBz1uja+QArUQLLBWZnhIY0+AMGC9wYtoptPlZ0HJhR6NW73RTkVObwtF2+1h4V/rjkAcafXcFQVk5zcICQCjXQJ3XrrUwreIatyw==;H78bm7fv/38gJm2VopAy6w=="
 ---

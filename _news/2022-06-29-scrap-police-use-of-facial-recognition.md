@@ -26,84 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is removing emotion recognition features from its facial recognition tech"
-    excerpt: "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state."
-    publishedDateTime: 2022-06-27T19:12:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna35087"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087"
+  - title: "Smart Pet Door Uses Facial Recognition to Keep Critters Out"
+    excerpt: "Installing a pet door can make pet ownership less of a chore by eliminating the need to constantly have to let them outside for bathroom breaks and then back in again after, and the Petvation wants to make sure it’s only your dog or cat (or naked mole rat,"
+    publishedDateTime: 2022-06-27T23:10:00Z
+    webUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959"
+    ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 102
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Resecurity® Brings Cyber Threat Intelligence to Microsoft Azure"
-    excerpt: "Resecurity® SaaS cybersecurity platforms are now available to thousands of Microsoft Azure customers, enabling visibility and protection of"
-    publishedDateTime: 2022-07-01T00:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/resecurity-brings-cyber-threat-intelligence-to-microsoft-azure-1031561864"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
-    excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft Rising Azure Technology Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-    publishedDateTime: 2022-06-29T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-328e0559108d4e62b1a3654b7a7a514f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/a2c3710f56698b6fc0b31da2db224794.jpg"
+        width: 800
         height: 450
         isCached: true
-  - title: "Microsoft retires AI facial analysis tool"
-    excerpt: "Keen to be on the right side of history, Microsoft has updated its guidelines for treating AI carefully and will retire a range of AI features from its Azure Face service that’s used with things like ID checks,"
-    publishedDateTime: 2022-06-30T02:56:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/microsoft-retires-ai-facial-analysis-tool.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 54
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/microsoft%20azure.jpg"
-        width: 821
-        height: 462
-        isCached: true
-  - title: "Ads for Discredited Cancer Treatments Served on Meta Platforms Unchallenged; Microsoft Steps Away from Emotion Recognition AI"
-    excerpt: "In today's ExchangeWire news digest: ads for unproven cancer treatments are found to be rife in Meta's inventory; Microsoft announces it will remove emotion recognition features from its facial recognition tech;"
-    publishedDateTime: 2022-06-28T12:28:00Z
-    webUrl: "https://www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/06/28/ads-for-discredited-cancer-treatments-served-on-meta-platforms-unchallenged-microsoft-steps-away-from-emotion-recognition-ai/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 51
-    images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2022/06/shopping-cart-with-pill-foils-copy-space.jpg"
-        width: 1024
-        height: 551
-        isCached: true
-  - title: "Visionify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
-    excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
-    publishedDateTime: 2022-07-01T15:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-visionifyai-strongarms-its-ai-engineers-with-microsoft-azure-/2022/07/01/9632599.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 43
   - title: "‘UK government illegally utilizes facial recognition’"
     excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
     publishedDateTime: 2022-06-30T14:42:00Z
@@ -118,6 +56,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "New laws urgently needed to control facial recognition"
+    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
+    publishedDateTime: 2022-06-29T11:46:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
+    type: article
+    provider:
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
+    quality: 39
+    images:
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "The Good Guys pauses facial recognition trial"
     excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
     publishedDateTime: 2022-06-28T20:38:00Z
@@ -131,6 +83,34 @@ related:
       - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
         width: 1138
         height: 774
+        isCached: true
+  - title: "Bunnings doubles down on facial recognition"
+    excerpt: "Hardware store chain Bunnings has defended its use of facial recognition to monitor customers in-store following revelations in June from consumer group Choice that three major Australian retailers were capturing biometric data of customers without their express consent."
+    publishedDateTime: 2022-06-29T23:14:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/bunnings-doubles-down-on-facial-recognition.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20warehouse.jpg"
+        width: 766
+        height: 431
+        isCached: true
+  - title: "Facial recognition use increasing at US federal agencies faster than oversight, GAO reports"
+    excerpt: "The use of facial recognition has become increasingly common across the government, a new report from the U.S. Government Accountability Office suggests."
+    publishedDateTime: 2022-06-30T22:08:00Z
+    webUrl: "https://www.biometricupdate.com/202206/facial-recognition-use-increasing-at-us-federal-agencies-faster-than-oversight-gao-reports"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
         isCached: true
 
 secured: "CzQJaWmxSaKIMkQEq0n0wLqNKyXBq9cvMGXtg8ck58JYX7uz76R7gt3+gJ3r7uGlfb0ObEkz8TgT+9ZeLu3xR3kAIjx2Ro8D3kNm0KIuoGZauM2pWZBKXpdyanV1GvwTCVSveeOrt83/qE3ThqvXpLq7eXQ3XcRS6aCFmT/zVCFYEr5zzjwTXtCSRFT/ObxVFy9gRDvQaDYUqWCsn+jKB4zeJNOQFgWwNgrDT2kdsnde2CnjvzTS0FQ8Px7qjEAi+4H3fEeAvh9TxhkTn3Avd3trTsNugwcvFhwmYLliSCzoXaLxHOi0Nakq0u2hfR+iJXVM6rjmH19KjQluLGpqxT+hHXUQ8pHSGTOPmtEvCV1e2qeotNpYP8GcRrVkWJGS8xDSdXgAwiTRg63PYDgT6t2g4tdJNQLXXotOXVP3ECd5QSbp2tmL3swps0KPxXAeHEqdGelQ8bXGsuuP6jVU7x9T8pbxICSnWaBS894X2lJOibPcImEo3Z0hvVn4iX7xqUPmpAMP/PvGPTl+0DUthw==;RtR7+Huq6X9wnbBGaDp3LQ=="
