@@ -1,0 +1,76 @@
+---
+category: news
+title: "Scientists Designing AI Robots to Work in Earth's Most Extreme Places"
+excerpt: "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments."
+publishedDateTime: 2022-07-01T22:20:00Z
+originalUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195"
+webUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195"
+ampWebUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1"
+type: article
+quality: 104
+heat: 134
+published: true
+
+provider:
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://d.newsweek.com/en/full/2070395/cutting-edge-applications-artificial-intelligence-display.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Using AI to identify chick distress calls in large poultry farms"
+    excerpt: "A team of researchers from the City University of Hong Kong, working with several colleagues from the U.K., has modified an AI application for use in detecting chick distress calls in noisy environments."
+    publishedDateTime: 2022-06-29T12:50:00Z
+    webUrl: "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.html"
+    ampWebUrl: "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-chick-distress-large-poultry.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/poultry-farm.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "Flawed AI makes robots racist and sexist"
+    excerpt: "Researchers have shown that common AI training models like CLIP result in robots gravitating to men over women and white people over people of colour"
+    publishedDateTime: 2022-07-01T08:00:00Z
+    webUrl: "https://gadget.co.za/flawed-ai-makes-robots-racist-and-sexist/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2019/04/Ai-Artificial-Intelligence-Droid-Robot-Android-2228610.jpg?resize=960%2C600&#038;ssl=1"
+        width: 960
+        height: 600
+        isCached: true
+  - title: "Scientists issue horror warning flawed AI 'risk creating racist and sexist robots'"
+    excerpt: "A NEW study has warned that flawed Artificial Intelligence (AI) programmes today could risk creating robots that make racist and sexist decisions."
+    publishedDateTime: 2022-06-28T19:31:00Z
+    webUrl: "https://www.express.co.uk/news/science/1632504/artificial-intelligence-racist-sexist-robots-flawed-ai-scientists-horror-warning"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 11
+
+secured: "bZOQZ4+HIdYT93VPV3DJyTsgL7ae1OiTbi6INUZuZR4Lg7cqlYOo5s4vOVSLMRGXx+OfpzX16EXTrLfZa+W4kxlv1FJ9Ea4Dm0nWt1uRg/tei+iNRdt+/8Aew04JTtyE+J+0faMu++7k5PPkpTJajuIjAALwvJ3UySLZYoctRSmsmJATWonsicIS3KwBIKSjCis2lHH7j7fdwsZbcdCcfABGbxyCXkHO3Y+JKf/8DworDBEhmZlgIDW+pCiOzNpcLGRYaKjTxZBEmk8W/iPd88x+Pm/Xi7ANS9vCtDKT2/05TAtlZe5nW4mH2BdKpeml9bw1VSzD9jGy5BBGECkxpJ6MURqJSm+M0P2V8j6UizI=;u1Y0z/whqe+vAQk9XD/xVA=="
+---
+

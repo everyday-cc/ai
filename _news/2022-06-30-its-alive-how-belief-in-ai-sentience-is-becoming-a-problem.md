@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-beco
 ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
 type: article
-quality: 89
-heat: 139
+quality: 87
+heat: 137
 published: true
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: nbcnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -104,6 +103,6 @@ related:
         height: 419
         isCached: true
 
-secured: "S6LTyn67XXLqQlI3t8VZ5ni26w3Vz4s9UCJPh3hoLu3tqOyVtLP+qn2HAlGZ0lPQStQp4fBd4TM5p9gFCIHrrnISuoR31AK0G3fOkfO6yKQxxAHvQrOn/xqvbd7ubGunX6dvZqP9iT4cmYnOYrKF1QJ2kk7tinZK9KTB2a3NRvVM9xa4ACduNslDS0Ee9XVnhshjKbHKrcJ3VFGMutpOp2Wkv0MjRFGXdDGYUwJniFyj1iKj4cD4WnDQGIr0A0Hp+Be9Lghp6SEQqi26a0JXLryewFQU5HqZ/UjDizh4DqCqdDF8s4vaNdwCcqjkMpjsFjzyTg5lik41HykTk75jeA4sKBcrmiyZdz6ZtTW2GQE=;I/voUJusSekZdBYcXJQKYg=="
+secured: "85tGBShPuk7CCu+z2UtjIwwkvRaG1O9VcKvSYhBxWTqCMl63ArdUHMMXj+Vl56gpSRahddSneq9ziSZCDfzS8z4nvf6ZI/ScG/MxR42PEtmor+4Z9nRjAmYSQOxLAfs51fRtSUUiN5e8dAEwLQoBOMVBQsOQJ+/57OosJTc3s8W/IMqnuEP81xdpu14arjVct1KipDy7ULVHvgfJhdybjalsKmWutD35EKbFcyrz5D+jC7/Cxt12gSJbJqrpVbiJEF0/ip7fakiqCDaFsKWTO48k/3lfIaG3snm6T6WP5cCI7dNR3QMAspFtzvwIoR0rGgMAoRWozKKwc5cgfFZ36qskdKapKhmMc9Jri/seHlY=;1r//GKWSikKF6M98qct0tg=="
 ---
 

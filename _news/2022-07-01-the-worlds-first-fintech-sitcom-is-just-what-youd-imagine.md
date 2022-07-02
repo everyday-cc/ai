@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Are Fintech Companies Helping MSMEs Increase Customer Reach"
-    excerpt: "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ..."
-    publishedDateTime: 2022-06-27T05:51:00Z
-    webUrl: "https://www.entrepreneur.com/article/430266"
+  - title: "Adyen: FinTech Titan, Fairly Valued With A Huge Moat"
+    excerpt: "Adyen N.V. is a Dutch multinational payments company which serves leading companies such as; Facebook, Spotify, Microsoft, and more. Read more about ADYEY here."
+    publishedDateTime: 2022-06-27T15:55:00Z
+    webUrl: "https://seekingalpha.com/article/4520520-adyen-fintech-titan-fairly-valued-with-a-huge-moat"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1656308376-joshuva-daniel-U4OS-GimdXA-unsplash.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The future of fintech"
-    excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
-    publishedDateTime: 2022-06-27T08:14:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/the-future-of-fintech"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/015/iStock-978531552-kuflink.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.seekingalpha.com/uploads/2022/6/26/55230498-1656252847202421.png"
+        width: 640
+        height: 238
         isCached: true
   - title: "Top 29 Fintech Events To Attend in DACH in H2 2022"
     excerpt: "financial services and fintech professionals to discuss how integrated solutions are shaping the future of digital banking. Leading professionals from global brands will be in attendance to share their experiences and discuss trending topics such as AI, ML ..."
@@ -67,20 +53,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Fintech firm takes space at Liverpool’s Spine"
-    excerpt: "Having a fast-growing, leading UK Fintech brand located within the Sciontec AI space at The Spine will not only add to the dynamic ecosystem here, but it will be a driver for even greater job creation,"
-    publishedDateTime: 2022-06-28T07:10:00Z
-    webUrl: "https://www.placenorthwest.co.uk/fintech-firm-takes-space-at-liverpools-spine/"
-    type: article
-    provider:
-      name: Place North West
-      domain: placenorthwest.co.uk
-    quality: 24
-    images:
-      - url: "https://www.placenorthwest.co.uk/wp-content/uploads/The-Spine-LCC-p.Inform-Comms.jpeg"
-        width: 1024
-        height: 777
-        isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine"
     excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
     publishedDateTime: 2022-06-28T07:03:00Z
@@ -94,6 +66,34 @@ related:
       - url: "https://www.insidermedia.com/uploads/news/resized/Spine2-40876-1621522090-%281%29-65271-1653038839-67832-1656398370.jpg"
         width: 578
         height: 325
+        isCached: true
+  - title: "HP ‘Gets Ahead’ with fintech sitcom"
+    excerpt: "Hewlett Packard Enterprise (HPE) and NVIDIA, have released the first episode of their unique fintech comedy mini-series Get Ahead."
+    publishedDateTime: 2022-07-01T10:30:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40561/hp-gets-ahead-with-fintech-sitcom"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-07-01-114034.png"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
+    excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"
+    publishedDateTime: 2022-06-28T05:00:00Z
+    webUrl: "https://www.thebusinessdesk.com/northwest/news/2099738-fintech-provider-signs-sciontec-deal-at-the-spine-as-part-of-huge-jobs-drive"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 21
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/jun_22/The-Spine-workspace-e1656344065506.jpg"
+        width: 1116
+        height: 744
         isCached: true
 
 secured: "iEXPKrMnLTxFJ+S3yDOmAPyn4pObSL+5F5Y4HPraf9gH+Pi3vafGcSZbqOJFS8XlFKYtHnF0mC+Uf6RcstwfeHWUkOzatLTkzq8fvoW3ljeTspPoo2VWUmjL0tkDOOFKGKjKnM/Dvy5SvyYkrIj7wJw/2KGh9NE/4oYccmbW8KwL/aymDDfhO5vo5GkFmDatPSGJrkvbbr7pTA3+Tbib+lEk5uTNMMsQShzBQEJX15Ja4k+97/93VBnnqsy8MsdiYNkAd3za888K5h5+l8kSeR7bqmWvxIp2qsBKD3CPdy1RRRCbBFg1Pknfq8BJECMEj+iUGmkbd4gdISaL6OWK9Pxao48srDSFWJPvaQQHuPc=;s5QtbDfeObm2tVCKeB2mCw=="

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-AI-O: The first driverless robot tractor unveiled to farmers at show"
-    excerpt: "Capable of a multitude of farm tasks using normal farm implement attachments, the AgBot 5.115T2 is a 156hp dual tracked driverless tractor which is now available to buy from Angus-based precision ..."
-    publishedDateTime: 2022-06-27T05:20:00Z
-    webUrl: "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 71
-    images:
-      - url: "https://www.scotsman.com/webimg/b25lY21zOmExMDliNTViLTAzMzMtNDRhYi04MTQ2LTI0ZjVkMGI3YmQ1MzplZmMyNDY0Yi01N2JiLTQwOTMtYmNlOS0yZjFkYjlhYzlmYzQ=.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "China’s Baidu joins race to develop driverless cars"
     excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
     publishedDateTime: 2022-06-30T07:25:00Z
@@ -81,15 +67,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Tips for driving finance AI success"
-    excerpt: "Getting artificial intelligence (AI) right isn’t just about investing the most time or money. Gartner has outlined four implementation behaviours that are the most important in quickly delivering finance AI initiatives that meet or exceed the expected impact and deliver critical finance and business outcomes."
-    publishedDateTime: 2022-06-27T09:46:00Z
-    webUrl: "https://it-online.co.za/2022/06/27/tips-for-driving-finance-ai-success/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
 
 secured: "Zh97neAkdUNOoVxYD5gqcAclnATB//d7/O3VeXTdTp2cWU7DXVi4DPQXhgXIKz58zr4V9WUj1iTaLVLjOZQen8VvaXhE920ClFRAGgapejBeDa5yRIKrylu1qTVvAzNpPHvKChlQsY/8SRInNyvy5ehfTopHIEuSqj8feFOGrV8S/0tC4pW++H0QFCeea8dHvHZqiE+LisX2zV/UDre7+uEcjGTxcDlWbnMYW4tSgRvxo8dMLtAjd5HuY7xpKONk0nyYWF/Rs6fLEUwGcW1nkvOtRtd8Y3/pbvEwIx7kI4LR1zvsIUeVYv7ynkjjUM49KBfp7tZqB7h4eDjFic06Yq0YwS7lwcjcGuyuaH7uipHPlL7tT/cQ9wg2pmzaLcTCYMRCMde8G35kxEXHqjRAVLV7rqbdjqPTGfPm0QOgUcyIpLLql3FERZNa1HWOp2oBOyy7tLsJPBkJUXw50bpVFfT8m94eT26H1NH4gWcbNVcg0Lr/5Gx6IsVEHiBUA2hTrI84xPoa3Xh1M869yiRNwQ==;pZCZo6WeVncLDN0qOxqjjQ=="
 ---

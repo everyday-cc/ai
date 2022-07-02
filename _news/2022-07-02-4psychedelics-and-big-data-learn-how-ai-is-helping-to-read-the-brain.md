@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The role of AI in the modern newsroom"
-    excerpt: "Attitudes are changing towards the deployment of AI in news publishing, opening up a host of potential opportunities."
-    publishedDateTime: 2022-06-27T05:35:00Z
-    webUrl: "https://themediaonline.co.za/2022/06/the-role-of-ai-in-the-modern-newsroom/"
-    type: article
-    provider:
-      name: themediaonline.co.za
-      domain: themediaonline.co.za
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/themediaonline.co.za/wp-content/uploads/2022/06/AI-head.jpg?fit=800%2C533"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "ZTYNuFA95q0MqjcLujBj3+CV8MiwT5XAoJvw++4YcDQfBDbdZIFKJlKl9bbnSVvSB/xWiQnNU3z2qr0CAUAHD8vOWBii/WyyBr1kM77TbmKAvCgEkf1rnSi8tmgHQMR1+XcMqa+sDzCBsH2pC7EWiruAh+kb6L4FlT1h8wL8HhN6StSEyp8BLuWm/yEVQ72ya0xF3eixIvzvJJLSQbpGQnI6aZG2+drWfb6oFxiSlJwZxHiRmWJgUR6YdADX+9d0m4mHmG94FFxhi8gs5FwTurXIe2ZoR5a64K/ySwRbEmMebKZM6xEXLEF4O3gAKcwQN9bDgtw/oa37i/c/rG5mEmci4MKssMbsA5qbCLgHuik=;RoZFjhuKlpKWmhQBmrORCQ=="
 ---

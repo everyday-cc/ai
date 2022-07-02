@@ -43,22 +43,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Road is opening up to allow self-driving cars on UK roads"
-    excerpt: "MPs are investigating what needs to happen for self-driving cars to become a regular sight on Britain's roads. The Transport Select Committee announced it has launched an inquiry into their development and deployment, including safety issues and the ..."
-    publishedDateTime: 2022-06-28T14:10:00Z
-    webUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678"
-    ampWebUrl: "https://www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
-    cdnAmpWebUrl: "https://www-chroniclelive-co-uk.cdn.ampproject.org/c/s/www.chroniclelive.co.uk/news/uk-news/self-driving-cars-uk-law-24337678.amp"
-    type: article
-    provider:
-      name: Evening Chronicle
-      domain: chroniclelive.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.chroniclelive.co.uk/incoming/article24269154.ece/ALTERNATES/s615/1_Rail-and-Tube-strikes.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Safety of self-driving cars doubted – ‘Glitches could kill somebody!’"
     excerpt: "More info The Transport Select Committee launched an inquiry last month into the development and deployment of self-driving vehicles. They will investigate the safety of autonomous vehicles and consider their relationship with other road users including conventional vehicles,"
     publishedDateTime: 2022-07-01T14:27:00Z

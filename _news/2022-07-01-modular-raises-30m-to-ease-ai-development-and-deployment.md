@@ -26,13 +26,18 @@ images:
 related:
   - title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
     excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
-    publishedDateTime: 2022-06-30T19:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
+    publishedDateTime: 2022-06-30T19:02:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
+      name: Associated Press
+      domain: apnews.com
+    quality: 55
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Squared raises $6M to help companies integrate AI into existing applications"
     excerpt: "Integration platform AI Squared announced today the closing of a $6 million seed round led by NEA with participation from Ridgeline Partners. Launched in 2021, AI Squared helps companies adopt artificial intelligence by using a low-code platform to integrate it into existing applications in a timely and straightforward manner."
     publishedDateTime: 2022-06-27T13:57:00Z

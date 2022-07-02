@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Are Fintech Companies Helping MSMEs Increase Customer Reach"
-    excerpt: "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ..."
-    publishedDateTime: 2022-06-27T05:51:00Z
-    webUrl: "https://www.entrepreneur.com/article/430266"
+  - title: "Adyen: FinTech Titan, Fairly Valued With A Huge Moat"
+    excerpt: "Adyen N.V. is a Dutch multinational payments company which serves leading companies such as; Facebook, Spotify, Microsoft, and more. Read more about ADYEY here."
+    publishedDateTime: 2022-06-27T15:55:00Z
+    webUrl: "https://seekingalpha.com/article/4520520-adyen-fintech-titan-fairly-valued-with-a-huge-moat"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1656308376-joshuva-daniel-U4OS-GimdXA-unsplash.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The future of fintech"
-    excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
-    publishedDateTime: 2022-06-27T08:14:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/the-future-of-fintech"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/015/iStock-978531552-kuflink.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Fintech firm takes space at Liverpool’s Spine"
-    excerpt: "Having a fast-growing, leading UK Fintech brand located within the Sciontec AI space at The Spine will not only add to the dynamic ecosystem here, but it will be a driver for even greater job creation,"
-    publishedDateTime: 2022-06-28T07:10:00Z
-    webUrl: "https://www.placenorthwest.co.uk/fintech-firm-takes-space-at-liverpools-spine/"
-    type: article
-    provider:
-      name: Place North West
-      domain: placenorthwest.co.uk
-    quality: 24
-    images:
-      - url: "https://www.placenorthwest.co.uk/wp-content/uploads/The-Spine-LCC-p.Inform-Comms.jpeg"
-        width: 1024
-        height: 777
+      - url: "https://static.seekingalpha.com/uploads/2022/6/26/55230498-1656252847202421.png"
+        width: 640
+        height: 238
         isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine"
     excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
@@ -81,6 +53,20 @@ related:
         width: 578
         height: 325
         isCached: true
+  - title: "HP ‘Gets Ahead’ with fintech sitcom"
+    excerpt: "Hewlett Packard Enterprise (HPE) and NVIDIA, have released the first episode of their unique fintech comedy mini-series Get Ahead."
+    publishedDateTime: 2022-07-01T10:30:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40561/hp-gets-ahead-with-fintech-sitcom"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-07-01-114034.png"
+        width: 480
+        height: 270
+        isCached: true
   - title: "The world’s first fintech sitcom is just what you’d imagine"
     excerpt: "Where Netflix has Stranger Things, Disney+ has Obi-Wan and Apple TV+ Ted Lasso, HPE has Get Ahead, the “ world’s first fintech sitcom ”. Episode one is out, from which it’s fair to say that HPE probably shouldn’t expect the kind of rights offer secured by televisual wallpaper like Friends and The Big Bang Theory."
     publishedDateTime: 2022-07-01T15:00:00Z
@@ -94,6 +80,20 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
         width: 619
         height: 377
+        isCached: true
+  - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
+    excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"
+    publishedDateTime: 2022-06-28T05:00:00Z
+    webUrl: "https://www.thebusinessdesk.com/northwest/news/2099738-fintech-provider-signs-sciontec-deal-at-the-spine-as-part-of-huge-jobs-drive"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 21
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/jun_22/The-Spine-workspace-e1656344065506.jpg"
+        width: 1116
+        height: 744
         isCached: true
 
 secured: "NgdOfpK802K4uuJT5EgkcpPd3FvNlplkI8WO3Q3njcOuInVXeMFYjVymhnnbD8O2JJQlmyI9orcT5HmiOsYS10Rqws0PnL7Cjk3EQDa3A47GPe+e/rFqg3KSEvZgPJKDYJLQ0/kW1FqaT53RVk+5UASF0xce+cqRzRaxSyBPS86tdxjbR7epR8VGEYQe+iqcChNLEkh2xP2kWZ9/5BwmnVxjDj8mmfoVAltky7b032dvVij9Xh1cuYcZsymzaMmoQvwaG7TjCRWuAao6GZ6Xt4cC1cE+4CI1yLcvyA2Q5U67mcW0L1tcTfouO3InJYTDnC6gC/P8Xx3F8Q46tCEs/VQ5nb8Jv1W4lnBTk6fmhjqduOyDWbvs66dOFf4fvJvPBp4mepjeYHv2p6wIv9zp3XAyyOk9BDZzhCcyY/EQRvIWskk2/uJJN+MUhnpFiAwJVgYW+pRee/znWfHE9J88mL0X+YdQxxKzETQSEVMEWPNf/E9TjPwxttlYdJcEhMw54/AlvUmEdm8LtluUjJz8Eg==;zJ8W2iAe7X7htnjccS3JDg=="

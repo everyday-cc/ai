@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/07/01/photo_courtesy_of_thisisengineering_on_pexels.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The role of AI in the modern newsroom"
-    excerpt: "Attitudes are changing towards the deployment of AI in news publishing, opening up a host of potential opportunities."
-    publishedDateTime: 2022-06-27T05:35:00Z
-    webUrl: "https://themediaonline.co.za/2022/06/the-role-of-ai-in-the-modern-newsroom/"
-    type: article
-    provider:
-      name: themediaonline.co.za
-      domain: themediaonline.co.za
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/themediaonline.co.za/wp-content/uploads/2022/06/AI-head.jpg?fit=800%2C533"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "YUixHed1Z8RWk05bVKmLW5qoyUa3+WmFqTM+REmkNwURUCYYBZ8uHZyVJjVRREx6AB4O/su9ZgekZsyATMPSbr6TxD9PwadPqEbvMbxdSpiOrKea5hnSRjs0dePsWTQ7GahKml6hpuby7Ju6m4iFVf8N5xwayrjJpcWC//+LOt7Xaq7U6QsAX2aAilzo+2dx8kSUUJFgxkfGkIwNkaXf4cdMYivCsUNnimXGjh0F5IU2brxiiZMN/wCKZsPG3peAYMJ/jfjDkLKbZ8Zm4JdekSg79Y1luVzrjrvG6q+BWSpC0hSEekfm/bdwdeZaWi1S1z+6XeEZ/KphBzoN4I37d8Vav9iVbZVn+A1ag3stp0JfJh9mkQg1G06+lG+l8cBLCu79Ye8/idG4yq1LryzkAq8vi2Ujsc+HvxZ0uFCrWIh3OoI6PBbu35rfnBsjPlXms1b0rAt4FZ+4hZv9Ajs93hR5lioRH+AKxCUHYAy5SwcfHMks40at4WqvqwMSEQXZqHxQSbtrGDJhRa0miC9baA==;+UHSxBbGYTXMzR3SfRD6Tw=="

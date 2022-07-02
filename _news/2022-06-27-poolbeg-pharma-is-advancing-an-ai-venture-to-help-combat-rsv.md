@@ -50,20 +50,6 @@ related:
         width: 600
         height: 346
         isCached: true
-  - title: "Poolbeg Pharma PLC Announces Project update for AI model of RSV data"
-    excerpt: "OneThree Biotech completes build and optimisation of AI model for RSV data - results to come in H2. First time AI used to model RSV with complete longitudinal disease data. LONDON"
-    publishedDateTime: 2022-06-27T06:02:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/covid-technology-science-health-82db2e98cf85e55d81f2d14051bcdbda"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "gvuXiJ1QpmEI6utEQsxkDkxz3XrhTDprs7+q+34ispKydRirRiKjY3JZWhlR5aS/inCxvrnQiVXzSk6vE5j//HgYoR3orRBEVv/9Gw1AjO/SvEdLD+Wq0TW/KzKKsL56zVCmIPjEL6GofFD53P9ovYDY8EvhiNiyYVtS1iEnGnq2I1vcukowJh2eEZOvli1qK8mVfECZ1bYbmERgY8ev/liMg4skPFGWfCV2RtL9j+0VxXY72YeFOAKXY+08JcvzlhEQLfoNEF1xEfs7i0NmNaofKa4fhgbFGDjZvGZrlekTm1Zu0e9ECERZN1HOnt/nv3wStpcviwpEB155NLqQQV8QVcxt7OACB8zbQYV9v4LVeM0OA9q8Tves1RBrfwcqFitCA8pYMHdBRJpAWkcLp9RS3dluFSfl+vubdt5IyPdiuQ1foRFGfRGWO/ltz9A7OWdG1RKKA6DNaKO76KREnv4P+mwl8u6QZ9KjYFIDaD6fta9oI3dVPHFkt1iZHhnUjWc2vR4828EFMV/vo3k0EA==;ghEDynHni6cQQDB1yq6pVQ=="
 ---

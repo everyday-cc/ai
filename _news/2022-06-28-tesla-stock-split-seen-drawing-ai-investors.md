@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’"
+    excerpt: "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,"
+    publishedDateTime: 2022-07-01T20:33:00Z
+    webUrl: "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus"
+    ampWebUrl: "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 88
+    images:
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/08/932/470/Tesla-bot.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Tesla Brings Back Enhanced Autopilot at Half the Cost of Full Self-Driving"
     excerpt: "Enhanced Autopilot offers a middle ground between Autopilot and Full Self-Driving, with additional highway and parking assist features for $6,000."
     publishedDateTime: 2022-06-28T15:32:00Z

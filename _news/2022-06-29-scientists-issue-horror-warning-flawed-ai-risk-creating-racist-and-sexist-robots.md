@@ -18,19 +18,37 @@ topics:
   - AI
 
 related:
-  - title: "Robots are Racist and Sexist: AI Isn't Ready for Recruiting"
-    excerpt: "Humans struggle with not letting bias creep in, but it looks like artificial intelligence has a worse problem."
-    publishedDateTime: 2022-06-30T15:03:00Z
-    webUrl: "https://www.inc.com/suzanne-lucas/robots-are-racist-sexist-ai-isnt-ready-for-recruiting.html"
+  - title: "Scientists Designing AI Robots to Work in Earth's Most Extreme Places"
+    excerpt: "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments."
+    publishedDateTime: 2022-07-01T22:20:00Z
+    webUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195"
+    ampWebUrl: "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
+      name: Newsweek
+      domain: newsweek.com
+    quality: 104
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-921293258_506731_fghab8.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d.newsweek.com/en/full/2070395/cutting-edge-applications-artificial-intelligence-display.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Using AI to identify chick distress calls in large poultry farms"
+    excerpt: "A team of researchers from the City University of Hong Kong, working with several colleagues from the U.K., has modified an AI application for use in detecting chick distress calls in noisy environments."
+    publishedDateTime: 2022-06-29T12:50:00Z
+    webUrl: "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.html"
+    ampWebUrl: "https://phys.org/news/2022-06-ai-chick-distress-large-poultry.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-chick-distress-large-poultry.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/poultry-farm.jpg"
+        width: 2880
+        height: 1920
         isCached: true
   - title: "Flawed AI makes robots racist and sexist"
     excerpt: "Researchers have shown that common AI training models like CLIP result in robots gravitating to men over women and white people over people of colour"
@@ -46,15 +64,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Widely Used AI Model Makes Robots Racist and Sexist"
-    excerpt: "A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face."
-    publishedDateTime: 2022-06-27T08:49:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 34
 
 secured: "G4TKInIsnwG+TwSoSZiaNjyIiO+ZL8vG2XIpOx4JiusWiJg1SB4WnMwvLY/J8kFF0sO4hBWRjgk1E5PwtJQkVFFfJQg4H3lQ1FOxiLKNqj+VOMh2w+TdJN/ZJXPugky1SB9pWoVcrUy2tR17v7c3S9MfJyGxDZhah3iT6A2Hg07S+GMbnm1KPzqe2o/E11VrlXkzeJH0Y8ABiS9sJnZSQm3cnFrV9UUTrMmzVE7LORmmwFd+53sljqLHk19apmVJYQjNJ+QBkuaKXRoQBcCXzTsSpO26Vb3xRPUPrYMopxR+54+9SHMbzn1FTGZLnDOMfClbIksj3Lg+QIU0aMv85tydZfUd2HuGhRUdX3qlZjcVAYNHV3Az4Cy0w/dydGUSpiFCCoNk5gj+w39spbwKn7M6B7c8q/ki7I9it1r1azAbrgCmhm/vpXWzCJm48IKuCxsj6KKj1dCV0TQ/keMBCqqzor1WPIWagpIpKjCHGyVx3L/epOF0GI8tG6sNnl0MkoHLjREG9Zq+yr34CBKWwQ==;YmPQMNw5TtjdaKBxH5WLCA=="
 ---

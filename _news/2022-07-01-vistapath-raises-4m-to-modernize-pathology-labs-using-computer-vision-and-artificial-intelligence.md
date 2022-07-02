@@ -2,25 +2,27 @@
 category: news
 title: "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence"
 excerpt: "VistaPath, the leading provider of artificial intelligence (AI)-based, data-driven pathology processing platforms, today announced that it has secured $4 million in seed funding led by Moxxie Ventures with participation from NextGen Venture Partners and First Star Ventures."
-publishedDateTime: 2022-06-30T19:06:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
-webUrl: "https://markets.businessinsider.com/news/stocks/vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence-1031561558"
+publishedDateTime: 2022-06-30T19:02:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98"
 type: article
-quality: 65
-heat: 95
+quality: 55
+heat: 85
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI Squared raises $6M to help companies integrate AI into existing applications"
@@ -56,6 +58,6 @@ related:
       domain: enterprisetalk.com
     quality: 20
 
-secured: "zidWZ90TVJN8o9brZ7N/zuPN7+WazJACSmg98ttSMg88MmLsaHkEXEvi/NLJ15/85FO4QwnM5UuGOKF1bI9IWoVajcPMSX4/GjavE7BJ5WWlZpzCs1ftAySbbMXSfzGo5C1xuf1WAS8FzdiSOKN/TrhWTEvm0jvYiPMbwaq7fY/ggzaf0n7XrsAoInLzMLz+hvoHqvvun6cwZw6mzYfrDQXYKAC5u3W3hm1zmiF97PaOiK8IYyk12P9Daghd25kmBAD/rDdsQrdidk8Z0ceEdUIJUWJ04La3twnYlQI7/Fs6EW4eE4zErDkNaIkMJcgRakNoQVq1AUaXqifywIIHuRqL6/7ObbkCcvVuJtijSDg=;LN5PhTyUwvWqgK4oisLB2g=="
+secured: "pOLEppkcNpznSSyhi/brLcxkhI1jVEwQHi6FvWifVy1zS8qiPZTEsosTtpgbHmltuZLu6TQZ4fO6TV2nXZB7nw570E0BALlAwC3vfTzO5KaYxDDszDT4QRsIZ9vmUtViakJCcMrOaAQNQWuHIGg4nIUslYZ4IBY6sT7KOot9inE52Ro0/LfTHE050m6Tuc6DrFiDQ5aZzOFvEXD90M1yGwSb+fWdW0FQCF2zi3qgI/SkPPPAZ/aNL9wbRghonz74ecr2bzyZUw3Fz//NmhsUXP79aGKWRLt6JoB9Aj6J0iFWOYoslKhkcDqnaipnQbC5wcHH5f7Rj7j/kLqYGc0/NLMRRbNisUK3fuxOWmeniLI=;9NeJJ4Yzx/B2QUmHhQvPwg=="
 ---
 

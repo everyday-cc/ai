@@ -35,7 +35,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
         width: 2500

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-powered-speech-recogniti
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "YEqF7WDsI9d3UiXV0795lmxkWQ+IeB7qM2X1rEIlEEoSHn9u/l7CC5woABD1Lru1bUoF4EBuNGlhFs07BedbBeu73AnQlx29we1OcOYcf+5i8vDVh9gGNv1h3uQNxAp0WQymGm72C35T010V0VXmOpybBc+I8NB1UoY1lNa6C22sTyCkqMJ24vQVEOlMuLfyj6LD92c2J2MwCcAMBWdDncnuxiydtsldyjSskI8Sr7vvid29txDag9dMxTt0ThlKVUbidGSeCboUyxf+yeHOYYJNbSiHEDmhC8VInKwnsopZJumUFC7onhDqlu22Ue5bTse+jpny2ohAkTk2SqYimRpOmvfNzWRRz/bMnNILLdk=;fYXw3yVMcBKrWi0cDvolfw=="
+secured: "hK91r+Ssh1dchChBcEew1j3TQhyWaUen9n0stBJoCs8q++KLBL/q4O2PuJkq4nB66w0jRRLfKTpInTaAndjvXPwjF8I/y3eiDAh2IySKJprK0xCA99Uq7Sczx33XN753QZl3CILSy+k21hz7Ekm0IFETYoQWI6L+qd4Ff8/ESaq/Z78GWoUVbDyxwLd4OXSUd1QYWE0SXcfmUZEy//F2offIqQ5UFJWRdHadeC8zEQaGP8IwXIuIdT1dY+GFVhekTfPpjZat8X/tj8yAQIWCt95uq2eoh/fIukJmuHrjhF0I9F4+fgOkHsTAyrFKj1KlpxtoZkE6BVIflDwFP4TWnkYD8m8baxnh/1AYEnbdXAYOwOc61rfKUFg0THZzSdz76rr3x5aUgUotwg0226NJ/x4IH4Wjdihoav/B1PGt/eXfGxYIFfUht2LaPXsfGEHx2P4NBpbxsnglBQfW0dzvEgC5ijwNhoUhvS115uaQXyRD4VnofILhc+/kB36H2L8rXX3acdEt36Dt+6LR0MSQTg==;Ej0J4IF+lHO2swm6CsTHKw=="
 ---
 

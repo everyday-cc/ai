@@ -68,19 +68,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "DigiDoe, a UK-based FinTech launches operations in Qatar"
-    excerpt: "DigiDoe launched operations in Doha this week and is targeting banks in the Middle East as part of its plan to revolutionise the"
-    publishedDateTime: 2022-06-27T06:47:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/digidoe-a-uk-based-fintech-launches-operations-in-qatar/"
+  - title: "The future of fintech"
+    excerpt: "The financial services industry is changing rapidly, powered by technology. Exponential rises in computing power are driving up business efficiency and driving down costs for end consumers."
+    publishedDateTime: 2022-06-27T08:14:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/the-future-of-fintech"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
     quality: 24
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
-        width: 600
-        height: 500
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/015/iStock-978531552-kuflink.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Durango fintech company sells to NerdWallet for $120M"
     excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."

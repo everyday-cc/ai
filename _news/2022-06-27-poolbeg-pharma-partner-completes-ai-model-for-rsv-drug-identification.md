@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/poolbeg-pharma-partner-complet
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 37
-  - title: "Poolbeg Pharma PLC Announces Project update for AI model of RSV data"
-    excerpt: "OneThree Biotech completes build and optimisation of AI model for RSV data - results to come in H2. First time AI used to model RSV with complete longitudinal disease data. LONDON"
-    publishedDateTime: 2022-06-27T06:02:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/covid-technology-science-health-82db2e98cf85e55d81f2d14051bcdbda"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "YwDfO05i1E1Gh/lT6IQhfWw1aB8qsSjRt5aqgnElAZUoPfdIO433x24P+VXoifb23WteuhBXjc3H8c96uEAI76DWHcLrSkIa2tfFly1j5pEpSlDhGD2Wlkqac1FDTXL4p7PDYPflhNEgcvf2ZH5rnQpQTn49jq3l2YR1pY1mXIb+lVSPTLeLB1RYKkEaJqV3z2GYrRX6HqN3MNNz4dUdFdxQmxF4N+h00SLht78Dvafohbsjl9jR15oA+nVvGSUxIG7aLy+L9AnIlZ3U73iVz2mdG9K+4Nts/Ln+TEIMYJPpC56c2eL6HarDn4t8kNxPiL1KfOB8zUt2hHKCXSQAuoSYstbmDl5mFiDcy6GtlqE=;oMYtF8oDGVXjGfbqRSyyLw=="
 ---

@@ -25,76 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "How Are Fintech Companies Helping MSMEs Increase Customer Reach"
-    excerpt: "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ..."
-    publishedDateTime: 2022-06-27T05:51:00Z
-    webUrl: "https://www.entrepreneur.com/article/430266"
+  - title: "CWallet, Microsoft Qatar partner to bring latest fintech services through Azure"
+    excerpt: "Doha: Award winning fintech startup CWallet has partnered with Microsoft Qatar to digitally transform thousands of organisations by equipping"
+    publishedDateTime: 2022-06-28T06:25:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/28/06/2022/cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-through-azure"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 50
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1656308376-joshuva-daniel-U4OS-GimdXA-unsplash.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220628_1656397572-912.jpg?1656397572"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "Top 29 Fintech Events To Attend in DACH in H2 2022"
-    excerpt: "financial services and fintech professionals to discuss how integrated solutions are shaping the future of digital banking. Leading professionals from global brands will be in attendance to share their experiences and discuss trending topics such as AI, ML ..."
-    publishedDateTime: 2022-06-27T10:08:00Z
-    webUrl: "https://fintechnews.ch/fintechgermany/top-29-fintech-events-to-attend-in-dach-in-h2-2022/53474/"
+  - title: "AI in Fintech Market Size Hit USD 49.33 Billion at a CAGR of 38.50% in 2028 | Microsoft, IBM"
+    excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth. Market Size – USD 3,528.1 Million in 2020 ..."
+    publishedDateTime: 2022-06-27T14:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-hit-usd-49-33-billion-at-a-cagr-of-38-50-in-2028-microsoft-ibm"
     type: article
     provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 45
     images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/06/Top-29-Fintech-Events-To-Attend-in-DACH-in-H2-2022.png?x30842"
-        width: 1024
-        height: 567
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/922931a3e7c0138fec3e9333ad000cce39e1838a-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Fintech firm takes space at Liverpool’s Spine"
-    excerpt: "Having a fast-growing, leading UK Fintech brand located within the Sciontec AI space at The Spine will not only add to the dynamic ecosystem here, but it will be a driver for even greater job creation,"
-    publishedDateTime: 2022-06-28T07:10:00Z
-    webUrl: "https://www.placenorthwest.co.uk/fintech-firm-takes-space-at-liverpools-spine/"
+  - title: "CWallet announces partnership with Microsoft Qatar"
+    excerpt: "FinTech start-up CWallet has partnered with Microsoft Qatar to digitally transform thousands of organizations by equipping"
+    publishedDateTime: 2022-06-29T10:37:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/cwallet-announces-partnership-with-microsoft-qatar/"
     type: article
     provider:
-      name: Place North West
-      domain: placenorthwest.co.uk
-    quality: 24
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
     images:
-      - url: "https://www.placenorthwest.co.uk/wp-content/uploads/The-Spine-LCC-p.Inform-Comms.jpeg"
-        width: 1024
-        height: 777
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/Website-MPU_Buy-report.png"
+        width: 600
+        height: 500
         isCached: true
-  - title: "Fintech provider signs Sciontec deal at The Spine"
-    excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
-    publishedDateTime: 2022-06-28T07:03:00Z
-    webUrl: "https://www.insidermedia.com/news/north-west/fintech-provider-signs-sciontec-deal-at-the-spine"
+  - title: "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure"
+    excerpt: "This migration will offer users the security, scalability, and end-user experience that they have come to expect from CWallet and Microsoft"
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure-s8nv00o3"
     type: article
     provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
+      name: Zawya
+      domain: zawya.com
+    quality: 38
     images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/Spine2-40876-1621522090-%281%29-65271-1653038839-67832-1656398370.jpg"
-        width: 578
-        height: 325
+      - url: "https://static.zawya.com/version/c:MTJmMjY5YTYtZGM1YS00:YTViMDlh/aq0i5516-1756x1176-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
-  - title: "The world’s first fintech sitcom is just what you’d imagine"
-    excerpt: "Where Netflix has Stranger Things, Disney+ has Obi-Wan and Apple TV+ Ted Lasso, HPE has Get Ahead, the “ world’s first fintech sitcom ”. Episode one is out, from which it’s fair to say that HPE probably shouldn’t expect the kind of rights offer secured by televisual wallpaper like Friends and The Big Bang Theory."
-    publishedDateTime: 2022-07-01T15:00:00Z
-    webUrl: "https://www.ft.com/content/0f398279-7e57-49f3-bc8a-a67c78d4e9db"
+  - title: "Durango fintech company sells to NerdWallet for $120M"
+    excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."
+    publishedDateTime: 2022-06-27T20:07:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/06/27/nerdwallet-acquires-on-the-barrelhead-colorado.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-        width: 619
-        height: 377
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "WesRY4rOO1Q6uiRb4yX7nvA+1dq7HBDISafrDT3KU0jrd7AQXi+onCv9m4AHMN0gPEoipLOQcWuzm/Hv/qpAqTSLsTgKM+Nn/Kp9PlDM/+CYME/kyUJyXdswJh6r+wBmlLYYVJRjZn3eIIYeEB5LJLQtvHfGYz221rqzI82+YIZCMdz2PIm89WZAEi5AMRUPm40YYylO9eFfiA3cBJo6qz7aGAvYOh/FG57VtIaaa8sScz2oX1Q96N8dyQhR/e/lYtcbjazrZNmn8vgCCLQejGkZnJ5jBGcpqvS6oeOwrRlR+VfG6IR7r8t5eTVv1CaeV98SVpgNN8Nhkv5TYu+xsiY0uQsrF2RUrXHNEwEXrPvaNcwranARdzqxKlxQ4CpgH7QxHfek6ZZYLPvJjGMsUd9VdzHpKofrogg8/wzuXDs6oNHv964BE4FgutLYrD6ym2az9xPRc0nmxfltAT4jX0/fYMH2D8vNNtdhl+yL5rp6w8nm3KqTM39sa26ECb8tieDCp4BLJUrLX3wvPoKfpQ==;G95b/VEWoYzLn3AUjIGVCw=="
 ---

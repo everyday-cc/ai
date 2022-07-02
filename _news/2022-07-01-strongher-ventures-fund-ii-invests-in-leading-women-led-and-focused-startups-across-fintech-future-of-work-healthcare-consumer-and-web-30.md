@@ -2,9 +2,9 @@
 category: news
 title: "StrongHer Ventures Fund II Invests in Leading Women-Led and Focused Startups Across Fintech, Future of Work, Healthcare, Consumer, and Web 3.0"
 excerpt: "StrongHer Ventures comes in as an early-stage investor for boosting women’s entrepreneurship across Fintech, Future of Work, Health, Consumer, and Web 3.0. Key differentiation factors include strategic funding,"
-publishedDateTime: 2022-06-30T21:08:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-health-entrepreneurship-d66c247bc0d9e3e72ba49390ae1f5ddb"
-webUrl: "https://apnews.com/press-release/newswire/technology-health-entrepreneurship-d66c247bc0d9e3e72ba49390ae1f5ddb"
+publishedDateTime: 2022-06-30T21:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-health-entrepreneurship-8e0ff7016d16b79563d66e360f3d86eb"
+webUrl: "https://apnews.com/press-release/newswire/technology-health-entrepreneurship-8e0ff7016d16b79563d66e360f3d86eb"
 type: article
 quality: 5
 heat: 5
@@ -25,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "jJidwgzbcLjBu0d8+dtLqoUt8WJ6n01ly0JeVz673oPvxpNz0dC/G8wdsKSqmLEisaeDva3BiEE6CdDiG9+aDWGvoQp9skMZx/F5LtUMC+lWRBavrSAS2jdc87+aAeYLORCkeu/tcas7XEAIQgXv8MUXlamXbGTluh77FCU1U/RBMmzysG8GgkTcWIgp+X/uRi/OVbbS0LiIyx/oRJkXU2Oh0TUXUqz9SALA7iS7BXsIcQh3+QEU60eo/g7l1sa3+1FwvgOphWird90MyI/mrzn5qCTV7+rHbu4qyAtxZCyP/WWuBpCdnMiLTUJJzqgxCfseQad5EBGd74gzx7aknCqkLuSyCfPwkupa0ZG9huI=;ZCpXMyfXiFmOxbJPyHltuQ=="
+secured: "8kbOFHYbawsS2EbR74Wml0ZfsfeDzCMsGlLNpRZfYgaCpmtA+2RJFAHZrddc13vMT7e39yx4f7B7v4/gVfCcb5b50tyyhGLANtkmm9erQh+O8sGyqAMWMXYLuIkpXUD7TC2KO71N9gXj72AiO4EYNyGkCgDi239KTI3yBsui20vmeiwaC3OBAlLElTSnY6ifED+Qoqj4TVzQwzxsEztZPBa/iIuit+Prf+NxUcApwLCgM3uQGN9+nPnHd8+gtEcbA7uZiz2uvNT9MiuDV2YZMrYY4GnFqNw6tUB9tS7zcH+XJ/yq4BEH1LCbBCNiXhBZorUTXPC+/YV/QZTqe8xU4t++EF9PSXggV4a3Z5Fd0l0=;vq06WpiQPMPBmQpwICNUSw=="
 ---
 
