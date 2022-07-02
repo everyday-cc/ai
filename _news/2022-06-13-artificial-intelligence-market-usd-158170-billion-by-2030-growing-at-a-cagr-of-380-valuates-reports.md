@@ -2,19 +2,19 @@
 category: news
 title: "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports"
 excerpt: "Major factors driving the growth of the artificial intelligence ... The new standard is to mimic human intelligence through loop-based automatic learning. Because self-learning robots can conduct ..."
-publishedDateTime: 2022-06-13T15:04:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56294906-artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56294906-artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-008.htm"
+publishedDateTime: 2022-06-13T16:10:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Autos
   - AI
 
-secured: "yrxNd9hQFj6M8dmCjPiJJi81F1wzl4hMfPXkb59RxIfY31rYoNoec0UNbJBhHLquKK5naMdUxbe6qUHCym7ZEM6+yhNJ5YqRzEM+EK0bVl24/x4U/uifO7ZYuqbXeE9KgnymWpvc1Htxw2KRQsT8Bhs8ahWG++4WlT+siPnGg3gvk2yr5z7HgceQ5LhuNCxZ77ka/V1Nb7q0aTuuyc5gTAjQ4DFyVgMONce8zXUryNFoVsvCJKJu3ANmYreQAMboUFhK2z3g6gngOQzGnVhTcL14AG1LcD6p3Ldnvn5LOu2flBBS8MC30BJxxDLF7WYF1/fDSVsU5F5sVxwGE6YDhRPrz6uKC+iFh+amKUFZg8o=;73Ua5hAJeJQ2phclymakLg=="
+secured: "Ov9F0ajUahmKPGmCQSYVPJTm3hOOC/X3TM+RaTBaoRtNOynCtweK7MpMkvtJoTBhajRTojOjsY8lVGHuPW8/YQQNJjE9I7WWtmiE3Xyqm06uzB9lDN9rvswP0I3gOSBJFKFQe/EIjMSNdvpimD6G4WajBHP0RsQB7XK/QaaIXJ9VKmez/VtLR8PHiuzYwSH+y1ZUGKku3uNTAxl+gscNUOAhiXF1KV7J3XM2D9dmM5fSbCuZBydh3hac0Ik/kxd8YZO8GOk8gWqTBokx9hmgNMU204zn4VBfeUMAcZUKgpcXJxTj+g2ea8KbbwzMNfvI3HXBjTJmhx2ltcrxLdLQDv3Q8RRiu3zXpIX+l5CSaUE=;s4RZdYEuUWI4BDV0YHtTDw=="
 ---
 

@@ -1,70 +1,20 @@
 ---
 category: news
-title: "Afghan clerics' assembly urges recognition of Taliban govt"
-excerpt: "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led"
-publishedDateTime: 2022-07-02T14:40:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
-webUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+title: "Afghan clerics’ assembly urges recognition of Taliban govt"
+excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
+publishedDateTime: 2022-07-02T15:56:00Z
+originalUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
+webUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/International/WireAP_eaf39e57ac824969aca25a2894ea5d24_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-related:
-  - title: "Afghan clerics' assembly urges recognition of Taliban government"
-    excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
-    publishedDateTime: 2022-07-02T15:24:00Z
-    webUrl: "https://english.ahram.org.eg/NewsContent/2/9/470973/World/International/Afghan-clerics;-assembly-urges-recognition-of-Tali.aspx"
-    type: article
-    provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 24
-    images:
-      - url: "https://english.ahram.org.eg/Media/News/2022/7/2/41_2022-637923784708567229-856.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Taliban's Large Gathering Ends With Calls For International Recognition"
-    excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
-    publishedDateTime: 2022-07-02T13:40:00Z
-    webUrl: "https://www.ibtimes.com/talibans-large-gathering-ends-calls-international-recognition-3560043"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 4
-  - title: "Without participation of political figures in jirga, formal recognition of Taliban not possible: Afghan ex-politicians"
-    excerpt: "Criticising Afghanistan national assembly, former politicians said that without the participation of political figures at such gatherings, the formal recognit"
-    publishedDateTime: 2022-07-01T20:55:00Z
-    webUrl: "https://www.malaysiasun.com/news/272607303/without-participation-of-political-figures-in-jirga-formal-recognition-of-taliban-not-possible-afghan-ex-politicians"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 0
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1656709393.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
-secured: "lD0mV41tF6y1eau7tyD3tepJu4nFvOtyO3ramnjAcT5nmbrBIWh2XmZL6I5QEiYkVuEtK4GU9eObWXbW+6ay86Z/tRgJLqmbtz9bAV/W9WR1FdOTm8jfj+K/7Qp7MWp5l3mecDhWCXzkfoHZtoussT+vj6xbqBHVZvLMn36yq4vYwDmIufkk83Dt4W9V+NBiibRW69B7pP1MXLHnt8E2YvhzZYY1eFZM+3wr5WmYGIriakjgsHTQRTNlORY31JHeNKBUy8gsYg3Q5rO/p0NIaUS7PXpIZ2XNlFnjC17p4zx+awP8Hg2OkluQXkHBsacDy+++SAz37TtDNpcYzme82GnA2udu7dpokr3TdGL89Sc=;pTw5iYOvbX88R8SzRmZb+A=="
+secured: "5w3A3q58Nb5quzW4dKFBRp55tjGZd6wOLPHCGJzNqBaUoUq5DTzJqK38Mny2Ex9AKRsz2DPiQq4u+H6rtXuhiiPIsIEZXIlaVfdUF694vr8ZUorIsM9ibtQbhzJU95TIjbxGITR469uzTI38ue8VbAWlaSKX/dxt5qJ/a+aQL/tZ8IT6p6rrQex3BB2jYPg4T/dsOkRGKfHR7kfBfhh8hbolSQjmlQnzQMiJnSrbNzCrznmxQfKQ+bil+lMK+YghMQ0Bn/veY7XvwA+87H85zxha2OgmZZtaPQi4Wmkqo5PArIpwchHi6+AMG56kSpzqVq6yjlUh+k1c2QYRwsz3KiCKCn1s6RZNqkJebybnoq4PNP/635qj2vrA9aNPlQvGcyLbEX9o9XHzYl5mPu5zQnd0LUPwjAh5tkRcff4UdLJlqjWaWitwCnMg5oGOtx99sYd9/E5ihAprvOmGV/3Lrj/t+iv0j8NY3Y6aEgQkkcKWpBNicn6Q0cy8IPfP4J36YzF10nCu792d60Mmw4WxUQ==;LOgotUlq3qbedyNlF9OZVA=="
 ---
 
