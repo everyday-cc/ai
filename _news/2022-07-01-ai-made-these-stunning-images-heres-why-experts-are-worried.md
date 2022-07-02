@@ -20,15 +20,20 @@ topics:
   - Facebook AI
 
 related:
-  - title: "AI made these stunning images. Here's why experts are worried"
-    excerpt: "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs."
+  - title: "AI made these stunning images. Here’s why experts are worried"
+    excerpt: "By Rachel Metz, CNN Business A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs. These are just a few of the text descriptions that people have fed to cutting-edge artificial intelligence systems in recent weeks,"
     publishedDateTime: 2022-06-30T12:12:00Z
-    webUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+    webUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "lqJB9pEp7OKbcJ0vZGzPZBYpRcQmn5aI7NXzQ5sxL+uVNJmOayp7NYra8F7bN7Z1i1eVXOX0oGP0Du1WN94X6m23GLWful+Ai89Mwfn/3T984XOWyDhiUnoAPdCnuEppjK4ruJ4MEV5HmKUZOdROhHg2LNl28jubD0rPW1BAWiQ5rsSexpZrFDbbp98EDqeaPuZci8uw2Onzx3fc4YVYx33r9jqP+TJXSMNFvkWfnPTqd5cZWttcFf1cUCarhqvG9zhLUxC7EkWZlM2DTa6d/PI/+5cLEVgelMjEtHierO+1QVYZ1ImKEkV062ROHZnG2cn0zwxWJoOCIWYsjG3gD87bgT2Uzu2B+ylrL6KnIck=;qWhdW8EbxKKKxvJTegvk1g=="
 ---

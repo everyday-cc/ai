@@ -26,64 +26,42 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Pet Door Uses Facial Recognition to Keep Critters Out"
-    excerpt: "Installing a pet door can make pet ownership less of a chore by eliminating the need to constantly have to let them outside for bathroom breaks and then back in again after, and the Petvation wants to make sure it’s only your dog or cat (or naked mole rat,"
-    publishedDateTime: 2022-06-27T23:10:00Z
-    webUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959"
-    ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
+  - title: "The Feds Don't Know How Often They're Using Facial Recognition"
+    excerpt: "At a congressional hearing, members learned that multiple government agencies don't know how many of their employees are using facial recognition."
+    publishedDateTime: 2022-07-01T15:00:00Z
+    webUrl: "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487"
+    ampWebUrl: "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487/amp"
     type: article
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/a2c3710f56698b6fc0b31da2db224794.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "‘UK government illegally utilizes facial recognition’"
-    excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
-    publishedDateTime: 2022-06-30T14:42:00Z
-    webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
+    quality: 69
+  - title: "Woolworths denies using AI and facial recognition despite leak claiming otherwise"
+    excerpt: "Woolworths says the leaked internal training module detailing how it uses the controversial technologies to stop theft was a mistake."
+    publishedDateTime: 2022-06-29T00:49:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/woolworths-ai-and-facial-recognition/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 49
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2016/10/new-woolworths-store.jpg"
+        width: 681
+        height: 329
         isCached: true
-  - title: "New laws urgently needed to control facial recognition"
-    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
-    publishedDateTime: 2022-06-29T11:46:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
+  - title: "The Good Guys to pause facial recognition technology following backlash"
+    excerpt: "\"This is an important step in the right direction for The Good Guys, and a decision we know reflects community expectations,\" CHOICE senior campaigns and policy advisor Amy Pereir"
+    publishedDateTime: 2022-06-29T01:28:00Z
+    webUrl: "https://www.9news.com.au/national/the-good-guys-to-pause-recording-customers-faceprints-following-backlash/113c5e59-42ff-4925-ae3b-755850f2f143"
+    ampWebUrl: "https://amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
+    cdnAmpWebUrl: "https://amp-9news-com-au.cdn.ampproject.org/c/s/amp.9news.com.au/article/113c5e59-42ff-4925-ae3b-755850f2f143"
     type: article
     provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
+      name: Nine News Australia
+      domain: 9news.com.au
     quality: 39
-    images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "The Good Guys pauses facial recognition trial"
-    excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
-    publishedDateTime: 2022-06-28T20:38:00Z
-    webUrl: "https://www.itnews.com.au/news/the-good-guys-pauses-facial-recognition-trial-581959"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/Good_Guys.png"
-        width: 1138
-        height: 774
-        isCached: true
   - title: "Bunnings doubles down on facial recognition"
     excerpt: "Hardware store chain Bunnings has defended its use of facial recognition to monitor customers in-store following revelations in June from consumer group Choice that three major Australian retailers were capturing biometric data of customers without their express consent."
     publishedDateTime: 2022-06-29T23:14:00Z
@@ -97,6 +75,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20warehouse.jpg"
         width: 766
         height: 431
+        isCached: true
+  - title: "Facial recognition is on the rise – but the law is lagging a long way behind"
+    excerpt: "Despite the growing use of this controversial technology, there is little in the way of specific regulations and guidelines to govern its use. Spying on shoppers. We were reminded"
+    publishedDateTime: 2022-06-29T08:47:00Z
+    webUrl: "https://www.iothub.com.au/news/facial-recognition-is-on-the-rise-but-the-law-is-lagging-a-long-way-behind-582022"
+    type: article
+    provider:
+      name: iothub.com.au
+      domain: iothub.com.au
+    quality: 36
+    images:
+      - url: "https://i.nextmedia.com.au/News/facial_recognition_2.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "Facial recognition use increasing at US federal agencies faster than oversight, GAO reports"
     excerpt: "The use of facial recognition has become increasingly common across the government, a new report from the U.S. Government Accountability Office suggests."

@@ -25,91 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Pet Door Uses Facial Recognition to Keep Critters Out"
-    excerpt: "Installing a pet door can make pet ownership less of a chore by eliminating the need to constantly have to let them outside for bathroom breaks and then back in again after, and the Petvation wants to make sure it’s only your dog or cat (or naked mole rat,"
-    publishedDateTime: 2022-06-27T23:10:00Z
-    webUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959"
-    ampWebUrl: "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp"
+  - title: "Australian retailer pauses facial recognition trial over privacy complaint"
+    excerpt: "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016."
+    publishedDateTime: 2022-06-28T08:25:00Z
+    webUrl: "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 82
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/a2c3710f56698b6fc0b31da2db224794.jpg"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220628&t=2&i=1602869101&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5R04C"
+        width: 810
+        height: 522
+        isCached: true
+  - title: "Australian chain store pauses facial recognition trial"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T06:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-06-28-australian-chain-store-pauses-facial-recognition-trial/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s750"
+        width: 750
+        height: 456
+        isCached: true
+  - title: "Australian appliances giant pauses facial recognition tech over privacy concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T03:08:00Z
+    webUrl: "https://www.reuters.com/technology/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern-2022-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/E9f6SERqd4JhyOSdc1sETEzMCaQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VIWPZARKTHH5MMB7K3BHAEI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Australian firm halts facial recognition trial over privacy fears"
+    excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. In an email on Tuesday, a spokesperson for JB ..."
+    publishedDateTime: 2022-06-28T07:19:00Z
+    webUrl: "https://www.aljazeera.com/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2022/6/28/australian-firm-halts-facial-recognition-trial-over-privacy-fears"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2022/06/359452268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
+    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
+    publishedDateTime: 2022-06-28T04:34:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-28/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Face recognition study in Australia is halted due to privacy concerns"
+    excerpt: "The second-largest appliance retailer in Australia has halted a shop trial of face recognition technology after a consumer organization alerted it to"
+    publishedDateTime: 2022-07-01T11:24:00Z
+    webUrl: "https://menafn.com/1104463973/Face-recognition-study-in-Australia-is-halted-due-to-privacy-concerns"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_1.jpg"
         width: 800
-        height: 450
-        isCached: true
-  - title: "Scrap police use of facial recognition"
-    excerpt: "A LEADING QC has called for urgent legislation and regulation of biometric technologies including facial recognition following a review which produced a number of recommendations for the government. A review led by Matthew Ryder QC, commissioned by the Ada ..."
-    publishedDateTime: 2022-06-29T16:29:00Z
-    webUrl: "https://www.voice-online.co.uk/news/uk-news/2022/06/29/scrap-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: Voice Newspaper
-      domain: voice-online.co.uk
-    quality: 41
-    images:
-      - url: "https://www.voice-online.co.uk/wp-content/uploads/2022/06/rsz_gettyimages-849090846.jpg"
-        width: 1000
-        height: 699
-        isCached: true
-  - title: "‘UK government illegally utilizes facial recognition’"
-    excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
-    publishedDateTime: 2022-06-30T14:42:00Z
-    webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "New laws urgently needed to control facial recognition"
-    excerpt: "Biometric technologies raise significant legal and ethical concerns around privacy, free expression, legal review concludes."
-    publishedDateTime: 2022-06-29T11:46:00Z
-    webUrl: "https://www.lawgazette.co.uk/law/new-laws-urgently-needed-to-control-facial-recognition/5112950.article"
-    type: article
-    provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
-    images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/9/4/1/104941_1077077648_754837.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "Bunnings doubles down on facial recognition"
-    excerpt: "Hardware store chain Bunnings has defended its use of facial recognition to monitor customers in-store following revelations in June from consumer group Choice that three major Australian retailers were capturing biometric data of customers without their express consent."
-    publishedDateTime: 2022-06-29T23:14:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/bunnings-doubles-down-on-facial-recognition.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20warehouse.jpg"
-        width: 766
-        height: 431
-        isCached: true
-  - title: "Facial recognition use increasing at US federal agencies faster than oversight, GAO reports"
-    excerpt: "The use of facial recognition has become increasingly common across the government, a new report from the U.S. Government Accountability Office suggests."
-    publishedDateTime: 2022-06-30T22:08:00Z
-    webUrl: "https://www.biometricupdate.com/202206/facial-recognition-use-increasing-at-us-federal-agencies-faster-than-oversight-gao-reports"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
+        height: 531
         isCached: true
 
 secured: "N9HaZiOliYM07EmbQiqeS1Sqnli+TG2uq9DzPlBVz0ExpOFIdcD9dLXAHzsZ9FVuJqYFbKKLEy5whePhPYJ7nC+nXnoBJD8el2lqXl4WYVYxtkHcpZI3ds5L1z+h+p+jqBJjI0ygvs/d9Da5gYwxonNd2xkEr5Wq4btZlg/95DwkQJRUd8nLiKdFIbjcYZGCCXr89uVfgGD2JZvWRpVTT8VyhIS2zb+p7bWrWKvwv0BfswU21ihmwGkT3cYVApRERSpJAzMnsQTldXm9fuy53cuXXaWILtwV1vteBN8tkbAtivVkKB3RgGd7n1aLeuyoGkZQX+arQOWjaAJ6B3htqtTz+QcYRxhU3GYaSKGQbaHpRmO32Iee6lTPsJc9xb9N8bddc0zMnr/uu/9W12pKsrO+mnC6ZX/71pVS6BGujvnXBdI2MPBsBkHU9KgcDPQ6sW6LIFHBJNR9yI0yL4dhBtoaHj5DU67JNAwhorz1+8nFppgexBoJSmYhb+ykiOOurjppHElyZLFGLseh1qsucQ==;jDuACQkzNquSOw0zDzI1ng=="

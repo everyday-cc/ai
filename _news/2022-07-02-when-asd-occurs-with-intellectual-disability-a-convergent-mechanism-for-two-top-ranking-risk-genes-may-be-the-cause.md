@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-asd-intellectual-disability-c
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-asd-intellectual-disability-convergent-mechanism.amp"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Immune cells in brain could become new drug targets for ASD, intellectual disability"
+    excerpt: "Scientists have discovered a convergent mechanism that may be responsible for how two top-ranked genetic risk factors for autism spectrum disorderintellectual"
+    publishedDateTime: 2022-07-02T16:39:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272607842/immune-cells-in-brain-could-become-new-drug-targets-for-asd-intellectual-disability"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 32
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1656779952.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "When autism spectrum disorder occurs with intellectual disability, a convergent mechanism for two top-ranking risk genes may be the cause"
     excerpt: "A convergent mechanism may be responsible for how two top-ranked genetic risk factors for autism spectrum disorder/intellectual disability (ASD/ID) lead to these neurodevelopmental disorders."
     publishedDateTime: 2022-07-01T13:45:00Z

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Afghan clerics’ assembly urges recognition of Taliban govt"
-excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
-publishedDateTime: 2022-07-02T14:19:00Z
-originalUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
-webUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
+title: "Afghan clerics' assembly urges recognition of Taliban govt"
+excerpt: "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led"
+publishedDateTime: 2022-07-02T14:40:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+webUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/eaf39e57ac824969aca25a2894ea5d24/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/International/WireAP_eaf39e57ac824969aca25a2894ea5d24_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -63,6 +65,6 @@ related:
         height: 420
         isCached: true
 
-secured: "algxUX8X1VGaJkuM7ydRGaFurxaU2ILB+0cPShc4uZvNgXB9wLfP574xFptoJVDFe9e99jz+6v1Nxyz2IDpSoPMcCEozJWzKeSwFACl8wd/QbwdtMpVkqglxpUJrP2oOCLmcnwciX6LkAi96dxur77W5l/uREPQ72ef/Y0YG3R95lUdluJBSu5kX4RYlzYylqGe1YsrsdG/8QycxvXs9CsEcV8HWz2W3zmroZMOEiq7fsMrx6zKkrsEmtu5V49AoTfbMJFj8Z4qu7EP+tzlSKXwmQW9AJ38gTzmG2ZN34dMKI7mLWqAzeXX6bAsBy7qR6IPw5ZFgWjLsjOF5EnwYEgQIWtiOGu0xkJvRMXVxs9Q=;2mPx6hlNco/++TpBrwgVLA=="
+secured: "lD0mV41tF6y1eau7tyD3tepJu4nFvOtyO3ramnjAcT5nmbrBIWh2XmZL6I5QEiYkVuEtK4GU9eObWXbW+6ay86Z/tRgJLqmbtz9bAV/W9WR1FdOTm8jfj+K/7Qp7MWp5l3mecDhWCXzkfoHZtoussT+vj6xbqBHVZvLMn36yq4vYwDmIufkk83Dt4W9V+NBiibRW69B7pP1MXLHnt8E2YvhzZYY1eFZM+3wr5WmYGIriakjgsHTQRTNlORY31JHeNKBUy8gsYg3Q5rO/p0NIaUS7PXpIZ2XNlFnjC17p4zx+awP8Hg2OkluQXkHBsacDy+++SAz37TtDNpcYzme82GnA2udu7dpokr3TdGL89Sc=;pTw5iYOvbX88R8SzRmZb+A=="
 ---
 

@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-28-instagrams-new-ai-tool-for-age-verification.md",
+      "title": "Instagram’s New AI Tool for Age-Verification",
+      "excerpt": "Instagram is testing various new ways for age verification of its youngest users. Yoti’s AI tool is one of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/",
+      "originalUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techthirsty.com/wp-content/uploads/2022/06/Instagrams-New-AI-Tool-for-Age-Verification-1-640x356.jpg",
+          "width": 640,
+          "height": 356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1",
+      "cdnAmpWebUrl": "https://www-techthirsty-com.cdn.ampproject.org/c/s/www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1",
+      "publishedDateTime": "2022-06-28T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Thirsty",
+        "domain": "techthirsty.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-ai-no-longer-fringe-tech-for-indian-companies-bain-company-report.md",
+      "title": "AI no longer fringe tech for Indian companies: Bain & Company report",
+      "excerpt": "India is also a global source of talent in data and AI skills; it produces 16 per cent of the world's AI talent pool, said the report",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html",
+      "publishedDateTime": "2022-06-28T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai.md",
+      "title": "Speechmatics raises $62M for its inclusive approach to speech-to-text AI",
+      "excerpt": "I wrote about an AI startup that’s building technology that can alter, in real time, the accent of someone’s speech. But what if the AI goal instead is to make it possible for people speaking in whatever way they do,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/",
+      "originalUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image-1.jpg?w=680",
+          "width": 679,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/",
+      "publishedDateTime": "2022-06-28T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029.md",
       "title": "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029",
       "excerpt": "The Cyber Security in Robotics Marketis slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the",
@@ -1086,151 +1223,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification.md",
-      "title": "Poolbeg Pharma Partner Completes AI Model for RSV Drug Identification",
-      "excerpt": "Poolbeg Pharma PLC said Monday that partner OneThree Biotech has completed its artificial intelligence model optimization to identify treatments for respiratory syncytial virus, with results expected in the fourth quarter. The pharmaceutical company said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "originalUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "publishedDateTime": "2022-06-27T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer.md",
-      "title": "Google’s ‘sentient AI’ likened to a 7-year-old child by engineer",
-      "excerpt": "A former engineer at Google has likened one of the company’s artificial intelligence programs to a seven or eight-year-old child. Blake Lemoine was put on administrative leave from Google after claiming the tech giant’s LaMDA (Language Model for Dialogue Applications) had become self-aware.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
-      "originalUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339",
-          "width": 600,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
-      "publishedDateTime": "2022-06-27T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-how-are-fintech-companies-helping-msmes-increase-customer-reach.md",
-      "title": "How Are Fintech Companies Helping MSMEs Increase Customer Reach",
-      "excerpt": "FinTech companies are useful as Data Analytics provides solutions to easily access the creditworthiness of a business or evaluate collateral available for loan. Moreover, Artificial Intelligence (AI) has emerged as an efficient tool, making application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/430266",
-      "originalUrl": "https://www.entrepreneur.com/article/430266",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1656308376-joshuva-daniel-U4OS-GimdXA-unsplash.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

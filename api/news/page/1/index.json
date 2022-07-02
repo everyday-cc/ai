@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-02-the-key-to-quantum-computing-ai-applications-flexible-programming-languages.md",
+      "title": "The key to quantum computing AI applications: Flexible programming languages",
+      "excerpt": "When enabled by flexible AI programming languages, quantum computing performs AI calculations much faster, and at a greater scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/",
+      "originalUrl": "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-175422126-angelhell.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/amp/",
+      "publishedDateTime": "2022-07-02T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-microsoft-data-centers-around-the-world-are-experiencing-capacity-and-resource-shortages.md",
       "title": "Microsoft data centers around the world are experiencing capacity and resource shortages",
       "excerpt": "According to a recent article by The Information, more than two dozen Azure data centers, including key centers in Washington, Europe, and Asia, are currently operating",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.techspot.com/news/95164-microsoft-data-centers-around-world-experiencing-capacity-resource.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -495,7 +546,7 @@
       "originalUrl": "https://gizmodo.com/facial-recognition-biometric-surveillance-congress-1849126487",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1022,6 +1073,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-01-chatbot-company-replika-says-many-customers-believe-in-ai-sentience.md",
+      "title": "Chatbot company Replika says many customers believe in AI sentience",
+      "excerpt": "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
+      "originalUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
+      "publishedDateTime": "2022-06-30T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-startup-founders-say-venture-capital-investors-are-driving-harder-deals.md",
       "title": "Startup Founders Say Venture-Capital Investors Are Driving Harder Deals",
       "excerpt": "Startup founders say venture-capital investors are offering tougher terms as companies attempt to raise money amid economic uncertainty and a broad selloff in tech stocks.",
@@ -1122,108 +1217,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-the-fight-over-which-uses-of-ai-europe-should-outlaw.md",
-      "title": "The Fight Over Which Uses of AI Europe Should Outlaw",
-      "excerpt": "The European Union’s AI Act will set ground rules for what the technology can and can’t do to people—like whether it’s OK to deploy AI lie detectors at borders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/europe-law-outlaw-ai/",
-      "originalUrl": "https://www.wired.com/story/europe-law-outlaw-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62bcdad7042ab1ffde99c514/master/pass/Border-Patrol-Greece-AI-Polygraphs-Business-1233365255.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/europe-law-outlaw-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-law-outlaw-ai/amp",
-      "publishedDateTime": "2022-06-30T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-how-john-deere-grew-data-seeds-into-an-ai-powerhouse.md",
-      "title": "How John Deere grew data seeds into an AI powerhouse",
-      "excerpt": "John Deere’s status as a leader in AI innovation did not come out of nowhere. These days, the company has been enjoying the fruit of its AI labors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/30/how-john-deere-grew-data-seeds-into-an-ai-powerhouse/",
-      "originalUrl": "https://venturebeat.com/2022/06/30/how-john-deere-grew-data-seeds-into-an-ai-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/r4f167299_rrd_@1x.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/30/how-john-deere-grew-data-seeds-into-an-ai-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/30/how-john-deere-grew-data-seeds-into-an-ai-powerhouse/amp/",
-      "publishedDateTime": "2022-06-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

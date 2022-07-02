@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Afghan clerics' assembly urges recognition of Taliban govt"
+    excerpt: "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led"
+    publishedDateTime: 2022-07-02T14:40:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_eaf39e57ac824969aca25a2894ea5d24_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Afghan clerics' assembly urges recognition of Taliban government"
     excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
     publishedDateTime: 2022-07-02T15:24:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://english.ahram.org.eg/Media/News/2022/7/2/41_2022-637923784708567229-856.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Afghan clerics’ assembly urges recognition of Taliban govt"
-    excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
-    publishedDateTime: 2022-07-02T14:19:00Z
-    webUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/eaf39e57ac824969aca25a2894ea5d24/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Taliban's Large Gathering Ends With Calls For International Recognition"
     excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."

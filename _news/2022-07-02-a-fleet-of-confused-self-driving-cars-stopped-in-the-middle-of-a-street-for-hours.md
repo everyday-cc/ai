@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Several self-driving cars simultaneously stop working in US, block traffic for hours"
+    excerpt: "More than half a dozen self-driving cars of Cruise simultaneously stopped operating in a San Francisco street recently, blocking the traffic for a couple of hours. The company's employees arrived at the location and had to manually move the autonomous vehicles."
+    publishedDateTime: 2022-07-02T17:13:00Z
+    webUrl: "https://inshorts.com/en/news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/several-selfdriving-cars-simultaneously-stop-working-in-us-block-traffic-for-hours-1656781998609"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 37
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/07_jul/2_sat/img_1656780889526_700.jpg?"
+        width: 1024
+        height: 664
+        isCached: true
   - title: "A Fleet of Confused Self-Driving Cars Stopped in the Middle a Street for Hours"
     excerpt: "At least eight robotaxis from the General Motors subsidiary navigated to the same street corner and then stopped in the middle of the road, blocking traffic."
     publishedDateTime: 2022-07-01T18:09:00Z

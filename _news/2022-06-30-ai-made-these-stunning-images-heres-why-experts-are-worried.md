@@ -1,25 +1,28 @@
 ---
 category: news
-title: "AI made these stunning images. Here's why experts are worried"
-excerpt: "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs."
+title: "AI made these stunning images. Here’s why experts are worried"
+excerpt: "By Rachel Metz, CNN Business A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs. These are just a few of the text descriptions that people have fed to cutting-edge artificial intelligence systems in recent weeks,"
 publishedDateTime: 2022-06-30T12:12:00Z
-originalUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
-webUrl: "https://edition.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html"
+originalUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
+webUrl: "https://kvia.com/news/2022/06/30/ai-made-these-stunning-images-heres-why-experts-are-worried/"
 type: article
-quality: 47
-heat: 47
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - AI Ethics
   - AI
+
+images:
+  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "AI made these stunning images. Here’s why experts are worried"
@@ -32,6 +35,6 @@ related:
       domain: ktvz.com
     quality: 21
 
-secured: "lbGTGUVTENgk51V2xehbDopMfulSIRwJJOJ7wbF26SyyNA0e2BU29ogWUG561B6nmYtxYSrfPLE61k6aC2PqXcnLtKDXopSNP22dHPceILUSuTHIK2xrIuQbgLH3831Uq/DNJ32hpwJFv55cCG3V3FcJnH2hv3D4onB3DE2+aoyUr3kjEzFDa5x9bpZEDqwjqrWocTbo4UiGxarjLqkMxhb03HMgcAUrfNm4oxGBoOzK+EALj3mZyQGe0zksAnMjVeP2RHcKL/XkEROfAkSPzvJ2LrG7YPAREMMymuExvA3EIPSvNCw1PA1wc8bpnle2MDKZvshNbeuCZdGwNyYGahExXCzejvozLBxb0aWAZ9du1uVxZoD2iHxo42JL0W9opJO9c5b1geEsc0gq9CwUpbNhbAL7Crj79Dc042z6bfHQhHiS2FLjkO2P2+Is8LLpsYXVsu56s19/eJOB+MscqTP++NuV+ZxdHL37RcEo318FuiapJ/r99f8hrcgAMPUAHfOl5dWA97Wt03JFrhQm0A==;Y8MPgZ2ItdSrElOa5mw2zw=="
+secured: "xfM0e/YyqhpVelmde0gz2dL0dXefysHBL4EV6Rl87wQIzrnkR7EqYPJom7r27zSrUyCuc8NX0Ph4MhGpRDAqaqkKf4aAqDnDK1o4zRdchkbcQcliXBIFoUMqkLeeqfNs/CcYWkp4Oqhievd0LKQwHXwQxousQi+Pkq4eSugg4h1ZPEcwzkgHezqj8bMwOqaZ7y+fAFt87SXMR7mtOjJOy+7zrrGLptc7zenpm5NkQ2qFGjIq1jDdQOpk711KDJie1wdyn51c6WFg7+3rvfXCggPQdjrVXZQfCZDWBML+2n7Ers7jQ5aTkQJ93xu/e0hlehVysiXzminZVLDBDAtmaeJhGfLiOWcM1VYZ299U/O8=;Oqhvpe2tXh505DVkNJSZig=="
 ---
 

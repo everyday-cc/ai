@@ -22,22 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Automation startup Black.ai closes $5.4m seed-plus round"
-    excerpt: "Australian computer vision and automation startup, Black.ai, has closed a $5.4 million seed-plus round led by Jelix Ventures, taking its total funding to $8.55 million. Black.ai says the the new capital,"
-    publishedDateTime: 2022-06-27T23:36:00Z
-    webUrl: "https://itwire.com/it-industry-news/market/automation-startup-black-ai-closes-$5-4m-seed-plus-round.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 37
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/686902b1da95ceb7383312462c316ee2_M.jpg"
-        width: 375
-        height: 563
-        isCached: true
-
 secured: "ayQwWv87OHAOCVQidjdoN+QIndaTQZXdvmiPMnLbAMLlHsjQVo2q4hFFZ48OTdwfbC5lU39k6Cifj1WUwB7Jkya+NqDC3Q2ZO3MSDQwKKjFWF3SiuGW9GKMIg41aBXpnGQFKB6Wn7NsNc+tXrs99eKy6oknZTgQgcoqNmGc3TJZEuP207JgMG1jBCRAPngRi4Cf0MpsE23U3hgTQeRr9CjVbzitniDoXABJqeDXwI4XDg7hMQTEpyxFPyi9IAKieB/jIMz0MuYpYM5j+Brnox50jV1teMV7vaa5svgUo/GUvTQGucBTecE81MkxOeD63HVlMYdHC0T9LWvgx6NRurZKWI6fRkLkQ73PcR5XTkGY=;3R/DVuZtlMfUPNb67JC+2g=="
 ---
 
