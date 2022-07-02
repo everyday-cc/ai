@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Tomahawk Robotics Adds Reveal Technology’s Farsight Ai Into The Kinesis Ecosystem"
-excerpt: "Tomahawk Robotics, the leading innovator of common control solutions, is pleased to share we have successfully demonstrated an initial integration of Reveal Technology’s Farsight AI application into our Kinesis common control software."
-publishedDateTime: 2022-06-29T15:10:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-8e7ba9391a9ee280c8f6f637d3fd1aff"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-8e7ba9391a9ee280c8f6f637d3fd1aff"
+title: "Tomahawk Robotics Adds Reveal Technology's Farsight Ai Into The Kinesis Ecosystem"
+excerpt: "Tomahawk Robotics, the leading innovator of common control solutions, is pleased to share we have successfully demonstrated an initial integration of Reveal Technology's Farsight AI application into our Kinesis common control software."
+publishedDateTime: 2022-06-29T15:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/29/9631185.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/29/9631185.htm"
 type: article
-quality: 64
-heat: 64
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ilw+Zjsouj3g0clCrG9aIVK8eaQMAtNlzFlxk0aSqqAsNc5ZDxBQbhqwPcDbH+eeVEzBK9lcTXK4MqCJ8PUIwJsJ4vucw/tsSunAm4JZ6gB8s+Q0QD+nmCh9vDTTlmbfOeMJKIgj5fNrJWY5Co7gje2vfYwGSeYkzLLM8oLS1nT5Si2ieXlXaZl6kaaZMC4Bq7nl5aUhWkQBsiF9hOQsxJ2UoHB0bD5oJc+PaslLxoDX2A2iJ2jgKPybNeCkCVSZhGOVjFkXZsrwGvkddmah2OVjLfZYf0GOYF4DEtY/Zgxav8hVSPlW/uPlaX1U+XZxiGFSbSHLAhNLTLpEWk+ChSLy6BLU/8gr14XtE5G0GxY=;Eq8X6lqGhR8Ea4a1q4TdQg=="
+secured: "YK0ggkhgusn2pNyM8qjHlqAbkSPg+b0doItCJ4va5ixM1hIeqc/CssHKFBE0p/H/IAXmG+2FbD0Hq2nSNRZYTq/10v6Sl3QBytyRtgwdiK0k9Q15QwtvV4rnL37IEXUNMLCePCiv79ti6uRm1Q8keh9/wWpg9N0BMxYTuWCKiOQmb3M/c0BfdukfJ+JzzvtPjoc0OEbgW3u3NycEMA/lyXb4nWJU7UE01dHKwldLkzZ4g3/MMaa6O1qJdRNfQcq11bWjEoJReAZr3LJRk6PaG9vm/m3B9cjytXKFypiEE8UPtFJLlPcQw55kXLDbU3hb+bWihnrjFTbg3QN0lkLb4Mj3v2sg7HxVIWX0EIfTCQyjGd26cd87GPXe+fDC6HHlrRHN379GNJnMjXrLtHHLVINtyleGAVP5d/1Cs9tkaig5DfW3SzkY1OrQEQtvKcfOzOUAnUpIG5EgsvFV3iwMPp6vRF9A3vNMkDgAU7+JP7wMhYOk/awo2UoFwaN1NQOyoQO0I6xknPCw0u0DTRBRmw==;8WchrDG70jJ+eU3rZQ30xA=="
 ---
 
