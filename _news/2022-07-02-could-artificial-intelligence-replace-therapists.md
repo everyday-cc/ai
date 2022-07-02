@@ -3,18 +3,29 @@ category: news
 title: "Could Artificial Intelligence Replace Therapists?"
 excerpt: "Artificial Intelligence (AI) in the Role of a Psychologist LaMDA’s sophisticated use of language, based on its “knowledge” of internet information, raises the question of whether this technology can be used as an effective tool for psychological therapy."
 publishedDateTime: 2022-07-02T14:44:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
-webUrl: "https://www.psychologytoday.com/za/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
+originalUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
+webUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
   domain: psychologytoday.com
 
 topics:
-  - Natural Language Processing
+  - AI in Autos
   - AI
 
-secured: "VVzMXx3iud9vBUH+4yVtTiGYz88jytgtM3sodL6ZwCDDfAjgYUQ7YiJ8wVXfomfdXXn/gFnyqx91ZGJ9MhA6LR8/R2nYPZWzK/+BHnu45XmDi8QVmepR8Ya9JX4VDVR0by5C+A0EcVGTivIbAhW0oZdJs3+pvrIGqK7e3BazGjvDKKS+aVvH6ocNWitZrfq3jaCDM3+KeFZUnfz21d9wsiJlnltGNBXpJsO9Q7dhUakIItsFjjKIrxGFGP84D9zLMBcRz915I2heA5gHUPx9xzRDex6UvBO67HCus/MucJT8nq3H99kbo7shY/eIjleDzSrKZ5+d2wLdWZts++urSEr2O9EpN7Xu1QVyMI7ftYl/tBExZCw9ryUHZpCThgjnXjO/7F1DYEUB79tmSHFUUF+rad6F0FTXmr4qG2gS4l39YxSICm4p1/i29T3frE3DtwG+W5DTxDC440PMbmmZkEdL9Cd+3ChkLrTAvCpbcQvHbEc7yGPtOZetbf7O+sh0gtD8SzgLYtMQv8OM4wC/WA==;k0bYR0sq/i0DGdn0ItpDug=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/blue_planet_studio_shutterstock.jpg?itok=vp9Js1ws"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "9TjJI6IniyHM4IBZt5FGYf0+3Xt3p/lKfHiwpeK4LJK14isEiSg2XCCBO5KNg9xpXILAti3ImIXuUhMGn8BbG86vClSKG6gXsy1WBu9oHR7xGl6i9LV16pZxgMqwZQghNp6wVTlc5V6vOB3WkF84ceE9C8/XigKj/RmPcc4LK2mQWizPXr0cqA1XcYJNpN7GrQ8StIRg2Lk7anaXLjDlFjCU5Nw1ln5661kht/jF+1knxGJY7b9dUBlTMUwuOIjul9XWQWVSnRud5s+ah9wIxSkc7QWlJtFQqx1X/eUgkkFDhLQu4jE4/zhiPOurrwO68NUzVCYK9z5VUlmtxVBRRY4fZuiP0OVs/pHhHsRCOx4=;8Gor05hearSCYz1qNlVfOQ=="
 ---
 

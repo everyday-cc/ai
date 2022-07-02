@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-02T19:02:00Z
 originalUrl: "https://techbullion.com/is-driving-in-new-york-all-that-exciting/"
 webUrl: "https://techbullion.com/is-driving-in-new-york-all-that-exciting/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Impacts

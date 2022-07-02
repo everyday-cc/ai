@@ -41,20 +41,6 @@ related:
         width: 810
         height: 522
         isCached: true
-  - title: "Australian appliances giant pauses facial recognition tech over privacy concern"
-    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
-    publishedDateTime: 2022-06-28T03:08:00Z
-    webUrl: "https://www.reuters.com/technology/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern-2022-06-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://www.reuters.com/resizer/E9f6SERqd4JhyOSdc1sETEzMCaQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VIWPZARKTHH5MMB7K3BHAEI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Australian firm halts facial recognition trial over privacy fears"
     excerpt: "Australia’s second-biggest appliances chain says it is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. In an email on Tuesday, a spokesperson for JB ..."
     publishedDateTime: 2022-06-28T07:19:00Z
@@ -71,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australian Firm Pauses Facial Recognition Trial Over Privacy Concern"
-    excerpt: "Australia's second-biggest appliances chain said on Tuesday it was pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action."
-    publishedDateTime: 2022-06-28T04:34:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-28/australian-appliances-giant-pauses-facial-recognition-tech-over-privacy-concern"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "The Good Guys pauses facial recognition trial"
     excerpt: "The Good Guys, Australia's second-biggest appliances chain, is pausing a trial of facial recognition technology in stores after a consumer group referred it to the privacy regulator for possible enforcement action. Use of the technology by The Good Guys ..."
     publishedDateTime: 2022-06-28T20:38:00Z

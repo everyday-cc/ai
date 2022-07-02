@@ -53,6 +53,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Guardforce AI Co. Limited (GFAI) Is On The Launchpad, Waiting For Long-Term Buyers."
+    excerpt: "Guardforce AI Co. Limited (NASDAQ:GFAI) concluded the trading at $0.45 on Friday, July 01 with a fall of -0.70% from its closing price on previous day. Taking a look at stock we notice that its last check on previous day was $0."
+    publishedDateTime: 2022-07-02T18:11:00Z
+    webUrl: "https://stocksregister.com/2022/07/02/guardforce-ai-co-limited-gfai-is-on-the-launchpad-waiting-for-long-term-buyers/"
+    type: article
+    provider:
+      name: stocksregister
+      domain: stocksregister.com
+    quality: 11
 
 secured: "teo7bB4n1sKHvwiOV49jwXsZfdQUHYPzqySNGgF+CN44DuNuAyDcBl/xXppg9o+5MFCCSOf0+IQAK5OaQJPiKj2pL23JfcXVbi+uNU6CcSosmTJYRQ4t1JsBk7f0GQBy99LHur+C8R2gtPzTNRzcJ02W1r3AjFArgUS61RcQ3z0tjSjxed5/LfE5WyITX0mVqIhB/5InoVTQVuUvucnQkOyQ5kg6GHUCR3P24XXX9cnyKMUNbSUZL1ZNPcJlNa0UkPCGDujd2aiAP/NKYxt6Xgir/fP2JnlqOz0pRdxyijmiqbr08wLsk6CCBdP7gbbcdaBHZMJREPMHnTQExmCuIA2hzA0Yl2ztXaoJGAORm5c=;B84dyFg4Ye04RUOxPTkBhg=="
 ---

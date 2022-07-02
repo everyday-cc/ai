@@ -42,22 +42,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Artificial intelligence no longer a fringe tech in India: report"
-    excerpt: "Artificial Intelligence (AI) is no longer a fringe technology in India. Although penetration in application is relatively low, the AI market in the country is witnessing a broad-based awareness and adoption among both enterprises and providers,"
-    publishedDateTime: 2022-06-28T03:33:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/24dnv0/article65575096.ece/alternates/LANDSCAPE_615/artificial%20intellignece.jpg"
-        width: 615
-        height: 383
-        isCached: true
 
 secured: "CecAqLNN41bh1zN+JRai0RC1twVeXWqO3c0SXrAHtuj3zY1PMDXQyDOw7ftaFnjHv4rDWc4jylAT/NqgASFUqRRYJrzLQEhJgenOpwBnXgkeJejXlbf7sxZkC/80gy9gLC63EGV9ZzFd4jHQZNQ3K/4hWraQAX7+BhlGK0v854jIN3g3CwyhejpFHh6EZZauxUjAqTL1WkakgSH8R79+9GKk8yVLkUooBaeHfrDMsLy49L6rIXksdRRdvBJpgM78LXezKI58Gylk6gItbr/YSqOC7QdHxOb3XbIjDRFCdhu2sLj7TrDqnPD9c2VwzhAKUufrSMqoC9t1JDG2Oa+3piHKxwWuZm7cHjgfGRqPryE=;63Qt9+YzbFnXQ+urbqaIwA=="
 ---

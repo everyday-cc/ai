@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan clerics' assembly urges recognition of Taliban govt"
-    excerpt: "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led"
-    publishedDateTime: 2022-07-02T14:40:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/afghan-clerics-assembly-urges-recognition-taliban-govt-86117905"
+  - title: "Taliban seek international recognition after men-only gathering"
+    excerpt: "A Taliban-run gathering of male religious and ethnic leaders ended by asking foreign governments to formally recognize their administration."
+    publishedDateTime: 2022-07-02T20:51:00Z
+    webUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/"
+    ampWebUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: New York Post
+      domain: nypost.com
     quality: 44
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_eaf39e57ac824969aca25a2894ea5d24_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/GATHERING-e1656794769236.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "‘UK government illegally utilizes facial recognition’"
+    excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
+    publishedDateTime: 2022-06-30T14:42:00Z
+    webUrl: "https://www.techzine.eu/news/privacy-compliance/82157/uk-government-illegally-utilizes-facial-recognition/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 41
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_669226153-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Afghan clerics' assembly urges recognition of Taliban government"
     excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
@@ -55,6 +69,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Afghan clerics’ assembly urges recognition of Taliban govt"
+    excerpt: "A three-day assembly of Islamic clerics and tribal elders in the Afghan capital concluded Saturday with pledges of support for the Taliban and calls on the international community to recognize the country's Taliban-led government."
+    publishedDateTime: 2022-07-02T15:56:00Z
+    webUrl: "https://apnews.com/5bc8d1556b3e68df75bb53bdb8ee776d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
   - title: "Taliban's Large Gathering Ends With Calls For International Recognition"
     excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
     publishedDateTime: 2022-07-02T13:40:00Z
@@ -63,6 +86,15 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.com
+    quality: 4
+  - title: "Taliban's large gathering ends with calls for international recognition"
+    excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
+    publishedDateTime: 2022-07-02T19:55:00Z
+    webUrl: "https://www.investing.com/news/world-news/talibans-large-gathering-ends-with-calls-for-international-recognition-2843424"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
     quality: 4
 
 secured: "QTXie9+bsqHJK6cTJLaz5gVTrOQfRlANO0kPSJmUcB47x4G0gXAXr5acB7jbLyjxSHrn8rVFav/nfGNgnhxtxzJZnAjJdDVcYdR8fbvMgqEY5QKF/WqR/zYamtSnfrr4GUJOMAXMn0zX73L7EfIxPeACprc8GLRek0RV1QpC01RfV7lGUOTsabAdko+lU4PSL51vHQ7r6GpCc+N2q87IebEPOB/jt6K1Yevh1YlFV3yLfDf7kDRsqMMVRtyphPUtz/NsfZmwnqhoJaZqpOREvUbOcCOQSjKfVIl52EqXApEDqdwAqYVou+/2/0nWn7bqI3MysHpDK5VjYYf2fzJVvtwytCa9/SOVj0cbdeD7EJuBrUKKRvQtdzMLsCQWbT4bF9dQPYr1B8RaD8ABxWFklgaCI9YiNd9mYrTL/isPX8JqbT14avJUxSxJz51ifT4qa1Da6fBCw9LHv3bis9kXZzvkcQdM2MOJ/zNk9LNwbpqPsY50FjhN8im1jbUJulLUkcJDNBBe9VH4ER9ShV1cwg==;Dcz3Sga+NFtvyj7RT0jbMQ=="

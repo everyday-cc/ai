@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-co
 webUrl: "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Guardforce AI Co. Limited (GFAI) Is On The Launchpad, Waiting For Long-Term Buyers."
+    excerpt: "Guardforce AI Co. Limited (NASDAQ:GFAI) concluded the trading at $0.45 on Friday, July 01 with a fall of -0.70% from its closing price on previous day. Taking a look at stock we notice that its last check on previous day was $0."
+    publishedDateTime: 2022-07-02T18:11:00Z
+    webUrl: "https://stocksregister.com/2022/07/02/guardforce-ai-co-limited-gfai-is-on-the-launchpad-waiting-for-long-term-buyers/"
+    type: article
+    provider:
+      name: stocksregister
+      domain: stocksregister.com
+    quality: 11
 
 secured: "fwqeq4R7e868Kp0eg2zUCq2sCgo87OcIYx87Qgel83FR82Hnn9ksstS9f9RV5dyvf0dAsMlMkynwkLejhk47agBKj5JlfvEOBGd2nv1kWHZWIaSptWOqg8z3tF0xnkrVs/7jEwOxPjkYpnRyyTQWOYn9pD96NH6ZWpTIdzQLt6xBkcpxsX81nyktmtCbkXCl9gPnZcvd5CoDkMpZFYwnMaVKG0CKxi0bz4aqigqFOvDKkg8EtGJtU5UY8KQZIR03YrZMWUywfxcxhNeo1cuzQdYkY+LWZrRHarOkv8ZmICq7LhQuLw8mjwRshghe03+X9XkTtyVkgXrRhr5aAX0fKPceTp/h9LNF9tDulij1xCk=;+qvKhzBodCt0OldMLmkQDA=="
 ---

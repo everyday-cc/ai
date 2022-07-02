@@ -18,29 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "SturdyAI Raises $3.1 Million to Strengthen its AI-led Customer Intelligence and Automation Platform"
-    excerpt: "Now using AI and automations businesses can proactively understand whether their customers are likely to churn, which features will entice them to renew, are they experiencing bugs, are they happy or not, and much more.,\" said Lawson DeVries, Managing ..."
-    publishedDateTime: 2022-06-28T11:29:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sturdyai-raises-3-1-million-to-strengthen-its-ai-led-customer-intelligence-and-automation-platform/article_6e3db0f9-cf7e-5d26-b586-918698b4a58e.html"
+  - title: "Bosch highlights AI, IP camera, IP public address communication and access control systems"
+    excerpt: "Bosch, the German technology giant, recently showcased advancements in the fields of CCTV, access control, public address, voice alarm, conference and intrusion systems in Doha."
+    publishedDateTime: 2022-07-02T21:04:00Z
+    webUrl: "https://www.gulf-times.com/story/720378/Bosch-highlights-AI-IP-camera-IP-public-address-co"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 27
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://www.gulf-times.com/Content/Upload/Slider/7202230329706981308.jpg"
+        width: 620
+        height: 355
         isCached: true
-  - title: "AI Squared raises USD 6M in funding for its AI integration platform"
-    excerpt: "AI Squared Inc., an AI startup, has announced that it has raiused a USD 6 million seed funding round from NEA and Ridgeline Partners."
-    publishedDateTime: 2022-06-28T12:30:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ai-squared-raises-usd-6m-in-funding-for-its-ai-integration-platform/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 17
 
 secured: "OogD+UooUC8LLb0TGQB6eUZ+XokbbAI3IJdtXzp+C7EPYg76g7yjURx8Wu+W133A+tRzaCFhB5+X5yX4yNN1VOtNtAsGQo7gqM1/7v+aIewK0aS9fGp0BpYMaxELgZlZe5w/j31kneA0U56X52kAS8vCbb262saLWL9Zi+fGtqPph3LmAaDDnVpzvrL/2wBgxTdEPTMUUFyjsZlllyuG7X6L4Ae+MKZGhI2lK8jOb20l7Svknk2E7dzbSs9SKZU/mHYpUEg5e18c8czg6xwOggtE3Cq8lGxeEoTml1+afRDz/QF7Rk0YFOsLgqOnhK6suFvE7I6LWIieEjexcIJEQaBz9mdqKs8tyUW4UUb0MUsOc0qyFcRmKiB4CkxbEceTi3GkZldCzCXH3kjZYZjQrbbOkuooev44YByFvS7SJdauUGDKu4Xm6yVtZjQmpgcK0jA4lvGU+JOm2n8V86J6WM06J4nC6oj5y6YR5VEb3hJE6c7BA5WLohcKTZFf2WiuX3y4jC9ZxWWrdoJCbjIJ0w==;wNFKdYKnyeXgu85hgMcyKA=="
 ---

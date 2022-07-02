@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-02T18:42:00Z
 originalUrl: "https://www.pakistantoday.com.pk/2022/07/02/has-dmc-host-conference-on-next-generation-healthcare/"
 webUrl: "https://www.pakistantoday.com.pk/2022/07/02/has-dmc-host-conference-on-next-generation-healthcare/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Pakistan Today

@@ -2,48 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-06-23-eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program.md",
-      "title": "Eigen Technologies Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards Program",
-      "excerpt": "Awards Program Honors Standout AI and Machine Learning Solutions and Companies NEW YORK & LONDON--(BUSINESS WIRE)--Eigen",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/",
-      "originalUrl": "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program-2/amp/",
-      "publishedDateTime": "2022-06-23T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-23-how-babies-can-unlock-the-next-generation-of-artificial-intelligence.md",
       "title": "How babies can unlock the next generation of artificial intelligence",
       "excerpt": "“These exciting developments have been achieved thanks to machine learning, which uses enormous datasets to train artificial neural network models. However, progress is stalling in many areas ...",
@@ -1145,6 +1103,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-global-gene-therapy-market-report-to-2031-players-include-novartis-bluebird-bio-spark-therapeutics-and-cellectis-researchandmarketscom.md",
+      "title": "Global Gene Therapy Market Report to 2031 - Players Include Novartis, Bluebird Bio, Spark Therapeutics and Cellectis - ResearchAndMarkets.com",
+      "excerpt": "The \"Gene Therapy Global Market Report 2022, Vector, Application, End Users\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global gene therapy market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_88f29db6-7e59-5f35-92d9-aba5d3a3dc1f.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_88f29db6-7e59-5f35-92d9-aba5d3a3dc1f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

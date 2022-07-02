@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 720
         isCached: true
 
-secured: "AatSkbFXGPMvWFJ2dTUUdtrdoGif0w8lv5+MxBxxKZ6jDKg9iZx4e8W0j+f9yMDfnVnlT2v7sjHQotbV1LaQ+HeF6bN/28B7T9LjsQqn2pgX1O3ctYt3LN2dqtvOAiuEliVAT3rwLLdDHYBJPCdWgtZLf/UtJ9iICUMoC4/wxS43VWbCUx+WfogWXKBo42Ff/XvFHujOGi0Ltmi8tR1s+QuhzSOkLPPhCBa5/UU5VtnsTRr3EpJ9YudMbHNodZISM219EWVaYUJtHoVD/X2CvANhbNNTCkqeVVjBQikrlihhqeW7IUYPLxI3ch9O7C1u3v8mLwf93iemuIvM63VJVhODnYl6hvIOseELIapv6gk=;AlzbgBGo+zASfjVgLcl5vw=="
+secured: "pd6/vo3SeHdhm9nP+qHgTkVrMzb8lerbGH4MwxnEtjyzjG1RmOEkxBLIM08qyYjl49BqOmr1epgxfxr8kaVnxCp944bed3amoJdoC+2tKzVCEaF1CL9OWDprrnJepTRIF6Cx4nX51Iqa7p+9jnPPXSj+6oV9lyE5T2gUVDi4Pe/N+SWCejjuRkwMzEiGE2VMi4E+NtC/pMu1vYOn6EhHce51NcckMnX9sK61Y641g6dUARdXawchlhUo2ym5KJyP3BgLTj6ivxc2B+LXbJYzHZqHq1Y/aoknMrAClhHpnSle5luq7k1zgRiwHr8dKw6eraSQaAr4md+Q2Ja6Fs1iQo67QsG6chFtyu2I7kxeRXj+lxaqJwdnfaurIrCi1cibAHyOIho0fTg+4P9LdFD+NrjbzDLzJKx/F62Nf/ubNZN/I4Xr7dI2szx5Z/BeYUigX0Dgk2WPxQjjuFc/oNk2mzNRgSQh0fhp6aoZK1K1ma55aLaO0u/YQLwHykSs9F4nBQShWu1hBWmhLGJ8ZRo+UA==;wsgH0cQnc5DiJAx/Y3rYtA=="
 ---
 

@@ -2,58 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2022-06-14-churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers.md",
-      "title": "Churn It Down: How Media Companies Can Use AI To Keep And Win Subscribers",
-      "excerpt": "With new challenges for streamers, and longstanding headwinds for many others in media, combatting churn has become more important than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3d955ea7f4b3cb1876076/0x0.jpg?format=jpg&crop=1260,709,x0,y96,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
-      "publishedDateTime": "2022-06-13T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-14-amds-ai-strategy-comes-into-view-with-xilinx-gpu-software-plans.md",
       "title": "AMD’s AI strategy comes into view with Xilinx, GPU, software plans",
       "excerpt": "Analysis After re-establishing itself in the datacenter over the past few years, AMD is now hoping to become a big player in the AI compute space with an expanded portfolio of chips that cover everything from the edge to the cloud.",
@@ -529,6 +477,40 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-artificial-intelligence-market-usd-158170-billion-by-2030-growing-at-a-cagr-of-380-valuates-reports.md",
+      "title": "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports",
+      "excerpt": "Major factors driving the growth of the artificial intelligence ... The new standard is to mimic human intelligence through loop-based automatic learning. Because self-learning robots can conduct ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1023,40 +1005,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-13-artificial-intelligence-market-usd-158170-billion-by-2030-growing-at-a-cagr-of-380-valuates-reports.md",
-      "title": "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports",
-      "excerpt": "Major factors driving the growth of the artificial intelligence ... The new standard is to mimic human intelligence through loop-based automatic learning. Because self-learning robots can conduct ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56294906-artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-06/56294906-artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-13-mit-built-a-new-reconfigurable-ai-chip-that-can-reduce-electronic-waste.md",
       "title": "MIT built a new reconfigurable AI chip that can reduce electronic waste",
       "excerpt": "Is this the end of e-waste? MIT engineers have designed a LEGO-like stackable, reconfigurable AI chip that can be snapped onto a device's internal chip.",
@@ -1143,6 +1091,49 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels.md",
+      "title": "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels",
+      "excerpt": "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Vault-Safe-Open.jpeg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/",
+      "publishedDateTime": "2022-06-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

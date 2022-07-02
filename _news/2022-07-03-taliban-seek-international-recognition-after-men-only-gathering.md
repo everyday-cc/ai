@@ -1,40 +1,32 @@
 ---
 category: news
-title: "Taliban's large gathering ends with calls for international recognition"
-excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
-publishedDateTime: 2022-07-02T19:55:00Z
-originalUrl: "https://www.investing.com/news/world-news/talibans-large-gathering-ends-with-calls-for-international-recognition-2843424"
-webUrl: "https://www.investing.com/news/world-news/talibans-large-gathering-ends-with-calls-for-international-recognition-2843424"
+title: "Taliban seek international recognition after men-only gathering"
+excerpt: "A Taliban-run gathering of male religious and ethnic leaders ended by asking foreign governments to formally recognize their administration."
+publishedDateTime: 2022-07-02T20:51:00Z
+originalUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/"
+webUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/"
+ampWebUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
 type: article
-quality: 4
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Investing.com
-  domain: investing.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/GATHERING-e1656794769236.jpg?quality=75&strip=all&w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
 related:
-  - title: "Taliban seek international recognition after men-only gathering"
-    excerpt: "A Taliban-run gathering of male religious and ethnic leaders ended by asking foreign governments to formally recognize their administration."
-    publishedDateTime: 2022-07-02T20:51:00Z
-    webUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/"
-    ampWebUrl: "https://nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/02/taliban-seek-international-recognition-after-men-only-gathering/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/GATHERING-e1656794769236.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "‘UK government illegally utilizes facial recognition’"
     excerpt: "An independent report urges the UK to stop utilizing live facial recognition (LFR) in open spaces until legislation for biometric technology is in place."
     publishedDateTime: 2022-06-30T14:42:00Z
@@ -81,6 +73,15 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 4
+  - title: "Taliban's large gathering ends with calls for international recognition"
+    excerpt: "A Taliban-run gathering of thousands of male religious and ethnic leaders ended on Saturday by asking foreign governments to formally recognise their administration, but made no signals of changes on international demands such as the opening of girls' high schools."
+    publishedDateTime: 2022-07-02T19:55:00Z
+    webUrl: "https://www.investing.com/news/world-news/talibans-large-gathering-ends-with-calls-for-international-recognition-2843424"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 4
   - title: "Without participation of political figures in jirga, formal recognition of Taliban not possible: Afghan ex-politicians"
     excerpt: "Criticising Afghanistan national assembly, former politicians said that without the participation of political figures at such gatherings, the formal recognit"
     publishedDateTime: 2022-07-01T20:55:00Z
@@ -96,6 +97,6 @@ related:
         height: 420
         isCached: true
 
-secured: "CkVmh5yiw8ql1Oq4yhfBoDqiLxZFHP0hQhHdKbUUSSeFkfYQDmCaCmumSvZe5sEoX05wpdfROgfAWI5F9IzxEXtWWCGXBkQEsdWfoiFNCBEldV3gRYeyS+n1+UmPiHn97qQ6W3a6XYGh8Kc8+Y1OnOw+Hl/pHhzcHRvooq88F3HWscOxYG2+7GtMD0bsZjJcUK9AYfrnjUnuLwMWlJb9FdM6DCE/T/lpqLkrTSvvF3RE8tqFAuMonrYZQu13ldpAwyKzURmYFDRTPkPkOqfCUGtycdcAeaijcuGQ2gP6EB4hu8iJhfFrAmyFFljBCF+OjUGqyp9KoJt3n1clxZWOT+JQmhpbU4vA6YZ/sVtg+YkipheqGZ+FkiX6agggVZeXoEwvtGES5HrwEQHLwG0SXpXgNSWE5s2KkuGmWEIMmU5zEKy1wDkwyUsKty3X2uqgwISsFZbqwUyB/NgjARupVZMjNTqEv2HVtEob48OLM1FcaMj3M3tzBBbSDdoO9p7DfQceJFLCqPz7hj9/XoMmgw==;nO4ixff1sC6pukqP4Eo39g=="
+secured: "cvYrfli0ANR4MT7WC6y7wnbwvsaXTJ4SXZItL2KiJN5r/wgTxKH9kv5+LDOtgms7Bd/i0mZrRhmaYMKMP2rIU3F1Pp4cGxpC722KX9WS9kA9LmduZGDqJ9UMiX13fb+afyW/lmP2s0O7bRgiwb92lqK2Clcbcx7/QOCnKhXKeR4jI3Q0F63SzYw774I5ulq4N810NxeMC+S9Mph5PYCp8lWFzOeO+ffVz8/HIhebh7ff3dmd5Qokt7borPbQOKlPUMUgwIgtpLIbdK2iEX1zv16TP7lftQ3LOiQr2S7S8/WfXqklDuwDPd88UYY1W0qtfkcLlf4uRuJPR6V08xVt7NSAnN5H+NpmvG8+SSig0dY=;4eTUZgFNgw0kf0V9jCyvFg=="
 ---
 

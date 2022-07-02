@@ -53,20 +53,6 @@ related:
         width: 578
         height: 325
         isCached: true
-  - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
-    excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"
-    publishedDateTime: 2022-06-28T05:00:00Z
-    webUrl: "https://www.thebusinessdesk.com/northwest/news/2099738-fintech-provider-signs-sciontec-deal-at-the-spine-as-part-of-huge-jobs-drive"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 21
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/jun_22/The-Spine-workspace-e1656344065506.jpg"
-        width: 1116
-        height: 744
-        isCached: true
 
 secured: "iEXPKrMnLTxFJ+S3yDOmAPyn4pObSL+5F5Y4HPraf9gH+Pi3vafGcSZbqOJFS8XlFKYtHnF0mC+Uf6RcstwfeHWUkOzatLTkzq8fvoW3ljeTspPoo2VWUmjL0tkDOOFKGKjKnM/Dvy5SvyYkrIj7wJw/2KGh9NE/4oYccmbW8KwL/aymDDfhO5vo5GkFmDatPSGJrkvbbr7pTA3+Tbib+lEk5uTNMMsQShzBQEJX15Ja4k+97/93VBnnqsy8MsdiYNkAd3za888K5h5+l8kSeR7bqmWvxIp2qsBKD3CPdy1RRRCbBFg1Pknfq8BJECMEj+iUGmkbd4gdISaL6OWK9Pxao48srDSFWJPvaQQHuPc=;s5QtbDfeObm2tVCKeB2mCw=="
 ---

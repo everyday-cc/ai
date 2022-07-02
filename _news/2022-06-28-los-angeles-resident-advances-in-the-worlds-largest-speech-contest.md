@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-28T11:01:00Z
 originalUrl: "https://www.caledonianrecord.com/news/national/los-angeles-resident-advances-in-the-world-s-largest-speech-contest/article_18abb0be-b8af-5d52-b369-4318fdf6a372.html"
 webUrl: "https://www.caledonianrecord.com/news/national/los-angeles-resident-advances-in-the-world-s-largest-speech-contest/article_18abb0be-b8af-5d52-b369-4318fdf6a372.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Caledonian Record

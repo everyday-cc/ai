@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/topics/articles/2022/06/30/452727-an-expone
 webUrl: "https://www.tmcnet.com/topics/articles/2022/06/30/452727-an-exponential-ai-a-quest-deliver-marketing-solutions.htm"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 960
     height: 640
     isCached: true
-
-related:
-  - title: "5 Business Solutions Where AI Is An Ideal Choice"
-    excerpt: "Business Solutions using AI AI technology can be applied in various use cases across enterprises including healthcare, sales, HR, activ"
-    publishedDateTime: 2022-06-28T01:14:00Z
-    webUrl: "https://menafn.com/1104441699/5-Business-Solutions-Where-AI-Is-An-Ideal-Choice"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-06/27/EP_d4e06image_story.jpeg"
-        width: 1129
-        height: 628
-        isCached: true
 
 secured: "KDbogxsYYDdWVo39JINf/3cqly7GzbcdyU1LwDXM60eNlYWCa5C7YCxILdO8t/uT/4Y++84RX6gQxmtu5eUIHgJTqp2o9h+daM/tDLCTvk0NP+oitRXyFSXe7eLlttxwN5XQvjk6NlGpfd+GZqWbloOeDMVSi5RnwJMKiKkwi25Kh3I/xi8elufPHRFunkBVXqm2yiAufd+UJrZJxuxCQqA71Yp1OqxKmLJPhAolDTDLjVXe4O+RihnOhQwIR61UvFbg409Rak0f4Dm8SUD4tqwXkHFsLYKx6GcAKHbeliPL1g5eT1oQ7b85YWMCRQVJifSle3CSVgT3Hm7fgKj4DGsNZy407ZGerc5k8J8BXe0X7WQrc/o6q7YpBEh4IyX0LmIIpfJB4yF8gTLam2pYU9MZgyOGlre8LOb54k928xDSs7/QAxjEKhBh1sZyf+ZURK5QfP22zgMKEON7A78wNBBn7oD38EjuSpbdyBTlv0CGx7kdyYKGiPCsB1pbmqsS0/vcrTesx9/tcYh19Z0cdg==;zxeQGzjRfkRXpJZRjyO2zg=="
 ---

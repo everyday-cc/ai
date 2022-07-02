@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-no-longer
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-no-longer-fringe-tech-for-indian-companies-bain-company-report-122062800464_1.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Standard
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence no longer a fringe tech in India: report"
-    excerpt: "Artificial Intelligence (AI) is no longer a fringe technology in India. Although penetration in application is relatively low, the AI market in the country is witnessing a broad-based awareness and adoption among both enterprises and providers,"
-    publishedDateTime: 2022-06-28T03:33:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/artificial-intelligence-no-longer-a-fringe-tech-in-india-report/article65573183.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/24dnv0/article65575096.ece/alternates/LANDSCAPE_615/artificial%20intellignece.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Artificial Intelligence no longer a 'fringe' technology for Indian firms"
     excerpt: "Although India only accounts for a small share of the global Artificial Intelligence (AI) market, it produces 16 percent of the world’s AI workforce, according to a recent report jointly published by consultancy firm Bain & Company,"
     publishedDateTime: 2022-07-01T11:44:00Z
