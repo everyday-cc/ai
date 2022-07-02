@@ -21,14 +21,14 @@ website: http://andrewng.org
 twitter:
   username: AndrewYNg
   url: https://twitter.com/AndrewYNg
-  followers: 674203
+  followers: 674214
 
 linkedin:
   url: https://www.linkedin.com/in/andrewyng/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  citations: 203879
+  citations: 204078
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Andrew_Ng
