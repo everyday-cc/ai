@@ -39,20 +39,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
-    excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
-    publishedDateTime: 2022-06-27T10:03:00Z
-    webUrl: "https://www.wheels.ca/features/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters"
-    type: article
-    provider:
-      name: Wheels
-      domain: wheels.ca
-    quality: 39
-    images:
-      - url: "https://images.wheels.ca/wp-content/uploads/2022/06/wh-DriverlessColumn-June25.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Open-sourcing simulators for driverless cars"
     excerpt: "MIT researchers deployed the learned controller in a full-scale autonomous vehicle in the real world after successfully driving 10,000 kilometres in simulation."
     publishedDateTime: 2022-06-30T05:30:00Z

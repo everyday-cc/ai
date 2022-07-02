@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028"
-    excerpt: "Market Trends for Machine Learning Courses Market Insights and Forecast to 2028 from 2022 to 2028 According to the"
-    publishedDateTime: 2022-06-27T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27"
+  - title: "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030"
+    excerpt: "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ..."
+    publishedDateTime: 2022-06-27T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -42,19 +42,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Edge Computing AI Chips Market Size 2022 Investigation Report by Consumption, Drivers, Trends, Forces Analysis, Market Dynamics and Forecast to 2028"
-    excerpt: "Jun 29, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Edge Computing AI Chips"
-    publishedDateTime: 2022-06-29T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-size-2022-investigation-report-by-consumption-drivers-trends-forces-analysis-market-dynamics-and-forecast-to-2028-2022-06-29"
+  - title: "Machine Learning Market 2022 Emerging Technologies, Global Growth, Share, Industry Size, Major Manufacturers, Regions, and Forecast to 2025"
+    excerpt: "Global “Machine Learning Market” research report includes market size estimates, consumer growth, revenue share"
+    publishedDateTime: 2022-06-29T06:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-emerging-technologies-global-growth-share-industry-size-major-manufacturers-regions-and-forecast-to-2025-2022-06-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 25
-  - title: "Machine Learning Operations Market Size, Share, Future Scope, Competitive Landscape, Latest Innovation and Forecast Report by 2028"
-    excerpt: "Machine Learning Operations (MLOps) is the process of taking an experimental Machine Learning model into a production system. The word is a compound of \"Machine Learning\" and the continuous development practice of DevOps in the software field."
-    publishedDateTime: 2022-06-29T19:26:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-6-29-machine-learning-operations-market-size-share-future-scope-competitive-landscape-latest-innovation-and-forecast-report-by-2028"
+    quality: 15
+  - title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-07-01T16:13:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-1-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
     type: article
     provider:
       name: Daily Herald

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 29 Fintech Events To Attend in DACH in H2 2022"
-    excerpt: "financial services and fintech professionals to discuss how integrated solutions are shaping the future of digital banking. Leading professionals from global brands will be in attendance to share their experiences and discuss trending topics such as AI, ML ..."
-    publishedDateTime: 2022-06-27T10:08:00Z
-    webUrl: "https://fintechnews.ch/fintechgermany/top-29-fintech-events-to-attend-in-dach-in-h2-2022/53474/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/06/Top-29-Fintech-Events-To-Attend-in-DACH-in-H2-2022.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine"
     excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
     publishedDateTime: 2022-06-28T07:03:00Z

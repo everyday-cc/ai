@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "DALL-E Mini Is the Internet's Favorite AI Meme Machine"
-    excerpt: "The viral image generation app is good, absurd fun. It's also giving the world an education in how artificial intelligence may warp reality."
-    publishedDateTime: 2022-06-27T11:00:00Z
-    webUrl: "https://www.wired.com/story/dalle-ai-meme-machine/"
-    ampWebUrl: "https://www.wired.com/story/dalle-ai-meme-machine/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-ai-meme-machine/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/62b63286e0a13316321d2421/master/w_1680,h_979,c_limit/AI-Meme-Machine-Dall-E-Mini-Craiyon-3-Business.jpg"
-        width: 1680
-        height: 979
-        isCached: true
   - title: "How to make AI art: DALL-E mini, AI Dungeon, and more"
     excerpt: "AI art encompasses everything from text adventures to AI-generated images produced by DALL-E Mini and Latitude Vantage, as well as text-to-speech apps that will \"speak\" in the voice of your favorite characters."
     publishedDateTime: 2022-06-29T10:45:00Z

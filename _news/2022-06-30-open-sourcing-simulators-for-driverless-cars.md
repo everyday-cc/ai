@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
-    excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
-    publishedDateTime: 2022-06-27T10:03:00Z
-    webUrl: "https://www.wheels.ca/features/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters"
-    type: article
-    provider:
-      name: Wheels
-      domain: wheels.ca
-    quality: 39
-    images:
-      - url: "https://images.wheels.ca/wp-content/uploads/2022/06/wh-DriverlessColumn-June25.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
 
 secured: "Zh97neAkdUNOoVxYD5gqcAclnATB//d7/O3VeXTdTp2cWU7DXVi4DPQXhgXIKz58zr4V9WUj1iTaLVLjOZQen8VvaXhE920ClFRAGgapejBeDa5yRIKrylu1qTVvAzNpPHvKChlQsY/8SRInNyvy5ehfTopHIEuSqj8feFOGrV8S/0tC4pW++H0QFCeea8dHvHZqiE+LisX2zV/UDre7+uEcjGTxcDlWbnMYW4tSgRvxo8dMLtAjd5HuY7xpKONk0nyYWF/Rs6fLEUwGcW1nkvOtRtd8Y3/pbvEwIx7kI4LR1zvsIUeVYv7ynkjjUM49KBfp7tZqB7h4eDjFic06Yq0YwS7lwcjcGuyuaH7uipHPlL7tT/cQ9wg2pmzaLcTCYMRCMde8G35kxEXHqjRAVLV7rqbdjqPTGfPm0QOgUcyIpLLql3FERZNa1HWOp2oBOyy7tLsJPBkJUXw50bpVFfT8m94eT26H1NH4gWcbNVcg0Lr/5Gx6IsVEHiBUA2hTrI84xPoa3Xh1M869yiRNwQ==;pZCZo6WeVncLDN0qOxqjjQ=="
 ---

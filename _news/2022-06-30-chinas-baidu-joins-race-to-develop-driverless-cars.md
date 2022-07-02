@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins
 webUrl: "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-06/GettyImages-1236906074.jpg?h=1d34674f&itok=fmXAqAhQ"
         width: 1200
         height: 628
-        isCached: true
-  - title: "If we’re ever going to accept driverless cars, a trusted brand matters"
-    excerpt: "Marketing professor lets us in on what his research found it will take for people to embrace autonomous vehicles."
-    publishedDateTime: 2022-06-27T10:03:00Z
-    webUrl: "https://www.wheels.ca/features/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters"
-    type: article
-    provider:
-      name: Wheels
-      domain: wheels.ca
-    quality: 39
-    images:
-      - url: "https://images.wheels.ca/wp-content/uploads/2022/06/wh-DriverlessColumn-June25.jpg"
-        width: 2121
-        height: 1414
         isCached: true
   - title: "Open-sourcing simulators for driverless cars"
     excerpt: "MIT researchers deployed the learned controller in a full-scale autonomous vehicle in the real world after successfully driving 10,000 kilometres in simulation."

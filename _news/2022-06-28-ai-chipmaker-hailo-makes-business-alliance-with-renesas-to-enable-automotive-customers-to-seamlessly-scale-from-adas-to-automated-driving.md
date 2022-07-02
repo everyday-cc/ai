@@ -7,7 +7,7 @@ originalUrl: "https://enterprisetalk.com/news/ai-chipmaker-hailo-makes-business-
 webUrl: "https://enterprisetalk.com/news/ai-chipmaker-hailo-makes-business-alliance-with-renesas-to-enable-automotive-customers-to-seamlessly-scale-from-adas-to-automated-driving/"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "AI Chipmaker Hailo Collaborates with Renesas to Enable Automotive Customers to Seamlessly Scale from ADAS to Automated Driving"
-    excerpt: "Joint solution is available now to enable powerful, efficient and safe automotive ECUs TEL AVIV, Israel, June 27, 2022 /PRNewswire/ -- Hailo,"
-    publishedDateTime: 2022-06-27T09:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-chipmaker-hailo-collaborates-with-renesas-to-enable-automotive-customers-to-seamlessly-scale-from-adas-to-automated-driving-1031551082"
+  - title: "Renesas and Cyberon Partner to Deliver Integrated Voice User Interface Solutions for Renesas RA MCUs Supporting Over 40 Global Languages"
+    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Cyberon Corporation, a leading embedded speech solution provider, today announced that they have partnered to deliver voice user interface (VUI) solutions for customers using Renesas' entire RA MCU line."
+    publishedDateTime: 2022-06-29T16:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/29/9630773.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "tXnrMZ+l4x3tdBv+16ltjdNVkdnQ1v86Tg3XA3uQq9uPSW4LReszzl3Ns2+Zvt65wKUqW1BIy2MdbI0B+eZ9CyyWDA/hryLCl10y3qjdImE74yEFM/sH8WuCnWFJ1UPYs3AZmp8SmG65sTxhUEc/rG8DYox95znSfyFOeX4ZZhT7lm7HpJEmwLdlT8OggFQIxiRnSoc0KXWCdWwLBPngKT9HautAjJp0d0fL2p96x6HvSs5zaiD8q//vxzErDaZ3rvl/Nh9u5vemyesfRb1/iGfst/8GDl2ahKpSV/5+OQ1b4eBDP3f1gXMRmL2rUYUOCDQzwxqugs872xBCB15BA7igLGgJcny/jXb19JeIsiuG0uZyvRyHODf1W34sVva8T+QMdt7kh8p8o3MHRJQMpN+0sea9s1xZF0YcDMm8kgMKXgAgtvwna1fEQfUOC1BDnNkvoDDjmN5pKRjOh9pAjcdvyJGFUVymIbcUEYEoK69E2vQ1erBn05CxbE8Vev4LDi3Iik5CrL/Lv1nzoyE2Tg==;0y8Pw3aKgS3jYBiMoiHi1A=="
 ---

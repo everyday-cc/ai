@@ -129,20 +129,6 @@ related:
         width: 453
         height: 286
         isCached: true
-  - title: "Australian Retail Giants Named In Facial Recognition Tech Complaint"
-    excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers."
-    publishedDateTime: 2022-06-27T09:40:00Z
-    webUrl: "https://www.ibtimes.com/australian-retail-giants-named-facial-recognition-tech-complaint-3553209"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/27/shoppers-walk-past-stores-of-australian-electronic-goods.jpg"
-        width: 1200
-        height: 807
-        isCached: true
   - title: "Australian retailers named in facial recognition complaint"
     excerpt: "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers. CHOICE ..."
     publishedDateTime: 2022-06-27T20:39:00Z

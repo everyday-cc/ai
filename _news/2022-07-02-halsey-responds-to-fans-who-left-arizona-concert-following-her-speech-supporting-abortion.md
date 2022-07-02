@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Halsey responds to fans who left Arizona concert following her speech supporting abortion"
-excerpt: "Halsey doubled down on supporting abortion rights Wednesday while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona. That night, Halsey criticized the recent Supreme Court decision to overturn Roe v."
-publishedDateTime: 2022-07-02T00:58:00Z
-originalUrl: "https://www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
-webUrl: "https://www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
-ampWebUrl: "https://www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
-cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
+excerpt: "Halsey doubled down on supporting abortion rights Wednesday while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona.  That night, Halsey criticized the recent Supreme Court decision to overturn Roe v."
+publishedDateTime: 2022-07-02T00:45:00Z
+originalUrl: "https://www.fox6now.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
+webUrl: "https://www.fox6now.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
+ampWebUrl: "https://www.fox6now.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
+cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: FOX 5 Atlanta
-  domain: fox5atlanta.com
+  name: FOX6 Milwaukee
+  domain: fox6now.com
 
 topics:
   - Natural Language Processing
@@ -38,6 +38,6 @@ related:
         height: 470
         isCached: true
 
-secured: "Djy9I3MyXI8LStrkAFEbnfjL4OzqTwtRCnZ9P4RLpOZYnY7oxaCm1yltTyujlOfoXwFVt/ALxLlgWLmgJWlEddOQ9dyBC/WuMQREZZb5Xc2IGyG9iTKC1tbwk2j/wxiKqB6AiT4jdzfymrtLWHF0EWTwupMtNEK+9MxbDhsjpKAK56TEYAA7jVcfn88MLM3fzEMkEca3DRiX2TPb+lhuKSNor+dix9Yc868TM02OWOYM5xFMur9gVqs9IpzAa8lSug0xyEDb4DpfBT1oIwT9xq2NqH63UXBBqNr+7z3P7d33KkN3sTE23KMt7b5y4SCd/xBYz6SMOL0ejwEu6Anng+KVOh3/eJA+QgP74uszLi9L2zZxufCr1RscaV5om5UK2VyE+mdJ4DpRAEnRIa4CGITt2ncgA30TQXqsLskS0Tb3+ZoX6mzyhjn2AYCx2vEO5muzlH96vHTDsv2s2MTws6js+jCvQjTgYdcG/BRfVmfowyf3qfrFV1LUa23TxZ/72W40N7Cug048O8iHjBIm3g==;b8p3m4x7IlUzB+9tZUor7Q=="
+secured: "xQlkd5KDt96UFmI6t+UfqYb7iW77SeQ6tP7ZNicJ5FMK/HRgpiLZT2jZp72j1FAgHZiQMWl5vhQ7+IrDDUvs+ApoEsMVbSmfa0hsalG2ZBWwgiNTWFdhzKV155mVEAv80iHhZTqIRzDxN5fxy/m28gwTeKPEcGgpr3jLVcr8odcHwW4SG+4JYN+gBfyEqfH4B60MpsjU5F38EWU51xADzTZialRGf+8dJHm8TEVlA/cBnRyijhveY+dSWa2tqWO3T6Tocfc9T5ZmtcvXS15qkyzvoU3x6xCKJKHbTF0L4nTnaUfBVfZuRitDVDlBgkstScwhffHkYzuy0a3w0SRkkuoSsk8U8VXhX57YN5JwWW5SUKamnfV3pIV/wUpqfz8tFezKm1mQY5UD1VEPwyeA2ulKLb1wfES8L1MVn0ehlKCB0Pm8TXGZ8ovKZW0wNOILrljbiyin2Lr5mJE6SS4dArZWut82drsbAyOfQw1wW91y9xbQ7m3YRKZ4NLk65Qb3m0Y81OdnThnYxnkXlfad/g==;TGBu8NlPX4ogdzSYdnJx4Q=="
 ---
 

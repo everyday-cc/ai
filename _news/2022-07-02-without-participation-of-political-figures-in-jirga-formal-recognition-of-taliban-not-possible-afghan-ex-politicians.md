@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Without participation of political figures in jirga, formal recognition of Taliban not possible: Afghan ex-politicians"
-excerpt: "Criticising Afghanistan national assembly former politicians said that without the participation of political figures at such gatherings the formal recognit"
-publishedDateTime: 2022-07-01T21:06:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272607303/without-participation-of-political-figures-in-jirga-formal-recognition-of-taliban-not-possible-afghan-ex-politicians"
-webUrl: "https://www.bignewsnetwork.com/news/272607303/without-participation-of-political-figures-in-jirga-formal-recognition-of-taliban-not-possible-afghan-ex-politicians"
+excerpt: "Criticising Afghanistan national assembly, former politicians said that without the participation of political figures at such gatherings, the formal recognit"
+publishedDateTime: 2022-07-01T20:55:00Z
+originalUrl: "https://www.malaysiasun.com/news/272607303/without-participation-of-political-figures-in-jirga-formal-recognition-of-taliban-not-possible-afghan-ex-politicians"
+webUrl: "https://www.malaysiasun.com/news/272607303/without-participation-of-political-figures-in-jirga-formal-recognition-of-taliban-not-possible-afghan-ex-politicians"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
   - Natural Language Processing
@@ -24,6 +24,6 @@ images:
     height: 420
     isCached: true
 
-secured: "L0n5l7z0M1lPY8rE71JDGivqvkvQLbK4IktJk0KvrtpnM2TznxgqDyn2jvUF6TaCK5oERKWl7hwS2CaQeHxfSm4AvNxoB+r68CfR0vvB7aN3RodUK/0Jqg40QousG6LhrYbuw/4uufeaASWf7s+mPHB8MMzGef74meDsOFqH5SDyXeFqBTQmCl5egjTZTolhjXHYVd65WsjrkeaHDL8GN6q7zZDAvioDEuyh05wIyxK2+7nCshFckzpKzAa8K8KOr/sE0xFkrmTLXC4aLiJEx8cahJ/0XfauTtsSePEyYuQrmhb3c/JP3P+7oANmMB5BZWMSKa9Mufn9JD3rpdcAkcTFWdni7JxbuSDX4wrMYOI=;v7DsS38fQoKVmAD9rf8Qzw=="
+secured: "CCPhdEYXPLFsxxplLtd3stPj/KHA+T+O4Ev/iYN911kxegiO48ibpeXbIoK4DuEjrMFVpdPHaf7zy9X3eBu20vcGPs4RXyjvITH4zQKw/z8Nq8pjBAQhEatAnk8FtNytVru+p4yeJzT2zNoaev9r5fiQXptD0Zqh8s2NlPxZIHJlDpuUaEyQOMsohIPysJl5q771Pr0Zr16axtXSxiS8gB22IFVf0iaFiY8Uh1VKrbvlJ/vYag2xkgkm+nrrVHl/NK9POiiFT3zatgOeS5ElcZBj9ABykiAlrmwsqFF0Vv4OZ3Zo4gQ3YSO/76dUwUTux21/tloG1OlMKzDG/WB3cC+fJUga3fDoh1fIr9hZSPI=;rSVYSzdY5EovknQ4WeTtug=="
 ---
 

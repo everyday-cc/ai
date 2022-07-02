@@ -39,20 +39,6 @@ related:
         width: 640
         height: 238
         isCached: true
-  - title: "Top 29 Fintech Events To Attend in DACH in H2 2022"
-    excerpt: "financial services and fintech professionals to discuss how integrated solutions are shaping the future of digital banking. Leading professionals from global brands will be in attendance to share their experiences and discuss trending topics such as AI, ML ..."
-    publishedDateTime: 2022-06-27T10:08:00Z
-    webUrl: "https://fintechnews.ch/fintechgermany/top-29-fintech-events-to-attend-in-dach-in-h2-2022/53474/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/06/Top-29-Fintech-Events-To-Attend-in-DACH-in-H2-2022.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "HP ‘Gets Ahead’ with fintech sitcom"
     excerpt: "Hewlett Packard Enterprise (HPE) and NVIDIA, have released the first episode of their unique fintech comedy mini-series Get Ahead."
     publishedDateTime: 2022-07-01T10:30:00Z

@@ -32,20 +32,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Research Report 2022, Size, Share, Trends And Forecast To 2027"
-    excerpt: "SHERIDAN, WYOMING, UNITED STATES, June 27, 2022 /EINPresswire.com / -- According to IMARC Group's latest report, titled“Artificial Intell"
-    publishedDateTime: 2022-06-27T10:14:00Z
-    webUrl: "https://menafn.com/1104437488/Artificial-Intelligence-In-Healthcare-Market-Research-Report-2022-Size-Share-Trends-And-Forecast-To-2027"
+  - title: "Pharmaceutical Robots Market Size 2022 Top Companies Overview, Share, Growth, Report Analysis and Forecast to 2027"
+    excerpt: "The global pharmaceutical robots market size reached a value of US$ 161.84 Million in 2021. Looking forward, IMARC Group expects the market to reach a value of US$ 305.01 Million by 2027, exhibiting a CAGR of 10."
+    publishedDateTime: 2022-06-27T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pharmaceutical-robots-market-size-2022-top-companies-overview-share-growth-report-analysis-and-forecast-to-2027-2022-06-27"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2022-06/27/EP_00e02image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
   - title: "Machine Learning Market 2022 Emerging Technologies, Global Growth, Share, Industry Size, Major Manufacturers, Regions, and Forecast to 2025"
     excerpt: "Global “Machine Learning Market” research report includes market size estimates, consumer growth, revenue share"
     publishedDateTime: 2022-06-29T06:37:00Z
@@ -55,20 +50,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "Computer Vision System Market Size, Share, Research Report Recent Developments, Growth Strategies, Segment by Type, Region and Future Forecast 2026"
-    excerpt: "Computer Vision System Market Report provides a detailed of Competitive Landscape, Type, Application and Geographical Region. Computer Vision System Market also provides a Sales and CAGR value ..."
-    publishedDateTime: 2022-06-27T10:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-size-share-research-report-recent-developments-growth-strategies-segment-by-type-region-and-future-forecast-2026"
+  - title: "Global Industrial Robot Market Report 2022: Industry Set to Reach $61.09 Billion by 2026 - ResearchAndMarkets.com"
+    excerpt: "Analysis By Industry, By Type, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2026” report has been added to ResearchAndMarkets.com’s offering. The global industrial robot market in 2021 was valued at US$33."
+    publishedDateTime: 2022-06-28T11:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-715506a4e9154d4986cbec51aa69a0d0"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/OPEC-OIL-AFP-1K-e1638460214268-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "tDPVjzMLF4cNRJ+xPkwc9yBfbqKB0+7qewRT6h50A7t/0eWC/Kdz2WDPovqsSsNShg9Ds5JOPlCCQOC5zhRb9DZi1vJwxf8+J24YZqOMeU5iXk1Kis8k+GuRXvhShueFHnDLQFw1ycFGK9JTh2sYf/9CPKBmVAcJHGW05urfj0YOd9WF25riAEqbm1eiqILmwTPiyDsTonAY21QL0s/71mVBtS010vcSzRAUuuJdL7WqlBLyuLpXGo1XZqqQIE4Aw2znzunRrDRoaNb9Pw/dWvSW5XhdL40WBAZxcESrF06R+4MimF6byE9p1HxoUIwXtM4XDY0YjhundWVmqvGThqylp6AffDj735kw/Rr1wyQ=;zj2SAT8gW6LB4ov+rYKZKg=="
 ---

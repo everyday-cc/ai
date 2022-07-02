@@ -2,9 +2,9 @@
 category: news
 title: "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year"
 excerpt: "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft Rising Azure Technology Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
-publishedDateTime: 2022-06-29T13:03:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-328e0559108d4e62b1a3654b7a7a514f"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-328e0559108d4e62b1a3654b7a7a514f"
+publishedDateTime: 2022-06-29T13:22:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-b781cbf426734facaca83471ccaa9aec"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-email-b781cbf426734facaca83471ccaa9aec"
 type: article
 quality: 54
 heat: -1
@@ -133,6 +133,6 @@ related:
         height: 774
         isCached: true
 
-secured: "xglLtqwdXfwzpSU6c8QEhxdjw6E3MscK2F6jRb4ZfXm+9Nz1af5bX0tVjlaQXsu5fVPWjxm42XJheWeJ4l+7FOROUAZFy0tdVIyycvXK2onBM2LZEUbmDkkaTXaOO+H5tXD/YcDx5W/Tg9OonJnon7GyeJ/Vj3IJJt/GgNbJ9DknUD295a4o6B0bIR3ME8iMeRWaVAERdlZkPFGtViR//T+2ABI8nKxw9wW6MXvWxM4wBKtI9FONofSIvAgz3mbghNnf9IFF2s0TepQcLYeVzvPg21qWleY2ZPzNOR5rwKqANzLLX7LJtbn5GPOEipG9SzhPf6KW+wXrg//AKgZhB5oXTyzKcJeqU1DnsA2dALM=;qBKmNNFsEvxjQo3111HgpA=="
+secured: "wQEortkvQN+ESUw2Wks/GHJAVE/5LFJRZcAerzGox1Y6tz6AbwvrHZgVUiqTGJazgnThglYr8t4PnnYTf+UhtFe7zcxlMVvvchXNGtqxGksRZWHbp7NYEyUCYLELNSlZXmXYYYGc/iYAQKo0uwmlDQqxwE77Sx9MWrjZGgRIao8vzY5NYEYatt2mmnGBMn8t4th4K/OFiEZShDgpUU5h9U12KLrFZgfCTCRK6fi1RSxEshwKfp+4P4ciUgaaek+s1jfWJFI3+q4h641Py1qgRGGlyq2NlY1TESWPbQA7KS6mhXgIKIGie1NH8tHcWBBQLycjgInd1fFjhqRn/l5xS3Il8Qvd4pMJvhlKs4D33Q8=;SMf9GB4IxJIauhfi2aCCvA=="
 ---
 
