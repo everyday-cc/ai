@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Bought by Creative Financial Designs Inc. ADV"
-excerpt: "Creative Financial Designs Inc. ADV raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 167.0% in the first quarter, according to the company in its most recent disclosure with the SEC."
-publishedDateTime: 2022-06-28T09:20:00Z
-originalUrl: "https://www.defenseworld.net/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-bought-by-creative-financial-designs-inc-adv.html"
-webUrl: "https://www.defenseworld.net/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-bought-by-creative-financial-designs-inc-adv.html"
+title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%"
+excerpt: "Shares of Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The stock traded as high as $20.57 and last traded at $20.57. 452,"
+publishedDateTime: 2022-07-02T06:12:00Z
+originalUrl: "https://www.defenseworld.net/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2.html"
+webUrl: "https://www.defenseworld.net/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2.html"
 type: article
-quality: 27
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%"
-    excerpt: "Shares of Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The stock traded as high as $20.57 and last traded at $20.57. 452,"
-    publishedDateTime: 2022-07-02T06:12:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 41
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.7% Higher"
     excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT – Get Rating) traded up 0.7% during mid-day trading on Friday . The company traded as high as $37.50 and last traded at $37.40."
     publishedDateTime: 2022-07-02T06:12:00Z
@@ -46,6 +37,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 29
+  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Bought by Creative Financial Designs Inc. ADV"
+    excerpt: "Creative Financial Designs Inc. ADV raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 167.0% in the first quarter, according to the company in its most recent disclosure with the SEC."
+    publishedDateTime: 2022-06-28T09:20:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-bought-by-creative-financial-designs-inc-adv.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 27
   - title: "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
     excerpt: "Wealthcare Advisory Partners LLC lowered its position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the 1st quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-06-30T09:06:00Z
@@ -56,6 +56,6 @@ related:
       domain: defenseworld.net
     quality: 23
 
-secured: "hSJ2+WkbNXNU+kXUxYjmMSur6FLSnbviQ+u3EwifE8lUaeriQbWE00VXytaIcRxsSV0LaG3BY/dSoaRZbwsRi950afykTXbZ+DWGz/nsWeUR3JLNdpu7/GFMxPYkDXa3B6RTVO2IyeLm257U2c4282K9bnJwtOoVggQo1Y8p0HGeQlaeYl0bEhKQvFQJMl5VBoQzZ/OTTsbbBLfb7KmuLeiBlGJXaFq8Bs81hkvwzhaKZSrdpRuws5GF/LH7ZUiBYeULt8x+lgJXFKnGNs7pfruLqKSJvg098NSDbiSK18GrVywSFTnyfOMoQj0jq1OniSki6YGL+qUN6Pt3l9IFRzcz3Nf6Hc32VRZtT7x7eaQ=;Z/5nDOCVYz6N/izWyc/e5A=="
+secured: "y6yE7CJroGqFA5wLnjWAT7uW4zQPBBPAc3tts9fnSdV7arHsOVtbjuQ1oVKP5iIYkDv1PP5Y302OTLj8ViA6IJseZuEjJvEbtHtHNYwiWPwZ8MW0Rpttv5TXeTiOrlPJU//GCo3hspS4dc1p83T/qIFoA/Odj/hQB1ZqlZIBbAJMB9Fjhs8VnZhJHsz4QDf7v/Rxu0dAGTdvKr+FckNVNx014uQ9v/FDLVnDq2znw1K64LSL2ytAtCllEY60lu2vqO8KPxjSIImIYzLaReKb/fagTX1GyG4IYo5cjq/G4gCioWfZTlWWc7e0VWTDZDtAf+SUferi+zmzb0or3jISxAFDt/iDTKskeN09Vj0uYGcY35ikUActAJvSfyrYOqtuqgMG1+5mHgD+Ik3yq2gbzF4R7tMcXQs1sIlJDslyo+4cN/PjSLUCXoOzEhCPD4DSoDC6cqsXY2NQPUUIPEhIdwzaL26FHCPtzZkDnIeH0ObVjqjpYk2hjY276tdGoWlAwr3BBaGuiXnaYKtk7t4sNA==;YtoXjVd05XmIuLiJkl/jSA=="
 ---
 

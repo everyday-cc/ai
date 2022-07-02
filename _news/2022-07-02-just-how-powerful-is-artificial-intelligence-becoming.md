@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Can an AI bot convince you that it's sentient?"
-excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
-publishedDateTime: 2022-06-27T21:00:00Z
-originalUrl: "https://www.bbc.co.uk/programmes/p0chh980"
-webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
+title: "Just how powerful is artificial intelligence becoming?"
+excerpt: "An uncannily human response from an artificial intelligence program sparked a minor panic last month. But just how powerful are machines getting – and should we be worried?"
+publishedDateTime: 2022-07-02T06:01:00Z
+originalUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence"
+webUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence"
+ampWebUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: MoneyWeek
+  domain: moneyweek.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
-    width: 1200
-    height: 675
+  - url: "https://media.moneyweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656597150/editorial/2022/MWE1110.briefing.main_PNA87P.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -88,22 +90,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Just how powerful is artificial intelligence becoming?"
-    excerpt: "An uncannily human response from an artificial intelligence program sparked a minor panic last month. But just how powerful are machines getting – and should we be worried?"
-    publishedDateTime: 2022-07-02T06:01:00Z
-    webUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence"
-    ampWebUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: MoneyWeek
-      domain: moneyweek.com
-    quality: 57
-    images:
-      - url: "https://media.moneyweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656597150/editorial/2022/MWE1110.briefing.main_PNA87P.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "It’s alive! How belief in AI sentience is becoming a problem"
     excerpt: "The phenomenon of people believing they are talking to a conscious entity is not uncommon among those consumers pioneering the use of entertainment chatbots"
     publishedDateTime: 2022-07-02T04:26:00Z
@@ -117,6 +103,20 @@ related:
       - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Can an AI bot convince you that it's sentient?"
+    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
+    publishedDateTime: 2022-06-27T21:00:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
     excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
@@ -133,6 +133,6 @@ related:
         height: 419
         isCached: true
 
-secured: "sLhHJ/nR3Rn+UMqRHh+JjuMIA1Bxi4sebvM8podDr8V00fKFgne8oQOTBRYnrVBZaa38mIipT1fmF704xJ0lcLavPR1wq07WGpdo8GKU6hUrJkZofJbZY3D10GO/wBh/RHHU0kiCASSarbwroXZkgjb32Z3p86z4tJaH64t1/PLSt9VZQec3WP+aNxuYmBg7EODtFnCdRfrZODUqKX08l4PeAq4slwyi9Zw0crDbTViZvuO/AuI1G1euJwj8C50ZIKbZMftTW8+Y6p7TJ1hFp1tqPqZHGB+msnwXfjyc03LejNwtEO3eV+74chaKNFmvbOO6hTaiYQuryhNuRYskWjmHd0ErVmQekzD2LyXzFFQJ9CU1EeStSRX52eLTi5zmxAgr96FqsnEitqXGljiMD4KHXYpQWIl5XnSIZecX7QkEXYKZwdqNuI2W8VHiZiV+a5MsECngdupKDBdOQH56aNnL058KprpqM5gzGjYzjCqwePKyptT460ZTuCZIey6MnyTc/Tsgy1Zw+D5VV+pTCQ==;ETbBWUKmbVx4P6nE30WtJw=="
+secured: "BjO5r2S4vmXuOaehEjiRYh84PMrTJgGR/65GPqp+qrwK3+5peyP1QzI2TYwmZYFPRzAtCKk7Smiq2dM3trAbMdzFYGssxKpopVV54SI1wGIq3ae7pQWe21TRfwl3RfJt5XjifEw2KIr4n1cSaWNK92wR5+K8pHmF4sHAoQ72hp8pKXhL0KC3nNAL3eEzPvF+AWU8l2MfYlLefiMLk0bN45bJWqSSgUhqBS/OeXlSIBEOrVfQ/lfc0U3xp01wieEw3Farcc0gSisF+lRtO1TV6tkAhmhO3JCW+JfQFT8kULam849lX4Ro3VzNxvu9CbI623Bqyl3EdZYnld6IL4E7Ghwx9FfuvxbwaM3zxt9PXEg=;DA753nOhCx1k1waFUKso4g=="
 ---
 

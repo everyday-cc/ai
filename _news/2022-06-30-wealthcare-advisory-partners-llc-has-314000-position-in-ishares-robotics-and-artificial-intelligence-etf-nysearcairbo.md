@@ -19,6 +19,24 @@ topics:
   - AI
 
 related:
+  - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%"
+    excerpt: "Shares of Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The stock traded as high as $20.57 and last traded at $20.57. 452,"
+    publishedDateTime: 2022-07-02T06:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 41
+  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.7% Higher"
+    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT – Get Rating) traded up 0.7% during mid-day trading on Friday . The company traded as high as $37.50 and last traded at $37.40."
+    publishedDateTime: 2022-07-02T06:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-7-higher.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 37
   - title: "AdvisorNet Financial Inc Purchases 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
     excerpt: "AdvisorNet Financial Inc lifted its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the 1st quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
     publishedDateTime: 2022-07-01T09:04:00Z

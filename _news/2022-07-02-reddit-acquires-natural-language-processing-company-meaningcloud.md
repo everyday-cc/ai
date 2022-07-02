@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-p
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 575
     isCached: true
+
+related:
+  - title: "Reddit buys natural language processing company MeaningCloud"
+    excerpt: "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors."
+    publishedDateTime: 2022-07-02T07:18:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35726,msid-92614445/reddit.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "CvtRiLPs0UyeM0DUnKr6IAIj8uROzRPqY5koODVSrxYMMzppo9BndRdNH+YFNEb783NlTmrusTuiC8DH9V3doClqM/4LM8z+Ci2kpsqyd4D7odGyM74bWhs2Km9BZmtrY9grkYuE0qAW24ewv/LuODse88cE1xccpwc+7Xqxl1Oj+W0eFODECkrOrjJ1/aTJufxiqGo8LSF8D1z9dHqiWVMc+dVATu8bVuxXf2+EzT123Ri+Roz2d2mEplPGCOl0I068f5BVnEdVoajcPjJWhcPtG2mPNTV9YnDA8i787l8A2jZFZqGXJn6mhf7Wy0Rkt+1QwEFpQ1HeYLKRWe7814hbqm4fkDantIQ1LC+kL7HyUMYSoVm4vmnY0+qr4uInDlEtmGCs14AmK35iFV4rPXRpGTnBSe15X9DSHndQh4VHu/5d/cBz1uja+QArUQLLBWZnhIY0+AMGC9wYtoptPlZ0HJhR6NW73RTkVObwtF2+1h4V/rjkAcafXcFQVk5zcICQCjXQJ3XrrUwreIatyw==;H78bm7fv/38gJm2VopAy6w=="
 ---

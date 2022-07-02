@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-beco
 ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
 type: article
-quality: 87
-heat: 147
+quality: 89
+heat: 159
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
@@ -73,6 +74,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-92587380,imgsize-87554,width-1200,height-628,overlay-etcio/it-s-alive-how-belief-in-ai-sentience-is-becoming-a-problem.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Just how powerful is artificial intelligence becoming?"
+    excerpt: "An uncannily human response from an artificial intelligence program sparked a minor panic last month. But just how powerful are machines getting – and should we be worried?"
+    publishedDateTime: 2022-07-02T06:01:00Z
+    webUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence"
+    ampWebUrl: "https://moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/investments/stocks-and-shares/tech-stocks/605052/how-powerful-is-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: MoneyWeek
+      domain: moneyweek.com
+    quality: 57
+    images:
+      - url: "https://media.moneyweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656597150/editorial/2022/MWE1110.briefing.main_PNA87P.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "It’s alive! How belief in AI sentience is becoming a problem"
     excerpt: "The phenomenon of people believing they are talking to a conscious entity is not uncommon among those consumers pioneering the use of entertainment chatbots"

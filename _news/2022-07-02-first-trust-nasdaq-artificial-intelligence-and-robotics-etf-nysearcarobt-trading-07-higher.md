@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Bought by Creative Financial Designs Inc. ADV"
-excerpt: "Creative Financial Designs Inc. ADV raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 167.0% in the first quarter, according to the company in its most recent disclosure with the SEC."
-publishedDateTime: 2022-06-28T09:20:00Z
-originalUrl: "https://www.defenseworld.net/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-bought-by-creative-financial-designs-inc-adv.html"
-webUrl: "https://www.defenseworld.net/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-bought-by-creative-financial-designs-inc-adv.html"
+title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.7% Higher"
+excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT – Get Rating) traded up 0.7% during mid-day trading on Friday . The company traded as high as $37.50 and last traded at $37.40."
+publishedDateTime: 2022-07-02T06:12:00Z
+originalUrl: "https://www.defenseworld.net/2022/07/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-7-higher.html"
+webUrl: "https://www.defenseworld.net/2022/07/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-7-higher.html"
 type: article
-quality: 27
+quality: 37
 heat: -1
 published: false
 
@@ -15,8 +15,8 @@ provider:
   domain: defenseworld.net
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 related:
   - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%"
@@ -28,15 +28,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 41
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.7% Higher"
-    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT – Get Rating) traded up 0.7% during mid-day trading on Friday . The company traded as high as $37.50 and last traded at $37.40."
-    publishedDateTime: 2022-07-02T06:12:00Z
-    webUrl: "https://www.defenseworld.net/2022/07/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-7-higher.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 37
   - title: "AdvisorNet Financial Inc Purchases 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
     excerpt: "AdvisorNet Financial Inc lifted its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the 1st quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
     publishedDateTime: 2022-07-01T09:04:00Z
@@ -46,6 +37,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 29
+  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Bought by Creative Financial Designs Inc. ADV"
+    excerpt: "Creative Financial Designs Inc. ADV raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 167.0% in the first quarter, according to the company in its most recent disclosure with the SEC."
+    publishedDateTime: 2022-06-28T09:20:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-bought-by-creative-financial-designs-inc-adv.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 27
   - title: "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)"
     excerpt: "Wealthcare Advisory Partners LLC lowered its position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the 1st quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-06-30T09:06:00Z
@@ -56,6 +56,6 @@ related:
       domain: defenseworld.net
     quality: 23
 
-secured: "hSJ2+WkbNXNU+kXUxYjmMSur6FLSnbviQ+u3EwifE8lUaeriQbWE00VXytaIcRxsSV0LaG3BY/dSoaRZbwsRi950afykTXbZ+DWGz/nsWeUR3JLNdpu7/GFMxPYkDXa3B6RTVO2IyeLm257U2c4282K9bnJwtOoVggQo1Y8p0HGeQlaeYl0bEhKQvFQJMl5VBoQzZ/OTTsbbBLfb7KmuLeiBlGJXaFq8Bs81hkvwzhaKZSrdpRuws5GF/LH7ZUiBYeULt8x+lgJXFKnGNs7pfruLqKSJvg098NSDbiSK18GrVywSFTnyfOMoQj0jq1OniSki6YGL+qUN6Pt3l9IFRzcz3Nf6Hc32VRZtT7x7eaQ=;Z/5nDOCVYz6N/izWyc/e5A=="
+secured: "icFt9YrnxmSZxMR0nOYMfmYroxLDcItNBT6ZLtF3ib6hC0EIckSQ3ojRT1nOZH2U4xJcOut19hfvTLg7xWFw5s5D6Dz6WUUvnNf4GyXRp0k5R0TfCed8vB0Nc6hpChPB0/bQuoY/mPaJ5DQyGXmEuAZNUxpMOf8ZHD7zKYmm65Ow6fD2Dp+EH3V39RcDSRpBqtxZDTpEhSIbP5mOvewtHsfZsahwEuZMUovpBWSg5AorAHD0veaw4YVQCkcuQ+bCWYJQ9FwM2FeWvopLSVUHrL1xQdcOfrYutn1fWEb0eA6MC/fJ9h7AKqe5xpt9/YRJ1uS0tEwM1xGKX4afhc5QPnbJi0bUwIAr9+DX9mVRGzNfBSDqCAR0p93OktJndAsd+tsDY/MtpLKdnu0V9mEszSmQfiF1OF+TNpA98nWZSI5aGOys9OMDR6ETvmjHU4pEO3I7NFxkMek/2Zz0J+OMS4f0zuzYiTiv6EQJqn+t7F1762MZH7I1kuukRDoJlHxo1wkt1fAhZyFhTrla8Hfs5w==;CgoxcgSL3WXWHgD1V/vpHA=="
 ---
 

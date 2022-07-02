@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-
 webUrl: "https://www.slashgear.com/915117/bmws-newest-electric-car-is-self-driving-in-an-unexpected-way/"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

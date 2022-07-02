@@ -61,20 +61,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 43
-  - title: "AI learns to play Minecraft by watching 40,000 hours of YouTube"
-    excerpt: "OpenAI's latest AI learned to play Minecraft by watching 40,000 hours of YouTube. The company, which specialises in"
-    publishedDateTime: 2022-06-27T14:18:00Z
-    webUrl: "https://www.eurogamer.net/ai-learns-to-play-minecraft-by-watching-40000-hours-of-youtube"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 37
-    images:
-      - url: "https://assets.reedpopcdn.com/minecraft-wild-update_utcjZFH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/minecraft-wild-update_utcjZFH.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "This AI learned to play Minecraft after watching 70,000 hours of YouTube videos"
     excerpt: "An AI has learned to play Minecraft after watching YouTube videos of people playing the game for 70,000 hours. If movies have taught us anything, it's that we're inevitably hurtling toward a future where robots will become so advanced that they'll rise up against their creators and wage war on humankind."
     publishedDateTime: 2022-06-27T15:04:00Z

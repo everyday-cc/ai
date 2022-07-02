@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "AI in Fintech Market Size Hit USD 49.33 Billion at a CAGR of 38.50% in 2028 | Microsoft, IBM"
-    excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth. Market Size – USD 3,528.1 Million in 2020 ..."
-    publishedDateTime: 2022-06-27T14:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-hit-usd-49-33-billion-at-a-cagr-of-38-50-in-2028-microsoft-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 45
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/922931a3e7c0138fec3e9333ad000cce39e1838a-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Durango fintech company sells to NerdWallet for $120M"
     excerpt: "NerdWallet’s CEO and founder said the Colorado-based platform and proprietary data would enable his company to provide more personalized product recommendations to customers."
     publishedDateTime: 2022-06-27T20:07:00Z

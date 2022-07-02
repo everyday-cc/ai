@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/07/01/advisornet-financial-inc-p
 webUrl: "https://www.defenseworld.net/2022/07/01/advisornet-financial-inc-purchases-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%"
+    excerpt: "Shares of Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The stock traded as high as $20.57 and last traded at $20.57. 452,"
+    publishedDateTime: 2022-07-02T06:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 41
+  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.7% Higher"
+    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT – Get Rating) traded up 0.7% during mid-day trading on Friday . The company traded as high as $37.50 and last traded at $37.40."
+    publishedDateTime: 2022-07-02T06:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/07/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-7-higher.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 37
   - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Bought by Creative Financial Designs Inc. ADV"
     excerpt: "Creative Financial Designs Inc. ADV raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 167.0% in the first quarter, according to the company in its most recent disclosure with the SEC."
     publishedDateTime: 2022-06-28T09:20:00Z

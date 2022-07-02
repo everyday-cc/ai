@@ -19,29 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030"
-    excerpt: "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ..."
-    publishedDateTime: 2022-06-27T14:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27"
+  - title: "The Worldwide NLP In Healthcare And Life Sciences Industry Is Expected To Reach $6.8 Billion By 2028"
+    excerpt: "The 'Global NLP in Healthcare and Life Sciences Market Size, Share & Industry Trends Analysis Report By Component, By Solution Type, By End User, By NLP Type, By Deployment Mode, By Organization Size,"
+    publishedDateTime: 2022-07-01T09:41:00Z
+    webUrl: "https://menafn.com/1104463669/The-Worldwide-NLP-In-Healthcare-And-Life-Sciences-Industry-Is-Expected-To-Reach-68-Billion-By-2028"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?362989"
+        width: 374
+        height: 250
         isCached: true
-  - title: "Machine Learning Market 2022 Emerging Technologies, Global Growth, Share, Industry Size, Major Manufacturers, Regions, and Forecast to 2025"
-    excerpt: "Global “Machine Learning Market” research report includes market size estimates, consumer growth, revenue share"
-    publishedDateTime: 2022-06-29T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-emerging-technologies-global-growth-share-industry-size-major-manufacturers-regions-and-forecast-to-2025-2022-06-29"
+  - title: "The Global Robotic Vision Market size is expected to reach $3.8 billion by 2028, rising at a market growth of 9.3% CAGR during the forecast period"
+    excerpt: "Reportlinker.com announces the release of the report \"Global Robotic Vision Market Size, Share & Industry Trends Analysis Report By Component, By Application, By"
+    publishedDateTime: 2022-06-28T13:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27882326/the-global-robotic-vision-market-size-is-expected-to-reach-3-8-billion-by-2028-rising-at-a-market-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27882326"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27882326"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
   - title: "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-07-01T16:13:00Z
