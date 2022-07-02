@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/ai-is-revitalizing-data-centers/"
 webUrl: "https://www.unite.ai/ai-is-revitalizing-data-centers/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Why synthetic data makes real AI better"
-    excerpt: "When combined with real data, synthetic data creates an enhanced dataset that often can mitigate the weaknesses of the real data.\""
-    publishedDateTime: 2022-06-27T15:38:00Z
-    webUrl: "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/"
-    ampWebUrl: "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1200224477_design_engineering_science.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "UH/8ATtXkKUA3L0Fr4YNUDUecpPSxrvgmI5tfnjboF0Hsjm+lSL2WcZixAgAt3DMVwTZCJPGKVMLxA7HX4Wvjrs/aIZPnbCPHmoR2PTwnim+r1sSzKWhkVXIOiGMHNyjB68IZqqaBEfSKnOS1QRZ9+H8xNsr515Ha02qR7TDxQG9ACk6+0X/US2/c9wOuiLA4Kn1jz0YlMgpy/aA1I4aMgHx2y1iaKWs/zw0+/s6h4ysIEkfd+0OVpTluSLOtfqPvKzglAk2GWZXwFvhkPQe1IxGklMYDaAo9s8jMMwrPlPR4FKXFhNflc5ky/0d4t/TF7MifLmRclzp1mJKfQlQGR/noaT7fhnDY+Y1+MHmAs/EmApj73WS2sNO1NR1DO7JOhRLF2vFlhpDHxh+J1YaLwFINfDrE1L+VcK/l9RMCXy/0jEnMzF2+fH//ReubE1Qci2TYJ4aFuRrmtERz1Bfr+Y0cjTpKAZ0G7Q0BoOPcSxx1+VRj8LQxDJJQAcufWMlh/0gPdoX4QheMsBmymjPsQ==;EjpjOBrscRdU3Xz9s4Gc1A=="
 ---

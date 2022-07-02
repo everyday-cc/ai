@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "It’s alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-06-30T14:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
+  - title: "It's alive! How belief in AI sentience is becoming a problem"
+    excerpt: "An undated handout image from U.S. startup Replika shows a user interacting with a smartphone app to customize an avatar for a personal artificial intelligence chatbot, known as a Replika, in San Fran"
+    publishedDateTime: 2022-06-30T09:04:00Z
+    webUrl: "https://www.reuters.com/news/picture/its-alive-how-belief-in-ai-sentience-is-idUSKBN2OB0SL"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
-        width: 2500
-        height: 1623
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220630&t=2&i=1603087956&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5T0EG"
+        width: 810
+        height: 455
         isCached: true
   - title: "How belief in AI sentience is becoming a problem"
     excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
@@ -105,34 +103,6 @@ related:
       - url: "https://media.moneyweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656597150/editorial/2022/MWE1110.briefing.main_PNA87P.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Can an AI bot convince you that it's sentient?"
-    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
-    publishedDateTime: 2022-06-27T21:00:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
-    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
-    publishedDateTime: 2022-06-30T16:01:00Z
-    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
-        width: 708
-        height: 419
         isCached: true
 
 secured: "QS3DkwUdqr+OjdqZhnL71WU5V1pzujqg6sB5Vxq+2Zwl2L1KirbaERG/E0ksreh5gEfZrhr95rM78TR7IkSvqAsGFdE6MMB4N9UkrSNsVuFW+ICYBhsDV+Py2NLnrjQjY2eCn/hY/P7524A38tXfzjoc+kVjnGWC9lkK8xPA5/DF/VClqLdpvyDTevun+imb+aIJHhf7zc53rYJUIj6WGPEPn2XHI89JkBw4tp2mGQPTyKeMfNEY7KV4tzmozMLK3auYj6XL37wNc9xrha5TV7mxTb7rjjYSHIsXF9lPaTszSch5kJRqSCxv5oeJG60+tYvUAfkoCNr4UMpL2WCWPyp2uc5QRVDGVzri6rLWT996om64ZlGd1t3He0QO3njzfOhfcYxZpdkDnPWhmyGtTO2k7fkwwhj/vWHrW7tZfjG6F122QufeToGsj8dq8JiXEaZSgBG4VHjsRT79YLcUh7JUTiCw3cWLx2uHgwnM5T9DKKfu8uHOhTTvJv8+upbmd+abMzo2YLK2jJyOjJRqMw==;zsK8ph6tH2WwKpyFRgLTFA=="

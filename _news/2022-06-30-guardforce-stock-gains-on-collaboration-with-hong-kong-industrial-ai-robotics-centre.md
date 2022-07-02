@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-co
 webUrl: "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/30/md_sensetime_30062022.jpg?VersionId=aS_XTxKj2ewyxqpRhklxaD87h3lxCTdj"
         width: 860
         height: 573
+        isCached: true
+  - title: "Full text of Xi speech marking 25 years since Hong Kong's return to China"
+    excerpt: "Today we are gathered here to celebrate this grand occasion marking the 25th anniversary of Hong Kong's return to the motherland, and to hold the inaugural ceremony of the sixth-t"
+    publishedDateTime: 2022-07-02T08:02:00Z
+    webUrl: "https://asia.nikkei.com/Politics/Full-text-of-Xi-speech-marking-25-years-since-Hong-Kong-s-return-to-China"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 23
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F9%252F7%252F8%252F41158790-1-eng-GB%252F2022-07-01T034354Z_97428673_RC2R2V9WTAJ1_RTRMADP_3_HONGKONG-ANNIVERSARY.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "fwqeq4R7e868Kp0eg2zUCq2sCgo87OcIYx87Qgel83FR82Hnn9ksstS9f9RV5dyvf0dAsMlMkynwkLejhk47agBKj5JlfvEOBGd2nv1kWHZWIaSptWOqg8z3tF0xnkrVs/7jEwOxPjkYpnRyyTQWOYn9pD96NH6ZWpTIdzQLt6xBkcpxsX81nyktmtCbkXCl9gPnZcvd5CoDkMpZFYwnMaVKG0CKxi0bz4aqigqFOvDKkg8EtGJtU5UY8KQZIR03YrZMWUywfxcxhNeo1cuzQdYkY+LWZrRHarOkv8ZmICq7LhQuLw8mjwRshghe03+X9XkTtyVkgXrRhr5aAX0fKPceTp/h9LNF9tDulij1xCk=;+qvKhzBodCt0OldMLmkQDA=="

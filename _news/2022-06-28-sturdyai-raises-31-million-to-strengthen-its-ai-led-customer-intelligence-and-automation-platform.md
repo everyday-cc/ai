@@ -38,15 +38,6 @@ related:
         width: 1390
         height: 800
         isCached: true
-  - title: "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
-    excerpt: "AMPD Ventures Inc. (CSE: AMPD, OTCQB: AMPDF), a next-generation digital infrastructure provider, announced that it has signed a deal with Variational AI Inc. to increase Variational's machine learning infrastructure hosted at AMPD's DC1 sustainable data centre."
-    publishedDateTime: 2022-06-27T15:59:00Z
-    webUrl: "https://www.bctechnology.com/news/2022/6/27/AMPD-Signs-Deal-with-Variational-AI-to-Increase-Its-Machine-Learning-Platform-at-DC1.cfm"
-    type: article
-    provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 29
   - title: "AI Squared raises USD 6M in funding for its AI integration platform"
     excerpt: "AI Squared Inc., an AI startup, has announced that it has raiused a USD 6 million seed funding round from NEA and Ridgeline Partners."
     publishedDateTime: 2022-06-28T12:30:00Z
@@ -56,20 +47,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 17
-  - title: "Breakthrough AI Integration Platform AI Squared Raises $6 Million Seed Financing led by NEA and Ridgeline Partners"
-    excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI Squared, the low-code AI integration platform, today announced it has raised $6 million Seed financing by global venture capital firm NEA with participation from Ridgeline Partners."
-    publishedDateTime: 2022-06-27T15:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-venture-capital-artificial-intelligence-c1de2afaf5415e87fe852f1b33642f32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "2ZdLHSbai4JYLXLABUlARzpglg1mJb9KVMvqZDfw45AXqzTtvs0V59E3gXT5h3ec36CUC2oxBSOu/TWjc/hAwCiMcLULASTPGdHIbui0AgZH1adnbYoKXlXxdygjrBHpLQ6rGroqitEZr9arPmQMJ5nG8eTGRZwHSLPQUtYTkvBs2x2bmuwUEXZbo9RmWzoYk/UsHW8xRAZa7JsvYt31TbbLZu58qor40bmH92SbVpXm7CLYEKoF9nfTd0JeTMGSuqJC9z6cbLHxts1F1cW0lfvy01AhcFv1LnJUsazeh5aT2gq5lzykfOd5yVWkdqVu0r4Hd+5PJ0frvs0lbvApTgyEZ9CMuRYwrwalskJZxRE=;dz8IIH5Pi0SUGWqbxcBKVA=="
 ---

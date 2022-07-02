@@ -3,8 +3,8 @@ category: news
 title: "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow"
 excerpt: "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale"
 publishedDateTime: 2022-06-27T18:08:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html"
 type: article
 quality: 49
 heat: -1
@@ -68,6 +68,6 @@ related:
       domain: enterprisetalk.com
     quality: 30
 
-secured: "vWPjpMXWgJS39GAEYfX70lilKjaixOem9HOuOmAlKzz2I+dSm0RDM3QCq/SVd4kjg882JXA+ikcY6kiDTlwoQxizdnbiCO2rxRcAhToua++Cs+GvFbR5JZ66ro5ikZ3zJmrwphfHVhakAjL5ug9PljV88S0jX4gSrhbrPgvIFoNZ7mdQ/ys9vXQDcSRzRWVkbSMovw9jXwtvytlsvtvoUxXzwWt7HbvRxOtaVa4qwFsxKK6TDm4V6pthJ5/aPFbl7qyjKV6momAbeajtWUidZWjWUd5fe4pn+1xleowpzOtjbvzaozGAa9YoqRF9JU+/U6TnstQhyKYkwS5yz5kbbkt87BgVJGvzBNBDYKw64fL74jD9DIQzrhYNWC2HuweZalPkpMAAJVINkrtXPPhVnypy9fHADuWtGJc8zOvorqoZBKRZvPEa7VZPyJzwF/jcg20Qec6+mY3e2vklB9uuE5KSGO82FW4lcl1J2msQDfUZvbq/Qn4f1Vij7amDSc68JeVtetBx1yOaj7SMY6gbQA==;SFSve4ydvBbI3DndFW5AgA=="
+secured: "w5An/4AtmR9XnY0DpzOOXCO8a+LHfWvkIrrmxF3oy9da5422KsOHetvAG6T4Mu3EDypQCB02Hteuh6MdRRl6dBx55h3IUknqBiJ1ee4+vZXR51WGwbP61p3s/sxVMc29zYZY3O+nhRrBJ/kCQvCropBtkwXh+e2VSRbl9Y/5gcEIjCgXYjCEV6XVvNcMcqKtzG+/JDguejPrxncfflFBKzwc8YMQ8JZx5gOUNXilWveXfWyGQKSEHOILdLOhiEAuv69ZZeJypjpq1pb06mBv7d15tu0xXsehslLql5/hpGJWIxAnKH4MmSAD5zsP/AkBd43wpeZ0dM60WMZDOwrSfDzJq+JCf2RJ8O8pJeXKZhI=;w+Q2y6kCnZ/5dUgo2GxN/Q=="
 ---
 

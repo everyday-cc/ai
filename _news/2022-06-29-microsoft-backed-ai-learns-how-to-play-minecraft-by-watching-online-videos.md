@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to
 webUrl: "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/"
 type: article
 quality: 82
-heat: 122
+heat: 102
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS, Microsoft, Google Top Cloud AI Developer Market: Gartner"
-    excerpt: "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping $135 billion by 2025, according to IT ..."
-    publishedDateTime: 2022-06-27T15:12:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/aws-microsoft-google-top-cloud-ai-developer-market-gartner"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 73
-    images:
-      - url: "https://www.crn.com/resources/0273-14b82b7c6db9-8d7b4fa5b5c9-1000/ai-artificial-intelligence-mind.jpg"
-        width: 608
-        height: 457
-        isCached: true
   - title: "Visonify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
     excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
     publishedDateTime: 2022-06-30T14:06:00Z
@@ -65,20 +51,6 @@ related:
       - url: "https://assets1.ignimgs.com/2019/03/18/minecraft-1552946351168.jpg?width=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "This AI learned to play Minecraft after watching 70,000 hours of YouTube videos"
-    excerpt: "An AI has learned to play Minecraft after watching YouTube videos of people playing the game for 70,000 hours. If movies have taught us anything, it's that we're inevitably hurtling toward a future where robots will become so advanced that they'll rise up against their creators and wage war on humankind."
-    publishedDateTime: 2022-06-27T15:04:00Z
-    webUrl: "https://www.gamesradar.com/this-ai-learned-to-play-minecraft-after-watching-70000-hours-of-youtube-videos/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 33
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/x5GaA4GkehF4fUQjTExNoZ-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "W8zvlKWKuMsYpexdv5HJUsK7/SRVtE1dTQnSoeeIUZYj7XPz24Cu5W5YsClBJvUzpASg5E4woja1EjpDfi83UYb95YMvJWDeBO7FRFtmNpIg38L6HszTcWffWGZnK72BEqssCbewint27V0Puq0LgHmWrtOpvZTYNZ/DJ+KUirBCbbx5eu9boEO0ITpadMhClm/J9fa3ZiaxgtsQDay38fKzTblplWNM4TXpm1IF2PUES0xLz0Risu1BXA6+vbCkMGfQFCNMloMihOaICb183pOkkru8r/Tdpg8B7wLLSAGAzEjNMmQedzsw5iXevb4KBBMPUfUBgWWgPUWvY6ELBSC/Bq05xRWKu4Bd4fdauas=;H3Ty9DEJE3h7+uhcSKTcmg=="

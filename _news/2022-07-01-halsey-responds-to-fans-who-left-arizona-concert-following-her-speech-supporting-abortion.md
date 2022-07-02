@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Halsey responds to fans who left Arizona concert following her speech supporting abortion"
-excerpt: "Singer Halsey doubled down on supporting abortion rights while responding to fans who left upset from her Sunday night concert in Phoenix, Arizona."
-publishedDateTime: 2022-07-01T14:50:00Z
-originalUrl: "https://www.fox10phoenix.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
-webUrl: "https://www.fox10phoenix.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion"
-ampWebUrl: "https://www.fox10phoenix.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
-cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.amp"
+excerpt: "Halsey responded to fans on social media following Sunday's concert in Arizona where she voiced pro-choice views, prompting some audience members to leave the show."
+publishedDateTime: 2022-06-30T21:34:00Z
+originalUrl: "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion"
+webUrl: "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion"
+ampWebUrl: "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 65
+heat: 75
+published: true
 
 provider:
-  name: FOX 10 Phoenix
-  domain: fox10phoenix.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/07/932/470/GettyImages-1135889547.jpg?ve=1&tl=1"
-    width: 932
-    height: 470
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/1200/675/a831e3da-halsey.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -39,6 +43,6 @@ related:
       domain: fox6now.com
     quality: 15
 
-secured: "xjcuNUeodwUOk7u3LM27ElOdxb8kIaX1PZnaw6vroJ1JYDGn6dWDK9O8VN7dIuN2e/OT+TEQD33HhUttxMtK3GsyXZofeckmNDrWKQIHEjBBWKl9Etxcvs8yHIlfFIXzEQFu7KW/FwivgIUospDPMYwn6htPtHh/TAHP3p5UF8+3uecVwhYRk03suIpeggYa6omSnjFkkwXT0HCCneOht0u4j7D6WOAvUW7yNWeoLzA2URGLEHC4rweA48VndzxIJCDLp7IGuQvu6MLV/Ab9zfuwcz9yeNHobXqAZrdjupfeqiA85DUCl/4myadlLk19yGWJo6ly16OmWZpBxtwZtWkU4pszuUBle0pUOFacmUpl9YWJ8/DzVTX7E4yfMDvNipcJaDAYKhxn8Mx/U8HVayRsCYBo58yE2fONo1Pvwaq7V9eSLMKz2tgJGrqqWV3Y4bHzB/WXcZRlWrRWlQRc1osraoZa03d0ZkloNl6Hor0TdWXtRUx2fRYRboW07+u84Vc5JZR7agcjYY6Sq2h99Q==;GVqefb9aCafsNxubiQBvdQ=="
+secured: "xlXyJo0O57n6Lchevg5ObATpIw4QMhj12hNp+14b9X9j6C9Dnuu37wxf4KhCnNCdGOSjFguiS4eNhxy/oaOqhobgkCz0UZyZ803boT4WMiTxj0JlAxS/UZQiM5Rv0gl/e/JZZDykZRfsY2Qufnx2JFEhfKogAwCrf8d6BR1arOAZIwq6PUwh0z3nJgJnExxH52NA6iyGWF3gEaqHFWxfyUF491dcBC4Ea6vIaTI32P5czpa85PINSsc9eOSkyfGZKVMCmUoF11zhqrY2+yipszeE2aDq2tB9/Qi60ykdkzWkk95ML8bvGrP+vYCTTiQsEAjlWq6l1JBhPka9df6/hz5rw8VTr6XElwwG1UhGgRU=;OXI1NKzpPUvtVBi9mO7c7w=="
 ---
 

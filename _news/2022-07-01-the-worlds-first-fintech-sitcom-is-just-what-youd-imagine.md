@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Adyen: FinTech Titan, Fairly Valued With A Huge Moat"
-    excerpt: "Adyen N.V. is a Dutch multinational payments company which serves leading companies such as; Facebook, Spotify, Microsoft, and more. Read more about ADYEY here."
-    publishedDateTime: 2022-06-27T15:55:00Z
-    webUrl: "https://seekingalpha.com/article/4520520-adyen-fintech-titan-fairly-valued-with-a-huge-moat"
+  - title: "Fintech firm takes space at Liverpool’s Spine"
+    excerpt: "Having a fast-growing, leading UK Fintech brand located within the Sciontec AI space at The Spine will not only add to the dynamic ecosystem here, but it will be a driver for even greater job creation,"
+    publishedDateTime: 2022-06-28T07:10:00Z
+    webUrl: "https://www.placenorthwest.co.uk/fintech-firm-takes-space-at-liverpools-spine/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
+      name: Place North West
+      domain: placenorthwest.co.uk
+    quality: 24
     images:
-      - url: "https://static.seekingalpha.com/uploads/2022/6/26/55230498-1656252847202421.png"
-        width: 640
-        height: 238
+      - url: "https://www.placenorthwest.co.uk/wp-content/uploads/The-Spine-LCC-p.Inform-Comms.jpeg"
+        width: 1024
+        height: 777
         isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine"
     excerpt: "A fintech provider has signed a three-year deal with Sciontec Developments at The Spine, an award-winning scheme in Liverpool."
@@ -52,20 +52,6 @@ related:
       - url: "https://www.insidermedia.com/uploads/news/resized/Spine2-40876-1621522090-%281%29-65271-1653038839-67832-1656398370.jpg"
         width: 578
         height: 325
-        isCached: true
-  - title: "HP ‘Gets Ahead’ with fintech sitcom"
-    excerpt: "Hewlett Packard Enterprise (HPE) and NVIDIA, have released the first episode of their unique fintech comedy mini-series Get Ahead."
-    publishedDateTime: 2022-07-01T10:30:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40561/hp-gets-ahead-with-fintech-sitcom"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/screenshot-2022-07-01-114034.png"
-        width: 480
-        height: 270
         isCached: true
   - title: "Fintech provider signs Sciontec deal at The Spine as part of huge jobs drive"
     excerpt: "The biggest letting so far at a flagship Liverpool site could lead to the creation of hundreds of jobs over the next five years. Cashplus Bank has signed a three-year deal with Sciontec Developments Limited (Sciontec) to take around 6,"

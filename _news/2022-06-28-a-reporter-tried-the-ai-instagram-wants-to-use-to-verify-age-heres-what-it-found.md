@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/27/tech/instagram-ai-age-estimation-face-scan/index.html"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Instagram is testing AI that verifies your age with selfie scan"
-    excerpt: "Instagram is testing new ways to verify its youngest users' ages, including by using artificial intelligence that analyzes a photo and estimates how old the user is."
-    publishedDateTime: 2022-06-27T16:51:00Z
-    webUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-    ampWebUrl: "https://nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/cnn/cnn-tech/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2022/06/instagram-AI-tech.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Instagram’s New AI Tool for Age-Verification"
     excerpt: "Instagram is testing various new ways for age verification of its youngest users. Yoti’s AI tool is one of them."
     publishedDateTime: 2022-06-28T07:38:00Z

@@ -54,19 +54,21 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "FinTech chatbot startup Finn AI gets acquired by former partner Glia"
-    excerpt: "Vancouver-based startup Finn AI has been acquired by its former partner Glia, a SaaS company based in the United States (US). “Until now, none of the financial services bot vendors have been able to achieve widespread adoption on their own."
-    publishedDateTime: 2022-06-27T16:13:00Z
-    webUrl: "https://betakit.com/fintech-chatbot-startup-finn-ai-gets-acquired-by-former-partner-glia/"
+  - title: "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI"
+    excerpt: "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022"
+    publishedDateTime: 2022-07-02T09:11:00Z
+    webUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget"
+    ampWebUrl: "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
+      name: inc42.com
+      domain: inc42.com
+    quality: 54
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/06/Finn-AI-founders.jpg"
-        width: 1050
-        height: 700
+      - url: "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg"
+        width: 1201
+        height: 629
         isCached: true
   - title: "AI in FinTech Industry Analysis By The Business Research Company"
     excerpt: "The AI in fintech market consists of sales of AI as software by entities (organizations, sole traders, and partnerships) that are used in the fintech space. AI is a part of fintech companies in terms of collection of data,"

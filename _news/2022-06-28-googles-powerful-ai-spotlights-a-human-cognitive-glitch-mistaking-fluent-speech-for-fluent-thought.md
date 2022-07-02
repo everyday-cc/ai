@@ -32,22 +32,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google’s Powerful AI Spotlights a Human Cognitive Glitch: Mistaking Fluent Speech for Fluent Thought"
-    excerpt: "Kyle Mahowald, The University of Texas at Austin College of Liberal Arts and Anna A. Ivanova, Massachusetts Institute of Technology (MIT) When you read a"
-    publishedDateTime: 2022-06-27T16:43:00Z
-    webUrl: "https://innotechtoday.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/"
-    ampWebUrl: "https://innotechtoday.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/amp/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 42
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2022/06/image-1.jpeg"
-        width: 754
-        height: 496
-        isCached: true
   - title: "Google’s AI Spotlights a Human Cognitive Glitch: Mistaking Fluent Speech for Fluent Thought"
     excerpt: "Every time you engage in conversation, your mind automatically constructs a mental model of your conversation partner."
     publishedDateTime: 2022-06-30T14:00:00Z

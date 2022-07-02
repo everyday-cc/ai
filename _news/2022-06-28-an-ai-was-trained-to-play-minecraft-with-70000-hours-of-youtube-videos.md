@@ -38,20 +38,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "AWS, Microsoft, Google Top Cloud AI Developer Market: Gartner"
-    excerpt: "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping $135 billion by 2025, according to IT ..."
-    publishedDateTime: 2022-06-27T15:12:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/aws-microsoft-google-top-cloud-ai-developer-market-gartner"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 73
-    images:
-      - url: "https://www.crn.com/resources/0273-14b82b7c6db9-8d7b4fa5b5c9-1000/ai-artificial-intelligence-mind.jpg"
-        width: 608
-        height: 457
-        isCached: true
   - title: "Visonify.ai Strongarms its AI Engineers with Microsoft Azure Certification Courses"
     excerpt: "Visionify understands that AI and ML, with Azure at their center, are the present and future of technology. By having Azure certified AI and ML engineers, the company will be able to boost productivity in terms of building automated ML pipelines and deploying solutions on the go."
     publishedDateTime: 2022-06-30T14:06:00Z
@@ -61,20 +47,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 43
-  - title: "This AI learned to play Minecraft after watching 70,000 hours of YouTube videos"
-    excerpt: "An AI has learned to play Minecraft after watching YouTube videos of people playing the game for 70,000 hours. If movies have taught us anything, it's that we're inevitably hurtling toward a future where robots will become so advanced that they'll rise up against their creators and wage war on humankind."
-    publishedDateTime: 2022-06-27T15:04:00Z
-    webUrl: "https://www.gamesradar.com/this-ai-learned-to-play-minecraft-after-watching-70000-hours-of-youtube-videos/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 33
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/x5GaA4GkehF4fUQjTExNoZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Q50H5TtGSd3Op0WKSxc8KmAyFNwrToCzndrkRDsqEM48Vami/lpPqlsysOY88zCL9OgLxN5z5fpo64n4B4AmFegxFnAPoWfHqad3ND2WIppjkGc+xNYpF0ugMKkQerDyoWN/dUO/SDKXD1Y8lUXABrSy5yXbw29PKtsBEEkeYSmslbfmzCkjuBiMb++5P6/z3paBrY2KLyIf+hUCdMbT1IAAmV9Gro55Hb6DFJ5U+BC0AyDIleNJ9vltB9g9zDzWsY1IpdysCBnnnSPD6XP2Q2S59P/D9KxIZleLpqEe7/YJpvel2yvOeMLOdwDnyU2blQyQu64E8Klpo9lqpITXvKELGmn/NC2j29ZSXBrhMIrEpRl3DGRW9mM8/nLgze0fsvv1CdAfMX+o7dZRZPDdzYH+NKVkA3/VYRV0LYS4bAMuqGcKZFqZIicwq4az3PzdkRos2UiFJcbfTxQUZvezshtcVImsi/6lKv97bIj75jFP2+Pi0im5bPwE4FvMF3iGjXgsNYW9hFSVHnqNaA4YTA==;Kt4z2F3PY0F9wSYAD5qLjw=="
 ---

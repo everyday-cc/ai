@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK to investigate the safety and potential of self-driving cars"
-    excerpt: "As a result of these accidents, six people lost their lives. This week, the UK Highway Code will be updated to ensure that users of self-driving cars are not held responsible for crashes. Instead, it will be insurance companies that will be liable in ..."
-    publishedDateTime: 2022-06-27T15:52:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/06/uk-to-investigate-the-safety-and-potential-of-self-driving-cars/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/18700/dreamstime_l_134441594.jpg?crop=0,0.32666666666666672,0,0.18114583333333328&cropmode=percentage&width=1200&height=450&rnd=133008144110000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "A new section for self-driving vehicles has been added to the Highway Code"
     excerpt: "The changes are included in a new section in The Highway Code which can be accessed for free on GOV.UK. Currently only vehicles with advanced driver assistance systems are availab"
     publishedDateTime: 2022-07-01T09:44:00Z

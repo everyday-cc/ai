@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Full text of Xi speech marking 25 years since Hong Kong's return to China"
+    excerpt: "Today we are gathered here to celebrate this grand occasion marking the 25th anniversary of Hong Kong's return to the motherland, and to hold the inaugural ceremony of the sixth-t"
+    publishedDateTime: 2022-07-02T08:02:00Z
+    webUrl: "https://asia.nikkei.com/Politics/Full-text-of-Xi-speech-marking-25-years-since-Hong-Kong-s-return-to-China"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 23
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F9%252F7%252F8%252F41158790-1-eng-GB%252F2022-07-01T034354Z_97428673_RC2R2V9WTAJ1_RTRMADP_3_HONGKONG-ANNIVERSARY.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "UPOmR+xoFEjUhqAU2S/KrWWJnZmzAQcMDXdrCUu7q/1xGGQD+mw3n1wVRTgs+Ba+7ncO9cqsDQLCY6MDc+VLvVFyyfuWCiKBej8d8tYBC3efJyZYuTnv+4uF7uWkU/fziPPelxyAxDfdflRlVm4VgBiZg+7CJda3uAqYdKmjYK6c/LNxhKFr/I/GRBb5eyIZ1MSnN0o71dlnEMUurIuQb9IkRnVCd3oI5HuiwrdhK1XSpeAsO3iAxyPHklGxL+i9983xhi8EQQLE/gXT0W9VuZCNRKXX1BXkYSk1p6qS4j2fS0t32+OPQmWVB8yzu2Vgk2gXyDctLiYyZCFjVFxYZ9wmw0NVm3LQSO17/GCKclvsuNv95hVcF5x0ue6b5nDchd4hffwVEQ7+c7llCICeVTFBotZKY/KuPCXoHXREcqO9wk0tWz5Dhz7UV7l6rbOiUviLITcWhy0shv84EOqa9RnO0CXzSLzxilwgkqVhO1wg49DdsAvem4DEk4/I81+89NMx/gnHkCZornY/NuHUYg==;050yVw12tSqPZjzjs/3EIg=="
 ---

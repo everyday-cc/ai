@@ -32,15 +32,6 @@ related:
         width: 1390
         height: 800
         isCached: true
-  - title: "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
-    excerpt: "AMPD Ventures Inc. (CSE: AMPD, OTCQB: AMPDF), a next-generation digital infrastructure provider, announced that it has signed a deal with Variational AI Inc. to increase Variational's machine learning infrastructure hosted at AMPD's DC1 sustainable data centre."
-    publishedDateTime: 2022-06-27T15:59:00Z
-    webUrl: "https://www.bctechnology.com/news/2022/6/27/AMPD-Signs-Deal-with-Variational-AI-to-Increase-Its-Machine-Learning-Platform-at-DC1.cfm"
-    type: article
-    provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 29
   - title: "SturdyAI Raises $3.1 Million to Strengthen its AI-led Customer Intelligence and Automation Platform"
     excerpt: "Now using AI and automations businesses can proactively understand whether their customers are likely to churn, which features will entice them to renew, are they experiencing bugs, are they happy or not, and much more.,\" said Lawson DeVries, Managing ..."
     publishedDateTime: 2022-06-28T11:29:00Z
@@ -54,20 +45,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
-        isCached: true
-  - title: "Breakthrough AI Integration Platform AI Squared Raises $6 Million Seed Financing led by NEA and Ridgeline Partners"
-    excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI Squared, the low-code AI integration platform, today announced it has raised $6 million Seed financing by global venture capital firm NEA with participation from Ridgeline Partners."
-    publishedDateTime: 2022-06-27T15:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-venture-capital-artificial-intelligence-c1de2afaf5415e87fe852f1b33642f32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "osBnWelH+L5BtrXLczg9mjERtCbvx1VbhON/2XndD2JmwyAHpblHbhs+wvjZJgPjptDdATpCM8CNxrd2+eFt22810kiF+d+mC5KA1LWzNKQROZ946d4eudF9i/u4kND36BJkvazW/WMBbOPxj/DewvtUxroPqj1pU09tWickS9C4UhUSG5b6Fcb247krI9o7LmjlGXZ9IIpT1EbnhuftmvvxHHElkfbdCH8mIqyz0GbtYtKnls/PQ2+4RysQhwT29oKe/51vptvLDJkmO2Shy7FpJDAqBYROh+5vwm8GiDMq3ElU2cxWXl1G4oLiGsqc0eHB1Ue6H52I7lftHUCJTEn+P1snkpQWs/btCgFN6ok=;XnFLgrInafOJCeaj2vRRlg=="

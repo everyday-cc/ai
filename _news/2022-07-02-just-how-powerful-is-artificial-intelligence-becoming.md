@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "It’s alive! How belief in AI sentience is becoming a problem"
-    excerpt: "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-06-30T14:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna36110"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110"
+  - title: "It's alive! How belief in AI sentience is becoming a problem"
+    excerpt: "An undated handout image from U.S. startup Replika shows a user interacting with a smartphone app to customize an avatar for a personal artificial intelligence chatbot, known as a Replika, in San Fran"
+    publishedDateTime: 2022-06-30T09:04:00Z
+    webUrl: "https://www.reuters.com/news/picture/its-alive-how-belief-in-ai-sentience-is-idUSKBN2OB0SL"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg"
-        width: 2500
-        height: 1623
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220630&t=2&i=1603087956&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5T0EG"
+        width: 810
+        height: 455
         isCached: true
   - title: "How belief in AI sentience is becoming a problem"
     excerpt: "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave after he went public with his belief that the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
@@ -103,34 +101,6 @@ related:
       - url: "https://www.rappler.com/tachyon/2022/07/AI-sentient-shutterstock-July-2-2022.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Can an AI bot convince you that it's sentient?"
-    excerpt: "Google engineer Blake Lemoine brought an unusual concern to his company earlier this month: he feared the AI language program he was working with had gained sentience. Even if he's wrong (and Google certainly thinks he is) -- is the fact that an AI bot can imitate sentience so convincingly reason enough to be worried?"
-    publishedDateTime: 2022-06-27T21:00:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0chh980"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cg21t5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Is AI Sentience Becoming A Reality Or Are Machines Just Getting Better At Conversation?"
-    excerpt: "AI chatbot company Replika is receiving messages from customers who believe their AI companions are actually sentient"
-    publishedDateTime: 2022-06-30T16:01:00Z
-    webUrl: "https://hothardware.com/news/is-ai-sentience-becoming-reality-or-are-machines-getting-better-at-conversation"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58987/content/ai-human.jpg"
-        width: 708
-        height: 419
         isCached: true
 
 secured: "BjO5r2S4vmXuOaehEjiRYh84PMrTJgGR/65GPqp+qrwK3+5peyP1QzI2TYwmZYFPRzAtCKk7Smiq2dM3trAbMdzFYGssxKpopVV54SI1wGIq3ae7pQWe21TRfwl3RfJt5XjifEw2KIr4n1cSaWNK92wR5+K8pHmF4sHAoQ72hp8pKXhL0KC3nNAL3eEzPvF+AWU8l2MfYlLefiMLk0bN45bJWqSSgUhqBS/OeXlSIBEOrVfQ/lfc0U3xp01wieEw3Farcc0gSisF+lRtO1TV6tkAhmhO3JCW+JfQFT8kULam849lX4Ro3VzNxvu9CbI623Bqyl3EdZYnld6IL4E7Ghwx9FfuvxbwaM3zxt9PXEg=;DA753nOhCx1k1waFUKso4g=="

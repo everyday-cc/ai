@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
-    excerpt: "AMPD Ventures Inc. (CSE: AMPD, OTCQB: AMPDF), a next-generation digital infrastructure provider, announced that it has signed a deal with Variational AI Inc. to increase Variational's machine learning infrastructure hosted at AMPD's DC1 sustainable data centre."
-    publishedDateTime: 2022-06-27T15:59:00Z
-    webUrl: "https://www.bctechnology.com/news/2022/6/27/AMPD-Signs-Deal-with-Variational-AI-to-Increase-Its-Machine-Learning-Platform-at-DC1.cfm"
-    type: article
-    provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 29
   - title: "SturdyAI Raises $3.1 Million to Strengthen its AI-led Customer Intelligence and Automation Platform"
     excerpt: "Now using AI and automations businesses can proactively understand whether their customers are likely to churn, which features will entice them to renew, are they experiencing bugs, are they happy or not, and much more.,\" said Lawson DeVries, Managing ..."
     publishedDateTime: 2022-06-28T11:29:00Z
@@ -56,20 +47,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 17
-  - title: "Breakthrough AI Integration Platform AI Squared Raises $6 Million Seed Financing led by NEA and Ridgeline Partners"
-    excerpt: "Minority-Owned Startup Enables Enterprise-scale, Low-code Adoption of Real-time Machine Learning WASHINGTON, June 27, 2022 /PRNewswire/ -- AI Squared, the low-code AI integration platform, today announced it has raised $6 million Seed financing by global venture capital firm NEA with participation from Ridgeline Partners."
-    publishedDateTime: 2022-06-27T15:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-venture-capital-artificial-intelligence-c1de2afaf5415e87fe852f1b33642f32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "+S/O6+tEbwMS0nz6y7JxtlHi8hyB3vmyCxA9Y+bMewCPRQOXo3bNI2JtjJsriD1MtC9NmRtivAeAlmOiSeXKK2lEmXGP0eozTf7J1Ffh2dmC2F4M/9Rhi7Bej/J5B4/11cGQy/7OBEtYsF5hZD3CN3T3L7kEH8A7EUOJJ1lTbzLouzFmdjgupdbZFUNn8uuUJRxsNMwxlzbaduxRMPLhccXBw5qm6RDIjGTdRdZou7GPPAlQUNrw5CIfNOcemJdYjgnRImPuu5Njwx1Htn3w8GwuX/2umKz+XWVaFH5YrBdZCtdV3rWN/pleR5iEIaLbZrQTncfz04Re3PT/h62u0upy3lehni3UouJYbbh7eXCZNehsECRMi1NpVFe46xiMzybGAecnx+ZP1G0kXAMrUOTMT2BMJBgjCMXwuDLBB2Ri7CM4Ryot7avajsY0OFQ+8vOGjBNZq99cP1WaYm8Q26vb0J4XqCPRQdBgNkDWO30RS4LGsBC9DpySRenIivSSMWTT0jJQ/uiWCGpQTnvnZA==;YUZWXa98StvZt6iCxygWQw=="
 ---
